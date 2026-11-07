@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>世界遗产旅行指南 · World Heritage Travel Guide</title>
+  <meta name="description" content="中国 5A 景区与海外 UNESCO 世界遗产的双语旅行数据：交通、机场、酒店、签证、多语言信息。Bilingual guide to China 5A scenic areas and UNESCO World Heritage sites.">
+  <link rel="canonical" href="https://yanqingwang.github.io/world-heritage-travel-guide/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="世界遗产旅行指南 · World Heritage Travel Guide">
+  <meta property="og:description" content="359 个中国 5A 景区 + 1,213 个海外 UNESCO 世界遗产，中英双语交通、酒店、签证与多语言信息。">
+  <meta property="og:url" content="https://yanqingwang.github.io/world-heritage-travel-guide/">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="./assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏛️</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">WH</span>
+      <div>
+        <h1 id="site-title">世界遗产旅行指南</h1>
+        <p id="site-subtitle" class="subtitle">中国 5A 景区 · 海外 UNESCO 世界遗产</p>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-tab="china" role="tab" aria-selected="true">中国 5A</button>
+      <button class="tab" data-tab="world" role="tab" aria-selected="false">海外世界遗产</button>
+    </nav>
+    <div class="top-actions">
+      <button id="lang-toggle" class="ghost" type="button" aria-label="Switch language">EN</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow" id="hero-eyebrow">公开数据 · 每周更新</p>
+        <h2 id="hero-title">从 5A 景区到世界遗产，一次查清怎么去、住哪里、是否免签。</h2>
+        <p id="hero-text" class="hero-text">官方名录、维基百科、OpenStreetMap 与 UNESCO 多语言文本合并为一份可检索的数据集。</p>
+      </div>
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <section class="controls" aria-label="Filters">
+      <div class="search-wrap">
+        <span class="search-icon">⌕</span>
+        <input id="search" type="search" placeholder="搜索景区、城市、国家…" autocomplete="off">
+      </div>
+      <select id="country-filter" aria-label="Country"></select>
+      <select id="category-filter" aria-label="Category"></select>
+      <select id="visa-filter" aria-label="Visa"></select>
+      <select id="tier-filter" aria-label="Data tier"></select>
+      <button id="reset" class="ghost small" type="button">重置</button>
+    </section>
+
+    <div class="result-bar">
+      <p id="result-count">—</p>
+      <p id="result-note" class="muted"></p>
+    </div>
+
+    <section id="cards" class="cards" aria-live="polite"></section>
+    <div class="load-wrap">
+      <button id="load-more" class="primary" type="button" hidden>加载更多</button>
+    </div>
+    <div id="empty" class="empty" hidden>
+      <p>没有找到匹配的目的地。</p>
+      <p class="muted">试试清空筛选条件，或换一个关键词。</p>
+    </div>
+  </main>
+
+  <footer>
+    <p id="footer-line">数据来源：文化和旅游部、UNESCO、Wikipedia、Wikidata、OpenStreetMap、OurAirports。图片版权归原作者，详见条目内署名。</p>
+    <p class="muted small" id="footer-note">距离为直线距离；酒店/交通来自 OpenStreetMap，可能存在遗漏；签证政策会变化，出行前请以官方发布为准。</p>
+  </footer>
+
+  <dialog id="detail" class="detail">
+    <div class="detail-head">
+      <div class="detail-title-wrap">
+        <p id="detail-kicker" class="eyebrow"></p>
+        <h2 id="detail-title"></h2>
+        <p id="detail-sub" class="subtitle"></p>
+      </div>
+      <button id="detail-close" class="icon-btn" type="button" aria-label="Close">✕</button>
+    </div>
+    <div id="detail-body" class="detail-body"></div>
+  </dialog>
+
+  <script src="./assets/app.js"></script>
+</body>
+</html>

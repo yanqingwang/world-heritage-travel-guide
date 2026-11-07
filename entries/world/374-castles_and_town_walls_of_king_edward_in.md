@@ -1,0 +1,70 @@
+---
+id: "wh-374"
+dataset: "unesco"
+name_zh: "圭内斯郡爱德华国王城堡和城墙"
+name_en: "Castles and Town Walls of King Edward in Gwynedd"
+name_local: ""
+country: "GB"
+country_zh: "英国"
+country_en: "United Kingdom"
+unesco_id: "374"
+tier: "basic"
+category: "Cultural"
+year: "1986"
+criteria: "(i)(iii)(iv)"
+lat: 53.139722222
+lon: -4.276944444
+updated_at: "2026-11-08T11:24:48Z"
+---
+
+# 圭内斯郡爱德华国王城堡和城墙 / Castles and Town Walls of King Edward in Gwynedd
+
+> 英国 · Gwynedd, North Wales · 文化遗产
+
+## 图片 / Images
+
+![Caernarfon Castle 1994.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Caernarfon%20Castle%201994.jpg?width=1280)
+
+*Caernarfon Castle 1994.jpg · see Wikimedia Commons file page*
+
+![Castles and Town Walls of King Edward in Gwynedd](https://whc.unesco.org/uploads/sites/site_374.jpg)
+
+*Castles and Town Walls of King Edward in Gwynedd · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+博马里斯和哈勒赫城堡（主要由军事工程师圣乔治建造）及卡那封和康韦防御工事位于威尔士北部圭内斯郡的前首府。它们保存极为完好，是爱德华国王统治时期（1272-1307年）殖民和防御工事的典型，反映了当时的军事建筑风格。
+
+### English
+
+The castles of Beaumaris and Harlech (largely the work of the greatest military engineer of the time, James of St George) and the fortified complexes of Caernarfon and Conwy are located in the former principality of Gwynedd, in north Wales. These extremely well-preserved monuments are examples of the colonization and defence works carried out throughout the reign of Edward I (1272–1307) and the military architecture of the time.
+
+## 交通 / Transport
+
+- ✈ **Liverpool John Lennon Airport (LPL)** — 97.4 km
+- ✈ **Isle of Man Airport (IOM)** — 107.4 km
+- ✈ **Manchester Airport (MAN)** — 134.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8120.2 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**unknown**
+
+—
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en, ja, ko
+
+- UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/374)
+- [Wikipedia](https://en.wikipedia.org/wiki/Castles%20and%20Town%20Walls%20of%20King%20Edward%20in%20Gwynedd)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

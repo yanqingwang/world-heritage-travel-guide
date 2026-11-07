@@ -1,0 +1,70 @@
+---
+id: "wh-1711"
+dataset: "unesco"
+name_zh: "阿洪姆王朝的土丘墓葬系统（印度）"
+name_en: "Moidams – the Mound-Burial System of the Ahom Dynasty"
+name_local: ""
+country: "IN"
+country_zh: "印度"
+country_en: "India"
+unesco_id: "1711"
+tier: "basic"
+category: "Cultural"
+year: "2024"
+criteria: "(iii)(iv)"
+lat: 26.943611111
+lon: 94.875
+updated_at: "2026-11-08T11:24:57Z"
+---
+
+# 阿洪姆王朝的土丘墓葬系统（印度） / Moidams – the Mound-Burial System of the Ahom Dynasty
+
+> 印度 · 文化遗产
+
+## 图片 / Images
+
+![Maidams (N-AS-24).jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Maidams%20%28N-AS-24%29.jpg?width=1280)
+
+*Maidams (N-AS-24).jpg · see Wikimedia Commons file page*
+
+![Moidams – the Mound-Burial System of the Ahom Dynasty](https://whc.unesco.org/uploads/sites/site_1711.jpg)
+
+*Moidams – the Mound-Burial System of the Ahom Dynasty · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+该遗产地是阿洪姆（Ahom）王朝的皇陵，位于阿萨姆邦东部的巴特开山麓。在600年时间里，阿洪姆人利用山丘、森林、水域等自然地形建造土丘墓穴“马伊达姆”（moidam），赋予该地神圣的色彩。这里种植着榕树以及用于制作棺木和树皮手稿的树木，并筑有蓄水设施。遗址内分布着90座大小不一的马伊达姆，它们由砖、石、土砌成拱顶，内部为空心结构。墓穴中存放着国王和其他王室成员的遗骸，以及食物、马匹、大象等随葬品，有些还包括王后和仆人的遗骸。阿洪姆人的梅达梅菲和塔尔潘仪式至今仍在查莱第奥区的墓地举行。尽管这一墓葬系统也见于贾木纳河谷的其他地区，但该遗产地尤为突出。
+
+### English
+
+Set in the foothills of the Patkai Ranges in eastern Assam, the property contains the royal necropolis of the Tai-Ahom. For 600 years, the Tai-Ahom created moidams (burial mounds) accentuating the natural topography of hills, forests and water, thus forming a sacred geography. Banyan trees and the trees used for coffins and bark manuscripts were planted and water bodies created. Ninety moidams – hollow vaults built of brick, stone or earth – of different sizes are found within the site. They contain the remains of kings and other royals together with grave goods such as food, horses and elephants, and sometimes queens and servants. The Tai-Ahom rituals of “Me-Dam-Me-Phi” and “Tarpan” are practiced at the Charaideo necropolis. While moidams are found in other areas within the Brahmaputra Valley, those found at the property are regarded as exceptional.
+
+## 交通 / Transport
+
+- ✈ **Dibrugarh Airport (DIB)** — 61.7 km
+- ✈ **Jorhat Airport (JRH)** — 73.3 km
+- ✈ **Lilabari North Lakhimpur Airport (IXI)** — 86.4 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **2425.5 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**visa_required**
+
+Visa required[6] e-Visa is no longer available due to military tension between China and India.[58]
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en
+
+- UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1711)
+- [Wikipedia](https://en.wikipedia.org/wiki/Moidam)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

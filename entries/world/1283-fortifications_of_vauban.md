@@ -1,0 +1,76 @@
+---
+id: "wh-1283"
+dataset: "unesco"
+name_zh: "沃邦防禦工事"
+name_en: "Fortifications of Vauban"
+name_local: "Fortifications de Vauban"
+country: "FR"
+country_zh: "法国"
+country_en: "France"
+unesco_id: "1283"
+tier: "basic"
+category: "Cultural"
+year: "2008"
+criteria: "(i)(ii)(iv)"
+lat: 50.2825
+lon: 2.75888889
+updated_at: "2026-11-08T11:24:54Z"
+---
+
+# 沃邦防禦工事 / Fortifications of Vauban
+
+> 法国 · 文化遗产
+
+## 图片 / Images
+
+![Villefranche-de-Conflent Fortifications Tour-du-Diable.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Villefranche-de-Conflent%20Fortifications%20Tour-du-Diable.jpg?width=1280)
+
+*Villefranche-de-Conflent Fortifications Tour-du-Diable.jpg · see Wikimedia Commons file page*
+
+![Fortifications of Vauban](https://whc.unesco.org/uploads/sites/site_1283.jpg)
+
+*Fortifications of Vauban · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+沃邦防禦工事体系（Fortifications de Vauban）是由法国军事工程师塞巴斯蒂安·勒普雷斯特雷·德·沃邦設計的法國12處星形要塞、要塞和城市的城牆，在2008年正式成為联合国教科文组织（UNESCO）世界遺產。法国东南部城市贝桑松于2005年3月牵头成立一个市际联盟“沃邦重要遗址网络（Réseau des sites majeurs de Vauban）”，旨在突出沃邦的非凡成就并使其注册成为UNESCO世界遗产。法国文化部于2007年1月5日接受该候选档案代表法国参与世界遗产的评选。2008年7月7日，沃邦遗址网络的14处遗址中12处在魁北克市举行的世界遗产委员会第三十二届会议上登记成为世界遗产。
+
+### English
+
+Fortifications of Vauban consists of 12 groups of fortified buildings and sites along the western, northern and eastern borders of France. They represent the finest examples of the work of Sébastien Le Prestre de Vauban (1633-1707), a military engineer of King Louis XIV. The serial property includes towns built from scratch by Vauban, citadels, urban bastion walls and bastion towers. There are also mountain forts, sea forts, a mountain battery and two mountain communication structures. This property is inscribed as bearing witness to the peak of classic fortifications, typical of western military architecture. Vauban also played a major role in the history of fortification in Europe and on other continents until the mid-19th century.
+
+## 本地语言 / Local language (French)
+
+**Fortifications de Vauban**
+
+L’œuvre de Vauban comprend 12 groupes de bâtiments fortifiés et de constructions le long des frontières nord, est et ouest de la France. Ils constituent les meilleurs exemples du travail de Sébastien Le Prestre de Vauban (1633-1707), l’architecte militaire de Louis XIV. Cette série comprend des villes neuves créées ex-nihilo, des citadelles, des enceintes urbaines à bastions et des tours bastionnées. Y figurent aussi des forts de montagne, des forts de côte, une batterie de montagne et deux structures de communication en montagne. Ces sites sont inscrits en tant que témoins de l’apogée de la fortification bastionnée classique, typique de l’architecture militaire occidentale. Vauban a joué un rôle majeur dans l’histoire des fortifications en influençant l’architecture militaire en Europe, mais aussi sur les autres continents jusqu'au milieu du XIXe siècle.
+
+## 交通 / Transport
+
+- ✈ **Lille Airport (LIL)** — 39.9 km
+- ✈ **Ostend-Bruges International Airport (OST)** — 102.3 km
+- ✈ **Beauvais-Tillé airport (BVA)** — 103.1 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8042.1 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**visa_required**
+
+Visa required[6] nan
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en, ja, local
+
+- UNESCO 官方文本 / official editions: en, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1283)
+- [Wikipedia](https://en.wikipedia.org/wiki/Fortifications%20of%20Vauban)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

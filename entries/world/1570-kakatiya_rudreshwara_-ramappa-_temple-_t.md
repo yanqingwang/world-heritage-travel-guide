@@ -1,0 +1,70 @@
+---
+id: "wh-1570"
+dataset: "unesco"
+name_zh: "特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙"
+name_en: "Kakatiya Rudreshwara (Ramappa) Temple, Telangana"
+name_local: ""
+country: "IN"
+country_zh: "印度"
+country_en: "India"
+unesco_id: "1570"
+tier: "basic"
+category: "Cultural"
+year: "2021"
+criteria: "(i)(iii)"
+lat: 18.259444444
+lon: 79.9425
+updated_at: "2026-11-08T11:24:56Z"
+---
+
+# 特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙 / Kakatiya Rudreshwara (Ramappa) Temple, Telangana
+
+> 印度 · 文化遗产
+
+## 图片 / Images
+
+![Master piece of ramappa temple.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Master%20piece%20of%20ramappa%20temple.jpg?width=1280)
+
+*Master piece of ramappa temple.jpg · see Wikimedia Commons file page*
+
+![Kakatiya Rudreshwara (Ramappa) Temple, Telangana](https://whc.unesco.org/uploads/sites/site_1570.jpg)
+
+*Kakatiya Rudreshwara (Ramappa) Temple, Telangana · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+卢德什瓦拉，俗称拉玛帕神庙，位于特伦甘纳邦海得拉巴市东北约200公里处的帕拉姆佩特村。它是一个由围墙围绕的建筑群中的主要湿婆神庙，建于卡卡提亚王朝(公元1123-1323年)鲁德拉德瓦（Rudradeva）和鲁德拉（Recharla Rudra）统治时期。这座砂岩神庙始建于公元1213年，据信施工持续了约40年。其特点是由花岗岩和大理岩雕刻而成的梁柱，和一个独特的、金字塔形状的屋顶塔（水平阶梯塔）。塔由被称为“浮砖”的轻质多孔砖搭建而成，从而减轻了屋顶结构的重量。拉玛帕神庙的雕塑具有很高艺术水准，形象地展示了当地的舞蹈习俗及卡卡提亚文化。神庙位于林木茂盛的山丘和农田之中，靠近拉玛帕湖（卡卡提亚时期建造的水库）， 建筑环境的选择遵循达摩经文中的思想和实践，即神庙的建造应成为包括山丘、森林、泉水、溪流、湖泊、集水区和农田在内的自然环境的组成部分。
+
+### English
+
+Rudreshwara, popularly known as Ramappa Temple, is located in the village of Palampet approximately 200km north-east of Hyderabad, in the State of Telangana. It is the main Shiva temple in a walled complex built during the Kakatiyan period (1123–1323 CE) under rulers Rudradeva and Recharla Rudra. Construction of the sandstone temple began in 1213 CE and is believed to have continued over some 40 years. The building features decorated beams and pillars of carved granite and dolerite with a distinctive and pyramidal Vimana (horizontally stepped tower) made of lightweight porous bricks, so-called ‘floating bricks’, which reduced the weight of the roof structures. The temple’s sculptures of high artistic quality illustrate regional dance customs and Kakatiyan culture. Located at the foothills of a forested area and amidst agricultural fields, close to the shores of the Ramappa Cheruvu, a Kakatiya-built water reservoir, the choice of setting for the edifice followed the ideology and practice sanctioned in dharmic texts that temples are to be constructed to form an integral part of a natural setting, including hills, forests, springs, streams, lakes, catchment areas, and agricultural lands.
+
+## 交通 / Transport
+
+- ✈ **Rajiv Gandhi International Airport (HYD)** — 196.8 km
+- ✈ **Vijayawada International Airport (VGA)** — 213.0 km
+- ✈ **Rajahmundry Airport (RJA)** — 236.1 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **4454.3 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**visa_required**
+
+Visa required[6] e-Visa is no longer available due to military tension between China and India.[58]
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en
+
+- UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1570)
+- [Wikipedia](https://en.wikipedia.org/wiki/Ramappa%20Temple)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

@@ -1,0 +1,82 @@
+---
+id: "wh-933"
+dataset: "unesco"
+name_zh: "卢瓦尔河畔叙利与沙洛纳间的卢瓦尔河谷"
+name_en: "The Loire Valley between Sully-sur-Loire and Chalonnes"
+name_local: "Val de Loire entre Sully-sur-Loire et Chalonnes"
+country: "FR"
+country_zh: "法国"
+country_en: "France"
+unesco_id: "933"
+tier: "full"
+category: "Cultural"
+year: "2000"
+criteria: "(i)(ii)(iv)"
+lat: 47.616111111
+lon: 1.517222222
+updated_at: "2026-11-08T11:24:52Z"
+---
+
+# 卢瓦尔河畔叙利与沙洛纳间的卢瓦尔河谷 / The Loire Valley between Sully-sur-Loire and Chalonnes
+
+> 法国 · 文化遗产
+
+## 图片 / Images
+
+![France Loir-et-Cher Chambord Chateau 03.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/France%20Loir-et-Cher%20Chambord%20Chateau%2003.jpg?width=1280)
+
+*France Loir-et-Cher Chambord Chateau 03.jpg · see Wikimedia Commons file page*
+
+![The Loire Valley between Sully-sur-Loire and Chalonnes](https://whc.unesco.org/uploads/sites/site_933.jpg)
+
+*The Loire Valley between Sully-sur-Loire and Chalonnes · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+卢瓦尔河谷拥有最美丽、最杰出的文化景观，沿岸分布着大量的历史名镇和村庄、雄伟的建筑古迹（城堡），以及几个世纪以来人类开垦的耕地，这是人类和自然环境（主要是卢瓦尔河）相互作用、和谐发展的结果。
+
+### English
+
+The Loire Valley is an outstanding cultural landscape of great beauty, containing historic towns and villages, great architectural monuments (the châteaux), and cultivated lands formed by many centuries of interaction between their population and the physical environment, primarily the river Loire itself.
+
+## 本地语言 / Local language (French)
+
+**Val de Loire entre Sully-sur-Loire et Chalonnes**
+
+Le Val de Loire est un paysage culturel exceptionnel, comprenant des villes et villages historiques, de grands monuments architecturaux - les châteaux - et des terres cultivées, façonnées par des siècles d'interaction entre les populations et leur environnement physique, dont la Loire elle-même.
+
+## 交通 / Transport
+
+- ✈ **Tours Val de Loire Airport (TUF)** — 62.7 km
+- ✈ **Paris-Orly Airport (ORY)** — 138.6 km
+- ✈ **Poitiers-Biard Airport (PIS)** — 146.5 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8407.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**visa_required**
+
+Visa required[6] nan
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en, ja, ko, local
+
+- UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/933)
+- [Wikipedia](https://en.wikipedia.org/wiki/Ch%C3%A2teau%20de%20Chambord)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

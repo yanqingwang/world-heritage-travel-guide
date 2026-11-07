@@ -1,0 +1,57 @@
+---
+id: "cn-1320"
+dataset: "china_5a"
+name_zh: "赤峰市阿斯哈图石林景区"
+name_en: "Chifengshiasihatushilin Scenic Area"
+name_local: ""
+country: "CN"
+country_zh: "中国"
+country_en: "China"
+province_zh: "内蒙古自治区"
+city_zh: "赤峰市"
+province_en: "Inner Mongolia"
+city_en: "Chifeng City"
+lat: 43.941128
+lon: 117.527176
+updated_at: "2026-11-07T22:58:14Z"
+---
+
+# 赤峰市阿斯哈图石林景区 / Chifengshiasihatushilin Scenic Area
+
+> 内蒙古自治区 · 赤峰市 · 草原沙漠
+
+## 简介 / Introduction
+
+### 中文
+
+克什克腾石阵即阿斯哈图石林，是一个以奇石、险峰、草原、白桦林为主要特色的景区。石林沿山脊呈北东向展布，分为三个核心景区，展现了石林之秀、石林之美、石林之灵、石林之形。
+
+### English
+
+Keshiketeng Stone Circle, also known as Ashatu Stone Forest, is a scenic spot with strange rocks, dangerous peaks, grasslands and birch forests as its main features. The stone forest spreads northeast along the ridge and is divided into three core scenic areas, showing the beauty, spirit and shape of the stone forest.
+
+*English introduction: machine translation.*
+
+## 交通 / Transport
+
+- ✈ **Xilinhot Airport (XIL)** — 125.2 km
+- ✈ **Chifeng Yulong Airport (CIF)** — 225.0 km
+- ✈ **Holingol Huolinhe Airport (HUO)** — 227.2 km
+- 🚉 **宇宙地** — 52.1 km
+- 🚉 **南洼营** — 53.2 km
+- 🚉 **嘎拉德斯汰** — 58.0 km
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh
+
+## 来源 / Sources
+
+- [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [OpenStreetMap](https://www.openstreetmap.org/)

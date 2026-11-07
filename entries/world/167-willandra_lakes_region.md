@@ -1,0 +1,70 @@
+---
+id: "wh-167"
+dataset: "unesco"
+name_zh: "威兰德拉湖区"
+name_en: "Willandra Lakes Region"
+name_local: ""
+country: "AU"
+country_zh: "澳大利亚"
+country_en: "Australia"
+unesco_id: "167"
+tier: "basic"
+category: "Mixed"
+year: "1981"
+criteria: "(iii)(viii)"
+lat: -33.618142
+lon: 143.101406
+updated_at: "2026-11-08T11:24:47Z"
+---
+
+# 威兰德拉湖区 / Willandra Lakes Region
+
+> 澳大利亚 · Balranald and Wentworth shires, New South Wales · 混合遗产
+
+## 图片 / Images
+
+![Willandra Lakes.png](https://commons.wikimedia.org/wiki/Special:FilePath/Willandra%20Lakes.png?width=1280)
+
+*Willandra Lakes.png · see Wikimedia Commons file page*
+
+![Willandra Lakes Region](https://whc.unesco.org/uploads/sites/site_167.jpg)
+
+*Willandra Lakes Region · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+该湖区有更新世(the Pleistocene)系列湖泊和沙滩构造的化石，考古研究还发现了4.5至6万年前人类居住的证据。这对于研究澳洲大陆人类进化史有着里程碑式的意义。湖区还有一些保存完好的大型有袋动物化石。
+
+### English
+
+The fossil remains of a series of lakes and sand formations that date from the Pleistocene can be found in this region, together with archaeological evidence of human occupation dating from 45–60,000 years ago. It is a unique landmark in the study of human evolution on the Australian continent. Several well-preserved fossils of giant marsupials have also been found here.
+
+## 交通 / Transport
+
+- ✈ **Mildura Airport (MQL)** — 115.7 km
+- ✈ **Broken Hill Airport (BHQ)** — 235.6 km
+- ✈ **Griffith Airport (GFF)** — 282.5 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8667.3 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**visa_required**
+
+Online Visa required[6] May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en, ja
+
+- UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/167)
+- [Wikipedia](https://en.wikipedia.org/wiki/Willandra%20Lakes%20Region)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

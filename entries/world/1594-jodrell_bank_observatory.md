@@ -1,0 +1,70 @@
+---
+id: "wh-1594"
+dataset: "unesco"
+name_zh: "卓瑞尔河岸天文台"
+name_en: "Jodrell Bank Observatory"
+name_local: ""
+country: "GB"
+country_zh: "英国"
+country_en: "United Kingdom"
+unesco_id: "1594"
+tier: "basic"
+category: "Cultural"
+year: "2019"
+criteria: "(i)(ii)(iv)(vi)"
+lat: 53.23625
+lon: -2.307138888
+updated_at: "2026-11-08T11:24:56Z"
+---
+
+# 卓瑞尔河岸天文台 / Jodrell Bank Observatory
+
+> 英国 · 文化遗产
+
+## 图片 / Images
+
+![Lovell Telescope.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Lovell%20Telescope.jpg?width=1280)
+
+*Lovell Telescope.jpg · see Wikimedia Commons file page*
+
+![Jodrell Bank Observatory](https://whc.unesco.org/uploads/sites/site_1594.jpg)
+
+*Jodrell Bank Observatory · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+卓瑞尔河岸天文台位于英格兰西北部一处不受无线电干扰的乡村，是世界上最早建成的射电天文台之一。天文台在落成初期（1945年）主要用于研究由雷达系统探测到的宇宙射线。这座仍在使用中的天文台由若干射电望远镜和功能性建筑物（工程工作室、控制室）组成。该天文台对流星、月球、类星体探测、量子光学和航天器跟踪等领域的科学研究发展产生了重大的影响。该遗址不仅是传统光学天文学向无线电天文学（1940年代-1960年代）过渡的重要标志，还深刻改变了人类对宇宙的理解。
+
+### English
+
+Located in a rural area of northwest England, free from radio interference, Jodrell Bank is one of the world's leading radio astronomy observatories. At the beginning of its use, in 1945, the property housed research on cosmic rays detected by radar echoes. This observatory, which is still in operation, includes several radio telescopes and working buildings, including engineering sheds and the Control Building. Jodrell Bank has had substantial scientific impact in fields such as the study of meteors and the moon, the discovery of quasars, quantum optics, and the tracking of spacecraft. This exceptional technological ensemble illustrates the transition from traditional optical astronomy to radio astronomy (1940s to 1960s), which led to radical changes in the understanding of the universe.
+
+## 交通 / Transport
+
+- ✈ **Manchester Airport (MAN)** — 12.7 km
+- ✈ **Liverpool John Lennon Airport (LPL)** — 37.7 km
+- ✈ **East Midlands Airport (EMA)** — 79.5 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8092.6 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**unknown**
+
+—
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en, ja, ko
+
+- UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1594)
+- [Wikipedia](https://en.wikipedia.org/wiki/Jodrell%20Bank%20Observatory)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

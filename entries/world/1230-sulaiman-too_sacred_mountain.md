@@ -1,0 +1,70 @@
+---
+id: "wh-1230"
+dataset: "unesco"
+name_zh: "苏莱曼山"
+name_en: "Sulaiman-Too Sacred Mountain"
+name_local: ""
+country: "KG"
+country_zh: "吉尔吉斯斯坦"
+country_en: "Kyrgyzstan"
+unesco_id: "1230"
+tier: "basic"
+category: "Cultural"
+year: "2009"
+criteria: "(iii)(vi)"
+lat: 40.529444444
+lon: 72.783333333
+updated_at: "2026-11-08T11:24:54Z"
+---
+
+# 苏莱曼山 / Sulaiman-Too Sacred Mountain
+
+> 吉尔吉斯斯坦 · 文化遗产
+
+## 图片 / Images
+
+![Сулайман-Тоо с дрона.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%83%D0%BB%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD-%D0%A2%D0%BE%D0%BE%20%D1%81%20%D0%B4%D1%80%D0%BE%D0%BD%D0%B0.jpg?width=1280)
+
+*Сулайман-Тоо с дрона.jpg · see Wikimedia Commons file page*
+
+![Sulaiman-Too Sacred Mountain](https://whc.unesco.org/uploads/sites/site_1230.jpg)
+
+*Sulaiman-Too Sacred Mountain · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+苏莱曼山 (另外以Taht-I-Suleiman, Sulayman Rock或Sulayman Throne著稱) 是唯一完全位於吉尔吉斯斯坦的世界遗产。（天山絲路與哈薩克及中國共同擁有）它位在奧什，是穆斯林與伊斯蘭時代以前的本地信仰者朝聖的場所之一。
+
+### English
+
+Sulaiman-Too Sacred Mountain Kyrgyzstan dominates the Fergana Valley and forms the backdrop to the city of Osh, at the crossroads of important routes on the Central Asian Silk Roads. For more than one and a half millennia, Sulaiman was a beacon for travellers revered as a sacred mountain. Its five peaks and slopes contain numerous ancient places of worship and caves with petroglyphs as well as two largely reconstructed 16th century mosques. One hundred and one sites with petroglyphs representing humans and animals as well as geometrical forms have been indexed in the property so far. The site numbers 17 places of worship, which are still in use, and many that are not. Dispersed around the mountain peaks they are connected by footpaths. The cult sites are believed to provide cures for barrenness, headaches, and back pain and give the blessing of longevity. Veneration for the mountain blends pre-Islamic and Islamic beliefs. The site is believed to represent the most complete example of a sacred mountain anywhere in Central Asia, worshipped over several millennia.
+
+## 交通 / Transport
+
+- ✈ **Osh International Airport (OSS)** — 8.9 km
+- ✈ **Andijan International Airport (AZN)** — 46.8 km
+- ✈ **Fergana International Airport (FEG)** — 89.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **3672.7 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**visa_free** · 21 days
+
+Visa not required (conditional) / eVisa[6][75] Groups of 5 to 25 tourists can enter Kyrgyzstan without a visa for up to 21 days through pre-approved travel agencies.[76] e-Visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chal
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en, ja
+
+- UNESCO 官方文本 / official editions: en, fr, es, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1230)
+- [Wikipedia](https://en.wikipedia.org/wiki/Sulayman%20Mountain)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)

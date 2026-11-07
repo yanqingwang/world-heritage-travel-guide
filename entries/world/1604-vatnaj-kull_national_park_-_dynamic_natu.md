@@ -1,0 +1,70 @@
+---
+id: "wh-1604"
+dataset: "unesco"
+name_zh: "瓦特纳冰川国家公园-火与冰的动态"
+name_en: "Vatnajökull National Park - Dynamic Nature of Fire and Ice"
+name_local: ""
+country: "IS"
+country_zh: "冰岛"
+country_en: "Iceland"
+unesco_id: "1604"
+tier: "basic"
+category: "Natural"
+year: "2019"
+criteria: "(viii)"
+lat: 64.5
+lon: -17.0
+updated_at: "2026-11-08T11:24:56Z"
+---
+
+# 瓦特纳冰川国家公园-火与冰的动态 / Vatnajökull National Park - Dynamic Nature of Fire and Ice
+
+> 冰岛 · 自然遗产
+
+## 图片 / Images
+
+![Skaftafellsjökull 2010.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Skaftafellsj%C3%B6kull%202010.jpg?width=1280)
+
+*Skaftafellsjökull 2010.jpg · see Wikimedia Commons file page*
+
+![Vatnajökull National Park - Dynamic Nature of Fire and Ice](https://whc.unesco.org/uploads/sites/site_1604.jpg)
+
+*Vatnajökull National Park - Dynamic Nature of Fire and Ice · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+
+## 简介 / Introduction
+
+### 中文
+
+该遗产地是典型的火山地区，占地面积逾140万公顷，接近冰岛领土面积的14%。瓦特纳冰川国家公园内有10座中心式火山，其中8座为冰川火山。这些火山中有2座位居冰岛最活跃的火山之列。火山与瓦特纳冰盖裂缝之间的相互作用形成了各种自然景观，其中最引人注目的是火山爆发期间冰川边缘突然崩裂引发的大洪水。这一现象的反复出现催生了世界上独一无二的沙原、河网和变化迅速的峡谷。当地火山地区还生活着冰川时期遗存的、生活在地下水中的典型动物。
+
+### English
+
+This iconic volcanic region covers an area of over 1,400,000 ha, nearly 14% of Iceland's territory. It numbers ten central volcanoes, eight of which are subglacial. Two of these are among the most active in Iceland. The interaction between volcanoes and the rifts that underlie the Vatnajökull ice cap takes many forms, the most spectacular of which is the jökulhlaup – a sudden flood caused by the breach of the margin of a glacier during an eruption. This recurrent phenomenon has led to the emergence of unique sandur plains, river systems and rapidly evolving canyons. Volcanic areas are home to endemic groundwater fauna that has survived the Ice Age.
+
+## 交通 / Transport
+
+- ✈ **Hornafjörður Airport (HFN)** — 88.2 km
+- ✈ **Akureyri International Airport (AEY)** — 138.1 km
+- ✈ **Egilsstaðir Airport (EGS)** — 150.4 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **7668.9 km**
+
+## 签证（中国护照） / Visa (Chinese passport)
+
+**visa_required**
+
+Visa required[6] nan
+
+*签证政策会变化，出行前请核实。*
+
+## 多语言信息 / Language availability
+
+- 可用语言 / Available: zh, en, ja, ko
+
+- UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
+
+## 来源 / Sources
+
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1604)
+- [Wikipedia](https://en.wikipedia.org/wiki/Vatnaj%C3%B6kull%20National%20Park)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+- [OurAirports](https://ourairports.com/data/)
