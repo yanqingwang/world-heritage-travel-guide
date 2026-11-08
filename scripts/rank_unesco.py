@@ -24,7 +24,10 @@ def trailing_year() -> tuple[str, str]:
     """First and last day of the 12 full months ending last month."""
     first_this = date.today().replace(day=1)
     last = first_this - timedelta(days=1)
-    start = date(last.year - 1, last.month, 1)
+    if last.month == 12:
+        start = date(last.year, 1, 1)
+    else:
+        start = date(last.year - 1, last.month + 1, 1)
     return start.strftime("%Y%m%d"), last.strftime("%Y%m%d")
 
 

@@ -382,8 +382,9 @@ def commons_file(filename: str) -> dict | None:
 # spreads load when a mirror starts failing.
 OVERPASS_ENDPOINTS = [
     "https://overpass.openstreetmap.fr/api/interpreter",
-    "https://overpass.kumi.systems/api/interpreter",
+    "https://overpass.osm.ch/api/interpreter",
     "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
     "https://overpass.private.coffee/api/interpreter",
 ]
 

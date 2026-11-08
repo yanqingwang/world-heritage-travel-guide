@@ -187,7 +187,7 @@
     $("#empty").querySelector("p").textContent = t().empty;
     $("#empty").querySelector(".muted").textContent = t().emptyHint;
     $("#footer-line").textContent = t().footer;
-    $("#footer-note").textContent = t().footerNote;
+    updateFooter();
     document.querySelectorAll(".tab").forEach((el) => {
       el.textContent = t().tabs[el.dataset.tab];
     });
@@ -242,6 +242,12 @@
     tier.value = state.tier;
   }
 
+  function updateFooter() {
+    const updated = state.data[state.tab]?.generated_at?.slice(0, 10);
+    $("#footer-note").textContent = t().footerNote +
+      (updated ? ` · ${state.lang === "zh" ? "数据更新" : "Data updated"} ${updated}` : "");
+  }
+
   function renderStats() {
     const stats = $("#stats");
     const china = state.data.china;
@@ -277,6 +283,7 @@
     $("#tier-filter").value = "";
     if (state.data[tab]) {
       buildFilters();
+      updateFooter();
       render();
       return;
     }
@@ -292,6 +299,7 @@
         state.data[tab] = json;
         buildFilters();
         renderStats();
+        updateFooter();
         render();
       })
       .catch((err) => {

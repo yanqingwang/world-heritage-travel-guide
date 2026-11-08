@@ -1,5 +1,7 @@
 # 世界遗产旅行指南 · World Heritage Travel Guide
 
+[![Update data and deploy](https://github.com/yanqingwang/world-heritage-travel-guide/actions/workflows/update.yml/badge.svg)](https://github.com/yanqingwang/world-heritage-travel-guide/actions/workflows/update.yml)
+
 A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas** and **1,213 UNESCO World Heritage sites outside China** (150 of them with full records). Every record is available in Chinese and English, with the country's official language added whenever an official UNESCO edition or a Wikipedia edition exists.
 
 **[Open the site →](https://yanqingwang.github.io/world-heritage-travel-guide/)**
