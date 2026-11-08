@@ -415,12 +415,21 @@
     if (state.loading[tab]) return;
     state.loading[tab] = true;
     $("#cards").innerHTML = `<p class="muted" style="grid-column:1/-1;padding:24px 0">Loading…</p>`;
-    // The list only needs the compact index; full records load per site.
-    fetch(`./data/${tab}-index.json`, { cache: "no-cache" })
+    // Revalidate so a weekly data update is visible without a hard refresh;
+    // slow networks get up to three tries before the error message.
+    const fetchIndex = (n) => fetch(`./data/${tab}-index.json`, { cache: "no-cache" })
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();
       })
+      .catch((err) => {
+        if (n > 0 && (err.message === "Failed to fetch" || err.name === "TypeError")) {
+          return new Promise((resolve) => setTimeout(resolve, 1500))
+            .then(() => fetchIndex(n - 1));
+        }
+        throw err;
+      });
+    fetchIndex(2)
       .then((json) => {
         state.data[tab] = json;
         buildFilters();

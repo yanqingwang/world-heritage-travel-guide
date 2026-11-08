@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "إنتركونتيننتال سميراميس",
+   "name_en": "InterContinental Cairo Semiramis, an IHG Hotel",
+   "stars": 5,
+   "brand": "InterContinental",
+   "lat": 30.0428367,
+   "lon": 31.2323407,
+   "distance_km": 2.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ramses Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 30.0505495,
+   "lon": 31.2319741,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق كمبنسكي النيل القاهرة",
+   "name_en": "Kempinski Nile Hotel Garden City Cairo",
+   "stars": 5,
+   "brand": null,
+   "lat": 30.0387203,
+   "lon": 31.2306762,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق فور سيزون نايل بلازا القاهره",
+   "name_en": "Four Seasons Hotel Cairo at Nile Plaza",
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 30.0362273,
+   "lon": 31.2293727,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق سوفيتل كايرو داون تاون",
+   "name_en": "Sofitel Cairo",
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 30.0654375,
+   "lon": 31.22819,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 234,
+ "stations": [
+  {
+   "name": "محطة رمسيس",
+   "name_en": "Ramses Station",
+   "lat": 30.0629785,
+   "lon": 31.2460533,
+   "distance_km": 2.5,
+   "operator": "سكك حديد مصر"
+  },
+  {
+   "name": "محطة الفرز للسكة الحديد",
+   "name_en": "Al-Farz Station",
+   "lat": 30.0865968,
+   "lon": 31.2675878,
+   "distance_km": 4.5,
+   "operator": null
+  },
+  {
+   "name": "إمبابه",
+   "name_en": "Imbaba",
+   "lat": 30.0771206,
+   "lon": 31.2177818,
+   "distance_km": 5.5,
+   "operator": null
+  },
+  {
+   "name": "ضواحي الجيزة",
+   "name_en": "Giza Suburbs",
+   "lat": 30.0052451,
+   "lon": 31.2082513,
+   "distance_km": 6.9,
+   "operator": "Egyptian National Railways (ENR)"
+  },
+  {
+   "name": "بشتيل",
+   "name_en": "Bashteel",
+   "lat": 30.0709859,
+   "lon": 31.1850927,
+   "distance_km": 8.0,
+   "operator": null
+  },
+  {
+   "name": "شبرا الخيمة",
+   "name_en": "Shobra Al-Kheima",
+   "lat": 30.1224837,
+   "lon": 31.2446088,
+   "distance_km": 8.7,
+   "operator": "Egytian National Railways (ENR)"
+  },
+  {
+   "name": "محطة الدائري",
+   "name_en": null,
+   "lat": 30.0628697,
+   "lon": 31.1697811,
+   "distance_km": 9.1,
+   "operator": "الهيئة القومية للانفاق و مقاولون العرب"
+  },
+  {
+   "name": "محطة قطار الكوم الأحمر الجديدة (تحت الإنشاء)",
+   "name_en": "Kom El-Ahmar New Railway Station (Under Construction)",
+   "lat": 30.1024045,
+   "lon": 31.1838707,
+   "distance_km": 9.8,
+   "operator": "سكك حديد مصر"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Club ferry terminal",
+   "name_en": null,
+   "lat": 30.0013491,
+   "lon": 31.2235838,
+   "distance_km": 6.2,
+   "operator": null
+  },
+  {
+   "name": "Qorsaya ferry",
+   "name_en": null,
+   "lat": 30.0005756,
+   "lon": 31.2153913,
+   "distance_km": 6.8,
+   "operator": null
+  },
+  {
+   "name": "Private ferry terminal",
+   "name_en": null,
+   "lat": 29.9918814,
+   "lon": 31.2248008,
+   "distance_km": 7.0,
+   "operator": null
+  },
+  {
+   "name": "Church users' ferry terminal",
+   "name_en": null,
+   "lat": 29.9939306,
+   "lon": 31.2217767,
+   "distance_km": 7.0,
+   "operator": null
+  },
+  {
+   "name": "Police ferry terminal",
+   "name_en": null,
+   "lat": 29.99391,
+   "lon": 31.2217518,
+   "distance_km": 7.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:08:40Z"
+}

@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Taj Fisherman's Cove",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 12.7979784,
+   "lon": 80.2481423,
+   "distance_km": 21.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Welcomhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "ITC Hotels",
+   "lat": 12.7647019,
+   "lon": 80.0058986,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Turyaa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 12.973365,
+   "lon": 80.2510485,
+   "distance_km": 40.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Chennai",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 13.016676,
+   "lon": 80.2047663,
+   "distance_km": 44.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "GRT Grand Days",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 13.040212,
+   "lon": 80.2450962,
+   "distance_km": 47.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 214,
+ "stations": [
+  {
+   "name": "Otivakkam",
+   "name_en": null,
+   "lat": 12.6227255,
+   "lon": 79.9752623,
+   "distance_km": 23.5,
+   "operator": "SR"
+  },
+  {
+   "name": "Chengalpatttu Junction",
+   "name_en": null,
+   "lat": 12.6934653,
+   "lon": 79.9805157,
+   "distance_km": 24.4,
+   "operator": "SR"
+  },
+  {
+   "name": "Singaperumal Koil",
+   "name_en": null,
+   "lat": 12.7619226,
+   "lon": 80.0007799,
+   "distance_km": 26.3,
+   "operator": "SR"
+  },
+  {
+   "name": "Kattangulathur",
+   "name_en": null,
+   "lat": 12.8055581,
+   "lon": 80.0266339,
+   "distance_km": 27.6,
+   "operator": "SR"
+  },
+  {
+   "name": "Guduvancheri",
+   "name_en": null,
+   "lat": 12.8452303,
+   "lon": 80.0576503,
+   "distance_km": 29.3,
+   "operator": "SR"
+  },
+  {
+   "name": "Urappakkam",
+   "name_en": null,
+   "lat": 12.8673657,
+   "lon": 80.0720222,
+   "distance_km": 30.7,
+   "operator": "SR"
+  },
+  {
+   "name": "Karunguzhi",
+   "name_en": null,
+   "lat": 12.5321066,
+   "lon": 79.911518,
+   "distance_km": 31.8,
+   "operator": "SR"
+  },
+  {
+   "name": "Vandalur",
+   "name_en": null,
+   "lat": 12.8916061,
+   "lon": 80.084974,
+   "distance_km": 32.7,
+   "operator": "SR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:19Z"
+}

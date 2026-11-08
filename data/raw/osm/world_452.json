@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Jharkhari Eco Tourism Resport",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.0197326,
+   "lon": 88.6880977,
+   "distance_km": 30.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Prakrity Village Resort Sundarbans",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.1200137,
+   "lon": 88.8485813,
+   "distance_km": 42.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sajnekhali Tourist Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.1235446,
+   "lon": 88.8310795,
+   "distance_km": 42.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Bengal Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.1268119,
+   "lon": 88.8350065,
+   "distance_km": 42.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Mangrove Pakhirala",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.1319135,
+   "lon": 88.8242254,
+   "distance_km": 43.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Dwarkapur Ferry Ghat",
+   "name_en": null,
+   "lat": 21.7714135,
+   "lon": 88.2997845,
+   "distance_km": 46.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:11:06Z"
+}

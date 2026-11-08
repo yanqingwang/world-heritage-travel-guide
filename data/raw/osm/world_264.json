@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Montebelo Mosteiro de Alcobaça Historic Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5485506,
+   "lon": -8.9781708,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Lis Batalha",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6575165,
+   "lon": -8.8263375,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Haven Nature Hotel and Villas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6593367,
+   "lon": -8.8353172,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eurosol Residence Hotel Apartamento",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.7456635,
+   "lon": -8.8028852,
+   "distance_km": 9.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel TRYP Leiria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.7536574,
+   "lon": -8.8130628,
+   "distance_km": 10.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 205,
+ "stations": [
+  {
+   "name": "Martingança",
+   "name_en": null,
+   "lat": 39.6871912,
+   "lon": -8.9459076,
+   "distance_km": 10.7,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Leiria",
+   "name_en": null,
+   "lat": 39.7566617,
+   "lon": -8.8279628,
+   "distance_km": 10.8,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Marinha Grande",
+   "name_en": null,
+   "lat": 39.7364043,
+   "lon": -8.9268405,
+   "distance_km": 12.2,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Pataias",
+   "name_en": null,
+   "lat": 39.6555346,
+   "lon": -8.984922,
+   "distance_km": 13.6,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Valado",
+   "name_en": null,
+   "lat": 39.5844462,
+   "lon": -9.017629,
+   "distance_km": 18.4,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Monte Real",
+   "name_en": null,
+   "lat": 39.8559895,
+   "lon": -8.847774,
+   "distance_km": 22.0,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Caxarias",
+   "name_en": null,
+   "lat": 39.7144512,
+   "lon": -8.5454461,
+   "distance_km": 24.8,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Albergaria dos Doze",
+   "name_en": null,
+   "lat": 39.7935855,
+   "lon": -8.5893207,
+   "distance_km": 25.2,
+   "operator": "Infraestruturas de Portugal"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:37Z"
+}

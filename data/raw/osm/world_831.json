@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Blu Hotel Kaos",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2888488,
+   "lon": 13.5567831,
+   "distance_km": 2.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dioscuri",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2635094,
+   "lon": 13.5781467,
+   "distance_km": 3.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residence Hotel \"Antica Perla\"",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2364939,
+   "lon": 13.6203468,
+   "distance_km": 6.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Villa Romana",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2896918,
+   "lon": 13.494811,
+   "distance_km": 8.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scala dei Turchi Resort",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2898751,
+   "lon": 13.477592,
+   "distance_km": 9.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 64,
+ "stations": [
+  {
+   "name": "Agrigento Centrale",
+   "name_en": null,
+   "lat": 37.3092487,
+   "lon": 13.5839443,
+   "distance_km": 2.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Agrigento Bassa",
+   "name_en": null,
+   "lat": 37.3190914,
+   "lon": 13.5881768,
+   "distance_km": 3.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Porto Empedocle Centrale",
+   "name_en": null,
+   "lat": 37.2915465,
+   "lon": 13.5378546,
+   "distance_km": 4.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Aragona Caldare",
+   "name_en": null,
+   "lat": 37.3810981,
+   "lon": 13.6365277,
+   "distance_km": 11.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Racalmuto",
+   "name_en": null,
+   "lat": 37.4060705,
+   "lon": 13.7275575,
+   "distance_km": 17.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Canicattì",
+   "name_en": null,
+   "lat": 37.3600326,
+   "lon": 13.8556014,
+   "distance_km": 24.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Campofranco",
+   "name_en": null,
+   "lat": 37.5100312,
+   "lon": 13.6867855,
+   "distance_km": 25.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Serradifalco",
+   "name_en": null,
+   "lat": 37.431737,
+   "lon": 13.8832418,
+   "distance_km": 30.3,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Porto Empedocle",
+   "name_en": null,
+   "lat": 37.2875438,
+   "lon": 13.5297994,
+   "distance_km": 5.3,
+   "operator": null
+  },
+  {
+   "name": "Marina di Cala del Sole",
+   "name_en": null,
+   "lat": 37.0962143,
+   "lon": 13.9440839,
+   "distance_km": 38.0,
+   "operator": null
+  },
+  {
+   "name": "Porto di Licata",
+   "name_en": null,
+   "lat": 37.0911609,
+   "lon": 13.93935,
+   "distance_km": 38.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:13:30Z"
+}

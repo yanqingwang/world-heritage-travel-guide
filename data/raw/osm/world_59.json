@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotell No.13",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 60.392318,
+   "lon": 5.322896,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Norge by Scandic",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Scandic",
+   "lat": 60.3913175,
+   "lon": 5.3233435,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Magic Hotel Kløverhuset",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 60.394445,
+   "lon": 5.323085,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Magic Hotel Korskirken",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 60.394377,
+   "lon": 5.327364,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Royal Hotel Bergen",
+   "name_en": null,
+   "stars": null,
+   "brand": "Radisson Blu",
+   "lat": 60.397852,
+   "lon": 5.322499,
+   "distance_km": 0.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 63,
+ "stations": [
+  {
+   "name": "Fløibanen, nedre stasjon",
+   "name_en": null,
+   "lat": 60.3966916,
+   "lon": 5.3291305,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Byparken",
+   "name_en": null,
+   "lat": 60.3920045,
+   "lon": 5.3255488,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "Kaigaten",
+   "name_en": null,
+   "lat": 60.391799,
+   "lon": 5.3267954,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Bergen",
+   "name_en": null,
+   "lat": 60.390279,
+   "lon": 5.3333972,
+   "distance_km": 1.0,
+   "operator": "Bane NOR"
+  },
+  {
+   "name": "Nonneseter",
+   "name_en": null,
+   "lat": 60.3901213,
+   "lon": 5.3326459,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Fløyen",
+   "name_en": null,
+   "lat": 60.3947819,
+   "lon": 5.3426461,
+   "distance_km": 1.1,
+   "operator": null
+  },
+  {
+   "name": "Bergen busstasjon",
+   "name_en": null,
+   "lat": 60.388144,
+   "lon": 5.3347434,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "Nygård",
+   "name_en": null,
+   "lat": 60.3845041,
+   "lon": 5.3326352,
+   "distance_km": 1.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Beffen - Bradbenken",
+   "name_en": null,
+   "lat": 60.3980501,
+   "lon": 5.3205844,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Strandterminalen",
+   "name_en": null,
+   "lat": 60.3952249,
+   "lon": 5.3219867,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Strandkaiterminalen, båt Askøy",
+   "name_en": null,
+   "lat": 60.3956158,
+   "lon": 5.3207257,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Strandkaiterminalen båtkai",
+   "name_en": null,
+   "lat": 60.3953301,
+   "lon": 5.3218743,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Beffen - Nykirkekaien",
+   "name_en": null,
+   "lat": 60.3973071,
+   "lon": 5.3149419,
+   "distance_km": 0.5,
+   "operator": "Bergen kommunale kystkultursenter"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:08:25Z"
+}

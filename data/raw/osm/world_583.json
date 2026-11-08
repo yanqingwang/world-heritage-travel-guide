@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Kämp",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 60.1679164,
+   "lon": 24.9469903,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Seaside",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Radisson Blu",
+   "lat": 60.1619785,
+   "lon": 24.9244835,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Clarion Hotel Helsinki",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Clarion",
+   "lat": 60.1596804,
+   "lon": 24.9220715,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Helsinki Strand",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 60.177157,
+   "lon": 24.9515812,
+   "distance_km": 4.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Original Sokos Hotel Presidentti",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 60.1705978,
+   "lon": 24.9326073,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 140,
+ "stations": [
+  {
+   "name": "Koirasaaret",
+   "name_en": null,
+   "lat": 60.1629518,
+   "lon": 25.0172703,
+   "distance_km": 2.8,
+   "operator": null
+  },
+  {
+   "name": "Haakoninlahdenpuisto",
+   "name_en": null,
+   "lat": 60.165883,
+   "lon": 25.0186978,
+   "distance_km": 3.1,
+   "operator": null
+  },
+  {
+   "name": "Kruunuvuori",
+   "name_en": null,
+   "lat": 60.1691623,
+   "lon": 25.0153153,
+   "distance_km": 3.3,
+   "operator": null
+  },
+  {
+   "name": "Hopealaakso",
+   "name_en": null,
+   "lat": 60.1689007,
+   "lon": 25.0204565,
+   "distance_km": 3.4,
+   "operator": null
+  },
+  {
+   "name": "Korkeasaari",
+   "name_en": null,
+   "lat": 60.1770906,
+   "lon": 24.9824206,
+   "distance_km": 3.7,
+   "operator": null
+  },
+  {
+   "name": "Helsinki",
+   "name_en": null,
+   "lat": 60.1720965,
+   "lon": 24.9412486,
+   "distance_km": 4.0,
+   "operator": "Väylävirasto"
+  },
+  {
+   "name": "Merihaka",
+   "name_en": null,
+   "lat": 60.1782105,
+   "lon": 24.9599102,
+   "distance_km": 4.1,
+   "operator": null
+  },
+  {
+   "name": "Gunillankallio",
+   "name_en": null,
+   "lat": 60.1721111,
+   "lon": 25.0330765,
+   "distance_km": 4.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Suomenlinna (Tykistölahti)",
+   "name_en": null,
+   "lat": 60.1448757,
+   "lon": 24.9877307,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Suomenlinna (Kuninkaanportti)",
+   "name_en": null,
+   "lat": 60.1400106,
+   "lon": 24.9900249,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Suomenlinna, huoltolaituri",
+   "name_en": null,
+   "lat": 60.1464432,
+   "lon": 24.9924614,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Kuninkaanportti",
+   "name_en": "King’s Gate Quay",
+   "lat": 60.1400381,
+   "lon": 24.9899877,
+   "distance_km": 0.5,
+   "operator": "JT-Line"
+  },
+  {
+   "name": "Suomenlinna, päälaituri",
+   "name_en": "Suomenlinna, main quay",
+   "lat": 60.1492739,
+   "lon": 24.9839388,
+   "distance_km": 0.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:12:10Z"
+}

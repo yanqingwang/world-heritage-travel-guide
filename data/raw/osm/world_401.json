@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Castellum Hotel Hollókő",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.9945043,
+   "lon": 19.5904862,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Narád & Park",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.9120947,
+   "lon": 19.8767086,
+   "distance_km": 23.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grandhotel Galya",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.9158542,
+   "lon": 19.9237574,
+   "distance_km": 26.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ózon Hotel & Luxury Villas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8557682,
+   "lon": 19.972384,
+   "distance_km": 32.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lifestyle Hotel Mátra",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8524494,
+   "lon": 19.9731122,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 85,
+ "stations": [
+  {
+   "name": "Pásztó",
+   "name_en": null,
+   "lat": 47.9190923,
+   "lon": 19.6887928,
+   "distance_km": 11.2,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Szécsény",
+   "name_en": null,
+   "lat": 48.0926749,
+   "lon": 19.521206,
+   "distance_km": 11.9,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Tar",
+   "name_en": null,
+   "lat": 47.9559906,
+   "lon": 19.7460329,
+   "distance_km": 12.3,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Zagyvapálfalva",
+   "name_en": null,
+   "lat": 48.0675509,
+   "lon": 19.784993,
+   "distance_km": 16.4,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Nagybátony",
+   "name_en": null,
+   "lat": 47.979832,
+   "lon": 19.8194559,
+   "distance_km": 17.0,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Szurdokpüspöki",
+   "name_en": null,
+   "lat": 47.8514986,
+   "lon": 19.6903567,
+   "distance_km": 17.7,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Magyarnándor",
+   "name_en": null,
+   "lat": 47.9707897,
+   "lon": 19.3569062,
+   "distance_km": 17.7,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Kisterenye",
+   "name_en": null,
+   "lat": 48.0096921,
+   "lon": 19.8318221,
+   "distance_km": 17.9,
+   "operator": "MÁV"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Vác, hajóállomás",
+   "name_en": null,
+   "lat": 47.7803481,
+   "lon": 19.1224023,
+   "distance_km": 42.4,
+   "operator": null
+  },
+  {
+   "name": "Vác, rév",
+   "name_en": null,
+   "lat": 47.7770497,
+   "lon": 19.1251003,
+   "distance_km": 42.5,
+   "operator": null
+  },
+  {
+   "name": "Tahitótfalu",
+   "name_en": null,
+   "lat": 47.7752933,
+   "lon": 19.1201464,
+   "distance_km": 42.9,
+   "operator": null
+  },
+  {
+   "name": "Kisoroszi rév",
+   "name_en": null,
+   "lat": 47.8212618,
+   "lon": 19.0134285,
+   "distance_km": 47.3,
+   "operator": null
+  },
+  {
+   "name": "Pócsmegyer",
+   "name_en": null,
+   "lat": 47.7178357,
+   "lon": 19.0941776,
+   "distance_km": 48.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:10:39Z"
+}

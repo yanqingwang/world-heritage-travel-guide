@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Jungle Villa Resort",
+   "name_en": "Jungle Villa Resort",
+   "stars": 4,
+   "brand": null,
+   "lat": 27.5594424,
+   "lon": 84.3380988,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel River Crown",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 27.7025491,
+   "lon": 84.4197303,
+   "distance_km": 24.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Landmark forest park",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 27.5876832,
+   "lon": 84.4843642,
+   "distance_km": 17.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Elephant Camp & Korean Restaurant",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 27.5768524,
+   "lon": 84.4956573,
+   "distance_km": 18.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bandipur chhen",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 27.9374487,
+   "lon": 84.4060149,
+   "distance_km": 49.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 215,
+ "stations": [
+  {
+   "name": "Gaunaha",
+   "name_en": "Gaunaha",
+   "lat": 27.2898921,
+   "lon": 84.5189059,
+   "distance_km": 29.7,
+   "operator": "ECR"
+  },
+  {
+   "name": "Bhitiharwa Ashram",
+   "name_en": "Bhitiharwa Ashram",
+   "lat": 27.2445096,
+   "lon": 84.4839728,
+   "distance_km": 32.1,
+   "operator": "ECR"
+  },
+  {
+   "name": "Bhikhna Thori",
+   "name_en": "Bhikhna Thori",
+   "lat": 27.3331208,
+   "lon": 84.6144484,
+   "distance_km": 33.4,
+   "operator": "ECR"
+  },
+  {
+   "name": "Amolwa",
+   "name_en": "Amolwa",
+   "lat": 27.2118399,
+   "lon": 84.4779485,
+   "distance_km": 35.1,
+   "operator": "ECR"
+  },
+  {
+   "name": "Harinagar",
+   "name_en": "Harinagar",
+   "lat": 27.1562642,
+   "lon": 84.3243143,
+   "distance_km": 38.2,
+   "operator": "ECR"
+  },
+  {
+   "name": "Bhairoganj",
+   "name_en": null,
+   "lat": 27.152044,
+   "lon": 84.2389075,
+   "distance_km": 39.8,
+   "operator": "ECR"
+  },
+  {
+   "name": "Chamua",
+   "name_en": null,
+   "lat": 27.1379719,
+   "lon": 84.4016469,
+   "distance_km": 40.8,
+   "operator": "ECR"
+  },
+  {
+   "name": "Kharpokhra",
+   "name_en": null,
+   "lat": 27.1425268,
+   "lon": 84.1528658,
+   "distance_km": 43.6,
+   "operator": "ECR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:43Z"
+}

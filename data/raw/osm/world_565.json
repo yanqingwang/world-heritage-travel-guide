@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "فندق الأوراسي",
+   "name_en": "El Aurassi Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.7762962,
+   "lon": 3.0511552,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel El Djazaïr فندق الجزائر",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.7545202,
+   "lon": 3.0462048,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Sofitel فندق سوفيتل الجزائر",
+   "name_en": "Sofitel Algiers Hamma Garden",
+   "stars": 5,
+   "brand": "Sofitel سوفيتل",
+   "lat": 36.7506231,
+   "lon": 3.0733154,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Oasis 5 *",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.7409067,
+   "lon": 3.092104,
+   "distance_km": 5.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Alger",
+   "name_en": "Hilton Algiers",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.7382483,
+   "lon": 3.1565874,
+   "distance_km": 9.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 209,
+ "stations": [
+  {
+   "name": "Agha",
+   "name_en": null,
+   "lat": 36.7678826,
+   "lon": 3.0571896,
+   "distance_km": 1.7,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Les Ateliers الورشات",
+   "name_en": null,
+   "lat": 36.7564172,
+   "lon": 3.0657389,
+   "distance_km": 3.0,
+   "operator": "SNTF الشركة الوطنية للنقل بالسكك الحديدية"
+  },
+  {
+   "name": "Hussein Dey",
+   "name_en": "Hussein Dey",
+   "lat": 36.7454016,
+   "lon": 3.0943655,
+   "distance_km": 5.2,
+   "operator": "SNTF"
+  },
+  {
+   "name": "الخروبة",
+   "name_en": "Caroubier",
+   "lat": 36.7353371,
+   "lon": 3.1194712,
+   "distance_km": 7.5,
+   "operator": "SNTF"
+  },
+  {
+   "name": "الحراش",
+   "name_en": "El Harrach",
+   "lat": 36.7221079,
+   "lon": 3.1323744,
+   "distance_km": 9.4,
+   "operator": "SNTF"
+  },
+  {
+   "name": "محطّة سكة حديد الحراش",
+   "name_en": null,
+   "lat": 36.7221987,
+   "lon": 3.132713,
+   "distance_km": 9.4,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Gué de Constantine",
+   "name_en": null,
+   "lat": 36.6967503,
+   "lon": 3.0952804,
+   "distance_km": 10.1,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Aïn Naâdja",
+   "name_en": null,
+   "lat": 36.6894156,
+   "lon": 3.0789795,
+   "distance_km": 10.6,
+   "operator": "SNTF"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Alger الجزائر",
+   "name_en": "Algiers",
+   "lat": 36.7816345,
+   "lon": 3.0639411,
+   "distance_km": 0.4,
+   "operator": "النقل البحري الجزائري"
+  },
+  {
+   "name": "Alger",
+   "name_en": "Algiers",
+   "lat": 36.7801615,
+   "lon": 3.0630653,
+   "distance_km": 0.4,
+   "operator": "النقل البحري الجزائري"
+  },
+  {
+   "name": "محطة العبارة الجزائر",
+   "name_en": null,
+   "lat": 36.7778857,
+   "lon": 3.0633845,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "محطة البحرية الجزائر",
+   "name_en": "Algiers ferry terminal",
+   "lat": 36.7770512,
+   "lon": 3.063675,
+   "distance_km": 0.8,
+   "operator": "ENTMV"
+  },
+  {
+   "name": "Port d'Alger ميناء الجزائر",
+   "name_en": "Port of Algiers",
+   "lat": 36.7638473,
+   "lon": 3.0674991,
+   "distance_km": 2.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:11:55Z"
+}

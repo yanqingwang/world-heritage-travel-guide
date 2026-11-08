@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Guest house Oreskovic",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.776387,
+   "lon": 15.689923,
+   "distance_km": 13.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mirjana & Rastoke",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.1523106,
+   "lon": 15.5590451,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Macola",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 44.7444346,
+   "lon": 15.7068151,
+   "distance_km": 16.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Josipdol",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 45.1888292,
+   "lon": 15.2857608,
+   "distance_km": 43.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Plitvice",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 44.8817394,
+   "lon": 15.6206333,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 49,
+ "stations": [
+  {
+   "name": "Vrhovine",
+   "name_en": null,
+   "lat": 44.8488963,
+   "lon": 15.4270893,
+   "distance_km": 15.3,
+   "operator": null
+  },
+  {
+   "name": "Bihać",
+   "name_en": null,
+   "lat": 44.8185898,
+   "lon": 15.8868206,
+   "distance_km": 22.4,
+   "operator": "Željeznice Federacije Bosne i Hercegovine"
+  },
+  {
+   "name": "Ličko Lešće",
+   "name_en": null,
+   "lat": 44.7731487,
+   "lon": 15.3587789,
+   "distance_km": 23.5,
+   "operator": null
+  },
+  {
+   "name": "Cazin-Srbljani",
+   "name_en": null,
+   "lat": 44.8945034,
+   "lon": 15.9326313,
+   "distance_km": 25.0,
+   "operator": "Željeznice Federacije BiH"
+  },
+  {
+   "name": "Plaški",
+   "name_en": null,
+   "lat": 45.0783176,
+   "lon": 15.3680836,
+   "distance_km": 29.4,
+   "operator": null
+  },
+  {
+   "name": "Perušić",
+   "name_en": null,
+   "lat": 44.648014,
+   "lon": 15.3887514,
+   "distance_km": 31.5,
+   "operator": null
+  },
+  {
+   "name": "Bosanska Krupa",
+   "name_en": null,
+   "lat": 44.8862347,
+   "lon": 16.1494287,
+   "distance_km": 42.0,
+   "operator": "Željeznice Federacije BiH"
+  },
+  {
+   "name": "Gospić",
+   "name_en": null,
+   "lat": 44.5360845,
+   "lon": 15.3937824,
+   "distance_km": 42.1,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "P2 (brod prema P3)",
+   "name_en": "P2 (ferry to P3)",
+   "lat": 44.8800864,
+   "lon": 15.6154064,
+   "distance_km": 0.1,
+   "operator": null
+  },
+  {
+   "name": "P1",
+   "name_en": null,
+   "lat": 44.8803863,
+   "lon": 15.6171703,
+   "distance_km": 0.1,
+   "operator": null
+  },
+  {
+   "name": "P2 (brod prema P1)",
+   "name_en": "P2 (ferry to P1)",
+   "lat": 44.8800147,
+   "lon": 15.6155754,
+   "distance_km": 0.1,
+   "operator": null
+  },
+  {
+   "name": "P3",
+   "name_en": null,
+   "lat": 44.8934662,
+   "lon": 15.6037073,
+   "distance_km": 1.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:08:31Z"
+}

@@ -1,0 +1,97 @@
+{
+ "hotels": [
+  {
+   "name": "هتل بین‌المللی ویرا",
+   "name_en": "VIRA Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.6505761,
+   "lon": 51.6713734,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل عباسی",
+   "name_en": "Abbasi Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.6516026,
+   "lon": 51.6706303,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارسیان کوثر",
+   "name_en": "Parsian Kowsar Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.6418016,
+   "lon": 51.6652968,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل سیزنز (Seasons Hotel)",
+   "name_en": "(Seasons Hotel) هتل سیزنز",
+   "stars": 5,
+   "brand": "(Seasons Hotel) هتل سیزنز",
+   "lat": 32.6835311,
+   "lon": 51.7396697,
+   "distance_km": 6.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پرستیژ اصفهان",
+   "name_en": "Prestige",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.5535287,
+   "lon": 51.6923665,
+   "distance_km": 11.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 134,
+ "stations": [
+  {
+   "name": "ایستگاه راه آهن اصفهان",
+   "name_en": "Isfahan",
+   "lat": 32.5499852,
+   "lon": 51.6953745,
+   "distance_km": 12.2,
+   "operator": null
+  },
+  {
+   "name": "سیستان",
+   "name_en": "Sistan",
+   "lat": 32.6698536,
+   "lon": 52.1121951,
+   "distance_km": 40.7,
+   "operator": null
+  },
+  {
+   "name": "ورتون",
+   "name_en": "Vartun",
+   "lat": 32.8336288,
+   "lon": 52.1211308,
+   "distance_km": 45.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "حمل ونقل کالا و اثاثیه منزل کورش ترابر سپاهان",
+   "name_en": null,
+   "lat": 32.6031593,
+   "lon": 51.7689033,
+   "distance_km": 10.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:08:42Z"
+}

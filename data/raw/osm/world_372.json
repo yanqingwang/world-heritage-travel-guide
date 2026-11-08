@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Harrogate Majestic Hotel & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree by Hilton",
+   "lat": 53.9970221,
+   "lon": -1.5438938,
+   "distance_km": 12.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Weetwood Hall",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.837953,
+   "lon": -1.5921066,
+   "distance_km": 30.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "42 The Calls",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.7947001,
+   "lon": -1.538155,
+   "distance_km": 35.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt House Leeds",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hyatt House",
+   "lat": 53.7942235,
+   "lon": -1.5456795,
+   "distance_km": 35.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Leeds City Centre",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.7933504,
+   "lon": -1.5496214,
+   "distance_km": 35.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 303,
+ "stations": [
+  {
+   "name": "Harrogate",
+   "name_en": null,
+   "lat": 53.9934045,
+   "lon": -1.5374305,
+   "distance_km": 13.2,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Knaresborough",
+   "name_en": null,
+   "lat": 54.0090258,
+   "lon": -1.4703169,
+   "distance_km": 13.3,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Starbeck",
+   "name_en": null,
+   "lat": 53.998881,
+   "lon": -1.5004755,
+   "distance_km": 13.4,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Hornbeam Park",
+   "name_en": null,
+   "lat": 53.9803587,
+   "lon": -1.5276765,
+   "distance_km": 14.8,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Pannal",
+   "name_en": null,
+   "lat": 53.9585105,
+   "lon": -1.532787,
+   "distance_km": 17.1,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Thirsk",
+   "name_en": null,
+   "lat": 54.2286468,
+   "lon": -1.3732622,
+   "distance_km": 18.9,
+   "operator": "TransPennine Express"
+  },
+  {
+   "name": "Bedale",
+   "name_en": null,
+   "lat": 54.2889943,
+   "lon": -1.5876855,
+   "distance_km": 19.9,
+   "operator": "Wensleydale Railway"
+  },
+  {
+   "name": "Weeton",
+   "name_en": null,
+   "lat": 53.923285,
+   "lon": -1.5812986,
+   "distance_km": 20.7,
+   "operator": "Northern Trains"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Newby Hall Boat Trips",
+   "name_en": null,
+   "lat": 54.0988363,
+   "lon": -1.4690821,
+   "distance_km": 7.4,
+   "operator": null
+  },
+  {
+   "name": "Leeds Water Taxi Dock",
+   "name_en": null,
+   "lat": 53.7929989,
+   "lon": -1.5481194,
+   "distance_km": 35.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:10:25Z"
+}

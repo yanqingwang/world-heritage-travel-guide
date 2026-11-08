@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "La Villetta",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4943367,
+   "lon": 14.9602776,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Oltremare",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4950638,
+   "lon": 14.9608532,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residence Acanto",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4685435,
+   "lon": 14.9556266,
+   "distance_km": 3.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residence Alberghiero Eilir",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4665675,
+   "lon": 14.95463,
+   "distance_km": 3.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Meligunis",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4639626,
+   "lon": 14.9560653,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 146,
+ "stations": [
+  {
+   "name": "Gioiosa Marea",
+   "name_en": null,
+   "lat": 38.1750947,
+   "lon": 14.8950032,
+   "distance_km": 35.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "San Giorgio",
+   "name_en": null,
+   "lat": 38.1739361,
+   "lon": 14.9440472,
+   "distance_km": 35.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Brolo-Ficarra",
+   "name_en": null,
+   "lat": 38.1592008,
+   "lon": 14.8302047,
+   "distance_km": 38.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Patti-San Piero Patti",
+   "name_en": null,
+   "lat": 38.1469838,
+   "lon": 14.9753585,
+   "distance_km": 39.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Capo d'Orlando-Naso",
+   "name_en": null,
+   "lat": 38.1579307,
+   "lon": 14.7448825,
+   "distance_km": 41.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Oliveri-Tindari",
+   "name_en": null,
+   "lat": 38.1283856,
+   "lon": 15.0565855,
+   "distance_km": 42.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Milazzo",
+   "name_en": null,
+   "lat": 38.1978552,
+   "lon": 15.2581173,
+   "distance_km": 43.5,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Barcellona-Castroreale",
+   "name_en": null,
+   "lat": 38.1540089,
+   "lon": 15.1994604,
+   "distance_km": 44.5,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Porto Pignataro",
+   "name_en": "Pignataro Marina",
+   "lat": 38.4774499,
+   "lon": 14.9626926,
+   "distance_km": 3.2,
+   "operator": null
+  },
+  {
+   "name": "Lipari",
+   "name_en": null,
+   "lat": 38.4713837,
+   "lon": 14.9556925,
+   "distance_km": 3.3,
+   "operator": null
+  },
+  {
+   "name": "Siremar",
+   "name_en": null,
+   "lat": 38.4697157,
+   "lon": 14.9559009,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "Liberty Lines",
+   "name_en": null,
+   "lat": 38.4697647,
+   "lon": 14.9567182,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "Marina Corta",
+   "name_en": null,
+   "lat": 38.4635434,
+   "lon": 14.9576023,
+   "distance_km": 4.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:01Z"
+}

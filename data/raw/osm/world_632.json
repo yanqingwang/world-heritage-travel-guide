@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Петербургская",
+   "name_en": "Peterburgskaya",
+   "stars": null,
+   "brand": null,
+   "lat": 65.0267218,
+   "lon": 35.7071795,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Соло",
+   "name_en": "Solo",
+   "stars": null,
+   "brand": null,
+   "lat": 65.0282256,
+   "lon": 35.7101404,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Приют",
+   "name_en": "Prijut",
+   "stars": null,
+   "brand": null,
+   "lat": 65.0230857,
+   "lon": 35.7027627,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Германовская гостиница",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 65.0275132,
+   "lon": 35.7159167,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Соловецкая слобода",
+   "name_en": "Solovetskaya sloboda",
+   "stars": null,
+   "brand": null,
+   "lat": 65.0193416,
+   "lon": 35.7113387,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Монастырский причал",
+   "name_en": "Monastery pier",
+   "lat": 65.025536,
+   "lon": 35.706185,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Хета",
+   "name_en": null,
+   "lat": 65.0266691,
+   "lon": 35.7004118,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Тамарин Причал",
+   "name_en": null,
+   "lat": 65.0301038,
+   "lon": 35.6889126,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "Большой Заяцкий остров",
+   "name_en": null,
+   "lat": 64.9698657,
+   "lon": 35.6534669,
+   "distance_km": 6.6,
+   "operator": null
+  },
+  {
+   "name": "Порт",
+   "name_en": null,
+   "lat": 64.9894788,
+   "lon": 34.7918653,
+   "distance_km": 43.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:12:08Z"
+}

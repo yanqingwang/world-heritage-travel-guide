@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "San Paolo al Convento",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.279025,
+   "lon": 16.4228088,
+   "distance_km": 25.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Nicotel Wellnes",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.1405924,
+   "lon": 16.4151145,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Villa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.2505944,
+   "lon": 16.4756442,
+   "distance_km": 25.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Salsello",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.249244,
+   "lon": 16.4911318,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Palazzo Bonomi",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.2406325,
+   "lon": 16.5049169,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 105,
+ "stations": [
+  {
+   "name": "Corato Centrale",
+   "name_en": null,
+   "lat": 41.1567303,
+   "lon": 16.4176874,
+   "distance_km": 14.7,
+   "operator": "Ferrotramviaria"
+  },
+  {
+   "name": "Andria Sud",
+   "name_en": null,
+   "lat": 41.2246958,
+   "lon": 16.3145632,
+   "distance_km": 16.0,
+   "operator": "Ferrotramviaria"
+  },
+  {
+   "name": "Minervino Murge",
+   "name_en": null,
+   "lat": 41.0818124,
+   "lon": 16.0750205,
+   "distance_km": 16.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Andria Centrale",
+   "name_en": null,
+   "lat": 41.2323259,
+   "lon": 16.3014856,
+   "distance_km": 16.6,
+   "operator": "Ferrotramviaria"
+  },
+  {
+   "name": "Poggiorsini",
+   "name_en": null,
+   "lat": 40.9351965,
+   "lon": 16.2669345,
+   "distance_km": 16.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Ruvo di Puglia",
+   "name_en": null,
+   "lat": 41.1148776,
+   "lon": 16.479063,
+   "distance_km": 17.8,
+   "operator": "Ferrotramviaria"
+  },
+  {
+   "name": "Spinazzola",
+   "name_en": null,
+   "lat": 40.9534353,
+   "lon": 16.0872252,
+   "distance_km": 21.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Canosa di Puglia",
+   "name_en": null,
+   "lat": 41.2185969,
+   "lon": 16.0539684,
+   "distance_km": 23.5,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Porto di Trani",
+   "name_en": null,
+   "lat": 41.2835706,
+   "lon": 16.4234827,
+   "distance_km": 25.5,
+   "operator": null
+  },
+  {
+   "name": "Porto di Barletta",
+   "name_en": null,
+   "lat": 41.3282381,
+   "lon": 16.2867565,
+   "distance_km": 27.1,
+   "operator": "Autorità Portuale del Levante"
+  },
+  {
+   "name": "Porto di Molfetta",
+   "name_en": null,
+   "lat": 41.2097061,
+   "lon": 16.5887073,
+   "distance_km": 30.0,
+   "operator": null
+  },
+  {
+   "name": "Lega Navale Bari",
+   "name_en": null,
+   "lat": 41.1305891,
+   "lon": 16.8615468,
+   "distance_km": 49.7,
+   "operator": "Lega Navale Italiana"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:10:52Z"
+}

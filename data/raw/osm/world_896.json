@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel de Rome",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Rocco Forte Hotels",
+   "lat": 52.5157914,
+   "lon": 13.3940671,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Westin Grand Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Westin",
+   "lat": 52.5158768,
+   "lon": 13.3886042,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Berlin",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 52.5121031,
+   "lon": 13.3925395,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Adlon Kempinski",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Kempinski",
+   "lat": 52.5155764,
+   "lon": 13.3803341,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz-Carlton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Ritz-Carlton",
+   "lat": 52.5104092,
+   "lon": 13.375226,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 885,
+ "stations": [
+  {
+   "name": "Oranienburger Straße",
+   "name_en": null,
+   "lat": 52.5252246,
+   "lon": 13.3930145,
+   "distance_km": 0.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Berlin Friedrichstraße",
+   "name_en": null,
+   "lat": 52.5201744,
+   "lon": 13.3869884,
+   "distance_km": 0.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "S Friedrichstraße",
+   "name_en": null,
+   "lat": 52.5204967,
+   "lon": 13.3868236,
+   "distance_km": 0.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Alexanderplatz",
+   "name_en": null,
+   "lat": 52.5215661,
+   "lon": 13.4112804,
+   "distance_km": 1.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Nordbahnhof",
+   "name_en": null,
+   "lat": 52.5322749,
+   "lon": 13.3878392,
+   "distance_km": 1.3,
+   "operator": "DB Netz AG;DB Station&Service AG"
+  },
+  {
+   "name": "Berlin Hauptbahnhof (tief)",
+   "name_en": null,
+   "lat": 52.5246361,
+   "lon": 13.369861,
+   "distance_km": 1.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Potsdamer Platz",
+   "name_en": null,
+   "lat": 52.5094035,
+   "lon": 13.3766399,
+   "distance_km": 1.8,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Berlin Hauptbahnhof",
+   "name_en": "Berlin Central Station",
+   "lat": 52.5249451,
+   "lon": 13.3696614,
+   "distance_km": 1.8,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Vera-Brittain-Ufer",
+   "name_en": null,
+   "lat": 52.5203164,
+   "lon": 13.4011585,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Berliner Dom",
+   "name_en": null,
+   "lat": 52.5200995,
+   "lon": 13.4004694,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Reichstagufer",
+   "name_en": null,
+   "lat": 52.5216096,
+   "lon": 13.3875159,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Reederei",
+   "name_en": null,
+   "lat": 52.5211694,
+   "lon": 13.3868143,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "Spree & Havelschiffahrt",
+   "name_en": null,
+   "lat": 52.5204986,
+   "lon": 13.3846095,
+   "distance_km": 0.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:23Z"
+}

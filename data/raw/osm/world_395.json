@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Abitalia Tower Plaza",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7221343,
+   "lon": 10.3788493,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bagni di Pisa Palace & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7637738,
+   "lon": 10.4414931,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Toscana Charme Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.6056399,
+   "lon": 10.2920086,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Palazzo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.5331621,
+   "lon": 10.3028537,
+   "distance_km": 22.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel & La Pace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.8839193,
+   "lon": 10.7704321,
+   "distance_km": 35.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 560,
+ "stations": [
+  {
+   "name": "Pisa San Rossore",
+   "name_en": null,
+   "lat": 43.7233722,
+   "lon": 10.3879192,
+   "distance_km": 0.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Stazione Centrale",
+   "name_en": "Central Station",
+   "lat": 43.707695,
+   "lon": 10.3963659,
+   "distance_km": 1.8,
+   "operator": "PisaMo"
+  },
+  {
+   "name": "Pisa Centrale",
+   "name_en": "Central Station of Pisa",
+   "lat": 43.7078625,
+   "lon": 10.3983886,
+   "distance_km": 1.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "San Giusto - Aurelia",
+   "name_en": null,
+   "lat": 43.701377,
+   "lon": 10.3912648,
+   "distance_km": 2.5,
+   "operator": "PisaMo"
+  },
+  {
+   "name": "Pisa Aeroporto",
+   "name_en": "Station Pisa Airport",
+   "lat": 43.6986715,
+   "lon": 10.3975589,
+   "distance_km": 2.8,
+   "operator": "PisaMo"
+  },
+  {
+   "name": "San Giuliano Terme",
+   "name_en": null,
+   "lat": 43.7649348,
+   "lon": 10.437056,
+   "distance_km": 5.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Rigoli",
+   "name_en": null,
+   "lat": 43.7897418,
+   "lon": 10.4198657,
+   "distance_km": 7.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Navacchio",
+   "name_en": null,
+   "lat": 43.6859596,
+   "lon": 10.486902,
+   "distance_km": 8.5,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Darsena Lucca",
+   "name_en": null,
+   "lat": 43.8656206,
+   "lon": 10.2534886,
+   "distance_km": 19.5,
+   "operator": null
+  },
+  {
+   "name": "Darsena Toscana",
+   "name_en": null,
+   "lat": 43.8643582,
+   "lon": 10.2476168,
+   "distance_km": 19.6,
+   "operator": null
+  },
+  {
+   "name": "Darsena Europa",
+   "name_en": null,
+   "lat": 43.863008,
+   "lon": 10.2426514,
+   "distance_km": 19.7,
+   "operator": null
+  },
+  {
+   "name": "Darsena Italia",
+   "name_en": null,
+   "lat": 43.8640032,
+   "lon": 10.246279,
+   "distance_km": 19.7,
+   "operator": null
+  },
+  {
+   "name": "Calata Carrara",
+   "name_en": null,
+   "lat": 43.5554649,
+   "lon": 10.3021975,
+   "distance_km": 20.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:10:31Z"
+}

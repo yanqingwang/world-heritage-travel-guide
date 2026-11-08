@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Serena",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 25.2538901,
+   "lon": 88.7793559,
+   "distance_km": 31.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "হোটেল প্রোম ইন্টারন্যাশনাল",
+   "name_en": "Hotel Prome International",
+   "stars": null,
+   "brand": null,
+   "lat": 25.1037564,
+   "lon": 89.0225186,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Boishakhi (Residential), Bhai Bhai Market, Sadar Rd, Joypurhat",
+   "name_en": "Hotel Boishakhi (Residential), Bhai Bhai Market, Sadar Rd, Joypurhat",
+   "stars": null,
+   "brand": null,
+   "lat": 25.1024071,
+   "lon": 89.0277345,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "hotel SK হোটেল এস কে",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8182759,
+   "lon": 88.9381054,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Shiyam",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8220118,
+   "lon": 89.0403455,
+   "distance_km": 24.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 48,
+ "stations": [
+  {
+   "name": "জামালগঞ্জ",
+   "name_en": "Jamalganj Railway Station",
+   "lat": 25.0305229,
+   "lon": 89.0219499,
+   "distance_km": 4.5,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "আক্কেলপুর",
+   "name_en": "Akkelpur",
+   "lat": 24.9645943,
+   "lon": 89.0157574,
+   "distance_km": 8.4,
+   "operator": null
+  },
+  {
+   "name": "জয়পুরহাট",
+   "name_en": "Joypurhat Railway Station",
+   "lat": 25.098996,
+   "lon": 89.0260363,
+   "distance_km": 9.0,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "Joypurhat Railway Station",
+   "name_en": "Joypurhat Railway Station",
+   "lat": 25.0989939,
+   "lon": 89.0257582,
+   "distance_km": 9.0,
+   "operator": null
+  },
+  {
+   "name": "Tilakpur Station",
+   "name_en": null,
+   "lat": 24.8768268,
+   "lon": 89.0018049,
+   "distance_km": 17.3,
+   "operator": null
+  },
+  {
+   "name": "পাঁচবিবি",
+   "name_en": "Panchbibi",
+   "lat": 25.1885176,
+   "lon": 89.0215654,
+   "distance_km": 18.1,
+   "operator": null
+  },
+  {
+   "name": "ছাতিয়ানগ্রাম",
+   "name_en": "Chatiangram",
+   "lat": 24.8438594,
+   "lon": 88.9944646,
+   "distance_km": 20.9,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  },
+  {
+   "name": "সান্তাহার জংশন",
+   "name_en": "Santahar Junction",
+   "lat": 24.8061937,
+   "lon": 88.9860566,
+   "distance_km": 25.0,
+   "operator": "বাংলাদেশ রেলওয়ে"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ferighat",
+   "name_en": null,
+   "lat": 24.7763194,
+   "lon": 88.702912,
+   "distance_km": 39.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:09:56Z"
+}

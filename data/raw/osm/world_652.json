@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Dolce Vita",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 9.7522276,
+   "lon": 118.7507434,
+   "distance_km": 49.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.409779,
+   "lon": 119.1753701,
+   "distance_km": 39.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Microtel by Wyndham Puerto Princesa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.7906742,
+   "lon": 118.7720134,
+   "distance_km": 44.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bambua Nature Park Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.189464,
+   "lon": 118.8970824,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hill Myna",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1956502,
+   "lon": 118.8968248,
+   "distance_km": 3.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 71,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Mangrove River Paddle Boat",
+   "name_en": null,
+   "lat": 10.1968094,
+   "lon": 118.904315,
+   "distance_km": 3.6,
+   "operator": null
+  },
+  {
+   "name": "Sabang",
+   "name_en": null,
+   "lat": 10.1974184,
+   "lon": 118.893106,
+   "distance_km": 4.3,
+   "operator": null
+  },
+  {
+   "name": "Dos Palmas",
+   "name_en": null,
+   "lat": 9.9154127,
+   "lon": 118.8766786,
+   "distance_km": 28.3,
+   "operator": null
+  },
+  {
+   "name": "Honda Bay Wharf",
+   "name_en": null,
+   "lat": 9.8684335,
+   "lon": 118.7479649,
+   "distance_km": 38.0,
+   "operator": null
+  },
+  {
+   "name": "Santa Lourdes Wharf",
+   "name_en": null,
+   "lat": 9.843291,
+   "lon": 118.7463212,
+   "distance_km": 40.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:12:13Z"
+}

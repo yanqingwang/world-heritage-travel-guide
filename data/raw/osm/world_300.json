@@ -1,0 +1,121 @@
+{
+ "hotels": [
+  {
+   "name": "Fairmont Le Château Frontenac",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Fairmont",
+   "lat": 46.8118142,
+   "lon": -71.2054608,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge Saint-Antoine",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.8144602,
+   "lon": -71.2018231,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Manoir Victoria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.8145206,
+   "lon": -71.210841,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Le Priori",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.8144075,
+   "lon": -71.2033226,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel PUR, Quebec, A Tribute Portfolio Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Tribute Portfolio",
+   "lat": 46.814553,
+   "lon": -71.2242169,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 119,
+ "stations": [
+  {
+   "name": "Québec",
+   "name_en": null,
+   "lat": 46.8183175,
+   "lon": -71.2143518,
+   "distance_km": 1.0,
+   "operator": "Via Rail Canada"
+  },
+  {
+   "name": "Sainte-Foy",
+   "name_en": null,
+   "lat": 46.7543583,
+   "lon": -71.2976532,
+   "distance_km": 9.0,
+   "operator": "Via Rail Canada"
+  },
+  {
+   "name": "Québec (Chutes-Montmorency)",
+   "name_en": null,
+   "lat": 46.8853636,
+   "lon": -71.1450774,
+   "distance_km": 9.8,
+   "operator": "Chemin de fer Charlevoix Inc."
+  },
+  {
+   "name": "Charny",
+   "name_en": null,
+   "lat": 46.7135116,
+   "lon": -71.2704462,
+   "distance_km": 11.6,
+   "operator": "Via Rail Canada"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Québec",
+   "name_en": null,
+   "lat": 46.8118162,
+   "lon": -71.2016017,
+   "distance_km": 0.7,
+   "operator": "Société des traversiers du Québec"
+  },
+  {
+   "name": "Gare fluviale",
+   "name_en": null,
+   "lat": 46.8118267,
+   "lon": -71.2019588,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Lévis",
+   "name_en": null,
+   "lat": 46.8106109,
+   "lon": -71.1883369,
+   "distance_km": 1.7,
+   "operator": "Société des traversiers du Québec"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:09:52Z"
+}

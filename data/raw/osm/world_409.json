@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Grand Naniloa Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 19.7295599,
+   "lon": -155.0649449,
+   "distance_km": 37.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hawaiian Naturist Park",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4522416,
+   "lon": -155.1384888,
+   "distance_km": 5.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Volcano Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4358323,
+   "lon": -155.2237535,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Volcano Hale",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.437367,
+   "lon": -155.2352857,
+   "distance_km": 12.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chalet Kailua",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4417607,
+   "lon": -155.23491,
+   "distance_km": 12.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 16,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:10:37Z"
+}

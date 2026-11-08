@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Camp Buffalo retreat",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6595212,
+   "lon": 90.9912286,
+   "distance_km": 8.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pigeon nature camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6576184,
+   "lon": 90.9912749,
+   "distance_km": 8.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Florican Cottage",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6592285,
+   "lon": 90.9944181,
+   "distance_km": 8.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Manas view jungle resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6591735,
+   "lon": 90.9980381,
+   "distance_km": 9.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bansbari Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6587632,
+   "lon": 91.0005568,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 20,
+ "stations": [
+  {
+   "name": "Barpeta Road",
+   "name_en": "Barpeta Road",
+   "lat": 26.5021259,
+   "lon": 90.9645713,
+   "distance_km": 24.1,
+   "operator": "NFR"
+  },
+  {
+   "name": "Sorbhog",
+   "name_en": null,
+   "lat": 26.4945638,
+   "lon": 90.8887291,
+   "distance_km": 25.1,
+   "operator": "NFR"
+  },
+  {
+   "name": "Patiladaha",
+   "name_en": null,
+   "lat": 26.4986937,
+   "lon": 90.7983885,
+   "distance_km": 27.7,
+   "operator": "NFR"
+  },
+  {
+   "name": "Sorupeta",
+   "name_en": null,
+   "lat": 26.4996415,
+   "lon": 91.0772008,
+   "distance_km": 28.1,
+   "operator": "NFR"
+  },
+  {
+   "name": "Bijni",
+   "name_en": "Bijni",
+   "lat": 26.4973796,
+   "lon": 90.7074554,
+   "distance_km": 33.1,
+   "operator": "NFR"
+  },
+  {
+   "name": "Pathsala",
+   "name_en": null,
+   "lat": 26.497126,
+   "lon": 91.1777196,
+   "distance_km": 34.4,
+   "operator": "NFR"
+  },
+  {
+   "name": "Chaprakata",
+   "name_en": null,
+   "lat": 26.4922948,
+   "lon": 90.612514,
+   "distance_km": 40.5,
+   "operator": "NFR"
+  },
+  {
+   "name": "Tihu",
+   "name_en": null,
+   "lat": 26.4716298,
+   "lon": 91.2682154,
+   "distance_km": 43.0,
+   "operator": "NFR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:59Z"
+}

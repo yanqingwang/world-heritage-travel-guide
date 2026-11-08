@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "Hôtel Chélia",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 35.5577195,
+   "lon": 6.173815,
+   "distance_km": 27.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Trajan Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.4897973,
+   "lon": 6.4682697,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "نزل الكاهنة - Hôtel Elkahina",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.4901541,
+   "lon": 6.4677139,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Fesdis",
+   "name_en": "Fesdiss Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.6172442,
+   "lon": 6.2471679,
+   "distance_km": 24.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الياسمين",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.5838551,
+   "lon": 6.1980533,
+   "distance_km": 26.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 13,
+ "stations": [
+  {
+   "name": "Djerma",
+   "name_en": "Djerma",
+   "lat": 35.6583076,
+   "lon": 6.3081911,
+   "distance_km": 24.2,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Batna",
+   "name_en": "Batna",
+   "lat": 35.5606383,
+   "lon": 6.1732855,
+   "distance_km": 28.0,
+   "operator": "الشركة الوطنية للنقل بالسكك الحديدية"
+  },
+  {
+   "name": "Aïn Yagout",
+   "name_en": "Aïn Yagout",
+   "lat": 35.769381,
+   "lon": 6.4003258,
+   "distance_km": 32.3,
+   "operator": "SNTF"
+  },
+  {
+   "name": "Sebbakh",
+   "name_en": null,
+   "lat": 35.8880137,
+   "lon": 6.4998256,
+   "distance_km": 45.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:07Z"
+}

@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Zaki",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 33.8814892,
+   "lon": -5.5336808,
+   "distance_km": 17.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Z Hotel Meknes",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 33.8419841,
+   "lon": -5.5207124,
+   "distance_km": 22.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ibis Meknes",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Ibis",
+   "lat": 33.8956086,
+   "lon": -5.5536521,
+   "distance_km": 16.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Belle Vue",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 33.8951509,
+   "lon": -5.5488273,
+   "distance_km": 16.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ibis Budget Fes",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.0511773,
+   "lon": -5.0360553,
+   "distance_km": 48.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 41,
+ "stations": [
+  {
+   "name": "Ain Karma",
+   "name_en": null,
+   "lat": 34.0105329,
+   "lon": -5.6246271,
+   "distance_km": 6.6,
+   "operator": null
+  },
+  {
+   "name": "Oued Rdom",
+   "name_en": null,
+   "lat": 34.0690844,
+   "lon": -5.6488534,
+   "distance_km": 8.6,
+   "operator": null
+  },
+  {
+   "name": "Ouarzigha",
+   "name_en": null,
+   "lat": 33.9342348,
+   "lon": -5.5448096,
+   "distance_km": 11.9,
+   "operator": null
+  },
+  {
+   "name": "Meknès - Al Amir Abdelkader",
+   "name_en": null,
+   "lat": 33.8992372,
+   "lon": -5.5451334,
+   "distance_km": 15.7,
+   "operator": null
+  },
+  {
+   "name": "Meknès مكناس",
+   "name_en": null,
+   "lat": 33.8965745,
+   "lon": -5.5317426,
+   "distance_km": 16.2,
+   "operator": "ONCF"
+  },
+  {
+   "name": "Bab Tissera",
+   "name_en": null,
+   "lat": 34.1596946,
+   "lon": -5.7097711,
+   "distance_km": 19.0,
+   "operator": null
+  },
+  {
+   "name": "Sabaa Aiyoun",
+   "name_en": null,
+   "lat": 33.9016034,
+   "lon": -5.3756955,
+   "distance_km": 23.1,
+   "operator": null
+  },
+  {
+   "name": "Sidi Kacem",
+   "name_en": null,
+   "lat": 34.2309805,
+   "lon": -5.7188349,
+   "distance_km": 25.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:13:26Z"
+}

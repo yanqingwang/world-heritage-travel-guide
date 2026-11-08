@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Neumühle Resort & SPA",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.1278023,
+   "lon": 9.8239633,
+   "distance_km": 38.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dorint Hotel Würzburg",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Dorint",
+   "lat": 49.7967521,
+   "lon": 9.9413117,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Rebstock",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western Premier",
+   "lat": 49.7905806,
+   "lon": 9.9307448,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Würzburger Hof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.7974094,
+   "lon": 9.9329324,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Greifensteiner Hof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.795227,
+   "lon": 9.9285729,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 433,
+ "stations": [
+  {
+   "name": "Würzburg Hauptbahnhof",
+   "name_en": null,
+   "lat": 49.8021549,
+   "lon": 9.935891,
+   "distance_km": 1.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Würzburg-Heidingsfeld Ost",
+   "name_en": null,
+   "lat": 49.7611403,
+   "lon": 9.9533236,
+   "distance_km": 3.7,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Würzburg-Zell",
+   "name_en": null,
+   "lat": 49.8049134,
+   "lon": 9.8846238,
+   "distance_km": 4.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Veitshöchheim",
+   "name_en": null,
+   "lat": 49.8303456,
+   "lon": 9.8763139,
+   "distance_km": 6.1,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Rottendorf",
+   "name_en": null,
+   "lat": 49.7931837,
+   "lon": 10.0291347,
+   "distance_km": 6.5,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Winterhausen",
+   "name_en": null,
+   "lat": 49.7089427,
+   "lon": 10.0112388,
+   "distance_km": 10.7,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Dettelbach Bahnhof",
+   "name_en": null,
+   "lat": 49.7879696,
+   "lon": 10.090538,
+   "distance_km": 10.9,
+   "operator": "DB Netz AG"
+  },
+  {
+   "name": "Thüngersheim",
+   "name_en": null,
+   "lat": 49.8782733,
+   "lon": 9.8401951,
+   "distance_km": 11.9,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Würzburg",
+   "name_en": null,
+   "lat": 49.7965493,
+   "lon": 9.9255162,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Alter Hafen",
+   "name_en": null,
+   "lat": 49.8012379,
+   "lon": 9.9216976,
+   "distance_km": 1.6,
+   "operator": "Würzburger Hafen GmbH"
+  },
+  {
+   "name": "Bootshafen SFSW",
+   "name_en": null,
+   "lat": 49.7987837,
+   "lon": 9.8977249,
+   "distance_km": 3.0,
+   "operator": "Staatliche Feuerwehrschule Würzburg"
+  },
+  {
+   "name": "Flusshafen",
+   "name_en": null,
+   "lat": 49.8075812,
+   "lon": 9.8761784,
+   "distance_km": 4.8,
+   "operator": "Würzburger Hafen GmbH"
+  },
+  {
+   "name": "Zell",
+   "name_en": null,
+   "lat": 49.8095927,
+   "lon": 9.8739855,
+   "distance_km": 5.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:09:13Z"
+}

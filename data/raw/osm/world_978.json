@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Corfu Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.6193499,
+   "lon": 19.922739,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Corfu Holiday Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5921601,
+   "lon": 19.9189769,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Angsana Corfu",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5531675,
+   "lon": 19.9091092,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ikos Dassia",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Ikos Resorts",
+   "lat": 39.6791864,
+   "lon": 19.8392468,
+   "distance_km": 9.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Mediterraneo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.6128903,
+   "lon": 19.7786744,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 624,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Κέρκυρα",
+   "name_en": "Corfu",
+   "lat": 39.6285182,
+   "lon": 19.9129735,
+   "distance_km": 0.9,
+   "operator": "Ο.Λ.ΚΕ"
+  },
+  {
+   "name": "Επιβατικός Σταθμός Φέριμποτ",
+   "name_en": "Ferry Terminal",
+   "lat": 39.6259832,
+   "lon": 19.9103492,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Βίδο",
+   "name_en": "Vido Port",
+   "lat": 39.6387064,
+   "lon": 19.9244545,
+   "distance_km": 1.7,
+   "operator": null
+  },
+  {
+   "name": "Επιβατικός Σταθμός Κρουαζιερόπλοιων",
+   "name_en": "Cruise Terminal",
+   "lat": 39.6290777,
+   "lon": 19.9011281,
+   "distance_km": 1.8,
+   "operator": null
+  },
+  {
+   "name": "Κανόνι",
+   "name_en": "Kanoni",
+   "lat": 39.5902966,
+   "lon": 19.9172826,
+   "distance_km": 3.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:31Z"
+}

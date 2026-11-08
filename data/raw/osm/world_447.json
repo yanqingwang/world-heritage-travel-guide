@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Longitude 131º",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2499911,
+   "lon": 131.0082957,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Desert Gardens Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2437183,
+   "lon": 130.9848227,
+   "distance_km": 8.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Outback Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2430998,
+   "lon": 130.9897918,
+   "distance_km": 8.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Emu Walk Apartments",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2423158,
+   "lon": 130.9848179,
+   "distance_km": 8.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Lost Camel Hotel",
+   "name_en": "The Lost Camel Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": -25.2407497,
+   "lon": 130.982943,
+   "distance_km": 9.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:10:56Z"
+}

@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Belize Biltmore Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 17.5139418,
+   "lon": -88.2245214,
+   "distance_km": 33.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Harbour View Boutique Hotel And Yoga Retreat",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4922325,
+   "lon": -88.1820804,
+   "distance_km": 29.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Great House Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4926879,
+   "lon": -88.1817531,
+   "distance_km": 29.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fort George Hotel & Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4929114,
+   "lon": -88.1819799,
+   "distance_km": 29.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Coningsby Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4903151,
+   "lon": -88.1870247,
+   "distance_km": 29.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 43,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Port Coral",
+   "name_en": null,
+   "lat": 17.4560829,
+   "lon": -88.1270167,
+   "distance_km": 22.9,
+   "operator": "Feinstein Group"
+  },
+  {
+   "name": "Terminal 1",
+   "name_en": null,
+   "lat": 17.4925692,
+   "lon": -88.1828725,
+   "distance_km": 29.1,
+   "operator": null
+  },
+  {
+   "name": "Terminal 2",
+   "name_en": null,
+   "lat": 17.4932647,
+   "lon": -88.183486,
+   "distance_km": 29.2,
+   "operator": "Fort Street Tourism Village"
+  },
+  {
+   "name": "Belize Terminal - San Pedro Belize Express Watertaxi",
+   "name_en": null,
+   "lat": 17.4940558,
+   "lon": -88.1846663,
+   "distance_km": 29.3,
+   "operator": null
+  },
+  {
+   "name": "Terminal 4",
+   "name_en": null,
+   "lat": 17.4945005,
+   "lon": -88.184325,
+   "distance_km": 29.3,
+   "operator": "Fort Street Tourism Village"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:13:00Z"
+}

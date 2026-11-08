@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hôtel Reisen",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Unbound Collection",
+   "lat": 59.325429,
+   "lon": 18.0749424,
+   "distance_km": 10.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mornington Bromma",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mornington Hotels",
+   "lat": 59.3465299,
+   "lon": 17.9655633,
+   "distance_km": 5.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scandic Alvik",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Scandic Hotels",
+   "lat": 59.3314453,
+   "lon": 17.9821674,
+   "distance_km": 5.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Story Hotel Signalfabriken, Part of JdV by Hyatt",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hyatt",
+   "lat": 59.3615939,
+   "lon": 17.9673135,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hagastrand, Autograph Collection",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Radisson Blu",
+   "lat": 59.3692132,
+   "lon": 18.0312759,
+   "distance_km": 9.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 307,
+ "stations": [
+  {
+   "name": "Sundbyberg",
+   "name_en": null,
+   "lat": 59.3607417,
+   "lon": 17.9718708,
+   "distance_km": 6.5,
+   "operator": null
+  },
+  {
+   "name": "Spånga",
+   "name_en": null,
+   "lat": 59.3836259,
+   "lon": 17.8981821,
+   "distance_km": 6.9,
+   "operator": null
+  },
+  {
+   "name": "Årstaberg",
+   "name_en": null,
+   "lat": 59.2996092,
+   "lon": 18.0280784,
+   "distance_km": 8.4,
+   "operator": null
+  },
+  {
+   "name": "Solna",
+   "name_en": null,
+   "lat": 59.3664864,
+   "lon": 18.0096279,
+   "distance_km": 8.6,
+   "operator": null
+  },
+  {
+   "name": "Älvsjö",
+   "name_en": null,
+   "lat": 59.2785472,
+   "lon": 18.011089,
+   "distance_km": 8.6,
+   "operator": null
+  },
+  {
+   "name": "Ulriksdal",
+   "name_en": null,
+   "lat": 59.3807703,
+   "lon": 18.0003755,
+   "distance_km": 9.2,
+   "operator": null
+  },
+  {
+   "name": "Stockholm Odenplan",
+   "name_en": null,
+   "lat": 59.3434553,
+   "lon": 18.0455108,
+   "distance_km": 9.3,
+   "operator": null
+  },
+  {
+   "name": "Barkarby",
+   "name_en": null,
+   "lat": 59.4051955,
+   "lon": 17.8643513,
+   "distance_km": 9.4,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Drottningholm",
+   "name_en": null,
+   "lat": 59.3231805,
+   "lon": 17.8909153,
+   "distance_km": 0.3,
+   "operator": "Strömma Kanalbolaget"
+  },
+  {
+   "name": "Kungshättan",
+   "name_en": null,
+   "lat": 59.3047834,
+   "lon": 17.9022254,
+   "distance_km": 2.1,
+   "operator": null
+  },
+  {
+   "name": "Mälarhöjdsbadet",
+   "name_en": null,
+   "lat": 59.3009983,
+   "lon": 17.9273622,
+   "distance_km": 3.3,
+   "operator": "Strömma Kanalbolaget"
+  },
+  {
+   "name": "Fridhem",
+   "name_en": null,
+   "lat": 59.3036068,
+   "lon": 17.9500573,
+   "distance_km": 4.1,
+   "operator": null
+  },
+  {
+   "name": "Tappström",
+   "name_en": null,
+   "lat": 59.2925594,
+   "lon": 17.8114355,
+   "distance_km": 5.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:11:48Z"
+}

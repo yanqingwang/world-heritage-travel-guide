@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "KESH PALACE",
+   "name_en": "Kesh palace",
+   "stars": 3,
+   "brand": null,
+   "lat": 39.0578161,
+   "lon": 66.8364241,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dulon гостевой дом музей",
+   "name_en": "\"Dulon\" uzbek national house museum hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.0542047,
+   "lon": 66.8228568,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shakhrisabz Yulduzi",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.0635523,
+   "lon": 66.8346712,
+   "distance_km": 1.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Отель \"бек\"",
+   "name_en": "Hotel bek",
+   "stars": null,
+   "brand": null,
+   "lat": 39.0505163,
+   "lon": 66.8517156,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dilmurod",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.0366377,
+   "lon": 66.8131102,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 9,
+ "stations": [
+  {
+   "name": "Kitob",
+   "name_en": "Kitab",
+   "lat": 39.0902778,
+   "lon": 66.8374538,
+   "distance_km": 4.5,
+   "operator": null
+  },
+  {
+   "name": "Танхоз",
+   "name_en": "Tanxoz",
+   "lat": 39.042061,
+   "lon": 66.731681,
+   "distance_km": 8.8,
+   "operator": null
+  },
+  {
+   "name": "Yakkabogʻ",
+   "name_en": "Yakkabog'",
+   "lat": 38.9805444,
+   "lon": 66.6732994,
+   "distance_km": 15.8,
+   "operator": null
+  },
+  {
+   "name": "Qamashi",
+   "name_en": null,
+   "lat": 38.821731,
+   "lon": 66.4577742,
+   "distance_km": 41.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:13:34Z"
+}

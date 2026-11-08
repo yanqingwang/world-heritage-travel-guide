@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "هتل سنتی سرابی شوشتر",
+   "name_en": "Shushtar Sarabi Traditional hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 32.043251,
+   "lon": 48.8553581,
+   "distance_km": 31.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل گرگر",
+   "name_en": "Gargar Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.068091,
+   "lon": 48.8454124,
+   "distance_km": 31.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل طبیب",
+   "name_en": "Tabib Traditional Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.0436618,
+   "lon": 48.8513747,
+   "distance_km": 31.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل سنتی خانه افضل",
+   "name_en": null,
+   "stars": null,
+   "brand": "Afzal House Traditional Hotel",
+   "lat": 32.0438151,
+   "lon": 48.8515692,
+   "distance_km": 31.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل سنتی عمارت پدری(جامعی)",
+   "name_en": "traditional hotel emarat pedari(jameei)",
+   "stars": null,
+   "brand": null,
+   "lat": 32.0439137,
+   "lon": 48.854948,
+   "distance_km": 31.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 17,
+ "stations": [
+  {
+   "name": "میان آباد",
+   "name_en": "Miyanab",
+   "lat": 31.9697273,
+   "lon": 48.4473277,
+   "distance_km": 8.2,
+   "operator": null
+  },
+  {
+   "name": "آهودشت",
+   "name_en": "Ahu Dasht",
+   "lat": 31.8738255,
+   "lon": 48.5607557,
+   "distance_km": 15.4,
+   "operator": null
+  },
+  {
+   "name": "هفت تپه",
+   "name_en": "Haft Tappeh",
+   "lat": 32.0739548,
+   "lon": 48.3377009,
+   "distance_km": 18.7,
+   "operator": null
+  },
+  {
+   "name": "شوشتر",
+   "name_en": "Shushtar",
+   "lat": 32.0519679,
+   "lon": 48.829711,
+   "distance_km": 29.5,
+   "operator": null
+  },
+  {
+   "name": "شوش",
+   "name_en": "Shush",
+   "lat": 32.2050878,
+   "lon": 48.2898691,
+   "distance_km": 30.9,
+   "operator": null
+  },
+  {
+   "name": "بامدژ",
+   "name_en": null,
+   "lat": 31.6878091,
+   "lon": 48.6687088,
+   "distance_km": 38.3,
+   "operator": null
+  },
+  {
+   "name": "سبزآب",
+   "name_en": "Sabzab",
+   "lat": 32.3370298,
+   "lon": 48.2806675,
+   "distance_km": 43.0,
+   "operator": null
+  },
+  {
+   "name": "خاور",
+   "name_en": "Khavar",
+   "lat": 31.6124515,
+   "lon": 48.693191,
+   "distance_km": 46.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:08:32Z"
+}

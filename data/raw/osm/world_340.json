@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Surya Vilas Palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.1905485,
+   "lon": 77.5304987,
+   "distance_km": 3.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Surya vilas hotel",
+   "name_en": "Surya vilas hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 27.1913132,
+   "lon": 77.5314475,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Birder's Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.2052039,
+   "lon": 77.5104633,
+   "distance_km": 4.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pelican",
+   "name_en": "Pelican",
+   "stars": null,
+   "brand": null,
+   "lat": 27.2049251,
+   "lon": 77.5098911,
+   "distance_km": 4.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kiran Villa Palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.2046389,
+   "lon": 77.5103939,
+   "distance_km": 4.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 59,
+ "stations": [
+  {
+   "name": "Bharatpur Junction",
+   "name_en": null,
+   "lat": 27.2364861,
+   "lon": 77.4875907,
+   "distance_km": 8.3,
+   "operator": "WCR"
+  },
+  {
+   "name": "Sewar",
+   "name_en": null,
+   "lat": 27.1777559,
+   "lon": 77.4255324,
+   "distance_km": 9.1,
+   "operator": "WCR"
+  },
+  {
+   "name": "Ikran",
+   "name_en": null,
+   "lat": 27.2115901,
+   "lon": 77.6083334,
+   "distance_km": 10.4,
+   "operator": "NCR"
+  },
+  {
+   "name": "Dhaurmui Jaghina",
+   "name_en": null,
+   "lat": 27.2918739,
+   "lon": 77.5362053,
+   "distance_km": 14.1,
+   "operator": "WCR"
+  },
+  {
+   "name": "Chiksana",
+   "name_en": null,
+   "lat": 27.2000795,
+   "lon": 77.6622462,
+   "distance_km": 14.9,
+   "operator": "NCR"
+  },
+  {
+   "name": "Helak",
+   "name_en": null,
+   "lat": 27.2341434,
+   "lon": 77.3745682,
+   "distance_km": 15.9,
+   "operator": "NCR"
+  },
+  {
+   "name": "Pingora",
+   "name_en": null,
+   "lat": 27.0876517,
+   "lon": 77.3719668,
+   "distance_km": 16.8,
+   "operator": "WCR"
+  },
+  {
+   "name": "Fatehpur Sikri",
+   "name_en": "Fatehpur Sikri",
+   "lat": 27.0942617,
+   "lon": 77.6707151,
+   "distance_km": 17.2,
+   "operator": "NCR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:58Z"
+}

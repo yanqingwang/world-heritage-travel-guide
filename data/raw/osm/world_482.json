@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Quinta Las Alondras",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 20.9851478,
+   "lon": -101.2884085,
+   "distance_km": 4.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Paseo de la Presa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 21.0072428,
+   "lon": -101.2514575,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Plaza & Convention Center",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.9871838,
+   "lon": -101.2845926,
+   "distance_km": 4.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express Guanajuato",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Holiday Inn Express",
+   "lat": 20.9879493,
+   "lon": -101.2863304,
+   "distance_km": 4.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Collection",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 21.1150917,
+   "lon": -101.6524144,
+   "distance_km": 42.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 92,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:11:05Z"
+}

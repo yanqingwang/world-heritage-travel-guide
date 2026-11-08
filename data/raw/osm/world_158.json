@@ -1,0 +1,52 @@
+{
+ "hotels": [
+  {
+   "name": "Ramada",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ramada",
+   "lat": 49.4982324,
+   "lon": -113.9464212,
+   "distance_km": 36.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stardust Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.4847826,
+   "lon": -113.93536,
+   "distance_km": 37.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Excuses Alberta Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.4855224,
+   "lon": -113.9485145,
+   "distance_km": 37.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Great Canadian Barn Dance",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.3634252,
+   "lon": -113.6118966,
+   "distance_km": 42.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 4,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:08:45Z"
+}

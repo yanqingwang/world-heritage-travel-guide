@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Oriental Towers",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 10.7775917,
+   "lon": 79.1423696,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "PL.A Krishna Inn",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 10.7977204,
+   "lon": 78.681296,
+   "distance_km": 49.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Temple Tower",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 10.7758939,
+   "lon": 79.1320859,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sampath",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 10.8340427,
+   "lon": 78.693267,
+   "distance_km": 48.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott",
+   "name_en": null,
+   "stars": null,
+   "brand": "Courtyard",
+   "lat": 10.8040382,
+   "lon": 78.6770369,
+   "distance_km": 49.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 91,
+ "stations": [
+  {
+   "name": "Thanjavur Junction",
+   "name_en": null,
+   "lat": 10.7781963,
+   "lon": 79.1396716,
+   "distance_km": 1.0,
+   "operator": "SR"
+  },
+  {
+   "name": "Titte",
+   "name_en": null,
+   "lat": 10.8375519,
+   "lon": 79.1817582,
+   "distance_km": 8.1,
+   "operator": "SR"
+  },
+  {
+   "name": "Alakkudi",
+   "name_en": null,
+   "lat": 10.7772662,
+   "lon": 79.0528726,
+   "distance_km": 8.7,
+   "operator": "SR"
+  },
+  {
+   "name": "Pasupatikovil",
+   "name_en": null,
+   "lat": 10.8826518,
+   "lon": 79.1911775,
+   "distance_km": 12.8,
+   "operator": "SR"
+  },
+  {
+   "name": "Ayyampet",
+   "name_en": null,
+   "lat": 10.896807,
+   "lon": 79.2074454,
+   "distance_km": 15.1,
+   "operator": "SR"
+  },
+  {
+   "name": "Saliyamangalam",
+   "name_en": null,
+   "lat": 10.7796359,
+   "lon": 79.275277,
+   "distance_km": 15.6,
+   "operator": "SR"
+  },
+  {
+   "name": "Budalur",
+   "name_en": null,
+   "lat": 10.7828722,
+   "lon": 78.9810094,
+   "distance_km": 16.5,
+   "operator": "SR"
+  },
+  {
+   "name": "Pandaravadai",
+   "name_en": null,
+   "lat": 10.9135631,
+   "lon": 79.2420021,
+   "distance_km": 18.8,
+   "operator": "SR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:24Z"
+}

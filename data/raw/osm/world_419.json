@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Ocean View Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5904618,
+   "lon": -57.9161927,
+   "distance_km": 16.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fisherman's landinn inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5836032,
+   "lon": -57.9081674,
+   "distance_km": 17.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Neddies Harbour Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5251854,
+   "lon": -57.8608959,
+   "distance_km": 20.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Tides Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5211222,
+   "lon": -57.8811446,
+   "distance_km": 21.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bonne Bay Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5009557,
+   "lon": -57.9156262,
+   "distance_km": 24.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 7,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Norris Point",
+   "name_en": null,
+   "lat": 49.5177506,
+   "lon": -57.8755969,
+   "distance_km": 21.5,
+   "operator": "BonTours"
+  },
+  {
+   "name": "Woody Point",
+   "name_en": null,
+   "lat": 49.502935,
+   "lon": -57.9125463,
+   "distance_km": 24.3,
+   "operator": "BonTours"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:10:48Z"
+}

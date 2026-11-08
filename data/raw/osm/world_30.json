@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Bellotto",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2451913,
+   "lon": 21.0121493,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bristol",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2424041,
+   "lon": 21.0161146,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Europejski",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Raffles",
+   "lat": 52.2419019,
+   "lon": 21.0146199,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Warszawa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2356428,
+   "lon": 21.0123205,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Presidential",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2276896,
+   "lon": 21.0048094,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 329,
+ "stations": [
+  {
+   "name": "Warszawa Gdańska",
+   "name_en": null,
+   "lat": 52.2590955,
+   "lon": 20.9923588,
+   "distance_km": 1.7,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Warszawa Wileńska",
+   "name_en": null,
+   "lat": 52.2558006,
+   "lon": 21.0385505,
+   "distance_km": 1.9,
+   "operator": "Polskie Koleje Państwowe"
+  },
+  {
+   "name": "Warszawa Centralna",
+   "name_en": "Warsaw Central",
+   "lat": 52.2288207,
+   "lon": 21.00316,
+   "distance_km": 2.4,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Warszawa Śródmieście WKD",
+   "name_en": null,
+   "lat": 52.2274779,
+   "lon": 20.9993834,
+   "distance_km": 2.6,
+   "operator": "Warszawska Kolej Dojazdowa"
+  },
+  {
+   "name": "Warszawa Wschodnia",
+   "name_en": null,
+   "lat": 52.2515889,
+   "lon": 21.0523678,
+   "distance_km": 2.7,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Warszawa Główna",
+   "name_en": null,
+   "lat": 52.2250393,
+   "lon": 20.9850425,
+   "distance_km": 3.3,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Warszawa Zachodnia",
+   "name_en": null,
+   "lat": 52.2201572,
+   "lon": 20.9651719,
+   "distance_km": 4.6,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Warszawa Lotnisko Chopina",
+   "name_en": "Warsaw Chopin Airport",
+   "lat": 52.1696266,
+   "lon": 20.9753321,
+   "distance_km": 9.3,
+   "operator": "PKP Polskie Linie Kolejowe"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Podzamcze Fontanny",
+   "name_en": null,
+   "lat": 52.2541878,
+   "lon": 21.0138499,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "Zoo",
+   "name_en": null,
+   "lat": 52.2537573,
+   "lon": 21.0188627,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "Stadion Narodowy",
+   "name_en": null,
+   "lat": 52.2369649,
+   "lon": 21.0411147,
+   "distance_km": 2.4,
+   "operator": "Zarząd Transportu Miejskiego w Warszawie"
+  },
+  {
+   "name": "Most Poniatowskiego",
+   "name_en": null,
+   "lat": 52.2356458,
+   "lon": 21.0382896,
+   "distance_km": 2.4,
+   "operator": "Zarząd Transportu Miejskiego w Warszawie"
+  },
+  {
+   "name": "Cypel Czerniakowski",
+   "name_en": null,
+   "lat": 52.2299365,
+   "lon": 21.043464,
+   "distance_km": 3.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:08:39Z"
+}

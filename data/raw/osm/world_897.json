@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Carl.22 City Appartements",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.9755421,
+   "lon": 10.3261017,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Göbel's Schlosshotel Prinz von Hessen",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.8800511,
+   "lon": 9.8555955,
+   "distance_km": 33.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hohes Rott",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.3785324,
+   "lon": 10.1227929,
+   "distance_km": 47.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dorint Hotel am Dom Erfurt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Dorint",
+   "lat": 50.9755782,
+   "lon": 11.0187899,
+   "distance_km": 49.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Glockenhof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.9716062,
+   "lon": 10.3249903,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 352,
+ "stations": [
+  {
+   "name": "Eisenach Hauptbahnhof",
+   "name_en": null,
+   "lat": 50.9768973,
+   "lon": 10.3319937,
+   "distance_km": 2.2,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Förtha (Kr Eisenach)",
+   "name_en": null,
+   "lat": 50.9387922,
+   "lon": 10.261943,
+   "distance_km": 4.3,
+   "operator": "DB InfraGO"
+  },
+  {
+   "name": "Wutha",
+   "name_en": null,
+   "lat": 50.9570003,
+   "lon": 10.3969382,
+   "distance_km": 6.4,
+   "operator": "DB InfraGO"
+  },
+  {
+   "name": "Marksuhl",
+   "name_en": null,
+   "lat": 50.9083618,
+   "lon": 10.2245994,
+   "distance_km": 8.6,
+   "operator": "DB InfraGO"
+  },
+  {
+   "name": "Oberrohn",
+   "name_en": null,
+   "lat": 50.849781,
+   "lon": 10.2141364,
+   "distance_km": 14.5,
+   "operator": "DB InfraGO"
+  },
+  {
+   "name": "Gerstungen",
+   "name_en": null,
+   "lat": 50.964608,
+   "lon": 10.0651642,
+   "distance_km": 16.9,
+   "operator": "DB InfraGO"
+  },
+  {
+   "name": "Bad Salzungen",
+   "name_en": null,
+   "lat": 50.8151818,
+   "lon": 10.2310319,
+   "distance_km": 17.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Fröttstädt",
+   "name_en": null,
+   "lat": 50.9305059,
+   "lon": 10.5732523,
+   "distance_km": 19.1,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Werranixe",
+   "name_en": null,
+   "lat": 51.191951,
+   "lon": 10.0940254,
+   "distance_km": 29.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:10Z"
+}

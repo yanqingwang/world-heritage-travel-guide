@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Famulus Business Hotel****",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6889496,
+   "lon": 17.6462088,
+   "distance_km": 17.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Barokk Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.688985,
+   "lon": 17.6334446,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Capitulum",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6879716,
+   "lon": 17.6315954,
+   "distance_km": 17.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Domus Collis",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6894322,
+   "lon": 17.6328327,
+   "distance_km": 18.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Peklo",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.7546483,
+   "lon": 18.1212022,
+   "distance_km": 35.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 114,
+ "stations": [
+  {
+   "name": "Pannonhalma",
+   "name_en": null,
+   "lat": 47.547519,
+   "lon": 17.7407026,
+   "distance_km": 1.6,
+   "operator": "GYSEV"
+  },
+  {
+   "name": "Tarjánpuszta",
+   "name_en": null,
+   "lat": 47.5046883,
+   "lon": 17.7887769,
+   "distance_km": 5.7,
+   "operator": "GYSEV"
+  },
+  {
+   "name": "Veszprémvarsány",
+   "name_en": null,
+   "lat": 47.4433021,
+   "lon": 17.8185258,
+   "distance_km": 12.9,
+   "operator": "GYSEV"
+  },
+  {
+   "name": "Győrszemere",
+   "name_en": null,
+   "lat": 47.5679825,
+   "lon": 17.5849431,
+   "distance_km": 13.3,
+   "operator": "GYSEV"
+  },
+  {
+   "name": "Győrszabadhegy",
+   "name_en": null,
+   "lat": 47.6631158,
+   "lon": 17.6480807,
+   "distance_km": 14.9,
+   "operator": "GYSEV"
+  },
+  {
+   "name": "Győrszentiván",
+   "name_en": null,
+   "lat": 47.6886455,
+   "lon": 17.7460481,
+   "distance_km": 15.1,
+   "operator": "MÁV"
+  },
+  {
+   "name": "Gyömöre",
+   "name_en": null,
+   "lat": 47.4851363,
+   "lon": 17.5588953,
+   "distance_km": 16.9,
+   "operator": "GYSEV"
+  },
+  {
+   "name": "Győr",
+   "name_en": null,
+   "lat": 47.6820845,
+   "lon": 17.6348269,
+   "distance_km": 17.2,
+   "operator": "MÁV"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Győr-Gönyű RO-RO terminál",
+   "name_en": null,
+   "lat": 47.7340877,
+   "lon": 17.7723917,
+   "distance_km": 20.2,
+   "operator": null
+  },
+  {
+   "name": "Vizitúra kiszállóhely",
+   "name_en": null,
+   "lat": 47.8050924,
+   "lon": 17.5789205,
+   "distance_km": 31.2,
+   "operator": null
+  },
+  {
+   "name": "Komárom - Monostori Erőd",
+   "name_en": null,
+   "lat": 47.7533934,
+   "lon": 18.095811,
+   "distance_km": 33.6,
+   "operator": null
+  },
+  {
+   "name": "Kikötő",
+   "name_en": null,
+   "lat": 47.7493429,
+   "lon": 18.1222041,
+   "distance_km": 34.8,
+   "operator": null
+  },
+  {
+   "name": "Átemelő hely",
+   "name_en": null,
+   "lat": 47.8305383,
+   "lon": 17.5473079,
+   "distance_km": 34.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:12:53Z"
+}

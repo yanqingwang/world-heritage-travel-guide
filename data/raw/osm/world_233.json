@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "The Leela Palace Kempinski",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Leela",
+   "lat": 28.5801445,
+   "lon": 77.1893113,
+   "distance_km": 6.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ANdaZ Delhi - a concept by Hyatt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "ANdAZ",
+   "lat": 28.5542398,
+   "lon": 77.1220283,
+   "distance_km": 7.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Roseate House",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.5507261,
+   "lon": 77.120575,
+   "distance_km": 7.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Bristol Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.4791231,
+   "lon": 77.0917951,
+   "distance_km": 10.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Méridien",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Le Méridien",
+   "lat": 28.618805,
+   "lon": 77.2177001,
+   "distance_km": 11.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 517,
+ "stations": [
+  {
+   "name": "Delhi Safdarjang",
+   "name_en": null,
+   "lat": 28.5822036,
+   "lon": 77.1862115,
+   "distance_km": 6.4,
+   "operator": "NR"
+  },
+  {
+   "name": "Sarojini Nagar",
+   "name_en": null,
+   "lat": 28.5812101,
+   "lon": 77.1963127,
+   "distance_km": 6.4,
+   "operator": "NR"
+  },
+  {
+   "name": "Lodhi Colony",
+   "name_en": null,
+   "lat": 28.5797537,
+   "lon": 77.2168728,
+   "distance_km": 6.9,
+   "operator": "NR"
+  },
+  {
+   "name": "Sewa Nagar",
+   "name_en": null,
+   "lat": 28.5789548,
+   "lon": 77.2276886,
+   "distance_km": 7.3,
+   "operator": "NR"
+  },
+  {
+   "name": "Lajpat Nagar",
+   "name_en": null,
+   "lat": 28.5792815,
+   "lon": 77.2440352,
+   "distance_km": 8.4,
+   "operator": "NR"
+  },
+  {
+   "name": "Okhla",
+   "name_en": "Okhla",
+   "lat": 28.5594753,
+   "lon": 77.2656232,
+   "distance_km": 8.8,
+   "operator": "NR"
+  },
+  {
+   "name": "Hazrat Nizamuddin Junction",
+   "name_en": null,
+   "lat": 28.5889646,
+   "lon": 77.2535202,
+   "distance_km": 9.8,
+   "operator": "NR"
+  },
+  {
+   "name": "Sarai Kale Khan",
+   "name_en": null,
+   "lat": 28.5891891,
+   "lon": 77.2580654,
+   "distance_km": 10.1,
+   "operator": "National Capital Region Transport Corporation"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:10:05Z"
+}

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "ザ・リッツ・カールトン京都",
+   "name_en": "The Ritz Carlton Kyoto",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.013883,
+   "lon": 135.7708526,
+   "distance_km": 5.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "京都ホテルオークラ",
+   "name_en": "Hotel Okura Kyoto",
+   "stars": 5,
+   "brand": "Okura Hotels & Resorts",
+   "lat": 35.011689,
+   "lon": 135.7694834,
+   "distance_km": 5.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Kyoto",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 35.0099586,
+   "lon": 135.7694858,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "三井ガーデンホテル京都三条プレミア",
+   "name_en": "Mitsui Garden Hotel Kyoto Sanjo Premier",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.0082631,
+   "lon": 135.7620032,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "四条河原町温泉 空庭テラス京都 別邸",
+   "name_en": "Soraniwa Terrace Kyoto Bettei",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.0025134,
+   "lon": 135.7697144,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1171,
+ "stations": [
+  {
+   "name": "京都精華大前",
+   "name_en": "Kyoto Seikadai-mae",
+   "lat": 35.0731087,
+   "lon": 135.7688924,
+   "distance_km": 2.0,
+   "operator": "叡山電鉄"
+  },
+  {
+   "name": "二軒茶屋",
+   "name_en": "Nikenchaya",
+   "lat": 35.0778279,
+   "lon": 135.7658902,
+   "distance_km": 2.3,
+   "operator": "叡山電鉄"
+  },
+  {
+   "name": "木野",
+   "name_en": "Kino",
+   "lat": 35.0710865,
+   "lon": 135.7764306,
+   "distance_km": 2.5,
+   "operator": "叡山電鉄"
+  },
+  {
+   "name": "岩倉",
+   "name_en": "Iwakura",
+   "lat": 35.0712344,
+   "lon": 135.7865917,
+   "distance_km": 3.3,
+   "operator": "叡山電鉄"
+  },
+  {
+   "name": "市原",
+   "name_en": "Ichihara",
+   "lat": 35.0883246,
+   "lon": 135.7630815,
+   "distance_km": 3.3,
+   "operator": "叡山電鉄"
+  },
+  {
+   "name": "宝ヶ池",
+   "name_en": "Takaragaike",
+   "lat": 35.0581761,
+   "lon": 135.7923442,
+   "distance_km": 3.6,
+   "operator": "叡山電鉄"
+  },
+  {
+   "name": "修学院",
+   "name_en": "Shugakuin",
+   "lat": 35.0502462,
+   "lon": 135.7904061,
+   "distance_km": 3.6,
+   "operator": "叡山電鉄"
+  },
+  {
+   "name": "一乗寺",
+   "name_en": "Ichijoji",
+   "lat": 35.0442096,
+   "lon": 135.7874156,
+   "distance_km": 3.6,
+   "operator": "叡山電鉄"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "蹴上",
+   "name_en": "Keage",
+   "lat": 35.0064392,
+   "lon": 135.7916227,
+   "distance_km": 7.0,
+   "operator": "びわ湖疏水船受付事務局"
+  },
+  {
+   "name": "山科",
+   "name_en": "Yamashina",
+   "lat": 34.9946023,
+   "lon": 135.8263501,
+   "distance_km": 9.9,
+   "operator": "びわ湖疏水船受付事務局"
+  },
+  {
+   "name": "三井寺",
+   "name_en": "Midera",
+   "lat": 35.0116614,
+   "lon": 135.8566361,
+   "distance_km": 10.9,
+   "operator": "びわ湖疏水船受付事務局"
+  },
+  {
+   "name": "十石舟乗り場",
+   "name_en": null,
+   "lat": 34.9232916,
+   "lon": 135.7561274,
+   "distance_km": 15.2,
+   "operator": null
+  },
+  {
+   "name": "伏見船着場",
+   "name_en": null,
+   "lat": 34.9224613,
+   "lon": 135.7559216,
+   "distance_km": 15.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:01Z"
+}

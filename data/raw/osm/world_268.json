@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Bayerischer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.5442158,
+   "lon": 9.6820544,
+   "distance_km": 26.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Riva",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.6673197,
+   "lon": 9.1881312,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Steigenberger Inselhotel Konstanz",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.664203,
+   "lon": 9.1784727,
+   "distance_km": 30.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Quellenhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Resort Ragaz",
+   "lat": 47.0004508,
+   "lon": 9.5039164,
+   "distance_km": 48.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zur Linde",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.3867984,
+   "lon": 9.3929461,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 953,
+ "stations": [
+  {
+   "name": "Mühlegg Talstation",
+   "name_en": null,
+   "lat": 47.4220777,
+   "lon": 9.3777036,
+   "distance_km": 0.1,
+   "operator": "VBSG"
+  },
+  {
+   "name": "Mühlegg",
+   "name_en": null,
+   "lat": 47.4195401,
+   "lon": 9.3794512,
+   "distance_km": 0.4,
+   "operator": "VBSG"
+  },
+  {
+   "name": "St. Gallen",
+   "name_en": null,
+   "lat": 47.4232548,
+   "lon": 9.3698138,
+   "distance_km": 0.6,
+   "operator": "SBB"
+  },
+  {
+   "name": "St. Gallen AB",
+   "name_en": null,
+   "lat": 47.4222203,
+   "lon": 9.3689214,
+   "distance_km": 0.6,
+   "operator": "AB"
+  },
+  {
+   "name": "St. Gallen Güterbahnhof",
+   "name_en": null,
+   "lat": 47.4173025,
+   "lon": 9.3624735,
+   "distance_km": 1.3,
+   "operator": "AB"
+  },
+  {
+   "name": "St. Gallen St. Fiden",
+   "name_en": null,
+   "lat": 47.4344878,
+   "lon": 9.3934755,
+   "distance_km": 1.8,
+   "operator": "SBB"
+  },
+  {
+   "name": "Notkersegg",
+   "name_en": null,
+   "lat": 47.4252335,
+   "lon": 9.4038904,
+   "distance_km": 2.0,
+   "operator": "AB-tb"
+  },
+  {
+   "name": "Schwarzer Bären",
+   "name_en": null,
+   "lat": 47.4224882,
+   "lon": 9.4154395,
+   "distance_km": 2.9,
+   "operator": "AB-tb"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sitterfähre Süd",
+   "name_en": null,
+   "lat": 47.4971346,
+   "lon": 9.2985893,
+   "distance_km": 10.1,
+   "operator": null
+  },
+  {
+   "name": "Sitterfähre Nord",
+   "name_en": null,
+   "lat": 47.4974634,
+   "lon": 9.2987797,
+   "distance_km": 10.2,
+   "operator": null
+  },
+  {
+   "name": "Horn (See)",
+   "name_en": null,
+   "lat": 47.4969803,
+   "lon": 9.4632127,
+   "distance_km": 10.5,
+   "operator": "SBS"
+  },
+  {
+   "name": "Rorschach Hafen (See)",
+   "name_en": null,
+   "lat": 47.478937,
+   "lon": 9.4936352,
+   "distance_km": 10.7,
+   "operator": "SBS"
+  },
+  {
+   "name": "Kornhaus-Hafen Rorschach",
+   "name_en": null,
+   "lat": 47.4792987,
+   "lon": 9.4929083,
+   "distance_km": 10.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:10:47Z"
+}

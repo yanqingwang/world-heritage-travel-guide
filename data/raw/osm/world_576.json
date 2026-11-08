@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Sixty at Ayutthaya",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 14.3571161,
+   "lon": 100.569137,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Classic Kameo",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 14.3549886,
+   "lon": 100.5966196,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "โรงแรมโต่บักเส็ง",
+   "name_en": "Toh Buk Seng Ayutthaya Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 14.4605312,
+   "lon": 100.6012808,
+   "distance_km": 13.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "โรงแรมสระบุรี",
+   "name_en": "Saraburi Hotel",
+   "stars": 2,
+   "brand": null,
+   "lat": 14.5229585,
+   "lon": 100.918367,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Somjai Place Ayutthaya",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 14.3563882,
+   "lon": 100.5760579,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 129,
+ "stations": [
+  {
+   "name": "อยุธยา",
+   "name_en": "Ayutthaya",
+   "lat": 14.3567126,
+   "lon": 100.5832004,
+   "distance_km": 2.8,
+   "operator": "การรถไฟแห่งประเทศไทย"
+  },
+  {
+   "name": "บ้านม้า",
+   "name_en": "Ban Ma",
+   "lat": 14.3841019,
+   "lon": 100.597101,
+   "distance_km": 5.6,
+   "operator": "การรถไฟแห่งประเทศไทย"
+  },
+  {
+   "name": "บ้านโพ",
+   "name_en": "Ban Pho",
+   "lat": 14.2821511,
+   "lon": 100.5886751,
+   "distance_km": 8.4,
+   "operator": "การรถไฟแห่งประเทศไทย"
+  },
+  {
+   "name": "มาบพระจันทร์",
+   "name_en": "Map Phra Chan",
+   "lat": 14.4022844,
+   "lon": 100.6320805,
+   "distance_km": 9.8,
+   "operator": null
+  },
+  {
+   "name": "บางปะอิน",
+   "name_en": "Bang Pa-in",
+   "lat": 14.2393509,
+   "lon": 100.5845885,
+   "distance_km": 12.8,
+   "operator": "การรถไฟแห่งประเทศไทย"
+  },
+  {
+   "name": "พระแก้ว",
+   "name_en": "Phra Kaeo",
+   "lat": 14.4287017,
+   "lon": 100.6855474,
+   "distance_km": 16.2,
+   "operator": null
+  },
+  {
+   "name": "คลองพุทรา",
+   "name_en": "Khlong Phutsa",
+   "lat": 14.1858761,
+   "lon": 100.5782987,
+   "distance_km": 18.6,
+   "operator": "การรถไฟแห่งประเทศไทย"
+  },
+  {
+   "name": "ชุมทางบ้านภาชี",
+   "name_en": "Ban Phachi Junction",
+   "lat": 14.4505571,
+   "lon": 100.7207717,
+   "distance_km": 20.7,
+   "operator": "การรถไฟแห่งประเทศไทย"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "ท่าเรือวัดขุนพรหม",
+   "name_en": "Wat Khun Phrom Ferry Terminal",
+   "lat": 14.3476347,
+   "lon": 100.5699534,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "ท่าเรือวัดบางกะจะ",
+   "name_en": "Wat Bang Kacha Ferry Terminal",
+   "lat": 14.3447626,
+   "lon": 100.5758464,
+   "distance_km": 2.1,
+   "operator": null
+  },
+  {
+   "name": "ท่าเรือป้อมเพชร",
+   "name_en": "Phet Fort Ferry Terminal",
+   "lat": 14.345826,
+   "lon": 100.5767253,
+   "distance_km": 2.2,
+   "operator": null
+  },
+  {
+   "name": "ท่าเรือวัดพนัญเชิง",
+   "name_en": "Wat Phananchoeng Ferry Terminal",
+   "lat": 14.3448087,
+   "lon": 100.5779494,
+   "distance_km": 2.3,
+   "operator": null
+  },
+  {
+   "name": "ท่าเทียบเรือตลาดเจ้าพรหม",
+   "name_en": "Chao Phrom Market Pier",
+   "lat": 14.3580231,
+   "lon": 100.5806056,
+   "distance_km": 2.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:11:59Z"
+}

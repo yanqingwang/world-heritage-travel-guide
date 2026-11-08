@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Chicama",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -8.1228858,
+   "lon": -79.0426758,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mamá Tina",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -8.0827952,
+   "lon": -79.1193971,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Caballito de Totora",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -8.0826529,
+   "lon": -79.1228467,
+   "distance_km": 6.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": -8.1368924,
+   "lon": -79.0343401,
+   "distance_km": 5.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -8.1076392,
+   "lon": -79.0243424,
+   "distance_km": 5.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 131,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:10:02Z"
+}

@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Bonne Nuit",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -8.4905288,
+   "lon": 119.8851553,
+   "distance_km": 38.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eco Tree O'tel",
+   "name_en": "Eco Tree O'tel",
+   "stars": 2,
+   "brand": null,
+   "lat": -8.4952504,
+   "lon": 119.8786916,
+   "distance_km": 37.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pagi",
+   "name_en": "RedDoorz near Pantai Pede",
+   "stars": 1,
+   "brand": null,
+   "lat": -8.5000532,
+   "lon": 119.8816915,
+   "distance_km": 37.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Jayakarta Suites Komodo-Flores",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -8.5251411,
+   "lon": 119.8671652,
+   "distance_km": 34.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sudamala Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -8.5227938,
+   "lon": 119.8714042,
+   "distance_km": 35.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 56,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Cruise Ship Tender Landing",
+   "name_en": null,
+   "lat": -8.5725401,
+   "lon": 119.5020843,
+   "distance_km": 12.0,
+   "operator": null
+  },
+  {
+   "name": "Dermaga Loh Liang",
+   "name_en": null,
+   "lat": -8.5707456,
+   "lon": 119.4996842,
+   "distance_km": 12.3,
+   "operator": null
+  },
+  {
+   "name": "Pelabuhan Labuan Bajo",
+   "name_en": "Labuan Bajo Port",
+   "lat": -8.4936356,
+   "lon": 119.8753601,
+   "distance_km": 37.3,
+   "operator": "PELNI;Pelabuhan Ferry"
+  },
+  {
+   "name": "Pelabuhan ferry Labuan Bajo",
+   "name_en": "Labuan Bajo ferry port",
+   "lat": -8.4920852,
+   "lon": 119.8750758,
+   "distance_km": 37.3,
+   "operator": "ASDP"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:12:07Z"
+}

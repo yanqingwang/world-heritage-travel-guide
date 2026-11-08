@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Newcastle Gateshead",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 54.9661486,
+   "lon": -1.6061047,
+   "distance_km": 21.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel du Vin",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 54.9720877,
+   "lon": -1.5905428,
+   "distance_km": 21.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maldron Hotel Newcastle",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Maldron Hotels",
+   "lat": 54.9716231,
+   "lon": -1.6163883,
+   "distance_km": 22.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jesmond Dene House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 54.9990517,
+   "lon": -1.6035285,
+   "distance_km": 25.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Close House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 54.9872079,
+   "lon": -1.802935,
+   "distance_km": 27.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 237,
+ "stations": [
+  {
+   "name": "Durham",
+   "name_en": null,
+   "lat": 54.7797488,
+   "lon": -1.5815122,
+   "distance_km": 0.7,
+   "operator": "London North Eastern Railway"
+  },
+  {
+   "name": "Chester-le-Street",
+   "name_en": null,
+   "lat": 54.8545355,
+   "lon": -1.5782541,
+   "distance_km": 8.9,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Dipwood Halt",
+   "name_en": null,
+   "lat": 54.8862872,
+   "lon": -1.6645975,
+   "distance_km": 13.6,
+   "operator": null
+  },
+  {
+   "name": "Bishop Auckland",
+   "name_en": null,
+   "lat": 54.6572212,
+   "lon": -1.6779534,
+   "distance_km": 14.6,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Bishop Auckland West",
+   "name_en": null,
+   "lat": 54.6571184,
+   "lon": -1.6816425,
+   "distance_km": 14.8,
+   "operator": "Weardale Railway"
+  },
+  {
+   "name": "East Tanfield",
+   "name_en": null,
+   "lat": 54.8885497,
+   "lon": -1.6992903,
+   "distance_km": 14.9,
+   "operator": null
+  },
+  {
+   "name": "Causey Arch",
+   "name_en": null,
+   "lat": 54.8973288,
+   "lon": -1.686687,
+   "distance_km": 15.4,
+   "operator": null
+  },
+  {
+   "name": "Andrews House",
+   "name_en": null,
+   "lat": 54.90848,
+   "lon": -1.6757001,
+   "distance_km": 16.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Newcastle",
+   "name_en": null,
+   "lat": 54.9919513,
+   "lon": -1.4498941,
+   "distance_km": 25.4,
+   "operator": null
+  },
+  {
+   "name": "Port of Tyne International Passenger Terminal",
+   "name_en": null,
+   "lat": 54.9925026,
+   "lon": -1.4522176,
+   "distance_km": 25.5,
+   "operator": null
+  },
+  {
+   "name": "Hartlepool Dock",
+   "name_en": null,
+   "lat": 54.6975323,
+   "lon": -1.1910866,
+   "distance_km": 26.1,
+   "operator": "PD Ports"
+  },
+  {
+   "name": "South Shields Ferry Terminal",
+   "name_en": null,
+   "lat": 54.9972342,
+   "lon": -1.4408014,
+   "distance_km": 26.2,
+   "operator": "Nexus"
+  },
+  {
+   "name": "North Shields Ferry Terminal",
+   "name_en": null,
+   "lat": 55.0037863,
+   "lon": -1.4442454,
+   "distance_km": 26.8,
+   "operator": "Nexus"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:10:23Z"
+}

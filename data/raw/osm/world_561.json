@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "EKHO Lake House",
+   "name_en": null,
+   "stars": 4,
+   "brand": "EKHO",
+   "lat": 7.9427612,
+   "lon": 80.9972526,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Grand Mountain Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 7.4559336,
+   "lon": 80.6281598,
+   "distance_km": 44.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "sigiriya nature villa lodge",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 7.9497188,
+   "lon": 80.7500202,
+   "distance_km": 15.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sevonrich Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.8479822,
+   "lon": 80.6518758,
+   "distance_km": 1.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz Tourist Home",
+   "name_en": null,
+   "stars": null,
+   "brand": "The Ritz-Carlton",
+   "lat": 7.8588296,
+   "lon": 80.6587553,
+   "distance_km": 1.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 181,
+ "stations": [
+  {
+   "name": "Kalawewa",
+   "name_en": null,
+   "lat": 8.0237261,
+   "lon": 80.5311746,
+   "distance_km": 22.6,
+   "operator": null
+  },
+  {
+   "name": "Negama",
+   "name_en": null,
+   "lat": 7.9799089,
+   "lon": 80.4835241,
+   "distance_km": 22.8,
+   "operator": null
+  },
+  {
+   "name": "Kekirawa",
+   "name_en": null,
+   "lat": 8.0584532,
+   "lon": 80.5814517,
+   "distance_km": 23.6,
+   "operator": null
+  },
+  {
+   "name": "Palugaswewa",
+   "name_en": null,
+   "lat": 8.0590196,
+   "lon": 80.7132576,
+   "distance_km": 23.6,
+   "operator": null
+  },
+  {
+   "name": "Horiwiala",
+   "name_en": null,
+   "lat": 8.0677899,
+   "lon": 80.6785139,
+   "distance_km": 23.7,
+   "operator": null
+  },
+  {
+   "name": "Moragollagama",
+   "name_en": null,
+   "lat": 7.905764,
+   "lon": 80.4221695,
+   "distance_km": 25.5,
+   "operator": null
+  },
+  {
+   "name": "Habarana",
+   "name_en": null,
+   "lat": 8.0573101,
+   "lon": 80.7695893,
+   "distance_km": 26.0,
+   "operator": null
+  },
+  {
+   "name": "Konwewa",
+   "name_en": null,
+   "lat": 7.8507932,
+   "lon": 80.3491121,
+   "distance_km": 33.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:12:01Z"
+}

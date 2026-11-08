@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "EKHO Lake House",
+   "name_en": null,
+   "stars": 4,
+   "brand": "EKHO",
+   "lat": 7.9427612,
+   "lon": 80.9972526,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "sigiriya nature villa lodge",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 7.9497188,
+   "lon": 80.7500202,
+   "distance_km": 27.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Syanco Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.9408282,
+   "lon": 80.9994225,
+   "distance_km": 0.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tishan Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.9627807,
+   "lon": 80.9776323,
+   "distance_km": 4.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jays Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 8.0280016,
+   "lon": 80.7662016,
+   "distance_km": 27.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 157,
+ "stations": [
+  {
+   "name": "Polonnaruwa",
+   "name_en": null,
+   "lat": 7.9301686,
+   "lon": 81.0333406,
+   "distance_km": 3.7,
+   "operator": null
+  },
+  {
+   "name": "Galoya Junction Railway Station",
+   "name_en": null,
+   "lat": 8.1377809,
+   "lon": 80.8658177,
+   "distance_km": 27.1,
+   "operator": null
+  },
+  {
+   "name": "Welikanda",
+   "name_en": null,
+   "lat": 7.9471138,
+   "lon": 81.2503557,
+   "distance_km": 27.6,
+   "operator": null
+  },
+  {
+   "name": "Habarana",
+   "name_en": null,
+   "lat": 8.0573101,
+   "lon": 80.7695893,
+   "distance_km": 28.9,
+   "operator": null
+  },
+  {
+   "name": "Hatares Kotuwa",
+   "name_en": null,
+   "lat": 8.1451745,
+   "lon": 80.8391243,
+   "distance_km": 29.5,
+   "operator": null
+  },
+  {
+   "name": "Palugaswewa",
+   "name_en": null,
+   "lat": 8.0590196,
+   "lon": 80.7132576,
+   "distance_km": 34.5,
+   "operator": null
+  },
+  {
+   "name": "Horiwiala",
+   "name_en": null,
+   "lat": 8.0677899,
+   "lon": 80.6785139,
+   "distance_km": 38.4,
+   "operator": null
+  },
+  {
+   "name": "Agbopura",
+   "name_en": null,
+   "lat": 8.3267329,
+   "lon": 80.9796646,
+   "distance_km": 43.8,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:12Z"
+}

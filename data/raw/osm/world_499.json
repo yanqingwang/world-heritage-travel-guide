@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "فندق القصبة",
+   "name_en": "Hotel La Kasbah",
+   "stars": 5,
+   "brand": "غولدن ياسمين",
+   "lat": 35.6797663,
+   "lon": 10.0994018,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Kenz Hotel Thalasso & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Magic Life",
+   "lat": 35.9104423,
+   "lon": 10.5789467,
+   "distance_km": 50.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق كنتيننتال",
+   "name_en": "Hotel Continental",
+   "stars": 3,
+   "brand": null,
+   "lat": 35.6855077,
+   "lon": 10.0979161,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Kasbah",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.6800296,
+   "lon": 10.0992197,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dar Hassine Allani",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.6796037,
+   "lon": 10.1024162,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 26,
+ "stations": [
+  {
+   "name": "منزل المحطة",
+   "name_en": null,
+   "lat": 36.01028,
+   "lon": 10.3778807,
+   "distance_km": 44.1,
+   "operator": null
+  },
+  {
+   "name": "سوسة بضائع",
+   "name_en": null,
+   "lat": 35.7778856,
+   "lon": 10.5772487,
+   "distance_km": 44.3,
+   "operator": "الشركة الوطنية للسكك الحديدية التونسية"
+  },
+  {
+   "name": "القلعة الصغرى",
+   "name_en": null,
+   "lat": 35.8219787,
+   "lon": 10.5714633,
+   "distance_km": 45.3,
+   "operator": null
+  },
+  {
+   "name": "مساكن",
+   "name_en": null,
+   "lat": 35.7289523,
+   "lon": 10.599953,
+   "distance_km": 45.4,
+   "operator": null
+  },
+  {
+   "name": "القلعة الكبرى",
+   "name_en": null,
+   "lat": 35.8680522,
+   "lon": 10.5530601,
+   "distance_km": 45.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:11:08Z"
+}

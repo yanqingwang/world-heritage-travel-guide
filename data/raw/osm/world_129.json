@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Plaza Copán",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8386902,
+   "lon": -89.1549651,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Yaragua",
+   "name_en": "Hotel Yaragua",
+   "stars": null,
+   "brand": null,
+   "lat": 14.8386267,
+   "lon": -89.1548057,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Brisas de Copán",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8398068,
+   "lon": -89.155138,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Camino Maya",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8382753,
+   "lon": -89.1558148,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Posada De Belssy",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8398223,
+   "lon": -89.155626,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 87,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:08:44Z"
+}

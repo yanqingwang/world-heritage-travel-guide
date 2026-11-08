@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Villa Tasca Farmhouse",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.2692333,
+   "lon": 14.4855581,
+   "distance_km": 17.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Federico II Palace Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.5448836,
+   "lon": 14.2984003,
+   "distance_km": 20.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel NH Caltagirone Villa San Mauro",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2229119,
+   "lon": 14.5130502,
+   "distance_km": 22.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel San Michele",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.4989038,
+   "lon": 14.0508485,
+   "distance_km": 29.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Giocolano",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.0691664,
+   "lon": 14.3322649,
+   "distance_km": 32.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 60,
+ "stations": [
+  {
+   "name": "Caltagirone",
+   "name_en": null,
+   "lat": 37.2288856,
+   "lon": 14.5280352,
+   "distance_km": 22.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Enna",
+   "name_en": null,
+   "lat": 37.5810112,
+   "lon": 14.289692,
+   "distance_km": 24.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Dittaino",
+   "name_en": null,
+   "lat": 37.5646145,
+   "lon": 14.4624707,
+   "distance_km": 24.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Villarosa",
+   "name_en": null,
+   "lat": 37.5671843,
+   "lon": 14.2001478,
+   "distance_km": 25.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Leonforte Pirato",
+   "name_en": null,
+   "lat": 37.6062733,
+   "lon": 14.3761279,
+   "distance_km": 27.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Caltanissetta Centrale",
+   "name_en": null,
+   "lat": 37.4885284,
+   "lon": 14.0572963,
+   "distance_km": 28.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Caltanissetta Xirbi",
+   "name_en": null,
+   "lat": 37.5362531,
+   "lon": 14.0569827,
+   "distance_km": 31.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Grammichele",
+   "name_en": null,
+   "lat": 37.209287,
+   "lon": 14.6412373,
+   "distance_km": 32.2,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Marina di Cala del Sole",
+   "name_en": null,
+   "lat": 37.0962143,
+   "lon": 13.9440839,
+   "distance_km": 45.7,
+   "operator": null
+  },
+  {
+   "name": "Porto di Licata",
+   "name_en": null,
+   "lat": 37.0911609,
+   "lon": 13.93935,
+   "distance_km": 46.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:13:23Z"
+}

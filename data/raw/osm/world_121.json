@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Aloft by Marriott Kathmandu Thamel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Aloft",
+   "lat": 27.7158609,
+   "lon": 85.3132203,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Malla Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.7170521,
+   "lon": 85.3137684,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Soaltee Hotel",
+   "name_en": "Soaltee Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 27.7000592,
+   "lon": 85.2913923,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Fern Residency Platinum",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.6984241,
+   "lon": 85.2914754,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Hotel Kathmandu",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson",
+   "lat": 27.7200685,
+   "lon": 85.3214693,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1119,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:09:08Z"
+}

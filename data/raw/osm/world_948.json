@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Palm Garden Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 15.9008167,
+   "lon": 108.3592077,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Tapestry Collection by Hilton",
+   "lat": 15.8864064,
+   "lon": 108.3688596,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 15.9294484,
+   "lon": 108.3175338,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Furama Villas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 16.0368971,
+   "lon": 108.2523434,
+   "distance_km": 19.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Furama Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 16.0397373,
+   "lon": 108.2513983,
+   "distance_km": 20.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 739,
+ "stations": [
+  {
+   "name": "Trà Kiệu",
+   "name_en": null,
+   "lat": 15.8101527,
+   "lon": 108.2312632,
+   "distance_km": 13.2,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  },
+  {
+   "name": "Nông Sơn",
+   "name_en": null,
+   "lat": 15.8869385,
+   "lon": 108.1867902,
+   "distance_km": 15.6,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  },
+  {
+   "name": "Lệ Trạch",
+   "name_en": "Le Trach",
+   "lat": 15.9705263,
+   "lon": 108.183058,
+   "distance_km": 19.0,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  },
+  {
+   "name": "Phú Cang",
+   "name_en": null,
+   "lat": 15.7048523,
+   "lon": 108.3416487,
+   "distance_km": 19.2,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  },
+  {
+   "name": "Đà Nẵng",
+   "name_en": "Da Nang",
+   "lat": 16.071571,
+   "lon": 108.2093029,
+   "distance_km": 25.3,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  },
+  {
+   "name": "Thanh Khê",
+   "name_en": "Thanh Khe",
+   "lat": 16.0664501,
+   "lon": 108.1823389,
+   "distance_km": 26.4,
+   "operator": null
+  },
+  {
+   "name": "Tam Thành",
+   "name_en": null,
+   "lat": 15.6135572,
+   "lon": 108.4186051,
+   "distance_km": 30.8,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  },
+  {
+   "name": "An Mỹ",
+   "name_en": null,
+   "lat": 15.5966721,
+   "lon": 108.4273453,
+   "distance_km": 32.8,
+   "operator": "Tổng công ty Đường sắt Việt Nam"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Basket Boat Station",
+   "name_en": null,
+   "lat": 15.8576323,
+   "lon": 108.3511567,
+   "distance_km": 3.0,
+   "operator": null
+  },
+  {
+   "name": "Cửa Đại",
+   "name_en": null,
+   "lat": 15.8761075,
+   "lon": 108.3889694,
+   "distance_km": 6.0,
+   "operator": null
+  },
+  {
+   "name": "Dragon Ship Han River",
+   "name_en": "Dragon Ship Han River",
+   "lat": 16.0599904,
+   "lon": 108.224173,
+   "distance_km": 23.4,
+   "operator": null
+  },
+  {
+   "name": "River Cruise Boats",
+   "name_en": "River Cruise Boats",
+   "lat": 16.0790544,
+   "lon": 108.2245295,
+   "distance_km": 25.2,
+   "operator": null
+  },
+  {
+   "name": "Cảng Tiên Sa",
+   "name_en": null,
+   "lat": 16.1187415,
+   "lon": 108.2132134,
+   "distance_km": 29.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:24Z"
+}

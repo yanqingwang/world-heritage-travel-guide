@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Takayama Green",
+   "name_en": "Takayama Green",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.1377172,
+   "lon": 137.2471986,
+   "distance_km": 33.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hida Plaza",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.1450406,
+   "lon": 137.2523345,
+   "distance_km": 33.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "hotel around TAKAYAMA",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Ascend",
+   "lat": 36.1435684,
+   "lon": 137.2511816,
+   "distance_km": 33.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ホテルフォルツァ金沢",
+   "name_en": "Hotel Forza Kanazawa",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.5727585,
+   "lon": 136.6556879,
+   "distance_km": 41.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "レジデンスホテル 高山駅前",
+   "name_en": "Residence Hotel Takayama Station",
+   "stars": 3,
+   "brand": null,
+   "lat": 36.1423117,
+   "lon": 137.2515629,
+   "distance_km": 33.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 242,
+ "stations": [
+  {
+   "name": "角川",
+   "name_en": "Tsunogawa",
+   "lat": 36.300239,
+   "lon": 137.1133298,
+   "distance_km": 19.2,
+   "operator": null
+  },
+  {
+   "name": "飛驒細江",
+   "name_en": "Hida-Hosoe",
+   "lat": 36.2610176,
+   "lon": 137.1460663,
+   "distance_km": 21.5,
+   "operator": null
+  },
+  {
+   "name": "坂上",
+   "name_en": "Sakakami",
+   "lat": 36.3276988,
+   "lon": 137.141042,
+   "distance_km": 22.5,
+   "operator": null
+  },
+  {
+   "name": "杉崎",
+   "name_en": "Sugisaki",
+   "lat": 36.2500708,
+   "lon": 137.1687142,
+   "distance_km": 23.5,
+   "operator": null
+  },
+  {
+   "name": "飛驒古川",
+   "name_en": "Hida-Furukawa",
+   "lat": 36.2368453,
+   "lon": 137.1896144,
+   "distance_km": 25.5,
+   "operator": null
+  },
+  {
+   "name": "飛驒国府",
+   "name_en": "Hida-Kokufu",
+   "lat": 36.2112755,
+   "lon": 137.2157892,
+   "distance_km": 28.2,
+   "operator": null
+  },
+  {
+   "name": "打保",
+   "name_en": "Utsubo",
+   "lat": 36.3836922,
+   "lon": 137.1820267,
+   "distance_km": 28.4,
+   "operator": null
+  },
+  {
+   "name": "城端",
+   "name_en": "Johana",
+   "lat": 36.5221159,
+   "lon": 136.9017325,
+   "distance_km": 29.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:12:50Z"
+}

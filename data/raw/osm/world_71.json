@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Sure Stay Plus by Best Western",
+   "name_en": null,
+   "stars": null,
+   "brand": "Sure Stay Plus",
+   "lat": 50.5728147,
+   "lon": -111.8691223,
+   "distance_km": 34.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ramada by Wyndham Brooks",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ramada",
+   "lat": 50.5852889,
+   "lon": -111.8986755,
+   "distance_km": 35.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Patricia Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.6991485,
+   "lon": -111.6755127,
+   "distance_km": 15.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Canalta Hotel Brooks",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 50.5861577,
+   "lon": -111.8948612,
+   "distance_km": 34.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Days Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Days Inn",
+   "lat": 50.584483,
+   "lon": -111.8993325,
+   "distance_km": 35.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:08:26Z"
+}

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Seoul Pangyo",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 37.3808185,
+   "lon": 127.1039857,
+   "distance_km": 13.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW 메리어트 호텔 서울",
+   "name_en": "JW Marriott Seoul",
+   "stars": 5,
+   "brand": null,
+   "lat": 37.5037983,
+   "lon": 127.0048872,
+   "distance_km": 24.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "오크우드 프리미어 코엑스센터 서울",
+   "name_en": "Oakwood Premier Coex Center, Seoul",
+   "stars": 5,
+   "brand": null,
+   "lat": 37.5109858,
+   "lon": 127.058106,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "시그니엘 서울",
+   "name_en": "Signiel Seoul",
+   "stars": 5,
+   "brand": "시그니엘",
+   "lat": 37.5125735,
+   "lon": 127.1028174,
+   "distance_km": 27.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel",
+   "name_en": "Sofitel Ambassador Seoul Hotel & Serviced Residences",
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 37.5138278,
+   "lon": 127.1061904,
+   "distance_km": 27.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 760,
+ "stations": [
+  {
+   "name": "매교",
+   "name_en": "Maegyo",
+   "lat": 37.2654788,
+   "lon": 127.0156874,
+   "distance_km": 1.8,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "수원",
+   "name_en": "Suwon",
+   "lat": 37.2662775,
+   "lon": 127.0004098,
+   "distance_km": 1.8,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "수원시청",
+   "name_en": "Suwon City Hall",
+   "lat": 37.2616466,
+   "lon": 127.0318618,
+   "distance_km": 2.9,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "매탄권선",
+   "name_en": "MaetanGwonseon",
+   "lat": 37.2530134,
+   "lon": 127.0403832,
+   "distance_km": 4.1,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "고색",
+   "name_en": "Gosaek",
+   "lat": 37.249691,
+   "lon": 126.9804598,
+   "distance_km": 4.3,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "오목천",
+   "name_en": "Omokcheon",
+   "lat": 37.2433128,
+   "lon": 126.9637423,
+   "distance_km": 5.8,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "영통",
+   "name_en": "Yeongtong",
+   "lat": 37.2513466,
+   "lon": 127.071279,
+   "distance_km": 6.3,
+   "operator": "한국철도공사"
+  },
+  {
+   "name": "청명",
+   "name_en": "Cheongmyeong",
+   "lat": 37.2599557,
+   "lon": 127.0795065,
+   "distance_km": 6.6,
+   "operator": "한국철도공사"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "한강버스 잠실선착장",
+   "name_en": "Hangang Bus Jamsil Terminal",
+   "lat": 37.5187723,
+   "lon": 127.0847814,
+   "distance_km": 27.3,
+   "operator": null
+  },
+  {
+   "name": "한강버스 압구정선착장",
+   "name_en": "Hangang Bus Apgujeong Terminal",
+   "lat": 37.5266731,
+   "lon": 127.0164598,
+   "distance_km": 27.4,
+   "operator": null
+  },
+  {
+   "name": "나루터",
+   "name_en": "Ferry",
+   "lat": 37.530972,
+   "lon": 127.008265,
+   "distance_km": 27.8,
+   "operator": null
+  },
+  {
+   "name": "한강버스 뚝섬선착장",
+   "name_en": "Hangang Bus Ttukseom Terminal",
+   "lat": 37.5288225,
+   "lon": 127.0664576,
+   "distance_km": 28.0,
+   "operator": null
+  },
+  {
+   "name": "한강버스 여의도선착장",
+   "name_en": "Hangang Bus Yeouido Terminal",
+   "lat": 37.5284391,
+   "lon": 126.9351299,
+   "distance_km": 28.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:13:57Z"
+}

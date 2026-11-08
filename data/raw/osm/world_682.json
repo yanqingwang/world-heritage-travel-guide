@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Wilderness Bisate",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -1.4440986,
+   "lon": 29.5257863,
+   "distance_km": 48.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.2499412,
+   "lon": 29.9857461,
+   "distance_km": 37.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Little Ritz",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.2511337,
+   "lon": 29.9848224,
+   "distance_km": 37.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "New Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.2526424,
+   "lon": 29.9870093,
+   "distance_km": 37.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ruhija Gorilla Mist Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.0357975,
+   "lon": 29.7763395,
+   "distance_km": 6.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 128,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Sharp Island",
+   "name_en": null,
+   "lat": -1.3002293,
+   "lon": 29.9122998,
+   "distance_km": 35.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:12:28Z"
+}

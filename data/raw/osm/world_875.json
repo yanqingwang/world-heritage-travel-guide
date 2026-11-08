@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Mansión de Lucy",
+   "name_en": null,
+   "stars": 5,
+   "brand": "PortAventura",
+   "lat": 41.0922791,
+   "lon": 1.1566942,
+   "distance_km": 8.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Salou",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.0771579,
+   "lon": 1.1446919,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Tarraco Park",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.1150281,
+   "lon": 1.218411,
+   "distance_km": 3.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mas La Boella",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.134241,
+   "lon": 1.169945,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palas Pineda",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.0677829,
+   "lon": 1.1763177,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 280,
+ "stations": [
+  {
+   "name": "Tarragona",
+   "name_en": null,
+   "lat": 41.1112229,
+   "lon": 1.2535366,
+   "distance_km": 0.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "Camp de Tarragona",
+   "name_en": null,
+   "lat": 41.1921725,
+   "lon": 1.2735682,
+   "distance_km": 8.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "Salou-Port Aventura",
+   "name_en": null,
+   "lat": 41.0879174,
+   "lon": 1.1456007,
+   "distance_km": 9.7,
+   "operator": "Adif"
+  },
+  {
+   "name": "Altafulla - Tamarit",
+   "name_en": null,
+   "lat": 41.1366062,
+   "lon": 1.3732969,
+   "distance_km": 10.1,
+   "operator": "Adif"
+  },
+  {
+   "name": "Torredembarra",
+   "name_en": null,
+   "lat": 41.1427922,
+   "lon": 1.4057092,
+   "distance_km": 12.9,
+   "operator": "Adif"
+  },
+  {
+   "name": "Reus",
+   "name_en": null,
+   "lat": 41.1606015,
+   "lon": 1.0999417,
+   "distance_km": 13.9,
+   "operator": "Adif"
+  },
+  {
+   "name": "Vilabella",
+   "name_en": null,
+   "lat": 41.2394972,
+   "lon": 1.3174786,
+   "distance_km": 14.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "Salomó",
+   "name_en": null,
+   "lat": 41.2233947,
+   "lon": 1.3765911,
+   "distance_km": 15.6,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port de Tarragona",
+   "name_en": null,
+   "lat": 41.0951125,
+   "lon": 1.222517,
+   "distance_km": 3.6,
+   "operator": null
+  },
+  {
+   "name": "Waitan Port",
+   "name_en": null,
+   "lat": 41.0875001,
+   "lon": 1.157971,
+   "distance_km": 8.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:13:43Z"
+}

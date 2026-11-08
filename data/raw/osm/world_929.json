@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Iberostar Heritage Grand Mencey",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Iberostar Hotels & Resorts",
+   "lat": 28.4747802,
+   "lon": -16.2531215,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Semiramis",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Best Hotels",
+   "lat": 28.4162453,
+   "lon": -16.5352618,
+   "distance_km": 22.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Taoro",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.4123261,
+   "lon": -16.5482112,
+   "distance_km": 24.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Resort & Residences Tenerife",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson",
+   "lat": 28.4079827,
+   "lon": -16.5487396,
+   "distance_km": 24.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Laguna Nivaria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 28.4870494,
+   "lon": -16.3133084,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 167,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Fred. Olsen Express Terminal Santa Cruz de Tenerife",
+   "name_en": null,
+   "lat": 28.4694946,
+   "lon": -16.2461803,
+   "distance_km": 7.1,
+   "operator": "Fred. Olsen Express"
+  },
+  {
+   "name": "Fred Olsen",
+   "name_en": null,
+   "lat": 28.4694914,
+   "lon": -16.2461174,
+   "distance_km": 7.1,
+   "operator": "Fred Olsen"
+  },
+  {
+   "name": "Naviera Armas",
+   "name_en": null,
+   "lat": 28.4694531,
+   "lon": -16.2450012,
+   "distance_km": 7.2,
+   "operator": "Naviera Armas"
+  },
+  {
+   "name": "Fred. Olsen Terminal Santa Cruz de Tenerife",
+   "name_en": null,
+   "lat": 28.4747815,
+   "lon": -16.2444692,
+   "distance_km": 7.2,
+   "operator": "Fred. Olsen"
+  },
+  {
+   "name": "Terminal Baleària",
+   "name_en": null,
+   "lat": 28.468924,
+   "lon": -16.2440019,
+   "distance_km": 7.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:07Z"
+}
