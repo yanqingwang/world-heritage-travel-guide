@@ -364,17 +364,27 @@ def _commons_imageinfo(page: dict) -> dict | None:
     }
 
 
-def commons_search(query: str, limit: int = 6) -> list[dict]:
-    data = get_json(COMMONS_API, params={
-        "action": "query", "format": "json", "generator": "search",
-        "gsrsearch": query, "gsrnamespace": 6, "gsrlimit": limit,
-        "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
-    }, retries=2)
+def _commons_query(params: dict) -> list[dict]:
+    """Run a Commons generator query via the curl subprocess transport.
+
+    python-requests stalls against Commons TLS on this network while curl
+    succeeds, exactly like the Wikipedia endpoints — same fix, one transport.
+    """
+    data = curl_json(COMMONS_API, params=params, timeout=25) or curl_json(
+        COMMONS_API, params=params, timeout=25)
     pages = ((data or {}).get("query") or {}).get("pages", {})
     if isinstance(pages, dict):
         pages = list(pages.values())
+    return [p for p in (pages or []) if isinstance(p, dict)]
+
+
+def commons_search(query: str, limit: int = 6) -> list[dict]:
     out = []
-    for page in pages or []:
+    for page in _commons_query({
+        "action": "query", "format": "json", "generator": "search",
+        "gsrsearch": query, "gsrnamespace": 6, "gsrlimit": limit,
+        "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
+    }):
         item = _commons_imageinfo(page)
         if item:
             out.append(item)
@@ -382,16 +392,12 @@ def commons_search(query: str, limit: int = 6) -> list[dict]:
 
 
 def commons_category(category: str, limit: int = 8) -> list[dict]:
-    data = get_json(COMMONS_API, params={
+    out = []
+    for page in _commons_query({
         "action": "query", "format": "json", "generator": "categorymembers",
         "gcmtitle": f"Category:{category}", "gcmtype": "file", "gcmlimit": limit,
         "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
-    }, retries=2)
-    pages = ((data or {}).get("query") or {}).get("pages", {})
-    if isinstance(pages, dict):
-        pages = list(pages.values())
-    out = []
-    for page in pages or []:
+    }):
         item = _commons_imageinfo(page)
         if item:
             out.append(item)
@@ -403,14 +409,10 @@ def commons_file(filename: str) -> dict | None:
     # the decoded title or the file page 404s.
     filename = urllib.parse.unquote(filename or "")
     title = filename if filename.startswith("File:") else f"File:{filename}"
-    data = get_json(COMMONS_API, params={
+    for page in _commons_query({
         "action": "query", "format": "json", "titles": title,
         "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
-    })
-    pages = ((data or {}).get("query") or {}).get("pages", {})
-    if isinstance(pages, dict):
-        pages = list(pages.values())
-    for page in pages or []:
+    }):
         return _commons_imageinfo(page)
     return None
 
