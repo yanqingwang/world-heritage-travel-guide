@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(iv)"
 lat: 42.6409
 lon: 18.1091
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 杜布罗夫尼克古城 / Old City of Dubrovnik

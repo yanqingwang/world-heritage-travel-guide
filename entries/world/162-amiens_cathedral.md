@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "162"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1981"
 criteria: "(i)(ii)"
 lat: 49.89457
 lon: 2.3021
-updated_at: "2026-11-08T14:52:21Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 亚眠大教堂 / Amiens Cathedral
@@ -53,6 +53,12 @@ La cathédrale d'Amiens, au cœur de la Picardie, est l'une des plus grandes ég
 - ✈ **Lille Airport (LIL)** — 93.9 km
 - ✈ **Charles de Gaulle International Airport (CDG)** — 100.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8178.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.474394
 lon: 111.14602
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 宜昌市清江画廊景区 / Qing River

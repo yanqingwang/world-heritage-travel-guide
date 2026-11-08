@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iv)(vi)"
 lat: 31.704305555
 lon: 35.207583333
-updated_at: "2026-11-08T14:52:46Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 耶稣诞生地：伯利恒主诞堂和朝圣线路 / Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem

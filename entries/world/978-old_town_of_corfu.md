@@ -8,13 +8,13 @@ country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
 unesco_id: "978"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(iv)"
 lat: 39.623888888
 lon: 19.921388888
-updated_at: "2026-11-08T14:52:38Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 科孚古城 / Old Town of Corfu
@@ -53,6 +53,12 @@ The Old Town of Corfu, on the Island of Corfu off the western coasts of Albania 
 - ✈ **Ioannina King Pyrrhus National Airport (IOA)** — 77.6 km
 - ✈ **Aktion National Airport (PVK)** — 106.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7784.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

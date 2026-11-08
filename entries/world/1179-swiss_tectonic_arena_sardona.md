@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(viii)"
 lat: 46.91667
 lon: 9.25
-updated_at: "2026-11-08T14:52:42Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 萨多纳地质结构区 / Swiss Tectonic Arena Sardona

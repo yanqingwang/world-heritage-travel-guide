@@ -8,13 +8,13 @@ country: "EG"
 country_zh: "埃及"
 country_en: "Egypt"
 unesco_id: "89"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(v)(vi)"
 lat: 30.046
 lon: 31.2627
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 开罗古城 / Historic Cairo
@@ -53,6 +53,12 @@ Tucked away amid the modern urban area of Cairo lies one of the world's oldest I
 - ✈ **Sphinx International Airport (SPX)** — 36.0 km
 - ✈ **Capital International Airport (CCE)** — 55.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7534.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

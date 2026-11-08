@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(viii)"
 lat: -50.330530387
 lon: -73.234164314
-updated_at: "2026-11-08T14:52:20Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 冰川国家公园 / Los Glaciares National Park

@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Zhangjiajie"
 lat: 29.360276
 lon: 110.402594
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 张家界市武陵源-天门山旅游区 / Tianmen Mountain

@@ -8,13 +8,13 @@ country: "TN"
 country_zh: "突尼斯"
 country_en: "Tunisia"
 unesco_id: "1769"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2026"
 criteria: "(iii)"
 lat: 36.869758
 lon: 10.341014
-updated_at: "2026-11-08T14:52:54Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 西迪布赛义德村 / Village of Sidi Bou Saïd
@@ -53,6 +53,12 @@ The property is a picturesque village perched on a promontory overlooking the Me
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 88.7 km
 - ✈ **Monastir Habib Bourguiba International Airport (MIR)** — 129.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8635.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

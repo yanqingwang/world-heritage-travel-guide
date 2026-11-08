@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)"
 lat: 18.249239
 lon: 44.451839
-updated_at: "2026-11-08T14:52:50Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 奈季兰的希马岩画 / Ḥimā Cultural Area

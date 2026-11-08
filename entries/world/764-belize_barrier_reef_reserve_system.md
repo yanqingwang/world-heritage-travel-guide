@@ -8,13 +8,13 @@ country: "BZ"
 country_zh: "伯利兹"
 country_en: "Belize"
 unesco_id: "764"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1996"
 criteria: "(vii)(ix)(x)"
 lat: 17.2625
 lon: -88.052777777
-updated_at: "2026-11-08T14:52:32Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 伯利兹堡礁保护区 / Belize Barrier Reef Reserve System
@@ -47,6 +47,12 @@ The coastal area of Belize is an outstanding natural system consisting of the la
 - ✈ **Dangriga Airport (DGA)** — 36.4 km
 - ✈ **Philip S. W. Goldson International Airport (BZE)** — 40.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13115.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "832"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(i)(ii)(iii)"
 lat: 37.364723
 lon: 14.334553
-updated_at: "2026-11-08T14:52:34Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 卡萨尔的罗马别墅 / Villa Romana del Casale
@@ -53,6 +53,12 @@ La Villa romana del Casale è un edificio abitativo tardo antico, popolarmente d
 - ✈ **Catania-Fontanarossa Airport (CTA)** — 65.6 km
 - ✈ **Reggio Calabria Airport (REG)** — 140.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8327.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

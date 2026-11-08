@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iv)"
 lat: 50.720556
 lon: 23.258611
-updated_at: "2026-11-08T14:52:28Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 扎莫希奇古城 / Old City of Zamość

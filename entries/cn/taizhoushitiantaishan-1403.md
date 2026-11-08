@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 29.163259
 lon: 121.042193
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 台州市天台山景区 / Taizhoushitiantaishan Scenic Area

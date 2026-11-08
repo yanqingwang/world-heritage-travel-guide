@@ -8,13 +8,13 @@ country: "MZ"
 country_zh: "莫桑比克"
 country_en: "Mozambique"
 unesco_id: "599"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(iv)(vi)"
 lat: -15.036666666
 lon: 40.732777777
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 莫桑比克岛 / Island of Mozambique
@@ -53,6 +53,12 @@ A Ilha de Moçambique é uma cidade insular situada na província de Nampula, na
 - ✈ **Nampula Airport (APL)** — 156.0 km
 - ✈ **Pemba Airport (POL)** — 228.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9881.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

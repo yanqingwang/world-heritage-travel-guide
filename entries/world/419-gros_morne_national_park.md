@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "419"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1987"
 criteria: "(vii)(viii)"
 lat: 49.689444444
 lon: -57.738055555
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 格罗斯莫讷国家公园 / Gros Morne National Park
@@ -53,6 +53,12 @@ Situé sur la côte ouest de l'île de Terre-Neuve, le parc offre un exemple rar
 - ✈ **La Tabatière Airport (ZLT)** — 154.4 km
 - ✈ **Tête-à-la-Baleine Airport (ZTB)** — 160.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10069.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

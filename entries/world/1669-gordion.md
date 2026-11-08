@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "1669"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(iii)"
 lat: 39.650103
 lon: 31.97857
-updated_at: "2026-11-08T14:52:51Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 戈尔迪翁 / Gordion
@@ -53,6 +53,12 @@ Gordion (Frigce: Gordum; Grekçe: Γόρδιον; Türkçe: Gordion veya Gordiyo
 - ✈ **Hasan Polatkan Airport (AOE)** — 126.1 km
 - ✈ **Zafer Airport (KZR)** — 169.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6815.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

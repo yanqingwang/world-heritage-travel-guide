@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Iberostar Selection Royal El Mansour",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Iberostar Hotels & Resorts",
+   "lat": 35.5126418,
+   "lon": 11.0495819,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Phénix",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 35.5052942,
+   "lon": 11.0620228,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El Borj Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": "TTS Hotels",
+   "lat": 35.5250488,
+   "lon": 11.0385097,
+   "distance_km": 39.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Julius Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.2925967,
+   "lon": 10.7089074,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel club ksar Eljem",
+   "name_en": "Hotel club ksar Eljem",
+   "stars": null,
+   "brand": null,
+   "lat": 35.3358188,
+   "lon": 10.6873658,
+   "distance_km": 4.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 29,
+ "stations": [
+  {
+   "name": "الجم",
+   "name_en": null,
+   "lat": 35.2925698,
+   "lon": 10.7095748,
+   "distance_km": 0.5,
+   "operator": null
+  },
+  {
+   "name": "الحنشة",
+   "name_en": null,
+   "lat": 35.1372995,
+   "lon": 10.7284714,
+   "distance_km": 17.8,
+   "operator": null
+  },
+  {
+   "name": "كركر",
+   "name_en": null,
+   "lat": 35.4684245,
+   "lon": 10.65962,
+   "distance_km": 19.6,
+   "operator": null
+  },
+  {
+   "name": "بوقبرين",
+   "name_en": null,
+   "lat": 35.5373916,
+   "lon": 10.6438979,
+   "distance_km": 27.4,
+   "operator": null
+  },
+  {
+   "name": "دخان",
+   "name_en": null,
+   "lat": 34.9906879,
+   "lon": 10.7608474,
+   "distance_km": 34.3,
+   "operator": "الشركة الوطنية للسكك الحديدية التونسية"
+  },
+  {
+   "name": "جمّال",
+   "name_en": null,
+   "lat": 35.6284897,
+   "lon": 10.7577601,
+   "distance_km": 37.2,
+   "operator": null
+  },
+  {
+   "name": "الزهراء المهدية",
+   "name_en": "Ezzahra",
+   "lat": 35.5000219,
+   "lon": 11.0482466,
+   "distance_km": 38.3,
+   "operator": "الشركة الوطنية للسكك الحديدية التونسية"
+  },
+  {
+   "name": "المهدية المنطقة السياحية",
+   "name_en": "Mahdia Zone Touristique",
+   "lat": 35.536856,
+   "lon": 11.0274296,
+   "distance_km": 39.5,
+   "operator": "الشركة الوطنية للسكك الحديدية التونسية"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Mshdia",
+   "name_en": null,
+   "lat": 35.4993997,
+   "lon": 11.0709464,
+   "distance_km": 40.0,
+   "operator": null
+  },
+  {
+   "name": "ميناء الصيد البحري بالشابة",
+   "name_en": null,
+   "lat": 35.2327553,
+   "lon": 11.1600977,
+   "distance_km": 41.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:08:19Z"
+}

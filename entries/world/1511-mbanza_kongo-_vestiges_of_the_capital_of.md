@@ -8,13 +8,13 @@ country: "AO"
 country_zh: "安哥拉"
 country_en: "Angola"
 unesco_id: "1511"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(iii)(iv)"
 lat: -6.266666666
 lon: 14.25
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 姆班扎剛果 / Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo
@@ -53,6 +53,12 @@ M'banza Congo, também grafada como M'banza Kongo e Mabanza Congo, é uma cidade
 - ✈ **Negage Airport (GXG)** — 201.2 km
 - ✈ **Soyo Airport (SZA)** — 208.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11504.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

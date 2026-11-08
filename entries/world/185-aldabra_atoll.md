@@ -8,13 +8,13 @@ country: "SC"
 country_zh: "塞舌尔"
 country_en: "Seychelles"
 unesco_id: "185"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1982"
 criteria: "(vii)(ix)(x)"
 lat: -9.416388888
 lon: 46.416388888
-updated_at: "2026-11-08T14:52:22Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 阿尔达布拉环礁 / Aldabra Atoll
@@ -52,6 +52,12 @@ L'atoll comprend quatre grandes îles de corail qui enferment une lagune peu pro
 - ✈ **Ouani Airport (AJN)** — 371.7 km
 - ✈ **Dzaoudzi Pamandzi International Airport (DZA)** — 397.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9408.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

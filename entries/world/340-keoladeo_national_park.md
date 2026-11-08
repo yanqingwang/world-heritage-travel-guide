@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "340"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1985"
 criteria: "(x)"
 lat: 27.166667
 lon: 77.516667
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 凯奥拉德奥国家公园 / Keoladeo National Park
@@ -47,6 +47,12 @@ This former duck-hunting reserve of the Maharajas is one of the major wintering 
 - ✈ **Noida International Airport (DXN)** — 113.1 km
 - ✈ **Gwalior Airport (GWL)** — 120.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3817.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

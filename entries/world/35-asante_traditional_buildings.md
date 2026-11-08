@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(v)"
 lat: 6.40111
 lon: -1.62583
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 阿散蒂传统建筑 / Asante Traditional Buildings

@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Changping District"
 lat: 40.263544
 lon: 116.231846
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 明十三陵景区 / Ming tombs

@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iii)"
 lat: 69.946944444
 lon: 23.187777777
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 阿尔塔岩画 / Rock Art of Alta

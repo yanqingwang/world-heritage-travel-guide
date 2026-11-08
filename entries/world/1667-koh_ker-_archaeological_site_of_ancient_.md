@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iv)"
 lat: 13.74992
 lon: 104.54727
-updated_at: "2026-11-08T14:52:51Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 贡开：林迦之城（荣耀之城）考古遗址 / Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar

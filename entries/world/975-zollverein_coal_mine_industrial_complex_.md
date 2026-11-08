@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "975"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iii)"
 lat: 51.4865
 lon: 7.04408
-updated_at: "2026-11-08T14:52:38Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 埃森的关税同盟煤矿工业区 / Zollverein Coal Mine Industrial Complex in Essen
@@ -53,6 +53,12 @@ Die Zeche Zollverein war ein von 1851 bis 1986 betriebenes Steinkohlebergwerk in
 - ✈ **Dortmund Airport (DTM)** — 39.5 km
 - ✈ **Weeze (Niederrhein) Airport (NRN)** — 63.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7796.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

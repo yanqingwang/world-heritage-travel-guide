@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(v)"
 lat: 61.164444444
 lon: -45.598055555
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 库亚塔 / Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap

@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Kaifeng"
 lat: 34.813951
 lon: 114.349998
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 开封市清明上河园景区 / Qingmingshangheyuan Scenic Area

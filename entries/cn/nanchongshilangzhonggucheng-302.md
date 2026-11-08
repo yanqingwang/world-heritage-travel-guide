@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Nanchang"
 lat: 31.58086
 lon: 105.97767
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 南充市阆中古城旅游景区 / Nanchong

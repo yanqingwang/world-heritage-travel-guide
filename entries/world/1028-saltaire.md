@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "1028"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iv)"
 lat: 53.83717
 lon: -1.79026
-updated_at: "2026-11-08T14:52:39Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 索尔泰尔 / Saltaire
@@ -47,6 +47,12 @@ Saltaire, West Yorkshire, is a complete and well-preserved industrial village of
 - ✈ **Manchester Airport (MAN)** — 63.1 km
 - ✈ **Teesside International Airport (MME)** — 78.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8023.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

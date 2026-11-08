@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "71"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1979"
 criteria: "(vii)(viii)"
 lat: 50.7617
 lon: -111.485
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 艾伯塔省恐龙公园 / Dinosaur Provincial Park
@@ -53,6 +53,12 @@ Outre ses paysages d'une grande beauté, le parc, situé au cœur des bad-lands 
 - ✈ **Lethbridge County Airport (YQL)** — 156.8 km
 - ✈ **Calgary International Airport (YYC)** — 181.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8983.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

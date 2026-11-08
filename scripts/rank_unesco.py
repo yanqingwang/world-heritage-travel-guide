@@ -4,7 +4,7 @@
 Score = 2 * Chinese Wikipedia pageviews + English Wikipedia pageviews over the
 last 12 months.  This is a transparent popularity proxy for "most popular
 overseas destinations" among Chinese travellers; it is not a visitor-count
-dataset.  The top 150 non-China sites receive the full data tier.
+dataset.  The top 300 non-China sites receive the full data tier.
 
 Output: data/raw/unesco_rank.json
 """
@@ -18,6 +18,7 @@ from datetime import date, timedelta
 from common import CACHE, RAW, get_json, load_json, now_iso, save_json
 
 CACHE_FILE = RAW / "pageviews.json"
+TOP_FULL = 300  # records that get hotels, ferries and a full gallery
 
 
 def trailing_year() -> tuple[str, str]:
@@ -112,7 +113,7 @@ def main() -> int:
     ranked.sort(key=lambda x: (-x["score"], x["id"]))
     for i, rec in enumerate(ranked, 1):
         rec["rank"] = i
-        rec["tier"] = "full" if i <= 150 else "basic"
+        rec["tier"] = "full" if i <= TOP_FULL else "basic"
 
     save_json(RAW / "unesco_rank.json", {
         "method": "2 * zh.wikipedia pageviews + en.wikipedia pageviews, trailing 12 months",
@@ -121,7 +122,7 @@ def main() -> int:
         "count": len(ranked),
         "items": {r["id"]: r for r in ranked},
     })
-    print(f"ranked {len(ranked)} overseas UNESCO sites; full tier = top 150")
+    print(f"ranked {len(ranked)} overseas UNESCO sites; full tier = top {TOP_FULL}")
     return 0
 
 

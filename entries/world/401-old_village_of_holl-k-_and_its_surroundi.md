@@ -8,13 +8,13 @@ country: "HU"
 country_zh: "匈牙利"
 country_en: "Hungary"
 unesco_id: "401"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(v)"
 lat: 47.996111111
 lon: 19.591666666
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 霍洛克古村落及其周边 / Old Village of Hollókő and its Surroundings
@@ -53,6 +53,12 @@ Hollókő (németül: Rabenstein, szlovákul: Holovka vagy Holovce) község Nó
 - ✈ **Sliač Airport (SLD)** — 79.0 km
 - ✈ **Poprad-Tatry Airport (TAT)** — 128.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7328.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

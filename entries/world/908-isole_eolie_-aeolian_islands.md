@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "908"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2000"
 criteria: "(viii)"
 lat: 38.496666666
 lon: 14.935833333
-updated_at: "2026-11-08T14:52:36Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 伊索莱约里（伊奥利亚群岛） / Isole Eolie (Aeolian Islands)
@@ -53,6 +53,12 @@ Le isole Eolie (ìsuli Eoli in siciliano), dette anche isole Lipari, ma in ampio
 - ✈ **Catania-Fontanarossa Airport (CTA)** — 115.1 km
 - ✈ **Lamezia Terme Sant'Eufemia International Airport (SUF)** — 122.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8181.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

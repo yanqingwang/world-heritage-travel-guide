@@ -8,13 +8,13 @@ country: "PS"
 country_zh: "巴勒斯坦"
 country_en: "Palestine"
 unesco_id: "1809"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2026"
 criteria: "(iii)"
 lat: 32.266666666
 lon: 35.183333333
-updated_at: "2026-11-08T14:52:54Z"
+updated_at: "2026-11-08T16:07:04Z"
 ---
 
 # 塞巴斯蒂亚 / Sebastia
@@ -53,6 +53,12 @@ Sebastia (Arabic: سبسطية, Sabastiyah; Greek: Σεβαστή, Σεβάστ�
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 61.8 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 82.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7140.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "LA"
 country_zh: "老挝"
 country_en: "Laos"
 unesco_id: "1587"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2019"
 criteria: "(iii)"
 lat: 19.431111111
 lon: 103.1525
-updated_at: "2026-11-08T14:52:50Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 川圹巨石缸遗址-石缸平原 / Megalithic Jar Sites in Xiengkhuang – Plain of Jars
@@ -53,6 +53,12 @@ The Plain of Jars, located on a plateau in central Laos, gets its name from more
 - ✈ **Luang Phabang International Airport (LPQ)** — 115.8 km
 - ✈ **Wattay International Airport (VTE)** — 172.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2627.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

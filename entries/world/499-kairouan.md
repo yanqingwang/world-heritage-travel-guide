@@ -8,13 +8,13 @@ country: "TN"
 country_zh: "突尼斯"
 country_en: "Tunisia"
 unesco_id: "499"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(i)(ii)(iii)(v)(vi)"
 lat: 35.683333333
 lon: 10.1
-updated_at: "2026-11-08T14:52:27Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 凯鲁万 / Kairouan
@@ -53,6 +53,12 @@ Founded in 670, Kairouan flourished under the Aghlabid dynasty in the 9th centur
 - ✈ **Monastir Habib Bourguiba International Airport (MIR)** — 59.7 km
 - ✈ **Sfax Thyna International Airport (SFA)** — 120.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8678.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

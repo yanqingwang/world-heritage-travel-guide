@@ -8,13 +8,13 @@ country: "TN"
 country_zh: "突尼斯"
 country_en: "Tunisia"
 unesco_id: "38"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(iv)(vi)"
 lat: 35.29638889
 lon: 10.70694444
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 杰姆的圆形竞技场 / Amphitheatre of El Jem
@@ -53,6 +53,12 @@ The impressive ruins of the largest colosseum in North Africa, a huge amphitheat
 - ✈ **Sfax Thyna International Airport (SFA)** — 64.3 km
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 90.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8680.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "HN"
 country_zh: "洪都拉斯"
 country_en: "Honduras"
 unesco_id: "129"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1980"
 criteria: "(iv)(vi)"
 lat: 14.837963888
 lon: -89.142441666
-updated_at: "2026-11-08T14:52:20Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 科潘玛雅古迹遗址 / Maya Site of Copan
@@ -53,6 +53,12 @@ Descubiertas en 1570 por Diego García de Palacio, las ruinas de Copán –uno d
 - ✈ **Ilopango International Airport (ILS)** — 126.6 km
 - ✈ **Punta Gorda Airport (PND)** — 145.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13284.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

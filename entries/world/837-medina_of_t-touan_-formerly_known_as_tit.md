@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)(v)"
 lat: 35.5710625
 lon: -5.3664659
-updated_at: "2026-11-08T14:52:34Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 缔头万城 / Medina of Tétouan (formerly known as Titawin)

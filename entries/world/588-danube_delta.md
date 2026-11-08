@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(x)"
 lat: 45.2
 lon: 29.5
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 多瑙河三角洲 / Danube Delta

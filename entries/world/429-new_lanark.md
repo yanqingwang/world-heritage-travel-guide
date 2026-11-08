@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "429"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iv)(vi)"
 lat: 55.663611111
 lon: -3.781388888
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 新拉纳克 / New Lanark
@@ -47,6 +47,12 @@ New Lanark is a small 18th- century village set in a sublime Scottish landscape 
 - ✈ **Glasgow Airport (GLA)** — 46.9 km
 - ✈ **Glasgow Prestwick Airport (PIK)** — 53.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7935.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

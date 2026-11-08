@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "338"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1985"
 criteria: "(vii)(ix)(x)"
 lat: 26.716666666
 lon: 90.933333333
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 马纳斯野生动植物保护区 / Manas Wildlife Sanctuary
@@ -47,6 +47,12 @@ On a gentle slope in the foothills of the Himalayas, where wooded hills give way
 - ✈ **Lokpriya Gopinath Bordoloi International Airport (GAU)** — 93.9 km
 - ✈ **Bathpalathang Airport (BUT)** — 95.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2708.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

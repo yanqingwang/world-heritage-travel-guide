@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)(vi)"
 lat: 36.85788
 lon: 10.33084
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 迦太基遗址 / Archaeological Site of Carthage

@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1513"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "2016"
 criteria: "(iii)(vi)(vii)(x)"
 lat: 27.6563
 lon: 88.3123
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 干城章嘉国家公园 / Khangchendzonga National Park
@@ -47,6 +47,12 @@ Located at the heart of the Himalayan range in northern India (State of Sikkim),
 - ✈ **Bagdogra Airport (IXB)** — 108.4 km
 - ✈ **Paro International Airport (PBH)** — 113.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3004.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

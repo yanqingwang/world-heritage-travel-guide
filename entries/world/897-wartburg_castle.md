@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "897"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(iii)(vi)"
 lat: 50.966111111
 lon: 10.306388888
-updated_at: "2026-11-08T14:52:36Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 瓦尔特堡城堡 / Wartburg Castle
@@ -53,6 +53,12 @@ Die Wartburg ist eine Burg bei Eisenach, im nordwestlichen Thüringer Wald in Th
 - ✈ **Kassel Airport (KSF)** — 81.2 km
 - ✈ **Paderborn Lippstadt Airport (PAD)** — 137.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7589.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

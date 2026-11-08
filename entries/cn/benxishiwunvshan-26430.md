@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Benxi City"
 lat: 41.332991
 lon: 125.419948
-updated_at: "2026-11-08T12:52:05Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 本溪市五女山景区 / Benxi

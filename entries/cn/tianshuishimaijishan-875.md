@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Tianshui City"
 lat: 34.371083
 lon: 106.008607
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 天水市麦积山景区 / Tianshui

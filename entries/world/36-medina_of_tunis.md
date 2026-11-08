@@ -8,13 +8,13 @@ country: "TN"
 country_zh: "突尼斯"
 country_en: "Tunisia"
 unesco_id: "36"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(ii)(iii)(v)"
 lat: 36.7990274
 lon: 10.1700595
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 突尼斯的阿拉伯人聚居区 / Medina of Tunis
@@ -53,6 +53,12 @@ Under the Almohads and the Hafsids, from the 12th to the 16th century, Tunis was
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 83.9 km
 - ✈ **Tabarka-Aïn Draham International Airport (TBJ)** — 116.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8635.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

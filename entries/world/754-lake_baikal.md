@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 53.30277778
 lon: 108.00472222
-updated_at: "2026-11-08T14:52:32Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 贝加尔湖 / Lake Baikal

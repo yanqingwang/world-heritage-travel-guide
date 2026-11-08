@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "980"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iii)(iv)"
 lat: 55.797442
 lon: 49.10724
-updated_at: "2026-11-08T14:52:38Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 喀山克里姆林宫 / Historic and Architectural Complex of the Kazan Kremlin
@@ -53,6 +53,12 @@ Built on an ancient site, the Kazan Kremlin dates from the Muslim period of the 
 - ✈ **Cheboksary Airport (CSY)** — 114.3 km
 - ✈ **Ulyanovsk Vostochny Airport (ULY)** — 156.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5084.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

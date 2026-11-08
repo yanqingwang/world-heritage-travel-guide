@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(vii)(ix)(x)"
 lat: -20.411944444
 lon: 164.566388888
-updated_at: "2026-11-08T14:52:41Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 新喀里多尼亚潟湖：礁石多样性和相关生态系统 / Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems

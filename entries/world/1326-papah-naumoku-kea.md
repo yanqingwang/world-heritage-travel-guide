@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "1326"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "2010"
 criteria: "(iii)(vi)(viii)(ix)(x)"
 lat: 25.5
 lon: -170.5
-updated_at: "2026-11-08T14:52:45Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 帕帕哈瑙莫夸基亚国家海洋保护区 / Papahānaumokuākea
@@ -46,6 +46,12 @@ Papahānaumokuākea is a vast and isolated linear cluster of small, low lying is
 - ✈ **Lihue Airport (LIH)** — 1201.4 km
 - ✈ **Daniel K. Inouye International Airport (HNL)** — 1364.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6817.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

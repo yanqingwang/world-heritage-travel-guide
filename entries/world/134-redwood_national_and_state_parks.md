@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(vii)(ix)"
 lat: 41.373888888
 lon: -123.998055555
-updated_at: "2026-11-08T14:52:20Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 红杉国家公园 / Redwood National and State Parks

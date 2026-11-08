@@ -8,13 +8,13 @@ country: "AT"
 country_zh: "奥地利"
 country_en: "Austria"
 unesco_id: "1613"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(ii)(iii)"
 lat: 50.492222222
 lon: 5.866944444
-updated_at: "2026-11-08T14:52:50Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 欧洲温泉疗养胜地 / The Great Spa Towns of Europe
@@ -53,6 +53,12 @@ Unter dem Titel Bedeutende Kurstädte Europas (englisch The Great Spa Towns of E
 - ✈ **Maastricht Aachen Airport (MST)** — 47.1 km
 - ✈ **Cologne Bonn Airport (CGN)** — 99.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7913.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

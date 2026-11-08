@@ -8,13 +8,13 @@ country: "PH"
 country_zh: "菲律宾"
 country_en: "Philippines"
 unesco_id: "652"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1999"
 criteria: "(vii)(x)"
 lat: 10.166666666
 lon: 118.916666666
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 普林塞萨港地下河国家公园 / Puerto-Princesa Subterranean River National Park
@@ -47,6 +47,12 @@ This park features a spectacular limestone karst landscape with an underground r
 - ✈ **San Vicente Airport (SWL)** — 55.7 km
 - ✈ **El Nido Airport (ENI)** — 127.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3380.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ix)(x)"
 lat: 50.338055555
 lon: 92.7575
-updated_at: "2026-11-08T14:52:32Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 乌布苏盆地 / Uvs Nuur Basin

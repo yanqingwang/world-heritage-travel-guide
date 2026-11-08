@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ix)(x)"
 lat: 2.6666666666667
 lon: 16.333333333333
-updated_at: "2026-11-08T14:52:46Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 桑加三国保护区 / Sangha Trinational

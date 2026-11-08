@@ -8,13 +8,13 @@ country: "SE"
 country_zh: "瑞典"
 country_en: "Sweden"
 unesco_id: "559"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(iv)"
 lat: 59.321694
 lon: 17.886383
-updated_at: "2026-11-08T14:52:28Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 德罗特宁霍尔摩皇宫 / Royal Domain of Drottningholm
@@ -53,6 +53,12 @@ Drottningholms slott är ett kungligt slott beläget på Lovön i Mälaren, i Ek
 - ✈ **Stockholm-Arlanda Airport (ARN)** — 36.4 km
 - ✈ **Stockholm Västerås Airport (VST)** — 76.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6706.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

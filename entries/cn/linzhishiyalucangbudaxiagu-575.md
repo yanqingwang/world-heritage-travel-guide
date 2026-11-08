@@ -13,7 +13,7 @@ province_en: "Tibet"
 city_en: "Linzhi Prefecture"
 lat: 29.619023
 lon: 94.944433
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 林芝市雅鲁藏布大峡谷景区 / Yarlung Tsangpo Grand Canyon

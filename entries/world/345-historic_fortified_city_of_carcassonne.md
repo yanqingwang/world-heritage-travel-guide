@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "345"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iv)"
 lat: 43.206439
 lon: 2.363788
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 卡尔卡松历史城墙要塞 / Historic Fortified City of Carcassonne
@@ -53,6 +53,12 @@ Depuis la période préromaine, des fortifications ont été érigées sur la co
 - ✈ **Castres Mazamet Airport (DCM)** — 39.4 km
 - ✈ **Perpignan-Rivesaltes (Llabanère) Airport (PGF)** — 66.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8649.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

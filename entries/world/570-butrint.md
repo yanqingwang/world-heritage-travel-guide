@@ -8,13 +8,13 @@ country: "AL"
 country_zh: "阿尔巴尼亚"
 country_en: "Albania"
 unesco_id: "570"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1992"
 criteria: "(iii)"
 lat: 39.757066
 lon: 20.016628
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 布特林特 / Butrint
@@ -47,6 +47,12 @@ Inhabited since prehistoric times, Butrint has been the site of a Greek colony, 
 - ✈ **Ioannina King Pyrrhus National Airport (IOA)** — 69.2 km
 - ✈ **Aktion National Airport (PVK)** — 112.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7784.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "EG"
 country_zh: "埃及"
 country_en: "Egypt"
 unesco_id: "1186"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2005"
 criteria: "(viii)"
 lat: 29.270833333
 lon: 30.043888888
-updated_at: "2026-11-08T14:52:42Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 鲸鱼峡谷 / Wadi Al-Hitan (Whale Valley)
@@ -53,6 +53,12 @@ Wadi Al-Hitan, Whale Valley, in the Western Desert of Egypt, contains invaluable
 - ✈ **Cairo International Airport (CAI)** — 160.7 km
 - ✈ **Alexandria International Airport (HBE)** — 187.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7574.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

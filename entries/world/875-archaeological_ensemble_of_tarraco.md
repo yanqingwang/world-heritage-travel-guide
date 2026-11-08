@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "875"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iii)"
 lat: 41.116477777
 lon: 1.255230555
-updated_at: "2026-11-08T14:52:35Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 塔拉科考古遗址 / Archaeological Ensemble of Tarraco
@@ -53,6 +53,12 @@ Tarraco, la actual Tarragona, fue una ciudad administrativa y mercantil de gran 
 - ✈ **Josep Tarradellas Barcelona-El Prat Airport (BCN)** — 71.7 km
 - ✈ **Lleida-Alguaire Airport (ILD)** — 90.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8878.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

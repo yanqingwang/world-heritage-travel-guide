@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1222"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2006"
 criteria: "(ii)(iii)"
 lat: 34.390361111
 lon: 47.435888888
-updated_at: "2026-11-08T14:52:43Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 比索顿古迹 / Bisotun
@@ -53,6 +53,12 @@ Bisotun is located along the ancient trade route linking the Iranian high platea
 - ✈ **Sanandaj Airport (SDG)** — 102.8 km
 - ✈ **Hamadan Airport (HDM)** — 115.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6024.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

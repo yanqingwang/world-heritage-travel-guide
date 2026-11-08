@@ -8,13 +8,13 @@ country: "UG"
 country_zh: "乌干达"
 country_en: "Uganda"
 unesco_id: "682"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1994"
 criteria: "(vii)(x)"
 lat: -1.05
 lon: 29.71666667
-updated_at: "2026-11-08T14:52:30Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 布恩迪难以穿越的国家公园 / Bwindi Impenetrable National Park
@@ -53,6 +53,12 @@ Hifadhi ya Taifa ya Bwindi (BINP) iko kusini magharibi mwa Uganda . Mbuga hii ni
 - ✈ **Savannah Airstrip (KHX)** — 37.1 km
 - ✈ **Goma International Airport (GOM)** — 86.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9832.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

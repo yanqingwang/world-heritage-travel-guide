@@ -8,13 +8,13 @@ country: "PS"
 country_zh: "巴勒斯坦"
 country_en: "Palestine"
 unesco_id: "1687"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(iii)(iv)"
 lat: 31.87171944
 lon: 35.44456389
-updated_at: "2026-11-08T14:52:52Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 古耶利哥城/苏丹台形遗址 / Ancient Jericho/Tell es-Sultan
@@ -53,6 +53,12 @@ Ancient Jerico/Tell es-Sultan is located northwest of present-day Jericho in the
 - ✈ **Queen Alia International Airport (AMM)** — 54.4 km
 - ✈ **Ben Gurion International Airport (TLV)** — 54.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7055.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

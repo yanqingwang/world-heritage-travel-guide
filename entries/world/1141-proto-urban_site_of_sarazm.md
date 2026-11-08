@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iii)"
 lat: 39.516666666
 lon: 67.566666666
-updated_at: "2026-11-08T14:52:41Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 萨拉子目古城的原型城市遗址 / Proto-urban Site of Sarazm

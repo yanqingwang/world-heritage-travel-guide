@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Xinzhou"
 lat: 38.90908
 lon: 113.65576
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 忻州市五台山风景名胜区 / Xinzhoushiwutaishan Scenic and Historic Area

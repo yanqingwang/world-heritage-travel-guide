@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(ix)(x)"
 lat: 6.24
 lon: 80.28
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 辛哈拉加森林保护区 / Sinharaja Forest Reserve

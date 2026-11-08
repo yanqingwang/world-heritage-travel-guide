@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "1439"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2014"
 criteria: "(ii)(iv)"
 lat: 37.47802778
 lon: 127.18419444
-updated_at: "2026-11-08T14:52:47Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 南漢山城 / Namhansanseong
@@ -53,6 +53,12 @@ Namhansanseong was designed as an emergency capital for the Joseon dynasty (1392
 - ✈ **Incheon International Airport (ICN)** — 64.7 km
 - ✈ **Wonju Airport / Hoengseong Air Base (K-38/K-46) (WJU)** — 68.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **927.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

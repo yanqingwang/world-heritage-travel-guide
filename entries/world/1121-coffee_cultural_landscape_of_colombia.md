@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(v)(vi)"
 lat: 4.1597
 lon: -76.3947
-updated_at: "2026-11-08T14:52:41Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 哥伦比亚咖啡文化景观 / Coffee Cultural Landscape of Colombia

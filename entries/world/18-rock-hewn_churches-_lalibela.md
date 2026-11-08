@@ -8,13 +8,13 @@ country: "ET"
 country_zh: "埃塞俄比亚"
 country_en: "Ethiopia"
 unesco_id: "18"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1978"
 criteria: "(i)(ii)(iii)"
 lat: 12.02935
 lon: 39.04042
-updated_at: "2026-11-08T14:52:18Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 拉利贝拉岩石教堂 / Rock-Hewn Churches, Lalibela
@@ -47,6 +47,12 @@ The 11 medieval monolithic cave churches of this 13th-century 'New Jerusalem' ar
 - ✈ **Mekele Alula Aba Nega Airport (MQX)** — 168.6 km
 - ✈ **Gondar Airport (GDQ)** — 182.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8101.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

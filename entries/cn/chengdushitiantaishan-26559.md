@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Chengdu"
 lat: 30.283941
 lon: 103.132781
-updated_at: "2026-11-08T12:52:05Z"
+updated_at: "2026-11-08T15:57:44Z"
 ---
 
 # 成都市天台山景区 / Tiantai Mountain

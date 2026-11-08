@@ -8,13 +8,13 @@ country: "KP"
 country_zh: "朝鲜民主主义人民共和国"
 country_en: "North Korea"
 unesco_id: "1642"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "2025"
 criteria: "(iii)(vii)"
 lat: 38.656763888
 lon: 128.104902777
-updated_at: "2026-11-08T14:52:51Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 金刚山——海上钻石山 / Mount Kumgang – Diamond Mountain from the Sea
@@ -53,6 +53,12 @@ Mount Kumgang is a long-celebrated place of exceptional natural beauty, renowned
 - ✈ **Yangyang International Airport (YNY)** — 82.6 km
 - ✈ **Sondok Airport (DSO)** — 132.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **938.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "SN"
 country_zh: "塞内加尔"
 country_en: "Senegal"
 unesco_id: "26"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1978"
 criteria: "(vi)"
 lat: 14.666944444
 lon: -17.398333333
-updated_at: "2026-11-08T14:52:18Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 戈雷岛 / Island of Gorée
@@ -53,6 +53,12 @@ Au large des côtes du Sénégal, en face de Dakar, Gorée a été du XV e au XI
 - ✈ **Banjul International Airport (BJL)** — 168.3 km
 - ✈ **Cap Skirring Airport (CSK)** — 262.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12271.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

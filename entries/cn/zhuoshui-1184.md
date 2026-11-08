@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Qianjiang District"
 lat: 29.299416
 lon: 108.778624
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 濯水景区 / Zhuoshui Scenic Area

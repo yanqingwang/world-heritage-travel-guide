@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Xianyang"
 lat: 34.574647
 lon: 108.226645
-updated_at: "2026-11-08T12:52:05Z"
+updated_at: "2026-11-08T15:57:44Z"
 ---
 
 # 咸阳市乾陵景区 / Xianyang

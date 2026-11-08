@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "113"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(iii)(iv)"
 lat: 32.008333333
 lon: 48.520833333
-updated_at: "2026-11-08T14:52:20Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 恰高•占比尔 / Tchogha Zanbil
@@ -53,6 +53,12 @@ The ruins of the holy city of the Kingdom of Elam, surrounded by three huge conc
 - ✈ **Qasem Soleimani International Airport (AWZ)** — 78.2 km
 - ✈ **Khoram Abad Airport (KHD)** — 160.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6024.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Lijiang"
 lat: 27.140138
 lon: 100.210479
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 丽江市玉龙雪山景区 / Jade Dragon Snow Mountain

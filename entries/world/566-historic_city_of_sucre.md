@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iv)"
 lat: -19.04799
 lon: -65.259591944
-updated_at: "2026-11-08T14:52:28Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 苏克雷古城 / Historic City of Sucre

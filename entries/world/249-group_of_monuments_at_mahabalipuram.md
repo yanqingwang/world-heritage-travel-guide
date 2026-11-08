@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "249"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1984"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 12.616666666
 lon: 80.191666666
-updated_at: "2026-11-08T14:52:23Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 默哈伯利布勒姆古迹群 / Group of Monuments at Mahabalipuram
@@ -47,6 +47,12 @@ This group of sanctuaries, founded by the Pallava kings, was carved out of rock 
 - ✈ **Pondicherry Airport (PNY)** — 83.1 km
 - ✈ **Tirupati International Airport (TIR)** — 133.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4655.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

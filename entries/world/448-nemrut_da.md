@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "448"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(i)(iii)(iv)"
 lat: 37.980738888
 lon: 38.740830555
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 内姆鲁特达格 / Nemrut Dağ
@@ -53,6 +53,12 @@ Nemrut Dağı, Türkiye'nin Adıyaman ilinde yer alan 2.150 metre yüksekliğind
 - ✈ **Şanlıurfa GAP Airport (GNY)** — 61.0 km
 - ✈ **Malatya Erhaç Airport (MLX)** — 76.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6533.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

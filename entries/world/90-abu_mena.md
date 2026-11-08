@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iv)"
 lat: 30.84105
 lon: 29.66349
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 阿布米那基督教遗址 / Abu Mena

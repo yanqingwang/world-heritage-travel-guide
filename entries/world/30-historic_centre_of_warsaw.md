@@ -8,13 +8,13 @@ country: "PL"
 country_zh: "波兰"
 country_en: "Poland"
 unesco_id: "30"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1980"
 criteria: "(ii)(vi)"
 lat: 52.249722222
 lon: 21.012222222
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 华沙历史中心 / Historic Centre of Warsaw
@@ -53,6 +53,12 @@ Stare Miasto w Warszawie, zwyczajowo Starówka – dawne miasto Stara Warszawa, 
 - ✈ **Warsaw Modlin Airport (WMI)** — 33.2 km
 - ✈ **Warsaw Radom Airport (RDO)** — 96.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6943.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

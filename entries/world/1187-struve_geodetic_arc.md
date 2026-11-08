@@ -8,13 +8,13 @@ country: "BY"
 country_zh: "白俄罗斯"
 country_en: "Belarus"
 unesco_id: "1187"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2005"
 criteria: "(ii)(iv)(vi)"
 lat: 52.289444444
 lon: 25.649444444
-updated_at: "2026-11-08T14:52:42Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 斯特鲁维地理探测弧线 / Struve Geodetic Arc
@@ -53,6 +53,12 @@ The Struve Arc is a chain of survey triangulations stretching from Hammerfest in
 - ✈ **Lublin Airport (LUZ)** — 233.3 km
 - ✈ **Minsk National Airport (MSQ)** — 238.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6773.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

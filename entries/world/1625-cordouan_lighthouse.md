@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "1625"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(i)(iv)"
 lat: 45.5863198
 lon: -1.1733254
-updated_at: "2026-11-08T14:52:50Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 科尔杜昂灯塔 / Cordouan Lighthouse
@@ -53,6 +53,12 @@ Le phare de Cordouan s’élève sur un plateau rocheux peu profond de l’océa
 - ✈ **Bordeaux–Mérignac Airport (BOD)** — 91.6 km
 - ✈ **Bergerac Dordogne-Périgord airport (EGC)** — 157.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8609.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

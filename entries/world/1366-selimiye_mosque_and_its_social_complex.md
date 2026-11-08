@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "1366"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2011"
 criteria: "(i)(iv)"
 lat: 41.678056
 lon: 26.559444
-updated_at: "2026-11-08T14:52:45Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 赛利米耶清真寺 / Selimiye Mosque and its Social Complex
@@ -53,6 +53,12 @@ Selimiye Camii, Osmanlı padişahı II. Selim döneminde Mimar Sinan'ın yaptı�
 - ✈ **Burgas Airport (BOJ)** — 126.7 km
 - ✈ **Tekirdağ Çorlu Airport (TEQ)** — 128.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7282.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

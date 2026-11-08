@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "316"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1984"
 criteria: "(ii)(iv)(vi)"
 lat: 42.340805555
 lon: -3.704472222
-updated_at: "2026-11-08T14:52:24Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 布尔戈斯大教堂 / Burgos Cathedral
@@ -53,6 +53,12 @@ La construcción de la Catedral de Santa María de Burgos comenzó en el siglo X
 - ✈ **Logroño-Agoncillo Airport (RJL)** — 114.3 km
 - ✈ **Valladolid Airport (VLL)** — 118.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8960.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

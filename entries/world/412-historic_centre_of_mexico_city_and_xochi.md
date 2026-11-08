@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iii)(iv)(v)"
 lat: 19.41833
 lon: -99.13278
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 墨西哥城与赫霍奇米尔科历史中心 / Historic Centre of Mexico City and Xochimilco

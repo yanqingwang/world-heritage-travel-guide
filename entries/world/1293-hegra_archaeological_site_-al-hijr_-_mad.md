@@ -8,13 +8,13 @@ country: "SA"
 country_zh: "沙特阿拉伯"
 country_en: "Saudi Arabia"
 unesco_id: "1293"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(ii)(iii)"
 lat: 26.791667
 lon: 37.952778
-updated_at: "2026-11-08T14:52:44Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 瑪甸沙勒 / Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)
@@ -49,6 +49,12 @@ The Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) is the first Wo
 - ✈ **Red Sea International Airport (RSI)** — 155.5 km
 - ✈ **Al Wajh Domestic Airport (EJH)** — 161.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7217.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

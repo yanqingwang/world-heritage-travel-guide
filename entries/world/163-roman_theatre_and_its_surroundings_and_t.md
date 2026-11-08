@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(iii)(vi)"
 lat: 44.13572222
 lon: 4.808416667
-updated_at: "2026-11-08T14:52:21Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 奥朗日古罗马剧场和凯旋门 / Roman Theatre and its Surroundings and the "Triumphal Arch" of Orange

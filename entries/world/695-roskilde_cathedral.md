@@ -8,13 +8,13 @@ country: "DK"
 country_zh: "丹麦"
 country_en: "Denmark"
 unesco_id: "695"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(ii)(iv)"
 lat: 55.642669444
 lon: 12.080308333
-updated_at: "2026-11-08T14:52:30Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 罗斯基勒大教堂 / Roskilde Cathedral
@@ -53,6 +53,12 @@ Roskilde Domkirke er domkirken i Roskilde. Domkirken er blandt de vigtigste kirk
 - ✈ **Copenhagen Kastrup Airport (CPH)** — 36.2 km
 - ✈ **Malmö Sturup Airport (MMX)** — 82.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7223.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

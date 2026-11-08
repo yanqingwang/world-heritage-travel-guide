@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "398"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(i)(ii)(iii)"
 lat: 41.0847535
 lon: 16.2709346
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 蒙特堡 / Castel del Monte
@@ -53,6 +53,12 @@ Castel del Monte è un castello del XIII secolo, fatto costruire da Federico II 
 - ✈ **Foggia Gino Lisa Airport (FOG)** — 72.8 km
 - ✈ **Salerno Costa d'Amalfi Airport (QSR)** — 125.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7896.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

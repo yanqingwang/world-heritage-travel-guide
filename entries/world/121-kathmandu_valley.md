@@ -8,13 +8,13 @@ country: "NP"
 country_zh: "尼泊尔"
 country_en: "Nepal"
 unesco_id: "121"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(iii)(iv)(vi)"
 lat: 27.703944444
 lon: 85.308583333
-updated_at: "2026-11-08T14:52:20Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 加德满都谷地 / Kathmandu Valley
@@ -53,6 +53,12 @@ The cultural heritage of the Kathmandu Valley is illustrated by seven groups of 
 - ✈ **Simara Airport (SIF)** — 68.6 km
 - ✈ **Bharatpur Airport (BHR)** — 86.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3172.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

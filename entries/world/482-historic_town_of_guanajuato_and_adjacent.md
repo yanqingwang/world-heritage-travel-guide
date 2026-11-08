@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "482"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1988"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 21.017777777
 lon: -101.256666666
-updated_at: "2026-11-08T14:52:27Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 瓜纳托历史名城及周围矿藏 / Historic Town of Guanajuato and Adjacent Mines
@@ -53,6 +53,12 @@ Fundada por los españoles a comienzos del siglo XV, esta ciudad se convirtió e
 - ✈ **Querétaro Intercontinental Airport (QRO)** — 119.8 km
 - ✈ **General Francisco J. Mujica International Airport (MLM)** — 132.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12162.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

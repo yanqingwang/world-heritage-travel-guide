@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ix)(x)"
 lat: 30.738115
 lon: -82.139736
-updated_at: "2026-11-08T14:52:53Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 奥克弗诺基国家野生动物保护区 / Okefenokee National Wildlife Refuge

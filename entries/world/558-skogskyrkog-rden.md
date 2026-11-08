@@ -8,13 +8,13 @@ country: "SE"
 country_zh: "瑞典"
 country_en: "Sweden"
 unesco_id: "558"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1994"
 criteria: "(ii)(iv)"
 lat: 59.275555555
 lon: 18.099444444
-updated_at: "2026-11-08T14:52:28Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 斯科斯累格加登公墓 / Skogskyrkogården
@@ -53,6 +53,12 @@ Skogskyrkogården är en begravningsplats i stadsdelen Gamla Enskede inom Stockh
 - ✈ **Stockholm-Arlanda Airport (ARN)** — 42.6 km
 - ✈ **Stockholm Skavsta Airport (NYO)** — 86.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6706.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

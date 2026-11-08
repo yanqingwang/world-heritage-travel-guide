@@ -8,13 +8,13 @@ country: "VN"
 country_zh: "越南"
 country_en: "Vietnam"
 unesco_id: "1328"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(ii)(iii)(vi)"
 lat: 21.0325
 lon: 105.83972
-updated_at: "2026-11-08T14:52:45Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 河内升龙皇城 / Central Sector of the Imperial Citadel of Thang Long - Hanoi
@@ -53,6 +53,12 @@ Hoàng thành Thăng Long (chữ Hán: 昇龍皇城; Hán-Việt: Thăng Long Ho
 - ✈ **Cat Bi International Airport (HPH)** — 94.9 km
 - ✈ **Tho Xuan Airport (THD)** — 131.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2332.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

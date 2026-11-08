@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Anyang"
 lat: 36.148807
 lon: 114.31621
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 安阳市殷墟景区 / Yinxu

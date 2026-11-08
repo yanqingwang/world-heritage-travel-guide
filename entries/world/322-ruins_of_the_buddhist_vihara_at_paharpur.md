@@ -8,13 +8,13 @@ country: "BD"
 country_zh: "孟加拉国"
 country_en: "Bangladesh"
 unesco_id: "322"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(i)(ii)(vi)"
 lat: 25.03111111
 lon: 88.97694444
-updated_at: "2026-11-08T14:52:24Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 帕哈尔普尔的佛教毗诃罗遗址 / Ruins of the Buddhist Vihara at Paharpur
@@ -53,6 +53,12 @@ Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards
 - ✈ **Saidpur Airport (SPD)** — 81.2 km
 - ✈ **Bhadrapur Airport (BDP)** — 193.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3131.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

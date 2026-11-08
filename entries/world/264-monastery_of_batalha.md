@@ -8,13 +8,13 @@ country: "PT"
 country_zh: "葡萄牙"
 country_en: "Portugal"
 unesco_id: "264"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1983"
 criteria: "(i)(ii)"
 lat: 39.659166666
 lon: -8.826111111
-updated_at: "2026-11-08T14:52:23Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 巴塔利亚修道院 / Monastery of Batalha
@@ -53,6 +53,12 @@ O Mosteiro de Santa Maria da Vitória, mais conhecido como Mosteiro da Batalha �
 - ✈ **Cascais Airport (CAT)** — 113.4 km
 - ✈ **Aerodromo Goncalves Lobato (Viseu Airport) (VSE)** — 142.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9656.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

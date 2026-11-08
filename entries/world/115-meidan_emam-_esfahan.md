@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "115"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(v)(vi)"
 lat: 32.658222222
 lon: 51.677333333
-updated_at: "2026-11-08T14:52:20Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 伊斯法罕王侯广场 / Meidan Emam, Esfahan
@@ -53,6 +53,12 @@ Built by Shah Abbas I the Great at the beginning of the 17th century, and border
 - ✈ **Kashan Airport (KKS)** — 137.9 km
 - ✈ **Shahid Sadooghi Airport (AZD)** — 258.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5719.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

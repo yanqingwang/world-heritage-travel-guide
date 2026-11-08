@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "1303"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2009"
 criteria: "(i)(ii)(iv)"
 lat: 52.9702
 lon: -3.08782
-updated_at: "2026-11-08T14:52:44Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 龐特卡薩魯岧水道 / Pontcysyllte Aqueduct and Canal
@@ -47,6 +47,12 @@ Situated in north-eastern Wales, the 18 kilometre long Pontcysyllte Aqueduct and
 - ✈ **Manchester Airport (MAN)** — 68.4 km
 - ✈ **Birmingham Airport (BHX)** — 107.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8120.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

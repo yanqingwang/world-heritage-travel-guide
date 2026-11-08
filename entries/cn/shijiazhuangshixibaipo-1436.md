@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Shijiazhuang"
 lat: 38.345935
 lon: 113.950648
-updated_at: "2026-11-08T12:52:05Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 石家庄市西柏坡景区 / Shijiazhuang

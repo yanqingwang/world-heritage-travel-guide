@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "1725"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2025"
 criteria: "(i)(iv)"
 lat: 47.593333333
 lon: -3.079722222
-updated_at: "2026-11-08T14:52:53Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 卡纳克和莫尔比昂海岸巨石林 / Megaliths of Carnac and of the shores of Morbihan
@@ -53,6 +53,12 @@ Situé en Bretagne (France), ce bien en série comprend une forte densité de st
 - ✈ **Nantes Atlantique Airport (NTE)** — 121.0 km
 - ✈ **Brest Bretagne airport (BES)** — 137.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8486.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

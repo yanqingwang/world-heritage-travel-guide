@@ -8,13 +8,13 @@ country: "MT"
 country_zh: "马耳他"
 country_en: "Malta"
 unesco_id: "130"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1980"
 criteria: "(iii)"
 lat: 35.869558333
 lon: 14.506883333
-updated_at: "2026-11-08T14:52:20Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 哈尔•萨夫列尼地下宫殿 / Ħal Saflieni Hypogeum
@@ -47,6 +47,12 @@ The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using
 - ✈ **Comiso Airport (CIY)** — 125.6 km
 - ✈ **Lampedusa Airport (LMP)** — 175.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8416.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Huangpu District"
 lat: 31.210884
 lon: 121.445075
-updated_at: "2026-11-08T12:52:05Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 中国共产党一大•二大•四大纪念馆景区 / Chinese Communist Party

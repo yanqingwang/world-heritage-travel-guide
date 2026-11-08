@@ -8,13 +8,13 @@ country: "CL"
 country_zh: "智利"
 country_en: "Chile"
 unesco_id: "1634"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(iii)(v)"
 lat: -18.480596
 lon: -70.321114
-updated_at: "2026-11-08T14:52:51Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 阿里卡和帕里纳科塔地区的新克罗文化聚落及木乃伊制作 / Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region
@@ -49,6 +49,12 @@ El sitio consta de tres componentes: Faldeo Norte del Morro de Arica, Colón 10,
 - ✈ **Coronel FAP Carlos Ciriani Santa Rosa International Airport (TCQ)** — 47.8 km
 - ✈ **General Jorge Fernandez Maldon Airport (ILQ)** — 139.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17509.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

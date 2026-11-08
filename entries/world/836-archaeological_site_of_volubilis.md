@@ -8,13 +8,13 @@ country: "MA"
 country_zh: "摩洛哥"
 country_en: "Morocco"
 unesco_id: "836"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 34.0399646
 lon: -5.5626871
-updated_at: "2026-11-08T14:52:34Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 瓦卢比利斯考古遗址 / Archaeological Site of Volubilis
@@ -53,6 +53,12 @@ The Mauritanian capital, founded in the 3rd century B.C., became an important ou
 - ✈ **Rabat-Salé Airport (RBA)** — 109.5 km
 - ✈ **Sania Ramel Airport (TTU)** — 174.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9835.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(v)"
 lat: 33.74695630819231
 lon: 51.33943194923077
-updated_at: "2026-11-08T14:52:46Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 梅满德 / Cultural Landscape of Maymand

@@ -8,13 +8,13 @@ country: "DZ"
 country_zh: "阿尔及利亚"
 country_en: "Algeria"
 unesco_id: "565"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1992"
 criteria: "(ii)(v)"
 lat: 36.78333
 lon: 3.06028
-updated_at: "2026-11-08T14:52:28Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 阿尔及尔城堡 / Kasbah of Algiers
@@ -53,6 +53,12 @@ The Kasbah is a unique kind of medina, or Islamic city. It stands in one of the 
 - ✈ **Chlef Aboubakr Belkaid International Airport (CFK)** — 166.1 km
 - ✈ **Soummam–Abane Ramdane Airport (BJA)** — 179.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9103.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

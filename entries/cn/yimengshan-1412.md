@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Linyi"
 lat: 35.567217
 lon: 117.984396
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 沂蒙山旅游区 / Yimengshan Tourist Area

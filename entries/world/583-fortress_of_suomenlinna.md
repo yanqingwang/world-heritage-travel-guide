@@ -8,13 +8,13 @@ country: "FI"
 country_zh: "芬兰"
 country_en: "Finland"
 unesco_id: "583"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(iv)"
 lat: 60.143611111
 lon: 24.984444444
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 苏奥曼斯纳城堡 / Fortress of Suomenlinna
@@ -53,6 +53,12 @@ Suomenlinna, myös Viapori, (ruots. Sveaborg) on Helsingin edustalla sijaitseva 
 - ✈ **Lennart Meri Tallinn Airport (TLL)** — 81.7 km
 - ✈ **Turku Airport (TKU)** — 155.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6307.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

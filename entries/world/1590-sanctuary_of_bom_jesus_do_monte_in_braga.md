@@ -8,13 +8,13 @@ country: "PT"
 country_zh: "葡萄牙"
 country_en: "Portugal"
 unesco_id: "1590"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2019"
 criteria: "(iv)"
 lat: 41.5546
 lon: -8.3775
-updated_at: "2026-11-08T14:52:50Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 布拉加山上仁慈耶稣朝圣所 / Sanctuary of Bom Jesus do Monte in Braga
@@ -53,6 +53,12 @@ O Santuário do Bom Jesus do Monte, também referido como Santuário do Bom Jesu
 - ✈ **Vila Real Airport (VRL)** — 63.0 km
 - ✈ **Vigo Airport (VGO)** — 78.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9418.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

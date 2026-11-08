@@ -8,13 +8,13 @@ country: "DZ"
 country_zh: "阿尔及利亚"
 country_en: "Algeria"
 unesco_id: "179"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "1982"
 criteria: "(i)(iii)(vii)(viii)"
 lat: 25.666666666
 lon: 9.0
-updated_at: "2026-11-08T14:52:21Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 阿杰尔的塔西利 / Tassili n'Ajjer
@@ -53,6 +53,12 @@ Located in a strange lunar landscape of great geological interest, this site has
 - ✈ **Tiska Djanet Airport (DJG)** — 160.5 km
 - ✈ **Zarzaitine - In Aménas Airport (IAM)** — 272.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9505.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

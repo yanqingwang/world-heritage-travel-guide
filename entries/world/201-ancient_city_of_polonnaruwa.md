@@ -8,13 +8,13 @@ country: "LK"
 country_zh: "斯里兰卡"
 country_en: "Sri Lanka"
 unesco_id: "201"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1982"
 criteria: "(i)(iii)(vi)"
 lat: 7.933333333
 lon: 81.0
-updated_at: "2026-11-08T14:52:22Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 波隆纳鲁沃古城 / Ancient City of Polonnaruwa
@@ -47,6 +47,12 @@ Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradh
 - ✈ **Batticaloa International Airport (BTC)** — 78.8 km
 - ✈ **Bandaranaike International Colombo Airport (CMB)** — 148.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4956.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

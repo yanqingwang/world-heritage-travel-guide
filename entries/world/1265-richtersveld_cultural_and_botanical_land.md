@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iv)(v)"
 lat: -28.6
 lon: 17.203888888
-updated_at: "2026-11-08T14:52:44Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 理查德斯维德文化植物景观 / Richtersveld Cultural and Botanical Landscape

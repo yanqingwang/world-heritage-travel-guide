@@ -8,13 +8,13 @@ country: "NP"
 country_zh: "尼泊尔"
 country_en: "Nepal"
 unesco_id: "284"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1984"
 criteria: "(vii)(ix)(x)"
 lat: 27.5
 lon: 84.333333
-updated_at: "2026-11-08T14:52:24Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 奇特旺皇家国家公园 / Chitwan National Park
@@ -53,6 +53,12 @@ At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed ve
 - ✈ **Simara Airport (SIF)** — 74.2 km
 - ✈ **Pokhara International Airport (PHH)** — 82.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3249.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ix)(x)"
 lat: -15.111111111
 lon: -44.223888888
-updated_at: "2026-11-08T14:52:39Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 塞拉多保护区：查帕达－多斯－维阿迪罗斯和艾玛斯国家公园 / Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks

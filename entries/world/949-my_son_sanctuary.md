@@ -8,13 +8,13 @@ country: "VN"
 country_zh: "越南"
 country_en: "Vietnam"
 unesco_id: "949"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iii)"
 lat: 15.76324
 lon: 108.124446
-updated_at: "2026-11-08T14:52:37Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 圣子修道院 / My Son Sanctuary
@@ -53,6 +53,12 @@ Thánh địa Mỹ Sơn thuộc xã Thu Bồn, thành phố Đà Nẵng, cách t
 - ✈ **Chu Lai Airport (VCL)** — 74.0 km
 - ✈ **Phu Bai International Airport (HUI)** — 83.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2793.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

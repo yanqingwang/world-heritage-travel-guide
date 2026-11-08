@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iv)(vii)(viii)(ix)(x)"
 lat: -3.21
 lon: 35.46
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 恩戈罗恩戈罗自然保护区 / Ngorongoro Conservation Area

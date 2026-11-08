@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Baoji"
 lat: 34.440763
 lon: 107.908118
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 宝鸡市法门文化景区 / Baoji

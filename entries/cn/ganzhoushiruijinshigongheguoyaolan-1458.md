@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Ganzhou"
 lat: 25.88996
 lon: 116.018882
-updated_at: "2026-11-08T12:52:05Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 赣州市瑞金市共和国摇篮景区 / Ganzhou

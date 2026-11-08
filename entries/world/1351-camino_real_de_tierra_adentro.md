@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "1351"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2010"
 criteria: "(ii)(iv)"
 lat: 22.608055555
 lon: -102.379166666
-updated_at: "2026-11-08T14:52:45Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 皇家内陆大干线 / Camino Real de Tierra Adentro
@@ -53,6 +53,12 @@ El Camino Real de Tierra Adentro, también conocido por el nombre de “Camino d
 - ✈ **Aguascalientes International Airport (AGU)** — 101.2 km
 - ✈ **Ponciano Arriaga International Airport (SLP)** — 153.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11916.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "UZ"
 country_zh: "乌兹别克斯坦"
 country_en: "Uzbekistan"
 unesco_id: "885"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(iii)(iv)"
 lat: 39.05
 lon: 66.833333333
-updated_at: "2026-11-08T14:52:35Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 沙赫利苏伯兹历史中心 / Historic Centre of Shakhrisyabz
@@ -53,6 +53,12 @@ Shahrisabz — Oʻzbekistonning Qashqadaryo viloyatidagi viloyat boʻysunuvidagi
 - ✈ **Karshi Airport (KSQ)** — 95.8 km
 - ✈ **Zomin Airport (OMN)** — 172.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4175.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

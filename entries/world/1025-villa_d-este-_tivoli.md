@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "1025"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 41.9625
 lon: 12.796111111
-updated_at: "2026-11-08T14:52:39Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 提沃利城的伊斯特别墅 / Villa d'Este, Tivoli
@@ -53,6 +53,12 @@ La villa d'Este di Tivoli è una villa del Rinascimento italiano e figura nella 
 - ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 48.3 km
 - ✈ **Abruzzo Airport (PSR)** — 125.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8124.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

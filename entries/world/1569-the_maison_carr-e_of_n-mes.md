@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "1569"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(iv)"
 lat: 43.838194
 lon: 4.356111
-updated_at: "2026-11-08T14:52:49Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 尼姆方形神殿 / The Maison Carrée of Nîmes
@@ -53,6 +53,12 @@ Built in the 1st century AD in the Roman colony of Nemausus – today’s city o
 - ✈ **Montpellier-Méditerranée Airport (MPL)** — 43.0 km
 - ✈ **Avignon Caumont airport (AVN)** — 44.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8484.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

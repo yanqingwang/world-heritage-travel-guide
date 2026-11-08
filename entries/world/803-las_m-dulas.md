@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "803"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 42.458699
 lon: -6.759002
-updated_at: "2026-11-08T14:52:33Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 拉斯梅德拉斯 / Las Médulas
@@ -53,6 +53,12 @@ En el siglo I d.C., el poder imperial romano empezó a explotar el yacimiento au
 - ✈ **León Airport (LEN)** — 91.8 km
 - ✈ **Asturias Airport (OVD)** — 136.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9261.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

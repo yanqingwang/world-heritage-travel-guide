@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 18.613025
 lon: -95.656273611
-updated_at: "2026-11-08T14:52:35Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 塔拉科塔潘历史遗迹区 / Historic Monuments Zone of Tlacotalpan

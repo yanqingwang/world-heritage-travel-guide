@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Guangan City"
 lat: 30.525267
 lon: 106.643279
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 广安市邓小平故里旅游区 / Deng Xiaoping

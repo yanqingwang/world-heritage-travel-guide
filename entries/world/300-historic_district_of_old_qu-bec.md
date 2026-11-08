@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "300"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1985"
 criteria: "(iv)(vi)"
 lat: 46.809444444
 lon: -71.210555555
-updated_at: "2026-11-08T14:52:24Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 魁北克古城区 / Historic District of Old Québec
@@ -53,6 +53,12 @@ Fondée par l'explorateur français Champlain au début du XVII e siècle, Québ
 - ✈ **Saguenay-Bagotville Airport (YBG)** — 169.9 km
 - ✈ **Roberval Airport (YRJ)** — 205.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10323.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

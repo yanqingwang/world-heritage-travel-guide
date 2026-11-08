@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iv)"
 lat: 38.755036111
 lon: 30.529575
-updated_at: "2026-11-08T14:52:52Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 中世纪安纳托利亚的木柱式清真寺 / Wooden Hypostyle Mosques of Medieval Anatolia

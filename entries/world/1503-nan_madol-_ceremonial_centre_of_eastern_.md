@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(i)(iii)(iv)(vi)"
 lat: 6.841944
 lon: 158.332222
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 南马都尔：东密克罗尼西亚庆典中心 / Nan Madol: Ceremonial Centre of Eastern Micronesia

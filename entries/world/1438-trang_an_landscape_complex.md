@@ -8,13 +8,13 @@ country: "VN"
 country_zh: "越南"
 country_en: "Vietnam"
 unesco_id: "1438"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "2014"
 criteria: "(v)(vii)(viii)"
 lat: 20.2557
 lon: 105.9156
-updated_at: "2026-11-08T14:52:47Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 长安名胜群 / Trang An Landscape Complex
@@ -53,6 +53,12 @@ Quần thể danh thắng Tràng An là một vùng du lịch tổng hợp gồm
 - ✈ **Cat Bi International Airport (HPH)** — 104.8 km
 - ✈ **Noi Bai International Airport (HAN)** — 108.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2481.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

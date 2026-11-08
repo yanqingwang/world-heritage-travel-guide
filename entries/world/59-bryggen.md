@@ -8,13 +8,13 @@ country: "NO"
 country_zh: "挪威"
 country_en: "Norway"
 unesco_id: "59"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(iii)"
 lat: 60.3975
 lon: 5.323333333
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 卑尔根市布吕根区 / Bryggen
@@ -53,6 +53,12 @@ Bryggen i Bergen, også kjent som Tyskebryggen og Hansabryggen, omfatter den gam
 - ✈ **Stord Airport, Sørstokken (SRP)** — 67.3 km
 - ✈ **Førde Airport, Bringeland (FDE)** — 112.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7238.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

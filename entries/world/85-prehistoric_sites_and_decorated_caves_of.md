@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)"
 lat: 45.0575
 lon: 1.17
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 韦泽尔峡谷洞穴群与史前遗迹 / Prehistoric Sites and Decorated Caves of the Vézère Valley

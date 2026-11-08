@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "1594"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2019"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 53.23625
 lon: -2.307138888
-updated_at: "2026-11-08T14:52:50Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 卓瑞尔河岸天文台 / Jodrell Bank Observatory
@@ -47,6 +47,12 @@ Located in a rural area of northwest England, free from radio interference, Jodr
 - ✈ **Liverpool John Lennon Airport (LPL)** — 37.7 km
 - ✈ **East Midlands Airport (EMA)** — 79.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8092.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

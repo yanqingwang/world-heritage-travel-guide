@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(ii)(iv)"
 lat: -0.22
 lon: -78.512083
-updated_at: "2026-11-08T14:52:18Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 基多旧城 / City of Quito

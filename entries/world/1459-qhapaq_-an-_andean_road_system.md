@@ -8,13 +8,13 @@ country: "AR"
 country_zh: "阿根廷"
 country_en: "Argentina"
 unesco_id: "1459"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2014"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: -18.25
 lon: -69.59166667
-updated_at: "2026-11-08T14:52:47Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 印加路网 / Qhapaq Ñan, Andean Road System
@@ -53,6 +53,12 @@ Se trata de una vasta red viaria de unos 30.000 kilómetros construida a lo larg
 - ✈ **Chacalluta International Airport (ARI)** — 79.6 km
 - ✈ **General Jorge Fernandez Maldon Airport (ILQ)** — 195.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17478.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

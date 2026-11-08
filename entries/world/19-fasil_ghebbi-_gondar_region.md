@@ -8,13 +8,13 @@ country: "ET"
 country_zh: "埃塞俄比亚"
 country_en: "Ethiopia"
 unesco_id: "19"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1979"
 criteria: "(ii)(iii)"
 lat: 12.608055555
 lon: 37.469722222
-updated_at: "2026-11-08T14:52:18Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 贡德尔地区的法西尔盖比城堡及古建筑 / Fasil Ghebbi, Gondar Region
@@ -53,6 +53,12 @@ In the 16th and 17th centuries, the fortress-city of Fasil Ghebbi was the reside
 - ✈ **Bahir Dar Airport (BJR)** — 112.4 km
 - ✈ **Humera Airport (HUE)** — 150.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8198.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

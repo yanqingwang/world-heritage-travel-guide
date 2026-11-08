@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "657"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(ii)(iv)"
 lat: 56.31035
 lon: 38.13065
-updated_at: "2026-11-08T14:52:30Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 谢尔吉圣三一大修道院 / Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad
@@ -53,6 +53,12 @@ This is a fine example of a working Orthodox monastery, with military features t
 - ✈ **Zhukovsky International Airport (ZIA)** — 84.2 km
 - ✈ **Vnukovo International Airport (VKO)** — 96.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5796.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

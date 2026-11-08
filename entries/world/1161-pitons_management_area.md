@@ -8,13 +8,13 @@ country: "LC"
 country_zh: "圣卢西亚"
 country_en: "Saint Lucia"
 unesco_id: "1161"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2004"
 criteria: "(vii)(viii)"
 lat: 13.807083333
 lon: -61.070361111
-updated_at: "2026-11-08T14:52:42Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 皮通山保护区 / Pitons Management Area
@@ -47,6 +47,12 @@ The 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic s
 - ✈ **George F. L. Charles Airport (SLU)** — 25.1 km
 - ✈ **Argyle International Airport (SVD)** — 72.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14025.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

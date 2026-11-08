@@ -8,13 +8,13 @@ country: "MU"
 country_zh: "毛里求斯"
 country_en: "Mauritius"
 unesco_id: "1259"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2008"
 criteria: "(iii)(vi)"
 lat: -20.460555555
 lon: 57.313611111
-updated_at: "2026-11-08T14:52:43Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 莫纳山 / Le Morne Cultural Landscape
@@ -53,6 +53,12 @@ Le Paysage culturel du Morne est une montagne accidentée qui s’avance dans l�
 - ✈ **Roland Garros Airport (RUN)** — 192.7 km
 - ✈ **Saint-Pierre Pierrefonds Airport (ZSE)** — 218.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9076.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

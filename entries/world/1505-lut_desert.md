@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1505"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2016"
 criteria: "(vii)(viii)"
 lat: 30.263888888
 lon: 59.241111111
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 卢特沙漠 / Lut Desert
@@ -53,6 +53,12 @@ The Lut Desert, or Dasht-e-Lut, is located in the south-east of the country. Bet
 - ✈ **Zahedan International Airport (ZAH)** — 182.9 km
 - ✈ **Ayatollah Hashemi Rafsanjani International Airport (KER)** — 220.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5364.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

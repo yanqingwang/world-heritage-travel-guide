@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)(iv)(v)(vi)"
 lat: 22.483333333
 lon: 73.533333333
-updated_at: "2026-11-08T14:52:41Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 尚庞–巴瓦加德考古公园 / Champaner-Pavagadh Archaeological Park

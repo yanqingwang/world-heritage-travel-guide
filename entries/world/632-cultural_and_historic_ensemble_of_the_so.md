@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "632"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1992"
 criteria: "(iv)"
 lat: 65.024444
 lon: 35.710556
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 索洛维茨基群岛的历史建筑群 / Cultural and Historic Ensemble of the Solovetsky Islands
@@ -53,6 +53,12 @@ The Solovetsky archipelago comprises six islands in the western part of the Whit
 - ✈ **Talagi Airport (ARH)** — 241.5 km
 - ✈ **Kirovsk-Apatity Airport (KVK)** — 287.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5624.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Linyi"
 lat: 35.715492
 lon: 118.458368
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 临沂市萤火虫水洞•地下大峡谷旅游区 / Linyishiyinghuochongshuidong•dixiadaxiagu Tourist Area

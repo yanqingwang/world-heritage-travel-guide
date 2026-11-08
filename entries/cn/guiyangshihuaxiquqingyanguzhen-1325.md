@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Guiyang City"
 lat: 26.337982
 lon: 106.692629
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 贵阳市花溪区青岩古镇景区 / Guiyang

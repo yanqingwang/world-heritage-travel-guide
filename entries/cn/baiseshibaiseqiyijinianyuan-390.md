@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Baise City"
 lat: 23.907336
 lon: 106.646025
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 百色市百色起义纪念园景区 / Baise

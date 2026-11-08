@@ -8,13 +8,13 @@ country: "AL"
 country_zh: "阿尔巴尼亚"
 country_en: "Albania"
 unesco_id: "1133"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2007"
 criteria: "(ix)"
 lat: 49.0
 lon: 15.0
-updated_at: "2026-11-08T14:52:41Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 喀尔巴阡山脉及欧洲其它地区的原始山毛榉林 / Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe
@@ -47,6 +47,12 @@ This transnational property includes 93 component parts in 18 countries. Since t
 - ✈ **Linz-Hörsching Airport (LNZ)** — 103.9 km
 - ✈ **Brno-Tuřany Airport (BRQ)** — 124.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7526.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "US"
 country_zh: "美国"
 country_en: "United States"
 unesco_id: "409"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1987"
 criteria: "(viii)"
 lat: 19.40083
 lon: -155.12361
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 夏威夷火山国家公园 / Hawaii Volcanoes National Park
@@ -47,6 +47,12 @@ This site contains two of the most active volcanoes in the world, Mauna Loa (4,1
 - ✈ **Waimea Kohala Airport (MUE)** — 87.8 km
 - ✈ **Ellison Onizuka Kona International Airport at Keāhole (KOA)** — 103.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8478.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

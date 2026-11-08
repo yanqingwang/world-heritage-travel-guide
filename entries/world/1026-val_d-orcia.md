@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "1026"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(iv)(vi)"
 lat: 43.066666666
 lon: 11.55
-updated_at: "2026-11-08T14:52:39Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 瓦尔•迪奥西亚公园文化景观 / Val d'Orcia
@@ -53,6 +53,12 @@ La Val d'Orcia è un ampio territorio collinare situato tra le province di Siena
 - ✈ **Florence Airport, Peretola (FLR)** — 87.1 km
 - ✈ **Marina di Campo Airport (EBA)** — 112.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8039.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

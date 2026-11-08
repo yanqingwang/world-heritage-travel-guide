@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "452"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1987"
 criteria: "(ix)(x)"
 lat: 21.75
 lon: 88.75
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 孙德尔本斯国家公园 / Sundarbans National Park
@@ -47,6 +47,12 @@ The Sundarbans covers 10,000 km 2 of land and water (more than half of it in Ind
 - ✈ **Jessore Airport (JSR)** — 164.9 km
 - ✈ **Barisal Airport (BZL)** — 197.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3276.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

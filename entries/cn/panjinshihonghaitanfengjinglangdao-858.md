@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Panjin City"
 lat: 40.90784
 lon: 121.851983
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 盘锦市红海滩风景廊道景区 / Panjinshihonghaitanfengjinglangdao Scenic Area

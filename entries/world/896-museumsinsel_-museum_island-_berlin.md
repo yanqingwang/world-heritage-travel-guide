@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "896"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iv)"
 lat: 52.521388888
 lon: 13.395555555
-updated_at: "2026-11-08T14:52:36Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 柏林的博物馆岛 / Museumsinsel (Museum Island), Berlin
@@ -53,6 +53,12 @@ Die Museumsinsel ist ein aus fünf Museen bestehendes Bauensemble im nördlichen
 - ✈ **Leipzig/Halle Airport (LEJ)** — 146.0 km
 - ✈ **Solidarity Szczecin–Goleniów Airport (SZZ)** — 155.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7357.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

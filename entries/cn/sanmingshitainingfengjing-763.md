@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Sanming"
 lat: 26.869942
 lon: 117.108373
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 三明市泰宁风景旅游区 / Sanmingshitainingfengjing Tourist Area

@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(iv)(vi)"
 lat: 10.41666667
 lon: -75.53333333
-updated_at: "2026-11-08T14:52:24Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 卡塔赫纳港口、要塞和古迹群 / Port, Fortresses and Group of Monuments, Cartagena

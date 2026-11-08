@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: 38.110833333
 lon: 13.353055555
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 阿拉伯-诺曼时期的巴勒莫以及切法卢和蒙雷阿莱的大教堂 / Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale

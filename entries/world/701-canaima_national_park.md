@@ -8,13 +8,13 @@ country: "VE"
 country_zh: "委内瑞拉"
 country_en: "Venezuela"
 unesco_id: "701"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1994"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 5.3193393
 lon: -61.7953505
-updated_at: "2026-11-08T14:52:31Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 卡奈依马国家公园 / Canaima National Park
@@ -53,6 +53,12 @@ Situado al sudeste de Venezuela, el territorio de este parque, que linda con las
 - ✈ **Canaima Airport (CAJ)** — 155.0 km
 - ✈ **Kaieteur Airport (KAI)** — 255.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **15046.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

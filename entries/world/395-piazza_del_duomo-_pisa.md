@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "395"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.723428
 lon: 10.394778
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 比萨大教堂广场 / Piazza del Duomo, Pisa
@@ -53,6 +53,12 @@ La piazza del Duomo è il centro artistico e turistico più importante di Pisa. 
 - ✈ **Florence Airport, Peretola (FLR)** — 65.6 km
 - ✈ **Marina di Campo Airport (EBA)** — 107.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8130.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

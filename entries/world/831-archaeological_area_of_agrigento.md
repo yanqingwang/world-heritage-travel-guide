@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "831"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 37.28972222
 lon: 13.59
-updated_at: "2026-11-08T14:52:34Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 阿克里真托考古区 / Archaeological Area of Agrigento
@@ -53,6 +53,12 @@ La Valle dei Templi è un parco archeologico della Sicilia caratterizzato dall'e
 - ✈ **Falcone–Borsellino Airport (PMO)** — 107.9 km
 - ✈ **Vincenzo Florio Airport Trapani-Birgi (TPS)** — 119.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8327.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

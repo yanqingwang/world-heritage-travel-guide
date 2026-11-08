@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ii)(iv)"
 lat: 46.003888888
 lon: 14.026666666
-updated_at: "2026-11-08T14:52:44Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 水银的遗产：阿尔马登和伊德里亚 / Heritage of Mercury. Almadén and Idrija

@@ -8,13 +8,13 @@ country: "AU"
 country_zh: "澳大利亚"
 country_en: "Australia"
 unesco_id: "447"
-tier: "basic"
+tier: "full"
 category: "Mixed"
 year: "1987"
 criteria: "(v)(vi)(vii)(viii)"
 lat: -25.322076
 lon: 130.985732
-updated_at: "2026-11-08T14:52:26Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 乌卢鲁－卡塔曲塔国家公园 / Ulu r u-Kata Tju t a National Park
@@ -46,6 +46,12 @@ This park, formerly called Uluru (Ayers Rock – Mount Olga) National Park, feat
 - ✈ **Ayers Rock Connellan Airport (AYQ)** — 15.2 km
 - ✈ **Alice Springs Airport (ASP)** — 339.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7408.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

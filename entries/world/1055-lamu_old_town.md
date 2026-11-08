@@ -8,13 +8,13 @@ country: "KE"
 country_zh: "肯尼亚"
 country_en: "Kenya"
 unesco_id: "1055"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iv)(vi)"
 lat: -2.268611111
 lon: 40.900277777
-updated_at: "2026-11-08T14:52:40Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 拉穆古镇 / Lamu Old Town
@@ -47,6 +47,12 @@ Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa
 - ✈ **Malindi International Airport (MYD)** — 138.8 km
 - ✈ **Moi International Airport (MBA)** — 244.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8958.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

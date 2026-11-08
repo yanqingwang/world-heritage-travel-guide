@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1570"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2021"
 criteria: "(i)(iii)"
 lat: 18.259444444
 lon: 79.9425
-updated_at: "2026-11-08T14:52:49Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙 / Kakatiya Rudreshwara (Ramappa) Temple, Telangana
@@ -47,6 +47,12 @@ Rudreshwara, popularly known as Ramappa Temple, is located in the village of Pal
 - ✈ **Vijayawada International Airport (VGA)** — 213.0 km
 - ✈ **Rajahmundry Airport (RJA)** — 236.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4454.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "929"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iv)"
 lat: 28.485277777
 lon: -16.316666666
-updated_at: "2026-11-08T14:52:36Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 拉古纳的圣克斯托瓦尔 / San Cristóbal de La Laguna
@@ -53,6 +53,12 @@ Situado en las Islas Canarias, el sitio de San Cristóbal de La Laguna comprende
 - ✈ **Tenerife Sur Airport (TFS)** — 55.0 km
 - ✈ **La Gomera Airport (GMZ)** — 101.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10973.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

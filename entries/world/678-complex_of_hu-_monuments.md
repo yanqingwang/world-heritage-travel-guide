@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 16.469444444
 lon: 107.577777777
-updated_at: "2026-11-08T14:52:30Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 顺化历史建筑群 / Complex of Hué Monuments

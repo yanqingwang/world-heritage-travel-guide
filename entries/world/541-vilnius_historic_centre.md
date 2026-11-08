@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)"
 lat: 54.683333333
 lon: 25.283333333
-updated_at: "2026-11-08T14:52:28Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 维尔纽斯历史中心 / Vilnius Historic Centre

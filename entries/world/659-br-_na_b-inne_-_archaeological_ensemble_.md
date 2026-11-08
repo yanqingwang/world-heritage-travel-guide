@@ -8,13 +8,13 @@ country: "IE"
 country_zh: "爱尔兰"
 country_en: "Ireland"
 unesco_id: "659"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(i)(iii)(iv)"
 lat: 53.69284
 lon: -6.44932
-updated_at: "2026-11-08T14:52:30Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 博恩河河曲考古遗址群 / Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne
@@ -47,6 +47,12 @@ The three main prehistoric sites of the Brú na Bóinne Complex, Newgrange, Know
 - ✈ **Belfast International Airport (BFS)** — 108.3 km
 - ✈ **George Best Belfast City Airport (BHD)** — 109.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8267.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

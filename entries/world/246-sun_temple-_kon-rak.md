@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(iii)(vi)"
 lat: 19.887444
 lon: 86.094596
-updated_at: "2026-11-08T14:52:23Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 科纳拉克太阳神庙 / Sun Temple, Konârak

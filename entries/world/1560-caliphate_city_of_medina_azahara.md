@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "1560"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2018"
 criteria: "(iii)(iv)"
 lat: 37.886080468
 lon: -4.867785472
-updated_at: "2026-11-08T14:52:49Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 哈里发的阿尔扎哈拉古城 / Caliphate City of Medina Azahara
@@ -53,6 +53,12 @@ Este yacimiento arqueológico engloba los majestuosos vestigios de la ciudad pal
 - ✈ **Seville Airport (SVQ)** — 104.2 km
 - ✈ **F.G.L. Airport Granada-Jaén Airport (GRX)** — 123.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9498.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

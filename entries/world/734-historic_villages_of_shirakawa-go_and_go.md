@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "734"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1995"
 criteria: "(iv)(v)"
 lat: 36.25694444
 lon: 136.90638889
-updated_at: "2026-11-08T14:52:31Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 白川乡和五屹山历史村落 / Historic Villages of Shirakawa-go and Gokayama
@@ -53,6 +53,12 @@ Located in a mountainous region that was cut off from the rest of the world for 
 - ✈ **Toyama Kitokito Airport (TOY)** — 50.3 km
 - ✈ **Shinshu-Matsumoto Airport (MMJ)** — 91.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1775.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

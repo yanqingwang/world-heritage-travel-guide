@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(vi)"
 lat: -33.805
 lon: 18.37
-updated_at: "2026-11-08T14:52:36Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 罗布恩岛 / Robben Island

@@ -8,13 +8,13 @@ country: "TH"
 country_zh: "泰国"
 country_en: "Thailand"
 unesco_id: "576"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1991"
 criteria: "(iii)"
 lat: 14.351626
 lon: 100.5575086
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 阿育他亚(大城)历史城及相关城镇 / Historic City of Ayutthaya
@@ -53,6 +53,12 @@ Founded c. 1350, Ayutthaya became the second Siamese capital after Sukhothai. It
 - ✈ **Suvarnabhumi Airport (BKK)** — 77.3 km
 - ✈ **U-Tapao–Rayong–Pattaya International Airport (UTP)** — 192.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3300.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

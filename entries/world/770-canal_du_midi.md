@@ -8,13 +8,13 @@ country: "FR"
 country_zh: "法国"
 country_en: "France"
 unesco_id: "770"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.61111111
 lon: 1.41833333
-updated_at: "2026-11-08T14:52:32Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 米迪运河 / Canal du Midi
@@ -53,6 +53,12 @@ Avec ses 360 km navigables assurant la liaison entre la Méditerranée et l'Atla
 - ✈ **Castres Mazamet Airport (DCM)** — 70.4 km
 - ✈ **Carcassonne Salvaza Airport (CCF)** — 84.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8670.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

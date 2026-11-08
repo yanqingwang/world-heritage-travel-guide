@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Shizuishan City"
 lat: 38.830852
 lon: 106.397047
-updated_at: "2026-11-08T12:52:05Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 石嘴山市沙湖旅游景区 / Shizuishan

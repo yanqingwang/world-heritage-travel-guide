@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iii)(iv)"
 lat: 42.661111111
 lon: 20.265555555
-updated_at: "2026-11-08T14:52:31Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 科索沃中世纪古迹 / Medieval Monuments in Kosovo

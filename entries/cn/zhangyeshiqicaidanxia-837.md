@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Zhangye City"
 lat: 38.979327
 lon: 100.073731
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 张掖市七彩丹霞景区 / Zhangyeshiqicaidanxia Scenic Area

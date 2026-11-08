@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)"
 lat: 27.179583333
 lon: 78.021297222
-updated_at: "2026-11-08T14:52:23Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 阿格拉古堡 / Agra Fort

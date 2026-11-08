@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Linfen"
 lat: 36.277087
 lon: 111.682355
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 临汾市洪洞大槐树寻根祭祖园旅游景区 / Locust tree of Hongtong

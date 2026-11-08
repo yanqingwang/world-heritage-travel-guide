@@ -8,13 +8,13 @@ country: "TM"
 country_zh: "土库曼斯坦"
 country_en: "Turkmenistan"
 unesco_id: "1242"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2007"
 criteria: "(ii)(iii)"
 lat: 37.951147222
 lon: 58.212408333
-updated_at: "2026-11-08T14:52:43Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 尼莎帕提亚要塞 / Parthian Fortresses of Nisa
@@ -47,6 +47,12 @@ The Parthian Fortresses of Nisa consist of two tells of Old and New Nisa, indica
 - ✈ **Bojnord Airport (BJB)** — 94.4 km
 - ✈ **Sabzevar National Airport (AFZ)** — 205.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4942.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

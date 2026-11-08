@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Xiamen"
 lat: 24.449908
 lon: 118.079275
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 厦门市鼓浪屿风景名胜区 / Gulangyu

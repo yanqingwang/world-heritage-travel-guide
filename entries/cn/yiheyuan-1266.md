@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Haidian District"
 lat: 40.004215
 lon: 116.287499
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 颐和园 / Summer Palace

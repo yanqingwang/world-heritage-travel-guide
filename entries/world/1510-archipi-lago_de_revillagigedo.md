@@ -8,13 +8,13 @@ country: "MX"
 country_zh: "墨西哥"
 country_en: "Mexico"
 unesco_id: "1510"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "2016"
 criteria: "(vii)(ix)(x)"
 lat: 18.821388888
 lon: -112.763888888
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # Revillagigedo群岛 / Archipiélago de Revillagigedo
@@ -52,6 +52,12 @@ Situado en el Pacífico Oriental, este archipiélago está formado por las islas
 - ✈ **Cabo San Lucas International Airport (CSW)** — 544.7 km
 - ✈ **Los Cabos International Airport (SJD)** — 575.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11510.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

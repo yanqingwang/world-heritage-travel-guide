@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(iv)(v)"
 lat: -16.2748
 lon: -62.5072
-updated_at: "2026-11-08T14:52:28Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 奇基托斯耶稣传教区 / Jesuit Missions of the Chiquitos

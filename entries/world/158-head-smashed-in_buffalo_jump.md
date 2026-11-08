@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "158"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1981"
 criteria: "(vi)"
 lat: 49.7494
 lon: -113.625
-updated_at: "2026-11-08T14:52:21Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 美洲野牛涧地带 / Head-Smashed-In Buffalo Jump
@@ -53,6 +53,12 @@ Dans le sud-ouest de l'Alberta, les vestiges de pistes balisées, les restes d'u
 - ✈ **Calgary International Airport (YYC)** — 154.7 km
 - ✈ **Cranbrook/Canadian Rockies International Airport (YXC)** — 156.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8932.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iii)(iv)"
 lat: 49.65369
 lon: 8.56858
-updated_at: "2026-11-08T14:52:27Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 洛尔施修道院 / Abbey and Altenmünster of Lorsch

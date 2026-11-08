@@ -8,13 +8,13 @@ country: "CD"
 country_zh: "刚果民主共和国"
 country_en: "Democratic Republic of the Congo"
 unesco_id: "63"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1979"
 criteria: "(vii)(viii)(x)"
 lat: -0.5
 lon: 29.5
-updated_at: "2026-11-08T14:52:19Z"
+updated_at: "2026-11-08T16:06:51Z"
 ---
 
 # 维龙加国家公园 / Virunga National Park
@@ -53,6 +53,12 @@ S'étendant sur 790 000 ha, le parc des Virunga présente une diversité d'habit
 - ✈ **Kisoro Airport (KXO)** — 90.5 km
 - ✈ **Goma International Airport (GOM)** — 133.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9794.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

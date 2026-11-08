@@ -8,13 +8,13 @@ country: "DE"
 country_zh: "德国"
 country_en: "Germany"
 unesco_id: "169"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1981"
 criteria: "(i)(iv)"
 lat: 49.792797617
 lon: 9.938889043
-updated_at: "2026-11-08T14:52:21Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 维尔茨堡宫及宫廷花园和广场 / Würzburg Residence with the Court Gardens and Residence Square
@@ -53,6 +53,12 @@ Die Würzburger Residenz ist der ehemalige Sitz der Fürstbischöfe in der bayer
 - ✈ **Frankfurt Main Airport (FRA)** — 102.2 km
 - ✈ **Mannheim-City Airport (MHG)** — 108.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7683.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

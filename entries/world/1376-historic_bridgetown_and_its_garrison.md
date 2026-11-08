@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iii)(iv)"
 lat: 13.0975
 lon: -59.616666666
-updated_at: "2026-11-08T14:52:46Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 布里奇顿及其军事要塞 / Historic Bridgetown and its Garrison

@@ -8,13 +8,13 @@ country: "PE"
 country_zh: "秘鲁"
 country_en: "Peru"
 unesco_id: "1269"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2009"
 criteria: "(ii)(iii)(iv)"
 lat: -10.893611111
 lon: -77.520277777
-updated_at: "2026-11-08T14:52:44Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 卡拉尔-苏佩圣城 / Sacred City of Caral-Supe
@@ -53,6 +53,12 @@ La Ciudad Sagrada de Caral-Supe es un sitio arqueológico de 5.000 años de anti
 - ✈ **Alferez Fap David Figueroa Fernandini Airport (HUU)** — 182.8 km
 - ✈ **FAP Lieutenant Jaime Andres de Montreuil Morales Airport (CHM)** — 222.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16618.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

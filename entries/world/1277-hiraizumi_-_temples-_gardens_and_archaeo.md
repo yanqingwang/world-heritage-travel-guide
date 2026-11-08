@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(vi)"
 lat: 38.98861111
 lon: 141.11027778
-updated_at: "2026-11-08T14:52:44Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 平泉——象征着佛教净土的庙宇、园林与考古遗址 / Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land

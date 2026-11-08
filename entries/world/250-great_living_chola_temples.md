@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "250"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1987"
 criteria: "(ii)(iii)"
 lat: 10.783055555
 lon: 79.1325
-updated_at: "2026-11-08T14:52:23Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 朱罗王朝现存的神庙 / Great Living Chola Temples
@@ -47,6 +47,12 @@ The Great Living Chola Temples were built by kings of the Chola Empire, which st
 - ✈ **Jaffna International Airport (JAF)** — 150.5 km
 - ✈ **Pondicherry Airport (PNY)** — 151.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4944.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

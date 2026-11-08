@@ -8,13 +8,13 @@ country: "IS"
 country_zh: "冰岛"
 country_en: "Iceland"
 unesco_id: "1152"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2004"
 criteria: "(iii)(vi)"
 lat: 64.258055555
 lon: -21.125
-updated_at: "2026-11-08T14:52:42Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 平位利尔国家公园 / Þingvellir National Park
@@ -47,6 +47,12 @@ updated_at: "2026-11-08T14:52:42Z"
 - ✈ **Keflavik International Airport (KEF)** — 78.0 km
 - ✈ **Akureyri International Airport (AEY)** — 211.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7870.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

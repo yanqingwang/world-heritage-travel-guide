@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 30.549101
 lon: 114.310611
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 武汉市黄鹤楼公园 / Wuhanshihuanghelougongyuan

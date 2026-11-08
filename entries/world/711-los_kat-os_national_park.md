@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ix)(x)"
 lat: 7.8
 lon: -77.15
-updated_at: "2026-11-08T14:52:31Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 洛斯卡蒂奥斯国家公园 / Los Katíos National Park

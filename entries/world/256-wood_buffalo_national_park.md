@@ -8,13 +8,13 @@ country: "CA"
 country_zh: "加拿大"
 country_en: "Canada"
 unesco_id: "256"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1983"
 criteria: "(vii)(ix)(x)"
 lat: 59.3833
 lon: -112.983
-updated_at: "2026-11-08T14:52:23Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 伍德布法罗国家公园 / Wood Buffalo National Park
@@ -53,6 +53,12 @@ Situé dans les plaines de la région centre-nord du Canada, ce parc abrite la p
 - ✈ **Fort Chipewyan Airport (YPY)** — 126.7 km
 - ✈ **Hay River / Merlyn Carter Airport (YHY)** — 224.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8035.6 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

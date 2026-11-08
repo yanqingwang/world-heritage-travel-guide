@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(v)"
 lat: 32.670833333
 lon: 34.966111111
-updated_at: "2026-11-08T14:52:46Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 梅尔瓦特河原始保留区 / Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves

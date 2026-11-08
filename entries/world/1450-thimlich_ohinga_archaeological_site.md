@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(iv)(v)"
 lat: -0.891338055
 lon: 34.326106944
-updated_at: "2026-11-08T14:52:47Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 西穆里奇定居点考古遗址 / Thimlich Ohinga Archaeological Site

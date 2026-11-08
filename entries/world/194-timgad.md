@@ -8,13 +8,13 @@ country: "DZ"
 country_zh: "阿尔及利亚"
 country_en: "Algeria"
 unesco_id: "194"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1982"
 criteria: "(ii)(iii)(iv)"
 lat: 35.484237
 lon: 6.468666
-updated_at: "2026-11-08T14:52:22Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 提姆加德 / Timgad
@@ -53,6 +53,12 @@ Timgad lies on the northern slopes of the Aurès mountains and was created ex ni
 - ✈ **Mohamed Boudiaf International Airport (CZL)** — 89.1 km
 - ✈ **Biskra - Mohamed Khider Airport (BSK)** — 101.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8977.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

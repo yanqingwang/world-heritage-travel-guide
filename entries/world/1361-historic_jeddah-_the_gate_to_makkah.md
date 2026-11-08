@@ -8,13 +8,13 @@ country: "SA"
 country_zh: "沙特阿拉伯"
 country_en: "Saudi Arabia"
 unesco_id: "1361"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2014"
 criteria: "(ii)(iv)(vi)"
 lat: 21.4833
 lon: 39.2
-updated_at: "2026-11-08T14:52:45Z"
+updated_at: "2026-11-08T16:07:00Z"
 ---
 
 # 吉达历史古城（通往麦加之门） / Historic Jeddah, the Gate to Makkah
@@ -53,6 +53,12 @@ Historic Jeddah is situated on the eastern shore of the Red Sea. From the 7th ce
 - ✈ **Taif International Airport (TIF)** — 139.1 km
 - ✈ **King Saud Bin Abdulaziz (Al Baha) Airport (ABT)** — 285.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7436.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "AT"
 country_zh: "奥地利"
 country_en: "Austria"
 unesco_id: "970"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iv)"
 lat: 48.36444
 lon: 15.43417
-updated_at: "2026-11-08T14:52:37Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 瓦豪文化景观 / Wachau Cultural Landscape
@@ -53,6 +53,12 @@ Die Wachau ([vaˈxaʊ̯], mit Betonung auf der letzten Silbe „au“ [aʊ̯]) i
 - ✈ **Linz-Hörsching Airport (LNZ)** — 93.3 km
 - ✈ **České Budějovice South Bohemian Airport (JCL)** — 98.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7452.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "GB"
 country_zh: "英国"
 country_en: "United Kingdom"
 unesco_id: "372"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(i)(iv)"
 lat: 54.1097
 lon: -1.58139
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 斯塔德利皇家公园和喷泉修道院遗址 / Studley Royal Park including the Ruins of Fountains Abbey
@@ -47,6 +47,12 @@ In the 18th century a designed landscape of exceptional beauty was created aroun
 - ✈ **Teesside International Airport (MME)** — 45.5 km
 - ✈ **Manchester Airport (MAN)** — 96.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8023.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

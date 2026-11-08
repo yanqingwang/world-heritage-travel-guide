@@ -8,13 +8,13 @@ country: "VN"
 country_zh: "越南"
 country_en: "Vietnam"
 unesco_id: "948"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(v)"
 lat: 15.877669444
 lon: 108.33265
-updated_at: "2026-11-08T14:52:37Z"
+updated_at: "2026-11-08T16:06:58Z"
 ---
 
 # 会安古镇 / Hoi An Ancient Town
@@ -53,6 +53,12 @@ Hội An là một thành phố ven biển cũ thuộc tỉnh Quảng Nam cũ, V
 - ✈ **Chu Lai Airport (VCL)** — 66.2 km
 - ✈ **Phu Bai International Airport (HUI)** — 88.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2793.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

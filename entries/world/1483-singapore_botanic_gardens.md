@@ -8,13 +8,13 @@ country: "SG"
 country_zh: "新加坡"
 country_en: "Singapore"
 unesco_id: "1483"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(ii)(iv)"
 lat: 1.3151
 lon: 103.8162
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 新加坡植物园 / Singapore Botanic Gardens
@@ -47,6 +47,12 @@ Situated at the heart of the city of Singapore, the site demonstrates the evolut
 - ✈ **Singapore Changi Airport (SIN)** — 20.1 km
 - ✈ **Senai International Airport (JHB)** — 39.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4487.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

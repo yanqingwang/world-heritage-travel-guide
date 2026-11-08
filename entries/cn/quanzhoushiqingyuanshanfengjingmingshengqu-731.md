@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Quanzhou"
 lat: 24.947416
 lon: 118.603989
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 泉州市清源山风景名胜区 / Mount Qingyuan

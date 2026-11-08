@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iv)"
 lat: 38.57305556
 lon: -7.90777778
-updated_at: "2026-11-08T14:52:25Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 埃武拉历史中心 / Historic Centre of Évora

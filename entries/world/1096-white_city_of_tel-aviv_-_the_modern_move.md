@@ -8,13 +8,13 @@ country: "IL"
 country_zh: "以色列"
 country_en: "Israel"
 unesco_id: "1096"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2003"
 criteria: "(ii)(iv)"
 lat: 32.077777777
 lon: 34.773888888
-updated_at: "2026-11-08T14:52:40Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 特拉维夫白城——现代运动 / White City of Tel-Aviv – the Modern Movement
@@ -53,6 +53,12 @@ Tel Aviv was founded in 1909 and developed as a metropolitan city under the Brit
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 85.3 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 115.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7140.5 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

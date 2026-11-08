@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Guangyuan"
 lat: 32.196942
 lon: 105.572042
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 广元市剑门蜀道剑门关旅游景区 / Shudao

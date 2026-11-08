@@ -8,13 +8,13 @@ country: "IQ"
 country_zh: "伊拉克"
 country_en: "Iraq"
 unesco_id: "1437"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2014"
 criteria: "(iv)"
 lat: 36.191
 lon: 44.009
-updated_at: "2026-11-08T14:52:47Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 埃尔比勒城堡 / Erbil Citadel
@@ -55,6 +55,12 @@ Erbil Citadel is a fortified settlement on top of an imposing ovoid-shaped tell 
 - ✈ **Kirkuk International Airport (KIK)** — 85.9 km
 - ✈ **Jalal Talabani International Airport (ISU)** — 137.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6184.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

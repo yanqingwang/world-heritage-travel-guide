@@ -8,13 +8,13 @@ country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
 unesco_id: "780"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(i)(iii)"
 lat: 40.4779658
 lon: 22.3227596
-updated_at: "2026-11-08T14:52:32Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 韦尔吉纳的考古遗址 / Archaeological Site of Aigai (modern name Vergina)
@@ -47,6 +47,12 @@ The city of Aigai, the ancient first capital of the Kingdom of Macedonia, was di
 - ✈ **Thessaloniki Macedonia International Airport (SKG)** — 54.9 km
 - ✈ **Kastoria National Airport Aristotle (KSO)** — 88.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7606.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

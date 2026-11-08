@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "233"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
 lat: 28.524382
 lon: 77.18543
-updated_at: "2026-11-08T14:52:23Z"
+updated_at: "2026-11-08T16:06:52Z"
 ---
 
 # 德里的顾特卜塔及其古建筑 / Qutb Minar and its Monuments, Delhi
@@ -47,6 +47,12 @@ Built in the early 13th century a few kilometres south of Delhi, the red sandsto
 - ✈ **Hindon Airport / Hindon Air Force Station (HDO)** — 26.5 km
 - ✈ **Noida International Airport (DXN)** — 56.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3810.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

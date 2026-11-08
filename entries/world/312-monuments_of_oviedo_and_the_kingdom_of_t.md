@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(ii)(iv)"
 lat: 43.37888889
 lon: -5.86583333
-updated_at: "2026-11-08T14:52:24Z"
+updated_at: "2026-11-08T16:06:53Z"
 ---
 
 # 奥维耶多古建筑和阿斯图里亚斯王国 / Monuments of Oviedo and the Kingdom of the Asturias

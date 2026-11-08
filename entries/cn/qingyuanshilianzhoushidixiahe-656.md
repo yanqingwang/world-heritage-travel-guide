@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Qingyuan"
 lat: 25.010584
 lon: 112.330161
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:45Z"
 ---
 
 # 清远市连州市地下河旅游景区 / Qingyuan

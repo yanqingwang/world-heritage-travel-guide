@@ -8,13 +8,13 @@ country: "CZ"
 country_zh: "捷克"
 country_en: "Czech Republic"
 unesco_id: "1052"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iv)"
 lat: 49.207222222
 lon: 16.615833333
-updated_at: "2026-11-08T14:52:40Z"
+updated_at: "2026-11-08T16:06:59Z"
 ---
 
 # 布尔诺的图根哈特别墅 / Tugendhat Villa in Brno
@@ -53,6 +53,12 @@ Vila Tugendhat v Brně je ojedinělým projevem funkcionalistického a internaci
 - ✈ **Pardubice Airport (PED)** — 109.8 km
 - ✈ **Leoš Janáček Airport Ostrava (OSR)** — 121.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7378.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

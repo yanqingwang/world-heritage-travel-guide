@@ -8,13 +8,13 @@ country: "ID"
 country_zh: "印度尼西亚"
 country_en: "Indonesia"
 unesco_id: "609"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1991"
 criteria: "(vii)(x)"
 lat: -8.651625
 lon: 119.576569
-updated_at: "2026-11-08T14:52:29Z"
+updated_at: "2026-11-08T16:06:55Z"
 ---
 
 # 科莫多国家公园 / Komodo National Park
@@ -53,6 +53,12 @@ Taman Nasional Komodo adalah kawasan konservasi yang terletak di daerah administ
 - ✈ **Tambolaka Airport (TMC)** — 91.9 km
 - ✈ **Sultan Muhammad Salahuddin Airport (BMU)** — 98.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5410.4 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

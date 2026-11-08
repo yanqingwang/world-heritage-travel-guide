@@ -8,13 +8,13 @@ country: "SA"
 country_zh: "沙特阿拉伯"
 country_en: "Saudi Arabia"
 unesco_id: "1563"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2018"
 criteria: "(iii)(iv)(v)"
 lat: 25.429444
 lon: 49.621944
-updated_at: "2026-11-08T14:52:49Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 哈萨绿洲，变迁的文化景观 / Al-Ahsa Oasis, an Evolving Cultural Landscape
@@ -53,6 +53,12 @@ In the eastern Arabian Peninsula, the Al-Ahsa Oasis is a serial property compris
 - ✈ **King Fahd International Airport (DMM)** — 116.9 km
 - ✈ **Bahrain International Airport (BAH)** — 137.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6341.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

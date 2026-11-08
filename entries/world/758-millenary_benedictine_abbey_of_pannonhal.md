@@ -8,13 +8,13 @@ country: "HU"
 country_zh: "匈牙利"
 country_en: "Hungary"
 unesco_id: "758"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1996"
 criteria: "(iv)(vi)"
 lat: 47.552777777
 lon: 17.761111111
-updated_at: "2026-11-08T14:52:32Z"
+updated_at: "2026-11-08T16:06:56Z"
 ---
 
 # 潘诺恩哈尔姆千年修道院及其自然环境 / Millenary Benedictine Abbey of Pannonhalma and its Natural Environment
@@ -53,6 +53,12 @@ A Pannonhalmi Bencés Főapátság (latinul: Abbatia territorialis Sancti Martin
 - ✈ **Hévíz–Balaton Airport (SOB)** — 106.6 km
 - ✈ **Vienna International Airport (VIE)** — 108.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7409.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1739"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2025"
 criteria: "(iv)(vi)"
 lat: 20.7225
 lon: 73.9425
-updated_at: "2026-11-08T14:52:53Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 印度马拉塔军事景观 / Maratha Military Landscapes of India
@@ -43,6 +43,12 @@ The property includes twelve major fortifications, mostly in Maharashtra State, 
 - ✈ **Shirdi International Airport (SAG)** — 123.4 km
 - ✈ **Surat International Airport (STV)** — 132.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4607.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

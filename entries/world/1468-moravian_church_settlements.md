@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(iv)"
 lat: 55.356667
 lon: 9.483056
-updated_at: "2026-11-08T14:52:47Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 摩拉维亚居留区 / Moravian Church Settlements

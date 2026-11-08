@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)"
 lat: 35.237263888
 lon: 128.873725
-updated_at: "2026-11-08T14:52:51Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 伽倻古坟群 / Gaya Tumuli

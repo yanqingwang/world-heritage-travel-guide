@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(vi)"
 lat: -33.943927777
 lon: 18.527155555
-updated_at: "2026-11-08T14:52:52Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 人权、解放与和解：纳尔逊·曼德拉纪念地 / Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites

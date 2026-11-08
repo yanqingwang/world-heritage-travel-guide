@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ix)"
 lat: 37.25
 lon: 68.5
-updated_at: "2026-11-08T14:52:52Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 蒂格罗瓦亚·巴尔卡自然保护区的托喀依森林 / Tugay forests of the Tigrovaya Balka Nature Reserve

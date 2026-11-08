@@ -8,13 +8,13 @@ country: "GR"
 country_zh: "希腊"
 country_en: "Greece"
 unesco_id: "511"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1989"
 criteria: "(ii)(iii)(iv)"
 lat: 37.074
 lon: 22.3673
-updated_at: "2026-11-08T14:52:27Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 米斯特拉斯考古遗址 / Archaeological Site of Mystras
@@ -53,6 +53,12 @@ Mystras, the 'wonder of the Morea', was built as an amphitheatre around the fort
 - ✈ **Kithira Airport (KIT)** — 106.2 km
 - ✈ **Patras Araxos Agamemnon Airport (GPA)** — 145.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7800.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

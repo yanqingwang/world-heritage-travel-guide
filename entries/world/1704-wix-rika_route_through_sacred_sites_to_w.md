@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vi)"
 lat: 22.15
 lon: -104.166666666
-updated_at: "2026-11-08T14:52:52Z"
+updated_at: "2026-11-08T16:07:03Z"
 ---
 
 # 通往维里库塔的维哈里卡圣地之路（我们的祖火之路） / Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé)

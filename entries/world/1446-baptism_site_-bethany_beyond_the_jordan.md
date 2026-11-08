@@ -8,13 +8,13 @@ country: "JO"
 country_zh: "约旦"
 country_en: "Jordan"
 unesco_id: "1446"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2015"
 criteria: "(iii)(vi)"
 lat: 31.837222222
 lon: 35.550277777
-updated_at: "2026-11-08T14:52:47Z"
+updated_at: "2026-11-08T16:07:01Z"
 ---
 
 # 施洗之地 / Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)
@@ -55,6 +55,12 @@ Situated on the eastern bank of the River Jordan, nine kilometres north of the D
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 44.3 km
 - ✈ **Ben Gurion International Airport (TLV)** — 65.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7069.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

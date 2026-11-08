@@ -8,13 +8,13 @@ country: "PH"
 country_zh: "菲律宾"
 country_en: "Philippines"
 unesco_id: "502"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iv)"
 lat: 17.57472
 lon: 120.38694
-updated_at: "2026-11-08T14:52:27Z"
+updated_at: "2026-11-08T16:06:54Z"
 ---
 
 # 维甘历史古城 / Historic City of Vigan
@@ -47,6 +47,12 @@ Established in the 16th century, Vigan is the best-preserved example of a planne
 - ✈ **Tuguegarao Airport (TUG)** — 142.9 km
 - ✈ **Cauayan Airport (CYZ)** — 161.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2465.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

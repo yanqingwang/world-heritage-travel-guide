@@ -8,13 +8,13 @@ country: "KR"
 country_zh: "大韩民国"
 country_en: "South Korea"
 unesco_id: "817"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iii)"
 lat: 37.280733333
 lon: 127.010202777
-updated_at: "2026-11-08T14:52:33Z"
+updated_at: "2026-11-08T16:06:57Z"
 ---
 
 # 华松古堡 / Hwaseong Fortress
@@ -53,6 +53,12 @@ When the Joseon King Jeongjo moved his father's tomb to Suwon at the end of the 
 - ✈ **Incheon International Airport (ICN)** — 53.7 km
 - ✈ **Cheongju International Airport (CJJ)** — 76.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **927.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

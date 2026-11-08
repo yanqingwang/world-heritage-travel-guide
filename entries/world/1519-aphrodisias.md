@@ -8,13 +8,13 @@ country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
 unesco_id: "1519"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 37.708333333
 lon: 28.723611111
-updated_at: "2026-11-08T14:52:48Z"
+updated_at: "2026-11-08T16:07:02Z"
 ---
 
 # 阿弗罗狄西亚 / Aphrodisias
@@ -53,6 +53,12 @@ Afrodisias veya Afrodisyas (Grekçe: Ἀφροδισιάς, romanize: Aphrodisi�
 - ✈ **Milas Bodrum International Airport (BJV)** — 106.5 km
 - ✈ **Dalaman International Airport (DLM)** — 110.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7194.2 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

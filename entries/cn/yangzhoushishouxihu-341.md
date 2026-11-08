@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Yangzhou"
 lat: 32.408155
 lon: 119.432817
-updated_at: "2026-11-08T12:52:06Z"
+updated_at: "2026-11-08T15:57:46Z"
 ---
 
 # 扬州市瘦西湖风景区 / Slender West Lake
