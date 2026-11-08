@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Jinzhong"
 lat: 37.217329
 lon: 112.188122
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 晋中市平遥古城景区 / Jinzhongshipingyaogucheng Scenic Area

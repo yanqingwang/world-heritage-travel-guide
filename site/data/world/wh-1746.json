@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "SLE",
+  "currency_en": "Sierra Leonean leone",
+  "currency_zh": "Sierra Leonean leone",
+  "currency_symbol": "Le",
+  "timezone_main": "UTC+00:00",
+  "drives_side": "right",
+  "idd_prefix": "+232",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:04Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

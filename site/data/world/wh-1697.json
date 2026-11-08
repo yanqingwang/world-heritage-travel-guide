@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "RWF",
+  "currency_en": "Rwandan franc",
+  "currency_zh": "Rwandan franc",
+  "currency_symbol": "Fr",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+250",
+  "languages": [
+   "English",
+   "French",
+   "Kinyarwanda"
+  ],
+  "plug_types": "C,J",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:00Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(iv)"
 lat: 38.4
 lon: 22.75
-updated_at: "2026-11-08T16:45:51Z"
+updated_at: "2026-11-08T20:29:59Z"
 ---
 
 # 达夫尼修道院、俄西俄斯罗卡斯修道院和希俄斯新修道院 / Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios

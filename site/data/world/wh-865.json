@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "UAH",
+  "currency_en": "Ukrainian hryvnia",
+  "currency_zh": "Ukrainian hryvnia",
+  "currency_symbol": "₴",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+380",
+  "languages": [
+   "Ukrainian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:07Z"
+ "updated_at": "2026-11-08T20:30:01Z"
 }

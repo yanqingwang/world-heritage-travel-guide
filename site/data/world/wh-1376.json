@@ -219,6 +219,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "BBD",
+  "currency_en": "Barbadian dollar",
+  "currency_zh": "Barbadian dollar",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-04:00",
+  "drives_side": "left",
+  "idd_prefix": "+1246",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "A,B",
+  "voltage": "115V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -255,5 +269,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:05Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

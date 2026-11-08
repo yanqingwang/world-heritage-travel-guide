@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Heihe City"
 lat: 48.699183
 lon: 126.168957
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 黑河市五大连池景区 / Wudalianchizhen Scenic Area

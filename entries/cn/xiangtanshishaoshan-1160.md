@@ -2,7 +2,7 @@
 id: "cn-1160"
 dataset: "china_5a"
 name_zh: "湘潭市韶山旅游区"
-name_en: "Xiangtanshishaoshan Tourist Area"
+name_en: "Xiangtanshi Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Xiangtan City"
 lat: 27.910503
 lon: 112.49678
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 湘潭市韶山旅游区 / Xiangtanshishaoshan Tourist Area
+# 湘潭市韶山旅游区 / Xiangtanshi Tourist Area
 
 > 湖南省 · 湘潭市 · 红色旅游
 
@@ -29,18 +29,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![长沙市雨花区国民经济和社会发展第十四个五年规划纲要.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E9%95%BF%E6%B2%99%E5%B8%82%E9%9B%A8%E8%8A%B1%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81.pdf/page1-960px-%E9%95%BF%E6%B2%99%E5%B8%82%E9%9B%A8%E8%8A%B1%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *长沙市雨花区国民经济和社会发展第十四个五年规划纲要.pdf · 长沙市雨花区第五届人民代表大会 · Public domain*
-
-![Shaziling Police Station, Xiangtan, Hunan, China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Shaziling_Police_Station%2C_Xiangtan%2C_Hunan%2C_China.jpg/1280px-Shaziling_Police_Station%2C_Xiangtan%2C_Hunan%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Shaziling Police Station, Xiangtan, Hunan, China.jpg · Huangdan2060 · CC BY 3.0*
-
-![Xiangtan, China 2021050901.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Xiangtan%2C_China_2021050901.jpg/1280px-Xiangtan%2C_China_2021050901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xiangtan, China 2021050901.jpg · Huangdan2060 · CC BY 3.0*
-
-![Xiangtan, China 2021050902.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Xiangtan%2C_China_2021050902.jpg/1280px-Xiangtan%2C_China_2021050902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xiangtan, China 2021050902.jpg · Huangdan2060 · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -81,4 +69,5 @@ Shaoshan is the hometown of the great leader Mao Zedong. It is also the place wh
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/湘潭市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

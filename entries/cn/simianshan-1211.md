@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Jiangjin District"
 lat: 28.720354
 lon: 106.486508
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 四面山景区 / Simian Mountain
@@ -37,6 +37,10 @@ updated_at: "2026-11-08T15:57:45Z"
 ![广东省文物保护单位细美寨保护规划（2021-2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%BB%86%E7%BE%8E%E5%AF%A8%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-1280px-%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%BB%86%E7%BE%8E%E5%AF%A8%E4%BF%9D%E6%8A%A4%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *广东省文物保护单位细美寨保护规划（2021-2035年）.pdf · 韶关市人民政府 · Public domain*
+
+![Simian Mountain -- Boats in the lake.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Simian_Mountain_--_Boats_in_the_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Simian Mountain -- Boats in the lake.jpg · Fay in China · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

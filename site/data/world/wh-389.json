@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "RSD",
+  "currency_en": "Serbian dinar",
+  "currency_zh": "Serbian dinar",
+  "currency_symbol": "дин.",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+381",
+  "languages": [
+   "Serbian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:22Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

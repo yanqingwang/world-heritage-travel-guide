@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Hefei"
 lat: 31.521216
 lon: 117.257908
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 合肥市三河古镇景区 / Hefei
@@ -25,6 +25,22 @@ updated_at: "2026-11-08T15:57:46Z"
 ![Hefei montage1.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Hefei_montage1.png/1280px-Hefei_montage1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Hefei montage1.png · Virgil Guo · CC BY-SA 4.0*
+
+![City Construction Museum (Hefei).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/City_Construction_Museum_%28Hefei%29.jpg/1280px-City_Construction_Museum_%28Hefei%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*City Construction Museum (Hefei).jpg · Zhou Guanhuai · CC0*
+
+![Hefei-location-MAP-in-Anhui-Province-China.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Hefei-location-MAP-in-Anhui-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Hefei-location-MAP-in-Anhui-Province-China.jpg · Dagvidur · CC BY-SA 4.0*
+
+![Logo of Hefei Television in 1996.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_of_Hefei_Television_in_1996.svg/1280px-Logo_of_Hefei_Television_in_1996.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Logo of Hefei Television in 1996.svg · William Ng · CC BY-SA 4.0*
+
+![Outside of Hefei Xishan Scenic Spot.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Outside_of_Hefei_Xishan_Scenic_Spot.jpg/1280px-Outside_of_Hefei_Xishan_Scenic_Spot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Outside of Hefei Xishan Scenic Spot.jpg · Perimeter Chou · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

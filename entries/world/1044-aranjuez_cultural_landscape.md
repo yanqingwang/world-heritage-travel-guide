@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 40.0364
 lon: -3.60934
-updated_at: "2026-11-08T16:48:39Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 阿兰胡埃斯文化景观 / Aranjuez Cultural Landscape

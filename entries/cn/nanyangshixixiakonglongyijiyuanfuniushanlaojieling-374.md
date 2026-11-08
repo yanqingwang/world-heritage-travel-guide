@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Nanyang"
 lat: 33.234916
 lon: 111.691965
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区 / Funiu Mountains
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:46Z"
 > 河南省 · 南阳市 · 度假休闲
 
 ## 图片 / Images
+
+![河南 伏牛山 远山的呼唤 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E6%B2%B3%E5%8D%97_%E4%BC%8F%E7%89%9B%E5%B1%B1_%E8%BF%9C%E5%B1%B1%E7%9A%84%E5%91%BC%E5%94%A4_-_panoramio.jpg/1280px-%E6%B2%B3%E5%8D%97_%E4%BC%8F%E7%89%9B%E5%B1%B1_%E8%BF%9C%E5%B1%B1%E7%9A%84%E5%91%BC%E5%94%A4_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*河南 伏牛山 远山的呼唤 - panoramio.jpg · Nyx Ning · CC BY-SA 3.0*
 
 ![Funiu mountain.png](https://upload.wikimedia.org/wikipedia/commons/a/a1/Funiu_mountain.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:46Z"
 ![ISS010-E-7424 - View of China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ISS010-E-7424_-_View_of_China.jpg/1280px-ISS010-E-7424_-_View_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *ISS010-E-7424 - View of China.jpg · Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center · Public domain*
-
-![Sanfeng Mountain (seen from ISS Expedition 10 - 7423).jpg](https://upload.wikimedia.org/wikipedia/commons/c/c5/Sanfeng_Mountain_%28seen_from_ISS_Expedition_10_-_7423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Sanfeng Mountain (seen from ISS Expedition 10 - 7423).jpg · Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center · Public domain*
 
 ## 简介 / Introduction
 

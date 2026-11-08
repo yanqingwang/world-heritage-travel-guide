@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Nanjing"
 lat: 32.061544
 lon: 118.860636
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 南京市钟山风景名胜区-中山陵园风景区 / Sun Yat-sen Mausoleum

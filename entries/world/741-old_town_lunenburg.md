@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)(v)"
 lat: 44.376111111
 lon: -64.309166666
-updated_at: "2026-11-08T16:47:48Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 卢嫩堡旧城 / Old Town Lunenburg

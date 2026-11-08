@@ -136,6 +136,21 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "LSL",
+  "currency_en": "Lesotho loti",
+  "currency_zh": "Lesotho loti",
+  "currency_symbol": "L",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "left",
+  "idd_prefix": "+266",
+  "languages": [
+   "English",
+   "Sotho"
+  ],
+  "plug_types": "M",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -168,5 +183,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:29Z"
+ "updated_at": "2026-11-08T20:30:02Z"
 }

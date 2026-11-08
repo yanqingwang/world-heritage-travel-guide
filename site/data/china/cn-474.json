@@ -10,7 +10,7 @@
  "city_zh": "无锡市",
  "city_en": "Wuxi",
  "name_zh": "无锡市鼋头渚旅游风景区",
- "name_en": "Wuxishiyuantouzhulvyoufeng Scenic Area",
+ "name_en": "Yuantouzhu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "wuxishiyuantouzhulvyou-474",
  "lat": 31.479468,
@@ -32,38 +32,6 @@
    "license": "CC BY-SA 3.0",
    "credit": "Own work",
    "source": "https://commons.wikimedia.org/wiki/File:Wuxi_Taihu_lake_Changchun_bridge.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Yuantouzhu%2CLake_Tai.JPG/1280px-Yuantouzhu%2CLake_Tai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yuantouzhu,Lake Tai.JPG",
-   "author": "螺钉",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu,Lake_Tai.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Yuantouzhu%2CWuxi.JPG/1280px-Yuantouzhu%2CWuxi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yuantouzhu,Wuxi.JPG",
-   "author": "螺钉",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu,Wuxi.JPG"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Yuantouzhu_Cherry_Blossom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Yuantouzhu Cherry Blossom.jpg",
-   "author": "Synyan 、 新雨",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu_Cherry_Blossom.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yuantouzhu_Lake_Tai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Yuantouzhu Lake Tai.jpg",
-   "author": "Synyan",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu_Lake_Tai.jpg"
   }
  ],
  "web": "http://www.ytz.com.cn/",
@@ -219,6 +187,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -230,9 +212,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/鼋头渚"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:46Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

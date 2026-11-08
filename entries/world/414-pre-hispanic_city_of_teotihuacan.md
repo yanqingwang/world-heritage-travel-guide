@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 19.6925
 lon: -98.843888888
-updated_at: "2026-11-08T16:45:33Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 特奥蒂瓦坎 / Pre-Hispanic City of Teotihuacan

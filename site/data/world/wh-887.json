@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "PGK",
+  "currency_en": "Papua New Guinean kina",
+  "currency_zh": "Papua New Guinean kina",
+  "currency_symbol": "K",
+  "timezone_main": "UTC+10:00",
+  "drives_side": "left",
+  "idd_prefix": "+675",
+  "languages": [
+   "English",
+   "Hiri Motu",
+   "Tok Pisin"
+  ],
+  "plug_types": "I",
+  "voltage": "240V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -157,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:11Z"
+ "updated_at": "2026-11-08T20:30:01Z"
 }

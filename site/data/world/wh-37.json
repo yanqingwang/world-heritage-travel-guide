@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "TND",
+  "currency_en": "Tunisian dinar",
+  "currency_zh": "Tunisian dinar",
+  "currency_symbol": "د.ت",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+216",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "C,E",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:42:34Z"
+ "updated_at": "2026-11-08T20:29:56Z"
 }

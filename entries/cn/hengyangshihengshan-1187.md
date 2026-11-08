@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Hengyang City"
 lat: 27.252032
 lon: 112.738641
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 衡阳市衡山旅游区 / Mount Heng (Hunan)
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:45Z"
 > 湖南省 · 衡阳市 · 山地风光
 
 ## 图片 / Images
+
+![HengshanMountains.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/HengshanMountains.JPG/1280px-HengshanMountains.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*HengshanMountains.JPG · User:TheNeon · CC BY-SA 3.0*
 
 ![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![Heavenly Southern Gate, Mount Heng (Hunan), picture1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Heavenly_Southern_Gate%2C_Mount_Heng_%28Hunan%29%2C_picture1.jpg/1280px-Heavenly_Southern_Gate%2C_Mount_Heng_%28Hunan%29%2C_picture1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Heavenly Southern Gate, Mount Heng (Hunan), picture1.jpg · Huangdan2060 · CC0*
-
-![Mount Heng in Hunan, 20150304.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mount_Heng_in_Hunan%2C_20150304.jpg/1280px-Mount_Heng_in_Hunan%2C_20150304.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Heng in Hunan, 20150304.jpg · 王计 · CC BY 2.5*
 
 ## 简介 / Introduction
 

@@ -284,6 +284,20 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "LAK",
+  "currency_en": "Lao kip",
+  "currency_zh": "Lao kip",
+  "currency_symbol": "₭",
+  "timezone_main": "UTC+07:00",
+  "drives_side": "",
+  "idd_prefix": "+856",
+  "languages": [
+   "Lao"
+  ],
+  "plug_types": "A,B,C,E,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -320,5 +334,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:42Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

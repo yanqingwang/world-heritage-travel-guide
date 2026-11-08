@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "DZD",
+  "currency_en": "Algerian dinar",
+  "currency_zh": "Algerian dinar",
+  "currency_symbol": "د.ج",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+213",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "C,E",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:43:50Z"
+ "updated_at": "2026-11-08T20:29:57Z"
 }

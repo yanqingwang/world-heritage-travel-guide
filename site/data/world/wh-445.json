@@ -219,6 +219,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "BRL",
+  "currency_en": "Brazilian real",
+  "currency_zh": "雷亚尔",
+  "currency_symbol": "R$",
+  "timezone_main": "UTC-03:00",
+  "drives_side": "",
+  "idd_prefix": "+55",
+  "languages": [
+   "Portuguese"
+  ],
+  "plug_types": "C,N",
+  "voltage": "127/220V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -255,5 +269,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:36Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

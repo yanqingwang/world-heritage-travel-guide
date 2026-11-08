@@ -13,7 +13,7 @@ province_en: "Qinghai"
 city_en: "Hainan Tibetan Autonomous Prefecture"
 lat: 36.562486
 lon: 100.620492
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 青海湖风景区 / Qinghai Lake
@@ -50,9 +50,7 @@ updated_at: "2026-11-08T15:57:45Z"
 
 ### English
 
-Qinghai Lake, whose Tibetan name is "Cowenbu" (meaning "blue sea"), is China's largest inland lake and saltwater lake. It was formed by the collapse of the fault between Datong Mountain, Riyue Mountain and Qinghai Nanshan in the Qilian Mountains. The scenic area is vast, with vast grasslands, numerous rivers, and rich water and grass. The clear blue lake in the area is surrounded by the surrounding mountains, like a huge emerald jade plate embedded between the mountains and grasslands, forming a magnificent and beautiful scenery where mountains, lakes, and grasslands complement each other.
-
-*English introduction: machine translation.*
+Qinghai Lake is the largest lake in China. Located in the Qinghai Province, to which it gave its name, Qinghai Lake is classified as an alkaline endorheic salt lake. The lake has fluctuated in size, shrinking over much of the 20th century but increasing since 2004. It had a surface area of 4,317 km2 (1,667 sq mi), an average depth of 21 m (69 ft), and a maximum depth of 25.5 m (84 ft) in 2008.
 
 ## 交通 / Transport
 

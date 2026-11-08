@@ -2,7 +2,7 @@
 id: "cn-315"
 dataset: "china_5a"
 name_zh: "武汉市黄鹤楼公园"
-name_en: "Wuhanshihuanghelougongyuan"
+name_en: "Huanghelou"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 30.549101
 lon: 114.310611
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 武汉市黄鹤楼公园 / Wuhanshihuanghelougongyuan
+# 武汉市黄鹤楼公园 / Huanghelou
 
 > 湖北省 · 武汉市 · 自然风光
 
@@ -29,18 +29,6 @@ updated_at: "2026-11-08T15:57:46Z"
 ![武汉市人民政府关于公布第六批武汉市文物保护单位的通知.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E6%AD%A6%E6%B1%89%E5%B8%82%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E6%AD%A6%E6%B1%89%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5.pdf/page1-960px-%E6%AD%A6%E6%B1%89%E5%B8%82%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E6%AD%A6%E6%B1%89%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *武汉市人民政府关于公布第六批武汉市文物保护单位的通知.pdf · 武汉市人民政府 · Public domain*
-
-![20240621 Yellow Crane Tower.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/20240621_Yellow_Crane_Tower.jpg/1280px-20240621_Yellow_Crane_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20240621 Yellow Crane Tower.jpg · Windmemories · CC BY-SA 4.0*
-
-![Anonymous-Yellow Crane Tower.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Anonymous-Yellow_Crane_Tower.jpg/1280px-Anonymous-Yellow_Crane_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Anonymous-Yellow Crane Tower.jpg · Unknown author Unknown author · Public domain*
-
-![Electric motor on the slewing bearing of a remote controlled yellow Liebherr tower crane.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Electric_motor_on_the_slewing_bearing_of_a_remote_controlled_yellow_Liebherr_tower_crane.jpg/1280px-Electric_motor_on_the_slewing_bearing_of_a_remote_controlled_yellow_Liebherr_tower_crane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Electric motor on the slewing bearing of a remote controlled yellow Liebherr tower crane.jpg · Tobias ToMar Maier · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -81,4 +69,5 @@ The Yellow Crane Tower is a landmark building in Wuhan. Together with Qingchuan 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黄鹤楼)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iv)"
 lat: 47.8194
 lon: 24.0558
-updated_at: "2026-11-08T16:48:14Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 马拉暮莱斯的木结构教堂 / Wooden Churches of Maramureş

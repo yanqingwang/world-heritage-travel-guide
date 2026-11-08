@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(vi)(x)"
 lat: 18.0775
 lon: -76.571111111111
-updated_at: "2026-11-08T16:50:01Z"
+updated_at: "2026-11-08T20:30:04Z"
 ---
 
 # 蓝山和约翰·克罗山 / Blue and John Crow Mountains

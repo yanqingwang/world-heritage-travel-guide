@@ -102,6 +102,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "MRU",
+  "currency_en": "Mauritanian ouguiya",
+  "currency_zh": "Mauritanian ouguiya",
+  "currency_symbol": "UM",
+  "timezone_main": "UTC+00:00",
+  "drives_side": "",
+  "idd_prefix": "+222",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "C",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -138,5 +152,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:48Z"
+ "updated_at": "2026-11-08T20:30:00Z"
 }

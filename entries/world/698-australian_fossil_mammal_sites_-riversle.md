@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(viii)(ix)"
 lat: -19.08333333
 lon: 138.7166667
-updated_at: "2026-11-08T16:47:45Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 澳大利亚哺乳动物化石地（里弗斯利/纳拉库特） / Australian Fossil Mammal Sites (Riversleigh / Naracoorte)

@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "RUB",
+  "currency_en": "Russian ruble",
+  "currency_zh": "卢布",
+  "currency_symbol": "₽",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+73",
+  "languages": [
+   "Russian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:43Z"
+ "updated_at": "2026-11-08T20:30:02Z"
 }

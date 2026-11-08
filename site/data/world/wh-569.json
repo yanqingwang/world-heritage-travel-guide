@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "ALL",
+  "currency_en": "Albanian lek",
+  "currency_zh": "Albanian lek",
+  "currency_symbol": "L",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+355",
+  "languages": [
+   "Albanian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -157,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:57Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

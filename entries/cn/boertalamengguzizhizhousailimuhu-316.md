@@ -2,7 +2,7 @@
 id: "cn-316"
 dataset: "china_5a"
 name_zh: "博尔塔拉蒙古自治州赛里木湖景区"
-name_en: "Boertalamengguzizhizhousailimuhu Scenic Area"
+name_en: "Sailimuhu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Bortala Mongol Autonomous Prefecture"
 lat: 44.612755
 lon: 81.401139
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 博尔塔拉蒙古自治州赛里木湖景区 / Boertalamengguzizhizhousailimuhu Scenic Area
+# 博尔塔拉蒙古自治州赛里木湖景区 / Sailimuhu Scenic Area
 
 > 新疆维吾尔自治区 · 博尔塔拉蒙古自治州 · 生态湿地
 
@@ -25,22 +25,6 @@ updated_at: "2026-11-08T15:57:46Z"
 ![Xinjiang DSC 9301 (5303314254).jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Xinjiang_DSC_9301_%285303314254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 *Xinjiang DSC 9301 (5303314254).jpg · lwtt93 from Shanghai, China · CC BY 2.0*
-
-![Lighthouse on the shore of Sayram Lake.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lighthouse_on_the_shore_of_Sayram_Lake.jpg/1280px-Lighthouse_on_the_shore_of_Sayram_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lighthouse on the shore of Sayram Lake.jpg · Fumikas Sagisavas · CC0*
-
-![Sayram Lake on north bank.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sayram_Lake_on_north_bank.jpg/1280px-Sayram_Lake_on_north_bank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sayram Lake on north bank.jpg · Y Chen · CC BY-SA 4.0*
-
-![Sayram Lake scenery.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sayram_Lake_scenery.jpg/1280px-Sayram_Lake_scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sayram Lake scenery.jpg · Fumikas Sagisavas · CC0*
-
-![Sunset upon the Lake Sayram.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sunset_upon_the_Lake_Sayram.png/1280px-Sunset_upon_the_Lake_Sayram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sunset upon the Lake Sayram.png · Y Chen · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -74,4 +58,5 @@ Sailimu Lake Scenic Area is the highest mountain lake in Xinjiang with the highe
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/赛里木湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

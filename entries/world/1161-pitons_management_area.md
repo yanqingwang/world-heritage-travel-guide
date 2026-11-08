@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(vii)(viii)"
 lat: 13.807083333
 lon: -61.070361111
-updated_at: "2026-11-08T16:48:52Z"
+updated_at: "2026-11-08T20:30:03Z"
 ---
 
 # 皮通山保护区 / Pitons Management Area

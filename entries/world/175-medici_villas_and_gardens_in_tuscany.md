@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iv)(vi)"
 lat: 43.857777777
 lon: 11.304166666
-updated_at: "2026-11-08T16:43:04Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 梅第奇别墅 / Medici Villas and Gardens in Tuscany

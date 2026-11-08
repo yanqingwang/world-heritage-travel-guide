@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(vii)(ix)"
 lat: 19.336944444
 lon: 45.903888888
-updated_at: "2026-11-08T16:51:00Z"
+updated_at: "2026-11-08T20:30:06Z"
 ---
 
 # 奥鲁克·巴尼·马阿里德 / ‘Uruq Bani Ma’arid

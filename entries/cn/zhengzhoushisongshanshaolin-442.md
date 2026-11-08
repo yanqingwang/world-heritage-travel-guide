@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Zhengzhou"
 lat: 34.520888
 lon: 112.962116
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 郑州市嵩山少林景区 / Mount Song

@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 31.360115
 lon: 110.576563
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 神农架生态旅游区 / Shennongjiashengtai Tourist Area
@@ -58,4 +58,5 @@ Shennongjia is a national forest park, a national wetland park, a national geolo
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/神农架林区人民政府)
 - [OpenStreetMap](https://www.openstreetmap.org/)

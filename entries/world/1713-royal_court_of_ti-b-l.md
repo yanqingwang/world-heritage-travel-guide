@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)"
 lat: 11.089722222
 lon: -0.961555555
-updated_at: "2026-11-08T16:51:00Z"
+updated_at: "2026-11-08T20:30:06Z"
 ---
 
 # 铁贝莱王宫 / Royal Court of Tiébélé

@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jiaxing City"
 lat: 30.756238
 lon: 120.77231
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 嘉兴市南湖旅游区 / Jiaxing

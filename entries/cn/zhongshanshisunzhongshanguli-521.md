@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Zhongshan City"
 lat: 22.452651
 lon: 113.536789
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 中山市孙中山故里旅游区 / Zhongshan

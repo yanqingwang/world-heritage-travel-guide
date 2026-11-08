@@ -114,6 +114,21 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "TZS",
+  "currency_en": "Tanzanian shilling",
+  "currency_zh": "Tanzanian shilling",
+  "currency_symbol": "Sh",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "left",
+  "idd_prefix": "+255",
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "plug_types": "D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -150,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:52Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

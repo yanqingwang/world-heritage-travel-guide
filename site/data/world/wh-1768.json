@@ -114,6 +114,22 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "KMF",
+  "currency_en": "Comorian franc",
+  "currency_zh": "Comorian franc",
+  "currency_symbol": "Fr",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+269",
+  "languages": [
+   "Arabic",
+   "Comorian",
+   "French"
+  ],
+  "plug_types": "C,E",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -150,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:04Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

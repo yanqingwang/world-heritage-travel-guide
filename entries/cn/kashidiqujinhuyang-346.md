@@ -2,7 +2,7 @@
 id: "cn-346"
 dataset: "china_5a"
 name_zh: "喀什地区金湖杨景区"
-name_en: "Kashidiqujinhuyang Scenic Area"
+name_en: "Jinhuzhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,18 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 38.035954
 lon: 76.987903
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 喀什地区金湖杨景区 / Kashidiqujinhuyang Scenic Area
+# 喀什地区金湖杨景区 / Jinhuzhen Scenic Area
 
 > 新疆维吾尔自治区 · 喀什地区 · 草原沙漠
+
+## 图片 / Images
+
+![金湖镇(山外) - Jinhu Township - 2014.05 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%E9%87%91%E6%B9%96%E9%95%87%28%E5%B1%B1%E5%A4%96%29_-_Jinhu_Township_-_2014.05_-_panoramio.jpg/1280px-%E9%87%91%E6%B9%96%E9%95%87%28%E5%B1%B1%E5%A4%96%29_-_Jinhu_Township_-_2014.05_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*金湖镇(山外) - Jinhu Township - 2014.05 - panoramio.jpg · rheins · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -54,4 +60,5 @@ Zepu Jinhu Yang Scenic Area in Kashgar region covers an area of ​​40,000 acr
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/金湖鎮)
 - [OpenStreetMap](https://www.openstreetmap.org/)

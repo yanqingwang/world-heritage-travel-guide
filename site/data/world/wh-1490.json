@@ -150,6 +150,21 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "KGS",
+  "currency_en": "Kyrgyzstani som",
+  "currency_zh": "Kyrgyzstani som",
+  "currency_symbol": "с",
+  "timezone_main": "UTC+06:00",
+  "drives_side": "",
+  "idd_prefix": "+996",
+  "languages": [
+   "Kyrgyz",
+   "Russian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -186,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:23Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

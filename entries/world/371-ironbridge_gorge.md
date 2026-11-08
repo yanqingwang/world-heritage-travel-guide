@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 52.626388888
 lon: -2.472777777
-updated_at: "2026-11-08T16:45:20Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 乔治铁桥区 / Ironbridge Gorge

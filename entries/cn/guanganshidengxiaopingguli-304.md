@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Guangan City"
 lat: 30.525267
 lon: 106.643279
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 广安市邓小平故里旅游区 / Deng Xiaoping
@@ -38,9 +38,9 @@ updated_at: "2026-11-08T15:57:46Z"
 
 *Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-10.jpg · Acroterion · CC BY-SA 4.0*
 
-![Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-4.jpg/1280px-Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-5.jpg/1280px-Deng_Xiaoping_arrival_at_Dobbins_Air_Force_Base_Atlanta_1979-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-4.jpg · Acroterion · CC BY-SA 4.0*
+*Deng Xiaoping arrival at Dobbins Air Force Base Atlanta 1979-5.jpg · Acroterion · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

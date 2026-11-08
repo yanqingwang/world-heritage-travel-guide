@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "MUR",
+  "currency_en": "Mauritian rupee",
+  "currency_zh": "Mauritian rupee",
+  "currency_symbol": "₨",
+  "timezone_main": "UTC+04:00",
+  "drives_side": "left",
+  "idd_prefix": "+230",
+  "languages": [
+   "English",
+   "French",
+   "Mauritian Creole"
+  ],
+  "plug_types": "C,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:45Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

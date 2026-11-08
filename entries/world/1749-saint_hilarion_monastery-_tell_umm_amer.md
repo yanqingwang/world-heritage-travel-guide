@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)(vi)"
 lat: 31.4472
 lon: 34.3663
-updated_at: "2026-11-08T16:51:04Z"
+updated_at: "2026-11-08T20:30:06Z"
 ---
 
 # 圣希拉里翁修道院 / 特尔乌姆阿迈尔 / Saint Hilarion Monastery/ Tell Umm Amer

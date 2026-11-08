@@ -136,6 +136,20 @@
   }
  ],
  "visa_summary": "mixed",
+ "country_info": {
+  "currency_code": "GMD",
+  "currency_en": "dalasi",
+  "currency_zh": "dalasi",
+  "currency_symbol": "D",
+  "timezone_main": "UTC+00:00",
+  "drives_side": "left",
+  "idd_prefix": "+220",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -172,5 +186,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:45Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

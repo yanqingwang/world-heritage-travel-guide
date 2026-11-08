@@ -26,12 +26,20 @@
  "intro_en_source": "wikipedia",
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%E6%96%B0%E7%96%86%E5%8D%9A%E6%96%AF%E8%85%BE%E6%B9%96%E5%9B%BD%E5%AE%B6%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD.jpg/1280px-%E6%96%B0%E7%96%86%E5%8D%9A%E6%96%AF%E8%85%BE%E6%B9%96%E5%9B%BD%E5%AE%B6%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "新疆博斯腾湖国家湿地公园.jpg",
+   "author": "liuxingy2015",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/166991085@N05/29885407057/",
+   "source": "https://commons.wikimedia.org/wiki/File:新疆博斯腾湖国家湿地公园.jpg"
+  },
+  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bosten-Lake_%28Bosten-See%29%2C_Xinjiang%2C_China%2C_87.00E%2C_42.00N.jpg/1280px-Bosten-Lake_%28Bosten-See%29%2C_Xinjiang%2C_China%2C_87.00E%2C_42.00N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "Bosten-Lake (Bosten-See), Xinjiang, China, 87.00E, 42.00N.jpg",
    "author": "NASA Original upload: Color adjusting of this image (using Adobe Photoshop 6.0): Michael Gaebler, 02. March 2006, own wo",
    "license": "Public domain",
    "credit": "JSC Gateway to Astronaut Photography of Earth",
-   "source": "https://commons.wikimedia.org/wiki/File:Bosten-Lake_%28Bosten-See%29%2C_Xinjiang%2C_China%2C_87.00E%2C_42.00N.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Bosten-Lake_(Bosten-See),_Xinjiang,_China,_87.00E,_42.00N.jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bosten_lake_and_surrounding_area_IGP4174.jpg/1280px-Bosten_lake_and_surrounding_area_IGP4174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,7 +55,7 @@
    "author": "w0zny",
    "license": "CC BY-SA 3.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191856%2B0000_CE7C0A.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang,_China,_Lake_Bosten_Bebop_Drone_2015-09-15T191856+0000_CE7C0A.jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191932%2B0000_CE7C0A.jpg/1280px-Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191932%2B0000_CE7C0A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,15 +63,7 @@
    "author": "w0zny",
    "license": "CC BY-SA 3.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191932%2B0000_CE7C0A.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191956%2B0000_CE7C0A.jpg/1280px-Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191956%2B0000_CE7C0A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Xinjiang, China, Lake Bosten Bebop Drone 2015-09-15T191956+0000 CE7C0A.jpg",
-   "author": "w0zny",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191956%2B0000_CE7C0A.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang,_China,_Lake_Bosten_Bebop_Drone_2015-09-15T191932+0000_CE7C0A.jpg"
   }
  ],
  "web": "",
@@ -191,6 +191,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -210,5 +224,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:46Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

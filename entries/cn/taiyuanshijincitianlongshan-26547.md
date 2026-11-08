@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Taiyuan"
 lat: 37.705129
 lon: 112.449184
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 太原市晋祠天龙山景区 / Jinci
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:45Z"
 > 山西省 · 太原市 · 石窟艺术
 
 ## 图片 / Images
+
+![Goddess Temple Jinsi.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Goddess_Temple_Jinsi.JPG/1280px-Goddess_Temple_Jinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Goddess Temple Jinsi.JPG · Gisling · CC BY 3.0*
 
 ![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -34,13 +38,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *Lingshi Jinci Miao 2013.08.24 16-16-13.jpg · Zhangzhugang · CC BY-SA 3.0*
 
-![Lingshi Jinci Miao 2013.08.24 16-20-33.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lingshi_Jinci_Miao_2013.08.24_16-20-33.jpg/1280px-Lingshi_Jinci_Miao_2013.08.24_16-20-33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Lingshi Jinci Miao 2013.08.24 16-20-13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lingshi_Jinci_Miao_2013.08.24_16-20-13.jpg/1280px-Lingshi_Jinci_Miao_2013.08.24_16-20-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Lingshi Jinci Miao 2013.08.24 16-20-33.jpg · Zhangzhugang · CC BY-SA 3.0*
-
-![Lingshi Jinci Miao 2013.08.24 16-21-22.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Lingshi_Jinci_Miao_2013.08.24_16-21-22.jpg/1280px-Lingshi_Jinci_Miao_2013.08.24_16-21-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lingshi Jinci Miao 2013.08.24 16-21-22.jpg · Zhangzhugang · CC BY-SA 3.0*
+*Lingshi Jinci Miao 2013.08.24 16-20-13.jpg · Zhangzhugang · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

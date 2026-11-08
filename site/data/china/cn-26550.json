@@ -24,7 +24,24 @@
  "intro_zh": "扎龙生态旅游区位于齐齐哈尔市铁锋区，总面积4.7平方公里。扎龙生态旅游区湿地风光秀美，拥有扎龙湖、荷仙池鹤唳云天、鹿鹤同春、芦林鹤影等游览景区，打造了望鹤楼、水禽岛、名鹤苑、扎龙湿地博物馆、丹顶鹤野化训飞区等丰富多样的旅游景点。",
  "intro_en": "Zhalong Ecological Tourism Zone is located in Tiefeng District, Qiqihar City, with a total area of ​​4.7 square kilometers. The Zhalong Ecological Tourism Zone has beautiful wetland scenery, including Zhalong Lake, Hexian Pond, Cranes in the Sky, Deer and Cranes in Spring, and Crane Shadows in Lulin. It has created a variety of tourist attractions such as Wanghe Tower, Waterfowl Island, Minghe Garden, Zhalong Wetland Museum, and Red-crowned Crane Rewilding and Flying Area.",
  "intro_en_source": "machine_translation",
- "images": [],
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%E4%B8%B9%E9%A1%B6%E9%B9%A41-%E6%89%8E%E9%BE%992017.jpg/1280px-%E4%B8%B9%E9%A1%B6%E9%B9%A41-%E6%89%8E%E9%BE%992017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "丹顶鹤1-扎龙2017.jpg",
+   "author": "Amarespeco",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%B9%E9%A1%B6%E9%B9%A41-%E6%89%8E%E9%BE%992017.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf/page1-960px-%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "城镇化地区综合交通网规划.pdf",
+   "author": "National Development and Reform Commission and Ministry of Transport, People's Republic of China",
+   "license": "Public domain",
+   "credit": "http://www.ndrc.gov.cn/zcfb/zcfbghwb/201512/t20151209_761949.html",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf"
+  }
+ ],
  "web": "http://www.chinazhalong.com/showindex.jsp",
  "booking": "",
  "transport": {
@@ -178,6 +195,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -189,9 +220,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黑龙江扎龙国家级自然保护区"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

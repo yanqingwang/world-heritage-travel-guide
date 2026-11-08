@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -25.92897
 lon: 113.604655
-updated_at: "2026-11-08T16:47:23Z"
+updated_at: "2026-11-08T20:29:59Z"
 ---
 
 # 西澳大利亚鲨鱼湾 / Shark Bay, Western Australia

@@ -22,8 +22,8 @@
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
  "intro_zh": "金鸡湖景区位于苏州工业园区金鸡湖商务区，景区拥有“苏州中心”“东方之门”“音乐喷泉”“金鸡湖大桥”“文化艺术中心”“月光码头”“诚品书店”“国金中心”“望湖角”“李公堤”十大景观。",
- "intro_en": "Jinji Lake Scenic Area is located in the Jinji Lake Business District of Suzhou Industrial Park. The scenic area has ten major landscapes: \"Suzhou Center\", \"Oriental Gate\", \"Musical Fountain\", \"Jinji Lake Bridge\", \"Cultural and Art Center\", \"Moonlight Pier\", \"Eslite Bookstore\", \"IFC Center\", \"Wanghu Corner\" and \"Ligong Causeway\".",
- "intro_en_source": "machine_translation",
+ "intro_en": "Jinji Lake (Chinese: 金鸡湖; pinyin: Jīnjī Hú) is a fresh water lake located in the central part of Suzhou Industrial Park, Jiangsu, China. It occupies an area of 7.18 square kilometers (2.77 sq mi) and its average depth is about 2.5–3 meters (8 ft 2 in – 9 ft 10 in). There are two man-made islands in the lake.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Suzhou_Industrial_Park_%28SIP%29_-_West_Bank_of_Jin_Ji_Lake.jpg/1280px-Suzhou_Industrial_Park_%28SIP%29_-_West_Bank_of_Jin_Ji_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -31,7 +31,7 @@
    "author": "Donaldytong",
    "license": "CC BY-SA 3.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Suzhou_Industrial_Park_%28SIP%29_-_West_Bank_of_Jin_Ji_Lake.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Suzhou_Industrial_Park_(SIP)_-_West_Bank_of_Jin_Ji_Lake.jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,7 +47,7 @@
    "author": "中华人民共和国国务院",
    "license": "Public domain",
    "credit": "http://www.hedong.cn/__local/D/31/EC/C4ED6843A9FA445A21EED4C764C_13388983_BAE99.pdf http://www.hedong.cn/info/5167/86214.htm",
-   "source": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf"
+   "source": "https://commons.wikimedia.org/wiki/File:国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Diagram_of_Jinji_Lake_Tunnel_%26_Suzhou_Rail_Transit_Line_6.svg/1280px-Diagram_of_Jinji_Lake_Tunnel_%26_Suzhou_Rail_Transit_Line_6.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,7 +55,7 @@
    "author": "Nanhuajiaren",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Diagram_of_Jinji_Lake_Tunnel_%26_Suzhou_Rail_Transit_Line_6.svg"
+   "source": "https://commons.wikimedia.org/wiki/File:Diagram_of_Jinji_Lake_Tunnel_&_Suzhou_Rail_Transit_Line_6.svg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Jinji_Lake_Bridge%2C_Gate_to_the_East%2C_and_Suzhou_Center.jpg/1280px-Jinji_Lake_Bridge%2C_Gate_to_the_East%2C_and_Suzhou_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -63,7 +63,7 @@
    "author": "E8xE8",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinji_Lake_Bridge%2C_Gate_to_the_East%2C_and_Suzhou_Center.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Jinji_Lake_Bridge,_Gate_to_the_East,_and_Suzhou_Center.jpg"
   }
  ],
  "web": "http://jinjilake.sipac.gov.cn/index.html",
@@ -229,6 +229,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -248,5 +262,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:46Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

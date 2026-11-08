@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "TRY",
+  "currency_en": "Turkish lira",
+  "currency_zh": "土耳其里拉",
+  "currency_symbol": "₺",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+90",
+  "languages": [
+   "Turkish"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:47Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

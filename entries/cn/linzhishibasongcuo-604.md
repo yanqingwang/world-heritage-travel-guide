@@ -13,7 +13,7 @@ province_en: "Tibet"
 city_en: "Linzhi Prefecture"
 lat: 30.014093
 lon: 93.974339
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 林芝市巴松措景区 / Pagsum Lake

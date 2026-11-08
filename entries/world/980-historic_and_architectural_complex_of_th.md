@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)(iv)"
 lat: 55.797442
 lon: 49.10724
-updated_at: "2026-11-08T16:48:29Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 喀山克里姆林宫 / Historic and Architectural Complex of the Kazan Kremlin

@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(ii)(iii)"
 lat: 32.636748
 lon: 14.2922
-updated_at: "2026-11-08T16:43:47Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 莱波蒂斯考古遗址 / Archaeological Site of Leptis Magna

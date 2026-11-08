@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(vi)"
 lat: 34.395555555
 lon: 132.453611111
-updated_at: "2026-11-08T16:47:53Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 广岛和平纪念公园(原爆遗址) / Hiroshima Peace Memorial (Genbaku Dome)

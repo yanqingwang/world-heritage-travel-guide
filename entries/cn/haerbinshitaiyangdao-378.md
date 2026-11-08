@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Harbin"
 lat: 45.790589
 lon: 126.605126
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 哈尔滨市太阳岛景区 / Taiyangdao Scenic Area

@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 48.966666666
 lon: 14.266666666
-updated_at: "2026-11-08T16:48:07Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 霍拉索维采古村保护区 / Holašovice Historic Village

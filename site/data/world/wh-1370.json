@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "ILS",
+  "currency_en": "Israeli new shekel",
+  "currency_zh": "谢克尔",
+  "currency_symbol": "₪",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+972",
+  "languages": [
+   "Arabic",
+   "Hebrew"
+  ],
+  "plug_types": "C,H",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -156,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:05Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

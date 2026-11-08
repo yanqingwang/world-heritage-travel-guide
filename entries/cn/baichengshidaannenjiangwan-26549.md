@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Baicheng City"
 lat: 45.534909
 lon: 124.301536
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 白城市大安嫩江湾旅游区 / Baichengshidaannenjiangwan Tourist Area

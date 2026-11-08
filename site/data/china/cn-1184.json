@@ -112,9 +112,22 @@
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
+ },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
   "status": "unknown",
@@ -127,13 +140,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/濯水镇 (重庆市)"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-1087"
 dataset: "china_5a"
 name_zh: "湘西州吉首市矮寨•十八洞•德夯大峡谷景区"
-name_en: "Aizhai·shibadong·dehangdaxiagujingqu Scenic Area"
+name_en: "Yalucangbudaxiagu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,22 @@ province_en: "Hunan"
 city_en: "Xiangxi Tujia and Miao Autonomous Prefecture"
 lat: 28.345107
 lon: 109.593699
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 湘西州吉首市矮寨•十八洞•德夯大峡谷景区 / Aizhai·shibadong·dehangdaxiagujingqu Scenic Area
+# 湘西州吉首市矮寨•十八洞•德夯大峡谷景区 / Yalucangbudaxiagu Scenic Area
 
 > 湖南省 · 湘西土家族苗族自治州 · 地质奇观
+
+## 图片 / Images
+
+![Yarlung Tsangpo Canyon from space.jpg](https://upload.wikimedia.org/wikipedia/commons/4/48/Yarlung_Tsangpo_Canyon_from_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Yarlung Tsangpo Canyon from space.jpg · NASA · Public domain*
+
+![Yarlung Zangpo Grand Canyon, Tibet.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Yarlung_Zangpo_Grand_Canyon%2C_Tibet.jpg/1280px-Yarlung_Zangpo_Grand_Canyon%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Yarlung Zangpo Grand Canyon, Tibet.jpg · NASA/GSFC/METI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team · Public domain*
 
 ## 简介 / Introduction
 
@@ -54,5 +64,5 @@ Aizhai·Shibadong·Dehang Grand Canyon Scenic Area is located in the core area o
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/矮寨·十八洞·德夯大峡谷景区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/雅鲁藏布大峡谷)
 - [OpenStreetMap](https://www.openstreetmap.org/)

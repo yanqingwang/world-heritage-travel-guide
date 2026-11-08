@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)"
 lat: 59.437222222
 lon: 24.745277777
-updated_at: "2026-11-08T16:48:00Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 塔林历史中心（老城） / Historic Centre (Old Town) of Tallinn

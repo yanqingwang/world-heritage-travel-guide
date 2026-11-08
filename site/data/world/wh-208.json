@@ -114,6 +114,22 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "AFN",
+  "currency_en": "Afghan afghani",
+  "currency_zh": "Afghan afghani",
+  "currency_symbol": "؋",
+  "timezone_main": "UTC+04:30",
+  "drives_side": "",
+  "idd_prefix": "+93",
+  "languages": [
+   "Dari",
+   "Pashto",
+   "Turkmen"
+  ],
+  "plug_types": "C,F",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -150,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:43:58Z"
+ "updated_at": "2026-11-08T20:29:57Z"
 }

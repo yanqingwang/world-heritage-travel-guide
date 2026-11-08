@@ -2,7 +2,7 @@
 id: "cn-26558"
 dataset: "china_5a"
 name_zh: "崇左市花山岩画景区"
-name_en: "Zuojiang Huashan Rock Art"
+name_en: "Chongzuoshihuashanyanhua Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangxi"
 city_en: "Chongzuo City"
 lat: 22.186133
 lon: 107.071606
-updated_at: "2026-11-08T15:57:44Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 崇左市花山岩画景区 / Zuojiang Huashan Rock Art
+# 崇左市花山岩画景区 / Chongzuoshihuashanyanhua Scenic Area
 
 > 广西壮族自治区 · 崇左市 · 山地风光
 
@@ -51,7 +51,10 @@ updated_at: "2026-11-08T15:57:44Z"
 
 ### English
 
-The Zuojiang Huashan Rock Art Cultural Landscape (Chinese: 花山壁画; pinyin: Huāshān Bìhuà) is an extensive assembly of historical rock art that was painted on limestone cliff faces in Guangxi, southern China. The paintings are located on the west bank of the Ming River (Guangxi) which is a tributary of the Zuo River. The area of the paintings is part of the Nonggang Nature Reserve and belongs to Ningming County. On July 15, 2016, Zuojiang Huashan Rock Art Cultural Landscape was listed as the 49th UNESCO World Heritage Site in China. The main painted area along the cliff has a width of about 170 metres (560 ft) and a height of about 40 metres (130 ft) and is one of the largest rock paintings in China. The paintings are located between 30 metres (98 ft) and 90 metres (300 ft) above the river's water level. The main area contains about 1900 discrete countable images arranged in about 110 groups. The paintings have a red color and were executed using a mixture of red ochre (hematite), animal glue, and blood. They depict human figures as well as animals along with bronze drums, knives, swords, bells, and ships. Human figures are typically between 60 centimetres (24 in) and 150 centimetres 
+The "Zuojiang Huashan Rock Art Cultural Landscape" consists of 38 representative rock art sites located in Ningming County, Longzhou County, Jiangzhou District, and Fusui County, Chongzuo City. It covers a river section of 105 kilometers long and an area of ​​6,621.6 hectares. It includes a strip landscape area composed of rock paintings, cliffs, rivers, and terraces, and has extremely high cultural and tourism value.
+Ningming Huashan Rock Painting is the largest single rock painting in the world. It is also the rock painting with the most images, the richest content, the best preservation and the strongest visual impact in the "Zuojiang Huashan Rock Painting Cultural Landscape". It is known as the treasure of world rock art. This rock painting covers an area of ​​about 8,000 square meters and contains 1,951 images of people, animals, utensils, etc. It truly records the social activities of the Luoyue people from the Warring States Period to the Eastern Han Dynasty (5th century BC to 2nd century AD).
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -72,10 +75,9 @@ The Zuojiang Huashan Rock Art Cultural Landscape (Chinese: 花山壁画; pinyin:
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/花山岩画)
 - [OpenStreetMap](https://www.openstreetmap.org/)

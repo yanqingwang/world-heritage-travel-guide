@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 48.999444444
 lon: 20.7675
-updated_at: "2026-11-08T16:47:31Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 莱沃恰，斯皮什城堡及相关文化古迹群 / Levoča, Spišský Hrad and the Associated Cultural Monuments

@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "AUD",
+  "currency_en": "Australian dollar",
+  "currency_zh": "澳大利亚元",
+  "currency_symbol": "$",
+  "timezone_main": "UTC+10:00",
+  "drives_side": "left",
+  "idd_prefix": "+61",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "I",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:42:56Z"
+ "updated_at": "2026-11-08T20:29:57Z"
 }

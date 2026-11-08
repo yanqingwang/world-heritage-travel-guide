@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iii)(vi)"
 lat: 46.023888888
 lon: 10.35
-updated_at: "2026-11-08T16:42:43Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 梵尔卡莫尼卡谷地岩画 / Rock Drawings in Valcamonica

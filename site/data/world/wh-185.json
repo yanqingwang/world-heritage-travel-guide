@@ -136,6 +136,22 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "SCR",
+  "currency_en": "Seychellois rupee",
+  "currency_zh": "Seychellois rupee",
+  "currency_symbol": "₨",
+  "timezone_main": "UTC+04:00",
+  "drives_side": "left",
+  "idd_prefix": "+248",
+  "languages": [
+   "English",
+   "French",
+   "Seychellois Creole"
+  ],
+  "plug_types": "G",
+  "voltage": "240V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -172,5 +188,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:43:50Z"
+ "updated_at": "2026-11-08T20:29:57Z"
 }

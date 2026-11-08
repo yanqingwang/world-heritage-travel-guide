@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)"
 lat: 49.95
 lon: 15.26666667
-updated_at: "2026-11-08T16:47:47Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 库特纳霍拉历史名城中心的圣巴拉巴教堂及塞德莱茨的圣母玛利亚大教堂 / Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec

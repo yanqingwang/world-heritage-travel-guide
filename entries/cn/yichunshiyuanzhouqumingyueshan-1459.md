@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Yichun"
 lat: 27.60543
 lon: 114.299102
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 宜春市袁州区明月山旅游区 / Yuanzhou, Yichun
@@ -30,9 +30,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *Torch at Yichun railway station 20191019 164425.jpg · 維基小霸王 · CC BY-SA 4.0*
 
-![Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-54-22.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-54-22.jpg/1280px-Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-54-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Yichun, Jianxi - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/1/18/Yichun%2C_Jianxi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-54-22.jpg · Zhangzhugang · CC BY-SA 4.0*
+*Yichun, Jianxi - panoramio.jpg · The Erica Chang · CC BY 3.0*
 
 ![Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-55-12.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-55-12.jpg/1280px-Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-55-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

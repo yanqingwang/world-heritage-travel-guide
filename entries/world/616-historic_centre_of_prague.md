@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(ii)(iv)(vi)"
 lat: 50.08972
 lon: 14.41944
-updated_at: "2026-11-08T16:47:31Z"
+updated_at: "2026-11-08T20:29:59Z"
 ---
 
 # 布拉格历史中心 / Historic Centre of Prague

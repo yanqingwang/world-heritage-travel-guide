@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(i)"
 lat: -33.857058
 lon: 151.214897
-updated_at: "2026-11-08T16:42:59Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 悉尼歌剧院 / Sydney Opera House

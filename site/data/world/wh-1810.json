@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "LBP",
+  "currency_en": "Lebanese pound",
+  "currency_zh": "Lebanese pound",
+  "currency_symbol": "ل.ل",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+961",
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "plug_types": "C,D,G",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:08Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

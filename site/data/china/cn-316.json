@@ -10,7 +10,7 @@
  "city_zh": "博尔塔拉蒙古自治州",
  "city_en": "Bortala Mongol Autonomous Prefecture",
  "name_zh": "博尔塔拉蒙古自治州赛里木湖景区",
- "name_en": "Boertalamengguzizhizhousailimuhu Scenic Area",
+ "name_en": "Sailimuhu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "boertalamengguzizhizhousailimuhu-316",
  "lat": 44.612755,
@@ -31,39 +31,7 @@
    "author": "lwtt93 from Shanghai, China",
    "license": "CC BY 2.0",
    "credit": "DSC_9301",
-   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang_DSC_9301_(5303314254).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lighthouse_on_the_shore_of_Sayram_Lake.jpg/1280px-Lighthouse_on_the_shore_of_Sayram_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Lighthouse on the shore of Sayram Lake.jpg",
-   "author": "Fumikas Sagisavas",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Lighthouse_on_the_shore_of_Sayram_Lake.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sayram_Lake_on_north_bank.jpg/1280px-Sayram_Lake_on_north_bank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Sayram Lake on north bank.jpg",
-   "author": "Y Chen",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Sayram_Lake_on_north_bank.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sayram_Lake_scenery.jpg/1280px-Sayram_Lake_scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Sayram Lake scenery.jpg",
-   "author": "Fumikas Sagisavas",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Sayram_Lake_scenery.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sunset_upon_the_Lake_Sayram.png/1280px-Sunset_upon_the_Lake_Sayram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Sunset upon the Lake Sayram.png",
-   "author": "Y Chen",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Sunset_upon_the_Lake_Sayram.png"
+   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang_DSC_9301_%285303314254%29.jpg"
   }
  ],
  "web": "",
@@ -139,6 +107,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -150,9 +132,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/赛里木湖"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:46Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

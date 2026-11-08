@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(i)(iii)"
 lat: 47.742777777
 lon: 101.225833333
-updated_at: "2026-11-08T16:50:47Z"
+updated_at: "2026-11-08T20:30:05Z"
 ---
 
 # 鹿石遗迹以及相关青铜时代遗址 / Deer Stone Monuments and Related Bronze Age Sites

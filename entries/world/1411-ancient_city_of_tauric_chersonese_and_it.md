@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(v)"
 lat: 44.61083
 lon: 33.49139
-updated_at: "2026-11-08T16:50:05Z"
+updated_at: "2026-11-08T20:30:04Z"
 ---
 
 # 陶里克切索内斯古城及农地 / Ancient City of Tauric Chersonese and its Chora

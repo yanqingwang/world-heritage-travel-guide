@@ -2,7 +2,7 @@
 id: "cn-416"
 dataset: "china_5a"
 name_zh: "连云港市花果山景区"
-name_en: "Huaguoshan Scenic Area"
+name_en: "Lianyungangshihuaguoshan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Lianyungang"
 lat: 34.65221
 lon: 119.27006
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 连云港市花果山景区 / Huaguoshan Scenic Area
+# 连云港市花果山景区 / Lianyungangshihuaguoshan Scenic Area
 
 > 江苏省 · 连云港市 · 山地风光
 
@@ -58,5 +58,4 @@ Huaguo Mountain is world-famous as the "Hometown of Sun Dasheng" described in th
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/花果山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -22,7 +22,7 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "作为中国著名的名人文化景区，周恩来故里景区旅游资源丰富，人文内涵厚重。景区总占地3.15平方公里，主要景点包括周恩来纪念馆、周恩来故居、驸马巷、河下古镇等。",
- "intro_en": "Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou¹ Ên¹-lai²; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta",
+ "intro_en": "Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou1 Ên1-lai2; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta",
  "intro_en_source": "wikipedia",
  "images": [
   {
@@ -31,7 +31,7 @@
    "author": "Unknown author Unknown author",
    "license": "Public domain",
    "credit": "http://news.china.com/history/all/11025807/20120305/17071039.html [ dead link ]",
-   "source": "https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E5%85%B1%E5%85%A7%E6%88%B0%E6%99%82%E6%9C%9F%E5%91%A8%E6%81%A9%E4%BE%86.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:國共內戰時期周恩來.jpg"
   },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Zhou_Enlai_MeiyuanXincun17_Nanjing_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -47,7 +47,7 @@
    "author": "Pakistan Air Force Archives",
    "license": "Public domain",
    "credit": "Sentinels in the Sky: A Saga of PAF's Gallant Air Warriors",
-   "source": "https://commons.wikimedia.org/wiki/File:FS_Hussain_and_Zhou_Enlai_%281956%29.png"
+   "source": "https://commons.wikimedia.org/wiki/File:FS_Hussain_and_Zhou_Enlai_(1956).png"
   },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Zhou_Enlai_1927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -201,6 +201,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -220,5 +234,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:46Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

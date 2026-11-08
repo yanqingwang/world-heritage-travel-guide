@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jiaxing City"
 lat: 30.949711
 lon: 120.902526
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 嘉兴市西塘古镇旅游景区 / Jiaxingshixitangguzhen Scenic Area
@@ -22,9 +22,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 ## 图片 / Images
 
-![Night (35420240).jpeg](https://upload.wikimedia.org/wikipedia/commons/2/26/Night_%2835420240%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Xitang photo by Dror Allon.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ad/Xitang_photo_by_Dror_Allon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Night (35420240).jpeg · Yang Lao · CC BY-SA 3.0*
+*Xitang photo by Dror Allon.jpg · היידן · CC BY-SA 4.0*
 
 ![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -33,14 +33,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![Jiaxing Lake island嘉兴湖心岛.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Jiaxing_Lake_island%E5%98%89%E5%85%B4%E6%B9%96%E5%BF%83%E5%B2%9B.jpg/1280px-Jiaxing_Lake_island%E5%98%89%E5%85%B4%E6%B9%96%E5%BF%83%E5%B2%9B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jiaxing Lake island嘉兴湖心岛.jpg · Ddccxl · CC BY-SA 4.0*
-
-![Jiaxing Sports Centre Stadium.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jiaxing_Sports_Centre_Stadium.jpg/1280px-Jiaxing_Sports_Centre_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jiaxing Sports Centre Stadium.jpg · Zhou Guanhuai · CC0*
 
 ## 简介 / Introduction
 
@@ -80,4 +72,5 @@ Xitang Ancient Town has a flat terrain and dense rivers, presenting a landscape 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/西塘镇 (嘉善县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-858"
 dataset: "china_5a"
 name_zh: "盘锦市红海滩风景廊道景区"
-name_en: "Panjinshihonghaitanfengjinglangdao Scenic Area"
+name_en: "Huanglongfengjingmingshengqu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,18 @@ province_en: "Liaoning"
 city_en: "Panjin City"
 lat: 40.90784
 lon: 121.851983
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 盘锦市红海滩风景廊道景区 / Panjinshihonghaitanfengjinglangdao Scenic Area
+# 盘锦市红海滩风景廊道景区 / Huanglongfengjingmingshengqu Scenic Area
 
 > 辽宁省 · 盘锦市 · 红色旅游
+
+## 图片 / Images
+
+![Water-of-Five-colored-Pond Huanglong Sichuan China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Water-of-Five-colored-Pond Huanglong Sichuan China.jpg · Kounosu · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -55,4 +61,5 @@ The Red Beach National Scenic Corridor is 18 kilometers long and is known as the
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

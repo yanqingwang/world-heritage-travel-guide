@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(ix)"
 lat: 47.7
 lon: -123.75
-updated_at: "2026-11-08T16:42:56Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 奥林匹克国家公园 / Olympic National Park

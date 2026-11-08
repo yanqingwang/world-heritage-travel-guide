@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Xinyang"
 lat: 31.81925
 lon: 114.083414
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 信阳市鸡公山景区 / Mount Jigong
@@ -38,9 +38,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *Jigongshan (Rooster Mountain) - 10323713646.jpg · Gary Lee Todd, Ph.D. · CC0*
 
-![Jigongshan (Rooster Mountain) - 10323739535.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jigongshan_%28Rooster_Mountain%29_-_10323739535.jpg/1280px-Jigongshan_%28Rooster_Mountain%29_-_10323739535.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Jigongshan (Rooster Mountain) - 10323737306.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Jigongshan_%28Rooster_Mountain%29_-_10323737306.jpg/1280px-Jigongshan_%28Rooster_Mountain%29_-_10323737306.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Jigongshan (Rooster Mountain) - 10323739535.jpg · Gary Lee Todd, Ph.D. · CC0*
+*Jigongshan (Rooster Mountain) - 10323737306.jpg · Gary Lee Todd, Ph.D. · CC0*
 
 ## 简介 / Introduction
 

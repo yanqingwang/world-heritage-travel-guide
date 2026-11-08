@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(vii)(ix)(x)"
 lat: 0.4425
 lon: 36.24
-updated_at: "2026-11-08T16:48:43Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 肯尼亚裂谷湖泊系统 / Kenya Lake System in the Great Rift Valley

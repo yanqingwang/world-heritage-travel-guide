@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "INR",
+  "currency_en": "Indian rupee",
+  "currency_zh": "印度卢比",
+  "currency_symbol": "₹",
+  "timezone_main": "UTC+05:30",
+  "drives_side": "left",
+  "idd_prefix": "+91",
+  "languages": [
+   "English",
+   "Hindi",
+   "Tamil"
+  ],
+  "plug_types": "C,D,M",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:11Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

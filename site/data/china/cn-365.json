@@ -10,7 +10,7 @@
  "city_zh": "长春市",
  "city_en": "Changchun",
  "name_zh": "长春市长影世纪城景区",
- "name_en": "Changchunshizhangyingshijicheng Scenic Area",
+ "name_en": "Zhangyingshijichengzhan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "changchunshizhangyingshijicheng-365",
  "lat": 43.868531,
@@ -31,7 +31,7 @@
    "author": "plump",
    "license": "CC BY-SA 3.0",
    "credit": "https://web.archive.org/web/20161012044328/http://www.panoramio.com/photo/14437563",
-   "source": "https://commons.wikimedia.org/wiki/File:长影世纪城轻轨站_-_panoramio.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%95%BF%E5%BD%B1%E4%B8%96%E7%BA%AA%E5%9F%8E%E8%BD%BB%E8%BD%A8%E7%AB%99_-_panoramio.jpg"
   }
  ],
  "web": "",
@@ -168,6 +168,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -179,9 +193,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/长影世纪城站"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:46Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-26441"
 dataset: "china_5a"
 name_zh: "柳州市程阳八寨景区"
-name_en: "Liuzhoushichengyangbazhai Scenic Area"
+name_en: "Chengyangyongjiqiao Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,18 @@ province_en: "Guangxi"
 city_en: "Liuzhou"
 lat: 25.903032
 lon: 109.647973
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 柳州市程阳八寨景区 / Liuzhoushichengyangbazhai Scenic Area
+# 柳州市程阳八寨景区 / Chengyangyongjiqiao Scenic Area
 
 > 广西壮族自治区 · 柳州市 · 自然风光
+
+## 图片 / Images
+
+![程阳永济桥3 (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg/1280px-%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*程阳永济桥3 (cropped).jpg · 三猎 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -58,4 +64,5 @@ Chengyang Bazhai Scenic Area is located in Sanjiang Dong Autonomous County, the 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/程阳永济桥)
 - [OpenStreetMap](https://www.openstreetmap.org/)

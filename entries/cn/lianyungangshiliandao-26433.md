@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Lianyungang"
 lat: 34.765512
 lon: 119.477774
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 连云港市连岛景区 / Lian Island

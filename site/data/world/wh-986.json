@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "VES",
+  "currency_en": "Venezuelan bolívar soberano",
+  "currency_zh": "Venezuelan bolívar soberano",
+  "currency_symbol": "Bs.S.",
+  "timezone_main": "UTC-04:00",
+  "drives_side": "",
+  "idd_prefix": "+58",
+  "languages": [
+   "Spanish"
+  ],
+  "plug_types": "A,B",
+  "voltage": "120V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:29Z"
+ "updated_at": "2026-11-08T20:30:02Z"
 }

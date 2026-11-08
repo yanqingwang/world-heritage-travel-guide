@@ -235,6 +235,20 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "IDR",
+  "currency_en": "Indonesian rupiah",
+  "currency_zh": "印尼盾",
+  "currency_symbol": "Rp",
+  "timezone_main": "UTC+07:00",
+  "drives_side": "left",
+  "idd_prefix": "+62",
+  "languages": [
+   "Indonesian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -271,5 +285,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:31Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

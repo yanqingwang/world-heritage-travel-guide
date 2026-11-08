@@ -163,6 +163,28 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "NAD",
+  "currency_en": "Namibian dollar",
+  "currency_zh": "Namibian dollar",
+  "currency_symbol": "$",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "left",
+  "idd_prefix": "+264",
+  "languages": [
+   "Afrikaans",
+   "English",
+   "German",
+   "Herero",
+   "Khoekhoe",
+   "Kwangali",
+   "Lozi",
+   "Ndonga",
+   "Tswana"
+  ],
+  "plug_types": "D,M",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -195,5 +217,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:05Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

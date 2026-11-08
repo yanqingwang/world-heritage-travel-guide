@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(iv)"
 lat: 47.639661
 lon: 4.389327
-updated_at: "2026-11-08T16:42:59Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 丰特莱的西斯特尔教团修道院 / Cistercian Abbey of Fontenay

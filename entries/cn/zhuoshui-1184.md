@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Qianjiang District"
 lat: 29.299416
 lon: 108.778624
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 濯水景区 / Zhuoshui Scenic Area
@@ -54,5 +54,4 @@ Zhuoshui Scenic Area is located on the banks of the Apeng River, the largest tri
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/濯水镇 (重庆市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

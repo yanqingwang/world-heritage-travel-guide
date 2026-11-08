@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)"
 lat: 59.275555555
 lon: 18.099444444
-updated_at: "2026-11-08T16:45:52Z"
+updated_at: "2026-11-08T20:29:59Z"
 ---
 
 # 斯科斯累格加登公墓 / Skogskyrkogården

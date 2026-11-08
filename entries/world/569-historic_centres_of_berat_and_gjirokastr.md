@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(iii)(iv)"
 lat: 40.07416667
 lon: 20.14083333
-updated_at: "2026-11-08T16:45:57Z"
+updated_at: "2026-11-08T20:29:59Z"
 ---
 
 # 吉诺卡斯特和培拉特历史中心 / Historic Centres of Berat and Gjirokastra

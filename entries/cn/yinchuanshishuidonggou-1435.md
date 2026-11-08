@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Yinchuan"
 lat: 38.296135
 lon: 106.515563
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 银川市水洞沟旅游区 / Yinchuan

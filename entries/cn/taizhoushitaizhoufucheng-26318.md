@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 28.85245
 lon: 121.12379
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 台州市台州府城文化旅游区 / Walled City of Taizhou Fu
@@ -30,9 +30,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *全国重点文物保护单位肇庆古城墙保护规划.pdf · 肇庆市人民政府 · Public domain*
 
-![Linhai Ancient City Wall 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Linhai_Ancient_City_Wall_01.jpg/1280px-Linhai_Ancient_City_Wall_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Linhai Ancient City Wall 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Linhai_Ancient_City_Wall_02.jpg/1280px-Linhai_Ancient_City_Wall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Linhai Ancient City Wall 01.jpg · 黑揍红 · CC BY 2.5*
+*Linhai Ancient City Wall 02.jpg · 黑揍红 · CC BY 2.5*
 
 ![Linhai Ancient City Wall 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Linhai_Ancient_City_Wall_03.jpg/1280px-Linhai_Ancient_City_Wall_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

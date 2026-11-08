@@ -26,12 +26,20 @@
  "intro_en_source": "wikipedia",
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Mingchangling201910.jpg/1280px-Mingchangling201910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mingchangling201910.jpg",
+   "author": "Charlie fong",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mingchangling201910.jpg"
+  },
+  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "2016年度全国博物馆名录.pdf",
    "author": "State Administration of Cultural Heritage",
    "license": "Public domain",
    "credit": "http://www.sach.gov.cn/module/download/downfile.jsp?classid=0&filename=1801091048478071079.xlsx",
-   "source": "https://commons.wikimedia.org/wiki/File:2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf"
+   "source": "https://commons.wikimedia.org/wiki/File:2016年度全国博物馆名录.pdf"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -39,7 +47,7 @@
    "author": "国家文物局",
    "license": "Public domain",
    "credit": "https://whly.gd.gov.cn/uploads/files/2016/1206/1480987302836001.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf"
+   "source": "https://commons.wikimedia.org/wiki/File:关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Ming_Tombs_Reservoir_After_Snow.jpg/1280px-Ming_Tombs_Reservoir_After_Snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,15 +63,7 @@
    "author": "Charlie fong",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stone_Camel_Along_The_Spirit_Way_at_Ming_Tombs.jpg/1280px-Stone_Camel_Along_The_Spirit_Way_at_Ming_Tombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Stone Camel Along The Spirit Way at Ming Tombs.jpg",
-   "author": "Charlie fong",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Stone_Camel_Along_The_Spirit_Way_at_Ming_Tombs.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty(WEST).jpg"
   }
  ],
  "web": "https://www.mingshisanling.com/",
@@ -211,6 +211,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -230,5 +244,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

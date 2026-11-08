@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iii)(iv)"
 lat: 51.030972222
 lon: 4.47375
-updated_at: "2026-11-08T16:48:07Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 佛兰德的比津社区 / Flemish Béguinages

@@ -122,6 +122,24 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "CDF",
+  "currency_en": "Congolese franc",
+  "currency_zh": "Congolese franc",
+  "currency_symbol": "FC",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "right",
+  "idd_prefix": "+243",
+  "languages": [
+   "French",
+   "Kikongo",
+   "Lingala",
+   "Swahili",
+   "Tshiluba"
+  ],
+  "plug_types": "C,E",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:46Z"
+ "updated_at": "2026-11-08T20:30:00Z"
 }

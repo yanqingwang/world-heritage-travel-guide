@@ -10,8 +10,8 @@
  "city_zh": "台州市",
  "city_en": "Taizhou City",
  "name_zh": "台州市天台山景区",
- "name_en": "Taizhoushitiantaishan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Tiantai Mountain",
+ "name_en_source": "wikipedia",
  "slug": "taizhoushitiantaishan-1403",
  "lat": 29.163259,
  "lon": 121.042193,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "天台山以佛教天台宗祖庭、道教南宗祖庭所在地和济公“活佛”的故乡而闻名于世。景区气候温和、历史悠久，自然景观和人文景观相互渗透，山、岩、洞、瀑各具神韵，形成了古、幽、清、奇的独特风格。",
- "intro_en": "Tiantai Mountain is famous for being the seat of the ancestral court of the Tiantai Sect of Buddhism, the ancestral home of the Southern Taoist Sect, and the hometown of Jigong’s “living Buddha”. The scenic spot has a mild climate and a long history. The natural landscape and cultural landscape interpenetrate each other. The mountains, rocks, caves and waterfalls have their own charm, forming a unique style of ancient, quiet, pure and strange.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Tiantai Mountain (also Tí Taî in the local language) is a mountain in Tiantai County, Taizhou, Zhejiang Province, China. Its highest peak, Huading, reaches a height of 1,138 meters (3,734 ft). It was designated a scenic area in 1985, with an area of 105 km2. One of nine remaining wild populations of Seven-Son Flower (Heptacodium miconioides) is located on mount Tiantai.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG/1280px-Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,15 +193,30 @@
  "hotels_nearby_30km": 6,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -211,9 +226,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天台山"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

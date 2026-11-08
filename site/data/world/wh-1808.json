@@ -114,6 +114,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "SSP",
+  "currency_en": "South Sudanese pound",
+  "currency_zh": "South Sudanese pound",
+  "currency_symbol": "£",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+211",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "C,D",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -149,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:06Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

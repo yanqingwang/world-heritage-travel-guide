@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 39.483206
 lon: 76.001757
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 喀什地区喀什古城景区 / Kashgar Prefecture

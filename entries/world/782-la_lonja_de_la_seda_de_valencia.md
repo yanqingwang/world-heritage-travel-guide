@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(iv)"
 lat: 39.474444444
 lon: -0.378333333
-updated_at: "2026-11-08T16:47:55Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 瓦伦西亚丝绸交易厅 / La Lonja de la Seda de Valencia

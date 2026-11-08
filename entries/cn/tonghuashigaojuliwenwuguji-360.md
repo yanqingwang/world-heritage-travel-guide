@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Tonghua City"
 lat: 41.183529
 lon: 126.11615
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 通化市高句丽文物古迹旅游景区 / Tonghuashigaojuliwenwuguji Scenic Area

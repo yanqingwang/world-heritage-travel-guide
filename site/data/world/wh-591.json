@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "THB",
+  "currency_en": "Thai baht",
+  "currency_zh": "泰铢",
+  "currency_symbol": "฿",
+  "timezone_main": "UTC+07:00",
+  "drives_side": "left",
+  "idd_prefix": "+66",
+  "languages": [
+   "Thai"
+  ],
+  "plug_types": "A,B,C",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:26Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

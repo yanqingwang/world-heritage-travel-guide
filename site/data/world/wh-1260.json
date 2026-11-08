@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "BAM",
+  "currency_en": "Bosnia and Herzegovina convertible mark",
+  "currency_zh": "Bosnia and Herzegovina convertible mark",
+  "currency_symbol": "KM",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+387",
+  "languages": [
+   "Bosnian",
+   "Croatian",
+   "Serbian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:48Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

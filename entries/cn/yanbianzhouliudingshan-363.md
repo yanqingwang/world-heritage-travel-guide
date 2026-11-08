@@ -2,7 +2,7 @@
 id: "cn-363"
 dataset: "china_5a"
 name_zh: "延边州六鼎山文化旅游区"
-name_en: "Yanbianzhouliudingshan Cultural Tourism Area"
+name_en: "Ding Cultural Tourism Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jilin"
 city_en: "Yanbian Korean Autonomous Prefecture"
 lat: 43.329782
 lon: 128.251207
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 延边州六鼎山文化旅游区 / Yanbianzhouliudingshan Cultural Tourism Area
+# 延边州六鼎山文化旅游区 / Ding Cultural Tourism Area
 
 > 吉林省 · 延边朝鲜族自治州 · 山地风光
 
@@ -58,4 +58,5 @@ Dunhua Liudingshan Cultural Tourism Zone is located on the south bank of Mudanji
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/鼎)
 - [OpenStreetMap](https://www.openstreetmap.org/)

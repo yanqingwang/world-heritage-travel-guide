@@ -13,7 +13,7 @@ province_en: "Tibet"
 city_en: "Lhasa"
 lat: 29.660346
 lon: 91.125038
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 拉萨市布达拉宫景区 / Potala Palace

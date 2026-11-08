@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "PKR",
+  "currency_en": "Pakistani rupee",
+  "currency_zh": "Pakistani rupee",
+  "currency_symbol": "₨",
+  "timezone_main": "UTC+05:00",
+  "drives_side": "left",
+  "idd_prefix": "+92",
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "plug_types": "C,D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:43:04Z"
+ "updated_at": "2026-11-08T20:29:57Z"
 }

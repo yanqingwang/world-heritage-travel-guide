@@ -2,7 +2,7 @@
 id: "cn-344"
 dataset: "china_5a"
 name_zh: "南京市夫子庙-秦淮风光带"
-name_en: "Nanjingshifuzimiao-qinhuaifengguangdai"
+name_en: "Nanjingfuzimiao"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,26 @@ province_en: "Jiangsu"
 city_en: "Nanjing"
 lat: 32.027197
 lon: 118.794426
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 南京市夫子庙-秦淮风光带 / Nanjingshifuzimiao-qinhuaifengguangdai
+# 南京市夫子庙-秦淮风光带 / Nanjingfuzimiao
 
 > 江苏省 · 南京市 · 皇家园林
+
+## 图片 / Images
+
+![Gate of Nanjing Fuzi Temple 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Gate_of_Nanjing_Fuzi_Temple_2.jpg/1280px-Gate_of_Nanjing_Fuzi_Temple_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gate of Nanjing Fuzi Temple 2.jpg · そらみみ · CC BY-SA 4.0*
+
+![Riverside near Fuzi Miao.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Riverside_near_Fuzi_Miao.jpg/1280px-Riverside_near_Fuzi_Miao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Riverside near Fuzi Miao.jpg · Kinden Kuo · CC BY-SA 2.0*
+
+![统计用区划代码和城乡划分代码 江苏.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E7%BB%9F%E8%AE%A1%E7%94%A8%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81%E5%92%8C%E5%9F%8E%E4%B9%A1%E5%88%92%E5%88%86%E4%BB%A3%E7%A0%81_%E6%B1%9F%E8%8B%8F.pdf/page1-960px-%E7%BB%9F%E8%AE%A1%E7%94%A8%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81%E5%92%8C%E5%9F%8E%E4%B9%A1%E5%88%92%E5%88%86%E4%BB%A3%E7%A0%81_%E6%B1%9F%E8%8B%8F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*统计用区划代码和城乡划分代码 江苏.pdf · National Bureau of Statistics of the People's Republic of China · Public domain*
 
 ## 简介 / Introduction
 
@@ -60,4 +74,5 @@ The Qinhuai River is five kilometers long and is known as the "Ten Miles of Qinh
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/南京夫子庙)
 - [OpenStreetMap](https://www.openstreetmap.org/)

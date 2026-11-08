@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Dongcheng District"
 lat: 39.885038
 lon: 116.428525
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 天坛公园 / Temple of Heaven

@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "GHS",
+  "currency_en": "Ghanaian cedi",
+  "currency_zh": "Ghanaian cedi",
+  "currency_symbol": "₵",
+  "timezone_main": "UTC+00:00",
+  "drives_side": "left",
+  "idd_prefix": "+233",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:42:32Z"
+ "updated_at": "2026-11-08T20:29:56Z"
 }

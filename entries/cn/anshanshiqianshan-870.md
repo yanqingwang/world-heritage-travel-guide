@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Anshan City"
 lat: 41.035262
 lon: 123.148632
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 鞍山市千山景区 / Qianshan
@@ -26,13 +26,13 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *ChinaAnqingQianshan.png · Slb nsk · CC BY-SA 4.0*
 
-![Platform 1 of Qianshan Railway Station (20260215220627).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Platform_1_of_Qianshan_Railway_Station_%2820260215220627%29.jpg/1280px-Platform_1_of_Qianshan_Railway_Station_%2820260215220627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Platform 1 of Qianshan Railway Station (20260215220627).jpg · N509FZ · CC BY-SA 4.0*
-
 ![Qianshan Bridge, Zhuhai.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Qianshan_Bridge%2C_Zhuhai.jpg/1280px-Qianshan_Bridge%2C_Zhuhai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Qianshan Bridge, Zhuhai.jpg · 钉钉 · CC BY-SA 4.0*
+
+![Qianshan Maitreya Buddha.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Qianshan_Maitreya_Buddha.jpg/1280px-Qianshan_Maitreya_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Qianshan Maitreya Buddha.jpg · Yoshi Canopus · CC BY-SA 4.0*
 
 ![Taiwan barbet (Psilopogon nuchalis) Qianshan 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Taiwan_barbet_%28Psilopogon_nuchalis%29_Qianshan_2.jpg/1280px-Taiwan_barbet_%28Psilopogon_nuchalis%29_Qianshan_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

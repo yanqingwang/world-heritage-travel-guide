@@ -136,6 +136,20 @@
   }
  ],
  "visa_summary": "mixed",
+ "country_info": {
+  "currency_code": "MNT",
+  "currency_en": "Mongolian tögrög",
+  "currency_zh": "Mongolian tögrög",
+  "currency_symbol": "₮",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "",
+  "idd_prefix": "+976",
+  "languages": [
+   "Mongolian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -172,5 +186,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:51Z"
+ "updated_at": "2026-11-08T20:30:00Z"
 }

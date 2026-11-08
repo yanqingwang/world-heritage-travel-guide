@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Kunming"
 lat: 25.080626
 lon: 102.769359
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 昆明市昆明世博园景区 / Kunmingshikunmingshiboyuan Scenic Area
@@ -80,5 +80,4 @@ The Kunming World Expo Park Scenic Area in Kunming is the site of the 1999 Kunmi
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/世博园站 (昆明市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -284,6 +284,23 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "SGD",
+  "currency_en": "Singapore dollar",
+  "currency_zh": "新加坡元",
+  "currency_symbol": "$",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "left",
+  "idd_prefix": "+65",
+  "languages": [
+   "Chinese",
+   "English",
+   "Malay",
+   "Tamil"
+  ],
+  "plug_types": "G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -320,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:23Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

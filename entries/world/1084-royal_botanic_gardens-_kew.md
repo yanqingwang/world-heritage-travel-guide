@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iii)(iv)"
 lat: 51.478888888
 lon: -0.293611111
-updated_at: "2026-11-08T16:48:43Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 伦敦基尤皇家植物园 / Royal Botanic Gardens, Kew

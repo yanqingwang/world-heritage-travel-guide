@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Hengshui City"
 lat: 37.610179
 lon: 115.618063
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 衡水市衡水湖旅游景区 / Hengshuihu Scenic Area
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:45Z"
 > 河北省 · 衡水市 · 主题乐园
 
 ## 图片 / Images
+
+![Hengshui Lake, Hebei, China3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Hengshui_Lake%2C_Hebei%2C_China3.jpg/1280px-Hengshui_Lake%2C_Hebei%2C_China3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hengshui Lake, Hebei, China3.jpg · 王计 · CC BY 2.5*
 
 ![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf · 国家文物局 · Public domain*
-
-![唐山南湖、东湖及周边区域概念性城市设计.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E5%94%90%E5%B1%B1%E5%8D%97%E6%B9%96%E3%80%81%E4%B8%9C%E6%B9%96%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%8C%BA%E5%9F%9F%E6%A6%82%E5%BF%B5%E6%80%A7%E5%9F%8E%E5%B8%82%E8%AE%BE%E8%AE%A1.pdf/page1-1280px-%E5%94%90%E5%B1%B1%E5%8D%97%E6%B9%96%E3%80%81%E4%B8%9C%E6%B9%96%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%8C%BA%E5%9F%9F%E6%A6%82%E5%BF%B5%E6%80%A7%E5%9F%8E%E5%B8%82%E8%AE%BE%E8%AE%A1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*唐山南湖、东湖及周边区域概念性城市设计.pdf · 唐山市城乡规划局 · Public domain*
 
 ## 简介 / Introduction
 

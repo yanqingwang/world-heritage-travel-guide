@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 20.55341667
 lon: 75.70047222
-updated_at: "2026-11-08T16:44:01Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 阿旃陀石窟群 / Ajanta Caves

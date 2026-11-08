@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 52.521388888
 lon: 13.395555555
-updated_at: "2026-11-08T16:48:13Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 柏林的博物馆岛 / Museumsinsel (Museum Island), Berlin

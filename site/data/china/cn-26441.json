@@ -10,7 +10,7 @@
  "city_zh": "柳州市",
  "city_en": "Liuzhou",
  "name_zh": "柳州市程阳八寨景区",
- "name_en": "Liuzhoushichengyangbazhai Scenic Area",
+ "name_en": "Chengyangyongjiqiao Scenic Area",
  "name_en_source": "pinyin",
  "slug": "liuzhoushichengyangbazhai-26441",
  "lat": 25.903032,
@@ -24,7 +24,16 @@
  "intro_zh": "程阳八寨景区位于广西唯一的侗族自治县——三江侗族自治县境内，由马鞍、平寨、岩寨、平坦、懂寨、大寨、平铺、吉昌八个自然村寨组成，上万侗族人世居于此，创造了丰富多彩、灿烂辉煌的侗族文化。",
  "intro_en": "Chengyang Bazhai Scenic Area is located in Sanjiang Dong Autonomous County, the only Dong autonomous county in Guangxi. It consists of eight natural villages: Ma'an, Pingzhai, Yanzhai, Pingping, Dangzhai, Dazhai, Pingpu and Jichang. Tens of thousands of Dong people have lived here, creating a rich, colorful and splendid Dong culture.",
  "intro_en_source": "machine_translation",
- "images": [],
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg/1280px-%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "程阳永济桥3 (cropped).jpg",
+   "author": "三猎",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%A8%8B%E9%98%B3%E6%B0%B8%E6%B5%8E%E6%A1%A53_%28cropped%29.jpg"
+  }
+ ],
  "web": "",
  "booking": "http://www.sjcybz.com/Content/1896427.html",
  "transport": {
@@ -159,6 +168,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -170,9 +193,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/程阳永济桥"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

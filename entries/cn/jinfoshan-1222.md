@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Nanchuan District"
 lat: 29.158193
 lon: 107.110746
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 金佛山景区 / Mount Jinfo
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:45Z"
 > 重庆市 · 南川区 · 宗教文化
 
 ## 图片 / Images
+
+![Mount. Jinfo 1.JPG](https://upload.wikimedia.org/wikipedia/commons/4/42/Mount._Jinfo_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Mount. Jinfo 1.JPG · Wenchi Jin · CC BY-SA 4.0*
 
 ![GA 36-2014.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/GA_36-2014.pdf/page1-960px-GA_36-2014.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![城镇化地区综合交通网规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf/page1-960px-%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*城镇化地区综合交通网规划.pdf · National Development and Reform Commission and Ministry of Transport, People's Republic of China · Public domain*
 
 ## 简介 / Introduction
 

@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Zhaoyang District"
 lat: 39.999245
 lon: 116.399206
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 北京奥林匹克公园 / Olympic Green

@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)"
 lat: 40.42
 lon: 15.005555555
-updated_at: "2026-11-08T16:48:07Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 奇伦托和迪亚诺河谷国家公园，帕埃斯图姆和韦利亚考古遗址 / Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula

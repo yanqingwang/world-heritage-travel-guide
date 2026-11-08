@@ -10,8 +10,8 @@
  "city_zh": "威海市",
  "city_en": "Weihai",
  "name_zh": "威海市威海华夏城景区",
- "name_en": "Weihaishiweihaihuaxiacheng Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Weihai",
+ "name_en_source": "wikipedia",
  "slug": "weihaishiweihaihuaxiacheng-1404",
  "lat": 37.429984,
  "lon": 122.122166,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "景区以展示东方古典文化为主，是一处自然山水和悦生美、人文建筑相得益彰、民俗演艺璀璨生辉、吃住行游娱购全面发展的大型生态文化旅游区，被评为国家级文化产业示范基地。",
- "intro_en": "The scenic area mainly displays oriental classical culture. It is a large-scale ecological cultural tourism area with natural landscapes and beautiful scenery, humanities and architecture complementing each other, splendid folk performances, and comprehensive development of food, accommodation, travel, entertainment and shopping. It has been rated as a national cultural industry demonstration base.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Weihai (Weihainese: Wé4iHæ, [ʋeɪ̯˥˩ hɛ̆꜌]; Chinese: 威海; pinyin: Wēihǎi), formerly Weihaiwei (Chinese: 威海卫; pinyin: Wēihǎiwèi; lit. 'Mighty Sea Fort'), is a prefecture-level city and major seaport city in the easternmost Shandong province of China. It borders Yantai to the west and the Yellow Sea to the east, and is the closest mainland Chinese city to South Korea (specifically, Chengshan to Yeonpyeongdo). Compared with the 2,804,771 people in the 2010 Chinese census, there has been a total increase of 101,777 people over the past decade, an increase of 3.63%, with an average annual growth rate of 0.36%. Weihai's population was 2,906,548 as of the 2020 Chinese census, of whom 1,164,730 lived in the current built-up (or metro) area of (Huancui District) even though Wendeng district to the south with 563,529 inhabitants is soon being conurbated. There are two county-level cities within Weihai; Rongcheng had a built up area with 714,211 inhabitants, while Rushan had 464,078 inhabitants in 2020.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Weihai_City.jpg/1280px-Weihai_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,15 +193,30 @@
  "hotels_nearby_30km": 23,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -211,9 +226,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/威海市"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

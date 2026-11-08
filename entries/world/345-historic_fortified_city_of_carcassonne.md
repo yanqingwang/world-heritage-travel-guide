@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)"
 lat: 43.206439
 lon: 2.363788
-updated_at: "2026-11-08T16:45:16Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 卡尔卡松历史城墙要塞 / Historic Fortified City of Carcassonne

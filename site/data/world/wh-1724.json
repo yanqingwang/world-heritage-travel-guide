@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "AED",
+  "currency_en": "United Arab Emirates dirham",
+  "currency_zh": "迪拉姆",
+  "currency_symbol": "د.إ",
+  "timezone_main": "UTC+04:00",
+  "drives_side": "",
+  "idd_prefix": "+971",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "C,D,G",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:00Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Changsha"
 lat: 28.189122
 lon: 112.943867
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 长沙市岳麓山-橘子洲旅游区 / Orange Isle

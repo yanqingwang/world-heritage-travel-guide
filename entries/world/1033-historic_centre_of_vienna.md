@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)(vi)"
 lat: 48.2084
 lon: 16.3722
-updated_at: "2026-11-08T16:48:37Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 维也纳历史中心 / Historic Centre of Vienna

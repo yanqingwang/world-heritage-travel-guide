@@ -2,7 +2,7 @@
 id: "cn-1108"
 dataset: "china_5a"
 name_zh: "西安市秦始皇帝陵博物院景区"
-name_en: "Xianshiqinshihuangdilingbowuyuan Scenic Area"
+name_en: "Qinshihuangling Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,18 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.394463
 lon: 109.29079
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 西安市秦始皇帝陵博物院景区 / Xianshiqinshihuangdilingbowuyuan Scenic Area
+# 西安市秦始皇帝陵博物院景区 / Qinshihuangling Scenic Area
 
 > 陕西省 · 西安市 · 历史遗址
+
+## 图片 / Images
+
+![秦始皇帝陵·秦始皇陵·西安臨潼·（封土正北側）.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%C2%B7%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%C2%B7%E8%A5%BF%E5%AE%89%E8%87%A8%E6%BD%BC%C2%B7%EF%BC%88%E5%B0%81%E5%9C%9F%E6%AD%A3%E5%8C%97%E5%81%B4%EF%BC%89.jpg/1280px-%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%C2%B7%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%C2%B7%E8%A5%BF%E5%AE%89%E8%87%A8%E6%BD%BC%C2%B7%EF%BC%88%E5%B0%81%E5%9C%9F%E6%AD%A3%E5%8C%97%E5%81%B4%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*秦始皇帝陵·秦始皇陵·西安臨潼·（封土正北側）.jpg · Legolas1024 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -58,4 +64,5 @@ The museum is a heritage museum based on the Terracotta Warriors and Horses of Q
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/秦始皇陵)
 - [OpenStreetMap](https://www.openstreetmap.org/)

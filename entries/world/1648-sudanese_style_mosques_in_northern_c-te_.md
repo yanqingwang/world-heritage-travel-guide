@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: 10.490317
 lon: -6.410167
-updated_at: "2026-11-08T16:50:56Z"
+updated_at: "2026-11-08T20:30:06Z"
 ---
 
 # 科特迪瓦北部的苏丹式清真寺 / Sudanese style mosques in northern Côte d’Ivoire

@@ -114,6 +114,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "CLP",
+  "currency_en": "Chilean peso",
+  "currency_zh": "智利比索",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-04:00",
+  "drives_side": "",
+  "idd_prefix": "+56",
+  "languages": [
+   "Spanish"
+  ],
+  "plug_types": "C,L",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -150,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:23Z"
+ "updated_at": "2026-11-08T20:30:02Z"
 }

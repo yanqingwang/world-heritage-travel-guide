@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(i)(iv)"
 lat: 47.593333333
 lon: -3.079722222
-updated_at: "2026-11-08T16:51:02Z"
+updated_at: "2026-11-08T20:30:06Z"
 ---
 
 # 卡纳克和莫尔比昂海岸巨石林 / Megaliths of Carnac and of the shores of Morbihan

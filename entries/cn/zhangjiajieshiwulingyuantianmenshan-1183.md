@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Zhangjiajie"
 lat: 29.360276
 lon: 110.402594
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 张家界市武陵源-天门山旅游区 / Tianmen Mountain
@@ -22,6 +22,10 @@ updated_at: "2026-11-08T15:57:45Z"
 
 ## 图片 / Images
 
+![Tianmen 38330-Zhangjiajie (49047525877).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg/1280px-Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tianmen 38330-Zhangjiajie (49047525877).jpg · xiquinhosilva · CC BY 2.0*
+
 ![Solar effect with Tianmen Mountain 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Solar_effect_with_Tianmen_Mountain_01.jpg/1280px-Solar_effect_with_Tianmen_Mountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Solar effect with Tianmen Mountain 01.jpg · Codas · CC BY-SA 4.0*
@@ -29,10 +33,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![Solar effect with Tianmen Mountain 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Solar_effect_with_Tianmen_Mountain_02.jpg/1280px-Solar_effect_with_Tianmen_Mountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Solar effect with Tianmen Mountain 02.jpg · Codas · CC BY-SA 4.0*
-
-![Tianmen 38330-Zhangjiajie (49047525877).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg/1280px-Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianmen 38330-Zhangjiajie (49047525877).jpg · xiquinhosilva · CC BY 2.0*
 
 ![Tianmen Mountain Heaven Gate arch Zhangjiajie.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Tianmen_Mountain_Heaven_Gate_arch_Zhangjiajie.jpg/1280px-Tianmen_Mountain_Heaven_Gate_arch_Zhangjiajie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Linxiahuizu Autonomous Prefecture"
 lat: 36.021258
 lon: 103.742572
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 临夏州炳灵寺世界文化遗产旅游区 / Linxiazhoubinglingsishijiewenhuayichan Tourist Area
@@ -59,4 +59,5 @@ Bingling Temple is located in Xiaojishi Mountain 35 kilometers southwest of Yong
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/中華人民共和國世界遺產列表)
 - [OpenStreetMap](https://www.openstreetmap.org/)

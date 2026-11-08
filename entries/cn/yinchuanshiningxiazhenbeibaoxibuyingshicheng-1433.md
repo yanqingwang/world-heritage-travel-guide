@@ -2,7 +2,7 @@
 id: "cn-1433"
 dataset: "china_5a"
 name_zh: "银川市宁夏镇北堡西部影视城"
-name_en: "Yingshicheng"
+name_en: "Yinchuanshiningxiazhenbeibaoxibuyingshicheng"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Ningxia"
 city_en: "Yinchuan"
 lat: 38.623035
 lon: 106.074791
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 银川市宁夏镇北堡西部影视城 / Yingshicheng
+# 银川市宁夏镇北堡西部影视城 / Yinchuanshiningxiazhenbeibaoxibuyingshicheng
 
 > 宁夏回族自治区 · 银川市 · 宗教文化
 
@@ -60,5 +60,4 @@ Zhenbeibao Western Cinema is located in Yinchuan City, Ningxia Hui Autonomous Re
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/影视城)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(viii)"
 lat: 51.424722222
 lon: -116.479722222
-updated_at: "2026-11-08T16:44:23Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 加拿大落基山公园 / Canadian Rocky Mountain Parks

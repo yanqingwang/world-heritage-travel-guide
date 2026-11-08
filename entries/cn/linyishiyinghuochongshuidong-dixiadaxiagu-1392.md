@@ -2,7 +2,7 @@
 id: "cn-1392"
 dataset: "china_5a"
 name_zh: "临沂市萤火虫水洞•地下大峡谷旅游区"
-name_en: "Linyishiyinghuochongshuidong•dixiadaxiagu Tourist Area"
+name_en: "Tianshandaxiagu Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,18 @@ province_en: "Shandong"
 city_en: "Linyi"
 lat: 35.715492
 lon: 118.458368
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 临沂市萤火虫水洞•地下大峡谷旅游区 / Linyishiyinghuochongshuidong•dixiadaxiagu Tourist Area
+# 临沂市萤火虫水洞•地下大峡谷旅游区 / Tianshandaxiagu Tourist Area
 
 > 山东省 · 临沂市 · 地质奇观
+
+## 图片 / Images
+
+![天山托木尔大峡谷 - panoramio (5).jpg](https://upload.wikimedia.org/wikipedia/commons/7/7d/%E5%A4%A9%E5%B1%B1%E6%89%98%E6%9C%A8%E5%B0%94%E5%A4%A7%E5%B3%A1%E8%B0%B7_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*天山托木尔大峡谷 - panoramio (5).jpg · landagent · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -57,4 +63,5 @@ Shandong Underground Grand Canyon is a unique cave kingdom and the core scenic s
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/天山大峡谷)
 - [OpenStreetMap](https://www.openstreetmap.org/)

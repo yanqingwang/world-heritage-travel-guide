@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Qiandongnanmiaozudongzu Autonomous Prefecture"
 lat: 27.055783
 lon: 108.42516
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 黔东南州镇远县镇远古城旅游景区 / Zhenyuan County, Guizhou
@@ -30,6 +30,10 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *Guizhou Zhenyuan Ancient Town1.jpg · 杰·影 · CC BY 2.5*
 
+![Guizhou Zhenyuan Ancient Town2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Guizhou_Zhenyuan_Ancient_Town2.jpg/1280px-Guizhou_Zhenyuan_Ancient_Town2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Guizhou Zhenyuan Ancient Town2.jpg · 杰·影 · CC BY 2.5*
+
 ![Guizhou Zhenyuan Ancient Town3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Guizhou_Zhenyuan_Ancient_Town3.jpg/1280px-Guizhou_Zhenyuan_Ancient_Town3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Guizhou Zhenyuan Ancient Town3.jpg · 杰·影 · CC BY 2.5*
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![Guizhou Zhenyuan Ancient Town4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Guizhou_Zhenyuan_Ancient_Town4.jpg/1280px-Guizhou_Zhenyuan_Ancient_Town4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Guizhou Zhenyuan Ancient Town4.jpg · 杰·影 · CC BY 2.5*
-
-![Guizhou Zhenyuan Ancient Town4 (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Guizhou_Zhenyuan_Ancient_Town4_%28cropped%29.jpg/1280px-Guizhou_Zhenyuan_Ancient_Town4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Guizhou Zhenyuan Ancient Town4 (cropped).jpg · 杰·影 · CC BY 2.5*
 
 ## 简介 / Introduction
 

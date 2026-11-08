@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)(v)"
 lat: 48.46111
 lon: 18.9
-updated_at: "2026-11-08T16:47:31Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 历史名城班斯卡－什佳夫尼察及其工程建筑区 / Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity

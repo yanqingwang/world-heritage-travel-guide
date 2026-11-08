@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iii)(vi)"
 lat: 21.0325
 lon: 105.83972
-updated_at: "2026-11-08T16:49:59Z"
+updated_at: "2026-11-08T20:30:04Z"
 ---
 
 # 河内升龙皇城 / Central Sector of the Imperial Citadel of Thang Long - Hanoi

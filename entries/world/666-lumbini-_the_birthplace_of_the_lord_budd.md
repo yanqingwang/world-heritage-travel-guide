@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iii)(vi)"
 lat: 27.4814
 lon: 83.275829
-updated_at: "2026-11-08T16:47:39Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 佛祖诞生地兰毗尼 / Lumbini, the Birthplace of the Lord Buddha

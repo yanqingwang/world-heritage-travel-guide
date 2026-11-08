@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "KHR",
+  "currency_en": "Cambodian riel",
+  "currency_zh": "Cambodian riel",
+  "currency_symbol": "៛",
+  "timezone_main": "UTC+07:00",
+  "drives_side": "",
+  "idd_prefix": "+855",
+  "languages": [
+   "Khmer"
+  ],
+  "plug_types": "A,C,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -155,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:31Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "九江市",
  "city_en": "Jiujiang",
  "name_zh": "九江市永修县庐山西海景区",
- "name_en": "Jiujiangshiyongxiuxianlushanxihai Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Mount Lu",
+ "name_en_source": "wikipedia",
  "slug": "jiujiangshiyongxiuxianlushanxihai-1449",
  "lat": 29.200974,
  "lon": 115.479351,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "庐山西海风景名胜区位于江西省北部、九江市西南部，地跨武宁、永修两县，是一处集亚洲最大土坝水库、国家水利风景区、国家森林公园为一体的山岳湖泊型特大景区，由庐山西海湖区和云居山两大板块组成。",
- "intro_en": "The Lushan West Sea Scenic Area is located in the north of Jiangxi Province and the southwest of Jiujiang City, spanning Wuning and Yongxiu counties. It is a mountain and lake-type mega-scenic area integrating Asia's largest earth dam reservoir, a national water conservancy scenic spot, and a national forest park. It is composed of two major blocks, the Lushan West Sea Lake Area and the Yunju Mountain.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Mount Lu or Lushan (simplified Chinese: 庐山; traditional Chinese: 廬山; pinyin: Lúshān, Gan: Lu-san) is a mountain situated in Jiujiang, Jiangxi, China. It was also known as Kuanglu (匡廬) in ancient times. The mountain and its immediate area are officially designated as the Lushan National Park, and it is one of the most renowned mountains in the country. Mount Lu is located primarily in Lushan City within Jiujiang, although its northern portions are found in Jiujiang's Lianxi District. The oval-shaped mountains are about 25 kilometers (16 mi) long and 10 kilometers (6.2 mi) wide, and neighbors Jiujiang and the Yangtze River to the north, Nanchang to the south, and Poyang Lake to the east. Its highest point is Dahanyang Peak (大汉阳峰), reaching 1,474 meters (4,836 ft) above sea level. Dahayang Peak is also one of the hundreds of steep peaks that tower above the so-called sea of clouds that can encompass the mountain for almost 200 days each year. Mount Lu is known for its grandeur, steepness, and beauty and is a prominent tourist attraction, especially during the summer months when the weather is cooler in the mountains than elsewhere. The mountain and the surrounding region is also one o",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%E5%BA%90%E5%B1%B1%E6%97%A5%E5%87%BA.JPG/1280px-%E5%BA%90%E5%B1%B1%E6%97%A5%E5%87%BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -182,15 +182,30 @@
  "hotels_nearby_30km": 4,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -200,9 +215,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/庐山"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

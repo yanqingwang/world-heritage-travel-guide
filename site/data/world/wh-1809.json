@@ -260,6 +260,20 @@
   }
  ],
  "visa_summary": "unknown",
+ "country_info": {
+  "currency_code": "EGP",
+  "currency_en": "Egyptian pound",
+  "currency_zh": "埃及镑",
+  "currency_symbol": "E£",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+970",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "C,H",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": false,
   "en": true,
@@ -289,5 +303,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:08Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(iii)(iv)"
 lat: -20.143291666
 lon: 28.423436111
-updated_at: "2026-11-08T16:45:16Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 卡米国家遗址纪念地 / Khami Ruins National Monument

@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Wuhu"
 lat: 31.38341
 lon: 118.382539
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 芜湖市方特旅游区 / Wuhu
@@ -37,6 +37,10 @@ updated_at: "2026-11-08T15:57:46Z"
 ![长江三角洲城市群发展规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *长江三角洲城市群发展规划.pdf · 中华人民共和国国家发展和改革委员会 · Public domain*
+
+![Centraal plein in Wuhu, China.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c6/Centraal_plein_in_Wuhu%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Centraal plein in Wuhu, China.jpg · LianIsland · CC BY 4.0*
 
 ## 简介 / Introduction
 

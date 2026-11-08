@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Leshan"
 lat: 29.573827
 lon: 103.356304
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 乐山市峨眉山景区 / Mount Emei

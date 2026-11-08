@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Luoyang"
 lat: 34.567674
 lon: 112.484359
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 洛阳市龙门石窟景区 / Longmen Grottoes

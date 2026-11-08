@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Pengshuimiaozutujiazuzizhi County"
 lat: 29.157019
 lon: 108.126989
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 阿依河景区 / Ayihe Scenic Area
@@ -76,5 +76,4 @@ The Ayi River originates from Fenshui Township, Wuchuan County, Guizhou Province
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/阿依河)
 - [OpenStreetMap](https://www.openstreetmap.org/)

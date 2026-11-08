@@ -114,6 +114,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "USD",
+  "currency_en": "United States dollar",
+  "currency_zh": "美元",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-05:00",
+  "drives_side": "right",
+  "idd_prefix": "+1201",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "A,B",
+  "voltage": "120V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -150,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:23Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

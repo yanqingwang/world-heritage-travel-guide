@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 43.725
 lon: 12.63333
-updated_at: "2026-11-08T16:48:00Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 乌尔比诺历史中心 / Historic Centre of Urbino

@@ -284,6 +284,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "VND",
+  "currency_en": "Vietnamese đồng",
+  "currency_zh": "越南盾",
+  "currency_symbol": "₫",
+  "timezone_main": "UTC+07:00",
+  "drives_side": "",
+  "idd_prefix": "+84",
+  "languages": [
+   "Vietnamese"
+  ],
+  "plug_types": "A,C",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -320,5 +334,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:40Z"
+ "updated_at": "2026-11-08T20:30:00Z"
 }

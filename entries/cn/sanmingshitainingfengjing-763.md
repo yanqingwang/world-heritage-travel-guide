@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Sanming"
 lat: 26.869942
 lon: 117.108373
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 三明市泰宁风景旅游区 / Sanmingshitainingfengjing Tourist Area
@@ -22,25 +22,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 ## 图片 / Images
 
-![Sanming City View 2025-07-19.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sanming_City_View_2025-07-19.jpg/1280px-Sanming_City_View_2025-07-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Water-of-Five-colored-Pond Huanglong Sichuan China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sanming City View 2025-07-19.jpg · Randall Ferry · CC BY-SA 4.0*
-
-![Administrative Division Sanming (before 2021).png](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Administrative_Division_Sanming_%28before_2021%29.png/1280px-Administrative_Division_Sanming_%28before_2021%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Administrative Division Sanming (before 2021).png · Chk2011 · CC BY-SA 3.0*
-
-![Bikou Bridge 2022-12-23.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bikou_Bridge_2022-12-23.jpg/1280px-Bikou_Bridge_2022-12-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Bikou Bridge 2022-12-23.jpg · Randall Ferry · CC BY-SA 4.0*
-
-![SanMing.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/SanMing.JPG/1280px-SanMing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*SanMing.JPG · PanShiBo · CC BY-SA 3.0*
-
-![Sanming City View 2025-07-19 banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Sanming_City_View_2025-07-19_banner.jpg/1280px-Sanming_City_View_2025-07-19_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Sanming City View 2025-07-19 banner.jpg · Randall Ferry · CC BY-SA 4.0*
+*Water-of-Five-colored-Pond Huanglong Sichuan China.jpg · Kounosu · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -76,4 +60,5 @@ Taining Scenic Area is located on the southeast side of the Shanling branch in t
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

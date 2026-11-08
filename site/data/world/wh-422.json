@@ -114,6 +114,20 @@
   }
  ],
  "visa_summary": "unknown",
+ "country_info": {
+  "currency_code": "GBP",
+  "currency_en": "British pound",
+  "currency_zh": "英镑",
+  "currency_symbol": "£",
+  "timezone_main": "UTC+00:00",
+  "drives_side": "left",
+  "idd_prefix": "+44",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": false,
   "en": true,
@@ -148,5 +162,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:34Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

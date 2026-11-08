@@ -26,6 +26,14 @@
  "intro_en_source": "wikipedia",
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Thousand_Island_Lake.JPG/1280px-Thousand_Island_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Thousand Island Lake.JPG",
+   "author": "ZHart",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Thousand_Island_Lake.JPG"
+  },
+  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Hai_Rui_Temple_at_Qiandao_Lake.JPG/1280px-Hai_Rui_Temple_at_Qiandao_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "Hai Rui Temple at Qiandao Lake.JPG",
    "author": "JesseW900",
@@ -47,7 +55,7 @@
    "author": "Pauloleong2002",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Qiandao_Lake_%28near_Hangzhou%29.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Qiandao_Lake_(near_Hangzhou).jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Qiandao_Lake_%28near_Hangzhou%29_2.jpg/1280px-Qiandao_Lake_%28near_Hangzhou%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,15 +63,7 @@
    "author": "Pauloleong2002",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Qiandao_Lake_%28near_Hangzhou%29_2.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Qiandao_Lake_%28near_Hangzhou%29_3.jpg/1280px-Qiandao_Lake_%28near_Hangzhou%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Qiandao Lake (near Hangzhou) 3.jpg",
-   "author": "Pauloleong2002",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Qiandao_Lake_%28near_Hangzhou%29_3.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Qiandao_Lake_(near_Hangzhou)_2.jpg"
   }
  ],
  "web": "",
@@ -201,6 +201,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -220,5 +234,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

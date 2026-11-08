@@ -284,6 +284,20 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "MMK",
+  "currency_en": "Burmese kyat",
+  "currency_zh": "Burmese kyat",
+  "currency_symbol": "Ks",
+  "timezone_main": "UTC+06:30",
+  "drives_side": "",
+  "idd_prefix": "+95",
+  "languages": [
+   "Burmese"
+  ],
+  "plug_types": "C,D,F,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -320,5 +334,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:41Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

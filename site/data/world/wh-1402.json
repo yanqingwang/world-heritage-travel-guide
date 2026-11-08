@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "QAR",
+  "currency_en": "Qatari riyal",
+  "currency_zh": "卡塔尔里亚尔",
+  "currency_symbol": "ر.ق",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+974",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "D,G",
+  "voltage": "240V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -154,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:05Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

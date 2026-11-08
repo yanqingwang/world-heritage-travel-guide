@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Xinxiang"
 lat: 35.550987
 lon: 113.629414
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 新乡市八里沟景区 / Xinxiang

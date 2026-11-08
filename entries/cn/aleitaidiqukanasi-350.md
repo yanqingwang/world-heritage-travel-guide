@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 48.513535
 lon: 87.138377
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 阿勒泰地区喀纳斯景区 / Altay Prefecture

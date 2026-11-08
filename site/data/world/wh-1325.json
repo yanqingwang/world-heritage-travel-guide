@@ -112,6 +112,21 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "AUD",
+  "currency_en": "Australian dollar",
+  "currency_zh": "澳大利亚元",
+  "currency_symbol": "$",
+  "timezone_main": "UTC+12:00",
+  "drives_side": "left",
+  "idd_prefix": "+686",
+  "languages": [
+   "English",
+   "Gilbertese"
+  ],
+  "plug_types": "I",
+  "voltage": "240V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -148,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:55Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

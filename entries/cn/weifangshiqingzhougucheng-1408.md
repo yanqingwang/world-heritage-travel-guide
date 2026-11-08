@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Weifang"
 lat: 36.679155
 lon: 118.486971
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 潍坊市青州古城景区 / Qingzhougucheng Scenic Area
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:45Z"
 > 山东省 · 潍坊市 · 古镇村落
 
 ## 图片 / Images
+
+![20211114 青州古城景区 三官庙 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/20211114_%E9%9D%92%E5%B7%9E%E5%8F%A4%E5%9F%8E%E6%99%AF%E5%8C%BA_%E4%B8%89%E5%AE%98%E5%BA%99_03.jpg/1280px-20211114_%E9%9D%92%E5%B7%9E%E5%8F%A4%E5%9F%8E%E6%99%AF%E5%8C%BA_%E4%B8%89%E5%AE%98%E5%BA%99_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20211114 青州古城景区 三官庙 03.jpg · Ngguls · CC BY-SA 4.0*
 
 ![山东省人民政府关于公布第五批省级文物保护单位的通知（鲁政字〔2015〕142号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%BA%94%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942015%E3%80%95142%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%BA%94%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942015%E3%80%95142%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

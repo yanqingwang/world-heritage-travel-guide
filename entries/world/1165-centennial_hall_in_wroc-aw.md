@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(i)(ii)(iv)"
 lat: 51.106944444
 lon: 17.077222222
-updated_at: "2026-11-08T16:48:52Z"
+updated_at: "2026-11-08T20:30:03Z"
 ---
 
 # 弗罗茨瓦夫百年厅 / Centennial Hall in Wrocław

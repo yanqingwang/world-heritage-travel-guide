@@ -2,7 +2,7 @@
 id: "cn-1446"
 dataset: "china_5a"
 name_zh: "东方明珠广播电视塔"
-name_en: "Dongfangmingzhuguangbodianshita"
+name_en: "Oriental Pearl Tower"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.244613
 lon: 121.506046
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 东方明珠广播电视塔 / Dongfangmingzhuguangbodianshita
+# 东方明珠广播电视塔 / Oriental Pearl Tower
 
 > 上海市 · 浦东新区 · 宗教文化
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-08T15:57:45Z"
 
 ### English
 
-The Oriental Pearl Radio and Television Tower is one of Shanghai's iconic cultural landscapes. It is located in Lujiazui, Pudong New Area. The tower is about 468 meters high. The building was constructed in July 1991 and put into use in May 1995. It is responsible for the transmission business of 6 wireless TV sets in Shanghai, with an area coverage radius of 80 kilometers. There are landscapes and facilities in the tower such as a space capsule, a revolving restaurant, and the Shanghai Urban Historical Development Exhibition Hall.
-
-*English introduction: machine translation.*
+The Oriental Pearl Tower is a futurist TV tower in Lujiazui, Shanghai. Built from 1991 to 1994, the tower was the tallest structure in China until the completion of nearby World Financial Center in 2007. Its status as Shanghai's first AAAAA tourist attraction, the tower's unique architecture, height, and fifteen observation decks have made it a cultural icon of the city.
 
 ## 交通 / Transport
 
@@ -77,9 +75,10 @@ The Oriental Pearl Radio and Television Tower is one of Shanghai's iconic cultur
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/东方明珠广播电视塔)
 - [OpenStreetMap](https://www.openstreetmap.org/)

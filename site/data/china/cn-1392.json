@@ -10,7 +10,7 @@
  "city_zh": "临沂市",
  "city_en": "Linyi",
  "name_zh": "临沂市萤火虫水洞•地下大峡谷旅游区",
- "name_en": "Linyishiyinghuochongshuidong•dixiadaxiagu Tourist Area",
+ "name_en": "Tianshandaxiagu Tourist Area",
  "name_en_source": "pinyin",
  "slug": "linyishiyinghuochongshuidong-dixiadaxiagu-1392",
  "lat": 35.715492,
@@ -24,7 +24,16 @@
  "intro_zh": "山东地下大峡谷是一座风貌奇特的溶洞王国，沂蒙地下奇观核心景区。峡谷洞体长度6100米，目前开发3100米，由巨大的喀斯特裂隙发育而成，是中国著名特大型溶洞之一。",
  "intro_en": "Shandong Underground Grand Canyon is a unique cave kingdom and the core scenic spot of Yimeng underground wonders. The length of the canyon cave is 6,100 meters, of which 3,100 meters are currently under development. It is developed from huge karst fissures and is one of the famous extra-large karst caves in China.",
  "intro_en_source": "machine_translation",
- "images": [],
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%E5%A4%A9%E5%B1%B1%E6%89%98%E6%9C%A8%E5%B0%94%E5%A4%A7%E5%B3%A1%E8%B0%B7_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "天山托木尔大峡谷 - panoramio (5).jpg",
+   "author": "landagent",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161102000612/http://www.panoramio.com/photo/110416733",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E5%B1%B1%E6%89%98%E6%9C%A8%E5%B0%94%E5%A4%A7%E5%B3%A1%E8%B0%B7_-_panoramio_%285%29.jpg"
+  }
+ ],
  "web": "http://www.langya.cn/lyzt/yinghuochong/",
  "booking": "http://www.langya.cn/lyzt/yinghuochong/",
  "transport": {
@@ -148,6 +157,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -159,9 +182,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天山大峡谷"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

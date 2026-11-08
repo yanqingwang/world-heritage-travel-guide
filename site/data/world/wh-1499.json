@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "XCD",
+  "currency_en": "Eastern Caribbean dollar",
+  "currency_zh": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-04:00",
+  "drives_side": "left",
+  "idd_prefix": "+1268",
+  "languages": [
+   "English"
+  ],
+  "plug_types": "A,B",
+  "voltage": "230V/60Hz"
+ },
  "info_languages": {
   "zh": false,
   "en": true,
@@ -157,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:23Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

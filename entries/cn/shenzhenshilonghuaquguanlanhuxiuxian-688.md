@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Shenzhen"
 lat: 22.702219
 lon: 114.001993
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 深圳市龙华区观澜湖休闲旅游区 / Shenzhen
@@ -30,6 +30,10 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *深圳市国土空间总体规划（2021－2035年）.pdf · 深圳市人民政府 · Public domain*
 
+![Jiefang Road, Shenzhen (49).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jiefang_Road%2C_Shenzhen_%2849%29.jpg/1280px-Jiefang_Road%2C_Shenzhen_%2849%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jiefang Road, Shenzhen (49).jpg · Dinkun Chen · CC BY-SA 4.0*
+
 ![Jiefang Road, Shenzhen (9).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Jiefang_Road%2C_Shenzhen_%289%29.jpg/1280px-Jiefang_Road%2C_Shenzhen_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Jiefang Road, Shenzhen (9).jpg · Dinkun Chen · CC BY-SA 4.0*
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![PEOPLE'S PARK ROAD AND SHENZHEN RIVER.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/PEOPLE%27S_PARK_ROAD_AND_SHENZHEN_RIVER.jpg/1280px-PEOPLE%27S_PARK_ROAD_AND_SHENZHEN_RIVER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *PEOPLE'S PARK ROAD AND SHENZHEN RIVER.jpg · Dinkun Chen · CC BY-SA 4.0*
-
-![SHENZHEN RESERVOIR.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/SHENZHEN_RESERVOIR.jpg/1280px-SHENZHEN_RESERVOIR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*SHENZHEN RESERVOIR.jpg · Dinkun Chen · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

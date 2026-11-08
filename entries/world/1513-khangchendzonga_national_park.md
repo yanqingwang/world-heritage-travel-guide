@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(vi)(vii)(x)"
 lat: 27.6563
 lon: 88.3123
-updated_at: "2026-11-08T16:50:29Z"
+updated_at: "2026-11-08T20:30:05Z"
 ---
 
 # 干城章嘉国家公园 / Khangchendzonga National Park

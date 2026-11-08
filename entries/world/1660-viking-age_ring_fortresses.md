@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)"
 lat: 55.391944444
 lon: 10.389166666
-updated_at: "2026-11-08T16:50:56Z"
+updated_at: "2026-11-08T20:30:06Z"
 ---
 
 # 维京时代的环形堡垒群 / Viking-Age Ring Fortresses

@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Huzhou City"
 lat: 30.874788
 lon: 120.437508
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 湖州市南浔古镇景区 / Huzhoushinanxunguzhen Scenic Area

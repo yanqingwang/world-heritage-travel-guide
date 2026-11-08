@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Dongcheng District"
 lat: 39.924091
 lon: 116.403414
-updated_at: "2026-11-08T15:57:44Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 故宫博物院 / Palace Museum

@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Nantong City"
 lat: 32.028014
 lon: 120.863679
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 南通市濠河风景区 / Nantongshihaohefeng Scenic Area

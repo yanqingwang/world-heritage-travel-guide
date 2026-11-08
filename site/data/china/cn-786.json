@@ -22,8 +22,8 @@
  "category_zh": "海滨度假",
  "category_en": "Coastal resort",
  "intro_zh": "鼓浪屿风景区与厦门市区隔海相对，面积1.78平方公里，海岛景观秀丽多姿，享誉中外。岛上海岸线蜿蜒曲折，坡缓沙细的天然海滨浴场环布四周，鬼斧神工的礁石奇趣天成，鼓浪屿有日光岩、菽庄花园、皓月园、毓园等景点。",
- "intro_en": "Gulangyu Scenic Area faces Xiamen City across the sea, covering an area of ​​1.78 square kilometers. The island's beautiful landscape is well-known at home and abroad. The coastline of the island is winding and winding, surrounded by natural bathing beaches with gentle slopes and fine sand. The miraculous reefs are naturally formed. Gulangyu Island has Sunlight Rock, Shuzhuang Garden, Haoyue Garden, Yuyuan and other scenic spots.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Gulangyu, Gulang or Kulangsu is an island off the coast of Xiamen, Fujian, southeastern China. A UNESCO World Cultural Heritage Site, the island is one of China's most visited tourist attractions, attracting more than 10 million visitors per year. Gulangyu covers an area of 1.88 km2 (0.73 sq mi), with a population of 12,509 as of 2023. Administratively, the island constitutes the Gulangyu Subdistrict, part of Xiamen's Siming District. It is reachable by ferry from downtown Xiamen. Gulangyu Island is renowned for its beaches, winding lanes and rich architecture. The island is on China's list of National Scenic Spots and is classified as a 5A tourist attraction by the China National Tourism Administration (CNTA). It ranks at the top of the list of the ten most scenic areas in the province. As a pedestrian-only zone where cars and bicycles are banned, the only vehicles permitted are small electric buggies and electric government service vehicles.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg/1280px-%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -31,7 +31,7 @@
    "author": "gdczjkk",
    "license": "CC BY 3.0",
    "credit": "https://web.archive.org/web/20161027044957/http://www.panoramio.com/photo/83297219",
-   "source": "https://commons.wikimedia.org/wiki/File:%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:鼓浪屿_-_panoramio.jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%E5%8E%A6%E9%97%A8%E5%B8%82%E7%A0%82%E3%80%81%E7%9F%B3%E3%80%81%E5%9C%9F%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A.pdf/page1-960px-%E5%8E%A6%E9%97%A8%E5%B8%82%E7%A0%82%E3%80%81%E7%9F%B3%E3%80%81%E5%9C%9F%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -39,7 +39,7 @@
    "author": "Q106007409",
    "license": "Public domain",
    "credit": "The file is from National Database of Laws and Regulations maintained by General Office of the Standing Committee of the National People's Congress of People's ",
-   "source": "https://commons.wikimedia.org/wiki/File:%E5%8E%A6%E9%97%A8%E5%B8%82%E7%A0%82%E3%80%81%E7%9F%B3%E3%80%81%E5%9C%9F%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A.pdf"
+   "source": "https://commons.wikimedia.org/wiki/File:厦门市砂、石、土资源管理规定.pdf"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg/1280px-Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,7 +47,7 @@
    "author": "Slyronit",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Gulangyu_Island_from_Zhongshan_Road%2C_Xiamen.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Gulangyu_Island_from_Zhongshan_Road,_Xiamen.jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Gulangyu_at_dusk.jpg/1280px-Gulangyu_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -201,6 +201,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -220,5 +234,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

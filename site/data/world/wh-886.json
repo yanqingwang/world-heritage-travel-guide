@@ -243,6 +243,21 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "TMT",
+  "currency_en": "Turkmenistan manat",
+  "currency_zh": "Turkmenistan manat",
+  "currency_symbol": "m",
+  "timezone_main": "UTC+05:00",
+  "drives_side": "",
+  "idd_prefix": "+993",
+  "languages": [
+   "Russian",
+   "Turkmen"
+  ],
+  "plug_types": "C,F",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -279,5 +294,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:11Z"
+ "updated_at": "2026-11-08T20:30:01Z"
 }

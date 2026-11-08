@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "NOK",
+  "currency_en": "Norwegian krone",
+  "currency_zh": "挪威克朗",
+  "currency_symbol": "kr",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+47",
+  "languages": [
+   "Norwegian Bokmål",
+   "Norwegian Nynorsk",
+   "Sami"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:49Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

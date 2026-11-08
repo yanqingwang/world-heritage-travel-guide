@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Ganzhou"
 lat: 25.88996
 lon: 116.018882
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 赣州市瑞金市共和国摇篮景区 / Ganzhou
@@ -34,9 +34,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *Ganzhou Railway Station (20250126).jpg · Fumikas Sagisavas · CC0*
 
-![Ganzhou Wenmiao 20180619 163209.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ganzhou_Wenmiao_20180619_163209.jpg/1280px-Ganzhou_Wenmiao_20180619_163209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Ganzhou Wenmiao 20180619 161026.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ganzhou_Wenmiao_20180619_161026.jpg/1280px-Ganzhou_Wenmiao_20180619_161026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ganzhou Wenmiao 20180619 163209.jpg · Sino Yu · CC0*
+*Ganzhou Wenmiao 20180619 161026.jpg · Sino Yu · CC0*
 
 ![Location map of Ganzhou, Jiangxi.png](https://upload.wikimedia.org/wikipedia/commons/2/21/Location_map_of_Ganzhou%2C_Jiangxi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 

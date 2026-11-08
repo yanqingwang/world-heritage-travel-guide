@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.912045
 lon: 125.357554
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 长春市伪满皇宫博物馆 / Changchun
@@ -22,6 +22,10 @@ updated_at: "2026-11-08T15:57:46Z"
 
 ## 图片 / Images
 
+![Changchun Montage 2017.png](https://upload.wikimedia.org/wikipedia/commons/0/0e/Changchun_Montage_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Changchun Montage 2017.png · Montage by 嗷大喵 ( 嗷大喵 ) · CC BY-SA 4.0*
+
 ![Changchun-location-MAP-in-Jilin-Province-in-China.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3b/Changchun-location-MAP-in-Jilin-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 *Changchun-location-MAP-in-Jilin-Province-in-China.jpg · Dagvidur · CC BY-SA 4.0*
@@ -29,10 +33,6 @@ updated_at: "2026-11-08T15:57:46Z"
 ![Changchun CBD viewed from the Cultural Square, 2024.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Changchun_CBD_viewed_from_the_Cultural_Square%2C_2024.jpg/1280px-Changchun_CBD_viewed_from_the_Cultural_Square%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Changchun CBD viewed from the Cultural Square, 2024.jpg · Licjar Xeymelloz · CC0*
-
-![Changchun Montage 2017.png](https://upload.wikimedia.org/wikipedia/commons/0/0e/Changchun_Montage_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Changchun Montage 2017.png · Montage by 嗷大喵 ( 嗷大喵 ) · CC BY-SA 4.0*
 
 ![Changchun Railway Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Changchun_Railway_Station.jpg/1280px-Changchun_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 47.575892
 lon: 87.787041
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 兵团十师185团白沙湖景区（阿勒泰地区） / Bingtuanshishi185tuanbaishahujingqu（aleitaidiqu）

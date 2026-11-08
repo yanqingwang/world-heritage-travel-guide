@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(i)(ii)(vi)"
 lat: 46.468414
 lon: 6.829336
-updated_at: "2026-11-08T16:49:55Z"
+updated_at: "2026-11-08T20:30:04Z"
 ---
 
 # 勒·柯布西耶的建筑作品 / The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement

@@ -2,7 +2,7 @@
 id: "cn-284"
 dataset: "china_5a"
 name_zh: "桂林市两江四湖•象山景区"
-name_en: "Liangjiangsihu Scenic Area"
+name_en: "Guilinshiliangjiangsihu•xiangshan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangxi"
 city_en: "Guilin"
 lat: 25.274963
 lon: 110.302478
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 桂林市两江四湖•象山景区 / Liangjiangsihu Scenic Area
+# 桂林市两江四湖•象山景区 / Guilinshiliangjiangsihu•xiangshan Scenic Area
 
 > 广西壮族自治区 · 桂林市 · 皇家园林
 
@@ -58,5 +58,4 @@ The scenic spot consists of two rivers (Lijiang River and Taohua River), four la
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/两江四湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 47.216809
 lon: 89.875277
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 阿勒泰地区可可托海景区 / Altay Prefecture

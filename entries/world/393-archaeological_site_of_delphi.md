@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 38.482015
 lon: 22.500215
-updated_at: "2026-11-08T16:45:22Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 德尔斐考古遗址 / Archaeological Site of Delphi

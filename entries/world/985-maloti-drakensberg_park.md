@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iii)(vii)(x)"
 lat: -29.4665
 lon: 29.3939
-updated_at: "2026-11-08T16:48:29Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 马罗提-德拉肯斯堡公园 / Maloti-Drakensberg Park

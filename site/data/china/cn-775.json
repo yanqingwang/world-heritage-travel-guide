@@ -26,12 +26,20 @@
  "intro_en_source": "machine_translation",
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Water-of-Five-colored-Pond Huanglong Sichuan China.jpg",
+   "author": "Kounosu",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg"
+  },
+  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm/1280px--2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
    "title": "2020年7月8日 福建武夷山遭强暴雨袭击 全市停水 景区关闭.webm",
    "author": "中国新闻网",
    "license": "CC BY 3.0",
    "credit": "YouTube : 福建武夷山遭强暴雨袭击 全市停水 景区关闭 – View/save archived versions on archive.org",
-   "source": "https://commons.wikimedia.org/wiki/File:2020年7月8日_福建武夷山遭强暴雨袭击_全市停水_景区关闭.webm"
+   "source": "https://commons.wikimedia.org/wiki/File:2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm"
   }
  ],
  "web": "",
@@ -178,6 +186,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -189,9 +211,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

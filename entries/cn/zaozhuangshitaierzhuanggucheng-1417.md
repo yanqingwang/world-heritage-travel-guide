@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Zaozhuang"
 lat: 34.533821
 lon: 117.589556
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 枣庄市台儿庄古城景区 / Taierzhuanggucheng Scenic Area

@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iii)(iv)(v)"
 lat: 16.93333333
 lon: 33.71666667
-updated_at: "2026-11-08T16:49:59Z"
+updated_at: "2026-11-08T20:30:04Z"
 ---
 
 # 麦罗埃岛考古遗址 / Archaeological Sites of the Island of Meroe

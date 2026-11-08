@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 35.588055555556
 lon: 42.718333333333
-updated_at: "2026-11-08T16:44:19Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 哈特拉 / Hatra

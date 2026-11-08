@@ -112,6 +112,21 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "XAF",
+  "currency_en": "Central African CFA franc",
+  "currency_zh": "Central African CFA franc",
+  "currency_symbol": "Fr",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "right",
+  "idd_prefix": "+236",
+  "languages": [
+   "French",
+   "Sango"
+  ],
+  "plug_types": "C,E",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -148,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:42Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

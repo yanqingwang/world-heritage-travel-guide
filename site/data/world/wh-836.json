@@ -243,6 +243,21 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "MAD",
+  "currency_en": "Moroccan dirham",
+  "currency_zh": "Moroccan dirham",
+  "currency_symbol": "د.م.",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+212",
+  "languages": [
+   "Arabic",
+   "Berber"
+  ],
+  "plug_types": "C,E",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -279,5 +294,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:07Z"
+ "updated_at": "2026-11-08T20:30:01Z"
 }

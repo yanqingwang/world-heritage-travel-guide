@@ -211,6 +211,21 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "UGX",
+  "currency_en": "Ugandan shilling",
+  "currency_zh": "Ugandan shilling",
+  "currency_symbol": "Sh",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "left",
+  "idd_prefix": "+256",
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "plug_types": "G",
+  "voltage": "240V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -247,5 +262,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:41Z"
+ "updated_at": "2026-11-08T20:30:00Z"
 }

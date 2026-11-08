@@ -243,6 +243,22 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "BZD",
+  "currency_en": "Belize dollar",
+  "currency_zh": "Belize dollar",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-06:00",
+  "drives_side": "right",
+  "idd_prefix": "+501",
+  "languages": [
+   "Belizean Creole",
+   "English",
+   "Spanish"
+  ],
+  "plug_types": "A,B,G",
+  "voltage": "110/220V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -279,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:51Z"
+ "updated_at": "2026-11-08T20:30:00Z"
 }

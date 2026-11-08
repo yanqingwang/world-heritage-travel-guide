@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(i)(iii)(iv)(vi)"
 lat: 0.329166666
 lon: 32.553333333
-updated_at: "2026-11-08T16:48:32Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 巴干达国王们的卡苏比陵 / Tombs of Buganda Kings at Kasubi

@@ -26,6 +26,14 @@
  "intro_en_source": "wikipedia",
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg/1280px-Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianmen 38330-Zhangjiajie (49047525877).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "38330-Zhangjiajie",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianmen_38330-Zhangjiajie_(49047525877).jpg"
+  },
+  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Solar_effect_with_Tianmen_Mountain_01.jpg/1280px-Solar_effect_with_Tianmen_Mountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "Solar effect with Tianmen Mountain 01.jpg",
    "author": "Codas",
@@ -40,14 +48,6 @@
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
    "source": "https://commons.wikimedia.org/wiki/File:Solar_effect_with_Tianmen_Mountain_02.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg/1280px-Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Tianmen 38330-Zhangjiajie (49047525877).jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "38330-Zhangjiajie",
-   "source": "https://commons.wikimedia.org/wiki/File:Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Tianmen_Mountain_Heaven_Gate_arch_Zhangjiajie.jpg/1280px-Tianmen_Mountain_Heaven_Gate_arch_Zhangjiajie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -201,6 +201,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -220,5 +234,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

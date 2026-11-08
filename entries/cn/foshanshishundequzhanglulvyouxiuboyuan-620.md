@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.884408
 lon: 113.295229
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 佛山市顺德区长鹿旅游休博园 / Shunde, Guangdong

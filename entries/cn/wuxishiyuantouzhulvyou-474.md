@@ -2,7 +2,7 @@
 id: "cn-474"
 dataset: "china_5a"
 name_zh: "无锡市鼋头渚旅游风景区"
-name_en: "Wuxishiyuantouzhulvyoufeng Scenic Area"
+name_en: "Yuantouzhu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.479468
 lon: 120.280659
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 无锡市鼋头渚旅游风景区 / Wuxishiyuantouzhulvyoufeng Scenic Area
+# 无锡市鼋头渚旅游风景区 / Yuantouzhu Scenic Area
 
 > 江苏省 · 无锡市 · 皇家园林
 
@@ -25,22 +25,6 @@ updated_at: "2026-11-08T15:57:46Z"
 ![Wuxi Taihu lake Changchun bridge.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ac/Wuxi_Taihu_lake_Changchun_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 *Wuxi Taihu lake Changchun bridge.jpg · 2009/ Synyan ；2014/ 藍風攝影 · CC BY-SA 3.0*
-
-![Yuantouzhu,Lake Tai.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Yuantouzhu%2CLake_Tai.JPG/1280px-Yuantouzhu%2CLake_Tai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yuantouzhu,Lake Tai.JPG · 螺钉 · CC BY-SA 3.0*
-
-![Yuantouzhu,Wuxi.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Yuantouzhu%2CWuxi.JPG/1280px-Yuantouzhu%2CWuxi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yuantouzhu,Wuxi.JPG · 螺钉 · CC BY-SA 3.0*
-
-![Yuantouzhu Cherry Blossom.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ac/Yuantouzhu_Cherry_Blossom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Yuantouzhu Cherry Blossom.jpg · Synyan 、 新雨 · CC BY-SA 3.0*
-
-![Yuantouzhu Lake Tai.jpg](https://upload.wikimedia.org/wikipedia/commons/0/07/Yuantouzhu_Lake_Tai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Yuantouzhu Lake Tai.jpg · Synyan · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -82,4 +66,5 @@ Yuantouzhu occupies the most beautiful corner of Taihu Lake, with beautiful moun
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/鼋头渚)
 - [OpenStreetMap](https://www.openstreetmap.org/)

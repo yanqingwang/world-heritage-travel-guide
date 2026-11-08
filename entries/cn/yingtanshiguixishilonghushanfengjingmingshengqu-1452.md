@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Yingtan City"
 lat: 28.125406
 lon: 116.987892
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 鹰潭市贵溪市龙虎山风景名胜区 / Mount Longhu
@@ -22,6 +22,18 @@ updated_at: "2026-11-08T15:57:45Z"
 
 ## 图片 / Images
 
+![Longhushan 9263.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Longhushan_9263.jpg/1280px-Longhushan_9263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Longhushan 9263.jpg · Zhangzhugang · CC BY-SA 4.0*
+
+![龙虎山.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%E9%BE%99%E8%99%8E%E5%B1%B1.JPG/1280px-%E9%BE%99%E8%99%8E%E5%B1%B1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*龙虎山.JPG · 陈昀 (Chen Yun) · CC BY-SA 2.5*
+
+![第六批江西省文物保护单位名单.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*第六批江西省文物保护单位名单.pdf · 江西省人民政府 · Public domain*
+
 ![Longhu Shan 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Longhu_Shan_01.jpg/1280px-Longhu_Shan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Longhu Shan 01.jpg · Tyler from Shanghai, China · CC BY 2.0*
@@ -29,18 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![Longhu Shan 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Longhu_Shan_02.jpg/1280px-Longhu_Shan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Longhu Shan 02.jpg · Tyler from Shanghai, China · CC BY 2.0*
-
-![Longhushan - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Longhushan_-_panoramio.jpg/1280px-Longhushan_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longhushan - panoramio.jpg · Anders Johnson · CC BY 3.0*
-
-![Longhushan - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Longhushan_-_panoramio_%281%29.jpg/1280px-Longhushan_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longhushan - panoramio (1).jpg · Anders Johnson · CC BY 3.0*
-
-![Longhushan 9263.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Longhushan_9263.jpg/1280px-Longhushan_9263.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Longhushan 9263.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

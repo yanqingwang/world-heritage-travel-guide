@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Zibo"
 lat: 36.804704
 lon: 117.847544
-updated_at: "2026-11-08T15:57:44Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 淄博市周村古商城景区 / Zibo

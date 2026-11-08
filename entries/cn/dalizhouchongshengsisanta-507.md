@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Dali Bai Autonomous Prefecture"
 lat: 25.710056
 lon: 100.149979
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 大理州崇圣寺三塔文化旅游区 / Three Pagodas
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:46Z"
 > 云南省 · 大理白族自治州 · 度假休闲
 
 ## 图片 / Images
+
+![Three Pagodas from bottom view.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Three_Pagodas_from_bottom_view.JPG/1280px-Three_Pagodas_from_bottom_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Three Pagodas from bottom view.JPG · Tdxiang at English Wikipedia · CC BY-SA 3.0*
 
 ![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:46Z"
 ![Dali Yunnan China Chongsheng-Temple-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Dali_Yunnan_China_Chongsheng-Temple-10.jpg/1280px-Dali_Yunnan_China_Chongsheng-Temple-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Dali Yunnan China Chongsheng-Temple-10.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
-
-![Dali Yunnan China Chongsheng-Temple-11.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Dali_Yunnan_China_Chongsheng-Temple-11.jpg/1280px-Dali_Yunnan_China_Chongsheng-Temple-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Dali Yunnan China Chongsheng-Temple-11.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

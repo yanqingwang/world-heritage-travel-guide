@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(vii)(x)"
 lat: 6.75
 lon: 39.75
-updated_at: "2026-11-08T16:42:45Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 巴莱山国家公园 / Bale Mountains National Park

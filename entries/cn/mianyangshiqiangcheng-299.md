@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Mianyang"
 lat: 31.819425
 lon: 104.456375
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 绵阳市羌城旅游区 / Mianyangshiqiangcheng Tourist Area

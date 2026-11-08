@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Jining"
 lat: 35.60299
 lon: 116.997127
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 济宁市明故城三孔旅游区 / Jining
@@ -26,21 +26,21 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *济宁市, 中国 Dec 07, 2020 15-57-16.jpeg · CC BY-SA 4.0*
 
-![Chen Jining, Secretary of the Chinese Communist Party's Shanghai Municipal Committee in Shanghai, People's Republic of China on 9 December 2023 (cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/a/a1/Chen_Jining%2C_Secretary_of_the_Chinese_Communist_Party%27s_Shanghai_Municipal_Committee_in_Shanghai%2C_People%27s_Republic_of_China_on_9_December_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Chen Jining, Secretary of the Chinese Communist Party's Shanghai Municipal Committee in Shanghai, People's Republic of China on 9 December 2023 (cropped).jpg · WIPO | OMPI · CC BY 2.0*
-
-![Chen Jining, Shanghai Chinese Communist Party Secretary, in Shanghai, People’s Republic of China, April 25, 2024 (cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/2/20/Chen_Jining%2C_Shanghai_Chinese_Communist_Party_Secretary%2C_in_Shanghai%2C_People%E2%80%99s_Republic_of_China%2C_April_25%2C_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Chen Jining, Shanghai Chinese Communist Party Secretary, in Shanghai, People’s Republic of China, April 25, 2024 (cropped).jpg · U.S. Department of State from United States · Public domain*
-
-![Chen Jining.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Chen_Jining.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Chen Jining.jpg · VOA · Public domain*
-
 ![Chen Jining (cropped).jpg](https://upload.wikimedia.org/wikipedia/commons/9/98/Chen_Jining_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 *Chen Jining (cropped).jpg · VOA · Public domain*
+
+![Chen Jining 2019.png](https://upload.wikimedia.org/wikipedia/commons/7/77/Chen_Jining_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chen Jining 2019.png · 中國新聞網 · CC BY 3.0*
+
+![Jining Taibai Lou 2015.08.13 18-00-14.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jining_Taibai_Lou_2015.08.13_18-00-14.jpg/1280px-Jining_Taibai_Lou_2015.08.13_18-00-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jining Taibai Lou 2015.08.13 18-00-14.jpg · Zhangzhugang · CC BY-SA 4.0*
+
+![Jining Taibai Lou 2015.08.13 18-00-21.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jining_Taibai_Lou_2015.08.13_18-00-21.jpg/1280px-Jining_Taibai_Lou_2015.08.13_18-00-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Jining Taibai Lou 2015.08.13 18-00-21.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

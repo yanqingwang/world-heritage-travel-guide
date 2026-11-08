@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "OMR",
+  "currency_en": "Omani rial",
+  "currency_zh": "Omani rial",
+  "currency_symbol": "ر.ع.",
+  "timezone_main": "UTC+04:00",
+  "drives_side": "",
+  "idd_prefix": "+968",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "C,G",
+  "voltage": "240V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:36Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

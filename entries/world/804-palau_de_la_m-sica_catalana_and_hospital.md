@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iv)"
 lat: 41.38778
 lon: 2.175
-updated_at: "2026-11-08T16:47:58Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 巴塞罗那的帕劳音乐厅及圣保罗医院 / Palau de la Música Catalana and Hospital de Sant Pau, Barcelona

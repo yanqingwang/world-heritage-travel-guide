@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(iv)"
 lat: 35.456666666
 lon: 43.2625
-updated_at: "2026-11-08T16:48:45Z"
+updated_at: "2026-11-08T20:30:03Z"
 ---
 
 # 亚述古城 / Ashur (Qal'at Sherqat)

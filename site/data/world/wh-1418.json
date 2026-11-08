@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "JPY",
+  "currency_en": "Japanese yen",
+  "currency_zh": "日元",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+09:00",
+  "drives_side": "left",
+  "idd_prefix": "+81",
+  "languages": [
+   "Japanese"
+  ],
+  "plug_types": "A,B",
+  "voltage": "100V/50-60Hz"
+ },
  "info_languages": {
   "zh": false,
   "en": true,
@@ -155,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:05Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(vii)(x)"
 lat: -42.8075
 lon: -71.89888889
-updated_at: "2026-11-08T16:50:31Z"
+updated_at: "2026-11-08T20:30:05Z"
 ---
 
 # 洛斯阿莱尔塞斯国家公园 / Los Alerces National Park

@@ -709,7 +709,7 @@
       }
       if (ci.idd_prefix) rows.push([t().labels.idd, esc(String(ci.idd_prefix).startsWith("+") ? ci.idd_prefix : "+" + ci.idd_prefix)]);
       if ((ci.languages || []).length) {
-        rows.push([t().labels.languages, esc(ci.languages.join(", ").toUpperCase())]);
+        rows.push([t().labels.languages, esc(ci.languages.join(", "))]);
       }
       if (rows.length) {
         body.push(sectionHTML(t().sections.practical,

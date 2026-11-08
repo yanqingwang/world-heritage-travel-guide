@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 42.50472222
 lon: 0.80361111
-updated_at: "2026-11-08T16:48:29Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 博伊谷地的罗马式教堂建筑 / Catalan Romanesque Churches of the Vall de Boí

@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Bazhong City"
 lat: 32.720751
 lon: 106.866943
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 巴中市光雾山旅游景区 / Bazhong

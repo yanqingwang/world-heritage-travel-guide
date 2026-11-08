@@ -2,7 +2,7 @@
 id: "cn-1449"
 dataset: "china_5a"
 name_zh: "九江市永修县庐山西海景区"
-name_en: "Jiujiangshiyongxiuxianlushanxihai Scenic Area"
+name_en: "Mount Lu"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangxi"
 city_en: "Jiujiang"
 lat: 29.200974
 lon: 115.479351
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 九江市永修县庐山西海景区 / Jiujiangshiyongxiuxianlushanxihai Scenic Area
+# 九江市永修县庐山西海景区 / Mount Lu
 
 > 江西省 · 九江市 · 山地风光
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-08T15:57:45Z"
 
 ### English
 
-The Lushan West Sea Scenic Area is located in the north of Jiangxi Province and the southwest of Jiujiang City, spanning Wuning and Yongxiu counties. It is a mountain and lake-type mega-scenic area integrating Asia's largest earth dam reservoir, a national water conservancy scenic spot, and a national forest park. It is composed of two major blocks, the Lushan West Sea Lake Area and the Yunju Mountain.
-
-*English introduction: machine translation.*
+Mount Lu or Lushan (simplified Chinese: 庐山; traditional Chinese: 廬山; pinyin: Lúshān, Gan: Lu-san) is a mountain situated in Jiujiang, Jiangxi, China. It was also known as Kuanglu (匡廬) in ancient times. The mountain and its immediate area are officially designated as the Lushan National Park, and it is one of the most renowned mountains in the country. Mount Lu is located primarily in Lushan City within Jiujiang, although its northern portions are found in Jiujiang's Lianxi District. The oval-shaped mountains are about 25 kilometers (16 mi) long and 10 kilometers (6.2 mi) wide, and neighbors Jiujiang and the Yangtze River to the north, Nanchang to the south, and Poyang Lake to the east. Its highest point is Dahanyang Peak (大汉阳峰), reaching 1,474 meters (4,836 ft) above sea level. Dahayang Peak is also one of the hundreds of steep peaks that tower above the so-called sea of clouds that can encompass the mountain for almost 200 days each year. Mount Lu is known for its grandeur, steepness, and beauty and is a prominent tourist attraction, especially during the summer months when the weather is cooler in the mountains than elsewhere. The mountain and the surrounding region is also one o
 
 ## 交通 / Transport
 
@@ -74,9 +72,10 @@ The Lushan West Sea Scenic Area is located in the north of Jiangxi Province and 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/庐山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

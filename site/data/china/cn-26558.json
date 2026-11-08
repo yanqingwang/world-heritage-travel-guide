@@ -10,8 +10,8 @@
  "city_zh": "崇左市",
  "city_en": "Chongzuo City",
  "name_zh": "崇左市花山岩画景区",
- "name_en": "Zuojiang Huashan Rock Art",
- "name_en_source": "wikipedia",
+ "name_en": "Chongzuoshihuashanyanhua Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "chongzuoshihuashanyanhua-26558",
  "lat": 22.186133,
  "lon": 107.071606,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "“左江花山岩画文化景观”由位于崇左市宁明县、龙州县、江州区、扶绥县境内具有代表性的38个岩画点构成，涵盖的河段长105公里，范围面积达6621.6公顷，包括由岩画、山崖、河流、台地共同组成的带状景观区域，具有极高的文化和旅游价值。\n宁明花山岩画是世界上最大的单幅岩画，也是“左江花山岩画文化景观”中图像最多、内容最丰富、保存最完好、视觉冲击力最强的一处岩画，被誉为世界岩画的瑰宝。该幅岩画面积约8000平方米，共有人物、动物、器具等图像1951个，真实记录了战国至东汉时期（公元前5世纪至公元2世纪）骆越人的社会活动场景。",
- "intro_en": "The Zuojiang Huashan Rock Art Cultural Landscape (Chinese: 花山壁画; pinyin: Huāshān Bìhuà) is an extensive assembly of historical rock art that was painted on limestone cliff faces in Guangxi, southern China. The paintings are located on the west bank of the Ming River (Guangxi) which is a tributary of the Zuo River. The area of the paintings is part of the Nonggang Nature Reserve and belongs to Ningming County. On July 15, 2016, Zuojiang Huashan Rock Art Cultural Landscape was listed as the 49th UNESCO World Heritage Site in China. The main painted area along the cliff has a width of about 170 metres (560 ft) and a height of about 40 metres (130 ft) and is one of the largest rock paintings in China. The paintings are located between 30 metres (98 ft) and 90 metres (300 ft) above the river's water level. The main area contains about 1900 discrete countable images arranged in about 110 groups. The paintings have a red color and were executed using a mixture of red ochre (hematite), animal glue, and blood. They depict human figures as well as animals along with bronze drums, knives, swords, bells, and ships. Human figures are typically between 60 centimetres (24 in) and 150 centimetres ",
- "intro_en_source": "wikipedia",
+ "intro_en": "The \"Zuojiang Huashan Rock Art Cultural Landscape\" consists of 38 representative rock art sites located in Ningming County, Longzhou County, Jiangzhou District, and Fusui County, Chongzuo City. It covers a river section of 105 kilometers long and an area of ​​6,621.6 hectares. It includes a strip landscape area composed of rock paintings, cliffs, rivers, and terraces, and has extremely high cultural and tourism value.\nNingming Huashan Rock Painting is the largest single rock painting in the world. It is also the rock painting with the most images, the richest content, the best preservation and the strongest visual impact in the \"Zuojiang Huashan Rock Painting Cultural Landscape\". It is known as the treasure of world rock art. This rock painting covers an area of ​​about 8,000 square meters and contains 1,951 images of people, animals, utensils, etc. It truly records the social activities of the Luoyue people from the Warring States Period to the Eastern Han Dynasty (5th century BC to 2nd century AD).",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Rock_painting_hua_mountain_1.jpg/1280px-Rock_painting_hua_mountain_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -171,16 +171,29 @@
  "hotels_nearby_30km": 3,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
+  "en": false,
+  "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -190,13 +203,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/花山岩画"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:44Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

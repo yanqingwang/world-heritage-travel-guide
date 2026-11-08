@@ -284,6 +284,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "KRW",
+  "currency_en": "South Korean won",
+  "currency_zh": "韩元",
+  "currency_symbol": "₩",
+  "timezone_main": "UTC+09:00",
+  "drives_side": "right",
+  "idd_prefix": "+82",
+  "languages": [
+   "Korean"
+  ],
+  "plug_types": "C,F",
+  "voltage": "220V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -317,5 +331,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:11Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

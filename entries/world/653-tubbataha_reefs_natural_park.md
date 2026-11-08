@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(vii)(ix)(x)"
 lat: 8.953333333
 lon: 119.8675
-updated_at: "2026-11-08T16:47:37Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 图巴塔哈群礁 / Tubbataha Reefs Natural Park

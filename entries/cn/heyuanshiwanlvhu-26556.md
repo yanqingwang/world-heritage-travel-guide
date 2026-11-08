@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Heyuan City"
 lat: 23.823781
 lon: 114.531722
-updated_at: "2026-11-08T15:57:44Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 河源市万绿湖风景区 / Xinfengjiang Reservoir

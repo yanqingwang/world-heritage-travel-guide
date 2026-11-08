@@ -102,6 +102,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "YER",
+  "currency_en": "Yemeni rial",
+  "currency_zh": "Yemeni rial",
+  "currency_symbol": "﷼",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+967",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": false,
   "en": true,
@@ -137,5 +151,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:48Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

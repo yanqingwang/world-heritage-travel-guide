@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "CVE",
+  "currency_en": "Cape Verdean escudo",
+  "currency_zh": "Cape Verdean escudo",
+  "currency_symbol": "Esc",
+  "timezone_main": "UTC-01:00",
+  "drives_side": "",
+  "idd_prefix": "+238",
+  "languages": [
+   "Portuguese"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -156,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:54Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

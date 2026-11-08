@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "SRD",
+  "currency_en": "Surinamese dollar",
+  "currency_zh": "Surinamese dollar",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-03:00",
+  "drives_side": "left",
+  "idd_prefix": "+597",
+  "languages": [
+   "Dutch"
+  ],
+  "plug_types": "A,C,F",
+  "voltage": "127/220V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:58Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

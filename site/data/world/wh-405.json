@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "LKR",
+  "currency_en": "Sri Lankan rupee",
+  "currency_zh": "Sri Lankan rupee",
+  "currency_symbol": "Rs රු",
+  "timezone_main": "UTC+05:30",
+  "drives_side": "left",
+  "idd_prefix": "+94",
+  "languages": [
+   "Sinhala",
+   "Tamil"
+  ],
+  "plug_types": "D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:27Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

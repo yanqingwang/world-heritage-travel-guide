@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "RON",
+  "currency_en": "Romanian leu",
+  "currency_zh": "列伊",
+  "currency_symbol": "lei",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+40",
+  "languages": [
+   "Romanian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:21Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }

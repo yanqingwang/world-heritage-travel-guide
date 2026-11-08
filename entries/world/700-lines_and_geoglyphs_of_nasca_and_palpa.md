@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(i)(iii)(iv)"
 lat: -14.6975
 lon: -75.135
-updated_at: "2026-11-08T16:47:45Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 纳斯卡和朱马纳草原的线条图 / Lines and Geoglyphs of Nasca and Palpa

@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Xianyang"
 lat: 34.574647
 lon: 108.226645
-updated_at: "2026-11-08T15:57:44Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 咸阳市乾陵景区 / Xianyang
@@ -30,10 +30,6 @@ updated_at: "2026-11-08T15:57:44Z"
 
 *1962-05 1962年 陕西挖掘咸阳秦朝遗址.jpg · 《人民画报》 · Public domain*
 
-![20250911 Xi'an Xianyang International Airport - Air Traffic Control Tower.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e3/20250911_Xi%27an_Xianyang_International_Airport_-_Air_Traffic_Control_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*20250911 Xi'an Xianyang International Airport - Air Traffic Control Tower.jpg · Windmemories · CC BY-SA 4.0*
-
 ![Bronze Door Knocker, Qin Palace, Xianyang (detail).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bronze_Door_Knocker%2C_Qin_Palace%2C_Xianyang_%28detail%29.jpg/1280px-Bronze_Door_Knocker%2C_Qin_Palace%2C_Xianyang_%28detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Bronze Door Knocker, Qin Palace, Xianyang (detail).jpg · Gary Todd · CC BY-SA 4.0*
@@ -41,6 +37,10 @@ updated_at: "2026-11-08T15:57:44Z"
 ![Full View of Wei River in Xianyang 2012-09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Full_View_of_Wei_River_in_Xianyang_2012-09.jpg/1280px-Full_View_of_Wei_River_in_Xianyang_2012-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Full View of Wei River in Xianyang 2012-09.jpg · 猫猫的日记本 · CC BY-SA 3.0*
+
+![Full View of Wei River in Xianyang 2012-09 (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Full_View_of_Wei_River_in_Xianyang_2012-09_%28cropped%29.jpg/1280px-Full_View_of_Wei_River_in_Xianyang_2012-09_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Full View of Wei River in Xianyang 2012-09 (cropped).jpg · 猫猫的日记本 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

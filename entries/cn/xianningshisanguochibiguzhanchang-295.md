@@ -2,7 +2,7 @@
 id: "cn-295"
 dataset: "china_5a"
 name_zh: "咸宁市三国赤壁古战场景区"
-name_en: "Chibi Scenic Area"
+name_en: "Xianningshisanguochibiguzhanchang Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hubei"
 city_en: "Xianning City"
 lat: 29.885145
 lon: 113.637088
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
-# 咸宁市三国赤壁古战场景区 / Chibi Scenic Area
+# 咸宁市三国赤壁古战场景区 / Xianningshisanguochibiguzhanchang Scenic Area
 
 > 湖北省 · 咸宁市 · 石窟艺术
 
@@ -55,5 +55,4 @@ The ancient battlefield of Chibi in the Three Kingdoms is said to be the place w
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/赤壁)
 - [OpenStreetMap](https://www.openstreetmap.org/)

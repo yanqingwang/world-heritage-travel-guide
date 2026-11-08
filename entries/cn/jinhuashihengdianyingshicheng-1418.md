@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jinhua City"
 lat: 29.143633
 lon: 120.323376
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 金华市横店影视城景区 / Hengdian World Studios

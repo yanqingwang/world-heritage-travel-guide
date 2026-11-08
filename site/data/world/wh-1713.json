@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "XOF",
+  "currency_en": "West African CFA franc",
+  "currency_zh": "West African CFA franc",
+  "currency_symbol": "Fr",
+  "timezone_main": "UTC+00:00",
+  "drives_side": "",
+  "idd_prefix": "+226",
+  "languages": [
+   "French"
+  ],
+  "plug_types": "C,E",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:00Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

@@ -10,7 +10,7 @@
  "city_zh": "温州市",
  "city_en": "Wenzhou City",
  "name_zh": "温州市刘伯温故里景区",
- "name_en": "Wenzhoushiliubowenguli Scenic Area",
+ "name_en": "Liubowen Scenic Area",
  "name_en_source": "pinyin",
  "slug": "wenzhoushiliubowenguli-1376",
  "lat": 27.85048,
@@ -24,7 +24,16 @@
  "intro_zh": "景区总面积4.8平方公里，地域特色鲜明，由刘基庙和百丈漈两大核心景区构成，主要有一折瀑、西天屏、刘基庙、天顶湖、大象峰等景点，是人文与自然景观交相辉映、集多元文化于一体的综合型旅游休闲度假区。",
  "intro_en": "The scenic area has a total area of ​​4.8 square kilometers and has distinctive regional characteristics. It is composed of two core scenic spots, Liuji Temple and Baizhangji. It mainly has Yizhe Waterfall, Xitianping, Liuji Temple, Tianding Lake, Elephant Peak and other scenic spots. It is a comprehensive tourism and leisure resort where humanities and natural landscapes complement each other and integrate multiculturalism.",
  "intro_en_source": "machine_translation",
- "images": [],
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Liu_Ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Liu Ji.jpg",
+   "author": "Kuan-Shou（官周）",
+   "license": "Public domain",
+   "credit": "Chinese book \"晩笑堂竹荘畫傳\"",
+   "source": "https://commons.wikimedia.org/wiki/File:Liu_Ji.jpg"
+  }
+ ],
  "web": "",
  "booking": "",
  "transport": {
@@ -159,6 +168,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -170,9 +193,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/刘伯温"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

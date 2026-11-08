@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "SAR",
+  "currency_en": "Saudi riyal",
+  "currency_zh": "沙特里亚尔",
+  "currency_symbol": "ر.س",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+966",
+  "languages": [
+   "Arabic"
+  ],
+  "plug_types": "G",
+  "voltage": "230V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:47Z"
+ "updated_at": "2026-11-08T20:30:05Z"
 }

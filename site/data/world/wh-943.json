@@ -136,6 +136,22 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "EUR",
+  "currency_en": "Euro",
+  "currency_zh": "欧元",
+  "currency_symbol": "€",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+32",
+  "languages": [
+   "Dutch",
+   "French",
+   "German"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -172,5 +188,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:19Z"
+ "updated_at": "2026-11-08T20:30:01Z"
 }

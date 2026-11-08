@@ -10,7 +10,7 @@
  "city_zh": "赤峰市",
  "city_en": "Chifeng City",
  "name_zh": "赤峰市阿斯哈图石林景区",
- "name_en": "Chifengshiasihatushilin Scenic Area",
+ "name_en": "Shilinfengjingmingshengqu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "chifengshiasihatushilin-1320",
  "lat": 43.941128,
@@ -24,7 +24,24 @@
  "intro_zh": "克什克腾石阵即阿斯哈图石林，是一个以奇石、险峰、草原、白桦林为主要特色的景区。石林沿山脊呈北东向展布，分为三个核心景区，展现了石林之秀、石林之美、石林之灵、石林之形。",
  "intro_en": "Keshiketeng Stone Circle, also known as Ashatu Stone Forest, is a scenic spot with strange rocks, dangerous peaks, grasslands and birch forests as its main features. The stone forest spreads northeast along the ridge and is divided into three core scenic areas, showing the beauty, spirit and shape of the stone forest.",
  "intro_en_source": "machine_translation",
- "images": [],
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Shilin%2C_Yunnan_24740.jpg/1280px-Shilin%2C_Yunnan_24740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shilin, Yunnan 24740.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/53181418922/in/album-72177720311134477/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shilin%2C_Yunnan_24740.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Shilin_Yunnan_China_Shilin-Stone-Forest-01.jpg/1280px-Shilin_Yunnan_China_Shilin-Stone-Forest-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shilin Yunnan China Shilin-Stone-Forest-01.jpg",
+   "author": "CEphoto, Uwe Aranas",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shilin_Yunnan_China_Shilin-Stone-Forest-01.jpg"
+  }
+ ],
  "web": "",
  "booking": "",
  "transport": {
@@ -103,6 +120,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -114,9 +145,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/石林风景名胜区"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

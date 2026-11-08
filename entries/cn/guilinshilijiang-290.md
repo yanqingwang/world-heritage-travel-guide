@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Guilin"
 lat: 25.153166
 lon: 110.438262
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 桂林市漓江风景区 / Li River
@@ -34,9 +34,9 @@ updated_at: "2026-11-08T15:57:46Z"
 
 *Li Phi falls at dusk with colorful sky in Don Khon Laos.jpg · Basile Morin · CC BY-SA 4.0*
 
-![Li River, Yangshuo, Guangxi, October 1999 07.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_07.jpg/1280px-Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Li River, Yangshuo, Guangxi, October 1999 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_03.jpg/1280px-Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Li River, Yangshuo, Guangxi, October 1999 07.jpg · Calistemon · CC BY-SA 4.0*
+*Li River, Yangshuo, Guangxi, October 1999 03.jpg · Calistemon · CC BY-SA 4.0*
 
 ![Li River, Yangshuo, Guangxi, October 1999 09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_09.jpg/1280px-Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

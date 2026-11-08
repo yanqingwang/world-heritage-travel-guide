@@ -114,6 +114,21 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "SDG",
+  "currency_en": "Sudanese pound",
+  "currency_zh": "Sudanese pound",
+  "currency_symbol": "PT",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "",
+  "idd_prefix": "+249",
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "plug_types": "C,D",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -150,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:44:13Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(i)(ii)(iii)"
 lat: 31.59027778
 lon: 74.30972222
-updated_at: "2026-11-08T16:43:04Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 拉合尔古堡和夏利玛尔公园 / Fort and Shalamar Gardens in Lahore

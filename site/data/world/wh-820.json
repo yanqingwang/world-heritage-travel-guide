@@ -112,6 +112,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "CRC",
+  "currency_en": "Costa Rican colón",
+  "currency_zh": "Costa Rican colón",
+  "currency_symbol": "₡",
+  "timezone_main": "UTC-06:00",
+  "drives_side": "",
+  "idd_prefix": "+506",
+  "languages": [
+   "Spanish"
+  ],
+  "plug_types": "A,B",
+  "voltage": "120V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -148,5 +162,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:00Z"
+ "updated_at": "2026-11-08T20:30:01Z"
 }

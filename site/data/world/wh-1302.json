@@ -122,6 +122,23 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "CHF",
+  "currency_en": "Swiss franc",
+  "currency_zh": "瑞士法郎",
+  "currency_symbol": "Fr.",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "right",
+  "idd_prefix": "+41",
+  "languages": [
+   "French",
+   "Italian",
+   "Romansh",
+   "Swiss German"
+  ],
+  "plug_types": "C,J",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": false,
   "en": true,
@@ -156,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:53Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

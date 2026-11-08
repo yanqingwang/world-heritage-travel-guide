@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 46.03529961928571
 lon: 24.58737260285714
-updated_at: "2026-11-08T16:47:26Z"
+updated_at: "2026-11-08T20:29:59Z"
 ---
 
 # 特兰西瓦尼亚村落及其设防的教堂 / Villages with Fortified Churches in Transylvania

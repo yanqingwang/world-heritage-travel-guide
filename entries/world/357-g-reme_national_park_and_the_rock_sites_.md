@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)(v)(vii)"
 lat: 38.66667
 lon: 34.85
-updated_at: "2026-11-08T16:45:16Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 希拉波利斯和帕姆卡莱 / Göreme National Park and the Rock Sites of Cappadocia

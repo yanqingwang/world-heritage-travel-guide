@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "CZK",
+  "currency_en": "Czech koruna",
+  "currency_zh": "捷克克朗",
+  "currency_symbol": "Kč",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+420",
+  "languages": [
+   "Czech",
+   "Slovak"
+  ],
+  "plug_types": "C,F",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:47:31Z"
+ "updated_at": "2026-11-08T20:30:00Z"
 }

@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)(iii)"
 lat: 34.470277777
 lon: 135.823611111
-updated_at: "2026-11-08T16:51:04Z"
+updated_at: "2026-11-08T20:30:06Z"
 ---
 
 # 飞鸟与藤原古都 / Ancient Capitals of Asuka and Fujiwara

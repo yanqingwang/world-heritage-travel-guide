@@ -10,7 +10,7 @@
  "city_zh": "喀什地区",
  "city_en": "Kashgar Prefecture",
  "name_zh": "喀什地区金湖杨景区",
- "name_en": "Kashidiqujinhuyang Scenic Area",
+ "name_en": "Jinhuzhen Scenic Area",
  "name_en_source": "pinyin",
  "slug": "kashidiqujinhuyang-346",
  "lat": 38.035954,
@@ -24,7 +24,16 @@
  "intro_zh": "喀什地区泽普金湖杨景区占地面积有4万亩，其中天然胡杨林面积达2万亩。景区以广袤的天然胡杨林与开阔的叶尔羌河及河两岸平坦、荒芜的戈壁滩形成独特的自然风貌。胡杨、水、绿洲、戈壁四位一体的自然风貌向人们展示了一幅边塞画卷，堪称塔里木盆地西边缘不可多得的一处旅游胜地。",
  "intro_en": "Zepu Jinhu Yang Scenic Area in Kashgar region covers an area of ​​40,000 acres, of which the natural Populus euphratica forest area reaches 20,000 acres. The scenic area has a unique natural style with its vast natural Populus euphratica forest, the open Yarkand River and the flat, deserted Gobi Desert on both sides of the river. The four-in-one natural landscape of Populus euphratica, water, oasis and Gobi presents a picture of a frontier fortress, which can be called a rare tourist attraction on the western edge of the Tarim Basin.",
  "intro_en_source": "machine_translation",
- "images": [],
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%E9%87%91%E6%B9%96%E9%95%87%28%E5%B1%B1%E5%A4%96%29_-_Jinhu_Township_-_2014.05_-_panoramio.jpg/1280px-%E9%87%91%E6%B9%96%E9%95%87%28%E5%B1%B1%E5%A4%96%29_-_Jinhu_Township_-_2014.05_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "金湖镇(山外) - Jinhu Township - 2014.05 - panoramio.jpg",
+   "author": "rheins",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161030204911/http://www.panoramio.com/photo/116337242",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E6%B9%96%E9%95%87%28%E5%B1%B1%E5%A4%96%29_-_Jinhu_Township_-_2014.05_-_panoramio.jpg"
+  }
+ ],
  "web": "",
  "booking": "",
  "transport": {
@@ -103,6 +112,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -114,9 +137,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/金湖鎮"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:46Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

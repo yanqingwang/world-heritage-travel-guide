@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Changping District"
 lat: 40.263544
 lon: 116.231846
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 明十三陵景区 / Ming tombs
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:45Z"
 > 北京市 · 昌平区 · 历史遗址
 
 ## 图片 / Images
+
+![Mingchangling201910.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Mingchangling201910.jpg/1280px-Mingchangling201910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mingchangling201910.jpg · Charlie fong · CC BY-SA 4.0*
 
 ![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![Spirit Way Pass Through Emperor Pavilion in Thirteen Tombs of Ming Dynasty(WEST).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg/1280px-Spirit_Way_Pass_Through_Emperor_Pavilion_in_Thirteen_Tombs_of_Ming_Dynasty%28WEST%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Spirit Way Pass Through Emperor Pavilion in Thirteen Tombs of Ming Dynasty(WEST).jpg · Charlie fong · CC BY-SA 4.0*
-
-![Stone Camel Along The Spirit Way at Ming Tombs.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stone_Camel_Along_The_Spirit_Way_at_Ming_Tombs.jpg/1280px-Stone_Camel_Along_The_Spirit_Way_at_Ming_Tombs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Stone Camel Along The Spirit Way at Ming Tombs.jpg · Charlie fong · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

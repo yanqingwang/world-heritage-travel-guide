@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)"
 lat: 27.891069
 lon: 86.693033
-updated_at: "2026-11-08T16:42:50Z"
+updated_at: "2026-11-08T20:29:57Z"
 ---
 
 # 萨加玛塔国家公园 / Sagarmatha National Park

@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Hangzhou"
 lat: 29.552987
 lon: 119.060105
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 杭州市千岛湖风景区 / Qiandao Lake
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:45Z"
 > 浙江省 · 杭州市 · 自然风光
 
 ## 图片 / Images
+
+![Thousand Island Lake.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Thousand_Island_Lake.JPG/1280px-Thousand_Island_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Thousand Island Lake.JPG · ZHart · CC BY 3.0*
 
 ![Hai Rui Temple at Qiandao Lake.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Hai_Rui_Temple_at_Qiandao_Lake.JPG/1280px-Hai_Rui_Temple_at_Qiandao_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:45Z"
 ![Qiandao Lake (near Hangzhou) 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Qiandao_Lake_%28near_Hangzhou%29_2.jpg/1280px-Qiandao_Lake_%28near_Hangzhou%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Qiandao Lake (near Hangzhou) 2.jpg · Pauloleong2002 · CC BY-SA 4.0*
-
-![Qiandao Lake (near Hangzhou) 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Qiandao_Lake_%28near_Hangzhou%29_3.jpg/1280px-Qiandao_Lake_%28near_Hangzhou%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qiandao Lake (near Hangzhou) 3.jpg · Pauloleong2002 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

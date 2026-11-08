@@ -2,7 +2,7 @@
 id: "cn-1376"
 dataset: "china_5a"
 name_zh: "温州市刘伯温故里景区"
-name_en: "Wenzhoushiliubowenguli Scenic Area"
+name_en: "Liubowen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,12 +13,18 @@ province_en: "Zhejiang"
 city_en: "Wenzhou City"
 lat: 27.85048
 lon: 120.017937
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
-# 温州市刘伯温故里景区 / Wenzhoushiliubowenguli Scenic Area
+# 温州市刘伯温故里景区 / Liubowen Scenic Area
 
 > 浙江省 · 温州市 · 度假休闲
+
+## 图片 / Images
+
+![Liu Ji.jpg](https://upload.wikimedia.org/wikipedia/commons/5/50/Liu_Ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Liu Ji.jpg · Kuan-Shou（官周） · Public domain*
 
 ## 简介 / Introduction
 
@@ -58,4 +64,5 @@ The scenic area has a total area of ​​4.8 square kilometers and has distinct
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/刘伯温)
 - [OpenStreetMap](https://www.openstreetmap.org/)

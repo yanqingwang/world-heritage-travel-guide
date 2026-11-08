@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "MGA",
+  "currency_en": "Malagasy ariary",
+  "currency_zh": "Malagasy ariary",
+  "currency_symbol": "Ar",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+261",
+  "languages": [
+   "French",
+   "Malagasy"
+  ],
+  "plug_types": "C,E",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:46Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

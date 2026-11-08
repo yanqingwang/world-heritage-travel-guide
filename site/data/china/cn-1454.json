@@ -26,6 +26,14 @@
  "intro_en_source": "wikipedia",
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg/1280px-Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg"
+  },
+  {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiangxi_Yiyang.svg/1280px-Jiangxi_Yiyang.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "Jiangxi Yiyang.svg",
    "author": "Camphora",
@@ -39,7 +47,7 @@
    "author": "日本防衛省・統合幕僚監部",
    "license": "CC BY 4.0",
    "credit": "https://www.mod.go.jp/js/pdf/2024/p20240205_04.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:PLANS_Yiyang_%28FFG-548%29_20240205.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:PLANS_Yiyang_(FFG-548)_20240205.jpg"
   },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Yiyang-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -56,14 +64,6 @@
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
    "source": "https://commons.wikimedia.org/wiki/File:Yiyang_County_Museum.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg/1280px-Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg",
-   "author": "Zhangzhugang",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg"
   }
  ],
  "web": "http://www.guifengly.com/",
@@ -200,6 +200,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -219,5 +233,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

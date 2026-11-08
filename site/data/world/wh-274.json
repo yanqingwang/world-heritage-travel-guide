@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "PEN",
+  "currency_en": "Peruvian sol",
+  "currency_zh": "索尔",
+  "currency_symbol": "S/.",
+  "timezone_main": "UTC-05:00",
+  "drives_side": "",
+  "idd_prefix": "+51",
+  "languages": [
+   "Aymara",
+   "Quechua",
+   "Spanish"
+  ],
+  "plug_types": "A,C",
+  "voltage": "220V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:44:19Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

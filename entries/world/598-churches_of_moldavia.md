@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(iv)"
 lat: 47.733
 lon: 25.933
-updated_at: "2026-11-08T16:47:26Z"
+updated_at: "2026-11-08T20:29:59Z"
 ---
 
 # 苏切维察修道院的复活教堂 / Churches of Moldavia

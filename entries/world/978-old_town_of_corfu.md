@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iv)"
 lat: 39.623888888
 lon: 19.921388888
-updated_at: "2026-11-08T16:48:27Z"
+updated_at: "2026-11-08T20:30:02Z"
 ---
 
 # 科孚古城 / Old Town of Corfu

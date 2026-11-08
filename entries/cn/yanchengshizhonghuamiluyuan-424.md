@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Yancheng"
 lat: 32.989999
 lon: 120.821875
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 盐城市中华麋鹿园景区 / Yancheng
@@ -30,10 +30,6 @@ updated_at: "2026-11-08T15:57:46Z"
 
 *Yancheng Ruins, Jiangsu 03.jpg · Slyronit · CC BY-SA 4.0*
 
-![Yancheng Ruins, Jiangsu 11.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Yancheng_Ruins%2C_Jiangsu_11.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yancheng Ruins, Jiangsu 11.jpg · Slyronit · CC BY-SA 4.0*
-
 ![Yancheng Ruins, Jiangsu 19.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yancheng_Ruins%2C_Jiangsu_19.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Yancheng Ruins, Jiangsu 19.jpg · Slyronit · CC BY-SA 4.0*
@@ -41,6 +37,10 @@ updated_at: "2026-11-08T15:57:46Z"
 ![Yancheng Ruins, Jiangsu 28.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Yancheng_Ruins%2C_Jiangsu_28.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Yancheng Ruins, Jiangsu 28.jpg · Slyronit · CC BY-SA 4.0*
+
+![Yancheng Ruins, Jiangsu 32.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Yancheng_Ruins%2C_Jiangsu_32.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Yancheng Ruins, Jiangsu 32.jpg · Slyronit · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

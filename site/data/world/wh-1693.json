@@ -150,6 +150,21 @@
   }
  ],
  "visa_summary": "mixed",
+ "country_info": {
+  "currency_code": "KZT",
+  "currency_en": "Kazakhstani tenge",
+  "currency_zh": "Kazakhstani tenge",
+  "currency_symbol": "₸",
+  "timezone_main": "UTC+06:00",
+  "drives_side": "",
+  "idd_prefix": "+76",
+  "languages": [
+   "Kazakh",
+   "Russian"
+  ],
+  "plug_types": "C,F",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -186,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:00Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

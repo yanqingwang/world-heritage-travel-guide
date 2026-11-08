@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iii)(iv)(v)"
 lat: -2.52773314
 lon: -44.305795125
-updated_at: "2026-11-08T16:48:00Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 圣路易斯历史中心 / Historic Centre of São Luís

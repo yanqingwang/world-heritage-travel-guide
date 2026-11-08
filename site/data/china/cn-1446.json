@@ -10,8 +10,8 @@
  "city_zh": "浦东新区",
  "city_en": "Pudong New Area",
  "name_zh": "东方明珠广播电视塔",
- "name_en": "Dongfangmingzhuguangbodianshita",
- "name_en_source": "pinyin",
+ "name_en": "Oriental Pearl Tower",
+ "name_en_source": "wikipedia",
  "slug": "dongfangmingzhuguangbodianshita-1446",
  "lat": 31.244613,
  "lon": 121.506046,
@@ -22,8 +22,8 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "东方明珠广播电视塔是上海的标志性文化景观之一，位于浦东新区陆家嘴，塔高约468米。该建筑于1991年7月兴建，1995年5月投入使用，承担上海6套无线电视发射业务，地区覆盖半径80公里。塔内有太空舱、旋转餐厅、上海城市历史发展陈列馆等景观和设施。",
- "intro_en": "The Oriental Pearl Radio and Television Tower is one of Shanghai's iconic cultural landscapes. It is located in Lujiazui, Pudong New Area. The tower is about 468 meters high. The building was constructed in July 1991 and put into use in May 1995. It is responsible for the transmission business of 6 wireless TV sets in Shanghai, with an area coverage radius of 80 kilometers. There are landscapes and facilities in the tower such as a space capsule, a revolving restaurant, and the Shanghai Urban Historical Development Exhibition Hall.",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Oriental Pearl Tower is a futurist TV tower in Lujiazui, Shanghai. Built from 1991 to 1994, the tower was the tallest structure in China until the completion of nearby World Financial Center in 2007. Its status as Shanghai's first AAAAA tourist attraction, the tower's unique architecture, height, and fifteen observation decks have made it a cultural icon of the city.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Oriental_Pearl_Tower_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -212,15 +212,30 @@
  "hotels_nearby_30km": 633,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -230,9 +245,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/东方明珠广播电视塔"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

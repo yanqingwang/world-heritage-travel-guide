@@ -102,6 +102,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "COP",
+  "currency_en": "Colombian peso",
+  "currency_zh": "哥伦比亚比索",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-05:00",
+  "drives_side": "",
+  "idd_prefix": "+57",
+  "languages": [
+   "Spanish"
+  ],
+  "plug_types": "A,B",
+  "voltage": "110V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -138,5 +152,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:49:43Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

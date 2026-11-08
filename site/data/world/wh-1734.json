@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "MYR",
+  "currency_en": "Malaysian ringgit",
+  "currency_zh": "林吉特",
+  "currency_symbol": "RM",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "left",
+  "idd_prefix": "+60",
+  "languages": [
+   "English",
+   "Malay"
+  ],
+  "plug_types": "G",
+  "voltage": "240V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:51:02Z"
+ "updated_at": "2026-11-08T20:30:06Z"
 }

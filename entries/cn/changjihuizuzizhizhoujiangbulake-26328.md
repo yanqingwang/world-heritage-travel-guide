@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Changji Hui Autonomous Prefecture"
 lat: 43.654124
 lon: 89.732454
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 昌吉回族自治州江布拉克景区 / Changji Hui Autonomous Prefecture

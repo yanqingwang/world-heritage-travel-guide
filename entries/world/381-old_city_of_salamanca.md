@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iv)"
 lat: 40.96525
 lon: -5.6645
-updated_at: "2026-11-08T16:45:22Z"
+updated_at: "2026-11-08T20:29:58Z"
 ---
 
 # 萨拉曼卡古城 / Old City of Salamanca

@@ -146,6 +146,21 @@
   }
  ],
  "visa_summary": "visa_free",
+ "country_info": {
+  "currency_code": "PHP",
+  "currency_en": "Philippine peso",
+  "currency_zh": "菲律宾比索",
+  "currency_symbol": "₱",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "",
+  "idd_prefix": "+63",
+  "languages": [
+   "English",
+   "Filipino"
+  ],
+  "plug_types": "A,B,C",
+  "voltage": "220V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -182,5 +197,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:48Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

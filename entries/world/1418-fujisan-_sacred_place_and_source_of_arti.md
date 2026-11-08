@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(iii)(vi)"
 lat: 35.3608
 lon: 138.7275
-updated_at: "2026-11-08T16:50:05Z"
+updated_at: "2026-11-08T20:30:04Z"
 ---
 
 # 富士山——信仰之对象与艺术之源 / Fujisan, sacred place and source of artistic inspiration

@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Yichun City"
 lat: 48.465019
 lon: 129.458354
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 伊春市林海奇石景区 / Yichun, Heilongjiang

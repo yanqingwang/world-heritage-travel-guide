@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Bayinguolengmenggu Autonomous Prefecture"
 lat: 41.805435
 lon: 86.364754
-updated_at: "2026-11-08T15:57:46Z"
+updated_at: "2026-11-08T21:00:08Z"
 ---
 
 # 巴音郭楞蒙古自治州博斯腾湖景区 / Bosten Lake
@@ -21,6 +21,10 @@ updated_at: "2026-11-08T15:57:46Z"
 > 新疆维吾尔自治区 · 巴音郭楞蒙古自治州 · 草原沙漠
 
 ## 图片 / Images
+
+![新疆博斯腾湖国家湿地公园.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%E6%96%B0%E7%96%86%E5%8D%9A%E6%96%AF%E8%85%BE%E6%B9%96%E5%9B%BD%E5%AE%B6%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD.jpg/1280px-%E6%96%B0%E7%96%86%E5%8D%9A%E6%96%AF%E8%85%BE%E6%B9%96%E5%9B%BD%E5%AE%B6%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*新疆博斯腾湖国家湿地公园.jpg · liuxingy2015 · CC BY 2.0*
 
 ![Bosten-Lake (Bosten-See), Xinjiang, China, 87.00E, 42.00N.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bosten-Lake_%28Bosten-See%29%2C_Xinjiang%2C_China%2C_87.00E%2C_42.00N.jpg/1280px-Bosten-Lake_%28Bosten-See%29%2C_Xinjiang%2C_China%2C_87.00E%2C_42.00N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -37,10 +41,6 @@ updated_at: "2026-11-08T15:57:46Z"
 ![Xinjiang, China, Lake Bosten Bebop Drone 2015-09-15T191932+0000 CE7C0A.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191932%2B0000_CE7C0A.jpg/1280px-Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191932%2B0000_CE7C0A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Xinjiang, China, Lake Bosten Bebop Drone 2015-09-15T191932+0000 CE7C0A.jpg · w0zny · CC BY-SA 3.0*
-
-![Xinjiang, China, Lake Bosten Bebop Drone 2015-09-15T191956+0000 CE7C0A.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191956%2B0000_CE7C0A.jpg/1280px-Xinjiang%2C_China%2C_Lake_Bosten_Bebop_Drone_2015-09-15T191956%2B0000_CE7C0A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xinjiang, China, Lake Bosten Bebop Drone 2015-09-15T191956+0000 CE7C0A.jpg · w0zny · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

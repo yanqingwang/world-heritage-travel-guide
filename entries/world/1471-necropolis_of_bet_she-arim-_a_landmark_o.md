@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iii)"
 lat: 32.704166666
 lon: 35.128055555
-updated_at: "2026-11-08T16:50:21Z"
+updated_at: "2026-11-08T20:30:04Z"
 ---
 
 # 贝特沙瑞姆大型公墓—犹太复兴中心 / Necropolis of Bet She’arim: A Landmark of Jewish Renewal

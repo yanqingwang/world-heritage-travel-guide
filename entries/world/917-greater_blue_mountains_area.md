@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ix)(x)"
 lat: -33.7
 lon: 150.0
-updated_at: "2026-11-08T16:48:16Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 大蓝山山脉地区 / Greater Blue Mountains Area

@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ix)(x)"
 lat: 7.45245
 lon: 80.8021
-updated_at: "2026-11-08T16:49:39Z"
+updated_at: "2026-11-08T20:30:03Z"
 ---
 
 # 斯里兰卡中央高地 / Central Highlands of Sri Lanka

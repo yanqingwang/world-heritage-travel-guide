@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Aksu Prefecture"
 lat: 41.725426
 lon: 80.558971
-updated_at: "2026-11-08T15:57:44Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 阿克苏地区天山托木尔景区 / Aksu Prefecture

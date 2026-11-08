@@ -219,6 +219,34 @@
   }
  ],
  "visa_summary": "visa_on_arrival",
+ "country_info": {
+  "currency_code": "BWP",
+  "currency_en": "Botswana pula",
+  "currency_zh": "Botswana pula",
+  "currency_symbol": "P",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "left",
+  "idd_prefix": "+263",
+  "languages": [
+   "Chewa",
+   "Chibarwe",
+   "English",
+   "Kalanga",
+   "Khoisan",
+   "Ndau",
+   "Northern Ndebele",
+   "Shona",
+   "Sotho",
+   "Tonga",
+   "Tsonga",
+   "Tswana",
+   "Venda",
+   "Xhosa",
+   "Zimbabwean Sign Language"
+  ],
+  "plug_types": "D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -255,5 +283,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:16Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

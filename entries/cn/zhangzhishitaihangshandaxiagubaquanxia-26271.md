@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Changzhi"
 lat: 35.952601
 lon: 113.452974
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 长治市太行山大峡谷八泉峡景区 / Changzhi

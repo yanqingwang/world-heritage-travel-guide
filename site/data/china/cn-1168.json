@@ -22,8 +22,8 @@
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
  "intro_zh": "青海湖，藏语名为“措温布”（意为“青色的海”），是中国较大的内陆湖、咸水湖，由祁连山脉的大通山、日月山与青海南山之间的断层陷落形成。景区地域辽阔，草原广袤，河流众多，水草丰美；区内碧波连天的湖水被四周的高山环抱，好似一盏巨大的翡翠玉盘平嵌在高山、草原之间，构成了一幅山、湖、草原相映成趣的壮美风光和绮丽景色。",
- "intro_en": "Qinghai Lake, whose Tibetan name is \"Cowenbu\" (meaning \"blue sea\"), is China's largest inland lake and saltwater lake. It was formed by the collapse of the fault between Datong Mountain, Riyue Mountain and Qinghai Nanshan in the Qilian Mountains. The scenic area is vast, with vast grasslands, numerous rivers, and rich water and grass. The clear blue lake in the area is surrounded by the surrounding mountains, like a huge emerald jade plate embedded between the mountains and grasslands, forming a magnificent and beautiful scenery where mountains, lakes, and grasslands complement each other.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Qinghai Lake is the largest lake in China. Located in the Qinghai Province, to which it gave its name, Qinghai Lake is classified as an alkaline endorheic salt lake. The lake has fluctuated in size, shrinking over much of the 20th century but increasing since 2004. It had a surface area of 4,317 km2 (1,667 sq mi), an average depth of 21 m (69 ft), and a maximum depth of 25.5 m (84 ft) in 2008.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/%E9%9D%92%E6%B5%B7%E6%B9%96%E8%88%AA%E6%8B%8D.jpg/1280px-%E9%9D%92%E6%B5%B7%E6%B9%96%E8%88%AA%E6%8B%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -31,7 +31,7 @@
    "author": "三猎",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E6%B5%B7%E6%B9%96%E8%88%AA%E6%8B%8D.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:青海湖航拍.jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B5%81%E5%9F%9F%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B5%81%E5%9F%9F%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -39,7 +39,7 @@
    "author": "Q97300369",
    "license": "Public domain",
    "credit": "The file is from National Database of Laws and Regulations maintained by General Office of the Standing Committee of the National People's Congress of People's ",
-   "source": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B5%81%E5%9F%9F%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf"
+   "source": "https://commons.wikimedia.org/wiki/File:青海湖流域生态环境保护条例.pdf"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/202606_Qinghai_Lake_01.jpg/1280px-202606_Qinghai_Lake_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -168,6 +168,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -187,5 +201,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:07Z"
 }

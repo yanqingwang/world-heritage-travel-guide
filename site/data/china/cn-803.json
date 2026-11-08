@@ -22,8 +22,8 @@
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
  "intro_zh": "绵山风景名胜区，跨介休、灵石、沁源三市县地界，是太岳山的一条支脉。景区建筑群体中宗教建筑有殿庙、宫观，园林建筑有亭、台、楼、阁、轩、廊、榭、牌楼，古留遗迹建筑有古营门、城池、营寨等。",
- "intro_en": "Mianshan Scenic Area, spanning the boundaries of Jiexiu, Lingshi and Qinyuan cities and counties, is a branch of Taiyue Mountain. Among the architectural groups in the scenic area, religious buildings include temples and palaces, garden buildings include pavilions, terraces, towers, pavilions, pavilions, corridors, pavilions, and archways, and ancient relic buildings include ancient camp gates, cities, camps, etc.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Jinzhong, formerly Yuci, is a prefecture-level city in east central Shanxi province of the People's Republic of China, bordering Hebei province to the east. As of the 2020 census, its total population was 3,379,498 inhabitants of whom 1,226,617 lived in the Yuci and Taigu urban districts. However, 5,433,659 lived in the built-up (or metro) area of Taiyuan - Jinzhong made of Yuci district plus the 6 Taiyuan urban/built-up districts, largely conurbated.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Buildings_in_Pingyao_2018-06-13_093324.jpg/1280px-Buildings_in_Pingyao_2018-06-13_093324.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -47,7 +47,7 @@
    "author": "N509FZ",
    "license": "CC BY-SA 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_%2820241107155630%29.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_(20241107155630).jpg"
   },
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg/1280px-Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,7 +55,7 @@
    "author": "Ib",
    "license": "CC BY 4.0",
    "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_(August_11,_2026).jpg"
   },
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jinzhong_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -190,6 +190,20 @@
    "official website language switcher"
   ]
  },
+ "country_info": {
+  "currency_code": "CNY",
+  "currency_en": "Chinese yuan",
+  "currency_zh": "人民币",
+  "currency_symbol": "¥",
+  "timezone_main": "UTC+08:00",
+  "drives_side": "right",
+  "idd_prefix": "+86",
+  "languages": [
+   "Chinese"
+  ],
+  "plug_types": "A,C,I",
+  "voltage": "220V/50Hz"
+ },
  "foreign_visitors": {
   "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
@@ -209,5 +223,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T15:57:45Z"
+ "updated_at": "2026-11-08T21:00:08Z"
 }

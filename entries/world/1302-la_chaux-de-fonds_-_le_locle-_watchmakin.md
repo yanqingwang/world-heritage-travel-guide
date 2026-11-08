@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(iv)"
 lat: 47.08
 lon: 6.78
-updated_at: "2026-11-08T16:49:53Z"
+updated_at: "2026-11-08T20:30:03Z"
 ---
 
 # 拉绍德封/勒洛克勒，钟表制造城镇规划 / La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning

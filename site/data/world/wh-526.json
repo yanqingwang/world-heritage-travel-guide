@@ -122,6 +122,20 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "DOP",
+  "currency_en": "Dominican peso",
+  "currency_zh": "Dominican peso",
+  "currency_symbol": "$",
+  "timezone_main": "UTC-04:00",
+  "drives_side": "",
+  "idd_prefix": "+1809",
+  "languages": [
+   "Spanish"
+  ],
+  "plug_types": "A,B",
+  "voltage": "110V/60Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:51Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

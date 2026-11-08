@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(v)"
 lat: 61.707222222
 lon: 16.195833333
-updated_at: "2026-11-08T16:49:51Z"
+updated_at: "2026-11-08T20:30:03Z"
 ---
 
 # 海尔辛兰装饰农舍 / Decorated Farmhouses of Hälsingland

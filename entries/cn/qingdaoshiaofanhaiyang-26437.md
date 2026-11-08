@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Qingdao"
 lat: 36.066251
 lon: 120.39726
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 青岛市奥帆海洋文化旅游区 / Qingdao

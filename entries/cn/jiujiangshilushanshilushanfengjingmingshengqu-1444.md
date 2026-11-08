@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Jiujiang"
 lat: 29.561544
 lon: 116.001082
-updated_at: "2026-11-08T15:57:45Z"
+updated_at: "2026-11-08T21:00:07Z"
 ---
 
 # 九江市庐山市庐山风景名胜区 / Lushan City
@@ -30,9 +30,9 @@ updated_at: "2026-11-08T15:57:45Z"
 
 *第六批江西省文物保护单位名单.pdf · 江西省人民政府 · Public domain*
 
-![CN Lushan 0806 (4) (17006517717).jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/CN_Lushan_0806_%284%29_%2817006517717%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![CN Lushan 0806 (16) (17026182788).jpg](https://upload.wikimedia.org/wikipedia/commons/7/74/CN_Lushan_0806_%2816%29_%2817026182788%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*CN Lushan 0806 (4) (17006517717).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+*CN Lushan 0806 (16) (17026182788).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
 
 ![Lushan Funicular Car 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lushan_Funicular_Car_1.jpg/1280px-Lushan_Funicular_Car_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

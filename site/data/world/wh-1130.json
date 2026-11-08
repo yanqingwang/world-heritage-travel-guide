@@ -221,6 +221,22 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "IQD",
+  "currency_en": "Iraqi dinar",
+  "currency_zh": "Iraqi dinar",
+  "currency_symbol": "ع.د",
+  "timezone_main": "UTC+03:00",
+  "drives_side": "",
+  "idd_prefix": "+964",
+  "languages": [
+   "Arabic",
+   "Aramaic",
+   "Sorani"
+  ],
+  "plug_types": "C,D,G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -257,5 +273,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:48:45Z"
+ "updated_at": "2026-11-08T20:30:03Z"
 }

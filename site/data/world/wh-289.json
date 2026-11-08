@@ -122,6 +122,21 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "MWK",
+  "currency_en": "Malawian kwacha",
+  "currency_zh": "Malawian kwacha",
+  "currency_symbol": "MK",
+  "timezone_main": "UTC+02:00",
+  "drives_side": "left",
+  "idd_prefix": "+265",
+  "languages": [
+   "Chewa",
+   "English"
+  ],
+  "plug_types": "G",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:44:21Z"
+ "updated_at": "2026-11-08T20:29:58Z"
 }

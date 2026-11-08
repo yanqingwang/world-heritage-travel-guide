@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ix)(x)"
 lat: 43.933333333
 lon: 144.95
-updated_at: "2026-11-08T16:48:55Z"
+updated_at: "2026-11-08T20:30:03Z"
 ---
 
 # 知床半岛 / Shiretoko

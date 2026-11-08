@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)(v)"
 lat: 40.633333333
 lon: 14.6
-updated_at: "2026-11-08T16:48:00Z"
+updated_at: "2026-11-08T20:30:01Z"
 ---
 
 # 阿马尔菲海岸景观 / Costiera Amalfitana

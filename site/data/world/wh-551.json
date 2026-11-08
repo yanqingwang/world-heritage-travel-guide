@@ -122,6 +122,22 @@
   }
  ],
  "visa_summary": "visa_required",
+ "country_info": {
+  "currency_code": "NZD",
+  "currency_en": "New Zealand dollar",
+  "currency_zh": "新西兰元",
+  "currency_symbol": "$",
+  "timezone_main": "UTC+12:00",
+  "drives_side": "left",
+  "idd_prefix": "+64",
+  "languages": [
+   "English",
+   "Māori",
+   "New Zealand Sign Language"
+  ],
+  "plug_types": "I",
+  "voltage": "230V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -158,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:45:51Z"
+ "updated_at": "2026-11-08T20:29:59Z"
 }

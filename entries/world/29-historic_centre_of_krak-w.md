@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(iv)"
 lat: 50.06209
 lon: 19.93688
-updated_at: "2026-11-08T16:42:31Z"
+updated_at: "2026-11-08T20:29:56Z"
 ---
 
 # 克拉科夫历史中心 / Historic Centre of Kraków

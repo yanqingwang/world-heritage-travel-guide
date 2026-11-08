@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)(v)"
 lat: 36.25694444
 lon: 136.90638889
-updated_at: "2026-11-08T16:47:48Z"
+updated_at: "2026-11-08T20:30:00Z"
 ---
 
 # 白川乡和五屹山历史村落 / Historic Villages of Shirakawa-go and Gokayama

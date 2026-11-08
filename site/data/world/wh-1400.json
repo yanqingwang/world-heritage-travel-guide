@@ -112,6 +112,21 @@
   }
  ],
  "visa_summary": "evisa",
+ "country_info": {
+  "currency_code": "XAF",
+  "currency_en": "Central African CFA franc",
+  "currency_zh": "Central African CFA franc",
+  "currency_symbol": "Fr",
+  "timezone_main": "UTC+01:00",
+  "drives_side": "",
+  "idd_prefix": "+235",
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "plug_types": "C,E",
+  "voltage": "220V/50Hz"
+ },
  "info_languages": {
   "zh": true,
   "en": true,
@@ -145,5 +160,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:50:05Z"
+ "updated_at": "2026-11-08T20:30:04Z"
 }
