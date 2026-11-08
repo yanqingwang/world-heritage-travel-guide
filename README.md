@@ -2,7 +2,7 @@
 
 [![Update data and deploy](https://github.com/yanqingwang/world-heritage-travel-guide/actions/workflows/update.yml/badge.svg)](https://github.com/yanqingwang/world-heritage-travel-guide/actions/workflows/update.yml)
 
-A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas** and **1,213 UNESCO World Heritage sites outside China** (150 of them with full records). Every record is available in Chinese and English, with the country's official language added whenever an official UNESCO edition or a Wikipedia edition exists.
+A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas** and **1,213 UNESCO World Heritage sites outside China** (300 of them with full records). Every record is available in Chinese and English, with the country's official language added whenever an official UNESCO edition or a Wikipedia edition exists.
 
 **[Open the site →](https://yanqingwang.github.io/world-heritage-travel-guide/)**
 
@@ -16,7 +16,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 |---|---:|---|
 | 中国 5A 景区 | 359 | 名称、省市、详细地址、坐标、特色分类、中英文简介、最多 5 张图片、最近高铁站/机场、30 km 内星级/连锁酒店（最多 5 家）、中英日韩信息可得性、境外游客提示 |
 | 海外 UNESCO 世界遗产 | 1,213 | 官方中/英/法/西/俄/阿文本、所在国官方语言版本、入选年份/标准、机场与距北京直线距离、签证（中国护照）、多语言信息可得性 |
-| 海外「完整资料」条目 | 150 | 在上一行基础上增加 50 km 内酒店、码头/火车站、最多 5 张图片与热度排名 |
+| 海外「完整资料」条目 | 300 | 在上一行基础上增加 50 km 内酒店、码头/火车站、最多 5 张图片与热度排名 |
 
 ### 主要特点
 
@@ -125,7 +125,7 @@ python -m http.server 8000 --directory site
 |---|---:|---|
 | China 5A scenic areas | 359 | Names, province/city, address, coordinates, category, Chinese/English intros, up to 5 images, nearest high-speed rail station/airport, up to 5 star/chain hotels within 30 km, zh/en/ja/ko information availability, international-visitor note |
 | Overseas UNESCO sites | 1,213 | Official UNESCO text in zh/en/fr/es/ru/ar, the country's official language where available, inscription year/criteria, airports and great-circle distance from Beijing, visa rules for Chinese passports, language availability |
-| Overseas "full" records | 150 | Adds hotels within 50 km, ferry terminals/railway stations, up to 5 images and a popularity rank |
+| Overseas "full" records | 300 | Adds hotels within 50 km, ferry terminals/railway stations, up to 5 images and a popularity rank |
 
 ### Highlights
 

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Luciano Residence Kazan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.786787,
+   "lon": 49.1163382,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Luciano",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7871085,
+   "lon": 49.1174693,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Noble Millennium Panorama",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.8117796,
+   "lon": 49.1323208,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kazan Palace by Tasigo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7827494,
+   "lon": 49.1374612,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Корстон",
+   "name_en": "Korston",
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7938389,
+   "lon": 49.1495475,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 169,
+ "stations": [
+  {
+   "name": "Казань-Пассажирская",
+   "name_en": "Kazan-Passazhirskaya",
+   "lat": 55.7886328,
+   "lon": 49.0997021,
+   "distance_km": 1.1,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Вахитово",
+   "name_en": "Vahitovo",
+   "lat": 55.7667786,
+   "lon": 49.1075501,
+   "distance_km": 3.4,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Ометьево",
+   "name_en": null,
+   "lat": 55.7773323,
+   "lon": 49.1681028,
+   "distance_km": 4.4,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Восстание-Пассажирская",
+   "name_en": null,
+   "lat": 55.8430534,
+   "lon": 49.0795717,
+   "distance_km": 5.4,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Лагерная",
+   "name_en": "Lagernaya",
+   "lat": 55.8012857,
+   "lon": 49.011757,
+   "distance_km": 6.0,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Восстание",
+   "name_en": null,
+   "lat": 55.8392578,
+   "lon": 49.0414106,
+   "distance_km": 6.2,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Тихорецкая",
+   "name_en": null,
+   "lat": 55.7376227,
+   "lon": 49.1280249,
+   "distance_km": 6.8,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Дербышки",
+   "name_en": null,
+   "lat": 55.8537996,
+   "lon": 49.1964536,
+   "distance_km": 8.4,
+   "operator": "ОАО «РЖД»"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Центр семьи Казан",
+   "name_en": null,
+   "lat": 55.8125785,
+   "lon": 49.1103295,
+   "distance_km": 1.7,
+   "operator": null
+  },
+  {
+   "name": "Речной вокзал Казань",
+   "name_en": "River Station Kazan",
+   "lat": 55.7743901,
+   "lon": 49.0927854,
+   "distance_km": 2.7,
+   "operator": "АО \"Флот РТ\""
+  },
+  {
+   "name": "Казань",
+   "name_en": null,
+   "lat": 55.7735623,
+   "lon": 49.0903101,
+   "distance_km": 2.9,
+   "operator": null
+  },
+  {
+   "name": "Kasan",
+   "name_en": null,
+   "lat": 55.7553996,
+   "lon": 49.0713357,
+   "distance_km": 5.2,
+   "operator": null
+  },
+  {
+   "name": "Верхний Услон",
+   "name_en": null,
+   "lat": 55.7725195,
+   "lon": 48.9910855,
+   "distance_km": 7.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:39Z"
+}

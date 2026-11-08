@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Blue Spring",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 27.3062608,
+   "lon": 88.3644629,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Floret holiday",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.685946,
+   "lon": 88.747192,
+   "distance_km": 43.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "kanchenjunga iceland guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.7900077,
+   "lon": 88.0360095,
+   "distance_km": 31.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "kanchenjunga iceland guest house lonak",
+   "name_en": "kanchenjunga iceland guest house lonak",
+   "stars": null,
+   "brand": null,
+   "lat": 27.7900217,
+   "lon": 88.0360019,
+   "distance_km": 31.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ejam Residency",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.3720514,
+   "lon": 88.22334,
+   "distance_km": 32.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 83,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:16:18Z"
+}

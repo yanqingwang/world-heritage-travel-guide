@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Palé Hall Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.9125917,
+   "lon": -3.5144551,
+   "distance_km": 29.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "West Arms Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.886526,
+   "lon": -3.2541816,
+   "distance_km": 14.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Coach House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.1920356,
+   "lon": -2.8928627,
+   "distance_km": 27.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Queen Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western",
+   "lat": 53.1959501,
+   "lon": -2.880069,
+   "distance_km": 28.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel & Spa Chester",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.2063529,
+   "lon": -2.8541178,
+   "distance_km": 30.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 291,
+ "stations": [
+  {
+   "name": "Ruabon",
+   "name_en": "Ruabon",
+   "lat": 52.98724,
+   "lon": -3.0433414,
+   "distance_km": 3.5,
+   "operator": "Transport for Wales Rail"
+  },
+  {
+   "name": "Chirk",
+   "name_en": "Chirk",
+   "lat": 52.9332472,
+   "lon": -3.06615,
+   "distance_km": 4.4,
+   "operator": "Transport for Wales Rail"
+  },
+  {
+   "name": "Llangollen",
+   "name_en": null,
+   "lat": 52.9713051,
+   "lon": -3.1714237,
+   "distance_km": 5.6,
+   "operator": null
+  },
+  {
+   "name": "Berwyn",
+   "name_en": null,
+   "lat": 52.979942,
+   "lon": -3.1950487,
+   "distance_km": 7.3,
+   "operator": null
+  },
+  {
+   "name": "Gobowen",
+   "name_en": null,
+   "lat": 52.8933219,
+   "lon": -3.0368846,
+   "distance_km": 9.2,
+   "operator": "Transport for Wales Rail"
+  },
+  {
+   "name": "Deeside Halt",
+   "name_en": null,
+   "lat": 52.9727965,
+   "lon": -3.2301065,
+   "distance_km": 9.5,
+   "operator": null
+  },
+  {
+   "name": "Wrexham Central",
+   "name_en": "Wrexham Central",
+   "lat": 53.0463361,
+   "lon": -2.9996254,
+   "distance_km": 10.3,
+   "operator": "Transport for Wales Rail"
+  },
+  {
+   "name": "Wrexham General",
+   "name_en": "Wrexham General",
+   "lat": 53.0505698,
+   "lon": -3.0015161,
+   "distance_km": 10.6,
+   "operator": "Transport for Wales Rail"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sandy Lane",
+   "name_en": null,
+   "lat": 53.1874843,
+   "lon": -2.8700717,
+   "distance_km": 28.2,
+   "operator": "Cheshire West and Chester Council"
+  },
+  {
+   "name": "The Meadows",
+   "name_en": null,
+   "lat": 53.1877148,
+   "lon": -2.8713181,
+   "distance_km": 28.2,
+   "operator": "Cheshire West and Chester Countil"
+  },
+  {
+   "name": "Sabrina Boat",
+   "name_en": null,
+   "lat": 52.709833,
+   "lon": -2.7582982,
+   "distance_km": 36.4,
+   "operator": null
+  },
+  {
+   "name": "Ince Ferry",
+   "name_en": null,
+   "lat": 53.2893996,
+   "lon": -2.8254091,
+   "distance_km": 39.6,
+   "operator": null
+  },
+  {
+   "name": "Woodside (Mersey Ferry)",
+   "name_en": null,
+   "lat": 53.3955501,
+   "lon": -3.0088011,
+   "distance_km": 47.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:55Z"
+}

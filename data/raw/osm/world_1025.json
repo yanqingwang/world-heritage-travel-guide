@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hyatt Regency Rome Central",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 41.8965671,
+   "lon": 12.5063063,
+   "distance_km": 25.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Collection Hotels Roma Palazzo Cinquecento",
+   "name_en": null,
+   "stars": 5,
+   "brand": "NH Collection Hotels",
+   "lat": 41.902594,
+   "lon": 12.5016035,
+   "distance_km": 25.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel \"Parco dei Principi\"",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9175913,
+   "lon": 12.4920147,
+   "distance_km": 25.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Griffe",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9013529,
+   "lon": 12.4944032,
+   "distance_km": 25.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ambasciatori Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9062786,
+   "lon": 12.4895349,
+   "distance_km": 26.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1056,
+ "stations": [
+  {
+   "name": "Tivoli",
+   "name_en": null,
+   "lat": 41.9618813,
+   "lon": 12.8050665,
+   "distance_km": 0.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Marcellina-Palombara",
+   "name_en": null,
+   "lat": 41.9996557,
+   "lon": 12.791368,
+   "distance_km": 4.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Guidonia Collefiorito",
+   "name_en": null,
+   "lat": 41.9779924,
+   "lon": 12.7222669,
+   "distance_km": 6.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Tivoli Terme",
+   "name_en": null,
+   "lat": 41.9496564,
+   "lon": 12.7222218,
+   "distance_km": 6.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Castel Madama",
+   "name_en": null,
+   "lat": 41.9883592,
+   "lon": 12.8648771,
+   "distance_km": 6.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Valle dell'Aniene-Mandela-Sambuci",
+   "name_en": null,
+   "lat": 42.0161553,
+   "lon": 12.9219755,
+   "distance_km": 12.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Ponte di Nona",
+   "name_en": null,
+   "lat": 41.9188064,
+   "lon": 12.654363,
+   "distance_km": 12.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Colonna Galleria",
+   "name_en": null,
+   "lat": 41.8385375,
+   "lon": 12.7560312,
+   "distance_km": 14.2,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ponte Risorgimento",
+   "name_en": null,
+   "lat": 41.9194623,
+   "lon": 12.4702226,
+   "distance_km": 27.4,
+   "operator": null
+  },
+  {
+   "name": "Ponte Cavour",
+   "name_en": null,
+   "lat": 41.9044109,
+   "lon": 12.4743542,
+   "distance_km": 27.4,
+   "operator": null
+  },
+  {
+   "name": "Isola Tiberina",
+   "name_en": null,
+   "lat": 41.8903339,
+   "lon": 12.4757678,
+   "distance_km": 27.7,
+   "operator": null
+  },
+  {
+   "name": "Sant'Angelo",
+   "name_en": null,
+   "lat": 41.901758,
+   "lon": 12.4681481,
+   "distance_km": 28.0,
+   "operator": null
+  },
+  {
+   "name": "Anguillara Sabazia",
+   "name_en": null,
+   "lat": 42.0929108,
+   "lon": 12.2676718,
+   "distance_km": 46.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:07Z"
+}

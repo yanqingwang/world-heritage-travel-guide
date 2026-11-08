@@ -1,0 +1,52 @@
+{
+ "hotels": [
+  {
+   "name": "فندق بيوم ليكسايد",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.4195825,
+   "lon": 30.4615035,
+   "distance_km": 43.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MalakTunis",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3980523,
+   "lon": 30.4929282,
+   "distance_km": 45.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "سوبك",
+   "name_en": "Sobek Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": 29.3961819,
+   "lon": 30.4959299,
+   "distance_km": 46.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tzila Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3947503,
+   "lon": 30.4971162,
+   "distance_km": 46.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 4,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:15:21Z"
+}

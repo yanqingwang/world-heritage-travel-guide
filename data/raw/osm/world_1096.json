@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "מלון רנסאנס",
+   "name_en": "Renaissance Tel Aviv Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.0832244,
+   "lon": 34.7685896,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Tel Aviv",
+   "name_en": "Hilton Tel Aviv",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 32.0895867,
+   "lon": 34.770817,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "موفنبيك رام الله",
+   "name_en": "Movenpick Ramallah",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.8958126,
+   "lon": 35.2046063,
+   "distance_km": 45.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "אריסטוקרט",
+   "name_en": "Aristocrat",
+   "stars": 4,
+   "brand": null,
+   "lat": 32.0739035,
+   "lon": 34.8374427,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Park Hotel",
+   "name_en": "Grand Park Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 31.8891272,
+   "lon": 35.1996772,
+   "distance_km": 45.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 193,
+ "stations": [
+  {
+   "name": "יהודית",
+   "name_en": "Yehudit",
+   "lat": 32.0703643,
+   "lon": 34.7886062,
+   "distance_km": 1.6,
+   "operator": null
+  },
+  {
+   "name": "קרליבך",
+   "name_en": "Carlebach",
+   "lat": 32.0655922,
+   "lon": 34.7832245,
+   "distance_km": 1.6,
+   "operator": "NTA"
+  },
+  {
+   "name": "אלנבי",
+   "name_en": "Allenby",
+   "lat": 32.0627053,
+   "lon": 34.7748797,
+   "distance_km": 1.7,
+   "operator": "Tevel Metro"
+  },
+  {
+   "name": "שאול המלך",
+   "name_en": "Shaul HaMelech",
+   "lat": 32.0769175,
+   "lon": 34.7921548,
+   "distance_km": 1.7,
+   "operator": null
+  },
+  {
+   "name": "תל אביב השלום",
+   "name_en": "Tel Aviv Hashalom",
+   "lat": 32.0735594,
+   "lon": 34.7931642,
+   "distance_km": 1.9,
+   "operator": null
+  },
+  {
+   "name": "ארלוזורוב",
+   "name_en": "Arlozoroff",
+   "lat": 32.081565,
+   "lon": 34.7965082,
+   "distance_km": 2.2,
+   "operator": null
+  },
+  {
+   "name": "תל אביב סבידור מרכז",
+   "name_en": "Tel Aviv Savidor Center",
+   "lat": 32.0842437,
+   "lon": 34.7983117,
+   "distance_km": 2.4,
+   "operator": null
+  },
+  {
+   "name": "אליפלט",
+   "name_en": "Elifelet",
+   "lat": 32.058341,
+   "lon": 34.7627699,
+   "distance_km": 2.4,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Jaffa Port",
+   "name_en": "Jaffa Port",
+   "lat": 32.053985,
+   "lon": 34.750271,
+   "distance_km": 3.5,
+   "operator": null
+  },
+  {
+   "name": "מרינה הרצליה",
+   "name_en": "Herzliya Marina",
+   "lat": 32.1620918,
+   "lon": 34.7939209,
+   "distance_km": 9.6,
+   "operator": null
+  },
+  {
+   "name": "נמל אשדוד",
+   "name_en": "Ashdod Port",
+   "lat": 31.8287863,
+   "lon": 34.6475703,
+   "distance_km": 30.1,
+   "operator": null
+  },
+  {
+   "name": "אולם הנוסעים נמל אשדוד",
+   "name_en": "Ashdod Port Terminal",
+   "lat": 31.8272528,
+   "lon": 34.6437361,
+   "distance_km": 30.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:29Z"
+}

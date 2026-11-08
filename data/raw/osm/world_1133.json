@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Galerie",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.0031944,
+   "lon": 14.7723417,
+   "distance_km": 16.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zlatá Hvězda",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.0036388,
+   "lon": 14.7707043,
+   "distance_km": 16.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Stern",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.7731692,
+   "lon": 14.9843399,
+   "distance_km": 25.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sole-Felsen-Bad",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.7567078,
+   "lon": 14.9921834,
+   "distance_km": 27.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Artaban",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2536506,
+   "lon": 15.1848626,
+   "distance_km": 31.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 155,
+ "stations": [
+  {
+   "name": "Litschau",
+   "name_en": null,
+   "lat": 48.9418656,
+   "lon": 15.0441647,
+   "distance_km": 7.2,
+   "operator": "NÖVOG"
+  },
+  {
+   "name": "Nová Bystřice",
+   "name_en": null,
+   "lat": 49.0191979,
+   "lon": 15.1110555,
+   "distance_km": 8.4,
+   "operator": "Gepard Infra"
+  },
+  {
+   "name": "Majdalena",
+   "name_en": null,
+   "lat": 48.9505318,
+   "lon": 14.8681909,
+   "distance_km": 11.1,
+   "operator": null
+  },
+  {
+   "name": "Hůrky",
+   "name_en": null,
+   "lat": 49.04537,
+   "lon": 15.158327,
+   "distance_km": 12.6,
+   "operator": "Gepard Infra"
+  },
+  {
+   "name": "Senotín",
+   "name_en": null,
+   "lat": 49.0659236,
+   "lon": 15.1576607,
+   "distance_km": 13.6,
+   "operator": "Gepard Infra"
+  },
+  {
+   "name": "Suchdol nad Lužnicí",
+   "name_en": null,
+   "lat": 48.9022842,
+   "lon": 14.8828247,
+   "distance_km": 13.8,
+   "operator": "Správa železnic"
+  },
+  {
+   "name": "Blažejov",
+   "name_en": null,
+   "lat": 49.1398643,
+   "lon": 15.0915937,
+   "distance_km": 16.9,
+   "operator": "Gepard Infra"
+  },
+  {
+   "name": "Kunžak-Lomy",
+   "name_en": null,
+   "lat": 49.1119927,
+   "lon": 15.1628183,
+   "distance_km": 17.2,
+   "operator": "Gepard Infra"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Přístaviště Třeboň",
+   "name_en": null,
+   "lat": 49.0009459,
+   "lon": 14.7714695,
+   "distance_km": 16.7,
+   "operator": null
+  },
+  {
+   "name": "České Budějovice",
+   "name_en": null,
+   "lat": 48.9788387,
+   "lon": 14.4654108,
+   "distance_km": 39.1,
+   "operator": null
+  },
+  {
+   "name": "České Vrbné",
+   "name_en": null,
+   "lat": 49.0124621,
+   "lon": 14.4553784,
+   "distance_km": 39.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:23Z"
+}

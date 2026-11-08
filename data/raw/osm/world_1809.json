@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "موفنبيك رام الله",
+   "name_en": "Movenpick Ramallah",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.8958126,
+   "lon": 35.2046063,
+   "distance_km": 41.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Tel Aviv",
+   "name_en": "Hilton Tel Aviv",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 32.0895867,
+   "lon": 34.770817,
+   "distance_km": 43.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון רנסאנס",
+   "name_en": "Renaissance Tel Aviv Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.0832244,
+   "lon": 34.7685896,
+   "distance_km": 44.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "אריסטוקרט",
+   "name_en": "Aristocrat",
+   "stars": 4,
+   "brand": null,
+   "lat": 32.0739035,
+   "lon": 34.8374427,
+   "distance_km": 39.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Park Hotel",
+   "name_en": "Grand Park Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 31.8891272,
+   "lon": 35.1996772,
+   "distance_km": 42.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 210,
+ "stations": [
+  {
+   "name": "שומרון - טייבה",
+   "name_en": "Shomron – Tayyiba",
+   "lat": 32.2763367,
+   "lon": 34.9966016,
+   "distance_km": 17.6,
+   "operator": null
+  },
+  {
+   "name": "טירה - כוכב יאיר",
+   "name_en": "Tira - Kokhav Ya'ir",
+   "lat": 32.2296621,
+   "lon": 34.9770135,
+   "distance_km": 19.8,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "כפר סבא-נורדאו",
+   "name_en": "Kfar Sava-Nordau (A.Kostyuk)",
+   "lat": 32.1674727,
+   "lon": 34.9167978,
+   "distance_km": 27.4,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "ראש העין - צפון",
+   "name_en": "Rosh Ha'Ayin-North",
+   "lat": 32.120636,
+   "lon": 34.9344635,
+   "distance_km": 28.5,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "הוד השרון - סוקולוב",
+   "name_en": "Hod HaSharon - Sokolov",
+   "lat": 32.1700045,
+   "lon": 34.9020123,
+   "distance_km": 28.6,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "חדרה מזרח",
+   "name_en": "Hadera East",
+   "lat": 32.4438302,
+   "lon": 34.9513175,
+   "distance_km": 29.4,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "רעננה – דרום",
+   "name_en": "Ra'anana South",
+   "lat": 32.1726542,
+   "lon": 34.8866033,
+   "distance_km": 29.8,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "נתניה – ספיר",
+   "name_en": "Netanya Sapir",
+   "lat": 32.2796735,
+   "lon": 34.865508,
+   "distance_km": 29.9,
+   "operator": "Israel Railways"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "מרינה הרצליה",
+   "name_en": "Herzliya Marina",
+   "lat": 32.1620918,
+   "lon": 34.7939209,
+   "distance_km": 38.4,
+   "operator": null
+  },
+  {
+   "name": "Jaffa Port",
+   "name_en": "Jaffa Port",
+   "lat": 32.053985,
+   "lon": 34.750271,
+   "distance_km": 47.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:17:16Z"
+}

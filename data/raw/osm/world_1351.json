@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hôtel Mesón de Mulatos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.5724673,
+   "lon": -102.2527582,
+   "distance_km": 13.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Las Colinas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.7323686,
+   "lon": -102.4959905,
+   "distance_km": 18.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Don Miguel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.766431,
+   "lon": -102.5641992,
+   "distance_km": 25.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel María Conchita",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.7690694,
+   "lon": -102.5709741,
+   "distance_km": 26.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Quinta Real",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.7687611,
+   "lon": -102.5756744,
+   "distance_km": 26.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 14,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:15:37Z"
+}

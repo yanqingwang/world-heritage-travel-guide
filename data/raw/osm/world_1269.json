@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "La Vegueta",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -11.0239963,
+   "lon": -77.6443339,
+   "distance_km": 19.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bella Horizonte",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.8550728,
+   "lon": -77.7042947,
+   "distance_km": 20.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Romance",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.7976292,
+   "lon": -77.7112651,
+   "distance_km": 23.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Buendia",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.7965827,
+   "lon": -77.7107125,
+   "distance_km": 23.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Caral supe",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.7953051,
+   "lon": -77.7160666,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 35,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Carquín",
+   "name_en": null,
+   "lat": -11.091128,
+   "lon": -77.629481,
+   "distance_km": 25.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:30Z"
+}

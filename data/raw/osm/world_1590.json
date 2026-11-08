@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Meliá Braga Hotel & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Meliá",
+   "lat": 41.5567006,
+   "lon": -8.3955604,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Solar de Gondomil (under Construction)",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.6407047,
+   "lon": -8.4706252,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maison Albar",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.6383224,
+   "lon": -8.4762633,
+   "distance_km": 12.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aquafalls Spa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.648974,
+   "lon": -8.2059413,
+   "distance_km": 17.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Renaissance Porto Lapa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Renaissance",
+   "lat": 41.158378,
+   "lon": -8.614586,
+   "distance_km": 48.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 486,
+ "stations": [
+  {
+   "name": "Braga",
+   "name_en": null,
+   "lat": 41.5480464,
+   "lon": -8.4344636,
+   "distance_km": 4.8,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Tadim",
+   "name_en": null,
+   "lat": 41.5091823,
+   "lon": -8.4829854,
+   "distance_km": 10.1,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Ruilhe",
+   "name_en": null,
+   "lat": 41.4976368,
+   "lon": -8.4962839,
+   "distance_km": 11.7,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Arentim",
+   "name_en": null,
+   "lat": 41.4899873,
+   "lon": -8.5088774,
+   "distance_km": 13.1,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Guimarães",
+   "name_en": null,
+   "lat": 41.4351272,
+   "lon": -8.2942962,
+   "distance_km": 15.0,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Midões",
+   "name_en": null,
+   "lat": 41.5082107,
+   "lon": -8.5819036,
+   "distance_km": 17.8,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Nine",
+   "name_en": null,
+   "lat": 41.4547372,
+   "lon": -8.544285,
+   "distance_km": 17.8,
+   "operator": "Infraestruturas de Portugal"
+  },
+  {
+   "name": "Barcelos",
+   "name_en": null,
+   "lat": 41.5367815,
+   "lon": -8.6089965,
+   "distance_km": 19.4,
+   "operator": "Infraestruturas de Portugal"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Praia do Cabedelo",
+   "name_en": null,
+   "lat": 41.6837556,
+   "lon": -8.8313647,
+   "distance_km": 40.4,
+   "operator": null
+  },
+  {
+   "name": "Viana do Castelo",
+   "name_en": null,
+   "lat": 41.6901286,
+   "lon": -8.8280322,
+   "distance_km": 40.4,
+   "operator": null
+  },
+  {
+   "name": "Estação de Passageiros",
+   "name_en": null,
+   "lat": 41.1875364,
+   "lon": -8.6985814,
+   "distance_km": 48.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:16:44Z"
+}

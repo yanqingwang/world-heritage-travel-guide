@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "میوانخانەی دیڤان",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.1971313,
+   "lon": 43.976941,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق نوبل",
+   "name_en": "Nobel Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.2218222,
+   "lon": 43.9943431,
+   "distance_km": 3.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "كريستال",
+   "name_en": "Cristal Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.1639115,
+   "lon": 44.0340864,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "میوانخانەی هەدێن",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 36.2000623,
+   "lon": 44.0003996,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "میوانخانەی پلاتینیۆمی هەولێر",
+   "name_en": "Hotel Erbil platinum",
+   "stars": 4,
+   "brand": "hotel",
+   "lat": 36.1810799,
+   "lon": 44.0240801,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 344,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:15:56Z"
+}

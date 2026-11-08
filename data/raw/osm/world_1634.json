@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Le Petit Clos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4805449,
+   "lon": -70.3217227,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Savona",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4808085,
+   "lon": -70.3201711,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yungay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.481107,
+   "lon": -70.3195491,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sotomayor",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4795169,
+   "lon": -70.3191149,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Plaza Colón",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4790318,
+   "lon": -70.3202193,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 50,
+ "stations": [
+  {
+   "name": "Arica (FCALP)",
+   "name_en": null,
+   "lat": -18.4747732,
+   "lon": -70.3189116,
+   "distance_km": 0.7,
+   "operator": "EFE Arica-La Paz"
+  },
+  {
+   "name": "Arica (FTA)",
+   "name_en": null,
+   "lat": -18.473499,
+   "lon": -70.3174681,
+   "distance_km": 0.9,
+   "operator": null
+  },
+  {
+   "name": "Chinchorro",
+   "name_en": null,
+   "lat": -18.4635982,
+   "lon": -70.3016753,
+   "distance_km": 2.8,
+   "operator": "EFE Arica-La Paz"
+  },
+  {
+   "name": "Rosario",
+   "name_en": null,
+   "lat": -18.411634,
+   "lon": -70.134556,
+   "distance_km": 21.1,
+   "operator": "EFE Arica-La Paz"
+  },
+  {
+   "name": "Poconchile",
+   "name_en": null,
+   "lat": -18.4505754,
+   "lon": -70.0670395,
+   "distance_km": 27.0,
+   "operator": "EFE Arica-La Paz"
+  },
+  {
+   "name": "San Martín",
+   "name_en": null,
+   "lat": -18.3601503,
+   "lon": -70.0240583,
+   "distance_km": 34.1,
+   "operator": "EFE Arica-La Paz"
+  },
+  {
+   "name": "Central",
+   "name_en": null,
+   "lat": -18.3602638,
+   "lon": -69.957928,
+   "distance_km": 40.6,
+   "operator": "EFE Arica-La Paz"
+  },
+  {
+   "name": "Quebrada Honda",
+   "name_en": null,
+   "lat": -18.3251696,
+   "lon": -69.8827913,
+   "distance_km": 49.4,
+   "operator": "EFE Arica-La Paz"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:17:04Z"
+}

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Lowry Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 53.4832339,
+   "lon": -2.2506792,
+   "distance_km": 27.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.3662705,
+   "lon": -2.2703992,
+   "distance_km": 14.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Brooklands Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.4179246,
+   "lon": -2.3212868,
+   "distance_km": 20.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Stoke on Trent",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.0265881,
+   "lon": -2.1959627,
+   "distance_km": 24.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Manchester Emirates Old Trafford",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 53.4573326,
+   "lon": -2.286558,
+   "distance_km": 24.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 503,
+ "stations": [
+  {
+   "name": "Goostrey",
+   "name_en": null,
+   "lat": 53.2225699,
+   "lon": -2.3263394,
+   "distance_km": 2.0,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Chelford",
+   "name_en": null,
+   "lat": 53.2704221,
+   "lon": -2.2804386,
+   "distance_km": 4.2,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Holmes Chapel",
+   "name_en": null,
+   "lat": 53.1992752,
+   "lon": -2.3511004,
+   "distance_km": 5.0,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Knutsford",
+   "name_en": null,
+   "lat": 53.3015965,
+   "lon": -2.3721765,
+   "distance_km": 8.5,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Plumley",
+   "name_en": null,
+   "lat": 53.2748823,
+   "lon": -2.4196724,
+   "distance_km": 8.6,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Alderley Edge",
+   "name_en": null,
+   "lat": 53.3038625,
+   "lon": -2.2366228,
+   "distance_km": 8.9,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Mobberley",
+   "name_en": null,
+   "lat": 53.3295673,
+   "lon": -2.3336005,
+   "distance_km": 10.5,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Lostock Gralam",
+   "name_en": null,
+   "lat": 53.2677491,
+   "lon": -2.4647767,
+   "distance_km": 11.1,
+   "operator": "Northern Trains"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Manchester River Cruises Salford Quays",
+   "name_en": null,
+   "lat": 53.4700078,
+   "lon": -2.295218,
+   "distance_km": 26.0,
+   "operator": null
+  },
+  {
+   "name": "Manchester River Cruises Ralli Quay",
+   "name_en": null,
+   "lat": 53.4813215,
+   "lon": -2.2547709,
+   "distance_km": 27.5,
+   "operator": null
+  },
+  {
+   "name": "Ince Ferry",
+   "name_en": null,
+   "lat": 53.2893996,
+   "lon": -2.8254091,
+   "distance_km": 35.0,
+   "operator": null
+  },
+  {
+   "name": "Sandy Lane",
+   "name_en": null,
+   "lat": 53.1874843,
+   "lon": -2.8700717,
+   "distance_km": 37.9,
+   "operator": "Cheshire West and Chester Council"
+  },
+  {
+   "name": "The Meadows",
+   "name_en": null,
+   "lat": 53.1877148,
+   "lon": -2.8713181,
+   "distance_km": 38.0,
+   "operator": "Cheshire West and Chester Countil"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:17:09Z"
+}

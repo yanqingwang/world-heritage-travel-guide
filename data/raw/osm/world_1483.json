@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Shangri-La Hotel Singapore",
+   "name_en": "Shangri-La Hotel Singapore",
+   "stars": 5,
+   "brand": "Shangri-La Hotels and Resorts",
+   "lat": 1.3115277,
+   "lon": 103.8264329,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The St. Regis Singapore",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 1.3057577,
+   "lon": 103.8260358,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "voco Orchard Singapore",
+   "name_en": null,
+   "stars": 5,
+   "brand": "voco",
+   "lat": 1.3058383,
+   "lon": 103.8292929,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "PARKROYAL COLLECTION Pickering, Singapore",
+   "name_en": null,
+   "stars": 5,
+   "brand": "PARKROYAL",
+   "lat": 1.2856545,
+   "lon": 103.8462642,
+   "distance_km": 4.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Raffles Hotel",
+   "name_en": "Raffles Hotel",
+   "stars": 5,
+   "brand": "Raffles",
+   "lat": 1.2946815,
+   "lon": 103.8546412,
+   "distance_km": 4.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 768,
+ "stations": [
+  {
+   "name": "VivoCity",
+   "name_en": "VivoCity",
+   "lat": 1.265099,
+   "lon": 103.8223324,
+   "distance_km": 5.6,
+   "operator": null
+  },
+  {
+   "name": "Resorts World",
+   "name_en": "Resorts World",
+   "lat": 1.2555418,
+   "lon": 103.8209626,
+   "distance_km": 6.6,
+   "operator": null
+  },
+  {
+   "name": "Imbiah",
+   "name_en": "Imbiah",
+   "lat": 1.2539153,
+   "lon": 103.8194525,
+   "distance_km": 6.8,
+   "operator": null
+  },
+  {
+   "name": "Beach",
+   "name_en": "Beach",
+   "lat": 1.2512942,
+   "lon": 103.8177659,
+   "distance_km": 7.1,
+   "operator": null
+  },
+  {
+   "name": "Pending",
+   "name_en": "Pending",
+   "lat": 1.3761841,
+   "lon": 103.7712587,
+   "distance_km": 8.4,
+   "operator": "SMRT"
+  },
+  {
+   "name": "Bangkit",
+   "name_en": "Bangkit",
+   "lat": 1.3800412,
+   "lon": 103.7726501,
+   "distance_km": 8.7,
+   "operator": "SMRT"
+  },
+  {
+   "name": "Petir",
+   "name_en": "Petir",
+   "lat": 1.3777652,
+   "lon": 103.7666291,
+   "distance_km": 8.9,
+   "operator": "SMRT"
+  },
+  {
+   "name": "Bukit Panjang",
+   "name_en": "Bukit Panjang",
+   "lat": 1.3779175,
+   "lon": 103.7630947,
+   "distance_km": 9.1,
+   "operator": "SMRT"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Pasir Panjang Ferry Terminal",
+   "name_en": null,
+   "lat": 1.270076,
+   "lon": 103.7959211,
+   "distance_km": 5.5,
+   "operator": null
+  },
+  {
+   "name": "Singapore Cruise Centre (HarbourFront) Terminal",
+   "name_en": null,
+   "lat": 1.2638501,
+   "lon": 103.8184019,
+   "distance_km": 5.7,
+   "operator": null
+  },
+  {
+   "name": "Harbourfront",
+   "name_en": null,
+   "lat": 1.2629375,
+   "lon": 103.8194392,
+   "distance_km": 5.8,
+   "operator": "Batam Fast;Majestic ferry;Sindo ferry"
+  },
+  {
+   "name": "Singapore River Cruise",
+   "name_en": null,
+   "lat": 1.2822174,
+   "lon": 103.8568534,
+   "distance_km": 5.8,
+   "operator": null
+  },
+  {
+   "name": "West Coast Ferry Terminal",
+   "name_en": null,
+   "lat": 1.2917597,
+   "lon": 103.7618915,
+   "distance_km": 6.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:16:26Z"
+}

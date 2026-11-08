@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "SPA Nida",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.3040416,
+   "lon": 21.0017878,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gilija",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.3420736,
+   "lon": 21.4741913,
+   "distance_km": 32.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Euterpė",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.7063966,
+   "lon": 21.135512,
+   "distance_km": 49.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amberton Hotel Klaipėda",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.7110122,
+   "lon": 21.1306197,
+   "distance_km": 49.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nidus",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 55.309194,
+   "lon": 20.9977855,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 82,
+ "stations": [
+  {
+   "name": "Šilutė",
+   "name_en": null,
+   "lat": 55.3471584,
+   "lon": 21.4842937,
+   "distance_km": 33.5,
+   "operator": null
+  },
+  {
+   "name": "Vilkyčiai",
+   "name_en": null,
+   "lat": 55.5189641,
+   "lon": 21.4077083,
+   "distance_km": 38.7,
+   "operator": null
+  },
+  {
+   "name": "Rimkai",
+   "name_en": null,
+   "lat": 55.6636483,
+   "lon": 21.2176589,
+   "distance_km": 46.0,
+   "operator": null
+  },
+  {
+   "name": "Зеленоградск-Новый",
+   "name_en": null,
+   "lat": 54.9584139,
+   "lon": 20.4726811,
+   "distance_km": 47.3,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Полесск",
+   "name_en": null,
+   "lat": 54.8554105,
+   "lon": 21.1006733,
+   "distance_km": 47.3,
+   "operator": "ОАО «РЖД»"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Nidos tarptautinis keleivių uostas",
+   "name_en": "Nida international passenger yacht port",
+   "lat": 55.301808,
+   "lon": 21.0092,
+   "distance_km": 3.9,
+   "operator": "Neringos komunalininkas"
+  },
+  {
+   "name": "Nidos keleivinė prieplauka",
+   "name_en": null,
+   "lat": 55.302985,
+   "lon": 21.0086349,
+   "distance_km": 4.0,
+   "operator": null
+  },
+  {
+   "name": "Nida",
+   "name_en": null,
+   "lat": 55.3038506,
+   "lon": 21.008922,
+   "distance_km": 4.1,
+   "operator": null
+  },
+  {
+   "name": "Ventainė",
+   "name_en": null,
+   "lat": 55.3565508,
+   "lon": 21.2033246,
+   "distance_km": 17.3,
+   "operator": null
+  },
+  {
+   "name": "Uostadvaris",
+   "name_en": null,
+   "lat": 55.3444234,
+   "lon": 21.290946,
+   "distance_km": 21.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:14:36Z"
+}

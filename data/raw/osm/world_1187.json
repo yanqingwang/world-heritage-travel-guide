@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Спорт",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 52.1314744,
+   "lon": 26.1114281,
+   "distance_km": 36.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Фэст",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.3162424,
+   "lon": 25.6088104,
+   "distance_km": 4.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Светлана",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.1769336,
+   "lon": 26.0588595,
+   "distance_km": 30.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "М10 Сервис",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.1764031,
+   "lon": 26.0591586,
+   "distance_km": 30.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Гасцініца Целяханы",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.5415088,
+   "lon": 25.8572042,
+   "distance_km": 31.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 24,
+ "stations": [
+  {
+   "name": "Янаў Палескі",
+   "name_en": null,
+   "lat": 52.1293736,
+   "lon": 25.5511611,
+   "distance_km": 19.0,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Юхнавічы",
+   "name_en": null,
+   "lat": 52.1216509,
+   "lon": 25.730201,
+   "distance_km": 19.5,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Трудавая",
+   "name_en": null,
+   "lat": 52.1462725,
+   "lon": 25.3920053,
+   "distance_km": 23.7,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Пінск",
+   "name_en": null,
+   "lat": 52.1221712,
+   "lon": 26.0890019,
+   "distance_km": 35.3,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Белаазёрск",
+   "name_en": null,
+   "lat": 52.4667194,
+   "lon": 25.1870517,
+   "distance_km": 37.1,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Драгічын",
+   "name_en": null,
+   "lat": 52.1819683,
+   "lon": 25.0522903,
+   "distance_km": 42.4,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Ясельда",
+   "name_en": null,
+   "lat": 52.1755126,
+   "lon": 26.2521478,
+   "distance_km": 43.0,
+   "operator": "БЧ"
+  },
+  {
+   "name": "Косава Палескае",
+   "name_en": null,
+   "lat": 52.6513162,
+   "lon": 25.2216026,
+   "distance_km": 49.6,
+   "operator": "БЧ"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Паромная пераправа «Дубае»",
+   "name_en": null,
+   "lat": 52.0816053,
+   "lon": 25.7819122,
+   "distance_km": 24.8,
+   "operator": null
+  },
+  {
+   "name": "Патапавічы",
+   "name_en": null,
+   "lat": 52.0630581,
+   "lon": 25.6630201,
+   "distance_km": 25.2,
+   "operator": null
+  },
+  {
+   "name": "Яечкавічы",
+   "name_en": null,
+   "lat": 52.0633851,
+   "lon": 25.6622919,
+   "distance_km": 25.2,
+   "operator": null
+  },
+  {
+   "name": "Причал водной переправы \"Стаховичи\"",
+   "name_en": null,
+   "lat": 52.0735506,
+   "lon": 25.8754569,
+   "distance_km": 28.5,
+   "operator": null
+  },
+  {
+   "name": "Дамашыцы",
+   "name_en": null,
+   "lat": 52.0859995,
+   "lon": 25.9611625,
+   "distance_km": 31.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:24Z"
+}

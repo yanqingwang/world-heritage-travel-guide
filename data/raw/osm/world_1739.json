@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Hill top hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.5841474,
+   "lon": 73.7504548,
+   "distance_km": 25.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Vaishali",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.5837156,
+   "lon": 73.7503511,
+   "distance_km": 25.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Purohit",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.5813974,
+   "lon": 73.7488617,
+   "distance_km": 25.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Toran",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.5820346,
+   "lon": 73.7474761,
+   "distance_km": 25.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Toran Hill Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.580551,
+   "lon": 73.7471137,
+   "distance_km": 25.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 12,
+ "stations": [
+  {
+   "name": "Waghai",
+   "name_en": null,
+   "lat": 20.7725583,
+   "lon": 73.5003524,
+   "distance_km": 46.3,
+   "operator": "WR"
+  },
+  {
+   "name": "Kolde",
+   "name_en": null,
+   "lat": 21.1613562,
+   "lon": 73.867988,
+   "distance_km": 49.4,
+   "operator": "WR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:17:07Z"
+}

@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Луксор",
+   "name_en": "Luxor",
+   "stars": 4,
+   "brand": null,
+   "lat": 41.5210226,
+   "lon": 26.1191693,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Хестея",
+   "name_en": "Hesteya",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.7631515,
+   "lon": 26.2135586,
+   "distance_km": 30.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Свилена",
+   "name_en": "Svilena",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.7683256,
+   "lon": 26.1983439,
+   "distance_km": 31.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ξενοδοχείο Ερμής",
+   "name_en": "Hotel Ermis",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.3533723,
+   "lon": 26.4925249,
+   "distance_km": 36.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Plotini Hotel",
+   "name_en": "Plotini Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 41.3393772,
+   "lon": 26.4913762,
+   "distance_km": 38.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 69,
+ "stations": [
+  {
+   "name": "Edirne",
+   "name_en": null,
+   "lat": 41.6552066,
+   "lon": 26.5805143,
+   "distance_km": 3.1,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Νέα Βύσσα",
+   "name_en": null,
+   "lat": 41.5787618,
+   "lon": 26.534684,
+   "distance_km": 11.2,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Tayakadın",
+   "name_en": null,
+   "lat": 41.5968178,
+   "lon": 26.6535751,
+   "distance_km": 11.9,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Kapıkule",
+   "name_en": null,
+   "lat": 41.7193679,
+   "lon": 26.3617855,
+   "distance_km": 17.0,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Ορεστιάδα",
+   "name_en": null,
+   "lat": 41.5029841,
+   "lon": 26.5371712,
+   "distance_km": 19.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Δίκαια",
+   "name_en": null,
+   "lat": 41.7061143,
+   "lon": 26.2973709,
+   "distance_km": 22.0,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Abalar",
+   "name_en": null,
+   "lat": 41.520013,
+   "lon": 26.7311326,
+   "distance_km": 22.6,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Χειμώνιο",
+   "name_en": null,
+   "lat": 41.4500971,
+   "lon": 26.5558193,
+   "distance_km": 25.3,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:15:41Z"
+}

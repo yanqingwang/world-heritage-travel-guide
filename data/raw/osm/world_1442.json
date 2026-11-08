@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "西安阳光国际大酒店",
+   "name_en": "Grand Soluxe International Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 34.2757635,
+   "lon": 108.958747,
+   "distance_km": 9.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "全季酒店(西安三桥搜宝中心店)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.2839986,
+   "lon": 108.8411752,
+   "distance_km": 2.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汉庭酒店(西安沣东新城后卫寨店)",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 34.3021048,
+   "lon": 108.8096288,
+   "distance_km": 4.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "喜来登酒店",
+   "name_en": "Sheraton",
+   "stars": null,
+   "brand": "喜来登",
+   "lat": 34.2603437,
+   "lon": 108.8929348,
+   "distance_km": 5.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "7天连锁酒店(西安西稍门劳动路地铁站店)",
+   "name_en": "7 Days Inn",
+   "stars": null,
+   "brand": "7天酒店",
+   "lat": 34.2662977,
+   "lon": 108.904926,
+   "distance_km": 6.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 329,
+ "stations": [
+  {
+   "name": "三民村",
+   "name_en": "Sanmincun",
+   "lat": 34.2886567,
+   "lon": 108.8591877,
+   "distance_km": 1.8,
+   "operator": "中国铁路西安局集团有限公司"
+  },
+  {
+   "name": "新西北",
+   "name_en": "Xinxibei",
+   "lat": 34.2701666,
+   "lon": 108.8494572,
+   "distance_km": 3.9,
+   "operator": null
+  },
+  {
+   "name": "莲湖",
+   "name_en": "Lianhu",
+   "lat": 34.2792339,
+   "lon": 108.9025859,
+   "distance_km": 5.0,
+   "operator": "中国铁路西安局集团有限公司"
+  },
+  {
+   "name": "阿房宫南",
+   "name_en": "E'pang Palace South",
+   "lat": 34.2522784,
+   "lon": 108.8195505,
+   "distance_km": 6.7,
+   "operator": "中国铁路西安局集团有限公司;西安市轨道交通集团有限公司"
+  },
+  {
+   "name": "鱼化寨",
+   "name_en": "Yuhuazhai",
+   "lat": 34.2391242,
+   "lon": 108.8415626,
+   "distance_km": 7.4,
+   "operator": "西安云巴交通运营有限公司"
+  },
+  {
+   "name": "西晁",
+   "name_en": "Xichao",
+   "lat": 34.2378404,
+   "lon": 108.8331814,
+   "distance_km": 7.7,
+   "operator": "西安云巴交通运营有限公司"
+  },
+  {
+   "name": "黄家寨",
+   "name_en": "Huangjiazhai",
+   "lat": 34.3250193,
+   "lon": 108.7626155,
+   "distance_km": 9.0,
+   "operator": null
+  },
+  {
+   "name": "天谷四路",
+   "name_en": "Tiangu 4th Road",
+   "lat": 34.2248054,
+   "lon": 108.8314375,
+   "distance_km": 9.2,
+   "operator": "西安云巴交通运营有限公司"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:16:10Z"
+}

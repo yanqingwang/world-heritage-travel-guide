@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Schlosshotel Hugenpoet",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.3618425,
+   "lon": 6.9171072,
+   "distance_km": 16.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Dusseldorf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 51.2508866,
+   "lon": 6.7696708,
+   "distance_km": 32.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Steigenberger Parkhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2268175,
+   "lon": 6.7783854,
+   "distance_km": 34.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Wellem, Dusseldorf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Unbound Collection",
+   "lat": 51.2279946,
+   "lon": 6.7743583,
+   "distance_km": 34.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Breidenbacher Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2253282,
+   "lon": 6.7777564,
+   "distance_km": 34.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1074,
+ "stations": [
+  {
+   "name": "Essen-Altenessen",
+   "name_en": null,
+   "lat": 51.4842762,
+   "lon": 7.0068439,
+   "distance_km": 2.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Essen-Kray Nord",
+   "name_en": null,
+   "lat": 51.4695006,
+   "lon": 7.0806375,
+   "distance_km": 3.2,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Essen Hauptbahnhof",
+   "name_en": null,
+   "lat": 51.4514769,
+   "lon": 7.0144679,
+   "distance_km": 4.4,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Gelsenkirchen Hauptbahnhof",
+   "name_en": null,
+   "lat": 51.5047677,
+   "lon": 7.1022983,
+   "distance_km": 4.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Essen-Steele",
+   "name_en": null,
+   "lat": 51.4506842,
+   "lon": 7.0755469,
+   "distance_km": 4.5,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Essen-Bergeborbeck",
+   "name_en": null,
+   "lat": 51.4804164,
+   "lon": 6.9769219,
+   "distance_km": 4.7,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Essen-Steele Ost",
+   "name_en": null,
+   "lat": 51.4441711,
+   "lon": 7.0886147,
+   "distance_km": 5.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Essen West",
+   "name_en": null,
+   "lat": 51.4544016,
+   "lon": 6.9802402,
+   "distance_km": 5.7,
+   "operator": "DB InfraGO AG"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Fahrgastschiffanleger Nordsternpark",
+   "name_en": null,
+   "lat": 51.5217929,
+   "lon": 7.0336151,
+   "distance_km": 4.0,
+   "operator": "Stadt Gelsenkirchen"
+  },
+  {
+   "name": "Fahrgastschiffanleger Zweigertbrücke",
+   "name_en": null,
+   "lat": 51.5134054,
+   "lon": 7.0059882,
+   "distance_km": 4.0,
+   "operator": "Stadt Essen"
+  },
+  {
+   "name": "ehem. Hafen Mathias Stinnes",
+   "name_en": null,
+   "lat": 51.5117666,
+   "lon": 6.9966305,
+   "distance_km": 4.3,
+   "operator": null
+  },
+  {
+   "name": "Anlegestelle",
+   "name_en": null,
+   "lat": 51.5372788,
+   "lon": 7.0703094,
+   "distance_km": 5.9,
+   "operator": null
+  },
+  {
+   "name": "Fahrgastschiffanleger Graf Bismarck",
+   "name_en": null,
+   "lat": 51.5454515,
+   "lon": 7.0979856,
+   "distance_km": 7.5,
+   "operator": "Stadt Gelsenkrichen"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:20Z"
+}

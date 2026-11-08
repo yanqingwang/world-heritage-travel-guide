@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Diwan",
+   "name_en": "Nusay",
+   "stars": 3,
+   "brand": null,
+   "lat": 37.9294442,
+   "lon": 58.3866378,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bezirgen Hotel",
+   "name_en": "Bezirgen Hotel",
+   "stars": 1,
+   "brand": null,
+   "lat": 37.9516259,
+   "lon": 58.3557008,
+   "distance_km": 12.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kuwwat Myhmanhanasy",
+   "name_en": "Kuwwat Hotel",
+   "stars": 1,
+   "brand": null,
+   "lat": 37.9473294,
+   "lon": 58.380796,
+   "distance_km": 14.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Arkadag Oteli",
+   "name_en": "Arkadag Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.8927216,
+   "lon": 58.289299,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gypjak Myhmanhanasy",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.0275713,
+   "lon": 58.2627236,
+   "distance_km": 9.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 43,
+ "stations": [
+  {
+   "name": "Gypjak",
+   "name_en": null,
+   "lat": 37.9987787,
+   "lon": 58.304844,
+   "distance_km": 9.7,
+   "operator": null
+  },
+  {
+   "name": "Aşgabat",
+   "name_en": "Ashgabat",
+   "lat": 37.943221,
+   "lon": 58.3961038,
+   "distance_km": 16.1,
+   "operator": null
+  },
+  {
+   "name": "Babarap",
+   "name_en": null,
+   "lat": 38.0861367,
+   "lon": 58.1437592,
+   "distance_km": 16.2,
+   "operator": null
+  },
+  {
+   "name": "Büzmeýin",
+   "name_en": null,
+   "lat": 38.1026274,
+   "lon": 58.0803585,
+   "distance_km": 20.4,
+   "operator": null
+  },
+  {
+   "name": "Rzd. No 1",
+   "name_en": null,
+   "lat": 38.1379901,
+   "lon": 58.215936,
+   "distance_km": 20.8,
+   "operator": null
+  },
+  {
+   "name": "Owadan Depe",
+   "name_en": null,
+   "lat": 38.1241301,
+   "lon": 58.3627125,
+   "distance_km": 23.3,
+   "operator": null
+  },
+  {
+   "name": "Änew",
+   "name_en": null,
+   "lat": 37.9118535,
+   "lon": 58.4997874,
+   "distance_km": 25.6,
+   "operator": null
+  },
+  {
+   "name": "Gökdepe",
+   "name_en": "Gokdepe",
+   "lat": 38.1599471,
+   "lon": 57.9654706,
+   "distance_km": 31.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:15:30Z"
+}

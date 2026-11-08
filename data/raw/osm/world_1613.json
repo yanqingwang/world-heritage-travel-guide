@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Van Oys Maastricht Retreat",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.7961294,
+   "lon": 5.7060664,
+   "distance_km": 35.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Quellenhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.7816932,
+   "lon": 6.0908929,
+   "distance_km": 35.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kruisherenhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Château Hotels",
+   "lat": 50.8487435,
+   "lon": 5.6838029,
+   "distance_km": 41.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Silva Hotel Spa-Balmoral",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.5047308,
+   "lon": 5.8871512,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "R Hotel Experience",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.4842596,
+   "lon": 5.7012595,
+   "distance_km": 11.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 582,
+ "stations": [
+  {
+   "name": "Spa-Géronstère",
+   "name_en": null,
+   "lat": 50.4892874,
+   "lon": 5.867001,
+   "distance_km": 0.3,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Spa",
+   "name_en": null,
+   "lat": 50.490188,
+   "lon": 5.8555278,
+   "distance_km": 0.8,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Franchimont",
+   "name_en": null,
+   "lat": 50.5255445,
+   "lon": 5.8224151,
+   "distance_km": 4.9,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Theux",
+   "name_en": null,
+   "lat": 50.5362577,
+   "lon": 5.8151706,
+   "distance_km": 6.1,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Juslenville",
+   "name_en": null,
+   "lat": 50.5447202,
+   "lon": 5.8100648,
+   "distance_km": 7.1,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Pepinster-Cité",
+   "name_en": null,
+   "lat": 50.5636489,
+   "lon": 5.8042762,
+   "distance_km": 9.1,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Pepinster",
+   "name_en": null,
+   "lat": 50.5681605,
+   "lon": 5.8063587,
+   "distance_km": 9.5,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Verviers-Central",
+   "name_en": null,
+   "lat": 50.5883259,
+   "lon": 5.8551021,
+   "distance_km": 10.7,
+   "operator": "NMBS/SNCB"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Fragnée",
+   "name_en": null,
+   "lat": 50.6216196,
+   "lon": 5.5803203,
+   "distance_km": 24.8,
+   "operator": "Navette Fluviale Liège"
+  },
+  {
+   "name": "Coronmeuse",
+   "name_en": null,
+   "lat": 50.6526848,
+   "lon": 5.6131846,
+   "distance_km": 25.3,
+   "operator": "Navette Fluviale Liège"
+  },
+  {
+   "name": "Guillemins / Boverie",
+   "name_en": null,
+   "lat": 50.6285319,
+   "lon": 5.5728936,
+   "distance_km": 25.7,
+   "operator": "Navette Fluviale Liège"
+  },
+  {
+   "name": "Pôle fluvial",
+   "name_en": null,
+   "lat": 50.6389137,
+   "lon": 5.578174,
+   "distance_km": 26.1,
+   "operator": "Navette Fluviale Liège"
+  },
+  {
+   "name": "Cœur historique",
+   "name_en": null,
+   "lat": 50.6459255,
+   "lon": 5.5865846,
+   "distance_km": 26.2,
+   "operator": "Navette Fluviale Liège"
+  }
+ ],
+ "fetched_at": "2026-11-08T16:17:03Z"
+}

@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Dead Sea Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 31.7223381,
+   "lon": 35.5883189,
+   "distance_km": 21.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "موفنبيك رام الله",
+   "name_en": "Movenpick Ramallah",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.8958126,
+   "lon": 35.2046063,
+   "distance_km": 22.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון וולדורף אסטוריה ירושלים",
+   "name_en": "Waldorf Astoria Jerusalem",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7773467,
+   "lon": 35.2216124,
+   "distance_km": 23.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7774592,
+   "lon": 35.2223554,
+   "distance_km": 23.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון המלך דוד",
+   "name_en": "King David Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7743784,
+   "lon": 35.2226341,
+   "distance_km": 23.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 405,
+ "stations": [
+  {
+   "name": "Binyene Ha'Uma ICC",
+   "name_en": "Binyene Ha'Uma ICC",
+   "lat": 31.7878945,
+   "lon": 35.2035707,
+   "distance_km": 24.6,
+   "operator": null
+  },
+  {
+   "name": "ירושלים - יצחק נבון",
+   "name_en": "Jerusalem - Yitzhak Navon",
+   "lat": 31.7881125,
+   "lon": 35.2027658,
+   "distance_km": 24.7,
+   "operator": "רכבת ישראל"
+  },
+  {
+   "name": "Betsal'el Bazak",
+   "name_en": "Betsal'el Bazak",
+   "lat": 31.7667915,
+   "lon": 35.1965236,
+   "distance_km": 26.2,
+   "operator": null
+  },
+  {
+   "name": "Giv'at Mordekhay",
+   "name_en": "Giv'at Mordekhay",
+   "lat": 31.761228,
+   "lon": 35.199898,
+   "distance_km": 26.2,
+   "operator": null
+  },
+  {
+   "name": "Pat Junction",
+   "name_en": "Pat Junction",
+   "lat": 31.7563462,
+   "lon": 35.1981531,
+   "distance_km": 26.6,
+   "operator": null
+  },
+  {
+   "name": "Gonenim",
+   "name_en": "Gonenim",
+   "lat": 31.7522173,
+   "lon": 35.1989579,
+   "distance_km": 26.7,
+   "operator": null
+  },
+  {
+   "name": "Malha Sports Complex",
+   "name_en": "Malha Sports Complex",
+   "lat": 31.7519189,
+   "lon": 35.1926272,
+   "distance_km": 27.3,
+   "operator": null
+  },
+  {
+   "name": "Ha'Ayal",
+   "name_en": "Ha'Ayal",
+   "lat": 31.7528968,
+   "lon": 35.1880155,
+   "distance_km": 27.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:17:10Z"
+}

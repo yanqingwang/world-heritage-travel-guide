@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Tashkent miymanxanası",
+   "name_en": "Tashkent Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 42.4577508,
+   "lon": 59.6049711,
+   "distance_km": 39.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jipek Jolı Hotel",
+   "name_en": "Hotel Jipek Joli",
+   "stars": 3,
+   "brand": "Jipek Joli Hotel",
+   "lat": 42.4658262,
+   "lon": 59.6098375,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aydin Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 42.4603329,
+   "lon": 59.6161729,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Poytaxt",
+   "name_en": "Poytaxt",
+   "stars": 3,
+   "brand": "Poytaxt",
+   "lat": 42.4823656,
+   "lon": 59.6157192,
+   "distance_km": 41.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel SULU",
+   "name_en": "Hotel SULU",
+   "stars": 2,
+   "brand": null,
+   "lat": 42.4388576,
+   "lon": 59.616925,
+   "distance_km": 40.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 30,
+ "stations": [
+  {
+   "name": "Köneürgenç",
+   "name_en": "Koneurgench",
+   "lat": 42.292378,
+   "lon": 59.1428816,
+   "distance_km": 3.8,
+   "operator": null
+  },
+  {
+   "name": "Dostluk",
+   "name_en": null,
+   "lat": 42.2748459,
+   "lon": 59.2675319,
+   "distance_km": 11.0,
+   "operator": null
+  },
+  {
+   "name": "Maslahat",
+   "name_en": null,
+   "lat": 42.254704,
+   "lon": 59.3604838,
+   "distance_km": 18.8,
+   "operator": null
+  },
+  {
+   "name": "Xatep",
+   "name_en": "Khatep",
+   "lat": 42.4994643,
+   "lon": 59.3208791,
+   "distance_km": 23.7,
+   "operator": null
+  },
+  {
+   "name": "Xojeli",
+   "name_en": null,
+   "lat": 42.4048229,
+   "lon": 59.4368549,
+   "distance_km": 24.9,
+   "operator": null
+  },
+  {
+   "name": "Saparmyrat Türkmenbaşy",
+   "name_en": "Saparmurat Turkmenbashy",
+   "lat": 42.3650474,
+   "lon": 58.8004024,
+   "distance_km": 29.3,
+   "operator": null
+  },
+  {
+   "name": "Shomanay",
+   "name_en": "Shumanay",
+   "lat": 42.6072274,
+   "lon": 59.1999394,
+   "distance_km": 31.5,
+   "operator": null
+  },
+  {
+   "name": "Naymankul",
+   "name_en": null,
+   "lat": 42.2961244,
+   "lon": 59.5523503,
+   "distance_km": 33.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Xojeli pristanı",
+   "name_en": "Khojeyli Marina",
+   "lat": 42.4350804,
+   "lon": 59.5474131,
+   "distance_km": 34.6,
+   "operator": null
+  },
+  {
+   "name": "Seyil katerleri",
+   "name_en": "Pleasure boats",
+   "lat": 42.4567823,
+   "lon": 59.6018699,
+   "distance_km": 39.6,
+   "operator": null
+  },
+  {
+   "name": "Tolıs awıl",
+   "name_en": null,
+   "lat": 42.5462267,
+   "lon": 59.5940883,
+   "distance_km": 43.7,
+   "operator": null
+  },
+  {
+   "name": "Xojan awıl",
+   "name_en": null,
+   "lat": 42.5458661,
+   "lon": 59.594999,
+   "distance_km": 43.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:24Z"
+}

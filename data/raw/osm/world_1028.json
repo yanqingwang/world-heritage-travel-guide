@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "315 Bar and Restaurant",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 53.6330429,
+   "lon": -1.6889538,
+   "distance_km": 23.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Lowry Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 53.4832339,
+   "lon": -2.2506792,
+   "distance_km": 49.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Weetwood Hall",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.837953,
+   "lon": -1.5921066,
+   "distance_km": 13.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Leeds City Centre",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.7933504,
+   "lon": -1.5496214,
+   "distance_km": 16.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Leeds City",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 53.7936944,
+   "lon": -1.5473199,
+   "distance_km": 16.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 402,
+ "stations": [
+  {
+   "name": "Saltaire",
+   "name_en": null,
+   "lat": 53.8385598,
+   "lon": -1.7907973,
+   "distance_km": 0.2,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Shipley",
+   "name_en": null,
+   "lat": 53.8335128,
+   "lon": -1.7736115,
+   "distance_km": 1.2,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Frizinghall",
+   "name_en": null,
+   "lat": 53.8203808,
+   "lon": -1.7688545,
+   "distance_km": 2.3,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Baildon",
+   "name_en": null,
+   "lat": 53.8502025,
+   "lon": -1.7537033,
+   "distance_km": 2.8,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Bingley",
+   "name_en": null,
+   "lat": 53.8487153,
+   "lon": -1.837164,
+   "distance_km": 3.3,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Crossflatts",
+   "name_en": null,
+   "lat": 53.858299,
+   "lon": -1.844476,
+   "distance_km": 4.3,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Bradford Forster Square",
+   "name_en": null,
+   "lat": 53.7974731,
+   "lon": -1.7532149,
+   "distance_km": 5.0,
+   "operator": "Northern Trains"
+  },
+  {
+   "name": "Apperley Bridge",
+   "name_en": null,
+   "lat": 53.8420442,
+   "lon": -1.7070712,
+   "distance_km": 5.5,
+   "operator": "Northern Trains"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Leeds Water Taxi Dock",
+   "name_en": null,
+   "lat": 53.7929989,
+   "lon": -1.5481194,
+   "distance_km": 16.6,
+   "operator": null
+  },
+  {
+   "name": "Newby Hall Boat Trips",
+   "name_en": null,
+   "lat": 54.0988363,
+   "lon": -1.4690821,
+   "distance_km": 35.9,
+   "operator": null
+  },
+  {
+   "name": "Manchester River Cruises Ralli Quay",
+   "name_en": null,
+   "lat": 53.4813215,
+   "lon": -2.2547709,
+   "distance_km": 50.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:07Z"
+}

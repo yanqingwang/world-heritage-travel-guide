@@ -1,0 +1,81 @@
+{
+ "hotels": [
+  {
+   "name": "Park Hyatt Jeddah",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 21.5137057,
+   "lon": 39.1545946,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Hotel Galleria Jeddah, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Curio Collection",
+   "lat": 21.5518991,
+   "lon": 39.1632188,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria Jeddah - Qasr Al Sharq",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 21.6035777,
+   "lon": 39.1088417,
+   "distance_km": 16.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shangri-La Jeddah",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Shangri-La",
+   "lat": 21.6229472,
+   "lon": 39.1082413,
+   "distance_km": 18.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق موفنبيك جدة",
+   "name_en": "Movenpick Hotel Jeddah",
+   "stars": 4,
+   "brand": null,
+   "lat": 21.5350519,
+   "lon": 39.1792575,
+   "distance_km": 6.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 134,
+ "stations": [
+  {
+   "name": "قطار الحرمين السريع - مطار الملك عبدالعزيز الدولي",
+   "name_en": "Haramain High Speed Railway - King Abdulaziz International Airport",
+   "lat": 21.6605044,
+   "lon": 39.1738182,
+   "distance_km": 19.9,
+   "operator": "Saudi Arabia Railways"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Jeddah Islamic Port",
+   "name_en": "Jeddah Islamic Port",
+   "lat": 21.4654897,
+   "lon": 39.149482,
+   "distance_km": 5.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:42Z"
+}

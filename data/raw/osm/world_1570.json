@@ -1,0 +1,120 @@
+{
+ "hotels": [
+  {
+   "name": "Srinivas Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.2972479,
+   "lon": 79.9622907,
+   "distance_km": 4.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tadwai Huts Eco Tourism Stay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.2262099,
+   "lon": 80.3087139,
+   "distance_km": 38.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "gokul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.9829888,
+   "lon": 79.6075572,
+   "distance_km": 46.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "karam hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.9882162,
+   "lon": 79.601935,
+   "distance_km": 47.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "shalimar hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.9879248,
+   "lon": 79.6010389,
+   "distance_km": 47.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 33,
+ "stations": [
+  {
+   "name": "Vanchanagiri",
+   "name_en": null,
+   "lat": 17.9492437,
+   "lon": 79.6703436,
+   "distance_km": 44.9,
+   "operator": "SCR"
+  },
+  {
+   "name": "Chintalpalli",
+   "name_en": null,
+   "lat": 17.9143947,
+   "lon": 79.7021653,
+   "distance_km": 46.0,
+   "operator": "SCR"
+  },
+  {
+   "name": "Warangal",
+   "name_en": "Warangal",
+   "lat": 17.9732956,
+   "lon": 79.6056068,
+   "distance_km": 47.7,
+   "operator": "SCR"
+  },
+  {
+   "name": "Yelgur",
+   "name_en": null,
+   "lat": 17.8611024,
+   "lon": 79.7472827,
+   "distance_km": 48.9,
+   "operator": "SCR"
+  },
+  {
+   "name": "Jammikunta",
+   "name_en": null,
+   "lat": 18.2900298,
+   "lon": 79.4766883,
+   "distance_km": 49.3,
+   "operator": "SCR"
+  },
+  {
+   "name": "Uppal",
+   "name_en": null,
+   "lat": 18.1824839,
+   "lon": 79.481985,
+   "distance_km": 49.4,
+   "operator": "SCR"
+  },
+  {
+   "name": "Bisugir Sharif",
+   "name_en": null,
+   "lat": 18.3473621,
+   "lon": 79.4832753,
+   "distance_km": 49.5,
+   "operator": "SCR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:16:25Z"
+}

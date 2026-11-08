@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Polatlı Abdullah Resort Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.5741687,
+   "lon": 32.1404272,
+   "distance_km": 16.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Çini otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.4485375,
+   "lon": 31.5389433,
+   "distance_km": 43.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Büyük Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.0615454,
+   "lon": 32.1166834,
+   "distance_km": 47.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Küçük Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.0608308,
+   "lon": 32.115858,
+   "distance_km": 47.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Garden Inn Ayaş",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.033345,
+   "lon": 32.2420476,
+   "distance_km": 48.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [
+  {
+   "name": "Beylikköprü",
+   "name_en": null,
+   "lat": 39.6002321,
+   "lon": 31.9580024,
+   "distance_km": 5.8,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Sazılar",
+   "name_en": null,
+   "lat": 39.6659432,
+   "lon": 31.8882786,
+   "distance_km": 7.9,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "İğciler",
+   "name_en": null,
+   "lat": 39.572139,
+   "lon": 32.032278,
+   "distance_km": 9.8,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Polatlı",
+   "name_en": null,
+   "lat": 39.58567,
+   "lon": 32.1417303,
+   "distance_km": 15.7,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "İlören",
+   "name_en": null,
+   "lat": 39.6868166,
+   "lon": 31.7820013,
+   "distance_km": 17.3,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Karapınar",
+   "name_en": null,
+   "lat": 39.6127583,
+   "lon": 32.1833365,
+   "distance_km": 18.0,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Polatlı YHT",
+   "name_en": null,
+   "lat": 39.5801618,
+   "lon": 32.1814807,
+   "distance_km": 19.0,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Yenidoğan",
+   "name_en": null,
+   "lat": 39.6903197,
+   "lon": 32.2497475,
+   "distance_km": 23.6,
+   "operator": "TCDD Taşımacılık"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:17:02Z"
+}

@@ -165,13 +165,15 @@ def world_images(site: dict, rec: dict, tier: str, cache_file) -> list[dict]:
     cached = load_json(cache_file)
     if cached:
         return cached
+    if cached is not None:
+        # An empty list is a deliberate "no Commons image found" marker; do not
+        # re-query Commons on every weekly run for sites that have none.
+        return []
     images = []
     p18 = image_from_p18(rec.get("image", ""))
     if p18:
         images.append(p18)
-    commons_found = False
     if tier == "full" and not OFFLINE:
-        before = len(images)
         cat = rec.get("commons_category")
         if cat:
             images.extend(commons_category(cat, 8))
@@ -179,7 +181,6 @@ def world_images(site: dict, rec: dict, tier: str, cache_file) -> list[dict]:
             name = site.get("name", {}).get("en", "")
             country = rec.get("country_en", "")
             images.extend(commons_search(f"{name} {country}", 6))
-        commons_found = len(images) > before
     deduped, seen = [], set()
     for img in images:
         if img.get("url") and img["url"] not in seen:
@@ -196,10 +197,10 @@ def world_images(site: dict, rec: dict, tier: str, cache_file) -> list[dict]:
         }
         if unesco_img["url"] not in seen:
             deduped.append(unesco_img)
-    # Do not cache a failed Commons lookup for a full-tier site: a transient
-    # outage would otherwise leave it with only the P18/UNESCO images forever.
-    if tier == "basic" or commons_found:
-        save_json(cache_file, deduped[:5])
+    # Cache full-tier results too — including the empty list when Commons has
+    # nothing — so a hung/blocked Commons request never wedges the weekly job
+    # the way repeated un-cached retries did.
+    save_json(cache_file, deduped[:5])
     return deduped[:5]
 
 

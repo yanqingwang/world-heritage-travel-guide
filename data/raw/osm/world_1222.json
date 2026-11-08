@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "هتل آزادگان",
+   "name_en": "Azadegan Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 34.371757,
+   "lon": 47.1109043,
+   "distance_km": 29.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل لاله بیستون",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.3844517,
+   "lon": 47.4346154,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل جمشید",
+   "name_en": "Hotel Jamshid",
+   "stars": null,
+   "brand": null,
+   "lat": 34.384975,
+   "lon": 47.1315437,
+   "distance_km": 27.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parsian Hotel Kermanshah",
+   "name_en": "Parsian Hotel Kermanshah",
+   "stars": null,
+   "brand": null,
+   "lat": 34.3584253,
+   "lon": 47.1143628,
+   "distance_km": 29.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارسیان کرمانشاه",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.3583541,
+   "lon": 47.1144512,
+   "distance_km": 29.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 13,
+ "stations": [
+  {
+   "name": "بیستون",
+   "name_en": "Bisotun",
+   "lat": 34.3754445,
+   "lon": 47.5112772,
+   "distance_km": 7.1,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه راه آهن کرمانشاه",
+   "name_en": "Kermanshah",
+   "lat": 34.3384021,
+   "lon": 47.1320155,
+   "distance_km": 28.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:15:27Z"
+}

@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "내금강휴계소",
+   "name_en": "Naekumgang Rest House",
+   "stars": null,
+   "brand": null,
+   "lat": 38.6086226,
+   "lon": 128.0670777,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "금강산호텔",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.6896279,
+   "lon": 128.1831437,
+   "distance_km": 7.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "외금강호텔",
+   "name_en": "Oegumgang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.6857889,
+   "lon": 128.1981697,
+   "distance_km": 8.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "호텔해금강",
+   "name_en": "Hotel Haegumgang",
+   "stars": null,
+   "brand": null,
+   "lat": 38.7258492,
+   "lon": 128.2069384,
+   "distance_km": 11.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "금강산콘도",
+   "name_en": "Geumgangsan Condominium",
+   "stars": null,
+   "brand": null,
+   "lat": 38.509976,
+   "lon": 128.420563,
+   "distance_km": 31.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [
+  {
+   "name": "금강산청년",
+   "name_en": "Kumgangsan Chongnyon",
+   "lat": 38.6918433,
+   "lon": 128.2160229,
+   "distance_km": 10.4,
+   "operator": "조선민주주의인민공화국 철도성"
+  },
+  {
+   "name": "고성",
+   "name_en": "Kosong",
+   "lat": 38.7440609,
+   "lon": 128.1768123,
+   "distance_km": 11.5,
+   "operator": "조선민주주의인민공화국 철도성"
+  },
+  {
+   "name": "남애",
+   "name_en": "Namae",
+   "lat": 38.7922952,
+   "lon": 128.138242,
+   "distance_km": 15.3,
+   "operator": "조선민주주의인민공화국 철도성"
+  },
+  {
+   "name": "삼일포",
+   "name_en": "Samilpo",
+   "lat": 38.6704422,
+   "lon": 128.3220559,
+   "distance_km": 18.9,
+   "operator": "조선민주주의인민공화국 철도성"
+  },
+  {
+   "name": "감호",
+   "name_en": "Kamho",
+   "lat": 38.642991,
+   "lon": 128.3354411,
+   "distance_km": 20.1,
+   "operator": "조선민주주의인민공화국 철도성"
+  },
+  {
+   "name": "두포",
+   "name_en": "Tupo",
+   "lat": 38.8456213,
+   "lon": 128.0545271,
+   "distance_km": 21.4,
+   "operator": "조선민주주의인민공화국 철도성"
+  },
+  {
+   "name": "렴성",
+   "name_en": "Ryomsong",
+   "lat": 38.8558342,
+   "lon": 127.9943962,
+   "distance_km": 24.1,
+   "operator": "조선민주주의인민공화국 철도성"
+  },
+  {
+   "name": "제진",
+   "name_en": "Jejin",
+   "lat": 38.5675639,
+   "lon": 128.388695,
+   "distance_km": 26.6,
+   "operator": "한국철도공사"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:16:59Z"
+}

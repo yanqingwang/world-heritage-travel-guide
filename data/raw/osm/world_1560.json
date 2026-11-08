@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Eurostars Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Eurostars Hotel Company",
+   "lat": 37.881164,
+   "lon": -4.7857969,
+   "distance_km": 7.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palacio del Bailío",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.8874303,
+   "lon": -4.777421,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Califa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8828935,
+   "lon": -4.7841903,
+   "distance_km": 7.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Soho Boutique Córdoba",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Petit Palace",
+   "lat": 37.88965,
+   "lon": -4.7842467,
+   "distance_km": 7.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Collection",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8791968,
+   "lon": -4.782806,
+   "distance_km": 7.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 110,
+ "stations": [
+  {
+   "name": "El Higuerón",
+   "name_en": null,
+   "lat": 37.8670309,
+   "lon": -4.8504733,
+   "distance_km": 2.6,
+   "operator": "Adif"
+  },
+  {
+   "name": "Villarrubia de Córdoba",
+   "name_en": null,
+   "lat": 37.8479706,
+   "lon": -4.9137717,
+   "distance_km": 5.9,
+   "operator": "Adif"
+  },
+  {
+   "name": "Córdoba Julio Anguita",
+   "name_en": null,
+   "lat": 37.8885103,
+   "lon": -4.789516,
+   "distance_km": 6.9,
+   "operator": "Adif"
+  },
+  {
+   "name": "Alcolea de Córdoba",
+   "name_en": null,
+   "lat": 37.9329792,
+   "lon": -4.6748063,
+   "distance_km": 17.7,
+   "operator": "Adif"
+  },
+  {
+   "name": "Posadas",
+   "name_en": null,
+   "lat": 37.8041466,
+   "lon": -5.1059226,
+   "distance_km": 22.8,
+   "operator": "Adif"
+  },
+  {
+   "name": "Montilla",
+   "name_en": null,
+   "lat": 37.5789991,
+   "lon": -4.6336985,
+   "distance_km": 39.9,
+   "operator": "Adif"
+  },
+  {
+   "name": "Palma del Río",
+   "name_en": null,
+   "lat": 37.7181407,
+   "lon": -5.2929522,
+   "distance_km": 41.8,
+   "operator": "Adif"
+  },
+  {
+   "name": "Peñaflor",
+   "name_en": null,
+   "lat": 37.7073685,
+   "lon": -5.3407988,
+   "distance_km": 46.1,
+   "operator": "Adif"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:16:21Z"
+}

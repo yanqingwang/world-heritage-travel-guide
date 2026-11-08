@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Lux*",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -20.4570557,
+   "lon": 57.3117259,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Le Paradis",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -20.438381,
+   "lon": 57.3206941,
+   "distance_km": 2.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Mauritius Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": -20.3087112,
+   "lon": 57.367255,
+   "distance_km": 17.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Riu Turquoise",
+   "name_en": null,
+   "stars": 4,
+   "brand": "RIU",
+   "lat": -20.4668422,
+   "lon": 57.315084,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Riu Palace Mauritius",
+   "name_en": null,
+   "stars": 4,
+   "brand": "RIU",
+   "lat": -20.4666057,
+   "lon": 57.3113968,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 111,
+ "stations": [
+  {
+   "name": "Curepipe Central",
+   "name_en": null,
+   "lat": -20.316407,
+   "lon": 57.525649,
+   "distance_km": 27.3,
+   "operator": null
+  },
+  {
+   "name": "Quatre Bornes Central",
+   "name_en": null,
+   "lat": -20.2651247,
+   "lon": 57.4783272,
+   "distance_km": 27.7,
+   "operator": "Metro Express Ltd"
+  },
+  {
+   "name": "Phoenix",
+   "name_en": null,
+   "lat": -20.2749591,
+   "lon": 57.4965315,
+   "distance_km": 28.1,
+   "operator": "Metro Express Ltd"
+  },
+  {
+   "name": "St. Jean",
+   "name_en": null,
+   "lat": -20.2618123,
+   "lon": 57.4824355,
+   "distance_km": 28.3,
+   "operator": "Metro Express Ltd"
+  },
+  {
+   "name": "Belle Rose",
+   "name_en": null,
+   "lat": -20.2556815,
+   "lon": 57.4777462,
+   "distance_km": 28.5,
+   "operator": "Metro Express Ltd"
+  },
+  {
+   "name": "Trianon",
+   "name_en": null,
+   "lat": -20.261202,
+   "lon": 57.489885,
+   "distance_km": 28.8,
+   "operator": "Metro Express Ltd"
+  },
+  {
+   "name": "Rose Hill Central",
+   "name_en": null,
+   "lat": -20.2418518,
+   "lon": 57.4759291,
+   "distance_km": 29.6,
+   "operator": "Metro Express Ltd"
+  },
+  {
+   "name": "Vandermeersch",
+   "name_en": null,
+   "lat": -20.2354339,
+   "lon": 57.4730815,
+   "distance_km": 30.1,
+   "operator": "Metro Express Ltd."
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port Louis",
+   "name_en": null,
+   "lat": -20.1576939,
+   "lon": 57.5026237,
+   "distance_km": 39.0,
+   "operator": null
+  },
+  {
+   "name": "Terminal passagers",
+   "name_en": "Passenger Terminal",
+   "lat": -20.1553482,
+   "lon": 57.4982315,
+   "distance_km": 39.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T16:15:30Z"
+}

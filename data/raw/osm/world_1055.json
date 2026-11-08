@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Yumbe Villa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2686334,
+   "lon": 40.9014407,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yumbe House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.266425,
+   "lon": 40.900723,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Petleys Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2677379,
+   "lon": 40.9022522,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sunsail",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2684687,
+   "lon": 40.9026909,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bahari",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2657045,
+   "lon": 40.9009627,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 23,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T16:15:11Z"
+}

@@ -328,7 +328,7 @@ def commons_search(query: str, limit: int = 6) -> list[dict]:
         "action": "query", "format": "json", "generator": "search",
         "gsrsearch": query, "gsrnamespace": 6, "gsrlimit": limit,
         "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
-    }, retries=4)
+    }, retries=2)
     pages = ((data or {}).get("query") or {}).get("pages", {})
     if isinstance(pages, dict):
         pages = list(pages.values())
@@ -345,7 +345,7 @@ def commons_category(category: str, limit: int = 8) -> list[dict]:
         "action": "query", "format": "json", "generator": "categorymembers",
         "gcmtitle": f"Category:{category}", "gcmtype": "file", "gcmlimit": limit,
         "prop": "imageinfo", "iiprop": "url|extmetadata", "iiurlwidth": 1280,
-    }, retries=4)
+    }, retries=2)
     pages = ((data or {}).get("query") or {}).get("pages", {})
     if isinstance(pages, dict):
         pages = list(pages.values())
