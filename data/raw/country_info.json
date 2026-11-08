@@ -1,0 +1,3667 @@
+{
+ "source": "https://github.com/mledoze/countries (MIT) + curated IEC plug/timezone/drive tables",
+ "count": 250,
+ "items": {
+  "AW": {
+   "currency_code": "AWG",
+   "currency_en": "Aruban florin",
+   "currency_zh": "Aruban florin",
+   "currency_symbol": "ƒ",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+297",
+   "languages": [
+    "Dutch",
+    "Papiamento"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "AF": {
+   "currency_code": "AFN",
+   "currency_en": "Afghan afghani",
+   "currency_zh": "Afghan afghani",
+   "currency_symbol": "؋",
+   "timezone_main": "UTC+04:30",
+   "drives_side": "",
+   "idd_prefix": "+93",
+   "languages": [
+    "Dari",
+    "Pashto",
+    "Turkmen"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "AO": {
+   "currency_code": "AOA",
+   "currency_en": "Angolan kwanza",
+   "currency_zh": "Angolan kwanza",
+   "currency_symbol": "Kz",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+244",
+   "languages": [
+    "Portuguese"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "AI": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1264",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "AX": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+35818",
+   "languages": [
+    "Swedish"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "AL": {
+   "currency_code": "ALL",
+   "currency_en": "Albanian lek",
+   "currency_zh": "Albanian lek",
+   "currency_symbol": "L",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+355",
+   "languages": [
+    "Albanian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "AD": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+376",
+   "languages": [
+    "Catalan"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "AE": {
+   "currency_code": "AED",
+   "currency_en": "United Arab Emirates dirham",
+   "currency_zh": "迪拉姆",
+   "currency_symbol": "د.إ",
+   "timezone_main": "UTC+04:00",
+   "drives_side": "",
+   "idd_prefix": "+971",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,D,G",
+   "voltage": "220V/50Hz"
+  },
+  "AR": {
+   "currency_code": "ARS",
+   "currency_en": "Argentine peso",
+   "currency_zh": "阿根廷比索",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-03:00",
+   "drives_side": "",
+   "idd_prefix": "+54",
+   "languages": [
+    "Guaraní",
+    "Spanish"
+   ],
+   "plug_types": "C,I",
+   "voltage": "220V/50Hz"
+  },
+  "AM": {
+   "currency_code": "AMD",
+   "currency_en": "Armenian dram",
+   "currency_zh": "Armenian dram",
+   "currency_symbol": "֏",
+   "timezone_main": "UTC+04:00",
+   "drives_side": "",
+   "idd_prefix": "+374",
+   "languages": [
+    "Armenian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "AS": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1684",
+   "languages": [
+    "English",
+    "Samoan"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "AQ": {
+   "currency_code": "",
+   "currency_en": "",
+   "currency_zh": "",
+   "currency_symbol": "",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "",
+   "languages": [],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TF": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+262",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "AG": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "left",
+   "idd_prefix": "+1268",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "A,B",
+   "voltage": "230V/60Hz"
+  },
+  "AU": {
+   "currency_code": "AUD",
+   "currency_en": "Australian dollar",
+   "currency_zh": "澳大利亚元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+10:00",
+   "drives_side": "left",
+   "idd_prefix": "+61",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "I",
+   "voltage": "230V/50Hz"
+  },
+  "AT": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+43",
+   "languages": [
+    "Austro-Bavarian German"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "AZ": {
+   "currency_code": "AZN",
+   "currency_en": "Azerbaijani manat",
+   "currency_zh": "Azerbaijani manat",
+   "currency_symbol": "₼",
+   "timezone_main": "UTC+04:00",
+   "drives_side": "",
+   "idd_prefix": "+994",
+   "languages": [
+    "Azerbaijani",
+    "Russian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "BI": {
+   "currency_code": "BIF",
+   "currency_en": "Burundian franc",
+   "currency_zh": "Burundian franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+257",
+   "languages": [
+    "French",
+    "Kirundi"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BE": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+32",
+   "languages": [
+    "Dutch",
+    "French",
+    "German"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "BJ": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+229",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "BF": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+226",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "BD": {
+   "currency_code": "BDT",
+   "currency_en": "Bangladeshi taka",
+   "currency_zh": "Bangladeshi taka",
+   "currency_symbol": "৳",
+   "timezone_main": "UTC+06:00",
+   "drives_side": "left",
+   "idd_prefix": "+880",
+   "languages": [
+    "Bengali"
+   ],
+   "plug_types": "C,D,G,K",
+   "voltage": "220V/50Hz"
+  },
+  "BG": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+359",
+   "languages": [
+    "Bulgarian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "BH": {
+   "currency_code": "BHD",
+   "currency_en": "Bahraini dinar",
+   "currency_zh": "Bahraini dinar",
+   "currency_symbol": ".د.ب",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+973",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,D,G",
+   "voltage": "230V/50Hz"
+  },
+  "BS": {
+   "currency_code": "BSD",
+   "currency_en": "Bahamian dollar",
+   "currency_zh": "Bahamian dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1242",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BA": {
+   "currency_code": "BAM",
+   "currency_en": "Bosnia and Herzegovina convertible mark",
+   "currency_zh": "Bosnia and Herzegovina convertible mark",
+   "currency_symbol": "KM",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+387",
+   "languages": [
+    "Bosnian",
+    "Croatian",
+    "Serbian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "BL": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+590",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "SH": {
+   "currency_code": "GBP",
+   "currency_en": "Pound sterling",
+   "currency_zh": "英镑",
+   "currency_symbol": "£",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+290",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BY": {
+   "currency_code": "BYN",
+   "currency_en": "Belarusian ruble",
+   "currency_zh": "Belarusian ruble",
+   "currency_symbol": "Br",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+375",
+   "languages": [
+    "Belarusian",
+    "Russian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "BZ": {
+   "currency_code": "BZD",
+   "currency_en": "Belize dollar",
+   "currency_zh": "Belize dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-06:00",
+   "drives_side": "right",
+   "idd_prefix": "+501",
+   "languages": [
+    "Belizean Creole",
+    "English",
+    "Spanish"
+   ],
+   "plug_types": "A,B,G",
+   "voltage": "110/220V/60Hz"
+  },
+  "BM": {
+   "currency_code": "BMD",
+   "currency_en": "Bermudian dollar",
+   "currency_zh": "Bermudian dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1441",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BO": {
+   "currency_code": "BOB",
+   "currency_en": "Bolivian boliviano",
+   "currency_zh": "Bolivian boliviano",
+   "currency_symbol": "Bs.",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "",
+   "idd_prefix": "+591",
+   "languages": [
+    "Aymara",
+    "Guaraní",
+    "Quechua",
+    "Spanish"
+   ],
+   "plug_types": "A,C",
+   "voltage": "230V/50Hz"
+  },
+  "BQ": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+599",
+   "languages": [
+    "Dutch",
+    "English",
+    "Papiamento"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BR": {
+   "currency_code": "BRL",
+   "currency_en": "Brazilian real",
+   "currency_zh": "雷亚尔",
+   "currency_symbol": "R$",
+   "timezone_main": "UTC-03:00",
+   "drives_side": "",
+   "idd_prefix": "+55",
+   "languages": [
+    "Portuguese"
+   ],
+   "plug_types": "C,N",
+   "voltage": "127/220V/60Hz"
+  },
+  "BB": {
+   "currency_code": "BBD",
+   "currency_en": "Barbadian dollar",
+   "currency_zh": "Barbadian dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "left",
+   "idd_prefix": "+1246",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "A,B",
+   "voltage": "115V/50Hz"
+  },
+  "BN": {
+   "currency_code": "BND",
+   "currency_en": "Brunei dollar",
+   "currency_zh": "Brunei dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "left",
+   "idd_prefix": "+673",
+   "languages": [
+    "Malay"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BT": {
+   "currency_code": "BTN",
+   "currency_en": "Bhutanese ngultrum",
+   "currency_zh": "Bhutanese ngultrum",
+   "currency_symbol": "Nu.",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+975",
+   "languages": [
+    "Dzongkha"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BV": {
+   "currency_code": "",
+   "currency_en": "",
+   "currency_zh": "",
+   "currency_symbol": "",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+47",
+   "languages": [
+    "Norwegian"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "BW": {
+   "currency_code": "BWP",
+   "currency_en": "Botswana pula",
+   "currency_zh": "Botswana pula",
+   "currency_symbol": "P",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+267",
+   "languages": [
+    "English",
+    "Tswana"
+   ],
+   "plug_types": "D,G,M",
+   "voltage": "231V/50Hz"
+  },
+  "CF": {
+   "currency_code": "XAF",
+   "currency_en": "Central African CFA franc",
+   "currency_zh": "Central African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "right",
+   "idd_prefix": "+236",
+   "languages": [
+    "French",
+    "Sango"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "CA": {
+   "currency_code": "CAD",
+   "currency_en": "Canadian dollar",
+   "currency_zh": "加拿大元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "right",
+   "idd_prefix": "+1204",
+   "languages": [
+    "English",
+    "French"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "CC": {
+   "currency_code": "AUD",
+   "currency_en": "Australian dollar",
+   "currency_zh": "澳大利亚元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+61",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "CH": {
+   "currency_code": "CHF",
+   "currency_en": "Swiss franc",
+   "currency_zh": "瑞士法郎",
+   "currency_symbol": "Fr.",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "right",
+   "idd_prefix": "+41",
+   "languages": [
+    "French",
+    "Italian",
+    "Romansh",
+    "Swiss German"
+   ],
+   "plug_types": "C,J",
+   "voltage": "230V/50Hz"
+  },
+  "CL": {
+   "currency_code": "CLP",
+   "currency_en": "Chilean peso",
+   "currency_zh": "智利比索",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "",
+   "idd_prefix": "+56",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "C,L",
+   "voltage": "220V/50Hz"
+  },
+  "CN": {
+   "currency_code": "CNY",
+   "currency_en": "Chinese yuan",
+   "currency_zh": "人民币",
+   "currency_symbol": "¥",
+   "timezone_main": "UTC+08:00",
+   "drives_side": "right",
+   "idd_prefix": "+86",
+   "languages": [
+    "Chinese"
+   ],
+   "plug_types": "A,C,I",
+   "voltage": "220V/50Hz"
+  },
+  "CI": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+225",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "CM": {
+   "currency_code": "XAF",
+   "currency_en": "Central African CFA franc",
+   "currency_zh": "Central African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "right",
+   "idd_prefix": "+237",
+   "languages": [
+    "English",
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "CD": {
+   "currency_code": "CDF",
+   "currency_en": "Congolese franc",
+   "currency_zh": "Congolese franc",
+   "currency_symbol": "FC",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "right",
+   "idd_prefix": "+243",
+   "languages": [
+    "French",
+    "Kikongo",
+    "Lingala",
+    "Swahili",
+    "Tshiluba"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "CG": {
+   "currency_code": "XAF",
+   "currency_en": "Central African CFA franc",
+   "currency_zh": "Central African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "right",
+   "idd_prefix": "+242",
+   "languages": [
+    "French",
+    "Kikongo",
+    "Lingala"
+   ],
+   "plug_types": "C,E",
+   "voltage": "230V/50Hz"
+  },
+  "CK": {
+   "currency_code": "CKD",
+   "currency_en": "Cook Islands dollar",
+   "currency_zh": "Cook Islands dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+682",
+   "languages": [
+    "Cook Islands Māori",
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "CO": {
+   "currency_code": "COP",
+   "currency_en": "Colombian peso",
+   "currency_zh": "哥伦比亚比索",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "",
+   "idd_prefix": "+57",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "110V/60Hz"
+  },
+  "KM": {
+   "currency_code": "KMF",
+   "currency_en": "Comorian franc",
+   "currency_zh": "Comorian franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+269",
+   "languages": [
+    "Arabic",
+    "Comorian",
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "CV": {
+   "currency_code": "CVE",
+   "currency_en": "Cape Verdean escudo",
+   "currency_zh": "Cape Verdean escudo",
+   "currency_symbol": "Esc",
+   "timezone_main": "UTC-01:00",
+   "drives_side": "",
+   "idd_prefix": "+238",
+   "languages": [
+    "Portuguese"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "CR": {
+   "currency_code": "CRC",
+   "currency_en": "Costa Rican colón",
+   "currency_zh": "Costa Rican colón",
+   "currency_symbol": "₡",
+   "timezone_main": "UTC-06:00",
+   "drives_side": "",
+   "idd_prefix": "+506",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "CU": {
+   "currency_code": "CUP",
+   "currency_en": "Cuban peso",
+   "currency_zh": "Cuban peso",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "",
+   "idd_prefix": "+53",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B,C,L",
+   "voltage": "110/220V/60Hz"
+  },
+  "CW": {
+   "currency_code": "XCG",
+   "currency_en": "Caribbean guilder",
+   "currency_zh": "Caribbean guilder",
+   "currency_symbol": "Cg",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+599",
+   "languages": [
+    "Dutch",
+    "English",
+    "Papiamento"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "CX": {
+   "currency_code": "AUD",
+   "currency_en": "Australian dollar",
+   "currency_zh": "澳大利亚元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+61",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "KY": {
+   "currency_code": "KYD",
+   "currency_en": "Cayman Islands dollar",
+   "currency_zh": "Cayman Islands dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1345",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "CY": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+357",
+   "languages": [
+    "Greek",
+    "Turkish"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/50Hz"
+  },
+  "CZ": {
+   "currency_code": "CZK",
+   "currency_en": "Czech koruna",
+   "currency_zh": "捷克克朗",
+   "currency_symbol": "Kč",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+420",
+   "languages": [
+    "Czech",
+    "Slovak"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "DE": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+49",
+   "languages": [
+    "German"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "DJ": {
+   "currency_code": "DJF",
+   "currency_en": "Djiboutian franc",
+   "currency_zh": "Djiboutian franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+253",
+   "languages": [
+    "Arabic",
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "DM": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "left",
+   "idd_prefix": "+1767",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  },
+  "DK": {
+   "currency_code": "DKK",
+   "currency_en": "Danish krone",
+   "currency_zh": "丹麦克朗",
+   "currency_symbol": "kr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+45",
+   "languages": [
+    "Danish"
+   ],
+   "plug_types": "C,E,K",
+   "voltage": "230V/50Hz"
+  },
+  "DO": {
+   "currency_code": "DOP",
+   "currency_en": "Dominican peso",
+   "currency_zh": "Dominican peso",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "",
+   "idd_prefix": "+1809",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "110V/60Hz"
+  },
+  "DZ": {
+   "currency_code": "DZD",
+   "currency_en": "Algerian dinar",
+   "currency_zh": "Algerian dinar",
+   "currency_symbol": "د.ج",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+213",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,E",
+   "voltage": "230V/50Hz"
+  },
+  "EC": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "",
+   "idd_prefix": "+593",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "EG": {
+   "currency_code": "EGP",
+   "currency_en": "Egyptian pound",
+   "currency_zh": "埃及镑",
+   "currency_symbol": "£",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+20",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "ER": {
+   "currency_code": "ERN",
+   "currency_en": "Eritrean nakfa",
+   "currency_zh": "Eritrean nakfa",
+   "currency_symbol": "Nfk",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+291",
+   "languages": [
+    "Arabic",
+    "English",
+    "Tigrinya"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "EH": {
+   "currency_code": "DZD",
+   "currency_en": "Algerian dinar",
+   "currency_zh": "Algerian dinar",
+   "currency_symbol": "دج",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+2125288",
+   "languages": [
+    "Berber",
+    "Hassaniya",
+    "Spanish"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "ES": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+34",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "EE": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+372",
+   "languages": [
+    "Estonian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "ET": {
+   "currency_code": "ETB",
+   "currency_en": "Ethiopian birr",
+   "currency_zh": "Ethiopian birr",
+   "currency_symbol": "Br",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+251",
+   "languages": [
+    "Amharic"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "FI": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+358",
+   "languages": [
+    "Finnish",
+    "Swedish"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "FJ": {
+   "currency_code": "FJD",
+   "currency_en": "Fijian dollar",
+   "currency_zh": "Fijian dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+12:00",
+   "drives_side": "left",
+   "idd_prefix": "+679",
+   "languages": [
+    "English",
+    "Fiji Hindi",
+    "Fijian"
+   ],
+   "plug_types": "I",
+   "voltage": "240V/50Hz"
+  },
+  "FK": {
+   "currency_code": "FKP",
+   "currency_en": "Falkland Islands pound",
+   "currency_zh": "Falkland Islands pound",
+   "currency_symbol": "£",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+500",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "FR": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+33",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "230V/50Hz"
+  },
+  "FO": {
+   "currency_code": "DKK",
+   "currency_en": "Danish krone",
+   "currency_zh": "丹麦克朗",
+   "currency_symbol": "kr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+298",
+   "languages": [
+    "Danish",
+    "Faroese"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "FM": {
+   "currency_code": "",
+   "currency_en": "",
+   "currency_zh": "",
+   "currency_symbol": "",
+   "timezone_main": "UTC+11:00",
+   "drives_side": "",
+   "idd_prefix": "+691",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "GA": {
+   "currency_code": "XAF",
+   "currency_en": "Central African CFA franc",
+   "currency_zh": "Central African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+241",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C",
+   "voltage": "220V/50Hz"
+  },
+  "GB": {
+   "currency_code": "GBP",
+   "currency_en": "British pound",
+   "currency_zh": "英镑",
+   "currency_symbol": "£",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "left",
+   "idd_prefix": "+44",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/50Hz"
+  },
+  "GE": {
+   "currency_code": "GEL",
+   "currency_en": "lari",
+   "currency_zh": "lari",
+   "currency_symbol": "₾",
+   "timezone_main": "UTC+04:00",
+   "drives_side": "",
+   "idd_prefix": "+995",
+   "languages": [
+    "Georgian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "GG": {
+   "currency_code": "GBP",
+   "currency_en": "British pound",
+   "currency_zh": "英镑",
+   "currency_symbol": "£",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+44",
+   "languages": [
+    "English",
+    "French",
+    "Guernésiais"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GH": {
+   "currency_code": "GHS",
+   "currency_en": "Ghanaian cedi",
+   "currency_zh": "Ghanaian cedi",
+   "currency_symbol": "₵",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "left",
+   "idd_prefix": "+233",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  },
+  "GI": {
+   "currency_code": "GIP",
+   "currency_en": "Gibraltar pound",
+   "currency_zh": "Gibraltar pound",
+   "currency_symbol": "£",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+350",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GN": {
+   "currency_code": "GNF",
+   "currency_en": "Guinean franc",
+   "currency_zh": "Guinean franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+224",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GP": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+590",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GM": {
+   "currency_code": "GMD",
+   "currency_en": "dalasi",
+   "currency_zh": "dalasi",
+   "currency_symbol": "D",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "left",
+   "idd_prefix": "+220",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/50Hz"
+  },
+  "GW": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+245",
+   "languages": [
+    "Portuguese",
+    "Upper Guinea Creole"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "GQ": {
+   "currency_code": "XAF",
+   "currency_en": "Central African CFA franc",
+   "currency_zh": "Central African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+240",
+   "languages": [
+    "French",
+    "Portuguese",
+    "Spanish"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GR": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "right",
+   "idd_prefix": "+30",
+   "languages": [
+    "Greek"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "GD": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "left",
+   "idd_prefix": "+1473",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GL": {
+   "currency_code": "DKK",
+   "currency_en": "krone",
+   "currency_zh": "丹麦克朗",
+   "currency_symbol": "kr.",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+299",
+   "languages": [
+    "Greenlandic"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GT": {
+   "currency_code": "GTQ",
+   "currency_en": "Guatemalan quetzal",
+   "currency_zh": "Guatemalan quetzal",
+   "currency_symbol": "Q",
+   "timezone_main": "UTC-06:00",
+   "drives_side": "",
+   "idd_prefix": "+502",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "GF": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+594",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GU": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1671",
+   "languages": [
+    "Chamorro",
+    "English",
+    "Spanish"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "GY": {
+   "currency_code": "GYD",
+   "currency_en": "Guyanese dollar",
+   "currency_zh": "Guyanese dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "left",
+   "idd_prefix": "+592",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "HK": {
+   "currency_code": "HKD",
+   "currency_en": "Hong Kong dollar",
+   "currency_zh": "Hong Kong dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "left",
+   "idd_prefix": "+852",
+   "languages": [
+    "Chinese",
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "HM": {
+   "currency_code": "",
+   "currency_en": "",
+   "currency_zh": "",
+   "currency_symbol": "",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "HN": {
+   "currency_code": "HNL",
+   "currency_en": "Honduran lempira",
+   "currency_zh": "Honduran lempira",
+   "currency_symbol": "L",
+   "timezone_main": "UTC-06:00",
+   "drives_side": "",
+   "idd_prefix": "+504",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "110V/60Hz"
+  },
+  "HR": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+385",
+   "languages": [
+    "Croatian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "HT": {
+   "currency_code": "HTG",
+   "currency_en": "Haitian gourde",
+   "currency_zh": "Haitian gourde",
+   "currency_symbol": "G",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "",
+   "idd_prefix": "+509",
+   "languages": [
+    "French",
+    "Haitian Creole"
+   ],
+   "plug_types": "A,B",
+   "voltage": "110V/60Hz"
+  },
+  "HU": {
+   "currency_code": "HUF",
+   "currency_en": "Hungarian forint",
+   "currency_zh": "福林",
+   "currency_symbol": "Ft",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+36",
+   "languages": [
+    "Hungarian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "ID": {
+   "currency_code": "IDR",
+   "currency_en": "Indonesian rupiah",
+   "currency_zh": "印尼盾",
+   "currency_symbol": "Rp",
+   "timezone_main": "UTC+07:00",
+   "drives_side": "left",
+   "idd_prefix": "+62",
+   "languages": [
+    "Indonesian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "IM": {
+   "currency_code": "GBP",
+   "currency_en": "British pound",
+   "currency_zh": "英镑",
+   "currency_symbol": "£",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+44",
+   "languages": [
+    "English",
+    "Manx"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "IN": {
+   "currency_code": "INR",
+   "currency_en": "Indian rupee",
+   "currency_zh": "印度卢比",
+   "currency_symbol": "₹",
+   "timezone_main": "UTC+05:30",
+   "drives_side": "left",
+   "idd_prefix": "+91",
+   "languages": [
+    "English",
+    "Hindi",
+    "Tamil"
+   ],
+   "plug_types": "C,D,M",
+   "voltage": "230V/50Hz"
+  },
+  "IO": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+246",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "IE": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "left",
+   "idd_prefix": "+353",
+   "languages": [
+    "English",
+    "Irish"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/50Hz"
+  },
+  "IR": {
+   "currency_code": "IRR",
+   "currency_en": "Iranian rial",
+   "currency_zh": "Iranian rial",
+   "currency_symbol": "﷼",
+   "timezone_main": "UTC+03:30",
+   "drives_side": "",
+   "idd_prefix": "+98",
+   "languages": [
+    "Persian (Farsi)"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "IQ": {
+   "currency_code": "IQD",
+   "currency_en": "Iraqi dinar",
+   "currency_zh": "Iraqi dinar",
+   "currency_symbol": "ع.د",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+964",
+   "languages": [
+    "Arabic",
+    "Aramaic",
+    "Sorani"
+   ],
+   "plug_types": "C,D,G",
+   "voltage": "230V/50Hz"
+  },
+  "IS": {
+   "currency_code": "ISK",
+   "currency_en": "Icelandic króna",
+   "currency_zh": "Icelandic króna",
+   "currency_symbol": "kr",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+354",
+   "languages": [
+    "Icelandic"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "IL": {
+   "currency_code": "ILS",
+   "currency_en": "Israeli new shekel",
+   "currency_zh": "谢克尔",
+   "currency_symbol": "₪",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+972",
+   "languages": [
+    "Arabic",
+    "Hebrew"
+   ],
+   "plug_types": "C,H",
+   "voltage": "230V/50Hz"
+  },
+  "IT": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+39",
+   "languages": [
+    "Italian"
+   ],
+   "plug_types": "C,F,L",
+   "voltage": "230V/50Hz"
+  },
+  "JM": {
+   "currency_code": "JMD",
+   "currency_en": "Jamaican dollar",
+   "currency_zh": "Jamaican dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "left",
+   "idd_prefix": "+1876",
+   "languages": [
+    "English",
+    "Jamaican Patois"
+   ],
+   "plug_types": "A,B",
+   "voltage": "110V/50Hz"
+  },
+  "JE": {
+   "currency_code": "GBP",
+   "currency_en": "British pound",
+   "currency_zh": "英镑",
+   "currency_symbol": "£",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+44",
+   "languages": [
+    "English",
+    "French",
+    "Jèrriais"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "JO": {
+   "currency_code": "JOD",
+   "currency_en": "Jordanian dinar",
+   "currency_zh": "Jordanian dinar",
+   "currency_symbol": "د.ا",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+962",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,D,G",
+   "voltage": "230V/50Hz"
+  },
+  "JP": {
+   "currency_code": "JPY",
+   "currency_en": "Japanese yen",
+   "currency_zh": "日元",
+   "currency_symbol": "¥",
+   "timezone_main": "UTC+09:00",
+   "drives_side": "left",
+   "idd_prefix": "+81",
+   "languages": [
+    "Japanese"
+   ],
+   "plug_types": "A,B",
+   "voltage": "100V/50-60Hz"
+  },
+  "KZ": {
+   "currency_code": "KZT",
+   "currency_en": "Kazakhstani tenge",
+   "currency_zh": "Kazakhstani tenge",
+   "currency_symbol": "₸",
+   "timezone_main": "UTC+06:00",
+   "drives_side": "",
+   "idd_prefix": "+76",
+   "languages": [
+    "Kazakh",
+    "Russian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "KE": {
+   "currency_code": "KES",
+   "currency_en": "Kenyan shilling",
+   "currency_zh": "Kenyan shilling",
+   "currency_symbol": "Sh",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "left",
+   "idd_prefix": "+254",
+   "languages": [
+    "English",
+    "Swahili"
+   ],
+   "plug_types": "G",
+   "voltage": "240V/50Hz"
+  },
+  "KG": {
+   "currency_code": "KGS",
+   "currency_en": "Kyrgyzstani som",
+   "currency_zh": "Kyrgyzstani som",
+   "currency_symbol": "с",
+   "timezone_main": "UTC+06:00",
+   "drives_side": "",
+   "idd_prefix": "+996",
+   "languages": [
+    "Kyrgyz",
+    "Russian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "KH": {
+   "currency_code": "KHR",
+   "currency_en": "Cambodian riel",
+   "currency_zh": "Cambodian riel",
+   "currency_symbol": "៛",
+   "timezone_main": "UTC+07:00",
+   "drives_side": "",
+   "idd_prefix": "+855",
+   "languages": [
+    "Khmer"
+   ],
+   "plug_types": "A,C,G",
+   "voltage": "230V/50Hz"
+  },
+  "KI": {
+   "currency_code": "AUD",
+   "currency_en": "Australian dollar",
+   "currency_zh": "澳大利亚元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+12:00",
+   "drives_side": "left",
+   "idd_prefix": "+686",
+   "languages": [
+    "English",
+    "Gilbertese"
+   ],
+   "plug_types": "I",
+   "voltage": "240V/50Hz"
+  },
+  "KN": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "left",
+   "idd_prefix": "+1869",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/60Hz"
+  },
+  "KR": {
+   "currency_code": "KRW",
+   "currency_en": "South Korean won",
+   "currency_zh": "韩元",
+   "currency_symbol": "₩",
+   "timezone_main": "UTC+09:00",
+   "drives_side": "right",
+   "idd_prefix": "+82",
+   "languages": [
+    "Korean"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/60Hz"
+  },
+  "XK": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+383",
+   "languages": [
+    "Albanian",
+    "Serbian"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "KW": {
+   "currency_code": "KWD",
+   "currency_en": "Kuwaiti dinar",
+   "currency_zh": "Kuwaiti dinar",
+   "currency_symbol": "د.ك",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+965",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "LA": {
+   "currency_code": "LAK",
+   "currency_en": "Lao kip",
+   "currency_zh": "Lao kip",
+   "currency_symbol": "₭",
+   "timezone_main": "UTC+07:00",
+   "drives_side": "",
+   "idd_prefix": "+856",
+   "languages": [
+    "Lao"
+   ],
+   "plug_types": "A,B,C,E,F",
+   "voltage": "230V/50Hz"
+  },
+  "LB": {
+   "currency_code": "LBP",
+   "currency_en": "Lebanese pound",
+   "currency_zh": "Lebanese pound",
+   "currency_symbol": "ل.ل",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+961",
+   "languages": [
+    "Arabic",
+    "French"
+   ],
+   "plug_types": "C,D,G",
+   "voltage": "220V/50Hz"
+  },
+  "LR": {
+   "currency_code": "LRD",
+   "currency_en": "Liberian dollar",
+   "currency_zh": "Liberian dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+231",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "LY": {
+   "currency_code": "LYD",
+   "currency_en": "Libyan dinar",
+   "currency_zh": "Libyan dinar",
+   "currency_symbol": "ل.د",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+218",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,F",
+   "voltage": "127/230V/50Hz"
+  },
+  "LC": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "",
+   "idd_prefix": "+1758",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "D,G",
+   "voltage": "240V/50Hz"
+  },
+  "LI": {
+   "currency_code": "CHF",
+   "currency_en": "Swiss franc",
+   "currency_zh": "瑞士法郎",
+   "currency_symbol": "Fr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+423",
+   "languages": [
+    "German"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "LK": {
+   "currency_code": "LKR",
+   "currency_en": "Sri Lankan rupee",
+   "currency_zh": "Sri Lankan rupee",
+   "currency_symbol": "Rs රු",
+   "timezone_main": "UTC+05:30",
+   "drives_side": "left",
+   "idd_prefix": "+94",
+   "languages": [
+    "Sinhala",
+    "Tamil"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  },
+  "LS": {
+   "currency_code": "LSL",
+   "currency_en": "Lesotho loti",
+   "currency_zh": "Lesotho loti",
+   "currency_symbol": "L",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+266",
+   "languages": [
+    "English",
+    "Sotho"
+   ],
+   "plug_types": "M",
+   "voltage": "220V/50Hz"
+  },
+  "LT": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+370",
+   "languages": [
+    "Lithuanian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "LU": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+352",
+   "languages": [
+    "French",
+    "German",
+    "Luxembourgish"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "LV": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+371",
+   "languages": [
+    "Latvian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "MO": {
+   "currency_code": "MOP",
+   "currency_en": "Macanese pataca",
+   "currency_zh": "Macanese pataca",
+   "currency_symbol": "P",
+   "timezone_main": "",
+   "drives_side": "left",
+   "idd_prefix": "+853",
+   "languages": [
+    "Chinese",
+    "Portuguese"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MF": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+590",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MA": {
+   "currency_code": "MAD",
+   "currency_en": "Moroccan dirham",
+   "currency_zh": "Moroccan dirham",
+   "currency_symbol": "د.م.",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+212",
+   "languages": [
+    "Arabic",
+    "Berber"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "MC": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+377",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MD": {
+   "currency_code": "MDL",
+   "currency_en": "Moldovan leu",
+   "currency_zh": "Moldovan leu",
+   "currency_symbol": "L",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+373",
+   "languages": [
+    "Moldavian"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MG": {
+   "currency_code": "MGA",
+   "currency_en": "Malagasy ariary",
+   "currency_zh": "Malagasy ariary",
+   "currency_symbol": "Ar",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+261",
+   "languages": [
+    "French",
+    "Malagasy"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "MV": {
+   "currency_code": "MVR",
+   "currency_en": "Maldivian rufiyaa",
+   "currency_zh": "Maldivian rufiyaa",
+   "currency_symbol": ".ރ",
+   "timezone_main": "",
+   "drives_side": "left",
+   "idd_prefix": "+960",
+   "languages": [
+    "Maldivian"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MX": {
+   "currency_code": "MXN",
+   "currency_en": "Mexican peso",
+   "currency_zh": "墨西哥比索",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-06:00",
+   "drives_side": "",
+   "idd_prefix": "+52",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "127V/60Hz"
+  },
+  "MH": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+12:00",
+   "drives_side": "",
+   "idd_prefix": "+692",
+   "languages": [
+    "English",
+    "Marshallese"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "MK": {
+   "currency_code": "MKD",
+   "currency_en": "denar",
+   "currency_zh": "denar",
+   "currency_symbol": "den",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+389",
+   "languages": [
+    "Macedonian"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "ML": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+223",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "MT": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "left",
+   "idd_prefix": "+356",
+   "languages": [
+    "English",
+    "Maltese"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/50Hz"
+  },
+  "MM": {
+   "currency_code": "MMK",
+   "currency_en": "Burmese kyat",
+   "currency_zh": "Burmese kyat",
+   "currency_symbol": "Ks",
+   "timezone_main": "UTC+06:30",
+   "drives_side": "",
+   "idd_prefix": "+95",
+   "languages": [
+    "Burmese"
+   ],
+   "plug_types": "C,D,F,G",
+   "voltage": "230V/50Hz"
+  },
+  "ME": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+382",
+   "languages": [
+    "Montenegrin"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "MN": {
+   "currency_code": "MNT",
+   "currency_en": "Mongolian tögrög",
+   "currency_zh": "Mongolian tögrög",
+   "currency_symbol": "₮",
+   "timezone_main": "UTC+08:00",
+   "drives_side": "",
+   "idd_prefix": "+976",
+   "languages": [
+    "Mongolian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "MP": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1670",
+   "languages": [
+    "Carolinian",
+    "Chamorro",
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MZ": {
+   "currency_code": "MZN",
+   "currency_en": "Mozambican metical",
+   "currency_zh": "Mozambican metical",
+   "currency_symbol": "MT",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+258",
+   "languages": [
+    "Portuguese"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "MR": {
+   "currency_code": "MRU",
+   "currency_en": "Mauritanian ouguiya",
+   "currency_zh": "Mauritanian ouguiya",
+   "currency_symbol": "UM",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+222",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C",
+   "voltage": "220V/50Hz"
+  },
+  "MS": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1664",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MQ": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+596",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "MU": {
+   "currency_code": "MUR",
+   "currency_en": "Mauritian rupee",
+   "currency_zh": "Mauritian rupee",
+   "currency_symbol": "₨",
+   "timezone_main": "UTC+04:00",
+   "drives_side": "left",
+   "idd_prefix": "+230",
+   "languages": [
+    "English",
+    "French",
+    "Mauritian Creole"
+   ],
+   "plug_types": "C,G",
+   "voltage": "230V/50Hz"
+  },
+  "MW": {
+   "currency_code": "MWK",
+   "currency_en": "Malawian kwacha",
+   "currency_zh": "Malawian kwacha",
+   "currency_symbol": "MK",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+265",
+   "languages": [
+    "Chewa",
+    "English"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/50Hz"
+  },
+  "MY": {
+   "currency_code": "MYR",
+   "currency_en": "Malaysian ringgit",
+   "currency_zh": "林吉特",
+   "currency_symbol": "RM",
+   "timezone_main": "UTC+08:00",
+   "drives_side": "left",
+   "idd_prefix": "+60",
+   "languages": [
+    "English",
+    "Malay"
+   ],
+   "plug_types": "G",
+   "voltage": "240V/50Hz"
+  },
+  "YT": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+262",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "NA": {
+   "currency_code": "NAD",
+   "currency_en": "Namibian dollar",
+   "currency_zh": "Namibian dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+264",
+   "languages": [
+    "Afrikaans",
+    "English",
+    "German",
+    "Herero",
+    "Khoekhoe",
+    "Kwangali",
+    "Lozi",
+    "Ndonga",
+    "Tswana"
+   ],
+   "plug_types": "D,M",
+   "voltage": "220V/50Hz"
+  },
+  "NC": {
+   "currency_code": "XPF",
+   "currency_en": "CFP franc",
+   "currency_zh": "CFP franc",
+   "currency_symbol": "₣",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+687",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "NE": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+227",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C,D,E",
+   "voltage": "220V/50Hz"
+  },
+  "NF": {
+   "currency_code": "AUD",
+   "currency_en": "Australian dollar",
+   "currency_zh": "澳大利亚元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+672",
+   "languages": [
+    "English",
+    "Norfuk"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "NG": {
+   "currency_code": "NGN",
+   "currency_en": "Nigerian naira",
+   "currency_zh": "Nigerian naira",
+   "currency_symbol": "₦",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+234",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  },
+  "NI": {
+   "currency_code": "NIO",
+   "currency_en": "Nicaraguan córdoba",
+   "currency_zh": "Nicaraguan córdoba",
+   "currency_symbol": "C$",
+   "timezone_main": "UTC-06:00",
+   "drives_side": "",
+   "idd_prefix": "+505",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "NU": {
+   "currency_code": "NZD",
+   "currency_en": "New Zealand dollar",
+   "currency_zh": "新西兰元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+683",
+   "languages": [
+    "English",
+    "Niuean"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "NL": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+31",
+   "languages": [
+    "Dutch"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "NO": {
+   "currency_code": "NOK",
+   "currency_en": "Norwegian krone",
+   "currency_zh": "挪威克朗",
+   "currency_symbol": "kr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+47",
+   "languages": [
+    "Norwegian Bokmål",
+    "Norwegian Nynorsk",
+    "Sami"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "NP": {
+   "currency_code": "NPR",
+   "currency_en": "Nepalese rupee",
+   "currency_zh": "Nepalese rupee",
+   "currency_symbol": "₨",
+   "timezone_main": "UTC+05:45",
+   "drives_side": "left",
+   "idd_prefix": "+977",
+   "languages": [
+    "Nepali"
+   ],
+   "plug_types": "C,D,M",
+   "voltage": "230V/50Hz"
+  },
+  "NR": {
+   "currency_code": "AUD",
+   "currency_en": "Australian dollar",
+   "currency_zh": "澳大利亚元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+674",
+   "languages": [
+    "English",
+    "Nauru"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "NZ": {
+   "currency_code": "NZD",
+   "currency_en": "New Zealand dollar",
+   "currency_zh": "新西兰元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+12:00",
+   "drives_side": "left",
+   "idd_prefix": "+64",
+   "languages": [
+    "English",
+    "Māori",
+    "New Zealand Sign Language"
+   ],
+   "plug_types": "I",
+   "voltage": "230V/50Hz"
+  },
+  "OM": {
+   "currency_code": "OMR",
+   "currency_en": "Omani rial",
+   "currency_zh": "Omani rial",
+   "currency_symbol": "ر.ع.",
+   "timezone_main": "UTC+04:00",
+   "drives_side": "",
+   "idd_prefix": "+968",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,G",
+   "voltage": "240V/50Hz"
+  },
+  "PK": {
+   "currency_code": "PKR",
+   "currency_en": "Pakistani rupee",
+   "currency_zh": "Pakistani rupee",
+   "currency_symbol": "₨",
+   "timezone_main": "UTC+05:00",
+   "drives_side": "left",
+   "idd_prefix": "+92",
+   "languages": [
+    "English",
+    "Urdu"
+   ],
+   "plug_types": "C,D,G",
+   "voltage": "230V/50Hz"
+  },
+  "PA": {
+   "currency_code": "PAB",
+   "currency_en": "Panamanian balboa",
+   "currency_zh": "Panamanian balboa",
+   "currency_symbol": "B/.",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "",
+   "idd_prefix": "+507",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "PN": {
+   "currency_code": "NZD",
+   "currency_en": "New Zealand dollar",
+   "currency_zh": "新西兰元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+64",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "PE": {
+   "currency_code": "PEN",
+   "currency_en": "Peruvian sol",
+   "currency_zh": "索尔",
+   "currency_symbol": "S/.",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "",
+   "idd_prefix": "+51",
+   "languages": [
+    "Aymara",
+    "Quechua",
+    "Spanish"
+   ],
+   "plug_types": "A,C",
+   "voltage": "220V/60Hz"
+  },
+  "PH": {
+   "currency_code": "PHP",
+   "currency_en": "Philippine peso",
+   "currency_zh": "菲律宾比索",
+   "currency_symbol": "₱",
+   "timezone_main": "UTC+08:00",
+   "drives_side": "",
+   "idd_prefix": "+63",
+   "languages": [
+    "English",
+    "Filipino"
+   ],
+   "plug_types": "A,B,C",
+   "voltage": "220V/60Hz"
+  },
+  "PW": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+09:00",
+   "drives_side": "",
+   "idd_prefix": "+680",
+   "languages": [
+    "English",
+    "Palauan"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "PG": {
+   "currency_code": "PGK",
+   "currency_en": "Papua New Guinean kina",
+   "currency_zh": "Papua New Guinean kina",
+   "currency_symbol": "K",
+   "timezone_main": "UTC+10:00",
+   "drives_side": "left",
+   "idd_prefix": "+675",
+   "languages": [
+    "English",
+    "Hiri Motu",
+    "Tok Pisin"
+   ],
+   "plug_types": "I",
+   "voltage": "240V/50Hz"
+  },
+  "PL": {
+   "currency_code": "PLN",
+   "currency_en": "Polish złoty",
+   "currency_zh": "兹罗提",
+   "currency_symbol": "zł",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+48",
+   "languages": [
+    "Polish"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "PR": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1787",
+   "languages": [
+    "English",
+    "Spanish"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "KP": {
+   "currency_code": "KPW",
+   "currency_en": "North Korean won",
+   "currency_zh": "North Korean won",
+   "currency_symbol": "₩",
+   "timezone_main": "UTC+09:00",
+   "drives_side": "",
+   "idd_prefix": "+850",
+   "languages": [
+    "Korean"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "PT": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+351",
+   "languages": [
+    "Portuguese"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "PY": {
+   "currency_code": "PYG",
+   "currency_en": "Paraguayan guaraní",
+   "currency_zh": "Paraguayan guaraní",
+   "currency_symbol": "₲",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "",
+   "idd_prefix": "+595",
+   "languages": [
+    "Guaraní",
+    "Spanish"
+   ],
+   "plug_types": "C",
+   "voltage": "220V/50Hz"
+  },
+  "PS": {
+   "currency_code": "EGP",
+   "currency_en": "Egyptian pound",
+   "currency_zh": "埃及镑",
+   "currency_symbol": "E£",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+970",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,H",
+   "voltage": "230V/50Hz"
+  },
+  "PF": {
+   "currency_code": "XPF",
+   "currency_en": "CFP franc",
+   "currency_zh": "CFP franc",
+   "currency_symbol": "₣",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+689",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "QA": {
+   "currency_code": "QAR",
+   "currency_en": "Qatari riyal",
+   "currency_zh": "卡塔尔里亚尔",
+   "currency_symbol": "ر.ق",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+974",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "D,G",
+   "voltage": "240V/50Hz"
+  },
+  "RE": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+262",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "RO": {
+   "currency_code": "RON",
+   "currency_en": "Romanian leu",
+   "currency_zh": "列伊",
+   "currency_symbol": "lei",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+40",
+   "languages": [
+    "Romanian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "RU": {
+   "currency_code": "RUB",
+   "currency_en": "Russian ruble",
+   "currency_zh": "卢布",
+   "currency_symbol": "₽",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+73",
+   "languages": [
+    "Russian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "RW": {
+   "currency_code": "RWF",
+   "currency_en": "Rwandan franc",
+   "currency_zh": "Rwandan franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+250",
+   "languages": [
+    "English",
+    "French",
+    "Kinyarwanda"
+   ],
+   "plug_types": "C,J",
+   "voltage": "230V/50Hz"
+  },
+  "SA": {
+   "currency_code": "SAR",
+   "currency_en": "Saudi riyal",
+   "currency_zh": "沙特里亚尔",
+   "currency_symbol": "ر.س",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+966",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/60Hz"
+  },
+  "SD": {
+   "currency_code": "SDG",
+   "currency_en": "Sudanese pound",
+   "currency_zh": "Sudanese pound",
+   "currency_symbol": "PT",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+249",
+   "languages": [
+    "Arabic",
+    "English"
+   ],
+   "plug_types": "C,D",
+   "voltage": "230V/50Hz"
+  },
+  "SN": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+221",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "C,D,E,K",
+   "voltage": "230V/50Hz"
+  },
+  "SG": {
+   "currency_code": "SGD",
+   "currency_en": "Singapore dollar",
+   "currency_zh": "新加坡元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+08:00",
+   "drives_side": "left",
+   "idd_prefix": "+65",
+   "languages": [
+    "Chinese",
+    "English",
+    "Malay",
+    "Tamil"
+   ],
+   "plug_types": "G",
+   "voltage": "230V/50Hz"
+  },
+  "GS": {
+   "currency_code": "SHP",
+   "currency_en": "Saint Helena pound",
+   "currency_zh": "Saint Helena pound",
+   "currency_symbol": "£",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+500",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "SJ": {
+   "currency_code": "NOK",
+   "currency_en": "krone",
+   "currency_zh": "挪威克朗",
+   "currency_symbol": "kr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+4779",
+   "languages": [
+    "Norwegian"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "SB": {
+   "currency_code": "SBD",
+   "currency_en": "Solomon Islands dollar",
+   "currency_zh": "Solomon Islands dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC+11:00",
+   "drives_side": "left",
+   "idd_prefix": "+677",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "I,G",
+   "voltage": "230V/50Hz"
+  },
+  "SL": {
+   "currency_code": "SLE",
+   "currency_en": "Sierra Leonean leone",
+   "currency_zh": "Sierra Leonean leone",
+   "currency_symbol": "Le",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "right",
+   "idd_prefix": "+232",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  },
+  "SV": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-06:00",
+   "drives_side": "",
+   "idd_prefix": "+503",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "SM": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+378",
+   "languages": [
+    "Italian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "SO": {
+   "currency_code": "SOS",
+   "currency_en": "Somali shilling",
+   "currency_zh": "Somali shilling",
+   "currency_symbol": "Sh",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+252",
+   "languages": [
+    "Arabic",
+    "Somali"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "PM": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+508",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "RS": {
+   "currency_code": "RSD",
+   "currency_en": "Serbian dinar",
+   "currency_zh": "Serbian dinar",
+   "currency_symbol": "дин.",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+381",
+   "languages": [
+    "Serbian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "SS": {
+   "currency_code": "SSP",
+   "currency_en": "South Sudanese pound",
+   "currency_zh": "South Sudanese pound",
+   "currency_symbol": "£",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+211",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "C,D",
+   "voltage": "230V/50Hz"
+  },
+  "ST": {
+   "currency_code": "STN",
+   "currency_en": "São Tomé and Príncipe dobra",
+   "currency_zh": "São Tomé and Príncipe dobra",
+   "currency_symbol": "Db",
+   "timezone_main": "UTC+00:00",
+   "drives_side": "",
+   "idd_prefix": "+239",
+   "languages": [
+    "Portuguese"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "SR": {
+   "currency_code": "SRD",
+   "currency_en": "Surinamese dollar",
+   "currency_zh": "Surinamese dollar",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-03:00",
+   "drives_side": "left",
+   "idd_prefix": "+597",
+   "languages": [
+    "Dutch"
+   ],
+   "plug_types": "A,C,F",
+   "voltage": "127/220V/60Hz"
+  },
+  "SK": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+421",
+   "languages": [
+    "Slovak"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "SI": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+386",
+   "languages": [
+    "Slovene"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "SE": {
+   "currency_code": "SEK",
+   "currency_en": "Swedish krona",
+   "currency_zh": "瑞典克朗",
+   "currency_symbol": "kr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+46",
+   "languages": [
+    "Swedish"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "SZ": {
+   "currency_code": "SZL",
+   "currency_en": "Swazi lilangeni",
+   "currency_zh": "Swazi lilangeni",
+   "currency_symbol": "L",
+   "timezone_main": "",
+   "drives_side": "left",
+   "idd_prefix": "+268",
+   "languages": [
+    "English",
+    "Swazi"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "SX": {
+   "currency_code": "XCG",
+   "currency_en": "Caribbean guilder",
+   "currency_zh": "Caribbean guilder",
+   "currency_symbol": "Cg",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1721",
+   "languages": [
+    "Dutch",
+    "English",
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "SC": {
+   "currency_code": "SCR",
+   "currency_en": "Seychellois rupee",
+   "currency_zh": "Seychellois rupee",
+   "currency_symbol": "₨",
+   "timezone_main": "UTC+04:00",
+   "drives_side": "left",
+   "idd_prefix": "+248",
+   "languages": [
+    "English",
+    "French",
+    "Seychellois Creole"
+   ],
+   "plug_types": "G",
+   "voltage": "240V/50Hz"
+  },
+  "SY": {
+   "currency_code": "SYP",
+   "currency_en": "Syrian pound",
+   "currency_zh": "Syrian pound",
+   "currency_symbol": "£",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+963",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "TC": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1649",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TD": {
+   "currency_code": "XAF",
+   "currency_en": "Central African CFA franc",
+   "currency_zh": "Central African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+235",
+   "languages": [
+    "Arabic",
+    "French"
+   ],
+   "plug_types": "C,E",
+   "voltage": "220V/50Hz"
+  },
+  "TG": {
+   "currency_code": "XOF",
+   "currency_en": "West African CFA franc",
+   "currency_zh": "West African CFA franc",
+   "currency_symbol": "Fr",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+228",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TH": {
+   "currency_code": "THB",
+   "currency_en": "Thai baht",
+   "currency_zh": "泰铢",
+   "currency_symbol": "฿",
+   "timezone_main": "UTC+07:00",
+   "drives_side": "left",
+   "idd_prefix": "+66",
+   "languages": [
+    "Thai"
+   ],
+   "plug_types": "A,B,C",
+   "voltage": "220V/50Hz"
+  },
+  "TJ": {
+   "currency_code": "TJS",
+   "currency_en": "Tajikistani somoni",
+   "currency_zh": "Tajikistani somoni",
+   "currency_symbol": "ЅМ",
+   "timezone_main": "UTC+05:00",
+   "drives_side": "",
+   "idd_prefix": "+992",
+   "languages": [
+    "Russian",
+    "Tajik"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "TK": {
+   "currency_code": "NZD",
+   "currency_en": "New Zealand dollar",
+   "currency_zh": "新西兰元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+690",
+   "languages": [
+    "English",
+    "Samoan",
+    "Tokelauan"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TM": {
+   "currency_code": "TMT",
+   "currency_en": "Turkmenistan manat",
+   "currency_zh": "Turkmenistan manat",
+   "currency_symbol": "m",
+   "timezone_main": "UTC+05:00",
+   "drives_side": "",
+   "idd_prefix": "+993",
+   "languages": [
+    "Russian",
+    "Turkmen"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "TL": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+670",
+   "languages": [
+    "Portuguese",
+    "Tetum"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TO": {
+   "currency_code": "TOP",
+   "currency_en": "Tongan paʻanga",
+   "currency_zh": "Tongan paʻanga",
+   "currency_symbol": "T$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+676",
+   "languages": [
+    "English",
+    "Tongan"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TT": {
+   "currency_code": "TTD",
+   "currency_en": "Trinidad and Tobago dollar",
+   "currency_zh": "Trinidad and Tobago dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1868",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TN": {
+   "currency_code": "TND",
+   "currency_en": "Tunisian dinar",
+   "currency_zh": "Tunisian dinar",
+   "currency_symbol": "د.ت",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "",
+   "idd_prefix": "+216",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "C,E",
+   "voltage": "230V/50Hz"
+  },
+  "TR": {
+   "currency_code": "TRY",
+   "currency_en": "Turkish lira",
+   "currency_zh": "土耳其里拉",
+   "currency_symbol": "₺",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+90",
+   "languages": [
+    "Turkish"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "TV": {
+   "currency_code": "AUD",
+   "currency_en": "Australian dollar",
+   "currency_zh": "澳大利亚元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+688",
+   "languages": [
+    "English",
+    "Tuvaluan"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TW": {
+   "currency_code": "TWD",
+   "currency_en": "New Taiwan dollar",
+   "currency_zh": "New Taiwan dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+886",
+   "languages": [
+    "Chinese"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "TZ": {
+   "currency_code": "TZS",
+   "currency_en": "Tanzanian shilling",
+   "currency_zh": "Tanzanian shilling",
+   "currency_symbol": "Sh",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "left",
+   "idd_prefix": "+255",
+   "languages": [
+    "English",
+    "Swahili"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  },
+  "UG": {
+   "currency_code": "UGX",
+   "currency_en": "Ugandan shilling",
+   "currency_zh": "Ugandan shilling",
+   "currency_symbol": "Sh",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "left",
+   "idd_prefix": "+256",
+   "languages": [
+    "English",
+    "Swahili"
+   ],
+   "plug_types": "G",
+   "voltage": "240V/50Hz"
+  },
+  "UA": {
+   "currency_code": "UAH",
+   "currency_en": "Ukrainian hryvnia",
+   "currency_zh": "Ukrainian hryvnia",
+   "currency_symbol": "₴",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "",
+   "idd_prefix": "+380",
+   "languages": [
+    "Ukrainian"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "UM": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+268",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "UY": {
+   "currency_code": "UYU",
+   "currency_en": "Uruguayan peso",
+   "currency_zh": "Uruguayan peso",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-03:00",
+   "drives_side": "",
+   "idd_prefix": "+598",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "US": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "UTC-05:00",
+   "drives_side": "right",
+   "idd_prefix": "+1201",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "UZ": {
+   "currency_code": "UZS",
+   "currency_en": "Uzbekistani soʻm",
+   "currency_zh": "Uzbekistani soʻm",
+   "currency_symbol": "so'm",
+   "timezone_main": "UTC+05:00",
+   "drives_side": "",
+   "idd_prefix": "+998",
+   "languages": [
+    "Russian",
+    "Uzbek"
+   ],
+   "plug_types": "C,F",
+   "voltage": "220V/50Hz"
+  },
+  "VA": {
+   "currency_code": "EUR",
+   "currency_en": "Euro",
+   "currency_zh": "欧元",
+   "currency_symbol": "€",
+   "timezone_main": "UTC+01:00",
+   "drives_side": "right",
+   "idd_prefix": "+3906698",
+   "languages": [
+    "Italian",
+    "Latin"
+   ],
+   "plug_types": "C,F",
+   "voltage": "230V/50Hz"
+  },
+  "VC": {
+   "currency_code": "XCD",
+   "currency_en": "Eastern Caribbean dollar",
+   "currency_zh": "Eastern Caribbean dollar",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1784",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "VE": {
+   "currency_code": "VES",
+   "currency_en": "Venezuelan bolívar soberano",
+   "currency_zh": "Venezuelan bolívar soberano",
+   "currency_symbol": "Bs.S.",
+   "timezone_main": "UTC-04:00",
+   "drives_side": "",
+   "idd_prefix": "+58",
+   "languages": [
+    "Spanish"
+   ],
+   "plug_types": "A,B",
+   "voltage": "120V/60Hz"
+  },
+  "VG": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1284",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "VI": {
+   "currency_code": "USD",
+   "currency_en": "United States dollar",
+   "currency_zh": "美元",
+   "currency_symbol": "$",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+1340",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "VN": {
+   "currency_code": "VND",
+   "currency_en": "Vietnamese đồng",
+   "currency_zh": "越南盾",
+   "currency_symbol": "₫",
+   "timezone_main": "UTC+07:00",
+   "drives_side": "",
+   "idd_prefix": "+84",
+   "languages": [
+    "Vietnamese"
+   ],
+   "plug_types": "A,C",
+   "voltage": "220V/50Hz"
+  },
+  "VU": {
+   "currency_code": "VUV",
+   "currency_en": "Vanuatu vatu",
+   "currency_zh": "Vanuatu vatu",
+   "currency_symbol": "Vt",
+   "timezone_main": "UTC+11:00",
+   "drives_side": "left",
+   "idd_prefix": "+678",
+   "languages": [
+    "Bislama",
+    "English",
+    "French"
+   ],
+   "plug_types": "I",
+   "voltage": "230V/50Hz"
+  },
+  "WF": {
+   "currency_code": "XPF",
+   "currency_en": "CFP franc",
+   "currency_zh": "CFP franc",
+   "currency_symbol": "₣",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+681",
+   "languages": [
+    "French"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "WS": {
+   "currency_code": "WST",
+   "currency_en": "Samoan tālā",
+   "currency_zh": "Samoan tālā",
+   "currency_symbol": "T",
+   "timezone_main": "",
+   "drives_side": "",
+   "idd_prefix": "+685",
+   "languages": [
+    "English",
+    "Samoan"
+   ],
+   "plug_types": "",
+   "voltage": ""
+  },
+  "YE": {
+   "currency_code": "YER",
+   "currency_en": "Yemeni rial",
+   "currency_zh": "Yemeni rial",
+   "currency_symbol": "﷼",
+   "timezone_main": "UTC+03:00",
+   "drives_side": "",
+   "idd_prefix": "+967",
+   "languages": [
+    "Arabic"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  },
+  "ZA": {
+   "currency_code": "ZAR",
+   "currency_en": "South African rand",
+   "currency_zh": "兰特",
+   "currency_symbol": "R",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+27",
+   "languages": [
+    "Afrikaans",
+    "English",
+    "Northern Sotho",
+    "Southern Ndebele",
+    "Southern Sotho",
+    "Swazi",
+    "Tsonga",
+    "Tswana",
+    "Venda",
+    "Xhosa",
+    "Zulu"
+   ],
+   "plug_types": "M,N",
+   "voltage": "230V/50Hz"
+  },
+  "ZM": {
+   "currency_code": "ZMW",
+   "currency_en": "Zambian kwacha",
+   "currency_zh": "Zambian kwacha",
+   "currency_symbol": "ZK",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+260",
+   "languages": [
+    "English"
+   ],
+   "plug_types": "C,D,G",
+   "voltage": "230V/50Hz"
+  },
+  "ZW": {
+   "currency_code": "BWP",
+   "currency_en": "Botswana pula",
+   "currency_zh": "Botswana pula",
+   "currency_symbol": "P",
+   "timezone_main": "UTC+02:00",
+   "drives_side": "left",
+   "idd_prefix": "+263",
+   "languages": [
+    "Chewa",
+    "Chibarwe",
+    "English",
+    "Kalanga",
+    "Khoisan",
+    "Ndau",
+    "Northern Ndebele",
+    "Shona",
+    "Sotho",
+    "Tonga",
+    "Tsonga",
+    "Tswana",
+    "Venda",
+    "Xhosa",
+    "Zimbabwean Sign Language"
+   ],
+   "plug_types": "D,G",
+   "voltage": "230V/50Hz"
+  }
+ }
+}

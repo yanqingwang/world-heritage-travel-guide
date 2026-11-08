@@ -59,7 +59,7 @@
       sections: {
         intro: "简介", local: "本地语言介绍", transport: "交通", hotels: "附近酒店",
         visa: "签证（中国护照）", langs: "多语言信息", sources: "来源与图片署名",
-        foreign: "境外游客", ranking: "热度",
+        foreign: "境外游客", ranking: "热度", practical: "旅行实用信息",
       },
       labels: {
         airport: "机场", hsr: "高铁站", rail: "火车站", ferry: "码头",
@@ -74,6 +74,9 @@
         basicNote: "海外基本资料条目仍提供官方多语言介绍、机场与北京距离；酒店仅收录热门 300 条。",
         visaNote: "签证状态来自英文维基百科中国护照签证要求表，可能滞后；出行前请核实。",
         imageCredit: "图片",
+        currency: "货币", plugs: "插座", voltage: "电压", timezone: "时区",
+        drivesSide: "通行方向", drivesLeft: "靠左行驶", drivesRight: "靠右行驶",
+        idd: "国际区号", languages: "官方语言", practicalNote: "为该国主要城市的一般情况；偏远地区可能不同。",
       },
     },
     en: {
@@ -134,6 +137,7 @@
         intro: "Introduction", local: "In the local language", transport: "Transport",
         hotels: "Nearby hotels", visa: "Visa (Chinese passport)", langs: "Language availability",
         sources: "Sources & image credits", foreign: "International visitors", ranking: "Popularity",
+        practical: "Practical information",
       },
       labels: {
         airport: "Airport", hsr: "High-speed rail", rail: "Railway station", ferry: "Ferry terminal",
@@ -148,6 +152,9 @@
         basicNote: "Basic overseas records still include official multilingual text, airports and Beijing distance; hotels are only included for the top 300.",
         visaNote: "Visa status comes from Wikipedia's visa requirements table for Chinese passports and may lag. Verify before travelling.",
         imageCredit: "Image",
+        currency: "Currency", plugs: "Plugs", voltage: "Voltage", timezone: "Time zone",
+        drivesSide: "Traffic side", drivesLeft: "Drives on the left", drivesRight: "Drives on the right",
+        idd: "Intl. dialing", languages: "Official languages", practicalNote: "Typical of the country's main cities; remote areas may differ.",
       },
     },
   };
@@ -680,6 +687,36 @@
       body.push(sectionHTML(t().sections.foreign,
         `<p class="prose">${esc(state.lang === "zh" ? f.note_zh : f.note_en)}</p>` +
         `<p class="note">${state.lang === "zh" ? (f.status === "likely_open" ? t().labels.foreignOpen : t().labels.foreignUnknown) : (f.status === "likely_open" ? t().labels.foreignOpen : t().labels.foreignUnknown)}</p>`));
+    }
+
+    const ci = site.country_info;
+    if (ci && (ci.currency_code || ci.timezone_main)) {
+      const zh = state.lang === "zh";
+      const rows = [];
+      if (ci.currency_code) {
+        const cur = zh ? (ci.currency_zh || ci.currency_en || ci.currency_code) : (ci.currency_en || ci.currency_code);
+        rows.push([t().labels.currency, `${esc(cur)}${ci.currency_code ? " · " + esc(ci.currency_code) : ""}${ci.currency_symbol ? " · " + esc(ci.currency_symbol) : ""}`]);
+      }
+      if (ci.plug_types) {
+        const plugs = `${esc(ci.plug_types)}`;
+        rows.push([t().labels.plugs, `${plugs}${ci.voltage ? ` · ${esc(ci.voltage)}` : ""}`]);
+      } else if (ci.voltage) {
+        rows.push([t().labels.voltage, esc(ci.voltage)]);
+      }
+      if (ci.timezone_main) rows.push([t().labels.timezone, esc(ci.timezone_main)]);
+      if (ci.drives_side) {
+        rows.push([t().labels.drivesSide, ci.drives_side === "left" ? t().labels.drivesLeft : t().labels.drivesRight]);
+      }
+      if (ci.idd_prefix) rows.push([t().labels.idd, esc(String(ci.idd_prefix).startsWith("+") ? ci.idd_prefix : "+" + ci.idd_prefix)]);
+      if ((ci.languages || []).length) {
+        rows.push([t().labels.languages, esc(ci.languages.join(", ").toUpperCase())]);
+      }
+      if (rows.length) {
+        body.push(sectionHTML(t().sections.practical,
+          `<dl class="practical">${rows.map(([k, v]) =>
+            `<div class="practical-row"><dt>${esc(k)}</dt><dd>${v}</dd></div>`).join("")}</dl>` +
+          `<p class="note">${t().labels.practicalNote}</p>`));
+      }
     }
 
     const hotels = site.hotels || [];

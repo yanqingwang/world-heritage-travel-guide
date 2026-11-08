@@ -258,14 +258,30 @@ def save_translations() -> None:
 # ---------------------------------------------------------------------------
 # Wikipedia
 # ---------------------------------------------------------------------------
+# On this network python-requests stalls against Wikimedia TLS endpoints while
+# curl succeeds (fingerprint/HTTP2 issue).  curl_curl() is a subprocess-based
+# GET used as the transport for the Wikimedia REST gateway below.
+def curl_json(url: str, *, timeout: int = 25, params: dict | None = None) -> Any:
+    import subprocess
+    if params:
+        url = f"{url}?{urllib.parse.urlencode(params)}"
+    try:
+        out = subprocess.run(["curl", "-sSL", "--max-time", str(timeout), url],
+                             capture_output=True, text=True, timeout=timeout + 10)
+        if out.returncode != 0 or not out.stdout:
+            return None
+        return json.loads(out.stdout)
+    except Exception:
+        return None
+
+
 def wiki_api(lang: str, params: dict, *, timeout: int = 30) -> Any:
     params = {"format": "json", "formatversion": 2, **params}
-    return get_json(f"https://{lang}.wikipedia.org/w/api.php", params=params, timeout=timeout, retries=5)
-
-
-def wiki_search(lang: str, query: str, limit: int = 5) -> list[dict]:
-    data = wiki_api(lang, {"action": "query", "list": "search", "srsearch": query, "srlimit": limit})
-    return ((data or {}).get("query") or {}).get("search", []) or []
+    # python-requests stalls against Wikipedia TLS on this network, and many
+    # residential routes drop *.wikipedia.org entirely; api.wikimedia.org is
+    # the reliably reachable gateway.  Only calls the REST gateway cannot
+    # express (full action queries) fall through to the action API.
+    return get_json(f"https://{lang}.wikipedia.org/w/api.php", params=params, timeout=timeout, retries=3)
 
 
 def wiki_page(lang: str, title: str, props: str = "extracts|pageprops|langlinks|pageimages",
@@ -286,6 +302,16 @@ def wiki_page(lang: str, title: str, props: str = "extracts|pageprops|langlinks|
     return None
 
 
+def wiki_summary(lang: str, title: str) -> dict | None:
+    """REST summary via api.wikimedia.org: {title, extract, thumbnail, ...}."""
+    key = urllib.parse.quote(title.replace(" ", "_"), safe="")
+    data = curl_json(f"https://api.wikimedia.org/core/v1/wikipedia/{lang}/page/{key}/summary",
+                     timeout=25)
+    if not data or not data.get("title"):
+        return None
+    return data
+
+
 def wiki_langlinks(lang: str, title: str) -> dict[str, str]:
     page = wiki_page(lang, title, props="langlinks")
     if not page:
@@ -296,9 +322,24 @@ def wiki_langlinks(lang: str, title: str) -> dict[str, str]:
     return out
 
 
-# ---------------------------------------------------------------------------
-# Wikimedia Commons
-# ---------------------------------------------------------------------------
+def wiki_search(lang: str, query: str, limit: int = 5) -> list[dict]:
+    # The REST gateway first when the action API is known to be unreachable
+    # (WIKI_REST_FIRST=1): saves a stalled 5-30 s attempt per query on networks
+    # that drop *.wikipedia.org.
+    if os.environ.get("WIKI_REST_FIRST") == "1":
+        rest = curl_json(f"https://api.wikimedia.org/core/v1/wikipedia/{lang}/search/page",
+                         timeout=25, params={"q": query, "limit": limit})
+        pages = ((rest or {}).get("pages") or [])
+        if pages:
+            return [{"title": p.get("title"), "key": p.get("key")} for p in pages]
+    data = wiki_api(lang, {"action": "query", "list": "search", "srsearch": query, "srlimit": limit})
+    hits = ((data or {}).get("query") or {}).get("search", [])
+    if hits:
+        return hits
+    rest = curl_json(f"https://api.wikimedia.org/core/v1/wikipedia/{lang}/search/page",
+                     timeout=25, params={"q": query, "limit": limit})
+    return [{"title": p.get("title"), "key": p.get("key")}
+            for p in ((rest or {}).get("pages") or [])]
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 
 

@@ -213,6 +213,7 @@ def main() -> int:
     countries = load_json(RAW / "countries.json", {}) or {}
     geocode = load_json(RAW / "unesco_geocode.json", {}) or {}
     subdivisions = (load_json(RAW / "unesco_subdivisions.json", {}) or {}).get("items", {})
+    country_info = (load_json(RAW / "country_info.json", {}) or {}).get("items", {})
     previous = {s["id"]: s for s in (load_json(DATA / "world.json", {}) or {}).get("sites", [])}
     sites = unesco.get("sites", [])
 
@@ -415,6 +416,7 @@ def main() -> int:
             "visa": visas[0] if visas else {"status": "unknown"},
             "visa_by_country": visas,
             "visa_summary": visa_summary,
+            "country_info": country_info.get(primary.upper()) or None,
             "info_languages": info_languages,
             "sources": [
                 {"name": "UNESCO World Heritage Centre", "url": site.get("http_url", "")},

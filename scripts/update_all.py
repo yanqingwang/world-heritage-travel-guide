@@ -53,6 +53,7 @@ def main() -> int:
     run("fetch_unesco.py")
     run("fetch_countries.py")
     run("fetch_country_names.py")
+    run("fetch_country_info.py")
     run("fetch_visa.py")
     run("fetch_airports.py")
     run("fetch_wikidata.py")

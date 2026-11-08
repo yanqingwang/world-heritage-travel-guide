@@ -14,13 +14,14 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 
 | 数据集 | 条目 | 内容 |
 |---|---:|---|
-| 中国 5A 景区 | 359 | 名称、省市、详细地址、坐标、特色分类、中英文简介、最多 5 张图片、最近高铁站/机场、30 km 内星级/连锁酒店（最多 5 家）、中英日韩信息可得性、境外游客提示 |
-| 海外 UNESCO 世界遗产 | 1,213 | 官方中/英/法/西/俄/阿文本、所在国官方语言版本、入选年份/标准、机场与距北京直线距离、签证（中国护照）、多语言信息可得性 |
+| 中国 5A 景区 | 359 | 名称、省市、详细地址、坐标、特色分类、中英文简介、最多 5 张图片、最近高铁站/机场、30 km 内星级/连锁酒店（最多 5 家）、中英日韩信息可得性、境外游客提示、旅行实用信息 |
+| 海外 UNESCO 世界遗产 | 1,213 | 官方中/英/法/西/俄/阿文本、所在国官方语言版本、入选年份/标准、机场与距北京直线距离、签证（中国护照）、多语言信息可得性、旅行实用信息（货币/插座/时区/通行方向/区号/官方语言） |
 | 海外「完整资料」条目 | 300 | 在上一行基础上增加 50 km 内酒店、码头/火车站、最多 5 张图片与热度排名 |
 
 ### 主要特点
 
 - **中英双语界面**，详情内可直接查看所在国官方语言（日语、韩语、法语、西班牙语、德语、意大利语等，取决于是否有官方/维基文本）。
+- **旅行实用信息**：每个目的地详情页展示所在国货币、插座/电压、时区、通行方向、国际区号与官方语言（数据来自 mledoze/countries + IEC 插座表）。
 - **统一的国家 → 省 / 州两级筛选**：两套数据都先选国家，再按 ISO 3166-2 选省/州；中国固定为「中国 → 省份」，海外按所在国的一级行政区。
 - **个人标记与足迹地球**：每个条目可标「去过 / 赞过 / 不好」，保存在浏览器 localStorage；「去过」会点亮地球上的中国省份或海外国家，支持拖动旋转、滚轮缩放与点击地区筛选。
 - 按类型、签证状态、资料等级筛选，支持名称/城市/国家搜索，并可「只看去过的」。
@@ -123,13 +124,14 @@ python -m http.server 8000 --directory site
 
 | Dataset | Records | Fields |
 |---|---:|---|
-| China 5A scenic areas | 359 | Names, province/city, address, coordinates, category, Chinese/English intros, up to 5 images, nearest high-speed rail station/airport, up to 5 star/chain hotels within 30 km, zh/en/ja/ko information availability, international-visitor note |
-| Overseas UNESCO sites | 1,213 | Official UNESCO text in zh/en/fr/es/ru/ar, the country's official language where available, inscription year/criteria, airports and great-circle distance from Beijing, visa rules for Chinese passports, language availability |
+| China 5A scenic areas | 359 | Names, province/city, address, coordinates, category, Chinese/English intros, up to 5 images, nearest high-speed rail station/airport, up to 5 star/chain hotels within 30 km, zh/en/ja/ko information availability, international-visitor note, practical travel info |
+| Overseas UNESCO sites | 1,213 | Official UNESCO text in zh/en/fr/es/ru/ar, the country's official language where available, inscription year/criteria, airports and great-circle distance from Beijing, visa rules for Chinese passports, language availability, practical travel info (currency/plugs/timezone/traffic side/IDD/official languages) |
 | Overseas "full" records | 300 | Adds hotels within 50 km, ferry terminals/railway stations, up to 5 images and a popularity rank |
 
 ### Highlights
 
 - **Bilingual UI** (Chinese/English) with a third block in the destination's official language when an official UNESCO or Wikipedia edition exists.
+- **Practical travel info**: every destination detail page shows the country's currency, plug types/voltage, time zone, traffic side, international dialing prefix and official languages (from mledoze/countries + curated IEC plug tables).
 - **One country → province/state cascade** for both datasets: country first, then an ISO 3166-2 first-level subdivision. China is fixed to "China → province"; overseas records use the destination country's subdivision.
 - **Personal marks and a footprint globe**: mark each destination "Visited / Liked / Not for me" (saved in browser localStorage). Visited marks light up Chinese provinces or overseas countries on a draggable, zoomable, spinning globe; click a region to filter.
 - Filters by category, visa status, record tier and "visited only", plus free-text search.

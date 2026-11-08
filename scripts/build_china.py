@@ -223,6 +223,7 @@ def main() -> int:
     sites = official.get("sites", [])
     wiki = (load_json(RAW / "china_wiki.json", {}) or {}).get("items", {})
     website_langs = load_json(RAW / "website_langs.json", {}) or {}
+    country_info = (load_json(RAW / "country_info.json", {}) or {}).get("items", {})
     previous = {s["id"]: s for s in (load_json(DATA / "china.json", {}) or {}).get("sites", [])}
 
     # Machine-translate the official intro and address once per unique string.
@@ -318,6 +319,7 @@ def main() -> int:
             "hotels": (osm.get("hotels") or prev_site.get("hotels") or [])[:5],
             "hotels_nearby_30km": osm.get("hotels_nearby_30km", prev_site.get("hotels_nearby_30km", 0)),
             "info_languages": langs,
+            "country_info": country_info.get("CN"),
             "foreign_visitors": {
                 "status": "likely_open" if likely_open else "unknown",
                 "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",

@@ -20,9 +20,9 @@ import urllib.parse
 from collections import defaultdict
 
 from common import (
-    CACHE, COMMONS_API, DATA, RAW, commons_file, commons_search, get_json,
-    load_json, now_iso, pinyin_slug, save_json, strip_html, translate,
-    wiki_api, wiki_page, wiki_search,
+    CACHE, COMMONS_API, DATA, RAW, commons_file, commons_search, curl_json,
+    get_json, load_json, now_iso, pinyin_slug, save_json, strip_html,
+    translate, wiki_api, wiki_page, wiki_search, wiki_summary,
 )
 
 WIKI_CACHE = CACHE / "wiki"
@@ -46,11 +46,24 @@ def similarity(query: str, title: str) -> float:
         return 1.0
     if q in t or t in q:
         return 0.9
+    # Scenic-area names carry qualifiers the article title drops ("齐齐哈尔市
+    # 扎龙生态" vs "黑龙江扎龙国家级自然保护区").  Fall back to the longest
+    # common contiguous CJK run so a distinctive core ("扎龙") still matches.
+    best = 0
+    for i in range(len(q)):
+        for j in range(len(t)):
+            if q[i] == t[j]:
+                k = 0
+                while i + k < len(q) and j + k < len(t) and q[i + k] == t[j + k]:
+                    k += 1
+                best = max(best, k)
+    # A distinctive >=2-char CJK run ("扎龙", "双龙") outweighs fuzzy overlap:
+    # score it relative to the *shorter* side so long titles don't dilute it.
+    core = best / max(min(len(q), len(t), 4), 1) if best >= 2 else 0.0
     qs = {q[i:i + 2] for i in range(len(q) - 1)}
     ts = {t[i:i + 2] for i in range(len(t) - 1)}
-    if not qs or not ts:
-        return 0.0
-    return len(qs & ts) / len(qs | ts)
+    jaccard = len(qs & ts) / len(qs | ts) if qs and ts else 0.0
+    return max(jaccard, core * 0.85 if best >= 2 else 0.0)
 
 
 def is_generic_place(title: str) -> bool:
@@ -74,6 +87,50 @@ def geosearch_titles(lat: float, lon: float) -> list[str]:
     return [x["title"] for x in ((data or {}).get("query") or {}).get("geosearch", []) or []]
 
 
+def zh_page_via_rest(title: str) -> dict | None:
+    """zh Wikipedia page facts via the api.wikimedia.org REST gateway.
+
+    The action API (*.wikipedia.org) is unreachable from some networks this
+    runs on; REST gives us the qid (through the page HTML? no — through the
+    /bare endpoint), langlinks and thumbnail — everything enrich needs.
+    """
+    key = urllib.parse.quote(title.replace(" ", "_"), safe="")
+    bare = curl_json(f"https://api.wikimedia.org/core/v1/wikipedia/zh/page/{key}/bare", timeout=25)
+    if not bare or bare.get("key") is None:
+        return None
+    langs: dict[str, str] = {}
+    ll = curl_json(f"https://api.wikimedia.org/core/v1/wikipedia/zh/page/{key}/links/language",
+                   timeout=25) or []
+    for item in ll:
+        code = item.get("lang")
+        if code:
+            langs[code] = item.get("title") or ""
+    qid = None
+    # /bare does not carry the wikidata id; pull it from the entity lookup API,
+    # which is hosted on wikidata.org and usually reachable when REST is.
+    wb = get_json("https://www.wikidata.org/w/api.php", params={
+        "action": "wbgetentities", "sites": "zhwiki", "titles": title,
+        "props": "info", "format": "json", "formatversion": 2,
+    }, timeout=20, retries=1)
+    try:
+        qid = next(iter((wb or {}).get("entities", {})), None)
+    except Exception:
+        qid = None
+    thumbnail = None
+    summ = curl_json(f"https://api.wikimedia.org/core/v1/wikipedia/zh/page/{key}/summary",
+                     timeout=25) or {}
+    thumb = ((summ or {}).get("thumbnail") or {}).get("source")
+    if thumb:
+        thumbnail = {"source": thumb}
+    return {
+        "title": bare.get("title") or title,
+        "pageprops": {"wikibase_item": qid} if qid else {},
+        "langlinks": [{"lang": k, "*": v} for k, v in langs.items()],
+        "thumbnail": thumbnail,
+        "original": thumbnail,
+    }
+
+
 def china_site(site: dict) -> dict:
     cached = load_json(cache_path(f"cn_{site['id']}.json"))
     if cached:
@@ -84,10 +141,23 @@ def china_site(site: dict) -> dict:
     hits = [h["title"] for h in wiki_search("zh", query, 6)] or []
     title = choose_zh_title(site, hits)
     if not title or similarity(query, title) < 0.55:
+        # Strip the administrative prefix ("甘南州", "黄冈市" …): the article is
+        # usually titled with the feature alone, and REST search ranks the
+        # full unprefixed name lower.
+        stripped = re.sub(r"^[一-鿿]{1,3}(市|州|县|区|盟)", "", query)
+        if stripped != query:
+            more = [h["title"] for h in wiki_search("zh", stripped, 6)]
+            title = choose_zh_title(site, hits + more) or title
+    if not title or similarity(query, title) < 0.55:
         geo = geosearch_titles(site["lat"], site["lon"])
         title = choose_zh_title(site, geo) or title
 
-    page = wiki_page("zh", title, props="pageprops|langlinks|pageimages", intro=False) if title else None
+    page = None
+    if title:
+        # REST gateway first: reliable where the action API is blocked.
+        page = zh_page_via_rest(title)
+        if page is None:
+            page = wiki_page("zh", title, props="pageprops|langlinks|pageimages", intro=False)
     if not page:
         result = {"matched": False, "zh_title": None, "en_title": None, "langs": [],
                   "wikidata_id": None, "intro_en": None, "en_source": None, "images": []}
@@ -98,6 +168,10 @@ def china_site(site: dict) -> dict:
     en_title = langs.get("en")
     en_page = wiki_page("en", en_title, props="extracts|pageimages") if en_title else None
     intro_en = strip_html(en_page.get("extract", "")) if en_page else None
+    if not intro_en and en_title:
+        # en Wikipedia action API may also be blocked; REST summary fallback.
+        summ = wiki_summary("en", en_title)
+        intro_en = strip_html((summ or {}).get("extract", "")) or None
     images = []
     qid = page.get("pageprops", {}).get("wikibase_item")
     if qid:
