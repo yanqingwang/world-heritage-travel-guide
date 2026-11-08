@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_398.jpg",
-   "title": "Castel del Monte",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/398",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Locationcastledelmonte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Locationcastledelmonte.JPG",
+   "author": "Finblanco",
+   "license": "Public domain",
+   "credit": "http://zh.wikipedia.org/wiki/File:Locationcastledelmonte.JPG",
+   "source": "https://commons.wikimedia.org/wiki/File:Locationcastledelmonte.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_01.jpg/1280px-%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Das Castel wurde 1240 bis um 1250 erbaut\" 01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_02.jpg/1280px-%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Das Castel wurde 1240 bis um 1250 erbaut\" 02.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_03.jpg/1280px-%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Das Castel wurde 1240 bis um 1250 erbaut\" 03.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_03.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/398",
@@ -97,10 +121,140 @@
   ],
   "nearest_airport_km": 41.5,
   "distance_beijing_km": 7896.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Porto di Trani",
+    "name_en": null,
+    "lat": 41.2835706,
+    "lon": 16.4234827,
+    "distance_km": 25.5,
+    "operator": null
+   },
+   {
+    "name": "Porto di Barletta",
+    "name_en": null,
+    "lat": 41.3282381,
+    "lon": 16.2867565,
+    "distance_km": 27.1,
+    "operator": "Autorità Portuale del Levante"
+   },
+   {
+    "name": "Porto di Molfetta",
+    "name_en": null,
+    "lat": 41.2097061,
+    "lon": 16.5887073,
+    "distance_km": 30.0,
+    "operator": null
+   },
+   {
+    "name": "Lega Navale Bari",
+    "name_en": null,
+    "lat": 41.1305891,
+    "lon": 16.8615468,
+    "distance_km": 49.7,
+    "operator": "Lega Navale Italiana"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Corato Centrale",
+    "name_en": null,
+    "lat": 41.1567303,
+    "lon": 16.4176874,
+    "distance_km": 14.7,
+    "operator": "Ferrotramviaria"
+   },
+   {
+    "name": "Andria Sud",
+    "name_en": null,
+    "lat": 41.2246958,
+    "lon": 16.3145632,
+    "distance_km": 16.0,
+    "operator": "Ferrotramviaria"
+   },
+   {
+    "name": "Minervino Murge",
+    "name_en": null,
+    "lat": 41.0818124,
+    "lon": 16.0750205,
+    "distance_km": 16.4,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Andria Centrale",
+    "name_en": null,
+    "lat": 41.2323259,
+    "lon": 16.3014856,
+    "distance_km": 16.6,
+    "operator": "Ferrotramviaria"
+   },
+   {
+    "name": "Poggiorsini",
+    "name_en": null,
+    "lat": 40.9351965,
+    "lon": 16.2669345,
+    "distance_km": 16.6,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "San Paolo al Convento",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.279025,
+   "lon": 16.4228088,
+   "distance_km": 25.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Nicotel Wellnes",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.1405924,
+   "lon": 16.4151145,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Villa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.2505944,
+   "lon": 16.4756442,
+   "distance_km": 25.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Salsello",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.249244,
+   "lon": 16.4911318,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Palazzo Bonomi",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.2406325,
+   "lon": 16.5049169,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -158,5 +312,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:25Z"
 }

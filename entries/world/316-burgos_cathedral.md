@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(ii)(iv)(vi)"
 lat: 42.340805555
 lon: -3.704472222
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:45:07Z"
 ---
 
 # 布尔戈斯大教堂 / Burgos Cathedral
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *FP Burgos Cathedral 2026 - West Façade.jpg · see Wikimedia Commons file page*
 
-![Burgos Cathedral](https://whc.unesco.org/uploads/sites/site_316.jpg)
+![1918-03-02, La Esfera, España monumental.—Un aspecto de la maravillosa catedral de Burgos, Vadillo (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1918-03-02%2C_La_Esfera%2C_Espa%C3%B1a_monumental.%E2%80%94Un_aspecto_de_la_maravillosa_catedral_de_Burgos%2C_Vadillo_%28cropped%29.jpg/1280px-1918-03-02%2C_La_Esfera%2C_Espa%C3%B1a_monumental.%E2%80%94Un_aspecto_de_la_maravillosa_catedral_de_Burgos%2C_Vadillo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Burgos Cathedral · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1918-03-02, La Esfera, España monumental.—Un aspecto de la maravillosa catedral de Burgos, Vadillo (cropped).jpg · Alfonso Vadillo / Isidro Cámara · Public domain*
+
+![1918-03-02, La Esfera, España monumental.—Un aspecto de la maravillosa catedral de Burgos, Vadillo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/1918-03-02%2C_La_Esfera%2C_Espa%C3%B1a_monumental.%E2%80%94Un_aspecto_de_la_maravillosa_catedral_de_Burgos%2C_Vadillo.jpg/1280px-1918-03-02%2C_La_Esfera%2C_Espa%C3%B1a_monumental.%E2%80%94Un_aspecto_de_la_maravillosa_catedral_de_Burgos%2C_Vadillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1918-03-02, La Esfera, España monumental.—Un aspecto de la maravillosa catedral de Burgos, Vadillo.jpg · Alfonso Vadillo / Isidro Cámara · Public domain*
+
+![227 phot. de France, d'Italie, d'Espagne, de Portugal, de Yougoslavie, certaines par N. D. Phot., L.L., J. Kuhn à Paris, Brogi, Ciappei à Gênes, C. Naya à Venise, G. Sommer à Naples, G. Incorpora à... - btv1b53296981s (169 of 274).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/227_phot._de_France%2C_d%27Italie%2C_d%27Espagne%2C_de_Portugal%2C_de_Yougoslavie%2C_certaines_par_N._D._Phot.%2C_L.L.%2C_J._Kuhn_%C3%A0_Paris%2C_Brogi%2C_Ciappei_%C3%A0_G%C3%AAnes%2C_C._Naya_%C3%A0_Venise%2C_G._Sommer_%C3%A0_Naples%2C_G._Incorpora_%C3%A0..._-_btv1b53296981s_%28169_of_274%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*227 phot. de France, d'Italie, d'Espagne, de Portugal, de Yougoslavie, certaines par N. D. Phot., L.L., J. Kuhn à Paris, Brogi, Ciappei à Gênes, C. Naya à Venise, G. Sommer à Naples, G. Incorpora à... - btv1b53296981s (169 of 274).jpg · Brogi, Giacomo (1822-1881). Photographe Ciappei, Francesco (18..-19..? ; photographe). Photographe Garzon, Rafael (1863- · Public domain*
+
+![Burgos - Catedral de Santa María - 2026-08-18 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Burgos_-_Catedral_de_Santa_Mar%C3%ADa_-_2026-08-18_04.jpg/1280px-Burgos_-_Catedral_de_Santa_Mar%C3%ADa_-_2026-08-18_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Burgos - Catedral de Santa María - 2026-08-18 04.jpg · Rafa Esteve · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ La construcción de la Catedral de Santa María de Burgos comenzó en el siglo X
 - ✈ **Vitoria Airport (VIT)** — 100.3 km
 - ✈ **Logroño-Agoncillo Airport (RJL)** — 114.3 km
 - ✈ **Valladolid Airport (VLL)** — 118.2 km
+- 🚉 **Burgos - Rosa Manzano** — 4.6 km
+- 🚉 **Villaquirán** — 28.0 km
+- 🚉 **Campolara** — 33.5 km
+- 🚉 **Briviesca** — 38.8 km
+- 🚉 **Cascajares de la Sierra** — 41.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8960.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Landa Palace** — 3.3 km — star — 5★
+- **AC Burgos by Marriott** — 0.2 km — star — 4★
+- **Hotel NH Palacio de la Merced** — 0.3 km — star — 4★
+- **Hotel Rice Palacio de los Blasones** — 0.3 km — star — 4★
+- **Abba Burgos** — 0.4 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

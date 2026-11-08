@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(ii)(iv)"
 lat: 54.3025
 lon: 13.08527778
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:43Z"
 ---
 
 # 施特拉尔松德与维斯马历史中心 / Historic Centres of Stralsund and Wismar

@@ -97,10 +97,148 @@
   ],
   "nearest_airport_km": 35.0,
   "distance_beijing_km": 12271.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Pont D",
+    "name_en": null,
+    "lat": 14.6688627,
+    "lon": -17.398795,
+    "distance_km": 0.2,
+    "operator": null
+   },
+   {
+    "name": "Goree-Dakar Ferry",
+    "name_en": null,
+    "lat": 14.6693261,
+    "lon": -17.3986072,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Casamance;Dakar",
+    "name_en": null,
+    "lat": 14.6744665,
+    "lon": -17.4301855,
+    "distance_km": 3.5,
+    "operator": null
+   },
+   {
+    "name": "Dakar",
+    "name_en": null,
+    "lat": 14.6745396,
+    "lon": -17.4305435,
+    "distance_km": 3.6,
+    "operator": null
+   },
+   {
+    "name": "Port autonome de Dakar",
+    "name_en": null,
+    "lat": 14.6840192,
+    "lon": -17.4272719,
+    "distance_km": 3.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Dakar",
+    "name_en": null,
+    "lat": 14.6759856,
+    "lon": -17.4335181,
+    "distance_km": 3.9,
+    "operator": "SETER"
+   },
+   {
+    "name": "Colobane",
+    "name_en": null,
+    "lat": 14.7003482,
+    "lon": -17.4416523,
+    "distance_km": 6.0,
+    "operator": "SETER"
+   },
+   {
+    "name": "Hann",
+    "name_en": null,
+    "lat": 14.7220913,
+    "lon": -17.4320723,
+    "distance_km": 7.1,
+    "operator": "SETER"
+   },
+   {
+    "name": "Dalifort",
+    "name_en": null,
+    "lat": 14.7342483,
+    "lon": -17.4189983,
+    "distance_km": 7.8,
+    "operator": "SETER"
+   },
+   {
+    "name": "Baux Maraîchers",
+    "name_en": null,
+    "lat": 14.7397124,
+    "lon": -17.4036081,
+    "distance_km": 8.1,
+    "operator": "SETER"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Rynsara Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 14.6596229,
+   "lon": -17.4370901,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ngor Diarama",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 14.7509213,
+   "lon": -17.5089675,
+   "distance_km": 15.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Les Filaos",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 14.4397279,
+   "lon": -17.0144087,
+   "distance_km": 48.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le lodge des Almadies",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 14.7396671,
+   "lon": -17.5147151,
+   "distance_km": 14.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Résidence Lat-Dior",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 14.77102,
+   "lon": -16.94626,
+   "distance_km": 50.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SN",
   "country_zh": "塞内加尔",
@@ -158,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:31Z"
 }

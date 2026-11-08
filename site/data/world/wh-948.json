@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_948.jpg",
-   "title": "Hoi An Ancient Town",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/948",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/-i---i-_%2839312478014%29.jpg/1280px--i---i-_%2839312478014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "-i---i- (39312478014).jpg",
+   "author": "Vinnie Cartabiano",
+   "license": "CC BY 2.0",
+   "credit": "Flickr",
+   "source": "https://commons.wikimedia.org/wiki/File:-i---i-_%2839312478014%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/10562-Hoi-An_%2837621351830%29.jpg/1280px-10562-Hoi-An_%2837621351830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "10562-Hoi-An (37621351830).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "10562-Hoi-An",
+   "source": "https://commons.wikimedia.org/wiki/File:10562-Hoi-An_%2837621351830%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/10654-Hoi-An_%2842438247002%29.jpg/1280px-10654-Hoi-An_%2842438247002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "10654-Hoi-An (42438247002).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "10654-Hoi-An",
+   "source": "https://commons.wikimedia.org/wiki/File:10654-Hoi-An_%2842438247002%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/10678-Hoi-An_%2841587070385%29.jpg/1280px-10678-Hoi-An_%2841587070385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "10678-Hoi-An (41587070385).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "10678-Hoi-An",
+   "source": "https://commons.wikimedia.org/wiki/File:10678-Hoi-An_%2841587070385%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/948",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 23.4,
   "distance_beijing_km": 2793.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Basket Boat Station",
+    "name_en": null,
+    "lat": 15.8576323,
+    "lon": 108.3511567,
+    "distance_km": 3.0,
+    "operator": null
+   },
+   {
+    "name": "Cửa Đại",
+    "name_en": null,
+    "lat": 15.8761075,
+    "lon": 108.3889694,
+    "distance_km": 6.0,
+    "operator": null
+   },
+   {
+    "name": "Dragon Ship Han River",
+    "name_en": "Dragon Ship Han River",
+    "lat": 16.0599904,
+    "lon": 108.224173,
+    "distance_km": 23.4,
+    "operator": null
+   },
+   {
+    "name": "River Cruise Boats",
+    "name_en": "River Cruise Boats",
+    "lat": 16.0790544,
+    "lon": 108.2245295,
+    "distance_km": 25.2,
+    "operator": null
+   },
+   {
+    "name": "Cảng Tiên Sa",
+    "name_en": null,
+    "lat": 16.1187415,
+    "lon": 108.2132134,
+    "distance_km": 29.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Trà Kiệu",
+    "name_en": null,
+    "lat": 15.8101527,
+    "lon": 108.2312632,
+    "distance_km": 13.2,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Nông Sơn",
+    "name_en": null,
+    "lat": 15.8869385,
+    "lon": 108.1867902,
+    "distance_km": 15.6,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Lệ Trạch",
+    "name_en": "Le Trach",
+    "lat": 15.9705263,
+    "lon": 108.183058,
+    "distance_km": 19.0,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Phú Cang",
+    "name_en": null,
+    "lat": 15.7048523,
+    "lon": 108.3416487,
+    "distance_km": 19.2,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Đà Nẵng",
+    "name_en": "Da Nang",
+    "lat": 16.071571,
+    "lon": 108.2093029,
+    "distance_km": 25.3,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Palm Garden Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 15.9008167,
+   "lon": 108.3592077,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Tapestry Collection by Hilton",
+   "lat": 15.8864064,
+   "lon": 108.3688596,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Four Seasons Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 15.9294484,
+   "lon": 108.3175338,
+   "distance_km": 6.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Furama Villas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 16.0368971,
+   "lon": 108.2523434,
+   "distance_km": 19.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Furama Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 16.0397373,
+   "lon": 108.2513983,
+   "distance_km": 20.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "VN",
   "country_zh": "越南",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:58Z"
+ "updated_at": "2026-11-08T16:48:21Z"
 }

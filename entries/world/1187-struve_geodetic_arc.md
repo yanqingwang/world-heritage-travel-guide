@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iv)(vi)"
 lat: 52.289444444
 lon: 25.649444444
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:55Z"
 ---
 
 # 斯特鲁维地理探测弧线 / Struve Geodetic Arc
@@ -26,6 +26,10 @@ updated_at: "2026-11-08T16:06:59Z"
 ![Hammerfest, fuglenes, memoriale per l'arco geodetico di struve, misurato a partire da qui, colonna 02.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Hammerfest%2C%20fuglenes%2C%20memoriale%20per%20l%27arco%20geodetico%20di%20struve%2C%20misurato%20a%20partire%20da%20qui%2C%20colonna%2002.jpg?width=1280)
 
 *Hammerfest, fuglenes, memoriale per l'arco geodetico di struve, misurato a partire da qui, colonna 02.jpg · see Wikimedia Commons file page*
+
+![Struve Geodetic Arc-113668.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Struve_Geodetic_Arc-113668.jpg/1280px-Struve_Geodetic_Arc-113668.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Struve Geodetic Arc-113668.jpg · Vesna Vujicic-Lugassy · CC BY-SA 3.0 igo*
 
 ![Struve Geodetic Arc](https://whc.unesco.org/uploads/sites/site_1187.jpg)
 
@@ -52,11 +56,25 @@ The Struve Arc is a chain of survey triangulations stretching from Hammerfest in
 - ✈ **Brest International Airport (BQT)** — 121.1 km
 - ✈ **Lublin Airport (LUZ)** — 233.3 km
 - ✈ **Minsk National Airport (MSQ)** — 238.9 km
+- 🚉 **Янаў Палескі** — 19.0 km
+- 🚉 **Юхнавічы** — 19.5 km
+- 🚉 **Трудавая** — 23.7 km
+- 🚉 **Пінск** — 35.3 km
+- 🚉 **Белаазёрск** — 37.1 km
+- ⛴ **Паромная пераправа «Дубае»** — 24.8 km
+- ⛴ **Патапавічы** — 25.2 km
+- ⛴ **Яечкавічы** — 25.2 km
+- ⛴ **Причал водной переправы "Стаховичи"** — 28.5 km
+- ⛴ **Дамашыцы** — 31.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6773.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Спорт** — 36.0 km — star — 3★
+- **Фэст** — 4.1 km — hotel
+- **Светлана** — 30.6 km — hotel
+- **М10 Сервис** — 30.6 km — hotel
+- **Гасцініца Целяханы** — 31.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

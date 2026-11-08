@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1186.jpg",
-   "title": "Wadi Al-Hitan (Whale Valley)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1186",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Plaque_in_Wadi_El_Hitan%2C_Egypt.jpg/1280px-Plaque_in_Wadi_El_Hitan%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Plaque in Wadi El Hitan, Egypt.jpg",
+   "author": "Tom Horton from Shanghai, China",
+   "license": "CC BY-SA 2.0",
+   "credit": "Wadi El Hitan, Egypt",
+   "source": "https://commons.wikimedia.org/wiki/File:Plaque_in_Wadi_El_Hitan%2C_Egypt.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/882A2975.jpg/1280px-882A2975.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "882A2975.jpg",
+   "author": "Omar awaad",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:882A2975.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Al_Mudawara_Mountain.jpg/1280px-Al_Mudawara_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al Mudawara Mountain.jpg",
+   "author": "Bilal Detailz",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Al_Mudawara_Mountain.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Basilosaurus_and_Dorudon_skeletons_-_Voss_et_al_2019.tif/lossy-page1-1280px-Basilosaurus_and_Dorudon_skeletons_-_Voss_et_al_2019.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Basilosaurus and Dorudon skeletons - Voss et al 2019.tif",
+   "author": "Manja Voss, Mohammed Sameh M. Antar, Iyad S. Zalmout and Philip D. Gingerich",
+   "license": "CC BY-SA 4.0",
+   "credit": "Manja Voss, Mohammed Sameh M. Antar, Iyad S. Zalmout and Philip D. Gingerich: Stomach contents of the archaeocete Basilosaurus isis: Apex predator in oceans of ",
+   "source": "https://commons.wikimedia.org/wiki/File:Basilosaurus_and_Dorudon_skeletons_-_Voss_et_al_2019.tif"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1186",
@@ -100,7 +124,52 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق بيوم ليكسايد",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.4195825,
+   "lon": 30.4615035,
+   "distance_km": 43.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MalakTunis",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3980523,
+   "lon": 30.4929282,
+   "distance_km": 45.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "سوبك",
+   "name_en": "Sobek Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": 29.3961819,
+   "lon": 30.4959299,
+   "distance_km": 46.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tzila Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3947503,
+   "lon": 30.4971162,
+   "distance_km": 46.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "EG",
   "country_zh": "埃及",
@@ -158,5 +227,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:59Z"
+ "updated_at": "2026-11-08T16:48:54Z"
 }

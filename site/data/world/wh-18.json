@@ -100,7 +100,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Roha Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 12.0270551,
+   "lon": 39.0366185,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Panoramic View Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 12.0413586,
+   "lon": 39.0372508,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alif Paradise Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.0288198,
+   "lon": 39.0423022,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tukul Village",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.027874,
+   "lon": 39.0406397,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lalibela Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.0281136,
+   "lon": 39.041128,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ET",
   "country_zh": "埃塞俄比亚",
@@ -158,5 +214,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:31Z"
 }

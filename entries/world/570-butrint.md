@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iii)"
 lat: 39.757066
 lon: 20.016628
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:22Z"
 ---
 
 # 布特林特 / Butrint
@@ -46,11 +46,20 @@ Inhabited since prehistoric times, Butrint has been the site of a Greek colony, 
 - ✈ **Corfu Ioannis Kapodistrias International Airport (CFU)** — 19.5 km
 - ✈ **Ioannina King Pyrrhus National Airport (IOA)** — 69.2 km
 - ✈ **Aktion National Airport (PVK)** — 112.7 km
+- ⛴ **Butrint Cable Ferry** — 1.5 km
+- ⛴ **Terminali** — 12.8 km
+- ⛴ **Βίδο** — 15.3 km
+- ⛴ **Ipsos** — 16.7 km
+- ⛴ **Κέρκυρα** — 16.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7784.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Queen’s Lion - Premium Hotel** — 11.3 km — star — 5★ · Hotel Resort
+- **Restia Suites** — 16.8 km — star — 5★
+- **Gelina Village Hotel & Resort** — 17.2 km — star — 5★
+- **Corfu Palace** — 17.3 km — star — 5★
+- **Ikos Dassia** — 17.5 km — star — 5★ · Ikos Resorts
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(vii)(viii)"
 lat: 49.689444444
 lon: -57.738055555
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:34Z"
 ---
 
 # 格罗斯莫讷国家公园 / Gros Morne National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Western Brook Pond Newfoundland Canada DSC 6405.jpg · see Wikimedia Commons file page*
 
-![Gros Morne National Park](https://whc.unesco.org/uploads/sites/site_419.jpg)
+![2015-08-18 SAM 6610.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2015-08-18_SAM_6610.jpg/1280px-2015-08-18_SAM_6610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Gros Morne National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2015-08-18 SAM 6610.jpg · Sgagnon90 · CC BY-SA 4.0*
+
+![20170909-DSC 7426 (37346144665).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/20170909-DSC_7426_%2837346144665%29.jpg/1280px-20170909-DSC_7426_%2837346144665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20170909-DSC 7426 (37346144665).jpg · Jim Sorbie · CC BY 2.0*
+
+![20170909-DSC 7476 (37203206581).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20170909-DSC_7476_%2837203206581%29.jpg/1280px-20170909-DSC_7476_%2837203206581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20170909-DSC 7476 (37203206581).jpg · Jim Sorbie · CC BY 2.0*
+
+![Along the Viking Trail (15683460026).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Along_the_Viking_Trail_%2815683460026%29.jpg/1280px-Along_the_Viking_Trail_%2815683460026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Along the Viking Trail (15683460026).jpg · Mike from Vancouver, Canada · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,17 @@ Situé sur la côte ouest de l'île de Terre-Neuve, le parc offre un exemple rar
 - ✈ **Deer Lake Airport (YDF)** — 58.9 km
 - ✈ **La Tabatière Airport (ZLT)** — 154.4 km
 - ✈ **Tête-à-la-Baleine Airport (ZTB)** — 160.4 km
+- ⛴ **Norris Point** — 21.5 km
+- ⛴ **Woody Point** — 24.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10069.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ocean View Hotel** — 16.9 km — hotel
+- **Fisherman's landinn inn** — 17.0 km — hotel
+- **Neddies Harbour Inn** — 20.3 km — hotel
+- **The Tides Inn** — 21.4 km — hotel
+- **Bonne Bay Inn** — 24.6 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

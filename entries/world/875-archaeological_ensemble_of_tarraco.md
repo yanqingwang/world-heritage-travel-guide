@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)"
 lat: 41.116477777
 lon: 1.255230555
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:08Z"
 ---
 
 # 塔拉科考古遗址 / Archaeological Ensemble of Tarraco
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Modell der der hohen Kaiserzeit, Blick von Süden.jpg · see Wikimedia Commons file page*
 
-![Archaeological Ensemble of Tarraco](https://whc.unesco.org/uploads/sites/site_875.jpg)
+![CIL II 004294.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/CIL_II_004294.jpg/1280px-CIL_II_004294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Ensemble of Tarraco · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*CIL II 004294.jpg · Manuel Ramírez Sánchez · CC BY-SA 4.0*
+
+![El Médol, Tarragona..jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/El_M%C3%A9dol%2C_Tarragona..jpg/1280px-El_M%C3%A9dol%2C_Tarragona..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*El Médol, Tarragona..jpg · Àngela Llop · CC BY-SA 3.0*
+
+![Hispania provinces heb.png](https://upload.wikimedia.org/wikipedia/commons/7/71/Hispania_provinces_heb.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Hispania provinces heb.png · לא ידוע, תורגם על ידי אינגסוק · CC BY-SA 3.0*
+
+![Hispania3c-gl.jpg](https://upload.wikimedia.org/wikipedia/commons/2/21/Hispania3c-gl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Hispania3c-gl.jpg · Xosé at Galician Wikipedia · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,22 @@ Tarraco, la actual Tarragona, fue una ciudad administrativa y mercantil de gran 
 - ✈ **Reus Airport (REU)** — 8.1 km
 - ✈ **Josep Tarradellas Barcelona-El Prat Airport (BCN)** — 71.7 km
 - ✈ **Lleida-Alguaire Airport (ILD)** — 90.7 km
+- 🚉 **Tarragona** — 0.6 km
+- 🚉 **Camp de Tarragona** — 8.6 km
+- 🚉 **Salou-Port Aventura** — 9.7 km
+- 🚉 **Altafulla - Tamarit** — 10.1 km
+- 🚉 **Torredembarra** — 12.9 km
+- ⛴ **Port de Tarragona** — 3.6 km
+- ⛴ **Waitan Port** — 8.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8878.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Mansión de Lucy** — 8.7 km — star — 5★ · PortAventura
+- **Royal Salou** — 10.2 km — star — 5★
+- **Hotel Tarraco Park** — 3.1 km — star — 4★
+- **Hotel Mas La Boella** — 7.4 km — star — 4★
+- **Palas Pineda** — 8.5 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_419.jpg",
-   "title": "Gros Morne National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/419",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2015-08-18_SAM_6610.jpg/1280px-2015-08-18_SAM_6610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2015-08-18 SAM 6610.jpg",
+   "author": "Sgagnon90",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2015-08-18_SAM_6610.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/20170909-DSC_7426_%2837346144665%29.jpg/1280px-20170909-DSC_7426_%2837346144665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20170909-DSC 7426 (37346144665).jpg",
+   "author": "Jim Sorbie",
+   "license": "CC BY 2.0",
+   "credit": "20170909-DSC_7426",
+   "source": "https://commons.wikimedia.org/wiki/File:20170909-DSC_7426_%2837346144665%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20170909-DSC_7476_%2837203206581%29.jpg/1280px-20170909-DSC_7476_%2837203206581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20170909-DSC 7476 (37203206581).jpg",
+   "author": "Jim Sorbie",
+   "license": "CC BY 2.0",
+   "credit": "20170909-DSC_7476",
+   "source": "https://commons.wikimedia.org/wiki/File:20170909-DSC_7476_%2837203206581%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Along_the_Viking_Trail_%2815683460026%29.jpg/1280px-Along_the_Viking_Trail_%2815683460026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Along the Viking Trail (15683460026).jpg",
+   "author": "Mike from Vancouver, Canada",
+   "license": "CC BY-SA 2.0",
+   "credit": "Along the Viking Trail",
+   "source": "https://commons.wikimedia.org/wiki/File:Along_the_Viking_Trail_%2815683460026%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/419",
@@ -97,10 +121,83 @@
   ],
   "nearest_airport_km": 58.9,
   "distance_beijing_km": 10069.1,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Norris Point",
+    "name_en": null,
+    "lat": 49.5177506,
+    "lon": -57.8755969,
+    "distance_km": 21.5,
+    "operator": "BonTours"
+   },
+   {
+    "name": "Woody Point",
+    "name_en": null,
+    "lat": 49.502935,
+    "lon": -57.9125463,
+    "distance_km": 24.3,
+    "operator": "BonTours"
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Ocean View Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5904618,
+   "lon": -57.9161927,
+   "distance_km": 16.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fisherman's landinn inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5836032,
+   "lon": -57.9081674,
+   "distance_km": 17.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Neddies Harbour Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5251854,
+   "lon": -57.8608959,
+   "distance_km": 20.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Tides Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5211222,
+   "lon": -57.8811446,
+   "distance_km": 21.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bonne Bay Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5009557,
+   "lon": -57.9156262,
+   "distance_km": 24.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CA",
   "country_zh": "加拿大",
@@ -158,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:34Z"
 }

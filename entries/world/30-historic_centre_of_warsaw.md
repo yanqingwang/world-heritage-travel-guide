@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(ii)(vi)"
 lat: 52.249722222
 lon: 21.012222222
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:32Z"
 ---
 
 # 华沙历史中心 / Historic Centre of Warsaw
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *Warszawa Stare Miasto (dron).jpg · see Wikimedia Commons file page*
 
-![Historic Centre of Warsaw](https://whc.unesco.org/uploads/sites/site_30.jpg)
+![02025 Castrum Warsovienser promontory hillfort, hypsometry.png](https://upload.wikimedia.org/wikipedia/commons/e/ec/02025_Castrum_Warsovienser_promontory_hillfort%2C_hypsometry.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Historic Centre of Warsaw · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*02025 Castrum Warsovienser promontory hillfort, hypsometry.png · Marsilar · CC BY-SA 4.0*
+
+![03-05-2019 Royal Castle in Warsaw.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/03-05-2019_Royal_Castle_in_Warsaw.jpg/1280px-03-05-2019_Royal_Castle_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*03-05-2019 Royal Castle in Warsaw.jpg · PanBe · CC BY-SA 4.0*
+
+![1-300 model of Warsaw Old Town in 2nd half of 18th century, in Museum of Warsaw.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/1-300_model_of_Warsaw_Old_Town_in_2nd_half_of_18th_century%2C_in_Museum_of_Warsaw.jpg/1280px-1-300_model_of_Warsaw_Old_Town_in_2nd_half_of_18th_century%2C_in_Museum_of_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1-300 model of Warsaw Old Town in 2nd half of 18th century, in Museum of Warsaw.jpg · TobyJ · CC BY-SA 4.0*
+
+![Gierymski Gate in the Old Town.jpg](https://upload.wikimedia.org/wikipedia/commons/5/59/Gierymski_Gate_in_the_Old_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Gierymski Gate in the Old Town.jpg · Aleksander Gierymski · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Stare Miasto w Warszawie, zwyczajowo Starówka – dawne miasto Stara Warszawa, 
 - ✈ **Warsaw Chopin Airport (WAW)** — 9.8 km
 - ✈ **Warsaw Modlin Airport (WMI)** — 33.2 km
 - ✈ **Warsaw Radom Airport (RDO)** — 96.7 km
+- 🚉 **Warszawa Gdańska** — 1.7 km
+- 🚉 **Warszawa Wileńska** — 1.9 km
+- 🚉 **Warszawa Centralna** — 2.4 km
+- 🚉 **Warszawa Śródmieście WKD** — 2.6 km
+- 🚉 **Warszawa Wschodnia** — 2.7 km
+- ⛴ **Podzamcze Fontanny** — 0.5 km
+- ⛴ **Zoo** — 0.6 km
+- ⛴ **Stadion Narodowy** — 2.4 km
+- ⛴ **Most Poniatowskiego** — 2.4 km
+- ⛴ **Cypel Czerniakowski** — 3.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6943.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Bellotto** — 0.5 km — star — 5★
+- **Hotel Bristol** — 0.9 km — star — 5★
+- **Hotel Europejski** — 0.9 km — star — 5★ · Raffles
+- **Hotel Warszawa** — 1.6 km — star — 5★
+- **Presidential** — 2.5 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

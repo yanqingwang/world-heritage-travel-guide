@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_897.jpg",
-   "title": "Wartburg Castle",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/897",
-   "provider": "unesco"
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Wartburg.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Wartburg.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%22Reutervilla_und_Wartburg%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%287%29.jpg/1280px-%22Reutervilla_und_Wartburg%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Reutervilla und Wartburg\" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (7).jpg",
+   "author": "Künstler: F[riedrich] Fennel (1872-1926), Kassel. Verlag von Carl Vietor, Hofbuchhandlung, Kassel.",
+   "license": "CC BY 4.0",
+   "credit": "This image was catalogued by Generallandesarchiv Karlsruhe of the Landesarchiv Baden-Württemberg under ID: S Thomas Kellner K 81, 24 (7) .",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Reutervilla_und_Wartburg%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%287%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%22Wartburg_von_S%C3%BCd-Ost%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%281%29.jpg/1280px-%22Wartburg_von_S%C3%BCd-Ost%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Wartburg von Süd-Ost\" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (1).jpg",
+   "author": "Künstler: F[riedrich] Fennel (1872-1926), Kassel. Verlag von Carl Vietor, Hofbuchhandlung, Kassel.",
+   "license": "CC BY 4.0",
+   "credit": "This image was catalogued by Generallandesarchiv Karlsruhe of the Landesarchiv Baden-Württemberg under ID: S Thomas Kellner K 81, 24 (1) .",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Wartburg_von_S%C3%BCd-Ost%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%22Wartburg_von_S%C3%BCd-West%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%284%29.jpg/1280px-%22Wartburg_von_S%C3%BCd-West%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Wartburg von Süd-West\" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (4).jpg",
+   "author": "Künstler: F[riedrich] Fennel (1872-1926), Kassel. Verlag von Carl Vietor, Hofbuchhandlung, Kassel.",
+   "license": "CC BY 4.0",
+   "credit": "This image was catalogued by Generallandesarchiv Karlsruhe of the Landesarchiv Baden-Württemberg under ID: S Thomas Kellner K 81, 24 (4) .",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Wartburg_von_S%C3%BCd-West%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%284%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/897",
@@ -97,10 +121,116 @@
   ],
   "nearest_airport_km": 45.8,
   "distance_beijing_km": 7589.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Werranixe",
+    "name_en": null,
+    "lat": 51.191951,
+    "lon": 10.0940254,
+    "distance_km": 29.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Eisenach Hauptbahnhof",
+    "name_en": null,
+    "lat": 50.9768973,
+    "lon": 10.3319937,
+    "distance_km": 2.2,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Förtha (Kr Eisenach)",
+    "name_en": null,
+    "lat": 50.9387922,
+    "lon": 10.261943,
+    "distance_km": 4.3,
+    "operator": "DB InfraGO"
+   },
+   {
+    "name": "Wutha",
+    "name_en": null,
+    "lat": 50.9570003,
+    "lon": 10.3969382,
+    "distance_km": 6.4,
+    "operator": "DB InfraGO"
+   },
+   {
+    "name": "Marksuhl",
+    "name_en": null,
+    "lat": 50.9083618,
+    "lon": 10.2245994,
+    "distance_km": 8.6,
+    "operator": "DB InfraGO"
+   },
+   {
+    "name": "Oberrohn",
+    "name_en": null,
+    "lat": 50.849781,
+    "lon": 10.2141364,
+    "distance_km": 14.5,
+    "operator": "DB InfraGO"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Carl.22 City Appartements",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.9755421,
+   "lon": 10.3261017,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Göbel's Schlosshotel Prinz von Hessen",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.8800511,
+   "lon": 9.8555955,
+   "distance_km": 33.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hohes Rott",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.3785324,
+   "lon": 10.1227929,
+   "distance_km": 47.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dorint Hotel am Dom Erfurt",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Dorint",
+   "lat": 50.9755782,
+   "lon": 11.0187899,
+   "distance_km": 49.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Glockenhof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.9716062,
+   "lon": 10.3249903,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -158,5 +288,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:57Z"
+ "updated_at": "2026-11-08T16:48:14Z"
 }

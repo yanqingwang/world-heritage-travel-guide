@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 39.05
 lon: 66.833333333
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:11Z"
 ---
 
 # 沙赫利苏伯兹历史中心 / Historic Centre of Shakhrisyabz
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Ensemble Dorout Tilovat (Shahrisabz) (6018370667).jpg · see Wikimedia Commons file page*
 
-![Historic Centre of Shakhrisyabz](https://whc.unesco.org/uploads/sites/site_885.jpg)
+![(shahrisabz).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%28shahrisabz%29.jpg/1280px-%28shahrisabz%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Centre of Shakhrisyabz · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(shahrisabz).jpg · Asadbek Abdivayitov · CC0*
+
+![100 yillik tut.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/100_yillik_tut.jpg/1280px-100_yillik_tut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*100 yillik tut.jpg · Asadbek Abdivayitov · CC0*
+
+![28 proti Shakhrisabzu (16).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/28_proti_Shakhrisabzu_%2816%29.JPG/1280px-28_proti_Shakhrisabzu_%2816%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*28 proti Shakhrisabzu (16).JPG · Ljuba brank at Slovenian Wikipedia · GFDL*
+
+![Abdishukur og'olik madrasasi 1.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fc/Abdishukur_og%27olik_madrasasi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Abdishukur og'olik madrasasi 1.jpg · Nilufar Baxronova · CC0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,19 @@ Shahrisabz — Oʻzbekistonning Qashqadaryo viloyatidagi viloyat boʻysunuvidagi
 - ✈ **Samarkand International Airport (SKD)** — 73.6 km
 - ✈ **Karshi Airport (KSQ)** — 95.8 km
 - ✈ **Zomin Airport (OMN)** — 172.6 km
+- 🚉 **Kitob** — 4.5 km
+- 🚉 **Танхоз** — 8.8 km
+- 🚉 **Yakkabogʻ** — 15.8 km
+- 🚉 **Qamashi** — 41.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4175.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **KESH PALACE** — 0.9 km — star — Kesh palace · 3★
+- **Dulon гостевой дом музей** — 1.0 km — hotel — "Dulon" uzbek national house museum hotel
+- **Shakhrisabz Yulduzi** — 1.5 km — hotel
+- **Отель "бек"** — 1.6 km — hotel — Hotel bek
+- **Dilmurod** — 2.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

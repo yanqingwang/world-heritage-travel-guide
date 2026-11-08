@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(v)(vi)"
 lat: 30.046
 lon: 31.2627
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:43Z"
 ---
 
 # 开罗古城 / Historic Cairo
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *مصر العظيمة.jpg · see Wikimedia Commons file page*
 
-![Historic Cairo](https://whc.unesco.org/uploads/sites/site_89.jpg)
+![02010 05934 Islamic Cairo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/02010_05934_Islamic_Cairo.jpg/1280px-02010_05934_Islamic_Cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Cairo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*02010 05934 Islamic Cairo.jpg · Silar · CC BY-SA 4.0*
+
+![020100221 Islamic Cairo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/020100221_Islamic_Cairo.jpg/1280px-020100221_Islamic_Cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*020100221 Islamic Cairo.jpg · Silar · CC BY-SA 4.0*
+
+![Al-Ghouryia.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Al-Ghouryia.jpg/1280px-Al-Ghouryia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al-Ghouryia.jpg · Ashashyou · CC BY-SA 4.0*
+
+![Al-Imam al-Shafi'i Cemetery, Cairo.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Al-Imam_al-Shafi%27i_Cemetery%2C_Cairo.jpg/1280px-Al-Imam_al-Shafi%27i_Cemetery%2C_Cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al-Imam al-Shafi'i Cemetery, Cairo.jpg · Hassan Hamdy wahidy · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Tucked away amid the modern urban area of Cairo lies one of the world's oldest I
 - ✈ **Cairo International Airport (CAI)** — 14.8 km
 - ✈ **Sphinx International Airport (SPX)** — 36.0 km
 - ✈ **Capital International Airport (CCE)** — 55.6 km
+- 🚉 **محطة رمسيس** — 2.5 km
+- 🚉 **محطة الفرز للسكة الحديد** — 4.5 km
+- 🚉 **إمبابه** — 5.5 km
+- 🚉 **ضواحي الجيزة** — 6.9 km
+- 🚉 **بشتيل** — 8.0 km
+- ⛴ **Club ferry terminal** — 6.2 km
+- ⛴ **Qorsaya ferry** — 6.8 km
+- ⛴ **Private ferry terminal** — 7.0 km
+- ⛴ **Church users' ferry terminal** — 7.0 km
+- ⛴ **Police ferry terminal** — 7.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7534.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **إنتركونتيننتال سميراميس** — 2.9 km — star — InterContinental Cairo Semiramis, an IHG Hotel · 5★ · InterContinental
+- **Ramses Hilton** — 3.0 km — star — 5★ · Hilton
+- **فندق كمبنسكي النيل القاهرة** — 3.2 km — star — Kempinski Nile Hotel Garden City Cairo · 5★
+- **فندق فور سيزون نايل بلازا القاهره** — 3.4 km — star — Four Seasons Hotel Cairo at Nile Plaza · 5★ · Four Seasons
+- **فندق سوفيتل كايرو داون تاون** — 4.0 km — star — Sofitel Cairo · 5★ · Sofitel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iv)"
 lat: 22.608055555
 lon: -102.379166666
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:50:01Z"
 ---
 
 # 皇家内陆大干线 / Camino Real de Tierra Adentro
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *El Camino Real de Tierra Adentro NHT (9445536658).jpg · see Wikimedia Commons file page*
 
-![Camino Real de Tierra Adentro](https://whc.unesco.org/uploads/sites/site_1351.jpg)
+![CaminoRealAdentro.png](https://upload.wikimedia.org/wikipedia/commons/8/80/CaminoRealAdentro.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Camino Real de Tierra Adentro · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*CaminoRealAdentro.png · U.S. National Park Service · Public domain*
+
+![El Camino Real de Tierra Adentro National Historic Trail (46326935275).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail_%2846326935275%29.jpg/1280px-El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail_%2846326935275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*El Camino Real de Tierra Adentro National Historic Trail (46326935275).jpg · mypubliclands · Public domain*
+
+![El Camino Real de Tierra Adentro National Historic Trail, New Mexico (36695139496).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail%2C_New_Mexico_%2836695139496%29.jpg/1280px-El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail%2C_New_Mexico_%2836695139496%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*El Camino Real de Tierra Adentro National Historic Trail, New Mexico (36695139496).jpg · mypubliclands · Public domain*
+
+![El Camino Real de Tierra Adentro (IA elcaminorealdeti00unse).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/El_Camino_Real_de_Tierra_Adentro_%28IA_elcaminorealdeti00unse%29.pdf/page1-1280px-El_Camino_Real_de_Tierra_Adentro_%28IA_elcaminorealdeti00unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*El Camino Real de Tierra Adentro (IA elcaminorealdeti00unse).pdf · Palmer, Gabrielle G., 1938- Fosberg, Stephen L Piper, June-el Carpio, Donna, book designer United States. Bureau of Land · Public domain*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ El Camino Real de Tierra Adentro, también conocido por el nombre de “Camino d
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel Mesón de Mulatos** — 13.6 km — hotel
+- **Las Colinas** — 18.3 km — hotel
+- **Hotel Don Miguel** — 25.9 km — hotel
+- **Hotel María Conchita** — 26.6 km — hotel
+- **Quinta Real** — 26.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

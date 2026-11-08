@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 43.838194
 lon: 4.356111
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:37Z"
 ---
 
 # 尼姆方形神殿 / The Maison Carrée of Nîmes
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *Maison carrée 01.jpg · see Wikimedia Commons file page*
 
-![The Maison Carrée of Nîmes](https://whc.unesco.org/uploads/sites/site_1569.jpg)
+![2179.Nimes-Römischer Podiumstempel-Der Tempel war ursprünglich Kaiser Augustus, dann den Enkeln Gajus und schließlich Lucius Cäsar geweiht..JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2179.Nimes-R%C3%B6mischer_Podiumstempel-Der_Tempel_war_urspr%C3%BCnglich_Kaiser_Augustus%2C_dann_den_Enkeln_Gajus_und_schlie%C3%9Flich_Lucius_C%C3%A4sar_geweiht..JPG/1280px-2179.Nimes-R%C3%B6mischer_Podiumstempel-Der_Tempel_war_urspr%C3%BCnglich_Kaiser_Augustus%2C_dann_den_Enkeln_Gajus_und_schlie%C3%9Flich_Lucius_C%C3%A4sar_geweiht..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Maison Carrée of Nîmes · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2179.Nimes-Römischer Podiumstempel-Der Tempel war ursprünglich Kaiser Augustus, dann den Enkeln Gajus und schließlich Lucius Cäsar geweiht..JPG · Steffen Heilfort · CC BY-SA 3.0*
+
+![30NimesMaisCarree1203MeyerCh1Tr.JPG](https://upload.wikimedia.org/wikipedia/commons/2/2c/30NimesMaisCarree1203MeyerCh1Tr.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*30NimesMaisCarree1203MeyerCh1Tr.JPG · Nom ( Un naturaliste du Midi ( talk )), Meyer Christian · CC BY 3.0*
+
+![Acta Eruditorum - I iscrizioni 1760 – BEIC 13444805 estratto.jpg](https://upload.wikimedia.org/wikipedia/commons/1/16/Acta_Eruditorum_-_I_iscrizioni_1760_%E2%80%93_BEIC_13444805_estratto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Acta Eruditorum - I iscrizioni 1760 – BEIC 13444805 estratto.jpg · Public domain*
+
+![Acta Eruditorum - I iscrizioni, 1760 – BEIC 13444805.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f8/Acta_Eruditorum_-_I_iscrizioni%2C_1760_%E2%80%93_BEIC_13444805.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Acta Eruditorum - I iscrizioni, 1760 – BEIC 13444805.jpg · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Built in the 1st century AD in the Roman colony of Nemausus – today’s city o
 - ✈ **Nîmes-Arles-Camargue Airport (FNI)** — 10.2 km
 - ✈ **Montpellier-Méditerranée Airport (MPL)** — 43.0 km
 - ✈ **Avignon Caumont airport (AVN)** — 44.4 km
+- 🚉 **Nîmes Centre** — 1.0 km
+- 🚉 **Saint-Césaire** — 3.6 km
+- 🚉 **Nîmes Pont du Gard** — 12.4 km
+- 🚉 **Vergèze - Codognan** — 15.5 km
+- 🚉 **Saint-Geniès-de-Malgoirès** — 16.8 km
+- ⛴ **Bac du Rocher des Doms** — 38.4 km
+- ⛴ **halte nautique d'Avignon** — 38.6 km
+- ⛴ **Halte Fluviale** — 43.0 km
+- ⛴ **Carnon Est** — 44.9 km
+- ⛴ **Carnon Ouest** — 45.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8484.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel Jules César** — 28.4 km — star — 5★
+- **L'Oustaù de Baumanière** — 36.4 km — star — 5★
+- **La Guigou** — 36.5 km — star — 5★
+- **La Plage Art & Émotions** — 37.6 km — star — 5★
+- **Le Prieuré** — 37.9 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

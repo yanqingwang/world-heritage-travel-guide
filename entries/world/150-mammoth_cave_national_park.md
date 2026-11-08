@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(viii)(x)"
 lat: 37.186944444
 lon: -86.101111111
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:42:56Z"
 ---
 
 # 猛玛洞穴国家公园 / Mammoth Cave National Park

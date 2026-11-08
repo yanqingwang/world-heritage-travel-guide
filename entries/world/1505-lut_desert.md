@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(vii)(viii)"
 lat: 30.263888888
 lon: 59.241111111
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:25Z"
 ---
 
 # 卢特沙漠 / Lut Desert
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *Sand castles - Dasht-e Lut desert - Kerman.JPG · see Wikimedia Commons file page*
 
-![Lut Desert](https://whc.unesco.org/uploads/sites/site_1505.jpg)
+![Map iran biotopes simplified-fr.png](https://upload.wikimedia.org/wikipedia/commons/a/a9/Map_iran_biotopes_simplified-fr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Lut Desert · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Map iran biotopes simplified-fr.png · Fabienkhan · CC BY-SA 2.5*
+
+![- panoramio - iranactor.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/-_panoramio_-_iranactor.jpg/1280px--_panoramio_-_iranactor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*- panoramio - iranactor.jpg · iranactor · CC BY 3.0*
+
+![2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9061 DxO.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9061_DxO.jpg/1280px-2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9061_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9061 DxO.jpg · Lrkrol · CC BY 4.0*
+
+![2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9079 DxO.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9079_DxO.jpg/1280px-2020-01-01_Iran%2C_Kerman%2C_Dasht-e_Lut_DSC_9079_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2020-01-01 Iran, Kerman, Dasht-e Lut DSC 9079 DxO.jpg · Lrkrol · CC BY 4.0*
 
 ## 简介 / Introduction
 

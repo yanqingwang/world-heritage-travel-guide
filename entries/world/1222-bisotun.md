@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iii)"
 lat: 34.390361111
 lon: 47.435888888
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:44Z"
 ---
 
 # 比索顿古迹 / Bisotun
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *کتیبه داریوش ( بیستون(.jpg · see Wikimedia Commons file page*
 
-![Bisotun](https://whc.unesco.org/uploads/sites/site_1222.jpg)
+![De-Behistun-Inschrift.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Bisotun · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Behistun-Inschrift.ogg · Jeuwre · CC BY-SA 4.0*
+
+![39 Bistoun.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/39_Bistoun.jpg/1280px-39_Bistoun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*39 Bistoun.jpg · ArminAmirian · CC BY-SA 4.0*
+
+![6403. Bas Relief Carving (1348526553).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/6403._Bas_Relief_Carving_%281348526553%29.jpg/1280px-6403._Bas_Relief_Carving_%281348526553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*6403. Bas Relief Carving (1348526553).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
+
+![6405.JasperMatthias.Climbing (1348530819).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/6405.JasperMatthias.Climbing_%281348530819%29.jpg/1280px-6405.JasperMatthias.Climbing_%281348530819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*6405.JasperMatthias.Climbing (1348530819).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,17 @@ Bisotun is located along the ancient trade route linking the Iranian high platea
 - ✈ **Shahid Ashrafi Esfahani Airport (KSH)** — 26.0 km
 - ✈ **Sanandaj Airport (SDG)** — 102.8 km
 - ✈ **Hamadan Airport (HDM)** — 115.7 km
+- 🚉 **بیستون** — 7.1 km
+- 🚉 **ایستگاه راه آهن کرمانشاه** — 28.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6024.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل آزادگان** — 29.9 km — star — Azadegan Hotel · 4★
+- **هتل لاله بیستون** — 0.7 km — hotel
+- **هتل جمشید** — 27.9 km — hotel — Hotel Jamshid
+- **Parsian Hotel Kermanshah** — 29.7 km — hotel — Parsian Hotel Kermanshah
+- **هتل پارسیان کرمانشاه** — 29.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

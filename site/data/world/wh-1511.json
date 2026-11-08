@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1511.jpg",
-   "title": "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1511",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/59_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811127176004%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "59 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrated by ... engravings and maps' (11127176004).jpg",
+   "author": "The British Library",
+   "license": "No restrictions",
+   "credit": "Image taken from page 59 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrate",
+   "source": "https://commons.wikimedia.org/wiki/File:59_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811127176004%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Angolan_woman_with_children_outside_health_clinic_%285686703351%29.jpg/1280px-Angolan_woman_with_children_outside_health_clinic_%285686703351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Angolan woman with children outside health clinic (5686703351).jpg",
+   "author": "USAID Africa Bureau",
+   "license": "Public domain",
+   "credit": "Angolan woman with children outside health clinic",
+   "source": "https://commons.wikimedia.org/wiki/File:Angolan_woman_with_children_outside_health_clinic_%285686703351%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/AO-M%27banza_Kongo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "AO-M'banza Kongo.png",
+   "author": "User Acntx on en.wikipedia",
+   "license": "CC BY-SA 3.0",
+   "credit": "Originally from en.wikipedia ; description page is (was) here",
+   "source": "https://commons.wikimedia.org/wiki/File:AO-M%27banza_Kongo.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bansa_or_Salvador_the_chief_cit%C3%BF_of_ye_kingdom_of_Congo%2C_1670_%E2%80%93_BEIC_IE8933391.jpg/1280px-Bansa_or_Salvador_the_chief_cit%C3%BF_of_ye_kingdom_of_Congo%2C_1670_%E2%80%93_BEIC_IE8933391.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bansa or Salvador the chief citÿ of ye kingdom of Congo, 1670 – BEIC IE8933391.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "Available in the BEIC digital library and uploaded in partnership with BEIC Foundation .",
+   "source": "https://commons.wikimedia.org/wiki/File:Bansa_or_Salvador_the_chief_cit%C3%BF_of_ye_kingdom_of_Congo%2C_1670_%E2%80%93_BEIC_IE8933391.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1511",
@@ -100,7 +124,19 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Estrela de Congo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -6.2658601,
+   "lon": 14.2470512,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "AO",
   "country_zh": "安哥拉",
@@ -155,5 +191,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:28Z"
 }

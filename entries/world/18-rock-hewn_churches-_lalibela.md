@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(i)(ii)(iii)"
 lat: 12.02935
 lon: 39.04042
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:31Z"
 ---
 
 # 拉利贝拉岩石教堂 / Rock-Hewn Churches, Lalibela
@@ -50,7 +50,11 @@ The 11 medieval monolithic cave churches of this 13th-century 'New Jerusalem' ar
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Roha Hotel** — 0.5 km — star — 3★
+- **Panoramic View Hotel** — 1.4 km — star — 3★
+- **Alif Paradise Hotel** — 0.2 km — hotel
+- **Tukul Village** — 0.2 km — hotel
+- **Lalibela Hotel** — 0.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(iv)(v)"
 lat: 25.429444
 lon: 49.621944
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:36Z"
 ---
 
 # 哈萨绿洲，变迁的文化景观 / Al-Ahsa Oasis, an Evolving Cultural Landscape
@@ -56,7 +56,11 @@ In the eastern Arabian Peninsula, the Al-Ahsa Oasis is a serial property compris
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **الأحساء انتركونتننتال** — 6.2 km — star — Al Ahsa Intercontinental · 5★
+- **Grand Day Hotel** — 5.8 km — hotel — Grand Day Hotel
+- **Top view** — 7.6 km — hotel
+- **mazroya home** — 8.4 km — hotel
+- **الأحياء جراند** — 9.8 km — hotel — Al Ahsa Grand
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

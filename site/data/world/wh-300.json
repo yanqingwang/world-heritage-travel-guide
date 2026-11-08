@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_300.jpg",
-   "title": "Historic District of Old Québec",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/300",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/20_Rue_Sainte-Ursule.jpg/1280px-20_Rue_Sainte-Ursule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20 Rue Sainte-Ursule.jpg",
+   "author": "Wilfredor",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20_Rue_Sainte-Ursule.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/A_photo_taken_very_close_from_a_cannon_in_Old_Quebec_-_panoramio.jpg/1280px-A_photo_taken_very_close_from_a_cannon_in_Old_Quebec_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A photo taken very close from a cannon in Old Quebec - panoramio.jpg",
+   "author": "Jiaqian AirplaneFan",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161024125713/http://www.panoramio.com/photo/77164693",
+   "source": "https://commons.wikimedia.org/wiki/File:A_photo_taken_very_close_from_a_cannon_in_Old_Quebec_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Arrondissement_historique_de_Qu%C3%A9bec_02.jpg/1280px-Arrondissement_historique_de_Qu%C3%A9bec_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arrondissement historique de Québec 02.jpg",
+   "author": "Greymouser",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arrondissement_historique_de_Qu%C3%A9bec_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Arrondissement_historique_de_Qu%C3%A9bec_03.jpg/1280px-Arrondissement_historique_de_Qu%C3%A9bec_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arrondissement historique de Québec 03.jpg",
+   "author": "Greymouser",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arrondissement_historique_de_Qu%C3%A9bec_03.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/300",
@@ -97,10 +121,124 @@
   ],
   "nearest_airport_km": 14.1,
   "distance_beijing_km": 10323.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Québec",
+    "name_en": null,
+    "lat": 46.8118162,
+    "lon": -71.2016017,
+    "distance_km": 0.7,
+    "operator": "Société des traversiers du Québec"
+   },
+   {
+    "name": "Gare fluviale",
+    "name_en": null,
+    "lat": 46.8118267,
+    "lon": -71.2019588,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Lévis",
+    "name_en": null,
+    "lat": 46.8106109,
+    "lon": -71.1883369,
+    "distance_km": 1.7,
+    "operator": "Société des traversiers du Québec"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Québec",
+    "name_en": null,
+    "lat": 46.8183175,
+    "lon": -71.2143518,
+    "distance_km": 1.0,
+    "operator": "Via Rail Canada"
+   },
+   {
+    "name": "Sainte-Foy",
+    "name_en": null,
+    "lat": 46.7543583,
+    "lon": -71.2976532,
+    "distance_km": 9.0,
+    "operator": "Via Rail Canada"
+   },
+   {
+    "name": "Québec (Chutes-Montmorency)",
+    "name_en": null,
+    "lat": 46.8853636,
+    "lon": -71.1450774,
+    "distance_km": 9.8,
+    "operator": "Chemin de fer Charlevoix Inc."
+   },
+   {
+    "name": "Charny",
+    "name_en": null,
+    "lat": 46.7135116,
+    "lon": -71.2704462,
+    "distance_km": 11.6,
+    "operator": "Via Rail Canada"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Fairmont Le Château Frontenac",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Fairmont",
+   "lat": 46.8118142,
+   "lon": -71.2054608,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge Saint-Antoine",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 46.8144602,
+   "lon": -71.2018231,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Manoir Victoria",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.8145206,
+   "lon": -71.210841,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Le Priori",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 46.8144075,
+   "lon": -71.2033226,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel PUR, Quebec, A Tribute Portfolio Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Tribute Portfolio",
+   "lat": 46.814553,
+   "lon": -71.2242169,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CA",
   "country_zh": "加拿大",
@@ -158,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:44:23Z"
 }

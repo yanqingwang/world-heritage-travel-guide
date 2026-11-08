@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_59.jpg",
-   "title": "Bryggen",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/59",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%22Streifzug%22_mit_der_Kamera_durch_Bergen._12.jpg/1280px-%22Streifzug%22_mit_der_Kamera_durch_Bergen._12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Streifzug\" mit der Kamera durch Bergen. 12.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Streifzug%22_mit_der_Kamera_durch_Bergen._12.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%22Streifzug%22_mit_der_Kamera_durch_Bergen._13.jpg/1280px-%22Streifzug%22_mit_der_Kamera_durch_Bergen._13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Streifzug\" mit der Kamera durch Bergen. 13.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Streifzug%22_mit_der_Kamera_durch_Bergen._13.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%22Wacht_Ordnung%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "\"Wacht Ordnung\".jpg",
+   "author": "Christian Wilhelm Höltich",
+   "license": "Public domain",
+   "credit": "Stadtarchiv Bergen",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Wacht_Ordnung%22.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/0906_Kreuzfahrt_Norwegen_1902.jpg/1280px-0906_Kreuzfahrt_Norwegen_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0906 Kreuzfahrt Norwegen 1902.jpg",
+   "author": "weisserstier from Wien, Austria",
+   "license": "CC BY 2.0",
+   "credit": "0906_Kreuzfahrt_Norwegen_1902",
+   "source": "https://commons.wikimedia.org/wiki/File:0906_Kreuzfahrt_Norwegen_1902.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/59",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 12.9,
   "distance_beijing_km": 7238.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Beffen - Bradbenken",
+    "name_en": null,
+    "lat": 60.3980501,
+    "lon": 5.3205844,
+    "distance_km": 0.2,
+    "operator": null
+   },
+   {
+    "name": "Strandterminalen",
+    "name_en": null,
+    "lat": 60.3952249,
+    "lon": 5.3219867,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Strandkaiterminalen, båt Askøy",
+    "name_en": null,
+    "lat": 60.3956158,
+    "lon": 5.3207257,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Strandkaiterminalen båtkai",
+    "name_en": null,
+    "lat": 60.3953301,
+    "lon": 5.3218743,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Beffen - Nykirkekaien",
+    "name_en": null,
+    "lat": 60.3973071,
+    "lon": 5.3149419,
+    "distance_km": 0.5,
+    "operator": "Bergen kommunale kystkultursenter"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Fløibanen, nedre stasjon",
+    "name_en": null,
+    "lat": 60.3966916,
+    "lon": 5.3291305,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Byparken",
+    "name_en": null,
+    "lat": 60.3920045,
+    "lon": 5.3255488,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "Kaigaten",
+    "name_en": null,
+    "lat": 60.391799,
+    "lon": 5.3267954,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Bergen",
+    "name_en": null,
+    "lat": 60.390279,
+    "lon": 5.3333972,
+    "distance_km": 1.0,
+    "operator": "Bane NOR"
+   },
+   {
+    "name": "Nonneseter",
+    "name_en": null,
+    "lat": 60.3901213,
+    "lon": 5.3326459,
+    "distance_km": 1.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotell No.13",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 60.392318,
+   "lon": 5.322896,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Norge by Scandic",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Scandic",
+   "lat": 60.3913175,
+   "lon": 5.3233435,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Magic Hotel Kløverhuset",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 60.394445,
+   "lon": 5.323085,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Magic Hotel Korskirken",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 60.394377,
+   "lon": 5.327364,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Royal Hotel Bergen",
+   "name_en": null,
+   "stars": null,
+   "brand": "Radisson Blu",
+   "lat": 60.397852,
+   "lon": 5.322499,
+   "distance_km": 0.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NO",
   "country_zh": "挪威",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:38Z"
 }

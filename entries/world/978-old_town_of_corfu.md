@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iv)"
 lat: 39.623888888
 lon: 19.921388888
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:27Z"
 ---
 
 # 科孚古城 / Old Town of Corfu
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *Korfu (GR), Korfu, Altstadt -- 2018 -- 1114-21.jpg · see Wikimedia Commons file page*
 
-![Old Town of Corfu](https://whc.unesco.org/uploads/sites/site_978.jpg)
+![1st Gymnasium of Corfu City.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/1st_Gymnasium_of_Corfu_City.jpg/1280px-1st_Gymnasium_of_Corfu_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Old Town of Corfu · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1st Gymnasium of Corfu City.jpg · Biboly.s · CC BY-SA 4.0*
+
+![2018-06-17 Corfu town.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018-06-17_Corfu_town.jpg/1280px-2018-06-17_Corfu_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2018-06-17 Corfu town.jpg · Maksym Kozlenko · CC BY-SA 4.0*
+
+![2018-06-17 Old town of Corfu, view from fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2018-06-17_Old_town_of_Corfu%2C_view_from_fort.jpg/1280px-2018-06-17_Old_town_of_Corfu%2C_view_from_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2018-06-17 Old town of Corfu, view from fort.jpg · Maksym Kozlenko · CC BY-SA 4.0*
+
+![A narrow street (called Kadouni) in the Old Town of Corfu.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A_narrow_street_%28called_Kadouni%29_in_the_Old_Town_of_Corfu.png/1280px-A_narrow_street_%28called_Kadouni%29_in_the_Old_Town_of_Corfu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A narrow street (called Kadouni) in the Old Town of Corfu.png · Amethyst forest (aka VM) · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ The Old Town of Corfu, on the Island of Corfu off the western coasts of Albania 
 - ✈ **Corfu Ioannis Kapodistrias International Airport (CFU)** — 2.6 km
 - ✈ **Ioannina King Pyrrhus National Airport (IOA)** — 77.6 km
 - ✈ **Aktion National Airport (PVK)** — 106.3 km
+- ⛴ **Κέρκυρα** — 0.9 km
+- ⛴ **Επιβατικός Σταθμός Φέριμποτ** — 1.0 km
+- ⛴ **Βίδο** — 1.7 km
+- ⛴ **Επιβατικός Σταθμός Κρουαζιερόπλοιων** — 1.8 km
+- ⛴ **Κανόνι** — 3.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7784.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Corfu Palace** — 0.5 km — star — 5★
+- **Corfu Holiday Palace** — 3.5 km — star — 5★
+- **Angsana Corfu** — 7.9 km — star — 5★
+- **Ikos Dassia** — 9.3 km — star — 5★ · Ikos Resorts
+- **Grand Mediterraneo** — 12.3 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 41.9625
 lon: 12.796111111
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:34Z"
 ---
 
 # 提沃利城的伊斯特别墅 / Villa d'Este, Tivoli
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *Villa d'Este 01.jpg · see Wikimedia Commons file page*
 
-![Villa d'Este, Tivoli](https://whc.unesco.org/uploads/sites/site_1025.jpg)
+![Tivoli, Villa d'Este, Schautafel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Tivoli%2C_Villa_d%27Este%2C_Schautafel.jpg/1280px-Tivoli%2C_Villa_d%27Este%2C_Schautafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Villa d'Este, Tivoli · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Tivoli, Villa d'Este, Schautafel.jpg · Dnalor 01 · CC BY-SA 3.0*
+
+![Villa d'Este (Tivoli) 1000 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Villa_d%27Este_%28Tivoli%29_1000_01.jpg/1280px-Villa_d%27Este_%28Tivoli%29_1000_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Villa d'Este (Tivoli) 1000 01.jpg · FrDr · CC BY-SA 4.0*
+
+![Tivoli, Villa d'Este, UNESCO-Tafel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Tivoli%2C_Villa_d%27Este%2C_UNESCO-Tafel.jpg/1280px-Tivoli%2C_Villa_d%27Este%2C_UNESCO-Tafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tivoli, Villa d'Este, UNESCO-Tafel.jpg · Dnalor 01 · CC BY-SA 3.0*
+
+![Cento Fontane.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Cento_Fontane.JPG/1280px-Cento_Fontane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cento Fontane.JPG · Justinawind · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ La villa d'Este di Tivoli è una villa del Rinascimento italiano e figura nella 
 - ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 24.7 km
 - ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 48.3 km
 - ✈ **Abruzzo Airport (PSR)** — 125.6 km
+- 🚉 **Tivoli** — 0.7 km
+- 🚉 **Marcellina-Palombara** — 4.2 km
+- 🚉 **Guidonia Collefiorito** — 6.3 km
+- 🚉 **Tivoli Terme** — 6.3 km
+- 🚉 **Castel Madama** — 6.4 km
+- ⛴ **Ponte Risorgimento** — 27.4 km
+- ⛴ **Ponte Cavour** — 27.4 km
+- ⛴ **Isola Tiberina** — 27.7 km
+- ⛴ **Sant'Angelo** — 28.0 km
+- ⛴ **Anguillara Sabazia** — 46.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8124.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hyatt Regency Rome Central** — 25.1 km — star — 5★ · Hyatt
+- **NH Collection Hotels Roma Palazzo Cinquecento** — 25.3 km — star — 5★ · NH Collection Hotels
+- **Hotel "Parco dei Principi"** — 25.6 km — star — 5★
+- **Hotel La Griffe** — 25.9 km — star — 5★
+- **Hotel Ambasciatori Palace** — 26.1 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

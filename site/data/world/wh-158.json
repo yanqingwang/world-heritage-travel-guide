@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_158.jpg",
-   "title": "Head-Smashed-In Buffalo Jump",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/158",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bottom_Cliff_Head-Smashed-In_Buffalo_Jump.jpg/1280px-Bottom_Cliff_Head-Smashed-In_Buffalo_Jump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bottom Cliff Head-Smashed-In Buffalo Jump.jpg",
+   "author": "Pazakui",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bottom_Cliff_Head-Smashed-In_Buffalo_Jump.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Head_Smashed_In_Buffalo_Jump_%2815194897111%29.jpg/1280px-Head_Smashed_In_Buffalo_Jump_%2815194897111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Head Smashed In Buffalo Jump (15194897111).jpg",
+   "author": "Wilson Hui from Calgary, Canada",
+   "license": "CC BY 2.0",
+   "credit": "Head Smashed In Buffalo Jump",
+   "source": "https://commons.wikimedia.org/wiki/File:Head_Smashed_In_Buffalo_Jump_%2815194897111%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Head_Smashed_in_Buffalo_Jump_Cliffside_View.jpg/1280px-Head_Smashed_in_Buffalo_Jump_Cliffside_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Head Smashed in Buffalo Jump Cliffside View.jpg",
+   "author": "XeresNelro",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Head_Smashed_in_Buffalo_Jump_Cliffside_View.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Head_Smashed_in_Buffalo_Jump_Path.jpg/1280px-Head_Smashed_in_Buffalo_Jump_Path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Head Smashed in Buffalo Jump Path.jpg",
+   "author": "XeresNelro",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Head_Smashed_in_Buffalo_Jump_Path.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/158",
@@ -100,7 +124,52 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Ramada",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ramada",
+   "lat": 49.4982324,
+   "lon": -113.9464212,
+   "distance_km": 36.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stardust Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.4847826,
+   "lon": -113.93536,
+   "distance_km": 37.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Excuses Alberta Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.4855224,
+   "lon": -113.9485145,
+   "distance_km": 37.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Great Canadian Barn Dance",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.3634252,
+   "lon": -113.6118966,
+   "distance_km": 42.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CA",
   "country_zh": "加拿大",
@@ -158,5 +227,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:52Z"
+ "updated_at": "2026-11-08T16:42:58Z"
 }

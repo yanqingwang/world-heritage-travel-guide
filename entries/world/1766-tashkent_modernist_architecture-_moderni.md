@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iv)"
 lat: 41.3086
 lon: 69.2417
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:04Z"
 ---
 
 # 塔什干现代主义建筑：中亚的现代性和传统 / Tashkent Modernist Architecture. Modernity and Tradition in Central Asia

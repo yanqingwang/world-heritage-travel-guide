@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)"
 lat: 37.951147222
 lon: 58.212408333
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:46Z"
 ---
 
 # 尼莎帕提亚要塞 / Parthian Fortresses of Nisa
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *Nisa.jpg · see Wikimedia Commons file page*
 
-![Parthian Fortresses of Nisa](https://whc.unesco.org/uploads/sites/site_1242.jpg)
+![Architectural pieces from old Nisa, 2nd cent. BCE; National Museum of History, Ashgabat, Turkmenistan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Architectural_pieces_from_old_Nisa%2C_2nd_cent._BCE%3B_National_Museum_of_History%2C_Ashgabat%2C_Turkmenistan.jpg/1280px-Architectural_pieces_from_old_Nisa%2C_2nd_cent._BCE%3B_National_Museum_of_History%2C_Ashgabat%2C_Turkmenistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Parthian Fortresses of Nisa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Architectural pieces from old Nisa, 2nd cent. BCE; National Museum of History, Ashgabat, Turkmenistan.jpg · Richard Mortel · CC BY 2.0*
+
+![Coin of Orodes II (2), Mithradatkert (Nisa) mint.jpg](https://upload.wikimedia.org/wikipedia/commons/1/19/Coin_of_Orodes_II_%282%29%2C_Mithradatkert_%28Nisa%29_mint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Coin of Orodes II (2), Mithradatkert (Nisa) mint.jpg · Classical Numismatic Group ; [1] · CC BY-SA 3.0*
+
+![Coin of Orodes II, Mithradatkert (Nisa) mint.jpg](https://upload.wikimedia.org/wikipedia/commons/a/af/Coin_of_Orodes_II%2C_Mithradatkert_%28Nisa%29_mint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Coin of Orodes II, Mithradatkert (Nisa) mint.jpg · Classical Numismatic Group ; [1] · CC BY-SA 3.0*
+
+![Fragment of bearded head identified as the portrait of Mithradates I, from the Parthian royal fortress of Nisa, dated 2nd century BC, National Museum of Turkmenistan, Ashgabat, Turkmenistan.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fragment_of_bearded_head_identified_as_the_portrait_of_Mithradates_I%2C_from_the_Parthian_royal_fortress_of_Nisa%2C_dated_2nd_century_BC%2C_National_Museum_of_Turkmenistan%2C_Ashgabat%2C_Turkmenistan.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Fragment of bearded head identified as the portrait of Mithradates I, from the Parthian royal fortress of Nisa, dated 2nd century BC, National Museum of Turkmenistan, Ashgabat, Turkmenistan.png · Following Hadrian · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The Parthian Fortresses of Nisa consist of two tells of Old and New Nisa, indica
 - ✈ **Ashgabat International Airport (ASB)** — 13.6 km
 - ✈ **Bojnord Airport (BJB)** — 94.4 km
 - ✈ **Sabzevar National Airport (AFZ)** — 205.7 km
+- 🚉 **Gypjak** — 9.7 km
+- 🚉 **Aşgabat** — 16.1 km
+- 🚉 **Babarap** — 16.2 km
+- 🚉 **Büzmeýin** — 20.4 km
+- 🚉 **Rzd. No 1** — 20.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4942.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Diwan** — 15.5 km — star — Nusay · 3★
+- **Bezirgen Hotel** — 12.6 km — star — Bezirgen Hotel · 1★
+- **Kuwwat Myhmanhanasy** — 14.8 km — star — Kuwwat Hotel · 1★
+- **Arkadag Oteli** — 9.4 km — hotel — Arkadag Hotel
+- **Gypjak Myhmanhanasy** — 9.6 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

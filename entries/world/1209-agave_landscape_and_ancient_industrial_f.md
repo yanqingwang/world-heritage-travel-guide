@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iv)(v)(vi)"
 lat: 20.628286
 lon: -103.769989
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:49:39Z"
 ---
 
 # 龙舌兰景观和特基拉的古代工业设施 / Agave Landscape and Ancient Industrial Facilities of Tequila

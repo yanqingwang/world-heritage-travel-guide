@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)"
 lat: 19.431111111
 lon: 103.1525
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:41Z"
 ---
 
 # 川圹巨石缸遗址-石缸平原 / Megalithic Jar Sites in Xiengkhuang – Plain of Jars
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *20171115 Plain of Jars Laos 2540 DxO.jpg · see Wikimedia Commons file page*
 
-![Megalithic Jar Sites in Xiengkhuang – Plain of Jars](https://whc.unesco.org/uploads/sites/site_1587.jpg)
+![BLU-26 cluster sub-munition.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BLU-26_cluster_sub-munition.JPG/1280px-BLU-26_cluster_sub-munition.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Megalithic Jar Sites in Xiengkhuang – Plain of Jars · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*BLU-26 cluster sub-munition.JPG · Seabifar · CC BY-SA 3.0*
+
+![Ebene der Tonkrüge Laos.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ebene_der_Tonkr%C3%BCge_Laos.JPG/1280px-Ebene_der_Tonkr%C3%BCge_Laos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ebene der Tonkrüge Laos.JPG · Danielloh79 · CC BY-SA 3.0*
+
+![MAG Marker Brick.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/MAG_Marker_Brick.jpg/1280px-MAG_Marker_Brick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*MAG Marker Brick.jpg · User: (WT-shared) Drewsloan at wts wikivoyage · Public domain*
+
+![Mobilier-Laos.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mobilier-Laos.JPG/1280px-Mobilier-Laos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mobilier-Laos.JPG · Chaoborus · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ The Plain of Jars, located on a plateau in central Laos, gets its name from more
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Xiengkhuang view** — 4.2 km — hotel — Xiengkhuang view
+- **Saysavanh Guesthouse** — 5.3 km — hotel — Saysavanh Guesthouse
+- **Ethnic Cultural Guest House** — 5.7 km — hotel
+- **Maly Hotel** — 6.0 km — hotel
+- **5 ber guesthouse** — 6.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

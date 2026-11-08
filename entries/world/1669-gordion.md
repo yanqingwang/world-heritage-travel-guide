@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)"
 lat: 39.650103
 lon: 31.97857
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:50:58Z"
 ---
 
 # 戈尔迪翁 / Gordion
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:03Z"
 
 *Ruins of Gordion 3.JPG · see Wikimedia Commons file page*
 
-![Gordion](https://whc.unesco.org/uploads/sites/site_1669.jpg)
+![EPISODAMOS SON OF ARTAMITIOS.JPG](https://upload.wikimedia.org/wikipedia/commons/f/f1/EPISODAMOS_SON_OF_ARTAMITIOS.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Gordion · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*EPISODAMOS SON OF ARTAMITIOS.JPG · Fkitselis · CC BY-SA 3.0*
+
+![Gordion Antik Kenti (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Gordion_Antik_Kenti_%281%29.jpg/1280px-Gordion_Antik_Kenti_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gordion Antik Kenti (1).jpg · Canercangul · CC BY-SA 4.0*
+
+![Gordion Antik Kenti (19.05.2023) 39.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Gordion_Antik_Kenti_%2819.05.2023%29_39.jpg/1280px-Gordion_Antik_Kenti_%2819.05.2023%29_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gordion Antik Kenti (19.05.2023) 39.jpg · Gargarapalvin · CC BY 4.0*
+
+![Gordion Antik Kenti (19.05.2023) 55.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gordion_Antik_Kenti_%2819.05.2023%29_55.jpg/1280px-Gordion_Antik_Kenti_%2819.05.2023%29_55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gordion Antik Kenti (19.05.2023) 55.jpg · Gargarapalvin · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Gordion (Frigce: Gordum; Grekçe: Γόρδιον; Türkçe: Gordion veya Gordiyo
 - ✈ **Esenboğa International Airport (ESB)** — 101.7 km
 - ✈ **Hasan Polatkan Airport (AOE)** — 126.1 km
 - ✈ **Zafer Airport (KZR)** — 169.8 km
+- 🚉 **Beylikköprü** — 5.8 km
+- 🚉 **Sazılar** — 7.9 km
+- 🚉 **İğciler** — 9.8 km
+- 🚉 **Polatlı** — 15.7 km
+- 🚉 **İlören** — 17.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6815.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Polatlı Abdullah Resort Otel** — 16.2 km — hotel
+- **Çini otel** — 43.9 km — hotel
+- **Büyük Otel** — 47.2 km — hotel
+- **Küçük Otel** — 47.2 km — hotel
+- **Grand Garden Inn Ayaş** — 48.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

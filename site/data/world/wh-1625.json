@@ -53,6 +53,14 @@
    "provider": "wikimedia_commons"
   },
   {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tour_de_Cordouan_%28dessin%29_%28...%29Van_der_btv1b7741891k.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Tour de Cordouan (dessin) (...)Van der btv1b7741891k.jpg",
+   "author": "Hermann van der Hem (1619-1649)",
+   "license": "Public domain",
+   "credit": "BNF Gallica",
+   "source": "https://commons.wikimedia.org/wiki/File:Tour_de_Cordouan_%28dessin%29_%28...%29Van_der_btv1b7741891k.jpg"
+  },
+  {
    "url": "https://whc.unesco.org/uploads/sites/site_1625.jpg",
    "title": "Cordouan Lighthouse",
    "author": "UNESCO World Heritage Centre",
@@ -97,10 +105,148 @@
   ],
   "nearest_airport_km": 65.9,
   "distance_beijing_km": 8609.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Bac Pointe de Grave-Royan",
+    "name_en": null,
+    "lat": 45.5679594,
+    "lon": -1.0637843,
+    "distance_km": 8.8,
+    "operator": null
+   },
+   {
+    "name": "Terminal conteneurs du Verdon",
+    "name_en": null,
+    "lat": 45.5396582,
+    "lon": -1.0449168,
+    "distance_km": 11.3,
+    "operator": "Bordeaux Port Atlantique"
+   },
+   {
+    "name": "Embarcadère de Royan",
+    "name_en": null,
+    "lat": 45.6173695,
+    "lon": -1.0308604,
+    "distance_km": 11.6,
+    "operator": null
+   },
+   {
+    "name": "Port de Saint-Vivien",
+    "name_en": null,
+    "lat": 45.4542071,
+    "lon": -1.0127345,
+    "distance_km": 19.3,
+    "operator": null
+   },
+   {
+    "name": "Port des Salines",
+    "name_en": null,
+    "lat": 45.8614554,
+    "lon": -1.2299871,
+    "distance_km": 30.9,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Le Verdon",
+    "name_en": null,
+    "lat": 45.5494445,
+    "lon": -1.0652833,
+    "distance_km": 9.4,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Soulac-sur-Mer",
+    "name_en": null,
+    "lat": 45.5081599,
+    "lon": -1.1177154,
+    "distance_km": 9.7,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Royan",
+    "name_en": null,
+    "lat": 45.6259067,
+    "lon": -1.0164955,
+    "distance_km": 13.0,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Saujon",
+    "name_en": null,
+    "lat": 45.6664895,
+    "lon": -0.930052,
+    "distance_km": 20.9,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Maumusson",
+    "name_en": null,
+    "lat": 45.8074846,
+    "lon": -1.2368142,
+    "distance_km": 25.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel Cordouan - Thalazur",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.6183188,
+   "lon": -1.0411108,
+   "distance_km": 10.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Village Club La Grande Baie",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.690445,
+   "lon": -1.1877968,
+   "distance_km": 11.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Grand Large",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.8945535,
+   "lon": -1.2857025,
+   "distance_km": 35.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel - Restaurant de la Corderie Royale",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure Hôtels",
+   "lat": 45.941629,
+   "lon": -0.9549025,
+   "distance_km": 43.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Domaine de Saint-Palais",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 45.6516902,
+   "lon": -1.1071568,
+   "distance_km": 8.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -158,5 +304,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:52Z"
 }

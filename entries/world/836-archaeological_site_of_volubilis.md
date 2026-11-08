@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 34.0399646
 lon: -5.5626871
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:07Z"
 ---
 
 # 瓦卢比利斯考古遗址 / Archaeological Site of Volubilis
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Volubilis 1990.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Volubilis](https://whc.unesco.org/uploads/sites/site_836.jpg)
+![Alignement de portes de deux monuments d'époque romaine - A900.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Alignement_de_portes_de_deux_monuments_d%27%C3%A9poque_romaine_-_A900.jpg/1280px-Alignement_de_portes_de_deux_monuments_d%27%C3%A9poque_romaine_-_A900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Volubilis · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Alignement de portes de deux monuments d'époque romaine - A900.jpg · Passet Stéphane · CC0*
+
+![Chapiteau Volubilis.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4d/Chapiteau_Volubilis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chapiteau Volubilis.jpg · reibai · CC BY 2.0*
+
+![Denys, Roger with Sporan, Dick. Joan at Volubilis (37086260703).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Denys%2C_Roger_with_Sporan%2C_Dick._Joan_at_Volubilis_%2837086260703%29.jpg/1280px-Denys%2C_Roger_with_Sporan%2C_Dick._Joan_at_Volubilis_%2837086260703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Denys, Roger with Sporan, Dick. Joan at Volubilis (37086260703).jpg · Dr Mary Gillham Archive Project · CC BY 2.0*
+
+![General view of Ted and Volubillis (37724550682).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/General_view_of_Ted_and_Volubillis_%2837724550682%29.jpg/1280px-General_view_of_Ted_and_Volubillis_%2837724550682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*General view of Ted and Volubillis (37724550682).jpg · Dr Mary Gillham Archive Project · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ The Mauritanian capital, founded in the 3rd century B.C., became an important ou
 - ✈ **Fes Saïss International Airport (FEZ)** — 55.3 km
 - ✈ **Rabat-Salé Airport (RBA)** — 109.5 km
 - ✈ **Sania Ramel Airport (TTU)** — 174.2 km
+- 🚉 **Ain Karma** — 6.6 km
+- 🚉 **Oued Rdom** — 8.6 km
+- 🚉 **Ouarzigha** — 11.9 km
+- 🚉 **Meknès - Al Amir Abdelkader** — 15.7 km
+- 🚉 **Meknès مكناس** — 16.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9835.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Zaki** — 17.8 km — star — 4★
+- **Z Hotel Meknes** — 22.4 km — star — 4★
+- **Ibis Meknes** — 16.1 km — star — 3★ · Ibis
+- **Belle Vue** — 16.2 km — star — 3★
+- **Ibis Budget Fes** — 48.5 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

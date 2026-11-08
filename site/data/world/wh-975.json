@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_975.jpg",
-   "title": "Zollverein Coal Mine Industrial Complex in Essen",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/975",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/..._bedenklich_..._-_panoramio.jpg/1280px-..._bedenklich_..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "... bedenklich ... - panoramio.jpg",
+   "author": "Helfmann",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161015073912/http://www.panoramio.com/photo/34919576",
+   "source": "https://commons.wikimedia.org/wiki/File:..._bedenklich_..._-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/0_Loks_%26_Maschinen_Akku-Lok-2.jpg/1280px-0_Loks_%26_Maschinen_Akku-Lok-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0 Loks & Maschinen Akku-Lok-2.jpg",
+   "author": "Freddo213",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0_Loks_%26_Maschinen_Akku-Lok-2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/0_Loks_%26_Maschinen_Akku-Lok5.jpg/1280px-0_Loks_%26_Maschinen_Akku-Lok5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0 Loks & Maschinen Akku-Lok5.jpg",
+   "author": "Freddo213",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0_Loks_%26_Maschinen_Akku-Lok5.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/0_Loks_%26_Maschinen_Bandreinigungstrommel.jpg/1280px-0_Loks_%26_Maschinen_Bandreinigungstrommel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0 Loks & Maschinen Bandreinigungstrommel.jpg",
+   "author": "Freddo213",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0_Loks_%26_Maschinen_Bandreinigungstrommel.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/975",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 29.2,
   "distance_beijing_km": 7796.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Fahrgastschiffanleger Nordsternpark",
+    "name_en": null,
+    "lat": 51.5217929,
+    "lon": 7.0336151,
+    "distance_km": 4.0,
+    "operator": "Stadt Gelsenkirchen"
+   },
+   {
+    "name": "Fahrgastschiffanleger Zweigertbrücke",
+    "name_en": null,
+    "lat": 51.5134054,
+    "lon": 7.0059882,
+    "distance_km": 4.0,
+    "operator": "Stadt Essen"
+   },
+   {
+    "name": "ehem. Hafen Mathias Stinnes",
+    "name_en": null,
+    "lat": 51.5117666,
+    "lon": 6.9966305,
+    "distance_km": 4.3,
+    "operator": null
+   },
+   {
+    "name": "Anlegestelle",
+    "name_en": null,
+    "lat": 51.5372788,
+    "lon": 7.0703094,
+    "distance_km": 5.9,
+    "operator": null
+   },
+   {
+    "name": "Fahrgastschiffanleger Graf Bismarck",
+    "name_en": null,
+    "lat": 51.5454515,
+    "lon": 7.0979856,
+    "distance_km": 7.5,
+    "operator": "Stadt Gelsenkrichen"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Essen-Altenessen",
+    "name_en": null,
+    "lat": 51.4842762,
+    "lon": 7.0068439,
+    "distance_km": 2.6,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Essen-Kray Nord",
+    "name_en": null,
+    "lat": 51.4695006,
+    "lon": 7.0806375,
+    "distance_km": 3.2,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Essen Hauptbahnhof",
+    "name_en": null,
+    "lat": 51.4514769,
+    "lon": 7.0144679,
+    "distance_km": 4.4,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Gelsenkirchen Hauptbahnhof",
+    "name_en": null,
+    "lat": 51.5047677,
+    "lon": 7.1022983,
+    "distance_km": 4.5,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Essen-Steele",
+    "name_en": null,
+    "lat": 51.4506842,
+    "lon": 7.0755469,
+    "distance_km": 4.5,
+    "operator": "DB InfraGO AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Schlosshotel Hugenpoet",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.3618425,
+   "lon": 6.9171072,
+   "distance_km": 16.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Dusseldorf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 51.2508866,
+   "lon": 6.7696708,
+   "distance_km": 32.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Steigenberger Parkhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2268175,
+   "lon": 6.7783854,
+   "distance_km": 34.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Wellem, Dusseldorf",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Unbound Collection",
+   "lat": 51.2279946,
+   "lon": 6.7743583,
+   "distance_km": 34.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Breidenbacher Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.2253282,
+   "lon": 6.7777564,
+   "distance_km": 34.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:58Z"
+ "updated_at": "2026-11-08T16:48:26Z"
 }

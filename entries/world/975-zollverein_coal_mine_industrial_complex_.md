@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iii)"
 lat: 51.4865
 lon: 7.04408
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:26Z"
 ---
 
 # 埃森的关税同盟煤矿工业区 / Zollverein Coal Mine Industrial Complex in Essen
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *Zeche Zollverein abends.jpg · see Wikimedia Commons file page*
 
-![Zollverein Coal Mine Industrial Complex in Essen](https://whc.unesco.org/uploads/sites/site_975.jpg)
+![... bedenklich ... - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/..._bedenklich_..._-_panoramio.jpg/1280px-..._bedenklich_..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Zollverein Coal Mine Industrial Complex in Essen · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*... bedenklich ... - panoramio.jpg · Helfmann · CC BY-SA 3.0*
+
+![0 Loks & Maschinen Akku-Lok-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/0_Loks_%26_Maschinen_Akku-Lok-2.jpg/1280px-0_Loks_%26_Maschinen_Akku-Lok-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0 Loks & Maschinen Akku-Lok-2.jpg · Freddo213 · CC BY 4.0*
+
+![0 Loks & Maschinen Akku-Lok5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/0_Loks_%26_Maschinen_Akku-Lok5.jpg/1280px-0_Loks_%26_Maschinen_Akku-Lok5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0 Loks & Maschinen Akku-Lok5.jpg · Freddo213 · CC BY 4.0*
+
+![0 Loks & Maschinen Bandreinigungstrommel.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/0_Loks_%26_Maschinen_Bandreinigungstrommel.jpg/1280px-0_Loks_%26_Maschinen_Bandreinigungstrommel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0 Loks & Maschinen Bandreinigungstrommel.jpg · Freddo213 · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Die Zeche Zollverein war ein von 1851 bis 1986 betriebenes Steinkohlebergwerk in
 - ✈ **Düsseldorf Airport (DUS)** — 29.2 km
 - ✈ **Dortmund Airport (DTM)** — 39.5 km
 - ✈ **Weeze (Niederrhein) Airport (NRN)** — 63.7 km
+- 🚉 **Essen-Altenessen** — 2.6 km
+- 🚉 **Essen-Kray Nord** — 3.2 km
+- 🚉 **Essen Hauptbahnhof** — 4.4 km
+- 🚉 **Gelsenkirchen Hauptbahnhof** — 4.5 km
+- 🚉 **Essen-Steele** — 4.5 km
+- ⛴ **Fahrgastschiffanleger Nordsternpark** — 4.0 km
+- ⛴ **Fahrgastschiffanleger Zweigertbrücke** — 4.0 km
+- ⛴ **ehem. Hafen Mathias Stinnes** — 4.3 km
+- ⛴ **Anlegestelle** — 5.9 km
+- ⛴ **Fahrgastschiffanleger Graf Bismarck** — 7.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7796.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Schlosshotel Hugenpoet** — 16.4 km — star — 5★
+- **Hilton Dusseldorf** — 32.4 km — star — 5★ · Hilton
+- **Steigenberger Parkhotel** — 34.3 km — star — 5★
+- **The Wellem, Dusseldorf** — 34.3 km — star — 5★ · Unbound Collection
+- **Breidenbacher Hof** — 34.4 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

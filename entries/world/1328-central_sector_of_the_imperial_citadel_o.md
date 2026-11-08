@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iii)(vi)"
 lat: 21.0325
 lon: 105.83972
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:59Z"
 ---
 
 # 河内升龙皇城 / Central Sector of the Imperial Citadel of Thang Long - Hanoi
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *Main Gate - Citadel of Hanoi.jpg · see Wikimedia Commons file page*
 
-![Central Sector of the Imperial Citadel of Thang Long - Hanoi](https://whc.unesco.org/uploads/sites/site_1328.jpg)
+![03934-Hanoi (32573170290).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/03934-Hanoi_%2832573170290%29.jpg/1280px-03934-Hanoi_%2832573170290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Central Sector of the Imperial Citadel of Thang Long - Hanoi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*03934-Hanoi (32573170290).jpg · xiquinhosilva · CC BY 2.0*
+
+![04529-Hanoi (32206504662).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/04529-Hanoi_%2832206504662%29.jpg/1280px-04529-Hanoi_%2832206504662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*04529-Hanoi (32206504662).jpg · xiquinhosilva · CC BY 2.0*
+
+![04546-Hanoi (32206503032).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/04546-Hanoi_%2832206503032%29.jpg/1280px-04546-Hanoi_%2832206503032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*04546-Hanoi (32206503032).jpg · xiquinhosilva · CC BY 2.0*
+
+![04547-Hanoi (31545552143).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/04547-Hanoi_%2831545552143%29.jpg/1280px-04547-Hanoi_%2831545552143%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*04547-Hanoi (31545552143).jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Hoàng thành Thăng Long (chữ Hán: 昇龍皇城; Hán-Việt: Thăng Long Ho
 - ✈ **Noi Bai International Airport (HAN)** — 21.3 km
 - ✈ **Cat Bi International Airport (HPH)** — 94.9 km
 - ✈ **Tho Xuan Airport (THD)** — 131.6 km
+- 🚉 **Hà Nội** — 0.9 km
+- 🚉 **Long Biên** — 1.3 km
+- 🚉 **Gia Lâm** — 4.6 km
+- 🚉 **Giáp Bát** — 6.0 km
+- 🚉 **Phú Diễn** — 8.0 km
+- ⛴ **Bến đò Kim Lan** — 9.5 km
+- ⛴ **Bến đò Văn Đức** — 10.0 km
+- ⛴ **Bến thuyền Gondola** — 16.6 km
+- ⛴ **Bến đò Lệ Chi** — 17.7 km
+- ⛴ **Bến đò Tri Phương** — 17.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2332.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Somerset Grand Hanoi** — 1.0 km — star — 5★ · Somerset
+- **Pullman Hanoi** — 1.2 km — star — 5★ · Pullman
+- **Hotel du Parc Hanoi** — 1.6 km — star — 5★
+- **Hotel de l'Opera Hanoi** — 1.9 km — star — 5★
+- **Sofitel Legend Metropole Hà Nội** — 1.9 km — star — 5★ · Sofitel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

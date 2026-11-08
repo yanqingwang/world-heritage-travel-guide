@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(iii)"
 lat: 34.245
 lon: 130.1056
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:31Z"
 ---
 
 # 「神宿之岛」宗像·冲之岛及相关遗产群 / Sacred Island of Okinoshima and Associated Sites in the Munakata Region

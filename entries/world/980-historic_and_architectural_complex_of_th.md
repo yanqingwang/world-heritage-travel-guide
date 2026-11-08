@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)(iv)"
 lat: 55.797442
 lon: 49.10724
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:29Z"
 ---
 
 # 喀山克里姆林宫 / Historic and Architectural Complex of the Kazan Kremlin
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *Казанский кремль. Панорама с колеса обозрения.jpg · see Wikimedia Commons file page*
 
-![Historic and Architectural Complex of the Kazan Kremlin](https://whc.unesco.org/uploads/sites/site_980.jpg)
+![(18.06.2006) - panoramio - sergfokin (5).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/%2818.06.2006%29_-_panoramio_-_sergfokin_%285%29.jpg/1280px-%2818.06.2006%29_-_panoramio_-_sergfokin_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic and Architectural Complex of the Kazan Kremlin · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(18.06.2006) - panoramio - sergfokin (5).jpg · sergfokin · CC BY-SA 3.0*
+
+![(18.06.2006) - panoramio - sergfokin (6).jpg](https://upload.wikimedia.org/wikipedia/commons/8/87/%2818.06.2006%29_-_panoramio_-_sergfokin_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*(18.06.2006) - panoramio - sergfokin (6).jpg · sergfokin · CC BY-SA 3.0*
+
+![1 May square Kazan.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/1_May_square_Kazan.JPG/1280px-1_May_square_Kazan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 May square Kazan.JPG · Untifler · CC BY-SA 3.0*
+
+![16 Казанский кремль на закате Казань.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/16_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg/1280px-16_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*16 Казанский кремль на закате Казань.jpg · Алексей Задонский · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Built on an ancient site, the Kazan Kremlin dates from the Muslim period of the 
 - ✈ **Kazan International Airport (KZN)** — 23.8 km
 - ✈ **Cheboksary Airport (CSY)** — 114.3 km
 - ✈ **Ulyanovsk Vostochny Airport (ULY)** — 156.5 km
+- 🚉 **Казань-Пассажирская** — 1.1 km
+- 🚉 **Вахитово** — 3.4 km
+- 🚉 **Ометьево** — 4.4 km
+- 🚉 **Восстание-Пассажирская** — 5.4 km
+- 🚉 **Лагерная** — 6.0 km
+- ⛴ **Центр семьи Казан** — 1.7 km
+- ⛴ **Речной вокзал Казань** — 2.7 km
+- ⛴ **Казань** — 2.9 km
+- ⛴ **Kasan** — 5.2 km
+- ⛴ **Верхний Услон** — 7.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5084.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Luciano Residence Kazan** — 1.3 km — star — 5★
+- **Luciano** — 1.3 km — star — 5★
+- **Noble Millennium Panorama** — 2.2 km — star — 5★
+- **Kazan Palace by Tasigo** — 2.5 km — star — 5★
+- **Корстон** — 2.7 km — star — Korston · 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

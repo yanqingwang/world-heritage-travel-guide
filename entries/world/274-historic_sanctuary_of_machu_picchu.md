@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(iii)(vii)(ix)"
 lat: -13.11666667
 lon: -72.58333333
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:19Z"
 ---
 
 # 马丘比丘古神庙 / Historic Sanctuary of Machu Picchu

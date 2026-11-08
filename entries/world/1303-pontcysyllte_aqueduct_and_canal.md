@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(i)(ii)(iv)"
 lat: 52.9702
 lon: -3.08782
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:54Z"
 ---
 
 # 龐特卡薩魯岧水道 / Pontcysyllte Aqueduct and Canal
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *Pontcysyllte aqueduct arp.jpg · see Wikimedia Commons file page*
 
-![Pontcysyllte Aqueduct and Canal](https://whc.unesco.org/uploads/sites/site_1303.jpg)
+!["Smile please" The Pontcysyllte Aqueduct - geograph.org.uk - 2981680.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%22Smile_please%22_The_Pontcysyllte_Aqueduct_-_geograph.org.uk_-_2981680.jpg/1280px-%22Smile_please%22_The_Pontcysyllte_Aqueduct_-_geograph.org.uk_-_2981680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Pontcysyllte Aqueduct and Canal · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Smile please" The Pontcysyllte Aqueduct - geograph.org.uk - 2981680.jpg · John M Wheatley · CC BY-SA 2.0*
+
+![..View of Pontcysyllte aqueduct, North Wales.. LCCN2004670652.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/..View_of_Pontcysyllte_aqueduct%2C_North_Wales.._LCCN2004670652.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*..View of Pontcysyllte aqueduct, North Wales.. LCCN2004670652.jpg · Popular Graphic Arts · Public domain*
+
+![068 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82 (52392025386).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/068_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852392025386%29.jpg/1280px-068_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852392025386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*068 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82 (52392025386).jpg · wilford peloquin · CC BY 2.0*
+
+![069 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82 (52391101072).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/069_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852391101072%29.jpg/1280px-069_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852391101072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*069 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82 (52391101072).jpg · wilford peloquin · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,25 @@ Situated in north-eastern Wales, the 18 kilometre long Pontcysyllte Aqueduct and
 - ✈ **Liverpool John Lennon Airport (LPL)** — 43.5 km
 - ✈ **Manchester Airport (MAN)** — 68.4 km
 - ✈ **Birmingham Airport (BHX)** — 107.0 km
+- 🚉 **Ruabon** — 3.5 km
+- 🚉 **Chirk** — 4.4 km
+- 🚉 **Llangollen** — 5.6 km
+- 🚉 **Berwyn** — 7.3 km
+- 🚉 **Gobowen** — 9.2 km
+- ⛴ **Sandy Lane** — 28.2 km
+- ⛴ **The Meadows** — 28.2 km
+- ⛴ **Sabrina Boat** — 36.4 km
+- ⛴ **Ince Ferry** — 39.6 km
+- ⛴ **Woodside (Mersey Ferry)** — 47.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8120.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Palé Hall Hotel** — 29.3 km — star — 5★
+- **West Arms Hotel** — 14.5 km — star — 4★
+- **Coach House** — 27.9 km — star — 4★
+- **Queen Hotel** — 28.7 km — star — 4★ · Best Western
+- **DoubleTree by Hilton Hotel & Spa Chester** — 30.5 km — star — 4★ · DoubleTree
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

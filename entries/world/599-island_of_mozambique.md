@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iv)(vi)"
 lat: -15.036666666
 lon: 40.732777777
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:29Z"
 ---
 
 # 莫桑比克岛 / Island of Mozambique
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Beach cleaning.jpg · see Wikimedia Commons file page*
 
-![Island of Mozambique](https://whc.unesco.org/uploads/sites/site_599.jpg)
+![Escudo Ilha de Moçmbique.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Escudo_Ilha_de_Mo%C3%A7mbique.svg/1280px-Escudo_Ilha_de_Mo%C3%A7mbique.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Island of Mozambique · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Escudo Ilha de Moçmbique.svg · Jsobral · CC BY-SA 4.0*
+
+![AFDCM-07-017.jpg](https://upload.wikimedia.org/wikipedia/commons/9/92/AFDCM-07-017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AFDCM-07-017.jpg · Photos mainly by H. Graumann and I. Piedade Pó, void of copyright as collective work. Texts by Tenente Mário Costa (1893 · Public domain*
+
+![AFDCM-07-023.jpg](https://upload.wikimedia.org/wikipedia/commons/7/70/AFDCM-07-023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AFDCM-07-023.jpg · Photos mainly by H. Graumann and I. Piedade Pó, void of copyright as collective work. Texts by Tenente Mário Costa (1893 · Public domain*
+
+![AFDCM-07-047.jpg](https://upload.wikimedia.org/wikipedia/commons/d/da/AFDCM-07-047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AFDCM-07-047.jpg · Photos mainly by H. Graumann and I. Piedade Pó, void of copyright as collective work. Texts by Tenente Mário Costa (1893 · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,18 @@ A Ilha de Moçambique é uma cidade insular situada na província de Nampula, na
 - ✈ **Nacala International Airport (MNC)** — 61.0 km
 - ✈ **Nampula Airport (APL)** — 156.0 km
 - ✈ **Pemba Airport (POL)** — 228.3 km
+- 🚉 **Namarral** — 35.2 km
+- 🚉 **Nacala Muchilipo** — 42.9 km
+- 🚉 **Monapo, Estação Nova** — 45.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9881.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Omuhipiti** — 1.1 km — star — 3★
+- **Casa Amy** — 0.1 km — hotel
+- **Villa Sands** — 0.2 km — hotel
+- **Meia Lua** — 0.2 km — hotel
+- **Rickshaws** — 0.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 12.616666666
 lon: 80.191666666
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:05Z"
 ---
 
 # 默哈伯利布勒姆古迹群 / Group of Monuments at Mahabalipuram
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *4 scenes at Mahabalipuram monuments 2.jpg · see Wikimedia Commons file page*
 
-![Group of Monuments at Mahabalipuram](https://whc.unesco.org/uploads/sites/site_249.jpg)
+![195 cartes postales d'Inde, Birmanie, Indochine vers 1906, don Collin de Plancy en 1928 - btv1b53216123p (069 of 382).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/195_cartes_postales_d%27Inde%2C_Birmanie%2C_Indochine_vers_1906%2C_don_Collin_de_Plancy_en_1928_-_btv1b53216123p_%28069_of_382%29.jpg/1280px-195_cartes_postales_d%27Inde%2C_Birmanie%2C_Indochine_vers_1906%2C_don_Collin_de_Plancy_en_1928_-_btv1b53216123p_%28069_of_382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Group of Monuments at Mahabalipuram · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*195 cartes postales d'Inde, Birmanie, Indochine vers 1906, don Collin de Plancy en 1928 - btv1b53216123p (069 of 382).jpg · Public domain*
+
+![Arjuna's Penance at Mamallapuram.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Arjuna%27s_Penance_at_Mamallapuram.jpg/1280px-Arjuna%27s_Penance_at_Mamallapuram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arjuna's Penance at Mamallapuram.jpg · Preeti Prajapati · CC BY-SA 4.0*
+
+![Beauty of Pacharadha (Descent of the Ganges).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Beauty_of_Pacharadha_%28Descent_of_the_Ganges%29.jpg/1280px-Beauty_of_Pacharadha_%28Descent_of_the_Ganges%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Beauty of Pacharadha (Descent of the Ganges).jpg · Sangeetha Kalaivanan · CC BY-SA 4.0*
+
+![Brown-18060 0144.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Brown-18060_0144.jpg/1280px-Brown-18060_0144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Brown-18060 0144.jpg · Percy Brown (1872–1955) · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ This group of sanctuaries, founded by the Pallava kings, was carved out of rock 
 - ✈ **Chennai International Airport (MAA)** — 41.6 km
 - ✈ **Pondicherry Airport (PNY)** — 83.1 km
 - ✈ **Tirupati International Airport (TIR)** — 133.1 km
+- 🚉 **Otivakkam** — 23.5 km
+- 🚉 **Chengalpatttu Junction** — 24.4 km
+- 🚉 **Singaperumal Koil** — 26.3 km
+- 🚉 **Kattangulathur** — 27.6 km
+- 🚉 **Guduvancheri** — 29.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4655.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Taj Fisherman's Cove** — 21.1 km — star — 5★
+- **Welcomhotel** — 26.0 km — star — 5★ · ITC Hotels
+- **Turyaa** — 40.2 km — star — 5★
+- **Hilton Chennai** — 44.5 km — star — 5★ · Hilton
+- **GRT Grand Days** — 47.5 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

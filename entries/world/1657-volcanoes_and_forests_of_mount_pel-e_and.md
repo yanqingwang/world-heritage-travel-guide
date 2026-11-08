@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(viii)(x)"
 lat: 14.7582
 lon: -61.0731
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:50:56Z"
 ---
 
 # 培雷山和马提尼克北部山峰的火山和森林 / Volcanoes and Forests of Mount Pelée and the Pitons of Northern Martinique

@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iv)(vi)"
 lat: 35.29638889
 lon: 10.70694444
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:36Z"
 ---
 
 # 杰姆的圆形竞技场 / Amphitheatre of El Jem
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *Anfiteatro, El Jem, Túnez, 2016-09-04, DD 55-66 HDR PAN.jpg · see Wikimedia Commons file page*
 
-![Amphitheatre of El Jem](https://whc.unesco.org/uploads/sites/site_38.jpg)
+![20 TND - 2017 - reverse.png](https://upload.wikimedia.org/wikipedia/commons/0/0c/20_TND_-_2017_-_reverse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Amphitheatre of El Jem · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20 TND - 2017 - reverse.png · OussamaNairi · CC BY-SA 4.0*
+
+![5 TND - 1972 - reverse.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8c/5_TND_-_1972_-_reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*5 TND - 1972 - reverse.jpg · DrFO.Jr.Tn · Public domain*
+
+![50 francs - 1941 - reverse.jpg](https://upload.wikimedia.org/wikipedia/commons/2/20/50_francs_-_1941_-_reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*50 francs - 1941 - reverse.jpg · DrFO.Jr.Tn · Public domain*
+
+![Amphitheater el djem20260719 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Amphitheater_el_djem20260719_1.jpg/1280px-Amphitheater_el_djem20260719_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Amphitheater el djem20260719 1.jpg · Z thomas · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,22 @@ The impressive ruins of the largest colosseum in North Africa, a huge amphitheat
 - ✈ **Monastir Habib Bourguiba International Airport (MIR)** — 51.5 km
 - ✈ **Sfax Thyna International Airport (SFA)** — 64.3 km
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 90.0 km
+- 🚉 **الجم** — 0.5 km
+- 🚉 **الحنشة** — 17.8 km
+- 🚉 **كركر** — 19.6 km
+- 🚉 **بوقبرين** — 27.4 km
+- 🚉 **دخان** — 34.3 km
+- ⛴ **Mshdia** — 40.0 km
+- ⛴ **ميناء الصيد البحري بالشابة** — 41.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8680.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Iberostar Selection Royal El Mansour** — 39.3 km — star — 5★ · Iberostar Hotels & Resorts
+- **Hôtel Phénix** — 39.7 km — star — 4★
+- **El Borj Hotel** — 39.4 km — star — 3★ · TTS Hotels
+- **Julius Hotel** — 0.5 km — hotel
+- **Hotel club ksar Eljem** — 4.7 km — hotel — Hotel club ksar Eljem
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

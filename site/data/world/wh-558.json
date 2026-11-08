@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_558.jpg",
-   "title": "Skogskyrkogården",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/558",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/1a%2C_Skogskyrkog%C3%A5rden_skylt.jpg/1280px-1a%2C_Skogskyrkog%C3%A5rden_skylt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1a, Skogskyrkogården skylt.jpg",
+   "author": "Holger.Ellgaard",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1a%2C_Skogskyrkog%C3%A5rden_skylt.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_01.jpg/1280px-2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2019-08-12 Skogskyrkogården, Stockholm 01.jpg",
+   "author": "Nemo bis",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_02.jpg/1280px-2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2019-08-12 Skogskyrkogården, Stockholm 02.jpg",
+   "author": "Nemo bis",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_03.jpg/1280px-2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2019-08-12 Skogskyrkogården, Stockholm 03.jpg",
+   "author": "Nemo bis",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_03.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/558",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 12.5,
   "distance_beijing_km": 6706.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Lumabryggan",
+    "name_en": null,
+    "lat": 59.3058155,
+    "lon": 18.0993318,
+    "distance_km": 3.4,
+    "operator": null
+   },
+   {
+    "name": "Barnängsbryggan",
+    "name_en": null,
+    "lat": 59.3080273,
+    "lon": 18.097532,
+    "distance_km": 3.6,
+    "operator": null
+   },
+   {
+    "name": "Henriksdal",
+    "name_en": null,
+    "lat": 59.309209,
+    "lon": 18.1012638,
+    "distance_km": 3.7,
+    "operator": null
+   },
+   {
+    "name": "Saltsjöqvarn",
+    "name_en": null,
+    "lat": 59.3151329,
+    "lon": 18.1103205,
+    "distance_km": 4.4,
+    "operator": null
+   },
+   {
+    "name": "Viking Line: Stadsgården, Stockholm",
+    "name_en": null,
+    "lat": 59.3161315,
+    "lon": 18.0990844,
+    "distance_km": 4.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Sickla",
+    "name_en": null,
+    "lat": 59.3068416,
+    "lon": 18.1210403,
+    "distance_km": 3.7,
+    "operator": null
+   },
+   {
+    "name": "Nacka",
+    "name_en": null,
+    "lat": 59.3065684,
+    "lon": 18.1305273,
+    "distance_km": 3.9,
+    "operator": null
+   },
+   {
+    "name": "Henriksdal",
+    "name_en": null,
+    "lat": 59.3121307,
+    "lon": 18.1084004,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "Farsta strand",
+    "name_en": null,
+    "lat": 59.2366383,
+    "lon": 18.1032864,
+    "distance_km": 4.3,
+    "operator": null
+   },
+   {
+    "name": "Saltsjö-Järla",
+    "name_en": null,
+    "lat": 59.3068619,
+    "lon": 18.1494507,
+    "distance_km": 4.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel Reisen",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Unbound Collection",
+   "lat": 59.325429,
+   "lon": 18.0749424,
+   "distance_km": 5.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Stockholm Slussen",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 59.3204755,
+   "lon": 18.0692448,
+   "distance_km": 5.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Story Hotel Riddargatan",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hyatt",
+   "lat": 59.3346624,
+   "lon": 18.0751811,
+   "distance_km": 6.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Haymarket",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Scandic Hotels",
+   "lat": 59.3346725,
+   "lon": 18.0615011,
+   "distance_km": 6.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kung Carl",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western",
+   "lat": 59.3364433,
+   "lon": 18.0713869,
+   "distance_km": 7.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SE",
   "country_zh": "瑞典",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:55Z"
+ "updated_at": "2026-11-08T16:45:52Z"
 }

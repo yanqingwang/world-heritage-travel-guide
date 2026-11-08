@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1594.jpg",
-   "title": "Jodrell Bank Observatory",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1594",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2-PAD%2C_Jodrell_Bank_Observatory.jpg/1280px-2-PAD%2C_Jodrell_Bank_Observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2-PAD, Jodrell Bank Observatory.jpg",
+   "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2-PAD%2C_Jodrell_Bank_Observatory.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_carved_owl_at_Jodrell_Bank_-_geograph.org.uk_-_1360257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A carved owl at Jodrell Bank - geograph.org.uk - 1360257.jpg",
+   "author": "Ian Greig",
+   "license": "CC BY-SA 2.0",
+   "credit": "From geograph.org.uk",
+   "source": "https://commons.wikimedia.org/wiki/File:A_carved_owl_at_Jodrell_Bank_-_geograph.org.uk_-_1360257.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.jpg/1280px-ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ALMA work at Jodrell Bank Observatory (almauk10-04).jpg",
+   "author": "ALMA (ESO/NAOJ/NRAO)",
+   "license": "CC BY 4.0",
+   "credit": "This media was produced by the European Southern Observatory (ESO), under the identifier almauk10-04 This tag does not indicate the copyright status of the atta",
+   "source": "https://commons.wikimedia.org/wiki/File:ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.tiff/lossy-page1-1280px-ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ALMA work at Jodrell Bank Observatory (almauk10-04).tiff",
+   "author": "ALMA (ESO/NAOJ/NRAO)",
+   "license": "CC BY 4.0",
+   "credit": "This media was produced by the European Southern Observatory (ESO), under the identifier almauk10-04 This tag does not indicate the copyright status of the atta",
+   "source": "https://commons.wikimedia.org/wiki/File:ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.tiff"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1594",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 12.7,
   "distance_beijing_km": 8092.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Manchester River Cruises Salford Quays",
+    "name_en": null,
+    "lat": 53.4700078,
+    "lon": -2.295218,
+    "distance_km": 26.0,
+    "operator": null
+   },
+   {
+    "name": "Manchester River Cruises Ralli Quay",
+    "name_en": null,
+    "lat": 53.4813215,
+    "lon": -2.2547709,
+    "distance_km": 27.5,
+    "operator": null
+   },
+   {
+    "name": "Ince Ferry",
+    "name_en": null,
+    "lat": 53.2893996,
+    "lon": -2.8254091,
+    "distance_km": 35.0,
+    "operator": null
+   },
+   {
+    "name": "Sandy Lane",
+    "name_en": null,
+    "lat": 53.1874843,
+    "lon": -2.8700717,
+    "distance_km": 37.9,
+    "operator": "Cheshire West and Chester Council"
+   },
+   {
+    "name": "The Meadows",
+    "name_en": null,
+    "lat": 53.1877148,
+    "lon": -2.8713181,
+    "distance_km": 38.0,
+    "operator": "Cheshire West and Chester Countil"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Goostrey",
+    "name_en": null,
+    "lat": 53.2225699,
+    "lon": -2.3263394,
+    "distance_km": 2.0,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Chelford",
+    "name_en": null,
+    "lat": 53.2704221,
+    "lon": -2.2804386,
+    "distance_km": 4.2,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Holmes Chapel",
+    "name_en": null,
+    "lat": 53.1992752,
+    "lon": -2.3511004,
+    "distance_km": 5.0,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Knutsford",
+    "name_en": null,
+    "lat": 53.3015965,
+    "lon": -2.3721765,
+    "distance_km": 8.5,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Plumley",
+    "name_en": null,
+    "lat": 53.2748823,
+    "lon": -2.4196724,
+    "distance_km": 8.6,
+    "operator": "Northern Trains"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "The Lowry Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 53.4832339,
+   "lon": -2.2506792,
+   "distance_km": 27.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.3662705,
+   "lon": -2.2703992,
+   "distance_km": 14.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Brooklands Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.4179246,
+   "lon": -2.3212868,
+   "distance_km": 20.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Stoke on Trent",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.0265881,
+   "lon": -2.1959627,
+   "distance_km": 24.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Manchester Emirates Old Trafford",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 53.4573326,
+   "lon": -2.286558,
+   "distance_km": 24.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GB",
   "country_zh": "英国",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:45Z"
 }

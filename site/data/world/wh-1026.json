@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1026.jpg",
-   "title": "Val d'Orcia",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1026",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/53026_Pienza%2C_Province_of_Siena%2C_Italy_-_panoramio_%2810%29.jpg/1280px-53026_Pienza%2C_Province_of_Siena%2C_Italy_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "53026 Pienza, Province of Siena, Italy - panoramio (10).jpg",
+   "author": "Marco Usan",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161028001807/http://www.panoramio.com/photo/103837967",
+   "source": "https://commons.wikimedia.org/wiki/File:53026_Pienza%2C_Province_of_Siena%2C_Italy_-_panoramio_%2810%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%281%29.jpg/1280px-53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "53040 Radicofani, Province of Siena, Italy - panoramio (1).jpg",
+   "author": "Marco Usan",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161029070420/http://www.panoramio.com/photo/103838683",
+   "source": "https://commons.wikimedia.org/wiki/File:53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%282%29.jpg/1280px-53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "53040 Radicofani, Province of Siena, Italy - panoramio (2).jpg",
+   "author": "Marco Usan",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161028160200/http://www.panoramio.com/photo/103838740",
+   "source": "https://commons.wikimedia.org/wiki/File:53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%282%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio.jpg/1280px-53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "53040 Radicofani, Province of Siena, Italy - panoramio.jpg",
+   "author": "Marco Usan",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161028162821/http://www.panoramio.com/photo/103838605",
+   "source": "https://commons.wikimedia.org/wiki/File:53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1026",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 78.3,
   "distance_beijing_km": 8039.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Castiglione del Lago",
+    "name_en": null,
+    "lat": 43.1233765,
+    "lon": 12.0570977,
+    "distance_km": 41.7,
+    "operator": null
+   },
+   {
+    "name": "Punta Navaccia",
+    "name_en": null,
+    "lat": 43.1906882,
+    "lon": 12.0799763,
+    "distance_km": 45.2,
+    "operator": "Umbriamobilità"
+   },
+   {
+    "name": "Isola Maggiore",
+    "name_en": null,
+    "lat": 43.1771979,
+    "lon": 12.0883227,
+    "distance_km": 45.4,
+    "operator": "Busitalia - Sita Nord S.r.l"
+   },
+   {
+    "name": "Isola Polvese",
+    "name_en": null,
+    "lat": 43.1145051,
+    "lon": 12.1429817,
+    "distance_km": 48.4,
+    "operator": null
+   },
+   {
+    "name": "Passignano",
+    "name_en": null,
+    "lat": 43.1830445,
+    "lon": 12.1359152,
+    "distance_km": 49.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Torrenieri-Montalcino",
+    "name_en": null,
+    "lat": 43.0866889,
+    "lon": 11.5522382,
+    "distance_km": 2.2,
+    "operator": null
+   },
+   {
+    "name": "Buonconvento",
+    "name_en": null,
+    "lat": 43.1355267,
+    "lon": 11.4835677,
+    "distance_km": 9.4,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Monte Amiata",
+    "name_en": null,
+    "lat": 42.9765577,
+    "lon": 11.5459689,
+    "distance_km": 10.0,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "San Giovanni d'Asso",
+    "name_en": null,
+    "lat": 43.153371,
+    "lon": 11.5937775,
+    "distance_km": 10.3,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Murlo",
+    "name_en": null,
+    "lat": 43.1141335,
+    "lon": 11.4004442,
+    "distance_km": 13.2,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "ADLER Thermae",
+   "name_en": null,
+   "stars": 5,
+   "brand": "ADLER Spa Resorts & Retreats",
+   "lat": 43.0296614,
+   "lon": 11.6236313,
+   "distance_km": 7.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Castello di Velona",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.9832257,
+   "lon": 11.5364387,
+   "distance_km": 9.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rosewood Castiglion del Bosco",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Rosewood",
+   "lat": 43.0838438,
+   "lon": 11.4219644,
+   "distance_km": 10.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Borgo Sant'Ambrogio",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.1169273,
+   "lon": 11.6831395,
+   "distance_km": 12.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Castello Banfi - Wine Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 42.9800952,
+   "lon": 11.3988892,
+   "distance_km": 15.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:58Z"
+ "updated_at": "2026-11-08T16:48:36Z"
 }

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_980.jpg",
-   "title": "Historic and Architectural Complex of the Kazan Kremlin",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/980",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/%2818.06.2006%29_-_panoramio_-_sergfokin_%285%29.jpg/1280px-%2818.06.2006%29_-_panoramio_-_sergfokin_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "(18.06.2006) - panoramio - sergfokin (5).jpg",
+   "author": "sergfokin",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161010191215/http://www.panoramio.com/photo/4327400",
+   "source": "https://commons.wikimedia.org/wiki/File:%2818.06.2006%29_-_panoramio_-_sergfokin_%285%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%2818.06.2006%29_-_panoramio_-_sergfokin_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "(18.06.2006) - panoramio - sergfokin (6).jpg",
+   "author": "sergfokin",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161011093446/http://www.panoramio.com/photo/4328202",
+   "source": "https://commons.wikimedia.org/wiki/File:%2818.06.2006%29_-_panoramio_-_sergfokin_%286%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/1_May_square_Kazan.JPG/1280px-1_May_square_Kazan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 May square Kazan.JPG",
+   "author": "Untifler",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1_May_square_Kazan.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/16_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg/1280px-16_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "16 Казанский кремль на закате Казань.jpg",
+   "author": "Алексей Задонский",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:16_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/980",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 23.8,
   "distance_beijing_km": 5084.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Центр семьи Казан",
+    "name_en": null,
+    "lat": 55.8125785,
+    "lon": 49.1103295,
+    "distance_km": 1.7,
+    "operator": null
+   },
+   {
+    "name": "Речной вокзал Казань",
+    "name_en": "River Station Kazan",
+    "lat": 55.7743901,
+    "lon": 49.0927854,
+    "distance_km": 2.7,
+    "operator": "АО \"Флот РТ\""
+   },
+   {
+    "name": "Казань",
+    "name_en": null,
+    "lat": 55.7735623,
+    "lon": 49.0903101,
+    "distance_km": 2.9,
+    "operator": null
+   },
+   {
+    "name": "Kasan",
+    "name_en": null,
+    "lat": 55.7553996,
+    "lon": 49.0713357,
+    "distance_km": 5.2,
+    "operator": null
+   },
+   {
+    "name": "Верхний Услон",
+    "name_en": null,
+    "lat": 55.7725195,
+    "lon": 48.9910855,
+    "distance_km": 7.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Казань-Пассажирская",
+    "name_en": "Kazan-Passazhirskaya",
+    "lat": 55.7886328,
+    "lon": 49.0997021,
+    "distance_km": 1.1,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Вахитово",
+    "name_en": "Vahitovo",
+    "lat": 55.7667786,
+    "lon": 49.1075501,
+    "distance_km": 3.4,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Ометьево",
+    "name_en": null,
+    "lat": 55.7773323,
+    "lon": 49.1681028,
+    "distance_km": 4.4,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Восстание-Пассажирская",
+    "name_en": null,
+    "lat": 55.8430534,
+    "lon": 49.0795717,
+    "distance_km": 5.4,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Лагерная",
+    "name_en": "Lagernaya",
+    "lat": 55.8012857,
+    "lon": 49.011757,
+    "distance_km": 6.0,
+    "operator": "ОАО «РЖД»"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Luciano Residence Kazan",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.786787,
+   "lon": 49.1163382,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Luciano",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7871085,
+   "lon": 49.1174693,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Noble Millennium Panorama",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.8117796,
+   "lon": 49.1323208,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kazan Palace by Tasigo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7827494,
+   "lon": 49.1374612,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Корстон",
+   "name_en": "Korston",
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7938389,
+   "lon": 49.1495475,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "RU",
   "country_zh": "俄罗斯",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:58Z"
+ "updated_at": "2026-11-08T16:48:29Z"
 }

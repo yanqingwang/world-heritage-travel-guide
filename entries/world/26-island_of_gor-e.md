@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vi)"
 lat: 14.666944444
 lon: -17.398333333
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:31Z"
 ---
 
 # 戈雷岛 / Island of Gorée
@@ -52,11 +52,25 @@ Au large des côtes du Sénégal, en face de Dakar, Gorée a été du XV e au XI
 - ✈ **Blaise Diagne International Airport (DSS)** — 35.0 km
 - ✈ **Banjul International Airport (BJL)** — 168.3 km
 - ✈ **Cap Skirring Airport (CSK)** — 262.2 km
+- 🚉 **Dakar** — 3.9 km
+- 🚉 **Colobane** — 6.0 km
+- 🚉 **Hann** — 7.1 km
+- 🚉 **Dalifort** — 7.8 km
+- 🚉 **Baux Maraîchers** — 8.1 km
+- ⛴ **Pont D** — 0.2 km
+- ⛴ **Goree-Dakar Ferry** — 0.3 km
+- ⛴ **Casamance;Dakar** — 3.5 km
+- ⛴ **Dakar** — 3.6 km
+- ⛴ **Port autonome de Dakar** — 3.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12271.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Rynsara Hotel** — 4.2 km — star — 4★
+- **Ngor Diarama** — 15.1 km — star — 4★
+- **Les Filaos** — 48.4 km — star — 4★
+- **Le lodge des Almadies** — 14.9 km — star — 3★
+- **Résidence Lat-Dior** — 50.0 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

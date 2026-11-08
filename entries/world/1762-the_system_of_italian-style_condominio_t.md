@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 42.776667256122444
 lon: 11.998449920510204
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:04Z"
 ---
 
 # 意大利式共管剧院体系 / The system of Italian-style condominio theatres of the 18th and 19th centuries in Central Italy

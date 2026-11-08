@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 49.207222222
 lon: 16.615833333
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:41Z"
 ---
 
 # 布尔诺的图根哈特别墅 / Tugendhat Villa in Brno
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *Villa Tugendhat, Brno.jpg · see Wikimedia Commons file page*
 
-![Tugendhat Villa in Brno](https://whc.unesco.org/uploads/sites/site_1052.jpg)
+![Brno, Černá Pole, Černopolní, vila Tugendhat (01).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Brno%2C_%C4%8Cern%C3%A1_Pole%2C_%C4%8Cernopoln%C3%AD%2C_vila_Tugendhat_%2801%29.jpg/1280px-Brno%2C_%C4%8Cern%C3%A1_Pole%2C_%C4%8Cernopoln%C3%AD%2C_vila_Tugendhat_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tugendhat Villa in Brno · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Brno, Černá Pole, Černopolní, vila Tugendhat (01).jpg · Harold · CC BY-SA 3.0*
+
+![131027 Tugendhat Brno - luminografie 0142 a.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/131027_Tugendhat_Brno_-_luminografie_0142_a.jpg/1280px-131027_Tugendhat_Brno_-_luminografie_0142_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*131027 Tugendhat Brno - luminografie 0142 a.jpg · Vít Švajcr , Dobré světlo.com · CC BY-SA 4.0*
+
+![131027 Tugendhat Brno - luminografie 0571.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/131027_Tugendhat_Brno_-_luminografie_0571.jpg/1280px-131027_Tugendhat_Brno_-_luminografie_0571.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*131027 Tugendhat Brno - luminografie 0571.jpg · Vít Švajcr , Dobré světlo.com · CC BY-SA 4.0*
+
+![131027 Vila Tugendhat Brno 0205 with no FoP.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/131027_Vila_Tugendhat_Brno_0205_with_no_FoP.jpg/1280px-131027_Vila_Tugendhat_Brno_0205_with_no_FoP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*131027 Vila Tugendhat Brno 0205 with no FoP.jpg · 131027 Vila Tugendhat Brno 0205.jpg : Vít Švajcr , Dobré světlo.com derivative work: Marek Blahuš · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Vila Tugendhat v Brně je ojedinělým projevem funkcionalistického a internaci
 - ✈ **Brno-Tuřany Airport (BRQ)** — 8.4 km
 - ✈ **Pardubice Airport (PED)** — 109.8 km
 - ✈ **Leoš Janáček Airport Ostrava (OSR)** — 121.0 km
+- 🚉 **Brno-Židenice** — 1.6 km
+- 🚉 **Brno hlavní nádraží** — 1.8 km
+- 🚉 **Brno dolní nádraží** — 2.8 km
+- 🚉 **Brno-Královo Pole** — 3.0 km
+- 🚉 **Brno-Horní Heršpice** — 4.5 km
+- ⛴ **Bystrc** — 7.7 km
+- ⛴ **Kozí horka** — 8.4 km
+- ⛴ **Sokolské koupaliště** — 8.9 km
+- ⛴ **U kotvy** — 9.1 km
+- ⛴ **Rokle** — 10.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7378.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Grand Palace Brno** — 1.8 km — star — 5★
+- **Forest Resort** — 44.7 km — star — 5★
+- **Arte** — 0.3 km — star — 4★
+- **Cosmopolitan Bobycentrum** — 0.8 km — star — 4★
+- **Avanti** — 1.0 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

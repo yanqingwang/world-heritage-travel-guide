@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_284.jpg",
-   "title": "Chitwan National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/284",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chitwan-NP%2Bbufferzone-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Chitwan-NP+bufferzone-map.jpg",
+   "author": "BhagyaMani",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Chitwan-NP%2Bbufferzone-map.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LocMap_Chitwan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "LocMap Chitwan.png",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:LocMap_Chitwan.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2009-03_Chitwan_01.jpg/1280px-2009-03_Chitwan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2009-03 Chitwan 01.jpg",
+   "author": "Ralf Lotys (Sicherlich)",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-03_Chitwan_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/2016-04-03_Chitwan_National_Park%2C_Nepal._5827.jpg/1280px-2016-04-03_Chitwan_National_Park%2C_Nepal._5827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2016-04-03 Chitwan National Park, Nepal. 5827.jpg",
+   "author": "You may re-use this image under the terms of the license using the following reference: Image: Wikipedia / Tobias Klenze",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2016-04-03_Chitwan_National_Park%2C_Nepal._5827.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/284",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 22.0,
   "distance_beijing_km": 3249.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Gaunaha",
+    "name_en": "Gaunaha",
+    "lat": 27.2898921,
+    "lon": 84.5189059,
+    "distance_km": 29.7,
+    "operator": "ECR"
+   },
+   {
+    "name": "Bhitiharwa Ashram",
+    "name_en": "Bhitiharwa Ashram",
+    "lat": 27.2445096,
+    "lon": 84.4839728,
+    "distance_km": 32.1,
+    "operator": "ECR"
+   },
+   {
+    "name": "Bhikhna Thori",
+    "name_en": "Bhikhna Thori",
+    "lat": 27.3331208,
+    "lon": 84.6144484,
+    "distance_km": 33.4,
+    "operator": "ECR"
+   },
+   {
+    "name": "Amolwa",
+    "name_en": "Amolwa",
+    "lat": 27.2118399,
+    "lon": 84.4779485,
+    "distance_km": 35.1,
+    "operator": "ECR"
+   },
+   {
+    "name": "Harinagar",
+    "name_en": "Harinagar",
+    "lat": 27.1562642,
+    "lon": 84.3243143,
+    "distance_km": 38.2,
+    "operator": "ECR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Jungle Villa Resort",
+   "name_en": "Jungle Villa Resort",
+   "stars": 4,
+   "brand": null,
+   "lat": 27.5594424,
+   "lon": 84.3380988,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel River Crown",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 27.7025491,
+   "lon": 84.4197303,
+   "distance_km": 24.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Landmark forest park",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 27.5876832,
+   "lon": 84.4843642,
+   "distance_km": 17.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Elephant Camp & Korean Restaurant",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 27.5768524,
+   "lon": 84.4956573,
+   "distance_km": 18.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bandipur chhen",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 27.9374487,
+   "lon": 84.4060149,
+   "distance_km": 49.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NP",
   "country_zh": "尼泊尔",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:44:21Z"
 }

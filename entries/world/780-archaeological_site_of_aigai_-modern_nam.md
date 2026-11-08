@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(iii)"
 lat: 40.4779658
 lon: 22.3227596
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:55Z"
 ---
 
 # 韦尔吉纳的考古遗址 / Archaeological Site of Aigai (modern name Vergina)
@@ -26,6 +26,10 @@ updated_at: "2026-11-08T16:06:56Z"
 ![Ајга (Кутлеш) 02.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%98%D0%B3%D0%B0%20%28%D0%9A%D1%83%D1%82%D0%BB%D0%B5%D1%88%29%2002.jpg?width=1280)
 
 *Ајга (Кутлеш) 02.jpg · see Wikimedia Commons file page*
+
+![PlanC.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/PlanC.jpg/1280px-PlanC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*PlanC.jpg · Léon Heuzey, Honoré Daumet · Public domain*
 
 ![Archaeological Site of Aigai (modern name Vergina)](https://whc.unesco.org/uploads/sites/site_780.jpg)
 
@@ -46,11 +50,22 @@ The city of Aigai, the ancient first capital of the Kingdom of Macedonia, was di
 - ✈ **Kozani National Airport Filippos (KZI)** — 46.1 km
 - ✈ **Thessaloniki Macedonia International Airport (SKG)** — 54.9 km
 - ✈ **Kastoria National Airport Aristotle (KSO)** — 88.1 km
+- 🚉 **Ξεχασμένη Ημαθίας** — 9.6 km
+- 🚉 **Βέροια** — 11.5 km
+- 🚉 **Αλεξάνδρεια** — 18.7 km
+- 🚉 **Αιγίνιο** — 19.5 km
+- 🚉 **Νάουσα** — 22.6 km
+- ⛴ **Επανομή** — 49.0 km
+- ⛴ **Καραβάκια Θεσσαλονίκη - Στάση Νέοι Επιβάτες** — 49.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7606.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Cavo Olympo** — 45.9 km — star — 5★
+- **Ερμιόνιο** — 49.4 km — star — 5★
+- **Μακεδονία** — 11.0 km — star — Makedonia · 4★
+- **Kornilios Hotel** — 34.9 km — star — 4★
+- **Sun Beach** — 47.3 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

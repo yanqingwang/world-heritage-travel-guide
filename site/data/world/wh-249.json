@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_249.jpg",
-   "title": "Group of Monuments at Mahabalipuram",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/249",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/195_cartes_postales_d%27Inde%2C_Birmanie%2C_Indochine_vers_1906%2C_don_Collin_de_Plancy_en_1928_-_btv1b53216123p_%28069_of_382%29.jpg/1280px-195_cartes_postales_d%27Inde%2C_Birmanie%2C_Indochine_vers_1906%2C_don_Collin_de_Plancy_en_1928_-_btv1b53216123p_%28069_of_382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "195 cartes postales d'Inde, Birmanie, Indochine vers 1906, don Collin de Plancy en 1928 - btv1b53216123p (069 of 382).jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "Bibliothèque nationale de France",
+   "source": "https://commons.wikimedia.org/wiki/File:195_cartes_postales_d%27Inde%2C_Birmanie%2C_Indochine_vers_1906%2C_don_Collin_de_Plancy_en_1928_-_btv1b53216123p_%28069_of_382%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Arjuna%27s_Penance_at_Mamallapuram.jpg/1280px-Arjuna%27s_Penance_at_Mamallapuram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arjuna's Penance at Mamallapuram.jpg",
+   "author": "Preeti Prajapati",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arjuna%27s_Penance_at_Mamallapuram.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Beauty_of_Pacharadha_%28Descent_of_the_Ganges%29.jpg/1280px-Beauty_of_Pacharadha_%28Descent_of_the_Ganges%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Beauty of Pacharadha (Descent of the Ganges).jpg",
+   "author": "Sangeetha Kalaivanan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Beauty_of_Pacharadha_%28Descent_of_the_Ganges%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Brown-18060_0144.jpg/1280px-Brown-18060_0144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Brown-18060 0144.jpg",
+   "author": "Percy Brown (1872–1955)",
+   "license": "Public domain",
+   "credit": "Brown, Percy. Indian Architecture: Buddhist and Hindu Periods. Bombay: D.B. Taraporevala Sons, 1959. https://archive.org/details/in.gov.ignca.18060 .",
+   "source": "https://commons.wikimedia.org/wiki/File:Brown-18060_0144.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/249",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 41.6,
   "distance_beijing_km": 4655.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Otivakkam",
+    "name_en": null,
+    "lat": 12.6227255,
+    "lon": 79.9752623,
+    "distance_km": 23.5,
+    "operator": "SR"
+   },
+   {
+    "name": "Chengalpatttu Junction",
+    "name_en": null,
+    "lat": 12.6934653,
+    "lon": 79.9805157,
+    "distance_km": 24.4,
+    "operator": "SR"
+   },
+   {
+    "name": "Singaperumal Koil",
+    "name_en": null,
+    "lat": 12.7619226,
+    "lon": 80.0007799,
+    "distance_km": 26.3,
+    "operator": "SR"
+   },
+   {
+    "name": "Kattangulathur",
+    "name_en": null,
+    "lat": 12.8055581,
+    "lon": 80.0266339,
+    "distance_km": 27.6,
+    "operator": "SR"
+   },
+   {
+    "name": "Guduvancheri",
+    "name_en": null,
+    "lat": 12.8452303,
+    "lon": 80.0576503,
+    "distance_km": 29.3,
+    "operator": "SR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Taj Fisherman's Cove",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 12.7979784,
+   "lon": 80.2481423,
+   "distance_km": 21.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Welcomhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "ITC Hotels",
+   "lat": 12.7647019,
+   "lon": 80.0058986,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Turyaa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 12.973365,
+   "lon": 80.2510485,
+   "distance_km": 40.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Chennai",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 13.016676,
+   "lon": 80.2047663,
+   "distance_km": 44.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "GRT Grand Days",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 13.040212,
+   "lon": 80.2450962,
+   "distance_km": 47.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:44:05Z"
 }

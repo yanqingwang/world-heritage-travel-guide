@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(v)"
 lat: 15.877669444
 lon: 108.33265
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:21Z"
 ---
 
 # 会安古镇 / Hoi An Ancient Town
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *Hội An, Ancient Town, 2020-01 CN-06.jpg · see Wikimedia Commons file page*
 
-![Hoi An Ancient Town](https://whc.unesco.org/uploads/sites/site_948.jpg)
+![-i---i- (39312478014).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/-i---i-_%2839312478014%29.jpg/1280px--i---i-_%2839312478014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hoi An Ancient Town · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*-i---i- (39312478014).jpg · Vinnie Cartabiano · CC BY 2.0*
+
+![10562-Hoi-An (37621351830).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/10562-Hoi-An_%2837621351830%29.jpg/1280px-10562-Hoi-An_%2837621351830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10562-Hoi-An (37621351830).jpg · xiquinhosilva · CC BY 2.0*
+
+![10654-Hoi-An (42438247002).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/10654-Hoi-An_%2842438247002%29.jpg/1280px-10654-Hoi-An_%2842438247002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10654-Hoi-An (42438247002).jpg · xiquinhosilva · CC BY 2.0*
+
+![10678-Hoi-An (41587070385).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/10678-Hoi-An_%2841587070385%29.jpg/1280px-10678-Hoi-An_%2841587070385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10678-Hoi-An (41587070385).jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Hội An là một thành phố ven biển cũ thuộc tỉnh Quảng Nam cũ, V
 - ✈ **Da Nang International Airport (DAD)** — 23.4 km
 - ✈ **Chu Lai Airport (VCL)** — 66.2 km
 - ✈ **Phu Bai International Airport (HUI)** — 88.8 km
+- 🚉 **Trà Kiệu** — 13.2 km
+- 🚉 **Nông Sơn** — 15.6 km
+- 🚉 **Lệ Trạch** — 19.0 km
+- 🚉 **Phú Cang** — 19.2 km
+- 🚉 **Đà Nẵng** — 25.3 km
+- ⛴ **Basket Boat Station** — 3.0 km
+- ⛴ **Cửa Đại** — 6.0 km
+- ⛴ **Dragon Ship Han River** — 23.4 km
+- ⛴ **River Cruise Boats** — 25.2 km
+- ⛴ **Cảng Tiên Sa** — 29.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2793.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Palm Garden Resort** — 3.8 km — star — 5★
+- **NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton** — 4.0 km — star — 5★ · Tapestry Collection by Hilton
+- **Four Seasons Resort** — 6.0 km — star — 5★ · Four Seasons
+- **Furama Villas** — 19.7 km — star — 5★
+- **Furama Resort** — 20.0 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

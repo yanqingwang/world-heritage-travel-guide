@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(v)"
 lat: -18.480596
 lon: -70.321114
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:54Z"
 ---
 
 # 阿里卡和帕里纳科塔地区的新克罗文化聚落及木乃伊制作 / Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region
@@ -23,9 +23,25 @@ updated_at: "2026-11-08T16:07:02Z"
 
 ## 图片 / Images
 
-![Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region](https://whc.unesco.org/uploads/sites/site_1634.jpg)
+![Momias Chichorro de Arica 10 mil años de antigüedad.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Momias_Chichorro_de_Arica_10_mil_a%C3%B1os_de_antig%C3%BCedad.jpg/1280px-Momias_Chichorro_de_Arica_10_mil_a%C3%B1os_de_antig%C3%BCedad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Momias Chichorro de Arica 10 mil años de antigüedad.jpg · Zorka Ostojic Espinoza · CC BY 2.0*
+
+![Caleta Camarones, Comuna de Camarones, Region de Arica y Parinacota, Chile 01.JPG](https://upload.wikimedia.org/wikipedia/commons/c/c0/Caleta_Camarones%2C_Comuna_de_Camarones%2C_Region_de_Arica_y_Parinacota%2C_Chile_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Caleta Camarones, Comuna de Camarones, Region de Arica y Parinacota, Chile 01.JPG · Yastay · CC BY-SA 4.0*
+
+![Chinchorro mummy bodies Arica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chinchorro_mummy_bodies_Arica.jpg/1280px-Chinchorro_mummy_bodies_Arica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chinchorro mummy bodies Arica.jpg · Zorka Ostojic Espinoza · CC BY 2.0*
+
+![Chinchorro mummy find Arica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Chinchorro_mummy_find_Arica.jpg/1280px-Chinchorro_mummy_find_Arica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chinchorro mummy find Arica.jpg · Zorka Ostojic Espinoza · CC BY 2.0*
+
+![Chinchorro mummy heads Arica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Chinchorro_mummy_heads_Arica.jpg/1280px-Chinchorro_mummy_heads_Arica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chinchorro mummy heads Arica.jpg · Zorka Ostojic Espinoza · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -48,11 +64,20 @@ El sitio consta de tres componentes: Faldeo Norte del Morro de Arica, Colón 10,
 - ✈ **Chacalluta International Airport (ARI)** — 14.8 km
 - ✈ **Coronel FAP Carlos Ciriani Santa Rosa International Airport (TCQ)** — 47.8 km
 - ✈ **General Jorge Fernandez Maldon Airport (ILQ)** — 139.0 km
+- 🚉 **Arica (FCALP)** — 0.7 km
+- 🚉 **Arica (FTA)** — 0.9 km
+- 🚉 **Chinchorro** — 2.8 km
+- 🚉 **Rosario** — 21.1 km
+- 🚉 **Poconchile** — 27.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17509.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Le Petit Clos** — 0.1 km — hotel
+- **Hotel Savona** — 0.1 km — hotel
+- **Yungay** — 0.2 km — hotel
+- **Sotomayor** — 0.2 km — hotel
+- **Plaza Colón** — 0.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

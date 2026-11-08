@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iii)(v)(vi)"
 lat: 35.683333333
 lon: 10.1
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:45Z"
 ---
 
 # 凯鲁万 / Kairouan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *View of Kairouan from the Minaret of the Great Mosque - Tunisia - 1899.jpg · see Wikimedia Commons file page*
 
-![Kairouan](https://whc.unesco.org/uploads/sites/site_499.jpg)
+![9erouen.wav](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Kairouan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*9erouen.wav · Tounsimentounes · CC BY-SA 3.0*
+
+![Bab-Souk-es-Sekkajine 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Bab-Souk-es-Sekkajine_01.jpg/1280px-Bab-Souk-es-Sekkajine_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bab-Souk-es-Sekkajine 01.jpg · Besi33 · CC BY-SA 4.0*
+
+![Bab-Souk-es-Sekkajine 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bab-Souk-es-Sekkajine_02.jpg/1280px-Bab-Souk-es-Sekkajine_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bab-Souk-es-Sekkajine 02.jpg · Besi33 · CC BY-SA 4.0*
+
+![Bab-Souk-es-Sekkajine 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Bab-Souk-es-Sekkajine_03.jpg/1280px-Bab-Souk-es-Sekkajine_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bab-Souk-es-Sekkajine 03.jpg · Besi33 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Founded in 670, Kairouan flourished under the Aghlabid dynasty in the 9th centur
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 53.2 km
 - ✈ **Monastir Habib Bourguiba International Airport (MIR)** — 59.7 km
 - ✈ **Sfax Thyna International Airport (SFA)** — 120.0 km
+- 🚉 **منزل المحطة** — 44.1 km
+- 🚉 **سوسة بضائع** — 44.3 km
+- 🚉 **القلعة الصغرى** — 45.3 km
+- 🚉 **مساكن** — 45.4 km
+- 🚉 **القلعة الكبرى** — 45.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8678.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فندق القصبة** — 0.4 km — star — Hotel La Kasbah · 5★ · غولدن ياسمين
+- **Royal Kenz Hotel Thalasso & Spa** — 50.0 km — star — 4★ · Magic Life
+- **فندق كنتيننتال** — 0.3 km — star — Hotel Continental · 3★
+- **Hotel La Kasbah** — 0.4 km — hotel
+- **Dar Hassine Allani** — 0.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iii)"
 lat: 26.791667
 lon: 37.952778
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:53Z"
 ---
 
 # 瑪甸沙勒 / Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)
@@ -23,9 +23,25 @@ updated_at: "2026-11-08T16:07:00Z"
 
 ## 图片 / Images
 
-![Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)](https://whc.unesco.org/uploads/sites/site_1293.jpg)
+!["Summer Untold" Campaign Launched, AlUla (2024).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%22Summer_Untold%22_Campaign_Launched%2C_AlUla_%282024%29.jpg/1280px-%22Summer_Untold%22_Campaign_Launched%2C_AlUla_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Summer Untold" Campaign Launched, AlUla (2024).jpg · Saudi Press Agency (SPA) · CC BY-SA 4.0*
+
+![20141006 143132 resized.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/20141006_143132_resized.jpg/1280px-20141006_143132_resized.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20141006 143132 resized.jpg · Franksuresh · CC0*
+
+![27, Hegra (Mada'in Salih), Saudi Arabia - 53533896632.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53533896632.jpg/1280px-27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53533896632.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*27, Hegra (Mada'in Salih), Saudi Arabia - 53533896632.jpg · Following Hadrian · CC BY-SA 2.0*
+
+![27, Hegra (Mada'in Salih), Saudi Arabia - 53534782361.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534782361.jpg/1280px-27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534782361.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*27, Hegra (Mada'in Salih), Saudi Arabia - 53534782361.jpg · Following Hadrian · CC BY-SA 2.0*
+
+![27, Hegra (Mada'in Salih), Saudi Arabia - 53534960013.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534960013.jpg/1280px-27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534960013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*27, Hegra (Mada'in Salih), Saudi Arabia - 53534960013.jpg · Following Hadrian · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -48,11 +64,19 @@ The Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ) is the first Wo
 - ✈ **Al-Ula International Airport (ULH)** — 37.9 km
 - ✈ **Red Sea International Airport (RSI)** — 155.5 km
 - ✈ **Al Wajh Domestic Airport (EJH)** — 161.0 km
+- 🚉 **Mada'in Saleh** — 1.7 km
+- 🚉 **المزحم** — 15.0 km
+- 🚉 **أبو طاقة** — 24.8 km
+- 🚉 **المطلع** — 41.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7217.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Al-Ula Arac Hotel** — 14.6 km — star — 2★
+- **Al Madal Hotel** — 20.2 km — star — 2★
+- **Habitas** — 10.4 km — hotel — Habitas
+- **Diamond Hotel** — 13.9 km — hotel — Diamond Hotel
+- **Madain Saleh Hotel** — 18.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

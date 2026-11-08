@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1222.jpg",
-   "title": "Bisotun",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1222",
-   "provider": "unesco"
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Behistun-Inschrift.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Behistun-Inschrift.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/39_Bistoun.jpg/1280px-39_Bistoun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "39 Bistoun.jpg",
+   "author": "ArminAmirian",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:39_Bistoun.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/6403._Bas_Relief_Carving_%281348526553%29.jpg/1280px-6403._Bas_Relief_Carving_%281348526553%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "6403. Bas Relief Carving (1348526553).jpg",
+   "author": "Ensie & Matthias from San Diego, California, USA",
+   "license": "CC BY-SA 2.0",
+   "credit": "6403. Bas Relief Carving",
+   "source": "https://commons.wikimedia.org/wiki/File:6403._Bas_Relief_Carving_%281348526553%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/6405.JasperMatthias.Climbing_%281348530819%29.jpg/1280px-6405.JasperMatthias.Climbing_%281348530819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "6405.JasperMatthias.Climbing (1348530819).jpg",
+   "author": "Ensie & Matthias from San Diego, California, USA",
+   "license": "CC BY-SA 2.0",
+   "credit": "6405.JasperMatthias.Climbing",
+   "source": "https://commons.wikimedia.org/wiki/File:6405.JasperMatthias.Climbing_%281348530819%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1222",
@@ -98,9 +122,82 @@
   "nearest_airport_km": 26.0,
   "distance_beijing_km": 6024.5,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "بیستون",
+    "name_en": "Bisotun",
+    "lat": 34.3754445,
+    "lon": 47.5112772,
+    "distance_km": 7.1,
+    "operator": null
+   },
+   {
+    "name": "ایستگاه راه آهن کرمانشاه",
+    "name_en": "Kermanshah",
+    "lat": 34.3384021,
+    "lon": 47.1320155,
+    "distance_km": 28.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "هتل آزادگان",
+   "name_en": "Azadegan Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 34.371757,
+   "lon": 47.1109043,
+   "distance_km": 29.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل لاله بیستون",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.3844517,
+   "lon": 47.4346154,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل جمشید",
+   "name_en": "Hotel Jamshid",
+   "stars": null,
+   "brand": null,
+   "lat": 34.384975,
+   "lon": 47.1315437,
+   "distance_km": 27.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parsian Hotel Kermanshah",
+   "name_en": "Parsian Hotel Kermanshah",
+   "stars": null,
+   "brand": null,
+   "lat": 34.3584253,
+   "lon": 47.1143628,
+   "distance_km": 29.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارسیان کرمانشاه",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.3583541,
+   "lon": 47.1144512,
+   "distance_km": 29.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -158,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:49:44Z"
 }

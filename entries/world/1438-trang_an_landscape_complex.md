@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(v)(vii)(viii)"
 lat: 20.2557
 lon: 105.9156
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:08Z"
 ---
 
 # 长安名胜群 / Trang An Landscape Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:01Z"
 
 *Trang An Scenic Landscape Complex, northern Vietnam (354) (38540830421).jpg · see Wikimedia Commons file page*
 
-![Trang An Landscape Complex](https://whc.unesco.org/uploads/sites/site_1438.jpg)
+![BBQ bên hồ bơi - Thung Nham Resort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/BBQ_b%C3%AAn_h%E1%BB%93_b%C6%A1i_-_Thung_Nham_Resort.jpg/1280px-BBQ_b%C3%AAn_h%E1%BB%93_b%C6%A1i_-_Thung_Nham_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Trang An Landscape Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*BBQ bên hồ bơi - Thung Nham Resort.jpg · Ruanyancang · CC BY-SA 4.0*
+
+![Bên trong Động Vái Giời.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/B%C3%AAn_trong_%C4%90%E1%BB%99ng_V%C3%A1i_Gi%E1%BB%9Di.jpg/1280px-B%C3%AAn_trong_%C4%90%E1%BB%99ng_V%C3%A1i_Gi%E1%BB%9Di.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bên trong Động Vái Giời.jpg · Yenthuong225 · CC BY-SA 4.0*
+
+![Chiếc máy ủi công thần của Thụng Nham.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Chi%E1%BA%BFc_m%C3%A1y_%E1%BB%A7i_c%C3%B4ng_th%E1%BA%A7n_c%E1%BB%A7a_Th%E1%BB%A5ng_Nham.jpg/1280px-Chi%E1%BA%BFc_m%C3%A1y_%E1%BB%A7i_c%C3%B4ng_th%E1%BA%A7n_c%E1%BB%A7a_Th%E1%BB%A5ng_Nham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chiếc máy ủi công thần của Thụng Nham.jpg · Ruanyancang · CC BY-SA 4.0*
+
+![Cụm tâm linh chiêm bái Thung Nham.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/C%E1%BB%A5m_t%C3%A2m_linh_chi%C3%AAm_b%C3%A1i_Thung_Nham.jpg/1280px-C%E1%BB%A5m_t%C3%A2m_linh_chi%C3%AAm_b%C3%A1i_Thung_Nham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cụm tâm linh chiêm bái Thung Nham.jpg · Yenthuong225 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Quần thể danh thắng Tràng An là một vùng du lịch tổng hợp gồm
 - ✈ **Tho Xuan Airport (THD)** — 61.1 km
 - ✈ **Cat Bi International Airport (HPH)** — 104.8 km
 - ✈ **Noi Bai International Airport (HAN)** — 108.0 km
+- 🚉 **Ninh Bình** — 6.3 km
+- 🚉 **Cầu Yên** — 7.8 km
+- 🚉 **Ghềnh** — 9.9 km
+- 🚉 **Cát Đằng** — 12.3 km
+- 🚉 **Đồng Giao** — 13.9 km
+- ⛴ **Trang An Boat Tours Finish** — 0.4 km
+- ⛴ **Route 1 Temple Stop** — 1.8 km
+- ⛴ **Phà Đống Cao** — 20.7 km
+- ⛴ **Bến Phà Đò Mười** — 29.0 km
+- ⛴ **Ferry Crossing - 7,000₫. One way. Feb.2018** — 30.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2481.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ninh Binh Legend Hotel** — 5.0 km — star — 4★
+- **Tru by Hilton Nam Dinh City Centre** — 33.1 km — star — 4★ · Tru by Hilton
+- **Hoalu Ecolodge Homestay** — 1.3 km — star — 3★
+- **Quang Dũng Hotel** — 6.3 km — star — 3★
+- **Thế Vĩnh Hotel** — 5.9 km — star — 2★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

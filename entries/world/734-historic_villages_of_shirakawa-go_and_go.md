@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)(v)"
 lat: 36.25694444
 lon: 136.90638889
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:48Z"
 ---
 
 # 白川乡和五屹山历史村落 / Historic Villages of Shirakawa-go and Gokayama
@@ -26,6 +26,18 @@ updated_at: "2026-11-08T16:06:56Z"
 ![Ogi Shirakawa-gō, Gifu, Japan.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Ogi%20Shirakawa-g%C5%8D%2C%20Gifu%2C%20Japan.jpg?width=1280)
 
 *Ogi Shirakawa-gō, Gifu, Japan.jpg · see Wikimedia Commons file page*
+
+![Gokayama - Shirakawgo World Heritage Bus.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Gokayama_-_Shirakawgo_World_Heritage_Bus.jpg/1280px-Gokayama_-_Shirakawgo_World_Heritage_Bus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gokayama - Shirakawgo World Heritage Bus.jpg · Indiana jo · CC BY-SA 4.0*
+
+![LocMap of WH Shirakawa and Gokayama ja.png](https://upload.wikimedia.org/wikipedia/commons/9/94/LocMap_of_WH_Shirakawa_and_Gokayama_ja.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Shirakawa and Gokayama ja.png · Crop/edit: Uploader Original: See template below. · CC BY-SA 3.0*
+
+![LocMap of WH Shirakawa and Gokayama.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/LocMap_of_WH_Shirakawa_and_Gokayama.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Shirakawa and Gokayama.png · The original uploader was 光合成 at Chinese Wikipedia . · CC BY-SA 3.0*
 
 ![Historic Villages of Shirakawa-go and Gokayama](https://whc.unesco.org/uploads/sites/site_734.jpg)
 
@@ -52,11 +64,20 @@ Located in a mountainous region that was cut off from the rest of the world for 
 - ✈ **Komatsu Airport / JASDF Komatsu Air Base (KMQ)** — 47.3 km
 - ✈ **Toyama Kitokito Airport (TOY)** — 50.3 km
 - ✈ **Shinshu-Matsumoto Airport (MMJ)** — 91.8 km
+- 🚉 **角川** — 19.2 km
+- 🚉 **飛驒細江** — 21.5 km
+- 🚉 **坂上** — 22.5 km
+- 🚉 **杉崎** — 23.5 km
+- 🚉 **飛驒古川** — 25.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1775.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Takayama Green** — 33.3 km — star — Takayama Green · 4★
+- **Hida Plaza** — 33.4 km — star — 4★
+- **hotel around TAKAYAMA** — 33.4 km — star — 4★ · Ascend
+- **ホテルフォルツァ金沢** — 41.7 km — star — Hotel Forza Kanazawa · 4★
+- **レジデンスホテル 高山駅前** — 33.5 km — star — Residence Hotel Takayama Station · 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

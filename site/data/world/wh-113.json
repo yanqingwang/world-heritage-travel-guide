@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_113.jpg",
-   "title": "Tchogha Zanbil",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/113",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Chonga_zenvil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Chonga zenvil.jpg",
+   "author": "de:User:Beademung , original map by de:User:Captain Blood",
+   "license": "CC BY-SA 3.0",
+   "credit": "german wikipedia ; own work based on de:Image:Iran topo.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Chonga_zenvil.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Chogha_Zanbil%2C_Ziggurat_%28model%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Chogha Zanbil, Ziggurat (model).jpg",
+   "author": "Jona Lendering",
+   "license": "CC0",
+   "credit": "Livius.org Image provided under CCO (notice under photograph)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil%2C_Ziggurat_%28model%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Dor_ontash_map_cor.jpg/1280px-Dor_ontash_map_cor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dor ontash map cor.jpg",
+   "author": "Own work based on: Dor ontash map.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Iran Cultural Heritage Organization (ICHO)",
+   "source": "https://commons.wikimedia.org/wiki/File:Dor_ontash_map_cor.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Dor_ontash_map.jpg/1280px-Dor_ontash_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dor ontash map.jpg",
+   "author": "Iran Cultural Heritage Organization (ICHO) (as publisher)",
+   "license": "CC BY-SA 3.0",
+   "credit": "Iran Cultural Heritage Organization (ICHO)",
+   "source": "https://commons.wikimedia.org/wiki/File:Dor_ontash_map.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/113",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 48.8,
   "distance_beijing_km": 6024.2,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "میان آباد",
+    "name_en": "Miyanab",
+    "lat": 31.9697273,
+    "lon": 48.4473277,
+    "distance_km": 8.2,
+    "operator": null
+   },
+   {
+    "name": "آهودشت",
+    "name_en": "Ahu Dasht",
+    "lat": 31.8738255,
+    "lon": 48.5607557,
+    "distance_km": 15.4,
+    "operator": null
+   },
+   {
+    "name": "هفت تپه",
+    "name_en": "Haft Tappeh",
+    "lat": 32.0739548,
+    "lon": 48.3377009,
+    "distance_km": 18.7,
+    "operator": null
+   },
+   {
+    "name": "شوشتر",
+    "name_en": "Shushtar",
+    "lat": 32.0519679,
+    "lon": 48.829711,
+    "distance_km": 29.5,
+    "operator": null
+   },
+   {
+    "name": "شوش",
+    "name_en": "Shush",
+    "lat": 32.2050878,
+    "lon": 48.2898691,
+    "distance_km": 30.9,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "هتل سنتی سرابی شوشتر",
+   "name_en": "Shushtar Sarabi Traditional hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 32.043251,
+   "lon": 48.8553581,
+   "distance_km": 31.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل گرگر",
+   "name_en": "Gargar Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.068091,
+   "lon": 48.8454124,
+   "distance_km": 31.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل طبیب",
+   "name_en": "Tabib Traditional Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.0436618,
+   "lon": 48.8513747,
+   "distance_km": 31.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل سنتی خانه افضل",
+   "name_en": null,
+   "stars": null,
+   "brand": "Afzal House Traditional Hotel",
+   "lat": 32.0438151,
+   "lon": 48.8515692,
+   "distance_km": 31.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل سنتی عمارت پدری(جامعی)",
+   "name_en": "traditional hotel emarat pedari(jameei)",
+   "stars": null,
+   "brand": null,
+   "lat": 32.0439137,
+   "lon": 48.854948,
+   "distance_km": 31.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:47Z"
 }

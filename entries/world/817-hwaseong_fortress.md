@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)"
 lat: 37.280733333
 lon: 127.010202777
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:00Z"
 ---
 
 # 华松古堡 / Hwaseong Fortress
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Hwaseong Fortress, Suwon, Gyeonggi-do, Republic of Korea (2).jpg · see Wikimedia Commons file page*
 
-![Hwaseong Fortress](https://whc.unesco.org/uploads/sites/site_817.jpg)
+![Pleasure-house on the wall of Su-wun.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Pleasure-house_on_the_wall_of_Su-wun.jpg/1280px-Pleasure-house_on_the_wall_of_Su-wun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hwaseong Fortress · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Pleasure-house on the wall of Su-wun.jpg · The_passing_of_Korea.djvu : Homer Hulbert . The original uploader was Ryuch at English Wikisource . derivative work: — b · Public domain*
+
+![Women photographed by Shirley Dawes doing laundry at Hwaseong Fortress’s Hwahongmun in Suwon, South Korea.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6b/Women_photographed_by_Shirley_Dawes_doing_laundry_at_Hwaseong_Fortress%E2%80%99s_Hwahongmun_in_Suwon%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Women photographed by Shirley Dawes doing laundry at Hwaseong Fortress’s Hwahongmun in Suwon, South Korea.jpg · Shirley Dawes · Public domain*
+
+![500px photo (40620588).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/500px_photo_%2840620588%29.jpeg/1280px-500px_photo_%2840620588%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*500px photo (40620588).jpeg · Star Catch · CC BY 3.0*
+
+![Ancient Wall Protecting The City (181739861).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ancient_Wall_Protecting_The_City_%28181739861%29.jpeg/1280px-Ancient_Wall_Protecting_The_City_%28181739861%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ancient Wall Protecting The City (181739861).jpeg · Mathew Schwartz · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ When the Joseon King Jeongjo moved his father's tomb to Suwon at the end of the 
 - ✈ **Seoul Gimpo International Airport (GMP)** — 36.4 km
 - ✈ **Incheon International Airport (ICN)** — 53.7 km
 - ✈ **Cheongju International Airport (CJJ)** — 76.4 km
+- 🚉 **매교** — 1.8 km
+- 🚉 **수원** — 1.8 km
+- 🚉 **수원시청** — 2.9 km
+- 🚉 **매탄권선** — 4.1 km
+- 🚉 **고색** — 4.3 km
+- ⛴ **한강버스 잠실선착장** — 27.3 km
+- ⛴ **한강버스 압구정선착장** — 27.4 km
+- ⛴ **나루터** — 27.8 km
+- ⛴ **한강버스 뚝섬선착장** — 28.0 km
+- ⛴ **한강버스 여의도선착장** — 28.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **927.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **DoubleTree by Hilton Seoul Pangyo** — 13.9 km — star — 5★ · DoubleTree
+- **JW 메리어트 호텔 서울** — 24.8 km — star — JW Marriott Seoul · 5★
+- **오크우드 프리미어 코엑스센터 서울** — 26.0 km — star — Oakwood Premier Coex Center, Seoul · 5★
+- **시그니엘 서울** — 27.0 km — star — Signiel Seoul · 5★ · 시그니엘
+- **Sofitel** — 27.3 km — star — Sofitel Ambassador Seoul Hotel & Serviced Residences · 5★ · Sofitel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

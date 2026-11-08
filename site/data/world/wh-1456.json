@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1456.jpg",
-   "title": "Shahr-i Sokhta",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1456",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/C20R0997.jpg/1280px-C20R0997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "C20R0997.jpg",
+   "author": "Amirkhan33",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:C20R0997.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/C20R1002.jpg/1280px-C20R1002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "C20R1002.jpg",
+   "author": "Amirkhan33",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:C20R1002.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Collar_de_la_Edad_del_Bronce_%28Shahr-i_Sokhta%2C_Ir%C3%A1n%29_-_MARQ.jpg/1280px-Collar_de_la_Edad_del_Bronce_%28Shahr-i_Sokhta%2C_Ir%C3%A1n%29_-_MARQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Collar de la Edad del Bronce (Shahr-i Sokhta, Irán) - MARQ.jpg",
+   "author": "Dorieo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Collar_de_la_Edad_del_Bronce_%28Shahr-i_Sokhta%2C_Ir%C3%A1n%29_-_MARQ.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Keramikgef%C3%A4%C3%9F_aus_Iran%2C_Schahr-e_Suchte%2C_Nekropole%2C_2800-2300_v.C._%281%29.jpg/1280px-Keramikgef%C3%A4%C3%9F_aus_Iran%2C_Schahr-e_Suchte%2C_Nekropole%2C_2800-2300_v.C._%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Keramikgefäß aus Iran, Schahr-e Suchte, Nekropole, 2800-2300 v.C. (1).jpg",
+   "author": "NearEMPTiness",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Keramikgef%C3%A4%C3%9F_aus_Iran%2C_Schahr-e_Suchte%2C_Nekropole%2C_2800-2300_v.C._%281%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1456",
@@ -100,7 +124,19 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "هتل آرام",
+   "name_en": "Aram Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.0063647,
+   "lon": 61.4818764,
+   "distance_km": 47.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -155,5 +191,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:01Z"
+ "updated_at": "2026-11-08T16:50:19Z"
 }

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(viii)(ix)"
 lat: 41.672222222
 lon: 23.487777777
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:58Z"
 ---
 
 # 皮林国家公园 / Pirin National Park

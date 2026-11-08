@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)(vi)"
 lat: -2.268611111
 lon: 40.900277777
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:43Z"
 ---
 
 # 拉穆古镇 / Lamu Old Town
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *Lamu coast.jpg · see Wikimedia Commons file page*
 
-![Lamu Old Town](https://whc.unesco.org/uploads/sites/site_1055.jpg)
+!["KARIBU LAMU".jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%22KARIBU_LAMU%22.jpg/1280px-%22KARIBU_LAMU%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Lamu Old Town · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"KARIBU LAMU".jpg · Gri4ke · CC BY 4.0*
+
+![A house garden.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_house_garden.jpg/1280px-A_house_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A house garden.jpg · Latif2022 · CC BY-SA 4.0*
+
+![A traditional Swahili architectural design in a restaurant in Lamu-Kenya.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/A_traditional_Swahili_architectural_design_in_a_restaurant_in_Lamu-Kenya.jpg/1280px-A_traditional_Swahili_architectural_design_in_a_restaurant_in_Lamu-Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A traditional Swahili architectural design in a restaurant in Lamu-Kenya.jpg · Queen Asali · CC BY-SA 4.0*
+
+![A woman wearing Buibui.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_woman_wearing_Buibui.jpg/1280px-A_woman_wearing_Buibui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A woman wearing Buibui.jpg · Zei2022 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ Lamu Old Town is the oldest and best-preserved Swahili settlement in East Africa
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Yumbe Villa** — 0.1 km — hotel
+- **Yumbe House** — 0.2 km — hotel
+- **Petleys Inn** — 0.2 km — hotel
+- **Sunsail** — 0.3 km — hotel
+- **Bahari** — 0.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_401.jpg",
-   "title": "Old Village of Hollókő and its Surroundings",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/401",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Blason_jumel%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Blason jumelé.jpg",
+   "author": "TARTAUD-GINESTE",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Blason_jumel%C3%A9.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/BlasonHU-holloko.svg/1280px-BlasonHU-holloko.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "BlasonHU-holloko.svg",
+   "author": "Babylonien86",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:BlasonHU-holloko.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Costume_traditionnel%2C_Lowicz%2C_Poland.jpg/1280px-Costume_traditionnel%2C_Lowicz%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Costume traditionnel, Lowicz, Poland.jpg",
+   "author": "Venusz",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Costume_traditionnel%2C_Lowicz%2C_Poland.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cserhats_near_holloko.jpg/1280px-Cserhats_near_holloko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cserhats near holloko.jpg",
+   "author": "Cserlajos",
+   "license": "CC BY-SA 3.0",
+   "credit": "self-made saját készítésű",
+   "source": "https://commons.wikimedia.org/wiki/File:Cserhats_near_holloko.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/401",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 67.6,
   "distance_beijing_km": 7328.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Vác, hajóállomás",
+    "name_en": null,
+    "lat": 47.7803481,
+    "lon": 19.1224023,
+    "distance_km": 42.4,
+    "operator": null
+   },
+   {
+    "name": "Vác, rév",
+    "name_en": null,
+    "lat": 47.7770497,
+    "lon": 19.1251003,
+    "distance_km": 42.5,
+    "operator": null
+   },
+   {
+    "name": "Tahitótfalu",
+    "name_en": null,
+    "lat": 47.7752933,
+    "lon": 19.1201464,
+    "distance_km": 42.9,
+    "operator": null
+   },
+   {
+    "name": "Kisoroszi rév",
+    "name_en": null,
+    "lat": 47.8212618,
+    "lon": 19.0134285,
+    "distance_km": 47.3,
+    "operator": null
+   },
+   {
+    "name": "Pócsmegyer",
+    "name_en": null,
+    "lat": 47.7178357,
+    "lon": 19.0941776,
+    "distance_km": 48.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Pásztó",
+    "name_en": null,
+    "lat": 47.9190923,
+    "lon": 19.6887928,
+    "distance_km": 11.2,
+    "operator": "MÁV"
+   },
+   {
+    "name": "Szécsény",
+    "name_en": null,
+    "lat": 48.0926749,
+    "lon": 19.521206,
+    "distance_km": 11.9,
+    "operator": "MÁV"
+   },
+   {
+    "name": "Tar",
+    "name_en": null,
+    "lat": 47.9559906,
+    "lon": 19.7460329,
+    "distance_km": 12.3,
+    "operator": "MÁV"
+   },
+   {
+    "name": "Zagyvapálfalva",
+    "name_en": null,
+    "lat": 48.0675509,
+    "lon": 19.784993,
+    "distance_km": 16.4,
+    "operator": "MÁV"
+   },
+   {
+    "name": "Nagybátony",
+    "name_en": null,
+    "lat": 47.979832,
+    "lon": 19.8194559,
+    "distance_km": 17.0,
+    "operator": "MÁV"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Castellum Hotel Hollókő",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.9945043,
+   "lon": 19.5904862,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Narád & Park",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.9120947,
+   "lon": 19.8767086,
+   "distance_km": 23.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grandhotel Galya",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.9158542,
+   "lon": 19.9237574,
+   "distance_km": 26.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ózon Hotel & Luxury Villas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8557682,
+   "lon": 19.972384,
+   "distance_km": 32.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lifestyle Hotel Mátra",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.8524494,
+   "lon": 19.9731122,
+   "distance_km": 32.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "HU",
   "country_zh": "匈牙利",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:27Z"
 }

@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iii)"
 lat: 24.833429166
 lon: 10.333319444
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:21Z"
 ---
 
 # 塔德拉尔特•阿卡库斯石窟 / Rock-Art Sites of Tadrart Acacus

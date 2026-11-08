@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(x)"
 lat: 27.166667
 lon: 77.516667
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:45:14Z"
 ---
 
 # 凯奥拉德奥国家公园 / Keoladeo National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Keoladeo Ghana National Park, Bharatpur, Rajasthan, India.jpg · see Wikimedia Commons file page*
 
-![Keoladeo National Park](https://whc.unesco.org/uploads/sites/site_340.jpg)
+![Keoladeo-Vogelschutzpark-12-Schild-2018-gje.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Keoladeo-Vogelschutzpark-12-Schild-2018-gje.jpg/1280px-Keoladeo-Vogelschutzpark-12-Schild-2018-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Keoladeo National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Keoladeo-Vogelschutzpark-12-Schild-2018-gje.jpg · Gerd Eichmann · CC BY-SA 4.0*
+
+![029 Chital swimming in Keoladeo National Park Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/029_Chital_swimming_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/1280px-029_Chital_swimming_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*029 Chital swimming in Keoladeo National Park Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![051 Chital swimming in Keoladeo National Park Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/051_Chital_swimming_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/1280px-051_Chital_swimming_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*051 Chital swimming in Keoladeo National Park Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![052 Chitals on island in Keoladeo National Park Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/052_Chitals_on_island_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg/1280px-052_Chitals_on_island_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*052 Chitals on island in Keoladeo National Park Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ This former duck-hunting reserve of the Maharajas is one of the major wintering 
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 44.0 km
 - ✈ **Noida International Airport (DXN)** — 113.1 km
 - ✈ **Gwalior Airport (GWL)** — 120.1 km
+- 🚉 **Bharatpur Junction** — 8.3 km
+- 🚉 **Sewar** — 9.1 km
+- 🚉 **Ikran** — 10.4 km
+- 🚉 **Dhaurmui Jaghina** — 14.1 km
+- 🚉 **Chiksana** — 14.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3817.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Surya Vilas Palace** — 3.0 km — hotel
+- **Surya vilas hotel** — 3.1 km — hotel — Surya vilas hotel
+- **The Birder's Inn** — 4.3 km — hotel
+- **Pelican** — 4.3 km — hotel — Pelican
+- **Kiran Villa Palace** — 4.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

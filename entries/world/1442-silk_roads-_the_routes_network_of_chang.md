@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(v)(vi)"
 lat: 34.3044
 lon: 108.8572
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:15Z"
 ---
 
 # 丝绸之路：长安—天山廊道的路网 / Silk Roads: the Routes Network of Chang'an-Tianshan Corridor
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:01Z"
 
 *Yumenguan.jpg · see Wikimedia Commons file page*
 
-![Silk Roads: the Routes Network of Chang'an-Tianshan Corridor](https://whc.unesco.org/uploads/sites/site_1442.jpg)
+![SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 100.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%8D%97%E9%A0%AD%E8%A1%97_Nantou_Street_%E5%8D%97%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8_Nanshan_Museum_%E5%B1%95%E8%A6%BD_exhibition_%E5%8F%A4%E7%B5%B2%E7%B6%A2%E4%B9%8B%E8%B7%AF_Silk_Road_Path_of_Integration_January_2025_R12S_100.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Silk Roads: the Routes Network of Chang'an-Tianshan Corridor · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 100.jpg · MEWO 228 Leongmenapu · CC0*
+
+![SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 101.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%8D%97%E9%A0%AD%E8%A1%97_Nantou_Street_%E5%8D%97%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8_Nanshan_Museum_%E5%B1%95%E8%A6%BD_exhibition_%E5%8F%A4%E7%B5%B2%E7%B6%A2%E4%B9%8B%E8%B7%AF_Silk_Road_Path_of_Integration_January_2025_R12S_101.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 101.jpg · MEWO 228 Leongmenapu · CC0*
+
+![SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 102.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%8D%97%E9%A0%AD%E8%A1%97_Nantou_Street_%E5%8D%97%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8_Nanshan_Museum_%E5%B1%95%E8%A6%BD_exhibition_%E5%8F%A4%E7%B5%B2%E7%B6%A2%E4%B9%8B%E8%B7%AF_Silk_Road_Path_of_Integration_January_2025_R12S_102.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 102.jpg · MEWO 228 Leongmenapu · CC0*
+
+![SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 103.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%8D%97%E9%A0%AD%E8%A1%97_Nantou_Street_%E5%8D%97%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8_Nanshan_Museum_%E5%B1%95%E8%A6%BD_exhibition_%E5%8F%A4%E7%B5%B2%E7%B6%A2%E4%B9%8B%E8%B7%AF_Silk_Road_Path_of_Integration_January_2025_R12S_103.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*SZ 深圳 Shenzhen 南山 Nanshan 南頭街 Nantou Street 南山博物館 Nanshan Museum 展覽 exhibition 古絲綢之路 Silk Road Path of Integration January 2025 R12S 103.jpg · MEWO 228 Leongmenapu · CC0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ This property is a 5,000 km section of the extensive Silk Roads network, stretch
 - ✈ **Xi'an Xianyang International Airport (XIY)** — 17.6 km
 - ✈ **Ankang Fuqiang Airport (AKA)** — 172.1 km
 - ✈ **Hanzhong Chenggu Airport (HZG)** — 200.8 km
+- 🚉 **三民村** — 1.8 km
+- 🚉 **新西北** — 3.9 km
+- 🚉 **莲湖** — 5.0 km
+- 🚉 **阿房宫南** — 6.7 km
+- 🚉 **鱼化寨** — 7.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **933.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **西安阳光国际大酒店** — 9.9 km — star — Grand Soluxe International Hotel · 5★
+- **全季酒店(西安三桥搜宝中心店)** — 2.7 km — chain
+- **汉庭酒店(西安沣东新城后卫寨店)** — 4.4 km — chain — Hanting Hotel · 汉庭酒店
+- **喜来登酒店** — 5.9 km — chain — Sheraton · 喜来登
+- **7天连锁酒店(西安西稍门劳动路地铁站店)** — 6.1 km — chain — 7 Days Inn · 7天酒店
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

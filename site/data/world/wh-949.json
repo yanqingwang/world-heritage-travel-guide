@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_949.jpg",
-   "title": "My Son Sanctuary",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/949",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/0040223_My_Son_UNESCO_site_entrance%2C_Cham_Hindu_temples_complex%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "0040223 My Son UNESCO site entrance, Cham Hindu temples complex, Vietnam.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0040223_My_Son_UNESCO_site_entrance%2C_Cham_Hindu_temples_complex%2C_Vietnam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg/1280px-A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A far view of the ruins at My Son (30992152933).jpg",
+   "author": "shankar s. from Dubai, united arab emirates",
+   "license": "CC BY 2.0",
+   "credit": "A far view of the ruins at My Son",
+   "source": "https://commons.wikimedia.org/wiki/File:A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/ASI_of_India_helps_Vietnam_to_restore_the_M%E1%BB%B9_S%C6%A1n_Sanctuary.jpg/1280px-ASI_of_India_helps_Vietnam_to_restore_the_M%E1%BB%B9_S%C6%A1n_Sanctuary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ASI of India helps Vietnam to restore the Mỹ Sơn Sanctuary.jpg",
+   "author": "Chainwit.",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ASI_of_India_helps_Vietnam_to_restore_the_M%E1%BB%B9_S%C6%A1n_Sanctuary.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Charles_Carpeaux_at_M%E1%BB%B9_S%C6%A1n.jpg/1280px-Charles_Carpeaux_at_M%E1%BB%B9_S%C6%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Charles Carpeaux at Mỹ Sơn.jpg",
+   "author": "Charles Carpeaux (1870-1904)",
+   "license": "Public domain",
+   "credit": "https://zestearcheotour.wordpress.com/photo-de-la-semaine/instant-photo-vietnamien-i/",
+   "source": "https://commons.wikimedia.org/wiki/File:Charles_Carpeaux_at_M%E1%BB%B9_S%C6%A1n.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/949",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 32.2,
   "distance_beijing_km": 2793.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Basket Boat Station",
+    "name_en": null,
+    "lat": 15.8576323,
+    "lon": 108.3511567,
+    "distance_km": 26.4,
+    "operator": null
+   },
+   {
+    "name": "Cửa Đại",
+    "name_en": null,
+    "lat": 15.8761075,
+    "lon": 108.3889694,
+    "distance_km": 31.0,
+    "operator": null
+   },
+   {
+    "name": "Dragon Ship Han River",
+    "name_en": "Dragon Ship Han River",
+    "lat": 16.0599904,
+    "lon": 108.224173,
+    "distance_km": 34.7,
+    "operator": null
+   },
+   {
+    "name": "River Cruise Boats",
+    "name_en": "River Cruise Boats",
+    "lat": 16.0790544,
+    "lon": 108.2245295,
+    "distance_km": 36.7,
+    "operator": null
+   },
+   {
+    "name": "Cảng Tiên Sa",
+    "name_en": null,
+    "lat": 16.1187415,
+    "lon": 108.2132134,
+    "distance_km": 40.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Trà Kiệu",
+    "name_en": null,
+    "lat": 15.8101527,
+    "lon": 108.2312632,
+    "distance_km": 12.6,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Nông Sơn",
+    "name_en": null,
+    "lat": 15.8869385,
+    "lon": 108.1867902,
+    "distance_km": 15.3,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Lệ Trạch",
+    "name_en": "Le Trach",
+    "lat": 15.9705263,
+    "lon": 108.183058,
+    "distance_km": 23.9,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Phú Cang",
+    "name_en": null,
+    "lat": 15.7048523,
+    "lon": 108.3416487,
+    "distance_km": 24.1,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Thanh Khê",
+    "name_en": "Thanh Khe",
+    "lat": 16.0664501,
+    "lon": 108.1823389,
+    "distance_km": 34.3,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Four Seasons Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 15.9294484,
+   "lon": 108.3175338,
+   "distance_km": 27.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palm Garden Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 15.9008167,
+   "lon": 108.3592077,
+   "distance_km": 29.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Tapestry Collection by Hilton",
+   "lat": 15.8864064,
+   "lon": 108.3688596,
+   "distance_km": 29.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Furama Villas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 16.0368971,
+   "lon": 108.2523434,
+   "distance_km": 33.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Furama Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 16.0397373,
+   "lon": 108.2513983,
+   "distance_km": 33.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "VN",
   "country_zh": "越南",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:58Z"
+ "updated_at": "2026-11-08T16:48:23Z"
 }

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_36.jpg",
-   "title": "Medina of Tunis",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/36",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dar_ben_Achour_%2823647%29.jpg/1280px-Dar_ben_Achour_%2823647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dar ben Achour (23647).jpg",
+   "author": "Noomen9",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dar_ben_Achour_%2823647%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Dar_ejeld.jpg/1280px-Dar_ejeld.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dar ejeld.jpg",
+   "author": "Noomen9",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dar_ejeld.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dar_lasrem_%2815840%29.jpg/1280px-Dar_lasrem_%2815840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dar lasrem (15840).jpg",
+   "author": "Noomen9",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dar_lasrem_%2815840%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Dar_lasrem_%2833691%29.jpg/1280px-Dar_lasrem_%2833691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Dar lasrem (33691).jpg",
+   "author": "Noomen9",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dar_lasrem_%2833691%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/36",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 7.7,
   "distance_beijing_km": 8635.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "ميناء رادس",
+    "name_en": null,
+    "lat": 36.8031119,
+    "lon": 10.265804,
+    "distance_km": 8.5,
+    "operator": "ديوان البحرية التجارية والموانئ"
+   },
+   {
+    "name": "تونس",
+    "name_en": "Tunis",
+    "lat": 36.8102085,
+    "lon": 10.3001571,
+    "distance_km": 11.6,
+    "operator": null
+   },
+   {
+    "name": "Ferry terminal passengers",
+    "name_en": null,
+    "lat": 36.8084103,
+    "lon": 10.3048379,
+    "distance_km": 12.0,
+    "operator": null
+   },
+   {
+    "name": "Port Marchand de Carthage",
+    "name_en": null,
+    "lat": 36.8414507,
+    "lon": 10.3248504,
+    "distance_km": 14.6,
+    "operator": null
+   },
+   {
+    "name": "Port de Carthage",
+    "name_en": null,
+    "lat": 36.8456504,
+    "lon": 10.3248036,
+    "distance_km": 14.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "ساحة برشلونة",
+    "name_en": "Place de Barcelone",
+    "lat": 36.7960949,
+    "lon": 10.180449,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "باب الخضراء",
+    "name_en": null,
+    "lat": 36.8102392,
+    "lon": 10.1724748,
+    "distance_km": 1.3,
+    "operator": null
+   },
+   {
+    "name": "ساحة الجمهورية",
+    "name_en": null,
+    "lat": 36.8064986,
+    "lon": 10.1808267,
+    "distance_km": 1.3,
+    "operator": null
+   },
+   {
+    "name": "باب سعدون",
+    "name_en": null,
+    "lat": 36.8097937,
+    "lon": 10.1619793,
+    "distance_km": 1.4,
+    "operator": null
+   },
+   {
+    "name": "فرحات حشاد",
+    "name_en": null,
+    "lat": 36.7978921,
+    "lon": 10.1860984,
+    "distance_km": 1.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق أفريقا زوالي",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.7993942,
+   "lon": 10.1831834,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden Tulip El Mechtel",
+   "name_en": "فندق جولدن تيوليب المشتل",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8136439,
+   "lon": 10.173811,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Hotel & Convention Center",
+   "name_en": "Radisson Blu Hotel & Convention Center",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8075429,
+   "lon": 10.1871609,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق شيراتون",
+   "name_en": "Sheraton Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8309226,
+   "lon": 10.1606262,
+   "distance_km": 3.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "تونس نزل الكبير",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8550301,
+   "lon": 10.1623096,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TN",
   "country_zh": "突尼斯",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:34Z"
 }

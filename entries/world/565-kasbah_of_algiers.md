@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(ii)(v)"
 lat: 36.78333
 lon: 3.06028
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:45:57Z"
 ---
 
 # 阿尔及尔城堡 / Kasbah of Algiers
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Fonds André Raymond (1925-2011) - Algérie - Alger - Vue surplombante sur les toits de la ville (MédiHAL 4106832).jpg · see Wikimedia Commons file page*
 
-![Kasbah of Algiers](https://whc.unesco.org/uploads/sites/site_565.jpg)
+![20141113- DSC0030-3 (15886832612).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/20141113-_DSC0030-3_%2815886832612%29.jpg/1280px-20141113-_DSC0030-3_%2815886832612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kasbah of Algiers · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20141113- DSC0030-3 (15886832612).jpg · Dan Sloan · CC BY-SA 2.0*
+
+![20141113- DSC0041-2 (15861639666).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/20141113-_DSC0041-2_%2815861639666%29.jpg/1280px-20141113-_DSC0041-2_%2815861639666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20141113- DSC0041-2 (15861639666).jpg · Dan Sloan · CC BY-SA 2.0*
+
+![20141113- DSC0058-3 (15861632436).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/20141113-_DSC0058-3_%2815861632436%29.jpg/1280px-20141113-_DSC0058-3_%2815861632436%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20141113- DSC0058-3 (15861632436).jpg · Dan Sloan · CC BY-SA 2.0*
+
+![20141113- DSC0067-4 (15267800753).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/20141113-_DSC0067-4_%2815267800753%29.jpg/1280px-20141113-_DSC0067-4_%2815267800753%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20141113- DSC0067-4 (15267800753).jpg · Dan Sloan · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ The Kasbah is a unique kind of medina, or Islamic city. It stands in one of the 
 - ✈ **Houari Boumediene Airport (ALG)** — 17.0 km
 - ✈ **Chlef Aboubakr Belkaid International Airport (CFK)** — 166.1 km
 - ✈ **Soummam–Abane Ramdane Airport (BJA)** — 179.2 km
+- 🚉 **Agha** — 1.7 km
+- 🚉 **Les Ateliers الورشات** — 3.0 km
+- 🚉 **Hussein Dey** — 5.2 km
+- 🚉 **الخروبة** — 7.5 km
+- 🚉 **الحراش** — 9.4 km
+- ⛴ **Alger الجزائر** — 0.4 km
+- ⛴ **Alger** — 0.4 km
+- ⛴ **محطة العبارة الجزائر** — 0.7 km
+- ⛴ **محطة البحرية الجزائر** — 0.8 km
+- ⛴ **Port d'Alger ميناء الجزائر** — 2.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9103.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فندق الأوراسي** — 1.1 km — star — El Aurassi Hotel · 5★
+- **Hôtel El Djazaïr فندق الجزائر** — 3.4 km — star — 5★
+- **Hôtel Sofitel فندق سوفيتل الجزائر** — 3.8 km — star — Sofitel Algiers Hamma Garden · 5★ · Sofitel سوفيتل
+- **Hôtel Oasis 5 *** — 5.5 km — star — 5★
+- **Hilton Alger** — 9.9 km — star — Hilton Algiers · 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

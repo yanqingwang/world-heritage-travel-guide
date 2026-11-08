@@ -45,12 +45,44 @@
  "intro_local_source": "unesco_official",
  "images": [
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1634.jpg",
-   "title": "Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1634",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Momias_Chichorro_de_Arica_10_mil_a%C3%B1os_de_antig%C3%BCedad.jpg/1280px-Momias_Chichorro_de_Arica_10_mil_a%C3%B1os_de_antig%C3%BCedad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Momias Chichorro de Arica 10 mil años de antigüedad.jpg",
+   "author": "Zorka Ostojic Espinoza",
+   "license": "CC BY 2.0",
+   "credit": "originally posted to Flickr as Momias Chichorro de Arica: 10 mil años de antigüedad",
+   "source": "https://commons.wikimedia.org/wiki/File:Momias_Chichorro_de_Arica_10_mil_a%C3%B1os_de_antig%C3%BCedad.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Caleta_Camarones%2C_Comuna_de_Camarones%2C_Region_de_Arica_y_Parinacota%2C_Chile_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Caleta Camarones, Comuna de Camarones, Region de Arica y Parinacota, Chile 01.JPG",
+   "author": "Yastay",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Caleta_Camarones%2C_Comuna_de_Camarones%2C_Region_de_Arica_y_Parinacota%2C_Chile_01.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chinchorro_mummy_bodies_Arica.jpg/1280px-Chinchorro_mummy_bodies_Arica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Chinchorro mummy bodies Arica.jpg",
+   "author": "Zorka Ostojic Espinoza",
+   "license": "CC BY 2.0",
+   "credit": "originally posted to Flickr as Momias Chichorro de Arica: 10 mil años de antigüedad",
+   "source": "https://commons.wikimedia.org/wiki/File:Chinchorro_mummy_bodies_Arica.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Chinchorro_mummy_find_Arica.jpg/1280px-Chinchorro_mummy_find_Arica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Chinchorro mummy find Arica.jpg",
+   "author": "Zorka Ostojic Espinoza",
+   "license": "CC BY 2.0",
+   "credit": "originally posted to Flickr as Momias Chichorro de Arica: 10 mil años de antigüedad",
+   "source": "https://commons.wikimedia.org/wiki/File:Chinchorro_mummy_find_Arica.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Chinchorro_mummy_heads_Arica.jpg/1280px-Chinchorro_mummy_heads_Arica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Chinchorro mummy heads Arica.jpg",
+   "author": "Zorka Ostojic Espinoza",
+   "license": "CC BY 2.0",
+   "credit": "originally posted to Flickr as Momias Chichorro de Arica: 10 mil años de antigüeda",
+   "source": "https://commons.wikimedia.org/wiki/File:Chinchorro_mummy_heads_Arica.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1634",
@@ -90,9 +122,106 @@
   "nearest_airport_km": 14.8,
   "distance_beijing_km": 17509.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Arica (FCALP)",
+    "name_en": null,
+    "lat": -18.4747732,
+    "lon": -70.3189116,
+    "distance_km": 0.7,
+    "operator": "EFE Arica-La Paz"
+   },
+   {
+    "name": "Arica (FTA)",
+    "name_en": null,
+    "lat": -18.473499,
+    "lon": -70.3174681,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Chinchorro",
+    "name_en": null,
+    "lat": -18.4635982,
+    "lon": -70.3016753,
+    "distance_km": 2.8,
+    "operator": "EFE Arica-La Paz"
+   },
+   {
+    "name": "Rosario",
+    "name_en": null,
+    "lat": -18.411634,
+    "lon": -70.134556,
+    "distance_km": 21.1,
+    "operator": "EFE Arica-La Paz"
+   },
+   {
+    "name": "Poconchile",
+    "name_en": null,
+    "lat": -18.4505754,
+    "lon": -70.0670395,
+    "distance_km": 27.0,
+    "operator": "EFE Arica-La Paz"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Le Petit Clos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4805449,
+   "lon": -70.3217227,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Savona",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4808085,
+   "lon": -70.3201711,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yungay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.481107,
+   "lon": -70.3195491,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sotomayor",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4795169,
+   "lon": -70.3191149,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Plaza Colón",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -18.4790318,
+   "lon": -70.3202193,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CL",
   "country_zh": "智利",
@@ -150,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:54Z"
 }

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: -31.656111111
 lon: -64.435277777
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:32Z"
 ---
 
 # 科尔多巴耶稣会牧场和街区 / Jesuit Block and Estancias of Córdoba

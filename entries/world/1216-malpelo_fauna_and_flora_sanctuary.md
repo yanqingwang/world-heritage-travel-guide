@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(vii)(ix)"
 lat: 4.0
 lon: -81.6
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:49:43Z"
 ---
 
 # 马尔佩洛岛动植物保护区 / Malpelo Fauna and Flora Sanctuary

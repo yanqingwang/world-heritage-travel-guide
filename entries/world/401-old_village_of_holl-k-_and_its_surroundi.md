@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(v)"
 lat: 47.996111111
 lon: 19.591666666
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:27Z"
 ---
 
 # 霍洛克古村落及其周边 / Old Village of Hollókő and its Surroundings
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Hollókő Ófalu Fő utca (részlet) 002.jpg · see Wikimedia Commons file page*
 
-![Old Village of Hollókő and its Surroundings](https://whc.unesco.org/uploads/sites/site_401.jpg)
+![Blason jumelé.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e0/Blason_jumel%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Old Village of Hollókő and its Surroundings · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Blason jumelé.jpg · TARTAUD-GINESTE · CC BY 3.0*
+
+![BlasonHU-holloko.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/BlasonHU-holloko.svg/1280px-BlasonHU-holloko.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BlasonHU-holloko.svg · Babylonien86 · CC BY-SA 3.0*
+
+![Costume traditionnel, Lowicz, Poland.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Costume_traditionnel%2C_Lowicz%2C_Poland.jpg/1280px-Costume_traditionnel%2C_Lowicz%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Costume traditionnel, Lowicz, Poland.jpg · Venusz · CC BY-SA 3.0*
+
+![Cserhats near holloko.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cserhats_near_holloko.jpg/1280px-Cserhats_near_holloko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cserhats near holloko.jpg · Cserlajos · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Hollókő (németül: Rabenstein, szlovákul: Holovka vagy Holovce) község Nó
 - ✈ **Budapest Liszt Ferenc International Airport (BUD)** — 67.6 km
 - ✈ **Sliač Airport (SLD)** — 79.0 km
 - ✈ **Poprad-Tatry Airport (TAT)** — 128.7 km
+- 🚉 **Pásztó** — 11.2 km
+- 🚉 **Szécsény** — 11.9 km
+- 🚉 **Tar** — 12.3 km
+- 🚉 **Zagyvapálfalva** — 16.4 km
+- 🚉 **Nagybátony** — 17.0 km
+- ⛴ **Vác, hajóállomás** — 42.4 km
+- ⛴ **Vác, rév** — 42.5 km
+- ⛴ **Tahitótfalu** — 42.9 km
+- ⛴ **Kisoroszi rév** — 47.3 km
+- ⛴ **Pócsmegyer** — 48.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7328.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Castellum Hotel Hollókő** — 0.2 km — star — 4★
+- **Hotel Narád & Park** — 23.2 km — star — 4★
+- **Grandhotel Galya** — 26.3 km — star — 4★
+- **Ózon Hotel & Luxury Villas** — 32.4 km — star — 4★
+- **Lifestyle Hotel Mátra** — 32.6 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

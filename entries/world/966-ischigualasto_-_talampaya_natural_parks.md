@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(viii)"
 lat: -29.8
 lon: -67.833333
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:23Z"
 ---
 
 # 伊沙瓜拉斯托－塔拉姆佩雅自然公园 / Ischigualasto / Talampaya Natural Parks

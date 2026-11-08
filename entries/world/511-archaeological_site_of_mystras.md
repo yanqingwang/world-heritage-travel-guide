@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(ii)(iii)(iv)"
 lat: 37.074
 lon: 22.3673
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:50Z"
 ---
 
 # 米斯特拉斯考古遗址 / Archaeological Site of Mystras
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Palace at Mystras by Joy of Museums.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Mystras](https://whc.unesco.org/uploads/sites/site_511.jpg)
+![+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._01.jpg/1280px-%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Mystras · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._02.jpg/1280px-%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._03.jpg/1280px-%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._04.jpg/1280px-%2B_1989_wurde_die_Ruinenstadt_Mystras_Weltkulturerbe._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1989 wurde die Ruinenstadt Mystras Weltkulturerbe. 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

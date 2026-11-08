@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_409.jpg",
-   "title": "Hawaii Volcanoes National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/409",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/-i---i-_%285422366185%29.jpg/1280px--i---i-_%285422366185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "-i---i- (5422366185).jpg",
+   "author": "Tim Wilson from Blaine, MN, USA",
+   "license": "CC BY 2.0",
+   "credit": "Flickr",
+   "source": "https://commons.wikimedia.org/wiki/File:-i---i-_%285422366185%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/01-Crater_Cover-NPGallery_JWei_%2851869758527%29.jpg/1280px-01-Crater_Cover-NPGallery_JWei_%2851869758527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01-Crater Cover-NPGallery JWei (51869758527).jpg",
+   "author": "Hawai‘i Volcanoes NPS",
+   "license": "Public domain",
+   "credit": "01-Crater Cover-NPGallery_JWei",
+   "source": "https://commons.wikimedia.org/wiki/File:01-Crater_Cover-NPGallery_JWei_%2851869758527%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/01012019_Steam_vents_%2846518586734%29.jpg/1280px-01012019_Steam_vents_%2846518586734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01012019 Steam vents (46518586734).jpg",
+   "author": "Hawai‘i Volcanoes NPS",
+   "license": "Public domain",
+   "credit": "01012019 Steam vents",
+   "source": "https://commons.wikimedia.org/wiki/File:01012019_Steam_vents_%2846518586734%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/02-UB_CraterBefore-After_USGS_%2851871035739%29.jpg/1280px-02-UB_CraterBefore-After_USGS_%2851871035739%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "02-UB CraterBefore-After USGS (51871035739).jpg",
+   "author": "Hawai‘i Volcanoes NPS",
+   "license": "Public domain",
+   "credit": "02-UB CraterBefore-After_USGS",
+   "source": "https://commons.wikimedia.org/wiki/File:02-UB_CraterBefore-After_USGS_%2851871035739%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/409",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Grand Naniloa Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 19.7295599,
+   "lon": -155.0649449,
+   "distance_km": 37.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hawaiian Naturist Park",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4522416,
+   "lon": -155.1384888,
+   "distance_km": 5.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Volcano Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4358323,
+   "lon": -155.2237535,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Volcano Hale",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.437367,
+   "lon": -155.2352857,
+   "distance_km": 12.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chalet Kailua",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4417607,
+   "lon": -155.23491,
+   "distance_km": 12.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "US",
   "country_zh": "美国",
@@ -158,5 +238,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:33Z"
 }

@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(vii)(x)"
 lat: -31.556175
 lon: 159.079723
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:50Z"
 ---
 
 # 豪勋爵群岛 / Lord Howe Island Group

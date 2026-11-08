@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)(vi)"
 lat: 64.258055555
 lon: -21.125
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:50Z"
 ---
 
 # 平位利尔国家公园 / Þingvellir National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *Thingvellir.jpg · see Wikimedia Commons file page*
 
-![Þingvellir National Park](https://whc.unesco.org/uploads/sites/site_1152.jpg)
+!["Þingvellir in Iceland" - Apr 2015.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%22%C3%9Eingvellir_in_Iceland%22_-_Apr_2015.jpg/1280px-%22%C3%9Eingvellir_in_Iceland%22_-_Apr_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Þingvellir National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Þingvellir in Iceland" - Apr 2015.jpg · Murphsmurph · CC BY-SA 4.0*
+
+![+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._01.jpg/1280px-%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._02.jpg/1280px-%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._03.jpg/1280px-%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ updated_at: "2026-11-08T16:06:59Z"
 - ✈ **Reykjavík Domestic Airport (RKV)** — 41.9 km
 - ✈ **Keflavik International Airport (KEF)** — 78.0 km
 - ✈ **Akureyri International Airport (AEY)** — 211.7 km
+- ⛴ **Viðey** — 36.9 km
+- ⛴ **Skarfabakki** — 37.6 km
+- ⛴ **Reykjavík (Harpa)** — 40.9 km
+- ⛴ **Reykjavíkurhöfn** — 41.0 km
+- ⛴ **Gamla höfnin** — 41.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7870.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Black Pearl** — 41.3 km — star — 5★
+- **Hilton Reykjavik Nordica** — 39.2 km — star — 4★ · Hilton
+- **Grand Hotel Reykjavik** — 39.3 km — star — 4★
+- **Tower Suites Reykjavík** — 39.9 km — star — 4★
+- **Fosshótel Reykjavík** — 40.0 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

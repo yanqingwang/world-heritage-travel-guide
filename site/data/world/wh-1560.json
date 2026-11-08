@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1560.jpg",
-   "title": "Caliphate City of Medina Azahara",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1560",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/A_job_I_don%27t_envy_%284011715372%29.jpg/1280px-A_job_I_don%27t_envy_%284011715372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A job I don't envy (4011715372).jpg",
+   "author": "Jody Morris from Oxford",
+   "license": "CC BY-SA 2.0",
+   "credit": "a job I don't envy",
+   "source": "https://commons.wikimedia.org/wiki/File:A_job_I_don%27t_envy_%284011715372%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Arch_passage_-_Madinat_al-Zahra.JPG/1280px-Arch_passage_-_Madinat_al-Zahra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Arch passage - Madinat al-Zahra.JPG",
+   "author": "José Luiz",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Arch_passage_-_Madinat_al-Zahra.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Caliphate_City_of_Medina_Azahara_World_Heritage_Site_Sign.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Caliphate City of Medina Azahara World Heritage Site Sign.png",
+   "author": "Lucy.baddow",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Caliphate_City_of_Medina_Azahara_World_Heritage_Site_Sign.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Ciudad_de_medina_vista_general.jpg/1280px-Ciudad_de_medina_vista_general.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ciudad de medina vista general.jpg",
+   "author": "Alvaro.vinuela.carnicero",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ciudad_de_medina_vista_general.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1560",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 5.2,
   "distance_beijing_km": 9498.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "El Higuerón",
+    "name_en": null,
+    "lat": 37.8670309,
+    "lon": -4.8504733,
+    "distance_km": 2.6,
+    "operator": "Adif"
+   },
+   {
+    "name": "Villarrubia de Córdoba",
+    "name_en": null,
+    "lat": 37.8479706,
+    "lon": -4.9137717,
+    "distance_km": 5.9,
+    "operator": "Adif"
+   },
+   {
+    "name": "Córdoba Julio Anguita",
+    "name_en": null,
+    "lat": 37.8885103,
+    "lon": -4.789516,
+    "distance_km": 6.9,
+    "operator": "Adif"
+   },
+   {
+    "name": "Alcolea de Córdoba",
+    "name_en": null,
+    "lat": 37.9329792,
+    "lon": -4.6748063,
+    "distance_km": 17.7,
+    "operator": "Adif"
+   },
+   {
+    "name": "Posadas",
+    "name_en": null,
+    "lat": 37.8041466,
+    "lon": -5.1059226,
+    "distance_km": 22.8,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Eurostars Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Eurostars Hotel Company",
+   "lat": 37.881164,
+   "lon": -4.7857969,
+   "distance_km": 7.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palacio del Bailío",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.8874303,
+   "lon": -4.777421,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Califa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8828935,
+   "lon": -4.7841903,
+   "distance_km": 7.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Soho Boutique Córdoba",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Petit Palace",
+   "lat": 37.88965,
+   "lon": -4.7842467,
+   "distance_km": 7.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Collection",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8791968,
+   "lon": -4.782806,
+   "distance_km": 7.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:33Z"
 }

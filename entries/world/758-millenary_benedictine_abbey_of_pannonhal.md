@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)(vi)"
 lat: 47.552777777
 lon: 17.761111111
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:50Z"
 ---
 
 # 潘诺恩哈尔姆千年修道院及其自然环境 / Millenary Benedictine Abbey of Pannonhalma and its Natural Environment
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:56Z"
 
 *Pannonhalma - Bencés apátság.jpg · see Wikimedia Commons file page*
 
-![Millenary Benedictine Abbey of Pannonhalma and its Natural Environment](https://whc.unesco.org/uploads/sites/site_758.jpg)
+![Bencés főapátsági templom (4640. számú műemlék) 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Benc%C3%A9s_f%C5%91ap%C3%A1ts%C3%A1gi_templom_%284640._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_2.jpg/1280px-Benc%C3%A9s_f%C5%91ap%C3%A1ts%C3%A1gi_templom_%284640._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Millenary Benedictine Abbey of Pannonhalma and its Natural Environment · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bencés főapátsági templom (4640. számú műemlék) 2.jpg · Kontiki · CC BY-SA 2.5 hu*
+
+![Bencés főapátsági templom (4640. számú műemlék) 22.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Benc%C3%A9s_f%C5%91ap%C3%A1ts%C3%A1gi_templom_%284640._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_22.jpg/1280px-Benc%C3%A9s_f%C5%91ap%C3%A1ts%C3%A1gi_templom_%284640._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bencés főapátsági templom (4640. számú műemlék) 22.jpg · Kontiki · CC BY-SA 2.5 hu*
+
+![Bencés főapátsági templom (4640. számú műemlék) 23.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Benc%C3%A9s_f%C5%91ap%C3%A1ts%C3%A1gi_templom_%284640._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_23.jpg/1280px-Benc%C3%A9s_f%C5%91ap%C3%A1ts%C3%A1gi_templom_%284640._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bencés főapátsági templom (4640. számú műemlék) 23.jpg · Kontiki · CC BY-SA 2.5 hu*
+
+![Bencés főapátsági templom (4640. számú műemlék) 24.jpg](https://upload.wikimedia.org/wikipedia/commons/4/41/Benc%C3%A9s_f%C5%91ap%C3%A1ts%C3%A1gi_templom_%284640._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bencés főapátsági templom (4640. számú műemlék) 24.jpg · Kontiki · CC BY-SA 2.5 hu*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ A Pannonhalmi Bencés Főapátság (latinul: Abbatia territorialis Sancti Martin
 - ✈ **M. R. Štefánik Airport (BTS)** — 79.9 km
 - ✈ **Hévíz–Balaton Airport (SOB)** — 106.6 km
 - ✈ **Vienna International Airport (VIE)** — 108.4 km
+- 🚉 **Pannonhalma** — 1.6 km
+- 🚉 **Tarjánpuszta** — 5.7 km
+- 🚉 **Veszprémvarsány** — 12.9 km
+- 🚉 **Győrszemere** — 13.3 km
+- 🚉 **Győrszabadhegy** — 14.9 km
+- ⛴ **Győr-Gönyű RO-RO terminál** — 20.2 km
+- ⛴ **Vizitúra kiszállóhely** — 31.2 km
+- ⛴ **Komárom - Monostori Erőd** — 33.6 km
+- ⛴ **Kikötő** — 34.8 km
+- ⛴ **Átemelő hely** — 34.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7409.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Famulus Business Hotel****** — 17.4 km — star — 4★
+- **Barokk Hotel** — 17.9 km — star — 4★
+- **Hotel Capitulum** — 17.9 km — star — 4★
+- **Hotel Domus Collis** — 18.0 km — star — 4★
+- **Peklo** — 35.1 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_38.jpg",
-   "title": "Amphitheatre of El Jem",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/38",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/20_TND_-_2017_-_reverse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "20 TND - 2017 - reverse.png",
+   "author": "OussamaNairi",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20_TND_-_2017_-_reverse.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/5_TND_-_1972_-_reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "5 TND - 1972 - reverse.jpg",
+   "author": "DrFO.Jr.Tn",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:5_TND_-_1972_-_reverse.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/50_francs_-_1941_-_reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "50 francs - 1941 - reverse.jpg",
+   "author": "DrFO.Jr.Tn",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:50_francs_-_1941_-_reverse.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Amphitheater_el_djem20260719_1.jpg/1280px-Amphitheater_el_djem20260719_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Amphitheater el djem20260719 1.jpg",
+   "author": "Z thomas",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Amphitheater_el_djem20260719_1.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/38",
@@ -97,10 +121,124 @@
   ],
   "nearest_airport_km": 51.5,
   "distance_beijing_km": 8680.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Mshdia",
+    "name_en": null,
+    "lat": 35.4993997,
+    "lon": 11.0709464,
+    "distance_km": 40.0,
+    "operator": null
+   },
+   {
+    "name": "ميناء الصيد البحري بالشابة",
+    "name_en": null,
+    "lat": 35.2327553,
+    "lon": 11.1600977,
+    "distance_km": 41.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "الجم",
+    "name_en": null,
+    "lat": 35.2925698,
+    "lon": 10.7095748,
+    "distance_km": 0.5,
+    "operator": null
+   },
+   {
+    "name": "الحنشة",
+    "name_en": null,
+    "lat": 35.1372995,
+    "lon": 10.7284714,
+    "distance_km": 17.8,
+    "operator": null
+   },
+   {
+    "name": "كركر",
+    "name_en": null,
+    "lat": 35.4684245,
+    "lon": 10.65962,
+    "distance_km": 19.6,
+    "operator": null
+   },
+   {
+    "name": "بوقبرين",
+    "name_en": null,
+    "lat": 35.5373916,
+    "lon": 10.6438979,
+    "distance_km": 27.4,
+    "operator": null
+   },
+   {
+    "name": "دخان",
+    "name_en": null,
+    "lat": 34.9906879,
+    "lon": 10.7608474,
+    "distance_km": 34.3,
+    "operator": "الشركة الوطنية للسكك الحديدية التونسية"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Iberostar Selection Royal El Mansour",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Iberostar Hotels & Resorts",
+   "lat": 35.5126418,
+   "lon": 11.0495819,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Phénix",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 35.5052942,
+   "lon": 11.0620228,
+   "distance_km": 39.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El Borj Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": "TTS Hotels",
+   "lat": 35.5250488,
+   "lon": 11.0385097,
+   "distance_km": 39.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Julius Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.2925967,
+   "lon": 10.7089074,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel club ksar Eljem",
+   "name_en": "Hotel club ksar Eljem",
+   "stars": null,
+   "brand": null,
+   "lat": 35.3358188,
+   "lon": 10.6873658,
+   "distance_km": 4.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TN",
   "country_zh": "突尼斯",
@@ -158,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:36Z"
 }

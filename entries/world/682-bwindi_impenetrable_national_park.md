@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(x)"
 lat: -1.05
 lon: 29.71666667
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:41Z"
 ---
 
 # 布恩迪难以穿越的国家公园 / Bwindi Impenetrable National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Bwindi.JPG · see Wikimedia Commons file page*
 
-![Bwindi Impenetrable National Park](https://whc.unesco.org/uploads/sites/site_682.jpg)
+![Bwindi Impenetrable National Park 10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bwindi_Impenetrable_National_Park_10.jpg/1280px-Bwindi_Impenetrable_National_Park_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bwindi Impenetrable National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bwindi Impenetrable National Park 10.jpg · Thomas Fuhrmann · CC BY-SA 4.0*
+
+![Bwindi Impenetrable National Park desde el Broadbill Forest Camp 20190925 085152.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Bwindi_Impenetrable_National_Park_desde_el_Broadbill_Forest_Camp_20190925_085152.jpg/1280px-Bwindi_Impenetrable_National_Park_desde_el_Broadbill_Forest_Camp_20190925_085152.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bwindi Impenetrable National Park desde el Broadbill Forest Camp 20190925 085152.jpg · Josefito123 · CC BY-SA 4.0*
+
+![Bwindi Impenetrable National Park-112393.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Bwindi_Impenetrable_National_Park-112393.jpg/1280px-Bwindi_Impenetrable_National_Park-112393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bwindi Impenetrable National Park-112393.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
+
+![Ishasha river map.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ishasha_river_map.svg/1280px-Ishasha_river_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ishasha river map.svg · Cptmrmcmillan · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,16 @@ Hifadhi ya Taifa ya Bwindi (BINP) iko kusini magharibi mwa Uganda . Mbuga hii ni
 - ✈ **Kisoro Airport (KXO)** — 26.0 km
 - ✈ **Savannah Airstrip (KHX)** — 37.1 km
 - ✈ **Goma International Airport (GOM)** — 86.8 km
+- ⛴ **Sharp Island** — 35.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9832.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Wilderness Bisate** — 48.7 km — star — 5★
+- **Holiday Inn** — 37.3 km — chain
+- **Little Ritz** — 37.3 km — chain
+- **New Hilton** — 37.6 km — chain
+- **Ruhija Gorilla Mist Camp** — 6.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

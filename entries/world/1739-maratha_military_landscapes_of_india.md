@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)(vi)"
 lat: 20.7225
 lon: 73.9425
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:04Z"
 ---
 
 # 印度马拉塔军事景观 / Maratha Military Landscapes of India
@@ -22,6 +22,10 @@ updated_at: "2026-11-08T16:07:03Z"
 > 印度 · 文化遗产
 
 ## 图片 / Images
+
+![8pha4r9c maratha-landscapes 625x300 09 July 25.jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/8pha4r9c_maratha-landscapes_625x300_09_July_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*8pha4r9c maratha-landscapes 625x300 09 July 25.jpg · Jigyasa kakwani · CC BY 3.0*
 
 ![Maratha Military Landscapes of India](https://whc.unesco.org/uploads/sites/site_1739.jpg)
 
@@ -42,11 +46,17 @@ The property includes twelve major fortifications, mostly in Maharashtra State, 
 - ✈ **Nashik International Airport (ISK)** — 67.2 km
 - ✈ **Shirdi International Airport (SAG)** — 123.4 km
 - ✈ **Surat International Airport (STV)** — 132.0 km
+- 🚉 **Waghai** — 46.3 km
+- 🚉 **Kolde** — 49.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4607.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hill top hotel** — 25.2 km — hotel
+- **Hotel Vaishali** — 25.3 km — hotel
+- **Hotel Purohit** — 25.5 km — hotel
+- **Hotel Toran** — 25.6 km — hotel
+- **Toran Hill Resort** — 25.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

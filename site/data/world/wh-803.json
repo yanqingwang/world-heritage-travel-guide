@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_803.jpg",
-   "title": "Las Médulas",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/803",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Agujero_en_el_suelo_de_una_cima_-_panoramio.jpg/1280px-Agujero_en_el_suelo_de_una_cima_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Agujero en el suelo de una cima - panoramio.jpg",
+   "author": "Pablo Costa Tirado (…",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161013054818/http://www.panoramio.com/photo/10422542",
+   "source": "https://commons.wikimedia.org/wiki/File:Agujero_en_el_suelo_de_una_cima_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg/1280px-Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Panorámica de Las Médulas.jpg",
+   "author": "Rafael Ibáñez Fernández",
+   "license": "CC BY-SA 3.0",
+   "credit": "Tomada por User:Rayet",
+   "source": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Versi%C3%B3n_de_Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg/1280px-Versi%C3%B3n_de_Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Versión de Panorámica de Las Médulas.jpg",
+   "author": "Rafael Ibáñez Fernández",
+   "license": "CC BY-SA 3.0",
+   "credit": "This image is derived from Image:Panorámica de Las Médulas.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Versi%C3%B3n_de_Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/07_Las_Medulas_%2820%29.jpg/1280px-07_Las_Medulas_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "07 Las Medulas (20).jpg",
+   "author": "DagafeSQV",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:07_Las_Medulas_%2820%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/803",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 67.0,
   "distance_beijing_km": 9261.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Covas",
+    "name_en": null,
+    "lat": 42.4752536,
+    "lon": -6.8308249,
+    "distance_km": 6.2,
+    "operator": "Adif"
+   },
+   {
+    "name": "Toral de los Vados",
+    "name_en": null,
+    "lat": 42.5409651,
+    "lon": -6.7767906,
+    "distance_km": 9.3,
+    "operator": "Adif"
+   },
+   {
+    "name": "Sobradelo",
+    "name_en": null,
+    "lat": 42.4147682,
+    "lon": -6.9119379,
+    "distance_km": 13.5,
+    "operator": "Adif"
+   },
+   {
+    "name": "Ponferrada",
+    "name_en": null,
+    "lat": 42.5456621,
+    "lon": -6.6024924,
+    "distance_km": 16.1,
+    "operator": "Adif"
+   },
+   {
+    "name": "O Barco de Valdeorras",
+    "name_en": null,
+    "lat": 42.4182584,
+    "lon": -6.985049,
+    "distance_km": 19.1,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Temple",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.5470016,
+   "lon": -6.605308,
+   "distance_km": 16.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Aroi Ponferrada",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.5471813,
+   "lon": -6.6010926,
+   "distance_km": 16.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Celuisma Ponferrada",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.5585533,
+   "lon": -6.6097185,
+   "distance_km": 16.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parador de Villafranca del Bierzo",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.6037123,
+   "lon": -6.813837,
+   "distance_km": 16.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "AC Hotel Ponferrada",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 42.5492783,
+   "lon": -6.5829771,
+   "distance_km": 17.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:56Z"
+ "updated_at": "2026-11-08T16:47:58Z"
 }

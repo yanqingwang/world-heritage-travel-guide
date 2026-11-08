@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(vi)"
 lat: 31.837222222
 lon: 35.550277777
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:17Z"
 ---
 
 # 施洗之地 / Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:01Z"
 
 *Bethany (5).JPG · see Wikimedia Commons file page*
 
-![Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)](https://whc.unesco.org/uploads/sites/site_1446.jpg)
+![20100923 mer morte18.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/20100923_mer_morte18.JPG/1280px-20100923_mer_morte18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20100923 mer morte18.JPG · Jean Housen · CC BY-SA 3.0*
+
+![20100923 mer morte20.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/20100923_mer_morte20.JPG/1280px-20100923_mer_morte20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20100923 mer morte20.JPG · Jean Housen · CC BY-SA 3.0*
+
+![20100923 mer morte23.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/20100923_mer_morte23.JPG/1280px-20100923_mer_morte23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20100923 mer morte23.JPG · Jean Housen · CC BY-SA 3.0*
+
+![20100923 mer morte25.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/20100923_mer_morte25.JPG/1280px-20100923_mer_morte25.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20100923 mer morte25.JPG · Jean Housen · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -54,11 +66,20 @@ Situated on the eastern bank of the River Jordan, nine kilometres north of the D
 - ✈ **Queen Alia International Airport (AMM)** — 43.8 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 44.3 km
 - ✈ **Ben Gurion International Airport (TLV)** — 65.6 km
+- 🚉 **Binyene Ha'Uma ICC** — 33.2 km
+- 🚉 **ירושלים - יצחק נבון** — 33.3 km
+- 🚉 **Giv'at Mordekhay** — 34.2 km
+- 🚉 **Betsal'el Bazak** — 34.3 km
+- 🚉 **Gonenim** — 34.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7069.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hilton Dead Sea Resort & Spa** — 13.3 km — star — 5★ · Hilton
+- **מלון המלך דוד** — 31.7 km — star — King David Hotel · 5★
+- **Waldorf Astoria** — 31.7 km — star — 5★ · Waldorf Astoria
+- **מלון וולדורף אסטוריה ירושלים** — 31.8 km — star — Waldorf Astoria Jerusalem · 5★ · Waldorf Astoria
+- **שרתון** — 32.2 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

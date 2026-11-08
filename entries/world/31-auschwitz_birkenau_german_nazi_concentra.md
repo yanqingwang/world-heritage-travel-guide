@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vi)"
 lat: 50.035833333
 lon: 19.178333333
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:32Z"
 ---
 
 # 前纳粹德国奥斯维辛-比克瑙集中营（1940-1945年） / Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)

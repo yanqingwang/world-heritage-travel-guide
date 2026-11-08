@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iii)(iv)"
 lat: 38.080772222
 lon: 46.292286111
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:59Z"
 ---
 
 # 大不里士的集市区 / Tabriz Historic Bazaar Complex

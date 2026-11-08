@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(viii)"
 lat: 20.9
 lon: 107.2
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:40Z"
 ---
 
 # 下龙湾-吉婆群岛 / Ha Long Bay - Cat Ba Archipelago

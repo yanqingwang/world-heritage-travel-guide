@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iv)(vi)"
 lat: 54.7749
 lon: -1.57558
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:45:20Z"
 ---
 
 # 达勒姆大教堂和城堡 / Durham Castle and Cathedral
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Durham Castle, April 2017 (14) (33459522640).jpg · see Wikimedia Commons file page*
 
-![Durham Castle and Cathedral](https://whc.unesco.org/uploads/sites/site_370.jpg)
+![189 of 'Comprehensive Guide to the County of Durham. With maps and plans' (11217259793).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/189_of_%27Comprehensive_Guide_to_the_County_of_Durham._With_maps_and_plans%27_%2811217259793%29.jpg/1280px-189_of_%27Comprehensive_Guide_to_the_County_of_Durham._With_maps_and_plans%27_%2811217259793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Durham Castle and Cathedral · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*189 of 'Comprehensive Guide to the County of Durham. With maps and plans' (11217259793).jpg · The British Library · No restrictions*
+
+![Durham Castle - view of keep from Palace Green.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Durham_Castle_-_view_of_keep_from_Palace_Green.jpg/1280px-Durham_Castle_-_view_of_keep_from_Palace_Green.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Durham Castle - view of keep from Palace Green.jpg · Tom Parnell · CC BY-SA 4.0*
+
+![2017-09-13 Durham Castle drainpipe.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2017-09-13_Durham_Castle_drainpipe.jpg/1280px-2017-09-13_Durham_Castle_drainpipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2017-09-13 Durham Castle drainpipe.jpg · Meeksroad · CC BY-SA 4.0*
+
+![Palace Green, Durham - geograph.org.uk - 7656118.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Palace_Green%2C_Durham_-_geograph.org.uk_-_7656118.jpg/1280px-Palace_Green%2C_Durham_-_geograph.org.uk_-_7656118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Palace Green, Durham - geograph.org.uk - 7656118.jpg · Stephen McKay · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,25 @@ Durham Cathedral was built in the late 11th and early 12th centuries to house th
 - ✈ **Newcastle International Airport (NCL)** — 30.1 km
 - ✈ **Teesside International Airport (MME)** — 31.0 km
 - ✈ **Leeds Bradford Airport (LBA)** — 101.2 km
+- 🚉 **Durham** — 0.7 km
+- 🚉 **Chester-le-Street** — 8.9 km
+- 🚉 **Dipwood Halt** — 13.6 km
+- 🚉 **Bishop Auckland** — 14.6 km
+- 🚉 **Bishop Auckland West** — 14.8 km
+- ⛴ **Newcastle** — 25.4 km
+- ⛴ **Port of Tyne International Passenger Terminal** — 25.5 km
+- ⛴ **Hartlepool Dock** — 26.1 km
+- ⛴ **South Shields Ferry Terminal** — 26.2 km
+- ⛴ **North Shields Ferry Terminal** — 26.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7932.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hilton Newcastle Gateshead** — 21.4 km — star — 4★ · Hilton
+- **Hotel du Vin** — 21.9 km — star — 4★
+- **Maldron Hotel Newcastle** — 22.0 km — star — 4★ · Maldron Hotels
+- **Jesmond Dene House** — 25.0 km — star — 4★
+- **Close House** — 27.7 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

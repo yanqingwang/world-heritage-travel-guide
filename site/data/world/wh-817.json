@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_817.jpg",
-   "title": "Hwaseong Fortress",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/817",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Pleasure-house_on_the_wall_of_Su-wun.jpg/1280px-Pleasure-house_on_the_wall_of_Su-wun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pleasure-house on the wall of Su-wun.jpg",
+   "author": "The_passing_of_Korea.djvu : Homer Hulbert . The original uploader was Ryuch at English Wikisource . derivative work: — b",
+   "license": "Public domain",
+   "credit": "The_passing_of_Korea.djvu",
+   "source": "https://commons.wikimedia.org/wiki/File:Pleasure-house_on_the_wall_of_Su-wun.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Women_photographed_by_Shirley_Dawes_doing_laundry_at_Hwaseong_Fortress%E2%80%99s_Hwahongmun_in_Suwon%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Women photographed by Shirley Dawes doing laundry at Hwaseong Fortress’s Hwahongmun in Suwon, South Korea.jpg",
+   "author": "Shirley Dawes",
+   "license": "Public domain",
+   "credit": "http://populargusts.blogspot.com/2023/06/evacuating-us-embassy-in-june-1950-and.html",
+   "source": "https://commons.wikimedia.org/wiki/File:Women_photographed_by_Shirley_Dawes_doing_laundry_at_Hwaseong_Fortress%E2%80%99s_Hwahongmun_in_Suwon%2C_South_Korea.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/500px_photo_%2840620588%29.jpeg/1280px-500px_photo_%2840620588%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "500px photo (40620588).jpeg",
+   "author": "Star Catch",
+   "license": "CC BY 3.0",
+   "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+   "source": "https://commons.wikimedia.org/wiki/File:500px_photo_%2840620588%29.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ancient_Wall_Protecting_The_City_%28181739861%29.jpeg/1280px-Ancient_Wall_Protecting_The_City_%28181739861%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ancient Wall Protecting The City (181739861).jpeg",
+   "author": "Mathew Schwartz",
+   "license": "CC BY 3.0",
+   "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+   "source": "https://commons.wikimedia.org/wiki/File:Ancient_Wall_Protecting_The_City_%28181739861%29.jpeg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/817",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 36.4,
   "distance_beijing_km": 927.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "한강버스 잠실선착장",
+    "name_en": "Hangang Bus Jamsil Terminal",
+    "lat": 37.5187723,
+    "lon": 127.0847814,
+    "distance_km": 27.3,
+    "operator": null
+   },
+   {
+    "name": "한강버스 압구정선착장",
+    "name_en": "Hangang Bus Apgujeong Terminal",
+    "lat": 37.5266731,
+    "lon": 127.0164598,
+    "distance_km": 27.4,
+    "operator": null
+   },
+   {
+    "name": "나루터",
+    "name_en": "Ferry",
+    "lat": 37.530972,
+    "lon": 127.008265,
+    "distance_km": 27.8,
+    "operator": null
+   },
+   {
+    "name": "한강버스 뚝섬선착장",
+    "name_en": "Hangang Bus Ttukseom Terminal",
+    "lat": 37.5288225,
+    "lon": 127.0664576,
+    "distance_km": 28.0,
+    "operator": null
+   },
+   {
+    "name": "한강버스 여의도선착장",
+    "name_en": "Hangang Bus Yeouido Terminal",
+    "lat": 37.5284391,
+    "lon": 126.9351299,
+    "distance_km": 28.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "매교",
+    "name_en": "Maegyo",
+    "lat": 37.2654788,
+    "lon": 127.0156874,
+    "distance_km": 1.8,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "수원",
+    "name_en": "Suwon",
+    "lat": 37.2662775,
+    "lon": 127.0004098,
+    "distance_km": 1.8,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "수원시청",
+    "name_en": "Suwon City Hall",
+    "lat": 37.2616466,
+    "lon": 127.0318618,
+    "distance_km": 2.9,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "매탄권선",
+    "name_en": "MaetanGwonseon",
+    "lat": 37.2530134,
+    "lon": 127.0403832,
+    "distance_km": 4.1,
+    "operator": "한국철도공사"
+   },
+   {
+    "name": "고색",
+    "name_en": "Gosaek",
+    "lat": 37.249691,
+    "lon": 126.9804598,
+    "distance_km": 4.3,
+    "operator": "한국철도공사"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Seoul Pangyo",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 37.3808185,
+   "lon": 127.1039857,
+   "distance_km": 13.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW 메리어트 호텔 서울",
+   "name_en": "JW Marriott Seoul",
+   "stars": 5,
+   "brand": null,
+   "lat": 37.5037983,
+   "lon": 127.0048872,
+   "distance_km": 24.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "오크우드 프리미어 코엑스센터 서울",
+   "name_en": "Oakwood Premier Coex Center, Seoul",
+   "stars": 5,
+   "brand": null,
+   "lat": 37.5109858,
+   "lon": 127.058106,
+   "distance_km": 26.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "시그니엘 서울",
+   "name_en": "Signiel Seoul",
+   "stars": 5,
+   "brand": "시그니엘",
+   "lat": 37.5125735,
+   "lon": 127.1028174,
+   "distance_km": 27.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel",
+   "name_en": "Sofitel Ambassador Seoul Hotel & Serviced Residences",
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 37.5138278,
+   "lon": 127.1061904,
+   "distance_km": 27.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KR",
   "country_zh": "大韩民国",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:57Z"
+ "updated_at": "2026-11-08T16:48:00Z"
 }

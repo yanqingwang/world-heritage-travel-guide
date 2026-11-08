@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_366.jpg",
-   "title": "Chan Chan Archaeological Zone",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/366",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/PhotomontageChanChan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "PhotomontageChanChan.jpg",
+   "author": "Enjoyatom21",
+   "license": "CC BY-SA 3.0",
+   "credit": "by Håkan Svensson by Håkan Svensson by Håkan Svensson by Kevstan by MacAllen Brothers by MacAllen Brothers by Ajor933 by User:GilCahana by Gsd97jks",
+   "source": "https://commons.wikimedia.org/wiki/File:PhotomontageChanChan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%28CCC_No._2%2C_1924%29_-_Ruinas_de_Chan_Chan.png/1280px-%28CCC_No._2%2C_1924%29_-_Ruinas_de_Chan_Chan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "(CCC No. 2, 1924) - Ruinas de Chan Chan.png",
+   "author": "The West Coast Leader, Ltd.",
+   "license": "Public domain",
+   "credit": "Ciudad y Campo y Caminos",
+   "source": "https://commons.wikimedia.org/wiki/File:%28CCC_No._2%2C_1924%29_-_Ruinas_de_Chan_Chan.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%281%29.png/1280px-%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "(CCC No. 27, 1927) - Chan-Chan Capital del Gran Chimú (1).png",
+   "author": "The West Coast Leader, Ltd.",
+   "license": "Public domain",
+   "credit": "Ciudad y Campo y Caminos",
+   "source": "https://commons.wikimedia.org/wiki/File:%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%281%29.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%282%29.png/1280px-%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%282%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "(CCC No. 27, 1927) - Chan-Chan Capital del Gran Chimú (2).png",
+   "author": "The West Coast Leader, Ltd.",
+   "license": "Public domain",
+   "credit": "Ciudad y Campo y Caminos",
+   "source": "https://commons.wikimedia.org/wiki/File:%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%282%29.png"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/366",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Chicama",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -8.1228858,
+   "lon": -79.0426758,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mamá Tina",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -8.0827952,
+   "lon": -79.1193971,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Caballito de Totora",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -8.0826529,
+   "lon": -79.1228467,
+   "distance_km": 6.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": -8.1368924,
+   "lon": -79.0343401,
+   "distance_km": 5.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -8.1076392,
+   "lon": -79.0243424,
+   "distance_km": 5.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PE",
   "country_zh": "秘鲁",
@@ -158,5 +238,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:45:18Z"
 }

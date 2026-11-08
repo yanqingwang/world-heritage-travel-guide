@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(vi)"
 lat: -7.45
 lon: 110.85
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:26Z"
 ---
 
 # 桑义兰早期人类遗址 / Sangiran Early Man Site

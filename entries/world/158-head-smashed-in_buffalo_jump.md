@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vi)"
 lat: 49.7494
 lon: -113.625
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:42:58Z"
 ---
 
 # 美洲野牛涧地带 / Head-Smashed-In Buffalo Jump
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Head-Smashed-In Buffalo Jump-27527-2.jpg · see Wikimedia Commons file page*
 
-![Head-Smashed-In Buffalo Jump](https://whc.unesco.org/uploads/sites/site_158.jpg)
+![Bottom Cliff Head-Smashed-In Buffalo Jump.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bottom_Cliff_Head-Smashed-In_Buffalo_Jump.jpg/1280px-Bottom_Cliff_Head-Smashed-In_Buffalo_Jump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Head-Smashed-In Buffalo Jump · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bottom Cliff Head-Smashed-In Buffalo Jump.jpg · Pazakui · CC BY 4.0*
+
+![Head Smashed In Buffalo Jump (15194897111).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Head_Smashed_In_Buffalo_Jump_%2815194897111%29.jpg/1280px-Head_Smashed_In_Buffalo_Jump_%2815194897111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Head Smashed In Buffalo Jump (15194897111).jpg · Wilson Hui from Calgary, Canada · CC BY 2.0*
+
+![Head Smashed in Buffalo Jump Cliffside View.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Head_Smashed_in_Buffalo_Jump_Cliffside_View.jpg/1280px-Head_Smashed_in_Buffalo_Jump_Cliffside_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Head Smashed in Buffalo Jump Cliffside View.jpg · XeresNelro · CC BY-SA 4.0*
+
+![Head Smashed in Buffalo Jump Path.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Head_Smashed_in_Buffalo_Jump_Path.jpg/1280px-Head_Smashed_in_Buffalo_Jump_Path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Head Smashed in Buffalo Jump Path.jpg · XeresNelro · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,10 @@ Dans le sud-ouest de l'Alberta, les vestiges de pistes balisées, les restes d'u
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ramada** — 36.3 km — hotel — Ramada
+- **Stardust Inn & Suites** — 37.0 km — hotel
+- **Excuses Alberta Hotel** — 37.5 km — hotel
+- **Great Canadian Barn Dance** — 42.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

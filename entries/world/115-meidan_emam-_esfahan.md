@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(v)(vi)"
 lat: 32.658222222
 lon: 51.677333333
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:42:50Z"
 ---
 
 # 伊斯法罕王侯广场 / Meidan Emam, Esfahan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Naghshe Jahan Square Isfahan modified2.jpg · see Wikimedia Commons file page*
 
-![Meidan Emam, Esfahan](https://whc.unesco.org/uploads/sites/site_115.jpg)
+![(میدان امام خمینی(نقش جهان.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%28%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%A7%D9%85%D8%A7%D9%85_%D8%AE%D9%85%DB%8C%D9%86%DB%8C%28%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg/1280px-%28%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%A7%D9%85%D8%A7%D9%85_%D8%AE%D9%85%DB%8C%D9%86%DB%8C%28%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Meidan Emam, Esfahan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(میدان امام خمینی(نقش جهان.jpg · Alirezafatemi · CC BY-SA 4.0*
+
+![.ظروف مسی.نمونه ای از آثار دستی و سنتی بازار نقش جهان.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/.%D8%B8%D8%B1%D9%88%D9%81_%D9%85%D8%B3%DB%8C.%D9%86%D9%85%D9%88%D9%86%D9%87_%D8%A7%DB%8C_%D8%A7%D8%B2_%D8%A2%D8%AB%D8%A7%D8%B1_%D8%AF%D8%B3%D8%AA%DB%8C_%D9%88_%D8%B3%D9%86%D8%AA%DB%8C_%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg/1280px-.%D8%B8%D8%B1%D9%88%D9%81_%D9%85%D8%B3%DB%8C.%D9%86%D9%85%D9%88%D9%86%D9%87_%D8%A7%DB%8C_%D8%A7%D8%B2_%D8%A2%D8%AB%D8%A7%D8%B1_%D8%AF%D8%B3%D8%AA%DB%8C_%D9%88_%D8%B3%D9%86%D8%AA%DB%8C_%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*.ظروف مسی.نمونه ای از آثار دستی و سنتی بازار نقش جهان.jpg · Vesper.78 · CC BY-SA 4.0*
+
+![01میدان نقش جهان.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/01%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg/1280px-01%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01میدان نقش جهان.jpg · Ehsan11111 · CC BY-SA 4.0*
+
+![04میدان نقش جهان.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/04%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg/1280px-04%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D9%86%D9%82%D8%B4_%D8%AC%D9%87%D8%A7%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*04میدان نقش جهان.jpg · Ehsan11111 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,19 @@ Built by Shah Abbas I the Great at the beginning of the 17th century, and border
 - ✈ **Isfahan Shahid Beheshti International Airport (IFN)** — 22.1 km
 - ✈ **Kashan Airport (KKS)** — 137.9 km
 - ✈ **Shahid Sadooghi Airport (AZD)** — 258.3 km
+- 🚉 **ایستگاه راه آهن اصفهان** — 12.2 km
+- 🚉 **سیستان** — 40.7 km
+- 🚉 **ورتون** — 45.9 km
+- ⛴ **حمل ونقل کالا و اثاثیه منزل کورش ترابر سپاهان** — 10.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5719.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل بین‌المللی ویرا** — 1.0 km — star — VIRA Hotel · 5★
+- **هتل عباسی** — 1.0 km — star — Abbasi Hotel · 5★
+- **هتل پارسیان کوثر** — 2.1 km — star — Parsian Kowsar Hotel · 5★
+- **هتل سیزنز (Seasons Hotel)** — 6.5 km — star — (Seasons Hotel) هتل سیزنز · 5★ · (Seasons Hotel) هتل سیزنز
+- **هتل پرستیژ اصفهان** — 11.7 km — star — Prestige · 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -45,12 +45,44 @@
  "intro_local_source": "unesco_official",
  "images": [
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1293.jpg",
-   "title": "Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1293",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%22Summer_Untold%22_Campaign_Launched%2C_AlUla_%282024%29.jpg/1280px-%22Summer_Untold%22_Campaign_Launched%2C_AlUla_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Summer Untold\" Campaign Launched, AlUla (2024).jpg",
+   "author": "Saudi Press Agency (SPA)",
+   "license": "CC BY-SA 4.0",
+   "credit": "Saudi Photos Hub",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Summer_Untold%22_Campaign_Launched%2C_AlUla_%282024%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/20141006_143132_resized.jpg/1280px-20141006_143132_resized.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20141006 143132 resized.jpg",
+   "author": "Franksuresh",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20141006_143132_resized.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53533896632.jpg/1280px-27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53533896632.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "27, Hegra (Mada'in Salih), Saudi Arabia - 53533896632.jpg",
+   "author": "Following Hadrian",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/carolemage/53533896632/",
+   "source": "https://commons.wikimedia.org/wiki/File:27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53533896632.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534782361.jpg/1280px-27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534782361.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "27, Hegra (Mada'in Salih), Saudi Arabia - 53534782361.jpg",
+   "author": "Following Hadrian",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/carolemage/53534782361/",
+   "source": "https://commons.wikimedia.org/wiki/File:27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534782361.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534960013.jpg/1280px-27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534960013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "27, Hegra (Mada'in Salih), Saudi Arabia - 53534960013.jpg",
+   "author": "Following Hadrian",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/carolemage/53534960013/",
+   "source": "https://commons.wikimedia.org/wiki/File:27%2C_Hegra_%28Mada%27in_Salih%29%2C_Saudi_Arabia_-_53534960013.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1293",
@@ -90,9 +122,98 @@
   "nearest_airport_km": 37.9,
   "distance_beijing_km": 7217.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Mada'in Saleh",
+    "name_en": null,
+    "lat": 26.8065407,
+    "lon": 37.9476487,
+    "distance_km": 1.7,
+    "operator": null
+   },
+   {
+    "name": "المزحم",
+    "name_en": "Al Mazham",
+    "lat": 26.8979991,
+    "lon": 37.8602867,
+    "distance_km": 15.0,
+    "operator": null
+   },
+   {
+    "name": "أبو طاقة",
+    "name_en": "Abu Taqah",
+    "lat": 26.9922725,
+    "lon": 37.8431763,
+    "distance_km": 24.8,
+    "operator": null
+   },
+   {
+    "name": "المطلع",
+    "name_en": "Al Mutalla",
+    "lat": 27.1581135,
+    "lon": 37.8699606,
+    "distance_km": 41.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Al-Ula Arac Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 26.6667372,
+   "lon": 37.9079475,
+   "distance_km": 14.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Al Madal Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 26.612081,
+   "lon": 37.9229173,
+   "distance_km": 20.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Habitas",
+   "name_en": "Habitas",
+   "stars": null,
+   "brand": null,
+   "lat": 26.7620345,
+   "lon": 37.8536266,
+   "distance_km": 10.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Diamond Hotel",
+   "name_en": "Diamond Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 26.6785305,
+   "lon": 38.0132446,
+   "distance_km": 13.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Madain Saleh Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6273877,
+   "lon": 37.9281391,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SA",
   "country_zh": "沙特阿拉伯",
@@ -149,5 +270,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:49:53Z"
 }

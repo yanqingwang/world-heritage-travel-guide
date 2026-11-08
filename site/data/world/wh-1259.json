@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1259.jpg",
-   "title": "Le Morne Cultural Landscape",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1259",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1_Le_Morne_Brabant_viewed_from_Ebony_Forest_Chamarel.jpg/1280px-1_Le_Morne_Brabant_viewed_from_Ebony_Forest_Chamarel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 Le Morne Brabant viewed from Ebony Forest Chamarel.jpg",
+   "author": "S Molteno",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1_Le_Morne_Brabant_viewed_from_Ebony_Forest_Chamarel.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_view_of_the_Indian_Ocean_on_the_southwest_part_of_Mauritius_%2853697773506%29.jpg/1280px-Aerial_view_of_the_Indian_Ocean_on_the_southwest_part_of_Mauritius_%2853697773506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial view of the Indian Ocean on the southwest part of Mauritius (53697773506).jpg",
+   "author": "\"dronepicr\"",
+   "license": "CC BY 2.0",
+   "credit": "Aerial view of the Indian Ocean on the southwest part of Mauritius",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Indian_Ocean_on_the_southwest_part_of_Mauritius_%2853697773506%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Aerial_view_of_the_landscape_of_Mauritius_%2853698215290%29.jpg/1280px-Aerial_view_of_the_landscape_of_Mauritius_%2853698215290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial view of the landscape of Mauritius (53698215290).jpg",
+   "author": "\"dronepicr\"",
+   "license": "CC BY 2.0",
+   "credit": "Aerial view of the landscape of Mauritius",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_landscape_of_Mauritius_%2853698215290%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Aerial_view_of_the_peninsula_Le_Morne_in_Mauritius_%2853698115579%29.jpg/1280px-Aerial_view_of_the_peninsula_Le_Morne_in_Mauritius_%2853698115579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial view of the peninsula Le Morne in Mauritius (53698115579).jpg",
+   "author": "\"dronepicr\"",
+   "license": "CC BY 2.0",
+   "credit": "Aerial view of the peninsula Le Morne in Mauritius",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_peninsula_Le_Morne_in_Mauritius_%2853698115579%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1259",
@@ -97,10 +121,124 @@
   ],
   "nearest_airport_km": 38.7,
   "distance_beijing_km": 9076.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port Louis",
+    "name_en": null,
+    "lat": -20.1576939,
+    "lon": 57.5026237,
+    "distance_km": 39.0,
+    "operator": null
+   },
+   {
+    "name": "Terminal passagers",
+    "name_en": "Passenger Terminal",
+    "lat": -20.1553482,
+    "lon": 57.4982315,
+    "distance_km": 39.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Curepipe Central",
+    "name_en": null,
+    "lat": -20.316407,
+    "lon": 57.525649,
+    "distance_km": 27.3,
+    "operator": null
+   },
+   {
+    "name": "Quatre Bornes Central",
+    "name_en": null,
+    "lat": -20.2651247,
+    "lon": 57.4783272,
+    "distance_km": 27.7,
+    "operator": "Metro Express Ltd"
+   },
+   {
+    "name": "Phoenix",
+    "name_en": null,
+    "lat": -20.2749591,
+    "lon": 57.4965315,
+    "distance_km": 28.1,
+    "operator": "Metro Express Ltd"
+   },
+   {
+    "name": "St. Jean",
+    "name_en": null,
+    "lat": -20.2618123,
+    "lon": 57.4824355,
+    "distance_km": 28.3,
+    "operator": "Metro Express Ltd"
+   },
+   {
+    "name": "Belle Rose",
+    "name_en": null,
+    "lat": -20.2556815,
+    "lon": 57.4777462,
+    "distance_km": 28.5,
+    "operator": "Metro Express Ltd"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Lux*",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -20.4570557,
+   "lon": 57.3117259,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Le Paradis",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -20.438381,
+   "lon": 57.3206941,
+   "distance_km": 2.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Mauritius Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": -20.3087112,
+   "lon": 57.367255,
+   "distance_km": 17.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Riu Turquoise",
+   "name_en": null,
+   "stars": 4,
+   "brand": "RIU",
+   "lat": -20.4668422,
+   "lon": 57.315084,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Riu Palace Mauritius",
+   "name_en": null,
+   "stars": 4,
+   "brand": "RIU",
+   "lat": -20.4666057,
+   "lon": 57.3113968,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "MU",
   "country_zh": "毛里求斯",
@@ -157,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:49:48Z"
 }

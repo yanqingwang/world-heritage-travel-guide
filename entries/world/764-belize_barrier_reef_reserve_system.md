@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(vii)(ix)(x)"
 lat: 17.2625
 lon: -88.052777777
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:51Z"
 ---
 
 # 伯利兹堡礁保护区 / Belize Barrier Reef Reserve System
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:56Z"
 
 *Belize Barrier Reef from space.png · see Wikimedia Commons file page*
 
-![Belize Barrier Reef Reserve System](https://whc.unesco.org/uploads/sites/site_764.jpg)
+![Admiralty Chart No 1797 Ranguana Cay to Columbus Cay, Published 1929.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Admiralty_Chart_No_1797_Ranguana_Cay_to_Columbus_Cay%2C_Published_1929.jpg/1280px-Admiralty_Chart_No_1797_Ranguana_Cay_to_Columbus_Cay%2C_Published_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Belize Barrier Reef Reserve System · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Admiralty Chart No 1797 Ranguana Cay to Columbus Cay, Published 1929.jpg · United Kingdom Hydrographic Office · Public domain*
+
+![Admiralty Chart No 522 Belize Harbour, Published 1960.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Admiralty_Chart_No_522_Belize_Harbour%2C_Published_1960.jpg/1280px-Admiralty_Chart_No_522_Belize_Harbour%2C_Published_1960.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Admiralty Chart No 522 Belize Harbour, Published 1960.jpg · United Kingdom Hydrographic Office · Public domain*
+
+![Ambergris Caye, Belize.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Ambergris_Caye%2C_Belize.jpg/1280px-Ambergris_Caye%2C_Belize.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ambergris Caye, Belize.jpg · Asteiner · CC BY-SA 3.0*
+
+![Atoll research bulletin (1963) (20158208520).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Atoll_research_bulletin_%281963%29_%2820158208520%29.jpg/1280px-Atoll_research_bulletin_%281963%29_%2820158208520%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Atoll research bulletin (1963) (20158208520).jpg · Internet Archive Book Images · No restrictions*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The coastal area of Belize is an outstanding natural system consisting of the la
 - ✈ **Sir Barry Bowen Municipal Airport (TZA)** — 32.1 km
 - ✈ **Dangriga Airport (DGA)** — 36.4 km
 - ✈ **Philip S. W. Goldson International Airport (BZE)** — 40.7 km
+- ⛴ **Port Coral** — 22.9 km
+- ⛴ **Terminal 1** — 29.1 km
+- ⛴ **Terminal 2** — 29.2 km
+- ⛴ **Belize Terminal - San Pedro Belize Express Watertaxi** — 29.3 km
+- ⛴ **Terminal 4** — 29.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13115.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Belize Biltmore Plaza** — 33.4 km — chain — Best Western Plus
+- **Harbour View Boutique Hotel And Yoga Retreat** — 29.0 km — hotel
+- **Great House Inn** — 29.0 km — hotel
+- **Fort George Hotel & Spa** — 29.1 km — hotel
+- **Coningsby Inn** — 29.1 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

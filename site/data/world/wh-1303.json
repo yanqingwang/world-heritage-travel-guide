@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1303.jpg",
-   "title": "Pontcysyllte Aqueduct and Canal",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1303",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%22Smile_please%22_The_Pontcysyllte_Aqueduct_-_geograph.org.uk_-_2981680.jpg/1280px-%22Smile_please%22_The_Pontcysyllte_Aqueduct_-_geograph.org.uk_-_2981680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Smile please\" The Pontcysyllte Aqueduct - geograph.org.uk - 2981680.jpg",
+   "author": "John M Wheatley",
+   "license": "CC BY-SA 2.0",
+   "credit": "Geograph Britain and Ireland",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Smile_please%22_The_Pontcysyllte_Aqueduct_-_geograph.org.uk_-_2981680.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/..View_of_Pontcysyllte_aqueduct%2C_North_Wales.._LCCN2004670652.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "..View of Pontcysyllte aqueduct, North Wales.. LCCN2004670652.jpg",
+   "author": "Popular Graphic Arts",
+   "license": "Public domain",
+   "credit": "Library of Congress Catalog: http://lccn.loc.gov/2004670652 Image download: http://cdn.loc.gov/service/pnp/pga/01700/01718v.jpg Original url: https://www.loc.go",
+   "source": "https://commons.wikimedia.org/wiki/File:..View_of_Pontcysyllte_aqueduct%2C_North_Wales.._LCCN2004670652.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/068_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852392025386%29.jpg/1280px-068_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852392025386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "068 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82 (52392025386).jpg",
+   "author": "wilford peloquin",
+   "license": "CC BY 2.0",
+   "credit": "068 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82",
+   "source": "https://commons.wikimedia.org/wiki/File:068_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852392025386%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/069_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852391101072%29.jpg/1280px-069_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852391101072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "069 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82 (52391101072).jpg",
+   "author": "wilford peloquin",
+   "license": "CC BY 2.0",
+   "credit": "069 Pontcysyllte Aqueduct, Llangollen Canal, Apr 82",
+   "source": "https://commons.wikimedia.org/wiki/File:069_Pontcysyllte_Aqueduct%2C_Llangollen_Canal%2C_Apr_82_%2852391101072%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1303",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 43.5,
   "distance_beijing_km": 8120.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Sandy Lane",
+    "name_en": null,
+    "lat": 53.1874843,
+    "lon": -2.8700717,
+    "distance_km": 28.2,
+    "operator": "Cheshire West and Chester Council"
+   },
+   {
+    "name": "The Meadows",
+    "name_en": null,
+    "lat": 53.1877148,
+    "lon": -2.8713181,
+    "distance_km": 28.2,
+    "operator": "Cheshire West and Chester Countil"
+   },
+   {
+    "name": "Sabrina Boat",
+    "name_en": null,
+    "lat": 52.709833,
+    "lon": -2.7582982,
+    "distance_km": 36.4,
+    "operator": null
+   },
+   {
+    "name": "Ince Ferry",
+    "name_en": null,
+    "lat": 53.2893996,
+    "lon": -2.8254091,
+    "distance_km": 39.6,
+    "operator": null
+   },
+   {
+    "name": "Woodside (Mersey Ferry)",
+    "name_en": null,
+    "lat": 53.3955501,
+    "lon": -3.0088011,
+    "distance_km": 47.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Ruabon",
+    "name_en": "Ruabon",
+    "lat": 52.98724,
+    "lon": -3.0433414,
+    "distance_km": 3.5,
+    "operator": "Transport for Wales Rail"
+   },
+   {
+    "name": "Chirk",
+    "name_en": "Chirk",
+    "lat": 52.9332472,
+    "lon": -3.06615,
+    "distance_km": 4.4,
+    "operator": "Transport for Wales Rail"
+   },
+   {
+    "name": "Llangollen",
+    "name_en": null,
+    "lat": 52.9713051,
+    "lon": -3.1714237,
+    "distance_km": 5.6,
+    "operator": null
+   },
+   {
+    "name": "Berwyn",
+    "name_en": null,
+    "lat": 52.979942,
+    "lon": -3.1950487,
+    "distance_km": 7.3,
+    "operator": null
+   },
+   {
+    "name": "Gobowen",
+    "name_en": null,
+    "lat": 52.8933219,
+    "lon": -3.0368846,
+    "distance_km": 9.2,
+    "operator": "Transport for Wales Rail"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Palé Hall Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.9125917,
+   "lon": -3.5144551,
+   "distance_km": 29.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "West Arms Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 52.886526,
+   "lon": -3.2541816,
+   "distance_km": 14.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Coach House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.1920356,
+   "lon": -2.8928627,
+   "distance_km": 27.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Queen Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western",
+   "lat": 53.1959501,
+   "lon": -2.880069,
+   "distance_km": 28.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel & Spa Chester",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.2063529,
+   "lon": -2.8541178,
+   "distance_km": 30.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GB",
   "country_zh": "英国",
@@ -156,5 +318,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:49:54Z"
 }

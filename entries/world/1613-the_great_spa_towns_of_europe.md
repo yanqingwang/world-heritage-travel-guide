@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)"
 lat: 50.492222222
 lon: 5.866944444
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:47Z"
 ---
 
 # 欧洲温泉疗养胜地 / The Great Spa Towns of Europe
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *2018-09-14 Terme Tettuccio Tempio Termale 09.jpg · see Wikimedia Commons file page*
 
-![The Great Spa Towns of Europe](https://whc.unesco.org/uploads/sites/site_1613.jpg)
+![CZE – Karlovarský kraj — Okres Cheb — Františkovy Lázně (Franzesbad) (welcome sign) 2025-06-21 Mattes.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CZE_%E2%80%93_Karlovarsk%C3%BD_kraj_%E2%80%94_Okres_Cheb_%E2%80%94_Franti%C5%A1kovy_L%C3%A1zn%C4%9B_%28Franzesbad%29_%28welcome_sign%29_2025-06-21_Mattes.jpg/1280px-CZE_%E2%80%93_Karlovarsk%C3%BD_kraj_%E2%80%94_Okres_Cheb_%E2%80%94_Franti%C5%A1kovy_L%C3%A1zn%C4%9B_%28Franzesbad%29_%28welcome_sign%29_2025-06-21_Mattes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Great Spa Towns of Europe · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*CZE – Karlovarský kraj — Okres Cheb — Františkovy Lázně (Franzesbad) (welcome sign) 2025-06-21 Mattes.jpg · Mateus2019 · CC BY 3.0 de*
+
+![Františkovy Lázně UNESCO 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Franti%C5%A1kovy_L%C3%A1zn%C4%9B_UNESCO_1.jpg/1280px-Franti%C5%A1kovy_L%C3%A1zn%C4%9B_UNESCO_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Františkovy Lázně UNESCO 1.jpg · VitVit · CC BY-SA 4.0*
+
+![Františkovy Lázně UNESCO 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Franti%C5%A1kovy_L%C3%A1zn%C4%9B_UNESCO_2.jpg/1280px-Franti%C5%A1kovy_L%C3%A1zn%C4%9B_UNESCO_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Františkovy Lázně UNESCO 2.jpg · VitVit · CC BY-SA 4.0*
+
+![Františkovy Lázně UNESCO 5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Franti%C5%A1kovy_L%C3%A1zn%C4%9B_UNESCO_5.jpg/1280px-Franti%C5%A1kovy_L%C3%A1zn%C4%9B_UNESCO_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Františkovy Lázně UNESCO 5.jpg · VitVit · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Unter dem Titel Bedeutende Kurstädte Europas (englisch The Great Spa Towns of E
 - ✈ **Liège Airport (LGG)** — 34.0 km
 - ✈ **Maastricht Aachen Airport (MST)** — 47.1 km
 - ✈ **Cologne Bonn Airport (CGN)** — 99.0 km
+- 🚉 **Spa-Géronstère** — 0.3 km
+- 🚉 **Spa** — 0.8 km
+- 🚉 **Franchimont** — 4.9 km
+- 🚉 **Theux** — 6.1 km
+- 🚉 **Juslenville** — 7.1 km
+- ⛴ **Fragnée** — 24.8 km
+- ⛴ **Coronmeuse** — 25.3 km
+- ⛴ **Guillemins / Boverie** — 25.7 km
+- ⛴ **Pôle fluvial** — 26.1 km
+- ⛴ **Cœur historique** — 26.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7913.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Van Oys Maastricht Retreat** — 35.6 km — star — 5★
+- **Quellenhof** — 35.9 km — star — 5★
+- **Kruisherenhotel** — 41.7 km — star — 5★ · Château Hotels
+- **Silva Hotel Spa-Balmoral** — 2.0 km — star — 4★
+- **R Hotel Experience** — 11.8 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

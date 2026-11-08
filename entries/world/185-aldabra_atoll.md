@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(vii)(ix)(x)"
 lat: -9.416388888
 lon: 46.416388888
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:50Z"
 ---
 
 # 阿尔达布拉环礁 / Aldabra Atoll
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Seychelles outer islands 25.08.2009 10-19-35.jpg · see Wikimedia Commons file page*
 
-![Aldabra Atoll](https://whc.unesco.org/uploads/sites/site_185.jpg)
+![MZ Aldabra.PNG](https://upload.wikimedia.org/wikipedia/commons/1/13/MZ_Aldabra.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Aldabra Atoll · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*MZ Aldabra.PNG · edited by M.Minderhoud · Public domain*
+
+![Aldabra Atoll (32808379840).jpg](https://upload.wikimedia.org/wikipedia/commons/a/a2/Aldabra_Atoll_%2832808379840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aldabra Atoll (32808379840).jpg · David Stanley from Nanaimo, Canada · CC BY 2.0*
+
+![Aldabra Atoll and Assumption Island.jpg](https://upload.wikimedia.org/wikipedia/commons/1/17/Aldabra_Atoll_and_Assumption_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aldabra Atoll and Assumption Island.jpg · Public domain*
+
+![Aldabra Atoll-108985.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Aldabra_Atoll-108985.jpg/1280px-Aldabra_Atoll-108985.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aldabra Atoll-108985.jpg · Ron Van Oers · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 

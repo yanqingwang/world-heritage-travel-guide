@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_121.jpg",
-   "title": "Kathmandu Valley",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/121",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kathmandu_Valley1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Kathmandu Valley1.png",
+   "author": "הגמל התימני ( talk )",
+   "license": "CC BY-SA 4.0",
+   "credit": "originally from en:Image:Population density map of nepal.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Kathmandu_Valley1.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kathmandu_Valley2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Kathmandu Valley2.png",
+   "author": "הגמל התימני",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kathmandu_Valley2.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kathmandu215.png/1280px-Kathmandu215.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kathmandu215.png",
+   "author": "Kiran215",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kathmandu215.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/0904_foggy_kvalley_%283049756074%29.jpg/1280px-0904_foggy_kvalley_%283049756074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0904 foggy kvalley (3049756074).jpg",
+   "author": "Peretz Partensky from San Francisco, USA",
+   "license": "CC BY-SA 2.0",
+   "credit": "0904 foggy kvalley",
+   "source": "https://commons.wikimedia.org/wiki/File:0904_foggy_kvalley_%283049756074%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/121",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Aloft by Marriott Kathmandu Thamel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Aloft",
+   "lat": 27.7158609,
+   "lon": 85.3132203,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Malla Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.7170521,
+   "lon": 85.3137684,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Soaltee Hotel",
+   "name_en": "Soaltee Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 27.7000592,
+   "lon": 85.2913923,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Fern Residency Platinum",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.6984241,
+   "lon": 85.2914754,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Hotel Kathmandu",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson",
+   "lat": 27.7200685,
+   "lon": 85.3214693,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "NP",
   "country_zh": "尼泊尔",
@@ -158,5 +238,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:52Z"
+ "updated_at": "2026-11-08T16:42:52Z"
 }

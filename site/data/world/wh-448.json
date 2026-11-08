@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_448.jpg",
-   "title": "Nemrut Dağ",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/448",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nemrut_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B11.JPG/1280px-Nemrut_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Nemrut Dağı Millî Parkı1.JPG",
+   "author": "Acar54",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Nemrut_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B11.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/00_0361_Nemrut_Da%C4%9F%C4%B1_-_Provinz_Adiyaman%2C_T%C3%BCrkei_%28Taurusgebirge%29.jpg/1280px-00_0361_Nemrut_Da%C4%9F%C4%B1_-_Provinz_Adiyaman%2C_T%C3%BCrkei_%28Taurusgebirge%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 0361 Nemrut Dağı - Provinz Adiyaman, Türkei (Taurusgebirge).jpg",
+   "author": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_0361_Nemrut_Da%C4%9F%C4%B1_-_Provinz_Adiyaman%2C_T%C3%BCrkei_%28Taurusgebirge%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/01_-_Nemrut_Dagi.jpg/1280px-01_-_Nemrut_Dagi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01 - Nemrut Dagi.jpg",
+   "author": "Misa.stefanovic.07",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:01_-_Nemrut_Dagi.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/02_-_Nemrut_Dagi.jpg/1280px-02_-_Nemrut_Dagi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "02 - Nemrut Dagi.jpg",
+   "author": "Misa.stefanovic.07",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:02_-_Nemrut_Dagi.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/448",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Garden Inn Adiyaman",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 37.7665488,
+   "lon": 38.3059412,
+   "distance_km": 45.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Samos Otel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 37.762815,
+   "lon": 38.291566,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Güneş Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.9899523,
+   "lon": 38.7598863,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kervanserai Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.9399085,
+   "lon": 38.760572,
+   "distance_km": 4.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Euphrat",
+   "name_en": "Hotel Euphrat",
+   "stars": null,
+   "brand": null,
+   "lat": 37.9394362,
+   "lon": 38.7621037,
+   "distance_km": 5.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TR",
   "country_zh": "土耳其",
@@ -158,5 +238,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:40Z"
 }

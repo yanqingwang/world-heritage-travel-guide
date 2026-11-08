@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_395.jpg",
-   "title": "Piazza del Duomo, Pisa",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/395",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Pisa_fd_%286%29.jpg/1280px-Pisa_fd_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pisa fd (6).jpg",
+   "author": "Friedhelm Dröge",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pisa_fd_%286%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Placa_de_la_Unesco%2C_Piazza_del_Duomo_de_Pisa.JPG/1280px-Placa_de_la_Unesco%2C_Piazza_del_Duomo_de_Pisa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Placa de la Unesco, Piazza del Duomo de Pisa.JPG",
+   "author": "Joanbanjo",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Placa_de_la_Unesco%2C_Piazza_del_Duomo_de_Pisa.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Campo_dei_Miracoli_overview2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Campo dei Miracoli overview2.jpg",
+   "author": "Bob Tubbs",
+   "license": "Public domain",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:Campo_dei_Miracoli_overview2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Parking_Pietrasantina_%28piazza_nuova_grande%29%2C_Piazza_dei_Miracoli_and_the_Leaning_Tower_-_Pisa_-_veduta_dall%27aereo_2_%28cropped%29.JPG/1280px-Parking_Pietrasantina_%28piazza_nuova_grande%29%2C_Piazza_dei_Miracoli_and_the_Leaning_Tower_-_Pisa_-_veduta_dall%27aereo_2_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Parking Pietrasantina (piazza nuova grande), Piazza dei Miracoli and the Leaning Tower - Pisa - veduta dall'aereo 2 (cropped).JPG",
+   "author": "Luca Aless , crop of photo: User:LudwigSebastianMicheler",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Parking_Pietrasantina_%28piazza_nuova_grande%29%2C_Piazza_dei_Miracoli_and_the_Leaning_Tower_-_Pisa_-_veduta_dall%27aereo_2_%28cropped%29.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/395",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 4.4,
   "distance_beijing_km": 8130.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Darsena Lucca",
+    "name_en": null,
+    "lat": 43.8656206,
+    "lon": 10.2534886,
+    "distance_km": 19.5,
+    "operator": null
+   },
+   {
+    "name": "Darsena Toscana",
+    "name_en": null,
+    "lat": 43.8643582,
+    "lon": 10.2476168,
+    "distance_km": 19.6,
+    "operator": null
+   },
+   {
+    "name": "Darsena Europa",
+    "name_en": null,
+    "lat": 43.863008,
+    "lon": 10.2426514,
+    "distance_km": 19.7,
+    "operator": null
+   },
+   {
+    "name": "Darsena Italia",
+    "name_en": null,
+    "lat": 43.8640032,
+    "lon": 10.246279,
+    "distance_km": 19.7,
+    "operator": null
+   },
+   {
+    "name": "Calata Carrara",
+    "name_en": null,
+    "lat": 43.5554649,
+    "lon": 10.3021975,
+    "distance_km": 20.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Pisa San Rossore",
+    "name_en": null,
+    "lat": 43.7233722,
+    "lon": 10.3879192,
+    "distance_km": 0.6,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Stazione Centrale",
+    "name_en": "Central Station",
+    "lat": 43.707695,
+    "lon": 10.3963659,
+    "distance_km": 1.8,
+    "operator": "PisaMo"
+   },
+   {
+    "name": "Pisa Centrale",
+    "name_en": "Central Station of Pisa",
+    "lat": 43.7078625,
+    "lon": 10.3983886,
+    "distance_km": 1.8,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "San Giusto - Aurelia",
+    "name_en": null,
+    "lat": 43.701377,
+    "lon": 10.3912648,
+    "distance_km": 2.5,
+    "operator": "PisaMo"
+   },
+   {
+    "name": "Pisa Aeroporto",
+    "name_en": "Station Pisa Airport",
+    "lat": 43.6986715,
+    "lon": 10.3975589,
+    "distance_km": 2.8,
+    "operator": "PisaMo"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Abitalia Tower Plaza",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7221343,
+   "lon": 10.3788493,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bagni di Pisa Palace & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7637738,
+   "lon": 10.4414931,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Toscana Charme Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.6056399,
+   "lon": 10.2920086,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Palazzo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.5331621,
+   "lon": 10.3028537,
+   "distance_km": 22.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel & La Pace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.8839193,
+   "lon": 10.7704321,
+   "distance_km": 35.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:23Z"
 }

@@ -58,12 +58,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_994.jpg",
-   "title": "Curonian Spit",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/994",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2001.06.00.lt.Kur%C5%A1iuNerija.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2001.06.00.lt.KuršiuNerija.jpg",
+   "author": "Francisco Santos ( User:xuaxo )",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2001.06.00.lt.Kur%C5%A1iuNerija.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2012_07_11_Neringa_033.JPG/1280px-2012_07_11_Neringa_033.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2012 07 11 Neringa 033.JPG",
+   "author": "Veljo Runnel",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2012_07_11_Neringa_033.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Akaflieg_Berlin_Teufelchen_Start_Rossitten_1923.jpg/1280px-Akaflieg_Berlin_Teufelchen_Start_Rossitten_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Akaflieg Berlin Teufelchen Start Rossitten 1923.jpg",
+   "author": "Mitglieder Akaflieg Berlin",
+   "license": "Public domain",
+   "credit": "Archiv Akaflieg Berlin",
+   "source": "https://commons.wikimedia.org/wiki/File:Akaflieg_Berlin_Teufelchen_Start_Rossitten_1923.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bundesarchiv_Bild_146-1990-001-30%2C_Fl%C3%BCchtlingstreck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Bundesarchiv Bild 146-1990-001-30, Flüchtlingstreck.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "CC BY-SA 3.0 de",
+   "credit": "This image was provided to Wikimedia Commons by the German Federal Archive (Deutsches Bundesarchiv) as part of a cooperation project . The German Federal Archiv",
+   "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1990-001-30%2C_Fl%C3%BCchtlingstreck.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/994",
@@ -102,10 +126,148 @@
   ],
   "nearest_airport_km": 48.7,
   "distance_beijing_km": 6811.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Nidos tarptautinis keleivių uostas",
+    "name_en": "Nida international passenger yacht port",
+    "lat": 55.301808,
+    "lon": 21.0092,
+    "distance_km": 3.9,
+    "operator": "Neringos komunalininkas"
+   },
+   {
+    "name": "Nidos keleivinė prieplauka",
+    "name_en": null,
+    "lat": 55.302985,
+    "lon": 21.0086349,
+    "distance_km": 4.0,
+    "operator": null
+   },
+   {
+    "name": "Nida",
+    "name_en": null,
+    "lat": 55.3038506,
+    "lon": 21.008922,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "Ventainė",
+    "name_en": null,
+    "lat": 55.3565508,
+    "lon": 21.2033246,
+    "distance_km": 17.3,
+    "operator": null
+   },
+   {
+    "name": "Uostadvaris",
+    "name_en": null,
+    "lat": 55.3444234,
+    "lon": 21.290946,
+    "distance_km": 21.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Šilutė",
+    "name_en": null,
+    "lat": 55.3471584,
+    "lon": 21.4842937,
+    "distance_km": 33.5,
+    "operator": null
+   },
+   {
+    "name": "Vilkyčiai",
+    "name_en": null,
+    "lat": 55.5189641,
+    "lon": 21.4077083,
+    "distance_km": 38.7,
+    "operator": null
+   },
+   {
+    "name": "Rimkai",
+    "name_en": null,
+    "lat": 55.6636483,
+    "lon": 21.2176589,
+    "distance_km": 46.0,
+    "operator": null
+   },
+   {
+    "name": "Зеленоградск-Новый",
+    "name_en": null,
+    "lat": 54.9584139,
+    "lon": 20.4726811,
+    "distance_km": 47.3,
+    "operator": "ОАО «РЖД»"
+   },
+   {
+    "name": "Полесск",
+    "name_en": null,
+    "lat": 54.8554105,
+    "lon": 21.1006733,
+    "distance_km": 47.3,
+    "operator": "ОАО «РЖД»"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "SPA Nida",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.3040416,
+   "lon": 21.0017878,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gilija",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.3420736,
+   "lon": 21.4741913,
+   "distance_km": 32.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Euterpė",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.7063966,
+   "lon": 21.135512,
+   "distance_km": 49.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amberton Hotel Klaipėda",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.7110122,
+   "lon": 21.1306197,
+   "distance_km": 49.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nidus",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 55.309194,
+   "lon": 20.9977855,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LT",
   "country_zh": "立陶宛",
@@ -172,5 +334,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:58Z"
+ "updated_at": "2026-11-08T16:48:32Z"
 }

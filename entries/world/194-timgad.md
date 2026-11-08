@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(iv)"
 lat: 35.484237
 lon: 6.468666
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:54Z"
 ---
 
 # 提姆加德 / Timgad
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Timgad Ruins Panorama.jpg · see Wikimedia Commons file page*
 
-![Timgad](https://whc.unesco.org/uploads/sites/site_194.jpg)
+![The Ruins of Timgad (Thamugadi) – A Roman Colonial City in Algeria 18.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/The_Ruins_of_Timgad_%28Thamugadi%29_%E2%80%93_A_Roman_Colonial_City_in_Algeria_18.jpg/1280px-The_Ruins_of_Timgad_%28Thamugadi%29_%E2%80%93_A_Roman_Colonial_City_in_Algeria_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Timgad · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*The Ruins of Timgad (Thamugadi) – A Roman Colonial City in Algeria 18.jpg · Rachid Hamatou · CC BY-SA 4.0*
+
+![The Ruins of Timgad (Thamugadi) – A Roman Colonial City in Algeria 19.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/The_Ruins_of_Timgad_%28Thamugadi%29_%E2%80%93_A_Roman_Colonial_City_in_Algeria_19.jpg/1280px-The_Ruins_of_Timgad_%28Thamugadi%29_%E2%80%93_A_Roman_Colonial_City_in_Algeria_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The Ruins of Timgad (Thamugadi) – A Roman Colonial City in Algeria 19.jpg · Rachid Hamatou · CC BY-SA 4.0*
+
+![The Ruins of Timgad (Thamugadi) – A Roman Colonial City in Algeria 34.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Ruins_of_Timgad_%28Thamugadi%29_%E2%80%93_A_Roman_Colonial_City_in_Algeria_34.jpg/1280px-The_Ruins_of_Timgad_%28Thamugadi%29_%E2%80%93_A_Roman_Colonial_City_in_Algeria_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The Ruins of Timgad (Thamugadi) – A Roman Colonial City in Algeria 34.jpg · Rachid Hamatou · CC BY-SA 4.0*
+
+![Timgad 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Timgad_2.jpg/1280px-Timgad_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Timgad 2.jpg · Yassamine98 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,19 @@ Timgad lies on the northern slopes of the Aurès mountains and was created ex ni
 - ✈ **Batna Mostefa Ben Boulaid Airport (BLJ)** — 33.1 km
 - ✈ **Mohamed Boudiaf International Airport (CZL)** — 89.1 km
 - ✈ **Biskra - Mohamed Khider Airport (BSK)** — 101.5 km
+- 🚉 **Djerma** — 24.2 km
+- 🚉 **Batna** — 28.0 km
+- 🚉 **Aïn Yagout** — 32.3 km
+- 🚉 **Sebbakh** — 45.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8977.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel Chélia** — 27.9 km — star — 4★
+- **Trajan Hotel** — 0.6 km — hotel
+- **نزل الكاهنة - Hôtel Elkahina** — 0.7 km — hotel
+- **Hôtel Fesdis** — 24.9 km — hotel — Fesdiss Hotel
+- **فندق الياسمين** — 26.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 56.31035
 lon: 38.13065
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:38Z"
 ---
 
 # 谢尔吉圣三一大修道院 / Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad
@@ -52,11 +52,25 @@ This is a fine example of a working Orthodox monastery, with military features t
 - ✈ **Sheremetyevo International Airport (SVO)** — 59.1 km
 - ✈ **Zhukovsky International Airport (ZIA)** — 84.2 km
 - ✈ **Vnukovo International Airport (VKO)** — 96.5 km
+- 🚉 **Сергиев Посад** — 1.0 km
+- 🚉 **Наугольный** — 6.2 km
+- 🚉 **Хотьково** — 10.1 km
+- 🚉 **Желтиково** — 11.7 km
+- 🚉 **Бужаниново** — 14.2 km
+- ⛴ **Хвойный Бор** — 37.9 km
+- ⛴ **Степаньково** — 44.2 km
+- ⛴ **Бухта Радости** — 46.9 km
+- ⛴ **Новосельцево** — 48.5 km
+- ⛴ **Троицкое** — 49.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5796.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Комфорт-отель** — 12.1 km — star — 4★
+- **«Четыре короны»** — 37.5 km — star — 4★
+- **Артурс-СПА** — 44.0 km — star — 4★
+- **Эко-отель Лепота** — 49.7 km — star — 4★
+- **Владимирская** — 0.6 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

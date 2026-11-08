@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(v)(vi)(vii)(viii)"
 lat: -25.322076
 lon: 130.985732
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:38Z"
 ---
 
 # 乌卢鲁－卡塔曲塔国家公园 / Ulu r u-Kata Tju t a National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *UluruClip3ArtC1941.jpg · see Wikimedia Commons file page*
 
-![Ulu<U>r</U>u-Kata Tju<U>t</U>a National Park](https://whc.unesco.org/uploads/sites/site_447.jpg)
+![A lookout in Ayers Rock.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/A_lookout_in_Ayers_Rock.jpg/1280px-A_lookout_in_Ayers_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ulu<U>r</U>u-Kata Tju<U>t</U>a National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A lookout in Ayers Rock.jpg · Ndaaunhi · CC BY-SA 4.0*
+
+![A186, Northern Territory, Australia, Uluru-Kata Tjuta National Park, The Olgas at sunrise, 2007.JPG](https://upload.wikimedia.org/wikipedia/commons/7/72/A186%2C_Northern_Territory%2C_Australia%2C_Uluru-Kata_Tjuta_National_Park%2C_The_Olgas_at_sunrise%2C_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A186, Northern Territory, Australia, Uluru-Kata Tjuta National Park, The Olgas at sunrise, 2007.JPG · Brian W. Schaller · FAL*
+
+![Acacia aptaneura habit.jpg](https://upload.wikimedia.org/wikipedia/commons/5/53/Acacia_aptaneura_habit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Acacia aptaneura habit.jpg · Murray Fagg · CC BY 3.0 au*
+
+![Acacia ayersiana flowers.jpg](https://upload.wikimedia.org/wikipedia/commons/e/eb/Acacia_ayersiana_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Acacia ayersiana flowers.jpg · J. Palmer · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -49,7 +61,11 @@ This park, formerly called Uluru (Ayers Rock – Mount Olga) National Park, feat
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Longitude 131º** — 8.3 km — hotel
+- **Desert Gardens Hotel** — 8.7 km — hotel
+- **Outback Hotel** — 8.8 km — hotel
+- **Emu Walk Apartments** — 8.9 km — hotel
+- **The Lost Camel Hotel** — 9.0 km — hotel — The Lost Camel Hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

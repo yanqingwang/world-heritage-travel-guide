@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(vi)"
 lat: 11.484388888
 lon: 104.901969444
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:04Z"
 ---
 
 # 柬埔寨纪念地：从压迫中心到和平与反思之所 / Cambodian Memorial Sites: From centres of repression to places of peace and reflection

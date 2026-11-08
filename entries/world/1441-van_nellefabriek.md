@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iv)"
 lat: 51.922778
 lon: 4.433611
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:13Z"
 ---
 
 # 范內勒工廠 / Van Nellefabriek

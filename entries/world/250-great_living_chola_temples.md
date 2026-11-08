@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iii)"
 lat: 10.783055555
 lon: 79.1325
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:11Z"
 ---
 
 # 朱罗王朝现存的神庙 / Great Living Chola Temples
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Darasuram, Airavatesvara Temple, Dravidian architecture, India.jpg · see Wikimedia Commons file page*
 
-![Great Living Chola Temples](https://whc.unesco.org/uploads/sites/site_250.jpg)
+![A collage of Great living Chola temples UNESCO heritage site.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_collage_of_Great_living_Chola_temples_UNESCO_heritage_site.jpg/1280px-A_collage_of_Great_living_Chola_temples_UNESCO_heritage_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Great Living Chola Temples · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A collage of Great living Chola temples UNESCO heritage site.jpg · Ms Sarah Welch · CC BY-SA 4.0*
+
+![Chola's Mani Mandapam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Chola%27s_Mani_Mandapam.jpg/1280px-Chola%27s_Mani_Mandapam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chola's Mani Mandapam.jpg · RealinRear · CC BY-SA 4.0*
+
+![Sculpt works at the side of the big temple main tower.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Sculpt_works_at_the_side_of_the_big_temple_main_tower.jpg/1280px-Sculpt_works_at_the_side_of_the_big_temple_main_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Sculpt works at the side of the big temple main tower.jpg · Raudhran · CC BY-SA 4.0*
+
+![Standing child birth.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Standing_child_birth.jpg/1280px-Standing_child_birth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Standing child birth.jpg · Darshanavenugopal · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The Great Living Chola Temples were built by kings of the Chola Empire, which st
 - ✈ **Tiruchirappalli International Airport (TRZ)** — 45.4 km
 - ✈ **Jaffna International Airport (JAF)** — 150.5 km
 - ✈ **Pondicherry Airport (PNY)** — 151.2 km
+- 🚉 **Thanjavur Junction** — 1.0 km
+- 🚉 **Titte** — 8.1 km
+- 🚉 **Alakkudi** — 8.7 km
+- 🚉 **Pasupatikovil** — 12.8 km
+- 🚉 **Ayyampet** — 15.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4944.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Oriental Towers** — 1.2 km — star — 4★
+- **PL.A Krishna Inn** — 49.3 km — star — 3★
+- **Hotel Temple Tower** — 0.8 km — star — 2★
+- **Hotel Sampath** — 48.3 km — star — 2★
+- **Courtyard by Marriott** — 49.8 km — chain — Courtyard
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iii)(iv)"
 lat: 32.008333333
 lon: 48.520833333
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:47Z"
 ---
 
 # 恰高•占比尔 / Tchogha Zanbil
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *Choghazanbil2.jpg · see Wikimedia Commons file page*
 
-![Tchogha Zanbil](https://whc.unesco.org/uploads/sites/site_113.jpg)
+![Chonga zenvil.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e6/Chonga_zenvil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Tchogha Zanbil · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Chonga zenvil.jpg · de:User:Beademung , original map by de:User:Captain Blood · CC BY-SA 3.0*
+
+![Chogha Zanbil, Ziggurat (model).jpg](https://upload.wikimedia.org/wikipedia/commons/6/6b/Chogha_Zanbil%2C_Ziggurat_%28model%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Chogha Zanbil, Ziggurat (model).jpg · Jona Lendering · CC0*
+
+![Dor ontash map cor.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Dor_ontash_map_cor.jpg/1280px-Dor_ontash_map_cor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dor ontash map cor.jpg · Own work based on: Dor ontash map.jpg · CC BY-SA 3.0*
+
+![Dor ontash map.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Dor_ontash_map.jpg/1280px-Dor_ontash_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dor ontash map.jpg · Iran Cultural Heritage Organization (ICHO) (as publisher) · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ The ruins of the holy city of the Kingdom of Elam, surrounded by three huge conc
 - ✈ **Dezful Airport (DEF)** — 48.8 km
 - ✈ **Qasem Soleimani International Airport (AWZ)** — 78.2 km
 - ✈ **Khoram Abad Airport (KHD)** — 160.2 km
+- 🚉 **میان آباد** — 8.2 km
+- 🚉 **آهودشت** — 15.4 km
+- 🚉 **هفت تپه** — 18.7 km
+- 🚉 **شوشتر** — 29.5 km
+- 🚉 **شوش** — 30.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6024.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل سنتی سرابی شوشتر** — 31.8 km — star — Shushtar Sarabi Traditional hotel · 3★
+- **هتل گرگر** — 31.3 km — hotel — Gargar Hotel
+- **هتل طبیب** — 31.4 km — hotel — Tabib Traditional Hotel
+- **هتل سنتی خانه افضل** — 31.4 km — hotel — Afzal House Traditional Hotel
+- **هتل سنتی عمارت پدری(جامعی)** — 31.7 km — hotel — traditional hotel emarat pedari(jameei)
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

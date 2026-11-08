@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(i)(iii)"
 lat: 18.259444444
 lon: 79.9425
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:39Z"
 ---
 
 # 特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙 / Kakatiya Rudreshwara (Ramappa) Temple, Telangana
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *Master piece of ramappa temple.jpg · see Wikimedia Commons file page*
 
-![Kakatiya Rudreshwara (Ramappa) Temple, Telangana](https://whc.unesco.org/uploads/sites/site_1570.jpg)
+![13th century Ramappa temple and monuments, Palampet Telangana - 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_01.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kakatiya Rudreshwara (Ramappa) Temple, Telangana · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*13th century Ramappa temple and monuments, Palampet Telangana - 01.jpg · Ms Sarah Welch · CC0*
+
+![13th century Ramappa temple and monuments, Palampet Telangana - 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_02.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*13th century Ramappa temple and monuments, Palampet Telangana - 02.jpg · Ms Sarah Welch · CC0*
+
+![13th century Ramappa temple and monuments, Palampet Telangana - 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_03.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*13th century Ramappa temple and monuments, Palampet Telangana - 03.jpg · Ms Sarah Welch · CC0*
+
+![13th century Ramappa temple and monuments, Palampet Telangana - 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_04.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*13th century Ramappa temple and monuments, Palampet Telangana - 04.jpg · Ms Sarah Welch · CC0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Rudreshwara, popularly known as Ramappa Temple, is located in the village of Pal
 - ✈ **Rajiv Gandhi International Airport (HYD)** — 196.8 km
 - ✈ **Vijayawada International Airport (VGA)** — 213.0 km
 - ✈ **Rajahmundry Airport (RJA)** — 236.1 km
+- 🚉 **Vanchanagiri** — 44.9 km
+- 🚉 **Chintalpalli** — 46.0 km
+- 🚉 **Warangal** — 47.7 km
+- 🚉 **Yelgur** — 48.9 km
+- 🚉 **Jammikunta** — 49.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4454.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Srinivas Hotel** — 4.7 km — hotel
+- **Tadwai Huts Eco Tourism Stay** — 38.9 km — hotel
+- **gokul** — 46.9 km — hotel
+- **karam hotel** — 47.0 km — hotel
+- **shalimar hotel** — 47.0 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

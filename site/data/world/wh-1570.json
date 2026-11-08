@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1570.jpg",
-   "title": "Kakatiya Rudreshwara (Ramappa) Temple, Telangana",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1570",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_01.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "13th century Ramappa temple and monuments, Palampet Telangana - 01.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_02.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "13th century Ramappa temple and monuments, Palampet Telangana - 02.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_03.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "13th century Ramappa temple and monuments, Palampet Telangana - 03.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_04.jpg/1280px-13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "13th century Ramappa temple and monuments, Palampet Telangana - 04.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:13th_century_Ramappa_temple_and_monuments%2C_Palampet_Telangana_-_04.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1570",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 196.8,
   "distance_beijing_km": 4454.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Vanchanagiri",
+    "name_en": null,
+    "lat": 17.9492437,
+    "lon": 79.6703436,
+    "distance_km": 44.9,
+    "operator": "SCR"
+   },
+   {
+    "name": "Chintalpalli",
+    "name_en": null,
+    "lat": 17.9143947,
+    "lon": 79.7021653,
+    "distance_km": 46.0,
+    "operator": "SCR"
+   },
+   {
+    "name": "Warangal",
+    "name_en": "Warangal",
+    "lat": 17.9732956,
+    "lon": 79.6056068,
+    "distance_km": 47.7,
+    "operator": "SCR"
+   },
+   {
+    "name": "Yelgur",
+    "name_en": null,
+    "lat": 17.8611024,
+    "lon": 79.7472827,
+    "distance_km": 48.9,
+    "operator": "SCR"
+   },
+   {
+    "name": "Jammikunta",
+    "name_en": null,
+    "lat": 18.2900298,
+    "lon": 79.4766883,
+    "distance_km": 49.3,
+    "operator": "SCR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Srinivas Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.2972479,
+   "lon": 79.9622907,
+   "distance_km": 4.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tadwai Huts Eco Tourism Stay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.2262099,
+   "lon": 80.3087139,
+   "distance_km": 38.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "gokul",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.9829888,
+   "lon": 79.6075572,
+   "distance_km": 46.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "karam hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.9882162,
+   "lon": 79.601935,
+   "distance_km": 47.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "shalimar hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.9879248,
+   "lon": 79.6010389,
+   "distance_km": 47.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:39Z"
 }

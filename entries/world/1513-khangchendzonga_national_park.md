@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(vi)(vii)(x)"
 lat: 27.6563
 lon: 88.3123
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:29Z"
 ---
 
 # 干城章嘉国家公园 / Khangchendzonga National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *Abhishek532 LamuneyValley.jpg · see Wikimedia Commons file page*
 
-![Khangchendzonga National Park](https://whc.unesco.org/uploads/sites/site_1513.jpg)
+![A scene from Kanchendzonga National Park, Sikkim (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%282%29.jpg/1280px-A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Khangchendzonga National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A scene from Kanchendzonga National Park, Sikkim (2).jpg · G Devadarshan Sharma · CC BY-SA 4.0*
+
+![A scene from Kanchendzonga National Park, Sikkim (3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%283%29.jpg/1280px-A_scene_from_Kanchendzonga_National_Park%2C_Sikkim_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A scene from Kanchendzonga National Park, Sikkim (3).jpg · G Devadarshan Sharma · CC BY-SA 4.0*
+
+![A scene from Kanchenjunga National Park, Sikkim (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_scene_from_Kanchenjunga_National_Park%2C_Sikkim_%281%29.jpg/1280px-A_scene_from_Kanchenjunga_National_Park%2C_Sikkim_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A scene from Kanchenjunga National Park, Sikkim (1).jpg · G Devadarshan Sharma · CC BY-SA 4.0*
+
+![Abhishek532 Goechala1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abhishek532_Goechala1.jpg/1280px-Abhishek532_Goechala1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abhishek532 Goechala1.jpg · Abhishek532 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ Located at the heart of the Himalayan range in northern India (State of Sikkim),
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Blue Spring** — 39.3 km — star — 1★
+- **Floret holiday** — 43.0 km — chain
+- **kanchenjunga iceland guesthouse** — 31.0 km — hotel
+- **kanchenjunga iceland guest house lonak** — 31.0 km — hotel — kanchenjunga iceland guest house lonak
+- **Ejam Residency** — 32.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

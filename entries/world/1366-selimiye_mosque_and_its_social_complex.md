@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(i)(iv)"
 lat: 41.678056
 lon: 26.559444
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:50:04Z"
 ---
 
 # 赛利米耶清真寺 / Selimiye Mosque and its Social Complex
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *Edirne 7333 Nevit.JPG · see Wikimedia Commons file page*
 
-![Selimiye Mosque and its Social Complex](https://whc.unesco.org/uploads/sites/site_1366.jpg)
+![20. yüzyılın ilk çeyreğinde Türkiye'nin Edirne kentindeki Selimiye Camii.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f2/20._y%C3%BCzy%C4%B1l%C4%B1n_ilk_%C3%A7eyre%C4%9Finde_T%C3%BCrkiye%27nin_Edirne_kentindeki_Selimiye_Camii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Selimiye Mosque and its Social Complex · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20. yüzyılın ilk çeyreğinde Türkiye'nin Edirne kentindeki Selimiye Camii.jpg · Unknown author Unknown author · Public domain*
+
+![Adrianopole. La mosquée Sultan Selim - DPLA - ad7cda8f3c4ac49b48872e8a7f9b6037 (page 1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Adrianopole._La_mosqu%C3%A9e_Sultan_Selim_-_DPLA_-_ad7cda8f3c4ac49b48872e8a7f9b6037_%28page_1%29.jpg/1280px-Adrianopole._La_mosqu%C3%A9e_Sultan_Selim_-_DPLA_-_ad7cda8f3c4ac49b48872e8a7f9b6037_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Adrianopole. La mosquée Sultan Selim - DPLA - ad7cda8f3c4ac49b48872e8a7f9b6037 (page 1).jpg · Catsimpoolas, Nicholas · Public domain*
+
+![Andrianople La Mosquée du Sultan Sélim - Beauregard J - 1896.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d8/Andrianople_La_Mosqu%C3%A9e_du_Sultan_S%C3%A9lim_-_Beauregard_J_-_1896.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Andrianople La Mosquée du Sultan Sélim - Beauregard J - 1896.jpg · O'Netty (illustrator) / J. de Beauregard (author) · Public domain*
+
+![Beyazit II Mosque In Edirne 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Beyazit_II_Mosque_In_Edirne_02.jpg/1280px-Beyazit_II_Mosque_In_Edirne_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Beyazit II Mosque In Edirne 02.jpg · "Yahia" · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Selimiye Camii, Osmanlı padişahı II. Selim döneminde Mimar Sinan'ın yaptı�
 - ✈ **Alexandroupoli Democritus Airport (AXD)** — 104.4 km
 - ✈ **Burgas Airport (BOJ)** — 126.7 km
 - ✈ **Tekirdağ Çorlu Airport (TEQ)** — 128.3 km
+- 🚉 **Edirne** — 3.1 km
+- 🚉 **Νέα Βύσσα** — 11.2 km
+- 🚉 **Tayakadın** — 11.9 km
+- 🚉 **Kapıkule** — 17.0 km
+- 🚉 **Ορεστιάδα** — 19.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7282.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Луксор** — 40.6 km — star — Luxor · 4★
+- **Хестея** — 30.2 km — star — Hesteya · 3★
+- **Свилена** — 31.6 km — star — Svilena · 3★
+- **Ξενοδοχείο Ερμής** — 36.5 km — star — Hotel Ermis · 3★
+- **Plotini Hotel** — 38.1 km — star — Plotini Hotel · 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

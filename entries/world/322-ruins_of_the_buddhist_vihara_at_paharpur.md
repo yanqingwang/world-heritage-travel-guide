@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(ii)(vi)"
 lat: 25.03111111
 lon: 88.97694444
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:45:11Z"
 ---
 
 # 帕哈尔普尔的佛教毗诃罗遗址 / Ruins of the Buddhist Vihara at Paharpur
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *পাহাড়পুর বৌদ্ধ বিহার 22.jpg · see Wikimedia Commons file page*
 
-![Ruins of the Buddhist Vihara at Paharpur](https://whc.unesco.org/uploads/sites/site_322.jpg)
+![1.পাহাড়পুর বৌদ্ধ বিহার.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1.%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0.jpg/1280px-1.%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ruins of the Buddhist Vihara at Paharpur · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1.পাহাড়পুর বৌদ্ধ বিহার.jpg · Pinu Rahman · CC BY-SA 4.0*
+
+![1000 year old terracotta artefact.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/1000_year_old_terracotta_artefact.jpg/1280px-1000_year_old_terracotta_artefact.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1000 year old terracotta artefact.jpg · Zaheed Sarwer Khan · CC BY 4.0*
+
+![2.পাহাড়পুর বৌদ্ধ বিহার.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2.%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0.jpg/1280px-2.%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2.পাহাড়পুর বৌদ্ধ বিহার.jpg · Pinu Rahman · CC BY-SA 4.0*
+
+![A panel of Pala dynasty terracotta plaques.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_panel_of_Pala_dynasty_terracotta_plaques.jpg/1280px-A_panel_of_Pala_dynasty_terracotta_plaques.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A panel of Pala dynasty terracotta plaques.jpg · Roydibakar87 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,21 @@ Evidence of the rise of Mahayana Buddhism in Bengal from the 7th century onwards
 - ✈ **Shah Makhdum Airport (RJH)** — 75.4 km
 - ✈ **Saidpur Airport (SPD)** — 81.2 km
 - ✈ **Bhadrapur Airport (BDP)** — 193.3 km
+- 🚉 **জামালগঞ্জ** — 4.5 km
+- 🚉 **আক্কেলপুর** — 8.4 km
+- 🚉 **জয়পুরহাট** — 9.0 km
+- 🚉 **Joypurhat Railway Station** — 9.0 km
+- 🚉 **Tilakpur Station** — 17.3 km
+- ⛴ **Ferighat** — 39.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3131.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Serena** — 31.8 km — star — 3★
+- **হোটেল প্রোম ইন্টারন্যাশনাল** — 9.3 km — hotel — Hotel Prome International
+- **Hotel Boishakhi (Residential), Bhai Bhai Market, Sadar Rd, Joypurhat** — 9.4 km — hotel — Hotel Boishakhi (Residential), Bhai Bhai Market, Sadar Rd, Joypurhat
+- **hotel SK হোটেল এস কে** — 24.0 km — hotel
+- **Hotel Shiyam** — 24.1 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

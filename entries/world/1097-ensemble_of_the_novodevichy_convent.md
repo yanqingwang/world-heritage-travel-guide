@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(iv)(vi)"
 lat: 55.725972222
 lon: 37.556583333
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:45Z"
 ---
 
 # 新圣女修道院 / Ensemble of the Novodevichy Convent

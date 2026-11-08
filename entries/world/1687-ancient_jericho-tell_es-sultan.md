@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)"
 lat: 31.87171944
 lon: 35.44456389
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:00Z"
 ---
 
 # 古耶利哥城/苏丹台形遗址 / Ancient Jericho/Tell es-Sultan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:03Z"
 
 *Tell es-sultan.jpg · see Wikimedia Commons file page*
 
-![Ancient Jericho/Tell es-Sultan](https://whc.unesco.org/uploads/sites/site_1687.jpg)
+![2010-06-16 11-08-04 Israel Jericho JH (52791612433).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2010-06-16_11-08-04_Israel_Jericho_JH_%2852791612433%29.jpg/1280px-2010-06-16_11-08-04_Israel_Jericho_JH_%2852791612433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ancient Jericho/Tell es-Sultan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2010-06-16 11-08-04 Israel Jericho JH (52791612433).jpg · Jan Helebrant · CC0*
+
+![2010-06-16 11-10-36 Israel Jericho JH (52791554120).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2010-06-16_11-10-36_Israel_Jericho_JH_%2852791554120%29.jpg/1280px-2010-06-16_11-10-36_Israel_Jericho_JH_%2852791554120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2010-06-16 11-10-36 Israel Jericho JH (52791554120).jpg · Jan Helebrant · CC0*
+
+![2010-06-16 11-11-15 Israel Jericho JH (52791395634).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/2010-06-16_11-11-15_Israel_Jericho_JH_%2852791395634%29.jpg/1280px-2010-06-16_11-11-15_Israel_Jericho_JH_%2852791395634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2010-06-16 11-11-15 Israel Jericho JH (52791395634).jpg · Jan Helebrant · CC0*
+
+![2010-06-16 11-12-30 Israel Jericho JH (52791553820).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-06-16_11-12-30_Israel_Jericho_JH_%2852791553820%29.jpg/1280px-2010-06-16_11-12-30_Israel_Jericho_JH_%2852791553820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2010-06-16 11-12-30 Israel Jericho JH (52791553820).jpg · Jan Helebrant · CC0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Ancient Jerico/Tell es-Sultan is located northwest of present-day Jericho in the
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 52.8 km
 - ✈ **Queen Alia International Airport (AMM)** — 54.4 km
 - ✈ **Ben Gurion International Airport (TLV)** — 54.9 km
+- 🚉 **Binyene Ha'Uma ICC** — 24.6 km
+- 🚉 **ירושלים - יצחק נבון** — 24.7 km
+- 🚉 **Betsal'el Bazak** — 26.2 km
+- 🚉 **Giv'at Mordekhay** — 26.2 km
+- 🚉 **Pat Junction** — 26.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7055.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hilton Dead Sea Resort & Spa** — 21.5 km — star — 5★ · Hilton
+- **موفنبيك رام الله** — 22.8 km — star — Movenpick Ramallah · 5★
+- **מלון וולדורף אסטוריה ירושלים** — 23.5 km — star — Waldorf Astoria Jerusalem · 5★ · Waldorf Astoria
+- **Waldorf Astoria** — 23.5 km — star — 5★ · Waldorf Astoria
+- **מלון המלך דוד** — 23.6 km — star — King David Hotel · 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

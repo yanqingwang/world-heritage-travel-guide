@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1052.jpg",
-   "title": "Tugendhat Villa in Brno",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1052",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Brno%2C_%C4%8Cern%C3%A1_Pole%2C_%C4%8Cernopoln%C3%AD%2C_vila_Tugendhat_%2801%29.jpg/1280px-Brno%2C_%C4%8Cern%C3%A1_Pole%2C_%C4%8Cernopoln%C3%AD%2C_vila_Tugendhat_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Brno, Černá Pole, Černopolní, vila Tugendhat (01).jpg",
+   "author": "Harold",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Brno%2C_%C4%8Cern%C3%A1_Pole%2C_%C4%8Cernopoln%C3%AD%2C_vila_Tugendhat_%2801%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/131027_Tugendhat_Brno_-_luminografie_0142_a.jpg/1280px-131027_Tugendhat_Brno_-_luminografie_0142_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "131027 Tugendhat Brno - luminografie 0142 a.jpg",
+   "author": "Vít Švajcr , Dobré světlo.com",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:131027_Tugendhat_Brno_-_luminografie_0142_a.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/131027_Tugendhat_Brno_-_luminografie_0571.jpg/1280px-131027_Tugendhat_Brno_-_luminografie_0571.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "131027 Tugendhat Brno - luminografie 0571.jpg",
+   "author": "Vít Švajcr , Dobré světlo.com",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:131027_Tugendhat_Brno_-_luminografie_0571.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/131027_Vila_Tugendhat_Brno_0205_with_no_FoP.jpg/1280px-131027_Vila_Tugendhat_Brno_0205_with_no_FoP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "131027 Vila Tugendhat Brno 0205 with no FoP.jpg",
+   "author": "131027 Vila Tugendhat Brno 0205.jpg : Vít Švajcr , Dobré světlo.com derivative work: Marek Blahuš",
+   "license": "CC BY-SA 4.0",
+   "credit": "This file was derived from: 131027 Vila Tugendhat Brno 0205.jpg :",
+   "source": "https://commons.wikimedia.org/wiki/File:131027_Vila_Tugendhat_Brno_0205_with_no_FoP.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1052",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 8.4,
   "distance_beijing_km": 7378.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Bystrc",
+    "name_en": null,
+    "lat": 49.2300766,
+    "lon": 16.5162741,
+    "distance_km": 7.7,
+    "operator": null
+   },
+   {
+    "name": "Kozí horka",
+    "name_en": null,
+    "lat": 49.2346492,
+    "lon": 16.5082905,
+    "distance_km": 8.4,
+    "operator": null
+   },
+   {
+    "name": "Sokolské koupaliště",
+    "name_en": null,
+    "lat": 49.2441252,
+    "lon": 16.5069001,
+    "distance_km": 8.9,
+    "operator": null
+   },
+   {
+    "name": "U kotvy",
+    "name_en": null,
+    "lat": 49.2416213,
+    "lon": 16.5016483,
+    "distance_km": 9.1,
+    "operator": null
+   },
+   {
+    "name": "Rokle",
+    "name_en": null,
+    "lat": 49.2484147,
+    "lon": 16.4938209,
+    "distance_km": 10.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Brno-Židenice",
+    "name_en": null,
+    "lat": 49.2040951,
+    "lon": 16.6367029,
+    "distance_km": 1.6,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Brno hlavní nádraží",
+    "name_en": null,
+    "lat": 49.1911221,
+    "lon": 16.6131116,
+    "distance_km": 1.8,
+    "operator": "Správa železnic"
+   },
+   {
+    "name": "Brno dolní nádraží",
+    "name_en": null,
+    "lat": 49.1823804,
+    "lon": 16.61548,
+    "distance_km": 2.8,
+    "operator": "cz:SŽDC"
+   },
+   {
+    "name": "Brno-Královo Pole",
+    "name_en": null,
+    "lat": 49.2308891,
+    "lon": 16.5968,
+    "distance_km": 3.0,
+    "operator": "cz:SŽDC"
+   },
+   {
+    "name": "Brno-Horní Heršpice",
+    "name_en": null,
+    "lat": 49.167415,
+    "lon": 16.606795,
+    "distance_km": 4.5,
+    "operator": "cz:SŽDC"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Grand Palace Brno",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.1921304,
+   "lon": 16.6055663,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Forest Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.5575103,
+   "lon": 16.3119949,
+   "distance_km": 44.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Arte",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2045211,
+   "lon": 16.6136038,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cosmopolitan Bobycentrum",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2121747,
+   "lon": 16.6080133,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Avanti",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.2129057,
+   "lon": 16.6045658,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CZ",
   "country_zh": "捷克",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:59Z"
+ "updated_at": "2026-11-08T16:48:41Z"
 }

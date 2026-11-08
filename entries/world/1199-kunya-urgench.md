@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)"
 lat: 42.3261336
 lon: 59.1530707
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:49:39Z"
 ---
 
 # 库尼亚－乌尔根奇 / Kunya-Urgench
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *KonyeUrgenchMausoleum.jpg · see Wikimedia Commons file page*
 
-![Kunya-Urgench](https://whc.unesco.org/uploads/sites/site_1199.jpg)
+![Genghis Khan invades Urgench.jpg](https://upload.wikimedia.org/wikipedia/commons/3/36/Genghis_Khan_invades_Urgench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Kunya-Urgench · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Genghis Khan invades Urgench.jpg · Unknown author Unknown author · Public domain*
+
+![Koeneuergenc Kyrk Molla Panorama.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Koeneuergenc_Kyrk_Molla_Panorama.jpg/1280px-Koeneuergenc_Kyrk_Molla_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Koeneuergenc Kyrk Molla Panorama.jpg · Mario J. Schwaiger · CC BY-SA 4.0*
+
+![Konye-Urgench (2) (45385809901).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Konye-Urgench_%282%29_%2845385809901%29.jpg/1280px-Konye-Urgench_%282%29_%2845385809901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Konye-Urgench (2) (45385809901).jpg · Hans Birger Nilsen · CC BY-SA 2.0*
+
+![Konye-Urgench (45385809251).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Konye-Urgench_%2845385809251%29.jpg/1280px-Konye-Urgench_%2845385809251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Konye-Urgench (45385809251).jpg · Hans Birger Nilsen · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,24 @@ Kunya-Urgench is situated in north-western Turkmenistan, on the left bank of the
 - ✈ **Nukus International Airport (NCU)** — 42.6 km
 - ✈ **Dashoguz International Airport (TAZ)** — 84.5 km
 - ✈ **Urgench International Airport (UGC)** — 148.4 km
+- 🚉 **Köneürgenç** — 3.8 km
+- 🚉 **Dostluk** — 11.0 km
+- 🚉 **Maslahat** — 18.8 km
+- 🚉 **Xatep** — 23.7 km
+- 🚉 **Xojeli** — 24.9 km
+- ⛴ **Xojeli pristanı** — 34.6 km
+- ⛴ **Seyil katerleri** — 39.6 km
+- ⛴ **Tolıs awıl** — 43.7 km
+- ⛴ **Xojan awıl** — 43.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4676.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Tashkent miymanxanası** — 39.9 km — star — Tashkent Hotel · 3★
+- **Jipek Jolı Hotel** — 40.6 km — star — Hotel Jipek Joli · 3★ · Jipek Joli Hotel
+- **Aydin Hotel** — 40.9 km — star — 3★
+- **Poytaxt** — 41.8 km — star — Poytaxt · 3★ · Poytaxt
+- **Hotel SULU** — 40.1 km — star — Hotel SULU · 2★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

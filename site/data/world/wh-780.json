@@ -53,6 +53,14 @@
    "provider": "wikimedia_commons"
   },
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/PlanC.jpg/1280px-PlanC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "PlanC.jpg",
+   "author": "Léon Heuzey, Honoré Daumet",
+   "license": "Public domain",
+   "credit": "Mission Archéologique de Macédoine",
+   "source": "https://commons.wikimedia.org/wiki/File:PlanC.jpg"
+  },
+  {
    "url": "https://whc.unesco.org/uploads/sites/site_780.jpg",
    "title": "Archaeological Site of Aigai (modern name Vergina)",
    "author": "UNESCO World Heritage Centre",
@@ -97,10 +105,124 @@
   ],
   "nearest_airport_km": 46.1,
   "distance_beijing_km": 7606.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Επανομή",
+    "name_en": "Epanomi",
+    "lat": 40.4072258,
+    "lon": 22.8947639,
+    "distance_km": 49.0,
+    "operator": null
+   },
+   {
+    "name": "Καραβάκια Θεσσαλονίκη - Στάση Νέοι Επιβάτες",
+    "name_en": "Karavakia - Thessaloniki Waterbus. Nei Epivates Stop",
+    "lat": 40.5066678,
+    "lon": 22.9066489,
+    "distance_km": 49.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Ξεχασμένη Ημαθίας",
+    "name_en": "Xechasmeni Imathias",
+    "lat": 40.5638234,
+    "lon": 22.3387937,
+    "distance_km": 9.6,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   },
+   {
+    "name": "Βέροια",
+    "name_en": "Veroia",
+    "lat": 40.5393528,
+    "lon": 22.2135648,
+    "distance_km": 11.5,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   },
+   {
+    "name": "Αλεξάνδρεια",
+    "name_en": "Alexandreia",
+    "lat": 40.6203384,
+    "lon": 22.4414623,
+    "distance_km": 18.7,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   },
+   {
+    "name": "Αιγίνιο",
+    "name_en": "Aiginio",
+    "lat": 40.4978433,
+    "lon": 22.5523744,
+    "distance_km": 19.5,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   },
+   {
+    "name": "Νάουσα",
+    "name_en": "Naoussa",
+    "lat": 40.6214713,
+    "lon": 22.1339962,
+    "distance_km": 22.6,
+    "operator": "Σιδηρόδρομοι Ελλάδος"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Cavo Olympo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.1065112,
+   "lon": 22.5599746,
+   "distance_km": 45.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ερμιόνιο",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.3013581,
+   "lon": 21.7875052,
+   "distance_km": 49.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Μακεδονία",
+   "name_en": "Makedonia",
+   "stars": 4,
+   "brand": null,
+   "lat": 40.5212391,
+   "lon": 22.2055393,
+   "distance_km": 11.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kornilios Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.719531,
+   "lon": 22.5870242,
+   "distance_km": 34.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sun Beach",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.4992428,
+   "lon": 22.8819224,
+   "distance_km": 47.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GR",
   "country_zh": "希腊",
@@ -158,5 +280,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:56Z"
+ "updated_at": "2026-11-08T16:47:55Z"
 }

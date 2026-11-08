@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_268.jpg",
-   "title": "Abbey of St Gall",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/268",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg/1280px-1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg",
+   "author": "POL",
+   "license": "Public domain",
+   "credit": "https://www.wilnet.ch/?lid=1&nid=322&anchor=MID1607",
+   "source": "https://commons.wikimedia.org/wiki/File:1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2008-05-17_St._Gallen_5453.jpg/1280px-2008-05-17_St._Gallen_5453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2008-05-17 St. Gallen 5453.jpg",
+   "author": "Norbert Aepli, Switzerland ( User:Noebu )",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2008-05-17_St._Gallen_5453.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2012-08-15_11-37-13_Switzerland_St._Gallen_4v.JPG/1280px-2012-08-15_11-37-13_Switzerland_St._Gallen_4v.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2012-08-15 11-37-13 Switzerland St. Gallen 4v.JPG",
+   "author": "NOTE: This image is a panorama consisting of multiple frames that were merged or stitched in software. As a result, this",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work : Hansueli Krapf (User Simisa ( talk · contribs ))",
+   "source": "https://commons.wikimedia.org/wiki/File:2012-08-15_11-37-13_Switzerland_St._Gallen_4v.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2012-08-15_11-58-36_Switzerland_St._Gallen_Klosterviertel_4h.JPG/1280px-2012-08-15_11-58-36_Switzerland_St._Gallen_Klosterviertel_4h.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2012-08-15 11-58-36 Switzerland St. Gallen Klosterviertel 4h.JPG",
+   "author": "NOTE: This image is a panorama consisting of multiple frames that were merged or stitched in software. As a result, this",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work : Hansueli Krapf (User Simisa ( talk · contribs ))",
+   "source": "https://commons.wikimedia.org/wiki/File:2012-08-15_11-58-36_Switzerland_St._Gallen_Klosterviertel_4h.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/268",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 15.4,
   "distance_beijing_km": 7910.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Sitterfähre Süd",
+    "name_en": null,
+    "lat": 47.4971346,
+    "lon": 9.2985893,
+    "distance_km": 10.1,
+    "operator": null
+   },
+   {
+    "name": "Sitterfähre Nord",
+    "name_en": null,
+    "lat": 47.4974634,
+    "lon": 9.2987797,
+    "distance_km": 10.2,
+    "operator": null
+   },
+   {
+    "name": "Horn (See)",
+    "name_en": null,
+    "lat": 47.4969803,
+    "lon": 9.4632127,
+    "distance_km": 10.5,
+    "operator": "SBS"
+   },
+   {
+    "name": "Rorschach Hafen (See)",
+    "name_en": null,
+    "lat": 47.478937,
+    "lon": 9.4936352,
+    "distance_km": 10.7,
+    "operator": "SBS"
+   },
+   {
+    "name": "Kornhaus-Hafen Rorschach",
+    "name_en": null,
+    "lat": 47.4792987,
+    "lon": 9.4929083,
+    "distance_km": 10.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Mühlegg Talstation",
+    "name_en": null,
+    "lat": 47.4220777,
+    "lon": 9.3777036,
+    "distance_km": 0.1,
+    "operator": "VBSG"
+   },
+   {
+    "name": "Mühlegg",
+    "name_en": null,
+    "lat": 47.4195401,
+    "lon": 9.3794512,
+    "distance_km": 0.4,
+    "operator": "VBSG"
+   },
+   {
+    "name": "St. Gallen",
+    "name_en": null,
+    "lat": 47.4232548,
+    "lon": 9.3698138,
+    "distance_km": 0.6,
+    "operator": "SBB"
+   },
+   {
+    "name": "St. Gallen AB",
+    "name_en": null,
+    "lat": 47.4222203,
+    "lon": 9.3689214,
+    "distance_km": 0.6,
+    "operator": "AB"
+   },
+   {
+    "name": "St. Gallen Güterbahnhof",
+    "name_en": null,
+    "lat": 47.4173025,
+    "lon": 9.3624735,
+    "distance_km": 1.3,
+    "operator": "AB"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Bayerischer Hof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.5442158,
+   "lon": 9.6820544,
+   "distance_km": 26.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Riva",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.6673197,
+   "lon": 9.1881312,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Steigenberger Inselhotel Konstanz",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.664203,
+   "lon": 9.1784727,
+   "distance_km": 30.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Quellenhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Resort Ragaz",
+   "lat": 47.0004508,
+   "lon": 9.5039164,
+   "distance_km": 48.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zur Linde",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.3867984,
+   "lon": 9.3929461,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "CH",
   "country_zh": "瑞士",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:44:19Z"
 }

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_561.jpg",
-   "title": "Rangiri Dambulla Cave Temple",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/561",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Buddha_Dambulla_1.jpg/1280px-Buddha_Dambulla_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buddha Dambulla 1.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Dambulla_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Buddha_Dambulla_2.jpg/1280px-Buddha_Dambulla_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buddha Dambulla 2.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Dambulla_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Buddha_Dambulla_3.jpg/1280px-Buddha_Dambulla_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buddha Dambulla 3.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Dambulla_3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Buddha_Dambulla_4.jpg/1280px-Buddha_Dambulla_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buddha Dambulla 4.jpg",
+   "author": "Philip Nalangan",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddha_Dambulla_4.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/561",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 95.9,
   "distance_beijing_km": 4956.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Kalawewa",
+    "name_en": null,
+    "lat": 8.0237261,
+    "lon": 80.5311746,
+    "distance_km": 22.6,
+    "operator": null
+   },
+   {
+    "name": "Negama",
+    "name_en": null,
+    "lat": 7.9799089,
+    "lon": 80.4835241,
+    "distance_km": 22.8,
+    "operator": null
+   },
+   {
+    "name": "Kekirawa",
+    "name_en": null,
+    "lat": 8.0584532,
+    "lon": 80.5814517,
+    "distance_km": 23.6,
+    "operator": null
+   },
+   {
+    "name": "Palugaswewa",
+    "name_en": null,
+    "lat": 8.0590196,
+    "lon": 80.7132576,
+    "distance_km": 23.6,
+    "operator": null
+   },
+   {
+    "name": "Horiwiala",
+    "name_en": null,
+    "lat": 8.0677899,
+    "lon": 80.6785139,
+    "distance_km": 23.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "EKHO Lake House",
+   "name_en": null,
+   "stars": 4,
+   "brand": "EKHO",
+   "lat": 7.9427612,
+   "lon": 80.9972526,
+   "distance_km": 39.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Grand Mountain Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 7.4559336,
+   "lon": 80.6281598,
+   "distance_km": 44.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "sigiriya nature villa lodge",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 7.9497188,
+   "lon": 80.7500202,
+   "distance_km": 15.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sevonrich Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.8479822,
+   "lon": 80.6518758,
+   "distance_km": 1.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz Tourist Home",
+   "name_en": null,
+   "stars": null,
+   "brand": "The Ritz-Carlton",
+   "lat": 7.8588296,
+   "lon": 80.6587553,
+   "distance_km": 1.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LK",
   "country_zh": "斯里兰卡",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:55Z"
+ "updated_at": "2026-11-08T16:45:55Z"
 }

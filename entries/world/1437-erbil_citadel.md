@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iv)"
 lat: 36.191
 lon: 44.009
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:07Z"
 ---
 
 # 埃尔比勒城堡 / Erbil Citadel
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:01Z"
 
 *Hawler Castle.jpg · see Wikimedia Commons file page*
 
-![Erbil Citadel](https://whc.unesco.org/uploads/sites/site_1437.jpg)
+![21. Erbil Citadel, Erbil Governorate, Iraqi Kurdistan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/21._Erbil_Citadel%2C_Erbil_Governorate%2C_Iraqi_Kurdistan.jpg/1280px-21._Erbil_Citadel%2C_Erbil_Governorate%2C_Iraqi_Kurdistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Erbil Citadel · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*21. Erbil Citadel, Erbil Governorate, Iraqi Kurdistan.jpg · Osama Shukir Muhammed Amin FRCP(Glasg) · CC BY-SA 4.0*
+
+![246. Interior of Erbil Citadel, Hawler, Erbil Governorate, Iraq. The Citadel Antiques shop.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/246._Interior_of_Erbil_Citadel%2C_Hawler%2C_Erbil_Governorate%2C_Iraq._The_Citadel_Antiques_shop.jpg/1280px-246._Interior_of_Erbil_Citadel%2C_Hawler%2C_Erbil_Governorate%2C_Iraq._The_Citadel_Antiques_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*246. Interior of Erbil Citadel, Hawler, Erbil Governorate, Iraq. The Citadel Antiques shop.jpg · Osama Shukir Muhammed Amin FRCP(Glasg) · CC BY-SA 4.0*
+
+![251. Interior of Erbil Citadel, Hawler, Erbil Governorate, Iraq. The Citadel Antique shop (souvenirs).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/251._Interior_of_Erbil_Citadel%2C_Hawler%2C_Erbil_Governorate%2C_Iraq._The_Citadel_Antique_shop_%28souvenirs%29.jpg/1280px-251._Interior_of_Erbil_Citadel%2C_Hawler%2C_Erbil_Governorate%2C_Iraq._The_Citadel_Antique_shop_%28souvenirs%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*251. Interior of Erbil Citadel, Hawler, Erbil Governorate, Iraq. The Citadel Antique shop (souvenirs).jpg · Osama Shukir Muhammed Amin FRCP(Glasg) · CC BY-SA 4.0*
+
+![252. Interior of Erbil Citadel, Hawler, Erbil Governorate, Iraq. The Citadel Antique shop (souvenirs).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/252._Interior_of_Erbil_Citadel%2C_Hawler%2C_Erbil_Governorate%2C_Iraq._The_Citadel_Antique_shop_%28souvenirs%29.jpg/1280px-252._Interior_of_Erbil_Citadel%2C_Hawler%2C_Erbil_Governorate%2C_Iraq._The_Citadel_Antique_shop_%28souvenirs%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*252. Interior of Erbil Citadel, Hawler, Erbil Governorate, Iraq. The Citadel Antique shop (souvenirs).jpg · Osama Shukir Muhammed Amin FRCP(Glasg) · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -58,7 +70,11 @@ Erbil Citadel is a fortified settlement on top of an imposing ovoid-shaped tell 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **میوانخانەی دیڤان** — 3.0 km — star — 5★
+- **فندق نوبل** — 3.7 km — star — Nobel Hotel · 5★
+- **كريستال** — 3.8 km — star — Cristal Hotel · 5★
+- **میوانخانەی هەدێن** — 1.3 km — star — 4★
+- **میوانخانەی پلاتینیۆمی هەولێر** — 1.7 km — star — Hotel Erbil platinum · 4★ · hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

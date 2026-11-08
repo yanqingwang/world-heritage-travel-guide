@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iv)(vi)"
 lat: 14.837963888
 lon: -89.142441666
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:42:54Z"
 ---
 
 # 科潘玛雅古迹遗址 / Maya Site of Copan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Copán Stela B.jpg · see Wikimedia Commons file page*
 
-![Maya Site of Copan](https://whc.unesco.org/uploads/sites/site_129.jpg)
+![The inscriptions at Copan (IA inscriptionsatco00morl).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_inscriptions_at_Copan_%28IA_inscriptionsatco00morl%29.pdf/page1-960px-The_inscriptions_at_Copan_%28IA_inscriptionsatco00morl%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Maya Site of Copan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*The inscriptions at Copan (IA inscriptionsatco00morl).pdf · Morley, Sylvanus Griswold, 1883-1948 · Public domain*
+
+![Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution (1897) (14597777420).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814597777420%29.jpg/1280px-Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814597777420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution (1897) (14597777420).jpg · Internet Archive Book Images · No restrictions*
+
+![Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution (1897) (14784137552).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814784137552%29.jpg/1280px-Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814784137552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution (1897) (14784137552).jpg · Internet Archive Book Images · No restrictions*
+
+![Carvings in the wall from the Mayan site Copán.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Carvings_in_the_wall_from_the_Mayan_site_Cop%C3%A1n.jpg/1280px-Carvings_in_the_wall_from_the_Mayan_site_Cop%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Carvings in the wall from the Mayan site Copán.jpg · Peter Andersen · CC BY 2.5*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Descubiertas en 1570 por Diego García de Palacio, las ruinas de Copán –uno d
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Plaza Copán** — 1.3 km — hotel
+- **Hotel Yaragua** — 1.3 km — hotel — Hotel Yaragua
+- **Brisas de Copán** — 1.4 km — hotel
+- **The Camino Maya** — 1.4 km — hotel
+- **La Posada De Belssy** — 1.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(ii)"
 lat: 39.659166666
 lon: -8.826111111
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:16Z"
 ---
 
 # 巴塔利亚修道院 / Monastery of Batalha
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Batalha September 2021-53.jpg · see Wikimedia Commons file page*
 
-![Monastery of Batalha](https://whc.unesco.org/uploads/sites/site_264.jpg)
+![00-Mosteiro da Batalha Unesco.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/00-Mosteiro_da_Batalha_Unesco.jpg/1280px-00-Mosteiro_da_Batalha_Unesco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Monastery of Batalha · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*00-Mosteiro da Batalha Unesco.jpg · HugoMPG · CC BY-SA 4.0*
+
+![10074-Batalha (53495316804).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/10074-Batalha_%2853495316804%29.jpg/1280px-10074-Batalha_%2853495316804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10074-Batalha (53495316804).jpg · xiquinhosilva · CC BY 2.0*
+
+![10079-Batalha (53495159998).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/10079-Batalha_%2853495159998%29.jpg/1280px-10079-Batalha_%2853495159998%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10079-Batalha (53495159998).jpg · xiquinhosilva · CC BY 2.0*
+
+![10095-Batalha (53495162113).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/10095-Batalha_%2853495162113%29.jpg/1280px-10095-Batalha_%2853495162113%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10095-Batalha (53495162113).jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ O Mosteiro de Santa Maria da Vitória, mais conhecido como Mosteiro da Batalha �
 - ✈ **Lisbon Humberto Delgado Airport (LIS)** — 101.2 km
 - ✈ **Cascais Airport (CAT)** — 113.4 km
 - ✈ **Aerodromo Goncalves Lobato (Viseu Airport) (VSE)** — 142.8 km
+- 🚉 **Martingança** — 10.7 km
+- 🚉 **Leiria** — 10.8 km
+- 🚉 **Marinha Grande** — 12.2 km
+- 🚉 **Pataias** — 13.6 km
+- 🚉 **Valado** — 18.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9656.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Montebelo Mosteiro de Alcobaça Historic Hotel** — 17.9 km — star — 5★
+- **Hotel Lis Batalha** — 0.2 km — star — 4★
+- **Haven Nature Hotel and Villas** — 0.8 km — star — 4★
+- **Eurosol Residence Hotel Apartamento** — 9.8 km — star — 4★
+- **Hotel TRYP Leiria** — 10.6 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

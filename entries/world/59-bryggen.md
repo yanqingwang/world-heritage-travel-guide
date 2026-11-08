@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iii)"
 lat: 60.3975
 lon: 5.323333333
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:38Z"
 ---
 
 # 卑尔根市布吕根区 / Bryggen
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *Bryggen, Bergen3.JPG · see Wikimedia Commons file page*
 
-![Bryggen](https://whc.unesco.org/uploads/sites/site_59.jpg)
+!["Streifzug" mit der Kamera durch Bergen. 12.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%22Streifzug%22_mit_der_Kamera_durch_Bergen._12.jpg/1280px-%22Streifzug%22_mit_der_Kamera_durch_Bergen._12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bryggen · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Streifzug" mit der Kamera durch Bergen. 12.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Streifzug" mit der Kamera durch Bergen. 13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%22Streifzug%22_mit_der_Kamera_durch_Bergen._13.jpg/1280px-%22Streifzug%22_mit_der_Kamera_durch_Bergen._13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Streifzug" mit der Kamera durch Bergen. 13.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Wacht Ordnung".jpg](https://upload.wikimedia.org/wikipedia/commons/d/db/%22Wacht_Ordnung%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*"Wacht Ordnung".jpg · Christian Wilhelm Höltich · Public domain*
+
+![0906 Kreuzfahrt Norwegen 1902.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/0906_Kreuzfahrt_Norwegen_1902.jpg/1280px-0906_Kreuzfahrt_Norwegen_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0906 Kreuzfahrt Norwegen 1902.jpg · weisserstier from Wien, Austria · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Bryggen i Bergen, også kjent som Tyskebryggen og Hansabryggen, omfatter den gam
 - ✈ **Bergen Airport, Flesland (BGO)** — 12.9 km
 - ✈ **Stord Airport, Sørstokken (SRP)** — 67.3 km
 - ✈ **Førde Airport, Bringeland (FDE)** — 112.9 km
+- 🚉 **Fløibanen, nedre stasjon** — 0.3 km
+- 🚉 **Byparken** — 0.6 km
+- 🚉 **Kaigaten** — 0.7 km
+- 🚉 **Bergen** — 1.0 km
+- 🚉 **Nonneseter** — 1.0 km
+- ⛴ **Beffen - Bradbenken** — 0.2 km
+- ⛴ **Strandterminalen** — 0.3 km
+- ⛴ **Strandkaiterminalen, båt Askøy** — 0.3 km
+- ⛴ **Strandkaiterminalen båtkai** — 0.3 km
+- ⛴ **Beffen - Nykirkekaien** — 0.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7238.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotell No.13** — 0.6 km — star — 5★
+- **Hotel Norge by Scandic** — 0.7 km — star — 4★ · Scandic
+- **Magic Hotel Kløverhuset** — 0.3 km — star
+- **Magic Hotel Korskirken** — 0.4 km — star
+- **Radisson Blu Royal Hotel Bergen** — 0.1 km — chain — Radisson Blu
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

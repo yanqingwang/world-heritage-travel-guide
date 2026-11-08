@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 53.23625
 lon: -2.307138888
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:45Z"
 ---
 
 # 卓瑞尔河岸天文台 / Jodrell Bank Observatory
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *Lovell Telescope.jpg · see Wikimedia Commons file page*
 
-![Jodrell Bank Observatory](https://whc.unesco.org/uploads/sites/site_1594.jpg)
+![2-PAD, Jodrell Bank Observatory.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2-PAD%2C_Jodrell_Bank_Observatory.jpg/1280px-2-PAD%2C_Jodrell_Bank_Observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Jodrell Bank Observatory · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2-PAD, Jodrell Bank Observatory.jpg · Photograph by Mike Peel ( www.mikepeel.net ). · CC BY-SA 4.0*
+
+![A carved owl at Jodrell Bank - geograph.org.uk - 1360257.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cf/A_carved_owl_at_Jodrell_Bank_-_geograph.org.uk_-_1360257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A carved owl at Jodrell Bank - geograph.org.uk - 1360257.jpg · Ian Greig · CC BY-SA 2.0*
+
+![ALMA work at Jodrell Bank Observatory (almauk10-04).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.jpg/1280px-ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ALMA work at Jodrell Bank Observatory (almauk10-04).jpg · ALMA (ESO/NAOJ/NRAO) · CC BY 4.0*
+
+![ALMA work at Jodrell Bank Observatory (almauk10-04).tiff](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.tiff/lossy-page1-1280px-ALMA_work_at_Jodrell_Bank_Observatory_%28almauk10-04%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ALMA work at Jodrell Bank Observatory (almauk10-04).tiff · ALMA (ESO/NAOJ/NRAO) · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,25 @@ Located in a rural area of northwest England, free from radio interference, Jodr
 - ✈ **Manchester Airport (MAN)** — 12.7 km
 - ✈ **Liverpool John Lennon Airport (LPL)** — 37.7 km
 - ✈ **East Midlands Airport (EMA)** — 79.5 km
+- 🚉 **Goostrey** — 2.0 km
+- 🚉 **Chelford** — 4.2 km
+- 🚉 **Holmes Chapel** — 5.0 km
+- 🚉 **Knutsford** — 8.5 km
+- 🚉 **Plumley** — 8.6 km
+- ⛴ **Manchester River Cruises Salford Quays** — 26.0 km
+- ⛴ **Manchester River Cruises Ralli Quay** — 27.5 km
+- ⛴ **Ince Ferry** — 35.0 km
+- ⛴ **Sandy Lane** — 37.9 km
+- ⛴ **The Meadows** — 38.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8092.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Lowry Hotel** — 27.7 km — star — 5★
+- **DoubleTree** — 14.7 km — star — 4★ · DoubleTree
+- **Brooklands Lodge** — 20.2 km — star — 4★
+- **DoubleTree by Hilton Stoke on Trent** — 24.5 km — star — 4★ · DoubleTree
+- **Hilton Garden Inn Manchester Emirates Old Trafford** — 24.6 km — star — 4★ · Hilton Garden Inn
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

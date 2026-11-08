@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iv)"
 lat: 41.5546
 lon: -8.3775
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:44Z"
 ---
 
 # 布拉加山上仁慈耶稣朝圣所 / Sanctuary of Bom Jesus do Monte in Braga
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *Treppenaufgang Bom Jesus do Monte.jpg · see Wikimedia Commons file page*
 
-![Sanctuary of Bom Jesus do Monte in Braga](https://whc.unesco.org/uploads/sites/site_1590.jpg)
+![Bajouca, Portugal (2115154723).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bajouca%2C_Portugal_%282115154723%29.jpg/1280px-Bajouca%2C_Portugal_%282115154723%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sanctuary of Bom Jesus do Monte in Braga · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bajouca, Portugal (2115154723).jpg · Rosino · CC BY-SA 2.0*
+
+![Bazilika Bom Jesus do Monte.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Bazilika_Bom_Jesus_do_Monte.jpg/1280px-Bazilika_Bom_Jesus_do_Monte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bazilika Bom Jesus do Monte.jpg · Vlach Pavel · CC0*
+
+![Bench in Bom Jesus.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bench_in_Bom_Jesus.JPG/1280px-Bench_in_Bom_Jesus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bench in Bom Jesus.JPG · Joseolgon · CC BY-SA 4.0*
+
+![Bom Jesus 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bom_Jesus_01.jpg/1280px-Bom_Jesus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bom Jesus 01.jpg · Vimacopeca · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,23 @@ O Santuário do Bom Jesus do Monte, também referido como Santuário do Bom Jesu
 - ✈ **Francisco de Sá Carneiro Airport (OPO)** — 42.5 km
 - ✈ **Vila Real Airport (VRL)** — 63.0 km
 - ✈ **Vigo Airport (VGO)** — 78.1 km
+- 🚉 **Braga** — 4.8 km
+- 🚉 **Tadim** — 10.1 km
+- 🚉 **Ruilhe** — 11.7 km
+- 🚉 **Arentim** — 13.1 km
+- 🚉 **Guimarães** — 15.0 km
+- ⛴ **Praia do Cabedelo** — 40.4 km
+- ⛴ **Viana do Castelo** — 40.4 km
+- ⛴ **Estação de Passageiros** — 48.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9418.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Meliá Braga Hotel & Spa** — 1.5 km — star — 5★ · Meliá
+- **Solar de Gondomil (under Construction)** — 12.3 km — star — 5★
+- **Maison Albar** — 12.4 km — star — 5★
+- **Aquafalls Spa Hotel** — 17.7 km — star — 5★
+- **Renaissance Porto Lapa Hotel** — 48.3 km — star — 5★ · Renaissance
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

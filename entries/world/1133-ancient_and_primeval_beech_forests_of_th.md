@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ix)"
 lat: 49.0
 lon: 15.0
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:49Z"
 ---
 
 # 喀尔巴阡山脉及欧洲其它地区的原始山毛榉林 / Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *Tysa Rakhiv.jpg · see Wikimedia Commons file page*
 
-![Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe](https://whc.unesco.org/uploads/sites/site_1133.jpg)
+![Bieszczady, UNESCO, Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - mapa.jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/Bieszczady%2C_UNESCO%2C_Pradawne_i_pierwotne_lasy_bukowe_Karpat_i_innych_region%C3%B3w_Europy_-_mapa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bieszczady, UNESCO, Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - mapa.jpg · Darekk2 · CC BY-SA 4.0*
+
+![Buche Monte Cimino.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Buche_Monte_Cimino.JPG/1280px-Buche_Monte_Cimino.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buche Monte Cimino.JPG · Clemens M. Brandstetter, Buers · CC BY-SA 3.0*
+
+![Carpino "nodoso".jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Carpino_%22nodoso%22.jpg/1280px-Carpino_%22nodoso%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Carpino "nodoso".jpg · Dino Michelini · CC BY 3.0*
+
+![Carpino.jpg](https://upload.wikimedia.org/wikipedia/commons/d/da/Carpino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Carpino.jpg · Dino Michelini · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,23 @@ This transnational property includes 93 component parts in 18 countries. Since t
 - ✈ **České Budějovice South Bohemian Airport (JCL)** — 42.1 km
 - ✈ **Linz-Hörsching Airport (LNZ)** — 103.9 km
 - ✈ **Brno-Tuřany Airport (BRQ)** — 124.5 km
+- 🚉 **Litschau** — 7.2 km
+- 🚉 **Nová Bystřice** — 8.4 km
+- 🚉 **Majdalena** — 11.1 km
+- 🚉 **Hůrky** — 12.6 km
+- 🚉 **Senotín** — 13.6 km
+- ⛴ **Přístaviště Třeboň** — 16.7 km
+- ⛴ **České Budějovice** — 39.1 km
+- ⛴ **České Vrbné** — 39.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7526.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Galerie** — 16.6 km — star — 4★
+- **Zlatá Hvězda** — 16.7 km — star — 4★
+- **Hotel Stern** — 25.2 km — star — 4★
+- **Hotel Sole-Felsen-Bad** — 27.1 km — star — 4★
+- **Hotel Artaban** — 31.2 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1642.jpg",
-   "title": "Mount Kumgang – Diamond Mountain from the Sea",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1642",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/0331_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822341968203%29.jpg/1280px-0331_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822341968203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0331 - Nordkorea 2015 - Kumgang Gebirge (22341968203).jpg",
+   "author": "Uwe Brodrecht",
+   "license": "CC BY-SA 2.0",
+   "credit": "0331 - Nordkorea 2015 - Kumgang Gebirge",
+   "source": "https://commons.wikimedia.org/wiki/File:0331_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822341968203%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/0332_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822570978989%29.jpg/1280px-0332_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822570978989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0332 - Nordkorea 2015 - Kumgang Gebirge (22570978989).jpg",
+   "author": "Uwe Brodrecht",
+   "license": "CC BY-SA 2.0",
+   "credit": "0332 - Nordkorea 2015 - Kumgang Gebirge",
+   "source": "https://commons.wikimedia.org/wiki/File:0332_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822570978989%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29_%28cropped%29.jpg/1280px-0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0339 - Nordkorea 2015 - Kumgang Gebirge (22340278614) (cropped).jpg",
+   "author": "Uwe Brodrecht",
+   "license": "CC BY-SA 2.0",
+   "credit": "0339 - Nordkorea 2015 - Kumgang Gebirge",
+   "source": "https://commons.wikimedia.org/wiki/File:0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29_%28cropped%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29.jpg/1280px-0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0339 - Nordkorea 2015 - Kumgang Gebirge (22340278614).jpg",
+   "author": "Uwe Brodrecht",
+   "license": "CC BY-SA 2.0",
+   "credit": "0339 - Nordkorea 2015 - Kumgang Gebirge",
+   "source": "https://commons.wikimedia.org/wiki/File:0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1642",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 77.8,
   "distance_beijing_km": 938.8,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "금강산청년",
+    "name_en": "Kumgangsan Chongnyon",
+    "lat": 38.6918433,
+    "lon": 128.2160229,
+    "distance_km": 10.4,
+    "operator": "조선민주주의인민공화국 철도성"
+   },
+   {
+    "name": "고성",
+    "name_en": "Kosong",
+    "lat": 38.7440609,
+    "lon": 128.1768123,
+    "distance_km": 11.5,
+    "operator": "조선민주주의인민공화국 철도성"
+   },
+   {
+    "name": "남애",
+    "name_en": "Namae",
+    "lat": 38.7922952,
+    "lon": 128.138242,
+    "distance_km": 15.3,
+    "operator": "조선민주주의인민공화국 철도성"
+   },
+   {
+    "name": "삼일포",
+    "name_en": "Samilpo",
+    "lat": 38.6704422,
+    "lon": 128.3220559,
+    "distance_km": 18.9,
+    "operator": "조선민주주의인민공화국 철도성"
+   },
+   {
+    "name": "감호",
+    "name_en": "Kamho",
+    "lat": 38.642991,
+    "lon": 128.3354411,
+    "distance_km": 20.1,
+    "operator": "조선민주주의인민공화국 철도성"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "내금강휴계소",
+   "name_en": "Naekumgang Rest House",
+   "stars": null,
+   "brand": null,
+   "lat": 38.6086226,
+   "lon": 128.0670777,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "금강산호텔",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.6896279,
+   "lon": 128.1831437,
+   "distance_km": 7.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "외금강호텔",
+   "name_en": "Oegumgang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.6857889,
+   "lon": 128.1981697,
+   "distance_km": 8.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "호텔해금강",
+   "name_en": "Hotel Haegumgang",
+   "stars": null,
+   "brand": null,
+   "lat": 38.7258492,
+   "lon": 128.2069384,
+   "distance_km": 11.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "금강산콘도",
+   "name_en": "Geumgangsan Condominium",
+   "stars": null,
+   "brand": null,
+   "lat": 38.509976,
+   "lon": 128.420563,
+   "distance_km": 31.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KP",
   "country_zh": "朝鲜民主主义人民共和国",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:03Z"
+ "updated_at": "2026-11-08T16:50:56Z"
 }

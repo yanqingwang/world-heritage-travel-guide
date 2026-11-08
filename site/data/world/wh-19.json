@@ -97,10 +97,75 @@
   ],
   "nearest_airport_km": 10.5,
   "distance_beijing_km": 8198.4,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Gorgora Terminal",
+    "name_en": null,
+    "lat": 12.2401555,
+    "lon": 37.3016824,
+    "distance_km": 44.8,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Taye Belay Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 12.6112199,
+   "lon": 37.4709101,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Teklu Tenessie Hotel",
+   "name_en": "Teklu Tenessie Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 12.6088287,
+   "lon": 37.4708865,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Dashen",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.6068916,
+   "lon": 37.4667406,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Circle Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 12.6118797,
+   "lon": 37.4689326,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ethiopia Hotel",
+   "name_en": "Ethiopia Hotel ኢትዮጵያ ሆቴል",
+   "stars": null,
+   "brand": null,
+   "lat": 12.6117346,
+   "lon": 37.4696707,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ET",
   "country_zh": "埃塞俄比亚",
@@ -158,5 +223,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:31Z"
 }

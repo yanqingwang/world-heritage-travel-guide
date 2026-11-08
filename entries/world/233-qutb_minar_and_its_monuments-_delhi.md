@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 28.524382
 lon: 77.18543
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:44:01Z"
 ---
 
 # 德里的顾特卜塔及其古建筑 / Qutb Minar and its Monuments, Delhi
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Qutb Minar Tower.jpg · see Wikimedia Commons file page*
 
-![Qutb Minar and its Monuments, Delhi](https://whc.unesco.org/uploads/sites/site_233.jpg)
+![*"Corridor formed of ancient Boodhistic columns, Kootub Minar," a photo by Shepherd and Robinson, 1860*.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f6/%2A%22Corridor_formed_of_ancient_Boodhistic_columns%2C_Kootub_Minar%2C%22_a_photo_by_Shepherd_and_Robinson%2C_1860%2A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Qutb Minar and its Monuments, Delhi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+**"Corridor formed of ancient Boodhistic columns, Kootub Minar," a photo by Shepherd and Robinson, 1860*.jpg · Shepherd and Robinson · Public domain*
+
+![*"Curiously and beautifully carved pillars in the hall of the Kutbul Mosque, Delhi, India," a stereoscopic view by H. C. White Co., 1903*.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/%2A%22Curiously_and_beautifully_carved_pillars_in_the_hall_of_the_Kutbul_Mosque%2C_Delhi%2C_India%2C%22_a_stereoscopic_view_by_H._C._White_Co.%2C_1903%2A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+**"Curiously and beautifully carved pillars in the hall of the Kutbul Mosque, Delhi, India," a stereoscopic view by H. C. White Co., 1903*.jpg · H. C. White Co · Public domain*
+
+![*A silver gelatin photo, c.1900* - *Another such print*.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/%2AA_silver_gelatin_photo%2C_c.1900%2A_-_%2AAnother_such_print%2A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+**A silver gelatin photo, c.1900* - *Another such print*.jpg · Unknown · Public domain*
+
+![*A silver gelatin photo, c.1900*.jpg](https://upload.wikimedia.org/wikipedia/commons/1/12/%2AA_silver_gelatin_photo%2C_c.1900%2A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+**A silver gelatin photo, c.1900*.jpg · Unknown · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Built in the early 13th century a few kilometres south of Delhi, the red sandsto
 - ✈ **Indira Gandhi International Airport (DEL)** — 9.5 km
 - ✈ **Hindon Airport / Hindon Air Force Station (HDO)** — 26.5 km
 - ✈ **Noida International Airport (DXN)** — 56.6 km
+- 🚉 **Delhi Safdarjang** — 6.4 km
+- 🚉 **Sarojini Nagar** — 6.4 km
+- 🚉 **Lodhi Colony** — 6.9 km
+- 🚉 **Sewa Nagar** — 7.3 km
+- 🚉 **Lajpat Nagar** — 8.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3810.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Leela Palace Kempinski** — 6.2 km — star — 5★ · The Leela
+- **ANdaZ Delhi - a concept by Hyatt** — 7.0 km — star — 5★ · ANdAZ
+- **Roseate House** — 7.0 km — star — 5★
+- **The Bristol Hotel** — 10.4 km — star — 5★
+- **Le Méridien** — 11.0 km — star — 5★ · Le Méridien
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

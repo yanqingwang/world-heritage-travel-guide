@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(iv)"
 lat: 49.97916667
 lon: 20.06388889
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:32Z"
 ---
 
 # 维利奇卡和博赫尼亚皇家盐矿 / Wieliczka and Bochnia Royal Salt Mines

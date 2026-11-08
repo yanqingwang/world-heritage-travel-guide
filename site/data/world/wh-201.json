@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_201.jpg",
-   "title": "Ancient City of Polonnaruwa",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/201",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/1_%28567%29f.jpg/1280px-1_%28567%29f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 (567)f.jpg",
+   "author": "Nodutudahama123",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1_%28567%29f.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2020-05-31_15.28.03_sandakadapahana.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2020-05-31 15.28.03 sandakadapahana.png",
+   "author": "Dimuthu Caldera",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2020-05-31_15.28.03_sandakadapahana.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/500px_photo_%28193297111%29.jpeg/1280px-500px_photo_%28193297111%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "500px photo (193297111).jpeg",
+   "author": "Udara Rathnayake",
+   "license": "CC0",
+   "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+   "source": "https://commons.wikimedia.org/wiki/File:500px_photo_%28193297111%29.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ancient_City_of_Polonnaruwa_045.jpg/1280px-Ancient_City_of_Polonnaruwa_045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ancient City of Polonnaruwa 045.jpg",
+   "author": "Ramón from Llanera, España",
+   "license": "CC BY-SA 2.0",
+   "credit": "Ancient City of Polonnaruwa 045",
+   "source": "https://commons.wikimedia.org/wiki/File:Ancient_City_of_Polonnaruwa_045.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/201",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 70.3,
   "distance_beijing_km": 4956.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Polonnaruwa",
+    "name_en": null,
+    "lat": 7.9301686,
+    "lon": 81.0333406,
+    "distance_km": 3.7,
+    "operator": null
+   },
+   {
+    "name": "Galoya Junction Railway Station",
+    "name_en": null,
+    "lat": 8.1377809,
+    "lon": 80.8658177,
+    "distance_km": 27.1,
+    "operator": null
+   },
+   {
+    "name": "Welikanda",
+    "name_en": null,
+    "lat": 7.9471138,
+    "lon": 81.2503557,
+    "distance_km": 27.6,
+    "operator": null
+   },
+   {
+    "name": "Habarana",
+    "name_en": null,
+    "lat": 8.0573101,
+    "lon": 80.7695893,
+    "distance_km": 28.9,
+    "operator": null
+   },
+   {
+    "name": "Hatares Kotuwa",
+    "name_en": null,
+    "lat": 8.1451745,
+    "lon": 80.8391243,
+    "distance_km": 29.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "EKHO Lake House",
+   "name_en": null,
+   "stars": 4,
+   "brand": "EKHO",
+   "lat": 7.9427612,
+   "lon": 80.9972526,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "sigiriya nature villa lodge",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 7.9497188,
+   "lon": 80.7500202,
+   "distance_km": 27.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Syanco Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.9408282,
+   "lon": 80.9994225,
+   "distance_km": 0.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tishan Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.9627807,
+   "lon": 80.9776323,
+   "distance_km": 4.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jays Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 8.0280016,
+   "lon": 80.7662016,
+   "distance_km": 27.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LK",
   "country_zh": "斯里兰卡",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:52Z"
+ "updated_at": "2026-11-08T16:43:58Z"
 }

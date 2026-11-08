@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(iv)"
 lat: 37.886080468
 lon: -4.867785472
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:33Z"
 ---
 
 # 哈里发的阿尔扎哈拉古城 / Caliphate City of Medina Azahara
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *Madinat al-Zahra (52019329474).jpg · see Wikimedia Commons file page*
 
-![Caliphate City of Medina Azahara](https://whc.unesco.org/uploads/sites/site_1560.jpg)
+![A job I don't envy (4011715372).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/A_job_I_don%27t_envy_%284011715372%29.jpg/1280px-A_job_I_don%27t_envy_%284011715372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Caliphate City of Medina Azahara · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A job I don't envy (4011715372).jpg · Jody Morris from Oxford · CC BY-SA 2.0*
+
+![Arch passage - Madinat al-Zahra.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Arch_passage_-_Madinat_al-Zahra.JPG/1280px-Arch_passage_-_Madinat_al-Zahra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arch passage - Madinat al-Zahra.JPG · José Luiz · CC BY-SA 3.0*
+
+![Caliphate City of Medina Azahara World Heritage Site Sign.png](https://upload.wikimedia.org/wikipedia/commons/a/a1/Caliphate_City_of_Medina_Azahara_World_Heritage_Site_Sign.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Caliphate City of Medina Azahara World Heritage Site Sign.png · Lucy.baddow · CC BY-SA 4.0*
+
+![Ciudad de medina vista general.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Ciudad_de_medina_vista_general.jpg/1280px-Ciudad_de_medina_vista_general.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ciudad de medina vista general.jpg · Alvaro.vinuela.carnicero · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Este yacimiento arqueológico engloba los majestuosos vestigios de la ciudad pal
 - ✈ **Córdoba Airport (ODB)** — 5.2 km
 - ✈ **Seville Airport (SVQ)** — 104.2 km
 - ✈ **F.G.L. Airport Granada-Jaén Airport (GRX)** — 123.5 km
+- 🚉 **El Higuerón** — 2.6 km
+- 🚉 **Villarrubia de Córdoba** — 5.9 km
+- 🚉 **Córdoba Julio Anguita** — 6.9 km
+- 🚉 **Alcolea de Córdoba** — 17.7 km
+- 🚉 **Posadas** — 22.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9498.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Eurostars Palace** — 7.2 km — star — 5★ · Eurostars Hotel Company
+- **Palacio del Bailío** — 7.9 km — star — 5★
+- **NH Califa** — 7.3 km — star — 4★
+- **Soho Boutique Córdoba** — 7.3 km — star — 4★ · Petit Palace
+- **NH Collection** — 7.5 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

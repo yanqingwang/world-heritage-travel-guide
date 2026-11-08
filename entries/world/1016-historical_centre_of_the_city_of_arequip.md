@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iv)"
 lat: -16.4
 lon: -71.533333333
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:32Z"
 ---
 
 # 阿雷基帕城历史中心 / Historical Centre of the City of Arequipa

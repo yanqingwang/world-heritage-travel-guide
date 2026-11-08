@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(iii)(vii)(viii)"
 lat: 25.666666666
 lon: 9.0
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:47Z"
 ---
 
 # 阿杰尔的塔西利 / Tassili n'Ajjer
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Tassili Desert Algeria.jpg · see Wikimedia Commons file page*
 
-![Tassili n'Ajjer](https://whc.unesco.org/uploads/sites/site_179.jpg)
+![" La Vache Qui Pleure" Parc National du Tassili . Algérie..jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%22_La_Vache_Qui_Pleure%22_Parc_National_du_Tassili_._Alg%C3%A9rie..jpg/1280px-%22_La_Vache_Qui_Pleure%22_Parc_National_du_Tassili_._Alg%C3%A9rie..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tassili n'Ajjer · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*" La Vache Qui Pleure" Parc National du Tassili . Algérie..jpg · Akli salah · CC BY-SA 4.0*
+
+![03 الطاسيلي.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e4/03_%D8%A7%D9%84%D8%B7%D8%A7%D8%B3%D9%8A%D9%84%D9%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*03 الطاسيلي.jpg · Nehaoua Adel · CC BY-SA 4.0*
+
+![1002643 TASSILI TADRART.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7e/1002643_TASSILI_TADRART.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1002643 TASSILI TADRART.jpg · فهد33 · CC BY-SA 3.0*
+
+![10919002 n TASSILI.jpg](https://upload.wikimedia.org/wikipedia/commons/8/84/10919002_n_TASSILI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*10919002 n TASSILI.jpg · فهد33 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

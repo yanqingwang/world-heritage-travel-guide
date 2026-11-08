@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(i)(iv)"
 lat: 49.792797617
 lon: 9.938889043
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:04Z"
 ---
 
 # 维尔茨堡宫及宫廷花园和广场 / Würzburg Residence with the Court Gardens and Residence Square
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Residenz Würzburg, Südfront, 1.jpg · see Wikimedia Commons file page*
 
-![Würzburg Residence with the Court Gardens and Residence Square](https://whc.unesco.org/uploads/sites/site_169.jpg)
+![Aerial image of Würzburg Residence (view from the east).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_image_of_W%C3%BCrzburg_Residence_%28view_from_the_east%29.jpg/1280px-Aerial_image_of_W%C3%BCrzburg_Residence_%28view_from_the_east%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Würzburg Residence with the Court Gardens and Residence Square · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Aerial image of Würzburg Residence (view from the east).jpg · Carsten Steger · CC BY-SA 4.0*
+
+![AK - Würzburg - Schlosstor- 1897.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/AK_-_W%C3%BCrzburg_-_Schlosstor-_1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AK - Würzburg - Schlosstor- 1897.jpg · Unknown author Unknown author · Public domain*
+
+![Europens Pracht und Macht ca 1740 (125579337).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Europens_Pracht_und_Macht_ca_1740_%28125579337%29.jpg/1280px-Europens_Pracht_und_Macht_ca_1740_%28125579337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Europens Pracht und Macht ca 1740 (125579337).jpg · Gabriel Bodenehr · Public domain*
+
+![Postcard of the Würzburg Residence - DPLA - 975a08bb6d75645742bfffd03b683881 (page 1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Postcard_of_the_W%C3%BCrzburg_Residence_-_DPLA_-_975a08bb6d75645742bfffd03b683881_%28page_1%29.jpg/1280px-Postcard_of_the_W%C3%BCrzburg_Residence_-_DPLA_-_975a08bb6d75645742bfffd03b683881_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Postcard of the Würzburg Residence - DPLA - 975a08bb6d75645742bfffd03b683881 (page 1).jpg · No restrictions*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Die Würzburger Residenz ist der ehemalige Sitz der Fürstbischöfe in der bayer
 - ✈ **Nuremberg Airport (NUE)** — 88.3 km
 - ✈ **Frankfurt Main Airport (FRA)** — 102.2 km
 - ✈ **Mannheim-City Airport (MHG)** — 108.6 km
+- 🚉 **Würzburg Hauptbahnhof** — 1.1 km
+- 🚉 **Würzburg-Heidingsfeld Ost** — 3.7 km
+- 🚉 **Würzburg-Zell** — 4.1 km
+- 🚉 **Veitshöchheim** — 6.1 km
+- 🚉 **Rottendorf** — 6.5 km
+- ⛴ **Würzburg** — 1.0 km
+- ⛴ **Alter Hafen** — 1.6 km
+- ⛴ **Bootshafen SFSW** — 3.0 km
+- ⛴ **Flusshafen** — 4.8 km
+- ⛴ **Zell** — 5.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7683.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Neumühle Resort & SPA** — 38.1 km — star — 5★
+- **Dorint Hotel Würzburg** — 0.5 km — star — 4★ · Dorint
+- **Hotel Rebstock** — 0.6 km — star — 4★ · Best Western Premier
+- **Würzburger Hof** — 0.7 km — star — 4★
+- **Greifensteiner Hof** — 0.8 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)"
 lat: 59.275555555
 lon: 18.099444444
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:45:52Z"
 ---
 
 # 斯科斯累格加登公墓 / Skogskyrkogården
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Skogskyrk Grav 2006.jpg · see Wikimedia Commons file page*
 
-![Skogskyrkogården](https://whc.unesco.org/uploads/sites/site_558.jpg)
+![1a, Skogskyrkogården skylt.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/1a%2C_Skogskyrkog%C3%A5rden_skylt.jpg/1280px-1a%2C_Skogskyrkog%C3%A5rden_skylt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Skogskyrkogården · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1a, Skogskyrkogården skylt.jpg · Holger.Ellgaard · CC BY-SA 3.0*
+
+![2019-08-12 Skogskyrkogården, Stockholm 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_01.jpg/1280px-2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2019-08-12 Skogskyrkogården, Stockholm 01.jpg · Nemo bis · CC BY-SA 3.0*
+
+![2019-08-12 Skogskyrkogården, Stockholm 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_02.jpg/1280px-2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2019-08-12 Skogskyrkogården, Stockholm 02.jpg · Nemo bis · CC BY-SA 3.0*
+
+![2019-08-12 Skogskyrkogården, Stockholm 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_03.jpg/1280px-2019-08-12_Skogskyrkog%C3%A5rden%2C_Stockholm_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2019-08-12 Skogskyrkogården, Stockholm 03.jpg · Nemo bis · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Skogskyrkogården är en begravningsplats i stadsdelen Gamla Enskede inom Stockh
 - ✈ **Stockholm-Bromma Airport (BMA)** — 12.5 km
 - ✈ **Stockholm-Arlanda Airport (ARN)** — 42.6 km
 - ✈ **Stockholm Skavsta Airport (NYO)** — 86.8 km
+- 🚉 **Sickla** — 3.7 km
+- 🚉 **Nacka** — 3.9 km
+- 🚉 **Henriksdal** — 4.1 km
+- 🚉 **Farsta strand** — 4.3 km
+- 🚉 **Saltsjö-Järla** — 4.5 km
+- ⛴ **Lumabryggan** — 3.4 km
+- ⛴ **Barnängsbryggan** — 3.6 km
+- ⛴ **Henriksdal** — 3.7 km
+- ⛴ **Saltsjöqvarn** — 4.4 km
+- ⛴ **Viking Line: Stadsgården, Stockholm** — 4.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6706.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel Reisen** — 5.7 km — star — 5★ · Unbound Collection
+- **Hilton Stockholm Slussen** — 5.3 km — star — 4★ · Hilton
+- **Story Hotel Riddargatan** — 6.7 km — star — 4★ · Hyatt
+- **Haymarket** — 6.9 km — star — 4★ · Scandic Hotels
+- **Kung Carl** — 7.0 km — star — 4★ · Best Western
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

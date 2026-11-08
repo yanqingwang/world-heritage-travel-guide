@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(iv)"
 lat: 49.610555555
 lon: 6.1325
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:45Z"
 ---
 
 # 卢森堡市、要塞及老城区 / City of Luxembourg: its Old Quarters and Fortifications

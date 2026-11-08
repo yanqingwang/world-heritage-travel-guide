@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)(vi)(viii)(ix)(x)"
 lat: 25.5
 lon: -170.5
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:58Z"
 ---
 
 # 帕帕哈瑙莫夸基亚国家海洋保护区 / Papahānaumokuākea
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *Sanc1404 - Flickr - NOAA Photo Library.jpg · see Wikimedia Commons file page*
 
-![Papahānaumokuākea](https://whc.unesco.org/uploads/sites/site_1326.jpg)
+![Map PMNM 2016.jpg](https://upload.wikimedia.org/wikipedia/commons/d/df/Map_PMNM_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Papahānaumokuākea · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Map PMNM 2016.jpg · NOAA · Public domain*
+
+![NHINM.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/NHINM.png/1280px-NHINM.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*NHINM.png · NOAA · Public domain*
+
+![George W. Bush approves Northwestern Hawaiian Islands Marine National Monument.jpg](https://upload.wikimedia.org/wikipedia/commons/5/52/George_W._Bush_approves_Northwestern_Hawaiian_Islands_Marine_National_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*George W. Bush approves Northwestern Hawaiian Islands Marine National Monument.jpg · White House photo by Eric Draper · Public domain*
+
+![Anim2619 (34590655782).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Anim2619_%2834590655782%29.jpg/1280px-Anim2619_%2834590655782%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Anim2619 (34590655782).jpg · Adam U · CC BY 2.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 36.869758
 lon: 10.341014
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:06Z"
 ---
 
 # 西迪布赛义德村 / Village of Sidi Bou Saïd
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:03Z"
 
 *Sidi Bou Said, Tunisia, 19 March 2018 DSC 8004.jpg · see Wikimedia Commons file page*
 
-![Village of Sidi Bou Saïd](https://whc.unesco.org/uploads/sites/site_1769.jpg)
+![Fonds Kenneth Brown (1936-2025) - Tunisie - Préparations pour la fête de Sidi Bou Said (MédiHAL 5855595).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Fonds_Kenneth_Brown_%281936-2025%29_-_Tunisie_-_Pr%C3%A9parations_pour_la_f%C3%AAte_de_Sidi_Bou_Said_%28M%C3%A9diHAL_5855595%29.jpg/1280px-Fonds_Kenneth_Brown_%281936-2025%29_-_Tunisie_-_Pr%C3%A9parations_pour_la_f%C3%AAte_de_Sidi_Bou_Said_%28M%C3%A9diHAL_5855595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Village of Sidi Bou Saïd · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Fonds Kenneth Brown (1936-2025) - Tunisie - Préparations pour la fête de Sidi Bou Said (MédiHAL 5855595).jpg · Maison méditerranéenne des Sciences de l'homme / National Center for Scientific Research / Aix-Marseille University · Licence Ouverte*
+
+![L’arc de Sidi bou said.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/L%E2%80%99arc_de_Sidi_bou_said.jpg/1280px-L%E2%80%99arc_de_Sidi_bou_said.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*L’arc de Sidi bou said.jpg · Elh Katcha · CC BY 4.0*
+
+![Sidi bous3id.wav](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*Sidi bous3id.wav · Tounsimentounes · CC BY-SA 3.0*
+
+![Sidi Bousaid 2023.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sidi_Bousaid_2023.jpg/1280px-Sidi_Bousaid_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Sidi Bousaid 2023.jpg · سليم ابراهمي · CC0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ The property is a picturesque village perched on a promontory overlooking the Me
 - ✈ **Tunis Carthage International Airport (TUN)** — 10.3 km
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 88.7 km
 - ✈ **Monastir Habib Bourguiba International Airport (MIR)** — 129.0 km
+- 🚉 **سيدي بوسعيد** — 0.1 km
+- 🚉 **قرطاج أميلكار** — 0.5 km
+- 🚉 **سيدي الظريف** — 0.7 km
+- 🚉 **قرطاج الرئاسة** — 1.0 km
+- 🚉 **الكورنيش** — 1.1 km
+- ⛴ **Port de Carthage** — 3.0 km
+- ⛴ **Port Marchand de Carthage** — 3.5 km
+- ⛴ **Ferry terminal passengers** — 7.5 km
+- ⛴ **تونس** — 7.6 km
+- ⛴ **ميناء رادس** — 10.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8635.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فيلا ديدون** — 2.4 km — star — Villa Didon Carthage · 5★
+- **Golden Carthage** — 4.8 km — star — 5★
+- **Le Palace** — 5.6 km — star — 5★
+- **Carthage Thalasso Resort** — 8.4 km — star — Carthage Thalasso Resort · 5★
+- **The Residence Tunis** — 8.6 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

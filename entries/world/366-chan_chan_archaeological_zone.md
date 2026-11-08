@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)"
 lat: -8.110555555
 lon: -79.075
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:45:18Z"
 ---
 
 # 昌昌城考古地区 / Chan Chan Archaeological Zone
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Chan Chan, 2023 (32).jpg · see Wikimedia Commons file page*
 
-![Chan Chan Archaeological Zone](https://whc.unesco.org/uploads/sites/site_366.jpg)
+![PhotomontageChanChan.jpg](https://upload.wikimedia.org/wikipedia/commons/9/99/PhotomontageChanChan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Chan Chan Archaeological Zone · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*PhotomontageChanChan.jpg · Enjoyatom21 · CC BY-SA 3.0*
+
+![(CCC No. 2, 1924) - Ruinas de Chan Chan.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%28CCC_No._2%2C_1924%29_-_Ruinas_de_Chan_Chan.png/1280px-%28CCC_No._2%2C_1924%29_-_Ruinas_de_Chan_Chan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*(CCC No. 2, 1924) - Ruinas de Chan Chan.png · The West Coast Leader, Ltd. · Public domain*
+
+![(CCC No. 27, 1927) - Chan-Chan Capital del Gran Chimú (1).png](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%281%29.png/1280px-%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*(CCC No. 27, 1927) - Chan-Chan Capital del Gran Chimú (1).png · The West Coast Leader, Ltd. · Public domain*
+
+![(CCC No. 27, 1927) - Chan-Chan Capital del Gran Chimú (2).png](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%282%29.png/1280px-%28CCC_No._27%2C_1927%29_-_Chan-Chan_Capital_del_Gran_Chim%C3%BA_%282%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*(CCC No. 27, 1927) - Chan-Chan Capital del Gran Chimú (2).png · The West Coast Leader, Ltd. · Public domain*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Chan Chan fue la capital del reino chimú, que conoció su máximo esplendor en 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Chicama** — 3.8 km — star — 3★
+- **Hotel Mamá Tina** — 5.8 km — star — 3★
+- **Caballito de Totora** — 6.1 km — star — 3★
+- **Hilton** — 5.3 km — chain — Hilton
+- **Pullman Hotel** — 5.6 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

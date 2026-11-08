@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_162.jpg",
-   "title": "Amiens Cathedral",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/162",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/234_11_la_cath%C3%A9drale_d%27Amiens.jpg/1280px-234_11_la_cath%C3%A9drale_d%27Amiens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "234 11 la cathédrale d'Amiens.jpg",
+   "author": "Protogonos69",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:234_11_la_cath%C3%A9drale_d%27Amiens.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Abbildung_der_vornehmsten_Geb%C3%A4ude_altdeutscher_Bauart_%281829%29_-_059.jpg/1280px-Abbildung_der_vornehmsten_Geb%C3%A4ude_altdeutscher_Bauart_%281829%29_-_059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Abbildung der vornehmsten Gebäude altdeutscher Bauart (1829) - 059.jpg",
+   "author": "Anton Falger",
+   "license": "Public domain",
+   "credit": "https://www.digitale-sammlungen.de/de/details/bsb11856823",
+   "source": "https://commons.wikimedia.org/wiki/File:Abbildung_der_vornehmsten_Geb%C3%A4ude_altdeutscher_Bauart_%281829%29_-_059.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Amiens_-_Cathedrale_1.jpg/1280px-Amiens_-_Cathedrale_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Amiens - Cathedrale 1.jpg",
+   "author": "Clément293",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Amiens_-_Cathedrale_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amiens_-_Cath%C3%A9drale_2.jpg/1280px-Amiens_-_Cath%C3%A9drale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Amiens - Cathédrale 2.jpg",
+   "author": "Clément293",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Amiens_-_Cath%C3%A9drale_2.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/162",
@@ -97,10 +121,124 @@
   ],
   "nearest_airport_km": 50.8,
   "distance_beijing_km": 8178.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Halte nautique d'Amiens",
+    "name_en": null,
+    "lat": 49.8955615,
+    "lon": 2.3073075,
+    "distance_km": 0.4,
+    "operator": null
+   },
+   {
+    "name": "Halte nautique de Cappy",
+    "name_en": null,
+    "lat": 49.9290622,
+    "lon": 2.7561024,
+    "distance_km": 32.7,
+    "operator": "Locaboat"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Amiens",
+    "name_en": null,
+    "lat": 49.8905599,
+    "lon": 2.3081986,
+    "distance_km": 0.6,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Gare Saint-Roch",
+    "name_en": null,
+    "lat": 49.8932209,
+    "lon": 2.2834356,
+    "distance_km": 1.3,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Longueau",
+    "name_en": null,
+    "lat": 49.8635124,
+    "lon": 2.3523295,
+    "distance_km": 5.0,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Dommartin - Remiencourt",
+    "name_en": null,
+    "lat": 49.7997263,
+    "lon": 2.3925553,
+    "distance_km": 12.4,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Ailly-sur-Noye",
+    "name_en": null,
+    "lat": 49.7545163,
+    "lon": 2.3640001,
+    "distance_km": 16.2,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel Marotte",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 49.891069,
+   "lon": 2.301193,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 49.8960615,
+   "lon": 2.299499,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Amiens Pôle Jules Verne",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 49.8659991,
+   "lon": 2.3712835,
+   "distance_km": 5.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Mercure",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 50.108008,
+   "lon": 1.835725,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Prieuré",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 49.8943222,
+   "lon": 2.3008305,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -158,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:52Z"
+ "updated_at": "2026-11-08T16:42:59Z"
 }

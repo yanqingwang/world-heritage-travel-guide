@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(x)"
 lat: -8.651625
 lon: 119.576569
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:31Z"
 ---
 
 # 科莫多国家公园 / Komodo National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Komodo dragon at Komodo National Park.jpg · see Wikimedia Commons file page*
 
-![Komodo National Park](https://whc.unesco.org/uploads/sites/site_609.jpg)
+![After staying overnight on this spot we watched the sunrise before heading to Komodo island (16932651410).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/After_staying_overnight_on_this_spot_we_watched_the_sunrise_before_heading_to_Komodo_island_%2816932651410%29.jpg/1280px-After_staying_overnight_on_this_spot_we_watched_the_sunrise_before_heading_to_Komodo_island_%2816932651410%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Komodo National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*After staying overnight on this spot we watched the sunrise before heading to Komodo island (16932651410).jpg · Jorge Láscar from Melbourne, Australia · CC BY 2.0*
+
+![Andhika bayu nugraha-taman nasional komodo (gili lawa).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Andhika_bayu_nugraha-taman_nasional_komodo_%28gili_lawa%29.jpg/1280px-Andhika_bayu_nugraha-taman_nasional_komodo_%28gili_lawa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Andhika bayu nugraha-taman nasional komodo (gili lawa).jpg · Andhika bayu nugraha · CC BY-SA 4.0*
+
+![Another boat waits near Pulau Kalong to see the bats (third stop) (16912463277).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Another_boat_waits_near_Pulau_Kalong_to_see_the_bats_%28third_stop%29_%2816912463277%29.jpg/1280px-Another_boat_waits_near_Pulau_Kalong_to_see_the_bats_%28third_stop%29_%2816912463277%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Another boat waits near Pulau Kalong to see the bats (third stop) (16912463277).jpg · Jorge Láscar from Melbourne, Australia · CC BY 2.0*
+
+![Audacious.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Audacious.jpg/1280px-Audacious.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Audacious.jpg · Christopheredison · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,19 @@ Taman Nasional Komodo adalah kawasan konservasi yang terletak di daerah administ
 - ✈ **Komodo Airport (LBJ)** — 39.2 km
 - ✈ **Tambolaka Airport (TMC)** — 91.9 km
 - ✈ **Sultan Muhammad Salahuddin Airport (BMU)** — 98.8 km
+- ⛴ **Cruise Ship Tender Landing** — 12.0 km
+- ⛴ **Dermaga Loh Liang** — 12.3 km
+- ⛴ **Pelabuhan Labuan Bajo** — 37.3 km
+- ⛴ **Pelabuhan ferry Labuan Bajo** — 37.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5410.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Bonne Nuit** — 38.4 km — star — 3★
+- **Eco Tree O'tel** — 37.5 km — star — Eco Tree O'tel · 2★
+- **Pagi** — 37.5 km — star — RedDoorz near Pantai Pede · 1★
+- **The Jayakarta Suites Komodo-Flores** — 34.9 km — hotel
+- **Sudamala Resort** — 35.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

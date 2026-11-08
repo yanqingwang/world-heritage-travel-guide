@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(vi)"
 lat: 7.856563
 lon: 80.6483403
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:45:55Z"
 ---
 
 # 丹布勒金寺 / Rangiri Dambulla Cave Temple
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Dambulla-temple daurat1.jpg · see Wikimedia Commons file page*
 
-![Rangiri Dambulla Cave Temple](https://whc.unesco.org/uploads/sites/site_561.jpg)
+![Buddha Dambulla 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Buddha_Dambulla_1.jpg/1280px-Buddha_Dambulla_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rangiri Dambulla Cave Temple · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Buddha Dambulla 1.jpg · Philip Nalangan · CC BY 4.0*
+
+![Buddha Dambulla 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Buddha_Dambulla_2.jpg/1280px-Buddha_Dambulla_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buddha Dambulla 2.jpg · Philip Nalangan · CC BY 4.0*
+
+![Buddha Dambulla 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Buddha_Dambulla_3.jpg/1280px-Buddha_Dambulla_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buddha Dambulla 3.jpg · Philip Nalangan · CC BY 4.0*
+
+![Buddha Dambulla 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Buddha_Dambulla_4.jpg/1280px-Buddha_Dambulla_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buddha Dambulla 4.jpg · Philip Nalangan · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sa
 - ✈ **China Bay Airport (TRR)** — 95.9 km
 - ✈ **Bandaranaike International Colombo Airport (CMB)** — 112.9 km
 - ✈ **Batticaloa International Airport (BTC)** — 114.6 km
+- 🚉 **Kalawewa** — 22.6 km
+- 🚉 **Negama** — 22.8 km
+- 🚉 **Kekirawa** — 23.6 km
+- 🚉 **Palugaswewa** — 23.6 km
+- 🚉 **Horiwiala** — 23.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4956.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **EKHO Lake House** — 39.6 km — star — 4★ · EKHO
+- **The Grand Mountain Hotel** — 44.6 km — star — 4★
+- **sigiriya nature villa lodge** — 15.3 km — star — 2★
+- **Sevonrich Holiday Resort** — 1.0 km — chain
+- **The Ritz Tourist Home** — 1.2 km — chain — The Ritz-Carlton
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

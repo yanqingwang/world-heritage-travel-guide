@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1269.jpg",
-   "title": "Sacred City of Caral-Supe",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1269",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/-Camino_en_Caral.jpg/1280px--Camino_en_Caral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "-Camino en Caral.jpg",
+   "author": "YarlequeLesly",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:-Camino_en_Caral.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/.-camino_de_caral.-.jpg/1280px-.-camino_de_caral.-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": ".-camino de caral.-.jpg",
+   "author": "YarlequeLesly",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:.-camino_de_caral.-.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/.caral.jpg/1280px-.caral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": ".caral.jpg",
+   "author": "YarlequeLesly",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:.caral.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/.NAZCA.jpg/1280px-.NAZCA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": ".NAZCA.jpg",
+   "author": "YarlequeLesly",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:.NAZCA.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1269",
@@ -97,10 +121,75 @@
   ],
   "nearest_airport_km": 133.0,
   "distance_beijing_km": 16618.0,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Carquín",
+    "name_en": null,
+    "lat": -11.091128,
+    "lon": -77.629481,
+    "distance_km": 25.0,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "La Vegueta",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -11.0239963,
+   "lon": -77.6443339,
+   "distance_km": 19.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bella Horizonte",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.8550728,
+   "lon": -77.7042947,
+   "distance_km": 20.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Romance",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.7976292,
+   "lon": -77.7112651,
+   "distance_km": 23.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Buendia",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.7965827,
+   "lon": -77.7107125,
+   "distance_km": 23.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Caral supe",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -10.7953051,
+   "lon": -77.7160666,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PE",
   "country_zh": "秘鲁",
@@ -156,5 +245,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:49:51Z"
 }

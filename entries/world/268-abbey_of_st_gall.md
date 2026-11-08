@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(ii)(iv)"
 lat: 47.423055555
 lon: 9.377222222
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:19Z"
 ---
 
 # 圣加尔修道院 / Abbey of St Gall
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *StGallen asv2022-10 Fürstabtei img1.jpg · see Wikimedia Commons file page*
 
-![Abbey of St Gall](https://whc.unesco.org/uploads/sites/site_268.jpg)
+![1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg/1280px-1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Abbey of St Gall · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1915-um-Spielplatz-ObererWeier-MThB-Hof--B883.jpg · POL · Public domain*
+
+![2008-05-17 St. Gallen 5453.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2008-05-17_St._Gallen_5453.jpg/1280px-2008-05-17_St._Gallen_5453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2008-05-17 St. Gallen 5453.jpg · Norbert Aepli, Switzerland ( User:Noebu ) · CC BY 3.0*
+
+![2012-08-15 11-37-13 Switzerland St. Gallen 4v.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2012-08-15_11-37-13_Switzerland_St._Gallen_4v.JPG/1280px-2012-08-15_11-37-13_Switzerland_St._Gallen_4v.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2012-08-15 11-37-13 Switzerland St. Gallen 4v.JPG · NOTE: This image is a panorama consisting of multiple frames that were merged or stitched in software. As a result, this · CC BY-SA 3.0*
+
+![2012-08-15 11-58-36 Switzerland St. Gallen Klosterviertel 4h.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2012-08-15_11-58-36_Switzerland_St._Gallen_Klosterviertel_4h.JPG/1280px-2012-08-15_11-58-36_Switzerland_St._Gallen_Klosterviertel_4h.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2012-08-15 11-58-36 Switzerland St. Gallen Klosterviertel 4h.JPG · NOTE: This image is a panorama consisting of multiple frames that were merged or stitched in software. As a result, this · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Die Fürstabtei St. Gallen (gegründet 719, aufgehoben 1805) war eine Benediktin
 - ✈ **Sankt Gallen Altenrhein Airport (ACH)** — 15.4 km
 - ✈ **Bodensee Airport Friedrichshafen (FDH)** — 29.4 km
 - ✈ **Zürich Airport (ZRH)** — 62.5 km
+- 🚉 **Mühlegg Talstation** — 0.1 km
+- 🚉 **Mühlegg** — 0.4 km
+- 🚉 **St. Gallen** — 0.6 km
+- 🚉 **St. Gallen AB** — 0.6 km
+- 🚉 **St. Gallen Güterbahnhof** — 1.3 km
+- ⛴ **Sitterfähre Süd** — 10.1 km
+- ⛴ **Sitterfähre Nord** — 10.2 km
+- ⛴ **Horn (See)** — 10.5 km
+- ⛴ **Rorschach Hafen (See)** — 10.7 km
+- ⛴ **Kornhaus-Hafen Rorschach** — 10.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7910.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Bayerischer Hof** — 26.6 km — star — 5★
+- **Riva** — 30.6 km — star — 5★
+- **Steigenberger Inselhotel Konstanz** — 30.7 km — star — 5★
+- **Grand Hotel Quellenhof** — 48.0 km — star — 5★ · Resort Ragaz
+- **Zur Linde** — 4.2 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

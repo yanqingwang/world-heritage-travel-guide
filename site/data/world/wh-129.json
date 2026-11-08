@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_129.jpg",
-   "title": "Maya Site of Copan",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/129",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_inscriptions_at_Copan_%28IA_inscriptionsatco00morl%29.pdf/page1-960px-The_inscriptions_at_Copan_%28IA_inscriptionsatco00morl%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "The inscriptions at Copan (IA inscriptionsatco00morl).pdf",
+   "author": "Morley, Sylvanus Griswold, 1883-1948",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier : inscriptionsatco00morl https://archive.org/download/inscriptionsatco00morl/inscriptionsatco00morl.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:The_inscriptions_at_Copan_%28IA_inscriptionsatco00morl%29.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814597777420%29.jpg/1280px-Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814597777420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution (1897) (14597777420).jpg",
+   "author": "Internet Archive Book Images",
+   "license": "No restrictions",
+   "credit": "https://www.flickr.com/photos/internetarchivebookimages/14597777420/ Source book page: https://archive.org/stream/annualreportofbu219smit/annualreportofbu219smi",
+   "source": "https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814597777420%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814784137552%29.jpg/1280px-Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814784137552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Annual report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution (1897) (14784137552).jpg",
+   "author": "Internet Archive Book Images",
+   "license": "No restrictions",
+   "credit": "https://www.flickr.com/photos/internetarchivebookimages/14784137552/ Source book page: https://archive.org/stream/annualreportofbu219smit/annualreportofbu219smi",
+   "source": "https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Bureau_of_American_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%281897%29_%2814784137552%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Carvings_in_the_wall_from_the_Mayan_site_Cop%C3%A1n.jpg/1280px-Carvings_in_the_wall_from_the_Mayan_site_Cop%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Carvings in the wall from the Mayan site Copán.jpg",
+   "author": "Peter Andersen",
+   "license": "CC BY 2.5",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Carvings_in_the_wall_from_the_Mayan_site_Cop%C3%A1n.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/129",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Plaza Copán",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8386902,
+   "lon": -89.1549651,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Yaragua",
+   "name_en": "Hotel Yaragua",
+   "stars": null,
+   "brand": null,
+   "lat": 14.8386267,
+   "lon": -89.1548057,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Brisas de Copán",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8398068,
+   "lon": -89.155138,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Camino Maya",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8382753,
+   "lon": -89.1558148,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Posada De Belssy",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.8398223,
+   "lon": -89.155626,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "HN",
   "country_zh": "洪都拉斯",
@@ -158,5 +238,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:52Z"
+ "updated_at": "2026-11-08T16:42:54Z"
 }

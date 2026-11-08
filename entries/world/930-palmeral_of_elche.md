@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(v)"
 lat: 38.264444444
 lon: -0.690833333
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:19Z"
 ---
 
 # 埃尔切的帕梅拉尔 / Palmeral of Elche

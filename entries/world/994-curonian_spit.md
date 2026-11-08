@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(v)"
 lat: 55.274444444
 lon: 20.970833333
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:32Z"
 ---
 
 # 库尔斯沙嘴 / Curonian Spit
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *Curonian Spit NP 05-2017 img15 Epha Dune.jpg · see Wikimedia Commons file page*
 
-![Curonian Spit](https://whc.unesco.org/uploads/sites/site_994.jpg)
+![2001.06.00.lt.KuršiuNerija.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1c/2001.06.00.lt.Kur%C5%A1iuNerija.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Curonian Spit · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2001.06.00.lt.KuršiuNerija.jpg · Francisco Santos ( User:xuaxo ) · CC BY-SA 3.0*
+
+![2012 07 11 Neringa 033.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2012_07_11_Neringa_033.JPG/1280px-2012_07_11_Neringa_033.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2012 07 11 Neringa 033.JPG · Veljo Runnel · CC BY-SA 4.0*
+
+![Akaflieg Berlin Teufelchen Start Rossitten 1923.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Akaflieg_Berlin_Teufelchen_Start_Rossitten_1923.jpg/1280px-Akaflieg_Berlin_Teufelchen_Start_Rossitten_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Akaflieg Berlin Teufelchen Start Rossitten 1923.jpg · Mitglieder Akaflieg Berlin · Public domain*
+
+![Bundesarchiv Bild 146-1990-001-30, Flüchtlingstreck.jpg](https://upload.wikimedia.org/wikipedia/commons/3/39/Bundesarchiv_Bild_146-1990-001-30%2C_Fl%C3%BCchtlingstreck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bundesarchiv Bild 146-1990-001-30, Flüchtlingstreck.jpg · Unknown author Unknown author · CC BY-SA 3.0 de*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Kur̃šių nerijà (vok. Kurische Nehrung, rus. Куршская коса) – p
 - ✈ **Khrabrovo Airport (KGD)** — 48.7 km
 - ✈ **Palanga International Airport (PLQ)** — 78.1 km
 - ✈ **Gdańsk Lech Wałęsa Airport (GDN)** — 188.9 km
+- 🚉 **Šilutė** — 33.5 km
+- 🚉 **Vilkyčiai** — 38.7 km
+- 🚉 **Rimkai** — 46.0 km
+- 🚉 **Зеленоградск-Новый** — 47.3 km
+- 🚉 **Полесск** — 47.3 km
+- ⛴ **Nidos tarptautinis keleivių uostas** — 3.9 km
+- ⛴ **Nidos keleivinė prieplauka** — 4.0 km
+- ⛴ **Nida** — 4.1 km
+- ⛴ **Ventainė** — 17.3 km
+- ⛴ **Uostadvaris** — 21.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6811.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **SPA Nida** — 3.8 km — star — 4★
+- **Gilija** — 32.7 km — star — 4★
+- **Euterpė** — 49.1 km — star — 4★
+- **Amberton Hotel Klaipėda** — 49.6 km — star — 4★
+- **Nidus** — 4.2 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ix)(x)"
 lat: 22.033333333
 lon: 89.516666666
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:56Z"
 ---
 
 # 孙德尔本斯国家公园 / The Sundarbans

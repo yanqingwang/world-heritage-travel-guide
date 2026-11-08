@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iv)"
 lat: 32.077777777
 lon: 34.773888888
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:45Z"
 ---
 
 # 特拉维夫白城——现代运动 / White City of Tel-Aviv – the Modern Movement
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *מוזיאון הבאוהאוס1.jpg · see Wikimedia Commons file page*
 
-![White City of Tel-Aviv – the Modern Movement](https://whc.unesco.org/uploads/sites/site_1096.jpg)
+![11 Bialik St from corner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/11_Bialik_St_from_corner.jpg/1280px-11_Bialik_St_from_corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*White City of Tel-Aviv – the Modern Movement · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*11 Bialik St from corner.jpg · Marsupium · CC0*
+
+![11 Bialik St.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/11_Bialik_St.jpg/1280px-11_Bialik_St.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*11 Bialik St.jpg · Marsupium · CC0*
+
+![118 Rothschild Boulevard by David Shankbone.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/118_Rothschild_Boulevard_by_David_Shankbone.jpg/1280px-118_Rothschild_Boulevard_by_David_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*118 Rothschild Boulevard by David Shankbone.jpg · David Shankbone · CC BY-SA 3.0*
+
+![12 Herzl St 21 Lilienblum St.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/12_Herzl_St_21_Lilienblum_St.jpg/1280px-12_Herzl_St_21_Lilienblum_St.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*12 Herzl St 21 Lilienblum St.jpg · Marsupium · CC0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,24 @@ Tel Aviv was founded in 1909 and developed as a metropolitan city under the Brit
 - ✈ **Ben Gurion International Airport (TLV)** — 12.9 km
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 85.3 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 115.4 km
+- 🚉 **יהודית** — 1.6 km
+- 🚉 **קרליבך** — 1.6 km
+- 🚉 **אלנבי** — 1.7 km
+- 🚉 **שאול המלך** — 1.7 km
+- 🚉 **תל אביב השלום** — 1.9 km
+- ⛴ **Jaffa Port** — 3.5 km
+- ⛴ **מרינה הרצליה** — 9.6 km
+- ⛴ **נמל אשדוד** — 30.1 km
+- ⛴ **אולם הנוסעים נמל אשדוד** — 30.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7140.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **מלון רנסאנס** — 0.8 km — star — Renaissance Tel Aviv Hotel · 5★
+- **Hilton Tel Aviv** — 1.3 km — star — Hilton Tel Aviv · 5★ · Hilton
+- **موفنبيك رام الله** — 45.4 km — star — Movenpick Ramallah · 5★
+- **אריסטוקרט** — 6.0 km — star — Aristocrat · 4★
+- **Grand Park Hotel** — 45.3 km — star — Grand Park Hotel · 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

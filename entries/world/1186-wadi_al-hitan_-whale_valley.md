@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(viii)"
 lat: 29.270833333
 lon: 30.043888888
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:54Z"
 ---
 
 # 鲸鱼峡谷 / Wadi Al-Hitan (Whale Valley)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *WadiHitanRock.jpg · see Wikimedia Commons file page*
 
-![Wadi Al-Hitan (Whale Valley)](https://whc.unesco.org/uploads/sites/site_1186.jpg)
+![Plaque in Wadi El Hitan, Egypt.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Plaque_in_Wadi_El_Hitan%2C_Egypt.jpg/1280px-Plaque_in_Wadi_El_Hitan%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Wadi Al-Hitan (Whale Valley) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Plaque in Wadi El Hitan, Egypt.jpg · Tom Horton from Shanghai, China · CC BY-SA 2.0*
+
+![882A2975.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/882A2975.jpg/1280px-882A2975.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*882A2975.jpg · Omar awaad · CC BY-SA 4.0*
+
+![Al Mudawara Mountain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Al_Mudawara_Mountain.jpg/1280px-Al_Mudawara_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al Mudawara Mountain.jpg · Bilal Detailz · CC BY-SA 4.0*
+
+![Basilosaurus and Dorudon skeletons - Voss et al 2019.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Basilosaurus_and_Dorudon_skeletons_-_Voss_et_al_2019.tif/lossy-page1-1280px-Basilosaurus_and_Dorudon_skeletons_-_Voss_et_al_2019.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Basilosaurus and Dorudon skeletons - Voss et al 2019.tif · Manja Voss, Mohammed Sameh M. Antar, Iyad S. Zalmout and Philip D. Gingerich · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,10 @@ Wadi Al-Hitan, Whale Valley, in the Western Desert of Egypt, contains invaluable
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فندق بيوم ليكسايد** — 43.7 km — hotel
+- **MalakTunis** — 45.8 km — hotel
+- **سوبك** — 46.0 km — hotel — Sobek Lodge
+- **Tzila Lodge** — 46.0 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

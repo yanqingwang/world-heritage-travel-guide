@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_559.jpg",
-   "title": "Royal Domain of Drottningholm",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/559",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/20180624_D-holmPalace_7163_%2848412098431%29.jpg/1280px-20180624_D-holmPalace_7163_%2848412098431%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20180624 D-holmPalace 7163 (48412098431).jpg",
+   "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+   "license": "CC BY-SA 2.0",
+   "credit": "20180624_D-holmPalace_7163",
+   "source": "https://commons.wikimedia.org/wiki/File:20180624_D-holmPalace_7163_%2848412098431%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/20180624_D-holmPalace_7164_%2848412097646%29.jpg/1280px-20180624_D-holmPalace_7164_%2848412097646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20180624 D-holmPalace 7164 (48412097646).jpg",
+   "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+   "license": "CC BY-SA 2.0",
+   "credit": "20180624_D-holmPalace_7164",
+   "source": "https://commons.wikimedia.org/wiki/File:20180624_D-holmPalace_7164_%2848412097646%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/20180624_D-holmPalace_7254_%2848412007286%29.jpg/1280px-20180624_D-holmPalace_7254_%2848412007286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20180624 D-holmPalace 7254 (48412007286).jpg",
+   "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+   "license": "CC BY-SA 2.0",
+   "credit": "20180624_D-holmPalace_7254",
+   "source": "https://commons.wikimedia.org/wiki/File:20180624_D-holmPalace_7254_%2848412007286%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/20180624_D-holmPalace_7321_%2848411942911%29.jpg/1280px-20180624_D-holmPalace_7321_%2848411942911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20180624 D-holmPalace 7321 (48411942911).jpg",
+   "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+   "license": "CC BY-SA 2.0",
+   "credit": "20180624_D-holmPalace_7321",
+   "source": "https://commons.wikimedia.org/wiki/File:20180624_D-holmPalace_7321_%2848411942911%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/559",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 4.8,
   "distance_beijing_km": 6706.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Drottningholm",
+    "name_en": null,
+    "lat": 59.3231805,
+    "lon": 17.8909153,
+    "distance_km": 0.3,
+    "operator": "Strömma Kanalbolaget"
+   },
+   {
+    "name": "Kungshättan",
+    "name_en": null,
+    "lat": 59.3047834,
+    "lon": 17.9022254,
+    "distance_km": 2.1,
+    "operator": null
+   },
+   {
+    "name": "Mälarhöjdsbadet",
+    "name_en": null,
+    "lat": 59.3009983,
+    "lon": 17.9273622,
+    "distance_km": 3.3,
+    "operator": "Strömma Kanalbolaget"
+   },
+   {
+    "name": "Fridhem",
+    "name_en": null,
+    "lat": 59.3036068,
+    "lon": 17.9500573,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "Tappström",
+    "name_en": null,
+    "lat": 59.2925594,
+    "lon": 17.8114355,
+    "distance_km": 5.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Sundbyberg",
+    "name_en": null,
+    "lat": 59.3607417,
+    "lon": 17.9718708,
+    "distance_km": 6.5,
+    "operator": null
+   },
+   {
+    "name": "Spånga",
+    "name_en": null,
+    "lat": 59.3836259,
+    "lon": 17.8981821,
+    "distance_km": 6.9,
+    "operator": null
+   },
+   {
+    "name": "Årstaberg",
+    "name_en": null,
+    "lat": 59.2996092,
+    "lon": 18.0280784,
+    "distance_km": 8.4,
+    "operator": null
+   },
+   {
+    "name": "Solna",
+    "name_en": null,
+    "lat": 59.3664864,
+    "lon": 18.0096279,
+    "distance_km": 8.6,
+    "operator": null
+   },
+   {
+    "name": "Älvsjö",
+    "name_en": null,
+    "lat": 59.2785472,
+    "lon": 18.011089,
+    "distance_km": 8.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel Reisen",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Unbound Collection",
+   "lat": 59.325429,
+   "lon": 18.0749424,
+   "distance_km": 10.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mornington Bromma",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mornington Hotels",
+   "lat": 59.3465299,
+   "lon": 17.9655633,
+   "distance_km": 5.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scandic Alvik",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Scandic Hotels",
+   "lat": 59.3314453,
+   "lon": 17.9821674,
+   "distance_km": 5.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Story Hotel Signalfabriken, Part of JdV by Hyatt",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hyatt",
+   "lat": 59.3615939,
+   "lon": 17.9673135,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hagastrand, Autograph Collection",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Radisson Blu",
+   "lat": 59.3692132,
+   "lon": 18.0312759,
+   "distance_km": 9.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SE",
   "country_zh": "瑞典",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:55Z"
+ "updated_at": "2026-11-08T16:45:53Z"
 }

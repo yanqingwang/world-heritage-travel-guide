@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(viii)"
 lat: 38.496666666
 lon: 14.935833333
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:16Z"
 ---
 
 # 伊索莱约里（伊奥利亚群岛） / Isole Eolie (Aeolian Islands)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Aeolian Islands.jpg · see Wikimedia Commons file page*
 
-![Isole Eolie (Aeolian Islands)](https://whc.unesco.org/uploads/sites/site_908.jpg)
+![Sicily in the Year 1825 - Elizabeth Campbell - 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sicily_in_the_Year_1825_-_Elizabeth_Campbell_-_06.jpg/1280px-Sicily_in_the_Year_1825_-_Elizabeth_Campbell_-_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Isole Eolie (Aeolian Islands) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Sicily in the Year 1825 - Elizabeth Campbell - 06.jpg · Elizabeth Campbell · Public domain*
+
+![2009-04-23 (34) Mountain, Berg.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2009-04-23_%2834%29_Mountain%2C_Berg.JPG/1280px-2009-04-23_%2834%29_Mountain%2C_Berg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2009-04-23 (34) Mountain, Berg.JPG · Vera Buhl · CC BY-SA 3.0*
+
+![Aeolian island (13).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Aeolian_island_%2813%29.jpg/1280px-Aeolian_island_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aeolian island (13).jpg · stefan_fotos from Leipzig, Germany · CC BY-SA 2.0*
+
+![Aeolian island (14).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Aeolian_island_%2814%29.jpg/1280px-Aeolian_island_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aeolian island (14).jpg · stefan_fotos from Leipzig, Germany · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Le isole Eolie (ìsuli Eoli in siciliano), dette anche isole Lipari, ma in ampio
 - ✈ **Reggio Calabria Airport (REG)** — 78.4 km
 - ✈ **Catania-Fontanarossa Airport (CTA)** — 115.1 km
 - ✈ **Lamezia Terme Sant'Eufemia International Airport (SUF)** — 122.5 km
+- 🚉 **Gioiosa Marea** — 35.9 km
+- 🚉 **San Giorgio** — 35.9 km
+- 🚉 **Brolo-Ficarra** — 38.6 km
+- 🚉 **Patti-San Piero Patti** — 39.0 km
+- 🚉 **Capo d'Orlando-Naso** — 41.2 km
+- ⛴ **Porto Pignataro** — 3.2 km
+- ⛴ **Lipari** — 3.3 km
+- ⛴ **Siremar** — 3.5 km
+- ⛴ **Liberty Lines** — 3.5 km
+- ⛴ **Marina Corta** — 4.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8181.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **La Villetta** — 2.1 km — star — 4★
+- **Oltremare** — 2.2 km — star — 4★
+- **Residence Acanto** — 3.6 km — star — 4★
+- **Residence Alberghiero Eilir** — 3.7 km — star — 4★
+- **Villa Meligunis** — 4.0 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

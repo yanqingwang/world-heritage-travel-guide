@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1055.jpg",
-   "title": "Lamu Old Town",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1055",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%22KARIBU_LAMU%22.jpg/1280px-%22KARIBU_LAMU%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"KARIBU LAMU\".jpg",
+   "author": "Gri4ke",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22KARIBU_LAMU%22.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_house_garden.jpg/1280px-A_house_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A house garden.jpg",
+   "author": "Latif2022",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_house_garden.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/A_traditional_Swahili_architectural_design_in_a_restaurant_in_Lamu-Kenya.jpg/1280px-A_traditional_Swahili_architectural_design_in_a_restaurant_in_Lamu-Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A traditional Swahili architectural design in a restaurant in Lamu-Kenya.jpg",
+   "author": "Queen Asali",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_traditional_Swahili_architectural_design_in_a_restaurant_in_Lamu-Kenya.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_woman_wearing_Buibui.jpg/1280px-A_woman_wearing_Buibui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A woman wearing Buibui.jpg",
+   "author": "Zei2022",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_woman_wearing_Buibui.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1055",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Yumbe Villa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2686334,
+   "lon": 40.9014407,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yumbe House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.266425,
+   "lon": 40.900723,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Petleys Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2677379,
+   "lon": 40.9022522,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sunsail",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2684687,
+   "lon": 40.9026909,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bahari",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.2657045,
+   "lon": 40.9009627,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "KE",
   "country_zh": "肯尼亚",
@@ -158,5 +238,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:59Z"
+ "updated_at": "2026-11-08T16:48:43Z"
 }

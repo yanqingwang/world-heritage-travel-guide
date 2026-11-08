@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_372.jpg",
-   "title": "Studley Royal Park including the Ruins of Fountains Abbey",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/372",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0001.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0001.jpg",
+   "author": "Tilman2007",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0001.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0002.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0002.jpg",
+   "author": "Tilman2007",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0002.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0004.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0004.jpg",
+   "author": "Tilman2007",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0004.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0005.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0005.jpg",
+   "author": "Tilman2007",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0005.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/372",
@@ -97,10 +121,124 @@
   ],
   "nearest_airport_km": 27.6,
   "distance_beijing_km": 8023.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Newby Hall Boat Trips",
+    "name_en": null,
+    "lat": 54.0988363,
+    "lon": -1.4690821,
+    "distance_km": 7.4,
+    "operator": null
+   },
+   {
+    "name": "Leeds Water Taxi Dock",
+    "name_en": null,
+    "lat": 53.7929989,
+    "lon": -1.5481194,
+    "distance_km": 35.3,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Harrogate",
+    "name_en": null,
+    "lat": 53.9934045,
+    "lon": -1.5374305,
+    "distance_km": 13.2,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Knaresborough",
+    "name_en": null,
+    "lat": 54.0090258,
+    "lon": -1.4703169,
+    "distance_km": 13.3,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Starbeck",
+    "name_en": null,
+    "lat": 53.998881,
+    "lon": -1.5004755,
+    "distance_km": 13.4,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Hornbeam Park",
+    "name_en": null,
+    "lat": 53.9803587,
+    "lon": -1.5276765,
+    "distance_km": 14.8,
+    "operator": "Northern Trains"
+   },
+   {
+    "name": "Pannal",
+    "name_en": null,
+    "lat": 53.9585105,
+    "lon": -1.532787,
+    "distance_km": 17.1,
+    "operator": "Northern Trains"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Harrogate Majestic Hotel & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree by Hilton",
+   "lat": 53.9970221,
+   "lon": -1.5438938,
+   "distance_km": 12.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Weetwood Hall",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.837953,
+   "lon": -1.5921066,
+   "distance_km": 30.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "42 The Calls",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.7947001,
+   "lon": -1.538155,
+   "distance_km": 35.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt House Leeds",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hyatt House",
+   "lat": 53.7942235,
+   "lon": -1.5456795,
+   "distance_km": 35.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Leeds City Centre",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 53.7933504,
+   "lon": -1.5496214,
+   "distance_km": 35.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GB",
   "country_zh": "英国",
@@ -158,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:45:21Z"
 }

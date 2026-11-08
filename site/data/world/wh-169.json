@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_169.jpg",
-   "title": "Würzburg Residence with the Court Gardens and Residence Square",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/169",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_image_of_W%C3%BCrzburg_Residence_%28view_from_the_east%29.jpg/1280px-Aerial_image_of_W%C3%BCrzburg_Residence_%28view_from_the_east%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aerial image of Würzburg Residence (view from the east).jpg",
+   "author": "Carsten Steger",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_W%C3%BCrzburg_Residence_%28view_from_the_east%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/AK_-_W%C3%BCrzburg_-_Schlosstor-_1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "AK - Würzburg - Schlosstor- 1897.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "https://www.ebay.de/itm/154469878481?hash=item23f71f4ad1:g:whIAAOSwJnxgr86J",
+   "source": "https://commons.wikimedia.org/wiki/File:AK_-_W%C3%BCrzburg_-_Schlosstor-_1897.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Europens_Pracht_und_Macht_ca_1740_%28125579337%29.jpg/1280px-Europens_Pracht_und_Macht_ca_1740_%28125579337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Europens Pracht und Macht ca 1740 (125579337).jpg",
+   "author": "Gabriel Bodenehr",
+   "license": "Public domain",
+   "credit": "This file comes from Polona Digital Library and is available under the URL: https://polona.pl/item/europens-pracht-und-macht,MTIyMzgyNjM1/320/",
+   "source": "https://commons.wikimedia.org/wiki/File:Europens_Pracht_und_Macht_ca_1740_%28125579337%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Postcard_of_the_W%C3%BCrzburg_Residence_-_DPLA_-_975a08bb6d75645742bfffd03b683881_%28page_1%29.jpg/1280px-Postcard_of_the_W%C3%BCrzburg_Residence_-_DPLA_-_975a08bb6d75645742bfffd03b683881_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Postcard of the Würzburg Residence - DPLA - 975a08bb6d75645742bfffd03b683881 (page 1).jpg",
+   "author": "",
+   "license": "No restrictions",
+   "credit": "This file was contributed to Wikimedia Commons by Science History Institute as part of a cooperation project. The donation was facilitated by the Digital Public",
+   "source": "https://commons.wikimedia.org/wiki/File:Postcard_of_the_W%C3%BCrzburg_Residence_-_DPLA_-_975a08bb6d75645742bfffd03b683881_%28page_1%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/169",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 88.3,
   "distance_beijing_km": 7683.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Würzburg",
+    "name_en": null,
+    "lat": 49.7965493,
+    "lon": 9.9255162,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "Alter Hafen",
+    "name_en": null,
+    "lat": 49.8012379,
+    "lon": 9.9216976,
+    "distance_km": 1.6,
+    "operator": "Würzburger Hafen GmbH"
+   },
+   {
+    "name": "Bootshafen SFSW",
+    "name_en": null,
+    "lat": 49.7987837,
+    "lon": 9.8977249,
+    "distance_km": 3.0,
+    "operator": "Staatliche Feuerwehrschule Würzburg"
+   },
+   {
+    "name": "Flusshafen",
+    "name_en": null,
+    "lat": 49.8075812,
+    "lon": 9.8761784,
+    "distance_km": 4.8,
+    "operator": "Würzburger Hafen GmbH"
+   },
+   {
+    "name": "Zell",
+    "name_en": null,
+    "lat": 49.8095927,
+    "lon": 9.8739855,
+    "distance_km": 5.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Würzburg Hauptbahnhof",
+    "name_en": null,
+    "lat": 49.8021549,
+    "lon": 9.935891,
+    "distance_km": 1.1,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Würzburg-Heidingsfeld Ost",
+    "name_en": null,
+    "lat": 49.7611403,
+    "lon": 9.9533236,
+    "distance_km": 3.7,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Würzburg-Zell",
+    "name_en": null,
+    "lat": 49.8049134,
+    "lon": 9.8846238,
+    "distance_km": 4.1,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Veitshöchheim",
+    "name_en": null,
+    "lat": 49.8303456,
+    "lon": 9.8763139,
+    "distance_km": 6.1,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Rottendorf",
+    "name_en": null,
+    "lat": 49.7931837,
+    "lon": 10.0291347,
+    "distance_km": 6.5,
+    "operator": "DB Netz AG"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Neumühle Resort & SPA",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.1278023,
+   "lon": 9.8239633,
+   "distance_km": 38.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dorint Hotel Würzburg",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Dorint",
+   "lat": 49.7967521,
+   "lon": 9.9413117,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Rebstock",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western Premier",
+   "lat": 49.7905806,
+   "lon": 9.9307448,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Würzburger Hof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.7974094,
+   "lon": 9.9329324,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Greifensteiner Hof",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 49.795227,
+   "lon": 9.9285729,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:52Z"
+ "updated_at": "2026-11-08T16:43:04Z"
 }

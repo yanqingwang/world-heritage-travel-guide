@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 5.3193393
 lon: -61.7953505
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:46Z"
 ---
 
 # 卡奈依马国家公园 / Canaima National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:56Z"
 
 *Canaima 34.JPG · see Wikimedia Commons file page*
 
-![Canaima National Park](https://whc.unesco.org/uploads/sites/site_701.jpg)
+!["Aguas rojas" en el Parque Nacional Canaima (Bolívar).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%22Aguas_rojas%22_en_el_Parque_Nacional_Canaima_%28Bol%C3%ADvar%29.jpg/1280px-%22Aguas_rojas%22_en_el_Parque_Nacional_Canaima_%28Bol%C3%ADvar%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Canaima National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Aguas rojas" en el Parque Nacional Canaima (Bolívar).jpg · TainaHijadeDios · CC BY-SA 3.0*
+
+![A snake in the landscape (28055218397).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/A_snake_in_the_landscape_%2828055218397%29.jpg/1280px-A_snake_in_the_landscape_%2828055218397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A snake in the landscape (28055218397).jpg · Stig Nygaard · CC BY 2.0*
+
+![Amanacer en Kavanayen - Parque Nacional Canaima.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Amanacer_en_Kavanayen_-_Parque_Nacional_Canaima.JPG/1280px-Amanacer_en_Kavanayen_-_Parque_Nacional_Canaima.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Amanacer en Kavanayen - Parque Nacional Canaima.JPG · Heribert Dezeo · CC BY-SA 3.0*
+
+![Atravesando los rapidos por via alterna.JPG](https://upload.wikimedia.org/wikipedia/commons/d/dc/Atravesando_los_rapidos_por_via_alterna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Atravesando los rapidos por via alterna.JPG · Marbe0506 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

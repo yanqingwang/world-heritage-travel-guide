@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(i)(iv)"
 lat: 45.5863198
 lon: -1.1733254
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:52Z"
 ---
 
 # 科尔杜昂灯塔 / Cordouan Lighthouse
@@ -26,6 +26,10 @@ updated_at: "2026-11-08T16:07:02Z"
 ![Phare de Cordouan 32.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Phare%20de%20Cordouan%2032.jpg?width=1280)
 
 *Phare de Cordouan 32.jpg · see Wikimedia Commons file page*
+
+![Tour de Cordouan (dessin) (...)Van der btv1b7741891k.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Tour_de_Cordouan_%28dessin%29_%28...%29Van_der_btv1b7741891k.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Tour de Cordouan (dessin) (...)Van der btv1b7741891k.jpg · Hermann van der Hem (1619-1649) · Public domain*
 
 ![Cordouan Lighthouse](https://whc.unesco.org/uploads/sites/site_1625.jpg)
 
@@ -52,11 +56,25 @@ Le phare de Cordouan s’élève sur un plateau rocheux peu profond de l’océa
 - ✈ **La Rochelle Île de Ré Airport (LRH)** — 65.9 km
 - ✈ **Bordeaux–Mérignac Airport (BOD)** — 91.6 km
 - ✈ **Bergerac Dordogne-Périgord airport (EGC)** — 157.3 km
+- 🚉 **Le Verdon** — 9.4 km
+- 🚉 **Soulac-sur-Mer** — 9.7 km
+- 🚉 **Royan** — 13.0 km
+- 🚉 **Saujon** — 20.9 km
+- 🚉 **Maumusson** — 25.1 km
+- ⛴ **Bac Pointe de Grave-Royan** — 8.8 km
+- ⛴ **Terminal conteneurs du Verdon** — 11.3 km
+- ⛴ **Embarcadère de Royan** — 11.6 km
+- ⛴ **Port de Saint-Vivien** — 19.3 km
+- ⛴ **Port des Salines** — 30.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8609.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel Cordouan - Thalazur** — 10.9 km — star — 4★
+- **Village Club La Grande Baie** — 11.6 km — star — 4★
+- **Le Grand Large** — 35.4 km — star — 4★
+- **Hôtel - Restaurant de la Corderie Royale** — 43.0 km — star — 4★ · Mercure Hôtels
+- **Le Domaine de Saint-Palais** — 8.9 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_499.jpg",
-   "title": "Kairouan",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/499",
-   "provider": "unesco"
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "9erouen.wav",
+   "author": "Tounsimentounes",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:9erouen.wav"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Bab-Souk-es-Sekkajine_01.jpg/1280px-Bab-Souk-es-Sekkajine_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bab-Souk-es-Sekkajine 01.jpg",
+   "author": "Besi33",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bab-Souk-es-Sekkajine_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bab-Souk-es-Sekkajine_02.jpg/1280px-Bab-Souk-es-Sekkajine_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bab-Souk-es-Sekkajine 02.jpg",
+   "author": "Besi33",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bab-Souk-es-Sekkajine_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Bab-Souk-es-Sekkajine_03.jpg/1280px-Bab-Souk-es-Sekkajine_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bab-Souk-es-Sekkajine 03.jpg",
+   "author": "Besi33",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bab-Souk-es-Sekkajine_03.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/499",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 53.2,
   "distance_beijing_km": 8678.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "منزل المحطة",
+    "name_en": null,
+    "lat": 36.01028,
+    "lon": 10.3778807,
+    "distance_km": 44.1,
+    "operator": null
+   },
+   {
+    "name": "سوسة بضائع",
+    "name_en": null,
+    "lat": 35.7778856,
+    "lon": 10.5772487,
+    "distance_km": 44.3,
+    "operator": "الشركة الوطنية للسكك الحديدية التونسية"
+   },
+   {
+    "name": "القلعة الصغرى",
+    "name_en": null,
+    "lat": 35.8219787,
+    "lon": 10.5714633,
+    "distance_km": 45.3,
+    "operator": null
+   },
+   {
+    "name": "مساكن",
+    "name_en": null,
+    "lat": 35.7289523,
+    "lon": 10.599953,
+    "distance_km": 45.4,
+    "operator": null
+   },
+   {
+    "name": "القلعة الكبرى",
+    "name_en": null,
+    "lat": 35.8680522,
+    "lon": 10.5530601,
+    "distance_km": 45.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق القصبة",
+   "name_en": "Hotel La Kasbah",
+   "stars": 5,
+   "brand": "غولدن ياسمين",
+   "lat": 35.6797663,
+   "lon": 10.0994018,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Kenz Hotel Thalasso & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Magic Life",
+   "lat": 35.9104423,
+   "lon": 10.5789467,
+   "distance_km": 50.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق كنتيننتال",
+   "name_en": "Hotel Continental",
+   "stars": 3,
+   "brand": null,
+   "lat": 35.6855077,
+   "lon": 10.0979161,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Kasbah",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.6800296,
+   "lon": 10.0992197,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dar Hassine Allani",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.6796037,
+   "lon": 10.1024162,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TN",
   "country_zh": "突尼斯",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:45Z"
 }

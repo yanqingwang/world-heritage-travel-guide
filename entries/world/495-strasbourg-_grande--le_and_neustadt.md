@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(ii)(iv)"
 lat: 48.58444
 lon: 7.74889
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:44Z"
 ---
 
 # 斯特拉斯堡大岛和新城区 / Strasbourg, Grande-Île and Neustadt

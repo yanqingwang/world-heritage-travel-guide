@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1328.jpg",
-   "title": "Central Sector of the Imperial Citadel of Thang Long - Hanoi",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1328",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/03934-Hanoi_%2832573170290%29.jpg/1280px-03934-Hanoi_%2832573170290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "03934-Hanoi (32573170290).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "03934-Hanoi",
+   "source": "https://commons.wikimedia.org/wiki/File:03934-Hanoi_%2832573170290%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/04529-Hanoi_%2832206504662%29.jpg/1280px-04529-Hanoi_%2832206504662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "04529-Hanoi (32206504662).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "04529-Hanoi",
+   "source": "https://commons.wikimedia.org/wiki/File:04529-Hanoi_%2832206504662%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/04546-Hanoi_%2832206503032%29.jpg/1280px-04546-Hanoi_%2832206503032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "04546-Hanoi (32206503032).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "04546-Hanoi",
+   "source": "https://commons.wikimedia.org/wiki/File:04546-Hanoi_%2832206503032%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/04547-Hanoi_%2831545552143%29.jpg/1280px-04547-Hanoi_%2831545552143%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "04547-Hanoi (31545552143).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "04547-Hanoi",
+   "source": "https://commons.wikimedia.org/wiki/File:04547-Hanoi_%2831545552143%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1328",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 21.3,
   "distance_beijing_km": 2332.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Bến đò Kim Lan",
+    "name_en": null,
+    "lat": 20.9698459,
+    "lon": 105.9017347,
+    "distance_km": 9.5,
+    "operator": null
+   },
+   {
+    "name": "Bến đò Văn Đức",
+    "name_en": null,
+    "lat": 20.9579836,
+    "lon": 105.8932729,
+    "distance_km": 10.0,
+    "operator": null
+   },
+   {
+    "name": "Bến thuyền Gondola",
+    "name_en": null,
+    "lat": 20.9538391,
+    "lon": 105.9761056,
+    "distance_km": 16.6,
+    "operator": null
+   },
+   {
+    "name": "Bến đò Lệ Chi",
+    "name_en": null,
+    "lat": 21.0697438,
+    "lon": 106.0057175,
+    "distance_km": 17.7,
+    "operator": null
+   },
+   {
+    "name": "Bến đò Tri Phương",
+    "name_en": null,
+    "lat": 21.0713892,
+    "lon": 106.0052973,
+    "distance_km": 17.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Hà Nội",
+    "name_en": "Hanoi",
+    "lat": 21.0242336,
+    "lon": 105.8410067,
+    "distance_km": 0.9,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Long Biên",
+    "name_en": "Long Bien",
+    "lat": 21.0398713,
+    "lon": 105.8500216,
+    "distance_km": 1.3,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Gia Lâm",
+    "name_en": "Gia Lam",
+    "lat": 21.0516399,
+    "lon": 105.8787541,
+    "distance_km": 4.6,
+    "operator": null
+   },
+   {
+    "name": "Giáp Bát",
+    "name_en": null,
+    "lat": 20.9785715,
+    "lon": 105.8405631,
+    "distance_km": 6.0,
+    "operator": "Tổng công ty Đường sắt Việt Nam"
+   },
+   {
+    "name": "Phú Diễn",
+    "name_en": null,
+    "lat": 21.0513008,
+    "lon": 105.764969,
+    "distance_km": 8.0,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Somerset Grand Hanoi",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Somerset",
+   "lat": 21.0258326,
+   "lon": 105.8463672,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Hanoi",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 21.0298599,
+   "lon": 105.8288524,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel du Parc Hanoi",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 21.0179144,
+   "lon": 105.8420625,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel de l'Opera Hanoi",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 21.0244864,
+   "lon": 105.8555817,
+   "distance_km": 1.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Legend Metropole Hà Nội",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 21.025596,
+   "lon": 105.8559891,
+   "distance_km": 1.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "VN",
   "country_zh": "越南",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:49:59Z"
 }

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1669.jpg",
-   "title": "Gordion",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1669",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EPISODAMOS_SON_OF_ARTAMITIOS.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "EPISODAMOS SON OF ARTAMITIOS.JPG",
+   "author": "Fkitselis",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:EPISODAMOS_SON_OF_ARTAMITIOS.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Gordion_Antik_Kenti_%281%29.jpg/1280px-Gordion_Antik_Kenti_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gordion Antik Kenti (1).jpg",
+   "author": "Canercangul",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gordion_Antik_Kenti_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Gordion_Antik_Kenti_%2819.05.2023%29_39.jpg/1280px-Gordion_Antik_Kenti_%2819.05.2023%29_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gordion Antik Kenti (19.05.2023) 39.jpg",
+   "author": "Gargarapalvin",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gordion_Antik_Kenti_%2819.05.2023%29_39.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gordion_Antik_Kenti_%2819.05.2023%29_55.jpg/1280px-Gordion_Antik_Kenti_%2819.05.2023%29_55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gordion Antik Kenti (19.05.2023) 55.jpg",
+   "author": "Gargarapalvin",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gordion_Antik_Kenti_%2819.05.2023%29_55.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1669",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 101.7,
   "distance_beijing_km": 6815.8,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Beylikköprü",
+    "name_en": null,
+    "lat": 39.6002321,
+    "lon": 31.9580024,
+    "distance_km": 5.8,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Sazılar",
+    "name_en": null,
+    "lat": 39.6659432,
+    "lon": 31.8882786,
+    "distance_km": 7.9,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "İğciler",
+    "name_en": null,
+    "lat": 39.572139,
+    "lon": 32.032278,
+    "distance_km": 9.8,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "Polatlı",
+    "name_en": null,
+    "lat": 39.58567,
+    "lon": 32.1417303,
+    "distance_km": 15.7,
+    "operator": "TCDD Taşımacılık"
+   },
+   {
+    "name": "İlören",
+    "name_en": null,
+    "lat": 39.6868166,
+    "lon": 31.7820013,
+    "distance_km": 17.3,
+    "operator": "TCDD Taşımacılık"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Polatlı Abdullah Resort Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.5741687,
+   "lon": 32.1404272,
+   "distance_km": 16.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Çini otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.4485375,
+   "lon": 31.5389433,
+   "distance_km": 43.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Büyük Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.0615454,
+   "lon": 32.1166834,
+   "distance_km": 47.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Küçük Otel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.0608308,
+   "lon": 32.115858,
+   "distance_km": 47.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Garden Inn Ayaş",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.033345,
+   "lon": 32.2420476,
+   "distance_km": 48.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TR",
   "country_zh": "土耳其",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:03Z"
+ "updated_at": "2026-11-08T16:50:58Z"
 }

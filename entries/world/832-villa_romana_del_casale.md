@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)"
 lat: 37.364723
 lon: 14.334553
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:05Z"
 ---
 
 # 卡萨尔的罗马别墅 / Villa Romana del Casale
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Villa Romana del Casale - Plan (numbered).jpg · see Wikimedia Commons file page*
 
-![Villa Romana del Casale](https://whc.unesco.org/uploads/sites/site_832.jpg)
+![+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_04.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Villa Romana del Casale · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_06.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 06.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 07.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_07.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 07.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 37.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_37.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 37.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,22 @@ La Villa romana del Casale è un edificio abitativo tardo antico, popolarmente d
 - ✈ **Comiso Airport (CIY)** — 47.7 km
 - ✈ **Catania-Fontanarossa Airport (CTA)** — 65.6 km
 - ✈ **Reggio Calabria Airport (REG)** — 140.0 km
+- 🚉 **Caltagirone** — 22.8 km
+- 🚉 **Enna** — 24.4 km
+- 🚉 **Dittaino** — 24.9 km
+- 🚉 **Villarosa** — 25.4 km
+- 🚉 **Leonforte Pirato** — 27.1 km
+- ⛴ **Marina di Cala del Sole** — 45.7 km
+- ⛴ **Porto di Licata** — 46.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8327.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Villa Tasca Farmhouse** — 17.1 km — star — 5★
+- **Federico II Palace Hotel** — 20.3 km — star — 4★
+- **Hotel NH Caltagirone Villa San Mauro** — 22.3 km — star — 4★
+- **Hotel San Michele** — 29.2 km — star — 4★
+- **Villa Giocolano** — 32.9 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

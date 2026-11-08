@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iv)"
 lat: 65.024444
 lon: 35.710556
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:35Z"
 ---
 
 # 索洛维茨基群岛的历史建筑群 / Cultural and Historic Ensemble of the Solovetsky Islands
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Бухта Кислая.jpg · see Wikimedia Commons file page*
 
-![Cultural and Historic Ensemble of the Solovetsky Islands](https://whc.unesco.org/uploads/sites/site_632.jpg)
+![Solovki. July 2014 - panoramio (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Solovki._July_2014_-_panoramio_%282%29.jpg/1280px-Solovki._July_2014_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cultural and Historic Ensemble of the Solovetsky Islands · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Solovki. July 2014 - panoramio (2).jpg · Impi · CC BY-SA 3.0*
+
+![Stairs leading to the Axe mountain.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Stairs_leading_to_the_Axe_mountain.jpg/1280px-Stairs_leading_to_the_Axe_mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Stairs leading to the Axe mountain.jpg · Vitold Muratov · CC BY-SA 4.0*
+
+![Соловки - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8_-_panoramio.jpg/1280px-%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Соловки - panoramio.jpg · Vadim Fedin · CC BY 3.0*
+
+![Триангуляционный пункт на Соловках.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%A2%D1%80%D0%B8%D0%B0%D0%BD%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82_%D0%BD%D0%B0_%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0%D1%85.jpg/1280px-%D0%A2%D1%80%D0%B8%D0%B0%D0%BD%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82_%D0%BD%D0%B0_%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0%D1%85.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Триангуляционный пункт на Соловках.jpg · Borealex · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ The Solovetsky archipelago comprises six islands in the western part of the Whit
 - ✈ **Solovki Airport (CSH)** — 1.1 km
 - ✈ **Talagi Airport (ARH)** — 241.5 km
 - ✈ **Kirovsk-Apatity Airport (KVK)** — 287.3 km
+- ⛴ **Монастырский причал** — 0.2 km
+- ⛴ **Хета** — 0.5 km
+- ⛴ **Тамарин Причал** — 1.2 km
+- ⛴ **Большой Заяцкий остров** — 6.6 km
+- ⛴ **Порт** — 43.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5624.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Петербургская** — 0.3 km — hotel — Peterburgskaya
+- **Соло** — 0.4 km — hotel — Solo
+- **Приют** — 0.4 km — hotel — Prijut
+- **Германовская гостиница** — 0.4 km — hotel
+- **Соловецкая слобода** — 0.6 km — hotel — Solovetskaya sloboda
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

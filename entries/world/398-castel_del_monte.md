@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iii)"
 lat: 41.0847535
 lon: 16.2709346
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:25Z"
 ---
 
 # 蒙特堡 / Castel del Monte
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Castel del Monte - Andria.jpg · see Wikimedia Commons file page*
 
-![Castel del Monte](https://whc.unesco.org/uploads/sites/site_398.jpg)
+![Locationcastledelmonte.JPG](https://upload.wikimedia.org/wikipedia/commons/6/62/Locationcastledelmonte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Castel del Monte · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Locationcastledelmonte.JPG · Finblanco · Public domain*
+
+!["Das Castel wurde 1240 bis um 1250 erbaut" 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_01.jpg/1280px-%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Das Castel wurde 1240 bis um 1250 erbaut" 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Das Castel wurde 1240 bis um 1250 erbaut" 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_02.jpg/1280px-%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Das Castel wurde 1240 bis um 1250 erbaut" 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Das Castel wurde 1240 bis um 1250 erbaut" 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_03.jpg/1280px-%22Das_Castel_wurde_1240_bis_um_1250_erbaut%22_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Das Castel wurde 1240 bis um 1250 erbaut" 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,24 @@ Castel del Monte è un castello del XIII secolo, fatto costruire da Federico II 
 - ✈ **Bari Karol Wojtyła International Airport (BRI)** — 41.5 km
 - ✈ **Foggia Gino Lisa Airport (FOG)** — 72.8 km
 - ✈ **Salerno Costa d'Amalfi Airport (QSR)** — 125.5 km
+- 🚉 **Corato Centrale** — 14.7 km
+- 🚉 **Andria Sud** — 16.0 km
+- 🚉 **Minervino Murge** — 16.4 km
+- 🚉 **Andria Centrale** — 16.6 km
+- 🚉 **Poggiorsini** — 16.6 km
+- ⛴ **Porto di Trani** — 25.5 km
+- ⛴ **Porto di Barletta** — 27.1 km
+- ⛴ **Porto di Molfetta** — 30.0 km
+- ⛴ **Lega Navale Bari** — 49.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7896.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **San Paolo al Convento** — 25.1 km — star — 5★
+- **Hotel Nicotel Wellnes** — 13.6 km — star — 4★
+- **Hotel Villa** — 25.2 km — star — 4★
+- **Salsello** — 26.0 km — star — 4★
+- **Hotel Palazzo Bonomi** — 26.2 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iv)"
 lat: 59.321694
 lon: 17.886383
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:45:53Z"
 ---
 
 # 德罗特宁霍尔摩皇宫 / Royal Domain of Drottningholm
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Drottningholm Palace (by Pudelek) 3.jpg · see Wikimedia Commons file page*
 
-![Royal Domain of Drottningholm](https://whc.unesco.org/uploads/sites/site_559.jpg)
+![20180624 D-holmPalace 7163 (48412098431).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/20180624_D-holmPalace_7163_%2848412098431%29.jpg/1280px-20180624_D-holmPalace_7163_%2848412098431%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Royal Domain of Drottningholm · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20180624 D-holmPalace 7163 (48412098431).jpg · Ray Swi-hymn from Sijhih-Taipei, Taiwan · CC BY-SA 2.0*
+
+![20180624 D-holmPalace 7164 (48412097646).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/20180624_D-holmPalace_7164_%2848412097646%29.jpg/1280px-20180624_D-holmPalace_7164_%2848412097646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20180624 D-holmPalace 7164 (48412097646).jpg · Ray Swi-hymn from Sijhih-Taipei, Taiwan · CC BY-SA 2.0*
+
+![20180624 D-holmPalace 7254 (48412007286).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/20180624_D-holmPalace_7254_%2848412007286%29.jpg/1280px-20180624_D-holmPalace_7254_%2848412007286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20180624 D-holmPalace 7254 (48412007286).jpg · Ray Swi-hymn from Sijhih-Taipei, Taiwan · CC BY-SA 2.0*
+
+![20180624 D-holmPalace 7321 (48411942911).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/20180624_D-holmPalace_7321_%2848411942911%29.jpg/1280px-20180624_D-holmPalace_7321_%2848411942911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20180624 D-holmPalace 7321 (48411942911).jpg · Ray Swi-hymn from Sijhih-Taipei, Taiwan · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Drottningholms slott är ett kungligt slott beläget på Lovön i Mälaren, i Ek
 - ✈ **Stockholm-Bromma Airport (BMA)** — 4.8 km
 - ✈ **Stockholm-Arlanda Airport (ARN)** — 36.4 km
 - ✈ **Stockholm Västerås Airport (VST)** — 76.8 km
+- 🚉 **Sundbyberg** — 6.5 km
+- 🚉 **Spånga** — 6.9 km
+- 🚉 **Årstaberg** — 8.4 km
+- 🚉 **Solna** — 8.6 km
+- 🚉 **Älvsjö** — 8.6 km
+- ⛴ **Drottningholm** — 0.3 km
+- ⛴ **Kungshättan** — 2.1 km
+- ⛴ **Mälarhöjdsbadet** — 3.3 km
+- ⛴ **Fridhem** — 4.1 km
+- ⛴ **Tappström** — 5.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6706.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel Reisen** — 10.7 km — star — 5★ · Unbound Collection
+- **Mornington Bromma** — 5.3 km — star — 4★ · Mornington Hotels
+- **Scandic Alvik** — 5.5 km — star — 4★ · Scandic Hotels
+- **Story Hotel Signalfabriken, Part of JdV by Hyatt** — 6.4 km — star — 4★ · Hyatt
+- **Hagastrand, Autograph Collection** — 9.8 km — star — 4★ · Radisson Blu
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

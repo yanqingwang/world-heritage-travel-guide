@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)"
 lat: 24.85222
 lon: 79.92222
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:44:01Z"
 ---
 
 # 卡杰拉霍建筑群 / Khajuraho Group of Monuments

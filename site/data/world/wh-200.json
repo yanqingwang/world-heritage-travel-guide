@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_200.jpg",
-   "title": "Sacred City of Anuradhapura",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/200",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/035_Ruwanweliseya_Stupa%2C_Anuradhapura%2C_Sri_Lanka.jpg/1280px-035_Ruwanweliseya_Stupa%2C_Anuradhapura%2C_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "035 Ruwanweliseya Stupa, Anuradhapura, Sri Lanka.jpg",
+   "author": "Anandajoti",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:035_Ruwanweliseya_Stupa%2C_Anuradhapura%2C_Sri_Lanka.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mah%C4%81vih%C4%81ra_on_1890_map_of_Anuradhapura.svg/1280px-Mah%C4%81vih%C4%81ra_on_1890_map_of_Anuradhapura.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mahāvihāra on 1890 map of Anuradhapura.svg",
+   "author": "Ian Alexander (overlay) Harry Charles Purvis Bell (base map)",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mah%C4%81vih%C4%81ra_on_1890_map_of_Anuradhapura.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/1890_map_of_Anuradhapura_%28cropped%29.jpg/1280px-1890_map_of_Anuradhapura_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1890 map of Anuradhapura (cropped).jpg",
+   "author": "w:Harry Charles Purvis Bell",
+   "license": "Public domain",
+   "credit": "Archaeological survey of Anuradhapura : reports 1-5 , 1890-1891",
+   "source": "https://commons.wikimedia.org/wiki/File:1890_map_of_Anuradhapura_%28cropped%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/1890_map_of_Anuradhapura.jpg/1280px-1890_map_of_Anuradhapura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1890 map of Anuradhapura.jpg",
+   "author": "w:Harry Charles Purvis Bell",
+   "license": "Public domain",
+   "credit": "Archaeological survey of Anuradhapura : reports 1-5 , 1890-1891",
+   "source": "https://commons.wikimedia.org/wiki/File:1890_map_of_Anuradhapura.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/200",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 87.7,
   "distance_beijing_km": 4956.3,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Srawasthipura",
+    "name_en": null,
+    "lat": 8.2987964,
+    "lon": 80.3769783,
+    "distance_km": 5.5,
+    "operator": null
+   },
+   {
+    "name": "Mihintale",
+    "name_en": null,
+    "lat": 8.3586214,
+    "lon": 80.5016942,
+    "distance_km": 10.3,
+    "operator": null
+   },
+   {
+    "name": "Parasangaswewa Railway Station",
+    "name_en": null,
+    "lat": 8.4453692,
+    "lon": 80.4315165,
+    "distance_km": 12.5,
+    "operator": null
+   },
+   {
+    "name": "Talawa",
+    "name_en": null,
+    "lat": 8.231752,
+    "lon": 80.348274,
+    "distance_km": 13.4,
+    "operator": null
+   },
+   {
+    "name": "Madegama",
+    "name_en": null,
+    "lat": 8.4750004,
+    "lon": 80.4351423,
+    "distance_km": 15.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel White House",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 8.3151771,
+   "lon": 80.4011254,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Freedom palace Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 8.327633,
+   "lon": 80.4149357,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Heladiv",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 8.3500538,
+   "lon": 80.4482511,
+   "distance_km": 4.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Senowin Holiday Resort - Villa Senowin",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 8.3362879,
+   "lon": 80.4105937,
+   "distance_km": 0.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mansion Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 8.3321593,
+   "lon": 80.4142471,
+   "distance_km": 0.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LK",
   "country_zh": "斯里兰卡",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:52Z"
+ "updated_at": "2026-11-08T16:43:56Z"
 }

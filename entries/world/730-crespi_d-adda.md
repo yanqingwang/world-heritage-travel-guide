@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)(v)"
 lat: 45.596666666
 lon: 9.536111111
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:47Z"
 ---
 
 # 阿达的克里斯匹 / Crespi d'Adda

@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(ii)(iii)(iv)"
 lat: -10.893611111
 lon: -77.520277777
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:51Z"
 ---
 
 # 卡拉尔-苏佩圣城 / Sacred City of Caral-Supe
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *PeruCaral01.jpg · see Wikimedia Commons file page*
 
-![Sacred City of Caral-Supe](https://whc.unesco.org/uploads/sites/site_1269.jpg)
+![-Camino en Caral.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/-Camino_en_Caral.jpg/1280px--Camino_en_Caral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sacred City of Caral-Supe · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*-Camino en Caral.jpg · YarlequeLesly · CC BY-SA 4.0*
+
+![.-camino de caral.-.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/.-camino_de_caral.-.jpg/1280px-.-camino_de_caral.-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*.-camino de caral.-.jpg · YarlequeLesly · CC BY-SA 4.0*
+
+![.caral.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/.caral.jpg/1280px-.caral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*.caral.jpg · YarlequeLesly · CC BY-SA 4.0*
+
+![.NAZCA.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/.NAZCA.jpg/1280px-.NAZCA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*.NAZCA.jpg · YarlequeLesly · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,16 @@ La Ciudad Sagrada de Caral-Supe es un sitio arqueológico de 5.000 años de anti
 - ✈ **Jorge Chávez International Airport (LIM)** — 133.0 km
 - ✈ **Alferez Fap David Figueroa Fernandini Airport (HUU)** — 182.8 km
 - ✈ **FAP Lieutenant Jaime Andres de Montreuil Morales Airport (CHM)** — 222.9 km
+- ⛴ **Carquín** — 25.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16618.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **La Vegueta** — 19.8 km — hotel
+- **Hotel Bella Horizonte** — 20.5 km — hotel
+- **Romance** — 23.4 km — hotel
+- **Hotel Buendia** — 23.4 km — hotel
+- **Hotel Caral supe** — 24.0 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

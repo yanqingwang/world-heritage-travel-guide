@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1161.jpg",
-   "title": "Pitons Management Area",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1161",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Pitons_or_Sugar-loaves%2C_St._Lucia._Engraved_by_C._Hunt.jpg/1280px-The_Pitons_or_Sugar-loaves%2C_St._Lucia._Engraved_by_C._Hunt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "The Pitons or Sugar-loaves, St. Lucia. Engraved by C. Hunt.jpg",
+   "author": "C. Hunt, after John Herbert Caddy",
+   "license": "Public domain",
+   "credit": "https://www.sothebys.com/en/buy/auction/2020/fine-books-and-manuscripts-including-americana/caddy-lieut-john-herbert-among-the-most-desirable",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Pitons_or_Sugar-loaves%2C_St._Lucia._Engraved_by_C._Hunt.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Pitons%2C_St._Lucia_GAC_3629.jpg/1280px-The_Pitons%2C_St._Lucia_GAC_3629.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "The Pitons, St. Lucia GAC 3629.jpg",
+   "author": "Thomas Goldsworthy Dutton",
+   "license": "Public domain",
+   "credit": "https://artcollection.culture.gov.uk/artwork/3629/",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Pitons%2C_St._Lucia_GAC_3629.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/THE_PITONS_-_ST._LUCIA.jpg/1280px-THE_PITONS_-_ST._LUCIA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "THE PITONS - ST. LUCIA.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "This file is from the Mechanical Curator collection , a set of over 1 million images scanned from out-of-copyright books and released to Flickr Commons by the B",
+   "source": "https://commons.wikimedia.org/wiki/File:THE_PITONS_-_ST._LUCIA.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/191228_Pitons_St_Lucia.jpg/1280px-191228_Pitons_St_Lucia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "191228 Pitons St Lucia.jpg",
+   "author": "Rennboot",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:191228_Pitons_St_Lucia.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1161",
@@ -97,10 +121,99 @@
   ],
   "nearest_airport_km": 15.1,
   "distance_beijing_km": 14025.9,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Castries Ferry Terminal",
+    "name_en": null,
+    "lat": 14.0099126,
+    "lon": -60.9958988,
+    "distance_km": 23.9,
+    "operator": null
+   },
+   {
+    "name": "SLASPA Ferry Terminal",
+    "name_en": null,
+    "lat": 14.0096474,
+    "lon": -60.9959225,
+    "distance_km": 23.9,
+    "operator": null
+   },
+   {
+    "name": "Cruise Terminal",
+    "name_en": null,
+    "lat": 14.01406,
+    "lon": -60.9959798,
+    "distance_km": 24.4,
+    "operator": null
+   },
+   {
+    "name": "Owia Harbour",
+    "name_en": null,
+    "lat": 13.3729694,
+    "lon": -61.1424038,
+    "distance_km": 48.9,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sugar Beach, A Viceroy Resort",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Viceroy Hotels & Resorts",
+   "lat": 13.8283064,
+   "lon": -61.0616985,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tet Rouge Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.794762,
+   "lon": -61.0620575,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fond Doux Plantation and Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.8219485,
+   "lon": -61.0503495,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Boucan Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.8318061,
+   "lon": -61.0503173,
+   "distance_km": 3.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ladera Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.8330878,
+   "lon": -61.0523432,
+   "distance_km": 3.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LC",
   "country_zh": "圣卢西亚",
@@ -158,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:59Z"
+ "updated_at": "2026-11-08T16:48:52Z"
 }

@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(iii)(iv)(vi)"
 lat: 37.19722222
 lon: 128.45277778
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:55Z"
 ---
 
 # 朝鲜王陵 / Royal Tombs of the Joseon Dynasty

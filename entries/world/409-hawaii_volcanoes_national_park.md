@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(viii)"
 lat: 19.40083
 lon: -155.12361
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:33Z"
 ---
 
 # 夏威夷火山国家公园 / Hawaii Volcanoes National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Lava-streaming-into-ocean.jpg · see Wikimedia Commons file page*
 
-![Hawaii Volcanoes National Park](https://whc.unesco.org/uploads/sites/site_409.jpg)
+![-i---i- (5422366185).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/-i---i-_%285422366185%29.jpg/1280px--i---i-_%285422366185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hawaii Volcanoes National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*-i---i- (5422366185).jpg · Tim Wilson from Blaine, MN, USA · CC BY 2.0*
+
+![01-Crater Cover-NPGallery JWei (51869758527).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/01-Crater_Cover-NPGallery_JWei_%2851869758527%29.jpg/1280px-01-Crater_Cover-NPGallery_JWei_%2851869758527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01-Crater Cover-NPGallery JWei (51869758527).jpg · Hawai‘i Volcanoes NPS · Public domain*
+
+![01012019 Steam vents (46518586734).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/01012019_Steam_vents_%2846518586734%29.jpg/1280px-01012019_Steam_vents_%2846518586734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01012019 Steam vents (46518586734).jpg · Hawai‘i Volcanoes NPS · Public domain*
+
+![02-UB CraterBefore-After USGS (51871035739).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/02-UB_CraterBefore-After_USGS_%2851871035739%29.jpg/1280px-02-UB_CraterBefore-After_USGS_%2851871035739%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*02-UB CraterBefore-After USGS (51871035739).jpg · Hawai‘i Volcanoes NPS · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ This site contains two of the most active volcanoes in the world, Mauna Loa (4,1
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Grand Naniloa Hotel** — 37.1 km — chain — DoubleTree
+- **Hawaiian Naturist Park** — 5.9 km — hotel
+- **Volcano Inn** — 11.2 km — hotel
+- **Volcano Hale** — 12.4 km — hotel
+- **Chalet Kailua** — 12.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

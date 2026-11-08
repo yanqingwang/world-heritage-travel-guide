@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(iii)(vi)"
 lat: 7.933333333
 lon: 81.0
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:58Z"
 ---
 
 # 波隆纳鲁沃古城 / Ancient City of Polonnaruwa
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Polonnaruwa 02.jpg · see Wikimedia Commons file page*
 
-![Ancient City of Polonnaruwa](https://whc.unesco.org/uploads/sites/site_201.jpg)
+![1 (567)f.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/1_%28567%29f.jpg/1280px-1_%28567%29f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ancient City of Polonnaruwa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1 (567)f.jpg · Nodutudahama123 · CC BY-SA 4.0*
+
+![2020-05-31 15.28.03 sandakadapahana.png](https://upload.wikimedia.org/wikipedia/commons/b/bf/2020-05-31_15.28.03_sandakadapahana.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*2020-05-31 15.28.03 sandakadapahana.png · Dimuthu Caldera · CC BY-SA 4.0*
+
+![500px photo (193297111).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/500px_photo_%28193297111%29.jpeg/1280px-500px_photo_%28193297111%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*500px photo (193297111).jpeg · Udara Rathnayake · CC0*
+
+![Ancient City of Polonnaruwa 045.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ancient_City_of_Polonnaruwa_045.jpg/1280px-Ancient_City_of_Polonnaruwa_045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ancient City of Polonnaruwa 045.jpg · Ramón from Llanera, España · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradh
 - ✈ **China Bay Airport (TRR)** — 70.3 km
 - ✈ **Batticaloa International Airport (BTC)** — 78.8 km
 - ✈ **Bandaranaike International Colombo Airport (CMB)** — 148.8 km
+- 🚉 **Polonnaruwa** — 3.7 km
+- 🚉 **Galoya Junction Railway Station** — 27.1 km
+- 🚉 **Welikanda** — 27.6 km
+- 🚉 **Habarana** — 28.9 km
+- 🚉 **Hatares Kotuwa** — 29.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4956.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **EKHO Lake House** — 1.1 km — star — 4★ · EKHO
+- **sigiriya nature villa lodge** — 27.6 km — star — 2★
+- **Syanco Holiday Resort** — 0.8 km — chain
+- **Tishan Holiday Resort** — 4.1 km — chain
+- **Jays Holiday Resort** — 27.8 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

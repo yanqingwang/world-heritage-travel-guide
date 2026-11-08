@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)"
 lat: -33.04063889
 lon: -71.628
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:23Z"
 ---
 
 # 瓦尔帕莱索港口城市历史区 / Historic Quarter of the Seaport City of Valparaíso

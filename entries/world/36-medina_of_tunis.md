@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)(v)"
 lat: 36.7990274
 lon: 10.1700595
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:34Z"
 ---
 
 # 突尼斯的阿拉伯人聚居区 / Medina of Tunis
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *Terrasses de la médina de Tunis.jpg · see Wikimedia Commons file page*
 
-![Medina of Tunis](https://whc.unesco.org/uploads/sites/site_36.jpg)
+![Dar ben Achour (23647).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dar_ben_Achour_%2823647%29.jpg/1280px-Dar_ben_Achour_%2823647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Medina of Tunis · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Dar ben Achour (23647).jpg · Noomen9 · CC0*
+
+![Dar ejeld.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Dar_ejeld.jpg/1280px-Dar_ejeld.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dar ejeld.jpg · Noomen9 · CC0*
+
+![Dar lasrem (15840).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dar_lasrem_%2815840%29.jpg/1280px-Dar_lasrem_%2815840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dar lasrem (15840).jpg · Noomen9 · CC0*
+
+![Dar lasrem (33691).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Dar_lasrem_%2833691%29.jpg/1280px-Dar_lasrem_%2833691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dar lasrem (33691).jpg · Noomen9 · CC0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Under the Almohads and the Hafsids, from the 12th to the 16th century, Tunis was
 - ✈ **Tunis Carthage International Airport (TUN)** — 7.7 km
 - ✈ **Enfidha - Hammamet International Airport (NBE)** — 83.9 km
 - ✈ **Tabarka-Aïn Draham International Airport (TBJ)** — 116.7 km
+- 🚉 **ساحة برشلونة** — 1.0 km
+- 🚉 **باب الخضراء** — 1.3 km
+- 🚉 **ساحة الجمهورية** — 1.3 km
+- 🚉 **باب سعدون** — 1.4 km
+- 🚉 **فرحات حشاد** — 1.4 km
+- ⛴ **ميناء رادس** — 8.5 km
+- ⛴ **تونس** — 11.6 km
+- ⛴ **Ferry terminal passengers** — 12.0 km
+- ⛴ **Port Marchand de Carthage** — 14.6 km
+- ⛴ **Port de Carthage** — 14.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8635.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فندق أفريقا زوالي** — 1.2 km — star — 5★
+- **Golden Tulip El Mechtel** — 1.7 km — star — فندق جولدن تيوليب المشتل · 5★
+- **Radisson Blu Hotel & Convention Center** — 1.8 km — star — Radisson Blu Hotel & Convention Center · 5★
+- **فندق شيراتون** — 3.6 km — star — Sheraton Hotel · 5★
+- **تونس نزل الكبير** — 6.3 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

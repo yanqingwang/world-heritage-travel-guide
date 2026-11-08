@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)"
 lat: 50.4714
 lon: 4.0945
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:07Z"
 ---
 
 # 拉卢维耶尔和勒罗尔克斯中央运河上的四座船舶吊车（艾诺） / The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)

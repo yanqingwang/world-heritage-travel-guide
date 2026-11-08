@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 42.458699
 lon: -6.759002
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:58Z"
 ---
 
 # 拉斯梅德拉斯 / Las Médulas
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:56Z"
 
 *Las Medulas (17504738221).jpg · see Wikimedia Commons file page*
 
-![Las Médulas](https://whc.unesco.org/uploads/sites/site_803.jpg)
+![Agujero en el suelo de una cima - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Agujero_en_el_suelo_de_una_cima_-_panoramio.jpg/1280px-Agujero_en_el_suelo_de_una_cima_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Las Médulas · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Agujero en el suelo de una cima - panoramio.jpg · Pablo Costa Tirado (… · CC BY-SA 3.0*
+
+![Panorámica de Las Médulas.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg/1280px-Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Panorámica de Las Médulas.jpg · Rafael Ibáñez Fernández · CC BY-SA 3.0*
+
+![Versión de Panorámica de Las Médulas.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Versi%C3%B3n_de_Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg/1280px-Versi%C3%B3n_de_Panor%C3%A1mica_de_Las_M%C3%A9dulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Versión de Panorámica de Las Médulas.jpg · Rafael Ibáñez Fernández · CC BY-SA 3.0*
+
+![07 Las Medulas (20).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/07_Las_Medulas_%2820%29.jpg/1280px-07_Las_Medulas_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*07 Las Medulas (20).jpg · DagafeSQV · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ En el siglo I d.C., el poder imperial romano empezó a explotar el yacimiento au
 - ✈ **Bragança Airport (BGC)** — 67.0 km
 - ✈ **León Airport (LEN)** — 91.8 km
 - ✈ **Asturias Airport (OVD)** — 136.2 km
+- 🚉 **Covas** — 6.2 km
+- 🚉 **Toral de los Vados** — 9.3 km
+- 🚉 **Sobradelo** — 13.5 km
+- 🚉 **Ponferrada** — 16.1 km
+- 🚉 **O Barco de Valdeorras** — 19.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9261.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Temple** — 16.0 km — star — 4★
+- **Hotel Aroi Ponferrada** — 16.3 km — star — 4★
+- **Hotel Celuisma Ponferrada** — 16.5 km — star — 4★
+- **Parador de Villafranca del Bierzo** — 16.7 km — star — 4★
+- **AC Hotel Ponferrada** — 17.6 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(i)(iv)"
 lat: 47.593333333
 lon: -3.079722222
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:02Z"
 ---
 
 # 卡纳克和莫尔比昂海岸巨石林 / Megaliths of Carnac and of the shores of Morbihan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:03Z"
 
 *France-Carnac-Alignement de Kermario.jpg · see Wikimedia Commons file page*
 
-![Megaliths of Carnac and of the shores of Morbihan](https://whc.unesco.org/uploads/sites/site_1725.jpg)
+![Alignement de Carnac.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Alignement_de_Carnac.jpg/1280px-Alignement_de_Carnac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Megaliths of Carnac and of the shores of Morbihan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Alignement de Carnac.jpg · IndigoBeluga · CC BY-SA 4.0*
+
+![Alignements de Carnac.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Alignements_de_Carnac.JPG/1280px-Alignements_de_Carnac.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alignements de Carnac.JPG · Vanbasten 23 · CC BY-SA 4.0*
+
+![Carnac alignements vue aérienne 2012.0010.11.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6c/Carnac_alignements_vue_a%C3%A9rienne_2012.0010.11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Carnac alignements vue aérienne 2012.0010.11.jpg · Philippe Tassier · Public domain*
+
+![Description- Thomas Smillie was the Smithsonian's first photographer and curator of photography. He and his studio staff re-shot many of the photographs collected by the institution's scientists, (2575971962).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Description-_Thomas_Smillie_was_the_Smithsonian%27s_first_photographer_and_curator_of_photography._He_and_his_studio_staff_re-shot_many_of_the_photographs_collected_by_the_institution%27s_scientists%2C_%282575971962%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Description- Thomas Smillie was the Smithsonian's first photographer and curator of photography. He and his studio staff re-shot many of the photographs collected by the institution's scientists, (2575971962).jpg · Smithsonian Institution · No restrictions*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Situé en Bretagne (France), ce bien en série comprend une forte densité de st
 - ✈ **Rennes-Saint-Jacques Airport (RNS)** — 113.5 km
 - ✈ **Nantes Atlantique Airport (NTE)** — 121.0 km
 - ✈ **Brest Bretagne airport (BES)** — 137.6 km
+- 🚉 **Auray** — 11.3 km
+- 🚉 **Quiberon** — 12.3 km
+- 🚉 **Sainte-Anne** — 13.0 km
+- 🚉 **Pluvigner** — 19.6 km
+- 🚉 **Vannes** — 25.8 km
+- ⛴ **La Trinité-sur-Mer** — 4.1 km
+- ⛴ **Embarcadère Navix** — 11.0 km
+- ⛴ **Embarcadère du Guilvin** — 11.1 km
+- ⛴ **Port Haliguen** — 11.9 km
+- ⛴ **Port Navalo** — 13.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8486.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Sofitel Quiberon Thalassa sea & spa** — 13.4 km — star — 5★ · Sofitel
+- **Thalazur Carnac** — 2.4 km — star — 4★
+- **Best Western Plus Vannes Centre Ville** — 24.8 km — star — 4★ · Best Western
+- **Villa Kérasy** — 25.7 km — star — 4★
+- **Les Rives du Ter** — 27.5 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

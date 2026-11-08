@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(vi)"
 lat: 8.335
 lon: 80.410833333
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:56Z"
 ---
 
 # 阿努拉德普勒圣城 / Sacred City of Anuradhapura
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *SL Anuradhapura asv2020-01 img11 Ruwanwelisaya Stupa.jpg · see Wikimedia Commons file page*
 
-![Sacred City of Anuradhapura](https://whc.unesco.org/uploads/sites/site_200.jpg)
+![035 Ruwanweliseya Stupa, Anuradhapura, Sri Lanka.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/035_Ruwanweliseya_Stupa%2C_Anuradhapura%2C_Sri_Lanka.jpg/1280px-035_Ruwanweliseya_Stupa%2C_Anuradhapura%2C_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sacred City of Anuradhapura · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*035 Ruwanweliseya Stupa, Anuradhapura, Sri Lanka.jpg · Anandajoti · CC BY-SA 4.0*
+
+![Mahāvihāra on 1890 map of Anuradhapura.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mah%C4%81vih%C4%81ra_on_1890_map_of_Anuradhapura.svg/1280px-Mah%C4%81vih%C4%81ra_on_1890_map_of_Anuradhapura.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Mahāvihāra on 1890 map of Anuradhapura.svg · Ian Alexander (overlay) Harry Charles Purvis Bell (base map) · Public domain*
+
+![1890 map of Anuradhapura (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/1890_map_of_Anuradhapura_%28cropped%29.jpg/1280px-1890_map_of_Anuradhapura_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1890 map of Anuradhapura (cropped).jpg · w:Harry Charles Purvis Bell · Public domain*
+
+![1890 map of Anuradhapura.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/1890_map_of_Anuradhapura.jpg/1280px-1890_map_of_Anuradhapura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1890 map of Anuradhapura.jpg · w:Harry Charles Purvis Bell · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ This sacred city was established around a cutting from the 'tree of enlightenmen
 - ✈ **China Bay Airport (TRR)** — 87.7 km
 - ✈ **Bandaranaike International Colombo Airport (CMB)** — 140.9 km
 - ✈ **Batticaloa International Airport (BTC)** — 156.0 km
+- 🚉 **Srawasthipura** — 5.5 km
+- 🚉 **Mihintale** — 10.3 km
+- 🚉 **Parasangaswewa Railway Station** — 12.5 km
+- 🚉 **Talawa** — 13.4 km
+- 🚉 **Madegama** — 15.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4956.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel White House** — 2.4 km — star — 4★
+- **Freedom palace Hotel** — 0.9 km — star — 3★
+- **Hotel Heladiv** — 4.4 km — star — 3★
+- **Senowin Holiday Resort - Villa Senowin** — 0.1 km — chain
+- **Mansion Holiday Resort** — 0.5 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

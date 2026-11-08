@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(iii)(iv)"
 lat: 37.980738888
 lon: 38.740830555
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:40Z"
 ---
 
 # 内姆鲁特达格 / Nemrut Dağ
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Nemrut Mountain Peak.JPG · see Wikimedia Commons file page*
 
-![Nemrut Dağ](https://whc.unesco.org/uploads/sites/site_448.jpg)
+![Nemrut Dağı Millî Parkı1.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nemrut_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B11.JPG/1280px-Nemrut_Da%C4%9F%C4%B1_Mill%C3%AE_Park%C4%B11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Nemrut Dağ · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Nemrut Dağı Millî Parkı1.JPG · Acar54 · CC BY-SA 4.0*
+
+![00 0361 Nemrut Dağı - Provinz Adiyaman, Türkei (Taurusgebirge).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/00_0361_Nemrut_Da%C4%9F%C4%B1_-_Provinz_Adiyaman%2C_T%C3%BCrkei_%28Taurusgebirge%29.jpg/1280px-00_0361_Nemrut_Da%C4%9F%C4%B1_-_Provinz_Adiyaman%2C_T%C3%BCrkei_%28Taurusgebirge%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*00 0361 Nemrut Dağı - Provinz Adiyaman, Türkei (Taurusgebirge).jpg · W. Bulach · CC BY-SA 4.0*
+
+![01 - Nemrut Dagi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/01_-_Nemrut_Dagi.jpg/1280px-01_-_Nemrut_Dagi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01 - Nemrut Dagi.jpg · Misa.stefanovic.07 · CC BY-SA 4.0*
+
+![02 - Nemrut Dagi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/02_-_Nemrut_Dagi.jpg/1280px-02_-_Nemrut_Dagi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*02 - Nemrut Dagi.jpg · Misa.stefanovic.07 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Nemrut Dağı, Türkiye'nin Adıyaman ilinde yer alan 2.150 metre yüksekliğind
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hilton Garden Inn Adiyaman** — 45.0 km — star — 4★ · Hilton Garden Inn
+- **Samos Otel** — 46.3 km — star — 3★
+- **Güneş Hotel** — 2.0 km — hotel
+- **Kervanserai Hotel** — 4.9 km — hotel
+- **Hotel Euphrat** — 5.0 km — hotel — Hotel Euphrat
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1361.jpg",
-   "title": "Historic Jeddah, the Gate to Makkah",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1361",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/7arat_Almazlum_1_%283025014532%29.jpg/1280px-7arat_Almazlum_1_%283025014532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "7arat Almazlum 1 (3025014532).jpg",
+   "author": "Nouf Kinani",
+   "license": "CC BY 2.0",
+   "credit": "7arat Almazlum 1",
+   "source": "https://commons.wikimedia.org/wiki/File:7arat_Almazlum_1_%283025014532%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/7arat_Almazlum_2_%283025012642%29.jpg/1280px-7arat_Almazlum_2_%283025012642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "7arat Almazlum 2 (3025012642).jpg",
+   "author": "Nouf Kinani",
+   "license": "CC BY 2.0",
+   "credit": "7arat Almazlum 2",
+   "source": "https://commons.wikimedia.org/wiki/File:7arat_Almazlum_2_%283025012642%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Al-Balad%2C_Jeddah.jpg/1280px-Al-Balad%2C_Jeddah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al-Balad, Jeddah.jpg",
+   "author": "Tahir mq",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Al-Balad%2C_Jeddah.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Al-Balad%2C_Yeda%2C_Arabia_Saudita%2C_2025-05-24%2C_DD_08.jpg/1280px-Al-Balad%2C_Yeda%2C_Arabia_Saudita%2C_2025-05-24%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Al-Balad, Yeda, Arabia Saudita, 2025-05-24, DD 08.jpg",
+   "author": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Al-Balad%2C_Yeda%2C_Arabia_Saudita%2C_2025-05-24%2C_DD_08.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1361",
@@ -97,10 +121,84 @@
   ],
   "nearest_airport_km": 22.3,
   "distance_beijing_km": 7436.9,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Jeddah Islamic Port",
+    "name_en": "Jeddah Islamic Port",
+    "lat": 21.4654897,
+    "lon": 39.149482,
+    "distance_km": 5.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "قطار الحرمين السريع - مطار الملك عبدالعزيز الدولي",
+    "name_en": "Haramain High Speed Railway - King Abdulaziz International Airport",
+    "lat": 21.6605044,
+    "lon": 39.1738182,
+    "distance_km": 19.9,
+    "operator": "Saudi Arabia Railways"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Park Hyatt Jeddah",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 21.5137057,
+   "lon": 39.1545946,
+   "distance_km": 5.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Hotel Galleria Jeddah, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Curio Collection",
+   "lat": 21.5518991,
+   "lon": 39.1632188,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria Jeddah - Qasr Al Sharq",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 21.6035777,
+   "lon": 39.1088417,
+   "distance_km": 16.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shangri-La Jeddah",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Shangri-La",
+   "lat": 21.6229472,
+   "lon": 39.1082413,
+   "distance_km": 18.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق موفنبيك جدة",
+   "name_en": "Movenpick Hotel Jeddah",
+   "stars": 4,
+   "brand": null,
+   "lat": 21.5350519,
+   "lon": 39.1792575,
+   "distance_km": 6.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SA",
   "country_zh": "沙特阿拉伯",
@@ -156,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:50:03Z"
 }

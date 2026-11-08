@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1769.jpg",
-   "title": "Village of Sidi Bou Saïd",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1769",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Fonds_Kenneth_Brown_%281936-2025%29_-_Tunisie_-_Pr%C3%A9parations_pour_la_f%C3%AAte_de_Sidi_Bou_Said_%28M%C3%A9diHAL_5855595%29.jpg/1280px-Fonds_Kenneth_Brown_%281936-2025%29_-_Tunisie_-_Pr%C3%A9parations_pour_la_f%C3%AAte_de_Sidi_Bou_Said_%28M%C3%A9diHAL_5855595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fonds Kenneth Brown (1936-2025) - Tunisie - Préparations pour la fête de Sidi Bou Said (MédiHAL 5855595).jpg",
+   "author": "Maison méditerranéenne des Sciences de l'homme / National Center for Scientific Research / Aix-Marseille University",
+   "license": "Licence Ouverte",
+   "credit": "Fonds Kenneth Brown (1936-2025) - Tunisie - Préparations pour la fête de Sidi Bou Said",
+   "source": "https://commons.wikimedia.org/wiki/File:Fonds_Kenneth_Brown_%281936-2025%29_-_Tunisie_-_Pr%C3%A9parations_pour_la_f%C3%AAte_de_Sidi_Bou_Said_%28M%C3%A9diHAL_5855595%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/L%E2%80%99arc_de_Sidi_bou_said.jpg/1280px-L%E2%80%99arc_de_Sidi_bou_said.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "L’arc de Sidi bou said.jpg",
+   "author": "Elh Katcha",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:L%E2%80%99arc_de_Sidi_bou_said.jpg"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "Sidi bous3id.wav",
+   "author": "Tounsimentounes",
+   "license": "CC BY-SA 3.0",
+   "credit": "micro",
+   "source": "https://commons.wikimedia.org/wiki/File:Sidi_bous3id.wav"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sidi_Bousaid_2023.jpg/1280px-Sidi_Bousaid_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sidi Bousaid 2023.jpg",
+   "author": "سليم ابراهمي",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sidi_Bousaid_2023.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1769",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 10.3,
   "distance_beijing_km": 8635.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de Carthage",
+    "name_en": null,
+    "lat": 36.8456504,
+    "lon": 10.3248036,
+    "distance_km": 3.0,
+    "operator": null
+   },
+   {
+    "name": "Port Marchand de Carthage",
+    "name_en": null,
+    "lat": 36.8414507,
+    "lon": 10.3248504,
+    "distance_km": 3.5,
+    "operator": null
+   },
+   {
+    "name": "Ferry terminal passengers",
+    "name_en": null,
+    "lat": 36.8084103,
+    "lon": 10.3048379,
+    "distance_km": 7.5,
+    "operator": null
+   },
+   {
+    "name": "تونس",
+    "name_en": "Tunis",
+    "lat": 36.8099967,
+    "lon": 10.3005044,
+    "distance_km": 7.6,
+    "operator": null
+   },
+   {
+    "name": "ميناء رادس",
+    "name_en": null,
+    "lat": 36.8031119,
+    "lon": 10.265804,
+    "distance_km": 10.0,
+    "operator": "ديوان البحرية التجارية والموانئ"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "سيدي بوسعيد",
+    "name_en": "Sidi Bou Saïd",
+    "lat": 36.8706146,
+    "lon": 10.342087,
+    "distance_km": 0.1,
+    "operator": "TGM"
+   },
+   {
+    "name": "قرطاج أميلكار",
+    "name_en": "Carthage Amilcar",
+    "lat": 36.8666146,
+    "lon": 10.3375137,
+    "distance_km": 0.5,
+    "operator": "TGM"
+   },
+   {
+    "name": "سيدي الظريف",
+    "name_en": "Sidi Dhrif",
+    "lat": 36.8757592,
+    "lon": 10.3397454,
+    "distance_km": 0.7,
+    "operator": "TGM"
+   },
+   {
+    "name": "قرطاج الرئاسة",
+    "name_en": "Carthage Présidence",
+    "lat": 36.8616645,
+    "lon": 10.3350247,
+    "distance_km": 1.0,
+    "operator": "TGM"
+   },
+   {
+    "name": "الكورنيش",
+    "name_en": "La Corniche",
+    "lat": 36.8797016,
+    "lon": 10.3393039,
+    "distance_km": 1.1,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فيلا ديدون",
+   "name_en": "Villa Didon Carthage",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.8523767,
+   "lon": 10.3250922,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden Carthage",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9057072,
+   "lon": 10.3119727,
+   "distance_km": 4.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9154203,
+   "lon": 10.3152599,
+   "distance_km": 5.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Carthage Thalasso Resort",
+   "name_en": "Carthage Thalasso Resort",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9251718,
+   "lon": 10.2773081,
+   "distance_km": 8.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Residence Tunis",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 36.9263053,
+   "lon": 10.2755353,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TN",
   "country_zh": "突尼斯",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:03Z"
+ "updated_at": "2026-11-08T16:51:06Z"
 }

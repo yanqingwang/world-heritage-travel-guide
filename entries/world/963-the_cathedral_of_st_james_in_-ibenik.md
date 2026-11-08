@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(ii)(iv)"
 lat: 43.735555555
 lon: 15.889166666
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:23Z"
 ---
 
 # 西贝尼克的圣詹姆斯大教堂 / The Cathedral of St James in Šibenik

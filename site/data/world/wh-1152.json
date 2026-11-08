@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1152.jpg",
-   "title": "Þingvellir National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1152",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%22%C3%9Eingvellir_in_Iceland%22_-_Apr_2015.jpg/1280px-%22%C3%9Eingvellir_in_Iceland%22_-_Apr_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Þingvellir in Iceland\" - Apr 2015.jpg",
+   "author": "Murphsmurph",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22%C3%9Eingvellir_in_Iceland%22_-_Apr_2015.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._01.jpg/1280px-%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._02.jpg/1280px-%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 02.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._03.jpg/1280px-%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "+ Um das Jahr 930 wurde hier das Althing, eines der ältesten Parlamente der Welt, gegründet. 03.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2B_Um_das_Jahr_930_wurde_hier_das_Althing%2C_eines_der_%C3%A4ltesten_Parlamente_der_Welt%2C_gegr%C3%BCndet._03.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1152",
@@ -97,10 +121,107 @@
   ],
   "nearest_airport_km": 41.9,
   "distance_beijing_km": 7870.5,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Viðey",
+    "name_en": null,
+    "lat": 64.1610642,
+    "lon": -21.8553664,
+    "distance_km": 36.9,
+    "operator": null
+   },
+   {
+    "name": "Skarfabakki",
+    "name_en": "Reykjavík (Skarfabakki)",
+    "lat": 64.1564348,
+    "lon": -21.8666787,
+    "distance_km": 37.6,
+    "operator": null
+   },
+   {
+    "name": "Reykjavík (Harpa)",
+    "name_en": "Reykjavík (Harpa)",
+    "lat": 64.1517955,
+    "lon": -21.9340836,
+    "distance_km": 40.9,
+    "operator": null
+   },
+   {
+    "name": "Reykjavíkurhöfn",
+    "name_en": null,
+    "lat": 64.1527219,
+    "lon": -21.937134,
+    "distance_km": 41.0,
+    "operator": null
+   },
+   {
+    "name": "Gamla höfnin",
+    "name_en": "Reykjavík Old Harbour",
+    "lat": 64.1516689,
+    "lon": -21.9421028,
+    "distance_km": 41.3,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Black Pearl",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 64.1494141,
+   "lon": -21.9422224,
+   "distance_km": 41.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Reykjavik Nordica",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 64.1396215,
+   "lon": -21.8888624,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Reykjavik",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 64.1423192,
+   "lon": -21.8912948,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tower Suites Reykjavík",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 64.1450104,
+   "lon": -21.9074422,
+   "distance_km": 39.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fosshótel Reykjavík",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 64.1443418,
+   "lon": -21.9100135,
+   "distance_km": 40.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IS",
   "country_zh": "冰岛",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:59Z"
+ "updated_at": "2026-11-08T16:48:50Z"
 }

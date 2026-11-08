@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)"
 lat: 43.11889
 lon: 20.42278
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:43Z"
 ---
 
 # 斯塔里斯和索泼查尼修道院 / Stari Ras and Sopoćani

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1446.jpg",
-   "title": "Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1446",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/20100923_mer_morte18.JPG/1280px-20100923_mer_morte18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20100923 mer morte18.JPG",
+   "author": "Jean Housen",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20100923_mer_morte18.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/20100923_mer_morte20.JPG/1280px-20100923_mer_morte20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20100923 mer morte20.JPG",
+   "author": "Jean Housen",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20100923_mer_morte20.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/20100923_mer_morte23.JPG/1280px-20100923_mer_morte23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20100923 mer morte23.JPG",
+   "author": "Jean Housen",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20100923_mer_morte23.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/20100923_mer_morte25.JPG/1280px-20100923_mer_morte25.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20100923 mer morte25.JPG",
+   "author": "Jean Housen",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20100923_mer_morte25.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1446",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 43.8,
   "distance_beijing_km": 7069.9,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Binyene Ha'Uma ICC",
+    "name_en": "Binyene Ha'Uma ICC",
+    "lat": 31.7878945,
+    "lon": 35.2035707,
+    "distance_km": 33.2,
+    "operator": null
+   },
+   {
+    "name": "ירושלים - יצחק נבון",
+    "name_en": "Jerusalem - Yitzhak Navon",
+    "lat": 31.7881125,
+    "lon": 35.2027658,
+    "distance_km": 33.3,
+    "operator": "רכבת ישראל"
+   },
+   {
+    "name": "Giv'at Mordekhay",
+    "name_en": "Giv'at Mordekhay",
+    "lat": 31.761228,
+    "lon": 35.199898,
+    "distance_km": 34.2,
+    "operator": null
+   },
+   {
+    "name": "Betsal'el Bazak",
+    "name_en": "Betsal'el Bazak",
+    "lat": 31.7667915,
+    "lon": 35.1965236,
+    "distance_km": 34.3,
+    "operator": null
+   },
+   {
+    "name": "Gonenim",
+    "name_en": "Gonenim",
+    "lat": 31.7522173,
+    "lon": 35.1989579,
+    "distance_km": 34.5,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Dead Sea Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 31.7223381,
+   "lon": 35.5883189,
+   "distance_km": 13.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון המלך דוד",
+   "name_en": "King David Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7743784,
+   "lon": 35.2226341,
+   "distance_km": 31.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7774592,
+   "lon": 35.2223554,
+   "distance_km": 31.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון וולדורף אסטוריה ירושלים",
+   "name_en": "Waldorf Astoria Jerusalem",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7773467,
+   "lon": 35.2216124,
+   "distance_km": 31.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "שרתון",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7771582,
+   "lon": 35.2167728,
+   "distance_km": 32.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "JO",
   "country_zh": "约旦",
@@ -157,5 +278,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:01Z"
+ "updated_at": "2026-11-08T16:50:17Z"
 }

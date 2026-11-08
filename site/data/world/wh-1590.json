@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1590.jpg",
-   "title": "Sanctuary of Bom Jesus do Monte in Braga",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1590",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Bajouca%2C_Portugal_%282115154723%29.jpg/1280px-Bajouca%2C_Portugal_%282115154723%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bajouca, Portugal (2115154723).jpg",
+   "author": "Rosino",
+   "license": "CC BY-SA 2.0",
+   "credit": "Flickr Uploaded by tm",
+   "source": "https://commons.wikimedia.org/wiki/File:Bajouca%2C_Portugal_%282115154723%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Bazilika_Bom_Jesus_do_Monte.jpg/1280px-Bazilika_Bom_Jesus_do_Monte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bazilika Bom Jesus do Monte.jpg",
+   "author": "Vlach Pavel",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bazilika_Bom_Jesus_do_Monte.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bench_in_Bom_Jesus.JPG/1280px-Bench_in_Bom_Jesus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bench in Bom Jesus.JPG",
+   "author": "Joseolgon",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bench_in_Bom_Jesus.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bom_Jesus_01.jpg/1280px-Bom_Jesus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bom Jesus 01.jpg",
+   "author": "Vimacopeca",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bom_Jesus_01.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1590",
@@ -97,10 +121,132 @@
   ],
   "nearest_airport_km": 42.5,
   "distance_beijing_km": 9418.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Praia do Cabedelo",
+    "name_en": null,
+    "lat": 41.6837556,
+    "lon": -8.8313647,
+    "distance_km": 40.4,
+    "operator": null
+   },
+   {
+    "name": "Viana do Castelo",
+    "name_en": null,
+    "lat": 41.6901286,
+    "lon": -8.8280322,
+    "distance_km": 40.4,
+    "operator": null
+   },
+   {
+    "name": "Estação de Passageiros",
+    "name_en": null,
+    "lat": 41.1875364,
+    "lon": -8.6985814,
+    "distance_km": 48.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Braga",
+    "name_en": null,
+    "lat": 41.5480464,
+    "lon": -8.4344636,
+    "distance_km": 4.8,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Tadim",
+    "name_en": null,
+    "lat": 41.5091823,
+    "lon": -8.4829854,
+    "distance_km": 10.1,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Ruilhe",
+    "name_en": null,
+    "lat": 41.4976368,
+    "lon": -8.4962839,
+    "distance_km": 11.7,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Arentim",
+    "name_en": null,
+    "lat": 41.4899873,
+    "lon": -8.5088774,
+    "distance_km": 13.1,
+    "operator": "Infraestruturas de Portugal"
+   },
+   {
+    "name": "Guimarães",
+    "name_en": null,
+    "lat": 41.4351272,
+    "lon": -8.2942962,
+    "distance_km": 15.0,
+    "operator": "Infraestruturas de Portugal"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Meliá Braga Hotel & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Meliá",
+   "lat": 41.5567006,
+   "lon": -8.3955604,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Solar de Gondomil (under Construction)",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.6407047,
+   "lon": -8.4706252,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maison Albar",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.6383224,
+   "lon": -8.4762633,
+   "distance_km": 12.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aquafalls Spa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.648974,
+   "lon": -8.2059413,
+   "distance_km": 17.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Renaissance Porto Lapa Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Renaissance",
+   "lat": 41.158378,
+   "lon": -8.614586,
+   "distance_km": 48.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PT",
   "country_zh": "葡萄牙",
@@ -158,5 +304,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:44Z"
 }

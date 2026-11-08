@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)"
 lat: 35.869558333
 lon: 14.506883333
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:42:56Z"
 ---
 
 # 哈尔•萨夫列尼地下宫殿 / Ħal Saflieni Hypogeum
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *Malta Hypogeum Modell.jpg · see Wikimedia Commons file page*
 
-![Ħal Saflieni Hypogeum](https://whc.unesco.org/uploads/sites/site_130.jpg)
+![Entrance to the Ħal-Saflieni Hypogeum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Entrance_to_the_%C4%A6al-Saflieni_Hypogeum.jpg/1280px-Entrance_to_the_%C4%A6al-Saflieni_Hypogeum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ħal Saflieni Hypogeum · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Entrance to the Ħal-Saflieni Hypogeum.jpg · Ethan Doyle White · CC BY-SA 4.0*
+
+![Entrée hypogeum de Hal Saflieni.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Entr%C3%A9e_hypogeum_de_Hal_Saflieni.jpg/1280px-Entr%C3%A9e_hypogeum_de_Hal_Saflieni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Entrée hypogeum de Hal Saflieni.jpg · Hamelin de Guettelet · CC BY-SA 3.0*
+
+![ETH-BIB-Ipogeo Hal Saflieni, Sala principale-Dia 247-14032.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/ETH-BIB-Ipogeo_Hal_Saflieni%2C_Sala_principale-Dia_247-14032.tif/lossy-page1-1280px-ETH-BIB-Ipogeo_Hal_Saflieni%2C_Sala_principale-Dia_247-14032.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ETH-BIB-Ipogeo Hal Saflieni, Sala principale-Dia 247-14032.tif · Leo Wehrli · CC BY-SA 4.0*
+
+![ETH-BIB-Ipogeo Hal Salflieni, Orakel mit roten Deckenspiralen-Dia 247-14039.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/ETH-BIB-Ipogeo_Hal_Salflieni%2C_Orakel_mit_roten_Deckenspiralen-Dia_247-14039.tif/lossy-page1-1280px-ETH-BIB-Ipogeo_Hal_Salflieni%2C_Orakel_mit_roten_Deckenspiralen-Dia_247-14039.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ETH-BIB-Ipogeo Hal Salflieni, Orakel mit roten Deckenspiralen-Dia 247-14039.tif · Leo Wehrli · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using
 - ✈ **Malta International Airport (MLA)** — 3.0 km
 - ✈ **Comiso Airport (CIY)** — 125.6 km
 - ✈ **Lampedusa Airport (LMP)** — 175.5 km
+- ⛴ **Laboratory Wharf** — 1.7 km
+- ⛴ **Virtù Ferries** — 1.8 km
+- ⛴ **Bormla** — 2.0 km
+- ⛴ **Marina tal-Port il-Kbir; Valletta - It-Tliet Ibliet** — 2.0 km
+- ⛴ **Ragusa Xpress** — 2.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8416.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Phoenicia** — 2.9 km — star — 5★
+- **Iniala Harbour House** — 3.0 km — star — 5★
+- **The Cumberland Hotel by NEU Collective** — 3.1 km — star — 5★
+- **Palazzo Consiglia** — 3.3 km — star — 5★
+- **Rosselli - AX Privilege** — 3.4 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

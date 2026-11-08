@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1687.jpg",
-   "title": "Ancient Jericho/Tell es-Sultan",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1687",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2010-06-16_11-08-04_Israel_Jericho_JH_%2852791612433%29.jpg/1280px-2010-06-16_11-08-04_Israel_Jericho_JH_%2852791612433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2010-06-16 11-08-04 Israel Jericho JH (52791612433).jpg",
+   "author": "Jan Helebrant",
+   "license": "CC0",
+   "credit": "2010-06-16_11-08-04_Israel_Jericho_JH",
+   "source": "https://commons.wikimedia.org/wiki/File:2010-06-16_11-08-04_Israel_Jericho_JH_%2852791612433%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2010-06-16_11-10-36_Israel_Jericho_JH_%2852791554120%29.jpg/1280px-2010-06-16_11-10-36_Israel_Jericho_JH_%2852791554120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2010-06-16 11-10-36 Israel Jericho JH (52791554120).jpg",
+   "author": "Jan Helebrant",
+   "license": "CC0",
+   "credit": "2010-06-16_11-10-36_Israel_Jericho_JH",
+   "source": "https://commons.wikimedia.org/wiki/File:2010-06-16_11-10-36_Israel_Jericho_JH_%2852791554120%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/2010-06-16_11-11-15_Israel_Jericho_JH_%2852791395634%29.jpg/1280px-2010-06-16_11-11-15_Israel_Jericho_JH_%2852791395634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2010-06-16 11-11-15 Israel Jericho JH (52791395634).jpg",
+   "author": "Jan Helebrant",
+   "license": "CC0",
+   "credit": "2010-06-16_11-11-15_Israel_Jericho_JH",
+   "source": "https://commons.wikimedia.org/wiki/File:2010-06-16_11-11-15_Israel_Jericho_JH_%2852791395634%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-06-16_11-12-30_Israel_Jericho_JH_%2852791553820%29.jpg/1280px-2010-06-16_11-12-30_Israel_Jericho_JH_%2852791553820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2010-06-16 11-12-30 Israel Jericho JH (52791553820).jpg",
+   "author": "Jan Helebrant",
+   "license": "CC0",
+   "credit": "2010-06-16_11-12-30_Israel_Jericho_JH",
+   "source": "https://commons.wikimedia.org/wiki/File:2010-06-16_11-12-30_Israel_Jericho_JH_%2852791553820%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1687",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 52.8,
   "distance_beijing_km": 7055.1,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Binyene Ha'Uma ICC",
+    "name_en": "Binyene Ha'Uma ICC",
+    "lat": 31.7878945,
+    "lon": 35.2035707,
+    "distance_km": 24.6,
+    "operator": null
+   },
+   {
+    "name": "ירושלים - יצחק נבון",
+    "name_en": "Jerusalem - Yitzhak Navon",
+    "lat": 31.7881125,
+    "lon": 35.2027658,
+    "distance_km": 24.7,
+    "operator": "רכבת ישראל"
+   },
+   {
+    "name": "Betsal'el Bazak",
+    "name_en": "Betsal'el Bazak",
+    "lat": 31.7667915,
+    "lon": 35.1965236,
+    "distance_km": 26.2,
+    "operator": null
+   },
+   {
+    "name": "Giv'at Mordekhay",
+    "name_en": "Giv'at Mordekhay",
+    "lat": 31.761228,
+    "lon": 35.199898,
+    "distance_km": 26.2,
+    "operator": null
+   },
+   {
+    "name": "Pat Junction",
+    "name_en": "Pat Junction",
+    "lat": 31.7563462,
+    "lon": 35.1981531,
+    "distance_km": 26.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hilton Dead Sea Resort & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 31.7223381,
+   "lon": 35.5883189,
+   "distance_km": 21.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "موفنبيك رام الله",
+   "name_en": "Movenpick Ramallah",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.8958126,
+   "lon": 35.2046063,
+   "distance_km": 22.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון וולדורף אסטוריה ירושלים",
+   "name_en": "Waldorf Astoria Jerusalem",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7773467,
+   "lon": 35.2216124,
+   "distance_km": 23.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7774592,
+   "lon": 35.2223554,
+   "distance_km": 23.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון המלך דוד",
+   "name_en": "King David Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7743784,
+   "lon": 35.2226341,
+   "distance_km": 23.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PS",
   "country_zh": "巴勒斯坦國",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:03Z"
+ "updated_at": "2026-11-08T16:51:00Z"
 }

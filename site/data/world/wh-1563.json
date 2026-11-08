@@ -100,7 +100,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "الأحساء انتركونتننتال",
+   "name_en": "Al Ahsa Intercontinental",
+   "stars": 5,
+   "brand": null,
+   "lat": 25.3875452,
+   "lon": 49.5818671,
+   "distance_km": 6.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Day Hotel",
+   "name_en": "Grand Day Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 25.3837369,
+   "lon": 49.5933332,
+   "distance_km": 5.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Top view",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.3960985,
+   "lon": 49.5558976,
+   "distance_km": 7.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "mazroya home",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.3650854,
+   "lon": 49.5788891,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "الأحياء جراند",
+   "name_en": "Al Ahsa Grand",
+   "stars": null,
+   "brand": null,
+   "lat": 25.3461143,
+   "lon": 49.5899463,
+   "distance_km": 9.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "SA",
   "country_zh": "沙特阿拉伯",
@@ -158,5 +214,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:36Z"
 }

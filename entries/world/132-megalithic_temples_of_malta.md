@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iv)"
 lat: 36.04916667
 lon: 14.26944444
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:42:56Z"
 ---
 
 # 马耳他巨石庙 / Megalithic Temples of Malta

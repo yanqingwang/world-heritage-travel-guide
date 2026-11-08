@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_652.jpg",
-   "title": "Puerto-Princesa Subterranean River National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/652",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/%22Sagrada_Familia_sa_Kweba%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "\"Sagrada Familia sa Kweba\".jpg",
+   "author": "Nadine Dominisse B. Vacante",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Sagrada_Familia_sa_Kweba%22.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Astonishing_Underground_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Astonishing Underground River.jpg",
+   "author": "Micah Noel Perpetua",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Astonishing_Underground_River.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bats_of_Puerto_Princesa_Underground_River.jpg/1280px-Bats_of_Puerto_Princesa_Underground_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bats of Puerto Princesa Underground River.jpg",
+   "author": "Adrian N. DG. Nualda",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bats_of_Puerto_Princesa_Underground_River.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Caves_entranceexit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Caves entranceexit.jpg",
+   "author": "Paul Chin",
+   "license": "CC BY-SA 2.0",
+   "credit": "originally posted to Flickr as Caves entrance/exit",
+   "source": "https://commons.wikimedia.org/wiki/File:Caves_entranceexit.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/652",
@@ -97,10 +121,107 @@
   ],
   "nearest_airport_km": 50.3,
   "distance_beijing_km": 3380.3,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Mangrove River Paddle Boat",
+    "name_en": null,
+    "lat": 10.1968094,
+    "lon": 118.904315,
+    "distance_km": 3.6,
+    "operator": null
+   },
+   {
+    "name": "Sabang",
+    "name_en": null,
+    "lat": 10.1974184,
+    "lon": 118.893106,
+    "distance_km": 4.3,
+    "operator": null
+   },
+   {
+    "name": "Dos Palmas",
+    "name_en": null,
+    "lat": 9.9154127,
+    "lon": 118.8766786,
+    "distance_km": 28.3,
+    "operator": null
+   },
+   {
+    "name": "Honda Bay Wharf",
+    "name_en": null,
+    "lat": 9.8684335,
+    "lon": 118.7479649,
+    "distance_km": 38.0,
+    "operator": null
+   },
+   {
+    "name": "Santa Lourdes Wharf",
+    "name_en": null,
+    "lat": 9.843291,
+    "lon": 118.7463212,
+    "distance_km": 40.5,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Dolce Vita",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 9.7522276,
+   "lon": 118.7507434,
+   "distance_km": 49.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.409779,
+   "lon": 119.1753701,
+   "distance_km": 39.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Microtel by Wyndham Puerto Princesa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 9.7906742,
+   "lon": 118.7720134,
+   "distance_km": 44.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bambua Nature Park Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.189464,
+   "lon": 118.8970824,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hill Myna",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 10.1956502,
+   "lon": 118.8968248,
+   "distance_km": 3.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PH",
   "country_zh": "菲律宾",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:55Z"
+ "updated_at": "2026-11-08T16:47:37Z"
 }

@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(iv)"
 lat: 55.770124
 lon: 48.652451
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:31Z"
 ---
 
 # 斯维亚日斯克圣母升天修道院 / Assumption Cathedral and Monastery of the town-island of Sviyazhsk

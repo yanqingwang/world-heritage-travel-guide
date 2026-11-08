@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.61111111
 lon: 1.41833333
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:53Z"
 ---
 
 # 米迪运河 / Canal du Midi
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:56Z"
 
 *Canal du Midi, Carcassonne, Languedoc-Roussillon, France - panoramio (25).jpg · see Wikimedia Commons file page*
 
-![Canal du Midi](https://whc.unesco.org/uploads/sites/site_770.jpg)
+![De-Canal du Midi.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Canal du Midi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Canal du Midi.ogg · Jeuwre · CC BY-SA 4.0*
+
+![20050520 Jaune-Vert.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/20050520_Jaune-Vert.jpg/1280px-20050520_Jaune-Vert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20050520 Jaune-Vert.jpg · Nicolas from Rennes, France · CC BY 2.0*
+
+![35b021.Canal du Medi.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/35b021.Canal_du_Medi.tif/lossy-page1-1280px-35b021.Canal_du_Medi.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*35b021.Canal du Medi.tif · Pavel Goncharuk · CC BY-SA 4.0*
+
+![AP - Canal du Midi - Bram août 2021 (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/AP_-_Canal_du_Midi_-_Bram_ao%C3%BBt_2021_%282%29.jpg/1280px-AP_-_Canal_du_Midi_-_Bram_ao%C3%BBt_2021_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AP - Canal du Midi - Bram août 2021 (2).jpg · APB11 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,23 @@ Avec ses 360 km navigables assurant la liaison entre la Méditerranée et l'Atla
 - ✈ **Toulouse-Blagnac Airport (TLS)** — 4.8 km
 - ✈ **Castres Mazamet Airport (DCM)** — 70.4 km
 - ✈ **Carcassonne Salvaza Airport (CCF)** — 84.1 km
+- 🚉 **Toulouse-Matabiau** — 2.9 km
+- 🚉 **Toulouse-Saint-Agne** — 4.3 km
+- 🚉 **Toulouse-Montaudran** — 6.5 km
+- 🚉 **Colomiers** — 6.9 km
+- 🚉 **Portet Saint-Simon** — 9.5 km
+- ⛴ **Port Saint-Sauveur** — 3.5 km
+- ⛴ **Port Lauragais** — 42.2 km
+- ⛴ **Port du Ségala** — 45.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8670.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **La Cour des Consuls** — 2.3 km — star — 5★
+- **Hôtel de Brienne** — 1.1 km — star — 4★
+- **Hôtel Mercure Toulouse Centre Compans** — 1.3 km — star — 4★ · Mercure
+- **Soclo** — 1.7 km — star — 4★
+- **Novotel Toulouse Airport** — 1.7 km — star — 4★ · Novotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

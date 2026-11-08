@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_682.jpg",
-   "title": "Bwindi Impenetrable National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/682",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bwindi_Impenetrable_National_Park_10.jpg/1280px-Bwindi_Impenetrable_National_Park_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bwindi Impenetrable National Park 10.jpg",
+   "author": "Thomas Fuhrmann",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bwindi_Impenetrable_National_Park_10.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Bwindi_Impenetrable_National_Park_desde_el_Broadbill_Forest_Camp_20190925_085152.jpg/1280px-Bwindi_Impenetrable_National_Park_desde_el_Broadbill_Forest_Camp_20190925_085152.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bwindi Impenetrable National Park desde el Broadbill Forest Camp 20190925 085152.jpg",
+   "author": "Josefito123",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bwindi_Impenetrable_National_Park_desde_el_Broadbill_Forest_Camp_20190925_085152.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Bwindi_Impenetrable_National_Park-112393.jpg/1280px-Bwindi_Impenetrable_National_Park-112393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bwindi Impenetrable National Park-112393.jpg",
+   "author": "Ron Van Oers",
+   "license": "CC BY-SA 3.0 igo",
+   "credit": "This file has been provided by UNESCO ( unesco.org ) as part of a GLAM-Wiki partnership. It is also available on the UNESCO website .",
+   "source": "https://commons.wikimedia.org/wiki/File:Bwindi_Impenetrable_National_Park-112393.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ishasha_river_map.svg/1280px-Ishasha_river_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ishasha river map.svg",
+   "author": "Cptmrmcmillan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ishasha_river_map.svg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/682",
@@ -97,10 +121,75 @@
   ],
   "nearest_airport_km": 26.0,
   "distance_beijing_km": 9832.9,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Sharp Island",
+    "name_en": null,
+    "lat": -1.3002293,
+    "lon": 29.9122998,
+    "distance_km": 35.3,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Wilderness Bisate",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -1.4440986,
+   "lon": 29.5257863,
+   "distance_km": 48.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.2499412,
+   "lon": 29.9857461,
+   "distance_km": 37.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Little Ritz",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.2511337,
+   "lon": 29.9848224,
+   "distance_km": 37.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "New Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.2526424,
+   "lon": 29.9870093,
+   "distance_km": 37.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ruhija Gorilla Mist Camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -1.0357975,
+   "lon": 29.7763395,
+   "distance_km": 6.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "UG",
   "country_zh": "乌干达",
@@ -158,5 +247,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:55Z"
+ "updated_at": "2026-11-08T16:47:41Z"
 }

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(ix)(x)"
 lat: 59.3833
 lon: -112.983
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:13Z"
 ---
 
 # 伍德布法罗国家公园 / Wood Buffalo National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Wood-Buffalo-NP Waldbison 98-07-02.jpg · see Wikimedia Commons file page*
 
-![Wood Buffalo National Park](https://whc.unesco.org/uploads/sites/site_256.jpg)
+![Barges and steamer used to transport bison from Waterways to Wood Buffalo National Park (20752649802).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Barges_and_steamer_used_to_transport_bison_from_Waterways_to_Wood_Buffalo_National_Park_%2820752649802%29.jpg/1280px-Barges_and_steamer_used_to_transport_bison_from_Waterways_to_Wood_Buffalo_National_Park_%2820752649802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Wood Buffalo National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Barges and steamer used to transport bison from Waterways to Wood Buffalo National Park (20752649802).jpg · Provincial Archives of Alberta · No restrictions*
+
+![Barges used to transport bison from Waterways to Wood Buffalo National Park (20141091923).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Barges_used_to_transport_bison_from_Waterways_to_Wood_Buffalo_National_Park_%2820141091923%29.jpg/1280px-Barges_used_to_transport_bison_from_Waterways_to_Wood_Buffalo_National_Park_%2820141091923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Barges used to transport bison from Waterways to Wood Buffalo National Park (20141091923).jpg · Provincial Archives of Alberta · No restrictions*
+
+![Bison barges unloading at Peace River (20139472534).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Bison_barges_unloading_at_Peace_River_%2820139472534%29.jpg/1280px-Bison_barges_unloading_at_Peace_River_%2820139472534%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bison barges unloading at Peace River (20139472534).jpg · Provincial Archives of Alberta · No restrictions*
+
+![Bison calves being led through a seven-mile timber cut to open land (20752661142).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bison_calves_being_led_through_a_seven-mile_timber_cut_to_open_land_%2820752661142%29.jpg/1280px-Bison_calves_being_led_through_a_seven-mile_timber_cut_to_open_land_%2820752661142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bison calves being led through a seven-mile timber cut to open land (20752661142).jpg · Provincial Archives of Alberta · No restrictions*
 
 ## 简介 / Introduction
 

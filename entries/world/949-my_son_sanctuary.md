@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iii)"
 lat: 15.76324
 lon: 108.124446
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:23Z"
 ---
 
 # 圣子修道院 / My Son Sanctuary
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *2024 - Mỹ Sơn Sanctuary Temple E7 - img 01.jpg · see Wikimedia Commons file page*
 
-![My Son Sanctuary](https://whc.unesco.org/uploads/sites/site_949.jpg)
+![0040223 My Son UNESCO site entrance, Cham Hindu temples complex, Vietnam.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5c/0040223_My_Son_UNESCO_site_entrance%2C_Cham_Hindu_temples_complex%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*My Son Sanctuary · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0040223 My Son UNESCO site entrance, Cham Hindu temples complex, Vietnam.jpg · Ms Sarah Welch · CC0*
+
+![A far view of the ruins at My Son (30992152933).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg/1280px-A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A far view of the ruins at My Son (30992152933).jpg · shankar s. from Dubai, united arab emirates · CC BY 2.0*
+
+![ASI of India helps Vietnam to restore the Mỹ Sơn Sanctuary.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/ASI_of_India_helps_Vietnam_to_restore_the_M%E1%BB%B9_S%C6%A1n_Sanctuary.jpg/1280px-ASI_of_India_helps_Vietnam_to_restore_the_M%E1%BB%B9_S%C6%A1n_Sanctuary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ASI of India helps Vietnam to restore the Mỹ Sơn Sanctuary.jpg · Chainwit. · CC BY 4.0*
+
+![Charles Carpeaux at Mỹ Sơn.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Charles_Carpeaux_at_M%E1%BB%B9_S%C6%A1n.jpg/1280px-Charles_Carpeaux_at_M%E1%BB%B9_S%C6%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Charles Carpeaux at Mỹ Sơn.jpg · Charles Carpeaux (1870-1904) · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Thánh địa Mỹ Sơn thuộc xã Thu Bồn, thành phố Đà Nẵng, cách t
 - ✈ **Da Nang International Airport (DAD)** — 32.2 km
 - ✈ **Chu Lai Airport (VCL)** — 74.0 km
 - ✈ **Phu Bai International Airport (HUI)** — 83.9 km
+- 🚉 **Trà Kiệu** — 12.6 km
+- 🚉 **Nông Sơn** — 15.3 km
+- 🚉 **Lệ Trạch** — 23.9 km
+- 🚉 **Phú Cang** — 24.1 km
+- 🚉 **Thanh Khê** — 34.3 km
+- ⛴ **Basket Boat Station** — 26.4 km
+- ⛴ **Cửa Đại** — 31.0 km
+- ⛴ **Dragon Ship Han River** — 34.7 km
+- ⛴ **River Cruise Boats** — 36.7 km
+- ⛴ **Cảng Tiên Sa** — 40.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2793.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Four Seasons Resort** — 27.7 km — star — 5★ · Four Seasons
+- **Palm Garden Resort** — 29.4 km — star — 5★
+- **NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton** — 29.5 km — star — 5★ · Tapestry Collection by Hilton
+- **Furama Villas** — 33.4 km — star — 5★
+- **Furama Resort** — 33.6 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

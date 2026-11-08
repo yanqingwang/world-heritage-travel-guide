@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_250.jpg",
-   "title": "Great Living Chola Temples",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/250",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_collage_of_Great_living_Chola_temples_UNESCO_heritage_site.jpg/1280px-A_collage_of_Great_living_Chola_temples_UNESCO_heritage_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A collage of Great living Chola temples UNESCO heritage site.jpg",
+   "author": "Ms Sarah Welch",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_collage_of_Great_living_Chola_temples_UNESCO_heritage_site.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Chola%27s_Mani_Mandapam.jpg/1280px-Chola%27s_Mani_Mandapam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Chola's Mani Mandapam.jpg",
+   "author": "RealinRear",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Chola%27s_Mani_Mandapam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Sculpt_works_at_the_side_of_the_big_temple_main_tower.jpg/1280px-Sculpt_works_at_the_side_of_the_big_temple_main_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sculpt works at the side of the big temple main tower.jpg",
+   "author": "Raudhran",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sculpt_works_at_the_side_of_the_big_temple_main_tower.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Standing_child_birth.jpg/1280px-Standing_child_birth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Standing child birth.jpg",
+   "author": "Darshanavenugopal",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Standing_child_birth.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/250",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 45.4,
   "distance_beijing_km": 4944.6,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Thanjavur Junction",
+    "name_en": null,
+    "lat": 10.7781963,
+    "lon": 79.1396716,
+    "distance_km": 1.0,
+    "operator": "SR"
+   },
+   {
+    "name": "Titte",
+    "name_en": null,
+    "lat": 10.8375519,
+    "lon": 79.1817582,
+    "distance_km": 8.1,
+    "operator": "SR"
+   },
+   {
+    "name": "Alakkudi",
+    "name_en": null,
+    "lat": 10.7772662,
+    "lon": 79.0528726,
+    "distance_km": 8.7,
+    "operator": "SR"
+   },
+   {
+    "name": "Pasupatikovil",
+    "name_en": null,
+    "lat": 10.8826518,
+    "lon": 79.1911775,
+    "distance_km": 12.8,
+    "operator": "SR"
+   },
+   {
+    "name": "Ayyampet",
+    "name_en": null,
+    "lat": 10.896807,
+    "lon": 79.2074454,
+    "distance_km": 15.1,
+    "operator": "SR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Oriental Towers",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 10.7775917,
+   "lon": 79.1423696,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "PL.A Krishna Inn",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 10.7977204,
+   "lon": 78.681296,
+   "distance_km": 49.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Temple Tower",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 10.7758939,
+   "lon": 79.1320859,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Sampath",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 10.8340427,
+   "lon": 78.693267,
+   "distance_km": 48.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott",
+   "name_en": null,
+   "stars": null,
+   "brand": "Courtyard",
+   "lat": 10.8040382,
+   "lon": 78.6770369,
+   "distance_km": 49.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:44:11Z"
 }

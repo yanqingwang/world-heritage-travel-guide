@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1438.jpg",
-   "title": "Trang An Landscape Complex",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1438",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/BBQ_b%C3%AAn_h%E1%BB%93_b%C6%A1i_-_Thung_Nham_Resort.jpg/1280px-BBQ_b%C3%AAn_h%E1%BB%93_b%C6%A1i_-_Thung_Nham_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "BBQ bên hồ bơi - Thung Nham Resort.jpg",
+   "author": "Ruanyancang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:BBQ_b%C3%AAn_h%E1%BB%93_b%C6%A1i_-_Thung_Nham_Resort.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/B%C3%AAn_trong_%C4%90%E1%BB%99ng_V%C3%A1i_Gi%E1%BB%9Di.jpg/1280px-B%C3%AAn_trong_%C4%90%E1%BB%99ng_V%C3%A1i_Gi%E1%BB%9Di.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bên trong Động Vái Giời.jpg",
+   "author": "Yenthuong225",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:B%C3%AAn_trong_%C4%90%E1%BB%99ng_V%C3%A1i_Gi%E1%BB%9Di.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Chi%E1%BA%BFc_m%C3%A1y_%E1%BB%A7i_c%C3%B4ng_th%E1%BA%A7n_c%E1%BB%A7a_Th%E1%BB%A5ng_Nham.jpg/1280px-Chi%E1%BA%BFc_m%C3%A1y_%E1%BB%A7i_c%C3%B4ng_th%E1%BA%A7n_c%E1%BB%A7a_Th%E1%BB%A5ng_Nham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Chiếc máy ủi công thần của Thụng Nham.jpg",
+   "author": "Ruanyancang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Chi%E1%BA%BFc_m%C3%A1y_%E1%BB%A7i_c%C3%B4ng_th%E1%BA%A7n_c%E1%BB%A7a_Th%E1%BB%A5ng_Nham.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/C%E1%BB%A5m_t%C3%A2m_linh_chi%C3%AAm_b%C3%A1i_Thung_Nham.jpg/1280px-C%E1%BB%A5m_t%C3%A2m_linh_chi%C3%AAm_b%C3%A1i_Thung_Nham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cụm tâm linh chiêm bái Thung Nham.jpg",
+   "author": "Yenthuong225",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:C%E1%BB%A5m_t%C3%A2m_linh_chi%C3%AAm_b%C3%A1i_Thung_Nham.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1438",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 61.1,
   "distance_beijing_km": 2481.1,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Trang An Boat Tours Finish",
+    "name_en": "Trang An Boat Tours Finish",
+    "lat": 20.252547,
+    "lon": 105.9174185,
+    "distance_km": 0.4,
+    "operator": null
+   },
+   {
+    "name": "Route 1 Temple Stop",
+    "name_en": null,
+    "lat": 20.2573479,
+    "lon": 105.8985181,
+    "distance_km": 1.8,
+    "operator": null
+   },
+   {
+    "name": "Phà Đống Cao",
+    "name_en": null,
+    "lat": 20.2674781,
+    "lon": 106.1136795,
+    "distance_km": 20.7,
+    "operator": null
+   },
+   {
+    "name": "Bến Phà Đò Mười",
+    "name_en": "Ferry Crossing - 8,000₫. One way. Feb.2018",
+    "lat": 20.1418093,
+    "lon": 106.1657074,
+    "distance_km": 29.0,
+    "operator": null
+   },
+   {
+    "name": "Ferry Crossing - 7,000₫. One way. Feb.2018",
+    "name_en": "Ferry Crossing - 7,000₫. One way. Feb.2018",
+    "lat": 20.1430157,
+    "lon": 106.1763608,
+    "distance_km": 30.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Ninh Bình",
+    "name_en": "Ninh Binh",
+    "lat": 20.2421142,
+    "lon": 105.9746207,
+    "distance_km": 6.3,
+    "operator": null
+   },
+   {
+    "name": "Cầu Yên",
+    "name_en": null,
+    "lat": 20.2030548,
+    "lon": 105.9656783,
+    "distance_km": 7.8,
+    "operator": null
+   },
+   {
+    "name": "Ghềnh",
+    "name_en": null,
+    "lat": 20.1697572,
+    "lon": 105.9416304,
+    "distance_km": 9.9,
+    "operator": null
+   },
+   {
+    "name": "Cát Đằng",
+    "name_en": null,
+    "lat": 20.2955301,
+    "lon": 106.025486,
+    "distance_km": 12.3,
+    "operator": null
+   },
+   {
+    "name": "Đồng Giao",
+    "name_en": null,
+    "lat": 20.1380163,
+    "lon": 105.8711123,
+    "distance_km": 13.9,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Ninh Binh Legend Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 20.2744939,
+   "lon": 105.9587265,
+   "distance_km": 5.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tru by Hilton Nam Dinh City Centre",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Tru by Hilton",
+   "lat": 20.4287598,
+   "lon": 106.1740299,
+   "distance_km": 33.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hoalu Ecolodge Homestay",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.2657178,
+   "lon": 105.9212314,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Quang Dũng Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.2187906,
+   "lon": 105.9615486,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thế Vĩnh Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 20.2471149,
+   "lon": 105.9712353,
+   "distance_km": 5.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "VN",
   "country_zh": "越南",
@@ -155,5 +317,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:01Z"
+ "updated_at": "2026-11-08T16:50:08Z"
 }

@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_338.jpg",
-   "title": "Manas Wildlife Sanctuary",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/338",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/A_morning_%40_Manas%2C_Assam.jpg/1280px-A_morning_%40_Manas%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A morning @ Manas, Assam.jpg",
+   "author": "Rajshekhar.Baghel",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_morning_%40_Manas%2C_Assam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Beautiful_Assam%2C_the_Manas_National_Park.jpg/1280px-Beautiful_Assam%2C_the_Manas_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Beautiful Assam, the Manas National Park.jpg",
+   "author": "Kangkansahariaassam",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Assam%2C_the_Manas_National_Park.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Beki_River_Panorama.jpg/1280px-Beki_River_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Beki River Panorama.jpg",
+   "author": "Drashokk",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Beki_River_Panorama.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bhutan-India_Border_crossing_Manas_National_Park_Assam.jpg/1280px-Bhutan-India_Border_crossing_Manas_National_Park_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bhutan-India Border crossing Manas National Park Assam.jpg",
+   "author": "Paasikivi",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bhutan-India_Border_crossing_Manas_National_Park_Assam.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/338",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 83.2,
   "distance_beijing_km": 2708.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Barpeta Road",
+    "name_en": "Barpeta Road",
+    "lat": 26.5021259,
+    "lon": 90.9645713,
+    "distance_km": 24.1,
+    "operator": "NFR"
+   },
+   {
+    "name": "Sorbhog",
+    "name_en": null,
+    "lat": 26.4945638,
+    "lon": 90.8887291,
+    "distance_km": 25.1,
+    "operator": "NFR"
+   },
+   {
+    "name": "Patiladaha",
+    "name_en": null,
+    "lat": 26.4986937,
+    "lon": 90.7983885,
+    "distance_km": 27.7,
+    "operator": "NFR"
+   },
+   {
+    "name": "Sorupeta",
+    "name_en": null,
+    "lat": 26.4996415,
+    "lon": 91.0772008,
+    "distance_km": 28.1,
+    "operator": "NFR"
+   },
+   {
+    "name": "Bijni",
+    "name_en": "Bijni",
+    "lat": 26.4973796,
+    "lon": 90.7074554,
+    "distance_km": 33.1,
+    "operator": "NFR"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Camp Buffalo retreat",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6595212,
+   "lon": 90.9912286,
+   "distance_km": 8.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pigeon nature camp",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6576184,
+   "lon": 90.9912749,
+   "distance_km": 8.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Florican Cottage",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6592285,
+   "lon": 90.9944181,
+   "distance_km": 8.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Manas view jungle resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6591735,
+   "lon": 90.9980381,
+   "distance_km": 9.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bansbari Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.6587632,
+   "lon": 91.0005568,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:45:13Z"
 }

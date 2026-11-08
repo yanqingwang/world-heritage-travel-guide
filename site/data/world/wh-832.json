@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_832.jpg",
-   "title": "Villa Romana del Casale",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/832",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_04.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 04.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_06.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 06.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_07.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 07.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_37.jpg/1280px-%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "+ 1997 erklärte die UNESCO Die Villa Romana del Casale zum Weltkulturerbe 37.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%2B_1997_erkl%C3%A4rte_die_UNESCO_Die_Villa_Romana_del_Casale_zum_Weltkulturerbe_37.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/832",
@@ -97,10 +121,124 @@
   ],
   "nearest_airport_km": 47.7,
   "distance_beijing_km": 8327.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Marina di Cala del Sole",
+    "name_en": null,
+    "lat": 37.0962143,
+    "lon": 13.9440839,
+    "distance_km": 45.7,
+    "operator": null
+   },
+   {
+    "name": "Porto di Licata",
+    "name_en": null,
+    "lat": 37.0911609,
+    "lon": 13.93935,
+    "distance_km": 46.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Caltagirone",
+    "name_en": null,
+    "lat": 37.2288856,
+    "lon": 14.5280352,
+    "distance_km": 22.8,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Enna",
+    "name_en": null,
+    "lat": 37.5810112,
+    "lon": 14.289692,
+    "distance_km": 24.4,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Dittaino",
+    "name_en": null,
+    "lat": 37.5646145,
+    "lon": 14.4624707,
+    "distance_km": 24.9,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Villarosa",
+    "name_en": null,
+    "lat": 37.5671843,
+    "lon": 14.2001478,
+    "distance_km": 25.4,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Leonforte Pirato",
+    "name_en": null,
+    "lat": 37.6062733,
+    "lon": 14.3761279,
+    "distance_km": 27.1,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Villa Tasca Farmhouse",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.2692333,
+   "lon": 14.4855581,
+   "distance_km": 17.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Federico II Palace Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.5448836,
+   "lon": 14.2984003,
+   "distance_km": 20.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel NH Caltagirone Villa San Mauro",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2229119,
+   "lon": 14.5130502,
+   "distance_km": 22.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel San Michele",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.4989038,
+   "lon": 14.0508485,
+   "distance_km": 29.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Giocolano",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.0691664,
+   "lon": 14.3322649,
+   "distance_km": 32.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -158,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:57Z"
+ "updated_at": "2026-11-08T16:48:05Z"
 }

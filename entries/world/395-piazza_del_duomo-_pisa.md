@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.723428
 lon: 10.394778
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:23Z"
 ---
 
 # 比萨大教堂广场 / Piazza del Duomo, Pisa
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Italy - Pisa - Leaning Tower of Pisa.jpg · see Wikimedia Commons file page*
 
-![Piazza del Duomo, Pisa](https://whc.unesco.org/uploads/sites/site_395.jpg)
+![Pisa fd (6).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Pisa_fd_%286%29.jpg/1280px-Pisa_fd_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Piazza del Duomo, Pisa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Pisa fd (6).jpg · Friedhelm Dröge · CC BY-SA 3.0*
+
+![Placa de la Unesco, Piazza del Duomo de Pisa.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Placa_de_la_Unesco%2C_Piazza_del_Duomo_de_Pisa.JPG/1280px-Placa_de_la_Unesco%2C_Piazza_del_Duomo_de_Pisa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Placa de la Unesco, Piazza del Duomo de Pisa.JPG · Joanbanjo · CC BY-SA 3.0*
+
+![Campo dei Miracoli overview2.jpg](https://upload.wikimedia.org/wikipedia/commons/2/26/Campo_dei_Miracoli_overview2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Campo dei Miracoli overview2.jpg · Bob Tubbs · Public domain*
+
+![Parking Pietrasantina (piazza nuova grande), Piazza dei Miracoli and the Leaning Tower - Pisa - veduta dall'aereo 2 (cropped).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Parking_Pietrasantina_%28piazza_nuova_grande%29%2C_Piazza_dei_Miracoli_and_the_Leaning_Tower_-_Pisa_-_veduta_dall%27aereo_2_%28cropped%29.JPG/1280px-Parking_Pietrasantina_%28piazza_nuova_grande%29%2C_Piazza_dei_Miracoli_and_the_Leaning_Tower_-_Pisa_-_veduta_dall%27aereo_2_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Parking Pietrasantina (piazza nuova grande), Piazza dei Miracoli and the Leaning Tower - Pisa - veduta dall'aereo 2 (cropped).JPG · Luca Aless , crop of photo: User:LudwigSebastianMicheler · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ La piazza del Duomo è il centro artistico e turistico più importante di Pisa. 
 - ✈ **Pisa International Airport (PSA)** — 4.4 km
 - ✈ **Florence Airport, Peretola (FLR)** — 65.6 km
 - ✈ **Marina di Campo Airport (EBA)** — 107.8 km
+- 🚉 **Pisa San Rossore** — 0.6 km
+- 🚉 **Stazione Centrale** — 1.8 km
+- 🚉 **Pisa Centrale** — 1.8 km
+- 🚉 **San Giusto - Aurelia** — 2.5 km
+- 🚉 **Pisa Aeroporto** — 2.8 km
+- ⛴ **Darsena Lucca** — 19.5 km
+- ⛴ **Darsena Toscana** — 19.6 km
+- ⛴ **Darsena Europa** — 19.7 km
+- ⛴ **Darsena Italia** — 19.7 km
+- ⛴ **Calata Carrara** — 20.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8130.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Abitalia Tower Plaza** — 1.3 km — star — 5★
+- **Bagni di Pisa Palace & Spa** — 5.8 km — star — 5★
+- **Toscana Charme Resort** — 15.5 km — star — 5★
+- **Grand Hotel Palazzo** — 22.4 km — star — 5★
+- **Grand Hotel & La Pace** — 35.0 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

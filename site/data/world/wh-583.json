@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_583.jpg",
-   "title": "Fortress of Suomenlinna",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/583",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/102-%D0%BC%D0%BC_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3.jpg/1280px-102-%D0%BC%D0%BC_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "102-мм единорог.jpg",
+   "author": "George Shuklin",
+   "license": "CC BY-SA 1.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:102-%D0%BC%D0%BC_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2003%E5%B9%B4_%E8%8A%AC%E5%85%B0%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA_Helsinki%2C_Suomi_-_panoramio.jpg/1280px-2003%E5%B9%B4_%E8%8A%AC%E5%85%B0%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA_Helsinki%2C_Suomi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2003年 芬兰赫尔辛基 Helsinki, Suomi - panoramio.jpg",
+   "author": "wanghongliu",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161030024753/http://www.panoramio.com/photo/98656881",
+   "source": "https://commons.wikimedia.org/wiki/File:2003%E5%B9%B4_%E8%8A%AC%E5%85%B0%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA_Helsinki%2C_Suomi_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bridge_between_Iso_Mustasaari_and_Susisaari_in_July_2024.jpg/1280px-Bridge_between_Iso_Mustasaari_and_Susisaari_in_July_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bridge between Iso Mustasaari and Susisaari in July 2024.jpg",
+   "author": "JIP",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridge_between_Iso_Mustasaari_and_Susisaari_in_July_2024.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bridge_view_in_Suomenlinna_In_Helsinki.jpg/1280px-Bridge_view_in_Suomenlinna_In_Helsinki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bridge view in Suomenlinna In Helsinki.jpg",
+   "author": "John Samuel",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridge_view_in_Suomenlinna_In_Helsinki.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/583",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 19.5,
   "distance_beijing_km": 6307.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Suomenlinna (Tykistölahti)",
+    "name_en": null,
+    "lat": 60.1448757,
+    "lon": 24.9877307,
+    "distance_km": 0.2,
+    "operator": null
+   },
+   {
+    "name": "Suomenlinna (Kuninkaanportti)",
+    "name_en": null,
+    "lat": 60.1400106,
+    "lon": 24.9900249,
+    "distance_km": 0.5,
+    "operator": null
+   },
+   {
+    "name": "Suomenlinna, huoltolaituri",
+    "name_en": null,
+    "lat": 60.1464432,
+    "lon": 24.9924614,
+    "distance_km": 0.5,
+    "operator": null
+   },
+   {
+    "name": "Kuninkaanportti",
+    "name_en": "King’s Gate Quay",
+    "lat": 60.1400381,
+    "lon": 24.9899877,
+    "distance_km": 0.5,
+    "operator": "JT-Line"
+   },
+   {
+    "name": "Suomenlinna, päälaituri",
+    "name_en": "Suomenlinna, main quay",
+    "lat": 60.1492739,
+    "lon": 24.9839388,
+    "distance_km": 0.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Koirasaaret",
+    "name_en": null,
+    "lat": 60.1629518,
+    "lon": 25.0172703,
+    "distance_km": 2.8,
+    "operator": null
+   },
+   {
+    "name": "Haakoninlahdenpuisto",
+    "name_en": null,
+    "lat": 60.165883,
+    "lon": 25.0186978,
+    "distance_km": 3.1,
+    "operator": null
+   },
+   {
+    "name": "Kruunuvuori",
+    "name_en": null,
+    "lat": 60.1691623,
+    "lon": 25.0153153,
+    "distance_km": 3.3,
+    "operator": null
+   },
+   {
+    "name": "Hopealaakso",
+    "name_en": null,
+    "lat": 60.1689007,
+    "lon": 25.0204565,
+    "distance_km": 3.4,
+    "operator": null
+   },
+   {
+    "name": "Korkeasaari",
+    "name_en": null,
+    "lat": 60.1770906,
+    "lon": 24.9824206,
+    "distance_km": 3.7,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Kämp",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 60.1679164,
+   "lon": 24.9469903,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Seaside",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Radisson Blu",
+   "lat": 60.1619785,
+   "lon": 24.9244835,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Clarion Hotel Helsinki",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Clarion",
+   "lat": 60.1596804,
+   "lon": 24.9220715,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Helsinki Strand",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 60.177157,
+   "lon": 24.9515812,
+   "distance_km": 4.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Original Sokos Hotel Presidentti",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 60.1705978,
+   "lon": 24.9326073,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FI",
   "country_zh": "芬兰",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:55Z"
+ "updated_at": "2026-11-08T16:47:26Z"
 }

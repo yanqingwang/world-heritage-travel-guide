@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(vi)"
 lat: 50.966111111
 lon: 10.306388888
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:14Z"
 ---
 
 # 瓦尔特堡城堡 / Wartburg Castle
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Thuringia Eisenach asv2020-07 img23 Wartburg Castle.jpg · see Wikimedia Commons file page*
 
-![Wartburg Castle](https://whc.unesco.org/uploads/sites/site_897.jpg)
+![De-Wartburg.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Wartburg Castle · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Wartburg.ogg · Jeuwre · CC BY-SA 4.0*
+
+!["Reutervilla und Wartburg" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (7).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%22Reutervilla_und_Wartburg%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%287%29.jpg/1280px-%22Reutervilla_und_Wartburg%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Reutervilla und Wartburg" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (7).jpg · Künstler: F[riedrich] Fennel (1872-1926), Kassel. Verlag von Carl Vietor, Hofbuchhandlung, Kassel. · CC BY 4.0*
+
+!["Wartburg von Süd-Ost" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%22Wartburg_von_S%C3%BCd-Ost%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%281%29.jpg/1280px-%22Wartburg_von_S%C3%BCd-Ost%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Wartburg von Süd-Ost" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (1).jpg · Künstler: F[riedrich] Fennel (1872-1926), Kassel. Verlag von Carl Vietor, Hofbuchhandlung, Kassel. · CC BY 4.0*
+
+!["Wartburg von Süd-West" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (4).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%22Wartburg_von_S%C3%BCd-West%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%284%29.jpg/1280px-%22Wartburg_von_S%C3%BCd-West%22_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_81%2C_24_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Wartburg von Süd-West" - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 81, 24 (4).jpg · Künstler: F[riedrich] Fennel (1872-1926), Kassel. Verlag von Carl Vietor, Hofbuchhandlung, Kassel. · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,21 @@ Die Wartburg ist eine Burg bei Eisenach, im nordwestlichen Thüringer Wald in Th
 - ✈ **Erfurt-Weimar Airport (ERF)** — 45.8 km
 - ✈ **Kassel Airport (KSF)** — 81.2 km
 - ✈ **Paderborn Lippstadt Airport (PAD)** — 137.7 km
+- 🚉 **Eisenach Hauptbahnhof** — 2.2 km
+- 🚉 **Förtha (Kr Eisenach)** — 4.3 km
+- 🚉 **Wutha** — 6.4 km
+- 🚉 **Marksuhl** — 8.6 km
+- 🚉 **Oberrohn** — 14.5 km
+- ⛴ **Werranixe** — 29.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7589.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Carl.22 City Appartements** — 1.7 km — star — 5★
+- **Göbel's Schlosshotel Prinz von Hessen** — 33.0 km — star — 5★
+- **Hohes Rott** — 47.6 km — star — 5★
+- **Dorint Hotel am Dom Erfurt** — 49.9 km — star — 5★ · Dorint
+- **Glockenhof** — 1.4 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

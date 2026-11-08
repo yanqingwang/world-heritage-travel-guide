@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 32.266666666
 lon: 35.183333333
-updated_at: "2026-11-08T16:07:04Z"
+updated_at: "2026-11-08T16:51:08Z"
 ---
 
 # 塞巴斯蒂亚 / Sebastia
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:04Z"
 
 *Sebastia vill.jpg · see Wikimedia Commons file page*
 
-![Sebastia](https://whc.unesco.org/uploads/sites/site_1809.jpg)
+![BeitUmrin6166.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/BeitUmrin6166.JPG/1280px-BeitUmrin6166.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sebastia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*BeitUmrin6166.JPG · יעקב · CC BY-SA 3.0*
+
+![Casemate defensive wall - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Casemate_defensive_wall_-_panoramio.jpg/1280px-Casemate_defensive_wall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Casemate defensive wall - panoramio.jpg · Mujaddara · CC BY-SA 3.0*
+
+![City Gate - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/City_Gate_-_panoramio.jpg/1280px-City_Gate_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*City Gate - panoramio.jpg · Mujaddara · CC BY-SA 3.0*
+
+![Columned street - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Columned_street_-_panoramio.jpg/1280px-Columned_street_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Columned street - panoramio.jpg · Mujaddara · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,22 @@ Sebastia (Arabic: سبسطية, Sabastiyah; Greek: Σεβαστή, Σεβάστ�
 - ✈ **Ben Gurion International Airport (TLV)** — 39.8 km
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 61.8 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 82.8 km
+- 🚉 **שומרון - טייבה** — 17.6 km
+- 🚉 **טירה - כוכב יאיר** — 19.8 km
+- 🚉 **כפר סבא-נורדאו** — 27.4 km
+- 🚉 **ראש העין - צפון** — 28.5 km
+- 🚉 **הוד השרון - סוקולוב** — 28.6 km
+- ⛴ **מרינה הרצליה** — 38.4 km
+- ⛴ **Jaffa Port** — 47.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7140.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **موفنبيك رام الله** — 41.3 km — star — Movenpick Ramallah · 5★
+- **Hilton Tel Aviv** — 43.5 km — star — Hilton Tel Aviv · 5★ · Hilton
+- **מלון רנסאנס** — 44.0 km — star — Renaissance Tel Aviv Hotel · 5★
+- **אריסטוקרט** — 39.0 km — star — Aristocrat · 4★
+- **Grand Park Hotel** — 42.0 km — star — Grand Park Hotel · 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

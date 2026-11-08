@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1242.jpg",
-   "title": "Parthian Fortresses of Nisa",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1242",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Architectural_pieces_from_old_Nisa%2C_2nd_cent._BCE%3B_National_Museum_of_History%2C_Ashgabat%2C_Turkmenistan.jpg/1280px-Architectural_pieces_from_old_Nisa%2C_2nd_cent._BCE%3B_National_Museum_of_History%2C_Ashgabat%2C_Turkmenistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Architectural pieces from old Nisa, 2nd cent. BCE; National Museum of History, Ashgabat, Turkmenistan.jpg",
+   "author": "Richard Mortel",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/prof_richard/53177960460/",
+   "source": "https://commons.wikimedia.org/wiki/File:Architectural_pieces_from_old_Nisa%2C_2nd_cent._BCE%3B_National_Museum_of_History%2C_Ashgabat%2C_Turkmenistan.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coin_of_Orodes_II_%282%29%2C_Mithradatkert_%28Nisa%29_mint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Coin of Orodes II (2), Mithradatkert (Nisa) mint.jpg",
+   "author": "Classical Numismatic Group ; [1]",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://www.cngcoins.com/Coin.aspx?CoinID=153395",
+   "source": "https://commons.wikimedia.org/wiki/File:Coin_of_Orodes_II_%282%29%2C_Mithradatkert_%28Nisa%29_mint.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Coin_of_Orodes_II%2C_Mithradatkert_%28Nisa%29_mint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Coin of Orodes II, Mithradatkert (Nisa) mint.jpg",
+   "author": "Classical Numismatic Group ; [1]",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://www.cngcoins.com/Coin.aspx?CoinID=153395",
+   "source": "https://commons.wikimedia.org/wiki/File:Coin_of_Orodes_II%2C_Mithradatkert_%28Nisa%29_mint.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fragment_of_bearded_head_identified_as_the_portrait_of_Mithradates_I%2C_from_the_Parthian_royal_fortress_of_Nisa%2C_dated_2nd_century_BC%2C_National_Museum_of_Turkmenistan%2C_Ashgabat%2C_Turkmenistan.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fragment of bearded head identified as the portrait of Mithradates I, from the Parthian royal fortress of Nisa, dated 2nd century BC, National Museum of Turkmenistan, Ashgabat, Turkmenistan.png",
+   "author": "Following Hadrian",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/41523983@N08/54449802057/",
+   "source": "https://commons.wikimedia.org/wiki/File:Fragment_of_bearded_head_identified_as_the_portrait_of_Mithradates_I%2C_from_the_Parthian_royal_fortress_of_Nisa%2C_dated_2nd_century_BC%2C_National_Museum_of_Turkmenistan%2C_Ashgabat%2C_Turkmenistan.png"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1242",
@@ -98,9 +122,106 @@
   "nearest_airport_km": 13.6,
   "distance_beijing_km": 4942.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Gypjak",
+    "name_en": null,
+    "lat": 37.9987787,
+    "lon": 58.304844,
+    "distance_km": 9.7,
+    "operator": null
+   },
+   {
+    "name": "Aşgabat",
+    "name_en": "Ashgabat",
+    "lat": 37.943221,
+    "lon": 58.3961038,
+    "distance_km": 16.1,
+    "operator": null
+   },
+   {
+    "name": "Babarap",
+    "name_en": null,
+    "lat": 38.0861367,
+    "lon": 58.1437592,
+    "distance_km": 16.2,
+    "operator": null
+   },
+   {
+    "name": "Büzmeýin",
+    "name_en": null,
+    "lat": 38.1026274,
+    "lon": 58.0803585,
+    "distance_km": 20.4,
+    "operator": null
+   },
+   {
+    "name": "Rzd. No 1",
+    "name_en": null,
+    "lat": 38.1379901,
+    "lon": 58.215936,
+    "distance_km": 20.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Diwan",
+   "name_en": "Nusay",
+   "stars": 3,
+   "brand": null,
+   "lat": 37.9294442,
+   "lon": 58.3866378,
+   "distance_km": 15.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bezirgen Hotel",
+   "name_en": "Bezirgen Hotel",
+   "stars": 1,
+   "brand": null,
+   "lat": 37.9516259,
+   "lon": 58.3557008,
+   "distance_km": 12.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kuwwat Myhmanhanasy",
+   "name_en": "Kuwwat Hotel",
+   "stars": 1,
+   "brand": null,
+   "lat": 37.9473294,
+   "lon": 58.380796,
+   "distance_km": 14.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Arkadag Oteli",
+   "name_en": "Arkadag Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.8927216,
+   "lon": 58.289299,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gypjak Myhmanhanasy",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.0275713,
+   "lon": 58.2627236,
+   "distance_km": 9.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TM",
   "country_zh": "土库曼斯坦",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:00Z"
+ "updated_at": "2026-11-08T16:49:46Z"
 }

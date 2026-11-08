@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: 1.3151
 lon: 103.8162
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:23Z"
 ---
 
 # 新加坡植物园 / Singapore Botanic Gardens
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:01Z"
 
 *Singapore Botanic Gardens Palm Valley.jpg · see Wikimedia Commons file page*
 
-![Singapore Botanic Gardens](https://whc.unesco.org/uploads/sites/site_1483.jpg)
+![190a Singapore Botanic Gardens 1971 (51251582877).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/190a_Singapore_Botanic_Gardens_1971_%2851251582877%29.jpg/1280px-190a_Singapore_Botanic_Gardens_1971_%2851251582877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Singapore Botanic Gardens · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*190a Singapore Botanic Gardens 1971 (51251582877).jpg · wilford peloquin · CC BY 2.0*
+
+![191a Singapore Botanic Gardens (51253058334).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/191a_Singapore_Botanic_Gardens_%2851253058334%29.jpg/1280px-191a_Singapore_Botanic_Gardens_%2851253058334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*191a Singapore Botanic Gardens (51253058334).jpg · wilford peloquin · CC BY 2.0*
+
+![2016 Singapur, Ogrody botaniczne (032).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2016_Singapur%2C_Ogrody_botaniczne_%28032%29.jpg/1280px-2016_Singapur%2C_Ogrody_botaniczne_%28032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016 Singapur, Ogrody botaniczne (032).jpg · Marcin Konsek · CC BY-SA 4.0*
+
+![2016 Singapur, Ogrody botaniczne (074).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2016_Singapur%2C_Ogrody_botaniczne_%28074%29.jpg/1280px-2016_Singapur%2C_Ogrody_botaniczne_%28074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016 Singapur, Ogrody botaniczne (074).jpg · Marcin Konsek · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,25 @@ Situated at the heart of the city of Singapore, the site demonstrates the evolut
 - ✈ **Seletar Airport (XSP)** — 12.5 km
 - ✈ **Singapore Changi Airport (SIN)** — 20.1 km
 - ✈ **Senai International Airport (JHB)** — 39.7 km
+- 🚉 **VivoCity** — 5.6 km
+- 🚉 **Resorts World** — 6.6 km
+- 🚉 **Imbiah** — 6.8 km
+- 🚉 **Beach** — 7.1 km
+- 🚉 **Pending** — 8.4 km
+- ⛴ **Pasir Panjang Ferry Terminal** — 5.5 km
+- ⛴ **Singapore Cruise Centre (HarbourFront) Terminal** — 5.7 km
+- ⛴ **Harbourfront** — 5.8 km
+- ⛴ **Singapore River Cruise** — 5.8 km
+- ⛴ **West Coast Ferry Terminal** — 6.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4487.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Shangri-La Hotel Singapore** — 1.2 km — star — Shangri-La Hotel Singapore · 5★ · Shangri-La Hotels and Resorts
+- **The St. Regis Singapore** — 1.5 km — star — 5★
+- **voco Orchard Singapore** — 1.8 km — star — 5★ · voco
+- **PARKROYAL COLLECTION Pickering, Singapore** — 4.7 km — star — 5★ · PARKROYAL
+- **Raffles Hotel** — 4.8 km — star — Raffles Hotel · 5★ · Raffles
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

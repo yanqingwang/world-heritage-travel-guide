@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 28.485277777
 lon: -16.316666666
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:19Z"
 ---
 
 # 拉古纳的圣克斯托瓦尔 / San Cristóbal de La Laguna
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *San Cristóbal de La Laguna, en Santa Cruz de Tenerife (España).jpg · see Wikimedia Commons file page*
 
-![San Cristóbal de La Laguna](https://whc.unesco.org/uploads/sites/site_929.jpg)
+!["Entrada del Camino Largo, La Laguna".png](https://upload.wikimedia.org/wikipedia/commons/e/e8/%22Entrada_del_Camino_Largo%2C_La_Laguna%22.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*San Cristóbal de La Laguna · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Entrada del Camino Largo, La Laguna".png · Isinbill · CC BY-SA 4.0*
+
+![AnaGuerra Firma2018.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/AnaGuerra_Firma2018.jpg/1280px-AnaGuerra_Firma2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AnaGuerra Firma2018.jpg · Informatrix · CC BY-SA 4.0*
+
+![Archaeological dig near San Cristobal de La Laguna cathedral.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Archaeological_dig_near_San_Cristobal_de_La_Laguna_cathedral.jpg/1280px-Archaeological_dig_near_San_Cristobal_de_La_Laguna_cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archaeological dig near San Cristobal de La Laguna cathedral.jpg · ArticCynda · CC BY-SA 4.0*
+
+![At La Laguna, Tenerife 2019 087.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/At_La_Laguna%2C_Tenerife_2019_087.jpg/1280px-At_La_Laguna%2C_Tenerife_2019_087.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*At La Laguna, Tenerife 2019 087.jpg · Photograph by Mike Peel ( www.mikepeel.net ). · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Situado en las Islas Canarias, el sitio de San Cristóbal de La Laguna comprende
 - ✈ **Tenerife Norte-Ciudad de La Laguna Airport (TFN)** — 2.5 km
 - ✈ **Tenerife Sur Airport (TFS)** — 55.0 km
 - ✈ **La Gomera Airport (GMZ)** — 101.5 km
+- ⛴ **Fred. Olsen Express Terminal Santa Cruz de Tenerife** — 7.1 km
+- ⛴ **Fred Olsen** — 7.1 km
+- ⛴ **Naviera Armas** — 7.2 km
+- ⛴ **Fred. Olsen Terminal Santa Cruz de Tenerife** — 7.2 km
+- ⛴ **Terminal Baleària** — 7.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10973.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Iberostar Heritage Grand Mencey** — 6.3 km — star — 5★ · Iberostar Hotels & Resorts
+- **Semiramis** — 22.7 km — star — 5★ · Best Hotels
+- **Gran Hotel Taoro** — 24.0 km — star — 5★
+- **Radisson Resort & Residences Tenerife** — 24.3 km — star — 5★ · Radisson
+- **Hotel Laguna Nivaria** — 0.4 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

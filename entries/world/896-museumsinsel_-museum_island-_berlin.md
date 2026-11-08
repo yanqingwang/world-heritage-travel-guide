@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 52.521388888
 lon: 13.395555555
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:13Z"
 ---
 
 # 柏林的博物馆岛 / Museumsinsel (Museum Island), Berlin
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:57Z"
 
 *Berlin Museumsinsel Fernsehturm.jpg · see Wikimedia Commons file page*
 
-![Museumsinsel (Museum Island), Berlin](https://whc.unesco.org/uploads/sites/site_896.jpg)
+![(20240611) Berlin sunset 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%2820240611%29_Berlin_sunset_03.jpg/1280px-%2820240611%29_Berlin_sunset_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Museumsinsel (Museum Island), Berlin · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*(20240611) Berlin sunset 03.jpg · Roy Zuo · CC BY-SA 4.0*
+
+![(20240611) Berlin sunset 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%2820240611%29_Berlin_sunset_04.jpg/1280px-%2820240611%29_Berlin_sunset_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*(20240611) Berlin sunset 04.jpg · Roy Zuo · CC BY-SA 4.0*
+
+![(20260607) Berlin Museum Island 130300.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%2820260607%29_Berlin_Museum_Island_130300.jpg/1280px-%2820260607%29_Berlin_Museum_Island_130300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*(20260607) Berlin Museum Island 130300.jpg · Roy Zuo · CC BY-SA 4.0*
+
+![(20260607) Berlin Museum Island 131536.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/%2820260607%29_Berlin_Museum_Island_131536.jpg/1280px-%2820260607%29_Berlin_Museum_Island_131536.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*(20260607) Berlin Museum Island 131536.jpg · Roy Zuo · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Die Museumsinsel ist ein aus fünf Museen bestehendes Bauensemble im nördlichen
 - ✈ **Berlin Brandenburg Airport (BER)** — 19.2 km
 - ✈ **Leipzig/Halle Airport (LEJ)** — 146.0 km
 - ✈ **Solidarity Szczecin–Goleniów Airport (SZZ)** — 155.3 km
+- 🚉 **Oranienburger Straße** — 0.5 km
+- 🚉 **Berlin Friedrichstraße** — 0.6 km
+- 🚉 **S Friedrichstraße** — 0.6 km
+- 🚉 **Alexanderplatz** — 1.1 km
+- 🚉 **Nordbahnhof** — 1.3 km
+- ⛴ **Vera-Brittain-Ufer** — 0.4 km
+- ⛴ **Berliner Dom** — 0.4 km
+- ⛴ **Reichstagufer** — 0.5 km
+- ⛴ **Reederei** — 0.6 km
+- ⛴ **Spree & Havelschiffahrt** — 0.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7357.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel de Rome** — 0.6 km — star — 5★ · Rocco Forte Hotels
+- **The Westin Grand Berlin** — 0.8 km — star — 5★ · Westin
+- **Hilton Berlin** — 1.1 km — star — 5★ · Hilton
+- **Adlon Kempinski** — 1.2 km — star — 5★ · Kempinski
+- **The Ritz-Carlton** — 1.8 km — star — 5★ · The Ritz-Carlton
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

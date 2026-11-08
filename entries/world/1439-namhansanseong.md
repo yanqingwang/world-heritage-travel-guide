@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iv)"
 lat: 37.47802778
 lon: 127.18419444
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:11Z"
 ---
 
 # 南漢山城 / Namhansanseong
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:01Z"
 
 *Khitai5.jpg · see Wikimedia Commons file page*
 
-![Namhansanseong](https://whc.unesco.org/uploads/sites/site_1439.jpg)
+![Crucifixion of Christ in Fortress Martyrs Namhansanseong.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Crucifixion_of_Christ_in_Fortress_Martyrs_Namhansanseong.jpg/1280px-Crucifixion_of_Christ_in_Fortress_Martyrs_Namhansanseong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Namhansanseong · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Crucifixion of Christ in Fortress Martyrs Namhansanseong.jpg · Republic of Korea · CC BY-SA 2.0*
+
+![Crucifixion of Christ-02 in Fortress Martyrs Namhansanseong.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Crucifixion_of_Christ-02_in_Fortress_Martyrs_Namhansanseong.jpg/1280px-Crucifixion_of_Christ-02_in_Fortress_Martyrs_Namhansanseong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Crucifixion of Christ-02 in Fortress Martyrs Namhansanseong.jpg · Republic of Korea · CC BY-SA 2.0*
+
+![Korea Namhansanseong Fortress Martyrs Site 01 (13955072679).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Korea_Namhansanseong_Fortress_Martyrs_Site_01_%2813955072679%29.jpg/1280px-Korea_Namhansanseong_Fortress_Martyrs_Site_01_%2813955072679%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Korea Namhansanseong Fortress Martyrs Site 01 (13955072679).jpg · Republic of Korea from Seoul, Republic of Korea · CC BY-SA 2.0*
+
+![Korea Namhansanseong Fortress Martyrs Site 05 (14141736525).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Korea_Namhansanseong_Fortress_Martyrs_Site_05_%2814141736525%29.jpg/1280px-Korea_Namhansanseong_Fortress_Martyrs_Site_05_%2814141736525%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Korea Namhansanseong Fortress Martyrs Site 05 (14141736525).jpg · Republic of Korea from Seoul, Republic of Korea · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Namhansanseong was designed as an emergency capital for the Joseon dynasty (1392
 - ✈ **Seoul Gimpo International Airport (GMP)** — 35.8 km
 - ✈ **Incheon International Airport (ICN)** — 64.7 km
 - ✈ **Wonju Airport / Hoengseong Air Base (K-38/K-46) (WJU)** — 68.6 km
+- 🚉 **복정** — 5.1 km
+- 🚉 **가천대** — 6.0 km
+- 🚉 **태평** — 6.6 km
+- 🚉 **수서** — 7.1 km
+- 🚉 **야탑** — 8.9 km
+- ⛴ **한강버스 잠실선착장** — 9.9 km
+- ⛴ **한강버스 뚝섬선착장** — 11.8 km
+- ⛴ **한강버스 서울숲선착장** — 14.3 km
+- ⛴ **한강버스 압구정선착장** — 15.8 km
+- ⛴ **한강버스 옥수선착장** — 16.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **927.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Sofitel** — 8.0 km — star — Sofitel Ambassador Seoul Hotel & Serviced Residences · 5★ · Sofitel
+- **시그니엘 서울** — 8.1 km — star — Signiel Seoul · 5★ · 시그니엘
+- **오크우드 프리미어 코엑스센터 서울** — 11.7 km — star — Oakwood Premier Coex Center, Seoul · 5★
+- **DoubleTree by Hilton Seoul Pangyo** — 12.9 km — star — 5★ · DoubleTree
+- **ANdAZ** — 14.7 km — star — 5★ · ANdAZ
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

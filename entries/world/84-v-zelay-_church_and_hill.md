@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(vi)"
 lat: 47.466388888
 lon: 3.748333333
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:42Z"
 ---
 
 # 韦兹莱教堂和山丘 / Vézelay, Church and Hill

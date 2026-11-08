@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_908.jpg",
-   "title": "Isole Eolie (Aeolian Islands)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/908",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sicily_in_the_Year_1825_-_Elizabeth_Campbell_-_06.jpg/1280px-Sicily_in_the_Year_1825_-_Elizabeth_Campbell_-_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sicily in the Year 1825 - Elizabeth Campbell - 06.jpg",
+   "author": "Elizabeth Campbell",
+   "license": "Public domain",
+   "credit": "https://www.abbottandholder-thelist.co.uk/elizabeth-campbell-sicily-1825/",
+   "source": "https://commons.wikimedia.org/wiki/File:Sicily_in_the_Year_1825_-_Elizabeth_Campbell_-_06.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2009-04-23_%2834%29_Mountain%2C_Berg.JPG/1280px-2009-04-23_%2834%29_Mountain%2C_Berg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2009-04-23 (34) Mountain, Berg.JPG",
+   "author": "Vera Buhl",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-04-23_%2834%29_Mountain%2C_Berg.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Aeolian_island_%2813%29.jpg/1280px-Aeolian_island_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aeolian island (13).jpg",
+   "author": "stefan_fotos from Leipzig, Germany",
+   "license": "CC BY-SA 2.0",
+   "credit": "Aeolian island",
+   "source": "https://commons.wikimedia.org/wiki/File:Aeolian_island_%2813%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Aeolian_island_%2814%29.jpg/1280px-Aeolian_island_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aeolian island (14).jpg",
+   "author": "stefan_fotos from Leipzig, Germany",
+   "license": "CC BY-SA 2.0",
+   "credit": "Aeolian island",
+   "source": "https://commons.wikimedia.org/wiki/File:Aeolian_island_%2814%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/908",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 78.4,
   "distance_beijing_km": 8181.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Porto Pignataro",
+    "name_en": "Pignataro Marina",
+    "lat": 38.4774499,
+    "lon": 14.9626926,
+    "distance_km": 3.2,
+    "operator": null
+   },
+   {
+    "name": "Lipari",
+    "name_en": null,
+    "lat": 38.4713837,
+    "lon": 14.9556925,
+    "distance_km": 3.3,
+    "operator": null
+   },
+   {
+    "name": "Siremar",
+    "name_en": null,
+    "lat": 38.4697157,
+    "lon": 14.9559009,
+    "distance_km": 3.5,
+    "operator": null
+   },
+   {
+    "name": "Liberty Lines",
+    "name_en": null,
+    "lat": 38.4697647,
+    "lon": 14.9567182,
+    "distance_km": 3.5,
+    "operator": null
+   },
+   {
+    "name": "Marina Corta",
+    "name_en": null,
+    "lat": 38.4635434,
+    "lon": 14.9576023,
+    "distance_km": 4.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Gioiosa Marea",
+    "name_en": null,
+    "lat": 38.1750947,
+    "lon": 14.8950032,
+    "distance_km": 35.9,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "San Giorgio",
+    "name_en": null,
+    "lat": 38.1739361,
+    "lon": 14.9440472,
+    "distance_km": 35.9,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Brolo-Ficarra",
+    "name_en": null,
+    "lat": 38.1592008,
+    "lon": 14.8302047,
+    "distance_km": 38.6,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Patti-San Piero Patti",
+    "name_en": null,
+    "lat": 38.1469838,
+    "lon": 14.9753585,
+    "distance_km": 39.0,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Capo d'Orlando-Naso",
+    "name_en": null,
+    "lat": 38.1579307,
+    "lon": 14.7448825,
+    "distance_km": 41.2,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "La Villetta",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4943367,
+   "lon": 14.9602776,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Oltremare",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4950638,
+   "lon": 14.9608532,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residence Acanto",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4685435,
+   "lon": 14.9556266,
+   "distance_km": 3.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residence Alberghiero Eilir",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4665675,
+   "lon": 14.95463,
+   "distance_km": 3.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Meligunis",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.4639626,
+   "lon": 14.9560653,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:57Z"
+ "updated_at": "2026-11-08T16:48:16Z"
 }

@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 21.017777777
 lon: -101.256666666
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:44Z"
 ---
 
 # 瓜纳托历史名城及周围矿藏 / Historic Town of Guanajuato and Adjacent Mines
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Guanajuato30 guanajuato.jpg · see Wikimedia Commons file page*
 
-![Historic Town of Guanajuato and Adjacent Mines](https://whc.unesco.org/uploads/sites/site_482.jpg)
+![Adenophyllum porophyllum (Asteraceae).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Adenophyllum_porophyllum_%28Asteraceae%29.jpg/1280px-Adenophyllum_porophyllum_%28Asteraceae%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Town of Guanajuato and Adjacent Mines · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Adenophyllum porophyllum (Asteraceae).jpg · Juan Carlos Fonseca Mata · CC BY-SA 4.0*
+
+![Adenophyllum porophyllum var. radiatum (Asteraceae).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Adenophyllum_porophyllum_var._radiatum_%28Asteraceae%29.jpg/1280px-Adenophyllum_porophyllum_var._radiatum_%28Asteraceae%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Adenophyllum porophyllum var. radiatum (Asteraceae).jpg · Juan Carlos Fonseca Mata · CC BY-SA 4.0*
+
+![Adenophyllum porophyllum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Adenophyllum_porophyllum.jpg/1280px-Adenophyllum_porophyllum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Adenophyllum porophyllum.jpg · Juan Carlos Fonseca Mata · CC BY-SA 4.0*
+
+![Altar Santa Muerte.jpg](https://upload.wikimedia.org/wikipedia/commons/5/55/Altar_Santa_Muerte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Altar Santa Muerte.jpg · Zus Vázquez · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Fundada por los españoles a comienzos del siglo XV, esta ciudad se convirtió e
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Quinta Las Alondras** — 4.9 km — star — 5★
+- **Hotel Paseo de la Presa** — 1.3 km — star — 4★
+- **Gran Plaza & Convention Center** — 4.5 km — star — 4★
+- **Holiday Inn Express Guanajuato** — 4.5 km — star — 4★ · Holiday Inn Express
+- **NH Collection** — 42.5 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

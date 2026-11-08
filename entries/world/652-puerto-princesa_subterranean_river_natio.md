@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(vii)(x)"
 lat: 10.166666666
 lon: 118.916666666
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:37Z"
 ---
 
 # 普林塞萨港地下河国家公园 / Puerto-Princesa Subterranean River National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:55Z"
 
 *Puerto Princesa Underground River.jpg · see Wikimedia Commons file page*
 
-![Puerto-Princesa Subterranean River National Park](https://whc.unesco.org/uploads/sites/site_652.jpg)
+!["Sagrada Familia sa Kweba".jpg](https://upload.wikimedia.org/wikipedia/commons/6/6d/%22Sagrada_Familia_sa_Kweba%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Puerto-Princesa Subterranean River National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Sagrada Familia sa Kweba".jpg · Nadine Dominisse B. Vacante · CC BY-SA 4.0*
+
+![Astonishing Underground River.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Astonishing_Underground_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Astonishing Underground River.jpg · Micah Noel Perpetua · CC BY-SA 3.0*
+
+![Bats of Puerto Princesa Underground River.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bats_of_Puerto_Princesa_Underground_River.jpg/1280px-Bats_of_Puerto_Princesa_Underground_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bats of Puerto Princesa Underground River.jpg · Adrian N. DG. Nualda · CC BY-SA 4.0*
+
+![Caves entranceexit.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0b/Caves_entranceexit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Caves entranceexit.jpg · Paul Chin · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ This park features a spectacular limestone karst landscape with an underground r
 - ✈ **Puerto Princesa International Airport / PAF Antonio Bautista Air Base (PPS)** — 50.3 km
 - ✈ **San Vicente Airport (SWL)** — 55.7 km
 - ✈ **El Nido Airport (ENI)** — 127.4 km
+- ⛴ **Mangrove River Paddle Boat** — 3.6 km
+- ⛴ **Sabang** — 4.3 km
+- ⛴ **Dos Palmas** — 28.3 km
+- ⛴ **Honda Bay Wharf** — 38.0 km
+- ⛴ **Santa Lourdes Wharf** — 40.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3380.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Dolce Vita** — 49.5 km — star — 3★
+- **Holiday Suites** — 39.1 km — chain
+- **Microtel by Wyndham Puerto Princesa** — 44.7 km — chain
+- **Bambua Nature Park Resort** — 3.3 km — hotel
+- **Hill Myna** — 3.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

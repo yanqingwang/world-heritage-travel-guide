@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_98.jpg",
-   "title": "Plitvice Lakes National Park",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/98",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Plitvice_Lakes_National_Park%2C_Croatia_in_Ultra_4k.webm/1280px--Plitvice_Lakes_National_Park%2C_Croatia_in_Ultra_4k.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "Plitvice Lakes National Park, Croatia in Ultra 4k.webm",
+   "author": "Le Monde en Vidéo",
+   "license": "CC BY 3.0",
+   "credit": "YouTube : Plitvice Lakes National Park, Croatia in Ultra 4k – View/save archived versions on archive.org",
+   "source": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes_National_Park%2C_Croatia_in_Ultra_4k.webm"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1.Plitvice_Lakes.jpg/1280px-1.Plitvice_Lakes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1.Plitvice Lakes.jpg",
+   "author": "Nayeemkhan78",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1.Plitvice_Lakes.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/1913_maps_of_Plitvica_Lakes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1913 maps of Plitvica Lakes.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "Leibniz-Institut für Ost- und Südosteuropaforschung (IOS) GeoPortOst",
+   "source": "https://commons.wikimedia.org/wiki/File:1913_maps_of_Plitvica_Lakes.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/1980_Plitvice_Lakes_National_Park_KB-034-01.jpg/1280px-1980_Plitvice_Lakes_National_Park_KB-034-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1980 Plitvice Lakes National Park KB-034-01.jpg",
+   "author": "Eckhard Henkel",
+   "license": "CC BY-SA 3.0 de",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1980_Plitvice_Lakes_National_Park_KB-034-01.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/98",
@@ -97,10 +121,140 @@
   ],
   "nearest_airport_km": 89.6,
   "distance_beijing_km": 7790.5,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "P2 (brod prema P3)",
+    "name_en": "P2 (ferry to P3)",
+    "lat": 44.8800864,
+    "lon": 15.6154064,
+    "distance_km": 0.1,
+    "operator": null
+   },
+   {
+    "name": "P1",
+    "name_en": null,
+    "lat": 44.8803863,
+    "lon": 15.6171703,
+    "distance_km": 0.1,
+    "operator": null
+   },
+   {
+    "name": "P2 (brod prema P1)",
+    "name_en": "P2 (ferry to P1)",
+    "lat": 44.8800147,
+    "lon": 15.6155754,
+    "distance_km": 0.1,
+    "operator": null
+   },
+   {
+    "name": "P3",
+    "name_en": null,
+    "lat": 44.8934662,
+    "lon": 15.6037073,
+    "distance_km": 1.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Vrhovine",
+    "name_en": null,
+    "lat": 44.8488963,
+    "lon": 15.4270893,
+    "distance_km": 15.3,
+    "operator": null
+   },
+   {
+    "name": "Bihać",
+    "name_en": null,
+    "lat": 44.8185898,
+    "lon": 15.8868206,
+    "distance_km": 22.4,
+    "operator": "Željeznice Federacije Bosne i Hercegovine"
+   },
+   {
+    "name": "Ličko Lešće",
+    "name_en": null,
+    "lat": 44.7731487,
+    "lon": 15.3587789,
+    "distance_km": 23.5,
+    "operator": null
+   },
+   {
+    "name": "Cazin-Srbljani",
+    "name_en": null,
+    "lat": 44.8945034,
+    "lon": 15.9326313,
+    "distance_km": 25.0,
+    "operator": "Željeznice Federacije BiH"
+   },
+   {
+    "name": "Plaški",
+    "name_en": null,
+    "lat": 45.0783176,
+    "lon": 15.3680836,
+    "distance_km": 29.4,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Guest house Oreskovic",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.776387,
+   "lon": 15.689923,
+   "distance_km": 13.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mirjana & Rastoke",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 45.1523106,
+   "lon": 15.5590451,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Macola",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 44.7444346,
+   "lon": 15.7068151,
+   "distance_km": 16.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Josipdol",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 45.1888292,
+   "lon": 15.2857608,
+   "distance_km": 43.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Plitvice",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 44.8817394,
+   "lon": 15.6206333,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "HR",
   "country_zh": "克罗地亚",
@@ -158,5 +312,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:45Z"
 }

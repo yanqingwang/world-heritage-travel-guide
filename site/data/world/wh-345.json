@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_345.jpg",
-   "title": "Historic Fortified City of Carcassonne",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/345",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Album_de_photographies_et_cartes_postales_ayant_appartenu_%C3%A0_Paul-Jean_Toulet_-_btv1b10585049x_%28096_of_103%29.jpg/1280px-Album_de_photographies_et_cartes_postales_ayant_appartenu_%C3%A0_Paul-Jean_Toulet_-_btv1b10585049x_%28096_of_103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Album de photographies et cartes postales ayant appartenu à Paul-Jean Toulet - btv1b10585049x (096 of 103).jpg",
+   "author": "Toulet, Paul-Jean (1867-1920). Fonction indéterminée",
+   "license": "Public domain",
+   "credit": "Bibliothèque nationale de France",
+   "source": "https://commons.wikimedia.org/wiki/File:Album_de_photographies_et_cartes_postales_ayant_appartenu_%C3%A0_Paul-Jean_Toulet_-_btv1b10585049x_%28096_of_103%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aude_Carcassonne_Porte_D%27Aude_-_panoramio.jpg/1280px-Aude_Carcassonne_Porte_D%27Aude_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aude Carcassonne Porte D'Aude - panoramio.jpg",
+   "author": "rene boulay",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161031191418/http://www.panoramio.com/photo/127498453",
+   "source": "https://commons.wikimedia.org/wiki/File:Aude_Carcassonne_Porte_D%27Aude_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Aude_Carcassonne_Porte_Narbonnaise_Vue_Remparts_-_panoramio.jpg/1280px-Aude_Carcassonne_Porte_Narbonnaise_Vue_Remparts_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aude Carcassonne Porte Narbonnaise Vue Remparts - panoramio.jpg",
+   "author": "rene boulay",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161031032637/http://www.panoramio.com/photo/127497519",
+   "source": "https://commons.wikimedia.org/wiki/File:Aude_Carcassonne_Porte_Narbonnaise_Vue_Remparts_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aude_Carcassonne_Remparts_071993_-_panoramio.jpg/1280px-Aude_Carcassonne_Remparts_071993_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aude Carcassonne Remparts 071993 - panoramio.jpg",
+   "author": "rene boulay",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161101040718/http://www.panoramio.com/photo/127498546",
+   "source": "https://commons.wikimedia.org/wiki/File:Aude_Carcassonne_Remparts_071993_-_panoramio.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/345",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 4.8,
   "distance_beijing_km": 8649.2,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de Carcassonne",
+    "name_en": null,
+    "lat": 43.2173889,
+    "lon": 2.350408,
+    "distance_km": 1.6,
+    "operator": null
+   },
+   {
+    "name": "Port de Bram",
+    "name_en": null,
+    "lat": 43.2551841,
+    "lon": 2.1269526,
+    "distance_km": 19.9,
+    "operator": null
+   },
+   {
+    "name": "Port La Fabrique",
+    "name_en": null,
+    "lat": 43.2477888,
+    "lon": 2.6593173,
+    "distance_km": 24.4,
+    "operator": null
+   },
+   {
+    "name": "Port Minervois",
+    "name_en": null,
+    "lat": 43.2683681,
+    "lon": 2.716405,
+    "distance_km": 29.4,
+    "operator": null
+   },
+   {
+    "name": "Port de Plaisance du Canal du Midi",
+    "name_en": null,
+    "lat": 43.3130187,
+    "lon": 1.9567032,
+    "distance_km": 35.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Carcassonne",
+    "name_en": null,
+    "lat": 43.2182119,
+    "lon": 2.3517783,
+    "distance_km": 1.6,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Verzeille",
+    "name_en": null,
+    "lat": 43.1304846,
+    "lon": 2.3214202,
+    "distance_km": 9.1,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Pomas",
+    "name_en": null,
+    "lat": 43.1121416,
+    "lon": 2.2883141,
+    "distance_km": 12.1,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Bram",
+    "name_en": null,
+    "lat": 43.2439953,
+    "lon": 2.1194279,
+    "distance_km": 20.2,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Mazamet",
+    "name_en": null,
+    "lat": 43.4979217,
+    "lon": 2.3748348,
+    "distance_km": 32.4,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hôtel de la Cité",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.2057348,
+   "lon": 2.3626178,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel du Roi & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.2108451,
+   "lon": 2.3581764,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Le Donjon",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western",
+   "lat": 43.206385,
+   "lon": 2.3635302,
+   "distance_km": 0.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Le Pont Levis",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.2056404,
+   "lon": 2.3671741,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Montmorency",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.2070076,
+   "lon": 2.3669262,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:53Z"
+ "updated_at": "2026-11-08T16:45:16Z"
 }

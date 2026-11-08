@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1587.jpg",
-   "title": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1587",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BLU-26_cluster_sub-munition.JPG/1280px-BLU-26_cluster_sub-munition.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "BLU-26 cluster sub-munition.JPG",
+   "author": "Seabifar",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:BLU-26_cluster_sub-munition.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ebene_der_Tonkr%C3%BCge_Laos.JPG/1280px-Ebene_der_Tonkr%C3%BCge_Laos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ebene der Tonkrüge Laos.JPG",
+   "author": "Danielloh79",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ebene_der_Tonkr%C3%BCge_Laos.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/MAG_Marker_Brick.jpg/1280px-MAG_Marker_Brick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "MAG Marker Brick.jpg",
+   "author": "User: (WT-shared) Drewsloan at wts wikivoyage",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:MAG_Marker_Brick.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Mobilier-Laos.JPG/1280px-Mobilier-Laos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mobilier-Laos.JPG",
+   "author": "Chaoborus",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mobilier-Laos.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1587",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Xiengkhuang view",
+   "name_en": "Xiengkhuang view",
+   "stars": null,
+   "brand": null,
+   "lat": 19.4391089,
+   "lon": 103.19207,
+   "distance_km": 4.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Saysavanh Guesthouse",
+   "name_en": "Saysavanh Guesthouse",
+   "stars": null,
+   "brand": null,
+   "lat": 19.454553,
+   "lon": 103.1969506,
+   "distance_km": 5.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ethnic Cultural Guest House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4556063,
+   "lon": 103.1999442,
+   "distance_km": 5.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Maly Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4461616,
+   "lon": 103.2071353,
+   "distance_km": 6.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "5 ber guesthouse",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.4558738,
+   "lon": 103.2053122,
+   "distance_km": 6.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "LA",
   "country_zh": "老挝",
@@ -158,5 +238,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:02Z"
+ "updated_at": "2026-11-08T16:50:41Z"
 }

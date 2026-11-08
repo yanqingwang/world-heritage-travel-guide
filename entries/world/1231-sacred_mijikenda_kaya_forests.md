@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(v)(vi)"
 lat: -3.9319444444444
 lon: 39.596111111111
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:45Z"
 ---
 
 # 米吉肯达卡亚圣林 / Sacred Mijikenda Kaya Forests

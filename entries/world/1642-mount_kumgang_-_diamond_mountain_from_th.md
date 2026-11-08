@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vii)"
 lat: 38.656763888
 lon: 128.104902777
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:50:56Z"
 ---
 
 # 金刚山——海上钻石山 / Mount Kumgang – Diamond Mountain from the Sea
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:03Z"
 
 *0438 - Nordkorea 2015 - Kumgang Gebirge - Kuryong Fasserfall (22543108597).jpg · see Wikimedia Commons file page*
 
-![Mount Kumgang – Diamond Mountain from the Sea](https://whc.unesco.org/uploads/sites/site_1642.jpg)
+![0331 - Nordkorea 2015 - Kumgang Gebirge (22341968203).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/0331_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822341968203%29.jpg/1280px-0331_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822341968203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mount Kumgang – Diamond Mountain from the Sea · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0331 - Nordkorea 2015 - Kumgang Gebirge (22341968203).jpg · Uwe Brodrecht · CC BY-SA 2.0*
+
+![0332 - Nordkorea 2015 - Kumgang Gebirge (22570978989).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/0332_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822570978989%29.jpg/1280px-0332_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822570978989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0332 - Nordkorea 2015 - Kumgang Gebirge (22570978989).jpg · Uwe Brodrecht · CC BY-SA 2.0*
+
+![0339 - Nordkorea 2015 - Kumgang Gebirge (22340278614) (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29_%28cropped%29.jpg/1280px-0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0339 - Nordkorea 2015 - Kumgang Gebirge (22340278614) (cropped).jpg · Uwe Brodrecht · CC BY-SA 2.0*
+
+![0339 - Nordkorea 2015 - Kumgang Gebirge (22340278614).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29.jpg/1280px-0339_-_Nordkorea_2015_-_Kumgang_Gebirge_%2822340278614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*0339 - Nordkorea 2015 - Kumgang Gebirge (22340278614).jpg · Uwe Brodrecht · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Mount Kumgang is a long-celebrated place of exceptional natural beauty, renowned
 - ✈ **Wonsan Kalma Airport (WOS)** — 77.8 km
 - ✈ **Yangyang International Airport (YNY)** — 82.6 km
 - ✈ **Sondok Airport (DSO)** — 132.7 km
+- 🚉 **금강산청년** — 10.4 km
+- 🚉 **고성** — 11.5 km
+- 🚉 **남애** — 15.3 km
+- 🚉 **삼일포** — 18.9 km
+- 🚉 **감호** — 20.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **938.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **내금강휴계소** — 6.3 km — hotel — Naekumgang Rest House
+- **금강산호텔** — 7.7 km — hotel
+- **외금강호텔** — 8.7 km — hotel — Oegumgang Hotel
+- **호텔해금강** — 11.7 km — hotel — Hotel Haegumgang
+- **금강산콘도** — 31.9 km — hotel — Geumgangsan Condominium
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

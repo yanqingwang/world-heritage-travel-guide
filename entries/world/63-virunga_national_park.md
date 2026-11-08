@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)(x)"
 lat: -0.5
 lon: 29.5
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:40Z"
 ---
 
 # 维龙加国家公园 / Virunga National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *Virunga 01.jpg · see Wikimedia Commons file page*
 
-![Virunga National Park](https://whc.unesco.org/uploads/sites/site_63.jpg)
+![Armes et ivoires confisqué par l'ICCN, 2003.jpg](https://upload.wikimedia.org/wikipedia/commons/7/70/Armes_et_ivoires_confisqu%C3%A9_par_l%27ICCN%2C_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Virunga National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Armes et ivoires confisqué par l'ICCN, 2003.jpg · Radio Okapi · CC BY 2.0*
+
+![Bonn zoological bulletin (2013) (19771646634).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Bonn_zoological_bulletin_%282013%29_%2819771646634%29.jpg/1280px-Bonn_zoological_bulletin_%282013%29_%2819771646634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bonn zoological bulletin (2013) (19771646634).jpg · Internet Archive Book Images · No restrictions*
+
+![Bukima Patrol Post.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bukima_Patrol_Post.jpg/1280px-Bukima_Patrol_Post.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bukima Patrol Post.jpg · Cai Tjeenk Willink · CC BY-SA 3.0*
+
+![CD Virunga 001 (17043311989).jpg](https://upload.wikimedia.org/wikipedia/commons/e/e4/CD_Virunga_001_%2817043311989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*CD Virunga 001 (17043311989).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ S'étendant sur 790 000 ha, le parc des Virunga présente une diversité d'habit
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ishasha Wilderness Camp** — 25.2 km — hotel
+- **Ishasha wilderness lodge** — 25.2 km — hotel
+- **Enjojo Lodge** — 26.8 km — hotel
+- **Tree Climbing Lions Lodge** — 27.2 km — hotel
+- **Embogo lodges** — 27.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

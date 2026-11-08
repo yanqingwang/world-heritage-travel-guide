@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(v)(ix)(x)"
 lat: 31.562222
 lon: 47.657778
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:21Z"
 ---
 
 # 伊拉克南部Ahwar：生态多样性避难所和美索不达米亚城市遗迹景观 / The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities

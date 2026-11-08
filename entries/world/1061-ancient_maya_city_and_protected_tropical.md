@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(i)(ii)(iii)(iv)(ix)(x)"
 lat: 18.10539167
 lon: -89.81082778
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:43Z"
 ---
 
 # 卡拉克穆尔古玛雅城与坎佩切热带森林保护区 / Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche

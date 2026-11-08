@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iv)(vi)"
 lat: 43.066666666
 lon: 11.55
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:36Z"
 ---
 
 # 瓦尔•迪奥西亚公园文化景观 / Val d'Orcia
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:58Z"
 
 *Val d'orcia -pienza.JPG · see Wikimedia Commons file page*
 
-![Val d'Orcia](https://whc.unesco.org/uploads/sites/site_1026.jpg)
+![53026 Pienza, Province of Siena, Italy - panoramio (10).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/53026_Pienza%2C_Province_of_Siena%2C_Italy_-_panoramio_%2810%29.jpg/1280px-53026_Pienza%2C_Province_of_Siena%2C_Italy_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Val d'Orcia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*53026 Pienza, Province of Siena, Italy - panoramio (10).jpg · Marco Usan · CC BY 3.0*
+
+![53040 Radicofani, Province of Siena, Italy - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%281%29.jpg/1280px-53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*53040 Radicofani, Province of Siena, Italy - panoramio (1).jpg · Marco Usan · CC BY 3.0*
+
+![53040 Radicofani, Province of Siena, Italy - panoramio (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%282%29.jpg/1280px-53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*53040 Radicofani, Province of Siena, Italy - panoramio (2).jpg · Marco Usan · CC BY 3.0*
+
+![53040 Radicofani, Province of Siena, Italy - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio.jpg/1280px-53040_Radicofani%2C_Province_of_Siena%2C_Italy_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*53040 Radicofani, Province of Siena, Italy - panoramio.jpg · Marco Usan · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ La Val d'Orcia è un ampio territorio collinare situato tra le province di Siena
 - ✈ **Perugia San Francesco d'Assisi – Umbria International Airport (PEG)** — 78.3 km
 - ✈ **Florence Airport, Peretola (FLR)** — 87.1 km
 - ✈ **Marina di Campo Airport (EBA)** — 112.0 km
+- 🚉 **Torrenieri-Montalcino** — 2.2 km
+- 🚉 **Buonconvento** — 9.4 km
+- 🚉 **Monte Amiata** — 10.0 km
+- 🚉 **San Giovanni d'Asso** — 10.3 km
+- 🚉 **Murlo** — 13.2 km
+- ⛴ **Castiglione del Lago** — 41.7 km
+- ⛴ **Punta Navaccia** — 45.2 km
+- ⛴ **Isola Maggiore** — 45.4 km
+- ⛴ **Isola Polvese** — 48.4 km
+- ⛴ **Passignano** — 49.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8039.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **ADLER Thermae** — 7.3 km — star — 5★ · ADLER Spa Resorts & Retreats
+- **Castello di Velona** — 9.3 km — star — 5★
+- **Rosewood Castiglion del Bosco** — 10.6 km — star — 5★ · Rosewood
+- **Borgo Sant'Ambrogio** — 12.2 km — star — 5★
+- **Castello Banfi - Wine Resort** — 15.6 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

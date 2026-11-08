@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_429.jpg",
-   "title": "New Lanark",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/429",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%27Scottish_Ten%27_project_%286447203711%29.jpg/1280px-%27Scottish_Ten%27_project_%286447203711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "'Scottish Ten' project (6447203711).jpg",
+   "author": "Scottish Government",
+   "license": "CC BY 2.0",
+   "credit": "'Scottish Ten' project",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Scottish_Ten%27_project_%286447203711%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2016_-_New_Lanark_%2825613127304%29.jpg/1280px-2016_-_New_Lanark_%2825613127304%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2016 - New Lanark (25613127304).jpg",
+   "author": "marsupium photography",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/hagdorned/25613127304/",
+   "source": "https://commons.wikimedia.org/wiki/File:2016_-_New_Lanark_%2825613127304%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2016_-_New_Lanark_%2825613127764%29.jpg/1280px-2016_-_New_Lanark_%2825613127764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2016 - New Lanark (25613127764).jpg",
+   "author": "marsupium photography",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/hagdorned/25613127764/",
+   "source": "https://commons.wikimedia.org/wiki/File:2016_-_New_Lanark_%2825613127764%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2016_-_New_Lanark_%2825615219843%29.jpg/1280px-2016_-_New_Lanark_%2825615219843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2016 - New Lanark (25615219843).jpg",
+   "author": "marsupium photography",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/hagdorned/25615219843/",
+   "source": "https://commons.wikimedia.org/wiki/File:2016_-_New_Lanark_%2825615219843%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/429",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 40.8,
   "distance_beijing_km": 7935.4,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Broomielaw Quay Pontoon",
+    "name_en": null,
+    "lat": 55.8563099,
+    "lon": -4.2622809,
+    "distance_km": 36.9,
+    "operator": null
+   },
+   {
+    "name": "Seagull Trust Cruises",
+    "name_en": null,
+    "lat": 55.935453,
+    "lon": -4.1594762,
+    "distance_km": 38.4,
+    "operator": null
+   },
+   {
+    "name": "Plantation Quay",
+    "name_en": null,
+    "lat": 55.8586524,
+    "lon": -4.291629,
+    "distance_km": 38.6,
+    "operator": null
+   },
+   {
+    "name": "Hawes Pier",
+    "name_en": null,
+    "lat": 55.9917662,
+    "lon": -3.3862713,
+    "distance_km": 44.1,
+    "operator": null
+   },
+   {
+    "name": "Renfrew Slipway",
+    "name_en": null,
+    "lat": 55.8855697,
+    "lon": -4.382873,
+    "distance_km": 45.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Lanark",
+    "name_en": null,
+    "lat": 55.6735029,
+    "lon": -3.7724229,
+    "distance_km": 1.2,
+    "operator": "ScotRail"
+   },
+   {
+    "name": "Clyde Valley Station",
+    "name_en": null,
+    "lat": 55.6940364,
+    "lon": -3.8610189,
+    "distance_km": 6.0,
+    "operator": null
+   },
+   {
+    "name": "Carstairs",
+    "name_en": null,
+    "lat": 55.6913659,
+    "lon": -3.6693685,
+    "distance_km": 7.7,
+    "operator": "ScotRail"
+   },
+   {
+    "name": "Carluke",
+    "name_en": null,
+    "lat": 55.7311168,
+    "lon": -3.8489342,
+    "distance_km": 8.6,
+    "operator": "ScotRail"
+   },
+   {
+    "name": "Larkhall",
+    "name_en": null,
+    "lat": 55.7386095,
+    "lon": -3.9750115,
+    "distance_km": 14.7,
+    "operator": "ScotRail"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Kimpton Blythswood Square Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Kimpton",
+   "lat": 55.8633892,
+   "lon": -4.2619342,
+   "distance_km": 37.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Glenbervie House Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.0377926,
+   "lon": -3.8463214,
+   "distance_km": 41.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Chester Residence",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.9505558,
+   "lon": -3.2171107,
+   "distance_km": 47.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Edinburgh Residence",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.9509339,
+   "lon": -3.21757,
+   "distance_km": 47.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Caledonian Edinburgh, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Curio Collection",
+   "lat": 55.9495574,
+   "lon": -3.2074836,
+   "distance_km": 47.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GB",
   "country_zh": "英国",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:54Z"
+ "updated_at": "2026-11-08T16:45:36Z"
 }

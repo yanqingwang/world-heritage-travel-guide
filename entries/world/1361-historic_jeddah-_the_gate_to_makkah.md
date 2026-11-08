@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iv)(vi)"
 lat: 21.4833
 lon: 39.2
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:50:03Z"
 ---
 
 # 吉达历史古城（通往麦加之门） / Historic Jeddah, the Gate to Makkah
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:00Z"
 
 *AlBalad CoralHouses.JPG · see Wikimedia Commons file page*
 
-![Historic Jeddah, the Gate to Makkah](https://whc.unesco.org/uploads/sites/site_1361.jpg)
+![7arat Almazlum 1 (3025014532).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/7arat_Almazlum_1_%283025014532%29.jpg/1280px-7arat_Almazlum_1_%283025014532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Jeddah, the Gate to Makkah · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*7arat Almazlum 1 (3025014532).jpg · Nouf Kinani · CC BY 2.0*
+
+![7arat Almazlum 2 (3025012642).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/7arat_Almazlum_2_%283025012642%29.jpg/1280px-7arat_Almazlum_2_%283025012642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*7arat Almazlum 2 (3025012642).jpg · Nouf Kinani · CC BY 2.0*
+
+![Al-Balad, Jeddah.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Al-Balad%2C_Jeddah.jpg/1280px-Al-Balad%2C_Jeddah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al-Balad, Jeddah.jpg · Tahir mq · CC BY-SA 4.0*
+
+![Al-Balad, Yeda, Arabia Saudita, 2025-05-24, DD 08.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Al-Balad%2C_Yeda%2C_Arabia_Saudita%2C_2025-05-24%2C_DD_08.jpg/1280px-Al-Balad%2C_Yeda%2C_Arabia_Saudita%2C_2025-05-24%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Al-Balad, Yeda, Arabia Saudita, 2025-05-24, DD 08.jpg · Diego Delso · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,17 @@ Historic Jeddah is situated on the eastern shore of the Red Sea. From the 7th ce
 - ✈ **King Abdulaziz International Airport (JED)** — 22.3 km
 - ✈ **Taif International Airport (TIF)** — 139.1 km
 - ✈ **King Saud Bin Abdulaziz (Al Baha) Airport (ABT)** — 285.3 km
+- 🚉 **قطار الحرمين السريع - مطار الملك عبدالعزيز الدولي** — 19.9 km
+- ⛴ **Jeddah Islamic Port** — 5.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7436.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Park Hyatt Jeddah** — 5.8 km — star — 5★ · Hyatt
+- **The Hotel Galleria Jeddah, Curio Collection by Hilton** — 8.5 km — star — 5★ · Curio Collection
+- **Waldorf Astoria Jeddah - Qasr Al Sharq** — 16.4 km — star — 5★ · Waldorf Astoria
+- **Shangri-La Jeddah** — 18.2 km — star — 5★ · Shangri-La
+- **فندق موفنبيك جدة** — 6.1 km — star — Movenpick Hotel Jeddah · 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

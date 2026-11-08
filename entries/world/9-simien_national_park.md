@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vii)(x)"
 lat: 13.183333333
 lon: 38.066666666
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:30Z"
 ---
 
 # 塞米恩国家公园 / Simien National Park

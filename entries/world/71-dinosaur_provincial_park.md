@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)"
 lat: 50.7617
 lon: -111.485
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:42Z"
 ---
 
 # 艾伯塔省恐龙公园 / Dinosaur Provincial Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *DinosaurProvincialParkHoodoo.jpg · see Wikimedia Commons file page*
 
-![Dinosaur Provincial Park](https://whc.unesco.org/uploads/sites/site_71.jpg)
+![A deer amongst the Autumn foliage in Dinosaur Provincial Park.jpg](https://upload.wikimedia.org/wikipedia/commons/4/41/A_deer_amongst_the_Autumn_foliage_in_Dinosaur_Provincial_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Dinosaur Provincial Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A deer amongst the Autumn foliage in Dinosaur Provincial Park.jpg · Cassidy.joyes · CC BY-SA 4.0*
+
+![Alberta Beaver.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Alberta_Beaver.jpg/1280px-Alberta_Beaver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alberta Beaver.jpg · Kissmykumbaya · CC0*
+
+![AlbertaBadlands1.jpg](https://upload.wikimedia.org/wikipedia/commons/2/21/AlbertaBadlands1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AlbertaBadlands1.jpg · MRW65 at English Wikipedia · Public domain*
+
+![Albertausorus au Parc provincial Dinosaur.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Albertausorus_au_Parc_provincial_Dinosaur.jpg/1280px-Albertausorus_au_Parc_provincial_Dinosaur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Albertausorus au Parc provincial Dinosaur.jpg · Simon Villeneuve · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Outre ses paysages d'une grande beauté, le parc, situé au cœur des bad-lands 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Sure Stay Plus by Best Western** — 34.3 km — chain — Sure Stay Plus
+- **Ramada by Wyndham Brooks** — 35.1 km — chain — Ramada
+- **Patricia Hotel** — 15.1 km — hotel
+- **Canalta Hotel Brooks** — 34.9 km — hotel
+- **Days Inn & Suites** — 35.2 km — hotel — Days Inn
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

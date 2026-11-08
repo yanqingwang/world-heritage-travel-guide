@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_30.jpg",
-   "title": "Historic Centre of Warsaw",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/30",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/02025_Castrum_Warsovienser_promontory_hillfort%2C_hypsometry.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "02025 Castrum Warsovienser promontory hillfort, hypsometry.png",
+   "author": "Marsilar",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:02025_Castrum_Warsovienser_promontory_hillfort%2C_hypsometry.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/03-05-2019_Royal_Castle_in_Warsaw.jpg/1280px-03-05-2019_Royal_Castle_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "03-05-2019 Royal Castle in Warsaw.jpg",
+   "author": "PanBe",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:03-05-2019_Royal_Castle_in_Warsaw.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/1-300_model_of_Warsaw_Old_Town_in_2nd_half_of_18th_century%2C_in_Museum_of_Warsaw.jpg/1280px-1-300_model_of_Warsaw_Old_Town_in_2nd_half_of_18th_century%2C_in_Museum_of_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1-300 model of Warsaw Old Town in 2nd half of 18th century, in Museum of Warsaw.jpg",
+   "author": "TobyJ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1-300_model_of_Warsaw_Old_Town_in_2nd_half_of_18th_century%2C_in_Museum_of_Warsaw.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gierymski_Gate_in_the_Old_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Gierymski Gate in the Old Town.jpg",
+   "author": "Aleksander Gierymski",
+   "license": "Public domain",
+   "credit": "culture.pl",
+   "source": "https://commons.wikimedia.org/wiki/File:Gierymski_Gate_in_the_Old_Town.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/30",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 9.8,
   "distance_beijing_km": 6943.8,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Podzamcze Fontanny",
+    "name_en": null,
+    "lat": 52.2541878,
+    "lon": 21.0138499,
+    "distance_km": 0.5,
+    "operator": null
+   },
+   {
+    "name": "Zoo",
+    "name_en": null,
+    "lat": 52.2537573,
+    "lon": 21.0188627,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "Stadion Narodowy",
+    "name_en": null,
+    "lat": 52.2369649,
+    "lon": 21.0411147,
+    "distance_km": 2.4,
+    "operator": "Zarząd Transportu Miejskiego w Warszawie"
+   },
+   {
+    "name": "Most Poniatowskiego",
+    "name_en": null,
+    "lat": 52.2356458,
+    "lon": 21.0382896,
+    "distance_km": 2.4,
+    "operator": "Zarząd Transportu Miejskiego w Warszawie"
+   },
+   {
+    "name": "Cypel Czerniakowski",
+    "name_en": null,
+    "lat": 52.2299365,
+    "lon": 21.043464,
+    "distance_km": 3.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Warszawa Gdańska",
+    "name_en": null,
+    "lat": 52.2590955,
+    "lon": 20.9923588,
+    "distance_km": 1.7,
+    "operator": "PKP Polskie Linie Kolejowe"
+   },
+   {
+    "name": "Warszawa Wileńska",
+    "name_en": null,
+    "lat": 52.2558006,
+    "lon": 21.0385505,
+    "distance_km": 1.9,
+    "operator": "Polskie Koleje Państwowe"
+   },
+   {
+    "name": "Warszawa Centralna",
+    "name_en": "Warsaw Central",
+    "lat": 52.2288207,
+    "lon": 21.00316,
+    "distance_km": 2.4,
+    "operator": "PKP Polskie Linie Kolejowe"
+   },
+   {
+    "name": "Warszawa Śródmieście WKD",
+    "name_en": null,
+    "lat": 52.2274779,
+    "lon": 20.9993834,
+    "distance_km": 2.6,
+    "operator": "Warszawska Kolej Dojazdowa"
+   },
+   {
+    "name": "Warszawa Wschodnia",
+    "name_en": null,
+    "lat": 52.2515889,
+    "lon": 21.0523678,
+    "distance_km": 2.7,
+    "operator": "PKP Polskie Linie Kolejowe"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Bellotto",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2451913,
+   "lon": 21.0121493,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Bristol",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2424041,
+   "lon": 21.0161146,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Europejski",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Raffles",
+   "lat": 52.2419019,
+   "lon": 21.0146199,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Warszawa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2356428,
+   "lon": 21.0123205,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Presidential",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 52.2276896,
+   "lon": 21.0048094,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PL",
   "country_zh": "波兰",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:51Z"
+ "updated_at": "2026-11-08T16:42:32Z"
 }

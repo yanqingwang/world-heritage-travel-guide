@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 37.638333333
 lon: 21.63
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:50Z"
 ---
 
 # 奥林匹亚考古遗址 / Archaeological Site of Olympia

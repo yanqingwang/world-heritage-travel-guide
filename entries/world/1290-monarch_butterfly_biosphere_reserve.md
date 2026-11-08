@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(vii)"
 lat: 19.606388888
 lon: -100.241666666
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:51Z"
 ---
 
 # 莫那其蝴蝶生物圈保护区 / Monarch Butterfly Biosphere Reserve

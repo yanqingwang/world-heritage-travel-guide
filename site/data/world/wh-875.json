@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_875.jpg",
-   "title": "Archaeological Ensemble of Tarraco",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/875",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/CIL_II_004294.jpg/1280px-CIL_II_004294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "CIL II 004294.jpg",
+   "author": "Manuel Ramírez Sánchez",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:CIL_II_004294.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/El_M%C3%A9dol%2C_Tarragona..jpg/1280px-El_M%C3%A9dol%2C_Tarragona..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "El Médol, Tarragona..jpg",
+   "author": "Àngela Llop",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:El_M%C3%A9dol%2C_Tarragona..jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hispania_provinces_heb.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Hispania provinces heb.png",
+   "author": "לא ידוע, תורגם על ידי אינגסוק",
+   "license": "CC BY-SA 3.0",
+   "credit": "Image:Hispania 1a division provincial.PNG",
+   "source": "https://commons.wikimedia.org/wiki/File:Hispania_provinces_heb.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hispania3c-gl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Hispania3c-gl.jpg",
+   "author": "Xosé at Galician Wikipedia",
+   "license": "Public domain",
+   "credit": "Transferred from gl.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:Hispania3c-gl.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/875",
@@ -97,10 +121,124 @@
   ],
   "nearest_airport_km": 8.1,
   "distance_beijing_km": 8878.0,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Port de Tarragona",
+    "name_en": null,
+    "lat": 41.0951125,
+    "lon": 1.222517,
+    "distance_km": 3.6,
+    "operator": null
+   },
+   {
+    "name": "Waitan Port",
+    "name_en": null,
+    "lat": 41.0875001,
+    "lon": 1.157971,
+    "distance_km": 8.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Tarragona",
+    "name_en": null,
+    "lat": 41.1112229,
+    "lon": 1.2535366,
+    "distance_km": 0.6,
+    "operator": "Adif"
+   },
+   {
+    "name": "Camp de Tarragona",
+    "name_en": null,
+    "lat": 41.1921725,
+    "lon": 1.2735682,
+    "distance_km": 8.6,
+    "operator": "Adif"
+   },
+   {
+    "name": "Salou-Port Aventura",
+    "name_en": null,
+    "lat": 41.0879174,
+    "lon": 1.1456007,
+    "distance_km": 9.7,
+    "operator": "Adif"
+   },
+   {
+    "name": "Altafulla - Tamarit",
+    "name_en": null,
+    "lat": 41.1366062,
+    "lon": 1.3732969,
+    "distance_km": 10.1,
+    "operator": "Adif"
+   },
+   {
+    "name": "Torredembarra",
+    "name_en": null,
+    "lat": 41.1427922,
+    "lon": 1.4057092,
+    "distance_km": 12.9,
+    "operator": "Adif"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hotel Mansión de Lucy",
+   "name_en": null,
+   "stars": 5,
+   "brand": "PortAventura",
+   "lat": 41.0922791,
+   "lon": 1.1566942,
+   "distance_km": 8.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Salou",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.0771579,
+   "lon": 1.1446919,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Tarraco Park",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.1150281,
+   "lon": 1.218411,
+   "distance_km": 3.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mas La Boella",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.134241,
+   "lon": 1.169945,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palas Pineda",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 41.0677829,
+   "lon": 1.1763177,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -158,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:57Z"
+ "updated_at": "2026-11-08T16:48:08Z"
 }

@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iv)"
 lat: 54.1097
 lon: -1.58139
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:45:21Z"
 ---
 
 # 斯塔德利皇家公园和喷泉修道院遗址 / Studley Royal Park including the Ruins of Fountains Abbey
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Fountains Abbey view02 2005-08-27.jpg · see Wikimedia Commons file page*
 
-![Studley Royal Park including the Ruins of Fountains Abbey](https://whc.unesco.org/uploads/sites/site_372.jpg)
+![1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0001.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0001.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Studley Royal Park including the Ruins of Fountains Abbey · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0001.jpg · Tilman2007 · CC BY-SA 4.0*
+
+![1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0002.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0002.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0002.jpg · Tilman2007 · CC BY-SA 4.0*
+
+![1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0004.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0004.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0004.jpg · Tilman2007 · CC BY-SA 4.0*
+
+![1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0005.jpg/1280px-1149809_I_FOUNTAINS_HALL%2C_exterior_Lindrick_with_Studley_Royal_20260602_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1149809 I FOUNTAINS HALL, exterior Lindrick with Studley Royal 20260602 0005.jpg · Tilman2007 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,22 @@ In the 18th century a designed landscape of exceptional beauty was created aroun
 - ✈ **Leeds Bradford Airport (LBA)** — 27.6 km
 - ✈ **Teesside International Airport (MME)** — 45.5 km
 - ✈ **Manchester Airport (MAN)** — 96.2 km
+- 🚉 **Harrogate** — 13.2 km
+- 🚉 **Knaresborough** — 13.3 km
+- 🚉 **Starbeck** — 13.4 km
+- 🚉 **Hornbeam Park** — 14.8 km
+- 🚉 **Pannal** — 17.1 km
+- ⛴ **Newby Hall Boat Trips** — 7.4 km
+- ⛴ **Leeds Water Taxi Dock** — 35.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8023.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **DoubleTree by Hilton Harrogate Majestic Hotel & Spa** — 12.8 km — star — 4★ · DoubleTree by Hilton
+- **Weetwood Hall** — 30.2 km — star — 4★
+- **42 The Calls** — 35.1 km — star — 4★
+- **Hyatt House Leeds** — 35.2 km — star — 4★ · Hyatt House
+- **DoubleTree by Hilton Leeds City Centre** — 35.2 km — star — 4★ · DoubleTree
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

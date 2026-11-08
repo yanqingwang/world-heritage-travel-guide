@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)"
 lat: 56.9485
 lon: 24.1082
-updated_at: "2026-11-08T16:06:57Z"
+updated_at: "2026-11-08T16:48:07Z"
 ---
 
 # 里加历史中心 / Historic Centre of Riga

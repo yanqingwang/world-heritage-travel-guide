@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1725.jpg",
-   "title": "Megaliths of Carnac and of the shores of Morbihan",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1725",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Alignement_de_Carnac.jpg/1280px-Alignement_de_Carnac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alignement de Carnac.jpg",
+   "author": "IndigoBeluga",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alignement_de_Carnac.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Alignements_de_Carnac.JPG/1280px-Alignements_de_Carnac.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alignements de Carnac.JPG",
+   "author": "Vanbasten 23",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alignements_de_Carnac.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Carnac_alignements_vue_a%C3%A9rienne_2012.0010.11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Carnac alignements vue aérienne 2012.0010.11.jpg",
+   "author": "Philippe Tassier",
+   "license": "Public domain",
+   "credit": "http://www.collections.musee-bretagne.fr/ark:/83011/FLMjo279504",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnac_alignements_vue_a%C3%A9rienne_2012.0010.11.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Description-_Thomas_Smillie_was_the_Smithsonian%27s_first_photographer_and_curator_of_photography._He_and_his_studio_staff_re-shot_many_of_the_photographs_collected_by_the_institution%27s_scientists%2C_%282575971962%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Description- Thomas Smillie was the Smithsonian's first photographer and curator of photography. He and his studio staff re-shot many of the photographs collected by the institution's scientists, (2575971962).jpg",
+   "author": "Smithsonian Institution",
+   "license": "No restrictions",
+   "credit": "https://www.flickr.com/photos/smithsonian/2575971962/",
+   "source": "https://commons.wikimedia.org/wiki/File:Description-_Thomas_Smillie_was_the_Smithsonian%27s_first_photographer_and_curator_of_photography._He_and_his_studio_staff_re-shot_many_of_the_photographs_collected_by_the_institution%27s_scientists%2C_%282575971962%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1725",
@@ -97,10 +121,148 @@
   ],
   "nearest_airport_km": 113.5,
   "distance_beijing_km": 8486.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "La Trinité-sur-Mer",
+    "name_en": null,
+    "lat": 47.5862096,
+    "lon": -3.0257021,
+    "distance_km": 4.1,
+    "operator": null
+   },
+   {
+    "name": "Embarcadère Navix",
+    "name_en": null,
+    "lat": 47.6642689,
+    "lon": -2.9780792,
+    "distance_km": 11.0,
+    "operator": null
+   },
+   {
+    "name": "Embarcadère du Guilvin",
+    "name_en": null,
+    "lat": 47.5679932,
+    "lon": -2.9366408,
+    "distance_km": 11.1,
+    "operator": null
+   },
+   {
+    "name": "Port Haliguen",
+    "name_en": null,
+    "lat": 47.4874343,
+    "lon": -3.1016464,
+    "distance_km": 11.9,
+    "operator": "SAGEMOR"
+   },
+   {
+    "name": "Port Navalo",
+    "name_en": null,
+    "lat": 47.5498503,
+    "lon": -2.9165757,
+    "distance_km": 13.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Auray",
+    "name_en": null,
+    "lat": 47.680434,
+    "lon": -3.001243,
+    "distance_km": 11.3,
+    "operator": null
+   },
+   {
+    "name": "Quiberon",
+    "name_en": null,
+    "lat": 47.4854807,
+    "lon": -3.118245,
+    "distance_km": 12.3,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Sainte-Anne",
+    "name_en": null,
+    "lat": 47.6784934,
+    "lon": -2.9604445,
+    "distance_km": 13.0,
+    "operator": "SNCF"
+   },
+   {
+    "name": "Pluvigner",
+    "name_en": null,
+    "lat": 47.7651882,
+    "lon": -3.0217601,
+    "distance_km": 19.6,
+    "operator": null
+   },
+   {
+    "name": "Vannes",
+    "name_en": null,
+    "lat": 47.6652992,
+    "lon": -2.7525901,
+    "distance_km": 25.8,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Sofitel Quiberon Thalassa sea & spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 47.4740384,
+   "lon": -3.1020232,
+   "distance_km": 13.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thalazur Carnac",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.571898,
+   "lon": -3.0804508,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Vannes Centre Ville",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western",
+   "lat": 47.659426,
+   "lon": -2.764148,
+   "distance_km": 24.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Kérasy",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.6642906,
+   "lon": -2.7537657,
+   "distance_km": 25.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Les Rives du Ter",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.7291894,
+   "lon": -3.3872357,
+   "distance_km": 27.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "FR",
   "country_zh": "法国",
@@ -158,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:07:03Z"
+ "updated_at": "2026-11-08T16:51:02Z"
 }

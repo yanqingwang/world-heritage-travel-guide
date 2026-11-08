@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)"
 lat: 35.060278
 lon: 135.752778
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:43Z"
 ---
 
 # 古京都遗址（京都、宇治和大津城） / Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)
@@ -26,6 +26,10 @@ updated_at: "2026-11-08T16:06:56Z"
 ![Kinkakuji 2004-09-21.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Kinkakuji%202004-09-21.jpg?width=1280)
 
 *Kinkakuji 2004-09-21.jpg · see Wikimedia Commons file page*
+
+![LocMap of WH Ancient Kyoto.png](https://upload.wikimedia.org/wikipedia/commons/3/36/LocMap_of_WH_Ancient_Kyoto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Ancient Kyoto.png · Crop/edit: Uploader Original: See template below. · CC BY-SA 3.0*
 
 ![Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)](https://whc.unesco.org/uploads/sites/site_688.jpg)
 
@@ -52,11 +56,25 @@ Built in A.D. 794 on the model of the capitals of ancient China, Kyoto was the i
 - ✈ **Osaka Itami International Airport (ITM)** — 42.1 km
 - ✈ **Kobe Airport (UKB)** — 67.7 km
 - ✈ **Kansai International Airport (KIX)** — 84.3 km
+- 🚉 **京都精華大前** — 2.0 km
+- 🚉 **二軒茶屋** — 2.3 km
+- 🚉 **木野** — 2.5 km
+- 🚉 **岩倉** — 3.3 km
+- 🚉 **市原** — 3.3 km
+- ⛴ **蹴上** — 7.0 km
+- ⛴ **山科** — 9.9 km
+- ⛴ **三井寺** — 10.9 km
+- ⛴ **十石舟乗り場** — 15.2 km
+- ⛴ **伏見船着場** — 15.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1762.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **ザ・リッツ・カールトン京都** — 5.4 km — star — The Ritz Carlton Kyoto · 5★
+- **京都ホテルオークラ** — 5.6 km — star — Hotel Okura Kyoto · 5★ · Okura Hotels & Resorts
+- **Hilton Kyoto** — 5.8 km — star — 5★ · Hilton
+- **三井ガーデンホテル京都三条プレミア** — 5.8 km — star — Mitsui Garden Hotel Kyoto Sanjo Premier · 5★
+- **四条河原町温泉 空庭テラス京都 別邸** — 6.6 km — star — Soraniwa Terrace Kyoto Bettei · 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

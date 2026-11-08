@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(ix)(x)"
 lat: 27.5
 lon: 84.333333
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:44:21Z"
 ---
 
 # 奇特旺皇家国家公园 / Chitwan National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Chitwan swamp.jpg · see Wikimedia Commons file page*
 
-![Chitwan National Park](https://whc.unesco.org/uploads/sites/site_284.jpg)
+![Chitwan-NP+bufferzone-map.jpg](https://upload.wikimedia.org/wikipedia/commons/7/77/Chitwan-NP%2Bbufferzone-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Chitwan National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Chitwan-NP+bufferzone-map.jpg · BhagyaMani · CC BY 3.0*
+
+![LocMap Chitwan.png](https://upload.wikimedia.org/wikipedia/commons/7/7d/LocMap_Chitwan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap Chitwan.png · Public domain*
+
+![2009-03 Chitwan 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2009-03_Chitwan_01.jpg/1280px-2009-03_Chitwan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2009-03 Chitwan 01.jpg · Ralf Lotys (Sicherlich) · CC BY 3.0*
+
+![2016-04-03 Chitwan National Park, Nepal. 5827.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/2016-04-03_Chitwan_National_Park%2C_Nepal._5827.jpg/1280px-2016-04-03_Chitwan_National_Park%2C_Nepal._5827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016-04-03 Chitwan National Park, Nepal. 5827.jpg · You may re-use this image under the terms of the license using the following reference: Image: Wikipedia / Tobias Klenze · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed ve
 - ✈ **Bharatpur Airport (BHR)** — 22.0 km
 - ✈ **Simara Airport (SIF)** — 74.2 km
 - ✈ **Pokhara International Airport (PHH)** — 82.2 km
+- 🚉 **Gaunaha** — 29.7 km
+- 🚉 **Bhitiharwa Ashram** — 32.1 km
+- 🚉 **Bhikhna Thori** — 33.4 km
+- 🚉 **Amolwa** — 35.1 km
+- 🚉 **Harinagar** — 38.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3249.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Jungle Villa Resort** — 6.6 km — star — Jungle Villa Resort · 4★
+- **Hotel River Crown** — 24.1 km — star — 4★
+- **Landmark forest park** — 17.8 km — star — 3★
+- **Hotel Elephant Camp & Korean Restaurant** — 18.1 km — star — 3★
+- **Bandipur chhen** — 49.2 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

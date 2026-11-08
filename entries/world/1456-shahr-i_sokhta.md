@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(iv)"
 lat: 30.595277777
 lon: 61.331944444
-updated_at: "2026-11-08T16:07:01Z"
+updated_at: "2026-11-08T16:50:19Z"
 ---
 
 # 被焚之城 / Shahr-i Sokhta
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:01Z"
 
 *کاخ سوخته شهر سوحته.jpg · see Wikimedia Commons file page*
 
-![Shahr-i Sokhta](https://whc.unesco.org/uploads/sites/site_1456.jpg)
+![C20R0997.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/C20R0997.jpg/1280px-C20R0997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Shahr-i Sokhta · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*C20R0997.jpg · Amirkhan33 · CC BY-SA 4.0*
+
+![C20R1002.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/C20R1002.jpg/1280px-C20R1002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*C20R1002.jpg · Amirkhan33 · CC BY-SA 4.0*
+
+![Collar de la Edad del Bronce (Shahr-i Sokhta, Irán) - MARQ.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Collar_de_la_Edad_del_Bronce_%28Shahr-i_Sokhta%2C_Ir%C3%A1n%29_-_MARQ.jpg/1280px-Collar_de_la_Edad_del_Bronce_%28Shahr-i_Sokhta%2C_Ir%C3%A1n%29_-_MARQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Collar de la Edad del Bronce (Shahr-i Sokhta, Irán) - MARQ.jpg · Dorieo · CC BY-SA 4.0*
+
+![Keramikgefäß aus Iran, Schahr-e Suchte, Nekropole, 2800-2300 v.C. (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Keramikgef%C3%A4%C3%9F_aus_Iran%2C_Schahr-e_Suchte%2C_Nekropole%2C_2800-2300_v.C._%281%29.jpg/1280px-Keramikgef%C3%A4%C3%9F_aus_Iran%2C_Schahr-e_Suchte%2C_Nekropole%2C_2800-2300_v.C._%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Keramikgefäß aus Iran, Schahr-e Suchte, Nekropole, 2800-2300 v.C. (1).jpg · NearEMPTiness · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,7 @@ Shahr-i Sokhta, meaning ‘Burnt City’, is located at the junction of Bronze A
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل آرام** — 47.9 km — hotel — Aram Hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ix)(x)"
 lat: 71.233333333
 lon: -179.4
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:32Z"
 ---
 
 # 弗兰格尔岛自然保护区 / Natural System of Wrangel Island Reserve

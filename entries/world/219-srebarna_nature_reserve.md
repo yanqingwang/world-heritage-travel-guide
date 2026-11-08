@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(x)"
 lat: 44.111116
 lon: 27.072206
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:43:58Z"
 ---
 
 # 斯雷伯尔纳自然保护区 / Srebarna Nature Reserve

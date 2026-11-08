@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vi)"
 lat: -15.9
 lon: 35.65
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:49:39Z"
 ---
 
 # 姆兰杰山文化景观 / Mount Mulanje Cultural Landscape

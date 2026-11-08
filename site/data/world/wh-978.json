@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_978.jpg",
-   "title": "Old Town of Corfu",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/978",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/1st_Gymnasium_of_Corfu_City.jpg/1280px-1st_Gymnasium_of_Corfu_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1st Gymnasium of Corfu City.jpg",
+   "author": "Biboly.s",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1st_Gymnasium_of_Corfu_City.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018-06-17_Corfu_town.jpg/1280px-2018-06-17_Corfu_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2018-06-17 Corfu town.jpg",
+   "author": "Maksym Kozlenko",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2018-06-17_Corfu_town.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2018-06-17_Old_town_of_Corfu%2C_view_from_fort.jpg/1280px-2018-06-17_Old_town_of_Corfu%2C_view_from_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2018-06-17 Old town of Corfu, view from fort.jpg",
+   "author": "Maksym Kozlenko",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2018-06-17_Old_town_of_Corfu%2C_view_from_fort.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A_narrow_street_%28called_Kadouni%29_in_the_Old_Town_of_Corfu.png/1280px-A_narrow_street_%28called_Kadouni%29_in_the_Old_Town_of_Corfu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A narrow street (called Kadouni) in the Old Town of Corfu.png",
+   "author": "Amethyst forest (aka VM)",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_narrow_street_%28called_Kadouni%29_in_the_Old_Town_of_Corfu.png"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/978",
@@ -97,10 +121,107 @@
   ],
   "nearest_airport_km": 2.6,
   "distance_beijing_km": 7784.3,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Κέρκυρα",
+    "name_en": "Corfu",
+    "lat": 39.6285182,
+    "lon": 19.9129735,
+    "distance_km": 0.9,
+    "operator": "Ο.Λ.ΚΕ"
+   },
+   {
+    "name": "Επιβατικός Σταθμός Φέριμποτ",
+    "name_en": "Ferry Terminal",
+    "lat": 39.6259832,
+    "lon": 19.9103492,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "Βίδο",
+    "name_en": "Vido Port",
+    "lat": 39.6387064,
+    "lon": 19.9244545,
+    "distance_km": 1.7,
+    "operator": null
+   },
+   {
+    "name": "Επιβατικός Σταθμός Κρουαζιερόπλοιων",
+    "name_en": "Cruise Terminal",
+    "lat": 39.6290777,
+    "lon": 19.9011281,
+    "distance_km": 1.8,
+    "operator": null
+   },
+   {
+    "name": "Κανόνι",
+    "name_en": "Kanoni",
+    "lat": 39.5902966,
+    "lon": 19.9172826,
+    "distance_km": 3.8,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Corfu Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.6193499,
+   "lon": 19.922739,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Corfu Holiday Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5921601,
+   "lon": 19.9189769,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Angsana Corfu",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.5531675,
+   "lon": 19.9091092,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ikos Dassia",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Ikos Resorts",
+   "lat": 39.6791864,
+   "lon": 19.8392468,
+   "distance_km": 9.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Mediterraneo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.6128903,
+   "lon": 19.7786744,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "GR",
   "country_zh": "希腊",
@@ -158,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:58Z"
+ "updated_at": "2026-11-08T16:48:27Z"
 }

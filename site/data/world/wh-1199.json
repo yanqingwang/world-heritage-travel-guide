@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1199.jpg",
-   "title": "Kunya-Urgench",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1199",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Genghis_Khan_invades_Urgench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Genghis Khan invades Urgench.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "Scanned image from a book entitled Genghis Khan was Jaḥafil al-Maghūl , first published in Egypt in 1962. Check AUB Records",
+   "source": "https://commons.wikimedia.org/wiki/File:Genghis_Khan_invades_Urgench.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Koeneuergenc_Kyrk_Molla_Panorama.jpg/1280px-Koeneuergenc_Kyrk_Molla_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Koeneuergenc Kyrk Molla Panorama.jpg",
+   "author": "Mario J. Schwaiger",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Koeneuergenc_Kyrk_Molla_Panorama.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Konye-Urgench_%282%29_%2845385809901%29.jpg/1280px-Konye-Urgench_%282%29_%2845385809901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Konye-Urgench (2) (45385809901).jpg",
+   "author": "Hans Birger Nilsen",
+   "license": "CC BY-SA 2.0",
+   "credit": "Konye-Urgench (2)",
+   "source": "https://commons.wikimedia.org/wiki/File:Konye-Urgench_%282%29_%2845385809901%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Konye-Urgench_%2845385809251%29.jpg/1280px-Konye-Urgench_%2845385809251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Konye-Urgench (45385809251).jpg",
+   "author": "Hans Birger Nilsen",
+   "license": "CC BY-SA 2.0",
+   "credit": "Konye-Urgench",
+   "source": "https://commons.wikimedia.org/wiki/File:Konye-Urgench_%2845385809251%29.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1199",
@@ -97,10 +121,140 @@
   ],
   "nearest_airport_km": 42.6,
   "distance_beijing_km": 4676.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Xojeli pristanı",
+    "name_en": "Khojeyli Marina",
+    "lat": 42.4350804,
+    "lon": 59.5474131,
+    "distance_km": 34.6,
+    "operator": null
+   },
+   {
+    "name": "Seyil katerleri",
+    "name_en": "Pleasure boats",
+    "lat": 42.4567823,
+    "lon": 59.6018699,
+    "distance_km": 39.6,
+    "operator": null
+   },
+   {
+    "name": "Tolıs awıl",
+    "name_en": null,
+    "lat": 42.5462267,
+    "lon": 59.5940883,
+    "distance_km": 43.7,
+    "operator": null
+   },
+   {
+    "name": "Xojan awıl",
+    "name_en": null,
+    "lat": 42.5458661,
+    "lon": 59.594999,
+    "distance_km": 43.7,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Köneürgenç",
+    "name_en": "Koneurgench",
+    "lat": 42.292378,
+    "lon": 59.1428816,
+    "distance_km": 3.8,
+    "operator": null
+   },
+   {
+    "name": "Dostluk",
+    "name_en": null,
+    "lat": 42.2748459,
+    "lon": 59.2675319,
+    "distance_km": 11.0,
+    "operator": null
+   },
+   {
+    "name": "Maslahat",
+    "name_en": null,
+    "lat": 42.254704,
+    "lon": 59.3604838,
+    "distance_km": 18.8,
+    "operator": null
+   },
+   {
+    "name": "Xatep",
+    "name_en": "Khatep",
+    "lat": 42.4994643,
+    "lon": 59.3208791,
+    "distance_km": 23.7,
+    "operator": null
+   },
+   {
+    "name": "Xojeli",
+    "name_en": null,
+    "lat": 42.4048229,
+    "lon": 59.4368549,
+    "distance_km": 24.9,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Tashkent miymanxanası",
+   "name_en": "Tashkent Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 42.4577508,
+   "lon": 59.6049711,
+   "distance_km": 39.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jipek Jolı Hotel",
+   "name_en": "Hotel Jipek Joli",
+   "stars": 3,
+   "brand": "Jipek Joli Hotel",
+   "lat": 42.4658262,
+   "lon": 59.6098375,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aydin Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 42.4603329,
+   "lon": 59.6161729,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Poytaxt",
+   "name_en": "Poytaxt",
+   "stars": 3,
+   "brand": "Poytaxt",
+   "lat": 42.4823656,
+   "lon": 59.6157192,
+   "distance_km": 41.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel SULU",
+   "name_en": "Hotel SULU",
+   "stars": 2,
+   "brand": null,
+   "lat": 42.4388576,
+   "lon": 59.616925,
+   "distance_km": 40.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "TM",
   "country_zh": "土库曼斯坦",
@@ -158,5 +312,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T16:06:59Z"
+ "updated_at": "2026-11-08T16:49:39Z"
 }

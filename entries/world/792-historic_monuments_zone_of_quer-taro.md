@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(iv)"
 lat: 20.58333333
 lon: -100.3666667
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:56Z"
 ---
 
 # 克雷塔罗历史遗迹区 / Historic Monuments Zone of Querétaro

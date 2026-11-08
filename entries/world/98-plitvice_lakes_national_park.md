@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)(ix)"
 lat: 44.880445
 lon: 15.616035
-updated_at: "2026-11-08T16:06:51Z"
+updated_at: "2026-11-08T16:42:45Z"
 ---
 
 # 布里特威斯湖国家公园 / Plitvice Lakes National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:51Z"
 
 *Plitvice Lakes National Park (2).jpg · see Wikimedia Commons file page*
 
-![Plitvice Lakes National Park](https://whc.unesco.org/uploads/sites/site_98.jpg)
+![Plitvice Lakes National Park, Croatia in Ultra 4k.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Plitvice_Lakes_National_Park%2C_Croatia_in_Ultra_4k.webm/1280px--Plitvice_Lakes_National_Park%2C_Croatia_in_Ultra_4k.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
 
-*Plitvice Lakes National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Plitvice Lakes National Park, Croatia in Ultra 4k.webm · Le Monde en Vidéo · CC BY 3.0*
+
+![1.Plitvice Lakes.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1.Plitvice_Lakes.jpg/1280px-1.Plitvice_Lakes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1.Plitvice Lakes.jpg · Nayeemkhan78 · CC BY-SA 4.0*
+
+![1913 maps of Plitvica Lakes.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d5/1913_maps_of_Plitvica_Lakes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1913 maps of Plitvica Lakes.jpg · Public domain*
+
+![1980 Plitvice Lakes National Park KB-034-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/1980_Plitvice_Lakes_National_Park_KB-034-01.jpg/1280px-1980_Plitvice_Lakes_National_Park_KB-034-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1980 Plitvice Lakes National Park KB-034-01.jpg · Eckhard Henkel · CC BY-SA 3.0 de*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,24 @@ Nacionalni park Plitvička jezera osobita je geološka i hidrogeološka krška p
 - ✈ **Zadar Airport (ZAD)** — 89.6 km
 - ✈ **Rijeka Airport (RJK)** — 90.2 km
 - ✈ **Zagreb Franjo Tuđman International Airport (ZAG)** — 102.2 km
+- 🚉 **Vrhovine** — 15.3 km
+- 🚉 **Bihać** — 22.4 km
+- 🚉 **Ličko Lešće** — 23.5 km
+- 🚉 **Cazin-Srbljani** — 25.0 km
+- 🚉 **Plaški** — 29.4 km
+- ⛴ **P2 (brod prema P3)** — 0.1 km
+- ⛴ **P1** — 0.1 km
+- ⛴ **P2 (brod prema P1)** — 0.1 km
+- ⛴ **P3** — 1.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7790.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Guest house Oreskovic** — 13.0 km — star — 4★
+- **Hotel Mirjana & Rastoke** — 30.6 km — star — 4★
+- **Macola** — 16.7 km — star — 3★
+- **Hotel Josipdol** — 43.0 km — star — 3★
+- **Hotel Plitvice** — 0.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)"
 lat: 35.78888889
 lon: 129.22666667
-updated_at: "2026-11-08T16:06:58Z"
+updated_at: "2026-11-08T16:48:26Z"
 ---
 
 # 庆州历史区 / Gyeongju Historic Areas

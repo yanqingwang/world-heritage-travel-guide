@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iii)(iv)"
 lat: 16.289722
 lon: -0.044444
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:48:49Z"
 ---
 
 # 阿斯基亚王陵 / Tomb of Askia

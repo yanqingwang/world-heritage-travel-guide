@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(i)(ii)"
 lat: 49.89457
 lon: 2.3021
-updated_at: "2026-11-08T16:06:52Z"
+updated_at: "2026-11-08T16:42:59Z"
 ---
 
 # 亚眠大教堂 / Amiens Cathedral
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:52Z"
 
 *0 Amiens - Cathédrale Notre-Dame (1).JPG · see Wikimedia Commons file page*
 
-![Amiens Cathedral](https://whc.unesco.org/uploads/sites/site_162.jpg)
+![234 11 la cathédrale d'Amiens.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/234_11_la_cath%C3%A9drale_d%27Amiens.jpg/1280px-234_11_la_cath%C3%A9drale_d%27Amiens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Amiens Cathedral · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*234 11 la cathédrale d'Amiens.jpg · Protogonos69 · CC0*
+
+![Abbildung der vornehmsten Gebäude altdeutscher Bauart (1829) - 059.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Abbildung_der_vornehmsten_Geb%C3%A4ude_altdeutscher_Bauart_%281829%29_-_059.jpg/1280px-Abbildung_der_vornehmsten_Geb%C3%A4ude_altdeutscher_Bauart_%281829%29_-_059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abbildung der vornehmsten Gebäude altdeutscher Bauart (1829) - 059.jpg · Anton Falger · Public domain*
+
+![Amiens - Cathedrale 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Amiens_-_Cathedrale_1.jpg/1280px-Amiens_-_Cathedrale_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Amiens - Cathedrale 1.jpg · Clément293 · CC BY-SA 4.0*
+
+![Amiens - Cathédrale 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Amiens_-_Cath%C3%A9drale_2.jpg/1280px-Amiens_-_Cath%C3%A9drale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Amiens - Cathédrale 2.jpg · Clément293 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,22 @@ La cathédrale d'Amiens, au cœur de la Picardie, est l'une des plus grandes ég
 - ✈ **Beauvais-Tillé airport (BVA)** — 50.8 km
 - ✈ **Lille Airport (LIL)** — 93.9 km
 - ✈ **Charles de Gaulle International Airport (CDG)** — 100.1 km
+- 🚉 **Amiens** — 0.6 km
+- 🚉 **Gare Saint-Roch** — 1.3 km
+- 🚉 **Longueau** — 5.0 km
+- 🚉 **Dommartin - Remiencourt** — 12.4 km
+- 🚉 **Ailly-sur-Noye** — 16.2 km
+- ⛴ **Halte nautique d'Amiens** — 0.4 km
+- ⛴ **Halte nautique de Cappy** — 32.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8178.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel Marotte** — 0.4 km — star — 5★
+- **Mercure** — 0.2 km — star — 4★ · Mercure
+- **Novotel Amiens Pôle Jules Verne** — 5.9 km — star — 4★ · Novotel
+- **Hôtel Mercure** — 40.9 km — star — 4★ · Mercure
+- **Le Prieuré** — 0.1 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

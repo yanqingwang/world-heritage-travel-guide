@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(vii)(ix)(x)"
 lat: 18.821388888
 lon: -112.763888888
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:26Z"
 ---
 
 # Revillagigedo群岛 / Archipiélago de Revillagigedo
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:07:02Z"
 
 *San Benedicto Island.jpg · see Wikimedia Commons file page*
 
-![Archipiélago de Revillagigedo](https://whc.unesco.org/uploads/sites/site_1510.jpg)
+![MX-Revillagigedo.PNG](https://upload.wikimedia.org/wikipedia/commons/b/b2/MX-Revillagigedo.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Archipiélago de Revillagigedo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*MX-Revillagigedo.PNG · Hobe / Holger Behr · Public domain*
+
+![Admiralty Chart No 1936 Islands in the North Pacific Ocean, Published 1849.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Admiralty_Chart_No_1936_Islands_in_the_North_Pacific_Ocean%2C_Published_1849.jpg/1280px-Admiralty_Chart_No_1936_Islands_in_the_North_Pacific_Ocean%2C_Published_1849.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Admiralty Chart No 1936 Islands in the North Pacific Ocean, Published 1849.jpg · United Kingdom Hydrographic Office · Public domain*
+
+![Escudo de Revillagigedo.png](https://upload.wikimedia.org/wikipedia/commons/f/f2/Escudo_de_Revillagigedo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Escudo de Revillagigedo.png · Heraldicos · CC BY 3.0*
+
+![Islas Revillagigedo.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*Islas Revillagigedo.ogg · ProtoplasmaKid · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(i)(ii)"
 lat: 43.323055555
 lon: -3.016944444
-updated_at: "2026-11-08T16:07:00Z"
+updated_at: "2026-11-08T16:49:43Z"
 ---
 
 # 维斯盖亚桥 / Vizcaya Bridge

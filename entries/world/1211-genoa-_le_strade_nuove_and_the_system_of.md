@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iv)"
 lat: 44.412222222
 lon: 8.931111111
-updated_at: "2026-11-08T16:06:59Z"
+updated_at: "2026-11-08T16:49:43Z"
 ---
 
 # 热那亚的新街和罗利宫殿体系 / Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:59Z"
 
 *Palazzo Reale Galleria degli Specchi Genova.png · see Wikimedia Commons file page*
 
-![Genoa: <i>Le Strade Nuove</i> and the system of the<i> Palazzi dei Rolli</i>](https://whc.unesco.org/uploads/sites/site_1211.jpg)
+![Genova 100 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Genova_100_03.jpg/1280px-Genova_100_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Genoa: <i>Le Strade Nuove</i> and the system of the<i> Palazzi dei Rolli</i> · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Genova 100 03.jpg · FrDr · CC BY-SA 4.0*
+
+![Genova 100 09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Genova_100_09.jpg/1280px-Genova_100_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Genova 100 09.jpg · FrDr · CC BY-SA 4.0*
+
+![Genova 100 55.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Genova_100_55.jpg/1280px-Genova_100_55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Genova 100 55.jpg · FrDr · CC BY-SA 4.0*
+
+![Genova 100 61.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Genova_100_61.jpg/1280px-Genova_100_61.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Genova 100 61.jpg · FrDr · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Le Strade Nuove e il sistema dei palazzi dei Rolli è un sito incluso nel Patrim
 - ✈ **Genoa Cristoforo Colombo Airport (GOA)** — 7.2 km
 - ✈ **Cuneo International Airport (CUF)** — 104.9 km
 - ✈ **Parma Airport (PMF)** — 117.5 km
+- 🚉 **Zecca** — 0.1 km
+- 🚉 **San Nicola** — 0.9 km
+- 🚉 **Genova Piazza Principe** — 1.0 km
+- 🚉 **San Simone** — 1.3 km
+- 🚉 **Genova Brignole** — 1.4 km
+- ⛴ **Porto Antico** — 0.4 km
+- ⛴ **MSC Terminal** — 1.0 km
+- ⛴ **Porto Passeggeri** — 1.4 km
+- ⛴ **GNV Genova** — 1.5 km
+- ⛴ **SAAR** — 1.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8172.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Grand Hotel Savoia Genova, Curio Collection by Hilton** — 0.8 km — star — 5★ · Currio Collection by Hilton
+- **Hotel Meliã** — 1.3 km — star — 5★
+- **Capitolo Riviera** — 9.2 km — star — 5★
+- **Hotel Santa Margherita Palace** — 23.9 km — star — 5★
+- **Hotel Imperiale** — 24.4 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

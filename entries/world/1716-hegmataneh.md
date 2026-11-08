@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)"
 lat: 34.8065
 lon: 48.516247
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:00Z"
 ---
 
 # 埃克巴坦那 / Hegmataneh

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(v)"
 lat: 39.8667
 lon: 20.7
-updated_at: "2026-11-08T16:07:03Z"
+updated_at: "2026-11-08T16:51:00Z"
 ---
 
 # 扎戈里文化景观 / Zagori Cultural Landscape

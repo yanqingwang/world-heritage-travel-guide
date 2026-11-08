@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)"
 lat: 55.642669444
 lon: 12.080308333
-updated_at: "2026-11-08T16:06:56Z"
+updated_at: "2026-11-08T16:47:45Z"
 ---
 
 # 罗斯基勒大教堂 / Roskilde Cathedral
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:56Z"
 
 *Roskilde Cathedral aerial crop.jpg · see Wikimedia Commons file page*
 
-![Roskilde Cathedral](https://whc.unesco.org/uploads/sites/site_695.jpg)
+![Dom Roskilde - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Dom_Roskilde_-_panoramio.jpg/1280px-Dom_Roskilde_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Roskilde Cathedral · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Dom Roskilde - panoramio.jpg · Kurt Spalinger-Røes · CC BY 3.0*
+
+![Roskilde domkirke udefra.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Roskilde_domkirke_udefra.jpg/1280px-Roskilde_domkirke_udefra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Roskilde domkirke udefra.jpg · Plasticpeer · CC BY-SA 4.0*
+
+![20170808 Roskilde Domkirke 0235 (37186972412).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/20170808_Roskilde_Domkirke_0235_%2837186972412%29.jpg/1280px-20170808_Roskilde_Domkirke_0235_%2837186972412%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20170808 Roskilde Domkirke 0235 (37186972412).jpg · Johan Wessman / News Oresund · CC BY 2.0*
+
+![2021 Roskilde Cathedral (05).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2021_Roskilde_Cathedral_%2805%29.jpg/1280px-2021_Roskilde_Cathedral_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2021 Roskilde Cathedral (05).jpg · Chris06 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Roskilde Domkirke er domkirken i Roskilde. Domkirken er blandt de vigtigste kirk
 - ✈ **Copenhagen Roskilde Airport (RKE)** — 7.1 km
 - ✈ **Copenhagen Kastrup Airport (CPH)** — 36.2 km
 - ✈ **Malmö Sturup Airport (MMX)** — 82.3 km
+- 🚉 **Roskilde** — 0.7 km
+- 🚉 **Fem Ege** — 5.9 km
+- 🚉 **Rubjerg** — 6.0 km
+- 🚉 **Brandhøj** — 6.5 km
+- 🚉 **Hedehusgård** — 6.7 km
+- ⛴ **Trækflode Havn** — 16.6 km
+- ⛴ **Greve Marina** — 18.0 km
+- ⛴ **Østre Havn** — 19.9 km
+- ⛴ **Orø Havn** — 21.6 km
+- ⛴ **Kolle Kolle** — 26.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7223.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Villa Copenhagen** — 30.7 km — star — 5★
+- **Copenhagen Marriott Hotel** — 31.1 km — star — 5★ · Marriott
+- **NH Collection Copenhagen** — 32.0 km — star — 5★ · NH Collection Hotels
+- **Hotel Sanders** — 32.1 km — star — 5★
+- **Imperial** — 30.4 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

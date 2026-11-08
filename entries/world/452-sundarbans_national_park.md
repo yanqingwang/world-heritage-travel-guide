@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ix)(x)"
 lat: 21.75
 lon: 88.75
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:42Z"
 ---
 
 # 孙德尔本斯国家公园 / Sundarbans National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Sundarban Tiger.jpg · see Wikimedia Commons file page*
 
-![Sundarbans National Park](https://whc.unesco.org/uploads/sites/site_452.jpg)
+![A member of tide country.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/A_member_of_tide_country.jpg/1280px-A_member_of_tide_country.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sundarbans National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A member of tide country.jpg · Samim Akhter · CC BY-SA 4.0*
+
+![A quiet sip from the wild — life thriving in the heart of the Sundarbans.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/A_quiet_sip_from_the_wild_%E2%80%94_life_thriving_in_the_heart_of_the_Sundarbans.jpg/1280px-A_quiet_sip_from_the_wild_%E2%80%94_life_thriving_in_the_heart_of_the_Sundarbans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A quiet sip from the wild — life thriving in the heart of the Sundarbans.jpg · Tanviralinbd · CC BY 4.0*
+
+![Beautiful Sundarban.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Beautiful_Sundarban.JPG/1280px-Beautiful_Sundarban.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Beautiful Sundarban.JPG · Badsha.envsc · CC BY-SA 4.0*
+
+![Beauty of Sundarban.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Beauty_of_Sundarban.JPG/1280px-Beauty_of_Sundarban.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Beauty of Sundarban.JPG · Badsha.envsc · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,16 @@ The Sundarbans covers 10,000 km 2 of land and water (more than half of it in Ind
 - ✈ **Netaji Subhash Chandra Bose International Airport (CCU)** — 105.2 km
 - ✈ **Jessore Airport (JSR)** — 164.9 km
 - ✈ **Barisal Airport (BZL)** — 197.8 km
+- ⛴ **Dwarkapur Ferry Ghat** — 46.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3276.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Jharkhari Eco Tourism Resport** — 30.7 km — hotel
+- **Prakrity Village Resort Sundarbans** — 42.4 km — hotel
+- **Sajnekhali Tourist Lodge** — 42.4 km — hotel
+- **Royal Bengal Resort** — 42.8 km — hotel
+- **Hôtel Mangrove Pakhirala** — 43.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 53.451266666
 lon: 26.472894444
-updated_at: "2026-11-08T16:06:55Z"
+updated_at: "2026-11-08T16:47:31Z"
 ---
 
 # 米尔城堡群 / Mir Castle Complex

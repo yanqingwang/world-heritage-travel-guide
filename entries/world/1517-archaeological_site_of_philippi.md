@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(iv)"
 lat: 41.012072
 lon: 24.284576
-updated_at: "2026-11-08T16:07:02Z"
+updated_at: "2026-11-08T16:50:29Z"
 ---
 
 # 腓立比 / Archaeological Site of Philippi

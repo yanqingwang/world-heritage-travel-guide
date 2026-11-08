@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 17.57472
 lon: 120.38694
-updated_at: "2026-11-08T16:06:54Z"
+updated_at: "2026-11-08T16:45:48Z"
 ---
 
 # 维甘历史古城 / Historic City of Vigan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:54Z"
 
 *Calle Crisologo, Vigan, Philippines (50025182191).jpg · see Wikimedia Commons file page*
 
-![Historic City of Vigan](https://whc.unesco.org/uploads/sites/site_502.jpg)
+![10 commandments in Ilokano.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/10_commandments_in_Ilokano.JPG/1280px-10_commandments_in_Ilokano.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic City of Vigan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*10 commandments in Ilokano.JPG · Irvin Parco Sto. Tomas · CC BY-SA 4.0*
+
+![500px photo (47988354).jpeg](https://upload.wikimedia.org/wikipedia/commons/f/f6/500px_photo_%2847988354%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*500px photo (47988354).jpeg · Picasso Dela Cruz · CC BY-SA 3.0*
+
+![500px photo (47988356).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/500px_photo_%2847988356%29.jpeg/1280px-500px_photo_%2847988356%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*500px photo (47988356).jpeg · Picasso Dela Cruz · CC BY-SA 3.0*
+
+![500px photo (47991398).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/500px_photo_%2847991398%29.jpeg/1280px-500px_photo_%2847991398%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*500px photo (47991398).jpeg · Picasso Dela Cruz · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

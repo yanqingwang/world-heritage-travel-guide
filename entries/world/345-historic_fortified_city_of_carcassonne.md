@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)"
 lat: 43.206439
 lon: 2.363788
-updated_at: "2026-11-08T16:06:53Z"
+updated_at: "2026-11-08T16:45:16Z"
 ---
 
 # 卡尔卡松历史城墙要塞 / Historic Fortified City of Carcassonne
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T16:06:53Z"
 
 *Cité de Carcassonne.jpg · see Wikimedia Commons file page*
 
-![Historic Fortified City of Carcassonne](https://whc.unesco.org/uploads/sites/site_345.jpg)
+![Album de photographies et cartes postales ayant appartenu à Paul-Jean Toulet - btv1b10585049x (096 of 103).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Album_de_photographies_et_cartes_postales_ayant_appartenu_%C3%A0_Paul-Jean_Toulet_-_btv1b10585049x_%28096_of_103%29.jpg/1280px-Album_de_photographies_et_cartes_postales_ayant_appartenu_%C3%A0_Paul-Jean_Toulet_-_btv1b10585049x_%28096_of_103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Historic Fortified City of Carcassonne · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Album de photographies et cartes postales ayant appartenu à Paul-Jean Toulet - btv1b10585049x (096 of 103).jpg · Toulet, Paul-Jean (1867-1920). Fonction indéterminée · Public domain*
+
+![Aude Carcassonne Porte D'Aude - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Aude_Carcassonne_Porte_D%27Aude_-_panoramio.jpg/1280px-Aude_Carcassonne_Porte_D%27Aude_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aude Carcassonne Porte D'Aude - panoramio.jpg · rene boulay · CC BY-SA 3.0*
+
+![Aude Carcassonne Porte Narbonnaise Vue Remparts - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Aude_Carcassonne_Porte_Narbonnaise_Vue_Remparts_-_panoramio.jpg/1280px-Aude_Carcassonne_Porte_Narbonnaise_Vue_Remparts_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aude Carcassonne Porte Narbonnaise Vue Remparts - panoramio.jpg · rene boulay · CC BY-SA 3.0*
+
+![Aude Carcassonne Remparts 071993 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aude_Carcassonne_Remparts_071993_-_panoramio.jpg/1280px-Aude_Carcassonne_Remparts_071993_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aude Carcassonne Remparts 071993 - panoramio.jpg · rene boulay · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Depuis la période préromaine, des fortifications ont été érigées sur la co
 - ✈ **Carcassonne Salvaza Airport (CCF)** — 4.8 km
 - ✈ **Castres Mazamet Airport (DCM)** — 39.4 km
 - ✈ **Perpignan-Rivesaltes (Llabanère) Airport (PGF)** — 66.2 km
+- 🚉 **Carcassonne** — 1.6 km
+- 🚉 **Verzeille** — 9.1 km
+- 🚉 **Pomas** — 12.1 km
+- 🚉 **Bram** — 20.2 km
+- 🚉 **Mazamet** — 32.4 km
+- ⛴ **Port de Carcassonne** — 1.6 km
+- ⛴ **Port de Bram** — 19.9 km
+- ⛴ **Port La Fabrique** — 24.4 km
+- ⛴ **Port Minervois** — 29.4 km
+- ⛴ **Port de Plaisance du Canal du Midi** — 35.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8649.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hôtel de la Cité** — 0.1 km — star — 5★
+- **Hôtel du Roi & Spa** — 0.7 km — star — 5★
+- **Hôtel Le Donjon** — 0.0 km — star — 4★ · Best Western
+- **Hôtel Le Pont Levis** — 0.3 km — star — 4★
+- **Hôtel Montmorency** — 0.3 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
