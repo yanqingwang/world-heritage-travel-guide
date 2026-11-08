@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2001"
 criteria: "(ii)(iv)"
-lat: 33.467269315857145
-lon: -6.203932317285714
-updated_at: "2026-11-08T12:02:31Z"
+lat: 31.51305556
+lon: -9.76972222
+updated_at: "2026-11-08T12:18:56Z"
 ---
 
 # 索维拉城（原摩加多尔） / Medina of Essaouira (formerly Mogador)
@@ -45,10 +45,10 @@ Essaouira is an exceptional example of a late-18th-century fortified town, built
 
 ## 交通 / Transport
 
-- ✈ **Rabat-Salé Airport (RBA)** — 82.4 km
-- ✈ **Beni Mellal Airport (BEM)** — 118.9 km
-- ✈ **Fes Saïss International Airport (FEZ)** — 124.4 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **9930.3 km**
+- ✈ **Essaouira-Mogador Airport (ESU)** — 15.3 km
+- ✈ **Al Massira Airport (AGA)** — 136.7 km
+- ✈ **Marrakesh Menara Airport (RAK)** — 164.6 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **10332.0 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

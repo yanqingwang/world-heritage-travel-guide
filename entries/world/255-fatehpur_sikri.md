@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iii)(iv)"
 lat: 27.091111111
 lon: 77.661111111
-updated_at: "2026-11-08T12:02:17Z"
+updated_at: "2026-11-08T12:18:54Z"
 ---
 
 # 法塔赫布尔西格里 / Fatehpur Sikri

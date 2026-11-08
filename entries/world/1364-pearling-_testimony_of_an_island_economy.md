@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2012"
 criteria: "(iii)"
-lat: 26.1916666655
-lon: 50.516666667500004
-updated_at: "2026-11-08T12:02:43Z"
+lat: 26.24128
+lon: 50.61351
+updated_at: "2026-11-08T12:19:03Z"
 ---
 
 # 采珠业，岛屿经济的见证 / Pearling, Testimony of an Island Economy
@@ -41,9 +41,9 @@ The site consists of seventeen buildings in Muharraq City, three offshore oyster
 
 ## 交通 / Transport
 
-- ✈ **Bahrain International Airport (BAH)** — 14.7 km
-- ✈ **King Fahd International Airport (DMM)** — 78.0 km
-- ✈ **Al-Ahsa International Airport (HOF)** — 144.3 km
+- ✈ **Bahrain International Airport (BAH)** — 3.8 km
+- ✈ **King Fahd International Airport (DMM)** — 85.1 km
+- ✈ **Hamad International Airport (DOH)** — 146.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6185.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

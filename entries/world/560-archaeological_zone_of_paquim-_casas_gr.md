@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1998"
 criteria: "(iii)(iv)"
-lat: 20.73112105134375
-lon: -99.907791877
-updated_at: "2026-11-08T12:02:28Z"
+lat: 30.36638889
+lon: -107.9475
+updated_at: "2026-11-08T12:18:55Z"
 ---
 
 # 大卡萨斯的帕魁姆考古区 / Archaeological Zone of Paquimé, Casas Grandes
@@ -45,10 +45,10 @@ Paquimé (Casas Grandes) desempeñó un papel clave en las relaciones comerciale
 
 ## 交通 / Transport
 
-- ✈ **Querétaro Intercontinental Airport (QRO)** — 31.6 km
-- ✈ **Felipe Ángeles International Airport (NLU)** — 144.0 km
-- ✈ **General Francisco J. Mujica International Airport (MLM)** — 152.2 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **12264.6 km**
+- ✈ **Abraham González International Airport (CJS)** — 202.3 km
+- ✈ **El Paso International Airport (ELP)** — 219.5 km
+- ✈ **Las Cruces International Airport (LRU)** — 235.0 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **10893.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

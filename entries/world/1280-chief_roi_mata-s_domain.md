@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(v)(vi)"
 lat: -17.69364
 lon: 168.23399
-updated_at: "2026-11-08T12:02:41Z"
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 罗伊·马达酋长的领地 / Chief Roi Mata’s Domain

@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ix)"
 lat: -11.683327777
 lon: 160.333327777
-updated_at: "2026-11-08T12:02:34Z"
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 东伦内尔岛 / East Rennell

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(viii)"
 lat: 44.379944444
 lon: 10.388916666
-updated_at: "2026-11-08T12:02:49Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 北亚平宁的蒸发喀斯特和洞穴 / Evaporitic Karst and Caves of Northern Apennines

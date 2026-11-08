@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "1993"
 criteria: "(x)"
-lat: 20.73112105134375
-lon: -99.907791877
-updated_at: "2026-11-08T12:02:28Z"
+lat: 27.79222222
+lon: -114.22777778
+updated_at: "2026-11-08T12:18:55Z"
 ---
 
 # 埃尔比斯开诺鲸鱼禁渔区 / Whale Sanctuary of El Vizcaino
@@ -49,10 +49,10 @@ Situado en la parte central de la península de Baja California, este sitio albe
 
 ## 交通 / Transport
 
-- ✈ **Querétaro Intercontinental Airport (QRO)** — 31.6 km
-- ✈ **Felipe Ángeles International Airport (NLU)** — 144.0 km
-- ✈ **General Francisco J. Mujica International Airport (MLM)** — 152.2 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **12264.6 km**
+- ✈ **Guerrero Negro Airport (GUB)** — 32.8 km
+- ✈ **Palo Verde Airport (SRL)** — 224.1 km
+- ✈ **General José María Yáñez International Airport (GYM)** — 325.2 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **10813.1 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

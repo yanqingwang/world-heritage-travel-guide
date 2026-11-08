@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iv)"
 lat: 52.448333
 lon: 13.45
-updated_at: "2026-11-08T12:02:40Z"
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 柏林现代主义住宅区 / Berlin Modernism Housing Estates

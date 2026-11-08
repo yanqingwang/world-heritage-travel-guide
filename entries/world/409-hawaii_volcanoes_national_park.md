@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(viii)"
 lat: 19.40083
 lon: -155.12361
-updated_at: "2026-11-08T12:02:23Z"
+updated_at: "2026-11-08T12:18:55Z"
 ---
 
 # 夏威夷火山国家公园 / Hawaii Volcanoes National Park

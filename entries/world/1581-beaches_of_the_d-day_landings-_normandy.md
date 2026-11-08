@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(vi)"
 lat: 49.37085
 lon: -0.87959
-updated_at: "2026-11-08T12:02:47Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 1944年诺曼底登陆海滩 / Beaches of the D-Day Landings, Normandy, 1944

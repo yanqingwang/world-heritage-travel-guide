@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)"
 lat: 39.650103
 lon: 31.97857
-updated_at: "2026-11-08T12:02:49Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 戈尔迪翁 / Gordion

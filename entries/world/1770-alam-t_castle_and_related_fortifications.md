@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(iii)"
-lat: 33.74695630819231
-lon: 51.33943194923077
-updated_at: "2026-11-08T12:02:50Z"
+lat: 36.44472222
+lon: 50.58611111
+updated_at: "2026-11-08T12:19:05Z"
 ---
 
 # 阿拉穆特城堡及相关防御工事 / Alamūt Castle and Related Fortifications
@@ -39,10 +39,10 @@ The serial property consists of Alamūt Castle and six associated fortifications
 
 ## 交通 / Transport
 
-- ✈ **Kashan Airport (KKS)** — 27.5 km
-- ✈ **Isfahan Shahid Beheshti International Airport (IFN)** — 121.3 km
-- ✈ **Imam Khomeini International Airport (IKA)** — 186.4 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **5686.7 km**
+- ✈ **Ramsar Airport (RZR)** — 52.2 km
+- ✈ **Payam International Airport (PYK)** — 77.4 km
+- ✈ **Nowshahr Airport (NSH)** — 82.0 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **5611.9 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

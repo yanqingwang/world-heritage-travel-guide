@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(iv)(v)"
 lat: 36.33416667
 lon: 36.84416667
-updated_at: "2026-11-08T12:02:43Z"
+updated_at: "2026-11-08T12:19:03Z"
 ---
 
 # 叙利亚北部古村落群 / Ancient Villages of Northern Syria

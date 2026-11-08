@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iv)(v)"
 lat: 61.128269
 lon: 21.513215
-updated_at: "2026-11-08T12:02:28Z"
+updated_at: "2026-11-08T12:18:56Z"
 ---
 
 # 劳马古城 / Old Rauma

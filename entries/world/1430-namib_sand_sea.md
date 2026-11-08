@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -23.0
 lon: 15.0
-updated_at: "2026-11-08T12:02:44Z"
+updated_at: "2026-11-08T12:19:03Z"
 ---
 
 # 纳米布沙漠 / Namib Sand Sea

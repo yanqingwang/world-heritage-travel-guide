@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)"
 lat: 37.574722222
 lon: 126.993611111
-updated_at: "2026-11-08T12:02:31Z"
+updated_at: "2026-11-08T12:18:56Z"
 ---
 
 # 宗庙 / Jongmyo Shrine

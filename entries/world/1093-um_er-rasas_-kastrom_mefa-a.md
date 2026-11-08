@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(iv)(vi)"
 lat: 31.499722222
 lon: 35.919722222
-updated_at: "2026-11-08T12:02:39Z"
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 乌姆赖萨斯考古遗址 / Um er-Rasas (Kastrom Mefa'a)

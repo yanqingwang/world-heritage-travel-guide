@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(v)"
 lat: 33.7837
 lon: 10.8833
-updated_at: "2026-11-08T12:02:49Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 杰尔巴：岛屿区域定居模式的见证 / Djerba: Testimony to a settlement pattern in an island territory

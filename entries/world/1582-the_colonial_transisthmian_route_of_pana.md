@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ii)(iv)"
 lat: 8.952430555
 lon: -79.534741666
-updated_at: "2026-11-08T12:02:47Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 殖民时期跨巴拿马地峡通道 / The Colonial Transisthmian Route of Panamá

@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(iv)(vi)"
 lat: 38.03277778
 lon: -78.50388889
-updated_at: "2026-11-08T12:02:25Z"
+updated_at: "2026-11-08T12:18:55Z"
 ---
 
 # 夏洛茨维尔的蒙蒂塞洛和弗吉尼亚大学 / Monticello and the University of Virginia in Charlottesville

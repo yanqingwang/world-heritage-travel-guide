@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(x)"
 lat: -1.05
 lon: 29.71666667
-updated_at: "2026-11-08T12:02:30Z"
+updated_at: "2026-11-08T12:18:56Z"
 ---
 
 # 布恩迪难以穿越的国家公园 / Bwindi Impenetrable National Park

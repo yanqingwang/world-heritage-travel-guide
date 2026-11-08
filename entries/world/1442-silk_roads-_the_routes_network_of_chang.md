@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(v)(vi)"
 lat: 34.3044
 lon: 108.8572
-updated_at: "2026-11-08T12:02:45Z"
+updated_at: "2026-11-08T12:19:03Z"
 ---
 
 # 丝绸之路：长安—天山廊道的路网 / Silk Roads: the Routes Network of Chang'an-Tianshan Corridor

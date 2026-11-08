@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)(vi)"
 lat: 25.381111111
 lon: 83.021388888
-updated_at: "2026-11-08T12:02:36Z"
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 鹿野苑古佛教遗址 / Ancient Buddhist Site of Sarnath

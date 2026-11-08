@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(ix)(x)"
 lat: 7.73611111
 lon: -77.54722222
-updated_at: "2026-11-08T12:02:14Z"
+updated_at: "2026-11-08T12:18:54Z"
 ---
 
 # 达连国家公园 / Darien National Park

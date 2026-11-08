@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2008"
 criteria: "(iii)(vi)"
-lat: 32.27210285742857
-lon: 35.055198094285714
-updated_at: "2026-11-08T12:02:40Z"
+lat: 32.81222222
+lon: 34.98638889
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 海法和西加利利的巴海圣地 / Bahá’i Holy Places in Haifa and the Western Galilee
@@ -39,10 +39,10 @@ The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their p
 
 ## 交通 / Transport
 
-- ✈ **Ben Gurion International Airport (TLV)** — 33.0 km
-- ✈ **Uri Michaeli Haifa International Airport (HFA)** — 59.8 km
-- ✈ **Marka International (Amman Civil) Airport (ADJ)** — 94.3 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **7140.5 km**
+- ✈ **Uri Michaeli Haifa International Airport (HFA)** — 5.4 km
+- ✈ **Ben Gurion International Airport (TLV)** — 89.5 km
+- ✈ **Beirut Rafic Hariri International Airport (BEY)** — 121.3 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **7080.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2001"
 criteria: "(ix)(x)"
-lat: 21.300911810714286
-lon: -78.87413804714286
-updated_at: "2026-11-08T12:02:33Z"
+lat: 20.45
+lon: -75.0
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 阿里杰罗德胡波尔德国家公园 / Alejandro de Humboldt National Park
@@ -45,10 +45,10 @@ La geología compleja y la topografía variada de este sitio han generado una di
 
 ## 交通 / Transport
 
-- ✈ **Ignacio Agramonte International Airport (CMW)** — 107.1 km
-- ✈ **Alberto Delgado Airport (TND)** — 128.2 km
-- ✈ **Jardines Del Rey Airport (CCC)** — 140.8 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **13014.7 km**
+- ✈ **Gustavo Rizo Airport (BCA)** — 52.3 km
+- ✈ **Antonio Maceo International Airport (SCU)** — 101.9 km
+- ✈ **Frank Pais International Airport (HOG)** — 141.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **13196.2 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

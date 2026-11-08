@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iii)(iv)"
 lat: 50.136111111
 lon: -5.383611111
-updated_at: "2026-11-08T12:02:40Z"
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 康沃尔和西德文矿区景观 / Cornwall and West Devon Mining Landscape

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2002"
 criteria: "(i)(ii)(iv)(v)"
-lat: 42.776667256122444
-lon: 11.998449920510204
-updated_at: "2026-11-08T12:02:38Z"
+lat: 36.88333333
+lon: 15.08333333
+updated_at: "2026-11-08T12:18:58Z"
 ---
 
 # 晚期的巴洛克城镇瓦拉迪那托（西西里东南部） / Late Baroque Towns of the Val di Noto (South-Eastern Sicily)
@@ -39,10 +39,10 @@ The eight towns in south-eastern Sicily: Caltagirone, Militello Val di Catania, 
 
 ## 交通 / Transport
 
-- ✈ **Perugia San Francesco d'Assisi – Umbria International Airport (PEG)** — 54.9 km
-- ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 110.1 km
-- ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 119.3 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **8039.3 km**
+- ✈ **Comiso Airport (CIY)** — 44.0 km
+- ✈ **Catania-Fontanarossa Airport (CTA)** — 64.9 km
+- ✈ **Malta International Airport (MLA)** — 126.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8327.6 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

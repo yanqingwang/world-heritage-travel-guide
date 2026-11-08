@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iv)"
 lat: 0.140222222
 lon: 6.646222222
-updated_at: "2026-11-08T12:02:50Z"
+updated_at: "2026-11-08T12:19:05Z"
 ---
 
 # 圣多美和普林西比罗萨种植园：殖民农业体系与强迫迁徙 / The Roças of Sao Tome and Principe: Colonial Agricultural System and Forced Migration

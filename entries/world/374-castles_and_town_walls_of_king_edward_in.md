@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)(iv)"
 lat: 53.139722222
 lon: -4.276944444
-updated_at: "2026-11-08T12:02:22Z"
+updated_at: "2026-11-08T12:18:55Z"
 ---
 
 # 圭内斯郡爱德华国王城堡和城墙 / Castles and Town Walls of King Edward in Gwynedd

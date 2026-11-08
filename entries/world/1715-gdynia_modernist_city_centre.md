@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(iv)"
-lat: 50.906695508
-lon: 19.756514222142858
-updated_at: "2026-11-08T12:02:50Z"
+lat: 54.52083333
+lon: 18.53888889
+updated_at: "2026-11-08T12:19:05Z"
 ---
 
 # 格丁尼亚现代主义市中心 / Gdynia Modernist City Centre
@@ -41,10 +41,10 @@ Located on the Baltic Sea coast, "Gdynia Modernist City Centre" encompasses the 
 
 ## 交通 / Transport
 
-- ✈ **Katowice Wojciech Korfanty International Airport (KTW)** — 67.5 km
-- ✈ **Kraków John Paul II International Airport (KRK)** — 92.2 km
-- ✈ **Łódź Władysław Reymont Airport (LCJ)** — 94.0 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **7154.1 km**
+- ✈ **Gdańsk Lech Wałęsa Airport (GDN)** — 16.6 km
+- ✈ **Khrabrovo Airport (KGD)** — 138.6 km
+- ✈ **Ignacy Jan Paderewski Bydgoszcz Airport (BZG)** — 162.6 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **6959.1 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

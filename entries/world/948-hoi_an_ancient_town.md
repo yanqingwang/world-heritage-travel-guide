@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(v)"
 lat: 15.877669444
 lon: 108.33265
-updated_at: "2026-11-08T12:02:37Z"
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 会安古镇 / Hoi An Ancient Town

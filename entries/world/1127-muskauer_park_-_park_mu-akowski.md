@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(iv)"
 lat: 51.547559
 lon: 14.723229
-updated_at: "2026-11-08T12:02:39Z"
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 穆斯考尔公园 / Muskauer Park / Park Mużakowski

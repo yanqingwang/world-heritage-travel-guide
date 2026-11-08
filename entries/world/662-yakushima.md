@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(vii)(ix)"
 lat: 30.358611111
 lon: 130.528611111
-updated_at: "2026-11-08T12:02:29Z"
+updated_at: "2026-11-08T12:18:56Z"
 ---
 
 # 屋久岛 / Yakushima

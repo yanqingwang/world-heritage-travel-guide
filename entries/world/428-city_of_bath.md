@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iv)"
 lat: 51.381388888
 lon: -2.359722222
-updated_at: "2026-11-08T12:02:24Z"
+updated_at: "2026-11-08T12:18:55Z"
 ---
 
 # 巴斯城 / City of Bath

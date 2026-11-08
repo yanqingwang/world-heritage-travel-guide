@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1991"
 criteria: "(i)(ii)(iv)"
-lat: 38.14629909917778
-lon: 1.0614192457555562
-updated_at: "2026-11-08T12:02:28Z"
+lat: 48.8567
+lon: 2.3522
+updated_at: "2026-11-08T12:18:56Z"
 ---
 
 # 巴黎塞纳河畔 / Paris, Banks of the Seine
@@ -45,10 +45,10 @@ Du Louvre jusqu'à la tour Eiffel, ou de la place de la Concorde au Grand Palais
 
 ## 交通 / Transport
 
-- ✈ **Ibiza Airport (IBZ)** — 85.2 km
-- ✈ **Alicante-Elche Miguel Hernández Airport (ALC)** — 142.3 km
-- ✈ **Region of Murcia International Airport (RMU)** — 195.4 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **9046.1 km**
+- ✈ **Paris-Orly Airport (ORY)** — 14.2 km
+- ✈ **Charles de Gaulle International Airport (CDG)** — 22.5 km
+- ✈ **Beauvais-Tillé airport (BVA)** — 68.7 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8220.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

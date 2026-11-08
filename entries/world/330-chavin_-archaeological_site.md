@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iii)"
 lat: -9.592775
 lon: -77.178452777
-updated_at: "2026-11-08T12:02:20Z"
+updated_at: "2026-11-08T12:18:54Z"
 ---
 
 # 夏文考古遗址 / Chavin (Archaeological Site)

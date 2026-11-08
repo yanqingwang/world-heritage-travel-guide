@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iv)"
 lat: 34.32083333
 lon: 71.94583333
-updated_at: "2026-11-08T12:02:13Z"
+updated_at: "2026-11-08T12:18:53Z"
 ---
 
 # 塔克特依巴依佛教遗址和萨尔依巴赫洛古遗址 / Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol

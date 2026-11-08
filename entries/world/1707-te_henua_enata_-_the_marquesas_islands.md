@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(vi)(vii)(ix)(x)"
 lat: -8.9
 lon: -139.6
-updated_at: "2026-11-08T12:02:50Z"
+updated_at: "2026-11-08T12:19:05Z"
 ---
 
 # 人类之地——马克萨斯群岛 / Te Henua Enata – The Marquesas Islands

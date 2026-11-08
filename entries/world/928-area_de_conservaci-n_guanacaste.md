@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ix)(x)"
 lat: 10.85
 lon: -85.61666667
-updated_at: "2026-11-08T12:02:36Z"
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 瓜纳卡斯特自然保护区 / Area de Conservación Guanacaste

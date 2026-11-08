@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 20.676897222
 lon: -103.337333333
-updated_at: "2026-11-08T12:02:33Z"
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 瓜达拉哈拉的卡瓦尼亚斯救济所 / Hospicio Cabañas, Guadalajara

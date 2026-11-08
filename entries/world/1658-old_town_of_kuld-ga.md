@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(v)"
 lat: 56.9675
 lon: 21.970555555
-updated_at: "2026-11-08T12:02:49Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 库尔迪加老城 / Old town of Kuldīga

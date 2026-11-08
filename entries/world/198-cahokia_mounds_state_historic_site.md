@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1982"
 criteria: "(iii)(iv)"
-lat: 34.49054280555
-lon: -101.34791811125
-updated_at: "2026-11-08T12:02:15Z"
+lat: 38.65388889
+lon: -90.06444444
+updated_at: "2026-11-08T12:18:54Z"
 ---
 
 # 卡俄基亚土丘历史遗址 / Cahokia Mounds State Historic Site
@@ -39,10 +39,10 @@ Cahokia Mounds, some 13 km north-east of St Louis, Missouri, is the largest pre-
 
 ## 交通 / Transport
 
-- ✈ **Rick Husband Amarillo International Airport (AMA)** — 87.2 km
-- ✈ **Lubbock Preston Smith International Airport (LBB)** — 101.8 km
-- ✈ **Clovis Municipal Airport (CVN)** — 158.9 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **10769.5 km**
+- ✈ **Scott AFB/Midamerica Airport (BLV)** — 23.3 km
+- ✈ **St. Louis Lambert International Airport (STL)** — 28.5 km
+- ✈ **Veterans Airport of Southern Illinois (MWA)** — 135.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **10868.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

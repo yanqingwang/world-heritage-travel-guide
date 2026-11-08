@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(iii)(vii)(viii)"
 lat: 25.666666666
 lon: 9.0
-updated_at: "2026-11-08T12:02:14Z"
+updated_at: "2026-11-08T12:18:54Z"
 ---
 
 # 阿杰尔的塔西利 / Tassili n'Ajjer

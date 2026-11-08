@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)(iv)"
 lat: 46.306111111111115
 lon: 23.130555555555556
-updated_at: "2026-11-08T12:02:47Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 罗西亚蒙大拿矿业景观 / Roșia Montană Mining Landscape

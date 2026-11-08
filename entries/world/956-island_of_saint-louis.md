@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 16.014796
 lon: -16.488762
-updated_at: "2026-11-08T12:02:37Z"
+updated_at: "2026-11-08T12:18:58Z"
 ---
 
 # 圣路易斯岛 / Island of Saint-Louis

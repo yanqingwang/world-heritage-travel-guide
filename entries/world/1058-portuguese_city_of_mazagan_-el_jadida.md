@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2004"
 criteria: "(ii)(iv)"
-lat: 33.467269315857145
-lon: -6.203932317285714
-updated_at: "2026-11-08T12:02:38Z"
+lat: 33.23333333
+lon: -8.5
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 马扎甘葡萄牙城 / Portuguese City of Mazagan (El Jadida)
@@ -45,10 +45,10 @@ The Portuguese fortification of Mazagan, now part of the city of El Jadida, 90-k
 
 ## 交通 / Transport
 
-- ✈ **Rabat-Salé Airport (RBA)** — 82.4 km
-- ✈ **Beni Mellal Airport (BEM)** — 118.9 km
-- ✈ **Fes Saïss International Airport (FEZ)** — 124.4 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **9930.3 km**
+- ✈ **Mohammed V International Airport (CMN)** — 85.9 km
+- ✈ **Rabat-Salé Airport (RBA)** — 185.7 km
+- ✈ **Marrakesh Menara Airport (RAK)** — 186.3 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **10038.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

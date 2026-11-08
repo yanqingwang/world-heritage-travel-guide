@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(vii)(ix)(x)"
 lat: -3.857944444
 lon: -32.42511111
-updated_at: "2026-11-08T12:02:37Z"
+updated_at: "2026-11-08T12:18:58Z"
 ---
 
 # 巴西大西洋群岛：费尔南多－迪诺罗尼亚群岛和罗卡斯岛保护区 / Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves

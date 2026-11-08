@@ -12,9 +12,9 @@ tier: "basic"
 category: "Mixed"
 year: "2018"
 criteria: "(iv)(x)"
-lat: 20.73112105134375
-lon: -99.907791877
-updated_at: "2026-11-08T12:02:47Z"
+lat: 18.2113889
+lon: -97.3994444
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 特瓦坎-奎卡特兰山谷：中部美洲的原始栖息地 / Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica
@@ -45,10 +45,10 @@ El valle de Tehuacán-Cuicatlán, en la región mesoamericana, es la zona árida
 
 ## 交通 / Transport
 
-- ✈ **Querétaro Intercontinental Airport (QRO)** — 31.6 km
-- ✈ **Felipe Ángeles International Airport (NLU)** — 144.0 km
-- ✈ **General Francisco J. Mujica International Airport (MLM)** — 152.2 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **12264.6 km**
+- ✈ **Hermanos Serdán International Airport (PBC)** — 146.9 km
+- ✈ **Xoxocotlán International Airport (OAX)** — 152.6 km
+- ✈ **General Heriberto Jara International Airport (VER)** — 164.1 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **12498.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

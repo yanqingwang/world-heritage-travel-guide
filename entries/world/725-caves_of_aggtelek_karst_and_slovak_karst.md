@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(viii)"
 lat: 48.471776789
 lon: 20.495324815
-updated_at: "2026-11-08T12:02:31Z"
+updated_at: "2026-11-08T12:18:56Z"
 ---
 
 # 阿格泰列克洞穴和斯洛伐克喀斯特地貌 / Caves of Aggtelek Karst and Slovak Karst

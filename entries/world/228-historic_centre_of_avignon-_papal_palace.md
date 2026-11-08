@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1995"
 criteria: "(i)(ii)(iv)"
-lat: 38.14629909917778
-lon: 1.0614192457555562
-updated_at: "2026-11-08T12:02:15Z"
+lat: 43.95
+lon: 4.8075
+updated_at: "2026-11-08T12:18:54Z"
 ---
 
 # 阿维尼翁历史中心：教皇宫、主教圣堂和阿维尼翁桥 / Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge
@@ -45,10 +45,10 @@ Cette ville du midi de la France fut le siège de la papauté au XIV e siècle. 
 
 ## 交通 / Transport
 
-- ✈ **Ibiza Airport (IBZ)** — 85.2 km
-- ✈ **Alicante-Elche Miguel Hernández Airport (ALC)** — 142.3 km
-- ✈ **Region of Murcia International Airport (RMU)** — 195.4 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **9046.1 km**
+- ✈ **Avignon Caumont airport (AVN)** — 8.9 km
+- ✈ **Nîmes-Arles-Camargue Airport (FNI)** — 38.0 km
+- ✈ **Marseille Provence Airport (MRS)** — 65.6 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **8444.8 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

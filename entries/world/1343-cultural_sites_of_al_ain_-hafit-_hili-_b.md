@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(iv)(v)"
 lat: 24.06777778
 lon: 55.80638889
-updated_at: "2026-11-08T12:02:43Z"
+updated_at: "2026-11-08T12:19:03Z"
 ---
 
 # 艾恩文化遗址：哈菲特、西里、比达-宾特-沙特以及绿洲 / Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)

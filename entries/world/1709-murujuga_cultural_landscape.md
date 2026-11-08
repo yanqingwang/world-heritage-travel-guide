@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(i)(iii)(v)"
 lat: -20.575277777
 lon: 116.810972222
-updated_at: "2026-11-08T12:02:50Z"
+updated_at: "2026-11-08T12:19:05Z"
 ---
 
 # 穆鲁朱加文化景观 / Murujuga Cultural Landscape

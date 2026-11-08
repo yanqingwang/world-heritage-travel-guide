@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iii)(v)"
 lat: -20.595583333
 lon: 14.372583333
-updated_at: "2026-11-08T12:02:40Z"
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 推菲尔泉岩画 / Twyfelfontein or /Ui-//aes

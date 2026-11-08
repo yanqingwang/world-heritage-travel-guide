@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(v)"
 lat: -38.0667
 lon: 141.917
-updated_at: "2026-11-08T12:02:47Z"
+updated_at: "2026-11-08T12:19:04Z"
 ---
 
 # 布吉必姆文化景观 / Budj Bim Cultural Landscape

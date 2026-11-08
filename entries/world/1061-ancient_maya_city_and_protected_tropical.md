@@ -12,9 +12,9 @@ tier: "basic"
 category: "Mixed"
 year: "2002"
 criteria: "(i)(ii)(iii)(iv)(ix)(x)"
-lat: 20.73112105134375
-lon: -99.907791877
-updated_at: "2026-11-08T12:02:38Z"
+lat: 18.10539167
+lon: -89.81082778
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 卡拉克穆尔古玛雅城与坎佩切热带森林保护区 / Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche
@@ -47,10 +47,10 @@ Situado en el sector central y meridional de la Península de Yucatán, al sur d
 
 ## 交通 / Transport
 
-- ✈ **Querétaro Intercontinental Airport (QRO)** — 31.6 km
-- ✈ **Felipe Ángeles International Airport (NLU)** — 144.0 km
-- ✈ **General Francisco J. Mujica International Airport (MLM)** — 152.2 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **12264.6 km**
+- ✈ **H.E Alfredo Martinez (Tower Hill) Airstrip (ORZ)** — 129.9 km
+- ✈ **Mundo Maya International Airport (FRS)** — 132.6 km
+- ✈ **Corozal Airport (CZH)** — 150.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **13045.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

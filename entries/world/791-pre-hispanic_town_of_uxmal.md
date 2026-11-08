@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iii)"
 lat: 20.3617
 lon: -89.7703
-updated_at: "2026-11-08T12:02:32Z"
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 乌斯马尔古镇 / Pre-Hispanic Town of Uxmal

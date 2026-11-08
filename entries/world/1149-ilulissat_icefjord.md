@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(vii)(viii)"
 lat: 69.15
 lon: -49.55
-updated_at: "2026-11-08T12:02:39Z"
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 伊路利萨特冰湾 / Ilulissat Icefjord

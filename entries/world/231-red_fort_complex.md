@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2007"
 criteria: "(ii)(iii)(vi)"
-lat: 22.824966552410256
-lon: 79.36635501135898
-updated_at: "2026-11-08T12:02:15Z"
+lat: 28.65583333
+lon: 77.24083333
+updated_at: "2026-11-08T12:18:54Z"
 ---
 
 # 德里红堡群 / Red Fort Complex
@@ -39,10 +39,10 @@ The Red Fort Complex was built as the palace fort of Shahjahanabad – the new c
 
 ## 交通 / Transport
 
-- ✈ **Jabalpur Airport (JLR)** — 80.4 km
-- ✈ **Gondia Airport (GDB)** — 172.9 km
-- ✈ **Dr. Babasaheb Ambedkar International Airport (NAG)** — 195.5 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **3898.0 km**
+- ✈ **Hindon Airport / Hindon Air Force Station (HDO)** — 12.9 km
+- ✈ **Indira Gandhi International Airport (DEL)** — 18.1 km
+- ✈ **Noida International Airport (DXN)** — 64.2 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **3779.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

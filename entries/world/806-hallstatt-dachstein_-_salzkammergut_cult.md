@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iii)(iv)"
 lat: 47.5594
 lon: 13.6464
-updated_at: "2026-11-08T12:02:33Z"
+updated_at: "2026-11-08T12:18:57Z"
 ---
 
 # 哈尔施塔特－达特施泰因萨尔茨卡默古特文化景观 / Hallstatt-Dachstein / Salzkammergut Cultural Landscape

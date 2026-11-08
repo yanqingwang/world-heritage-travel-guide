@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2005"
 criteria: "(iii)(v)"
-lat: 32.27210285742857
-lon: 35.055198094285714
-updated_at: "2026-11-08T12:02:39Z"
+lat: 30.54111111
+lon: 35.16083333
+updated_at: "2026-11-08T12:19:02Z"
 ---
 
 # 熏香之路——内盖夫的沙漠城镇 / Incense Route - Desert Cities in the Negev
@@ -39,10 +39,10 @@ The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, along with associa
 
 ## 交通 / Transport
 
-- ✈ **Ben Gurion International Airport (TLV)** — 33.0 km
-- ✈ **Uri Michaeli Haifa International Airport (HFA)** — 59.8 km
-- ✈ **Marka International (Amman Civil) Airport (ADJ)** — 94.3 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **7140.5 km**
+- ✈ **Ramon International Airport (ETM)** — 91.6 km
+- ✈ **King Hussein International Airport (AQJ)** — 104.3 km
+- ✈ **Taba International Airport (TCP)** — 111.6 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **7269.4 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

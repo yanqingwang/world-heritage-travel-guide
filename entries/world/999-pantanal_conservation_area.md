@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2000"
 criteria: "(vii)(ix)(x)"
-lat: -14.969457346999999
-lon: -45.92604658995
-updated_at: "2026-11-08T12:02:37Z"
+lat: -17.4
+lon: -57.5
+updated_at: "2026-11-08T12:18:58Z"
 ---
 
 # 潘塔奈尔保护区 / Pantanal Conservation Area
@@ -43,10 +43,10 @@ The Pantanal Conservation Area consists of a cluster of four protected areas wit
 
 ## 交通 / Transport
 
-- ✈ **Presidente Juscelino Kubitschek International Airport (BSB)** — 236.1 km
-- ✈ **Pedro Rabelo de Souza Airport (PYT)** — 272.7 km
-- ✈ **Mário Ribeiro Airport (MOC)** — 296.9 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **16933.7 km**
+- ✈ **Capitán Av. Salvador Ogaya G. airport (PSZ)** — 178.4 km
+- ✈ **Corumbá International Airport (CMG)** — 180.2 km
+- ✈ **Várzea Grande–Marechal Rondon International Airport (CGB)** — 243.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **17608.1 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

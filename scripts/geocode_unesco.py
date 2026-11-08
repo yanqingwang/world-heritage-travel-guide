@@ -14,7 +14,7 @@ import difflib
 import sys
 import time
 
-from common import RAW, get_json, load_json, now_iso, save_json, wiki_page
+from common import RAW, get_json, load_json, now_iso, save_json, wiki_page, wiki_search
 
 WD_API = "https://www.wikidata.org/w/api.php"
 
@@ -86,6 +86,9 @@ def main() -> int:
     print(f"{len(todo)} sites need geocoding")
     for i, (sid, name, country) in enumerate(todo, 1):
         title = (wiki.get(sid) or {}).get("sitelinks", {}).get("en")
+        if not title and name:
+            hits = wiki_search("en", name, 1)
+            title = hits[0]["title"] if hits else None
         coord = coord_from_wikipedia(title)
         source = "wikipedia"
         if coord is None:
