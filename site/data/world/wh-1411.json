@@ -1,0 +1,158 @@
+{
+ "id": "wh-1411",
+ "unesco_id": "1411",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 954,
+ "popularity_score": null,
+ "country": "UA",
+ "country_zh": "乌克兰",
+ "country_en": "Ukraine",
+ "countries": [
+  {
+   "iso2": "UA",
+   "zh": "乌克兰",
+   "en": "Ukraine"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "UA-40",
+ "subdivision_zh": "塞瓦斯托波尔",
+ "subdivision_en": "Sevastopol",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "陶里克切索内斯古城及农地",
+ "name_zh_source": "wikidata",
+ "name_en": "Ancient City of Tauric Chersonese and its Chora",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1411-ancient_city_of_tauric_chersonese_and_it",
+ "lat": 44.61083,
+ "lon": 33.49139,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(v)",
+ "year": "2013",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "该遗址拥有多利安希腊人于公元前 5 世纪在黑海北岸建立的一座城市的遗迹。它由六个组成部分组成，其中有城市遗迹和农业用地，分为数百块同等大小的矩形地块。这些土地支撑着葡萄园，其产品由这座城市出口，直到 15 世纪才一直繁荣发展。该遗址拥有多个公共建筑群和住宅区，以及早期基督教纪念碑以及石器时代和青铜时代定居点的遗迹；罗马和中世纪的塔楼防御工事和供水系统；以及保存完好的葡萄园种植和分隔墙的例子。公元 3 世纪，该地区被称为黑海生产力最高的葡萄酒中心，并且仍然是希腊、罗马和拜占庭帝国与黑海以北人民之间的交流中心。它是与古代城邦联系在一起的民主土地组织的杰出范例，反映了城市的社会组织。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The site features the remains of a city founded by Dorian Greeks in the 5th century BC on the northern shores of the Black Sea. It encompasses six component sites with urban remains and agricultural lands divided into several hundreds of chora, rectangular plots of equal size. The plots supported vineyards whose production was exported by the city which thrived until the 15th century. The site features several public building complexes and residential neighbourhoods, as well as early Christian monuments alongside remains from Stone and Bronze Age settlements; Roman and medieval tower fortifications and water supply systems; and exceptionally well-preserved examples of vineyard planting and dividing walls. In the 3rd century AD, the site was known as the most productive wine centre of the Black Sea and remained a hub of exchange between the Greek, Roman and Byzantine Empires and populations north of the Black Sea. It is an outstanding example of democratic land organization linked to an ancient polis, reflecting the city’s social organization.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chersonesos%20columns.jpg?width=1280",
+   "title": "Chersonesos columns.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Chersonesos%20columns.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1411.jpg",
+   "title": "Ancient City of Tauric Chersonese and its Chora",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1411",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1411",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sinop Airport",
+    "iata": "NOP",
+    "city": "Sinop",
+    "country": "TR",
+    "lat": 42.018313,
+    "lon": 35.071774,
+    "type": "medium_airport",
+    "distance_km": 315.3
+   },
+   {
+    "name": "Gelendzhik Airport",
+    "iata": "GDZ",
+    "city": "Gelendzhik",
+    "country": "RU",
+    "lat": 44.5820926295,
+    "lon": 38.0124807358,
+    "type": "medium_airport",
+    "distance_km": 357.9
+   },
+   {
+    "name": "Zonguldak Çaycuma Airport",
+    "iata": "ONQ",
+    "city": "Zonguldak",
+    "country": "TR",
+    "lat": 41.506401,
+    "lon": 32.0886,
+    "type": "medium_airport",
+    "distance_km": 363.5
+   }
+  ],
+  "nearest_airport_km": 315.3,
+  "distance_beijing_km": 6561.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UA",
+  "country_zh": "乌克兰",
+  "country_en": "Ukraine",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6]",
+  "notes": "Ukraine resumed its eVisa service in February 2025.[154]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UA",
+   "country_zh": "乌克兰",
+   "country_en": "Ukraine",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6]",
+   "notes": "Ukraine resumed its eVisa service in February 2025.[154]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1411"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

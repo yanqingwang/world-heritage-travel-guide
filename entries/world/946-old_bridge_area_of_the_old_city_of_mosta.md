@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(vi)"
 lat: 43.240176407
 lon: 18.398604555000002
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:37Z"
 ---
 
 # 莫斯塔尔旧城和旧桥地区 / Old Bridge Area of the Old City of Mostar

@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iv)"
 lat: 36.43889
 lon: -105.54167
-updated_at: "2026-11-08T12:18:55Z"
+updated_at: "2026-11-08T14:52:27Z"
 ---
 
 # 陶斯印第安村 / Taos Pueblo

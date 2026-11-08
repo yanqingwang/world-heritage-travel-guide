@@ -1,0 +1,162 @@
+{
+ "id": "wh-786",
+ "unesco_id": "786",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1156,
+ "popularity_score": null,
+ "country": "AT",
+ "country_zh": "奥地利",
+ "country_en": "Austria",
+ "countries": [
+  {
+   "iso2": "AT",
+   "zh": "奥地利",
+   "en": "Austria"
+  }
+ ],
+ "region": "Vienna",
+ "subdivision_iso": "AT-9",
+ "subdivision_zh": "维也纳",
+ "subdivision_en": "Vienna",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "申布伦宫殿和花园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Palace and Gardens of Schönbrunn",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "786-palace_and_gardens_of_schönbrunn",
+ "lat": 48.18667,
+ "lon": 16.31333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从18世纪到1918年，申布伦宫殿一直是哈布斯堡王朝(Habsburg)君主的住所，由建筑师约翰·本哈德·菲舍尔·冯·埃尔拉赫(Johann Bernhard Fischer von Erlach)和尼古拉斯·帕卡西(Nicolaus Pacassi)设计建造，到处都有极其精美的装饰艺术品。和花园一起的，还有建于1752年的世界上第一个动物园，包括一系列风格奇异的巴洛克式建筑以及各类艺术典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "From the 18th century to 1918, Schönbrunn was the residence of the Habsburg emperors. It was designed by the architects Johann Bernhard Fischer von Erlach and Nicolaus Pacassi and is full of outstanding examples of decorative art. Together with its gardens, the site of the world’s first zoo in 1752, it is a remarkable Baroque ensemble and a perfect example of Gesamtkunstwerk .",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20Sch%C3%B6nbrunn%20Wien%202014%20%28Zuschnitt%202%29.jpg?width=1280",
+   "title": "Schloss Schönbrunn Wien 2014 (Zuschnitt 2).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Schloss%20Sch%C3%B6nbrunn%20Wien%202014%20%28Zuschnitt%202%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_786.jpg",
+   "title": "Palace and Gardens of Schönbrunn",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/786",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/786",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vienna International Airport",
+    "iata": "VIE",
+    "city": "Vienna",
+    "country": "AT",
+    "lat": 48.110298,
+    "lon": 16.5697,
+    "type": "large_airport",
+    "distance_km": 20.8
+   },
+   {
+    "name": "M. R. Štefánik Airport",
+    "iata": "BTS",
+    "city": "Bratislava",
+    "country": "SK",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "distance_km": 66.7
+   },
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 110.8
+   }
+  ],
+  "nearest_airport_km": 20.8,
+  "distance_beijing_km": 7452.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AT",
+  "country_zh": "奥地利",
+  "country_en": "Austria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AT",
+   "country_zh": "奥地利",
+   "country_en": "Austria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/786"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-913",
+ "unesco_id": "913",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 458,
+ "popularity_score": 15810,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "Tochigi Prefecture",
+ "subdivision_iso": "JP-09",
+ "subdivision_zh": "栃木县",
+ "subdivision_en": "Tochigi Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "日光神殿和庙宇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Shrines and Temples of Nikko",
+ "name_local": "日光の社寺",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "913-shrines_and_temples_of_nikko",
+ "lat": 36.7565,
+ "lon": 139.5994,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)(vi)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "几个世纪以来，日光神殿和神庙与它们周围的自然环境一直被视为神圣之地，并因其杰出的建筑和装饰而闻名于世。同时该遗址与德川幕府时期的历史具有密切的关系。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The shrines and temples of Nikko, together with their natural surroundings, have for centuries been a sacred site known for its architectural and decorative masterpieces. They are closely associated with the history of the Tokugawa Shoguns.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "日光の社寺（にっこうのしゃじ）は、栃木県日光市にある寺社などから構成されるユネスコの世界遺産である。日光山内（にっこうさんない）、二社一寺（にしゃいちじ）とも称される。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikko%20toshogu%20shrine.jpg?width=1280",
+   "title": "Nikko toshogu shrine.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Nikko%20toshogu%20shrine.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_913.jpg",
+   "title": "Shrines and Temples of Nikko",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/913",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/913",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fukushima Airport",
+    "iata": "FKS",
+    "city": "Sukagawa",
+    "country": "JP",
+    "lat": 37.22740173339844,
+    "lon": 140.43099975585938,
+    "type": "medium_airport",
+    "distance_km": 90.5
+   },
+   {
+    "name": "Ibaraki Airport",
+    "iata": "IBR",
+    "city": "Omitama",
+    "country": "JP",
+    "lat": 36.181456,
+    "lon": 140.414434,
+    "type": "large_airport",
+    "distance_km": 97.0
+   },
+   {
+    "name": "Narita International Airport",
+    "iata": "NRT",
+    "city": "Narita",
+    "country": "JP",
+    "lat": 35.76858,
+    "lon": 140.388714,
+    "type": "large_airport",
+    "distance_km": 130.7
+   }
+  ],
+  "nearest_airport_km": 90.5,
+  "distance_beijing_km": 2088.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 32
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/913"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shrines%20and%20Temples%20of%20Nikk%C5%8D"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

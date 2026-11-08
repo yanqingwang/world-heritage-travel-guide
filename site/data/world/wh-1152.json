@@ -1,0 +1,162 @@
+{
+ "id": "wh-1152",
+ "unesco_id": "1152",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 158,
+ "popularity_score": 87535,
+ "country": "IS",
+ "country_zh": "冰岛",
+ "country_en": "Iceland",
+ "countries": [
+  {
+   "iso2": "IS",
+   "zh": "冰岛",
+   "en": "Iceland"
+  }
+ ],
+ "region": "Bláskógabyggð municipality, district of Arnessysla",
+ "subdivision_iso": "IS-BLA",
+ "subdivision_zh": "布劳斯科加比格兹",
+ "subdivision_en": "Bláskógabyggð",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "平位利尔国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Þingvellir National Park",
+ "name_local": "",
+ "local_lang": "is",
+ "local_lang_name": "Icelandic",
+ "slug": "1152-þingvellir_national_park",
+ "lat": 64.258055555,
+ "lon": -21.125,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "平位利尔（丁威勒）国家公园是一个曾经在冰岛历史上很受关注的会议——阿尔廷（露天议会）的召开地。阿尔廷始于公元930年，并一直持续到公元1798年。每年, 在两周多的时间内，阿尔廷制订相关的法律，强调自由民主的理念，并解决争议。对于冰岛人民来说，阿尔廷具有深远的历史渊源和象征作用。遗址包括平位利尔国家公园和阿尔廷会址，即大约50个用草皮和石头建造的摊棚的碎片。10世纪时的废墟被认为已深埋地下。该遗址还有18世纪和19世纪遗留下来的农用工具。该公园展示了一千多年间景观的保护方式。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Þingvellir (Thingvellir) is the National Park where the Althing, an open-air assembly representing the whole of Iceland, was established in 930 and continued to meet until 1798. Over two weeks a year, the assembly set laws - seen as a covenant between free men - and settled disputes. The Althing has deep historical and symbolic associations for the people of Iceland. The property includes the Þingvellir National Park and the remains of the Althing itself: fragments of around 50 booths built from turf and stone. Remains from the 10th century are thought to be buried underground. The site also includes remains of agricultural use from the 18th and 19th centuries. The park shows evidence of the way the landscape was husbanded over 1,000 years.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thingvellir.jpg?width=1280",
+   "title": "Thingvellir.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Thingvellir.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1152.jpg",
+   "title": "Þingvellir National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1152",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1152",
+ "transport": {
+  "airports": [
+   {
+    "name": "Reykjavík Domestic Airport",
+    "iata": "RKV",
+    "city": "Reykjavík",
+    "country": "IS",
+    "lat": 64.128732,
+    "lon": -21.93759,
+    "type": "medium_airport",
+    "distance_km": 41.9
+   },
+   {
+    "name": "Keflavik International Airport",
+    "iata": "KEF",
+    "city": "Reykjavík",
+    "country": "IS",
+    "lat": 63.985001,
+    "lon": -22.6056,
+    "type": "large_airport",
+    "distance_km": 78.0
+   },
+   {
+    "name": "Akureyri International Airport",
+    "iata": "AEY",
+    "city": "Akureyri",
+    "country": "IS",
+    "lat": 65.656573,
+    "lon": -18.072018,
+    "type": "large_airport",
+    "distance_km": 211.7
+   }
+  ],
+  "nearest_airport_km": 41.9,
+  "distance_beijing_km": 7870.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IS",
+  "country_zh": "冰岛",
+  "country_en": "Iceland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IS",
+   "country_zh": "冰岛",
+   "country_en": "Iceland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "is",
+  "local_lang_name": "Icelandic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 56
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1152"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C3%9Eingvellir"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

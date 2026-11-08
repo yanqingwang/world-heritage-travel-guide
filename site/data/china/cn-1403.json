@@ -1,0 +1,219 @@
+{
+ "id": "cn-1403",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "台州市",
+ "city_en": "Taizhou City",
+ "name_zh": "台州市天台山景区",
+ "name_en": "Taizhoushitiantaishan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "taizhoushitiantaishan-1403",
+ "lat": 29.163259,
+ "lon": 121.042193,
+ "address_zh": "浙江省台州市天台县和合街1号",
+ "address_en": "No. 1, Hehe Street, Tiantai County, Taizhou City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "天台山以佛教天台宗祖庭、道教南宗祖庭所在地和济公“活佛”的故乡而闻名于世。景区气候温和、历史悠久，自然景观和人文景观相互渗透，山、岩、洞、瀑各具神韵，形成了古、幽、清、奇的独特风格。",
+ "intro_en": "Tiantai Mountain is famous for being the seat of the ancestral court of the Tiantai Sect of Buddhism, the ancestral home of the Southern Taoist Sect, and the hometown of Jigong’s “living Buddha”. The scenic spot has a mild climate and a long history. The natural landscape and cultural landscape interpenetrate each other. The mountains, rocks, caves and waterfalls have their own charm, forming a unique style of ancient, quiet, pure and strange.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG/1280px-Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sui Dynasty Guoqing Temple Ancient Tower.JPG",
+   "author": "Jdefriez",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC11%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC11%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "浙江省人民政府公报2019年第11期.pdf",
+   "author": "Zhejiang People's Government",
+   "license": "Public domain",
+   "credit": "http://www.zj.gov.cn/col/col1621589/index.html",
+   "source": "https://commons.wikimedia.org/wiki/File:浙江省人民政府公报2019年第11期.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cliffs_of_Tiantai_Mountain.jpg/1280px-Cliffs_of_Tiantai_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cliffs of Tiantai Mountain.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Cliffs_of_Tiantai_Mountain.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mount_Tiantai_by_Wu_Bin%2C_1605%2C_Honolulu_Museum_of_Art_3678.1b.JPG/1280px-Mount_Tiantai_by_Wu_Bin%2C_1605%2C_Honolulu_Museum_of_Art_3678.1b.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Tiantai by Wu Bin, 1605, Honolulu Museum of Art 3678.1b.JPG",
+   "author": "Wu Bin",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Tiantai_by_Wu_Bin,_1605,_Honolulu_Museum_of_Art_3678.1b.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mountainside_of_Tiantai_Mountain.jpg/1280px-Mountainside_of_Tiantai_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mountainside of Tiantai Mountain.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mountainside_of_Tiantai_Mountain.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taizhou Luqiao Airport",
+    "iata": "HYN",
+    "city": "Taizhou (Luqiao)",
+    "country": "CN",
+    "lat": 28.562201,
+    "lon": 121.429001,
+    "type": "medium_airport",
+    "distance_km": 76.7
+   },
+   {
+    "name": "Ningbo Lishe International Airport",
+    "iata": "NGB",
+    "city": "Ningbo",
+    "country": "CN",
+    "lat": 29.82670021057129,
+    "lon": 121.46199798583984,
+    "type": "large_airport",
+    "distance_km": 84.2
+   },
+   {
+    "name": "Yiwu Airport",
+    "iata": "YIW",
+    "city": "Yiwu/Jinhua",
+    "country": "CN",
+    "lat": 29.342095,
+    "lon": 120.03116,
+    "type": "large_airport",
+    "distance_km": 100.1
+   }
+  ],
+  "nearest_airport_km": 76.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "天台山",
+    "name_en": null,
+    "lat": 29.1432514,
+    "lon": 120.973815,
+    "distance_km": 7.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "三门县",
+    "name_en": "Sanmenxian",
+    "lat": 29.057886,
+    "lon": 121.3587785,
+    "distance_km": 32.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "括苍",
+    "name_en": null,
+    "lat": 28.8467189,
+    "lon": 121.0006217,
+    "distance_km": 35.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "赤城宾馆",
+   "name_en": "Chicheng Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.1609377,
+   "lon": 121.023781,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "星际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1483454,
+   "lon": 121.0239635,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汉庭",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 29.1523426,
+   "lon": 120.9983846,
+   "distance_km": 4.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "于",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2034742,
+   "lon": 121.0059777,
+   "distance_km": 5.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "乾溪山庄",
+   "name_en": "Qianxi Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.1953303,
+   "lon": 121.2925721,
+   "distance_km": 24.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 6,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

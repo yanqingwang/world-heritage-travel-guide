@@ -1,0 +1,126 @@
+{
+ "id": "cn-997",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "陕西省",
+ "province_en": "Shaanxi",
+ "province_iso": "CN-SN",
+ "city_zh": "商洛市",
+ "city_en": "Shangluo",
+ "name_zh": "商洛市金丝峡景区",
+ "name_en": "Jinsixia Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "shangluoshijinsixia-997",
+ "lat": 33.456314,
+ "lon": 110.585101,
+ "address_zh": "陕西省商洛市商南县金丝峡镇",
+ "address_en": "Jinsixia Town, Shangnan County, Shangluo City, Shaanxi Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "景区内有白龙峡、黑龙峡、青龙峡、石燕寨和丹江源五大景区。金丝峡以窄、幽、秀、奇而闻名，河流密布，森林茂密，野生动植物繁多，原始生态保存完好，是秦岭地区最完整的嶂谷地质构造。",
+ "intro_en": "There are five major scenic spots in the scenic area: Bailong Gorge, Heilong Gorge, Qinglong Gorge, Shiyanzhai and Danjiangyuan. Jinsi Gorge is famous for being narrow, secluded, beautiful and strange, with dense rivers, dense forests, abundant wild animals and plants, and well-preserved original ecology. It is the most complete Zhanggu geological structure in the Qinling Mountains.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shiyan Wudangshan Airport",
+    "iata": "WDS",
+    "city": "Shiyan (Maojian)",
+    "country": "CN",
+    "lat": 32.592889,
+    "lon": 110.906296,
+    "type": "medium_airport",
+    "distance_km": 100.6
+   },
+   {
+    "name": "Ankang Fuqiang Airport",
+    "iata": "AKA",
+    "city": "Ankang (Hanbin)",
+    "country": "CN",
+    "lat": 32.75696,
+    "lon": 108.87338,
+    "type": "small_airport",
+    "distance_km": 177.4
+   },
+   {
+    "name": "Yuncheng Yanhu International Airport",
+    "iata": "YCU",
+    "city": "Yuncheng (Yanhu)",
+    "country": "CN",
+    "lat": 35.117823,
+    "lon": 111.034023,
+    "type": "large_airport",
+    "distance_km": 189.3
+   }
+  ],
+  "nearest_airport_km": 100.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "清油河",
+    "name_en": "Qingyouhe",
+    "lat": 33.5575707,
+    "lon": 110.7460913,
+    "distance_km": 18.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "铁峪铺",
+    "name_en": "Tieyupu",
+    "lat": 33.6274966,
+    "lon": 110.5434072,
+    "distance_km": 19.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "商南",
+    "name_en": "Shangnan",
+    "lat": 33.5281491,
+    "lon": 110.8960719,
+    "distance_km": 29.9,
+    "operator": "中国铁路西安局集团有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/金丝峡"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(i)(ii)(iv)"
 lat: 39.66861
 lon: 67.0
-updated_at: "2026-11-08T12:18:56Z"
+updated_at: "2026-11-08T14:52:29Z"
 ---
 
 # 处在文化十字路口的撒马尔罕城 / Samarkand – Crossroad of Cultures

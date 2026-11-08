@@ -1,0 +1,194 @@
+{
+ "id": "cn-1393",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "衢州市",
+ "city_en": "Quzhou City",
+ "name_zh": "衢州市江郎山•廿八都旅游区",
+ "name_en": "Quzhoushijianglangshan•nianbadou Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "quzhoushijianglangshan-nianbadou-1393",
+ "lat": 28.29801,
+ "lon": 118.489754,
+ "address_zh": "浙江省衢州市江山市江郎乡",
+ "address_en": "Jianglang Township, Jiangshan City, Quzhou City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "景区以丹霞奇峰为主要特色，由三爿石、十八曲、塔峰、须女湖、仙居寺等部分组成。江郎山以雄伟奇特的“三爿石”著称于世，拥有伟人峰、郎峰天游、开明禅寺、江郎书院等景点景观。廿八都在历史上是边区的重要集镇，素有“枫溪锁钥”之称。",
+ "intro_en": "The scenic spot is mainly characterized by Danxia Qifeng, which is composed of Sanyi Stone, Shibaqu, Tower Peak, Xunv Lake, Xianju Temple and other parts. Jianglang Mountain is famous for its majestic and unique \"Three Pillars\" and has scenic spots such as Great Man Peak, Langfeng Tianyou, Kaiming Zen Temple, and Jianglang Academy. Nianbadu was historically an important market town in the border area and was known as the \"Key to Maple Creek\".",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Jiangshan_Jianglangshan_2012.07.01_13-08-31.jpg/1280px-Jiangshan_Jianglangshan_2012.07.01_13-08-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jiangshan Jianglangshan 2012.07.01 13-08-31.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jiangshan_Jianglangshan_2012.07.01_13-08-31.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/20240608_Jianglang_Shan_%28103530%29.jpg/1280px-20240608_Jianglang_Shan_%28103530%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20240608 Jianglang Shan (103530).jpg",
+   "author": "Yumeto",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20240608_Jianglang_Shan_(103530).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/20240608_Jianglang_Shan_%28105711%29.jpg/1280px-20240608_Jianglang_Shan_%28105711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20240608 Jianglang Shan (105711).jpg",
+   "author": "Yumeto",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20240608_Jianglang_Shan_(105711).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/20240608_Jianglang_Shan_%28110311%29.jpg/1280px-20240608_Jianglang_Shan_%28110311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20240608 Jianglang Shan (110311).jpg",
+   "author": "Yumeto",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20240608_Jianglang_Shan_(110311).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Jianglangshan_moyatike_6036.jpg/1280px-Jianglangshan_moyatike_6036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jianglangshan moyatike 6036.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jianglangshan_moyatike_6036.jpg"
+  }
+ ],
+ "web": "http://www.jlsnbd.cn/index.htm",
+ "booking": "http://www.jlsnbd.cn/index.htm",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shangrao Sanqingshan Airport",
+    "iata": "SQD",
+    "city": "Shangrao (Hengfeng)",
+    "country": "CN",
+    "lat": 28.3797,
+    "lon": 117.9643,
+    "type": "medium_airport",
+    "distance_km": 52.2
+   },
+   {
+    "name": "Nanping Wuyishan Airport",
+    "iata": "WUS",
+    "city": "Wuyishan",
+    "country": "CN",
+    "lat": 27.7019,
+    "lon": 118.000999,
+    "type": "medium_airport",
+    "distance_km": 81.8
+   },
+   {
+    "name": "Quzhou Airport",
+    "iata": "JUZ",
+    "city": "Quzhou (Kezheng)",
+    "country": "CN",
+    "lat": 28.96613,
+    "lon": 118.898793,
+    "type": "medium_airport",
+    "distance_km": 84.3
+   }
+  ],
+  "nearest_airport_km": 52.2,
+  "high_speed_stations": [
+   {
+    "name": "玉山南",
+    "name_en": "Yushan South",
+    "lat": 28.6500774,
+    "lon": 118.2881073,
+    "distance_km": 43.8,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "五府山",
+    "name_en": "Wufushan",
+    "lat": 28.2326117,
+    "lon": 118.0409789,
+    "distance_km": 44.5,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "新塘边",
+    "name_en": null,
+    "lat": 28.6391584,
+    "lon": 118.4789548,
+    "distance_km": 37.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "贺村",
+    "name_en": null,
+    "lat": 28.6710536,
+    "lon": 118.5261433,
+    "distance_km": 41.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "湖沿",
+    "name_en": null,
+    "lat": 28.6601224,
+    "lon": 118.2833051,
+    "distance_km": 45.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "遇见铜钹28°开元名庭酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.2104626,
+   "lon": 118.2812422,
+   "distance_km": 22.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

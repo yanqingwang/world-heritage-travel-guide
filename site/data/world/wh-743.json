@@ -1,0 +1,162 @@
+{
+ "id": "wh-743",
+ "unesco_id": "743",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 723,
+ "popularity_score": 5105,
+ "country": "CO",
+ "country_zh": "哥伦比亚",
+ "country_en": "Colombia",
+ "countries": [
+  {
+   "iso2": "CO",
+   "zh": "哥伦比亚",
+   "en": "Colombia"
+  }
+ ],
+ "region": "Department of Cauca, in the jurisdiction of the municipality of Inza, in the “corregimiento” of San Andres de Pisimbalá",
+ "subdivision_iso": "CO-CAU",
+ "subdivision_zh": "考卡省",
+ "subdivision_en": "Cauca Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "铁拉登特罗国家考古公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "National Archeological Park of Tierradentro",
+ "name_local": "Parque Arqueológico Nacional de Tierradentro",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "743-national_archeological_park_of_tierraden",
+ "lat": 2.583,
+ "lon": -76.033,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公园有许多巨大的人体雕塑，包括6至10世纪的大量古代地下墓室。这些巨大地下墓穴（有的墓室宽达12米）都饰有这一时期家庭室内装饰用的图案，体现了安第斯山脉北部早期拉丁美洲社会的复杂性和文化的丰富性。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Several monumental statues of human figures can be seen in the park, which also contains many hypogea dating from the 6th to the 10th century. These huge underground tombs (some burial chambers are up to 12 m wide) are decorated with motifs that reproduce the internal decor of homes of the period. They reveal the social complexity and cultural wealth of a pre-Hispanic society in the northern Andes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este parque agrupa estatuas monumentales prehispí¡nicas de personajes humanos y contiene numerosos hipogeos que datan de los siglos VI a X. Estas vastas tumbas subterrí¡neas de enormes dimensiones (algunas cí¡maras mortuorias tienen 12 metros de anchura) estí¡n ornamentadas con motivos que reproducen la decoración interior de las viviendas de ese periodo. Los monumentos del parque atestiguan la complejidad social y la riqueza cultural de una sociedad prehispí¡nica de la región andina septentrional.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tombs%20in%20Tierra%20Dentro.jpg?width=1280",
+   "title": "Tombs in Tierra Dentro.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tombs%20in%20Tierra%20Dentro.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_743.jpg",
+   "title": "National Archeological Park of Tierradentro",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/743",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/743",
+ "transport": {
+  "airports": [
+   {
+    "name": "Guillermo León Valencia Airport",
+    "iata": "PPN",
+    "city": "Popayán",
+    "country": "CO",
+    "lat": 2.454359,
+    "lon": -76.609253,
+    "type": "medium_airport",
+    "distance_km": 65.6
+   },
+   {
+    "name": "Benito Salas Airport",
+    "iata": "NVA",
+    "city": "Neiva",
+    "country": "CO",
+    "lat": 2.95015,
+    "lon": -75.294,
+    "type": "medium_airport",
+    "distance_km": 91.7
+   },
+   {
+    "name": "Alfonso Bonilla Aragon International Airport",
+    "iata": "CLO",
+    "city": "Cali",
+    "country": "CO",
+    "lat": 3.542717,
+    "lon": -76.381898,
+    "type": "large_airport",
+    "distance_km": 113.5
+   }
+  ],
+  "nearest_airport_km": 65.6,
+  "distance_beijing_km": 15098.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CO",
+  "country_zh": "哥伦比亚",
+  "country_en": "Colombia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa[6][40]",
+  "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CO",
+   "country_zh": "哥伦比亚",
+   "country_en": "Colombia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa[6][40]",
+   "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 30
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/743"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tierradentro"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

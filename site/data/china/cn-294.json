@@ -1,0 +1,224 @@
+{
+ "id": "cn-294",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "襄阳市",
+ "city_en": "Xiangyang City",
+ "name_zh": "襄阳市古隆中景区",
+ "name_en": "Longzhong",
+ "name_en_source": "wikipedia",
+ "slug": "xiangyangshigulongzhong-294",
+ "lat": 32.0177,
+ "lon": 112.041882,
+ "address_zh": "湖北省襄阳襄城区隆中路6号",
+ "address_en": "No. 6, Longzhong Road, Xiangcheng District, Xiangyang, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "景区位于湖北省襄阳市，相传为诸葛亮“躬耕陇亩”、刘备“三顾茅庐”引发《隆中对》所在地，包括古隆中、水镜庄、承恩寺、七里山、鹤子川五大景点。",
+ "intro_en": "Longzhong (Chinese: 隆中; pinyin: Lóngzhōng) is a scenic area with total area of 209 square kilometres (81 sq mi) located approximately 13 kilometres (8.1 mi) away from Xiangyang, Hubei, China. It is known as the former home of the Three Kingdoms-era strategist Zhuge Liang.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Xingyang_Longzhong_2013.08.23_10-51-10.jpg/1280px-Xingyang_Longzhong_2013.08.23_10-51-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Xingyang Longzhong 2013.08.23 10-51-10.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Xingyang_Longzhong_2013.08.23_10-51-10.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Longzhong%2C_Nanyang%2C_China1.jpg/1280px-Longzhong%2C_Nanyang%2C_China1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Longzhong, Nanyang, China1.jpg",
+   "author": "Sherbet",
+   "license": "CC BY 2.5",
+   "credit": "http://zianzhiwofeiyu.lofter.com/post/1eb9f3b2_12d4262a2",
+   "source": "https://commons.wikimedia.org/wiki/File:Longzhong%2C_Nanyang%2C_China1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Longzhong%2C_Nanyang%2C_China4.jpg/1280px-Longzhong%2C_Nanyang%2C_China4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Longzhong, Nanyang, China4.jpg",
+   "author": "Sherbet",
+   "license": "CC BY 2.5",
+   "credit": "http://zianzhiwofeiyu.lofter.com/post/1eb9f3b2_12d4262a2",
+   "source": "https://commons.wikimedia.org/wiki/File:Longzhong%2C_Nanyang%2C_China4.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Longzhong%2C_Nanyang%2C_China5.jpg/1280px-Longzhong%2C_Nanyang%2C_China5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Longzhong, Nanyang, China5.jpg",
+   "author": "Sherbet",
+   "license": "CC BY 2.5",
+   "credit": "http://zianzhiwofeiyu.lofter.com/post/1eb9f3b2_12d4262a2",
+   "source": "https://commons.wikimedia.org/wiki/File:Longzhong%2C_Nanyang%2C_China5.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Longzhong%2C_Nanyang%2C_China7.jpg/1280px-Longzhong%2C_Nanyang%2C_China7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Longzhong, Nanyang, China7.jpg",
+   "author": "Sherbet",
+   "license": "CC BY 2.5",
+   "credit": "http://zianzhiwofeiyu.lofter.com/post/1eb9f3b2_12d4262a2",
+   "source": "https://commons.wikimedia.org/wiki/File:Longzhong%2C_Nanyang%2C_China7.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.lzfjq.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xiangyang Liuji Airport",
+    "iata": "XFN",
+    "city": "Xiangyang (Xiangzhou)",
+    "country": "CN",
+    "lat": 32.152222,
+    "lon": 112.291666,
+    "type": "medium_airport",
+    "distance_km": 27.9
+   },
+   {
+    "name": "Nanyang Jiangying Airport",
+    "iata": "NNY",
+    "city": "Nanyang (Wancheng)",
+    "country": "CN",
+    "lat": 32.982696,
+    "lon": 112.617467,
+    "type": "small_airport",
+    "distance_km": 120.1
+   },
+   {
+    "name": "Shiyan Wudangshan Airport",
+    "iata": "WDS",
+    "city": "Shiyan (Maojian)",
+    "country": "CN",
+    "lat": 32.592889,
+    "lon": 110.906296,
+    "type": "medium_airport",
+    "distance_km": 124.4
+   }
+  ],
+  "nearest_airport_km": 27.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "樊城西",
+    "name_en": "Fanchengxi",
+    "lat": 32.0712655,
+    "lon": 112.0728421,
+    "distance_km": 6.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "隆中",
+    "name_en": "Longzhong",
+    "lat": 31.9690727,
+    "lon": 111.9887731,
+    "distance_km": 7.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "襄阳",
+    "name_en": "Xiangyang",
+    "lat": 32.0594775,
+    "lon": 112.1491025,
+    "distance_km": 11.1,
+    "operator": "武汉铁路局襄阳段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "民发瑞际酒店",
+   "name_en": "Minfa Ruiji Hotel",
+   "stars": 5,
+   "brand": "民发",
+   "lat": 32.0792377,
+   "lon": 112.2436723,
+   "distance_km": 20.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "襄樊万达皇冠假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.0631039,
+   "lon": 112.127725,
+   "distance_km": 9.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "襄阳洲际酒店",
+   "name_en": "InterContinental Xiangyang",
+   "stars": null,
+   "brand": "InterContinental",
+   "lat": 32.0094427,
+   "lon": 112.1494891,
+   "distance_km": 10.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "隆中大酒店",
+   "name_en": "Longzhong Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.9929037,
+   "lon": 112.0304541,
+   "distance_km": 3.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "诺丁山居酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.9850438,
+   "lon": 112.0210389,
+   "distance_km": 4.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 33,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/隆中"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-574",
+ "unesco_id": "574",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 657,
+ "popularity_score": 7198,
+ "country": "TH",
+ "country_zh": "泰国",
+ "country_en": "Thailand",
+ "countries": [
+  {
+   "iso2": "TH",
+   "zh": "泰国",
+   "en": "Thailand"
+  }
+ ],
+ "region": "Sukhothai and Kamphaeng Phet Provinces",
+ "subdivision_iso": "TH-64",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "素可泰历史城镇及相关历史城镇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Town of Sukhothai and Associated Historic Towns",
+ "name_local": "เมืองประวัติศาสตร์สุโขทัยและเมืองบริวาร",
+ "local_lang": "th",
+ "local_lang_name": "Thai",
+ "slug": "574-historic_town_of_sukhothai_and_associate",
+ "lat": 17.02111111,
+ "lon": 99.70361111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "素可泰是13世纪和14世纪暹罗第一王国的首府，这里矗立着许多引人注目的纪念性建筑，反映了泰国早期建筑的艺术风格。素可泰王国时期逐步形成的灿烂文明迅速吸收了各种文化成分，并结合当地的古老传统，以此构成现在所谓的“素可泰风格”。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Sukhothai was the capital of the first Kingdom of Siam in the 13th and 14th centuries. It has a number of fine monuments, illustrating the beginnings of Thai architecture. The great civilization which evolved in the Kingdom of Sukhothai absorbed numerous influences and ancient local traditions; the rapid assimilation of all these elements forged what is known as the 'Sukhothai style'.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "เมืองประวัติศาสตร์สุโขทัยและเมืองบริวาร เป็น 1 ใน 3 แหล่งมรดกโลกแห่งแรกของประเทศไทย ร่วมกับอุทยานประวัติศาสตร์พระนครศรีอยุธยาและเขตรักษาพันธุ์สัตว์ป่าทุ่งใหญ่-ห้วยขาแข้ง (ซึ่งได้รับการขึ้นทะเบียนเป็นแหล่งมรดกโลกทางธรรมชาติแห่งแรกของประเทศไทย) หลังผ่านเกณฑ์ขององค์การการศึกษา วิทยาศาสตร์ และวัฒนธรรมแห่งสหประชาชาติ (ยูเนสโก) โดยเมืองประวัติศาสตร์สุโขทัยและเมืองบริวารเป็นแหล่งมรดกโลกทางวัฒนธรรม",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sukhothai%20historical%20park1.jpg?width=1280",
+   "title": "Sukhothai historical park1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sukhothai%20historical%20park1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_574.jpg",
+   "title": "Historic Town of Sukhothai and Associated Historic Towns",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/574",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/574",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sukhothai Airport",
+    "iata": "THS",
+    "city": "",
+    "country": "TH",
+    "lat": 17.238000869750977,
+    "lon": 99.81819915771484,
+    "type": "medium_airport",
+    "distance_km": 27.0
+   },
+   {
+    "name": "Phitsanulok Airport",
+    "iata": "PHS",
+    "city": "Phitsanulok",
+    "country": "TH",
+    "lat": 16.7829,
+    "lon": 100.278999,
+    "type": "medium_airport",
+    "distance_km": 66.7
+   },
+   {
+    "name": "Mae Sot Airport",
+    "iata": "MAQ",
+    "city": "",
+    "country": "TH",
+    "lat": 16.699899673461914,
+    "lon": 98.54509735107422,
+    "type": "medium_airport",
+    "distance_km": 128.4
+   }
+  ],
+  "nearest_airport_km": 27.0,
+  "distance_beijing_km": 3009.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TH",
+  "country_zh": "泰国",
+  "country_en": "Thailand",
+  "status": "visa_free",
+  "days": 60,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 60 days at a time, no more than 90 days within any 180 days. 60-day visa can be extended while in Thailand."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TH",
+   "country_zh": "泰国",
+   "country_en": "Thailand",
+   "status": "visa_free",
+   "days": 60,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 60 days at a time, no more than 90 days within any 180 days. 60-day visa can be extended while in Thailand."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "th",
+  "local_lang_name": "Thai",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 16
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/574"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Town%20of%20Sukhothai%20and%20Associated%20Historic%20Towns"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

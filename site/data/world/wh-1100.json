@@ -1,0 +1,159 @@
+{
+ "id": "wh-1100",
+ "unesco_id": "1100",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 749,
+ "popularity_score": 4455,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BR-RJ",
+ "subdivision_zh": "里约热内卢州",
+ "subdivision_en": "Rio de Janeiro",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "里约热内卢：山与海之间的卡里奥克景观",
+ "name_zh_source": "curated",
+ "name_en": "Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea",
+ "name_local": "",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "1100-rio_de_janeiro:_carioca_landscapes_betwe",
+ "lat": -22.963,
+ "lon": -43.245,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)(vi)",
+ "year": "2012",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该场地拥有独特的城市环境，涵盖了塑造和激发城市发展的关键自然元素：从蒂茹卡国家公园山脉的最高点到大海。其中还包括建于 1808 年的植物园、拥有著名基督雕像的科尔科瓦多山以及瓜纳巴拉湾周围的山丘，其中包括科帕卡巴纳湾沿岸精心设计的景观，这些景观为这座壮观城市的户外生活文化做出了贡献。里约热内卢还因其为音乐家、园林设计师和城市规划师提供的艺术灵感而闻名。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The site consists of an exceptional urban setting encompassing the key natural elements that have shaped and inspired the development of the city: from the highest points of the Tijuca National Park’s mountains down to the sea. They also include the Botanical Gardens, established in 1808, Corcovado Mountain with its celebrated statue of Christ, and the hills around Guanabara Bay, including the extensive designed landscapes along Copacabana Bay which have contributed to the outdoor living culture of this spectacular city. Rio de Janeiro is also recognized for the artistic inspiration it has provided to musicians, landscapers and urbanists.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Floresta%20da%20Tijuca%2060.jpg?width=1280",
+   "title": "Floresta da Tijuca 60.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Floresta%20da%20Tijuca%2060.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1100.jpg",
+   "title": "Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1100",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1100",
+ "transport": {
+  "airports": [
+   {
+    "name": "Santos Dumont Airport",
+    "iata": "SDU",
+    "city": "Rio de Janeiro",
+    "country": "BR",
+    "lat": -22.910397,
+    "lon": -43.16282,
+    "type": "large_airport",
+    "distance_km": 10.2
+   },
+   {
+    "name": "Rio de Janeiro Galeão – Tom Jobim International Airport",
+    "iata": "GIG",
+    "city": "Rio De Janeiro",
+    "country": "BR",
+    "lat": -22.809999,
+    "lon": -43.250557,
+    "type": "large_airport",
+    "distance_km": 17.0
+   },
+   {
+    "name": "Cabo Frio Airport",
+    "iata": "CFB",
+    "city": "Cabo Frio",
+    "country": "BR",
+    "lat": -22.921485,
+    "lon": -42.071874,
+    "type": "small_airport",
+    "distance_km": 120.2
+   }
+  ],
+  "nearest_airport_km": 10.2,
+  "distance_beijing_km": 17320.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 12
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1100"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tijuca%20Forest"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

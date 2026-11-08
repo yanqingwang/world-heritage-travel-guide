@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)(vi)"
 lat: 20.7225
 lon: 73.9425
-updated_at: "2026-11-08T12:19:05Z"
+updated_at: "2026-11-08T14:52:53Z"
 ---
 
 # 印度马拉塔军事景观 / Maratha Military Landscapes of India

@@ -1,0 +1,159 @@
+{
+ "id": "cn-380",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "海南省",
+ "province_en": "Hainan",
+ "province_iso": "CN-HI",
+ "city_zh": "三亚市",
+ "city_en": "Sanya",
+ "name_zh": "三亚市蜈支洲岛旅游区",
+ "name_en": "Wuzhizhoudao Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "sanyashiwuzhizhoudao-380",
+ "lat": 18.671918,
+ "lon": 109.526118,
+ "address_zh": "海南省三亚市海棠区林旺镇后海村",
+ "address_en": "Houhai Village, Linwang Town, Haitang District, Sanya City, Hainan Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "蜈支洲岛坐落在三亚市北部的海棠湾内，是海南岛周围为数不多的有淡水资源和丰富植被的小岛，岛上有两千多种植物。蜈支洲岛是世界上为数不多的没有礁石或者鹅卵石混杂的海岛，是国内较佳潜水基地，全年温和气爽，四季怡人，是度假、休闲、避寒、冬泳、娱乐的理想去处。",
+ "intro_en": "Wuzhizhou Island is located in Haitang Bay in the north of Sanya City. It is one of the few islands around Hainan Island with fresh water resources and rich vegetation. There are more than 2,000 kinds of plants on the island. Wuzhizhou Island is one of the few islands in the world without reefs or pebbles. It is a good diving base in China. It has mild and cool air all year round and is pleasant all year round. It is an ideal place for vacation, leisure, cold shelter, winter swimming and entertainment.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wuzhizhou-Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wuzhizhou-Island.jpg",
+   "author": "Jarling",
+   "license": "CC BY-SA 3.0",
+   "credit": "foto",
+   "source": "https://commons.wikimedia.org/wiki/File:Wuzhizhou-Island.jpg"
+  }
+ ],
+ "web": "http://www.wuzhizhou.com/",
+ "booking": "http://www.wuzhizhou.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sanya Phoenix International Airport",
+    "iata": "SYX",
+    "city": "Sanya (Tianya)",
+    "country": "CN",
+    "lat": 18.3029,
+    "lon": 109.412003,
+    "type": "large_airport",
+    "distance_km": 42.8
+   },
+   {
+    "name": "Qionghai Bo'ao Airport",
+    "iata": "BAR",
+    "city": "Qionghai (Basuo)",
+    "country": "CN",
+    "lat": 19.140951,
+    "lon": 110.452766,
+    "type": "medium_airport",
+    "distance_km": 110.6
+   },
+   {
+    "name": "Haikou Meilan International Airport",
+    "iata": "HAK",
+    "city": "Haikou (Meilan)",
+    "country": "CN",
+    "lat": 19.9349,
+    "lon": 110.459,
+    "type": "large_airport",
+    "distance_km": 171.2
+   }
+  ],
+  "nearest_airport_km": 42.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "天涯",
+    "name_en": null,
+    "lat": 18.3123359,
+    "lon": 109.4430289,
+    "distance_km": 40.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "亚龙湾",
+    "name_en": "Yalong Bay",
+    "lat": 18.3043516,
+    "lon": 109.5982924,
+    "distance_km": 41.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "三亚",
+    "name_en": "Sanya",
+    "lat": 18.2986924,
+    "lon": 109.4886823,
+    "distance_km": 41.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "海南七仙岭希尔顿逸林温泉度假酒店",
+   "name_en": "DoubleTree Resort by Hilton Hotel Hainan - Qixianling Hot Spring",
+   "stars": null,
+   "brand": null,
+   "lat": 18.7072643,
+   "lon": 109.6736162,
+   "distance_km": 16.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "雨林一号度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.4591166,
+   "lon": 109.646548,
+   "distance_km": 26.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/蜈支洲岛"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

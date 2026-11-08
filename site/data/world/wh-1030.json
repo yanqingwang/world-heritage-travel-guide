@@ -1,0 +1,162 @@
+{
+ "id": "wh-1030",
+ "unesco_id": "1030",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 468,
+ "popularity_score": 15000,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Derbyshire, England",
+ "subdivision_iso": "GB-DBY",
+ "subdivision_zh": "德比郡",
+ "subdivision_en": "Derbyshire",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "德文特河谷工业区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Derwent Valley Mills",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1030-derwent_valley_mills",
+ "lat": 53.108,
+ "lon": -1.556,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "德文特谷位于英格兰中部，拥有18世纪至19世纪兴起的大量棉纺织工厂，是一个具有重要历史意义和科技影响力的工业景区。在克劳姆弗德有现代工厂的原型，这里是阿克莱的发明被第一次运用到工业生产规模中的地方。工厂的工人宿舍群和其他一些纺织厂仍然保存完好，见证了这个地区社会经济的发展。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Derwent Valley in central England contains a series of 18th- and 19th- century cotton mills and an industrial landscape of high historical and technological interest. The modern factory owes its origins to the mills at Cromford, where Richard Arkwright's inventions were first put into industrial-scale production. The workers' housing associated with this and the other mills remains intact and illustrate the socio-economic development of the area.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arkwright%20Masson%20Mills.jpg?width=1280",
+   "title": "Arkwright Masson Mills.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Arkwright%20Masson%20Mills.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1030.jpg",
+   "title": "Derwent Valley Mills",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1030",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1030",
+ "transport": {
+  "airports": [
+   {
+    "name": "East Midlands Airport",
+    "iata": "EMA",
+    "city": "Nottingham, Leicestershire",
+    "country": "GB",
+    "lat": 52.8311,
+    "lon": -1.32806,
+    "type": "large_airport",
+    "distance_km": 34.4
+   },
+   {
+    "name": "Manchester Airport",
+    "iata": "MAN",
+    "city": "Manchester, Greater Manchester",
+    "country": "GB",
+    "lat": 53.349375,
+    "lon": -2.279521,
+    "type": "large_airport",
+    "distance_km": 55.1
+   },
+   {
+    "name": "Birmingham Airport",
+    "iata": "BHX",
+    "city": "Birmingham, West Midlands",
+    "country": "GB",
+    "lat": 52.453899,
+    "lon": -1.74803,
+    "type": "large_airport",
+    "distance_km": 73.9
+   }
+  ],
+  "nearest_airport_km": 34.4,
+  "distance_beijing_km": 8088.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 33
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1030"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Derwent%20Valley%20Mills"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

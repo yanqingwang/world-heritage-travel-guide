@@ -1,0 +1,125 @@
+{
+ "id": "cn-384",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "海南省",
+ "province_en": "Hainan",
+ "province_iso": "CN-HI",
+ "city_zh": "保亭黎族苗族自治县",
+ "city_en": "Baotinglizumiaozuzizhi County",
+ "name_zh": "保亭县呀诺达雨林文化旅游区",
+ "name_en": "Baotingxianyanuodayulin Cultural Tourism Area",
+ "name_en_source": "pinyin",
+ "slug": "baotingxianyanuodayulin-384",
+ "lat": 19.040516,
+ "lon": 109.627203,
+ "address_zh": "海南省保亭黎族苗族自治县三道镇三道广场",
+ "address_en": "Sandao Square, Sandao Town, Baoting Li and Miao Autonomous County, Hainan Province",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "呀诺达热带雨林景区是比较有观赏价值的热带雨林资源博览馆。景区主要由经石峡、梦幻谷、黎锦苑、山盟海誓、快乐体验、热带瓜果乡、雨林水族馆、欢乐雨林“呀诺达”大型演艺和综合服务区九个主题景观区组成。",
+ "intro_en": "Yanoda Tropical Rainforest Scenic Area is a tropical rainforest resource expo with relatively ornamental value. The scenic area is mainly composed of nine themed landscape areas: Jingshi Gorge, Dream Valley, Li Jinyuan, Mountain Alliance, Happy Experience, Tropical Fruit Country, Rainforest Aquarium, and Happy Rainforest \"Yanoda\" large-scale performance and comprehensive service area.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.yanoda.com/",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sanya Phoenix International Airport",
+    "iata": "SYX",
+    "city": "Sanya (Tianya)",
+    "country": "CN",
+    "lat": 18.3029,
+    "lon": 109.412003,
+    "type": "large_airport",
+    "distance_km": 85.1
+   },
+   {
+    "name": "Qionghai Bo'ao Airport",
+    "iata": "BAR",
+    "city": "Qionghai (Basuo)",
+    "country": "CN",
+    "lat": 19.140951,
+    "lon": 110.452766,
+    "type": "medium_airport",
+    "distance_km": 87.5
+   },
+   {
+    "name": "Haikou Meilan International Airport",
+    "iata": "HAK",
+    "city": "Haikou (Meilan)",
+    "country": "CN",
+    "lat": 19.9349,
+    "lon": 110.459,
+    "type": "large_airport",
+    "distance_km": 132.3
+   }
+  ],
+  "nearest_airport_km": 85.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "八一",
+    "name_en": null,
+    "lat": 19.4482062,
+    "lon": 109.3298542,
+    "distance_km": 55.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "儋州",
+    "name_en": "Danzhou",
+    "lat": 19.5344583,
+    "lon": 109.54725,
+    "distance_km": 55.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "云虎迎宾超",
+   "name_en": "Yun Hu Ying Bin Chao",
+   "stars": null,
+   "brand": null,
+   "lat": 18.9842115,
+   "lon": 109.8569223,
+   "distance_km": 24.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

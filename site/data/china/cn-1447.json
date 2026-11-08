@@ -1,0 +1,216 @@
+{
+ "id": "cn-1447",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "上海市",
+ "province_en": "Shanghai",
+ "province_iso": "CN-SH",
+ "city_zh": "浦东新区",
+ "city_en": "Pudong New Area",
+ "name_zh": "上海野生动物园",
+ "name_en": "Shanghaiyeshengdongwuyuan",
+ "name_en_source": "pinyin",
+ "slug": "shanghaiyeshengdongwuyuan-1447",
+ "lat": 31.060553,
+ "lon": 121.720833,
+ "address_zh": "上海市浦东新区南六公路178号",
+ "address_en": "No. 178, Nanliu Highway, Pudong New Area, Shanghai",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "上海野生动物园是野生动物们的温馨家园，是大都市里的天然氧吧。这里居住着来自国内外的200余种珍稀野生动物，共计上万头，它们在此快乐生活、繁衍生息。园区分为步行区、车入区及“水域探秘”三大部分。",
+ "intro_en": "Shanghai Wildlife Park is a warm home for wild animals and a natural oxygen bar in the metropolis. There are more than 200 species of rare wild animals from home and abroad, totaling tens of thousands of animals, living here happily and thriving. The park is divided into three parts: pedestrian area, vehicle entry area and \"water exploration\".",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Shanghai_Wild_Animal_Park_Main_Entrance.jpg/1280px-Shanghai_Wild_Animal_Park_Main_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shanghai Wild Animal Park Main Entrance.jpg",
+   "author": "周一楠",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Wild_Animal_Park_Main_Entrance.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%8E%A7%E5%88%B6%E6%80%A7%E8%AF%A6%E7%BB%86%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E5%87%86%E5%88%99%EF%BC%882016%E5%B9%B4%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.pdf/page1-960px-%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%8E%A7%E5%88%B6%E6%80%A7%E8%AF%A6%E7%BB%86%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E5%87%86%E5%88%99%EF%BC%882016%E5%B9%B4%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "上海市控制性详细规划技术准则（2016年修订版）.pdf",
+   "author": "上海市规划和国土资源局",
+   "license": "Public domain",
+   "credit": "http://www.shgtj.gov.cn/zcfg/ghbz/201701/P020170111543883631659.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%8E%A7%E5%88%B6%E6%80%A7%E8%AF%A6%E7%BB%86%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E5%87%86%E5%88%99%EF%BC%882016%E5%B9%B4%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%E4%B8%8A%E6%B5%B7%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E5%85%A8%E7%BD%91%E9%85%8D%E7%BA%BFV2025.24.2.pdf/page1-1280px-%E4%B8%8A%E6%B5%B7%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E5%85%A8%E7%BD%91%E9%85%8D%E7%BA%BFV2025.24.2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "上海轨道交通全网配线V2025.24.2.pdf",
+   "author": "贵道蕉通",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E5%85%A8%E7%BD%91%E9%85%8D%E7%BA%BFV2025.24.2.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%E4%B8%9C%E6%96%B9%E6%9E%A2%E7%BA%BD%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%9C%B0%E5%8C%BA%E4%B8%93%E9%A1%B9%E8%A7%84%E5%88%92%EF%BC%882025-2035%E5%B9%B4%EF%BC%89.pdf/page1-1280px-%E4%B8%9C%E6%96%B9%E6%9E%A2%E7%BA%BD%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%9C%B0%E5%8C%BA%E4%B8%93%E9%A1%B9%E8%A7%84%E5%88%92%EF%BC%882025-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "东方枢纽及周边地区专项规划（2025-2035年）.pdf",
+   "author": "上海市规划和自然资源局 上海市浦东新区人民政府",
+   "license": "Public domain",
+   "credit": "https://ghzyj.sh.gov.cn/cmsres/15/15c4b4854b6747b7a4f2e127dd2511ed/9babf01e3723ea2497f32e41300eef99.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%9C%E6%96%B9%E6%9E%A2%E7%BA%BD%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%9C%B0%E5%8C%BA%E4%B8%93%E9%A1%B9%E8%A7%84%E5%88%92%EF%BC%882025-2035%E5%B9%B4%EF%BC%89.pdf"
+  }
+ ],
+ "web": "https://www.shwzoo.com/index.aspx",
+ "booking": "http://web.lotsmall.cn/?m_id=853",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shanghai Pudong International Airport",
+    "iata": "PVG",
+    "city": "Shanghai (Pudong)",
+    "country": "CN",
+    "lat": 31.1434,
+    "lon": 121.805,
+    "type": "large_airport",
+    "distance_km": 12.2
+   },
+   {
+    "name": "Shanghai Hongqiao International Airport",
+    "iata": "SHA",
+    "city": "Shanghai (Minhang)",
+    "country": "CN",
+    "lat": 31.198104,
+    "lon": 121.33426,
+    "type": "large_airport",
+    "distance_km": 39.8
+   },
+   {
+    "name": "Jiaxing Nanhu Airport",
+    "iata": "JNH",
+    "city": "Xiuzhou, Hangzhou",
+    "country": "CN",
+    "lat": 30.698056,
+    "lon": 120.663056,
+    "type": "medium_airport",
+    "distance_km": 108.7
+   }
+  ],
+  "nearest_airport_km": 12.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "惠南",
+    "name_en": null,
+    "lat": 31.0286616,
+    "lon": 121.7880297,
+    "distance_km": 7.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "四团",
+    "name_en": null,
+    "lat": 30.8927054,
+    "lon": 121.7492062,
+    "distance_km": 18.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "龙阳路",
+    "name_en": "Longyang Road",
+    "lat": 31.2046984,
+    "lon": 121.5535315,
+    "distance_km": 22.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "上海东锦江希尔顿逸林酒店",
+   "name_en": "DoubleTree by Hilton Hotel Shanghai - Pudong",
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 31.2130198,
+   "lon": 121.5299452,
+   "distance_km": 24.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海外滩瑞吉酒店",
+   "name_en": "The St. Regis on the Bund, Shanghai",
+   "stars": 5,
+   "brand": "St. Regis",
+   "lat": 31.2297867,
+   "lon": 121.4922745,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华尔道夫酒店",
+   "name_en": "Waldorf-Astoria Shanghai on the Bund",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.2357244,
+   "lon": 121.4863051,
+   "distance_km": 29.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海威斯汀大饭店",
+   "name_en": "The Westin Bund Center, Shanghai",
+   "stars": 5,
+   "brand": "Westin",
+   "lat": 31.2343476,
+   "lon": 121.4824564,
+   "distance_km": 29.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海证大美爵酒店",
+   "name_en": "Grand Mercure Shanghai Century Park agoda",
+   "stars": 4,
+   "brand": null,
+   "lat": 31.2285781,
+   "lon": 121.5561671,
+   "distance_km": 24.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 316,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/上海野生动物园"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

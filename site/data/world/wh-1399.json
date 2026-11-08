@@ -1,0 +1,158 @@
+{
+ "id": "wh-1399",
+ "unesco_id": "1399",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 952,
+ "popularity_score": null,
+ "country": "FJ",
+ "country_zh": "斐济",
+ "country_en": "Fiji",
+ "countries": [
+  {
+   "iso2": "FJ",
+   "zh": "斐济",
+   "en": "Fiji"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FJ-06",
+ "subdivision_zh": "洛迈维蒂省",
+ "subdivision_en": "Lomaiviti",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "莱武卡历史港口镇",
+ "name_zh_source": "wikidata",
+ "name_en": "Levuka Historical Port Town",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1399-levuka_historical_port_town",
+ "lat": -17.68337778,
+ "lon": 178.8345333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2013",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该镇及其沿海滩的椰子树和芒果树丛中低矮的建筑是斐济的第一个殖民首都，于 1874 年割让给英国。它从 19 世纪初发展成为美国人和欧洲人的商业活动中心，他们在南太平洋岛屿土著居民的村庄周围建造了仓库、商店、港口设施、住宅以及宗教、教育和社会机构。这是一个罕见的晚期殖民港口城镇的例子，其发展受到土著社区的影响，土著社区的数量继续超过欧洲定居者。因此，该镇是19世纪末太平洋港口定居点的杰出典范，反映了最高海军力量对当地建筑传统的融合，从而形成了独特的景观。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The town and its low line of buildings set among coconut and mango trees along the beach front was the first colonial capital of Fiji, ceded to the British in 1874. It developed from the early 19th century as a centre of commercial activity by Americans and Europeans who built warehouses, stores, port facilities, residences, and religious, educational and social institutions around the villages of the South Pacific island’s indigenous population. It is a rare example of a late colonial port town that was influenced in its development by the indigenous community which continued to outnumber the European settlers. Thus the town, an outstanding example of late 19th century Pacific port settlements, reflects the integration of local building traditions by a supreme naval power, leading to the emergence of a unique landscape.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ChurchLevuka.jpg?width=1280",
+   "title": "ChurchLevuka.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:ChurchLevuka.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1399.jpg",
+   "title": "Levuka Historical Port Town",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1399",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1399",
+ "transport": {
+  "airports": [
+   {
+    "name": "Levuka Airfield",
+    "iata": "LEV",
+    "city": "Bureta",
+    "country": "FJ",
+    "lat": -17.7110996246,
+    "lon": 178.759002686,
+    "type": "small_airport",
+    "distance_km": 8.6
+   },
+   {
+    "name": "Nausori International Airport",
+    "iata": "SUV",
+    "city": "Nausori",
+    "country": "FJ",
+    "lat": -18.044226,
+    "lon": 178.561486,
+    "type": "large_airport",
+    "distance_km": 49.4
+   },
+   {
+    "name": "Ngau Airport",
+    "iata": "NGI",
+    "city": "Ngau",
+    "country": "FJ",
+    "lat": -18.115600585899998,
+    "lon": 179.339996338,
+    "type": "small_airport",
+    "distance_km": 71.9
+   }
+  ],
+  "nearest_airport_km": 8.6,
+  "distance_beijing_km": 9084.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FJ",
+  "country_zh": "斐济",
+  "country_en": "Fiji",
+  "status": "visa_free",
+  "days": 120,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FJ",
+   "country_zh": "斐济",
+   "country_en": "Fiji",
+   "status": "visa_free",
+   "days": 120,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1399"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

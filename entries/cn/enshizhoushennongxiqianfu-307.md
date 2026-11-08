@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Enshi Tujia and Miao Autonomous Prefecture"
 lat: 31.262986
 lon: 110.323423
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 恩施州神农溪纤夫文化旅游区 / Shennong Stream

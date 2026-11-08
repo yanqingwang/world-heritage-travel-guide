@@ -1,0 +1,162 @@
+{
+ "id": "wh-111",
+ "unesco_id": "111",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 592,
+ "popularity_score": 10137,
+ "country": "ET",
+ "country_zh": "埃塞俄比亚",
+ "country_en": "Ethiopia",
+ "countries": [
+  {
+   "iso2": "ET",
+   "zh": "埃塞俄比亚",
+   "en": "Ethiopia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ET-OR",
+ "subdivision_zh": "奥罗米亚州",
+ "subdivision_en": "Oromia Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "巴莱山国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Bale Mountains National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "111-bale_mountains_national_park",
+ "lat": 6.75,
+ "lon": 39.75,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "巴莱山（Bale）国家公园坐拥美丽非凡的多元景观，由远古熔岩喷发、冰河作用和东非大裂谷的分割共同塑造而成。这一独特的自然美景包括火山的峰岭和山脊、壮观的悬崖、绵延的沟壑、冰川湖泊、茂密的森林、幽深的峡谷和众多的瀑布。该地区在生态系统、物种和基因水平方面拥有丰富且独特的生物多样性。公园内有5条主要河流，滋养埃塞俄比亚境内外千百万人的生活和生计。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This property protects a landscape mosaic of extraordinary beauty that is shaped by the combined forces of ancient lava outpourings, glaciation and the dissection by the Great Rift Valley. It features volcanic peaks and ridges, dramatic escarpments, sweeping valleys, glacial lakes, lush forests, deep gorges and numerous waterfalls, creating exceptional natural beauty. The property harbours diverse and unique biodiversity at ecosystem, species and genetic levels, and five major rivers originate within the Park, estimated to supply water and support the livelihoods of millions of people in and beyond Ethiopia.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bale%20mountains.jpg?width=1280",
+   "title": "Bale mountains.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bale%20mountains.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_111.jpg",
+   "title": "Bale Mountains National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/111",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/111",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hawassa International Airport",
+    "iata": "AWA",
+    "city": "Hawassa",
+    "country": "ET",
+    "lat": 7.100611,
+    "lon": 38.396455,
+    "type": "large_airport",
+    "distance_km": 154.4
+   },
+   {
+    "name": "Arba Minch Airport",
+    "iata": "AMH",
+    "city": "Arba Minch",
+    "country": "ET",
+    "lat": 6.03939,
+    "lon": 37.5905,
+    "type": "medium_airport",
+    "distance_km": 251.4
+   },
+   {
+    "name": "Addis Ababa Bole International Airport",
+    "iata": "ADD",
+    "city": "Addis Ababa",
+    "country": "ET",
+    "lat": 8.97789,
+    "lon": 38.799301,
+    "type": "large_airport",
+    "distance_km": 269.0
+   }
+  ],
+  "nearest_airport_km": 154.4,
+  "distance_beijing_km": 8496.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ET",
+  "country_zh": "埃塞俄比亚",
+  "country_en": "Ethiopia",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6]",
+  "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[49] e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days.[50] Visa free for holders of passports for public affairs.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ET",
+   "country_zh": "埃塞俄比亚",
+   "country_en": "Ethiopia",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6]",
+   "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[49] e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days.[50] Visa free for holders of passports for public affairs.[18]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/111"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bale%20Mountains%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

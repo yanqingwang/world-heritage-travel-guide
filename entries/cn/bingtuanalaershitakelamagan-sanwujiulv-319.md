@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Alaer City"
 lat: 40.54896
 lon: 81.281538
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区 / Aral, Xinjiang

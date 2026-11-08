@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(i)(ii)"
 lat: 45.55
 lon: 11.55
-updated_at: "2026-11-08T12:18:56Z"
+updated_at: "2026-11-08T14:52:31Z"
 ---
 
 # 维琴查城和威尼托的帕拉迪恩别墅 / City of Vicenza and the Palladian Villas of the Veneto

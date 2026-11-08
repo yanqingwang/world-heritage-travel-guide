@@ -1,0 +1,162 @@
+{
+ "id": "wh-780",
+ "unesco_id": "780",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 250,
+ "popularity_score": 39348,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Prefecture of Imathia, Region of Central Macedonia",
+ "subdivision_iso": "GR-53",
+ "subdivision_zh": "伊马夏专区",
+ "subdivision_en": "Imathia Regional Unit",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "韦尔吉纳的考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Aigai (modern name Vergina)",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "780-archaeological_site_of_aigai_(modern_nam",
+ "lat": 40.4779658,
+ "lon": 22.3227596,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "艾加伊城(Aigai)是马其顿王国古代的第一个首都，发现于19世纪，靠近希腊北部的韦尔吉纳。其中最重要的遗迹是一个用马赛克和灰泥装饰的巨大宫殿，以及包括300多个坟墓的墓地，其中一些坟墓建于公元前11世纪。大古墓中的一个皇家墓穴已经确认属于菲利普二世。这位国王曾征服所有希腊城市，为他的儿子亚历山大以及希腊世界的扩张铺平了道路。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The city of Aigai, the ancient first capital of the Kingdom of Macedonia, was discovered in the 19th century near Vergina, in northern Greece. The most important remains are the monumental palace, lavishly decorated with mosaics and painted stuccoes, and the burial ground with more than 300 tumuli, some of which date from the 11th century B.C. One of the royal tombs in the Great Tumulus is identified as that of Philip II, who conquered all the Greek cities, paving the way for his son Alexander and the expansion of the Hellenistic world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%98%D0%B3%D0%B0%20%28%D0%9A%D1%83%D1%82%D0%BB%D0%B5%D1%88%29%2002.jpg?width=1280",
+   "title": "Ајга (Кутлеш) 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%98%D0%B3%D0%B0%20%28%D0%9A%D1%83%D1%82%D0%BB%D0%B5%D1%88%29%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_780.jpg",
+   "title": "Archaeological Site of Aigai (modern name Vergina)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/780",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/780",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kozani National Airport Filippos",
+    "iata": "KZI",
+    "city": "Kozani",
+    "country": "GR",
+    "lat": 40.286098,
+    "lon": 21.840799,
+    "type": "medium_airport",
+    "distance_km": 46.1
+   },
+   {
+    "name": "Thessaloniki Macedonia International Airport",
+    "iata": "SKG",
+    "city": "Thessaloniki",
+    "country": "GR",
+    "lat": 40.51928,
+    "lon": 22.970009,
+    "type": "large_airport",
+    "distance_km": 54.9
+   },
+   {
+    "name": "Kastoria National Airport Aristotle",
+    "iata": "KSO",
+    "city": "Argos Orestiko",
+    "country": "GR",
+    "lat": 40.446301,
+    "lon": 21.2822,
+    "type": "small_airport",
+    "distance_km": 88.1
+   }
+  ],
+  "nearest_airport_km": 46.1,
+  "distance_beijing_km": 7606.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 14
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/780"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aegae%20%28Macedonia%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

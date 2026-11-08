@@ -1,0 +1,122 @@
+{
+ "id": "cn-26549",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "吉林省",
+ "province_en": "Jilin",
+ "province_iso": "CN-JL",
+ "city_zh": "白城市",
+ "city_en": "Baicheng City",
+ "name_zh": "白城市大安嫩江湾旅游区",
+ "name_en": "Baichengshidaannenjiangwan Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "baichengshidaannenjiangwan-26549",
+ "lat": 45.534909,
+ "lon": 124.301536,
+ "address_zh": "吉林省白城市大安市大安经济开发区嫩江北街",
+ "address_en": "Nenjiang North Street, Daan Economic Development Zone, Daan City, Baicheng City, Jilin Province",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "嫩江湾旅游区地处吉林省大安市，距城区仅1公里。景区总面积3.5平方公里，有老坎子码头、辽皇观鱼台、华夷同风院等大小景点百余处。因系千里嫩江第一湾而闻名天下，是松嫩平原上一颗璀璨的明珠，先后被评为国家森林公园、国家湿地公园、国家级水利风景区。",
+ "intro_en": "Nenjiang Bay Tourist Area is located in Da'an City, Jilin Province, only 1 km away from the city. The total area of ​​the scenic spot is 3.5 square kilometers, and there are more than 100 large and small scenic spots such as Laokanzi Wharf, Liaohuang Fish Viewing Platform, Huayi Tongfeng Yuan, etc. It is famous all over the world for being the first bay of the Nenjiang River in thousands of miles. It is a shining pearl on the Songnen Plain. It has been rated as a National Forest Park, a National Wetland Park, and a National Water Conservancy Scenic Area.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "https://www.danjwlyq.com/da-www/",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Songyuan Chaganhu Airport",
+    "iata": "YSQ",
+    "city": "Qian Gorlos Mongol Autonomous County",
+    "country": "CN",
+    "lat": 44.931143,
+    "lon": 124.552121,
+    "type": "medium_airport",
+    "distance_km": 69.9
+   },
+   {
+    "name": "Baicheng Chang'an Airport",
+    "iata": "DBC",
+    "city": "Baicheng",
+    "country": "CN",
+    "lat": 45.505278,
+    "lon": 123.019722,
+    "type": "medium_airport",
+    "distance_km": 99.9
+   },
+   {
+    "name": "Daqing Sartu Airport",
+    "iata": "DQA",
+    "city": "Daqing",
+    "country": "CN",
+    "lat": 46.750883,
+    "lon": 125.138642,
+    "type": "small_airport",
+    "distance_km": 149.8
+   }
+  ],
+  "nearest_airport_km": 69.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "大安北",
+    "name_en": "Da'an North",
+    "lat": 45.514651,
+    "lon": 124.2323097,
+    "distance_km": 5.8,
+    "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+    "high_speed": false
+   },
+   {
+    "name": "大安",
+    "name_en": "Da'an",
+    "lat": 45.4808364,
+    "lon": 124.276354,
+    "distance_km": 6.3,
+    "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+    "high_speed": false
+   },
+   {
+    "name": "大安西",
+    "name_en": null,
+    "lat": 45.5294108,
+    "lon": 124.1485494,
+    "distance_km": 11.9,
+    "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

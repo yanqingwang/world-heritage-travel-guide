@@ -1,0 +1,283 @@
+{
+ "id": "wh-240",
+ "unesco_id": "240",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 38,
+ "popularity_score": 328322,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Madhya Pradesh",
+ "subdivision_iso": "IN-MP",
+ "subdivision_zh": "",
+ "subdivision_en": "Madhya Pradesh",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "卡杰拉霍建筑群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Khajuraho Group of Monuments",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "240-khajuraho_group_of_monuments",
+ "lat": 24.85222,
+ "lon": 79.92222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡杰拉霍庙宇群建于章德拉王朝，其于公元950年至1050年间达到统治的鼎盛时期。目前仅存有约20座庙宇，它们分为三组不同的群体，分属于两个不同的宗教印度教和耆那教。在这里，建筑与雕塑达到了完美的平衡。著名的坎达里亚寺庙饰有大量内容丰富、绚丽多姿的雕塑，是印度艺术中的经典之作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The temples at Khajuraho were built during the Chandella dynasty, which reached its apogee between 950 and 1050. Only about 20 temples remain; they fall into three distinct groups and belong to two different religions – Hinduism and Jainism. They strike a perfect balance between architecture and sculpture. The Temple of Kandariya is decorated with a profusion of sculptures that are among the greatest masterpieces of Indian art.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahadev%20Temple%20Western%20Group%20of%20Temples%20Khajuraho%20India%20-%20panoramio.jpg?width=1280",
+   "title": "Mahadev Temple Western Group of Temples Khajuraho India - panoramio.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mahadev%20Temple%20Western%20Group%20of%20Temples%20Khajuraho%20India%20-%20panoramio.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/100AD.jpg/1280px-100AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "100AD.jpg",
+   "author": "Viv269",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:100AD.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/2023_Khajuraho_Temple.jpg/1280px-2023_Khajuraho_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2023 Khajuraho Temple.jpg",
+   "author": "Sankitdev",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Khajuraho_Temple.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2025_historical_place.jpg/1280px-2025_historical_place.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2025 historical place.jpg",
+   "author": "Viv269",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2025_historical_place.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/An_engraving_by_E._Therond%2C_from_%27Le_Tour_du_Monde%27%2C_1873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "An engraving by E. Therond, from 'Le Tour du Monde', 1873.jpg",
+   "author": "E. Therond,",
+   "license": "Public domain",
+   "credit": "https://franpritchett.com/00routesdata/0900_0999/khajuraho/jagadambi/jagadambi.html",
+   "source": "https://commons.wikimedia.org/wiki/File:An_engraving_by_E._Therond%2C_from_%27Le_Tour_du_Monde%27%2C_1873.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/240",
+ "transport": {
+  "airports": [
+   {
+    "name": "Khajuraho Airport",
+    "iata": "HJR",
+    "city": "Khajuraho",
+    "country": "IN",
+    "lat": 24.8172,
+    "lon": 79.918602,
+    "type": "medium_airport",
+    "distance_km": 3.9
+   },
+   {
+    "name": "Rewa Airport, Chorhata, REWA",
+    "iata": "REW",
+    "city": "Rewa",
+    "country": "IN",
+    "lat": 24.503401,
+    "lon": 81.220299,
+    "type": "medium_airport",
+    "distance_km": 136.8
+   },
+   {
+    "name": "Kanpur Airport",
+    "iata": "KNU",
+    "city": "Kanpur",
+    "country": "IN",
+    "lat": 26.404301,
+    "lon": 80.410103,
+    "type": "medium_airport",
+    "distance_km": 179.4
+   }
+  ],
+  "nearest_airport_km": 3.9,
+  "distance_beijing_km": 3800.3,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Khajuraho",
+    "name_en": null,
+    "lat": 24.7963896,
+    "lon": 79.8892878,
+    "distance_km": 7.0,
+    "operator": "NCR"
+   },
+   {
+    "name": "Rajnagar K",
+    "name_en": null,
+    "lat": 24.9038663,
+    "lon": 79.8774505,
+    "distance_km": 7.3,
+    "operator": "NCR"
+   },
+   {
+    "name": "Duriyaganj",
+    "name_en": null,
+    "lat": 24.8012943,
+    "lon": 79.7823535,
+    "distance_km": 15.2,
+    "operator": "NCR"
+   },
+   {
+    "name": "Basari",
+    "name_en": null,
+    "lat": 24.8135796,
+    "lon": 79.702878,
+    "distance_km": 22.5,
+    "operator": "NCR"
+   },
+   {
+    "name": "Singhpur Dumra",
+    "name_en": null,
+    "lat": 25.066363,
+    "lon": 79.8968977,
+    "distance_km": 23.9,
+    "operator": "NCR"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Yogi Lodge",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 24.8531906,
+   "lon": 79.9238693,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Jass",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8426681,
+   "lon": 79.9235769,
+   "distance_km": 1.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Pramad Palace",
+   "name_en": "Hotel Pramad Palace",
+   "stars": null,
+   "brand": null,
+   "lat": 24.8515761,
+   "lon": 79.924293,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fusion Guest House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8519277,
+   "lon": 79.9246032,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marble Palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8517634,
+   "lon": 79.9252925,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/240"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khajuraho%20Group%20of%20Monuments"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-460",
+ "unesco_id": "460",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1090,
+ "popularity_score": null,
+ "country": "CU",
+ "country_zh": "古巴",
+ "country_en": "Cuba",
+ "countries": [
+  {
+   "iso2": "CU",
+   "zh": "古巴",
+   "en": "Cuba"
+  }
+ ],
+ "region": "Province of Sancti Spiritus",
+ "subdivision_iso": "CU-07",
+ "subdivision_zh": "圣斯皮里图斯省",
+ "subdivision_en": "Sancti Spíritus Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "特立尼达和洛斯因赫尼奥斯山谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "Trinidad and the Valley de los Ingenios",
+ "name_local": "Trinidad y Valle de los Ingenios",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "460-trinidad_and_the_valley_de_los_ingenios",
+ "lat": 21.80305556,
+ "lon": -79.98444444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "特立尼达是16世纪初期为纪念复活主节而建立的，是征服美洲大陆的桥头堡。其18世纪和19世纪的建筑，包括帕拉西奥－伯尼特宫殿和帕拉西奥－坎特罗宫殿，都是在食糖贸易最繁荣的岁月建造的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the early 16th century in honour of the Holy Trinity, the city was a bridgehead for the conquest of the American continent. Its 18th- and 19th-century buildings, such as the Palacio Brunet and the Palacio Cantero, were built in its days of prosperity from the sugar trade.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fundada a principios del siglo XVI en honor de la Santísima Trinidad, la ciudad de este mismo nombre fue cabeza de puente en la conquista del continente americano por los españoles. Sus edificios de los siglos XVIII y XIX, como el Palacio Brunet y el Palacio Cantero, fueron construidos en la época de prosperidad de la industria azucarera.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sancti%20Sp%C3%ADritus%20Province%20-%20Trinidad%20and%20the%20Valley%20de%20los%20Ingenios%20-%2020180204160955.jpg?width=1280",
+   "title": "Sancti Spíritus Province - Trinidad and the Valley de los Ingenios - 20180204160955.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sancti%20Sp%C3%ADritus%20Province%20-%20Trinidad%20and%20the%20Valley%20de%20los%20Ingenios%20-%2020180204160955.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_460.jpg",
+   "title": "Trinidad and the Valley de los Ingenios",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/460",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/460",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alberto Delgado Airport",
+    "iata": "TND",
+    "city": "Trinidad",
+    "country": "CU",
+    "lat": 21.7883,
+    "lon": -79.9972,
+    "type": "medium_airport",
+    "distance_km": 2.1
+   },
+   {
+    "name": "Jaime Gonzalez Airport",
+    "iata": "CFG",
+    "city": "Cienfuegos",
+    "country": "CU",
+    "lat": 22.149999618530273,
+    "lon": -80.41419982910156,
+    "type": "medium_airport",
+    "distance_km": 58.8
+   },
+   {
+    "name": "Abel Santamaria International Airport",
+    "iata": "SNU",
+    "city": "Santa Clara",
+    "country": "CU",
+    "lat": 22.492215,
+    "lon": -79.943119,
+    "type": "large_airport",
+    "distance_km": 76.7
+   }
+  ],
+  "nearest_airport_km": 2.1,
+  "distance_beijing_km": 12924.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CU",
+  "country_zh": "古巴",
+  "country_en": "Cuba",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CU",
+   "country_zh": "古巴",
+   "country_en": "Cuba",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/460"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

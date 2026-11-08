@@ -1,0 +1,152 @@
+{
+ "id": "wh-422",
+ "unesco_id": "422",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1086,
+ "popularity_score": null,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GB-ENG",
+ "subdivision_zh": "",
+ "subdivision_en": "England",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "英格兰湖区",
+ "name_zh_source": "curated",
+ "name_en": "The English Lake District",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "422-the_english_lake_district",
+ "lat": 54.5,
+ "lon": -3.1666666666667,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(v)(vi)",
+ "year": "2017",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "英国湖区位于英格兰西北部，是一个山区，其山谷是由冰河时代的冰川塑造而成的，随后又形成了以围墙围成的田地为特征的农牧业土地利用系统。自然与人类活动的共同作用，创造了山峦倒映在湖水中的和谐景观。特意建造了宏伟的房屋、花园和公园，以增强景观的美丽。从 18 世纪开始，风景如画的风景画运动和后来的浪漫主义运动就对这一景观大加欣赏，并通过绘画、图画和文字来颂扬它。它还激发了人们对美丽风景重要性的认识，并引发了早期保护风景的努力。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Located in northwest England, the English Lake District is a mountainous area, whose valleys have been modelled by glaciers in the Ice Age and subsequently shaped by an agro-pastoral land-use system characterized by fields enclosed by walls. The combined work of nature and human activity has produced a harmonious landscape in which the mountains are mirrored in the lakes. Grand houses, gardens and parks have been purposely created to enhance the landscape’s beauty. This landscape was greatly appreciated from the 18th century onwards by the Picturesque and later Romantic movements, which celebrated it in paintings, drawings and words. It also inspired an awareness of the importance of beautiful landscapes and triggered early efforts to preserve them.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_422.jpg",
+   "title": "The English Lake District",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/422",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/422",
+ "transport": {
+  "airports": [
+   {
+    "name": "Isle of Man Airport",
+    "iata": "IOM",
+    "city": "Castletown, Rushen",
+    "country": "IM",
+    "lat": 54.083081,
+    "lon": -4.623871,
+    "type": "large_airport",
+    "distance_km": 105.3
+   },
+   {
+    "name": "Newcastle International Airport",
+    "iata": "NCL",
+    "city": "Newcastle upon Tyne, Tyne and Wear",
+    "country": "GB",
+    "lat": 55.037958,
+    "lon": -1.689577,
+    "type": "large_airport",
+    "distance_km": 112.0
+   },
+   {
+    "name": "Teesside International Airport",
+    "iata": "MME",
+    "city": "Darlington, Durham",
+    "country": "GB",
+    "lat": 54.509201,
+    "lon": -1.42941,
+    "type": "medium_airport",
+    "distance_km": 112.2
+   }
+  ],
+  "nearest_airport_km": 105.3,
+  "distance_beijing_km": 8140.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/422"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

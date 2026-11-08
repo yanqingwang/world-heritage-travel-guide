@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)(vi)"
 lat: -2.268611111
 lon: 40.900277777
-updated_at: "2026-11-08T12:19:01Z"
+updated_at: "2026-11-08T14:52:40Z"
 ---
 
 # 拉穆古镇 / Lamu Old Town

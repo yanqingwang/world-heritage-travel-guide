@@ -1,0 +1,162 @@
+{
+ "id": "wh-1027",
+ "unesco_id": "1027",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 390,
+ "popularity_score": 21028,
+ "country": "SE",
+ "country_zh": "瑞典",
+ "country_en": "Sweden",
+ "countries": [
+  {
+   "iso2": "SE",
+   "zh": "瑞典",
+   "en": "Sweden"
+  }
+ ],
+ "region": "Town of Falun, Dalarna Province",
+ "subdivision_iso": "SE-W",
+ "subdivision_zh": "达拉纳省",
+ "subdivision_en": "Dalarna County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "法伦的大铜山采矿区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mining Area of the Great Copper Mountain in Falun",
+ "name_local": "Falun och Kopparbergslagen",
+ "local_lang": "sv",
+ "local_lang_name": "Swedish",
+ "slug": "1027-mining_area_of_the_great_copper_mountain",
+ "lat": 60.604722222,
+ "lon": 15.630833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(v)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "法伦大矿坑庞大的开采挖掘是其最惊人的景观，表现了该地区的采矿活动至少开始于13世纪。17世纪开始规划的法伦镇有许多精美的历史性建筑，加之达拉纳地区工业经济时代和家庭经济时代的大量居民遗址，展示给世人一幅几个世纪前世界上最重要的采矿区的生动画面。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The enormous mining excavation known as the Great Pit at Falun is the most striking feature of a landscape that illustrates the activity of copper production in this region since at least the 13th century. The 17th-century planned town of Falun with its many fine historic buildings, together with the industrial and domestic remains of a number of settlements spread over a wide area of the Dalarna region, provide a vivid picture of what was for centuries one of the world's most important mining areas.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "För det historiska bergslaget, se Stora Kopparberget Falun och Kopparbergslagen är ett område som omfattar det historiska industrilandskapet kring Falun och Stora Kopparberget. Kopparbergslagen var en del av Dalabergslagen och utgjordes av socknarna Aspeboda, Enviken, Vika, Stora Kopparbergs socken, Sundborns socken, Svärdsjö socken med Svartnäs, och Torsångs socken samt Falu stad. Samtliga utom Torsång ingår i dag i Falu kommun. Till Falu kommun hör även Bjursås socken i Övre Dalarna.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Falu%20koppargruva%20July%202017%2001.jpg?width=1280",
+   "title": "Falu koppargruva July 2017 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Falu%20koppargruva%20July%202017%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1027.jpg",
+   "title": "Mining Area of the Great Copper Mountain in Falun",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1027",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1027",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dala Airport",
+    "iata": "BLE",
+    "city": "Borlange",
+    "country": "SE",
+    "lat": 60.422001,
+    "lon": 15.5152,
+    "type": "medium_airport",
+    "distance_km": 21.3
+   },
+   {
+    "name": "Mora Airport",
+    "iata": "MXX",
+    "city": "Mora",
+    "country": "SE",
+    "lat": 60.957901,
+    "lon": 14.5114,
+    "type": "medium_airport",
+    "distance_km": 72.3
+   },
+   {
+    "name": "Stockholm Västerås Airport",
+    "iata": "VST",
+    "city": "Stockholm / Västerås",
+    "country": "SE",
+    "lat": 59.589401,
+    "lon": 16.6336,
+    "type": "large_airport",
+    "distance_km": 125.8
+   }
+  ],
+  "nearest_airport_km": 21.3,
+  "distance_beijing_km": 6763.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SE",
+  "country_zh": "瑞典",
+  "country_en": "Sweden",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SE",
+   "country_zh": "瑞典",
+   "country_en": "Sweden",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "sv",
+  "local_lang_name": "Swedish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 33
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1027"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Falun%20Mine"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

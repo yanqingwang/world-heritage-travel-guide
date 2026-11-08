@@ -1,0 +1,162 @@
+{
+ "id": "wh-726",
+ "unesco_id": "726",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 587,
+ "popularity_score": 10176,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Naples, Campania",
+ "subdivision_iso": "IT-NA",
+ "subdivision_zh": "那不勒斯廣域市",
+ "subdivision_en": "Metropolitan City of Naples",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "那不勒斯历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Naples",
+ "name_local": "Centro storico di Napoli",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "726-historic_centre_of_naples",
+ "lat": 40.85139,
+ "lon": 14.26278,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "那不勒斯是公元前470年由希腊移民创建的，从那时至今，它接纳和保留了不断出现在地中海盆地和欧洲的文化印记。这使得那不勒斯成为一个独特的城市。它拥有一系列出色的建筑，如桑塔基亚拉教堂及诺沃城堡。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "From the Neapolis founded by Greek settlers in 470 B.C. to the city of today, Naples has retained the imprint of the successive cultures that emerged in Europe and the Mediterranean basin. This makes it a unique site, with a wealth of outstanding monuments such as the Church of Santa Chiara and the Castel Nuovo.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Il centro storico di Napoli rappresenta il primo nucleo storico della città. Esso racchiude quasi tre millenni di storia e risulta essere il più vasto d'Italia e uno dei più vasti d'Europa con i suoi 17 km², ossia il 14,5% dell'intera superficie comunale (117,27 km²); seguito dal centro storico di Roma che copre 14,30 km², cioè la quasi totalità del primo municipio (20 km² ca.), e da quello di Milano (9,67 km²). Una porzione, pari a 10,21 km² (comprensiva di alcune aree infrastrutturali e portuali), è stata dichiarata patrimonio dell'umanità dall'UNESCO nel 1995, per i suoi eccezionali monumenti, che testimoniano la successione di culture del Mediterraneo e dell'Europa. Nell'intera città storica, che fa riferimento a un territorio più vasto rispetto al centro storico, si riconosce il pregio di una straordinaria concentrazione di punti di interesse: a tal proposito nel 2017 la BBC definì Napoli come «la città italiana con troppa storia da gestire». La particolare unicità del centro storico di Napoli sta nella conservazione quasi totale e nell'uso dell'antico tracciato viario di epoca greca.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NapoliMaschioAngioinoIngresso.jpg?width=1280",
+   "title": "NapoliMaschioAngioinoIngresso.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:NapoliMaschioAngioinoIngresso.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_726.jpg",
+   "title": "Historic Centre of Naples",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/726",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/726",
+ "transport": {
+  "airports": [
+   {
+    "name": "Naples International Airport",
+    "iata": "NAP",
+    "city": "Napoli",
+    "country": "IT",
+    "lat": 40.886002,
+    "lon": 14.2908,
+    "type": "large_airport",
+    "distance_km": 4.5
+   },
+   {
+    "name": "Salerno Costa d'Amalfi Airport",
+    "iata": "QSR",
+    "city": "Salerno",
+    "country": "IT",
+    "lat": 40.620399,
+    "lon": 14.9113,
+    "type": "medium_airport",
+    "distance_km": 60.4
+   },
+   {
+    "name": "Foggia Gino Lisa Airport",
+    "iata": "FOG",
+    "city": "Foggia (FG)",
+    "country": "IT",
+    "lat": 41.433596,
+    "lon": 15.534566,
+    "type": "medium_airport",
+    "distance_km": 124.6
+   }
+  ],
+  "nearest_airport_km": 4.5,
+  "distance_beijing_km": 8077.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/726"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Naples"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

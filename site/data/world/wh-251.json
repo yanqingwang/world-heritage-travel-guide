@@ -1,0 +1,283 @@
+{
+ "id": "wh-251",
+ "unesco_id": "251",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 79,
+ "popularity_score": 175595,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "Uttar Pradesh, Agra District",
+ "subdivision_iso": "IN-UP",
+ "subdivision_zh": "",
+ "subdivision_en": "Uttar Pradesh",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "阿格拉古堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Agra Fort",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "251-agra_fort",
+ "lat": 27.179583333,
+ "lon": 78.021297222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "与泰姬花园毗邻的红色阿格拉古堡，是16世纪重要的莫卧儿王朝纪念建筑。它是由红沙石建成的坚固堡垒，围墙长2.5公里，把莫卧儿统治者的皇宫围在中间。古堡里有许多宛如童话故事一样的宫殿，如沙贾汗修建的贾汗吉尔宫或称卡斯宫，有迪凡-伊-卡斯会客厅和两座非常秀丽的清真寺。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agra%2003-2016%2016%20Agra%20Fort.jpg?width=1280",
+   "title": "Agra 03-2016 16 Agra Fort.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Agra%2003-2016%2016%20Agra%20Fort.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/1977-3-3_Agra_-_Red_fort_-_Moskee.jpg/1280px-1977-3-3_Agra_-_Red_fort_-_Moskee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1977-3-3 Agra - Red fort - Moskee.jpg",
+   "author": "Guus Gorter",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work Scan of a slide.",
+   "source": "https://commons.wikimedia.org/wiki/File:1977-3-3_Agra_-_Red_fort_-_Moskee.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2025-11-08_Agra_fort.jpg/1280px-2025-11-08_Agra_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2025-11-08 Agra fort.jpg",
+   "author": "Maria Ann Joseph",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-11-08_Agra_fort.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/20251108_Agra_fort.jpg/1280px-20251108_Agra_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20251108 Agra fort.jpg",
+   "author": "Maria Ann Joseph",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20251108_Agra_fort.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/A_Balcony_in_Agra_Fort_Overlooking_Yamuna.jpg/1280px-A_Balcony_in_Agra_Fort_Overlooking_Yamuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A Balcony in Agra Fort Overlooking Yamuna.jpg",
+   "author": "Kanad Sanyal",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Balcony_in_Agra_Fort_Overlooking_Yamuna.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/251",
+ "transport": {
+  "airports": [
+   {
+    "name": "Agra Airport / Agra Air Force Station",
+    "iata": "AGR",
+    "city": "Agra",
+    "country": "IN",
+    "lat": 27.157975,
+    "lon": 77.961025,
+    "type": "medium_airport",
+    "distance_km": 6.4
+   },
+   {
+    "name": "Gwalior Airport",
+    "iata": "GWL",
+    "city": "Gwalior",
+    "country": "IN",
+    "lat": 26.29330062866211,
+    "lon": 78.22779846191406,
+    "type": "medium_airport",
+    "distance_km": 100.7
+   },
+   {
+    "name": "Noida International Airport",
+    "iata": "DXN",
+    "city": "Gautam Buddha Nagar",
+    "country": "IN",
+    "lat": 28.179868,
+    "lon": 77.611843,
+    "type": "large_airport",
+    "distance_km": 118.3
+   }
+  ],
+  "nearest_airport_km": 6.4,
+  "distance_beijing_km": 3817.8,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Agra Fort",
+    "name_en": "Agra Fort",
+    "lat": 27.1830031,
+    "lon": 78.0187128,
+    "distance_km": 0.5,
+    "operator": "NCR"
+   },
+   {
+    "name": "Agra City",
+    "name_en": null,
+    "lat": 27.1941308,
+    "lon": 78.0155191,
+    "distance_km": 1.7,
+    "operator": "NCR"
+   },
+   {
+    "name": "Yamuna Bridge",
+    "name_en": "Yamuna Bridge",
+    "lat": 27.1921557,
+    "lon": 78.0389458,
+    "distance_km": 2.2,
+    "operator": "NCR"
+   },
+   {
+    "name": "Raja Ki Mandi",
+    "name_en": "Raja Ki Mandi",
+    "lat": 27.1940261,
+    "lon": 77.9970749,
+    "distance_km": 2.9,
+    "operator": "NCR"
+   },
+   {
+    "name": "Agra Cantonment",
+    "name_en": "Agra Cantonment",
+    "lat": 27.1589527,
+    "lon": 77.9900478,
+    "distance_km": 3.8,
+    "operator": "North Central Railway"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "TajView",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1609675,
+   "lon": 78.0400797,
+   "distance_km": 2.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Oberoi Amarvilas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.167935,
+   "lon": 78.0489443,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ITC Mughal",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1610537,
+   "lon": 78.0439887,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Agra",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 27.1515883,
+   "lon": 78.0508426,
+   "distance_km": 4.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott Agra",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1563143,
+   "lon": 78.0596665,
+   "distance_km": 4.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 78
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/251"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agra%20Fort"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

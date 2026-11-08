@@ -1,0 +1,178 @@
+{
+ "id": "cn-336",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "泰州市",
+ "city_en": "Taizhou City",
+ "name_zh": "泰州市溱湖旅游景区",
+ "name_en": "Taizhoushiqinhu Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "taizhoushiqinhu-336",
+ "lat": 32.61842,
+ "lon": 120.092904,
+ "address_zh": "泰州市姜堰区溱潼镇",
+ "address_en": "Qintong Town, Jiangyan District, Taizhou City",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "溱湖景区湿地风光秀美、人文底蕴深厚、民俗风情独特。现已形成以溱湖为核心，以溱湖国家湿地公园、溱潼古镇、泰州华侨城、农业生态园四大景区为主体，融湿地观光、古镇旅游、温泉度假、科普教育、民俗体验、休闲娱乐、拓展培训等功能于一体的生态旅游区。",
+ "intro_en": "The wetland in Qinhu Scenic Area has beautiful scenery, profound cultural heritage and unique folk customs. It has now formed an eco-tourism area with Qin Lake as the core, Qin Lake National Wetland Park, Qintong Ancient Town, Taizhou Overseas Chinese Town, and Agricultural Ecological Park as the main body, integrating wetland sightseeing, ancient town tourism, hot spring vacation, science education, folk experience, leisure and entertainment, development training and other functions.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.qinlake.com/index.php",
+ "booking": "http://www.qinlake.com/channel.php?id=11",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yangzhou Taizhou Airport",
+    "iata": "YTY",
+    "city": "Yangzhou",
+    "country": "CN",
+    "lat": 32.5634,
+    "lon": 119.7198,
+    "type": "medium_airport",
+    "distance_km": 35.5
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 83.1
+   },
+   {
+    "name": "Yancheng Nanyang International Airport",
+    "iata": "YNZ",
+    "city": "Yancheng (Tinghu)",
+    "country": "CN",
+    "lat": 33.428317,
+    "lon": 120.20545,
+    "type": "large_airport",
+    "distance_km": 90.7
+   }
+  ],
+  "nearest_airport_km": 35.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "姜堰",
+    "name_en": "Jiangyan",
+    "lat": 32.5356088,
+    "lon": 120.1142884,
+    "distance_km": 9.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "泰州",
+    "name_en": "Taizhou",
+    "lat": 32.5311298,
+    "lon": 119.9755428,
+    "distance_km": 14.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南莫",
+    "name_en": null,
+    "lat": 32.5730696,
+    "lon": 120.2708589,
+    "distance_km": 17.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "云海温泉酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.61795,
+   "lon": 120.0758642,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "溱潼宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.6508361,
+   "lon": 120.0987164,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "东方红·惠乐大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.4989232,
+   "lon": 120.1534619,
+   "distance_km": 14.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jialuan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.4689293,
+   "lon": 119.9214628,
+   "distance_km": 23.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "泰州万达嘉华酒店",
+   "name_en": "Wanda Realm, Taizhou",
+   "stars": null,
+   "brand": null,
+   "lat": 32.473633,
+   "lon": 119.9142196,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 6,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

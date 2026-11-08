@@ -1,0 +1,162 @@
+{
+ "id": "wh-327",
+ "unesco_id": "327",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 436,
+ "popularity_score": 17604,
+ "country": "JO",
+ "country_zh": "约旦",
+ "country_en": "Jordan",
+ "countries": [
+  {
+   "iso2": "JO",
+   "zh": "约旦",
+   "en": "Jordan"
+  }
+ ],
+ "region": "Eastern desert – Az Zarqa' Governorate",
+ "subdivision_iso": "JO-AZ",
+ "subdivision_zh": "",
+ "subdivision_en": "Zarqa",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "库塞尔阿姆拉",
+ "name_zh_source": "unesco_official",
+ "name_en": "Quseir Amra",
+ "name_local": "قُصَير عمرة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "327-quseir_amra",
+ "lat": 31.80175,
+ "lon": 36.587305555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "库塞尔阿姆拉沙漠城堡建于公元8世纪早期，保存非常完好。该城堡既是一个军事要塞，也曾是倭马亚哈里发的住所。这座精美的小宫殿最特别的是它的接待厅和浴室，装潢富丽堂皇，装饰有许多反映那个时代世俗艺术的象征性壁画。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built in the early 8th century, this exceptionally well-preserved desert castle was both a fortress with a garrison and a residence of the Umayyad caliphs. The most outstanding features of this small pleasure palace are the reception hall and the hammam , both richly decorated with figurative murals that reflect the secular art of the time.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "كان قصر الصحراء هذا، المُشيَّد في بداية القرن الثامن والذي تتمّ المحافظة عليه بشكلٍ خاص، قلعةً تأوي الحرّاس ومحل إقامة الخلفاء الأمويّين. ويعكس قصر المتعة الصغير هذا، المجهّز بقاعةٍ للاجتماعات وبحمّامٍ مليء بالرسوم التصويريّة على الجدران، الفنَّ العلماني الذي كان سائدًا في تلك الفترة.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Qasr%20Amra.jpg?width=1280",
+   "title": "Qasr Amra.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Qasr%20Amra.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_327.jpg",
+   "title": "Quseir Amra",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/327",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/327",
+ "transport": {
+  "airports": [
+   {
+    "name": "Queen Alia International Airport",
+    "iata": "AMM",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.7226009369,
+    "lon": 35.9931983948,
+    "type": "large_airport",
+    "distance_km": 56.9
+   },
+   {
+    "name": "Marka International (Amman Civil) Airport",
+    "iata": "ADJ",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "distance_km": 59.4
+   },
+   {
+    "name": "Gurayat Domestic Airport",
+    "iata": "URY",
+    "city": "Gurayat",
+    "country": "SA",
+    "lat": 31.412413,
+    "lon": 37.278898,
+    "type": "medium_airport",
+    "distance_km": 78.5
+   }
+  ],
+  "nearest_airport_km": 56.9,
+  "distance_beijing_km": 7069.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JO",
+  "country_zh": "约旦",
+  "country_en": "Jordan",
+  "status": "visa_on_arrival",
+  "days": null,
+  "requirement": "eVisa / Visa on arrival[6][69]",
+  "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JO",
+   "country_zh": "约旦",
+   "country_en": "Jordan",
+   "status": "visa_on_arrival",
+   "days": null,
+   "requirement": "eVisa / Visa on arrival[6][69]",
+   "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/327"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qusayr%20%27Amra"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

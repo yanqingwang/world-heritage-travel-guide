@@ -1,0 +1,162 @@
+{
+ "id": "wh-195",
+ "unesco_id": "195",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 573,
+ "popularity_score": 10640,
+ "country": "CI",
+ "country_zh": "科特迪瓦",
+ "country_en": "Ivory Coast",
+ "countries": [
+  {
+   "iso2": "CI",
+   "zh": "科特迪瓦",
+   "en": "Ivory Coast"
+  }
+ ],
+ "region": "Southwest region, Guiglo and Sassandra Districts",
+ "subdivision_iso": "CI-BS",
+ "subdivision_zh": "下薩桑德拉區",
+ "subdivision_en": "Bas-Sassandra District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔伊国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Taï National Park",
+ "name_local": "Parc national de Taï",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "195-taï_national_park",
+ "lat": 5.75,
+ "lon": -7.12,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个公园是西非剩下的最后的原始热带森林之一，有丰富的自然植物和濒于灭绝的哺乳动物种类，例如矮种河马和11种猴子，都具有很高的科学研究价值。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This park is one of the last major remnants of the primary tropical forest of West Africa. Its rich natural flora, and threatened mammal species such as the pygmy hippopotamus and 11 species of monkeys, are of great scientific interest.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ce parc constitue l'un des derniers vestiges importants de la forêt tropicale primaire en Afrique de l'Ouest. Sa riche flore naturelle et ses espèces de mammifères menacées, comme l'hippopotame pygmée et onze espèces de singes, présentent un grand intérêt scientifique.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ta%C3%AF%20National%20Park%20%2824148248710%29.jpg?width=1280",
+   "title": "Taï National Park (24148248710).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ta%C3%AF%20National%20Park%20%2824148248710%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_195.jpg",
+   "title": "Taï National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/195",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/195",
+ "transport": {
+  "airports": [
+   {
+    "name": "San Pedro Airport",
+    "iata": "SPY",
+    "city": "",
+    "country": "CI",
+    "lat": 4.74672,
+    "lon": -6.66082,
+    "type": "medium_airport",
+    "distance_km": 122.6
+   },
+   {
+    "name": "Bouaké Airport",
+    "iata": "BYK",
+    "city": "Bouaké",
+    "country": "CI",
+    "lat": 7.7388,
+    "lon": -5.07367,
+    "type": "medium_airport",
+    "distance_km": 316.2
+   },
+   {
+    "name": "Félix-Houphouët-Boigny International Airport",
+    "iata": "ABJ",
+    "city": "Abidjan",
+    "country": "CI",
+    "lat": 5.26139,
+    "lon": -3.92629,
+    "type": "large_airport",
+    "distance_km": 357.6
+   }
+  ],
+  "nearest_airport_km": 122.6,
+  "distance_beijing_km": 12386.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CI",
+  "country_zh": "科特迪瓦",
+  "country_en": "Ivory Coast",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CI",
+   "country_zh": "科特迪瓦",
+   "country_en": "Ivory Coast",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 48
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/195"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ta%C3%AF%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

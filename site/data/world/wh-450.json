@@ -1,0 +1,283 @@
+{
+ "id": "wh-450",
+ "unesco_id": "450",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 103,
+ "popularity_score": 138623,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "Central Province",
+ "subdivision_iso": "LK-2",
+ "subdivision_zh": "中央省",
+ "subdivision_en": "Central Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "康提圣城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sacred City of Kandy",
+ "name_local": "",
+ "local_lang": "ta",
+ "local_lang_name": "Tamil",
+ "slug": "450-sacred_city_of_kandy",
+ "lat": 7.293055555,
+ "lon": 80.635,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "康提古城是一个闻名遐迩的佛教圣地，这里曾是孕育了长达2500多年文化的辛哈拉王朝末期时的首府，1815年时，由于英国人的入侵，辛哈拉王朝灭亡。康提古城的佛牙寺里收存着佛祖的圣牙，是著名的佛教朝圣圣地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This sacred Buddhist site, popularly known as the city of Senkadagalapura, was the last capital of the Sinhala kings whose patronage enabled the Dinahala culture to flourish for more than 2,500 years until the occupation of Sri Lanka by the British in 1815. It is also the site of the Temple of the Tooth Relic (the sacred tooth of the Buddha), which is a famous pilgrimage site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kandy%20asv2020-01%20img10%20Arthurs%20Seat%20view.jpg?width=1280",
+   "title": "SL Kandy asv2020-01 img10 Arthurs Seat view.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:SL%20Kandy%20asv2020-01%20img10%20Arthurs%20Seat%20view.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kandy_Montage.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Kandy Montage.jpeg",
+   "author": "Compilation by User:Price Zero using images taken from several authors: Front view of Temple of the Tooth, Kandy: මියුරු",
+   "license": "CC BY-SA 3.0",
+   "credit": "File:Front view of Temple of the Tooth, Kandy.jpg File:Kandy clock tower, 1950.JPG File:Kandy Lake (8).jpg File:Pallekele International Cricket Stadium.JPG File",
+   "source": "https://commons.wikimedia.org/wiki/File:Kandy_Montage.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/-_panoramio_-_jpaul211.jpg/1280px--_panoramio_-_jpaul211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "- panoramio - jpaul211.jpg",
+   "author": "jpaul211",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161015072045/http://www.panoramio.com/photo/32337011",
+   "source": "https://commons.wikimedia.org/wiki/File:-_panoramio_-_jpaul211.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/202312_Street_scene_in_Kandy%2C_Sri_Lanka.jpg/1280px-202312_Street_scene_in_Kandy%2C_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "202312 Street scene in Kandy, Sri Lanka.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:202312_Street_scene_in_Kandy%2C_Sri_Lanka.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/A_cat_in_a_caf%C3%A9_in_Kandy%2C_Sri_Lanka.jpg/1280px-A_cat_in_a_caf%C3%A9_in_Kandy%2C_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A cat in a café in Kandy, Sri Lanka.jpg",
+   "author": "Alexey Komarov",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_cat_in_a_caf%C3%A9_in_Kandy%2C_Sri_Lanka.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/450",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bandaranaike International Colombo Airport",
+    "iata": "CMB",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 7.180759906768799,
+    "lon": 79.88410186767578,
+    "type": "large_airport",
+    "distance_km": 83.8
+   },
+   {
+    "name": "Colombo Ratmalana International Airport",
+    "iata": "RML",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 6.821638,
+    "lon": 79.885859,
+    "type": "large_airport",
+    "distance_km": 97.9
+   },
+   {
+    "name": "Batticaloa International Airport",
+    "iata": "BTC",
+    "city": "Batticaloa",
+    "country": "LK",
+    "lat": 7.705073,
+    "lon": 81.677163,
+    "type": "medium_airport",
+    "distance_km": 123.7
+   }
+  ],
+  "nearest_airport_km": 83.8,
+  "distance_beijing_km": 5163.7,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Asgiriya",
+    "name_en": null,
+    "lat": 7.2978431,
+    "lon": 80.6352522,
+    "distance_km": 0.5,
+    "operator": null
+   },
+   {
+    "name": "Katugastota",
+    "name_en": null,
+    "lat": 7.3304714,
+    "lon": 80.6329636,
+    "distance_km": 4.2,
+    "operator": null
+   },
+   {
+    "name": "Palle Talawinna",
+    "name_en": null,
+    "lat": 7.3379695,
+    "lon": 80.6415662,
+    "distance_km": 5.0,
+    "operator": null
+   },
+   {
+    "name": "Uda Talawinna",
+    "name_en": null,
+    "lat": 7.3395582,
+    "lon": 80.6513081,
+    "distance_km": 5.5,
+    "operator": null
+   },
+   {
+    "name": "Peradeniya Jct.",
+    "name_en": null,
+    "lat": 7.2573002,
+    "lon": 80.5901975,
+    "distance_km": 6.3,
+    "operator": "Sri Lanka Government Railway"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "The Albatross, Boutique Villa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 7.2656676,
+   "lon": 80.7723086,
+   "distance_km": 15.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Radh",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 7.2943366,
+   "lon": 80.6386639,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Serendib",
+   "name_en": "Grand Serendib",
+   "stars": 4,
+   "brand": null,
+   "lat": 7.2855773,
+   "lon": 80.6446273,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Grand Hanthana",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Grand Hanthana",
+   "lat": 7.2747265,
+   "lon": 80.6391212,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Grand Mountain Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 7.4559336,
+   "lon": 80.6281598,
+   "distance_km": 18.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "ta",
+  "local_lang_name": "Tamil",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 76
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/450"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kandy"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

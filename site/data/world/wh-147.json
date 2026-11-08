@@ -1,0 +1,162 @@
+{
+ "id": "wh-147",
+ "unesco_id": "147",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 967,
+ "popularity_score": null,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "Northern territory",
+ "subdivision_iso": "AU-NT",
+ "subdivision_zh": "北领地",
+ "subdivision_en": "Northern Territory",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡卡杜国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kakadu National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "147-kakadu_national_park",
+ "lat": -13.0055,
+ "lon": 132.5195,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(vi)(vii)(ix)(x)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这是独一无二的考古和人种保护区，位于澳大利亚北领地州，四万多年以来，一直有人类在此居住。这里的石洞壁画、石刻以及考古遗址完整记录了该地区人民的生活技能和生活方式，包括从史前狩猎采集者到如今仍在此生息的土著居民。这里还是各种生态系统共存的一个特例，包括潮坪、漫滩、低地和高原，为当地大量的珍稀动植物提供了栖息之地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This unique archaeological and ethnological reserve, located in the Northern Territory, has been inhabited continuously for more than 40,000 years. The cave paintings, rock carvings and archaeological sites record the skills and way of life of the region’s inhabitants, from the hunter-gatherers of prehistoric times to the Aboriginal people still living there. It is a unique example of a complex of ecosystems, including tidal flats, floodplains, lowlands and plateaux, and provides a habitat for a wide range of rare or endemic species of plants and animals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kakadu%20%28AU%29%2C%20Kakadu%20National%20Park%2C%20Nadap%20Lookout%20--%202019%20--%204200.jpg?width=1280",
+   "title": "Kakadu (AU), Kakadu National Park, Nadap Lookout -- 2019 -- 4200.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kakadu%20%28AU%29%2C%20Kakadu%20National%20Park%2C%20Nadap%20Lookout%20--%202019%20--%204200.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_147.jpg",
+   "title": "Kakadu National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/147",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/147",
+ "transport": {
+  "airports": [
+   {
+    "name": "Darwin International Airport / RAAF Darwin",
+    "iata": "DRW",
+    "city": "Darwin",
+    "country": "AU",
+    "lat": -12.41497,
+    "lon": 130.88185,
+    "type": "large_airport",
+    "distance_km": 189.4
+   },
+   {
+    "name": "Maningrida Airport",
+    "iata": "MNG",
+    "city": "Maningrida",
+    "country": "AU",
+    "lat": -12.0560998917,
+    "lon": 134.23399353,
+    "type": "medium_airport",
+    "distance_km": 214.0
+   },
+   {
+    "name": "Ramingining Airport",
+    "iata": "RAM",
+    "city": "",
+    "country": "AU",
+    "lat": -12.356399536132812,
+    "lon": 134.8979949951172,
+    "type": "small_airport",
+    "distance_km": 267.9
+   }
+  ],
+  "nearest_airport_km": 189.4,
+  "distance_beijing_km": 6021.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/147"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

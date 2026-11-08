@@ -1,0 +1,162 @@
+{
+ "id": "wh-395",
+ "unesco_id": "395",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 243,
+ "popularity_score": 40943,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Pisa, Tuscany",
+ "subdivision_iso": "IT-PI",
+ "subdivision_zh": "比萨省",
+ "subdivision_en": "Province of Pisa",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "比萨大教堂广场",
+ "name_zh_source": "unesco_official",
+ "name_en": "Piazza del Duomo, Pisa",
+ "name_local": "Piazza dei Miracoli",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "395-piazza_del_duomo,_pisa",
+ "lat": 43.723428,
+ "lon": 10.394778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(vi)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在一片宽阔的草坪上，坐落着比萨大教堂广场。广场上有一组举世闻名的纪念建筑群：大教堂、洗礼室、钟楼（即比萨斜塔）和墓地。这四件中世纪时的建筑杰作对意大利11世纪到14世纪间的纪念建筑艺术产生了极大影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Standing in a large green expanse, Piazza del Duomo houses a group of monuments known the world over. These four masterpieces of medieval architecture – the cathedral, the baptistry, the campanile (the 'Leaning Tower') and the cemetery – had a great influence on monumental art in Italy from the 11th to the 14th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La piazza del Duomo è il centro artistico e turistico più importante di Pisa. Annoverata fra i Patrimoni dell'Umanità dall'UNESCO dal 1987, vi si possono ammirare i quattro monumenti che formano il centro della vita religiosa cittadina, detti miracoli (così nominati da Gabriele D'Annunzio nell'espressione \"Prato dei Miracoli\", contenuta nel romanzo Forse che sì forse che no, del 1910) per la loro bellezza e originalità: la Cattedrale, il Battistero, il Campo Santo e il Campanile. Da ciò deriva il nome popolare di Piazza dei Miracoli, diffusosi poi nel dopoguerra e ancora dopo nell'era del turismo di massa.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Italy%20-%20Pisa%20-%20Leaning%20Tower%20of%20Pisa.jpg?width=1280",
+   "title": "Italy - Pisa - Leaning Tower of Pisa.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Italy%20-%20Pisa%20-%20Leaning%20Tower%20of%20Pisa.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_395.jpg",
+   "title": "Piazza del Duomo, Pisa",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/395",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/395",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pisa International Airport",
+    "iata": "PSA",
+    "city": "Pisa (PI)",
+    "country": "IT",
+    "lat": 43.683899,
+    "lon": 10.3927,
+    "type": "large_airport",
+    "distance_km": 4.4
+   },
+   {
+    "name": "Florence Airport, Peretola",
+    "iata": "FLR",
+    "city": "Firenze (FI)",
+    "country": "IT",
+    "lat": 43.808558,
+    "lon": 11.202822,
+    "type": "large_airport",
+    "distance_km": 65.6
+   },
+   {
+    "name": "Marina di Campo Airport",
+    "iata": "EBA",
+    "city": "Campo nell'Elba (LI)",
+    "country": "IT",
+    "lat": 42.760871,
+    "lon": 10.239811,
+    "type": "medium_airport",
+    "distance_km": 107.8
+   }
+  ],
+  "nearest_airport_km": 4.4,
+  "distance_beijing_km": 8130.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/395"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Piazza%20dei%20Miracoli"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

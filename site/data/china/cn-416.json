@@ -1,0 +1,182 @@
+{
+ "id": "cn-416",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "连云港市",
+ "city_en": "Lianyungang",
+ "name_zh": "连云港市花果山景区",
+ "name_en": "Huaguoshan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "lianyungangshihuaguoshan-416",
+ "lat": 34.65221,
+ "lon": 119.27006,
+ "address_zh": "连云港市海州区花果山郁林路5号",
+ "address_en": "No. 5, Yulin Road, Huaguoshan, Haizhou District, Lianyungang City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "花果山以古典名著《西游记》所描述的“孙大圣老家”而著称于世，因美猴王的神话故事而家喻户晓，名闻海内外。花果山自然景观呈现山海相依、崎峭与开阔呼应对比的壮丽景色。山里古树参天、水流潺潺、花果飘香、猕猴嬉闹、奇峰异洞、怪石云海、景色秀丽。主要景点有阿育王塔、水帘洞、三元宫等。",
+ "intro_en": "Huaguo Mountain is world-famous as the \"Hometown of Sun Dasheng\" described in the classic \"Journey to the West\". It is also well-known at home and abroad for the myth of the Monkey King. The natural landscape of Huaguo Mountain presents a magnificent scenery of mountains and seas, ruggedness and openness. In the mountains, there are towering ancient trees, gurgling water, fragrant flowers and fruits, frolicking macaques, strange peaks and caves, strange rocks and sea of ​​clouds, and beautiful scenery. The main attractions include Ashoka Tower, Water Curtain Cave, Sanyuan Palace, etc.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lianyungang Huaguoshan International Airport",
+    "iata": "LYG",
+    "city": "Lianyungang",
+    "country": "CN",
+    "lat": 34.41406,
+    "lon": 119.17899,
+    "type": "large_airport",
+    "distance_km": 27.8
+   },
+   {
+    "name": "Rizhao Shanzihe Airport",
+    "iata": "RIZ",
+    "city": "Rizhao (Donggang)",
+    "country": "CN",
+    "lat": 35.405033,
+    "lon": 119.324403,
+    "type": "medium_airport",
+    "distance_km": 83.9
+   },
+   {
+    "name": "Linyi Qiyang Airport",
+    "iata": "LYI",
+    "city": "Linyi (Hedong)",
+    "country": "CN",
+    "lat": 35.052918,
+    "lon": 118.411828,
+    "type": "medium_airport",
+    "distance_km": 90.1
+   }
+  ],
+  "nearest_airport_km": 27.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "云台山",
+    "name_en": null,
+    "lat": 34.690538,
+    "lon": 119.2836142,
+    "distance_km": 4.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "盐坨",
+    "name_en": "Yantuo",
+    "lat": 34.6675151,
+    "lon": 119.219699,
+    "distance_km": 4.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "新浦东",
+    "name_en": null,
+    "lat": 34.6265321,
+    "lon": 119.1909959,
+    "distance_km": 7.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "神州宾馆",
+   "name_en": "Shenzhou Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 34.7602931,
+   "lon": 119.3612739,
+   "distance_km": 14.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "皇冠假日",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.849517,
+   "lon": 119.1262078,
+   "distance_km": 25.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "连云港华美达广场酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.7022811,
+   "lon": 119.3411986,
+   "distance_km": 8.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "云台宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.6015209,
+   "lon": 119.190951,
+   "distance_km": 9.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "杰瑞海天大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.6025235,
+   "lon": 119.1868661,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 25,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/花果山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

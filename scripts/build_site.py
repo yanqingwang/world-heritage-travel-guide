@@ -156,12 +156,93 @@ def write_entries(sites: list[dict], folder: str) -> int:
     return count
 
 
+def index_record(site: dict) -> dict:
+    """Card/filter fields only: keeps the first screen payload small.
+
+    The deployed world payload used to be ~7.8 MB, which times out on slow
+    connections.  The list view only needs a handful of fields; the rest is
+    fetched per site when a card is opened.
+    """
+    tr = site.get("transport") or {}
+    images = site.get("images") or []
+    first_image = images[0] if images else None
+    if site.get("dataset") == "china_5a":
+        transport = {
+            "high_speed_stations": (tr.get("high_speed_stations") or [])[:1],
+            "airports": (tr.get("airports") or [])[:1],
+            "nearest_airport_km": tr.get("nearest_airport_km"),
+        }
+    else:
+        transport = {
+            "distance_beijing_km": tr.get("distance_beijing_km"),
+        }
+    rec = {
+        "id": site.get("id"),
+        "dataset": site.get("dataset"),
+        "tier": site.get("tier"),
+        "name_zh": site.get("name_zh") or "",
+        "name_en": site.get("name_en") or "",
+        "name_local": site.get("name_local") or "",
+        "country": site.get("country") or "",
+        "country_zh": site.get("country_zh") or "",
+        "country_en": site.get("country_en") or "",
+        "region": site.get("region") or "",
+        "category": site.get("category") or "",
+        "category_zh": site.get("category_zh") or "",
+        "category_en": site.get("category_en") or "",
+        "year": site.get("year") or "",
+        "lat": site.get("lat"),
+        "lon": site.get("lon"),
+        "images": [first_image] if first_image else [],
+        "transport": transport,
+        "popularity_rank": site.get("popularity_rank"),
+        "visa_summary": site.get("visa_summary"),
+    }
+    if site.get("dataset") == "china_5a":
+        rec.update({
+            "province_zh": site.get("province_zh") or "",
+            "province_en": site.get("province_en") or "",
+            "province_iso": site.get("province_iso") or "",
+            "city_zh": site.get("city_zh") or "",
+            "city_en": site.get("city_en") or "",
+        })
+    else:
+        rec.update({
+            "subdivision_iso": site.get("subdivision_iso") or "",
+            "subdivision_zh": site.get("subdivision_zh") or "",
+            "subdivision_en": site.get("subdivision_en") or "",
+        })
+    return rec
+
+
+def write_dataset(doc: dict, folder: str) -> int:
+    """Write a compact index plus one JSON file per record."""
+    sites = doc.get("sites") or []
+    out_dir = SITE_DATA / folder
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for site in sites:
+        save_json(out_dir / f"{site.get('id')}.json", site)
+    index = {
+        "generated_at": doc.get("generated_at"),
+        "count": doc.get("count", len(sites)),
+        "full_tier": doc.get("full_tier"),
+        "unesco_lang_count": len({
+            lang
+            for s in sites
+            for lang in ((s.get("info_languages") or {}).get("official_unesco") or [])
+        }),
+        "sites": [index_record(s) for s in sites],
+    }
+    save_json(SITE_DATA / f"{folder}-index.json", index)
+    return len(sites)
+
+
 def main() -> int:
     china = load_json(DATA / "china.json", {}) or {"count": 0, "sites": []}
     world = load_json(DATA / "world.json", {}) or {"count": 0, "sites": []}
     SITE_DATA.mkdir(parents=True, exist_ok=True)
-    save_json(SITE_DATA / "china.json", china)
-    save_json(SITE_DATA / "world.json", world)
+    # Canonical machine-readable files stay at the repo root (data/*.json); the
+    # site only ships the compact index + per-record details.
     save_json(SITE_DATA / "meta.json", {
         "generated_at": now_iso(),
         "china_count": china.get("count", 0),
@@ -169,6 +250,14 @@ def main() -> int:
         "full_tier": world.get("full_tier", 0),
         "sources": ["MCT", "UNESCO", "Wikipedia", "Wikidata", "Wikimedia Commons", "OpenStreetMap", "OurAirports"],
     })
+    write_dataset(china, "china")
+    write_dataset(world, "world")
+    # Older builds shipped the full 7.8 MB world.json to Pages; drop it so the
+    # deploy artifact stays small.
+    for stale in ("china.json", "world.json"):
+        p = SITE_DATA / stale
+        if p.exists():
+            p.unlink()
     (SITE / ".nojekyll").write_text("", encoding="utf-8")
 
     cn = write_entries(china.get("sites", []), "cn")
@@ -181,7 +270,7 @@ def main() -> int:
         "`data/world.json`; the HTML app is in `site/`.\n",
         encoding="utf-8",
     )
-    print(f"site data copied; wrote {cn} China + {wh} world markdown entries")
+    print(f"site data written; {cn} China + {wh} world markdown entries")
     return 0
 
 

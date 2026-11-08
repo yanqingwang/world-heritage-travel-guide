@@ -1,0 +1,162 @@
+{
+ "id": "wh-433",
+ "unesco_id": "433",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 488,
+ "popularity_score": 13922,
+ "country": "OM",
+ "country_zh": "阿曼",
+ "country_en": "Oman",
+ "countries": [
+  {
+   "iso2": "OM",
+   "zh": "阿曼",
+   "en": "Oman"
+  }
+ ],
+ "region": "Oasis of Bahla, 25 km west of Nazwa",
+ "subdivision_iso": "OM-DA",
+ "subdivision_zh": "内地省",
+ "subdivision_en": "Ad Dakhiliyah Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "巴赫莱要塞",
+ "name_zh_source": "unesco_official",
+ "name_en": "Bahla Fort",
+ "name_local": "قلعة بهلا",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "433-bahla_fort",
+ "lat": 22.9644,
+ "lon": 57.3007,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "巴赫莱绿洲的繁荣应归功于巴努·内布罕部落，这一部落从12世纪到15世纪晚期一直统治着这个地区。这个庞大堡垒的废墟有土制的城墙和碉堡以及用石头打的地基，是此类型防御工事中突出的例子，由此也可以看出巴努·内布罕部落的实力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The oasis of Bahla owes its prosperity to the Banu Nebhan, the dominant tribe in the area from the 12th to the end of the 15th century. The ruins of the immense fort, with its walls and towers of unbaked brick and its stone foundations, is a remarkable example of this type of fortification and attests to the power of the Banu Nebhan.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تدين واحة بهلا الصحراوية بازدهارها لبني نبهان الذين فرضوا سيطرتهم على باقي المجتمعات بين القرن الثاني عشر ونهاية القرن الخامس عشر. وتظهر قوّتهم من خلال أنقاض القلعة الكبيرة التي تتميز بجدران وأبراج من الآجر الخام ومن أسس حجرية وهي المثال الواضح لهذا النوع من التحصينات.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bahla%20Fort.jpg?width=1280",
+   "title": "Bahla Fort.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bahla%20Fort.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_433.jpg",
+   "title": "Bahla Fort",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/433",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/433",
+ "transport": {
+  "airports": [
+   {
+    "name": "Muscat International Airport",
+    "iata": "MCT",
+    "city": "Muscat/Seeb",
+    "country": "OM",
+    "lat": 23.600218,
+    "lon": 58.285268,
+    "type": "large_airport",
+    "distance_km": 122.9
+   },
+   {
+    "name": "Suhar International Airport",
+    "iata": "OHS",
+    "city": "Suhar",
+    "country": "OM",
+    "lat": 24.38604,
+    "lon": 56.62541,
+    "type": "large_airport",
+    "distance_km": 172.4
+   },
+   {
+    "name": "Al Ain International Airport",
+    "iata": "AAN",
+    "city": "Al Ain",
+    "country": "AE",
+    "lat": 24.2617,
+    "lon": 55.6092,
+    "type": "large_airport",
+    "distance_km": 224.7
+   }
+  ],
+  "nearest_airport_km": 122.9,
+  "distance_beijing_km": 5696.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "OM",
+  "country_zh": "阿曼",
+  "country_en": "Oman",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required / eVisa[6][106]",
+  "notes": "Chinese national are also eligible for single / multiple entry e-Visa valid for 30 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "OM",
+   "country_zh": "阿曼",
+   "country_en": "Oman",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required / eVisa[6][106]",
+   "notes": "Chinese national are also eligible for single / multiple entry e-Visa valid for 30 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/433"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bahla%20Fort"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

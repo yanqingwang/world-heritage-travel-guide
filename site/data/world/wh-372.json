@@ -1,0 +1,162 @@
+{
+ "id": "wh-372",
+ "unesco_id": "372",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 180,
+ "popularity_score": 73770,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "North Yorkshire, England",
+ "subdivision_iso": "GB-NYK",
+ "subdivision_zh": "北约克郡",
+ "subdivision_en": "North Yorkshire",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "斯塔德利皇家公园和喷泉修道院遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Studley Royal Park including the Ruins of Fountains Abbey",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "372-studley_royal_park_including_the_ruins_o",
+ "lat": 54.1097,
+ "lon": -1.58139,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个名胜古迹风景优美，位于约克郡，其中包括：喷泉修道院和喷泉城堡；建于18世纪的景观、花园和运河；建于19世纪的种植园和街景；以及新哥特式风格的斯塔德利皇家公园，这些都使这里成为一处杰出的遗产。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the 18th century a designed landscape of exceptional beauty was created around the ruins of the Cistercian Fountains Abbey, in Yorkshire. The spectacular ruins of the 12th century abbey and water mill, the Jacobean mansion of Fountains Hall, the Victorian masterpiece St Mary’s Church and one of the most magnificent Georgian water gardens ever created, make this a landscape of outstanding merit.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fountains%20Abbey%20view02%202005-08-27.jpg?width=1280",
+   "title": "Fountains Abbey view02 2005-08-27.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Fountains%20Abbey%20view02%202005-08-27.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_372.jpg",
+   "title": "Studley Royal Park including the Ruins of Fountains Abbey",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/372",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/372",
+ "transport": {
+  "airports": [
+   {
+    "name": "Leeds Bradford Airport",
+    "iata": "LBA",
+    "city": "Leeds, West Yorkshire",
+    "country": "GB",
+    "lat": 53.865898,
+    "lon": -1.66057,
+    "type": "large_airport",
+    "distance_km": 27.6
+   },
+   {
+    "name": "Teesside International Airport",
+    "iata": "MME",
+    "city": "Darlington, Durham",
+    "country": "GB",
+    "lat": 54.509201,
+    "lon": -1.42941,
+    "type": "medium_airport",
+    "distance_km": 45.5
+   },
+   {
+    "name": "Manchester Airport",
+    "iata": "MAN",
+    "city": "Manchester, Greater Manchester",
+    "country": "GB",
+    "lat": 53.349375,
+    "lon": -2.279521,
+    "type": "large_airport",
+    "distance_km": 96.2
+   }
+  ],
+  "nearest_airport_km": 27.6,
+  "distance_beijing_km": 8023.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 33
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/372"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fountains%20Abbey"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-801",
+ "unesco_id": "801",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 783,
+ "popularity_score": 3610,
+ "country": "KE",
+ "country_zh": "肯尼亚",
+ "country_en": "Kenya",
+ "countries": [
+  {
+   "iso2": "KE",
+   "zh": "肯尼亚",
+   "en": "Kenya"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "KE-25",
+ "subdivision_zh": "",
+ "subdivision_en": "Marsabit County",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "图尔卡纳湖国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Lake Turkana National Parks",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "801-lake_turkana_national_parks",
+ "lat": 3.051305555,
+ "lon": 36.503666666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)(x)",
+ "year": "1997",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "图尔卡纳湖是非洲含盐量最高的大湖，它为研究动植物种群提供了良好环境。这里的三个国家公园既是迁徙水鸟的中途停留地，也是尼罗河鳄鱼、河马和各种毒蛇的栖息地。在图尔卡纳湖畔发现的库比·福勒化石遗迹中发掘出了许多哺乳动物、软体动物和其他动物的化石，它对于研究理解古代自然环境所作的贡献是非洲任何其他地方无法比拟的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The most saline of Africa's large lakes, Turkana is an outstanding laboratory for the study of plant and animal communities. The three National Parks serve as a stopover for migrant waterfowl and are major breeding grounds for the Nile crocodile, hippopotamus and a variety of venomous snakes. The Koobi Fora deposits, rich in mammalian, molluscan and other fossil remains, have contributed more to the understanding of paleo-environments than any other site on the continent.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LakeTurkanaSouthIsland.jpg?width=1280",
+   "title": "LakeTurkanaSouthIsland.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:LakeTurkanaSouthIsland.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_801.jpg",
+   "title": "Lake Turkana National Parks",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/801",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/801",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jinka Airport",
+    "iata": "BCO",
+    "city": "Jinka",
+    "country": "ET",
+    "lat": 5.749655,
+    "lon": 36.560165,
+    "type": "medium_airport",
+    "distance_km": 300.1
+   },
+   {
+    "name": "Eldoret International Airport",
+    "iata": "EDL",
+    "city": "Eldoret",
+    "country": "KE",
+    "lat": 0.404458,
+    "lon": 35.238899,
+    "type": "large_airport",
+    "distance_km": 326.2
+   },
+   {
+    "name": "Nanyuki Civil Airport",
+    "iata": "NYK",
+    "city": "Gathiuru",
+    "country": "KE",
+    "lat": -0.062352,
+    "lon": 37.041296,
+    "type": "medium_airport",
+    "distance_km": 351.3
+   }
+  ],
+  "nearest_airport_km": 300.1,
+  "distance_beijing_km": 8748.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KE",
+  "country_zh": "肯尼亚",
+  "country_en": "Kenya",
+  "status": "unknown",
+  "days": 90,
+  "requirement": "Electronic Travel Authorisation[6][70]",
+  "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KE",
+   "country_zh": "肯尼亚",
+   "country_en": "Kenya",
+   "status": "unknown",
+   "days": 90,
+   "requirement": "Electronic Travel Authorisation[6][70]",
+   "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/801"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lake%20Turkana%20National%20Parks"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-744",
+ "unesco_id": "744",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 550,
+ "popularity_score": 11582,
+ "country": "CO",
+ "country_zh": "哥伦比亚",
+ "country_en": "Colombia",
+ "countries": [
+  {
+   "iso2": "CO",
+   "zh": "哥伦比亚",
+   "en": "Colombia"
+  }
+ ],
+ "region": "Department of Huila: Municipalities of San Augustin and San José de Isnos",
+ "subdivision_iso": "CO-HUI",
+ "subdivision_zh": "乌伊拉省",
+ "subdivision_en": "Huila Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣奥古斯丁考古公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "San Agustín Archaeological Park",
+ "name_local": "Parque arqueológico de San Agustín",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "744-san_agustín_archaeological_park",
+ "lat": 1.884444444,
+ "lon": -76.296111111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在南美洲一片原始壮观的风景区内矗立着最大的宗教建筑和巨石雕塑群。精湛地雕刻了众神和传说中的动物，从抽象主义到现实主义，风格各异。这些艺术杰作显示了1至8世纪盛极一时的北安第斯文化的创造力和想象力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The largest group of religious monuments and megalithic sculptures in South America stands in a wild, spectacular landscape. Gods and mythical animals are skilfully represented in styles ranging from abstract to realist. These works of art display the creativity and imagination of a northern Andean culture that flourished from the 1st to the 8th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En este parque se yergue, en medio de un paisaje natural impresionante, el mayor conjunto de monumentos religiosos y esculturas megalíticas de Sudamérica. Las representaciones de deidades y bestias mitológicas están ejecutadas con gran maestría en diferentes estilos, que van desde la abstracción al realismo. Estas obras de arte muestran la fuerza creadora e imaginativa de una cultura de la región andina septentrional que floreció entre los siglos I y VIII.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn-Mesita%20A%2012.jpg?width=1280",
+   "title": "Parque Arqueológico de San Agustín-Mesita A 12.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Parque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn-Mesita%20A%2012.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_744.jpg",
+   "title": "San Agustín Archaeological Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/744",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/744",
+ "transport": {
+  "airports": [
+   {
+    "name": "Guillermo León Valencia Airport",
+    "iata": "PPN",
+    "city": "Popayán",
+    "country": "CO",
+    "lat": 2.454359,
+    "lon": -76.609253,
+    "type": "medium_airport",
+    "distance_km": 72.3
+   },
+   {
+    "name": "Gustavo Artunduaga Paredes Airport",
+    "iata": "FLA",
+    "city": "Florencia",
+    "country": "CO",
+    "lat": 1.58919,
+    "lon": -75.5644,
+    "type": "medium_airport",
+    "distance_km": 87.7
+   },
+   {
+    "name": "Antonio Nariño Airport",
+    "iata": "PSO",
+    "city": "Chachagüí",
+    "country": "CO",
+    "lat": 1.396722,
+    "lon": -77.29093,
+    "type": "medium_airport",
+    "distance_km": 123.2
+   }
+  ],
+  "nearest_airport_km": 72.3,
+  "distance_beijing_km": 15098.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CO",
+  "country_zh": "哥伦比亚",
+  "country_en": "Colombia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa[6][40]",
+  "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CO",
+   "country_zh": "哥伦比亚",
+   "country_en": "Colombia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa[6][40]",
+   "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/744"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/San%20Agust%C3%ADn%20Archaeological%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

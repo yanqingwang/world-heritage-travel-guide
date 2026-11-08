@@ -1,0 +1,154 @@
+{
+ "id": "wh-1575",
+ "unesco_id": "1575",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 456,
+ "popularity_score": 15960,
+ "country": "ZA",
+ "country_zh": "南非",
+ "country_en": "South Africa",
+ "countries": [
+  {
+   "iso2": "ZA",
+   "zh": "南非",
+   "en": "South Africa"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ZA-MP",
+ "subdivision_zh": "姆普马兰加省",
+ "subdivision_en": "Mpumalanga",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "巴伯顿·玛空瓦山脉",
+ "name_zh_source": "unesco_official",
+ "name_en": "Barberton Makhonjwa Mountains",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1575-barberton_makhonjwa_mountains",
+ "lat": -33.4,
+ "lon": 22.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2018",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产地位于南非东北部，面积占巴伯顿绿岩带的40％，这是世界上最古老的地质结构之一。巴伯顿·玛空瓦山脉代表了历史上保存最完好的火山岩和沉积岩的演替，其历史可追溯至36-25亿年前，当时第一块大陆开始在原始地球上形成。流星撞击后形成的砾岩是这里的特征，这些砾岩是在紧接“重型轰炸”（4.6-3.8亿年前）之后的陨石撞击造成的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in north-eastern South Africa, the Barberton Makhonjwa Mountains comprises 40% of the Barberton Greenstone Belt, one of the world’s oldest geological structures. The property represents the best-preserved succession of volcanic and sedimentary rock dating back 3.6 to 3.25 billion years and forms a diverse repository of information on surface conditions, meteorite impacts, volcanism, continent-building processes and the environment of early life.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1575.jpg",
+   "title": "Barberton Makhonjwa Mountains",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1575",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1575",
+ "transport": {
+  "airports": [
+   {
+    "name": "George Airport",
+    "iata": "GRJ",
+    "city": "George",
+    "country": "ZA",
+    "lat": -34.0056,
+    "lon": 22.378902,
+    "type": "large_airport",
+    "distance_km": 75.9
+   },
+   {
+    "name": "Cape Town International Airport",
+    "iata": "CPT",
+    "city": "Cape Town",
+    "country": "ZA",
+    "lat": -33.97403,
+    "lon": 18.604333,
+    "type": "large_airport",
+    "distance_km": 320.6
+   },
+   {
+    "name": "Chief Dawid Stuurman International Airport",
+    "iata": "PLZ",
+    "city": "Gqeberha (Port Elizabeth)",
+    "country": "ZA",
+    "lat": -33.989715,
+    "lon": 25.617353,
+    "type": "large_airport",
+    "distance_km": 341.0
+   }
+  ],
+  "nearest_airport_km": 75.9,
+  "distance_beijing_km": 12675.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZA",
+  "country_zh": "南非",
+  "country_en": "South Africa",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Electronic Travel Authorization / eVisa[136]",
+  "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZA",
+   "country_zh": "南非",
+   "country_en": "South Africa",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Electronic Travel Authorization / eVisa[136]",
+   "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 23
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1575"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Makhonjwa%20Mountains"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

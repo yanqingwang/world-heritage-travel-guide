@@ -1,0 +1,154 @@
+{
+ "id": "wh-598",
+ "unesco_id": "598",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1114,
+ "popularity_score": null,
+ "country": "RO",
+ "country_zh": "罗马尼亚",
+ "country_en": "Romania",
+ "countries": [
+  {
+   "iso2": "RO",
+   "zh": "罗马尼亚",
+   "en": "Romania"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "RO-SV",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "苏切维察修道院的复活教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Churches of Moldavia",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "598-churches_of_moldavia",
+ "lat": 47.733,
+ "lon": 25.933,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "摩尔达维亚北部的这七座教堂在整个欧洲都是独一无二的，因为这些教堂外墙全部以湿壁画技法绘制的壁画装饰，这些绘制于15至16世纪，受拜占庭艺术直接影响的壁画有系统地覆盖了教堂所有的建筑外墙，它们不仅构图独特，人物优美，色彩和谐，而且还完美地融入了周围的景观。摩尔达维亚的教堂于1993年列入《世界遗产名录》。此次扩展新增的了苏切维察修道院的教堂，使这一遗址变得更为完整。这座教堂坐落在建有防御工事的修道院内，其内墙和外壁都以16世纪后期绘制的壁画为装饰，它也是唯一一座展示了圣约翰之天梯的教堂。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These eight churches of northern Moldavia, built from the late 15th century to the late 16th century, their external walls covered in fresco paintings, are masterpieces inspired by Byzantine art. They are authentic and particularly well preserved. Far from being mere wall decorations, the paintings form a systematic covering on all the facades and represent complete cycles of religious themes.Their exceptional composition, the elegance of the characters, and the harmony of the colors blend perfectly with the surrounding countryside. The interior and exterior walls of the Church of the Suceviţa Monastery are entirely decorated with mural paintings of the 16th century, and this church is the only one to show a representation of the ladder of St John Climacus.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_598.jpg",
+   "title": "Churches of Moldavia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/598",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/598",
+ "transport": {
+  "airports": [
+   {
+    "name": "Suceava Ștefan cel Mare International Airport",
+    "iata": "SCV",
+    "city": "Suceava",
+    "country": "RO",
+    "lat": 47.6875,
+    "lon": 26.354099,
+    "type": "large_airport",
+    "distance_km": 31.9
+   },
+   {
+    "name": "Iaşi International Airport",
+    "iata": "IAS",
+    "city": "Iaşi",
+    "country": "RO",
+    "lat": 47.179633,
+    "lon": 27.621431,
+    "type": "large_airport",
+    "distance_km": 141.1
+   },
+   {
+    "name": "Bacău George Enescu International  Airport",
+    "iata": "BCM",
+    "city": "Bacău",
+    "country": "RO",
+    "lat": 46.5219,
+    "lon": 26.910299,
+    "type": "large_airport",
+    "distance_km": 153.6
+   }
+  ],
+  "nearest_airport_km": 31.9,
+  "distance_beijing_km": 6861.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RO",
+  "country_zh": "罗马尼亚",
+  "country_en": "Romania",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RO",
+   "country_zh": "罗马尼亚",
+   "country_en": "Romania",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/598"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

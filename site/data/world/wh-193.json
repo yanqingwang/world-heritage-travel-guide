@@ -1,0 +1,162 @@
+{
+ "id": "wh-193",
+ "unesco_id": "193",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 559,
+ "popularity_score": 11228,
+ "country": "DZ",
+ "country_zh": "阿尔及利亚",
+ "country_en": "Algeria",
+ "countries": [
+  {
+   "iso2": "DZ",
+   "zh": "阿尔及利亚",
+   "en": "Algeria"
+  }
+ ],
+ "region": "Commune and Wilaya (province) of Tipasa",
+ "subdivision_iso": "DZ-42",
+ "subdivision_zh": "提帕萨省",
+ "subdivision_en": "Tipasa Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "提帕萨",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tipasa",
+ "name_local": "تيبازا",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "193-tipasa",
+ "lat": 36.5951,
+ "lon": 2.44077,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "提帕萨位于地中海海滨，原是古罗马统治下古迦太基人的贸易港，后成为征服毛利塔尼亚王国的战略基地。该遗址不仅有一系列腓尼基人、罗马人、古基督教和拜占庭时期的独特建筑群遗迹，还有当地的古迹，如宏伟的毛里塔尼亚皇家陵墓——克博·埃尔·罗米亚(Kbor er Roumia)。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "On the shores of the Mediterranean, Tipasa was an ancient Punic trading-post conquered by Rome and turned into a strategic base for the conquest of the kingdoms of Mauritania. It comprises a unique group of Phoenician, Roman, palaeochristian and Byzantine ruins alongside indigenous monuments such as the Kbor er Roumia, the great royal mausoleum of Mauretania.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تقع تيبازا على ضفاف البحر المتوسط وهي مركز تجاري بوني (قرطاجي) قديم. احتلّها الرومان وجعلوها قاعدة استراتيجية لفتح الممالك الموريتانية. تشمل تيبازا مجموعة فريدة من الآثار الفينيقية والرومانية والمسيحية القديمة والبيزنطية التي تتجاور مع النصب المحلية مثل قبر الرومية وهو الضريح الموريتاني الملكي الكبير.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Tipasa%2001.jpg?width=1280",
+   "title": "View of Tipasa 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:View%20of%20Tipasa%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_193.jpg",
+   "title": "Tipasa",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/193",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/193",
+ "transport": {
+  "airports": [
+   {
+    "name": "Houari Boumediene Airport",
+    "iata": "ALG",
+    "city": "Algiers",
+    "country": "DZ",
+    "lat": 36.693886,
+    "lon": 3.214531,
+    "type": "large_airport",
+    "distance_km": 69.9
+   },
+   {
+    "name": "Chlef Aboubakr Belkaid International Airport",
+    "iata": "CFK",
+    "city": "Chlef",
+    "country": "DZ",
+    "lat": 36.216614,
+    "lon": 1.341114,
+    "type": "large_airport",
+    "distance_km": 107.0
+   },
+   {
+    "name": "Soummam–Abane Ramdane Airport",
+    "iata": "BJA",
+    "city": "Béjaïa",
+    "country": "DZ",
+    "lat": 36.712547,
+    "lon": 5.069909,
+    "type": "large_airport",
+    "distance_km": 234.9
+   }
+  ],
+  "nearest_airport_km": 69.9,
+  "distance_beijing_km": 9103.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DZ",
+  "country_zh": "阿尔及利亚",
+  "country_en": "Algeria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DZ",
+   "country_zh": "阿尔及利亚",
+   "country_en": "Algeria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/193"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tipasa"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

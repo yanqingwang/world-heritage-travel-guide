@@ -1,0 +1,324 @@
+{
+ "id": "wh-369",
+ "unesco_id": "369",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 34,
+ "popularity_score": 387874,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "County Antrim, Northern Ireland",
+ "subdivision_iso": "GB-CCG",
+ "subdivision_zh": "堤道滨谷",
+ "subdivision_en": "Causeway Coast and Glens",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "“巨人之路”及其海岸",
+ "name_zh_source": "unesco_official",
+ "name_en": "Giant's Causeway and Causeway Coast",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "369-giant's_causeway_and_causeway_coast",
+ "lat": 55.240833333,
+ "lon": -6.511666666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "“巨人之路”位于北爱尔兰安特令平原边沿，沿着海岸坐落在玄武岩悬崖的山脚下，由大约40 000个黑色玄武岩巨型石柱组成，这些石柱一直延伸到大海。这个令人称奇的景观使人们联想出巨人跨过海峡到达苏格兰的传说。300年来，地质学家们研究其构造，了解到它是在第三纪（大约5000-6000万年前）时由活火山不断喷发而成的。这个状观景点同时大大推动了地球科学的发展。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Giant's Causeway lies at the foot of the basalt cliffs along the sea coast on the edge of the Antrim plateau in Northern Ireland. It is made up of some 40,000 massive black basalt columns sticking out of the sea. The dramatic sight has inspired legends of giants striding over the sea to Scotland. Geological studies of these formations over the last 300 years have greatly contributed to the development of the earth sciences, and show that this striking landscape was caused by volcanic activity during the Tertiary, some 50–60 million years ago.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giant%27s%20Causeway%20%2836834542085%29.jpg?width=1280",
+   "title": "Giant's Causeway (36834542085).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Giant%27s%20Causeway%20%2836834542085%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/20120830_Giant%27s_Causeway.jpg/1280px-20120830_Giant%27s_Causeway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20120830 Giant's Causeway.jpg",
+   "author": "JoachimKohler-HB",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20120830_Giant%27s_Causeway.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/201708_Giant%27s_Causeway_01.jpg/1280px-201708_Giant%27s_Causeway_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "201708 Giant's Causeway 01.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:201708_Giant%27s_Causeway_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/201708_Giant%27s_Causeway_02.jpg/1280px-201708_Giant%27s_Causeway_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "201708 Giant's Causeway 02.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:201708_Giant%27s_Causeway_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/201708_Giant%27s_Causeway_03.jpg/1280px-201708_Giant%27s_Causeway_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "201708 Giant's Causeway 03.jpg",
+   "author": "Jonashtand",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:201708_Giant%27s_Causeway_03.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/369",
+ "transport": {
+  "airports": [
+   {
+    "name": "City of Derry Airport",
+    "iata": "LDY",
+    "city": "Derry, Derry and Strabane",
+    "country": "GB",
+    "lat": 55.042801,
+    "lon": -7.16111,
+    "type": "medium_airport",
+    "distance_km": 46.8
+   },
+   {
+    "name": "Islay Airport",
+    "iata": "ILY",
+    "city": "Isle of Islay, Argyll and Bute",
+    "country": "GB",
+    "lat": 55.682708,
+    "lon": -6.257525,
+    "type": "medium_airport",
+    "distance_km": 51.7
+   },
+   {
+    "name": "Campbeltown Airport",
+    "iata": "CAL",
+    "city": "Campbeltown",
+    "country": "GB",
+    "lat": 55.437199,
+    "lon": -5.68639,
+    "type": "medium_airport",
+    "distance_km": 56.6
+   }
+  ],
+  "nearest_airport_km": 46.8,
+  "distance_beijing_km": 8171.9,
+  "ferry_terminals": [
+   {
+    "name": "Portandoo Harbour",
+    "name_en": null,
+    "lat": 55.2105806,
+    "lon": -6.6552658,
+    "distance_km": 9.7,
+    "operator": null
+   },
+   {
+    "name": "Portstewart Harbour",
+    "name_en": null,
+    "lat": 55.1871649,
+    "lon": -6.720567,
+    "distance_km": 14.5,
+    "operator": null
+   },
+   {
+    "name": "Rathlin Island Ferry Booking Office & Terminal",
+    "name_en": null,
+    "lat": 55.2078861,
+    "lon": -6.2416519,
+    "distance_km": 17.5,
+    "operator": "Dunaverty Ltd"
+   },
+   {
+    "name": "Rathlin Island Ferry",
+    "name_en": null,
+    "lat": 55.2927196,
+    "lon": -6.1950503,
+    "distance_km": 20.9,
+    "operator": null
+   },
+   {
+    "name": "Lough Foyle Ferry Company",
+    "name_en": null,
+    "lat": 55.2034003,
+    "lon": -6.9839841,
+    "distance_km": 30.2,
+    "operator": "Frazer Foyle Holdings Ltd"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Giant's Causeway",
+    "name_en": null,
+    "lat": 55.2311905,
+    "lon": -6.5181917,
+    "distance_km": 1.1,
+    "operator": "Giant's Causeway & Bushmills Railway"
+   },
+   {
+    "name": "Bushmills",
+    "name_en": null,
+    "lat": 55.2075906,
+    "lon": -6.5298478,
+    "distance_km": 3.9,
+    "operator": "Giant's Causeway & Bushmills Railway"
+   },
+   {
+    "name": "Portrush",
+    "name_en": null,
+    "lat": 55.2031155,
+    "lon": -6.6533861,
+    "distance_km": 9.9,
+    "operator": "Translink NI Railways"
+   },
+   {
+    "name": "Dhu Varren",
+    "name_en": null,
+    "lat": 55.1962242,
+    "lon": -6.6611895,
+    "distance_km": 10.7,
+    "operator": "Translink NI Railways"
+   },
+   {
+    "name": "University",
+    "name_en": null,
+    "lat": 55.1503894,
+    "lon": -6.6684074,
+    "distance_km": 14.1,
+    "operator": "Translink NI Railways"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "The Machrie",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.661622,
+   "lon": -6.2508773,
+   "distance_km": 49.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cosy Cottage on the Causeway coast and Glens",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 55.1909301,
+   "lon": -6.3185385,
+   "distance_km": 13.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marine Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 55.2049934,
+   "lon": -6.2399534,
+   "distance_km": 17.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Marcus Portrush",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 55.2069828,
+   "lon": -6.653596,
+   "distance_km": 9.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Marcus Portrush, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Tapestry Collection by Hilton",
+   "lat": 55.2069377,
+   "lon": -6.6537707,
+   "distance_km": 9.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 72
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/369"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Giant%27s%20Causeway"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

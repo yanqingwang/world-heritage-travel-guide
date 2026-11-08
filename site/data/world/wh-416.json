@@ -1,0 +1,162 @@
+{
+ "id": "wh-416",
+ "unesco_id": "416",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 823,
+ "popularity_score": 1877,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Etat de Puebla, municipalites de Puebla, San Pedro Cholula et San Andres Cholula",
+ "subdivision_iso": "MX-PUE",
+ "subdivision_zh": "普埃布拉州",
+ "subdivision_en": "Puebla",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "普埃布拉历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Puebla",
+ "name_local": "Centro histórico de Puebla",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "416-historic_centre_of_puebla",
+ "lat": 19.04722222,
+ "lon": -98.20833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "普埃布拉城建于1531年，位于墨西哥城东约100公里的波波卡特佩特火山山脚下。那里保留着许多重要的宗教建筑，包括公元16世纪至17世纪修建的大教堂、古老的大主教宫殿和许多用瓷砖（上光花砖）装饰的房屋。这些新的美学理念来源于欧洲风格、美洲风格与当地特色的融合，这一点可以从普埃布拉地区的巴洛克风格中很好地看出来。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Puebla, which was founded ex nihilo in 1531, is situated about 100 km east of Mexico City, at the foot of the Popocatepetl volcano. It has preserved its great religious structures such as the 16th–17th-century cathedral and fine buildings like the old archbishop's palace, as well as a host of houses with walls covered in tiles ( azulejos ). The new aesthetic concepts resulting from the fusion of European and American styles were adopted locally and are peculiar to the Baroque district of Puebla.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situada a unos 100 kilómetros al este de México, al pie del volcán Popocatepetl, la ciudad de Puebla fue fundada ex nihilo en 1531. Ha conservado grandes edificios religiosos, como la catedral que data de los siglos XVI y XVII, palacios magníficos, como el del arzobispado, y un gran número de casas con paredes cubiertas de azulejos. El barrio barroco de la ciudad es único en su género, debido a la adaptación local de los nuevos conceptos estéticos surgidos de la fusión de los estilos arquitectónicos y artísticos de Europa y América.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20de%20puebla.jpg?width=1280",
+   "title": "Catedral de puebla.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Catedral%20de%20puebla.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_416.jpg",
+   "title": "Historic Centre of Puebla",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/416",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/416",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hermanos Serdán International Airport",
+    "iata": "PBC",
+    "city": "Puebla",
+    "country": "MX",
+    "lat": 19.158465,
+    "lon": -98.371582,
+    "type": "large_airport",
+    "distance_km": 21.1
+   },
+   {
+    "name": "Mexico City Benito Juárez International Airport",
+    "iata": "MEX",
+    "city": "Mexico City",
+    "country": "MX",
+    "lat": 19.435822,
+    "lon": -99.07033,
+    "type": "large_airport",
+    "distance_km": 100.3
+   },
+   {
+    "name": "Felipe Ángeles International Airport",
+    "iata": "NLU",
+    "city": "Mexico City",
+    "country": "MX",
+    "lat": 19.743824,
+    "lon": -99.01507,
+    "type": "large_airport",
+    "distance_km": 114.7
+   }
+  ],
+  "nearest_airport_km": 21.1,
+  "distance_beijing_km": 12498.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/416"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20centre%20of%20Puebla"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-948",
+ "unesco_id": "948",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 166,
+ "popularity_score": 84626,
+ "country": "VN",
+ "country_zh": "越南",
+ "country_en": "Vietnam",
+ "countries": [
+  {
+   "iso2": "VN",
+   "zh": "越南",
+   "en": "Vietnam"
+  }
+ ],
+ "region": "Hoi An Town, Quang Nam Province",
+ "subdivision_iso": "VN-27",
+ "subdivision_zh": "广南省",
+ "subdivision_en": "Quảng Nam",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "会安古镇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hoi An Ancient Town",
+ "name_local": "Hội An (thành phố)",
+ "local_lang": "vi",
+ "local_lang_name": "Vietnamese",
+ "slug": "948-hoi_an_ancient_town",
+ "lat": 15.877669444,
+ "lon": 108.33265,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(v)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "会安古镇是15世纪到19世纪东南亚的一个贸易港，是一个保存非常完好的范例。其建筑和街道样式，受到本地和国外风格的影响，土洋结合的风格共同孕育出这个独特的遗址。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Hội An là một thành phố ven biển cũ thuộc tỉnh Quảng Nam cũ, Việt Nam. Phố cổ Hội An từng là một thương cảng quốc tế sầm uất, gồm những di sản kiến trúc đã có từ hàng trăm năm trước, được UNESCO công nhận là di sản văn hóa thế giới từ năm 1999.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%E1%BB%99i%20An%2C%20Ancient%20Town%2C%202020-01%20CN-06.jpg?width=1280",
+   "title": "Hội An, Ancient Town, 2020-01 CN-06.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:H%E1%BB%99i%20An%2C%20Ancient%20Town%2C%202020-01%20CN-06.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_948.jpg",
+   "title": "Hoi An Ancient Town",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/948",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/948",
+ "transport": {
+  "airports": [
+   {
+    "name": "Da Nang International Airport",
+    "iata": "DAD",
+    "city": "Da Nang",
+    "country": "VN",
+    "lat": 16.0439,
+    "lon": 108.198997,
+    "type": "large_airport",
+    "distance_km": 23.4
+   },
+   {
+    "name": "Chu Lai Airport",
+    "iata": "VCL",
+    "city": "Tam Nghĩa",
+    "country": "VN",
+    "lat": 15.4033,
+    "lon": 108.706001,
+    "type": "small_airport",
+    "distance_km": 66.2
+   },
+   {
+    "name": "Phu Bai International Airport",
+    "iata": "HUI",
+    "city": "Huế",
+    "country": "VN",
+    "lat": 16.400581,
+    "lon": 107.704094,
+    "type": "large_airport",
+    "distance_km": 88.8
+   }
+  ],
+  "nearest_airport_km": 23.4,
+  "distance_beijing_km": 2793.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "VN",
+  "country_zh": "越南",
+  "country_en": "Vietnam",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][161]",
+  "notes": "e-Visa is valid for 90 days and multiple entry. Holders of passports for public affairs do not require a visa.[18] Visa not required for 30 days for Phu Quoc island, including transiting through Noi Bai International Airport or Tan Son Nhat International Airport. Visa collection on arrival can be ar"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "VN",
+   "country_zh": "越南",
+   "country_en": "Vietnam",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][161]",
+   "notes": "e-Visa is valid for 90 days and multiple entry. Holders of passports for public affairs do not require a visa.[18] Visa not required for 30 days for Phu Quoc island, including transiting through Noi Bai International Airport or Tan Son Nhat International Airport. Visa collection on arrival can be ar"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "vi",
+  "local_lang_name": "Vietnamese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/948"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/H%E1%BB%99i%20An%20%28city%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

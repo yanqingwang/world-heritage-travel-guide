@@ -1,0 +1,208 @@
+{
+ "id": "cn-1449",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "九江市",
+ "city_en": "Jiujiang",
+ "name_zh": "九江市永修县庐山西海景区",
+ "name_en": "Jiujiangshiyongxiuxianlushanxihai Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "jiujiangshiyongxiuxianlushanxihai-1449",
+ "lat": 29.200974,
+ "lon": 115.479351,
+ "address_zh": "江西省九江市永修县柘林镇",
+ "address_en": "Zhelin Town, Yongxiu County, Jiujiang City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "庐山西海风景名胜区位于江西省北部、九江市西南部，地跨武宁、永修两县，是一处集亚洲最大土坝水库、国家水利风景区、国家森林公园为一体的山岳湖泊型特大景区，由庐山西海湖区和云居山两大板块组成。",
+ "intro_en": "The Lushan West Sea Scenic Area is located in the north of Jiangxi Province and the southwest of Jiujiang City, spanning Wuning and Yongxiu counties. It is a mountain and lake-type mega-scenic area integrating Asia's largest earth dam reservoir, a national water conservancy scenic spot, and a national forest park. It is composed of two major blocks, the Lushan West Sea Lake Area and the Yunju Mountain.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%E5%BA%90%E5%B1%B1%E6%97%A5%E5%87%BA.JPG/1280px-%E5%BA%90%E5%B1%B1%E6%97%A5%E5%87%BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "庐山日出.JPG",
+   "author": "No machine-readable author provided. Chenyun~commonswiki assumed (based on copyright claims).",
+   "license": "CC BY-SA 2.5",
+   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "source": "https://commons.wikimedia.org/wiki/File:庐山日出.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mount_Lu.jpg/1280px-Mount_Lu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Lu.jpg",
+   "author": "Pauloleong2002",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Mount_Lu_16147-Lushan_%2849052568127%29.jpg/1280px-Mount_Lu_16147-Lushan_%2849052568127%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Lu 16147-Lushan (49052568127).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "16147-Lushan",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu_16147-Lushan_(49052568127).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mount_Lu_16158-Lushan_%2849052568687%29.jpg/1280px-Mount_Lu_16158-Lushan_%2849052568687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Lu 16158-Lushan (49052568687).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "16158-Lushan",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu_16158-Lushan_(49052568687).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Mount_Lu_16179-Lushan_%2849051844048%29.jpg/1280px-Mount_Lu_16179-Lushan_%2849051844048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Lu 16179-Lushan (49051844048).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "16179-Lushan",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Lu_16179-Lushan_(49051844048).jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jiujiang Lushan Airport",
+    "iata": "JIU",
+    "city": "Jiujiang",
+    "country": "CN",
+    "lat": 29.476944,
+    "lon": 115.801111,
+    "type": "small_airport",
+    "distance_km": 43.8
+   },
+   {
+    "name": "Nanchang Changbei International Airport",
+    "iata": "KHN",
+    "city": "Nanchang",
+    "country": "CN",
+    "lat": 28.864815,
+    "lon": 115.90271,
+    "type": "large_airport",
+    "distance_km": 55.6
+   },
+   {
+    "name": "Ezhou Huahu International Airport",
+    "iata": "EHU",
+    "city": "Ezhou",
+    "country": "CN",
+    "lat": 30.341178,
+    "lon": 115.03926,
+    "type": "large_airport",
+    "distance_km": 133.7
+   }
+  ],
+  "nearest_airport_km": 43.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "共青城",
+    "name_en": "Gongqingcheng",
+    "lat": 29.245657,
+    "lon": 115.7697513,
+    "distance_km": 28.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "德安",
+    "name_en": "De'an",
+    "lat": 29.3117818,
+    "lon": 115.7618872,
+    "distance_km": 30.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杨家岭",
+    "name_en": "Yangjialing",
+    "lat": 29.1135395,
+    "lon": 115.7912251,
+    "distance_km": 31.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "九江柘林湖宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1960078,
+   "lon": 115.467718,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "庐山西海温泉假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1883781,
+   "lon": 115.5134463,
+   "distance_km": 3.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "中海·庐山西海君澜度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3163695,
+   "lon": 115.2420106,
+   "distance_km": 26.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "德安远洲酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2986179,
+   "lon": 115.7625787,
+   "distance_km": 29.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

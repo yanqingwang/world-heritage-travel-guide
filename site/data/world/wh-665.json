@@ -1,0 +1,162 @@
+{
+ "id": "wh-665",
+ "unesco_id": "665",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 625,
+ "popularity_score": 8620,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Cáceres, Autonomous Community of Extremadura",
+ "subdivision_iso": "ES-CC",
+ "subdivision_zh": "卡塞雷斯省",
+ "subdivision_en": "Cáceres Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓜达卢佩的圣玛利皇家修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Royal Monastery of Santa María de Guadalupe",
+ "name_local": "Real Monasterio de Santa María de Guadalupe",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "665-royal_monastery_of_santa_maría_de_guadal",
+ "lat": 39.452777777,
+ "lon": -5.3275,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣玛利皇家修道院是长达四个世纪的西班牙宗教建筑历史的重要见证，它象征着1492年发生的世界历史上的两个重大事件：信奉天主教的王国收复伊比利亚半岛和克里斯托弗·哥伦布发现美洲大陆。圣玛利皇家修道院内著名的圣母雕像成为多数新大陆地区基督教化的有力象征。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The monastery is an outstanding repository of four centuries of Spanish religious architecture. It symbolizes two significant events in world history that occurred in 1492: the Reconquest of the Iberian peninsula by the Catholic Kings and Christopher Columbus' arrival in the Americas. Its famous statue of the Virgin became a powerful symbol of the Christianization of much of the New World.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este monasterio posee un interés excepcional porque ilustra cuatro siglos de arquitectura religiosa española y recuerda los dos acontecimientos históricos trascendentales de 1492: el final de la reconquista en la Península Ibérica por los Reyes Católicos y la llegada de Cristóbal Colón a América. La célebre estatua de la Virgen de Guadalupe se convirtió en un poderoso símbolo de la cristianización de gran parte del Nuevo Mundo.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Monastery%20of%20Santa%20Maria%20de%20Guadalupe.jpg?width=1280",
+   "title": "Royal Monastery of Santa Maria de Guadalupe.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Royal%20Monastery%20of%20Santa%20Maria%20de%20Guadalupe.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_665.jpg",
+   "title": "Royal Monastery of Santa María de Guadalupe",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/665",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/665",
+ "transport": {
+  "airports": [
+   {
+    "name": "Badajoz Airport",
+    "iata": "BJZ",
+    "city": "Badajoz",
+    "country": "ES",
+    "lat": 38.8913,
+    "lon": -6.82133,
+    "type": "medium_airport",
+    "distance_km": 143.1
+   },
+   {
+    "name": "Salamanca Airport",
+    "iata": "SLM",
+    "city": "Salamanca",
+    "country": "ES",
+    "lat": 40.952099,
+    "lon": -5.50199,
+    "type": "medium_airport",
+    "distance_km": 167.4
+   },
+   {
+    "name": "Córdoba Airport",
+    "iata": "ODB",
+    "city": "Córdoba",
+    "country": "ES",
+    "lat": 37.841999,
+    "lon": -4.84888,
+    "type": "medium_airport",
+    "distance_km": 183.9
+   }
+  ],
+  "nearest_airport_km": 143.1,
+  "distance_beijing_km": 9520.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/665"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monastery%20of%20Saint%20Mary%20of%20Guadalupe"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

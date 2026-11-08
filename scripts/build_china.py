@@ -26,8 +26,21 @@ PROVINCE_EN = {
     "新疆": "Xinjiang",
 }
 
-CITY_EN = {
-    "北京市": "Beijing", "上海市": "Shanghai", "天津市": "Tianjin", "重庆市": "Chongqing",
+# ISO 3166-2:CN.  Keeping the code on every record lets the site use one
+# country -> province/state cascade for both datasets.
+PROVINCE_ISO = {
+    "北京": "CN-BJ", "天津": "CN-TJ", "河北": "CN-HE", "山西": "CN-SX",
+    "内蒙古": "CN-NM", "辽宁": "CN-LN", "吉林": "CN-JL", "黑龙江": "CN-HL",
+    "上海": "CN-SH", "江苏": "CN-JS", "浙江": "CN-ZJ", "安徽": "CN-AH",
+    "福建": "CN-FJ", "江西": "CN-JX", "山东": "CN-SD", "河南": "CN-HA",
+    "湖北": "CN-HB", "湖南": "CN-HN", "广东": "CN-GD", "广西": "CN-GX",
+    "海南": "CN-HI", "重庆": "CN-CQ", "四川": "CN-SC", "贵州": "CN-GZ",
+    "云南": "CN-YN", "西藏": "CN-XZ", "陕西": "CN-SN", "甘肃": "CN-GS",
+    "青海": "CN-QH", "宁夏": "CN-NX", "新疆": "CN-XJ",
+    "台湾": "CN-TW", "香港": "CN-HK", "澳门": "CN-MO",
+}
+
+CITY_EN = {    "北京市": "Beijing", "上海市": "Shanghai", "天津市": "Tianjin", "重庆市": "Chongqing",
     "杭州市": "Hangzhou", "苏州市": "Suzhou", "南京市": "Nanjing", "无锡市": "Wuxi",
     "扬州市": "Yangzhou", "常州市": "Changzhou", "镇江市": "Zhenjiang", "徐州市": "Xuzhou",
     "淮安市": "Huai'an", "盐城市": "Yancheng", "连云港市": "Lianyungang",
@@ -275,6 +288,7 @@ def main() -> int:
             "country_en": "China",
             "province_zh": site.get("province_full") or site.get("province"),
             "province_en": PROVINCE_EN.get(site.get("province"), site.get("province")),
+            "province_iso": PROVINCE_ISO.get(site.get("province") or "", ""),
             "city_zh": site.get("city"),
             "city_en": city_en(site.get("city") or ""),
             "name_zh": site["name"],

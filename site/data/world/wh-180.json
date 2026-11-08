@@ -1,0 +1,162 @@
+{
+ "id": "wh-180",
+ "unesco_id": "180",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 840,
+ "popularity_score": 1515,
+ "country": "HT",
+ "country_zh": "海地",
+ "country_en": "Haiti",
+ "countries": [
+  {
+   "iso2": "HT",
+   "zh": "海地",
+   "en": "Haiti"
+  }
+ ],
+ "region": "Département du Nord",
+ "subdivision_iso": "HT-ND",
+ "subdivision_zh": "北部省",
+ "subdivision_en": "Nord",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "国家历史公园：城堡、圣苏西宫、拉米尔斯堡垒",
+ "name_zh_source": "unesco_official",
+ "name_en": "National History Park – Citadel, Sans Souci, Ramiers",
+ "name_local": "Parc national historique – Citadelle, Sans Souci, Ramiers",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "180-national_history_park_–_citadel,_sans_so",
+ "lat": 19.573611111,
+ "lon": -72.243888888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这些建筑可追溯到19世纪海地宣布独立的时期。圣苏西宫、拉米尔斯堡垒、尤其是古城堡对全世界来说都是自由的象征，因为它们是最先由获得自由的黑人奴隶修造的建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These Haitian monuments date from the beginning of the 19th century, when Haiti proclaimed its independence. The Palace of Sans Souci, the buildings at Ramiers and, in particular, the Citadel serve as universal symbols of liberty, being the first monuments to be constructed by black slaves who had gained their freedom.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ces monuments d’Haïti, le palais de Sans Souci, les bâtiments des Ramiers et tout particulièrement la Citadelle, qui remontent au début du XIXe siècle, époque où la République proclama son indépendance, sont chargés d’un symbolisme universel car ils sont les premiers à avoir été bâtis par des esclaves noirs ayant conquis leur liberté.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sans-Souci%20Palace%20back.jpg?width=1280",
+   "title": "Sans-Souci Palace back.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sans-Souci%20Palace%20back.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_180.jpg",
+   "title": "National History Park – Citadel, Sans Souci, Ramiers",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/180",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/180",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cap Haitien International Airport",
+    "iata": "CAP",
+    "city": "Cap Haitien",
+    "country": "HT",
+    "lat": 19.725547,
+    "lon": -72.20071,
+    "type": "large_airport",
+    "distance_km": 17.5
+   },
+   {
+    "name": "Toussaint Louverture International Airport",
+    "iata": "PAP",
+    "city": "Port-au-Prince",
+    "country": "HT",
+    "lat": 18.580023,
+    "lon": -72.292596,
+    "type": "large_airport",
+    "distance_km": 110.6
+   },
+   {
+    "name": "Cibao International Airport",
+    "iata": "STI",
+    "city": "Santiago",
+    "country": "DO",
+    "lat": 19.40406,
+    "lon": -70.604431,
+    "type": "large_airport",
+    "distance_km": 172.9
+   }
+  ],
+  "nearest_airport_km": 17.5,
+  "distance_beijing_km": 13302.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HT",
+  "country_zh": "海地",
+  "country_en": "Haiti",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "All non-Haitian passport holders must pay a tourist fee of 10 USD on arrival."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HT",
+   "country_zh": "海地",
+   "country_en": "Haiti",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "All non-Haitian passport holders must pay a tourist fee of 10 USD on arrival."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 19
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/180"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/National%20History%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

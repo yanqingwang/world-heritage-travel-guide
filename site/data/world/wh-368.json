@@ -1,0 +1,162 @@
+{
+ "id": "wh-368",
+ "unesco_id": "368",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 408,
+ "popularity_score": 19845,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "States of New South Wales and Queensland",
+ "subdivision_iso": "AU-NSW",
+ "subdivision_zh": "新南威尔士州",
+ "subdivision_en": "New South Wales",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "澳大利亚冈瓦纳雨林",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gondwana Rainforests of Australia",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "368-gondwana_rainforests_of_australia",
+ "lat": -29.6,
+ "lon": 149.6,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)(ix)(x)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "此处遗产由若干保护区组成，雄踞在澳大利亚东海岸的大陡坡附近。盾状火山口群的地质特点和大量珍稀濒危雨林物种使得该保护区在国际上具有很高的科学价值和保护价值。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This site, comprising several protected areas, is situated predominantly along the Great Escarpment on Australia's east coast. The outstanding geological features displayed around shield volcanic craters and the high number of rare and threatened rainforest species are of international significance for science and conservation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Box%20Log%20Falls.jpg?width=1280",
+   "title": "Box Log Falls.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Box%20Log%20Falls.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_368.jpg",
+   "title": "Gondwana Rainforests of Australia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/368",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/368",
+ "transport": {
+  "airports": [
+   {
+    "name": "Moree Airport",
+    "iata": "MRZ",
+    "city": "Moree",
+    "country": "AU",
+    "lat": -29.498899459799997,
+    "lon": 149.845001221,
+    "type": "medium_airport",
+    "distance_km": 26.2
+   },
+   {
+    "name": "Narrabri Airport",
+    "iata": "NAA",
+    "city": "Narrabri",
+    "country": "AU",
+    "lat": -30.3192005157,
+    "lon": 149.82699585,
+    "type": "medium_airport",
+    "distance_km": 82.9
+   },
+   {
+    "name": "Walgett Airport",
+    "iata": "WGE",
+    "city": "",
+    "country": "AU",
+    "lat": -30.032801,
+    "lon": 148.126007,
+    "type": "medium_airport",
+    "distance_km": 150.1
+   }
+  ],
+  "nearest_airport_km": 26.2,
+  "distance_beijing_km": 8464.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/368"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gondwana%20Rainforests"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

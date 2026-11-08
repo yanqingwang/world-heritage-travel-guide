@@ -1,0 +1,127 @@
+{
+ "id": "cn-887",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "甘肃省",
+ "province_en": "Gansu",
+ "province_iso": "CN-GS",
+ "city_zh": "平凉市",
+ "city_en": "Pingliang City",
+ "name_zh": "平凉市崆峒山风景名胜区",
+ "name_en": "Pingliangshikongdongshan Scenic and Historic Area",
+ "name_en_source": "pinyin",
+ "slug": "pingliangshikongdongshanfengjingmingshengqu-887",
+ "lat": 35.442341,
+ "lon": 105.659367,
+ "address_zh": "平凉市崆峒区崆峒镇",
+ "address_en": "Kongtong Town, Kongtong District, Pingliang City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "崆峒山位于甘肃省平凉市，是古丝绸之路西出关中之要塞。景区面积84平方公里。崆峒山素有八台、九宫、十二院、四十二座建筑群、七十二处石府洞天，是西北地区道、佛两家的宗教圣地，自古就有“中华道教第一山”的美誉。",
+ "intro_en": "Kongtong Mountain is located in Pingliang City, Gansu Province. It is a fortress on the west exit of Guanzhong on the ancient Silk Road. The scenic area covers an area of ​​84 square kilometers. Kongtong Mountain has eight platforms, nine palaces, twelve courtyards, forty-two building complexes, and seventy-two stone caves. It is a religious holy land for Taoism and Buddhism in the northwest region. It has been known as \"the first Taoist mountain in China\" since ancient times.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.kongtongtour.com/",
+ "booking": "https://wap.lotsmall.cn/vue/list/ticket?m_id=290",
+ "transport": {
+  "airports": [
+   {
+    "name": "Guyuan Liupanshan Airport",
+    "iata": "GYU",
+    "city": "Guyuan (Yuanzhou)",
+    "country": "CN",
+    "lat": 36.078889,
+    "lon": 106.216944,
+    "type": "medium_airport",
+    "distance_km": 86.8
+   },
+   {
+    "name": "Tianshui Maijishan Airport",
+    "iata": "THQ",
+    "city": "Tianshui (Maiji)",
+    "country": "CN",
+    "lat": 34.5601,
+    "lon": 105.860343,
+    "type": "medium_airport",
+    "distance_km": 99.8
+   },
+   {
+    "name": "Qingyang Xifeng Airport",
+    "iata": "IQN",
+    "city": "Qingyang (Xifeng)",
+    "country": "CN",
+    "lat": 35.802638,
+    "lon": 107.598896,
+    "type": "medium_airport",
+    "distance_km": 179.8
+   }
+  ],
+  "nearest_airport_km": 86.8,
+  "high_speed_stations": [
+   {
+    "name": "通渭",
+    "name_en": "Tongwei",
+    "lat": 35.196262,
+    "lon": 105.2593837,
+    "distance_km": 45.4,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "静宁悦居臻品酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.5062783,
+   "lon": 105.7030074,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宜必思酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ibis",
+   "lat": 35.5263614,
+   "lon": 105.7325517,
+   "distance_km": 11.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

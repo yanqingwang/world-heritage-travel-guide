@@ -1,0 +1,162 @@
+{
+ "id": "wh-1033",
+ "unesco_id": "1033",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 880,
+ "popularity_score": null,
+ "country": "AT",
+ "country_zh": "奥地利",
+ "country_en": "Austria",
+ "countries": [
+  {
+   "iso2": "AT",
+   "zh": "奥地利",
+   "en": "Austria"
+  }
+ ],
+ "region": "Vienna",
+ "subdivision_iso": "AT-9",
+ "subdivision_zh": "维也纳",
+ "subdivision_en": "Vienna",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "维也纳历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Vienna",
+ "name_local": "Historisches Zentrum von Wien",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "1033-historic_centre_of_vienna",
+ "lat": 48.2084,
+ "lon": 16.3722,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "维也纳是从早期哥特人和罗马人聚落发展起来的，后来成了一个中世纪巴洛克风格的城市——奥匈帝国首都。从伟大的维也纳古典乐派时代开始一直到20世纪初，维也纳一直作为欧洲音乐中心发挥着重要的作用。维也纳历史中心汇集了大量建筑艺术，包括巴洛克风格的城堡和花园，还有建于19世纪晚期的环城大道，两旁是宏伟的楼群，也有古迹和公园。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Vienna developed from early Celtic and Roman settlements into a Medieval and Baroque city, the capital of the Austro-Hungarian Empire. It played an essential role as a leading European music centre, from the great age of Viennese Classicism through the early part of the 20th century. The historic centre of Vienna is rich in architectural ensembles, including Baroque castles and gardens, as well as the late-19th-century Ringstrasse lined with grand buildings, monuments and parks.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Das historische Zentrum von Wien ist neben dem Schloss und Garten von Schönbrunn eine von zwei UNESCO-Welterbestätten in der österreichischen Hauptstadt Wien. Das aus einer Kern- und einer Außenzone bestehende Gebiet umfasst 8,33 km². Die Ernennung zum UNESCO-Welterbe erfolgte im Jahr 2001. Ein Teil des historischen Zentrums von Wien, im Wesentlichen der 1. Bezirk Innere Stadt und die angrenzende Ringstraße, ist auch als nach der Haager Konvention geschütztes Kulturgut registriert (Ensemble Innere Stadt). Seit 2016 ist der Welterbe-Status aufgrund eines geplanten Bauprojekts gefährdet, Von 2017 bis 2026 war die Stätte auf der Liste des gefährdeten Welterbes eingetragen.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien1-pan.JPG?width=1280",
+   "title": "Wien1-pan.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Wien1-pan.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1033.jpg",
+   "title": "Historic Centre of Vienna",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1033",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1033",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vienna International Airport",
+    "iata": "VIE",
+    "city": "Vienna",
+    "country": "AT",
+    "lat": 48.110298,
+    "lon": 16.5697,
+    "type": "large_airport",
+    "distance_km": 18.3
+   },
+   {
+    "name": "M. R. Štefánik Airport",
+    "iata": "BTS",
+    "city": "Bratislava",
+    "country": "SK",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "distance_km": 62.5
+   },
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 107.5
+   }
+  ],
+  "nearest_airport_km": 18.3,
+  "distance_beijing_km": 7452.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AT",
+  "country_zh": "奥地利",
+  "country_en": "Austria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AT",
+   "country_zh": "奥地利",
+   "country_en": "Austria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1033"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

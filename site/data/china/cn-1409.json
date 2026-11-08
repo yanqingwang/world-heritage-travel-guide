@@ -1,0 +1,188 @@
+{
+ "id": "cn-1409",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "衢州市",
+ "city_en": "Quzhou City",
+ "name_zh": "衢州市根宫佛国文化旅游区",
+ "name_en": "Quzhoushigengongfuguo Cultural Tourism Area",
+ "name_en_source": "pinyin",
+ "slug": "quzhoushigengongfuguo-1409",
+ "lat": 29.139382,
+ "lon": 118.399521,
+ "address_zh": "浙江省衢州市开化县城关镇根博路1号",
+ "address_en": "No. 1, Genbo Road, Chengguan Town, Kaihua County, Quzhou City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "garden",
+ "category_zh": "皇家园林",
+ "category_en": "Royal garden",
+ "intro_zh": "旅游区涵盖地方景观、水域风光、遗址遗迹、建筑设施、人文活动、气候景观等六大主类。根宫佛国巧妙地以根雕艺术、盆景艺术、赏石文化与园林古建为载体，构建了一幅恬静优雅的画卷，是一处寻根探源山水文化的旅游胜地。",
+ "intro_en": "The tourist area covers six main categories: local landscape, water scenery, ruins, architectural facilities, cultural activities, and climate landscape. Root Palace Buddhist Country skillfully uses root carving art, bonsai art, stone appreciation culture and ancient garden architecture as carriers to construct a quiet and elegant picture. It is a tourist attraction for exploring the roots of landscape culture.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.qzzg.com/index.php",
+ "booking": "http://www.qzzg.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Quzhou Airport",
+    "iata": "JUZ",
+    "city": "Quzhou (Kezheng)",
+    "country": "CN",
+    "lat": 28.96613,
+    "lon": 118.898793,
+    "type": "medium_airport",
+    "distance_km": 52.2
+   },
+   {
+    "name": "Huangshan Tunxi International Airport",
+    "iata": "TXN",
+    "city": "Huangshan",
+    "country": "CN",
+    "lat": 29.733299,
+    "lon": 118.255997,
+    "type": "large_airport",
+    "distance_km": 67.5
+   },
+   {
+    "name": "Shangrao Sanqingshan Airport",
+    "iata": "SQD",
+    "city": "Shangrao (Hengfeng)",
+    "country": "CN",
+    "lat": 28.3797,
+    "lon": 117.9643,
+    "type": "medium_airport",
+    "distance_km": 94.5
+   }
+  ],
+  "nearest_airport_km": 52.2,
+  "high_speed_stations": [
+   {
+    "name": "江山",
+    "name_en": null,
+    "lat": 28.775687,
+    "lon": 118.6389535,
+    "distance_km": 46.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "开化",
+    "name_en": null,
+    "lat": 28.9942441,
+    "lon": 118.3573008,
+    "distance_km": 16.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "辉埠",
+    "name_en": null,
+    "lat": 28.9549133,
+    "lon": 118.4688001,
+    "distance_km": 21.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杨林镇",
+    "name_en": null,
+    "lat": 29.0620093,
+    "lon": 118.1786993,
+    "distance_km": 23.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "开阳饭店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1396827,
+   "lon": 118.3954852,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "如家商旅酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1438942,
+   "lon": 118.3996601,
+   "distance_km": 0.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "丽景假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1346459,
+   "lon": 118.3906187,
+   "distance_km": 1.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "曼特酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1305526,
+   "lon": 118.402275,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "东方大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.89072,
+   "lon": 118.5176546,
+   "distance_km": 29.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 5,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

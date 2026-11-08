@@ -1,0 +1,144 @@
+{
+ "id": "wh-629",
+ "unesco_id": "629",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1125,
+ "popularity_score": null,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "State of Tasmania",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "麦夸里岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Macquarie Island",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "629-macquarie_island",
+ "lat": -55.226,
+ "lon": 161.785,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "麦夸里岛（长34公里，宽5公里）是位于南大洋的一个海岛，距塔斯马尼亚(Tasmania)东南部1500公里，大约相当于从澳大利亚到南极洲的一半路程。由于印度洋板块和太平洋板块在这里互相挤压，使得麦夸里海脊的最高部分露出了海面，形成了现在的麦夸里岛。这个地区有极其重要的地理保护意义，是地球上唯一一处从地幔（海底以下6公里深处）开始向上运动而露出海面的岩石，这些露出海面的特殊岩石包括枕状玄武岩和其他突出的岩石。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Macquarie Island (34 km long x 5 km wide) is an oceanic island in the Southern Ocean, lying 1,500 km south-east of Tasmania and approximately halfway between Australia and the Antarctic continent. The island is the exposed crest of the undersea Macquarie Ridge, raised to its present position where the Indo-Australian tectonic plate meets the Pacific plate. It is a site of major geoconservation significance, being the only place on earth where rocks from the earth’s mantle (6 km below the ocean floor) are being actively exposed above sea-level. These unique exposures include excellent examples of pillow basalts and other extrusive rocks.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_629.jpg",
+   "title": "Macquarie Island",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/629",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/629",
+ "transport": {
+  "airports": [
+   {
+    "name": "Invercargill Airport",
+    "iata": "IVC",
+    "city": "Invercargill",
+    "country": "NZ",
+    "lat": -46.41239929199219,
+    "lon": 168.31300354003906,
+    "type": "medium_airport",
+    "distance_km": 1080.9
+   },
+   {
+    "name": "Dunedin International Airport",
+    "iata": "DUD",
+    "city": "Dunedin",
+    "country": "NZ",
+    "lat": -45.929017,
+    "lon": 170.197758,
+    "type": "medium_airport",
+    "distance_km": 1190.4
+   }
+  ],
+  "nearest_airport_km": 1080.9,
+  "distance_beijing_km": 11429.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/629"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-1621",
+ "unesco_id": "1621",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 995,
+ "popularity_score": null,
+ "country": "MN",
+ "country_zh": "蒙古国",
+ "country_en": "Mongolia",
+ "countries": [
+  {
+   "iso2": "MN",
+   "zh": "蒙古国",
+   "en": "Mongolia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "鹿石遗迹以及相关青铜时代遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Deer Stone Monuments and Related Bronze Age Sites",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1621-deer_stone_monuments_and_related_bronze_",
+ "lat": 47.742777777,
+ "lon": 101.225833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这些遍布蒙古中部杭爱山脊上的鹿石用于仪式和葬礼，其年代可追溯至公元前约1200-600年。鹿石高度可达4米，或独石、或群石，直接嵌入大地。它们常位于大型墓冢（喀尔其苏尔）、祭坛等综合建筑群中。鹿石上刻有高度风格化或代表性的鹿纹图案，是青铜时代欧亚大陆游牧民族文化中最重要的存留物。此类游牧文化在公元前2000-1000年间演变，之后逐渐消失。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located on the slopes of the Khangai Ridge in central Mongolia, these deer stones were used for ceremonial and funerary practices. Dating from about 1200 to 600 BCE, they stand up to four metres tall and are set directly in the ground as single standing stones or in groups, and are almost always located in complexes that include large burial mounds called khirgisüürs and sacrificial altars. Covered with highly stylized or representational engravings of stags, deer stones are the most important surviving structures belonging to the culture of Eurasian Bronze Age nomads that evolved and then slowly disappeared between the 2nd and 1st millennia BCE.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1621.jpg",
+   "title": "Deer Stone Monuments and Related Bronze Age Sites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1621",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1621",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bayankhongor Airport",
+    "iata": "BYN",
+    "city": "Bayankhongor",
+    "country": "MN",
+    "lat": 46.1633,
+    "lon": 100.704002,
+    "type": "medium_airport",
+    "distance_km": 180.0
+   },
+   {
+    "name": "Arvaikheer Airport",
+    "iata": "AVK",
+    "city": "Arvaikheer",
+    "country": "MN",
+    "lat": 46.250301361083984,
+    "lon": 102.802001953125,
+    "type": "medium_airport",
+    "distance_km": 204.5
+   },
+   {
+    "name": "Bulgan Airport",
+    "iata": "UGA",
+    "city": "Bulgan",
+    "country": "MN",
+    "lat": 48.85499954223633,
+    "lon": 103.47599792480469,
+    "type": "medium_airport",
+    "distance_km": 207.4
+   }
+  ],
+  "nearest_airport_km": 180.0,
+  "distance_beijing_km": 1452.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MN",
+  "country_zh": "蒙古国",
+  "country_en": "Mongolia",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6][90]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MN",
+   "country_zh": "蒙古国",
+   "country_en": "Mongolia",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6][90]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1621"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

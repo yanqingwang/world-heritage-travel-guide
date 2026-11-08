@@ -1,0 +1,202 @@
+{
+ "id": "cn-1458",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "赣州市",
+ "city_en": "Ganzhou",
+ "name_zh": "赣州市瑞金市共和国摇篮景区",
+ "name_en": "Ganzhou",
+ "name_en_source": "wikipedia",
+ "slug": "ganzhoushiruijinshigongheguoyaolan-1458",
+ "lat": 25.88996,
+ "lon": 116.018882,
+ "address_zh": "江西省赣州市瑞金市沙洲坝镇",
+ "address_en": "Shazhouba Town, Ruijin City, Ganzhou City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "red",
+ "category_zh": "红色旅游",
+ "category_en": "Red tourism",
+ "intro_zh": "瑞金共和国摇篮景区是全国重点文物保护单位、全国爱国主义教育示范基地、全国红色旅游经典景区。该景区由叶坪、红井、二苏大、中华苏维埃纪念园（南园和北园）四大景区组成。",
+ "intro_en": "Ganzhou (Chinese: 赣州; pinyin: Gànzhōu, Hakka: Kam-chû-sṳ), alternately romanized as Kanchow, is a prefecture-level city in the south of Jiangxi province, China, bordering Fujian to the east, Guangdong to the south, and Hunan to the west. Its administrative seat is at Zhanggong District.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ganzhounan_Railway_Station_7959_1.jpg/1280px-Ganzhounan_Railway_Station_7959_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ganzhounan Railway Station 7959 1.jpg",
+   "author": "David290",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganzhounan_Railway_Station_7959_1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ganzhou-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ganzhou-map.png",
+   "author": "장길산",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganzhou-map.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ganzhou_Railway_Station_%2820250126%29.jpg/1280px-Ganzhou_Railway_Station_%2820250126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ganzhou Railway Station (20250126).jpg",
+   "author": "Fumikas Sagisavas",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganzhou_Railway_Station_%2820250126%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ganzhou_Wenmiao_20180619_163209.jpg/1280px-Ganzhou_Wenmiao_20180619_163209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ganzhou Wenmiao 20180619 163209.jpg",
+   "author": "Sino Yu",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganzhou_Wenmiao_20180619_163209.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Location_map_of_Ganzhou%2C_Jiangxi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Location map of Ganzhou, Jiangxi.png",
+   "author": "Not logging in",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work File:Map Jiangxi adm.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Location_map_of_Ganzhou%2C_Jiangxi.png"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Liancheng Guanzhishan Airport",
+    "iata": "LCX",
+    "city": "Longyan (Liancheng)",
+    "country": "CN",
+    "lat": 25.67592,
+    "lon": 116.745907,
+    "type": "medium_airport",
+    "distance_km": 76.6
+   },
+   {
+    "name": "Ganzhou Huangjin Airport",
+    "iata": "KOW",
+    "city": "Ganzhou",
+    "country": "CN",
+    "lat": 25.853333,
+    "lon": 114.778889,
+    "type": "small_airport",
+    "distance_km": 124.1
+   },
+   {
+    "name": "Jinggangshan Airport",
+    "iata": "JGS",
+    "city": "Ji'an",
+    "country": "CN",
+    "lat": 26.856899,
+    "lon": 114.737,
+    "type": "medium_airport",
+    "distance_km": 166.9
+   }
+  ],
+  "nearest_airport_km": 76.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "瑞金",
+    "name_en": "Ruijin",
+    "lat": 25.8665598,
+    "lon": 116.0511085,
+    "distance_km": 4.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "金峰山",
+    "name_en": null,
+    "lat": 25.8725489,
+    "lon": 116.1711754,
+    "distance_km": 15.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "石门圩",
+    "name_en": null,
+    "lat": 25.8287145,
+    "lon": 115.8566478,
+    "distance_km": 17.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "瑞金宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.8856463,
+   "lon": 116.0372852,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "瑞金饭店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.8781349,
+   "lon": 116.03388,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "海亚国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.8896298,
+   "lon": 116.0517935,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/赣州市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

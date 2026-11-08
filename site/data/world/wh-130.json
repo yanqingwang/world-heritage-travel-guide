@@ -1,0 +1,162 @@
+{
+ "id": "wh-130",
+ "unesco_id": "130",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 165,
+ "popularity_score": 85142,
+ "country": "MT",
+ "country_zh": "马耳他",
+ "country_en": "Malta",
+ "countries": [
+  {
+   "iso2": "MT",
+   "zh": "马耳他",
+   "en": "Malta"
+  }
+ ],
+ "region": "Commune of Paola, Island of Malta",
+ "subdivision_iso": "MT-39",
+ "subdivision_zh": "保拉",
+ "subdivision_en": "Paola",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "哈尔•萨夫列尼地下宫殿",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ħal Saflieni Hypogeum",
+ "name_local": "",
+ "local_lang": "mt",
+ "local_lang_name": "Maltese",
+ "slug": "130-ħal_saflieni_hypogeum",
+ "lat": 35.869558333,
+ "lon": 14.506883333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "哈尔·萨夫列尼地下宫殿是一个巨大的地下建筑，建于约公元前2500年，它是利用大型的传动索运输巨石和珊瑚石灰石建造而成。这座地下宫殿可能曾是避难所，但从史前时期起便成为大墓地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Hypogeum is an enormous subterranean structure excavated c. 2500 B.C., using cyclopean rigging to lift huge blocks of coralline limestone. Perhaps originally a sanctuary, it became a necropolis in prehistoric times.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malta%20Hypogeum%20Modell.jpg?width=1280",
+   "title": "Malta Hypogeum Modell.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Malta%20Hypogeum%20Modell.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_130.jpg",
+   "title": "Ħal Saflieni Hypogeum",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/130",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/130",
+ "transport": {
+  "airports": [
+   {
+    "name": "Malta International Airport",
+    "iata": "MLA",
+    "city": "Valletta",
+    "country": "MT",
+    "lat": 35.845932,
+    "lon": 14.491546,
+    "type": "large_airport",
+    "distance_km": 3.0
+   },
+   {
+    "name": "Comiso Airport",
+    "iata": "CIY",
+    "city": "Comiso",
+    "country": "IT",
+    "lat": 36.99583,
+    "lon": 14.60889,
+    "type": "medium_airport",
+    "distance_km": 125.6
+   },
+   {
+    "name": "Lampedusa Airport",
+    "iata": "LMP",
+    "city": "Lampedusa",
+    "country": "IT",
+    "lat": 35.497898,
+    "lon": 12.6181,
+    "type": "medium_airport",
+    "distance_km": 175.5
+   }
+  ],
+  "nearest_airport_km": 3.0,
+  "distance_beijing_km": 8416.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MT",
+  "country_zh": "马耳他",
+  "country_en": "Malta",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MT",
+   "country_zh": "马耳他",
+   "country_en": "Malta",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "mt",
+  "local_lang_name": "Maltese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 47
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/130"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C4%A6al%20Saflieni%20Hypogeum"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

@@ -1,0 +1,152 @@
+{
+ "id": "wh-261",
+ "unesco_id": "261",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 663,
+ "popularity_score": 6931,
+ "country": "SC",
+ "country_zh": "塞舌尔",
+ "country_en": "Seychelles",
+ "countries": [
+  {
+   "iso2": "SC",
+   "zh": "塞舌尔",
+   "en": "Seychelles"
+  }
+ ],
+ "region": "Praslin Island",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "马埃谷地自然保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Vallée de Mai Nature Reserve",
+ "name_local": "Réserve naturelle de la vallée de Mai",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "261-vallée_de_mai_nature_reserve",
+ "lat": -4.329166666,
+ "lon": 55.7375,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马埃谷地自然保护区位于普拉兰岛的中心地带，有着几乎保持在其原始状态下的天然海椰子林。著名的海椰子是植物王国里最大的种子，曾经被认为是长在深海里的一种棕榈树的果实。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the heart of the small island of Praslin, the reserve has the vestiges of a natural palm forest preserved in almost its original state. The famous coco de mer , from a palm-tree once believed to grow in the depths of the sea, is the largest seed in the plant kingdom.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Au cœur de la petite île de Praslin, la réserve abrite les vestiges d'une forêt naturelle de palmiers qui a pour ainsi dire conservé son état d'origine. Le célèbre « coco de mer », fruit d'un palmier dont on pensait autrefois qu'il poussait au fond des mers, est la plus grosse graine du règne végétal.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Valle%C3%A9%20de%20mai2.jpg?width=1280",
+   "title": "Valleé de mai2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Valle%C3%A9%20de%20mai2.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_261.jpg",
+   "title": "Vallée de Mai Nature Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/261",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/261",
+ "transport": {
+  "airports": [
+   {
+    "name": "Praslin Island Airport",
+    "iata": "PRI",
+    "city": "Praslin Island",
+    "country": "SC",
+    "lat": -4.319256,
+    "lon": 55.691561,
+    "type": "medium_airport",
+    "distance_km": 5.2
+   },
+   {
+    "name": "Seychelles International Airport",
+    "iata": "SEZ",
+    "city": "Victoria",
+    "country": "SC",
+    "lat": -4.67434,
+    "lon": 55.521801,
+    "type": "large_airport",
+    "distance_km": 45.2
+   }
+  ],
+  "nearest_airport_km": 5.2,
+  "distance_beijing_km": 7914.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SC",
+  "country_zh": "塞舌尔",
+  "country_en": "Seychelles",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6][129]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SC",
+   "country_zh": "塞舌尔",
+   "country_en": "Seychelles",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6][129]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/261"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vall%C3%A9e%20de%20Mai"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

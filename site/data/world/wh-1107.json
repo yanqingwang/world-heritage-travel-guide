@@ -1,0 +1,154 @@
+{
+ "id": "wh-1107",
+ "unesco_id": "1107",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 898,
+ "popularity_score": null,
+ "country": "IL",
+ "country_zh": "以色列",
+ "country_en": "Israel",
+ "countries": [
+  {
+   "iso2": "IL",
+   "zh": "以色列",
+   "en": "Israel"
+  }
+ ],
+ "region": "Negev Region",
+ "subdivision_iso": "IL-D",
+ "subdivision_zh": "",
+ "subdivision_en": "South District",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "熏香之路——内盖夫的沙漠城镇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Incense Route - Desert Cities in the Negev",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1107-incense_route_-_desert_cities_in_the_neg",
+ "lat": 30.54111111,
+ "lon": 35.16083333,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2005",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "那巴提人的四个城镇哈鲁扎(Haluza)、曼席特(Mamshit)、阿伏达特(Avdat)和席伏塔(Shivta)，以及内盖夫沙漠的相关堡垒和农业景观，分布在通往地中海端的熏香之路两边。它们共同反映了自公元前3世纪起到公元2世纪间从阿拉伯南部到地中海地区乳香和没药贸易的巨大繁荣景象。复杂的灌溉系统、城市建筑、城堡和商队旅馆等遗迹，见证着条件艰苦的沙漠发展成为贸易和农业定居点的过程。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The four Nabatean towns of Haluza, Mamshit, Avdat and Shivta, along with associated fortresses and agricultural landscapes in the Negev Desert, are spread along routes linking them to the Mediterranean end of the incense and spice route. Together they reflect the hugely profitable trade in frankincense and myrrh from south Arabia to the Mediterranean, which flourished from the 3rd century BC until the 2nd century AD. With the vestiges of their sophisticated irrigation systems, urban constructions, forts and caravanserai, they bear witness to the way in which the harsh desert was settled for trade and agriculture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1107.jpg",
+   "title": "Incense Route - Desert Cities in the Negev",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1107",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1107",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ramon International Airport",
+    "iata": "ETM",
+    "city": "Eilat",
+    "country": "IL",
+    "lat": 29.727009,
+    "lon": 35.014116,
+    "type": "large_airport",
+    "distance_km": 91.6
+   },
+   {
+    "name": "King Hussein International Airport",
+    "iata": "AQJ",
+    "city": "Aqaba",
+    "country": "JO",
+    "lat": 29.611601,
+    "lon": 35.018101,
+    "type": "large_airport",
+    "distance_km": 104.3
+   },
+   {
+    "name": "Taba International Airport",
+    "iata": "TCP",
+    "city": "Taba",
+    "country": "EG",
+    "lat": 29.594496,
+    "lon": 34.775752,
+    "type": "medium_airport",
+    "distance_km": 111.6
+   }
+  ],
+  "nearest_airport_km": 91.6,
+  "distance_beijing_km": 7269.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IL",
+  "country_zh": "以色列",
+  "country_en": "Israel",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IL",
+   "country_zh": "以色列",
+   "country_en": "Israel",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1107"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

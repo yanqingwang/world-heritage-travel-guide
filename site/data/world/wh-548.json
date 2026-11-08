@@ -1,0 +1,162 @@
+{
+ "id": "wh-548",
+ "unesco_id": "548",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 777,
+ "popularity_score": 3724,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "Department of San Martin, Province Mariscal Caceres, District of Huicungo",
+ "subdivision_iso": "PE-SAM",
+ "subdivision_zh": "圣马丁大区",
+ "subdivision_en": "San Martin Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "里奥阿比塞奥国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Río Abiseo National Park",
+ "name_local": "Parque Nacional del Río Abiseo",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "548-río_abiseo_national_park",
+ "lat": -7.75,
+ "lon": -77.25,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(iii)(vii)(ix)(x)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "里奥阿比塞奥国家公园建于1983年，目的是为了保护安第斯山脉潮湿森林里特有的动物和植物。该公园里的动植物具有很强的当地特色，这里还发现过以前被认为已经绝种的黄尾毛猴。自1985年以来进行的研究，已经发现了36个前所未知的考古地点，均位于2500米至4000米之间的高度，这非常有利于对印加帝国以前当地社会的了解。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The park was created in 1983 to protect the fauna and flora of the rainforests that are characteristic of this region of the Andes. There is a high level of endemism among the fauna and flora found in the park. The yellow-tailed woolly monkey, previously thought extinct, is found only in this area. Research undertaken since 1985 has already uncovered 36 previously unknown archaeological sites at altitudes of between 2,500 and 4,000 m, which give a good picture of pre-Inca society.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este parque se creó en 1983 para proteger la fauna y la flora altamente endémicas de los bosques lluviosos característicos de esta región de los Andes. El mono lanudo de cola amarilla, que se creía extinto, se encuentra únicamente en esta zona. Los trabajos de investigación llevados a cabo desde 1985 han permitido descubrir hasta ahora 36 sitios arqueológicos, situados entre 2.500 y 4.000 metros de altitud, que proporcionan una idea bastante completa de lo que fue la sociedad preincaica.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quebrada%20Churo-%20Parque%20Nacional%20del%20Rio%20Abiseo.jpg?width=1280",
+   "title": "Quebrada Churo- Parque Nacional del Rio Abiseo.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Quebrada%20Churo-%20Parque%20Nacional%20del%20Rio%20Abiseo.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_548.jpg",
+   "title": "Río Abiseo National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/548",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/548",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mayor General FAP Armando Revoredo Iglesias Airport",
+    "iata": "CJA",
+    "city": "Cajamarca",
+    "country": "PE",
+    "lat": -7.13918,
+    "lon": -78.489403,
+    "type": "medium_airport",
+    "distance_km": 152.6
+   },
+   {
+    "name": "Cadete FAP Guillermo Del Castillo Paredes Airport",
+    "iata": "TPP",
+    "city": "Tarapoto",
+    "country": "PE",
+    "lat": -6.508739948272705,
+    "lon": -76.37319946289062,
+    "type": "medium_airport",
+    "distance_km": 168.5
+   },
+   {
+    "name": "Chachapoyas Airport",
+    "iata": "CHH",
+    "city": "Chachapoyas",
+    "country": "PE",
+    "lat": -6.201911,
+    "lon": -77.856195,
+    "type": "medium_airport",
+    "distance_km": 184.7
+   }
+  ],
+  "nearest_airport_km": 152.6,
+  "distance_beijing_km": 16056.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/548"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rio%20Abiseo%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

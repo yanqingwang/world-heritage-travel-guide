@@ -1,0 +1,162 @@
+{
+ "id": "wh-695",
+ "unesco_id": "695",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 199,
+ "popularity_score": 62351,
+ "country": "DK",
+ "country_zh": "丹麦",
+ "country_en": "Denmark",
+ "countries": [
+  {
+   "iso2": "DK",
+   "zh": "丹麦",
+   "en": "Denmark"
+  }
+ ],
+ "region": "Island of Sjaelland, City of Roskilde, Sealand Region",
+ "subdivision_iso": "DK-85",
+ "subdivision_zh": "西兰大区",
+ "subdivision_en": "Region Zealand",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "罗斯基勒大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Roskilde Cathedral",
+ "name_local": "Roskilde Domkirke",
+ "local_lang": "da",
+ "local_lang_name": "Danish",
+ "slug": "695-roskilde_cathedral",
+ "lat": 55.642669444,
+ "lon": 12.080308333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座教堂建于12和13世纪，是斯堪的纳维亚第一座砖砌的哥特式大教堂，也推动了此类建筑风格在北欧的传播。自15世纪起大教堂便成为丹麦皇家陵寝。其走廊和侧面的小礼拜堂是19世纪末才增建的，因而整个教堂清晰地展现了欧洲宗教建筑的发展历程。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built in the 12th and 13th centuries, this was Scandinavia's first Gothic cathedral to be built of brick and it encouraged the spread of this style throughout northern Europe. It has been the mausoleum of the Danish royal family since the 15th century. Porches and side chapels were added up to the end of the 19th century. Thus it provides a clear overview of the development of European religious architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Roskilde Domkirke er domkirken i Roskilde. Domkirken er blandt de vigtigste kirkebygninger i Danmark og et af de vigtigste monumenter overhovedet på grund af sine enestående arkitektur og som gravkirke for Danmarks kongeslægt. Domkirken er Nordens første gotiske bygningsværk og en af de første teglstenskirker overhovedet opført omkring år 1200, men rummer i dag arkitektoniske stilarter fra en periode på 800 år. Domkirken har været kongefamiliens gravkirke gennem århundreder og rummer 40 kongegrave (37 kendte og 3 tilskrevet). Sammen med kirkens kalkmalerier og kunst fortæller Roskilde Domkirke kongernes, kirkens og Danmarks historie gennem 1000 år. Domkirken blev i 1995 optaget på UNESCOs verdensarvsliste.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roskilde%20Cathedral%20aerial%20crop.jpg?width=1280",
+   "title": "Roskilde Cathedral aerial crop.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Roskilde%20Cathedral%20aerial%20crop.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_695.jpg",
+   "title": "Roskilde Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/695",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/695",
+ "transport": {
+  "airports": [
+   {
+    "name": "Copenhagen Roskilde Airport",
+    "iata": "RKE",
+    "city": "Roskilde",
+    "country": "DK",
+    "lat": 55.585602,
+    "lon": 12.1314,
+    "type": "medium_airport",
+    "distance_km": 7.1
+   },
+   {
+    "name": "Copenhagen Kastrup Airport",
+    "iata": "CPH",
+    "city": "Copenhagen",
+    "country": "DK",
+    "lat": 55.617900848389,
+    "lon": 12.656000137329,
+    "type": "large_airport",
+    "distance_km": 36.2
+   },
+   {
+    "name": "Malmö Sturup Airport",
+    "iata": "MMX",
+    "city": "Malmö",
+    "country": "SE",
+    "lat": 55.535564,
+    "lon": 13.376327,
+    "type": "large_airport",
+    "distance_km": 82.3
+   }
+  ],
+  "nearest_airport_km": 7.1,
+  "distance_beijing_km": 7223.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DK",
+  "country_zh": "丹麦",
+  "country_en": "Denmark",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DK",
+   "country_zh": "丹麦",
+   "country_en": "Denmark",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "da",
+  "local_lang_name": "Danish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/695"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Roskilde%20Cathedral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

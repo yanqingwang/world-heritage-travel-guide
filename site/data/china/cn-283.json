@@ -1,0 +1,196 @@
+{
+ "id": "cn-283",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "四川省",
+ "province_en": "Sichuan",
+ "province_iso": "CN-SC",
+ "city_zh": "甘孜藏族自治州",
+ "city_en": "Ganzi Tibetan Autonomous Prefecture",
+ "name_zh": "甘孜州稻城亚丁旅游景区",
+ "name_en": "Yading",
+ "name_en_source": "wikipedia",
+ "slug": "ganzizhoudaochengyading-283",
+ "lat": 28.464938,
+ "lon": 100.293273,
+ "address_zh": "四川省甘孜藏族自治州稻城县香格里拉镇亚丁村",
+ "address_en": "Yading Village, Shangri-La Town, Daocheng County, Garze Tibetan Autonomous Prefecture, Sichuan Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "稻城亚丁风景区主要由\"仙乃日、央迈勇、夏诺多吉\"三座神山和周围的河流、湖泊和高山草甸组成，景致保持着在地球上近绝迹的纯粹，因其独特的地貌和原生态的自然风光，被誉为\"中国香格里拉之魂\"，被国际友人誉为\"水蓝色星球上的最后一片净土\"，是摄影爱好者的天堂。",
+ "intro_en": "Nyidên (Tibetan: ཉི་བརྟེན་, Wylie: nyi brten), or Yading (Chinese: 亚丁; pinyin: Yàdīng), is a nature reserve in Daocheng County, in the southwest of Sichuan Province, China. It is a mountain sanctuary and major Tibetan pilgrimage site comprising three peaks sanctified by the 5th Dalai Lama. The peaks are seen as emanations of the three boddhisatvas Chenrezig (Avalokiteśvara), Jampelyang (Manjushri) and Chanadorje (Vajrapani), with Jampelyang being the highest peak at 6032 meters above sea level. It is served by Daocheng Yading Airport.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Yading_Jampelyang-Yangmaiyong.jpg/1280px-Yading_Jampelyang-Yangmaiyong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yading Jampelyang-Yangmaiyong.jpg",
+   "author": "Dcpeets",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yading_Jampelyang-Yangmaiyong.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Valley_near_sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg/1280px-Valley_near_sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Valley near sacred mountain Xiannairi Yading Biosphere Reserve.jpg",
+   "author": "Toni Wöhrl",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Valley_near_sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Yading_Sacred_Mountain.jpg/1280px-Yading_Sacred_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yading Sacred Mountain.jpg",
+   "author": "Toni Wöhrl",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yading_Sacred_Mountain.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg/1280px-Sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sacred mountain Xiannairi Yading Biosphere Reserve.jpg",
+   "author": "Toni Wöhrl and Sang Cai",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sacred_mountain_Xiannairi_Yading_Biosphere_Reserve.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Yading_-_panoramio_%281%29.jpg/1280px-Yading_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yading - panoramio (1).jpg",
+   "author": "Anders Johnson",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161102151400/http://www.panoramio.com/photo/99248823",
+   "source": "https://commons.wikimedia.org/wiki/File:Yading_-_panoramio_%281%29.jpg"
+  }
+ ],
+ "web": "https://cn.yadingtour.com/",
+ "booking": "http://www.yadingtour.com/book/providerIndex.action?iscenicid=1#tabsContentS-0",
+ "transport": {
+  "airports": [
+   {
+    "name": "Diqing Shangri-La Airport",
+    "iata": "DIG",
+    "city": "Diqing (Shangri-La)",
+    "country": "CN",
+    "lat": 27.7936,
+    "lon": 99.6772,
+    "type": "medium_airport",
+    "distance_km": 96.0
+   },
+   {
+    "name": "Daocheng Yading Airport",
+    "iata": "DCY",
+    "city": "Garzê (Daocheng)",
+    "country": "CN",
+    "lat": 29.31632,
+    "lon": 100.060317,
+    "type": "medium_airport",
+    "distance_km": 97.3
+   },
+   {
+    "name": "Ninglang Luguhu Airport",
+    "iata": "NLH",
+    "city": "Ninglang",
+    "country": "CN",
+    "lat": 27.5403,
+    "lon": 100.7593,
+    "type": "medium_airport",
+    "distance_km": 112.5
+   }
+  ],
+  "nearest_airport_km": 96.0,
+  "high_speed_stations": [],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "稻城桑土琳珠酒店",
+   "name_en": "Daocheng Sangtu Linzhu Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 28.457546,
+   "lon": 100.3375078,
+   "distance_km": 4.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "蓝月山谷",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.4580067,
+   "lon": 100.3380334,
+   "distance_km": 4.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "HotelBlanche",
+   "name_en": "HotelBlanche",
+   "stars": null,
+   "brand": null,
+   "lat": 28.4576172,
+   "lon": 100.3381544,
+   "distance_km": 4.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "左岸酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.4560687,
+   "lon": 100.339363,
+   "distance_km": 4.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Star Hotel",
+   "name_en": "Star Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 28.5113601,
+   "lon": 100.193444,
+   "distance_km": 11.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 18,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/稻城亚丁"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

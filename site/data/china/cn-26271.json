@@ -1,0 +1,210 @@
+{
+ "id": "cn-26271",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山西省",
+ "province_en": "Shanxi",
+ "province_iso": "CN-SX",
+ "city_zh": "长治市",
+ "city_en": "Changzhi",
+ "name_zh": "长治市太行山大峡谷八泉峡景区",
+ "name_en": "Changzhi",
+ "name_en_source": "wikipedia",
+ "slug": "zhangzhishitaihangshandaxiagubaquanxia-26271",
+ "lat": 35.952601,
+ "lon": 113.452974,
+ "address_zh": "山西省长治市壶关县桥上乡",
+ "address_en": "Qiaoshang Township, Huguan County, Changzhi City, Shanxi Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "八泉峡是国家5A级旅游景区，被称为“太行第一雄峡”，位于山西长治壶关太行山大峡谷中段，面积24.11平方公里，最低海拔600余米，最高海拔1400余米，是峡谷内设施最全、线路最美、最具代表性的精华景区。八泉峡集江河峡谷、石灰岩地区干旱峡谷和溪流峡谷等诸般景致于一体，峡谷内气候湿润、植被丰茂、地理位置优越，有门楼景观、峡谷景观、索道景观和步道景观四大游览区域，是自然观光、生态旅游、休闲度假的理想去处。",
+ "intro_en": "Changzhi (Chinese: 长治; pinyin: Chángzhì) is a prefecture-level city in the southeast of Shanxi Province, China, bordering the provinces of Hebei and Henan to the northeast and east, respectively. Historically, the city was one of the 36 administrative areas (see Administrative Divisions of Qin Dynasty) extant under the reign of Qin Shi Huang. Changzhi is a transportation centre in Shanxi. Transportation is facilitated by four controlled-access highways (Taiyuan-Changzhi, Changzhi-Jincheng, Changzhi-Linfen, and Changzhi-Handan); two railways (Taiyuan–Jiaozuo Railway and Handan–Changzhi Railway); three national highways (China National Highway 207, 208 and 309); and Changzhi Wangcun Airport (ITAT Code: CIH, ICAO Code: ZBCZ). Internal transportation also includes a bus and taxi network. The city is a rising commercial and industrial centre in the southeastern area of Shanxi. In 2011, its GDP ranked 1st out of 11 prefecture-level cities in the province. According to the latest census, in 2020 the city was home to 3,180,884 residents whom 1,214,940 lived in the built-up (or metro) area made of Luzhou and Shangdang Districts. The other two urban districts Tunliu and Lucheng are not conur",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Changzhi_bayi_square_rostrum.jpg/1280px-Changzhi_bayi_square_rostrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Changzhi bayi square rostrum.jpg",
+   "author": "1969社论",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_bayi_square_rostrum.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CCP_Changzhi_committee_%26_Changzhi_Gov.jpg/1280px-CCP_Changzhi_committee_%26_Changzhi_Gov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "CCP Changzhi committee & Changzhi Gov.jpg",
+   "author": "1969社论",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:CCP_Changzhi_committee_%26_Changzhi_Gov.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Changzhi_Museum.jpg/1280px-Changzhi_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Changzhi Museum.jpg",
+   "author": "1969社论",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_Museum.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Changzhi_guanyintang.JPG/1280px-Changzhi_guanyintang.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Changzhi guanyintang.JPG",
+   "author": "Halazhang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_guanyintang.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Changzhi_stadium.jpg/1280px-Changzhi_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Changzhi stadium.jpg",
+   "author": "1969社论",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_stadium.jpg"
+  }
+ ],
+ "web": "http://www.thsbqx.com/",
+ "booking": "http://www.thsbqx.com/index.php?c=category&id=29",
+ "transport": {
+  "airports": [
+   {
+    "name": "Changzhi Wangcun Airport",
+    "iata": "CIH",
+    "city": "Changzhi",
+    "country": "CN",
+    "lat": 36.247501,
+    "lon": 113.125999,
+    "type": "small_airport",
+    "distance_km": 44.0
+   },
+   {
+    "name": "Anyang Hongqiqu Airport",
+    "iata": "HQQ",
+    "city": "Anyang",
+    "country": "CN",
+    "lat": 35.870833,
+    "lon": 114.461944,
+    "type": "small_airport",
+    "distance_km": 91.3
+   },
+   {
+    "name": "Handan Airport",
+    "iata": "HDG",
+    "city": "Handan",
+    "country": "CN",
+    "lat": 36.524824,
+    "lon": 114.424126,
+    "type": "medium_airport",
+    "distance_km": 107.9
+   }
+  ],
+  "nearest_airport_km": 44.0,
+  "high_speed_stations": [
+   {
+    "name": "长治南",
+    "name_en": null,
+    "lat": 36.0926232,
+    "lon": 113.1005399,
+    "distance_km": 35.3,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "长治东",
+    "name_en": null,
+    "lat": 36.2290739,
+    "lon": 113.159081,
+    "distance_km": 40.5,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "新城",
+    "name_en": null,
+    "lat": 36.0219139,
+    "lon": 113.4845791,
+    "distance_km": 8.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "庄头",
+    "name_en": null,
+    "lat": 36.1227259,
+    "lon": 113.2664901,
+    "distance_km": 25.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "集店",
+    "name_en": null,
+    "lat": 36.1541589,
+    "lon": 113.2036869,
+    "distance_km": 31.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "兰枫航空小镇",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.9561222,
+   "lon": 113.4209828,
+   "distance_km": 2.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万仙山天梯宾馆",
+   "name_en": "Wanxianshan Tianti Guesthouse",
+   "stars": null,
+   "brand": null,
+   "lat": 35.7305004,
+   "lon": 113.619845,
+   "distance_km": 28.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/长治市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

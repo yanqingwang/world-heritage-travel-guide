@@ -1,0 +1,162 @@
+{
+ "id": "wh-333",
+ "unesco_id": "333",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 582,
+ "popularity_score": 10252,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "Department Ancash, Provincia: recuay, Carhuas, Huaráz, Yungay, Pomabamba, Mariscal Luzuriaga, Huari, Corongo, Sihuas y Bolognesi",
+ "subdivision_iso": "PE-ANC",
+ "subdivision_zh": "安卡什大区",
+ "subdivision_en": "Áncash Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦斯卡兰国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Huascarán National Park",
+ "name_local": "Parque Nacional de Huascarán",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "333-huascarán_national_park",
+ "lat": -9.4,
+ "lon": -77.4,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "海拔6768 米的瓦斯卡兰山地处布兰卡山脉世界上最高的热带山脉之中。在那里，湍急的河流和冰河造成的幽谷以及种类繁多的植被使得这个地方美丽异常，并且成为眼镜熊和安第斯秃鹫的家。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in the Cordillera Blanca, the world's highest tropical mountain range, Mount Huascarán rises to 6,768 m above sea-level. The deep ravines watered by numerous torrents, the glacial lakes and the variety of the vegetation make it a site of spectacular beauty. It is the home of such species as the spectacled bear and the Andean condor.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En la Cordillera Blanca, la cadena montañosa tropical más alta del mundo, se alza a 6.768 metros sobre el nivel del mar el monte Huascarán, que da su nombre a este parque. Sus profundas quebradas surcadas por numerosos torrentes, sus lagos glaciares y su vegetación variada forman un conjunto de belleza espectacular. Este sitio alberga especies animales como el oso de anteojos y el cóndor andino.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Llanganuco%20ancash.jpg?width=1280",
+   "title": "Llanganuco ancash.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Llanganuco%20ancash.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_333.jpg",
+   "title": "Huascarán National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/333",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/333",
+ "transport": {
+  "airports": [
+   {
+    "name": "FAP Lieutenant Jaime Andres de Montreuil Morales Airport",
+    "iata": "CHM",
+    "city": "Chimbote",
+    "country": "PE",
+    "lat": -9.14961,
+    "lon": -78.523804,
+    "type": "medium_airport",
+    "distance_km": 126.4
+   },
+   {
+    "name": "Alferez Fap David Figueroa Fernandini Airport",
+    "iata": "HUU",
+    "city": "Huánuco",
+    "country": "PE",
+    "lat": -9.878809928894043,
+    "lon": -76.20480346679688,
+    "type": "medium_airport",
+    "distance_km": 141.4
+   },
+   {
+    "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
+    "iata": "TRU",
+    "city": "Trujillo",
+    "country": "PE",
+    "lat": -8.082382,
+    "lon": -79.108821,
+    "type": "large_airport",
+    "distance_km": 238.2
+   }
+  ],
+  "nearest_airport_km": 126.4,
+  "distance_beijing_km": 16264.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/333"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Huascar%C3%A1n%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

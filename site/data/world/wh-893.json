@@ -1,0 +1,162 @@
+{
+ "id": "wh-893",
+ "unesco_id": "893",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 855,
+ "popularity_score": 1034,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "Atlantic coast, states of Parana and Sao Paolo",
+ "subdivision_iso": "BR-PR",
+ "subdivision_zh": "巴拉那州",
+ "subdivision_en": "Paraná",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "大西洋东南热带雨林保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Atlantic Forest South-East Reserves",
+ "name_local": "Reservas de Mata Atlântica do Sudeste",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "893-atlantic_forest_south-east_reserves",
+ "lat": -24.166666666,
+ "lon": -48.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "大西洋东南热带雨林保护区位于巴拉那州(Paraná)和圣保罗州(São Paulo)，有着巴西国内最好和最广泛的大西洋热带雨林品种。组成了该遗产的25处保护区（总面积470 000公顷），展示了保留下来的大西洋雨林的生物多样性和进化史。整个保护区内既有树木茂密的高山，也有湿地和沿海岛屿，岛屿上还有被海隔开的山峦和沙丘，这里风景如画，自然资源丰富。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Atlantic Forest South-East Reserves, in the states of Paraná and São Paulo, contain some of the best and most extensive examples of Atlantic forest in Brazil. The 25 protected areas that make up the site (some 470,000 ha in total) display the biological wealth and evolutionary history of the last remaining Atlantic forests. From mountains covered by dense forests, down to wetlands, coastal islands with isolated mountains and dunes, the area comprises a rich natural environment of great scenic beauty.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "As Reservas de Mata Atlântica do Sudeste constituem uma área natural protegida, localizada entre os estados de São Paulo e Paraná. Juntas, formam um dos vinte bens constantes da Lista do Patrimônio Mundial no Brasil.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PN%20de%20Superagui%20GJK%271.jpg?width=1280",
+   "title": "PN de Superagui GJK'1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:PN%20de%20Superagui%20GJK%271.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_893.jpg",
+   "title": "Atlantic Forest South-East Reserves",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/893",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/893",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sorocaba Airport",
+    "iata": "SOD",
+    "city": "Sorocaba",
+    "country": "BR",
+    "lat": -23.478001,
+    "lon": -47.490002,
+    "type": "small_airport",
+    "distance_km": 92.5
+   },
+   {
+    "name": "Congonhas–Deputado Freitas Nobre Airport",
+    "iata": "CGH",
+    "city": "São Paulo",
+    "country": "BR",
+    "lat": -23.627657,
+    "lon": -46.654601,
+    "type": "large_airport",
+    "distance_km": 149.3
+   },
+   {
+    "name": "Viracopos International Airport",
+    "iata": "VCP",
+    "city": "Campinas",
+    "country": "BR",
+    "lat": -23.007404,
+    "lon": -47.134502,
+    "type": "large_airport",
+    "distance_km": 156.2
+   }
+  ],
+  "nearest_airport_km": 92.5,
+  "distance_beijing_km": 17641.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 11
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/893"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

@@ -1,0 +1,158 @@
+{
+ "id": "cn-316",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "博尔塔拉蒙古自治州",
+ "city_en": "Bortala Mongol Autonomous Prefecture",
+ "name_zh": "博尔塔拉蒙古自治州赛里木湖景区",
+ "name_en": "Boertalamengguzizhizhousailimuhu Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "boertalamengguzizhizhousailimuhu-316",
+ "lat": 44.612755,
+ "lon": 81.401139,
+ "address_zh": "新疆维吾尔族自治区博尔塔拉蒙古自治州博乐市",
+ "address_en": "Bole City, Bortala Mongolian Autonomous Prefecture, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "赛里木湖景区是新疆海拔最高、面积最大的高山湖泊，以湖泊、湿地、草原、森林、雪山等自然生态景观为特色。景区共划分为环湖风光游览区域、草原游牧风情区域、生态景观保育区、天鹅及其他珍稀鸟类栖息地保护区、旅游综合服务区、原生态环境保持区6个游览片区，有“西来之意境，世外之灵壤”的美誉。",
+ "intro_en": "Sailimu Lake Scenic Area is the highest mountain lake in Xinjiang with the highest altitude and largest area. It is characterized by natural ecological landscapes such as lakes, wetlands, grasslands, forests, and snow-capped mountains. The scenic spot is divided into six tourist areas: the lake-circuit scenic area, the grassland nomadic style area, the ecological landscape conservation area, the swan and other rare bird habitat protection area, the comprehensive tourism service area, and the original ecological environment preservation area. It has the reputation of \"the artistic conception from the West, the spiritual soil of the world\".",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Xinjiang_DSC_9301_%285303314254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Xinjiang DSC 9301 (5303314254).jpg",
+   "author": "lwtt93 from Shanghai, China",
+   "license": "CC BY 2.0",
+   "credit": "DSC_9301",
+   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang_DSC_9301_(5303314254).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lighthouse_on_the_shore_of_Sayram_Lake.jpg/1280px-Lighthouse_on_the_shore_of_Sayram_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lighthouse on the shore of Sayram Lake.jpg",
+   "author": "Fumikas Sagisavas",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lighthouse_on_the_shore_of_Sayram_Lake.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sayram_Lake_on_north_bank.jpg/1280px-Sayram_Lake_on_north_bank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sayram Lake on north bank.jpg",
+   "author": "Y Chen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sayram_Lake_on_north_bank.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sayram_Lake_scenery.jpg/1280px-Sayram_Lake_scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sayram Lake scenery.jpg",
+   "author": "Fumikas Sagisavas",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sayram_Lake_scenery.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sunset_upon_the_Lake_Sayram.png/1280px-Sunset_upon_the_Lake_Sayram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sunset upon the Lake Sayram.png",
+   "author": "Y Chen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_upon_the_Lake_Sayram.png"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ili Yining International Airport",
+    "iata": "YIN",
+    "city": "Ili (Yining / Ghulja)",
+    "country": "CN",
+    "lat": 43.955799,
+    "lon": 81.330299,
+    "type": "medium_airport",
+    "distance_km": 73.3
+   },
+   {
+    "name": "Bole Alashankou Airport",
+    "iata": "BPL",
+    "city": "Bole",
+    "country": "CN",
+    "lat": 44.895461,
+    "lon": 82.30007,
+    "type": "medium_airport",
+    "distance_km": 77.6
+   },
+   {
+    "name": "Zhaosu Tianma Airport",
+    "iata": "ZFL",
+    "city": "Zhaosu",
+    "country": "CN",
+    "lat": 43.088477,
+    "lon": 81.223013,
+    "type": "small_airport",
+    "distance_km": 170.1
+   }
+  ],
+  "nearest_airport_km": 73.3,
+  "high_speed_stations": [],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "赛里木湖水云杉度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 44.6201784,
+   "lon": 81.4062861,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "欣驿自驾车营地",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 44.4862539,
+   "lon": 81.1555664,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

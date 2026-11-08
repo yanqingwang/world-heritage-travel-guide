@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)(iv)"
 lat: 48.115
 lon: 16.861
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:50Z"
 ---
 
 # 罗马帝国边界——多瑙河界墙（西段） / Frontiers of the Roman Empire – The Danube Limes (Western Segment)

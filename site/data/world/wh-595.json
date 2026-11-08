@@ -1,0 +1,162 @@
+{
+ "id": "wh-595",
+ "unesco_id": "595",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1113,
+ "popularity_score": null,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Prefecture of Samos, Region of the North Aegean",
+ "subdivision_iso": "GR-K",
+ "subdivision_zh": "北爱琴大区",
+ "subdivision_en": "North Aegean Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨莫斯岛的毕达哥利翁及赫拉神殿",
+ "name_zh_source": "unesco_official",
+ "name_en": "Pythagoreion and Heraion of Samos",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "595-pythagoreion_and_heraion_of_samos",
+ "lat": 37.672043,
+ "lon": 26.886635,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元前3000年，这个靠近小亚细亚的爱琴海小岛上就有了文明。毕达哥利翁是一个古老的要塞，有着希腊和罗马建筑以及壮观的隧道和高架渠。赫拉神殿则是萨摩斯人赫拉的神庙。它们的遗址至今可见。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Many civilizations have inhabited this small Aegean island, near Asia Minor, since the 3rd millennium B.C. The remains of Pythagoreion, an ancient fortified port with Greek and Roman monuments and a spectacular tunnel-aqueduct, as well as the Heraion, temple of the Samian Hera, can still be seen.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Heraion%20of%20Samos%20%28Greece%29%2C%20the%20only%20standing%20column.jpg?width=1280",
+   "title": "Heraion of Samos (Greece), the only standing column.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Heraion%20of%20Samos%20%28Greece%29%2C%20the%20only%20standing%20column.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_595.jpg",
+   "title": "Pythagoreion and Heraion of Samos",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/595",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/595",
+ "transport": {
+  "airports": [
+   {
+    "name": "Samos Airport",
+    "iata": "SMI",
+    "city": "Samos Island",
+    "country": "GR",
+    "lat": 37.689999,
+    "lon": 26.911699,
+    "type": "medium_airport",
+    "distance_km": 3.0
+   },
+   {
+    "name": "Ikaria Airport",
+    "iata": "JIK",
+    "city": "Ikaria Island",
+    "country": "GR",
+    "lat": 37.6827011108,
+    "lon": 26.3470993042,
+    "type": "small_airport",
+    "distance_km": 47.5
+   },
+   {
+    "name": "Leros Airport",
+    "iata": "LRS",
+    "city": "Leros Island",
+    "country": "GR",
+    "lat": 37.184898,
+    "lon": 26.800301,
+    "type": "small_airport",
+    "distance_km": 54.7
+   }
+  ],
+  "nearest_airport_km": 3.0,
+  "distance_beijing_km": 7405.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/595"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-168",
+ "unesco_id": "168",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 192,
+ "popularity_score": 65832,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of Rhineland-Palatinate (Rheinland-Pfalz)",
+ "subdivision_iso": "DE-RP",
+ "subdivision_zh": "莱茵兰-普法尔茨州",
+ "subdivision_en": "Rhineland-Palatinate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "施佩耶尔大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Speyer Cathedral",
+ "name_local": "Speyerer Dom",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "168-speyer_cathedral",
+ "lat": 49.317222,
+ "lon": 8.4425,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "施佩耶尔大教堂最初是由康拉德二世(Conrad II)于1030年组织修建的，后于11世纪末进行了一次重修。大教堂的主要部分包括长方形教堂、四个角塔和两个拱形顶。这是神圣罗马帝国时代最著名的罗马式建筑之一。在近300年的历史中，德国皇帝都安葬在这里。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Speyer Cathedral, a basilica with four towers and two domes, was founded by Conrad II in 1030 and remodelled at the end of the 11th century. It is one of the most important Romanesque monuments from the time of the Holy Roman Empire. The cathedral was the burial place of the German emperors for almost 300 years.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Der Speyerer Dom, offiziell die Domkirche St. Maria und St. Stephan zu Speyer, ist die Kathedralkirche der römisch-katholischen Diözese Speyer und Pfarrkirche der Dompfarrei in der rheinland-pfälzischen Stadt Speyer. Er zählt zu den drei romanischen Kaiserdomen in Deutschland und wurde im Jahr 1061 geweiht, 1106 war ein größerer Umbau fertiggestellt. Seit der teilweisen Zerstörung der Abtei Cluny während der Herrschaft Napoleons ist er die größte erhaltene romanische Kirche der Welt. Er wurde 1925 von Papst Pius XI. zur Basilica minor erhoben. Seit 1981 steht er auf der UNESCO-Liste des Weltkulturerbes, außerdem ist er ein geschütztes Kulturgut nach der Haager Konvention.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20the%20Speyer%20Cathedral%20%28view%20from%20the%20southwest%29%20%28cropped%29.jpg?width=1280",
+   "title": "Aerial image of the Speyer Cathedral (view from the southwest) (cropped).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial%20image%20of%20the%20Speyer%20Cathedral%20%28view%20from%20the%20southwest%29%20%28cropped%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_168.jpg",
+   "title": "Speyer Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/168",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/168",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mannheim-City Airport",
+    "iata": "MHG",
+    "city": "Mannheim",
+    "country": "DE",
+    "lat": 49.473057,
+    "lon": 8.514167,
+    "type": "medium_airport",
+    "distance_km": 18.1
+   },
+   {
+    "name": "Karlsruhe Baden-Baden Airport",
+    "iata": "FKB",
+    "city": "Rheinmünster",
+    "country": "DE",
+    "lat": 48.7794,
+    "lon": 8.0805,
+    "type": "large_airport",
+    "distance_km": 65.4
+   },
+   {
+    "name": "Frankfurt Main Airport",
+    "iata": "FRA",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "lat": 50.026706,
+    "lon": 8.55835,
+    "type": "large_airport",
+    "distance_km": 79.3
+   }
+  ],
+  "nearest_airport_km": 18.1,
+  "distance_beijing_km": 7830.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 56
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/168"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Speyer%20Cathedral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

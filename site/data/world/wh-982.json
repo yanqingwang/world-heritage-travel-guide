@@ -1,0 +1,162 @@
+{
+ "id": "wh-982",
+ "unesco_id": "982",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 658,
+ "popularity_score": 7080,
+ "country": "RU",
+ "country_zh": "俄罗斯",
+ "country_en": "Russia",
+ "countries": [
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "Vologda region",
+ "subdivision_iso": "RU-VLG",
+ "subdivision_zh": "",
+ "subdivision_en": "Vologda Oblast",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "费拉邦多夫修道院遗址群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ensemble of the Ferapontov Monastery",
+ "name_local": "Ансамбль Ферапонтова монастыря",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "982-ensemble_of_the_ferapontov_monastery",
+ "lat": 59.956388888,
+ "lon": 38.5675,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于俄罗斯北部沃洛哥达地区的费拉邦多夫修道院是15世纪至17世纪俄东正教修道院建筑中得以保存最为完好的遗址群。而这一时期又是统一俄罗斯及其文化发展十分重要的阶段。修道院建筑的创新和纯洁性最为突出。建筑内部因绘有15世纪末俄最伟大画家笛欧尼兹的作品而显得格外雅致。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Ferapontov Monastery, in the Vologda region in northern Russia, is an exceptionally well-preserved and complete example of a Russian Orthodox monastic complex of the 15th-17th centuries, a period of great significance in the development of the unified Russian state and its culture. The architecture of the monastery is outstanding in its inventiveness and purity. The interior is graced by the magnificent wall paintings of Dionisy, the greatest Russian artist of the end of the 15th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ферапонтов монастырь располагается в Вологодской области, на севере Европейской части России. Это исключительно хорошо сохранившийся православный монастырский комплекс XV-XVII вв., т.е. периода, имевшего огромное значение для формирования централизованного российского государства и развития его культуры. Архитектура монастыря своеобразна и целостна. В интерьере храма Рождества Богородицы сохранились великолепные настенные фрески Дионисия – величайшего русского художника конца XV в.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferapontovo%20drone%20cut.jpg?width=1280",
+   "title": "Ferapontovo drone cut.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferapontovo%20drone%20cut.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_982.jpg",
+   "title": "Ensemble of the Ferapontov Monastery",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/982",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/982",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cherepovets Airport",
+    "iata": "CEE",
+    "city": "Cherepovets",
+    "country": "RU",
+    "lat": 59.273601532,
+    "lon": 38.015800476100004,
+    "type": "medium_airport",
+    "distance_km": 82.0
+   },
+   {
+    "name": "Kostroma Sokerkino Airport",
+    "iata": "KMW",
+    "city": "Kostroma",
+    "country": "RU",
+    "lat": 57.796902,
+    "lon": 41.019402,
+    "type": "medium_airport",
+    "distance_km": 278.4
+   },
+   {
+    "name": "Golden Ring Yaroslavl International Airport",
+    "iata": "IAR",
+    "city": "Tunoshna",
+    "country": "RU",
+    "lat": 57.560699,
+    "lon": 40.157398,
+    "type": "large_airport",
+    "distance_km": 281.7
+   }
+  ],
+  "nearest_airport_km": 82.0,
+  "distance_beijing_km": 5657.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RU",
+  "country_zh": "俄罗斯",
+  "country_en": "Russia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required",
+  "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/982"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ferapontov%20Monastery"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

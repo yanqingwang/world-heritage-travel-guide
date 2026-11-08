@@ -1,0 +1,162 @@
+{
+ "id": "wh-303",
+ "unesco_id": "303",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1063,
+ "popularity_score": null,
+ "country": "AR",
+ "country_zh": "阿根廷",
+ "country_en": "Argentina",
+ "countries": [
+  {
+   "iso2": "AR",
+   "zh": "阿根廷",
+   "en": "Argentina"
+  }
+ ],
+ "region": "Province: Misiones - Region: Nord-Est",
+ "subdivision_iso": "AR-N",
+ "subdivision_zh": "米西奥内斯省",
+ "subdivision_en": "Misiones Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伊瓜苏国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Iguazu National Park",
+ "name_local": "Parque nacional del Iguazú",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "303-iguazu_national_park",
+ "lat": -25.666666666,
+ "lon": -54.4,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该公园中心是一个半圆形瀑布群，高约80米，直径达2700米，处于玄武岩地带，横跨阿根廷与巴西两国边界。瀑布群由许多小瀑布组成，产生了大量水雾，是世界上最壮观的瀑布之一。瀑布周围生长着2000多种维管植物的亚热带雨林，是南美洲有代表性的野生动物貘、大水獭、吼猴、虎猫、美洲虎和大鳄鱼的快乐家园。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The semicircular waterfall at the heart of this site is some 80 m high and 2,700 m in diameter and is situated on a basaltic line spanning the border between Argentina and Brazil. Made up of many cascades producing vast sprays of water, it is one of the most spectacular waterfalls in the world. The surrounding subtropical rainforest has over 2,000 species of vascular plants and is home to the typical wildlife of the region: tapirs, giant anteaters, howler monkeys, ocelots, jaguars and caymans.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En el corazón de este parque se halla la catarata del Iguazú. Formada por un farallón basáltico semicircular de 80 metros de altura y 2.700 metros de anchura, la catarata forma la frontera entre Argentina y Brasil y es una de las más espectaculares del mundo. Dividida en múltiples cascadas de las que emanan enormes brumas. La selva húmeda subtropical circundante alberga más de 2.000 especies de plantas vasculares y la fauna característica de la región: tapires, osos hormigueros gigantes, monos aulladores, ocelotes, jaguares y caimanes.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/43%20-%20Iguazu%20-%20D%C3%A9cembre%202007.jpg?width=1280",
+   "title": "43 - Iguazu - Décembre 2007.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:43%20-%20Iguazu%20-%20D%C3%A9cembre%202007.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_303.jpg",
+   "title": "Iguazu National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/303",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/303",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cataratas Del Iguazú International Airport",
+    "iata": "IGR",
+    "city": "Puerto Iguazu",
+    "country": "AR",
+    "lat": -25.737301,
+    "lon": -54.4734,
+    "type": "medium_airport",
+    "distance_km": 10.8
+   },
+   {
+    "name": "Cataratas International Airport",
+    "iata": "IGU",
+    "city": "Foz do Iguaçu",
+    "country": "BR",
+    "lat": -25.594167,
+    "lon": -54.489444,
+    "type": "large_airport",
+    "distance_km": 12.1
+   },
+   {
+    "name": "Guaraní International Airport",
+    "iata": "AGT",
+    "city": "Ciudad del Este",
+    "country": "PY",
+    "lat": -25.4555,
+    "lon": -54.843601,
+    "type": "large_airport",
+    "distance_km": 50.3
+   }
+  ],
+  "nearest_airport_km": 10.8,
+  "distance_beijing_km": 18217.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AR",
+  "country_zh": "阿根廷",
+  "country_en": "Argentina",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AR",
+   "country_zh": "阿根廷",
+   "country_en": "Argentina",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/303"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

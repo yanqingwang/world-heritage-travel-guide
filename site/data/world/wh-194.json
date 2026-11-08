@@ -1,0 +1,162 @@
+{
+ "id": "wh-194",
+ "unesco_id": "194",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 195,
+ "popularity_score": 64609,
+ "country": "DZ",
+ "country_zh": "阿尔及利亚",
+ "country_en": "Algeria",
+ "countries": [
+  {
+   "iso2": "DZ",
+   "zh": "阿尔及利亚",
+   "en": "Algeria"
+  }
+ ],
+ "region": "Commune of Timgad, Wilaya (province) of Batna",
+ "subdivision_iso": "DZ-05",
+ "subdivision_zh": "巴特纳省",
+ "subdivision_en": "Batna Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "提姆加德",
+ "name_zh_source": "unesco_official",
+ "name_en": "Timgad",
+ "name_local": "تيمجاد",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "194-timgad",
+ "lat": 35.484237,
+ "lon": 6.468666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "蒂姆加德位于奥雷斯山（the Aurès mountains）北麓，是公元100年古罗马皇帝图拉真（the Emperor Trajan）建立的军事殖民地。城市是方形垂直布局，以纵横两轴为基础，两条相互垂直的大街穿越整个城市，是古罗马城市规划的杰出代表。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Timgad lies on the northern slopes of the Aurès mountains and was created ex nihilo as a military colony by the Emperor Trajan in AD 100. With its square enclosure and orthogonal design based on the cardo and decumanus , the two perpendicular routes running through the city, it is an excellent example of Roman town planning.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "على المنحدر الشمالي من جبال أوراس، نشأت تيمجاد من لا شيء عام 100 بعد الميلاد على يد الأمبراطور تراجان كمستوطنة عسكرية. وتشكّل المدينة - بفنائها المربع وتصميمها القائم على الأعمدة الذي يشرف عليها الكاردو والديكومانوس وهما الطريقان الرئيسيان اللذان يعبران المدينة- مثالاً مكتملاً للتنظيم المديني الروماني.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Timgad%20Ruins%20Panorama.jpg?width=1280",
+   "title": "Timgad Ruins Panorama.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Timgad%20Ruins%20Panorama.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_194.jpg",
+   "title": "Timgad",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/194",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/194",
+ "transport": {
+  "airports": [
+   {
+    "name": "Batna Mostefa Ben Boulaid Airport",
+    "iata": "BLJ",
+    "city": "Batna",
+    "country": "DZ",
+    "lat": 35.752102,
+    "lon": 6.30859,
+    "type": "large_airport",
+    "distance_km": 33.1
+   },
+   {
+    "name": "Mohamed Boudiaf International Airport",
+    "iata": "CZL",
+    "city": "Constantine",
+    "country": "DZ",
+    "lat": 36.276001,
+    "lon": 6.62039,
+    "type": "large_airport",
+    "distance_km": 89.1
+   },
+   {
+    "name": "Biskra - Mohamed Khider Airport",
+    "iata": "BSK",
+    "city": "Biskra",
+    "country": "DZ",
+    "lat": 34.79318,
+    "lon": 5.738899,
+    "type": "large_airport",
+    "distance_km": 101.5
+   }
+  ],
+  "nearest_airport_km": 33.1,
+  "distance_beijing_km": 8977.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DZ",
+  "country_zh": "阿尔及利亚",
+  "country_en": "Algeria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DZ",
+   "country_zh": "阿尔及利亚",
+   "country_en": "Algeria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 57
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/194"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Timgad"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

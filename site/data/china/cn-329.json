@@ -1,0 +1,191 @@
+{
+ "id": "cn-329",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "安徽省",
+ "province_en": "Anhui",
+ "province_iso": "CN-AH",
+ "city_zh": "安庆市",
+ "city_en": "Anqing",
+ "name_zh": "安庆市天柱山风景区",
+ "name_en": "Mount Tianzhu",
+ "name_en_source": "wikipedia",
+ "slug": "anqingshitianzhushan-329",
+ "lat": 30.727278,
+ "lon": 116.466126,
+ "address_zh": "安徽省安庆市潜山市天柱山路112号",
+ "address_en": "No. 112, Tianzhushan Road, Qianshan City, Anqing City, Anhui Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "天柱山，因主峰高耸挺立，如擎天一柱而得名，与黄山、九华山并称安徽省三大名山，是一处以花岗岩峰丛地貌为主的山岳型景区。景区内植被繁茂，森林覆盖率高达97%。天柱山以其雄奇灵秀的山水、令人赞叹的文化、争奇斗艳的花卉和四季宜人的气候，构成了独特的自身价值，成为了旅游观光的胜地。",
+ "intro_en": "Tianzhu Mountain or Mount Tianzhu (Chinese: 天柱山; pinyin: Tiānzhù Shān; lit. 'Heaven pillar mount') is a mountain in Anhui, China. Tianzhu Mountain is also called Mount Wan (Chinese: 皖山; pinyin: Wǎn Shān), from which the provincial abbreviation for Anhui (Wan) derives. Ancient names of the mountain include Mount Huo (霍山), Mount Heng (衡山) (not to be confused with Mount Heng in Hunan Province), and Taiyue (太岳). The mountain is located in Qianshan County, Anqing. Tianzhu Mountain has 45 peaks over 1000 meters above sea level. Its highest point has an elevation of 1,760 meters (5,774 ft). There are two paths to reach the top, from the east and from the west; the western path is the easier one.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tianzhu_Peak_%2820170116142019%29.jpg/1280px-Tianzhu_Peak_%2820170116142019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianzhu Peak (20170116142019).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianzhu_Peak_%2820170116142019%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/General_Fortress_in_Tianzhu_Mountain_%2820170116150627%29.jpg/1280px-General_Fortress_in_Tianzhu_Mountain_%2820170116150627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "General Fortress in Tianzhu Mountain (20170116150627).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Fortress_in_Tianzhu_Mountain_%2820170116150627%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/General_Fortress_in_Tianzhu_Mountain_%2820170116150759%29.jpg/1280px-General_Fortress_in_Tianzhu_Mountain_%2820170116150759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "General Fortress in Tianzhu Mountain (20170116150759).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Fortress_in_Tianzhu_Mountain_%2820170116150759%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hundred-step_ladder_in_Tianzhu_Mountain_%2820170116150202%29.jpg/1280px-Hundred-step_ladder_in_Tianzhu_Mountain_%2820170116150202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hundred-step ladder in Tianzhu Mountain (20170116150202).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hundred-step_ladder_in_Tianzhu_Mountain_%2820170116150202%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Steep_descent_in_Tianzhu_Mountain_%2820170116145746%29.jpg/1280px-Steep_descent_in_Tianzhu_Mountain_%2820170116145746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Steep descent in Tianzhu Mountain (20170116145746).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Steep_descent_in_Tianzhu_Mountain_%2820170116145746%29.jpg"
+  }
+ ],
+ "web": "http://www.tzs.com.cn/site-ah-tzs",
+ "booking": "http://www.tzs.com.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
+    "iata": "AQG",
+    "city": "Anqing",
+    "country": "CN",
+    "lat": 30.582199,
+    "lon": 117.050003,
+    "type": "medium_airport",
+    "distance_km": 58.1
+   },
+   {
+    "name": "Chizhou Jiuhuashan Airport",
+    "iata": "JUH",
+    "city": "Chizhou",
+    "country": "CN",
+    "lat": 30.7403,
+    "lon": 117.6856,
+    "type": "small_airport",
+    "distance_km": 116.6
+   },
+   {
+    "name": "Ezhou Huahu International Airport",
+    "iata": "EHU",
+    "city": "Ezhou",
+    "country": "CN",
+    "lat": 30.341178,
+    "lon": 115.03926,
+    "type": "large_airport",
+    "distance_km": 143.2
+   }
+  ],
+  "nearest_airport_km": 58.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "天柱山",
+    "name_en": null,
+    "lat": 30.6580684,
+    "lon": 116.5553257,
+    "distance_km": 11.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "瓜形",
+    "name_en": null,
+    "lat": 30.7010005,
+    "lon": 116.6842694,
+    "distance_km": 21.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "潜山",
+    "name_en": "Qianshan",
+    "lat": 30.5763052,
+    "lon": 116.6120547,
+    "distance_km": 21.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "岳西县天际大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.8493929,
+   "lon": 116.3669558,
+   "distance_km": 16.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "慧可居精品酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.8800706,
+   "lon": 116.343462,
+   "distance_km": 20.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天柱山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

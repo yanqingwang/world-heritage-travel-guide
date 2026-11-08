@@ -1,0 +1,242 @@
+{
+ "id": "wh-192",
+ "unesco_id": "192",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 143,
+ "popularity_score": 96229,
+ "country": "YE",
+ "country_zh": "也门",
+ "country_en": "Yemen",
+ "countries": [
+  {
+   "iso2": "YE",
+   "zh": "也门",
+   "en": "Yemen"
+  }
+ ],
+ "region": "Hadramaut Governorate, in the Wadi Hadramaut, Seiyun District",
+ "subdivision_iso": "YE-HD",
+ "subdivision_zh": "哈德拉毛省",
+ "subdivision_en": "Hadhramaut Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "城墙环绕的希巴姆古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Walled City of Shibam",
+ "name_local": "مدينة شبام القديمة وسورها",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "192-old_walled_city_of_shibam",
+ "lat": 15.926944444,
+ "lon": 48.626666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1982",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "建于16世纪的希巴姆古城堡被军事防御墙所环绕，是基于垂直建筑规则建造的最古老、最杰出的城市规划典范之一。古城建在悬崖峭壁之上，其塔状建筑令人印象深刻，城市由此得名“沙漠中的曼哈顿”。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Surrounded by a fortified wall, the 16th-century city of Shibam is one of the oldest and best examples of urban planning based on the principle of vertical construction. Its impressive tower-like structures rise out of the cliff and have given the city the nickname of ‘the Manhattan of the desert’.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تشكل هذه المدينة المسوّرة التي ترقى الى القرن السادس عشر أحد أقدم النماذج وافضلها للتنظيم المدني الدقيق المرتكز على مبدأ البناء المرتفع. وتعود تسميتها \"بمانهاتن الصحراء\" الى مبانيها البرجية الشاهقة المنبثقة من الصخور.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AF%D9%8A%D9%86%D8%A9%20%D8%B4%D8%A8%D8%A7%D9%85%20%D8%AD%D8%B6%D8%B1%D9%85%D9%88%D8%AA.jpg?width=1280",
+   "title": "مدينة شبام حضرموت.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AF%D9%8A%D9%86%D8%A9%20%D8%B4%D8%A8%D8%A7%D9%85%20%D8%AD%D8%B6%D8%B1%D9%85%D9%88%D8%AA.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/146_%C5%A0ibam.jpg/1280px-146_%C5%A0ibam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "146 Šibam.jpg",
+   "author": "Ljuba brank at Slovenian Wikipedia",
+   "license": "GFDL",
+   "credit": "Transferred from sl.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:146_%C5%A0ibam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/149_%C5%A0ibam.jpg/1280px-149_%C5%A0ibam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "149 Šibam.jpg",
+   "author": "Ljuba brank at Slovenian Wikipedia",
+   "license": "GFDL",
+   "credit": "Transferred from sl.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:149_%C5%A0ibam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/15_%C5%A0ibam_%281%29.jpg/1280px-15_%C5%A0ibam_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "15 Šibam (1).jpg",
+   "author": "Ljuba brank",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:15_%C5%A0ibam_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/15_%C5%A0ibam_%2810%29.jpg/1280px-15_%C5%A0ibam_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "15 Šibam (10).jpg",
+   "author": "Ljuba brank",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:15_%C5%A0ibam_%2810%29.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/192",
+ "transport": {
+  "airports": [
+   {
+    "name": "Seiyun Hadhramaut International Airport",
+    "iata": "GXF",
+    "city": "Seiyun",
+    "country": "YE",
+    "lat": 15.965887,
+    "lon": 48.788146,
+    "type": "large_airport",
+    "distance_km": 17.8
+   },
+   {
+    "name": "Riyan International Airport",
+    "iata": "RIY",
+    "city": "Mukalla(Riyan)",
+    "country": "YE",
+    "lat": 14.662241,
+    "lon": 49.375289,
+    "type": "large_airport",
+    "distance_km": 161.9
+   },
+   {
+    "name": "Sharurah Domestic Airport",
+    "iata": "SHW",
+    "city": "Sharurah",
+    "country": "SA",
+    "lat": 17.4669,
+    "lon": 47.121399,
+    "type": "medium_airport",
+    "distance_km": 234.6
+   }
+  ],
+  "nearest_airport_km": 17.8,
+  "distance_beijing_km": 6997.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "Hawta Palace Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 15.9046454,
+   "lon": 48.6851759,
+   "distance_km": 6.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shibam hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9256495,
+   "lon": 48.6282937,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bmc Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9266758,
+   "lon": 48.7317118,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alnkheel Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9482108,
+   "lon": 48.7751595,
+   "distance_km": 16.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق وادي النخيل (Palms valley hotel)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9512944,
+   "lon": 48.7769338,
+   "distance_km": 16.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "YE",
+  "country_zh": "也门",
+  "country_en": "Yemen",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "YE",
+   "country_zh": "也门",
+   "country_en": "Yemen",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 64
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/192"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shibam"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

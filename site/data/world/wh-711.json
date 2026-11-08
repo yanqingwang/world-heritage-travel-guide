@@ -1,0 +1,154 @@
+{
+ "id": "wh-711",
+ "unesco_id": "711",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 733,
+ "popularity_score": 4890,
+ "country": "CO",
+ "country_zh": "哥伦比亚",
+ "country_en": "Colombia",
+ "countries": [
+  {
+   "iso2": "CO",
+   "zh": "哥伦比亚",
+   "en": "Colombia"
+  }
+ ],
+ "region": "Provinces of Antioquia and Choco’",
+ "subdivision_iso": "CO-ANT",
+ "subdivision_zh": "安蒂奥基亚省",
+ "subdivision_en": "Antioquia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "洛斯卡蒂奥斯国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Los Katíos National Park",
+ "name_local": "Parque Nacional de los Katios",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "711-los_katíos_national_park",
+ "lat": 7.8,
+ "lon": -77.15,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "洛斯卡蒂奥斯国家公园位于哥伦比亚的西北部，占地72 000公顷，包括许多低矮的丘陵、森林和沼泽地。公园里有众多生物物种，已成为许多濒临灭绝动物和当地特有植物的家园。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Extending over 72,000 ha in north-western Colombia, Los Katios National Park comprises low hills, forests and humid plains. An exceptional biological diversity is found in the park, which is home to many threatened animal species, as well as many endemic plants.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado en el noroeste de Colombia, el parque de los Katios se extiende por unas 72.000 hectí¡reas y estí¡ formado por cerros bajos, bosques y llanuras húmedas. Su diversidad biológica es excepcional y alberga varias especies animales en peligro de extinción, así­ como numerosas plantas endémicas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_711.jpg",
+   "title": "Los Katíos National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/711",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/711",
+ "transport": {
+  "airports": [
+   {
+    "name": "Antonio Roldán Betancur Airport",
+    "iata": "APO",
+    "city": "Carepa",
+    "country": "CO",
+    "lat": 7.81196,
+    "lon": -76.7164,
+    "type": "medium_airport",
+    "distance_km": 47.8
+   },
+   {
+    "name": "Bahia Piña Airport",
+    "iata": "BFQ",
+    "city": "Puerto Piña",
+    "country": "PA",
+    "lat": 7.58737,
+    "lon": -78.179939,
+    "type": "small_airport",
+    "distance_km": 115.9
+   },
+   {
+    "name": "José Celestino Mutis Airport",
+    "iata": "BSC",
+    "city": "Bahía Solano",
+    "country": "CO",
+    "lat": 6.20292,
+    "lon": -77.3947,
+    "type": "medium_airport",
+    "distance_km": 179.6
+   }
+  ],
+  "nearest_airport_km": 47.8,
+  "distance_beijing_km": 14517.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CO",
+  "country_zh": "哥伦比亚",
+  "country_en": "Colombia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa[6][40]",
+  "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CO",
+   "country_zh": "哥伦比亚",
+   "country_en": "Colombia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa[6][40]",
+   "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/711"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Los%20Kat%C3%ADos%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

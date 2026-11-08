@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)(v)"
 lat: 9.239444444
 lon: -74.425
-updated_at: "2026-11-08T12:18:56Z"
+updated_at: "2026-11-08T14:52:32Z"
 ---
 
 # 蒙波斯的圣克鲁斯历史中心 / Historic Centre of Santa Cruz de Mompox

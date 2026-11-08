@@ -1,0 +1,152 @@
+{
+ "id": "wh-1237",
+ "unesco_id": "1237",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 923,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "多洛米蒂山",
+ "name_zh_source": "curated",
+ "name_en": "The Dolomites",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1237-the_dolomites",
+ "lat": 46.61306,
+ "lon": 12.16306,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "2009",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "多洛米蒂山脉包括意大利北部阿尔卑斯山的山脉，共有18座海拔3000米以上的山峰，占地141903公顷。它拥有世界上最美丽的山地景观，有垂直的墙壁、陡峭的悬崖和高密度的狭窄、深长的山谷。该遗址由九个区域组成，呈现出具有国际意义的各种壮观景观，以尖塔、尖塔和岩壁为标志，还包含冰川地貌和喀斯特系统。它的特点是频繁发生山体滑坡、洪水和雪崩的动态过程。该地产还拥有保存中生代碳酸盐台地系统和化石记录的最佳范例之一。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The site of the Dolomites comprises a mountain range in the northern Italian Alps, numbering 18 peaks which rise to above 3,000 metres and cover 141,903 ha. It features some of the most beautiful mountain landscapes anywhere, with vertical walls, sheer cliffs and a high density of narrow, deep and long valleys. A serial property of nine areas that present a diversity of spectacular landscapes of international significance for geomorphology marked by steeples, pinnacles and rock walls, the site also contains glacial landforms and karst systems. It is characterized by dynamic processes with frequent landslides, floods and avalanches. The property also features one of the best examples of the preservation of Mesozoic carbonate platform systems, with fossil records.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1237.jpg",
+   "title": "The Dolomites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1237",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1237",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bolzano Airport",
+    "iata": "BZO",
+    "city": "Bolzano (BZ)",
+    "country": "IT",
+    "lat": 46.459245,
+    "lon": 11.326125,
+    "type": "medium_airport",
+    "distance_km": 66.3
+   },
+   {
+    "name": "Innsbruck Airport",
+    "iata": "INN",
+    "city": "Innsbruck",
+    "country": "AT",
+    "lat": 47.260201,
+    "lon": 11.344,
+    "type": "large_airport",
+    "distance_km": 95.1
+   },
+   {
+    "name": "Treviso Airport",
+    "iata": "TSF",
+    "city": "Treviso (TV)",
+    "country": "IT",
+    "lat": 45.648399,
+    "lon": 12.1944,
+    "type": "large_airport",
+    "distance_km": 107.3
+   }
+  ],
+  "nearest_airport_km": 66.3,
+  "distance_beijing_km": 7878.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1237"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

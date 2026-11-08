@@ -1,0 +1,162 @@
+{
+ "id": "wh-1117",
+ "unesco_id": "1117",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 751,
+ "popularity_score": 4401,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "Azores",
+ "subdivision_iso": "PT-20",
+ "subdivision_zh": "亚速尔群岛",
+ "subdivision_en": "Azores",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "皮库岛葡萄园文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Landscape of the Pico Island Vineyard Culture",
+ "name_local": "Paisagem da Cultura da Vinha da Ilha do Pico",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "1117-landscape_of_the_pico_island_vineyard_cu",
+ "lat": 38.51333333,
+ "lon": -28.54111111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "占地987公顷的葡萄园文化景观位于亚速尔群岛的第二大岛——皮库火山岛上，引人注目的是环绕岩石海岸的石墙，用来保护海岛抵御海风和海水的侵蚀。岛上拥有农田、房屋、19世纪初建造的庄园、酒窖、教堂和港口，这里最早的葡萄酿酒技术可以追溯到15世纪。曾经广泛实施的葡萄酿酒技术得以完好地保留，成为该遗址最为亮丽的人工景观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 987-ha site on the volcanic island of Pico, the second largest in the Azores archipelago, consists of a remarkable pattern of spaced-out, long linear walls running inland from, and parallel to, the rocky shore. The walls were built to protect the thousands of small, contiguous, rectangular plots (currais) from wind and seawater. Evidence of this viniculture, whose origins date back to the 15th century, is manifest in the extraordinary assembly of the fields, in houses and early 19th-century manor houses, in wine-cellars, churches and ports. The extraordinarily beautiful man-made landscape of the site is the best remaining area of a once much more widespread practice.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "A Paisagem da Cultura da Vinha da Ilha do Pico é um sítio classificado pela UNESCO desde 2004, compreendendo uma área de 987 hectares na ilha do Pico, a segunda maior do arquipélago dos Açores. A zona classificada é descrita como uma Paisagem Cultural, e inclui um notável padrão de muros lineares paralelos e perpendiculares à linha de costa rochosa, onde as vinhas são cultivadas em chão de lava negra. Os muros foram construídos para protecção dos milhares de pequenos e contíguos lotes rectangulares (designados currais ou curraletas) da resalga proveniente da água do mar e do vento marítimo mas deixando entrar o sol necessário à maturação das uvas. A diversidade da fauna e da flora aqui presente estão directamente associados com uma rica presença de espécies endémicas das florestas da Laurissilva características da Macaronésia, algumas muito raras e protegidas por lei, como é o caso da Myrica faya, frequentemente utilizada para fazer abrigos. Registos desta vinicultura, cujas origens datam do século XV, manifestam-se na extraordinária colecção existente em casas particulares, solares do início do século XIX, adegas, igrejas e portos. A belíssima paisagem construída pelo homem neste local é remanescente de uma prática antiga, muito mais vasta na região açoriana. Após a sua classificação pelas UNESCO, o Governo Regional dos Açores procedeu à criação do Gabinete Técnico da Paisagem",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20of%20the%20Pico%20Island%20Vineyard%20Culture.jpg?width=1280",
+   "title": "Landscape of the Pico Island Vineyard Culture.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Landscape%20of%20the%20Pico%20Island%20Vineyard%20Culture.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1117.jpg",
+   "title": "Landscape of the Pico Island Vineyard Culture",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1117",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1117",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pico Airport",
+    "iata": "PIX",
+    "city": "Pico Island",
+    "country": "PT",
+    "lat": 38.554298,
+    "lon": -28.441299,
+    "type": "medium_airport",
+    "distance_km": 9.8
+   },
+   {
+    "name": "Horta Airport",
+    "iata": "HOR",
+    "city": "Horta",
+    "country": "PT",
+    "lat": 38.519901275634766,
+    "lon": -28.715900421142578,
+    "type": "medium_airport",
+    "distance_km": 15.2
+   },
+   {
+    "name": "São Jorge Airport",
+    "iata": "SJZ",
+    "city": "Velas",
+    "country": "PT",
+    "lat": 38.665501,
+    "lon": -28.1758,
+    "type": "medium_airport",
+    "distance_km": 36.0
+   }
+  ],
+  "nearest_airport_km": 9.8,
+  "distance_beijing_km": 10575.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1117"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Landscape%20of%20the%20Pico%20Island%20Vineyard%20Culture"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

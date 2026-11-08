@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(ix)(x)"
 lat: -14.033333333
 lon: 34.883333333
-updated_at: "2026-11-08T12:18:54Z"
+updated_at: "2026-11-08T14:52:24Z"
 ---
 
 # 马拉维湖国家公园 / Lake Malawi National Park

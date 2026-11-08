@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iii)(iv)"
 lat: 50.419988888
 lon: 3.982575
-updated_at: "2026-11-08T12:18:58Z"
+updated_at: "2026-11-08T14:52:38Z"
 ---
 
 # 斯皮耶纳新石器时代的燧石矿 / Neolithic Flint Mines at Spiennes (Mons)

@@ -1,0 +1,191 @@
+{
+ "id": "cn-374",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "南阳市",
+ "city_en": "Nanyang",
+ "name_zh": "南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区",
+ "name_en": "Funiu Mountains",
+ "name_en_source": "wikipedia",
+ "slug": "nanyangshixixiakonglongyijiyuanfuniushanlaojieling-374",
+ "lat": 33.234916,
+ "lon": 111.691965,
+ "address_zh": "南阳市西峡县丹水镇",
+ "address_en": "Danshui Town, Xixia County, Nanyang City",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "景区位于河南省南阳市西峡县，主要有老界岭和恐龙遗迹园两大主景区，是中国南阳伏牛山世界地质公园的精髓和核心，是国家级自然保护区，位于中国南北气候的分界线，是长江流域和黄河流域的分水岭，是一个集观光体验、科普科考、休闲度假于一体的综合性旅游目的地。",
+ "intro_en": "The Funiu Mountains, also known by their Chinese name Funiu Shan, are a mountain range in southern Shanxi and western Henan provinces in China.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Funiu_mountain.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Funiu mountain.png",
+   "author": "Fnsdq",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Funiu_mountain.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Funiu_mountain_culture_area.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Funiu mountain culture area.png",
+   "author": "Fnsdq",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Funiu_mountain_culture_area.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/ISS010-E-7423_-_View_of_China.jpg/1280px-ISS010-E-7423_-_View_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ISS010-E-7423 - View of China.jpg",
+   "author": "Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center",
+   "license": "Public domain",
+   "credit": "JSC Gateway to Astronaut Photography of Earth",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS010-E-7423_-_View_of_China.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ISS010-E-7424_-_View_of_China.jpg/1280px-ISS010-E-7424_-_View_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ISS010-E-7424 - View of China.jpg",
+   "author": "Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center",
+   "license": "Public domain",
+   "credit": "JSC Gateway to Astronaut Photography of Earth",
+   "source": "https://commons.wikimedia.org/wiki/File:ISS010-E-7424_-_View_of_China.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sanfeng_Mountain_%28seen_from_ISS_Expedition_10_-_7423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Sanfeng Mountain (seen from ISS Expedition 10 - 7423).jpg",
+   "author": "Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center",
+   "license": "Public domain",
+   "credit": "JSC Gateway to Astronaut Photography of Earth",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanfeng_Mountain_%28seen_from_ISS_Expedition_10_-_7423%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanyang Jiangying Airport",
+    "iata": "NNY",
+    "city": "Nanyang (Wancheng)",
+    "country": "CN",
+    "lat": 32.982696,
+    "lon": 112.617467,
+    "type": "small_airport",
+    "distance_km": 90.6
+   },
+   {
+    "name": "Shiyan Wudangshan Airport",
+    "iata": "WDS",
+    "city": "Shiyan (Maojian)",
+    "country": "CN",
+    "lat": 32.592889,
+    "lon": 110.906296,
+    "type": "medium_airport",
+    "distance_km": 102.3
+   },
+   {
+    "name": "Xiangyang Liuji Airport",
+    "iata": "XFN",
+    "city": "Xiangyang (Xiangzhou)",
+    "country": "CN",
+    "lat": 32.152222,
+    "lon": 112.291666,
+    "type": "medium_airport",
+    "distance_km": 132.8
+   }
+  ],
+  "nearest_airport_km": 90.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "丹水",
+    "name_en": null,
+    "lat": 33.2017334,
+    "lon": 111.6855365,
+    "distance_km": 3.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "西峡东",
+    "name_en": null,
+    "lat": 33.2184858,
+    "lon": 111.6199592,
+    "distance_km": 6.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "屈原岗",
+    "name_en": null,
+    "lat": 33.2550433,
+    "lon": 111.585886,
+    "distance_km": 10.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "内乡和风精致酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.0552618,
+   "lon": 111.8393408,
+   "distance_km": 24.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "尚客优酒店(内乡县衙店)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.0430031,
+   "lon": 111.8437734,
+   "distance_km": 25.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/伏牛山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

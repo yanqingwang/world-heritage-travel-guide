@@ -1,0 +1,162 @@
+{
+ "id": "wh-484",
+ "unesco_id": "484",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1093,
+ "popularity_score": null,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "Provinces of Muğla and Antalya",
+ "subdivision_iso": "TR-07",
+ "subdivision_zh": "安塔利亚省",
+ "subdivision_en": "Antalya Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "桑索斯和莱顿",
+ "name_zh_source": "unesco_official",
+ "name_en": "Xanthos-Letoon",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "484-xanthos-letoon",
+ "lat": 36.335,
+ "lon": 29.32028,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址位于利西亚首府，反映了利西亚传统与希腊影响的交融，尤其体现在葬殡艺术上。碑文成为研究印欧语言和利西亚人历史的重要资料。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This site, which was the capital of Lycia, illustrates the blending of Lycian traditions and Hellenic influence, especially in its funerary art. The epigraphic inscriptions are crucial for our understanding of the history of the Lycian people and their Indo-European language.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Letoon%20stoa%20axb01.jpg?width=1280",
+   "title": "Letoon stoa axb01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Letoon%20stoa%20axb01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_484.jpg",
+   "title": "Xanthos-Letoon",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/484",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/484",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kastelorizo Airport",
+    "iata": "KZS",
+    "city": "Kastelorizo Island",
+    "country": "GR",
+    "lat": 36.141701,
+    "lon": 29.576401,
+    "type": "small_airport",
+    "distance_km": 31.5
+   },
+   {
+    "name": "Dalaman International Airport",
+    "iata": "DLM",
+    "city": "Dalaman",
+    "country": "TR",
+    "lat": 36.7131,
+    "lon": 28.7925,
+    "type": "large_airport",
+    "distance_km": 63.2
+   },
+   {
+    "name": "Rhodes International Airport \"Diagoras\"",
+    "iata": "RHO",
+    "city": "Rhodes",
+    "country": "GR",
+    "lat": 36.405399,
+    "lon": 28.086201,
+    "type": "large_airport",
+    "distance_km": 110.8
+   }
+  ],
+  "nearest_airport_km": 31.5,
+  "distance_beijing_km": 7302.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/484"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

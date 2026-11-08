@@ -1,0 +1,162 @@
+{
+ "id": "wh-30",
+ "unesco_id": "30",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 277,
+ "popularity_score": 33638,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "City and County of Warsaw, Masovian Voivodship",
+ "subdivision_iso": "PL-14",
+ "subdivision_zh": "马佐夫舍省",
+ "subdivision_en": "Masovian Voivodeship",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "华沙历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Warsaw",
+ "name_local": "Stare Miasto w Warszawie",
+ "local_lang": "pl",
+ "local_lang_name": "Polish",
+ "slug": "30-historic_centre_of_warsaw",
+ "lat": 52.249722222,
+ "lon": 21.012222222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(vi)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "1944年8月华沙起义期间，华沙历史中心85%以上的建筑遭到纳粹部队的摧毁。二战之后，华沙人民用长达5年的时间重建古城，他们修建了教堂、宫殿和贸易场所。华沙的重生是13世纪至20世纪建筑史上不可抹灭的一笔。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "During the Warsaw Uprising in August 1944, more than 85% of Warsaw's historic centre was destroyed by Nazi troops. After the war, a five-year reconstruction campaign by its citizens resulted in today's meticulous restoration of the Old Town, with its churches, palaces and market-place. It is an outstanding example of a near-total reconstruction of a span of history covering the 13th to the 20th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Stare Miasto w Warszawie, zwyczajowo Starówka – dawne miasto Stara Warszawa, najstarszy ośrodek miejski Warszawy będący zwartym zespołem architektury zabytkowej, przeważnie z XVII i XVIII wieku o średniowiecznym układzie zabudowy, otoczone pierścieniem murów obronnych z XIV–XVI wieku. Od 1980 znajduje się na liście światowego dziedzictwa UNESCO. Współcześnie najstarsza część i obszar MSI w dzielnicy Śródmieście.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa%20Stare%20Miasto%20%28dron%29.jpg?width=1280",
+   "title": "Warszawa Stare Miasto (dron).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Warszawa%20Stare%20Miasto%20%28dron%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_30.jpg",
+   "title": "Historic Centre of Warsaw",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/30",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/30",
+ "transport": {
+  "airports": [
+   {
+    "name": "Warsaw Chopin Airport",
+    "iata": "WAW",
+    "city": "Warsaw",
+    "country": "PL",
+    "lat": 52.165699,
+    "lon": 20.9671,
+    "type": "large_airport",
+    "distance_km": 9.8
+   },
+   {
+    "name": "Warsaw Modlin Airport",
+    "iata": "WMI",
+    "city": "Nowy Dwór Mazowiecki",
+    "country": "PL",
+    "lat": 52.451099,
+    "lon": 20.6518,
+    "type": "large_airport",
+    "distance_km": 33.2
+   },
+   {
+    "name": "Warsaw Radom Airport",
+    "iata": "RDO",
+    "city": "Radom",
+    "country": "PL",
+    "lat": 51.38937,
+    "lon": 21.214742,
+    "type": "medium_airport",
+    "distance_km": 96.7
+   }
+  ],
+  "nearest_airport_km": 9.8,
+  "distance_beijing_km": 6943.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "pl",
+  "local_lang_name": "Polish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/30"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20Town%2C%20Warsaw"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

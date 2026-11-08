@@ -1,0 +1,151 @@
+{
+ "id": "wh-1234",
+ "unesco_id": "1234",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 343,
+ "popularity_score": 24946,
+ "country": "RU",
+ "country_zh": "俄罗斯",
+ "country_en": "Russia",
+ "countries": [
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "RU-KYA",
+ "subdivision_zh": "克拉斯诺亚尔斯克边疆区",
+ "subdivision_en": "Krasnoyarsk Krai",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "普托拉納高原",
+ "name_zh_source": "wikidata",
+ "name_en": "Putorana Plateau",
+ "name_local": "Плато Путорана",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "1234-putorana_plateau",
+ "lat": 69.0,
+ "lon": 93.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)",
+ "year": "2010",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "普托拉納高原是俄羅斯的玄武岩高原，位於泰梅爾半島以南中西伯利亞高原西北側的高山地區，最高點海拔高度1,700米，由西伯利亞暗色岩組成，這個地區有維維湖和大型鎳礦，鄰近城市有諾里爾斯克。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "This site coincides with the area of the Putoransky State Nature Reserve, and is located in the central part of the Putorana Plateau in northern Central Siberia. It is situated about 100 km north of the Arctic Circle. The part of the plateau inscribed on the World Heritage List harbours a complete set of subarctic and arctic ecosystems in an isolated mountain range, including pristine taiga, forest tundra, tundra and arctic desert systems, as well as untouched cold-water lake and river systems. A major reindeer migration route crosses the property, which represents an exceptional, large-scale and increasingly rare natural phenomenon.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Этот объект совпадает своими границами с Путоранским государственным природным заповедником, расположенным в северной части Центральной Сибири, в 100 км за Полярным кругом. На части этого плато, включенной в Список всемирного наследия, сохранился полный набор субарктических и арктических экосистем, сохранившихся в условиях изолированной горной цепи, в том числе - нетронутая тайга, лесотундра, тундра и системы арктических пустынь, а также первозданное озеро с холодной водой и речные системы. Через объект пролегает основной путь миграции оленей, что являет собой исключительное, величественное и все более редко встречающееся явление природы.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plato%20Putorana%2001.jpg?width=1280",
+   "title": "Plato Putorana 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Plato%20Putorana%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1234.jpg",
+   "title": "Putorana Plateau",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1234",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1234",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alykel International Airport",
+    "iata": "NSK",
+    "city": "Norilsk",
+    "country": "RU",
+    "lat": 69.307951,
+    "lon": 87.325906,
+    "type": "large_airport",
+    "distance_km": 227.0
+   },
+   {
+    "name": "Igarka Airport",
+    "iata": "IAA",
+    "city": "Igarka",
+    "country": "RU",
+    "lat": 67.437202,
+    "lon": 86.621902,
+    "type": "medium_airport",
+    "distance_km": 315.1
+   }
+  ],
+  "nearest_airport_km": 227.0,
+  "distance_beijing_km": 3675.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RU",
+  "country_zh": "俄罗斯",
+  "country_en": "Russia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required",
+  "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 48
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1234"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Putorana%20Plateau"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

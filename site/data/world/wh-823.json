@@ -1,0 +1,162 @@
+{
+ "id": "wh-823",
+ "unesco_id": "823",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 418,
+ "popularity_score": 18650,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Torino, Piedmont Region",
+ "subdivision_iso": "IT-21",
+ "subdivision_zh": "皮埃蒙特",
+ "subdivision_en": "Piedmont",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨沃王宫",
+ "name_zh_source": "unesco_official",
+ "name_en": "Residences of the Royal House of Savoy",
+ "name_local": "Residenze sabaude in Piemonte",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "823-residences_of_the_royal_house_of_savoy",
+ "lat": 45.0725,
+ "lon": 7.68583,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(v)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "当萨沃公爵埃马努埃尔·菲利博特(Emmanuel-Philibert) 在1562年把他的首都移往都灵时，他便开始实行了一系列的建筑规划（并由他的继位人不断付诸实施），以此来显示这个统治家族的权力。这一由当时水平最高的建筑师和艺术家设计和装饰的高质量综合建筑群，从统治中心都灵的皇宫向其周边的农村地区拓展，囊括了许多村庄住宅和打猎用的小屋。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "When Emmanuel-Philibert, Duke of Savoy, moved his capital to Turin in 1562, he began a vast series of building projects (continued by his successors) to demonstrate the power of the ruling house. This outstanding complex of buildings, designed and embellished by the leading architects and artists of the time, radiates out into the surrounding countryside from the Royal Palace in the 'Command Area' of Turin to include many country residences and hunting lodges.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le residenze sabaude in Piemonte sono l'insieme degli edifici residenziali dei Savoia a Torino e dintorni, molti dei quali iscritti nella Lista del Patrimonio Mondiale dell'UNESCO. Il loro insieme è soprannominato \"corona di delizie\", perché cinge la città da ogni lato.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Torino%20-%20Palazzo%20Reale%20-%201.jpg?width=1280",
+   "title": "Torino - Palazzo Reale - 1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Torino%20-%20Palazzo%20Reale%20-%201.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_823.jpg",
+   "title": "Residences of the Royal House of Savoy",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/823",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/823",
+ "transport": {
+  "airports": [
+   {
+    "name": "Turin Airport",
+    "iata": "TRN",
+    "city": "Caselle Torinese (TO)",
+    "country": "IT",
+    "lat": 45.200802,
+    "lon": 7.64963,
+    "type": "large_airport",
+    "distance_km": 14.5
+   },
+   {
+    "name": "Cuneo International Airport",
+    "iata": "CUF",
+    "city": "Levaldigi (CN)",
+    "country": "IT",
+    "lat": 44.547458,
+    "lon": 7.623045,
+    "type": "medium_airport",
+    "distance_km": 58.6
+   },
+   {
+    "name": "Milan Malpensa International Airport",
+    "iata": "MXP",
+    "city": "Ferno (VA)",
+    "country": "IT",
+    "lat": 45.6306,
+    "lon": 8.72811,
+    "type": "large_airport",
+    "distance_km": 102.4
+   }
+  ],
+  "nearest_airport_km": 14.5,
+  "distance_beijing_km": 8186.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/823"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Residences%20of%20the%20Royal%20House%20of%20Savoy"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

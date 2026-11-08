@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(vii)(viii)"
 lat: 60.965776
 lon: 6.977692
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:42Z"
 ---
 
 # 挪威西峡湾-盖朗厄尔峡湾和纳柔依峡湾 / West Norwegian Fjords – Geirangerfjord and Nærøyfjord

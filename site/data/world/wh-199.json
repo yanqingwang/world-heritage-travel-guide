@@ -1,0 +1,162 @@
+{
+ "id": "wh-199",
+ "unesco_id": "199",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 494,
+ "popularity_score": 13670,
+ "country": "TZ",
+ "country_zh": "坦桑尼亚",
+ "country_en": "Tanzania",
+ "countries": [
+  {
+   "iso2": "TZ",
+   "zh": "坦桑尼亚",
+   "en": "Tanzania"
+  }
+ ],
+ "region": "Coast, Morogoro, Lindi, Mtwara and Ruvuma Regions",
+ "subdivision_iso": "TZ-12",
+ "subdivision_zh": "林迪区",
+ "subdivision_en": "Lindi Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塞卢斯禁猎区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Selous Game Reserve",
+ "name_local": "Hifadhi ya Taifa ya Nyerere",
+ "local_lang": "sw",
+ "local_lang_name": "Swahili",
+ "slug": "199-selous_game_reserve",
+ "lat": -9.0,
+ "lon": 37.4,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1982",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "塞卢斯禁猎区占地5万平方公里，在这个很少受人类干扰的广大原野里生活着数量众多的大象、黑犀牛、印度豹、长颈鹿、河马以及鳄鱼。这个公园的植被种类众多，既有浓密的灌木丛，又有树木茂盛的广阔草原。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Large numbers of elephants, black rhinoceroses, cheetahs, giraffes, hippopotamuses and crocodiles live in this immense sanctuary, which measures 50,000 km 2 and is relatively undisturbed by human impact. The park has a variety of vegetation zones, ranging from dense thickets to open wooded grasslands.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Hifadhi ya Taifa ya Nyerere (awali: Selous, matamshi: \"saluu\") ni hifadhi ya taifa kubwa kuliko yote nchini Tanzania, pia ni kati ya hifadhi ya wanyama kubwa kabisa duniani. Hifadhi imeanzishwa mwaka wa 2019; kabla ya kupandishwa hadhi na kuwa hifadhi, ilikuwa pori tengefu lililojulikana kwa jina la Selous. Eneo lake ni la km² 54,600 katika mikoa ya Pwani, Morogoro, Lindi, Mtwara na Ruvuma. Eneo hilo ni kubwa kushinda nchi 70 duniani ikikadiriwa kuwa na eneo sawa na nchi ya Kostarika (Amerika ya Kati) na takribani mara mbili kuliko nchi ya Ubelgiji (Ulaya). Sehemu kubwa ya eneo iko katika hali ya asili bila kuvurugwa na shughuli za binadamu. Tangu mwaka 1982 imeingizwa katika orodha ya UNESCO ya Urithi wa Dunia. Tena mwezi Juni 2014 imeingizwa kwenye orodha ya UNESCO ya hifadhi zenye hatari ya kupotewa na uhai wake. Katika hifadhi hii pia unapatikana mto mkubwa uitwao Rufiji. Hapo serikali imeanzisha mradi wa uzalishaji umeme mkubwa zaidi katika Afrika Mashariki na ya Kati.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SelousSandRivers.jpg?width=1280",
+   "title": "SelousSandRivers.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:SelousSandRivers.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_199.jpg",
+   "title": "Selous Game Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/199",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/199",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mafia Airport",
+    "iata": "MFA",
+    "city": "Kilindoni",
+    "country": "TZ",
+    "lat": -7.917478,
+    "lon": 39.668502,
+    "type": "small_airport",
+    "distance_km": 277.0
+   },
+   {
+    "name": "Julius Nyerere International Airport",
+    "iata": "DAR",
+    "city": "Dar es Salaam",
+    "country": "TZ",
+    "lat": -6.873499,
+    "lon": 39.207288,
+    "type": "large_airport",
+    "distance_km": 309.1
+   },
+   {
+    "name": "Mtwara Airport",
+    "iata": "MYW",
+    "city": "Mtwara",
+    "country": "TZ",
+    "lat": -10.336204,
+    "lon": 40.181997,
+    "type": "medium_airport",
+    "distance_km": 339.2
+   }
+  ],
+  "nearest_airport_km": 277.0,
+  "distance_beijing_km": 9479.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TZ",
+  "country_zh": "坦桑尼亚",
+  "country_en": "Tanzania",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6][146]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TZ",
+   "country_zh": "坦桑尼亚",
+   "country_en": "Tanzania",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6][146]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sw",
+  "local_lang_name": "Swahili",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 52
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/199"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Selous%20Game%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

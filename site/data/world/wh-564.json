@@ -1,0 +1,162 @@
+{
+ "id": "wh-564",
+ "unesco_id": "564",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 797,
+ "popularity_score": 3093,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "City and County of Zamość, Lublin Voivodship (formerly Zamość Voivodship)",
+ "subdivision_iso": "PL-06",
+ "subdivision_zh": "卢布林省",
+ "subdivision_en": "Lublin Voivodeship",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "扎莫希奇古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old City of Zamość",
+ "name_local": "Stare Miasto (Zamość)",
+ "local_lang": "pl",
+ "local_lang_name": "Polish",
+ "slug": "564-old_city_of_zamość",
+ "lat": 50.720556,
+ "lon": 23.258611,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元16世纪，军事将领简·扎莫希奇建立了扎莫希奇古城。古城位于黑海地区连接西欧和北欧的商贸道路上。古城以意大利的“理想城市”理论为雏型，由帕多瓦当地的建筑大师波南多·莫兰多设计建造，是16世纪晚期文艺复兴城镇的完美范例。扎莫希奇古城完美地保留了16世纪末具有文艺复兴时期风格城镇的最初风貌和要塞堡垒，与此同时还保留了大量的、充分体现意大利与中欧建筑风格完美结合的建筑物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Zamosc was founded in the 16th century by the chancellor Jan Zamoysky on the trade route linking western and northern Europe with the Black Sea. Modelled on Italian theories of the 'ideal city' and built by the architect Bernando Morando, a native of Padua, Zamosc is a perfect example of a late-16th-century Renaissance town. It has retained its original layout and fortifications and a large number of buildings that combine Italian and central European architectural traditions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Stare Miasto – jedna z szesnastu dzielnic (jednostek), na jakie podzielone jest miasto Zamość. Znajduje się w centrum miasta i graniczy z: Os. Planty (od wschodu) Os. Promyk i Os. Zamczysko (od południa, granica biegnie: linią kolejową i rzeką Łabuńką) Os. Karolówka i Os. Janowice (od zachodu, granica biegnie: rzeką Łabuńką) Os. Orzeszkowej-Reymonta (od północy, granica biegnie m.in. ulicami: Sadowa i Studzienna). Poza zabytkowym Starym Miastem dzielnica ta obejmuje także tereny położone na zachód, wśród których można wyróżnić jedno odrębne osiedle z zabudową jednorodzinną: osiedle Podgroble – pomiędzy ulicami: Królowej Jadwigi, Podgroble, Podleśna. Jest to również jedna ze starszych części miasta, przez długi okres bardzo niewielka osada (już od XVII w.), dopiero po II wojnie światowej nastąpiła tu rozbudowa domów jednorodzinnych, głównie niewielkich.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kamienice%20na%20Starym%20Mie%C5%9Bcie%20w%20Zamo%C5%9Bciu%2002.jpg?width=1280",
+   "title": "Kamienice na Starym Mieście w Zamościu 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kamienice%20na%20Starym%20Mie%C5%9Bcie%20w%20Zamo%C5%9Bciu%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_564.jpg",
+   "title": "Old City of Zamość",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/564",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/564",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lublin Airport",
+    "iata": "LUZ",
+    "city": "Lublin",
+    "country": "PL",
+    "lat": 51.240157,
+    "lon": 22.713461,
+    "type": "large_airport",
+    "distance_km": 69.2
+   },
+   {
+    "name": "Rzeszów-Jasionka Airport",
+    "iata": "RZE",
+    "city": "Jasionka",
+    "country": "PL",
+    "lat": 50.109791,
+    "lon": 22.024155,
+    "type": "large_airport",
+    "distance_km": 110.7
+   },
+   {
+    "name": "Brest International Airport",
+    "iata": "BQT",
+    "city": "Brest",
+    "country": "BY",
+    "lat": 52.108138,
+    "lon": 23.89676,
+    "type": "large_airport",
+    "distance_km": 160.5
+   }
+  ],
+  "nearest_airport_km": 69.2,
+  "distance_beijing_km": 6892.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "pl",
+  "local_lang_name": "Polish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 19
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/564"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20City%20%28Zamo%C5%9B%C4%87%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

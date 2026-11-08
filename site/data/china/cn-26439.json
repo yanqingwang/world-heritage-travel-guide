@@ -1,0 +1,148 @@
+{
+ "id": "cn-26439",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "荆门市",
+ "city_en": "Jingmen City",
+ "name_zh": "荆门市明显陵文化旅游景区",
+ "name_en": "Mingxianling Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "jingmenshimingxianlingwenhua-26439",
+ "lat": 31.215108,
+ "lon": 112.644097,
+ "address_zh": "湖北省荆门市钟祥市显陵路1号",
+ "address_en": "No. 1, Xianling Road, Zhongxiang City, Jingmen City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "garden",
+ "category_zh": "皇家园林",
+ "category_en": "Royal garden",
+ "intro_zh": "明显陵文化旅游景区，位于享有世界长寿之乡、国家级历史文化名城、中国优秀旅游城市等殊荣的湖北省钟祥市城东郊，景区面积3.18平方公里。景区包括世界文化遗产明显陵、华中民俗第一村莫愁村、国家级湿地公园莫愁湖和明代帝王文化展示馆，是集水域风光、园林景观、人文历史、古建筑为一体的半开放式景区，山水林陵资源组合极佳。",
+ "intro_en": "Mingmingling Cultural Tourism Scenic Area is located in the eastern suburbs of Zhongxiang City, Hubei Province, which has the honor of being the hometown of longevity in the world, a national historical and cultural city, and an outstanding tourist city in China. The scenic area covers an area of ​​3.18 square kilometers. The scenic area includes the Ming Ming Mausoleum, a world cultural heritage site, Mochou Village, the first folk village in Central China, Mochou Lake, a national wetland park, and the Ming Dynasty Emperor Culture Exhibition Hall. It is a semi-open scenic area that integrates water scenery, garden landscapes, humanities, history, and ancient buildings. It has an excellent combination of mountains, rivers, forests, and tombs.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mingxianling_minglou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Mingxianling minglou.jpg",
+   "author": "Kallgan",
+   "license": "Public domain",
+   "credit": "http://zh.wikipedia.org/wiki/File:Mingxianling_minglou.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mingxianling_minglou.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "https://www.zgmxl.com/index.php?c=category&id=125",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jingzhou Shashi Airport",
+    "iata": "SHS",
+    "city": "Jingzhou (Shashi)",
+    "country": "CN",
+    "lat": 30.29281,
+    "lon": 112.44854,
+    "type": "medium_airport",
+    "distance_km": 104.2
+   },
+   {
+    "name": "Xiangyang Liuji Airport",
+    "iata": "XFN",
+    "city": "Xiangyang (Xiangzhou)",
+    "country": "CN",
+    "lat": 32.152222,
+    "lon": 112.291666,
+    "type": "medium_airport",
+    "distance_km": 109.4
+   },
+   {
+    "name": "Yichang Sanxia Airport",
+    "iata": "YIH",
+    "city": "Yichang (Xiaoting)",
+    "country": "CN",
+    "lat": 30.554132,
+    "lon": 111.482563,
+    "type": "medium_airport",
+    "distance_km": 133.0
+   }
+  ],
+  "nearest_airport_km": 104.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "钟祥",
+    "name_en": "Zhongxiang",
+    "lat": 31.1784272,
+    "lon": 112.6108557,
+    "distance_km": 5.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "东桥",
+    "name_en": "Dongqiao",
+    "lat": 31.1971646,
+    "lon": 112.831623,
+    "distance_km": 17.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "钟祥南",
+    "name_en": null,
+    "lat": 31.0493697,
+    "lon": 112.6230606,
+    "distance_km": 18.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "钟祥鸿宇宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.1837486,
+   "lon": 112.5812528,
+   "distance_km": 6.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/明显陵"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-1024",
+ "unesco_id": "1024",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 879,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Provinces of Catania, Ragusa, and Syracuse, Sicily",
+ "subdivision_iso": "IT-82",
+ "subdivision_zh": "",
+ "subdivision_en": "Sicily",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "晚期的巴洛克城镇瓦拉迪那托（西西里东南部）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1024-late_baroque_towns_of_the_val_di_noto_(s",
+ "lat": 36.88333333,
+ "lon": 15.08333333,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(v)",
+ "year": "2002",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "西西里岛东南部的八座城镇——卡尔塔吉罗内、米利泰洛瓦尔迪卡塔尼亚、卡塔尼亚、莫迪卡、诺托、帕拉佐洛、拉古萨和希克利——均于1693年地震后，在当时城镇的原址或其附近重建。这些城镇体现了一项规模宏大的集体重建工程，在建筑和艺术方面取得了卓越成就。它们既延续了当时的晚期巴洛克风格，又在城镇规划和城市建筑方面展现出独特的创新。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The eight towns in south-eastern Sicily: Caltagirone, Militello Val di Catania, Catania, Modica, Noto, Palazzolo, Ragusa and Scicli, were all rebuilt after 1693 on or beside towns existing at the time of the earthquake which took place in that year. They represent a considerable collective undertaking, successfully carried out at a high level of architectural and artistic achievement. Keeping within the late Baroque style of the day, they also depict distinctive innovations in town planning and urban building.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1024.jpg",
+   "title": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1024",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1024",
+ "transport": {
+  "airports": [
+   {
+    "name": "Comiso Airport",
+    "iata": "CIY",
+    "city": "Comiso",
+    "country": "IT",
+    "lat": 36.99583,
+    "lon": 14.60889,
+    "type": "medium_airport",
+    "distance_km": 44.0
+   },
+   {
+    "name": "Catania-Fontanarossa Airport",
+    "iata": "CTA",
+    "city": "Catania",
+    "country": "IT",
+    "lat": 37.466801,
+    "lon": 15.0664,
+    "type": "large_airport",
+    "distance_km": 64.9
+   },
+   {
+    "name": "Malta International Airport",
+    "iata": "MLA",
+    "city": "Valletta",
+    "country": "MT",
+    "lat": 35.845932,
+    "lon": 14.491546,
+    "type": "large_airport",
+    "distance_km": 126.9
+   }
+  ],
+  "nearest_airport_km": 44.0,
+  "distance_beijing_km": 8327.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1024"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

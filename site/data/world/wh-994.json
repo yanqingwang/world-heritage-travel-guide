@@ -1,0 +1,176 @@
+{
+ "id": "wh-994",
+ "unesco_id": "994",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 194,
+ "popularity_score": 64862,
+ "country": "LT",
+ "country_zh": "立陶宛",
+ "country_en": "Lithuania",
+ "countries": [
+  {
+   "iso2": "LT",
+   "zh": "立陶宛",
+   "en": "Lithuania"
+  },
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "Klaipeda Region, Neringa and Klaipeda (Lithuania); Kaliningrad Region, Zelenogradsk District (Russian Federation)",
+ "subdivision_iso": "LT-KL",
+ "subdivision_zh": "克萊佩達縣",
+ "subdivision_en": "Klaipėda County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "库尔斯沙嘴",
+ "name_zh_source": "unesco_official",
+ "name_en": "Curonian Spit",
+ "name_local": "Kuršių nerija",
+ "local_lang": "lt",
+ "local_lang_name": "Lithuanian",
+ "slug": "994-curonian_spit",
+ "lat": 55.274444444,
+ "lon": 20.970833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)",
+ "year": "2000",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "这个延伸出来的沙丘半岛长98公里，宽0.4-4公里，史前时代就有人类居住。自古以来，这里受到了海风、潮汐等自然力量的威胁，由于一代又一代的人通过不断的造林固沙工程与沙嘴的侵蚀进行搏斗，使遗址如今得以存在。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Kur̃šių nerijà (vok. Kurische Nehrung, rus. Куршская коса) – pusiasalis su smėlio kopomis, skiriantis Kuršių marias nuo Baltijos jūros. Kuršių nerija 2000 m. įtraukta į UNESCO pasaulio paveldo sąrašą. Šiaurinė nerijos pusė priklauso Lietuvos Respublikai (šiaurinis pakraštys – Klaipėdos miesto, o likusi dalis – Neringos miesto savivaldybėms). Kita dalis, kurioje yra Pilkopa, Rasytė, Šarkuva ir kai kurios kitos mažesnės gyvenvietės, priklauso Rusijos Federacijos Kaliningrado sričiai. Išilgai Nerijos nutiestas vienintelis pusiasalio krašto kelias 167 Smiltynė–Nida . Kuršių nerija – saugoma teritorija, joje įkurti Kuršių nerijos nacionalinis parkas Lietuvos dalyje ir Kuršių nerijos nacionalinis parkas Kaliningrado srityje.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Curonian%20Spit%20NP%2005-2017%20img15%20Epha%20Dune.jpg?width=1280",
+   "title": "Curonian Spit NP 05-2017 img15 Epha Dune.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Curonian%20Spit%20NP%2005-2017%20img15%20Epha%20Dune.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_994.jpg",
+   "title": "Curonian Spit",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/994",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/994",
+ "transport": {
+  "airports": [
+   {
+    "name": "Khrabrovo Airport",
+    "iata": "KGD",
+    "city": "Kaliningrad",
+    "country": "RU",
+    "lat": 54.89161,
+    "lon": 20.598559,
+    "type": "large_airport",
+    "distance_km": 48.7
+   },
+   {
+    "name": "Palanga International Airport",
+    "iata": "PLQ",
+    "city": "Palanga",
+    "country": "LT",
+    "lat": 55.973202,
+    "lon": 21.093901,
+    "type": "large_airport",
+    "distance_km": 78.1
+   },
+   {
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "iata": "GDN",
+    "city": "Gdańsk",
+    "country": "PL",
+    "lat": 54.377602,
+    "lon": 18.4662,
+    "type": "large_airport",
+    "distance_km": 188.9
+   }
+  ],
+  "nearest_airport_km": 48.7,
+  "distance_beijing_km": 6811.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LT",
+  "country_zh": "立陶宛",
+  "country_en": "Lithuania",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LT",
+   "country_zh": "立陶宛",
+   "country_en": "Lithuania",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "lt",
+  "local_lang_name": "Lithuanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 61
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/994"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curonian%20Spit"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

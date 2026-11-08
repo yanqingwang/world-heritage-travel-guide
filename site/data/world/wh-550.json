@@ -1,0 +1,162 @@
+{
+ "id": "wh-550",
+ "unesco_id": "550",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1106,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Siena, Tuscany",
+ "subdivision_iso": "IT-SI",
+ "subdivision_zh": "锡耶纳省",
+ "subdivision_en": "Province of Siena",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣吉米尼亚诺历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of San Gimignano",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "550-historic_centre_of_san_gimignano",
+ "lat": 43.467057116,
+ "lon": 11.042804439,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "美丽的圣吉米尼亚诺坐落在托斯卡纳，在佛罗伦萨南部56公里处，是往返于弗朗西斯科和罗马之间朝拜圣者的重要物资补给地。当时控制这个城市的贵族家庭，在这里建造了72座塔楼（高约50米）以表明他们的富有和权力。虽然只有14座残存了下来，圣吉米尼亚诺仍然保留了它的封建基调和外貌。这座城市同时保留了几部14世纪至15世纪时期意大利的艺术杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "'San Gimignano delle belle Torri' is in Tuscany, 56 km south of Florence. It served as an important relay point for pilgrims travelling to or from Rome on the Via Francigena. The patrician families who controlled the town built around 72 tower-houses (some as high as 50 m) as symbols of their wealth and power. Although only 14 have survived, San Gimignano has retained its feudal atmosphere and appearance. The town also has several masterpieces of 14th- and 15th-century Italian art.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Gimignano%20-%20Piazza%20della%20Cisterna%20da%20torre%20grossa.JPG?width=1280",
+   "title": "San Gimignano - Piazza della Cisterna da torre grossa.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:San%20Gimignano%20-%20Piazza%20della%20Cisterna%20da%20torre%20grossa.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_550.jpg",
+   "title": "Historic Centre of San Gimignano",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/550",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/550",
+ "transport": {
+  "airports": [
+   {
+    "name": "Florence Airport, Peretola",
+    "iata": "FLR",
+    "city": "Firenze (FI)",
+    "country": "IT",
+    "lat": 43.808558,
+    "lon": 11.202822,
+    "type": "large_airport",
+    "distance_km": 40.1
+   },
+   {
+    "name": "Pisa International Airport",
+    "iata": "PSA",
+    "city": "Pisa (PI)",
+    "country": "IT",
+    "lat": 43.683899,
+    "lon": 10.3927,
+    "type": "large_airport",
+    "distance_km": 57.7
+   },
+   {
+    "name": "Marina di Campo Airport",
+    "iata": "EBA",
+    "city": "Campo nell'Elba (LI)",
+    "country": "IT",
+    "lat": 42.760871,
+    "lon": 10.239811,
+    "type": "medium_airport",
+    "distance_km": 102.1
+   }
+  ],
+  "nearest_airport_km": 40.1,
+  "distance_beijing_km": 8071.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/550"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

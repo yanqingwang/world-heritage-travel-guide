@@ -1,0 +1,234 @@
+{
+ "id": "cn-1067",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "陕西省",
+ "province_en": "Shaanxi",
+ "province_iso": "CN-SN",
+ "city_zh": "渭南市",
+ "city_en": "Weinan",
+ "name_zh": "渭南市华山风景区",
+ "name_en": "Mount Hua",
+ "name_en_source": "wikipedia",
+ "slug": "weinanshihuashan-1067",
+ "lat": 34.532844,
+ "lon": 110.108226,
+ "address_zh": "陕西省渭南市华阴市华山镇",
+ "address_en": "Huashan Town, Huayin City, Weinan City, Shaanxi Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "华山古称“西岳”，雅称“太华山”，中国五岳之一。华山雄伟奇峻，山势峻峭，壁立千仞，群峰挺秀，自古以来就有“华山天下险”“奇险天下第一山”美誉。",
+ "intro_en": "Mount Hua (simplified Chinese: 华山; traditional Chinese: 華山; pinyin: Huà Shān) is a mountain located near the city of Huayin in Shaanxi Province, about 120 kilometres (75 mi) east of Xi'an. It is the \"Western Mountain\" of the Five Great Mountains of China and has a long history of religious significance. Originally classified as having three peaks, in modern times it is classified as having five main peaks, the highest of which is the South Peak at 2,154.9 metres (7,070 ft).",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hua_Shan.jpg/1280px-Hua_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hua Shan.jpg",
+   "author": "Ondřej Žváček",
+   "license": "CC BY 2.5",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hua_Shan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%E9%99%95%E8%A5%BF%E7%9C%81%E5%8D%8E%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA%E6%9D%A1%E4%BE%8B.pdf/page1-500px-%E9%99%95%E8%A5%BF%E7%9C%81%E5%8D%8E%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "陕西省华山风景名胜区条例.pdf",
+   "author": "Q15902894",
+   "license": "Public domain",
+   "credit": "The file is from National Database of Laws and Regulations maintained by General Office of the Standing Committee of the National People's Congress of People's ",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%99%95%E8%A5%BF%E7%9C%81%E5%8D%8E%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA%E6%9D%A1%E4%BE%8B.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Chinese_Chess_Pavilion_In_Mount_Hua.jpg/1280px-Chinese_Chess_Pavilion_In_Mount_Hua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Chinese Chess Pavilion In Mount Hua.jpg",
+   "author": "Liuboyoupeter",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Chinese_Chess_Pavilion_In_Mount_Hua.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mount_Hua%2C_May%2C_2018-10.jpg/1280px-Mount_Hua%2C_May%2C_2018-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Hua, May, 2018-10.jpg",
+   "author": "Alexey Komarov",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Hua%2C_May%2C_2018-10.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Mount_Hua_in_2026_-_2.jpg/1280px-Mount_Hua_in_2026_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Hua in 2026 - 2.jpg",
+   "author": "Renek78",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Hua_in_2026_-_2.jpg"
+  }
+ ],
+ "web": "http://www.chinahuashan.com/",
+ "booking": "http://www.chinahuashan.com/front/reserveCenter.htm",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yuncheng Yanhu International Airport",
+    "iata": "YCU",
+    "city": "Yuncheng (Yanhu)",
+    "country": "CN",
+    "lat": 35.117823,
+    "lon": 111.034023,
+    "type": "large_airport",
+    "distance_km": 106.6
+   },
+   {
+    "name": "Xi'an Xianyang International Airport",
+    "iata": "XIY",
+    "city": "Xi'an",
+    "country": "CN",
+    "lat": 34.442207,
+    "lon": 108.762385,
+    "type": "large_airport",
+    "distance_km": 123.8
+   },
+   {
+    "name": "Luoyang Beijiao Airport",
+    "iata": "LYA",
+    "city": "Luoyang (Laocheng)",
+    "country": "CN",
+    "lat": 34.7411,
+    "lon": 112.388,
+    "type": "large_airport",
+    "distance_km": 209.8
+   }
+  ],
+  "nearest_airport_km": 106.6,
+  "high_speed_stations": [
+   {
+    "name": "华山北",
+    "name_en": "Huashan North",
+    "lat": 34.5832012,
+    "lon": 110.0930339,
+    "distance_km": 5.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "孟塬",
+    "name_en": "Mengyuan",
+    "lat": 34.5561587,
+    "lon": 110.1350056,
+    "distance_km": 3.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "华山",
+    "name_en": "Huashan",
+    "lat": 34.5225441,
+    "lon": 110.0610374,
+    "distance_km": 4.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "桃下",
+    "name_en": null,
+    "lat": 34.5243273,
+    "lon": 109.9994419,
+    "distance_km": 10.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "喜来登酒店",
+   "name_en": "Sheraton Huasan Mouuntain",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5324229,
+   "lon": 110.083766,
+   "distance_km": 2.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Luke Meisu",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.544957,
+   "lon": 110.0996435,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "陕西地建南山(华山)温泉酒店",
+   "name_en": "Shaanxi Dijian Nanshan (Huashan) Hot Spring Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5441829,
+   "lon": 110.0908716,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "女娲山庄",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.6023097,
+   "lon": 110.2902756,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "潼关女娲泉温泉度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.602099,
+   "lon": 110.2902515,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 6,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/华山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

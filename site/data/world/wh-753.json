@@ -1,0 +1,154 @@
+{
+ "id": "wh-753",
+ "unesco_id": "753",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1147,
+ "popularity_score": null,
+ "country": "MA",
+ "country_zh": "摩洛哥",
+ "country_en": "Morocco",
+ "countries": [
+  {
+   "iso2": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco"
+  }
+ ],
+ "region": "Province of Essaouira, Tensift Region",
+ "subdivision_iso": "MA-07",
+ "subdivision_zh": "",
+ "subdivision_en": "Marrakech-Safi",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "索维拉城（原摩加多尔）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Medina of Essaouira (formerly Mogador)",
+ "name_local": "مدينة الصويرة (قديمًا موغادور)",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "753-medina_of_essaouira_(formerly_mogador)",
+ "lat": 31.51305556,
+ "lon": -9.76972222,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "索维拉城是一个典型的18世纪晚期发展起来的北非防御港口城市，城市以同时期欧洲防御城堡为蓝本，加上北非地方特点建造而成。自从城市建成开始，索维拉城就成为重要的国际贸易海港，连接着摩洛哥以及撒哈拉内陆地区与欧洲和世界其他国家的贸易往来。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Essaouira is an exceptional example of a late-18th-century fortified town, built according to the principles of contemporary European military architecture in a North African context. Since its foundation, it has been a major international trading seaport, linking Morocco and its Saharan hinterland with Europe and the rest of the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تُعتبر الصويرة المثال الفريد للمدينة المحصنة التي تعود الى نهاية القرن الثامن عشر. وقد بُنيت في أفريقيا الشمالية وفقًا لمبادئ الهندسة المعمارية العسكرية الاوروبية التي كانت سائدةً في ذلك العصر. فمنذ تأسيسها بقيت مرفأً تجاريًّا عالميًّا من الباب الأول، اذ تربط المغرب وداخل البلاد الصحراوية بأوروبا وباقي العالم.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_753.jpg",
+   "title": "Medina of Essaouira (formerly Mogador)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/753",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/753",
+ "transport": {
+  "airports": [
+   {
+    "name": "Essaouira-Mogador Airport",
+    "iata": "ESU",
+    "city": "Essaouira",
+    "country": "MA",
+    "lat": 31.397499,
+    "lon": -9.68167,
+    "type": "medium_airport",
+    "distance_km": 15.3
+   },
+   {
+    "name": "Al Massira Airport",
+    "iata": "AGA",
+    "city": "Agadir (Temsia)",
+    "country": "MA",
+    "lat": 30.322478,
+    "lon": -9.412003,
+    "type": "large_airport",
+    "distance_km": 136.7
+   },
+   {
+    "name": "Marrakesh Menara Airport",
+    "iata": "RAK",
+    "city": "Marrakesh",
+    "country": "MA",
+    "lat": 31.604807,
+    "lon": -8.035788,
+    "type": "large_airport",
+    "distance_km": 164.6
+   }
+  ],
+  "nearest_airport_km": 15.3,
+  "distance_beijing_km": 10332.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MA",
+  "country_zh": "摩洛哥",
+  "country_en": "Morocco",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MA",
+   "country_zh": "摩洛哥",
+   "country_en": "Morocco",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/753"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-675",
+ "unesco_id": "675",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 447,
+ "popularity_score": 16411,
+ "country": "SV",
+ "country_zh": "萨尔瓦多",
+ "country_en": "El Salvador",
+ "countries": [
+  {
+   "iso2": "SV",
+   "zh": "萨尔瓦多",
+   "en": "El Salvador"
+  }
+ ],
+ "region": "Department of La Libertad, Canton Joya de Ceren, jurisdiction of San Juan Opico",
+ "subdivision_iso": "SV-LI",
+ "subdivision_zh": "拉利伯塔德省",
+ "subdivision_en": "La Libertad Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "霍亚－德赛伦考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Joya de Cerén Archaeological Site",
+ "name_local": "Sitio arqueológico de Joya de Cerén",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "675-joya_de_cerén_archaeological_site",
+ "lat": 13.827494444,
+ "lon": -89.356158333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "霍亚－德赛伦考古遗址是古拉丁美洲的一个农庄，像意大利的庞培和赫库兰尼姆一样，于公元600年左右遭到火山喷发掩埋。正是由于这种特殊的保存方式，使得人们现在可以从此了解当时在这块土地上耕作的中美洲人的日常生活。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Joya de Cerén was a pre-Hispanic farming community that, like Pompeii and Herculaneum in Italy, was buried under an eruption of the Laguna Caldera volcano c. AD 600. Because of the exceptional condition of the remains, they provide an insight into the daily lives of the Central American populations who worked the land at that time.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Al igual que las ciudades romanas de Pompeya y Herculano, la comunidad agrícola prehispánica de Joya de Cerén fue repentinamente sepultada por una erupción del volcán Laguna Caldera hacia el año 600. Gracias a su perfecto estado de conservación, los vestigios de este sitio aportan un testimonio excepcional sobre la vida cotidiana de los agricultores mesoamericanos de esa época.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ES%20Joya%20Ceren%2005%202012%20Estructura%209%20Area%202%20Tamazcal%20wide%20angle%201479.JPG?width=1280",
+   "title": "ES Joya Ceren 05 2012 Estructura 9 Area 2 Tamazcal wide angle 1479.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:ES%20Joya%20Ceren%2005%202012%20Estructura%209%20Area%202%20Tamazcal%20wide%20angle%201479.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_675.jpg",
+   "title": "Joya de Cerén Archaeological Site",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/675",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/675",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ilopango International Airport",
+    "iata": "ILS",
+    "city": "San Salvador",
+    "country": "SV",
+    "lat": 13.6995,
+    "lon": -89.119904,
+    "type": "medium_airport",
+    "distance_km": 29.2
+   },
+   {
+    "name": "El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez",
+    "iata": "SAL",
+    "city": "San Salvador (San Luis Talpa)",
+    "country": "SV",
+    "lat": 13.44447,
+    "lon": -89.055784,
+    "type": "large_airport",
+    "distance_km": 53.5
+   },
+   {
+    "name": "La Aurora International Airport",
+    "iata": "GUA",
+    "city": "Guatemala City",
+    "country": "GT",
+    "lat": 14.582896,
+    "lon": -90.527515,
+    "type": "large_airport",
+    "distance_km": 151.7
+   }
+  ],
+  "nearest_airport_km": 29.2,
+  "distance_beijing_km": 13471.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SV",
+  "country_zh": "萨尔瓦多",
+  "country_en": "El Salvador",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SV",
+   "country_zh": "萨尔瓦多",
+   "country_en": "El Salvador",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/675"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joya%20de%20Cer%C3%A9n"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

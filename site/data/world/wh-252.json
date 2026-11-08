@@ -1,0 +1,283 @@
+{
+ "id": "wh-252",
+ "unesco_id": "252",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 3,
+ "popularity_score": 1864812,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "Uttar Pradesh, Agra District",
+ "subdivision_iso": "IN-UP",
+ "subdivision_zh": "北方邦",
+ "subdivision_en": "Uttar Pradesh",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "泰姬陵",
+ "name_zh_source": "unesco_official",
+ "name_en": "Taj Mahal",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "252-taj_mahal",
+ "lat": 27.175,
+ "lon": 78.041944444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "泰姬陵是一座由白色大理石建成的巨大陵墓清真寺，是莫卧儿皇帝沙贾汗(Shah Jahan)为纪念他心爱的妃子于1631年至1648年在阿格拉修建的。泰姬陵是印度穆斯林艺术的瑰宝奇葩，是世界遗产中令世人赞叹的经典杰作之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj%20Mahal%2C%20Agra%2C%20India%20edit3.jpg?width=1280",
+   "title": "Taj Mahal, Agra, India edit3.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Taj%20Mahal%2C%20Agra%2C%20India%20edit3.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Taj Mahal.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Taj_Mahal.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/20180807014908_IMG_1114-01.jpg/1280px-20180807014908_IMG_1114-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20180807014908 IMG 1114-01.jpg",
+   "author": "Bijay Roy",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20180807014908_IMG_1114-01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_corner_from_Taj_Mahal_delight_to_the_eyes..jpg/1280px-A_corner_from_Taj_Mahal_delight_to_the_eyes..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A corner from Taj Mahal delight to the eyes..jpg",
+   "author": "Photowalikanya",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_corner_from_Taj_Mahal_delight_to_the_eyes..jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/A_damaged_portrait_of_Prince_Shah_Shujah_%28the_secomd_son_of_Shah_Jahan%29%2C_17th_Century_CE%2C_Taj_Mahal_Museum%2C_Agra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A damaged portrait of Prince Shah Shujah (the secomd son of Shah Jahan), 17th Century CE, Taj Mahal Museum, Agra.jpg",
+   "author": "SpeakingArch",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_damaged_portrait_of_Prince_Shah_Shujah_%28the_secomd_son_of_Shah_Jahan%29%2C_17th_Century_CE%2C_Taj_Mahal_Museum%2C_Agra.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/252",
+ "transport": {
+  "airports": [
+   {
+    "name": "Agra Airport / Agra Air Force Station",
+    "iata": "AGR",
+    "city": "Agra",
+    "country": "IN",
+    "lat": 27.157975,
+    "lon": 77.961025,
+    "type": "medium_airport",
+    "distance_km": 8.2
+   },
+   {
+    "name": "Gwalior Airport",
+    "iata": "GWL",
+    "city": "Gwalior",
+    "country": "IN",
+    "lat": 26.29330062866211,
+    "lon": 78.22779846191406,
+    "type": "medium_airport",
+    "distance_km": 99.8
+   },
+   {
+    "name": "Noida International Airport",
+    "iata": "DXN",
+    "city": "Gautam Buddha Nagar",
+    "country": "IN",
+    "lat": 28.179868,
+    "lon": 77.611843,
+    "type": "large_airport",
+    "distance_km": 119.5
+   }
+  ],
+  "nearest_airport_km": 8.2,
+  "distance_beijing_km": 3817.8,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Yamuna Bridge",
+    "name_en": "Yamuna Bridge",
+    "lat": 27.1921557,
+    "lon": 78.0389458,
+    "distance_km": 1.9,
+    "operator": "NCR"
+   },
+   {
+    "name": "Agra Fort",
+    "name_en": "Agra Fort",
+    "lat": 27.1830031,
+    "lon": 78.0187128,
+    "distance_km": 2.5,
+    "operator": "NCR"
+   },
+   {
+    "name": "Agra City",
+    "name_en": null,
+    "lat": 27.1941308,
+    "lon": 78.0155191,
+    "distance_km": 3.4,
+    "operator": "NCR"
+   },
+   {
+    "name": "Raja Ki Mandi",
+    "name_en": "Raja Ki Mandi",
+    "lat": 27.1940261,
+    "lon": 77.9970749,
+    "distance_km": 4.9,
+    "operator": "NCR"
+   },
+   {
+    "name": "Agra Cantonment",
+    "name_en": "Agra Cantonment",
+    "lat": 27.1589527,
+    "lon": 77.9900478,
+    "distance_km": 5.4,
+    "operator": "North Central Railway"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "The Oberoi Amarvilas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.167935,
+   "lon": 78.0489443,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ITC Mughal",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1610537,
+   "lon": 78.0439887,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "TajView",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1609675,
+   "lon": 78.0400797,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Agra",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 27.1515883,
+   "lon": 78.0508426,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott Agra",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1563143,
+   "lon": 78.0596665,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 176
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/252"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Taj%20Mahal"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

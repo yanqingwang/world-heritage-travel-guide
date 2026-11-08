@@ -1,0 +1,158 @@
+{
+ "id": "wh-1427",
+ "unesco_id": "1427",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 957,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IT-82",
+ "subdivision_zh": "西西里岛",
+ "subdivision_en": "Sicily",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "埃特纳火山",
+ "name_zh_source": "curated",
+ "name_en": "Mount Etna",
+ "name_local": "Parco dell'Etna",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "1427-mount_etna",
+ "lat": 37.76527778,
+ "lon": 15.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2013",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "埃特纳火山是一个标志性景点，位于西西里岛东海岸埃特纳火山的最高处，占地 19,237 公顷无人居住的土地。埃特纳火山是地中海岛屿上最高的山峰，也是世界上最活跃的成层火山。这座火山的喷发历史可以追溯到 50 万年前，至少有 2,700 年的火山活动记录。埃特纳火山几乎持续不断的喷发活动继续影响着火山学、地球物理学和其他地球科学学科。这座火山还支持重要的陆地生态系统，包括特有的动植物群，其活动使其成为研究生态和生物过程的天然实验室。山顶火山口、火山灰锥、熔岩流和巴耶德博韦洼地等多样化且可到达的火山特征使该地点成为研究和教育的主要目的地。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Mount Etna is an iconic site encompassing 19,237 uninhabited hectares on the highest part of Mount Etna, on the eastern coast of Sicily. Mount Etna is the highest Mediterranean island mountain and the most active stratovolcano in the world. The eruptive history of the volcano can be traced back 500,000 years and at least 2,700 years of this activity has been documented. The almost continuous eruptive activity of Mount Etna continues to influence volcanology, geophysics and other Earth science disciplines. The volcano also supports important terrestrial ecosystems including endemic flora and fauna and its activity makes it a natural laboratory for the study of ecological and biological processes. The diverse and accessible range of volcanic features such as summit craters, cinder cones, lava flows and the Valle de Bove depression have made the site a prime destination for research and education.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Il parco dell'Etna è un'area naturale protetta della Regione Siciliana istituita nel 1987, con il Decreto del Presidente della Regione Rino Nicolosi.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alba%20alla%20Valle%20del%20Bove%20-%20Etna.jpg?width=1280",
+   "title": "Alba alla Valle del Bove - Etna.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Alba%20alla%20Valle%20del%20Bove%20-%20Etna.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1427.jpg",
+   "title": "Mount Etna",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1427",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1427",
+ "transport": {
+  "airports": [
+   {
+    "name": "Catania-Fontanarossa Airport",
+    "iata": "CTA",
+    "city": "Catania",
+    "country": "IT",
+    "lat": 37.466801,
+    "lon": 15.0664,
+    "type": "large_airport",
+    "distance_km": 33.7
+   },
+   {
+    "name": "Reggio Calabria Airport",
+    "iata": "REG",
+    "city": "Reggio Calabria",
+    "country": "IT",
+    "lat": 38.071201,
+    "lon": 15.6516,
+    "type": "medium_airport",
+    "distance_km": 66.5
+   },
+   {
+    "name": "Comiso Airport",
+    "iata": "CIY",
+    "city": "Comiso",
+    "country": "IT",
+    "lat": 36.99583,
+    "lon": 14.60889,
+    "type": "medium_airport",
+    "distance_km": 92.3
+   }
+  ],
+  "nearest_airport_km": 33.7,
+  "distance_beijing_km": 8263.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1427"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

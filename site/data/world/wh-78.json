@@ -1,0 +1,300 @@
+{
+ "id": "wh-78",
+ "unesco_id": "78",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 76,
+ "popularity_score": 180752,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "Philadelphia, Commonwealth of Pennsylvania",
+ "subdivision_iso": "US-PA",
+ "subdivision_zh": "宾夕法尼亚州",
+ "subdivision_en": "Pennsylvania",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "独立大厅",
+ "name_zh_source": "unesco_official",
+ "name_en": "Independence Hall",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "78-independence_hall",
+ "lat": 39.948888888,
+ "lon": -75.15,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "1776年《独立宣言》和1787年《美利坚合众国宪法》都在费城这座独立大厅里签署。这两份以自由和民主为原则的文件不仅在美国历史上发挥重要作用，同时也对世界各国法律的制定产生了深远影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Declaration of Independence (1776) and the Constitution of the United States (1787) were both signed in this building in Philadelphia. The universal principles of freedom and democracy set forth in these documents are of fundamental importance to American history and have also had a profound impact on law-makers around the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20the%20Independence%20Hall%2C%20Aug%202019.jpg?width=1280",
+   "title": "Exterior of the Independence Hall, Aug 2019.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Exterior%20of%20the%20Independence%20Hall%2C%20Aug%202019.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%27Independence_Hall%27_by_Tania_Dey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "'Independence Hall' by Tania Dey.JPG",
+   "author": "Tania Dey",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Independence_Hall%27_by_Tania_Dey.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/037_Philadelphia_PA_%28Independence_Hall%29.jpg/1280px-037_Philadelphia_PA_%28Independence_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "037 Philadelphia PA (Independence Hall).jpg",
+   "author": "Ronen Perry",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:037_Philadelphia_PA_%28Independence_Hall%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/LOSSING%281876%29_p018_THE_STATE_HOUSE_IN_PHILADELPHIA%2C_1778.jpg/1280px-LOSSING%281876%29_p018_THE_STATE_HOUSE_IN_PHILADELPHIA%2C_1778.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "LOSSING(1876) p018 THE STATE HOUSE IN PHILADELPHIA, 1778.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "This file is from the Mechanical Curator collection , a set of over 1 million images scanned from out-of-copyright books and released to Flickr Commons by the B",
+   "source": "https://commons.wikimedia.org/wiki/File:LOSSING%281876%29_p018_THE_STATE_HOUSE_IN_PHILADELPHIA%2C_1778.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/PRR%281893%29_p061_PHILADELPHIA_-_INDEPENDENCE_HALL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "PRR(1893) p061 PHILADELPHIA - INDEPENDENCE HALL.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "This file is from the Mechanical Curator collection , a set of over 1 million images scanned from out-of-copyright books and released to Flickr Commons by the B",
+   "source": "https://commons.wikimedia.org/wiki/File:PRR%281893%29_p061_PHILADELPHIA_-_INDEPENDENCE_HALL.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/78",
+ "transport": {
+  "airports": [
+   {
+    "name": "Philadelphia International Airport",
+    "iata": "PHL",
+    "city": "Philadelphia",
+    "country": "US",
+    "lat": 39.871899,
+    "lon": -75.241096,
+    "type": "large_airport",
+    "distance_km": 11.6
+   },
+   {
+    "name": "Trenton Mercer Airport",
+    "iata": "TTN",
+    "city": "Ewing Township",
+    "country": "US",
+    "lat": 40.276699,
+    "lon": -74.813499,
+    "type": "medium_airport",
+    "distance_km": 46.3
+   },
+   {
+    "name": "Wilmington Airport",
+    "iata": "ILG",
+    "city": "Wilmington",
+    "country": "US",
+    "lat": 39.678699,
+    "lon": -75.606499,
+    "type": "medium_airport",
+    "distance_km": 49.2
+   }
+  ],
+  "nearest_airport_km": 11.6,
+  "distance_beijing_km": 11044.3,
+  "ferry_terminals": [
+   {
+    "name": "Penn’s Landing",
+    "name_en": null,
+    "lat": 39.946224,
+    "lon": -75.1396331,
+    "distance_km": 0.9,
+    "operator": null
+   },
+   {
+    "name": "Camden",
+    "name_en": null,
+    "lat": 39.9442611,
+    "lon": -75.132616,
+    "distance_km": 1.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Jefferson Station",
+    "name_en": "Jefferson Station",
+    "lat": 39.9527752,
+    "lon": -75.1580261,
+    "distance_km": 0.8,
+    "operator": "SEPTA"
+   },
+   {
+    "name": "Suburban Station",
+    "name_en": null,
+    "lat": 39.9542026,
+    "lon": -75.1673687,
+    "distance_km": 1.6,
+    "operator": "SEPTA"
+   },
+   {
+    "name": "Adventure Aquarium",
+    "name_en": null,
+    "lat": 39.9456573,
+    "lon": -75.1287362,
+    "distance_km": 1.8,
+    "operator": "New Jersey Transit"
+   },
+   {
+    "name": "Entertainment Center",
+    "name_en": null,
+    "lat": 39.940886,
+    "lon": -75.1284981,
+    "distance_km": 2.0,
+    "operator": "New Jersey Transit"
+   },
+   {
+    "name": "Cooper Street–Rutgers",
+    "name_en": null,
+    "lat": 39.9476406,
+    "lon": -75.1248002,
+    "distance_km": 2.2,
+    "operator": "New Jersey Transit"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Renaissance Philadelphia Downtown Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Renaissance",
+   "lat": 39.9490507,
+   "lon": -75.1478835,
+   "distance_km": 0.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wyndham Philadelphia Historic District",
+   "name_en": null,
+   "stars": null,
+   "brand": "Wyndham",
+   "lat": 39.9520461,
+   "lon": -75.1473347,
+   "distance_km": 0.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Independence Park Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 39.9488376,
+   "lon": -75.1455821,
+   "distance_km": 0.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Philadelphia Marriott Old City",
+   "name_en": null,
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 39.9461726,
+   "lon": -75.1436241,
+   "distance_km": 0.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Philadelphia at Penn's Landing",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 39.9454624,
+   "lon": -75.1413504,
+   "distance_km": 0.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 47
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/78"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Independence%20Hall"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

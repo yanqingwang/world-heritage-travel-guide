@@ -1,0 +1,162 @@
+{
+ "id": "wh-380",
+ "unesco_id": "380",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 610,
+ "popularity_score": 9157,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Island of La Gomera, Province of Santa Cruz de Tenerife, Canary Islands",
+ "subdivision_iso": "ES-CN",
+ "subdivision_zh": "加那利群岛",
+ "subdivision_en": "Canary Islands",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加拉霍艾国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Garajonay National Park",
+ "name_local": "Parque Nacional de Garajonay",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "380-garajonay_national_park",
+ "lat": 28.12625,
+ "lon": -17.23722222,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "加拉霍艾国家公园位于加那利群岛的拉戈梅岛中心，该国家公园中70%的面积覆盖着月桂树森林。在加拉霍艾国家公园中，泉水和数不清的溪流使当地的植物得以茂密成长，公园中的植被与第三纪时期的植物生长情况颇为相似，但由于剧烈的气候变化，这种植被分布在南欧已经基本消失了。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Laurel forest covers some 70% of this park, situated in the middle of the island of La Gomera in the Canary Islands archipelago. The presence of springs and numerous streams assures a lush vegetation resembling that of the Tertiary, which, due to climatic changes, has largely disappeared from southern Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado en el centro de la Isla de La Gomera, en el archipiélago de las Canarias, este parque natural posee un bosque de laureles que cubre casi las tres cuartas partes de su superficie. La humedad emanada de sus numerosos manantiales y arroyos propicia el crecimiento de una exuberante vegetación análoga a la de la Era Terciaria, que ha desparecido por completo de la Europa Meridional, debido a los cambios climáticos.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bosque%20Encantado%2C%20Parque%20nacional%20de%20Garajonay%2C%20La%20Gomera%2C%20Espa%C3%B1a%2C%202012-12-14%2C%20DD%2019.jpg?width=1280",
+   "title": "Bosque Encantado, Parque nacional de Garajonay, La Gomera, España, 2012-12-14, DD 19.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bosque%20Encantado%2C%20Parque%20nacional%20de%20Garajonay%2C%20La%20Gomera%2C%20Espa%C3%B1a%2C%202012-12-14%2C%20DD%2019.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_380.jpg",
+   "title": "Garajonay National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/380",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/380",
+ "transport": {
+  "airports": [
+   {
+    "name": "La Gomera Airport",
+    "iata": "GMZ",
+    "city": "Alajero, La Gomera Island",
+    "country": "ES",
+    "lat": 28.0296,
+    "lon": -17.2146,
+    "type": "small_airport",
+    "distance_km": 11.0
+   },
+   {
+    "name": "Tenerife Sur Airport",
+    "iata": "TFS",
+    "city": "Tenerife",
+    "country": "ES",
+    "lat": 28.0445,
+    "lon": -16.5725,
+    "type": "large_airport",
+    "distance_km": 65.8
+   },
+   {
+    "name": "El Hierro Airport",
+    "iata": "VDE",
+    "city": "El Hierro Island",
+    "country": "ES",
+    "lat": 27.8148,
+    "lon": -17.8871,
+    "type": "medium_airport",
+    "distance_km": 72.6
+   }
+  ],
+  "nearest_airport_km": 11.0,
+  "distance_beijing_km": 11063.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 51
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/380"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Garajonay%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

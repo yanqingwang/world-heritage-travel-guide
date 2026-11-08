@@ -1,0 +1,162 @@
+{
+ "id": "wh-84",
+ "unesco_id": "84",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 318,
+ "popularity_score": 28529,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Yonne, Bourgogne Region",
+ "subdivision_iso": "FR-89",
+ "subdivision_zh": "约讷省",
+ "subdivision_en": "Yonne",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "韦兹莱教堂和山丘",
+ "name_zh_source": "unesco_official",
+ "name_en": "Vézelay, Church and Hill",
+ "name_local": "Basilique et colline de Vézelay",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "84-vézelay,_church_and_hill",
+ "lat": 47.466388888,
+ "lon": 3.748333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "韦兹莱本笃会修道院建于公元9世纪，建成不久后便安置了圣女玛丽亚·马德莱娜(St Mary Magdalene)遗体，从此便成了朝圣要地。1146年，圣贝尔纳多(St Bernard)在此为第二次十字军东征进行了布道。1190年勇猛善战的狮心王理查德和菲利浦二世奥古斯都在此相会，然后踏上了第三次十字军东征的路途。韦兹莱的马德莱大教堂是12世纪的一个修道院式的教堂，柱头和正门都有精美雕刻，是勃艮第罗马式艺术和建筑杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Shortly after its foundation in the 9th century, the Benedictine abbey of Vézelay acquired the relics of St Mary Magdalene and since then it has been an important place of pilgrimage. St Bernard preached the Second Crusade there in 1146 and Richard the Lion-Hearted and Philip II Augustus met there to leave for the Third Crusade in 1190. With its sculpted capitals and portal, the Madeleine of Vézelay – a 12th-century monastic church – is a masterpiece of Burgundian Romanesque art and architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Peu après sa fondation au IXe siècle, le monastère bénédictin a acquis les reliques de sainte Marie-Madeleine et devint, depuis lors, un haut lieu de pèlerinage. Saint Bernard y prêcha la deuxième croisade (1146). Richard Cœur de Lion et Philippe Auguste s'y retrouvèrent au départ de la troisième croisade (1190). La basilique Sainte-Madeleine, église monastique du XIIe siècle, est un chef-d'œuvre de l'art roman bourguignon tant par son architecture que par ses chapiteaux et son portail sculptés.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vezelay-7776-Bearbeitet.jpg?width=1280",
+   "title": "Vezelay-7776-Bearbeitet.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vezelay-7776-Bearbeitet.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_84.jpg",
+   "title": "Vézelay, Church and Hill",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/84",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/84",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dole Tavaux Airport",
+    "iata": "DLE",
+    "city": "Dole",
+    "country": "FR",
+    "lat": 47.038955,
+    "lon": 5.427589,
+    "type": "medium_airport",
+    "distance_km": 135.4
+   },
+   {
+    "name": "Chalons Vatry airport",
+    "iata": "XCR",
+    "city": "Chalons en Champagne",
+    "country": "FR",
+    "lat": 48.77333,
+    "lon": 4.20611,
+    "type": "medium_airport",
+    "distance_km": 149.2
+   },
+   {
+    "name": "Paris-Orly Airport",
+    "iata": "ORY",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "country": "FR",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport",
+    "distance_km": 174.3
+   }
+  ],
+  "nearest_airport_km": 135.4,
+  "distance_beijing_km": 8179.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/84"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/V%C3%A9zelay%20Abbey"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

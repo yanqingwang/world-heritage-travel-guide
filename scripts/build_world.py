@@ -211,6 +211,7 @@ def main() -> int:
     visa = (load_json(RAW / "visa.json", {}) or {}).get("countries", {})
     countries = load_json(RAW / "countries.json", {}) or {}
     geocode = load_json(RAW / "unesco_geocode.json", {}) or {}
+    subdivisions = (load_json(RAW / "unesco_subdivisions.json", {}) or {}).get("items", {})
     previous = {s["id"]: s for s in (load_json(DATA / "world.json", {}) or {}).get("sites", [])}
     sites = unesco.get("sites", [])
 
@@ -231,6 +232,7 @@ def main() -> int:
         prev_site = previous.get(f"wh-{sid}", {})
         rec = wd.get(sid) or {}
         w = wiki.get(sid) or {}
+        sub = subdivisions.get(sid) or {}
         rank_rec = rank.get(sid) or {}
         tier = rank_rec.get("tier") or prev_site.get("tier") or "basic"
         primary = iso[0] if iso else ""
@@ -345,6 +347,11 @@ def main() -> int:
             info_languages = prev_site["info_languages"]
 
         cat = site.get("category", "")
+        sub_iso = (sub.get("iso") or "").upper()
+        # Transnational sites can resolve to a subdivision in the partner
+        # country; only keep a code that belongs to the primary country,
+        # otherwise the country -> subdivision cascade would leak.
+        sub_ok = bool(sub_iso) and sub_iso.startswith(f"{primary.upper()}-")
         images = world_images(
             {**site, "country_en": country_en}, {**rec, "country_en": country_en},
             tier, RAW / "world_images" / f"{sid}_{tier}.json",
@@ -367,6 +374,10 @@ def main() -> int:
                 for c in iso
             ],
             "region": strip_html(site.get("location", "")),
+            "subdivision_iso": sub_iso if sub_ok else "",
+            "subdivision_zh": (sub.get("name_zh") or "") if sub_ok else "",
+            "subdivision_en": (sub.get("name_en") or "") if sub_ok else "",
+            "subdivision_source": (sub.get("source") or "") if sub_ok else "",
             "name_zh": name_zh or "",
             "name_zh_source": name_zh_source,
             "name_en": name_en,

@@ -1,0 +1,161 @@
+{
+ "id": "wh-1182",
+ "unesco_id": "1182",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 909,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "States of Baja California, Baja California Sur, Sonora, Sinaloa, and Nayarit",
+ "subdivision_iso": "MX-BCS",
+ "subdivision_zh": "南下加利福尼亚州",
+ "subdivision_en": "Baja California Sur",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加利福尼亚湾群岛及保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Islands and Protected Areas of the Gulf of California",
+ "name_local": "Islas y áreas protegidas del Golfo de California",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1182-islands_and_protected_areas_of_the_gulf_",
+ "lat": 27.753056,
+ "lon": -111.672778,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "2005",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "该地点由位于墨西哥东北部加利福尼亚湾的 244 个岛屿、小岛和沿海地区组成。科尔特斯海及其岛屿被称为研究物种形成的天然实验室。此外，地球海洋中发生的几乎所有主要海洋过程都存在于该地区，这使其对于研究具有非凡的重要性。该地点是一个引人注目的自然美景之一，周围有崎岖的岛屿、高耸的悬崖和沙滩，与沙漠和周围碧绿海水的绚丽倒影形成鲜明对比。这里拥有 695 种维管植物，比世界遗产名录上的任何海洋和岛屿植物都多。同样引人注目的是鱼类种类的数量：891 种，其中 90 种是特有的。此外，该地点还拥有世界海洋哺乳动物物种总数的 39% 和世界海洋鲸类物种的三分之一。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The site comprises 244 islands, islets and coastal areas that are located in the Gulf of California in north-eastern Mexico. The Sea of Cortez and its islands have been called a natural laboratory for the investigation of speciation. Moreover, almost all major oceanographic processes occurring in the planet’s oceans are present in the property, giving it extraordinary importance for study. The site is one of striking natural beauty in a dramatic setting formed by rugged islands with high cliffs and sandy beaches, which contrast with the brilliant reflection from the desert and the surrounding turquoise waters. It is home to 695 vascular plant species, more than in any marine and insular property on the World Heritage List. Equally exceptional is the number of fish species: 891, 90 of them endemic. The site, moreover, contains 39% of the world’s total number of species of marine mammals and a third of the world’s marine cetacean species.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este sitio del noroeste de México abarca 244 islas, islotes y zonas litorales del golfo de California. El Mar de Cortés y sus islas son un laboratorio natural para el estudio de la especiación y el conocimiento de los procesos de evolución oceánicos y costeros, ya que casi todos ellos se dan en sus parajes. El sitio inscrito es de una excepcional belleza y ofrece a la vista paisajes espectaculares, en los que la cegadora luz del desierto y el color turquesa de las aguas hacen resaltar los acantilados escarpados de las islas y las playas de arena. Alberga además 695 especies botánicas y 891 ictiológicas, de las cuales 90 son endémicas. El número de especies vegetales es muy superior al registrado en los demás sitios insulares y marinos inscritos en la Lista del Patrimonio Mundial. Asimismo, este sitio alberga el 39% y el 33% del total mundial de las especies de mamíferos marinos y de cetáceos, respectivamente.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hast%20Cac%C3%B6la%20desde%20Socaaix%20con%20pangas.jpg?width=1280",
+   "title": "Hast Cacöla desde Socaaix con pangas.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Hast%20Cac%C3%B6la%20desde%20Socaaix%20con%20pangas.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1182.jpg",
+   "title": "Islands and Protected Areas of the Gulf of California",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1182",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1182",
+ "transport": {
+  "airports": [
+   {
+    "name": "General José María Yáñez International Airport",
+    "iata": "GYM",
+    "city": "Guaymas",
+    "country": "MX",
+    "lat": 27.9689998626709,
+    "lon": -110.92500305175781,
+    "type": "medium_airport",
+    "distance_km": 77.3
+   },
+   {
+    "name": "Palo Verde Airport",
+    "iata": "SRL",
+    "city": "Mulegé",
+    "country": "MX",
+    "lat": 27.0927,
+    "lon": -112.0985,
+    "type": "small_airport",
+    "distance_km": 84.6
+   },
+   {
+    "name": "General Ignacio L. Pesqueira International Airport",
+    "iata": "HMO",
+    "city": "Hermosillo",
+    "country": "MX",
+    "lat": 29.092811,
+    "lon": -111.053015,
+    "type": "large_airport",
+    "distance_km": 160.8
+   }
+  ],
+  "nearest_airport_km": 77.3,
+  "distance_beijing_km": 10995.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 15
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1182"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

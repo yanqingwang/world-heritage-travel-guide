@@ -1,0 +1,213 @@
+{
+ "id": "cn-913",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "辽宁省",
+ "province_en": "Liaoning",
+ "province_iso": "CN-LN",
+ "city_zh": "本溪市",
+ "city_en": "Benxi City",
+ "name_zh": "本溪市本溪水洞景区",
+ "name_en": "Benxi Water Caves",
+ "name_en_source": "wikipedia",
+ "slug": "benxishibenxishuidong-913",
+ "lat": 41.307454,
+ "lon": 124.088332,
+ "address_zh": "本溪市本溪满族自治县本桓线27米附近",
+ "address_en": "Near 27 meters of Benhuan Line, Benxi Manchu Autonomous County, Benxi City",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "本溪水洞是数百万年前形成的大型充水溶洞，也是目前发现的长度排名世界第一的地下充水溶洞。景区有古井、龙潭、百步池等诸多的景观，洞口座南面北，内分水、旱二洞进洞口。",
+ "intro_en": "The Benxi Water Caves (Chinese: 本溪水洞; pinyin: Běnxī Shuǐdòng) is a partially submerged cavern system containing a forest of stalactites and stalagmites, located 26 kilometres (16 mi) east of Benxi, Liaoning Province, People's Republic of China. It was made a national park on January 10, 1994, and is open to the public all year round. It was designated an \"AAAAA\"-class tourist attraction by CNTA in 2015. The giant 5-million-year-old cavern complex is lit by colored artificial lighting, and expands over 5,800 m (3.6 mi) with a maximal width of 70 m (230 ft), maximal ceiling height of 38 m (125 ft), an area of 36,000 m2 (8.9 acres) and a volume of over 400,000 m3 (520,000 cu yd). It has a subterranean river 3,000 m (1.9 mi) long, with an average depth of 1.5 m (4.9 ft) and maximal depth of 7 m (23 ft), and a daily discharge of 14,000 m3 (3,700,000 US gal). Currently 2,800 m (1.7 mi) of the cave has been developed for tourism, with a dock 300 m (330 yd) into the entrance and a 1,000 m2 (11,000 sq ft) docking bay large enough to park 40 boats. Temperature inside the cave is constant throughout the year, at around 12 °C (54 °F), though slightly warmer in summer than winter. In addition t",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%E6%9C%AC%E6%BA%AA%E6%B0%B4%E6%B4%9E%E6%B4%9E%E5%8F%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "本溪水洞洞口.jpg",
+   "author": "Unsonique",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%9C%AC%E6%BA%AA%E6%B0%B4%E6%B4%9E%E6%B4%9E%E5%8F%A3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Benxi_Water_Caves_-_By_boat.jpg/1280px-Benxi_Water_Caves_-_By_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Benxi Water Caves - By boat.jpg",
+   "author": "Yoshi Canopus",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Benxi_Water_Caves_-_By_boat.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Benxi_Water_Caves_-_Entrance.jpg/1280px-Benxi_Water_Caves_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Benxi Water Caves - Entrance.jpg",
+   "author": "Yoshi Canopus",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Benxi_Water_Caves_-_Entrance.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Benxi_Watercave_National_Park_banner.jpg/1280px-Benxi_Watercave_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Benxi Watercave National Park banner.jpg",
+   "author": "Drew Lietzow - User: (WT-shared) Zepppep at wts wikivoyage",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Benxi_Watercave_National_Park_banner.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Benxi_Watercave_National_Park_entrance.JPG/1280px-Benxi_Watercave_National_Park_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Benxi Watercave National Park entrance.JPG",
+   "author": "Drew Lietzow - User: (WT-shared) Zepppep at wts wikivoyage",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Benxi_Watercave_National_Park_entrance.JPG"
+  }
+ ],
+ "web": "http://www.lnbenxishuidong.com",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shenyang Taoxian International Airport",
+    "iata": "SHE",
+    "city": "Shenyang",
+    "country": "CN",
+    "lat": 41.6398,
+    "lon": 123.483668,
+    "type": "large_airport",
+    "distance_km": 62.5
+   },
+   {
+    "name": "Anshan Teng'ao Airport / Anshan Air Base",
+    "iata": "AOG",
+    "city": "Anshan",
+    "country": "CN",
+    "lat": 41.105301,
+    "lon": 122.853996,
+    "type": "medium_airport",
+    "distance_km": 105.7
+   },
+   {
+    "name": "Dandong Langtou International Airport",
+    "iata": "DDG",
+    "city": "Dandong (Zhenxing)",
+    "country": "CN",
+    "lat": 40.025453,
+    "lon": 124.28669,
+    "type": "medium_airport",
+    "distance_km": 143.5
+   }
+  ],
+  "nearest_airport_km": 62.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "小市",
+    "name_en": "Xiaoshi",
+    "lat": 41.3087903,
+    "lon": 124.1171711,
+    "distance_km": 2.4,
+    "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+    "high_speed": false
+   },
+   {
+    "name": "偏岭",
+    "name_en": "Pianling",
+    "lat": 41.3861959,
+    "lon": 123.9717555,
+    "distance_km": 13.1,
+    "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+    "high_speed": false
+   },
+   {
+    "name": "牛心台",
+    "name_en": "Niuxintai",
+    "lat": 41.3458313,
+    "lon": 123.8879537,
+    "distance_km": 17.3,
+    "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "万豪国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.3076585,
+   "lon": 123.7823688,
+   "distance_km": 25.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Benxi Internatioin Hotel",
+   "name_en": "Benxi Internatioin Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 41.2868767,
+   "lon": 124.1133904,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "富虹国际酒店",
+   "name_en": "Fuhong International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 41.3117663,
+   "lon": 123.7976939,
+   "distance_km": 24.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "富佳大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.3071244,
+   "lon": 123.7821636,
+   "distance_km": 25.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/本溪水洞"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

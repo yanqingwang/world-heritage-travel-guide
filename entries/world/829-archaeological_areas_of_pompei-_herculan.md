@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iii)(iv)(v)"
 lat: 40.75
 lon: 14.48333333
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:34Z"
 ---
 
 # 庞培、赫库兰尼姆和托雷安农齐亚塔考古区 / Archaeological Areas of Pompei, Herculaneum and Torre Annunziata

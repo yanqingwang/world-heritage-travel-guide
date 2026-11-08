@@ -1,0 +1,138 @@
+{
+ "id": "wh-1268",
+ "unesco_id": "1268",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 861,
+ "popularity_score": 632,
+ "country": "NE",
+ "country_zh": "尼日尔",
+ "country_en": "Niger",
+ "countries": [
+  {
+   "iso2": "NE",
+   "zh": "尼日尔",
+   "en": "Niger"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "NE-1",
+ "subdivision_zh": "阿加德兹大区",
+ "subdivision_en": "Agadez Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿加德兹历史中心",
+ "name_zh_source": "curated",
+ "name_en": "Historic Centre of Agadez",
+ "name_local": "",
+ "local_lang": "ha",
+ "local_lang_name": "Hausa",
+ "slug": "1268-historic_centre_of_agadez",
+ "lat": 16.9744,
+ "lon": 7.9896,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2013",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿加德兹位于撒哈拉沙漠南缘，被称为沙漠门户，发展于 15 世纪和 16 世纪，当时艾尔苏丹国建立，图阿雷格部落在城市中定居，尊重旧营地的边界，从而形成了至今仍然存在的街道模式。这座城市的历史中心是商队贸易的重要十字路口，被分为11个形状不规则的区域。这里有许多土楼和保存完好的宫殿和宗教建筑群，其中包括一座 27m 高的宣礼塔，完全由泥砖制成，是世界上最高的此类建筑。该遗址以至今仍在实行的祖先文化、商业和手工艺传统为标志，并展示了独特而复杂的土建筑范例。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Known as the gateway to the desert, Agadez, on the southern edge of the Sahara desert, developed in the 15 th and 16 th centuries when the Sultanate of Aïr was established and Touareg tribes were sedentarized in the city, respecting the boundaries of old encampments, which gave rise to a street pattern still in place today. The historic centre of the city, an important crossroads of the caravan trade, is divided into 11 quarters with irregular shapes. They contain numerous earthen dwellings and a well-preserved group of palatial and religious buildings including a 27m high minaret made entirely of mud brick, the highest such structure in the world. The site is marked by ancestral cultural, commercial and handicraft traditions still practiced today and presents exceptional and sophisticated examples of earthen architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1997%20277-16A%20Agadez%20hotel.jpg?width=1280",
+   "title": "1997 277-16A Agadez hotel.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:1997%20277-16A%20Agadez%20hotel.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1268.jpg",
+   "title": "Historic Centre of Agadez",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1268",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1268",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zinder Airport",
+    "iata": "ZND",
+    "city": "Zinder",
+    "country": "NE",
+    "lat": 13.779000282287598,
+    "lon": 8.983759880065918,
+    "type": "medium_airport",
+    "distance_km": 371.0
+   }
+  ],
+  "nearest_airport_km": 371.0,
+  "distance_beijing_km": 10462.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NE",
+  "country_zh": "尼日尔",
+  "country_en": "Niger",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NE",
+   "country_zh": "尼日尔",
+   "country_en": "Niger",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "ha",
+  "local_lang_name": "Hausa",
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 7
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1268"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Agadez"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

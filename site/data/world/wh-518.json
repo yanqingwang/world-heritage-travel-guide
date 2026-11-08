@@ -1,0 +1,162 @@
+{
+ "id": "wh-518",
+ "unesco_id": "518",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 589,
+ "popularity_score": 10155,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Vimbodí, Province of Tarragona, Autonomous Community of Catalonia",
+ "subdivision_iso": "ES-CT",
+ "subdivision_zh": "",
+ "subdivision_en": "Catalonia",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "波夫莱特修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Poblet Monastery",
+ "name_local": "Monasterio de Poblet",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "518-poblet_monastery",
+ "lat": 41.380833333,
+ "lon": 1.0825,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "波夫莱特修道院属于西多会修道院，是西班牙最大的修道院之一。修道院的中央是一座12世纪建造的教堂，修道院中还有一处保卫严密的皇家官邸和用于纪念加泰罗尼亚国王们和阿拉贡国王们的万神殿。这座古朴而又宏伟的修道院总能给人留下深刻的印象。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This Cistercian abbey in Catalonia is one of the largest in Spain. At its centre is a 12th-century church. The austere, majestic monastery, which has a fortified royal residence and contains the pantheon of the kings of Catalonia and Aragon, is an impressive sight.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En este sitio, ubicado en Cataluña, se encuentra una de las abadías cistercienses más grandes y completas del mundo. Edificado en torno a la iglesia levantada en el siglo XIII, el monasterio, impresionante por la severa majestuosidad de su arquitectura, cuenta con una mansión real fortificada y alberga el panteón de los reyes de la Corona de Aragón.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monestir%20de%20Poblet.JPG?width=1280",
+   "title": "Monestir de Poblet.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Monestir%20de%20Poblet.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_518.jpg",
+   "title": "Poblet Monastery",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/518",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/518",
+ "transport": {
+  "airports": [
+   {
+    "name": "Reus Airport",
+    "iata": "REU",
+    "city": "Reus",
+    "country": "ES",
+    "lat": 41.147509,
+    "lon": 1.168354,
+    "type": "large_airport",
+    "distance_km": 26.9
+   },
+   {
+    "name": "Lleida-Alguaire Airport",
+    "iata": "ILD",
+    "city": "Lleida",
+    "country": "ES",
+    "lat": 41.728185,
+    "lon": 0.535023,
+    "type": "medium_airport",
+    "distance_km": 59.7
+   },
+   {
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "iata": "BCN",
+    "city": "Barcelona",
+    "country": "ES",
+    "lat": 41.2971,
+    "lon": 2.07846,
+    "type": "large_airport",
+    "distance_km": 83.7
+   }
+  ],
+  "nearest_airport_km": 26.9,
+  "distance_beijing_km": 8878.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 48
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/518"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Poblet%20Abbey"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

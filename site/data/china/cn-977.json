@@ -1,0 +1,192 @@
+{
+ "id": "cn-977",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "辽宁省",
+ "province_en": "Liaoning",
+ "province_iso": "CN-LN",
+ "city_zh": "大连市",
+ "city_en": "Dalian",
+ "name_zh": "大连市老虎滩海洋公园—老虎滩极地馆",
+ "name_en": "Laohutanhaiyanggongyuan",
+ "name_en_source": "pinyin",
+ "slug": "dalianshilaohutanhaiyanggongyuanlaohutanjidiguan-977",
+ "lat": 38.912757,
+ "lon": 121.497166,
+ "address_zh": "大连市中山区滨海中路9号",
+ "address_en": "No. 9, Binhai Middle Road, Zhongshan District, Dalian City",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "大连老虎滩海洋公园拥有极地馆、珊瑚馆、鸟语林、海兽馆、欢乐剧场、群虎雕塑，以及马驷骥根雕艺术馆等景点。这里还有全国最长的大型跨海空中索道，在极地动物馆中，有白鲸、海豚、北极熊、海象、企鹅等百余种极地动物。",
+ "intro_en": "Dalian Laohutan Ocean Park has attractions such as the Polar Pavilion, Coral Pavilion, Birdsong Forest, Marine Animal Pavilion, Happy Theater, Tiger Sculptures, and Ma Siji Root Sculpture Art Museum. There is also the longest large-scale cross-sea aerial ropeway in the country. In the Polar Animal Museum, there are more than 100 kinds of polar animals such as beluga whales, dolphins, polar bears, walruses, and penguins.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Dalian_Laohutan_Ocean_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Dalian Laohutan Ocean Park.JPG",
+   "author": "User:Sinopitt",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Dalian_Laohutan_Ocean_Park.JPG"
+  }
+ ],
+ "web": "http://www.laohutan.com.cn/index.php",
+ "booking": "http://www.laohutan.com.cn/channel.php?id=7",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dalian Zhoushuizi International Airport",
+    "iata": "DLC",
+    "city": "Dalian (Ganjingzi)",
+    "country": "CN",
+    "lat": 38.965719,
+    "lon": 121.538477,
+    "type": "large_airport",
+    "distance_km": 6.9
+   },
+   {
+    "name": "Changhai Dachangshandao Airport",
+    "iata": "CNI",
+    "city": "Dalian (Changhai)",
+    "country": "CN",
+    "lat": 39.266441,
+    "lon": 122.66696,
+    "type": "small_airport",
+    "distance_km": 108.3
+   },
+   {
+    "name": "Yantai Penglai International Airport",
+    "iata": "YNT",
+    "city": "Yantai",
+    "country": "CN",
+    "lat": 37.659724,
+    "lon": 120.978124,
+    "type": "large_airport",
+    "distance_km": 146.5
+   }
+  ],
+  "nearest_airport_km": 6.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "周水子",
+    "name_en": "Zhoushuizi",
+    "lat": 38.9564935,
+    "lon": 121.5609033,
+    "distance_km": 7.4,
+    "operator": "中国铁路沈阳局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "沙河口",
+    "name_en": "Shahekou",
+    "lat": 38.9249358,
+    "lon": 121.5870527,
+    "distance_km": 7.9,
+    "operator": "中国铁路沈阳局集团有限公司 大连车务段",
+    "high_speed": false
+   },
+   {
+    "name": "周家沟",
+    "name_en": null,
+    "lat": 38.9828199,
+    "lon": 121.4733828,
+    "distance_km": 8.1,
+    "operator": "中国铁路沈阳局集团有限公司 大连车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "星海假日酒店",
+   "name_en": "Bayshore Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 38.8792024,
+   "lon": 121.5687091,
+   "distance_km": 7.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "一方城堡酒店",
+   "name_en": "Castell Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 38.8775512,
+   "lon": 121.590277,
+   "distance_km": 9.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "日航饭店",
+   "name_en": "Nikko",
+   "stars": 4,
+   "brand": null,
+   "lat": 38.9261467,
+   "lon": 121.6378102,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大连星海皇冠假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Crowne Plaza",
+   "lat": 38.8952814,
+   "lon": 121.5888341,
+   "distance_km": 8.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大连中远海运洲际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "InterContinental",
+   "lat": 38.919171,
+   "lon": 121.6357794,
+   "distance_km": 12.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 88,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/老虎滩海洋公园"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

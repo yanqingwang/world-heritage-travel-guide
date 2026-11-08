@@ -1,0 +1,283 @@
+{
+ "id": "wh-314",
+ "unesco_id": "314",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 17,
+ "popularity_score": 724435,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Granada, Autonomous Community of Andalusia",
+ "subdivision_iso": "ES-GR",
+ "subdivision_zh": "格拉纳达省",
+ "subdivision_en": "Province of Granada",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "格拉纳达的艾勒汉卜拉、赫内拉利费和阿尔巴济",
+ "name_zh_source": "unesco_official",
+ "name_en": "Alhambra, Generalife and Albayzín, Granada",
+ "name_local": "Alhambra, Generalife y Albaicín de Granada",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "314-alhambra,_generalife_and_albayzín,_grana",
+ "lat": 37.17634,
+ "lon": -3.58821,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "俯瞰着低处的现代城镇，艾勒汉卜拉宫和阿尔巴济坐落在两个相邻的小山上，一直保持着中世纪格拉纳达地区的风貌。艾勒汉卜拉堡垒和民居区的东面是风景秀美的赫内拉利费花园，公元13世纪至14世纪统治着西班牙这部分土地的埃米尔们就曾居住在这里。阿尔巴济住宅区保留着大量摩尔人建筑风格的各式建筑，同时在这些建筑中还可以看到传统的安达卢西亚建筑风格被完美地融入其中。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Rising above the modern lower town, the Alhambra and the Albaycín, situated on two adjacent hills, form the medieval part of Granada. To the east of the Alhambra fortress and residence are the magnificent gardens of the Generalife, the former rural residence of the emirs who ruled this part of Spain in the 13th and 14th centuries. The residential district of the Albaycín is a rich repository of Moorish vernacular architecture, into which the traditional Andalusian architecture blends harmoniously.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situados en dos colinas adyacentes, el Albaicín y la Alhambra forman el núcleo medieval de Granada que domina la ciudad moderna. En la parte este de la fortaleza y residencia real de la Alhambra se hallan los maravillosos jardines del Generalife, casa de campo de los emires que dominaron esta parte de España en los siglos XIII y XV. El barrio del Albaicín conserva un rico conjunto de construcciones hispanomusulmanas armoniosamente fusionadas con la arquitectura tradicional andaluza.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alhambra%20detail.jpg?width=1280",
+   "title": "Alhambra detail.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Alhambra%20detail.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Granada_%C3%9Cbersichtsplan_Alhambra_verkl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Granada Übersichtsplan Alhambra verkl.jpg",
+   "author": "Horst Goertz",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work ( Original text: self-made )",
+   "source": "https://commons.wikimedia.org/wiki/File:Granada_%C3%9Cbersichtsplan_Alhambra_verkl.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Alhambrayalcazaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Alhambrayalcazaba.jpg",
+   "author": "Santylópez",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alhambrayalcazaba.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_Arms_of_the_Emirate_of_Granada_%281013-1492%29.svg/1280px-Coat_of_Arms_of_the_Emirate_of_Granada_%281013-1492%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Coat of Arms of the Emirate of Granada (1013-1492).svg",
+   "author": "Heralder",
+   "license": "CC BY-SA 3.0",
+   "credit": "File:Wernigeroder Wappenbuch 056.jpg & File:Devise Nasride 1.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Emirate_of_Granada_%281013-1492%29.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/LA2-NSRW-1-0069.jpg/1280px-LA2-NSRW-1-0069.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "LA2-NSRW-1-0069.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "Scanned by User:LA2 in October 2005",
+   "source": "https://commons.wikimedia.org/wiki/File:LA2-NSRW-1-0069.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/314",
+ "transport": {
+  "airports": [
+   {
+    "name": "F.G.L. Airport Granada-Jaén Airport",
+    "iata": "GRX",
+    "city": "Granada",
+    "country": "ES",
+    "lat": 37.188702,
+    "lon": -3.77736,
+    "type": "medium_airport",
+    "distance_km": 16.8
+   },
+   {
+    "name": "Málaga-Costa del Sol Airport",
+    "iata": "AGP",
+    "city": "Málaga",
+    "country": "ES",
+    "lat": 36.678234,
+    "lon": -4.500208,
+    "type": "large_airport",
+    "distance_km": 98.2
+   },
+   {
+    "name": "Almería Airport",
+    "iata": "LEI",
+    "city": "Almería",
+    "country": "ES",
+    "lat": 36.843899,
+    "lon": -2.3701,
+    "type": "medium_airport",
+    "distance_km": 114.3
+   }
+  ],
+  "nearest_airport_km": 16.8,
+  "distance_beijing_km": 9490.5,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Recogidas",
+    "name_en": null,
+    "lat": 37.1701453,
+    "lon": -3.6058663,
+    "distance_km": 1.7,
+    "operator": "Metro de Granada"
+   },
+   {
+    "name": "Alcázar Genil",
+    "name_en": null,
+    "lat": 37.1644942,
+    "lon": -3.6024393,
+    "distance_km": 1.8,
+    "operator": "Metro de Granada"
+   },
+   {
+    "name": "Hípica",
+    "name_en": null,
+    "lat": 37.160728,
+    "lon": -3.5965429,
+    "distance_km": 1.9,
+    "operator": "Metro de Granada"
+   },
+   {
+    "name": "Méndez Núñez",
+    "name_en": null,
+    "lat": 37.1765925,
+    "lon": -3.6097845,
+    "distance_km": 1.9,
+    "operator": "Metro de Granada"
+   },
+   {
+    "name": "Universidad",
+    "name_en": null,
+    "lat": 37.1808537,
+    "lon": -3.6085801,
+    "distance_km": 1.9,
+    "operator": "Metro de Granada"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Áurea Washington Irving",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Aurea Hotels",
+   "lat": 37.1741976,
+   "lon": -3.5865738,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Alhambra Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.1739761,
+   "lon": -3.5901391,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eurostars Gran Vía",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Eurostars Hotel Company",
+   "lat": 37.1779317,
+   "lon": -3.5985463,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Claridge Granada",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.1772309,
+   "lon": -3.5992407,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Seda Residences",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hidden Hotels",
+   "lat": 37.176395,
+   "lon": -3.6011607,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 92
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/314"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alhambra"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

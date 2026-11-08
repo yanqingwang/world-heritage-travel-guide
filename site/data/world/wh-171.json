@@ -1,0 +1,162 @@
+{
+ "id": "wh-171",
+ "unesco_id": "171",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1016,
+ "popularity_score": null,
+ "country": "PK",
+ "country_zh": "巴基斯坦",
+ "country_en": "Pakistan",
+ "countries": [
+  {
+   "iso2": "PK",
+   "zh": "巴基斯坦",
+   "en": "Pakistan"
+  }
+ ],
+ "region": "Lahore, Punjab",
+ "subdivision_iso": "PK-PB",
+ "subdivision_zh": "",
+ "subdivision_en": "Punjab",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "拉合尔古堡和夏利玛尔公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Fort and Shalamar Gardens in Lahore",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "171-fort_and_shalamar_gardens_in_lahore",
+ "lat": 31.59027778,
+ "lon": 74.30972222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "辉煌的莫卧尔文化中有两个典范在沙贾汉国王统治时期达到顶峰——包括建有宫殿的要塞和用马赛克和镀金饰品装饰起来的清真寺。在拉合尔城附近的园林都建在三层平台上，带小屋、瀑布和巨大的装饰水池；这些园林的优雅和美丽简直无与伦比。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These are two masterpieces from the time of the brilliant Mughal civilization, which reached its height during the reign of the Emperor Shah Jahan. The fort contains marble palaces and mosques decorated with mosaics and gilt. The elegance of these splendid gardens, built near the city of Lahore on three terraces with lodges, waterfalls and large ornamental ponds, is unequalled.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Lahore%20Forts%20Alamgiri%20Gate%20Picture2%20taken%20at%20night%20-%20July%2020%202005.jpg?width=1280",
+   "title": "The Lahore Forts Alamgiri Gate Picture2 taken at night - July 20 2005.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:The%20Lahore%20Forts%20Alamgiri%20Gate%20Picture2%20taken%20at%20night%20-%20July%2020%202005.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_171.jpg",
+   "title": "Fort and Shalamar Gardens in Lahore",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/171",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/171",
+ "transport": {
+  "airports": [
+   {
+    "name": "Allama Iqbal International Airport",
+    "iata": "LHE",
+    "city": "Lahore",
+    "country": "PK",
+    "lat": 31.521601,
+    "lon": 74.403603,
+    "type": "large_airport",
+    "distance_km": 11.7
+   },
+   {
+    "name": "Sri Guru Ram Das Ji International Airport",
+    "iata": "ATQ",
+    "city": "Amritsar",
+    "country": "IN",
+    "lat": 31.7096,
+    "lon": 74.797302,
+    "type": "large_airport",
+    "distance_km": 48.0
+   },
+   {
+    "name": "Sialkot International Airport",
+    "iata": "SKT",
+    "city": "Sialkot",
+    "country": "PK",
+    "lat": 32.535941,
+    "lon": 74.364623,
+    "type": "large_airport",
+    "distance_km": 105.3
+   }
+  ],
+  "nearest_airport_km": 11.7,
+  "distance_beijing_km": 3883.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PK",
+  "country_zh": "巴基斯坦",
+  "country_en": "Pakistan",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Free eVisa[107][108]",
+  "notes": "Online Visa eligible.[109] Issued in 7-10 business days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PK",
+   "country_zh": "巴基斯坦",
+   "country_en": "Pakistan",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Free eVisa[107][108]",
+   "notes": "Online Visa eligible.[109] Issued in 7-10 business days."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/171"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

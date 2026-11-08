@@ -1,0 +1,162 @@
+{
+ "id": "wh-332",
+ "unesco_id": "332",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1071,
+ "popularity_score": null,
+ "country": "TN",
+ "country_zh": "突尼斯",
+ "country_en": "Tunisia",
+ "countries": [
+  {
+   "iso2": "TN",
+   "zh": "突尼斯",
+   "en": "Tunisia"
+  }
+ ],
+ "region": "Gouvernorat de Nabeul",
+ "subdivision_iso": "TN-21",
+ "subdivision_zh": "纳布勒省",
+ "subdivision_en": "Nabeul Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "科克瓦尼布尼城及其陵园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Punic Town of Kerkuane and its Necropolis",
+ "name_local": "مدينة كركوان البونيقية ومقبرتها",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "332-punic_town_of_kerkuane_and_its_necropoli",
+ "lat": 36.9464,
+ "lon": 11.0992,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座腓尼基城市大约在第一次布尼战争（约公元前250年）期间被废弃，此后罗马人也没有重建这座城市。因此它作为唯一的腓尼基迦太基城市遗址得以保存。其房屋设计构造与复杂缜密的城镇规划标准相符合。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This Phoenician city was probably abandoned during the First Punic War (c. 250 B.C.) and as a result was not rebuilt by the Romans. The remains constitute the only example of a Phoenicio-Punic city to have survived. The houses were built to a standard plan in accordance with a sophisticated notion of town planning.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "هذه المدينة الفينيقية التي هجّرت دون شك خلال الحرب البونيقية الاولى (حولى سنة 250 قبل الميلاد) والتي لم يعد الرومان بناءها تتضمن الآثار الوحيدة لمدينة فينيقية بونيقية متبقية، وقد تم تشييد بيوت هذه المدينة حسب مخطط نموذجي يعتمد اسلوباً متطوراً جداً في التنظيم المدني.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Punic%20Town%20of%20Kerkuane%20and%20its%20Necropolis-130314.jpg?width=1280",
+   "title": "Punic Town of Kerkuane and its Necropolis-130314.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Punic%20Town%20of%20Kerkuane%20and%20its%20Necropolis-130314.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_332.jpg",
+   "title": "Punic Town of Kerkuane and its Necropolis",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/332",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/332",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tunis Carthage International Airport",
+    "iata": "TUN",
+    "city": "Tunis",
+    "country": "TN",
+    "lat": 36.851002,
+    "lon": 10.2272,
+    "type": "large_airport",
+    "distance_km": 78.3
+   },
+   {
+    "name": "Pantelleria Airport",
+    "iata": "PNL",
+    "city": "Pantelleria (TP)",
+    "country": "IT",
+    "lat": 36.816502,
+    "lon": 11.9689,
+    "type": "medium_airport",
+    "distance_km": 78.7
+   },
+   {
+    "name": "Enfidha - Hammamet International Airport",
+    "iata": "NBE",
+    "city": "Enfidha",
+    "country": "TN",
+    "lat": 36.075833,
+    "lon": 10.438611,
+    "type": "medium_airport",
+    "distance_km": 113.4
+   }
+  ],
+  "nearest_airport_km": 78.3,
+  "distance_beijing_km": 8635.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TN",
+  "country_zh": "突尼斯",
+  "country_en": "Tunisia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TN",
+   "country_zh": "突尼斯",
+   "country_en": "Tunisia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/332"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

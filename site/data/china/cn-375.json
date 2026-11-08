@@ -1,0 +1,168 @@
+{
+ "id": "cn-375",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "黑龙江省",
+ "province_en": "Heilongjiang",
+ "province_iso": "CN-HL",
+ "city_zh": "牡丹江市",
+ "city_en": "Mudanjiang City",
+ "name_zh": "牡丹江市镜泊湖景区",
+ "name_en": "Jingpo Lake",
+ "name_en_source": "wikipedia",
+ "slug": "mudanjiangshijingpohu-375",
+ "lat": 44.06864,
+ "lon": 128.960684,
+ "address_zh": "黑龙江省牡丹江市宁安市莫延公路",
+ "address_en": "Moyan Highway, Ning'an City, Mudanjiang City, Heilongjiang Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "镜泊湖国家级风景名胜区，由百里长湖景区、火山口原始森林景区、渤海国上京龙泉府遗址景区三部分组成。景区以湖光山色为主，兼有火山口地下原始森林、地下熔岩隧道等地质奇观及唐代渤海国遗址为代表的历史人文景观，是可供科研、避暑、游览、观光、度假和文化交流的综合性景区。",
+ "intro_en": "Jingpo Lake or Lake Jingpo (Chinese: 镜泊湖; Pinyin: Jìng Pō Hú) is a lake located in the upper reaches of the Mudan River among the Wanda Mountains in Ningan County, Heilongjiang Province, in the People's Republic of China. Earlier names for the lake include Meituohu Lake (湄沱湖), Huhanhai Lake (忽汗海), and Bilten Lake (Manchurian: ᠪᡳᠯᡨᡝᠨ; Chinese: 畢爾騰湖). The length of the lake from north to south is 45 kilometers (28 mi) and the widest distance between east and west is only 6 kilometers (3.7 mi). The area is 95 km2 (37 sq mi) and the storage capacity is 1.63 billion cubic metres (2.13 billion cubic yards). The south part of lake is shallow with the deepest place in the northern part at 62 meters (203 ft). The winter average temperature in Heilongjiang Province is below -20°C (-4°F), but the temperature at the bottom of the water is always above 10°C (50°F). On Titan, the largest moon of the planet Saturn, there is a large surface body of liquid hydrocarbons, Jingpo Lacus, named after Jingpo Lake.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Jingpo_Lake_Maogong_Mountain.JPG/1280px-Jingpo_Lake_Maogong_Mountain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jingpo Lake Maogong Mountain.JPG",
+   "author": "Tlrmq",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingpo_Lake_Maogong_Mountain.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Jingpo_Lake%2C_rowing_boat.jpg/1280px-Jingpo_Lake%2C_rowing_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jingpo Lake, rowing boat.jpg",
+   "author": "drnan tu",
+   "license": "CC BY-SA 2.0",
+   "credit": "Flickr : DSC_1094",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingpo_Lake%2C_rowing_boat.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jingpo_Lake_Winter.jpg/1280px-Jingpo_Lake_Winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jingpo Lake Winter.jpg",
+   "author": "Kelly Zhang120",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingpo_Lake_Winter.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Jingpo_Lake_view.jpg/1280px-Jingpo_Lake_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jingpo Lake view.jpg",
+   "author": "drnan tu",
+   "license": "CC BY-SA 2.0",
+   "credit": "Flickr : DSC_1140",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingpo_Lake_view.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jingpo_Lake_%E9%8F%A1%E6%B3%8A%E6%B9%96_-_panoramio_%283%29.jpg/1280px-Jingpo_Lake_%E9%8F%A1%E6%B3%8A%E6%B9%96_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jingpo Lake 鏡泊湖 - panoramio (3).jpg",
+   "author": "lienyuan lee",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161019212337/http://www.panoramio.com/photo/65875973",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingpo_Lake_%E9%8F%A1%E6%B3%8A%E6%B9%96_-_panoramio_%283%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mudanjiang Hailang International Airport",
+    "iata": "MDG",
+    "city": "Mudanjiang",
+    "country": "CN",
+    "lat": 44.525172,
+    "lon": 129.568634,
+    "type": "medium_airport",
+    "distance_km": 70.1
+   },
+   {
+    "name": "Yanji Chaoyangchuan Airport",
+    "iata": "YNJ",
+    "city": "Yanji",
+    "country": "CN",
+    "lat": 42.8828010559,
+    "lon": 129.451004028,
+    "type": "medium_airport",
+    "distance_km": 137.7
+   },
+   {
+    "name": "Jixi Xingkaihu Airport",
+    "iata": "JXA",
+    "city": "Jixi",
+    "country": "CN",
+    "lat": 45.293,
+    "lon": 131.193,
+    "type": "medium_airport",
+    "distance_km": 222.9
+   }
+  ],
+  "nearest_airport_km": 70.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "东京城",
+    "name_en": "Dongjingcheng",
+    "lat": 44.1156997,
+    "lon": 129.2185065,
+    "distance_km": 21.2,
+    "operator": "中国铁路哈尔滨局集团有限公司 牡丹江车务段",
+    "high_speed": false
+   },
+   {
+    "name": "斗沟子",
+    "name_en": "Dougouzi",
+    "lat": 43.9388808,
+    "lon": 129.2537014,
+    "distance_km": 27.5,
+    "operator": "中国铁路哈尔滨局集团有限公司 牡丹江车务段",
+    "high_speed": false
+   },
+   {
+    "name": "石头",
+    "name_en": "Shitou",
+    "lat": 44.1753394,
+    "lon": 129.3295662,
+    "distance_km": 31.7,
+    "operator": "中国铁路哈尔滨局集团有限公司 牡丹江车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/镜泊湖"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

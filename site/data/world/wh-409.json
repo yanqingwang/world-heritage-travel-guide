@@ -1,0 +1,162 @@
+{
+ "id": "wh-409",
+ "unesco_id": "409",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 211,
+ "popularity_score": 55060,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "Hawaii",
+ "subdivision_iso": "US-HI",
+ "subdivision_zh": "夏威夷州",
+ "subdivision_en": "Hawaii",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "夏威夷火山国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hawaii Volcanoes National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "409-hawaii_volcanoes_national_park",
+ "lat": 19.40083,
+ "lon": -155.12361,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "世界上最活跃的两个活火山——冒纳罗亚山（海拔4170米）和基拉韦厄火山（海拔1,250米），就像两个巨塔俯瞰着太平洋。火山猛烈的喷发不断地改变周围的景观，熔岩流揭示了奇妙的地质构造过程。人类在这里发现了许多稀有鸟类、当地特有物种和大量的巨型蕨类植物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This site contains two of the most active volcanoes in the world, Mauna Loa (4,170 m high) and Kilauea (1,250 m high), both of which tower over the Pacific Ocean. Volcanic eruptions have created a constantly changing landscape, and the lava flows reveal surprising geological formations. Rare birds and endemic species can be found there, as well as forests of giant ferns.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lava-streaming-into-ocean.jpg?width=1280",
+   "title": "Lava-streaming-into-ocean.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lava-streaming-into-ocean.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_409.jpg",
+   "title": "Hawaii Volcanoes National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/409",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/409",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hilo International Airport",
+    "iata": "ITO",
+    "city": "Hilo",
+    "country": "US",
+    "lat": 19.72135,
+    "lon": -155.045428,
+    "type": "medium_airport",
+    "distance_km": 36.6
+   },
+   {
+    "name": "Waimea Kohala Airport",
+    "iata": "MUE",
+    "city": "Waimea (Kamuela)",
+    "country": "US",
+    "lat": 20.001301,
+    "lon": -155.667999,
+    "type": "medium_airport",
+    "distance_km": 87.8
+   },
+   {
+    "name": "Ellison Onizuka Kona International Airport at Keāhole",
+    "iata": "KOA",
+    "city": "Kailua-Kona",
+    "country": "US",
+    "lat": 19.738783,
+    "lon": -156.045603,
+    "type": "large_airport",
+    "distance_km": 103.7
+   }
+  ],
+  "nearest_airport_km": 36.6,
+  "distance_beijing_km": 8478.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 48
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/409"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hawai%CA%BBi%20Volcanoes%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

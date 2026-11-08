@@ -1,0 +1,162 @@
+{
+ "id": "wh-187",
+ "unesco_id": "187",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 815,
+ "popularity_score": 2088,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "District of Hanover, State of Lower Saxony (Niedersachsen)",
+ "subdivision_iso": "DE-NI",
+ "subdivision_zh": "下萨克森州",
+ "subdivision_en": "Lower Saxony",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "希尔德斯海姆的圣玛丽大教堂和圣米迦尔教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "St Mary's Cathedral and St Michael's Church at Hildesheim",
+ "name_local": "Dom und Michaeliskirche in Hildesheim",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "187-st_mary's_cathedral_and_st_michael's_chu",
+ "lat": 52.15278,
+ "lon": 9.94389,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣米迦尔教堂建造于公元1010年至1020年间，严格遵循了对称的设计理念，两个对称的半圆形后殿是老撒克逊(Old Saxony)时期典型的奥图罗马式(Ottonian Romanesque)风格。教堂的内部装潢设计也是神圣罗马帝国的罗马式教堂风格，特别是木制天花板、粉刷的墙壁，以及有名的青铜门和伯那德青铜圆柱。圣玛丽大教堂的装饰也是这一风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "St Michael's Church was built between 1010 and 1020 on a symmetrical plan with two apses that was characteristic of Ottonian Romanesque art in Old Saxony. Its interior, in particular the wooden ceiling and painted stucco-work, its famous bronze doors and the Bernward bronze column, are – together with the treasures of St Mary's Cathedral – of exceptional interest as examples of the Romanesque churches of the Holy Roman Empire.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Der Dom und die Michaeliskirche in Hildesheim haben als „außergewöhnliches Zeugnis religiöser Kunst im Heiligen Römischen Reich“ seit 1985 den Status eines UNESCO-Weltkulturerbes.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Mary%27s%20Cathedral%20and%20St%20Michael%27s%20Church%20at%20Hildesheim.jpg?width=1280",
+   "title": "St Mary's Cathedral and St Michael's Church at Hildesheim.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:St%20Mary%27s%20Cathedral%20and%20St%20Michael%27s%20Church%20at%20Hildesheim.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_187.jpg",
+   "title": "St Mary's Cathedral and St Michael's Church at Hildesheim",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/187",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/187",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hannover Airport",
+    "iata": "HAJ",
+    "city": "Hannover",
+    "country": "DE",
+    "lat": 52.461102,
+    "lon": 9.68508,
+    "type": "large_airport",
+    "distance_km": 38.5
+   },
+   {
+    "name": "Kassel Airport",
+    "iata": "KSF",
+    "city": "Calden",
+    "country": "DE",
+    "lat": 51.418395,
+    "lon": 9.391638,
+    "type": "large_airport",
+    "distance_km": 90.1
+   },
+   {
+    "name": "Paderborn Lippstadt Airport",
+    "iata": "PAD",
+    "city": "Büren",
+    "country": "DE",
+    "lat": 51.612527,
+    "lon": 8.617459,
+    "type": "large_airport",
+    "distance_km": 109.1
+   }
+  ],
+  "nearest_airport_km": 38.5,
+  "distance_beijing_km": 7558.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/187"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

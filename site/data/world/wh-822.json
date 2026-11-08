@@ -1,0 +1,162 @@
+{
+ "id": "wh-822",
+ "unesco_id": "822",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 316,
+ "popularity_score": 28777,
+ "country": "EE",
+ "country_zh": "爱沙尼亚",
+ "country_en": "Estonia",
+ "countries": [
+  {
+   "iso2": "EE",
+   "zh": "爱沙尼亚",
+   "en": "Estonia"
+  }
+ ],
+ "region": "County of Harju",
+ "subdivision_iso": "EE-37",
+ "subdivision_zh": "哈尔尤县",
+ "subdivision_en": "Harju County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔林历史中心（老城）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre (Old Town) of Tallinn",
+ "name_local": "Tallinna vanalinn",
+ "local_lang": "et",
+ "local_lang_name": "Estonian",
+ "slug": "822-historic_centre_(old_town)_of_tallinn",
+ "lat": 59.437222222,
+ "lon": 24.745277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "塔林的起源可追溯到13世纪，当时的条顿骑士团的十字军骑士们在这里建造了一个城堡， 后来，这里又发展成为汉斯同盟(Hanseatic League)的主要中心。在后来的几个世纪，这里屡遭战火，但许多建筑还是较为完好地保留了下来，公共建筑（特别是教堂）之豪华以及商店内部装璜之考究充分展示了当时这里的繁荣和富裕。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The origins of Tallinn date back to the 13th century, when a castle was built there by the crusading knights of the Teutonic Order. It developed as a major centre of the Hanseatic League, and its wealth is demonstrated by the opulence of the public buildings (the churches in particular) and the domestic architecture of the merchants' houses, which have survived to a remarkable degree despite the ravages of fire and war in the intervening centuries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Tallinna vanalinn on Tallinna linna vanim osa ja kuulub 1997. aastast UNESCO maailmapärandi nimistusse. Vanalinna erilisus seisneb eelkõige tänini püsinud keskaegses miljöös ja struktuuris, mis on teistest Põhja-Euroopa pealinnadest kadunud. Tallinna vanalinnas on säilinud peaaegu tervenisti 11.–15. sajandil välja kujunenud tänavavõrk ja kruntide piirid. Rohkesti on esialgseis mõõtmeis alles hooneid, mis püstitati 14. ja 15. sajandil – ajal, mil Tallinn oli Hansa Liidu liige ning kõige põhjapoolsema hansalinnana oluline Euroopa idakaubandust juhtiv sadamalinn. Keskaegsel põhikujul on säilinud kõik Tallinna olulisemad kirikud ja teised esindushooned, sealhulgas Toompea kõrgendikul paiknev endine ordulinnus ja linna raekoda koos raekoja platsiga ning paljud kunagiste linnakodanike ja kaupmeeste elumajad koos aitade ja ladudega. Praegune Vanalinna asum hõlmab ühte Euroopa paremini tervikuna säilinud keskaegset linna, millest on saanud üks Eesti arhitektuuri väärtuslikumaid osi.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Town%20of%20Tallinn%2C%20Tallinn%2C%20Estonia%20-%20panoramio%20%2858%29.jpg?width=1280",
+   "title": "Old Town of Tallinn, Tallinn, Estonia - panoramio (58).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Old%20Town%20of%20Tallinn%2C%20Tallinn%2C%20Estonia%20-%20panoramio%20%2858%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_822.jpg",
+   "title": "Historic Centre (Old Town) of Tallinn",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/822",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/822",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lennart Meri Tallinn Airport",
+    "iata": "TLL",
+    "city": "Tallinn",
+    "country": "EE",
+    "lat": 59.413246,
+    "lon": 24.83264,
+    "type": "large_airport",
+    "distance_km": 5.6
+   },
+   {
+    "name": "Helsinki Vantaa Airport",
+    "iata": "HEL",
+    "city": "Helsinki (Vantaa)",
+    "country": "FI",
+    "lat": 60.318363,
+    "lon": 24.963341,
+    "type": "large_airport",
+    "distance_km": 98.7
+   },
+   {
+    "name": "Pärnu Airport",
+    "iata": "EPU",
+    "city": "Pärnu",
+    "country": "EE",
+    "lat": 58.41899871826172,
+    "lon": 24.47279930114746,
+    "type": "medium_airport",
+    "distance_km": 114.3
+   }
+  ],
+  "nearest_airport_km": 5.6,
+  "distance_beijing_km": 6355.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EE",
+  "country_zh": "爱沙尼亚",
+  "country_en": "Estonia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EE",
+   "country_zh": "爱沙尼亚",
+   "country_en": "Estonia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "et",
+  "local_lang_name": "Estonian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/822"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tallinn%20Old%20Town"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

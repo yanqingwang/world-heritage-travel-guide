@@ -1,0 +1,161 @@
+{
+ "id": "wh-1500",
+ "unesco_id": "1500",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 973,
+ "popularity_score": null,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GB-UKM",
+ "subdivision_zh": "英国",
+ "subdivision_en": "United Kingdom",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "戈勒姆洞穴群",
+ "name_zh_source": "curated",
+ "name_en": "Gorham's Cave Complex",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1500-gorham's_cave_complex",
+ "lat": 36.1225,
+ "lon": -5.341944444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2016",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "直布罗陀岩东侧陡峭的石灰岩悬崖上有四个洞穴，里面有考古和古生物沉积物，为尼安德特人在超过 10 万年的时间里居住提供了证据。这种对尼安德特人文化传统的特殊见证尤其体现在以鸟类和海洋动物为食、使用羽毛进行装饰以及抽象岩石雕刻的存在中。对这些遗址的科学研究已经为有关尼安德特人和人类进化的争论做出了重大贡献。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The steep limestone cliffs on the eastern side of the Rock of Gibraltar contain four caves with archaeological and paleontological deposits that provide evidence of Neanderthal occupation over a span of more than 100,000 years. This exceptional testimony to the cultural traditions of the Neanderthals is seen notably in evidence of the hunting of birds and marine animals for food, the use of feathers for ornamentation and the presence of abstract rock engravings. Scientific research on these sites has already contributed substantially to debates about Neanderthal and human evolution.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gorham%27s%20Cave.jpg?width=1280",
+   "title": "Gorham's Cave.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Gorham%27s%20Cave.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1500.jpg",
+   "title": "Gorham's Cave Complex",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1500",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1500",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gibraltar Airport",
+    "iata": "GIB",
+    "city": "Gibraltar",
+    "country": "GI",
+    "lat": 36.151679,
+    "lon": -5.34978,
+    "type": "large_airport",
+    "distance_km": 3.3
+   },
+   {
+    "name": "Sania Ramel Airport",
+    "iata": "TTU",
+    "city": "Tétouan",
+    "country": "MA",
+    "lat": 35.594299,
+    "lon": -5.32002,
+    "type": "large_airport",
+    "distance_km": 58.8
+   },
+   {
+    "name": "Tangier Ibn Battuta Airport",
+    "iata": "TNG",
+    "city": "Tangier",
+    "country": "MA",
+    "lat": 35.731741,
+    "lon": -5.921459,
+    "type": "large_airport",
+    "distance_km": 67.9
+   }
+  ],
+  "nearest_airport_km": 3.3,
+  "distance_beijing_km": 9669.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1500"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

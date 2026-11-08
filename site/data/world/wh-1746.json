@@ -1,0 +1,162 @@
+{
+ "id": "wh-1746",
+ "unesco_id": "1746",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1026,
+ "popularity_score": null,
+ "country": "SL",
+ "country_zh": "塞拉利昂",
+ "country_en": "Sierra Leone",
+ "countries": [
+  {
+   "iso2": "SL",
+   "zh": "塞拉利昂",
+   "en": "Sierra Leone"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "戈拉-蒂瓦伊综合体",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gola-Tiwai Complex",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1746-gola-tiwai_complex",
+ "lat": 7.366666666,
+ "lon": -11.2,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该系列遗产包括戈拉（Gola）雨林国家公园和蒂瓦伊（Tiwai）岛野生动物保护区，是大戈拉景观的一部分，位于生物多样性热点区域上几内亚森林内。该区域生长着逾千种植物（含113个特有物种）及55种哺乳动物（含19个全球受威胁物种），其中包括非洲森林象与倭河马等关键物种。这里还栖息着多达448种鸟类，包括濒危的白颈岩鹃；此外还有种类丰富的淡水鱼类、蝴蝶和蜻蜓。遗产地提供了重要的栖息地和生态系统服务，具极高保护价值和生态完整性。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This serial property includes the Gola Rainforest National Park and the Tiwai Island Wildlife Sanctuary. Part of the Greater Gola Landscape, it lies within the Upper Guinean Forest, a biodiversity hotspot. The area hosts more than 1,000 plant species (113 endemic), 55 mammals (19 globally threatened), and key species like the African Forest Elephant and Pygmy Hippopotamus. It also supports up to 448 bird species, including the endangered White-necked Rockfowl. Rich in freshwater fish, butterflies, and dragonflies, the site provides vital habitats and ecosystem services, reflecting high conservation value and ecological integrity.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiwai%20Island%20River.jpg?width=1280",
+   "title": "Tiwai Island River.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tiwai%20Island%20River.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1746.jpg",
+   "title": "Gola-Tiwai Complex",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1746",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1746",
+ "transport": {
+  "airports": [
+   {
+    "name": "Spriggs Payne Airport",
+    "iata": "MLW",
+    "city": "Monrovia",
+    "country": "LR",
+    "lat": 6.28906,
+    "lon": -10.7587,
+    "type": "medium_airport",
+    "distance_km": 129.4
+   },
+   {
+    "name": "Roberts International Airport",
+    "iata": "ROB",
+    "city": "Monrovia",
+    "country": "LR",
+    "lat": 6.23379,
+    "lon": -10.3623,
+    "type": "large_airport",
+    "distance_km": 156.3
+   },
+   {
+    "name": "Lungi International Airport",
+    "iata": "FNA",
+    "city": "Freetown (Lungi-Town)",
+    "country": "SL",
+    "lat": 8.61644,
+    "lon": -13.1955,
+    "type": "large_airport",
+    "distance_km": 260.0
+   }
+  ],
+  "nearest_airport_km": 129.4,
+  "distance_beijing_km": 12565.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SL",
+  "country_zh": "塞拉利昂",
+  "country_en": "Sierra Leone",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][132]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SL",
+   "country_zh": "塞拉利昂",
+   "country_en": "Sierra Leone",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][132]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1746"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-950",
+ "unesco_id": "950",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 454,
+ "popularity_score": 16150,
+ "country": "MG",
+ "country_zh": "马达加斯加",
+ "country_en": "Madagascar",
+ "countries": [
+  {
+   "iso2": "MG",
+   "zh": "马达加斯加",
+   "en": "Madagascar"
+  }
+ ],
+ "region": "Municipality of Ambohimanga Rova, Province of Antananarivo Avaradrano",
+ "subdivision_iso": "MG-T",
+ "subdivision_zh": "塔那那利佛省",
+ "subdivision_en": "Antananarivo Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "安布希曼加的皇家蓝山行宫",
+ "name_zh_source": "unesco_official",
+ "name_en": "Royal Hill of Ambohimanga",
+ "name_local": "Colline royale d'Ambohimanga",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "950-royal_hill_of_ambohimanga",
+ "lat": -18.759167,
+ "lon": 47.562778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "安布希曼加的皇家蓝山行宫由皇城、皇家墓地和一组祭祀建筑群组成。在过去的500年里，蓝山行宫一直是举行宗教仪式和祭祀的地方，同强烈的民族情感联系在一起。蓝山也一直是马达加斯加和世界各地朝圣者前往朝拜的地方。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Royal Hill of Ambohimanga consists of a royal city and burial site, and an ensemble of sacred places. It is associated with strong feelings of national identity, and has maintained its spiritual and sacred character both in ritual practice and the popular imagination for the past 500 years. It remains a place of worship to which pilgrims come from Madagascar and elsewhere.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La colline royale d'Ambohimanga se compose d'une cité royale, d'un site funéraire royal et d'un ensemble de lieux sacrés. Associée à un fort sentiment d'identité nationale, elle conserve son atmosphère de spiritualité et son caractère sacré, dans la pratique et dans l'esprit de la population, depuis quelque 500 ans. Elle demeure un lieu de culte et de pèlerinage que l'on vient visiter de Madagascar et d'ailleurs.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ambohimanga%2014.jpg?width=1280",
+   "title": "Ambohimanga 14.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambohimanga%2014.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_950.jpg",
+   "title": "Royal Hill of Ambohimanga",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/950",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/950",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ivato International Airport",
+    "iata": "TNR",
+    "city": "Antananarivo",
+    "country": "MG",
+    "lat": -18.7969,
+    "lon": 47.478802,
+    "type": "large_airport",
+    "distance_km": 9.8
+   },
+   {
+    "name": "Toamasina Ambalamanasy Airport",
+    "iata": "TMM",
+    "city": "Toamasina",
+    "country": "MG",
+    "lat": -18.113537,
+    "lon": 49.392262,
+    "type": "large_airport",
+    "distance_km": 205.9
+   },
+   {
+    "name": "Tsaratanana Airport",
+    "iata": "TTS",
+    "city": "Tsaratanana",
+    "country": "MG",
+    "lat": -16.751064,
+    "lon": 47.619016,
+    "type": "small_airport",
+    "distance_km": 223.4
+   }
+  ],
+  "nearest_airport_km": 9.8,
+  "distance_beijing_km": 9683.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MG",
+  "country_zh": "马达加斯加",
+  "country_en": "Madagascar",
+  "status": "visa_on_arrival",
+  "days": 60,
+  "requirement": "Online Visa / Visa on arrival[6][82]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MG",
+   "country_zh": "马达加斯加",
+   "country_en": "Madagascar",
+   "status": "visa_on_arrival",
+   "days": 60,
+   "requirement": "Online Visa / Visa on arrival[6][82]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/950"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ambohimanga"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

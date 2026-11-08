@@ -1,0 +1,144 @@
+{
+ "id": "cn-26319",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "赣州市",
+ "city_en": "Ganzhou",
+ "name_zh": "赣州市三百山景区",
+ "name_en": "Sanbaishan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "ganzhoushisanbaishan-26319",
+ "lat": 25.004505,
+ "lon": 115.431843,
+ "address_zh": "江西省赣州市安远县三百山镇符山村过桥垄",
+ "address_en": "Guoqiao Ridge, Fushan Village, Sanbaishan Town, Anyuan County, Ganzhou City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "三百山景区位于江西省安远县境内,地处赣、粤、闽三省交界处，是国家级风景名胜区、国家森林公园。景区总面积197平方公里，“源头群瀑、三百群峰、峡谷险滩、高山平湖、原始林海、火山地貌”堪称三百山六绝，拥有福鳌塘、蝴蝶大峡谷（九曲溪）、东风湖、仰天湖、尖峰笔等5大游览区域。",
+ "intro_en": "Sanbai Mountain Scenic Area is located in Anyuan County, Jiangxi Province, at the junction of Jiangxi, Guangdong and Fujian provinces. It is a national scenic spot and a national forest park. The scenic area has a total area of ​​197 square kilometers. The \"source waterfalls, 300 peaks, canyons and dangerous shoals, high mountains and flat lakes, primitive forests and seas, and volcanic landforms\" are called the 300 Mountains and 6 unique places. It has 5 major tourist areas including Fuao Pond, Butterfly Grand Canyon (Jiuqu River), Dongfeng Lake, Yangtian Lake, and Jianfengbi.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/CADAL16053804_%E7%A6%8F%E5%BB%BA%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu/page1-1280px-CADAL16053804_%E7%A6%8F%E5%BB%BA%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "CADAL16053804 福建省政府公報.djvu",
+   "author": "",
+   "license": "Public domain",
+   "credit": "Renmin University of China",
+   "source": "https://commons.wikimedia.org/wiki/File:CADAL16053804_%E7%A6%8F%E5%BB%BA%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "第六批江西省文物保护单位名单.pdf",
+   "author": "江西省人民政府",
+   "license": "Public domain",
+   "credit": "[1] （来自 [2] ，另见 [3] ）",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.sbsjq.com/index/Zhcn/home",
+ "transport": {
+  "airports": [
+   {
+    "name": "Meizhou Meixian Changgangji International Airport",
+    "iata": "MXZ",
+    "city": "Meizhou (Meixian)",
+    "country": "CN",
+    "lat": 24.263425,
+    "lon": 116.097857,
+    "type": "small_airport",
+    "distance_km": 106.4
+   },
+   {
+    "name": "Ganzhou Huangjin Airport",
+    "iata": "KOW",
+    "city": "Ganzhou",
+    "country": "CN",
+    "lat": 25.853333,
+    "lon": 114.778889,
+    "type": "small_airport",
+    "distance_km": 114.9
+   },
+   {
+    "name": "Liancheng Guanzhishan Airport",
+    "iata": "LCX",
+    "city": "Longyan (Liancheng)",
+    "country": "CN",
+    "lat": 25.67592,
+    "lon": 116.745907,
+    "type": "medium_airport",
+    "distance_km": 151.7
+   }
+  ],
+  "nearest_airport_km": 106.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "定南南",
+    "name_en": null,
+    "lat": 24.7462479,
+    "lon": 115.0255863,
+    "distance_km": 50.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "定南",
+    "name_en": "Dingnan",
+    "lat": 24.7778055,
+    "lon": 115.0000874,
+    "distance_km": 50.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "小江",
+    "name_en": "Xiaojiang",
+    "lat": 25.0264746,
+    "lon": 114.9151522,
+    "distance_km": 52.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/三百山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

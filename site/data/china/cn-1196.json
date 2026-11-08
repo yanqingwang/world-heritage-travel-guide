@@ -1,0 +1,132 @@
+{
+ "id": "cn-1196",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "重庆市",
+ "province_en": "Chongqing",
+ "province_iso": "CN-CQ",
+ "city_zh": "云阳县",
+ "city_en": "Yunyang County",
+ "name_zh": "龙缸景区",
+ "name_en": "Longgang Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "longgang-1196",
+ "lat": 30.712292,
+ "lon": 108.980209,
+ "address_zh": "重庆市云阳县清水土家族自治乡",
+ "address_en": "Qingshui Tujia Autonomous Township, Yunyang County, Chongqing City",
+ "address_en_source": "machine_translation",
+ "category": "mixed",
+ "category_zh": "自然人文",
+ "category_en": "Natural & cultural",
+ "intro_zh": "龙缸是一个长轴距离304～326米、短轴距离178～183米、深度达335米的椭圆形天坑，这一深度位居中国第三位，世界第五位。缸内壁如削，壁缝松柏横卧，古藤倒垂，缸底四季吐翠，百鸟争鸣。其形为一个天然大石缸，并流传着樵夫与龙女爱情故事的美妙传说，因而得名“龙缸”",
+ "intro_en": "The Dragon Tank is an oval tiankeng with a long axis distance of 304 to 326 meters, a short axis distance of 178 to 183 meters, and a depth of 335 meters. This depth ranks third in China and fifth in the world. The inner wall of the tank is as if cut, with pines and cypresses lying horizontally in the cracks in the wall, and ancient vines hanging upside down. The bottom of the tank is green all year round, and hundreds of birds are singing. It is shaped like a large natural stone jar, and there is a wonderful legend about the love story between the woodcutter and the dragon girl, hence the name \"Dragon Jar\".",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.cqyylg.com/index.aspx",
+ "booking": "http://www.cqyylg.com/service1.aspx?t=46",
+ "transport": {
+  "airports": [
+   {
+    "name": "Wanzhou Wuqiao Airport",
+    "iata": "WXN",
+    "city": "Wanzhou",
+    "country": "CN",
+    "lat": 30.8017,
+    "lon": 108.433,
+    "type": "small_airport",
+    "distance_km": 53.2
+   },
+   {
+    "name": "Enshi Xujiaping Airport",
+    "iata": "ENH",
+    "city": "Enshi (Enshi)",
+    "country": "CN",
+    "lat": 30.320299,
+    "lon": 109.485001,
+    "type": "medium_airport",
+    "distance_km": 65.1
+   },
+   {
+    "name": "Chongqing Wushan Airport",
+    "iata": "WSK",
+    "city": "Wushan",
+    "country": "CN",
+    "lat": 31.06896,
+    "lon": 109.708958,
+    "type": "small_airport",
+    "distance_km": 80.1
+   }
+  ],
+  "nearest_airport_km": 53.2,
+  "high_speed_stations": [
+   {
+    "name": "利川",
+    "name_en": "Lichuan",
+    "lat": 30.2811807,
+    "lon": 108.9359725,
+    "distance_km": 48.1,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "云阳",
+    "name_en": null,
+    "lat": 30.9999767,
+    "lon": 108.7200971,
+    "distance_km": 40.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "罗田",
+    "name_en": "Luotian",
+    "lat": 30.5171257,
+    "lon": 108.5712921,
+    "distance_km": 44.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "齐岳山",
+    "name_en": "Qiyueshan",
+    "lat": 30.3526681,
+    "lon": 108.7097403,
+    "distance_km": 47.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-1356",
+ "unesco_id": "1356",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 945,
+ "popularity_score": null,
+ "country": "JM",
+ "country_zh": "牙买加",
+ "country_en": "Jamaica",
+ "countries": [
+  {
+   "iso2": "JM",
+   "zh": "牙买加",
+   "en": "Jamaica"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "蓝山和约翰·克罗山",
+ "name_zh_source": "unesco_official",
+ "name_en": "Blue and John Crow Mountains",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1356-blue_and_john_crow_mountains",
+ "lat": 18.0775,
+ "lon": -76.571111111111,
+ "coord_accuracy": "wikidata_search",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(iii)(vi)(x)",
+ "year": "2015",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产地位于于牙买加东南部的山区，这里丛林广茂，道路崎岖，曾为逃亡奴隶提供了一处庇护之所，这些人最初主要是当地土著泰诺人，后来则是非洲黑奴。他们在这个与世隔绝的区域建立起一个由小径、隐藏处和居留所构成的网络，藉此反抗欧洲殖民体系，这里成为南希镇的遗产之路。森林为黑奴提供了所有生存所需之必须。他们与大山之间建立起了强大的精神联系，今天我们在宗教仪式、传统医学和舞蹈等非物质文化遗产中仍可以看到这些痕迹。该遗址同样也是体现加勒比海岛屿生物多样性的热点地区，这里许多植物都是当地独有的，特别是地衣、苔藓以及一些开花植物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The site encompasses a rugged and extensively forested mountainous region in the south-east of Jamaica, which provided refuge first for the indigenous Tainos fleeing slavery and then for Maroons (former enslaved peoples). They resisted the European colonial system in this isolated region by establishing a network of trails, hiding places and settlements, which form the Nanny Town Heritage Route. The forests offered the Maroons everything they needed for their survival. They developed strong spiritual connections with the mountains, still manifest through the intangible cultural legacy of, for example, religious rites, traditional medicine and dances. The site is also a biodiversity hotspot for the Caribbean Islands with a high proportion of endemic plant species, especially lichens, mosses and certain flowering plants.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1356.jpg",
+   "title": "Blue and John Crow Mountains",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1356",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1356",
+ "transport": {
+  "airports": [
+   {
+    "name": "Norman Manley International Airport",
+    "iata": "KIN",
+    "city": "Kingston",
+    "country": "JM",
+    "lat": 17.935699462890625,
+    "lon": -76.7874984741211,
+    "type": "large_airport",
+    "distance_km": 27.8
+   },
+   {
+    "name": "Tinson Pen Airport",
+    "iata": "KTP",
+    "city": "Tinson Pen",
+    "country": "JM",
+    "lat": 17.98859977722168,
+    "lon": -76.82379913330078,
+    "type": "medium_airport",
+    "distance_km": 28.5
+   },
+   {
+    "name": "Ian Fleming International Airport",
+    "iata": "OCJ",
+    "city": "Boscobel",
+    "country": "JM",
+    "lat": 18.404079,
+    "lon": -76.969754,
+    "type": "medium_airport",
+    "distance_km": 55.6
+   }
+  ],
+  "nearest_airport_km": 27.8,
+  "distance_beijing_km": 13416.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JM",
+  "country_zh": "牙买加",
+  "country_en": "Jamaica",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JM",
+   "country_zh": "牙买加",
+   "country_en": "Jamaica",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1356"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:45Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-119",
+ "unesco_id": "119",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 912,
+ "popularity_score": null,
+ "country": "ML",
+ "country_zh": "马里",
+ "country_en": "Mali",
+ "countries": [
+  {
+   "iso2": "ML",
+   "zh": "马里",
+   "en": "Mali"
+  }
+ ],
+ "region": "Circle and Region of Tombouctou",
+ "subdivision_iso": "ML-6",
+ "subdivision_zh": "",
+ "subdivision_en": "Timbuktu",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "廷巴克图",
+ "name_zh_source": "unesco_official",
+ "name_en": "Timbuktu",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "119-timbuktu",
+ "lat": 16.773333055556,
+ "lon": -2.9994438888889,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这里是声名显赫的科兰尼克·桑科雷大学的所在地。廷巴克图在公元15世纪至16世纪成为了宗教文化中心，同时也是伊斯兰文化向非洲传播的中心。津加里贝尔、桑科尔和西迪·牙希亚这三座雄伟的清真寺反映了廷巴克图的黄金年代。尽管这些建筑不断地被修复，但是今天它们仍然受到风沙侵蚀的威胁。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Home of the prestigious Koranic Sankore University and other madrasas , Timbuktu was an intellectual and spiritual capital and a centre for the propagation of Islam throughout Africa in the 15th and 16th centuries. Its three great mosques, Djingareyber, Sankore and Sidi Yahia, recall Timbuktu's golden age. Although continuously restored, these monuments are today under threat from desertification.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_119.jpg",
+   "title": "Timbuktu",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/119",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/119",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tombouktou Airport",
+    "iata": "TOM",
+    "city": "Timbuktu",
+    "country": "ML",
+    "lat": 16.730499,
+    "lon": -3.00758,
+    "type": "large_airport",
+    "distance_km": 4.8
+   },
+   {
+    "name": "Mopti Airport",
+    "iata": "MZI",
+    "city": "Sévaré",
+    "country": "ML",
+    "lat": 14.5128,
+    "lon": -4.07956,
+    "type": "medium_airport",
+    "distance_km": 276.7
+   },
+   {
+    "name": "Gao International Airport",
+    "iata": "GAQ",
+    "city": "Gao",
+    "country": "ML",
+    "lat": 16.248466,
+    "lon": -0.005389,
+    "type": "medium_airport",
+    "distance_km": 324.5
+   }
+  ],
+  "nearest_airport_km": 4.8,
+  "distance_beijing_km": 11138.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ML",
+  "country_zh": "马里",
+  "country_en": "Mali",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ML",
+   "country_zh": "马里",
+   "country_en": "Mali",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/119"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

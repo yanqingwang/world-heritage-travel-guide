@@ -1,0 +1,162 @@
+{
+ "id": "wh-723",
+ "unesco_id": "723",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1139,
+ "popularity_score": null,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "Sintra/Serra",
+ "subdivision_iso": "PT-11",
+ "subdivision_zh": "里斯本区",
+ "subdivision_en": "Lisbon",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "辛特拉文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cultural Landscape of Sintra",
+ "name_local": "Paisagem Cultural de Sintra",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "723-cultural_landscape_of_sintra",
+ "lat": 38.788388,
+ "lon": -9.433823,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "辛特拉是19世纪第一块云集欧洲浪漫主义建筑的土地。费迪南德二世把被毁坏的教堂改建成了一座城堡，这一建筑集中了哥特式、埃及式、摩尔式和文艺复兴时期的建筑特点，同时在城堡的公园里把许多国外树种与本地树木混合栽种。该地还有许多其他精美的建筑，全都倚着周围的山脉而建，这些公园和庭院景致交相辉映，美不胜收，对整个欧洲的景观建筑设计发展产生了重大影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the 19th century Sintra became the first centre of European Romantic architecture. Ferdinand II turned a ruined monastery into a castle where this new sensitivity was displayed in the use of Gothic, Egyptian, Moorish and Renaissance elements and in the creation of a park blending local and exotic species of trees. Other fine dwellings, built along the same lines in the surrounding serra , created a unique combination of parks and gardens which influenced the development of landscape architecture throughout Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "A Paisagem Cultural de Sintra é um sítio inscrito em 1995 como Património da Humanidade da UNESCO localizado no município de Sintra, em Portugal. O sítio abrange uma parte da Serra de Sintra e inclui o centro histórico da vila, muitos monumentos históricos e a abundante vegetação natural e exótica dos parques da serra. Segundo o relatório da UNESCO, \"a paisagem cultural de Sintra, com sua serra, é um extraordinário e singular complexo de parques, jardins, quintas, mosteiros e castelos que criam uma arquitetura popular e culta harmonizada com a abundante e exótica vegetação, criando micro-paisagens de beleza exótica e luxuriante.\"",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pal%C3%A1cio%20Nacional%20de%20Sintra%20from%20above%2074.jpg?width=1280",
+   "title": "Palácio Nacional de Sintra from above 74.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio%20Nacional%20de%20Sintra%20from%20above%2074.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_723.jpg",
+   "title": "Cultural Landscape of Sintra",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/723",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/723",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cascais Airport",
+    "iata": "CAT",
+    "city": "Cascais",
+    "country": "PT",
+    "lat": 38.724998,
+    "lon": -9.35523,
+    "type": "medium_airport",
+    "distance_km": 9.8
+   },
+   {
+    "name": "Lisbon Humberto Delgado Airport",
+    "iata": "LIS",
+    "city": "Lisbon",
+    "country": "PT",
+    "lat": 38.7813,
+    "lon": -9.13592,
+    "type": "large_airport",
+    "distance_km": 25.8
+   },
+   {
+    "name": "Portimão Airport",
+    "iata": "PRM",
+    "city": "Portimão",
+    "country": "PT",
+    "lat": 37.1493,
+    "lon": -8.58396,
+    "type": "medium_airport",
+    "distance_km": 196.9
+   }
+  ],
+  "nearest_airport_km": 9.8,
+  "distance_beijing_km": 9673.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/723"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

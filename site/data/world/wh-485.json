@@ -1,0 +1,162 @@
+{
+ "id": "wh-485",
+ "unesco_id": "485",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1094,
+ "popularity_score": null,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "Denizli Province",
+ "subdivision_iso": "TR-20",
+ "subdivision_zh": "代尼兹利省",
+ "subdivision_en": "Denizli Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "赫拉波利斯和帕穆克卡莱",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hierapolis-Pamukkale",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "485-hierapolis-pamukkale",
+ "lat": 37.923889,
+ "lon": 29.123333,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(iii)(iv)(vii)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从平原上200米高的岩石中流出的泉水和水中的方解石形成了帕穆克卡莱（土耳其语中意为“棉花宫殿”）这一特殊地貌。它由石林、石瀑布和一系列的梯形盆地组成。公元前2世纪末，阿塔利德斯王朝的帕加马国王们建立了希拉波利斯温泉站。这处遗址包括浴室的废墟、庙宇和其他希腊建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Deriving from springs in a cliff almost 200 m high overlooking the plain, calcite-laden waters have created at Pamukkale (Cotton Palace) an unreal landscape, made up of mineral forests, petrified waterfalls and a series of terraced basins. At the end of the 2nd century B.C. the dynasty of the Attalids, the kings of Pergamon, established the thermal spa of Hierapolis. The ruins of the baths, temples and other Greek monuments can be seen at the site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TR%20Pamukkale%20Hierapolis%20asv2020-02%20img07.jpg?width=1280",
+   "title": "TR Pamukkale Hierapolis asv2020-02 img07.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:TR%20Pamukkale%20Hierapolis%20asv2020-02%20img07.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_485.jpg",
+   "title": "Hierapolis-Pamukkale",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/485",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/485",
+ "transport": {
+  "airports": [
+   {
+    "name": "Çardak Airport",
+    "iata": "DNZ",
+    "city": "Denizli",
+    "country": "TR",
+    "lat": 37.7855987549,
+    "lon": 29.7012996674,
+    "type": "medium_airport",
+    "distance_km": 53.0
+   },
+   {
+    "name": "Süleyman Demirel International Airport",
+    "iata": "ISE",
+    "city": "Isparta",
+    "country": "TR",
+    "lat": 37.8554,
+    "lon": 30.368401,
+    "type": "medium_airport",
+    "distance_km": 109.5
+   },
+   {
+    "name": "Dalaman International Airport",
+    "iata": "DLM",
+    "city": "Dalaman",
+    "country": "TR",
+    "lat": 36.7131,
+    "lon": 28.7925,
+    "type": "large_airport",
+    "distance_km": 137.8
+   }
+  ],
+  "nearest_airport_km": 53.0,
+  "distance_beijing_km": 7194.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 12
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/485"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

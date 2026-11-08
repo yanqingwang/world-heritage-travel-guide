@@ -1,0 +1,162 @@
+{
+ "id": "wh-379",
+ "unesco_id": "379",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1079,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Toledo, Autonomous Community of Castile-La Mancha",
+ "subdivision_iso": "ES-TO",
+ "subdivision_zh": "托萊多省",
+ "subdivision_en": "Toledo Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "历史名城托莱多",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic City of Toledo",
+ "name_local": "Ciudad histórica de Toledo",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "379-historic_city_of_toledo",
+ "lat": 39.856901,
+ "lon": -4.024613,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "托莱多城的历史长达两千多年，曾先后是罗马帝国统治下的城市，西哥特王国的首都，科尔多瓦酋长国的要塞，基督教国家和摩尔人战斗的前线，以及公元16世纪查尔斯五世统治时期的最高权力临时所在地。托莱多城与众不同之处在于在同一种环境中孕育了不同的文明，而产生多种文明的主要原因是三种主要宗教——犹太教、基督教和伊斯兰教在这块土地上共同存在。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Successively a Roman municipium, the capital of the Visigothic Kingdom, a fortress of the Emirate of Cordoba, an outpost of the Christian kingdoms fighting the Moors and, in the 16th century, the temporary seat of supreme power under Charles V, Toledo is the repository of more than 2,000 years of history. Its masterpieces are the product of heterogeneous civilizations in an environment where the existence of three major religions – Judaism, Christianity and Islam – was a major factor.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Depositaria de más de dos milenios de historia, Toledo fue sucesivamente municipio romano, capital del reino visigodo, plaza fuerte del emirato de Córdoba y puesto de mando avanzado de los reinos cristianos en su lucha contra los musulmanes. En el siglo XVI fue la sede temporal del poder supremo, bajo el reinado del emperador Carlos V. Sus monumentos son obras maestras de distintas civilizaciones, creadas en un contexto en el que la presencia de tres grandes religiones –judaísmo, cristianismo e islamismo– constituyó un factor esencial.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toledo%20-%2002.jpg?width=1280",
+   "title": "Toledo - 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Toledo%20-%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_379.jpg",
+   "title": "Historic City of Toledo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/379",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/379",
+ "transport": {
+  "airports": [
+   {
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "iata": "MAD",
+    "city": "Madrid",
+    "country": "ES",
+    "lat": 40.493407,
+    "lon": -3.572249,
+    "type": "large_airport",
+    "distance_km": 80.5
+   },
+   {
+    "name": "Salamanca Airport",
+    "iata": "SLM",
+    "city": "Salamanca",
+    "country": "ES",
+    "lat": 40.952099,
+    "lon": -5.50199,
+    "type": "medium_airport",
+    "distance_km": 174.6
+   },
+   {
+    "name": "Valladolid Airport",
+    "iata": "VLL",
+    "city": "Valladolid",
+    "country": "ES",
+    "lat": 41.7061,
+    "lon": -4.85194,
+    "type": "medium_airport",
+    "distance_km": 217.1
+   }
+  ],
+  "nearest_airport_km": 80.5,
+  "distance_beijing_km": 9204.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/379"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

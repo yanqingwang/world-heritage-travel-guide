@@ -1,0 +1,162 @@
+{
+ "id": "wh-1709",
+ "unesco_id": "1709",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 807,
+ "popularity_score": 2531,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "AU-WA",
+ "subdivision_zh": "西澳大利亚州",
+ "subdivision_en": "Western Australia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "穆鲁朱加文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Murujuga Cultural Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1709-murujuga_cultural_landscape",
+ "lat": -20.575277777,
+ "lon": 116.810972222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(v)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "穆鲁朱加（Murujuga）是坐落于澳大利亚西北部的古老岩石景观，包括布鲁普（Burrup）半岛、丹皮尔（Dampier）群岛的 42 座岛屿及临近海域。当地“传统拥有者和守护者” 恩加尔达-恩加尔利人（Ngarda Ngarli）信仰的创世规则与叙事，以及他们的世代生活共同塑造了这片土地。遗产承载着深厚的文化与精神内涵，昭示逾5万年持续不断的守护与使用历史。这里以密集的岩画而闻名，图案独特，展现出卓越的技艺与成熟的艺术表达。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Murujuga is a deeply storied land and seascape located in northwest Australia. It encompasses the Burrup Peninsula, the Dampier Archipelago, surrounding marine areas and the submerged landscape. Murujuga is shaped by the Lore — rules and narratives put in place to create the Country — and the enduring presence of the Ngarda-Ngarli, Traditional Owners and Custodians of the site. The property holds profound cultural and spiritual significance, reflecting over 50,000 years of continuous care and management by Traditional Law that has adapted to the changing needs of Country over periods of dramatic climatic and environmental change. Murujuga is renowned for its dense concentration of archaeological and spiritual sites that reflect the interaction between people and place over thousands of generations. Its extraordinary rock art assemblage records a complex system of Lore and Traditional Law, features unique motifs and demonstrates artistic and technical mastery.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20and%20Modern%204%2C000%20years.jpg?width=1280",
+   "title": "Ancient and Modern 4,000 years.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ancient%20and%20Modern%204%2C000%20years.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1709.jpg",
+   "title": "Murujuga Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1709",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1709",
+ "transport": {
+  "airports": [
+   {
+    "name": "Karratha Airport",
+    "iata": "KTA",
+    "city": "Karratha",
+    "country": "AU",
+    "lat": -20.712200164799995,
+    "lon": 116.773002625,
+    "type": "medium_airport",
+    "distance_km": 15.7
+   },
+   {
+    "name": "Port Hedland International Airport",
+    "iata": "PHE",
+    "city": "Port Hedland",
+    "country": "AU",
+    "lat": -20.382787,
+    "lon": 118.629789,
+    "type": "large_airport",
+    "distance_km": 190.7
+   },
+   {
+    "name": "Paraburdoo Airport",
+    "iata": "PBO",
+    "city": "Paraburdoo",
+    "country": "AU",
+    "lat": -23.1711006165,
+    "lon": 117.745002747,
+    "type": "medium_airport",
+    "distance_km": 304.3
+   }
+  ],
+  "nearest_airport_km": 15.7,
+  "distance_beijing_km": 6759.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1709"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Murujuga%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

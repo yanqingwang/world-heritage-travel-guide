@@ -1,0 +1,224 @@
+{
+ "id": "cn-847",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山西省",
+ "province_en": "Shanxi",
+ "province_iso": "CN-SX",
+ "city_zh": "大同市",
+ "city_en": "Datong",
+ "name_zh": "大同市云冈石窟景区",
+ "name_en": "Datong",
+ "name_en_source": "wikipedia",
+ "slug": "datongshiyungangshiku-847",
+ "lat": 40.119273,
+ "lon": 113.144291,
+ "address_zh": "大同市云冈区云冈镇",
+ "address_en": "Yungang Town, Yungang District, Datong City",
+ "address_en_source": "machine_translation",
+ "category": "grotto",
+ "category_zh": "石窟艺术",
+ "category_en": "Grotto art",
+ "intro_zh": "云冈石窟依山开凿，规模恢弘，气势雄浑，东西绵延约1公里，现存主要洞窟45个，重点洞窟有石鼓洞、寒泉洞、灵岩寺洞、大佛洞等；主要景观有石佛古寺、莲花大道、比丘尼昙媚造像记、礼佛浮雕墙、礼佛大道、昙曜广场等。2001年12月被联合国教科文组织批准列入世界文化遗产名录。",
+ "intro_en": "Datong is a prefecture-level city in northern Shanxi Province in the People's Republic of China. It is located in the Datong Basin at an elevation of 1,040 metres (3,410 ft) and borders Inner Mongolia to the north and west and Hebei to the east. As of the 2020 census, it had a population of 3,105,591 of whom 1,790,452 lived in the built-up (or metro) area made of the 2 out 4 urban districts of Pingcheng and Yungang as Yunzhou and Xinrong are not conurbated yet.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/The_skyline_of_Datong%EF%BC%88Southgate%EF%BC%892019.jpg/1280px-The_skyline_of_Datong%EF%BC%88Southgate%EF%BC%892019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "The skyline of Datong（Southgate）2019.jpg",
+   "author": "Charlie fong",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:The_skyline_of_Datong%EF%BC%88Southgate%EF%BC%892019.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Central_Seminary_of_Datong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Central Seminary of Datong.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "www.delcampe.net",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Seminary_of_Datong.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Datong_banner_Chunyanggong.jpg/1280px-Datong_banner_Chunyanggong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Datong banner Chunyanggong.jpg",
+   "author": "Datong_Chunyanggong.jpg : JP Bennett from Yamato, Japan derivative work: Inkey",
+   "license": "CC BY 2.0",
+   "credit": "This file was derived from: Datong Chunyanggong.jpg :",
+   "source": "https://commons.wikimedia.org/wiki/File:Datong_banner_Chunyanggong.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Datong_factory_January_1985.jpg/1280px-Datong_factory_January_1985.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Datong factory January 1985.jpg",
+   "author": "BabelStone",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Datong_factory_January_1985.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Datong_temple.jpg/1280px-Datong_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Datong temple.jpg",
+   "author": "Lesterin",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Datong_temple.jpg"
+  }
+ ],
+ "web": "https://www.yungang.org/dzb/index.html",
+ "booking": "https://www.yungang.org/dzb/index.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Datong Yungang International Airport",
+    "iata": "DAT",
+    "city": "Datong",
+    "country": "CN",
+    "lat": 40.06139,
+    "lon": 113.480509,
+    "type": "large_airport",
+    "distance_km": 29.3
+   },
+   {
+    "name": "Shuozhou Zirun Airport",
+    "iata": "SZH",
+    "city": "Shuozhou",
+    "country": "CN",
+    "lat": 39.273241,
+    "lon": 112.691552,
+    "type": "medium_airport",
+    "distance_km": 101.7
+   },
+   {
+    "name": "Ulanqab Jining Airport",
+    "iata": "UCB",
+    "city": "Ulanqab",
+    "country": "CN",
+    "lat": 41.130266,
+    "lon": 113.107274,
+    "type": "medium_airport",
+    "distance_km": 112.5
+   }
+  ],
+  "nearest_airport_km": 29.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "云岗",
+    "name_en": null,
+    "lat": 40.1003029,
+    "lon": 113.1710565,
+    "distance_km": 3.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "姜家湾",
+    "name_en": null,
+    "lat": 40.1271867,
+    "lon": 113.0726168,
+    "distance_km": 6.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "云岗西",
+    "name_en": null,
+    "lat": 40.1175306,
+    "lon": 113.0706829,
+    "distance_km": 6.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "花园大饭店",
+   "name_en": "Garden Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 40.0890374,
+   "lon": 113.2949447,
+   "distance_km": 13.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大同平城福朋喜来登酒店",
+   "name_en": "Four Points by Sheraton Datong Pingcheng",
+   "stars": null,
+   "brand": "Four Points by Sheraton",
+   "lat": 40.0881507,
+   "lon": 113.3129162,
+   "distance_km": 14.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大同高铁站希尔顿欢朋酒店",
+   "name_en": "Hampton by Hilton Datong High-speed Rail Station",
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 40.0691093,
+   "lon": 113.327996,
+   "distance_km": 16.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton",
+   "name_en": "Hilton",
+   "stars": null,
+   "brand": null,
+   "lat": 40.0718037,
+   "lon": 113.3332259,
+   "distance_km": 16.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大同平城希尔顿花园酒店",
+   "name_en": "Hilton Garden Inn Datong Pingcheng",
+   "stars": null,
+   "brand": "Hilton Garden Inn",
+   "lat": 40.0741748,
+   "lon": 113.3426087,
+   "distance_km": 17.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 34,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/大同市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

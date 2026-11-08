@@ -1,0 +1,162 @@
+{
+ "id": "wh-872",
+ "unesco_id": "872",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 435,
+ "popularity_score": 17713,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Rhône, Region of Rhône-Alpes",
+ "subdivision_iso": "FR-ARA",
+ "subdivision_zh": "奥弗涅-罗讷-阿尔卑斯大区",
+ "subdivision_en": "Auvergne-Rhône-Alpes",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "里昂历史遗迹",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Site of Lyon",
+ "name_local": "Site historique de Lyon",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "872-historic_site_of_lyon",
+ "lat": 45.763056,
+ "lon": 4.828056,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "里昂是一座历史悠久的城市，于公元前1世纪由罗马人创建，曾是高卢三朝首都，在欧洲政治、经济和文化发展中发挥了重要作用。里昂的城市建筑和各个历史时期的大量精美古建筑生动诠释了它悠久的历史。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The long history of Lyon, which was founded by the Romans in the 1st century B.C. as the capital of the Three Gauls and has continued to play a major role in Europe's political, cultural and economic development ever since, is vividly illustrated by its urban fabric and the many fine historic buildings from all periods.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La longue histoire de Lyon, fondée par les Romains en tant que capitale des Trois Gaules au I er siècle av. J.-C. et qui n'a cessé de jouer un rôle majeur dans le développement politique, culturel et économique de l'Europe depuis cette époque, est illustrée de manière extrêmement vivante par son tissu urbain et par de nombreux bâtiments historiques de toutes les époques.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vieuxlyon%20saintjean%20toits.jpg?width=1280",
+   "title": "Vieuxlyon saintjean toits.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vieuxlyon%20saintjean%20toits.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_872.jpg",
+   "title": "Historic Site of Lyon",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/872",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/872",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lyon Saint-Exupéry Airport",
+    "iata": "LYS",
+    "city": "Colombier-Saugnieu, Rhône",
+    "country": "FR",
+    "lat": 45.725996,
+    "lon": 5.090139,
+    "type": "large_airport",
+    "distance_km": 20.8
+   },
+   {
+    "name": "Grenoble Alpes Isère Airport",
+    "iata": "GNB",
+    "city": "Grenoble",
+    "country": "FR",
+    "lat": 45.3629,
+    "lon": 5.32937,
+    "type": "medium_airport",
+    "distance_km": 59.2
+   },
+   {
+    "name": "Chambéry Aix les Bains airport",
+    "iata": "CMF",
+    "city": "Chambéry",
+    "country": "FR",
+    "lat": 45.6381,
+    "lon": 5.88023,
+    "type": "medium_airport",
+    "distance_km": 82.9
+   }
+  ],
+  "nearest_airport_km": 20.8,
+  "distance_beijing_km": 8296.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 19
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/872"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vieux%20Lyon"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

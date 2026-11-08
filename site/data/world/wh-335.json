@@ -1,0 +1,162 @@
+{
+ "id": "wh-335",
+ "unesco_id": "335",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 687,
+ "popularity_score": 6177,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Uttaranchal",
+ "subdivision_iso": "IN-UK",
+ "subdivision_zh": "北阿坎德邦",
+ "subdivision_en": "Uttarakhand",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "楠达戴维山国家公园和花谷国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Nanda Devi and Valley of Flowers National Parks",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "335-nanda_devi_and_valley_of_flowers_nationa",
+ "lat": 30.71667,
+ "lon": 79.66667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "楠达戴维国家公园和花谷国家公园是喜马拉雅山脉最引人入胜的荒原地区之一。公园的主体是高达7800多米楠达戴维山主峰。由于该地区人迹罕至，这或多或少使它得以保留原貌。一些濒危哺乳动物栖息在这里，其中特别珍贵的有雪豹、喜马拉雅山麝香鹿和岩羊。花谷国家公园以其地方特色的高山花卉草地和突出的自然美景而闻名，同时还是稀有濒危动物的栖息地，这些动物包括亚洲黑熊、雪豹、棕熊和岩羊。这些公园包括赞斯卡勒山地和大喜马拉雅之间独特的过渡区，在一个多世纪中它们得到了登山运动员和植物学家的赞美，并在更长时间里获得了印度神话的称颂。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Nestled high in West Himalaya, India’s Valley of Flowers National Park is renowned for its meadows of endemic alpine flowers and outstanding natural beauty. This richly diverse area is also home to rare and endangered animals, including the Asiatic black bear, snow leopard, brown bear and blue sheep. The gentle landscape of the Valley of Flowers National Park complements the rugged mountain wilderness of Nanda Devi National Park. Together they encompass a unique transition zone between the mountain ranges of the Zanskar and Great Himalaya, praised by mountaineers and botanists for over a century and in Hindu mythology for much longer.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Glimpse%20of%20Nanda%20Devi%20amidst%20the%20clouds%20from%20Valley%20of%20Flowers.jpg?width=1280",
+   "title": "Glimpse of Nanda Devi amidst the clouds from Valley of Flowers.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Glimpse%20of%20Nanda%20Devi%20amidst%20the%20clouds%20from%20Valley%20of%20Flowers.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_335.jpg",
+   "title": "Nanda Devi and Valley of Flowers National Parks",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/335",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/335",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dehradun Jolly Grant Airport",
+    "iata": "DED",
+    "city": "Dehradun (Jauligrant)",
+    "country": "IN",
+    "lat": 30.189243,
+    "lon": 78.176651,
+    "type": "medium_airport",
+    "distance_km": 154.4
+   },
+   {
+    "name": "Ngari Gunsa Airport",
+    "iata": "NGQ",
+    "city": "Shiquanhe",
+    "country": "CN",
+    "lat": 32.09794,
+    "lon": 80.053971,
+    "type": "medium_airport",
+    "distance_km": 157.9
+   },
+   {
+    "name": "Pantnagar Airport",
+    "iata": "PGH",
+    "city": "Pantnagar",
+    "country": "IN",
+    "lat": 29.0334,
+    "lon": 79.473701,
+    "type": "medium_airport",
+    "distance_km": 188.1
+   }
+  ],
+  "nearest_airport_km": 154.4,
+  "distance_beijing_km": 3630.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/335"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nanda%20Devi%20and%20Valley%20of%20Flowers%20National%20Parks"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

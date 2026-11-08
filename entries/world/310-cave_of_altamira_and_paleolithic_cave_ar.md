@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)"
 lat: 43.376944444
 lon: -4.11975
-updated_at: "2026-11-08T12:18:54Z"
+updated_at: "2026-11-08T14:52:24Z"
 ---
 
 # 阿尔塔米拉洞 / Cave of Altamira and Paleolithic Cave Art of Northern Spain

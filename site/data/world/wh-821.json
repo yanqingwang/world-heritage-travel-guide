@@ -1,0 +1,162 @@
+{
+ "id": "wh-821",
+ "unesco_id": "821",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 806,
+ "popularity_score": 2574,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "Maranhão State, Brasil’s North-East Region",
+ "subdivision_iso": "BR-MA",
+ "subdivision_zh": "马拉尼昂州",
+ "subdivision_en": "Maranhão",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣路易斯历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of São Luís",
+ "name_local": "Centro Histórico de São Luís",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "821-historic_centre_of_são_luís",
+ "lat": -2.52773314,
+ "lon": -44.305795125,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣路易斯城由法国人建立，后被荷兰人占领，最后由葡萄牙人统治。城中完整地保留着17世纪末期城市的垂直街道布局。由于20世纪初的经济停滞，使得该城许多极具历史价值的建筑得以保留，圣路易斯城成为了伊比利亚风格殖民地城镇的杰出典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The late 17th-century core of this historic town, founded by the French and occupied by the Dutch before coming under Portuguese rule, has preserved the original rectangular street plan in its entirety. Thanks to a period of economic stagnation in the early 20th century, an exceptional number of fine historic buildings have survived, making this an outstanding example of an Iberian colonial town.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Centro Histórico de São Luís compreende uma área de 220 hectares de extensão em São Luís, capital do Maranhão. Cerca de 3000 imóveis estão tombados pelo patrimônio histórico estadual, e 1400 pelo IPHAN. Parte desse sítio foi declarado Patrimônio Mundial em 1997, por seu conjunto arquitetônico colonial português adaptado ao clima do local.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Lu%C3%ADs%2C%20Maranh%C3%A3o%2C%20Brasil%204.jpg?width=1280",
+   "title": "Centro Histórico de São Luís, Maranhão, Brasil 4.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Centro%20Hist%C3%B3rico%20de%20S%C3%A3o%20Lu%C3%ADs%2C%20Maranh%C3%A3o%2C%20Brasil%204.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_821.jpg",
+   "title": "Historic Centre of São Luís",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/821",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/821",
+ "transport": {
+  "airports": [
+   {
+    "name": "Marechal Cunha Machado International Airport",
+    "iata": "SLZ",
+    "city": "São Luís",
+    "country": "BR",
+    "lat": -2.586386,
+    "lon": -44.235008,
+    "type": "large_airport",
+    "distance_km": 10.2
+   },
+   {
+    "name": "Parnaíba - Prefeito Doutor João Silva Filho International Airport",
+    "iata": "PHB",
+    "city": "Parnaíba",
+    "country": "BR",
+    "lat": -2.89375,
+    "lon": -41.731998,
+    "type": "medium_airport",
+    "distance_km": 288.8
+   },
+   {
+    "name": "Senador Petrônio Portela Airport",
+    "iata": "THE",
+    "city": "Teresina",
+    "country": "BR",
+    "lat": -5.06025,
+    "lon": -42.823712,
+    "type": "medium_airport",
+    "distance_km": 326.1
+   }
+  ],
+  "nearest_airport_km": 10.2,
+  "distance_beijing_km": 15420.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/821"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20S%C3%A3o%20Lu%C3%ADs"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

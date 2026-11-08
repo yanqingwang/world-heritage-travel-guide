@@ -1,0 +1,324 @@
+{
+ "id": "wh-307",
+ "unesco_id": "307",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 119,
+ "popularity_score": 118292,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "New York, New York",
+ "subdivision_iso": "US-NY",
+ "subdivision_zh": "纽约州",
+ "subdivision_en": "New York",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "自由女神像",
+ "name_zh_source": "unesco_official",
+ "name_en": "Statue of Liberty",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "307-statue_of_liberty",
+ "lat": 40.69,
+ "lon": -74.045,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(vi)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "自由女神像由法国雕塑家巴托迪和古斯塔夫·埃菲尔（他负责雕像的钢架）共同完成，这个象征着自由的雕塑是法国于1886年赠送给美国的，以祝贺美国独立100周年。从那时至今，这个矗立在纽约港口的自由女神已经迎来数以百万到美国来的移民。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Made in Paris by the French sculptor Bartholdi, in collaboration with Gustave Eiffel (who was responsible for the steel framework), this towering monument to liberty was a gift from France on the centenary of American independence. Inaugurated in 1886, the sculpture stands at the entrance to New York Harbour and has welcomed millions of immigrants to the United States ever since.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20Island%20photo%20Don%20Ramey%20Logan.jpg?width=1280",
+   "title": "Liberty Island photo Don Ramey Logan.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Liberty%20Island%20photo%20Don%20Ramey%20Logan.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%28Photograph_of_a_drawing_of_the_Statue_of_Liberty_in_Upper_N_-_%283110144972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "(Photograph of a drawing of the Statue of Liberty in Upper N - (3110144972).jpg",
+   "author": "Albert Fernique. Via New York Public Library",
+   "license": "No restrictions",
+   "credit": "https://www.flickr.com/photos/nypl/3110144972/",
+   "source": "https://commons.wikimedia.org/wiki/File:%28Photograph_of_a_drawing_of_the_Statue_of_Liberty_in_Upper_N_-_%283110144972%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/130704-A-ND255-001_%289253178673%29.jpg/1280px-130704-A-ND255-001_%289253178673%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "130704-A-ND255-001 (9253178673).jpg",
+   "author": "U.S. Department of Defense Current Photos",
+   "license": "Public domain",
+   "credit": "130704-A-ND255-001",
+   "source": "https://commons.wikimedia.org/wiki/File:130704-A-ND255-001_%289253178673%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Capsized_tug_Katherine_G_--_NY_Harbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Capsized tug Katherine G -- NY Harbor.jpg",
+   "author": "Alberto Garcia/USCG",
+   "license": "Public domain",
+   "credit": "http://newyork.cbslocal.com/2012/04/06/tugboat-capsizes-near-liberty-island-3-people-rescued/",
+   "source": "https://commons.wikimedia.org/wiki/File:Capsized_tug_Katherine_G_--_NY_Harbor.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Castle_Clinton_at_Battery_Park.jpg/1280px-Castle_Clinton_at_Battery_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Castle Clinton at Battery Park.jpg",
+   "author": "Zipper2016",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Castle_Clinton_at_Battery_Park.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/307",
+ "transport": {
+  "airports": [
+   {
+    "name": "Newark Liberty International Airport",
+    "iata": "EWR",
+    "city": "Newark",
+    "country": "US",
+    "lat": 40.6894,
+    "lon": -74.170545,
+    "type": "large_airport",
+    "distance_km": 10.6
+   },
+   {
+    "name": "LaGuardia Airport",
+    "iata": "LGA",
+    "city": "New York",
+    "country": "US",
+    "lat": 40.777199,
+    "lon": -73.872597,
+    "type": "large_airport",
+    "distance_km": 17.5
+   },
+   {
+    "name": "Teterboro Airport",
+    "iata": "TEB",
+    "city": "Teterboro",
+    "country": "US",
+    "lat": 40.850101,
+    "lon": -74.060799,
+    "type": "medium_airport",
+    "distance_km": 17.9
+   }
+  ],
+  "nearest_airport_km": 10.6,
+  "distance_beijing_km": 10968.2,
+  "ferry_terminals": [
+   {
+    "name": "Liberty Island",
+    "name_en": null,
+    "lat": 40.6898508,
+    "lon": -74.0476674,
+    "distance_km": 0.2,
+    "operator": null
+   },
+   {
+    "name": "Ellis Island",
+    "name_en": null,
+    "lat": 40.6989545,
+    "lon": -74.0404631,
+    "distance_km": 1.1,
+    "operator": null
+   },
+   {
+    "name": "Liberty State Park",
+    "name_en": null,
+    "lat": 40.7075327,
+    "lon": -74.0344078,
+    "distance_km": 2.1,
+    "operator": "Circle Line Cruises"
+   },
+   {
+    "name": "Liberty Harbor",
+    "name_en": null,
+    "lat": 40.7096231,
+    "lon": -74.0399336,
+    "distance_km": 2.2,
+    "operator": null
+   },
+   {
+    "name": "Warren Street",
+    "name_en": null,
+    "lat": 40.710974,
+    "lon": -74.0402573,
+    "distance_km": 2.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Liberty State Park",
+    "name_en": null,
+    "lat": 40.7103247,
+    "lon": -74.0559652,
+    "distance_km": 2.4,
+    "operator": "New Jersey Transit"
+   },
+   {
+    "name": "Essex Street",
+    "name_en": null,
+    "lat": 40.7128648,
+    "lon": -74.0359523,
+    "distance_km": 2.7,
+    "operator": "New Jersey Transit"
+   },
+   {
+    "name": "Marin Boulevard",
+    "name_en": null,
+    "lat": 40.7144578,
+    "lon": -74.0432714,
+    "distance_km": 2.7,
+    "operator": "New Jersey Transit"
+   },
+   {
+    "name": "Jersey Avenue",
+    "name_en": null,
+    "lat": 40.7150464,
+    "lon": -74.0484689,
+    "distance_km": 2.8,
+    "operator": "New Jersey Transit"
+   },
+   {
+    "name": "Exchange Place",
+    "name_en": null,
+    "lat": 40.7160215,
+    "lon": -74.0341139,
+    "distance_km": 3.0,
+    "operator": "New Jersey Transit"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Hyatt House New Jersey",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hyatt House",
+   "lat": 40.7159226,
+   "lon": -74.0338368,
+   "distance_km": 3.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton Garden Inn",
+   "lat": 40.7029734,
+   "lon": -74.0122339,
+   "distance_km": 3.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 40.7030515,
+   "lon": -74.0122707,
+   "distance_km": 3.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Jersey City on the Hudson",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hyatt Regency",
+   "lat": 40.7170953,
+   "lon": -74.0316024,
+   "distance_km": 3.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 40.7038609,
+   "lon": -74.0123272,
+   "distance_km": 3.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 55
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/307"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Liberty%20Island"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

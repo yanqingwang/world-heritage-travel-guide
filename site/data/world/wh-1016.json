@@ -1,0 +1,162 @@
+{
+ "id": "wh-1016",
+ "unesco_id": "1016",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 819,
+ "popularity_score": 2047,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "Province of Arequipa",
+ "subdivision_iso": "PE-ARE",
+ "subdivision_zh": "阿雷基帕大区",
+ "subdivision_en": "Arequipa Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿雷基帕城历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historical Centre of the City of Arequipa",
+ "name_local": "Centro histórico de la ciudad de Arequipa",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1016-historical_centre_of_the_city_of_arequip",
+ "lat": -16.4,
+ "lon": -71.533333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "秘鲁阿雷基帕城历史中心由火山岩石建成，它代表了欧洲与本土建筑技术、风格的融合，这些技术和风格体现在殖民宗主、克里奥尔人和印度人的作品中。城市灵动的城墙、拱门、拱形屋顶、院子、开阔的空间，以及建筑正面复杂的巴洛克式装饰，这些都表明了欧洲与本土风格的双重影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The historic centre of Arequipa, built in volcanic sillar rock, represents an integration of European and native building techniques and characteristics, expressed in the admirable work of colonial masters and Criollo and Indian masons. This combination of influences is illustrated by the city's robust walls, archways and vaults, courtyards and open spaces, and the intricate Baroque decoration of its facades.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Construidos con la roca volcánica denominada sillar, los edificios del centro histórico de Arequipa son representativos de la fusión de las técnicas de construcción europeas y autóctonas, plasmadas en el trabajo admirable de los arquitectos y maestros de obras españoles y los albañiles criollos e indígenas. Esa fusión se patentiza en los robustos muros de las edificaciones, las arcadas y bóvedas, los patios y espacios abiertos, y la compleja decoración barroca de las fachadas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arequipa-sta-catalina-c07.jpg?width=1280",
+   "title": "Arequipa-sta-catalina-c07.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Arequipa-sta-catalina-c07.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1016.jpg",
+   "title": "Historical Centre of the City of Arequipa",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1016",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1016",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rodríguez Ballón International Airport",
+    "iata": "AQP",
+    "city": "Arequipa",
+    "country": "PE",
+    "lat": -16.340786,
+    "lon": -71.569485,
+    "type": "large_airport",
+    "distance_km": 7.6
+   },
+   {
+    "name": "General Jorge Fernandez Maldon Airport",
+    "iata": "ILQ",
+    "city": "Ilo",
+    "country": "PE",
+    "lat": -17.695,
+    "lon": -71.344002,
+    "type": "medium_airport",
+    "distance_km": 145.4
+   },
+   {
+    "name": "Inca Manco Capac International Airport",
+    "iata": "JUL",
+    "city": "Juliaca",
+    "country": "PE",
+    "lat": -15.467689,
+    "lon": -70.15653,
+    "type": "large_airport",
+    "distance_km": 180.0
+   }
+  ],
+  "nearest_airport_km": 7.6,
+  "distance_beijing_km": 17260.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 10
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1016"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Arequipa"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-785",
+ "unesco_id": "785",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 566,
+ "popularity_score": 10774,
+ "country": "AT",
+ "country_zh": "奥地利",
+ "country_en": "Austria",
+ "countries": [
+  {
+   "iso2": "AT",
+   "zh": "奥地利",
+   "en": "Austria"
+  }
+ ],
+ "region": "Between Gloggnitz, State of Lower Austria and Simmering, State of Styria",
+ "subdivision_iso": "AT-3",
+ "subdivision_zh": "下奥地利州",
+ "subdivision_en": "Lower Austria",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塞默灵铁路",
+ "name_zh_source": "unesco_official",
+ "name_en": "Semmering Railway",
+ "name_local": "Semmeringbahn",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "785-semmering_railway",
+ "lat": 47.643,
+ "lon": 15.831,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "塞默灵铁路建于1848年到1854年，穿行于崇山峻岭中，全长41公里，是最伟大的土木工程之一，也是铁路建筑史上的里程碑。沿途隧道、高架桥以及其他工程的建造水平很高，因此一直沿用至今。铁路两侧是雄伟的高山，景色十分壮观。铁路开通后，整个地区得到了开发，修建了许多专门用于休闲活动的精美建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Semmering Railway, built over 41 km of high mountains between 1848 and 1854, is one of the greatest feats of civil engineering from this pioneering phase of railway building. The high standard of the tunnels, viaducts and other works has ensured the continuous use of the line up to the present day. It runs through a spectacular mountain landscape and there are many fine buildings designed for leisure activities along the way, built when the area was opened up due to the advent of the railway.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Semmeringbahn ist eine Eisenbahnstrecke in Österreich und Teilstrecke der Südbahn. Sie verläuft von Gloggnitz in Niederösterreich über den Semmering nach Mürzzuschlag in der Steiermark. Sie ist die erste normalspurige Gebirgsbahn Europas, wurde von Carl von Ghega geplant und 1854 eröffnet. Strecke und Lokomotivbau der Semmeringbahn gelten als Meilensteine der Eisenbahngeschichte. Seit 1998 gehört sie zum UNESCO-Weltkulturerbe.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Breitenstein%20-%20Semmeringbahn%20-%20Krausel-Klause-Viadukt%20-%202.jpg?width=1280",
+   "title": "Breitenstein - Semmeringbahn - Krausel-Klause-Viadukt - 2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Breitenstein%20-%20Semmeringbahn%20-%20Krausel-Klause-Viadukt%20-%202.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_785.jpg",
+   "title": "Semmering Railway",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/785",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/785",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vienna International Airport",
+    "iata": "VIE",
+    "city": "Vienna",
+    "country": "AT",
+    "lat": 48.110298,
+    "lon": 16.5697,
+    "type": "large_airport",
+    "distance_km": 75.7
+   },
+   {
+    "name": "Graz Airport",
+    "iata": "GRZ",
+    "city": "Feldkirchen bei Graz",
+    "country": "AT",
+    "lat": 46.9911,
+    "lon": 15.4396,
+    "type": "large_airport",
+    "distance_km": 78.3
+   },
+   {
+    "name": "M. R. Štefánik Airport",
+    "iata": "BTS",
+    "city": "Bratislava",
+    "country": "SK",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "distance_km": 118.5
+   }
+  ],
+  "nearest_airport_km": 75.7,
+  "distance_beijing_km": 7452.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AT",
+  "country_zh": "奥地利",
+  "country_en": "Austria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AT",
+   "country_zh": "奥地利",
+   "country_en": "Austria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/785"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Semmering%20Railway"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

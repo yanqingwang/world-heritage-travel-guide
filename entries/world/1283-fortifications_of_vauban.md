@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(i)(ii)(iv)"
 lat: 50.2825
 lon: 2.75888889
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:44Z"
 ---
 
 # 沃邦防禦工事 / Fortifications of Vauban

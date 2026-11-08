@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(v)"
 lat: -18.480596
 lon: -70.321114
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:51Z"
 ---
 
 # 阿里卡和帕里纳科塔地区的新克罗文化聚落及木乃伊制作 / Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region

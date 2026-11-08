@@ -1,0 +1,234 @@
+{
+ "id": "cn-1153",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "青海省",
+ "province_en": "Qinghai",
+ "province_iso": "CN-QH",
+ "city_zh": "西宁市",
+ "city_en": "Xining",
+ "name_zh": "西宁市塔尔寺景区",
+ "name_en": "Kumbum Monastery",
+ "name_en_source": "wikipedia",
+ "slug": "xiningshitaersi-1153",
+ "lat": 36.498621,
+ "lon": 101.575088,
+ "address_zh": "青海省西宁市湟中县鲁沙尔镇金塔路56号",
+ "address_en": "No. 56, Jinta Road, Rushal Town, Huangzhong County, Xining City, Qinghai Province",
+ "address_en_source": "machine_translation",
+ "category": "grotto",
+ "category_zh": "石窟艺术",
+ "category_en": "Grotto art",
+ "intro_zh": "塔尔寺又名塔儿寺，创建于明洪武十年，是中国藏传佛教格鲁派（黄教）六大寺院之一，是中国西北地区藏传佛教的活动中心。酥油花、壁画和堆绣被誉为“塔尔寺艺术三绝”。寺内还珍藏了许多佛教典籍和历史、文学、哲学、医药、立法等方面的学术专著。塔尔寺每年举行的佛事活动“四大法会”，也是热闹非凡。",
+ "intro_en": "Kumbum Monastery (Tibetan: སྐུ་འབུམ་བྱམས་པ་གླིང་, THL Kumbum Jampa Ling), also called Ta'er Temple, is a Tibetan gompa in Lusar, Xining, Qinghai, China. It was founded in 1583 in a narrow valley close to the village of Lusar in the historical Tibetan region of Amdo. Its superior monastery is Drepung Monastery, immediately to the west of Lhasa. It is ranked in importance as second only to Lhasa.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kumbummonastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Kumbummonastery.jpg",
+   "author": "The original uploader was Blofeld of SPECTRE at English Wikipedia .",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:Kumbummonastery.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_Temple_in_Kumbum_Monastery.jpg/1280px-A_Temple_in_Kumbum_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A Temple in Kumbum Monastery.jpg",
+   "author": "Charlie fong",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Temple_in_Kumbum_Monastery.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kumbum_Monastery.jpg/1280px-Kumbum_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kumbum Monastery.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/53727265105/",
+   "source": "https://commons.wikimedia.org/wiki/File:Kumbum_Monastery.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kumbum_monastery%2C_small_temple_roof%2C_Qinghai_province%2C_China.png/1280px-Kumbum_monastery%2C_small_temple_roof%2C_Qinghai_province%2C_China.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kumbum monastery, small temple roof, Qinghai province, China.png",
+   "author": "Wikiwakhan",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kumbum_monastery%2C_small_temple_roof%2C_Qinghai_province%2C_China.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Kumbum_monastery_roof%2C_Qinghai_province%2C_China.png/1280px-Kumbum_monastery_roof%2C_Qinghai_province%2C_China.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kumbum monastery roof, Qinghai province, China.png",
+   "author": "Wikiwakhan",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kumbum_monastery_roof%2C_Qinghai_province%2C_China.png"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xining Caojiabao International Airport",
+    "iata": "XNN",
+    "city": "Haidong (Huzhu Tu Autonomous County)",
+    "country": "CN",
+    "lat": 36.52775,
+    "lon": 102.040215,
+    "type": "large_airport",
+    "distance_km": 41.7
+   },
+   {
+    "name": "Lanzhou Zhongchuan International Airport",
+    "iata": "LHW",
+    "city": "Lanzhou (Yongdeng)",
+    "country": "CN",
+    "lat": 36.515202,
+    "lon": 103.620003,
+    "type": "large_airport",
+    "distance_km": 182.8
+   },
+   {
+    "name": "Haibei Qilian Airport",
+    "iata": "HBQ",
+    "city": "Haibei (Qilian)",
+    "country": "CN",
+    "lat": 38.008068,
+    "lon": 100.645065,
+    "type": "small_airport",
+    "distance_km": 186.9
+   }
+  ],
+  "nearest_airport_km": 41.7,
+  "high_speed_stations": [
+   {
+    "name": "西宁",
+    "name_en": "Xining",
+    "lat": 36.6207609,
+    "lon": 101.813039,
+    "distance_km": 25.2,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "甘河工业",
+    "name_en": null,
+    "lat": 36.5575026,
+    "lon": 101.5254387,
+    "distance_km": 7.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "双寨",
+    "name_en": null,
+    "lat": 36.6374038,
+    "lon": 101.5691771,
+    "distance_km": 15.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "扎麻隆",
+    "name_en": null,
+    "lat": 36.6443261,
+    "lon": 101.4561031,
+    "distance_km": 19.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Sofitel hotel",
+   "name_en": "Sofitel hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.6437854,
+   "lon": 101.7191019,
+   "distance_km": 20.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西宁希尔顿欢朋酒店",
+   "name_en": "Hampton by Hilton Xining",
+   "stars": null,
+   "brand": null,
+   "lat": 36.5858408,
+   "lon": 101.8170253,
+   "distance_km": 23.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西宁湟中盛豪商务宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4980491,
+   "lon": 101.5789455,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宗曲臧家客栈",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4889638,
+   "lon": 101.5737854,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香巴林卡酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.4923027,
+   "lon": 101.586064,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 29,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/塔尔寺"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

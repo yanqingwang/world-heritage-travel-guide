@@ -1,0 +1,154 @@
+{
+ "id": "wh-791",
+ "unesco_id": "791",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1161,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Etat de Yucatan, municipalites Muna et Santa Elena",
+ "subdivision_iso": "MX-YUC",
+ "subdivision_zh": "尤卡坦州",
+ "subdivision_en": "Yucatán",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "乌斯马尔古镇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Pre-Hispanic Town of Uxmal",
+ "name_local": "Ciudad prehispánica de Uxmal",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "791-pre-hispanic_town_of_uxmal",
+ "lat": 20.3617,
+ "lon": -89.7703,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于尤卡坦的乌斯马尔玛雅城建于公元700年左右，当时约有人口25 000人。城中的建筑都可以追溯到公元700年至1000年间，从当地的城镇布局中我们找到古代天文学思想在其中的体现。西班牙人所称的“占卜者金字塔”是进行宗教仪式的中心，那里有许多设计精巧的房屋，这些房屋都装饰有描写雨神查克的图案和雕刻。乌斯马尔、卡卜、拉巴那以及萨伊尔这些宗教仪式的遗址都代表了玛雅人艺术和建筑的顶峰。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Mayan town of Uxmal, in Yucatán, was founded c. A.D. 700 and had some 25,000 inhabitants. The layout of the buildings, which date from between 700 and 1000, reveals a knowledge of astronomy. The Pyramid of the Soothsayer, as the Spaniards called it, dominates the ceremonial centre, which has well-designed buildings decorated with a profusion of symbolic motifs and sculptures depicting Chaac, the god of rain. The ceremonial sites of Uxmal, Kabah, Labna and Sayil are considered the high points of Mayan art and architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situada en el Yucatán, la ciudad maya de Uxmal fue fundada hacia el año 700 y llegó a contar con cerca de 25.000 habitantes. La disposición de sus edificios, construidos entre los años 700 y 1000, muestra los conocimientos de astronomía de los mayas. El edificio bautizado por los españoles con el nombre de Pirámide del Adivino domina el centro ceremonial, que está integrado por monumentos de impecable trazado ricamente ornamentados con motivos simbólicos y efigies esculpidas de Chaac, el dios de la lluvia. Los sitios ceremoniales de Uxmal, Kabáh, Labná y Sayil marcan el apogeo del arte y la cultura mayas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_791.jpg",
+   "title": "Pre-Hispanic Town of Uxmal",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/791",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/791",
+ "transport": {
+  "airports": [
+   {
+    "name": "Manuel Crescencio Rejón International Airport",
+    "iata": "MID",
+    "city": "Mérida",
+    "country": "MX",
+    "lat": 20.930485,
+    "lon": -89.645462,
+    "type": "large_airport",
+    "distance_km": 64.6
+   },
+   {
+    "name": "Ingeniero Alberto Acuña Ongay International Airport",
+    "iata": "CPE",
+    "city": "Campeche",
+    "country": "MX",
+    "lat": 19.815969,
+    "lon": -90.500125,
+    "type": "medium_airport",
+    "distance_km": 97.4
+   },
+   {
+    "name": "Felipe Carrillo Puerto International Airport Tulum",
+    "iata": "TQO",
+    "city": "Tulum",
+    "country": "MX",
+    "lat": 20.172098,
+    "lon": -87.660272,
+    "type": "large_airport",
+    "distance_km": 221.1
+   }
+  ],
+  "nearest_airport_km": 64.6,
+  "distance_beijing_km": 12706.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/791"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

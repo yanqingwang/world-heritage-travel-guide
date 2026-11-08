@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Jining"
 lat: 35.60299
 lon: 116.997127
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 济宁市明故城三孔旅游区 / Jining

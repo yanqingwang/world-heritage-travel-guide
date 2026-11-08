@@ -1,0 +1,178 @@
+{
+ "id": "cn-305",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "宜昌市",
+ "city_en": "Yichang",
+ "name_zh": "神农架生态旅游区",
+ "name_en": "Shennongjiashengtai Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "shennongjiashengtai-305",
+ "lat": 31.360115,
+ "lon": 110.576563,
+ "address_zh": "湖北省宜昌市兴山县神农架林区",
+ "address_en": "Shennongjia Forest District, Xingshan County, Yichang City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "神农架是国家森林公园、国家湿地公园、国家地质公园、世界地质公园、世界自然遗产地，拥有源自地球上最完整的前寒武纪地层，燕山、喜马拉雅冰川运动造就的地质奇观，形成了以“华中屋脊”为中心，集自然奇观、科考探秘、天人和谐于一体的原生态旅游区。",
+ "intro_en": "Shennongjia is a national forest park, a national wetland park, a national geological park, a world geological park, and a world natural heritage site. It has the most complete Precambrian strata on the earth, geological wonders created by the Yanshan Mountains and Himalayan glaciers, forming an original ecological tourist area with the \"Roof of Central China\" as the center, integrating natural wonders, scientific research and exploration, and harmony between nature and man.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shennongjia Hongping Airport",
+    "iata": "HPG",
+    "city": "Shennongjia (Hongping)",
+    "country": "CN",
+    "lat": 31.626,
+    "lon": 110.34,
+    "type": "medium_airport",
+    "distance_km": 37.1
+   },
+   {
+    "name": "Chongqing Wushan Airport",
+    "iata": "WSK",
+    "city": "Wushan",
+    "country": "CN",
+    "lat": 31.06896,
+    "lon": 109.708958,
+    "type": "small_airport",
+    "distance_km": 88.6
+   },
+   {
+    "name": "Yichang Sanxia Airport",
+    "iata": "YIH",
+    "city": "Yichang (Xiaoting)",
+    "country": "CN",
+    "lat": 30.554132,
+    "lon": 111.482563,
+    "type": "medium_airport",
+    "distance_km": 124.5
+   }
+  ],
+  "nearest_airport_km": 37.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "兴山",
+    "name_en": "Xingshan",
+    "lat": 31.3276701,
+    "lon": 110.7455124,
+    "distance_km": 16.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "巴东",
+    "name_en": null,
+    "lat": 31.1636161,
+    "lon": 110.3764311,
+    "distance_km": 29.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "神农架",
+    "name_en": "Shennongjia",
+    "lat": 31.6310328,
+    "lon": 110.9098671,
+    "distance_km": 43.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "国源快捷酒店",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 31.3452578,
+   "lon": 110.7531442,
+   "distance_km": 16.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香溪大酒店",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 31.3511461,
+   "lon": 110.7549638,
+   "distance_km": 17.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "兴烟宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.3481766,
+   "lon": 110.7528317,
+   "distance_km": 16.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "神农惠苑国际大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.4602752,
+   "lon": 110.3966066,
+   "distance_km": 20.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "龙锦大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.4599617,
+   "lon": 110.3957301,
+   "distance_km": 20.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 14,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

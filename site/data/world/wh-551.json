@@ -1,0 +1,162 @@
+{
+ "id": "wh-551",
+ "unesco_id": "551",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 532,
+ "popularity_score": 12195,
+ "country": "NZ",
+ "country_zh": "新西兰",
+ "country_en": "New Zealand",
+ "countries": [
+  {
+   "iso2": "NZ",
+   "zh": "新西兰",
+   "en": "New Zealand"
+  }
+ ],
+ "region": "Southwest of South Island",
+ "subdivision_iso": "NZ-STL",
+ "subdivision_zh": "南地大区",
+ "subdivision_en": "Southland Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "蒂瓦希普纳穆-新西兰西南部地区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Te Wahipounamu – South West New Zealand",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "551-te_wahipounamu_–_south_west_new_zealand",
+ "lat": -45.036,
+ "lon": 167.32,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个公园位于新西兰西南部，其景观在冰川的持续作用下形成，有海滩、石头海岸、悬崖、湖泊和瀑布。公园的三分之二被南部的山毛榉树和罗汉松覆盖，其中一些树的树龄已超过800年。公园里的大鹦鹉是世界上仅有的高山鹦鹉，这里还有一种巨大的不会飞的南秧鸟，也属于稀有的濒危品种。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The landscape in this park, situated in south-west New Zealand, has been shaped by successive glaciations into fjords, rocky coasts, towering cliffs, lakes and waterfalls. Two-thirds of the park is covered with southern beech and podocarps, some of which are over 800 years old. The kea, the only alpine parrot in the world, lives in the park, as does the rare and endangered takahe, a large flightless bird.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MilfordSound.jpg?width=1280",
+   "title": "MilfordSound.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:MilfordSound.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_551.jpg",
+   "title": "Te Wahipounamu – South West New Zealand",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/551",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/551",
+ "transport": {
+  "airports": [
+   {
+    "name": "Queenstown Airport",
+    "iata": "ZQN",
+    "city": "Queenstown",
+    "country": "NZ",
+    "lat": -45.019205,
+    "lon": 168.746379,
+    "type": "large_airport",
+    "distance_km": 112.1
+   },
+   {
+    "name": "Wanaka Airport",
+    "iata": "WKA",
+    "city": "Wanaka",
+    "country": "NZ",
+    "lat": -44.722091,
+    "lon": 169.246287,
+    "type": "medium_airport",
+    "distance_km": 155.7
+   },
+   {
+    "name": "Invercargill Airport",
+    "iata": "IVC",
+    "city": "Invercargill",
+    "country": "NZ",
+    "lat": -46.41239929199219,
+    "lon": 168.31300354003906,
+    "type": "medium_airport",
+    "distance_km": 171.4
+   }
+  ],
+  "nearest_airport_km": 112.1,
+  "distance_beijing_km": 10797.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NZ",
+  "country_zh": "新西兰",
+  "country_en": "New Zealand",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May enter using eGate.[100] Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electron"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NZ",
+   "country_zh": "新西兰",
+   "country_en": "New Zealand",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May enter using eGate.[100] Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electron"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/551"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Te%20Wahipounamu"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

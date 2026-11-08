@@ -1,0 +1,170 @@
+{
+ "id": "cn-743",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "福建省",
+ "province_en": "Fujian",
+ "province_iso": "CN-FJ",
+ "city_zh": "宁德市",
+ "city_en": "Ningde",
+ "name_zh": "宁德市（白水洋•鸳鸯溪）旅游景区",
+ "name_en": "Baishuiyang Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "ningdeshibaishuiyang-yuanyangxi-743",
+ "lat": 27.058977,
+ "lon": 119.118059,
+ "address_zh": "宁德市屏南县双溪镇",
+ "address_en": "Shuangxi Town, Pingnan County, Ningde City",
+ "address_en_source": "machine_translation",
+ "category": "natural",
+ "category_zh": "自然风光",
+ "category_en": "Natural scenery",
+ "intro_zh": "白水洋，位于福建省宁德市屏南县，总面积达77.34平方公里，拥有世界唯一的鸳鸯猕猴自然保护区。 鸳鸯溪国家级风景名胜区位于屏南县东北部，总面积78.8平方公里，是中国唯一的鸳鸯鸟保护区。 每年秋季有数成百上千鸳鸯从北方飞来越冬，这一带早在一百多年前就发现鸳鸯，故有\"鸳鸯之乡\"的美誉。",
+ "intro_en": "Baishuiyang is located in Pingnan County, Ningde City, Fujian Province, with a total area of ​​77.34 square kilometers. It has the world's only mandarin duck and macaque nature reserve. Yuanyangxi National Scenic Area is located in the northeast of Pingnan County, with a total area of ​​78.8 square kilometers. It is the only mandarin duck bird sanctuary in China. Every autumn, hundreds of mandarin ducks fly from the north to spend the winter. Mandarin ducks were discovered in this area more than a hundred years ago, so it has the reputation of \"the hometown of mandarin ducks\".",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC_-_Sparkling_Ripples_-_2014.07_-_panoramio.jpg/1280px-%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC_-_Sparkling_Ripples_-_2014.07_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "波光粼粼 - Sparkling Ripples - 2014.07 - panoramio.jpg",
+   "author": "rheins",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161030065037/http://www.panoramio.com/photo/109925057",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%B3%A2%E5%85%89%E7%B2%BC%E7%B2%BC_-_Sparkling_Ripples_-_2014.07_-_panoramio.jpg"
+  }
+ ],
+ "web": "http://www.yyx.com.cn/",
+ "booking": "http://www.yyx.com.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Matsu Beigan Airport",
+    "iata": "MFK",
+    "city": "Matsu (Beigan)",
+    "country": "TW",
+    "lat": 26.22414,
+    "lon": 120.002679,
+    "type": "medium_airport",
+    "distance_km": 127.9
+   },
+   {
+    "name": "Matsu Nangan Airport",
+    "iata": "LZN",
+    "city": "Matsu (Nangan)",
+    "country": "TW",
+    "lat": 26.159656,
+    "lon": 119.958376,
+    "type": "medium_airport",
+    "distance_km": 130.3
+   },
+   {
+    "name": "Nanping Wuyishan Airport",
+    "iata": "WUS",
+    "city": "Wuyishan",
+    "country": "CN",
+    "lat": 27.7019,
+    "lon": 118.000999,
+    "type": "medium_airport",
+    "distance_km": 131.4
+   }
+  ],
+  "nearest_airport_km": 127.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "屏南",
+    "name_en": null,
+    "lat": 26.9002092,
+    "lon": 119.1224859,
+    "distance_km": 17.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "礼门",
+    "name_en": null,
+    "lat": 26.9523491,
+    "lon": 119.2626637,
+    "distance_km": 18.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "龟潭",
+    "name_en": null,
+    "lat": 26.8925128,
+    "lon": 119.0758315,
+    "distance_km": 19.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "远景酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.0201636,
+   "lon": 119.0423645,
+   "distance_km": 8.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "竺峰宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.0230791,
+   "lon": 119.0381763,
+   "distance_km": 8.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华达美酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.1133469,
+   "lon": 119.3150318,
+   "distance_km": 20.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/白水洋"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

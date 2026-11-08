@@ -1,0 +1,162 @@
+{
+ "id": "wh-266",
+ "unesco_id": "266",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 672,
+ "popularity_score": 6622,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "San Juan, Puerto Rico",
+ "subdivision_iso": "US-PR",
+ "subdivision_zh": "波多黎各",
+ "subdivision_en": "Puerto Rico",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波多黎各的古堡与圣胡安历史遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "266-la_fortaleza_and_san_juan_national_histo",
+ "lat": 18.46388889,
+ "lon": -66.11916667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元16世纪至20世纪期间，在加勒比海的战略要地上建起了一系列防御工事用于保护圣胡安城和圣胡安海湾。这些建筑很好地展示了欧洲军事建筑与美洲大陆港口实际情况相结合后产生的和谐效果。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Between the 16th and 20th centuries, a series of defensive structures was built at this strategic point in the Caribbean Sea to protect the city and the Bay of San Juan. They represent a fine display of European military architecture adapted to harbour sites on the American continent.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Fortaleza%20Street.JPG?width=1280",
+   "title": "La Fortaleza Street.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:La%20Fortaleza%20Street.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_266.jpg",
+   "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/266",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/266",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fernando Luis Ribas Dominicci Airport",
+    "iata": "SIG",
+    "city": "San Juan",
+    "country": "PR",
+    "lat": 18.45680046081543,
+    "lon": -66.09809875488281,
+    "type": "medium_airport",
+    "distance_km": 2.4
+   },
+   {
+    "name": "Luis Munoz Marin International Airport",
+    "iata": "SJU",
+    "city": "San Juan",
+    "country": "PR",
+    "lat": 18.4394,
+    "lon": -66.001801,
+    "type": "large_airport",
+    "distance_km": 12.7
+   },
+   {
+    "name": "José Aponte de la Torre Airport",
+    "iata": "NRR",
+    "city": "Ceiba",
+    "country": "PR",
+    "lat": 18.247262,
+    "lon": -65.63979,
+    "type": "medium_airport",
+    "distance_km": 56.0
+   }
+  ],
+  "nearest_airport_km": 2.4,
+  "distance_beijing_km": 13500.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/266"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/La%20Fortaleza%20and%20San%20Juan%20National%20Historic%20Site%20in%20Puerto%20Rico"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

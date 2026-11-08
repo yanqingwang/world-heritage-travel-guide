@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 40.18473
 lon: 29.06234
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:47Z"
 ---
 
 # 布尔萨和居马勒克兹克：奥斯曼帝国的诞生 / Bursa and Cumalıkızık: the Birth of the Ottoman Empire

@@ -1,0 +1,162 @@
+{
+ "id": "wh-285",
+ "unesco_id": "285",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1059,
+ "popularity_score": null,
+ "country": "CO",
+ "country_zh": "哥伦比亚",
+ "country_en": "Colombia",
+ "countries": [
+  {
+   "iso2": "CO",
+   "zh": "哥伦比亚",
+   "en": "Colombia"
+  }
+ ],
+ "region": "Bolivar Department",
+ "subdivision_iso": "CO-BOL",
+ "subdivision_zh": "玻利瓦尔省",
+ "subdivision_en": "Bolívar Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡塔赫纳港口、要塞和古迹群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Port, Fortresses and Group of Monuments, Cartagena",
+ "name_local": "Puerto, fortalezas y conjunto monumental de Cartagena",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "285-port,_fortresses_and_group_of_monuments,",
+ "lat": 10.41666667,
+ "lon": -75.53333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡塔赫纳位于加勒比海海湾，有着南美面积最大的防御工事。这个城市分为三个区：圣佩德罗，拥有大教堂和许多安达卢西亚风格的宫殿；圣地亚哥，商人和中产阶级的居住区；以及盖特塞马尼，人们称之为“平民区”。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in a bay in the Caribbean Sea, Cartagena has the most extensive fortifications in South America. A system of zones divides the city into three neighbourhoods: San Pedro, with the cathedral and many Andalusian-style palaces; San Diego, where merchants and the middle class lived; and Gethsemani, the 'popular quarter'.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Resguardado en una bahía del mar Caribe, el puerto de Cartagena posee el conjunto de fortificaciones más completo de toda Sudamérica. Un sistema de zonificación divide la ciudad en tres barrios diferenciados: el de San Pedro, con la catedral y numerosos palacios de estilo andaluz; el de San Diego, antiguo lugar de residencia de los mercaderes y la pequeña burguesía; y la barriada popular de Getsemaní.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunset-cartagena-tower-dewired.jpg?width=1280",
+   "title": "Sunset-cartagena-tower-dewired.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset-cartagena-tower-dewired.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_285.jpg",
+   "title": "Port, Fortresses and Group of Monuments, Cartagena",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/285",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/285",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rafael Nuñez International Airport",
+    "iata": "CTG",
+    "city": "Cartagena",
+    "country": "CO",
+    "lat": 10.4424,
+    "lon": -75.513,
+    "type": "large_airport",
+    "distance_km": 3.6
+   },
+   {
+    "name": "Ernesto Cortissoz International Airport",
+    "iata": "BAQ",
+    "city": "Barranquilla",
+    "country": "CO",
+    "lat": 10.8896,
+    "lon": -74.7808,
+    "type": "large_airport",
+    "distance_km": 97.6
+   },
+   {
+    "name": "Golfo de Morrosquillo Airport",
+    "iata": "TLU",
+    "city": "Santiago de Tolú",
+    "country": "CO",
+    "lat": 9.50945,
+    "lon": -75.5854,
+    "type": "small_airport",
+    "distance_km": 101.0
+   }
+  ],
+  "nearest_airport_km": 3.6,
+  "distance_beijing_km": 14260.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CO",
+  "country_zh": "哥伦比亚",
+  "country_en": "Colombia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa[6][40]",
+  "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CO",
+   "country_zh": "哥伦比亚",
+   "country_en": "Colombia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa[6][40]",
+   "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/285"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

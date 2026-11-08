@@ -1,0 +1,161 @@
+{
+ "id": "wh-1179",
+ "unesco_id": "1179",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 720,
+ "popularity_score": 5146,
+ "country": "CH",
+ "country_zh": "瑞士",
+ "country_en": "Switzerland",
+ "countries": [
+  {
+   "iso2": "CH",
+   "zh": "瑞士",
+   "en": "Switzerland"
+  }
+ ],
+ "region": "Cantons of Glarus, St. Gallen and Graubünden",
+ "subdivision_iso": "CH-GR",
+ "subdivision_zh": "格劳宾登州",
+ "subdivision_en": "Canton of the Grisons",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨多纳地质结构区",
+ "name_zh_source": "wikidata",
+ "name_en": "Swiss Tectonic Arena Sardona",
+ "name_local": "Glarner Hauptüberschiebung",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "1179-swiss_tectonic_arena_sardona",
+ "lat": 46.91667,
+ "lon": 9.25,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "萨多纳地质结构区位于瑞士东部阿尔卑斯山脉地区，面积32850公顷。这一地区以拥有造山运动形成的地质断面而闻名。自18世纪以来就是一处重要的地质科学遗址。此外该地区还拥有7座海拔3000米以上的山峰。2008年被列入世界自然遗产。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "The Swiss Tectonic Arena Sardona in the north-eastern part of the country covers a mountainous area of 32,850 ha which features seven peaks that rise above 3,000 m. The area displays an exceptional example of mountain building through continental collision and features . excellent geological sections through tectonic thrust, i.e. the process whereby older, deeper rocks are carried onto younger, shallower rocks. The site is distinguished by the clear three-dimensional exposure of the structures and processes that characterize this phenomenon and has been a key site for the geological sciences since the 18 th century. The Glarus Alps are glaciated mountains rising dramatically above narrow river valleys and are the site of the largest post-glacial landslide in the Central Alpine region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Glarner Hauptüberschiebung ist eine der prominentesten Hauptstörungen der Alpen. Ihr Ausbiss in der Typusregion bei Glarus im Kantonsdreieck Glarus-St.-Gallen-Graubünden zählt zu den berühmtesten Geotopen der Schweiz. Die Glarner Hauptüberschiebung entstand, als sich aufgrund der Plattentektonik eine ältere, emporgehobene Gesteinsschicht 40 Kilometer nach Norden über eine jüngere Gesteinsschicht schob. Die ursprünglich zehn bis 15 Kilometer dicke obere Schicht aus rötlichem Verrucanogestein hat ein Alter von etwa 260 bis 300 Millionen Jahre (Perm). Die untere, jüngere Schicht aus schiefrigem Flysch ist dagegen lediglich 35 bis 50 Millionen Jahre alt (Paläogen). Teilweise ist das ältere Gestein auch noch von mesozoischen Schichten (Jura, Kreide) überschoben. Diese Lagerung von älterem über jüngerem Gestein ist an einer hellen Trennschicht aus Kalkstein besonders gut erkennbar. Gut zu sehen ist die Überschiebung an den durch das Martinsloch bekannten Tschingelhörnern zwischen Elm und Flims sowie bei einer «Lochsite» (auch Lochseite) genannten Stelle im unteren Sernftal bei Sool. Der Ort liegt an einer leicht zugänglichen Stelle im Talgrund. Von dieser Landschaft wird im American Museum of Natural History in New York eine massstäbliche Reliefabbildung gezeigt.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Picswiss%20GL-12-03.jpg?width=1280",
+   "title": "Picswiss GL-12-03.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Picswiss%20GL-12-03.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1179.jpg",
+   "title": "Swiss Tectonic Arena Sardona",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1179",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1179",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sankt Gallen Altenrhein Airport",
+    "iata": "ACH",
+    "city": "St. Gallen",
+    "country": "CH",
+    "lat": 47.485001,
+    "lon": 9.56077,
+    "type": "medium_airport",
+    "distance_km": 67.4
+   },
+   {
+    "name": "Zürich Airport",
+    "iata": "ZRH",
+    "city": "Zurich",
+    "country": "CH",
+    "lat": 47.458056,
+    "lon": 8.548056,
+    "type": "large_airport",
+    "distance_km": 80.2
+   },
+   {
+    "name": "Bodensee Airport Friedrichshafen",
+    "iata": "FDH",
+    "city": "Friedrichshafen",
+    "country": "DE",
+    "lat": 47.671299,
+    "lon": 9.51149,
+    "type": "large_airport",
+    "distance_km": 86.2
+   }
+  ],
+  "nearest_airport_km": 67.4,
+  "distance_beijing_km": 7910.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CH",
+  "country_zh": "瑞士",
+  "country_en": "Switzerland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CH",
+   "country_zh": "瑞士",
+   "country_en": "Switzerland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1179"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Glarus%20thrust"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

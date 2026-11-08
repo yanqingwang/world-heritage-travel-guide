@@ -1,0 +1,162 @@
+{
+ "id": "wh-256",
+ "unesco_id": "256",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 261,
+ "popularity_score": 37447,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "Northwest Territories and Alberta",
+ "subdivision_iso": "CA-AB",
+ "subdivision_zh": "阿尔伯塔省",
+ "subdivision_en": "Alberta",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伍德布法罗国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Wood Buffalo National Park",
+ "name_local": "Parc national Wood Buffalo",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "256-wood_buffalo_national_park",
+ "lat": 59.3833,
+ "lon": -112.983,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个公园位于加拿大中北部的平原上（占地44,807平方公里），是北美数量最多的野牛的栖息地，同时也是美洲鹤的天然巢穴。公园另一个引人入胜的景点是皮斯河(Peace river)和阿萨巴斯卡河(Athabasca river)之间世界上最大的内陆三角洲。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated on the plains in the north-central region of Canada, the park (which covers 44,807 km2) is home to North America's largest population of wild bison. It is also the natural nesting place of the whooping crane. Another of the park's attractions is the world's largest inland delta, located at the mouth of the Peace and Athabasca rivers.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé dans les plaines de la région centre-nord du Canada, ce parc abrite la plus grande population américaine de bisons en liberté et est aussi l'aire naturelle de nidification de la grue blanche d'Amérique. Parmi ses beautés naturelles, on peut noter le plus grand delta intérieur du monde, situé à l'embouchure des rivières la Paix et Athabasca. Le parc couvre 44 807 km 2 .",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wood-Buffalo-NP%20Waldbison%2098-07-02.jpg?width=1280",
+   "title": "Wood-Buffalo-NP Waldbison 98-07-02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Wood-Buffalo-NP%20Waldbison%2098-07-02.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_256.jpg",
+   "title": "Wood Buffalo National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/256",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/256",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fort Smith Airport",
+    "iata": "YSM",
+    "city": "Fort Smith",
+    "country": "CA",
+    "lat": 60.020302,
+    "lon": -111.961998,
+    "type": "medium_airport",
+    "distance_km": 91.1
+   },
+   {
+    "name": "Fort Chipewyan Airport",
+    "iata": "YPY",
+    "city": "Fort Chipewyan",
+    "country": "CA",
+    "lat": 58.7672004699707,
+    "lon": -111.11699676513672,
+    "type": "medium_airport",
+    "distance_km": 126.7
+   },
+   {
+    "name": "Hay River / Merlyn Carter Airport",
+    "iata": "YHY",
+    "city": "Hay River",
+    "country": "CA",
+    "lat": 60.8396987915,
+    "lon": -115.782997131,
+    "type": "medium_airport",
+    "distance_km": 224.2
+   }
+  ],
+  "nearest_airport_km": 91.1,
+  "distance_beijing_km": 8035.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/256"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wood%20Buffalo%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

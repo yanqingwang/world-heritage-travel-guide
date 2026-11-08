@@ -1,0 +1,162 @@
+{
+ "id": "wh-690",
+ "unesco_id": "690",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 623,
+ "popularity_score": 8702,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "South Moravian Region",
+ "subdivision_iso": "CZ-635",
+ "subdivision_zh": "薩扎瓦河畔日賈爾縣",
+ "subdivision_en": "Žďár nad Sázavou District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "泽莱纳山的内波穆克圣约翰朝圣教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+ "name_local": "Kostel svatého Jana Nepomuckého (Žďár nad Sázavou)",
+ "local_lang": "cs",
+ "local_lang_name": "Czech",
+ "slug": "690-pilgrimage_church_of_st_john_of_nepomuk_",
+ "lat": 49.58,
+ "lon": 15.94194,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在泽列纳霍拉(Zelena Hora)，离摩拉维亚的萨扎瓦河畔日贾尔不远，坐落着这座为纪念内波穆克圣约翰(St John of Nepomuk)而修建的朝圣教堂。教堂建于18世纪初，为星型式样，是伟大的建筑师扬·布拉泽伊·圣蒂尼(Jan Blazej Santini)大师的举世之作，设计风格承前启后，衔接了新哥特式与巴洛克式两种风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This pilgrimage church, built in honour of St John of Nepomuk, stands at Zelená Hora, not far from Ždár nad Sázavou in Moravia. Constructed at the beginning of the 18th century on a star-shaped plan, it is the most unusual work by the great architect Jan Blazej Santini, whose highly original style falls between neo-Gothic and Baroque.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Poutní kostel Svatého Jana Nepomuckého na Zelené hoře ve městě Žďár nad Sázavou patří mezi nejvýznamnější stavby barokní gotiky architekta Jana Blažeje Santiniho-Aichela. Tento vrcholný Santiniho výtvor byl roku 1994 zařazen na Seznam světových kulturních a přírodních památek UNESCO. Kostel stojí na Moravě na Zelené hoře (v těsné blízkosti česko-moravské hranice) v katastrálním území Zámek Žďár nedaleko bývalého cisterciáckého kláštera Studnice Blahoslavené Panny Marie.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kostel%20svat%C3%A9ho%20Jana%20Nepomuck%C3%A9ho%20%283%29.jpg?width=1280",
+   "title": "Kostel svatého Jana Nepomuckého (3).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kostel%20svat%C3%A9ho%20Jana%20Nepomuck%C3%A9ho%20%283%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_690.jpg",
+   "title": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/690",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/690",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pardubice Airport",
+    "iata": "PED",
+    "city": "Pardubice",
+    "country": "CZ",
+    "lat": 50.015049,
+    "lon": 15.73981,
+    "type": "large_airport",
+    "distance_km": 50.5
+   },
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 72.4
+   },
+   {
+    "name": "České Budějovice South Bohemian Airport",
+    "iata": "JCL",
+    "city": "České Budějovice",
+    "country": "CZ",
+    "lat": 48.948171,
+    "lon": 14.42832,
+    "type": "large_airport",
+    "distance_km": 130.4
+   }
+  ],
+  "nearest_airport_km": 50.5,
+  "distance_beijing_km": 7380.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "cs",
+  "local_lang_name": "Czech",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/690"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pilgrimage%20Church%20of%20Saint%20John%20of%20Nepomuk"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

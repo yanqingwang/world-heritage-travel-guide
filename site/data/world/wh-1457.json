@@ -1,0 +1,159 @@
+{
+ "id": "wh-1457",
+ "unesco_id": "1457",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 964,
+ "popularity_score": null,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "TR-35",
+ "subdivision_zh": "伊兹密尔省",
+ "subdivision_en": "İzmir Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "帕加马及其多层文化景观",
+ "name_zh_source": "curated",
+ "name_en": "Pergamon and its Multi-Layered Cultural Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1457-pergamon_and_its_multi-layered_cultural_",
+ "lat": 39.12583,
+ "lon": 27.18,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "2014",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址高耸于土耳其爱琴海地区的巴克尔赛平原之上。佩加蒙卫城是希腊化阿塔利德王朝的首都，是古代世界的主要学术中心。巨大的寺庙、剧院、柱廊或门廊、体育馆、祭坛和图书馆都坐落在被宽阔的城墙包围的倾斜地形中。岩石切割的开贝勒保护区位于西北另一座山上，在视觉上与卫城相连。后来这座城市成为罗马亚洲行省的首府，以其阿斯克勒庇俄斯治疗中心而闻名。卫城周围的山坡上的现代城镇贝尔加马及其周边地区有墓葬群以及罗马、拜占庭和奥斯曼帝国的遗迹。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "This site rises high above the Bakirçay Plain in Turkey’s Aegean region. The acropolis of Pergamon was the capital of the Hellenistic Attalid dynasty, a major centre of learning in the ancient world. Monumental temples, theatres, stoa or porticoes, gymnasium, altar and library were set into the sloping terrain surrounded by an extensive city wall. The rock-cut Kybele Sanctuary lies to the north-west on another hill visually linked to the acropolis. Later the city became capital of the Roman province of Asia known for its Asclepieion healing centre. The acropolis crowns a landscape containing burial mounds and remains of the Roman, Byzantine and Ottoman empires in and around the modern town of Bergama on the lower slopes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanctuary%20of%20Asclepius%2C%20Pergamon.jpg?width=1280",
+   "title": "Sanctuary of Asclepius, Pergamon.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanctuary%20of%20Asclepius%2C%20Pergamon.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1457.jpg",
+   "title": "Pergamon and its Multi-Layered Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1457",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1457",
+ "transport": {
+  "airports": [
+   {
+    "name": "Balıkesir Koca Seyit Airport",
+    "iata": "EDO",
+    "city": "Edremit",
+    "country": "TR",
+    "lat": 39.552533,
+    "lon": 27.010192,
+    "type": "large_airport",
+    "distance_km": 49.6
+   },
+   {
+    "name": "Mytilene International Airport",
+    "iata": "MJT",
+    "city": "Mytilene",
+    "country": "GR",
+    "lat": 39.057406,
+    "lon": 26.598629,
+    "type": "medium_airport",
+    "distance_km": 50.7
+   },
+   {
+    "name": "Balıkesir Airport",
+    "iata": "BZI",
+    "city": "Balıkesir",
+    "country": "TR",
+    "lat": 39.619301,
+    "lon": 27.926001,
+    "type": "medium_airport",
+    "distance_km": 84.4
+   }
+  ],
+  "nearest_airport_km": 49.6,
+  "distance_beijing_km": 7285.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1457"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:47Z"
+}

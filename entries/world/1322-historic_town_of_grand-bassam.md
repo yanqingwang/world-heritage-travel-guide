@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(iv)"
 lat: 5.1965
 lon: -3.7368
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:44Z"
 ---
 
 # 大巴萨姆历史古镇 / Historic Town of Grand-Bassam

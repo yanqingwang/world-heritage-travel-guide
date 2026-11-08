@@ -1,0 +1,162 @@
+{
+ "id": "wh-143",
+ "unesco_id": "143",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 958,
+ "popularity_score": null,
+ "country": "PK",
+ "country_zh": "巴基斯坦",
+ "country_en": "Pakistan",
+ "countries": [
+  {
+   "iso2": "PK",
+   "zh": "巴基斯坦",
+   "en": "Pakistan"
+  }
+ ],
+ "region": "Province of Sind",
+ "subdivision_iso": "PK-SD",
+ "subdivision_zh": "信德省",
+ "subdivision_en": "Sindh",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔塔城的历史建筑",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historical Monuments at Makli, Thatta",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "143-historical_monuments_at_makli,_thatta",
+ "lat": 24.756388888,
+ "lon": 67.898611111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "塔塔城连续被三个王朝选作国都，后来由德里的莫卧尔国王统治。从14世纪到18世纪塔塔城一直在装修。这座城市的遗迹和公共墓地是信德省文化中独特的景观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The capital of three successive dynasties and later ruled by the Mughal emperors of Delhi, Thatta was constantly embellished from the 14th to the 18th century. The remains of the city and its necropolis provide a unique view of civilization in Sind.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Overview%20of%20Makli%20Hills.jpg?width=1280",
+   "title": "Overview of Makli Hills.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Overview%20of%20Makli%20Hills.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_143.jpg",
+   "title": "Historical Monuments at Makli, Thatta",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/143",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/143",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jinnah International Airport",
+    "iata": "KHI",
+    "city": "Karachi",
+    "country": "PK",
+    "lat": 24.9065,
+    "lon": 67.160797,
+    "type": "large_airport",
+    "distance_km": 76.3
+   },
+   {
+    "name": "Hyderabad Airport",
+    "iata": "HDD",
+    "city": "Hyderabad",
+    "country": "PK",
+    "lat": 25.3181,
+    "lon": 68.366096,
+    "type": "small_airport",
+    "distance_km": 78.2
+   },
+   {
+    "name": "Shaheed Benazirabad Airport",
+    "iata": "WNS",
+    "city": "Nawabashah",
+    "country": "PK",
+    "lat": 26.2194,
+    "lon": 68.390099,
+    "type": "medium_airport",
+    "distance_km": 170.0
+   }
+  ],
+  "nearest_airport_km": 76.3,
+  "distance_beijing_km": 4863.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PK",
+  "country_zh": "巴基斯坦",
+  "country_en": "Pakistan",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Free eVisa[107][108]",
+  "notes": "Online Visa eligible.[109] Issued in 7-10 business days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PK",
+   "country_zh": "巴基斯坦",
+   "country_en": "Pakistan",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Free eVisa[107][108]",
+   "notes": "Online Visa eligible.[109] Issued in 7-10 business days."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/143"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

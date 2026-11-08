@@ -1,0 +1,154 @@
+{
+ "id": "wh-616",
+ "unesco_id": "616",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1119,
+ "popularity_score": null,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "Prague",
+ "subdivision_iso": "CZ-10",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "布拉格历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Prague",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "616-historic_centre_of_prague",
+ "lat": 50.08972,
+ "lon": 14.41944,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "布拉格历史中心建于11至18世纪之间，老城、外城和新城自中世纪起就以其建筑和文化上的巨大影响而著称于世。中心拥有诸如荷拉德卡尼城堡(Hradcani Castle)、圣比图斯大教堂(St Vitus Cathedral)、查理桥(Charles Bridge)以及数不胜数的教堂和宫殿等绚丽壮观的遗迹，其中大多数建于14世纪神圣罗马皇帝查理四世统治时期。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built between the 11th and 18th centuries, the Old Town, the Lesser Town and the New Town speak of the great architectural and cultural influence enjoyed by this city since the Middle Ages. The many magnificent monuments, such as Hradcany Castle, St Vitus Cathedral, Charles Bridge and numerous churches and palaces, built mostly in the 14th century under the Holy Roman Emperor, Charles IV.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_616.jpg",
+   "title": "Historic Centre of Prague",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/616",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/616",
+ "transport": {
+  "airports": [
+   {
+    "name": "Václav Havel Airport Prague",
+    "iata": "PRG",
+    "city": "Prague",
+    "country": "CZ",
+    "lat": 50.100874,
+    "lon": 14.259911,
+    "type": "large_airport",
+    "distance_km": 11.4
+   },
+   {
+    "name": "Pardubice Airport",
+    "iata": "PED",
+    "city": "Pardubice",
+    "country": "CZ",
+    "lat": 50.015049,
+    "lon": 15.73981,
+    "type": "large_airport",
+    "distance_km": 94.6
+   },
+   {
+    "name": "Karlovy Vary Airport",
+    "iata": "KLV",
+    "city": "Karlovy Vary",
+    "country": "CZ",
+    "lat": 50.202999,
+    "lon": 12.915,
+    "type": "large_airport",
+    "distance_km": 107.9
+   }
+  ],
+  "nearest_airport_km": 11.4,
+  "distance_beijing_km": 7460.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/616"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

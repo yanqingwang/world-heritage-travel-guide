@@ -1,0 +1,213 @@
+{
+ "id": "cn-1291",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "贵州省",
+ "province_en": "Guizhou",
+ "province_iso": "CN-GZ",
+ "city_zh": "遵义市",
+ "city_en": "Zunyi City",
+ "name_zh": "遵义市赤水市赤水丹霞旅游区",
+ "name_en": "Zunyi",
+ "name_en_source": "wikipedia",
+ "slug": "zunyishichishuishichishuidanxia-1291",
+ "lat": 28.542853,
+ "lon": 105.739586,
+ "address_zh": "遵义市赤水市复兴镇",
+ "address_en": "Fuxing Town, Chishui City, Zunyi City",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "赤水丹霞旅游区由赤水大瀑布、佛光岩、燕子岩三大景区组成，区内瀑布成群、丹霞奇丽、竹林似海、桫椤繁茂、森林壮阔，是一个集山、谷、瀑、河、珍稀动植物为一体的丹霞地貌旅游区。",
+ "intro_en": "Zunyi (simplified Chinese: 遵义; traditional Chinese: 遵義; pinyin: Zūnyì) is a prefecture-level city in northern Guizhou province, People's Republic of China, situated between the provincial capital Guiyang to the south and Chongqing to the north, also bordering Sichuan to the northwest. Along with Guiyang and Liupanshui, it is one of the most important cities of the province. The metro area is made of three urban districts of the city, Huichuan, Honghuagang, and Bozhou, which had a population of 2,360,549 people. The whole prefecture, including 14 county-level administrative areas, had a population of 6,606,675 at the 2020 census. Zunyi is known for being the location of the Zunyi Conference in 1935, where Mao Zedong was first elected to the leadership of the Chinese Communist Party during the Long March.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Zunyi.JPG/1280px-Zunyi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zunyi.JPG",
+   "author": "YubYub41",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Zunyi.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zunyi_-_55410567063.jpg/1280px-Zunyi_-_55410567063.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zunyi - 55410567063.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 4.0",
+   "credit": "https://www.flickr.com/photos/7138083@N04/55410567063/",
+   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_-_55410567063.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Zunyi_Conference_Site.jpg/1280px-Zunyi_Conference_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zunyi Conference Site.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 4.0",
+   "credit": "https://www.flickr.com/photos/7138083@N04/55410620039/",
+   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_Conference_Site.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zunyi_Conference_Site_-_55410566288.jpg/1280px-Zunyi_Conference_Site_-_55410566288.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zunyi Conference Site - 55410566288.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 4.0",
+   "credit": "https://www.flickr.com/photos/7138083@N04/55410566288/",
+   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_Conference_Site_-_55410566288.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Zunyi_Conference_Site_-_55410566863.jpg/1280px-Zunyi_Conference_Site_-_55410566863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zunyi Conference Site - 55410566863.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 4.0",
+   "credit": "https://www.flickr.com/photos/7138083@N04/55410566863/",
+   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_Conference_Site_-_55410566863.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luzhou Yunlong Airport",
+    "iata": "LZO",
+    "city": "Luzhou (Yunlong)",
+    "country": "CN",
+    "lat": 29.030357,
+    "lon": 105.468407,
+    "type": "medium_airport",
+    "distance_km": 60.3
+   },
+   {
+    "name": "Zunyi Maotai Airport",
+    "iata": "WMT",
+    "city": "Zunyi",
+    "country": "CN",
+    "lat": 27.961837,
+    "lon": 106.435416,
+    "type": "medium_airport",
+    "distance_km": 93.9
+   },
+   {
+    "name": "Yibin Wuliangye Airport",
+    "iata": "YBP",
+    "city": "Yibin (Cuiping)",
+    "country": "CN",
+    "lat": 28.858431,
+    "lon": 104.526157,
+    "type": "medium_airport",
+    "distance_km": 123.4
+   }
+  ],
+  "nearest_airport_km": 60.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "护国东",
+    "name_en": "Huguodong",
+    "lat": 28.5727283,
+    "lon": 105.3610746,
+    "distance_km": 37.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "护国",
+    "name_en": "Huguo",
+    "lat": 28.5768426,
+    "lon": 105.3574601,
+    "distance_km": 37.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "江门镇",
+    "name_en": "Jiangmenzhen",
+    "lat": 28.4464299,
+    "lon": 105.3528243,
+    "distance_km": 39.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "OYO Hotel",
+   "name_en": "OYO Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 28.5887687,
+   "lon": 105.6925343,
+   "distance_km": 6.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Si Yuan Hotel",
+   "name_en": "Si Yuan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 28.5933331,
+   "lon": 105.6943537,
+   "distance_km": 7.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Xian Bei Hotel",
+   "name_en": "Xian Bei Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 28.5934523,
+   "lon": 105.6950711,
+   "distance_km": 7.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fuli Hotel",
+   "name_en": "Fuli Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 28.5933765,
+   "lon": 105.6941906,
+   "distance_km": 7.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/遵义市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1011",
+ "unesco_id": "1011",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 877,
+ "popularity_score": null,
+ "country": "AM",
+ "country_zh": "亚美尼亚",
+ "country_en": "Armenia",
+ "countries": [
+  {
+   "iso2": "AM",
+   "zh": "亚美尼亚",
+   "en": "Armenia"
+  }
+ ],
+ "region": "Armavir Region",
+ "subdivision_iso": "AM-AV",
+ "subdivision_zh": "",
+ "subdivision_en": "Armavir Province",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "埃奇米河津教堂与兹瓦尔特诺茨考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1011-cathedral_and_churches_of_echmiatsin_and",
+ "lat": 40.159305555,
+ "lon": 44.295138888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "埃奇米河津教堂与兹瓦尔特诺茨考古遗址形象地展示了亚美尼亚圆顶四瓣形教堂的发展演变过程，对该地区的建筑和艺术发展都产生了深远的影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The cathedral and churches of Echmiatsin and the archaeological remains at Zvartnots graphically illustrate the evolution and development of the Armenian central-domed cross-hall type of church, which exerted a profound influence on architectural and artistic development in the region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ejmiadzin%20Cathedral2.jpg?width=1280",
+   "title": "Ejmiadzin Cathedral2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ejmiadzin%20Cathedral2.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1011.jpg",
+   "title": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1011",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1011",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zvartnots International Airport",
+    "iata": "EVN",
+    "city": "Yerevan",
+    "country": "AM",
+    "lat": 40.148941,
+    "lon": 44.397887,
+    "type": "large_airport",
+    "distance_km": 8.8
+   },
+   {
+    "name": "Iğdır Airport",
+    "iata": "IGD",
+    "city": "Iğdır",
+    "country": "TR",
+    "lat": 39.976627,
+    "lon": 43.876648,
+    "type": "medium_airport",
+    "distance_km": 41.0
+   },
+   {
+    "name": "Shirak International Airport",
+    "iata": "LWN",
+    "city": "Gyumri",
+    "country": "AM",
+    "lat": 40.750401,
+    "lon": 43.859299,
+    "type": "large_airport",
+    "distance_km": 75.4
+   }
+  ],
+  "nearest_airport_km": 8.8,
+  "distance_beijing_km": 5955.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AM",
+  "country_zh": "亚美尼亚",
+  "country_en": "Armenia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6][13]",
+  "notes": "90 days within any 180 day period. Holders of passports for public affairs do not require a visa for up to 30 days.[14]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AM",
+   "country_zh": "亚美尼亚",
+   "country_en": "Armenia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6][13]",
+   "notes": "90 days within any 180 day period. Holders of passports for public affairs do not require a visa for up to 30 days.[14]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 9
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1011"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

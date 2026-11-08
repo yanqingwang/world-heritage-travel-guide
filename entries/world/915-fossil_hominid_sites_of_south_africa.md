@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(vi)"
 lat: -25.967231
 lon: 27.66244
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:36Z"
 ---
 
 # 斯泰克方丹、 斯瓦特科兰斯、 科罗姆德拉伊和维罗恩斯的化石遗址 / Fossil Hominid Sites of South Africa

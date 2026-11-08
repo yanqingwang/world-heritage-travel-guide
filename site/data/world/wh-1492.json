@@ -1,0 +1,161 @@
+{
+ "id": "wh-1492",
+ "unesco_id": "1492",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 971,
+ "popularity_score": null,
+ "country": "PS",
+ "country_zh": "巴勒斯坦",
+ "country_en": "Palestine",
+ "countries": [
+  {
+   "iso2": "PS",
+   "zh": "巴勒斯坦",
+   "en": "Palestine"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PS-BTH",
+ "subdivision_zh": "伯利恒省",
+ "subdivision_en": "Bethlehem Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "巴勒斯坦：橄榄和葡萄之乡——南耶路撒冷巴蒂尔文化景观",
+ "name_zh_source": "curated",
+ "name_en": "Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",
+ "name_local": "بلد الزيتون و الكرمة – منظر ثقافي في جنوب القدس, بتير",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1492-palestine:_land_of_olives_and_vines_–_cu",
+ "lat": 31.71972222,
+ "lon": 35.13055556,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "2014",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "该遗址位于耶路撒冷西南几公里处，位于纳布卢斯和希伯伦之间的中央高地。巴蒂尔山景观由一系列被称为 widian 的农耕山谷组成，带有特色的石头梯田，其中一些经过灌溉用于商品花园生产，而另一些则干燥并种植葡萄树和橄榄树。在这样一个山区，梯田农业的发展得到了地下水源灌溉渠道网络的支持。然后使用传统的分配系统在附近巴蒂尔村的家庭之间分享通过该网络收集的水。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "This site is located a few kilometres south-west of Jerusalem, in the Central Highlands between Nablus and Hebron. The Battir hill landscape comprises a series of farmed valleys, known as widian , with characteristic stone terraces, some of which are irrigated for market garden production, while others are dry and planted with grapevines and olive trees. The development of terrace farming in such a mountainous region is supported by a network of irrigation channels fed by underground sources. A traditional system of distribution is then used to share the water collected through this network between families from the nearby village of Battir.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يتضمّن المنظر الطبيعي لتلال بتير الواقع على بعد بضع كيلومترات جنوب غرب القدس، في الأراضي الجبلية بين نابلس والخليل، سلسلة أودية زراعية تعرف باسم \"وديان\" وتتميّز بمدرّجات حجرية يُروى بعضها لإنتاج البقوليات، في حين يكون بعضها الآخر جافا ومزروعا كروما وأشجار زيتون. واستند تطوّر هذه المدرّجات المزروعة، في إطار بيئة جبلية للغاية، على شبكة من قنوات الريّ تغذيها مصادر المياه الجوفية. والمياه التي يتم جمعها بفضل هذه الشبكة تُوَزَّع بموجب نظام توزيع تقليدي منصف بين أسر قرية بتير الواقعة على مقربة من هذا المنظر الثقافي.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Village%20of%20Battir%2C%20Palestine%202009.jpg?width=1280",
+   "title": "Village of Battir, Palestine 2009.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Village%20of%20Battir%2C%20Palestine%202009.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1492.jpg",
+   "title": "Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1492",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1492",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ben Gurion International Airport",
+    "iata": "TLV",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.011398,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "distance_km": 39.8
+   },
+   {
+    "name": "Queen Alia International Airport",
+    "iata": "AMM",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.7226009369,
+    "lon": 35.9931983948,
+    "type": "large_airport",
+    "distance_km": 81.6
+   },
+   {
+    "name": "Marka International (Amman Civil) Airport",
+    "iata": "ADJ",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "distance_km": 86.1
+   }
+  ],
+  "nearest_airport_km": 39.8,
+  "distance_beijing_km": 7140.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PS",
+  "country_zh": "巴勒斯坦國",
+  "country_en": "Palestine",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PS",
+   "country_zh": "巴勒斯坦國",
+   "country_en": "Palestine",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1492"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

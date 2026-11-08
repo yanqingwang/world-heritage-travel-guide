@@ -1,0 +1,166 @@
+{
+ "id": "cn-26432",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "上海市",
+ "province_en": "Shanghai",
+ "province_iso": "CN-SH",
+ "city_zh": "崇明区",
+ "city_en": "Chongming District",
+ "name_zh": "西沙明珠湖景区",
+ "name_en": "Xishamingzhuhu Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "xishamingzhuhu-26432",
+ "lat": 31.743662,
+ "lon": 121.260027,
+ "address_zh": "上海市崇明区三华公路333号",
+ "address_en": "No. 333, Sanhua Highway, Chongming District, Shanghai",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "西沙明珠湖景区位于世界最大河口冲积沙岛、中国第三大岛——崇明岛的西南端，由明珠湖和西沙湿地组成，总面积7.8平方公里。景区具有独特秀美的湿地、湖泊、森林自然风光和特色的水陆体育竞技休闲旅游，使其成为了一个知名的国家生态旅游示范区。景区自然风光秀美，环境优质，大气指标国家一级，水质属国家地表水Ⅱ类。大雁放飞、环湖8公里跑道、水上路亚钓、水陆两栖车、游船、鱼类标本、儿童乐园和湿地水森林、湿地蛸蜞、西沙日落等等，都是能够让游客深入其中、流连忘返，真正体验到魅力明珠湖、醉美西沙之美。",
+ "intro_en": "Xisha Pearl Lake Scenic Area is located at the southwest end of Chongming Island, the largest alluvial sand island in the world's estuary and the third largest island in China. It consists of Mingzhu Lake and Xisha Wetland, with a total area of ​​7.8 square kilometers. The scenic area has unique and beautiful natural scenery of wetlands, lakes, forests and characteristic land and water sports and leisure tourism, making it a well-known national eco-tourism demonstration area. The scenic spot has beautiful natural scenery, high-quality environment, national first-class atmospheric indicators, and national surface water quality II. Wild geese release, 8-kilometer track around the lake, water fishing, amphibious vehicles, cruise ships, fish specimens, children's playground and wetland water forest, wetland squid, Xisha sunset, etc., all allow tourists to go deep into the lake, linger and truly experience the charm of Pearl Lake and the intoxicating beauty of Xisha.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "http://www.mingzhu-xisha.com/bookOnline",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nantong Xingdong International Airport",
+    "iata": "NTG",
+    "city": "Nantong (Tongzhou)",
+    "country": "CN",
+    "lat": 32.073566,
+    "lon": 120.980076,
+    "type": "medium_airport",
+    "distance_km": 45.2
+   },
+   {
+    "name": "Shanghai Hongqiao International Airport",
+    "iata": "SHA",
+    "city": "Shanghai (Minhang)",
+    "country": "CN",
+    "lat": 31.198104,
+    "lon": 121.33426,
+    "type": "large_airport",
+    "distance_km": 61.1
+   },
+   {
+    "name": "Sunan Shuofang International Airport",
+    "iata": "WUX",
+    "city": "Wuxi",
+    "country": "CN",
+    "lat": 31.496952,
+    "lon": 120.43038,
+    "type": "large_airport",
+    "distance_km": 83.2
+   }
+  ],
+  "nearest_airport_km": 45.2,
+  "high_speed_stations": [
+   {
+    "name": "太仓",
+    "name_en": "Taicang",
+    "lat": 31.5135736,
+    "lon": 121.1917434,
+    "distance_km": 26.4,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "崇明",
+    "name_en": null,
+    "lat": 31.6631764,
+    "lon": 121.3728167,
+    "distance_km": 13.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "临江",
+    "name_en": "Fengshuncun",
+    "lat": 31.8932085,
+    "lon": 121.38044,
+    "distance_km": 20.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "通海港站",
+    "name_en": null,
+    "lat": 31.8143874,
+    "lon": 121.0504339,
+    "distance_km": 21.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Dynasun International Hotel",
+   "name_en": "Dynasun International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.8749081,
+   "lon": 121.174515,
+   "distance_km": 16.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tian he Hotel",
+   "name_en": "Tian he Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.621041,
+   "lon": 121.3912738,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海怡沁园度假村",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.6731798,
+   "lon": 121.4743862,
+   "distance_km": 21.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

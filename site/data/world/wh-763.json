@@ -1,0 +1,162 @@
+{
+ "id": "wh-763",
+ "unesco_id": "763",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 439,
+ "popularity_score": 17239,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "Breclav District, South Moravian Region",
+ "subdivision_iso": "CZ-644",
+ "subdivision_zh": "布熱茨拉夫縣",
+ "subdivision_en": "Břeclav District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "莱德尼采－瓦尔季采文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Lednice-Valtice Cultural Landscape",
+ "name_local": "Lednicko-valtický areál",
+ "local_lang": "cs",
+ "local_lang_name": "Czech",
+ "slug": "763-lednice-valtice_cultural_landscape",
+ "lat": 48.7758,
+ "lon": 16.775,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "17至20世纪期间，列支敦士登的统治者们将其南摩拉维亚(southern Moravia) 的领地建成了引人注目的风景区。莱德尼采—瓦尔季采的建筑城堡式巴洛克式、古哥特式以及新哥特式等多种风格的美妙结合，并融入了带有当时风靡英国的浪漫主义景观建筑风格的乡村景观。景区占地200平方公里，是欧洲最大的人工风景区之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Between the 17th and 20th centuries, the ruling dukes of Liechtenstein transformed their domains in southern Moravia into a striking landscape. It married Baroque architecture (mainly the work of Johann Bernhard Fischer von Erlach) and the classical and neo-Gothic style of the castles of Lednice and Valtice with countryside fashioned according to English romantic principles of landscape architecture. At 200 km 2 , it is one of the largest artificial landscapes in Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Lednicko-valtický areál je krajinný celek o rozloze 283,09 km² v okrese Břeclav při hranici s Rakouskem, od prosince 1996 zapsaný do Seznamu světového kulturního dědictví UNESCO. Je pokládán za nejrozsáhlejší komponovanou krajinu v Evropě a možná i na světě. Na severozápadě na něj navazuje CHKO Pálava. Lednicko-valtický areál a bojiště bitvy u Slavkova byly v roce 1992 vyhlášeny ministerstvem kultury jako první dvě krajinné památkové zóny na území České republiky.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lednice%E2%80%93Valtice%20Cultural%20Landscape%20Montage%20II.jpg?width=1280",
+   "title": "Lednice–Valtice Cultural Landscape Montage II.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lednice%E2%80%93Valtice%20Cultural%20Landscape%20Montage%20II.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_763.jpg",
+   "title": "Lednice-Valtice Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/763",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/763",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 42.2
+   },
+   {
+    "name": "M. R. Štefánik Airport",
+    "iata": "BTS",
+    "city": "Bratislava",
+    "country": "SK",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "distance_km": 74.7
+   },
+   {
+    "name": "Vienna International Airport",
+    "iata": "VIE",
+    "city": "Vienna",
+    "country": "AT",
+    "lat": 48.110298,
+    "lon": 16.5697,
+    "type": "large_airport",
+    "distance_km": 75.5
+   }
+  ],
+  "nearest_airport_km": 42.2,
+  "distance_beijing_km": 7378.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "cs",
+  "local_lang_name": "Czech",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/763"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lednice%E2%80%93Valtice%20Cultural%20Landscape"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

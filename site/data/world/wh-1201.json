@@ -1,0 +1,161 @@
+{
+ "id": "wh-1201",
+ "unesco_id": "1201",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 549,
+ "popularity_score": 11595,
+ "country": "MW",
+ "country_zh": "马拉维",
+ "country_en": "Malawi",
+ "countries": [
+  {
+   "iso2": "MW",
+   "zh": "马拉维",
+   "en": "Malawi"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "MW-MU",
+ "subdivision_zh": "",
+ "subdivision_en": "Mulanje",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "姆兰杰山文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mount Mulanje Cultural Landscape",
+ "name_local": "",
+ "local_lang": "ny",
+ "local_lang_name": "Chichewa",
+ "slug": "1201-mount_mulanje_cultural_landscape",
+ "lat": -15.9,
+ "lon": 35.65,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产位于马拉维南部山脉，核心是雄伟的姆兰杰山——全世界最大的孤山之一。姆兰杰山长期被奉为神明、精灵与先祖栖居的圣地，承载着深厚的文化与精神意义。其地质和水文特征与尧族（Yao）、曼甘加族（Mang’anja）、隆韦族（Lhomwe）的信仰体系密切相连。这些社群通过传承仪式与传统坚守着山脉的神圣性，使其成为体现人与自然在精神与生态层面和谐共生的神圣文化景观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This property encompasses the mountain range located in southern Malawi, with the imposing Mount Mulanje—one of the world’s largest inselbergs—and its surrounding environment. Revered as a sacred place inhabited by gods, spirits, and ancestors, it holds deep cultural and spiritual significance. The mountain’s geological and hydrological features are connected with the belief systems and cultural practices of the Yao, Mang’anja, and Lhomwe peoples. These communities have sustained the mountain’s sacredness through rituals and traditions, making the site a sacred cultural landscape that reflects the spiritual and ecological harmony between people and nature.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulanje%20ETM%2026may02.jpg?width=1280",
+   "title": "Mulanje ETM 26may02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mulanje%20ETM%2026may02.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1201.jpg",
+   "title": "Mount Mulanje Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1201",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1201",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chileka International Airport",
+    "iata": "BLZ",
+    "city": "Blantyre",
+    "country": "MW",
+    "lat": -15.677189,
+    "lon": 34.972319,
+    "type": "large_airport",
+    "distance_km": 76.6
+   },
+   {
+    "name": "Tete Airport",
+    "iata": "TET",
+    "city": "Tete",
+    "country": "MZ",
+    "lat": -16.104799,
+    "lon": 33.640202,
+    "type": "large_airport",
+    "distance_km": 216.0
+   },
+   {
+    "name": "Quelimane Airport",
+    "iata": "UEL",
+    "city": "Quelimane",
+    "country": "MZ",
+    "lat": -17.855499267578125,
+    "lon": 36.86909866333008,
+    "type": "medium_airport",
+    "distance_km": 253.2
+   }
+  ],
+  "nearest_airport_km": 76.6,
+  "distance_beijing_km": 10431.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MW",
+  "country_zh": "马拉维",
+  "country_en": "Malawi",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6][83]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MW",
+   "country_zh": "马拉维",
+   "country_en": "Malawi",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6][83]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "ny",
+  "local_lang_name": "Chichewa",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1201"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mulanje%20Massif"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

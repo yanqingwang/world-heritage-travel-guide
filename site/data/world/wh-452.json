@@ -1,0 +1,162 @@
+{
+ "id": "wh-452",
+ "unesco_id": "452",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 238,
+ "popularity_score": 42150,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "West Bengal",
+ "subdivision_iso": "IN-WB",
+ "subdivision_zh": "西孟加拉邦",
+ "subdivision_en": "West Bengal",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "孙德尔本斯国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sundarbans National Park",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "452-sundarbans_national_park",
+ "lat": 21.75,
+ "lon": 88.75,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "孙德尔本斯位于恒河三角洲，占据10 000平方公里的陆地和水域（其中一半以上地区在印度，其余部分在孟加拉国）。这里有世界上最大的红树林区。公园内生活着许多稀有或濒危动物，其中包括老虎、水生哺乳动物、鸟类和爬行动物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Sundarbans covers 10,000 km 2 of land and water (more than half of it in India, the rest in Bangladesh) in the Ganges delta. It contains the world's largest area of mangrove forests. A number of rare or endangered species live in the park, including tigers, aquatic mammals, birds and reptiles.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sundarban%20Tiger.jpg?width=1280",
+   "title": "Sundarban Tiger.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sundarban%20Tiger.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_452.jpg",
+   "title": "Sundarbans National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/452",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/452",
+ "transport": {
+  "airports": [
+   {
+    "name": "Netaji Subhash Chandra Bose International Airport",
+    "iata": "CCU",
+    "city": "Kolkata",
+    "country": "IN",
+    "lat": 22.654012,
+    "lon": 88.44765,
+    "type": "large_airport",
+    "distance_km": 105.2
+   },
+   {
+    "name": "Jessore Airport",
+    "iata": "JSR",
+    "city": "Jashore (Jessore)",
+    "country": "BD",
+    "lat": 23.1838,
+    "lon": 89.160797,
+    "type": "medium_airport",
+    "distance_km": 164.9
+   },
+   {
+    "name": "Barisal Airport",
+    "iata": "BZL",
+    "city": "Barisal",
+    "country": "BD",
+    "lat": 22.801001,
+    "lon": 90.301201,
+    "type": "medium_airport",
+    "distance_km": 197.8
+   }
+  ],
+  "nearest_airport_km": 105.2,
+  "distance_beijing_km": 3276.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 56
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/452"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sundarbans%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

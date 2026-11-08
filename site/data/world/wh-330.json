@@ -1,0 +1,162 @@
+{
+ "id": "wh-330",
+ "unesco_id": "330",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 308,
+ "popularity_score": 29685,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "Ancash Department, Huari Province, Chavin District",
+ "subdivision_iso": "PE-ANC",
+ "subdivision_zh": "安卡什大区",
+ "subdivision_en": "Áncash Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "夏文考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Chavin (Archaeological Site)",
+ "name_local": "Sitio arqueológico de Chavín",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "330-chavin_(archaeological_site)",
+ "lat": -9.592775,
+ "lon": -77.178452777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "夏文考古遗址的历史可以追溯到公元前1500年到公元前300年，它是在秘鲁安第斯山的高山峡谷中发展起来的一种文化。该遗迹是古代举行宗教仪式的场所，也是哥伦比亚发现新大陆以前出现的最负盛名之地。这里的斜坡和广场周围都是石头建筑，伴有大量兽形装饰物，景物别致多姿。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The archaeological site of Chavin gave its name to the culture that developed between 1500 and 300 B.C. in this high valley of the Peruvian Andes. This former place of worship is one of the earliest and best-known pre-Columbian sites. Its appearance is striking, with the complex of terraces and squares, surrounded by structures of dressed stone, and the mainly zoomorphic ornamentation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "El sitio arqueológico de Chavín ha dado su nombre a la cultura que se desarrolló entre los años 1500 y 300 a.C. en el alto valle de los Andes peruanos en el que se encuentra. La arquitectura de este conjunto monumental de plazas y amplias terrazas rodeadas por construcciones de piedra labrada, así como su ornamentación en gran parte zoomorfa, dan un aspecto impresionante a este lugar de culto, que es uno de los sitios precolombinos más célebres y antiguos.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chavin%20-%20Ao%C3%BBt%202007.jpg?width=1280",
+   "title": "Chavin - Août 2007.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Chavin%20-%20Ao%C3%BBt%202007.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_330.jpg",
+   "title": "Chavin (Archaeological Site)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/330",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/330",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alferez Fap David Figueroa Fernandini Airport",
+    "iata": "HUU",
+    "city": "Huánuco",
+    "country": "PE",
+    "lat": -9.878809928894043,
+    "lon": -76.20480346679688,
+    "type": "medium_airport",
+    "distance_km": 111.3
+   },
+   {
+    "name": "FAP Lieutenant Jaime Andres de Montreuil Morales Airport",
+    "iata": "CHM",
+    "city": "Chimbote",
+    "country": "PE",
+    "lat": -9.14961,
+    "lon": -78.523804,
+    "type": "medium_airport",
+    "distance_km": 155.6
+   },
+   {
+    "name": "Jorge Chávez International Airport",
+    "iata": "LIM",
+    "city": "Lima",
+    "country": "PE",
+    "lat": -12.0219,
+    "lon": -77.114305,
+    "type": "large_airport",
+    "distance_km": 270.2
+   }
+  ],
+  "nearest_airport_km": 111.3,
+  "distance_beijing_km": 16427.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/330"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chav%C3%ADn%20de%20Hu%C3%A1ntar"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

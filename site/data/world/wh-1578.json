@@ -1,0 +1,162 @@
+{
+ "id": "wh-1578",
+ "unesco_id": "1578",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 768,
+ "popularity_score": 3935,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ES-GC",
+ "subdivision_zh": "拉斯帕尔马斯省",
+ "subdivision_en": "Las Palmas",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "大加那利岛文化景观：里斯科卡伊多考古和圣山",
+ "name_zh_source": "unesco_official",
+ "name_en": "Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape",
+ "name_local": "Paisaje cultural del Risco Caído y montañas sagradas de Gran Canaria",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1578-risco_caido_and_the_sacred_mountains_of_",
+ "lat": 28.043558333,
+ "lon": -15.661255555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "里斯科卡伊多位于大加那利岛中部的一片广阔山区内，地貌包括悬崖、峡谷和火山，当地生物多样性丰富。遗产地内有大量穴居人遗址，如住所、谷仓和蓄水池等。这些遗迹的年代证实了一个前西班牙时期岛屿文化的存在，其起源很可能与公元元年前后来到这里的北非柏柏尔人有关，该文化在与世隔绝的环境下发展演变，直至15世纪首批西班牙人到来。当地穴居人遗址还包括文化洞穴和被视为圣地的2处神庙——里斯科卡伊多和罗克本泰加。神庙是举办季节性仪式的场所，据信与星象和地母神信仰有关。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in a vast mountainous area in the centre of Gran Canaria, Risco Caído comprises cliffs, ravines and volcanic formations in a landscape of rich biodiversity. The landscape includes a large number of troglodyte settlements — habitats, granaries and cisterns — whose age is proof of the presence of a pre-Hispanic culture on the island, which has evolved in isolation, from the arrival of North African Berbers, around the beginning of our era, until the first Spanish settlers in the 15th century. The troglodyte complex also includes cult cavities and two sacred temples, or almogarenes — Risco Caído and Roque Bentayga — where seasonal ceremonies were held. These temples are thought to be linked to a possible cult of the stars and Mother Earth.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado en una vasta zona montañosa del centro de la isla de Gran Canaria, el sitio del Risco Caído se caracteriza por una topografía de acantilados, barrancos y formaciones volcánicas presentes en un paisaje de rica biodiversidad. Su territorio abarca un considerable número de vestigios de viviendas, cisternas y graneros troglodíticos, cuya antigüedad pone de manifiesto la presencia de una cultura insular autóctona que evolucionó de modo autárquico desde la llegada de los bereberes norteafricanos, a principios de nuestra era, hasta la conquista del archipiélago de las Canarias por los españoles en el siglo XV. Los vestigios troglodíticos comprenden también algunas cuevas dedicadas a prácticas rituales, así como los templos o “almogarenes” del Risco Caído y el Roque Bentayga donde se celebraban ceremonias relacionadas con las estaciones del año. Es posible que estos dos “almogarenes” guarden relación con un eventual culto rendido a los astros y la “Tierra Madre”.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Risco%20Ca%C3%ADdo%2020191231%20134943.jpg?width=1280",
+   "title": "Risco Caído 20191231 134943.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Risco%20Ca%C3%ADdo%2020191231%20134943.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1578.jpg",
+   "title": "Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1578",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1578",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gran Canaria Airport",
+    "iata": "LPA",
+    "city": "Gran Canaria Island",
+    "country": "ES",
+    "lat": 27.9319,
+    "lon": -15.3866,
+    "type": "large_airport",
+    "distance_km": 29.7
+   },
+   {
+    "name": "Tenerife Norte-Ciudad de La Laguna Airport",
+    "iata": "TFN",
+    "city": "Tenerife",
+    "country": "ES",
+    "lat": 28.482752,
+    "lon": -16.341707,
+    "type": "large_airport",
+    "distance_km": 82.6
+   },
+   {
+    "name": "Tenerife Sur Airport",
+    "iata": "TFS",
+    "city": "Tenerife",
+    "country": "ES",
+    "lat": 28.0445,
+    "lon": -16.5725,
+    "type": "large_airport",
+    "distance_km": 89.4
+   }
+  ],
+  "nearest_airport_km": 29.7,
+  "distance_beijing_km": 10970.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1578"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Risco%20Ca%C3%ADdo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

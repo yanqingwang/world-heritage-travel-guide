@@ -1,0 +1,162 @@
+{
+ "id": "wh-1199",
+ "unesco_id": "1199",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 246,
+ "popularity_score": 40304,
+ "country": "TM",
+ "country_zh": "土库曼斯坦",
+ "country_en": "Turkmenistan",
+ "countries": [
+  {
+   "iso2": "TM",
+   "zh": "土库曼斯坦",
+   "en": "Turkmenistan"
+  }
+ ],
+ "region": "Dashoguz Vilayet (Province)",
+ "subdivision_iso": "TM-D",
+ "subdivision_zh": "达沙古兹州",
+ "subdivision_en": "Daşoguz Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "库尼亚－乌尔根奇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kunya-Urgench",
+ "name_local": "",
+ "local_lang": "tk",
+ "local_lang_name": "Turkmen",
+ "slug": "1199-kunya-urgench",
+ "lat": 42.3261336,
+ "lon": 59.1530707,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2005",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "库尼亚－乌尔根奇位于土库曼斯坦的西北部、阿母河的南面。乌尔根奇是阿契美尼德帝国统治下可兰次姆地区的首都。古镇拥有一系列11-16世纪时期的纪念碑，包括一座清真寺、旅馆的门、堡垒、陵墓和一座尖塔。这些纪念碑展示了当时建筑和手工艺方面的卓越成就，其影响力波及伊朗、阿富汗和16世纪印度的后期建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Kunya-Urgench is situated in north-western Turkmenistan, on the left bank of the Amu Daria River. Urgench was the capital of the Khorezm region, part of the Achaemenid Empire. The old town contains a series of monuments mainly from the 11th to 16th centuries, including a mosque, the gates of a caravanserai, fortresses, mausoleums and a 60-m high minaret. The monuments testify to outstanding achievements in architecture and craftsmanship whose influence reached Iran and Afghanistan, and later the architecture of the Mogul Empire of 16th-century India.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/KonyeUrgenchMausoleum.jpg?width=1280",
+   "title": "KonyeUrgenchMausoleum.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:KonyeUrgenchMausoleum.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1199.jpg",
+   "title": "Kunya-Urgench",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1199",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1199",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nukus International Airport",
+    "iata": "NCU",
+    "city": "Nukus",
+    "country": "UZ",
+    "lat": 42.4884,
+    "lon": 59.623299,
+    "type": "large_airport",
+    "distance_km": 42.6
+   },
+   {
+    "name": "Dashoguz International Airport",
+    "iata": "TAZ",
+    "city": "Daşoguz",
+    "country": "TM",
+    "lat": 41.759853,
+    "lon": 59.836149,
+    "type": "large_airport",
+    "distance_km": 84.5
+   },
+   {
+    "name": "Urgench International Airport",
+    "iata": "UGC",
+    "city": "Urgench",
+    "country": "UZ",
+    "lat": 41.58274,
+    "lon": 60.64338,
+    "type": "large_airport",
+    "distance_km": 148.4
+   }
+  ],
+  "nearest_airport_km": 42.6,
+  "distance_beijing_km": 4676.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TM",
+  "country_zh": "土库曼斯坦",
+  "country_en": "Turkmenistan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TM",
+   "country_zh": "土库曼斯坦",
+   "country_en": "Turkmenistan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "tk",
+  "local_lang_name": "Turkmen",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 59
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1199"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Konye-Urgench"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

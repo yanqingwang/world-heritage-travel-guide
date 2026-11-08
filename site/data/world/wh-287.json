@@ -1,0 +1,162 @@
+{
+ "id": "wh-287",
+ "unesco_id": "287",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 482,
+ "popularity_score": 14292,
+ "country": "LY",
+ "country_zh": "利比亚",
+ "country_en": "Libya",
+ "countries": [
+  {
+   "iso2": "LY",
+   "zh": "利比亚",
+   "en": "Libya"
+  }
+ ],
+ "region": "Fezzan",
+ "subdivision_iso": "LY-GT",
+ "subdivision_zh": "加特省",
+ "subdivision_en": "Ghat District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔德拉尔特•阿卡库斯石窟",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rock-Art Sites of Tadrart Acacus",
+ "name_local": "مواقع تادرارت أكاكوس الصخرية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "287-rock-art_sites_of_tadrart_acacus",
+ "lat": 24.833429166,
+ "lon": 10.333319444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1985",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "塔德拉尔特•阿卡库斯石窟也是一个世界遗产遗址，位于阿尔及利亚阿杰尔的塔西里边境上。这座石山有数千种不同风格的壁画，时间可以追溯到公元前12 000年至公元100年。 这些壁画表现了动植物的明显变化以及撒哈拉地区每代人生活的不同方式。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "On the borders of Tassili N'Ajjer in Algeria, also a World Heritage site, this rocky massif has thousands of cave paintings in very different styles, dating from 12,000 B.C. to A.D. 100. They reflect marked changes in the fauna and flora, and also the different ways of life of the populations that succeeded one another in this region of the Sahara.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "على حدود طاسيلي ناجر الجزائرية، وهي أيضًا موقع مدرج على قائمة التراث العالمي، يقع هذا المرتفع الصخري الغني بآلاف الرسوم الصخرية ذات الأساليب المختلفة كليًا والتي يعود أقدمها إلى 21 ألف عام ق.م. تقريبًا، ويمكن اعتبار أن أحدثها يرقى إلى القرن الأول ميلادي. وتعكس هذه الرسوم التعديلات العميقة التي طرأت على الثروة الحيوانية والنباتية وكذلك أنماط الحياة المتنوعة للشعوب التي تتالت على خذا الجزء من الصحراء الكبرى.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Libya%205076%20Tadrart%20Acacus%20Luca%20Galuzzi%202007.jpg?width=1280",
+   "title": "Libya 5076 Tadrart Acacus Luca Galuzzi 2007.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Libya%205076%20Tadrart%20Acacus%20Luca%20Galuzzi%202007.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_287.jpg",
+   "title": "Rock-Art Sites of Tadrart Acacus",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/287",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/287",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tiska Djanet Airport",
+    "iata": "DJG",
+    "city": "Djanet",
+    "country": "DZ",
+    "lat": 24.285448,
+    "lon": 9.463652,
+    "type": "large_airport",
+    "distance_km": 107.0
+   },
+   {
+    "name": "Illizi Takhamalt Airport",
+    "iata": "VVZ",
+    "city": "Illizi",
+    "country": "DZ",
+    "lat": 26.723499,
+    "lon": 8.62265,
+    "type": "medium_airport",
+    "distance_km": 271.1
+   },
+   {
+    "name": "Zarzaitine - In Aménas Airport",
+    "iata": "IAM",
+    "city": "In Aménas",
+    "country": "DZ",
+    "lat": 28.0515,
+    "lon": 9.64291,
+    "type": "medium_airport",
+    "distance_km": 364.4
+   }
+  ],
+  "nearest_airport_km": 107.0,
+  "distance_beijing_km": 9628.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LY",
+  "country_zh": "利比亚",
+  "country_en": "Libya",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][81]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LY",
+   "country_zh": "利比亚",
+   "country_en": "Libya",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][81]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 55
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/287"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acacus%20Mountains"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

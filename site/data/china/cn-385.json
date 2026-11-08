@@ -1,0 +1,148 @@
+{
+ "id": "cn-385",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "海南省",
+ "province_en": "Hainan",
+ "province_iso": "CN-HI",
+ "city_zh": "三亚市",
+ "city_en": "Sanya",
+ "name_zh": "三亚市南山大小洞天旅游区",
+ "name_en": "Daxiaodongtian Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "sanyashinanshandaxiaodongtian-385",
+ "lat": 18.691304,
+ "lon": 109.349044,
+ "address_zh": "海南省三亚市崖州区南山村",
+ "address_en": "Nanshan Village, Yazhou District, Sanya City, Hainan Province",
+ "address_en_source": "machine_translation",
+ "category": "grotto",
+ "category_zh": "石窟艺术",
+ "category_en": "Grotto art",
+ "intro_zh": "三亚大小洞天是著名的道教文化风景区。景区有“小洞天”“钓台”“海山奇观”“仙人足”“试剑峰”等历代诗文摩崖石刻，以其奇特秀丽的海景、山景、石景与洞景被誉为“琼崖八百年第一山水名胜”。",
+ "intro_en": "Sanya Dongtian is a famous Taoist cultural scenic spot. The scenic area has cliff stone carvings of poems and articles from past dynasties such as \"Little Cave Sky\", \"Diaotai\", \"Sea and Mountain Wonders\", \"Immortal's Foot\" and \"Testing Sword Peak\". It is known as \"Qiongya's No. 8 Landscape Scenic Spot in 800 Years\" for its unique and beautiful sea views, mountain views, stone views and cave views.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Sanya_Nanshan_Dongtian_Park.jpg/1280px-Sanya_Nanshan_Dongtian_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sanya Nanshan Dongtian Park.jpg",
+   "author": "Mkckim",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanya_Nanshan_Dongtian_Park.jpg"
+  }
+ ],
+ "web": "http://www.sanyapark.com/",
+ "booking": "http://www.sanyapark.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sanya Phoenix International Airport",
+    "iata": "SYX",
+    "city": "Sanya (Tianya)",
+    "country": "CN",
+    "lat": 18.3029,
+    "lon": 109.412003,
+    "type": "large_airport",
+    "distance_km": 43.7
+   },
+   {
+    "name": "Qionghai Bo'ao Airport",
+    "iata": "BAR",
+    "city": "Qionghai (Basuo)",
+    "country": "CN",
+    "lat": 19.140951,
+    "lon": 110.452766,
+    "type": "medium_airport",
+    "distance_km": 126.4
+   },
+   {
+    "name": "Haikou Meilan International Airport",
+    "iata": "HAK",
+    "city": "Haikou (Meilan)",
+    "country": "CN",
+    "lat": 19.9349,
+    "lon": 110.459,
+    "type": "large_airport",
+    "distance_km": 180.8
+   }
+  ],
+  "nearest_airport_km": 43.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "崖州",
+    "name_en": "Yazhou",
+    "lat": 18.3782225,
+    "lon": 109.1535157,
+    "distance_km": 40.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "崖州湾",
+    "name_en": null,
+    "lat": 18.3552096,
+    "lon": 109.1808671,
+    "distance_km": 41.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "红塘湾",
+    "name_en": null,
+    "lat": 18.3135364,
+    "lon": 109.2894425,
+    "distance_km": 42.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "維也納酒店（樂東公園店）",
+   "name_en": null,
+   "stars": null,
+   "brand": "維也納酒店",
+   "lat": 18.7422596,
+   "lon": 109.1820195,
+   "distance_km": 18.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/大小洞天"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

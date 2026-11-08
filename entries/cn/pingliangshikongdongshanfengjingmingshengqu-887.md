@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Pingliang City"
 lat: 35.442341
 lon: 105.659367
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 平凉市崆峒山风景名胜区 / Pingliangshikongdongshan Scenic and Historic Area

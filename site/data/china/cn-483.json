@@ -1,0 +1,206 @@
+{
+ "id": "cn-483",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "镇江市",
+ "city_en": "Zhenjiang",
+ "name_zh": "镇江市金山•焦山•北固山风景区",
+ "name_en": "Zhenjiangshijinshan•jiaoshan•beigushanfeng Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "zhenjiangshijinshan-jiaoshan-beigushan-483",
+ "lat": 32.227994,
+ "lon": 119.4198,
+ "address_zh": "镇江市润州区",
+ "address_en": "Runzhou District, Zhenjiang City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "镇江三山，即金山、北固山和焦山，沿江屹立，风景秀丽壮观，犹如一幅壮丽的山水长卷。金山名胜古迹甚多，俯拾皆是。焦山原名樵山，岿然耸立扬子江心，与对岸象山夹江对峙。北固山以险峻著称，甘露寺高踞峰颠，形成“寺冠山”特色。",
+ "intro_en": "The three mountains of Zhenjiang, namely Jinshan Mountain, Beigu Mountain and Jiaoshan Mountain, stand along the river, with beautiful and spectacular scenery, like a magnificent landscape scroll. There are many places of interest and historical sites in Jinshan, which can be found everywhere. Jiaoshan, formerly known as Qiaoshan, stands firmly in the middle of the Yangtze River, confronting Xiangshan and Jiajiang on the other side. Beigu Mountain is famous for its steepness. Ganlu Temple is located on the top of the mountain, forming the characteristic of \"Temple Crown Mountain\".",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yangzhou Taizhou Airport",
+    "iata": "YTY",
+    "city": "Yangzhou",
+    "country": "CN",
+    "lat": 32.5634,
+    "lon": 119.7198,
+    "type": "medium_airport",
+    "distance_km": 46.7
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 47.9
+   },
+   {
+    "name": "Nanjing Lukou International Airport",
+    "iata": "NKG",
+    "city": "Nanjing",
+    "country": "CN",
+    "lat": 31.735032,
+    "lon": 118.865949,
+    "type": "large_airport",
+    "distance_km": 75.7
+   }
+  ],
+  "nearest_airport_km": 46.7,
+  "high_speed_stations": [
+   {
+    "name": "镇江",
+    "name_en": "Zhenjiang",
+    "lat": 32.1996564,
+    "lon": 119.426989,
+    "distance_km": 3.2,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "镇江南",
+    "name_en": null,
+    "lat": 32.1544439,
+    "lon": 119.4186399,
+    "distance_km": 8.2,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "丹徒",
+    "name_en": "Dantu",
+    "lat": 32.119296,
+    "lon": 119.5131952,
+    "distance_km": 14.9,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "镇江东",
+    "name_en": null,
+    "lat": 32.1901275,
+    "lon": 119.4570574,
+    "distance_km": 5.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "六摆渡",
+    "name_en": "Liubaidu",
+    "lat": 32.1818918,
+    "lon": 119.357874,
+    "distance_km": 7.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "上隍",
+    "name_en": null,
+    "lat": 32.1669009,
+    "lon": 119.5411173,
+    "distance_km": 13.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Guang Dong International Hotel",
+   "name_en": "Guang Dong International Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.194735,
+   "lon": 119.4352,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "喜来登酒店",
+   "name_en": "Sheraton Zhenjiang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.1958419,
+   "lon": 119.4303207,
+   "distance_km": 3.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香格里拉大酒店",
+   "name_en": "Shangri-la",
+   "stars": null,
+   "brand": null,
+   "lat": 32.3923606,
+   "lon": 119.363143,
+   "distance_km": 19.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "怡景半岛酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.2897152,
+   "lon": 119.1362834,
+   "distance_km": 27.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "亚朵酒店",
+   "name_en": "Atour Hotel",
+   "stars": null,
+   "brand": "亚朵酒店",
+   "lat": 32.219783,
+   "lon": 119.4190043,
+   "distance_km": 0.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 79,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

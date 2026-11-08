@@ -1,0 +1,162 @@
+{
+ "id": "wh-331",
+ "unesco_id": "331",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 817,
+ "popularity_score": 2078,
+ "country": "MA",
+ "country_zh": "摩洛哥",
+ "country_en": "Morocco",
+ "countries": [
+  {
+   "iso2": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco"
+  }
+ ],
+ "region": "Province of Marrakesh",
+ "subdivision_iso": "MA-MAR",
+ "subdivision_zh": "",
+ "subdivision_en": "Marrakesh Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马拉柯什的阿拉伯人聚居区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Medina of Marrakesh",
+ "name_local": "مدينة مراكش",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "331-medina_of_marrakesh",
+ "lat": 31.63139,
+ "lon": -7.98667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(v)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马拉柯什城是穆拉比兑人于公元1071年至1072年建立的，在很长的一段时期内，马拉柯什一直是摩洛哥的政治中心、经济中心和文化中心。该城的影响力遍及整个西部穆斯林世界，从非洲北部一直到安大路西亚。马拉柯什城中还保留着几个从那个时代遗留下来的遗迹，包括库图比亚清真寺、居民居住区、城墙、巨大城门、花园等等。此外，城中还有一些后期建造的伟大建筑，如邦迪阿宫、本·尤素福穆斯林大学、 萨阿迪墓、数处宏伟的宫殿和民居以及真正的室外剧场——雅马埃尔法那广场。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in 1070–72 by the Almoravids, Marrakesh remained a political, economic and cultural centre for a long period. Its influence was felt throughout the western Muslim world, from North Africa to Andalusia. It has several impressive monuments dating from that period: the Koutoubiya Mosque, the Kasbah, the battlements, monumental doors, gardens, etc. Later architectural jewels include the Badiâ Palace, the Ben Youssef Madrasa , the Saadian Tombs, several great residences and Place Jamaâ El Fna, a veritable open-air theatre.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "أنشأها المُرابطون(1056–1147) بين 1070 و1072 وبقيت مراكش لفترةٍ طويلةٍ المركز السياسي والاقتصادي والثقافي الأهم في بلدان الغرب الاسلاميّة المُسيْطرة على أفريقيا الشّماليّة والأندلس وتعود النصب العظيمة إلى تلك الحقبة: مسجد الكتُبية والقصبة والأسوار والبوّابات الأثريّة والحدائق. ثم استضافت هذه المدينة فيما بعد روائعَ أخرى كقصر الباهية ومدرسة بن يوسف وضريح السعديين والبيوت الكبيرة. كما أن ساحة جامع الفنا التي تشكل مسرحًا رائعًا في الهواء الطلق تدهش دائمًا زائريه، بحيث أدرجت على قائمة التراث غير المادي للإنسانية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Menara%20Garden%2CMorocco%2CMarrakech.jpg?width=1280",
+   "title": "Menara Garden,Morocco,Marrakech.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Menara%20Garden%2CMorocco%2CMarrakech.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_331.jpg",
+   "title": "Medina of Marrakesh",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/331",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/331",
+ "transport": {
+  "airports": [
+   {
+    "name": "Marrakesh Menara Airport",
+    "iata": "RAK",
+    "city": "Marrakesh",
+    "country": "MA",
+    "lat": 31.604807,
+    "lon": -8.035788,
+    "type": "large_airport",
+    "distance_km": 5.5
+   },
+   {
+    "name": "Ouarzazate International Airport",
+    "iata": "OZZ",
+    "city": "Ouarzazate",
+    "country": "MA",
+    "lat": 30.9391,
+    "lon": -6.90943,
+    "type": "large_airport",
+    "distance_km": 128.1
+   },
+   {
+    "name": "Essaouira-Mogador Airport",
+    "iata": "ESU",
+    "city": "Essaouira",
+    "country": "MA",
+    "lat": 31.397499,
+    "lon": -9.68167,
+    "type": "medium_airport",
+    "distance_km": 162.8
+   }
+  ],
+  "nearest_airport_km": 5.5,
+  "distance_beijing_km": 10216.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MA",
+  "country_zh": "摩洛哥",
+  "country_en": "Morocco",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MA",
+   "country_zh": "摩洛哥",
+   "country_en": "Morocco",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 13
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/331"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medina%20of%20Marrakesh"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

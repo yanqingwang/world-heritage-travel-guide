@@ -1,0 +1,162 @@
+{
+ "id": "wh-377",
+ "unesco_id": "377",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1077,
+ "popularity_score": null,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "District of Sungurlu, Çorum Province",
+ "subdivision_iso": "TR-19",
+ "subdivision_zh": "乔鲁姆省",
+ "subdivision_en": "Çorum Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "哈图莎：希泰首都",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hattusha: the Hittite Capital",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "377-hattusha:_the_hittite_capital",
+ "lat": 40.01389,
+ "lon": 34.62056,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "哈图莎是希泰王国以前的首都。它的城市结构，被保留下来的建筑类型（寺庙、皇宫、要塞）、狮子门和皇宫门上华丽的装饰以及亚兹里卡亚的岩石艺术，使它成为杰出的考古遗址。这座城市在公元前2000年时对安纳托利亚及北叙利亚都产生过巨大影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The archaeological site of Hattusha, former capital of the Hittite Empire, is notable for its urban organization, the types of construction that have been preserved (temples, royal residences, fortifications), the rich ornamentation of the Lions' Gate and the Royal Gate, and the ensemble of rock art at Yazilikaya. The city enjoyed considerable influence in Anatolia and northern Syria in the 2nd millennium B.C.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion%20Gate%2C%20Hattusa%2001.jpg?width=1280",
+   "title": "Lion Gate, Hattusa 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lion%20Gate%2C%20Hattusa%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_377.jpg",
+   "title": "Hattusha: the Hittite Capital",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/377",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/377",
+ "transport": {
+  "airports": [
+   {
+    "name": "Amasya Merzifon Airport",
+    "iata": "MZH",
+    "city": "Amasya",
+    "country": "TR",
+    "lat": 40.829399,
+    "lon": 35.521999,
+    "type": "medium_airport",
+    "distance_km": 118.5
+   },
+   {
+    "name": "Nevşehir Kapadokya Airport",
+    "iata": "NAV",
+    "city": "Nevşehir",
+    "country": "TR",
+    "lat": 38.7719,
+    "lon": 34.5345,
+    "type": "large_airport",
+    "distance_km": 138.3
+   },
+   {
+    "name": "Esenboğa International Airport",
+    "iata": "ESB",
+    "city": "Ankara",
+    "country": "TR",
+    "lat": 40.128101,
+    "lon": 32.995098,
+    "type": "large_airport",
+    "distance_km": 138.9
+   }
+  ],
+  "nearest_airport_km": 118.5,
+  "distance_beijing_km": 6591.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/377"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

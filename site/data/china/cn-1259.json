@@ -1,0 +1,175 @@
+{
+ "id": "cn-1259",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "重庆市",
+ "province_en": "Chongqing",
+ "province_iso": "CN-CQ",
+ "city_zh": "巫山县",
+ "city_en": "Wushan County",
+ "name_zh": "小三峡-小小三峡旅游区",
+ "name_en": "Xiaosanxia-xiaoxiaosanxia Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "xiaosanxiaxiaoxiaosanxia-1259",
+ "lat": 31.086327,
+ "lon": 109.894762,
+ "address_zh": "小三峡：重庆市巫山县宁江路       小小三峡：重庆市巫山县大宁河滴翠峡马渡河上",
+ "address_en": "Small Three Gorges: Ningjiang Road, Wushan County, Chongqing City Small Three Gorges: On Madu River, Dicui Gorge, Daning River, Wushan County, Chongqing City",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "巫山小三峡是大宁河下游流经巫山境内的龙门峡、巴雾峡、滴翠峡的总称，峡谷全长60公里。巫山小小三峡位于大宁河滴翠峡处的支流马渡河上，是长滩峡、秦王峡、三撑峡的总称，全长15公里。巫山小三峡-小小三峡旅游风景区风景如画，一江碧水，奇峰壁立，竹木葱茏，猿声阵阵，饶有野趣。",
+ "intro_en": "Wushan Little Three Gorges is the general name for the Longmen Gorge, Bawu Gorge, and Dicui Gorge that flow through Wushan on the lower reaches of the Daning River. The total length of the canyon is 60 kilometers. Wushan Small Three Gorges is located on the Madu River, a tributary of the Daning River at the Dicui Gorge. It is the general name of Changtan Gorge, Qinwang Gorge and Sanzhan Gorge, with a total length of 15 kilometers. Wushan Little Three Gorges - Little Three Gorges Tourist Scenic Area is picturesque, with a river of clear water, strange peaks on the wall, lush bamboo and trees, and the sound of apes, which is full of wild interest.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chongqing Wushan Airport",
+    "iata": "WSK",
+    "city": "Wushan",
+    "country": "CN",
+    "lat": 31.06896,
+    "lon": 109.708958,
+    "type": "small_airport",
+    "distance_km": 17.8
+   },
+   {
+    "name": "Shennongjia Hongping Airport",
+    "iata": "HPG",
+    "city": "Shennongjia (Hongping)",
+    "country": "CN",
+    "lat": 31.626,
+    "lon": 110.34,
+    "type": "medium_airport",
+    "distance_km": 73.4
+   },
+   {
+    "name": "Enshi Xujiaping Airport",
+    "iata": "ENH",
+    "city": "Enshi (Enshi)",
+    "country": "CN",
+    "lat": 30.320299,
+    "lon": 109.485001,
+    "type": "medium_airport",
+    "distance_km": 93.8
+   }
+  ],
+  "nearest_airport_km": 17.8,
+  "high_speed_stations": [
+   {
+    "name": "高坪",
+    "name_en": null,
+    "lat": 30.666672,
+    "lon": 110.0849122,
+    "distance_km": 50.1,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "建始",
+    "name_en": null,
+    "lat": 30.569824,
+    "lon": 109.723454,
+    "distance_km": 59.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "巫山",
+    "name_en": "Wushan",
+    "lat": 31.1319375,
+    "lon": 109.9147774,
+    "distance_km": 5.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "巴东",
+    "name_en": null,
+    "lat": 31.1636161,
+    "lon": 110.3764311,
+    "distance_km": 46.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "奉节",
+    "name_en": null,
+    "lat": 31.0283336,
+    "lon": 109.3685752,
+    "distance_km": 50.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "巫山峡谷",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0843707,
+   "lon": 109.8801693,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yun Hua Binguan",
+   "name_en": "Yun Hua Binguan",
+   "stars": null,
+   "brand": null,
+   "lat": 31.0866426,
+   "lon": 109.8759071,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "国宾酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0776488,
+   "lon": 109.8786742,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

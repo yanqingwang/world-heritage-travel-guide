@@ -1,0 +1,162 @@
+{
+ "id": "wh-557",
+ "unesco_id": "557",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 541,
+ "popularity_score": 11949,
+ "country": "SE",
+ "country_zh": "瑞典",
+ "country_en": "Sweden",
+ "countries": [
+  {
+   "iso2": "SE",
+   "zh": "瑞典",
+   "en": "Sweden"
+  }
+ ],
+ "region": "Bohuslan",
+ "subdivision_iso": "SE-O",
+ "subdivision_zh": "西约塔兰省",
+ "subdivision_en": "Västra Götaland County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔努姆的岩刻画",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rock Carvings in Tanum",
+ "name_local": "Hällristningsområdet i Tanum",
+ "local_lang": "sv",
+ "local_lang_name": "Swedish",
+ "slug": "557-rock_carvings_in_tanum",
+ "lat": 58.69995,
+ "lon": 11.33641,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "塔努姆的岩刻画位于瑞典哥德堡以北，它丰富多彩的图形（描绘人类和动物、武器、船只和其他物品），表现了它独一无二的艺术成就和文化与年代的统一。它丰富突出的作品反映了欧洲青铜器时代人们的生活和信仰。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The rock carvings in Tanum, in the north of Bohuslän, are a unique artistic achievement not only for their rich and varied motifs (depictions of humans and animals, weapons, boats and other subjects) but also for their cultural and chronological unity. They reveal the life and beliefs of people in Europe during the Bronze Age and are remarkable for their large numbers and outstanding quality.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Hällristningsområdet i Tanum är ett område i Tanums kommun i Bohuslän där man funnit flera berghällar med stora mängder hällristningar från bronsåldern. De är alltså skapade någon gång mellan år 1700 och år 500 f Kr. Inte långt från den största av dem, Vitlyckehällen, är Vitlycke museum uppbyggt.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanumshede%202005%20rock%20carvings%207.jpg?width=1280",
+   "title": "Tanumshede 2005 rock carvings 7.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tanumshede%202005%20rock%20carvings%207.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_557.jpg",
+   "title": "Rock Carvings in Tanum",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/557",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/557",
+ "transport": {
+  "airports": [
+   {
+    "name": "Trollhättan-Vänersborg Airport",
+    "iata": "THN",
+    "city": "Trollhättan",
+    "country": "SE",
+    "lat": 58.31809997558594,
+    "lon": 12.345000267028809,
+    "type": "medium_airport",
+    "distance_km": 72.4
+   },
+   {
+    "name": "Sandefjord Airport, Torp",
+    "iata": "TRF",
+    "city": "Sandefjord(Torp)",
+    "country": "NO",
+    "lat": 59.186699,
+    "lon": 10.2586,
+    "type": "large_airport",
+    "distance_km": 82.2
+   },
+   {
+    "name": "Göteborg Landvetter Airport",
+    "iata": "GOT",
+    "city": "Göteborg",
+    "country": "SE",
+    "lat": 57.6628,
+    "lon": 12.2798,
+    "type": "large_airport",
+    "distance_km": 127.9
+   }
+  ],
+  "nearest_airport_km": 72.4,
+  "distance_beijing_km": 7040.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SE",
+  "country_zh": "瑞典",
+  "country_en": "Sweden",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SE",
+   "country_zh": "瑞典",
+   "country_en": "Sweden",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sv",
+  "local_lang_name": "Swedish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 32
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/557"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rock%20Carvings%20in%20Tanum"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

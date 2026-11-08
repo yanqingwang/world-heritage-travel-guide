@@ -1,0 +1,162 @@
+{
+ "id": "wh-810",
+ "unesco_id": "810",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1169,
+ "popularity_score": null,
+ "country": "HR",
+ "country_zh": "克罗地亚",
+ "country_en": "Croatia",
+ "countries": [
+  {
+   "iso2": "HR",
+   "zh": "克罗地亚",
+   "en": "Croatia"
+  }
+ ],
+ "region": "County of Split-Dalmatia",
+ "subdivision_iso": "HR-17",
+ "subdivision_zh": "斯普利特-达尔马提亚县",
+ "subdivision_en": "Split-Dalmatia County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "历史名城特罗吉尔",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic City of Trogir",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "810-historic_city_of_trogir",
+ "lat": 43.5125,
+ "lon": 16.25167,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "特罗吉尔是城市历史连续的著名范例。岛上住区垂直的街道布局可追溯到希腊时期，后来的统治者们又新建了许多精美的公共建筑、家居住宅以及防御工事。精巧的罗马式教堂与威尼斯时期杰出的文艺复兴式和巴洛克式建筑相得益彰。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Trogir is a remarkable example of urban continuity. The orthogonal street plan of this island settlement dates back to the Hellenistic period and it was embellished by successive rulers with many fine public and domestic buildings and fortifications. Its beautiful Romanesque churches are complemented by the outstanding Renaissance and Baroque buildings from the Venetian period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/City%20of%20Trogir%20and%20the%20Tower%20of%20the%20Kamerlengo%20Castle%20%285975489212%29.jpg?width=1280",
+   "title": "City of Trogir and the Tower of the Kamerlengo Castle (5975489212).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:City%20of%20Trogir%20and%20the%20Tower%20of%20the%20Kamerlengo%20Castle%20%285975489212%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_810.jpg",
+   "title": "Historic City of Trogir",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/810",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/810",
+ "transport": {
+  "airports": [
+   {
+    "name": "Split Saint Jerome Airport",
+    "iata": "SPU",
+    "city": "Split",
+    "country": "HR",
+    "lat": 43.538898,
+    "lon": 16.298,
+    "type": "large_airport",
+    "distance_km": 4.8
+   },
+   {
+    "name": "Brač Airport",
+    "iata": "BWK",
+    "city": "Gornji Humac",
+    "country": "HR",
+    "lat": 43.284454,
+    "lon": 16.678362,
+    "type": "medium_airport",
+    "distance_km": 42.8
+   },
+   {
+    "name": "Zadar Airport",
+    "iata": "ZAD",
+    "city": "Zadar",
+    "country": "HR",
+    "lat": 44.096986,
+    "lon": 15.353565,
+    "type": "large_airport",
+    "distance_km": 97.0
+   }
+  ],
+  "nearest_airport_km": 4.8,
+  "distance_beijing_km": 7767.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HR",
+  "country_zh": "克罗地亚",
+  "country_en": "Croatia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HR",
+   "country_zh": "克罗地亚",
+   "country_en": "Croatia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/810"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

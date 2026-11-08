@@ -1,0 +1,201 @@
+{
+ "id": "cn-300",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "武汉市",
+ "city_en": "Wuhan",
+ "name_zh": "武汉市木兰文化生态旅游区",
+ "name_en": "Wuhan",
+ "name_en_source": "wikipedia",
+ "slug": "wuhanshimulanwenhuashengtai-300",
+ "lat": 31.099165,
+ "lon": 114.403265,
+ "address_zh": "湖北省武汉市黄陂区",
+ "address_en": "Huangpi District, Wuhan City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "desert",
+ "category_zh": "草原沙漠",
+ "category_en": "Grassland & desert",
+ "intro_zh": "黄陂木兰文化生态旅游区，由木兰山、木兰天池、木兰草原、木兰云雾山四大景区组成，是华中地区最大的城市生态旅游景区群，为华中地区及高铁游线重要的旅游目的地。",
+ "intro_en": "Wuhan is the capital of Hubei, China. With a population of 13,861,900, it is the most populous city in Hubei and the seventh-most-populous city in China. It is also one of China's nine national central cities. Wuhan historically served as a busy city port for commerce and trading with some crucial influences on Chinese history. The name \"Wuhan\" came from the city's historical origin from the conglomeration of Wuchang, Hankou, and Hanyang, which are collectively known as the \"Three Towns of Wuhan\" (武汉三镇). Wuhan lies in the eastern Jianghan Plain, at the confluence of the Yangtze river and its largest tributary, the Han River, and is known as \"Nine Provinces' Thoroughfare\" (九省通衢). Wuhan was the site of the 1911 Wuchang Uprising against the Qing dynasty which ended 2,000 years of dynastic rule. Wuhan was briefly a capital of China twice, in 1927 under a left wing Kuomintang (KMT) government, and in 1937 as a provisional wartime capital during World War II. In 1938, during the Second Sino-Japanese War, the city was the site of the Battle of Wuhan. On December 31, 2019, SARS-CoV-2, a novel coronavirus that later caused the COVID-19 pandemic, was first discovered in Wuhan and the city wa",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg/1280px-%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "武汉黄鹤楼俯瞰.jpg",
+   "author": "螺钉",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Wuhan-location-MAP-in-Hubei-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wuhan-location-MAP-in-Hubei-Province-in-China.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wuhan-location-MAP-in-Hubei-Province-in-China.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/WuhanSkyline.jpg/1280px-WuhanSkyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "WuhanSkyline.jpg",
+   "author": "AndrewHorne at English Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from en.wikipedia to Commons by Kafuffle using CommonsHelper .",
+   "source": "https://commons.wikimedia.org/wiki/File:WuhanSkyline.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Wuhan_%2832164%29.jpg/1280px-Wuhan_%2832164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wuhan (32164).jpg",
+   "author": "Rc1959",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wuhan_%2832164%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wuhan_%2855945%29.jpg/1280px-Wuhan_%2855945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wuhan (55945).jpg",
+   "author": "Rc1959",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wuhan_%2855945%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Wuhan Tianhe International Airport",
+    "iata": "WUH",
+    "city": "Wuhan (Huangpi)",
+    "country": "CN",
+    "lat": 30.774798,
+    "lon": 114.213723,
+    "type": "large_airport",
+    "distance_km": 40.3
+   },
+   {
+    "name": "Ezhou Huahu International Airport",
+    "iata": "EHU",
+    "city": "Ezhou",
+    "country": "CN",
+    "lat": 30.341178,
+    "lon": 115.03926,
+    "type": "large_airport",
+    "distance_km": 103.9
+   },
+   {
+    "name": "Xinyang Minggang Airport",
+    "iata": "XAI",
+    "city": "Xinyang",
+    "country": "CN",
+    "lat": 32.540819,
+    "lon": 114.079141,
+    "type": "medium_airport",
+    "distance_km": 163.2
+   }
+  ],
+  "nearest_airport_km": 40.3,
+  "high_speed_stations": [
+   {
+    "name": "红安西",
+    "name_en": "Hong'anxi",
+    "lat": 31.0062169,
+    "lon": 114.6264446,
+    "distance_km": 23.6,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "甘露山",
+    "name_en": "Ganlushan",
+    "lat": 30.9151204,
+    "lon": 114.4273405,
+    "distance_km": 20.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "红安",
+    "name_en": "Hong'an",
+    "lat": 31.005587,
+    "lon": 114.6270668,
+    "distance_km": 23.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "长江新区",
+    "name_en": null,
+    "lat": 30.8823632,
+    "lon": 114.4249069,
+    "distance_km": 24.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "武汉甘露山花间堂·岚雪",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.8898203,
+   "lon": 114.4017821,
+   "distance_km": 23.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "武汉黄陂华美达广场酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "华美达",
+   "lat": 30.8809902,
+   "lon": 114.3600878,
+   "distance_km": 24.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/武汉市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

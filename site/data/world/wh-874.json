@@ -1,0 +1,162 @@
+{
+ "id": "wh-874",
+ "unesco_id": "874",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 459,
+ "popularity_score": 15764,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Autonomous Communities of Andalusia, Aragón, Castille-La Mancha, Catalonia, Murcia and Valencia",
+ "subdivision_iso": "ES-VC",
+ "subdivision_zh": "",
+ "subdivision_en": "Valencian Community",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "伊比利亚半岛地中海盆地的石壁画艺术",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rock Art of the Mediterranean Basin on the Iberian Peninsula",
+ "name_local": "Arte rupestre del arco mediterráneo de la Península Ibérica",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "874-rock_art_of_the_mediterranean_basin_on_t",
+ "lat": 39.79,
+ "lon": -1.033333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伊比利亚半岛地中海盆地的史前晚期石壁画艺术遗址形成了一个独特的大规模壁画群。人类发展中一个至关重要时期的生活方式被生动形象地描于石壁画之中。这些石壁画无论从风格还是从主题来评价，都是世界独一无二的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The late prehistoric rock-art sites of the Mediterranean seaboard of the Iberian peninsula form an exceptionally large group. Here the way of life during a critical phase of human development is vividly and graphically depicted in paintings whose style and subject matter are unique.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situados a lo largo del litoral mediterráneo de la Península Ibérica, estos sitios de arte rupestre datan del final de la Prehistoria. Constituyen un conjunto de excepcional envergadura, en el se muestra de forma vívida una etapa crucial del desarrollo del ser humano mediante pinturas que, por su estilo y temática, son únicas en su género.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arte%20rupestre%20arco%20mediterraneo.png?width=1280",
+   "title": "Arte rupestre arco mediterraneo.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Arte%20rupestre%20arco%20mediterraneo.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_874.jpg",
+   "title": "Rock Art of the Mediterranean Basin on the Iberian Peninsula",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/874",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/874",
+ "transport": {
+  "airports": [
+   {
+    "name": "Valencia Airport",
+    "iata": "VLC",
+    "city": "Valencia",
+    "country": "ES",
+    "lat": 39.489162,
+    "lon": -0.480961,
+    "type": "large_airport",
+    "distance_km": 57.9
+   },
+   {
+    "name": "Castellón-Costa Azahar Airport",
+    "iata": "CDT",
+    "city": "Castellón de la Plana",
+    "country": "ES",
+    "lat": 40.213889,
+    "lon": 0.073333,
+    "type": "medium_airport",
+    "distance_km": 105.4
+   },
+   {
+    "name": "Alicante-Elche Miguel Hernández Airport",
+    "iata": "ALC",
+    "city": "Alicante",
+    "country": "ES",
+    "lat": 38.2822,
+    "lon": -0.558156,
+    "type": "large_airport",
+    "distance_km": 172.6
+   }
+  ],
+  "nearest_airport_km": 57.9,
+  "distance_beijing_km": 9107.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/874"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rock%20art%20of%20the%20Iberian%20Mediterranean%20Basin"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-889",
+ "unesco_id": "889",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 782,
+ "popularity_score": 3614,
+ "country": "CU",
+ "country_zh": "古巴",
+ "country_en": "Cuba",
+ "countries": [
+  {
+   "iso2": "CU",
+   "zh": "古巴",
+   "en": "Cuba"
+  }
+ ],
+ "region": "Desembarco del Granma National Park, south-east corner of the the Republic of Cuba",
+ "subdivision_iso": "CU-12",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "格朗玛的德桑巴尔科国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Desembarco del Granma National Park",
+ "name_local": "Parque Nacional del Desembarco del Granma",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "889-desembarco_del_granma_national_park",
+ "lat": 19.883333,
+ "lon": -77.633333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "格朗玛的德桑巴尔科国家公园内有上升的海底、至今仍在发展的喀斯特地形、地貌，展现了具有全球意义的地貌和地形特点以及正在进行的地质作用。这一地区位于古巴东南部的克鲁斯周围，既有壮观的梯田和悬崖，又有一些西大西洋海岸最原始、最壮观的悬崖。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Desembarco del Granma National Park, with its uplifted marine terraces and associated ongoing development of karst topography and features, represents a globally significant example of geomorphologic and physiographic features and ongoing geological processes. The area, which is situated in and around Cabo Cruz in south-east Cuba, includes spectacular terraces and cliffs, as well as some of the most pristine and impressive coastal cliffs bordering the western Atlantic.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Las elevadas terrazas marinas de este sitio son un ejemplo de valor universal de las particularidades morfológicas y fisiográficas de los terrenos cársticos, así como de los procesos geológicos en curso de evolución. Situado al sudeste de Cuba, el Parque Nacional Desembarco del Granma comprende las terrazas y los farallones espectaculares del Cabo Cruz, así como algunos de los acantilados costeros más impresionantes e intactos del Atlántico Occidental.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascada%20en%20El%20Nicho.jpg?width=1280",
+   "title": "Cascada en El Nicho.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Cascada%20en%20El%20Nicho.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_889.jpg",
+   "title": "Desembarco del Granma National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/889",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/889",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sierra Maestra International Airport",
+    "iata": "MZO",
+    "city": "Manzanillo",
+    "country": "CU",
+    "lat": 20.288605,
+    "lon": -77.087545,
+    "type": "medium_airport",
+    "distance_km": 72.7
+   },
+   {
+    "name": "Carlos Manuel de Cespedes Airport",
+    "iata": "BYM",
+    "city": "Bayamo",
+    "country": "CU",
+    "lat": 20.3964,
+    "lon": -76.621399,
+    "type": "medium_airport",
+    "distance_km": 120.1
+   },
+   {
+    "name": "Hermanos Ameijeiras Airport",
+    "iata": "VTU",
+    "city": "Las Tunas",
+    "country": "CU",
+    "lat": 20.9876,
+    "lon": -76.935799,
+    "type": "medium_airport",
+    "distance_km": 142.7
+   }
+  ],
+  "nearest_airport_km": 72.7,
+  "distance_beijing_km": 13154.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CU",
+  "country_zh": "古巴",
+  "country_en": "Cuba",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CU",
+   "country_zh": "古巴",
+   "country_en": "Cuba",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/889"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Desembarco%20del%20Granma%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

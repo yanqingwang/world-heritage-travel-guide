@@ -1,0 +1,162 @@
+{
+ "id": "wh-234",
+ "unesco_id": "234",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 504,
+ "popularity_score": 13327,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Goa",
+ "subdivision_iso": "IN-GA",
+ "subdivision_zh": "果阿邦",
+ "subdivision_en": "Goa",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "果阿的教堂和修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Churches and Convents of Goa",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "234-churches_and_convents_of_goa",
+ "lat": 15.5024,
+ "lon": 73.9117,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "果阿是葡萄牙占领印度时期的首都。那里的教堂和修道院，特别是存有圣弗朗西斯-伊格赛维亚(St Francis-Xavier)棺木的鲍姆耶酥教堂，是在亚洲传播基督福音的历史证明。这些建筑对于在所有亚洲的传教国家里传播曼奴埃尔式、曼纳瑞斯式和巴洛克式建筑风格起了很大的影响作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The churches and convents of Goa, the former capital of the Portuguese Indies – particularly the Church of Bom Jesus, which contains the tomb of St Francis-Xavier – illustrate the evangelization of Asia. These monuments were influential in spreading forms of Manueline, Mannerist and Baroque art in all the countries of Asia where missions were established.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Goa-StFrancis-Facade1.jpg?width=1280",
+   "title": "Goa-StFrancis-Facade1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Goa-StFrancis-Facade1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_234.jpg",
+   "title": "Churches and Convents of Goa",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/234",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/234",
+ "transport": {
+  "airports": [
+   {
+    "name": "Goa Dabolim International Airport",
+    "iata": "GOI",
+    "city": "Vasco da Gama",
+    "country": "IN",
+    "lat": 15.380062,
+    "lon": 73.833328,
+    "type": "large_airport",
+    "distance_km": 16.0
+   },
+   {
+    "name": "Manohar International Airport",
+    "iata": "GOX",
+    "city": "Mopa",
+    "country": "IN",
+    "lat": 15.744257,
+    "lon": 73.860625,
+    "type": "large_airport",
+    "distance_km": 27.4
+   },
+   {
+    "name": "Sindhudurg Airport",
+    "iata": "SDW",
+    "city": "Chipi",
+    "country": "IN",
+    "lat": 16.002552,
+    "lon": 73.529846,
+    "type": "medium_airport",
+    "distance_km": 69.0
+   }
+  ],
+  "nearest_airport_km": 16.0,
+  "distance_beijing_km": 4955.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 20
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/234"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Churches%20and%20convents%20of%20Goa"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

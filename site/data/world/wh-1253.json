@@ -1,0 +1,162 @@
+{
+ "id": "wh-1253",
+ "unesco_id": "1253",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 424,
+ "popularity_score": 18317,
+ "country": "RS",
+ "country_zh": "塞尔维亚",
+ "country_en": "Serbia",
+ "countries": [
+  {
+   "iso2": "RS",
+   "zh": "塞尔维亚",
+   "en": "Serbia"
+  }
+ ],
+ "region": "Eastern Serbia",
+ "subdivision_iso": "RS-15",
+ "subdivision_zh": "扎耶查尔区",
+ "subdivision_en": "Zaječar District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "贾姆济格勒－罗慕利亚纳的加莱里乌斯宫",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gamzigrad-Romuliana, Palace of Galerius",
+ "name_local": "Гамзиград",
+ "local_lang": "sr",
+ "local_lang_name": "Serbian",
+ "slug": "1253-gamzigrad-romuliana,_palace_of_galerius",
+ "lat": 43.899305555,
+ "lon": 22.186166666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2007",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "贾姆济格勒－罗慕利亚纳的加莱里乌斯宫位于塞尔维亚东部，建于3世纪末至4世纪初的罗马帝国末期，是皇帝加莱里乌斯下令修建的。这座堡垒式宫殿以皇太后菲利克斯•罗慕利亚纳的名字命名，包括城堡、位于建筑群西北部的宫殿、教堂、修道院、浴室、礼拜堂和一座凯旋门。这处遗产是罗马传统建筑的典型代表，同时带有第二次四君主制时期的思想烙印。这处建筑群的独特之处，还在于将举行仪式和纪念活动的功能集于一身。整个建筑群分为两大部分，中间以凯旋门相连。巨大的拱门横跨道路，一侧是堡垒和宫殿。另一侧是墓地和纪念碑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Late Roman fortified palace compound and memorial complex of Gamzigrad-Romuliana, Palace of Galerius, in the east of Serbia, was commissioned by Emperor Caius Valerius Galerius Maximianus, in the late 3rd and early 4th centuries. It was known as Felix Romuliana, named after the emperor’s mother. The site consists of fortifications, the palace in the north-western part of the complex, basilicas, temples, hot baths, memorial complex, and a tetrapylon. The group of buildings is also unique in its intertwining of ceremonial and memorial functions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Гамзиград је археолошко налазиште близу Зајечара у источној Србији античке римске царске палате Феликс Ромулијане (лат. Felix Romuliana) које се од 29. јуна 2007. налази на УНЕСКО-вој листи Светске баштине . Гамзиград је представљао резиденцију римског цара Гаја Валерија Максимијана Галерија (Gaius Valerius Maximianus Galerius; 293–311), зета Диоклецијановог. По мајци Ромули назвао га је Ромулијана (Romuliana). Палата изгледа никада није довршена, а цареви 4. века су велелепни посед препустили хришћанској цркви. Током 5. века палата је разарана од стране варвара, а у 6. век Ромулијану је Јустинијан I обновио у виду пограничне тврђаве. Након најезде Словена крајем 6. века, некадашња царска резиденција је напуштена. Моћан град, на 6,5 ha, са око 20 утврђених кула. Унутар се налазила раскошна палата, два паганска храма, три хришћанске цркве и друге грађевине; подни мозаици се сматрају равнима најбољим остварењима касноантичког доба у Европи. У близини локалитета налазе се истоимено село и бања топле минералне воде, погодна за лечење реуматизма и кожних болести.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Romuliana%2C%20from%20air.jpg?width=1280",
+   "title": "Romuliana, from air.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Romuliana%2C%20from%20air.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1253.jpg",
+   "title": "Gamzigrad-Romuliana, Palace of Galerius",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1253",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1253",
+ "transport": {
+  "airports": [
+   {
+    "name": "Niš Constantine the Great Airport",
+    "iata": "INI",
+    "city": "Niš",
+    "country": "RS",
+    "lat": 43.336538,
+    "lon": 21.856242,
+    "type": "large_airport",
+    "distance_km": 68.0
+   },
+   {
+    "name": "Morava Airport",
+    "iata": "KVO",
+    "city": "Kraljevo",
+    "country": "RS",
+    "lat": 43.817519,
+    "lon": 20.586662,
+    "type": "medium_airport",
+    "distance_km": 128.6
+   },
+   {
+    "name": "Craiova International Airport",
+    "iata": "CRA",
+    "city": "Craiova",
+    "country": "RO",
+    "lat": 44.3181,
+    "lon": 23.888599,
+    "type": "large_airport",
+    "distance_km": 143.7
+   }
+  ],
+  "nearest_airport_km": 68.0,
+  "distance_beijing_km": 7413.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RS",
+  "country_zh": "塞尔维亚",
+  "country_en": "Serbia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa up to 90 days within a 6-month period. Long stay (up to 180 days) visas are issued free of charge.[128]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RS",
+   "country_zh": "塞尔维亚",
+   "country_en": "Serbia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa up to 90 days within a 6-month period. Long stay (up to 180 days) visas are issued free of charge.[128]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sr",
+  "local_lang_name": "Serbian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1253"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gamzigrad"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

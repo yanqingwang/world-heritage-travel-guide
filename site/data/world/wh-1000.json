@@ -1,0 +1,144 @@
+{
+ "id": "wh-1000",
+ "unesco_id": "1000",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 876,
+ "popularity_score": null,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "Pernambuco and Rio Grande do Norte States",
+ "subdivision_iso": "BR-PE",
+ "subdivision_zh": "",
+ "subdivision_en": "Pernambuco",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "巴西大西洋群岛：费尔南多－迪诺罗尼亚群岛和罗卡斯岛保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1000-brazilian_atlantic_islands:_fernando_de_",
+ "lat": -3.857944444,
+ "lon": -32.42511111,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "南大西洋露出海面的海底山脉形成了费尔南多－迪诺罗尼亚群岛和巴西沿海的罗卡环形礁。这个区域包括了南大西洋大部分岛屿，对于鲔鱼、鲨鱼、海龟和海洋哺乳动物的生长和繁衍具有重要意义。巴西大西洋群岛也是西大西洋上热带海鸟最集中的地方。在拜亚海区生活有大量海豚，在落潮期，罗卡环形礁给游客展示出一幅怡人的海岸美景，泻湖和潮水坑星罗棋布，里面还有各种鱼类。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Peaks of the Southern Atlantic submarine ridge form the Fernando de Noronha Archipelago and Rocas Atoll off the coast of Brazil. They represent a large proportion of the island surface of the South Atlantic and their rich waters are extremely important for the breeding and feeding of tuna, shark, turtle and marine mammals. The islands are home to the largest concentration of tropical seabirds in the Western Atlantic. Baia de Golfinhos has an exceptional population of resident dolphin and at low tide the Rocas Atoll provides a spectacular seascape of lagoons and tidal pools teeming with fish.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1000.jpg",
+   "title": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1000",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1000",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fernando de Noronha Airport",
+    "iata": "FEN",
+    "city": "Fernando de Noronha",
+    "country": "BR",
+    "lat": -3.854534,
+    "lon": -32.423017,
+    "type": "medium_airport",
+    "distance_km": 0.4
+   },
+   {
+    "name": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
+    "iata": "NAT",
+    "city": "Natal",
+    "country": "BR",
+    "lat": -5.769822,
+    "lon": -35.36661,
+    "type": "large_airport",
+    "distance_km": 389.1
+   }
+  ],
+  "nearest_airport_km": 0.4,
+  "distance_beijing_km": 14927.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1000"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

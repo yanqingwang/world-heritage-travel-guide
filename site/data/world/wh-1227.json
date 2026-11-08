@@ -1,0 +1,162 @@
+{
+ "id": "wh-1227",
+ "unesco_id": "1227",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 512,
+ "popularity_score": 13031,
+ "country": "MU",
+ "country_zh": "毛里求斯",
+ "country_en": "Mauritius",
+ "countries": [
+  {
+   "iso2": "MU",
+   "zh": "毛里求斯",
+   "en": "Mauritius"
+  }
+ ],
+ "region": "Port Louis District",
+ "subdivision_iso": "MU-PL",
+ "subdivision_zh": "路易港區",
+ "subdivision_en": "Port Louis District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿普拉瓦西•加特地区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Aapravasi Ghat",
+ "name_local": "Aapravasi Ghat",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1227-aapravasi_ghat",
+ "lat": -20.158611,
+ "lon": 57.503056,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "2006",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "1640平方米的路易斯港地区是现代有契据的劳动力移民的起源地。1834年，英国政府选择毛里求斯岛为第一处试验地进行所谓的“伟大试验”，用自由劳动力代替奴隶。在1834年到1920年间，近50万名有契约的劳动力从印度来到阿普拉瓦西•加特地区，在毛里求斯的制糖厂工作，或被运送到了澳大利亚留尼汪岛、南部和东部非洲，或加勒比地区。阿普拉瓦西•加特地区的建筑是最早清晰展示未来世界经济体系的建筑之一，也是历史上最伟大的移民见证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the district of Port Louis, lies the 1,640 m2 site where the modern indentured labour diaspora began. In 1834, the British Government selected the island of Mauritius to be the first site for what it called ‘the great experiment’ in the use of ‘free’ labour to replace slaves. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat to work in the sugar plantations of Mauritius, or to be transferred to Reunion Island, Australia, southern and eastern Africa or the Caribbean. The buildings of Aapravasi Ghat are among the earliest explicit manifestations of what was to become a global economic system and one of the greatest migrations in history.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ce site de 1 640 m2 situé dans le district de Port Louis est l’endroit où commença la moderne diaspora des travailleurs sous contrat ou « engagés ». En 1834, le gouvernement britannique choisit l’île de Maurice pour en faire le premier site de sa « grande expérience », l’utilisation de travailleurs libres plutôt que d’esclaves. Entre 1834 et 1920, presque un demi-million de travailleurs sous contrat arriva d’Inde à l’Aapravasi Ghat pour travailler dans les plantations sucrières de Maurice ou pour être transférés de là à l’île de la Réunion, en Australie, en Afrique australe et orientale, dans les Caraïbes. Les bâtiments de l’Aapravasi Ghat sont l’une des premières manifestations explicites de ce qui devait devenir par la suite un système économique mondial et l’une des plus grandes vagues migratrices de l’histoire.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aapravasi%20Ghat%20Museum%2C%20Mauritius%20%2841%29.jpg?width=1280",
+   "title": "Aapravasi Ghat Museum, Mauritius (41).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aapravasi%20Ghat%20Museum%2C%20Mauritius%20%2841%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1227.jpg",
+   "title": "Aapravasi Ghat",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1227",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1227",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sir Seewoosagur Ramgoolam International Airport",
+    "iata": "MRU",
+    "city": "Plaine Magnien",
+    "country": "MU",
+    "lat": -20.430201,
+    "lon": 57.683601,
+    "type": "large_airport",
+    "distance_km": 35.6
+   },
+   {
+    "name": "Roland Garros Airport",
+    "iata": "RUN",
+    "city": "Sainte-Marie",
+    "country": "RE",
+    "lat": -20.890087,
+    "lon": 55.518894,
+    "type": "large_airport",
+    "distance_km": 222.1
+   },
+   {
+    "name": "Saint-Pierre Pierrefonds Airport",
+    "iata": "ZSE",
+    "city": "Saint-Pierre",
+    "country": "RE",
+    "lat": -21.319362,
+    "lon": 55.422506,
+    "type": "large_airport",
+    "distance_km": 251.9
+   }
+  ],
+  "nearest_airport_km": 35.6,
+  "distance_beijing_km": 9076.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MU",
+  "country_zh": "毛里求斯",
+  "country_en": "Mauritius",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MU",
+   "country_zh": "毛里求斯",
+   "country_en": "Mauritius",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1227"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aapravasi%20Ghat"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

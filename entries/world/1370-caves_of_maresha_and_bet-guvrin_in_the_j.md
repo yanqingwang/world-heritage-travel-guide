@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(v)"
 lat: 31.61305556
 lon: 34.89833333
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:45Z"
 ---
 
 # 马雷沙和贝特古夫林洞穴 / Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves

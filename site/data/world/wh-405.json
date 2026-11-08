@@ -1,0 +1,162 @@
+{
+ "id": "wh-405",
+ "unesco_id": "405",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 378,
+ "popularity_score": 21787,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "Sabaragamuwa and Southern Provinces",
+ "subdivision_iso": "LK-3",
+ "subdivision_zh": "南部省",
+ "subdivision_en": "Southern Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "辛哈拉加森林保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sinharaja Forest Reserve",
+ "name_local": "",
+ "local_lang": "ta",
+ "local_lang_name": "Tamil",
+ "slug": "405-sinharaja_forest_reserve",
+ "lat": 6.24,
+ "lon": 80.28,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "辛哈拉加森林保护区位于斯里兰卡西南部，是斯里兰卡唯一存活的一片原始热带雨林。这里60%以上的树木都是当地特有树种，其中许多属于珍稀树种。保护区里还生存着很多当地特有的野生动物，并以鸟类居多。保护区还是斯里兰卡50%以上的哺乳动物和蝴蝶生存的家园，也是种类繁多的各种昆虫、爬行动物和珍稀两栖动物繁衍生息的地方。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in south-west Sri Lanka, Sinharaja is the country's last viable area of primary tropical rainforest. More than 60% of the trees are endemic and many of them are considered rare. There is much endemic wildlife, especially birds, but the reserve is also home to over 50% of Sri Lanka's endemic species of mammals and butterflies, as well as many kinds of insects, reptiles and rare amphibians.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Sinharaja%20Forest%20asv2020-01%20img08.jpg?width=1280",
+   "title": "SL Sinharaja Forest asv2020-01 img08.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:SL%20Sinharaja%20Forest%20asv2020-01%20img08.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_405.jpg",
+   "title": "Sinharaja Forest Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/405",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/405",
+ "transport": {
+  "airports": [
+   {
+    "name": "Koggala Airport",
+    "iata": "KCT",
+    "city": "Galle",
+    "country": "LK",
+    "lat": 5.993680000305176,
+    "lon": 80.32029724121094,
+    "type": "medium_airport",
+    "distance_km": 27.7
+   },
+   {
+    "name": "Colombo Ratmalana International Airport",
+    "iata": "RML",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 6.821638,
+    "lon": 79.885859,
+    "type": "large_airport",
+    "distance_km": 78.0
+   },
+   {
+    "name": "Mattala Rajapaksa International Airport",
+    "iata": "HRI",
+    "city": "Mattala",
+    "country": "LK",
+    "lat": 6.283878,
+    "lon": 81.124163,
+    "type": "medium_airport",
+    "distance_km": 93.4
+   }
+  ],
+  "nearest_airport_km": 27.7,
+  "distance_beijing_km": 5236.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "ta",
+  "local_lang_name": "Tamil",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/405"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sinharaja%20Forest%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

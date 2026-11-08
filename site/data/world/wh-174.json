@@ -1,0 +1,154 @@
+{
+ "id": "wh-174",
+ "unesco_id": "174",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1024,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Florence, Tuscany",
+ "subdivision_iso": "IT-52",
+ "subdivision_zh": "",
+ "subdivision_en": "Tuscany",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "佛罗伦萨历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Florence",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "174-historic_centre_of_florence",
+ "lat": 43.77306,
+ "lon": 11.25611111,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "佛罗伦萨是在一个意大利古国伊特鲁里亚的定居点上建立起来的。作为文艺复兴的象征，佛罗伦萨在15世纪和16世纪的梅迪奇(Medici)时代达到它在经济和文化上的顶峰。600年来佛罗伦萨的艺术活动异常活跃，这首先可以从它13世纪的菲奥里的圣玛利亚教堂中就可以看出，当然也包括圣十字教堂、乌菲齐宫、皮蒂宫，以及乔托、布鲁内莱斯基、博蒂切利和米开朗基罗等大师的杰作等。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built on the site of an Etruscan settlement, Florence, the symbol of the Renaissance, rose to economic and cultural pre-eminence under the Medici in the 15th and 16th centuries. Its 600 years of extraordinary artistic activity can be seen above all in the 13th-century cathedral (Santa Maria del Fiore), the Church of Santa Croce, the Uffizi and the Pitti Palace, the work of great masters such as Giotto, Brunelleschi, Botticelli and Michelangelo.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_174.jpg",
+   "title": "Historic Centre of Florence",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/174",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/174",
+ "transport": {
+  "airports": [
+   {
+    "name": "Florence Airport, Peretola",
+    "iata": "FLR",
+    "city": "Firenze (FI)",
+    "country": "IT",
+    "lat": 43.808558,
+    "lon": 11.202822,
+    "type": "large_airport",
+    "distance_km": 5.8
+   },
+   {
+    "name": "Pisa International Airport",
+    "iata": "PSA",
+    "city": "Pisa (PI)",
+    "country": "IT",
+    "lat": 43.683899,
+    "lon": 10.3927,
+    "type": "large_airport",
+    "distance_km": 70.1
+   },
+   {
+    "name": "Forlì-Luigi Ridolfi International Airport",
+    "iata": "FRL",
+    "city": "Forlì (FC)",
+    "country": "IT",
+    "lat": 44.194801,
+    "lon": 12.0701,
+    "type": "medium_airport",
+    "distance_km": 80.3
+   }
+  ],
+  "nearest_airport_km": 5.8,
+  "distance_beijing_km": 8071.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/174"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

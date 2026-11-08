@@ -1,0 +1,162 @@
+{
+ "id": "wh-741",
+ "unesco_id": "741",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1145,
+ "popularity_score": null,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "Nova Scotia",
+ "subdivision_iso": "CA-NS",
+ "subdivision_zh": "新斯科舍省",
+ "subdivision_en": "Nova Scotia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卢嫩堡旧城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Town Lunenburg",
+ "name_local": "Le Vieux Lunenburg",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "741-old_town_lunenburg",
+ "lat": 44.376111111,
+ "lon": -64.309166666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卢嫩堡是英国在北美规划的殖民地住区典范，建于1753年，有保存完好的原始布局和完整的外观，城市整体结构呈矩形，摹仿了英国本土的城市规划结构。几个世纪以来，当地居民尽量保持城市的特性，为此他们不遗余力地保留那些木结构的房屋，其中有些房屋的历史可追溯到18世纪。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Lunenburg is the best surviving example of a planned British colonial settlement in North America. Established in 1753, it has retained its original layout and overall appearance, based on a rectangular grid pattern drawn up in the home country. The inhabitants have managed to safeguard the city's identity throughout the centuries by preserving the wooden architecture of the houses, some of which date from the 18th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le Vieux Lunenburg offre le meilleur exemple encore existant d'un établissement colonial britannique planifié en Amérique du Nord. Fondé en 1753, il conserve intacts sa structure d'origine, obéissant à un plan en damier conçu en métropole, ainsi que son aspect général. La population a su préserver l'identité de la ville au cours des siècles en sauvegardant l'architecture de bois de ses maisons, dont certaines datent du XVII e siècle.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lunenburg%20Nova%20Scotia%203.jpg?width=1280",
+   "title": "Lunenburg Nova Scotia 3.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lunenburg%20Nova%20Scotia%203.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_741.jpg",
+   "title": "Old Town Lunenburg",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/741",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/741",
+ "transport": {
+  "airports": [
+   {
+    "name": "Halifax / Stanfield International Airport",
+    "iata": "YHZ",
+    "city": "Halifax",
+    "country": "CA",
+    "lat": 44.8807983398,
+    "lon": -63.5085983276,
+    "type": "large_airport",
+    "distance_km": 84.6
+   },
+   {
+    "name": "Saint John Airport",
+    "iata": "YSJ",
+    "city": "Saint John",
+    "country": "CA",
+    "lat": 45.31610107421875,
+    "lon": -65.89029693603516,
+    "type": "medium_airport",
+    "distance_km": 162.7
+   },
+   {
+    "name": "Greater Moncton Roméo LeBlanc International Airport",
+    "iata": "YQM",
+    "city": "Moncton",
+    "country": "CA",
+    "lat": 46.113189,
+    "lon": -64.67719,
+    "type": "medium_airport",
+    "distance_km": 195.3
+   }
+  ],
+  "nearest_airport_km": 84.6,
+  "distance_beijing_km": 10567.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/741"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

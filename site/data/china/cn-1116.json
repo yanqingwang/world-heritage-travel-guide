@@ -1,0 +1,126 @@
+{
+ "id": "cn-1116",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖南省",
+ "province_en": "Hunan",
+ "province_iso": "CN-HN",
+ "city_zh": "株洲市",
+ "city_en": "Zhuzhou City",
+ "name_zh": "株洲市炎帝陵景区",
+ "name_en": "Yandiling Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "zhuzhoushiyandiling-1116",
+ "lat": 26.414436,
+ "lon": 113.679206,
+ "address_zh": "湖南省炎陵县城西19公里的鹿原陂",
+ "address_en": "Luyuanpi, 19 kilometers west of Yanling County, Hunan Province",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "炎帝陵陵区面积约5平方公里，是中华民族始祖炎帝神农氏的寝陵圣地。因其历史悠久，被誉为“神州第一陵”，现为全国重点文物保护单位、全国爱国主义教育示范基地。",
+ "intro_en": "The Yandi Mausoleum area covers an area of ​​about 5 square kilometers. It is the holy place where the Yandi Shennong, the ancestor of the Chinese nation, was buried. Because of its long history, it is known as the \"No. 1 Mausoleum in China\". It is now a national key cultural relics protection unit and a national patriotism education demonstration base.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "http://www.ydling.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hengyang Nanyue Airport",
+    "iata": "HNY",
+    "city": "Hengyang",
+    "country": "CN",
+    "lat": 26.72208,
+    "lon": 112.617958,
+    "type": "medium_airport",
+    "distance_km": 110.9
+   },
+   {
+    "name": "Chenzhou Beihu Airport",
+    "iata": "HCZ",
+    "city": "Chenzhou",
+    "country": "CN",
+    "lat": 25.753419,
+    "lon": 112.845404,
+    "type": "medium_airport",
+    "distance_km": 111.1
+   },
+   {
+    "name": "Jinggangshan Airport",
+    "iata": "JGS",
+    "city": "Ji'an",
+    "country": "CN",
+    "lat": 26.856899,
+    "lon": 114.737,
+    "type": "medium_airport",
+    "distance_km": 116.1
+   }
+  ],
+  "nearest_airport_km": 110.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "炎陵",
+    "name_en": null,
+    "lat": 26.5034613,
+    "lon": 113.7785386,
+    "distance_km": 14.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "浣溪",
+    "name_en": null,
+    "lat": 26.5501732,
+    "lon": 113.5985618,
+    "distance_km": 17.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "云盘",
+    "name_en": null,
+    "lat": 26.6428385,
+    "lon": 113.5511146,
+    "distance_km": 28.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/炎帝陵"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

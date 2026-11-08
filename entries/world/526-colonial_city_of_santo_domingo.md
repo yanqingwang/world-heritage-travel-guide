@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(ii)(iv)(vi)"
 lat: 18.473
 lon: -69.883
-updated_at: "2026-11-08T12:18:55Z"
+updated_at: "2026-11-08T14:52:28Z"
 ---
 
 # 圣多明各殖民城市 / Colonial City of Santo Domingo

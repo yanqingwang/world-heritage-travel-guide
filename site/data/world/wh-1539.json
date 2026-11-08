@@ -1,0 +1,159 @@
+{
+ "id": "wh-1539",
+ "unesco_id": "1539",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 979,
+ "popularity_score": null,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PL-24",
+ "subdivision_zh": "希隆斯克省",
+ "subdivision_en": "Silesian Voivodeship",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔尔诺夫斯克山铅银锌矿及其地下水管理系统",
+ "name_zh_source": "wikidata",
+ "name_en": "Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System",
+ "name_local": "Kopalnia rud ołowiu, srebra i cynku wraz z systemem gospodarowania wodami podziemnymi w Tarnowskich Górach",
+ "local_lang": "pl",
+ "local_lang_name": "Polish",
+ "slug": "1539-tarnowskie_góry_lead-silver-zinc_mine_an",
+ "lat": 50.4427,
+ "lon": 18.85123,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "2017",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该矿区位于波兰南部的上西里西亚，是中欧主要矿区之一，包括整个地下矿井，包括坑道、竖井、坑道和水管理系统的其他功能。大部分矿产位于地下，而露天采矿地形则以竖井和废物堆遗迹以及 19 世纪蒸汽水泵站的遗迹为特色。位于地下和地表的水管理系统的各个要素证明了三个世纪以来不断努力排干地下开采区的水，并利用矿井中的不良水来供应城镇和工业。 Tarnowskie Góry 为全球铅锌生产做出了重大贡献。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Located in Upper Silesia, in southern Poland, one of the main mining areas of central Europe, the property includes the entire underground mine with adits, shafts, galleries and other features of the water management system. Most of the property is situated underground while the surface mining topography features relics of shafts and waste heaps, as well as the remains of the 19th century steam water pumping station. The elements of the water management system, located underground and on the surface, testify to continuous efforts over three centuries to drain the underground extraction zone and to use undesirable water from the mines to supply towns and industry. Tarnowskie Góry represents a significant contribution to the global production of lead and zinc.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Kopalnia rud ołowiu, srebra i cynku wraz z systemem gospodarowania wodami podziemnymi w Tarnowskich Górach (ang. Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System) – wspólna nazwa grupy zabytków poprzemysłowych związanych z górnictwem rud metali nieżelaznych z okresu między XVIII a XX wiekiem, wpisanych w 2017 roku na listę światowego dziedzictwa UNESCO, położonych na terenie Tarnowskich Gór oraz częściowo Bytomia i gminy Zbrosławice w województwie śląskim. Wpisu dokonano 9 lipca 2017 na 41. sesji Komitetu Światowego Dziedzictwa odbywającej się w Krakowie. Grupa zabytków obejmuje 28 obiektów, m.in. wpisane na listę Pomników historii oraz znajdujące się na Europejskim Szlaku Dziedzictwa Przemysłowego i Szlaku Zabytków Techniki Województwa Śląskiego, Sztolnię Czarnego Pstrąga oraz Zabytkową Kopalnię Srebra, podziemne wyrobiska, chodniki, szyby, sztolnie oraz park z początku XX wieku.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Koplania%20Zabytkowa%20Srebra.jpg?width=1280",
+   "title": "Koplania Zabytkowa Srebra.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Koplania%20Zabytkowa%20Srebra.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1539.jpg",
+   "title": "Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1539",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1539",
+ "transport": {
+  "airports": [
+   {
+    "name": "Katowice Wojciech Korfanty International Airport",
+    "iata": "KTW",
+    "city": "Katowice",
+    "country": "PL",
+    "lat": 50.476015,
+    "lon": 19.080705,
+    "type": "large_airport",
+    "distance_km": 16.7
+   },
+   {
+    "name": "Kraków John Paul II International Airport",
+    "iata": "KRK",
+    "city": "Balice",
+    "country": "PL",
+    "lat": 50.077702,
+    "lon": 19.7848,
+    "type": "large_airport",
+    "distance_km": 77.8
+   },
+   {
+    "name": "Leoš Janáček Airport Ostrava",
+    "iata": "OSR",
+    "city": "Mošnov",
+    "country": "CZ",
+    "lat": 49.696301,
+    "lon": 18.111099,
+    "type": "large_airport",
+    "distance_km": 98.4
+   }
+  ],
+  "nearest_airport_km": 16.7,
+  "distance_beijing_km": 7154.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pl",
+  "local_lang_name": "Polish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1539"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

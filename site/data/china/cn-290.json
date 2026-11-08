@@ -1,0 +1,224 @@
+{
+ "id": "cn-290",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广西壮族自治区",
+ "province_en": "Guangxi",
+ "province_iso": "CN-GX",
+ "city_zh": "桂林市",
+ "city_en": "Guilin",
+ "name_zh": "桂林市漓江风景区",
+ "name_en": "Li River",
+ "name_en_source": "wikipedia",
+ "slug": "guilinshilijiang-290",
+ "lat": 25.153166,
+ "lon": 110.438262,
+ "address_zh": "广西壮族自治区桂林市灵川县",
+ "address_en": "Lingchuan County, Guilin City, Guangxi Zhuang Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "桂林漓江风景区，是世界上规模较大、风景优美的岩溶山水游览区。景区既有“山清、水秀、洞奇、石美”四绝，又有“洲绿、滩险、潭深、瀑飞”之胜，人称“百里漓江、百里画廊”。漓江两岸山峰挺拔，形态万千，江堤竹林摇曳，婀娜多姿，江中碧水萦回，奇峰倒影，每一处景致都旖旎如画。",
+ "intro_en": "The Li River or Li Jiang (simplified Chinese: 漓江; traditional Chinese: 灕江; pinyin: Lí Jiāng) is the name for the upper reaches of the Gui River in northeastern Guangxi, China. It is part of the Xijiang River system in the Pearl River basin, flowing 164 kilometres (102 mi) from Xing'an County to Pingle County.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Rzeka_Li.jpg/1280px-Rzeka_Li.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Rzeka Li.jpg",
+   "author": "Halaston",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Rzeka_Li.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%BC%93%E6%B1%9F%E6%B5%81%E5%9F%9F%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%BC%93%E6%B1%9F%E6%B5%81%E5%9F%9F%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "广西壮族自治区漓江流域生态环境保护条例.pdf",
+   "author": "Q97188149",
+   "license": "Public domain",
+   "credit": "The file is from National Database of Laws and Regulations maintained by General Office of the Standing Committee of the National People's Congress of People's ",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E6%BC%93%E6%B1%9F%E6%B5%81%E5%9F%9F%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Li_Phi_falls_at_dusk_with_colorful_sky_in_Don_Khon_Laos.jpg/1280px-Li_Phi_falls_at_dusk_with_colorful_sky_in_Don_Khon_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Li Phi falls at dusk with colorful sky in Don Khon Laos.jpg",
+   "author": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Li_Phi_falls_at_dusk_with_colorful_sky_in_Don_Khon_Laos.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_07.jpg/1280px-Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Li River, Yangshuo, Guangxi, October 1999 07.jpg",
+   "author": "Calistemon",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_07.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_09.jpg/1280px-Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Li River, Yangshuo, Guangxi, October 1999 09.jpg",
+   "author": "Calistemon",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Li_River%2C_Yangshuo%2C_Guangxi%2C_October_1999_09.jpg"
+  }
+ ],
+ "web": "http://www.liriver.com.cn/",
+ "booking": "http://www.liriver.com.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Guilin Liangjiang International Airport",
+    "iata": "KWL",
+    "city": "Guilin (Lingui)",
+    "country": "CN",
+    "lat": 25.219828,
+    "lon": 110.039553,
+    "type": "large_airport",
+    "distance_km": 40.8
+   },
+   {
+    "name": "Liuzhou Bailian Airport / Bailian Air Base",
+    "iata": "LZH",
+    "city": "Liuzhou (Liujiang)",
+    "country": "CN",
+    "lat": 24.2075,
+    "lon": 109.390999,
+    "type": "medium_airport",
+    "distance_km": 149.2
+   },
+   {
+    "name": "Yongzhou Lingling Airport",
+    "iata": "LLF",
+    "city": "Yongzhou",
+    "country": "CN",
+    "lat": 26.338661,
+    "lon": 111.610043,
+    "type": "medium_airport",
+    "distance_km": 176.5
+   }
+  ],
+  "nearest_airport_km": 40.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "桂林南",
+    "name_en": "GuilinNan",
+    "lat": 25.2300532,
+    "lon": 110.2777806,
+    "distance_km": 18.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "桂林",
+    "name_en": "Guilin",
+    "lat": 25.2643418,
+    "lon": 110.2772234,
+    "distance_km": 20.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "桂林北",
+    "name_en": "Guilinbei",
+    "lat": 25.33146,
+    "lon": 110.2981859,
+    "distance_km": 24.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "桂林会展中心酒店",
+   "name_en": "Guilin Exhibition International Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 25.2650072,
+   "lon": 110.3025481,
+   "distance_km": 18.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MinFeng International Hotel",
+   "name_en": "MinFeng International Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 25.2842106,
+   "lon": 110.3101214,
+   "distance_km": 19.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "四季春天酒店",
+   "name_en": "O.Live Social Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 25.2761067,
+   "lon": 110.2945208,
+   "distance_km": 19.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "桂林环球大酒店",
+   "name_en": "Hotel Universal Guilin",
+   "stars": 4,
+   "brand": null,
+   "lat": 25.2798038,
+   "lon": 110.2960461,
+   "distance_km": 20.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "桂林喜来登饭店",
+   "name_en": "Sheraton Guilin Hotel",
+   "stars": null,
+   "brand": "喜来登",
+   "lat": 25.2768787,
+   "lon": 110.2944821,
+   "distance_km": 20.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 91,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/漓江"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

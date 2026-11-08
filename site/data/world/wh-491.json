@@ -1,0 +1,162 @@
+{
+ "id": "wh-491",
+ "unesco_id": "491",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 394,
+ "popularity_score": 20949,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Prefecture of Argolis, Region of the Peloponnesos",
+ "subdivision_iso": "GR-11",
+ "subdivision_zh": "阿尔戈利斯专区",
+ "subdivision_en": "Argolida Regional Unit",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "埃皮达鲁斯考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sanctuary of Asklepios at Epidaurus",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "491-sanctuary_of_asklepios_at_epidaurus",
+ "lat": 37.5986,
+ "lon": 23.0744,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "埃皮达鲁斯遗址位于伯罗奔尼撒半岛的一个小山谷里，向上延伸好几层。公元前6世纪，阿斯克勒庇俄斯医药神的祭仪是首先从这里开始的，但其主要古迹，尤其是剧场，是到公元4世纪才出现的，被认为是希腊建筑最完美的杰作之一。这片广阔的遗址在希腊和罗马时代是祈祷康复之处，有献给上帝的神庙和医院。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In a small valley in the Peloponnesus, the shrine of Asklepios, the god of medicine, developed out of a much earlier cult of Apollo (Maleatas), during the 6th century BC at the latest, as the official cult of the city state of Epidaurus. Its principal monuments, particularly the temple of Asklepios, the Tholos and the Theatre - considered one of the purest masterpieces of Greek architecture – date from the 4th century. The vast site, with its temples and hospital buildings devoted to its healing gods, provides valuable insight into the healing cults of Greek and Roman times.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Archaeological%20site%20of%20Epidaurus%2C%20plan%20with%20description%2C%20202424.jpg?width=1280",
+   "title": "Archaeological site of Epidaurus, plan with description, 202424.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Archaeological%20site%20of%20Epidaurus%2C%20plan%20with%20description%2C%20202424.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_491.jpg",
+   "title": "Sanctuary of Asklepios at Epidaurus",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/491",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/491",
+ "transport": {
+  "airports": [
+   {
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "iata": "ATH",
+    "city": "Spata-Artemida",
+    "country": "GR",
+    "lat": 37.936401,
+    "lon": 23.9445,
+    "type": "large_airport",
+    "distance_km": 85.2
+   },
+   {
+    "name": "Kalamata Airport",
+    "iata": "KLX",
+    "city": "Kalamata",
+    "country": "GR",
+    "lat": 37.06829833984375,
+    "lon": 22.02549934387207,
+    "type": "medium_airport",
+    "distance_km": 109.9
+   },
+   {
+    "name": "Kithira Airport",
+    "iata": "KIT",
+    "city": "Kithira Island",
+    "country": "GR",
+    "lat": 36.273978,
+    "lon": 23.016719,
+    "type": "small_airport",
+    "distance_km": 147.4
+   }
+  ],
+  "nearest_airport_km": 85.2,
+  "distance_beijing_km": 7606.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 13
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/491"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sanctuary%20of%20Asclepius%2C%20Epidaurus"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

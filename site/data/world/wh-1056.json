@@ -1,0 +1,162 @@
+{
+ "id": "wh-1056",
+ "unesco_id": "1056",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 882,
+ "popularity_score": null,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Bihar, Eastern India",
+ "subdivision_iso": "IN-BR",
+ "subdivision_zh": "",
+ "subdivision_en": "Bihar",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "菩提伽耶的摩诃菩提寺",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mahabodhi Temple Complex at Bodh Gaya",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "1056-mahabodhi_temple_complex_at_bodh_gaya",
+ "lat": 24.696004,
+ "lon": 84.991358,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "2002",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "菩提伽耶的摩诃菩提寺是与佛祖生前生活紧密联系的四个圣地之一，尤其值得一提的是这里是佛祖得道的地方。寺庙最早是阿育王于公元前3世纪建造的，现存的寺庙历史可以追溯到公元5世纪到6世纪。菩提伽耶的摩诃菩提寺是笈多王朝后期以来印度现存的最早的全部为砖石结构的佛教寺庙之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Mahabodhi Temple Complex is one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment. The first temple was built by Emperor Asoka in the 3rd century B.C., and the present temple dates from the 5th or 6th centuries. It is one of the earliest Buddhist temples built entirely in brick, still standing in India, from the late Gupta period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahabodhitemple.jpg?width=1280",
+   "title": "Mahabodhitemple.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mahabodhitemple.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1056.jpg",
+   "title": "Mahabodhi Temple Complex at Bodh Gaya",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1056",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1056",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gaya Airport",
+    "iata": "GAY",
+    "city": "Gaya",
+    "country": "IN",
+    "lat": 24.744301,
+    "lon": 84.951202,
+    "type": "medium_airport",
+    "distance_km": 6.7
+   },
+   {
+    "name": "Jay Prakash Narayan Airport",
+    "iata": "PAT",
+    "city": "Patna",
+    "country": "IN",
+    "lat": 25.591299,
+    "lon": 85.087997,
+    "type": "medium_airport",
+    "distance_km": 100.0
+   },
+   {
+    "name": "Birsa Munda Airport",
+    "iata": "IXR",
+    "city": "Ranchi",
+    "country": "IN",
+    "lat": 23.314300537100003,
+    "lon": 85.3217010498,
+    "type": "medium_airport",
+    "distance_km": 157.3
+   }
+  ],
+  "nearest_airport_km": 6.7,
+  "distance_beijing_km": 3397.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 70
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1056"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mahabodhi%20Temple"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

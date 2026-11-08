@@ -1,0 +1,153 @@
+{
+ "id": "wh-1231",
+ "unesco_id": "1231",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 921,
+ "popularity_score": null,
+ "country": "KE",
+ "country_zh": "肯尼亚",
+ "country_en": "Kenya",
+ "countries": [
+  {
+   "iso2": "KE",
+   "zh": "肯尼亚",
+   "en": "Kenya"
+  }
+ ],
+ "region": "Coast Province",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "米吉肯达卡亚圣林",
+ "name_zh_source": "curated",
+ "name_en": "Sacred Mijikenda Kaya Forests",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1231-sacred_mijikenda_kaya_forests",
+ "lat": -3.9319444444444,
+ "lon": 39.596111111111,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)(vi)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "米吉肯达卡亚森林 (Mijikenda Kaya Forests) 由 10 个独立的森林点组成，分布在沿海约 200 公里的范围内，其中有许多米吉肯达人的防御村庄（称为卡亚）的遗迹。卡亚建于 16 世纪，但在 1940 年代被遗弃，现在被视为祖先的住所，被尊为圣地，因此由长老委员会维护。该遗址被铭记为文化传统的独特见证及其与现存传统的直接联系。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1231.jpg",
+   "title": "Sacred Mijikenda Kaya Forests",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1231",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1231",
+ "transport": {
+  "airports": [
+   {
+    "name": "Moi International Airport",
+    "iata": "MBA",
+    "city": "Mombasa",
+    "country": "KE",
+    "lat": -4.03483,
+    "lon": 39.5942,
+    "type": "large_airport",
+    "distance_km": 11.4
+   },
+   {
+    "name": "Malindi International Airport",
+    "iata": "MYD",
+    "city": "Malindi",
+    "country": "KE",
+    "lat": -3.22931,
+    "lon": 40.1017,
+    "type": "medium_airport",
+    "distance_km": 96.2
+   },
+   {
+    "name": "Tanga Airport",
+    "iata": "TGT",
+    "city": "Tanga",
+    "country": "TZ",
+    "lat": -5.09236,
+    "lon": 39.071201,
+    "type": "medium_airport",
+    "distance_km": 141.5
+   }
+  ],
+  "nearest_airport_km": 11.4,
+  "distance_beijing_km": 9199.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KE",
+  "country_zh": "肯尼亚",
+  "country_en": "Kenya",
+  "status": "unknown",
+  "days": 90,
+  "requirement": "Electronic Travel Authorisation[6][70]",
+  "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KE",
+   "country_zh": "肯尼亚",
+   "country_en": "Kenya",
+   "status": "unknown",
+   "days": 90,
+   "requirement": "Electronic Travel Authorisation[6][70]",
+   "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1231"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

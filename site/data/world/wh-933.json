@@ -1,0 +1,308 @@
+{
+ "id": "wh-933",
+ "unesco_id": "933",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 87,
+ "popularity_score": 166821,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-41",
+ "subdivision_zh": "卢瓦-谢尔省",
+ "subdivision_en": "Loir-et-Cher",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卢瓦尔河畔叙利与沙洛纳间的卢瓦尔河谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Loire Valley between Sully-sur-Loire and Chalonnes",
+ "name_local": "Val de Loire entre Sully-sur-Loire et Chalonnes",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "933-the_loire_valley_between_sully-sur-loire",
+ "lat": 47.616111111,
+ "lon": 1.517222222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卢瓦尔河谷拥有最美丽、最杰出的文化景观，沿岸分布着大量的历史名镇和村庄、雄伟的建筑古迹（城堡），以及几个世纪以来人类开垦的耕地，这是人类和自然环境（主要是卢瓦尔河）相互作用、和谐发展的结果。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Loire Valley is an outstanding cultural landscape of great beauty, containing historic towns and villages, great architectural monuments (the châteaux), and cultivated lands formed by many centuries of interaction between their population and the physical environment, primarily the river Loire itself.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le Val de Loire est un paysage culturel exceptionnel, comprenant des villes et villages historiques, de grands monuments architecturaux - les châteaux - et des terres cultivées, façonnées par des siècles d'interaction entre les populations et leur environnement physique, dont la Loire elle-même.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/France%20Loir-et-Cher%20Chambord%20Chateau%2003.jpg?width=1280",
+   "title": "France Loir-et-Cher Chambord Chateau 03.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:France%20Loir-et-Cher%20Chambord%20Chateau%2003.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/00_3101_Chambord_castle_-_Church_%C3%89glise_de_Saint_Louis_de_Chambord.jpg/1280px-00_3101_Chambord_castle_-_Church_%C3%89glise_de_Saint_Louis_de_Chambord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00 3101 Chambord castle - Church Église de Saint Louis de Chambord.jpg",
+   "author": "W. Bulach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00_3101_Chambord_castle_-_Church_%C3%89glise_de_Saint_Louis_de_Chambord.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/01_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg/1280px-01_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01 Château de Chambord 2022-09-17.jpg",
+   "author": "MowMow 98",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:01_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/02_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg/1280px-02_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "02 Château de Chambord 2022-09-17.jpg",
+   "author": "MowMow 98",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:02_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/05_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg/1280px-05_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "05 Château de Chambord 2022-09-17.jpg",
+   "author": "MowMow 98",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:05_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/933",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tours Val de Loire Airport",
+    "iata": "TUF",
+    "city": "Tours, Indre-et-Loire",
+    "country": "FR",
+    "lat": 47.432201,
+    "lon": 0.727606,
+    "type": "medium_airport",
+    "distance_km": 62.7
+   },
+   {
+    "name": "Paris-Orly Airport",
+    "iata": "ORY",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "country": "FR",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport",
+    "distance_km": 138.6
+   },
+   {
+    "name": "Poitiers-Biard Airport",
+    "iata": "PIS",
+    "city": "Poitiers/Biard",
+    "country": "FR",
+    "lat": 46.5877,
+    "lon": 0.306666,
+    "type": "medium_airport",
+    "distance_km": 146.5
+   }
+  ],
+  "nearest_airport_km": 62.7,
+  "distance_beijing_km": 8407.9,
+  "ferry_terminals": [
+   {
+    "name": "Quai du Châtelet",
+    "name_en": null,
+    "lat": 47.8975123,
+    "lon": 1.9100565,
+    "distance_km": 42.9,
+    "operator": "BatOLoire"
+   },
+   {
+    "name": "Cabinet Vert",
+    "name_en": null,
+    "lat": 47.9002038,
+    "lon": 1.93075,
+    "distance_km": 44.2,
+    "operator": null
+   },
+   {
+    "name": "Île Charlemagne - Base de Loisirs",
+    "name_en": null,
+    "lat": 47.9003285,
+    "lon": 1.9411484,
+    "distance_km": 44.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Mer",
+    "name_en": null,
+    "lat": 47.7059746,
+    "lon": 1.5062556,
+    "distance_km": 10.0,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Blois - Chambord",
+    "name_en": null,
+    "lat": 47.5854563,
+    "lon": 1.3234577,
+    "distance_km": 14.9,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Beaugency",
+    "name_en": null,
+    "lat": 47.7784476,
+    "lon": 1.6257772,
+    "distance_km": 19.8,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Baule",
+    "name_en": null,
+    "lat": 47.8118542,
+    "lon": 1.668303,
+    "distance_km": 24.5,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Meung-sur-Loire",
+    "name_en": null,
+    "lat": 47.829933,
+    "lon": 1.6919085,
+    "distance_km": 27.1,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Fleur de Loire",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.5824346,
+   "lon": 1.3377135,
+   "distance_km": 14.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Château Louise de La Vallière",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 47.4834406,
+   "lon": 0.8958331,
+   "distance_km": 48.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Prieuré de Boulogne",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.573155,
+   "lon": 1.5043475,
+   "distance_km": 4.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Relais des Trois Châteaux",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 47.5091114,
+   "lon": 1.4548268,
+   "distance_km": 12.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Blois Centre Val de Loire",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 47.5917235,
+   "lon": 1.3361625,
+   "distance_km": 13.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 55
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/933"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau%20de%20Chambord"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

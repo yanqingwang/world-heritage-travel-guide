@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.060553
 lon: 121.720833
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 上海野生动物园 / Shanghaiyeshengdongwuyuan

@@ -1,0 +1,162 @@
+{
+ "id": "wh-514",
+ "unesco_id": "514",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 348,
+ "popularity_score": 24730,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Mainland Orkney, Scotland Multiple locations",
+ "subdivision_iso": "GB-ORK",
+ "subdivision_zh": "奥克尼群岛",
+ "subdivision_en": "Orkney Islands",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奥克尼新石器时代遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Heart of Neolithic Orkney",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "514-heart_of_neolithic_orkney",
+ "lat": 58.9975,
+ "lon": -3.215,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "奥克尼新石器时代遗址包括一个庞大的墓穴（麦豪石室）和两个举行仪式的石圈（斯特尼斯石圈和布罗德加古石圈）、一个居住区（史卡拉弧状岩石）和许多未被挖掘出来的墓葬、仪式场所和定居点。它们形成了壮观的文化遗址，展现了五千年前苏格兰群岛北部一个偏僻岛屿上的生活状况。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The group of Neolithic monuments on Orkney consists of a large chambered tomb (Maes Howe), two ceremonial stone circles (the Stones of Stenness and the Ring of Brodgar) and a settlement (Skara Brae), together with a number of unexcavated burial, ceremonial and settlement sites. The group constitutes a major prehistoric cultural landscape which gives a graphic depiction of life in this remote archipelago in the far north of Scotland some 5,000 years ago.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orkney%20Skara%20Brae.jpg?width=1280",
+   "title": "Orkney Skara Brae.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Orkney%20Skara%20Brae.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_514.jpg",
+   "title": "Heart of Neolithic Orkney",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/514",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/514",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kirkwall Airport",
+    "iata": "KOI",
+    "city": "Kirkwall, Orkney Islands",
+    "country": "GB",
+    "lat": 58.957903,
+    "lon": -2.905077,
+    "type": "medium_airport",
+    "distance_km": 18.3
+   },
+   {
+    "name": "Eday Airport",
+    "iata": "EOI",
+    "city": "Eday",
+    "country": "GB",
+    "lat": 59.19060134887695,
+    "lon": -2.7722198963165283,
+    "type": "medium_airport",
+    "distance_km": 33.2
+   },
+   {
+    "name": "Stronsay Airport",
+    "iata": "SOY",
+    "city": "Stronsay",
+    "country": "GB",
+    "lat": 59.1553,
+    "lon": -2.64139,
+    "type": "small_airport",
+    "distance_km": 37.2
+   }
+  ],
+  "nearest_airport_km": 18.3,
+  "distance_beijing_km": 7678.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 33
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/514"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Heart%20of%20Neolithic%20Orkney"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1139",
+ "unesco_id": "1139",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 406,
+ "popularity_score": 20168,
+ "country": "ML",
+ "country_zh": "马里",
+ "country_en": "Mali",
+ "countries": [
+  {
+   "iso2": "ML",
+   "zh": "马里",
+   "en": "Mali"
+  }
+ ],
+ "region": "City, Circle and Region of Gao",
+ "subdivision_iso": "ML-7",
+ "subdivision_zh": "加奥区",
+ "subdivision_en": "Gao Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿斯基亚王陵",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tomb of Askia",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1139-tomb_of_askia",
+ "lat": 16.289722,
+ "lon": -0.044444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2004",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "阿斯吉亚王陵给人印象深刻的17米高的金字塔形建筑，由桑海帝国国王阿斯基亚·穆罕默德于1495年建于首都加奥。由这个王陵可以看出15世纪至16世纪这个帝国的强大、富裕和繁荣。当时，桑海帝国控制了横跨撒哈拉的贸易，特别是盐和黄金。它也是西非萨赫勒地区具有重要意义的泥土建筑传统的范例。阿斯基亚王陵包括了金字塔形坟墓、两个平顶清真寺建筑、清真寺公墓和露天的聚会场地。这些都是在阿斯基亚·穆罕默德从麦加回来定伊斯兰教为国教并将加奥作为首都后建造的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The dramatic 17-m pyramidal structure of the Tomb of Askia was built by Askia Mohamed, the Emperor of Songhai, in 1495 in his capital Gao. It bears testimony to the power and riches of the empire that flourished in the 15th and 16th centuries through its control of the trans-Saharan trade, notably in salt and gold. It is also a fine example of the monumental mud-building traditions of the West African Sahel. The complex, including the pyramidal tomb, two flat-roofed mosque buildings, the mosque cemetery and the open-air assembly ground, was built when Gao became the capital of the Songhai Empire and after Askia Mohamed had returned from Mecca and made Islam the official religion of the empire.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Askia.jpg?width=1280",
+   "title": "Askia.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Askia.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1139.jpg",
+   "title": "Tomb of Askia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1139",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1139",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gao International Airport",
+    "iata": "GAQ",
+    "city": "Gao",
+    "country": "ML",
+    "lat": 16.248466,
+    "lon": -0.005389,
+    "type": "medium_airport",
+    "distance_km": 6.2
+   },
+   {
+    "name": "Tombouktou Airport",
+    "iata": "TOM",
+    "city": "Timbuktu",
+    "country": "ML",
+    "lat": 16.730499,
+    "lon": -3.00758,
+    "type": "large_airport",
+    "distance_km": 319.7
+   },
+   {
+    "name": "Diori Hamani International Airport",
+    "iata": "NIM",
+    "city": "Niamey",
+    "country": "NE",
+    "lat": 13.4815,
+    "lon": 2.18361,
+    "type": "large_airport",
+    "distance_km": 393.5
+   }
+  ],
+  "nearest_airport_km": 6.2,
+  "distance_beijing_km": 10958.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ML",
+  "country_zh": "马里",
+  "country_en": "Mali",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ML",
+   "country_zh": "马里",
+   "country_en": "Mali",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 55
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1139"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tomb%20of%20Askia"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-89",
+ "unesco_id": "89",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 270,
+ "popularity_score": 35915,
+ "country": "EG",
+ "country_zh": "埃及",
+ "country_en": "Egypt",
+ "countries": [
+  {
+   "iso2": "EG",
+   "zh": "埃及",
+   "en": "Egypt"
+  }
+ ],
+ "region": "Governorate of al-Qahirah (Cairo)",
+ "subdivision_iso": "EG-C",
+ "subdivision_zh": "开罗省",
+ "subdivision_en": "Cairo Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "开罗古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Cairo",
+ "name_local": "القاهرة التاريخية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "89-historic_cairo",
+ "lat": 30.046,
+ "lon": 31.2627,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(v)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "开罗是世界上最古老的伊斯兰城市之一，隐没在现代城区中，有着著名的清真寺、伊斯兰学校、土耳其浴室以及喷泉。开罗建于公元10世纪，后成为伊斯兰世界的新中心，于14世纪达到鼎盛时期。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Tucked away amid the modern urban area of Cairo lies one of the world's oldest Islamic cities, with its famous mosques, madrasas, hammams and fountains. Founded in the 10th century, it became the new centre of the Islamic world, reaching its golden age in the 14th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "محاطة بالعمران الحديث للقاهرة الحديثة، القاهرة القديمة هي إحدى أقدم مدن العالم الإسلاميّة بجوامعها ومدارسها وحماماتها وينابيعها. تأسست القاهرة الإسلاميّة في القرن العاشر واستحالت مركز العالم الإسلامي الجديد وبلغت عصرها الذهبي في القرن الرابع عشر.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85%D8%A9.jpg?width=1280",
+   "title": "مصر العظيمة.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85%D8%A9.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_89.jpg",
+   "title": "Historic Cairo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/89",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/89",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cairo International Airport",
+    "iata": "CAI",
+    "city": "Cairo",
+    "country": "EG",
+    "lat": 30.111534,
+    "lon": 31.396694,
+    "type": "large_airport",
+    "distance_km": 14.8
+   },
+   {
+    "name": "Sphinx International Airport",
+    "iata": "SPX",
+    "city": "Al Jiza",
+    "country": "EG",
+    "lat": 30.108179,
+    "lon": 30.895728,
+    "type": "large_airport",
+    "distance_km": 36.0
+   },
+   {
+    "name": "Capital International Airport",
+    "iata": "CCE",
+    "city": "New Cairo",
+    "country": "EG",
+    "lat": 30.06465,
+    "lon": 31.839974,
+    "type": "medium_airport",
+    "distance_km": 55.6
+   }
+  ],
+  "nearest_airport_km": 14.8,
+  "distance_beijing_km": 7534.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EG",
+  "country_zh": "埃及",
+  "country_en": "Egypt",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][47]",
+  "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EG",
+   "country_zh": "埃及",
+   "country_en": "Egypt",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][47]",
+   "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/89"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islamic%20Cairo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

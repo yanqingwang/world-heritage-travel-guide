@@ -1,0 +1,154 @@
+{
+ "id": "wh-1602",
+ "unesco_id": "1602",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 778,
+ "popularity_score": 3721,
+ "country": "BF",
+ "country_zh": "布基纳法索",
+ "country_en": "Burkina Faso",
+ "countries": [
+  {
+   "iso2": "BF",
+   "zh": "布基纳法索",
+   "en": "Burkina Faso"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "布基纳法索古冶铁遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient Ferrous Metallurgy Sites of Burkina Faso",
+ "name_local": "",
+ "local_lang": "mos",
+ "local_lang_name": "Mossi",
+ "slug": "1602-ancient_ferrous_metallurgy_sites_of_burk",
+ "lat": 12.5878,
+ "lon": -3.329,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址由5个遗产点组成，分布于布基纳法索的不同省份，包含15个立式炉灶、若干熔炉基座、矿坑及居住遗迹。Douroula是布基纳法索最早（公元前8世纪）进行冶铁活动的场所。Tiwga、Yamane、Kindibo和Bekuy则见证了公元1000年后当地日益密集的冶铁活动。尽管如今已不再使用这些古老的冶铁技术，当地村镇的铁匠仍在提供生产工具、举办仪式活动中发挥着重要作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This property is composed of five elements located in different provinces of the country. It includes about fifteen standing, natural-draught furnaces, several other furnace structures, mines and traces of dwellings. Douroula, which dates back to the 8th century BCE, is the oldest evidence of the development of iron production found in Burkina Faso. The other components of the property – Tiwêga, Yamané, Kindibo and Békuy – illustrate the intensification of iron production during the second millennium CE. Even though iron ore reduction –obtaining iron from ore – is no longer practiced today, village blacksmiths still play a major role in supplying tools, while taking part in various rituals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1602.jpg",
+   "title": "Ancient Ferrous Metallurgy Sites of Burkina Faso",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1602",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1602",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bobo Dioulasso Airport",
+    "iata": "BOY",
+    "city": "Bobo Dioulasso",
+    "country": "BF",
+    "lat": 11.1601,
+    "lon": -4.33097,
+    "type": "large_airport",
+    "distance_km": 192.6
+   },
+   {
+    "name": "Ouagadougou Thomas Sankara International Airport",
+    "iata": "OUA",
+    "city": "Ouagadougou",
+    "country": "BF",
+    "lat": 12.3532,
+    "lon": -1.51242,
+    "type": "large_airport",
+    "distance_km": 198.9
+   },
+   {
+    "name": "Mopti Airport",
+    "iata": "MZI",
+    "city": "Sévaré",
+    "country": "ML",
+    "lat": 14.5128,
+    "lon": -4.07956,
+    "type": "medium_airport",
+    "distance_km": 228.9
+   }
+  ],
+  "nearest_airport_km": 192.6,
+  "distance_beijing_km": 11690.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BF",
+  "country_zh": "布基纳法索",
+  "country_en": "Burkina Faso",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][33]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BF",
+   "country_zh": "布基纳法索",
+   "country_en": "Burkina Faso",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][33]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "mos",
+  "local_lang_name": "Mossi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1602"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient%20Ferrous%20Metallurgy%20Sites%20of%20Burkina%20Faso"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

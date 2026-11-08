@@ -1,0 +1,162 @@
+{
+ "id": "wh-826",
+ "unesco_id": "826",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1173,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of La Spezia, Liguria Region",
+ "subdivision_iso": "IT-SP",
+ "subdivision_zh": "拉斯佩齐亚省",
+ "subdivision_en": "Province of La Spezia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "韦内雷港、五村镇以及沿海群岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "826-portovenere,_cinque_terre,_and_the_islan",
+ "lat": 44.10694444,
+ "lon": 9.72916667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于五村镇与韦内雷港之间的利古里亚滨海地区是有着重要风景和文化价值的文化风景区。小城镇群的分布格局以及其周围的风景结构，不仅表明了对陡峭、破碎不堪的地势的征服，而且生动记述了过去1000年以来人类在此长期定居的历史。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Ligurian coast between Cinque Terre and Portovenere is a cultural landscape of great scenic and cultural value. The layout and disposition of the small towns and the shaping of the surrounding landscape, overcoming the disadvantages of a steep, uneven terrain, encapsulate the continuous history of human settlement in this region over the past millennium.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portovenere%2C%20Cinque%20Terre%2C%20and%20the%20Islands%20%28Palmaria%2C%20Tino%20and%20Tinetto%29.jpg?width=1280",
+   "title": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Portovenere%2C%20Cinque%20Terre%2C%20and%20the%20Islands%20%28Palmaria%2C%20Tino%20and%20Tinetto%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_826.jpg",
+   "title": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/826",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/826",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pisa International Airport",
+    "iata": "PSA",
+    "city": "Pisa (PI)",
+    "country": "IT",
+    "lat": 43.683899,
+    "lon": 10.3927,
+    "type": "large_airport",
+    "distance_km": 71.0
+   },
+   {
+    "name": "Genoa Cristoforo Colombo Airport",
+    "iata": "GOA",
+    "city": "Genova (GE)",
+    "country": "IT",
+    "lat": 44.412039,
+    "lon": 8.840732,
+    "type": "large_airport",
+    "distance_km": 78.5
+   },
+   {
+    "name": "Parma Airport",
+    "iata": "PMF",
+    "city": "Parma (PR)",
+    "country": "IT",
+    "lat": 44.826351,
+    "lon": 10.29705,
+    "type": "medium_airport",
+    "distance_km": 91.8
+   }
+  ],
+  "nearest_airport_km": 71.0,
+  "distance_beijing_km": 8130.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/826"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

@@ -1,0 +1,224 @@
+{
+ "id": "cn-1457",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "景德镇市",
+ "city_en": "Jingdezhen",
+ "name_zh": "景德镇市昌江区古窑民俗博览区",
+ "name_en": "Jingdezhen",
+ "name_en_source": "wikipedia",
+ "slug": "jingdezhenshichangjiangquguyaominsubolanqu-1457",
+ "lat": 29.289262,
+ "lon": 117.191564,
+ "address_zh": "江西省景德镇市昌江区瓷都大道古窑路1号",
+ "address_en": "No. 1, Guyao Road, Cidu Avenue, Changjiang District, Jingdezhen City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "景德镇古窑民俗博览区占地83公顷，是集文化博览、陶瓷体验、娱乐休闲为一体的文化旅游景区，是一家以陶瓷文化为主题的国家级旅游景区。主要景点有历代古窑展示区、陶瓷民俗展示区、水岸前街创意休憩区三大景区。",
+ "intro_en": "Jingdezhen is a prefecture-level city in eastern Jiangxi province with a total population of 1,669,057 (2018), bordering Anhui to the north. It is known as the \"Porcelain Capital\" because it has been producing Chinese ceramics for at least 1,000 years, and for much of that period Jingdezhen porcelain was the most important and finest quality in China. The city has a well-documented history that stretches back over 2,000 years.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Changjiang_River_Seen_from_Zhushan_Bridge%2C_Jingdezhen.jpg/1280px-Changjiang_River_Seen_from_Zhushan_Bridge%2C_Jingdezhen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Changjiang River Seen from Zhushan Bridge, Jingdezhen.jpg",
+   "author": "EditQ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changjiang_River_Seen_from_Zhushan_Bridge%2C_Jingdezhen.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/CN_Jingdezhen_0806_%282%29_%2817187725276%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "CN Jingdezhen 0806 (2) (17187725276).jpg",
+   "author": "Diego Tirira from Quito, Ecuador",
+   "license": "CC BY-SA 2.0",
+   "credit": "CN Jingdezhen 0806 (2)",
+   "source": "https://commons.wikimedia.org/wiki/File:CN_Jingdezhen_0806_%282%29_%2817187725276%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jingdezhen_%28Chinese_characters%29.svg/1280px-Jingdezhen_%28Chinese_characters%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jingdezhen (Chinese characters).svg",
+   "author": "White whirlwind",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingdezhen_%28Chinese_characters%29.svg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jingdezhen_name.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Jingdezhen name.JPG",
+   "author": "EEIM",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingdezhen_name.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jingdezhen_name2.svg/1280px-Jingdezhen_name2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jingdezhen name2.svg",
+   "author": "JesseW900",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jingdezhen_name2.svg"
+  }
+ ],
+ "web": "http://www.chinaguyao.com/index.html",
+ "booking": "http://www.chinaguyao.com/index.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jingdezhen Luojia Airport",
+    "iata": "JDZ",
+    "city": "Jingdezhen",
+    "country": "CN",
+    "lat": 29.3386,
+    "lon": 117.176003,
+    "type": "medium_airport",
+    "distance_km": 5.7
+   },
+   {
+    "name": "Huangshan Tunxi International Airport",
+    "iata": "TXN",
+    "city": "Huangshan",
+    "country": "CN",
+    "lat": 29.733299,
+    "lon": 118.255997,
+    "type": "large_airport",
+    "distance_km": 114.2
+   },
+   {
+    "name": "Shangrao Sanqingshan Airport",
+    "iata": "SQD",
+    "city": "Shangrao (Hengfeng)",
+    "country": "CN",
+    "lat": 28.3797,
+    "lon": 117.9643,
+    "type": "medium_airport",
+    "distance_km": 126.1
+   }
+  ],
+  "nearest_airport_km": 5.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "景德镇",
+    "name_en": null,
+    "lat": 29.2881277,
+    "lon": 117.2166109,
+    "distance_km": 2.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "景德镇南",
+    "name_en": "Jingdezhennan",
+    "lat": 29.2552673,
+    "lon": 117.1734688,
+    "distance_km": 4.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "景德镇东（废弃）",
+    "name_en": null,
+    "lat": 29.3041018,
+    "lon": 117.2348097,
+    "distance_km": 4.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "半岛国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.287738,
+   "lon": 117.2152933,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "景德镇陶溪川凯悦酒店",
+   "name_en": "Hyatt Place Jingdezhen Taoxichuan",
+   "stars": null,
+   "brand": "Hyatt",
+   "lat": 29.3003077,
+   "lon": 117.2332302,
+   "distance_km": 4.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西西里民宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2979277,
+   "lon": 117.1903142,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jinghan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2913052,
+   "lon": 117.209505,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "文苑商务大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2897275,
+   "lon": 117.216014,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 7,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/景德镇市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

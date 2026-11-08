@@ -1,0 +1,173 @@
+{
+ "id": "wh-1313",
+ "unesco_id": "1313",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 635,
+ "popularity_score": 7961,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  },
+  {
+   "iso2": "SI",
+   "zh": "斯洛文尼亚",
+   "en": "Slovenia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ES-CR",
+ "subdivision_zh": "雷阿尔城省",
+ "subdivision_en": "Province of Ciudad Real",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "水银的遗产：阿尔马登和伊德里亚",
+ "name_zh_source": "wikidata",
+ "name_en": "Heritage of Mercury. Almadén and Idrija",
+ "name_local": "Patrimonio del mercurio (Almadén e Idria)",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1313-heritage_of_mercury._almadén_and_idrija",
+ "lat": 46.003888888,
+ "lon": 14.026666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2012",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "水银的遗产：阿尔马登和伊德里亚（英語：Heritage of Mercury. Almadén and Idrija）是西班牙和斯洛文尼亚两国共有的世界文化遗产，由位于西班牙的阿尔马登和斯洛文尼亚的伊德里亚的水银矿冶遗址和附属建筑组成。由于这两个地区代表了世界上最大的两个水银矿，见证了开启欧美两洲间数百年交流的水银国际贸易，因此被列入世界文化遗产。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "The property includes the mining sites of Almadén (Spain), where mercury (quicksilver) has been extracted since antiquity, and Idrija (Slovenia), where mercury was first found in AD1490. The Spanish property includes buildings relating to its mining history, including Retamar Castle, religious buildings and traditional dwellings. The site in Idrija notably features mercury stores and infrastructure, as well as miners’ living quarters, and a miners’ theatre. The sites bear testimony to the intercontinental trade in mercury which generated important exchanges between Europe and America over the centuries. Together they represent the two largest mercury mines in the world, operational until recent times.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "El sitio comprende las minas de Almadén, en España, donde se ha extraído mercurio (azogue) desde la antigüedad y las de Idria, en Eslovenia, donde se halló mercurio por primera vez en el año 1490. El sitio español incluye varios lugares relacionados con su historia minera, como el castillo de Retamar, edificios religiosos y pozos tradicionales. En Idria hay almacenes e infraestructura relacionada con el mercurio, así como viviendas de mineros y un teatro. Ambos sitios dan testimonio del comercio intercontinental del mercurio, que generó importantes intercambios entre Europa y América durante siglos. Las de Almadén e Idria son las minas de mercurio más grandes del mundo y estuvieron operativas hasta hace pocos años.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C5%A0el%C5%A1tev%2C%20Idrija.jpg?width=1280",
+   "title": "Šelštev, Idrija.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:%C5%A0el%C5%A1tev%2C%20Idrija.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1313.jpg",
+   "title": "Heritage of Mercury. Almadén and Idrija",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1313",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1313",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ljubljana Jože Pučnik Airport",
+    "iata": "LJU",
+    "city": "Zgornji Brnik",
+    "country": "SI",
+    "lat": 46.223701,
+    "lon": 14.4576,
+    "type": "large_airport",
+    "distance_km": 41.2
+   },
+   {
+    "name": "Trieste Airport",
+    "iata": "TRS",
+    "city": "Ronchi dei Legionari/Trieste",
+    "country": "IT",
+    "lat": 45.827862,
+    "lon": 13.466672,
+    "type": "large_airport",
+    "distance_km": 47.5
+   },
+   {
+    "name": "Klagenfurt Airport",
+    "iata": "KLU",
+    "city": "Klagenfurt am Wörthersee",
+    "country": "AT",
+    "lat": 46.642502,
+    "lon": 14.3377,
+    "type": "large_airport",
+    "distance_km": 74.9
+   }
+  ],
+  "nearest_airport_km": 41.2,
+  "distance_beijing_km": 7704.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "SI",
+   "country_zh": "斯洛文尼亚",
+   "country_en": "Slovenia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 25
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1313"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Heritage%20of%20Mercury.%20Almad%C3%A9n%20and%20Idrija"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

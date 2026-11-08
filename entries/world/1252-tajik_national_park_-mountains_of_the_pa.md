@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(vii)(viii)"
 lat: 38.741231
 lon: 72.119751
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:43Z"
 ---
 
 # 塔吉克国家公园（帕米尔山脉） / Tajik National Park (Mountains of the Pamirs)

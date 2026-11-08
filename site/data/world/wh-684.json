@@ -1,0 +1,162 @@
+{
+ "id": "wh-684",
+ "unesco_id": "684",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 607,
+ "popularity_score": 9293,
+ "country": "UG",
+ "country_zh": "乌干达",
+ "country_en": "Uganda",
+ "countries": [
+  {
+   "iso2": "UG",
+   "zh": "乌干达",
+   "en": "Uganda"
+  }
+ ],
+ "region": "District of Kabarole, Kasese and Bundibugyo",
+ "subdivision_iso": "UG-401",
+ "subdivision_zh": "本迪布焦区",
+ "subdivision_en": "Bundibugyo District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "鲁文佐里山国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rwenzori Mountains National Park",
+ "name_local": "Hifadhi ya Taifa ya Milima ya Rwenzori",
+ "local_lang": "sw",
+ "local_lang_name": "Swahili",
+ "slug": "684-rwenzori_mountains_national_park",
+ "lat": 0.4,
+ "lon": 29.95,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "鲁文佐里山国家公园位于乌干达西部，面积10万公顷，由鲁文索瑞山脉的主干构成，包括非洲的第三高峰（玛格丽塔峰，高5109米）。该地区的冰川、瀑布和湖泊使它成为非洲最美丽的山区之一。这一公园是许多濒危物种的自然栖息地，园中生长着许多珍稀植物，包括巨型石南花。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Rwenzori Mountains National Park covers nearly 100,000 ha in western Uganda and comprises the main part of the Rwenzori mountain chain, which includes Africa's third highest peak (Mount Margherita: 5,109 m). The region's glaciers, waterfalls and lakes make it one of Africa's most beautiful alpine areas. The park has many natural habitats of endangered species and a rich and unusual flora comprising, among other species, the giant heather.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Hifadhi ya Taifa ya Milima ya Rwenzori ni mbuga ya taifa ya nchini Uganda na moja ya hifadhi ya Urithi wa Dunia wa UNESCO inayopatikana katika Milima ya Rwenzori . Ina takribani eneo la kilomita za mraba 1,000 kwa ukubwa, mbuga hii ina kilele cha tatu kwa urefu barani Afrika na maporomoko mengi ya maji, maziwa na barafu. Hifadhi hiyo inajulikana kwa mimea yake mizuri.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruwenpflanzen.jpg?width=1280",
+   "title": "Ruwenpflanzen.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruwenpflanzen.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_684.jpg",
+   "title": "Rwenzori Mountains National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/684",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/684",
+ "transport": {
+  "airports": [
+   {
+    "name": "Savannah Airstrip",
+    "iata": "KHX",
+    "city": "Kihihi",
+    "country": "UG",
+    "lat": -0.7165,
+    "lon": 29.6997,
+    "type": "medium_airport",
+    "distance_km": 127.2
+   },
+   {
+    "name": "Bunia Airport",
+    "iata": "BUX",
+    "city": "Bunia",
+    "country": "CD",
+    "lat": 1.565743,
+    "lon": 30.220685,
+    "type": "medium_airport",
+    "distance_km": 133.1
+   },
+   {
+    "name": "Kisoro Airport",
+    "iata": "KXO",
+    "city": "Kisoro",
+    "country": "UG",
+    "lat": -1.2837,
+    "lon": 29.7197,
+    "type": "small_airport",
+    "distance_km": 189.0
+   }
+  ],
+  "nearest_airport_km": 127.2,
+  "distance_beijing_km": 9794.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UG",
+  "country_zh": "乌干达",
+  "country_en": "Uganda",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "eVisa[6][152]",
+  "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.[153]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UG",
+   "country_zh": "乌干达",
+   "country_en": "Uganda",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "eVisa[6][152]",
+   "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.[153]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sw",
+  "local_lang_name": "Swahili",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/684"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rwenzori%20Mountains%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

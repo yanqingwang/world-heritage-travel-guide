@@ -1,0 +1,122 @@
+{
+ "id": "cn-26447",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "宁夏回族自治区",
+ "province_en": "Ningxia",
+ "province_iso": "CN-NX",
+ "city_zh": "吴忠市",
+ "city_en": "Wuzhong City",
+ "name_zh": "吴忠市青铜峡黄河大峡谷旅游区",
+ "name_en": "Wuzhongshiqingtongxiahuanghedaxiagu Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "wuzhongshiqingtongxiahuanghedaxiagu-26447",
+ "lat": 37.895592,
+ "lon": 106.006717,
+ "address_zh": "宁夏吴忠市青铜峡市青铜峡镇",
+ "address_en": "Qingtongxia Town, Qingtongxia City, Wuzhong City, Ningxia",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "青铜峡黄河大峡谷旅游区位于宁夏回族自治区青铜峡市，景区面积126平方公里，世界灌溉工程遗产核心区，全国重点文物保护单位、全国科普教育基地。地处贺兰山下，黄河岸边，是宁夏黄河金岸旅游带的核心区，旅游区资源富集，历史文化源远流长，自然景观更是秀美奇绝。",
+ "intro_en": "Qingtongxia Yellow River Grand Canyon Tourist Area is located in Qingtongxia City, Ningxia Hui Autonomous Region. The scenic area covers an area of ​​126 square kilometers. It is a core area of ​​world irrigation engineering heritage, a national key cultural relics protection unit, and a national popular science education base. Located at the foot of Helan Mountain and on the bank of the Yellow River, it is the core area of ​​Ningxia's Yellow River Golden Bank tourist belt. The tourist area is rich in resources, has a long history and culture, and the natural landscape is even more beautiful.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yinchuan Hedong International Airport",
+    "iata": "INC",
+    "city": "Yinchuan",
+    "country": "CN",
+    "lat": 38.322758,
+    "lon": 106.393214,
+    "type": "large_airport",
+    "distance_km": 58.3
+   },
+   {
+    "name": "Zhongwei Shapotou Airport",
+    "iata": "ZHY",
+    "city": "Zhongwei (Shapotou)",
+    "country": "CN",
+    "lat": 37.573125,
+    "lon": 105.154454,
+    "type": "medium_airport",
+    "distance_km": 83.1
+   },
+   {
+    "name": "Alxa Left Banner Bayanhot Airport",
+    "iata": "AXF",
+    "city": "Bayanhot",
+    "country": "CN",
+    "lat": 38.748317,
+    "lon": 105.58416,
+    "type": "medium_airport",
+    "distance_km": 101.7
+   }
+  ],
+  "nearest_airport_km": 58.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "青铜峡",
+    "name_en": "Qingtongxia",
+    "lat": 37.9182168,
+    "lon": 105.9278704,
+    "distance_km": 7.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "小坝",
+    "name_en": null,
+    "lat": 37.9547707,
+    "lon": 105.9324986,
+    "distance_km": 9.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "青分",
+    "name_en": null,
+    "lat": 37.8726642,
+    "lon": 105.8875716,
+    "distance_km": 10.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-967",
+ "unesco_id": "967",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 737,
+ "popularity_score": 4742,
+ "country": "BO",
+ "country_zh": "玻利维亚",
+ "country_en": "Bolivia",
+ "countries": [
+  {
+   "iso2": "BO",
+   "zh": "玻利维亚",
+   "en": "Bolivia"
+  }
+ ],
+ "region": "Velasco Province, Santa Cruz Department",
+ "subdivision_iso": "BO-S",
+ "subdivision_zh": "圣克鲁斯省",
+ "subdivision_en": "Santa Cruz Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "挪尔•肯普夫墨卡多国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Noel Kempff Mercado National Park",
+ "name_local": "Parque Nacional Noel Kempff Mercado",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "967-noel_kempff_mercado_national_park",
+ "lat": -14.23028,
+ "lon": -60.84667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座国家公园（占地1 523 000公顷）是亚马逊盆地最大和保护最为完好的公园之一，海拔高度从200米到近1000米。该公园有着各种各样的生物栖息地，包括赛拉多(Cerrado)大草原、森林和亚马逊高地常青林。肯普夫国家公园展示了距今10多亿年前到寒武纪之间的自然进化历程，据估计，公园内生存有约4000种植物、600多种鸟类和许多世界上濒危的脊椎动物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The National Park is one of the largest (1,523,000 ha) and most intact parks in the Amazon Basin. With an altitudinal range of 200 m to nearly 1,000 m, it is the site of a rich mosaic of habitat types from Cerrado savannah and forest to upland evergreen Amazonian forests. The park boasts an evolutionary history dating back over a billion years to the Precambrian period. An estimated 4,000 species of flora as well as over 600 bird species and viable populations of many globally endangered or threatened vertebrate species live in the park.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "El Parque Nacional Noel Kempff Mercado es uno de los más grandes (1.523.000 hectáreas) y mejor conservados de la cuenca del Amazonas. Con altitudes que oscilan entre los 200 y 1.000 metros, posee un rico mosaico de hábitats que van desde el bosque montañoso amazónico de hoja perenne hasta la sabana y el cerrado. El parque ilustra la historia de la evolución a lo largo de 1.000 millones de años, desde el Periodo Precámbrico. Además, alberga poblaciones viables de vertebrados de gran tamaño en peligro de extinción en todo el mundo, una flora de 4.000 especies y más de 600 variedades de pájaros.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cataratas%20Arcoiris%20Bolivia.png?width=1280",
+   "title": "Cataratas Arcoiris Bolivia.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Cataratas%20Arcoiris%20Bolivia.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_967.jpg",
+   "title": "Noel Kempff Mercado National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/967",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/967",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brigadeiro Camarão Airport",
+    "iata": "BVH",
+    "city": "Vilhena",
+    "country": "BR",
+    "lat": -12.6944,
+    "lon": -60.098301,
+    "type": "medium_airport",
+    "distance_km": 189.0
+   },
+   {
+    "name": "Cacoal Airport",
+    "iata": "OAL",
+    "city": "Cacoal",
+    "country": "BR",
+    "lat": -11.496,
+    "lon": -61.4508,
+    "type": "small_airport",
+    "distance_km": 311.0
+   },
+   {
+    "name": "Tangará da Serra Airport",
+    "iata": "TGQ",
+    "city": "Tangará da Serra",
+    "country": "BR",
+    "lat": -14.662,
+    "lon": -57.443744,
+    "type": "small_airport",
+    "distance_km": 369.6
+   }
+  ],
+  "nearest_airport_km": 189.0,
+  "distance_beijing_km": 16952.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BO",
+  "country_zh": "玻利维亚",
+  "country_en": "Bolivia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.[26][27][28] Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BO",
+   "country_zh": "玻利维亚",
+   "country_en": "Bolivia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.[26][27][28] Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/967"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Noel%20Kempff%20Mercado%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

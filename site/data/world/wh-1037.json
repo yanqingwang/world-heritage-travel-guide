@@ -1,0 +1,162 @@
+{
+ "id": "wh-1037",
+ "unesco_id": "1037",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 662,
+ "popularity_score": 6955,
+ "country": "CH",
+ "country_zh": "瑞士",
+ "country_en": "Switzerland",
+ "countries": [
+  {
+   "iso2": "CH",
+   "zh": "瑞士",
+   "en": "Switzerland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "CH-BE",
+ "subdivision_zh": "伯恩州",
+ "subdivision_en": "Canton of Berne",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "少女峰–阿雷奇冰河–毕奇霍恩峰",
+ "name_zh_source": "unesco_official",
+ "name_en": "Swiss Alps Jungfrau-Aletsch",
+ "name_local": "Schweizer Alpen Jungfrau-Aletsch",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "1037-swiss_alps_jungfrau-aletsch",
+ "lat": 46.5,
+ "lon": 8.033333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "自然世界遗产少女峰–阿雷奇冰河–毕奇霍恩峰（最早于2001年被列入）从东部扩展到西部，面积从53 900公顷扩展到82 400公顷。该遗址为阿尔卑斯高山——包括山脉最受冰河作用的部分和欧亚大陆山脉最大的冰川——的形成提供了一个杰出的实例。它以生态系统多样性为特点，包括特别受气候变化冰川融化而形成的演替阶段。该遗址因景色秀美、而且包含山脉和冰川形成以及正在发生的气候变化方面的丰富知识而具有突出的全球价值。在它尤其通过植物演替所阐释的生态和生物过程方面，该遗址的价值无法衡量。其令人难忘的景观在欧洲艺术、文化、登山和阿尔卑斯山旅游中起着重要作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The extension of the natural World Heritage property of Jungfrau - Aletsch - Bietschhorn (first inscribed in 2001), expands the site to the east and west, bringing its surface area up to 82,400 ha., up from 53,900. The site provides an outstanding example of the formation of the High Alps, including the most glaciated part of the mountain range and the largest glacier in Eurasia. It features a wide diversity of ecosystems, including successional stages due particularly to the retreat of glaciers resulting from climate change. The site is of outstanding universal value both for its beauty and for the wealth of information it contains about the formation of mountains and glaciers, as well as ongoing climate change. It is also invaluable in terms of the ecological and biological processes it illustrates, notably through plan succession. Its impressive landscape has played an important role in European art, literature, mountaineering and alpine tourism.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Schweizer Alpen Jungfrau-Aletsch ist ein 824 km² grosses UNESCO-Weltnaturerbe in den Berner Alpen in der Schweiz. Das Gebiet liegt in den Kantonen Bern und Wallis.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20Finsteraarhorn%20%28view%20from%20the%20east%29.jpg?width=1280",
+   "title": "Aerial image of Finsteraarhorn (view from the east).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial%20image%20of%20Finsteraarhorn%20%28view%20from%20the%20east%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1037.jpg",
+   "title": "Swiss Alps Jungfrau-Aletsch",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1037",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1037",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bern Airport",
+    "iata": "BRN",
+    "city": "Bern",
+    "country": "CH",
+    "lat": 46.912736,
+    "lon": 7.498819,
+    "type": "medium_airport",
+    "distance_km": 61.4
+   },
+   {
+    "name": "Lugano Airport",
+    "iata": "LUG",
+    "city": "Agno",
+    "country": "CH",
+    "lat": 46.004299,
+    "lon": 8.91058,
+    "type": "medium_airport",
+    "distance_km": 87.1
+   },
+   {
+    "name": "Milan Malpensa International Airport",
+    "iata": "MXP",
+    "city": "Ferno (VA)",
+    "country": "IT",
+    "lat": 45.6306,
+    "lon": 8.72811,
+    "type": "large_airport",
+    "distance_km": 110.5
+   }
+  ],
+  "nearest_airport_km": 61.4,
+  "distance_beijing_km": 8071.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CH",
+  "country_zh": "瑞士",
+  "country_en": "Switzerland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CH",
+   "country_zh": "瑞士",
+   "country_en": "Switzerland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 26
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1037"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jungfrau-Aletsch%20protected%20area"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

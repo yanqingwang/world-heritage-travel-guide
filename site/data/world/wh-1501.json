@@ -1,0 +1,161 @@
+{
+ "id": "wh-1501",
+ "unesco_id": "1501",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 519,
+ "popularity_score": 12774,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ES-MA",
+ "subdivision_zh": "馬拉加省",
+ "subdivision_en": "Málaga Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "安特克拉石墓遗址",
+ "name_zh_source": "wikidata",
+ "name_en": "Antequera Dolmens Site",
+ "name_local": "Dólmenes de Antequera",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1501-antequera_dolmens_site",
+ "lat": 37.023333333,
+ "lon": -4.548055555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "2016",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "安特克拉石墓遗址（西班牙語：Sitio de los Dólmenes de Antequera）位于西班牙安达卢西亚安特克拉，2016年被联合国教科文组织列为世界文化遗产。遗址包含三个巨石文化墓葬遗迹：门加大石墓（Dolmen de Menga）、别拉大石墓（Dolmen de Viera）、埃尔罗梅拉尔圆顶墓（Tholos de El Romeral），三者均为石隧墓。还有两个自然遗迹：埃纳莫拉多斯山和托尔卡尔山。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Located at the heart of Andalusia in southern Spain, the site comprises three megalithic monuments: the Menga and Viera dolmens and the Tholos of El Romeral, and two natural monuments: La Peña de los Enamorados and El Torcal mountainous formations, which are landmarks within the property. Built during the Neolithic and Bronze Age out of large stone blocks, these monuments form chambers with lintelled roofs or false cupolas. These three tombs, buried beneath their original earth tumuli, are one of the most remarkable architectural works of European prehistory and one of the most important examples of European Megalithism.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado al sur de España, en la Andalucía meridional, este sitio comprende tres monumentos megalíticos –el “tholos” del Romeral y los dólmenes de Menga y Viera– así como dos parajes naturales próximos que ofrecen panorámicas de gran belleza –la Peña de los Enamorados y el Torcal. Construidos con grandes bloques de piedra en el Periodo Neolítico y la Edad de Bronce, los tres monumentos funerarios se hallan enterrados en sus túmulos primigenios y forman cámaras y espacios con cobertura adintelada o en falsa cúpula, que hacen de ellos uno de los conjuntos arquitectónicos más notables de la prehistoria en Europa y un ejemplo simpar del arte megalítico europeo.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Viera%20and%20Menga%20Dolmens%2C%20Antequera%2C%20Spain%3B%20July%202008.JPG?width=1280",
+   "title": "Viera and Menga Dolmens, Antequera, Spain; July 2008.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Viera%20and%20Menga%20Dolmens%2C%20Antequera%2C%20Spain%3B%20July%202008.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1501.jpg",
+   "title": "Antequera Dolmens Site",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1501",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1501",
+ "transport": {
+  "airports": [
+   {
+    "name": "Málaga-Costa del Sol Airport",
+    "iata": "AGP",
+    "city": "Málaga",
+    "country": "ES",
+    "lat": 36.678234,
+    "lon": -4.500208,
+    "type": "large_airport",
+    "distance_km": 38.6
+   },
+   {
+    "name": "F.G.L. Airport Granada-Jaén Airport",
+    "iata": "GRX",
+    "city": "Granada",
+    "country": "ES",
+    "lat": 37.188702,
+    "lon": -3.77736,
+    "type": "medium_airport",
+    "distance_km": 70.8
+   },
+   {
+    "name": "Córdoba Airport",
+    "iata": "ODB",
+    "city": "Córdoba",
+    "country": "ES",
+    "lat": 37.841999,
+    "lon": -4.84888,
+    "type": "medium_airport",
+    "distance_km": 94.8
+   }
+  ],
+  "nearest_airport_km": 38.6,
+  "distance_beijing_km": 9575.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 21
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1501"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Antequera%20Dolmens%20Site"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

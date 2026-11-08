@@ -1,0 +1,162 @@
+{
+ "id": "wh-361",
+ "unesco_id": "361",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1076,
+ "popularity_score": null,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "Province: Alentejo, District: Evora",
+ "subdivision_iso": "PT-07",
+ "subdivision_zh": "埃武拉区",
+ "subdivision_en": "Évora",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "埃武拉历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Évora",
+ "name_local": "Centro Histórico de Évora",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "361-historic_centre_of_évora",
+ "lat": 38.57305556,
+ "lon": -7.90777778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "埃武拉这座“博物馆之城”的历史可以追溯到罗马时期，公元15世纪，葡萄牙的国王们选择在这里居住，使得埃武拉城发展到了它的鼎盛时代。埃武拉城与众不同的风格在于城中那些装饰有上光花砖的白色房屋和16世纪至18世纪建造的锻铁阳台。城中的古迹对于巴西的葡萄牙建筑有着深远的影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This museum-city, whose roots go back to Roman times, reached its golden age in the 15th century, when it became the residence of the Portuguese kings. Its unique quality stems from the whitewashed houses decorated with azulejos and wrought-iron balconies dating from the 16th to the 18th century. Its monuments had a profound influence on Portuguese architecture in Brazil.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "O Centro Histórico de Évora é um espaço urbano intra-muros, classificado como Património Mundial da UNESCO desde 1986, localizado na cidade de Évora. A cidade-museu de Évora tem raízes que remontam ao tempo do Império Romano. A cidade ainda conserva, em grande parte no seu núcleo central, vestígios de diversas civilizações e culturas: Celtas, Romanos, Árabes, Judeus e Cristãos influenciaram a cultura eborense. Atingiu a sua época dourada no século XV, quando se tornou residência dos reis de Portugal. A qualidade arquitectónica e artística do casario branco ou decorado com azulejos e varandas de ferro forjado, datadas dos séculos XVI a XVIII, é única. Os monumentos da cidade tiveram também profunda influência na arquitectura portuguesa no Brasil. O Centro Histórico de Évora, formado por ruas estreitas e travessas, pátios e largos, tem uma área de 107 hectares e é claramente demarcado pelas muralhas medievais, com extensão de mais de 3 km. No lado sul da antiga Cerca encontra-se a Praça do Giraldo, da qual divergem as vias principais em estrutura radial.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9%20%C3%89vora.JPG?width=1280",
+   "title": "Sé Évora.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:S%C3%A9%20%C3%89vora.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_361.jpg",
+   "title": "Historic Centre of Évora",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/361",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/361",
+ "transport": {
+  "airports": [
+   {
+    "name": "Badajoz Airport",
+    "iata": "BJZ",
+    "city": "Badajoz",
+    "country": "ES",
+    "lat": 38.8913,
+    "lon": -6.82133,
+    "type": "medium_airport",
+    "distance_km": 100.7
+   },
+   {
+    "name": "Lisbon Humberto Delgado Airport",
+    "iata": "LIS",
+    "city": "Lisbon",
+    "country": "PT",
+    "lat": 38.7813,
+    "lon": -9.13592,
+    "type": "large_airport",
+    "distance_km": 109.1
+   },
+   {
+    "name": "Cascais Airport",
+    "iata": "CAT",
+    "city": "Cascais",
+    "country": "PT",
+    "lat": 38.724998,
+    "lon": -9.35523,
+    "type": "medium_airport",
+    "distance_km": 126.8
+   }
+  ],
+  "nearest_airport_km": 100.7,
+  "distance_beijing_km": 9520.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/361"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-837",
+ "unesco_id": "837",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 866,
+ "popularity_score": 444,
+ "country": "MA",
+ "country_zh": "摩洛哥",
+ "country_en": "Morocco",
+ "countries": [
+  {
+   "iso2": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco"
+  }
+ ],
+ "region": "Region Nord-Ouest, Wilaya de Tétouan, Province of Tétouan, Medina of Tétouan",
+ "subdivision_iso": "MA-TET",
+ "subdivision_zh": "得土安省",
+ "subdivision_en": "Tétouan Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "缔头万城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Medina of Tétouan (formerly known as Titawin)",
+ "name_local": "مدينة تطوان (قديمًا تيطاوين)",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "837-medina_of_tétouan_(formerly_known_as_tit",
+ "lat": 35.5710625,
+ "lon": -5.3664659,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在公元8世纪开始的伊斯兰时期，缔头万城是一座具有特别意义的城市，因为它是连接摩洛哥和安大路西亚的主要通道。在经过西班牙的再次征服之后，这个城市由遭到西班牙人流放的安大路西亚难民重建，该城的建筑和艺术风格都非常有特点，深受安大路西亚的影响。缔头万城虽然是摩洛哥最小的阿拉伯人聚居区之一，但无疑也是最完整而且没有受到后期外部影响的城市。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Tétouan was of particular importance in the Islamic period, from the 8th century onwards, since it served as the main point of contact between Morocco and Andalusia. After the Reconquest, the town was rebuilt by Andalusian refugees who had been expelled by the Spanish. This is well illustrated by its art and architecture, which reveal clear Andalusian influence. Although one of the smallest of the Moroccan medinas, Tétouan is unquestionably the most complete and it has been largely untouched by subsequent outside influences.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "أُعطيت تطوان أهميةً خاصةً في خلال الحقبة الاسلاميّة ابتداءً من القرن الثامن بصفتها صلة وصل مهمة بين المغرب والاندلس. ثم بعد استعادتها مجددًا، أعاد اللاجئون العائدون إلى المنطقة بناءها بعد ان طردهم الاسبان، ممّا كان جليًّا في الهندسة المعماريّة والفن اللّذَيْن يشهدان على التأثيرات الاندلسية الواضحة. تُعتبر تطوان من أصغر المدن المغربية، ولكن، من دون شك، هي الأكثر كمالاً حيث معظم الابنية بقيت بعيدةً عن التأثيرات الخارجية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tetuan%20vista%20desde%20un%20tejado.JPG?width=1280",
+   "title": "Tetuan vista desde un tejado.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tetuan%20vista%20desde%20un%20tejado.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_837.jpg",
+   "title": "Medina of Tétouan (formerly known as Titawin)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/837",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/837",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sania Ramel Airport",
+    "iata": "TTU",
+    "city": "Tétouan",
+    "country": "MA",
+    "lat": 35.594299,
+    "lon": -5.32002,
+    "type": "large_airport",
+    "distance_km": 4.9
+   },
+   {
+    "name": "Tangier Ibn Battuta Airport",
+    "iata": "TNG",
+    "city": "Tangier",
+    "country": "MA",
+    "lat": 35.731741,
+    "lon": -5.921459,
+    "type": "large_airport",
+    "distance_km": 53.2
+   },
+   {
+    "name": "Gibraltar Airport",
+    "iata": "GIB",
+    "city": "Gibraltar",
+    "country": "GI",
+    "lat": 36.151679,
+    "lon": -5.34978,
+    "type": "large_airport",
+    "distance_km": 64.6
+   }
+  ],
+  "nearest_airport_km": 4.9,
+  "distance_beijing_km": 9714.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MA",
+  "country_zh": "摩洛哥",
+  "country_en": "Morocco",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MA",
+   "country_zh": "摩洛哥",
+   "country_en": "Morocco",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 14
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/837"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medina%20of%20T%C3%A9touan"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

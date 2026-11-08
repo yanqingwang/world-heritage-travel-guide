@@ -1,0 +1,162 @@
+{
+ "id": "wh-658",
+ "unesco_id": "658",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 804,
+ "popularity_score": 2659,
+ "country": "VE",
+ "country_zh": "委内瑞拉",
+ "country_en": "Venezuela",
+ "countries": [
+  {
+   "iso2": "VE",
+   "zh": "委内瑞拉",
+   "en": "Venezuela"
+  }
+ ],
+ "region": "State of Falcon",
+ "subdivision_iso": "VE-I",
+ "subdivision_zh": "法尔孔州",
+ "subdivision_en": "Falcón",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "科罗及其港口",
+ "name_zh_source": "unesco_official",
+ "name_en": "Coro and its Port",
+ "name_local": "Coro y su puerto",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "658-coro_and_its_port",
+ "lat": 11.4,
+ "lon": -69.6833,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1993",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "科罗的建筑与加勒比地区的风格迥然不同，是当地西班牙和荷兰风格相交融唯一现存的例证。科罗是最早的殖民地之一，建于1527年，城内有602座历史建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "With its earthen constructions unique to the Caribbean, Coro is the only surviving example of a rich fusion of local traditions with Spanish Mudéjar and Dutch architectural techniques. One of the first colonial towns (founded in 1527), it has some 602 historic buildings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Con sus construcciones en tierra únicas en toda la región del Caribe, la ciudad de Coro es el único ejemplo subsistente de una fusión lograda de las técnicas y estilos arquitectónicos autóctonos, mudéjares españoles y holandeses. Fundada en 1577, fue una de las primeras ciudades coloniales de América y posee unos 600 edificios históricos.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Collectie%20Nationaal%20Museum%20van%20Wereldculturen%20TM-1869-1a%20Ingang%20van%20het%20Schottegat%20te%20Curacao%20ten%20tijde%20van%20het%20Engelse%20tussenbestuur%20Curacao%20John%20%26%20Josiah%20Boydell%20%26%20co.%20%28Uitgever%29.jpg?width=1280",
+   "title": "Collectie Nationaal Museum van Wereldculturen TM-1869-1a Ingang van het Schottegat te Curacao ten tijde van het Engelse tussenbestuur Curacao John & Josiah Boydell & co. (Uitgever).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Collectie%20Nationaal%20Museum%20van%20Wereldculturen%20TM-1869-1a%20Ingang%20van%20het%20Schottegat%20te%20Curacao%20ten%20tijde%20van%20het%20Engelse%20tussenbestuur%20Curacao%20John%20%26%20Josiah%20Boydell%20%26%20co.%20%28Uitgever%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_658.jpg",
+   "title": "Coro and its Port",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/658",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/658",
+ "transport": {
+  "airports": [
+   {
+    "name": "José Leonardo Chirinos Airport",
+    "iata": "CZE",
+    "city": "Coro",
+    "country": "VE",
+    "lat": 11.414944,
+    "lon": -69.680901,
+    "type": "medium_airport",
+    "distance_km": 1.7
+   },
+   {
+    "name": "Josefa Camejo International Airport",
+    "iata": "LSP",
+    "city": "Paraguaná",
+    "country": "VE",
+    "lat": 11.780775,
+    "lon": -70.151497,
+    "type": "medium_airport",
+    "distance_km": 66.3
+   },
+   {
+    "name": "Hato International Airport",
+    "iata": "CUR",
+    "city": "Willemstad",
+    "country": "CW",
+    "lat": 12.1889,
+    "lon": -68.959801,
+    "type": "large_airport",
+    "distance_km": 117.9
+   }
+  ],
+  "nearest_airport_km": 1.7,
+  "distance_beijing_km": 14252.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "VE",
+  "country_zh": "委内瑞拉",
+  "country_en": "Venezuela",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][158]",
+  "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.[159][160] Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "VE",
+   "country_zh": "委内瑞拉",
+   "country_en": "Venezuela",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][158]",
+   "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.[159][160] Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 10
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/658"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coro%20and%20its%20Port"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

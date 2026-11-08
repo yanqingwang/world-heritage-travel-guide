@@ -1,0 +1,154 @@
+{
+ "id": "wh-353",
+ "unesco_id": "353",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1073,
+ "popularity_score": null,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "New Mexico",
+ "subdivision_iso": "US-NM",
+ "subdivision_zh": "",
+ "subdivision_en": "New Mexico",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "查科文化国家历史公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Chaco Culture",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "353-chaco_culture",
+ "lat": 36.063777777778,
+ "lon": -107.97083333333,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在长达两千多年的时间里，印第安人统治着现在美国西南部的大片土地。查科大峡谷曾是公元850年至1250年间古代原住民文化的中心，也是史前四角地区重要的宗教中心、贸易中心和政治中心。查科地区还以其独特的建筑而世界闻名，它不仅有许多古代公共建筑和宗教仪式建筑，而且还有一处古代城市仪式中心，这个建筑的风格可谓前无古人，后无来者。除了查科文化国家历史公园以外，世纪遗产还包括了其他几处由国家土地管理局管辖的阿兹特克遗迹国家古迹和较小的查科遗迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "For over 2,000 years, Pueblo peoples occupied a vast region of the south-western United States. Chaco Canyon, a major centre of ancestral Pueblo culture between 850 and 1250, was a focus for ceremonials, trade and political activity for the prehistoric Four Corners area. Chaco is remarkable for its monumental public and ceremonial buildings and its distinctive architecture – it has an ancient urban ceremonial centre that is unlike anything constructed before or since. In addition to the Chaco Culture National Historical Park, the World Heritage property includes the Aztec Ruins National Monument and several smaller Chaco sites managed by the Bureau of Land Management.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_353.jpg",
+   "title": "Chaco Culture",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/353",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/353",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gallup Municipal Airport",
+    "iata": "GUP",
+    "city": "Gallup",
+    "country": "US",
+    "lat": 35.511653,
+    "lon": -108.788166,
+    "type": "medium_airport",
+    "distance_km": 95.9
+   },
+   {
+    "name": "Durango La Plata County Airport",
+    "iata": "DRO",
+    "city": "Durango",
+    "country": "US",
+    "lat": 37.151501,
+    "lon": -107.753998,
+    "type": "medium_airport",
+    "distance_km": 122.5
+   },
+   {
+    "name": "Cortez Municipal Airport",
+    "iata": "CEZ",
+    "city": "Cortez",
+    "country": "US",
+    "lat": 37.303001,
+    "lon": -108.627998,
+    "type": "medium_airport",
+    "distance_km": 149.7
+   }
+  ],
+  "nearest_airport_km": 95.9,
+  "distance_beijing_km": 10412.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/353"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

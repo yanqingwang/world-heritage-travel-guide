@@ -1,0 +1,162 @@
+{
+ "id": "wh-249",
+ "unesco_id": "249",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 247,
+ "popularity_score": 40276,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "Tamil Nadu State, Chingleput District",
+ "subdivision_iso": "IN-TN",
+ "subdivision_zh": "",
+ "subdivision_en": "Tamil Nadu",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "默哈伯利布勒姆古迹群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Group of Monuments at Mahabalipuram",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "249-group_of_monuments_at_mahabalipuram",
+ "lat": 12.616666666,
+ "lon": 80.191666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(vi)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "默哈伯利布勒姆古迹群是7世纪至8世纪期间，帕那瓦国王们沿着科罗曼德尔海岸开辟岩石而建的。其中特别著名的有：拉特（战车形式的庙宇）、曼荼罗（岩洞寺庙）、名为“恒河的起源”的巨大露天浮雕以及里瓦治寺院（寺内有数以千计的关于湿婆神的雕像）。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This group of sanctuaries, founded by the Pallava kings, was carved out of rock along the Coromandel coast in the 7th and 8th centuries. It is known especially for its rathas (temples in the form of chariots), mandapas (cave sanctuaries), giant open-air reliefs such as the famous 'Descent of the Ganges', and the temple of Rivage, with thousands of sculptures to the glory of Shiva.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/4%20scenes%20at%20Mahabalipuram%20monuments%202.jpg?width=1280",
+   "title": "4 scenes at Mahabalipuram monuments 2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:4%20scenes%20at%20Mahabalipuram%20monuments%202.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_249.jpg",
+   "title": "Group of Monuments at Mahabalipuram",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/249",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/249",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chennai International Airport",
+    "iata": "MAA",
+    "city": "Chennai",
+    "country": "IN",
+    "lat": 12.990005,
+    "lon": 80.169296,
+    "type": "large_airport",
+    "distance_km": 41.6
+   },
+   {
+    "name": "Pondicherry Airport",
+    "iata": "PNY",
+    "city": "Puducherry (Pondicherry)",
+    "country": "IN",
+    "lat": 11.968,
+    "lon": 79.812,
+    "type": "medium_airport",
+    "distance_km": 83.1
+   },
+   {
+    "name": "Tirupati International Airport",
+    "iata": "TIR",
+    "city": "Tirupati",
+    "country": "IN",
+    "lat": 13.631988,
+    "lon": 79.539869,
+    "type": "large_airport",
+    "distance_km": 133.1
+   }
+  ],
+  "nearest_airport_km": 41.6,
+  "distance_beijing_km": 4655.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 27
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/249"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Group%20of%20Monuments%20at%20Mahabalipuram"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

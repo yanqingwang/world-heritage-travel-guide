@@ -1,0 +1,154 @@
+{
+ "id": "wh-263",
+ "unesco_id": "263",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1055,
+ "popularity_score": null,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "City of Lisbon",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "哲罗姆派修道院和里斯本贝莱姆塔",
+ "name_zh_source": "unesco_official",
+ "name_en": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "263-monastery_of_the_hieronymites_and_tower_",
+ "lat": 38.69194,
+ "lon": -9.21583,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "哲罗姆派修道院位于在里斯本海港入口处，始建于1502年，它是葡萄牙艺术颠峰时期的最好例证。它旁边的贝莱姆塔，则是为纪念航海家瓦斯科·达·加玛的航行而建立的，它向人们讲述着那段奠定了现代世界基础的大航海时代。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Standing at the entrance to Lisbon harbour, the Monastery of the Hieronymites – construction of which began in 1502 – exemplifies Portuguese art at its best. The nearby Tower of Belém, built to commemorate Vasco da Gama's expedition, is a reminder of the great maritime discoveries that laid the foundations of the modern world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_263.jpg",
+   "title": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/263",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/263",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lisbon Humberto Delgado Airport",
+    "iata": "LIS",
+    "city": "Lisbon",
+    "country": "PT",
+    "lat": 38.7813,
+    "lon": -9.13592,
+    "type": "large_airport",
+    "distance_km": 12.1
+   },
+   {
+    "name": "Cascais Airport",
+    "iata": "CAT",
+    "city": "Cascais",
+    "country": "PT",
+    "lat": 38.724998,
+    "lon": -9.35523,
+    "type": "medium_airport",
+    "distance_km": 12.6
+   },
+   {
+    "name": "Portimão Airport",
+    "iata": "PRM",
+    "city": "Portimão",
+    "country": "PT",
+    "lat": 37.1493,
+    "lon": -8.58396,
+    "type": "medium_airport",
+    "distance_km": 180.3
+   }
+  ],
+  "nearest_airport_km": 12.1,
+  "distance_beijing_km": 9656.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/263"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

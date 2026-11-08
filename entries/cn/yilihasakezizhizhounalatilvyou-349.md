@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Ili Kazakh Autonomous Prefecture"
 lat: 43.325552
 lon: 84.032821
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 伊犁哈萨克自治州那拉提旅游风景区 / Ili Kazakh Autonomous Prefecture

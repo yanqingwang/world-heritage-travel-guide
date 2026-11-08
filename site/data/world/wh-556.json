@@ -1,0 +1,162 @@
+{
+ "id": "wh-556",
+ "unesco_id": "556",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 757,
+ "popularity_score": 4212,
+ "country": "SE",
+ "country_zh": "瑞典",
+ "country_en": "Sweden",
+ "countries": [
+  {
+   "iso2": "SE",
+   "zh": "瑞典",
+   "en": "Sweden"
+  }
+ ],
+ "region": "Västmanland",
+ "subdivision_iso": "SE-U",
+ "subdivision_zh": "西曼兰省",
+ "subdivision_en": "Västmanland County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "恩格尔斯堡铁矿工场",
+ "name_zh_source": "unesco_official",
+ "name_en": "Engelsberg Ironworks",
+ "name_local": "Engelsbergs bruk",
+ "local_lang": "sv",
+ "local_lang_name": "Swedish",
+ "slug": "556-engelsberg_ironworks",
+ "lat": 59.969166666,
+ "lon": 16.010277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "17世纪和18世纪时期，瑞典生产的铁是一流产品，在全世界同行业中处于领先位置。恩格尔斯堡铁矿工场是瑞典铁矿工场保存最好最完整的范例。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Sweden's production of superior grades of iron made it a leader in this field in the 17th and 18th centuries. This site is the best-preserved and most complete example of this type of Swedish ironworks.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Engelsbergs bruk är ett före detta järnbruk som ligger vid sjön Åmänningen strax utanför tätorten Ängelsberg i Fagersta kommun i Västmanlands län. Engelsbergs bruk anses vara ett välbevarat industriminne och har därigenom utnämnts till världsarv år 1993. Den historiska anläggningen är den del av Ekomuseum Bergslagen.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Engelsberg-Huettenwerk-01.jpg?width=1280",
+   "title": "Engelsberg-Huettenwerk-01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Engelsberg-Huettenwerk-01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_556.jpg",
+   "title": "Engelsberg Ironworks",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/556",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/556",
+ "transport": {
+  "airports": [
+   {
+    "name": "Stockholm Västerås Airport",
+    "iata": "VST",
+    "city": "Stockholm / Västerås",
+    "country": "SE",
+    "lat": 59.589401,
+    "lon": 16.6336,
+    "type": "large_airport",
+    "distance_km": 54.8
+   },
+   {
+    "name": "Dala Airport",
+    "iata": "BLE",
+    "city": "Borlange",
+    "country": "SE",
+    "lat": 60.422001,
+    "lon": 15.5152,
+    "type": "medium_airport",
+    "distance_km": 57.3
+   },
+   {
+    "name": "Örebro Airport",
+    "iata": "ORB",
+    "city": "Örebro",
+    "country": "SE",
+    "lat": 59.22370147705078,
+    "lon": 15.038000106811523,
+    "type": "medium_airport",
+    "distance_km": 99.3
+   }
+  ],
+  "nearest_airport_km": 54.8,
+  "distance_beijing_km": 6757.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SE",
+  "country_zh": "瑞典",
+  "country_en": "Sweden",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SE",
+   "country_zh": "瑞典",
+   "country_en": "Sweden",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sv",
+  "local_lang_name": "Swedish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/556"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Engelsberg%20Ironworks"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-1627",
+ "unesco_id": "1627",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 997,
+ "popularity_score": null,
+ "country": "TJ",
+ "country_zh": "塔吉克斯坦",
+ "country_en": "Tajikistan",
+ "countries": [
+  {
+   "iso2": "TJ",
+   "zh": "塔吉克斯坦",
+   "en": "Tajikistan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "古骨咄的文化遗产地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cultural Heritage Sites of Ancient Khuttal",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1627-cultural_heritage_sites_of_ancient_khutt",
+ "lat": 37.777741666,
+ "lon": 69.556730555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "中世纪王国骨咄（Khuttal）位于喷赤河与瓦赫什河之间的帕米尔山麓。该遗产由10处遗址和1处建筑组成，见证了王国在7-16世纪丝路贸易中的重要作用。其不仅输出食盐、金银、良驹等珍贵商品，更成为文化、宗教、技术交流中心。现存的佛寺、宫殿、民居聚落、手工业中心及商旅客栈等多类考古遗迹，生动展现了这一地区的重要战略地位及与周边帝国的密切往来。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Ancient Khuttal was a medieval kingdom located between the Panj and Vakhsh Rivers and the Pamir piedmonts. The property includes ten sites and one monument reflecting its role from the 7th to 16th centuries in Silk Roads trade. Khuttal contributed valuable goods like salt, gold, silver, and horses, and served as a hub for cultural, religious, and technological exchanges. Its diverse archaeological remains—Buddhist temples, palaces, settlements, manufacturing centres, and caravanserais—illustrate its strategic importance and vibrant interactions with neighbouring empires.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1627.jpg",
+   "title": "Cultural Heritage Sites of Ancient Khuttal",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1627",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1627",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kulob International Airport",
+    "iata": "TJU",
+    "city": "Kulob",
+    "country": "TJ",
+    "lat": 37.988098,
+    "lon": 69.805,
+    "type": "large_airport",
+    "distance_km": 32.0
+   },
+   {
+    "name": "Bokhtar International Airport",
+    "iata": "KQT",
+    "city": "Bokhtar",
+    "country": "TJ",
+    "lat": 37.866315,
+    "lon": 68.864475,
+    "type": "large_airport",
+    "distance_km": 61.6
+   },
+   {
+    "name": "Dushanbe International Airport",
+    "iata": "DYU",
+    "city": "Dushanbe",
+    "country": "TJ",
+    "lat": 38.543746,
+    "lon": 68.822977,
+    "type": "large_airport",
+    "distance_km": 106.6
+   }
+  ],
+  "nearest_airport_km": 32.0,
+  "distance_beijing_km": 4000.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TJ",
+  "country_zh": "塔吉克斯坦",
+  "country_en": "Tajikistan",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required (conditional) / eVisa[6][144]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18] Holders of passports which are 55 years old and more do not require a visa for 14 days.[145]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TJ",
+   "country_zh": "塔吉克斯坦",
+   "country_en": "Tajikistan",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required (conditional) / eVisa[6][144]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18] Holders of passports which are 55 years old and more do not require a visa for 14 days.[145]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1627"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

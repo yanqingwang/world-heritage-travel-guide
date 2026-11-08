@@ -1,0 +1,139 @@
+{
+ "id": "cn-1184",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "重庆市",
+ "province_en": "Chongqing",
+ "province_iso": "CN-CQ",
+ "city_zh": "黔江区",
+ "city_en": "Qianjiang District",
+ "name_zh": "濯水景区",
+ "name_en": "Zhuoshui Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "zhuoshui-1184",
+ "lat": 29.299416,
+ "lon": 108.778624,
+ "address_zh": "重庆市黔江区濯水镇",
+ "address_en": "Zhuoshui Town, Qianjiang District, Chongqing City",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "濯水景区地处乌江第一大支流——阿蓬江畔，为阿蓬江国家湿地公园的重要组成部分。景区内江河交汇，濯水古镇风华悠远，风雨廊桥跨江河、连两岸、通三地，蒲花暗河蜿蜒曲折，婀娜多姿，水上三桥犹如鬼斧神工。",
+ "intro_en": "Zhuoshui Scenic Area is located on the banks of the Apeng River, the largest tributary of the Wujiang River, and is an important part of the Apeng River National Wetland Park. The rivers in the scenic area meet, and the Zhuoshui Ancient Town has a long history. The Wind and Rain Corridor Bridge spans the river, connects two banks, and connects three places. The Puhua Underwater River is winding and graceful, and the three bridges on the water are like miraculous craftsmanship.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.qjzsjq.com/",
+ "booking": "http://www.qjzsjq.com/html/content/20/10/1574.shtml",
+ "transport": {
+  "airports": [
+   {
+    "name": "Qianjiang Wulingshan Airport",
+    "iata": "JIQ",
+    "city": "Qianjiang",
+    "country": "CN",
+    "lat": 29.5133333333,
+    "lon": 108.831111111,
+    "type": "medium_airport",
+    "distance_km": 24.3
+   },
+   {
+    "name": "Chongqing Xiannüshan Airport",
+    "iata": "CQW",
+    "city": "Wulong",
+    "country": "CN",
+    "lat": 29.465658,
+    "lon": 107.693664,
+    "type": "medium_airport",
+    "distance_km": 106.7
+   },
+   {
+    "name": "Xiangxi Biancheng Airport",
+    "iata": "DXJ",
+    "city": "Xiangxi",
+    "country": "CN",
+    "lat": 28.4972,
+    "lon": 109.5218,
+    "type": "small_airport",
+    "distance_km": 114.9
+   }
+  ],
+  "nearest_airport_km": 24.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "冯家坝",
+    "name_en": null,
+    "lat": 29.363013,
+    "lon": 108.7784082,
+    "distance_km": 7.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "鱼泉",
+    "name_en": "Yuquan",
+    "lat": 29.1952038,
+    "lon": 108.8484397,
+    "distance_km": 13.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "黔江",
+    "name_en": "Qianjiang",
+    "lat": 29.4441707,
+    "lon": 108.7899045,
+    "distance_km": 16.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Rose Plaza",
+   "name_en": "Rose Plaza",
+   "stars": 5,
+   "brand": null,
+   "lat": 29.5315305,
+   "lon": 108.758423,
+   "distance_km": 25.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/濯水镇 (重庆市)"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

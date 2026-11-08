@@ -1,0 +1,162 @@
+{
+ "id": "wh-381",
+ "unesco_id": "381",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1080,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Salamanca, Autonomous Community of Castile-Leon",
+ "subdivision_iso": "ES-SA",
+ "subdivision_zh": "萨拉曼卡省",
+ "subdivision_en": "Province of Salamanca",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨拉曼卡古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old City of Salamanca",
+ "name_local": "Ciudad vieja de Salamanca",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "381-old_city_of_salamanca",
+ "lat": 40.96525,
+ "lon": -5.6645,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "古代大学城萨拉曼卡位于马德里西北部，最早于公元前3世纪被迦太基人征服。该城后来成为罗马人的聚居地，这种状况一直维持到公元11世纪被摩尔人占领。这里的大学是欧洲最古老的大学之一，萨拉曼卡的黄金时代也促成了大学的辉煌。这座古城的历史中心有许多具有重要的罗马风格、哥特风格、摩尔风格、文艺复兴时期风格和巴洛克风格的建筑物。市长大厦以其别具风格的走廊和拱廊给人留下十分深刻的印象。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This ancient university town north-west of Madrid was first conquered by the Carthaginians in the 3rd century B.C. It then became a Roman settlement before being ruled by the Moors until the 11th century. The university, one of the oldest in Europe, reached its high point during Salamanca's golden age. The city's historic centre has important Romanesque, Gothic, Moorish, Renaissance and Baroque monuments. The Plaza Mayor, with its galleries and arcades, is particularly impressive.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situada al noroeste de Madrid, Salamanca fue conquistada por los cartagineses en el siglo III a.C. y luego fue ciudad romana. Posteriormente, estuvo bajo el poder de los musulmanes hasta el siglo XI. El apogeo de su universidad, una de las más antiguas Europa, coincidió con la edad de oro de la ciudad. El centro histórico posee importantes monumentos románicos, góticos, renacentistas y barrocos, entre los que destaca la imponente Plaza Mayor con sus galerías y arcadas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Salamanca%20-%20Fachada%20de%20la%20Universidad%20Pontif%C3%ADcia.%20La%20clerec%C3%ADa.jpg?width=1280",
+   "title": "Salamanca - Fachada de la Universidad Pontifícia. La clerecía.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Salamanca%20-%20Fachada%20de%20la%20Universidad%20Pontif%C3%ADcia.%20La%20clerec%C3%ADa.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_381.jpg",
+   "title": "Old City of Salamanca",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/381",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/381",
+ "transport": {
+  "airports": [
+   {
+    "name": "Salamanca Airport",
+    "iata": "SLM",
+    "city": "Salamanca",
+    "country": "ES",
+    "lat": 40.952099,
+    "lon": -5.50199,
+    "type": "medium_airport",
+    "distance_km": 13.7
+   },
+   {
+    "name": "Valladolid Airport",
+    "iata": "VLL",
+    "city": "Valladolid",
+    "country": "ES",
+    "lat": 41.7061,
+    "lon": -4.85194,
+    "type": "medium_airport",
+    "distance_km": 106.7
+   },
+   {
+    "name": "Bragança Airport",
+    "iata": "BGC",
+    "city": "Bragança",
+    "country": "PT",
+    "lat": 41.8578,
+    "lon": -6.70713,
+    "type": "medium_airport",
+    "distance_km": 131.9
+   }
+  ],
+  "nearest_airport_km": 13.7,
+  "distance_beijing_km": 9273.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/381"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

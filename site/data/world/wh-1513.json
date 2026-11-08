@@ -1,0 +1,161 @@
+{
+ "id": "wh-1513",
+ "unesco_id": "1513",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 286,
+ "popularity_score": 32340,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IN-SK",
+ "subdivision_zh": "锡金邦",
+ "subdivision_en": "Sikkim",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "干城章嘉国家公园",
+ "name_zh_source": "curated",
+ "name_en": "Khangchendzonga National Park",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "1513-khangchendzonga_national_park",
+ "lat": 27.6563,
+ "lon": 88.3123,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(iii)(vi)(vii)(x)",
+ "year": "2016",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "干城章嘉國家公園（英語：Khangchendzonga National Park）位於印度錫金邦北錫金縣的國家公園，又稱作干城章嘉生物圈保護區（英語：Khangchendzonga Biosphere Reserve）。該景點在2016年7月17日時被聯合國教科文組織世界遺產委員會列入世界遺產名錄，而此處也是印度第一個混和遺產類的世界遺產。園區的名稱來自世界第三高峰干城章嘉峰，此山峰位於園區內，海拔高度 8,586米（28,169英尺）；園區總面積為849.5平方公里（328.0平方英里）。 公園裡有許多高山冰川景觀，包括芝慕冰河等景點。另有多種動物如麝鹿、雪豹、雲豹、喜瑪拉雅塔爾羊等棲息在園區內。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Located at the heart of the Himalayan range in northern India (State of Sikkim), the Khangchendzonga National Park includes a unique diversity of plains, valleys, lakes, glaciers and spectacular, snow-capped mountains covered with ancient forests, including the world’s third highest peak, Mount Khangchendzonga. Mythological stories are associated with this mountain and with a great number of natural elements (caves, rivers, lakes, etc.) that are the object of worship by the indigenous people of Sikkim. The sacred meanings of these stories and practices have been integrated with Buddhist beliefs and constitute the basis for Sikkimese identity.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abhishek532%20LamuneyValley.jpg?width=1280",
+   "title": "Abhishek532 LamuneyValley.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Abhishek532%20LamuneyValley.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1513.jpg",
+   "title": "Khangchendzonga National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1513",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1513",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taplejung Airport",
+    "iata": "TPJ",
+    "city": "Taplejung",
+    "country": "NP",
+    "lat": 27.3509,
+    "lon": 87.69525,
+    "type": "medium_airport",
+    "distance_km": 69.7
+   },
+   {
+    "name": "Bagdogra Airport",
+    "iata": "IXB",
+    "city": "Siliguri",
+    "country": "IN",
+    "lat": 26.6812,
+    "lon": 88.328598,
+    "type": "large_airport",
+    "distance_km": 108.4
+   },
+   {
+    "name": "Paro International Airport",
+    "iata": "PBH",
+    "city": "Paro",
+    "country": "BT",
+    "lat": 27.4032,
+    "lon": 89.424599,
+    "type": "large_airport",
+    "distance_km": 113.2
+   }
+  ],
+  "nearest_airport_km": 69.7,
+  "distance_beijing_km": 3004.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1513"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khangchendzonga%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

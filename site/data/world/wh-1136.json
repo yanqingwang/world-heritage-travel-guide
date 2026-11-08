@@ -1,0 +1,162 @@
+{
+ "id": "wh-1136",
+ "unesco_id": "1136",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 489,
+ "popularity_score": 13889,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Mexico City",
+ "subdivision_iso": "MX-CMX",
+ "subdivision_zh": "墨西哥城",
+ "subdivision_en": "Mexico City",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "路易斯•巴拉干故居和工作室",
+ "name_zh_source": "unesco_official",
+ "name_en": "Luis Barragán House and Studio",
+ "name_local": "Casa-Taller de Luis Barragán",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1136-luis_barragán_house_and_studio",
+ "lat": 19.41111111,
+ "lon": -99.1925,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该建筑于1948年在墨西哥城郊建造，设计师是路易斯·巴拉干，它是二战后建筑创意工作的杰出代表。这幢混凝土结构的建筑面积共有1161平方米，有一个底层外加两层楼，还有一个私人小花园。巴拉干将现代艺术与传统艺术、本国与流行结合起来，形成了一种全新的风格。这种风格具有极大的影响力，在当代花园、广场以及风景设计方面尤其如此。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built in 1948, the House and Studio of architect Luis Barragán in the suburbs of Mexico City represents an outstanding example of the architect’s creative work in the post-Second World War period. The concrete building, totalling 1,161 m2, consists of a ground floor and two upper storeys, as well as a small private garden. Barragán’s work integrated modern and traditional artistic and vernacular currents and elements into a new synthesis, which has been greatly influential, especially in the contemporary design of gardens, plazas and landscapes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Construida en 1948 en los arrabales de la Ciudad de México, la casa-taller del arquitecto Luis Barragán constituye un ejemplo excepcional de la obra creadora de este eminente artista durante el período posterior a la Segunda Guerra Mundial. El edificio, cuya superficie totaliza 1.161 metros cuadrados, es de hormigón armado y consta de una planta baja, dos superiores y un pequeño jardín privado. En la obra de Barragán convergen corrientes estéticas y elementos artísticos modernos y autóctonos tradicionales, dando por resultado una síntesis arquitectónica que ha ejercido una notable influencia en el diseño contemporáneo de paisajes, jardines y plazas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Barragan%20House%20exterior%2002.jpg?width=1280",
+   "title": "Luis Barragan House exterior 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Luis%20Barragan%20House%20exterior%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1136.jpg",
+   "title": "Luis Barragán House and Studio",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1136",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1136",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mexico City Benito Juárez International Airport",
+    "iata": "MEX",
+    "city": "Mexico City",
+    "country": "MX",
+    "lat": 19.435822,
+    "lon": -99.07033,
+    "type": "large_airport",
+    "distance_km": 13.1
+   },
+   {
+    "name": "Adolfo López Mateos International Airport",
+    "iata": "TLC",
+    "city": "Toluca",
+    "country": "MX",
+    "lat": 19.3369,
+    "lon": -99.56583,
+    "type": "large_airport",
+    "distance_km": 40.0
+   },
+   {
+    "name": "Felipe Ángeles International Airport",
+    "iata": "NLU",
+    "city": "Mexico City",
+    "country": "MX",
+    "lat": 19.743824,
+    "lon": -99.01507,
+    "type": "large_airport",
+    "distance_km": 41.4
+   }
+  ],
+  "nearest_airport_km": 13.1,
+  "distance_beijing_km": 12436.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 26
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1136"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Luis%20Barrag%C3%A1n%20House%20and%20Studio"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-731",
+ "unesco_id": "731",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1141,
+ "popularity_score": null,
+ "country": "SE",
+ "country_zh": "瑞典",
+ "country_en": "Sweden",
+ "countries": [
+  {
+   "iso2": "SE",
+   "zh": "瑞典",
+   "en": "Sweden"
+  }
+ ],
+ "region": "Island region of Gotland",
+ "subdivision_iso": "SE-I",
+ "subdivision_zh": "哥得兰省",
+ "subdivision_en": "Gotland County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "汉萨同盟城市维斯比",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hanseatic Town of Visby",
+ "name_local": "Hansestaden Visby",
+ "local_lang": "sv",
+ "local_lang_name": "Swedish",
+ "slug": "731-hanseatic_town_of_visby",
+ "lat": 57.64166667,
+ "lon": 18.29583333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "维斯比原为哥得兰岛上的海盗据点，12世纪至14世纪成为波罗的汉萨同盟城市的中心。维斯比拥有13世纪的堡垒以及同时期的200多座仓库以及大量贸易设施，这些使之成为北欧保存最完好的商业防御城市。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A former Viking site on the island of Gotland, Visby was the main centre of the Hanseatic League in the Baltic from the 12th to the 14th century. Its 13th-century ramparts and more than 200 warehouses and wealthy merchants' dwellings from the same period make it the best-preserved fortified commercial city in northern Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Hansestaden Visby är ett världsarv instiftat 1994 bestående av Visby innerstad med ringmuren och området innanför.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visby%20-%20KMB%20-%2016000300024304.jpg?width=1280",
+   "title": "Visby - KMB - 16000300024304.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Visby%20-%20KMB%20-%2016000300024304.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_731.jpg",
+   "title": "Hanseatic Town of Visby",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/731",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/731",
+ "transport": {
+  "airports": [
+   {
+    "name": "Visby Airport",
+    "iata": "VBY",
+    "city": "Visby",
+    "country": "SE",
+    "lat": 57.6628,
+    "lon": 18.346201,
+    "type": "large_airport",
+    "distance_km": 3.8
+   },
+   {
+    "name": "Stockholm Skavsta Airport",
+    "iata": "NYO",
+    "city": "Nyköping",
+    "country": "SE",
+    "lat": 58.789656,
+    "lon": 16.911479,
+    "type": "large_airport",
+    "distance_km": 151.2
+   },
+   {
+    "name": "Norrköping Airport",
+    "iata": "NRK",
+    "city": "Norrköping",
+    "country": "SE",
+    "lat": 58.586299896240234,
+    "lon": 16.250600814819336,
+    "type": "medium_airport",
+    "distance_km": 159.6
+   }
+  ],
+  "nearest_airport_km": 3.8,
+  "distance_beijing_km": 6778.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SE",
+  "country_zh": "瑞典",
+  "country_en": "Sweden",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SE",
+   "country_zh": "瑞典",
+   "country_en": "Sweden",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "sv",
+  "local_lang_name": "Swedish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/731"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

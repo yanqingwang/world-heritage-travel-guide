@@ -1,0 +1,161 @@
+{
+ "id": "wh-1223",
+ "unesco_id": "1223",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 588,
+ "popularity_score": 10170,
+ "country": "MY",
+ "country_zh": "马来西亚",
+ "country_en": "Malaysia",
+ "countries": [
+  {
+   "iso2": "MY",
+   "zh": "马来西亚",
+   "en": "Malaysia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "MY-04",
+ "subdivision_zh": "马六甲",
+ "subdivision_en": "Malacca",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马六甲海峡的历史名城：马六甲和乔治城",
+ "name_zh_source": "wikidata",
+ "name_en": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1223-melaka_and_george_town,_historic_cities_",
+ "lat": 4.4615264666000005,
+ "lon": 109.56984446659999,
+ "coord_accuracy": "country_centroid",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "馬六甲海峽歷史城市，馬六甲和喬治市（英語：Melaka and George Town, Historic Cities of the Straits of Malacca）是联合国教育、科学及文化组织的世界遗产，當中包含兩座歷史城市－马六甲市和乔治市。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Melaka and George Town, historic cities of the Straits of Malacca have developed over 500 years of trading and cultural exchanges between East and West in the Straits of Malacca. The influences of Asia and Europe have endowed the towns with a specific multicultural heritage that is both tangible and intangible. With its government buildings, churches, squares and fortifications, Melaka demonstrates the early stages of this history originating in the 15th-century Malay sultanate and the Portuguese and Dutch periods beginning in the early 16th century. Featuring residential and commercial buildings, George Town represents the British era from the end of the 18th century. The two towns constitute a unique architectural and cultural townscape without parallel anywhere in East and Southeast Asia.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malacca%20River%20Melaka%201.jpg?width=1280",
+   "title": "Malacca River Melaka 1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Malacca%20River%20Melaka%201.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1223.jpg",
+   "title": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1223",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1223",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ranai Airport",
+    "iata": "NTX",
+    "city": "Ranai-Natuna Besar Island",
+    "country": "ID",
+    "lat": 3.90871,
+    "lon": 108.388,
+    "type": "medium_airport",
+    "distance_km": 144.8
+   },
+   {
+    "name": "Mukah Airport",
+    "iata": "MKM",
+    "city": "Mukah",
+    "country": "MY",
+    "lat": 2.881944,
+    "lon": 112.043333,
+    "type": "medium_airport",
+    "distance_km": 325.9
+   },
+   {
+    "name": "Kuching International Airport",
+    "iata": "KCH",
+    "city": "Kuching",
+    "country": "MY",
+    "lat": 1.487364,
+    "lon": 110.352859,
+    "type": "large_airport",
+    "distance_km": 341.9
+   }
+  ],
+  "nearest_airport_km": 144.8,
+  "distance_beijing_km": 4105.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MY",
+  "country_zh": "马来西亚",
+  "country_en": "Malaysia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][84]",
+  "notes": "90 days within any 180-day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MY",
+   "country_zh": "马来西亚",
+   "country_en": "Malaysia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][84]",
+   "notes": "90 days within any 180-day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 10
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1223"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Cities%20of%20the%20Straits%20of%20Malacca"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

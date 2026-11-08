@@ -1,0 +1,162 @@
+{
+ "id": "wh-854",
+ "unesco_id": "854",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 745,
+ "popularity_score": 4541,
+ "country": "SB",
+ "country_zh": "所罗门群岛",
+ "country_en": "Solomon Islands",
+ "countries": [
+  {
+   "iso2": "SB",
+   "zh": "所罗门群岛",
+   "en": "Solomon Islands"
+  }
+ ],
+ "region": "Southernmost of the Solomon Islands, Rennell and Bellona Province",
+ "subdivision_iso": "SB-RB",
+ "subdivision_zh": "拉纳尔和贝罗纳省",
+ "subdivision_en": "Rennell and Bellona Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "东伦内尔岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "East Rennell",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "854-east_rennell",
+ "lat": -11.683327777,
+ "lon": 160.333327777,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)",
+ "year": "1998",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "东伦内尔岛位于西太平洋所罗门群岛的最南端，它是伦内尔岛南面的第三个岛屿。伦内尔岛长86公里，宽15公里，是世界上最大的上升珊瑚环礁。该区域占地约37 000公顷，还有3海里的海域面积。这个岛最主要的特色就是特加诺湖，它以前是环状珊瑚岛的泻湖。这个面积为15 500公顷的太平洋岛屿中的最大湖泊，是一个咸水湖，包括许多崎岖不平的石灰石岛屿以及当地的特有物种。伦内尔岛大部分被茂密的森林所覆盖，这些森林的平均高度为20米。加之这里时常发生飓风，故成为一处真正的科学研究的天然实验室。这个岛屿遵循习惯的岛屿所有制和管理。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "East Rennell makes up the southern third of Rennell Island, the southernmost island in the Solomon Island group in the western Pacific. Rennell, 86 km long x 15 km wide, is the largest raised coral atoll in the world. The site includes approximately 37,000 ha and a marine area extending 3 nautical miles to sea. A major feature of the island is Lake Tegano, which was the former lagoon on the atoll. The lake, the largest in the insular Pacific (15,500 ha), is brackish and contains many rugged limestone islands and endemic species. Rennell is mostly covered with dense forest, with a canopy averaging 20 m in height. Combined with the strong climatic effects of frequent cyclones, the site is a true natural laboratory for scientific study. The site is under customary land ownership and management.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dugout%20canoe%20Rennell.jpg?width=1280",
+   "title": "Dugout canoe Rennell.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Dugout%20canoe%20Rennell.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_854.jpg",
+   "title": "East Rennell",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/854",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/854",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rennell/Tingoa Airport",
+    "iata": "RNL",
+    "city": "Rennell Island",
+    "country": "SB",
+    "lat": -11.55,
+    "lon": 160.062778,
+    "type": "small_airport",
+    "distance_km": 33.0
+   },
+   {
+    "name": "Bellona/Anua Airport",
+    "iata": "BNY",
+    "city": "Anua",
+    "country": "SB",
+    "lat": -11.302222222200001,
+    "lon": 159.798333333,
+    "type": "small_airport",
+    "distance_km": 72.1
+   },
+   {
+    "name": "Marau Airport",
+    "iata": "RUS",
+    "city": "Marau",
+    "country": "SB",
+    "lat": -9.86167,
+    "lon": 160.824997,
+    "type": "small_airport",
+    "distance_km": 209.6
+   }
+  ],
+  "nearest_airport_km": 33.0,
+  "distance_beijing_km": 7280.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SB",
+  "country_zh": "所罗门群岛",
+  "country_en": "Solomon Islands",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "The mutual visa-free agreement for ordinary passport holders takes effect on 28 December 2024.[134]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SB",
+   "country_zh": "所罗门群岛",
+   "country_en": "Solomon Islands",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The mutual visa-free agreement for ordinary passport holders takes effect on 28 December 2024.[134]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/854"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/East%20Rennell"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

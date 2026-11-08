@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(vii)(viii)"
 lat: -17.448789
 lon: 128.546055
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:40Z"
 ---
 
 # 波奴鲁鲁国家公园 / Purnululu National Park

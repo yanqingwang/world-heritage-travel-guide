@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Taiyuan"
 lat: 37.705129
 lon: 112.449184
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 太原市晋祠天龙山景区 / Jinci

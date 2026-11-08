@@ -1,0 +1,191 @@
+{
+ "id": "cn-1354",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "贵州省",
+ "province_en": "Guizhou",
+ "province_iso": "CN-GZ",
+ "city_zh": "毕节市",
+ "city_en": "Bijie City",
+ "name_zh": "毕节市黔西县百里杜鹃景区",
+ "name_en": "Bailidujuan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "bijieshiqianxixianbailidujuan-1354",
+ "lat": 27.209884,
+ "lon": 105.931775,
+ "address_zh": "毕节市大方县普底乡",
+ "address_en": "Pudi Township, Dafang County, Bijie City",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "毕节市百里杜鹃景区主要景点有杜鹃林带、百里杜鹃大草原、米底河、杜鹃花王、千年一吻、黄家坝阻击战遗址等。该景区拥有迄今为止中国已查明的面积最大的原生杜鹃林，素有“杜鹃王国”的称号。",
+ "intro_en": "The main attractions of Baili Azalea Scenic Area in Bijie City include Rhododendron Forest Belt, Baili Rhododendron Prairie, Midi River, Rhododendron King, Millennium Kiss, Huangjiaba Blockade Battle Site, etc. This scenic spot has the largest native rhododendron forest identified in China so far, and is known as the \"Rhododendron Kingdom\".",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Azaleas_Area.JPG/1280px-Azaleas_Area.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Azaleas Area.JPG",
+   "author": "Fanghong",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Azaleas_Area.JPG"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bijie Feixiong Airport",
+    "iata": "BFJ",
+    "city": "Bijie",
+    "country": "CN",
+    "lat": 27.267066,
+    "lon": 105.472097,
+    "type": "medium_airport",
+    "distance_km": 45.9
+   },
+   {
+    "name": "Zunyi Maotai Airport",
+    "iata": "WMT",
+    "city": "Zunyi",
+    "country": "CN",
+    "lat": 27.961837,
+    "lon": 106.435416,
+    "type": "medium_airport",
+    "distance_km": 97.2
+   },
+   {
+    "name": "Anshun Huangguoshu Airport",
+    "iata": "AVA",
+    "city": "Anshun (Xixiu)",
+    "country": "CN",
+    "lat": 26.260556,
+    "lon": 105.873333,
+    "type": "medium_airport",
+    "distance_km": 105.7
+   }
+  ],
+  "nearest_airport_km": 45.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "黔西",
+    "name_en": "Qianxi",
+    "lat": 26.9888186,
+    "lon": 106.043688,
+    "distance_km": 27.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "大方",
+    "name_en": null,
+    "lat": 27.2104502,
+    "lon": 105.5919606,
+    "distance_km": 33.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "大方南",
+    "name_en": "Dafangnan",
+    "lat": 27.1208647,
+    "lon": 105.5652995,
+    "distance_km": 37.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "黔宜大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.1657306,
+   "lon": 105.9434534,
+   "distance_km": 5.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "友誼賓館",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.2073927,
+   "lon": 105.8659031,
+   "distance_km": 6.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "百里杜鹃花冠大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.2513432,
+   "lon": 105.8204013,
+   "distance_km": 11.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "水西假日酒店",
+   "name_en": "Shuixi Holiday Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 27.016465,
+   "lon": 106.0349874,
+   "distance_km": 23.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "黔西大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.0124021,
+   "lon": 106.0386552,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 5,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/百里杜鹃"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

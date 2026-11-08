@@ -1,0 +1,192 @@
+{
+ "id": "cn-924",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "辽宁省",
+ "province_en": "Liaoning",
+ "province_iso": "CN-LN",
+ "city_zh": "大连市",
+ "city_en": "Dalian",
+ "name_zh": "大连市金石滩景区",
+ "name_en": "Jinshitan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "dalianshijinshitan-924",
+ "lat": 39.103535,
+ "lon": 122.000404,
+ "address_zh": "大连市金州区金石滩街道辽河东路",
+ "address_en": "Liaohe East Road, Jinshitan Street, Jinzhou District, Dalian City",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "金石滩是国家级风景名胜区、国家级旅游度假区、国家级地质公园。景区三面环海，冬暖夏凉，气候宜人。主要景点有黄金海岸、金石文化博览广场、滨海国家地质公园、金石缘公园、金石蜡像馆、发现王国等。",
+ "intro_en": "Jinshitan is a national-level scenic spot, a national-level tourist resort, and a national-level geological park. The scenic spot is surrounded by the sea on three sides, with warm winters and cool summers, and a pleasant climate. The main attractions include Gold Coast, Jinshi Culture Expo Plaza, Binhai National Geopark, Jinshiyuan Park, Jinshi Paraffin Museum, Discovery Kingdom, etc.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/%E9%87%91%E7%9F%B3%E6%BB%A92.jpg/1280px-%E9%87%91%E7%9F%B3%E6%BB%A92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "金石滩2.jpg",
+   "author": "红烧腰果",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%9F%B3%E6%BB%A92.jpg"
+  }
+ ],
+ "web": "https://www.jinshitan.com",
+ "booking": "https://www.jinshitan.com/intro/9.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dalian Zhoushuizi International Airport",
+    "iata": "DLC",
+    "city": "Dalian (Ganjingzi)",
+    "country": "CN",
+    "lat": 38.965719,
+    "lon": 121.538477,
+    "type": "large_airport",
+    "distance_km": 42.7
+   },
+   {
+    "name": "Changhai Dachangshandao Airport",
+    "iata": "CNI",
+    "city": "Dalian (Changhai)",
+    "country": "CN",
+    "lat": 39.266441,
+    "lon": 122.66696,
+    "type": "small_airport",
+    "distance_km": 60.2
+   },
+   {
+    "name": "Yingkou Lanqi Airport",
+    "iata": "YKH",
+    "city": "Yingkou (Laobian)",
+    "country": "CN",
+    "lat": 40.542524,
+    "lon": 122.3586,
+    "type": "medium_airport",
+    "distance_km": 162.9
+   }
+  ],
+  "nearest_airport_km": 42.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "亮甲店",
+    "name_en": "Liangjiadian",
+    "lat": 39.212538,
+    "lon": 121.9362581,
+    "distance_km": 13.3,
+    "operator": "中国铁路沈阳局集团有限公司 大连车务段",
+    "high_speed": false
+   },
+   {
+    "name": "登沙河",
+    "name_en": "Dengshahe",
+    "lat": 39.2209907,
+    "lon": 122.063584,
+    "distance_km": 14.2,
+    "operator": "中国铁路沈阳局集团有限公司 大连车务段",
+    "high_speed": false
+   },
+   {
+    "name": "广宁寺",
+    "name_en": "Guangningsi",
+    "lat": 39.177957,
+    "lon": 121.842678,
+    "distance_km": 15.9,
+    "operator": "中国铁路沈阳局集团有限公司 大连车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "大连金石滩鲁能希尔顿酒店",
+   "name_en": "Hilton Dalian Golden Pebble Beach Resort",
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 39.0734698,
+   "lon": 121.9931694,
+   "distance_km": 3.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大连金石滩智选假日酒店",
+   "name_en": "Holiday Inn Express",
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 39.077756,
+   "lon": 122.0003578,
+   "distance_km": 2.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hard Rock Hotel Dalian",
+   "name_en": "Hard Rock Hotel Dalian",
+   "stars": null,
+   "brand": "Hard Rock Hotels",
+   "lat": 39.0760482,
+   "lon": 121.9969418,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dalian Luneng Ocean Hot Spring",
+   "name_en": "Dalian Luneng Ocean Hot Spring",
+   "stars": null,
+   "brand": null,
+   "lat": 39.0762412,
+   "lon": 121.9908484,
+   "distance_km": 3.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汤景泽日式温泉酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.072238,
+   "lon": 121.9528719,
+   "distance_km": 5.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 15,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/金石滩"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

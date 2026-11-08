@@ -1,0 +1,162 @@
+{
+ "id": "wh-365",
+ "unesco_id": "365",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 595,
+ "popularity_score": 10049,
+ "country": "ZW",
+ "country_zh": "津巴布韦",
+ "country_en": "Zimbabwe",
+ "countries": [
+  {
+   "iso2": "ZW",
+   "zh": "津巴布韦",
+   "en": "Zimbabwe"
+  }
+ ],
+ "region": "Western Region, Matabeleland",
+ "subdivision_iso": "ZW-BU",
+ "subdivision_zh": "布拉瓦约省",
+ "subdivision_en": "Bulawayo Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡米国家遗址纪念地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Khami Ruins National Monument",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "365-khami_ruins_national_monument",
+ "lat": -20.143291666,
+ "lon": 28.423436111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡米曾经是大津巴布韦的首都，并一度得到繁荣发展；在16世纪中叶被遗弃。而今卡米一跃成为重要的考古胜地。从来自欧洲以及中国的发掘物中可以推断，卡米拥有悠久的贸易史。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Khami, which developed after the capital of Great Zimbabwe had been abandoned in the mid-16th century, is of great archaeological interest. The discovery of objects from Europe and China shows that Khami was a major centre for trade over a long period of time.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Khami.jpg?width=1280",
+   "title": "Khami.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Khami.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_365.jpg",
+   "title": "Khami Ruins National Monument",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/365",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/365",
+ "transport": {
+  "airports": [
+   {
+    "name": "Joshua Mqabuko Nkomo International Airport",
+    "iata": "BUQ",
+    "city": "Bulawayo",
+    "country": "ZW",
+    "lat": -20.016284,
+    "lon": 28.622897,
+    "type": "large_airport",
+    "distance_km": 25.2
+   },
+   {
+    "name": "Phillip Gaonwe Matante International Airport",
+    "iata": "FRW",
+    "city": "Francistown",
+    "country": "BW",
+    "lat": -21.159183,
+    "lon": 27.468826,
+    "type": "large_airport",
+    "distance_km": 150.4
+   },
+   {
+    "name": "Victoria Falls International Airport",
+    "iata": "VFA",
+    "city": "Victoria Falls",
+    "country": "ZW",
+    "lat": -18.097437,
+    "lon": 25.836867,
+    "type": "large_airport",
+    "distance_km": 354.4
+   }
+  ],
+  "nearest_airport_km": 25.2,
+  "distance_beijing_km": 11256.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZW",
+  "country_zh": "津巴布韦",
+  "country_en": "Zimbabwe",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][163]",
+  "notes": "Also eligible for a universal visa allowing access to Zambia."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZW",
+   "country_zh": "津巴布韦",
+   "country_en": "Zimbabwe",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][163]",
+   "notes": "Also eligible for a universal visa allowing access to Zambia."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 39
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/365"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khami"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

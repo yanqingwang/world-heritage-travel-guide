@@ -1,0 +1,224 @@
+{
+ "id": "cn-870",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "辽宁省",
+ "province_en": "Liaoning",
+ "province_iso": "CN-LN",
+ "city_zh": "鞍山市",
+ "city_en": "Anshan City",
+ "name_zh": "鞍山市千山景区",
+ "name_en": "Qianshan",
+ "name_en_source": "wikipedia",
+ "slug": "anshanshiqianshan-870",
+ "lat": 41.035262,
+ "lon": 123.148632,
+ "address_zh": "鞍山市立山区千山街道千山东路",
+ "address_en": "Qianshan East Road, Qianshan Street, Lishan District, Anshan City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "千山风景名胜区以峰秀、石峭、谷幽、庙古、佛高、松奇、花盛而著称，历史宗教文化厚重，自然风光神奇瑰丽。千山分为天上天、大佛、五佛顶、桃花溪谷和国家森林公园仙人台五个游览区。",
+ "intro_en": "Qianshan is the atonal pinyin romanization of various Chinese placenames related to mountains or islands. It may refer to: Qian Mountains (千山, Qiānshān), a northeastern mountain range Qianshan District (千山区, Qiānshānqū) in Anshan, Liaoning Qianshan County (潜山县, Qianshanxian), Anhui Yanshan County (铅山; Yánshān), Jiangxi (the characters in its name are usually pronounced as Qianshan in standard Mandarin) Qianshan (千山镇, Qianshanzhen), a town within Qianshan District, Anshan, Liaoning Qianshan (钤山镇, Qianshanzhen), a town in Fenyi County, Jiangxi Qianshan Subdistrict (前山街道, Qiánshān Jiēdào), a subdistrict (formerly a separate town) of Xiangzhou District, Zhuhai, Guangdong Qianshan National Park (千山国家公园, Qianshan Guojia Gongyuan) in Anshan, Liaoning",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/ChinaAnqingQianshan.png/1280px-ChinaAnqingQianshan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ChinaAnqingQianshan.png",
+   "author": "Slb nsk",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ChinaAnqingQianshan.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Platform_1_of_Qianshan_Railway_Station_%2820260215220627%29.jpg/1280px-Platform_1_of_Qianshan_Railway_Station_%2820260215220627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Platform 1 of Qianshan Railway Station (20260215220627).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Platform_1_of_Qianshan_Railway_Station_%2820260215220627%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Qianshan_Bridge%2C_Zhuhai.jpg/1280px-Qianshan_Bridge%2C_Zhuhai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Qianshan Bridge, Zhuhai.jpg",
+   "author": "钉钉",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Qianshan_Bridge%2C_Zhuhai.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Taiwan_barbet_%28Psilopogon_nuchalis%29_Qianshan_2.jpg/1280px-Taiwan_barbet_%28Psilopogon_nuchalis%29_Qianshan_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Taiwan barbet (Psilopogon nuchalis) Qianshan 2.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work , from Sharp Photography, sharpphotography.co.uk",
+   "source": "https://commons.wikimedia.org/wiki/File:Taiwan_barbet_%28Psilopogon_nuchalis%29_Qianshan_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Warning_signs_in_Qianshan_Museum_%2820170117101917%29.jpg/1280px-Warning_signs_in_Qianshan_Museum_%2820170117101917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Warning signs in Qianshan Museum (20170117101917).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Warning_signs_in_Qianshan_Museum_%2820170117101917%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "http://qsfjmsq.anshan.gov.cn",
+ "transport": {
+  "airports": [
+   {
+    "name": "Anshan Teng'ao Airport / Anshan Air Base",
+    "iata": "AOG",
+    "city": "Anshan",
+    "country": "CN",
+    "lat": 41.105301,
+    "lon": 122.853996,
+    "type": "medium_airport",
+    "distance_km": 25.9
+   },
+   {
+    "name": "Shenyang Taoxian International Airport",
+    "iata": "SHE",
+    "city": "Shenyang",
+    "country": "CN",
+    "lat": 41.6398,
+    "lon": 123.483668,
+    "type": "large_airport",
+    "distance_km": 72.8
+   },
+   {
+    "name": "Yingkou Lanqi Airport",
+    "iata": "YKH",
+    "city": "Yingkou (Laobian)",
+    "country": "CN",
+    "lat": 40.542524,
+    "lon": 122.3586,
+    "type": "medium_airport",
+    "distance_km": 86.2
+   }
+  ],
+  "nearest_airport_km": 25.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "七岭子",
+    "name_en": null,
+    "lat": 41.0970471,
+    "lon": 123.0921734,
+    "distance_km": 8.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "崔家屯",
+    "name_en": null,
+    "lat": 41.0611717,
+    "lon": 123.0406851,
+    "distance_km": 9.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "调军台",
+    "name_en": null,
+    "lat": 41.1357938,
+    "lon": 123.09186,
+    "distance_km": 12.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "银盛洲际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.2786545,
+   "lon": 123.2085522,
+   "distance_km": 27.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "摩泰商务宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1123075,
+   "lon": 123.000046,
+   "distance_km": 15.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宜必思酒店",
+   "name_en": "ibis hotel",
+   "stars": null,
+   "brand": "Ibis",
+   "lat": 41.1093891,
+   "lon": 122.9902178,
+   "distance_km": 15.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "五环大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.115211,
+   "lon": 122.9954042,
+   "distance_km": 15.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "智选假日酒店",
+   "name_en": "Holiday Inn Express",
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 41.1358725,
+   "lon": 123.0108226,
+   "distance_km": 16.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 13,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/千山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

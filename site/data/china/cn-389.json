@@ -1,0 +1,178 @@
+{
+ "id": "cn-389",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广西壮族自治区",
+ "province_en": "Guangxi",
+ "province_iso": "CN-GX",
+ "city_zh": "北海市",
+ "city_en": "Beihai",
+ "name_zh": "北海市涠洲岛南湾鳄鱼山景区",
+ "name_en": "Beihaishiweizhoudaonanwaneyushan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "beihaishiweizhoudaonanwaneyushan-389",
+ "lat": 21.679604,
+ "lon": 109.300715,
+ "address_zh": "广西壮族自治区北海市海城区",
+ "address_en": "Haicheng District, Beihai City, Guangxi Zhuang Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "red",
+ "category_zh": "红色旅游",
+ "category_en": "Red tourism",
+ "intro_zh": "涠洲岛是火山喷发堆凝而成的岛屿，是中国地质年龄最年轻的火山岛，也是广西最大的海岛。南湾鳄鱼山景区是涠洲岛的精华景区，以美丽的海岛风光、典型的火山地质遗迹、奇特的地貌景观和舒适宜人的气候闻名海内外，包含鳄鱼山、五彩滩、红色广场、南湾海洋运动公园等景点。",
+ "intro_en": "Weizhou Island is an island formed by volcanic eruptions. It is the youngest volcanic island in China and the largest island in Guangxi. Nanwan Crocodile Mountain Scenic Area is the essence of Weizhou Island. It is famous at home and abroad for its beautiful island scenery, typical volcanic geological relics, unique landforms and comfortable and pleasant climate. It includes Crocodile Mountain, Colorful Beach, Red Square, Nanwan Ocean Sports Park and other attractions.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Beihai Fucheng Airport",
+    "iata": "BHY",
+    "city": "Beihai",
+    "country": "CN",
+    "lat": 21.538659,
+    "lon": 109.293683,
+    "type": "medium_airport",
+    "distance_km": 15.7
+   },
+   {
+    "name": "Yulin Fumian Airport",
+    "iata": "YLX",
+    "city": "Yulin",
+    "country": "CN",
+    "lat": 22.433042,
+    "lon": 110.119996,
+    "type": "medium_airport",
+    "distance_km": 118.9
+   },
+   {
+    "name": "Zhanjiang Wuchuan International Airport",
+    "iata": "ZHA",
+    "city": "Zhanjiang",
+    "country": "CN",
+    "lat": 21.481667,
+    "lon": 110.590278,
+    "type": "large_airport",
+    "distance_km": 135.1
+   }
+  ],
+  "nearest_airport_km": 15.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "北海北",
+    "name_en": "Beihaibei",
+    "lat": 21.5868197,
+    "lon": 109.2772798,
+    "distance_km": 10.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "合浦",
+    "name_en": "Hepu",
+    "lat": 21.6246463,
+    "lon": 109.1831002,
+    "distance_km": 13.6,
+    "operator": "中国铁路南宁局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "闸口镇",
+    "name_en": null,
+    "lat": 21.7125299,
+    "lon": 109.4549739,
+    "distance_km": 16.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "北海香格里拉大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 21.4927908,
+   "lon": 109.1298638,
+   "distance_km": 27.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pearl Bay Seaview Hotel",
+   "name_en": "Pearl Bay Seaview Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 21.4862839,
+   "lon": 109.1055521,
+   "distance_km": 29.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "红林大酒店",
+   "name_en": "Red Forest Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 21.6651605,
+   "lon": 109.2079425,
+   "distance_km": 9.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "富丽华大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 21.4923645,
+   "lon": 109.1287921,
+   "distance_km": 27.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "维也纳酒店",
+   "name_en": "Vienna Hotels",
+   "stars": null,
+   "brand": "维也纳酒店",
+   "lat": 21.4822955,
+   "lon": 109.1165193,
+   "distance_km": 29.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 5,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

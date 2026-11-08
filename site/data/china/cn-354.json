@@ -1,0 +1,224 @@
+{
+ "id": "cn-354",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "吐鲁番地区",
+ "city_en": "Tulufan Prefecture",
+ "name_zh": "吐鲁番市葡萄沟风景区",
+ "name_en": "Grape Valley",
+ "name_en_source": "wikipedia",
+ "slug": "tulufanshiputaogou-354",
+ "lat": 43.005375,
+ "lon": 89.249626,
+ "address_zh": "新疆维吾尔自治区吐鲁番市高昌区",
+ "address_en": "Gaochang District, Turpan City, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "吐鲁番市葡萄沟风景区位于火焰山中，是火焰山下的一处峡谷。沟内有布依鲁克河流过，主要水源为高山融雪，因盛产葡萄而得名，是新疆吐鲁番地区的旅游胜地。2007年被国家旅游局批准为国家AAAAA级旅游景区。",
+ "intro_en": "Grape Valley (Chinese: 葡萄沟; pinyin: Pútáogōu) is an area of arid land in Turpan, Xinjiang, China, where grapes and other fruits are grown. The valley is 8 km long, 600-2,000 meters wide, and is located some 10 km east of Turpan's city center. Turpan has a historically long tradition of growing grape and other fruits, using the karez underground irrigation system. It is famous for growing the seedless white grape, the manaizi (Chinese: 马奶子; pinyin: mǎnǎizi, mare's nipple) grape. Raisins and other dried fruits are also sold at the Grape Valley tourists' area. Grape and raisin production in Turpan accounts for over eighty percent of China's total, making China the world's third-largest producer of raisins and the world's largest producer of green raisins.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Valley_of_Grapes_Turpan_%2814%29.jpg/1280px-Valley_of_Grapes_Turpan_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Valley of Grapes Turpan (14).jpg",
+   "author": "Radosław Botev",
+   "license": "CC BY 3.0 pl",
+   "credit": "own archive",
+   "source": "https://commons.wikimedia.org/wiki/File:Valley_of_Grapes_Turpan_%2814%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Grape_worker.jpg/1280px-Grape_worker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Grape worker.jpg",
+   "author": "Tomas Castelazo",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Grape_worker.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Grapes%2C_Dry_Creek_Valley-7705.jpg/1280px-Grapes%2C_Dry_Creek_Valley-7705.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Grapes, Dry Creek Valley-7705.jpg",
+   "author": "Frank Schulenburg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Grapes%2C_Dry_Creek_Valley-7705.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Turpan_grape_valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Turpan grape valley.jpg",
+   "author": "Muzzleflash",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Turpan_grape_valley.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Valley_of_Grapes_Turpan.jpg/1280px-Valley_of_Grapes_Turpan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Valley of Grapes Turpan.jpg",
+   "author": "Radosław Botev",
+   "license": "CC BY 3.0 pl",
+   "credit": "own archive",
+   "source": "https://commons.wikimedia.org/wiki/File:Valley_of_Grapes_Turpan.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Turpan Jiaohe Airport",
+    "iata": "TLQ",
+    "city": "Turpan",
+    "country": "CN",
+    "lat": 43.0308,
+    "lon": 89.0987,
+    "type": "medium_airport",
+    "distance_km": 12.6
+   },
+   {
+    "name": "Qitai Jiangbulake Airport",
+    "iata": "JBK",
+    "city": "Qitai",
+    "country": "CN",
+    "lat": 44.166086,
+    "lon": 89.55014,
+    "type": "small_airport",
+    "distance_km": 131.3
+   },
+   {
+    "name": "Ürümqi Tianshan International Airport",
+    "iata": "URC",
+    "city": "Ürümqi",
+    "country": "CN",
+    "lat": 43.913584,
+    "lon": 87.479372,
+    "type": "large_airport",
+    "distance_km": 175.0
+   }
+  ],
+  "nearest_airport_km": 12.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "吐鲁番北 شىمالىي تۇرپان",
+    "name_en": "Turpan North Station",
+    "lat": 43.0213639,
+    "lon": 89.1079716,
+    "distance_km": 11.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "煤窑沟",
+    "name_en": "Meiyaogou",
+    "lat": 43.1546454,
+    "lon": 89.317533,
+    "distance_km": 17.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "七泉湖 چىچان",
+    "name_en": null,
+    "lat": 43.130286,
+    "lon": 89.4662251,
+    "distance_km": 22.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "吐鲁番双城宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 42.9740391,
+   "lon": 89.1883544,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "吐鲁番达卜青年旅舍",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 42.9537907,
+   "lon": 89.2028711,
+   "distance_km": 6.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "麥西萊普酒店",
+   "name_en": "Maixi Lepu Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 42.9630162,
+   "lon": 89.1807039,
+   "distance_km": 7.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Turpan Huozhou Mercure Hotel吐鲁番火洲美居酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 42.9417426,
+   "lon": 89.1913279,
+   "distance_km": 8.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tian pu yuan hotel",
+   "name_en": "Tian pu yuan hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 42.9542599,
+   "lon": 89.167138,
+   "distance_km": 8.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 12,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/葡萄沟"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Chongzuo City"
 lat: 22.858761
 lon: 106.735011
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 崇左市德天跨国瀑布景区 / Chongzuoshidetiankuaguopubu Scenic Area

@@ -1,0 +1,162 @@
+{
+ "id": "wh-617",
+ "unesco_id": "617",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1120,
+ "popularity_score": null,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "South Bohemian Region",
+ "subdivision_iso": "CZ-312",
+ "subdivision_zh": "捷克克魯姆洛夫縣",
+ "subdivision_en": "Český Krumlov District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "克鲁姆洛夫历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Český Krumlov",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "617-historic_centre_of_český_krumlov",
+ "lat": 48.816666666,
+ "lon": 14.316666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个城镇位于瓦尔塔瓦河(Vltava river)畔，围绕一座13世纪城堡而建。这座城堡融合了哥特式、文艺复兴式以及巴洛克式风格。这是中世纪中欧小城的杰出典范，经历五个多世纪的和平发展，其建筑古迹被原封不动地保留了下来。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated on the banks of the Vltava river, the town was built around a 13th-century castle with Gothic, Renaissance and Baroque elements. It is an outstanding example of a small central European medieval town whose architectural heritage has remained intact thanks to its peaceful evolution over more than five centuries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C4%8Cesk%C3%BD%20Krumlov%2C%20z%C3%A1mek%20cel%C3%BD%20z%20vyhl%C3%ADdky.jpg?width=1280",
+   "title": "Český Krumlov, zámek celý z vyhlídky.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD%20Krumlov%2C%20z%C3%A1mek%20cel%C3%BD%20z%20vyhl%C3%ADdky.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_617.jpg",
+   "title": "Historic Centre of Český Krumlov",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/617",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/617",
+ "transport": {
+  "airports": [
+   {
+    "name": "České Budějovice South Bohemian Airport",
+    "iata": "JCL",
+    "city": "České Budějovice",
+    "country": "CZ",
+    "lat": 48.948171,
+    "lon": 14.42832,
+    "type": "large_airport",
+    "distance_km": 16.7
+   },
+   {
+    "name": "Linz-Hörsching Airport",
+    "iata": "LNZ",
+    "city": "Linz",
+    "country": "AT",
+    "lat": 48.235362,
+    "lon": 14.188128,
+    "type": "large_airport",
+    "distance_km": 65.3
+   },
+   {
+    "name": "Václav Havel Airport Prague",
+    "iata": "PRG",
+    "city": "Prague",
+    "country": "CZ",
+    "lat": 50.100874,
+    "lon": 14.259911,
+    "type": "large_airport",
+    "distance_km": 142.9
+   }
+  ],
+  "nearest_airport_km": 16.7,
+  "distance_beijing_km": 7526.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/617"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

@@ -1,0 +1,168 @@
+{
+ "id": "cn-424",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "盐城市",
+ "city_en": "Yancheng",
+ "name_zh": "盐城市中华麋鹿园景区",
+ "name_en": "Yancheng",
+ "name_en_source": "wikipedia",
+ "slug": "yanchengshizhonghuamiluyuan-424",
+ "lat": 32.989999,
+ "lon": 120.821875,
+ "address_zh": "盐城市大丰区草庙镇",
+ "address_en": "Caomiao Town, Dafeng District, Yancheng City",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "中华麋鹿园位于江苏省大丰麋鹿国家级自然保护区内，麋鹿数量占世界麋鹿总数的60%，创造了三个“世界之最”，即世界面积最大的麋鹿保护区、世界最大的麋鹿野生种群及世界最大的麋鹿基因库。大丰麋鹿保护区已被列入国际重要湿地名录。",
+ "intro_en": "Yancheng (simplified Chinese: 盐城; traditional Chinese: 鹽城; pinyin: Yánchéng), formerly known as Yandu, is a prefecture-level city in the eastern coastal Jiangsu province, People's Republic of China. As the city with the largest jurisdictional area in Jiangsu, Yancheng borders Lianyungang to the north, Huai'an to the west, Yangzhou and Taizhou to the southwest, Nantong to the south, and the Yellow Sea to the east. Formerly a county, the current Yancheng city was founded on January 18, 1983. Yancheng, literally \"Salt City\", is named after the salt harvest fields surrounding the city. According to historical records, collection and production of sea salt in the region began as early as 119 BC, during the Western Han dynasty, when the settlement on the current location of Yancheng was named Yandu County (盐渎县). According to the 2020 census, Yancheng had a registered population of 6,709,629, with 1,733,591 inhabitants in its built up area comprising the districts of Tinghu and Yandu.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tinghu%2C_Yancheng%2C_Jiangsu%2C_China_-_panoramio_%2844%29.jpg/1280px-Tinghu%2C_Yancheng%2C_Jiangsu%2C_China_-_panoramio_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tinghu, Yancheng, Jiangsu, China - panoramio (44).jpg",
+   "author": "柳少阳",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161025071444/http://www.panoramio.com/photo/88509868",
+   "source": "https://commons.wikimedia.org/wiki/File:Tinghu%2C_Yancheng%2C_Jiangsu%2C_China_-_panoramio_%2844%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Yancheng_Ruins%2C_Jiangsu_03.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yancheng Ruins, Jiangsu 03.jpg",
+   "author": "Slyronit",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yancheng_Ruins%2C_Jiangsu_03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Yancheng_Ruins%2C_Jiangsu_11.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yancheng Ruins, Jiangsu 11.jpg",
+   "author": "Slyronit",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yancheng_Ruins%2C_Jiangsu_11.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yancheng_Ruins%2C_Jiangsu_19.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yancheng Ruins, Jiangsu 19.jpg",
+   "author": "Slyronit",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yancheng_Ruins%2C_Jiangsu_19.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Yancheng_Ruins%2C_Jiangsu_28.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yancheng Ruins, Jiangsu 28.jpg",
+   "author": "Slyronit",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yancheng_Ruins%2C_Jiangsu_28.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yancheng Nanyang International Airport",
+    "iata": "YNZ",
+    "city": "Yancheng (Tinghu)",
+    "country": "CN",
+    "lat": 33.428317,
+    "lon": 120.20545,
+    "type": "large_airport",
+    "distance_km": 75.3
+   },
+   {
+    "name": "Nantong Xingdong International Airport",
+    "iata": "NTG",
+    "city": "Nantong (Tongzhou)",
+    "country": "CN",
+    "lat": 32.073566,
+    "lon": 120.980076,
+    "type": "medium_airport",
+    "distance_km": 103.0
+   },
+   {
+    "name": "Yangzhou Taizhou Airport",
+    "iata": "YTY",
+    "city": "Yangzhou",
+    "country": "CN",
+    "lat": 32.5634,
+    "lon": 119.7198,
+    "type": "medium_airport",
+    "distance_km": 113.4
+   }
+  ],
+  "nearest_airport_km": 75.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "大丰港",
+    "name_en": null,
+    "lat": 33.2347497,
+    "lon": 120.7719302,
+    "distance_km": 27.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "大丰南站",
+    "name_en": null,
+    "lat": 33.1488376,
+    "lon": 120.4408949,
+    "distance_km": 39.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "东台",
+    "name_en": "Dongtai",
+    "lat": 32.8760478,
+    "lon": 120.3394002,
+    "distance_km": 46.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/盐城市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

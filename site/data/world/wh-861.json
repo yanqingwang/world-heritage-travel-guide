@@ -1,0 +1,162 @@
+{
+ "id": "wh-861",
+ "unesco_id": "861",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 767,
+ "popularity_score": 3941,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "South Bohemian Region",
+ "subdivision_iso": "CZ-311",
+ "subdivision_zh": "捷克布傑約維采縣",
+ "subdivision_en": "České Budějovice District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "霍拉索维采古村保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Holašovice Historic Village",
+ "name_local": "Holašovice",
+ "local_lang": "cs",
+ "local_lang_name": "Czech",
+ "slug": "861-holašovice_historic_village",
+ "lat": 48.966666666,
+ "lon": 14.266666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "霍拉索维采是完好保存的中欧传统村落的一个罕见标本，拥有许多18和19世纪的杰出本土建筑，采用了著名的“南波斯米亚民间巴洛克风格”(South Bohemian folk Baroque)，另外保存有一张始自中世纪的珍贵平面图。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Holašovice is an exceptionally complete and well-preserved example of a traditional central European village. It has a large number of outstanding 18th- and 19th-century vernacular buildings in a style known as 'South Bohemian folk Baroque', and preserves a ground plan dating from the Middle Ages.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Holašovice (doudlebským nářečím Holašojce; německy Hollschowitz) jsou vesnice a část obce Jankov v okrese České Budějovice v Jihočeském kraji. Leží šestnáct kilometrů západně od Českých Budějovic. Zdejší unikátní soubor budov ve stylu takzvaného selského baroka ze sedmdesátých let 19. století tvoří jedinečný celek, který je od roku 1995 vesnickou památkovou rezervací a roku 1998 byl zapsán na seznam světového dědictví UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Holasovice1.jpg?width=1280",
+   "title": "Holasovice1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Holasovice1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_861.jpg",
+   "title": "Holašovice Historic Village",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/861",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/861",
+ "transport": {
+  "airports": [
+   {
+    "name": "České Budějovice South Bohemian Airport",
+    "iata": "JCL",
+    "city": "České Budějovice",
+    "country": "CZ",
+    "lat": 48.948171,
+    "lon": 14.42832,
+    "type": "large_airport",
+    "distance_km": 12.0
+   },
+   {
+    "name": "Linz-Hörsching Airport",
+    "iata": "LNZ",
+    "city": "Linz",
+    "country": "AT",
+    "lat": 48.235362,
+    "lon": 14.188128,
+    "type": "large_airport",
+    "distance_km": 81.5
+   },
+   {
+    "name": "Václav Havel Airport Prague",
+    "iata": "PRG",
+    "city": "Prague",
+    "country": "CZ",
+    "lat": 50.100874,
+    "lon": 14.259911,
+    "type": "large_airport",
+    "distance_km": 126.1
+   }
+  ],
+  "nearest_airport_km": 12.0,
+  "distance_beijing_km": 7526.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "cs",
+  "local_lang_name": "Czech",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/861"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hola%C5%A1ovice"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

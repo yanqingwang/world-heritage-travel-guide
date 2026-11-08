@@ -1,0 +1,162 @@
+{
+ "id": "wh-125",
+ "unesco_id": "125",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 636,
+ "popularity_score": 7926,
+ "country": "ME",
+ "country_zh": "黑山",
+ "country_en": "Montenegro",
+ "countries": [
+  {
+   "iso2": "ME",
+   "zh": "黑山",
+   "en": "Montenegro"
+  }
+ ],
+ "region": "Boka Kotorska (Bay of Kotor), City of Kotor and surrounding territory, Republic of Montenegro",
+ "subdivision_iso": "ME-10",
+ "subdivision_zh": "科托尔市镇",
+ "subdivision_en": "Kotor Municipality",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "科托尔自然保护区和文化历史区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Natural and Culturo-Historical Region of Kotor",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "125-natural_and_culturo-historical_region_of",
+ "lat": 42.43,
+ "lon": 18.77,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个天然港位于门的内哥罗的亚得里海岸，它在中世纪曾是重要的艺术和商业中心，那里有著名的石工和肖像学校。在1979年的一次地震中很多遗址被严重毁坏，其中包括两座罗马式教堂和城墙。之后在联合国教科文组织的帮助下，该城恢复了原貌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the Middle Ages, this natural harbour on the Adriatic coast in Montenegro was an important artistic and commercial centre with its own famous schools of masonry and iconography. A large number of the monuments (including four Romanesque churches and the town walls) were seriously damaged by the 1979 earthquake but the town has been restored, largely with UNESCO’s help.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20090719%20Crkva%20Gospa%20od%20Zdravlja%20Kotor%20Bay%20Montenegro.jpg?width=1280",
+   "title": "20090719 Crkva Gospa od Zdravlja Kotor Bay Montenegro.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:20090719%20Crkva%20Gospa%20od%20Zdravlja%20Kotor%20Bay%20Montenegro.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_125.jpg",
+   "title": "Natural and Culturo-Historical Region of Kotor",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/125",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/125",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tivat Airport",
+    "iata": "TIV",
+    "city": "Tivat",
+    "country": "ME",
+    "lat": 42.404701,
+    "lon": 18.723301,
+    "type": "medium_airport",
+    "distance_km": 4.8
+   },
+   {
+    "name": "Podgorica Airport / Podgorica Golubovci Airbase",
+    "iata": "TGD",
+    "city": "Podgorica",
+    "country": "ME",
+    "lat": 42.359402,
+    "lon": 19.2519,
+    "type": "large_airport",
+    "distance_km": 40.3
+   },
+   {
+    "name": "Dubrovnik Ruđer Bošković Airport",
+    "iata": "DBV",
+    "city": "Dubrovnik",
+    "country": "HR",
+    "lat": 42.562247,
+    "lon": 18.265543,
+    "type": "large_airport",
+    "distance_km": 43.9
+   }
+  ],
+  "nearest_airport_km": 4.8,
+  "distance_beijing_km": 7682.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ME",
+  "country_zh": "黑山",
+  "country_en": "Montenegro",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid Schengen visa, a valid visa of Australia, Cyprus, Japan, Canada, New Zealand, Ireland, the United States of America and the United Kingdom. Also a residence permit in the countries of the Schengen zone, Australia, Cyprus, Japan, Canada, New Zealand, Irel"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ME",
+   "country_zh": "黑山",
+   "country_en": "Montenegro",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid Schengen visa, a valid visa of Australia, Cyprus, Japan, Canada, New Zealand, Ireland, the United States of America and the United Kingdom. Also a residence permit in the countries of the Schengen zone, Australia, Cyprus, Japan, Canada, New Zealand, Irel"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 28
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/125"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Natural%20and%20Culturo-Historical%20Region%20of%20Kotor"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

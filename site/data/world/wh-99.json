@@ -1,0 +1,176 @@
+{
+ "id": "wh-99",
+ "unesco_id": "99",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 865,
+ "popularity_score": 458,
+ "country": "AL",
+ "country_zh": "阿尔巴尼亚",
+ "country_en": "Albania",
+ "countries": [
+  {
+   "iso2": "AL",
+   "zh": "阿尔巴尼亚",
+   "en": "Albania"
+  },
+  {
+   "iso2": "MK",
+   "zh": "北马其顿",
+   "en": "North Macedonia"
+  }
+ ],
+ "region": "Ohrid (municipality)",
+ "subdivision_iso": "AL-KO",
+ "subdivision_zh": "科尔察区",
+ "subdivision_en": "Korçë District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奥赫里德地区自然与文化遗产",
+ "name_zh_source": "unesco_official",
+ "name_en": "Natural and Cultural Heritage of the Ohrid region",
+ "name_local": "",
+ "local_lang": "sq",
+ "local_lang_name": "Albanian",
+ "slug": "99-natural_and_cultural_heritage_of_the_ohr",
+ "lat": 40.900702777,
+ "lon": 20.664016666,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(iii)(iv)(vii)",
+ "year": "1979",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "北马其顿奥赫里德湖区及其腹地（包括奥赫里德市）于1979年被列入《世界遗产名录》。拓界后的遗址将覆盖位于阿尔巴尼亚境内的奥赫里德湖区、位于该湖西北部的Lin半岛以及连接该半岛与马其顿边界的沿岸地带。该半岛上存有6世纪中期建成的基督教教堂的遗迹；在靠近湖畔的浅水区有3处史前湖岸木桩建筑遗迹。奥赫里德湖不仅有着独特的自然景观，这里还生活着众多可追溯至第三纪的淡水动植物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A superlative natural phenomenon, Lake Ohrid provides a refuge for numerous endemic species of freshwater fauna and flora dating from the Tertiary period. Situated on the shores of the lake, the town of Ohrid is one of the oldest human settlements in Europe. Built mainly between the 7th and 19th centuries, it has the oldest Slav monastery (St Pantelejmon) and more than 800 Byzantine-style icons dating from the 11th to the end of the 14th century. In the shallow waters near the shores of the lake, three sites testify to the presence of prehistoric pile dwellings, and the small Lin Peninsula is the site of the remains of an Early Christian church founded in the middle of the 6th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beach%20in%20Pogradec.jpg?width=1280",
+   "title": "Beach in Pogradec.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach%20in%20Pogradec.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_99.jpg",
+   "title": "Natural and Cultural Heritage of the Ohrid region",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/99",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/99",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ohrid St. Paul the Apostle Airport",
+    "iata": "OHD",
+    "city": "Ohrid",
+    "country": "MK",
+    "lat": 41.18,
+    "lon": 20.7423,
+    "type": "large_airport",
+    "distance_km": 31.7
+   },
+   {
+    "name": "Kastoria National Airport Aristotle",
+    "iata": "KSO",
+    "city": "Argos Orestiko",
+    "country": "GR",
+    "lat": 40.446301,
+    "lon": 21.2822,
+    "type": "small_airport",
+    "distance_km": 72.6
+   },
+   {
+    "name": "Tirana International Airport Mother Teresa",
+    "iata": "TIA",
+    "city": "Rinas",
+    "country": "AL",
+    "lat": 41.4147,
+    "lon": 19.7206,
+    "type": "large_airport",
+    "distance_km": 97.5
+   }
+  ],
+  "nearest_airport_km": 31.7,
+  "distance_beijing_km": 7625.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AL",
+  "country_zh": "阿尔巴尼亚",
+  "country_en": "Albania",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6][8]",
+  "notes": "90 days within any 180 day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AL",
+   "country_zh": "阿尔巴尼亚",
+   "country_en": "Albania",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6][8]",
+   "notes": "90 days within any 180 day period."
+  },
+  {
+   "iso2": "MK",
+   "country_zh": "北马其顿",
+   "country_en": "North Macedonia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa or a residence permit issued by a Schengen Area member state for stays up to 15 days if the visa is valid for at least five days beyond the period of intended stay in North Macedonia. Until 31 December 2026, national visa may be substituted with a v"
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "sq",
+  "local_lang_name": "Albanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 13
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/99"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Natural%20and%20Cultural%20Heritage%20of%20the%20Ohrid%20Region%20%28Albania%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

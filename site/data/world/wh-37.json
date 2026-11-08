@@ -1,0 +1,162 @@
+{
+ "id": "wh-37",
+ "unesco_id": "37",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 524,
+ "popularity_score": 12503,
+ "country": "TN",
+ "country_zh": "突尼斯",
+ "country_en": "Tunisia",
+ "countries": [
+  {
+   "iso2": "TN",
+   "zh": "突尼斯",
+   "en": "Tunisia"
+  }
+ ],
+ "region": "District of Tunis",
+ "subdivision_iso": "TN-11",
+ "subdivision_zh": "突尼斯省",
+ "subdivision_en": "Tunis Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "迦太基遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Carthage",
+ "name_local": "موقع قرطاج الأثري",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "37-archaeological_site_of_carthage",
+ "lat": 36.85788,
+ "lon": 10.33084,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "迦太基毗邻突尼斯湾，始建于公元前9世纪。自公元6世纪起，迦太基逐步发展成为一个强大的贸易帝国，也创造了一段辉煌的文明。其领土曾扩展到地中海大部分地区。在漫长的布匿战争中，迦太基占领了罗马的领土，但最终于公元前146年被罗马打败。第二个罗马迦太基城建立在古迦太基的废墟之上。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Carthage was founded in the 9th century B.C. on the Gulf of Tunis. From the 6th century onwards, it developed into a great trading empire covering much of the Mediterranean and was home to a brilliant civilization. In the course of the long Punic wars, Carthage occupied territories belonging to Rome, which finally destroyed its rival in 146 B.C. A second – Roman – Carthage was then established on the ruins of the first.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تأسست قرطاج في القرن التاسع قبل الميلاد عند خليج تونس ثم تحولت ابتداء من القرن السادس الى امبراطورية تجارية شغلت جزءاً كبيراً من منطقة البحر المتوسط وشكلت مركزاً تجارياً لحضارة ساطعة. كما انها احتلت اراضي من روما خلال الحروب البونيقية، لكن هذه الأخيرة قضت عليها نهائياً عام 146 قبل الميلاد فقامت على أنقاضها قرطاج ثانية رومانية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Archaeological%20Site%20of%20Carthage-130237.jpg?width=1280",
+   "title": "Archaeological Site of Carthage-130237.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Archaeological%20Site%20of%20Carthage-130237.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_37.jpg",
+   "title": "Archaeological Site of Carthage",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/37",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/37",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tunis Carthage International Airport",
+    "iata": "TUN",
+    "city": "Tunis",
+    "country": "TN",
+    "lat": 36.851002,
+    "lon": 10.2272,
+    "type": "large_airport",
+    "distance_km": 9.3
+   },
+   {
+    "name": "Enfidha - Hammamet International Airport",
+    "iata": "NBE",
+    "city": "Enfidha",
+    "country": "TN",
+    "lat": 36.075833,
+    "lon": 10.438611,
+    "type": "medium_airport",
+    "distance_km": 87.5
+   },
+   {
+    "name": "Monastir Habib Bourguiba International Airport",
+    "iata": "MIR",
+    "city": "Monastir",
+    "country": "TN",
+    "lat": 35.75809860229492,
+    "lon": 10.75469970703125,
+    "type": "medium_airport",
+    "distance_km": 128.1
+   }
+  ],
+  "nearest_airport_km": 9.3,
+  "distance_beijing_km": 8635.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TN",
+  "country_zh": "突尼斯",
+  "country_en": "Tunisia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TN",
+   "country_zh": "突尼斯",
+   "country_en": "Tunisia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/37"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Archaeological%20site%20of%20Carthage"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

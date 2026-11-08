@@ -1,0 +1,162 @@
+{
+ "id": "wh-1610",
+ "unesco_id": "1610",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 722,
+ "popularity_score": 5117,
+ "country": "ID",
+ "country_zh": "印度尼西亚",
+ "country_en": "Indonesia",
+ "countries": [
+  {
+   "iso2": "ID",
+   "zh": "印度尼西亚",
+   "en": "Indonesia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ID-SB",
+ "subdivision_zh": "西苏门答腊省",
+ "subdivision_en": "West Sumatra",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "沙哇伦多的翁比林煤矿遗产",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ombilin Coal Mining Heritage of Sawahlunto",
+ "name_local": "Tambang Batu Bara Ombilin",
+ "local_lang": "id",
+ "local_lang_name": "Indonesian",
+ "slug": "1610-ombilin_coal_mining_heritage_of_sawahlun",
+ "lat": -0.683333,
+ "lon": 100.767,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这一工业遗址由荷兰殖民政府于19世纪末至20世纪初建设，用于开采、加工和运输苏门答腊一偏远地区的优质煤炭。建造该工程的劳动力包括在当地招募的劳工和来自荷兰属地的劳改犯。遗址包含采矿地、矿区集镇、位于德魯巴羽港的煤炭仓储设施以及连接矿区和海港的铁路网。翁比林煤矿遗产地是一个能够进行高效的深度采矿、加工、运输和出口煤炭的综合体系。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built for the extraction, processing and transport of high-quality coal in an inaccessible region of Sumatra, this industrial site was developed by the Netherlands East Indies’ government in the globally important period of industrialisation from the late 19th to the beginning of the 20th century. The workforce was recruited from the local Minangkabau people and supplemented by Javanese and Chinese contract workers, and convict labourers from Dutch-controlled areas. It comprises the mining site and company town, coal storage facilities at the port of Emmahaven and the railway network linking the mines to the coastal facilities. The Ombilin Coal Mining Heritage was built as an integrated system that enabled the efficient deep-bore extraction, processing, transport and shipment of coal. It is also an outstanding testimony of exchange and fusion between local knowledge and practices and European technology.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Tambang Batu Bara Ombilin (dahulu PT Tambang Batubara Ombilin (TBO)) adalah tambang batu bara yang terletak dekat Sawahlunto, Sumatera Barat, Indonesia. Tambang ini berada di lembah sempit di sepanjang pegunungan Bukit Barisan, di antara bukit Polan, Pari, dan Mato, sekitar 70 kilometer (43 mi) timur laut Padang. Batu bara ditemukan pada pertengahan abad ke-19 oleh Willem Hendrik de Greve, dan penambangan dimulai di daerah tersebut pada tahun 1876. Tambang ini merupakan lokasi penambangan batu bara tertua di Asia Tenggara. Batu bara di Sawahlunto ditemukan pertama kali pada pertengahan abad ke-19 oleh Willem Hendrik de Greve. Sejak saat itu, eksploitasi batu bara dilakukan diiringi dengan pembangunan infrastruktur pendukung untuk kegiatan pertambangan. Penambangan batu bara secara signifikan mengubah lanskap Sawahlunto yang semula pedesaan menjadi situs industri. Pada 6 Juli 2019, Situs Tambang Batu Bara Ombilin secara resmi dikukuhkan sebagai Situs Warisan Dunia oleh Organisasi Pendidikan, Keilmuan, dan Kebudayaan Perserikatan Bangsa-Bangsa \"UNESCO\".",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE%20TROPENMUSEUM%20Een%20ingang%20van%20de%20Ombilin%20steenkoolmijnen%20TMnr%2020018524.jpg?width=1280",
+   "title": "COLLECTIE TROPENMUSEUM Een ingang van de Ombilin steenkoolmijnen TMnr 20018524.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:COLLECTIE%20TROPENMUSEUM%20Een%20ingang%20van%20de%20Ombilin%20steenkoolmijnen%20TMnr%2020018524.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1610.jpg",
+   "title": "Ombilin Coal Mining Heritage of Sawahlunto",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1610",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1610",
+ "transport": {
+  "airports": [
+   {
+    "name": "Minangkabau International Airport",
+    "iata": "PDG",
+    "city": "Padang (Katapiang)",
+    "country": "ID",
+    "lat": -0.785964,
+    "lon": 100.280384,
+    "type": "large_airport",
+    "distance_km": 55.3
+   },
+   {
+    "name": "Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB",
+    "iata": "PKU",
+    "city": "Pekanbaru",
+    "country": "ID",
+    "lat": 0.458647,
+    "lon": 101.444321,
+    "type": "medium_airport",
+    "distance_km": 147.6
+   },
+   {
+    "name": "Departi Parbo Airport",
+    "iata": "KRC",
+    "city": "Sungai Penuh",
+    "country": "ID",
+    "lat": -2.094042,
+    "lon": 101.47025,
+    "type": "small_airport",
+    "distance_km": 175.3
+   }
+  ],
+  "nearest_airport_km": 55.3,
+  "distance_beijing_km": 4836.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ID",
+  "country_zh": "印度尼西亚",
+  "country_en": "Indonesia",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "e-VOA / Visa on arrival[6][59]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ID",
+   "country_zh": "印度尼西亚",
+   "country_en": "Indonesia",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "e-VOA / Visa on arrival[6][59]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "id",
+  "local_lang_name": "Indonesian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 26
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1610"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ombilin%20Coal%20Mine"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

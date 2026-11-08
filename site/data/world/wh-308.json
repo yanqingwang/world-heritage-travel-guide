@@ -1,0 +1,251 @@
+{
+ "id": "wh-308",
+ "unesco_id": "308",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 24,
+ "popularity_score": 521900,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "California",
+ "subdivision_iso": "US-CA",
+ "subdivision_zh": "加利福尼亚州",
+ "subdivision_en": "California",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "约塞米特蒂国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Yosemite National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "308-yosemite_national_park",
+ "lat": 37.7425,
+ "lon": -119.5375,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "约塞米特蒂国家公园位于加利福尼亚中部，该公园给我们展示着世上罕见的由冰川作用而成的大量花岗岩形态，包括“悬空”山谷、瀑布群、冰斗湖、冰穹丘、冰碛以及U型山谷。在约塞米特蒂国家公园海拔600米至4000米的区域内，我们还可以找到各种各样的动植物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Yosemite National Park lies in the heart of California. With its 'hanging' valleys, many waterfalls, cirque lakes, polished domes, moraines and U-shaped valleys, it provides an excellent overview of all kinds of granite relief fashioned by glaciation. At 600–4,000 m, a great variety of flora and fauna can also be found here.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Half%20Dome%20with%20Eastern%20Yosemite%20Valley%20%2850MP%29.jpg?width=1280",
+   "title": "Half Dome with Eastern Yosemite Valley (50MP).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Half%20Dome%20with%20Eastern%20Yosemite%20Valley%20%2850MP%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/500px_photo_%28109919815%29.jpeg/1280px-500px_photo_%28109919815%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "500px photo (109919815).jpeg",
+   "author": "Swanster",
+   "license": "CC BY 3.0",
+   "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+   "source": "https://commons.wikimedia.org/wiki/File:500px_photo_%28109919815%29.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bomen_in_Yosemite_park%2C_RP-F-F16143.jpg/1280px-Bomen_in_Yosemite_park%2C_RP-F-F16143.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bomen in Yosemite park, RP-F-F16143.jpg",
+   "author": "Rijksmuseum",
+   "license": "CC0",
+   "credit": "http://hdl.handle.net/10934/RM0001.COLLECT.254426",
+   "source": "https://commons.wikimedia.org/wiki/File:Bomen_in_Yosemite_park%2C_RP-F-F16143.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Cali-46-solo_tree_%286558647667%29.jpg/1280px-Cali-46-solo_tree_%286558647667%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cali-46-solo tree (6558647667).jpg",
+   "author": "Weldon Kennedy from London, UK",
+   "license": "CC BY 2.0",
+   "credit": "cali-46-solo tree",
+   "source": "https://commons.wikimedia.org/wiki/File:Cali-46-solo_tree_%286558647667%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/California_%289973881465%29.jpg/1280px-California_%289973881465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "California (9973881465).jpg",
+   "author": "Kate Nevens",
+   "license": "CC BY 2.0",
+   "credit": "Flickr",
+   "source": "https://commons.wikimedia.org/wiki/File:California_%289973881465%29.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/308",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mammoth Yosemite Airport",
+    "iata": "MMH",
+    "city": "Mammoth Lakes",
+    "country": "US",
+    "lat": 37.625381,
+    "lon": -118.84306,
+    "type": "medium_airport",
+    "distance_km": 62.5
+   },
+   {
+    "name": "Merced Regional Macready Field",
+    "iata": "MCE",
+    "city": "Merced",
+    "country": "US",
+    "lat": 37.284698,
+    "lon": -120.514,
+    "type": "medium_airport",
+    "distance_km": 100.0
+   },
+   {
+    "name": "Fresno Yosemite International Airport",
+    "iata": "FAT",
+    "city": "Fresno",
+    "country": "US",
+    "lat": 36.775767,
+    "lon": -119.718018,
+    "type": "large_airport",
+    "distance_km": 108.7
+   }
+  ],
+  "nearest_airport_km": 62.5,
+  "distance_beijing_km": 9694.0,
+  "ferry_terminals": [
+   {
+    "name": "Saddlebag Lake Resort Water Taxi",
+    "name_en": null,
+    "lat": 37.966768,
+    "lon": -119.2710416,
+    "distance_km": 34.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "Holiday Inn Express & Suites Oakhurst-Yosemite Park Area",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 37.3408983,
+   "lon": -119.6441747,
+   "distance_km": 45.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn Oakhurst-Yosemite",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 37.3395133,
+   "lon": -119.6448185,
+   "distance_km": 45.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yosemite Gateway Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 37.3354083,
+   "lon": -119.6464274,
+   "distance_km": 46.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BEST WESTERN PLUS Yosemite Way Station Motel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.4826248,
+   "lon": -119.9641184,
+   "distance_km": 47.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Westin Monache Resort, Mammoth",
+   "name_en": null,
+   "stars": null,
+   "brand": "Westin",
+   "lat": 37.6491594,
+   "lon": -118.9862845,
+   "distance_km": 49.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 77
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/308"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yosemite%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-1183",
+ "unesco_id": "1183",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 910,
+ "popularity_score": null,
+ "country": "TZ",
+ "country_zh": "坦桑尼亚",
+ "country_en": "Tanzania",
+ "countries": [
+  {
+   "iso2": "TZ",
+   "zh": "坦桑尼亚",
+   "en": "Tanzania"
+  }
+ ],
+ "region": "Region Dodoma, District Kondoa",
+ "subdivision_iso": "TZ-03",
+ "subdivision_zh": "",
+ "subdivision_en": "Dodoma Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "孔多阿岩画遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kondoa Rock-Art Sites",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1183-kondoa_rock-art_sites",
+ "lat": -4.72444,
+ "lon": 35.83389,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "2006",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "孔多阿岩画遗址位于东非大裂谷相连的马赛峭壁的东坡上，这是一处天然的岩荫，悬挂在被裂谷断层分开的沉积岩上。两千多年来，这些垂悬的岩壁被人们用作岩画的画板。这些壮观的岩画分布在150多个岩荫上，面积超过2336平方公里，很多具有极高的艺术价值。这些岩画按照一定的顺序排列，以一种独特方式展示了从狩猎采摘的原始社会到农牧时代该地区社会经济基础的变迁，以及人们的信仰和观念。其中一些岩荫至今仍被认为与附近居民的宗教仪式有关，反映了他们的信仰、仪式和传统的世界观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "On the eastern slopes of the Masai escarpment bordering the Great Rift Valley are natural rock shelters, overhanging slabs of sedimentary rocks fragmented by rift faults, whose vertical planes have been used for rock paintings for at least two millennia. The spectacular collection of images from over 150 shelters over 2,336 km 2 , many with high artistic value, displays sequences that provide a unique testimony to the changing socio-economic base of the area from hunter-gatherer to agro-pastoralist, and the beliefs and ideas associated with the different societies. Some of the shelters are still considered to have ritual associations with the people who live nearby, reflecting their beliefs, rituals and cosmological traditions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1183.jpg",
+   "title": "Kondoa Rock-Art Sites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1183",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1183",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dodoma Airport",
+    "iata": "DOD",
+    "city": "Dodoma",
+    "country": "TZ",
+    "lat": -6.170559,
+    "lon": 35.756036,
+    "type": "medium_airport",
+    "distance_km": 161.0
+   },
+   {
+    "name": "Arusha Airport",
+    "iata": "ARK",
+    "city": "Arusha",
+    "country": "TZ",
+    "lat": -3.3677899837493896,
+    "lon": 36.63330078125,
+    "type": "medium_airport",
+    "distance_km": 175.0
+   },
+   {
+    "name": "Kilimanjaro International Airport",
+    "iata": "JRO",
+    "city": "Arusha",
+    "country": "TZ",
+    "lat": -3.427049,
+    "lon": 37.07353,
+    "type": "large_airport",
+    "distance_km": 199.3
+   }
+  ],
+  "nearest_airport_km": 161.0,
+  "distance_beijing_km": 9675.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TZ",
+  "country_zh": "坦桑尼亚",
+  "country_en": "Tanzania",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6][146]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TZ",
+   "country_zh": "坦桑尼亚",
+   "country_en": "Tanzania",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6][146]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1183"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1471",
+ "unesco_id": "1471",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 604,
+ "popularity_score": 9598,
+ "country": "IL",
+ "country_zh": "以色列",
+ "country_en": "Israel",
+ "countries": [
+  {
+   "iso2": "IL",
+   "zh": "以色列",
+   "en": "Israel"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IL-HA",
+ "subdivision_zh": "海法区",
+ "subdivision_en": "Haifa District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "贝特沙瑞姆大型公墓—犹太复兴中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+ "name_local": "בית שערים",
+ "local_lang": "he",
+ "local_lang_name": "Hebrew",
+ "slug": "1471-necropolis_of_bet_she’arim:_a_landmark_o",
+ "lat": 32.704166666,
+ "lon": 35.128055555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2015",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这片由一系列墓穴组成的遗产地位于耶路撒冷城外。这里从公元前二世纪开始不断发展，在第二次犹太人反抗罗马统治的革命失败后，这里成为犹太人的主要墓葬地。这些位于海法东南部的墓穴是一个由希伯来语、亚拉姆语和希腊语铭文及其它艺术形式构成的艺术宝库。公元135年后，古犹太人在族长拉比犹大的领导下实现犹太复兴，这片遗产地正是这一时期历史的独特见证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Consisting of a series of catacombs, the necropolis developed from the 2 nd century AD as the primary Jewish burial place outside Jerusalem following the failure of the second Jewish revolt against Roman rule. Located southeast of the city of Haifa, these catacombs are a treasury of artworks and inscriptions in Greek, Aramaic, Hebrew and Palmyrene. Bet She’arim bears unique testimony to ancient Judaism under the leadership of Rabbi Judah the Patriarch, who is credited with Jewish renewal after 135 AD.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "בית שערים הוא אתר ארכאולוגי הכולל נקרופוליס השוכן בגליל התחתון. במקום התקיים יישוב יהודי חשוב בתקופת בית שני, המשנה והתלמוד. שיא פריחת היישוב הייתה בין המאות ה-2 וה-4 לספירה, עת שהתה בו הסנהדרין בראשותו של רבי יהודה הנשיא. האתר הוכרז כגן לאומי וב-2015 כאתר מורשת עולמי. בית שערים הקדומה ממוקמת על גבעת שייח' אבריק ליד קריית טבעון של ימינו. הגבעה נמצאת על אחת מהשלוחות הדרומיות של הגליל התחתון וניתן להשקיף ממנה על עמק יזרעאל מדרום-מזרח ועל הר הכרמל ממערב. ב-5 ביולי 2015 הוכרז בית שערים כאתר מורשת עולמית של אונסק\"ו.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cave%20of%20coffins.jpg?width=1280",
+   "title": "Cave of coffins.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Cave%20of%20coffins.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1471.jpg",
+   "title": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1471",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1471",
+ "transport": {
+  "airports": [
+   {
+    "name": "Uri Michaeli Haifa International Airport",
+    "iata": "HFA",
+    "city": "Haifa",
+    "country": "IL",
+    "lat": 32.810219,
+    "lon": 35.043719,
+    "type": "medium_airport",
+    "distance_km": 14.2
+   },
+   {
+    "name": "Ben Gurion International Airport",
+    "iata": "TLV",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.011398,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "distance_km": 80.3
+   },
+   {
+    "name": "Marka International (Amman Civil) Airport",
+    "iata": "ADJ",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "distance_km": 114.9
+   }
+  ],
+  "nearest_airport_km": 14.2,
+  "distance_beijing_km": 7080.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IL",
+  "country_zh": "以色列",
+  "country_en": "Israel",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IL",
+   "country_zh": "以色列",
+   "country_en": "Israel",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "he",
+  "local_lang_name": "Hebrew",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 26
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1471"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Beit%20She%27arim%20necropolis"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:47Z"
+}

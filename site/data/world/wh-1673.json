@@ -1,0 +1,162 @@
+{
+ "id": "wh-1673",
+ "unesco_id": "1673",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 740,
+ "popularity_score": 4665,
+ "country": "BA",
+ "country_zh": "波斯尼亚和黑塞哥维那",
+ "country_en": "Bosnia and Herzegovina",
+ "countries": [
+  {
+   "iso2": "BA",
+   "zh": "波斯尼亚和黑塞哥维那",
+   "en": "Bosnia and Herzegovina"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BA-07",
+ "subdivision_zh": "黑塞哥维那-内雷特瓦州",
+ "subdivision_en": "Herzegovina-Neretva Canton",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "拉夫诺的岩溶风洞",
+ "name_zh_source": "unesco_official",
+ "name_en": "Vjetrenica Cave, Ravno",
+ "name_local": "Vjetrenica",
+ "local_lang": "hr",
+ "local_lang_name": "Croatian",
+ "slug": "1673-vjetrenica_cave,_ravno",
+ "lat": 42.845833333,
+ "lon": 17.983888888,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "2024",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "拉夫诺（Ravno）的岩溶风洞位于迪纳拉山脉，以出众的洞穴生物多样性和特有性而闻名于世。这里自古便为人所知，其喀斯特地貌保存完好，是世界最重要的穴居动物（尤其地下水生动物）多样性热点地区之一。洞中栖居着许多在世界范围受到生存威胁的脊椎动物、全球唯一的地下管虫，以及多种巴尔干地区特有的植物。此外，洞穴中发现的一些物种是第三纪和前第三纪的孑遗物种，其中许多物种的近亲早已在很久以前灭绝，因此可称为活化石。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in the Dinaric mountain range, the property stands out with its remarkable cave biodiversity and endemicity. Known since antiquity, the well-conserved representation of karst topography is one of the world’s most important biodiversity hotspots for cave-dwelling fauna, notably subterranean aquatic fauna. It is home to a number of globally threatened vertebrate species, and the only subterranean tubeworm in the world, as well as a diversity of plant species endemic to the Balkans. Additionally, several of the species found in Vjetrenica Cave are tertiary and pre-tertiary relict species, meaning that many of them can be considered living fossils whose closest relatives went extinct a long time ago.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Vjetrenica je najveća i najpoznatija špilja u Bosni i Hercegovini, zaštićeni spomenik prirode i turističko odredište u jugoistočnom dijelu Hercegovine. Godine 2023. upisana je na UNESCO-ov popis mjesta svjetske baštine u Europi kao jedno je od najvažnijih svjetskih žarišta bioraznolikosti špiljske faune, posebno podzemne vodene faune i biljnih vrsta endemičnihične za Balkan.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vjetrenica%20Cave.JPG?width=1280",
+   "title": "Vjetrenica Cave.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vjetrenica%20Cave.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1673.jpg",
+   "title": "Vjetrenica Cave, Ravno",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1673",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1673",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dubrovnik Ruđer Bošković Airport",
+    "iata": "DBV",
+    "city": "Dubrovnik",
+    "country": "HR",
+    "lat": 42.562247,
+    "lon": 18.265543,
+    "type": "large_airport",
+    "distance_km": 39.0
+   },
+   {
+    "name": "Mostar International Airport",
+    "iata": "OMO",
+    "city": "Mostar",
+    "country": "BA",
+    "lat": 43.282489,
+    "lon": 17.846101,
+    "type": "large_airport",
+    "distance_km": 49.8
+   },
+   {
+    "name": "Tivat Airport",
+    "iata": "TIV",
+    "city": "Tivat",
+    "country": "ME",
+    "lat": 42.404701,
+    "lon": 18.723301,
+    "type": "medium_airport",
+    "distance_km": 77.9
+   }
+  ],
+  "nearest_airport_km": 39.0,
+  "distance_beijing_km": 7702.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BA",
+  "country_zh": "波斯尼亚和黑塞哥维那",
+  "country_en": "Bosnia and Herzegovina",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180 day period.[29]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BA",
+   "country_zh": "波斯尼亚和黑塞哥维那",
+   "country_en": "Bosnia and Herzegovina",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180 day period.[29]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "hr",
+  "local_lang_name": "Croatian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1673"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vjetrenica%20Cave"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

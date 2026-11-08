@@ -1,0 +1,162 @@
+{
+ "id": "wh-660",
+ "unesco_id": "660",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 511,
+ "popularity_score": 13083,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "Nara Prefecture",
+ "subdivision_iso": "JP-29",
+ "subdivision_zh": "奈良县",
+ "subdivision_en": "Nara Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "法隆寺地区的佛教古迹",
+ "name_zh_source": "unesco_official",
+ "name_en": "Buddhist Monuments in the Horyu-ji Area",
+ "name_local": "法隆寺地域の仏教建造物",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "660-buddhist_monuments_in_the_horyu-ji_area",
+ "lat": 34.614275,
+ "lon": 135.734236,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(vi)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在奈良县的法隆寺地区，约有48座佛教建筑，其中有一些建于公元7世纪末至8世纪初，是世界上现存最古老的木结构建筑。这些木结构建筑杰作的重要性不仅仅在于它们展现了中国佛教建筑与日本文化的艺术融合历史，还在于它们标志着宗教史发展的一个重要时期，因为修建这些建筑的时候正是中国佛教经朝鲜半岛传入日本的时期。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "There are around 48 Buddhist monuments in the Horyu-ji area, in Nara Prefecture. Several date from the late 7th or early 8th century, making them some of the oldest surviving wooden buildings in the world. These masterpieces of wooden architecture are important not only for the history of art, since they illustrate the adaptation of Chinese Buddhist architecture and layout to Japanese culture, but also for the history of religion, since their construction coincided with the introduction of Buddhism to Japan from China by way of the Korean peninsula.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "法隆寺地域の仏教建造物（ほうりゅうじちいきのぶっきょうけんぞうぶつ）は、奈良県生駒郡斑鳩町にあるユネスコの世界遺産（文化遺産）。法隆寺および法起寺の建造物から構成される。姫路城とともに日本初の世界遺産として登録された。 この遺産には法隆寺の建造物47棟と法起寺の三重塔を加えた48棟が含まれる。法隆寺をはじめとするこの地域の仏教建築物は聖徳太子と縁が深く、中国の六朝時代の建築の影響を多大に受けている。特に、法隆寺の西院伽藍は、建築年代に諸説あるが世界最古の木造建築として国際的にも著名である。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Horyu-ji10s3200.jpg?width=1280",
+   "title": "Horyu-ji10s3200.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Horyu-ji10s3200.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_660.jpg",
+   "title": "Buddhist Monuments in the Horyu-ji Area",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/660",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/660",
+ "transport": {
+  "airports": [
+   {
+    "name": "Osaka Itami International Airport",
+    "iata": "ITM",
+    "city": "Osaka",
+    "country": "JP",
+    "lat": 34.780853,
+    "lon": 135.440829,
+    "type": "large_airport",
+    "distance_km": 32.6
+   },
+   {
+    "name": "Kobe Airport",
+    "iata": "UKB",
+    "city": "Kobe",
+    "country": "JP",
+    "lat": 34.632801,
+    "lon": 135.223999,
+    "type": "large_airport",
+    "distance_km": 46.7
+   },
+   {
+    "name": "Kansai International Airport",
+    "iata": "KIX",
+    "city": "Osaka",
+    "country": "JP",
+    "lat": 34.427299,
+    "lon": 135.244003,
+    "type": "large_airport",
+    "distance_km": 49.5
+   }
+  ],
+  "nearest_airport_km": 32.6,
+  "distance_beijing_km": 1762.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 25
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/660"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buddhist%20Monuments%20in%20the%20H%C5%8Dry%C5%AB-ji%20Area"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

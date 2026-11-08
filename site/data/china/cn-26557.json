@@ -1,0 +1,148 @@
+{
+ "id": "cn-26557",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "福建省",
+ "province_en": "Fujian",
+ "province_iso": "CN-FJ",
+ "city_zh": "龙岩市",
+ "city_en": "Longyan",
+ "name_zh": "龙岩市冠豸山景区",
+ "name_en": "Guanzhishan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "longyanshiguanzhishan-26557",
+ "lat": 25.721,
+ "lon": 116.81794,
+ "address_zh": "龙岩市连城县豸前街冠豸山景区",
+ "address_en": "Guanzhishan Scenic Area, Zhiqian Street, Liancheng County, Longyan City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "冠豸山，位于连城县城东郊，距城区1公里，宋称“东田石”，元称“莲峰山”。明代名儒黄公甫，在滴珠岩上题刻字高2米、刚劲有力的“冠廌 ”二字（廌为豸的古体字）。相传獬豸为古时灵兽，能辨曲直，遇恶人则以角触之，旧时执法官之帽即为“獬豸冠”，由于豸冠的含义正好符合历代连城人民祈盼执法无私、公正廉明盛世到来的愿望，于是莲峰山渐次淡忘，冠豸山成了正名。\n    冠豸山顶为主峰灵芝峰与五老峰。灵芝峰相对高度为660.8米，是冠豸山最高主峰，形似一朵千年灵芝，故有此名。其西南向为五老峰，登崎岖险道，上峰顶平坦开阔，可容数百人。",
+ "intro_en": "Guanzhi Mountain is located in the eastern suburbs of Liancheng County, 1 km away from the urban area. It was called \"Dongtian Stone\" in the Song Dynasty and \"Lianfeng Mountain\" in the Yuan Dynasty. Huang Gongfu, a famous Confucian in the Ming Dynasty, inscribed the two-meter-high and powerful \"Guanchi\" (富 means \"豸\") on Didhu Rock. According to legend, the Haechi is an ancient spiritual animal that can tell right from the wrong and touch evildoers with its horns. The hat of the old law enforcement officers was the \"Haechi Crown\". Since the meaning of the Haechi Crown coincides with the people of Liancheng in the past generations who prayed for a prosperous age of selfless law enforcement, justice and honesty, Lianfeng Mountain was gradually forgotten, and Guanzhi Mountain became the correct name.\nThe main peaks of Guanzhi Mountain are Ganoderma Peak and Wulao Peak. With a relative height of 660.8 meters, Ganoderma Peak is the highest peak in Guanzhi Mountain and looks like a thousand-year-old Ganoderma lucidum, hence its name. To the southwest is Wulao Peak, which has a rugged and dangerous climb. The top of the peak is flat and open, and can accommodate hundreds of people.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/%E7%81%B5%E8%8A%9D%E5%B3%B0%E9%A1%B6%E7%9C%8B%E9%95%BF%E5%AF%BF%E4%BA%AD_-_View_of_Longevity_Pavilion_from_the_Glossy_Ganoderma_Peak_-_2010.07_-_panoramio.jpg/1280px-%E7%81%B5%E8%8A%9D%E5%B3%B0%E9%A1%B6%E7%9C%8B%E9%95%BF%E5%AF%BF%E4%BA%AD_-_View_of_Longevity_Pavilion_from_the_Glossy_Ganoderma_Peak_-_2010.07_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "灵芝峰顶看长寿亭 - View of Longevity Pavilion from the Glossy Ganoderma Peak - 2010.07 - panoramio.jpg",
+   "author": "rheins",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161017064211/http://www.panoramio.com/photo/47043352",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%81%B5%E8%8A%9D%E5%B3%B0%E9%A1%B6%E7%9C%8B%E9%95%BF%E5%AF%BF%E4%BA%AD_-_View_of_Longevity_Pavilion_from_the_Glossy_Ganoderma_Peak_-_2010.07_-_panoramio.jpg"
+  }
+ ],
+ "web": "http://www.lcxgzs.cn/",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Liancheng Guanzhishan Airport",
+    "iata": "LCX",
+    "city": "Longyan (Liancheng)",
+    "country": "CN",
+    "lat": 25.67592,
+    "lon": 116.745907,
+    "type": "medium_airport",
+    "distance_km": 8.8
+   },
+   {
+    "name": "Sanming Shaxian Airport",
+    "iata": "SQJ",
+    "city": "Sanming (Sha)",
+    "country": "CN",
+    "lat": 26.4263,
+    "lon": 117.8336,
+    "type": "medium_airport",
+    "distance_km": 128.2
+   },
+   {
+    "name": "Meizhou Meixian Changgangji International Airport",
+    "iata": "MXZ",
+    "city": "Meizhou (Meixian)",
+    "country": "CN",
+    "lat": 24.263425,
+    "lon": 116.097857,
+    "type": "small_airport",
+    "distance_km": 177.6
+   }
+  ],
+  "nearest_airport_km": 8.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "冠豸山",
+    "name_en": "Guanzhishan",
+    "lat": 25.743351,
+    "lon": 116.7174411,
+    "distance_km": 10.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杨源",
+    "name_en": "Yangyuan",
+    "lat": 25.8467299,
+    "lon": 116.7946028,
+    "distance_km": 14.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "文亨",
+    "name_en": "Wenheng",
+    "lat": 25.6294838,
+    "lon": 116.7114758,
+    "distance_km": 14.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "冠豸山邮电度假村",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.7041983,
+   "lon": 116.7802468,
+   "distance_km": 4.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/冠豸山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

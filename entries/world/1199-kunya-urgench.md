@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)"
 lat: 42.3261336
 lon: 59.1530707
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:42Z"
 ---
 
 # 库尼亚－乌尔根奇 / Kunya-Urgench

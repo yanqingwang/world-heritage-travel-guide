@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iv)"
 lat: 36.191
 lon: 44.009
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:47Z"
 ---
 
 # 埃尔比勒城堡 / Erbil Citadel

@@ -1,0 +1,298 @@
+{
+ "id": "wh-916",
+ "unesco_id": "916",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 114,
+ "popularity_score": 121931,
+ "country": "ZA",
+ "country_zh": "南非",
+ "country_en": "South Africa",
+ "countries": [
+  {
+   "iso2": "ZA",
+   "zh": "南非",
+   "en": "South Africa"
+  }
+ ],
+ "region": "Western Cape Province",
+ "subdivision_iso": "ZA-WC",
+ "subdivision_zh": "西开普省",
+ "subdivision_en": "Western Cape",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "罗布恩岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Robben Island",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "916-robben_island",
+ "lat": -33.805,
+ "lon": 18.37,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从17世纪到20世纪罗布恩岛曾有过不同的用途，它曾经是监狱、不受社会欢迎的人的医院和军事基地。这里的建筑，特别是那些在20世纪后期的建筑，如用来关押政治犯的监狱，见证了民主和自由战胜压迫和种族主义的过程。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Robben Island was used at various times between the 17th and 20th centuries as a prison, a hospital for socially unacceptable groups and a military base. Its buildings, particularly those of the late 20th century such as the maximum security prison for political prisoners, witness the triumph of democracy and freedom over oppression and racism.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robben%20Island%20-%20Cape%20Town%2C%20South%20Africa%20%283883849594%29.jpg?width=1280",
+   "title": "Robben Island - Cape Town, South Africa (3883849594).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Robben%20Island%20-%20Cape%20Town%2C%20South%20Africa%20%283883849594%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/1280px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Robben Island - Cape Town, South Africa (3883849594).jpg",
+   "author": "South African Tourism from South Africa",
+   "license": "CC BY 2.0",
+   "credit": "Robben Island - Cape Town, South Africa",
+   "source": "https://commons.wikimedia.org/wiki/File:Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Robben Island.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Robben_Island.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1910-10-29_Robben_Island_whalers_Carmen_and_Vard%C3%B8hus_aground.jpg/1280px-1910-10-29_Robben_Island_whalers_Carmen_and_Vard%C3%B8hus_aground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1910-10-29 Robben Island whalers Carmen and Vardøhus aground.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "[1]",
+   "source": "https://commons.wikimedia.org/wiki/File:1910-10-29_Robben_Island_whalers_Carmen_and_Vard%C3%B8hus_aground.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/2005_1022Image0071.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "2005 1022Image0071.JPG",
+   "author": "Dingy",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2005_1022Image0071.JPG"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/916",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cape Town International Airport",
+    "iata": "CPT",
+    "city": "Cape Town",
+    "country": "ZA",
+    "lat": -33.97403,
+    "lon": 18.604333,
+    "type": "large_airport",
+    "distance_km": 28.7
+   },
+   {
+    "name": "George Airport",
+    "iata": "GRJ",
+    "city": "George",
+    "country": "ZA",
+    "lat": -34.0056,
+    "lon": 22.378902,
+    "type": "large_airport",
+    "distance_km": 370.6
+   }
+  ],
+  "nearest_airport_km": 28.7,
+  "distance_beijing_km": 12966.3,
+  "ferry_terminals": [
+   {
+    "name": "Murray's Harbour",
+    "name_en": null,
+    "lat": -33.7981967,
+    "lon": 18.3773817,
+    "distance_km": 1.0,
+    "operator": null
+   },
+   {
+    "name": "Nelson Mandela Gateway to Robben Island",
+    "name_en": null,
+    "lat": -33.90647,
+    "lon": 18.4225194,
+    "distance_km": 12.3,
+    "operator": null
+   },
+   {
+    "name": "Houtbaai",
+    "name_en": null,
+    "lat": -34.0515711,
+    "lon": 18.347934,
+    "distance_km": 27.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "The \"Blue Train\"",
+    "name_en": null,
+    "lat": -33.902529,
+    "lon": 18.3988862,
+    "distance_km": 11.2,
+    "operator": null
+   },
+   {
+    "name": "Cape Town Station",
+    "name_en": "Cape Town",
+    "lat": -33.9224221,
+    "lon": 18.4263523,
+    "distance_km": 14.1,
+    "operator": "Metrorail"
+   },
+   {
+    "name": "Esplanade",
+    "name_en": null,
+    "lat": -33.9236869,
+    "lon": 18.4459658,
+    "distance_km": 14.9,
+    "operator": "Metrorail"
+   },
+   {
+    "name": "Woodstock",
+    "name_en": null,
+    "lat": -33.9253129,
+    "lon": 18.446164,
+    "distance_km": 15.1,
+    "operator": "Metrorail"
+   },
+   {
+    "name": "Paarden Eiland",
+    "name_en": "Paarden Eiland",
+    "lat": -33.9224742,
+    "lon": 18.4669547,
+    "distance_km": 15.8,
+    "operator": null
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "One and Only",
+   "name_en": null,
+   "stars": 7,
+   "brand": null,
+   "lat": -33.9087291,
+   "lon": 18.4164332,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Hotel Waterfront",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -33.8993915,
+   "lon": 18.4122622,
+   "distance_km": 11.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Victoria & Alfred Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -33.9061595,
+   "lon": 18.4201019,
+   "distance_km": 12.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": -33.9189494,
+   "lon": 18.4222213,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Cape Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": -33.9214316,
+   "lon": 18.4157801,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "ZA",
+  "country_zh": "南非",
+  "country_en": "South Africa",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Electronic Travel Authorization / eVisa[136]",
+  "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZA",
+   "country_zh": "南非",
+   "country_en": "South Africa",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Electronic Travel Authorization / eVisa[136]",
+   "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 69
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/916"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Robben%20Island"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

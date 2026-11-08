@@ -1,0 +1,162 @@
+{
+ "id": "wh-378",
+ "unesco_id": "378",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1078,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Provinces of Teruel and Zaragoza, Autonomous Community of Aragon",
+ "subdivision_iso": "ES-AR",
+ "subdivision_zh": "阿拉贡",
+ "subdivision_en": "Aragon",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿拉贡的穆德哈尔式建筑",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mudejar Architecture of Aragon",
+ "name_local": "Arquitectura mudéjar de Aragón",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "378-mudejar_architecture_of_aragon",
+ "lat": 40.34389,
+ "lon": -1.10722,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元12世纪穆德哈尔艺术的发展与收复国土后西班牙当时的政治、社会和文化状况息息相关。这种艺术形式不仅受到了伊斯兰传统的影响，而且还体现出了当时欧洲的风格，特别是哥特式风格。从公元17世纪初一直到现在，这种艺术风格在建筑中，特别是在钟楼建筑中，以创造性地精妙使用砖块和釉面砖而闻名。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The development in the 12th century of Mudejar art in Aragon resulted from the particular political, social and cultural conditions that prevailed in Spain after the Reconquista. This art, influenced by Islamic tradition, also reflects various contemporary European styles, particularly the Gothic. Present until the early 17th century, it is characterized by an extremely refined and inventive use of brick and glazed tiles in architecture, especially in the belfries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La aparición del arte mudéjar en Aragón, hacia el siglo XII, se debió a las peculiares condiciones políticas, sociales y culturales de la España de la Reconquista. Influenciado en parte por el arte islámico, el mudéjar también muestra huellas de las tendencias coetáneas de los estilos arquitectónicos europeos, en particular el gótico. Los monumentos mudéjares –cuya construcción se prolongó hasta principios del siglo XVII– se caracterizan por una utilización sumamente refinada e ingeniosa del ladrillo y la cerámica vidriada, sobre todo en los campanarios.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20de%20la%20Aljaferia.JPG?width=1280",
+   "title": "Vista de la Aljaferia.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vista%20de%20la%20Aljaferia.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_378.jpg",
+   "title": "Mudejar Architecture of Aragon",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/378",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/378",
+ "transport": {
+  "airports": [
+   {
+    "name": "Castellón-Costa Azahar Airport",
+    "iata": "CDT",
+    "city": "Castellón de la Plana",
+    "country": "ES",
+    "lat": 40.213889,
+    "lon": 0.073333,
+    "type": "medium_airport",
+    "distance_km": 101.2
+   },
+   {
+    "name": "Valencia Airport",
+    "iata": "VLC",
+    "city": "Valencia",
+    "country": "ES",
+    "lat": 39.489162,
+    "lon": -0.480961,
+    "type": "large_airport",
+    "distance_km": 109.0
+   },
+   {
+    "name": "Zaragoza Airport",
+    "iata": "ZAZ",
+    "city": "Zaragoza",
+    "country": "ES",
+    "lat": 41.666199,
+    "lon": -1.04155,
+    "type": "large_airport",
+    "distance_km": 147.1
+   }
+  ],
+  "nearest_airport_km": 101.2,
+  "distance_beijing_km": 9016.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/378"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

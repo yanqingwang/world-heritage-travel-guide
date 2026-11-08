@@ -1,0 +1,176 @@
+{
+ "id": "wh-1140",
+ "unesco_id": "1140",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 522,
+ "popularity_score": 12629,
+ "country": "BJ",
+ "country_zh": "贝宁",
+ "country_en": "Benin",
+ "countries": [
+  {
+   "iso2": "BJ",
+   "zh": "贝宁",
+   "en": "Benin"
+  },
+  {
+   "iso2": "TG",
+   "zh": "多哥",
+   "en": "Togo"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "古帕玛库，巴塔马利巴人之地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Koutammakou, the Land of the Batammariba",
+ "name_local": "Koutammakou, le pays des Batammariba",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1140-koutammakou,_the_land_of_the_batammariba",
+ "lat": 10.1,
+ "lon": 1.066666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)(vi)",
+ "year": "2004",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "该遗产是位于多哥东北部的世界遗产古帕玛库景观的扩展，这里是巴塔马利巴人的家园。新增区域位于邻国贝宁，展示了巴塔马利巴人独特的土地利用方式。他们的居所被称为塔钦特（多个则称西钦）。树林、泉水、圣石、开垦成梯田的山坡、保水墙组成的网络、建房及仪式和信仰中会用到的植物物种，这些都是文化景观的组成部分。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Koutammakou landscape in north-eastern Togo and neighbouring Benin is home to the Batammariba, whose remarkable mud tower-houses are known as takienta ( sikien in the plural). Nature is strongly associated with the rituals and beliefs of society here. The landscape is exceptional due to the architecture of the tower-houses which reflect the social structure; its farmland and forest; and the associations between people and landscape. The buildings are grouped in villages, which also include ceremonial spaces, springs, sacred rocks and sites reserved for initiation ceremonies.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le paysage du Koutammakou, dans le nord-est du Togo et le Bénin voisin, abrite les Batammariba, dont les remarquables maisons-tours en terre sont connues sous le nom de takienta ( sikien au pluriel). Ici, la nature est fortement associée aux rituels et aux croyances de la société. Le paysage est exceptionnel en raison de l'architecture des maisons-tours qui reflètent la structure sociale, de ses terres agricoles et de ses forêts, et des associations entre les gens et le paysage. Les bâtiments sont regroupés en villages, qui comprennent également des espaces cérémoniels, des sources, des rochers sacrés et des sites réservés aux cérémonies d'initiation.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Togo%20Taberma%20house%2002.jpg?width=1280",
+   "title": "Togo Taberma house 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Togo%20Taberma%20house%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1140.jpg",
+   "title": "Koutammakou, the Land of the Batammariba",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1140",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1140",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yakubu Tali International Airport",
+    "iata": "TML",
+    "city": "Tamale",
+    "country": "GH",
+    "lat": 9.553909,
+    "lon": -0.86606,
+    "type": "large_airport",
+    "distance_km": 220.3
+   },
+   {
+    "name": "Ouagadougou Thomas Sankara International Airport",
+    "iata": "OUA",
+    "city": "Ouagadougou",
+    "country": "BF",
+    "lat": 12.3532,
+    "lon": -1.51242,
+    "type": "large_airport",
+    "distance_km": 376.7
+   },
+   {
+    "name": "Diori Hamani International Airport",
+    "iata": "NIM",
+    "city": "Niamey",
+    "country": "NE",
+    "lat": 13.4815,
+    "lon": 2.18361,
+    "type": "large_airport",
+    "distance_km": 395.2
+   }
+  ],
+  "nearest_airport_km": 220.3,
+  "distance_beijing_km": 11558.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BJ",
+  "country_zh": "贝宁",
+  "country_en": "Benin",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][24]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BJ",
+   "country_zh": "贝宁",
+   "country_en": "Benin",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][24]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "TG",
+   "country_zh": "多哥",
+   "country_en": "Togo",
+   "status": "evisa",
+   "days": 15,
+   "requirement": "eVisa[6][147]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1140"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Koutammakou"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

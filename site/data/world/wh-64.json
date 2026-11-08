@@ -1,0 +1,162 @@
+{
+ "id": "wh-64",
+ "unesco_id": "64",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 727,
+ "popularity_score": 4958,
+ "country": "GT",
+ "country_zh": "危地马拉",
+ "country_en": "Guatemala",
+ "countries": [
+  {
+   "iso2": "GT",
+   "zh": "危地马拉",
+   "en": "Guatemala"
+  }
+ ],
+ "region": "Department of El Peten",
+ "subdivision_iso": "GT-17",
+ "subdivision_zh": "贝登省",
+ "subdivision_en": "Petén Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "蒂卡尔国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tikal National Park",
+ "name_local": "Parque Nacional Tikal",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "64-tikal_national_park",
+ "lat": 17.21666667,
+ "lon": -89.61666667,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(iii)(iv)(ix)(x)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在丛林心脏地带的繁茂植被环绕下，坐落着玛雅文明的主要遗址之一。自公元前6世纪到公元10世纪，这里一直有人居住。作为一个举行仪式的场所，这里不但有华丽而庄严的庙宇和宫殿，也有公共的广场，可沿坡道进入。周围的乡村内还零散保留着一些民居的遗迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the heart of the jungle, surrounded by lush vegetation, lies one of the major sites of Mayan civilization, inhabited from the 6th century B.C. to the 10th century A.D. The ceremonial centre contains superb temples and palaces, and public squares accessed by means of ramps. Remains of dwellings are scattered throughout the surrounding countryside.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado en el corazón de una selva de vegetación lujuriante, Tikal es uno de los sitios más importantes de la civilización maya. Fue habitado desde el siglo VI a.C. hasta el siglo X d.C. Su centro ceremonial comprende templos y palacios soberbios, así como plazas públicas a las que se accedía por rampas. En sus alrededores hay vestigios diseminados de viviendas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Tikal%20Guatemala%202019.jpg?width=1280",
+   "title": "Parque Tikal Guatemala 2019.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Parque%20Tikal%20Guatemala%202019.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_64.jpg",
+   "title": "Tikal National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/64",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/64",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mundo Maya International Airport",
+    "iata": "FRS",
+    "city": "San Benito",
+    "country": "GT",
+    "lat": 16.913707,
+    "lon": -89.866143,
+    "type": "medium_airport",
+    "distance_km": 42.9
+   },
+   {
+    "name": "H.E Alfredo Martinez (Tower Hill) Airstrip",
+    "iata": "ORZ",
+    "city": "Orange Walk",
+    "country": "BZ",
+    "lat": 18.046767,
+    "lon": -88.583858,
+    "type": "small_airport",
+    "distance_km": 143.2
+   },
+   {
+    "name": "Philip S. W. Goldson International Airport",
+    "iata": "BZE",
+    "city": "Belize City",
+    "country": "BZ",
+    "lat": 17.539951,
+    "lon": -88.303556,
+    "type": "large_airport",
+    "distance_km": 143.9
+   }
+  ],
+  "nearest_airport_km": 42.9,
+  "distance_beijing_km": 13111.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GT",
+  "country_zh": "危地马拉",
+  "country_en": "Guatemala",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Travellers who hold an El Salvador, Honduras, or Nicaragua visa or residency permit can enter Guatemala without a visa under the Central America-4 Border Control Agreement. Since 2019, permanent residents of any European Union member state, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GT",
+   "country_zh": "危地马拉",
+   "country_en": "Guatemala",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Travellers who hold an El Salvador, Honduras, or Nicaragua visa or residency permit can enter Guatemala without a visa under the Central America-4 Border Control Agreement. Since 2019, permanent residents of any European Union member state, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 10
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/64"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tikal%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

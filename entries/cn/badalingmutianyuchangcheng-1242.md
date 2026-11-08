@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Huairou District"
 lat: 40.367951
 lon: 115.984491
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 八达岭—慕田峪长城旅游区 / Great Wall of China

@@ -1,0 +1,162 @@
+{
+ "id": "wh-42",
+ "unesco_id": "42",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 359,
+ "popularity_score": 23641,
+ "country": "BG",
+ "country_zh": "保加利亚",
+ "country_en": "Bulgaria",
+ "countries": [
+  {
+   "iso2": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria"
+  }
+ ],
+ "region": "Boyana district, Sofia",
+ "subdivision_iso": "BG-22",
+ "subdivision_zh": "索菲亞市州",
+ "subdivision_en": "Sofia City",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "博雅纳教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Boyana Church",
+ "name_local": "Боянска църква",
+ "local_lang": "bg",
+ "local_lang_name": "Bulgarian",
+ "slug": "42-boyana_church",
+ "lat": 42.644672222,
+ "lon": 23.266172222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "博雅纳教堂位于索菲亚城郊外，由三座建筑物组成。东侧的教堂最初建于公元10世纪，后于公元13世纪初由卡洛扬大总督指挥扩建。卡洛扬大总督还决定在东侧教堂旁再建一座双层教堂。第二个教堂里有绘于公元1259年的壁画，这些艺术品使该世界遗产成为了最重要的中世纪绘画收藏地之一。第三座教堂建于19世纪初，最终构成了一个完整的教堂群。该遗产是最完整、保存最完好的建筑之一，体现了东欧中世纪的艺术风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Боянската църква „Св. св. Никола и Пантелеймон“ е средновековна българска църква (придворен параклис, по-късно манастир) в софийския квартал Бояна, намиращ се в подножието на Витоша. Тя е един от културните символи на България и е включена през 1979 г. като културен паметник в Списъка на световното културно и природно наследство на ЮНЕСКО под № 42. Филиал е на Националния исторически музей от 2003 г.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boyana%20Church%202%20TB.JPG?width=1280",
+   "title": "Boyana Church 2 TB.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Boyana%20Church%202%20TB.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_42.jpg",
+   "title": "Boyana Church",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/42",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/42",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sofia Airport",
+    "iata": "SOF",
+    "city": "Sofia",
+    "country": "BG",
+    "lat": 42.696357,
+    "lon": 23.417671,
+    "type": "large_airport",
+    "distance_km": 13.7
+   },
+   {
+    "name": "Niš Constantine the Great Airport",
+    "iata": "INI",
+    "city": "Niš",
+    "country": "RS",
+    "lat": 43.336538,
+    "lon": 21.856242,
+    "type": "large_airport",
+    "distance_km": 138.1
+   },
+   {
+    "name": "Plovdiv International Airport",
+    "iata": "PDV",
+    "city": "Plovdiv",
+    "country": "BG",
+    "lat": 42.067799,
+    "lon": 24.8508,
+    "type": "large_airport",
+    "distance_km": 145.1
+   }
+  ],
+  "nearest_airport_km": 13.7,
+  "distance_beijing_km": 7347.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BG",
+  "country_zh": "保加利亚",
+  "country_en": "Bulgaria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BG",
+   "country_zh": "保加利亚",
+   "country_en": "Bulgaria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "bg",
+  "local_lang_name": "Bulgarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/42"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Boyana%20Church"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

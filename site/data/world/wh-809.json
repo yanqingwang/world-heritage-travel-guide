@@ -1,0 +1,162 @@
+{
+ "id": "wh-809",
+ "unesco_id": "809",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 393,
+ "popularity_score": 20979,
+ "country": "HR",
+ "country_zh": "克罗地亚",
+ "country_en": "Croatia",
+ "countries": [
+  {
+   "iso2": "HR",
+   "zh": "克罗地亚",
+   "en": "Croatia"
+  }
+ ],
+ "region": "County of Istria",
+ "subdivision_iso": "HR-18",
+ "subdivision_zh": "伊斯特拉县",
+ "subdivision_en": "Istria County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波雷奇历史中心的尤弗拉西苏斯大教堂建筑群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+ "name_local": "Eufrazijeva bazilika",
+ "local_lang": "hr",
+ "local_lang_name": "Croatian",
+ "slug": "809-episcopal_complex_of_the_euphrasian_basi",
+ "lat": 45.228611111,
+ "lon": 13.593611111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "波雷奇的宗教建筑群是基督教徒于4世纪初建造的，是同类建筑中保存最完整的建筑群。长方形的大教堂、正厅、洗礼池和主教殿是宗教建筑的典型代表，同时长方形的大教堂本身还以一种特殊的方式融合了古典与拜占庭风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The group of religious monuments in Porec, where Christianity was established as early as the 4th century, constitutes the most complete surviving complex of its type. The basilica, atrium, baptistery and episcopal palace are outstanding examples of religious architecture, while the basilica itself combines classical and Byzantine elements in an exceptional manner.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Eufrazijeva bazilika (Eufrazijana) u Poreču jedan je od najljepših sačuvanih spomenika rane bizantske umjetnosti na Sredozemlju. Izgrađena je u 6. stoljeću na mjestu ranokršćanske crkve, u vrijeme biskupa Eufrazija i cara Justinijana I., a nalazi se u biskupskom kompleksu. Godine 1997. UNESCO ju je proglasio Svjetskom kulturnom baštinom. Sustav Eufrazijeve bazilike čine znamenite građevine: Eufrazijeva bazilika, Župna crkva, Sakristija i cela trikora, Krstionica i zvonik, Maurov oratorij, kao i obližnji biskupski dvor, za koji je najnovijim istraživanjima utvrđeno da pripada istom bizantskom razdoblju kao i bazilika. U njemu je odnedavna smještena sakralna zbirka Porečko-pulske biskupije. Uz prezentaciju arheoloških ostataka, u prvom redu mozaika datiranih već u 3. st., u kompleksu možemo razgledati vrijedne sakralne spomenike i umjetničke predmete starokršćanskoga, ranobizantskog i srednjovjekovnog razdoblja. Bazilika, zapravo katedrala Uznesenja Marijina, počela se graditi 553. na temeljima ranije trobrodne bazilike. Do danas je doživjela niz promjena, pa na izvornom zdanju iz ranokršćanskog perioda stoji treća crkva u gotičkom stilu. Iako su samu zgradu oštetili potresi, ratovi i požari, autentični podni mozaici iz 5. st. ostali su sačuvani i reprezentativan su primjerak ranokršćanskog slikarstva. Prikaz Krista, te likovi mučenika i mučenica, kao i fascinantna kompozicija Bo",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pore%C4%8D%20Basilica%203.jpg?width=1280",
+   "title": "Poreč Basilica 3.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pore%C4%8D%20Basilica%203.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_809.jpg",
+   "title": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/809",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/809",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pula Airport",
+    "iata": "PUY",
+    "city": "Pula",
+    "country": "HR",
+    "lat": 44.893501,
+    "lon": 13.9222,
+    "type": "large_airport",
+    "distance_km": 45.3
+   },
+   {
+    "name": "Trieste Airport",
+    "iata": "TRS",
+    "city": "Ronchi dei Legionari/Trieste",
+    "country": "IT",
+    "lat": 45.827862,
+    "lon": 13.466672,
+    "type": "large_airport",
+    "distance_km": 67.4
+   },
+   {
+    "name": "Rijeka Airport",
+    "iata": "RJK",
+    "city": "Rijeka(Omišalj)",
+    "country": "HR",
+    "lat": 45.216376,
+    "lon": 14.57085,
+    "type": "large_airport",
+    "distance_km": 76.5
+   }
+  ],
+  "nearest_airport_km": 45.3,
+  "distance_beijing_km": 7827.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HR",
+  "country_zh": "克罗地亚",
+  "country_en": "Croatia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HR",
+   "country_zh": "克罗地亚",
+   "country_en": "Croatia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "hr",
+  "local_lang_name": "Croatian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/809"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Euphrasian%20Basilica"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

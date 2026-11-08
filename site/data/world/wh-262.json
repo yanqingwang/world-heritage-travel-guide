@@ -1,0 +1,154 @@
+{
+ "id": "wh-262",
+ "unesco_id": "262",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1054,
+ "popularity_score": null,
+ "country": "SD",
+ "country_zh": "苏丹",
+ "country_en": "Sudan",
+ "countries": [
+  {
+   "iso2": "SD",
+   "zh": "苏丹",
+   "en": "Sudan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "SD-RS",
+ "subdivision_zh": "",
+ "subdivision_en": "Red Sea State",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "Sanganeb国家海洋公园和Dungonab海湾—Mukkawar岛国家海洋公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park",
+ "name_local": "المحمية البحرية القومية لسنجانب والحديقة البحرية القومية لخليج جزيرة دنقناب في جزيرة مكوار",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "262-sanganeb_marine_national_park_and_dungon",
+ "lat": 19.7361,
+ "lon": 37.4431,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "2016",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这片遗产地由两个独立单元构成，Sanganeb位于苏丹海岸以外25公里，是红海中部一座孤立的珊瑚礁和唯一的环状珊瑚岛；另外一部分是位于苏丹港北部125公里的Dungonab海湾和Mukkawar岛，这里有非常多样的珊瑚礁、红树林、海草床、沙滩和小岛构成的生态系统，为海鸟、海洋哺乳动物、鱼类、鲨鱼、海龟及巨蝠鲼提供了栖息地。全世界很大一部分儒艮都在Dungonab海湾栖息。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property consists of two separate areas: Sanganeb is an isolated, coral reef structure in the central Red Sea and the only atoll, 25 km off the shoreline of Sudan. The second component of the property is made up of Dungonab Bay and Mukkawar Island, situated 125 km north of Port Sudan. It includes a highly diverse system of coral reefs, mangroves, seagrass beds, beaches and islets. The site provides a habitat for populations of seabirds, marine mammals, fish, sharks, turtles and manta rays. Dungonab Bay also has a globally significant population of dugongs.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يضم الموقع منطقتين منفصلتين. الأولى هي سنجانب والتي تعد تجمعا للشعاب المرجانيّة المعزولة ويقع وسط البحر الأحمر حيث يعد هذا الموقع الجزيرة المرجانية الوحيدة في هذا البحر على بعد 25 كم من السواحل السودانيّة. أما المنطقة الثانية فهي خليج جزيرة دنقاب وجزيرة مكوار. وتقع هاتان الجزيرتان على بعد 125 كم شمال مدينة بورسودان وفيهما مجموعة متنوّعة من الشعاب المرجانيّة ونباتات أيكة ساحلية والأعشاب البحريّة والشواطئ والجزر. ويقطن في هاتين المنطقتين مجموعة من الطيور والثديات البحرية بالإضافة إلى أسماك القرش وشيطان البحر والسلاحف. كما يعد خليج جزيرة دنقاب مسكناً مهمّاً لحيوان الأطوم البحري.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_262.jpg",
+   "title": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/262",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/262",
+ "transport": {
+  "airports": [
+   {
+    "name": "Port Sudan New International Airport",
+    "iata": "PZU",
+    "city": "Port Sudan",
+    "country": "SD",
+    "lat": 19.434558,
+    "lon": 37.234125,
+    "type": "large_airport",
+    "distance_km": 40.0
+   },
+   {
+    "name": "King Abdulaziz International Airport",
+    "iata": "JED",
+    "city": "Jeddah",
+    "country": "SA",
+    "lat": 21.680241,
+    "lon": 39.157436,
+    "type": "large_airport",
+    "distance_km": 280.2
+   },
+   {
+    "name": "Taif International Airport",
+    "iata": "TIF",
+    "city": "Taif",
+    "country": "SA",
+    "lat": 21.484739,
+    "lon": 40.544074,
+    "type": "large_airport",
+    "distance_km": 376.8
+   }
+  ],
+  "nearest_airport_km": 40.0,
+  "distance_beijing_km": 7746.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SD",
+  "country_zh": "苏丹",
+  "country_en": "Sudan",
+  "status": "visa_on_arrival",
+  "days": 60,
+  "requirement": "Visa on arrival[6]",
+  "notes": "Since 1 July 2026"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SD",
+   "country_zh": "苏丹",
+   "country_en": "Sudan",
+   "status": "visa_on_arrival",
+   "days": 60,
+   "requirement": "Visa on arrival[6]",
+   "notes": "Since 1 July 2026"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/262"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

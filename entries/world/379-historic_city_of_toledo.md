@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 39.856901
 lon: -4.024613
-updated_at: "2026-11-08T12:18:55Z"
+updated_at: "2026-11-08T14:52:25Z"
 ---
 
 # 历史名城托莱多 / Historic City of Toledo

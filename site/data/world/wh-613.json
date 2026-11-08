@@ -1,0 +1,162 @@
+{
+ "id": "wh-613",
+ "unesco_id": "613",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 673,
+ "popularity_score": 6538,
+ "country": "NI",
+ "country_zh": "尼加拉瓜",
+ "country_en": "Nicaragua",
+ "countries": [
+  {
+   "iso2": "NI",
+   "zh": "尼加拉瓜",
+   "en": "Nicaragua"
+  }
+ ],
+ "region": "Puerto Momotombo, Municipality of La Paz Centro, Department of León",
+ "subdivision_iso": "NI-LE",
+ "subdivision_zh": "莱昂省",
+ "subdivision_en": "León Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "莱昂•别霍遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ruins of León Viejo",
+ "name_local": "Ruinas de León Viejo",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "613-ruins_of_león_viejo",
+ "lat": 12.400547222,
+ "lon": -86.617797222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "莱昂·别霍地区是西班牙在美洲最早的殖民地之一。由于它在各个方面都没有什么发展和改变，所以它的遗址成为16世纪西班牙帝国社会、经济结构的重要见证。另外，遗址还具有巨大的考古潜力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "León Viejo is one of the oldest Spanish colonial settlements in the Americas. It did not develop and so its ruins are outstanding testimony to the social and economic structures of the Spanish Empire in the 16th century. Moreover, the site has immense archaeological potential.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "León Viejo es uno de los más antiguos asentamientos coloniales españoles de América. Las ruinas de esta ciudad, que nunca logró desarrollarse, ofrecen un testimonio excepcional de las estructuras económicas y sociales del imperio español en el siglo XVI. El sitio ofrece inmensas posibilidades a las excavaciones arqueológicas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Viejo%20-%20panoramio.jpg?width=1280",
+   "title": "Leon Viejo - panoramio.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Leon%20Viejo%20-%20panoramio.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_613.jpg",
+   "title": "Ruins of León Viejo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/613",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/613",
+ "transport": {
+  "airports": [
+   {
+    "name": "Augusto C. Sandino (Managua) International Airport",
+    "iata": "MGA",
+    "city": "Managua",
+    "country": "NI",
+    "lat": 12.1415,
+    "lon": -86.168198,
+    "type": "large_airport",
+    "distance_km": 56.7
+   },
+   {
+    "name": "Toncontín Airport",
+    "iata": "TGU",
+    "city": "Tegucigalpa",
+    "country": "HN",
+    "lat": 14.0609,
+    "lon": -87.217201,
+    "type": "medium_airport",
+    "distance_km": 195.7
+   },
+   {
+    "name": "Daniel Oduber Quirós International Airport",
+    "iata": "LIR",
+    "city": "Liberia",
+    "country": "CR",
+    "lat": 10.5933,
+    "lon": -85.544403,
+    "type": "large_airport",
+    "distance_km": 232.5
+   }
+  ],
+  "nearest_airport_km": 56.7,
+  "distance_beijing_km": 13751.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NI",
+  "country_zh": "尼加拉瓜",
+  "country_en": "Nicaragua",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NI",
+   "country_zh": "尼加拉瓜",
+   "country_en": "Nicaragua",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/613"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Le%C3%B3n%20Viejo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

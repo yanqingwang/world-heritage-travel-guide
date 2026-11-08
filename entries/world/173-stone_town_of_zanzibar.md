@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)(vi)"
 lat: -6.1649444444444
 lon: 39.198788888889
-updated_at: "2026-11-08T12:18:54Z"
+updated_at: "2026-11-08T14:52:21Z"
 ---
 
 # 桑给巴尔石头城 / Stone Town of Zanzibar

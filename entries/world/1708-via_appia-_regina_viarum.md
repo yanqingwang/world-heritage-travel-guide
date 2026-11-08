@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)(vi)"
 lat: 41.841389
 lon: 12.5325
-updated_at: "2026-11-08T12:19:05Z"
+updated_at: "2026-11-08T14:52:52Z"
 ---
 
 # 阿庇亚道：道路女王 / Via Appia. Regina Viarum

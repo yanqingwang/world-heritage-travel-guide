@@ -1,0 +1,162 @@
+{
+ "id": "wh-999",
+ "unesco_id": "999",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1213,
+ "popularity_score": null,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "Southwest of the State of Mato Grosso and Northwest of the State of Mato Grosso do Sul, adjacent to the Brazil/Bolivian borders",
+ "subdivision_iso": "BR-MT",
+ "subdivision_zh": "马托格罗索州",
+ "subdivision_en": "Mato Grosso",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "潘塔奈尔保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Pantanal Conservation Area",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "999-pantanal_conservation_area",
+ "lat": -17.4,
+ "lon": -57.5,
+ "coord_accuracy": "wikipedia",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "潘塔奈尔保护区由四个保护区构成，总面积187 818公顷。该保护区位于巴西中西部马托格罗索省西南角，占巴西潘塔努大沼泽地区面积的1.3%，潘塔努大沼泽地区是世界上最大的淡水湿地生态系统之一。该地区最主要的两条河流，库亚巴河与巴拉圭河都从这里发源。潘塔奈尔自然保护区内动植物的种类和数量都非常可观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Pantanal Conservation Area consists of a cluster of four protected areas with a total area of 187,818 ha. Located in western central Brazil at the south-west corner of the State of Mato Grosso, the site represents 1.3% of Brazil's Pantanal region, one of the world's largest freshwater wetland ecosystems. The headwaters of the region's two major river systems, the Cuiabá and the Paraguay rivers, are located here, and the abundance and diversity of its vegetation and animal life are spectacular.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/7374%20new%20Pantanal%20jaguar%20JF.jpg?width=1280",
+   "title": "7374 new Pantanal jaguar JF.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:7374%20new%20Pantanal%20jaguar%20JF.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_999.jpg",
+   "title": "Pantanal Conservation Area",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/999",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/999",
+ "transport": {
+  "airports": [
+   {
+    "name": "Capitán Av. Salvador Ogaya G. airport",
+    "iata": "PSZ",
+    "city": "Puerto Suárez",
+    "country": "BO",
+    "lat": -18.975301,
+    "lon": -57.820599,
+    "type": "medium_airport",
+    "distance_km": 178.4
+   },
+   {
+    "name": "Corumbá International Airport",
+    "iata": "CMG",
+    "city": "Corumbá",
+    "country": "BR",
+    "lat": -19.01193,
+    "lon": -57.672772,
+    "type": "medium_airport",
+    "distance_km": 180.2
+   },
+   {
+    "name": "Várzea Grande–Marechal Rondon International Airport",
+    "iata": "CGB",
+    "city": "Cuiabá",
+    "country": "BR",
+    "lat": -15.6529,
+    "lon": -56.116699,
+    "type": "large_airport",
+    "distance_km": 243.9
+   }
+  ],
+  "nearest_airport_km": 178.4,
+  "distance_beijing_km": 17608.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/999"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

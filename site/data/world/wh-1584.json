@@ -1,0 +1,176 @@
+{
+ "id": "wh-1584",
+ "unesco_id": "1584",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 990,
+ "popularity_score": null,
+ "country": "AZ",
+ "country_zh": "阿塞拜疆",
+ "country_en": "Azerbaijan",
+ "countries": [
+  {
+   "iso2": "AZ",
+   "zh": "阿塞拜疆",
+   "en": "Azerbaijan"
+  },
+  {
+   "iso2": "IR",
+   "zh": "伊朗",
+   "en": "Iran"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "希尔卡尼亚森林",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hyrcanian Forests",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1584-hyrcanian_forests",
+ "lat": 37.4215,
+ "lon": 55.7243,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)",
+ "year": "2019",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "新增的丹加班德和伊斯蒂苏奇山谷（阿塞拜疆）都属于极具价值的希尔卡尼亚古森林的分布区，它们的加入使原世界遗产更为完整。遗产的新老部分位于里海南岸的同一片林带。希尔卡尼亚森林是一片独特的森林集群，沿着里海南岸延伸，其历史可追溯到2500万至5000万年前。新增部分含有完整的生态系统，包括豹、狼、棕熊等顶级掠食者。此外这里拥有大量珍稀和特有树种。最古老的树木树龄有300-400年，其中一些可能达到500年。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Hyrcanian Forests form a unique forested massif that stretches along the Caspian Sea in Azerbaijan and Iran. The history of these broad-leaved forests dates back 25 to 50 million years, when they covered most of this Northern Temperate region. Their floristic biodiversity is remarkable with over 3,200 vascular plant species documented. To date, 180 species of birds typical of broad-leaved temperate forests and 58 mammal species have been recorded. Elements of the property comprise full ecosystems including top predators such as leopard, wolf and brown bear, and the forest has a high degree of rare and endemic tree species. The oldest trees seen here are 300-400 years old, with some possibly up to 500 years old.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspian%20Hyrcanian%20Mixed%20Forests%20in%20Northern%20Iran%2010.jpg?width=1280",
+   "title": "Caspian Hyrcanian Mixed Forests in Northern Iran 10.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Caspian%20Hyrcanian%20Mixed%20Forests%20in%20Northern%20Iran%2010.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1584.jpg",
+   "title": "Hyrcanian Forests",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1584",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1584",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bojnord Airport",
+    "iata": "BJB",
+    "city": "Bojnord",
+    "country": "IR",
+    "lat": 37.49300003051758,
+    "lon": 57.30820083618164,
+    "type": "medium_airport",
+    "distance_km": 140.0
+   },
+   {
+    "name": "Sabzevar National Airport",
+    "iata": "AFZ",
+    "city": "Sabzevar",
+    "country": "IR",
+    "lat": 36.16809844970703,
+    "lon": 57.59519958496094,
+    "type": "medium_airport",
+    "distance_km": 217.2
+   },
+   {
+    "name": "Ashgabat International Airport",
+    "iata": "ASB",
+    "city": "Ashgabat",
+    "country": "TM",
+    "lat": 37.986801,
+    "lon": 58.361,
+    "type": "large_airport",
+    "distance_km": 240.3
+   }
+  ],
+  "nearest_airport_km": 140.0,
+  "distance_beijing_km": 5049.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AZ",
+  "country_zh": "阿塞拜疆",
+  "country_en": "Azerbaijan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[17]",
+  "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AZ",
+   "country_zh": "阿塞拜疆",
+   "country_en": "Azerbaijan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[17]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  },
+  {
+   "iso2": "IR",
+   "country_zh": "伊朗",
+   "country_en": "Iran",
+   "status": "visa_free",
+   "days": 21,
+   "requirement": "Visa not required[6][60]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1584"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

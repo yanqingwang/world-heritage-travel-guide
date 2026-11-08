@@ -1,0 +1,162 @@
+{
+ "id": "wh-1324",
+ "unesco_id": "1324",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 786,
+ "popularity_score": 3508,
+ "country": "KR",
+ "country_zh": "大韩民国",
+ "country_en": "South Korea",
+ "countries": [
+  {
+   "iso2": "KR",
+   "zh": "大韩民国",
+   "en": "South Korea"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "韩国历史村落：河回村和良洞村",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Villages of Korea: Hahoe and Yangdong",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1324-historic_villages_of_korea:_hahoe_and_ya",
+ "lat": 36.53916667,
+ "lon": 128.5166667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2010",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "河回村和良洞村始建于14至15世纪，这两座村庄被认为是韩国最具代表性的历史村落。这两个村落背倚树木繁茂的青山，面向河流及开阔的农田，它们的布局和选址的目的在于从周围的环境中汲取物质和精神食粮，反映出朝鲜王朝（1392-1910）早期鲜明的贵族儒家文化特点。其建筑包括村落首领家族的宅第、其他家族成员的木框架结构房屋、亭台、学堂、儒家书院，以及原平民居住的单层泥墙、茅草屋顶的住宅群。河回村和良洞村山环水绕，亭台如画的美丽景致，曾被众多17和18世纪的诗人所咏颂。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the 14th-15th centuries, Hahoe and Yangdong are seen as the two most representative historic clan villages in the Republic of Korea. Their layout and location - sheltered by forested mountains and facing out onto a river and open agricultural fields – reflect the distinctive aristocratic Confucian culture of the early part of the Joseon Dynasty (1392-1910). The villages were located to provide both physical and spiritual nourishment from their surrounding landscapes. They include residences of the head families, together with substantial timber framed houses of other clan members, also pavilions, study halls, Confucian academies for learning, and clusters of one story mud-walled, thatched-roofed houses, formerly for commoners. The landscapes of mountains, trees and water around the village, framed in views from pavilions and retreats, were celebrated for their beauty by 17th and 18th century poets.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korea-Gyeongju-Yangdong.Village.jpg?width=1280",
+   "title": "Korea-Gyeongju-Yangdong.Village.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Yangdong.Village.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1324.jpg",
+   "title": "Historic Villages of Korea: Hahoe and Yangdong",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1324",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1324",
+ "transport": {
+  "airports": [
+   {
+    "name": "Daegu International Airport",
+    "iata": "TAE",
+    "city": "Daegu",
+    "country": "KR",
+    "lat": 35.894394,
+    "lon": 128.656989,
+    "type": "large_airport",
+    "distance_km": 72.8
+   },
+   {
+    "name": "Cheongju International Airport",
+    "iata": "CJJ",
+    "city": "Cheongju",
+    "country": "KR",
+    "lat": 36.71556,
+    "lon": 127.500289,
+    "type": "large_airport",
+    "distance_km": 92.8
+   },
+   {
+    "name": "Pohang Airport (G-815/K-3)",
+    "iata": "KPO",
+    "city": "Pohang",
+    "country": "KR",
+    "lat": 35.987955,
+    "lon": 129.420383,
+    "type": "medium_airport",
+    "distance_km": 101.6
+   }
+  ],
+  "nearest_airport_km": 72.8,
+  "distance_beijing_km": 1154.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KR",
+  "country_zh": "大韩民国",
+  "country_en": "South Korea",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "Visa not required for direct or transit visitors to Jeju Island up to 30 days.[73] Visa not required for 30 days as a transit tourist (category B-2) to or from the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Cyprus and 29 Schengen member states. They must hold an onwa"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KR",
+   "country_zh": "大韩民国",
+   "country_en": "South Korea",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "Visa not required for direct or transit visitors to Jeju Island up to 30 days.[73] Visa not required for 30 days as a transit tourist (category B-2) to or from the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Cyprus and 29 Schengen member states. They must hold an onwa"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1324"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

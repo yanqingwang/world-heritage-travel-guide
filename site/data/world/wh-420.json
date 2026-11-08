@@ -1,0 +1,267 @@
+{
+ "id": "wh-420",
+ "unesco_id": "420",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 104,
+ "popularity_score": 138317,
+ "country": "BO",
+ "country_zh": "玻利维亚",
+ "country_en": "Bolivia",
+ "countries": [
+  {
+   "iso2": "BO",
+   "zh": "玻利维亚",
+   "en": "Bolivia"
+  }
+ ],
+ "region": "Potosi, Province of Potosi",
+ "subdivision_iso": "BO-P",
+ "subdivision_zh": "波托西省",
+ "subdivision_en": "Potosí Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波托西城",
+ "name_zh_source": "unesco_official",
+ "name_en": "City of Potosí",
+ "name_local": "Ciudad de Potosí­",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "420-city_of_potosí",
+ "lat": -19.589166666,
+ "lon": -65.753333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1987",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "在16世纪，波托西城被认为是世界上最大的工业复合体。银矿提炼的需要使得这里出现了一系列的水利矿场。遗址包括塞雷里科(Cerro Rico)工业建筑，复杂的引水渠和人造湖系统为该地提供水源；这座殖民城拥有卡萨德拉莫内达集镇(the Casa de la Moneda)、圣洛伦佐教堂(the Church of San Lorenzo)、一些贵族住宅区和工人居住区(barrios mitayos)。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the 16th century, this area was regarded as the world’s largest industrial complex. The extraction of silver ore relied on a series of hydraulic mills. The site consists of the industrial monuments of the Cerro Rico, where water is provided by an intricate system of aqueducts and artificial lakes; the colonial town with the Casa de la Moneda; the Church of San Lorenzo; several patrician houses; and the barrios mitayos, the areas where the workers lived.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En el siglo XVI, se consideraba que Potosí­ era el mayor complejo industrial del mundo. La extracción de su mineral de plata se efectuaba mediante molinos hidrí¡ulicos. El sitio actual comprende no sólo las antiguas instalaciones industriales del Cerro Rico, a las que llega el agua por medio de un sistema intrincado de acueductos y lagos artificiales, sino también el barrio colonial con la Casa de la Moneda, la iglesia de San Lorenzo, varias mansiones nobles y los barrios de los mitayos que trabajaban en las minas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20de%20la%20Villa%20Imperial%20de%20Potos%C3%AD.jpg?width=1280",
+   "title": "Vista de la Villa Imperial de Potosí.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vista%20de%20la%20Villa%20Imperial%20de%20Potos%C3%AD.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/20170808_Bolivia_1416%2B20_Potos%C3%AD_sRGB_%2837949205862%29.jpg/1280px-20170808_Bolivia_1416%2B20_Potos%C3%AD_sRGB_%2837949205862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20170808 Bolivia 1416+20 Potosí sRGB (37949205862).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20170808_Bolivia_1416+20 Potosí sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20170808_Bolivia_1416%2B20_Potos%C3%AD_sRGB_%2837949205862%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/20220711_151350_%28MConverter.eu%29.ogg/1280px--20220711_151350_%28MConverter.eu%29.ogg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "20220711 151350 (MConverter.eu).ogg",
+   "author": "Aidiljim",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20220711_151350_%28MConverter.eu%29.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Aeropuerto_de_Potos%C3%AD%2C_Bolivia%2C_2025.jpg/1280px-Aeropuerto_de_Potos%C3%AD%2C_Bolivia%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aeropuerto de Potosí, Bolivia, 2025.jpg",
+   "author": "Grullab",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Potos%C3%AD%2C_Bolivia%2C_2025.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Aeropuerto_Potos%C3%AD.jpg/1280px-Aeropuerto_Potos%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Aeropuerto Potosí.jpg",
+   "author": "Edward_wong_IV",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Potos%C3%AD.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/420",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alcantarí International Airport",
+    "iata": "SRE",
+    "city": "Sucre",
+    "country": "BO",
+    "lat": -19.246835,
+    "lon": -65.149611,
+    "type": "large_airport",
+    "distance_km": 73.9
+   },
+   {
+    "name": "Joya Andina International Airport",
+    "iata": "UYU",
+    "city": "Quijarro",
+    "country": "BO",
+    "lat": -20.441304,
+    "lon": -66.857553,
+    "type": "large_airport",
+    "distance_km": 149.3
+   },
+   {
+    "name": "Juan Mendoza International Airport",
+    "iata": "ORU",
+    "city": "Oruro",
+    "country": "BO",
+    "lat": -17.956151,
+    "lon": -67.075829,
+    "type": "large_airport",
+    "distance_km": 228.8
+   }
+  ],
+  "nearest_airport_km": 73.9,
+  "distance_beijing_km": 17692.6,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Potosí",
+    "name_en": null,
+    "lat": -19.5803316,
+    "lon": -65.7594234,
+    "distance_km": 1.2,
+    "operator": "FCA"
+   },
+   {
+    "name": "Agua de Castilla",
+    "name_en": null,
+    "lat": -19.7711776,
+    "lon": -65.9868931,
+    "distance_km": 31.7,
+    "operator": null
+   },
+   {
+    "name": "Betanzos",
+    "name_en": null,
+    "lat": -19.5525219,
+    "lon": -65.449314,
+    "distance_km": 32.1,
+    "operator": "Ferroviaria Andina"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Hostal Patrimonio",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -19.5881807,
+   "lon": -65.752227,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Santa Teresa",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -19.5892652,
+   "lon": -65.75651,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Realeza",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -19.5890179,
+   "lon": -65.7541954,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Tarija",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -19.5844094,
+   "lon": -65.7554388,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "10 de Noviembre",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -19.5836341,
+   "lon": -65.755853,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "BO",
+  "country_zh": "玻利维亚",
+  "country_en": "Bolivia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.[26][27][28] Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BO",
+   "country_zh": "玻利维亚",
+   "country_en": "Bolivia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.[26][27][28] Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 76
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/420"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Potos%C3%AD"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

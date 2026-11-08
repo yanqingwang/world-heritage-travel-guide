@@ -1,0 +1,162 @@
+{
+ "id": "wh-555",
+ "unesco_id": "555",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 845,
+ "popularity_score": 1367,
+ "country": "SE",
+ "country_zh": "瑞典",
+ "country_en": "Sweden",
+ "countries": [
+  {
+   "iso2": "SE",
+   "zh": "瑞典",
+   "en": "Sweden"
+  }
+ ],
+ "region": "Stockholm County (Region of Uppland)",
+ "subdivision_iso": "SE-AB",
+ "subdivision_zh": "斯德哥尔摩省",
+ "subdivision_en": "Stockholm County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "比尔卡和霍夫加登",
+ "name_zh_source": "unesco_official",
+ "name_en": "Birka and Hovgården",
+ "name_local": "Birka och Hovgården",
+ "local_lang": "sv",
+ "local_lang_name": "Swedish",
+ "slug": "555-birka_and_hovgården",
+ "lat": 59.335,
+ "lon": 17.5425,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "比尔卡考古遗址位于梅拉伦湖的比约克岛上，公元9世纪至10世纪开始有人居住。霍夫加登在毗邻的阿德尔斯岛上。这两个岛构成了反映欧洲海盗时期贸易网络情况的考古遗址，并且影响到斯堪的纳维亚以后的历史。比尔卡还是瑞典第一个基督圣会（831年由圣安斯加创立）的地点所在。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Birka archaeological site is located on Björkö Island in Lake Mälar and was occupied in the 9th and 10th centuries. Hovgården is situated on the neighbouring island of Adelsö. Together, they make up an archaeological complex which illustrates the elaborate trading networks of Viking-Age Europe and their influence on the subsequent history of Scandinavia. Birka was also important as the site of the first Christian congregation in Sweden, founded in 831 by St Ansgar.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Birka och Hovgården är två områden på Björkö respektive Adelsö i Mälaren.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BirkaExcavation1.png?width=1280",
+   "title": "BirkaExcavation1.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:BirkaExcavation1.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_555.jpg",
+   "title": "Birka and Hovgården",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/555",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/555",
+ "transport": {
+  "airports": [
+   {
+    "name": "Stockholm-Bromma Airport",
+    "iata": "BMA",
+    "city": "Stockholm",
+    "country": "SE",
+    "lat": 59.354401,
+    "lon": 17.9417,
+    "type": "medium_airport",
+    "distance_km": 22.7
+   },
+   {
+    "name": "Stockholm-Arlanda Airport",
+    "iata": "ARN",
+    "city": "Stockholm",
+    "country": "SE",
+    "lat": 59.64849,
+    "lon": 17.928829,
+    "type": "large_airport",
+    "distance_km": 41.1
+   },
+   {
+    "name": "Stockholm Västerås Airport",
+    "iata": "VST",
+    "city": "Stockholm / Västerås",
+    "country": "SE",
+    "lat": 59.589401,
+    "lon": 16.6336,
+    "type": "large_airport",
+    "distance_km": 58.6
+   }
+  ],
+  "nearest_airport_km": 22.7,
+  "distance_beijing_km": 6706.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SE",
+  "country_zh": "瑞典",
+  "country_en": "Sweden",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SE",
+   "country_zh": "瑞典",
+   "country_en": "Sweden",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "sv",
+  "local_lang_name": "Swedish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 10
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/555"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Birka%20and%20Hovg%C3%A5rden"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

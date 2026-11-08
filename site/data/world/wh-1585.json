@@ -1,0 +1,162 @@
+{
+ "id": "wh-1585",
+ "unesco_id": "1585",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 383,
+ "popularity_score": 21406,
+ "country": "IR",
+ "country_zh": "伊朗",
+ "country_en": "Iran",
+ "countries": [
+  {
+   "iso2": "IR",
+   "zh": "伊朗",
+   "en": "Iran"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IR-00",
+ "subdivision_zh": "中央省",
+ "subdivision_en": "Markazi Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伊朗纵贯铁路",
+ "name_zh_source": "unesco_official",
+ "name_en": "Trans-Iranian Railway",
+ "name_local": "راه‌آهن سراسری ایران",
+ "local_lang": "fa",
+ "local_lang_name": "Persian",
+ "slug": "1585-trans-iranian_railway",
+ "lat": 35.658305555,
+ "lon": 51.398333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2021",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伊朗纵贯铁路联通该国东北部的里海和西南部的波斯湾，穿越2座山脉以及众多河流、高原、森林和平原，跨4个气候区。这条全长1394公里的铁路始建于1927年，于1938年竣工，其设计和建造是伊朗政府与来自多个国家的43家建筑承包商成功合作的结果。这条铁路以其规模和克服陡峭路线和其它困难所需的工程而闻名。崎岖的地形导致铺设工作涉及多处大规模的山体切割，以及建造174座大型桥梁、186座小型桥梁和224条隧道，其中包括11条螺旋隧道。与大多数早期铁路项目不同，伊朗纵贯铁路的建设资金来源于国家税收，以避免外国投资和控制。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Trans-Iranian Railway connects the Caspian Sea in the northeast with the Persian Gulf in the southwest crossing two mountain ranges as well as rivers, highlands, forests and plains, and four different climatic areas. Started in 1927 and completed in 1938, the 1,394-kilometre-long railway was designed and executed in a successful collaboration between the Iranian government and 43 construction contractors from many countries. The railway is notable for its scale and the engineering works it required to overcome steep routes and other difficulties. Its construction involved extensive mountain cutting in some areas, while the rugged terrain in others dictated the construction of 174 large bridges, 186 small bridges and 224 tunnels, including 11 spiral tunnels. Unlike most early railway projects, construction of the Trans-Iranian Railway was funded by national taxes to avoid foreign investment and control.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "راه‌آهن سراسری ایران، یک راه‌آهن به‌طول ۱۳۹۴ کیلومتر و دارای ۲۳۰ تونل و ۴۱۰۰ پل است که در دوران پادشاهی رضاشاه از ۲۳ مهر ۱۳۰۶ تا ۲۷ مرداد ۱۳۱۷ ساخته شد. این راه‌آهن ۱۰٫۱ میلیارد ریال هزینه داشت و گران‌ترین و بزرگ‌ترین پروژهٔ صنعتی ایران تا به آن روز بود. راه‌آهن سراسری، تهران را از طریق بندرترکمن (بندر شاه پیشین) به دریای خزر و از طریق بندر امام‌خمینی (بندر شاپور پیشین) به خلیج فارس متصل می‌کند. در نشست سوم مرداد ۱۴۰۰ چهل و چهارمین اجلاس کمیته میراث جهانی یونسکو، راه‌آهن سراسری ایران با طول حدود ۱۴۰۰ کیلومتر به‌عنوان بیست و پنجمین میراث فرهنگی ملموس و نخستین میراث صنعتی ایران در فهرست میراث جهانی یونسکو ثبت شد.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VERESK%20Bridge%20-%20panoramio.jpg?width=1280",
+   "title": "VERESK Bridge - panoramio.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:VERESK%20Bridge%20-%20panoramio.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1585.jpg",
+   "title": "Trans-Iranian Railway",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1585",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1585",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mehrabad International Airport",
+    "iata": "THR",
+    "city": "Tehran",
+    "country": "IR",
+    "lat": 35.689175,
+    "lon": 51.314392,
+    "type": "large_airport",
+    "distance_km": 8.3
+   },
+   {
+    "name": "Imam Khomeini International Airport",
+    "iata": "IKA",
+    "city": "Tehran",
+    "country": "IR",
+    "lat": 35.416099548339844,
+    "lon": 51.152198791503906,
+    "type": "large_airport",
+    "distance_km": 34.9
+   },
+   {
+    "name": "Payam International Airport",
+    "iata": "PYK",
+    "city": "Karaj",
+    "country": "IR",
+    "lat": 35.7761,
+    "lon": 50.826698,
+    "type": "large_airport",
+    "distance_km": 53.2
+   }
+  ],
+  "nearest_airport_km": 8.3,
+  "distance_beijing_km": 5619.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IR",
+  "country_zh": "伊朗",
+  "country_en": "Iran",
+  "status": "visa_free",
+  "days": 21,
+  "requirement": "Visa not required[6][60]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IR",
+   "country_zh": "伊朗",
+   "country_en": "Iran",
+   "status": "visa_free",
+   "days": 21,
+   "requirement": "Visa not required[6][60]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fa",
+  "local_lang_name": "Persian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1585"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Trans-Iranian%20Railway"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

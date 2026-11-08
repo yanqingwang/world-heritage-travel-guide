@@ -1,0 +1,162 @@
+{
+ "id": "wh-300",
+ "unesco_id": "300",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 227,
+ "popularity_score": 46445,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "Province of Quebec, City of Quebec",
+ "subdivision_iso": "CA-QC",
+ "subdivision_zh": "",
+ "subdivision_en": "Quebec",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "魁北克古城区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic District of Old Québec",
+ "name_local": "Arrondissement historique du Vieux-Québec",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "300-historic_district_of_old_québec",
+ "lat": 46.809444444,
+ "lon": -71.210555555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "魁北克城是由法国探险家查普伦(Champlain)在17世纪早期修建的，是北美唯一保存有城墙以及大量的堡垒、城门、防御工事的城市，这些工程至今仍环绕着魁北克古城。上城区建立在悬崖上，至今仍然是宗教和行政中心。城区内有教堂、女修道院和一些建筑物，如王妃城堡、要塞和弗隆特纳克堡(Dauphine Redoubt)。上城区、下城区和老城区一起构成了城市的整体，这是具有最完备防御系统的殖民城市之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Québec was founded by the French explorer Champlain in the early 17th century. It is the only North American city to have preserved its ramparts, together with the numerous bastions, gates and defensive works which still surround Old Québec. The Upper Town, built on the cliff, has remained the religious and administrative centre, with its churches, convents and other monuments like the Dauphine Redoubt, the Citadel and Château Frontenac. Together with the Lower Town and its ancient districts, it forms an urban ensemble which is one of the best examples of a fortified colonial city.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fondée par l'explorateur français Champlain au début du XVII e siècle, Québec demeure la seule ville d'Amérique du Nord à avoir conservé ses remparts qui regroupent de nombreux bastions, portes et ouvrages défensifs ceinturant toujours le Vieux-Québec. La Haute-Ville, située au sommet de la falaise, centre religieux et administratif, avec ses églises, ses couvents et autres monuments comme la redoute Dauphine, la Citadelle et le Château Frontenac, et la Basse-Ville, avec ses quartiers anciens, forment un ensemble urbain qui est un des meilleurs exemples de ville coloniale fortifiée.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20of%20Quebec%20City.jpg?width=1280",
+   "title": "Panorama of Quebec City.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Panorama%20of%20Quebec%20City.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_300.jpg",
+   "title": "Historic District of Old Québec",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/300",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/300",
+ "transport": {
+  "airports": [
+   {
+    "name": "Quebec Jean Lesage International Airport",
+    "iata": "YQB",
+    "city": "Quebec",
+    "country": "CA",
+    "lat": 46.7911,
+    "lon": -71.393303,
+    "type": "large_airport",
+    "distance_km": 14.1
+   },
+   {
+    "name": "Saguenay-Bagotville Airport",
+    "iata": "YBG",
+    "city": "Saguenay",
+    "country": "CA",
+    "lat": 48.330123,
+    "lon": -70.992012,
+    "type": "medium_airport",
+    "distance_km": 169.9
+   },
+   {
+    "name": "Roberval Airport",
+    "iata": "YRJ",
+    "city": "Roberval",
+    "country": "CA",
+    "lat": 48.519665,
+    "lon": -72.265735,
+    "type": "medium_airport",
+    "distance_km": 205.9
+   }
+  ],
+  "nearest_airport_km": 14.1,
+  "distance_beijing_km": 10323.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/300"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20Quebec"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

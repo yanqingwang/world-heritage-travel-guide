@@ -1,0 +1,162 @@
+{
+ "id": "wh-1079",
+ "unesco_id": "1079",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 894,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "State of Querétaro de Arteaga (Sierra Gorda region)",
+ "subdivision_iso": "MX-QUE",
+ "subdivision_zh": "克雷塔罗州",
+ "subdivision_en": "Querétaro",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "克雷塔罗的谢拉戈达圣方济会修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Franciscan Missions in the Sierra Gorda of Querétaro",
+ "name_local": "Misiones franciscanas de la Sierra Gorda de Querétaro",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1079-franciscan_missions_in_the_sierra_gorda_",
+ "lat": 21.203888888,
+ "lon": -99.463888888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "谢拉戈达的5座圣方济会修道院建于公元18世纪中期，它是基督徒最后传入墨西哥中部地区时建立的，同时，它也是基督教在加利福尼亚州、亚利桑那州和田纳西州传播的重要证据。教堂装饰华丽的外观展示了传教士与当地人非凡的创造力，教堂周围的乡村聚居地则保留着它们本身的地方特色。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The five Franciscan missions of Sierra Gorda were built during the last phase of the conversion to Christianity of the interior of Mexico in the mid-18th century and became an important reference for the continuation of the evangelization of California, Arizona and Texas. The richly decorated church façades are of special interest as they represent an example of the joint creative efforts of the missionaries and the Indios. The rural settlements that grew around the missions have retained their vernacular character.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Las iglesias franciscanas de este sitio fueron edificadas a mediados del siglo XVIII, durante la última fase de la evangelización del interior de México y se convirtieron en un elemento de referencia para la prosecución de la evangelización en California, Arizona y Tejas. Sus fachadas ricamente ornamentadas ofrecen un interés particular porque son un ejemplo de la labor creadora conjunta de los indios y los misioneros. Los poblados rurales creados en las cercanías de la misiones han conservado su carácter autóctono.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20gorda.jpg?width=1280",
+   "title": "Sierra gorda.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sierra%20gorda.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1079.jpg",
+   "title": "Franciscan Missions in the Sierra Gorda of Querétaro",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1079",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1079",
+ "transport": {
+  "airports": [
+   {
+    "name": "Querétaro Intercontinental Airport",
+    "iata": "QRO",
+    "city": "Querétaro",
+    "country": "MX",
+    "lat": 20.618779,
+    "lon": -100.186449,
+    "type": "large_airport",
+    "distance_km": 99.3
+   },
+   {
+    "name": "Felipe Ángeles International Airport",
+    "iata": "NLU",
+    "city": "Mexico City",
+    "country": "MX",
+    "lat": 19.743824,
+    "lon": -99.01507,
+    "type": "large_airport",
+    "distance_km": 168.9
+   },
+   {
+    "name": "Ponciano Arriaga International Airport",
+    "iata": "SLP",
+    "city": "San Luis Potosí",
+    "country": "MX",
+    "lat": 22.262026,
+    "lon": -100.935692,
+    "type": "medium_airport",
+    "distance_km": 192.2
+   }
+  ],
+  "nearest_airport_km": 99.3,
+  "distance_beijing_km": 12264.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 26
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1079"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Franciscan%20Missions%20in%20the%20Sierra%20Gorda%20of%20Quer%C3%A9taro"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

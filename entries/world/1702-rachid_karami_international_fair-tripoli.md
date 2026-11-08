@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iv)"
 lat: 34.439613877
 lon: 35.825911341
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:52Z"
 ---
 
 # 拉希德·卡拉米国际博览会（的黎波里） / Rachid Karami International Fair-Tripoli

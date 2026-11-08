@@ -1,0 +1,154 @@
+{
+ "id": "wh-1295",
+ "unesco_id": "1295",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 933,
+ "popularity_score": null,
+ "country": "KE",
+ "country_zh": "肯尼亚",
+ "country_en": "Kenya",
+ "countries": [
+  {
+   "iso2": "KE",
+   "zh": "肯尼亚",
+   "en": "Kenya"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "蒙巴萨的耶稣堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Fort Jesus, Mombasa",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1295-fort_jesus,_mombasa",
+ "lat": -4.0711666666667,
+ "lon": 39.682055555556,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在1593-1596年间由葡萄牙人修建而成。用于保护蒙巴萨港口城堡由乔瓦尼·巴蒂斯塔·凯拉迪（Giovanni Battista Cairati） 设计，是16世纪葡萄牙军事要塞建筑中最出色的作品之一，代表着此类建筑物历史上的一个里程碑，受到了良好的保护。城堡的设计布局与形式体现了文艺复兴的理想，即采用同样可以在人体比例中找到的那种完美和谐的比例与几何构图。这一遗产占地2.36公顷，包括护城河以及周围的附属部分。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battista Cairati to protect the port of Mombasa, is one of the most outstanding and well preserved examples of 16th Portuguese military fortification and a landmark in the history of this type of construction. The Fort's layout and form reflected the Renaissance ideal that perfect proportions and geometric harmony are to be found in the human body. The property covers an area of 2.36 hectares and includes the fort's moat and immediate surroundings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1295.jpg",
+   "title": "Fort Jesus, Mombasa",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1295",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1295",
+ "transport": {
+  "airports": [
+   {
+    "name": "Moi International Airport",
+    "iata": "MBA",
+    "city": "Mombasa",
+    "country": "KE",
+    "lat": -4.03483,
+    "lon": 39.5942,
+    "type": "large_airport",
+    "distance_km": 10.5
+   },
+   {
+    "name": "Malindi International Airport",
+    "iata": "MYD",
+    "city": "Malindi",
+    "country": "KE",
+    "lat": -3.22931,
+    "lon": 40.1017,
+    "type": "medium_airport",
+    "distance_km": 104.6
+   },
+   {
+    "name": "Tanga Airport",
+    "iata": "TGT",
+    "city": "Tanga",
+    "country": "TZ",
+    "lat": -5.09236,
+    "lon": 39.071201,
+    "type": "medium_airport",
+    "distance_km": 132.2
+   }
+  ],
+  "nearest_airport_km": 10.5,
+  "distance_beijing_km": 9199.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KE",
+  "country_zh": "肯尼亚",
+  "country_en": "Kenya",
+  "status": "unknown",
+  "days": 90,
+  "requirement": "Electronic Travel Authorisation[6][70]",
+  "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KE",
+   "country_zh": "肯尼亚",
+   "country_en": "Kenya",
+   "status": "unknown",
+   "days": 90,
+   "requirement": "Electronic Travel Authorisation[6][70]",
+   "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1295"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

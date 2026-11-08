@@ -1,0 +1,154 @@
+{
+ "id": "wh-1058",
+ "unesco_id": "1058",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 883,
+ "popularity_score": null,
+ "country": "MA",
+ "country_zh": "摩洛哥",
+ "country_en": "Morocco",
+ "countries": [
+  {
+   "iso2": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco"
+  }
+ ],
+ "region": "Region: Doukkala-Abda, Province El Jadida",
+ "subdivision_iso": "MA-06",
+ "subdivision_zh": "",
+ "subdivision_en": "Casablanca-Settat",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "马扎甘葡萄牙城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Portuguese City of Mazagan (El Jadida)",
+ "name_local": "مدينة مازاكان البرتغالية (الجديدة)",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1058-portuguese_city_of_mazagan_(el_jadida)",
+ "lat": 33.23333333,
+ "lon": -8.5,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡萨布兰卡西南90公里处的马扎甘军事要塞是葡萄牙人16世纪早期在大西洋海岸修筑的殖民地，现在为贾迪达市的一个部分。1769年，被摩洛哥人夺取。防御工事及其城墙和堡垒具有文艺复兴军事设计的早期风格。保留下来的葡萄牙式建筑包括水塔和圣母升天教堂，带有晚期哥特式建筑的曼奴埃尔风格。葡萄牙城是葡萄牙探险者通往印度途中在西部非洲建立的早期殖民地之一，这里是欧洲与摩洛哥文化相互影响交流和融会的例证，这一点在建筑、技术和城镇规划方面均得到完美的体现。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Portuguese fortification of Mazagan, now part of the city of El Jadida, 90-km southwest of Casablanca, was built as a fortified colony on the Atlantic coast in the early 16th century. It was taken over by the Moroccans in 1769. The fortification with its bastions and ramparts is an early example of Renaissance military design. The surviving Portuguese buildings include the cistern and the Church of the Assumption, built in the Manueline style of late Gothic architecture. The Portuguese City of Mazagan - one of the early settlements of the Portuguese explorers in West Africa on the route to India - is an outstanding example of the interchange of influences between European and Moroccan cultures, well reflected in architecture, technology, and town planning.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تقع التّحصينات البرتغاليّة في مازاكان التي باتت اليوم جزءًا من مدينة الجديدة على بعد 90 كلم جنوب غرب الدار البيضاء. لقد تم انشاء هذه التحصينات كمستعمرة محصنة على الساحل الاطلسي في بداية القرن السادس عشر. ثم استعاد المغربيون هذه المستعمرة في العام 1769. وتشكّل التحصينات، بالاضافة الى حصونها البارزة وأسوارها، مثالاً واضحًا على الهندسة المعمارية العسكرية في عصر النهضة. فالمباني البرتغالية التي لا تزال ظاهرةً حتى الآن هي الحوض وكنيسة الصعود المبنية بحسب الاسلوب المنويليّ (أواخر القوطي). وتشكل مدينة مازاكان البرتغالية، إحدى أولى المنشآت التي أقامها المستكشفون البرتغاليون في أفريقيا الغربية وهم في طريقهم الى الهند، شاهدًا استثنائيًا على التأثيرات المختلطة للثقافتَيْن الاوروبية والمغربية والتي تظهر بوضوحٍ في الهندسة المعمارية والتكنولوجيا والتنظيم المدني.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1058.jpg",
+   "title": "Portuguese City of Mazagan (El Jadida)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1058",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1058",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mohammed V International Airport",
+    "iata": "CMN",
+    "city": "Casablanca",
+    "country": "MA",
+    "lat": 33.3675,
+    "lon": -7.58997,
+    "type": "large_airport",
+    "distance_km": 85.9
+   },
+   {
+    "name": "Rabat-Salé Airport",
+    "iata": "RBA",
+    "city": "Rabat",
+    "country": "MA",
+    "lat": 34.051498,
+    "lon": -6.75152,
+    "type": "large_airport",
+    "distance_km": 185.7
+   },
+   {
+    "name": "Marrakesh Menara Airport",
+    "iata": "RAK",
+    "city": "Marrakesh",
+    "country": "MA",
+    "lat": 31.604807,
+    "lon": -8.035788,
+    "type": "large_airport",
+    "distance_km": 186.3
+   }
+  ],
+  "nearest_airport_km": 85.9,
+  "distance_beijing_km": 10038.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MA",
+  "country_zh": "摩洛哥",
+  "country_en": "Morocco",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MA",
+   "country_zh": "摩洛哥",
+   "country_en": "Morocco",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1058"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-543",
+ "unesco_id": "543",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 341,
+ "popularity_score": 25679,
+ "country": "UZ",
+ "country_zh": "乌兹别克斯坦",
+ "country_en": "Uzbekistan",
+ "countries": [
+  {
+   "iso2": "UZ",
+   "zh": "乌兹别克斯坦",
+   "en": "Uzbekistan"
+  }
+ ],
+ "region": "Khorezm region, Khiva",
+ "subdivision_iso": "UZ-XO",
+ "subdivision_zh": "花拉子模州",
+ "subdivision_en": "Xorazm Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伊钦•卡拉内城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Itchan Kala",
+ "name_local": "Ichan qalʼa",
+ "local_lang": "uz",
+ "local_lang_name": "Uzbek",
+ "slug": "543-itchan_kala",
+ "lat": 41.377718,
+ "lon": 60.359476,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伊钦·卡拉城是一座古老的希瓦绿洲的内城，由10米高的砖墙保护着，它是通往伊朗的沙漠中商队的最后一个驿站。尽管只有很少的一些古老纪念性建筑保存在那里，但它依然是中亚保存完好的穆斯林建筑群中的典范，其中著名的建筑如德尤马清真寺、陵墓以及19世纪初由阿拉－库里可汗修建的两座辉煌的宫殿。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Itchan Kala is the inner town (protected by brick walls some 10 m high) of the old Khiva oasis, which was the last resting-place of caravans before crossing the desert to Iran. Although few very old monuments still remain, it is a coherent and well-preserved example of the Muslim architecture of Central Asia. There are several outstanding structures such as the Djuma Mosque, the mausoleums and the madrasas and the two magnificent palaces built at the beginning of the 19th century by Alla-Kulli-Khan.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ichan-qal’a (oʻzbekcha: Ichan Qa'la) – Oʻzbekistonning tarixiy oʻzbek shahri Xivaning mustahkam devor bilan oʻralgan ichki shahri boʻlib, Markaziy Osiyodagi birinchi Jahon meʼrosi ob’ektiga aylandi. Asrlar davomida qad rostlagan (eng qadimiy meʼmoriy yodgorliklar XIV asrga toʻgʻri keladi), istehkom, saroylar, masjid, madrasalar, maqbara, minoralar, karvonsaroy va hammomlar Ichan qalʼani oʻziga xos yodgorlik shahriga aylantirdi. Koʻhna Xiva 1968-yilda rasman qoʻriqxona maqomini oldi.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/KhivaWalls.jpg?width=1280",
+   "title": "KhivaWalls.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:KhivaWalls.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_543.jpg",
+   "title": "Itchan Kala",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/543",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/543",
+ "transport": {
+  "airports": [
+   {
+    "name": "Urgench International Airport",
+    "iata": "UGC",
+    "city": "Urgench",
+    "country": "UZ",
+    "lat": 41.58274,
+    "lon": 60.64338,
+    "type": "large_airport",
+    "distance_km": 32.8
+   },
+   {
+    "name": "Dashoguz International Airport",
+    "iata": "TAZ",
+    "city": "Daşoguz",
+    "country": "TM",
+    "lat": 41.759853,
+    "lon": 59.836149,
+    "type": "large_airport",
+    "distance_km": 60.8
+   },
+   {
+    "name": "Nukus International Airport",
+    "iata": "NCU",
+    "city": "Nukus",
+    "country": "UZ",
+    "lat": 42.4884,
+    "lon": 59.623299,
+    "type": "large_airport",
+    "distance_km": 137.7
+   }
+  ],
+  "nearest_airport_km": 32.8,
+  "distance_beijing_km": 4625.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UZ",
+  "country_zh": "乌兹别克斯坦",
+  "country_en": "Uzbekistan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UZ",
+   "country_zh": "乌兹别克斯坦",
+   "country_en": "Uzbekistan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "uz",
+  "local_lang_name": "Uzbek",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/543"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Itchan%20Kala"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

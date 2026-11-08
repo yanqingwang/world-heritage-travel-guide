@@ -1,0 +1,162 @@
+{
+ "id": "wh-846",
+ "unesco_id": "846",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 710,
+ "popularity_score": 5351,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of Thuringia (Thüringen)",
+ "subdivision_iso": "DE-TH",
+ "subdivision_zh": "图林根州",
+ "subdivision_en": "Thuringia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "古典魏玛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Classical Weimar",
+ "name_local": "Klassisches Weimar",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "846-classical_weimar",
+ "lat": 50.98333333,
+ "lon": 11.31666667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "18世纪末至19世纪初，魏玛这一图林根(Thuringian)小城见证了当时文化的极度繁荣，吸引了许多作家及学者如歌德(Goethe)、席勒(Schiller)等。这种发展在周围地区高水平的建筑物和公园中也可见一斑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the late 18th and early 19th centuries the small Thuringian town of Weimar witnessed a remarkable cultural flowering, attracting many writers and scholars, notably Goethe and Schiller. This development is reflected in the high quality of many of the buildings and of the parks in the surrounding area.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Klassisches Weimar ist seit dem 2. Dezember 1998 ein Eintrag des UNESCO-Welterbes, der elf verschiedene Denkmäler der Stadt Weimar umfasst, die im Zusammenhang mit der Weimarer Klassik (ca. 1780 bis 1830) stehen und als Zeugnis der höfischen und bürgerlichen Kultur in einer mitteleuropäischen Residenz um 1800 dienen.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Weimarschloss.jpg?width=1280",
+   "title": "Weimarschloss.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Weimarschloss.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_846.jpg",
+   "title": "Classical Weimar",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/846",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/846",
+ "transport": {
+  "airports": [
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 24.9
+   },
+   {
+    "name": "Leipzig/Halle Airport",
+    "iata": "LEJ",
+    "city": "Schkeuditz",
+    "country": "DE",
+    "lat": 51.420657,
+    "lon": 12.232705,
+    "type": "large_airport",
+    "distance_km": 80.2
+   },
+   {
+    "name": "Karlovy Vary Airport",
+    "iata": "KLV",
+    "city": "Karlovy Vary",
+    "country": "CZ",
+    "lat": 50.202999,
+    "lon": 12.915,
+    "type": "large_airport",
+    "distance_km": 142.3
+   }
+  ],
+  "nearest_airport_km": 24.9,
+  "distance_beijing_km": 7589.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/846"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Classical%20Weimar%20%28World%20Heritage%20Site%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

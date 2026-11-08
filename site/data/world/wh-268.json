@@ -1,0 +1,162 @@
+{
+ "id": "wh-268",
+ "unesco_id": "268",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 256,
+ "popularity_score": 37994,
+ "country": "CH",
+ "country_zh": "瑞士",
+ "country_en": "Switzerland",
+ "countries": [
+  {
+   "iso2": "CH",
+   "zh": "瑞士",
+   "en": "Switzerland"
+  }
+ ],
+ "region": "Canton of St Gall, Town of St Gall",
+ "subdivision_iso": "CH-SG",
+ "subdivision_zh": "圣加仑州",
+ "subdivision_en": "Canton of St. Gallen",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣加尔修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Abbey of St Gall",
+ "name_local": "Fürstabtei St. Gallen",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "268-abbey_of_st_gall",
+ "lat": 47.423055555,
+ "lon": 9.377222222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从公元8世纪至1805年脱离宗教影响，圣加尔修道院一直是欧洲最重要的建筑之一，是卡洛林王朝时期修道院建筑风格的完美再现。修道院图书馆是世界上历史最悠久、馆藏最丰富的图书馆之一，其藏品中保存有许多珍贵的手稿，部分手稿写于羊皮上，内容是最初的建筑构想。修道院社区于公元1755-1768年按巴罗克式的风格重建。大教堂和图书馆是该宏伟建筑群的主要代表，一千两百年以来，人们在此活动不断。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Fürstabtei St. Gallen (gegründet 719, aufgehoben 1805) war eine Benediktinerabtei in der heutigen Ostschweiz und die Bezeichnung für ein Gebiet, das der weltlichen Herrschaft des Abts des Klosters in St. Gallen unterstand. Das Kloster St. Gallen bzw. die Abtei St. Gallen war nach dem Kloster Säckingen das zweitälteste Kloster auf dem Gebiet der Alamannen. Der Abt von St. Gallen war bis 1798 Reichsfürst mit Sitz und Stimme im Reichstag des Heiligen Römischen Reiches; St. Gallen war gleichzeitig erster zugewandter Ort der Schweizerischen Eidgenossenschaft. Bis zur Aufhebung der Abtei 1805 diente die Stiftskirche St. Gallen als Klosterkirche.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/StGallen%20asv2022-10%20F%C3%BCrstabtei%20img1.jpg?width=1280",
+   "title": "StGallen asv2022-10 Fürstabtei img1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:StGallen%20asv2022-10%20F%C3%BCrstabtei%20img1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_268.jpg",
+   "title": "Abbey of St Gall",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/268",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/268",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sankt Gallen Altenrhein Airport",
+    "iata": "ACH",
+    "city": "St. Gallen",
+    "country": "CH",
+    "lat": 47.485001,
+    "lon": 9.56077,
+    "type": "medium_airport",
+    "distance_km": 15.4
+   },
+   {
+    "name": "Bodensee Airport Friedrichshafen",
+    "iata": "FDH",
+    "city": "Friedrichshafen",
+    "country": "DE",
+    "lat": 47.671299,
+    "lon": 9.51149,
+    "type": "large_airport",
+    "distance_km": 29.4
+   },
+   {
+    "name": "Zürich Airport",
+    "iata": "ZRH",
+    "city": "Zurich",
+    "country": "CH",
+    "lat": 47.458056,
+    "lon": 8.548056,
+    "type": "large_airport",
+    "distance_km": 62.5
+   }
+  ],
+  "nearest_airport_km": 15.4,
+  "distance_beijing_km": 7910.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CH",
+  "country_zh": "瑞士",
+  "country_en": "Switzerland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CH",
+   "country_zh": "瑞士",
+   "country_en": "Switzerland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/268"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abbey%20of%20Saint%20Gall"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-621",
+ "unesco_id": "621",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1122,
+ "popularity_score": null,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "Vysocina Region",
+ "subdivision_iso": "CZ-632",
+ "subdivision_zh": "伊赫拉瓦縣",
+ "subdivision_en": "Jihlava District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "泰尔奇历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Telč",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "621-historic_centre_of_telč",
+ "lat": 49.18333,
+ "lon": 15.45,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "泰尔奇的建筑坐落于小山顶上，房屋最初为木结构。自14世纪末的一场大火之后，小镇以石头为材料进行了重建。整座城池有城墙环绕，另外还有人工河网增加了其防卫功能。城镇的哥特式城堡重建于15世纪晚期，采用了新哥特式风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The houses in Telc, which stands on a hilltop, were originally built of wood. After a fire in the late 14th century, the town was rebuilt in stone, surrounded by walls and further strengthened by a network of artificial ponds. The town's Gothic castle was reconstructed in High Gothic style in the late 15th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tel%C4%8D%2C%20Vnit%C5%99n%C3%AD%20M%C4%9Bsto%2001.jpg?width=1280",
+   "title": "Telč, Vnitřní Město 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tel%C4%8D%2C%20Vnit%C5%99n%C3%AD%20M%C4%9Bsto%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_621.jpg",
+   "title": "Historic Centre of Telč",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/621",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/621",
+ "transport": {
+  "airports": [
+   {
+    "name": "České Budějovice South Bohemian Airport",
+    "iata": "JCL",
+    "city": "České Budějovice",
+    "country": "CZ",
+    "lat": 48.948171,
+    "lon": 14.42832,
+    "type": "large_airport",
+    "distance_km": 78.9
+   },
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 90.5
+   },
+   {
+    "name": "Pardubice Airport",
+    "iata": "PED",
+    "city": "Pardubice",
+    "country": "CZ",
+    "lat": 50.015049,
+    "lon": 15.73981,
+    "type": "large_airport",
+    "distance_km": 94.8
+   }
+  ],
+  "nearest_airport_km": 78.9,
+  "distance_beijing_km": 7526.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/621"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1656",
+ "unesco_id": "1656",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 820,
+ "popularity_score": 1957,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "DE-TH",
+ "subdivision_zh": "图林根州",
+ "subdivision_en": "Thuringia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "埃尔福特的中世纪犹太遗产",
+ "name_zh_source": "unesco_official",
+ "name_en": "Jewish-Medieval Heritage of Erfurt",
+ "name_local": "Jüdisch-Mittelalterliches Erbe in Erfurt",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "1656-jewish-medieval_heritage_of_erfurt",
+ "lat": 50.978644,
+ "lon": 11.029246,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "遗产位于图林根自由州首府埃尔福特（Erfurt）的中世纪古城，由3座古建筑组成：旧犹太教堂、浸礼池、石屋。它们展现了中世纪时期（公元11世纪末至14世纪中期）中欧地区犹太社区的生活，及其与基督教多数派的共存。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in the medieval historic centre of Erfurt, the capital city of Thuringia, the property comprises three monuments: the Old Synagogue, the Mikveh, and the Stone House. They illustrate the life of the local Jewish community and its coexistence with a Christian majority in Central Europe during the Middle Ages, between the end of the 11th and the mid-14th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Das Jüdisch-Mittelalterliche Erbe in Erfurt ist Bestandteil der Liste des UNESCO-Welterbes und umfasst jüdisches Kulturerbe in der Altstadt von Erfurt in Thüringen. Seit September 2023 ist Erfurt ein offizieller Teil des Menschheitserbes. Zur Welterbestätte gehören die Alte Synagoge, die um 1100 erbaut wurde, die Mikwe aus dem 13. Jahrhundert und das Steinerne Haus, das um 1200 erbaut und um 1250 umgebaut wurde. Die Gebäude veranschaulichen das Leben der örtlichen jüdischen Gemeinde und ihr Zusammenleben mit der christlichen Mehrheit im Mittelalter zwischen dem 11. und der Mitte des 14. Jahrhunderts.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alte%20Synagoge%20Erfurt.JPG?width=1280",
+   "title": "Alte Synagoge Erfurt.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Alte%20Synagoge%20Erfurt.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1656.jpg",
+   "title": "Jewish-Medieval Heritage of Erfurt",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1656",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1656",
+ "transport": {
+  "airports": [
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 4.8
+   },
+   {
+    "name": "Leipzig/Halle Airport",
+    "iata": "LEJ",
+    "city": "Schkeuditz",
+    "country": "DE",
+    "lat": 51.420657,
+    "lon": 12.232705,
+    "type": "large_airport",
+    "distance_km": 97.2
+   },
+   {
+    "name": "Kassel Airport",
+    "iata": "KSF",
+    "city": "Calden",
+    "country": "DE",
+    "lat": 51.418395,
+    "lon": 9.391638,
+    "type": "large_airport",
+    "distance_km": 124.1
+   }
+  ],
+  "nearest_airport_km": 4.8,
+  "distance_beijing_km": 7589.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 11
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1656"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jewish-Medieval%20Heritage%20of%20Erfurt"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:51Z"
+}

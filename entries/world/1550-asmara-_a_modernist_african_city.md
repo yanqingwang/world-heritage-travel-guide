@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(iv)"
 lat: 15.335278
 lon: 38.935833
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:49Z"
 ---
 
 # 阿斯马拉：现代主义非洲城市 / Asmara: A Modernist African City

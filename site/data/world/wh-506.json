@@ -1,0 +1,162 @@
+{
+ "id": "wh-506",
+ "unesco_id": "506",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 614,
+ "popularity_score": 9029,
+ "country": "MR",
+ "country_zh": "毛里塔尼亚",
+ "country_en": "Mauritania",
+ "countries": [
+  {
+   "iso2": "MR",
+   "zh": "毛里塔尼亚",
+   "en": "Mauritania"
+  }
+ ],
+ "region": "Nouadhibou and Azefal",
+ "subdivision_iso": "MR-08",
+ "subdivision_zh": "努瓦迪布湾省",
+ "subdivision_en": "Dakhlet Nouadhibou",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿尔金岩石礁国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Banc d'Arguin National Park",
+ "name_local": "Parc national du banc d'Arguin",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "506-banc_d'arguin_national_park",
+ "lat": 20.234722222,
+ "lon": -16.108888888,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1989",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿尔金岩石礁国家公园位于大西洋海岸，由沙丘、海岸沼泽、小岛和浅海湾构成。贫瘠的荒漠环境以及沿海地区的多样性，使得陆地与海岸的自然风光形成了强烈对照。种类繁多的候鸟在这里越冬。渔民们用来吸引大量鱼群的几种海龟和海豚在这里也可以找到。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Fringing the Atlantic coast, the park comprises sand-dunes, coastal swamps, small islands and shallow coastal waters. The contrast between the harsh desert environment and the biodiversity of the marine zone has resulted in a land- and seascape of outstanding natural significance. A wide variety of migrating birds spend the winter there. Several species of sea turtle and dolphin, used by the fishermen to attract shoals of fish, can also be found.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé le long de la côte atlantique, ce parc est formé de dunes de sable, de zones côtières marécageuses, de petites îles et d'eaux littorales peu profondes. L'austérité du désert et la richesse biologique de la zone marine créent un paysage terrestre et marin exceptionnellement contrasté. Une remarquable diversité d'oiseaux migrateurs y passent l'hiver. On y trouve également plusieurs espèces de tortues marines ainsi que des dauphins, que les pêcheurs utilisent pour rabattre les bancs de poissons.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PNBA%2043.JPG?width=1280",
+   "title": "PNBA 43.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:PNBA%2043.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_506.jpg",
+   "title": "Banc d'Arguin National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/506",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/506",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nouadhibou International Airport",
+    "iata": "NDB",
+    "city": "Nouadhibou",
+    "country": "MR",
+    "lat": 20.932404,
+    "lon": -17.030199,
+    "type": "large_airport",
+    "distance_km": 123.4
+   },
+   {
+    "name": "Nouakchott–Oumtounsy International Airport",
+    "iata": "NKC",
+    "city": "Nouakchott",
+    "country": "MR",
+    "lat": 18.31,
+    "lon": -15.969722,
+    "type": "large_airport",
+    "distance_km": 214.5
+   },
+   {
+    "name": "Dakhla Airport",
+    "iata": "VIL",
+    "city": "Dakhla",
+    "country": "EH",
+    "lat": 23.7183,
+    "lon": -15.932,
+    "type": "large_airport",
+    "distance_km": 387.8
+   }
+  ],
+  "nearest_airport_km": 123.4,
+  "distance_beijing_km": 11702.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MR",
+  "country_zh": "毛里塔尼亚",
+  "country_en": "Mauritania",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][85]",
+  "notes": "Available at Nouakchott–Oumtounsy International Airport. Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MR",
+   "country_zh": "毛里塔尼亚",
+   "country_en": "Mauritania",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][85]",
+   "notes": "Available at Nouakchott–Oumtounsy International Airport. Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/506"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Banc%20d%27Arguin%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

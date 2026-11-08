@@ -1,0 +1,234 @@
+{
+ "id": "cn-1275",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "北京市",
+ "province_en": "Beijing",
+ "province_iso": "CN-BJ",
+ "city_zh": "东城区",
+ "city_en": "Dongcheng District",
+ "name_zh": "天坛公园",
+ "name_en": "Temple of Heaven",
+ "name_en_source": "wikipedia",
+ "slug": "tiantangongyuan-1275",
+ "lat": 39.885038,
+ "lon": 116.428525,
+ "address_zh": "北京市东城区天坛街道天坛东里甲1号",
+ "address_en": "No. 1, Tiantandongli A, Tiantan Street, Dongcheng District, Beijing",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "天坛是明清两代皇帝“祭天”“祈谷”的场所。坛域北呈圆形，南为方形，寓意“天圆地方”，主要建筑有祈年殿、圜丘坛等。1998年，天坛公园被联合国教科文组织确认为世界文化遗产。",
+ "intro_en": "The Temple of Heaven (simplified Chinese: 天坛; traditional Chinese: 天壇; pinyin: Tiāntán) is a complex of imperial religious Confucian buildings situated in the southeastern part of central Beijing. The complex was visited by the Emperors of the Ming and then later restored by the Qing dynasties for annual ceremonies of prayer to Heaven for a good harvest and other seasonal rites. The Temple of Heaven was inscribed as a World Heritage site in 1998 and was described as \"a masterpiece of architecture and landscape design which simply and graphically illustrates a cosmogony of great importance for the evolution of one of the world's great civilizations...\" as the \"symbolic layout and design of the Temple of Heaven had a profound influence on architecture and planning in the Far East over many centuries.\"",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Temple_of_Heaven_20160323_01.jpg/1280px-Temple_of_Heaven_20160323_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Temple of Heaven 20160323 01.jpg",
+   "author": "Shujianyang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_20160323_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Manchu_Version_of_the_Tablet_of_Fasting%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231336%29.jpg/1280px-Manchu_Version_of_the_Tablet_of_Fasting%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Manchu Version of the Tablet of Fasting, Zhaigong (Fasting Palace), Temple of Heaven, Dongcheng District, Beijing (202602231336).jpg",
+   "author": "MiiCii",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Manchu_Version_of_the_Tablet_of_Fasting%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231336%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Plaque_of_%22Jingtian%22_%28Revering_Heaven%29%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231335%29.jpg/1280px-Plaque_of_%22Jingtian%22_%28Revering_Heaven%29%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Plaque of \"Jingtian\" (Revering Heaven), Zhaigong (Fasting Palace), Temple of Heaven, Dongcheng District, Beijing (202602231335).jpg",
+   "author": "MiiCii",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Plaque_of_%22Jingtian%22_%28Revering_Heaven%29%2C_Zhaigong_%28Fasting_Palace%29%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231335%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Taiyuan_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231430%29.jpg/1280px-Taiyuan_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231430%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Taiyuan Gate, Temple of Heaven, Dongcheng District, Beijing (202602231430).jpg",
+   "author": "MiiCii",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Taiyuan_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231430%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Zhaoheng_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231405%29.jpg/1280px-Zhaoheng_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zhaoheng Gate, Temple of Heaven, Dongcheng District, Beijing (202602231405).jpg",
+   "author": "MiiCii",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Zhaoheng_Gate%2C_Temple_of_Heaven%2C_Dongcheng_District%2C_Beijing_%28202602231405%29.jpg"
+  }
+ ],
+ "web": "http://www.tiantanpark.com/",
+ "booking": "http://www.tiantanpark.com/centre.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Beijing Capital International Airport",
+    "iata": "PEK",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 40.077349,
+    "lon": 116.596702,
+    "type": "large_airport",
+    "distance_km": 25.7
+   },
+   {
+    "name": "Beijing Daxing International Airport",
+    "iata": "PKX",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 39.501289,
+    "lon": 116.413967,
+    "type": "large_airport",
+    "distance_km": 42.7
+   },
+   {
+    "name": "Tianjin Binhai International Airport",
+    "iata": "TSN",
+    "city": "Tianjin",
+    "country": "CN",
+    "lat": 39.124401092499994,
+    "lon": 117.346000671,
+    "type": "large_airport",
+    "distance_km": 115.5
+   }
+  ],
+  "nearest_airport_km": 25.7,
+  "high_speed_stations": [
+   {
+    "name": "北京南",
+    "name_en": "Beijingnan",
+    "lat": 39.8634831,
+    "lon": 116.3723994,
+    "distance_km": 5.4,
+    "operator": "中国铁路北京局集团有限公司",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "北京",
+    "name_en": "Beijing",
+    "lat": 39.9011168,
+    "lon": 116.4210134,
+    "distance_km": 1.9,
+    "operator": "北京局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "北京东",
+    "name_en": "Beijingdong",
+    "lat": 39.901096,
+    "lon": 116.478656,
+    "distance_km": 4.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "小红门",
+    "name_en": null,
+    "lat": 39.8312154,
+    "lon": 116.46608,
+    "distance_km": 6.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "励骏酒店",
+   "name_en": "Legendale Hotel Beijing",
+   "stars": 5,
+   "brand": null,
+   "lat": 39.9133769,
+   "lon": 116.4127553,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京国贸大酒店",
+   "name_en": "China World Hotel",
+   "stars": 5,
+   "brand": "北京国贸大酒店",
+   "lat": 39.9109978,
+   "lon": 116.4525467,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京王府井希尔顿酒店",
+   "name_en": "Hilton Beijing Wangfujing",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 39.9134295,
+   "lon": 116.4071507,
+   "distance_km": 3.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华尔道夫酒店",
+   "name_en": "Waldorf Astoria Beijing",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 39.9145678,
+   "lon": 116.4077835,
+   "distance_km": 3.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京万达文华酒店",
+   "name_en": "Sofitel Wanda Beijing",
+   "stars": 5,
+   "brand": null,
+   "lat": 39.907961,
+   "lon": 116.4642038,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 679,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天坛"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

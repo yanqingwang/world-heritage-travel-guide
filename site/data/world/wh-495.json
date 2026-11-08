@@ -1,0 +1,160 @@
+{
+ "id": "wh-495",
+ "unesco_id": "495",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1096,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-67",
+ "subdivision_zh": "下萊茵省",
+ "subdivision_en": "Bas-Rhin",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "斯特拉斯堡大岛和新城区",
+ "name_zh_source": "curated",
+ "name_en": "Strasbourg, Grande-Île and Neustadt",
+ "name_local": "Strasbourg, Grande-Île et Neustadt",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "495-strasbourg,_grande-île_and_neustadt",
+ "lat": 48.58444,
+ "lon": 7.74889,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "最初的遗产于 1988 年被列入世界遗产名录，由斯特拉斯堡历史中心大岛组成，围绕大教堂而建。扩建涉及新城新城，由德国政府（1871-1918 年）设计和建造。新城的城市布局部分灵感来自奥斯曼模型，同时采用了日耳曼风格的建筑风格。这种双重影响使得斯特拉斯堡特有的城市空间得以创建，围绕大教堂创建的视角向河流和运河周围的统一景观开放。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The initial property, inscribed in 1988 on the World Heritage List, was formed by the Grande-Île, the historic centre of Strasbourg, structured around the cathedral. The extension concerns the Neustadt , new town, designed and built under the German administration (1871-1918). The Neustadt draws the inspiration for its urban layout partially from the Haussmannian model, while adopting an architectural idiom of Germanic inspiration. This dual influence has enabled the creation of an urban space that is specific to Strasbourg, where the perspectives created around the cathedral open to a unified landscape around the rivers and canals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le bien initial, inscrit en 1988 sur la Liste du patrimoine mondial, est formé de la Grande-Île, centre historique de la ville de Strasbourg, structuré autour de la cathédrale. L’extension concerne la Neustadt , ville nouvelle conçue et réalisée sous administration allemande (1871-1918). Dans sa composition urbaine, la Neustadt s’inspire pour partie du modèle haussmannien, tout en adoptant un vocabulaire architectural d'inspiration germanique. Cette double influence a permis de créer un schéma urbain spécifique à Strasbourg, où les perspectives créées à partir de la cathédrale s’ouvrent sur un paysage unifié organisé autour des cours d’eau et des canaux.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kl%C3%A9ber%20Square%2C%20Strasbourg%20%2816080539557%29.jpg?width=1280",
+   "title": "Kléber Square, Strasbourg (16080539557).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kl%C3%A9ber%20Square%2C%20Strasbourg%20%2816080539557%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_495.jpg",
+   "title": "Strasbourg, Grande-Île and <em>Neustadt</em>",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/495",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/495",
+ "transport": {
+  "airports": [
+   {
+    "name": "Strasbourg Airport",
+    "iata": "SXB",
+    "city": "Strasbourg",
+    "country": "FR",
+    "lat": 48.5383,
+    "lon": 7.62823,
+    "type": "large_airport",
+    "distance_km": 10.3
+   },
+   {
+    "name": "Karlsruhe Baden-Baden Airport",
+    "iata": "FKB",
+    "city": "Rheinmünster",
+    "country": "DE",
+    "lat": 48.7794,
+    "lon": 8.0805,
+    "type": "large_airport",
+    "distance_km": 32.6
+   },
+   {
+    "name": "Saarbrücken Airport",
+    "iata": "SCN",
+    "city": "Saarbrücken",
+    "country": "DE",
+    "lat": 49.214545,
+    "lon": 7.109735,
+    "type": "medium_airport",
+    "distance_km": 84.2
+   }
+  ],
+  "nearest_airport_km": 10.3,
+  "distance_beijing_km": 7946.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/495"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-535",
+ "unesco_id": "535",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1101,
+ "popularity_score": null,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of Saxony-Anhalt (Sachsen-Anhalt)",
+ "subdivision_iso": "DE-ST",
+ "subdivision_zh": "萨克森-安哈尔特州",
+ "subdivision_en": "Saxony-Anhalt",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奎德林堡神学院、城堡和古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Collegiate Church, Castle and Old Town of Quedlinburg",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "535-collegiate_church,_castle_and_old_town_o",
+ "lat": 51.78333,
+ "lon": 11.15,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于萨克森－安哈尔特(Sachsen-Anhalt)地区的奎德林堡是萨克森－奥图大帝(Saxonian-Ottonian)统治期间，东法兰哥尼亚公国(the East Franconian German Empire)的首都，从中世纪开始就一直是一个繁荣的商贸小镇。大量高水平的木结构建筑使奎德林堡成为中世纪欧洲城市的杰出典范，城中圣瑟瓦修联合教堂(the Collegiate Church of St Servatius)则是罗马式建筑的杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Quedlinburg, in the Land of Sachsen-Anhalt, was a capital of the East Franconian German Empire at the time of the Saxonian-Ottonian ruling dynasty. It has been a prosperous trading town since the Middle Ages. The number and high quality of the timber-framed buildings make Quedlinburg an exceptional example of a medieval European town. The Collegiate Church of St Servatius is one of the masterpieces of Romanesque architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnzenberg%20Quedlinburg.jpg?width=1280",
+   "title": "Münzenberg Quedlinburg.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:M%C3%BCnzenberg%20Quedlinburg.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_535.jpg",
+   "title": "Collegiate Church, Castle and Old Town of Quedlinburg",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/535",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/535",
+ "transport": {
+  "airports": [
+   {
+    "name": "Leipzig/Halle Airport",
+    "iata": "LEJ",
+    "city": "Schkeuditz",
+    "country": "DE",
+    "lat": 51.420657,
+    "lon": 12.232705,
+    "type": "large_airport",
+    "distance_km": 85.0
+   },
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 90.5
+   },
+   {
+    "name": "Hannover Airport",
+    "iata": "HAJ",
+    "city": "Hannover",
+    "country": "DE",
+    "lat": 52.461102,
+    "lon": 9.68508,
+    "type": "large_airport",
+    "distance_km": 125.2
+   }
+  ],
+  "nearest_airport_km": 85.0,
+  "distance_beijing_km": 7489.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/535"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

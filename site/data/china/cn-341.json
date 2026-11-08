@@ -1,0 +1,234 @@
+{
+ "id": "cn-341",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "扬州市",
+ "city_en": "Yangzhou",
+ "name_zh": "扬州市瘦西湖风景区",
+ "name_en": "Slender West Lake",
+ "name_en_source": "wikipedia",
+ "slug": "yangzhoushishouxihu-341",
+ "lat": 32.408155,
+ "lon": 119.432817,
+ "address_zh": "扬州市邗江区大虹桥路28号",
+ "address_en": "No. 28, Dahongqiao Road, Hanjiang District, Yangzhou City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "瘦西湖风景区是世界文化遗产大运河的重要组成部分、国家级风景名胜区蜀冈-瘦西湖风景名胜区的核心和精华部分。窈窕曲折的一湖碧水，串以徐园、小金山、五亭桥、白塔、二十四桥、万花园、双峰云栈等名园胜迹，风韵独具而蜚声海内外。",
+ "intro_en": "Slender West Lake, also known by its Chinese name Shouxihu and by other names, is a scenic lake in Hanjiang District in central Yangzhou, China. The lake developed from the city moats of Tang-era Yangzhou. During the Qing dynasty, its banks were the site of numerous estates for the area's wealthy officials and salt merchants. The lake and some of its attractions have been restored as a national park and AAAAA tourist attraction, requiring a ticket for admission and open only from 7 am to 6 pm.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Thin_West_Lake_south_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Thin West Lake south entrance.JPG",
+   "author": "Gisling",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Thin_West_Lake_south_entrance.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Eight_Eccentrics_of_Yangzhou_1.jpg/1280px-Eight_Eccentrics_of_Yangzhou_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Eight Eccentrics of Yangzhou 1.jpg",
+   "author": "huangdan2060",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Eight_Eccentrics_of_Yangzhou_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Eight_Eccentrics_of_Yangzhou_2.jpg/1280px-Eight_Eccentrics_of_Yangzhou_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Eight Eccentrics of Yangzhou 2.jpg",
+   "author": "huangdan2060",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Eight_Eccentrics_of_Yangzhou_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Eight_Eccentrics_of_Yangzhou_3.jpg/1280px-Eight_Eccentrics_of_Yangzhou_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Eight Eccentrics of Yangzhou 3.jpg",
+   "author": "huangdan2060",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Eight_Eccentrics_of_Yangzhou_3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Eight_Eccentrics_of_Yangzhou_5.jpg/1280px-Eight_Eccentrics_of_Yangzhou_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Eight Eccentrics of Yangzhou 5.jpg",
+   "author": "huangdan2060",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Eight_Eccentrics_of_Yangzhou_5.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yangzhou Taizhou Airport",
+    "iata": "YTY",
+    "city": "Yangzhou",
+    "country": "CN",
+    "lat": 32.5634,
+    "lon": 119.7198,
+    "type": "medium_airport",
+    "distance_km": 32.0
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 63.1
+   },
+   {
+    "name": "Nanjing Lukou International Airport",
+    "iata": "NKG",
+    "city": "Nanjing",
+    "country": "CN",
+    "lat": 31.735032,
+    "lon": 118.865949,
+    "type": "large_airport",
+    "distance_km": 92.0
+   }
+  ],
+  "nearest_airport_km": 32.0,
+  "high_speed_stations": [
+   {
+    "name": "镇江",
+    "name_en": "Zhenjiang",
+    "lat": 32.1996564,
+    "lon": 119.426989,
+    "distance_km": 23.2,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "扬州北",
+    "name_en": null,
+    "lat": 32.4466404,
+    "lon": 119.4585198,
+    "distance_km": 4.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "扬州",
+    "name_en": "Yangzhou",
+    "lat": 32.3916856,
+    "lon": 119.3455868,
+    "distance_km": 8.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "扬州东",
+    "name_en": "Yangzhoudong",
+    "lat": 32.4066134,
+    "lon": 119.5233197,
+    "distance_km": 8.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Guang Dong International Hotel",
+   "name_en": "Guang Dong International Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.194735,
+   "lon": 119.4352,
+   "distance_km": 23.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香格里拉大酒店",
+   "name_en": "Shangri-la",
+   "stars": null,
+   "brand": null,
+   "lat": 32.3923606,
+   "lon": 119.363143,
+   "distance_km": 6.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "喜来登酒店",
+   "name_en": "Sheraton Zhenjiang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.1958419,
+   "lon": 119.4303207,
+   "distance_km": 23.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "扬州迎宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.4076298,
+   "lon": 119.424699,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "维也纳酒店",
+   "name_en": "Vienna Hotels",
+   "stars": null,
+   "brand": "维也纳酒店",
+   "lat": 32.4116839,
+   "lon": 119.4450659,
+   "distance_km": 1.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 76,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/瘦西湖"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

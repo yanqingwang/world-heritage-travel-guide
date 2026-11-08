@@ -1,0 +1,171 @@
+{
+ "id": "cn-407",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "焦作市",
+ "city_en": "Jiaozuo",
+ "name_zh": "焦作市云台山-神农山-青天河风景区",
+ "name_en": "Qingtianhe Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "jiaozuoshiyuntaishanshennongshanqingtianhe-407",
+ "lat": 35.441412,
+ "lon": 113.383373,
+ "address_zh": "焦作市修武县、博爱县和沁阳市境内",
+ "address_en": "Within Xiuwu County, Boai County and Qinyang City, Jiaozuo City",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "风景区包含云台山、青天河、神农山三个主题景区。其中，云台山是一处以太行山岳水景为特色，以峡谷类地质地貌景观和历史文化为内涵的科普生态旅游景区；神农山相传是道教创始人老子筑炉炼丹、成道仙升之所；青天河是集江南水乡与北国田园风光于一体的旅游景区，素有“北方三峡”之荣和“豫北小桂林”之誉。",
+ "intro_en": "The scenic area includes three themed scenic areas: Yuntai Mountain, Qingtian River, and Shennong Mountain. Among them, Yuntai Mountain is a popular science and eco-tourism scenic spot featuring the waterscape of the Taihang Mountains, canyon-like geological landscapes and historical culture; Shennong Mountain is said to be the place where Laozi, the founder of Taoism, built a furnace to refine elixirs and became a Taoist; Qingtian River is a tourist attraction integrating the water towns of the south of the Yangtze River and the pastoral scenery of the North. It is known as the \"Three Gorges of the North\" and the \"Little Guilin of Northern Henan\".",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Changzhi Wangcun Airport",
+    "iata": "CIH",
+    "city": "Changzhi",
+    "country": "CN",
+    "lat": 36.247501,
+    "lon": 113.125999,
+    "type": "small_airport",
+    "distance_km": 92.6
+   },
+   {
+    "name": "Anyang Hongqiqu Airport",
+    "iata": "HQQ",
+    "city": "Anyang",
+    "country": "CN",
+    "lat": 35.870833,
+    "lon": 114.461944,
+    "type": "small_airport",
+    "distance_km": 108.5
+   },
+   {
+    "name": "Zhengzhou Xinzheng International Airport",
+    "iata": "CGO",
+    "city": "Zhengzhou",
+    "country": "CN",
+    "lat": 34.526497,
+    "lon": 113.849165,
+    "type": "large_airport",
+    "distance_km": 110.2
+   }
+  ],
+  "nearest_airport_km": 92.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "凤洼",
+    "name_en": null,
+    "lat": 35.3505559,
+    "lon": 113.4561861,
+    "distance_km": 12.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "安阳城",
+    "name_en": null,
+    "lat": 35.316666,
+    "lon": 113.3809394,
+    "distance_km": 13.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "小马",
+    "name_en": null,
+    "lat": 35.2866788,
+    "lon": 113.3149329,
+    "distance_km": 18.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "云台天阶国际饭店",
+   "name_en": "Yuntai Place International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.41631,
+   "lon": 113.3745034,
+   "distance_km": 2.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "王家小院",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.6428317,
+   "lon": 113.4925541,
+   "distance_km": 24.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Days Hotel & Suites Jiaozuo",
+   "name_en": "Days Hotel & Suites Jiaozuo",
+   "stars": null,
+   "brand": "Days Inn by Wyndham",
+   "lat": 35.2407504,
+   "lon": 113.2241642,
+   "distance_km": 26.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "石板河度假区",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.6229424,
+   "lon": 113.5932147,
+   "distance_km": 27.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/青天河"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

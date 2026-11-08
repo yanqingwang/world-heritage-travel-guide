@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iii)(iv)(ix)(x)"
 lat: -0.5
 lon: 11.5
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:41Z"
 ---
 
 # 洛佩──奥坎德生态系统与文化遗迹景观 / Ecosystem and Relict Cultural Landscape of Lopé-Okanda

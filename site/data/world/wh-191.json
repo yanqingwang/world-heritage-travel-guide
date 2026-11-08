@@ -1,0 +1,162 @@
+{
+ "id": "wh-191",
+ "unesco_id": "191",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 399,
+ "popularity_score": 20669,
+ "country": "DZ",
+ "country_zh": "阿尔及利亚",
+ "country_en": "Algeria",
+ "countries": [
+  {
+   "iso2": "DZ",
+   "zh": "阿尔及利亚",
+   "en": "Algeria"
+  }
+ ],
+ "region": "Wilaya (province) of Setif",
+ "subdivision_iso": "DZ-19",
+ "subdivision_zh": "塞提夫省",
+ "subdivision_en": "Sétif Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "杰米拉",
+ "name_zh_source": "unesco_official",
+ "name_en": "Djémila",
+ "name_local": "جميلة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "191-djémila",
+ "lat": 36.32056,
+ "lon": 5.73667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "杰米拉又叫奎库尔城 (Cuicul)，海拔900多米，城内有广场、神庙、长方形会堂、凯旋门和民居，形成了在山区进行罗马式城市建筑设计的典型范例。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated 900 m above sea-level, Djémila, or Cuicul, with its forum, temples, basilicas, triumphal arches and houses, is an interesting example of Roman town planning adapted to a mountain location.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "جميلة أو سويكول بساحتها وهياكلها وكنائسها وأقواس نصرها ومنازلها الواقعة كلها على ارتفاع 900 متر عن سطح البحر هي مثال مذهل للتنظيم المدني الروماني الذي يتكيّف مع المواقع الجبلية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Ruins%20of%20Djemila%20in%20S%C3%A9tif%2C%20Algeria.jpg?width=1280",
+   "title": "Roman Ruins of Djemila in Sétif, Algeria.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Roman%20Ruins%20of%20Djemila%20in%20S%C3%A9tif%2C%20Algeria.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_191.jpg",
+   "title": "Djémila",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/191",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/191",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ain Arnat Airport",
+    "iata": "QSF",
+    "city": "Sétif",
+    "country": "DZ",
+    "lat": 36.178488,
+    "lon": 5.329909,
+    "type": "medium_airport",
+    "distance_km": 39.7
+   },
+   {
+    "name": "Jijel Ferhat Abbas Airport",
+    "iata": "GJL",
+    "city": "Tahir",
+    "country": "DZ",
+    "lat": 36.794125,
+    "lon": 5.873652,
+    "type": "large_airport",
+    "distance_km": 54.1
+   },
+   {
+    "name": "Soummam–Abane Ramdane Airport",
+    "iata": "BJA",
+    "city": "Béjaïa",
+    "country": "DZ",
+    "lat": 36.712547,
+    "lon": 5.069909,
+    "type": "large_airport",
+    "distance_km": 73.8
+   }
+  ],
+  "nearest_airport_km": 39.7,
+  "distance_beijing_km": 9008.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DZ",
+  "country_zh": "阿尔及利亚",
+  "country_en": "Algeria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DZ",
+   "country_zh": "阿尔及利亚",
+   "country_en": "Algeria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 54
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/191"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dj%C3%A9mila"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

@@ -1,0 +1,152 @@
+{
+ "id": "wh-1060",
+ "unesco_id": "1060",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 884,
+ "popularity_score": null,
+ "country": "KE",
+ "country_zh": "肯尼亚",
+ "country_en": "Kenya",
+ "countries": [
+  {
+   "iso2": "KE",
+   "zh": "肯尼亚",
+   "en": "Kenya"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "KE-01",
+ "subdivision_zh": "",
+ "subdivision_en": "Baringo",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "肯尼亚裂谷湖泊系统",
+ "name_zh_source": "curated",
+ "name_en": "Kenya Lake System in the Great Rift Valley",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1060-kenya_lake_system_in_the_great_rift_vall",
+ "lat": 0.4425,
+ "lon": 36.24,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "肯尼亚东非大裂谷湖泊系统是一处风景优美的自然景观，由位于肯尼亚东非大裂谷省的三个相互连接的相对较浅的湖泊（博戈里亚湖、纳库鲁湖和埃尔门泰塔湖）组成，总面积为32,034公顷。该地产是 13 种全球濒危鸟类的栖息地，也是世界上鸟类多样性最高的地区之一。它是小火烈鸟最重要的觅食地，也是大白鹈鹕的主要筑巢和繁殖地。该遗产拥有大量哺乳动物种群，包括黑犀牛、罗斯柴尔德长颈鹿、大捻角羚、狮子、猎豹和野狗，对于研究重要的生态过程具有重要价值。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1060.jpg",
+   "title": "Kenya Lake System in the Great Rift Valley",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1060",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1060",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanyuki Civil Airport",
+    "iata": "NYK",
+    "city": "Gathiuru",
+    "country": "KE",
+    "lat": -0.062352,
+    "lon": 37.041296,
+    "type": "medium_airport",
+    "distance_km": 105.3
+   },
+   {
+    "name": "Eldoret International Airport",
+    "iata": "EDL",
+    "city": "Eldoret",
+    "country": "KE",
+    "lat": 0.404458,
+    "lon": 35.238899,
+    "type": "large_airport",
+    "distance_km": 111.4
+   },
+   {
+    "name": "Kisumu International Airport",
+    "iata": "KIS",
+    "city": "Kisumu",
+    "country": "KE",
+    "lat": -0.086139,
+    "lon": 34.728901,
+    "type": "large_airport",
+    "distance_km": 178.0
+   }
+  ],
+  "nearest_airport_km": 105.3,
+  "distance_beijing_km": 9124.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KE",
+  "country_zh": "肯尼亚",
+  "country_en": "Kenya",
+  "status": "unknown",
+  "days": 90,
+  "requirement": "Electronic Travel Authorisation[6][70]",
+  "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KE",
+   "country_zh": "肯尼亚",
+   "country_en": "Kenya",
+   "status": "unknown",
+   "days": 90,
+   "requirement": "Electronic Travel Authorisation[6][70]",
+   "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1060"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

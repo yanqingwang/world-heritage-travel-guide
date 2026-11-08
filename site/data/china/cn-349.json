@@ -1,0 +1,163 @@
+{
+ "id": "cn-349",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "伊犁哈萨克自治州",
+ "city_en": "Ili Kazakh Autonomous Prefecture",
+ "name_zh": "伊犁哈萨克自治州那拉提旅游风景区",
+ "name_en": "Ili Kazakh Autonomous Prefecture",
+ "name_en_source": "wikipedia",
+ "slug": "yilihasakezizhizhounalatilvyou-349",
+ "lat": 43.325552,
+ "lon": 84.032821,
+ "address_zh": "新疆维吾尔自治区伊犁哈萨克自治州新源县那拉提镇",
+ "address_en": "Nalati Town, Xinyuan County, Ili Kazakh Autonomous Prefecture, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "desert",
+ "category_zh": "草原沙漠",
+ "category_en": "Grassland & desert",
+ "intro_zh": "伊犁那拉提旅游风景区地处天山腹地，景区自南向北由高山草原观光区、哈萨克民俗风情区、旅游生活区组成，拥有夏牧场、柯孜拉霞瀑布、望天洞等著名景点。它以独特的自然景观、悠久的历史文化和浓郁的民族风情构成了独具特色的边塞风光。",
+ "intro_en": "Ili Kazakh Autonomous Prefecture is an autonomous prefecture in northern Xinjiang, China. Its capital is Yining, also known as Ghulja or Kulja. Covering an area of 268,591 square kilometres (16.18 per cent of Xinjiang), Ili Prefecture shares a 2,019-kilometre (1,255 mi)-long border with Kazakhstan, Mongolia, and Russia. There are nine ports of entry in Ili Prefecture at the national level, notably Khorgas. Directly administered regions (直辖区域) within the prefecture cover 56,622 square kilometres (21.08 per cent of Ili's total area) and have a population of 4,930,600 (63.95 per cent of Ili's registered population). Kazakhs are the second largest ethnicity in the prefecture after the Han Chinese, and make up a little over a quarter of the population. Ili is the only prefecture-level division that has other prefecture-level divisions (Altay and Tacheng Prefectures) under its administration. The term \"sub-provincial autonomous prefecture\" (副省级自治州) has often been applied to Ili, but the term has no legal basis and is a misnomer.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Xinjiang_DSC_8258_%283716304776%29.jpg/1280px-Xinjiang_DSC_8258_%283716304776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Xinjiang DSC 8258 (3716304776).jpg",
+   "author": "lwtt93 from Shanghai, China",
+   "license": "CC BY 2.0",
+   "credit": "DSC_8258",
+   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang_DSC_8258_%283716304776%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ili_Kazakh_Autonomous_Prefecture_in_China.svg/1280px-Ili_Kazakh_Autonomous_Prefecture_in_China.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ili Kazakh Autonomous Prefecture in China.svg",
+   "author": "China Xinjiang Ili.svg : Joowwww / derivative work: Splittist ( talk )",
+   "license": "Public domain",
+   "credit": "China Xinjiang Ili.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ili_Kazakh_Autonomous_Prefecture_in_China.svg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Location_of_Ili_Kazakh-_real.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Location of Ili Kazakh- real.png",
+   "author": "cncs",
+   "license": "CC BY-SA 4.0",
+   "credit": "Location of Ili Kazakh.PNG",
+   "source": "https://commons.wikimedia.org/wiki/File:Location_of_Ili_Kazakh-_real.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Population_of_Ili_Kazakh_Autonomous_Prefecture_by_ethnicity%2C_in_1949%2C_1959%2C_and_1969.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Population of Ili Kazakh Autonomous Prefecture by ethnicity, in 1949, 1959, and 1969.png",
+   "author": "Yuet Man Lee",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work , using data from Mao, Sheng (2018). \"More Than a Famine: Mass Exodus of 1962 in Northwest Xinjiang\". China Review 18 (2): 165. ISSN 1680-2012 .",
+   "source": "https://commons.wikimedia.org/wiki/File:Population_of_Ili_Kazakh_Autonomous_Prefecture_by_ethnicity%2C_in_1949%2C_1959%2C_and_1969.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Subdivision_of_Ili_Kazakh_%28Xinjiang%29.gif/1280px-Subdivision_of_Ili_Kazakh_%28Xinjiang%29.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Subdivision of Ili Kazakh (Xinjiang).gif",
+   "author": "Cncs_wikipedia",
+   "license": "Public domain",
+   "credit": "Date of creation",
+   "source": "https://commons.wikimedia.org/wiki/File:Subdivision_of_Ili_Kazakh_%28Xinjiang%29.gif"
+  }
+ ],
+ "web": "http://www.nalati.com/",
+ "booking": "http://www.nalati.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hejing Bayinbuluke Airport",
+    "iata": "HJB",
+    "city": "Hejing",
+    "country": "CN",
+    "lat": 42.976395,
+    "lon": 83.995543,
+    "type": "small_airport",
+    "distance_km": 38.9
+   },
+   {
+    "name": "Xinyuan Nalati Airport",
+    "iata": "NLT",
+    "city": "Xinyuan",
+    "country": "CN",
+    "lat": 43.4318,
+    "lon": 83.3786,
+    "type": "medium_airport",
+    "distance_km": 54.2
+   },
+   {
+    "name": "Shihezi Huayuan Airport",
+    "iata": "SHF",
+    "city": "Shihezi",
+    "country": "CN",
+    "lat": 44.2421,
+    "lon": 85.8905,
+    "type": "small_airport",
+    "distance_km": 180.6
+   }
+  ],
+  "nearest_airport_km": 38.9,
+  "high_speed_stations": [],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "Na La Ti Pastureland Pearl Hotel+",
+   "name_en": "Na La Ti Pastureland Pearl Hotel+",
+   "stars": null,
+   "brand": null,
+   "lat": 43.3189537,
+   "lon": 84.0282488,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "新吉賓舘",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.324212,
+   "lon": 84.0084405,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/伊犁哈萨克自治州"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

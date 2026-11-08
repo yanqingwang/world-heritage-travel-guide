@@ -1,0 +1,162 @@
+{
+ "id": "wh-819",
+ "unesco_id": "819",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1170,
+ "popularity_score": null,
+ "country": "NL",
+ "country_zh": "荷兰王国",
+ "country_en": "Kingdom of the Netherlands",
+ "countries": [
+  {
+   "iso2": "NL",
+   "zh": "荷兰王国",
+   "en": "Kingdom of the Netherlands"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "NL-CW",
+ "subdivision_zh": "库拉索",
+ "subdivision_en": "Curaçao",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "荷属安的列斯群岛的威廉斯塔德、内城及港口古迹区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Area of Willemstad, Inner City and Harbour, Curaçao",
+ "name_local": "Historisch deel van Willemstad, binnenstad en haven (Curaçao)",
+ "local_lang": "nl",
+ "local_lang_name": "Dutch",
+ "slug": "819-historic_area_of_willemstad,_inner_city_",
+ "lat": 12.106141,
+ "lon": -68.934201,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "威廉斯塔德港口是荷兰人于1634年在加勒比海库拉索岛（Curaçao）建成的一处优良贸易港湾。这座城镇经历了几个世纪的繁荣后仍然继续发展。当代的城镇由几个截然不同的老城区构成，这里的建筑表现为欧式与荷兰风格的结合，因为在当时西班牙与葡萄牙殖民者在此从事贸易活动。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The people of the Netherlands established a trading settlement at a fine natural harbour on the Caribbean island of Curaçao in 1634. The town developed continuously over the following centuries. The modern town consists of several distinct historic districts whose architecture reflects not only European urban-planning concepts but also styles from the Netherlands and from the Spanish and Portuguese colonial towns with which Willemstad engaged in trade.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Het historisch deel van Willemstad, binnenstad en haven is het oudste deel van Willemstad op het Nederlands-Caraïbische eiland Curaçao. Het gebied werd in 1997 opgenomen op de Werelderfgoedlijst van UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Handelskade%20Willemstad.jpg?width=1280",
+   "title": "Handelskade Willemstad.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Handelskade%20Willemstad.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_819.jpg",
+   "title": "Historic Area of Willemstad, Inner City and Harbour, Curaçao",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/819",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/819",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hato International Airport",
+    "iata": "CUR",
+    "city": "Willemstad",
+    "country": "CW",
+    "lat": 12.1889,
+    "lon": -68.959801,
+    "type": "large_airport",
+    "distance_km": 9.6
+   },
+   {
+    "name": "Flamingo International Airport",
+    "iata": "BON",
+    "city": "Kralendijk",
+    "country": "BQ",
+    "lat": 12.131,
+    "lon": -68.268501,
+    "type": "large_airport",
+    "distance_km": 72.4
+   },
+   {
+    "name": "José Leonardo Chirinos Airport",
+    "iata": "CZE",
+    "city": "Coro",
+    "country": "VE",
+    "lat": 11.414944,
+    "lon": -69.680901,
+    "type": "medium_airport",
+    "distance_km": 111.9
+   }
+  ],
+  "nearest_airport_km": 9.6,
+  "distance_beijing_km": 14174.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NL",
+  "country_zh": "荷兰王国",
+  "country_en": "Kingdom of the Netherlands",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NL",
+   "country_zh": "荷兰王国",
+   "country_en": "Kingdom of the Netherlands",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "nl",
+  "local_lang_name": "Dutch",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/819"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

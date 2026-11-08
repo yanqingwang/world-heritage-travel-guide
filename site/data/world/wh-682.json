@@ -1,0 +1,162 @@
+{
+ "id": "wh-682",
+ "unesco_id": "682",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 258,
+ "popularity_score": 37668,
+ "country": "UG",
+ "country_zh": "乌干达",
+ "country_en": "Uganda",
+ "countries": [
+  {
+   "iso2": "UG",
+   "zh": "乌干达",
+   "en": "Uganda"
+  }
+ ],
+ "region": "Districts of Kabale, Kisoro and Rukungiri",
+ "subdivision_iso": "UG-414",
+ "subdivision_zh": "卡农古区",
+ "subdivision_en": "Kanungu District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布恩迪难以穿越的国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Bwindi Impenetrable National Park",
+ "name_local": "Hifadhi ya Taifa ya Bwindi",
+ "local_lang": "sw",
+ "local_lang_name": "Swahili",
+ "slug": "682-bwindi_impenetrable_national_park",
+ "lat": -1.05,
+ "lon": 29.71666667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "布恩迪国家公园位于乌干达的西南部，处于平原和山区森林的交汇处，占地32 000公顷，以生物的多样性而闻名，它拥有160多种树木和100多种蕨类植物，这里是多种的鸟类和蝴蝶的栖息地，还生活着许多濒危物种，包括山地猩猩。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in south-western Uganda, at the junction of the plain and mountain forests, Bwindi Park covers 32,000 ha and is known for its exceptional biodiversity, with more than 160 species of trees and over 100 species of ferns. Many types of birds and butterflies can also be found there, as well as many endangered species, including the mountain gorilla.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Hifadhi ya Taifa ya Bwindi (BINP) iko kusini magharibi mwa Uganda . Mbuga hii ni sehemu ya Msitu wa Bwindi na iko kando ya mpaka wa Jamhuri ya Kidemokrasia ya Kongo (DRC) karibu na Hifadhi ya taifa ya Virunga na ukingo wa Ufa wa Albertine. Inajumuisha eneo la ukubwa wa kilomita za mraba 321 za misitu ya milima na nyanda za chini, inaruhusiwa kupita kwa miguu tu. BNP ni moja ya hifadhi ya Urithi wa Dunia wa Shirika la Umoja wa Mataifa la Elimu, Sayansi na Utamaduni .",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bwindi.JPG?width=1280",
+   "title": "Bwindi.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bwindi.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_682.jpg",
+   "title": "Bwindi Impenetrable National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/682",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/682",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kisoro Airport",
+    "iata": "KXO",
+    "city": "Kisoro",
+    "country": "UG",
+    "lat": -1.2837,
+    "lon": 29.7197,
+    "type": "small_airport",
+    "distance_km": 26.0
+   },
+   {
+    "name": "Savannah Airstrip",
+    "iata": "KHX",
+    "city": "Kihihi",
+    "country": "UG",
+    "lat": -0.7165,
+    "lon": 29.6997,
+    "type": "medium_airport",
+    "distance_km": 37.1
+   },
+   {
+    "name": "Goma International Airport",
+    "iata": "GOM",
+    "city": "Goma",
+    "country": "CD",
+    "lat": -1.666758,
+    "lon": 29.238037,
+    "type": "large_airport",
+    "distance_km": 86.8
+   }
+  ],
+  "nearest_airport_km": 26.0,
+  "distance_beijing_km": 9832.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UG",
+  "country_zh": "乌干达",
+  "country_en": "Uganda",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "eVisa[6][152]",
+  "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.[153]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UG",
+   "country_zh": "乌干达",
+   "country_en": "Uganda",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "eVisa[6][152]",
+   "notes": "Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.[153]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sw",
+  "local_lang_name": "Swahili",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/682"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bwindi%20Impenetrable%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

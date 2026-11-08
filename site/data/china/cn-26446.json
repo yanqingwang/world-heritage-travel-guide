@@ -1,0 +1,135 @@
+{
+ "id": "cn-26446",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "陕西省",
+ "province_en": "Shaanxi",
+ "province_iso": "CN-SN",
+ "city_zh": "延安市",
+ "city_en": "Yan'an",
+ "name_zh": "延安市延川黄河乾坤湾景区",
+ "name_en": "Qiankunwan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "yananshiyanchuanhuangheqiankunwan-26446",
+ "lat": 36.725419,
+ "lon": 110.421374,
+ "address_zh": "陕西延安市延川县乾坤湾镇",
+ "address_en": "Qiankunwan Town, Yanchuan County, Yan'an City, Shaanxi Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "九曲黄河，裂地而来，在秦晋峡谷延川段蜿蜒曲折，形成了闻名遐迩的世界地质奇观——黄河蛇曲地貌群，被国土资源部命名为“黄河蛇曲国家地质公园”。其中，以乾坤湾、清水湾为主体打造的延川黄河乾坤湾景区，是黄河蛇曲国家地质公园的核心片区。",
+ "intro_en": "The Nine-Meander Yellow River splits from the earth and meanders along the Yanchuan section of the Qinjin Gorge, forming a world-famous geological wonder - the Yellow River Snake Bend Landform Group, which was named the \"Yellow River Snake Bend National Geopark\" by the Ministry of Land and Resources. Among them, the Yanchuan Yellow River Qiankun Bay Scenic Area, which is mainly built with Qiankun Bay and Qingshui Bay, is the core area of ​​the Yellow River Snake Bend National Geopark.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E9%BB%84%E6%B2%B3%E4%B9%BE%E5%9D%A4%E6%B9%BE_1.jpg/1280px-%E9%BB%84%E6%B2%B3%E4%B9%BE%E5%9D%A4%E6%B9%BE_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "黄河乾坤湾 1.jpg",
+   "author": "H2v5o68z",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%BB%84%E6%B2%B3%E4%B9%BE%E5%9D%A4%E6%B9%BE_1.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.sxqkw.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yan'an Nanniwan Airport",
+    "iata": "ENY",
+    "city": "Yan'an (Baota)",
+    "country": "CN",
+    "lat": 36.479413,
+    "lon": 109.464083,
+    "type": "medium_airport",
+    "distance_km": 89.7
+   },
+   {
+    "name": "Lüliang Dawu Airport",
+    "iata": "LLV",
+    "city": "Lüliang",
+    "country": "CN",
+    "lat": 37.683333,
+    "lon": 111.142778,
+    "type": "medium_airport",
+    "distance_km": 124.2
+   },
+   {
+    "name": "Linfen Yaodu Airport",
+    "iata": "LFQ",
+    "city": "Linfen (Yaodu)",
+    "country": "CN",
+    "lat": 36.132629,
+    "lon": 111.641236,
+    "type": "medium_airport",
+    "distance_km": 127.5
+   }
+  ],
+  "nearest_airport_km": 89.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "延川",
+    "name_en": null,
+    "lat": 36.8864103,
+    "lon": 110.0832797,
+    "distance_km": 35.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "石楼县",
+    "name_en": null,
+    "lat": 36.9686194,
+    "lon": 110.7965585,
+    "distance_km": 43.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "隰县",
+    "name_en": null,
+    "lat": 36.6503245,
+    "lon": 110.9208346,
+    "distance_km": 45.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/乾坤湾"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

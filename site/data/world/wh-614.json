@@ -1,0 +1,162 @@
+{
+ "id": "wh-614",
+ "unesco_id": "614",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1118,
+ "popularity_score": null,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "City and District of Safranbolu, Province of Karabuk",
+ "subdivision_iso": "TR-78",
+ "subdivision_zh": "卡拉比克省",
+ "subdivision_en": "Karabük Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨夫兰博卢城",
+ "name_zh_source": "unesco_official",
+ "name_en": "City of Safranbolu",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "614-city_of_safranbolu",
+ "lat": 41.26,
+ "lon": 32.68972,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "随着13世纪到20世纪初铁路的出现，萨夫兰博卢便一直是东西贸易线上的一个重要驿站。它的老清真寺和老浴室建于1322年。在17世纪它的建筑影响了奥斯曼帝国大片地区的城市发展。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "From the 13th century to the advent of the railway in the early 20th century, Safranbolu was an important caravan station on the main East–West trade route. The Old Mosque, Old Bath and Süleyman Pasha Medrese were built in 1322. During its apogee in the 17th century, Safranbolu's architecture influenced urban development throughout much of the Ottoman Empire.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Safranbolu%2006609%2020070130130656.jpg?width=1280",
+   "title": "Safranbolu 06609 20070130130656.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Safranbolu%2006609%2020070130130656.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_614.jpg",
+   "title": "City of Safranbolu",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/614",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/614",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zonguldak Çaycuma Airport",
+    "iata": "ONQ",
+    "city": "Zonguldak",
+    "country": "TR",
+    "lat": 41.506401,
+    "lon": 32.0886,
+    "type": "medium_airport",
+    "distance_km": 57.1
+   },
+   {
+    "name": "Kastamonu Airport",
+    "iata": "KFS",
+    "city": "Kastamonu",
+    "country": "TR",
+    "lat": 41.314201,
+    "lon": 33.795799,
+    "type": "medium_airport",
+    "distance_km": 92.6
+   },
+   {
+    "name": "Esenboğa International Airport",
+    "iata": "ESB",
+    "city": "Ankara",
+    "country": "TR",
+    "lat": 40.128101,
+    "lon": 32.995098,
+    "type": "large_airport",
+    "distance_km": 128.5
+   }
+  ],
+  "nearest_airport_km": 57.1,
+  "distance_beijing_km": 6805.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/614"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

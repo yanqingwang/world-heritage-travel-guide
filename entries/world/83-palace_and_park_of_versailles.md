@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(ii)(vi)"
 lat: 48.804722222
 lon: 2.120277777
-updated_at: "2026-11-08T12:18:53Z"
+updated_at: "2026-11-08T14:52:19Z"
 ---
 
 # 凡尔赛宫及其园林 / Palace and Park of Versailles

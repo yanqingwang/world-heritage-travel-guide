@@ -1,0 +1,162 @@
+{
+ "id": "wh-827",
+ "unesco_id": "827",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1174,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Modena, Emilia-Romagna Region",
+ "subdivision_iso": "IT-MO",
+ "subdivision_zh": "摩德纳省",
+ "subdivision_en": "Province of Modena",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "摩德纳的大教堂、市民塔和大广场",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cathedral, Torre Civica and Piazza Grande, Modena",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "827-cathedral,_torre_civica_and_piazza_grand",
+ "lat": 44.64624,
+ "lon": 10.92568,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于摩德纳的宏伟的12世纪大教堂，是兰弗兰科(Lanfranco)和威利盖尔茨(Wiligelmus)这两位伟大艺术家的杰作，是早期罗马风格艺术的最杰出典范。这所大教堂和与之相配套的宏大广场以及耸入云霄的高塔一起，不但证实了建造者们对皇室的无限忠诚，而且还体现了命令建造这些建筑的卡诺萨王朝的非凡国力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The magnificent 12th-century cathedral at Modena, the work of two great artists (Lanfranco and Wiligelmus), is a supreme example of early Romanesque art. With its piazza and soaring tower, it testifies to the faith of its builders and the power of the Canossa dynasty who commissioned it.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20Grande%20Modena%20Facciata.jpg?width=1280",
+   "title": "Piazza Grande Modena Facciata.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Piazza%20Grande%20Modena%20Facciata.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_827.jpg",
+   "title": "Cathedral, Torre Civica and Piazza Grande, Modena",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/827",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/827",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bologna Guglielmo Marconi Airport",
+    "iata": "BLQ",
+    "city": "Bologna",
+    "country": "IT",
+    "lat": 44.5354,
+    "lon": 11.2887,
+    "type": "large_airport",
+    "distance_km": 31.3
+   },
+   {
+    "name": "Parma Airport",
+    "iata": "PMF",
+    "city": "Parma (PR)",
+    "country": "IT",
+    "lat": 44.826351,
+    "lon": 10.29705,
+    "type": "medium_airport",
+    "distance_km": 53.5
+   },
+   {
+    "name": "Verona Villafranca Valerio Catullo Airport",
+    "iata": "VRN",
+    "city": "Caselle (VR)",
+    "country": "IT",
+    "lat": 45.394955,
+    "lon": 10.887303,
+    "type": "large_airport",
+    "distance_km": 83.3
+   }
+  ],
+  "nearest_airport_km": 31.3,
+  "distance_beijing_km": 8015.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/827"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

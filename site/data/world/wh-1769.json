@@ -1,0 +1,162 @@
+{
+ "id": "wh-1769",
+ "unesco_id": "1769",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 223,
+ "popularity_score": 47280,
+ "country": "TN",
+ "country_zh": "突尼斯",
+ "country_en": "Tunisia",
+ "countries": [
+  {
+   "iso2": "TN",
+   "zh": "突尼斯",
+   "en": "Tunisia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "TN-11",
+ "subdivision_zh": "突尼斯省",
+ "subdivision_en": "Tunis Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "西迪布赛义德村",
+ "name_zh_source": "unesco_official",
+ "name_en": "Village of Sidi Bou Saïd",
+ "name_local": "قرية سيدي بوسعيد",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1769-village_of_sidi_bou_saïd",
+ "lat": 36.869758,
+ "lon": 10.341014,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产是一座风景如画的村镇，坐落于俯瞰地中海的一处岬角之上，与悬崖地貌和谐相融。村庄围绕12-13世纪苏菲派大师、圣人西迪·布·赛义德（Sidi Bou Saïd）的陵墓发展而成。凭借与自然环境相依共生的建筑构造和聚落布局、由标志性色彩塑造的鲜明美感，以及萦绕于此、源自苏菲主义的神秘氛围，遗产融地貌、建筑、精神信仰为一体，长期启发艺术家，持续吸引寻觅心灵宁静的访客。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property is a picturesque village perched on a promontory overlooking the Mediterranean Sea, harmoniously integrated into the cliff topography. It developed around the tomb of a Sufi master and saint, known as Sidi Bou Saïd, who lived in the 12th-13th centuries. Through its architectural fabric and urban planning in symbiosis with the natural environment, its recognisable aesthetic created by emblematic colours, and a mystic aura associated with the Sufi spirituality that permeates the site, the property brings together geomorphology, architecture, and spirituality. It has long inspired artists and continues to attract visitors seeking spiritual serenity.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "الموقع عبارة عن قرية خلَّابة قابعة في أعلى منحدر مطلٍّ على البحر الأبيض المتوسط، وهي تندمج بانسجام مع تضاريس الجرف. نشأت هذه القرية في محيط قبر ولي صالح صوفي معروف باسم سيدي بوسعيد، كان قد عاش في القرنين الثاني عشر والثالث عشر. وتجتمع في هذا العنصر التضاريس وفن العمارة والبعد الروحاني، التي تتجسد من خلال نسيجه العمراني والتخطيط الحضري اللذين ينسجمان مع البيئة الطبيعية، ومن خلال منظره الجمالي المميز بألوانه الفريدة، وهالته الصوفية المستمَدة من الروحانية الصوفية التي تتخلل المكان. ولطالما ألهم هذا الموقع الفنانين ولا يزال يستقطب الزوار الساعين خلف السكينة الروحية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sidi%20Bou%20Said%2C%20Tunisia%2C%2019%20March%202018%20DSC%208004.jpg?width=1280",
+   "title": "Sidi Bou Said, Tunisia, 19 March 2018 DSC 8004.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sidi%20Bou%20Said%2C%20Tunisia%2C%2019%20March%202018%20DSC%208004.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1769.jpg",
+   "title": "Village of Sidi Bou Saïd",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1769",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1769",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tunis Carthage International Airport",
+    "iata": "TUN",
+    "city": "Tunis",
+    "country": "TN",
+    "lat": 36.851002,
+    "lon": 10.2272,
+    "type": "large_airport",
+    "distance_km": 10.3
+   },
+   {
+    "name": "Enfidha - Hammamet International Airport",
+    "iata": "NBE",
+    "city": "Enfidha",
+    "country": "TN",
+    "lat": 36.075833,
+    "lon": 10.438611,
+    "type": "medium_airport",
+    "distance_km": 88.7
+   },
+   {
+    "name": "Monastir Habib Bourguiba International Airport",
+    "iata": "MIR",
+    "city": "Monastir",
+    "country": "TN",
+    "lat": 35.75809860229492,
+    "lon": 10.75469970703125,
+    "type": "medium_airport",
+    "distance_km": 129.0
+   }
+  ],
+  "nearest_airport_km": 10.3,
+  "distance_beijing_km": 8635.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TN",
+  "country_zh": "突尼斯",
+  "country_en": "Tunisia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TN",
+   "country_zh": "突尼斯",
+   "country_en": "Tunisia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1769"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sidi%20Bou%20Said"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:54Z"
+}

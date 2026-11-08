@@ -1,0 +1,162 @@
+{
+ "id": "wh-400",
+ "unesco_id": "400",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1083,
+ "popularity_score": null,
+ "country": "HU",
+ "country_zh": "匈牙利",
+ "country_en": "Hungary",
+ "countries": [
+  {
+   "iso2": "HU",
+   "zh": "匈牙利",
+   "en": "Hungary"
+  }
+ ],
+ "region": "Budapest",
+ "subdivision_iso": "HU-BU",
+ "subdivision_zh": "布达佩斯",
+ "subdivision_en": "Budapest",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布达佩斯（多瑙河两岸、布达城堡区和安德拉什大街）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+ "name_local": "Budapest világörökségi helyszínei",
+ "local_lang": "hu",
+ "local_lang_name": "Hungarian",
+ "slug": "400-budapest,_including_the_banks_of_the_dan",
+ "lat": 47.48242,
+ "lon": 19.07067,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该地区保留有诸如阿昆库姆罗马城和哥特式布达城堡等遗迹，这些遗迹受到好几个时期建筑风格的影响，是世界上城市景观中的杰出典范之一，而且显示了匈牙利都城在历史上各伟大时期的风貌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This site has the remains of monuments such as the Roman city of Aquincum and the Gothic castle of Buda, which have had a considerable influence on the architecture of various periods. It is one of the world's outstanding urban landscapes and illustrates the great periods in the history of the Hungarian capital.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Budapest világörökségi helyszíneit a Duna-part látképe, a Budai várnegyed és az Andrássy út képezi. Az UNESCO 1972-ben alapított Világörökség Programjának célja az emberiség kulturális és természeti örökségének nyilvántartásba vétele (világörökségi lista). A programban részt vevő állam kötelezettséget vállal arra, hogy a területén fekvő világörökségi helyszíneket óvja és megőrzi a későbbi generációk számára. Budapesti helyszín először 1987-ben került a listára, ez a Duna-part látképe és a Budai várnegyed volt, majd 2002-től az Andrássy út és történelmi környezete került fel a világörökségi listára.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buda--Castles01.jpg?width=1280",
+   "title": "Buda--Castles01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Buda--Castles01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_400.jpg",
+   "title": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/400",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/400",
+ "transport": {
+  "airports": [
+   {
+    "name": "Budapest Liszt Ferenc International Airport",
+    "iata": "BUD",
+    "city": "Budapest",
+    "country": "HU",
+    "lat": 47.43018,
+    "lon": 19.262393,
+    "type": "large_airport",
+    "distance_km": 15.5
+   },
+   {
+    "name": "Sliač Airport",
+    "iata": "SLD",
+    "city": "Sliač",
+    "country": "SK",
+    "lat": 48.63779830932617,
+    "lon": 19.13409996032715,
+    "type": "medium_airport",
+    "distance_km": 128.6
+   },
+   {
+    "name": "M. R. Štefánik Airport",
+    "iata": "BTS",
+    "city": "Bratislava",
+    "country": "SK",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "distance_km": 158.4
+   }
+  ],
+  "nearest_airport_km": 15.5,
+  "distance_beijing_km": 7328.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HU",
+  "country_zh": "匈牙利",
+  "country_en": "Hungary",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HU",
+   "country_zh": "匈牙利",
+   "country_en": "Hungary",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "hu",
+  "local_lang_name": "Hungarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/400"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

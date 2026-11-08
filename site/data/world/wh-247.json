@@ -1,0 +1,150 @@
+{
+ "id": "wh-247",
+ "unesco_id": "247",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1052,
+ "popularity_score": null,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IN-RJ",
+ "subdivision_zh": "",
+ "subdivision_en": "Rajasthan",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "拉贾斯坦邦的山地堡垒",
+ "name_zh_source": "curated",
+ "name_en": "Hill Forts of Rajasthan",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "247-hill_forts_of_rajasthan",
+ "lat": 24.883306,
+ "lon": 74.646111,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2013",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该系列遗址位于拉贾斯坦邦，包括奇托加尔的六座雄伟堡垒；贡珀尔格尔；萨瓦伊马多布尔；贾拉瓦尔；斋浦尔和杰伊瑟尔梅尔。这些堡垒的建筑风格不拘一格，有些堡垒的周长长达 20 公里，见证了 8 世纪至 18 世纪该地区繁荣的拉其普特王子国家的权力。防御墙内是主要的城市中心、宫殿、贸易中心和其他建筑物，包括寺庙，这些建筑物通常早于防御工事，在防御工事内发展了复杂的宫廷文化，支持学习、音乐和艺术。一些被防御工事包围的城市中心幸存下来，该地区的许多寺庙和其他神圣建筑也幸存下来。堡垒利用地形提供的自然防御：丘陵、沙漠、河流和茂密的森林。它们还具有广泛的集水结构，大部分至今仍在使用。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The serial site, situated in the state of Rajastahan, includes six majestic forts in Chittorgarh; Kumbhalgarh; Sawai Madhopur; Jhalawar; Jaipur, and Jaisalmer. The ecclectic architecture of the forts, some up to 20 kilometres in circumference, bears testimony to the power of the Rajput princely states that flourished in the region from the 8th to the 18th centuries. Enclosed within defensive walls are major urban centres, palaces, trading centres and other buildings including temples that often predate the fortifications within which developed an elaborate courtly culture that supported learning, music and the arts. Some of the urban centres enclosed in the fortifications have survived, as have many of the site's temples and other sacred buildings. The forts use the natural defenses offered by the landscape: hills, deserts, rivers, and dense forests. They also feature extensive water harvesting structures, largely still in use today.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_247.jpg",
+   "title": "Hill Forts of Rajasthan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/247",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/247",
+ "transport": {
+  "airports": [
+   {
+    "name": "Maharana Pratap Airport",
+    "iata": "UDR",
+    "city": "Udaipur",
+    "country": "IN",
+    "lat": 24.617700576799997,
+    "lon": 73.89610290530001,
+    "type": "medium_airport",
+    "distance_km": 81.3
+   },
+   {
+    "name": "Kishangarh Airport Ajmer",
+    "iata": "KQH",
+    "city": "Ajmer (Kishangarh)",
+    "country": "IN",
+    "lat": 26.591007,
+    "lon": 74.812956,
+    "type": "medium_airport",
+    "distance_km": 190.6
+   },
+   {
+    "name": "Jodhpur Airport",
+    "iata": "JDH",
+    "city": "Jodhpur",
+    "country": "IN",
+    "lat": 26.251100540161133,
+    "lon": 73.04889678955078,
+    "type": "medium_airport",
+    "distance_km": 220.9
+   }
+  ],
+  "nearest_airport_km": 81.3,
+  "distance_beijing_km": 4312.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/247"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

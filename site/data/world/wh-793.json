@@ -1,0 +1,162 @@
+{
+ "id": "wh-793",
+ "unesco_id": "793",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1163,
+ "popularity_score": null,
+ "country": "MA",
+ "country_zh": "摩洛哥",
+ "country_en": "Morocco",
+ "countries": [
+  {
+   "iso2": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco"
+  }
+ ],
+ "region": "region centre sud, Wilaya de Meknes",
+ "subdivision_iso": "MA-MEK",
+ "subdivision_zh": "梅克內斯省",
+ "subdivision_en": "Meknès Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "历史名城梅克内斯",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic City of Meknes",
+ "name_local": "مدينة مكناس التاريخيّة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "793-historic_city_of_meknes",
+ "lat": 33.894857,
+ "lon": -5.564481,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "梅克内斯是穆拉比兑人于公元11世纪建造的一个军事城市，在阿拉维特王朝的缔造者苏丹穆莱·伊斯玛统治时成为国家首都（1672-1727年）。苏丹将梅克内斯建设成为一个雄伟的西班牙－摩尔风格城市，四周有高墙和巨大的门。即使在今天，我们仍然能够看得出这是一个17世纪马格里布时期伊斯兰风格与欧洲风格的和谐统一体。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the 11th century by the Almoravids as a military settlement, Meknes became a capital under Sultan Moulay Ismaïl (1672–1727), the founder of the Alawite dynasty. The sultan turned it into a impressive city in Spanish-Moorish style, surrounded by high walls with great doors, where the harmonious blending of the Islamic and European styles of the 17th century Maghreb are still evident today.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "أسَّس المرابطون مكناس في القرن الحادي عشر لتكون مقرا عسكريًا. لكنّها أصبحت العاصمة تحت حكم المولى اسماعيل (1672 – 1727) وهو مؤسس الحكم العلوي. أنشأ منها مدينة مذهلة على الأسلوب الاسباني المغربي، فأحاطها بالأسوار العالية التي تخترقها بواباتٌ أثريّة نعرف اليوم أنّها مزيجٌ متناسقٌ مؤلَّفٌ من الأساليب الإسلامية والأوروبية في المغرب التي كانت سائدةً في القرن السابع عشر.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Meknes-medina-aerial-view.jpg?width=1280",
+   "title": "Meknes-medina-aerial-view.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Meknes-medina-aerial-view.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_793.jpg",
+   "title": "Historic City of Meknes",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/793",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/793",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fes Saïss International Airport",
+    "iata": "FEZ",
+    "city": "Saïss",
+    "country": "MA",
+    "lat": 33.927299,
+    "lon": -4.97796,
+    "type": "large_airport",
+    "distance_km": 54.2
+   },
+   {
+    "name": "Rabat-Salé Airport",
+    "iata": "RBA",
+    "city": "Rabat",
+    "country": "MA",
+    "lat": 34.051498,
+    "lon": -6.75152,
+    "type": "large_airport",
+    "distance_km": 110.8
+   },
+   {
+    "name": "Beni Mellal Airport",
+    "iata": "BEM",
+    "city": "Oulad Yaich",
+    "country": "MA",
+    "lat": 32.401895,
+    "lon": -6.315905,
+    "type": "large_airport",
+    "distance_km": 180.1
+   }
+  ],
+  "nearest_airport_km": 54.2,
+  "distance_beijing_km": 9835.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MA",
+  "country_zh": "摩洛哥",
+  "country_en": "Morocco",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MA",
+   "country_zh": "摩洛哥",
+   "country_en": "Morocco",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/793"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

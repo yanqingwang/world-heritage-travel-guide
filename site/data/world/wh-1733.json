@@ -1,0 +1,162 @@
+{
+ "id": "wh-1733",
+ "unesco_id": "1733",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 873,
+ "popularity_score": 176,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GR-M",
+ "subdivision_zh": "克里特大区",
+ "subdivision_en": "Crete Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "米诺斯王宫中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Minoan Palatial Centres",
+ "name_local": "",
+ "local_lang": "el",
+ "local_lang_name": "Greek",
+ "slug": "1733-minoan_palatial_centres",
+ "lat": 35.297222222,
+ "lon": 25.1625,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)(vi)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该系列遗产包括克里特岛上6处公元前1900年-前1100年间的考古遗址，代表米诺斯文明这一重要史前地中海文明的发展脉络。米诺斯王宫中心曾经是行政、经济、宗教枢纽，以成熟的建筑设计、城市规划和鲜活的壁画艺术为特色，从中可窥见早期文字系统、海事网络及文化交流。遗产充分体现米诺斯社会的复杂结构及其对地中海历史的深远影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This serial property comprises six archaeological sites on Crete dating from 1900 to 1100 BCE. These sites represent the Minoan civilization, a major prehistoric Mediterranean culture. The palatial centres served as administrative, economic, and religious hubs, featuring advanced architecture, urban planning, and vibrant frescoes. They reveal early writing systems, maritime networks, and cultural exchanges. The property highlights the complexity of the Minoans’ social structure and their enduring influence on Mediterranean history.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Knossos%20-%20North%20Portico%2002.jpg?width=1280",
+   "title": "Knossos - North Portico 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Knossos%20-%20North%20Portico%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1733.jpg",
+   "title": "Minoan Palatial Centres",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1733",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1733",
+ "transport": {
+  "airports": [
+   {
+    "name": "Heraklion International Nikos Kazantzakis Airport",
+    "iata": "HER",
+    "city": "Heraklion",
+    "country": "GR",
+    "lat": 35.339699,
+    "lon": 25.1803,
+    "type": "large_airport",
+    "distance_km": 5.0
+   },
+   {
+    "name": "Sitia Airport",
+    "iata": "JSH",
+    "city": "Crete Island",
+    "country": "GR",
+    "lat": 35.21609878540039,
+    "lon": 26.101299285888672,
+    "type": "medium_airport",
+    "distance_km": 85.7
+   },
+   {
+    "name": "Chania International Airport",
+    "iata": "CHQ",
+    "city": "Souda",
+    "country": "GR",
+    "lat": 35.531207,
+    "lon": 24.150673,
+    "type": "large_airport",
+    "distance_km": 95.3
+   }
+  ],
+  "nearest_airport_km": 5.0,
+  "distance_beijing_km": 7681.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "el",
+  "local_lang_name": "Greek",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1733"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Minoan%20Palatial%20Centres"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

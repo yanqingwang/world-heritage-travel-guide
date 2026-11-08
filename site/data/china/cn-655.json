@@ -1,0 +1,168 @@
+{
+ "id": "cn-655",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "福建省",
+ "province_en": "Fujian",
+ "province_iso": "CN-FJ",
+ "city_zh": "莆田市",
+ "city_en": "Putian",
+ "name_zh": "莆田市湄洲岛妈祖文化旅游区",
+ "name_en": "Meizhou Island",
+ "name_en_source": "wikipedia",
+ "slug": "putianshimeizhoudaomazu-655",
+ "lat": 25.096583,
+ "lon": 119.154628,
+ "address_zh": "莆田市秀屿区湄洲大道",
+ "address_en": "Meizhou Avenue, Xiuyu District, Putian City",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "湄洲岛是福建莆田市秀屿区湄洲镇辖岛，是莆田市第二大岛，是妈祖的成神地。湄洲岛有扣人心弦的湄屿潮音、湄洲祖庙、九宝澜黄金沙滩、鹅尾怪石等30多处景点。",
+ "intro_en": "Meizhou Island (simplified Chinese: 湄洲岛; traditional Chinese: 湄洲島; pinyin: Méizhōu Dǎo; Pu-Xian Min: Mî-ciu-doh), Meichow; Meichou, is a small island close to the coast of China. Meizhou Town (湄洲镇) is an administrative unit of Xiuyu District, Putian, Fujian, China. It is known for being the birthplace of the goddess Mazu. Meizhou has 38,000 inhabitants, most of whom are involved in the fishing industry. The local language spoken is Pu-Xian Min.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%E6%B9%84%E6%B4%B2%E5%B2%9B%E7%A5%9E%E7%9F%B3%E5%9B%AD%E9%A3%8E%E5%85%89_-_panoramio_%282%29.jpg/1280px-%E6%B9%84%E6%B4%B2%E5%B2%9B%E7%A5%9E%E7%9F%B3%E5%9B%AD%E9%A3%8E%E5%85%89_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "湄洲岛神石园风光 - panoramio (2).jpg",
+   "author": "江上清风1961",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161026201211/http://www.panoramio.com/photo/80750991",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%B9%84%E6%B4%B2%E5%B2%9B%E7%A5%9E%E7%9F%B3%E5%9B%AD%E9%A3%8E%E5%85%89_-_panoramio_%282%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Boarding_area_of_Meizhou_Island_Ferry_Pier_%2820201002121937%29.jpg/1280px-Boarding_area_of_Meizhou_Island_Ferry_Pier_%2820201002121937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Boarding area of Meizhou Island Ferry Pier (20201002121937).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Boarding_area_of_Meizhou_Island_Ferry_Pier_%2820201002121937%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Entrance_of_Meizhou_Island_Ferry_Pier_%2820201002121010%29.jpg/1280px-Entrance_of_Meizhou_Island_Ferry_Pier_%2820201002121010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Entrance of Meizhou Island Ferry Pier (20201002121010).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_of_Meizhou_Island_Ferry_Pier_%2820201002121010%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Meizhou_Co-Op_Store_%2820201002083708%29.jpg/1280px-Meizhou_Co-Op_Store_%2820201002083708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Meizhou Co-Op Store (20201002083708).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Meizhou_Co-Op_Store_%2820201002083708%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Meizhou_Farmers_Market_bus_stop_%2820201002083759%29.jpg/1280px-Meizhou_Farmers_Market_bus_stop_%2820201002083759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Meizhou Farmers Market bus stop (20201002083759).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Meizhou_Farmers_Market_bus_stop_%2820201002083759%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Quanzhou Jinjiang International Airport",
+    "iata": "JJN",
+    "city": "Quanzhou",
+    "country": "CN",
+    "lat": 24.795855,
+    "lon": 118.588599,
+    "type": "large_airport",
+    "distance_km": 66.1
+   },
+   {
+    "name": "Fuzhou Changle International Airport",
+    "iata": "FOC",
+    "city": "Fuzhou (Changle)",
+    "country": "CN",
+    "lat": 25.929254,
+    "lon": 119.672524,
+    "type": "large_airport",
+    "distance_km": 106.2
+   },
+   {
+    "name": "Kinmen Airport",
+    "iata": "KNH",
+    "city": "Shang-I",
+    "country": "TW",
+    "lat": 24.4279,
+    "lon": 118.359001,
+    "type": "medium_airport",
+    "distance_km": 109.5
+   }
+  ],
+  "nearest_airport_km": 66.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "东吴",
+    "name_en": null,
+    "lat": 25.1210457,
+    "lon": 119.0651572,
+    "distance_km": 9.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "东埔",
+    "name_en": null,
+    "lat": 25.1461579,
+    "lon": 119.0549117,
+    "distance_km": 11.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "度下",
+    "name_en": null,
+    "lat": 25.1385054,
+    "lon": 119.0383565,
+    "distance_km": 12.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/湄洲岛"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

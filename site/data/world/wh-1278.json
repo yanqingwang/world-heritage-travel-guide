@@ -1,0 +1,150 @@
+{
+ "id": "wh-1278",
+ "unesco_id": "1278",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 930,
+ "popularity_score": null,
+ "country": "KP",
+ "country_zh": "朝鲜民主主义人民共和国",
+ "country_en": "North Korea",
+ "countries": [
+  {
+   "iso2": "KP",
+   "zh": "朝鲜民主主义人民共和国",
+   "en": "North Korea"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "开城历史古迹",
+ "name_zh_source": "curated",
+ "name_en": "Historic Monuments and Sites in Kaesong",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1278-historic_monuments_and_sites_in_kaesong",
+ "lat": 37.98166666666667,
+ "lon": 126.50805555555556,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2013",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址位于该国南部的开城市，由 12 个独立的部分组成，共同见证了 10 世纪至 14 世纪高丽王朝的历史和文化。前首都开城的风水布局、宫殿、机构和陵墓群、防御城墙和城门体现了该地区历史上一个关键时代的政治、文化、哲学和精神价值。铭刻的纪念碑还包括一座天文气象台、两所学校（其中一所专门用于教育国家官员）和纪念碑。该遗址见证了东亚从佛教到新儒学的转变，以及高丽王朝统一韩国之前存在的国家的文化精神和政治价值观的同化。佛教、儒家、道家和风水思想的融合体现在遗址的规划和纪念碑的建筑中。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Situated in Kaesong city, in the south of the country, the site consists of 12 separate components, which together testify to the history and culture of the Koryo Dynasty from the 10th to 14th centuries. The geomantic layout of the former capital city of Kaesong, its palaces, institutions and tomb complex, defensive walls and gates embody the political, cultural, philosophical and spiritual values of a crucial era in the region’s history. The monuments inscribed also include an astronomical and meteorological observatory, two schools (including one dedicated to educating national officials) and commemorative steles. The site testifies to the transition from Buddhism to neo-Confucianism in East Asia and to the assimilation of the cultural spiritual and political values of the states that existed prior to Korea’s unification under the Koryo Dynasty. The integration of Buddhist, Confucian, Taoist and geomantic concepts is manifest in the planning of the site and the architecture of its monuments.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1278.jpg",
+   "title": "Historic Monuments and Sites in Kaesong",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1278",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1278",
+ "transport": {
+  "airports": [
+   {
+    "name": "Seoul Gimpo International Airport",
+    "iata": "GMP",
+    "city": "Seoul",
+    "country": "KR",
+    "lat": 37.5583,
+    "lon": 126.791,
+    "type": "large_airport",
+    "distance_km": 53.2
+   },
+   {
+    "name": "Incheon International Airport",
+    "iata": "ICN",
+    "city": "Seoul",
+    "country": "KR",
+    "lat": 37.469101,
+    "lon": 126.450996,
+    "type": "large_airport",
+    "distance_km": 57.2
+   },
+   {
+    "name": "Wonju Airport / Hoengseong Air Base (K-38/K-46)",
+    "iata": "WJU",
+    "city": "Wonju",
+    "country": "KR",
+    "lat": 37.437113,
+    "lon": 127.960051,
+    "type": "medium_airport",
+    "distance_km": 141.4
+   }
+  ],
+  "nearest_airport_km": 53.2,
+  "distance_beijing_km": 927.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KP",
+  "country_zh": "朝鲜民主主义人民共和国",
+  "country_en": "North Korea",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese tourists may visit Tongnim County without a visa for 2 days.[71] They may also visit Sinuiju for a day trip without a visa.[72] Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KP",
+   "country_zh": "朝鲜民主主义人民共和国",
+   "country_en": "North Korea",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese tourists may visit Tongnim County without a visa for 2 days.[71] They may also visit Sinuiju for a day trip without a visa.[72] Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1278"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

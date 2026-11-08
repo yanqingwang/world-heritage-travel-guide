@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(iii)"
 lat: 40.4779658
 lon: 22.3227596
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:32Z"
 ---
 
 # 韦尔吉纳的考古遗址 / Archaeological Site of Aigai (modern name Vergina)

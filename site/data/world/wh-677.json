@@ -1,0 +1,162 @@
+{
+ "id": "wh-677",
+ "unesco_id": "677",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 352,
+ "popularity_score": 24308,
+ "country": "PH",
+ "country_zh": "菲律宾",
+ "country_en": "Philippines",
+ "countries": [
+  {
+   "iso2": "PH",
+   "zh": "菲律宾",
+   "en": "Philippines"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PH-ILI",
+ "subdivision_zh": "",
+ "subdivision_en": "Iloilo",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "菲律宾的巴洛克教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Baroque Churches of the Philippines",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "677-baroque_churches_of_the_philippines",
+ "lat": 10.64191,
+ "lon": 122.23549,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这4座教堂分别坐落在马尼拉、圣玛丽亚、帕瓦伊和米亚高，其中第一座由西班牙于16世纪后期建造。它们那独特的欧洲巴洛克式的建筑风格在中国和菲律宾工匠的手中得以再现。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These four churches, the first of which was built by the Spanish in the late 16th century, are located in Manila, Santa Maria, Paoay and Miag-ao. Their unique architectural style is a reinterpretation of European Baroque by Chinese and Philippine craftsmen.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Miagao%20Church.jpg?width=1280",
+   "title": "Miagao Church.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Miagao%20Church.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_677.jpg",
+   "title": "Baroque Churches of the Philippines",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/677",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/677",
+ "transport": {
+  "airports": [
+   {
+    "name": "Iloilo International Airport",
+    "iata": "ILO",
+    "city": "Cabatuan",
+    "country": "PH",
+    "lat": 10.833017,
+    "lon": 122.493358,
+    "type": "large_airport",
+    "distance_km": 35.3
+   },
+   {
+    "name": "Bacolod-Silay International Airport",
+    "iata": "BCD",
+    "city": "Bacolod City",
+    "country": "PH",
+    "lat": 10.776237,
+    "lon": 123.018879,
+    "type": "large_airport",
+    "distance_km": 86.9
+   },
+   {
+    "name": "Kalibo International Airport",
+    "iata": "KLO",
+    "city": "Kalibo",
+    "country": "PH",
+    "lat": 11.6794,
+    "lon": 122.375999,
+    "type": "large_airport",
+    "distance_km": 116.4
+   }
+  ],
+  "nearest_airport_km": 35.3,
+  "distance_beijing_km": 3303.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PH",
+  "country_zh": "菲律宾",
+  "country_en": "Philippines",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required",
+  "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PH",
+   "country_zh": "菲律宾",
+   "country_en": "Philippines",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required",
+   "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/677"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Baroque%20Churches%20of%20the%20Philippines"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

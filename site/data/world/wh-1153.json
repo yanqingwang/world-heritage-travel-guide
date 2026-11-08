@@ -1,0 +1,162 @@
+{
+ "id": "wh-1153",
+ "unesco_id": "1153",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 795,
+ "popularity_score": 3181,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-OCC",
+ "subdivision_zh": "",
+ "subdivision_en": "Occitania",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "喀斯和塞文--地中海农牧文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",
+ "name_local": "Les Causses et les Cévennes, paysage culturel de l’agro-pastoralisme méditerranéen",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1153-the_causses_and_the_cévennes,_mediterran",
+ "lat": 44.2203,
+ "lon": 3.4731,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "占地302319公顷，位于法国中南部山脉与深谷交错的地区，农牧系统与自然环境之间的纽带在这一地区得到了展现，特别是在这一地区夏季上山放牧时，羊群走的山路更是这一纽带的直接反映。景区内的村庄以及喀斯梯田上的坚固的石头农舍体现了11世纪大修道院组织形式。洛泽尔山也位于景观区内，是最后几个还在实行夏季游牧的地区之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This 302,319 ha property, in the southern part of central France, is a mountain landscape interspersed by deep valleys that is representative of the relationship between agro-pastoral systems and their biophysical environment, notably through drailles or drove roads. Villages and substantial stone farmhouses on deep terraces of the Causses reflect the organization of large abbeys from the 11th century. Mont Lozère, inside the property, is one of the last places where summer transhumance is still practiced in the traditional way, using the drailles.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le site, s'étendant sur 302 319 ha au sud du Massif central français, constitue un paysage de montagnes tressées de profondes vallées qui est représentatif de la relation existant entre les systèmes agropastoraux et leur environnement biophysique, notamment au travers des drailles ou routes de transhumance. Les villages et les grandes fermes en pierre situées sur les terrasses profondes des Causses reflètent l'organisation des grandes abbayes à partir du XIe siècle. Le mont Lozère, faisant partie du site, est l'un des derniers lieux où l'on pratique toujours la transhumance estivale de la manière traditionnelle, en utilisant les drailles.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cevennes%20Florac%20Mimente%20depuis%20Causse%20Mejean.jpg?width=1280",
+   "title": "Cevennes Florac Mimente depuis Causse Mejean.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Cevennes%20Florac%20Mimente%20depuis%20Causse%20Mejean.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1153.jpg",
+   "title": "The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1153",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1153",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rodez–Aveyron Airport",
+    "iata": "RDZ",
+    "city": "Rodez/Marcillac",
+    "country": "FR",
+    "lat": 44.407902,
+    "lon": 2.48267,
+    "type": "medium_airport",
+    "distance_km": 81.5
+   },
+   {
+    "name": "Montpellier-Méditerranée Airport",
+    "iata": "MPL",
+    "city": "Montpellier/Méditerranée",
+    "country": "FR",
+    "lat": 43.576199,
+    "lon": 3.96301,
+    "type": "large_airport",
+    "distance_km": 81.7
+   },
+   {
+    "name": "Nîmes-Arles-Camargue Airport",
+    "iata": "FNI",
+    "city": "Nîmes/Garons",
+    "country": "FR",
+    "lat": 43.757401,
+    "lon": 4.41635,
+    "type": "medium_airport",
+    "distance_km": 91.3
+   }
+  ],
+  "nearest_airport_km": 81.5,
+  "distance_beijing_km": 8546.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1153"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Causses%20and%20C%C3%A9vennes"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

@@ -1,0 +1,164 @@
+{
+ "id": "cn-379",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "洛阳市",
+ "city_en": "Luoyang",
+ "name_zh": "洛阳市老君山-鸡冠洞旅游区",
+ "name_en": "Jiguan Cave",
+ "name_en_source": "wikipedia",
+ "slug": "luoyangshilaojunshanjiguandong-379",
+ "lat": 33.789265,
+ "lon": 111.57707,
+ "address_zh": "洛阳市栾川县步云桥",
+ "address_en": "Buyun Bridge, Luanchuan County, Luoyang City",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "老君山—鸡冠洞旅游区位于豫西伏牛山腹地。老君山古号景室山，因东周道家始祖老子归隐-于此而得名；是八百里伏牛山主峰，海拔 2217米。鸡冠洞属天然石灰岩溶洞，地质学上称其为“喀斯特岩溶地貌”。",
+ "intro_en": "Jiguan Cave (鸡冠洞) is located at Luoyang city in Henan province, China. This cave is on the side of the Jiguan mountain, a branch of Funiu Mountains, at an altitude of 1201 meters. Jiguan Cave was formed about 600 million years ago and was discovered in the Qianlong period of the Qing dynasty. In August 1992, Jiguan Cave was developed, completed on March 31, 1993, and it opened up in April 1993. Jiguan Cave is a limestone cave, mainly consisting of stalactites and stalagmites. It is geologically described as a karst landform. This cave reaches a length of 5600 meters, the vertical stratification is five, and it drops 138 meters. There are 1800 meters, and 2300 square meters for travelling. The cave is naturally air conditioned to 18°C in all seasons.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E6%B2%B3%E5%8D%97_%E6%A0%BE%E5%B7%9D%E5%8E%BF_%E9%B8%A1%E5%86%A0%E6%B4%9E_-_panoramio.jpg/1280px-%E6%B2%B3%E5%8D%97_%E6%A0%BE%E5%B7%9D%E5%8E%BF_%E9%B8%A1%E5%86%A0%E6%B4%9E_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "河南 栾川县 鸡冠洞 - panoramio.jpg",
+   "author": "Nyx Ning",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161029064345/http://www.panoramio.com/photo/100275408",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%8D%97_%E6%A0%BE%E5%B7%9D%E5%8E%BF_%E9%B8%A1%E5%86%A0%E6%B4%9E_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cuba%29.pdf/page1-500px-Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cuba%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cuba- population, history and resources 1907 (IA cubapopulationhi00cuba).pdf",
+   "author": "Cuba. Oficina Nacional del Censo Olmsted, Victor H. (Victor Hugo), 1853-1925 Gannett, Henry, 1846-1914",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier : cubapopulationhi00cuba https://archive.org/download/cubapopulationhi00cuba/cubapopulationhi00cuba.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cuba%29.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cubaiala%29.pdf/page1-500px-Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cubaiala%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cuba- population, history and resources 1907 (IA cubapopulationhi00cubaiala).pdf",
+   "author": "Cuba. Oficina del censo Olmsted, Victor Hugo, 1853- Gannett, Henry, 1846-1914",
+   "license": "Public domain",
+   "credit": "Internet Archive identifier : cubapopulationhi00cubaiala https://archive.org/download/cubapopulationhi00cubaiala/cubapopulationhi00cubaiala.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:Cuba-_population%2C_history_and_resources_1907_%28IA_cubapopulationhi00cubaiala%29.pdf"
+  }
+ ],
+ "web": "http://www.laojunshan.cn/",
+ "booking": "http://web.lotsmall.cn/detail/ticket?page=1&m_id=1275&id=4790",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luoyang Beijiao Airport",
+    "iata": "LYA",
+    "city": "Luoyang (Laocheng)",
+    "country": "CN",
+    "lat": 34.7411,
+    "lon": 112.388,
+    "type": "large_airport",
+    "distance_km": 129.4
+   },
+   {
+    "name": "Nanyang Jiangying Airport",
+    "iata": "NNY",
+    "city": "Nanyang (Wancheng)",
+    "country": "CN",
+    "lat": 32.982696,
+    "lon": 112.617467,
+    "type": "small_airport",
+    "distance_km": 131.8
+   },
+   {
+    "name": "Shiyan Wudangshan Airport",
+    "iata": "WDS",
+    "city": "Shiyan (Maojian)",
+    "country": "CN",
+    "lat": 32.592889,
+    "lon": 110.906296,
+    "type": "medium_airport",
+    "distance_km": 146.9
+   }
+  ],
+  "nearest_airport_km": 129.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "五里川",
+    "name_en": null,
+    "lat": 33.7632858,
+    "lon": 111.040079,
+    "distance_km": 49.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "丁河",
+    "name_en": null,
+    "lat": 33.3550678,
+    "lon": 111.3199854,
+    "distance_km": 53.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "卢氏",
+    "name_en": null,
+    "lat": 34.0296291,
+    "lon": 111.0506737,
+    "distance_km": 55.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "智选假日酒店",
+   "name_en": "Holiday Inn Express Luanchuan",
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 33.7769752,
+   "lon": 111.6136782,
+   "distance_km": 3.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/鸡冠洞"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

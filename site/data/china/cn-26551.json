@@ -1,0 +1,188 @@
+{
+ "id": "cn-26551",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "金华市",
+ "city_en": "Jinhua City",
+ "name_zh": "金华市双龙风景旅游区",
+ "name_en": "Jinhuashishuanglongfengjing Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "jinhuashishuanglongfengjing-26551",
+ "lat": 29.192493,
+ "lon": 119.63307,
+ "address_zh": "浙江省金华市罗店镇金华山",
+ "address_en": "Jinhua Mountain, Luodian Town, Jinhua City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "金华双龙风景旅游区位于浙江省金华市北郊的金华山麓，规划范围包括双龙风景名胜区79.7平方公里、金华山北坡兰溪范围150平方公里以及金华山南坡山脚一带70平方公里，合计约300平方公里，有双龙洞、黄大仙、尖峰山、大盘天、赤松山、家园里六大景区，是集儒、释、道文化为一体的“三教圣地、仙香福地、名人沃土”。旅游区拥有丰富的喀斯特地貌景观和极具规模的溶洞群，境内岩洞奇绝，岩溶地貌发育完整，在长达25公里的带状石灰岩层，分布着50多个溶洞和多条地下河、一个地下湖，自古即有“五湖十景”之称。",
+ "intro_en": "Jinhua Shuanglong Scenic Tourist Area is located at the foothills of Jinhua Mountain in the northern suburbs of Jinhua City, Zhejiang Province. The planned scope includes 79.7 square kilometers of Shuanglong Scenic Area, 150 square kilometers of Lanxi on the northern slope of Jinhua Mountain, and 7 areas at the foot of the southern slope of Jinhua Mountain. 0 square kilometers, totaling about 300 square kilometers, there are six major scenic spots: Shuanglong Cave, Wong Tai Sin, Jianfeng Mountain, Dapantian, Chisong Mountain, and Jiayuanli. It is a \"holy land of three religions, a blessed land of immortals, and a fertile land for celebrities\" integrating Confucianism, Buddhism, and Taoism culture. The tourist area has rich karst landscapes and large-scale karst cave groups. The caves are unique and the karst landforms are fully developed. There are more than 50 karst caves, multiple underground rivers and an underground lake in the 25-kilometer-long strip of limestone. It has been known as the \"Five Lakes and Ten Scenic Spots\" since ancient times.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.shuanglongdong.com/ticketBooking.html",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yiwu Airport",
+    "iata": "YIW",
+    "city": "Yiwu/Jinhua",
+    "country": "CN",
+    "lat": 29.342095,
+    "lon": 120.03116,
+    "type": "large_airport",
+    "distance_km": 42.0
+   },
+   {
+    "name": "Quzhou Airport",
+    "iata": "JUZ",
+    "city": "Quzhou (Kezheng)",
+    "country": "CN",
+    "lat": 28.96613,
+    "lon": 118.898793,
+    "type": "medium_airport",
+    "distance_km": 75.7
+   },
+   {
+    "name": "Hangzhou Xiaoshan International Airport",
+    "iata": "HGH",
+    "city": "Hangzhou",
+    "country": "CN",
+    "lat": 30.23609,
+    "lon": 120.428865,
+    "type": "large_airport",
+    "distance_km": 139.2
+   }
+  ],
+  "nearest_airport_km": 42.0,
+  "high_speed_stations": [
+   {
+    "name": "金华",
+    "name_en": "Jinhua Railway Station",
+    "lat": 29.1142792,
+    "lon": 119.6312213,
+    "distance_km": 8.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "竹马馆",
+    "name_en": null,
+    "lat": 29.1366878,
+    "lon": 119.585911,
+    "distance_km": 7.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "金华东",
+    "name_en": "Jinhua East Railway Station",
+    "lat": 29.1167095,
+    "lon": 119.6637814,
+    "distance_km": 8.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "东孝",
+    "name_en": "Dongxiao",
+    "lat": 29.1299752,
+    "lon": 119.7094931,
+    "distance_km": 10.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "金华万豪酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 29.0947872,
+   "lon": 119.6677863,
+   "distance_km": 11.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "电站宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2035583,
+   "lon": 119.6190014,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "隐居芥子园酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2052346,
+   "lon": 119.6185759,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "浙师大国际交流中心",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1367322,
+   "lon": 119.6465208,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "俏江南",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1273702,
+   "lon": 119.6355487,
+   "distance_km": 7.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 25,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

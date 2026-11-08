@@ -1,0 +1,161 @@
+{
+ "id": "wh-1245",
+ "unesco_id": "1245",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 925,
+ "popularity_score": null,
+ "country": "SM",
+ "country_zh": "圣马力诺",
+ "country_en": "San Marino",
+ "countries": [
+  {
+   "iso2": "SM",
+   "zh": "圣马力诺",
+   "en": "San Marino"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "SM-06",
+ "subdivision_zh": "博尔戈马焦雷",
+ "subdivision_en": "Borgo Maggiore",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣马力诺历史中心和蒂塔诺山",
+ "name_zh_source": "curated",
+ "name_en": "San Marino Historic Centre and Mount Titano",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1245-san_marino_historic_centre_and_mount_tit",
+ "lat": 43.93277778,
+ "lon": 12.45194444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣马力诺历史中心和蒂塔诺山占地 55 公顷，包括蒂塔诺山和城市历史中心，该城市的历史可以追溯到 13 世纪共和国作为城邦建立的时期。圣马力诺被铭刻为自中世纪以来自由共和国延续的见证。铭刻的市中心包括防御塔、城墙、大门和堡垒，以及 19 世纪的新古典主义大教堂、14 和 16 世纪的修道院、19 世纪的公共宫以及 18 世纪的蒂塔诺剧院。该地产代表了一个仍然有人居住并保留其所有机构功能的历史中心。由于其位于蒂塔诺山顶的位置，它没有受到从工业时代到来到今天所发生的城市转型的影响。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "San Marino Historic Centre and Mount Titano covers 55 ha, including Mount Titano and the historic centre of the city which dates back to the foundation of the republic as a city-state in the 13th century. San Marino is inscribed as a testimony to the continuity of a free republic since the Middle Ages. The inscribed city centre includes fortification towers, walls, gates and bastions, as well as a neo-classical basilica of the 19th century, 14th and 16th century convents, and the Palazzo Publico of the 19th century, as well as the 18th century Titano Theatre. The property represents an historical centre still inhabited and preserving all its institutional functions. Thanks to its position on top of Mount Titano, it was not affected by the urban transformations that have occurred from the advent of the industrial era to today.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20of%20Guaita%20-%20First%20Tower%20%28San%20Marino%29.jpg?width=1280",
+   "title": "Fortress of Guaita - First Tower (San Marino).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Fortress%20of%20Guaita%20-%20First%20Tower%20%28San%20Marino%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1245.jpg",
+   "title": "San Marino Historic Centre and Mount Titano",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1245",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1245",
+ "transport": {
+  "airports": [
+   {
+    "name": "Federico Fellini International Airport",
+    "iata": "RMI",
+    "city": "Rimini (RN)",
+    "country": "IT",
+    "lat": 44.020024,
+    "lon": 12.612198,
+    "type": "large_airport",
+    "distance_km": 16.1
+   },
+   {
+    "name": "Forlì-Luigi Ridolfi International Airport",
+    "iata": "FRL",
+    "city": "Forlì (FC)",
+    "country": "IT",
+    "lat": 44.194801,
+    "lon": 12.0701,
+    "type": "medium_airport",
+    "distance_km": 42.2
+   },
+   {
+    "name": "Marche Airport",
+    "iata": "AOI",
+    "city": "Falconara Marittima (AN)",
+    "country": "IT",
+    "lat": 43.616299,
+    "lon": 13.3623,
+    "type": "medium_airport",
+    "distance_km": 81.1
+   }
+  ],
+  "nearest_airport_km": 16.1,
+  "distance_beijing_km": 7968.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SM",
+  "country_zh": "圣马力诺",
+  "country_en": "San Marino",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[122][6]",
+  "notes": "Although officially no visa is required, at least a Single Entry Schengen visa is required to enter San Marino since it does not have an own airport facility and no border controls."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SM",
+   "country_zh": "圣马力诺",
+   "country_en": "San Marino",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[122][6]",
+   "notes": "Although officially no visa is required, at least a Single Entry Schengen visa is required to enter San Marino since it does not have an own airport facility and no border controls."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1245"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

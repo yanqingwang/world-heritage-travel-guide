@@ -1,0 +1,154 @@
+{
+ "id": "wh-1078",
+ "unesco_id": "1078",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 893,
+ "popularity_score": null,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "Trebic district, Vysocina Region",
+ "subdivision_iso": "CZ-63",
+ "subdivision_zh": "",
+ "subdivision_en": "Vysočina Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "特热比奇犹太社区及圣普罗科皮乌斯大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1078-jewish_quarter_and_st_procopius'_basilic",
+ "lat": 49.2172,
+ "lon": 15.8789,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这里的犹太区、古老的犹太墓地和圣普罗皮乌斯大教堂表明，从中世纪到20世纪犹太教与基督教文化一直共生共存。犹太区是这一社区生活各个方面的显著证明。作为13世纪早期修道院的一部分，圣普罗科皮乌斯教堂是西欧建筑传统影响这一地区的一个典型例子。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The ensemble of the Jewish Quarter, the old Jewish cemetery and the Basilica of St Procopius in Třebíč are reminders of the co-existence of Jewish and Christian cultures from the Middle Ages to the 20th century. The Jewish Quarter bears outstanding testimony to the different aspects of the life of this community. St Procopius' Basilica, built as part of the Benedictine monastery in the early 13th century, is a remarkable example of the influence of Western European architectural heritage in this region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1078.jpg",
+   "title": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1078",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1078",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 59.7
+   },
+   {
+    "name": "Pardubice Airport",
+    "iata": "PED",
+    "city": "Pardubice",
+    "country": "CZ",
+    "lat": 50.015049,
+    "lon": 15.73981,
+    "type": "large_airport",
+    "distance_km": 89.3
+   },
+   {
+    "name": "České Budějovice South Bohemian Airport",
+    "iata": "JCL",
+    "city": "České Budějovice",
+    "country": "CZ",
+    "lat": 48.948171,
+    "lon": 14.42832,
+    "type": "large_airport",
+    "distance_km": 109.8
+   }
+  ],
+  "nearest_airport_km": 59.7,
+  "distance_beijing_km": 7378.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1078"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

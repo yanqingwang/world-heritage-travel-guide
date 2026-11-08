@@ -1,0 +1,162 @@
+{
+ "id": "wh-698",
+ "unesco_id": "698",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 859,
+ "popularity_score": 842,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "States of Queensland and South Australia",
+ "subdivision_iso": "AU-QLD",
+ "subdivision_zh": "昆士兰州",
+ "subdivision_en": "Queensland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "澳大利亚哺乳动物化石地（里弗斯利/纳拉库特）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "698-australian_fossil_mammal_sites_(riversle",
+ "lat": -19.08333333,
+ "lon": 138.7166667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)(ix)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "分别位于东澳大利亚北部和南部的里弗斯利和纳拉库特都位居世界十大化石景点之列，完美地展示了澳大利亚特有动物群的各个进化阶段。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Riversleigh and Naracoorte, situated in the north and south respectively of eastern Australia, are among the world’s 10 greatest fossil sites. They are a superb illustration of the key stages of evolution of Australia’s unique fauna.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Riversleigh.jpg?width=1280",
+   "title": "Riversleigh.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Riversleigh.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_698.jpg",
+   "title": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/698",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/698",
+ "transport": {
+  "airports": [
+   {
+    "name": "Doomadgee Airport",
+    "iata": "DMD",
+    "city": "",
+    "country": "AU",
+    "lat": -17.9403,
+    "lon": 138.822006,
+    "type": "small_airport",
+    "distance_km": 127.6
+   },
+   {
+    "name": "Burketown Airport",
+    "iata": "BUC",
+    "city": "",
+    "country": "AU",
+    "lat": -17.748600006103516,
+    "lon": 139.53399658203125,
+    "type": "small_airport",
+    "distance_km": 171.6
+   },
+   {
+    "name": "Mount Isa Airport",
+    "iata": "ISA",
+    "city": "Mount Isa",
+    "country": "AU",
+    "lat": -20.66638,
+    "lon": 139.488468,
+    "type": "medium_airport",
+    "distance_km": 193.6
+   }
+  ],
+  "nearest_airport_km": 127.6,
+  "distance_beijing_km": 6850.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/698"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Australian%20Fossil%20Mammal%20Sites%20%28Riversleigh%20/%20Naracoorte%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

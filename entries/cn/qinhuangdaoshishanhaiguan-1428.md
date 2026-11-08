@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Qinhuangdao"
 lat: 40.052546
 lon: 119.741096
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 秦皇岛市山海关景区 / Shanhai Pass

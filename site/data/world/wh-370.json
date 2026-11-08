@@ -1,0 +1,162 @@
+{
+ "id": "wh-370",
+ "unesco_id": "370",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 300,
+ "popularity_score": 30795,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "County of Durham, England",
+ "subdivision_iso": "GB-DUR",
+ "subdivision_zh": "",
+ "subdivision_en": "County Durham",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "达勒姆大教堂和城堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Durham Castle and Cathedral",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "370-durham_castle_and_cathedral",
+ "lat": 54.7749,
+ "lon": -1.57558,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "达勒姆大教堂建于11世纪末到12世纪初，用来存放圣卡斯伯特（诺桑比亚的福音传播者）和圣比德的遗骨。它证明了早期比德修道团体的重要性，也是在英国极具诺曼底式风格的最大建筑物。达勒姆教堂的拱顶令人耳目一新，迎来了中世纪的建筑风格。大教堂后面是一个古代诺曼底式的城堡，它曾是达勒姆王室大主教的住所。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Durham Cathedral was built in the late 11th and early 12th centuries to house the relics of St Cuthbert (evangelizer of Northumbria) and the Venerable Bede. It attests to the importance of the early Benedictine monastic community and is the largest and finest example of Norman architecture in England. The innovative audacity of its vaulting foreshadowed Gothic architecture. Behind the cathedral stands the castle, an ancient Norman fortress which was the residence of the prince-bishops of Durham.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Durham%20Castle%2C%20April%202017%20%2814%29%20%2833459522640%29.jpg?width=1280",
+   "title": "Durham Castle, April 2017 (14) (33459522640).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Durham%20Castle%2C%20April%202017%20%2814%29%20%2833459522640%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_370.jpg",
+   "title": "Durham Castle and Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/370",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/370",
+ "transport": {
+  "airports": [
+   {
+    "name": "Newcastle International Airport",
+    "iata": "NCL",
+    "city": "Newcastle upon Tyne, Tyne and Wear",
+    "country": "GB",
+    "lat": 55.037958,
+    "lon": -1.689577,
+    "type": "large_airport",
+    "distance_km": 30.1
+   },
+   {
+    "name": "Teesside International Airport",
+    "iata": "MME",
+    "city": "Darlington, Durham",
+    "country": "GB",
+    "lat": 54.509201,
+    "lon": -1.42941,
+    "type": "medium_airport",
+    "distance_km": 31.0
+   },
+   {
+    "name": "Leeds Bradford Airport",
+    "iata": "LBA",
+    "city": "Leeds, West Yorkshire",
+    "country": "GB",
+    "lat": 53.865898,
+    "lon": -1.66057,
+    "type": "large_airport",
+    "distance_km": 101.2
+   }
+  ],
+  "nearest_airport_km": 30.1,
+  "distance_beijing_km": 7932.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/370"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Durham%20Castle"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

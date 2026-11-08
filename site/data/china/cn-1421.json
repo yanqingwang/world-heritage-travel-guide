@@ -1,0 +1,178 @@
+{
+ "id": "cn-1421",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "宁波市",
+ "city_en": "Ningbo City",
+ "name_zh": "宁波市溪口-滕头旅游景区",
+ "name_en": "Ningboshixikou-tengtou Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "ningboshixikoutengtou-1421",
+ "lat": 29.705123,
+ "lon": 121.396879,
+ "address_zh": "浙江省宁波市奉化市溪口镇滕头村",
+ "address_en": "Tengtou Village, Xikou Town, Fenghua City, Ningbo City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "奉化溪口-滕头旅游景区，由溪口风景区和滕头生态旅游区两大景区组成。溪口风景区，东靠武岭，南濒剡溪，北靠雪窦山，水绕山环，景色秀丽，深得旅游爱好者的青睐。滕头生态旅游区因美丽的生态景观、特色的乡村风情而闻名，是一个将国际时尚与中国经典乡村文化结合起来的生态旅游度假区。",
+ "intro_en": "Fenghua Xikou-Tengtou tourist area consists of two major scenic areas: Xikou Scenic Area and Tengtou Ecological Tourism Area. Xikou Scenic Area is bordered by Wuling in the east, Yanxi River in the south, and Xuedou Mountain in the north. The water is surrounded by mountains and the scenery is beautiful. It is favored by travel enthusiasts. Tengtou Eco-tourism Zone is famous for its beautiful ecological landscape and distinctive rural style. It is an eco-tourism resort that combines international fashion with Chinese classic rural culture.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.xikoutourism.com/index.html",
+ "booking": "http://www.xikoutourism.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ningbo Lishe International Airport",
+    "iata": "NGB",
+    "city": "Ningbo",
+    "country": "CN",
+    "lat": 29.82670021057129,
+    "lon": 121.46199798583984,
+    "type": "large_airport",
+    "distance_km": 14.9
+   },
+   {
+    "name": "Zhoushan Putuoshan International Airport",
+    "iata": "HSN",
+    "city": "Zhoushan",
+    "country": "CN",
+    "lat": 29.933874,
+    "lon": 122.362307,
+    "type": "large_airport",
+    "distance_km": 96.5
+   },
+   {
+    "name": "Hangzhou Xiaoshan International Airport",
+    "iata": "HGH",
+    "city": "Hangzhou",
+    "country": "CN",
+    "lat": 30.23609,
+    "lon": 120.428865,
+    "type": "large_airport",
+    "distance_km": 110.4
+   }
+  ],
+  "nearest_airport_km": 14.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "奉化",
+    "name_en": "Fenghua",
+    "lat": 29.6304914,
+    "lon": 121.460225,
+    "distance_km": 10.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "溪口",
+    "name_en": null,
+    "lat": 29.633583,
+    "lon": 121.2387461,
+    "distance_km": 17.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "云龙",
+    "name_en": "Yunlong",
+    "lat": 29.7764736,
+    "lon": 121.5880201,
+    "distance_km": 20.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "南苑饭店",
+   "name_en": "Ningbo Nanyuan Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 29.8604394,
+   "lon": 121.5420717,
+   "distance_km": 22.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宁波华侨温德姆至尊豪廷大酒店",
+   "name_en": "Wyndham Grand Ningbo",
+   "stars": 5,
+   "brand": "Wyndham Grand",
+   "lat": 29.8705744,
+   "lon": 121.5353503,
+   "distance_km": 22.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宁波阳光豪生大酒店",
+   "name_en": "Howard Johnson Sunshine Plaza Ningbo",
+   "stars": 5,
+   "brand": null,
+   "lat": 29.88396,
+   "lon": 121.5093581,
+   "distance_km": 22.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宁波威斯汀酒店",
+   "name_en": "The Westing",
+   "stars": 5,
+   "brand": "Westin",
+   "lat": 29.8710963,
+   "lon": 121.5529496,
+   "distance_km": 23.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宁波香格里拉大酒店",
+   "name_en": "Shangri-la",
+   "stars": 5,
+   "brand": null,
+   "lat": 29.8701694,
+   "lon": 121.557621,
+   "distance_km": 24.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 105,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

@@ -1,0 +1,283 @@
+{
+ "id": "wh-243",
+ "unesco_id": "243",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 54,
+ "popularity_score": 229967,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "Maharashtra State, Aurangabad District, Khulatabad Taluk , Verul Village",
+ "subdivision_iso": "IN-MH",
+ "subdivision_zh": "马哈拉施特拉邦",
+ "subdivision_en": "Maharashtra",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "埃洛拉石窟群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ellora Caves",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "243-ellora_caves",
+ "lat": 20.026388888,
+ "lon": 75.179166666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "埃洛拉石窟群位于马哈拉施特拉邦(Maharashtra)，离奥兰加巴德不远。高高的陡峭玄武岩壁上，34座洞穴庙宇被开凿出来，一座挨一座，延伸2000多米。这些保存完好、排列有序的遗迹可追溯到公元600年至1000年，它们生动完好地再现了古印度文明。埃洛拉石窟群不仅艺术造型独特，技术水准高超，而且作为佛教、婆罗门教和耆那教的圣殿，它们是古代印度容忍、宽恕特性的精神体现。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These 34 monasteries and temples, extending over more than 2 km, were dug side by side in the wall of a high basalt cliff, not far from Aurangabad, in Maharashtra. Ellora, with its uninterrupted sequence of monuments dating from A.D. 600 to 1000, brings the civilization of ancient India to life. Not only is the Ellora complex a unique artistic creation and a technological exploit but, with its sanctuaries devoted to Buddhism, Hinduism and Jainism, it illustrates the spirit of tolerance that was characteristic of ancient India.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ellora%20Caves%2C%20India%2C%20Kailasanatha%20Temple%202.jpg?width=1280",
+   "title": "Ellora Caves, India, Kailasanatha Temple 2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ellora%20Caves%2C%20India%2C%20Kailasanatha%20Temple%202.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/154_Grotto%2C_Buddha_and_Bodhisattvas_on_Lotuses_%2833310860914%29.jpg/1280px-154_Grotto%2C_Buddha_and_Bodhisattvas_on_Lotuses_%2833310860914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "154 Grotto, Buddha and Bodhisattvas on Lotuses (33310860914).jpg",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "license": "CC BY 2.0",
+   "credit": "154 Grotto, Buddha and Bodhisattvas on Lotuses",
+   "source": "https://commons.wikimedia.org/wiki/File:154_Grotto%2C_Buddha_and_Bodhisattvas_on_Lotuses_%2833310860914%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/%40Elloracaves.jpg/1280px-%40Elloracaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "@Elloracaves.jpg",
+   "author": "Manavvyas14",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%40Elloracaves.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/%40temples.jpg/1280px-%40temples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "@temples.jpg",
+   "author": "Manavvyas14",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%40temples.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/A_BALANCE_OF_LIE.jpg/1280px-A_BALANCE_OF_LIE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A BALANCE OF LIE.jpg",
+   "author": "Srivastav Pannaty",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_BALANCE_OF_LIE.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/243",
+ "transport": {
+  "airports": [
+   {
+    "name": "Aurangabad Airport",
+    "iata": "IXU",
+    "city": "Aurangabad",
+    "country": "IN",
+    "lat": 19.862875,
+    "lon": 75.396312,
+    "type": "medium_airport",
+    "distance_km": 29.1
+   },
+   {
+    "name": "Shirdi International Airport",
+    "iata": "SAG",
+    "city": "Kakadi",
+    "country": "IN",
+    "lat": 19.689211,
+    "lon": 74.373655,
+    "type": "large_airport",
+    "distance_km": 92.2
+   },
+   {
+    "name": "Jalgaon Airport",
+    "iata": "JLG",
+    "city": "Jalgaon",
+    "country": "IN",
+    "lat": 20.962678,
+    "lon": 75.627492,
+    "type": "small_airport",
+    "distance_km": 114.1
+   }
+  ],
+  "nearest_airport_km": 29.1,
+  "distance_beijing_km": 4504.3,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Daulatabad",
+    "name_en": "Daulatabad",
+    "lat": 19.9168755,
+    "lon": 75.2097419,
+    "distance_km": 12.6,
+    "operator": "SCR"
+   },
+   {
+    "name": "Potul",
+    "name_en": null,
+    "lat": 19.9181206,
+    "lon": 75.1224724,
+    "distance_km": 13.4,
+    "operator": "SCR"
+   },
+   {
+    "name": "Lasur",
+    "name_en": null,
+    "lat": 19.9263446,
+    "lon": 75.0118617,
+    "distance_km": 20.7,
+    "operator": "SCR"
+   },
+   {
+    "name": "Chhatrapati Sambhajinagar",
+    "name_en": "Chhatrapati Sambhajinagar",
+    "lat": 19.8597998,
+    "lon": 75.3114008,
+    "distance_km": 23.1,
+    "operator": "SCR"
+   },
+   {
+    "name": "Karanjgaon",
+    "name_en": null,
+    "lat": 19.9496748,
+    "lon": 74.9247952,
+    "distance_km": 27.9,
+    "operator": "SCR"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Shangrila",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.8803582,
+   "lon": 75.3188836,
+   "distance_km": 21.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Holiday Era",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.8613094,
+   "lon": 75.311555,
+   "distance_km": 23.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.8623853,
+   "lon": 75.3136646,
+   "distance_km": 23.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kailas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.0236681,
+   "lon": 75.1746434,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Crystal",
+   "name_en": "Hotel Crystal",
+   "stars": null,
+   "brand": null,
+   "lat": 19.9932406,
+   "lon": 75.1950312,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 73
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/243"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ellora%20Caves"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

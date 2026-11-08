@@ -1,0 +1,234 @@
+{
+ "id": "cn-1453",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "南昌市",
+ "city_en": "Nanchang",
+ "name_zh": "南昌市东湖区滕王阁旅游区",
+ "name_en": "Pavilion of Prince Teng",
+ "name_en_source": "wikipedia",
+ "slug": "nanchangshidonghuqutengwangge-1453",
+ "lat": 28.687376,
+ "lon": 115.887675,
+ "address_zh": "江西省南昌市东湖区仿古街58号",
+ "address_en": "No. 58, Antique Street, Donghu District, Nanchang City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "natural",
+ "category_zh": "自然风光",
+ "category_en": "Natural scenery",
+ "intro_zh": "滕王阁，始建于唐永徽四年（公元653年），因唐太宗李世民之弟——滕王李元婴始建而得名，又因初唐诗人王勃诗句“落霞与孤鹜齐飞，秋水共长天一色”而流芳后世。滕王阁景区主要由南园、北园、东园、阁前广场和主阁组成，与湖北武汉黄鹤楼、湖南岳阳楼并称为“江南三大名楼”。",
+ "intro_en": "The Pavilion of Prince Teng (traditional Chinese: 滕王閣; simplified Chinese: 滕王阁; pinyin: Téngwáng Gé) is a building in the North West of the city of Nanchang, in Jiangxi province, China, on the east bank of the Gan River and is one of the Three Great Towers of southern China. The other two are the Yueyang Tower and the Yellow Crane Pavilion. It has been destroyed and rebuilt many times over its history. The present building was rebuilt in 1989 on the original site. The rebuilding plan was devised by the architect Liang Sicheng, and now the Pavilion of Prince Teng is the landmark of Nanchang. There are nine floors in total. The main architectural structure is in Song dynasty wooden style, showing the magnificence of the Pavilion.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paifang_in_front_of_Pavilion_of_Prince_Teng_2023021303.jpg/1280px-Paifang_in_front_of_Pavilion_of_Prince_Teng_2023021303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Paifang in front of Pavilion of Prince Teng 2023021303.jpg",
+   "author": "Huangdan2060",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Paifang_in_front_of_Pavilion_of_Prince_Teng_2023021303.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pavilion_of_Prince_Teng%2C_Nanchang%2C_China1.jpg/1280px-Pavilion_of_Prince_Teng%2C_Nanchang%2C_China1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pavilion of Prince Teng, Nanchang, China1.jpg",
+   "author": "Sherbet",
+   "license": "CC BY 2.5",
+   "credit": "http://zianzhiwofeiyu.lofter.com/post/1eb9f3b2_12e857bc6",
+   "source": "https://commons.wikimedia.org/wiki/File:Pavilion_of_Prince_Teng%2C_Nanchang%2C_China1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pavilion_of_Prince_Teng_2023021301.jpg/1280px-Pavilion_of_Prince_Teng_2023021301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pavilion of Prince Teng 2023021301.jpg",
+   "author": "Huangdan2060",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pavilion_of_Prince_Teng_2023021301.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pavilion_of_Prince_Teng_2023021302.jpg/1280px-Pavilion_of_Prince_Teng_2023021302.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pavilion of Prince Teng 2023021302.jpg",
+   "author": "Huangdan2060",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pavilion_of_Prince_Teng_2023021302.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Pavilion_of_Prince_Teng_20231017_09.jpg/1280px-Pavilion_of_Prince_Teng_20231017_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pavilion of Prince Teng 20231017 09.jpg",
+   "author": "沈澄心",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pavilion_of_Prince_Teng_20231017_09.jpg"
+  }
+ ],
+ "web": "http://www.cntwg.com/",
+ "booking": "http://www.cntwg.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanchang Changbei International Airport",
+    "iata": "KHN",
+    "city": "Nanchang",
+    "country": "CN",
+    "lat": 28.864815,
+    "lon": 115.90271,
+    "type": "large_airport",
+    "distance_km": 19.8
+   },
+   {
+    "name": "Jiujiang Lushan Airport",
+    "iata": "JIU",
+    "city": "Jiujiang",
+    "country": "CN",
+    "lat": 29.476944,
+    "lon": 115.801111,
+    "type": "small_airport",
+    "distance_km": 88.2
+   },
+   {
+    "name": "Jingdezhen Luojia Airport",
+    "iata": "JDZ",
+    "city": "Jingdezhen",
+    "country": "CN",
+    "lat": 29.3386,
+    "lon": 117.176003,
+    "type": "medium_airport",
+    "distance_km": 144.7
+   }
+  ],
+  "nearest_airport_km": 19.8,
+  "high_speed_stations": [
+   {
+    "name": "南昌西",
+    "name_en": "Nanchangxi Railway Station",
+    "lat": 28.6257294,
+    "lon": 115.7877114,
+    "distance_km": 11.9,
+    "operator": "中国铁路南昌局集团有限公司",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "南昌",
+    "name_en": "Nanchang",
+    "lat": 28.6652855,
+    "lon": 115.9148247,
+    "distance_km": 3.6,
+    "operator": "中国铁路南昌局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "南昌北",
+    "name_en": "Nanchangbei",
+    "lat": 28.7439495,
+    "lon": 115.8604297,
+    "distance_km": 6.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "青云谱",
+    "name_en": "Qingyunpu",
+    "lat": 28.5991806,
+    "lon": 115.9223128,
+    "distance_km": 10.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "嘉莱特和平国际酒店",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.6678895,
+   "lon": 115.9036789,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "力高皇冠国际假日酒店",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 28.6612145,
+   "lon": 115.8697489,
+   "distance_km": 3.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "唯客丽晶国际大酒店",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 28.6668826,
+   "lon": 115.9124009,
+   "distance_km": 3.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "南昌香格里拉大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.6836944,
+   "lon": 115.8538337,
+   "distance_km": 3.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "希尔顿欢朋酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.6653593,
+   "lon": 115.8348951,
+   "distance_km": 5.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 71,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/滕王阁"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

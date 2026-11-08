@@ -1,0 +1,162 @@
+{
+ "id": "wh-515",
+ "unesco_id": "515",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 422,
+ "popularity_score": 18377,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "District of Bergstrasse, State of Hesse (Hessen)",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "洛尔施修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Abbey and Altenmünster of Lorsch",
+ "name_local": "Kloster Lorsch",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "515-abbey_and_altenmünster_of_lorsch",
+ "lat": 49.65369,
+ "lon": 8.56858,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "洛尔施修道院及其颇具纪念意义的入口——著名的“托尔哈尔”(Torhall)是卡洛林时代(the Carolingian era) 珍贵的建筑遗迹，那时遗留下来的雕刻和绘画都保存得十分完好。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Das Kloster Lorsch (St. Nazarius) war eine Benediktinerabtei in Lorsch im Landkreis Bergstraße (Hessen) in Deutschland. Es wurde um 764 gegründet und war bis zum Hochmittelalter als Reichskloster ein Macht-, Geistes- und Kulturzentrum. 1232 kam die Abtei Lorsch zu Kurmainz und war ab 1248 eine Prämonstratenser-Propstei. 1461 wurde Lorsch als Teil des Oberamtes Starkenburg an die Kurpfalz verpfändet, die das Kloster 1564 aufhob. Wichtige überlieferte Zeugnisse sind der Lorscher Codex (Codex Laureshamensis), ein umfassendes Güterverzeichnis, das Lorscher Evangeliar (Codex Aureus Laureshamensis), aber auch der Lorscher Bienensegen, die ehemalige Bibliothek und die Torhalle des Klosters, auch Königshalle genannt, eines der wenigen vollständig erhaltenen Baudenkmale aus der Zeit der Karolinger. Das übrige Kloster wurde, mit Ausnahme weniger Gebäude, im Dreißigjährigen Krieg 1621 niedergebrannt und später als Steinbruch beräumt. Lediglich die Torhalle des Klosters blieb unversehrt. Das Kloster Lorsch (Abtei und Altenmünster) ist seit 1991 Weltkulturerbe der UNESCO, des Weiteren ist es ein geschütztes Kulturgut nach der Haager Konvention. Das Lorscher Arzneibuch, eine Handschrift aus dem Ende des 8. Jahrhunderts, wurde 2013 zum UNESCO-Weltdokumentenerbe in Deutschland erklärt. Vom Altenmünster, dem überlieferten Vorgängerkloster von Lorsch, ist obertägig kein Rest mehr vorhanden.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorsch.jpg?width=1280",
+   "title": "Lorsch.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lorsch.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_515.jpg",
+   "title": "Abbey and Altenmünster of Lorsch",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/515",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/515",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mannheim-City Airport",
+    "iata": "MHG",
+    "city": "Mannheim",
+    "country": "DE",
+    "lat": 49.473057,
+    "lon": 8.514167,
+    "type": "medium_airport",
+    "distance_km": 20.5
+   },
+   {
+    "name": "Frankfurt Main Airport",
+    "iata": "FRA",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "lat": 50.026706,
+    "lon": 8.55835,
+    "type": "large_airport",
+    "distance_km": 41.5
+   },
+   {
+    "name": "Frankfurt-Hahn Airport",
+    "iata": "HHN",
+    "city": "Frankfurt am Main (Lautzenhausen)",
+    "country": "DE",
+    "lat": 49.946353,
+    "lon": 7.261734,
+    "type": "large_airport",
+    "distance_km": 99.3
+   }
+  ],
+  "nearest_airport_km": 20.5,
+  "distance_beijing_km": 7830.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/515"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lorsch%20Abbey"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

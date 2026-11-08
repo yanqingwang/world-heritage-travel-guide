@@ -1,0 +1,162 @@
+{
+ "id": "wh-537",
+ "unesco_id": "537",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1102,
+ "popularity_score": null,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Regions of Attica, Central Greece, North Aegean",
+ "subdivision_iso": "GR-03",
+ "subdivision_zh": "维奥蒂亚专区",
+ "subdivision_en": "Boeotia Regional Unit",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "达夫尼修道院、俄西俄斯罗卡斯修道院和希俄斯新修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "537-monasteries_of_daphni,_hosios_loukas_and",
+ "lat": 38.4,
+ "lon": 22.75,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这三个修道院虽然从地理位置上相隔一定的距离（第一个在阿提卡，靠近雅典；第二个在福基斯州，靠近德尔菲；第三个在爱琴海的一个岛上，靠近小亚细亚），但属于相同类型，有着相同的美学特征。教堂建在广场中间，呈十字形，巨大的穹窿屋顶由突角拱支撑，形成一个八角结构。在11和12世纪，这些教堂的金色背景上装饰着华丽的大理石或马赛克，代表着“拜占庭艺术的第二个黄金时代”。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Although geographically distant from each other, these three monasteries (the first is in Attica, near Athens, the second in Phocida near Delphi, and the third on an island in the Aegean Sea, near Asia Minor) belong to the same typological series and share the same aesthetic characteristics. The churches are built on a cross-in-square plan with a large dome supported by squinches defining an octagonal space. In the 11th and 12th centuries they were decorated with superb marble works as well as mosaics on a gold background, all characteristic of the 'second golden age of Byzantine art'.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hosios%20Loukas%20%282013%29.jpg?width=1280",
+   "title": "Hosios Loukas (2013).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Hosios%20Loukas%20%282013%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_537.jpg",
+   "title": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/537",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/537",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nea Anchialos National Airport",
+    "iata": "VOL",
+    "city": "Nea Anchialos",
+    "country": "GR",
+    "lat": 39.219601,
+    "lon": 22.7943,
+    "type": "medium_airport",
+    "distance_km": 91.2
+   },
+   {
+    "name": "Skiathos Island National Airport",
+    "iata": "JSI",
+    "city": "Skiathos",
+    "country": "GR",
+    "lat": 39.177101,
+    "lon": 23.5037,
+    "type": "medium_airport",
+    "distance_km": 108.3
+   },
+   {
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "iata": "ATH",
+    "city": "Spata-Artemida",
+    "country": "GR",
+    "lat": 37.936401,
+    "lon": 23.9445,
+    "type": "large_airport",
+    "distance_km": 116.5
+   }
+  ],
+  "nearest_airport_km": 91.2,
+  "distance_beijing_km": 7607.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/537"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

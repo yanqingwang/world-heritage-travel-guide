@@ -1,0 +1,162 @@
+{
+ "id": "wh-1017",
+ "unesco_id": "1017",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 735,
+ "popularity_score": 4810,
+ "country": "SR",
+ "country_zh": "苏里南",
+ "country_en": "Suriname",
+ "countries": [
+  {
+   "iso2": "SR",
+   "zh": "苏里南",
+   "en": "Suriname"
+  }
+ ],
+ "region": "District Sipaliwini",
+ "subdivision_iso": "SR-SI",
+ "subdivision_zh": "锡帕利维尼区",
+ "subdivision_en": "Sipaliwini District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "苏里南中心自然保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Central Suriname Nature Reserve",
+ "name_local": "Centraal Suriname Natuurreservaat",
+ "local_lang": "nl",
+ "local_lang_name": "Dutch",
+ "slug": "1017-central_suriname_nature_reserve",
+ "lat": 4.0,
+ "lon": -56.5,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "苏里南中心自然保护区占地面积为160万公顷，这里生长着苏里南中西部地区所特有的原始热带雨林，对科珀纳默上游和很多河流，吕西河、奥斯特河、泽伊德河、萨拉马卡河和格兰里奥河的源头都起着重要的保护作用，保护区里存在着多种原始地形和生态系统，具有十分显著的保护价值。苏里南中心自然保护区山地森林和低地森林里植物种类繁多，目前发现的维管植物种类已经超过五千种。保护区里还生存有许多当地特有的动物，其中有美洲虎、巨犰狳、大河水獭、貘、树獭和8种灵长类动物，这里还栖息着400多种鸟类，有哈痞鹰、圭亚那动冠散鸟以及深红色金刚鹦鹉等。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Central Suriname Nature Reserve comprises 1.6 million ha of primary tropical forest of west-central Suriname. It protects the upper watershed of the Coppename River and the headwaters of the Lucie, Oost, Zuid, Saramaccz, and Gran Rio rivers and covers a range of topography and ecosystems of notable conservation value due to its pristine state. Its montane and lowland forests contain a high diversity of plant life with more than 5,000 vascular plant species collected to date. The Reserve's animals are typical of the region and include the jaguar, giant armadillo, giant river otter, tapir, sloths, eight species of primates and 400 bird species such as harpy eagle, Guiana cock-of-the-rock, and scarlet macaw.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Het Centraal Suriname Natuurreservaat (CSNR) is het grootste natuurreservaat van Suriname en een van de grootste beschermde tropische regenwouden ter wereld. Het reservaat staat sinds 2000 op de werelderfgoedlijst van UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20jungle%20from%20above.jpg?width=1280",
+   "title": "Amazon jungle from above.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon%20jungle%20from%20above.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1017.jpg",
+   "title": "Central Suriname Nature Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1017",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1017",
+ "transport": {
+  "airports": [
+   {
+    "name": "Drietabbetje Airport",
+    "iata": "DRJ",
+    "city": "Drietabbetje",
+    "country": "SR",
+    "lat": 4.111359,
+    "lon": -54.672766,
+    "type": "small_airport",
+    "distance_km": 203.0
+   },
+   {
+    "name": "Wageningen Airstrip",
+    "iata": "AGI",
+    "city": "Wageningen",
+    "country": "SR",
+    "lat": 5.841252,
+    "lon": -56.673247,
+    "type": "small_airport",
+    "distance_km": 205.6
+   },
+   {
+    "name": "Johan Adolf Pengel International Airport",
+    "iata": "PBM",
+    "city": "Paramaribo",
+    "country": "SR",
+    "lat": 5.45283,
+    "lon": -55.187801,
+    "type": "large_airport",
+    "distance_km": 217.4
+   }
+  ],
+  "nearest_airport_km": 203.0,
+  "distance_beijing_km": 15020.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SR",
+  "country_zh": "苏里南",
+  "country_en": "Suriname",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][140]",
+  "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.[141] Multiple entry e-Visa is also available.[142]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SR",
+   "country_zh": "苏里南",
+   "country_en": "Suriname",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][140]",
+   "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.[141] Multiple entry e-Visa is also available.[142]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "nl",
+  "local_lang_name": "Dutch",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 33
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1017"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Central%20Suriname%20Nature%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

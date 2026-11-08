@@ -1,0 +1,161 @@
+{
+ "id": "wh-944",
+ "unesco_id": "944",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 405,
+ "popularity_score": 20183,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "印度山区铁路",
+ "name_zh_source": "wikidata",
+ "name_en": "Mountain Railways of India",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "944-mountain_railways_of_india",
+ "lat": 22.824966552410256,
+ "lon": 79.36635501135898,
+ "coord_accuracy": "country_centroid",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "印度山地鐵路（印地語：भारत की पर्वतीय रेल，英語：Mountain railways of India）指建在印度山區的鐵路，當中三條鐵路：大吉嶺喜馬拉雅鐵路、青山鐵路、卡爾卡-西姆拉鐵路以「印度山地鐵路」為名獲共同登錄為世界遗产。第四條鐵路馬泰蘭山地鐵路則位列世界遺產臨時名單。上述四條鐵路都使用窄軌，其中青山鐵路更是印度國內唯一齒軌鐵路。 包括林丁－巴達普段在內的多條鐵路已轉換至國內標準1676毫米鐵軌，也有些鐵路的轉換工程在進行中，例如庚嘉谷鐵路。當局也正興建或計劃多條山區鐵路，前者有查謨－巴拉穆拉線（已建成），後者有比拉斯布－列城線和查謨－潘慈線和四舍小環鐵路，均將採用1676毫米軌距。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "This site includes three railways. The Darjeeling Himalayan Railway was the first, and is still the most outstanding, example of a hill passenger railway. Opened in 1881, its design applies bold and ingenious engineering solutions to the problem of establishing an effective rail link across a mountainous terrain of great beauty. The construction of the Nilgiri Mountain Railway, a 46-km long metre-gauge single-track railway in Tamil Nadu State was first proposed in 1854, but due to the difficulty of the mountainous location the work only started in 1891 and was completed in 1908. This railway, scaling an elevation of 326 m to 2,203 m, represented the latest technology of the time. The Kalka Shimla Railway, a 96-km long, single track working rail link built in the mid-19th century to provide a service to the highland town of Shimla is emblematic of the technical and material efforts to disenclave mountain populations through the railway. All three railways are still fully operational.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/KSR%20Train%20on%20a%20big%20bridge%2005-02-12%2071.jpeg?width=1280",
+   "title": "KSR Train on a big bridge 05-02-12 71.jpeg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:KSR%20Train%20on%20a%20big%20bridge%2005-02-12%2071.jpeg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_944.jpg",
+   "title": "Mountain Railways of India",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/944",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/944",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jabalpur Airport",
+    "iata": "JLR",
+    "city": "Jabalpur",
+    "country": "IN",
+    "lat": 23.177799,
+    "lon": 80.052002,
+    "type": "medium_airport",
+    "distance_km": 80.4
+   },
+   {
+    "name": "Gondia Airport",
+    "iata": "GDB",
+    "city": "Gondia",
+    "country": "IN",
+    "lat": 21.526817,
+    "lon": 80.290347,
+    "type": "medium_airport",
+    "distance_km": 172.9
+   },
+   {
+    "name": "Dr. Babasaheb Ambedkar International Airport",
+    "iata": "NAG",
+    "city": "Nagpur",
+    "country": "IN",
+    "lat": 21.092199,
+    "lon": 79.047203,
+    "type": "large_airport",
+    "distance_km": 195.5
+   }
+  ],
+  "nearest_airport_km": 80.4,
+  "distance_beijing_km": 3898.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 47
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/944"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mountain%20railways%20of%20India"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

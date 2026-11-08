@@ -1,0 +1,162 @@
+{
+ "id": "wh-1012",
+ "unesco_id": "1012",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 421,
+ "popularity_score": 18383,
+ "country": "MY",
+ "country_zh": "马来西亚",
+ "country_en": "Malaysia",
+ "countries": [
+  {
+   "iso2": "MY",
+   "zh": "马来西亚",
+   "en": "Malaysia"
+  }
+ ],
+ "region": "State of Sabah",
+ "subdivision_iso": "MY-12",
+ "subdivision_zh": "沙巴州",
+ "subdivision_en": "Sabah",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "基纳巴卢山公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kinabalu Park",
+ "name_local": "Taman Negara Kinabalu",
+ "local_lang": "ms",
+ "local_lang_name": "Malay",
+ "slug": "1012-kinabalu_park",
+ "lat": 6.15,
+ "lon": 116.65,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "基纳巴卢山公园，位于沙巴婆罗岛北端，被喜玛拉雅山和新几内亚之间的最高的山——基纳巴卢山（4095米）所环绕。公园植被丰富，从热带低地、雨林小山到热带高山森林、亚高山森林和生活在更高海拔的灌木，应有尽有。基纳巴卢山公园被誉为东南亚植物多样性展示中心，种类极其丰富，有喜玛拉雅山、中国、澳大利亚、马来西亚，以及泛热带的各种植物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Kinabalu Park, in the State of Sabah on the northern end of the island of Borneo, is dominated by Mount Kinabalu (4,095 m), the highest mountain between the Himalayas and New Guinea. It has a very wide range of habitats, from rich tropical lowland and hill rainforest to tropical mountain forest, sub-alpine forest and scrub on the higher elevations. It has been designated as a Centre of Plant Diversity for Southeast Asia and is exceptionally rich in species with examples of flora from the Himalayas, China, Australia, Malaysia, as well as pan-tropical flora.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Taman Kinabalu terletak di bahagian utara pulau Borneo, sebuah taman tertua negeri Sabah, Malaysia yang telah diwartakan pada 16 Januari 1964, Taman Kinabalu dihiasi oleh Gunung Kinabalu yang tersergam dengan ketinggian 4,095.2 meter, yang merupakan gunung tertinggi selepas Puncak Jaya, Papua Barat, Indonesia dan Hkakabo Razi, Myanmar di Asia Tenggara. Ia juga telah disenaraikan dalam Tapak Warisan Dunia pada 2 Disember 2000 lalu. Taman Kinabalu merupakan kawasan yang mempunyai ekologi mega dengan kepelbagaian habitat dari kawasan rendah tropika, kawasan hutan hujan tropika, sehingga kawasan hutan gunung tropika, hutan separa alpine, dan sehingga tumbuhan renek pada kearas tinggi. Ia telah dikelaskan sebagai Pusat Kepelbagaian Tumbuhan Asia Tenggara dan amat kaya dengan contoh tumbuhan flora dari Himalaya, China, Australia, Malaysia termasuk tumbuhan tropika sejagat. Kini Taman Negara Kinabalu berada dibawah pentadbiran Lembaga Pemegang Amanah Taman-Taman Sabah.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kinabalu%20Sabah%20Borneo%20Kampong%20Kundasang%202.jpg?width=1280",
+   "title": "Kinabalu Sabah Borneo Kampong Kundasang 2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kinabalu%20Sabah%20Borneo%20Kampong%20Kundasang%202.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1012.jpg",
+   "title": "Kinabalu Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1012",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1012",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kota Kinabalu International Airport",
+    "iata": "BKI",
+    "city": "Kota Kinabalu",
+    "country": "MY",
+    "lat": 5.932743,
+    "lon": 116.049324,
+    "type": "large_airport",
+    "distance_km": 70.7
+   },
+   {
+    "name": "Kudat Airport",
+    "iata": "KUD",
+    "city": "Kudat",
+    "country": "MY",
+    "lat": 6.924111,
+    "lon": 116.837068,
+    "type": "small_airport",
+    "distance_km": 88.5
+   },
+   {
+    "name": "Sandakan Airport",
+    "iata": "SDK",
+    "city": "Sandakan",
+    "country": "MY",
+    "lat": 5.900899887084961,
+    "lon": 118.05899810791016,
+    "type": "medium_airport",
+    "distance_km": 158.3
+   }
+  ],
+  "nearest_airport_km": 70.7,
+  "distance_beijing_km": 3797.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MY",
+  "country_zh": "马来西亚",
+  "country_en": "Malaysia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][84]",
+  "notes": "90 days within any 180-day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MY",
+   "country_zh": "马来西亚",
+   "country_en": "Malaysia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][84]",
+   "notes": "90 days within any 180-day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ms",
+  "local_lang_name": "Malay",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 53
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1012"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kinabalu%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

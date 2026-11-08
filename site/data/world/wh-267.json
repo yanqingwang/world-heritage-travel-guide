@@ -1,0 +1,162 @@
+{
+ "id": "wh-267",
+ "unesco_id": "267",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 445,
+ "popularity_score": 16857,
+ "country": "CH",
+ "country_zh": "瑞士",
+ "country_en": "Switzerland",
+ "countries": [
+  {
+   "iso2": "CH",
+   "zh": "瑞士",
+   "en": "Switzerland"
+  }
+ ],
+ "region": "Canton of Berne",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "伯尔尼古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old City of Berne",
+ "name_local": "Berner Altstadt",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "267-old_city_of_berne",
+ "lat": 46.948055555,
+ "lon": 7.450277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伯尔尼古城于公元12世纪建在阿勒河环绕的山丘上，古城几百年来不断发展进步，但城市的规划理念却始终如一。 伯尔尼古城保留有15世纪典雅的拱形长廊和16世纪的喷泉等建筑，这些建筑的历史可追溯到各个不同的历史时期。这座中世纪城镇的主体建筑在18世纪重新修建，并保留了原来的历史风貌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the 12th century on a hill site surrounded by the Aare River, Berne developed over the centuries in line with a an exceptionally coherent planning concept. The buildings in the Old City, dating from a variety of periods, include 15th-century arcades and 16th-century fountains. Most of the medieval town was restored in the 18th century but it has retained its original character.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Berner Altstadt ist der historische Stadtkern der Schweizer Bundesstadt Bern und gehört zum Weltkulturerbe der UNESCO. Der Altstadtcharakter ist im Bereich unterhalb der Zytglogge (Zeitglockenturm) am besten erhalten. Die Altstadt ist geprägt durch ihre Sandsteingebäude mit ihren Lauben, welche sich über eine Länge von gut sechs Kilometern erstrecken und die längste gedeckte Einkaufspromenade Europas bilden.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bern%20luftaufnahme-2num.jpg?width=1280",
+   "title": "Bern luftaufnahme-2num.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bern%20luftaufnahme-2num.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_267.jpg",
+   "title": "Old City of Berne",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/267",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/267",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bern Airport",
+    "iata": "BRN",
+    "city": "Bern",
+    "country": "CH",
+    "lat": 46.912736,
+    "lon": 7.498819,
+    "type": "medium_airport",
+    "distance_km": 5.4
+   },
+   {
+    "name": "EuroAirport Basel–Mulhouse–Freiburg",
+    "iata": "BSL",
+    "city": "Bâle / Mulhouse",
+    "country": "FR",
+    "lat": 47.60068,
+    "lon": 7.521117,
+    "type": "large_airport",
+    "distance_km": 72.8
+   },
+   {
+    "name": "Zürich Airport",
+    "iata": "ZRH",
+    "city": "Zurich",
+    "country": "CH",
+    "lat": 47.458056,
+    "lon": 8.548056,
+    "type": "large_airport",
+    "distance_km": 100.5
+   }
+  ],
+  "nearest_airport_km": 5.4,
+  "distance_beijing_km": 8071.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CH",
+  "country_zh": "瑞士",
+  "country_en": "Switzerland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CH",
+   "country_zh": "瑞士",
+   "country_en": "Switzerland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 26
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/267"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20City%20%28Bern%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

@@ -1,0 +1,219 @@
+{
+ "id": "cn-1404",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山东省",
+ "province_en": "Shandong",
+ "province_iso": "CN-SD",
+ "city_zh": "威海市",
+ "city_en": "Weihai",
+ "name_zh": "威海市威海华夏城景区",
+ "name_en": "Weihaishiweihaihuaxiacheng Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "weihaishiweihaihuaxiacheng-1404",
+ "lat": 37.429984,
+ "lon": 122.122166,
+ "address_zh": "山东省威海市环翠区华夏路",
+ "address_en": "Huaxia Road, Huancui District, Weihai City, Shandong Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "景区以展示东方古典文化为主，是一处自然山水和悦生美、人文建筑相得益彰、民俗演艺璀璨生辉、吃住行游娱购全面发展的大型生态文化旅游区，被评为国家级文化产业示范基地。",
+ "intro_en": "The scenic area mainly displays oriental classical culture. It is a large-scale ecological cultural tourism area with natural landscapes and beautiful scenery, humanities and architecture complementing each other, splendid folk performances, and comprehensive development of food, accommodation, travel, entertainment and shopping. It has been rated as a national cultural industry demonstration base.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Weihai_City.jpg/1280px-Weihai_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Weihai City.jpg",
+   "author": "蒋",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Weihai_City.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Plan_Of_Oie-Hai-Oie_Harbour.jpg/1280px-Plan_Of_Oie-Hai-Oie_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Plan Of Oie-Hai-Oie Harbour.jpg",
+   "author": "Crawford, John ; Horsburgh, James (Herausgeber/-in)",
+   "license": "CC0",
+   "credit": "Leibniz-Institut für Länderkunde e.V., Leipzig",
+   "source": "https://commons.wikimedia.org/wiki/File:Plan_Of_Oie-Hai-Oie_Harbour.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg/1280px-Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shantung Province and Wei Hai Wei Map 1954.jpg",
+   "author": "US Army Corps of Engineers",
+   "license": "Public domain",
+   "credit": "http://www.lib.utexas.edu/maps/ams/china/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wei-Hai-Wei_%281906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wei-Hai-Wei (1906).jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "C. P. Lucas: A Historical Geography of the British Colonies, Second Edition, Volume I: The Mediterranean and Eastern Colonies,. Clarendon Press, Oxford, 1906.",
+   "source": "https://commons.wikimedia.org/wiki/File:Wei-Hai-Wei_(1906).jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Wei-hai-wei_NJ51_10_2567233.jpg/1280px-Wei-hai-wei_NJ51_10_2567233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wei-hai-wei NJ51 10 2567233.jpg",
+   "author": "Army Map Service",
+   "license": "Public domain",
+   "credit": "https://id.lib.harvard.edu/alma/990094028280203941/catalog",
+   "source": "https://commons.wikimedia.org/wiki/File:Wei-hai-wei_NJ51_10_2567233.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Weihai Dashuibo Airport",
+    "iata": "WEH",
+    "city": "Weihai",
+    "country": "CN",
+    "lat": 37.187099,
+    "lon": 122.228996,
+    "type": "medium_airport",
+    "distance_km": 28.6
+   },
+   {
+    "name": "Yantai Penglai International Airport",
+    "iata": "YNT",
+    "city": "Yantai",
+    "country": "CN",
+    "lat": 37.659724,
+    "lon": 120.978124,
+    "type": "large_airport",
+    "distance_km": 104.0
+   },
+   {
+    "name": "Dalian Zhoushuizi International Airport",
+    "iata": "DLC",
+    "city": "Dalian (Ganjingzi)",
+    "country": "CN",
+    "lat": 38.965719,
+    "lon": 121.538477,
+    "type": "large_airport",
+    "distance_km": 178.2
+   }
+  ],
+  "nearest_airport_km": 28.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "威海",
+    "name_en": "Weihai",
+    "lat": 37.4259659,
+    "lon": 122.1385889,
+    "distance_km": 1.5,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "威海南",
+    "name_en": null,
+    "lat": 37.4143809,
+    "lon": 122.1402624,
+    "distance_km": 2.4,
+    "operator": "威海桃威铁路有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "港前",
+    "name_en": null,
+    "lat": 37.4350065,
+    "lon": 122.1906562,
+    "distance_km": 6.1,
+    "operator": "威海桃威铁路有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "美仑酒店",
+   "name_en": "MADISON",
+   "stars": null,
+   "brand": null,
+   "lat": 37.422595,
+   "lon": 122.1420902,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "锦江之星威海海滨南路店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.4355625,
+   "lon": 122.1504546,
+   "distance_km": 2.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "格林豪泰酒店",
+   "name_en": "GreenTree Inns",
+   "stars": null,
+   "brand": "GreenTree Inns",
+   "lat": 37.4318362,
+   "lon": 122.1512657,
+   "distance_km": 2.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "铂丽斯大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.4209442,
+   "lon": 122.1618562,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "GreenTree Inn Weihai Gangkou Express Hotel",
+   "name_en": "GreenTree Inn Weihai Gangkou Express Hotel",
+   "stars": null,
+   "brand": "GreenTree",
+   "lat": 37.4212314,
+   "lon": 122.1748948,
+   "distance_km": 4.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 23,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

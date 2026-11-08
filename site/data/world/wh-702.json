@@ -1,0 +1,162 @@
+{
+ "id": "wh-702",
+ "unesco_id": "702",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 660,
+ "popularity_score": 6991,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "MX-MOR",
+ "subdivision_zh": "莫雷洛斯州",
+ "subdivision_en": "Morelos",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波波卡特佩山坡上最早的16世纪修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Earliest 16th-Century Monasteries on the Slopes of Popocatepetl",
+ "name_local": "Primeros monasterios del siglo XVI en las laderas del Popocatepetl",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "702-earliest_16th-century_monasteries_on_the",
+ "lat": 18.93472,
+ "lon": -98.89778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣母升天修道院和主教座堂的方济各会建筑群是为在墨西哥北部地区传播基督教和殖民而于1524年启动的首个建设计划的一部分。该建筑群是方济各会、道明会和奥斯定会修士建立的首批5座修道院之一，也是目前尚存的3座之一，其它2座已被列入世界遗产名录。特拉斯卡拉建筑群提供了一种为应对新的文化环境而开发出的建筑模式和空间解决方案范例，她整合了当地元素，创造出宽阔的中庭和祈祷室等空间。该建筑群还有另外2个特点，一幢独立的塔楼和一座木制的穆德哈尔建筑，这是已经列入名录的其它修道院所没有的。它有助于更好地了解一种新的建筑模式的发展，该模式在18世纪之前一直影响着城市发展和修道院建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Earliest 16th-Century Monasteries on the Slopes of Popocatepetl is a serial property with 15 component parts located in the states of Morelos, Puebla and Tlaxcala in Mexico, built as part of the evangelisation and colonisation of the northern territories of Mexico. They are in an excellent state of conservation and are good examples of the architectural style adopted by the first missionaries – Franciscans, Dominicans and Augustinians – who converted the indigenous populations to Christianity in the early 16th century. They also represent an example of a new architectural concept in which open spaces, including wide atria and posa chapels, are of renewed importance. The influence of this style is felt throughout the Mexican territory and even beyond its borders.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "El conjunto franciscano del monasterio y la catedral de Nuestra Señora de la Asunción forma parte del primer programa de construcción iniciado en 1524 para la evangelización y colonización de los territorios del norte de México. El conjunto es uno de los cinco primeros monasterios establecidos por frailes franciscanos, dominicos y agustinos, y uno de los tres que aún se mantiene en pie. Los otros dos ya fueron inscritos en la Lista del Patrimonio Mundial. El conjunto de edificios de Tlaxcala es un ejemplo del modelo arquitectónico y de las soluciones espaciales desarrolladas en respuesta a un nuevo contexto cultural, que integró elementos locales para crear espacios como amplios atrios y capillas posas. El edificio presenta otras dos particularidades, una torre exenta y un artesonado de madera estilo mudéjar que no se encuentran en los otros monasterios ya inscritos en la Lista del Patrimonio Mundial como parte del sitio en serie. La extensión contribuye a una mejor comprensión del desarrollo de un nuevo modelo arquitectónico que influyó tanto en el desarrollo urbano como en los edificios monásticos hasta el siglo XVIII.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FacadeCatCV2.JPG?width=1280",
+   "title": "FacadeCatCV2.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:FacadeCatCV2.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_702.jpg",
+   "title": "Earliest 16th-Century Monasteries on the Slopes of Popocatepetl",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/702",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/702",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mexico City Benito Juárez International Airport",
+    "iata": "MEX",
+    "city": "Mexico City",
+    "country": "MX",
+    "lat": 19.435822,
+    "lon": -99.07033,
+    "type": "large_airport",
+    "distance_km": 58.6
+   },
+   {
+    "name": "Hermanos Serdán International Airport",
+    "iata": "PBC",
+    "city": "Puebla",
+    "country": "MX",
+    "lat": 19.158465,
+    "lon": -98.371582,
+    "type": "large_airport",
+    "distance_km": 60.6
+   },
+   {
+    "name": "Adolfo López Mateos International Airport",
+    "iata": "TLC",
+    "city": "Toluca",
+    "country": "MX",
+    "lat": 19.3369,
+    "lon": -99.56583,
+    "type": "large_airport",
+    "distance_km": 83.2
+   }
+  ],
+  "nearest_airport_km": 58.6,
+  "distance_beijing_km": 12436.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 28
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/702"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monasteries%20on%20the%20slopes%20of%20Popocat%C3%A9petl"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

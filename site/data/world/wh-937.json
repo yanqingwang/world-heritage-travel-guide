@@ -1,0 +1,162 @@
+{
+ "id": "wh-937",
+ "unesco_id": "937",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 509,
+ "popularity_score": 13113,
+ "country": "AR",
+ "country_zh": "阿根廷",
+ "country_en": "Argentina",
+ "countries": [
+  {
+   "iso2": "AR",
+   "zh": "阿根廷",
+   "en": "Argentina"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "AR-U",
+ "subdivision_zh": "丘布特省",
+ "subdivision_en": "Chubut Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦尔德斯半岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Península Valdés",
+ "name_local": "Península Valdés",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "937-península_valdés",
+ "lat": -42.5,
+ "lon": -63.933333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "瓦尔德斯半岛是全球海洋哺乳动物资源的重点保护区，也是濒危的南美露脊鲸以及南美海豹和南美海狮的重要繁衍生息地。这个地区的逆戟鲸还具有独特的捕猎技巧，可以适应当地的海洋条件。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Península Valdés in Patagonia is a site of global significance for the conservation of marine mammals. It is home to an important breeding population of the endangered southern right whale as well as important breeding populations of southern elephant seals and southern sea lions. The orcas in this area have developed a unique hunting strategy to adapt to local coastal conditions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situada en Patagonia, la Península Valdés es un lugar de preservación de mamíferos marinos de importancia mundial. El sitio alberga importantes poblaciones reproductoras de ballenas francas en peligro de extinción, así como de elefantes y leones marinos. Las orcas de la región practican una estrategia de caza única en su género, que es el resultado de su adaptación a las condiciones específicas del litoral.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peninsula%20Vald%C3%A9s%20STS-68.jpg?width=1280",
+   "title": "Peninsula Valdés STS-68.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Peninsula%20Vald%C3%A9s%20STS-68.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_937.jpg",
+   "title": "Península Valdés",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/937",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/937",
+ "transport": {
+  "airports": [
+   {
+    "name": "El Tehuelche Airport",
+    "iata": "PMY",
+    "city": "Puerto Madryn",
+    "country": "AR",
+    "lat": -42.7592,
+    "lon": -65.1027,
+    "type": "medium_airport",
+    "distance_km": 99.9
+   },
+   {
+    "name": "Almirante Marco Andres Zar Airport",
+    "iata": "REL",
+    "city": "Rawson",
+    "country": "AR",
+    "lat": -43.2105,
+    "lon": -65.2703,
+    "type": "medium_airport",
+    "distance_km": 134.6
+   },
+   {
+    "name": "Gobernador Castello Airport",
+    "iata": "VDM",
+    "city": "Viedma / Carmen de Patagones",
+    "country": "AR",
+    "lat": -40.8692,
+    "lon": -63.0004,
+    "type": "medium_airport",
+    "distance_km": 197.2
+   }
+  ],
+  "nearest_airport_km": 99.9,
+  "distance_beijing_km": 19685.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AR",
+  "country_zh": "阿根廷",
+  "country_en": "Argentina",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AR",
+   "country_zh": "阿根廷",
+   "country_en": "Argentina",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 51
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/937"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vald%C3%A9s%20Peninsula"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

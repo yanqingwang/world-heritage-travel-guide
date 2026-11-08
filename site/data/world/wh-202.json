@@ -1,0 +1,283 @@
+{
+ "id": "wh-202",
+ "unesco_id": "202",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 40,
+ "popularity_score": 304036,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "Central Province, Matale District",
+ "subdivision_iso": "LK-22",
+ "subdivision_zh": "马特莱区",
+ "subdivision_en": "Matale District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "锡吉里亚古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient City of Sigiriya",
+ "name_local": "",
+ "local_lang": "ta",
+ "local_lang_name": "Tamil",
+ "slug": "202-ancient_city_of_sigiriya",
+ "lat": 7.956944444,
+ "lon": 80.759722222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "锡吉里亚古城是弑亲的迦叶波一世（公元477-495年）时所建国都的遗址。锡吉里亚古城遗址位处陡峭的斜坡之上，位于高达180米的花岗岩山峰峰顶“狮子岩”上，这里人们可以从四面俯视整个丛林。用砖和灰泥修筑的长廊和台阶从巨狮口中延伸而出，通向锡吉里亚古城遗址 。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The ruins of the capital built by the parricidal King Kassapa I (477–95) lie on the steep slopes and at the summit of a granite peak standing some 180m high (the 'Lion's Rock', which dominates the jungle from all sides). A series of galleries and staircases emerging from the mouth of a gigantic lion constructed of bricks and plaster provide access to the site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20of%20Sigiriya%20by%20Binuka.jpg?width=1280",
+   "title": "Beauty of Sigiriya by Binuka.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Beauty%20of%20Sigiriya%20by%20Binuka.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Map_of_Sigiryia.jpg/1280px-Map_of_Sigiryia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Map of Sigiryia.jpg",
+   "author": "Dan arndt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Map_of_Sigiryia.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/20160124_Sri_Lanka_3805_Sigiriya_sRGB_%2825144199213%29.jpg/1280px-20160124_Sri_Lanka_3805_Sigiriya_sRGB_%2825144199213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160124 Sri Lanka 3805 Sigiriya sRGB (25144199213).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20160124_Sri Lanka_3805 Sigiriya sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20160124_Sri_Lanka_3805_Sigiriya_sRGB_%2825144199213%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/20160124_Sri_Lanka_3806_Pano_Sigiriya_sRGB_%2825675699941%29.jpg/1280px-20160124_Sri_Lanka_3806_Pano_Sigiriya_sRGB_%2825675699941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160124 Sri Lanka 3806 Pano Sigiriya sRGB (25675699941).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20160124_Sri Lanka_3806 Pano Sigiriya sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20160124_Sri_Lanka_3806_Pano_Sigiriya_sRGB_%2825675699941%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/20160124_Sri_Lanka_3825_crop_Sigiriya_sRGB_%2825744722846%29.jpg/1280px-20160124_Sri_Lanka_3825_crop_Sigiriya_sRGB_%2825744722846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160124 Sri Lanka 3825 crop Sigiriya sRGB (25744722846).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "20160124_Sri Lanka_3825 crop Sigiriya sRGB",
+   "source": "https://commons.wikimedia.org/wiki/File:20160124_Sri_Lanka_3825_crop_Sigiriya_sRGB_%2825744722846%29.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/202",
+ "transport": {
+  "airports": [
+   {
+    "name": "China Bay Airport",
+    "iata": "TRR",
+    "city": "Trincomalee",
+    "country": "LK",
+    "lat": 8.539159,
+    "lon": 81.18128,
+    "type": "medium_airport",
+    "distance_km": 79.6
+   },
+   {
+    "name": "Batticaloa International Airport",
+    "iata": "BTC",
+    "city": "Batticaloa",
+    "country": "LK",
+    "lat": 7.705073,
+    "lon": 81.677163,
+    "type": "medium_airport",
+    "distance_km": 104.9
+   },
+   {
+    "name": "Bandaranaike International Colombo Airport",
+    "iata": "CMB",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 7.180759906768799,
+    "lon": 79.88410186767578,
+    "type": "large_airport",
+    "distance_km": 129.5
+   }
+  ],
+  "nearest_airport_km": 79.6,
+  "distance_beijing_km": 4956.3,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Habarana",
+    "name_en": null,
+    "lat": 8.0573101,
+    "lon": 80.7695893,
+    "distance_km": 11.2,
+    "operator": null
+   },
+   {
+    "name": "Palugaswewa",
+    "name_en": null,
+    "lat": 8.0590196,
+    "lon": 80.7132576,
+    "distance_km": 12.5,
+    "operator": null
+   },
+   {
+    "name": "Horiwiala",
+    "name_en": null,
+    "lat": 8.0677899,
+    "lon": 80.6785139,
+    "distance_km": 15.2,
+    "operator": null
+   },
+   {
+    "name": "Kekirawa",
+    "name_en": null,
+    "lat": 8.0584532,
+    "lon": 80.5814517,
+    "distance_km": 22.6,
+    "operator": null
+   },
+   {
+    "name": "Hatares Kotuwa",
+    "name_en": null,
+    "lat": 8.1451745,
+    "lon": 80.8391243,
+    "distance_km": 22.7,
+    "operator": null
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "EKHO Lake House",
+   "name_en": null,
+   "stars": 4,
+   "brand": "EKHO",
+   "lat": 7.9427612,
+   "lon": 80.9972526,
+   "distance_km": 26.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "sigiriya nature villa lodge",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 7.9497188,
+   "lon": 80.7500202,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jays Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 8.0280016,
+   "lon": 80.7662016,
+   "distance_km": 7.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ritz Tourist Home",
+   "name_en": null,
+   "stars": null,
+   "brand": "The Ritz-Carlton",
+   "lat": 7.8588296,
+   "lon": 80.6587553,
+   "distance_km": 15.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sevonrich Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 7.8479822,
+   "lon": 80.6518758,
+   "distance_km": 17.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "ta",
+  "local_lang_name": "Tamil",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 59
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/202"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sigiriya"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(vii)(x)"
 lat: -21.0994
 lon: 55.48
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:44Z"
 ---
 
 # 留尼汪岛的山峰，冰斗和峭壁 / Pitons, cirques and remparts of Reunion Island

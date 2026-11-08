@@ -1,0 +1,324 @@
+{
+ "id": "wh-1485",
+ "unesco_id": "1485",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 80,
+ "popularity_score": 173847,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "N56 00 04 W3 23 20",
+ "subdivision_iso": "GB-EDH",
+ "subdivision_zh": "爱丁堡市议会",
+ "subdivision_en": "City of Edinburgh",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "弗斯桥",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Forth Bridge",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1485-the_forth_bridge",
+ "lat": 55.9984,
+ "lon": -3.3876,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "2015",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座横跨苏格兰福斯河口三角湾的铁路桥是世界上最长的多跨度悬臂桥。这座桥1890年开通，一直是客货运主干道。各种未经装饰的建筑结构元素的直接呈现构成了它独具特点的工业设计美学。在风格、材料和规模上的创新使弗斯桥成为以铁路为陆路长途运输主要交通方式时代桥梁建设与设计的重要里程碑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This railway bridge, crossing the Forth estuary in Scotland, had the world’s longest spans ( 541 m ) when i t opened in 1890 . It remains one of the greatest cantilever trussed bridges and continues to carry passengers and freight. Its distinctive industrial aesthetic is the result of a forthright and unadorned display of its structural components. Innovative in style, materials and scale, the Forth Bridge marks an important milestone in bridge design and construction during the period when railways came to dominate long-distance land travel.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forthrailbridgefromsouthqueensferry.jpg?width=1280",
+   "title": "Forthrailbridgefromsouthqueensferry.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Forthrailbridgefromsouthqueensferry.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bridges_23.png/1280px-Bridges_23.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Bridges 23.png",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Bridges_23.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/L-gelenktraeger14.png/1280px-L-gelenktraeger14.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "L-gelenktraeger14.png",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:L-gelenktraeger14.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%27Crown_Princess%27_-_geograph.org.uk_-_1424155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "'Crown Princess' - geograph.org.uk - 1424155.jpg",
+   "author": "Anne Burgess",
+   "license": "CC BY-SA 2.0",
+   "credit": "From geograph.org.uk",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Crown_Princess%27_-_geograph.org.uk_-_1424155.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%27Forth%27_heading_down_the_Firth_of_Forth_to_go_under_the_Forth_Bridge_-_geograph.org.uk_-_3522312.jpg/1280px-%27Forth%27_heading_down_the_Firth_of_Forth_to_go_under_the_Forth_Bridge_-_geograph.org.uk_-_3522312.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "'Forth' heading down the Firth of Forth to go under the Forth Bridge - geograph.org.uk - 3522312.jpg",
+   "author": "M J Richardson",
+   "license": "CC BY-SA 2.0",
+   "credit": "Geograph Britain and Ireland",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Forth%27_heading_down_the_Firth_of_Forth_to_go_under_the_Forth_Bridge_-_geograph.org.uk_-_3522312.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1485",
+ "transport": {
+  "airports": [
+   {
+    "name": "Edinburgh Airport",
+    "iata": "EDI",
+    "city": "Ingliston, Edinburgh",
+    "country": "GB",
+    "lat": 55.950145,
+    "lon": -3.372288,
+    "type": "large_airport",
+    "distance_km": 5.4
+   },
+   {
+    "name": "Dundee Airport",
+    "iata": "DND",
+    "city": "Dundee",
+    "country": "GB",
+    "lat": 56.452499,
+    "lon": -3.02583,
+    "type": "medium_airport",
+    "distance_km": 55.2
+   },
+   {
+    "name": "Glasgow Airport",
+    "iata": "GLA",
+    "city": "Glasgow",
+    "country": "GB",
+    "lat": 55.871899,
+    "lon": -4.43306,
+    "type": "large_airport",
+    "distance_km": 66.6
+   }
+  ],
+  "nearest_airport_km": 5.4,
+  "distance_beijing_km": 7935.4,
+  "ferry_terminals": [
+   {
+    "name": "Hawes Pier",
+    "name_en": null,
+    "lat": 55.9917662,
+    "lon": -3.3862713,
+    "distance_km": 0.7,
+    "operator": null
+   },
+   {
+    "name": "Rosyth Cruise Terminal",
+    "name_en": null,
+    "lat": 56.023707,
+    "lon": -3.4374591,
+    "distance_km": 4.2,
+    "operator": null
+   },
+   {
+    "name": "Inchcolm",
+    "name_en": null,
+    "lat": 56.0304853,
+    "lon": -3.2991769,
+    "distance_km": 6.6,
+    "operator": null
+   },
+   {
+    "name": "Cruise Liner Terminal",
+    "name_en": null,
+    "lat": 55.9804341,
+    "lon": -3.1816243,
+    "distance_km": 13.0,
+    "operator": null
+   },
+   {
+    "name": "Fisherrow Harbour",
+    "name_en": null,
+    "lat": 55.9458169,
+    "lon": -3.0675434,
+    "distance_km": 20.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Dalmeny",
+    "name_en": null,
+    "lat": 55.9862498,
+    "lon": -3.3815031,
+    "distance_km": 1.4,
+    "operator": "ScotRail"
+   },
+   {
+    "name": "North Queensferry",
+    "name_en": null,
+    "lat": 56.0124476,
+    "lon": -3.3946556,
+    "distance_km": 1.6,
+    "operator": "ScotRail"
+   },
+   {
+    "name": "Inverkeithing",
+    "name_en": null,
+    "lat": 56.0352386,
+    "lon": -3.3954171,
+    "distance_km": 4.1,
+    "operator": "ScotRail"
+   },
+   {
+    "name": "Dalgety Bay",
+    "name_en": null,
+    "lat": 56.0422731,
+    "lon": -3.367249,
+    "distance_km": 5.0,
+    "operator": "ScotRail"
+   },
+   {
+    "name": "Rosyth",
+    "name_en": null,
+    "lat": 56.0453763,
+    "lon": -3.4263289,
+    "distance_km": 5.8,
+    "operator": "ScotRail"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "The Edinburgh Residence",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.9509339,
+   "lon": -3.21757,
+   "distance_km": 11.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Chester Residence",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.9505558,
+   "lon": -3.2171107,
+   "distance_km": 11.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Caledonian Edinburgh, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Curio Collection",
+   "lat": 55.9495574,
+   "lon": -3.2074836,
+   "distance_km": 12.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Glenbervie House Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.0377926,
+   "lon": -3.8463214,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dakota",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.9821211,
+   "lon": -3.4001562,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 53
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1485"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Forth%20Bridge"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

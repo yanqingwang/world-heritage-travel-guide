@@ -1,0 +1,242 @@
+{
+ "id": "wh-721",
+ "unesco_id": "721",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 129,
+ "popularity_score": 111352,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "Eddy County, State of New Mexico",
+ "subdivision_iso": "US-NM",
+ "subdivision_zh": "新墨西哥州",
+ "subdivision_en": "New Mexico",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡尔斯巴德洞穴国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Carlsbad Caverns National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "721-carlsbad_caverns_national_park",
+ "lat": 32.175277777,
+ "lon": -104.443888888,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于新墨西哥州的卡尔斯巴德洞穴国家公园是由目前已发现的80个洞穴组成的喀斯特地形区。这些洞穴不仅面积广阔，而且其矿物构成数量众多、种类丰富，形态美不胜收。雷修古拉洞穴是其中最突出的一个洞穴，它成了一个地下实验室，为史前地质学和生物学研究提供了宝贵的资料。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This karst landscape in the state of New Mexico comprises over 80 recognized caves. They are outstanding not only for their size but also for the profusion, diversity and beauty of their mineral formations. Lechuguilla Cave stands out from the others, providing an underground laboratory where geological and biological processes can be studied in a pristine setting.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlsbad%20Interior%20Formations.jpg?width=1280",
+   "title": "Carlsbad Interior Formations.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Carlsbad%20Interior%20Formations.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Delaware_Basin_map.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Delaware Basin map.PNG",
+   "author": "National Park Service",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Delaware_Basin_map.PNG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Calcite_%28GeoDIL_number_-_700%29.jpg/1280px-Calcite_%28GeoDIL_number_-_700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Calcite (GeoDIL number - 700).jpg",
+   "author": "Darla Sondrol",
+   "license": "CC0",
+   "credit": "https://geodil.dperkins.org/h/700.html",
+   "source": "https://commons.wikimedia.org/wiki/File:Calcite_%28GeoDIL_number_-_700%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Carlsbad_Caverns_National_Park_-_New_Mexico_-_USA_-_5.jpg/1280px-Carlsbad_Caverns_National_Park_-_New_Mexico_-_USA_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Carlsbad Caverns National Park - New Mexico - USA - 5.jpg",
+   "author": "Wctr2019",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Carlsbad_Caverns_National_Park_-_New_Mexico_-_USA_-_5.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Carlsbad_Caverns_National_Park_and_White%27s_City%2C_New_Mexico%2C_USA_-_48344714941.jpg/1280px-Carlsbad_Caverns_National_Park_and_White%27s_City%2C_New_Mexico%2C_USA_-_48344714941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Carlsbad Caverns National Park and White's City, New Mexico, USA - 48344714941.jpg",
+   "author": "Jirka Matousek",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/28415633@N00/48344714941/",
+   "source": "https://commons.wikimedia.org/wiki/File:Carlsbad_Caverns_National_Park_and_White%27s_City%2C_New_Mexico%2C_USA_-_48344714941.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/721",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cavern City Air Terminal",
+    "iata": "CNM",
+    "city": "Carlsbad",
+    "country": "US",
+    "lat": 32.337501525878906,
+    "lon": -104.26300048828125,
+    "type": "medium_airport",
+    "distance_km": 24.8
+   },
+   {
+    "name": "Roswell Air Center Airport",
+    "iata": "ROW",
+    "city": "Roswell",
+    "country": "US",
+    "lat": 33.301601,
+    "lon": -104.530998,
+    "type": "medium_airport",
+    "distance_km": 125.5
+   },
+   {
+    "name": "Lea County Regional Airport",
+    "iata": "HOB",
+    "city": "Hobbs",
+    "country": "US",
+    "lat": 32.6875,
+    "lon": -103.217003,
+    "type": "medium_airport",
+    "distance_km": 128.5
+   }
+  ],
+  "nearest_airport_km": 24.8,
+  "distance_beijing_km": 10932.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "Hyatt House",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hyatt House",
+   "lat": 32.371975,
+   "lon": -104.2326293,
+   "distance_km": 29.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Home2 Suites by Hilton Carlsbad",
+   "name_en": null,
+   "stars": null,
+   "brand": "Home2 Suites",
+   "lat": 32.3814111,
+   "lon": -104.223978,
+   "distance_km": 30.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn and Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton Inn & Suites",
+   "lat": 32.3957785,
+   "lon": -104.2230925,
+   "distance_km": 32.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 32.392347,
+   "lon": -104.2185502,
+   "distance_km": 32.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Stevens Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 32.4014715,
+   "lon": -104.2237571,
+   "distance_km": 32.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/721"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carlsbad%20Caverns%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

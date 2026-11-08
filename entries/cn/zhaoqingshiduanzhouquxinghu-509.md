@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Zhaoqing City"
 lat: 23.081657
 lon: 112.476283
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 肇庆市端州区星湖旅游景区 / Zhaoqing

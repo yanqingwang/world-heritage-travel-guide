@@ -1,0 +1,162 @@
+{
+ "id": "wh-421",
+ "unesco_id": "421",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 307,
+ "popularity_score": 30011,
+ "country": "NZ",
+ "country_zh": "新西兰",
+ "country_en": "New Zealand",
+ "countries": [
+  {
+   "iso2": "NZ",
+   "zh": "新西兰",
+   "en": "New Zealand"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "NZ-MWT",
+ "subdivision_zh": "马纳瓦图-旺阿努伊",
+ "subdivision_en": "Manawatū-Whanganui Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "汤加里罗国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tongariro National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "421-tongariro_national_park",
+ "lat": -39.2,
+ "lon": 175.583333,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(vi)(vii)(viii)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "1993 年，汤加里罗成为第一处根据修改后的文化景观标准被列入《世界遗产名录》的遗址。地处公园中心的群山对毛利人具有文化和宗教意义，象征着毛利人社会与外界环境的精神联系。公园里有活火山、 死活山和不同层次的生态系统以及非常美丽的风景。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In 1993 Tongariro became the first property to be inscribed on the World Heritage List under the revised criteria describing cultural landscapes. The mountains at the heart of the park have cultural and religious significance for the Maori people and symbolize the spiritual links between this community and its environment. The park has active and extinct volcanoes, a diverse range of ecosystems and some spectacular landscapes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tongariro%20Mahuia%20River%20n.jpg?width=1280",
+   "title": "Tongariro Mahuia River n.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tongariro%20Mahuia%20River%20n.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_421.jpg",
+   "title": "Tongariro National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/421",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/421",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taupo Airport",
+    "iata": "TUO",
+    "city": "Taupo",
+    "country": "NZ",
+    "lat": -38.73970031738281,
+    "lon": 176.08399963378906,
+    "type": "medium_airport",
+    "distance_km": 67.0
+   },
+   {
+    "name": "Wanganui Airport",
+    "iata": "WAG",
+    "city": "Wanganui",
+    "country": "NZ",
+    "lat": -39.963467,
+    "lon": 175.02444,
+    "type": "medium_airport",
+    "distance_km": 97.5
+   },
+   {
+    "name": "Hawke's Bay Airport",
+    "iata": "NPE",
+    "city": "Napier",
+    "country": "NZ",
+    "lat": -39.465801,
+    "lon": 176.869995,
+    "type": "medium_airport",
+    "distance_km": 114.5
+   }
+  ],
+  "nearest_airport_km": 67.0,
+  "distance_beijing_km": 10645.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NZ",
+  "country_zh": "新西兰",
+  "country_en": "New Zealand",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May enter using eGate.[100] Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electron"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NZ",
+   "country_zh": "新西兰",
+   "country_en": "New Zealand",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May enter using eGate.[100] Holders of an Australian Permanent Resident Visa or Resident Return Visa may be granted a New Zealand Resident Visa on arrival permitting indefinite stay (pursuant to the Trans-Tasman Travel Arrangement), subject to meeting character requirements and obtaining an Electron"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/421"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tongariro%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

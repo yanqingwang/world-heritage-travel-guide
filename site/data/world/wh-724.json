@@ -1,0 +1,162 @@
+{
+ "id": "wh-724",
+ "unesco_id": "724",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 480,
+ "popularity_score": 14518,
+ "country": "RS",
+ "country_zh": "塞尔维亚",
+ "country_en": "Serbia",
+ "countries": [
+  {
+   "iso2": "RS",
+   "zh": "塞尔维亚",
+   "en": "Serbia"
+  }
+ ],
+ "region": "Autonomous province of Kosovo",
+ "subdivision_iso": "RS-KM",
+ "subdivision_zh": "科索沃和梅托希亚自治省",
+ "subdivision_en": "Kosovo and Metohija",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "科索沃中世纪古迹",
+ "name_zh_source": "unesco_official",
+ "name_en": "Medieval Monuments in Kosovo",
+ "name_local": "Средњовековни споменици на Косову",
+ "local_lang": "sr",
+ "local_lang_name": "Serbian",
+ "slug": "724-medieval_monuments_in_kosovo",
+ "lat": 42.661111111,
+ "lon": 20.265555555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2004",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "该遗址的四个组成部分，体现了拜占庭和罗马教会文化鼎盛时期的情景，这种文化于13世纪至17世纪期间在巴尔干半岛发展起来，其壁画具有独特的风格。佩奇修道院主教管辖区位于佩奇市郊，它包括由四座带圆屋顶的、墙上都绘有壁画的教堂组成的一组建筑群。圣·阿皮特勒教堂13世纪的壁画反映出无与伦比的壁画风格。而圣母教堂14世纪初期的壁画则标志着一种新风格的出现，即帕莱奥洛格•德比藏斯文艺复兴时期的风格，它将东方正统观念与西方罗马画法融为一体。壁画风格在巴尔干半岛艺术发展史上曾经发挥了决定性作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The four edifices of the site reflect the high points of the Byzantine-Romanesque ecclesiastical culture, with its distinct style of wall painting, which developed in the Balkans between the 13th and 17th centuries. The Dečani Monastery was built in the mid-14th century for the Serbian king Stefan Dečanski and is also his mausoleum. The Patriarchate of Peć Monastery is a group of four domed churches featuring series of wall paintings. The 13th-century frescoes of the Church of Holy Apostles are painted in a unique, monumental style. Early 14th-century frescoes in the church of the Holy Virgin of Ljevisa represent the appearance of the new so-called Palaiologian Renaissance style, combining the influences of the eastern Orthodox Byzantine and the Western Romanesque traditions. The style played a decisive role in subsequent Balkan art.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Средњовековни споменици на Косову (енгл. Medieval Monuments in Kosovo) представљају Унесков субјекат на листи Светске баштине који се налази у Србији, односно на Косову и Метохији. Састоји се од четири цркве и манастира Српске православне цркве: манастира Високи Дечани, манастира Пећка патријаршија, цркве Богородица Љевишка и манастира Грачаница. Године 2004. Унеско је на листу Светске баштине уписао Високе Дечане, да би две године касније ту уврстио и остала три манастира. Сви они се на листи налазе под именом Средњовековни споменици на Косову (енгл. Medieval Monuments in Kosovo), а од 2006. део су списка угрожених места Светске баштине.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/De%C4%8Dani4.jpg?width=1280",
+   "title": "Dečani4.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:De%C4%8Dani4.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_724.jpg",
+   "title": "Medieval Monuments in Kosovo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/724",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/724",
+ "transport": {
+  "airports": [
+   {
+    "name": "Priština Adem Jashari International Airport",
+    "iata": "PRN",
+    "city": "Prishtina",
+    "country": "XK",
+    "lat": 42.5728,
+    "lon": 21.035801,
+    "type": "large_airport",
+    "distance_km": 63.8
+   },
+   {
+    "name": "Podgorica Airport / Podgorica Golubovci Airbase",
+    "iata": "TGD",
+    "city": "Podgorica",
+    "country": "ME",
+    "lat": 42.359402,
+    "lon": 19.2519,
+    "type": "large_airport",
+    "distance_km": 89.6
+   },
+   {
+    "name": "Tivat Airport",
+    "iata": "TIV",
+    "city": "Tivat",
+    "country": "ME",
+    "lat": 42.404701,
+    "lon": 18.723301,
+    "type": "medium_airport",
+    "distance_km": 129.5
+   }
+  ],
+  "nearest_airport_km": 63.8,
+  "distance_beijing_km": 7516.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RS",
+  "country_zh": "塞尔维亚",
+  "country_en": "Serbia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa up to 90 days within a 6-month period. Long stay (up to 180 days) visas are issued free of charge.[128]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RS",
+   "country_zh": "塞尔维亚",
+   "country_en": "Serbia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa up to 90 days within a 6-month period. Long stay (up to 180 days) visas are issued free of charge.[128]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "sr",
+  "local_lang_name": "Serbian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/724"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medieval%20Monuments%20in%20Kosovo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

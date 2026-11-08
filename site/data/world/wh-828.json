@@ -1,0 +1,162 @@
+{
+ "id": "wh-828",
+ "unesco_id": "828",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1175,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Pesaro, Marche Region",
+ "subdivision_iso": "IT-PU",
+ "subdivision_zh": "佩萨罗-乌尔比诺省",
+ "subdivision_en": "Province of Pesaro and Urbino",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "乌尔比诺历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Urbino",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "828-historic_centre_of_urbino",
+ "lat": 43.725,
+ "lon": 12.63333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "乌尔比诺是一座小山城，位于马奇位，15世纪经历了惊人的文化繁盛期，吸引了整个意大利以及其他地区的艺术家和学者，其文化的发展影响到欧洲的每一角落。16世纪以后，其经济和文化发展进入萧条阶段，文艺复兴时期的原貌正是由此才最大程度地得以保存。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The small hill town of Urbino, in the Marche, experienced a great cultural flowering in the 15th century, attracting artists and scholars from all over Italy and beyond, and influencing cultural developments elsewhere in Europe. Owing to its economic and cultural stagnation from the 16th century onwards, it has preserved its Renaissance appearance to a remarkable extent.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Historic%20Centre%20of%20Urbino-112089.jpg?width=1280",
+   "title": "Historic Centre of Urbino-112089.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Historic%20Centre%20of%20Urbino-112089.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_828.jpg",
+   "title": "Historic Centre of Urbino",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/828",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/828",
+ "transport": {
+  "airports": [
+   {
+    "name": "Federico Fellini International Airport",
+    "iata": "RMI",
+    "city": "Rimini (RN)",
+    "country": "IT",
+    "lat": 44.020024,
+    "lon": 12.612198,
+    "type": "large_airport",
+    "distance_km": 32.8
+   },
+   {
+    "name": "Marche Airport",
+    "iata": "AOI",
+    "city": "Falconara Marittima (AN)",
+    "country": "IT",
+    "lat": 43.616299,
+    "lon": 13.3623,
+    "type": "medium_airport",
+    "distance_km": 59.9
+   },
+   {
+    "name": "Forlì-Luigi Ridolfi International Airport",
+    "iata": "FRL",
+    "city": "Forlì (FC)",
+    "country": "IT",
+    "lat": 44.194801,
+    "lon": 12.0701,
+    "type": "medium_airport",
+    "distance_km": 69.0
+   }
+  ],
+  "nearest_airport_km": 32.8,
+  "distance_beijing_km": 7968.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/828"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

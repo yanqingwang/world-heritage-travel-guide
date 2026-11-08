@@ -1,0 +1,162 @@
+{
+ "id": "wh-970",
+ "unesco_id": "970",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 257,
+ "popularity_score": 37879,
+ "country": "AT",
+ "country_zh": "奥地利",
+ "country_en": "Austria",
+ "countries": [
+  {
+   "iso2": "AT",
+   "zh": "奥地利",
+   "en": "Austria"
+  }
+ ],
+ "region": "Towns of Krems and Melk, Lower Austria",
+ "subdivision_iso": "AT-3",
+ "subdivision_zh": "下奥地利州",
+ "subdivision_en": "Lower Austria",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦豪文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Wachau Cultural Landscape",
+ "name_local": "Wachau",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "970-wachau_cultural_landscape",
+ "lat": 48.36444,
+ "lon": 15.43417,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "瓦豪(Wachau)是多瑙河河谷的一个分支，地处梅尔克(Melk)和克雷姆斯(Krems)之间，风景秀丽，是极具吸引力的观光胜地。这里完整地保存了该地区自史前时期演化至今仍然清晰可见的痕迹，包括建筑（修道院、城堡和遗址）、城市规划（城镇和乡村）以及主要用于葡萄种植的农业设施。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Wachau is a stretch of the Danube Valley between Melk and Krems, a landscape of high visual quality. It preserves in an intact and visible form many traces - in terms of architecture, (monasteries, castles, ruins), urban design, (towns and villages), and agricultural use, principally for the cultivation of vines - of its evolution since prehistoric times.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Wachau ([vaˈxaʊ̯], mit Betonung auf der letzten Silbe „au“ [aʊ̯]) ist die Landschaft im und um das Tal der Donau zwischen Melk und Krems an der Donau in Niederösterreich, etwa 80 Kilometer westlich der Bundeshauptstadt Wien. Im Jahr 2000 wurde sie als Kulturlandschaft Wachau (englisch Wachau Cultural Landscape) mit den Stiften Melk und Göttweig sowie der Altstadt von Krems in die Liste des UNESCO-Weltkultur- und -Naturerbes aufgenommen.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wachau%20%282%29.JPG?width=1280",
+   "title": "Wachau (2).JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Wachau%20%282%29.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_970.jpg",
+   "title": "Wachau Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/970",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/970",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vienna International Airport",
+    "iata": "VIE",
+    "city": "Vienna",
+    "country": "AT",
+    "lat": 48.110298,
+    "lon": 16.5697,
+    "type": "large_airport",
+    "distance_km": 88.7
+   },
+   {
+    "name": "Linz-Hörsching Airport",
+    "iata": "LNZ",
+    "city": "Linz",
+    "country": "AT",
+    "lat": 48.235362,
+    "lon": 14.188128,
+    "type": "large_airport",
+    "distance_km": 93.3
+   },
+   {
+    "name": "České Budějovice South Bohemian Airport",
+    "iata": "JCL",
+    "city": "České Budějovice",
+    "country": "CZ",
+    "lat": 48.948171,
+    "lon": 14.42832,
+    "type": "large_airport",
+    "distance_km": 98.3
+   }
+  ],
+  "nearest_airport_km": 88.7,
+  "distance_beijing_km": 7452.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AT",
+  "country_zh": "奥地利",
+  "country_en": "Austria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AT",
+   "country_zh": "奥地利",
+   "country_en": "Austria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 51
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/970"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wachau"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

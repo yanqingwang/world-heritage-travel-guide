@@ -1,0 +1,162 @@
+{
+ "id": "wh-867",
+ "unesco_id": "867",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 665,
+ "popularity_score": 6896,
+ "country": "NL",
+ "country_zh": "荷兰王国",
+ "country_en": "Kingdom of the Netherlands",
+ "countries": [
+  {
+   "iso2": "NL",
+   "zh": "荷兰王国",
+   "en": "Kingdom of the Netherlands"
+  }
+ ],
+ "region": "Lemmer, Lemsterland Municipality, Province of Friesland",
+ "subdivision_iso": "NL-FR",
+ "subdivision_zh": "弗里斯兰省",
+ "subdivision_en": "Friesland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "迪•弗•伍达蒸汽泵站",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)",
+ "name_local": "Ir. D.F. Woudagemaal",
+ "local_lang": "nl",
+ "local_lang_name": "Dutch",
+ "slug": "867-ir.d.f._woudagemaal_(d.f._wouda_steam_pu",
+ "lat": 52.845833333,
+ "lon": 5.678888888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于弗里斯兰省 (Friesland) 莱默的伍达蒸汽泵站于1920年开始运营，是有史以来最大的蒸汽泵站，至今仍在运转中。这一蒸汽泵站展示了当时荷兰工程师和建筑学家为保护人民和土地与海水进行斗争所做出的极大贡献。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Wouda Pumping Station at Lemmer in the province of Friesland opened in 1920. It is the largest steam-pumping station ever built and is still in operation. It represents the high point of the contribution made by Netherlands engineers and architects in protecting their people and land against the natural forces of water.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Het Ir. D.F. Woudagemaal is een installatie voor waterverplaatsing nabij Tacozijl te Lemmer in de Nederlandse provincie Friesland. Dit grootste stoomgemaal ooit gebouwd werd in 1920 geopend en is nog steeds bedrijfsvaardig. Het wordt gemiddeld eenmaal per jaar gebruikt tijdens perioden dat het J.L. Hooglandgemaal bij Stavoren onvoldoende capaciteit kan leveren. Sinds 1998 staat het gemaal op de UNESCO-Werelderfgoedlijst.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Woudagemaal%201.jpg?width=1280",
+   "title": "Woudagemaal 1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Woudagemaal%201.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_867.jpg",
+   "title": "Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/867",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/867",
+ "transport": {
+  "airports": [
+   {
+    "name": "Groningen Airport Eelde",
+    "iata": "GRQ",
+    "city": "Groningen",
+    "country": "NL",
+    "lat": 53.119107,
+    "lon": 6.577652,
+    "type": "large_airport",
+    "distance_km": 67.4
+   },
+   {
+    "name": "Amsterdam Airport Schiphol",
+    "iata": "AMS",
+    "city": "Amsterdam",
+    "country": "NL",
+    "lat": 52.308601,
+    "lon": 4.76389,
+    "type": "large_airport",
+    "distance_km": 86.0
+   },
+   {
+    "name": "Borkum Airport",
+    "iata": "BMK",
+    "city": "Borkum",
+    "country": "DE",
+    "lat": 53.59639,
+    "lon": 6.709167,
+    "type": "small_airport",
+    "distance_km": 108.0
+   }
+  ],
+  "nearest_airport_km": 67.4,
+  "distance_beijing_km": 7675.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NL",
+  "country_zh": "荷兰王国",
+  "country_en": "Kingdom of the Netherlands",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NL",
+   "country_zh": "荷兰王国",
+   "country_en": "Kingdom of the Netherlands",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "nl",
+  "local_lang_name": "Dutch",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 28
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/867"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wouda%20pumping%20station"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

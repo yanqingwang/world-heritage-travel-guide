@@ -1,0 +1,162 @@
+{
+ "id": "wh-260",
+ "unesco_id": "260",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 728,
+ "popularity_score": 4954,
+ "country": "EC",
+ "country_zh": "厄瓜多尔",
+ "country_en": "Ecuador",
+ "countries": [
+  {
+   "iso2": "EC",
+   "zh": "厄瓜多尔",
+   "en": "Ecuador"
+  }
+ ],
+ "region": "Provinces of Morona Santiago, Chimborazo and Tungurahua",
+ "subdivision_iso": "EC-H",
+ "subdivision_zh": "钦博拉索省",
+ "subdivision_en": "Chimborazo Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "桑盖国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sangay National Park",
+ "name_local": "Parque nacional Sangay",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "260-sangay_national_park",
+ "lat": -1.833333333,
+ "lon": -78.333333333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公园以其独特秀丽的自然风光和两座活火山的壮观景象向人们展现了一个完整系列的生态系统，从热带雨林延到冰川，白雪皑皑的山峰与苍翠的平原森林交相辉映。这种孤立的环境使得当地特有的生物，诸如山貘和安第斯秃鹫等得以幸存。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "With its outstanding natural beauty and two active volcanoes, the park illustrates the entire spectrum of ecosystems, ranging from tropical rainforests to glaciers, with striking contrasts between the snowcapped peaks and the forests of the plains. Its isolation has encouraged the survival of indigenous species such as the mountain tapir and the Andean condor.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este parque de extraordinaria belleza natural posee dos volcanes activos y cuenta con toda la gama vertical de ecosistemas, desde los bosques húmedos tropicales hasta los glaciares. Sus paisajes ofrecen sorprendentes contrastes entre cumbres nevadas y selvas de llanura. Por otra parte, su aislamiento facilita la protección de las especies en peligro de extinción que lo pueblan, como el tapir de montaña y el cóndor de los Andes.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecuador%20SanguayNationalPark.JPG?width=1280",
+   "title": "Ecuador SanguayNationalPark.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ecuador%20SanguayNationalPark.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_260.jpg",
+   "title": "Sangay National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/260",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/260",
+ "transport": {
+  "airports": [
+   {
+    "name": "Coronel E Carvajal Airport",
+    "iata": "XMS",
+    "city": "Macas",
+    "country": "EC",
+    "lat": -2.2991700172424316,
+    "lon": -78.12079620361328,
+    "type": "medium_airport",
+    "distance_km": 56.9
+   },
+   {
+    "name": "Cotopaxi International Airport",
+    "iata": "LTX",
+    "city": "Latacunga",
+    "country": "EC",
+    "lat": -0.906833,
+    "lon": -78.615799,
+    "type": "medium_airport",
+    "distance_km": 107.7
+   },
+   {
+    "name": "Mariscal Lamar Airport",
+    "iata": "CUE",
+    "city": "Cuenca",
+    "country": "EC",
+    "lat": -2.88947,
+    "lon": -78.984398,
+    "type": "medium_airport",
+    "distance_km": 137.9
+   }
+  ],
+  "nearest_airport_km": 56.9,
+  "distance_beijing_km": 15560.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EC",
+  "country_zh": "厄瓜多尔",
+  "country_en": "Ecuador",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6]",
+  "notes": "Effective from 1 July 2024, Ecuador reinstates visa requirements for Chinese citizens.[46]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EC",
+   "country_zh": "厄瓜多尔",
+   "country_en": "Ecuador",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "Effective from 1 July 2024, Ecuador reinstates visa requirements for Chinese citizens.[46]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/260"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sangay%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

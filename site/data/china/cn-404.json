@@ -1,0 +1,252 @@
+{
+ "id": "cn-404",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "常州市",
+ "city_en": "Changzhou",
+ "name_zh": "常州市春秋淹城旅游区",
+ "name_en": "Changzhou",
+ "name_en_source": "wikipedia",
+ "slug": "changzhoushichunqiuyancheng-404",
+ "lat": 31.7109,
+ "lon": 119.926847,
+ "address_zh": "常州市武进区湖塘镇延政中大道",
+ "address_en": "Yanzheng Middle Avenue, Hutang Town, Wujin District, Changzhou City",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "中国春秋淹城旅游区是国内保存较完整、形制独特的春秋时期地面城池遗址。旅游区分为五大区块：春秋淹城遗址、淹城春秋乐园、淹城野生动物世界、淹城传统商业街坊和淹城宝林禅寺。1988年，淹城遗址被列为全国重点文物保护单位。",
+ "intro_en": "Changzhou is a prefecture-level city in southern Jiangsu, China. It was previously known as Yanling, Lanling, and Jinling. Located on the southern bank of the Yangtze River, Changzhou borders the provincial capital of Nanjing to the west, Zhenjiang to the northwest, Wuxi to the east, and the province of Zhejiang to the south. The population of the Changzhou Municipality was 5,278,121 at the 2020 census. The city is the birthplace of Zhou Youguang who created the pinyin romanization system.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20090919_Changzhou_Imgp5266.jpg/1280px-20090919_Changzhou_Imgp5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20090919 Changzhou Imgp5266.jpg",
+   "author": "Jakub Hałun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20090919_Changzhou_Imgp5266.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Administrative-Division-Changzhou-Icelandic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Administrative-Division-Changzhou-Icelandic.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Administrative-Division-Changzhou-Icelandic.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Changzhou-in-China-location-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Changzhou-in-China-location-map.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhou-in-China-location-map.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ChangzhouOldCityDistrict.jpg/1280px-ChangzhouOldCityDistrict.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ChangzhouOldCityDistrict.jpg",
+   "author": "Chen Yihan",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:ChangzhouOldCityDistrict.jpg"
+  }
+ ],
+ "web": "http://www.yclyq.com",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 27.3
+   },
+   {
+    "name": "Sunan Shuofang International Airport",
+    "iata": "WUX",
+    "city": "Wuxi",
+    "country": "CN",
+    "lat": 31.496952,
+    "lon": 120.43038,
+    "type": "large_airport",
+    "distance_km": 53.3
+   },
+   {
+    "name": "Yangzhou Taizhou Airport",
+    "iata": "YTY",
+    "city": "Yangzhou",
+    "country": "CN",
+    "lat": 32.5634,
+    "lon": 119.7198,
+    "type": "medium_airport",
+    "distance_km": 96.8
+   }
+  ],
+  "nearest_airport_km": 27.3,
+  "high_speed_stations": [
+   {
+    "name": "武进",
+    "name_en": null,
+    "lat": 31.6605432,
+    "lon": 119.9423585,
+    "distance_km": 5.8,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "常州",
+    "name_en": null,
+    "lat": 31.7866804,
+    "lon": 119.9682006,
+    "distance_km": 9.3,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "戚墅堰",
+    "name_en": null,
+    "lat": 31.7242359,
+    "lon": 120.0623742,
+    "distance_km": 12.9,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "新闸镇",
+    "name_en": "Xinzha town",
+    "lat": 31.8258711,
+    "lon": 119.8842021,
+    "distance_km": 13.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "前黄",
+    "name_en": null,
+    "lat": 31.5705329,
+    "lon": 119.9929708,
+    "distance_km": 16.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "奔牛",
+    "name_en": null,
+    "lat": 31.8658247,
+    "lon": 119.8089565,
+    "distance_km": 20.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "和平假日大饭店",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 31.7760161,
+   "lon": 119.9584101,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "延陵四季酒店",
+   "name_en": "Yanlin Siji  Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.7836533,
+   "lon": 119.9465155,
+   "distance_km": 8.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "常州万豪酒店",
+   "name_en": "Changzhou Marriott Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.8163554,
+   "lon": 119.9672233,
+   "distance_km": 12.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "常州喜来登酒店",
+   "name_en": "Sheraton Changzhou Xinbei Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.8187815,
+   "lon": 119.9639003,
+   "distance_km": 12.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Sofitel",
+   "lat": 31.8619265,
+   "lon": 119.9505111,
+   "distance_km": 16.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 45,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/常州市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

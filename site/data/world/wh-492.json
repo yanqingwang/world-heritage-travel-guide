@@ -1,0 +1,154 @@
+{
+ "id": "wh-492",
+ "unesco_id": "492",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1095,
+ "popularity_score": null,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "New Mexico",
+ "subdivision_iso": "US-NM",
+ "subdivision_zh": "",
+ "subdivision_en": "New Mexico",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "陶斯印第安村",
+ "name_zh_source": "unesco_official",
+ "name_en": "Taos Pueblo",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "492-taos_pueblo",
+ "lat": 36.43889,
+ "lon": -105.54167,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "陶斯印第安村位于里奥格兰河一条支流的山谷中，主要用泥砖和石块建成，村中有民居和宗教仪式建筑，它展示着亚利桑那州和新墨西哥州印第安人的文化。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in the valley of a small tributary of the Rio Grande, this adobe settlement – consisting of dwellings and ceremonial buildings – represents the culture of the Pueblo Indians of Arizona and New Mexico.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_492.jpg",
+   "title": "Taos Pueblo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/492",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/492",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taos Regional Airport",
+    "iata": "TSM",
+    "city": "Taos",
+    "country": "US",
+    "lat": 36.452494,
+    "lon": -105.67749,
+    "type": "medium_airport",
+    "distance_km": 12.2
+   },
+   {
+    "name": "Santa Fe Municipal Airport",
+    "iata": "SAF",
+    "city": "Santa Fe",
+    "country": "US",
+    "lat": 35.6171,
+    "lon": -106.088997,
+    "type": "medium_airport",
+    "distance_km": 103.8
+   },
+   {
+    "name": "San Luis Valley Regional Airport/Bergman Field",
+    "iata": "ALS",
+    "city": "Alamosa",
+    "country": "US",
+    "lat": 37.434898,
+    "lon": -105.866997,
+    "type": "medium_airport",
+    "distance_km": 114.5
+   }
+  ],
+  "nearest_airport_km": 12.2,
+  "distance_beijing_km": 10472.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/492"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

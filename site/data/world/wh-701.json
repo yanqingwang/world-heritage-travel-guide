@@ -1,0 +1,162 @@
+{
+ "id": "wh-701",
+ "unesco_id": "701",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 281,
+ "popularity_score": 33291,
+ "country": "VE",
+ "country_zh": "委内瑞拉",
+ "country_en": "Venezuela",
+ "countries": [
+  {
+   "iso2": "VE",
+   "zh": "委内瑞拉",
+   "en": "Venezuela"
+  }
+ ],
+ "region": "Bolivar State",
+ "subdivision_iso": "VE-F",
+ "subdivision_zh": "玻利瓦尔州",
+ "subdivision_en": "Bolívar",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡奈依马国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Canaima National Park",
+ "name_local": "Parque Nacional de Canaima",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "701-canaima_national_park",
+ "lat": 5.3193393,
+ "lon": -61.7953505,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡奈依马国家公园占地面积达300万公顷，绵延于圭亚那和巴西边界线之间的委内瑞拉东南部。公园约65%的土地由石板山覆盖，这些生物地质学的实体构成的石板山极具地质学价值。陡峭的悬崖和高达一千米的世界上最高的瀑布，构成了卡奈依马国家公园的独特景观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Canaima National Park is spread over 3 million ha in south-eastern Venezuela along the border between Guyana and Brazil. Roughly 65% of the park is covered by table mountain (tepui) formations. The tepuis constitute a unique biogeological entity and are of great geological interest. The sheer cliffs and waterfalls, including the world's highest (1,000 m), form a spectacular landscape.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado al sudeste de Venezuela, el territorio de este parque, que linda con las fronteras de Guyana y Brasil, abarca tres millones de hectáreas cubiertas en un 65% por tepuyes, montañas tabulares con características biogeológicas únicas que presentan un gran interés para la geología. Sus escarpados farallones y cascadas –entre las que figura la más alta del mundo, con 1.000 metros de caída– forman espectaculares paisajes.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canaima%2034.JPG?width=1280",
+   "title": "Canaima 34.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Canaima%2034.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_701.jpg",
+   "title": "Canaima National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/701",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/701",
+ "transport": {
+  "airports": [
+   {
+    "name": "Santa Elena de Uairén Airport",
+    "iata": "SNV",
+    "city": "Santa Elena de Uairén",
+    "country": "VE",
+    "lat": 4.554699,
+    "lon": -61.145234,
+    "type": "medium_airport",
+    "distance_km": 111.4
+   },
+   {
+    "name": "Canaima Airport",
+    "iata": "CAJ",
+    "city": "Canaima",
+    "country": "VE",
+    "lat": 6.231989,
+    "lon": -62.85485,
+    "type": "medium_airport",
+    "distance_km": 155.0
+   },
+   {
+    "name": "Kaieteur Airport",
+    "iata": "KAI",
+    "city": "Kaieteur Falls",
+    "country": "GY",
+    "lat": 5.177349,
+    "lon": -59.48898,
+    "type": "medium_airport",
+    "distance_km": 255.9
+   }
+  ],
+  "nearest_airport_km": 111.4,
+  "distance_beijing_km": 15046.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "VE",
+  "country_zh": "委内瑞拉",
+  "country_en": "Venezuela",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][158]",
+  "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.[159][160] Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "VE",
+   "country_zh": "委内瑞拉",
+   "country_en": "Venezuela",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][158]",
+   "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.[159][160] Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 52
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/701"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Canaima%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

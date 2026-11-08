@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)"
 lat: 49.333888888
 lon: 88.395277777
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:46Z"
 ---
 
 # 阿尔泰山脉岩画群 / Petroglyphic Complexes of the Mongolian Altai

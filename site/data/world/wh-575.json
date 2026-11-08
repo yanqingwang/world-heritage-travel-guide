@@ -1,0 +1,162 @@
+{
+ "id": "wh-575",
+ "unesco_id": "575",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 423,
+ "popularity_score": 18352,
+ "country": "TH",
+ "country_zh": "泰国",
+ "country_en": "Thailand",
+ "countries": [
+  {
+   "iso2": "TH",
+   "zh": "泰国",
+   "en": "Thailand"
+  }
+ ],
+ "region": "Udon Thani Province",
+ "subdivision_iso": "TH-41",
+ "subdivision_zh": "乌隆府",
+ "subdivision_en": "Udon Thani",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "班清考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ban Chiang Archaeological Site",
+ "name_local": "แหล่งโบราณคดีบ้านเชียง",
+ "local_lang": "th",
+ "local_lang_name": "Thai",
+ "slug": "575-ban_chiang_archaeological_site",
+ "lat": 17.548611111,
+ "lon": 103.358333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "班清被视为迄今为止在东南亚发现的最重要的史前聚居地，它的发现向人们揭示了人类文化、社会和技术发展过程中的一个很重要的阶段。该遗址发掘出来的葬物证实该地区曾有过农业耕作、制造和使用金属的活动，也是迄今为止所能提供的最早的此类证明。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Ban Chiang is considered the most important prehistoric settlement so far discovered in South-East Asia. It marks an important stage in human cultural, social and technological evolution. The site presents the earliest evidence of farming in the region and of the manufacture and use of metals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "แหล่งโบราณคดีบ้านเชียง เป็นแหล่งโบราณคดีสำคัญแห่งหนึ่ง อยู่ที่ตำบลบ้านเชียง (ในเขตเทศบาลตำบลบ้านเชียง) อำเภอหนองหาน จังหวัดอุดรธานี ที่ทำให้รับรู้ถึงการดำรงชีวิตในสมัยก่อนประวัติศาสตร์ย้อนหลังไปกว่า 5,000 ปี",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wat%20Pho%20Si%20Nai%20-%20UNESCO%20World%20Heritage%20Site%20plaque.JPG?width=1280",
+   "title": "Wat Pho Si Nai - UNESCO World Heritage Site plaque.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Wat%20Pho%20Si%20Nai%20-%20UNESCO%20World%20Heritage%20Site%20plaque.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_575.jpg",
+   "title": "Ban Chiang Archaeological Site",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/575",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/575",
+ "transport": {
+  "airports": [
+   {
+    "name": "Udon Thani International Airport",
+    "iata": "UTH",
+    "city": "Udon Thani",
+    "country": "TH",
+    "lat": 17.386186,
+    "lon": 102.788577,
+    "type": "large_airport",
+    "distance_km": 63.1
+   },
+   {
+    "name": "Sakon Nakhon Airport",
+    "iata": "SNO",
+    "city": "",
+    "country": "TH",
+    "lat": 17.195100784301758,
+    "lon": 104.11900329589844,
+    "type": "medium_airport",
+    "distance_km": 89.8
+   },
+   {
+    "name": "Wattay International Airport",
+    "iata": "VTE",
+    "city": "Vientiane",
+    "country": "LA",
+    "lat": 17.985052,
+    "lon": 102.566692,
+    "type": "large_airport",
+    "distance_km": 96.9
+   }
+  ],
+  "nearest_airport_km": 63.1,
+  "distance_beijing_km": 2851.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TH",
+  "country_zh": "泰国",
+  "country_en": "Thailand",
+  "status": "visa_free",
+  "days": 60,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 60 days at a time, no more than 90 days within any 180 days. 60-day visa can be extended while in Thailand."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TH",
+   "country_zh": "泰国",
+   "country_en": "Thailand",
+   "status": "visa_free",
+   "days": 60,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 60 days at a time, no more than 90 days within any 180 days. 60-day visa can be extended while in Thailand."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "th",
+  "local_lang_name": "Thai",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/575"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ban%20Chiang"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

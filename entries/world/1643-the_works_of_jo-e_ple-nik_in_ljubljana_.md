@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iv)"
 lat: 46.043333
 lon: 14.502222
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:51Z"
 ---
 
 # 卢布尔雅那的约热·普列赤涅克作品——以人为本的城市设计 / The works of Jože Plečnik in Ljubljana – Human Centred Urban Design

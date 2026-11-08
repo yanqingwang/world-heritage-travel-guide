@@ -1,0 +1,154 @@
+{
+ "id": "wh-1431",
+ "unesco_id": "1431",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 959,
+ "popularity_score": null,
+ "country": "GW",
+ "country_zh": "几内亚比绍",
+ "country_en": "Guinea-Bissau",
+ "countries": [
+  {
+   "iso2": "GW",
+   "zh": "几内亚比绍",
+   "en": "Guinea-Bissau"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GW-BL",
+ "subdivision_zh": "博拉马区",
+ "subdivision_en": "Bolama region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "比热戈斯群岛海岸与海洋生态系统——祖灵圣境",
+ "name_zh_source": "unesco_official",
+ "name_en": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1431-coastal_and_marine_ecosystems_of_the_bij",
+ "lat": 11.25,
+ "lon": -16.083333333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产涵盖一系列连续的滨海和海洋生态系统，对应几内亚比绍比热戈斯群岛保存最完好区域的海洋与潮间带环境。群岛是非洲大西洋海岸唯一活跃的三角洲群岛，也是全球为数不多的此类地貌之一。该地拥有丰富的生物多样性，包括濒危的绿海龟、棱皮龟、海牛、海豚，以及超87万只迁徙性岸鸟。红树林、泥滩、潮间带构成海洋生物的关键生境，稀有植物和多样鱼类种群、鸟类群落在此栖息。群岛中的波伊朗岛是全球重要的海龟产卵地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property includes a continuous series of coastal and marine ecosystems, corresponding to the marine and intertidal environments of the best-preserved areas of the Bijagós Archipelago in Guinea-Bissau. The Archipelago is the only active deltaic archipelago on the African Atlantic coast and one of the few in the world. The site is home to a rich biodiversity, including endangered Green and Leatherback turtles, manatees, dolphins, and over 870,000 migratory shorebirds. It features mangroves, mudflats, and intertidal zones vital for marine life, and supports rare plant species, diverse fish populations, and bird colonies. Poilão Island is a globally important nesting site for turtles.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1431.jpg",
+   "title": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1431",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1431",
+ "transport": {
+  "airports": [
+   {
+    "name": "Osvaldo Vieira International Airport",
+    "iata": "OXB",
+    "city": "Bissau",
+    "country": "GW",
+    "lat": 11.894262,
+    "lon": -15.653596,
+    "type": "large_airport",
+    "distance_km": 85.6
+   },
+   {
+    "name": "Cap Skirring Airport",
+    "iata": "CSK",
+    "city": "Cap Skirring",
+    "country": "SN",
+    "lat": 12.39533,
+    "lon": -16.748,
+    "type": "medium_airport",
+    "distance_km": 146.5
+   },
+   {
+    "name": "Ziguinchor Airport",
+    "iata": "ZIG",
+    "city": "Ziguinchor",
+    "country": "SN",
+    "lat": 12.55559,
+    "lon": -16.283298,
+    "type": "medium_airport",
+    "distance_km": 146.8
+   }
+  ],
+  "nearest_airport_km": 85.6,
+  "distance_beijing_km": 12426.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GW",
+  "country_zh": "几内亚比绍",
+  "country_en": "Guinea-Bissau",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "Visa on arrival[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GW",
+   "country_zh": "几内亚比绍",
+   "country_en": "Guinea-Bissau",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "Visa on arrival[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1431"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

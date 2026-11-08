@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iv)"
 lat: 46.485
 lon: 30.741
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:52Z"
 ---
 
 # 敖德萨历史中心 / The Historic Centre of Odesa

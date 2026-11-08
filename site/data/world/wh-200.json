@@ -1,0 +1,162 @@
+{
+ "id": "wh-200",
+ "unesco_id": "200",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 157,
+ "popularity_score": 87607,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "North Central Province, Anuradhapura District",
+ "subdivision_iso": "LK-71",
+ "subdivision_zh": "阿努拉德普勒區",
+ "subdivision_en": "Anuradhapura District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿努拉德普勒圣城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sacred City of Anuradhapura",
+ "name_local": "",
+ "local_lang": "ta",
+ "local_lang_name": "Tamil",
+ "slug": "200-sacred_city_of_anuradhapura",
+ "lat": 8.335,
+ "lon": 80.410833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(vi)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元前3世纪，斯里兰卡佛教尼姑会的创始人桑哈米塔把一枝从佛教“启蒙树”无花果树上剪下的枝条带回到锡兰（今斯里兰卡），以这枝无花果枝条为中心人们建起了阿努拉德普勒圣城。阿努拉德普勒圣城曾是锡兰的政治和宗教中心，有一千三百多年的辉煌历史。公元993年时，因遭遇外敌入侵，这座圣城被人们遗弃。在茂密的丛林中隐藏了许多年后，这座古圣城的遗址又重新被人们发现，她那恢宏的宫殿，轩昂的庙宇向世人展示着阿努拉达普拉圣城曾经的辉煌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This sacred city was established around a cutting from the 'tree of enlightenment', the Buddha's fig tree, brought there in the 3rd century B.C. by Sanghamitta, the founder of an order of Buddhist nuns. Anuradhapura, a Ceylonese political and religious capital that flourished for 1,300 years, was abandoned after an invasion in 993. Hidden away in dense jungle for many years, the splendid site, with its palaces, monasteries and monuments, is now accessible once again.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img11%20Ruwanwelisaya%20Stupa.jpg?width=1280",
+   "title": "SL Anuradhapura asv2020-01 img11 Ruwanwelisaya Stupa.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:SL%20Anuradhapura%20asv2020-01%20img11%20Ruwanwelisaya%20Stupa.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_200.jpg",
+   "title": "Sacred City of Anuradhapura",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/200",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/200",
+ "transport": {
+  "airports": [
+   {
+    "name": "China Bay Airport",
+    "iata": "TRR",
+    "city": "Trincomalee",
+    "country": "LK",
+    "lat": 8.539159,
+    "lon": 81.18128,
+    "type": "medium_airport",
+    "distance_km": 87.7
+   },
+   {
+    "name": "Bandaranaike International Colombo Airport",
+    "iata": "CMB",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 7.180759906768799,
+    "lon": 79.88410186767578,
+    "type": "large_airport",
+    "distance_km": 140.9
+   },
+   {
+    "name": "Batticaloa International Airport",
+    "iata": "BTC",
+    "city": "Batticaloa",
+    "country": "LK",
+    "lat": 7.705073,
+    "lon": 81.677163,
+    "type": "medium_airport",
+    "distance_km": 156.0
+   }
+  ],
+  "nearest_airport_km": 87.7,
+  "distance_beijing_km": 4956.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "ta",
+  "local_lang_name": "Tamil",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 73
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/200"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Anuradhapura"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

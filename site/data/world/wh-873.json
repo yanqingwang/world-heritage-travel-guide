@@ -1,0 +1,162 @@
+{
+ "id": "wh-873",
+ "unesco_id": "873",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1185,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Seine-et-Marne, Ile-de-France",
+ "subdivision_iso": "FR-77",
+ "subdivision_zh": "塞纳-马恩省",
+ "subdivision_en": "Seine-et-Marne",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "普罗万城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Provins, Town of Medieval Fairs",
+ "name_local": "Provins, ville de foire médiévale",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "873-provins,_town_of_medieval_fairs",
+ "lat": 48.559722222,
+ "lon": 3.298888888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "普罗万(Provins)这个中世纪防御古城, 位于原先颇有影响的香槟酒会地区，见证了国际贸易组织和羊毛工业的早期发展。普罗万的城市结构保存完好，其设计之初的目的就是用于主办展览会及相关活动。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The fortified medieval town of Provins is situated in the former territory of the powerful Counts of Champagne. It bears witness to early developments in the organization of international trading fairs and the wool industry. The urban structure of Provins, which was built specifically to host the fairs and related activities, has been well preserved.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La ville médiévale fortifiée de Provins se situe au cœur de l'ancienne région des puissants comtes de Champagne. Elle témoigne des premiers développements des foires commerciales internationales et de l'industrie de la laine. Provins a su préserver sa structure urbaine, conçue spécialement pour accueillir des foires et des activités connexes.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Provins%20Tour%20Cesar.jpg?width=1280",
+   "title": "Provins Tour Cesar.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Provins%20Tour%20Cesar.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_873.jpg",
+   "title": "Provins, Town of Medieval Fairs",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/873",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/873",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chalons Vatry airport",
+    "iata": "XCR",
+    "city": "Chalons en Champagne",
+    "country": "FR",
+    "lat": 48.77333,
+    "lon": 4.20611,
+    "type": "medium_airport",
+    "distance_km": 70.7
+   },
+   {
+    "name": "Paris-Orly Airport",
+    "iata": "ORY",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "country": "FR",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport",
+    "distance_km": 71.6
+   },
+   {
+    "name": "Charles de Gaulle International Airport",
+    "iata": "CDG",
+    "city": "Paris (Roissy-en-France, Val-d'Oise)",
+    "country": "FR",
+    "lat": 49.00896,
+    "lon": 2.554117,
+    "type": "large_airport",
+    "distance_km": 74.0
+   }
+  ],
+  "nearest_airport_km": 70.7,
+  "distance_beijing_km": 8118.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/873"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

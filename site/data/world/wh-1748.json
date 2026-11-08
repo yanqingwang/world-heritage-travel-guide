@@ -1,0 +1,162 @@
+{
+ "id": "wh-1748",
+ "unesco_id": "1748",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 666,
+ "popularity_score": 6827,
+ "country": "KH",
+ "country_zh": "柬埔寨",
+ "country_en": "Cambodia",
+ "countries": [
+  {
+   "iso2": "KH",
+   "zh": "柬埔寨",
+   "en": "Cambodia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "柬埔寨纪念地：从压迫中心到和平与反思之所",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1748-cambodian_memorial_sites:_from_centres_o",
+ "lat": 11.484388888,
+ "lon": 104.901969444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产由3部分组成，反映了红色高棉政权在1971–1979年对柬埔寨人权的严重践踏。这些体现彼时大范围暴行的遗址分别为：M-13监狱（前期）、吐斯廉屠杀博物馆（S-21监狱）、琼邑克杀戮场（S-21监狱刑场）。政权垮台后，这些地点得到保存并被设为纪念地。吐斯廉博物馆收藏了大量该时期档案和物品，多数来自柬埔寨法院特别法庭的记录。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property consists of three locations that reflect the human rights abuses of the Khmer Rouge regime in Cambodia from 1971 to 1979. The three component parts represent the widespread violence during this period: the former M-13 prison (early repression), the Tuol Sleng Genocide Museum (former S-21 prison), and the Choeung Ek Genocidal Center (former execution site of S-21). These places have been preserved and memorialized since the regime’s fall. The Tuol Sleng Museum maintains extensive archives and collections related to this period, mainly documented by the Extraordinary Chambers in the Courts of Cambodia (ECCC).",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buddhist%20Stupa%20at%20Choeung%20Ek%20killing%20fields%2C%20Cambodia.JPG?width=1280",
+   "title": "Buddhist Stupa at Choeung Ek killing fields, Cambodia.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddhist%20Stupa%20at%20Choeung%20Ek%20killing%20fields%2C%20Cambodia.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1748.jpg",
+   "title": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1748",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1748",
+ "transport": {
+  "airports": [
+   {
+    "name": "Techo International Airport",
+    "iata": "KTI",
+    "city": "Phnom Penh (Boeng Khyang)",
+    "country": "KH",
+    "lat": 11.359987,
+    "lon": 104.921272,
+    "type": "large_airport",
+    "distance_km": 14.0
+   },
+   {
+    "name": "Rach Gia Airport",
+    "iata": "VKG",
+    "city": "Rach Gia",
+    "country": "VN",
+    "lat": 9.95802997234,
+    "lon": 105.132379532,
+    "type": "medium_airport",
+    "distance_km": 171.6
+   },
+   {
+    "name": "Sihanouk International Airport",
+    "iata": "KOS",
+    "city": "Preah Sihanouk",
+    "country": "KH",
+    "lat": 10.570557,
+    "lon": 103.632067,
+    "type": "large_airport",
+    "distance_km": 171.9
+   }
+  ],
+  "nearest_airport_km": 14.0,
+  "distance_beijing_km": 3393.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KH",
+  "country_zh": "柬埔寨",
+  "country_en": "Cambodia",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Online Visa / Visa on arrival[6][35]",
+  "notes": "Visas valid for 30 days can be obtained on arrival or online."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KH",
+   "country_zh": "柬埔寨",
+   "country_en": "Cambodia",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Online Visa / Visa on arrival[6][35]",
+   "notes": "Visas valid for 30 days can be obtained on arrival or online."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 9
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1748"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cambodian%20Memorial%20Sites"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

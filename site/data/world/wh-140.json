@@ -1,0 +1,154 @@
+{
+ "id": "wh-140",
+ "unesco_id": "140",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 953,
+ "popularity_score": null,
+ "country": "PK",
+ "country_zh": "巴基斯坦",
+ "country_en": "Pakistan",
+ "countries": [
+  {
+   "iso2": "PK",
+   "zh": "巴基斯坦",
+   "en": "Pakistan"
+  }
+ ],
+ "region": "North West Frontier Province",
+ "subdivision_iso": "PK-KP",
+ "subdivision_zh": "",
+ "subdivision_en": "Khyber Pakhtunkhwa",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "塔克特依巴依佛教遗址和萨尔依巴赫洛古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "140-buddhist_ruins_of_takht-i-bahi_and_neigh",
+ "lat": 34.32083333,
+ "lon": 71.94583333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "塔克特依巴依（王位的起源）的佛教寺庙建筑群是于1世纪早期修建的，由于它坐落在高山的顶端，所以躲避了一次又一次的侵略，至今仍然保存完好。附近有萨尔依巴赫洛古遗迹，萨尔依巴赫洛是同一时期的一座防备森严的小城。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Buddhist monastic complex of Takht-i-Bahi (Throne of Origins) was founded in the early 1st century. Owing to its location on the crest of a high hill, it escaped successive invasions and is still exceptionally well preserved. Nearby are the ruins of Sahr-i-Bahlol, a small fortified city dating from the same period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_140.jpg",
+   "title": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/140",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/140",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bacha Khan International Airport",
+    "iata": "PEW",
+    "city": "Peshawar",
+    "country": "PK",
+    "lat": 33.9939,
+    "lon": 71.514603,
+    "type": "large_airport",
+    "distance_km": 53.8
+   },
+   {
+    "name": "Islamabad International Airport",
+    "iata": "ISB",
+    "city": "Attock",
+    "country": "PK",
+    "lat": 33.549,
+    "lon": 72.82566,
+    "type": "large_airport",
+    "distance_km": 118.1
+   },
+   {
+    "name": "Muzaffarabad Airport",
+    "iata": "MFG",
+    "city": "Muzaffarabad",
+    "country": "PK",
+    "lat": 34.338835,
+    "lon": 73.508886,
+    "type": "small_airport",
+    "distance_km": 143.5
+   }
+  ],
+  "nearest_airport_km": 53.8,
+  "distance_beijing_km": 4014.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PK",
+  "country_zh": "巴基斯坦",
+  "country_en": "Pakistan",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Free eVisa[107][108]",
+  "notes": "Online Visa eligible.[109] Issued in 7-10 business days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PK",
+   "country_zh": "巴基斯坦",
+   "country_en": "Pakistan",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Free eVisa[107][108]",
+   "notes": "Online Visa eligible.[109] Issued in 7-10 business days."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/140"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

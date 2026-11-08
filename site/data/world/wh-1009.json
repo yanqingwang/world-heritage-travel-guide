@@ -1,0 +1,162 @@
+{
+ "id": "wh-1009",
+ "unesco_id": "1009",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 571,
+ "popularity_score": 10690,
+ "country": "BE",
+ "country_zh": "比利时",
+ "country_en": "Belgium",
+ "countries": [
+  {
+   "iso2": "BE",
+   "zh": "比利时",
+   "en": "Belgium"
+  }
+ ],
+ "region": "Province of Hainaut, Wallonia Region",
+ "subdivision_iso": "BE-WHT",
+ "subdivision_zh": "埃诺省",
+ "subdivision_en": "Hainaut",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "图尔奈圣母大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Notre-Dame Cathedral in Tournai",
+ "name_local": "Cathédrale Notre-Dame de Tournai",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1009-notre-dame_cathedral_in_tournai",
+ "lat": 50.606502,
+ "lon": 3.388903,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "图尔奈圣母大教堂建于12世纪上半叶，因其罗马式的中厅、柱头上的大量雕塑以及上有五座塔楼的耳堂而显得与众不同。耳堂上的那五座塔楼均为哥特式艺术风格的先驱，后重建于13世纪的高坛则是纯粹的哥特式风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Cathedral of Notre-Dame in Tournai was built in the first half of the 12th century. It is especially distinguished by a Romanesque nave of extraordinary dimensions, a wealth of sculpture on its capitals and a transept topped by five towers, all precursors of the Gothic style. The choir, rebuilt in the 13th century, is in the pure Gothic style.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Edifiée dans la première moitié du XIIe siècle, la cathédrale de Tournai se distingue par une nef romane d'une ampleur exceptionnelle, par la grande richesse sculpturale de ses chapiteaux et par un transept chargé de cinq tours annonciatrices de l'art gothique. Reconstruit au XIIIe siècle, le chœur est de pur style gothique.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tournai%20pan.jpg?width=1280",
+   "title": "Tournai pan.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tournai%20pan.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1009.jpg",
+   "title": "Notre-Dame Cathedral in Tournai",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1009",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1009",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lille Airport",
+    "iata": "LIL",
+    "city": "Lesquin",
+    "country": "FR",
+    "lat": 50.566564,
+    "lon": 3.102429,
+    "type": "large_airport",
+    "distance_km": 20.7
+   },
+   {
+    "name": "Ostend-Bruges International Airport",
+    "iata": "OST",
+    "city": "Oostende",
+    "country": "BE",
+    "lat": 51.1998,
+    "lon": 2.874673,
+    "type": "large_airport",
+    "distance_km": 75.2
+   },
+   {
+    "name": "Brussels South Charleroi Airport",
+    "iata": "CRL",
+    "city": "Charleroi",
+    "country": "BE",
+    "lat": 50.461963,
+    "lon": 4.459562,
+    "type": "large_airport",
+    "distance_km": 77.4
+   }
+  ],
+  "nearest_airport_km": 20.7,
+  "distance_beijing_km": 8042.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BE",
+  "country_zh": "比利时",
+  "country_en": "Belgium",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BE",
+   "country_zh": "比利时",
+   "country_en": "Belgium",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1009"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tournai%20Cathedral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

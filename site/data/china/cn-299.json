@@ -1,0 +1,145 @@
+{
+ "id": "cn-299",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "四川省",
+ "province_en": "Sichuan",
+ "province_iso": "CN-SC",
+ "city_zh": "绵阳市",
+ "city_en": "Mianyang",
+ "name_zh": "绵阳市羌城旅游区",
+ "name_en": "Mianyangshiqiangcheng Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "mianyangshiqiangcheng-299",
+ "lat": 31.819425,
+ "lon": 104.456375,
+ "address_zh": "绵阳市北川羌族自治县任家坪村",
+ "address_en": "Renjiaping Village, Beichuan Qiang Autonomous County, Mianyang City",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "旅游区位于四川盆地西北部北川羌族自治县，由北川地震遗址区、北川新县城，北川地震纪念馆、北川羌族民俗博物馆、吉娜羌寨、维斯特游客中心等景点组成。旅游区位于绵阳市北川羌族自治县境内，由地震纪念地、大爱文化观赏区和禹羌文化体验区三大部分组成，总面积6.01平方公里。",
+ "intro_en": "The tourist area is located in Beichuan Qiang Autonomous County in the northwest of the Sichuan Basin. It consists of Beichuan Earthquake Site Area, Beichuan New County, Beichuan Earthquake Memorial Hall, Beichuan Qiang Folk Museum, Jina Qiang Village, West Visitor Center and other attractions. The tourist area is located in Beichuan Qiang Autonomous County, Mianyang City. It consists of three parts: the earthquake memorial site, the Da'ai cultural viewing area and the Yu and Qiang cultural experience area, with a total area of ​​6.01 square kilometers.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mianyang Nanjiao Airport",
+    "iata": "MIG",
+    "city": "Mianyang (Fucheng)",
+    "country": "CN",
+    "lat": 31.428101,
+    "lon": 104.740997,
+    "type": "medium_airport",
+    "distance_km": 51.2
+   },
+   {
+    "name": "Guangyuan Panlong Airport",
+    "iata": "GYS",
+    "city": "Guangyuan (Lizhou)",
+    "country": "CN",
+    "lat": 32.390254,
+    "lon": 105.694571,
+    "type": "medium_airport",
+    "distance_km": 132.8
+   },
+   {
+    "name": "Jiuzhai Huanglong Airport",
+    "iata": "JZH",
+    "city": "Ngawa (Songpan)",
+    "country": "CN",
+    "lat": 32.853333,
+    "lon": 103.682222,
+    "type": "medium_airport",
+    "distance_km": 136.0
+   }
+  ],
+  "nearest_airport_km": 51.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "青莲",
+    "name_en": "Qinglian",
+    "lat": 31.6734997,
+    "lon": 104.6992692,
+    "distance_km": 28.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "三合场",
+    "name_en": "Sanhechang",
+    "lat": 31.7350121,
+    "lon": 104.7430303,
+    "distance_km": 28.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "江油",
+    "name_en": "Jiangyou",
+    "lat": 31.783437,
+    "lon": 104.767541,
+    "distance_km": 29.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "北川国防宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.6194879,
+   "lon": 104.4672372,
+   "distance_km": 22.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "新北川宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.6129704,
+   "lon": 104.4649568,
+   "distance_km": 23.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

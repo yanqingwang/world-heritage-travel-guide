@@ -1,0 +1,178 @@
+{
+ "id": "cn-1406",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "湖州市",
+ "city_en": "Huzhou City",
+ "name_zh": "湖州市南浔古镇景区",
+ "name_en": "Huzhoushinanxunguzhen Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "huzhoushinanxunguzhen-1406",
+ "lat": 30.874788,
+ "lon": 120.437508,
+ "address_zh": "浙江省湖州市南浔区人瑞路51号",
+ "address_en": "No. 51, Renrui Road, Nanxun District, Huzhou City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "南浔是一个人文资源充足、中西建筑合璧的江南古镇。古镇内众多的名胜古迹与水乡自然风光和谐统一，既充满着浓郁的历史文化底蕴和灵气，又洋溢着江南水乡诗画一般的神韵，成为江浙地区居民休闲、度假、疗养、观光游览的胜地。",
+ "intro_en": "Nanxun is an ancient town in the south of the Yangtze River with abundant human resources and a combination of Chinese and Western architecture. The numerous scenic spots and historic sites in the ancient town are harmoniously integrated with the natural scenery of the water town. It is not only full of rich historical and cultural heritage and aura, but also filled with the charm of Jiangnan water town poetry and painting. It has become a resort for residents in Jiangsu and Zhejiang areas for leisure, vacation, recuperation, and sightseeing.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jiaxing Nanhu Airport",
+    "iata": "JNH",
+    "city": "Xiuzhou, Hangzhou",
+    "country": "CN",
+    "lat": 30.698056,
+    "lon": 120.663056,
+    "type": "medium_airport",
+    "distance_km": 29.2
+   },
+   {
+    "name": "Sunan Shuofang International Airport",
+    "iata": "WUX",
+    "city": "Wuxi",
+    "country": "CN",
+    "lat": 31.496952,
+    "lon": 120.43038,
+    "type": "large_airport",
+    "distance_km": 69.2
+   },
+   {
+    "name": "Hangzhou Xiaoshan International Airport",
+    "iata": "HGH",
+    "city": "Hangzhou",
+    "country": "CN",
+    "lat": 30.23609,
+    "lon": 120.428865,
+    "type": "large_airport",
+    "distance_km": 71.0
+   }
+  ],
+  "nearest_airport_km": 29.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "湖州南浔",
+    "name_en": null,
+    "lat": 30.8298372,
+    "lon": 120.4030372,
+    "distance_km": 6.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "震泽",
+    "name_en": null,
+    "lat": 30.8788851,
+    "lon": 120.5103722,
+    "distance_km": 7.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "漾南",
+    "name_en": null,
+    "lat": 30.8500931,
+    "lon": 120.3360534,
+    "distance_km": 10.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "南浔希尔顿",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 30.8449871,
+   "lon": 120.4493916,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "希尔顿酒店",
+   "name_en": "Hilton Huzhou Nanxun",
+   "stars": null,
+   "brand": null,
+   "lat": 30.8496807,
+   "lon": 120.4182512,
+   "distance_km": 3.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "嘉兴希尔顿逸林酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.7712138,
+   "lon": 120.6931415,
+   "distance_km": 27.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "江南庭院酒店",
+   "name_en": "Jiangnan Garden Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.8756087,
+   "lon": 120.428368,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9531713,
+   "lon": 120.3760992,
+   "distance_km": 10.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 21,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

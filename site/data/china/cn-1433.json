@@ -1,0 +1,201 @@
+{
+ "id": "cn-1433",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "宁夏回族自治区",
+ "province_en": "Ningxia",
+ "province_iso": "CN-NX",
+ "city_zh": "银川市",
+ "city_en": "Yinchuan",
+ "name_zh": "银川市宁夏镇北堡西部影视城",
+ "name_en": "Yingshicheng",
+ "name_en_source": "pinyin",
+ "slug": "yinchuanshiningxiazhenbeibaoxibuyingshicheng-1433",
+ "lat": 38.623035,
+ "lon": 106.074791,
+ "address_zh": "宁夏回族自治区银川市西夏区镇北堡镇",
+ "address_en": "Beibao Town, Xixia District, Yinchuan City, Ningxia Hui Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "镇北堡西部影城位于宁夏回族自治区银川市，是集观光、娱乐、休闲、餐饮、购物于一体的国家5A级旅游景区。镇北堡西部影城以其古朴、原始、粗犷、荒凉、民间化为特色，主要景点有明城、清城、老银川一条街等，曾被评为“中国最受欢迎旅游目的地”，是中国十大影视基地之一。电影《大话西游》、《新龙门客栈》、《红高粱》等都曾在此取景。",
+ "intro_en": "Zhenbeibao Western Cinema is located in Yinchuan City, Ningxia Hui Autonomous Region. It is a national 5A tourist attraction integrating sightseeing, entertainment, leisure, catering and shopping. Zhenbeibao Western Cinema is characterized by its simplicity, primitiveness, roughness, desolation and folk culture. Its main attractions include Mingcheng, Qingcheng, Old Yinchuan Street, etc. It has been rated as \"China's most popular tourist destination\" and is one of the top ten film and television bases in China. The movies \"Westward Journey\", \"New Dragon Gate Inn\", \"Red Sorghum\", etc. have all been shot here.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "http://www.chinawfs.com/index",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yinchuan Hedong International Airport",
+    "iata": "INC",
+    "city": "Yinchuan",
+    "country": "CN",
+    "lat": 38.322758,
+    "lon": 106.393214,
+    "type": "large_airport",
+    "distance_km": 43.4
+   },
+   {
+    "name": "Alxa Left Banner Bayanhot Airport",
+    "iata": "AXF",
+    "city": "Bayanhot",
+    "country": "CN",
+    "lat": 38.748317,
+    "lon": 105.58416,
+    "type": "medium_airport",
+    "distance_km": 44.8
+   },
+   {
+    "name": "Zhongwei Shapotou Airport",
+    "iata": "ZHY",
+    "city": "Zhongwei (Shapotou)",
+    "country": "CN",
+    "lat": 37.573125,
+    "lon": 105.154454,
+    "type": "medium_airport",
+    "distance_km": 141.8
+   }
+  ],
+  "nearest_airport_km": 43.4,
+  "high_speed_stations": [
+   {
+    "name": "银川",
+    "name_en": "Yinchuan",
+    "lat": 38.4916812,
+    "lon": 106.1686188,
+    "distance_km": 16.7,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "沙湖",
+    "name_en": null,
+    "lat": 38.7833022,
+    "lon": 106.3023987,
+    "distance_km": 26.6,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "芦花台",
+    "name_en": null,
+    "lat": 38.6121235,
+    "lon": 106.2055206,
+    "distance_km": 11.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "暖泉",
+    "name_en": "Nuanquan",
+    "lat": 38.740072,
+    "lon": 106.2696479,
+    "distance_km": 21.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "银川南",
+    "name_en": "Yinchuannan",
+    "lat": 38.4024631,
+    "lon": 106.113578,
+    "distance_km": 24.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 38.4907114,
+   "lon": 106.1567628,
+   "distance_km": 16.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "麗枫酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.4907225,
+   "lon": 106.1548384,
+   "distance_km": 16.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "國際交流中心",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.5108283,
+   "lon": 106.2085124,
+   "distance_km": 17.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "iu hotel",
+   "name_en": "iu hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.4904109,
+   "lon": 106.1847231,
+   "distance_km": 17.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Golden bay hotel",
+   "name_en": "Golden bay hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.4902241,
+   "lon": 106.1897235,
+   "distance_km": 17.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 12,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/影视城"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

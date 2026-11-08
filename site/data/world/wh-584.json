@@ -1,0 +1,162 @@
+{
+ "id": "wh-584",
+ "unesco_id": "584",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 705,
+ "popularity_score": 5578,
+ "country": "FI",
+ "country_zh": "芬兰",
+ "country_en": "Finland",
+ "countries": [
+  {
+   "iso2": "FI",
+   "zh": "芬兰",
+   "en": "Finland"
+  }
+ ],
+ "region": "Petäjävesi, Region of Central Finland, Province of Western Finland",
+ "subdivision_iso": "FI-08",
+ "subdivision_zh": "中芬蘭區",
+ "subdivision_en": "Central Finland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "佩泰耶韦西老教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Petäjävesi Old Church",
+ "name_local": "Petäjäveden vanha kirkko",
+ "local_lang": "fi",
+ "local_lang_name": "Finnish",
+ "slug": "584-petäjävesi_old_church",
+ "lat": 62.2501367,
+ "lon": 25.1839449,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "佩泰耶韦西老教堂位于芬兰中部，建于1763至1765年，完全由原木建成。这个教堂是路德教派国家特有的教堂，体现了斯堪的纳维亚东部地区独特的传统建筑风格，把文艺复兴时期的中央教堂风格与源于哥特式建筑的穹形天花板特色和谐地结合在一起。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Petäjävesi Old Church, in central Finland, was built of logs between 1763 and 1765. This Lutheran country church is a typical example of an architectural tradition that is unique to eastern Scandinavia. It combines the Renaissance conception of a centrally planned church with older forms deriving from Gothic groin vaults.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Petäjäveden vanha kirkko on vuosina 1763–1764 rakennettu puukirkko Petäjäveden nykyisessä keskustaajamassa. Vanha kirkko on säilyttänyt alkuperäisen ulkoasunsa ja sisustuksensa poikkeuksellisen hyvin ja se kuuluu Unescon maailmanperintöluetteloon. Se on nykyään suosittu vihkikirkko, ja kesäsunnuntaisin siellä pidetään jumalanpalveluksia. Siihen liittyy vuonna 1821 rakennettu kellotorni. Kirkko jäi käytöstä vuonna 1879, kun seurakunnan uusi kirkko valmistui.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pet%C3%A4j%C3%A4vesi%20Old%20Church%202018.jpg?width=1280",
+   "title": "Petäjävesi Old Church 2018.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pet%C3%A4j%C3%A4vesi%20Old%20Church%202018.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_584.jpg",
+   "title": "Petäjävesi Old Church",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/584",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/584",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jyväskylä Airport",
+    "iata": "JYV",
+    "city": "Jyväskylän Maalaiskunta",
+    "country": "FI",
+    "lat": 62.399502,
+    "lon": 25.678301,
+    "type": "medium_airport",
+    "distance_km": 30.5
+   },
+   {
+    "name": "Tampere-Pirkkala Airport",
+    "iata": "TMP",
+    "city": "Tampere / Pirkkala",
+    "country": "FI",
+    "lat": 61.414101,
+    "lon": 23.604401,
+    "type": "large_airport",
+    "distance_km": 124.6
+   },
+   {
+    "name": "Kuopio Airport",
+    "iata": "KUO",
+    "city": "Kuopio / Siilinjärvi",
+    "country": "FI",
+    "lat": 63.007099,
+    "lon": 27.7978,
+    "type": "large_airport",
+    "distance_km": 157.9
+   }
+  ],
+  "nearest_airport_km": 30.5,
+  "distance_beijing_km": 6182.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FI",
+  "country_zh": "芬兰",
+  "country_en": "Finland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FI",
+   "country_zh": "芬兰",
+   "country_en": "Finland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fi",
+  "local_lang_name": "Finnish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/584"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pet%C3%A4j%C3%A4vesi%20Old%20Church"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

@@ -1,0 +1,158 @@
+{
+ "id": "wh-1412",
+ "unesco_id": "1412",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 834,
+ "popularity_score": 1620,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "CA-NL",
+ "subdivision_zh": "纽芬兰-拉布拉多省",
+ "subdivision_en": "Newfoundland and Labrador",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "红湾巴斯克捕鲸站",
+ "name_zh_source": "curated",
+ "name_en": "Red Bay Basque Whaling Station",
+ "name_local": "Station baleinière basque de Red Bay",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1412-red_bay_basque_whaling_station",
+ "lat": 51.726916666,
+ "lon": -56.429527777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2013",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "红湾由巴斯克水手于 16 世纪在加拿大东北端贝尔岛海峡沿岸建立，是一处考古遗址，提供了欧洲捕鲸传统最早、最完整、保存最完好的见证。大巴亚（Gran Baya）被 1530 年代建立该站的人称为“大巴亚”（Gran Baya），曾被用作沿海狩猎、屠宰、通过生产石油和储存来提炼鲸鱼脂肪的基地。它成为鲸油的主要来源，鲸油被运往欧洲用于照明。该遗址曾在夏季使用，包括炼油炉、制桶厂、码头、临时居住区和墓地的遗迹，以及水下船只和鲸骨沉积物的遗迹。该站使用了大约 70 年，直到当地鲸鱼数量耗尽。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Red Bay, established by Basque mariners in the 16th century at the north-eastern tip of Canada on the shore of the Strait of Belle Isle is an archaeological site that provides the earliest, most complete and best preserved testimony of the European whaling tradition. Gran Baya, as it was called by those who founded the station in 1530s, was used as a base for coastal hunting, butchering, rendering of whale fat by heading to produce oil and storage. It became a major source of whale oil which was shipped to Europe where it was used for lighting. The site, which was used in the summer months, includes remains of rendering ovens, cooperages, wharves, temporary living quarters and a cemetery, together with underwater remains of vessels and whale bone deposits. The station was used for some 70 years, before the local whale population was depleted.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Red Bay, installée par des marins basques au XVIe siècle sur les rives du détroit de Belle-Isle, est un site archéologique qui constitue le témoignage le plus ancien et le plus complet de la tradition européenne de la chasse à la baleine. Gran Baya – le nom donné par les fondateurs en 1530 – servait de base à la chasse côtière, au dépeçage, à l’extraction de l’huile et à son stockage. Vendue en Europe, l’huile était la principale source d’éclairage. Le site, qui n’était habité que pendant l’été, comprend des vestiges de fourneaux (fondoirs), d’ateliers d’assemblage de tonneaux, d’un wharf, de bâtiments d’habitation, d’un cimetière, ainsi que des vestiges sous-marins (épaves de bateaux et ossuaires de baleines). L’endroit a servi pendant près de 70 ans avant que la population locale de baleines ne s’effondre.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/RedBayNL%20BasqueChalupa.JPG?width=1280",
+   "title": "RedBayNL BasqueChalupa.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:RedBayNL%20BasqueChalupa.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1412.jpg",
+   "title": "Red Bay Basque Whaling Station",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1412",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1412",
+ "transport": {
+  "airports": [
+   {
+    "name": "St. Anthony Airport",
+    "iata": "YAY",
+    "city": "St. Anthony",
+    "country": "CA",
+    "lat": 51.391909,
+    "lon": -56.08321,
+    "type": "medium_airport",
+    "distance_km": 44.3
+   },
+   {
+    "name": "Lourdes-de-Blanc-Sablon Airport",
+    "iata": "YBX",
+    "city": "Blanc-Sablon",
+    "country": "CA",
+    "lat": 51.4436,
+    "lon": -57.185299,
+    "type": "medium_airport",
+    "distance_km": 61.0
+   },
+   {
+    "name": "Mary's Harbour Airport",
+    "iata": "YMH",
+    "city": "Mary's Harbour",
+    "country": "CA",
+    "lat": 52.302837,
+    "lon": -55.847433,
+    "type": "small_airport",
+    "distance_km": 75.4
+   }
+  ],
+  "nearest_airport_km": 44.3,
+  "distance_beijing_km": 9819.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1412"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red%20Bay%20National%20Historic%20Site"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

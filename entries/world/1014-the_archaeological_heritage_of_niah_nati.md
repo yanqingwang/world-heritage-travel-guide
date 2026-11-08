@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(v)"
 lat: 3.813889
 lon: 113.781389
-updated_at: "2026-11-08T12:18:58Z"
+updated_at: "2026-11-08T14:52:38Z"
 ---
 
 # 尼亚国家公园洞穴考古遗产 / The Archaeological Heritage of Niah National Park’s Caves Complex

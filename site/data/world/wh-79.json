@@ -1,0 +1,162 @@
+{
+ "id": "wh-79",
+ "unesco_id": "79",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1160,
+ "popularity_score": null,
+ "country": "CY",
+ "country_zh": "塞浦路斯",
+ "country_en": "Cyprus",
+ "countries": [
+  {
+   "iso2": "CY",
+   "zh": "塞浦路斯",
+   "en": "Cyprus"
+  }
+ ],
+ "region": "District of Paphos",
+ "subdivision_iso": "CY-05",
+ "subdivision_zh": "",
+ "subdivision_en": "Cyprus",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "帕福斯",
+ "name_zh_source": "unesco_official",
+ "name_en": "Paphos",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "79-paphos",
+ "lat": 34.75833,
+ "lon": 32.40556,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "帕福斯自新石器时代就有人类居住，是一个崇拜阿芙罗狄蒂(Aphrodite)和前希腊生育诸神的中心。传说阿芙罗狄蒂就诞生在这个岛上。公元前12世纪迈锡尼人在这里为她建造了庙宇。这里的别墅、宫殿、剧院、要塞和墓地遗迹都表明这个遗址具有非凡的建筑和历史价值。新帕福斯的马赛克图案是世界上最美丽的图案之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Paphos has been inhabited since the Neolithic period. It was a centre of the cult of Aphrodite and of pre-Hellenic fertility deities. Aphrodite's legendary birthplace was on this island, where her temple was erected by the Myceneans in the 12th century B.C. The remains of villas, palaces, theatres, fortresses and tombs mean that the site is of exceptional architectural and historic value. The mosaics of Nea Paphos are among the most beautiful in the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tombs%20of%20the%20Kings%20Paphos%20Cyprus%2017.jpg?width=1280",
+   "title": "Tombs of the Kings Paphos Cyprus 17.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tombs%20of%20the%20Kings%20Paphos%20Cyprus%2017.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_79.jpg",
+   "title": "Paphos",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/79",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/79",
+ "transport": {
+  "airports": [
+   {
+    "name": "Paphos International Airport",
+    "iata": "PFO",
+    "city": "Paphos",
+    "country": "CY",
+    "lat": 34.717999,
+    "lon": 32.485699,
+    "type": "large_airport",
+    "distance_km": 8.6
+   },
+   {
+    "name": "Ercan International Airport",
+    "iata": "ECN",
+    "city": "Tymbou (Kirklar)",
+    "country": "CY",
+    "lat": 35.153064,
+    "lon": 33.507352,
+    "type": "large_airport",
+    "distance_km": 109.6
+   },
+   {
+    "name": "Larnaca International Airport",
+    "iata": "LCA",
+    "city": "Larnaca",
+    "country": "CY",
+    "lat": 34.875099,
+    "lon": 33.624901,
+    "type": "large_airport",
+    "distance_km": 112.1
+   }
+  ],
+  "nearest_airport_km": 8.6,
+  "distance_beijing_km": 7166.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CY",
+  "country_zh": "塞浦路斯",
+  "country_en": "Cyprus",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of valid double or multiple entry Schengen visa, as well as residence permits issued by Schengen Member States are not required to hold a short-stay visa to enter the Republic of Cyprus for a time period that does not exceed 90 days in any 180 day period.[44]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CY",
+   "country_zh": "塞浦路斯",
+   "country_en": "Cyprus",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of valid double or multiple entry Schengen visa, as well as residence permits issued by Schengen Member States are not required to hold a short-stay visa to enter the Republic of Cyprus for a time period that does not exceed 90 days in any 180 day period.[44]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/79"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

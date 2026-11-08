@@ -1,0 +1,154 @@
+{
+ "id": "wh-931",
+ "unesco_id": "931",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1193,
+ "popularity_score": null,
+ "country": "AT",
+ "country_zh": "奥地利",
+ "country_en": "Austria",
+ "countries": [
+  {
+   "iso2": "AT",
+   "zh": "奥地利",
+   "en": "Austria"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "格拉茨城历史中心与埃根博格城堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "City of Graz – Historic Centre and Schloss Eggenberg",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "931-city_of_graz_–_historic_centre_and_schlo",
+ "lat": 47.074166666667,
+ "lon": 15.391666666667,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "格拉茨城作为一家展现中欧城市区域的文化遗产单位，格拉茨依然富有活力，堪称文化遗产的典范。格拉茨城于 1999年列入《世界遗产名录》。此次扩展增加了格拉茨城历史中心以西约三公里的埃根博格城堡。1625年，埃根博格城堡在奥地利17世纪最有影响的政治人物汉斯•乌尔里希•冯•埃根博格公爵（1568年至1634年）原有城堡的基础上开始兴建。城堡的建筑保存极其完好，建筑风格和内部装饰体现了意大利文艺复兴时代晚期以及巴洛克时期的影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The City of Graz – Historic Centre and Schloss Eggenberg bear witness to an exemplary model of the living heritage of a central European urban complex influenced by the secular presence of the Habsburgs and the cultural and artistic role played by the main aristocratic families. They are a harmonious blend of the architectural styles and artistic movements that have succeeded each other from the Middle Ages until the 18th century, from the many neighbouring regions of Central and Mediterranean Europe. They embody a diversified and highly comprehensive ensemble of architectural, decorative and landscape examples of these interchanges of influence.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_931.jpg",
+   "title": "City of Graz – Historic Centre and Schloss Eggenberg",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/931",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/931",
+ "transport": {
+  "airports": [
+   {
+    "name": "Graz Airport",
+    "iata": "GRZ",
+    "city": "Feldkirchen bei Graz",
+    "country": "AT",
+    "lat": 46.9911,
+    "lon": 15.4396,
+    "type": "large_airport",
+    "distance_km": 9.9
+   },
+   {
+    "name": "Maribor Edvard Rusjan Airport",
+    "iata": "MBX",
+    "city": "Maribor",
+    "country": "SI",
+    "lat": 46.4799,
+    "lon": 15.6861,
+    "type": "medium_airport",
+    "distance_km": 69.8
+   },
+   {
+    "name": "Klagenfurt Airport",
+    "iata": "KLU",
+    "city": "Klagenfurt am Wörthersee",
+    "country": "AT",
+    "lat": 46.642502,
+    "lon": 14.3377,
+    "type": "large_airport",
+    "distance_km": 93.4
+   }
+  ],
+  "nearest_airport_km": 9.9,
+  "distance_beijing_km": 7593.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AT",
+  "country_zh": "奥地利",
+  "country_en": "Austria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AT",
+   "country_zh": "奥地利",
+   "country_en": "Austria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/931"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

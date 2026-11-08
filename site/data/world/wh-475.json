@@ -1,0 +1,152 @@
+{
+ "id": "wh-475",
+ "unesco_id": "475",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 781,
+ "popularity_score": 3629,
+ "country": "CF",
+ "country_zh": "中非共和国",
+ "country_en": "Central African Republic",
+ "countries": [
+  {
+   "iso2": "CF",
+   "zh": "中非共和国",
+   "en": "Central African Republic"
+  }
+ ],
+ "region": "Bamingui-Bangoran",
+ "subdivision_iso": "CF-BB",
+ "subdivision_zh": "巴明吉-班戈兰省",
+ "subdivision_en": "Bamingui-Bangoran Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马诺沃贡达圣绅罗里斯国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Manovo-Gounda St Floris National Park",
+ "name_local": "Parc national du Manovo-Gounda St Floris",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "475-manovo-gounda_st_floris_national_park",
+ "lat": 8.5,
+ "lon": 21.5,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1988",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "这个国家公园的重要性在于其丰富的动植物物种。公园广阔的大草原是许多物种的家园：黑犀牛、大象、印度豹、美洲豹、野狗、瞪羚、野牛等，而在公园北部的沼泽地则栖息着各种各样的水禽。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The importance of this park derives from its wealth of flora and fauna. Its vast savannahs are home to a wide variety of species: black rhinoceroses, elephants, cheetahs, leopards, wild dogs, red-fronted gazelles and buffalo, while various types of waterfowl are to be found in the northern floodplains.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "L'importance de ce parc tient à la richesse de sa flore et de sa faune. Ses vastes savanes abritent des espèces de mammifères très variées : rhinocéros noirs, éléphants, guépards, léopards, chiens sauvages, gazelles à front roux, buffles, et différents types d'oiseaux aquatiques qui trouvent un habitat dans les plaines d'inondation du Nord.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manovo.jpg?width=1280",
+   "title": "Manovo.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Manovo.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_475.jpg",
+   "title": "Manovo-Gounda St Floris National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/475",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/475",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gbadolite Airport",
+    "iata": "BDT",
+    "city": "Gbadolite",
+    "country": "CD",
+    "lat": 4.252745,
+    "lon": 20.975271,
+    "type": "medium_airport",
+    "distance_km": 475.8
+   },
+   {
+    "name": "Nyala Airport",
+    "iata": "UYL",
+    "city": "Nyala",
+    "country": "SD",
+    "lat": 12.0535,
+    "lon": 24.9562,
+    "type": "medium_airport",
+    "distance_km": 546.9
+   }
+  ],
+  "nearest_airport_km": 475.8,
+  "distance_beijing_km": 10178.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CF",
+  "country_zh": "中非共和国",
+  "country_en": "Central African Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CF",
+   "country_zh": "中非共和国",
+   "country_en": "Central African Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 53
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/475"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manovo-Gounda%20St.%20Floris%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

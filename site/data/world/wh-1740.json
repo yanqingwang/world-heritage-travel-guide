@@ -1,0 +1,162 @@
+{
+ "id": "wh-1740",
+ "unesco_id": "1740",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 774,
+ "popularity_score": 3754,
+ "country": "KR",
+ "country_zh": "大韩民国",
+ "country_en": "South Korea",
+ "countries": [
+  {
+   "iso2": "KR",
+   "zh": "大韩民国",
+   "en": "South Korea"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "盘龟川岩刻画",
+ "name_zh_source": "unesco_official",
+ "name_en": "Petroglyphs along the Bangucheon Stream",
+ "name_local": "반구천의 암각화",
+ "local_lang": "ko",
+ "local_lang_name": "Korean",
+ "slug": "1740-petroglyphs_along_the_bangucheon_stream",
+ "lat": 35.60845,
+ "lon": 129.173997222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产临近韩国东南海岸，位于盘龟川沿岸长约3公里的层状断崖地带，包括大谷里和川前里2处重要岩刻画遗址。岩面密集分布着历代使用石器与金属工具雕刻而成的图画，创作年代从公元前5千年延续至公元9世纪。其题材丰富多样，反映了史前时期和历史时期的文化表达。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property is located along the Bangucheon Stream on the Republic of Korea’s southeastern coast, spanning about three kilometers through a landscape of stratified cliffs. It features two significant rock art sites: the Daegok-ri and Cheonjeon-ri Petroglyphs. These panels contain dense concentrations of engravings created by successive generations from 5,000 BCE to the 9th century CE. Carved using stone and metal tools, the petroglyphs depict a wide range of imagery and reflect both prehistoric and historic cultural expressions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "반구천의 암각화는 대한민국 울산광역시 울주군 대곡천 일대의 선사 시대 암각화 유적 2기를 일컫는 말로, 2025년 대한민국의 17번째 유네스코 세계유산에 등재되었다. 이 일대에는 기원전 5000년부터 9세기경에 걸쳐 새겨진 암각화가 밀집되어 있으며, 석기나 금속기를 이용하여 새겨진 것으로 추정된다. 암각화는 선사 시대에서 역사 시대에 이르는 시간동안 새겨져왔다. 2025년 유네스코는 \"뛰어난 관찰력을 바탕으로 그려진 사실적인 그림과 독특한 구도는 한반도에 살았던 사람들의 예술성을 보여주며, 다양한 고래와 포경의 주요 단계를 담은 희귀한 주제를 선사시대 사람들의 창의성으로 풀어낸 걸작\"이라고 평가했다. 또한 \"선사시대부터 약 6000년간 이어진 암각화의 전통을 증명하는 독보적인 증거이자, 한반도 남동부 해안 지역 사람들의 문화 발전을 집약적으로 보여준다\"고 평가했다.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangudae%20Petroglyphs.jpg?width=1280",
+   "title": "Bangudae Petroglyphs.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bangudae%20Petroglyphs.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1740.jpg",
+   "title": "Petroglyphs along the Bangucheon Stream",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1740",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1740",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ulsan Airport",
+    "iata": "USN",
+    "city": "Ulsan",
+    "country": "KR",
+    "lat": 35.59349823,
+    "lon": 129.352005005,
+    "type": "medium_airport",
+    "distance_km": 16.2
+   },
+   {
+    "name": "Pohang Airport (G-815/K-3)",
+    "iata": "KPO",
+    "city": "Pohang",
+    "country": "KR",
+    "lat": 35.987955,
+    "lon": 129.420383,
+    "type": "medium_airport",
+    "distance_km": 47.7
+   },
+   {
+    "name": "Gimhae International Airport",
+    "iata": "PUS",
+    "city": "Busan",
+    "country": "KR",
+    "lat": 35.179501,
+    "lon": 128.938004,
+    "type": "large_airport",
+    "distance_km": 52.3
+   }
+  ],
+  "nearest_airport_km": 16.2,
+  "distance_beijing_km": 1225.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KR",
+  "country_zh": "大韩民国",
+  "country_en": "South Korea",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "Visa not required for direct or transit visitors to Jeju Island up to 30 days.[73] Visa not required for 30 days as a transit tourist (category B-2) to or from the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Cyprus and 29 Schengen member states. They must hold an onwa"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KR",
+   "country_zh": "大韩民国",
+   "country_en": "South Korea",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "Visa not required for direct or transit visitors to Jeju Island up to 30 days.[73] Visa not required for 30 days as a transit tourist (category B-2) to or from the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Cyprus and 29 Schengen member states. They must hold an onwa"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ko",
+  "local_lang_name": "Korean",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1740"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

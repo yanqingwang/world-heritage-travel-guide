@@ -1,0 +1,162 @@
+{
+ "id": "wh-1005",
+ "unesco_id": "1005",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 676,
+ "popularity_score": 6494,
+ "country": "BE",
+ "country_zh": "比利时",
+ "country_en": "Belgium",
+ "countries": [
+  {
+   "iso2": "BE",
+   "zh": "比利时",
+   "en": "Belgium"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BE-BRU",
+ "subdivision_zh": "布鲁塞尔首都大区",
+ "subdivision_en": "Brussels-Capital Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "建筑师维克多•奥尔塔设计的主要城市建筑(布鲁塞尔)",
+ "name_zh_source": "unesco_official",
+ "name_en": "Major Town Houses of the Architect Victor Horta (Brussels)",
+ "name_local": "Habitations majeures de l'architecte Victor Horta (Bruxelles)",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1005-major_town_houses_of_the_architect_victo",
+ "lat": 50.81666667,
+ "lon": 4.35,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在布鲁塞尔，有四座出自设计名师、“新艺术运动”(Art Nouveau)最早发起人之一维克多·奥尔塔(Victor Horta)之手的建筑，它们分别是塔塞尔公馆(Hôtel Tassel)、索勒维公馆(Hôtel Solvay)、埃特维尔德公馆(Hôtel van Eetvelde)和奥尔塔公馆(Maison & Atelier Horta)。这四座建筑是19世纪末欧洲建筑中的先锋之作。这些建筑所代表的风格革命的特点在于开放式布局、漫射的光线和装饰曲线与建筑结构的完美结合。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The four major town houses - Hôtel Tassel, Hôtel Solvay, Hôtel van Eetvelde, and Maison & Atelier Horta - located in Brussels and designed by the architect Victor Horta, one of the earliest initiators of Art Nouveau, are some of the most remarkable pioneering works of architecture of the end of the 19th century. The stylistic revolution represented by these works is characterised by their open plan, the diffusion of light, and the brilliant joining of the curved lines of decoration with the structure of the building.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Les quatre habitations majeures – l'Hôtel Tassel, l'Hôtel Solvay, l'Hôtel van Eetvelde et la maison et l'atelier de Horta – situées à Bruxelles et conçues par l'architecte Victor Horta, l'un des initiateurs de l'Art nouveau, font partie des œuvres d'architecture novatrices les plus remarquables de la fin du XIXe siècle. La révolution stylistique qu'illustrent ces œuvres se caractérise par le plan ouvert, la diffusion de la lumière et la brillante intégration des lignes courbes de la décoration à la structure du bâtiment.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tassel%20House%20stairway.JPG?width=1280",
+   "title": "Tassel House stairway.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tassel%20House%20stairway.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1005.jpg",
+   "title": "Major Town Houses of the Architect Victor Horta (Brussels)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1005",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1005",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brussels Airport",
+    "iata": "BRU",
+    "city": "Zaventem",
+    "country": "BE",
+    "lat": 50.901402,
+    "lon": 4.48444,
+    "type": "large_airport",
+    "distance_km": 13.3
+   },
+   {
+    "name": "Brussels South Charleroi Airport",
+    "iata": "CRL",
+    "city": "Charleroi",
+    "country": "BE",
+    "lat": 50.461963,
+    "lon": 4.459562,
+    "type": "large_airport",
+    "distance_km": 40.2
+   },
+   {
+    "name": "Antwerp International Airport (Deurne)",
+    "iata": "ANR",
+    "city": "Antwerp",
+    "country": "BE",
+    "lat": 51.190667,
+    "lon": 4.463153,
+    "type": "medium_airport",
+    "distance_km": 42.3
+   }
+  ],
+  "nearest_airport_km": 13.3,
+  "distance_beijing_km": 7944.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BE",
+  "country_zh": "比利时",
+  "country_en": "Belgium",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BE",
+   "country_zh": "比利时",
+   "country_en": "Belgium",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 25
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1005"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Major%20town%20houses%20of%20the%20architect%20Victor%20Horta%20%28Brussels%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

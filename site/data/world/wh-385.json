@@ -1,0 +1,162 @@
+{
+ "id": "wh-385",
+ "unesco_id": "385",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 847,
+ "popularity_score": 1332,
+ "country": "YE",
+ "country_zh": "也门",
+ "country_en": "Yemen",
+ "countries": [
+  {
+   "iso2": "YE",
+   "zh": "也门",
+   "en": "Yemen"
+  }
+ ],
+ "region": "Governorate of the capital Sana’a",
+ "subdivision_iso": "YE-SA",
+ "subdivision_zh": "",
+ "subdivision_en": "Amanat al-Asimah Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨那古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old City of Sana'a",
+ "name_local": "مدينة صنعاء القديمة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "385-old_city_of_sana'a",
+ "lat": 15.3551,
+ "lon": 44.2145,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)(vi)",
+ "year": "1986",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "萨那坐落于海拔2200米的山谷里，人类在那里的居住历史已超过2500年。在公元7世纪和8世纪期间，此城成为伊斯兰教的主要传播中心。其中的政治和文化遗产包括103座清真寺、14座哈玛姆寺和6000间会所，全部建于11世纪前。萨那城的多层塔楼为景点增添了美丽。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in a mountain valley at an altitude of 2,200 m, Sana’a has been inhabited for more than 2,500 years. In the 7th and 8th centuries the city became a major centre for the propagation of Islam. This religious and political heritage can be seen in the 103 mosques, 14 hammams and over 6,000 houses, all built before the 11th century. Sana’a’s many-storeyed tower-houses built of rammed earth ( pisé ) add to the beauty of the site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "بنيت صنعاء في واد جبلي يرتفع الى 2200 متر وأصبحت مأهولة بالسكان منذ أكثر من 2500 سنة. وتحولت المدينة في القرنين السابع والثامن الى مركز هام لنشر الإسلام، فحافظت على تراث ديني وسياسي يتجلى في 106 مساجد و21 حماماً و6500 منزل تعود الى ما قبل القرن الحادي عشر. أما المساكن البرجية المتعددة الطبقات ومنازل الآجر القديمة فتزيد الموقع جمالاً.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Old%20Sana%27a%2C%20Yemen%2C%20Jan.%202009.jpg?width=1280",
+   "title": "View of Old Sana'a, Yemen, Jan. 2009.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:View%20of%20Old%20Sana%27a%2C%20Yemen%2C%20Jan.%202009.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_385.jpg",
+   "title": "Old City of Sana'a",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/385",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/385",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sanaa International Airport",
+    "iata": "SAH",
+    "city": "Sanaa",
+    "country": "YE",
+    "lat": 15.4763,
+    "lon": 44.2197,
+    "type": "large_airport",
+    "distance_km": 13.5
+   },
+   {
+    "name": "Taiz International Airport",
+    "iata": "TAI",
+    "city": "Taiz",
+    "country": "YE",
+    "lat": 13.686,
+    "lon": 44.139099,
+    "type": "medium_airport",
+    "distance_km": 185.8
+   },
+   {
+    "name": "Jizan Regional Airport / King Abdullah bin Abdulaziz Airport",
+    "iata": "GIZ",
+    "city": "Jizan",
+    "country": "SA",
+    "lat": 16.9011,
+    "lon": 42.5858,
+    "type": "medium_airport",
+    "distance_km": 244.6
+   }
+  ],
+  "nearest_airport_km": 13.5,
+  "distance_beijing_km": 7419.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "YE",
+  "country_zh": "也门",
+  "country_en": "Yemen",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "YE",
+   "country_zh": "也门",
+   "country_en": "Yemen",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/385"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20City%20of%20Sana%27a"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

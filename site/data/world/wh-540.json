@@ -1,0 +1,154 @@
+{
+ "id": "wh-540",
+ "unesco_id": "540",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1103,
+ "popularity_score": null,
+ "country": "RU",
+ "country_zh": "俄罗斯",
+ "country_en": "Russia",
+ "countries": [
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "RU-SPE",
+ "subdivision_zh": "",
+ "subdivision_en": "Saint Petersburg",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "圣彼得堡历史中心及其相关古迹群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+ "name_local": "Исторический центр Санкт-Петербурга и связанные с ним группы памятников",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "540-historic_centre_of_saint_petersburg_and_",
+ "lat": 59.938888888889,
+ "lon": 30.315555555556,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(vi)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "被称为“北方威尼斯”的圣彼得堡，以其无数的河道和400多座桥梁而闻名于世，这是在彼得大帝统治下于1703年开始实施的宏大城市规划的一个重要成果。此地后改名为列宁格勒（位于前苏联），而且与十月革命密切相关。它的建筑遗产与截然不同的巴洛克式建筑风格和纯古典式建筑风格极其和谐，我们可在海军部、冬宫、大理石宫以及爱尔米塔什博物馆看到这些。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 'Venice of the North', with its numerous canals and more than 400 bridges, is the result of a vast urban project begun in 1703 under Peter the Great. Later known as Leningrad (in the former USSR), the city is closely associated with the October Revolution. Its architectural heritage reconciles the very different Baroque and pure neoclassical styles, as can be seen in the Admiralty, the Winter Palace, the Marble Palace and the Hermitage.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "«Северная Венеция», с ее множеством каналов и более чем 400 мостами, – это результат величайшего градостроительного проекта, начатого в 1703 г. при Петре Великом. Город оказался тесно связанным с Октябрьской революцией 1917 г., и в 1924-1991 гг. он носил имя Ленинград. В его архитектурном наследии сочетаются столь различные стили как барокко и классицизм, что можно видеть на примере Адмиралтейства, Зимнего дворца, Мраморного дворца и Эрмитажа.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_540.jpg",
+   "title": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/540",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/540",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pulkovo Airport",
+    "iata": "LED",
+    "city": "St. Petersburg",
+    "country": "RU",
+    "lat": 59.800301,
+    "lon": 30.262501,
+    "type": "large_airport",
+    "distance_km": 15.7
+   },
+   {
+    "name": "Lappeenranta Airport",
+    "iata": "LPP",
+    "city": "Lappeenranta",
+    "country": "FI",
+    "lat": 61.044601,
+    "lon": 28.144743,
+    "type": "large_airport",
+    "distance_km": 171.0
+   },
+   {
+    "name": "Savonlinna Airport",
+    "iata": "SVL",
+    "city": "Savonlinna",
+    "country": "FI",
+    "lat": 61.9431,
+    "lon": 28.945101,
+    "type": "medium_airport",
+    "distance_km": 234.8
+   }
+  ],
+  "nearest_airport_km": 15.7,
+  "distance_beijing_km": 6056.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RU",
+  "country_zh": "俄罗斯",
+  "country_en": "Russia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required",
+  "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/540"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-932",
+ "unesco_id": "932",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1194,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of the Gironde, Region of Aquitaine",
+ "subdivision_iso": "FR-33",
+ "subdivision_zh": "吉伦特省",
+ "subdivision_en": "Gironde",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣艾米伦区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Jurisdiction of Saint-Emilion",
+ "name_local": "Juridiction de Saint-Émilion",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "932-jurisdiction_of_saint-emilion",
+ "lat": 44.894722222,
+ "lon": 0.155277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "葡萄栽培技术最早由罗马人引入到阿基坦地区(region of Aquitaine)这块肥沃的土地上，并在中世纪得到了发展。圣艾米伦区位于圣地亚哥－德－孔波斯特拉(Santiago de Compostela)朝圣之路，因地理位置优越而受益匪浅。从11世纪开始，这里便修建了大量教堂、修道院和济贫院。在12世纪英国统治期间，这里得到了“司法管辖区域”的特殊地位。大量的葡萄种植在这里形成了独特的景观，而且在乡镇和村庄里还有许多优美的历史古迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Viticulture was introduced to this fertile region of Aquitaine by the Romans, and intensified in the Middle Ages. The Saint-Emilion area benefited from its location on the pilgrimage route to Santiago de Compostela and many churches, monasteries and hospices were built there from the 11th century onwards. It was granted the special status of a 'jurisdiction' during the period of English rule in the 12th century. It is an exceptional landscape devoted entirely to wine-growing, with many fine historic monuments in its towns and villages.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La viticulture a été introduite dans cette région fertile d'Aquitaine par les Romains et s'est intensifiée au Moyen Âge. Le territoire de Saint-Émilion a bénéficié de sa situation sur la route de pèlerinage vers Saint-Jacques-de-Compostelle et plusieurs églises, monastères et hospices y ont été construits à partir du XI e siècle. Le statut particulier de juridiction lui a été accordé au cours de la période du gouvernement anglais au XII e siècle. Il s'agit d'un paysage exceptionnel, entièrement consacré à la viticulture, dont les villes et villages comptent de nombreux monuments historiques de qualité.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20%C3%A9milion.jpg?width=1280",
+   "title": "St. émilion.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:St.%20%C3%A9milion.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_932.jpg",
+   "title": "Jurisdiction of Saint-Emilion",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/932",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/932",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bergerac Dordogne-Périgord airport",
+    "iata": "EGC",
+    "city": "Bergerac",
+    "country": "FR",
+    "lat": 44.825298,
+    "lon": 0.518611,
+    "type": "medium_airport",
+    "distance_km": 29.7
+   },
+   {
+    "name": "Bordeaux–Mérignac Airport",
+    "iata": "BOD",
+    "city": "Bordeaux",
+    "country": "FR",
+    "lat": 44.82865,
+    "lon": -0.715356,
+    "type": "large_airport",
+    "distance_km": 69.0
+   },
+   {
+    "name": "Brive Souillac airport",
+    "iata": "BVE",
+    "city": "Brive",
+    "country": "FR",
+    "lat": 45.039722,
+    "lon": 1.485556,
+    "type": "medium_airport",
+    "distance_km": 105.9
+   }
+  ],
+  "nearest_airport_km": 29.7,
+  "distance_beijing_km": 8624.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/932"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

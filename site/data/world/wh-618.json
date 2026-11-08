@@ -1,0 +1,154 @@
+{
+ "id": "wh-618",
+ "unesco_id": "618",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1121,
+ "popularity_score": null,
+ "country": "SK",
+ "country_zh": "斯洛伐克",
+ "country_en": "Slovakia",
+ "countries": [
+  {
+   "iso2": "SK",
+   "zh": "斯洛伐克",
+   "en": "Slovakia"
+  }
+ ],
+ "region": "Town and District of Banská Štiavnica, Region of Banská Bystrica",
+ "subdivision_iso": "SK-BC",
+ "subdivision_zh": "班斯卡-比斯特里察州",
+ "subdivision_en": "Banská Bystrica Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "历史名城班斯卡－什佳夫尼察及其工程建筑区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "618-historic_town_of_banská_štiavnica_and_th",
+ "lat": 48.46111,
+ "lon": 18.9,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "几个世纪以来，许多著名的工程师和科学家到访此地，让这个城镇名气大增。这个古老的中世纪采矿中心，逐渐演变成为一个城镇，有文艺复兴时期的宫殿、16世纪的教堂、 精致的广场和城堡。城镇的中心和周围的环境融为一体，还保留着过去采矿和冶金活动的重要遗迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Over the centuries, the town of Banská Štiavnica was visited by many outstanding engineers and scientists who contributed to its fame. The old medieval mining centre grew into a town with Renaissance palaces, 16th-century churches, elegant squares and castles. The urban centre blends into the surrounding landscape, which contains vital relics of the mining and metallurgical activities of the past.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_618.jpg",
+   "title": "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/618",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/618",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sliač Airport",
+    "iata": "SLD",
+    "city": "Sliač",
+    "country": "SK",
+    "lat": 48.63779830932617,
+    "lon": 19.13409996032715,
+    "type": "medium_airport",
+    "distance_km": 26.1
+   },
+   {
+    "name": "Budapest Liszt Ferenc International Airport",
+    "iata": "BUD",
+    "city": "Budapest",
+    "country": "HU",
+    "lat": 47.43018,
+    "lon": 19.262393,
+    "type": "large_airport",
+    "distance_km": 117.8
+   },
+   {
+    "name": "Poprad-Tatry Airport",
+    "iata": "TAT",
+    "city": "Poprad",
+    "country": "SK",
+    "lat": 49.070994,
+    "lon": 20.241394,
+    "type": "medium_airport",
+    "distance_km": 119.4
+   }
+  ],
+  "nearest_airport_km": 26.1,
+  "distance_beijing_km": 7262.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SK",
+  "country_zh": "斯洛伐克",
+  "country_en": "Slovakia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SK",
+   "country_zh": "斯洛伐克",
+   "country_en": "Slovakia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/618"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

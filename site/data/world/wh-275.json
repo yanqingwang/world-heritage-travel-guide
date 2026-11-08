@@ -1,0 +1,176 @@
+{
+ "id": "wh-275",
+ "unesco_id": "275",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 397,
+ "popularity_score": 20795,
+ "country": "AR",
+ "country_zh": "阿根廷",
+ "country_en": "Argentina",
+ "countries": [
+  {
+   "iso2": "AR",
+   "zh": "阿根廷",
+   "en": "Argentina"
+  },
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "State of Rio Grande do Sul, Brazil; Province of Misiones, Argentina",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "瓜拉尼人聚居地的耶稣会传教区：阿根廷的圣伊格纳西奥米尼、圣安娜、罗雷托圣母村和圣母玛利亚艾尔马约尔村遗迹以及巴西的圣米格尔杜斯米索纳斯遗迹",
+ "name_zh_source": "unesco_official",
+ "name_en": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",
+ "name_local": "Misiones jesuíticas de los guaraníes: San Ignacio Miní, Santa Ana, Nuestra Señora de Loreto y Santa María la Mayor (Argentina), ruinas de Sao Miguel das Missoes (Brasil)",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "275-jesuit_missions_of_the_guaranis:_san_ign",
+ "lat": -27.255280555,
+ "lon": -55.531669444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1983",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "在热带雨林的中心地带，有五个引人注目的耶稣会传教区遗址，他们分别是：巴西的圣米格尔杜斯米索纳斯遗迹，阿根廷的圣伊格纳西奥米尼、圣安娜、罗雷托圣母村和圣母玛利亚艾尔马约尔村遗迹。他们建于17至18世纪的瓜拉尼人地区。各处遗址布局迥异，保护状况各不相同。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The ruins of São Miguel das Missões in Brazil, and those of San Ignacio Miní, Santa Ana, Nuestra Señora de Loreto and Santa María la Mayor in Argentina, lie at the heart of a tropical forest. They are the impressive remains of five Jesuit missions, built in the land of the Guaranis during the 17th and 18th centuries. Each is characterized by a specific layout and a different state of conservation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En el corazón mismo de la selva tropical están ubicadas las ruinas de cinco misiones jesuitas: San Miguel de las Misiones (Brasil), San Ignacio Miní, Santa Ana, Nuestra Señora de Loreto y Santa María la Mayor (Argentina). Construidas en territorio guaraní durante los siglos XVII y XVIII, estas misiones se caracterizan por su trazado específico y su desigual estado de conservación.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruinas%20de%20Sao%20Miguel%20das%20Missoes.jpg?width=1280",
+   "title": "Ruinas de Sao Miguel das Missoes.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruinas%20de%20Sao%20Miguel%20das%20Missoes.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_275.jpg",
+   "title": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/275",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/275",
+ "transport": {
+  "airports": [
+   {
+    "name": "Teniente Ramon A. Ayub Gonzalez International Airport",
+    "iata": "ENO",
+    "city": "Encarnación",
+    "country": "PY",
+    "lat": -27.227537,
+    "lon": -55.837584,
+    "type": "large_airport",
+    "distance_km": 30.4
+   },
+   {
+    "name": "Libertador Gral D Jose De San Martin Airport",
+    "iata": "PSS",
+    "city": "Posadas",
+    "country": "AR",
+    "lat": -27.3858,
+    "lon": -55.9707,
+    "type": "medium_airport",
+    "distance_km": 45.7
+   },
+   {
+    "name": "Luis Alberto Lehr Airport",
+    "iata": "SRA",
+    "city": "Santa Rosa",
+    "country": "BR",
+    "lat": -27.90658,
+    "lon": -54.520628,
+    "type": "small_airport",
+    "distance_km": 123.2
+   }
+  ],
+  "nearest_airport_km": 30.4,
+  "distance_beijing_km": 18424.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AR",
+  "country_zh": "阿根廷",
+  "country_en": "Argentina",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AR",
+   "country_zh": "阿根廷",
+   "country_en": "Argentina",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+  },
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 27
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/275"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jesuit%20missions%20among%20the%20Guaran%C3%AD"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

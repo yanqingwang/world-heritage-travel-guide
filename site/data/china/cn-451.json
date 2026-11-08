@@ -1,0 +1,178 @@
+{
+ "id": "cn-451",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "云南省",
+ "province_en": "Yunnan",
+ "province_iso": "CN-YN",
+ "city_zh": "文山壮族苗族自治州",
+ "city_en": "Wenshan Zhuang and Miao Autonomous Prefecture",
+ "name_zh": "文山州普者黑旅游景区",
+ "name_en": "Wenshanzhoupuzhehei Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "wenshanzhoupuzhehei-451",
+ "lat": 24.12162,
+ "lon": 104.138715,
+ "address_zh": "云南省文山壮族苗族自治州丘北县",
+ "address_en": "Qiubei County, Wenshan Zhuang and Miao Autonomous Prefecture, Yunnan Province",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "景区总面积388平方公里，核心景区165平方公里，属于滇东南岩溶区，是发育典型的喀斯特岩溶地貌，以“水上田园、湖泊峰林、彝家水乡、岩溶湿地、荷花世界、候鸟天堂”六大景观而著称。",
+ "intro_en": "The total area of ​​the scenic area is 388 square kilometers, and the core scenic area is 165 square kilometers. It belongs to the karst area in southeastern Yunnan and is a typical karst landform. It is famous for its six major landscapes: \"water pastoral, lake peak forest, Yijia water town, karst wetland, lotus world, and migratory bird paradise\".",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Wenshan Puzhehei Airport",
+    "iata": "WNH",
+    "city": "Wenshan",
+    "country": "CN",
+    "lat": 23.5583,
+    "lon": 104.3255,
+    "type": "small_airport",
+    "distance_km": 65.5
+   },
+   {
+    "name": "Xingyi Wanfenglin Airport",
+    "iata": "ACX",
+    "city": "Xingyi",
+    "country": "CN",
+    "lat": 25.083423,
+    "lon": 104.960804,
+    "type": "medium_airport",
+    "distance_km": 135.4
+   },
+   {
+    "name": "Kunming Changshui International Airport",
+    "iata": "KMG",
+    "city": "Kunming",
+    "country": "CN",
+    "lat": 25.110313,
+    "lon": 102.936743,
+    "type": "large_airport",
+    "distance_km": 163.9
+   }
+  ],
+  "nearest_airport_km": 65.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "普者黑",
+    "name_en": "Puzhehei",
+    "lat": 23.9712519,
+    "lon": 104.1771193,
+    "distance_km": 17.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "腻革龙",
+    "name_en": null,
+    "lat": 23.8928898,
+    "lon": 103.7541113,
+    "distance_km": 46.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "珠琳",
+    "name_en": "Zhulin",
+    "lat": 23.9680994,
+    "lon": 104.6253776,
+    "distance_km": 52.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "普者黑度假村",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.1208293,
+   "lon": 104.1268569,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "普者黑張三的青年旅舍",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.1372948,
+   "lon": 104.1197563,
+   "distance_km": 2.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Happy Family Hotel",
+   "name_en": "Happy Family Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 24.132862,
+   "lon": 104.1141261,
+   "distance_km": 2.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "玉稻香农庄",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.1440929,
+   "lon": 104.1232661,
+   "distance_km": 2.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "普者黑彝人码头客栈",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.147017,
+   "lon": 104.1182486,
+   "distance_km": 3.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 5,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

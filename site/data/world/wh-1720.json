@@ -1,0 +1,162 @@
+{
+ "id": "wh-1720",
+ "unesco_id": "1720",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 420,
+ "popularity_score": 18587,
+ "country": "KE",
+ "country_zh": "肯尼亚",
+ "country_en": "Kenya",
+ "countries": [
+  {
+   "iso2": "KE",
+   "zh": "肯尼亚",
+   "en": "Kenya"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "KE-14",
+ "subdivision_zh": "基利菲县",
+ "subdivision_en": "Kilifi County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "格迪古镇和考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Historic Town and Archaeological Site of Gedi",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1720-the_historic_town_and_archaeological_sit",
+ "lat": -3.309166666,
+ "lon": 40.016666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2024",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "被遗弃的格迪（Gedi）古镇离海不远，四周残存的沿海森林将其与海岸隔开。10-17世纪，它曾是东非海岸最重要的斯瓦希里城市之一。那段时间里，格迪是横跨印度洋的复杂国际贸易和文化交流网络的一部分，参与将非洲沿海中心与波斯和其他地区连接起来。城墙清晰地勾勒出这一富饶市镇的轮廓，其中保留着民居、宗教、城镇建筑遗迹，以及先进的水务系统。格迪古镇充分体现了斯瓦西里建筑和城市规划的特色，其使用的建筑材料包括珊瑚石灰岩、珊瑚砂浆、土砂浆、木材等。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Surrounded by a remnant coastal forest, away from the coastline, the abandoned city of Gedi was one of the most important Swahili cities on the East African coast from the 10th to 17th centuries. During this period, it was part of a complex and international network of trade and cultural exchanges that crossed the Indian Ocean, linking African coastal centres with Persia and other areas. The opulent settlement is clearly delineated by walls and features remains of domestic, religious, and civic architecture, and a sophisticated water management system. It strongly represents the characteristics of Swahili architecture and town planning, utilising materials such as coral rag, coral and earth mortar and wood.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Mosque%20of%20Gede.jpg?width=1280",
+   "title": "Great Mosque of Gede.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Great%20Mosque%20of%20Gede.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1720.jpg",
+   "title": "The Historic Town and Archaeological Site of Gedi",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1720",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1720",
+ "transport": {
+  "airports": [
+   {
+    "name": "Malindi International Airport",
+    "iata": "MYD",
+    "city": "Malindi",
+    "country": "KE",
+    "lat": -3.22931,
+    "lon": 40.1017,
+    "type": "medium_airport",
+    "distance_km": 13.0
+   },
+   {
+    "name": "Moi International Airport",
+    "iata": "MBA",
+    "city": "Mombasa",
+    "country": "KE",
+    "lat": -4.03483,
+    "lon": 39.5942,
+    "type": "large_airport",
+    "distance_km": 93.3
+   },
+   {
+    "name": "Manda Airport",
+    "iata": "LAU",
+    "city": "Lamu",
+    "country": "KE",
+    "lat": -2.252431,
+    "lon": 40.912892,
+    "type": "medium_airport",
+    "distance_km": 154.0
+   }
+  ],
+  "nearest_airport_km": 13.0,
+  "distance_beijing_km": 9098.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KE",
+  "country_zh": "肯尼亚",
+  "country_en": "Kenya",
+  "status": "unknown",
+  "days": 90,
+  "requirement": "Electronic Travel Authorisation[6][70]",
+  "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KE",
+   "country_zh": "肯尼亚",
+   "country_en": "Kenya",
+   "status": "unknown",
+   "days": 90,
+   "requirement": "Electronic Travel Authorisation[6][70]",
+   "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 24
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1720"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ruins%20of%20Gedi"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

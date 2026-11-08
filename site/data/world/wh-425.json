@@ -1,0 +1,308 @@
+{
+ "id": "wh-425",
+ "unesco_id": "425",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 26,
+ "popularity_score": 487590,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Oxfordshire, England",
+ "subdivision_iso": "GB-OXF",
+ "subdivision_zh": "牛津郡",
+ "subdivision_en": "Oxfordshire",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布莱尼姆宫",
+ "name_zh_source": "unesco_official",
+ "name_en": "Blenheim Palace",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "425-blenheim_palace",
+ "lat": 51.841362665,
+ "lon": -1.360948307,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "牛津城附近的一个浪漫花园中，有一个众所周知的名胜，就是由天才园艺师布郎建造的布莱尼姆宫。它是英国国王为奖赏于1704年打败法国和巴伐比亚侵略军的马德罗第一位公爵约翰·邱吉尔，而于1705-1722年建造的公爵府。布莱尼姆宫以折中风格和回归民族根基而著称，是18世纪王宫建筑的杰出典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Blenheim Palace, near Oxford, stands in a romantic park created by the famous landscape gardener 'Capability' Brown. It was presented by the English nation to John Churchill, first Duke of Marlborough, in recognition of his victory in 1704 over French and Bavarian troops. Built between 1705 and 1722 and characterized by an eclectic style and a return to national roots, it is a perfect example of an 18th-century princely dwelling.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blenheim%20Palace%206-2008%204.jpg?width=1280",
+   "title": "Blenheim Palace 6-2008 4.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Blenheim%20Palace%206-2008%204.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Blenheim_Palace_from_the_Air_-_geograph.org.uk_-_620690.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Blenheim Palace from the Air - geograph.org.uk - 620690.jpg",
+   "author": "Martin Addison",
+   "license": "CC BY-SA 2.0",
+   "credit": "From geograph.org.uk",
+   "source": "https://commons.wikimedia.org/wiki/File:Blenheim_Palace_from_the_Air_-_geograph.org.uk_-_620690.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ornamental_lake%2C_Blenheim_Palace%2C_Woodstock_-_geograph.org.uk_-_1084933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ornamental lake, Blenheim Palace, Woodstock - geograph.org.uk - 1084933.jpg",
+   "author": "Brian Robert Marshall",
+   "license": "CC BY-SA 2.0",
+   "credit": "From geograph.org.uk",
+   "source": "https://commons.wikimedia.org/wiki/File:Ornamental_lake%2C_Blenheim_Palace%2C_Woodstock_-_geograph.org.uk_-_1084933.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%27Untitled%27_art_work_at_Blenheim_Palace_-_geograph.org.uk_-_5872594.jpg/1280px-%27Untitled%27_art_work_at_Blenheim_Palace_-_geograph.org.uk_-_5872594.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "'Untitled' art work at Blenheim Palace - geograph.org.uk - 5872594.jpg",
+   "author": "Gareth James",
+   "license": "CC BY-SA 2.0",
+   "credit": "Geograph Britain and Ireland",
+   "source": "https://commons.wikimedia.org/wiki/File:%27Untitled%27_art_work_at_Blenheim_Palace_-_geograph.org.uk_-_5872594.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Blenheim_Palace%2C_Oxfordshire%2C_taken_1964_-_geograph.org.uk_-_742171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Blenheim Palace, Oxfordshire, taken 1964 - geograph.org.uk - 742171.jpg",
+   "author": "Christine Matthews",
+   "license": "CC BY-SA 2.0",
+   "credit": "From geograph.org.uk",
+   "source": "https://commons.wikimedia.org/wiki/File:Blenheim_Palace%2C_Oxfordshire%2C_taken_1964_-_geograph.org.uk_-_742171.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/425",
+ "transport": {
+  "airports": [
+   {
+    "name": "London Luton Airport",
+    "iata": "LTN",
+    "city": "Luton, Luton",
+    "country": "GB",
+    "lat": 51.874699,
+    "lon": -0.368333,
+    "type": "large_airport",
+    "distance_km": 68.3
+   },
+   {
+    "name": "Birmingham Airport",
+    "iata": "BHX",
+    "city": "Birmingham, West Midlands",
+    "country": "GB",
+    "lat": 52.453899,
+    "lon": -1.74803,
+    "type": "large_airport",
+    "distance_km": 73.1
+   },
+   {
+    "name": "London Heathrow Airport",
+    "iata": "LHR",
+    "city": "London",
+    "country": "GB",
+    "lat": 51.470748,
+    "lon": -0.459909,
+    "type": "large_airport",
+    "distance_km": 74.6
+   }
+  ],
+  "nearest_airport_km": 68.3,
+  "distance_beijing_km": 8117.2,
+  "ferry_terminals": [
+   {
+    "name": "Benson Marina",
+    "name_en": null,
+    "lat": 51.6199563,
+    "lon": -1.1159511,
+    "distance_km": 29.8,
+    "operator": null
+   },
+   {
+    "name": "Avon Boating",
+    "name_en": null,
+    "lat": 52.1891493,
+    "lon": -1.7057549,
+    "distance_km": 45.3,
+    "operator": null
+   },
+   {
+    "name": "Thames RiverCruise",
+    "name_en": null,
+    "lat": 51.4658287,
+    "lon": -0.9781492,
+    "distance_km": 49.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Palace Station",
+    "name_en": null,
+    "lat": 51.8429869,
+    "lon": -1.3581865,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "Walled Garden Station",
+    "name_en": null,
+    "lat": 51.8388678,
+    "lon": -1.3505501,
+    "distance_km": 0.8,
+    "operator": null
+   },
+   {
+    "name": "Hanborough",
+    "name_en": null,
+    "lat": 51.8247081,
+    "lon": -1.3726319,
+    "distance_km": 2.0,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Combe",
+    "name_en": null,
+    "lat": 51.8326251,
+    "lon": -1.3939977,
+    "distance_km": 2.5,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Tackley",
+    "name_en": null,
+    "lat": 51.8814551,
+    "lon": -1.297508,
+    "distance_km": 6.2,
+    "operator": "Great Western Railway"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "The Randolph Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Graduate",
+   "lat": 51.754886,
+   "lon": -1.2597974,
+   "distance_km": 11.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Remont",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.7846803,
+   "lon": -1.2692663,
+   "distance_km": 8.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Old Parsonage Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.759504,
+   "lon": -1.2605607,
+   "distance_km": 11.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Bay Tree",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8079622,
+   "lon": -1.6385387,
+   "distance_km": 19.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Abingdon Oxford",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 51.6682539,
+   "lon": -1.3049206,
+   "distance_km": 19.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 52
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/425"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Blenheim%20Palace"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

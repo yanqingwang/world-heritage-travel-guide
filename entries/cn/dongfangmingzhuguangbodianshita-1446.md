@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.244613
 lon: 121.506046
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 东方明珠广播电视塔 / Dongfangmingzhuguangbodianshita

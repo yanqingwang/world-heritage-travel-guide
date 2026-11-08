@@ -1,0 +1,224 @@
+{
+ "id": "cn-575",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "西藏自治区",
+ "province_en": "Tibet",
+ "province_iso": "CN-XZ",
+ "city_zh": "林芝地区",
+ "city_en": "Linzhi Prefecture",
+ "name_zh": "林芝市雅鲁藏布大峡谷景区",
+ "name_en": "Yarlung Tsangpo Grand Canyon",
+ "name_en_source": "wikipedia",
+ "slug": "linzhishiyalucangbudaxiagu-575",
+ "lat": 29.619023,
+ "lon": 94.944433,
+ "address_zh": "西藏自治区林芝市米林县",
+ "address_en": "Milin County, Linzhi City, Tibet Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "景区拥有雅鲁藏布大峡谷、南迦巴瓦峰、千年古桑树、大峡谷亲水台、南迦巴瓦西壁下直白村、直白大拐弯等旅游景点；有着高原极致美景，著名的墨脱徒步线散落于峡谷的工布藏族及少数民族洛巴、门巴族原始村落等资源，是集自然、宗教和历史千年印迹于一体的国家5A级景区。",
+ "intro_en": "The Yarlung Tsangpo Grand Canyon, also known as the Yarlung Zangbo Grand Canyon, the Tsangpo Canyon, the Brahmaputra Canyon or the Tsangpo Gorge (simplified Chinese: 雅鲁藏布大峡谷; traditional Chinese: 雅魯藏布大峽谷; pinyin: Yǎlǔzàngbù Dàxiágǔ), is a canyon along the Yarlung Tsangpo River in Tibet Autonomous Region, China. It is the deepest canyon in the world, and at 504.6 kilometres (313.5 mi) is slightly longer than the Grand Canyon in the United States, making it one of the world's largest. The Yarlung Tsangpo (Tibetan name for the upper course of the Brahmaputra) originates near Mount Kailash and runs east for about 1,700 kilometres (1,100 mi), draining a northern section of the Himalayas before it enters the gorge just downstream of Pei, Tibet, near the settlement of Zhibe. The canyon has a length of about 240 kilometres (150 mi) as the gorge bends around Mount Namcha Barwa (7,782 metres or 25,531 feet) and cuts its way through the eastern Himalayas. Its waters drop from about 2,900 metres (9,500 ft) near Pei to about 1,500 metres (4,900 ft) at the end of the Upper Gorge where the Po Tsangpo River enters. The river continues through the Lower Gorge to the Indian border at an elevation of",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Yarlung_Tsangpo_Canyon_from_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Yarlung Tsangpo Canyon from space.jpg",
+   "author": "NASA",
+   "license": "Public domain",
+   "credit": "http://photojournal.jpl.nasa.gov/catalog/PIA03708",
+   "source": "https://commons.wikimedia.org/wiki/File:Yarlung_Tsangpo_Canyon_from_space.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Yarlung_Zangpo_Grand_Canyon%2C_Tibet.jpg/1280px-Yarlung_Zangpo_Grand_Canyon%2C_Tibet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yarlung Zangpo Grand Canyon, Tibet.jpg",
+   "author": "NASA/GSFC/METI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team",
+   "license": "Public domain",
+   "credit": "https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA15775",
+   "source": "https://commons.wikimedia.org/wiki/File:Yarlung_Zangpo_Grand_Canyon%2C_Tibet.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/3d_map_model_of_Yarlung_Tsangpo_Grand_Canyon.png/1280px-3d_map_model_of_Yarlung_Tsangpo_Grand_Canyon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "3d map model of Yarlung Tsangpo Grand Canyon.png",
+   "author": "Xiaoshuangsu",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:3d_map_model_of_Yarlung_Tsangpo_Grand_Canyon.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tsangpo_Canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Tsangpo Canyon.jpg",
+   "author": "Polylepsis",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsangpo_Canyon.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Yarlong_River_National_Park_banner.jpg/1280px-Yarlong_River_National_Park_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yarlong River National Park banner.jpg",
+   "author": "Zcarstvnz Author of original photo: Luca Galuzzi ( Lucag )",
+   "license": "CC BY-SA 4.0",
+   "credit": "This image has been extracted from another file",
+   "source": "https://commons.wikimedia.org/wiki/File:Yarlong_River_National_Park_banner.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nyingchi Mainling Airport",
+    "iata": "LZY",
+    "city": "Nyingchi (Mainling)",
+    "country": "CN",
+    "lat": 29.303301,
+    "lon": 94.335297,
+    "type": "medium_airport",
+    "distance_km": 68.6
+   },
+   {
+    "name": "Qamdo Bangda Airport",
+    "iata": "BPX",
+    "city": "Bangda",
+    "country": "CN",
+    "lat": 30.553600311279297,
+    "lon": 97.1082992553711,
+    "type": "medium_airport",
+    "distance_km": 232.7
+   },
+   {
+    "name": "Dibrugarh Airport",
+    "iata": "DIB",
+    "city": "Dibrugarh",
+    "country": "IN",
+    "lat": 27.4839000702,
+    "lon": 95.0168991089,
+    "type": "medium_airport",
+    "distance_km": 237.5
+   }
+  ],
+  "nearest_airport_km": 68.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "鲁朗",
+    "name_en": null,
+    "lat": 29.8308924,
+    "lon": 94.7381711,
+    "distance_km": 30.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "林芝",
+    "name_en": "Nyingchi",
+    "lat": 29.5297406,
+    "lon": 94.4363308,
+    "distance_km": 50.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "通麦",
+    "name_en": null,
+    "lat": 30.104316,
+    "lon": 95.0814334,
+    "distance_km": 55.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "罗松宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.5171762,
+   "lon": 94.8821777,
+   "distance_km": 12.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "林芝好嗨哟度假民宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.7181023,
+   "lon": 94.7328222,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "林芝壹壹小舍",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.7183119,
+   "lon": 94.7332191,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "林芝知道你会来民宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.7192111,
+   "lon": 94.7333479,
+   "distance_km": 23.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "极光精品酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.7171192,
+   "lon": 94.7318217,
+   "distance_km": 23.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 22,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/雅鲁藏布大峡谷"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "cn-1119",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "青海省",
+ "province_en": "Qinghai",
+ "province_iso": "CN-QH",
+ "city_zh": "海北藏族自治州",
+ "city_en": "Haibei Tibetan Autonomous Prefecture",
+ "name_zh": "海北州阿咪东索景区",
+ "name_en": "Haibeizhouamidongsuo Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "haibeizhouamidongsuo-1119",
+ "lat": 38.105155,
+ "lon": 100.327125,
+ "address_zh": "青海省海北藏族自治州祁连县城东南2公里处",
+ "address_en": "2 kilometers southeast of Qilian County, Haibei Tibetan Autonomous Prefecture, Qinghai Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "阿咪东索景区是祁连山的支脉—托来山的主峰。景区占地面积112.97平方公里，核心面积12.47平方公里，高度在2800米到3500米之间。整个景区似一个东西走向的巨大山谷，山谷全长14公里，谷间流水潺潺，云蒸雾蔚，野生植物众多，原始生态保存完整。",
+ "intro_en": "Ami Dongsuo Scenic Area is the main peak of Tuolai Mountain, a branch of the Qilian Mountains. The scenic area covers an area of ​​112.97 square kilometers, with a core area of ​​12.47 square kilometers and a height between 2800 meters and 3500 meters. The entire scenic spot is like a huge valley running from east to west, with a total length of 14 kilometers. The valley has gurgling water, steaming clouds and mist, numerous wild plants, and the original ecology is intact.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Haibei Qilian Airport",
+    "iata": "HBQ",
+    "city": "Haibei (Qilian)",
+    "country": "CN",
+    "lat": 38.008068,
+    "lon": 100.645065,
+    "type": "small_airport",
+    "distance_km": 29.9
+   },
+   {
+    "name": "Zhangye Ganzhou Airport",
+    "iata": "YZY",
+    "city": "Zhangye (Ganzhou)",
+    "country": "CN",
+    "lat": 38.801899,
+    "lon": 100.675003,
+    "type": "medium_airport",
+    "distance_km": 83.2
+   },
+   {
+    "name": "Alxa Right Banner Badanjilin Airport",
+    "iata": "RHT",
+    "city": "Badanjilin",
+    "country": "CN",
+    "lat": 39.225,
+    "lon": 101.546,
+    "type": "small_airport",
+    "distance_km": 163.4
+   }
+  ],
+  "nearest_airport_km": 29.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "外力哈达",
+    "name_en": null,
+    "lat": 37.8042649,
+    "lon": 100.1977922,
+    "distance_km": 35.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "柴达尔",
+    "name_en": null,
+    "lat": 37.5982059,
+    "lon": 100.4186501,
+    "distance_km": 56.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "江仓",
+    "name_en": null,
+    "lat": 38.0350752,
+    "lon": 99.671851,
+    "distance_km": 57.9,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "指南者观景酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.1604954,
+   "lon": 100.2661906,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "英格堡假日宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.1689229,
+   "lon": 100.2590076,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "五矿国贸饭店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.1703973,
+   "lon": 100.2607011,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "翠光大酒店",
+   "name_en": "Cuiguang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.1705635,
+   "lon": 100.2583511,
+   "distance_km": 9.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "祁连大酒店",
+   "name_en": "Qilian Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.1755066,
+   "lon": 100.2543647,
+   "distance_km": 10.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 7,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

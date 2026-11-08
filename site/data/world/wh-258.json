@@ -1,0 +1,162 @@
+{
+ "id": "wh-258",
+ "unesco_id": "258",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1053,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Departments of Corse du Sud and Haute Corse, Corsica",
+ "subdivision_iso": "FR-20R",
+ "subdivision_zh": "科西嘉",
+ "subdivision_en": "Corsica",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波尔托湾：皮亚纳－卡兰切斯、基罗拉塔湾、斯康多拉保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+ "name_local": "Golfe de Porto : calanche de Piana, golfe de Girolata, réserve de Scandola",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "258-gulf_of_porto:_calanche_of_piana,_gulf_o",
+ "lat": 42.32519444,
+ "lon": 8.628833333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(x)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个自然保护区是科西嘉地区自然公园的一部分，位于斯康多拉半岛，属斑岩地貌的多石地带。这里的植被是茂密的灌木丛林，天空中飞翔着海鸥、鸬鹚和海鹰。清澈的海水，星星点点的小岛，连同险峻的岩洞构成了海洋生物的富饶家园。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The nature reserve, which is part of the Regional Natural Park of Corsica, occupies the Scandola peninsula, an impressive, porphyritic rock mass. The vegetation is an outstanding example of scrubland. Seagulls, cormorants and sea eagles can be found there. The clear waters, with their islets and inaccessible caves, host a rich marine life.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La réserve, qui fait partie du parc naturel régional de Corse, occupe la presqu''île de la Scandola, impressionnant massif de porphyre aux formes tourmentées. Sa végétation est un remarquable exemple de maquis. On y trouve des goélands, des cormorans et des aigles de mer. Les eaux transparentes, aux îlots et aux grottes inaccessibles, abritent une riche vie marine.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palazzu.JPG?width=1280",
+   "title": "Palazzu.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Palazzu.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_258.jpg",
+   "title": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/258",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/258",
+ "transport": {
+  "airports": [
+   {
+    "name": "Calvi Sainte Catherine Airport",
+    "iata": "CLY",
+    "city": "Calvi",
+    "country": "FR",
+    "lat": 42.530422,
+    "lon": 8.792984,
+    "type": "medium_airport",
+    "distance_km": 26.5
+   },
+   {
+    "name": "Ajaccio Napoléon Bonaparte airport",
+    "iata": "AJA",
+    "city": "Ajaccio",
+    "country": "FR",
+    "lat": 41.923599,
+    "lon": 8.80292,
+    "type": "medium_airport",
+    "distance_km": 46.9
+   },
+   {
+    "name": "Bastia-Poretta International airport",
+    "iata": "BIA",
+    "city": "Bastia",
+    "country": "FR",
+    "lat": 42.5527,
+    "lon": 9.48373,
+    "type": "large_airport",
+    "distance_km": 74.6
+   }
+  ],
+  "nearest_airport_km": 26.5,
+  "distance_beijing_km": 8312.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/258"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

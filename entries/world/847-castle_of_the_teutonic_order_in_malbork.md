@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)(iv)"
 lat: 54.039722222
 lon: 19.027777777
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:34Z"
 ---
 
 # 马尔堡的条顿骑士团城堡 / Castle of the Teutonic Order in Malbork

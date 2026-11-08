@@ -1,0 +1,154 @@
+{
+ "id": "wh-320",
+ "unesco_id": "320",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1069,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ES-CT",
+ "subdivision_zh": "",
+ "subdivision_en": "Catalonia",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "安东尼•高迪的建筑作品",
+ "name_zh_source": "unesco_official",
+ "name_en": "Works of Antoni Gaudí",
+ "name_local": "Obras de Antoni Gaudí",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "320-works_of_antoni_gaudí",
+ "lat": 41.4,
+ "lon": 2.15,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在巴塞罗那市区或近郊的7处安东尼·高迪的建筑作品，见证了他对19世纪末和20世纪初建筑技术的杰出创意与贡献。圭尔公园、圭尔宫、米拉大楼、文生宅圣家大教堂、巴特里奥之家和克洛尼亚古埃尔宫，这些建筑物都呈现了折衷主义风格，非常人性化，这对花园、雕塑以及所有装饰艺术和建筑的设计产生了极大影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Seven properties built by the architect Antoni Gaudí (1852–1926) in or near Barcelona testify to Gaudí’s exceptional creative contribution to the development of architecture and building technology in the late 19th and early 20th centuries. These monuments represent an eclectic, as well as a very personal, style which was given free reign in the design of gardens, sculpture and all decorative arts, as well as architecture. The seven buildings are: Parque Güell; Palacio Güell; Casa Mila; Casa Vicens; Gaudí’s work on the Nativity façade and Crypt of La Sagrada Familia; Casa Batlló Crypt in Colonia Güell.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Siete edificios construidos por el arquitecto Antoni Gaudí (1852–1926) en Barcelona o sus proximidades. Inscritos en la Lista del Patrimonio Mundial en 1984 y 2005. Estas obras atestiguan la excepcional contribución de las creaciones de Gaudí a la evolución de la arquitectura y las técnicas de construcción a finales del siglo XIX y principios del XX. Son la expresión de un estilo ecléctico y sumamente personal al que su autor dio rienda suelta no sólo en la arquitectura, sino también en la jardinería, la escultura y muchas otras artes decorativas. Los siete edificios son: Parque Güell, Palacio Güell, Casa Milá, Casa Vicens, la obra de Gaudí en la fachada de la Natividad y la cripta de la Sagrada Familia, la Casa Batlló y la cripta de la Colonia Güell.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_320.jpg",
+   "title": "Works of Antoni Gaudí",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/320",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/320",
+ "transport": {
+  "airports": [
+   {
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "iata": "BCN",
+    "city": "Barcelona",
+    "country": "ES",
+    "lat": 41.2971,
+    "lon": 2.07846,
+    "type": "large_airport",
+    "distance_km": 12.9
+   },
+   {
+    "name": "Girona-Costa Brava Airport",
+    "iata": "GRO",
+    "city": "Girona",
+    "country": "ES",
+    "lat": 41.904639,
+    "lon": 2.761774,
+    "type": "large_airport",
+    "distance_km": 75.7
+   },
+   {
+    "name": "Reus Airport",
+    "iata": "REU",
+    "city": "Reus",
+    "country": "ES",
+    "lat": 41.147509,
+    "lon": 1.168354,
+    "type": "large_airport",
+    "distance_km": 86.7
+   }
+  ],
+  "nearest_airport_km": 12.9,
+  "distance_beijing_km": 8812.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/320"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

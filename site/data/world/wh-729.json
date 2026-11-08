@@ -1,0 +1,160 @@
+{
+ "id": "wh-729",
+ "unesco_id": "729",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 382,
+ "popularity_score": 21653,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "DE-TH",
+ "subdivision_zh": "",
+ "subdivision_en": "Thuringia",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "魏玛、德绍和贝尔瑙的包豪斯建筑及其遗址",
+ "name_zh_source": "wikidata",
+ "name_en": "Bauhaus and its Sites in Weimar, Dessau and Bernau",
+ "name_local": "Das Bauhaus und seine Stätten in Weimar, Dessau und Bernau",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "729-bauhaus_and_its_sites_in_weimar,_dessau_",
+ "lat": 50.97477,
+ "lon": 11.32949,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "魏玛、德绍和贝尔瑙的包豪斯建筑及其遗址为德国之一打包申请的世界遗产，内含六处分立的遗产点，皆与美术学校包豪斯有关。此世界遗产登记于1996年，初含四处遗产点，又于2017年另外括入二处遗产点。 包豪斯仅于1919年至1933年间办行，其间在其处学习的学生不超1250人，于中真正获颁包豪斯授予的学位而毕业的只有155人。虽如此，此校仍使20世纪建筑与审美的思想和实践为之巨变。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Between 1919 and 1933 the Bauhaus movement revolutionized architectural and aesthetic thinking and practice in the 20th century. The Bauhaus buildings in Weimar, Dessau and Bernau are fundamental representatives of Classical Modernism, directed towards a radical renewal of architecture and design. This property, which was inscribed on the World Heritage List in 1996, originally comprised buildings located in Weimar (Former Art School, the Applied Art School and the Haus Am Horn) and Dessau (Bauhaus Building, the group of seven Masters' Houses). The 2017 extension includes the Houses with Balcony Access in Dessau and the ADGB Trade Union School in Bernau as important contributions to the Bauhaus ideas of austere design, functionalism and social reform.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Das Bauhaus und seine Stätten in Weimar, Dessau und Bernau ist Bestandteil der Liste des UNESCO-Welterbes und umfasst Bauhaus-Gebäude in Weimar, Dessau-Roßlau und Bernau bei Berlin. Die Gebäude gehören seit 7. Dezember 1996 zum UNESCO-Welterbe, diese erste Liste wurde 2017 um fünf Laubenganghäuser in Dessau und um die Bundesschule des ADGB in Bernau erweitert. Ausgewählt wurden die Bauwerke als grundlegende Vertreter der Klassischen Moderne, die in der Zeit nach dem Ersten Weltkrieg eine radikale Erneuerung von Architektur und Design verkörperten. Einher gingen die Ideen des Bauhauses mit strengem Entwurf, Funktionalismus und sozialer Reform.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dessau%20Bauhaus-Geb%C3%A4ude%20asv2024-06%20img1.jpg?width=1280",
+   "title": "Dessau Bauhaus-Gebäude asv2024-06 img1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Dessau%20Bauhaus-Geb%C3%A4ude%20asv2024-06%20img1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_729.jpg",
+   "title": "Bauhaus and its Sites in Weimar, Dessau and Bernau",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/729",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/729",
+ "transport": {
+  "airports": [
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 25.8
+   },
+   {
+    "name": "Leipzig/Halle Airport",
+    "iata": "LEJ",
+    "city": "Schkeuditz",
+    "country": "DE",
+    "lat": 51.420657,
+    "lon": 12.232705,
+    "type": "large_airport",
+    "distance_km": 80.1
+   },
+   {
+    "name": "Karlovy Vary Airport",
+    "iata": "KLV",
+    "city": "Karlovy Vary",
+    "country": "CZ",
+    "lat": 50.202999,
+    "lon": 12.915,
+    "type": "large_airport",
+    "distance_km": 141.0
+   }
+  ],
+  "nearest_airport_km": 25.8,
+  "distance_beijing_km": 7589.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 14
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/729"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bauhaus%20and%20its%20Sites%20in%20Weimar%2C%20Dessau%20and%20Bernau"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

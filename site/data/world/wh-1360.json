@@ -1,0 +1,159 @@
+{
+ "id": "wh-1360",
+ "unesco_id": "1360",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 678,
+ "popularity_score": 6446,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-59",
+ "subdivision_zh": "北部省",
+ "subdivision_en": "Nord",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "北部-加萊海峽的採礦盆地",
+ "name_zh_source": "wikidata",
+ "name_en": "Nord-Pas de Calais Mining Basin",
+ "name_local": "Bassin minier du Nord-Pas de Calais",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1360-nord-pas_de_calais_mining_basin",
+ "lat": 50.4625,
+ "lon": 3.54611,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "2012",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址由 109 个独立的部分组成，占地 120,000 公顷，在 1700 年代至 1900 年代的三个世纪的煤炭开采过程中形成了引人注目的景观。它包括矿坑（其中最古老的可追溯至 1850 年）、升降机基础设施、矿渣堆（其中一些占地 90 公顷，高度超过 140 m）、煤炭运输基础设施、火车站、工人住宅区和矿村，包括社会栖息地、学校、宗教建筑、卫生和社区设施、公司场所、业主和经理住宅、市政厅等。该遗址见证了 19 世纪中叶至 20 世纪 60 年代创建工人模范城市的历程，并进一步展示了欧洲工业史上的一个重要时期。它记录了工人的生活条件及其所带来的团结。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Remarkable as a landscape shaped over three centuries of coal extraction from the 1700s to the 1900s, the site consists of 109 separate components over 120,000 ha. It features mining pits (the oldest of which dates from 1850) and lift infrastructure, slag heaps (some of which cover 90 ha and exceed 140 m in height), coal transport infrastructure, railway stations, workers’ estates and mining villages including social habitat, schools, religious buildings, health and community facilities, company premises, owners and managers’ houses, town halls and more. The site bears testimony to the quest to create model workers’ cities from the mid 19th century to the 1960s and further illustrates a significant period in the history of industrial Europe. It documents the living conditions of workers and the solidarity to which it gave rise.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le Nord-Pas de Calais offre un paysage remarquable façonné par trois siècles (XVIIIe au XXe siècle) d’extraction du charbon. Les 120 000 hectares du site sont constitués de 109 biens individuels qui peuvent être des fosses (la plus vieille date de 1850), des chevalements (supportant les ascenseurs), des terrils (dont certains couvrent 90 hectares et dépassent les 140 mètres de haut), des infrastructures de transport de la houille, des gares ferroviaires, des corons et des villages de mineurs comprenant des écoles, des édifices religieux, des équipements collectifs et de santé, des bureaux de compagnies minières, des logements de cadres et châteaux de dirigeants, des hôtels de ville, etc. Le site témoigne de la recherche du modèle de la cité ouvrière, du milieu du XIXe siècle aux années 1960, et illustre une période significative de l’histoire de l’Europe industrielle. Il informe sur les conditions de vie des mineurs et sur la solidarité ouvrière.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bassin%20minier%20du%20Nord-Pas-de-Calais%20-%20Vues%20g%C3%A9n%C3%A9rales%20du%20patrimoine.jpg?width=1280",
+   "title": "Bassin minier du Nord-Pas-de-Calais - Vues générales du patrimoine.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bassin%20minier%20du%20Nord-Pas-de-Calais%20-%20Vues%20g%C3%A9n%C3%A9rales%20du%20patrimoine.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1360.jpg",
+   "title": "Nord-Pas de Calais Mining Basin",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1360",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1360",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lille Airport",
+    "iata": "LIL",
+    "city": "Lesquin",
+    "country": "FR",
+    "lat": 50.566564,
+    "lon": 3.102429,
+    "type": "large_airport",
+    "distance_km": 33.4
+   },
+   {
+    "name": "Brussels South Charleroi Airport",
+    "iata": "CRL",
+    "city": "Charleroi",
+    "country": "BE",
+    "lat": 50.461963,
+    "lon": 4.459562,
+    "type": "large_airport",
+    "distance_km": 64.7
+   },
+   {
+    "name": "Brussels Airport",
+    "iata": "BRU",
+    "city": "Zaventem",
+    "country": "BE",
+    "lat": 50.901402,
+    "lon": 4.48444,
+    "type": "large_airport",
+    "distance_km": 82.2
+   }
+  ],
+  "nearest_airport_km": 33.4,
+  "distance_beijing_km": 8042.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 24
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1360"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nord-Pas%20de%20Calais%20Mining%20Basin"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:45Z"
+}

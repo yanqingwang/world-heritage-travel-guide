@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)"
 lat: 43.701694444
 lon: 7.272305555
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:51Z"
 ---
 
 # 里维埃拉旅游之都尼斯 / Nice, Winter Resort Town of the Riviera

@@ -1,0 +1,154 @@
+{
+ "id": "wh-204",
+ "unesco_id": "204",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1041,
+ "popularity_score": null,
+ "country": "CU",
+ "country_zh": "古巴",
+ "country_en": "Cuba",
+ "countries": [
+  {
+   "iso2": "CU",
+   "zh": "古巴",
+   "en": "Cuba"
+  }
+ ],
+ "region": "Province of Ciudad de la Habana",
+ "subdivision_iso": "CU-03",
+ "subdivision_zh": "哈瓦那省",
+ "subdivision_en": "Havana Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "哈瓦那旧城及其工事体系",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Havana and its Fortification System",
+ "name_local": "Ciudad vieja de La Habana y su sistema de Fortificaciones",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "204-old_havana_and_its_fortification_system",
+ "lat": 23.133333,
+ "lon": -82.35,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "哈瓦那由西班牙人于1519年建立，17世纪成了加勒比海主要的造船中心之一。虽然哈瓦那今天是一个有200万人口且不断扩张的都市，但其旧城中心仍保留着引人入胜的巴洛克式和新古典风格混合的建筑物，所有的民房都有拱廊、阳台、铸铁的大门和内院。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Havana was founded in 1519 by the Spanish. By the 17th century, it had become one of the Caribbean's main centres for ship-building. Although it is today a sprawling metropolis of 2 million inhabitants, its old centre retains an interesting mix of Baroque and neoclassical monuments, and a homogeneous ensemble of private houses with arcades, balconies, wrought-iron gates and internal courtyards.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fundada en 1519 por los españoles, La Habana se convirtió en el siglo XVII en un importante astillero para la región del Caribe. Aunque hoy es una metrópoli tentacular con dos millones de habitantes, su antiguo centro conserva una interesante mezcla de monumentos barrocos y neoclásicos, así como un conjunto homogéneo de casas con arcadas, balcones, rejas de hierro forjado y patios interiores.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_204.jpg",
+   "title": "Old Havana and its Fortification System",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/204",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/204",
+ "transport": {
+  "airports": [
+   {
+    "name": "José Martí International Airport",
+    "iata": "HAV",
+    "city": "Havana",
+    "country": "CU",
+    "lat": 22.989200592041016,
+    "lon": -82.40910339355469,
+    "type": "large_airport",
+    "distance_km": 17.1
+   },
+   {
+    "name": "Juan Gualberto Gomez International Airport",
+    "iata": "VRA",
+    "city": "Matanzas",
+    "country": "CU",
+    "lat": 23.034401,
+    "lon": -81.435303,
+    "type": "large_airport",
+    "distance_km": 94.2
+   },
+   {
+    "name": "Rafael Cabrera Airport",
+    "iata": "GER",
+    "city": "Nueva Gerona",
+    "country": "CU",
+    "lat": 21.834699630737305,
+    "lon": -82.78379821777344,
+    "type": "medium_airport",
+    "distance_km": 151.1
+   }
+  ],
+  "nearest_airport_km": 17.1,
+  "distance_beijing_km": 12730.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CU",
+  "country_zh": "古巴",
+  "country_en": "Cuba",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CU",
+   "country_zh": "古巴",
+   "country_en": "Cuba",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/204"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(viii)"
 lat: 63.066666666
 lon: 20.45
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:36Z"
 ---
 
 # 高海岸∕瓦尔肯群岛 / High Coast / Kvarken Archipelago

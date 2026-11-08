@@ -1,0 +1,154 @@
+{
+ "id": "wh-1528",
+ "unesco_id": "1528",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 976,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ES-IB",
+ "subdivision_zh": "",
+ "subdivision_en": "Balearic Islands",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "梅诺卡岛塔拉约提克史前遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Talayotic Menorca",
+ "name_local": "Menorca talayótica",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1528-talayotic_menorca",
+ "lat": 39.9975,
+ "lon": 3.908888888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该考古遗址位于西地中海的梅诺卡岛上，周围是农牧景观。遗址有着多样化的史前居住区和墓葬地，见证了史前社群在该岛的生活。从青铜时代（公元前1600年）到铁器时代晚期（公元前123年），该遗址的建筑材料、形式和位置都显示了以巨石堆砌为特征的“塞克卢比安”建筑的变迁。这些史前建筑的天文方位朝向和相互间的视觉关联表明，它们可能构成某种带有宇宙学意义的网络。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located on the island of Menorca in the western Mediterranean Sea, these archaeological sites are situated in agro-pastoral landscapes. A testimony to the occupation of the island by prehistoric communities, these sites display a diversity of prehistoric settlements and burial places. The materials, forms and locations of structures dating from the Bronze Age (1600 BCE) to the Late Iron Age (123 BCE) show the evolution of a “cyclopean” architecture built with very large blocks of stone. Astronomical orientations and visual interconnections between prehistoric structures indicate networks with possible cosmological meanings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situados en la isla de Menorca, en el Mediterráneo occidental, estos sitios arqueológicos se encuentran en paisajes agropastorales. Testimonio de la ocupación de la isla por comunidades prehistóricas, estos yacimientos presentan una diversidad de asentamientos y sepulturas prehistóricas. Los materiales, formas y emplazamientos de las estructuras datadas entre la Edad de Bronce (1600 a.C.) y la Edad de Hierro Tardía (123 a.C.) muestran la evolución de una arquitectura “ciclópea” construida con bloques de piedra de gran tamaño. Las orientaciones astronómicas y las interconexiones visuales entre las estructuras prehistóricas indican la existencia de redes con posibles significados cosmológicos.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1528.jpg",
+   "title": "Talayotic Menorca",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1528",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1528",
+ "transport": {
+  "airports": [
+   {
+    "name": "Menorca Airport",
+    "iata": "MAH",
+    "city": "Mahón (Maó)",
+    "country": "ES",
+    "lat": 39.862598,
+    "lon": 4.21865,
+    "type": "large_airport",
+    "distance_km": 30.4
+   },
+   {
+    "name": "Palma de Mallorca Airport",
+    "iata": "PMI",
+    "city": "Palma de Mallorca",
+    "country": "ES",
+    "lat": 39.551701,
+    "lon": 2.73881,
+    "type": "large_airport",
+    "distance_km": 111.6
+   },
+   {
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "iata": "BCN",
+    "city": "Barcelona",
+    "country": "ES",
+    "lat": 41.2971,
+    "lon": 2.07846,
+    "type": "large_airport",
+    "distance_km": 211.5
+   }
+  ],
+  "nearest_airport_km": 30.4,
+  "distance_beijing_km": 8794.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1528"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

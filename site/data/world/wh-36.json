@@ -1,0 +1,162 @@
+{
+ "id": "wh-36",
+ "unesco_id": "36",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 297,
+ "popularity_score": 31104,
+ "country": "TN",
+ "country_zh": "突尼斯",
+ "country_en": "Tunisia",
+ "countries": [
+  {
+   "iso2": "TN",
+   "zh": "突尼斯",
+   "en": "Tunisia"
+  }
+ ],
+ "region": "Tunis",
+ "subdivision_iso": "TN-11",
+ "subdivision_zh": "突尼斯省",
+ "subdivision_en": "Tunis Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "突尼斯的阿拉伯人聚居区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Medina of Tunis",
+ "name_local": "مدينة تونس القديمة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "36-medina_of_tunis",
+ "lat": 36.7990274,
+ "lon": 10.1700595,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(v)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "12至16世纪，突尼斯处在阿尔摩哈维斯和哈斯底斯王朝的统治下，是当时伊斯兰世界中最强大、最富庶的城市之一。宫殿、清真寺、陵墓、伊斯兰学校和喷泉等700多处标志性建筑展示着它昔日的辉煌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Under the Almohads and the Hafsids, from the 12th to the 16th century, Tunis was considered one of the greatest and wealthiest cities in the Islamic world. Some 700 monuments, including palaces, mosques, mausoleums, madrasas and fountains, testify to this remarkable past.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "اعتبرت تونس في ظل حكم المهديين والحفصيين الذين سيطروا عليها من القرن الثاني عشر ولغاية السادس عشر احدى اهم مدن العالم الإسلامي وأغناها. وهي تتضمن 700 نصب من قصور ومساجد وأضرحة ومدارس وموارد ماء تشهد على تاريخها العريق.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Terrasses%20de%20la%20m%C3%A9dina%20de%20Tunis.jpg?width=1280",
+   "title": "Terrasses de la médina de Tunis.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Terrasses%20de%20la%20m%C3%A9dina%20de%20Tunis.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_36.jpg",
+   "title": "Medina of Tunis",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/36",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/36",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tunis Carthage International Airport",
+    "iata": "TUN",
+    "city": "Tunis",
+    "country": "TN",
+    "lat": 36.851002,
+    "lon": 10.2272,
+    "type": "large_airport",
+    "distance_km": 7.7
+   },
+   {
+    "name": "Enfidha - Hammamet International Airport",
+    "iata": "NBE",
+    "city": "Enfidha",
+    "country": "TN",
+    "lat": 36.075833,
+    "lon": 10.438611,
+    "type": "medium_airport",
+    "distance_km": 83.9
+   },
+   {
+    "name": "Tabarka-Aïn Draham International Airport",
+    "iata": "TBJ",
+    "city": "Tabarka",
+    "country": "TN",
+    "lat": 36.98,
+    "lon": 8.87694,
+    "type": "medium_airport",
+    "distance_km": 116.7
+   }
+  ],
+  "nearest_airport_km": 7.7,
+  "distance_beijing_km": 8635.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TN",
+  "country_zh": "突尼斯",
+  "country_en": "Tunisia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TN",
+   "country_zh": "突尼斯",
+   "country_en": "Tunisia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/36"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medina%20of%20Tunis"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

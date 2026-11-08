@@ -1,0 +1,154 @@
+{
+ "id": "wh-825",
+ "unesco_id": "825",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1172,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Udine, Friuli-Venezia Giulia Region",
+ "subdivision_iso": "IT-36",
+ "subdivision_zh": "",
+ "subdivision_en": "Friuli – Venezia Giulia",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "阿奎拉古迹区及长方形主教教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "825-archaeological_area_and_the_patriarchal_",
+ "lat": 45.7683,
+ "lon": 13.3675,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿奎拉（位于意大利东北部地区弗留利威尼西亚朱利亚区）是早期罗马帝国最大最富有的城市之一，在5世纪中叶被阿提拉(Attila)匈奴帝国国王毁灭。阿奎拉大部分遗迹仍埋在地下而未被发掘，正由于此，它才是这一类型中最大的古迹区。这里的长方形主教教堂是用优质的马赛克铺筑的著名建筑，同时它也在中欧大部地区的传教过程中发挥了关键作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Aquileia (in Friuli-Venezia Giulia), one of the largest and wealthiest cities of the Early Roman Empire, was destroyed by Attila in the mid-5th century. Most of it still lies unexcavated beneath the fields, and as such it constitutes the greatest archaeological reserve of its kind. The patriarchal basilica, an outstanding building with an exceptional mosaic pavement, played a key role in the evangelization of a large region of central Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_825.jpg",
+   "title": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/825",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/825",
+ "transport": {
+  "airports": [
+   {
+    "name": "Trieste Airport",
+    "iata": "TRS",
+    "city": "Ronchi dei Legionari/Trieste",
+    "country": "IT",
+    "lat": 45.827862,
+    "lon": 13.466672,
+    "type": "large_airport",
+    "distance_km": 10.1
+   },
+   {
+    "name": "Venice Marco Polo Airport",
+    "iata": "VCE",
+    "city": "Venezia (VE)",
+    "country": "IT",
+    "lat": 45.505299,
+    "lon": 12.3519,
+    "type": "large_airport",
+    "distance_km": 84.2
+   },
+   {
+    "name": "Treviso Airport",
+    "iata": "TSF",
+    "city": "Treviso (TV)",
+    "country": "IT",
+    "lat": 45.648399,
+    "lon": 12.1944,
+    "type": "large_airport",
+    "distance_km": 92.1
+   }
+  ],
+  "nearest_airport_km": 10.1,
+  "distance_beijing_km": 7791.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/825"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

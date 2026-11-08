@@ -1,0 +1,162 @@
+{
+ "id": "wh-1697",
+ "unesco_id": "1697",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 596,
+ "popularity_score": 10034,
+ "country": "RW",
+ "country_zh": "卢旺达",
+ "country_en": "Rwanda",
+ "countries": [
+  {
+   "iso2": "RW",
+   "zh": "卢旺达",
+   "en": "Rwanda"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "RW-05",
+ "subdivision_zh": "南部省",
+ "subdivision_en": "Southern Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "纽恩威国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Nyungwe National Park",
+ "name_local": "Parc national de Nyungwe",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1697-nyungwe_national_park",
+ "lat": -2.5282157,
+ "lon": 29.2758463,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "纽恩威（Nyungwe）国家公园是中非地区重要的雨林保护区。这里有保存完好的森林和泥炭沼、荒野、灌丛、草原，为高度多样化的动植物提供了栖息地。此外，大量独有物种在这里找到了最重要的自然栖息地，包括濒临灭绝的东部黑猩猩、金猴、以及极度濒危的丘陵菊头蝠。此外，这里还生活着濒临灭绝的12种哺乳动物和7种鸟类。纽恩威国家公园是非洲最重要的鸟类保护区之一，有317种鸟类的栖息记录。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This serial property represents an important area for rainforest conservation in Central Africa. The property is home to intact forests and peat bogs, moors, thickets and grasslands, providing habitats to a highly diverse flora and fauna. The Park also contains the most significant natural habitats for a number of species found nowhere else in the world, including the globally threatened Eastern Chimpanzee (Pan troglodytes schweinfurthii), Golden Monkey ( Cercopithecus mitis ssp. kandti ) and the Critically Endangered Hills Horseshoe Bat ( Rhinolophus hillorum ). There are also 12 mammal and seven bird species that are globally threatened, and with 317 species of birds recorded, Nyungwe National Park is one of the most important sites for bird conservation in Africa.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ce bien en série représente un site important pour la conservation des forêts pluviales d’Afrique centrale. Le bien comprend des forêts intactes, des tourbières, des landes, des bosquets et des prairies qui constituent l’habitat d’une flore et d’une faune extrêmement diverses. Le parc contient également les habitats naturels les plus importants pour un certain nombre d’espèces qui ne se trouvent nulle part ailleurs dans le monde, notamment le chimpanzé ( Pan troglodytes schweinfurthii ) et le singe doré ( Cercopithecus mitis ssp. kandti ), menacés au niveau mondial, et le rhinolophe (Rhinolophus hillorum), en danger critique d’extinction. On y trouve 12 espèces de mammifères et 7 espèces d’oiseaux menacées au plan mondial et avec 317 espèces d’oiseaux recensées, le Parc national de Nyungwe est un des sites les plus importants pour la conservation des oiseaux en Afrique.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunrisenyungwe.jpg?width=1280",
+   "title": "Sunrisenyungwe.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrisenyungwe.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1697.jpg",
+   "title": "Nyungwe National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1697",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1697",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kamembe Airport",
+    "iata": "KME",
+    "city": "Kamembe",
+    "country": "RW",
+    "lat": -2.462239980697632,
+    "lon": 28.907899856567383,
+    "type": "medium_airport",
+    "distance_km": 41.5
+   },
+   {
+    "name": "Bujumbura Melchior Ndadaye International Airport",
+    "iata": "BJM",
+    "city": "Bujumbura",
+    "country": "BI",
+    "lat": -3.32402,
+    "lon": 29.318501,
+    "type": "large_airport",
+    "distance_km": 88.6
+   },
+   {
+    "name": "Kirundo Airport",
+    "iata": "KRE",
+    "city": "Kirundo",
+    "country": "BI",
+    "lat": -2.544772,
+    "lon": 30.094575,
+    "type": "small_airport",
+    "distance_km": 91.0
+   }
+  ],
+  "nearest_airport_km": 41.5,
+  "distance_beijing_km": 9986.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RW",
+  "country_zh": "卢旺达",
+  "country_en": "Rwanda",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][119]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RW",
+   "country_zh": "卢旺达",
+   "country_en": "Rwanda",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][119]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1697"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nyungwe%20Forest"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

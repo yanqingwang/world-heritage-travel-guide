@@ -1,0 +1,162 @@
+{
+ "id": "wh-410",
+ "unesco_id": "410",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 622,
+ "popularity_score": 8788,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Quintana Roo, Cozumel et Felipe Carrillo Puerto",
+ "subdivision_iso": "MX-ROO",
+ "subdivision_zh": "金塔纳罗奥州",
+ "subdivision_en": "Quintana Roo",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣卡安",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sian Ka'an",
+ "name_local": "Sian Ka'an",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "410-sian_ka'an",
+ "lat": 19.383333333,
+ "lon": -87.791666666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "古代玛雅人曾在这个地区居住过，在他们的语言里，圣卡安是“天之源”的意思。这一生物保护区位于尤卡坦半岛东岸，内有热带森林、红树林和沼泽地，还有被礁石分割开的海产区。这个自然保护区为大量的动物和植物提供了生活场所，其中包括300多种鸟类，以及大量当地特有的陆地脊椎动物，这些动物在这个多样性的环境里共同生活，形成了一个复杂的水文学系统。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the language of the Mayan peoples who once inhabited this region, Sian Ka'an means 'Origin of the Sky'. Located on the east coast of the Yucatán peninsula, this biosphere reserve contains tropical forests, mangroves and marshes, as well as a large marine section intersected by a barrier reef. It provides a habitat for a remarkably rich flora and a fauna comprising more than 300 species of birds, as well as a large number of the region's characteristic terrestrial vertebrates, which cohabit in the diverse environment formed by its complex hydrological system.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En la lengua de los mayas que poblaban antaño la región, Sian Ka'an significa “origen del cielo”. Situada en la costa oriental de la península de Yucatán, esta reserva de biosfera abarca bosques tropicales, manglares, marismas y una vasta zona marina atravesada por un arrecife de barrera. Alberga una flora de gran riqueza y su fauna comprende más de 300 especies de pájaros y un gran número de vertebrados terrestres característicos de la región, que coexisten en el medio diversificado resultante del complejo sistema hidrológico del sitio.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9xico%20-%20Sian%20Ka%27an%2C%20Boat%20Tour.JPG?width=1280",
+   "title": "México - Sian Ka'an, Boat Tour.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9xico%20-%20Sian%20Ka%27an%2C%20Boat%20Tour.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_410.jpg",
+   "title": "Sian Ka'an",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/410",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/410",
+ "transport": {
+  "airports": [
+   {
+    "name": "Felipe Carrillo Puerto International Airport Tulum",
+    "iata": "TQO",
+    "city": "Tulum",
+    "country": "MX",
+    "lat": 20.172098,
+    "lon": -87.660272,
+    "type": "large_airport",
+    "distance_km": 88.8
+   },
+   {
+    "name": "Chetumal International Airport",
+    "iata": "CTM",
+    "city": "Chetumal",
+    "country": "MX",
+    "lat": 18.504985,
+    "lon": -88.328018,
+    "type": "medium_airport",
+    "distance_km": 112.8
+   },
+   {
+    "name": "Corozal Airport",
+    "iata": "CZH",
+    "city": "Corozal",
+    "country": "BZ",
+    "lat": 18.3822,
+    "lon": -88.411903,
+    "type": "medium_airport",
+    "distance_km": 129.0
+   }
+  ],
+  "nearest_airport_km": 88.8,
+  "distance_beijing_km": 12859.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/410"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sian%20Ka%CA%BCan%20Biosphere%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

@@ -1,0 +1,276 @@
+{
+ "id": "wh-1042",
+ "unesco_id": "1042",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 44,
+ "popularity_score": 282794,
+ "country": "IL",
+ "country_zh": "以色列",
+ "country_en": "Israel",
+ "countries": [
+  {
+   "iso2": "IL",
+   "zh": "以色列",
+   "en": "Israel"
+  }
+ ],
+ "region": "Western Galilee",
+ "subdivision_iso": "IL-Z",
+ "subdivision_zh": "北部区",
+ "subdivision_en": "Northern District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿克古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old City of Acre",
+ "name_local": "עכו",
+ "local_lang": "he",
+ "local_lang_name": "Hebrew",
+ "slug": "1042-old_city_of_acre",
+ "lat": 32.926111111,
+ "lon": 35.083888888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(v)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿克是个有城墙的港口城市，历史悠久，自腓尼基时代起，就一直有人类居住在这里。现在的城市是土耳其人18世纪到19世纪之后建立发展的要塞城镇，拥有保存完好的城堡、清真寺、商栈和土耳其浴室等建筑。城中十字军的遗址可以追溯到1104年到1291年，高于或低于如今的街道平面，保留完好，生动再现了中世纪耶路撒冷十字军王国的城市规划和城市结构。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Acre is a historic walled port-city with continuous settlement from the Phoenician period. The present city is characteristic of a fortified town dating from the Ottoman 18th and 19th centuries, with typical urban components such as the citadel, mosques, khans and baths. The remains of the Crusader town, dating from 1104 to 1291, lie almost intact, both above and below today's street level, providing an exceptional picture of the layout and structures of the capital of the medieval Crusader kingdom of Jerusalem.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "עַכּוֹ (בערבית: عكا – עכּא; ביוונית: Πτολεμαΐς – פְּטוֹלֶמַאיס) היא עיר מעורבת במחוז הצפון שבישראל, הגובלת בדרום-דרום מערב בחופיו הצפוניים של מפרץ עכו ובמערב בים התיכון. עכו היא אחת מערי הנמל העתיקות בעולם, ודברי ימיה המתועדים מתחילים בתקופת הברונזה הקדומה. במשך שנים רבות הייתה עיר מפתח לכיבוש ארץ ישראל, שכן מיקומה על רצועת החוף הרחבה אפשר גישה נוחה דרך הגליל אל פנים הארץ. היא ידעה עליות ומורדות ועברה מיד ליד פעמים רבות. עכו הגיעה לשיאה כאשר שימשה כבירת ממלכת ירושלים במאה ה־13 וכבירתו של אחמד אל-ג'זאר בסוף המאה ה-18. מאז המאה ה-19 פחתה חשיבותה של העיר, ביחס לחיפה שהייתה לעיר הנמל הראשית של צפון הארץ. בהתאם לכך הייתה התפתחותה של העיר איטית בהשוואה לזאת של חיפה. בשנת 2001 הוכרזה עכו העתיקה כאתר מורשת עולמית על ידי אונסק\"ו. שבע שנים לאחר מכן, בשנת 2008, הוכרזו המקומות הבהאים הקדושים בחיפה ובגליל המערבי כאתר מורשת עולמית נוסף. חלק מהם, ובכלל זה המקום הקדוש ביותר לדת הבהאית – אל-באהג'ה, שוכנים בעכו ובסביבותיה. העיר היא לפיכך האתר היחידי בישראל המופיע בשתי הכרזות שונות כ\"אתר מורשת עולמית\" של אונסק\"ו.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Acre%201.jpg?width=1280",
+   "title": "Aerial view of Acre 1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20of%20Acre%201.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1042.jpg",
+   "title": "Old City of Acre",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1042",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1042",
+ "transport": {
+  "airports": [
+   {
+    "name": "Uri Michaeli Haifa International Airport",
+    "iata": "HFA",
+    "city": "Haifa",
+    "country": "IL",
+    "lat": 32.810219,
+    "lon": 35.043719,
+    "type": "medium_airport",
+    "distance_km": 13.4
+   },
+   {
+    "name": "Ben Gurion International Airport",
+    "iata": "TLV",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.011398,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "distance_km": 103.4
+   },
+   {
+    "name": "Beirut Rafic Hariri International Airport",
+    "iata": "BEY",
+    "city": "Beirut",
+    "country": "LB",
+    "lat": 33.819833,
+    "lon": 35.487443,
+    "type": "large_airport",
+    "distance_km": 106.2
+   }
+  ],
+  "nearest_airport_km": 13.4,
+  "distance_beijing_km": 7080.3,
+  "ferry_terminals": [
+   {
+    "name": "Haifa-Akko Ferry",
+    "name_en": null,
+    "lat": 32.9190782,
+    "lon": 35.0705478,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "dfh",
+    "name_en": "dfh",
+    "lat": 32.8237727,
+    "lon": 35.0201013,
+    "distance_km": 12.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "עכו",
+    "name_en": "Acre",
+    "lat": 32.9281903,
+    "lon": 35.0830583,
+    "distance_km": 0.2,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "אחיהוד",
+    "name_en": "Ahihud",
+    "lat": 32.9117258,
+    "lon": 35.1734392,
+    "distance_km": 8.5,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "נהריה",
+    "name_en": "Nahariya",
+    "lat": 33.0049493,
+    "lon": 35.0988288,
+    "distance_km": 8.9,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "קרית מוצקין",
+    "name_en": "Kiryat Motzkin",
+    "lat": 32.8329575,
+    "lon": 35.0699238,
+    "distance_km": 10.4,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "קרית חיים",
+    "name_en": "Kiryat Haim",
+    "lat": 32.8248135,
+    "lon": 35.0642744,
+    "distance_km": 11.4,
+    "operator": "Israel Railways"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "מלון כינורות",
+   "name_en": "Kinorot Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.797661,
+   "lon": 35.5318128,
+   "distance_km": 44.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "פרנק",
+   "name_en": "Frank",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.0084377,
+   "lon": 35.0907448,
+   "distance_km": 9.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bar-On Holiday Home",
+   "name_en": "Bar-On Holiday Home",
+   "stars": null,
+   "brand": null,
+   "lat": 33.0041351,
+   "lon": 35.1152543,
+   "distance_km": 9.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ארגמן",
+   "name_en": "Argaman",
+   "stars": null,
+   "brand": null,
+   "lat": 32.9177463,
+   "lon": 35.0803094,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון עכוטל",
+   "name_en": "Akkotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.9220778,
+   "lon": 35.0728192,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "IL",
+  "country_zh": "以色列",
+  "country_en": "Israel",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IL",
+   "country_zh": "以色列",
+   "country_en": "Israel",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "he",
+  "local_lang_name": "Hebrew",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 89
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1042"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acre%2C%20Israel"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

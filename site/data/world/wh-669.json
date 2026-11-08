@@ -1,0 +1,154 @@
+{
+ "id": "wh-669",
+ "unesco_id": "669",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1130,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "圣地亚哥康波斯特拉之路：法兰西之路和北西班牙之路",
+ "name_zh_source": "unesco_official",
+ "name_en": "Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain",
+ "name_local": "Caminos de Santiago de Compostela: Camino francés y Caminos del Norte de España",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "669-routes_of_santiago_de_compostela:_camino",
+ "lat": 39.515517833695654,
+ "lon": -4.04445595223913,
+ "coord_accuracy": "country_centroid",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "北部西班牙的四条基督教朝圣者之路，这是对1993年列入世界遗产名录的圣地亚哥康波斯特拉之路的扩展。扩展包括了位于巴斯克自治区拉里奥哈（La Rioja），利艾巴纳（Liébana ）境内近1，500公里的道路，还包括一些具有历史意义的遗址如教堂、医院、旅馆以及桥梁，都是为满足朝圣者需要而建的建筑。这次扩展纳入了九世纪时发现据信是圣雅各之墓后，通往圣地亚哥康波斯特拉最早的朝圣之路。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A network of four Christian pilgrimage routes in northern Spain, the site is an extension of the Route of Santiago de Compostela, a serial site inscribed on the World Heritage List in 1993. The extension represents a network of almost 1,500 km: coastal, interior of the Basque Country–La Rioja, Liébana and primitive routes. It includes a built heritage of historical importance created to meet the needs of pilgrims, including cathedrals, churches, hospitals, hostels and even bridges. The extension encompasses some of the earliest pilgrimage routes to Santiago de Compostela, following the discovery in the 9 th century of a tomb believed to be that of St. James the Greater.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Se trata de una extensión del bien cultural en serie denominado “Camino de Santiago de Compostela”, que se inscribió en la Lista del Patrimonio Mundial en 1993. Esta extensión comprende una red de cuatro itinerarios de peregrinación cristiana –el Camino costero, el Camino interior del País Vasco y La Rioja, el Camino de Liébana y el Camino primitivo– que suman unos 1.500 kilómetros y atraviesan el norte de la Península Ibérica. El bien cultural ampliado posee un rico patrimonio arquitectónico de gran importancia histórica, compuesto por edificios destinados a satisfacer las necesidades materiales y espirituales de los peregrinos: puentes, albergues, hospitales, iglesias y catedrales. También cuenta con algunas de las rutas primigenias de peregrinación a Santiago de Compostela, creadas después de que en el siglo IX se descubriera en el territorio de esta localidad un sepulcro que, según se cree, encierra los restos mortales del apóstol Santiago el Mayor.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_669.jpg",
+   "title": "Routes of Santiago de Compostela: <i>Camino Francés</i> and Routes of Northern Spain",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/669",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/669",
+ "transport": {
+  "airports": [
+   {
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "iata": "MAD",
+    "city": "Madrid",
+    "country": "ES",
+    "lat": 40.493407,
+    "lon": -3.572249,
+    "type": "large_airport",
+    "distance_km": 115.9
+   },
+   {
+    "name": "Córdoba Airport",
+    "iata": "ODB",
+    "city": "Córdoba",
+    "country": "ES",
+    "lat": 37.841999,
+    "lon": -4.84888,
+    "type": "medium_airport",
+    "distance_km": 198.8
+   },
+   {
+    "name": "Salamanca Airport",
+    "iata": "SLM",
+    "city": "Salamanca",
+    "country": "ES",
+    "lat": 40.952099,
+    "lon": -5.50199,
+    "type": "medium_airport",
+    "distance_km": 202.0
+   }
+  ],
+  "nearest_airport_km": 115.9,
+  "distance_beijing_km": 9204.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/669"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

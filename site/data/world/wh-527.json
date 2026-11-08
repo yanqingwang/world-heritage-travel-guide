@@ -1,0 +1,152 @@
+{
+ "id": "wh-527",
+ "unesco_id": "527",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1100,
+ "popularity_score": null,
+ "country": "UA",
+ "country_zh": "乌克兰",
+ "country_en": "Ukraine",
+ "countries": [
+  {
+   "iso2": "UA",
+   "zh": "乌克兰",
+   "en": "Ukraine"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "UA-30",
+ "subdivision_zh": "基辅",
+ "subdivision_en": "Kyiv",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "基辅：圣•索菲娅教堂和佩乔尔斯克修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "527-kyiv:_saint-sophia_cathedral_and_related",
+ "lat": 50.45258,
+ "lon": 30.51686,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1990",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "基辅的圣·索菲娅教堂的设计可与君士坦丁堡的圣·索菲娅教堂媲美，象征着“新君士坦丁堡”，它建于11世纪，是基辅基督公国的首都。这一地区于988年经圣·法拉蒂米尔洗礼后基督化。基辅-拉夫拉在精神和文化上的影响对东正教思想在俄罗斯17世纪至19世纪的传播做出了贡献。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Designed to rival Hagia Sophia in Constantinople, Kyiv's Saint-Sophia Cathedral symbolizes the 'new Constantinople', capital of the Christian principality of Kyiv, which was created in the 11th century in a region evangelized after the baptism of St Vladimir in 988. The spiritual and intellectual influence of Kyiv-Pechersk Lavra contributed to the spread of Orthodox thought and the Orthodox faith in the Russian world from the 17th to the 19th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Sophia%20Cathedral.1.jpg?width=1280",
+   "title": "Saint-Sophia Cathedral.1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint-Sophia%20Cathedral.1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_527.jpg",
+   "title": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/527",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/527",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gomel Airport",
+    "iata": "GME",
+    "city": "Gomel",
+    "country": "BY",
+    "lat": 52.527000427246094,
+    "lon": 31.016700744628906,
+    "type": "medium_airport",
+    "distance_km": 233.2
+   },
+   {
+    "name": "Mogilev Airport",
+    "iata": "MVQ",
+    "city": "Mogilev",
+    "country": "BY",
+    "lat": 53.954898834228516,
+    "lon": 30.09510040283203,
+    "type": "medium_airport",
+    "distance_km": 390.5
+   }
+  ],
+  "nearest_airport_km": 233.2,
+  "distance_beijing_km": 6320.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UA",
+  "country_zh": "乌克兰",
+  "country_en": "Ukraine",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6]",
+  "notes": "Ukraine resumed its eVisa service in February 2025.[154]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UA",
+   "country_zh": "乌克兰",
+   "country_en": "Ukraine",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6]",
+   "notes": "Ukraine resumed its eVisa service in February 2025.[154]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/527"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

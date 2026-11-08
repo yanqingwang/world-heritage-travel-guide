@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Anyang"
 lat: 36.152012
 lon: 113.826832
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 安阳市红旗渠-太行大峡谷旅游景区 / Red Flag Canal

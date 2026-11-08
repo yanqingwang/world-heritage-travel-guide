@@ -1,0 +1,162 @@
+{
+ "id": "wh-2",
+ "unesco_id": "2",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1039,
+ "popularity_score": null,
+ "country": "EC",
+ "country_zh": "厄瓜多尔",
+ "country_en": "Ecuador",
+ "countries": [
+  {
+   "iso2": "EC",
+   "zh": "厄瓜多尔",
+   "en": "Ecuador"
+  }
+ ],
+ "region": "Province of Pinchinada, City and Canton of Quito",
+ "subdivision_iso": "EC-P",
+ "subdivision_zh": "皮钦查省",
+ "subdivision_en": "Pichincha Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "基多旧城",
+ "name_zh_source": "unesco_official",
+ "name_en": "City of Quito",
+ "name_local": "Ciudad de Quito",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "2-city_of_quito",
+ "lat": -0.22,
+ "lon": -78.512083,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1978",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "厄瓜多尔的首都基多城海拔2850米，是在16世纪一个印加城市的废墟上建立起来的。尽管历经了1917年的地震，基多仍然是拉丁美洲保存最好、变化最小的历史中心。圣弗朗西斯修道院和圣多明各修道院，拉孔帕尼亚的教堂和耶酥会学院，连同这些建筑华丽的内部装饰都成为了“基多巴洛克风格”的纯正典范，完美地融合了西班牙、意大利、摩尔人式、佛兰德和当地艺术。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Quito, the capital of Ecuador, was founded in the 16th century on the ruins of an Inca city and stands at an altitude of 2,850 m. Despite the 1917 earthquake, the city has the best-preserved, least altered historic centre in Latin America. The monasteries of San Francisco and Santo Domingo, and the Church and Jesuit College of La Compañía, with their rich interiors, are pure examples of the 'Baroque school of Quito', which is a fusion of Spanish, Italian, Moorish, Flemish and indigenous art.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fundada en el siglo XVI sobre las ruinas de una antigua ciudad inca y encaramada a 2.850 metros de altitud, la capital de Ecuador posee el centro histórico mejor conservado y menos alterado de toda América Latina, a pesar del terremoto que la sacudió en 1917. Suntuosamente ornamentados en su interior, los monasterios de San Francisco y Santo Domingo, así como la iglesia y el colegio de la Compañía de Jesús, son un acabado ejemplo del arte de la escuela barroca de Quito, en el que se funden las influencias estéticas españolas, italianas, mudéjares, flamencas e indígenas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B5%20Ecuador%20028%20Quito%2C%20historical%20zone%2C%20January%201985.jpg?width=1280",
+   "title": "B5 Ecuador 028 Quito, historical zone, January 1985.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:B5%20Ecuador%20028%20Quito%2C%20historical%20zone%2C%20January%201985.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_2.jpg",
+   "title": "City of Quito",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/2",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/2",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mariscal Sucre International Airport",
+    "iata": "UIO",
+    "city": "Quito",
+    "country": "EC",
+    "lat": -0.125399,
+    "lon": -78.354306,
+    "type": "large_airport",
+    "distance_km": 20.5
+   },
+   {
+    "name": "Cotopaxi International Airport",
+    "iata": "LTX",
+    "city": "Latacunga",
+    "country": "EC",
+    "lat": -0.906833,
+    "lon": -78.615799,
+    "type": "medium_airport",
+    "distance_km": 77.2
+   },
+   {
+    "name": "Lieutenant Colonel Luis A. Mantilla International Airport",
+    "iata": "TUA",
+    "city": "Tulcán",
+    "country": "EC",
+    "lat": 0.809506,
+    "lon": -77.708099,
+    "type": "medium_airport",
+    "distance_km": 145.2
+   }
+  ],
+  "nearest_airport_km": 20.5,
+  "distance_beijing_km": 15321.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EC",
+  "country_zh": "厄瓜多尔",
+  "country_en": "Ecuador",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6]",
+  "notes": "Effective from 1 July 2024, Ecuador reinstates visa requirements for Chinese citizens.[46]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EC",
+   "country_zh": "厄瓜多尔",
+   "country_en": "Ecuador",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "Effective from 1 July 2024, Ecuador reinstates visa requirements for Chinese citizens.[46]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/2"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-87",
+ "unesco_id": "87",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1183,
+ "popularity_score": null,
+ "country": "EG",
+ "country_zh": "埃及",
+ "country_en": "Egypt",
+ "countries": [
+  {
+   "iso2": "EG",
+   "zh": "埃及",
+   "en": "Egypt"
+  }
+ ],
+ "region": "Governorate of Qina",
+ "subdivision_iso": "EG-KN",
+ "subdivision_zh": "基纳省",
+ "subdivision_en": "Qena Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "底比斯古城及其墓地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient Thebes with its Necropolis",
+ "name_local": "مدينة طيبة القديمة ومقبرتها",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "87-ancient_thebes_with_its_necropolis",
+ "lat": 25.720555555,
+ "lon": 32.610277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "底比斯(Thebes)是古埃及中新王国时代的首都，是阿蒙神(god Amon)之城，与卡纳克(Karnak)和卢克索(Luxor)的神庙和宫殿、国王陵墓谷和王后陵墓谷一起，共同构成了埃及文明繁荣鼎盛的见证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Thebes, the city of the god Amon, was the capital of Egypt during the period of the Middle and New Kingdoms. With the temples and palaces at Karnak and Luxor, and the necropolises of the Valley of the Kings and the Valley of the Queens, Thebes is a striking testimony to Egyptian civilization at its height.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "طيبة هي عاصمة مصر في عصري الأمربوطوريتين الوسطى والجديدة و مدينة الإله أمون. شاهدة على الحضارة المصريّة يوم بلغت ذروتها بما فيها من معابد وقصور الكرنك والاقصر ومقابر وادي الملوك ووادي الملكات.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luxor%20temple27.JPG?width=1280",
+   "title": "Luxor temple27.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Luxor%20temple27.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_87.jpg",
+   "title": "Ancient Thebes with its Necropolis",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/87",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/87",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luxor International Airport",
+    "iata": "LXR",
+    "city": "Luxor",
+    "country": "EG",
+    "lat": 25.671018,
+    "lon": 32.706446,
+    "type": "large_airport",
+    "distance_km": 11.1
+   },
+   {
+    "name": "Suhaj International Airport",
+    "iata": "HMB",
+    "city": "Suhaj",
+    "country": "EG",
+    "lat": 26.342515,
+    "lon": 31.743017,
+    "type": "large_airport",
+    "distance_km": 110.9
+   },
+   {
+    "name": "Aswan International Airport",
+    "iata": "ASW",
+    "city": "Aswan",
+    "country": "EG",
+    "lat": 23.961075,
+    "lon": 32.820382,
+    "type": "large_airport",
+    "distance_km": 196.8
+   }
+  ],
+  "nearest_airport_km": 11.1,
+  "distance_beijing_km": 7712.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EG",
+  "country_zh": "埃及",
+  "country_en": "Egypt",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][47]",
+  "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EG",
+   "country_zh": "埃及",
+   "country_en": "Egypt",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][47]",
+   "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/87"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

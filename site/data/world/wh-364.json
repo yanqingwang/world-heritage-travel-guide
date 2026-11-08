@@ -1,0 +1,259 @@
+{
+ "id": "wh-364",
+ "unesco_id": "364",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 45,
+ "popularity_score": 264690,
+ "country": "ZW",
+ "country_zh": "津巴布韦",
+ "country_en": "Zimbabwe",
+ "countries": [
+  {
+   "iso2": "ZW",
+   "zh": "津巴布韦",
+   "en": "Zimbabwe"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ZW-MV",
+ "subdivision_zh": "马斯温戈省",
+ "subdivision_en": "Masvingo Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "大津巴布韦国家纪念地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Great Zimbabwe National Monument",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "364-great_zimbabwe_national_monument",
+ "lat": -20.27,
+ "lon": 30.933,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "据一个古老的传说，大津巴布韦遗址是希巴皇后的首府，同时还是11世纪到15世纪期间绍纳城班图文明唯一的见证。这座城市面积将近80公顷，曾经是一个重要的贸易中心，自中世纪以来闻名于世。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to an age-old legend – are a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries. The city, which covers an area of nearly 80 ha, was an important trading centre and was renowned from the Middle Ages onwards.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great-Zimbabwe-6.jpg?width=1280",
+   "title": "Great-Zimbabwe-6.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Great-Zimbabwe-6.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gr_Zimbabwe_map.png/1280px-Gr_Zimbabwe_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Gr Zimbabwe map.png",
+   "author": "Thomas Wozniak",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Gr_Zimbabwe_map.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/D255-plan_du_temple_elliptique_de_zimbabyeh.-L2-Ch7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "D255-plan du temple elliptique de zimbabyeh.-L2-Ch7.png",
+   "author": "Élisée Reclus",
+   "license": "Public domain",
+   "credit": "Extrait de \"L’Homme et la Terre\"",
+   "source": "https://commons.wikimedia.org/wiki/File:D255-plan_du_temple_elliptique_de_zimbabyeh.-L2-Ch7.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Alloes-valley-great-zimbabwe.jpg/1280px-Alloes-valley-great-zimbabwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alloes-valley-great-zimbabwe.jpg",
+   "author": "ctsnow (Flikr user)",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/ctsnow/95110856/",
+   "source": "https://commons.wikimedia.org/wiki/File:Alloes-valley-great-zimbabwe.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_033_-_A_wall_of_the_ruins_of_Great_Zimbabwe_-_Masvingo%2C_Zimbabwe.jpg/1280px-ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_033_-_A_wall_of_the_ruins_of_Great_Zimbabwe_-_Masvingo%2C_Zimbabwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ASC Leiden - Rietveld Collection - East Africa 1975 - 05 - 033 - A wall of the ruins of Great Zimbabwe - Masvingo, Zimbabwe.jpg",
+   "author": "Aart Rietveld",
+   "license": "CC BY-SA 4.0",
+   "credit": "Aart Rietveld collection",
+   "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_033_-_A_wall_of_the_ruins_of_Great_Zimbabwe_-_Masvingo%2C_Zimbabwe.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/364",
+ "transport": {
+  "airports": [
+   {
+    "name": "Joshua Mqabuko Nkomo International Airport",
+    "iata": "BUQ",
+    "city": "Bulawayo",
+    "country": "ZW",
+    "lat": -20.016284,
+    "lon": 28.622897,
+    "type": "large_airport",
+    "distance_km": 242.8
+   },
+   {
+    "name": "Robert Gabriel Mugabe International Airport",
+    "iata": "HRE",
+    "city": "Harare",
+    "country": "ZW",
+    "lat": -17.931801,
+    "lon": 31.0928,
+    "type": "large_airport",
+    "distance_km": 260.5
+   },
+   {
+    "name": "Chimoio Airport",
+    "iata": "VPY",
+    "city": "Chimoio",
+    "country": "MZ",
+    "lat": -19.15130043029785,
+    "lon": 33.42900085449219,
+    "type": "medium_airport",
+    "distance_km": 289.4
+   }
+  ],
+  "nearest_airport_km": 242.8,
+  "distance_beijing_km": 11256.7,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Masvingo",
+    "name_en": null,
+    "lat": -20.0737142,
+    "lon": 30.8396618,
+    "distance_km": 23.9,
+    "operator": null
+   },
+   {
+    "name": "Zimuto",
+    "name_en": null,
+    "lat": -19.8597195,
+    "lon": 30.8565443,
+    "distance_km": 46.3,
+    "operator": null
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Great Zimbabwe Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2649633,
+   "lon": 30.9232644,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "At the Ancient City",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.269739,
+   "lon": 30.9518569,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Clevers Lakeview Resort and Conference Centre (previously known as Norma Jeane Lake View Lodge)",
+   "name_en": null,
+   "stars": null,
+   "brand": "Clevers Hotels and Resorts",
+   "lat": -20.2519793,
+   "lon": 31.0026002,
+   "distance_km": 7.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lodges",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2185011,
+   "lon": 31.0097803,
+   "distance_km": 9.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mineheart Boutique Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.1237023,
+   "lon": 30.8054047,
+   "distance_km": 21.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "ZW",
+  "country_zh": "津巴布韦",
+  "country_en": "Zimbabwe",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][163]",
+  "notes": "Also eligible for a universal visa allowing access to Zambia."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZW",
+   "country_zh": "津巴布韦",
+   "country_en": "Zimbabwe",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][163]",
+   "notes": "Also eligible for a universal visa allowing access to Zambia."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 74
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/364"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Great%20Zimbabwe"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

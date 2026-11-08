@@ -1,0 +1,162 @@
+{
+ "id": "wh-367",
+ "unesco_id": "367",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 639,
+ "popularity_score": 7841,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of Rhineland-Palatinate (Rheinland-Pfalz)",
+ "subdivision_iso": "DE-RP",
+ "subdivision_zh": "莱茵兰-普法尔茨州",
+ "subdivision_en": "Rhineland-Palatinate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "特里尔的古罗马建筑、圣彼得大教堂和圣玛利亚教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
+ "name_local": "Römische Denkmale, Dom St. Peter und Liebfrauenkirche in Trier",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "367-roman_monuments,_cathedral_of_st_peter_a",
+ "lat": 49.75,
+ "lon": 6.63306,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)(vi)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "特里尔位于摩泽尔河畔，在公元1世纪时是罗马殖民地。从公元2世纪开始，逐渐发展成了一个伟大的贸易中心。到了公元3世纪末，这里则成了四帝制(Tetrarchy)的首都之一，称作“第二罗马”。它的保护完好的大量历史遗迹都是罗马文明的有力证据。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Trier, which stands on the Moselle River, was a Roman colony from the 1st century AD and then a great trading centre beginning in the next century. It became one of the capitals of the Tetrarchy at the end of the 3rd century, when it was known as the ‘second Rome’. The number and quality of the surviving monuments are an outstanding testimony to Roman civilization.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Römische Denkmale, Dom St. Peter und Liebfrauenkirche in Trier sind eine Gruppe antiker und mittelalterlicher Kulturdenkmäler in der rheinland-pfälzischen Stadt Trier sowie in der Nachbargemeinde Igel, die 1986 in die Liste des UNESCO-Welterbes aufgenommen wurden. Die Stätte dokumentiert die Entwicklung Triers von der römischen Kolonie und Kaiserresidenz Augusta Treverorum über die spätantike Metropole und frühchristliche Zentrum bis zur mittelalterlichen Bischofsstadt. Mit der Dichte und Erhaltungsqualität ihrer Monumente gilt sie als herausragendes Zeugnis der römischen Zivilisation und der frühen Christianisierung im nördlichen Europa.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trier%20BW%202013-04-14%2015-59-54.JPG?width=1280",
+   "title": "Trier BW 2013-04-14 15-59-54.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Trier%20BW%202013-04-14%2015-59-54.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_367.jpg",
+   "title": "Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/367",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/367",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luxembourg-Findel International Airport",
+    "iata": "LUX",
+    "city": "Luxembourg",
+    "country": "LU",
+    "lat": 49.626845,
+    "lon": 6.212134,
+    "type": "large_airport",
+    "distance_km": 33.2
+   },
+   {
+    "name": "Frankfurt-Hahn Airport",
+    "iata": "HHN",
+    "city": "Frankfurt am Main (Lautzenhausen)",
+    "country": "DE",
+    "lat": 49.946353,
+    "lon": 7.261734,
+    "type": "large_airport",
+    "distance_km": 50.1
+   },
+   {
+    "name": "Saarbrücken Airport",
+    "iata": "SCN",
+    "city": "Saarbrücken",
+    "country": "DE",
+    "lat": 49.214545,
+    "lon": 7.109735,
+    "type": "medium_airport",
+    "distance_km": 68.8
+   }
+  ],
+  "nearest_airport_km": 33.2,
+  "distance_beijing_km": 7945.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 23
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/367"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Roman%20Monuments%2C%20Cathedral%20of%20St%20Peter%20and%20Church%20of%20Our%20Lady%20in%20Trier"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

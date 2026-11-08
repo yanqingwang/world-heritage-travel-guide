@@ -1,0 +1,224 @@
+{
+ "id": "cn-335",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "喀什地区",
+ "city_en": "Kashgar Prefecture",
+ "name_zh": "喀什地区喀什古城景区",
+ "name_en": "Kashgar Prefecture",
+ "name_en_source": "wikipedia",
+ "slug": "kashidiqukashigucheng-335",
+ "lat": 39.483206,
+ "lon": 76.001757,
+ "address_zh": "新疆维吾尔自治区喀什地区喀什市亚瓦格路10号",
+ "address_en": "No. 10, Yawag Road, Kashgar City, Kashgar Prefecture, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "喀什噶尔老城景区，面积4.25平方公里，约有居民12.68万人。老城区街巷纵横交错，布局灵活多变，曲径通幽，民居大多为土木、砖木结构，不少传统民居已有上百年的历史，是以伊斯兰文化为特色的迷宫式城市街区。",
+ "intro_en": "Kashgar Prefecture, also known as Kashi Prefecture, is a prefecture in southwestern Xinjiang, China, in the Tarim Basin region (roughly the southern half of Xinjiang). It has an area of 112,057 km2 (43,265 sq mi) and 4,496,377 inhabitants at the 2020 census with a population density of 35.5 inhabitants/km2. The capital of the prefecture is the city of Kashgar which has a population 506,640. Kashgar Prefecture borders the Gorno-Badakhshan Autonomous Region of Tajikistan, Badakhshan Province of Afghanistan, Gilgit-Baltistan of Pakistan, and Ladakh of India in the far south.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shi_Tou_Cheng.JPG/1280px-Shi_Tou_Cheng.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shi Tou Cheng.JPG",
+   "author": "Acstar",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shi_Tou_Cheng.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Administrative_commission_of_Qeshqer_Prefecture_%2820230923191204%29.jpg/1280px-Administrative_commission_of_Qeshqer_Prefecture_%2820230923191204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Administrative commission of Qeshqer Prefecture (20230923191204).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Administrative_commission_of_Qeshqer_Prefecture_%2820230923191204%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Administrative_commission_of_Qeshqer_Prefecture_%2820230923191355%29.jpg/1280px-Administrative_commission_of_Qeshqer_Prefecture_%2820230923191355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Administrative commission of Qeshqer Prefecture (20230923191355).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Administrative_commission_of_Qeshqer_Prefecture_%2820230923191355%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Location_of_Tashkurgan%2C_Koghushluk%2C_Tor%2C_Teeng_within_the_Kashgar_prefecture.png/1280px-Location_of_Tashkurgan%2C_Koghushluk%2C_Tor%2C_Teeng_within_the_Kashgar_prefecture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Location of Tashkurgan, Koghushluk, Tor, Teeng within the Kashgar prefecture.png",
+   "author": "Chk2011",
+   "license": "CC BY-SA 4.0",
+   "credit": "a derivative work from",
+   "source": "https://commons.wikimedia.org/wiki/File:Location_of_Tashkurgan%2C_Koghushluk%2C_Tor%2C_Teeng_within_the_Kashgar_prefecture.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/PIA21189_-_Kashgar%2C_China.jpg/1280px-PIA21189_-_Kashgar%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "PIA21189 - Kashgar, China.jpg",
+   "author": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
+   "license": "Public domain",
+   "credit": "This image or video was catalogued by Jet Propulsion Laboratory of the United States National Aeronautics and Space Administration (NASA) under Photo ID: PIA211",
+   "source": "https://commons.wikimedia.org/wiki/File:PIA21189_-_Kashgar%2C_China.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kashgar Laining International Airport",
+    "iata": "KHG",
+    "city": "Kashgar",
+    "country": "CN",
+    "lat": 39.542273,
+    "lon": 76.02023,
+    "type": "large_airport",
+    "distance_km": 6.8
+   },
+   {
+    "name": "Shache Airport",
+    "iata": "QSZ",
+    "city": "Shache",
+    "country": "CN",
+    "lat": 38.24542,
+    "lon": 77.056149,
+    "type": "medium_airport",
+    "distance_km": 165.2
+   },
+   {
+    "name": "Tashikuergan Hongqilafu Airport",
+    "iata": "HQL",
+    "city": "Tashikuergan",
+    "country": "CN",
+    "lat": 37.661333,
+    "lon": 75.288877,
+    "type": "medium_airport",
+    "distance_km": 211.8
+   }
+  ],
+  "nearest_airport_km": 6.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "喀什 قەشقەر‎",
+    "name_en": "Kashgar",
+    "lat": 39.4920879,
+    "lon": 76.0461111,
+    "distance_km": 3.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "疏勒",
+    "name_en": null,
+    "lat": 39.3820982,
+    "lon": 75.9916028,
+    "distance_km": 11.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "喀什北 شىمالىي قەشقەر",
+    "name_en": null,
+    "lat": 39.6013897,
+    "lon": 76.2145936,
+    "distance_km": 22.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "喀什永存青年旅舍",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.4916391,
+   "lon": 75.9997759,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "天缘国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.4937975,
+   "lon": 76.0002706,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "喀什後天青旅",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.4738001,
+   "lon": 75.9944084,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kashi shihu adoubing guan",
+   "name_en": "Hotel Kashi shihu adoubing guan",
+   "stars": null,
+   "brand": null,
+   "lat": 39.4756544,
+   "lon": 75.9855444,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hanting Hotel Kedai Ai Tiga Plaza",
+   "name_en": "Hanting Hotel Kedai Ai Tiga Plaza",
+   "stars": null,
+   "brand": null,
+   "lat": 39.4738495,
+   "lon": 75.9861969,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 20,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/喀什地区"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

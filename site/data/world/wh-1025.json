@@ -1,0 +1,162 @@
+{
+ "id": "wh-1025",
+ "unesco_id": "1025",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 183,
+ "popularity_score": 70933,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Rome, Region of Latium",
+ "subdivision_iso": "IT-RM",
+ "subdivision_zh": "羅馬首都廣域市",
+ "subdivision_en": "Metropolitan City of Rome",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "提沃利城的伊斯特别墅",
+ "name_zh_source": "unesco_official",
+ "name_en": "Villa d'Este, Tivoli",
+ "name_local": "Villa d'Este (Tivoli)",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "1025-villa_d'este,_tivoli",
+ "lat": 41.9625,
+ "lon": 12.796111111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "提沃利城的伊斯特别墅及其宫殿和花园，全面系统而鲜明地反映了最精致的文艺复兴文化。别墅独具匠心的设计以及它花园里的建筑组成部分（喷泉、装饰水池等）构成了一个典型的16世纪意大利花园。伊斯特别墅是欧洲花园发展的一个早期模型。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Villa d'Este in Tivoli, with its palace and garden, is one of the most remarkable and comprehensive illustrations of Renaissance culture at its most refined. Its innovative design along with the architectural components in the garden (fountains, ornamental basins, etc.) make this a unique example of an Italian 16th-century garden. The Villa d'Este, one of the first giardini delle meraviglie , was an early model for the development of European gardens.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La villa d'Este di Tivoli è una villa del Rinascimento italiano e figura nella lista dei patrimoni dell'umanità dell'UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20d%27Este%2001.jpg?width=1280",
+   "title": "Villa d'Este 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Villa%20d%27Este%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1025.jpg",
+   "title": "Villa d'Este, Tivoli",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1025",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1025",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ciampino–G. B. Pastine International Airport",
+    "iata": "CIA",
+    "city": "Rome",
+    "country": "IT",
+    "lat": 41.798769,
+    "lon": 12.595331,
+    "type": "large_airport",
+    "distance_km": 24.7
+   },
+   {
+    "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
+    "iata": "FCO",
+    "city": "Rome",
+    "country": "IT",
+    "lat": 41.804532,
+    "lon": 12.251998,
+    "type": "large_airport",
+    "distance_km": 48.3
+   },
+   {
+    "name": "Abruzzo Airport",
+    "iata": "PSR",
+    "city": "Pescara",
+    "country": "IT",
+    "lat": 42.431079,
+    "lon": 14.182981,
+    "type": "large_airport",
+    "distance_km": 125.6
+   }
+  ],
+  "nearest_airport_km": 24.7,
+  "distance_beijing_km": 8124.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1025"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Villa%20d%27Este"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

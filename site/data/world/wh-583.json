@@ -1,0 +1,162 @@
+{
+ "id": "wh-583",
+ "unesco_id": "583",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 177,
+ "popularity_score": 75918,
+ "country": "FI",
+ "country_zh": "芬兰",
+ "country_en": "Finland",
+ "countries": [
+  {
+   "iso2": "FI",
+   "zh": "芬兰",
+   "en": "Finland"
+  }
+ ],
+ "region": "Helsinki Harbour, Region of Uusimaa, Province of Southern Finland",
+ "subdivision_iso": "FI-18",
+ "subdivision_zh": "新地区",
+ "subdivision_en": "Uusimaa",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "苏奥曼斯纳城堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Fortress of Suomenlinna",
+ "name_local": "Suomenlinna",
+ "local_lang": "fi",
+ "local_lang_name": "Finnish",
+ "slug": "583-fortress_of_suomenlinna",
+ "lat": 60.143611111,
+ "lon": 24.984444444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该城堡建于18世纪下半叶，是瑞典人在赫尔辛基港入口处的岛屿上建造的。城堡很好地体现了当时欧洲军事建筑的特点。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built in the second half of the 18th century by Sweden on a group of islands located at the entrance of Helsinki's harbour, this fortress is an especially interesting example of European military architecture of the time.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Suomenlinna, myös Viapori, (ruots. Sveaborg) on Helsingin edustalla sijaitseva merilinnoitus ja yli 600 asukkaan kaupunginosa. Historiallisena muistomerkkinä ja nähtävyytenä sen kulttuurillinen arvo on merkittävä, ja se on vahva osa Helsingin identiteettiä. Linnoituksella oli myös huomattava vaikutus siihen, että Helsinki nimitettiin pääkaupungiksi vuonna 1812. Suomenlinnan rakennustyöt aloitettiin vuonna 1748, ja se tunnettiin vuoteen 1918 asti ruotsinkielisen nimensä Sveaborg pohjalta suomeksi virallisestikin Viaporina. Joissakin yhteyksissä nimi Viapori esiintyy edelleen. Vuonna 1991 Suomenlinna liitettiin Unescon maailmanperintöluetteloon. Suomenlinna on Suomen suosituimpia matkailukohteita. Vuonna 2019 linnoituksessa vieraili noin miljoona kävijää. Suomenlinnassa järjestetään ympäri vuoden erilaisia kaupunginosa- ja kulttuuritapahtumia. Saarilla sijaitsee monia kahviloita ja ravintoloita. Suomenlinnaa kunnostaa ja ylläpitää Suomenlinnan hoitokunta, joka on opetus- ja kulttuuriministeriön alainen valtion virasto. Nykyisin saarten ainoa sotilaallinen laitos on Pikku Mustasaaressa sijaitseva Merisotakoulu. Ison Mustasaaren eteläkärjessä sijaitsee Rikosseuraamuslaitoksen alainen, vuonna 1971 perustettu Suomenlinnan vankila. Keskeinen osa muurien, vallien ja rakennusten korjaustyöstä tehdään vankityönä. Vankilassa on paikkoja noin 100 vangille. Ison Mustasaaren luoteisosassa si",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Suomenlinna.jpg?width=1280",
+   "title": "Suomenlinna.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Suomenlinna.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_583.jpg",
+   "title": "Fortress of Suomenlinna",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/583",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/583",
+ "transport": {
+  "airports": [
+   {
+    "name": "Helsinki Vantaa Airport",
+    "iata": "HEL",
+    "city": "Helsinki (Vantaa)",
+    "country": "FI",
+    "lat": 60.318363,
+    "lon": 24.963341,
+    "type": "large_airport",
+    "distance_km": 19.5
+   },
+   {
+    "name": "Lennart Meri Tallinn Airport",
+    "iata": "TLL",
+    "city": "Tallinn",
+    "country": "EE",
+    "lat": 59.413246,
+    "lon": 24.83264,
+    "type": "large_airport",
+    "distance_km": 81.7
+   },
+   {
+    "name": "Turku Airport",
+    "iata": "TKU",
+    "city": "Turku",
+    "country": "FI",
+    "lat": 60.514099,
+    "lon": 22.2628,
+    "type": "large_airport",
+    "distance_km": 155.4
+   }
+  ],
+  "nearest_airport_km": 19.5,
+  "distance_beijing_km": 6307.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FI",
+  "country_zh": "芬兰",
+  "country_en": "Finland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FI",
+   "country_zh": "芬兰",
+   "country_en": "Finland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fi",
+  "local_lang_name": "Finnish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 52
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/583"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Suomenlinna"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

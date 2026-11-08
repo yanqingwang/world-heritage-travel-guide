@@ -1,0 +1,152 @@
+{
+ "id": "wh-185",
+ "unesco_id": "185",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 217,
+ "popularity_score": 53323,
+ "country": "SC",
+ "country_zh": "塞舌尔",
+ "country_en": "Seychelles",
+ "countries": [
+  {
+   "iso2": "SC",
+   "zh": "塞舌尔",
+   "en": "Seychelles"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "阿尔达布拉环礁",
+ "name_zh_source": "unesco_official",
+ "name_en": "Aldabra Atoll",
+ "name_local": "Atoll d'Aldabra",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "185-aldabra_atoll",
+ "lat": -9.416388888,
+ "lon": 46.416388888,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿尔达布拉环礁由4个大的珊瑚岛组成，岛群内怀抱一浅浅的礁湖，同时岛群本身又被一珊瑚礁所包围。因其地理上与外界隔绝，常人难以到达，阿尔达布拉未受到人类的破坏，成为约15.2万只左右巨型龟的栖息地，也是世界上此类爬行动物最为密集的地方。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The atoll is comprised of four large coral islands which enclose a shallow lagoon; the group of islands is itself surrounded by a coral reef. Due to difficulties of access and the atoll's isolation, Aldabra has been protected from human influence and thus retains some 152,000 giant tortoises, the world's largest population of this reptile.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "L'atoll comprend quatre grandes îles de corail qui enferment une lagune peu profonde. L'ensemble est lui-même entouré d'un récif de corail. En raison des difficultés d'accès et de l'isolement, Aldabra a été préservé de l'influence humaine et est devenu un refuge pour quelque 152 000 tortues terrestres géantes, soit la plus grande population mondiale de ce reptile.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Seychelles%20outer%20islands%2025.08.2009%2010-19-35.jpg?width=1280",
+   "title": "Seychelles outer islands 25.08.2009 10-19-35.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Seychelles%20outer%20islands%2025.08.2009%2010-19-35.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_185.jpg",
+   "title": "Aldabra Atoll",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/185",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/185",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ouani Airport",
+    "iata": "AJN",
+    "city": "Ouani",
+    "country": "KM",
+    "lat": -12.131047,
+    "lon": 44.430044,
+    "type": "medium_airport",
+    "distance_km": 371.7
+   },
+   {
+    "name": "Dzaoudzi Pamandzi International Airport",
+    "iata": "DZA",
+    "city": "Dzaoudzi",
+    "country": "YT",
+    "lat": -12.809319,
+    "lon": 45.281815,
+    "type": "large_airport",
+    "distance_km": 397.1
+   }
+  ],
+  "nearest_airport_km": 371.7,
+  "distance_beijing_km": 9408.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SC",
+  "country_zh": "塞舌尔",
+  "country_en": "Seychelles",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6][129]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SC",
+   "country_zh": "塞舌尔",
+   "country_en": "Seychelles",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6][129]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/185"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aldabra"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

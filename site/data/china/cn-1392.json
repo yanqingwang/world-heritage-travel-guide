@@ -1,0 +1,167 @@
+{
+ "id": "cn-1392",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山东省",
+ "province_en": "Shandong",
+ "province_iso": "CN-SD",
+ "city_zh": "临沂市",
+ "city_en": "Linyi",
+ "name_zh": "临沂市萤火虫水洞•地下大峡谷旅游区",
+ "name_en": "Linyishiyinghuochongshuidong•dixiadaxiagu Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "linyishiyinghuochongshuidong-dixiadaxiagu-1392",
+ "lat": 35.715492,
+ "lon": 118.458368,
+ "address_zh": "山东省临沂市沂水县",
+ "address_en": "Yishui County, Linyi City, Shandong Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "山东地下大峡谷是一座风貌奇特的溶洞王国，沂蒙地下奇观核心景区。峡谷洞体长度6100米，目前开发3100米，由巨大的喀斯特裂隙发育而成，是中国著名特大型溶洞之一。",
+ "intro_en": "Shandong Underground Grand Canyon is a unique cave kingdom and the core scenic spot of Yimeng underground wonders. The length of the canyon cave is 6,100 meters, of which 3,100 meters are currently under development. It is developed from huge karst fissures and is one of the famous extra-large karst caves in China.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.langya.cn/lyzt/yinghuochong/",
+ "booking": "http://www.langya.cn/lyzt/yinghuochong/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Linyi Qiyang Airport",
+    "iata": "LYI",
+    "city": "Linyi (Hedong)",
+    "country": "CN",
+    "lat": 35.052918,
+    "lon": 118.411828,
+    "type": "medium_airport",
+    "distance_km": 73.8
+   },
+   {
+    "name": "Rizhao Shanzihe Airport",
+    "iata": "RIZ",
+    "city": "Rizhao (Donggang)",
+    "country": "CN",
+    "lat": 35.405033,
+    "lon": 119.324403,
+    "type": "medium_airport",
+    "distance_km": 85.6
+   },
+   {
+    "name": "Weifang Nanyuan Airport",
+    "iata": "WEF",
+    "city": "Weifang (Kuiwen)",
+    "country": "CN",
+    "lat": 36.646702,
+    "lon": 119.119003,
+    "type": "medium_airport",
+    "distance_km": 119.3
+   }
+  ],
+  "nearest_airport_km": 73.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "沂水西",
+    "name_en": null,
+    "lat": 35.7961046,
+    "lon": 118.530474,
+    "distance_km": 11.1,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "青石岭",
+    "name_en": "Qingshiling",
+    "lat": 35.5721214,
+    "lon": 118.6670311,
+    "distance_km": 24.7,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "沂水",
+    "name_en": null,
+    "lat": 35.6438802,
+    "lon": 118.7219953,
+    "distance_km": 25.1,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "智圣汤泉",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.5661026,
+   "lon": 118.4774012,
+   "distance_km": 16.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "沂水龙岗大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.8003036,
+   "lon": 118.6135198,
+   "distance_km": 16.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Levande Hotel",
+   "name_en": "Levande Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 35.5508577,
+   "lon": 118.4508272,
+   "distance_km": 18.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "米高时尚酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.546012,
+   "lon": 118.4515523,
+   "distance_km": 18.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

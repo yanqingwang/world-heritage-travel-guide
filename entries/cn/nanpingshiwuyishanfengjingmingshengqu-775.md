@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Nanping"
 lat: 27.668108
 lon: 117.963042
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 南平市武夷山风景名胜区 / Nanpingshiwuyishan Scenic and Historic Area

@@ -1,0 +1,243 @@
+{
+ "id": "cn-953",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "陕西省",
+ "province_en": "Shaanxi",
+ "province_iso": "CN-SN",
+ "city_zh": "宝鸡市",
+ "city_en": "Baoji",
+ "name_zh": "宝鸡市太白山旅游景区",
+ "name_en": "Mount Taibai",
+ "name_en_source": "wikipedia",
+ "slug": "baojishitaibaishan-953",
+ "lat": 34.138888,
+ "lon": 107.91526,
+ "address_zh": "陕西省宝鸡市眉县汤峪镇中心大道与迎宾大道交叉口",
+ "address_en": "Intersection of Central Avenue and Yingbin Avenue, Tangyu Town, Mei County, Baoji City, Shaanxi Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "太白山是我国著名的秦岭山脉的主峰，以其高、寒、险、奇、秀富饶和神秘的特点闻名。主要景点有观音洞、三国古栈道、拜仙台、天圆地方、杨文洲纪念园、鬼谷子洞、洞天福地、铜墙铁壁、莲花峰瀑布、泼墨山、世外桃源、开天关、红桦坪、七女峰、石阵、下板寺、上板寺、文公庙、石海、拔仙台、四季滑雪场等。",
+ "intro_en": "Mount Taibai (Chinese: 太白山; pinyin: Tàibái Shān) is a mountain located on the border between Mei, Taibai and Zhouzhi counties in the south west of Shaanxi Province, China on the watershed between the Han River and the Wei River. Its highest point, Baxiantai (Chinese: 拔仙台), rises to a height of 3,767 m (12,359 ft), the tallest in the Qinling Range as well as Shaanxi Province.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/TaibaiShanNFP.JPG/1280px-TaibaiShanNFP.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "TaibaiShanNFP.JPG",
+   "author": "Danielinblue",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:TaibaiShanNFP.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mountain_Taibai_No.1.jpg/1280px-Mountain_Taibai_No.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mountain Taibai No.1.jpg",
+   "author": "Wenmingxing",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mountain_Taibai_No.1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mountain_Taibai_No.2.jpg/1280px-Mountain_Taibai_No.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mountain Taibai No.2.jpg",
+   "author": "Wenmingxing",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mountain_Taibai_No.2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Taibai-Dadian-Shan-3x.jpg/1280px-Taibai-Dadian-Shan-3x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Taibai-Dadian-Shan-3x.jpg",
+   "author": "The original uploader was Jamguo at Chinese Wikipedia .",
+   "license": "CC BY-SA 1.0",
+   "credit": "Transferred from zh.wikipedia to Commons by Shizhao using CommonsHelper .",
+   "source": "https://commons.wikimedia.org/wiki/File:Taibai-Dadian-Shan-3x.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Taibai_Mountain-_Daye_Sea.jpg/1280px-Taibai_Mountain-_Daye_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Taibai Mountain- Daye Sea.jpg",
+   "author": "Shedous",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Taibai_Mountain-_Daye_Sea.jpg"
+  }
+ ],
+ "web": "http://www.tbpark.com/",
+ "booking": "http://www.tbpark.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xi'an Xianyang International Airport",
+    "iata": "XIY",
+    "city": "Xi'an",
+    "country": "CN",
+    "lat": 34.442207,
+    "lon": 108.762385,
+    "type": "large_airport",
+    "distance_km": 84.8
+   },
+   {
+    "name": "Hanzhong Chenggu Airport",
+    "iata": "HZG",
+    "city": "Hanzhong (Chenggu)",
+    "country": "CN",
+    "lat": 33.133527,
+    "lon": 107.203817,
+    "type": "medium_airport",
+    "distance_km": 129.7
+   },
+   {
+    "name": "Ankang Fuqiang Airport",
+    "iata": "AKA",
+    "city": "Ankang (Hanbin)",
+    "country": "CN",
+    "lat": 32.75696,
+    "lon": 108.87338,
+    "type": "small_airport",
+    "distance_km": 177.5
+   }
+  ],
+  "nearest_airport_km": 84.8,
+  "high_speed_stations": [
+   {
+    "name": "杨陵南",
+    "name_en": "Yanglingnan",
+    "lat": 34.2556034,
+    "lon": 108.048322,
+    "distance_km": 17.8,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "岐山",
+    "name_en": "Qishan",
+    "lat": 34.2756763,
+    "lon": 107.6083301,
+    "distance_km": 32.1,
+    "operator": "中国铁路西安局集团有限公司",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "绛帐",
+    "name_en": "Jiangzhang",
+    "lat": 34.2738616,
+    "lon": 107.9540959,
+    "distance_km": 15.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "眉县东",
+    "name_en": "Meixiandong",
+    "lat": 34.2728106,
+    "lon": 107.8377036,
+    "distance_km": 16.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杨陵",
+    "name_en": "Yangling",
+    "lat": 34.2703909,
+    "lon": 108.0738496,
+    "distance_km": 20.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "太白山万国酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.1492066,
+   "lon": 107.9068425,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "太白山美佳温泉酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.146556,
+   "lon": 107.9017431,
+   "distance_km": 1.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "锦江之星",
+   "name_en": "Jinjiang Inn",
+   "stars": null,
+   "brand": "锦江之星",
+   "lat": 34.2539074,
+   "lon": 108.0465104,
+   "distance_km": 17.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "林苑宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.2637636,
+   "lon": 108.070493,
+   "distance_km": 19.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宝鸡中苑国际大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.2746712,
+   "lon": 107.7448112,
+   "distance_km": 21.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 9,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/太白山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

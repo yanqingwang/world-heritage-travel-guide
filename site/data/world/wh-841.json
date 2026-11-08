@@ -1,0 +1,162 @@
+{
+ "id": "wh-841",
+ "unesco_id": "841",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 688,
+ "popularity_score": 6170,
+ "country": "CU",
+ "country_zh": "古巴",
+ "country_en": "Cuba",
+ "countries": [
+  {
+   "iso2": "CU",
+   "zh": "古巴",
+   "en": "Cuba"
+  }
+ ],
+ "region": "Provincia de Santiago de Cuba",
+ "subdivision_iso": "CU-13",
+ "subdivision_zh": "圣地亚哥省",
+ "subdivision_en": "Santiago de Cuba Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "古巴圣地亚哥的圣佩德罗德拉罗卡堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "San Pedro de la Roca Castle, Santiago de Cuba",
+ "name_local": "Castillo de San Pedro de la Roca en Santiago de Cuba",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "841-san_pedro_de_la_roca_castle,_santiago_de",
+ "lat": 19.968705555,
+ "lon": -75.8703,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "17世纪，加勒比海地区商业和政治竞争促使人们在坚如岩石的海岬上修建了这一规模庞大的防御工事，用以保护重要港口圣地亚哥。 这一复杂的建筑群是根据意大利文艺复兴原理设计的，包括有堡垒、军火库、棱堡和炮台，是西班牙裔美洲人的军事建筑中保存最完整、最好的一个。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Commercial and political rivalries in the Caribbean region in the 17th century resulted in the construction of this massive series of fortifications on a rocky promontory, built to protect the important port of Santiago. This intricate complex of forts, magazines, bastions and batteries is the most complete, best-preserved example of Spanish-American military architecture, based on Italian and Renaissance design principles.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Las rivalidades comerciales y políticas en la región del Caribe durante el siglo XVII tuvieron por resultado la construcción de este castillo, conjunto masivo de fortificaciones erigido en lo alto de un promontorio rocoso para proteger el importante puerto de Santiago. Este intrincado complejo de fuertes, polvorines, bastiones y baterías, edificado con arreglo a los principios de diseño de la Italia renacentista, es el ejemplo más completo y mejor conservado de la arquitectura militar española en América.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Castillo%20del%20Morro%20by%20Glogg%204.jpg?width=1280",
+   "title": "Castillo del Morro by Glogg 4.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Castillo%20del%20Morro%20by%20Glogg%204.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_841.jpg",
+   "title": "San Pedro de la Roca Castle, Santiago de Cuba",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/841",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/841",
+ "transport": {
+  "airports": [
+   {
+    "name": "Antonio Maceo International Airport",
+    "iata": "SCU",
+    "city": "Santiago",
+    "country": "CU",
+    "lat": 19.97474,
+    "lon": -75.835504,
+    "type": "large_airport",
+    "distance_km": 3.7
+   },
+   {
+    "name": "Carlos Manuel de Cespedes Airport",
+    "iata": "BYM",
+    "city": "Bayamo",
+    "country": "CU",
+    "lat": 20.3964,
+    "lon": -76.621399,
+    "type": "medium_airport",
+    "distance_km": 91.7
+   },
+   {
+    "name": "Frank Pais International Airport",
+    "iata": "HOG",
+    "city": "Holguin",
+    "country": "CU",
+    "lat": 20.785148,
+    "lon": -76.315526,
+    "type": "large_airport",
+    "distance_km": 102.0
+   }
+  ],
+  "nearest_airport_km": 3.7,
+  "distance_beijing_km": 13214.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CU",
+  "country_zh": "古巴",
+  "country_en": "Cuba",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CU",
+   "country_zh": "古巴",
+   "country_en": "Cuba",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/841"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Castillo%20de%20San%20Pedro%20de%20la%20Roca"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

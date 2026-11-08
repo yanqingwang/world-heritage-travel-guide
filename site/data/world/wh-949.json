@@ -1,0 +1,162 @@
+{
+ "id": "wh-949",
+ "unesco_id": "949",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 276,
+ "popularity_score": 33821,
+ "country": "VN",
+ "country_zh": "越南",
+ "country_en": "Vietnam",
+ "countries": [
+  {
+   "iso2": "VN",
+   "zh": "越南",
+   "en": "Vietnam"
+  }
+ ],
+ "region": "Duy Phu Commune, Duy Xuyen District, Quang Nam Province",
+ "subdivision_iso": "VN-DN",
+ "subdivision_zh": "岘港市",
+ "subdivision_en": "Da Nang",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣子修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "My Son Sanctuary",
+ "name_local": "Thánh địa Mỹ Sơn",
+ "local_lang": "vi",
+ "local_lang_name": "Vietnamese",
+ "slug": "949-my_son_sanctuary",
+ "lat": 15.76324,
+ "lon": 108.124446,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元4世纪到13世纪，一种独特的文化在现在的越南边境地区得到了发展，这种文化的宗教起源是印度教。由占婆王国作为宗教和政治首府时所保存的一系列庙宇和殿堂生动地说明了这一切。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Thánh địa Mỹ Sơn thuộc xã Thu Bồn, thành phố Đà Nẵng, cách trung tâm thành phố khoảng 40 km (đường bộ) và gần thành cổ Trà Kiệu, bao gồm nhiều đền đài Chăm Pa, trong một thung lũng đường kính khoảng 2 km, bao quanh bởi đồi núi. Đây từng là nơi tổ chức cúng tế của vương triều Chăm Pa. Thánh địa Mỹ Sơn được coi là một trong những trung tâm đền đài chính của Ấn Độ giáo ở khu vực Đông Nam Á và là di sản duy nhất của thể loại này tại Việt Nam. Thông thường người ta hay so sánh Thánh địa này với các tổ hợp đền đài chính khác ở Đông Nam Á như Borobudur (Java, Indonesia), Pagan (Myanmar), Wat Phou (Lào), Angkor Wat (Campuchia) và Prasat Hin Phimai (Thái Lan). Từ năm 1999, Thánh địa Mỹ Sơn đã được UNESCO chọn là một trong các di sản thế giới tân thời và hiện đại tại phiên họp thứ 23 của Ủy ban di sản thế giới theo tiêu chuẩn C (III) như là một ví dụ điển hình về trao đổi văn hoá và theo tiêu chuẩn C (III) như là bằng chứng duy nhất của nền văn minh châu Á đã biến mất. Hiện nay, nơi đây đã được thủ tướng chính phủ Việt Nam đưa vào danh sách xếp hạng 23 di tích quốc gia đặc biệt quan trọng.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2024%20-%20M%E1%BB%B9%20S%C6%A1n%20Sanctuary%20Temple%20E7%20-%20img%2001.jpg?width=1280",
+   "title": "2024 - Mỹ Sơn Sanctuary Temple E7 - img 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:2024%20-%20M%E1%BB%B9%20S%C6%A1n%20Sanctuary%20Temple%20E7%20-%20img%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_949.jpg",
+   "title": "My Son Sanctuary",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/949",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/949",
+ "transport": {
+  "airports": [
+   {
+    "name": "Da Nang International Airport",
+    "iata": "DAD",
+    "city": "Da Nang",
+    "country": "VN",
+    "lat": 16.0439,
+    "lon": 108.198997,
+    "type": "large_airport",
+    "distance_km": 32.2
+   },
+   {
+    "name": "Chu Lai Airport",
+    "iata": "VCL",
+    "city": "Tam Nghĩa",
+    "country": "VN",
+    "lat": 15.4033,
+    "lon": 108.706001,
+    "type": "small_airport",
+    "distance_km": 74.0
+   },
+   {
+    "name": "Phu Bai International Airport",
+    "iata": "HUI",
+    "city": "Huế",
+    "country": "VN",
+    "lat": 16.400581,
+    "lon": 107.704094,
+    "type": "large_airport",
+    "distance_km": 83.9
+   }
+  ],
+  "nearest_airport_km": 32.2,
+  "distance_beijing_km": 2793.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "VN",
+  "country_zh": "越南",
+  "country_en": "Vietnam",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][161]",
+  "notes": "e-Visa is valid for 90 days and multiple entry. Holders of passports for public affairs do not require a visa.[18] Visa not required for 30 days for Phu Quoc island, including transiting through Noi Bai International Airport or Tan Son Nhat International Airport. Visa collection on arrival can be ar"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "VN",
+   "country_zh": "越南",
+   "country_en": "Vietnam",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][161]",
+   "notes": "e-Visa is valid for 90 days and multiple entry. Holders of passports for public affairs do not require a visa.[18] Visa not required for 30 days for Phu Quoc island, including transiting through Noi Bai International Airport or Tan Son Nhat International Airport. Visa collection on arrival can be ar"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "vi",
+  "local_lang_name": "Vietnamese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/949"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/M%E1%BB%B9%20S%C6%A1n%20archaeological%20site"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

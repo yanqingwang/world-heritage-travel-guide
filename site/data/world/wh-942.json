@@ -1,0 +1,162 @@
+{
+ "id": "wh-942",
+ "unesco_id": "942",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 350,
+ "popularity_score": 24680,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Prefecture of Dodecanese, Region of the South Aegean",
+ "subdivision_iso": "GR-L",
+ "subdivision_zh": "南爱琴大区",
+ "subdivision_en": "South Aegean Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "帕特莫斯岛的天启洞穴和圣约翰修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos",
+ "name_local": "Μονή του Αγίου Ιωάννου του Θεολόγου",
+ "local_lang": "el",
+ "local_lang_name": "Greek",
+ "slug": "942-the_historic_centre_(chorá)_with_the_mon",
+ "lat": 37.309188888,
+ "lon": 26.548052777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "多德卡尼斯群岛的帕特莫斯小岛由于圣约翰神学家在此创作《福音书》和《启示录》而驰名。10世纪后期，有人在这里为“挚爱的门徒”修建了一座修道院，从此，这里便一直是一个朝圣地，也是希腊东正教学习之地。岛上占主体地位的是精美的修道院建筑群，焦耳城(Chorá)古老的住区及其周围有许多宗教和世俗的建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The small island of Pátmos in the Dodecanese is reputed to be where St John the Theologian wrote both his Gospel and the Apocalypse. A monastery dedicated to the ‘beloved disciple’ was founded there in the late 10th century and it has been a place of pilgrimage and Greek Orthodox learning ever since. The fine monastic complex dominates the island. The old settlement of Chorá, associated with it, contains many religious and secular buildings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Η Ιερά, Βασιλική, Πατριαρχική, Σταυροπηγιακή και Κοινοβιακή Μονή Αγίου Ιωάννου του Θεολόγου και Ευαγγελιστού είναι Ορθόδοξο μοναστήρι που ιδρύθηκε το 1088, στη Χώρα της Πάτμου. Το 1999 κηρύχθηκε Μνημείο Παγκόσμιας Κληρονομιάς από την UNESCO. Κτίστηκε στο σημείο που πιστεύεται τόσο από την Ορθόδοξη Εκκλησία όσο και από την Καθολική, ότι ο απόστολος Ιωάννης συνέγραψε το Ευαγγέλιο και την Αποκάλυψη, κοντά στο σπήλαιο όπου είχε τα οράματα της Αποκάλυψης.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chora%20di%20Patmos%20con%20il%20Monastero%20di%20San%20Giovanni%20%22il%20teologo%22.JPG?width=1280",
+   "title": "Chora di Patmos con il Monastero di San Giovanni \"il teologo\".JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Chora%20di%20Patmos%20con%20il%20Monastero%20di%20San%20Giovanni%20%22il%20teologo%22.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_942.jpg",
+   "title": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/942",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/942",
+ "transport": {
+  "airports": [
+   {
+    "name": "Leros Airport",
+    "iata": "LRS",
+    "city": "Leros Island",
+    "country": "GR",
+    "lat": 37.184898,
+    "lon": 26.800301,
+    "type": "small_airport",
+    "distance_km": 26.3
+   },
+   {
+    "name": "Ikaria Airport",
+    "iata": "JIK",
+    "city": "Ikaria Island",
+    "country": "GR",
+    "lat": 37.6827011108,
+    "lon": 26.3470993042,
+    "type": "small_airport",
+    "distance_km": 45.2
+   },
+   {
+    "name": "Kalymnos Airport",
+    "iata": "JKL",
+    "city": "Kalymnos Island",
+    "country": "GR",
+    "lat": 36.9632987976,
+    "lon": 26.9405994415,
+    "type": "small_airport",
+    "distance_km": 51.9
+   }
+  ],
+  "nearest_airport_km": 26.3,
+  "distance_beijing_km": 7445.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "el",
+  "local_lang_name": "Greek",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 33
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/942"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monastery%20of%20Saint%20John%20the%20Theologian"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

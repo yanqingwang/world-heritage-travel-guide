@@ -1,0 +1,192 @@
+{
+ "id": "cn-1456",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "抚州市",
+ "city_en": "Fuzhou",
+ "name_zh": "抚州市资溪县大觉山景区",
+ "name_en": "Mount Dajue",
+ "name_en_source": "wikipedia",
+ "slug": "fuzhoushizixixiandajueshan-1456",
+ "lat": 27.702518,
+ "lon": 117.150348,
+ "address_zh": "江西省抚州市资溪县建设东路14号",
+ "address_en": "No. 14, Jianshe East Road, Zixi County, Fuzhou City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "大觉山景区分为东、西两大片区。东区以浩瀚如海的原始森林为中心，汇集了各类动植物，被誉为“天然氧吧”“动植物基因库”。西区是大自然和原生态的完美结晶，是自然生态和佛教文化旅游景区。",
+ "intro_en": "Mount Dajue, also known as Dajue Mountain or Dajueshan, is a mountainous area and tourist attraction in Zixi County, Fuzhou, Jiangxi, China. It is one of the AAAAA Tourist Attractions of China. Dajue Mountain tourist area's highest elevation is 1,647m, and covers an area of 204 kilometers squared. The area contains ancient forest and cultural attractions, as well as canyon activities. Dajue Peak is located in the area and has a cableway reaching 1,200m altitude, and reaches a maximum height of 1,360 meters. There is also Dajue Temple, which is a large granite cave with a total depth of 69m; the temple has a history dating back at least 1,600 years, and is located in Lotus Mountain. A leisure resort has been built within the park. As of 2017, a glass bridge was another attraction in the area. The mountain has a subtropical humid monsoon climate, with an average of 1,596.7 hours of sunshine per year, an average temperature of 16.9 degrees Celsius and a rainfall of 1,929.9 mm annually. The scenic area is home to 123 rare and endangered species. These include Taxus chinensis and the gingko. There are at least 206 species of animals under state protection, including the clouded leopard ",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "第六批江西省文物保护单位名单.pdf",
+   "author": "江西省人民政府",
+   "license": "Public domain",
+   "credit": "[1] （来自 [2] ，另见 [3] ）",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanping Wuyishan Airport",
+    "iata": "WUS",
+    "city": "Wuyishan",
+    "country": "CN",
+    "lat": 27.7019,
+    "lon": 118.000999,
+    "type": "medium_airport",
+    "distance_km": 83.7
+   },
+   {
+    "name": "Shangrao Sanqingshan Airport",
+    "iata": "SQD",
+    "city": "Shangrao (Hengfeng)",
+    "country": "CN",
+    "lat": 28.3797,
+    "lon": 117.9643,
+    "type": "medium_airport",
+    "distance_km": 109.8
+   },
+   {
+    "name": "Sanming Shaxian Airport",
+    "iata": "SQJ",
+    "city": "Sanming (Sha)",
+    "country": "CN",
+    "lat": 26.4263,
+    "lon": 117.8336,
+    "type": "medium_airport",
+    "distance_km": 157.2
+   }
+  ],
+  "nearest_airport_km": 83.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "铁关村",
+    "name_en": null,
+    "lat": 27.6793685,
+    "lon": 117.1109929,
+    "distance_km": 4.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "园岱",
+    "name_en": null,
+    "lat": 27.6383205,
+    "lon": 117.1416177,
+    "distance_km": 7.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "资溪",
+    "name_en": "Zixi",
+    "lat": 27.7244202,
+    "lon": 117.073574,
+    "distance_km": 7.9,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "资溪面包之家大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.7201292,
+   "lon": 117.0800495,
+   "distance_km": 7.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "天福酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5427173,
+   "lon": 117.3217052,
+   "distance_km": 24.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "人头马酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5465243,
+   "lon": 117.3303901,
+   "distance_km": 24.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "温馨大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5451359,
+   "lon": 117.3340587,
+   "distance_km": 25.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "圣农假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5436104,
+   "lon": 117.3383341,
+   "distance_km": 25.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 7,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/大觉山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

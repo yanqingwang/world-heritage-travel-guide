@@ -1,0 +1,154 @@
+{
+ "id": "wh-311",
+ "unesco_id": "311",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1065,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Segovia, Autonomous Community of Castile-Leon",
+ "subdivision_iso": "ES-CL",
+ "subdivision_zh": "",
+ "subdivision_en": "Castile and León",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "塞哥维亚古城及其输水道",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Town of Segovia and its Aqueduct",
+ "name_local": "Ciudad vieja y acueducto de Segovia",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "311-old_town_of_segovia_and_its_aqueduct",
+ "lat": 40.94847222,
+ "lon": -4.11675,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "塞哥维亚古罗马输水道，大概建于公元50年前后，迄今保存完好，令人称奇。这一建筑以双层拱洞为特点，给人留下深刻的印象，成为塞哥维亚历史古城一道亮丽的风景线。在这里，人们还可以参观阿尔卡萨尔教堂，它始建于公元11世纪，完成于16世纪，是著名的哥特式大教堂。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Roman aqueduct of Segovia, probably built c. A.D. 50, is remarkably well preserved. This impressive construction, with its two tiers of arches, forms part of the setting of the magnificent historic city of Segovia. Other important monuments include the Alcázar, begun around the 11th century, and the 16th-century Gothic cathedral.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Edificado probablemente hacia el año 50 d.C., el acueducto romano de Segovia se conserva excepcionalmente intacto. Esta imponente construcción de doble arcada se inserta en el marco magnífico de la ciudad histórica, donde se pueden admirar otros soberbios monumentos como el Alcázar, cuya construcción se inició en el siglo XI, y la catedral gótica del siglo XVI.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_311.jpg",
+   "title": "Old Town of Segovia and its Aqueduct",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/311",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/311",
+ "transport": {
+  "airports": [
+   {
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "iata": "MAD",
+    "city": "Madrid",
+    "country": "ES",
+    "lat": 40.493407,
+    "lon": -3.572249,
+    "type": "large_airport",
+    "distance_km": 68.3
+   },
+   {
+    "name": "Valladolid Airport",
+    "iata": "VLL",
+    "city": "Valladolid",
+    "country": "ES",
+    "lat": 41.7061,
+    "lon": -4.85194,
+    "type": "medium_airport",
+    "distance_km": 104.2
+   },
+   {
+    "name": "Salamanca Airport",
+    "iata": "SLM",
+    "city": "Salamanca",
+    "country": "ES",
+    "lat": 40.952099,
+    "lon": -5.50199,
+    "type": "medium_airport",
+    "distance_km": 116.3
+   }
+  ],
+  "nearest_airport_km": 68.3,
+  "distance_beijing_km": 9204.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/311"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

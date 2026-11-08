@@ -1,0 +1,162 @@
+{
+ "id": "wh-25",
+ "unesco_id": "25",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 756,
+ "popularity_score": 4229,
+ "country": "SN",
+ "country_zh": "塞内加尔",
+ "country_en": "Senegal",
+ "countries": [
+  {
+   "iso2": "SN",
+   "zh": "塞内加尔",
+   "en": "Senegal"
+  }
+ ],
+ "region": "Delta of the River Senegal",
+ "subdivision_iso": "SN-SL",
+ "subdivision_zh": "圣路易区",
+ "subdivision_en": "Saint-Louis",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "朱贾国家鸟类保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Djoudj National Bird Sanctuary",
+ "name_local": "Parc national des oiseaux du Djoudj",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "25-djoudj_national_bird_sanctuary",
+ "lat": 16.358494949,
+ "lon": -16.27410156,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "朱贾国家鸟类保护区是一块占地面积约为16 000公顷的湿地，位处塞内加尔河三角洲地区。保护区内有一大型湖泊，湖泊四周分布着大大小小的溪流、池塘和水潭。这里生态环境不很稳定，但充满着生机。保护区里栖息着150多万种鸟类，有白鹈鹕、紫苍鹭、非洲篦鹭、大白鹭、鸬鹚等等。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in the Senegal River delta, the Djoudj Sanctuary is a wetland of 16,000 ha, comprising a large lake surrounded by streams, ponds and backwaters. It forms a living but fragile sanctuary for some 1.5 million birds, such as the white pelican, the purple heron, the African spoonbill, the great egret and the cormorant.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Dans le delta du fleuve Sénégal, le parc est une zone humide de 16 000 ha comprenant un grand lac entouré de ruisseaux, d’étangs et de bras morts, qui constituent un sanctuaire vital, mais fragile, pour un million et demi d’oiseaux tels que le pélican blanc, le héron pourpre, la spatule africaine, la grande aigrette et le cormoran.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CormoransDjoudj.JPG?width=1280",
+   "title": "CormoransDjoudj.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:CormoransDjoudj.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_25.jpg",
+   "title": "Djoudj National Bird Sanctuary",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/25",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/25",
+ "transport": {
+  "airports": [
+   {
+    "name": "Blaise Diagne International Airport",
+    "iata": "DSS",
+    "city": "Dakar",
+    "country": "SN",
+    "lat": 14.670878,
+    "lon": -17.072829,
+    "type": "large_airport",
+    "distance_km": 206.2
+   },
+   {
+    "name": "Nouakchott–Oumtounsy International Airport",
+    "iata": "NKC",
+    "city": "Nouakchott",
+    "country": "MR",
+    "lat": 18.31,
+    "lon": -15.969722,
+    "type": "large_airport",
+    "distance_km": 219.4
+   },
+   {
+    "name": "Banjul International Airport",
+    "iata": "BJL",
+    "city": "Banjul (Yundum)",
+    "country": "GM",
+    "lat": 13.338,
+    "lon": -16.652201,
+    "type": "large_airport",
+    "distance_km": 338.3
+   }
+  ],
+  "nearest_airport_km": 206.2,
+  "distance_beijing_km": 12271.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SN",
+  "country_zh": "塞内加尔",
+  "country_en": "Senegal",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa not required for less than 3 months stay Chinese ordinary passport holders.[127] Holders of passports for public affairs do not require a visa for 30 days.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SN",
+   "country_zh": "塞内加尔",
+   "country_en": "Senegal",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa not required for less than 3 months stay Chinese ordinary passport holders.[127] Holders of passports for public affairs do not require a visa for 30 days.[18]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 47
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/25"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Djoudj%20National%20Bird%20Sanctuary"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

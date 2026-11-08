@@ -1,0 +1,162 @@
+{
+ "id": "wh-836",
+ "unesco_id": "836",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 151,
+ "popularity_score": 89683,
+ "country": "MA",
+ "country_zh": "摩洛哥",
+ "country_en": "Morocco",
+ "countries": [
+  {
+   "iso2": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco"
+  }
+ ],
+ "region": "Wilaya de Meknès - Province Meknès El Menzeh Meulay-Idriss Zerhoun",
+ "subdivision_iso": "MA-MEK",
+ "subdivision_zh": "梅克內斯省",
+ "subdivision_en": "Meknès Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦卢比利斯考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Volubilis",
+ "name_local": "موقع وليلي الاثري",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "836-archaeological_site_of_volubilis",
+ "lat": 34.0399646,
+ "lon": -5.5626871,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)(vi)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "古城建于公元前3世纪，曾是北非古国毛里塔尼亚的首都，是罗马帝国的一个重要前哨，有着许多优雅精致的建筑物。该考古遗址是一个富饶的农业区，在这里挖掘出土过许多重要遗迹和文物。瓦卢比利斯后来曾有一段时期成了伊德里斯王朝的首都，王朝的创立者伊德里斯一世就葬在附近的穆莱伊德里斯。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Mauritanian capital, founded in the 3rd century B.C., became an important outpost of the Roman Empire and was graced with many fine buildings. Extensive remains of these survive in the archaeological site, located in a fertile agricultural area. Volubilis was later briefly to become the capital of Idris I, founder of the Idrisid dynasty, who is buried at nearby Moulay Idris.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تأسَّست العاصمة الموريسكية في القرن الثالث ق.م. وقد أعطتها الامبراطورية الرومانية أهميةً كبيرةً وخصّصتها بآثارٍ جميلةٍ عدة. ولا تزال آثارٌ عديدةٌ منها صامدةً في الموقع الاثري الذي يقع في منطقةٍ زراعيّةٍ خصبة. ثم أصبحت هذه المنطقة فيما بعد ولفترةٍ قصيرةٍ جداً عاصمة ادريس الاول وهو مؤسس حكم الأدارسة وقد تمّ دفنه في مكانٍ غير بعيد عنها، في مولاي ادريس.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Volubilis%201990.jpg?width=1280",
+   "title": "Volubilis 1990.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Volubilis%201990.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_836.jpg",
+   "title": "Archaeological Site of Volubilis",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/836",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/836",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fes Saïss International Airport",
+    "iata": "FEZ",
+    "city": "Saïss",
+    "country": "MA",
+    "lat": 33.927299,
+    "lon": -4.97796,
+    "type": "large_airport",
+    "distance_km": 55.3
+   },
+   {
+    "name": "Rabat-Salé Airport",
+    "iata": "RBA",
+    "city": "Rabat",
+    "country": "MA",
+    "lat": 34.051498,
+    "lon": -6.75152,
+    "type": "large_airport",
+    "distance_km": 109.5
+   },
+   {
+    "name": "Sania Ramel Airport",
+    "iata": "TTU",
+    "city": "Tétouan",
+    "country": "MA",
+    "lat": 35.594299,
+    "lon": -5.32002,
+    "type": "large_airport",
+    "distance_km": 174.2
+   }
+  ],
+  "nearest_airport_km": 55.3,
+  "distance_beijing_km": 9835.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MA",
+  "country_zh": "摩洛哥",
+  "country_en": "Morocco",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MA",
+   "country_zh": "摩洛哥",
+   "country_en": "Morocco",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 52
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/836"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Volubilis"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

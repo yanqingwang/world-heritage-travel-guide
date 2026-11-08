@@ -1,0 +1,224 @@
+{
+ "id": "cn-494",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "云南省",
+ "province_en": "Yunnan",
+ "province_iso": "CN-YN",
+ "city_zh": "迪庆藏族自治州",
+ "city_en": "Diqing Tibetan Autonomous Prefecture",
+ "name_zh": "迪庆州普达措国家公园",
+ "name_en": "Potatson National Park",
+ "name_en_source": "wikipedia",
+ "slug": "diqingzhoupudacuoguojiagongyuan-494",
+ "lat": 27.808283,
+ "lon": 99.913131,
+ "address_zh": "云南省迪庆藏族自治州香格里拉市红坡村东环线",
+ "address_en": "East Ring Road, Hongpo Village, Shangri-La City, Diqing Tibetan Autonomous Prefecture, Yunnan Province",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "普达措景区位于滇西北“三江并流”世界自然遗产中心地带，由国际重要湿地碧塔海自然保护区和“三江并流”世界自然遗产哈巴片区之属都湖景区两部分构成，以碧塔海、属都湖和弥里塘亚高山牧场为主要组成部分，也是香格里拉旅游的主要景点之一。景区拥有地质地貌、湖泊湿地、森林草甸、河谷溪流、珍稀动植物等，原始生态环境保存完好。",
+ "intro_en": "Potatso National Park (普达措国家公园) is a provincially-administered natural reserve in Shangri-la, Diqing, Yunnan, China. The park covers 1,300 square kilometres (500 square miles). Despite the name, it is a national park trail site and is not part of the national park system of China. The park was announced on June 25, 2007, and is notable as the first natural reserve park in China to meet International Union for Conservation of Nature standards. It incorporates the Bita Lake Nature Reserve and the Duhu Scenic Area in the Hongshan region. As such they are part of the Three Parallel Rivers of Yunnan Protected Areas World Heritage Site.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Meadow_in_Pudacuo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Meadow in Pudacuo.JPG",
+   "author": "Asaikana",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Meadow_in_Pudacuo.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Militang_Pasture%2C_Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg/1280px-Militang_Pasture%2C_Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Militang Pasture, Potatso (Pudacuo) National Park, Diqing - panoramio.jpg",
+   "author": "Colin W",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161010120734/http://www.panoramio.com/photo/8838486",
+   "source": "https://commons.wikimedia.org/wiki/File:Militang_Pasture%2C_Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Potatso (Pudacuo) National Park, Diqing - panoramio.jpg",
+   "author": "Colin W",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161011113647/http://www.panoramio.com/photo/8838633",
+   "source": "https://commons.wikimedia.org/wiki/File:Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W.jpg",
+   "author": "Colin W",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161010012204/http://www.panoramio.com/photo/8838185",
+   "source": "https://commons.wikimedia.org/wiki/File:Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%281%29.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W (1).jpg",
+   "author": "Colin W",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161126170552/http://www.panoramio.com/photo/8838317",
+   "source": "https://commons.wikimedia.org/wiki/File:Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%281%29.jpg"
+  }
+ ],
+ "web": "http://www.pdcuo.com/",
+ "booking": "http://www.pdcuo.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Diqing Shangri-La Airport",
+    "iata": "DIG",
+    "city": "Diqing (Shangri-La)",
+    "country": "CN",
+    "lat": 27.7936,
+    "lon": 99.6772,
+    "type": "medium_airport",
+    "distance_km": 23.3
+   },
+   {
+    "name": "Ninglang Luguhu Airport",
+    "iata": "NLH",
+    "city": "Ninglang",
+    "country": "CN",
+    "lat": 27.5403,
+    "lon": 100.7593,
+    "type": "medium_airport",
+    "distance_km": 88.5
+   },
+   {
+    "name": "Lijiang Sanyi International Airport",
+    "iata": "LJG",
+    "city": "Lijiang",
+    "country": "CN",
+    "lat": 26.677483,
+    "lon": 100.244944,
+    "type": "large_airport",
+    "distance_km": 129.9
+   }
+  ],
+  "nearest_airport_km": 23.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "居都谷",
+    "name_en": null,
+    "lat": 27.7379517,
+    "lon": 99.7197199,
+    "distance_km": 20.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "香格里拉 སེམས་ཀྱི་ཉི་ཟླ་འབབ་ཚུགས།",
+    "name_en": "Xianggelila (Shangri-La)",
+    "lat": 27.8140311,
+    "lon": 99.6888689,
+    "distance_km": 22.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "鲁吉",
+    "name_en": null,
+    "lat": 27.6469164,
+    "lon": 99.7480702,
+    "distance_km": 24.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "香格里拉普达措悠幽庄园",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.8440374,
+   "lon": 99.9179961,
+   "distance_km": 4.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香格里拉扎西德勒大酒店",
+   "name_en": "Zhaxidele Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 27.8176783,
+   "lon": 99.7137561,
+   "distance_km": 19.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "迪庆喜来登度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.8078001,
+   "lon": 99.7129237,
+   "distance_km": 19.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香格里拉市梵遇客栈",
+   "name_en": "Fanyu Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 27.8141915,
+   "lon": 99.7113086,
+   "distance_km": 19.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香格里拉宗萨书吧客栈",
+   "name_en": "Dzongsa Book bar Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 27.8178684,
+   "lon": 99.7081425,
+   "distance_km": 20.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 41,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/云南普达措国家公园"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

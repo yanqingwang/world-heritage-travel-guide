@@ -1,0 +1,152 @@
+{
+ "id": "wh-1510",
+ "unesco_id": "1510",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 214,
+ "popularity_score": 54170,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "MX-COL",
+ "subdivision_zh": "科利马州",
+ "subdivision_en": "Colima",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "Revillagigedo群岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archipiélago de Revillagigedo",
+ "name_local": "Archipiélago de Revillagigedo",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1510-archipiélago_de_revillagigedo",
+ "lat": 18.821388888,
+ "lon": -112.763888888,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "2016",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这片群岛位于太平洋东部，由四座岛屿及其周边水域组成：圣贝内迪克托、索科罗、罗卡帕蒂达和克拉里翁岛。群岛是海底山脉的组成部分，露出水面的海底火山顶就是岛屿。群岛为海鸟等许多野生物种提供了重要的栖息地。岛屿周边水域中生活着巨型鬼蝠鲼、鲸鱼、海豚和鲨鱼等丰富多样的大型浅水物种。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in the eastern Pacific Ocean, this archipelago is made up of four remote islands and their surrounding waters: San Benedicto, Socorro, Roca Partida and Clarión. This archipelago is part of a submerged mountain range, with the four islands representing the peaks of volcanoes emerging above sea level. The islands provide critical habitat for a range of wildlife and are of particular importance for seabirds. The surrounding waters have a remarkable abundance of large pelagic species, such as manta rays, whales, dolphins and sharks.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado en el Pacífico Oriental, este archipiélago está formado por las islas de San Benedicto, Socorro y Clarión, el islote de Roca Partida y sus aguas adyacentes. Las cuatro islas –que son de hecho las cumbres emergidas de otros tantos volcanes integrantes de una cadena montañosa submarina– constituyen un hábitat de vital importancia para diversas especies endémicas de flora y fauna, en particular aves marinas. Las aguas circundantes albergan una concentración notable de especies pelágicas de gran tamaño: mantas gigantes, delfines, tiburones y cetáceos.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Benedicto%20Island.jpg?width=1280",
+   "title": "San Benedicto Island.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:San%20Benedicto%20Island.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1510.jpg",
+   "title": "Archipiélago de Revillagigedo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1510",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1510",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cabo San Lucas International Airport",
+    "iata": "CSW",
+    "city": "Cabo San Lucas",
+    "country": "MX",
+    "lat": 22.949072,
+    "lon": -109.939479,
+    "type": "medium_airport",
+    "distance_km": 544.7
+   },
+   {
+    "name": "Los Cabos International Airport",
+    "iata": "SJD",
+    "city": "San José del Cabo",
+    "country": "MX",
+    "lat": 23.151919,
+    "lon": -109.720731,
+    "type": "large_airport",
+    "distance_km": 575.9
+   }
+  ],
+  "nearest_airport_km": 544.7,
+  "distance_beijing_km": 11510.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1510"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Revillagigedo%20Islands"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

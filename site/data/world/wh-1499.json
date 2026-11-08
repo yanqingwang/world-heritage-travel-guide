@@ -1,0 +1,161 @@
+{
+ "id": "wh-1499",
+ "unesco_id": "1499",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 821,
+ "popularity_score": 1932,
+ "country": "AG",
+ "country_zh": "安提瓜和巴布达",
+ "country_en": "Antigua and Barbuda",
+ "countries": [
+  {
+   "iso2": "AG",
+   "zh": "安提瓜和巴布达",
+   "en": "Antigua and Barbuda"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "AG-06",
+ "subdivision_zh": "圣保罗区",
+ "subdivision_en": "Saint Paul",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "安提瓜海军船坞及相关考古遗址",
+ "name_zh_source": "curated",
+ "name_en": "Antigua Naval Dockyard and Related Archaeological Sites",
+ "name_local": "Astillero de Antigua y sitios arqueológicos conexos",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1499-antigua_naval_dockyard_and_related_archa",
+ "lat": 17.00455,
+ "lon": -61.76007,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2016",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址由一组格鲁吉亚风格的海军建筑和结构组成，位于围墙内。安提瓜岛这一侧的自然环境优美，海湾又深又窄，周围环绕着高地，为飓风提供了庇护所，非常适合修船。如果没有 18 世纪末以来几代被奴役的非洲人的劳动，英国海军不可能建造造船厂。其目的是在欧洲列强争夺东加勒比控制权之际保护甘蔗种植者的利益。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The site consists of a group of Georgian-style naval buildings and structures, set within a walled enclosure. The natural environment of this side of the island of Antigua, with its deep, narrow bays surrounded by highlands, offered shelter from hurricanes and was ideal for repairing ships. The construction of the Dockyard by the British navy would not have been possible without the labour of generations of enslaved Africans since the end of the 18th century. Its aim was to protect the interests of sugar cane planters at a time when European powers were competing for control of the Eastern Caribbean.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este sitio comprende un recinto fortificado de la época georgiana con instalaciones y edificios portuarios y navales. El medio natural de bahías profundas, rodeadas de terrenos elevados, que caracteriza a este lugar de la isla de Antigua ofrecía un refugio seguro contra los huracanes, propiciando así el mantenimiento y reparación de los navíos. Construido por la Marina Real Británica a finales del siglo XVIII gracias al aporte esencial de la mano de obra esclava africana, el astillero de Antigua tenía por objeto proteger los intereses de los dueños de las plantaciones de caña de azúcar en una época en que las naciones europeas se disputaban con encarnizamiento el control del Caribe Oriental.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirley%20Heights%20-%20Antigua.jpg?width=1280",
+   "title": "Shirley Heights - Antigua.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Shirley%20Heights%20-%20Antigua.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1499.jpg",
+   "title": "Antigua Naval Dockyard and Related Archaeological Sites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1499",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1499",
+ "transport": {
+  "airports": [
+   {
+    "name": "V. C. Bird International Airport",
+    "iata": "ANU",
+    "city": "Osbourn",
+    "country": "AG",
+    "lat": 17.1367,
+    "lon": -61.792702,
+    "type": "large_airport",
+    "distance_km": 15.1
+   },
+   {
+    "name": "John A. Osborne Airport",
+    "iata": "MNI",
+    "city": "Gerald's Park",
+    "country": "MS",
+    "lat": 16.791835,
+    "lon": -62.193204,
+    "type": "large_airport",
+    "distance_km": 51.8
+   },
+   {
+    "name": "Burton-Nibbs International Airport",
+    "iata": "BBQ",
+    "city": "Codrington",
+    "country": "AG",
+    "lat": 17.621194,
+    "lon": -61.798347,
+    "type": "medium_airport",
+    "distance_km": 68.7
+   }
+  ],
+  "nearest_airport_km": 15.1,
+  "distance_beijing_km": 13650.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AG",
+  "country_zh": "安提瓜和巴布达",
+  "country_en": "Antigua and Barbuda",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AG",
+   "country_zh": "安提瓜和巴布达",
+   "country_en": "Antigua and Barbuda",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 7
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1499"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Antigua%20Naval%20Dockyard%20and%20Related%20Archaeological%20Sites"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1594",
+ "unesco_id": "1594",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 170,
+ "popularity_score": 79381,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GB-CHE",
+ "subdivision_zh": "柴郡東",
+ "subdivision_en": "Cheshire East",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卓瑞尔河岸天文台",
+ "name_zh_source": "unesco_official",
+ "name_en": "Jodrell Bank Observatory",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1594-jodrell_bank_observatory",
+ "lat": 53.23625,
+ "lon": -2.307138888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(vi)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卓瑞尔河岸天文台位于英格兰西北部一处不受无线电干扰的乡村，是世界上最早建成的射电天文台之一。天文台在落成初期（1945年）主要用于研究由雷达系统探测到的宇宙射线。这座仍在使用中的天文台由若干射电望远镜和功能性建筑物（工程工作室、控制室）组成。该天文台对流星、月球、类星体探测、量子光学和航天器跟踪等领域的科学研究发展产生了重大的影响。该遗址不仅是传统光学天文学向无线电天文学（1940年代-1960年代）过渡的重要标志，还深刻改变了人类对宇宙的理解。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in a rural area of northwest England, free from radio interference, Jodrell Bank is one of the world's leading radio astronomy observatories. At the beginning of its use, in 1945, the property housed research on cosmic rays detected by radar echoes. This observatory, which is still in operation, includes several radio telescopes and working buildings, including engineering sheds and the Control Building. Jodrell Bank has had substantial scientific impact in fields such as the study of meteors and the moon, the discovery of quasars, quantum optics, and the tracking of spacecraft. This exceptional technological ensemble illustrates the transition from traditional optical astronomy to radio astronomy (1940s to 1960s), which led to radical changes in the understanding of the universe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lovell%20Telescope.jpg?width=1280",
+   "title": "Lovell Telescope.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lovell%20Telescope.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1594.jpg",
+   "title": "Jodrell Bank Observatory",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1594",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1594",
+ "transport": {
+  "airports": [
+   {
+    "name": "Manchester Airport",
+    "iata": "MAN",
+    "city": "Manchester, Greater Manchester",
+    "country": "GB",
+    "lat": 53.349375,
+    "lon": -2.279521,
+    "type": "large_airport",
+    "distance_km": 12.7
+   },
+   {
+    "name": "Liverpool John Lennon Airport",
+    "iata": "LPL",
+    "city": "Liverpool",
+    "country": "GB",
+    "lat": 53.334863,
+    "lon": -2.849637,
+    "type": "large_airport",
+    "distance_km": 37.7
+   },
+   {
+    "name": "East Midlands Airport",
+    "iata": "EMA",
+    "city": "Nottingham, Leicestershire",
+    "country": "GB",
+    "lat": 52.8311,
+    "lon": -1.32806,
+    "type": "large_airport",
+    "distance_km": 79.5
+   }
+  ],
+  "nearest_airport_km": 12.7,
+  "distance_beijing_km": 8092.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1594"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jodrell%20Bank%20Observatory"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

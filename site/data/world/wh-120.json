@@ -1,0 +1,162 @@
+{
+ "id": "wh-120",
+ "unesco_id": "120",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 321,
+ "popularity_score": 28124,
+ "country": "NP",
+ "country_zh": "尼泊尔",
+ "country_en": "Nepal",
+ "countries": [
+  {
+   "iso2": "NP",
+   "zh": "尼泊尔",
+   "en": "Nepal"
+  }
+ ],
+ "region": "Solu-Khumbu District of the Sagarmatha Zone",
+ "subdivision_iso": "NP-P1",
+ "subdivision_zh": "柯西省",
+ "subdivision_en": "Koshi Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨加玛塔国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sagarmatha National Park",
+ "name_local": "सगरमाथा राष्ट्रिय निकुञ्ज",
+ "local_lang": "ne",
+ "local_lang_name": "Nepali",
+ "slug": "120-sagarmatha_national_park",
+ "lat": 27.891069,
+ "lon": 86.693033,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "萨加玛塔是一个特别的地区，全区遍布形态各异的山脉、冰河和深谷。主要山脉珠穆朗玛峰，即世界最高峰，海拔8848米。公园里有许多稀有物种，例如雪豹和小熊猫。而舍帕斯部落的独特文化更使这一国家公园增加了魅力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Sagarmatha is an exceptional area with dramatic mountains, glaciers and deep valleys, dominated by Mount Everest, the highest peak in the world (8,848 m). Several rare species, such as the snow leopard and the lesser panda, are found in the park. The presence of the Sherpas, with their unique culture, adds further interest to this site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "सगरमाथा राष्ट्रिय निकुञ्ज पूर्वी नेपालको सोलुखुम्बु जिल्लाको उत्तरी भागमा छ जसले सगरमाथा, ल्होत्से, नुप्त्से, चो यु, आमादब्लम हिमालहरू तथा यस वरिपरिको क्षेत्रको ओगटेको छ। यसको क्षेत्रफल ११४८ वर्ग कि.मि. छ । यो इ.सं. १९७६ मा स्थापना गरिएको हो। यस निकुञ्ज क्षेत्रलाई इ.सं. १९७९ देखि विश्व सम्पदा सूचीमा सूचिकृत गरिएको छ । यो निकुञ्ज १८०० मि. देखि ८८४८ मि. सम्मको उचाईमा रहेको छ । यहाँ कस्तुरी मृग, थार, घोरल, लङ्गूर बाँदर,मोनाल, हॉइटे उइङ्ग्ड ग्रस बिक्ड, हर्न लार्क, टिबेटन स्नो कक, चुग आदि पक्षी पाइन्छन्। यो क्षेत्रभित्र बसोबास गर्ने मानिसहरूको सङ्ख्या करिब ३,००० छ । जसमा मुख्य रूपले शेर्पा जातीको मानिसहरूको बसोवास रहेको छ । यहाँको मुख्य बसोबास क्षेत्रहरू नाम्चे बजार, खुम्जुङ, थामे, थेङ्बोचे, स्याङ्बोचे आदि हुन्। ==इतिहास==sagarmatha",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Everest%2C%20Nuptse%2C%20Khumbu%20Glacier%2C%20Nepal%2C%20Himalayas.jpg?width=1280",
+   "title": "Everest, Nuptse, Khumbu Glacier, Nepal, Himalayas.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Everest%2C%20Nuptse%2C%20Khumbu%20Glacier%2C%20Nepal%2C%20Himalayas.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_120.jpg",
+   "title": "Sagarmatha National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/120",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/120",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tenzing-Hillary Airport",
+    "iata": "LUA",
+    "city": "Lukla",
+    "country": "NP",
+    "lat": 27.686768,
+    "lon": 86.729479,
+    "type": "medium_airport",
+    "distance_km": 23.0
+   },
+   {
+    "name": "Shigatse Tingri Airport",
+    "iata": "DDR",
+    "city": "Xigazê (Dingri)",
+    "country": "CN",
+    "lat": 28.604567,
+    "lon": 86.798,
+    "type": "medium_airport",
+    "distance_km": 80.0
+   },
+   {
+    "name": "Tumling Tar Airport",
+    "iata": "TMI",
+    "city": "Tumling Tar",
+    "country": "NP",
+    "lat": 27.315001,
+    "lon": 87.193298,
+    "type": "small_airport",
+    "distance_km": 80.8
+   }
+  ],
+  "nearest_airport_km": 23.0,
+  "distance_beijing_km": 3061.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NP",
+  "country_zh": "尼泊尔",
+  "country_en": "Nepal",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "Online Visa / Free visa on arrival[6][98]",
+  "notes": "Visa is issued free of charge for Chinese tourists.[99]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NP",
+   "country_zh": "尼泊尔",
+   "country_en": "Nepal",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "Online Visa / Free visa on arrival[6][98]",
+   "notes": "Visa is issued free of charge for Chinese tourists.[99]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ne",
+  "local_lang_name": "Nepali",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 58
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/120"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sagarmatha%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

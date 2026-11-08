@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(x)"
 lat: 6.74
 lon: 126.182
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:46Z"
 ---
 
 # 哈米吉坦山野生动物保护区 / Mount Hamiguitan Range Wildlife Sanctuary

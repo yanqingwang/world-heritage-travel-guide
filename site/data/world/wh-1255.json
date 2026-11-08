@@ -1,0 +1,162 @@
+{
+ "id": "wh-1255",
+ "unesco_id": "1255",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 490,
+ "popularity_score": 13870,
+ "country": "NA",
+ "country_zh": "纳米比亚",
+ "country_en": "Namibia",
+ "countries": [
+  {
+   "iso2": "NA",
+   "zh": "纳米比亚",
+   "en": "Namibia"
+  }
+ ],
+ "region": "Kunene Region",
+ "subdivision_iso": "NA-KU",
+ "subdivision_zh": "库内内区",
+ "subdivision_en": "Kunene Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "推菲尔泉岩画",
+ "name_zh_source": "unesco_official",
+ "name_en": "Twyfelfontein or /Ui-//aes",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1255-twyfelfontein_or_/ui-//aes",
+ "lat": -20.595583333,
+ "lon": 14.372583333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2007",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "推菲尔泉是世界最大的岩刻画集中地，即非洲岩刻。迄今为止已记载有2000多幅图画。大多数保存完好的岩刻是犀牛、大象、驼鸟和长颈鹿，以及人和动物的脚印画。该遗产还包括六个绘有图画的岩石庇护处，在红赭石上刻有以人为主题的图画。这些岩刻是从两处遗产中挖掘出来的，包括来自石器时代晚期的石材工艺品、鸵鸟蛋壳珠和片岩吊坠。人或飞鸟很少见，据认为雕刻这些图形是说明人变成动物的礼仪。最有名的例子是“狮人”，一个狮子每个脚爪上有五个脚趾头。该雕刻说明岩刻艺术与狩猎采集者的信仰体系相关，这些狩猎采集者在牧民们约公元1000年到来时占据着该地区。该遗址连贯、广泛、高质量地记录了至少2000多年间南美这块土地与狩猎采集者社区相关的礼仪习俗，而且它令人信服地说明了狩猎采集者的礼仪和经济习俗之间的联系。这是纳米比亚第一个列入《世界遗产名录》的遗址。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Twyfelfontein or /Ui-//aes has one of the largest concentrations of [...] petroglyphs, i.e. rock engravings in Africa. Most of these well-preserved engravings represent rhinoceros, . The site also includes six painteelephant, ostrich and giraffe, as well as drawings of human and animal footprintsd rock shelters with motifs of human figures in red ochre. The objects excavated from two sections, date from the Late Stone Age. The site forms a coherent, extensive and high-quality record of ritual practices relating to hunter-gatherer communities in this part of southern Africa over at least 2,000 years, and eloquently illustrates the links between the ritual and economic practices of hunter-gatherers.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock%20Paintig%20Twyfelfontein%20Namibia.jpg?width=1280",
+   "title": "Rock Paintig Twyfelfontein Namibia.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Rock%20Paintig%20Twyfelfontein%20Namibia.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1255.jpg",
+   "title": "Twyfelfontein or /Ui-//aes",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1255",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1255",
+ "transport": {
+  "airports": [
+   {
+    "name": "Walvis Bay International Airport",
+    "iata": "WVB",
+    "city": "Walvis Bay(Rooikop)",
+    "country": "NA",
+    "lat": -22.979332,
+    "lon": 14.647102,
+    "type": "large_airport",
+    "distance_km": 266.6
+   },
+   {
+    "name": "Halali Airport",
+    "iata": "HAL",
+    "city": "Halali",
+    "country": "NA",
+    "lat": -19.0285,
+    "lon": 16.4585,
+    "type": "small_airport",
+    "distance_km": 279.2
+   },
+   {
+    "name": "Ondangwa Airport",
+    "iata": "OND",
+    "city": "Ondangwa",
+    "country": "NA",
+    "lat": -17.878201,
+    "lon": 15.9526,
+    "type": "medium_airport",
+    "distance_km": 344.7
+   }
+  ],
+  "nearest_airport_km": 266.6,
+  "distance_beijing_km": 12609.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NA",
+  "country_zh": "纳米比亚",
+  "country_en": "Namibia",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "eVisa[6][96]",
+  "notes": "Namibian authorities have proposed waiving visa requirements for citizens of China.[97]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NA",
+   "country_zh": "纳米比亚",
+   "country_en": "Namibia",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "eVisa[6][96]",
+   "notes": "Namibian authorities have proposed waiving visa requirements for citizens of China.[97]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1255"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Twyfelfontein"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

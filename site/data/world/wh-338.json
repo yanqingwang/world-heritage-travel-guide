@@ -1,0 +1,162 @@
+{
+ "id": "wh-338",
+ "unesco_id": "338",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 232,
+ "popularity_score": 44772,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Assam",
+ "subdivision_iso": "IN-AS",
+ "subdivision_zh": "阿萨姆邦",
+ "subdivision_en": "Assam",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马纳斯野生动植物保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Manas Wildlife Sanctuary",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "338-manas_wildlife_sanctuary",
+ "lat": 26.716666666,
+ "lon": 90.933333333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马纳斯野生动植物保护区位于喜马拉雅山脚下一个平缓的斜坡上，这里由一片冲积草原和热带森林构成，是许多野生动物的家园。保护区内生活着许多濒危物种，如老虎、小矮猪、印度犀牛和印度象。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "On a gentle slope in the foothills of the Himalayas, where wooded hills give way to alluvial grasslands and tropical forests, the Manas sanctuary is home to a great variety of wildlife, including many endangered species, such as the tiger, pygmy hog, Indian rhinoceros and Indian elephant.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capped%20langur%20in%20manas.jpg?width=1280",
+   "title": "Capped langur in manas.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Capped%20langur%20in%20manas.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_338.jpg",
+   "title": "Manas Wildlife Sanctuary",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/338",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/338",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yongphulla Airport",
+    "iata": "YON",
+    "city": "Yongphulla",
+    "country": "BT",
+    "lat": 27.25627,
+    "lon": 91.514633,
+    "type": "small_airport",
+    "distance_km": 83.2
+   },
+   {
+    "name": "Lokpriya Gopinath Bordoloi International Airport",
+    "iata": "GAU",
+    "city": "Guwahati",
+    "country": "IN",
+    "lat": 26.106654,
+    "lon": 91.585226,
+    "type": "large_airport",
+    "distance_km": 93.9
+   },
+   {
+    "name": "Bathpalathang Airport",
+    "iata": "BUT",
+    "city": "Jakar",
+    "country": "BT",
+    "lat": 27.5622,
+    "lon": 90.7471,
+    "type": "small_airport",
+    "distance_km": 95.8
+   }
+  ],
+  "nearest_airport_km": 83.2,
+  "distance_beijing_km": 2708.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/338"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manas%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

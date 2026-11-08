@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(i)(iv)"
 lat: 45.5863198
 lon: -1.1733254
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:50Z"
 ---
 
 # 科尔杜昂灯塔 / Cordouan Lighthouse

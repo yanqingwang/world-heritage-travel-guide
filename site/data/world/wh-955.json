@@ -1,0 +1,162 @@
+{
+ "id": "wh-955",
+ "unesco_id": "955",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 558,
+ "popularity_score": 11286,
+ "country": "ID",
+ "country_zh": "印度尼西亚",
+ "country_en": "Indonesia",
+ "countries": [
+  {
+   "iso2": "ID",
+   "zh": "印度尼西亚",
+   "en": "Indonesia"
+  }
+ ],
+ "region": "Province of Papua (formerly Irian Jaya)",
+ "subdivision_iso": "ID-PA",
+ "subdivision_zh": "巴布亚省",
+ "subdivision_en": "Papua",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "洛伦茨国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Lorentz National Park",
+ "name_local": "Taman Nasional Lorentz",
+ "local_lang": "id",
+ "local_lang_name": "Indonesian",
+ "slug": "955-lorentz_national_park",
+ "lat": -4.75,
+ "lon": 137.833333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)(ix)(x)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "洛伦茨公园占地面积250万公顷，是东南亚最大的保护区，也是世界上唯一一个既包括积雪覆盖的山地又有热带海洋环境、以及广阔低地沼泽的连续完好的保护区。它位于两个大陆板块碰撞的地方，这里的地质情况复杂，既有山脉的形成又有冰河作用的重要活动。这里还保存着化石遗址，记载了新几内亚生命的进化。这一地区拥有动植物的地方特色及丰富的生物多样性。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Lorentz National Park (2.35 million ha) is the largest protected area in South-East Asia. It is the only protected area in the world to incorporate a continuous, intact transect from snowcap to tropical marine environment, including extensive lowland wetlands. Located at the meeting-point of two colliding continental plates, the area has a complex geology with ongoing mountain formation as well as major sculpting by glaciation. The area also contains fossil sites which provide evidence of the evolution of life on New Guinea, a high level of endemism and the highest level of biodiversity in the region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Taman Nasional Lorentz adalah sebuah taman nasional yang terletak di antara 3 provinsi di Pulau Papua, Indonesia yakni Papua Pegunungan, Papua Tengah dan Papua Selatan. Lahan yang ditempatinya seluas wilayah sebesar 2.505.600 hektare. Dalam pembagian administraif, Taman Nasional Lorent berada dalam wilayah Kabupaten Jayawijaya, Kabupaten Mimika, Kabupaten Asmat, Kabupaten Yahukimo, dan Kabupaten Puncak Jaya. Taman Nasional Lorentz juga terbagi menjadi 16 distrik. Pemerintah Indonesia menetapkan kawasannya sebagai taman nasional pada tahun 1997. UNESCO juga menetapkan Taman Nasional Lorentz sebagai warisan dunia pada tahun 1999. Lorentz merupakan taman nasional terbesar di Asia Tenggara. Taman ini masih belum dipetakan, dijelajahi dan banyak terdapat tanaman asli, hewan dan budaya. Wilayahnya juga terdapat persediaan mineral, dan operasi pertambangan berskala besar juga aktif di sekitar taman nasional ini. Ada juga Proyek Konservasi Taman Nasional Lorentz yang terdiri dari sebuah inisiatif masyarakat untuk konservasi komunal dan ekologi warisan yang berada di sekitar Taman Nasional Loretz ini. Dari tahun 2003 hingga kini, WWF-Indonesia Region Sahul Papua sedang melakukan pemetaan wilayah adat dalam kawasan Taman Nasional Lorentz. Tahun 2003- 2006, WWF telah melakukan pemetaan di Wilayah Taman Nasional Lorentz yang berada di Distrik (Kecamatan) Kurima Kabupaten Yahukimo, dan Tahu",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taman%20Nasional%20Lorentz.jpg?width=1280",
+   "title": "Taman Nasional Lorentz.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Taman%20Nasional%20Lorentz.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_955.jpg",
+   "title": "Lorentz National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/955",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/955",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mozes Kilangin Airport",
+    "iata": "TIM",
+    "city": "Timika",
+    "country": "ID",
+    "lat": -4.52978,
+    "lon": 136.887388,
+    "type": "medium_airport",
+    "distance_km": 107.7
+   },
+   {
+    "name": "Bilorai Airport",
+    "iata": "UGU",
+    "city": "Bilogai",
+    "country": "ID",
+    "lat": -3.739503,
+    "lon": 137.031183,
+    "type": "medium_airport",
+    "distance_km": 143.3
+   },
+   {
+    "name": "Wamena Airport",
+    "iata": "WMX",
+    "city": "Wamena",
+    "country": "ID",
+    "lat": -4.097324,
+    "lon": 138.952417,
+    "type": "medium_airport",
+    "distance_km": 143.7
+   }
+  ],
+  "nearest_airport_km": 107.7,
+  "distance_beijing_km": 5376.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ID",
+  "country_zh": "印度尼西亚",
+  "country_en": "Indonesia",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "e-VOA / Visa on arrival[6][59]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ID",
+   "country_zh": "印度尼西亚",
+   "country_en": "Indonesia",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "e-VOA / Visa on arrival[6][59]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "id",
+  "local_lang_name": "Indonesian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 60
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/955"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lorentz%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-184",
+ "unesco_id": "184",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 853,
+ "popularity_score": 1175,
+ "country": "LY",
+ "country_zh": "利比亚",
+ "country_en": "Libya",
+ "countries": [
+  {
+   "iso2": "LY",
+   "zh": "利比亚",
+   "en": "Libya"
+  }
+ ],
+ "region": "District of Zawia",
+ "subdivision_iso": "LY-NQ",
+ "subdivision_zh": "",
+ "subdivision_en": "Nuqat al Khams",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "萨布拉塔考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Sabratha",
+ "name_local": "موقع سبراطة الأثري",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "184-archaeological_site_of_sabratha",
+ "lat": 32.80528,
+ "lon": 12.485,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1982",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "萨布拉塔是腓尼基人的贸易站，是非洲内陆商品输出的出口。萨布拉塔在罗马化之前是存在时间很短的努米底亚王国的一部分，它于公元2世纪至3世纪重建。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A Phoenician trading-post that served as an outlet for the products of the African hinterland, Sabratha was part of the short-lived Numidian Kingdom of Massinissa before being Romanized and rebuilt in the 2nd and 3rd centuries A.D.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "كانت سبراطة مركزًا تجاريًا فينيقيًا لمرور منتجات أفريقيا الداخلية وشكلت جزءًا من المملكة النوميدية الزائلة في ماسّينيسّا قبل أن تتحول إلى رومانية ويعاد بناؤها في القرنين الثاني والثالث.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20of%20Sabratha%2C%20Libya.jpg?width=1280",
+   "title": "Theatre of Sabratha, Libya.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Theatre%20of%20Sabratha%2C%20Libya.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_184.jpg",
+   "title": "Archaeological Site of Sabratha",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/184",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/184",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mitiga International Airport",
+    "iata": "MJI",
+    "city": "Tripoli",
+    "country": "LY",
+    "lat": 32.89177,
+    "lon": 13.287878,
+    "type": "large_airport",
+    "distance_km": 75.6
+   },
+   {
+    "name": "Djerba Zarzis International Airport",
+    "iata": "DJE",
+    "city": "Mellita",
+    "country": "TN",
+    "lat": 33.873719,
+    "lon": 10.7773,
+    "type": "large_airport",
+    "distance_km": 198.2
+   },
+   {
+    "name": "Misrata International Airport",
+    "iata": "MRA",
+    "city": "Misrata",
+    "country": "LY",
+    "lat": 32.325001,
+    "lon": 15.061,
+    "type": "small_airport",
+    "distance_km": 247.2
+   }
+  ],
+  "nearest_airport_km": 75.6,
+  "distance_beijing_km": 8712.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LY",
+  "country_zh": "利比亚",
+  "country_en": "Libya",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][81]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LY",
+   "country_zh": "利比亚",
+   "country_en": "Libya",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][81]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 19
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/184"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Archaeological%20Site%20of%20Sabratha"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

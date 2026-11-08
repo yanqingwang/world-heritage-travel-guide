@@ -1,0 +1,162 @@
+{
+ "id": "wh-720",
+ "unesco_id": "720",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 502,
+ "popularity_score": 13426,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "District of Darmstadt-Dieburg, State of Hesse (Hessen)",
+ "subdivision_iso": "DE-HE",
+ "subdivision_zh": "",
+ "subdivision_en": "Hesse",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "麦塞尔化石遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Messel Pit Fossil Site",
+ "name_local": "Grube Messel",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "720-messel_pit_fossil_site",
+ "lat": 49.9175,
+ "lon": 8.756667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "麦塞尔化石遗址是了解5700至3600万年间始新世生活环境极为珍贵的遗址，是哺乳动物早期进化的唯一资料。从完好的骨架到那个时期动物胃里的物质，哺乳动物的化石仍保存完好。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Messel Pit is the richest site in the world for understanding the living environment of the Eocene, between 57 million and 36 million years ago. In particular, it provides unique information about the early stages of the evolution of mammals and includes exceptionally well-preserved mammal fossils, ranging from fully articulated skeletons to the contents of stomachs of animals of this period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Grube Messel ist ein stillgelegter Ölschiefer-Tagebau und eine international bedeutende Fossilfundstätte in Messel (Ortsteil Grube Messel) im Landkreis Darmstadt-Dieburg in Hessen. Wegen der hervorragenden Qualität der dort geborgenen Fossilien aus dem Eozän wurde sie 1995 zum UNESCO-Weltnaturerbe ernannt. Bislang wurden dort Vertreter aller Wirbeltiergroßgruppen sowie Insekten und Pflanzen gefunden. Die bekanntesten Vertreter der Messel-Fauna sind wohl die beiden frühen Pferdeartigen Propalaeotherium und Eurohippus, von denen bislang über 70 Individuen ausgegraben wurden. Weitere bedeutende Funde sind der Kranichvogel Messelornis cristata und Darwinius masillae („Ida“), ein früher Primat.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MesselFossilPit081310.JPG?width=1280",
+   "title": "MesselFossilPit081310.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:MesselFossilPit081310.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_720.jpg",
+   "title": "Messel Pit Fossil Site",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/720",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/720",
+ "transport": {
+  "airports": [
+   {
+    "name": "Frankfurt Main Airport",
+    "iata": "FRA",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "lat": 50.026706,
+    "lon": 8.55835,
+    "type": "large_airport",
+    "distance_km": 18.7
+   },
+   {
+    "name": "Mannheim-City Airport",
+    "iata": "MHG",
+    "city": "Mannheim",
+    "country": "DE",
+    "lat": 49.473057,
+    "lon": 8.514167,
+    "type": "medium_airport",
+    "distance_km": 52.4
+   },
+   {
+    "name": "Frankfurt-Hahn Airport",
+    "iata": "HHN",
+    "city": "Frankfurt am Main (Lautzenhausen)",
+    "country": "DE",
+    "lat": 49.946353,
+    "lon": 7.261734,
+    "type": "large_airport",
+    "distance_km": 107.0
+   }
+  ],
+  "nearest_airport_km": 18.7,
+  "distance_beijing_km": 7788.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/720"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Messel%20Pit"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

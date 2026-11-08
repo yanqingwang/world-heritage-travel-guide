@@ -1,0 +1,162 @@
+{
+ "id": "wh-22",
+ "unesco_id": "22",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 743,
+ "popularity_score": 4562,
+ "country": "SY",
+ "country_zh": "叙利亚",
+ "country_en": "Syria",
+ "countries": [
+  {
+   "iso2": "SY",
+   "zh": "叙利亚",
+   "en": "Syria"
+  }
+ ],
+ "region": "Governorate of Deraa",
+ "subdivision_iso": "SY-DR",
+ "subdivision_zh": "德拉省",
+ "subdivision_en": "Daraa Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布斯拉古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient City of Bosra",
+ "name_local": "مدينة بصرى القديمة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "22-ancient_city_of_bosra",
+ "lat": 32.51805556,
+ "lon": 36.48166667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1980",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "布斯拉古城曾是古罗马阿拉伯省的首府，是通往麦加的沙漠商队路线上一个重要的中途站。在布斯拉城墙中保存着一座公元2世纪的富丽堂皇的古罗马剧场、早期基督教的遗迹和几座清真寺。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Bosra, once the capital of the Roman province of Arabia, was an important stopover on the ancient caravan route to Mecca. A magnificent 2nd-century Roman theatre, early Christian ruins and several mosques are found within its great walls.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "شكّلت هذه المدينة قديماً عاصمة المقاطعة الرومانية العربية ومحطة هامة في طريق القوافل القديمة الى مكة. وقد حافظت داخل أسوارها السميكة على مدرّج روماني رائع يعود الى القرن الثاني، ناهيك عن آثار من المسيحية الأولى وعدد من المساجد.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nabatean%20Pillars%20Bosra.jpg?width=1280",
+   "title": "Nabatean Pillars Bosra.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Nabatean%20Pillars%20Bosra.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_22.jpg",
+   "title": "Ancient City of Bosra",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/22",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/22",
+ "transport": {
+  "airports": [
+   {
+    "name": "Marka International (Amman Civil) Airport",
+    "iata": "ADJ",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "distance_km": 76.2
+   },
+   {
+    "name": "Damascus International Airport",
+    "iata": "DAM",
+    "city": "Damascus",
+    "country": "SY",
+    "lat": 33.4114990234375,
+    "lon": 36.51559829711914,
+    "type": "large_airport",
+    "distance_km": 99.4
+   },
+   {
+    "name": "Queen Alia International Airport",
+    "iata": "AMM",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.7226009369,
+    "lon": 35.9931983948,
+    "type": "large_airport",
+    "distance_km": 99.7
+   }
+  ],
+  "nearest_airport_km": 76.2,
+  "distance_beijing_km": 7055.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SY",
+  "country_zh": "叙利亚",
+  "country_en": "Syria",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][143]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SY",
+   "country_zh": "叙利亚",
+   "country_en": "Syria",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][143]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 15
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/22"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient%20City%20of%20Bosra"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

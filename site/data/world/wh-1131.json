@@ -1,0 +1,162 @@
+{
+ "id": "wh-1131",
+ "unesco_id": "1131",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 901,
+ "popularity_score": null,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "Melbourne, Victoria",
+ "subdivision_iso": "AU-VIC",
+ "subdivision_zh": "维多利亚州",
+ "subdivision_en": "Victoria",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "皇家展览馆和卡尔顿园林",
+ "name_zh_source": "unesco_official",
+ "name_en": "Royal Exhibition Building and Carlton Gardens",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1131-royal_exhibition_building_and_carlton_ga",
+ "lat": -37.80611111,
+ "lon": 144.9702778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "澳大利亚皇家展览馆及其周边的卡尔顿园林，是为1880和1888年墨尔本的盛大国际展览而特别设计的。展览馆由约瑟夫·里德(Joseph Reed)设计。整个展馆和园林由砖、木头、钢和石板等材料建成，风格则融合了拜占庭式、罗马式、伦巴第式以及意大利文艺复兴风格。展览馆专门用于举办国际展览活动，从1851年至1915年，有50余场来自巴黎、纽约、维也纳、加尔各答、牙买加金斯敦、智利圣地亚哥等地的展览在此处举办。所有活动有一个共同的主题和目的：通过对各国工业的展示，记录物质和精神进步。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Royal Exhibition Building and its surrounding Carlton Gardens were designed for the great international exhibitions of 1880 and 1888 in Melbourne. The building and grounds were designed by Joseph Reed. The building is constructed of brick and timber, steel and slate. It combines elements from the Byzantine, Romanesque, Lombardic and Italian Renaissance styles. The property is typical of the international exhibition movement which saw over 50 exhibitions staged between 1851 and 1915 in venues including Paris, New York, Vienna, Calcutta, Kingston (Jamaica) and Santiago (Chile). All shared a common theme and aims: to chart material and moral progress through displays of industry from all nations.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20Photo%20of%20Royal%20Exhibition%20Building%2C%20Melbourne.jpg?width=1280",
+   "title": "Aerial Photo of Royal Exhibition Building, Melbourne.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial%20Photo%20of%20Royal%20Exhibition%20Building%2C%20Melbourne.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1131.jpg",
+   "title": "Royal Exhibition Building and Carlton Gardens",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1131",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1131",
+ "transport": {
+  "airports": [
+   {
+    "name": "Melbourne Essendon Airport",
+    "iata": "MEB",
+    "city": "Essendon Fields",
+    "country": "AU",
+    "lat": -37.7281,
+    "lon": 144.901993,
+    "type": "medium_airport",
+    "distance_km": 10.5
+   },
+   {
+    "name": "Melbourne Airport",
+    "iata": "MEL",
+    "city": "Melbourne",
+    "country": "AU",
+    "lat": -37.670732,
+    "lon": 144.837898,
+    "type": "large_airport",
+    "distance_km": 19.0
+   },
+   {
+    "name": "Melbourne Moorabbin Airport",
+    "iata": "MBW",
+    "city": "Melbourne",
+    "country": "AU",
+    "lat": -37.977765,
+    "lon": 145.099799,
+    "type": "medium_airport",
+    "distance_km": 22.2
+   }
+  ],
+  "nearest_airport_km": 10.5,
+  "distance_beijing_km": 9120.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1131"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 36.077286
 lon: 110.47329
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 黄河壶口瀑布旅游区(陕西省延安市·山西省临汾市) / Hukou Waterfalls

@@ -1,0 +1,159 @@
+{
+ "id": "wh-1700",
+ "unesco_id": "1700",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 715,
+ "popularity_score": 5268,
+ "country": "YE",
+ "country_zh": "也门",
+ "country_en": "Yemen",
+ "countries": [
+  {
+   "iso2": "YE",
+   "zh": "也门",
+   "en": "Yemen"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "马里卜示巴古国地标建筑",
+ "name_zh_source": "wikidata",
+ "name_en": "Landmarks of the Ancient Kingdom of Saba, Marib",
+ "name_local": "معالم مملكة سبأ",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1700-landmarks_of_the_ancient_kingdom_of_saba",
+ "lat": 15.426769444,
+ "lon": 45.335227777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2023",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "马里卜是古代萨巴王国的地标，是由七个考古遗址组成的一系列遗产，见证了从公元前 1 世纪到公元 630 年左右伊斯兰教到来期间丰富的萨巴王国及其建筑、美学和技术成就。它们见证了王国复杂的中央集权管理，当时它控制着横跨阿拉伯半岛的大部分香火路线，在与地中海和东非的贸易促进的更广泛的文化交流网络中发挥着关键作用。该地产坐落在由山谷、山脉和沙漠组成的半干旱景观中，包括大型城市定居点的遗迹，其中有纪念性的寺庙、城墙和其他建筑。古代马里卜的灌溉系统反映了水文工程和农业方面的技术实力，其规模在古代南阿拉伯是无与伦比的，从而创造了最大的古代人造绿洲。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The Landmarks of the Ancient Kingdom of Saba, Marib, is a serial property comprising seven archaeological sites that bear witness to the rich Kingdom of Saba and its architectural, aesthetic and technological achievements from the 1st millennium BCE to the arrival of Islam around 630 CE. They bear witness to the complex centralized administration of the Kingdom when it controlled much of the incense route across the Arabian Peninsula, playing a key role in the wider network of cultural exchange fostered by trade with the Mediterranean and East Africa. Located in a semi-arid landscape of valleys, mountains and deserts, the property encompasses the remains of large urban settlements with monumental temples, ramparts and other buildings. The irrigation system of ancient Ma'rib reflects technological prowess in hydrological engineering and agriculture on a scale unparalleled in ancient South Arabia, resulting in the creation of the largest ancient man-made oasis.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "معالم مملكة سبأ القديمة هي مجموعة من 7 مواقع أثرية من حضارة مملكة سبأ القديمة في اليمن أُدرجت على قائمة التراث العالمي وضمن قائمة التراث العالمي المعرض للخطر من قبل منظمة الأمم المتحدة للعلوم والتربية والثقافة اليونيسكو في 25 يناير 2023.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barran%20Temple.jpg?width=1280",
+   "title": "Barran Temple.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Barran%20Temple.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1700.jpg",
+   "title": "Landmarks of the Ancient Kingdom of Saba, Marib",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1700",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1700",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sanaa International Airport",
+    "iata": "SAH",
+    "city": "Sanaa",
+    "country": "YE",
+    "lat": 15.4763,
+    "lon": 44.2197,
+    "type": "large_airport",
+    "distance_km": 119.7
+   },
+   {
+    "name": "Taiz International Airport",
+    "iata": "TAI",
+    "city": "Taiz",
+    "country": "YE",
+    "lat": 13.686,
+    "lon": 44.139099,
+    "type": "medium_airport",
+    "distance_km": 232.5
+   },
+   {
+    "name": "Najran Domestic Airport",
+    "iata": "EAM",
+    "city": "Najran",
+    "country": "SA",
+    "lat": 17.611401,
+    "lon": 44.419201,
+    "type": "medium_airport",
+    "distance_km": 261.8
+   }
+  ],
+  "nearest_airport_km": 119.7,
+  "distance_beijing_km": 7419.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "YE",
+  "country_zh": "也门",
+  "country_en": "Yemen",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "YE",
+   "country_zh": "也门",
+   "country_en": "Yemen",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1700"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Landmarks%20of%20the%20Ancient%20Kingdom%20of%20Saba%2C%20Marib"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

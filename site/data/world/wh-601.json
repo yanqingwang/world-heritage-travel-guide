@@ -1,0 +1,162 @@
+{
+ "id": "wh-601",
+ "unesco_id": "601",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 852,
+ "popularity_score": 1262,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Marne, Champagne Ardenne Region",
+ "subdivision_iso": "FR-51",
+ "subdivision_zh": "马恩省",
+ "subdivision_en": "Marne",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "兰斯圣母大教堂、圣雷米修道院和圣安东尼宫殿",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",
+ "name_local": "Cathédrale Notre-Dame, ancienne abbaye Saint-Rémi et palais du Tau, Reims",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "601-cathedral_of_notre-dame,_former_abbey_of",
+ "lat": 49.2434,
+ "lon": 4.0413,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(vi)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "13世纪新建筑工艺的出色应用以及雕像装饰与建筑的完美结合，使兰斯圣母大教堂成了哥特式建筑的杰作之一。修道院保留了9世纪的精美中殿，供奉着开启了法国国王受洗仪的圣雷米主教（440年至533年）的遗体。曾经在宗教仪式中具有举足轻重作用的前大主教宫殿——圣安东尼宫，已于17世纪进行了彻底重修。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The outstanding handling of new architectural techniques in the 13th century, and the harmonious marriage of sculptural decoration with architecture, has made Notre-Dame in Reims one of the masterpieces of Gothic art. The former abbey still has its beautiful 9th-century nave, in which lie the remains of Archbishop St Rémi (440–533), who instituted the Holy Anointing of the kings of France. The former archiepiscopal palace known as the Tau Palace, which played an important role in religious ceremonies, was almost entirely rebuilt in the 17th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "L'utilisation exceptionnelle des nouvelles techniques architecturales du XIII e siècle et l'harmonieux mariage de la décoration sculptée avec les éléments architecturaux ont fait de la cathédrale Notre-Dame de Reims un des chefs-d'œuvre de l'art gothique. L'ancienne abbaye, qui a conservé une très belle nef du XI e siècle, abrite les restes de l'archevêque saint Rémi (440-533), qui institua la sainte onction des rois de France. Le palais du Tau, ancien palais archiépiscopal, qui occupait une place importante dans la cérémonie du sacre, a été presque entièrement reconstruit au XVII e siècle.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbaye%20st%20remi%20dessin%20povillon%20pierrard%20bmr%2016.jpg?width=1280",
+   "title": "Abbaye st remi dessin povillon pierrard bmr 16.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Abbaye%20st%20remi%20dessin%20povillon%20pierrard%20bmr%2016.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_601.jpg",
+   "title": "Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/601",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/601",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chalons Vatry airport",
+    "iata": "XCR",
+    "city": "Chalons en Champagne",
+    "country": "FR",
+    "lat": 48.77333,
+    "lon": 4.20611,
+    "type": "medium_airport",
+    "distance_km": 53.6
+   },
+   {
+    "name": "Charles de Gaulle International Airport",
+    "iata": "CDG",
+    "city": "Paris (Roissy-en-France, Val-d'Oise)",
+    "country": "FR",
+    "lat": 49.00896,
+    "lon": 2.554117,
+    "type": "large_airport",
+    "distance_km": 111.3
+   },
+   {
+    "name": "Paris-Orly Airport",
+    "iata": "ORY",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "country": "FR",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport",
+    "distance_km": 135.4
+   }
+  ],
+  "nearest_airport_km": 53.6,
+  "distance_beijing_km": 8118.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/601"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

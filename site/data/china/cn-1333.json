@@ -1,0 +1,104 @@
+{
+ "id": "cn-1333",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "内蒙古自治区",
+ "province_en": "Inner Mongolia",
+ "province_iso": "CN-NM",
+ "city_zh": "呼伦贝尔市",
+ "city_en": "Hulunbuir",
+ "name_zh": "兴安盟阿尔山-柴河旅游景区",
+ "name_en": "Xinganmengaershan-chaihe Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "xinganmengaershanchaihe-1333",
+ "lat": 47.548408,
+ "lon": 121.409598,
+ "address_zh": "呼伦贝尔市扎兰屯市313县道",
+ "address_en": "County Road 313, Zhalantun City, Hulunbuir City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "阿尔山·柴河景区位于内蒙古东部经济较发达地区的核心位置，与周边城市之间交通便捷，整合了满洲里、海拉尔、扎兰屯、乌兰浩特、锡林浩特等地的旅游资源，构建了内蒙古旅游黄金区域的战略位置。",
+ "intro_en": "Aershan·Chaihe Scenic Area is located at the core of the economically developed area in eastern Inner Mongolia. It has convenient transportation with surrounding cities. It integrates the tourism resources of Manzhouli, Hailar, Zhalantun, Ulanhot, Xilinhot and other places, establishing a strategic position as a prime tourism area in Inner Mongolia.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zhalantun Genghis Khan Airport",
+    "iata": "NZL",
+    "city": "Zhalantun",
+    "country": "CN",
+    "lat": 47.865942,
+    "lon": 122.768662,
+    "type": "medium_airport",
+    "distance_km": 107.6
+   },
+   {
+    "name": "Arxan Yi'ershi Airport",
+    "iata": "YIE",
+    "city": "Arxan",
+    "country": "CN",
+    "lat": 47.3106,
+    "lon": 119.9117,
+    "type": "medium_airport",
+    "distance_km": 115.7
+   },
+   {
+    "name": "Ulanhot Yilelite Airport",
+    "iata": "HLH",
+    "city": "Ulanhot",
+    "country": "CN",
+    "lat": 46.195333,
+    "lon": 122.008333,
+    "type": "small_airport",
+    "distance_km": 157.2
+   }
+  ],
+  "nearest_airport_km": 107.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "塔尔气",
+    "name_en": "Tarqi",
+    "lat": 47.9844865,
+    "lon": 121.1900092,
+    "distance_km": 51.2,
+    "operator": "中国铁路哈尔滨局集团有限公司 海拉尔车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

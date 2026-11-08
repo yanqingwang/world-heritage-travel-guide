@@ -1,0 +1,162 @@
+{
+ "id": "wh-1203",
+ "unesco_id": "1203",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 716,
+ "popularity_score": 5222,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "LK-2",
+ "subdivision_zh": "",
+ "subdivision_en": "Central Province",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "斯里兰卡中央高地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Central Highlands of Sri Lanka",
+ "name_local": "",
+ "local_lang": "ta",
+ "local_lang_name": "Tamil",
+ "slug": "1203-central_highlands_of_sri_lanka",
+ "lat": 7.45245,
+ "lon": 80.8021,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2010",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "斯里兰卡高地坐落在斯岛中南部。遗址由维尔德尔内斯峰保护区（Peak Wilderness Protected Area），霍尔顿平原国家公园（Horton Plains National Park）和那科勒斯保护林地（Knuckles Conservation Forest）组成。这些山地林生长的地区海拔高达2500米，拥有十分丰富的动植物资源，包括西部紫脸叶猴（western-purple-faced langur）、灰瘠懒猴（Horton Plains slender loris）和斯里兰卡豹（Sri Lankan leopard）等濒危物种。该地区被认为是生物多样性的超级热点。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Sri Lanka's highlands are situated in the south-central part of the island. The property comprises the Peak Wilderness Protected Area, the Horton Plains National Park and the Knuckles Conservation Forest. These montane forests, where the land rises to 2,500 metres above sea-level, are home to an extraordinary range of flora and fauna, including several endangered species such as the western-purple-faced langur, the Horton Plains slender loris and the Sri Lankan leopard. The region is considered a super biodiversity hotspot.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Pada%2002.jpg?width=1280",
+   "title": "Sri Pada 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sri%20Pada%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1203.jpg",
+   "title": "Central Highlands of Sri Lanka",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1203",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1203",
+ "transport": {
+  "airports": [
+   {
+    "name": "Batticaloa International Airport",
+    "iata": "BTC",
+    "city": "Batticaloa",
+    "country": "LK",
+    "lat": 7.705073,
+    "lon": 81.677163,
+    "type": "medium_airport",
+    "distance_km": 100.5
+   },
+   {
+    "name": "Bandaranaike International Colombo Airport",
+    "iata": "CMB",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 7.180759906768799,
+    "lon": 79.88410186767578,
+    "type": "large_airport",
+    "distance_km": 105.7
+   },
+   {
+    "name": "Colombo Ratmalana International Airport",
+    "iata": "RML",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 6.821638,
+    "lon": 79.885859,
+    "type": "large_airport",
+    "distance_km": 123.0
+   }
+  ],
+  "nearest_airport_km": 100.5,
+  "distance_beijing_km": 4994.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "ta",
+  "local_lang_name": "Tamil",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1203"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Central%20Highlands%20of%20Sri%20Lanka"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

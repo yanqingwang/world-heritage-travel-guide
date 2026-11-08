@@ -1,0 +1,170 @@
+{
+ "id": "cn-376",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "黑龙江省",
+ "province_en": "Heilongjiang",
+ "province_iso": "CN-HL",
+ "city_zh": "黑河市",
+ "city_en": "Heihe City",
+ "name_zh": "黑河市五大连池景区",
+ "name_en": "Wudalianchizhen Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "heiheshiwudalianchi-376",
+ "lat": 48.699183,
+ "lon": 126.168957,
+ "address_zh": "黑龙江省黑河市五大连池市五大连池镇药泉东路北侧",
+ "address_en": "North side of Yaoquan East Road, Wudalianchi Town, Heihe City, Heilongjiang Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "五大连池地处小兴安岭山地向松嫩平原的转换地带，区域内火山林立、熔岩浩瀚、湖泊珠连、矿泉星布。新期火山喷发的熔岩阻塞了远古河道，形成了5个溪水相连的串珠状火山堰塞湖，五大连池由此得名。此地也被科学家喻为“天然火山博物馆”和“打开的火山教科书”。",
+ "intro_en": "Wudalianchi is located in the transition zone from the Xiaoxing'anling Mountains to the Songnen Plain. The area is lined with volcanoes, vast lava, lakes, and mineral springs. The lava from the new volcanic eruption blocked ancient rivers and formed five beaded volcanic barrier lakes connected by streams, from which Wudalianchi got its name. This place is also called the \"natural volcano museum\" and \"open volcano textbook\" by scientists.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "黑河市市容和环境卫生管理条例.pdf",
+   "author": "Q106036866",
+   "license": "Public domain",
+   "credit": "The file is from National Database of Laws and Regulations maintained by General Office of the Standing Committee of the National People's Congress of People's ",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Wudalianchi Dedu Airport",
+    "iata": "DTU",
+    "city": "Heihe",
+    "country": "CN",
+    "lat": 48.441037,
+    "lon": 126.128374,
+    "type": "medium_airport",
+    "distance_km": 28.9
+   },
+   {
+    "name": "Heihe Aihui Airport",
+    "iata": "HEK",
+    "city": "Heihe",
+    "country": "CN",
+    "lat": 50.171621,
+    "lon": 127.308884,
+    "type": "medium_airport",
+    "distance_km": 183.3
+   },
+   {
+    "name": "Ignatyevo Airport",
+    "iata": "BQS",
+    "city": "Blagoveschensk",
+    "country": "RU",
+    "lat": 50.426723,
+    "lon": 127.415502,
+    "type": "medium_airport",
+    "distance_km": 212.1
+   }
+  ],
+  "nearest_airport_km": 28.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "五大连池",
+    "name_en": "Wudalianchi",
+    "lat": 48.6271429,
+    "lon": 126.6107667,
+    "distance_km": 33.4,
+    "operator": "中国铁路哈尔滨局集团有限公司 绥化车务段",
+    "high_speed": false
+   },
+   {
+    "name": "龙镇",
+    "name_en": "Longzhen",
+    "lat": 48.6845236,
+    "lon": 126.7091859,
+    "distance_km": 39.7,
+    "operator": "中国铁路哈尔滨局集团有限公司 绥化车务段",
+    "high_speed": false
+   },
+   {
+    "name": "二龙山屯",
+    "name_en": "Erlongshantun",
+    "lat": 48.4876146,
+    "lon": 126.6351945,
+    "distance_km": 41.6,
+    "operator": "中国铁路哈尔滨局集团有限公司 绥化车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "五大连池万丽园酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 48.6483626,
+   "lon": 126.137266,
+   "distance_km": 6.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "五大连池温都水城国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 48.5176533,
+   "lon": 126.2015962,
+   "distance_km": 20.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "五大连池通达家居公寓(药泉东路分店)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 48.5146906,
+   "lon": 126.197622,
+   "distance_km": 20.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/五大连池镇"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-516",
+ "unesco_id": "516",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 453,
+ "popularity_score": 16202,
+ "country": "ML",
+ "country_zh": "马里",
+ "country_en": "Mali",
+ "countries": [
+  {
+   "iso2": "ML",
+   "zh": "马里",
+   "en": "Mali"
+  }
+ ],
+ "region": "Bandiagara Circle, Mopti Region",
+ "subdivision_iso": "ML-5",
+ "subdivision_zh": "莫普提区",
+ "subdivision_en": "Mopti Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "邦贾加拉悬崖(多贡斯土地)",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cliff of Bandiagara (Land of the Dogons)",
+ "name_local": "",
+ "local_lang": "bm",
+ "local_lang_name": "Bambara",
+ "slug": "516-cliff_of_bandiagara_(land_of_the_dogons)",
+ "lat": 14.416666666,
+ "lon": -3.316666666,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(v)(vii)",
+ "year": "1989",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "邦贾加拉的突出地形是悬崖和沙土高原，悬崖上建有大型建筑（房屋、粮仓、圣坛、神殿和集会厅）。这里现在仍然保留着许多悠久的传统（面纱、集会、祭祀仪式等）。正是这些建筑学、考古学和人类学的价值，以及优美的风景，使邦贾加拉高地成为最具西非地质地貌特征的地方之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Bandiagara site is an outstanding landscape of cliffs and sandy plateaux with some beautiful architecture (houses, granaries, altars, sanctuaries and Togu Na , or communal meeting-places). Several age-old social traditions live on in the region (masks, feasts, rituals, and ceremonies involving ancestor worship). The geological, archaeological and ethnological interest, together with the landscape, make the Bandiagara plateau one of West Africa's most impressive sites.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bandiagara%20escarpment%201.jpg?width=1280",
+   "title": "Bandiagara escarpment 1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bandiagara%20escarpment%201.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_516.jpg",
+   "title": "Cliff of Bandiagara (Land of the Dogons)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/516",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/516",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mopti Airport",
+    "iata": "MZI",
+    "city": "Sévaré",
+    "country": "ML",
+    "lat": 14.5128,
+    "lon": -4.07956,
+    "type": "medium_airport",
+    "distance_km": 82.8
+   },
+   {
+    "name": "Tombouktou Airport",
+    "iata": "TOM",
+    "city": "Timbuktu",
+    "country": "ML",
+    "lat": 16.730499,
+    "lon": -3.00758,
+    "type": "large_airport",
+    "distance_km": 259.4
+   },
+   {
+    "name": "Ouagadougou Thomas Sankara International Airport",
+    "iata": "OUA",
+    "city": "Ouagadougou",
+    "country": "BF",
+    "lat": 12.3532,
+    "lon": -1.51242,
+    "type": "large_airport",
+    "distance_km": 301.2
+   }
+  ],
+  "nearest_airport_km": 82.8,
+  "distance_beijing_km": 11397.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ML",
+  "country_zh": "马里",
+  "country_en": "Mali",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ML",
+   "country_zh": "马里",
+   "country_en": "Mali",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "bm",
+  "local_lang_name": "Bambara",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/516"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bandiagara%20Escarpment"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1265",
+ "unesco_id": "1265",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 531,
+ "popularity_score": 12199,
+ "country": "ZA",
+ "country_zh": "南非",
+ "country_en": "South Africa",
+ "countries": [
+  {
+   "iso2": "ZA",
+   "zh": "南非",
+   "en": "South Africa"
+  }
+ ],
+ "region": "Northern Cape",
+ "subdivision_iso": "ZA-NC",
+ "subdivision_zh": "北开普省",
+ "subdivision_en": "Northern Cape",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "理查德斯维德文化植物景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Richtersveld Cultural and Botanical Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1265-richtersveld_cultural_and_botanical_land",
+ "lat": -28.6,
+ "lon": 17.203888888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "2007",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "占地16万公顷的理查德斯维德文化植物景观位于南非西北部引人注目的山区沙漠中，它构成了由社区拥有和管理的文化景观。该遗产保留了那马人半游牧性的牧民生活，说明可能在南非已存在两千年的季节变化模式。这是那马人仍然在建造便携式小屋的唯一一个地区。该遗产包括：季节性迁徙、牧场、储藏站（放牧人季节性放牛羊所用的基地），以及那马人有芦苇草垫席的房屋，即小小的半球型便携式建筑，由交叉木箍制成的木框架组成，铺上由当地灯心草辫成麻花状的细垫。住在这里的田园诗作者收集药用植物和其他植物，其口头叙述的老传统与不同地方和景观特点有关。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 160,000 ha Richtersveld Cultural and Botanical Landscape of dramatic mountainous desert in north-western South Africa constitutes a cultural landscape communally owned and managed. This site sustains the semi-nomadic pastoral livelihood of the Nama people, reflecting seasonal patterns that may have persisted for as much as two millennia in southern Africa. It is the only area where the Nama still construct portable rush-mat houses ( haru om ) and includes seasonal migrations and grazing grounds, together with stock posts. The pastoralists collect medicinal and other plants and have a strong oral tradition associated with different places and attributes of the landscape.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tylecodon%20paniculatus-PICT2534.jpg?width=1280",
+   "title": "Tylecodon paniculatus-PICT2534.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tylecodon%20paniculatus-PICT2534.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1265.jpg",
+   "title": "Richtersveld Cultural and Botanical Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1265",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1265",
+ "transport": {
+  "airports": [
+   {
+    "name": "Oranjemund Airport",
+    "iata": "OMD",
+    "city": "Oranjemund",
+    "country": "NA",
+    "lat": -28.585318,
+    "lon": 16.44638,
+    "type": "medium_airport",
+    "distance_km": 74.0
+   },
+   {
+    "name": "Luderitz Airport",
+    "iata": "LUD",
+    "city": "Luderitz",
+    "country": "NA",
+    "lat": -26.687400817871094,
+    "lon": 15.242899894714355,
+    "type": "medium_airport",
+    "distance_km": 287.3
+   },
+   {
+    "name": "Upington Airport",
+    "iata": "UTN",
+    "city": "Upington",
+    "country": "ZA",
+    "lat": -28.400246,
+    "lon": 21.263592,
+    "type": "medium_airport",
+    "distance_km": 397.3
+   }
+  ],
+  "nearest_airport_km": 74.0,
+  "distance_beijing_km": 12813.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZA",
+  "country_zh": "南非",
+  "country_en": "South Africa",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Electronic Travel Authorization / eVisa[136]",
+  "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZA",
+   "country_zh": "南非",
+   "country_en": "South Africa",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Electronic Travel Authorization / eVisa[136]",
+   "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1265"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Richtersveld"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-271",
+ "unesco_id": "271",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 323,
+ "popularity_score": 27954,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "Town of Steingaden, District of Weilheim-Schongau, Region of Upper Bavaria, State of Bavaria (Bayern)",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "维斯教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Pilgrimage Church of Wies",
+ "name_local": "Wieskirche",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "271-pilgrimage_church_of_wies",
+ "lat": 47.6806,
+ "lon": 10.900445,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "维斯教堂（1745至1754年）坐落在风景秀美的阿尔卑斯山谷中，保存十分完好，是建筑师多米尼克斯·齐默尔曼(Dominikus Zimmermann)的作品，是巴伐利亚洛可可风格的优秀代表作。整个作品充满了活力，欢快而且色彩丰富。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Miraculously preserved in the beautiful setting of an Alpine valley, the Church of Wies (1745–54), the work of architect Dominikus Zimmermann, is a masterpiece of Bavarian Rococo – exuberant, colourful and joyful.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Wieskirche, offiziell Wallfahrtskirche zum Gegeißelten Heiland auf der Wies, ist eine römisch-katholische Wallfahrtskirche im namensgebenden Ortsteil Wies der bayerischen Gemeinde Steingaden. Der herausragende, 1754 fertiggestellte Sakralbau im Rokokostil ist das Hauptwerk der Brüder Johann Baptist und Dominikus Zimmermann und gehört seit 1983 zum UNESCO-Weltkulturerbe. Patron der im Bistum Augsburg gelegenen Kirche ist der Heilige Josef.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wieskirche%20boenisch%20okt%202003.jpg?width=1280",
+   "title": "Wieskirche boenisch okt 2003.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Wieskirche%20boenisch%20okt%202003.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_271.jpg",
+   "title": "Pilgrimage Church of Wies",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/271",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/271",
+ "transport": {
+  "airports": [
+   {
+    "name": "Innsbruck Airport",
+    "iata": "INN",
+    "city": "Innsbruck",
+    "country": "AT",
+    "lat": 47.260201,
+    "lon": 11.344,
+    "type": "large_airport",
+    "distance_km": 57.4
+   },
+   {
+    "name": "Memmingen Allgau Airport",
+    "iata": "FMM",
+    "city": "Memmingen",
+    "country": "DE",
+    "lat": 47.988092,
+    "lon": 10.238248,
+    "type": "large_airport",
+    "distance_km": 60.1
+   },
+   {
+    "name": "Munich Airport",
+    "iata": "MUC",
+    "city": "Munich",
+    "country": "DE",
+    "lat": 48.353802,
+    "lon": 11.7861,
+    "type": "large_airport",
+    "distance_km": 99.7
+   }
+  ],
+  "nearest_airport_km": 57.4,
+  "distance_beijing_km": 7821.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/271"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wieskirche"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

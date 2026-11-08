@@ -1,0 +1,162 @@
+{
+ "id": "wh-1094",
+ "unesco_id": "1094",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 557,
+ "popularity_score": 11340,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "Western Australia",
+ "subdivision_iso": "AU-WA",
+ "subdivision_zh": "西澳大利亚州",
+ "subdivision_en": "Western Australia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波奴鲁鲁国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Purnululu National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1094-purnululu_national_park",
+ "lat": -17.448789,
+ "lon": 128.546055,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "占地面积239 723公顷的波奴鲁鲁国家公园位于西澳大利亚州。公园内有挺拔独立的“嘣咯嘣咯山”(Bungle Bungle Range)。泥盆纪时代的石英砂经过2000万年的侵蚀，形成了蜂巢状塔形和圆锥形山峦。这些山峦的峭壁上是规则的暗灰色水平带，由古代藻青菌（一种能进行光合作用的单细胞生物）沉积而成。这些极具特色的圆锥形喀斯特地貌，是由地质变化、生物影响、侵蚀作用和气候变化等诸多因素之间相互影响而形成的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 239,723 ha Purnululu National Park is located in the State of Western Australia. It contains the deeply dissected Bungle Bungle Range composed of Devonian-age quartz sandstone eroded over a period of 20 million years into a series of beehive-shaped towers or cones, whose steeply sloping surfaces are distinctly marked by regular horizontal bands of dark-grey cyanobacterial crust (single-celled photosynthetic organisms). These outstanding examples of cone karst owe their existence and uniqueness to several interacting geological, biological, erosional and climatic phenomena.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20Purnululu%20Nationalpark%20-%20Australien.jpg?width=1280",
+   "title": "1 Purnululu Nationalpark - Australien.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:1%20Purnululu%20Nationalpark%20-%20Australien.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1094.jpg",
+   "title": "Purnululu National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1094",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1094",
+ "transport": {
+  "airports": [
+   {
+    "name": "East Kimberley Regional (Kununurra) Airport",
+    "iata": "KNX",
+    "city": "Kununurra",
+    "country": "AU",
+    "lat": -15.7781,
+    "lon": 128.707993,
+    "type": "medium_airport",
+    "distance_km": 186.6
+   },
+   {
+    "name": "Kalkgurung Airport",
+    "iata": "KFG",
+    "city": "",
+    "country": "AU",
+    "lat": -17.431900024414062,
+    "lon": 130.80799865722656,
+    "type": "small_airport",
+    "distance_km": 240.0
+   },
+   {
+    "name": "Hooker Creek Airport",
+    "iata": "HOK",
+    "city": "Lajamanu",
+    "country": "AU",
+    "lat": -18.3367004395,
+    "lon": 130.638000488,
+    "type": "small_airport",
+    "distance_km": 242.4
+   }
+  ],
+  "nearest_airport_km": 186.6,
+  "distance_beijing_km": 6336.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1094"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Purnululu%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

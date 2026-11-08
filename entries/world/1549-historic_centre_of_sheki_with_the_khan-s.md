@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)(v)"
 lat: 41.191944444
 lon: 47.170555555
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:49Z"
 ---
 
 # 舍基历史中心及汗王宫殿 / Historic Centre of Sheki with the Khan’s Palace

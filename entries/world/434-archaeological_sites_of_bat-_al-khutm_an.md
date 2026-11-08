@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iii)(iv)"
 lat: 23.27
 lon: 56.745
-updated_at: "2026-11-08T12:18:55Z"
+updated_at: "2026-11-08T14:52:26Z"
 ---
 
 # 巴特•库特姆和艾因考古遗址 / Archaeological Sites of Bat, Al-Khutm and Al-Ayn

@@ -1,0 +1,154 @@
+{
+ "id": "wh-1018",
+ "unesco_id": "1018",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 878,
+ "popularity_score": null,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "TR-35",
+ "subdivision_zh": "",
+ "subdivision_en": "Aegean Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "以弗所",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ephesus",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1018-ephesus",
+ "lat": 37.94058,
+ "lon": 27.33939,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "2015",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "以弗所位于曾经的凯斯特古河口，包括随着海岸线不断西移，而不断在新地址上建起的一系列古希腊、罗马定居点。这里发掘出了罗马帝国时期宏伟的建筑，如赛尔苏斯图书馆和大剧院，以及吸引整个地中海地区朝圣者的著名阿提米斯神庙残存少部分遗迹，这座神庙被称为“世界七大奇迹”之一。公元五世纪以来，距以弗所七公里的圣母玛丽亚终老之地，一座穹顶十字形教堂成为基督教朝圣者的重要膜拜地。内港和海道使以弗所古城成为古罗马海港城市突出代表。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located within what was once the estuary of the River Kaystros, Ephesus comprises successive Hellenistic and Roman settlements founded on new locations, which followed the coastline as it retreated westward. Excavations have revealed grand monuments of the Roman Imperial period including the Library of Celsus and the Great Theatre. Little remains of the famous Temple of Artemis, one of the “Seven Wonders of the World,” which drew pilgrims from all around the Mediterranean. Since the 5 th century, the House of the Virgin Mary, a domed cruciform chapel seven kilometres from Ephesus, became a major place of Christian pilgrimage. The Ancient City of Ephesus is an outstanding example of a Roman port city, with sea channel and harbour basin.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1018.jpg",
+   "title": "Ephesus",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1018",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1018",
+ "transport": {
+  "airports": [
+   {
+    "name": "Adnan Menderes International Airport",
+    "iata": "ADB",
+    "city": "Gaziemir",
+    "country": "TR",
+    "lat": 38.2924,
+    "lon": 27.157,
+    "type": "large_airport",
+    "distance_km": 42.2
+   },
+   {
+    "name": "Samos Airport",
+    "iata": "SMI",
+    "city": "Samos Island",
+    "country": "GR",
+    "lat": 37.689999,
+    "lon": 26.911699,
+    "type": "medium_airport",
+    "distance_km": 46.8
+   },
+   {
+    "name": "Milas Bodrum International Airport",
+    "iata": "BJV",
+    "city": "Bodrum",
+    "country": "TR",
+    "lat": 37.249314,
+    "lon": 27.66401,
+    "type": "large_airport",
+    "distance_km": 82.0
+   }
+  ],
+  "nearest_airport_km": 42.2,
+  "distance_beijing_km": 7351.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1018"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

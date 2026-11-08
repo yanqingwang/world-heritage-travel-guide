@@ -1,0 +1,162 @@
+{
+ "id": "wh-18",
+ "unesco_id": "18",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 202,
+ "popularity_score": 59473,
+ "country": "ET",
+ "country_zh": "埃塞俄比亚",
+ "country_en": "Ethiopia",
+ "countries": [
+  {
+   "iso2": "ET",
+   "zh": "埃塞俄比亚",
+   "en": "Ethiopia"
+  }
+ ],
+ "region": "Amhara Region",
+ "subdivision_iso": "ET-AM",
+ "subdivision_zh": "阿姆哈拉州",
+ "subdivision_en": "Amhara Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "拉利贝拉岩石教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rock-Hewn Churches, Lalibela",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "18-rock-hewn_churches,_lalibela",
+ "lat": 12.02935,
+ "lon": 39.04042,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)",
+ "year": "1978",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这是 13世纪“新耶路撒冷”的11座中世纪的原始窑洞教堂，坐落于埃塞俄比亚中心地带的山区，附近是环形住宅构成的传统村落。拉利贝拉是埃塞俄比亚基督徒眼中的圣地，至今仍有虔诚的信徒前去朝圣。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 11 medieval monolithic cave churches of this 13th-century 'New Jerusalem' are situated in a mountainous region in the heart of Ethiopia near a traditional village with circular-shaped dwellings. Lalibela is a high place of Ethiopian Christianity, still today a place of pilmigrage and devotion.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lalibela%2C%20san%20giorgio%2C%20esterno%2007.jpg?width=1280",
+   "title": "Lalibela, san giorgio, esterno 07.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lalibela%2C%20san%20giorgio%2C%20esterno%2007.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_18.jpg",
+   "title": "Rock-Hewn Churches, Lalibela",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/18",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/18",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kombolcha Airport",
+    "iata": "DSE",
+    "city": "Dessie",
+    "country": "ET",
+    "lat": 11.10975,
+    "lon": 39.725911,
+    "type": "small_airport",
+    "distance_km": 126.6
+   },
+   {
+    "name": "Mekele Alula Aba Nega Airport",
+    "iata": "MQX",
+    "city": "Mekele",
+    "country": "ET",
+    "lat": 13.4674,
+    "lon": 39.533501,
+    "type": "medium_airport",
+    "distance_km": 168.6
+   },
+   {
+    "name": "Gondar Airport",
+    "iata": "GDQ",
+    "city": "Azezo",
+    "country": "ET",
+    "lat": 12.5199,
+    "lon": 37.433998,
+    "type": "medium_airport",
+    "distance_km": 182.9
+   }
+  ],
+  "nearest_airport_km": 126.6,
+  "distance_beijing_km": 8101.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ET",
+  "country_zh": "埃塞俄比亚",
+  "country_en": "Ethiopia",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6]",
+  "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[49] e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days.[50] Visa free for holders of passports for public affairs.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ET",
+   "country_zh": "埃塞俄比亚",
+   "country_en": "Ethiopia",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6]",
+   "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[49] e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days.[50] Visa free for holders of passports for public affairs.[18]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/18"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rock-Hewn%20Churches%2C%20Lalibela"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

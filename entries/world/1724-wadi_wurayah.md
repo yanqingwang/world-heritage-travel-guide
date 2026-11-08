@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ix)"
 lat: 25.4226
 lon: 56.36346
-updated_at: "2026-11-08T12:19:05Z"
+updated_at: "2026-11-08T14:52:53Z"
 ---
 
 # 瓦迪乌拉亚 / Wadi Wurayah

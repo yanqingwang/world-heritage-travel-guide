@@ -1,0 +1,162 @@
+{
+ "id": "wh-592",
+ "unesco_id": "592",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 470,
+ "popularity_score": 14946,
+ "country": "ID",
+ "country_zh": "印度尼西亚",
+ "country_en": "Indonesia",
+ "countries": [
+  {
+   "iso2": "ID",
+   "zh": "印度尼西亚",
+   "en": "Indonesia"
+  }
+ ],
+ "region": "Regency of Magelang, Province of Central Java",
+ "subdivision_iso": "ID-JT",
+ "subdivision_zh": "中爪哇省",
+ "subdivision_en": "Central Java",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "婆罗浮屠寺庙群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Borobudur Temple Compounds",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "592-borobudur_temple_compounds",
+ "lat": -7.60778,
+ "lon": 110.20361,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(vi)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座著名的佛教圣殿，建于公元8世纪至9世纪，位于爪哇岛中部。整个建筑分为三层。基座是五个同心方台，呈角锥体；中间是三个环形平台，呈圆锥体；顶端是佛塔。四周围墙和栏杆饰以浅浮雕，总面积2500平方米。围绕着环形平台有72座透雕细工的印度塔，内有佛龛，每个佛龛供奉一尊佛像。该遗址在联合国教科文组织的援助下于20世纪70年代得以重建。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This famous Buddhist temple, dating from the 8th and 9th centuries, is located in central Java. It was built in three tiers: a pyramidal base with five concentric square terraces, the trunk of a cone with three circular platforms and, at the top, a monumental stupa. The walls and balustrades are decorated with fine low reliefs, covering a total surface area of 2,500 m 2 . Around the circular platforms are 72 openwork stupas, each containing a statue of the Buddha. The monument was restored with UNESCO's help in the 1970s.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Borobudur-Nothwest-view.jpg?width=1280",
+   "title": "Borobudur-Nothwest-view.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Borobudur-Nothwest-view.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_592.jpg",
+   "title": "Borobudur Temple Compounds",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/592",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/592",
+ "transport": {
+  "airports": [
+   {
+    "name": "Adisutjipto International Airport",
+    "iata": "JOG",
+    "city": "Yogyakarta",
+    "country": "ID",
+    "lat": -7.78818,
+    "lon": 110.431999,
+    "type": "medium_airport",
+    "distance_km": 32.2
+   },
+   {
+    "name": "Yogyakarta International Airport",
+    "iata": "YIA",
+    "city": "Yogyakarta",
+    "country": "ID",
+    "lat": -7.905338,
+    "lon": 110.057264,
+    "type": "large_airport",
+    "distance_km": 36.8
+   },
+   {
+    "name": "Adisoemarmo International Airport",
+    "iata": "SOC",
+    "city": "Surakarta",
+    "country": "ID",
+    "lat": -7.516044,
+    "lon": 110.757492,
+    "type": "large_airport",
+    "distance_km": 61.9
+   }
+  ],
+  "nearest_airport_km": 32.2,
+  "distance_beijing_km": 5360.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ID",
+  "country_zh": "印度尼西亚",
+  "country_en": "Indonesia",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "e-VOA / Visa on arrival[6][59]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ID",
+   "country_zh": "印度尼西亚",
+   "country_en": "Indonesia",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "e-VOA / Visa on arrival[6][59]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/592"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Borobudur%20Temple%20Compounds"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

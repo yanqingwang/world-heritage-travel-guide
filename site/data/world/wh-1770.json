@@ -1,0 +1,154 @@
+{
+ "id": "wh-1770",
+ "unesco_id": "1770",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1034,
+ "popularity_score": null,
+ "country": "IR",
+ "country_zh": "伊朗",
+ "country_en": "Iran",
+ "countries": [
+  {
+   "iso2": "IR",
+   "zh": "伊朗",
+   "en": "Iran"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IR-26",
+ "subdivision_zh": "加兹温省",
+ "subdivision_en": "Qazvin Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿拉穆特城堡及相关防御工事",
+ "name_zh_source": "unesco_official",
+ "name_en": "Alamūt Castle and Related Fortifications",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1770-alamūt_castle_and_related_fortifications",
+ "lat": 36.44472222,
+ "lon": 50.58611111,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该系列遗产由阿拉穆特城堡（Alamūt Castle）及6处相关防御工事组成——兰贝萨尔（Lambesar）、纳维扎尔沙（Navizaršāh）、沙姆斯凯拉耶（Šams Kelāyeh）、戈斯廷拉尔（Qosṭinlār）、希尔库赫（Širkūh）、伊兰（Ilān）。它们分布于伊朗北部加兹温省厄尔布尔士山脉险峻山区的战略要地。自公元11世纪晚期起，阿拉穆特一直是尼扎里伊斯玛仪派的政治、军事和思想中心。该宗教运动的影响力甚广，遍及伊朗及更大范围的伊斯兰世界。防御网络既是避难所，也是学术和文化中心，在1256年阿拉穆特陷落之前维系着尼扎里社群的发展，并在此后的漫长历史时期继续影响着当地宗教和思想文化。这些防御工事共同展示了尼扎里伊斯玛仪国家的战略组织、生存韧性及文化意义。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The serial property consists of Alamūt Castle and six associated fortifications–Lambesar, Navizaršāh, Šams Kelāyeh, Qosṭinlār, Širkūh, and Ilān–strategically positioned within the rugged landscape of the Alborz Mountains in Qazvin Province, northern Iran. From the late 11th century CE, Alamūt served as the political, military, and intellectual centre of the Nezāri Ismaʿilis, an influential Islamic movement whose reach extended across Iran and the wider Islamic world. This fortified network functioned both as a refuge and as a scholarly and cultural hub, sustaining the Nezāri community until the fall of Alamūt in 1256 and continuing to shape regional religious and intellectual history long thereafter. Together, the fortifications illustrate the strategic organisation, resilience, and cultural significance of the Nezāri Ismaʿili state.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1770.jpg",
+   "title": "Alamūt Castle and Related Fortifications",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1770",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1770",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ramsar Airport",
+    "iata": "RZR",
+    "city": "Ramsar",
+    "country": "IR",
+    "lat": 36.90701,
+    "lon": 50.687316,
+    "type": "medium_airport",
+    "distance_km": 52.2
+   },
+   {
+    "name": "Payam International Airport",
+    "iata": "PYK",
+    "city": "Karaj",
+    "country": "IR",
+    "lat": 35.7761,
+    "lon": 50.826698,
+    "type": "large_airport",
+    "distance_km": 77.4
+   },
+   {
+    "name": "Nowshahr Airport",
+    "iata": "NSH",
+    "city": "Nowshahr",
+    "country": "IR",
+    "lat": 36.664286,
+    "lon": 51.46273,
+    "type": "medium_airport",
+    "distance_km": 82.0
+   }
+  ],
+  "nearest_airport_km": 52.2,
+  "distance_beijing_km": 5611.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IR",
+  "country_zh": "伊朗",
+  "country_en": "Iran",
+  "status": "visa_free",
+  "days": 21,
+  "requirement": "Visa not required[6][60]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IR",
+   "country_zh": "伊朗",
+   "country_en": "Iran",
+   "status": "visa_free",
+   "days": 21,
+   "requirement": "Visa not required[6][60]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1770"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:54Z"
+}

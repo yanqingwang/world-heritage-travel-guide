@@ -1,0 +1,162 @@
+{
+ "id": "wh-474",
+ "unesco_id": "474",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 473,
+ "popularity_score": 14754,
+ "country": "HU",
+ "country_zh": "匈牙利",
+ "country_en": "Hungary",
+ "countries": [
+  {
+   "iso2": "HU",
+   "zh": "匈牙利",
+   "en": "Hungary"
+  }
+ ],
+ "region": "Counties of Borsod-Abaúj-Zemplén, Heves, Hajdú-Bihar and Jász-Nagykun-Szolnok",
+ "subdivision_iso": "HU-HB",
+ "subdivision_zh": "豪伊杜-比豪尔州",
+ "subdivision_en": "Hajdú-Bihar County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "霍尔托巴吉国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hortobágy National Park - the Puszta",
+ "name_local": "Hortobágyi Nemzeti Park",
+ "local_lang": "hu",
+ "local_lang_name": "Hungarian",
+ "slug": "474-hortobágy_national_park_-_the_puszta",
+ "lat": 47.59458,
+ "lon": 21.15678,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "霍尔托巴吉普斯陶文化景区是匈牙利东部一片面积辽阔的草原和湿地。传统的利用土地方式，例如家畜牧养，在这里的游牧民族保持了2000多年。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The cultural landscape of the Hortobágy Puszta consists of a vast area of plains and wetlands in eastern Hungary. Traditional forms of land use, such as the grazing of domestic animals, have been present in this pastoral society for more than two millennia.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "A Hortobágyi Nemzeti Park hazánk első nemzeti parkja, melyet 1973. január 1-jén hozott létre az Országos Természetvédelmi Hivatal. Területe 82 000 hektár. 1999. november 30-án Marrákesben, az UNESCO Világörökség Bizottságának ülésén felvették a Hortobágyi Nemzeti Park egész területét a Világ Kulturális és Természeti Örökségének listájára. A Hortobágyi Nemzeti Park Igazgatósága Debrecenben található. Továbbá még a Nemzeti Park üzemelteti az ország egyetlen utasokat szállító halastavi kisvasútját, mely Magyarország legnagyobb mesterséges halastavánál (a Kondás tónál) végződik.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hortobagy-ziehbrunnen.jpg?width=1280",
+   "title": "Hortobagy-ziehbrunnen.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Hortobagy-ziehbrunnen.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_474.jpg",
+   "title": "Hortobágy National Park - the <em>Puszta</em>",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/474",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/474",
+ "transport": {
+  "airports": [
+   {
+    "name": "Debrecen International Airport",
+    "iata": "DEB",
+    "city": "Debrecen",
+    "country": "HU",
+    "lat": 47.489469,
+    "lon": 21.616278,
+    "type": "large_airport",
+    "distance_km": 36.4
+   },
+   {
+    "name": "Oradea International Airport",
+    "iata": "OMR",
+    "city": "Oradea",
+    "country": "RO",
+    "lat": 47.025299,
+    "lon": 21.9025,
+    "type": "large_airport",
+    "distance_km": 84.7
+   },
+   {
+    "name": "Košice International Airport",
+    "iata": "KSC",
+    "city": "Košice",
+    "country": "SK",
+    "lat": 48.663101,
+    "lon": 21.2411,
+    "type": "medium_airport",
+    "distance_km": 119.0
+   }
+  ],
+  "nearest_airport_km": 36.4,
+  "distance_beijing_km": 7176.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HU",
+  "country_zh": "匈牙利",
+  "country_en": "Hungary",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HU",
+   "country_zh": "匈牙利",
+   "country_en": "Hungary",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "hu",
+  "local_lang_name": "Hungarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/474"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hortob%C3%A1gy%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

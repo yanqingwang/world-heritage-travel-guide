@@ -1,0 +1,178 @@
+{
+ "id": "cn-1451",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "萍乡市",
+ "city_en": "Pingxiang City",
+ "name_zh": "萍乡市芦溪县萍乡武功山景区",
+ "name_en": "Wugong Mountains",
+ "name_en_source": "wikipedia",
+ "slug": "pingxiangshiluxixianpingxiangwugongshan-1451",
+ "lat": 27.495319,
+ "lon": 114.135944,
+ "address_zh": "江西省萍乡市东南部",
+ "address_en": "Southeast of Pingxiang City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "萍乡市武功山景区属湘赣边界罗霄山脉北段，历史上曾与庐山、衡山并称江南三大名山，有“衡首庐尾武功中”之称。武功山景区由金顶景区、羊狮幕景区、九龙山、发云界四大区块组成，其中武功山主峰白鹤峰（金顶）海拔1918.3米。",
+ "intro_en": "The Wugong Mountain Scenic Area in Pingxiang City belongs to the northern section of the Luoxiao Mountains on the border of Hunan and Jiangxi. Historically, it was once known as the three famous mountains in the south of the Yangtze River together with Mount Lu and Mount Heng, and was known as the \"Wugong Center at the Head of Heng and Mount Lu at the End\". Wugong Mountain Scenic Area consists of four major areas: Golden Summit Scenic Area, Sheep and Lion Screen Scenic Area, Jiulong Mountain, and Fayunjie. Among them, the main peak of Wugong Mountain, Baihe Peak (Golden Summit), is 1,918.3 meters above sea level.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/WUGONGSHAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "WUGONGSHAN.jpg",
+   "author": "The original uploader was Tiangong83 at Chinese Wikipedia .",
+   "license": "CC BY-SA 3.0",
+   "credit": "Transferred from zh.wikipedia to Commons by nopira .",
+   "source": "https://commons.wikimedia.org/wiki/File:WUGONGSHAN.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Golden_Dome_of_Wugong_Mountain.jpg/1280px-Golden_Dome_of_Wugong_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Golden Dome of Wugong Mountain.jpg",
+   "author": "RoundNoName",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Dome_of_Wugong_Mountain.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wugong_Mountains%2C_17_June_2018%2C_Picture10.jpg/1280px-Wugong_Mountains%2C_17_June_2018%2C_Picture10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wugong Mountains, 17 June 2018, Picture10.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wugong_Mountains%2C_17_June_2018%2C_Picture10.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Wugong_Mountains%2C_17_June_2018%2C_Picture15.jpg/1280px-Wugong_Mountains%2C_17_June_2018%2C_Picture15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wugong Mountains, 17 June 2018, Picture15.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wugong_Mountains%2C_17_June_2018%2C_Picture15.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Wugong_Mountains%2C_17_June_2018%2C_Picture4.jpg/1280px-Wugong_Mountains%2C_17_June_2018%2C_Picture4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wugong Mountains, 17 June 2018, Picture4.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wugong_Mountains%2C_17_June_2018%2C_Picture4.jpg"
+  }
+ ],
+ "web": "http://www.wugongshan.cn/toWelcome.htm",
+ "booking": "http://www.wugongshan.cn/toWelcome.htm",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yichun Mingyueshan Airport",
+    "iata": "YIC",
+    "city": "Yichun",
+    "country": "CN",
+    "lat": 27.8025,
+    "lon": 114.3062,
+    "type": "medium_airport",
+    "distance_km": 38.1
+   },
+   {
+    "name": "Jinggangshan Airport",
+    "iata": "JGS",
+    "city": "Ji'an",
+    "country": "CN",
+    "lat": 26.856899,
+    "lon": 114.737,
+    "type": "medium_airport",
+    "distance_km": 92.6
+   },
+   {
+    "name": "Changsha Huanghua International Airport",
+    "iata": "CSX",
+    "city": "Changsha (Changsha)",
+    "country": "CN",
+    "lat": 28.189199,
+    "lon": 113.220001,
+    "type": "large_airport",
+    "distance_km": 118.6
+   }
+  ],
+  "nearest_airport_km": 38.1,
+  "high_speed_stations": [
+   {
+    "name": "萍乡北",
+    "name_en": "Pingxiang North",
+    "lat": 27.6874541,
+    "lon": 113.8422996,
+    "distance_km": 36.0,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "芦溪",
+    "name_en": "Luxi",
+    "lat": 27.6550315,
+    "lon": 114.0471827,
+    "distance_km": 19.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "高坑",
+    "name_en": null,
+    "lat": 27.6243689,
+    "lon": 113.9604841,
+    "distance_km": 22.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "泉江",
+    "name_en": null,
+    "lat": 27.6630783,
+    "lon": 113.9468345,
+    "distance_km": 26.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/武功山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

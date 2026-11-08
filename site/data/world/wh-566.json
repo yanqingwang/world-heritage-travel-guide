@@ -1,0 +1,162 @@
+{
+ "id": "wh-566",
+ "unesco_id": "566",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1109,
+ "popularity_score": null,
+ "country": "BO",
+ "country_zh": "玻利维亚",
+ "country_en": "Bolivia",
+ "countries": [
+  {
+   "iso2": "BO",
+   "zh": "玻利维亚",
+   "en": "Bolivia"
+  }
+ ],
+ "region": "Department de Chuquisaca, Province Oropeza",
+ "subdivision_iso": "BO-H",
+ "subdivision_zh": "丘基萨卡省",
+ "subdivision_en": "Chuquisaca Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "苏克雷古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic City of Sucre",
+ "name_local": "Ciudad histórica de Sucre",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "566-historic_city_of_sucre",
+ "lat": -19.04799,
+ "lon": -65.259591944,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "玻利维亚第一个首都苏克雷城是16世纪上半叶由西班牙人建立的。当地保存完好的一些16世纪宗教建筑，例如圣洛伦佐教堂(San Lázaro)、圣弗朗西斯科教堂(San Francisco)和圣多明戈教堂(Santo Domingo)，都体现了当地建筑特色和欧洲外来建筑风格的融合。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Sucre, the first capital of Bolivia, was founded by the Spanish in the first half of the 16th century. Its many well-preserved 16th-century religious buildings, such as San Lázaro, San Francisco and Santo Domingo, illustrate the blending of local architectural traditions with styles imported from Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fundada por los españoles en la primera mitad del siglo XVI, Sucre fue la primera capital de Bolivia. Cuenta con numerosas iglesias bien conservadas de esa época –por ejemplo, las de San Lí¡zaro, San Francisco y Santo Domingo– que ilustran la mezcla de las tradiciones arquitectónicos locales con los estilos importados de Europa.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20170805%20Bolivia%201214%20Sucre%20sRGB%20%2826204168039%29.jpg?width=1280",
+   "title": "20170805 Bolivia 1214 Sucre sRGB (26204168039).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:20170805%20Bolivia%201214%20Sucre%20sRGB%20%2826204168039%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_566.jpg",
+   "title": "Historic City of Sucre",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/566",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/566",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alcantarí International Airport",
+    "iata": "SRE",
+    "city": "Sucre",
+    "country": "BO",
+    "lat": -19.246835,
+    "lon": -65.149611,
+    "type": "large_airport",
+    "distance_km": 24.9
+   },
+   {
+    "name": "Jorge Wilsterman International Airport",
+    "iata": "CBB",
+    "city": "Cochabamba",
+    "country": "BO",
+    "lat": -17.421105,
+    "lon": -66.177102,
+    "type": "large_airport",
+    "distance_km": 205.2
+   },
+   {
+    "name": "Juan Mendoza International Airport",
+    "iata": "ORU",
+    "city": "Oruro",
+    "country": "BO",
+    "lat": -17.956151,
+    "lon": -67.075829,
+    "type": "large_airport",
+    "distance_km": 226.8
+   }
+  ],
+  "nearest_airport_km": 24.9,
+  "distance_beijing_km": 17692.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BO",
+  "country_zh": "玻利维亚",
+  "country_en": "Bolivia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.[26][27][28] Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BO",
+   "country_zh": "玻利维亚",
+   "country_en": "Bolivia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Visitors must complete an online application form, but still need to visit an embassy in order to receive a sticker visa.[26][27][28] Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/566"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

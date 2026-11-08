@@ -1,0 +1,162 @@
+{
+ "id": "wh-582",
+ "unesco_id": "582",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 702,
+ "popularity_score": 5764,
+ "country": "FI",
+ "country_zh": "芬兰",
+ "country_en": "Finland",
+ "countries": [
+  {
+   "iso2": "FI",
+   "zh": "芬兰",
+   "en": "Finland"
+  }
+ ],
+ "region": "Region of Satakunta, Province of Western Finland (formerly Province of Turku-Pori)",
+ "subdivision_iso": "FI-17",
+ "subdivision_zh": "萨塔昆塔区",
+ "subdivision_en": "Satakunta",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "劳马古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Rauma",
+ "name_local": "Vanha Rauma",
+ "local_lang": "fi",
+ "local_lang_name": "Finnish",
+ "slug": "582-old_rauma",
+ "lat": 61.128269,
+ "lon": 21.513215,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "劳马位于波特尼亚海湾(Gulf of Botnia)，是芬兰最古老的港口之一。古城绕圣芳济会修道院而建，15世纪中期的圣十字教堂仍巍然屹立，这里是典型的木结构的北欧城市。尽管在17世纪晚期遭到火灾破坏，但古代民间建筑的风貌犹存。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated on the Gulf of Botnia, Rauma is one of the oldest harbours in Finland. Built around a Franciscan monastery, where the mid-15th-century Holy Cross Church still stands, it is an outstanding example of an old Nordic city constructed in wood. Although ravaged by fire in the late 17th century, it has preserved its ancient vernacular architectural heritage.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Vanha Rauma on Raumalla sijaitseva vanha puutalokaupunginosa. Se on Pohjoismaiden laajin, yhtenäisin ja parhaiten säilynyt vanha puukaupunkialue, jonka asemakaava periytyy jo keskiajalta. Vanha Rauma valittiin Unescon maailmanperintöluetteloon vuonna 1991. Se on myös yksi Museoviraston määrittelemistä valtakunnallisesti merkittävistä rakennetuista kulttuuriympäristöistä. Vanha Rauma on vilkas kaupankäynnin keskus, jonka katukuvaa värittävät useat pikkuliikkeet sekä kahvilat ja ravintolat. Alue on Rauman tunnetuin ja merkittävin matkailunähtävyys, joka on Unescon maailmanperintöasemansa vuoksi myös ulkomaisten turistien suosiossa. Kiistellyn rakennushankkeen vuoksi Vanhan Rauman status maailmanperintökohteena on uhattuna. Suomen Kotiseutuliitto valitsi Vanhan Rauman Vuoden kaupunginosaksi vuonna 2022.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rauma%203.jpg?width=1280",
+   "title": "Rauma 3.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Rauma%203.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_582.jpg",
+   "title": "Old Rauma",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/582",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/582",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pori Airport",
+    "iata": "POR",
+    "city": "Pori",
+    "country": "FI",
+    "lat": 61.4617,
+    "lon": 21.799999,
+    "type": "medium_airport",
+    "distance_km": 40.1
+   },
+   {
+    "name": "Turku Airport",
+    "iata": "TKU",
+    "city": "Turku",
+    "country": "FI",
+    "lat": 60.514099,
+    "lon": 22.2628,
+    "type": "large_airport",
+    "distance_km": 79.5
+   },
+   {
+    "name": "Tampere-Pirkkala Airport",
+    "iata": "TMP",
+    "city": "Tampere / Pirkkala",
+    "country": "FI",
+    "lat": 61.414101,
+    "lon": 23.604401,
+    "type": "large_airport",
+    "distance_km": 116.2
+   }
+  ],
+  "nearest_airport_km": 40.1,
+  "distance_beijing_km": 6410.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FI",
+  "country_zh": "芬兰",
+  "country_en": "Finland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FI",
+   "country_zh": "芬兰",
+   "country_en": "Finland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fi",
+  "local_lang_name": "Finnish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/582"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20Rauma"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-201",
+ "unesco_id": "201",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 230,
+ "popularity_score": 44941,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "North Central Province, Polonnaruva District",
+ "subdivision_iso": "LK-7",
+ "subdivision_zh": "北中省",
+ "subdivision_en": "North Central Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波隆纳鲁沃古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient City of Polonnaruwa",
+ "name_local": "",
+ "local_lang": "ta",
+ "local_lang_name": "Tamil",
+ "slug": "201-ancient_city_of_polonnaruwa",
+ "lat": 7.933333333,
+ "lon": 81.0,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元933年，继阿努拉达普拉被毁灭后，波隆纳鲁沃城成为斯里兰卡的首府所在地。在波隆纳鲁沃古城里，不仅有考拉斯时期的婆罗门教遗址，还能看到帕拉克拉马一世于12世纪时修建的神话般花园城市的遗迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993. It comprises, besides the Brahmanic monuments built by the Cholas, the monumental ruins of the fabulous garden-city created by Parakramabahu I in the 12th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Polonnaruwa%2002.jpg?width=1280",
+   "title": "Polonnaruwa 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Polonnaruwa%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_201.jpg",
+   "title": "Ancient City of Polonnaruwa",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/201",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/201",
+ "transport": {
+  "airports": [
+   {
+    "name": "China Bay Airport",
+    "iata": "TRR",
+    "city": "Trincomalee",
+    "country": "LK",
+    "lat": 8.539159,
+    "lon": 81.18128,
+    "type": "medium_airport",
+    "distance_km": 70.3
+   },
+   {
+    "name": "Batticaloa International Airport",
+    "iata": "BTC",
+    "city": "Batticaloa",
+    "country": "LK",
+    "lat": 7.705073,
+    "lon": 81.677163,
+    "type": "medium_airport",
+    "distance_km": 78.8
+   },
+   {
+    "name": "Bandaranaike International Colombo Airport",
+    "iata": "CMB",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 7.180759906768799,
+    "lon": 79.88410186767578,
+    "type": "large_airport",
+    "distance_km": 148.8
+   }
+  ],
+  "nearest_airport_km": 70.3,
+  "distance_beijing_km": 4956.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "ta",
+  "local_lang_name": "Tamil",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/201"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Polonnaruwa"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

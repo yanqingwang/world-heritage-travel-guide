@@ -1,0 +1,162 @@
+{
+ "id": "wh-43",
+ "unesco_id": "43",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 328,
+ "popularity_score": 26919,
+ "country": "BG",
+ "country_zh": "保加利亚",
+ "country_en": "Bulgaria",
+ "countries": [
+  {
+   "iso2": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria"
+  }
+ ],
+ "region": "Village of Madara, Province of Shumen",
+ "subdivision_iso": "BG-27",
+ "subdivision_zh": "舒门州",
+ "subdivision_en": "Shumen",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马达腊骑士崖雕",
+ "name_zh_source": "unesco_official",
+ "name_en": "Madara Rider",
+ "name_local": "Мадарски конник",
+ "local_lang": "bg",
+ "local_lang_name": "Bulgarian",
+ "slug": "43-madara_rider",
+ "lat": 43.2773746,
+ "lon": 27.1188945,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马达腊骑士崖雕刻画的是一位骑士斗败狮子的场面，位于保加利亚东北部马达腊镇附近的一面高约100米的悬崖之上。在公元9世纪前，保加利亚人并不信仰基督教，那时马达腊是保加利亚第一帝国主要的宗教场所。在崖雕的边上还刻有铭文，讲述了公元705年至801年间发生的事件。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ма̀дарският конник е средновековен барелеф, изсечен на отвесна скала близо до днешното село Ма̀дара в Североизточна България. Това е единствен по вида си релеф в Европа от периода на ранното средновековие и е обявен от ЮНЕСКО за паметник на световното културно наследство.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JE%C5%B9DZIEC%20Z%20MADARY.JPG?width=1280",
+   "title": "JEŹDZIEC Z MADARY.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:JE%C5%B9DZIEC%20Z%20MADARY.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_43.jpg",
+   "title": "Madara Rider",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/43",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/43",
+ "transport": {
+  "airports": [
+   {
+    "name": "Varna Airport",
+    "iata": "VAR",
+    "city": "Varna",
+    "country": "BG",
+    "lat": 43.232101,
+    "lon": 27.8251,
+    "type": "large_airport",
+    "distance_km": 57.4
+   },
+   {
+    "name": "Burgas Airport",
+    "iata": "BOJ",
+    "city": "Burgas",
+    "country": "BG",
+    "lat": 42.569917,
+    "lon": 27.515173,
+    "type": "large_airport",
+    "distance_km": 85.0
+   },
+   {
+    "name": "Bucharest Băneasa Aurel Vlaicu International Airport",
+    "iata": "BBU",
+    "city": "Bucharest",
+    "country": "RO",
+    "lat": 44.503133,
+    "lon": 26.102944,
+    "type": "large_airport",
+    "distance_km": 158.8
+   }
+  ],
+  "nearest_airport_km": 57.4,
+  "distance_beijing_km": 7011.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BG",
+  "country_zh": "保加利亚",
+  "country_en": "Bulgaria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BG",
+   "country_zh": "保加利亚",
+   "country_en": "Bulgaria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "bg",
+  "local_lang_name": "Bulgarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/43"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Madara%20Rider"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

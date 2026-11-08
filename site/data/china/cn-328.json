@@ -1,0 +1,134 @@
+{
+ "id": "cn-328",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "阿勒泰地区",
+ "city_en": "Altay Prefecture",
+ "name_zh": "兵团十师185团白沙湖景区（阿勒泰地区）",
+ "name_en": "Bingtuanshishi185tuanbaishahujingqu（aleitaidiqu）",
+ "name_en_source": "pinyin",
+ "slug": "bingtuanshishi185tuanbaishahujingqualeitaidiqu-328",
+ "lat": 47.575892,
+ "lon": 87.787041,
+ "address_zh": "新疆维吾尔自治区阿勒泰地区新疆生产建设兵团十师185团三连",
+ "address_en": "Third Company of the 185th Regiment, 10th Division, Xinjiang Production and Construction Corps, Altay Prefecture, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "desert",
+ "category_zh": "草原沙漠",
+ "category_en": "Grassland & desert",
+ "intro_zh": "新疆生产建设兵团第十师白沙湖景区，是一个被沙丘环绕的沙漠小湖，也是新疆阿勒泰地区千里画廊上的一个重要景点之一。白沙湖景致十分独特，湖心野荷浮面，湖州植被茂盛，仿佛从天而降的一池碧水一般，点缀在沙山之中。",
+ "intro_en": "The Baisha Lake Scenic Area of ​​the 10th Division of the Xinjiang Production and Construction Corps is a small desert lake surrounded by sand dunes. It is also one of the important attractions on the Qianli Gallery in the Altay region of Xinjiang. The scenery of Baisha Lake is very unique, with wild lotuses floating on the surface in the center of the lake and lush vegetation in Huzhou. It is like a pool of clear water falling from the sky, dotted among the sand mountains.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Altay Xuedu Airport",
+    "iata": "AAT",
+    "city": "Altay",
+    "country": "CN",
+    "lat": 47.749886,
+    "lon": 88.085808,
+    "type": "medium_airport",
+    "distance_km": 29.6
+   },
+   {
+    "name": "Burqin Kanas Airport",
+    "iata": "KJI",
+    "city": "Burqin",
+    "country": "CN",
+    "lat": 48.2223,
+    "lon": 86.9959,
+    "type": "medium_airport",
+    "distance_km": 93.0
+   },
+   {
+    "name": "Fuyun Koktokay Airport",
+    "iata": "FYN",
+    "city": "Fuyun",
+    "country": "CN",
+    "lat": 46.804169,
+    "lon": 89.512006,
+    "type": "medium_airport",
+    "distance_km": 156.1
+   }
+  ],
+  "nearest_airport_km": 29.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "巴里巴盖",
+    "name_en": null,
+    "lat": 47.5135776,
+    "lon": 87.9474771,
+    "distance_km": 13.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "阿勒泰 التاي",
+    "name_en": "Aletai",
+    "lat": 47.7175751,
+    "lon": 88.087107,
+    "distance_km": 27.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "北屯市",
+    "name_en": null,
+    "lat": 47.3229415,
+    "lon": 87.7565199,
+    "distance_km": 28.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Tenyun Hotel",
+   "name_en": "Tenyun Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 47.359875,
+   "lon": 87.8032561,
+   "distance_km": 24.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-498",
+ "unesco_id": "498",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 750,
+ "popularity_score": 4413,
+ "country": "TN",
+ "country_zh": "突尼斯",
+ "country_en": "Tunisia",
+ "countries": [
+  {
+   "iso2": "TN",
+   "zh": "突尼斯",
+   "en": "Tunisia"
+  }
+ ],
+ "region": "Gouvernorat de Sousse",
+ "subdivision_iso": "TN-51",
+ "subdivision_zh": "苏塞省",
+ "subdivision_en": "Sousse Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "苏塞老城",
+ "name_zh_source": "curated",
+ "name_en": "Medina of Sousse",
+ "name_local": "مدينة سوسة العتيقة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "498-medina_of_sousse",
+ "lat": 35.8278,
+ "lon": 10.6386,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在阿克拉普王朝时代（公元800-909年），苏塞就是重要的贸易枢纽和军事港口。在伊斯兰世界最初形成的几百年中，苏塞是一个典型的伊斯兰城镇。城内有旧城区、防御工事、阿拉伯人聚居区（并建有大清真寺）、伊斯兰教修道院和典型的里巴特（既有军事功能又有宗教意义的男修道院）。苏塞是伊斯兰国家沿海防御系统的一个重要组成部分。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Sousse was an important commercial and military port during the Aghlabid period (800–909) and is a typical example of a town dating from the first centuries of Islam. With its kasbah, ramparts, medina (with the Great Mosque), Bu Ftata Mosque and typical ribat (both a fort and a religious building), Sousse was part of a coastal defence system.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "مدينة سوسة العتيقة هي مدينة عتيقة تونسية، وهي القلب التاريخي لمدينة سوسة. تم تصنيفها في 1988 بمناسبة الدورة 12 للجنة التراث العالمي كموقع تراث عالمي لمنظمة اليونسكو. تعتبر سوسة مثال عن مدن القرون الأولى للإسلام في المغرب العربي. لذلك فهي تحتفظ بالقصبة وحصونها وأيضا جامعها الكبير، وذلك إلى جانب رباطها وأخيرا مسجد بوفتاتة وهو معلم ديني وعسكري. يذكر أن مدينة تونس العتيقة هي مصنفة كذلك في مواقع التراث العالمي.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sousse%20Kasbah.JPG?width=1280",
+   "title": "Sousse Kasbah.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sousse%20Kasbah.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_498.jpg",
+   "title": "Medina of Sousse",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/498",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/498",
+ "transport": {
+  "airports": [
+   {
+    "name": "Monastir Habib Bourguiba International Airport",
+    "iata": "MIR",
+    "city": "Monastir",
+    "country": "TN",
+    "lat": 35.75809860229492,
+    "lon": 10.75469970703125,
+    "type": "medium_airport",
+    "distance_km": 13.0
+   },
+   {
+    "name": "Enfidha - Hammamet International Airport",
+    "iata": "NBE",
+    "city": "Enfidha",
+    "country": "TN",
+    "lat": 36.075833,
+    "lon": 10.438611,
+    "type": "medium_airport",
+    "distance_km": 32.9
+   },
+   {
+    "name": "Tunis Carthage International Airport",
+    "iata": "TUN",
+    "city": "Tunis",
+    "country": "TN",
+    "lat": 36.851002,
+    "lon": 10.2272,
+    "type": "large_airport",
+    "distance_km": 119.6
+   }
+  ],
+  "nearest_airport_km": 13.0,
+  "distance_beijing_km": 8680.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TN",
+  "country_zh": "突尼斯",
+  "country_en": "Tunisia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TN",
+   "country_zh": "突尼斯",
+   "country_en": "Tunisia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/498"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medina%20of%20Sousse"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

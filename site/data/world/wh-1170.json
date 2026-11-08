@@ -1,0 +1,162 @@
+{
+ "id": "wh-1170",
+ "unesco_id": "1170",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 907,
+ "popularity_score": null,
+ "country": "RU",
+ "country_zh": "俄罗斯",
+ "country_en": "Russia",
+ "countries": [
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "Yaroslavl Oblast",
+ "subdivision_iso": "RU-YAR",
+ "subdivision_zh": "雅罗斯拉夫尔州",
+ "subdivision_en": "Yaroslavl Oblast",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "雅罗斯拉夫尔城的历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historical Centre of the City of Yaroslavl",
+ "name_local": "Исторический центр Ярославля",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "1170-historical_centre_of_the_city_of_yarosla",
+ "lat": 57.623611,
+ "lon": 39.8875,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2005",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "雅罗斯拉夫尔城位于伏尔加河与科特罗斯河交汇处，离莫斯科东北部约250公里，在11世纪发展成为一个主要的商业中心。雅罗斯拉夫尔城以其大量的17世纪教堂而闻名，在1763年成为凯萨琳皇后为整个俄罗斯下令的城市计划改革的典范。在保存其中的一些有重大历史意义的建筑的同时，雅罗斯拉夫尔城根据放射状的城市总体规划，以新古典主义的风格进行了修复，它仍然保持16世纪斯帕斯基修道院的风格。该修道院是伏尔加河上游地区最古老的建筑之一，在12世纪晚期建在异教教堂遗址上，但后来被改建。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated at the confluence of the Volga and Kotorosl Rivers some 250 km north-east of Moscow, the historic city of Yaroslavl developed into a major commercial centre from the 11th century. It is renowned for its numerous 17th-century churches and is an outstanding example of the urban planning reform Empress Catherine the Great ordered for the whole of Russia in 1763. While keeping some of its significant historic structures, the town was renovated in the neoclassical style on a radial urban master plan. It has also kept elements from the 16th century in the Spassky Monastery, one of the oldest in the Upper Volga region, built on the site of a pagan temple in the late 12th century but reconstructed over time.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Исторический город Ярославль, расположенный приблизительно в 250 км к северо-востоку от Москвы при впадении реки Которосль в Волгу, был основан в ХI в. и впоследствии развился в крупный торговый центр. Он известен своими многочисленными церквями ХVII в., и как выдающийся образец осуществления реформы городской планировки, проведенной по указу императрицы Екатерины Великой в 1763 г. по всей России. Хотя город и сохранил ряд замечательных исторических построек, в дальнейшем он был реконструирован в стиле классицизма на основе радиального генерального плана. В нем также сохранились относящиеся к ХVI в. сооружения Спасского монастыря – одного из старейших в Верхневолжском регионе, возникшего в конце ХII в. на месте языческого храма, но со временем перестроенного.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chapel%20of%20Alexander%20Nevsky%20%28Yaroslavl%29%20%28219902529%29.jpg?width=1280",
+   "title": "Chapel of Alexander Nevsky (Yaroslavl) (219902529).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Chapel%20of%20Alexander%20Nevsky%20%28Yaroslavl%29%20%28219902529%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1170.jpg",
+   "title": "Historical Centre of the City of Yaroslavl",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1170",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1170",
+ "transport": {
+  "airports": [
+   {
+    "name": "Golden Ring Yaroslavl International Airport",
+    "iata": "IAR",
+    "city": "Tunoshna",
+    "country": "RU",
+    "lat": 57.560699,
+    "lon": 40.157398,
+    "type": "large_airport",
+    "distance_km": 17.5
+   },
+   {
+    "name": "Kostroma Sokerkino Airport",
+    "iata": "KMW",
+    "city": "Kostroma",
+    "country": "RU",
+    "lat": 57.796902,
+    "lon": 41.019402,
+    "type": "medium_airport",
+    "distance_km": 69.9
+   },
+   {
+    "name": "Ivanovo South Airport",
+    "iata": "IWA",
+    "city": "Ivanovo",
+    "country": "RU",
+    "lat": 56.93939971923828,
+    "lon": 40.940799713134766,
+    "type": "medium_airport",
+    "distance_km": 99.0
+   }
+  ],
+  "nearest_airport_km": 17.5,
+  "distance_beijing_km": 5585.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RU",
+  "country_zh": "俄罗斯",
+  "country_en": "Russia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required",
+  "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1170"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

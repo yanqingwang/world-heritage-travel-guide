@@ -1,0 +1,162 @@
+{
+ "id": "wh-136",
+ "unesco_id": "136",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 570,
+ "popularity_score": 10691,
+ "country": "CD",
+ "country_zh": "刚果民主共和国",
+ "country_en": "Democratic Republic of the Congo",
+ "countries": [
+  {
+   "iso2": "CD",
+   "zh": "刚果民主共和国",
+   "en": "Democratic Republic of the Congo"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "CD-OR",
+ "subdivision_zh": "东方省",
+ "subdivision_en": "Orientale Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加兰巴国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Garamba National Park",
+ "name_local": "Parc national de la Garamba",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "136-garamba_national_park",
+ "lat": 4.0,
+ "lon": 29.25,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产地位于刚果民主共和国东北部，是中非仅存的广阔且连续的森林与稀树草原镶嵌景观之一的组成部分。作为几内亚—刚果森林生物群系与苏丹稀树草原之间的重要生态过渡地带，这里涵盖多种生境，包括草地、林木稀树草原、半落叶林、河流、河岸廊道林、沼泽和纸莎草湿地。火、植食动物的取食活动以及季节性洪水等生态过程持续塑造着这里的景观，并维持森林与稀树草原之间的动态平衡。 公园拥有丰富的野生动物群落，包括数量可观的非洲森林象、科尔多凡长颈鹿、普通河马、非洲水牛、狮子、穿山甲及多种灵长类动物。这里栖息着150多种哺乳动物、459种鸟类、83种爬行动物和43种两栖动物，其中包括受威胁物种和区域特有物种。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property, located in the north-eastern Democratic Republic of the Congo, forms part of one of the last extensive and continuous forest–savanna mosaic landscapes in Central Africa. Representing a major ecological transition zone between the Guineo-Congolian forest biome and the Sudanian savanna, it encompasses a diverse range of habitats, including grasslands, wooded savannas, semi-deciduous forests, rivers, gallery forests, marshes, and papyrus wetlands. Ecological processes such as fire, herbivory, and seasonal flooding continue to shape the landscape and maintain its forest–savanna dynamics. The park supports a rich assemblage of wildlife, including significant populations of African Forest Elephants, Kordofan Giraffes, Common Hippopotamuses, African buffaloes, lions, pangolins, and numerous primate species. It is home to more than 150 mammal species, 459 bird species, 83 reptile species, and 43 amphibian species, including threatened and regional endemic species.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le bien, situé dans le nord-est de la République démocratique du Congo, fait partie de l’une des dernières vastes mosaïques continues de forêts et de savanes d’Afrique centrale. Représentant une importante zone de transition écologique entre le biome forestier guinéo-congolais et la savane soudanienne, il englobe une grande diversité d’habitats, notamment des prairies, des savanes boisées, des forêts semi-décidues, des cours d’eau, des forêts-galeries, des marécages et des zones humides à papyrus. Des processus écologiques tels que les incendies naturels, l’herbivorie et les inondations saisonnières continuent de modeler le paysage et de maintenir la dynamique forêt-savane. Le parc abrite une faune d’une grande richesse, comprenant d’importantes populations d’éléphants de forêt d’Afrique, de girafes du Kordofan, d’hippopotames communs, de buffles d’Afrique, de lions, de pangolins, ainsi que de nombreuses espèces de primates. Il accueille plus de 150 espèces de mammifères, 459 espèces d’oiseaux, 83 espèces de reptiles et 43 espèces d’amphibiens, parmi lesquelles figurent des espèces menacées ainsi que des espèces endémiques à l’échelle régionale.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephants%20in%20garamba%20national%20park.jpg?width=1280",
+   "title": "Elephants in garamba national park.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Elephants%20in%20garamba%20national%20park.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_136.jpg",
+   "title": "Garamba National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/136",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/136",
+ "transport": {
+  "airports": [
+   {
+    "name": "Arua Airport",
+    "iata": "RUA",
+    "city": "Arua",
+    "country": "UG",
+    "lat": 3.049152,
+    "lon": 30.911714,
+    "type": "medium_airport",
+    "distance_km": 212.6
+   },
+   {
+    "name": "Matari Airport",
+    "iata": "IRP",
+    "city": "Isiro",
+    "country": "CD",
+    "lat": 2.82761,
+    "lon": 27.588301,
+    "type": "medium_airport",
+    "distance_km": 225.9
+   },
+   {
+    "name": "Juba International Airport",
+    "iata": "JUB",
+    "city": "Juba",
+    "country": "SS",
+    "lat": 4.87201,
+    "lon": 31.601101,
+    "type": "large_airport",
+    "distance_km": 278.1
+   }
+  ],
+  "nearest_airport_km": 212.6,
+  "distance_beijing_km": 9421.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CD",
+  "country_zh": "刚果民主共和国",
+  "country_en": "Democratic Republic of the Congo",
+  "status": "evisa",
+  "days": 7,
+  "requirement": "eVisa[6][42]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CD",
+   "country_zh": "刚果民主共和国",
+   "country_en": "Democratic Republic of the Congo",
+   "status": "evisa",
+   "days": 7,
+   "requirement": "eVisa[6][42]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 57
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/136"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Garamba%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

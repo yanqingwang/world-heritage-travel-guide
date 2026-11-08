@@ -1,0 +1,162 @@
+{
+ "id": "wh-145",
+ "unesco_id": "145",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 325,
+ "popularity_score": 27923,
+ "country": "AR",
+ "country_zh": "阿根廷",
+ "country_en": "Argentina",
+ "countries": [
+  {
+   "iso2": "AR",
+   "zh": "阿根廷",
+   "en": "Argentina"
+  }
+ ],
+ "region": "Santa Cruz",
+ "subdivision_iso": "AR-Z",
+ "subdivision_zh": "圣克鲁斯省",
+ "subdivision_en": "Santa Cruz Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "冰川国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Los Glaciares National Park",
+ "name_local": "Los Glaciares",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "145-los_glaciares_national_park",
+ "lat": -50.330530387,
+ "lon": -73.234164314,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "冰川国家公园风景秀美，峰峦叠嶂，冰川湖泊星罗棋布，其中包括长达160公里的阿根廷湖。在遥远的源头，三川汇流，奔涌注入奶白色冰水之中，将硕大的冰块冲到湖里，冰块撞击如雷声轰鸣，蔚为壮观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Los Glaciares National Park is an area of exceptional natural beauty, with rugged, towering mountains and numerous glacial lakes, including Lake Argentino, which is 160 km long. At its farthest end, three glaciers meet to dump their effluvia into the milky grey glacial water, launching massive igloo icebergs into the lake with thunderous splashes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "El Parque Nacional Los Glaciares es un sitio de excepcional belleza natural con impresionantes cimas recortadas y numerosos lagos glaciares, como el Lago Argentino, que tiene 160 kilómetros de longitud. En el extremo de éste convergen tres glaciares que precipitan enormes icebergs en sus aguas heladas de color gris lechoso, en medio de un estrépito atronador.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Perito%20moreno%20argentini%C3%AB.JPEG?width=1280",
+   "title": "Perito moreno argentinië.JPEG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Perito%20moreno%20argentini%C3%AB.JPEG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_145.jpg",
+   "title": "Los Glaciares National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/145",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/145",
+ "transport": {
+  "airports": [
+   {
+    "name": "El Calafate - Commander Armando Tola International Airport",
+    "iata": "FTE",
+    "city": "El Calafate",
+    "country": "AR",
+    "lat": -50.280267,
+    "lon": -72.053401,
+    "type": "medium_airport",
+    "distance_km": 84.0
+   },
+   {
+    "name": "Lieutenant Julio Gallardo Airport",
+    "iata": "PNT",
+    "city": "Puerto Natales",
+    "country": "CL",
+    "lat": -51.67067,
+    "lon": -72.529078,
+    "type": "medium_airport",
+    "distance_km": 157.0
+   },
+   {
+    "name": "28 de Noviembre Airport",
+    "iata": "RYO",
+    "city": "Rio Turbio",
+    "country": "AR",
+    "lat": -51.605,
+    "lon": -72.2203,
+    "type": "small_airport",
+    "distance_km": 158.5
+   }
+  ],
+  "nearest_airport_km": 84.0,
+  "distance_beijing_km": 18696.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AR",
+  "country_zh": "阿根廷",
+  "country_en": "Argentina",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AR",
+   "country_zh": "阿根廷",
+   "country_en": "Argentina",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 54
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/145"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Los%20Glaciares%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

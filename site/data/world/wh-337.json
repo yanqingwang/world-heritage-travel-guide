@@ -1,0 +1,283 @@
+{
+ "id": "wh-337",
+ "unesco_id": "337",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 134,
+ "popularity_score": 109995,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Assam",
+ "subdivision_iso": "IN-AS",
+ "subdivision_zh": "阿萨姆邦",
+ "subdivision_en": "Assam",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡齐兰加国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kaziranga National Park",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "337-kaziranga_national_park",
+ "lat": 26.666666666,
+ "lon": 93.35,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡齐兰加国家公园位于印度阿萨姆邦中心地带，是印度东部最后一批没有人类活动骚扰的地区之一。这个公园里生活着世界上最大种群、最多数量的独角犀牛，还有许多其他哺乳动物，包括老虎、大象、豹、熊和数以千计的鸟类。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the heart of Assam, this park is one of the last areas in eastern India undisturbed by a human presence. It is inhabited by the world's largest population of one-horned rhinoceroses, as well as many mammals, including tigers, elephants, panthers and bears, and thousands of birds.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Rhinoceros%20Rhinoceros%20unicornis%20by%20Dr.%20Raju%20Kasambe%20%285%29.JPG?width=1280",
+   "title": "Indian Rhinoceros Rhinoceros unicornis by Dr. Raju Kasambe (5).JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Indian%20Rhinoceros%20Rhinoceros%20unicornis%20by%20Dr.%20Raju%20Kasambe%20%285%29.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Assam_057.jpg/1280px-Assam_057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Assam 057.jpg",
+   "author": "Peter Andersen",
+   "license": "CC BY 2.5",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:Assam_057.jpg"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "Kaziranga-pronounce.ogg",
+   "author": "Myself",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Kaziranga-pronounce.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/A_trail_in_Kaziranga_National_Park%2C_Assam.jpg/1280px-A_trail_in_Kaziranga_National_Park%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A trail in Kaziranga National Park, Assam.jpg",
+   "author": "Joli",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_trail_in_Kaziranga_National_Park%2C_Assam.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/A_vibrant_bird_2.jpg/1280px-A_vibrant_bird_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A vibrant bird 2.jpg",
+   "author": "Karabi kanan chutia",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_vibrant_bird_2.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/337",
+ "transport": {
+  "airports": [
+   {
+    "name": "Itanagar Donyi Polo Hollongi Airport",
+    "iata": "HGI",
+    "city": "Hollongi",
+    "country": "IN",
+    "lat": 26.96683,
+    "lon": 93.638792,
+    "type": "medium_airport",
+    "distance_km": 44.0
+   },
+   {
+    "name": "Tezpur Airport",
+    "iata": "TEZ",
+    "city": "",
+    "country": "IN",
+    "lat": 26.7091007232666,
+    "lon": 92.78469848632812,
+    "type": "medium_airport",
+    "distance_km": 56.4
+   },
+   {
+    "name": "Jorhat Airport",
+    "iata": "JRH",
+    "city": "Jorhat",
+    "country": "IN",
+    "lat": 26.730456,
+    "lon": 94.175416,
+    "type": "medium_airport",
+    "distance_km": 82.3
+   }
+  ],
+  "nearest_airport_km": 44.0,
+  "distance_beijing_km": 2566.3,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Nizbargang",
+    "name_en": null,
+    "lat": 26.8459516,
+    "lon": 93.3022942,
+    "distance_km": 20.5,
+    "operator": "NFR"
+   },
+   {
+    "name": "Viswanath Charali",
+    "name_en": null,
+    "lat": 26.7696912,
+    "lon": 93.1654234,
+    "distance_km": 21.6,
+    "operator": null
+   },
+   {
+    "name": "Nizchatia",
+    "name_en": null,
+    "lat": 26.769328,
+    "lon": 93.1637328,
+    "distance_km": 21.7,
+    "operator": "NFR"
+   },
+   {
+    "name": "Helem",
+    "name_en": null,
+    "lat": 26.8729733,
+    "lon": 93.4528023,
+    "distance_km": 25.1,
+    "operator": "NFR"
+   },
+   {
+    "name": "Niz Chatia",
+    "name_en": null,
+    "lat": 26.7480438,
+    "lon": 93.0476504,
+    "distance_km": 31.4,
+    "operator": null
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Borgos Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.600961,
+   "lon": 93.3961515,
+   "distance_km": 8.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "A.G. Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5917775,
+   "lon": 93.3989787,
+   "distance_km": 9.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sneha Bhawan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5900666,
+   "lon": 93.4044474,
+   "distance_km": 10.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jonaki Kareng",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5835956,
+   "lon": 93.4024534,
+   "distance_km": 10.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aranya Tourist Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5823466,
+   "lon": 93.4034962,
+   "distance_km": 10.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 74
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/337"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kaziranga%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

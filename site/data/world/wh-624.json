@@ -1,0 +1,154 @@
+{
+ "id": "wh-624",
+ "unesco_id": "624",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1124,
+ "popularity_score": null,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "District of Upper Franconia",
+ "subdivision_iso": "DE-BY",
+ "subdivision_zh": "巴伐利亚州",
+ "subdivision_en": "Bavaria",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "班贝格城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Town of Bamberg",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "624-town_of_bamberg",
+ "lat": 49.891666666667,
+ "lon": 10.891666666667,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从公元10世纪开始，这座城市就成为联系斯拉夫民族，尤其是波兰人和波美拉尼亚人的重要纽带。自12世纪以来，在其鼎盛时期，班贝格城的建筑风格对德国北部和匈牙利产生了极大影响。18世纪末，班贝格城成为德国南部启蒙运动的中心，吸引了黑格尔和霍夫曼等知名的哲学家和作家来居于此。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "From the 10th century onwards, this town became an important link with the Slav peoples, especially those of Poland and Pomerania. During its period of greatest prosperity, from the 12th century onwards, the architecture of Bamberg strongly influenced northern Germany and Hungary. In the late 18th century it was the centre of the Enlightenment in southern Germany, with eminent philosophers and writers such as Hegel and Hoffmann living there.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_624.jpg",
+   "title": "Town of Bamberg",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/624",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/624",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nuremberg Airport",
+    "iata": "NUE",
+    "city": "Nuremberg",
+    "country": "DE",
+    "lat": 49.498699,
+    "lon": 11.078056,
+    "type": "large_airport",
+    "distance_km": 45.7
+   },
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 120.9
+   },
+   {
+    "name": "Karlovy Vary Airport",
+    "iata": "KLV",
+    "city": "Karlovy Vary",
+    "country": "CZ",
+    "lat": 50.202999,
+    "lon": 12.915,
+    "type": "large_airport",
+    "distance_km": 148.6
+   }
+  ],
+  "nearest_airport_km": 45.7,
+  "distance_beijing_km": 7683.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/624"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

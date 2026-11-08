@@ -1,0 +1,162 @@
+{
+ "id": "wh-902",
+ "unesco_id": "902",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 540,
+ "popularity_score": 11961,
+ "country": "RO",
+ "country_zh": "罗马尼亚",
+ "country_en": "Romania",
+ "countries": [
+  {
+   "iso2": "RO",
+   "zh": "罗马尼亚",
+   "en": "Romania"
+  }
+ ],
+ "region": "Mureş County, Region of Transylvania",
+ "subdivision_iso": "RO-MS",
+ "subdivision_zh": "穆列什县",
+ "subdivision_en": "Mureș County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "锡吉什瓦拉历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Sighişoara",
+ "name_local": "Cetatea Sighișoara",
+ "local_lang": "ro",
+ "local_lang_name": "Romanian",
+ "slug": "902-historic_centre_of_sighişoara",
+ "lat": 46.21777778,
+ "lon": 24.79222222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "锡吉什瓦拉历史中心由德国工匠和商人所建，以特兰西瓦尼亚撒克逊闻名于世。锡吉什瓦拉历史中心保留了中世纪防卫小城的原貌，几个世纪以来，它在中部欧洲的政治、贸易方面，发挥着极其重要的作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded by German craftsmen and merchants known as the Saxons of Transylvania, Sighişoara is a fine example of a small, fortified medieval town which played an important strategic and commercial role on the fringes of central Europe for several centuries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Cetatea Sighișoara este centrul istoric vechi al municipiului Sighișoara, județul Mureș, România. Construit în secolul XII de coloniștii sași sub denumirea latină Castrum Sex și păstrat în mod aproape neschimbat până astăzi, ea este locuită și în prezent. În 1999 cetatea a fost înscrisă pe lista patrimoniului cultural mondial UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sighisoara%20-%20Strada%20Turnului.jpg?width=1280",
+   "title": "Sighisoara - Strada Turnului.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sighisoara%20-%20Strada%20Turnului.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_902.jpg",
+   "title": "Historic Centre of Sighişoara",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/902",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/902",
+ "transport": {
+  "airports": [
+   {
+    "name": "Târgu Mureş Transilvania International Airport",
+    "iata": "TGM",
+    "city": "Recea",
+    "country": "RO",
+    "lat": 46.467701,
+    "lon": 24.4125,
+    "type": "medium_airport",
+    "distance_km": 40.3
+   },
+   {
+    "name": "Sibiu International Airport",
+    "iata": "SBZ",
+    "city": "Sibiu",
+    "country": "RO",
+    "lat": 45.785841,
+    "lon": 24.086666,
+    "type": "large_airport",
+    "distance_km": 72.6
+   },
+   {
+    "name": "Brașov-Ghimbav International Airport",
+    "iata": "GHV",
+    "city": "Brașov (Ghimbav)",
+    "country": "RO",
+    "lat": 45.70558,
+    "lon": 25.522871,
+    "type": "large_airport",
+    "distance_km": 80.2
+   }
+  ],
+  "nearest_airport_km": 40.3,
+  "distance_beijing_km": 7056.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RO",
+  "country_zh": "罗马尼亚",
+  "country_en": "Romania",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RO",
+   "country_zh": "罗马尼亚",
+   "country_en": "Romania",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ro",
+  "local_lang_name": "Romanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 23
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/902"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Sighi%C8%99oara"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

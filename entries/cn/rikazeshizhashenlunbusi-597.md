@@ -13,7 +13,7 @@ province_en: "Tibet"
 city_en: "Rikaze Prefecture"
 lat: 29.2694
 lon: 88.879074
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 日喀则市扎什伦布寺景区 / Tashi Lhunpo Monastery

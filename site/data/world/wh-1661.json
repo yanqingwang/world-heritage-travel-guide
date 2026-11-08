@@ -1,0 +1,162 @@
+{
+ "id": "wh-1661",
+ "unesco_id": "1661",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 825,
+ "popularity_score": 1868,
+ "country": "LT",
+ "country_zh": "立陶宛",
+ "country_en": "Lithuania",
+ "countries": [
+  {
+   "iso2": "LT",
+   "zh": "立陶宛",
+   "en": "Lithuania"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "LT-15",
+ "subdivision_zh": "",
+ "subdivision_en": "Kaunas City Municipality",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "现代主义的考纳斯：1919-1939年的乐观主义建筑",
+ "name_zh_source": "unesco_official",
+ "name_en": "Modernist Kaunas: Architecture of Optimism, 1919-1939",
+ "name_local": "Kauno modernizmo architektūra",
+ "local_lang": "lt",
+ "local_lang_name": "Lithuanian",
+ "slug": "1661-modernist_kaunas:_architecture_of_optimi",
+ "lat": 54.896944,
+ "lon": 23.929167,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这处遗产地见证了考纳斯的迅速城市化，从区域城市转变为现代都市，并在一战和二战之间担当立陶宛的临时首都。其城市景观改造以城镇原始布局为基础，以社区为推动单元。现代考纳斯的品质体现在新城区和青山区的空间布局，以及在战间期建造的公共建筑、城市空间和住宅。后者是现代运动在城市建筑领域的表达，呈现多样化的风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This property testifies to the rapid urbanization that transformed the provincial town of Kaunas into a modern city that became Lithuania’s provisional capital between the First and Second World Wars. Its community-driven transformation of an urban landscape was adapted from an earlier town layout. The quality of modern Kaunas was manifested through the spatial organization of the Naujamiestis (New Town) and Žaliakalnis (Green Hill) areas, and in public buildings, urban spaces and residences constructed during the interwar period that demonstrate a variety of styles in which the Modern Movement found architectural expression in the city.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Kauno modernizmo architektūra, dar žinoma kaip Tarpukario Kauno architektūra – grupė architektūros objektų, statytų tarpukario Kaune 1919–1940 m. laikotarpiu. Juos vienija bendri architektūriniai stilistiniai bruožai, atspindėję tuo metu Vakarų šalyse populiarų modernizmo stilių. Tarp labiausiai šį stilių atspindinčių statinių yra Karininkų Ramovė, Centrinis paštas, Kristaus Prisikėlimo bažnyčia, Vytauto Didžiojo karo muziejus ir kiti. Iš viso šiuo laikotarpiu Kaune pastatyta 12 tūkst. naujų pastatų. Daliai šių objektų 2015 m. buvo suteiktas Europos paveldo ženklas. 2023 m. jie įtraukti į UNESCO pasaulio paveldo sąrašą. Šios architektūros analogai taip pat turintys pasaulio paveldo statusą yra Berlyno modernistinių namų kompleksas, Tel Avivo Baltasis miestas, Asmara: modernizmo miestas Afrikoje, Jožės Plečniko kūriniai Liublianoje – į žmogų orientuoti miestovaizdžiai. Kaune susiformavęs lietuviškasis modernizmo stilius, o neretai ir konkretūs projektai, tarpukario laikotarpiu buvo perkeliami ir į kitus Lietuvos miestus. Šios modernizmo architektūros pavyzdžių galima rasti Jonavoje, Klaipėdoje, Palangoje, Birštone, Pasvalyje, Ukmergėje, Šiauliuose ir kitur.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2019.%20Kauno%20policija.JPG?width=1280",
+   "title": "2019. Kauno policija.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:2019.%20Kauno%20policija.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1661.jpg",
+   "title": "Modernist Kaunas: Architecture of Optimism, 1919-1939",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1661",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1661",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kaunas International Airport",
+    "iata": "KUN",
+    "city": "Kaunas",
+    "country": "LT",
+    "lat": 54.963965,
+    "lon": 24.08582,
+    "type": "large_airport",
+    "distance_km": 12.5
+   },
+   {
+    "name": "Vilnius International Airport",
+    "iata": "VNO",
+    "city": "Vilnius",
+    "country": "LT",
+    "lat": 54.634102,
+    "lon": 25.285801,
+    "type": "large_airport",
+    "distance_km": 91.8
+   },
+   {
+    "name": "Khrabrovo Airport",
+    "iata": "KGD",
+    "city": "Kaliningrad",
+    "country": "RU",
+    "lat": 54.89161,
+    "lon": 20.598559,
+    "type": "large_airport",
+    "distance_km": 213.0
+   }
+  ],
+  "nearest_airport_km": 12.5,
+  "distance_beijing_km": 6612.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LT",
+  "country_zh": "立陶宛",
+  "country_en": "Lithuania",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LT",
+   "country_zh": "立陶宛",
+   "country_en": "Lithuania",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "lt",
+  "local_lang_name": "Lithuanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1661"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Modern%20architecture%20of%20Kaunas"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:51Z"
+}

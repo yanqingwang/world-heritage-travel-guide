@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(vi)"
 lat: 48.63556
 lon: -1.51056
-updated_at: "2026-11-08T12:18:53Z"
+updated_at: "2026-11-08T14:52:19Z"
 ---
 
 # 圣米歇尔山及其海湾 / Mont-Saint-Michel and its Bay

@@ -1,0 +1,162 @@
+{
+ "id": "wh-554",
+ "unesco_id": "554",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1107,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Basse Californie Sud, Municipality of Mulege",
+ "subdivision_iso": "MX-BCS",
+ "subdivision_zh": "",
+ "subdivision_en": "Baja California Sur",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "埃尔比斯开诺鲸鱼禁渔区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Whale Sanctuary of El Vizcaino",
+ "name_local": "Santuario de ballenas de El Vizcaíno",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "554-whale_sanctuary_of_el_vizcaino",
+ "lat": 27.79222222,
+ "lon": -114.22777778,
+ "coord_accuracy": "wikipedia",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "埃尔比斯开诺保护区位于下加利福尼亚半岛中部地区，那里有许多重要的生态系统。地处奥霍德列夫雷和圣伊格纳西奥的沿海环礁湖，是灰鲸、港湾海豹、加利福尼亚海狮、北方海象以及蓝鲸的重要繁殖地及越冬地。环礁湖还为四种濒于灭亡的海龟提供栖身之地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in the central part of the peninsula of Baja California, the sanctuary contains some exceptionally interesting ecosystems. The coastal lagoons of Ojo de Liebre and San Ignacio are important reproduction and wintering sites for the grey whale, harbour seal, California sea lion, northern elephant-seal and blue whale. The lagoons are also home to four species of the endangered marine turtle.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado en la parte central de la península de Baja California, este sitio alberga ecosistemas de valor excepcional. Las lagunas costeras de Ojo de Liebre y San Ignacio son lugares excelentes para la reproducción e invernada de ballenas grises, becerros marinos, leones marinos californianos, elefantes marinos septentrionales y ballenas azules. Esas lagunas albergan también cuatro especies de tortugas marinas en peligro de extinción.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ballena%20gris%20adulta%20con%20su%20ballenato.jpg?width=1280",
+   "title": "Ballena gris adulta con su ballenato.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ballena%20gris%20adulta%20con%20su%20ballenato.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_554.jpg",
+   "title": "Whale Sanctuary of El Vizcaino",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/554",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/554",
+ "transport": {
+  "airports": [
+   {
+    "name": "Guerrero Negro Airport",
+    "iata": "GUB",
+    "city": "San Quintín",
+    "country": "MX",
+    "lat": 28.0261,
+    "lon": -114.024002,
+    "type": "small_airport",
+    "distance_km": 32.8
+   },
+   {
+    "name": "Palo Verde Airport",
+    "iata": "SRL",
+    "city": "Mulegé",
+    "country": "MX",
+    "lat": 27.0927,
+    "lon": -112.0985,
+    "type": "small_airport",
+    "distance_km": 224.1
+   },
+   {
+    "name": "General José María Yáñez International Airport",
+    "iata": "GYM",
+    "city": "Guaymas",
+    "country": "MX",
+    "lat": 27.9689998626709,
+    "lon": -110.92500305175781,
+    "type": "medium_airport",
+    "distance_km": 325.2
+   }
+  ],
+  "nearest_airport_km": 32.8,
+  "distance_beijing_km": 10813.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/554"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

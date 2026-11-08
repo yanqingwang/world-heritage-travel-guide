@@ -1,0 +1,162 @@
+{
+ "id": "wh-585",
+ "unesco_id": "585",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1112,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Michoacan. Mairie de Morelia",
+ "subdivision_iso": "MX-MIC",
+ "subdivision_zh": "米却肯州",
+ "subdivision_en": "Michoacán",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "莫雷利亚城历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Morelia",
+ "name_local": "Centro histórico de Morelia",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "585-historic_centre_of_morelia",
+ "lat": 19.7,
+ "lon": -101.1833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "莫雷利亚城建造于公元16世纪，是西班牙文艺复兴时期风格与中美洲特色相结合产生的城市规划设计范例。城市设计很好地适应了当地的山坡地形，最初设计的街道布局一直保留到了现在。城中的200多座建筑都是用粉红色石头建造的，颇有当地的地方特色，这些建筑向世人展示着莫雷利亚城将中世纪文艺复兴特色、巴洛克风格和新古典主义理念完美融合后产生的建筑历史。此外，莫雷利亚城还是数位墨西哥独立之父的诞生地，所以在墨西哥历史上具有重要地位。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built in the 16th century, Morelia is an outstanding example of urban planning which combines the ideas of the Spanish Renaissance with the Mesoamerican experience. Well-adapted to the slopes of the hill site, its streets still follow the original layout. More than 200 historic buildings, all in the region's characteristic pink stone, reflect the town's architectural history, revealing a masterly and eclectic blend of the medieval spirit with Renaissance, Baroque and neoclassical elements. Morelia was the birthplace of several important personalities of independent Mexico and has played a major role in the country's history.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Construida en lo alto de una colina en el siglo XVI, Morelia ofrece un ejemplo excepcional de planificación urbanística en la que se fusionan los conceptos del Renacimiento español con la experiencia mesoamericana. Sus calles, perfectamente adaptadas a las laderas de la colina, conservan su trazado primigenio. La historia arquitectónica de la ciudad puede leerse en sus más de doscientos edificios históricos. Construidos con la piedra de color rosa característica de la región, estos monumentos ponen de manifiesto la magistral y ecléctica fusión del espíritu medieval con elementos renacentistas, barrocos y neoclásicos. Morelia fue cuna de varios personajes importantes de la independencia de México y desempeñó un importante papel en la historia del país.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CatedralMorelia.jpg?width=1280",
+   "title": "CatedralMorelia.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:CatedralMorelia.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_585.jpg",
+   "title": "Historic Centre of Morelia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/585",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/585",
+ "transport": {
+  "airports": [
+   {
+    "name": "General Francisco J. Mujica International Airport",
+    "iata": "MLM",
+    "city": "Morelia",
+    "country": "MX",
+    "lat": 19.849899,
+    "lon": -101.025002,
+    "type": "large_airport",
+    "distance_km": 23.5
+   },
+   {
+    "name": "Uruapan - Licenciado y General Ignacio Lopez Rayon International Airport",
+    "iata": "UPN",
+    "city": "Uruapan",
+    "country": "MX",
+    "lat": 19.3967,
+    "lon": -102.039001,
+    "type": "medium_airport",
+    "distance_km": 95.8
+   },
+   {
+    "name": "Querétaro Intercontinental Airport",
+    "iata": "QRO",
+    "city": "Querétaro",
+    "country": "MX",
+    "lat": 20.618779,
+    "lon": -100.186449,
+    "type": "large_airport",
+    "distance_km": 145.8
+   }
+  ],
+  "nearest_airport_km": 23.5,
+  "distance_beijing_km": 12295.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/585"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

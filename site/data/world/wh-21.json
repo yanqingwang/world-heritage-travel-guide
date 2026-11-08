@@ -1,0 +1,162 @@
+{
+ "id": "wh-21",
+ "unesco_id": "21",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 411,
+ "popularity_score": 19692,
+ "country": "SY",
+ "country_zh": "叙利亚",
+ "country_en": "Syria",
+ "countries": [
+  {
+   "iso2": "SY",
+   "zh": "叙利亚",
+   "en": "Syria"
+  }
+ ],
+ "region": "Aleppo",
+ "subdivision_iso": "SY-HL",
+ "subdivision_zh": "阿勒颇省",
+ "subdivision_en": "Aleppo Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿勒颇古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient City of Aleppo",
+ "name_local": "مدينة حلب القديمة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "21-ancient_city_of_aleppo",
+ "lat": 36.18333333,
+ "lon": 37.15,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1986",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "阿勒颇从公元前2000年起就处于几条商道的交汇处，相继由希泰人、亚述人、阿拉伯人、蒙古人、马穆鲁克人和土耳其人统治过。古城内13世纪的城堡、12世纪的大清真寺和17世纪的穆斯林学校、宫殿、沙漠旅店及浴室，构成了城市独特的建筑结构。阿勒颇现今面临人口过盛的困境。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located at the crossroads of several trade routes from the 2nd millennium B.C., Aleppo was ruled successively by the Hittites, Assyrians, Arabs, Mongols, Mamelukes and Ottomans. The 13th-century citadel, 12th-century Great Mosque and various 17th-century madrasas, palaces, caravanserais and hammams all form part of the city's cohesive, unique urban fabric, now threatened by overpopulation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "خضعت حلب على التوالي لسيطرة الحثيين والأشوريين والعرب والمغول والمماليك والعثمانيين لوقوعها على مفترق طرق تجارية متعددة منذ الألفية الثانية قبل الميلاد. فقلعتها التي ترقى الى القرن الثالث عشر ومسجدها الكبير الذي بني في القرن الثاني عشر ومدارسها وقصورها وخانات القوافل وحماماتها المبنية في القرن السابع عشر تضفي على نسيجها المدني طابعاً متناسقاً وفريداً يتهدده اليوم الاكتظاظ السكاني.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aleppo%2003.jpg?width=1280",
+   "title": "Aleppo 03.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aleppo%2003.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_21.jpg",
+   "title": "Ancient City of Aleppo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/21",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/21",
+ "transport": {
+  "airports": [
+   {
+    "name": "Aleppo International Airport",
+    "iata": "ALP",
+    "city": "Aleppo",
+    "country": "SY",
+    "lat": 36.181262,
+    "lon": 37.226869,
+    "type": "large_airport",
+    "distance_km": 6.9
+   },
+   {
+    "name": "Hatay Airport",
+    "iata": "HTY",
+    "city": "Antakya",
+    "country": "TR",
+    "lat": 36.36079,
+    "lon": 36.285589,
+    "type": "medium_airport",
+    "distance_km": 80.0
+   },
+   {
+    "name": "Gaziantep Oğuzeli International Airport",
+    "iata": "GZT",
+    "city": "Gaziantep",
+    "country": "TR",
+    "lat": 36.947201,
+    "lon": 37.478699,
+    "type": "large_airport",
+    "distance_km": 89.9
+   }
+  ],
+  "nearest_airport_km": 6.9,
+  "distance_beijing_km": 6714.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SY",
+  "country_zh": "叙利亚",
+  "country_en": "Syria",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][143]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SY",
+   "country_zh": "叙利亚",
+   "country_en": "Syria",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][143]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/21"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient%20Aleppo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

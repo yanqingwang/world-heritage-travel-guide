@@ -1,0 +1,190 @@
+{
+ "id": "wh-1693",
+ "unesco_id": "1693",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1011,
+ "popularity_score": null,
+ "country": "KZ",
+ "country_zh": "哈萨克斯坦",
+ "country_en": "Kazakhstan",
+ "countries": [
+  {
+   "iso2": "KZ",
+   "zh": "哈萨克斯坦",
+   "en": "Kazakhstan"
+  },
+  {
+   "iso2": "TM",
+   "zh": "土库曼斯坦",
+   "en": "Turkmenistan"
+  },
+  {
+   "iso2": "UZ",
+   "zh": "乌兹别克斯坦",
+   "en": "Uzbekistan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "图兰的冷冬沙漠",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cold Winter Deserts of Turan",
+ "name_local": "Туранские пустыни умеренного пояса",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "1693-cold_winter_deserts_of_turan",
+ "lat": 44.025833333,
+ "lon": 79.034166666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2023",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "该跨境遗产由10个部分组成，分布在里海和图兰高山之间的中亚温带干旱地区。这里气候条件极端恶劣，冬季严寒、夏季酷热。区域内动植物种类异常丰富，它们已适应了恶劣的气候。该遗产还展现了多样化的沙漠生态系统，东西跨度1500多公里，各组成部分在生物多样性、沙漠类型和持续变化的生态进程方面不尽相同。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This transnational property comprises fourteen component parts found across arid areas of Central Asia’s temperate zone between the Caspian Sea and the Turanian high mountains. The area is subject to extreme climatic conditions with very cold winters and hot summers, and boasts an exceptionally diverse flora and fauna that has adapted to the harsh conditions. The property also represents a considerable diversity of desert ecosystems, spanning a distance of more than 1,500 kilometres from East to West. Each of the component parts complements the others in terms of biodiversity, desert types, and ongoing ecological processes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Этот транснациональный объект включает в себя четырнадцать составных частей, расположенных в засушливых районах умеренного пояса Центральной Азии между Каспийским морем и Туранскими горами. Здесь царят экстремальные климатические условия с очень холодной зимой и жарким летом, а также исключительно разнообразная флора и фауна, приспособившаяся к суровым условиям. Кроме того, территория представляет собой значительное разнообразие пустынных экосистем, протянувшихся более чем на 1500 км. с востока на запад. Каждая из составных частей дополняет другие с точки зрения биоразнообразия, типов пустынь и протекающих экологических процессов.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karakum%20Desert%2C%20Turkmenistan.jpg?width=1280",
+   "title": "Karakum Desert, Turkmenistan.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Karakum%20Desert%2C%20Turkmenistan.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1693.jpg",
+   "title": "Cold Winter Deserts of Turan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1693",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1693",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taldykorgan Airport",
+    "iata": "TDK",
+    "city": "Taldykorgan",
+    "country": "KZ",
+    "lat": 45.12255,
+    "lon": 78.442758,
+    "type": "medium_airport",
+    "distance_km": 130.6
+   },
+   {
+    "name": "Karakol International Airport",
+    "iata": "IKG",
+    "city": "Karakol",
+    "country": "KG",
+    "lat": 42.508099,
+    "lon": 78.407799,
+    "type": "medium_airport",
+    "distance_km": 176.2
+   },
+   {
+    "name": "Almaty International Airport",
+    "iata": "ALA",
+    "city": "Almaty",
+    "country": "KZ",
+    "lat": 43.354267,
+    "lon": 77.042828,
+    "type": "large_airport",
+    "distance_km": 176.7
+   }
+  ],
+  "nearest_airport_km": 130.6,
+  "distance_beijing_km": 3141.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KZ",
+  "country_zh": "哈萨克斯坦",
+  "country_en": "Kazakhstan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KZ",
+   "country_zh": "哈萨克斯坦",
+   "country_en": "Kazakhstan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period."
+  },
+  {
+   "iso2": "TM",
+   "country_zh": "土库曼斯坦",
+   "country_en": "Turkmenistan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  },
+  {
+   "iso2": "UZ",
+   "country_zh": "乌兹别克斯坦",
+   "country_en": "Uzbekistan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 10
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1693"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

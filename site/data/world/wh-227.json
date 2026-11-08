@@ -1,0 +1,162 @@
+{
+ "id": "wh-227",
+ "unesco_id": "227",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 714,
+ "popularity_score": 5276,
+ "country": "CI",
+ "country_zh": "科特迪瓦",
+ "country_en": "Ivory Coast",
+ "countries": [
+  {
+   "iso2": "CI",
+   "zh": "科特迪瓦",
+   "en": "Ivory Coast"
+  }
+ ],
+ "region": "Northeast region, Bouna and Ferkessedougou prefectures, Bouna, Kong, Nassian and Tehin sub-prefectures",
+ "subdivision_iso": "CI-08",
+ "subdivision_zh": "赞赞区",
+ "subdivision_en": "Zanzan Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "科莫埃国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Comoé National Park",
+ "name_local": "Parc national de la Comoé",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "227-comoé_national_park",
+ "lat": 8.8225,
+ "lon": -3.590555555,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个公园是西非最大的保护区之一，其特点是植物的品种极为繁多。由于科莫埃河的灌溉，这里的植物一般只存在于南方地区，如热带大草原和浓密雨林中的灌木。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "One of the largest protected areas in West Africa, this park is characterized by its great plant diversity. Due to the presence of the Comoé river, it contains plants which are normally only found much farther south, such as shrub savannahs and patches of thick rainforest.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ce parc, qui est l'une des zones protégées les plus vastes de l'Afrique de l'Ouest, se caractérise par la très grande diversité de sa végétation. La Comoé qui coule dans le parc explique que l'on y trouve des associations de plantes que l'on ne rencontre normalement que beaucoup plus au sud, comme les savanes arbustives et des îlots de forêt dense humide.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NationalparkComoe4.jpg?width=1280",
+   "title": "NationalparkComoe4.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:NationalparkComoe4.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_227.jpg",
+   "title": "Comoé National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/227",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/227",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bouaké Airport",
+    "iata": "BYK",
+    "city": "Bouaké",
+    "country": "CI",
+    "lat": 7.7388,
+    "lon": -5.07367,
+    "type": "medium_airport",
+    "distance_km": 202.9
+   },
+   {
+    "name": "Sunyani Airport",
+    "iata": "NYI",
+    "city": "Sunyani",
+    "country": "GH",
+    "lat": 7.36183,
+    "lon": -2.32876,
+    "type": "medium_airport",
+    "distance_km": 213.7
+   },
+   {
+    "name": "Korhogo Airport",
+    "iata": "HGO",
+    "city": "Korhogo",
+    "country": "CI",
+    "lat": 9.38718,
+    "lon": -5.55666,
+    "type": "medium_airport",
+    "distance_km": 224.8
+   }
+  ],
+  "nearest_airport_km": 202.9,
+  "distance_beijing_km": 12023.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CI",
+  "country_zh": "科特迪瓦",
+  "country_en": "Ivory Coast",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CI",
+   "country_zh": "科特迪瓦",
+   "country_en": "Ivory Coast",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 54
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/227"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Como%C3%A9%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

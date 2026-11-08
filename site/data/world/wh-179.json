@@ -1,0 +1,162 @@
+{
+ "id": "wh-179",
+ "unesco_id": "179",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 190,
+ "popularity_score": 66342,
+ "country": "DZ",
+ "country_zh": "阿尔及利亚",
+ "country_en": "Algeria",
+ "countries": [
+  {
+   "iso2": "DZ",
+   "zh": "阿尔及利亚",
+   "en": "Algeria"
+  }
+ ],
+ "region": "Wilayas (provinces) of Illizi and Tamanghasset",
+ "subdivision_iso": "DZ-33",
+ "subdivision_zh": "伊利济省",
+ "subdivision_en": "Illizi Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿杰尔的塔西利",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tassili n'Ajjer",
+ "name_local": "طاسيلي ناجّر",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "179-tassili_n'ajjer",
+ "lat": 25.666666666,
+ "lon": 9.0,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(iii)(vii)(viii)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址所在地环境独特，如同月球表面，极具地质学研究意义，是世界上最重要的史前岩洞艺术群之一。15,000多幅绘画和雕刻作品记录了公元前6000年至公元初几个世纪撒哈拉沙漠边缘地区的气候变化、动物迁徙和人类生活进化。当地的地质构成形态有着极高的观赏价值，被侵蚀的砂岩形成了“石林”。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in a strange lunar landscape of great geological interest, this site has one of the most important groupings of prehistoric cave art in the world. More than 15,000 drawings and engravings record the climatic changes, the animal migrations and the evolution of human life on the edge of the Sahara from 6000 BC to the first centuries of the present era. The geological formations are of outstanding scenic interest, with eroded sandstones forming ‘forests of rock’.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يأوي هذا المنظر القمري الغريب الذي يتمتّع بأهمية جيولوجية كبيرة إحدى أكبر المجّمعات الفنية الصخرية التي تعود إلى فترة ما قبل التاريخ في العالم. ويمكن المرء، عبر 15000 رسم ومنحوتة تعود إلى عام 6000 قبل الميلاد وتستمرّ حتى القرون الأولى من عصرنا، متابعة التغييرات في الطقس وهجرة الثروة الحيوانية وتطوّر الحياة البشرية في غياهب الصحارى. وتشكّل بانوراما التكوينات الجيولوجية مصدر اهتمام استثنائي بفضل \"الغابات الصخرية \" التي تتشكّل من الصلصال الرملي المتآكل.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tassili%20Desert%20Algeria.jpg?width=1280",
+   "title": "Tassili Desert Algeria.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tassili%20Desert%20Algeria.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_179.jpg",
+   "title": "Tassili n'Ajjer",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/179",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/179",
+ "transport": {
+  "airports": [
+   {
+    "name": "Illizi Takhamalt Airport",
+    "iata": "VVZ",
+    "city": "Illizi",
+    "country": "DZ",
+    "lat": 26.723499,
+    "lon": 8.62265,
+    "type": "medium_airport",
+    "distance_km": 123.4
+   },
+   {
+    "name": "Tiska Djanet Airport",
+    "iata": "DJG",
+    "city": "Djanet",
+    "country": "DZ",
+    "lat": 24.285448,
+    "lon": 9.463652,
+    "type": "large_airport",
+    "distance_km": 160.5
+   },
+   {
+    "name": "Zarzaitine - In Aménas Airport",
+    "iata": "IAM",
+    "city": "In Aménas",
+    "country": "DZ",
+    "lat": 28.0515,
+    "lon": 9.64291,
+    "type": "medium_airport",
+    "distance_km": 272.7
+   }
+  ],
+  "nearest_airport_km": 123.4,
+  "distance_beijing_km": 9505.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DZ",
+  "country_zh": "阿尔及利亚",
+  "country_en": "Algeria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DZ",
+   "country_zh": "阿尔及利亚",
+   "country_en": "Algeria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 70
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/179"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tassili%20n%27Ajjer"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

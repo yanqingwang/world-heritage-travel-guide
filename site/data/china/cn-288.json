@@ -1,0 +1,224 @@
+{
+ "id": "cn-288",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "四川省",
+ "province_en": "Sichuan",
+ "province_iso": "CN-SC",
+ "city_zh": "雅安市",
+ "city_en": "Ya'an",
+ "name_zh": "雅安市碧峰峡旅游景区",
+ "name_en": "Ya'an",
+ "name_en_source": "wikipedia",
+ "slug": "yaanshibifengxia-288",
+ "lat": 30.078428,
+ "lon": 102.997037,
+ "address_zh": "雅安市雨城区碧峰峡镇",
+ "address_en": "Bifengxia Town, Yucheng District, Ya'an City",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "碧峰峡景区主要由碧峰峡生态动物园、碧峰峡峡谷组成。生态动物园中拥有世界各地的珍贵保护动物。碧峰峡峡谷景区由两条峡谷构成，左峡谷长7公里，右峡谷长6公里，呈V字型，是一个封闭式可循环游览景区，峡宽30-70米，海拔700-1971米，峡壁高度100-200米。在峡区内环绕旅游，可领略险、奇、秀、幽之原始风貌，植被、瀑布、峡景、云海是碧峰峡景区的鲜明特色。",
+ "intro_en": "Ya'an (Chinese: 雅安; pinyin: Yǎ'ān; Wade–Giles: Ya-an) is a prefecture-level city in the western part of Sichuan province, China, located just below the Tibetan Plateau. The city is home to Sichuan Agricultural University, the only 211 Project university and the largest regional comprehensive university in Ya'an. As of the 2020 Chinese census, Ya'an has a population of 1,434,603.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ya%27an%2C_August_2020.jpg/1280px-Ya%27an%2C_August_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ya'an, August 2020.jpg",
+   "author": "Song Yanbo",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ya%27an%2C_August_2020.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/201908_Chengdu-Ya%27an_Railway_Branch_to_Chengdu_West_Ring_Railway_under_Construction.jpg/1280px-201908_Chengdu-Ya%27an_Railway_Branch_to_Chengdu_West_Ring_Railway_under_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "201908 Chengdu-Ya'an Railway Branch to Chengdu West Ring Railway under Construction.jpg",
+   "author": "MNXANL",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:201908_Chengdu-Ya%27an_Railway_Branch_to_Chengdu_West_Ring_Railway_under_Construction.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/David_Crockett_Graham%2C_1923.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "David Crockett Graham, 1923.png",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "credit": "https://siarchives.si.edu/blog/david-crockett-graham-field-book-collection-portal-chinese-culture-and-biodiversity",
+   "source": "https://commons.wikimedia.org/wiki/File:David_Crockett_Graham%2C_1923.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Platforms_of_Ya%E2%80%99an_Railway_Station.jpg/1280px-Platforms_of_Ya%E2%80%99an_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Platforms of Ya’an Railway Station.jpg",
+   "author": "来斤小仓鼠吧",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Platforms_of_Ya%E2%80%99an_Railway_Station.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ya%27an_Museum_2014-09.JPG/1280px-Ya%27an_Museum_2014-09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Ya'an Museum 2014-09.JPG",
+   "author": "猫猫的日记本",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ya%27an_Museum_2014-09.JPG"
+  }
+ ],
+ "web": "http://www.bifengxia.com/",
+ "booking": "http://www.bifengxia.com/ticketbook2?goodRid=102",
+ "transport": {
+  "airports": [
+   {
+    "name": "Leshan Airport",
+    "iata": "LSG",
+    "city": "Leshan (Wutongqiao)",
+    "country": "CN",
+    "lat": 29.438627,
+    "lon": 103.749218,
+    "type": "medium_airport",
+    "distance_km": 101.7
+   },
+   {
+    "name": "Chengdu Shuangliu International Airport",
+    "iata": "CTU",
+    "city": "Chengdu (Shuangliu)",
+    "country": "CN",
+    "lat": 30.558257,
+    "lon": 103.945966,
+    "type": "large_airport",
+    "distance_km": 105.6
+   },
+   {
+    "name": "Kangding Airport",
+    "iata": "KGT",
+    "city": "Garzê (Kangding)",
+    "country": "CN",
+    "lat": 30.142464,
+    "lon": 101.73872,
+    "type": "medium_airport",
+    "distance_km": 121.2
+   }
+  ],
+  "nearest_airport_km": 101.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "雅安",
+    "name_en": "Ya'an",
+    "lat": 30.0313155,
+    "lon": 103.0546975,
+    "distance_km": 7.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "天全",
+    "name_en": null,
+    "lat": 30.0150254,
+    "lon": 102.8394481,
+    "distance_km": 16.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "名山",
+    "name_en": "Mingshan",
+    "lat": 30.0598933,
+    "lon": 103.1879936,
+    "distance_km": 18.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "星月宾馆",
+   "name_en": "Moon and Stars Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 29.9766394,
+   "lon": 103.0041349,
+   "distance_km": 11.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "希尔顿逸林酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.0180599,
+   "lon": 103.0475521,
+   "distance_km": 8.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "凯悦商务酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.9994717,
+   "lon": 102.9930791,
+   "distance_km": 8.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "文凤山庄",
+   "name_en": "Wenfeng Villa",
+   "stars": null,
+   "brand": null,
+   "lat": 30.0702464,
+   "lon": 102.9881407,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "蒙顶山假日度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Resort",
+   "lat": 30.0751172,
+   "lon": 103.0441661,
+   "distance_km": 4.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 34,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/雅安市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

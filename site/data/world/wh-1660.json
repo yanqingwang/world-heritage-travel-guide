@@ -1,0 +1,162 @@
+{
+ "id": "wh-1660",
+ "unesco_id": "1660",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1005,
+ "popularity_score": null,
+ "country": "DK",
+ "country_zh": "丹麦",
+ "country_en": "Denmark",
+ "countries": [
+  {
+   "iso2": "DK",
+   "zh": "丹麦",
+   "en": "Denmark"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "维京时代的环形堡垒群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Viking-Age Ring Fortresses",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1660-viking-age_ring_fortresses",
+ "lat": 55.391944444,
+ "lon": 10.389166666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "维京时代的环形堡垒群由5处考古遗址共同构成，这些堡垒拥有同样的几何机构。它们建于公元970-980年间，分别位于阿格斯堡（Aggersborg）、菲尔卡特（Fyrkat）、诺内巴肯（Nonnebakken）、特雷勒堡（Trelleborg）、博尔格林（Borgring）的陆路和海路战略要塞，并将周围自然地貌融入防御工事。堡垒群体现了耶灵王朝的中央集权，见证了丹麦王国在10世纪末期经历的社会政治变革。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These five archaeological sites comprise a system of monumental ring-shaped Viking-Age fortresses sharing a uniform geometric design. Constructed between about 970 and 980 CE, the fortresses at Aggersborg, Fyrkat, Nonnebakken, Trelleborg and Borgring were positioned strategically near important land and sea routes, and each made use of the natural topography of their surrounding landscape for defensive purposes. They are an emblematic demonstration of the centralized power of the Jelling Dynasty, and a testimony to the socio-political transformations that the Danish realm underwent in the late 10th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aggersborg%20Viking%20Castle.jpg?width=1280",
+   "title": "Aggersborg Viking Castle.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aggersborg%20Viking%20Castle.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1660.jpg",
+   "title": "Viking-Age Ring Fortresses",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1660",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1660",
+ "transport": {
+  "airports": [
+   {
+    "name": "Odense Hans Christian Andersen Airport",
+    "iata": "ODE",
+    "city": "Odense",
+    "country": "DK",
+    "lat": 55.475307,
+    "lon": 10.327206,
+    "type": "large_airport",
+    "distance_km": 10.1
+   },
+   {
+    "name": "Sønderborg Airport",
+    "iata": "SGD",
+    "city": "Sønderborg",
+    "country": "DK",
+    "lat": 54.96440124511719,
+    "lon": 9.791729927062988,
+    "type": "medium_airport",
+    "distance_km": 60.8
+   },
+   {
+    "name": "Billund Airport",
+    "iata": "BLL",
+    "city": "Billund",
+    "country": "DK",
+    "lat": 55.740335,
+    "lon": 9.157019,
+    "type": "large_airport",
+    "distance_km": 86.6
+   }
+  ],
+  "nearest_airport_km": 10.1,
+  "distance_beijing_km": 7322.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DK",
+  "country_zh": "丹麦",
+  "country_en": "Denmark",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DK",
+   "country_zh": "丹麦",
+   "country_en": "Denmark",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1660"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:51Z"
+}

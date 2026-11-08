@@ -1,0 +1,162 @@
+{
+ "id": "wh-747",
+ "unesco_id": "747",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1146,
+ "popularity_score": null,
+ "country": "UY",
+ "country_zh": "乌拉圭",
+ "country_en": "Uruguay",
+ "countries": [
+  {
+   "iso2": "UY",
+   "zh": "乌拉圭",
+   "en": "Uruguay"
+  }
+ ],
+ "region": "Department de Colonia",
+ "subdivision_iso": "UY-CO",
+ "subdivision_zh": "科洛尼亚省",
+ "subdivision_en": "Colonia Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨拉门多移民镇的历史区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Quarter of the City of Colonia del Sacramento",
+ "name_local": "Quartier historique de la ville de Colonia del Sacramento",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "747-historic_quarter_of_the_city_of_colonia_",
+ "lat": -34.471543,
+ "lon": -57.851234,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "1680年，葡萄牙人在拉普拉塔联邦兴建了萨拉门多小镇，起到了战略上防御西班牙帝国侵略的作用。经过一个世纪的争夺，小镇终于落在西班牙人手中。萨拉门多保留了小镇的原貌，其建筑亦庄亦谐，整个小镇是葡萄牙、西班牙和已经成为历史的殖民地时代建筑风格的完美融合。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded by the Portuguese in 1680 on the Río de la Plata, the city was of strategic importance in resisting the Spanish. After being disputed for a century, it was finally lost by its founders. The well-preserved urban landscape illustrates the successful fusion of the Portuguese, Spanish and post-colonial styles.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fondée par les Portugais en 1680 sur le Río de la Plata, la ville avait une fonction stratégique face à l'Empire espagnol. Disputée pendant un siècle, elle fut finalement perdue par ses fondateurs. Son paysage urbain préservé, mélange de solennité et d'intimité, est un exemple de la fusion réussie des styles portugais, espagnol et postcolonial.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ColoniaSacramento.JPG?width=1280",
+   "title": "ColoniaSacramento.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:ColoniaSacramento.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_747.jpg",
+   "title": "Historic Quarter of the City of Colonia del Sacramento",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/747",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/747",
+ "transport": {
+  "airports": [
+   {
+    "name": "Aeroparque Jorge Newbery",
+    "iata": "AEP",
+    "city": "Buenos Aires",
+    "country": "AR",
+    "lat": -34.559419,
+    "lon": -58.415536,
+    "type": "large_airport",
+    "distance_km": 52.6
+   },
+   {
+    "name": "Ezeiza International Airport - Ministro Pistarini",
+    "iata": "EZE",
+    "city": "Buenos Aires (Ezeiza)",
+    "country": "AR",
+    "lat": -34.8222,
+    "lon": -58.5358,
+    "type": "large_airport",
+    "distance_km": 73.8
+   },
+   {
+    "name": "Carrasco General Cesáreo L. Berisso International Airport",
+    "iata": "MVD",
+    "city": "Ciudad de la Costa",
+    "country": "UY",
+    "lat": -34.835647,
+    "lon": -56.026497,
+    "type": "large_airport",
+    "distance_km": 171.7
+   }
+  ],
+  "nearest_airport_km": 52.6,
+  "distance_beijing_km": 19258.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UY",
+  "country_zh": "乌拉圭",
+  "country_en": "Uruguay",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa issued by the United States, Canada or a European Union member state for stays up to 90 days when arriving via Montevideo airport or Montevideo and Colonia ports. U.S. Green Card Holders need to apply for a visa. Email your closest consulate to conf"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UY",
+   "country_zh": "乌拉圭",
+   "country_en": "Uruguay",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa issued by the United States, Canada or a European Union member state for stays up to 90 days when arriving via Montevideo airport or Montevideo and Colonia ports. U.S. Green Card Holders need to apply for a visa. Email your closest consulate to conf"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/747"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

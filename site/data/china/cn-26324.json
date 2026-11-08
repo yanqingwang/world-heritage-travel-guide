@@ -1,0 +1,203 @@
+{
+ "id": "cn-26324",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "重庆市",
+ "province_en": "Chongqing",
+ "province_iso": "CN-CQ",
+ "city_zh": "奉节县",
+ "city_en": "Fengjie County",
+ "name_zh": "白帝城•瞿塘峡景区",
+ "name_en": "Qutang Gorge",
+ "name_en_source": "wikipedia",
+ "slug": "baidicheng-qutangxia-26324",
+ "lat": 31.047874,
+ "lon": 109.583808,
+ "address_zh": "重庆市奉节县白帝镇",
+ "address_en": "Baidi Town, Fengjie County, Chongqing City",
+ "address_en_source": "machine_translation",
+ "category": "natural",
+ "category_zh": "自然风光",
+ "category_en": "Natural scenery",
+ "intro_zh": "白帝城·瞿塘峡景区面积为4.7平方公里，主要由白帝城、瞿塘峡两大景区构成，名胜古迹众多，融自然与人文、诗情与战火为一体，是饱览长江三峡壮丽之美的起点。1978年，白帝城景区正式对外开放，是全国首批对外开放的景点之一。",
+ "intro_en": "The Qutang Gorge (simplified Chinese: 瞿塘峡; traditional Chinese: 瞿塘峽; pinyin: Qútáng Xiá) is the shortest of China's Three Gorges. Immediately downstream of the ancient Baidicheng (白帝城) fortress, the Yangtze River passes between the Chijia Mountain (赤甲山) on the north and the Baiyan Mountain (白鹽山) on the south. The point where the river passes between these mountains is called the Kuimen (夔門) and it is the entrance to the Qutang Gorge – the first of the three Yangtze gorges. The Qutang Gorge is only 8 kilometres (5.0 mi) long, but it is also the narrowest of the Three Gorges. The widest point measures only 150 metres (500 ft) wide. The mountains on either side reach as high as 1,200 metres (4,000 ft). This combination of narrow among high mountains with several switchbacks in only 8 kilometres creates spectacular vistas, and the Qutang Gorge is often considered the most beautiful of all Three Gorges.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/1963-01_1963%E5%B9%B4_%E7%9E%BF%E5%A1%98%E5%B3%A1.jpg/1280px-1963-01_1963%E5%B9%B4_%E7%9E%BF%E5%A1%98%E5%B3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1963-01 1963年 瞿塘峡.jpg",
+   "author": "《人民画报》",
+   "license": "Public domain",
+   "credit": "《人民画报》1963年1期",
+   "source": "https://commons.wikimedia.org/wiki/File:1963-01_1963%E5%B9%B4_%E7%9E%BF%E5%A1%98%E5%B3%A1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Qutang_Gorge_%2843588474294%29.jpg/1280px-Qutang_Gorge_%2843588474294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Qutang Gorge (43588474294).jpg",
+   "author": "Hugh Llewelyn from Keynsham, UK",
+   "license": "CC BY-SA 2.0",
+   "credit": "Qutang Gorge",
+   "source": "https://commons.wikimedia.org/wiki/File:Qutang_Gorge_%2843588474294%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Qutang_Gorge_2016.jpg/1280px-Qutang_Gorge_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Qutang Gorge 2016.jpg",
+   "author": "Fredlyfish4",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Qutang_Gorge_2016.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Qutang_Gorge_on_Changjiang.jpg/1280px-Qutang_Gorge_on_Changjiang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Qutang Gorge on Changjiang.jpg",
+   "author": "Tan Wei Liang Byorn",
+   "license": "CC BY 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:Qutang_Gorge_on_Changjiang.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Qutang_Gorge_%E7%9E%BF%E5%A1%98%E5%B3%BD_-_panoramio.jpg/1280px-Qutang_Gorge_%E7%9E%BF%E5%A1%98%E5%B3%BD_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Qutang Gorge 瞿塘峽 - panoramio.jpg",
+   "author": "lienyuan lee",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161031111800/http://www.panoramio.com/photo/114087386",
+   "source": "https://commons.wikimedia.org/wiki/File:Qutang_Gorge_%E7%9E%BF%E5%A1%98%E5%B3%BD_-_panoramio.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.bdcqtx.com/xsyd/index.jhtml",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chongqing Wushan Airport",
+    "iata": "WSK",
+    "city": "Wushan",
+    "country": "CN",
+    "lat": 31.06896,
+    "lon": 109.708958,
+    "type": "small_airport",
+    "distance_km": 12.1
+   },
+   {
+    "name": "Enshi Xujiaping Airport",
+    "iata": "ENH",
+    "city": "Enshi (Enshi)",
+    "country": "CN",
+    "lat": 30.320299,
+    "lon": 109.485001,
+    "type": "medium_airport",
+    "distance_km": 81.5
+   },
+   {
+    "name": "Shennongjia Hongping Airport",
+    "iata": "HPG",
+    "city": "Shennongjia (Hongping)",
+    "country": "CN",
+    "lat": 31.626,
+    "lon": 110.34,
+    "type": "medium_airport",
+    "distance_km": 96.4
+   }
+  ],
+  "nearest_airport_km": 12.1,
+  "high_speed_stations": [
+   {
+    "name": "建始",
+    "name_en": null,
+    "lat": 30.569824,
+    "lon": 109.723454,
+    "distance_km": 54.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "奉节",
+    "name_en": null,
+    "lat": 31.0283336,
+    "lon": 109.3685752,
+    "distance_km": 20.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "巫山",
+    "name_en": "Wushan",
+    "lat": 31.1319375,
+    "lon": 109.9147774,
+    "distance_km": 32.9,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Yun Hua Binguan",
+   "name_en": "Yun Hua Binguan",
+   "stars": null,
+   "brand": null,
+   "lat": 31.0866426,
+   "lon": 109.8759071,
+   "distance_km": 28.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "国宾酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0776488,
+   "lon": 109.8786742,
+   "distance_km": 28.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "巫山峡谷",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0843707,
+   "lon": 109.8801693,
+   "distance_km": 28.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/瞿塘峡"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

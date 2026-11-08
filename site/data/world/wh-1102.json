@@ -1,0 +1,153 @@
+{
+ "id": "wh-1102",
+ "unesco_id": "1102",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 897,
+ "popularity_score": null,
+ "country": "KZ",
+ "country_zh": "哈萨克斯坦",
+ "country_en": "Kazakhstan",
+ "countries": [
+  {
+   "iso2": "KZ",
+   "zh": "哈萨克斯坦",
+   "en": "Kazakhstan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "KZ-11",
+ "subdivision_zh": "",
+ "subdivision_en": "Akmola Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "萨里亚尔卡——哈萨克斯坦北部的草原和湖泊",
+ "name_zh_source": "curated",
+ "name_en": "Saryarka – Steppe and Lakes of Northern Kazakhstan",
+ "name_local": "Сары-Арка – степь и озера северного Казахстана",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "1102-saryarka_–_steppe_and_lakes_of_northern_",
+ "lat": 50.433333333333,
+ "lon": 69.188888888889,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "Saryarka - 哈萨克斯坦北部草原和湖泊由两个保护区组成：Naurzum 国家自然保护区和 Korgalzhyn 国家自然保护区，总面积为 450,344 公顷。这里的湿地对迁徙水鸟至关重要，其中包括全球濒危物种，其中包括极为罕见的西伯利亚白鹤、达尔马提亚鹈鹕、帕拉斯鱼雕等。这些湿地是中亚鸟类从非洲、欧洲和南亚飞往西西伯利亚和东西伯利亚繁殖地的中亚迁徙路线上的关键中途停留点和十字路口。该遗产地内的 20 万公顷中亚草原地区为该地区一半以上的草原植物物种、一些受威胁的鸟类以及极度濒危的赛加羚羊提供了宝贵的庇护所，而赛加羚羊原本是一个丰富的物种，但由于偷猎而大大减少。该地产包括两组淡水湖和咸水湖，位于向北流向北极和向南流入咸海-额尔齐斯盆地的河流之间的分水岭上。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Saryarka - Steppe and Lakes of Northern Kazakhstan comprises two protected areas: Naurzum State Nature Reserve and Korgalzhyn State Nature Reserve totalling 450,344 ha. It features wetlands of outstanding importance for migratory water birds, including globally threatened species, among them the extremely rare Siberian white crane, the Dalmatian pelican, Pallas’s fish eagle, to name but a few. These wetlands are key stopover points and crossroads on the Central Asian flyway of birds from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The 200,000 ha Central Asian steppe areas included in the property provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, formerly an abundant species much reduced by poaching. The property includes two groups of fresh and salt water lakes situated on a watershed between rivers flowing north to the Arctic and south into the Aral-Irtysh basin.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Объект включает два государственных природных заповедника «Наурзум» и «Коргалжин» общей площадью 450 344 га. Заболоченные земли, покрывающие большую часть территории объекта, чрезвычайно важны для жизнедеятельности перелетных водоплавающих птиц, среди которых целый ряд вымирающих видов. Достаточно упомянуть таких, как крайне редкий белый сибирский журавль, кудрявый пеликан и орлан-долгохвост. Этот район Центральной Азии, где сходятся маршруты перелетных птиц, направляющихся из Африки, Европы и Южной Азии к местам гнездования в западной и восточной Сибири, служит местом массовой остановки. 200 000 га центрально-азиатской степи, также вошедших в состав объекта, являются местом обитания более половины животных видов степной флоры региона, ряда видов исчезающих птиц, и особо охраняемого вида - сайги (разновидность антилопы), чье в прошлом богатое поголовье резко сократилось по причине браконьерства. Объект также включает две группы озер – с пресной и соленой водой. Они расположены на водоразделе, отделяющем реки, текущие на север - к Арктике, и на юг – к Арало-Иртышскому бассейну.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1102.jpg",
+   "title": "Saryarka – Steppe and Lakes of Northern Kazakhstan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1102",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1102",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nursultan Nazarbayev International Airport",
+    "iata": "NQZ",
+    "city": "Astana",
+    "country": "KZ",
+    "lat": 51.027035,
+    "lon": 71.467094,
+    "type": "large_airport",
+    "distance_km": 173.4
+   },
+   {
+    "name": "Sary-Arka Airport",
+    "iata": "KGF",
+    "city": "Karaganda",
+    "country": "KZ",
+    "lat": 49.670799,
+    "lon": 73.334396,
+    "type": "large_airport",
+    "distance_km": 307.8
+   },
+   {
+    "name": "Zhezkazgan National Airport",
+    "iata": "DZN",
+    "city": "Zhezkazgan",
+    "country": "KZ",
+    "lat": 47.708953,
+    "lon": 67.738094,
+    "type": "large_airport",
+    "distance_km": 320.8
+   }
+  ],
+  "nearest_airport_km": 173.4,
+  "distance_beijing_km": 3652.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KZ",
+  "country_zh": "哈萨克斯坦",
+  "country_en": "Kazakhstan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KZ",
+   "country_zh": "哈萨克斯坦",
+   "country_en": "Kazakhstan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1102"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

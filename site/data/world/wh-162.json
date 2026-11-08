@@ -1,0 +1,162 @@
+{
+ "id": "wh-162",
+ "unesco_id": "162",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 163,
+ "popularity_score": 86055,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Somme, Picardie Region",
+ "subdivision_iso": "FR-80",
+ "subdivision_zh": "索姆省",
+ "subdivision_en": "Somme",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "亚眠大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Amiens Cathedral",
+ "name_local": "Cathédrale d'Amiens",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "162-amiens_cathedral",
+ "lat": 49.89457,
+ "lon": 2.3021,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "亚眠大教堂位于皮卡第(Picardy)地区中心，是13世纪最大的古典哥特式教堂之一。整个教堂规划连贯协调，正面三层塔式向内高挺，造型优美，主厅和南交叉甬道的侧厅里装饰有极富古典美的雕刻，别具一格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Amiens Cathedral, in the heart of Picardy, is one of the largest 'classic' Gothic churches of the 13th century. It is notable for the coherence of its plan, the beauty of its three-tier interior elevation and the particularly fine display of sculptures on the principal facade and in the south transept.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La cathédrale d'Amiens, au cœur de la Picardie, est l'une des plus grandes églises gothiques « classiques » du XIII e siècle. Elle frappe par la cohérence du plan, la beauté de l'élévation intérieure à trois niveaux et l'agencement d'un programme sculpté extrêmement savant à la façade principale et au bras sud du transept.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20Amiens%20-%20Cath%C3%A9drale%20Notre-Dame%20%281%29.JPG?width=1280",
+   "title": "0 Amiens - Cathédrale Notre-Dame (1).JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:0%20Amiens%20-%20Cath%C3%A9drale%20Notre-Dame%20%281%29.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_162.jpg",
+   "title": "Amiens Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/162",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/162",
+ "transport": {
+  "airports": [
+   {
+    "name": "Beauvais-Tillé airport",
+    "iata": "BVA",
+    "city": "Beauvais",
+    "country": "FR",
+    "lat": 49.454399,
+    "lon": 2.11278,
+    "type": "large_airport",
+    "distance_km": 50.8
+   },
+   {
+    "name": "Lille Airport",
+    "iata": "LIL",
+    "city": "Lesquin",
+    "country": "FR",
+    "lat": 50.566564,
+    "lon": 3.102429,
+    "type": "large_airport",
+    "distance_km": 93.9
+   },
+   {
+    "name": "Charles de Gaulle International Airport",
+    "iata": "CDG",
+    "city": "Paris (Roissy-en-France, Val-d'Oise)",
+    "country": "FR",
+    "lat": 49.00896,
+    "lon": 2.554117,
+    "type": "large_airport",
+    "distance_km": 100.1
+   }
+  ],
+  "nearest_airport_km": 50.8,
+  "distance_beijing_km": 8178.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 56
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/162"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amiens%20Cathedral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

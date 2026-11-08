@@ -1,0 +1,224 @@
+{
+ "id": "cn-291",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "四川省",
+ "province_en": "Sichuan",
+ "province_iso": "CN-SC",
+ "city_zh": "甘孜藏族自治州",
+ "city_en": "Ganzi Tibetan Autonomous Prefecture",
+ "name_zh": "甘孜州海螺沟景区",
+ "name_en": "Hailuogou",
+ "name_en_source": "wikipedia",
+ "slug": "ganzizhouhailuogou-291",
+ "lat": 29.652451,
+ "lon": 102.12944,
+ "address_zh": "甘孜藏族自治州泸定县磨西镇磨西古街348号",
+ "address_en": "No. 348, Moxi Ancient Street, Moxi Town, Luding County, Ganzi Tibetan Autonomous Prefecture",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "海螺沟景区位于青藏高原东南缘，贡嘎山东坡，处于四川省甘孜藏族自治州的泸定、康定、九龙和雅安市的石棉4县交界区，面积906.13平方公里，由海螺沟、燕子沟、磨子沟、南门关沟、雅家埂、磨西台地六个景区组成，是 国家级风景名胜区、国家级自然保护区、国家地质公园、国家森林公园、中国唯一的冰川森林公园和国家生态旅游示范区，是古代通往藏区的茶马古道的必经之地。",
+ "intro_en": "Hailuogou (Chinese: 海螺沟; pinyin: Hǎiluógōu; lit. 'Sea conch ravine'; Tibetan: དུང་དཀར་ལུང་པ, Wylie: dung dkar lung pa, THL: Dungkar Lungpa) is a glacier located in Luding County, Garzê Tibetan Autonomous Prefecture, Sichuan, China. It is a feature of Hailuogou Glacier Forest Park. The glacier is next to Moxi and over 319 km (198 mi) southwest of Chengdu. It is a 5A-level (AAAAA) tourist attraction in China. It is famous for its low-altitude modern glaciers, large ice waterfalls and alpine hot springs. The glacier originates from Mount Gongga.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hailuogou_glacier.JPG/1280px-Hailuogou_glacier.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hailuogou glacier.JPG",
+   "author": "Truthven",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hailuogou_glacier.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/HailuogouGlacierPanorama.jpg/1280px-HailuogouGlacierPanorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "HailuogouGlacierPanorama.jpg",
+   "author": "Oliver Ren",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:HailuogouGlacierPanorama.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Hailuogou_Glaciers_in_Summer.jpeg/1280px-Hailuogou_Glaciers_in_Summer.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hailuogou Glaciers in Summer.jpeg",
+   "author": "来斤小仓鼠吧",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hailuogou_Glaciers_in_Summer.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Hailuogou_Glaciers_in_Summer_10_23_06_250000.jpeg/1280px-Hailuogou_Glaciers_in_Summer_10_23_06_250000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hailuogou Glaciers in Summer 10 23 06 250000.jpeg",
+   "author": "来斤小仓鼠吧",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hailuogou_Glaciers_in_Summer_10_23_06_250000.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Hailuogou_Glaciers_in_Summer_10_24_10_817000.jpeg/1280px-Hailuogou_Glaciers_in_Summer_10_24_10_817000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hailuogou Glaciers in Summer 10 24 10 817000.jpeg",
+   "author": "来斤小仓鼠吧",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hailuogou_Glaciers_in_Summer_10_24_10_817000.jpeg"
+  }
+ ],
+ "web": "https://www.hailuogou.com/",
+ "booking": "https://www.hailuogou.com/jqgk/message/ticket/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kangding Airport",
+    "iata": "KGT",
+    "city": "Garzê (Kangding)",
+    "country": "CN",
+    "lat": 30.142464,
+    "lon": 101.73872,
+    "type": "medium_airport",
+    "distance_km": 66.2
+   },
+   {
+    "name": "Leshan Airport",
+    "iata": "LSG",
+    "city": "Leshan (Wutongqiao)",
+    "country": "CN",
+    "lat": 29.438627,
+    "lon": 103.749218,
+    "type": "medium_airport",
+    "distance_km": 158.5
+   },
+   {
+    "name": "Xichang Qingshan Airport",
+    "iata": "XIC",
+    "city": "Liangshan (Xichang)",
+    "country": "CN",
+    "lat": 27.9891,
+    "lon": 102.183998,
+    "type": "medium_airport",
+    "distance_km": 185.0
+   }
+  ],
+  "nearest_airport_km": 66.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "泸定",
+    "name_en": null,
+    "lat": 29.9320095,
+    "lon": 102.2226515,
+    "distance_km": 32.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "喇叭河",
+    "name_en": null,
+    "lat": 29.9975767,
+    "lon": 102.5469883,
+    "distance_km": 55.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "康定",
+    "name_en": null,
+    "lat": 30.1293971,
+    "lon": 101.9289884,
+    "distance_km": 56.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "海螺沟长征大酒店",
+   "name_en": "Hailuogou Changzheng Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.6454753,
+   "lon": 102.1209294,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "海螺沟明珠花园酒店",
+   "name_en": "Pearl Garden Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.6494488,
+   "lon": 102.1173032,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "贡嘎翔云悬崖温泉酒店",
+   "name_en": "Gongga Cliff Hot Spring Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.6408029,
+   "lon": 102.1259578,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "石棉兴悦温泉山庄",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3943655,
+   "lon": 102.1079314,
+   "distance_km": 28.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "石棉景达河畔温泉酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3939219,
+   "lon": 102.1090745,
+   "distance_km": 28.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 7,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/海螺沟"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

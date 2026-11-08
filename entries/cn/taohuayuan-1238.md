@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Youyangtujiazumiaozuzizhi County"
 lat: 28.864319
 lon: 108.758913
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 桃花源旅游景区 / Tao Hua Yuan

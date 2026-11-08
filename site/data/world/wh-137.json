@@ -1,0 +1,162 @@
+{
+ "id": "wh-137",
+ "unesco_id": "137",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 647,
+ "popularity_score": 7400,
+ "country": "CD",
+ "country_zh": "刚果民主共和国",
+ "country_en": "Democratic Republic of the Congo",
+ "countries": [
+  {
+   "iso2": "CD",
+   "zh": "刚果民主共和国",
+   "en": "Democratic Republic of the Congo"
+  }
+ ],
+ "region": "Provinces of South-Kivu and Maniena",
+ "subdivision_iso": "CD-SK",
+ "subdivision_zh": "南基伍省",
+ "subdivision_en": "South Kivu",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡胡兹－别加国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kahuzi-Biega National Park",
+ "name_local": "Parc national de Kahuzi-Biega",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "137-kahuzi-biega_national_park",
+ "lat": -2.314805555,
+ "lon": 28.758666666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "1980",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "这是卡胡兹和别加两座壮观的死火山雄踞的大片原始热带森林，公园有种类丰富、数量繁多的动物资源。其中最后的山地大猩猩群之一（大约只由250头组成）就生活在海拔2100至2400米之间的地区。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A vast area of primary tropical forest dominated by two spectacular extinct volcanoes, Kahuzi and Biega, the park has a diverse and abundant fauna. One of the last groups of eastern lowland (graueri) gorillas (consisting of only some 250 individuals) lives at between 2,100 and 2,400 m above sea-level.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Vaste étendue de forêt tropicale primaire, le parc est dominé par deux volcans éteints spectaculaires, le Kahuzi et le Biega. Il est peuplé d'une faune abondante et variée. Situé entre 2 100 et 2 400 m d'altitude, il y vit l'une des dernières populations de gorilles des plaines de l'est (graueri), qui compte environ 250 individus seulement.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kahuzi-Biega%20National%20Park%20%2839423247252%29.jpg?width=1280",
+   "title": "Kahuzi-Biega National Park (39423247252).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kahuzi-Biega%20National%20Park%20%2839423247252%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_137.jpg",
+   "title": "Kahuzi-Biega National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/137",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/137",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kamembe Airport",
+    "iata": "KME",
+    "city": "Kamembe",
+    "country": "RW",
+    "lat": -2.462239980697632,
+    "lon": 28.907899856567383,
+    "type": "medium_airport",
+    "distance_km": 23.3
+   },
+   {
+    "name": "Goma International Airport",
+    "iata": "GOM",
+    "city": "Goma",
+    "country": "CD",
+    "lat": -1.666758,
+    "lon": 29.238037,
+    "type": "large_airport",
+    "distance_km": 89.6
+   },
+   {
+    "name": "Bujumbura Melchior Ndadaye International Airport",
+    "iata": "BJM",
+    "city": "Bujumbura",
+    "country": "BI",
+    "lat": -3.32402,
+    "lon": 29.318501,
+    "type": "large_airport",
+    "distance_km": 128.3
+   }
+  ],
+  "nearest_airport_km": 23.3,
+  "distance_beijing_km": 9986.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CD",
+  "country_zh": "刚果民主共和国",
+  "country_en": "Democratic Republic of the Congo",
+  "status": "evisa",
+  "days": 7,
+  "requirement": "eVisa[6][42]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CD",
+   "country_zh": "刚果民主共和国",
+   "country_en": "Democratic Republic of the Congo",
+   "status": "evisa",
+   "days": 7,
+   "requirement": "eVisa[6][42]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 53
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/137"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kahuzi-Bi%C3%A9ga%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

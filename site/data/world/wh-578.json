@@ -1,0 +1,154 @@
+{
+ "id": "wh-578",
+ "unesco_id": "578",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1111,
+ "popularity_score": null,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "State of Western Australia",
+ "subdivision_iso": "AU-WA",
+ "subdivision_zh": "西澳大利亚州",
+ "subdivision_en": "Western Australia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "西澳大利亚鲨鱼湾",
+ "name_zh_source": "unesco_official",
+ "name_en": "Shark Bay, Western Australia",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "578-shark_bay,_western_australia",
+ "lat": -25.92897,
+ "lon": 113.604655,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "此鲨鱼湾位于澳洲大陆最西端，由许多岛屿及周边陆地组成，有三个独具一格的自然特点：拥有世界上最大的海床（4800平方公里）和最丰富的海草资源；拥有世界上数量最多的儒艮（海牛）；拥有大量叠层石（叠层石是由大量海藻形成的硬质圆形沉积物，是地球上最古老的生命形式之一）。鲨鱼湾还是五种濒危哺乳动物的栖息地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "At the most westerly point of the Australian continent, Shark Bay, with its islands and the land surrounding it, has three exceptional natural features: its vast sea-grass beds, which are the largest (4,800 km2) and richest in the world; its dugong (‘sea cow’) population; and its stromatolites (colonies of algae which form hard, dome-shaped deposits and are among the oldest forms of life on earth). Shark Bay is also home to five species of endangered mammals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_578.jpg",
+   "title": "Shark Bay, Western Australia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/578",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/578",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shark Bay Airport",
+    "iata": "MJK",
+    "city": "Denham",
+    "country": "AU",
+    "lat": -25.897294,
+    "lon": 113.575802,
+    "type": "medium_airport",
+    "distance_km": 4.6
+   },
+   {
+    "name": "Carnarvon Airport",
+    "iata": "CVQ",
+    "city": "Carnarvon",
+    "country": "AU",
+    "lat": -24.884337,
+    "lon": 113.666393,
+    "type": "medium_airport",
+    "distance_km": 116.3
+   },
+   {
+    "name": "Kalbarri Airport",
+    "iata": "KAX",
+    "city": "Kalbarri",
+    "country": "AU",
+    "lat": -27.692813,
+    "lon": 114.259169,
+    "type": "small_airport",
+    "distance_km": 206.6
+   }
+  ],
+  "nearest_airport_km": 4.6,
+  "distance_beijing_km": 7343.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/578"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

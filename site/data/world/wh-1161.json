@@ -1,0 +1,162 @@
+{
+ "id": "wh-1161",
+ "unesco_id": "1161",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 262,
+ "popularity_score": 37387,
+ "country": "LC",
+ "country_zh": "圣卢西亚",
+ "country_en": "Saint Lucia",
+ "countries": [
+  {
+   "iso2": "LC",
+   "zh": "圣卢西亚",
+   "en": "Saint Lucia"
+  }
+ ],
+ "region": "near the town of Soufriere, southwestern region of St Lucia",
+ "subdivision_iso": "LC-10",
+ "subdivision_zh": "",
+ "subdivision_en": "Soufrière",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "皮通山保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Pitons Management Area",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1161-pitons_management_area",
+ "lat": 13.807083333,
+ "lon": -61.070361111,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "皮通山保护区紧邻苏弗里耶尔镇，面积为2909公顷。保护区内有皮通山，两处最高的火山分别高达770米和743米。延绵的山峰和山脊连接，一直延伸到海面。火山群包括一个地热带，那里温泉密布，硫磺色的烟雾缭绕。珊瑚暗礁覆盖了几乎60%的海面。一项调查研究显示，这里有168种长须鲸，包括珊瑚在内的60种刺胞动物、8种软体动物、14种海绵、11种棘皮类动物、15种节肢动物和8种A 环节蠕虫。玳瑁乌龟在近海岸出没，海面上还能看见鲸鲨和领航鲸的身影。主要的陆地植物为潮湿热带林和亚热带雨林，在山顶还有一小部分干燥林和高山矮曲林。据记载，大皮通山至少有148种植物，小皮通山和中间的山脊至少有97种植物，其中有8种珍稀树种。皮通山还是约27种鸟类（其中5种为当地鸟类）、3种当地啮齿动物、1种负鼠、3种蝙蝠、8种爬虫动物和3种两栖动物的栖息地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 2,909-ha site near the town of Soufriere includes the Pitons, two volcanic spires rising side by side from the sea (770 m and 743 m high respectively), linked by the Piton Mitan ridge. The volcanic complex includes a geothermal field with sulphurous fumeroles and hot springs. Coral reefs cover almost 60% of the site’s marine area. A survey has revealed 168 species of finfish, 60 species of cnidaria, including corals, eight molluscs, 14 sponges, 11 echinoderms, 15 arthropods and eight annelid worms. The dominant terrestrial vegetation is tropical moist forest grading to subtropical wet forest, with small areas of dry forest and wet elfin woodland on the summits. At least 148 plant species have been recorded on Gros Piton, 97 on Petit Piton and the intervening ridge, among them eight rare tree species. The Gros Piton is home to some 27 bird species (five of them endemic), three indigenous rodents, one opossum, three bats, eight reptiles and three amphibians.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pitonpair.JPG?width=1280",
+   "title": "Pitonpair.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pitonpair.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1161.jpg",
+   "title": "Pitons Management Area",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1161",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1161",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hewanorra International Airport",
+    "iata": "UVF",
+    "city": "Vieux Fort",
+    "country": "LC",
+    "lat": 13.7332,
+    "lon": -60.952599,
+    "type": "large_airport",
+    "distance_km": 15.1
+   },
+   {
+    "name": "George F. L. Charles Airport",
+    "iata": "SLU",
+    "city": "Castries",
+    "country": "LC",
+    "lat": 14.0202,
+    "lon": -60.992901,
+    "type": "medium_airport",
+    "distance_km": 25.1
+   },
+   {
+    "name": "Argyle International Airport",
+    "iata": "SVD",
+    "city": "Kingstown",
+    "country": "VC",
+    "lat": 13.159725,
+    "lon": -61.148801,
+    "type": "large_airport",
+    "distance_km": 72.5
+   }
+  ],
+  "nearest_airport_km": 15.1,
+  "distance_beijing_km": 14025.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LC",
+  "country_zh": "圣卢西亚",
+  "country_en": "Saint Lucia",
+  "status": "visa_free",
+  "days": null,
+  "requirement": "Visa not required[6][121]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LC",
+   "country_zh": "圣卢西亚",
+   "country_en": "Saint Lucia",
+   "status": "visa_free",
+   "days": null,
+   "requirement": "Visa not required[6][121]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1161"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitons%20%28Saint%20Lucia%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

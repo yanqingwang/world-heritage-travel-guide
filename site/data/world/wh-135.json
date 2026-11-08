@@ -1,0 +1,162 @@
+{
+ "id": "wh-135",
+ "unesco_id": "135",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 721,
+ "popularity_score": 5143,
+ "country": "PA",
+ "country_zh": "巴拿马",
+ "country_en": "Panama",
+ "countries": [
+  {
+   "iso2": "PA",
+   "zh": "巴拿马",
+   "en": "Panama"
+  }
+ ],
+ "region": "Province of Colon - Distric of Cristobal",
+ "subdivision_iso": "PA-3",
+ "subdivision_zh": "科隆省",
+ "subdivision_en": "Colón Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "巴拿马加勒比海岸的防御工事：波托韦洛－圣洛伦索",
+ "name_zh_source": "unesco_official",
+ "name_en": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+ "name_local": "Fortificaciones de la costa caribeña de Panamá: Portobelo y San Lorenzo",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "135-fortifications_on_the_caribbean_side_of_",
+ "lat": 9.553888888,
+ "lon": -79.655833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1980",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "作为17世纪和18世纪军事建筑的优美典范，这些加勒比海岸的巴拿马城堡成为西班牙王室保护跨大西洋贸易的防御体系的一个部分。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Magnificent examples of 17th- and 18th-century military architecture, these Panamanian forts on the Caribbean coast form part of the defence system built by the Spanish Crown to protect transatlantic trade.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Estos fuertes panameños son magníficos prototipos de la arquitectura militar de los siglos XVII y XVIII y para brindar protección al comercio transatlántico. Espléndidos ejemplos de la arquitectura militar de los siglos XVII y XVIII, estos fuertes de la costa caribeña de Panamá formaban parte del sistema defensivo creado por la Corona de España para proteger el comercio transatlántico.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portobelo.jpg?width=1280",
+   "title": "Portobelo.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Portobelo.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_135.jpg",
+   "title": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/135",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/135",
+ "transport": {
+  "airports": [
+   {
+    "name": "Enrique Adolfo Jimenez Airport",
+    "iata": "ONX",
+    "city": "Colón",
+    "country": "PA",
+    "lat": 9.35664,
+    "lon": -79.867401,
+    "type": "medium_airport",
+    "distance_km": 31.9
+   },
+   {
+    "name": "Tocumen International Airport",
+    "iata": "PTY",
+    "city": "Tocumen",
+    "country": "PA",
+    "lat": 9.07136,
+    "lon": -79.383499,
+    "type": "large_airport",
+    "distance_km": 61.4
+   },
+   {
+    "name": "Marcos A. Gelabert International Airport",
+    "iata": "PAC",
+    "city": "Albrook",
+    "country": "PA",
+    "lat": 8.97334,
+    "lon": -79.555603,
+    "type": "medium_airport",
+    "distance_km": 65.5
+   }
+  ],
+  "nearest_airport_km": 31.9,
+  "distance_beijing_km": 14263.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PA",
+  "country_zh": "巴拿马",
+  "country_en": "Panama",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa issued by Australia, Canada, the United States, Schengen (need to be valid for 6 months after entry) or the United Kingdom for up to 30 days. As of 2 May 2019, visas are issued with a 5-year validity period for holiday, business and family visit pur"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PA",
+   "country_zh": "巴拿马",
+   "country_en": "Panama",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa issued by Australia, Canada, the United States, Schengen (need to be valid for 6 months after entry) or the United Kingdom for up to 30 days. As of 2 May 2019, visas are issued with a 5-year validity period for holiday, business and family visit pur"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/135"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fortifications%20on%20the%20Caribbean%20Side%20of%20Panama%3A%20Portobelo-San%20Lorenzo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

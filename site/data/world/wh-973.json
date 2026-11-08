@@ -1,0 +1,162 @@
+{
+ "id": "wh-973",
+ "unesco_id": "973",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1207,
+ "popularity_score": null,
+ "country": "SK",
+ "country_zh": "斯洛伐克",
+ "country_en": "Slovakia",
+ "countries": [
+  {
+   "iso2": "SK",
+   "zh": "斯洛伐克",
+   "en": "Slovakia"
+  }
+ ],
+ "region": "Town and District of Bardejov, Prešov Region",
+ "subdivision_iso": "SK-PV",
+ "subdivision_zh": "普雷绍夫州",
+ "subdivision_en": "Prešov Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "巴尔代约夫镇保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Bardejov Town Conservation Reserve",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "973-bardejov_town_conservation_reserve",
+ "lat": 49.29333,
+ "lon": 21.27917,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "巴尔代约夫是中世纪筑防城镇的一个例子，虽小但十分完整，保存也相当完好，代表了该地区的城市化进程。除其他显著特点外，在一处精美的18世纪犹太教堂周围还保有一小片犹太居民区。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Bardejov is a small but exceptionally complete and well-preserved example of a fortified medieval town, which typifies the urbanisation in this region. Among other remarkable features, it also contains a small Jewish quarter around a fine 18th-century synagogue.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bardejov10Slovakia6.JPG?width=1280",
+   "title": "Bardejov10Slovakia6.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bardejov10Slovakia6.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_973.jpg",
+   "title": "Bardejov Town Conservation Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/973",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/973",
+ "transport": {
+  "airports": [
+   {
+    "name": "Košice International Airport",
+    "iata": "KSC",
+    "city": "Košice",
+    "country": "SK",
+    "lat": 48.663101,
+    "lon": 21.2411,
+    "type": "medium_airport",
+    "distance_km": 70.1
+   },
+   {
+    "name": "Poprad-Tatry Airport",
+    "iata": "TAT",
+    "city": "Poprad",
+    "country": "SK",
+    "lat": 49.070994,
+    "lon": 20.241394,
+    "type": "medium_airport",
+    "distance_km": 79.4
+   },
+   {
+    "name": "Rzeszów-Jasionka Airport",
+    "iata": "RZE",
+    "city": "Jasionka",
+    "country": "PL",
+    "lat": 50.109791,
+    "lon": 22.024155,
+    "type": "large_airport",
+    "distance_km": 105.4
+   }
+  ],
+  "nearest_airport_km": 70.1,
+  "distance_beijing_km": 7130.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SK",
+  "country_zh": "斯洛伐克",
+  "country_en": "Slovakia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SK",
+   "country_zh": "斯洛伐克",
+   "country_en": "Slovakia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/973"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

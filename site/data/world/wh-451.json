@@ -1,0 +1,162 @@
+{
+ "id": "wh-451",
+ "unesco_id": "451",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1088,
+ "popularity_score": null,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "City of Galle, Southern Province",
+ "subdivision_iso": "LK-3",
+ "subdivision_zh": "南部省",
+ "subdivision_en": "Southern Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加勒老城及其堡垒",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Town of Galle and its Fortifications",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "451-old_town_of_galle_and_its_fortifications",
+ "lat": 6.021388889,
+ "lon": 80.21861111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "加勒老城始建于16世纪，由葡萄牙人所建，在18世纪时达到鼎盛时期，在英国人入侵之后，开始逐渐衰败。加勒老城由南欧人和东南亚人共同修建，是一个融合了欧洲和南亚传统建筑风格的典型堡垒城市。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the 16th century by the Portuguese, Galle reached the height of its development in the 18th century, before the arrival of the British. It is the best example of a fortified city built by Europeans in South and South-East Asia, showing the interaction between European architectural styles and South Asian traditions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20160130%20Sri%20Lanka%204290%20Galle%20sRGB%20%2825650030142%29.jpg?width=1280",
+   "title": "20160130 Sri Lanka 4290 Galle sRGB (25650030142).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:20160130%20Sri%20Lanka%204290%20Galle%20sRGB%20%2825650030142%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_451.jpg",
+   "title": "Old Town of Galle and its Fortifications",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/451",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/451",
+ "transport": {
+  "airports": [
+   {
+    "name": "Koggala Airport",
+    "iata": "KCT",
+    "city": "Galle",
+    "country": "LK",
+    "lat": 5.993680000305176,
+    "lon": 80.32029724121094,
+    "type": "medium_airport",
+    "distance_km": 11.7
+   },
+   {
+    "name": "Colombo Ratmalana International Airport",
+    "iata": "RML",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 6.821638,
+    "lon": 79.885859,
+    "type": "large_airport",
+    "distance_km": 96.3
+   },
+   {
+    "name": "Mattala Rajapaksa International Airport",
+    "iata": "HRI",
+    "city": "Mattala",
+    "country": "LK",
+    "lat": 6.283878,
+    "lon": 81.124163,
+    "type": "medium_airport",
+    "distance_km": 104.3
+   }
+  ],
+  "nearest_airport_km": 11.7,
+  "distance_beijing_km": 5236.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/451"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

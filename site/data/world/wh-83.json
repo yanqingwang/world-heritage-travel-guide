@@ -1,0 +1,324 @@
+{
+ "id": "wh-83",
+ "unesco_id": "83",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 12,
+ "popularity_score": 902794,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Yvelines, Ile-de-France",
+ "subdivision_iso": "FR-78",
+ "subdivision_zh": "伊夫林省",
+ "subdivision_en": "Yvelines",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "凡尔赛宫及其园林",
+ "name_zh_source": "unesco_official",
+ "name_en": "Palace and Park of Versailles",
+ "name_local": "Palais et parc de Versailles",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "83-palace_and_park_of_versailles",
+ "lat": 48.804722222,
+ "lon": 2.120277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "凡尔赛宫是路易十四至路易十六时期法国国王的居所。经过数代建筑师、雕刻家、装饰家、园林建筑师的不断改造润色，一个多世纪以来，凡尔赛宫一直是欧洲王室官邸的典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Palace of Versailles was the principal residence of the French kings from the time of Louis XIV to Louis XVI. Embellished by several generations of architects, sculptors, decorators and landscape architects, it provided Europe with a model of the ideal royal residence for over a century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Lieu de résidence privilégié de la monarchie française de Louis XIV à Louis XVI, le château de Versailles, embelli par plusieurs générations d'architectes, de sculpteurs, d'ornemanistes et de paysagistes, a été pour l'Europe pendant plus d'un siècle le modèle de ce que devait être une résidence royale.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vue%20a%C3%A9rienne%20du%20domaine%20de%20Versailles%20par%20ToucanWings%20-%20Creative%20Commons%20By%20Sa%203.0%20-%20083.jpg?width=1280",
+   "title": "Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 083.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vue%20a%C3%A9rienne%20du%20domaine%20de%20Versailles%20par%20ToucanWings%20-%20Creative%20Commons%20By%20Sa%203.0%20-%20083.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "\"A Summer Trip,\" volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 27).jpg",
+   "author": "Johnson, John G., 1841-1917; F. Frith & Co",
+   "license": "Public domain",
+   "credit": "This file was contributed to Wikimedia Commons by Philadelphia Museum of Art as part of a cooperation project. The donation was facilitated by the Digital Publi",
+   "source": "https://commons.wikimedia.org/wiki/File:%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_27%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "\"A Summer Trip,\" volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 28).jpg",
+   "author": "Johnson, John G., 1841-1917; F. Frith & Co",
+   "license": "Public domain",
+   "credit": "This file was contributed to Wikimedia Commons by Philadelphia Museum of Art as part of a cooperation project. The donation was facilitated by the Digital Publi",
+   "source": "https://commons.wikimedia.org/wiki/File:%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_28%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_32%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "\"A Summer Trip,\" volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 32).jpg",
+   "author": "Johnson, John G., 1841-1917; F. Frith & Co",
+   "license": "Public domain",
+   "credit": "This file was contributed to Wikimedia Commons by Philadelphia Museum of Art as part of a cooperation project. The donation was facilitated by the Digital Publi",
+   "source": "https://commons.wikimedia.org/wiki/File:%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_32%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/10-8-26%2C_Versailles%2C_Assembl%C3%A9e_nationale%2C_arriv%C3%A9e_d%27un_parlementaire_-_btv1b531667360.jpg/1280px-10-8-26%2C_Versailles%2C_Assembl%C3%A9e_nationale%2C_arriv%C3%A9e_d%27un_parlementaire_-_btv1b531667360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "10-8-26, Versailles, Assemblée nationale, arrivée d'un parlementaire - btv1b531667360.jpg",
+   "author": "Agence Rol. Agence photographique (commanditaire)",
+   "license": "Public domain",
+   "credit": "Bibliothèque nationale de France",
+   "source": "https://commons.wikimedia.org/wiki/File:10-8-26%2C_Versailles%2C_Assembl%C3%A9e_nationale%2C_arriv%C3%A9e_d%27un_parlementaire_-_btv1b531667360.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/83",
+ "transport": {
+  "airports": [
+   {
+    "name": "Paris-Orly Airport",
+    "iata": "ORY",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "country": "FR",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport",
+    "distance_km": 19.4
+   },
+   {
+    "name": "Charles de Gaulle International Airport",
+    "iata": "CDG",
+    "city": "Paris (Roissy-en-France, Val-d'Oise)",
+    "country": "FR",
+    "lat": 49.00896,
+    "lon": 2.554117,
+    "type": "large_airport",
+    "distance_km": 39.0
+   },
+   {
+    "name": "Beauvais-Tillé airport",
+    "iata": "BVA",
+    "city": "Beauvais",
+    "country": "FR",
+    "lat": 49.454399,
+    "lon": 2.11278,
+    "type": "large_airport",
+    "distance_km": 72.2
+   }
+  ],
+  "nearest_airport_km": 19.4,
+  "distance_beijing_km": 8220.5,
+  "ferry_terminals": [
+   {
+    "name": "Embarcadère du Chalet des Îles",
+    "name_en": null,
+    "lat": 48.8629885,
+    "lon": 2.2614737,
+    "distance_km": 12.2,
+    "operator": null
+   },
+   {
+    "name": "Beaugrenelle",
+    "name_en": null,
+    "lat": 48.8494517,
+    "lon": 2.2806162,
+    "distance_km": 12.7,
+    "operator": "Batobus"
+   },
+   {
+    "name": "Tour-Eiffel",
+    "name_en": null,
+    "lat": 48.8599019,
+    "lon": 2.2930286,
+    "distance_km": 14.1,
+    "operator": "Batobus"
+   },
+   {
+    "name": "Bateaux parisiens",
+    "name_en": null,
+    "lat": 48.8603881,
+    "lon": 2.2935337,
+    "distance_km": 14.1,
+    "operator": null
+   },
+   {
+    "name": "Bateaux-Mouches",
+    "name_en": null,
+    "lat": 48.863978,
+    "lon": 2.3058261,
+    "distance_km": 15.1,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Versailles Château Rive Gauche",
+    "name_en": null,
+    "lat": 48.8003009,
+    "lon": 2.1290402,
+    "distance_km": 0.8,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Versailles Rive Droite",
+    "name_en": null,
+    "lat": 48.8095808,
+    "lon": 2.1357131,
+    "distance_km": 1.3,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Versailles-Chantiers",
+    "name_en": null,
+    "lat": 48.7954702,
+    "lon": 2.1355157,
+    "distance_km": 1.5,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Montreuil",
+    "name_en": null,
+    "lat": 48.8065223,
+    "lon": 2.1511121,
+    "distance_km": 2.3,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Porchefontaine",
+    "name_en": null,
+    "lat": 48.7966743,
+    "lon": 2.1531096,
+    "distance_km": 2.6,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Les Lumières",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 48.804876,
+   "lon": 2.1247584,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Grand Contrôle",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Areilles",
+   "lat": 48.8013347,
+   "lon": 2.1200627,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria Versailles - Trianon Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 48.8111925,
+   "lon": 2.1209537,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Molitor",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Accor",
+   "lat": 48.8448885,
+   "lon": 2.2525142,
+   "distance_km": 10.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nest Paris La Défense",
+   "name_en": null,
+   "stars": 5,
+   "brand": "MGallery",
+   "lat": 48.8882061,
+   "lon": 2.2478963,
+   "distance_km": 13.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 106
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/83"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palace%20of%20Versailles"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

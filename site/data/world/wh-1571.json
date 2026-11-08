@@ -1,0 +1,154 @@
+{
+ "id": "wh-1571",
+ "unesco_id": "1571",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 988,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "科内利亚诺和瓦尔多比亚德内的普罗赛柯产地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Le Colline del Prosecco di Conegliano e Valdobbiadene",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1571-le_colline_del_prosecco_di_conegliano_e_",
+ "lat": 45.953,
+ "lon": 12.2261,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产位于意大利东北部，并包含部分普罗赛柯酒产地的葡萄园。当地的典型景观包括猪背岭、山坡上狭小的多草葡萄园、森林、小型村庄和农田。这片崎岖的土地历经人类几百年的开垦和改造。自17世纪以来，与山坡走向平行或垂直的狭窄葡萄园形成了独特的棋盘型景观。19世纪采用的“贝罗塞拉”葡萄栽培技术进一步丰富了当地景观的美学特征。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in north-eastern Italy, the property includes part of the winegrowing landscape of the Prosecco wine production area. The landscape is characterized by ‘hogback’ hills, ciglioni – small plots of vines on narrow grassy terraces – forests, small villages and farmland. For centuries, this rugged terrain has been shaped and adapted by man. Since the 17th century, the use of ciglioni has created a particular chequerboard landscape consisting of rows of vines parallel and vertical to the slopes. In the 19th century, the bellussera technique of training the vines contributed to the aesthetic characteristics of the landscape.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1571.jpg",
+   "title": "Le Colline del Prosecco di Conegliano e Valdobbiadene",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1571",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1571",
+ "transport": {
+  "airports": [
+   {
+    "name": "Treviso Airport",
+    "iata": "TSF",
+    "city": "Treviso (TV)",
+    "country": "IT",
+    "lat": 45.648399,
+    "lon": 12.1944,
+    "type": "large_airport",
+    "distance_km": 34.0
+   },
+   {
+    "name": "Venice Marco Polo Airport",
+    "iata": "VCE",
+    "city": "Venezia (VE)",
+    "country": "IT",
+    "lat": 45.505299,
+    "lon": 12.3519,
+    "type": "large_airport",
+    "distance_km": 50.7
+   },
+   {
+    "name": "Bolzano Airport",
+    "iata": "BZO",
+    "city": "Bolzano (BZ)",
+    "country": "IT",
+    "lat": 46.459245,
+    "lon": 11.326125,
+    "type": "medium_airport",
+    "distance_km": 89.2
+   }
+  ],
+  "nearest_airport_km": 34.0,
+  "distance_beijing_km": 7882.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1571"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

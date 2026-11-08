@@ -1,0 +1,122 @@
+{
+ "id": "cn-346",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "喀什地区",
+ "city_en": "Kashgar Prefecture",
+ "name_zh": "喀什地区金湖杨景区",
+ "name_en": "Kashidiqujinhuyang Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "kashidiqujinhuyang-346",
+ "lat": 38.035954,
+ "lon": 76.987903,
+ "address_zh": "新疆维吾尔自治区喀什地区泽普县",
+ "address_en": "Zepu County, Kashgar Prefecture, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "desert",
+ "category_zh": "草原沙漠",
+ "category_en": "Grassland & desert",
+ "intro_zh": "喀什地区泽普金湖杨景区占地面积有4万亩，其中天然胡杨林面积达2万亩。景区以广袤的天然胡杨林与开阔的叶尔羌河及河两岸平坦、荒芜的戈壁滩形成独特的自然风貌。胡杨、水、绿洲、戈壁四位一体的自然风貌向人们展示了一幅边塞画卷，堪称塔里木盆地西边缘不可多得的一处旅游胜地。",
+ "intro_en": "Zepu Jinhu Yang Scenic Area in Kashgar region covers an area of ​​40,000 acres, of which the natural Populus euphratica forest area reaches 20,000 acres. The scenic area has a unique natural style with its vast natural Populus euphratica forest, the open Yarkand River and the flat, deserted Gobi Desert on both sides of the river. The four-in-one natural landscape of Populus euphratica, water, oasis and Gobi presents a picture of a frontier fortress, which can be called a rare tourist attraction on the western edge of the Tarim Basin.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shache Airport",
+    "iata": "QSZ",
+    "city": "Shache",
+    "country": "CN",
+    "lat": 38.24542,
+    "lon": 77.056149,
+    "type": "medium_airport",
+    "distance_km": 24.0
+   },
+   {
+    "name": "Tashikuergan Hongqilafu Airport",
+    "iata": "HQL",
+    "city": "Tashikuergan",
+    "country": "CN",
+    "lat": 37.661333,
+    "lon": 75.288877,
+    "type": "medium_airport",
+    "distance_km": 154.9
+   },
+   {
+    "name": "Kashgar Laining International Airport",
+    "iata": "KHG",
+    "city": "Kashgar",
+    "country": "CN",
+    "lat": 39.542273,
+    "lon": 76.02023,
+    "type": "large_airport",
+    "distance_km": 187.3
+   }
+  ],
+  "nearest_airport_km": 24.0,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "泽普 پوسكام",
+    "name_en": "Poskam",
+    "lat": 38.1785438,
+    "lon": 77.305448,
+    "distance_km": 32.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "托洛拉克",
+    "name_en": null,
+    "lat": 38.4158628,
+    "lon": 76.918923,
+    "distance_km": 42.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "莎车 يەكەن",
+    "name_en": "Shache",
+    "lat": 38.374286,
+    "lon": 77.2297132,
+    "distance_km": 43.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

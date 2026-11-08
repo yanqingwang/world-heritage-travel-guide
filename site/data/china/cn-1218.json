@@ -1,0 +1,252 @@
+{
+ "id": "cn-1218",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "北京市",
+ "province_en": "Beijing",
+ "province_iso": "CN-BJ",
+ "city_zh": "朝阳区",
+ "city_en": "Zhaoyang District",
+ "name_zh": "北京奥林匹克公园",
+ "name_en": "Olympic Green",
+ "name_en_source": "wikipedia",
+ "slug": "beijingaolinpikegongyuan-1218",
+ "lat": 39.999245,
+ "lon": 116.399206,
+ "address_zh": "北京市朝阳区北辰东路15号",
+ "address_en": "No. 15, Beichen East Road, Chaoyang District, Beijing",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "奥林匹克公园地处城市中轴线北端，总中心区是主要场馆和配套设施建设区。奥林匹克公园中心区是举办北京2008年奥运会的主要场地，拥有亚洲最大的城区人工水系和城市绿化景观、亚洲最长的地下交通环廊和世界最开阔的步行广场。",
+ "intro_en": "The Olympic Green (Chinese: 奥林匹克公园; pinyin: Àolínpǐkè Gōngyuán; lit. 'Olympic Park') is an Olympic Park in Chaoyang, Beijing, China. The three main facilities there include the National Stadium (Bird's Nest), Water Cube, and National Indoor Stadium. Olympic Green was originally constructed for the 2008 Summer Olympics and the 2008 Summer Paralympics. Since then, the streets around the park have been used for an exhibition street race of the FIA GT1 World Championship in 2011, after a race at Goldenport Park Circuit in the vicinity. It again served as an Olympic Park when Beijing hosted the 2022 Winter Olympics and the 2022 Winter Paralympics.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Beijing_Olympic_Green.jpg/1280px-Beijing_Olympic_Green.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Beijing Olympic Green.jpg",
+   "author": "Picrazy2",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Beijing_Olympic_Green.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Interchange_passage_between_L8-L15_at_Olympic_Green_Station_%2820160531192910%29.jpg/1280px-Interchange_passage_between_L8-L15_at_Olympic_Green_Station_%2820160531192910%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Interchange passage between L8-L15 at Olympic Green Station (20160531192910).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Interchange_passage_between_L8-L15_at_Olympic_Green_Station_%2820160531192910%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Olympic_Green_Station_%28Line_15%29_Hall_20161024.jpg/1280px-Olympic_Green_Station_%28Line_15%29_Hall_20161024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Olympic Green Station (Line 15) Hall 20161024.jpg",
+   "author": "Tyg728",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Olympic_Green_Station_%28Line_15%29_Hall_20161024.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Passage_of_Olympic_Green_Station_20161024.jpg/1280px-Passage_of_Olympic_Green_Station_20161024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Passage of Olympic Green Station 20161024.jpg",
+   "author": "Tyg728",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Passage_of_Olympic_Green_Station_20161024.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Platform_of_L15_Olympic_Green_Station_%2820200514170615%29.jpg/1280px-Platform_of_L15_Olympic_Green_Station_%2820200514170615%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Platform of L15 Olympic Green Station (20200514170615).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Platform_of_L15_Olympic_Green_Station_%2820200514170615%29.jpg"
+  }
+ ],
+ "web": "http://www.bjofp.cn/#/",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Beijing Capital International Airport",
+    "iata": "PEK",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 40.077349,
+    "lon": 116.596702,
+    "type": "large_airport",
+    "distance_km": 18.9
+   },
+   {
+    "name": "Beijing Daxing International Airport",
+    "iata": "PKX",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 39.501289,
+    "lon": 116.413967,
+    "type": "large_airport",
+    "distance_km": 55.4
+   },
+   {
+    "name": "Tianjin Binhai International Airport",
+    "iata": "TSN",
+    "city": "Tianjin",
+    "country": "CN",
+    "lat": 39.124401092499994,
+    "lon": 117.346000671,
+    "type": "large_airport",
+    "distance_km": 126.7
+   }
+  ],
+  "nearest_airport_km": 18.9,
+  "high_speed_stations": [
+   {
+    "name": "北京北",
+    "name_en": "Beijingbei",
+    "lat": 39.9459061,
+    "lon": 116.3461866,
+    "distance_km": 7.5,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "清河",
+    "name_en": "Qinghe",
+    "lat": 40.0400025,
+    "lon": 116.3090931,
+    "distance_km": 8.9,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "北京朝阳",
+    "name_en": "Beijing Chaoyang",
+    "lat": 39.9433162,
+    "lon": 116.5024181,
+    "distance_km": 10.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "望京",
+    "name_en": "Wangjing",
+    "lat": 40.0196291,
+    "lon": 116.4731851,
+    "distance_km": 6.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "黄土店",
+    "name_en": "Huangtudian",
+    "lat": 40.0691902,
+    "lon": 116.342306,
+    "distance_km": 9.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "巴沟",
+    "name_en": "Bagou",
+    "lat": 39.9731575,
+    "lon": 116.2855734,
+    "distance_km": 10.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "北京北辰五洲皇冠国际酒店",
+   "name_en": "North Star Continental Grand Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 39.9885393,
+   "lon": 116.3993242,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京市西苑饭店",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.9359451,
+   "lon": 116.3260286,
+   "distance_km": 9.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京康莱德酒店",
+   "name_en": "Conrad Beijing",
+   "stars": 5,
+   "brand": "Conrad",
+   "lat": 39.9257563,
+   "lon": 116.4541986,
+   "distance_km": 9.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华尔道夫酒店",
+   "name_en": "Waldorf Astoria Beijing",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 39.9145678,
+   "lon": 116.4077835,
+   "distance_km": 9.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京王府井希尔顿酒店",
+   "name_en": "Hilton Beijing Wangfujing",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 39.9134295,
+   "lon": 116.4071507,
+   "distance_km": 9.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 691,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/奥林匹克公园 (北京)"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

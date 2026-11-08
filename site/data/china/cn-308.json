@@ -1,0 +1,234 @@
+{
+ "id": "cn-308",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "宜昌市",
+ "city_en": "Yichang",
+ "name_zh": "宜昌市三峡人家风景区",
+ "name_en": "Yichang",
+ "name_en_source": "wikipedia",
+ "slug": "yichangshisanxiarenjia-308",
+ "lat": 30.80415,
+ "lon": 111.169942,
+ "address_zh": "湖北省宜昌市夷陵区三斗坪镇石牌村",
+ "address_en": "Shipai Village, Sandouping Town, Yiling District, Yichang City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "三峡人家，依山傍水，风情如画。传统的三峡吊脚楼点缀于山水之间，久违的古帆船、乌篷船安静地泊在三峡人家门前，溪边少女挥着棒槌在清洗衣服，江面上悠然的渔家在撒网打鱼，千百年流传的生活习俗孕育了峡江人民独特的风土人情。",
+ "intro_en": "Yichang (Chinese: 宜昌), alternatively romanized as Ichang, is a prefecture-level city located in western Hubei province, China. Yichang had a population of 3.92 million people at the 2022 census, making it the third most populous city in Hubei. The city is famous for the Three Gorges, the Three Gorges Dam and the Gezhouba Dam, all three of which are located in Yiling District, one of the city's districts.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yichang_skyline_5.jpg/1280px-Yichang_skyline_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yichang skyline 5.jpg",
+   "author": "Fxqf",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_5.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wufeng%2C_Yichang%2C_Hubei%2C_China_-_panoramio_%28115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wufeng, Yichang, Hubei, China - panoramio (115).jpg",
+   "author": "王界",
+   "license": "CC BY 3.0",
+   "credit": "https://web.archive.org/web/20161021011609/http://www.panoramio.com/photo/54879274",
+   "source": "https://commons.wikimedia.org/wiki/File:Wufeng%2C_Yichang%2C_Hubei%2C_China_-_panoramio_%28115%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Yichang_script.svg/1280px-Yichang_script.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yichang script.svg",
+   "author": "Alan Fan Pei",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yichang_script.svg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Yichang_skyline_6.jpg/1280px-Yichang_skyline_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yichang skyline 6.jpg",
+   "author": "Fxqf",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_6.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yichang_skyline_7.jpg/1280px-Yichang_skyline_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yichang skyline 7.jpg",
+   "author": "Fxqf",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_7.jpg"
+  }
+ ],
+ "web": "http://www.sanxiarenjia.com/",
+ "booking": "http://www.sanxiarenjia.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yichang Sanxia Airport",
+    "iata": "YIH",
+    "city": "Yichang (Xiaoting)",
+    "country": "CN",
+    "lat": 30.554132,
+    "lon": 111.482563,
+    "type": "medium_airport",
+    "distance_km": 40.8
+   },
+   {
+    "name": "Shennongjia Hongping Airport",
+    "iata": "HPG",
+    "city": "Shennongjia (Hongping)",
+    "country": "CN",
+    "lat": 31.626,
+    "lon": 110.34,
+    "type": "medium_airport",
+    "distance_km": 120.7
+   },
+   {
+    "name": "Jingzhou Shashi Airport",
+    "iata": "SHS",
+    "city": "Jingzhou (Shashi)",
+    "country": "CN",
+    "lat": 30.29281,
+    "lon": 112.44854,
+    "type": "medium_airport",
+    "distance_km": 135.0
+   }
+  ],
+  "nearest_airport_km": 40.8,
+  "high_speed_stations": [
+   {
+    "name": "宜昌东",
+    "name_en": "Yichangdong",
+    "lat": 30.6604102,
+    "lon": 111.3648824,
+    "distance_km": 24.5,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "十里坪（预留）",
+    "name_en": null,
+    "lat": 30.7129211,
+    "lon": 111.0899514,
+    "distance_km": 12.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "宜昌南",
+    "name_en": null,
+    "lat": 30.6785514,
+    "lon": 111.2231885,
+    "distance_km": 14.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "宜昌",
+    "name_en": "Yichang",
+    "lat": 30.7042942,
+    "lon": 111.2932136,
+    "distance_km": 16.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "宜昌富力皇冠假日酒店",
+   "name_en": "Crowne Plaza",
+   "stars": null,
+   "brand": null,
+   "lat": 30.6817554,
+   "lon": 111.3030712,
+   "distance_km": 18.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宜昌威斯汀酒店",
+   "name_en": "The Westin Yichang",
+   "stars": null,
+   "brand": "Westin",
+   "lat": 30.6396613,
+   "lon": 111.3476039,
+   "distance_km": 25.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Longquan Hotel",
+   "name_en": "Longquan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.7694093,
+   "lon": 111.2576117,
+   "distance_km": 9.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宜昌三峡艾美酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Le Méridien",
+   "lat": 30.7655595,
+   "lon": 111.2717895,
+   "distance_km": 10.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Méridien",
+   "name_en": null,
+   "stars": null,
+   "brand": "Le Méridien",
+   "lat": 30.76654,
+   "lon": 111.2720793,
+   "distance_km": 10.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 18,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/宜昌市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

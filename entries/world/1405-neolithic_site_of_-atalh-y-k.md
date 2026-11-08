@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(iv)"
 lat: 37.6675
 lon: 32.828333333
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:46Z"
 ---
 
 # 恰塔尔赫于克 / Neolithic Site of Çatalhöyük

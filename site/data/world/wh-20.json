@@ -1,0 +1,162 @@
+{
+ "id": "wh-20",
+ "unesco_id": "20",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 437,
+ "popularity_score": 17386,
+ "country": "SY",
+ "country_zh": "叙利亚",
+ "country_en": "Syria",
+ "countries": [
+  {
+   "iso2": "SY",
+   "zh": "叙利亚",
+   "en": "Syria"
+  }
+ ],
+ "region": "Administrative District of Damascus",
+ "subdivision_iso": "SY-DI",
+ "subdivision_zh": "大馬士革省",
+ "subdivision_en": "Damascus Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "大马士革古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient City of Damascus",
+ "name_local": "مدينة دمشق القديمة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "20-ancient_city_of_damascus",
+ "lat": 33.51111222,
+ "lon": 36.30639,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "1979",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "大马士革古城建于公元前3000年，是中东地区最古老的城市之一。中世纪时期，大马士革是繁荣的手工业中心，专门于刀剑和饰带的制作。在它源于不同历史时期的125个纪念性建筑物中，以公元8世纪即倭马亚王朝哈里发时期的大清真寺最为壮观，大清真寺建在亚述国的一块圣地上。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the 3rd millennium B.C., Damascus is one of the oldest cities in the Middle East. In the Middle Ages, it was the centre of a flourishing craft industry, specializing in swords and lace. The city has some 125 monuments from different periods of its history – one of the most spectacular is the 8th-century Great Mosque of the Umayyads, built on the site of an Assyrian sanctuary.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تم تأسيس هذه المدينة في الألفية الثالثة قبل الميلاد، ما يجعل منها إحدى أقدم المدن في الشرق الأوسط. وكانت دمشق في القرون الوسطى مركزاً لصناعة حرفية مزدهرة (سيوف وقماش الدنتلاّ)، أما الجامع الأموي الكبير الذي شيد في القرن الثامن في موقع محراب أشوري فيعتبر الأروع بين 125 نصباً ترقى الى مراحل تاريخية مختلفة.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Umayyad%20Mosque%2C%20Damascus.jpg?width=1280",
+   "title": "Umayyad Mosque, Damascus.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Umayyad%20Mosque%2C%20Damascus.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_20.jpg",
+   "title": "Ancient City of Damascus",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/20",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/20",
+ "transport": {
+  "airports": [
+   {
+    "name": "Damascus International Airport",
+    "iata": "DAM",
+    "city": "Damascus",
+    "country": "SY",
+    "lat": 33.4114990234375,
+    "lon": 36.51559829711914,
+    "type": "large_airport",
+    "distance_km": 22.3
+   },
+   {
+    "name": "Beirut Rafic Hariri International Airport",
+    "iata": "BEY",
+    "city": "Beirut",
+    "country": "LB",
+    "lat": 33.819833,
+    "lon": 35.487443,
+    "type": "large_airport",
+    "distance_km": 83.2
+   },
+   {
+    "name": "Uri Michaeli Haifa International Airport",
+    "iata": "HFA",
+    "city": "Haifa",
+    "country": "IL",
+    "lat": 32.810219,
+    "lon": 35.043719,
+    "type": "medium_airport",
+    "distance_km": 141.0
+   }
+  ],
+  "nearest_airport_km": 22.3,
+  "distance_beijing_km": 6928.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SY",
+  "country_zh": "叙利亚",
+  "country_en": "Syria",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][143]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SY",
+   "country_zh": "叙利亚",
+   "country_en": "Syria",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][143]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 27
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/20"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20city%20of%20Damascus"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

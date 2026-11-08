@@ -1,0 +1,176 @@
+{
+ "id": "wh-1090",
+ "unesco_id": "1090",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 895,
+ "popularity_score": null,
+ "country": "CH",
+ "country_zh": "瑞士",
+ "country_en": "Switzerland",
+ "countries": [
+  {
+   "iso2": "CH",
+   "zh": "瑞士",
+   "en": "Switzerland"
+  },
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "CH-TI",
+ "subdivision_zh": "提契诺州",
+ "subdivision_en": "Canton of Ticino",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣乔治山",
+ "name_zh_source": "unesco_official",
+ "name_en": "Monte San Giorgio",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1090-monte_san_giorgio",
+ "lat": 45.889252,
+ "lon": 8.914621,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2003",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "位于提契诺州卢加诺湖（瑞士）的南面的圣乔治山海拔为1096米，其森林覆盖的山体呈金字塔型。圣乔治山出土的三叠纪海洋生物（245-230万年前）化石，迄今为止是最好的。它于2003年列入《世界遗产名录》。扩展之后，意大利境内的圣乔治山部分也一起包括进来。扩展部分的主要特点在于此处三叠纪化石层所含种类丰富并且价值极高。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The pyramid-shaped, wooded mountain of Monte San Giorgio beside Lake Lugano is regarded as the best fossil record of marine life from the Triassic Period (245–230 million years ago). The sequence records life in a tropical lagoon environment, sheltered and partially separated from the open sea by an offshore reef. Diverse marine life flourished within this lagoon, including reptiles, fish, bivalves, ammonites, echinoderms and crustaceans. Because the lagoon was near land, the remains also include land-based fossils of reptiles, insects and plants, resulting in an extremely rich source of fossils.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pachypleurosaurus.jpg?width=1280",
+   "title": "Pachypleurosaurus.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pachypleurosaurus.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1090.jpg",
+   "title": "Monte San Giorgio",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1090",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1090",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lugano Airport",
+    "iata": "LUG",
+    "city": "Agno",
+    "country": "CH",
+    "lat": 46.004299,
+    "lon": 8.91058,
+    "type": "medium_airport",
+    "distance_km": 12.8
+   },
+   {
+    "name": "Milan Malpensa International Airport",
+    "iata": "MXP",
+    "city": "Ferno (VA)",
+    "country": "IT",
+    "lat": 45.6306,
+    "lon": 8.72811,
+    "type": "large_airport",
+    "distance_km": 32.2
+   },
+   {
+    "name": "Milano Linate Airport",
+    "iata": "LIN",
+    "city": "Segrate (MI)",
+    "country": "IT",
+    "lat": 45.445099,
+    "lon": 9.27674,
+    "type": "large_airport",
+    "distance_km": 56.8
+   }
+  ],
+  "nearest_airport_km": 12.8,
+  "distance_beijing_km": 8054.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CH",
+  "country_zh": "瑞士",
+  "country_en": "Switzerland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CH",
+   "country_zh": "瑞士",
+   "country_en": "Switzerland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1090"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

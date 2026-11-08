@@ -1,0 +1,162 @@
+{
+ "id": "wh-972",
+ "unesco_id": "972",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 486,
+ "popularity_score": 13993,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "Okinawa Prefecture",
+ "subdivision_iso": "JP-47",
+ "subdivision_zh": "冲绳县",
+ "subdivision_en": "Okinawa Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "琉球王国时期的遗迹",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
+ "name_local": "琉球王国のグスク及び関連遺産群",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "972-gusuku_sites_and_related_properties_of_t",
+ "lat": 26.2086,
+ "lon": 127.683,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(vi)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址群和建筑群展示了琉球王国500多年的历史（公元12世纪至17世纪），雄伟的城堡遗址体现了那个时期琉球王国的社会结构，而岛上的宗教圣地则无言地述说着古代宗教形式到现代少有的延续。在那500年中，琉球群岛王国广泛地与外界进行着经济和文化交流，从而造就了这一独特的文化遗存。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Five hundred years of Ryukyuan history (12th-17th century) are represented by this group of sites and monuments. The ruins of the castles, on imposing elevated sites, are evidence for the social structure over much of that period, while the sacred sites provide mute testimony to the rare survival of an ancient form of religion into the modern age. The wide- ranging economic and cultural contacts of the Ryukyu Islands over that period gave rise to a unique culture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "琉球王国のグスク及び関連遺産群（りゅうきゅうおうこくのグスクおよびかんれんいさんぐん）は、沖縄本島南部を中心に点在するグスクなどの琉球王国の史跡群から構成されるユネスコの世界遺産（文化遺産）である。2000年11月30日（CET）、日本で11件目の世界遺産として登録が決定され、12月2日に登録された。 なお、各グスクの登録の名称は下記のとおり「じょうあと」で、「ぐすくあと」、「じょうせき」とはしていない。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Shuri%20Castle16s5s3200.jpg?width=1280",
+   "title": "Naha Shuri Castle16s5s3200.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Naha%20Shuri%20Castle16s5s3200.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_972.jpg",
+   "title": "Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/972",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/972",
+ "transport": {
+  "airports": [
+   {
+    "name": "Naha International Airport",
+    "iata": "OKA",
+    "city": "Naha",
+    "country": "JP",
+    "lat": 26.192437,
+    "lon": 127.639804,
+    "type": "large_airport",
+    "distance_km": 4.7
+   },
+   {
+    "name": "Aguni Airport",
+    "iata": "AGJ",
+    "city": "Aguni",
+    "country": "JP",
+    "lat": 26.592755,
+    "lon": 127.240335,
+    "type": "small_airport",
+    "distance_km": 61.4
+   },
+   {
+    "name": "Kumejima Airport",
+    "iata": "UEO",
+    "city": "Kumejima",
+    "country": "JP",
+    "lat": 26.363445,
+    "lon": 126.71384,
+    "type": "medium_airport",
+    "distance_km": 98.1
+   }
+  ],
+  "nearest_airport_km": 4.7,
+  "distance_beijing_km": 1852.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 27
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/972"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gusuku%20Sites%20and%20Related%20Properties%20of%20the%20Kingdom%20of%20Ryukyu"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

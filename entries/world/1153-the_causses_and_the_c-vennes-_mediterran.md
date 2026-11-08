@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(v)"
 lat: 44.2203
 lon: 3.4731
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:42Z"
 ---
 
 # 喀斯和塞文--地中海农牧文化景观 / The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape

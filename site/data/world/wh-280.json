@@ -1,0 +1,162 @@
+{
+ "id": "wh-280",
+ "unesco_id": "280",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 597,
+ "popularity_score": 10005,
+ "country": "CD",
+ "country_zh": "刚果民主共和国",
+ "country_en": "Democratic Republic of the Congo",
+ "countries": [
+  {
+   "iso2": "CD",
+   "zh": "刚果民主共和国",
+   "en": "Democratic Republic of the Congo"
+  }
+ ],
+ "region": "Provinces of Equateur, Bandundu and Kasaï Oriental and Occidental",
+ "subdivision_iso": "CD-BN",
+ "subdivision_zh": "班顿杜省",
+ "subdivision_en": "Bandundu Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨隆加国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Salonga National Park",
+ "name_local": "Parc national de la Salonga",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "280-salonga_national_park",
+ "lat": -2.0,
+ "lon": 21.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "萨隆加国家公园是非洲最大的热带雨林保护区，处在刚果河流域的中心位置。公园与世隔绝，只可从水路进入。公园有许多当地的濒危物种，如矮黑猩猩、刚果孔雀、雨林象,以及一种口鼻部细长的被称为“假”( false)鳄鱼的非洲动物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Salonga National Park is Africa's largest tropical rainforest reserve. Situated at the heart of the central basin of the Congo river, the park is very isolated and accessible only by water. It is the habitat of many endemic endangered species, such as the dwarf chimpanzee, the Congo peacock, the forest elephant and the African slender-snouted or 'false' crocodile.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Au cœur du bassin central du fleuve Congo, ce parc est la plus grande réserve de forêt tropicale pluviale, très isolée et accessible seulement par voie d'eau. C'est l'habitat de plusieurs espèces endémiques menacées, comme le chimpanzé nain, le paon du Congo, l'éléphant de forêt et le gavial africain, ou « faux crocodile ».",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20rivi%C3%A8re%20Lulilaka%2C%20parc%20national%20de%20Salonga%2C%202005.jpg?width=1280",
+   "title": "La rivière Lulilaka, parc national de Salonga, 2005.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:La%20rivi%C3%A8re%20Lulilaka%2C%20parc%20national%20de%20Salonga%2C%202005.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_280.jpg",
+   "title": "Salonga National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/280",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/280",
+ "transport": {
+  "airports": [
+   {
+    "name": "Boende Airport",
+    "iata": "BNB",
+    "city": "Boende",
+    "country": "CD",
+    "lat": -0.286652,
+    "lon": 20.883551,
+    "type": "small_airport",
+    "distance_km": 191.0
+   },
+   {
+    "name": "Ilebo Airport",
+    "iata": "PFR",
+    "city": "Ilebo",
+    "country": "CD",
+    "lat": -4.329919,
+    "lon": 20.590124,
+    "type": "small_airport",
+    "distance_km": 263.0
+   },
+   {
+    "name": "Inongo Airport",
+    "iata": "INO",
+    "city": "Inongo",
+    "country": "CD",
+    "lat": -1.94722,
+    "lon": 18.285801,
+    "type": "small_airport",
+    "distance_km": 301.7
+   }
+  ],
+  "nearest_airport_km": 191.0,
+  "distance_beijing_km": 10512.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CD",
+  "country_zh": "刚果民主共和国",
+  "country_en": "Democratic Republic of the Congo",
+  "status": "evisa",
+  "days": 7,
+  "requirement": "eVisa[6][42]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CD",
+   "country_zh": "刚果民主共和国",
+   "country_en": "Democratic Republic of the Congo",
+   "status": "evisa",
+   "days": 7,
+   "requirement": "eVisa[6][42]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 55
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/280"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Salonga%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

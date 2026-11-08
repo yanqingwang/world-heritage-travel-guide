@@ -1,0 +1,162 @@
+{
+ "id": "wh-732",
+ "unesco_id": "732",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1142,
+ "popularity_score": null,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "City and District of Kutná Hora, Central Bohemian Region",
+ "subdivision_iso": "CZ-205",
+ "subdivision_zh": "庫特納霍拉縣",
+ "subdivision_en": "Kutná Hora District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "库特纳霍拉历史名城中心的圣巴拉巴教堂及塞德莱茨的圣母玛利亚大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "732-kutná_hora:_historical_town_centre_with_",
+ "lat": 49.95,
+ "lon": 15.26666667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "库特纳霍拉(Kutná Hora)是随银矿的开采而发展起来的。14世纪时，这里是一座皇城，城中的许多建筑都代表了其曾经的繁荣兴盛。圣芭芭拉教堂(Church of St Barbara)，是代表晚期哥特式建筑风格的一颗璀璨明珠，而塞得莱茨(Sedlec)的圣母玛利亚大教堂(the Cathedral of Our Lady)又保留了18世纪早期巴洛克风格，这些都影响了中欧的建筑风格。这些建筑杰作同城中一些精致的私人宅邸一起，向我们展现了一幅保存完好的中世纪都市画面。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Kutná Hora developed as a result of the exploitation of the silver mines. In the 14th century it became a royal city endowed with monuments that symbolized its prosperity. The Church of St Barbara, a jewel of the late Gothic period, and the Cathedral of Our Lady at Sedlec, which was restored in line with the Baroque taste of the early 18th century, were to influence the architecture of central Europe. These masterpieces today form part of a well-preserved medieval urban fabric with some particularly fine private dwellings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kutn%C3%A1%20Hora%20-%20panoramio.jpg?width=1280",
+   "title": "Kutná Hora - panoramio.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kutn%C3%A1%20Hora%20-%20panoramio.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_732.jpg",
+   "title": "Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/732",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/732",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pardubice Airport",
+    "iata": "PED",
+    "city": "Pardubice",
+    "country": "CZ",
+    "lat": 50.015049,
+    "lon": 15.73981,
+    "type": "large_airport",
+    "distance_km": 34.6
+   },
+   {
+    "name": "Václav Havel Airport Prague",
+    "iata": "PRG",
+    "city": "Prague",
+    "country": "CZ",
+    "lat": 50.100874,
+    "lon": 14.259911,
+    "type": "large_airport",
+    "distance_km": 73.8
+   },
+   {
+    "name": "České Budějovice South Bohemian Airport",
+    "iata": "JCL",
+    "city": "České Budějovice",
+    "country": "CZ",
+    "lat": 48.948171,
+    "lon": 14.42832,
+    "type": "large_airport",
+    "distance_km": 126.8
+   }
+  ],
+  "nearest_airport_km": 34.6,
+  "distance_beijing_km": 7380.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/732"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

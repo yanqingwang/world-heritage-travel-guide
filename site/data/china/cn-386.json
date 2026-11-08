@@ -1,0 +1,212 @@
+{
+ "id": "cn-386",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "安阳市",
+ "city_en": "Anyang",
+ "name_zh": "安阳市殷墟景区",
+ "name_en": "Yinxu",
+ "name_en_source": "wikipedia",
+ "slug": "anyangshiyinxu-386",
+ "lat": 36.148807,
+ "lon": 114.31621,
+ "address_zh": "河南省安阳市",
+ "address_en": "Anyang City, Henan Province",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "世界文化遗产河南安阳殷墟景区位于中国历史文化名城安阳西北郊。安阳殷墟是中国商代晚期的都城，也是中国历史上第一个有文献可考并为甲骨文和考古发掘所证实的古代都城遗址，距今已有3300年的历史。殷墟规模巨大，范围广阔，长约6公里，宽约5公里，总面积约24平方公里。现存有宫殿宗庙区、王陵区、后冈遗址和众多聚落遗址（族邑）、家族墓地群、甲骨窖穴、铸铜遗址、制玉、制骨作坊等众多遗迹。",
+ "intro_en": "Yinxu (Mandarin pronunciation: [ín.ɕý]; Chinese: 殷墟; lit. 'Ruins of Yin') is a Chinese archeological site corresponding to Yin, the final capital of the Shang dynasty (c. 1600 – c. 1046 BCE). Located in present-day Anyang, Henan, Yin served as the capital during the Late Shang period (c. 1250 – c. 1046 BCE) which spanned the reigns of 12 Shang kings and saw the emergence of oracle bone script, the earliest known Chinese writing. Along with oracle bone script and other material evidence for the Shang's existence, the site was forgotten for millennia. Its rediscovery in 1899 resulted from an investigation into oracle bones that were discovered being sold nearby. The rediscovery of Yinxu marked the beginning of decades of intensive excavation and study. It is one of China's oldest and largest archeological sites, and was selected by UNESCO as a World Heritage Site in 2006. Yinxu is located in northern Henan, near modern Anyang and the borders Henan shares with Hebei and Shanxi. Public access to the site is permitted.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/26120-Anyang_%2849086436522%29.jpg/1280px-26120-Anyang_%2849086436522%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "26120-Anyang (49086436522).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "26120-Anyang",
+   "source": "https://commons.wikimedia.org/wiki/File:26120-Anyang_%2849086436522%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/26115-Anyang_%2849085353956%29.jpg/1280px-26115-Anyang_%2849085353956%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "26115-Anyang (49085353956).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "26115-Anyang",
+   "source": "https://commons.wikimedia.org/wiki/File:26115-Anyang_%2849085353956%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/26202-Anyang_%2849086223796%29.jpg/1280px-26202-Anyang_%2849086223796%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "26202-Anyang (49086223796).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "26202-Anyang",
+   "source": "https://commons.wikimedia.org/wiki/File:26202-Anyang_%2849086223796%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Sias_Foreign_Faculty_at_Yinxu_%28Yin_Ruins%29_%2831997757418%29.jpg/1280px-Sias_Foreign_Faculty_at_Yinxu_%28Yin_Ruins%29_%2831997757418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sias Foreign Faculty at Yinxu (Yin Ruins) (31997757418).jpg",
+   "author": "Gary Todd from Xinzheng, China",
+   "license": "CC0",
+   "credit": "Sias Foreign Faculty at Yinxu (Yin Ruins)",
+   "source": "https://commons.wikimedia.org/wiki/File:Sias_Foreign_Faculty_at_Yinxu_%28Yin_Ruins%29_%2831997757418%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Yinxu_Royal_Tombs_%2853565246028%29.jpg/1280px-Yinxu_Royal_Tombs_%2853565246028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yinxu Royal Tombs (53565246028).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "Yinxu Royal Tombs",
+   "source": "https://commons.wikimedia.org/wiki/File:Yinxu_Royal_Tombs_%2853565246028%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Anyang Hongqiqu Airport",
+    "iata": "HQQ",
+    "city": "Anyang",
+    "country": "CN",
+    "lat": 35.870833,
+    "lon": 114.461944,
+    "type": "small_airport",
+    "distance_km": 33.6
+   },
+   {
+    "name": "Handan Airport",
+    "iata": "HDG",
+    "city": "Handan",
+    "country": "CN",
+    "lat": 36.524824,
+    "lon": 114.424126,
+    "type": "medium_airport",
+    "distance_km": 42.9
+   },
+   {
+    "name": "Changzhi Wangcun Airport",
+    "iata": "CIH",
+    "city": "Changzhi",
+    "country": "CN",
+    "lat": 36.247501,
+    "lon": 113.125999,
+    "type": "small_airport",
+    "distance_km": 107.4
+   }
+  ],
+  "nearest_airport_km": 33.6,
+  "high_speed_stations": [
+   {
+    "name": "安阳东",
+    "name_en": null,
+    "lat": 36.0841487,
+    "lon": 114.4479583,
+    "distance_km": 13.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "柏庄",
+    "name_en": null,
+    "lat": 36.1916172,
+    "lon": 114.3318278,
+    "distance_km": 5.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "安阳",
+    "name_en": "Anyang",
+    "lat": 36.104595,
+    "lon": 114.3343235,
+    "distance_km": 5.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "安阳西",
+    "name_en": "Anyangxi",
+    "lat": 36.1158044,
+    "lon": 114.2615992,
+    "distance_km": 6.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "安阳世贸中心美居酒店",
+   "name_en": "Mercure",
+   "stars": 4,
+   "brand": "美居酒店",
+   "lat": 36.070369,
+   "lon": 114.3813288,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Angang Hotel",
+   "name_en": "Angang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.1131258,
+   "lon": 114.2823028,
+   "distance_km": 5.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "安阳宾馆",
+   "name_en": "Anyang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 36.1052643,
+   "lon": 114.3460572,
+   "distance_km": 5.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/殷墟"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

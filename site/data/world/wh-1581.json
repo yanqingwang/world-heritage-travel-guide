@@ -1,0 +1,161 @@
+{
+ "id": "wh-1581",
+ "unesco_id": "1581",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 871,
+ "popularity_score": 322,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-NOR",
+ "subdivision_zh": "诺曼底大区",
+ "subdivision_en": "Normandy",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "1944年诺曼底登陆海滩",
+ "name_zh_source": "unesco_official",
+ "name_en": "Beaches of the D-Day Landings, Normandy, 1944",
+ "name_local": "Les Plages du Débarquement, Normandie, 1944",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1581-beaches_of_the_d-day_landings,_normandy,",
+ "lat": 49.37085,
+ "lon": -0.87959,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该系列遗产沿诺曼底海岸绵延约80公里，由6个部分构成，包括犹他（Utah）、奥马哈（Omaha）、黄金（Gold）、朱诺（Juno）、宝剑（Sword）等海滩以及奥克角（Pointe du Hoc）。这些地点与1944年6月6日盟军登陆行动直接相关。这场作为“霸王行动”（Operation Overlord）开端的登陆战，标志着第二次世界大战期间西欧摆脱纳粹占领、走向解放的开始。遗产保存了德国“大西洋壁垒”防御体系的重要遗存，包括穹窖、炮兵阵地、火力控制哨和防御据点，同时还保留了战场遗迹、原始战时装备以及包括滨海科勒维尔美国公墓（Colleville-sur-Mer American Cemetery）在内的重要纪念景观。这些要素共同构成一处独特的文化景观，既见证了1944年的历史事件，也体现后世对这些事件持续不断的纪念。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The serial property comprises six component parts along approximately 80 km of the Normandy coastline, encompassing Utah, Omaha, Gold, Juno, and Sword Beaches, as well as Pointe du Hoc. These sites are directly associated with the Allied landings of 6 June 1944, the opening phase of Operation Overlord, which marked the beginning of the liberation of Western Europe from Nazi occupation during the Second World War. The property preserves significant remains of the German Atlantic Wall, including casemates, artillery batteries, fire‑control posts, and resistance nests, alongside battlefield traces, original wartime equipment, and major commemorative landscapes such as the American Cemetery at Colleville‑sur‑Mer. Together, these elements form an exceptional cultural landscape shaped both by the events of 1944 and by their enduring remembrance.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le bien en série est composé de six éléments constitutifs, s'étendant environ sur quatre-vingts kilomètres de littoral le long de la baie de Seine, et comprend Utah Beach, Omaha Beach, Gold Beach, Juno Beach et Sword Beach, ainsi que le site d'assaut de la Pointe du Hoc. Ces sites sont associés au Débarquement Allié du 6 juin 1944, phase initiale de l'opération Overlord, qui visait à libérer l'Europe occidentale de l'occupation par l'Allemagne nazie pendant la Seconde Guerre mondiale. Le bien conserve des éléments du Mur de l'Atlantique allemand, dont des casemates, des batteries d'artillerie, des postes de direction de tir et des « nids de résistance », ainsi que des vestiges du champ de bataille, des équipements d'origine et d'importants sites et monuments commémoratifs, en particulier le cimetière américain de Colleville-sur-Mer. Ensemble, ces éléments forment une série de sites façonnés par les évènements de 1944 et leur commémoration ultérieure.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9morial%20omaha%20beach%2C%20plage%20de%20normandie.jpg?width=1280",
+   "title": "Mémorial omaha beach, plage de normandie.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9morial%20omaha%20beach%2C%20plage%20de%20normandie.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1581.jpg",
+   "title": "Beaches of the D-Day Landings, Normandy, 1944",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1581",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1581",
+ "transport": {
+  "airports": [
+   {
+    "name": "Caen Carpiquet airport",
+    "iata": "CFR",
+    "city": "Caen",
+    "country": "FR",
+    "lat": 49.17678,
+    "lon": -0.454883,
+    "type": "medium_airport",
+    "distance_km": 37.6
+   },
+   {
+    "name": "Deauville Normandie airport",
+    "iata": "DOL",
+    "city": "Deauville",
+    "country": "FR",
+    "lat": 49.365237,
+    "lon": 0.154481,
+    "type": "medium_airport",
+    "distance_km": 74.9
+   },
+   {
+    "name": "Jersey Airport",
+    "iata": "JER",
+    "city": "St. Peter",
+    "country": "JE",
+    "lat": 49.207901,
+    "lon": -2.19551,
+    "type": "medium_airport",
+    "distance_km": 97.1
+   }
+  ],
+  "nearest_airport_km": 37.6,
+  "distance_beijing_km": 8332.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 7
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1581"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/D-Day%20beaches"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

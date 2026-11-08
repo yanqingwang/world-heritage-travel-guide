@@ -1,0 +1,159 @@
+{
+ "id": "cn-319",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "阿拉尔市",
+ "city_en": "Alaer City",
+ "name_zh": "兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区",
+ "name_en": "Aral, Xinjiang",
+ "name_en_source": "wikipedia",
+ "slug": "bingtuanalaershitakelamagan-sanwujiulv-319",
+ "lat": 40.54896,
+ "lon": 81.281538,
+ "address_zh": "新疆维吾尔自治区阿拉尔市",
+ "address_en": "Alar City, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "red",
+ "category_zh": "红色旅游",
+ "category_en": "Red tourism",
+ "intro_zh": "阿拉尔市塔克拉玛干·三五九旅文化旅游区，是以三五九旅屯垦纪念馆为核心，展示兵团屯垦戍边红色文化以及接受爱国主义教育，了解阿拉尔市以及兵团建设成就的一个窗口，也是新疆建设兵团重要的红色旅游基地。其中纪念馆是为纪念1950年挺进新疆、解放新疆的新疆军区农业建设第一师而建。",
+ "intro_en": "Aral (Uyghur: ئارال), also known as Alar (Chinese: 阿拉尔), is a sub-prefecture-level city surrounded by Aksu Prefecture in Xinjiang Uyghur Autonomous Region, China. Aral means \"island\" in Uyghur. Aral is the headquarter of the 1st Division of Xinjiang Production and Construction Corps and currently administered by the 1st Division. Aral implemented the \"division and city integration\" (师市合一, shī shì héyī) management system and shares the same leader group with the 1st Division.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/20231216_G217_Highway_in_Aral_01.jpg/1280px-20231216_G217_Highway_in_Aral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20231216 G217 Highway in Aral 01.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20231216_G217_Highway_in_Aral_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/20231216_G580_Highway_near_Aral_05.jpg/1280px-20231216_G580_Highway_near_Aral_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20231216 G580 Highway near Aral 05.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20231216_G580_Highway_near_Aral_05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/20231216_Road_from_Aksu_to_Aral.jpg/1280px-20231216_Road_from_Aksu_to_Aral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20231216 Road from Aksu to Aral.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20231216_Road_from_Aksu_to_Aral.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/20231216_Tarim_River_in_Aral_01.jpg/1280px-20231216_Tarim_River_in_Aral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20231216 Tarim River in Aral 01.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20231216_Tarim_River_in_Aral_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/20231216_Tarim_River_in_Aral_02.jpg/1280px-20231216_Tarim_River_in_Aral_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20231216 Tarim River in Aral 02.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20231216_Tarim_River_in_Aral_02.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Aral Tarim Airport",
+    "iata": "ACF",
+    "city": "Aral",
+    "country": "CN",
+    "lat": 40.434748,
+    "lon": 81.26206,
+    "type": "small_airport",
+    "distance_km": 12.8
+   },
+   {
+    "name": "Aksu Hongqipo Airport",
+    "iata": "AKU",
+    "city": "Aksu (Onsu)",
+    "country": "CN",
+    "lat": 41.262501,
+    "lon": 80.291702,
+    "type": "medium_airport",
+    "distance_km": 115.0
+   },
+   {
+    "name": "Kuqa Qiuci Airport",
+    "iata": "KCA",
+    "city": "Kuqa",
+    "country": "CN",
+    "lat": 41.677856,
+    "lon": 82.872917,
+    "type": "small_airport",
+    "distance_km": 183.1
+   }
+  ],
+  "nearest_airport_km": 12.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "阿拉尔",
+    "name_en": null,
+    "lat": 40.5537802,
+    "lon": 81.2082061,
+    "distance_km": 6.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "塔门",
+    "name_en": null,
+    "lat": 40.6174543,
+    "lon": 80.8848207,
+    "distance_km": 34.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/阿拉尔市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

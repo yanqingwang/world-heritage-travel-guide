@@ -1,0 +1,162 @@
+{
+ "id": "wh-664",
+ "unesco_id": "664",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1128,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Badajoz, Autonomous Community of Extremadura",
+ "subdivision_iso": "ES-BA",
+ "subdivision_zh": "巴达霍斯省",
+ "subdivision_en": "Province of Badajoz",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "梅里达考古群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Ensemble of Mérida",
+ "name_local": "Conjunto arqueológico de Mérida",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "664-archaeological_ensemble_of_mérida",
+ "lat": 38.91597,
+ "lon": -6.33869,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "今天位于埃斯特雷马杜拉的梅里达是于公元前25年西班牙战役结束后建立的，当时是罗马皇帝奥古斯都的殖民地，也是卢西塔尼亚的首都。旧城遗址迄今完好，其中特别著名的有瓜迪亚纳河上的大桥、圆形阶梯剧场、剧院、大马戏场和先进的供水系统。梅里达城是古罗马帝国时期以及后来的很长一段时间内外省首府建设的杰出典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The colony of Augusta Emerita, which became present-day Mérida in Estremadura, was founded in 25 B.C. at the end of the Spanish Campaign and was the capital of Lusitania. The well-preserved remains of the old city include, in particular, a large bridge over the Guadiana, an amphitheatre, a theatre, a vast circus and an exceptional water-supply system. It is an excellent example of a provincial Roman capital during the empire and in the years afterwards.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Los orígenes de la ciudad extremeña de Mérida se remontan al año 25 a.C., cuando Augusto, al final de su campaña en Hispania, fundó la colonia Emérita Augusta, que más tarde se convertiría en capital de la provincia romana de Lusitania. Los vestigios de la ciudad romana antigua, completos y bien conservados, comprenden un gran puente sobre el río Guadiana, un anfiteatro, un teatro, un amplio circo y un extraordinario sistema de abastecimiento de agua. Este conjunto arqueológico ofrece un excelente ejemplo de lo que fue la capital de una provincia romana en la época imperial.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20acueducto%20de%20Los%20Milagros.jpg?width=1280",
+   "title": "El acueducto de Los Milagros.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:El%20acueducto%20de%20Los%20Milagros.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_664.jpg",
+   "title": "Archaeological Ensemble of Mérida",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/664",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/664",
+ "transport": {
+  "airports": [
+   {
+    "name": "Badajoz Airport",
+    "iata": "BJZ",
+    "city": "Badajoz",
+    "country": "ES",
+    "lat": 38.8913,
+    "lon": -6.82133,
+    "type": "medium_airport",
+    "distance_km": 41.9
+   },
+   {
+    "name": "Seville Airport",
+    "iata": "SVQ",
+    "city": "Seville",
+    "country": "ES",
+    "lat": 37.417999,
+    "lon": -5.89311,
+    "type": "large_airport",
+    "distance_km": 171.1
+   },
+   {
+    "name": "Córdoba Airport",
+    "iata": "ODB",
+    "city": "Córdoba",
+    "country": "ES",
+    "lat": 37.841999,
+    "lon": -4.84888,
+    "type": "medium_airport",
+    "distance_km": 176.4
+   }
+  ],
+  "nearest_airport_km": 41.9,
+  "distance_beijing_km": 9520.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 10
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/664"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

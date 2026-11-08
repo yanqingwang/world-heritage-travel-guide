@@ -1,0 +1,234 @@
+{
+ "id": "cn-1177",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖南省",
+ "province_en": "Hunan",
+ "province_iso": "CN-HN",
+ "city_zh": "岳阳市",
+ "city_en": "Yueyang City",
+ "name_zh": "岳阳市岳阳楼-君山岛景区",
+ "name_en": "Yueyang Tower",
+ "name_en_source": "wikipedia",
+ "slug": "yueyangshiyueyangloujunshandao-1177",
+ "lat": 29.383944,
+ "lon": 113.101191,
+ "address_zh": "湖南省岳阳市岳阳楼区洞庭北路60号",
+ "address_en": "No. 60, Dongting North Road, Yueyanglou District, Yueyang City, Hunan Province",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "岳阳楼位于湖南省岳阳市古城西门城墙之上，下瞰洞庭，前望君山，有“洞庭天下水，岳阳天下楼”之美誉。君山岛古称洞庭山、湘山、有缘山，是八百里洞庭湖中的一个小岛，与千古名楼岳阳楼遥遥相对。",
+ "intro_en": "The Yueyang Tower is located on the west gate wall of the ancient city of Yueyang City, Hunan Province. It overlooks the Dongting below and Junshan in front. It has the reputation of \"water is in the world in Dongting, and the tower is in the sky in Yueyang\". Junshan Island, known as Dongting Mountain, Xiang Mountain, and Youyuan Mountain in ancient times, is a small island in the 800-mile Dongting Lake, far opposite the Yueyang Tower, a famous tower through the ages.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Frontal_view_of_Yueyang_Tower%2C_Hunan%2C_China1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Frontal view of Yueyang Tower, Hunan, China1.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Frontal_view_of_Yueyang_Tower%2C_Hunan%2C_China1.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/211905-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "211905-1.jpg",
+   "author": "",
+   "license": "CC BY-SA 3.0",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:211905-1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Yueyang_Tower%2C_photographed_from_the_side.jpg/1280px-Yueyang_Tower%2C_photographed_from_the_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yueyang Tower, photographed from the side.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yueyang_Tower%2C_photographed_from_the_side.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Yueyang_Tower_in_1804.jpg/1280px-Yueyang_Tower_in_1804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yueyang Tower in 1804.jpg",
+   "author": "陈玉垣、庄绳武",
+   "license": "Public domain",
+   "credit": "清嘉庆九年（1804）《巴陵县志》",
+   "source": "https://commons.wikimedia.org/wiki/File:Yueyang_Tower_in_1804.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Zhanyue_Gate%2C_Yueyang_Tower_2016110601.jpg/1280px-Zhanyue_Gate%2C_Yueyang_Tower_2016110601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zhanyue Gate, Yueyang Tower 2016110601.jpg",
+   "author": "Huangdan2060",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Zhanyue_Gate%2C_Yueyang_Tower_2016110601.jpg"
+  }
+ ],
+ "web": "http://www.yyljsd.com/",
+ "booking": "http://www.yyljsd.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yueyang Sanhe Airport",
+    "iata": "YYA",
+    "city": "Yueyang (Yueyanglou)",
+    "country": "CN",
+    "lat": 29.311699,
+    "lon": 113.281574,
+    "type": "medium_airport",
+    "distance_km": 19.2
+   },
+   {
+    "name": "Jingzhou Shashi Airport",
+    "iata": "SHS",
+    "city": "Jingzhou (Shashi)",
+    "country": "CN",
+    "lat": 30.29281,
+    "lon": 112.44854,
+    "type": "medium_airport",
+    "distance_km": 119.1
+   },
+   {
+    "name": "Changsha Huanghua International Airport",
+    "iata": "CSX",
+    "city": "Changsha (Changsha)",
+    "country": "CN",
+    "lat": 28.189199,
+    "lon": 113.220001,
+    "type": "large_airport",
+    "distance_km": 133.4
+   }
+  ],
+  "nearest_airport_km": 19.2,
+  "high_speed_stations": [
+   {
+    "name": "岳阳东",
+    "name_en": "Yueyang East",
+    "lat": 29.3689598,
+    "lon": 113.2023195,
+    "distance_km": 9.9,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "岳阳",
+    "name_en": "Yueyang",
+    "lat": 29.3793016,
+    "lon": 113.1140722,
+    "distance_km": 1.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南津港",
+    "name_en": null,
+    "lat": 29.3666546,
+    "lon": 113.0889444,
+    "distance_km": 2.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "岳阳北",
+    "name_en": "Yueyangbei",
+    "lat": 29.4004124,
+    "lon": 113.1509612,
+    "distance_km": 5.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "汉森宾馆",
+   "name_en": "Hansen hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.3761314,
+   "lon": 113.0901029,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "国贸大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3683013,
+   "lon": 113.1126207,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "阿波罗御庭酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3470633,
+   "lon": 113.1097799,
+   "distance_km": 4.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "南湖宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3416196,
+   "lon": 113.1103721,
+   "distance_km": 4.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "岳阳汇佳山庄",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.4379884,
+   "lon": 113.1517044,
+   "distance_km": 7.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 7,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/岳阳楼"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

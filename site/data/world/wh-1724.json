@@ -1,0 +1,162 @@
+{
+ "id": "wh-1724",
+ "unesco_id": "1724",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 694,
+ "popularity_score": 6039,
+ "country": "AE",
+ "country_zh": "阿拉伯联合酋长国",
+ "country_en": "United Arab Emirates",
+ "countries": [
+  {
+   "iso2": "AE",
+   "zh": "阿拉伯联合酋长国",
+   "en": "United Arab Emirates"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "AE-FU",
+ "subdivision_zh": "富查伊拉酋长国",
+ "subdivision_en": "Emirate of Fujairah",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦迪乌拉亚",
+ "name_zh_source": "unesco_official",
+ "name_en": "Wadi Wurayah",
+ "name_local": "وادي الوريعة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1724-wadi_wurayah",
+ "lat": 25.4226,
+ "lon": 56.36346,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "瓦迪乌拉亚（Wadi Wurayah）全境位于富查伊拉酋长国的哈杰尔山脉。地质方面，哈杰尔山脉保存大量形成于晚白垩世板块构造活动的完好蛇绿岩序列露头；生态方面，遗产地位于哈杰尔山麓旱生疏林和灌丛带内，以生态独特性、物种多样性和特有性而著称。瓦迪乌拉亚已记录1099种生物，其中动物883种、植物216种，包括至少10种全球受威胁物种。它们约占到阿联酋陆生哺乳动物物种数量的一半，以及陆生爬行动物物种数量的近一半。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property is located entirely within the Hajar mountain range in the Emirate of Fujairah. Geologically, the Hajar Mountains represent extensive and well-preserved exposures of ophiolite sequences, formed during Late Cretaceous tectonic processes. Ecologically, the property is situated within the Al Hajar Foothill Xeric Woodlands and Shrublands, recognised for its ecological distinctiveness, high species richness, and significant levels of endemism. Wadi Wurayah hosts 1,099 recorded species (883 fauna and 216 flora), including at least ten globally threatened species. These represent approximately half of the terrestrial mammal species and nearly half of the terrestrial reptile species recorded in the country.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يقع هذا الموقع بالكامل ضمن سلسلة جبال الحجر في إمارة الفجيرة. وتمثِّل جبال الحجر، من الناحية الجيولوجية، مساحات واسعة ومحفوظة جيداً من تسلسلات الأوفيوليت، التي تشكَّلت خلال العمليات التكتونية في أواخر العصر الطباشيري. أما من الناحية الإيكولوجية، فيقع هذا الموقع ضمن الغابات والشجيرات المنتشرة على سفوح جبال الحجر القاحلة، المعروفة بتميزها الإيكولوجي وغناها الكبير بأنواع الكائنات الحية ومستويات التوطن العالية. ويؤوي وادي الوريعة 1,099 نوعاً مسجلاً من الكائنات الحية (883 نوعاً من الحيوانات و216 نوعاً من النباتات)، بما في ذلك ما لا يقل عن عشرة أنواع مهددة بالانقراض على الصعيد العالمي. وتمثل هذه الأنواع نصف أنواع الثدييات البرية تقريباً ونحو نصف أنواع الزواحف البرية المسجلة في هذا البلد.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wadi%20Wurayah%20-%20Lower%20course%2C%20just%20before%20the%20dam%20-%201.jpg?width=1280",
+   "title": "Wadi Wurayah - Lower course, just before the dam - 1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Wadi%20Wurayah%20-%20Lower%20course%2C%20just%20before%20the%20dam%20-%201.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1724.jpg",
+   "title": "Wadi Wurayah",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1724",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1724",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fujairah International Airport",
+    "iata": "FJR",
+    "city": "Fujairah",
+    "country": "AE",
+    "lat": 25.108411,
+    "lon": 56.328061,
+    "type": "large_airport",
+    "distance_km": 35.1
+   },
+   {
+    "name": "Ras Al Khaimah International Airport",
+    "iata": "RKT",
+    "city": "Ras Al Khaimah",
+    "country": "AE",
+    "lat": 25.613501,
+    "lon": 55.938801,
+    "type": "large_airport",
+    "distance_km": 47.6
+   },
+   {
+    "name": "Khasab Airport",
+    "iata": "KHS",
+    "city": "Khasab",
+    "country": "OM",
+    "lat": 26.171,
+    "lon": 56.240601,
+    "type": "medium_airport",
+    "distance_km": 84.1
+   }
+  ],
+  "nearest_airport_km": 35.1,
+  "distance_beijing_km": 5771.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AE",
+  "country_zh": "阿拉伯联合酋长国",
+  "country_en": "United Arab Emirates",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180 day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AE",
+   "country_zh": "阿拉伯联合酋长国",
+   "country_en": "United Arab Emirates",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180 day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1724"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wadi%20Wurayah"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

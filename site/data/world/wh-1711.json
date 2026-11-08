@@ -1,0 +1,162 @@
+{
+ "id": "wh-1711",
+ "unesco_id": "1711",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 542,
+ "popularity_score": 11900,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IN-AS",
+ "subdivision_zh": "阿萨姆邦",
+ "subdivision_en": "Assam",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿洪姆王朝的土丘墓葬系统（印度）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Moidams – the Mound-Burial System of the Ahom Dynasty",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "1711-moidams_–_the_mound-burial_system_of_the",
+ "lat": 26.943611111,
+ "lon": 94.875,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2024",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产地是阿洪姆（Ahom）王朝的皇陵，位于阿萨姆邦东部的巴特开山麓。在600年时间里，阿洪姆人利用山丘、森林、水域等自然地形建造土丘墓穴“马伊达姆”（moidam），赋予该地神圣的色彩。这里种植着榕树以及用于制作棺木和树皮手稿的树木，并筑有蓄水设施。遗址内分布着90座大小不一的马伊达姆，它们由砖、石、土砌成拱顶，内部为空心结构。墓穴中存放着国王和其他王室成员的遗骸，以及食物、马匹、大象等随葬品，有些还包括王后和仆人的遗骸。阿洪姆人的梅达梅菲和塔尔潘仪式至今仍在查莱第奥区的墓地举行。尽管这一墓葬系统也见于贾木纳河谷的其他地区，但该遗产地尤为突出。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Set in the foothills of the Patkai Ranges in eastern Assam, the property contains the royal necropolis of the Tai-Ahom. For 600 years, the Tai-Ahom created moidams (burial mounds) accentuating the natural topography of hills, forests and water, thus forming a sacred geography. Banyan trees and the trees used for coffins and bark manuscripts were planted and water bodies created. Ninety moidams – hollow vaults built of brick, stone or earth – of different sizes are found within the site. They contain the remains of kings and other royals together with grave goods such as food, horses and elephants, and sometimes queens and servants. The Tai-Ahom rituals of “Me-Dam-Me-Phi” and “Tarpan” are practiced at the Charaideo necropolis. While moidams are found in other areas within the Brahmaputra Valley, those found at the property are regarded as exceptional.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maidams%20%28N-AS-24%29.jpg?width=1280",
+   "title": "Maidams (N-AS-24).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Maidams%20%28N-AS-24%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1711.jpg",
+   "title": "Moidams – the Mound-Burial System of the Ahom Dynasty",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1711",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1711",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dibrugarh Airport",
+    "iata": "DIB",
+    "city": "Dibrugarh",
+    "country": "IN",
+    "lat": 27.4839000702,
+    "lon": 95.0168991089,
+    "type": "medium_airport",
+    "distance_km": 61.7
+   },
+   {
+    "name": "Jorhat Airport",
+    "iata": "JRH",
+    "city": "Jorhat",
+    "country": "IN",
+    "lat": 26.730456,
+    "lon": 94.175416,
+    "type": "medium_airport",
+    "distance_km": 73.3
+   },
+   {
+    "name": "Lilabari North Lakhimpur Airport",
+    "iata": "IXI",
+    "city": "Lilabari",
+    "country": "IN",
+    "lat": 27.295682,
+    "lon": 94.097266,
+    "type": "medium_airport",
+    "distance_km": 86.4
+   }
+  ],
+  "nearest_airport_km": 61.7,
+  "distance_beijing_km": 2425.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 23
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1711"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Moidam"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

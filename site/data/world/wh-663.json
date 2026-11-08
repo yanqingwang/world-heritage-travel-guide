@@ -1,0 +1,162 @@
+{
+ "id": "wh-663",
+ "unesco_id": "663",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 398,
+ "popularity_score": 20673,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "Ajigasawa-machi, Nishitsugaru-gun, Aomori Prefecture; Fukaura-machi, Nishitsugaru-gun, Aomori Prefecture; Nishimeya-mura, Nakatsugaru-gun, Aomori Prefecture; Fujisato-machi, Yamamoto-gun, Akita Prefecture",
+ "subdivision_iso": "JP-02",
+ "subdivision_zh": "青森县",
+ "subdivision_en": "Aomori Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "白神山地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Shirakami-Sanchi",
+ "name_local": "白神山地",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "663-shirakami-sanchi",
+ "lat": 40.450277777,
+ "lon": 140.198611111,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "白神山地位于北本州的群山中，该地区人迹罕至，保留了最后一个未被开发的寒带西博尔德毛榉树森林遗迹，西博尔德毛榉树曾经分布很广，几乎覆盖日本北部的所有丘陵和山坡。白神山地森林中还生活着黑熊、鬣羚和87种鸟类。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in the mountains of northern Honshu, this trackless site includes the last virgin remains of the cool-temperate forest of Siebold's beech trees that once covered the hills and mountain slopes of northern Japan. The black bear, the serow and 87 species of birds can be found in this forest.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "白神山地（しらかみさんち）は、青森県から秋田県にまたがる山地帯の総称。屋久島とならんで1993年（平成5年）12月、日本で初めてのユネスコ世界遺産（自然遺産）に登録された。そこには「人の影響をほとんど受けていない原生的なブナ天然林が世界最大級の規模で分布」（世界遺産登録理由）と記されている。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sirakami%20santi.JPG?width=1280",
+   "title": "Sirakami santi.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sirakami%20santi.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_663.jpg",
+   "title": "Shirakami-Sanchi",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/663",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/663",
+ "transport": {
+  "airports": [
+   {
+    "name": "Odate Noshiro Airport",
+    "iata": "ONJ",
+    "city": "Kitaakita",
+    "country": "JP",
+    "lat": 40.191898,
+    "lon": 140.371002,
+    "type": "medium_airport",
+    "distance_km": 32.2
+   },
+   {
+    "name": "Aomori Airport",
+    "iata": "AOJ",
+    "city": "Aomori",
+    "country": "JP",
+    "lat": 40.733777,
+    "lon": 140.689477,
+    "type": "large_airport",
+    "distance_km": 52.1
+   },
+   {
+    "name": "Akita Airport",
+    "iata": "AXT",
+    "city": "Akita",
+    "country": "JP",
+    "lat": 39.615601,
+    "lon": 140.218994,
+    "type": "medium_airport",
+    "distance_km": 92.8
+   }
+  ],
+  "nearest_airport_km": 32.2,
+  "distance_beijing_km": 2016.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/663"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shirakami-Sanchi"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

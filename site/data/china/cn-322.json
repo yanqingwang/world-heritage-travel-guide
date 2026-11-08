@@ -1,0 +1,168 @@
+{
+ "id": "cn-322",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "新疆维吾尔自治区",
+ "province_en": "Xinjiang",
+ "province_iso": "CN-XJ",
+ "city_zh": "克拉玛依市",
+ "city_en": "Kelamayi City",
+ "name_zh": "克拉玛依市世界魔鬼城景区",
+ "name_en": "Karamay",
+ "name_en_source": "wikipedia",
+ "slug": "kelamayishishijiemoguicheng-322",
+ "lat": 46.136384,
+ "lon": 85.754111,
+ "address_zh": "新疆维吾尔自治区克拉玛依市乌尔禾区龙脊路200号",
+ "address_en": "No. 200, Longji Road, Urho District, Karamay City, Xinjiang Uygur Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "克拉玛依市世界魔鬼城，又称乌尔禾风城，是在干旱、大风环境下形成的一种风蚀地貌类型。魔鬼城呈西北、东西走向，长宽约在5公里以上，方圆约10平方公里，地面海拔350米左右，城内形成了形态各异的风蚀岩群，其形状或如殿、台、阁、堡，或如人、禽、兽，蔚然壮观，神秘莫测，成为世界奇景之一。",
+ "intro_en": "Karamay (also spelled Karamai; Chinese: 克拉玛依, romanized: Kèlāmǎyī, Uyghur: قاراماي, romanized: Qaramay) is a prefecture-level city in the north of the Xinjiang Uyghur Autonomous Region, People's Republic of China. It is surrounded on all sides by Tacheng Prefecture. The name of the city comes from the Uyghur language and means \"black oil\", referring to the oil fields near the city. Karamay was the site of one of the worst disasters in modern Chinese history, the 1994 Karamay fire, when 324 people, including 288 school children, lost their lives in a cinema fire on 8 December 1994.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Karamay_river.jpg/1280px-Karamay_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Karamay river.jpg",
+   "author": "Rart",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Karamay_river.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Karamay_Cultural_Street1.jpg/1280px-Karamay_Cultural_Street1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Karamay Cultural Street1.jpg",
+   "author": "Rart",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Karamay_Cultural_Street1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Karamay_Cultural_Street2.jpg/1280px-Karamay_Cultural_Street2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Karamay Cultural Street2.jpg",
+   "author": "Rart",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Karamay_Cultural_Street2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Karamay_Dinosaur_Garden.jpg/1280px-Karamay_Dinosaur_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Karamay Dinosaur Garden.jpg",
+   "author": "Rart",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Karamay_Dinosaur_Garden.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Karamay_statue.jpg/1280px-Karamay_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Karamay statue.jpg",
+   "author": "Rart",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Karamay_statue.jpg"
+  }
+ ],
+ "web": "http://www.klmysjmgc.com/",
+ "booking": "http://www.klmysjmgc.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Karamay Airport",
+    "iata": "KRY",
+    "city": "Karamay",
+    "country": "CN",
+    "lat": 45.46655,
+    "lon": 84.9527,
+    "type": "small_airport",
+    "distance_km": 97.0
+   },
+   {
+    "name": "Zaysan Airport",
+    "iata": "SZI",
+    "city": "Zaysan",
+    "country": "KZ",
+    "lat": 47.487491,
+    "lon": 84.887675,
+    "type": "small_airport",
+    "distance_km": 164.1
+   },
+   {
+    "name": "Tacheng Qianquan Airport",
+    "iata": "TCG",
+    "city": "Tacheng",
+    "country": "CN",
+    "lat": 46.672501,
+    "lon": 83.340797,
+    "type": "small_airport",
+    "distance_km": 194.4
+   }
+  ],
+  "nearest_airport_km": 97.0,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "阿日德塞",
+    "name_en": null,
+    "lat": 46.1289431,
+    "lon": 86.0672164,
+    "distance_km": 24.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "玛纳斯湖",
+    "name_en": null,
+    "lat": 45.9115856,
+    "lon": 85.8756745,
+    "distance_km": 26.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "阿拉德",
+    "name_en": null,
+    "lat": 46.2471593,
+    "lon": 86.1577463,
+    "distance_km": 33.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/克拉玛依市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

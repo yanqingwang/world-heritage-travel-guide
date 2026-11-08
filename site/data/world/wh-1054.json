@@ -1,0 +1,162 @@
+{
+ "id": "wh-1054",
+ "unesco_id": "1054",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 633,
+ "popularity_score": 8071,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "Jawor and Świdnica counties, Lower Silesian (Dolnoslaskie) Voivodship",
+ "subdivision_iso": "PL-02",
+ "subdivision_zh": "下希隆斯克省",
+ "subdivision_en": "Lower Silesian Voivodeship",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "扎沃尔和思维得尼加的和平教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Churches of Peace in Jawor and Świdnica",
+ "name_local": "Kościoły Pokoju",
+ "local_lang": "pl",
+ "local_lang_name": "Polish",
+ "slug": "1054-churches_of_peace_in_jawor_and_świdnica",
+ "lat": 51.053914,
+ "lon": 16.189041,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "扎沃尔和思维得尼加的和平教堂是欧洲最大的木制结构宗教建筑，始建于17世纪中期的原西里西亚，当时正值威斯特伐利亚和平条约签订之后宗教运动兴起之时。由于受到物质和政治上的压制，和平教堂宣布接受人们对于宗教自由的要求，表达了路德教派的思想，这在当时以天主教为主的地区是很少见的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Churches of Peace in Jawor and Świdnica, the largest timber-framed religious buildings in Europe, were built in the former Silesia in the mid-17th century, amid the religious strife that followed the Peace of Westphalia. Constrained by the physical and political conditions, the Churches of Peace bear testimony to the quest for religious freedom and are a rare expression of Lutheran ideology in an idiom generally associated with the Catholic Church.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Kościoły Pokoju (niem. Friedenskirche) – trzy kościoły luterańskie wybudowane w latach 50. XVII wieku w wyniku wielostronnego układu kończącego wojnę trzydziestoletnią. Określenie Kościoły Pokoju nawiązuje do nazwy tego układu zwanego pokojem westfalskim. Istniejące do dziś kościoły w Świdnicy i Jaworze (województwo dolnośląskie) są największymi drewnianymi budowlami o funkcjach religijnych w Europie. W roku 2001 zostały one wpisane na listę światowego dziedzictwa UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swidnica-%20Kosciol%20Pokoju%2001.jpg?width=1280",
+   "title": "Swidnica- Kosciol Pokoju 01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Swidnica-%20Kosciol%20Pokoju%2001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1054.jpg",
+   "title": "Churches of Peace in Jawor and Świdnica",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1054",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1054",
+ "transport": {
+  "airports": [
+   {
+    "name": "Copernicus Wrocław Airport",
+    "iata": "WRO",
+    "city": "Wrocław",
+    "country": "PL",
+    "lat": 51.103719,
+    "lon": 16.882096,
+    "type": "large_airport",
+    "distance_km": 48.7
+   },
+   {
+    "name": "Pardubice Airport",
+    "iata": "PED",
+    "city": "Pardubice",
+    "country": "CZ",
+    "lat": 50.015049,
+    "lon": 15.73981,
+    "type": "large_airport",
+    "distance_km": 119.8
+   },
+   {
+    "name": "Zielona Góra-Babimost Airport",
+    "iata": "IEG",
+    "city": "Nowe Kramsko",
+    "country": "PL",
+    "lat": 52.1385,
+    "lon": 15.7986,
+    "type": "medium_airport",
+    "distance_km": 123.6
+   }
+  ],
+  "nearest_airport_km": 48.7,
+  "distance_beijing_km": 7245.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "pl",
+  "local_lang_name": "Polish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1054"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Churches%20of%20Peace"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

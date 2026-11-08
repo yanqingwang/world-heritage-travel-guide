@@ -1,0 +1,162 @@
+{
+ "id": "wh-1329",
+ "unesco_id": "1329",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 367,
+ "popularity_score": 23042,
+ "country": "SA",
+ "country_zh": "沙特阿拉伯",
+ "country_en": "Saudi Arabia",
+ "countries": [
+  {
+   "iso2": "SA",
+   "zh": "沙特阿拉伯",
+   "en": "Saudi Arabia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "SA-01",
+ "subdivision_zh": "利雅得省",
+ "subdivision_en": "Riyadh Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "德拉伊耶遗址的阿图赖夫区",
+ "name_zh_source": "unesco_official",
+ "name_en": "At-Turaif District in ad-Dir'iyah",
+ "name_local": "حي الطريف في الدرعية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1329-at-turaif_district_in_ad-dir'iyah",
+ "lat": 24.733333,
+ "lon": 46.575556,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)(vi)",
+ "year": "2010",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "此处遗址是沙特王朝的第一任首都所在地，位于阿拉伯半岛中部，利雅得西北部,始建于15世纪。这里仍然可以看到阿拉伯半岛中部特有的纳吉迪建筑风格。18 世纪期间及19世纪初，随着政治和宗教的作用加强，阿图赖夫区的城堡成为了沙特王室临时权力中心，以及穆斯林宗教内部传播瓦哈比教派改革的中心。这一遗址包括了许多宫殿遗迹和一处在德拉伊耶绿洲边缘兴建的城市区域。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This property was the first capital of the Saudi Dynasty, in the heart of the Arabian Peninsula, north-west of Riyadh. Founded in the 15th century, it bears witness to the Najdi architectural style, which is specific to the centre of the Arabian peninsula. In the 18th and early 19th century, its political and religious role increased, and the citadel at at-Turaif became the centre of the temporal power of the House of Saud and the spread of the S alafiyya reform inside the Muslim religion. The property includes the remains of many palaces and an urban ensemble built on the edge of the ad-Dir’iyah oasis.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "شكل هذا المكان الذي يقع في قلب شبه الجزيرة العربية، شمال غرب الرياض، أول عاصمة لأسرة آل سعود. ويحمل حي الطُّريف الذي أُسس في القرن الخامس عشر آثار الأسلوب المعماري النجدي الذي يتفرد به وسط شبه الجزيرة العربية. وتنامى في القرن الثامن عشر وبداية القرن التاسع عشر، الدور السياسي والديني لحي الطريف وأضحى مركزاً لسلطة آل سعود وانتشار الإصلاح السلفي في الإسلام. ويضم هذا الممتلك آثار الكثير من القصور، فضلاً عن مدينة بُنيت على ضفاف واحة الدرعية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/At-Turaif%20District%20in%20ad-Dir%27iyah%20%2812%29.jpg?width=1280",
+   "title": "At-Turaif District in ad-Dir'iyah (12).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:At-Turaif%20District%20in%20ad-Dir%27iyah%20%2812%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1329.jpg",
+   "title": "At-Turaif District in ad-Dir'iyah",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1329",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1329",
+ "transport": {
+  "airports": [
+   {
+    "name": "King Khalid International Airport",
+    "iata": "RUH",
+    "city": "Riyadh",
+    "country": "SA",
+    "lat": 24.9576,
+    "lon": 46.698799,
+    "type": "large_airport",
+    "distance_km": 27.9
+   },
+   {
+    "name": "Dawadmi Domestic Airport",
+    "iata": "DWD",
+    "city": "Dawadmi",
+    "country": "SA",
+    "lat": 24.4499,
+    "lon": 44.121201,
+    "type": "medium_airport",
+    "distance_km": 250.1
+   },
+   {
+    "name": "Al-Ahsa International Airport",
+    "iata": "HOF",
+    "city": "Hofuf",
+    "country": "SA",
+    "lat": 25.285299,
+    "lon": 49.485199,
+    "type": "large_airport",
+    "distance_km": 299.6
+   }
+  ],
+  "nearest_airport_km": 27.9,
+  "distance_beijing_km": 6596.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SA",
+  "country_zh": "沙特阿拉伯",
+  "country_en": "Saudi Arabia",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6][126]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SA",
+   "country_zh": "沙特阿拉伯",
+   "country_en": "Saudi Arabia",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6][126]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 11
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1329"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/At-Turaif%20District"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:45Z"
+}

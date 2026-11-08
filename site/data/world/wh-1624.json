@@ -1,0 +1,162 @@
+{
+ "id": "wh-1624",
+ "unesco_id": "1624",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 996,
+ "popularity_score": null,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PE-ANC",
+ "subdivision_zh": "安卡什大区",
+ "subdivision_en": "Áncash Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "长基罗天文古建遗址群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Chankillo Archaeoastronomical Complex",
+ "name_local": "Complejo arqueoastronómico de Chankillo",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1624-chankillo_archaeoastronomical_complex",
+ "lat": -9.5569,
+ "lon": -78.2359,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "2021",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "长基罗天文古建群史前遗址（公元前250-200年）位于秘鲁中北部海岸的卡斯马山谷，由沙漠中的一系列建筑组成。这些建筑与自然环境相结合，共同组成一套历法仪器，利用太阳来界定全年的日期。它包括一座有3层围墙的“设防神庙”山顶建筑群，2座被称为天文台和管理中心的建筑群，13座沿山脊排列的立方体塔状建筑，以及与13座塔互为补充、用作自然标记的穆乔马洛山（Cerro Mucho Malo）。仪式中心很可能专用于太阳崇拜，在13座塔南北线两侧各有一处观察点，全年都可以观测日出和日落点。该遗产地展现了一项伟大的创新，即利用太阳周期和人造水平仪来标记至点、二分点和一年中的其他日期，精确度为1-2天。因此，它代表着卡斯马山谷（Casma Valley）天文学实践的长期历史演变的顶点。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Chankillo Archaeoastronomical Complex is a prehistoric site (250-200 BC), located on the north-central coast of Peru, in the Casma Valley, comprising a set of constructions in a desert landscape that, together with natural features, functioned as a calendrical instrument, using the sun to define dates throughout the year. The site includes a triple-walled hilltop complex, known as the Fortified Temple, two building complexes called Observatory and Administrative Centre, a line of 13 cuboidal towers stretching along the ridge of a hill, and the Cerro Mucho Malo that complements the Thirteen Towers as a natural marker. The ceremonial centre was probably dedicated to a solar cult, and the presence of an observation point on either side of the north-south line of the Thirteen Towers allows the observation both of the solar rising and setting points throughout the whole year. The site shows great innovation by using the solar cycle and an artificial horizon to mark the solstices, the equinoxes, and every other date within the year with a precision of 1-2 days. It is thus a testimony of the culmination of a long historical evolution of astronomical practices in the Casma Valley.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado al norte de la costa central del Perú, en el Valle de Casma, este sitio arqueológico (500-200 a.C.) posee un conjunto de construcciones edificadas en un paisaje desértico y una serie de características naturales que, conjuntamente, funcionan como un calendario solar perfecto, utilizando marcadores que permiten observar el desplazamiento del sol a lo largo del horizonte durante todo el año. El sitio comprende: el Templo Fortificado, centro cultual o palacial rodeado por tres murallas que se yergue en lo alto de una colina; el Observatorio y el Espacio Público Ceremonial, dos elementos situados en un sector fuera del recinto amurallado; las Trece Torres de forma cúbica, señalizadoras de la trayectoria solar dispuestas en una hilera que se estira a lo largo de la cresta de otra colina; y el Cerro Mucho Malo, indicador natural complementario de las trece torres. El templo estaba dedicado probablemente al culto del sol y la presencia de un lugar de observación a cada lado del alineamiento norte-sur de las torres permitía determinar los puntos de orto y ocaso del sol en el horizonte a lo largo de todo el año. Servirse del ciclo solar y de un horizonte artificial para establecer los solsticios, los equinoccios y cualquier fecha del año, con un margen de error de uno o dos días solamente, suponía una innovación de máxima importancia que fue el resultado de una larga evolución d",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chanquillo%20Fortaleza%20%28remains%29.jpg?width=1280",
+   "title": "Chanquillo Fortaleza (remains).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Chanquillo%20Fortaleza%20%28remains%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1624.jpg",
+   "title": "Chankillo Archaeoastronomical Complex",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1624",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1624",
+ "transport": {
+  "airports": [
+   {
+    "name": "FAP Lieutenant Jaime Andres de Montreuil Morales Airport",
+    "iata": "CHM",
+    "city": "Chimbote",
+    "country": "PE",
+    "lat": -9.14961,
+    "lon": -78.523804,
+    "type": "medium_airport",
+    "distance_km": 55.2
+   },
+   {
+    "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
+    "iata": "TRU",
+    "city": "Trujillo",
+    "country": "PE",
+    "lat": -8.082382,
+    "lon": -79.108821,
+    "type": "large_airport",
+    "distance_km": 190.0
+   },
+   {
+    "name": "Alferez Fap David Figueroa Fernandini Airport",
+    "iata": "HUU",
+    "city": "Huánuco",
+    "country": "PE",
+    "lat": -9.878809928894043,
+    "lon": -76.20480346679688,
+    "type": "medium_airport",
+    "distance_km": 225.5
+   }
+  ],
+  "nearest_airport_km": 55.2,
+  "distance_beijing_km": 16264.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1624"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

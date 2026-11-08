@@ -1,0 +1,206 @@
+{
+ "id": "cn-837",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "甘肃省",
+ "province_en": "Gansu",
+ "province_iso": "CN-GS",
+ "city_zh": "张掖市",
+ "city_en": "Zhangye City",
+ "name_zh": "张掖市七彩丹霞景区",
+ "name_en": "Zhangyeshiqicaidanxia Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "zhangyeshiqicaidanxia-837",
+ "lat": 38.979327,
+ "lon": 100.073731,
+ "address_zh": "张掖市肃南裕固族自治县",
+ "address_en": "Sunan Yugu Autonomous County, Zhangye City",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "张掖丹霞地貌分布广阔，主要分布在临泽、肃南两县，面积300多平方公里，是中国丹霞地貌发育造型最丰富的地区之一。其经典之处主要有七彩屏、火海、七彩塔、七彩练、七彩菇、大扇贝等。",
+ "intro_en": "Zhangye Danxia landform is widely distributed, mainly distributed in Linze and Sunan counties, covering an area of ​​more than 300 square kilometers. It is one of the areas with the richest Danxia landforms in China. Its classic features mainly include colorful screen, sea of ​​fire, colorful tower, colorful drill, colorful mushrooms, large scallops, etc.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.zydanxia.com/",
+ "booking": "http://www.zydanxia.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zhangye Ganzhou Airport",
+    "iata": "YZY",
+    "city": "Zhangye (Ganzhou)",
+    "country": "CN",
+    "lat": 38.801899,
+    "lon": 100.675003,
+    "type": "medium_airport",
+    "distance_km": 55.7
+   },
+   {
+    "name": "Haibei Qilian Airport",
+    "iata": "HBQ",
+    "city": "Haibei (Qilian)",
+    "country": "CN",
+    "lat": 38.008068,
+    "lon": 100.645065,
+    "type": "small_airport",
+    "distance_km": 118.9
+   },
+   {
+    "name": "Alxa Right Banner Badanjilin Airport",
+    "iata": "RHT",
+    "city": "Badanjilin",
+    "country": "CN",
+    "lat": 39.225,
+    "lon": 101.546,
+    "type": "small_airport",
+    "distance_km": 129.9
+   }
+  ],
+  "nearest_airport_km": 55.7,
+  "high_speed_stations": [
+   {
+    "name": "临泽南",
+    "name_en": "Linzenan",
+    "lat": 39.1331871,
+    "lon": 100.1229874,
+    "distance_km": 17.6,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "张掖西",
+    "name_en": "Zangye West Railway Station",
+    "lat": 38.9225017,
+    "lon": 100.4265546,
+    "distance_km": 31.2,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "高台南",
+    "name_en": null,
+    "lat": 39.2939174,
+    "lon": 99.7676842,
+    "distance_km": 43.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "临泽",
+    "name_en": null,
+    "lat": 39.1562942,
+    "lon": 100.1584088,
+    "distance_km": 21.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "新华庄",
+    "name_en": null,
+    "lat": 39.1733033,
+    "lon": 100.0290745,
+    "distance_km": 21.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "平原堡",
+    "name_en": null,
+    "lat": 39.0788206,
+    "lon": 100.3489682,
+    "distance_km": 26.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "新乐大酒店",
+   "name_en": "Xinle Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.9759095,
+   "lon": 100.0769852,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "白云酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.972688,
+   "lon": 100.0703806,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "公航旅·丹霞明珠酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.9768615,
+   "lon": 100.0654667,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "丹霞地貌喬家大院",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.9768207,
+   "lon": 100.0294932,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "靠山帐篷接待中心",
+   "name_en": "Kaoshan Tent reception",
+   "stars": null,
+   "brand": null,
+   "lat": 38.9748006,
+   "lon": 100.0228955,
+   "distance_km": 4.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 6,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

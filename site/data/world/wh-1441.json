@@ -1,0 +1,160 @@
+{
+ "id": "wh-1441",
+ "unesco_id": "1441",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 478,
+ "popularity_score": 14525,
+ "country": "NL",
+ "country_zh": "荷兰王国",
+ "country_en": "Kingdom of the Netherlands",
+ "countries": [
+  {
+   "iso2": "NL",
+   "zh": "荷兰王国",
+   "en": "Kingdom of the Netherlands"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "NL-ZH",
+ "subdivision_zh": "南荷兰省",
+ "subdivision_en": "South Holland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "范內勒工廠",
+ "name_zh_source": "wikidata",
+ "name_en": "Van Nellefabriek",
+ "name_local": "Van Nellefabriek",
+ "local_lang": "nl",
+ "local_lang_name": "Dutch",
+ "slug": "1441-van_nellefabriek",
+ "lat": 51.922778,
+ "lon": 4.433611,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2014",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "范內勒工廠（荷蘭語：Van Nellefabriek）是位於荷蘭鹿特丹的一座前工廠建築，被認為是國際風格建築的代表作。自 2014 年以来，它被列为联合国教科文组织世界遗产。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Van Nellefabriek was designed and built in the 1920s on the banks of a canal in the Spaanse Polder industrial zone north-west of Rotterdam. The site is one of the icons of 20th-century industrial architecture, comprising a complex of factories, with façades consisting essentially of steel and glass, making large-scale use of the curtain wall principle. It was conceived as an ‘ideal factory’, open to the outside world, whose interior working spaces evolved according to need, and in which daylight was used to provide pleasant working conditions. It embodies the new kind of factory that became a symbol of the modernist and functionalist culture of the inter-war period and bears witness to the long commercial and industrial history of the Netherlands in the field of importation and processing of food products from tropical countries, and their industrial processing for marketing in Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "De voormalige Van Nellefabriek aan de Delfshavense Schie in Rotterdam geldt als het voornaamste industriële monument in Nederland. Dit is als zodanig ook wereldwijd erkend, toen het in juni 2014 tot UNESCO werelderfgoed werd verklaard.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rotterdam%20van%20nelle%20fabriek.jpg?width=1280",
+   "title": "Rotterdam van nelle fabriek.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Rotterdam%20van%20nelle%20fabriek.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1441.jpg",
+   "title": "Van Nellefabriek",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1441",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1441",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rotterdam The Hague Airport",
+    "iata": "RTM",
+    "city": "Rotterdam",
+    "country": "NL",
+    "lat": 51.956902,
+    "lon": 4.43722,
+    "type": "large_airport",
+    "distance_km": 3.8
+   },
+   {
+    "name": "Amsterdam Airport Schiphol",
+    "iata": "AMS",
+    "city": "Amsterdam",
+    "country": "NL",
+    "lat": 52.308601,
+    "lon": 4.76389,
+    "type": "large_airport",
+    "distance_km": 48.5
+   },
+   {
+    "name": "Antwerp International Airport (Deurne)",
+    "iata": "ANR",
+    "city": "Antwerp",
+    "country": "BE",
+    "lat": 51.190667,
+    "lon": 4.463153,
+    "type": "medium_airport",
+    "distance_km": 81.4
+   }
+  ],
+  "nearest_airport_km": 3.8,
+  "distance_beijing_km": 7869.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NL",
+  "country_zh": "荷兰王国",
+  "country_en": "Kingdom of the Netherlands",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NL",
+   "country_zh": "荷兰王国",
+   "country_en": "Kingdom of the Netherlands",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "nl",
+  "local_lang_name": "Dutch",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru"
+  ],
+  "wikipedia_editions": 27
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1441"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Van%20Nelle%20Factory"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:47Z"
+}

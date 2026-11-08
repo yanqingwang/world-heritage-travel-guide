@@ -1,0 +1,316 @@
+{
+ "id": "wh-428",
+ "unesco_id": "428",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 18,
+ "popularity_score": 650208,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Avon, England",
+ "subdivision_iso": "GB-BAS",
+ "subdivision_zh": "巴斯和东北萨默塞特",
+ "subdivision_en": "Bath and North East Somerset",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "巴斯城",
+ "name_zh_source": "unesco_official",
+ "name_en": "City of Bath",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "428-city_of_bath",
+ "lat": 51.381388888,
+ "lon": -2.359722222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "巴斯城最开始是罗马人的温泉城，在中世纪变成了重要的毛纺织工业中心。在18世纪，乔治三世统治时期，吸取了帕拉第奥建筑风格的灵感而把巴斯城建成为新式和古典式建筑物融合统一的优美城市。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded by the Romans as a thermal spa, Bath became an important centre of the wool industry in the Middle Ages. In the 18th century, under George III, it developed into an elegant town with neoclassical Palladian buildings, which blend harmoniously with the Roman baths.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bath%20Somerset%202023%20-City-%20by-RaBoe%20055.jpg?width=1280",
+   "title": "Bath Somerset 2023 -City- by-RaBoe 055.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bath%20Somerset%202023%20-City-%20by-RaBoe%20055.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Bath.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Bath.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Bath.png/1280px-Flag_of_Bath.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Flag of Bath.png",
+   "author": "TMcB23",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Bath.png"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_428.jpg",
+   "title": "City of Bath",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/428",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/428",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bristol Airport",
+    "iata": "BRS",
+    "city": "Bristol",
+    "country": "GB",
+    "lat": 51.382326,
+    "lon": -2.716453,
+    "type": "large_airport",
+    "distance_km": 24.8
+   },
+   {
+    "name": "Cardiff International Airport",
+    "iata": "CWL",
+    "city": "Cardiff",
+    "country": "GB",
+    "lat": 51.396702,
+    "lon": -3.34333,
+    "type": "large_airport",
+    "distance_km": 68.3
+   },
+   {
+    "name": "Bournemouth Airport",
+    "iata": "BOH",
+    "city": "Bournemouth",
+    "country": "GB",
+    "lat": 50.780483,
+    "lon": -1.839576,
+    "type": "medium_airport",
+    "distance_km": 76.1
+   }
+  ],
+  "nearest_airport_km": 24.8,
+  "distance_beijing_km": 8270.1,
+  "ferry_terminals": [
+   {
+    "name": "North Bank",
+    "name_en": null,
+    "lat": 51.4449118,
+    "lon": -2.5348072,
+    "distance_km": 14.0,
+    "operator": null
+   },
+   {
+    "name": "South Bank (Beese's)",
+    "name_en": null,
+    "lat": 51.4445736,
+    "lon": -2.5352193,
+    "distance_km": 14.1,
+    "operator": null
+   },
+   {
+    "name": "Netham Lock",
+    "name_en": null,
+    "lat": 51.4520077,
+    "lon": -2.5549193,
+    "distance_km": 15.6,
+    "operator": null
+   },
+   {
+    "name": "Temple Quay",
+    "name_en": null,
+    "lat": 51.4515123,
+    "lon": -2.5812173,
+    "distance_km": 17.2,
+    "operator": null
+   },
+   {
+    "name": "Castle Park",
+    "name_en": null,
+    "lat": 51.4549873,
+    "lon": -2.5887009,
+    "distance_km": 17.9,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Bath Spa",
+    "name_en": "Bath Spa",
+    "lat": 51.3776019,
+    "lon": -2.3567189,
+    "distance_km": 0.5,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Oldfield Park",
+    "name_en": null,
+    "lat": 51.379209,
+    "lon": -2.3801536,
+    "distance_km": 1.4,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Freshford",
+    "name_en": null,
+    "lat": 51.3417702,
+    "lon": -2.3005891,
+    "distance_km": 6.0,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Avoncliff",
+    "name_en": null,
+    "lat": 51.3395623,
+    "lon": -2.2818373,
+    "distance_km": 7.1,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Avon Riverside",
+    "name_en": null,
+    "lat": 51.4155504,
+    "lon": -2.4577535,
+    "distance_km": 7.8,
+    "operator": null
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "The Manor House",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.4937944,
+   "lon": -2.2320487,
+   "distance_km": 15.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Fleece",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.7170303,
+   "lon": -1.9663022,
+   "distance_km": 46.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Bath",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 51.3842244,
+   "lon": -2.3590822,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bailbrook Lodge Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.3995085,
+   "lon": -2.3357556,
+   "distance_km": 2.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Bristol City Centre",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 51.4515976,
+   "lon": -2.5851195,
+   "distance_km": 17.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 100
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/428"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bath%2C%20Somerset"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

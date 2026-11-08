@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Nanjing"
 lat: 32.027197
 lon: 118.794426
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 南京市夫子庙-秦淮风光带 / Nanjingshifuzimiao-qinhuaifengguangdai

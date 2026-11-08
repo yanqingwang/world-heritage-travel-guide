@@ -1,0 +1,154 @@
+{
+ "id": "wh-859",
+ "unesco_id": "859",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1180,
+ "popularity_score": null,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "Olomouc Region",
+ "subdivision_iso": "CZ-71",
+ "subdivision_zh": "",
+ "subdivision_en": "Olomouc Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "奥洛穆茨三位一体圣柱",
+ "name_zh_source": "unesco_official",
+ "name_en": "Holy Trinity Column in Olomouc",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "859-holy_trinity_column_in_olomouc",
+ "lat": 49.59402,
+ "lon": 17.250492,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣柱建于18世纪早期，是中欧地区同类建筑最杰出的典范。圣柱属于一种独特的地区建筑风格——奥洛穆茨巴洛克风格(Olomouc Baroque)，高35米，柱身以出自摩拉维亚的艺术家昂德黑扎内(Ondrej Zahner)之手的许多精美的宗教雕刻装饰。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This memorial column, erected in the early years of the 18th century, is the most outstanding example of a type of monument specific to central Europe. In the characteristic regional style known as Olomouc Baroque and rising to a height of 35 m, it is decorated with many fine religious sculptures, the work of the distinguished Moravian artist Ondrej Zahner.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_859.jpg",
+   "title": "Holy Trinity Column in Olomouc",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/859",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/859",
+ "transport": {
+  "airports": [
+   {
+    "name": "Leoš Janáček Airport Ostrava",
+    "iata": "OSR",
+    "city": "Mošnov",
+    "country": "CZ",
+    "lat": 49.696301,
+    "lon": 18.111099,
+    "type": "large_airport",
+    "distance_km": 63.0
+   },
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 63.6
+   },
+   {
+    "name": "Pardubice Airport",
+    "iata": "PED",
+    "city": "Pardubice",
+    "country": "CZ",
+    "lat": 50.015049,
+    "lon": 15.73981,
+    "type": "large_airport",
+    "distance_km": 118.1
+   }
+  ],
+  "nearest_airport_km": 63.0,
+  "distance_beijing_km": 7259.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/859"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

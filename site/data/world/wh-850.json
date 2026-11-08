@@ -1,0 +1,162 @@
+{
+ "id": "wh-850",
+ "unesco_id": "850",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1179,
+ "popularity_score": null,
+ "country": "LB",
+ "country_zh": "黎巴嫩",
+ "country_en": "Lebanon",
+ "countries": [
+  {
+   "iso2": "LB",
+   "zh": "黎巴嫩",
+   "en": "Lebanon"
+  }
+ ],
+ "region": "Qadisha Valley, Becharre District, Governorate of North Lebanon",
+ "subdivision_iso": "LB-AS",
+ "subdivision_zh": "",
+ "subdivision_en": "North Governorate",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "夸底•夸底沙(圣谷)和神杉林",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)",
+ "name_local": "وادي قاديشا أو الوادي المقدس وحرش أرز الرب",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "850-ouadi_qadisha_(the_holy_valley)_and_the_",
+ "lat": 34.282944,
+ "lon": 35.951611,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣谷是基督教早期世界上最重要的修道士聚居地。它的许多修道院年代已十分久远，引人注目地坐落在崎岖不平的地形中，附近是黎巴嫩山林遗址，这里的树木为古代宗教建筑提供了优质的木材。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Qadisha valley is one of the most important early Christian monastic settlements in the world. Its monasteries, many of which are of a great age, stand in dramatic positions in a rugged landscape. Nearby are the remains of the great forest of cedars of Lebanon, highly prized in antiquity for the construction of great religious buildings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يُعتبر وادي قاديشا من أهمّ المواقع للتأسيس المسيحي في العالم. فأديرة الرهبان القديمة بمعظمها تتواجد في وسط طبيعةٍ خلابة. وقريبًا منها، نجد آثار غابة أرز لبنان الكبيرة، التي كانت مطلوبةً جدًا في الماضي لبناء العمارات الدينيّة الكبيرة فيها.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Qadisha.jpg?width=1280",
+   "title": "Qadisha.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Qadisha.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_850.jpg",
+   "title": "Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/850",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/850",
+ "transport": {
+  "airports": [
+   {
+    "name": "Beirut Rafic Hariri International Airport",
+    "iata": "BEY",
+    "city": "Beirut",
+    "country": "LB",
+    "lat": 33.819833,
+    "lon": 35.487443,
+    "type": "large_airport",
+    "distance_km": 66.9
+   },
+   {
+    "name": "Damascus International Airport",
+    "iata": "DAM",
+    "city": "Damascus",
+    "country": "SY",
+    "lat": 33.4114990234375,
+    "lon": 36.51559829711914,
+    "type": "large_airport",
+    "distance_km": 110.0
+   },
+   {
+    "name": "Latakia International Airport",
+    "iata": "LTK",
+    "city": "Latakia",
+    "country": "SY",
+    "lat": 35.4011,
+    "lon": 35.9487,
+    "type": "medium_airport",
+    "distance_km": 124.3
+   }
+  ],
+  "nearest_airport_km": 66.9,
+  "distance_beijing_km": 6985.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LB",
+  "country_zh": "黎巴嫩",
+  "country_en": "Lebanon",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free visa on arrival[6]",
+  "notes": "Extendable for 2 additional months."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LB",
+   "country_zh": "黎巴嫩",
+   "country_en": "Lebanon",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free visa on arrival[6]",
+   "notes": "Extendable for 2 additional months."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/850"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

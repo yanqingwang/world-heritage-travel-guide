@@ -1,0 +1,188 @@
+{
+ "id": "cn-301",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "武汉市",
+ "city_en": "Wuhan",
+ "name_zh": "湖北省武汉市东湖景区",
+ "name_en": "Hubeishengwuhanshidonghu Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "hubeishengwuhanshidonghu-301",
+ "lat": 30.557869,
+ "lon": 114.420005,
+ "address_zh": "湖北省武汉市武昌区沿湖大道16号",
+ "address_en": "No. 16 Yanhu Avenue, Wuchang District, Wuhan City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "武汉东湖生态旅游风景区面积88平方公里，由听涛、磨山、落雁、吹笛、白马和珞洪六个片区组成，是全国文明风景旅游区示范点、首批国家重点风景名胜区。",
+ "intro_en": "Wuhan East Lake Ecological Tourism Scenic Area covers an area of ​​88 square kilometers and consists of six areas: Tingtao, Moshan, Luoyan, Chuidi, Baima and Luohong. It is a national civilized scenic tourist area demonstration site and one of the first batch of national key scenic spots.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Wuhan Tianhe International Airport",
+    "iata": "WUH",
+    "city": "Wuhan (Huangpi)",
+    "country": "CN",
+    "lat": 30.774798,
+    "lon": 114.213723,
+    "type": "large_airport",
+    "distance_km": 31.2
+   },
+   {
+    "name": "Ezhou Huahu International Airport",
+    "iata": "EHU",
+    "city": "Ezhou",
+    "country": "CN",
+    "lat": 30.341178,
+    "lon": 115.03926,
+    "type": "large_airport",
+    "distance_km": 64.1
+   },
+   {
+    "name": "Yueyang Sanhe Airport",
+    "iata": "YYA",
+    "city": "Yueyang (Yueyanglou)",
+    "country": "CN",
+    "lat": 29.311699,
+    "lon": 113.281574,
+    "type": "medium_airport",
+    "distance_km": 176.7
+   }
+  ],
+  "nearest_airport_km": 31.2,
+  "high_speed_stations": [
+   {
+    "name": "武汉",
+    "name_en": "Wuhan",
+    "lat": 30.6098504,
+    "lon": 114.4189431,
+    "distance_km": 5.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "武昌东",
+    "name_en": "Wuchangdong",
+    "lat": 30.5562406,
+    "lon": 114.4481521,
+    "distance_km": 2.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "武钢",
+    "name_en": null,
+    "lat": 30.5560842,
+    "lon": 114.45056,
+    "distance_km": 2.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "何刘",
+    "name_en": "Heliu",
+    "lat": 30.5307273,
+    "lon": 114.4909174,
+    "distance_km": 7.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "楚民大酒店",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 30.5378355,
+   "lon": 114.3041654,
+   "distance_km": 11.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "九通海源大酒店",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 30.4552531,
+   "lon": 114.4205473,
+   "distance_km": 11.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "森泰中洋酒店",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 30.538335,
+   "lon": 114.2913446,
+   "distance_km": 12.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "惠苑酒店",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 30.5364802,
+   "lon": 114.301672,
+   "distance_km": 11.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "澳门四季铭汇酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.5313115,
+   "lon": 114.3626965,
+   "distance_km": 6.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 159,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

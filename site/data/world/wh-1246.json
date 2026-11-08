@@ -1,0 +1,162 @@
+{
+ "id": "wh-1246",
+ "unesco_id": "1246",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 351,
+ "popularity_score": 24419,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "Shimane Prefecture, Ohda City District",
+ "subdivision_iso": "JP-32",
+ "subdivision_zh": "岛根县",
+ "subdivision_en": "Shimane Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "石见银山遗迹及其文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Iwami Ginzan Silver Mine and its Cultural Landscape",
+ "name_local": "石見銀山",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "1246-iwami_ginzan_silver_mine_and_its_cultura",
+ "lat": 35.107222,
+ "lon": 132.4375,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(v)",
+ "year": "2007",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于本州岛西南部的石见银山遗迹是一组山脉，海拔600米，被深深的河谷截断，以大型矿藏、熔岩和优美的地貌为主，是16世纪至20世纪开采和提炼银子的矿山遗址。这一带还有用来将银矿石运输至海岸的运输路线，以及通往韩国和中国的港口城镇。通过运用尖端技术提炼出来的优质白银和开采到的大量白银，大大促进了16世纪至17世纪日本和东南亚经济的整体发展，促进了日本白银和黄金的大规模生产。矿山现在被浓密的森林所覆盖。遗址上还建有堡垒、神龛、部分山道运输线以及三个运输银矿的港口城镇：Tomogaura、Okidomari和Yunotsu。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Iwami Ginzan Silver Mine in the south-west of Honshu Island is a cluster of mountains, rising to 600 m and interspersed by deep river valleys featuring the archaeological remains of large-scale mines, smelting and refining sites and mining settlements worked between the 16th and 20th centuries. The site also features routes used to transport silver ore to the coast, and port towns from where it was shipped to Korea and China. The mines contributed substantially to the overall economic development of Japan and south-east Asia in the 16th and 17th centuries, prompting the mass production of silver and gold in Japan. The mining area is now heavily wooded. Included in the site are fortresses, shrines, parts of Kaidô transport routes to the coast, and three port towns, Tomogaura, Okidomari and Yunotsu, from where the ore was shipped.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "石見銀山（いわみぎんざん）は、島根県大田市大森および周辺にある、戦国時代後期から江戸時代前期にかけて最盛期を迎えた日本最大の銀山（現在は閉山）。上述の最盛期に日本は世界の銀の約3分の1を産出したとも推定されるが、当銀山産出の銀がそのかなりの部分を占めたとされる。地元では大森銀山（おおもりぎんざん）と呼ばれ、江戸時代初期は佐摩銀山（さまぎんざん）とも呼ばれた。明治期以降は枯渇した銀に代わり、銅などが採鉱された。本項では石見銀山の概要と歴史、および2007年に登録された世界遺産としての石見銀山についても言及する。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/180504%20Shimizudani%20Refinery%20Ruins%20of%20Iwami%20Ginzan%20Silver%20Mine%20Oda%20Shimane%20pref%20Japan03s.jpg?width=1280",
+   "title": "180504 Shimizudani Refinery Ruins of Iwami Ginzan Silver Mine Oda Shimane pref Japan03s.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:180504%20Shimizudani%20Refinery%20Ruins%20of%20Iwami%20Ginzan%20Silver%20Mine%20Oda%20Shimane%20pref%20Japan03s.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1246.jpg",
+   "title": "Iwami Ginzan Silver Mine and its Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1246",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1246",
+ "transport": {
+  "airports": [
+   {
+    "name": "Izumo Enmusubi Airport",
+    "iata": "IZO",
+    "city": "Izumo",
+    "country": "JP",
+    "lat": 35.413601,
+    "lon": 132.889999,
+    "type": "medium_airport",
+    "distance_km": 53.4
+   },
+   {
+    "name": "Iwami Airport",
+    "iata": "IWJ",
+    "city": "Masuda",
+    "country": "JP",
+    "lat": 34.676399231,
+    "lon": 131.789993286,
+    "type": "medium_airport",
+    "distance_km": 76.0
+   },
+   {
+    "name": "Yonago Kitaro Airport / JASDF Miho Air Base",
+    "iata": "YGJ",
+    "city": "Yonago",
+    "country": "JP",
+    "lat": 35.492199,
+    "lon": 133.235992,
+    "type": "medium_airport",
+    "distance_km": 84.2
+   }
+  ],
+  "nearest_airport_km": 53.4,
+  "distance_beijing_km": 1521.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1246"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iwami%20Ginzan%20Silver%20Mine"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

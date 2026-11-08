@@ -1,0 +1,162 @@
+{
+ "id": "wh-940",
+ "unesco_id": "940",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1195,
+ "popularity_score": null,
+ "country": "SR",
+ "country_zh": "苏里南",
+ "country_en": "Suriname",
+ "countries": [
+  {
+   "iso2": "SR",
+   "zh": "苏里南",
+   "en": "Suriname"
+  }
+ ],
+ "region": "District of Paramaribo",
+ "subdivision_iso": "SR-PM",
+ "subdivision_zh": "帕拉马里博区",
+ "subdivision_en": "Paramaribo District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "帕拉马里博的古内城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Inner City of Paramaribo",
+ "name_local": "Binnenstad (Paramaribo)",
+ "local_lang": "nl",
+ "local_lang_name": "Dutch",
+ "slug": "940-historic_inner_city_of_paramaribo",
+ "lat": 5.826,
+ "lon": -55.15387,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2002",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "帕拉马里博位于南美洲热带地区北海岸上，曾经是17世纪至18世纪时的荷兰殖民地。帕拉马里博城内古老的市中心仍然保持着昔日那富有创意、极具特色的街道布局。内城的建筑物依然在向世人展示着荷兰建筑风格与当地传统建筑方法和建筑材料的逐步融合。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Paramaribo is a former Dutch colonial town from the 17th and 18th centuries planted on the northern coast of tropical South America. The original and highly characteristic street plan of the historic centre remains intact. Its buildings illustrate the gradual fusion of Dutch architectural influence with traditional local techniques and materials.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "De historische binnenstad van Paramaribo is het oudste gedeelte van het centrum van de Surinaamse hoofdstad Paramaribo en maakt deel uit van het ressort Centrum. Vanwege de overwegend in hout opgetrokken gebouwen uit de koloniale tijd staat de binnenstad bekend als \"De Houten Stad\". Sinds juli 2002 staat de historische binnenstad op de Werelderfgoedlijst van de UNESCO. De bescherming wordt sindsdien gesuperviseerd door de Stichting Gebouwd Erfgoed Suriname (SGES). UNESCO plaatste de binnenstad in 2026 op de lijst van bedreigd werelderfgoed vanwege branden in panden en twee gerealiseerde nieuwbouwprojecten.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Officiers%20Woning%20Paramaribo%20Suriname.jpg?width=1280",
+   "title": "Officiers Woning Paramaribo Suriname.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Officiers%20Woning%20Paramaribo%20Suriname.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_940.jpg",
+   "title": "Historic Inner City of Paramaribo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/940",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/940",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zorg en Hoop Airport",
+    "iata": "ORG",
+    "city": "Paramaribo",
+    "country": "SR",
+    "lat": 5.811211,
+    "lon": -55.192299,
+    "type": "small_airport",
+    "distance_km": 4.6
+   },
+   {
+    "name": "Eduard Alexander Gummels Airport",
+    "iata": "EAX",
+    "city": "Kwatta",
+    "country": "SR",
+    "lat": 5.863807,
+    "lon": -55.189504,
+    "type": "small_airport",
+    "distance_km": 5.8
+   },
+   {
+    "name": "Johan Adolf Pengel International Airport",
+    "iata": "PBM",
+    "city": "Paramaribo",
+    "country": "SR",
+    "lat": 5.45283,
+    "lon": -55.187801,
+    "type": "large_airport",
+    "distance_km": 41.7
+   }
+  ],
+  "nearest_airport_km": 4.6,
+  "distance_beijing_km": 14843.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SR",
+  "country_zh": "苏里南",
+  "country_en": "Suriname",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][140]",
+  "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.[141] Multiple entry e-Visa is also available.[142]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SR",
+   "country_zh": "苏里南",
+   "country_en": "Suriname",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][140]",
+   "notes": "An entrance fee of USD 50 or EUR 50 must be paid online prior to arrival.[141] Multiple entry e-Visa is also available.[142]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "nl",
+  "local_lang_name": "Dutch",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 7
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/940"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

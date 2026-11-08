@@ -1,0 +1,162 @@
+{
+ "id": "wh-181",
+ "unesco_id": "181",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 556,
+ "popularity_score": 11358,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "State of Tasmania",
+ "subdivision_iso": "AU-TAS",
+ "subdivision_zh": "塔斯马尼亚州",
+ "subdivision_en": "Tasmania",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔斯马尼亚荒原",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tasmanian Wilderness",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "181-tasmanian_wilderness",
+ "lat": -42.5957,
+ "lon": 146.1729,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(iii)(iv)(vi)(vii)(viii)(ix)(x)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这些公园和保护区地处受冰河作用严重影响的地区，到处都是峭壁峡谷，占地总面积超过100万公顷，是世界上仅有的几个大规模的温带雨林之一。在石灰石洞穴中发现的遗迹可以证明早在两万多年前就曾有人类在这里居住过。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In a region that has been subjected to severe glaciation, these parks and reserves, with their steep gorges, covering an area of over 1 million ha, constitute one of the last expanses of temperate rainforest in the world. Remains found in limestone caves attest to the human occupation of the area for more than 20,000 years.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CradleMountain.jpg?width=1280",
+   "title": "CradleMountain.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:CradleMountain.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_181.jpg",
+   "title": "Tasmanian Wilderness",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/181",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/181",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hobart International Airport",
+    "iata": "HBA",
+    "city": "Hobart (Cambridge)",
+    "country": "AU",
+    "lat": -42.837032,
+    "lon": 147.513022,
+    "type": "large_airport",
+    "distance_km": 112.7
+   },
+   {
+    "name": "Launceston Airport",
+    "iata": "LST",
+    "city": "Launceston (Western Junction)",
+    "country": "AU",
+    "lat": -41.544935,
+    "lon": 147.210785,
+    "type": "medium_airport",
+    "distance_km": 144.9
+   },
+   {
+    "name": "Devonport Airport",
+    "iata": "DPO",
+    "city": "Devonport",
+    "country": "AU",
+    "lat": -41.1697006226,
+    "lon": 146.429992676,
+    "type": "medium_airport",
+    "distance_km": 160.0
+   }
+  ],
+  "nearest_airport_km": 112.7,
+  "distance_beijing_km": 9730.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/181"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tasmanian%20Wilderness%20World%20Heritage%20Area"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

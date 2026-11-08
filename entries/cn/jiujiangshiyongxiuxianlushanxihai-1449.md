@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Jiujiang"
 lat: 29.200974
 lon: 115.479351
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 九江市永修县庐山西海景区 / Jiujiangshiyongxiuxianlushanxihai Scenic Area

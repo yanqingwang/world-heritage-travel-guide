@@ -1,0 +1,162 @@
+{
+ "id": "wh-717",
+ "unesco_id": "717",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1138,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Siena, Tuscany",
+ "subdivision_iso": "IT-SI",
+ "subdivision_zh": "锡耶纳省",
+ "subdivision_en": "Province of Siena",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "锡耶纳历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Siena",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "717-historic_centre_of_siena",
+ "lat": 43.31861111,
+ "lon": 11.33166667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "锡耶纳是一座中世纪城市的化身。这里的居民为取得在这块土地上进行城市规划的权利，长期与佛罗伦萨竞争。几个世纪以来，他们成功保留住了这座城市12世纪至15世纪以来形成的哥特风格的城市面貌。在这段时期，杜奇奥、洛伦泽蒂兄弟、以及西莫内·马丁尼等人的建筑作品影响了意大利的艺术进程，在更广的范围上也影响了整个欧洲的艺术发展。整个锡耶纳城环绕卡姆博广场而建，设计得如同艺术作品一般，与周边的自然景观融为一体，交相辉映。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Siena is the embodiment of a medieval city. Its inhabitants pursued their rivalry with Florence right into the area of urban planning. Throughout the centuries, they preserved their city's Gothic appearance, acquired between the 12th and 15th centuries. During this period the work of Duccio, the Lorenzetti brothers and Simone Martini was to influence the course of Italian and, more broadly, European art. The whole city of Siena, built around the Piazza del Campo, was devised as a work of art that blends into the surrounding landscape.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Historic%20Centre%20of%20Siena-112711.jpg?width=1280",
+   "title": "Historic Centre of Siena-112711.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Historic%20Centre%20of%20Siena-112711.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_717.jpg",
+   "title": "Historic Centre of Siena",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/717",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/717",
+ "transport": {
+  "airports": [
+   {
+    "name": "Florence Airport, Peretola",
+    "iata": "FLR",
+    "city": "Firenze (FI)",
+    "country": "IT",
+    "lat": 43.808558,
+    "lon": 11.202822,
+    "type": "large_airport",
+    "distance_km": 55.5
+   },
+   {
+    "name": "Pisa International Airport",
+    "iata": "PSA",
+    "city": "Pisa (PI)",
+    "country": "IT",
+    "lat": 43.683899,
+    "lon": 10.3927,
+    "type": "large_airport",
+    "distance_km": 85.9
+   },
+   {
+    "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
+    "iata": "PEG",
+    "city": "Perugia (PG)",
+    "country": "IT",
+    "lat": 43.095901,
+    "lon": 12.5132,
+    "type": "large_airport",
+    "distance_km": 98.9
+   }
+  ],
+  "nearest_airport_km": 55.5,
+  "distance_beijing_km": 8071.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/717"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

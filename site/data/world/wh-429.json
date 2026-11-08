@@ -1,0 +1,162 @@
+{
+ "id": "wh-429",
+ "unesco_id": "429",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 260,
+ "popularity_score": 37476,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "South Lanarkshire, Scotland",
+ "subdivision_iso": "GB-SLK",
+ "subdivision_zh": "南拉纳克郡",
+ "subdivision_en": "South Lanarkshire",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "新拉纳克",
+ "name_zh_source": "unesco_official",
+ "name_en": "New Lanark",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "429-new_lanark",
+ "lat": 55.663611111,
+ "lon": -3.781388888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "新拉纳克是18世纪坐落在苏格兰风景最优美的地方的一个小村庄。19世纪早期，慈善家、乌托邦理想主义者罗伯特·欧文在此创建了现代工业化社区的模型。令人难忘的棉磨坊、宽敞且装备齐全的工人社区、严谨的教育机构和良好的学校教育，时至今日仍是欧文人文主义的明证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "New Lanark is a small 18th- century village set in a sublime Scottish landscape where the philanthropist and Utopian idealist Robert Owen moulded a model industrial community in the early 19th century. The imposing cotton mill buildings, the spacious and well-designed workers' housing, and the dignified educational institute and school still testify to Owen's humanism.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NewlanarkNL06.jpg?width=1280",
+   "title": "NewlanarkNL06.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:NewlanarkNL06.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_429.jpg",
+   "title": "New Lanark",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/429",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/429",
+ "transport": {
+  "airports": [
+   {
+    "name": "Edinburgh Airport",
+    "iata": "EDI",
+    "city": "Ingliston, Edinburgh",
+    "country": "GB",
+    "lat": 55.950145,
+    "lon": -3.372288,
+    "type": "large_airport",
+    "distance_km": 40.8
+   },
+   {
+    "name": "Glasgow Airport",
+    "iata": "GLA",
+    "city": "Glasgow",
+    "country": "GB",
+    "lat": 55.871899,
+    "lon": -4.43306,
+    "type": "large_airport",
+    "distance_km": 46.9
+   },
+   {
+    "name": "Glasgow Prestwick Airport",
+    "iata": "PIK",
+    "city": "Prestwick, South Ayrshire",
+    "country": "GB",
+    "lat": 55.501499,
+    "lon": -4.577182,
+    "type": "large_airport",
+    "distance_km": 53.2
+   }
+  ],
+  "nearest_airport_km": 40.8,
+  "distance_beijing_km": 7935.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/429"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/New%20Lanark"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

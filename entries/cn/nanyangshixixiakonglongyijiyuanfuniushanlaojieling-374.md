@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Nanyang"
 lat: 33.234916
 lon: 111.691965
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区 / Funiu Mountains

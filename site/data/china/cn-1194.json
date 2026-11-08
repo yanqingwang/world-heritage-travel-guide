@@ -1,0 +1,172 @@
+{
+ "id": "cn-1194",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广东省",
+ "province_en": "Guangdong",
+ "province_iso": "CN-GD",
+ "city_zh": "阳江市",
+ "city_en": "Yangjiang City",
+ "name_zh": "阳江市江城区海陵岛大角湾海上丝路旅游区",
+ "name_en": "Hailingdao Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "yangjiangshijiangchengquhailingdaodajiaowanhaishangsilu-1194",
+ "lat": 21.760659,
+ "lon": 111.887063,
+ "address_zh": "广东省阳江市江城区海滨路24号附近",
+ "address_en": "Near No. 24 Haibin Road, Jiangcheng District, Yangjiang City, Guangdong Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "海陵岛大角湾海上丝路旅游区的主要景点有大角湾、马尾岛、闸坡海市，属亚热带季风气候，是集海泳、度假、食海鲜、购海味等于一体的综合型滨海旅游区。",
+ "intro_en": "The main attractions of Hailing Island Dajiao Bay Maritime Silk Road Tourist Area include Dajiao Bay, Mawei Island, and Zhapohai City. It has a subtropical monsoon climate and is a comprehensive coastal tourist area integrating sea swimming, vacation, seafood eating, and seafood shopping.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zhanjiang Wuchuan International Airport",
+    "iata": "ZHA",
+    "city": "Zhanjiang",
+    "country": "CN",
+    "lat": 21.481667,
+    "lon": 110.590278,
+    "type": "large_airport",
+    "distance_km": 137.6
+   },
+   {
+    "name": "Zhuhai Jinwan Airport",
+    "iata": "ZUH",
+    "city": "Zhuhai (Jinwan)",
+    "country": "CN",
+    "lat": 22.006399,
+    "lon": 113.375999,
+    "type": "large_airport",
+    "distance_km": 156.0
+   },
+   {
+    "name": "Macau International Airport",
+    "iata": "MFM",
+    "city": "Nossa Senhora do Carmo",
+    "country": "MO",
+    "lat": 22.149599,
+    "lon": 113.592003,
+    "type": "large_airport",
+    "distance_km": 181.1
+   }
+  ],
+  "nearest_airport_km": 137.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "阳江港",
+    "name_en": null,
+    "lat": 21.7191228,
+    "lon": 111.8295818,
+    "distance_km": 7.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "阳江",
+    "name_en": null,
+    "lat": 21.863512,
+    "lon": 111.8772515,
+    "distance_km": 11.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "阳江北",
+    "name_en": null,
+    "lat": 21.9204339,
+    "lon": 111.8343164,
+    "distance_km": 18.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "阳江海陵自由岛度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 21.6584838,
+   "lon": 111.9252738,
+   "distance_km": 12.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jinghu Hotel",
+   "name_en": "Jinghu Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 21.8627447,
+   "lon": 111.9835289,
+   "distance_km": 15.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "阳江海陵岛闸坡海之冠大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 21.5706793,
+   "lon": 111.8349917,
+   "distance_km": 21.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "阳江北洛秘境度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 21.5653847,
+   "lon": 111.8190991,
+   "distance_km": 22.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/海陵岛"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

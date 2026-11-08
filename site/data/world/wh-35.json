@@ -1,0 +1,162 @@
+{
+ "id": "wh-35",
+ "unesco_id": "35",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 686,
+ "popularity_score": 6248,
+ "country": "GH",
+ "country_zh": "加纳",
+ "country_en": "Ghana",
+ "countries": [
+  {
+   "iso2": "GH",
+   "zh": "加纳",
+   "en": "Ghana"
+  }
+ ],
+ "region": "Asante Region",
+ "subdivision_iso": "GH-AH",
+ "subdivision_zh": "阿散蒂地区",
+ "subdivision_en": "Ashanti Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿散蒂传统建筑",
+ "name_zh_source": "unesco_official",
+ "name_en": "Asante Traditional Buildings",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "35-asante_traditional_buildings",
+ "lat": 6.40111,
+ "lon": -1.62583,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这些建筑位于库马西(Kumasi)东北部，是18世纪鼎盛时期伟大的阿散蒂(Asante)文明保留下来的最后物证。由于这些建筑由泥土、木材和稻草构成，随着时间的推移，非常容易受天气影响而损坏。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "To the north-east of Kumasi, these are the last material remains of the great Asante civilization, which reached its high point in the 18th century. Since the dwellings are made of earth, wood and straw, they are vulnerable to the onslaught of time and weather.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Coast%20Map%201896.jpg?width=1280",
+   "title": "Gold Coast Map 1896.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Gold%20Coast%20Map%201896.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_35.jpg",
+   "title": "Asante Traditional Buildings",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/35",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/35",
+ "transport": {
+  "airports": [
+   {
+    "name": "Prempeh I International Airport",
+    "iata": "KMS",
+    "city": "Kumasi",
+    "country": "GH",
+    "lat": 6.71456,
+    "lon": -1.59082,
+    "type": "large_airport",
+    "distance_km": 35.1
+   },
+   {
+    "name": "Sunyani Airport",
+    "iata": "NYI",
+    "city": "Sunyani",
+    "country": "GH",
+    "lat": 7.36183,
+    "lon": -2.32876,
+    "type": "medium_airport",
+    "distance_km": 132.0
+   },
+   {
+    "name": "Takoradi Airport",
+    "iata": "TKD",
+    "city": "Sekondi-Takoradi",
+    "country": "GH",
+    "lat": 4.896059989929199,
+    "lon": -1.7747600078582764,
+    "type": "medium_airport",
+    "distance_km": 168.2
+   }
+  ],
+  "nearest_airport_km": 35.1,
+  "distance_beijing_km": 11839.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GH",
+  "country_zh": "加纳",
+  "country_en": "Ghana",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GH",
+   "country_zh": "加纳",
+   "country_en": "Ghana",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/35"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Asante%20Traditional%20Buildings"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

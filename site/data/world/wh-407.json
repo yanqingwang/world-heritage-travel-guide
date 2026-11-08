@@ -1,0 +1,162 @@
+{
+ "id": "wh-407",
+ "unesco_id": "407",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 766,
+ "popularity_score": 4027,
+ "country": "CM",
+ "country_zh": "喀麦隆",
+ "country_en": "Cameroon",
+ "countries": [
+  {
+   "iso2": "CM",
+   "zh": "喀麦隆",
+   "en": "Cameroon"
+  }
+ ],
+ "region": "Provinces du Sud et de l’Est (Départments: du Dja-et-LOBO pour la partie Ouest, du Haut-Nyong pour la partie Est)",
+ "subdivision_iso": "CM-ES",
+ "subdivision_zh": "",
+ "subdivision_en": "East",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "德贾动物保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Dja Faunal Reserve",
+ "name_local": "Réserve de faune du Dja",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "407-dja_faunal_reserve",
+ "lat": 3.0167,
+ "lon": 12.9833,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "德贾动物保护区是非洲最大、保存最为完好的热带雨林之一，保护区内90%的区域尚未受到人类活动干扰。德贾河几乎把保护区团团围住，构成了保护区的天然边界。保护区因其物种的多样性和众多的灵长类动物而尤为著名。保护区内生存着107种哺乳动物，其中有5种濒临灭绝。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This is one of the largest and best-protected rainforests in Africa, with 90% of its area left undisturbed. Almost completely surrounded by the Dja River, which forms a natural boundary, the reserve is especially noted for its biodiversity and a wide variety of primates. It contains 107 mammal species, five of which are threatened.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "C’est l’une des forêts humides d’Afrique les plus vastes et les mieux protégées, 90 % de sa superficie restant inviolée. Pratiquement encerclée par le fleuve Dja, qui en forme la limite naturelle, la réserve est surtout remarquable pour sa biodiversité et pour la très grande variété des primates qui y vivent. Elle abrite 107 espèces de mammifères, dont cinq sont menacées.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mantelmangabe%20Dja.JPG?width=1280",
+   "title": "Mantelmangabe Dja.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mantelmangabe%20Dja.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_407.jpg",
+   "title": "Dja Faunal Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/407",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/407",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yaoundé Nsimalen International Airport",
+    "iata": "NSI",
+    "city": "Yaoundé",
+    "country": "CM",
+    "lat": 3.72256,
+    "lon": 11.5533,
+    "type": "large_airport",
+    "distance_km": 177.1
+   },
+   {
+    "name": "Oyem Airport",
+    "iata": "OYE",
+    "city": "Oyem",
+    "country": "GA",
+    "lat": 1.5431100130081177,
+    "lon": 11.581399917602539,
+    "type": "medium_airport",
+    "distance_km": 226.1
+   },
+   {
+    "name": "President Obiang Nguema International Airport",
+    "iata": "GEM",
+    "city": "Mengomeyén",
+    "country": "GQ",
+    "lat": 1.676437,
+    "lon": 11.024904,
+    "type": "medium_airport",
+    "distance_km": 263.7
+   }
+  ],
+  "nearest_airport_km": 177.1,
+  "distance_beijing_km": 11006.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CM",
+  "country_zh": "喀麦隆",
+  "country_en": "Cameroon",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][36]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CM",
+   "country_zh": "喀麦隆",
+   "country_en": "Cameroon",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][36]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/407"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dja%20Faunal%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

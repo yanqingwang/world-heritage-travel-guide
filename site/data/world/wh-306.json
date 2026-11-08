@@ -1,0 +1,154 @@
+{
+ "id": "wh-306",
+ "unesco_id": "306",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1064,
+ "popularity_score": null,
+ "country": "ZW",
+ "country_zh": "津巴布韦",
+ "country_en": "Zimbabwe",
+ "countries": [
+  {
+   "iso2": "ZW",
+   "zh": "津巴布韦",
+   "en": "Zimbabwe"
+  }
+ ],
+ "region": "Matebeleland, South Province",
+ "subdivision_iso": "ZW-MS",
+ "subdivision_zh": "",
+ "subdivision_en": "Matabeleland South Province",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "马托博山",
+ "name_zh_source": "unesco_official",
+ "name_en": "Matobo Hills",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "306-matobo_hills",
+ "lat": -20.5,
+ "lon": 28.5,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)(vi)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "津巴布韦大部分地区为花岗岩所覆盖，马托博地区具有最丰富的岩石地貌。这些巨石提供了大量的天然石洞，从石器时代早期直到较近的历史时期，断断续续一直与人类居所存在很大联系。这些巨石是岩画艺术的汇聚地。马托博山的神殿和宗教场所一直同当地的传统、社会活动和经济活动紧密相连，成为当地生活的焦点。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The area exhibits a profusion of distinctive rock landforms rising above the granite shield that covers much of Zimbabwe. The large boulders provide abundant natural shelters and have been associated with human occupation from the early Stone Age right through to early historical times, and intermittently since. They also feature an outstanding collection of rock paintings. The Matobo Hills continue to provide a strong focus for the local community, which still uses shrines and sacred places closely linked to traditional, social and economic activities.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_306.jpg",
+   "title": "Matobo Hills",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/306",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/306",
+ "transport": {
+  "airports": [
+   {
+    "name": "Joshua Mqabuko Nkomo International Airport",
+    "iata": "BUQ",
+    "city": "Bulawayo",
+    "country": "ZW",
+    "lat": -20.016284,
+    "lon": 28.622897,
+    "type": "large_airport",
+    "distance_km": 55.3
+   },
+   {
+    "name": "Phillip Gaonwe Matante International Airport",
+    "iata": "FRW",
+    "city": "Francistown",
+    "country": "BW",
+    "lat": -21.159183,
+    "lon": 27.468826,
+    "type": "large_airport",
+    "distance_km": 129.8
+   },
+   {
+    "name": "Polokwane International Airport",
+    "iata": "PTG",
+    "city": "Polokwane",
+    "country": "ZA",
+    "lat": -23.845269,
+    "lon": 29.458615,
+    "type": "large_airport",
+    "distance_km": 384.8
+   }
+  ],
+  "nearest_airport_km": 55.3,
+  "distance_beijing_km": 11256.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZW",
+  "country_zh": "津巴布韦",
+  "country_en": "Zimbabwe",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][163]",
+  "notes": "Also eligible for a universal visa allowing access to Zambia."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZW",
+   "country_zh": "津巴布韦",
+   "country_en": "Zimbabwe",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][163]",
+   "notes": "Also eligible for a universal visa allowing access to Zambia."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/306"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

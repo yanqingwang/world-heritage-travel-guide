@@ -1,0 +1,152 @@
+{
+ "id": "wh-740",
+ "unesco_id": "740",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 548,
+ "popularity_score": 11726,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Tristan da Cunha Island group, St Helena Dependency",
+ "subdivision_iso": "GB-UKM",
+ "subdivision_zh": "英国",
+ "subdivision_en": "United Kingdom",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "戈夫岛和伊纳克塞瑟布尔岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gough and Inaccessible Islands",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "740-gough_and_inaccessible_islands",
+ "lat": -37.3,
+ "lon": -12.68,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伊纳克塞瑟布尔岛位于南太平洋，面积14平方公里，是戈夫岛的扩展项目。戈夫岛于1995年被首次纳入《世界遗产名录》。该遗产现在称为戈夫岛和伊纳克塞瑟布尔岛，是该地区少有的几个未遭破坏保持完好的海洋生态系统的岛屿之一。每座岛上的悬崖景色壮观，俯瞰大海。岛上未曾引进哺乳动物，是世界上最大的海鸟栖息地。戈夫岛是两种当地稀有鸟类——秧鸡和罗维提鸟的栖息地，岛上还有12种当地特有植物。伊纳克塞瑟布尔岛拥有当地两种鸟类、8种植物和至少10种无脊椎动物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The site, located in the south Atlantic, is one of the least-disrupted island and marine ecosystems in the cool temperate zone. The spectacular cliffs of Gough and Inaccessible Islands, towering above the ocean, are free of introduced mammals and home to one of the world’s largest colonies of sea birds. Gough Island is home to two endemic species of land birds, the gallinule and the Gough rowettie, as well as to 12 endemic species of plants, while Inaccessible Island boasts two birds, eight plants and at least 10 invertebrates endemic to the island.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gough%20island%20top%20view.png?width=1280",
+   "title": "Gough island top view.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Gough%20island%20top%20view.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_740.jpg",
+   "title": "Gough and Inaccessible Islands",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/740",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/740",
+ "transport": {
+  "airports": [
+   {
+    "name": "Saint Helena International Airport",
+    "iata": "HLE",
+    "city": "Jamestown",
+    "country": "SH",
+    "lat": -15.958898,
+    "lon": -5.646066,
+    "type": "medium_airport",
+    "distance_km": 2471.8
+   },
+   {
+    "name": "Cape Town International Airport",
+    "iata": "CPT",
+    "city": "Cape Town",
+    "country": "ZA",
+    "lat": -33.97403,
+    "lon": 18.604333,
+    "type": "large_airport",
+    "distance_km": 2838.2
+   }
+  ],
+  "nearest_airport_km": 2471.8,
+  "distance_beijing_km": 15660.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/740"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gough%20and%20Inaccessible%20Islands"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

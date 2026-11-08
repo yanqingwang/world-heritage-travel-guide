@@ -1,0 +1,223 @@
+{
+ "id": "cn-1454",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江西省",
+ "province_en": "Jiangxi",
+ "province_iso": "CN-JX",
+ "city_zh": "上饶市",
+ "city_en": "Shangrao",
+ "name_zh": "上饶市弋阳县龟峰景区",
+ "name_en": "Yiyang County, Jiangxi",
+ "name_en_source": "wikipedia",
+ "slug": "shangraoshiyiyangxianguifeng-1454",
+ "lat": 28.332988,
+ "lon": 117.421056,
+ "address_zh": "江西省上饶市弋阳县320国道",
+ "address_en": "National Highway 320, Yiyang County, Shangrao City, Jiangxi Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "龟峰发育于距今1.35亿年的白垩纪晚期，属典型的丹霞地貌，因景区内有无数形态酷似乌龟的象形石和整个景区远远看去像一只硕大无朋的巨龟而得名。",
+ "intro_en": "Yiyang (simplified Chinese: 弋阳县; traditional Chinese: 弋陽縣; pinyin: Yìyáng Xiàn) is a county located in the center of the prefecture-level city of Shangrao, in the northeast of Jiangxi province, People's Republic of China. In 1999 it had a population of 359,164 inhabitants.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiangxi_Yiyang.svg/1280px-Jiangxi_Yiyang.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jiangxi Yiyang.svg",
+   "author": "Camphora",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jiangxi_Yiyang.svg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PLANS_Yiyang_%28FFG-548%29_20240205.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "PLANS Yiyang (FFG-548) 20240205.jpg",
+   "author": "日本防衛省・統合幕僚監部",
+   "license": "CC BY 4.0",
+   "credit": "https://www.mod.go.jp/js/pdf/2024/p20240205_04.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:PLANS_Yiyang_%28FFG-548%29_20240205.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Yiyang-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Yiyang-map.png",
+   "author": "장길산",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yiyang-map.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Yiyang_County_Museum.jpg/1280px-Yiyang_County_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yiyang County Museum.jpg",
+   "author": "Baomi",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yiyang_County_Museum.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg/1280px-Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg"
+  }
+ ],
+ "web": "http://www.guifengly.com/",
+ "booking": "http://www.guifengly.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shangrao Sanqingshan Airport",
+    "iata": "SQD",
+    "city": "Shangrao (Hengfeng)",
+    "country": "CN",
+    "lat": 28.3797,
+    "lon": 117.9643,
+    "type": "medium_airport",
+    "distance_km": 53.4
+   },
+   {
+    "name": "Nanping Wuyishan Airport",
+    "iata": "WUS",
+    "city": "Wuyishan",
+    "country": "CN",
+    "lat": 27.7019,
+    "lon": 118.000999,
+    "type": "medium_airport",
+    "distance_km": 90.4
+   },
+   {
+    "name": "Jingdezhen Luojia Airport",
+    "iata": "JDZ",
+    "city": "Jingdezhen",
+    "country": "CN",
+    "lat": 29.3386,
+    "lon": 117.176003,
+    "type": "medium_airport",
+    "distance_km": 114.3
+   }
+  ],
+  "nearest_airport_km": 53.4,
+  "high_speed_stations": [
+   {
+    "name": "弋阳",
+    "name_en": "Yiyang East",
+    "lat": 28.4142451,
+    "lon": 117.4397155,
+    "distance_km": 9.2,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "河潭埠",
+    "name_en": null,
+    "lat": 28.4087384,
+    "lon": 117.3410614,
+    "distance_km": 11.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "横峰",
+    "name_en": "Hengfeng",
+    "lat": 28.417185,
+    "lon": 117.597452,
+    "distance_km": 19.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "贵溪",
+    "name_en": "Guixi",
+    "lat": 28.2932173,
+    "lon": 117.2095653,
+    "distance_km": 21.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 28.4054752,
+   "lon": 117.4266865,
+   "distance_km": 8.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "弋陽天成風尚賓舘",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.4079497,
+   "lon": 117.4281253,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "横峰宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.4190298,
+   "lon": 117.5975091,
+   "distance_km": 19.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "云都大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.4185669,
+   "lon": 117.5979998,
+   "distance_km": 19.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/弋阳县"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

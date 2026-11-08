@@ -1,0 +1,152 @@
+{
+ "id": "wh-1073",
+ "unesco_id": "1073",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 890,
+ "popularity_score": null,
+ "country": "SD",
+ "country_zh": "苏丹",
+ "country_en": "Sudan",
+ "countries": [
+  {
+   "iso2": "SD",
+   "zh": "苏丹",
+   "en": "Sudan"
+  }
+ ],
+ "region": "Northern state, province of Meroe",
+ "subdivision_iso": "SD-NO",
+ "subdivision_zh": "",
+ "subdivision_en": "Northern State",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "博尔戈尔山和纳巴塔地区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gebel Barkal and the Sites of the Napatan Region",
+ "name_local": "جبل البركل ومواقع المنطقة النوبية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1073-gebel_barkal_and_the_sites_of_the_napata",
+ "lat": 18.533333333,
+ "lon": 31.816666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "博尔戈尔山和纳巴塔地区的5个考古遗址，分布在尼罗河河谷方圆60多公里的区域内，是库施第二王国纳巴塔文化（公元前900年到公元前270年）和麦罗埃文化（公元前270年到公元350年）的历史见证。在这5个遗址中，考古学家还发现了大量带有或不带有金字塔的陵墓、庙宇、居住区和宫殿等建筑物。博尔戈尔山自古就与宗教传统和当地民俗紧密相连。在当地人看来，博尔戈尔山最大的庙宇群至今仍然是极为神圣的地方。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These five archaeological sites, stretching over more than 60 km in the Nile valley, are testimony to the Napatan (900 to 270 BC) and Meroitic (270 BC to 350 AD) cultures, of the second kingdom of Kush. Tombs, with and without pyramids, temples, living complexes and palaces, are to be found on the site. Since Antiquity, the hill of Gebel Barkal has been strongly associated with religious traditions and folklore. The largest temples are still considered by the local people as sacred places.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تشغل هذه المواقع الأثرية الخمسة مساحة يفوق طولها 60 كيلومتراً في وادي النيل. وتحمل هذه المواقع كلها آثار الثقافة النوبية (900 - 270 قبل الميلاد) والمروية (270 قبل الميلاد – 350 ميلادية) السائدتين في ظل دولة كوش الثانية. وتتضمن هذه المواقع قبوراً مزوّدة بأهرام أو مجرّدة منها، بالإضافة الى معابد وأبنية سكنية وقصور. ومنذ عصور ما قبل التاريخ، ارتبط جبل البركل ارتباطاً وثيقاً بالتقاليد الدينية والفولكلور، اما المعابد الأساسية فلا يزال ينظر إليها كأماكن ذات طابع ميتولوجي.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amun%20Tempel%20Barkal%20SW.jpg?width=1280",
+   "title": "Amun Tempel Barkal SW.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Amun%20Tempel%20Barkal%20SW.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1073.jpg",
+   "title": "Gebel Barkal and the Sites of the Napatan Region",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1073",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1073",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dongola Airport",
+    "iata": "DOG",
+    "city": "Dongola",
+    "country": "SD",
+    "lat": 19.153666,
+    "lon": 30.430069,
+    "type": "medium_airport",
+    "distance_km": 161.4
+   },
+   {
+    "name": "Khartoum International Airport",
+    "iata": "KRT",
+    "city": "Khartoum",
+    "country": "SD",
+    "lat": 15.5895,
+    "lon": 32.5532,
+    "type": "large_airport",
+    "distance_km": 336.6
+   }
+  ],
+  "nearest_airport_km": 161.4,
+  "distance_beijing_km": 8333.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SD",
+  "country_zh": "苏丹",
+  "country_en": "Sudan",
+  "status": "visa_on_arrival",
+  "days": 60,
+  "requirement": "Visa on arrival[6]",
+  "notes": "Since 1 July 2026"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SD",
+   "country_zh": "苏丹",
+   "country_en": "Sudan",
+   "status": "visa_on_arrival",
+   "days": 60,
+   "requirement": "Visa on arrival[6]",
+   "notes": "Since 1 July 2026"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1073"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

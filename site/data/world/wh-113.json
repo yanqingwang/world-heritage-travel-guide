@@ -1,0 +1,162 @@
+{
+ "id": "wh-113",
+ "unesco_id": "113",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 204,
+ "popularity_score": 58979,
+ "country": "IR",
+ "country_zh": "伊朗",
+ "country_en": "Iran",
+ "countries": [
+  {
+   "iso2": "IR",
+   "zh": "伊朗",
+   "en": "Iran"
+  }
+ ],
+ "region": "Khuzestan",
+ "subdivision_iso": "IR-06",
+ "subdivision_zh": "胡齐斯坦省",
+ "subdivision_en": "Khuzestan Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "恰高•占比尔",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tchogha Zanbil",
+ "name_local": "چغازنبیل",
+ "local_lang": "fa",
+ "local_lang_name": "Persian",
+ "slug": "113-tchogha_zanbil",
+ "lat": 32.008333333,
+ "lon": 48.520833333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在恰高•占比尔三堵巨大的同心墙内，我们可以找到埃兰(Elam)王国圣城的遗址。该城始建于公元前1250年，摆在遗址处的几千块还没用过的砖说明，在遭到阿舒尔巴尼帕尔的侵略后，恰高•占比尔始终没有建成。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The ruins of the holy city of the Kingdom of Elam, surrounded by three huge concentric walls, are found at Tchogha Zanbil. Founded c. 1250 B.C., the city remained unfinished after it was invaded by Ashurbanipal, as shown by the thousands of unused bricks left at the site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "زیگورات دوراونتاش (به آشوری: Dūr Untaš، به ایلامی: Āl Untaš dNapiriša) یا به فارسی چُغازَنبیل، نیایشگاهی باستانی است که حدود ۱۲۵۰ سال پیش از میلاد در تمدن ایلام ساخته شد. در زبان لری چغا به معنی تپه و زنبیل به معنی سبد می‌باشد. این زیگورات، بنای مرکزی محوطه باستانی به‌جای مانده از مجموعهٔ ایلامی دوراونتاش (شهر اونتاش) است که نزدیک شوش در استان خوزستان قرار گرفته است. چغازنبیل در سال ۱۹۷۹ میلادی به‌عنوان نخستین اثر تاریخی از ایران در فهرست میراث جهانی یونسکو جای گرفت و معماری منحصر به فرد آن، در کنار زیگورات‌های کشف شده در میان رودان، برای باستان‌شناسان و علاقه‌مندان به تاریخ و میراث فرهنگی جهانی شناخته شده است. خاورشناسان چغازنبیل را قدیمی‌ترین ساختمان مذهبی شناخته شده در ایران می‌دانند.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Choghazanbil2.jpg?width=1280",
+   "title": "Choghazanbil2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Choghazanbil2.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_113.jpg",
+   "title": "Tchogha Zanbil",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/113",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/113",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dezful Airport",
+    "iata": "DEF",
+    "city": "Dezful",
+    "country": "IR",
+    "lat": 32.434399,
+    "lon": 48.397598,
+    "type": "medium_airport",
+    "distance_km": 48.8
+   },
+   {
+    "name": "Qasem Soleimani International Airport",
+    "iata": "AWZ",
+    "city": "Ahvaz",
+    "country": "IR",
+    "lat": 31.3364,
+    "lon": 48.763789,
+    "type": "large_airport",
+    "distance_km": 78.2
+   },
+   {
+    "name": "Khoram Abad Airport",
+    "iata": "KHD",
+    "city": "",
+    "country": "IR",
+    "lat": 33.43539810180664,
+    "lon": 48.282901763916016,
+    "type": "medium_airport",
+    "distance_km": 160.2
+   }
+  ],
+  "nearest_airport_km": 48.8,
+  "distance_beijing_km": 6024.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IR",
+  "country_zh": "伊朗",
+  "country_en": "Iran",
+  "status": "visa_free",
+  "days": 21,
+  "requirement": "Visa not required[6][60]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IR",
+   "country_zh": "伊朗",
+   "country_en": "Iran",
+   "status": "visa_free",
+   "days": 21,
+   "requirement": "Visa not required[6][60]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fa",
+  "local_lang_name": "Persian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 63
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/113"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chogha%20Zanbil"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

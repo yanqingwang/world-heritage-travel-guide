@@ -1,0 +1,162 @@
+{
+ "id": "wh-814",
+ "unesco_id": "814",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 682,
+ "popularity_score": 6300,
+ "country": "DM",
+ "country_zh": "多米尼克",
+ "country_en": "Dominica",
+ "countries": [
+  {
+   "iso2": "DM",
+   "zh": "多米尼克",
+   "en": "Dominica"
+  }
+ ],
+ "region": "South central part of the island",
+ "subdivision_iso": "DM-09",
+ "subdivision_zh": "",
+ "subdivision_en": "Saint Patrick Parish",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "毛恩特鲁瓦皮顿山国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Morne Trois Pitons National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "814-morne_trois_pitons_national_park",
+ "lat": 15.266667,
+ "lon": -61.283333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)(x)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个国家公园位于海拔1342米的毛恩特鲁瓦皮顿火山区中心，园内丰富的天然热带森林与具有重要科学价值的火山景致交织在一起。特鲁瓦－皮顿山国家公园近7000公顷的园区内自然景观星罗棋布：陡峭的斜坡、幽深的峡谷、50处火山喷气孔、温泉、3处淡水湖、一个“沸腾湖”以及五座火山。这里还有着小安的列斯群岛最丰富的生物物种资源，展现了一幅自然景观与世界遗产价值相融合的奇妙图景。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Luxuriant natural tropical forest blends with scenic volcanic features of great scientific interest in this national park centred on the 1,342-m-high volcano known as Morne Trois Pitons. With its precipitous slopes and deeply incised valleys, 50 fumaroles, hot springs, three freshwater lakes, a 'boiling lake' and five volcanoes, located on the park's nearly 7,000 ha, together with the richest biodiversity in the Lesser Antilles, Morne Trois Pitons National Park presents a rare combination of natural features of World Heritage value.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Valley%20of%20desolation.jpg?width=1280",
+   "title": "Valley of desolation.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Valley%20of%20desolation.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_814.jpg",
+   "title": "Morne Trois Pitons National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/814",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/814",
+ "transport": {
+  "airports": [
+   {
+    "name": "Canefield Airport",
+    "iata": "DCF",
+    "city": "Canefield",
+    "country": "DM",
+    "lat": 15.336693,
+    "lon": -61.392108,
+    "type": "medium_airport",
+    "distance_km": 14.0
+   },
+   {
+    "name": "Douglas-Charles Airport",
+    "iata": "DOM",
+    "city": "Marigot",
+    "country": "DM",
+    "lat": 15.546673,
+    "lon": -61.301082,
+    "type": "medium_airport",
+    "distance_km": 31.2
+   },
+   {
+    "name": "Marie-Galante Airport",
+    "iata": "GBJ",
+    "city": "Grand-Bourg",
+    "country": "GP",
+    "lat": 15.868925,
+    "lon": -61.270087,
+    "type": "medium_airport",
+    "distance_km": 67.0
+   }
+  ],
+  "nearest_airport_km": 14.0,
+  "distance_beijing_km": 13849.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DM",
+  "country_zh": "多米尼克",
+  "country_en": "Dominica",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DM",
+   "country_zh": "多米尼克",
+   "country_en": "Dominica",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/814"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Morne%20Trois%20Pitons%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

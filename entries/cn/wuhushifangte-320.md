@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Wuhu"
 lat: 31.38341
 lon: 118.382539
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 芜湖市方特旅游区 / Wuhu

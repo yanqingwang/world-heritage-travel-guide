@@ -1,0 +1,162 @@
+{
+ "id": "wh-274",
+ "unesco_id": "274",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 616,
+ "popularity_score": 9001,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PE-CUS",
+ "subdivision_zh": "库斯科大区",
+ "subdivision_en": "Cusco Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马丘比丘古神庙",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Sanctuary of Machu Picchu",
+ "name_local": "Santuario histórico de Machu Picchu",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "274-historic_sanctuary_of_machu_picchu",
+ "lat": -13.11666667,
+ "lon": -72.58333333,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(iii)(vii)(ix)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马丘比丘古庙位于一座非常美丽的高山上，海拔2430 米，为热带丛林所包围。该庙可能是印加帝国全盛时期最辉煌的城市建筑，那巨大的城墙、台阶、扶手都好像是在悬崖峭壁自然形成的一样。古庙矗立在安第斯山脉东边的斜坡上，环绕着亚马逊河上游的盆地，那里的动植物非常丰富。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Machu Picchu stands 2,430 m above sea-level, in the middle of a tropical mountain forest, in an extraordinarily beautiful setting. It was probably the most amazing urban creation of the Inca Empire at its height; its giant walls, terraces and ramps seem as if they have been cut naturally in the continuous rock escarpments. The natural setting, on the eastern slopes of the Andes, encompasses the upper Amazon basin with its rich diversity of flora and fauna.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ubicado a 2.430 metros de altura en un paraje de gran belleza, en medio de un bosque tropical de montaña, el santuario de Machu Picchu fue probablemente la realización arquitectónica más asombrosa del Imperio Inca en su apogeo. Sus murallas, terrazas y rampas gigantescas dan la impresión de haber sido esculpidas en las escarpaduras de la roca, como si formaran parte de ésta. El marco natural, situado en la vertiente oriental de los Andes, forma parte de la cuenca superior del Amazonas, que posee una flora y fauna muy variadas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Machu%20Picchu%20Panorama.jpg?width=1280",
+   "title": "Machu Picchu Panorama.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Machu%20Picchu%20Panorama.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_274.jpg",
+   "title": "Historic Sanctuary of Machu Picchu",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/274",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/274",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alejandro Velasco Astete International Airport",
+    "iata": "CUZ",
+    "city": "Cusco",
+    "country": "PE",
+    "lat": -13.535699844400002,
+    "lon": -71.9387969971,
+    "type": "large_airport",
+    "distance_km": 83.9
+   },
+   {
+    "name": "Andahuaylas Airport",
+    "iata": "ANS",
+    "city": "Andahuaylas",
+    "country": "PE",
+    "lat": -13.706399917602539,
+    "lon": -73.35040283203125,
+    "type": "small_airport",
+    "distance_km": 105.8
+   },
+   {
+    "name": "Air Force Colonel Alfredo Mendivil Duarte Airport",
+    "iata": "AYP",
+    "city": "Ayacucho",
+    "country": "PE",
+    "lat": -13.1548,
+    "lon": -74.204399,
+    "type": "medium_airport",
+    "distance_km": 175.6
+   }
+  ],
+  "nearest_airport_km": 83.9,
+  "distance_beijing_km": 16948.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/274"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Sanctuary%20of%20Machu%20Picchu"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

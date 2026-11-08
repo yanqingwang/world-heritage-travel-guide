@@ -1,0 +1,160 @@
+{
+ "id": "wh-1369",
+ "unesco_id": "1369",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 356,
+ "popularity_score": 24075,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "AU-WA",
+ "subdivision_zh": "西澳大利亚州",
+ "subdivision_en": "Western Australia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "宁格罗海岸",
+ "name_zh_source": "curated",
+ "name_en": "Ningaloo Coast",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1369-ningaloo_coast",
+ "lat": -22.739,
+ "lon": 113.628,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "宁格羅海岸（Ningaloo Coast）是澳大利亞西部的一段海岸線，位於伯斯以北約1200公里處。宁格羅海岸擁有世界最大規模的岸礁，全長達260公里。1987年，宁格羅海岸及其附近海域被指定為海洋公園。2011年，宁格羅海岸被列入世界遺產。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "The 604,500 hectare marine and terrestrial property of Ningaloo Coast, on the remote western coast of Australia, includes one of the longest near-shore reefs in the world. On land the site features an extensive karst system and network of underground caves and water courses. Annual gatherings of whale sharks occur at Ningaloo Coast, which is home to numerous marine species, among them a wealth of sea turtles. The terrestrial part of the site features subterranean water bodies with a substantial network of caves, conduits, and groundwater streams. They support a variety of rare species that contribute to the exceptional biodiversity of the marine and terrestrial site",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/00%202875%20Western%20Australia%20-%20Ningaloo%20Reef.jpg?width=1280",
+   "title": "00 2875 Western Australia - Ningaloo Reef.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:00%202875%20Western%20Australia%20-%20Ningaloo%20Reef.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1369.jpg",
+   "title": "Ningaloo Coast",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1369",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1369",
+ "transport": {
+  "airports": [
+   {
+    "name": "Learmonth Airport",
+    "iata": "LEA",
+    "city": "Exmouth",
+    "country": "AU",
+    "lat": -22.235201,
+    "lon": 114.090024,
+    "type": "medium_airport",
+    "distance_km": 73.4
+   },
+   {
+    "name": "Carnarvon Airport",
+    "iata": "CVQ",
+    "city": "Carnarvon",
+    "country": "AU",
+    "lat": -24.884337,
+    "lon": 113.666393,
+    "type": "medium_airport",
+    "distance_km": 238.6
+   },
+   {
+    "name": "Shark Bay Airport",
+    "iata": "MJK",
+    "city": "Denham",
+    "country": "AU",
+    "lat": -25.897294,
+    "lon": 113.575802,
+    "type": "medium_airport",
+    "distance_km": 351.2
+   }
+  ],
+  "nearest_airport_km": 73.4,
+  "distance_beijing_km": 6934.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1369"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ningaloo%20Coast"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:45Z"
+}

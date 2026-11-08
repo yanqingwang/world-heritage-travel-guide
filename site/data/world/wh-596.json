@@ -1,0 +1,162 @@
+{
+ "id": "wh-596",
+ "unesco_id": "596",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 413,
+ "popularity_score": 19333,
+ "country": "RO",
+ "country_zh": "罗马尼亚",
+ "country_en": "Romania",
+ "countries": [
+  {
+   "iso2": "RO",
+   "zh": "罗马尼亚",
+   "en": "Romania"
+  }
+ ],
+ "region": "Counties of Alba, Brasov, Harghita, Mureş, Sibiu, Region of Transylvania",
+ "subdivision_iso": "RO-AB",
+ "subdivision_zh": "阿尔巴县",
+ "subdivision_en": "Alba County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "特兰西瓦尼亚村落及其设防的教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Villages with Fortified Churches in Transylvania",
+ "name_local": "Biserici fortificate din Transilvania",
+ "local_lang": "ro",
+ "local_lang_name": "Romanian",
+ "slug": "596-villages_with_fortified_churches_in_tran",
+ "lat": 46.03529961928571,
+ "lon": 24.58737260285714,
+ "coord_accuracy": "country_centroid",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "特兰西瓦尼亚村落和它的防御教堂，展现出了一幅生动的图画，为南部特兰西瓦尼亚的文化景观增色不少。这些村落有着自己独特的土地利用制度、居住方式以及农庄的家庭组织单位，这些特点使特兰西瓦尼亚村落独具特色，自中世纪后期以来，村落及其设防的教堂一直完好保存下来，是13世纪至16世纪建筑史上重要的插曲。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These Transylvanian villages with their fortified churches provide a vivid picture of the cultural landscape of southern Transylvania. The seven villages inscribed, founded by the Transylvanian Saxons, are characterized by a specific land-use system, settlement pattern and organization of the family farmstead that have been preserved since the late Middle Ages. They are dominated by their fortified churches, which illustrate building styles from the 13th to the 16th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Satele cu biserici fortificate din Transilvania constituie un sit în Patrimoniul Mondial UNESCO, clasificat deoarece s-a considerat că oferă o imagine plină de viață a peisajului cultural din sudul Transilvaniei. Satele din această zonă sunt caracterizate de un sistem specific de cultivare a terenului, un model de așezare și organizare a gospodăriilor țărănești păstrat încă din Evul Mediu. Localitățile sunt dominate de bisericile lor fortificate, care ilustrează perioadele clădirii din secolul al XIII-lea și până în secolul al XVI-lea. Bisericile fortificate transilvane sunt specifice satelor săsești și secuiești situate în sud-estul Transilvaniei. Odinioară în număr de circa 300, bisericile fortificate au jucat atât un rol religios, cât și un rol militar pentru mai mult de cinci secole. În număr de aproximativ 150 de edificii la începutul secolului XXI, bisericile fortificate transilvane formează unul dintre cele mai dense sisteme de fortificații medievale bine păstrate de pe continentul european. În Transilvania, în așezările rurale săsești și secuiești se pot regăsi trei tipuri principale de fortificații: biserica cu incintă fortificată (de exemplu Prejmer sau Sânzieni), biserica fortificată (de exemplu Saschiz, Șeica Mare sau Seliștat), și fortăreața-biserică (de exemplu Valea Viilor sau Dârjiu) Bisericile fortificate din Ardeal se înscriu în fenomenul european al bisericil",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirchenburg%20Birth%C3%A4lm.jpg?width=1280",
+   "title": "Kirchenburg Birthälm.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kirchenburg%20Birth%C3%A4lm.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_596.jpg",
+   "title": "Villages with Fortified Churches in Transylvania",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/596",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/596",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sibiu International Airport",
+    "iata": "SBZ",
+    "city": "Sibiu",
+    "country": "RO",
+    "lat": 45.785841,
+    "lon": 24.086666,
+    "type": "large_airport",
+    "distance_km": 47.6
+   },
+   {
+    "name": "Târgu Mureş Transilvania International Airport",
+    "iata": "TGM",
+    "city": "Recea",
+    "country": "RO",
+    "lat": 46.467701,
+    "lon": 24.4125,
+    "type": "medium_airport",
+    "distance_km": 49.9
+   },
+   {
+    "name": "Brașov-Ghimbav International Airport",
+    "iata": "GHV",
+    "city": "Brașov (Ghimbav)",
+    "country": "RO",
+    "lat": 45.70558,
+    "lon": 25.522871,
+    "type": "large_airport",
+    "distance_km": 81.2
+   }
+  ],
+  "nearest_airport_km": 47.6,
+  "distance_beijing_km": 7117.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RO",
+  "country_zh": "罗马尼亚",
+  "country_en": "Romania",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RO",
+   "country_zh": "罗马尼亚",
+   "country_en": "Romania",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ro",
+  "local_lang_name": "Romanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/596"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Villages%20with%20fortified%20churches%20in%20Transylvania"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

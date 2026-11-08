@@ -1,0 +1,243 @@
+{
+ "id": "cn-323",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "安徽省",
+ "province_en": "Anhui",
+ "province_iso": "CN-AH",
+ "city_zh": "黄山市",
+ "city_en": "Huangshan",
+ "name_zh": "黄山市古徽州文化旅游区",
+ "name_en": "Huangshan",
+ "name_en_source": "wikipedia",
+ "slug": "huangshanshiguhuizhou-323",
+ "lat": 29.869137,
+ "lon": 118.442534,
+ "address_zh": "安徽省黄山市徽州区",
+ "address_en": "Huizhou District, Huangshan City, Anhui Province",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "古徽州文化旅游区内主要有徽州古城、牌坊群·鲍家花园、潜口民宅、呈坎、唐模五大旅游景点，是一个聚集了古城生活、宗祠文化、牌坊文化、徽商文化、村落文化、民居文化的古徽州文化旅游区。",
+ "intro_en": "Huangshan (simplified Chinese: 黄山; traditional Chinese: 黃山), literally meaning the Yellow Mountain(s), is a mountain range in southern Anhui province in eastern China. It was originally called \"Yishan\", and it was renamed because of a legend that the Yellow Emperor once made alchemy here. Vegetation on the range is thickest below 1,100 meters (3,600 ft), with trees growing up to the treeline at 1,800 meters (5,900 ft). The area is well known for its scenery, sunsets, peculiarly shaped granite peaks, Huangshan pine trees, hot springs, winter snow, and views of the clouds from above. Huangshan is a frequent subject of traditional Chinese paintings and literature, as well as modern photography. It is a UNESCO World Heritage Site and one of China's major tourist destinations.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Huangshan fengjing.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Huangshan_fengjing.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Anhui_Huangshan.jpg/1280px-Anhui_Huangshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Anhui Huangshan.jpg",
+   "author": "Miaulian",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Anhui_Huangshan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount-huangshan 53319729912.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "Mount Huangshan",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount-huangshan_53319729912.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mount-huangshan_53320601421_o.jpg/1280px-Mount-huangshan_53320601421_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount-huangshan 53320601421 o.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/53320601421/in/album-72177720312565103/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount-huangshan_53320601421_o.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Mount-huangshan_53320837763_o.jpg/1280px-Mount-huangshan_53320837763_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount-huangshan 53320837763 o.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/53320837763/in/album-72177720312565103/",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount-huangshan_53320837763_o.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Huangshan Tunxi International Airport",
+    "iata": "TXN",
+    "city": "Huangshan",
+    "country": "CN",
+    "lat": 29.733299,
+    "lon": 118.255997,
+    "type": "large_airport",
+    "distance_km": 23.5
+   },
+   {
+    "name": "Quzhou Airport",
+    "iata": "JUZ",
+    "city": "Quzhou (Kezheng)",
+    "country": "CN",
+    "lat": 28.96613,
+    "lon": 118.898793,
+    "type": "medium_airport",
+    "distance_km": 109.7
+   },
+   {
+    "name": "Chizhou Jiuhuashan Airport",
+    "iata": "JUH",
+    "city": "Chizhou",
+    "country": "CN",
+    "lat": 30.7403,
+    "lon": 117.6856,
+    "type": "small_airport",
+    "distance_km": 121.1
+   }
+  ],
+  "nearest_airport_km": 23.5,
+  "high_speed_stations": [
+   {
+    "name": "歙县北",
+    "name_en": null,
+    "lat": 29.9243518,
+    "lon": 118.4051782,
+    "distance_km": 7.1,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "黄山北",
+    "name_en": "Huangshanbei",
+    "lat": 29.8183365,
+    "lon": 118.2673395,
+    "distance_km": 17.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "歙县",
+    "name_en": "Shexian",
+    "lat": 29.869103,
+    "lon": 118.406185,
+    "distance_km": 3.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "三昆",
+    "name_en": null,
+    "lat": 29.9355094,
+    "lon": 118.4735718,
+    "distance_km": 8.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "岩寺",
+    "name_en": "Yansi",
+    "lat": 29.8392549,
+    "lon": 118.3600875,
+    "distance_km": 8.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "黄山市(昱城)皇冠假日酒店",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 29.7069401,
+   "lon": 118.3313534,
+   "distance_km": 21.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "安若酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.8655957,
+   "lon": 118.4322403,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "黄山歙县饭店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.8684404,
+   "lon": 118.4197312,
+   "distance_km": 2.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "游多多客栈",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.9093532,
+   "lon": 118.3311766,
+   "distance_km": 11.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "九州大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.7216741,
+   "lon": 118.3262139,
+   "distance_km": 19.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 36,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

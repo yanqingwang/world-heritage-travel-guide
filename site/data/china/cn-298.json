@@ -1,0 +1,219 @@
+{
+ "id": "cn-298",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "恩施土家族苗族自治州",
+ "city_en": "Enshi Tujia and Miao Autonomous Prefecture",
+ "name_zh": "恩施州恩施大峡谷景区",
+ "name_en": "Enshi Grand Canyon",
+ "name_en_source": "wikipedia",
+ "slug": "enshizhouenshidaxiagu-298",
+ "lat": 30.43178,
+ "lon": 109.173293,
+ "address_zh": "湖北省恩施土家族苗族自治州恩施市",
+ "address_en": "Enshi City, Enshi Tujia and Miao Autonomous Prefecture, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "峡谷全长108公里，拥有清江升白云、绝壁环峰丛、天桥连洞群、暗河接飞瀑、天坑配地缝五大奇观。峡谷中遍布绝壁悬崖、流水飞瀑、千仞孤峰，步步为景，美不胜收。",
+ "intro_en": "Enshi Grand Canyon (Chinese: 恩施大峡谷) is a natural scenic spot in Enshi, Hubei, China. It is located in the Qing River Basin, adjacent to the world's deepest sinkhole Xiaozhai Tiankeng. The total length of the canyon is about 35 kilometers, and almost all kinds of forms of karst landforms can be found, including cliffs, peak pillars, sinkholes, solutional caves, natural arches, subterranean rivers, hanging valleys, etc., constituting a rare three-dimensional karst landform. The Enshi Grand Canyon is under the management of the Enshi Grand Canyon Scenic Area Management Office, Enshi Mufu Office.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Enshi_Grand_Canyon_20240725.jpg/1280px-Enshi_Grand_Canyon_20240725.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Enshi Grand Canyon 20240725.jpg",
+   "author": "HoweyYuan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Enshi_Grand_Canyon_20240725.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Enshi_Grand_Canyon_20240725_130732.jpg/1280px-Enshi_Grand_Canyon_20240725_130732.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Enshi Grand Canyon 20240725 130732.jpg",
+   "author": "HoweyYuan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Enshi_Grand_Canyon_20240725_130732.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Enshi_grand_canyon.jpg/1280px-Enshi_grand_canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Enshi grand canyon.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "CC0",
+   "credit": "https://www.pxfuel.com/en/free-photo-icldt",
+   "source": "https://commons.wikimedia.org/wiki/File:Enshi_grand_canyon.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Enshi_grand_canyon_2025_01.jpg/1280px-Enshi_grand_canyon_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Enshi grand canyon 2025 01.jpg",
+   "author": "Wimwamble",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Enshi_grand_canyon_2025_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Enshi_grand_canyon_2025_02.jpg/1280px-Enshi_grand_canyon_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Enshi grand canyon 2025 02.jpg",
+   "author": "Wimwamble",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Enshi_grand_canyon_2025_02.jpg"
+  }
+ ],
+ "web": "https://www.esdaxiagu.com/",
+ "booking": "https://www.esdaxiagu.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Enshi Xujiaping Airport",
+    "iata": "ENH",
+    "city": "Enshi (Enshi)",
+    "country": "CN",
+    "lat": 30.320299,
+    "lon": 109.485001,
+    "type": "medium_airport",
+    "distance_km": 32.4
+   },
+   {
+    "name": "Wanzhou Wuqiao Airport",
+    "iata": "WXN",
+    "city": "Wanzhou",
+    "country": "CN",
+    "lat": 30.8017,
+    "lon": 108.433,
+    "type": "small_airport",
+    "distance_km": 81.9
+   },
+   {
+    "name": "Chongqing Wushan Airport",
+    "iata": "WSK",
+    "city": "Wushan",
+    "country": "CN",
+    "lat": 31.06896,
+    "lon": 109.708958,
+    "type": "small_airport",
+    "distance_km": 87.4
+   }
+  ],
+  "nearest_airport_km": 32.4,
+  "high_speed_stations": [
+   {
+    "name": "利川",
+    "name_en": "Lichuan",
+    "lat": 30.2811807,
+    "lon": 108.9359725,
+    "distance_km": 28.3,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "恩施",
+    "name_en": "Enshi",
+    "lat": 30.3512785,
+    "lon": 109.479878,
+    "distance_km": 30.7,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "建始",
+    "name_en": null,
+    "lat": 30.569824,
+    "lon": 109.723454,
+    "distance_km": 54.9,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "恩施南",
+    "name_en": null,
+    "lat": 30.2501297,
+    "lon": 109.4691143,
+    "distance_km": 34.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "凉雾",
+    "name_en": "Liangwu",
+    "lat": 30.2619167,
+    "lon": 108.8086804,
+    "distance_km": 39.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "白杨坪 (预留)",
+    "name_en": null,
+    "lat": 30.4807658,
+    "lon": 109.6230905,
+    "distance_km": 43.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "峡谷轩",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.4265483,
+   "lon": 109.1686769,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "途客中国轻居酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.4114272,
+   "lon": 109.1932467,
+   "distance_km": 3.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/恩施大峡谷"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

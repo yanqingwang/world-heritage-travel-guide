@@ -1,0 +1,234 @@
+{
+ "id": "cn-1304",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "天津市",
+ "province_en": "Tianjin",
+ "province_iso": "CN-TJ",
+ "city_zh": "南开区",
+ "city_en": "Nankai District",
+ "name_zh": "天津古文化街旅游区（津门故里）",
+ "name_en": "Guwenhua Jie",
+ "name_en_source": "wikipedia",
+ "slug": "tianjinguwenhuajielvyouqujinmenguli-1304",
+ "lat": 39.148444,
+ "lon": 117.182192,
+ "address_zh": "天津市南开区鼓楼街道",
+ "address_en": "Gulou Street, Nankai District, Tianjin",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "天津古文化街又称津门故里，以经营文化用品为主。古文化街内有近百家店堂。是天津老字号店民间手工艺品店的集中地，有狗不理包子、耳朵眼炸糕、煎饼果子、老翟药糖、天津麻花等地道美食，还有天后宫、泥人张彩塑等景点。",
+ "intro_en": "Guwenhua Jie, Tianjin's Ancient Culture Street, is a pedestrian pathway complex dotted with temple gates and kiosks on the west bank of the Hai River in Tianjin, China. The Nankai District area is classified as a AAAAA scenic area by the China National Tourism Administration. Tianjin Ancient Culture Street was opened on New Year's Day in 1986. It preserves the architectural style of Qing dynasty, with its Niangniang Palace honoring the sea-goddess Mazu in the center. There are many tourist attractions along the street.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ancient_Culture_Street_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ancient Culture Street entrance.jpg",
+   "author": "William M Benson",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ancient_Culture_Street_entrance.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/20230220_Guwenhua_Jie.jpg/1280px-20230220_Guwenhua_Jie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20230220 Guwenhua Jie.jpg",
+   "author": "Yumeto",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20230220_Guwenhua_Jie.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tianjin_Guwenhua_Jie-20150522-RM-120620.jpg/1280px-Tianjin_Guwenhua_Jie-20150522-RM-120620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianjin Guwenhua Jie-20150522-RM-120620.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianjin_Guwenhua_Jie-20150522-RM-120620.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Tianjin_Guwenhua_Jie-20150522-RM-121846.jpg/1280px-Tianjin_Guwenhua_Jie-20150522-RM-121846.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianjin Guwenhua Jie-20150522-RM-121846.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianjin_Guwenhua_Jie-20150522-RM-121846.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Tianjin_Guwenhua_Jie-20150522-RM-121902.jpg/1280px-Tianjin_Guwenhua_Jie-20150522-RM-121902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianjin Guwenhua Jie-20150522-RM-121902.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianjin_Guwenhua_Jie-20150522-RM-121902.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tianjin Binhai International Airport",
+    "iata": "TSN",
+    "city": "Tianjin",
+    "country": "CN",
+    "lat": 39.124401092499994,
+    "lon": 117.346000671,
+    "type": "large_airport",
+    "distance_km": 14.4
+   },
+   {
+    "name": "Beijing Daxing International Airport",
+    "iata": "PKX",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 39.501289,
+    "lon": 116.413967,
+    "type": "large_airport",
+    "distance_km": 76.8
+   },
+   {
+    "name": "Tangshan Sannühe Airport",
+    "iata": "TVS",
+    "city": "Tangshan (Fengrun)",
+    "country": "CN",
+    "lat": 39.7178,
+    "lon": 118.002625,
+    "type": "small_airport",
+    "distance_km": 94.7
+   }
+  ],
+  "nearest_airport_km": 14.4,
+  "high_speed_stations": [
+   {
+    "name": "天津西",
+    "name_en": "Tianjinxi",
+    "lat": 39.157355,
+    "lon": 117.1571195,
+    "distance_km": 2.4,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "天津",
+    "name_en": "Tianjin",
+    "lat": 39.1357517,
+    "lon": 117.2036841,
+    "distance_km": 2.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "天津北",
+    "name_en": "Tianjinbei",
+    "lat": 39.1656713,
+    "lon": 117.2030494,
+    "distance_km": 2.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南仓",
+    "name_en": "Nancang",
+    "lat": 39.2024881,
+    "lon": 117.1720259,
+    "distance_km": 6.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "天津康莱德酒店",
+   "name_en": "Tianjin Conrad Hotel",
+   "stars": 4,
+   "brand": "Conrad",
+   "lat": 39.0920254,
+   "lon": 117.1697023,
+   "distance_km": 6.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "南开大学专家公寓",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 38.9906457,
+   "lon": 117.3325943,
+   "distance_km": 21.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "天津瑞吉金融街酒店",
+   "name_en": "ST. Regis Tianjin",
+   "stars": null,
+   "brand": null,
+   "lat": 39.1283389,
+   "lon": 117.1913305,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "天津四季酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.1188564,
+   "lon": 117.1912248,
+   "distance_km": 3.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "喜来登大酒店",
+   "name_en": "Sheraton Tianjin Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.0873877,
+   "lon": 117.1848758,
+   "distance_km": 6.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 81,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/古文化街"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

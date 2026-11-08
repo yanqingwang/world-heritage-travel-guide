@@ -1,0 +1,162 @@
+{
+ "id": "wh-59",
+ "unesco_id": "59",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 288,
+ "popularity_score": 32202,
+ "country": "NO",
+ "country_zh": "挪威",
+ "country_en": "Norway",
+ "countries": [
+  {
+   "iso2": "NO",
+   "zh": "挪威",
+   "en": "Norway"
+  }
+ ],
+ "region": "City of Bergen, County of Hordaland",
+ "subdivision_iso": "NO-46",
+ "subdivision_zh": "韋斯特蘭郡",
+ "subdivision_en": "Vestland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卑尔根市布吕根区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Bryggen",
+ "name_local": "Bryggen i Bergen",
+ "local_lang": "no",
+ "local_lang_name": "Norwegian",
+ "slug": "59-bryggen",
+ "lat": 60.3975,
+ "lon": 5.323333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "布吕根地区是卑尔根的一个旧码头，该遗迹告诉人们这是14世纪到16世纪中叶汉萨同盟贸易帝国的一个重镇。多起火灾(最后一起是在1955年) 烧毁了布吕根地区美丽的木头房子，但是其主要建筑仍然保存下来。如今残存的58幢建筑大部分被用作艺术家的工作室。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Bryggen, the old wharf of Bergen, is a reminder of the town’s importance as part of the Hanseatic League’s trading empire from the 14th to the mid-16th century. Many fires, the last in 1955, have ravaged the characteristic wooden houses of Bryggen. Its rebuilding has traditionally followed old patterns and methods, thus leaving its main structure preserved, which is a relic of an ancient wooden urban structure once common in Northern Europe. Today, some 62 buildings remain of this former townscape.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Bryggen i Bergen, også kjent som Tyskebryggen og Hansabryggen, omfatter den gamle trebebyggelsen og brannsikre steinkjellere i den historiske bykjernen i Bergen. Bryggen ble anlagt av Olav Kyrre rundt 1070, og var fra 1360 til 1754 sete for Det tyske kontor i byen og det sentrale knutepunktet for hanseatisk handelsvirksomhet i Norge. Hansa-kompaniet var også Nordens første handelskompani. Bryggen består av ca. 13 mål med 61 fredede bygninger, og befinner seg på UNESCOs liste over verdens kulturarv. Bryggen er den tredje mest besøkte turistattraksjonen i Norge.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bryggen%2C%20Bergen3.JPG?width=1280",
+   "title": "Bryggen, Bergen3.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bryggen%2C%20Bergen3.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_59.jpg",
+   "title": "Bryggen",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/59",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/59",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bergen Airport, Flesland",
+    "iata": "BGO",
+    "city": "Bergen",
+    "country": "NO",
+    "lat": 60.2934,
+    "lon": 5.21814,
+    "type": "large_airport",
+    "distance_km": 12.9
+   },
+   {
+    "name": "Stord Airport, Sørstokken",
+    "iata": "SRP",
+    "city": "Leirvik",
+    "country": "NO",
+    "lat": 59.791901,
+    "lon": 5.34085,
+    "type": "medium_airport",
+    "distance_km": 67.3
+   },
+   {
+    "name": "Førde Airport, Bringeland",
+    "iata": "FDE",
+    "city": "Førde",
+    "country": "NO",
+    "lat": 61.391102,
+    "lon": 5.75694,
+    "type": "small_airport",
+    "distance_km": 112.9
+   }
+  ],
+  "nearest_airport_km": 12.9,
+  "distance_beijing_km": 7238.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NO",
+  "country_zh": "挪威",
+  "country_en": "Norway",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NO",
+   "country_zh": "挪威",
+   "country_en": "Norway",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "no",
+  "local_lang_name": "Norwegian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/59"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bryggen"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Dalian"
 lat: 38.912757
 lon: 121.497166
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 大连市老虎滩海洋公园—老虎滩极地馆 / Laohutanhaiyanggongyuan

@@ -1,0 +1,223 @@
+{
+ "id": "cn-442",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "郑州市",
+ "city_en": "Zhengzhou",
+ "name_zh": "郑州市嵩山少林景区",
+ "name_en": "Mount Song",
+ "name_en_source": "wikipedia",
+ "slug": "zhengzhoushisongshanshaolin-442",
+ "lat": 34.520888,
+ "lon": 112.962116,
+ "address_zh": "郑州市登封市少林街道",
+ "address_en": "Shaolin Street, Dengfeng City, Zhengzhou City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "嵩山少林风景区位于河南省登封市境内，除了巍峨耸立的嵩山，景区还有始建于北魏的少林寺、规模宏大的中岳庙、程朱理学发源地嵩阳书院等古迹。其中，少林寺有“天下第一名刹”的美誉，现存建筑包括常住院、塔林、初祖庵、二祖庵及达摩洞等。2007年8月17日，嵩山少林风景区入选首批国家5A级景区。",
+ "intro_en": "Mount Song (Chinese: 嵩山; pinyin: Sōngshān, \"lofty mountain\") is an isolated mountain range in north central China's Henan Province, along the southern bank of the Yellow River. It is known in literary and folk tradition as the central mountain of the Five Great Mountains of China. Since at least as early as the early 1st millennium BC, Chinese astronomical mythology had acquired the idea that Mount Song is \"the centre of Heaven and Earth.\" It was respected as such by the successive dynasties of the Chinese Empire. The name Songshan also applies to a peak of the range located at 34°30′38″N 112°56′05″E, elevation 1,492 m (4,895 ft). It is the 4th highest peak, but second in prominence at 869 m (2,851 ft). Songshan National Scenic Spot is named after it. The highest peak in the range is Lian Tian Feng at 1,512 metres (4,961 ft), also most prominent at 1,221 m (4,006 ft). It is located at the coordinates shown for the article. On its upper slopes is the Sanhuangzhai Scenic Spot, further west seen from Route G1516 (Yanluo Expressway), which skirts the range on the south. The location is across the Shaoyang valley on the west side of which is Shaolin Monastery. The valley is well populat",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Songshan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Songshan.JPG",
+   "author": "张骐",
+   "license": "Public domain",
+   "credit": "Own work ( Original text: self-made（自己拍摄） )",
+   "source": "https://commons.wikimedia.org/wiki/File:Songshan.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Hikers_in_Taishi_Shan_Jingqu_on_Song_Shan.jpg/1280px-Hikers_in_Taishi_Shan_Jingqu_on_Song_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hikers in Taishi Shan Jingqu on Song Shan.jpg",
+   "author": "Woudloper",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hikers_in_Taishi_Shan_Jingqu_on_Song_Shan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Song_Shan_01_%28Song_Mountain%29.jpg/1280px-Song_Shan_01_%28Song_Mountain%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Song Shan 01 (Song Mountain).jpg",
+   "author": "Gary Todd",
+   "license": "CC0",
+   "credit": "https://www.flickr.com/photos/101561334@N08/10322954126/",
+   "source": "https://commons.wikimedia.org/wiki/File:Song_Shan_01_%28Song_Mountain%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Song_Shan_02.jpg/1280px-Song_Shan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Song Shan 02.jpg",
+   "author": "Gary Todd",
+   "license": "CC0",
+   "credit": "https://www.flickr.com/photos/101561334@N08/10322933755/",
+   "source": "https://commons.wikimedia.org/wiki/File:Song_Shan_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Song_Shan_03.jpg/1280px-Song_Shan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Song Shan 03.jpg",
+   "author": "Gary Todd",
+   "license": "CC0",
+   "credit": "https://www.flickr.com/photos/101561334@N08/10322929364/",
+   "source": "https://commons.wikimedia.org/wiki/File:Song_Shan_03.jpg"
+  }
+ ],
+ "web": "http://www.songshancn.com/main.php",
+ "booking": "http://www.songshancn.com/main.php",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luoyang Beijiao Airport",
+    "iata": "LYA",
+    "city": "Luoyang (Laocheng)",
+    "country": "CN",
+    "lat": 34.7411,
+    "lon": 112.388,
+    "type": "large_airport",
+    "distance_km": 58.0
+   },
+   {
+    "name": "Zhengzhou Xinzheng International Airport",
+    "iata": "CGO",
+    "city": "Zhengzhou",
+    "country": "CN",
+    "lat": 34.526497,
+    "lon": 113.849165,
+    "type": "large_airport",
+    "distance_km": 81.3
+   },
+   {
+    "name": "Nanyang Jiangying Airport",
+    "iata": "NNY",
+    "city": "Nanyang (Wancheng)",
+    "country": "CN",
+    "lat": 32.982696,
+    "lon": 112.617467,
+    "type": "small_airport",
+    "distance_km": 174.0
+   }
+  ],
+  "nearest_airport_km": 58.0,
+  "high_speed_stations": [
+   {
+    "name": "巩义南",
+    "name_en": "Gongyi South",
+    "lat": 34.6716859,
+    "lon": 112.9105621,
+    "distance_km": 17.4,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "安庙",
+    "name_en": null,
+    "lat": 34.3591051,
+    "lon": 112.9818435,
+    "distance_km": 18.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "白坪",
+    "name_en": null,
+    "lat": 34.3730923,
+    "lon": 113.0760955,
+    "distance_km": 19.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "阳城货场",
+    "name_en": null,
+    "lat": 34.3861893,
+    "lon": 113.1157728,
+    "distance_km": 20.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Dharma hall",
+   "name_en": "Dharma hall",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5163854,
+   "lon": 112.9444803,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "嵩山禅居饭店",
+   "name_en": "Zen International Shaolin Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5115887,
+   "lon": 112.9408551,
+   "distance_km": 2.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "美程文旅酒店(登封观书院店)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.4725877,
+   "lon": 113.0316283,
+   "distance_km": 8.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shaolin International Hotel",
+   "name_en": "Shaolin International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.4552339,
+   "lon": 113.0431536,
+   "distance_km": 10.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/嵩山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

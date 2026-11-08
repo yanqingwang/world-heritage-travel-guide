@@ -1,0 +1,162 @@
+{
+ "id": "wh-358",
+ "unesco_id": "358",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 483,
+ "popularity_score": 14281,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "City and District of Divriği, Province of Sivas (Eastern Anatolia)",
+ "subdivision_iso": "TR-58",
+ "subdivision_zh": "锡瓦斯省",
+ "subdivision_en": "Sivas Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "迪夫里伊的大清真寺和医院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Great Mosque and Hospital of Divriği",
+ "name_local": "Divriği Ulu Camii ve Darüşşifası",
+ "local_lang": "tr",
+ "local_lang_name": "Turkish",
+ "slug": "358-great_mosque_and_hospital_of_divriği",
+ "lat": 39.371222222,
+ "lon": 38.121583333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "迪夫里伊的大清真寺和医院位于安纳托利亚地区，11世纪由土耳其人占领。埃米尔·艾哈迈德·沙哈(Emir Ahmet Shah)于1228-1229年建立了一座里面包括一个单独祈祷室的清真寺，有两个圆盖封顶，还与一个医院相邻。它极其精致的拱顶结构、富有想象力的创造性的装饰性雕刻（尤其是三扇门上的），与朴实无华的内部墙壁形成了鲜明对比，这些都使它成为伊斯兰建筑中独一无二的杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This region of Anatolia was conquered by the Turks at the beginning of the 11th century. In 1228–29 Emir Ahmet Shah founded a mosque, with its adjoining hospital, at Divrigi. The mosque has a single prayer room and is crowned by two cupolas. The highly sophisticated technique of vault construction, and a creative, exuberant type of decorative sculpture – particularly on the three doorways, in contrast to the unadorned walls of the interior – are the unique features of this masterpiece of Islamic architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Divriği Ulu Cami ve Darüşşifası, Sivas'ın Divriği ilçesinde bulunan tarihi cami ve hastanedir. UNESCO Dünya Mirası listesindedir. Cami 1228–29 yıllarında Mengücekli beyi Ahmed Şah tarafından; Dârüşşifa ise aynı tarihte, Ahmed Şah'ın eşi ve Erzincan beyi Fahreddin Behramşah'ın kızı olan Turan Melek tarafından Ahlatlı Muğis oğlu Hürrem Şah adlı bir mimara yaptırılmıştır. Darüşşifa caminin güney duvarına dayanmıştır. Orta bölümü bir ışıklık kubbesi ile örtülmüştür, giriş ile birlikte dört eyvandan oluşur. Darüşşifanın kuzeydoğu köşesinde türbe yer alır. Divriği Ulu Cami ve Darüşşifası 1985 yılında Dünya Mirası listesine alınarak Türkiye'den listeye giren ilk mimari yapı olmuştur. Divriği Ulu Cami ve Darüşşifası 2024 yılında Türkiye'nin 50. milli parkı olarak ilan edilen Divriği Milli Parkı içinde yer almaktadır.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Divrigi%20complex%20DSCF3028.jpg?width=1280",
+   "title": "Divrigi complex DSCF3028.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Divrigi%20complex%20DSCF3028.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_358.jpg",
+   "title": "Great Mosque and Hospital of Divriği",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/358",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/358",
+ "transport": {
+  "airports": [
+   {
+    "name": "Malatya Erhaç Airport",
+    "iata": "MLX",
+    "city": "Malatya",
+    "country": "TR",
+    "lat": 38.435298919699996,
+    "lon": 38.0909996033,
+    "type": "medium_airport",
+    "distance_km": 104.1
+   },
+   {
+    "name": "Sivas Nuri Demirağ Airport",
+    "iata": "VAS",
+    "city": "Sivas",
+    "country": "TR",
+    "lat": 39.813801,
+    "lon": 36.9035,
+    "type": "medium_airport",
+    "distance_km": 115.4
+   },
+   {
+    "name": "Erzincan Airport",
+    "iata": "ERC",
+    "city": "Erzincan",
+    "country": "TR",
+    "lat": 39.7102012634,
+    "lon": 39.527000427199994,
+    "type": "medium_airport",
+    "distance_km": 126.3
+   }
+  ],
+  "nearest_airport_km": 104.1,
+  "distance_beijing_km": 6525.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "tr",
+  "local_lang_name": "Turkish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/358"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Divri%C4%9Fi%20Great%20Mosque%20and%20Hospital"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

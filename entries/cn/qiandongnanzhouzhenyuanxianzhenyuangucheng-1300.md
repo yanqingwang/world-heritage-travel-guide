@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Qiandongnanmiaozudongzu Autonomous Prefecture"
 lat: 27.055783
 lon: 108.42516
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 黔东南州镇远县镇远古城旅游景区 / Zhenyuan County, Guizhou

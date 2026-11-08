@@ -1,0 +1,162 @@
+{
+ "id": "wh-865",
+ "unesco_id": "865",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 586,
+ "popularity_score": 10178,
+ "country": "UA",
+ "country_zh": "乌克兰",
+ "country_en": "Ukraine",
+ "countries": [
+  {
+   "iso2": "UA",
+   "zh": "乌克兰",
+   "en": "Ukraine"
+  }
+ ],
+ "region": "Halychyna, L’viv Oblast'",
+ "subdivision_iso": "UA-46",
+ "subdivision_zh": "",
+ "subdivision_en": "Lviv Oblast",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "里沃夫历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "L'viv – the Ensemble of the Historic Centre",
+ "name_local": "Історичний центр Львова",
+ "local_lang": "uk",
+ "local_lang_name": "Ukrainian",
+ "slug": "865-l'viv_–_the_ensemble_of_the_historic_cen",
+ "lat": 49.84166667,
+ "lon": 24.03194444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(v)",
+ "year": "1998",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "里沃夫建于中世纪后期，作为政治、宗教和商业中心繁荣了好几个世纪。中世纪的城市地形被完好无缺地保存下来，特别是反映不同的民族在此居住的证据。这里还有许多精巧的巴洛克风格建筑及其后的建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The city of L''viv, founded in the late Middle Ages, was a flourishing administrative, religious and commercial centre for several centuries. The medieval urban topography has been preserved virtually intact (in particular, there is evidence of the different ethnic communities who lived there), along with many fine Baroque and later buildings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Істори́чний центр Льво́ва, або Старе́ мі́сто — історично, — перший район Львова, де було засновано місто, яким воно довгий час обмежувалося, і звідки розвивалося; політичний, економічний і культурний центр Львова. Найдавнішу частину Старого міста занесено до списку Світової спадщини ЮНЕСКО. Єдиної думки щодо визначення меж центру Львова не існує. Переважно Центром Львова називають місцевість в улоговині, обмеженій пагорбами.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cables%20Lviv.jpg?width=1280",
+   "title": "Cables Lviv.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Cables%20Lviv.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_865.jpg",
+   "title": "L'viv – the Ensemble of the Historic Centre",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/865",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/865",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rzeszów-Jasionka Airport",
+    "iata": "RZE",
+    "city": "Jasionka",
+    "country": "PL",
+    "lat": 50.109791,
+    "lon": 22.024155,
+    "type": "large_airport",
+    "distance_km": 146.6
+   },
+   {
+    "name": "Lublin Airport",
+    "iata": "LUZ",
+    "city": "Lublin",
+    "country": "PL",
+    "lat": 51.240157,
+    "lon": 22.713461,
+    "type": "large_airport",
+    "distance_km": 181.3
+   },
+   {
+    "name": "Košice International Airport",
+    "iata": "KSC",
+    "city": "Košice",
+    "country": "SK",
+    "lat": 48.663101,
+    "lon": 21.2411,
+    "type": "medium_airport",
+    "distance_km": 241.2
+   }
+  ],
+  "nearest_airport_km": 146.6,
+  "distance_beijing_km": 6998.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UA",
+  "country_zh": "乌克兰",
+  "country_en": "Ukraine",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6]",
+  "notes": "Ukraine resumed its eVisa service in February 2025.[154]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UA",
+   "country_zh": "乌克兰",
+   "country_en": "Ukraine",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6]",
+   "notes": "Ukraine resumed its eVisa service in February 2025.[154]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "uk",
+  "local_lang_name": "Ukrainian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/865"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old%20Town%20%28Lviv%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

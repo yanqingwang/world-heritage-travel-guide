@@ -1,0 +1,162 @@
+{
+ "id": "wh-1696",
+ "unesco_id": "1696",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1012,
+ "popularity_score": null,
+ "country": "AZ",
+ "country_zh": "阿塞拜疆",
+ "country_en": "Azerbaijan",
+ "countries": [
+  {
+   "iso2": "AZ",
+   "zh": "阿塞拜疆",
+   "en": "Azerbaijan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "希纳利格人文化景观和移牧路线",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1696-cultural_landscape_of_khinalig_people_an",
+ "lat": 40.7059,
+ "lon": 48.8854,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这片文化景观包括阿塞拜疆北部的希纳利格（Khinalig）高山村庄、大高加索山脉中的高海拔夏季牧场和梯田、阿塞拜疆中部的低地平原冬季牧场，以及连接这些地区的长达200公里季节性移牧路线（Köç Yolu）。希纳利格村是半游牧的希纳利格人的家园，他们保留着古老的长距离垂直移牧，其文化和生活方式随夏季和冬季牧场之间的季节性迁徙而变。古道、临时牧场、扎营地、墓地、清真寺组成有机发展的网络，展示了与极端环境条件相适应的可持续生态社会系统。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This cultural landscape is comprised of the high-mountain Khinalig village in northern Azerbaijan, high-altitude summer pastures and agricultural terraces in the Greater Caucasus Mountains, winter pastures in the lowland plains in central Azerbaijan, and the connecting 200-kilometre-long seasonal transhumance route called Köç Yolu (“Migration Route”). The village of Khinalig is home to the semi-nomadic Khinalig people, whose culture and lifestyle are defined by the seasonal migration between summer and winter pastures, and who retain the ancient way of long-distance vertical transhumance. The organically evolved network including ancient routes, temporary pastures and camping sites, mausoleums, and mosques illustrates a sustainable eco-social system adapted to extreme environmental conditions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Azerbaijani%20Village.JPG?width=1280",
+   "title": "Azerbaijani Village.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Azerbaijani%20Village.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1696.jpg",
+   "title": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1696",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1696",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gabala International Airport",
+    "iata": "GBB",
+    "city": "Gabala",
+    "country": "AZ",
+    "lat": 40.808617,
+    "lon": 47.725389,
+    "type": "medium_airport",
+    "distance_km": 98.4
+   },
+   {
+    "name": "Heydar Aliyev International Airport",
+    "iata": "GYD",
+    "city": "Baku",
+    "country": "AZ",
+    "lat": 40.47278,
+    "lon": 50.050931,
+    "type": "large_airport",
+    "distance_km": 101.8
+   },
+   {
+    "name": "Parsabad-Moghan Airport",
+    "iata": "PFQ",
+    "city": "Parsabad",
+    "country": "IR",
+    "lat": 39.6036,
+    "lon": 47.8815,
+    "type": "small_airport",
+    "distance_km": 149.3
+   }
+  ],
+  "nearest_airport_km": 98.4,
+  "distance_beijing_km": 5668.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AZ",
+  "country_zh": "阿塞拜疆",
+  "country_en": "Azerbaijan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[17]",
+  "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AZ",
+   "country_zh": "阿塞拜疆",
+   "country_en": "Azerbaijan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[17]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1696"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

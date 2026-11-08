@@ -1,0 +1,324 @@
+{
+ "id": "wh-373",
+ "unesco_id": "373",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 5,
+ "popularity_score": 1324527,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Wiltshire, England",
+ "subdivision_iso": "GB-WIL",
+ "subdivision_zh": "威尔特郡",
+ "subdivision_en": "Wiltshire",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "“巨石阵”、埃夫伯里及周围的巨石遗迹",
+ "name_zh_source": "unesco_official",
+ "name_en": "Stonehenge, Avebury and Associated Sites",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "373-stonehenge,_avebury_and_associated_sites",
+ "lat": 51.178888888,
+ "lon": -1.826111111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于威尔特郡的“巨石阵”、埃夫伯里是世界上最负盛名的巨石林，它们由巨石围成圆圈，其排列方式对天文学的重要意义仍在探索之中。这个圣地和周围的新石器时代遗址为研究史前时代提供了至关重要的证据。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Stonehenge and Avebury, in Wiltshire, are among the most famous groups of megaliths in the world. The two sanctuaries consist of circles of menhirs arranged in a pattern whose astronomical significance is still being explored. These holy places and the nearby Neolithic sites are an incomparable testimony to prehistoric times.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge%20Total.jpg?width=1280",
+   "title": "Stonehenge Total.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Stonehenge%20Total.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Stonehenge.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Stonehenge.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Stonehenge_in_2026_v01.jpg/1280px-Stonehenge_in_2026_v01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Stonehenge in 2026 v01.jpg",
+   "author": "Thomas Fuhrmann",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_in_2026_v01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Stonehenge_in_2026_v02.jpg/1280px-Stonehenge_in_2026_v02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Stonehenge in 2026 v02.jpg",
+   "author": "Thomas Fuhrmann",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_in_2026_v02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Stonehenge_in_2026_v03.jpg/1280px-Stonehenge_in_2026_v03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Stonehenge in 2026 v03.jpg",
+   "author": "Thomas Fuhrmann",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Stonehenge_in_2026_v03.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/373",
+ "transport": {
+  "airports": [
+   {
+    "name": "Southampton Airport",
+    "iata": "SOU",
+    "city": "Southampton",
+    "country": "GB",
+    "lat": 50.950298,
+    "lon": -1.3568,
+    "type": "medium_airport",
+    "distance_km": 41.5
+   },
+   {
+    "name": "Bournemouth Airport",
+    "iata": "BOH",
+    "city": "Bournemouth",
+    "country": "GB",
+    "lat": 50.780483,
+    "lon": -1.839576,
+    "type": "medium_airport",
+    "distance_km": 44.3
+   },
+   {
+    "name": "Bristol Airport",
+    "iata": "BRS",
+    "city": "Bristol",
+    "country": "GB",
+    "lat": 51.382326,
+    "lon": -2.716453,
+    "type": "large_airport",
+    "distance_km": 65.9
+   }
+  ],
+  "nearest_airport_km": 41.5,
+  "distance_beijing_km": 8238.3,
+  "ferry_terminals": [
+   {
+    "name": "Red Funnel Terminal 1",
+    "name_en": null,
+    "lat": 50.8957021,
+    "lon": -1.4064069,
+    "distance_km": 43.0,
+    "operator": null
+   },
+   {
+    "name": "Red Funnel Terminal 2",
+    "name_en": null,
+    "lat": 50.8943782,
+    "lon": -1.4052482,
+    "distance_km": 43.2,
+    "operator": null
+   },
+   {
+    "name": "Town Quay",
+    "name_en": null,
+    "lat": 50.8940756,
+    "lon": -1.4057387,
+    "distance_km": 43.2,
+    "operator": null
+   },
+   {
+    "name": "Red Jet Ticket Office",
+    "name_en": null,
+    "lat": 50.8945516,
+    "lon": -1.4060534,
+    "distance_km": 43.2,
+    "operator": null
+   },
+   {
+    "name": "Hythe Pier",
+    "name_en": null,
+    "lat": 50.8749214,
+    "lon": -1.3935734,
+    "distance_km": 45.4,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Salisbury",
+    "name_en": null,
+    "lat": 51.0705706,
+    "lon": -1.8064141,
+    "distance_km": 12.1,
+    "operator": "South Western Railway"
+   },
+   {
+    "name": "Grateley",
+    "name_en": null,
+    "lat": 51.1701959,
+    "lon": -1.6204438,
+    "distance_km": 14.4,
+    "operator": "South Western Railway"
+   },
+   {
+    "name": "Pewsey",
+    "name_en": null,
+    "lat": 51.3422347,
+    "lon": -1.7706911,
+    "distance_km": 18.6,
+    "operator": "Great Western Railway"
+   },
+   {
+    "name": "Dean",
+    "name_en": null,
+    "lat": 51.0423679,
+    "lon": -1.633916,
+    "distance_km": 20.3,
+    "operator": "South Western Railway"
+   },
+   {
+    "name": "Tisbury",
+    "name_en": null,
+    "lat": 51.061005,
+    "lon": -2.0787884,
+    "distance_km": 22.0,
+    "operator": "South Western Railway"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "The Manor House",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.4937944,
+   "lon": -2.2320487,
+   "distance_km": 45.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure Salisbury White Hart",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 51.0664052,
+   "lon": -1.7931061,
+   "distance_km": 12.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Southampton",
+   "name_en": null,
+   "stars": 4,
+   "brand": "DoubleTree",
+   "lat": 50.9530647,
+   "lon": -1.4019524,
+   "distance_km": 38.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Pheasant Inn",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.4581657,
+   "lon": -1.4803618,
+   "distance_km": 39.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Delta Hotels by Marriott",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Delta Hotels",
+   "lat": 51.5455386,
+   "lon": -1.7732691,
+   "distance_km": 40.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 119
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/373"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stonehenge"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

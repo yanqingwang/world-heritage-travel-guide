@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Baoshan"
 lat: 24.953077
 lon: 98.447149
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 保山市火山热海旅游区 / Baoshanshihuoshanrehai Tourist Area

@@ -1,0 +1,174 @@
+{
+ "id": "cn-1382",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "丽水市",
+ "city_en": "Lishui City",
+ "name_zh": "丽水市缙云仙都景区",
+ "name_en": "Xiandou Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "lishuishijinyunxiandou-1382",
+ "lat": 28.714992,
+ "lon": 120.076183,
+ "address_zh": "浙江省丽水市缙云县鼎湖路",
+ "address_en": "Dinghu Road, Jinyun County, Lishui City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "丽水缙云仙都景区是一个山明水秀、景物优美、气候宜人的游览胜地，境内九曲练溪，十里画廊，山水飘逸，云雾缭绕。仙都风景名胜区由仙都、黄龙、岩门、大洋四大景区组成，包括鼎湖峰、倪翁洞、小赤壁、芙蓉峡、黄帝祠宇等三百多个景点，总面积166.2平方公里。",
+ "intro_en": "Lishui Jinyun Xiandu Scenic Area is a tourist resort with beautiful mountains and rivers, beautiful scenery and pleasant climate. It has Jiuqu Lianxi, Shili Gallery, elegant mountains and rivers, and shrouded clouds and mist. Xiandu Scenic Area consists of four major scenic spots: Xiandu, Huanglong, Yanmen and Dayang, including more than 300 scenic spots such as Dinghu Peak, Niweng Cave, Xiaochibi, Furong Gorge, and Huangdi Temple, with a total area of ​​166.2 square kilometers.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Jinyun_Xiandu_2017.09.10_06-47-19.jpg/1280px-Jinyun_Xiandu_2017.09.10_06-47-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jinyun Xiandu 2017.09.10 06-47-19.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinyun_Xiandu_2017.09.10_06-47-19.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "浙江省人民政府公报2019年第12期.pdf",
+   "author": "Zhejiang People's Government",
+   "license": "Public domain",
+   "credit": "http://www.zj.gov.cn/col/col1621589/index.html",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC3%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC3%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "浙江省人民政府公报2019年第3期.pdf",
+   "author": "Zhejiang People's Government",
+   "license": "Public domain",
+   "credit": "浙江省人民政府公报",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC3%E6%9C%9F.pdf"
+  }
+ ],
+ "web": "http://www.zgxdly.cn",
+ "booking": "http://www.zgxdly.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yiwu Airport",
+    "iata": "YIW",
+    "city": "Yiwu/Jinhua",
+    "country": "CN",
+    "lat": 29.342095,
+    "lon": 120.03116,
+    "type": "large_airport",
+    "distance_km": 69.9
+   },
+   {
+    "name": "Wenzhou Longwan International Airport",
+    "iata": "WNZ",
+    "city": "Wenzhou (Longwan)",
+    "country": "CN",
+    "lat": 27.910572,
+    "lon": 120.853465,
+    "type": "large_airport",
+    "distance_km": 117.4
+   },
+   {
+    "name": "Quzhou Airport",
+    "iata": "JUZ",
+    "city": "Quzhou (Kezheng)",
+    "country": "CN",
+    "lat": 28.96613,
+    "lon": 118.898793,
+    "type": "medium_airport",
+    "distance_km": 118.0
+   }
+  ],
+  "nearest_airport_km": 69.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "新碧",
+    "name_en": "Xinbi",
+    "lat": 28.750433,
+    "lon": 120.0966489,
+    "distance_km": 4.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "缙云西",
+    "name_en": null,
+    "lat": 28.6802532,
+    "lon": 120.0504827,
+    "distance_km": 4.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "缙云",
+    "name_en": null,
+    "lat": 28.6634976,
+    "lon": 120.0907266,
+    "distance_km": 5.9,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "中意酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.6635768,
+   "lon": 120.0874712,
+   "distance_km": 5.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "凡尔赛宫度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.8414328,
+   "lon": 119.8105168,
+   "distance_km": 29.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/仙都"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-989",
+ "unesco_id": "989",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 331,
+ "popularity_score": 26549,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ES-BU",
+ "subdivision_zh": "布尔戈斯省",
+ "subdivision_en": "Province of Burgos",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿塔皮尔卡考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Atapuerca",
+ "name_local": "Sitio arqueológico de Atapuerca",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "989-archaeological_site_of_atapuerca",
+ "lat": 42.350092,
+ "lon": -3.519466,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿塔皮尔卡山洞穴中发现了大量早期人类化石，经考证是欧洲最早的人类化石，可以追溯到100万年以前至公元纪年这段时期。山洞中的化石为欧洲人类学的研究提供了丰富的资料和信息，对于了解人类远古祖先的生活具有重要价值。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The caves of the Sierra de Atapuerca contain a rich fossil record of the earliest human beings in Europe, from nearly one million years ago and extending up to the Common Era. They represent an exceptional reserve of data, the scientific study of which provides priceless information about the appearance and the way of life of these remote human ancestors.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Las cuevas de la Sierra de Atapuerca contienen numerosos vestigios fósiles de los primeros seres humanos que se asentaron en Europa, desde hace casi un millón de años hasta nuestra era. Esos vestigios constituyen una fuente excepcional de datos, cuyo estudio científico proporciona información inestimable sobre el aspecto y el modo de vida de esos antepasados remotos de nuestra especie.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolina-Pano-3.jpg?width=1280",
+   "title": "Dolina-Pano-3.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Dolina-Pano-3.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_989.jpg",
+   "title": "Archaeological Site of Atapuerca",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/989",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/989",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vitoria Airport",
+    "iata": "VIT",
+    "city": "Alava",
+    "country": "ES",
+    "lat": 42.882801,
+    "lon": -2.72447,
+    "type": "medium_airport",
+    "distance_km": 88.0
+   },
+   {
+    "name": "Logroño-Agoncillo Airport",
+    "iata": "RJL",
+    "city": "Logroño",
+    "country": "ES",
+    "lat": 42.460953,
+    "lon": -2.322235,
+    "type": "medium_airport",
+    "distance_km": 99.1
+   },
+   {
+    "name": "Bilbao Airport",
+    "iata": "BIO",
+    "city": "Bilbao",
+    "country": "ES",
+    "lat": 43.301102,
+    "lon": -2.91061,
+    "type": "large_airport",
+    "distance_km": 116.8
+   }
+  ],
+  "nearest_airport_km": 88.0,
+  "distance_beijing_km": 8960.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/989"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Archaeological%20site%20of%20Atapuerca"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

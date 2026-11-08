@@ -1,0 +1,154 @@
+{
+ "id": "wh-239",
+ "unesco_id": "239",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1050,
+ "popularity_score": null,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Karnataka, Bijapur District, Badami Taluk",
+ "subdivision_iso": "IN-KA",
+ "subdivision_zh": "",
+ "subdivision_en": "Karnataka",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "帕塔达卡尔建筑群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Group of Monuments at Pattadakal",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "239-group_of_monuments_at_pattadakal",
+ "lat": 15.951333333333,
+ "lon": 75.814638888889,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于卡纳塔克邦的帕塔达卡尔建筑群，代表了公元7世纪至8世纪遮娄其王朝时期折衷艺术的顶峰。这些折衷艺术建筑风格把印度南北方的建筑形式综合协调。在那里可见到9座令人印象深刻的印度教庙宇和1座耆那教神殿。最为突出的维鲁巴克沙寺庙建于公元740年，是罗卡玛哈德维王后为纪念她的丈夫战胜南方的国王们而建的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Pattadakal, in Karnataka, represents the high point of an eclectic art which, in the 7th and 8th centuries under the Chalukya dynasty, achieved a harmonious blend of architectural forms from northern and southern India. An impressive series of nine Hindu temples, as well as a Jain sanctuary, can be seen there. One masterpiece from the group stands out – the Temple of Virupaksha, built c. 740 by Queen Lokamahadevi to commemorate her husband's victory over the kings from the South.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_239.jpg",
+   "title": "Group of Monuments at Pattadakal",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/239",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/239",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hubballi Airport",
+    "iata": "HBX",
+    "city": "Hubballi",
+    "country": "IN",
+    "lat": 15.361084,
+    "lon": 75.082096,
+    "type": "medium_airport",
+    "distance_km": 102.3
+   },
+   {
+    "name": "Belagavi Airport",
+    "iata": "IXG",
+    "city": "Belgaum",
+    "country": "IN",
+    "lat": 15.8593,
+    "lon": 74.618301,
+    "type": "medium_airport",
+    "distance_km": 128.3
+   },
+   {
+    "name": "Kolhapur Airport",
+    "iata": "KLH",
+    "city": "Kolhapur",
+    "country": "IN",
+    "lat": 16.6647,
+    "lon": 74.289398,
+    "type": "medium_airport",
+    "distance_km": 181.1
+   }
+  ],
+  "nearest_airport_km": 102.3,
+  "distance_beijing_km": 4857.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/239"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

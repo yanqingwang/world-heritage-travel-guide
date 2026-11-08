@@ -1,0 +1,197 @@
+{
+ "id": "cn-344",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "南京市",
+ "city_en": "Nanjing",
+ "name_zh": "南京市夫子庙-秦淮风光带",
+ "name_en": "Nanjingshifuzimiao-qinhuaifengguangdai",
+ "name_en_source": "pinyin",
+ "slug": "nanjingshifuzimiaoqinhuaifengguangdai-344",
+ "lat": 32.027197,
+ "lon": 118.794426,
+ "address_zh": "南京市秦淮区夫子庙街道贡院西街53号",
+ "address_en": "No. 53, Gongyuan West Street, Confucius Temple Street, Qinhuai District, Nanjing City",
+ "address_en_source": "machine_translation",
+ "category": "garden",
+ "category_zh": "皇家园林",
+ "category_en": "Royal garden",
+ "intro_zh": "秦淮河全长五公里，史称“十里秦淮”，是夫子庙-秦淮风光带精华所在。夫子庙-秦淮风光带是集自然风光、山水园林、庙宇学堂、街市民居、乡土人情为一体的旅游区。",
+ "intro_en": "The Qinhuai River is five kilometers long and is known as the \"Ten Miles of Qinhuai\" in history. It is the essence of the Confucius Temple-Qinhuai Scenic Area. Confucius Temple-Qinhuai Scenic Belt is a tourist area integrating natural scenery, landscape gardens, temples and schools, residents and local people.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanjing Lukou International Airport",
+    "iata": "NKG",
+    "city": "Nanjing",
+    "country": "CN",
+    "lat": 31.735032,
+    "lon": 118.865949,
+    "type": "large_airport",
+    "distance_km": 33.2
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 93.3
+   },
+   {
+    "name": "Wuhu Xuanzhou Airport",
+    "iata": "WHA",
+    "city": "Wuhu",
+    "country": "CN",
+    "lat": 31.1045,
+    "lon": 118.66687,
+    "type": "medium_airport",
+    "distance_km": 103.3
+   }
+  ],
+  "nearest_airport_km": 33.2,
+  "high_speed_stations": [
+   {
+    "name": "南京南",
+    "name_en": "Nanjingnan",
+    "lat": 31.970797,
+    "lon": 118.7930516,
+    "distance_km": 6.3,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "南京",
+    "name_en": "Nanjing",
+    "lat": 32.0887235,
+    "lon": 118.7917463,
+    "distance_km": 6.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "光华门",
+    "name_en": "Guanhuamen",
+    "lat": 32.0172432,
+    "lon": 118.8230514,
+    "distance_km": 2.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "中华门",
+    "name_en": "Zhonghuamen",
+    "lat": 32.0082359,
+    "lon": 118.7721046,
+    "distance_km": 3.0,
+    "operator": "中国铁路上海局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "奥体中心东门",
+    "name_en": "Olympic Stadium East Gate",
+    "lat": 32.0070407,
+    "lon": 118.7234631,
+    "distance_km": 7.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "金陵饭店",
+   "name_en": "Jinling Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.0450505,
+   "lon": 118.7776033,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "中心大酒店",
+   "name_en": "Central Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.0476824,
+   "lon": 118.7782341,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金鹰珠江壹号国际酒店",
+   "name_en": "Golden Eagle Summit Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.0529161,
+   "lon": 118.7798034,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "新纪元大酒店",
+   "name_en": "New Era Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 32.0550909,
+   "lon": 118.7782262,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "白宫大酒店",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 32.0937119,
+   "lon": 118.7794913,
+   "distance_km": 7.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 171,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

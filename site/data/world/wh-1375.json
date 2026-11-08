@@ -1,0 +1,162 @@
+{
+ "id": "wh-1375",
+ "unesco_id": "1375",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 392,
+ "popularity_score": 21011,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "桑地尼克坦",
+ "name_zh_source": "unesco_official",
+ "name_en": "Santiniketan",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "1375-santiniketan",
+ "lat": 23.6776,
+ "lon": 87.6852,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "桑地尼克坦（Santiniketan）由著名诗人、哲学家罗宾德拉纳特·泰戈尔于1901年建立，位于印度西孟加拉邦乡村。它是一所寄宿学校兼艺术中心，以古老的印度传统和超越宗教和文化界限的人类团结愿景为基础。1921年，这里建起一所 “世界大学”以彰显“人类的团结”（Visva Bharati）。与当地20世纪初盛行的英国殖民主义建筑风格和欧洲现代主义不同，桑地尼克坦汲取整个地区的古代、中世纪和民间传统，成为泛亚洲现代主义的典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Established in rural West Bengal in 1901 by the renowned poet and philosopher Rabindranath Tagore, Santiniketan was a residential school and centre for art based on ancient Indian traditions and a vision of the unity of humanity transcending religious and cultural boundaries. A ‘world university’ was established at Santiniketan in 1921, recognizing the unity of humanity or “Visva Bharati”. Distinct from the prevailing British colonial architectural orientations of the early 20th century and of European modernism, Santiniketan represents approaches toward a pan-Asian modernity, drawing on ancient, medieval and folk traditions from across the region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saturday%20Haat.jpg?width=1280",
+   "title": "Saturday Haat.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Saturday%20Haat.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1375.jpg",
+   "title": "Santiniketan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1375",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1375",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kazi Nazrul Islam Airport",
+    "iata": "RDP",
+    "city": "Durgapur",
+    "country": "IN",
+    "lat": 23.6225,
+    "lon": 87.243,
+    "type": "medium_airport",
+    "distance_km": 45.5
+   },
+   {
+    "name": "Shah Makhdum Airport",
+    "iata": "RJH",
+    "city": "Rajshahi",
+    "country": "BD",
+    "lat": 24.437201,
+    "lon": 88.616501,
+    "type": "medium_airport",
+    "distance_km": 126.8
+   },
+   {
+    "name": "Deoghar Airport",
+    "iata": "DGH",
+    "city": "Deoghar",
+    "country": "IN",
+    "lat": 24.446842,
+    "lon": 86.704955,
+    "type": "small_airport",
+    "distance_km": 131.2
+   }
+  ],
+  "nearest_airport_km": 45.5,
+  "distance_beijing_km": 3296.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1375"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Santiniketan"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

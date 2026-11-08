@@ -1,0 +1,162 @@
+{
+ "id": "wh-835",
+ "unesco_id": "835",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 691,
+ "popularity_score": 6096,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "City and County of Toruń, Kuyavian-Pomeranian Voivodship",
+ "subdivision_iso": "PL-04",
+ "subdivision_zh": "库亚维滨海省",
+ "subdivision_en": "Kuyavian-Pomeranian Voivodeship",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "中世纪古镇托伦",
+ "name_zh_source": "unesco_official",
+ "name_en": "Medieval Town of Toruń",
+ "name_local": "Zespół staromiejski Torunia",
+ "local_lang": "pl",
+ "local_lang_name": "Polish",
+ "slug": "835-medieval_town_of_toruń",
+ "lat": 53.010277777,
+ "lon": 18.604722222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "托伦城的雏型源于13世纪中期，当时，条顿骑士团在托伦修筑城堡，成为征服普鲁士和感化普鲁士的基地。不久以后，托伦在中世纪的汉萨同盟中发挥着重要作用，成为重要的商业中心。现在城中还有许多公元14世纪和15世纪建造的公共建筑和私人建筑（包括哥白尼的故居），这一切充分显示了托伦在历史上的重要地位。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Torun owes its origins to the Teutonic Order, which built a castle there in the mid-13th century as a base for the conquest and evangelization of Prussia. It soon developed a commercial role as part of the Hanseatic League. In the Old and New Town, the many imposing public and private buildings from the 14th and 15th centuries (among them the house of Copernicus) are striking evidence of Torun's importance.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Zespół Staromiejski Torunia – najstarsza część Torunia, składająca się ze Starego Miasta, Nowego Miasta i zamku krzyżackiego. 29 grudnia 1952 roku wpisana do rejestru zabytków, od 8 września 1994 rozporządzeniem Prezydenta Rzeczypospolitej Polskiej Lecha Wałęsy uznana za pomnik historii, a od 4 grudnia 1997 włączona do listy światowego dziedzictwa UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toru%C5%84%2C%20ko%C5%9Bci%C3%B3%C5%82%20%C5%9Bw.%20Jan%C3%B3w%20%28dzie%C5%84%29.jpg?width=1280",
+   "title": "Toruń, kościół św. Janów (dzień).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Toru%C5%84%2C%20ko%C5%9Bci%C3%B3%C5%82%20%C5%9Bw.%20Jan%C3%B3w%20%28dzie%C5%84%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_835.jpg",
+   "title": "Medieval Town of Toruń",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/835",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/835",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ignacy Jan Paderewski Bydgoszcz Airport",
+    "iata": "BZG",
+    "city": "Bydgoszcz",
+    "country": "PL",
+    "lat": 53.096802,
+    "lon": 17.977699,
+    "type": "medium_airport",
+    "distance_km": 43.0
+   },
+   {
+    "name": "Poznań-Ławica Airport",
+    "iata": "POZ",
+    "city": "Poznań",
+    "country": "PL",
+    "lat": 52.421598,
+    "lon": 16.823359,
+    "type": "large_airport",
+    "distance_km": 136.7
+   },
+   {
+    "name": "Warsaw Modlin Airport",
+    "iata": "WMI",
+    "city": "Nowy Dwór Mazowiecki",
+    "country": "PL",
+    "lat": 52.451099,
+    "lon": 20.6518,
+    "type": "large_airport",
+    "distance_km": 151.2
+   }
+  ],
+  "nearest_airport_km": 43.0,
+  "distance_beijing_km": 7061.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "pl",
+  "local_lang_name": "Polish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/835"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medieval%20Town%20of%20Toru%C5%84"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

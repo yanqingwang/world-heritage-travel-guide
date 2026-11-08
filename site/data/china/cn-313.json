@@ -1,0 +1,224 @@
+{
+ "id": "cn-313",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "四川省",
+ "province_en": "Sichuan",
+ "province_iso": "CN-SC",
+ "city_zh": "成都市",
+ "city_en": "Chengdu",
+ "name_zh": "成都市青城山-都江堰旅游景区",
+ "name_en": "Mount Qingcheng",
+ "name_en_source": "wikipedia",
+ "slug": "chengdushiqingchengshandujiangyan-313",
+ "lat": 31.001763,
+ "lon": 103.622111,
+ "address_zh": "成都市都江堰市",
+ "address_en": "Dujiangyan City, Chengdu City",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "青城山景区位于四川省成都市都江堰市西南，是中国首批公布的风景名胜区之一。青城山靠岷山雪岭，面向川西平原，群峰环绕，状若城廓；林深树密，四季常绿；丹梯千级，曲径通幽。都江堰不仅是举世闻名的中国古代水利工程，也是著名的风景名胜区。都江堰附近景色秀丽，文物古迹众多，主要有伏龙观、二王庙、安澜索桥、玉垒关、离堆公园、玉垒山公园、玉女峰、灵岩寺、普照寺、翠月湖、都江堰水利工程等。",
+ "intro_en": "Mount Qingcheng (Chinese: 青城山; pinyin: Qīngchéng Shān) is a sacred Taoist mountain in Dujiangyan, Chengdu, Sichuan, China. It is considered one of the birthplaces of Taoism and one of the most important Taoist religious sites in China. In Taoist mythology, it was the site of the Yellow Emperor's studies with Ning Fengzi. As an important site of the Taoism, it became host to many Taoist monasteries and temples. The mountain has 36 peaks. It is also home to Dujiangyan Giant Panda Center and since 2000 has been listed as a UNESCO World Heritage Site. Mount Qingcheng was affected by the Wenchuan Earthquake in 2008.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%E9%9D%92%E5%9F%8E%E5%B1%B1_Mount_Qingcheng_2017.jpg/1280px-%E9%9D%92%E5%9F%8E%E5%B1%B1_Mount_Qingcheng_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "青城山 Mount Qingcheng 2017.jpg",
+   "author": "JianEn Yu",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/93179224@N04/36190919235/",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%9F%8E%E5%B1%B1_Mount_Qingcheng_2017.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mount_Qingcheng_Kina_2009_0215_%284141815344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Mount Qingcheng Kina 2009 0215 (4141815344).jpg",
+   "author": "Einar Fredriksen",
+   "license": "CC BY-SA 2.0",
+   "credit": "Kina 2009 0215",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Qingcheng_Kina_2009_0215_%284141815344%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mount_Qingcheng_Kina_2009_0224_%284141063061%29.jpg/1280px-Mount_Qingcheng_Kina_2009_0224_%284141063061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Qingcheng Kina 2009 0224 (4141063061).jpg",
+   "author": "Einar Fredriksen",
+   "license": "CC BY-SA 2.0",
+   "credit": "Kina 2009 0224",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Qingcheng_Kina_2009_0224_%284141063061%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mount_Qingcheng_Kina_2009_0245_%284141823386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Mount Qingcheng Kina 2009 0245 (4141823386).jpg",
+   "author": "Einar Fredriksen",
+   "license": "CC BY-SA 2.0",
+   "credit": "Kina 2009 0245",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Qingcheng_Kina_2009_0245_%284141823386%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mount_Qingcheng_Kina_2009_0251_%284141069833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Mount Qingcheng Kina 2009 0251 (4141069833).jpg",
+   "author": "Einar Fredriksen",
+   "license": "CC BY-SA 2.0",
+   "credit": "Kina 2009 0251",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Qingcheng_Kina_2009_0251_%284141069833%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chengdu Shuangliu International Airport",
+    "iata": "CTU",
+    "city": "Chengdu (Shuangliu)",
+    "country": "CN",
+    "lat": 30.558257,
+    "lon": 103.945966,
+    "type": "large_airport",
+    "distance_km": 58.2
+   },
+   {
+    "name": "Chengdu Tianfu International Airport",
+    "iata": "TFU",
+    "city": "Chengdu (Jianyang)",
+    "country": "CN",
+    "lat": 30.31252,
+    "lon": 104.441284,
+    "type": "large_airport",
+    "distance_km": 109.6
+   },
+   {
+    "name": "Mianyang Nanjiao Airport",
+    "iata": "MIG",
+    "city": "Mianyang (Fucheng)",
+    "country": "CN",
+    "lat": 31.428101,
+    "lon": 104.740997,
+    "type": "medium_airport",
+    "distance_km": 116.5
+   }
+  ],
+  "nearest_airport_km": 58.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "离堆公园",
+    "name_en": "Lidui Park",
+    "lat": 30.9962148,
+    "lon": 103.6215556,
+    "distance_km": 0.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "李冰广场",
+    "name_en": "Libing Square",
+    "lat": 30.9875937,
+    "lon": 103.6310023,
+    "distance_km": 1.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "迎宾路",
+    "name_en": "Yingbinlu",
+    "lat": 30.9835351,
+    "lon": 103.6399233,
+    "distance_km": 2.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "全季酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0043783,
+   "lon": 103.6200264,
+   "distance_km": 0.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "国堰宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0083514,
+   "lon": 103.6271012,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "玉瑞酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0105782,
+   "lon": 103.6220894,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "二王庙宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0067648,
+   "lon": 103.6117449,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Balan International Hotel",
+   "name_en": "Balan International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.994176,
+   "lon": 103.6350366,
+   "distance_km": 1.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 22,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/青城山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-357",
+ "unesco_id": "357",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1075,
+ "popularity_score": null,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "Nevşehir Province (Cappadocia) in Central Anatolia",
+ "subdivision_iso": "TR-38",
+ "subdivision_zh": "开塞利省",
+ "subdivision_en": "Kayseri Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "希拉波利斯和帕姆卡莱",
+ "name_zh_source": "unesco_official",
+ "name_en": "Göreme National Park and the Rock Sites of Cappadocia",
+ "name_local": "Göreme Millî Parkı ve Kapadokya",
+ "local_lang": "tr",
+ "local_lang_name": "Turkish",
+ "slug": "357-göreme_national_park_and_the_rock_sites_",
+ "lat": 38.66667,
+ "lon": 34.85,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(iii)(v)(vii)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从平原上200米高的岩石中流出的泉水和水中的方解石形成了帕姆卡莱（土耳其语中意为“棉花宫殿”）这一特殊地貌。它由石林、石瀑布和一系列的梯形盆地组成。公元前2世纪末，阿塔利德斯王朝的帕加马国王们建立了希拉波利斯温泉站。这处遗址包括浴室的废墟、庙宇和其他希腊建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In a spectacular landscape, entirely sculpted by erosion, the Göreme valley and its surroundings contain rock-hewn sanctuaries that provide unique evidence of Byzantine art in the post-Iconoclastic period. Dwellings, troglodyte villages and underground towns – the remains of a traditional human habitat dating back to the 4th century – can also be seen there.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Göreme Millî Parkı ve Kapadokya, Türkiye'nin Nevşehir ve Kayseri illerinde yer alan bir Dünya Mirasıdır. Miras alanı 1984'te geçici listeye alındı. Bir yıl sonra düzenlenen Dünya Miras Komitesi 9. oturumunda kalıcı listeye dahil edildi. Alanın yönetimi günümüzde Kapadokya Alan Başkanlığının sorumluluğundadır.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vallegoreme2.jpg?width=1280",
+   "title": "Vallegoreme2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vallegoreme2.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_357.jpg",
+   "title": "Göreme National Park and the Rock Sites of Cappadocia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/357",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/357",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nevşehir Kapadokya Airport",
+    "iata": "NAV",
+    "city": "Nevşehir",
+    "country": "TR",
+    "lat": 38.7719,
+    "lon": 34.5345,
+    "type": "large_airport",
+    "distance_km": 29.8
+   },
+   {
+    "name": "Kayseri Erkilet International Airport",
+    "iata": "ASR",
+    "city": "Kayseri",
+    "country": "TR",
+    "lat": 38.770401,
+    "lon": 35.495399,
+    "type": "large_airport",
+    "distance_km": 57.2
+   },
+   {
+    "name": "Çukurova International Airport",
+    "iata": "COV",
+    "city": "Tarsus",
+    "country": "TR",
+    "lat": 36.891478,
+    "lon": 35.071235,
+    "type": "large_airport",
+    "distance_km": 198.3
+   }
+  ],
+  "nearest_airport_km": 29.8,
+  "distance_beijing_km": 6776.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "tr",
+  "local_lang_name": "Turkish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/357"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

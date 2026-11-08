@@ -1,0 +1,162 @@
+{
+ "id": "wh-44",
+ "unesco_id": "44",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 450,
+ "popularity_score": 16309,
+ "country": "BG",
+ "country_zh": "保加利亚",
+ "country_en": "Bulgaria",
+ "countries": [
+  {
+   "iso2": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria"
+  }
+ ],
+ "region": "Kazanlak, Province of Stara Zagora",
+ "subdivision_iso": "BG-24",
+ "subdivision_zh": "旧扎戈拉州",
+ "subdivision_en": "Stara Zagora",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡赞利克的色雷斯古墓",
+ "name_zh_source": "unesco_official",
+ "name_en": "Thracian Tomb of Kazanlak",
+ "name_local": "Казанлъшка гробница",
+ "local_lang": "bg",
+ "local_lang_name": "Bulgarian",
+ "slug": "44-thracian_tomb_of_kazanlak",
+ "lat": 42.625555555,
+ "lon": 25.399166666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡赞利克的色雷斯古墓发现于1944年，其历史年代可追溯到古希腊时期，即公元前4世纪末左右。古墓位于色雷斯王修瑟斯三世时期的都城修瑟波利斯(Seutopolis)附近，是色雷斯王国大片墓地中的一部分。该古墓内有狭长的地道和圆形墓室，均以壁画装饰。这些壁画代表了卡赞利克的墓葬仪式和文化。古墓中的绘画作品是保加利亚保存最完好的古希腊时期艺术杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Казанлъшката гробница е зидана кръглокуполна гробница в Казанлък, част от голям некропол, разположен в близост до древната столица на Одриското царство Севтополис. Датирана е в края на IV в. пр. Хр. – началото на III в. пр. Хр. и от 1979 е в списъка на ЮНЕСКО на Световното културно и природно наследство.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazan%C5%82yk%20H17-35.jpg?width=1280",
+   "title": "Kazanłyk H17-35.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kazan%C5%82yk%20H17-35.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_44.jpg",
+   "title": "Thracian Tomb of Kazanlak",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/44",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/44",
+ "transport": {
+  "airports": [
+   {
+    "name": "Plovdiv International Airport",
+    "iata": "PDV",
+    "city": "Plovdiv",
+    "country": "BG",
+    "lat": 42.067799,
+    "lon": 24.8508,
+    "type": "large_airport",
+    "distance_km": 76.7
+   },
+   {
+    "name": "Sofia Airport",
+    "iata": "SOF",
+    "city": "Sofia",
+    "country": "BG",
+    "lat": 42.696357,
+    "lon": 23.417671,
+    "type": "large_airport",
+    "distance_km": 162.2
+   },
+   {
+    "name": "Burgas Airport",
+    "iata": "BOJ",
+    "city": "Burgas",
+    "country": "BG",
+    "lat": 42.569917,
+    "lon": 27.515173,
+    "type": "large_airport",
+    "distance_km": 173.3
+   }
+  ],
+  "nearest_airport_km": 76.7,
+  "distance_beijing_km": 7286.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BG",
+  "country_zh": "保加利亚",
+  "country_en": "Bulgaria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BG",
+   "country_zh": "保加利亚",
+   "country_en": "Bulgaria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "bg",
+  "local_lang_name": "Bulgarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/44"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thracian%20Tomb%20of%20Kazanlak"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

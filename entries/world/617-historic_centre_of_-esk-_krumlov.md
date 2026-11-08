@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(iv)"
 lat: 48.816666666
 lon: 14.316666666
-updated_at: "2026-11-08T12:18:56Z"
+updated_at: "2026-11-08T14:52:29Z"
 ---
 
 # 克鲁姆洛夫历史中心 / Historic Centre of Český Krumlov

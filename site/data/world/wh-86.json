@@ -1,0 +1,162 @@
+{
+ "id": "wh-86",
+ "unesco_id": "86",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 773,
+ "popularity_score": 3756,
+ "country": "EG",
+ "country_zh": "埃及",
+ "country_en": "Egypt",
+ "countries": [
+  {
+   "iso2": "EG",
+   "zh": "埃及",
+   "en": "Egypt"
+  }
+ ],
+ "region": "Governorate of Giza",
+ "subdivision_iso": "EG-GZ",
+ "subdivision_zh": "吉萨省",
+ "subdivision_en": "Giza Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "孟菲斯及其墓地金字塔",
+ "name_zh_source": "unesco_official",
+ "name_en": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+ "name_local": "ممفيس ومقبرتها منطقة الأهرام من الجيزة إلى دهشور",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "86-memphis_and_its_necropolis_–_the_pyramid",
+ "lat": 29.976,
+ "lon": 31.1304,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "古埃及王国首都有着令人叹为观止的墓地古迹，包括石冢、装饰华丽的墓室、庙宇和金字塔。这处遗址是古代世界七大奇迹之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The capital of the Old Kingdom of Egypt has some extraordinary funerary monuments, including rock tombs, ornate mastabas, temples and pyramids. In ancient times, the site was considered one of the Seven Wonders of the World.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تقوم حول عاصمة مصر القديمة مبانٍ مأتميّة رائعة بقبورها الصخريّة ومصطباتها جميلة الزينة ومعابدها وأهرامها. وصنف الأقدمون هذا الموقع بين عجائب الدنيا السبع.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Khafre%20South%20and%20Khufu%20pyrs.jpg?width=1280",
+   "title": "Khafre South and Khufu pyrs.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Khafre%20South%20and%20Khufu%20pyrs.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_86.jpg",
+   "title": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/86",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/86",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sphinx International Airport",
+    "iata": "SPX",
+    "city": "Al Jiza",
+    "country": "EG",
+    "lat": 30.108179,
+    "lon": 30.895728,
+    "type": "large_airport",
+    "distance_km": 26.9
+   },
+   {
+    "name": "Cairo International Airport",
+    "iata": "CAI",
+    "city": "Cairo",
+    "country": "EG",
+    "lat": 30.111534,
+    "lon": 31.396694,
+    "type": "large_airport",
+    "distance_km": 29.7
+   },
+   {
+    "name": "Capital International Airport",
+    "iata": "CCE",
+    "city": "New Cairo",
+    "country": "EG",
+    "lat": 30.06465,
+    "lon": 31.839974,
+    "type": "medium_airport",
+    "distance_km": 69.0
+   }
+  ],
+  "nearest_airport_km": 26.9,
+  "distance_beijing_km": 7574.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EG",
+  "country_zh": "埃及",
+  "country_en": "Egypt",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][47]",
+  "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EG",
+   "country_zh": "埃及",
+   "country_en": "Egypt",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][47]",
+   "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/86"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Memphis%20and%20its%20Necropolis%20%E2%80%93%20the%20Pyramid%20Fields%20from%20Giza%20to%20Dahshur"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

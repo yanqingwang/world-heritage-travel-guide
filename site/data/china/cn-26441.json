@@ -1,0 +1,178 @@
+{
+ "id": "cn-26441",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广西壮族自治区",
+ "province_en": "Guangxi",
+ "province_iso": "CN-GX",
+ "city_zh": "柳州市",
+ "city_en": "Liuzhou",
+ "name_zh": "柳州市程阳八寨景区",
+ "name_en": "Liuzhoushichengyangbazhai Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "liuzhoushichengyangbazhai-26441",
+ "lat": 25.903032,
+ "lon": 109.647973,
+ "address_zh": "广西壮族自治区柳州市三江侗族自治县林溪镇平岩村",
+ "address_en": "Pingyan Village, Linxi Town, Sanjiang Dong Autonomous County, Liuzhou City, Guangxi Zhuang Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "natural",
+ "category_zh": "自然风光",
+ "category_en": "Natural scenery",
+ "intro_zh": "程阳八寨景区位于广西唯一的侗族自治县——三江侗族自治县境内，由马鞍、平寨、岩寨、平坦、懂寨、大寨、平铺、吉昌八个自然村寨组成，上万侗族人世居于此，创造了丰富多彩、灿烂辉煌的侗族文化。",
+ "intro_en": "Chengyang Bazhai Scenic Area is located in Sanjiang Dong Autonomous County, the only Dong autonomous county in Guangxi. It consists of eight natural villages: Ma'an, Pingzhai, Yanzhai, Pingping, Dangzhai, Dazhai, Pingpu and Jichang. Tens of thousands of Dong people have lived here, creating a rich, colorful and splendid Dong culture.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "http://www.sjcybz.com/Content/1896427.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Liping Airport",
+    "iata": "HZH",
+    "city": "Liping",
+    "country": "CN",
+    "lat": 26.32217,
+    "lon": 109.1499,
+    "type": "medium_airport",
+    "distance_km": 68.2
+   },
+   {
+    "name": "Guilin Liangjiang International Airport",
+    "iata": "KWL",
+    "city": "Guilin (Lingui)",
+    "country": "CN",
+    "lat": 25.219828,
+    "lon": 110.039553,
+    "type": "large_airport",
+    "distance_km": 85.5
+   },
+   {
+    "name": "Shaoyang Wugang Airport",
+    "iata": "WGN",
+    "city": "Shaoyang (Wugang)",
+    "country": "CN",
+    "lat": 26.806123,
+    "lon": 110.641042,
+    "type": "medium_airport",
+    "distance_km": 141.0
+   }
+  ],
+  "nearest_airport_km": 68.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "八斗",
+    "name_en": "Badou",
+    "lat": 25.8939015,
+    "lon": 109.5599209,
+    "distance_km": 8.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "江头",
+    "name_en": "Jiangtou",
+    "lat": 25.9722764,
+    "lon": 109.5894706,
+    "distance_km": 9.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "三江县",
+    "name_en": "Sanjiangxian",
+    "lat": 25.838407,
+    "lon": 109.567536,
+    "distance_km": 10.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Dong Village Hotel",
+   "name_en": "Dong Village Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 25.9009287,
+   "lon": 109.635948,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "三江饭店",
+   "name_en": "San Jiang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 25.7878219,
+   "lon": 109.6099546,
+   "distance_km": 13.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "城市使提酒店",
+   "name_en": "City Comfort Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 25.7859534,
+   "lon": 109.6143123,
+   "distance_km": 13.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "雅贤居商务酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.785935,
+   "lon": 109.6139475,
+   "distance_km": 13.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "盛利宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.7856983,
+   "lon": 109.612141,
+   "distance_km": 13.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 11,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

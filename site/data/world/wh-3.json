@@ -1,0 +1,324 @@
+{
+ "id": "wh-3",
+ "unesco_id": "3",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 105,
+ "popularity_score": 137112,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of North Rhine-Westphalia (Nordrhein-Westfalen)",
+ "subdivision_iso": "DE-NW",
+ "subdivision_zh": "",
+ "subdivision_en": "North Rhine-Westphalia",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "亚琛大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Aachen Cathedral",
+ "name_local": "Aachener Dom",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "3-aachen_cathedral",
+ "lat": 50.77475,
+ "lon": 6.083922222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(vi)",
+ "year": "1978",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座宫殿式教堂整体结构呈长方形，屋顶为拱形，修建于约公元790至800年查理曼大帝执政时期。建造这座教堂的灵感来源于东罗马帝国的教堂，在中世纪又对其进行了扩建。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Construction of this palatine chapel, with its octagonal basilica and cupola, began c. 790–800 under the Emperor Charlemagne. Originally inspired by the churches of the Eastern part of the Holy Roman Empire, it was splendidly enlarged in the Middle Ages.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Der Dom St. Marien zu Aachen, kurz der Aachener Dom, ist die Bischofskirche des Bistums Aachen und das bedeutendste Wahrzeichen der Stadt Aachen. Der Dom steht unter dem Patrozinium der Gottesmutter Maria. Der Dom besteht aus mehreren Teilbauten, deren jeweilige Entstehungszeiten die Epoche des Frühmittelalters bis hin zur späten Neuzeit umfassen. Das karolingische Oktogon, ehemals die Pfalzkapelle der Aachener Königspfalz, ist das bedeutendste architektonische Beispiel für die karolingische Renaissance. Karl der Große ließ den Zentralbau und den Westbau gegen Ende des achten Jahrhunderts als Kern seiner Pfalzanlage errichten. Forschung, zusammengeführt von Erwin Reidinger, hat für die Gründung der Pfalzkapelle eine Ausrichtung/Absteckung der Achse nach dem tatsächlichen Sonnenaufgang, den Palmsonntag, den 16. März 794, ergeben. Die Absteckung erfolgte an einem höheren heiligen Tag, Palmsonntag. Karl der Große spielt mit dem Jerusalemer Einzugsmotiv: Wie Christus einst an diesem Tag in Jerusalem eingezogen war, so tat es ihm jetzt der Herrscher (Karl der Große) als Abbild Christi auf Erden nach. Die Grundsteinlegung erfolgte um 795, die Fertigstellung um 803. Die Kirchweihe wird für den 17. Juli 802 angenommen (nicht gesichert). Die Reliquienankunft fand in den beiden Jahren vorher statt. Die postulierte Weihe 805 durch Papst Leo III. entstammt einer Legende aus dem 14. Jahrhun",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aachen%20Germany%20Imperial-Cathedral-01.jpg?width=1280",
+   "title": "Aachen Germany Imperial-Cathedral-01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aachen%20Germany%20Imperial-Cathedral-01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_2012_100_Euro_Gold_Dom_zu_Aachen_MK_Berlin_18238080_Nemat_Zadeh_Mohammad.png/1280px-Deutschland_2012_100_Euro_Gold_Dom_zu_Aachen_MK_Berlin_18238080_Nemat_Zadeh_Mohammad.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Deutschland 2012 100 Euro Gold Dom zu Aachen MK Berlin 18238080 Nemat Zadeh Mohammad.png",
+   "author": "Münzstätte München (Herstellung) / Erich Ott (Entwurf) / Bundesrepublik Deutschland (Münzstand / Auftrag)",
+   "license": "CC0",
+   "credit": "Berlin, Münzkabinett der Staatlichen Museen, Objektnummer: 18238080 via iKMK",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutschland_2012_100_Euro_Gold_Dom_zu_Aachen_MK_Berlin_18238080_Nemat_Zadeh_Mohammad.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/President_Clinton_tours_the_Aachen_Cathedral_in_Germany.jpg/1280px-President_Clinton_tours_the_Aachen_Cathedral_in_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "President Clinton tours the Aachen Cathedral in Germany.jpg",
+   "author": "David Scull",
+   "license": "Public domain",
+   "credit": "https://clintonwhitehouse5.archives.gov/WH/New/Europe-0005/photogallery/0602.html ; full-sized version obtained on request",
+   "source": "https://commons.wikimedia.org/wiki/File:President_Clinton_tours_the_Aachen_Cathedral_in_Germany.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/President_Vaclav_Havel%2C_King_Juan_Carlos_I%2C_and_President_Clinton_attend_the_prayer_service_in_the_Aachen_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "President Vaclav Havel, King Juan Carlos I, and President Clinton attend the prayer service in the Aachen Cathedral.jpg",
+   "author": "David Scull",
+   "license": "Public domain",
+   "credit": "https://clintonwhitehouse5.archives.gov/WH/New/Europe-0005/photogallery/0602.html ; full-sized version obtained on request",
+   "source": "https://commons.wikimedia.org/wiki/File:President_Vaclav_Havel%2C_King_Juan_Carlos_I%2C_and_President_Clinton_attend_the_prayer_service_in_the_Aachen_Cathedral.jpg"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_3.jpg",
+   "title": "Aachen Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/3",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/3",
+ "transport": {
+  "airports": [
+   {
+    "name": "Maastricht Aachen Airport",
+    "iata": "MST",
+    "city": "Maastricht",
+    "country": "NL",
+    "lat": 50.911087,
+    "lon": 5.769401,
+    "type": "large_airport",
+    "distance_km": 26.8
+   },
+   {
+    "name": "Liège Airport",
+    "iata": "LGG",
+    "city": "Grâce-Hollogne",
+    "country": "BE",
+    "lat": 50.638574,
+    "lon": 5.443897,
+    "type": "medium_airport",
+    "distance_km": 47.5
+   },
+   {
+    "name": "Düsseldorf Airport",
+    "iata": "DUS",
+    "city": "Düsseldorf",
+    "country": "DE",
+    "lat": 51.289501,
+    "lon": 6.76678,
+    "type": "large_airport",
+    "distance_km": 74.5
+   }
+  ],
+  "nearest_airport_km": 26.8,
+  "distance_beijing_km": 7876.4,
+  "ferry_terminals": [
+   {
+    "name": "Eijsden",
+    "name_en": null,
+    "lat": 50.7769494,
+    "lon": 5.6993253,
+    "distance_km": 27.0,
+    "operator": null
+   },
+   {
+    "name": "Lanaye",
+    "name_en": null,
+    "lat": 50.7772901,
+    "lon": 5.6968382,
+    "distance_km": 27.2,
+    "operator": null
+   },
+   {
+    "name": "Woffelsbach",
+    "name_en": null,
+    "lat": 50.6280071,
+    "lon": 6.3924447,
+    "distance_km": 27.2,
+    "operator": "Rursee-Schifffahrt KG"
+   },
+   {
+    "name": "Kermeterufer",
+    "name_en": null,
+    "lat": 50.6281809,
+    "lon": 6.4000144,
+    "distance_km": 27.6,
+    "operator": "Rursee-Schifffahrt KG"
+   },
+   {
+    "name": "Eschauel",
+    "name_en": null,
+    "lat": 50.6427803,
+    "lon": 6.4161537,
+    "distance_km": 27.6,
+    "operator": "Rursee-Schifffahrt KG"
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Aachen Hauptbahnhof",
+    "name_en": "Aachen Central Train Station",
+    "lat": 50.7677663,
+    "lon": 6.0913818,
+    "distance_km": 0.9,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Aachen West",
+    "name_en": null,
+    "lat": 50.7807171,
+    "lon": 6.0696064,
+    "distance_km": 1.2,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Aachen-Rothe Erde",
+    "name_en": null,
+    "lat": 50.770064,
+    "lon": 6.1161849,
+    "distance_km": 2.3,
+    "operator": "DB InfraGO AG"
+   },
+   {
+    "name": "Vetschau",
+    "name_en": null,
+    "lat": 50.8125249,
+    "lon": 6.0424712,
+    "distance_km": 5.1,
+    "operator": "Zuid-Limburgse Stoomtrein Maatschappij"
+   },
+   {
+    "name": "Kohlscheid",
+    "name_en": null,
+    "lat": 50.8319245,
+    "lon": 6.0745043,
+    "distance_km": 6.4,
+    "operator": "DB InfraGO AG"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Quellenhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.7816932,
+   "lon": 6.0908929,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Van Oys Maastricht Retreat",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.7961294,
+   "lon": 5.7060664,
+   "distance_km": 26.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kruisherenhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Château Hotels",
+   "lat": 50.8487435,
+   "lon": 5.6838029,
+   "distance_km": 29.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aquis Grana",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.7755552,
+   "lon": 6.086436,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Hotel Regence",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western Plus",
+   "lat": 50.7777729,
+   "lon": 6.0913783,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 63
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/3"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aachen%20Cathedral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

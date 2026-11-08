@@ -1,0 +1,162 @@
+{
+ "id": "wh-622",
+ "unesco_id": "622",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 562,
+ "popularity_score": 11079,
+ "country": "SK",
+ "country_zh": "斯洛伐克",
+ "country_en": "Slovakia",
+ "countries": [
+  {
+   "iso2": "SK",
+   "zh": "斯洛伐克",
+   "en": "Slovakia"
+  }
+ ],
+ "region": "Ružomberok District, Zilina Region",
+ "subdivision_iso": "SK-ZI",
+ "subdivision_zh": "日利纳州",
+ "subdivision_en": "Žilina region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伏尔考林耐克",
+ "name_zh_source": "unesco_official",
+ "name_en": "Vlkolínec",
+ "name_local": "Vlkolínec",
+ "local_lang": "sk",
+ "local_lang_name": "Slovak",
+ "slug": "622-vlkolínec",
+ "lat": 49.0397,
+ "lon": 19.2784,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伏尔考林耐克位于斯洛伐克的中部，是一个保存完好的定居点，那里有45幢具有传统中欧村庄特点的房子，这是该地区此类木屋群中保存最为完整的一组，人们经常可以在山里看见这种木屋。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Vlkolínec, situated in the centre of Slovakia, is a remarkably intact settlement of 45 buildings with the traditional features of a central European village. It is the region’s most complete group of these kinds of traditional log houses, often found in mountainous areas.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Vlkolínec je podhorská osada, miestna časť okresného mesta Ružomberok v Žilinskom kraji. Je pamiatkovou rezerváciou ľudovej architektúry a ako pozoruhodne zachovaný sídelný celok, pozostávajúci z typických zrubových objektov charakteristického stredoeurópskeho typu, je od roku 1993 zapísaný do Zoznamu Svetového dedičstva UNESCO. Osada predstavuje typ dedinského stredovekého sídla s drevenou architektúrou horských a podhorských oblastí, s nenarušenou zástavbou zrubových domov uprostred krajinárskeho zázemia tvoreného úzkymi pásikmi polí a pasienkov, zo severu chránená masívom Sidorova (1 099 m n. m.).",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vlkolinec%2C%20Ru%C5%BEomberok%2C%20okres%20Ru%C5%BEomberok%2C%20%C5%BDilinsk%C3%BD%20kraj%2010.jpg?width=1280",
+   "title": "Vlkolinec, Ružomberok, okres Ružomberok, Žilinský kraj 10.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vlkolinec%2C%20Ru%C5%BEomberok%2C%20okres%20Ru%C5%BEomberok%2C%20%C5%BDilinsk%C3%BD%20kraj%2010.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_622.jpg",
+   "title": "Vlkolínec",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/622",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/622",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sliač Airport",
+    "iata": "SLD",
+    "city": "Sliač",
+    "country": "SK",
+    "lat": 48.63779830932617,
+    "lon": 19.13409996032715,
+    "type": "medium_airport",
+    "distance_km": 45.9
+   },
+   {
+    "name": "Poprad-Tatry Airport",
+    "iata": "TAT",
+    "city": "Poprad",
+    "country": "SK",
+    "lat": 49.070994,
+    "lon": 20.241394,
+    "type": "medium_airport",
+    "distance_km": 70.3
+   },
+   {
+    "name": "Leoš Janáček Airport Ostrava",
+    "iata": "OSR",
+    "city": "Mošnov",
+    "country": "CZ",
+    "lat": 49.696301,
+    "lon": 18.111099,
+    "type": "large_airport",
+    "distance_km": 111.7
+   }
+  ],
+  "nearest_airport_km": 45.9,
+  "distance_beijing_km": 7262.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SK",
+  "country_zh": "斯洛伐克",
+  "country_en": "Slovakia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SK",
+   "country_zh": "斯洛伐克",
+   "country_en": "Slovakia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sk",
+  "local_lang_name": "Slovak",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/622"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vlkol%C3%ADnec"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-316",
+ "unesco_id": "316",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 235,
+ "popularity_score": 43661,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Burgos, Autonomous Community of Castile-Leon",
+ "subdivision_iso": "ES-BU",
+ "subdivision_zh": "布尔戈斯省",
+ "subdivision_en": "Province of Burgos",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布尔戈斯大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Burgos Cathedral",
+ "name_local": "Catedral de Burgos",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "316-burgos_cathedral",
+ "lat": 42.340805555,
+ "lon": -3.704472222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元13世纪，布尔戈斯大教堂和法兰西大教堂几乎同时开始修建，教堂的建设一直到公元15世纪至16世纪才完成。布尔戈斯大教堂以其华丽的建筑和无可比拟的艺术品收藏闻名于世，展示着哥特艺术的整个发展历史。教堂中的油画、唱诗班席位、长排座椅和彩色玻璃窗等都刻画出独特的艺术之美。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Our Lady of Burgos was begun in the 13th century at the same time as the great cathedrals of the Ile-de-France and was completed in the 15th and 16th centuries. The entire history of Gothic art is summed up in its superb architecture and its unique collection of works of art, including paintings, choir stalls, reredos, tombs and stained-glass windows.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La construcción de la Catedral de Santa María de Burgos comenzó en el siglo XIII, al mismo tiempo que la de las grandes catedrales francesas de la región de París, y finalizó en los siglos XV y XVI. Su espléndida arquitectura y la colección excepcional de obras maestras que alberga –pinturas, sitiales del coro, retablos, tumbas y vidrieras– son un verdadero compendio de la historia del arte gótico.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FP%20Burgos%20Cathedral%202026%20-%20West%20Fa%C3%A7ade.jpg?width=1280",
+   "title": "FP Burgos Cathedral 2026 - West Façade.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:FP%20Burgos%20Cathedral%202026%20-%20West%20Fa%C3%A7ade.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_316.jpg",
+   "title": "Burgos Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/316",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/316",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vitoria Airport",
+    "iata": "VIT",
+    "city": "Alava",
+    "country": "ES",
+    "lat": 42.882801,
+    "lon": -2.72447,
+    "type": "medium_airport",
+    "distance_km": 100.3
+   },
+   {
+    "name": "Logroño-Agoncillo Airport",
+    "iata": "RJL",
+    "city": "Logroño",
+    "country": "ES",
+    "lat": 42.460953,
+    "lon": -2.322235,
+    "type": "medium_airport",
+    "distance_km": 114.3
+   },
+   {
+    "name": "Valladolid Airport",
+    "iata": "VLL",
+    "city": "Valladolid",
+    "country": "ES",
+    "lat": 41.7061,
+    "lon": -4.85194,
+    "type": "medium_airport",
+    "distance_km": 118.2
+   }
+  ],
+  "nearest_airport_km": 100.3,
+  "distance_beijing_km": 8960.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 54
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/316"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Burgos%20Cathedral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

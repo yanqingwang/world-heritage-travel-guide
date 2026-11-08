@@ -1,0 +1,187 @@
+{
+ "id": "cn-365",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "吉林省",
+ "province_en": "Jilin",
+ "province_iso": "CN-JL",
+ "city_zh": "长春市",
+ "city_en": "Changchun",
+ "name_zh": "长春市长影世纪城景区",
+ "name_en": "Changchunshizhangyingshijicheng Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "changchunshizhangyingshijicheng-365",
+ "lat": 43.868531,
+ "lon": 125.302462,
+ "address_zh": "长春市南关区永顺路路北",
+ "address_en": "North of Yongshun Road, Nanguan District, Changchun City",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "长影世纪城是特效电影主题公园。娱乐项目分为创新科技、惊险刺激、体验演艺、游艺欣赏四大板块。节目科技含量高、体验性强、互动性强。",
+ "intro_en": "Changying Movie Century City is a special effects movie theme park. The entertainment projects are divided into four major sections: innovative technology, thrills, experience of performing arts, and entertainment appreciation. The program has high technological content, strong experiential nature and strong interactivity.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%E9%95%BF%E5%BD%B1%E4%B8%96%E7%BA%AA%E5%9F%8E%E8%BD%BB%E8%BD%A8%E7%AB%99_-_panoramio.jpg/1280px-%E9%95%BF%E5%BD%B1%E4%B8%96%E7%BA%AA%E5%9F%8E%E8%BD%BB%E8%BD%A8%E7%AB%99_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "长影世纪城轻轨站 - panoramio.jpg",
+   "author": "plump",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161012044328/http://www.panoramio.com/photo/14437563",
+   "source": "https://commons.wikimedia.org/wiki/File:长影世纪城轻轨站_-_panoramio.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "http://web.lotsmall.cn/?m_id=1329",
+ "transport": {
+  "airports": [
+   {
+    "name": "Changchun Longjia International Airport",
+    "iata": "CGQ",
+    "city": "Changchun",
+    "country": "CN",
+    "lat": 43.996201,
+    "lon": 125.684998,
+    "type": "large_airport",
+    "distance_km": 33.8
+   },
+   {
+    "name": "Songyuan Chaganhu Airport",
+    "iata": "YSQ",
+    "city": "Qian Gorlos Mongol Autonomous County",
+    "country": "CN",
+    "lat": 44.931143,
+    "lon": 124.552121,
+    "type": "medium_airport",
+    "distance_km": 132.3
+   },
+   {
+    "name": "Tonghua Sanyuanpu Airport",
+    "iata": "TNH",
+    "city": "Tonghua",
+    "country": "CN",
+    "lat": 42.048435,
+    "lon": 125.733963,
+    "type": "medium_airport",
+    "distance_km": 205.4
+   }
+  ],
+  "nearest_airport_km": 33.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "解放桥",
+    "name_en": "Jiefang Overpass",
+    "lat": 43.8741875,
+    "lon": 125.2809164,
+    "distance_km": 1.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "朝阳桥",
+    "name_en": "Chaoyang Bridge",
+    "lat": 43.882557,
+    "lon": 125.2866644,
+    "distance_km": 2.0,
+    "operator": "长春轨道交通集团",
+    "high_speed": false
+   },
+   {
+    "name": "湖西桥",
+    "name_en": "Huxi Bridge",
+    "lat": 43.8670853,
+    "lon": 125.2759235,
+    "distance_km": 2.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "长春香格里拉大酒店",
+   "name_en": "Shangri-La Changchun",
+   "stars": 5,
+   "brand": "香格里拉",
+   "lat": 43.8873856,
+   "lon": 125.3120448,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "南湖宾馆",
+   "name_en": "Nanhu Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 43.8438136,
+   "lon": 125.3032499,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华天大酒店 Huatian Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.8808974,
+   "lon": 125.2545467,
+   "distance_km": 4.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "长春金安大饭店",
+   "name_en": "Jin‘An Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 43.8865278,
+   "lon": 125.3086907,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "长春亚泰饭店",
+   "name_en": "Yatai Hotel Changchun",
+   "stars": 4,
+   "brand": null,
+   "lat": 43.8885403,
+   "lon": 125.3189535,
+   "distance_km": 2.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 65,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

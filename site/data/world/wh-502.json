@@ -1,0 +1,162 @@
+{
+ "id": "wh-502",
+ "unesco_id": "502",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 189,
+ "popularity_score": 66531,
+ "country": "PH",
+ "country_zh": "菲律宾",
+ "country_en": "Philippines",
+ "countries": [
+  {
+   "iso2": "PH",
+   "zh": "菲律宾",
+   "en": "Philippines"
+  }
+ ],
+ "region": "Province of Ilocos Sur",
+ "subdivision_iso": "PH-ILS",
+ "subdivision_zh": "南伊罗戈省",
+ "subdivision_en": "Ilocos Sur",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "维甘历史古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic City of Vigan",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "502-historic_city_of_vigan",
+ "lat": 17.57472,
+ "lon": 120.38694,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "维甘始建于16世纪，是亚洲保存最完好的西班牙殖民城市。该建筑不仅反映出菲律宾其他地方的建筑风格，而且还融入了中国和欧洲的建筑特色。维甘风光秀美，有丰富的文化底蕴，在东亚和东南亚都是首屈一指的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Established in the 16th century, Vigan is the best-preserved example of a planned Spanish colonial town in Asia. Its architecture reflects the coming together of cultural elements from elsewhere in the Philippines, from China and from Europe, resulting in a culture and townscape that have no parallel anywhere in East and South-East Asia.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calle%20Crisologo%2C%20Vigan%2C%20Philippines%20%2850025182191%29.jpg?width=1280",
+   "title": "Calle Crisologo, Vigan, Philippines (50025182191).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Calle%20Crisologo%2C%20Vigan%2C%20Philippines%20%2850025182191%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_502.jpg",
+   "title": "Historic City of Vigan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/502",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/502",
+ "transport": {
+  "airports": [
+   {
+    "name": "Laoag International Airport",
+    "iata": "LAO",
+    "city": "Laoag City",
+    "country": "PH",
+    "lat": 18.175089,
+    "lon": 120.531006,
+    "type": "large_airport",
+    "distance_km": 68.5
+   },
+   {
+    "name": "Tuguegarao Airport",
+    "iata": "TUG",
+    "city": "Tuguegarao City",
+    "country": "PH",
+    "lat": 17.6433676823,
+    "lon": 121.733150482,
+    "type": "medium_airport",
+    "distance_km": 142.9
+   },
+   {
+    "name": "Cauayan Airport",
+    "iata": "CYZ",
+    "city": "Cauayan City",
+    "country": "PH",
+    "lat": 16.9298992157,
+    "lon": 121.752998352,
+    "type": "medium_airport",
+    "distance_km": 161.8
+   }
+  ],
+  "nearest_airport_km": 68.5,
+  "distance_beijing_km": 2465.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PH",
+  "country_zh": "菲律宾",
+  "country_en": "Philippines",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required",
+  "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PH",
+   "country_zh": "菲律宾",
+   "country_en": "Philippines",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required",
+   "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 63
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/502"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vigan"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

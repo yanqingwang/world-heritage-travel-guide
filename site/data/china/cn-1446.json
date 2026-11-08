@@ -1,0 +1,238 @@
+{
+ "id": "cn-1446",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "上海市",
+ "province_en": "Shanghai",
+ "province_iso": "CN-SH",
+ "city_zh": "浦东新区",
+ "city_en": "Pudong New Area",
+ "name_zh": "东方明珠广播电视塔",
+ "name_en": "Dongfangmingzhuguangbodianshita",
+ "name_en_source": "pinyin",
+ "slug": "dongfangmingzhuguangbodianshita-1446",
+ "lat": 31.244613,
+ "lon": 121.506046,
+ "address_zh": "上海市浦东新区世纪大道1号",
+ "address_en": "No. 1 Century Avenue, Pudong New Area, Shanghai",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "东方明珠广播电视塔是上海的标志性文化景观之一，位于浦东新区陆家嘴，塔高约468米。该建筑于1991年7月兴建，1995年5月投入使用，承担上海6套无线电视发射业务，地区覆盖半径80公里。塔内有太空舱、旋转餐厅、上海城市历史发展陈列馆等景观和设施。",
+ "intro_en": "The Oriental Pearl Radio and Television Tower is one of Shanghai's iconic cultural landscapes. It is located in Lujiazui, Pudong New Area. The tower is about 468 meters high. The building was constructed in July 1991 and put into use in May 1995. It is responsible for the transmission business of 6 wireless TV sets in Shanghai, with an area coverage radius of 80 kilometers. There are landscapes and facilities in the tower such as a space capsule, a revolving restaurant, and the Shanghai Urban Historical Development Exhibition Hall.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Oriental_Pearl_Tower_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Oriental Pearl Tower 2012.jpg",
+   "author": "Dottie Day",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/dottieday/6996941176/",
+   "source": "https://commons.wikimedia.org/wiki/File:Oriental_Pearl_Tower_2012.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Oriental_Pearl_Tower_in_Shanghai.jpg/1280px-Oriental_Pearl_Tower_in_Shanghai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Oriental Pearl Tower in Shanghai.jpg",
+   "author": "Dmitry A. Mottl",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Oriental_Pearl_Tower_in_Shanghai.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Shanghai_Oriental_Pearl_Tower-20150516-RM-123453.jpg/1280px-Shanghai_Oriental_Pearl_Tower-20150516-RM-123453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shanghai Oriental Pearl Tower-20150516-RM-123453.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Oriental_Pearl_Tower-20150516-RM-123453.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_Oriental_Pearl_Tower-20150516-RM-130617.jpg/1280px-Shanghai_Oriental_Pearl_Tower-20150516-RM-130617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shanghai Oriental Pearl Tower-20150516-RM-130617.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Oriental_Pearl_Tower-20150516-RM-130617.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Shanghai_Oriental_Pearl_Tower-20150516-RM-174122.jpg/1280px-Shanghai_Oriental_Pearl_Tower-20150516-RM-174122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shanghai Oriental Pearl Tower-20150516-RM-174122.jpg",
+   "author": "Ermell",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Oriental_Pearl_Tower-20150516-RM-174122.jpg"
+  }
+ ],
+ "web": "https://www.orientalpearltower.com/#/",
+ "booking": "https://www.orientalpearltower.com/#/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shanghai Hongqiao International Airport",
+    "iata": "SHA",
+    "city": "Shanghai (Minhang)",
+    "country": "CN",
+    "lat": 31.198104,
+    "lon": 121.33426,
+    "type": "large_airport",
+    "distance_km": 17.1
+   },
+   {
+    "name": "Shanghai Pudong International Airport",
+    "iata": "PVG",
+    "city": "Shanghai (Pudong)",
+    "country": "CN",
+    "lat": 31.1434,
+    "lon": 121.805,
+    "type": "large_airport",
+    "distance_km": 30.6
+   },
+   {
+    "name": "Jiaxing Nanhu Airport",
+    "iata": "JNH",
+    "city": "Xiuzhou, Hangzhou",
+    "country": "CN",
+    "lat": 30.698056,
+    "lon": 120.663056,
+    "type": "medium_airport",
+    "distance_km": 100.8
+   }
+  ],
+  "nearest_airport_km": 17.1,
+  "high_speed_stations": [
+   {
+    "name": "上海",
+    "name_en": "Shanghai",
+    "lat": 31.2515568,
+    "lon": 121.4511645,
+    "distance_km": 5.3,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "上海西",
+    "name_en": null,
+    "lat": 31.2646031,
+    "lon": 121.398156,
+    "distance_km": 10.5,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "龙阳路",
+    "name_en": "Longyang Road",
+    "lat": 31.2046984,
+    "lon": 121.5535315,
+    "distance_km": 6.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杨浦",
+    "name_en": null,
+    "lat": 31.2957694,
+    "lon": 121.5437596,
+    "distance_km": 6.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "北郊",
+    "name_en": "Beijiao Railway Station",
+    "lat": 31.3048976,
+    "lon": 121.4508603,
+    "distance_km": 8.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "上海外滩 W 酒店",
+   "name_en": "W Shanghai - The Bund",
+   "stars": 5,
+   "brand": "W Hotels",
+   "lat": 31.2509402,
+   "lon": 121.4919839,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华尔道夫酒店",
+   "name_en": "Waldorf-Astoria Shanghai on the Bund",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.2357244,
+   "lon": 121.4863051,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海外滩瑞吉酒店",
+   "name_en": "The St. Regis on the Bund, Shanghai",
+   "stars": 5,
+   "brand": "St. Regis",
+   "lat": 31.2297867,
+   "lon": 121.4922745,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海威斯汀大饭店",
+   "name_en": "The Westin Bund Center, Shanghai",
+   "stars": 5,
+   "brand": "Westin",
+   "lat": 31.2343476,
+   "lon": 121.4824564,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海东锦江希尔顿逸林酒店",
+   "name_en": "DoubleTree by Hilton Hotel Shanghai - Pudong",
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 31.2130198,
+   "lon": 121.5299452,
+   "distance_km": 4.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 633,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

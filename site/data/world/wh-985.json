@@ -1,0 +1,172 @@
+{
+ "id": "wh-985",
+ "unesco_id": "985",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 725,
+ "popularity_score": 5058,
+ "country": "LS",
+ "country_zh": "莱索托",
+ "country_en": "Lesotho",
+ "countries": [
+  {
+   "iso2": "LS",
+   "zh": "莱索托",
+   "en": "Lesotho"
+  },
+  {
+   "iso2": "ZA",
+   "zh": "南非",
+   "en": "South Africa"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "马罗提-德拉肯斯堡公园",
+ "name_zh_source": "wikidata",
+ "name_en": "Maloti-Drakensberg Park",
+ "name_local": "",
+ "local_lang": "st",
+ "local_lang_name": "Sesotho",
+ "slug": "985-maloti-drakensberg_park",
+ "lat": -29.4665,
+ "lon": 29.3939,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(iii)(vii)(x)",
+ "year": "2000",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "马罗提-德拉肯斯堡公园位于南非和莱索托两国交界处的德拉肯斯堡山脉，是联合国教科文组织确立的一项世界自然与文化复合遗产。2000年，本地区的南非部分列入世界遗产名录，登录面积242813 ha。2013年，莱索托部分也被列入世界遗产名录，登陆面积扩大至249,313 ha。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "The Maloti-Drakensberg Park is a transnational property composed of the uKhahlamba Drakensberg National Park in South Africa and the Sehlathebe National Park in Lesotho. The site has exceptional natural beauty in its soaring basaltic buttresses, incisive dramatic cutbacks, and golden sandstone ramparts as well as visually spectacular sculptured arches, caves, cliffs, pillars and rock pools. The site's diversity of habitats protects a high level of endemic and globally important plants. The site harbors endangered species such as the Cape vulture ( Gyps coprotheres ) and the bearded vulture ( Gypaetus barbatus ). Lesotho’s Sehlabathebe National Park also harbors the Maloti minnow ( Pseudobarbus quathlambae ), a critically endangered fish species only found in this park. This spectacular natural site contains many caves and rock-shelters with the largest and most concentrated group of paintings in Africa south of the Sahara. They represent the spiritual life of the San people, who lived in this area over a period of 4,000 years.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maloti-Drakensberg%20Park-113926.jpg?width=1280",
+   "title": "Maloti-Drakensberg Park-113926.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Maloti-Drakensberg%20Park-113926.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_985.jpg",
+   "title": "Maloti-Drakensberg Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/985",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/985",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pietermaritzburg Airport",
+    "iata": "PZB",
+    "city": "Pietermaritzburg",
+    "country": "ZA",
+    "lat": -29.649000167799997,
+    "lon": 30.3987007141,
+    "type": "medium_airport",
+    "distance_km": 99.3
+   },
+   {
+    "name": "King Shaka International Airport",
+    "iata": "DUR",
+    "city": "Durban",
+    "country": "ZA",
+    "lat": -29.613381,
+    "lon": 31.117942,
+    "type": "large_airport",
+    "distance_km": 167.6
+   },
+   {
+    "name": "Moshoeshoe I International Airport",
+    "iata": "MSU",
+    "city": "Maseru(Mazenod)",
+    "country": "LS",
+    "lat": -29.456277,
+    "lon": 27.554456,
+    "type": "large_airport",
+    "distance_km": 178.1
+   }
+  ],
+  "nearest_airport_km": 99.3,
+  "distance_beijing_km": 11777.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LS",
+  "country_zh": "莱索托",
+  "country_en": "Lesotho",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][80]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LS",
+   "country_zh": "莱索托",
+   "country_en": "Lesotho",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][80]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "ZA",
+   "country_zh": "南非",
+   "country_en": "South Africa",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Electronic Travel Authorization / eVisa[136]",
+   "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "st",
+  "local_lang_name": "Sesotho",
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/985"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maloti-Drakensberg%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

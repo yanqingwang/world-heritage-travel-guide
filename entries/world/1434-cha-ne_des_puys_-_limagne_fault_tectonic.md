@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(viii)"
 lat: 45.77939
 lon: 2.96511
-updated_at: "2026-11-08T12:19:03Z"
+updated_at: "2026-11-08T14:52:47Z"
 ---
 
 # 多姆山链，利马涅断层构造区 / Chaîne des Puys - Limagne fault tectonic arena

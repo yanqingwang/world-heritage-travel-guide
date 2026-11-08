@@ -1,0 +1,224 @@
+{
+ "id": "cn-26559",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "四川省",
+ "province_en": "Sichuan",
+ "province_iso": "CN-SC",
+ "city_zh": "成都市",
+ "city_en": "Chengdu",
+ "name_zh": "成都市天台山景区",
+ "name_en": "Tiantai Mountain",
+ "name_en_source": "wikipedia",
+ "slug": "chengdushitiantaishan-26559",
+ "lat": 30.283941,
+ "lon": 103.132781,
+ "address_zh": "四川省成都市邛崃市天台山镇",
+ "address_en": "Tiantaishan Town, Qionglai City, Chengdu City, Sichuan Province",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "四川成都天台山旅游景区位于中国优秀旅游城市、巴蜀四大古城之一、南方丝绸之路西出成都第一城的“文君故里”邛崃市，距离成都市区约110公里。景区总面积29.1平方公里，主峰玉霄峰海拔1812米。天台山旅游景区隶属邛崃山脉，森林覆盖率近95%，动植物种类丰富，是四川大熊猫栖息地世界自然遗产、国家重点风景名胜区、国家森林公园、国家AAAAA级旅游景区，全球八大萤火虫观赏地之一。",
+ "intro_en": "Tiantai Mountain (also Tí Taî in the local language) is a mountain in Tiantai County, Taizhou, Zhejiang Province, China. Its highest peak, Huading, reaches a height of 1,138 meters (3,734 ft). It was designated a scenic area in 1985, with an area of 105 km2. One of nine remaining wild populations of Seven-Son Flower (Heptacodium miconioides) is located on mount Tiantai.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG/1280px-Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Sui Dynasty Guoqing Temple Ancient Tower.JPG",
+   "author": "Jdefriez",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cliffs_of_Tiantai_Mountain.jpg/1280px-Cliffs_of_Tiantai_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cliffs of Tiantai Mountain.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Cliffs_of_Tiantai_Mountain.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mount_Tiantai_by_Wu_Bin%2C_1605%2C_Honolulu_Museum_of_Art_3678.1b.JPG/1280px-Mount_Tiantai_by_Wu_Bin%2C_1605%2C_Honolulu_Museum_of_Art_3678.1b.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mount Tiantai by Wu Bin, 1605, Honolulu Museum of Art 3678.1b.JPG",
+   "author": "Wu Bin",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Tiantai_by_Wu_Bin%2C_1605%2C_Honolulu_Museum_of_Art_3678.1b.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mountainside_of_Tiantai_Mountain.jpg/1280px-Mountainside_of_Tiantai_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Mountainside of Tiantai Mountain.jpg",
+   "author": "Huangdan2060",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Mountainside_of_Tiantai_Mountain.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Tiantai_Chicheng_Mountain_%28Panorama%29.jpg/1280px-Tiantai_Chicheng_Mountain_%28Panorama%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tiantai Chicheng Mountain (Panorama).jpg",
+   "author": "Tokiwa Daijō",
+   "license": "Public domain",
+   "credit": "『支那文化史蹟』第6輯、31頁 (昭和14年)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tiantai_Chicheng_Mountain_%28Panorama%29.jpg"
+  }
+ ],
+ "web": "https://www.tiantaishanjq.com/#/home",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chengdu Shuangliu International Airport",
+    "iata": "CTU",
+    "city": "Chengdu (Shuangliu)",
+    "country": "CN",
+    "lat": 30.558257,
+    "lon": 103.945966,
+    "type": "large_airport",
+    "distance_km": 83.7
+   },
+   {
+    "name": "Leshan Airport",
+    "iata": "LSG",
+    "city": "Leshan (Wutongqiao)",
+    "country": "CN",
+    "lat": 29.438627,
+    "lon": 103.749218,
+    "type": "medium_airport",
+    "distance_km": 111.2
+   },
+   {
+    "name": "Chengdu Tianfu International Airport",
+    "iata": "TFU",
+    "city": "Chengdu (Jianyang)",
+    "country": "CN",
+    "lat": 30.31252,
+    "lon": 104.441284,
+    "type": "large_airport",
+    "distance_km": 125.7
+   }
+  ],
+  "nearest_airport_km": 83.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "名山",
+    "name_en": "Mingshan",
+    "lat": 30.0598933,
+    "lon": 103.1879936,
+    "distance_km": 25.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "雅安",
+    "name_en": "Ya'an",
+    "lat": 30.0313155,
+    "lon": 103.0546975,
+    "distance_km": 29.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "朝阳湖",
+    "name_en": "Chaoyanghu",
+    "lat": 30.1698298,
+    "lon": 103.4433349,
+    "distance_km": 32.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "天台上大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.2850351,
+   "lon": 103.1232309,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "龙门方舟",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.2554405,
+   "lon": 103.0144859,
+   "distance_km": 11.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pingle Upper House",
+   "name_en": "Pingle Upper House",
+   "stars": null,
+   "brand": null,
+   "lat": 30.3432059,
+   "lon": 103.3354246,
+   "distance_km": 20.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jinyang House Pingle Ancient Town Shop",
+   "name_en": "Jinyang House Pingle Ancient Town Shop",
+   "stars": null,
+   "brand": null,
+   "lat": 30.3592594,
+   "lon": 103.3315227,
+   "distance_km": 20.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Haitang Garden",
+   "name_en": "Haitang Garden",
+   "stars": null,
+   "brand": null,
+   "lat": 30.3632257,
+   "lon": 103.3288982,
+   "distance_km": 20.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 12,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天台山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 5.3193393
 lon: -61.7953505
-updated_at: "2026-11-08T12:18:56Z"
+updated_at: "2026-11-08T14:52:31Z"
 ---
 
 # 卡奈依马国家公园 / Canaima National Park

@@ -1,0 +1,160 @@
+{
+ "id": "wh-1519",
+ "unesco_id": "1519",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 224,
+ "popularity_score": 46926,
+ "country": "TR",
+ "country_zh": "土耳其",
+ "country_en": "Turkey",
+ "countries": [
+  {
+   "iso2": "TR",
+   "zh": "土耳其",
+   "en": "Turkey"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "TR-09",
+ "subdivision_zh": "艾登省",
+ "subdivision_en": "Aydın Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿弗罗狄西亚",
+ "name_zh_source": "wikidata",
+ "name_en": "Aphrodisias",
+ "name_local": "Afrodisias",
+ "local_lang": "tr",
+ "local_lang_name": "Turkish",
+ "slug": "1519-aphrodisias",
+ "lat": 37.708333333,
+ "lon": 28.723611111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)(vi)",
+ "year": "2017",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿弗罗狄西亚（古希臘語：Ἀφροδισιάς，羅馬化：Aphrodisiás）是土耳其安那托利亚西部历史悠久的卡里亚文化地区的古希腊小城，位于现代村庄盖尔（Geyre）附近，距爱琴海沿岸以东/内陆约100公里（62英里），在伊兹密尔东南230公里（140英里）。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Located in southwestern Turkey, in the upper valley of the Morsynus River, the site consists of two components: the archaeological site of Aphrodisias and the marble quarries northeast of the city. The temple of Aphrodite dates from the 3rd century BC and the city was built one century later. The wealth of Aphrodisias came from the marble quarries and the art produced by its sculptors. The city streets are arranged around several large civic structures, which include temples, a theatre, an agora and two bath complexes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Afrodisias veya Afrodisyas (Grekçe: Ἀφροδισιάς, romanize: Aphrodisiás), Tanrıça Afrodit'e adanmış birçok eski çağ kentinin ortak adı. Afrodisyas (ya da Afrodisias) adlı kentlerin en ünlüsü, Anadolu'nun güneybatısında, eski Karia bölgesinde, günümüzde Aydın ilinin Karacasu ilçesine bağlı Geyre mahallesinin bulunduğu yerde bulunan Antik Yunan kentidir. Arkeolojik kazılar başladıktan sonra Geyre taşınmıştır. 2009'da UNESCO tarafından Dünya Mirası Geçici Listesi'ne dâhil edilen Afrodisias, 2017'de ise Dünya Mirası olarak tescil edildi.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aphrodisias%20turkey.jpg?width=1280",
+   "title": "Aphrodisias turkey.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aphrodisias%20turkey.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1519.jpg",
+   "title": "Aphrodisias",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1519",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1519",
+ "transport": {
+  "airports": [
+   {
+    "name": "Çardak Airport",
+    "iata": "DNZ",
+    "city": "Denizli",
+    "country": "TR",
+    "lat": 37.7855987549,
+    "lon": 29.7012996674,
+    "type": "medium_airport",
+    "distance_km": 86.4
+   },
+   {
+    "name": "Milas Bodrum International Airport",
+    "iata": "BJV",
+    "city": "Bodrum",
+    "country": "TR",
+    "lat": 37.249314,
+    "lon": 27.66401,
+    "type": "large_airport",
+    "distance_km": 106.5
+   },
+   {
+    "name": "Dalaman International Airport",
+    "iata": "DLM",
+    "city": "Dalaman",
+    "country": "TR",
+    "lat": 36.7131,
+    "lon": 28.7925,
+    "type": "large_airport",
+    "distance_km": 110.8
+   }
+  ],
+  "nearest_airport_km": 86.4,
+  "distance_beijing_km": 7194.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TR",
+  "country_zh": "土耳其",
+  "country_en": "Turkey",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180-day period.[151]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TR",
+   "country_zh": "土耳其",
+   "country_en": "Turkey",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180-day period.[151]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "tr",
+  "local_lang_name": "Turkish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1519"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aphrodisias"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

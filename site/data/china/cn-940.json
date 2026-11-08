@@ -1,0 +1,224 @@
+{
+ "id": "cn-940",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "陕西省",
+ "province_en": "Shaanxi",
+ "province_iso": "CN-SN",
+ "city_zh": "西安市",
+ "city_en": "Xi'an",
+ "name_zh": "西安市城墙•碑林历史文化景区",
+ "name_en": "Xi'an",
+ "name_en_source": "wikipedia",
+ "slug": "xianshichengqiang-beilinlishiwenhua-940",
+ "lat": 34.265569,
+ "lon": 108.977354,
+ "address_zh": "陕西省西安市碑林区南大街",
+ "address_en": "South Street, Beilin District, Xi'an City, Shaanxi Province",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "西安城墙·碑林历史文化景区由西安市最有影响力的碑林博物馆和城墙景区组成，西安碑林博物馆紧邻书院门文化街，以收藏、陈列和研究历代碑刻、墓志和石刻闻名。西安城墙延续了整个古都长安的历史文脉，并以其独特的魅力向世人绽放着她的恢弘、壮丽和博大，展示着古都的深邃、智慧和兼容并蓄。",
+ "intro_en": "Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city on the Guanzhong plain, the city is the most populous in the province and third-most populous in Western China after Chongqing and Chengdu, as well as the most populous in Northwestern China. Based on the city's 2025 1% population sample survey, its estimated year-end resident population was 13.24 million, of whom 10.72 million were urban residents. Xi'an is one of the oldest cities in China. Known as Chang'an throughout much of its history, Xi'an is one of China's Five Great Ancient Capitals, having held the position under several of the most important dynasties in Chinese history, including the Western Zhou, Qin, Western Han, Sui, Northern Zhou and Tang. Xi'an is now the second-most popular tourist destination in China. Xi'an contains the Mausoleum of the First Qin Emperor, including the Terracotta Army, and five component sites of the UNESCO-listed Silk Roads: the Routes Network of Chang'an-Tianshan Corridor. Since the 1980s, as part of the economic growth of inland China especially for the central and northwest regions, Xi'an has developed into a cultural, industrial, political and educational, and r",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg/1280px-%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "西安钟楼2020 (1).jpg",
+   "author": "ScareCriterion12",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Hawk_Type_97_Xi%27an_Gaoke_Annex_Building.jpg/1280px-Hawk_Type_97_Xi%27an_Gaoke_Annex_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hawk Type 97 Xi'an Gaoke Annex Building.jpg",
+   "author": "DieSonneUnsLach",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hawk_Type_97_Xi%27an_Gaoke_Annex_Building.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Xi%27an%2C_China.jpg/1280px-Xi%27an%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Xi'an, China.jpg",
+   "author": "Ideophagous",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Xi%27an%2C_China.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Xi%27an%2C_China_%2835775%29.jpg/1280px-Xi%27an%2C_China_%2835775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Xi'an, China (35775).jpg",
+   "author": "Ideophagous",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Xi%27an%2C_China_%2835775%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Xi%27an%2C_China_%2838809%29.jpg/1280px-Xi%27an%2C_China_%2838809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Xi'an, China (38809).jpg",
+   "author": "Ideophagous",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Xi%27an%2C_China_%2838809%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xi'an Xianyang International Airport",
+    "iata": "XIY",
+    "city": "Xi'an",
+    "country": "CN",
+    "lat": 34.442207,
+    "lon": 108.762385,
+    "type": "large_airport",
+    "distance_km": 27.8
+   },
+   {
+    "name": "Ankang Fuqiang Airport",
+    "iata": "AKA",
+    "city": "Ankang (Hanbin)",
+    "country": "CN",
+    "lat": 32.75696,
+    "lon": 108.87338,
+    "type": "small_airport",
+    "distance_km": 168.0
+   },
+   {
+    "name": "Hanzhong Chenggu Airport",
+    "iata": "HZG",
+    "city": "Hanzhong (Chenggu)",
+    "country": "CN",
+    "lat": 33.133527,
+    "lon": 107.203817,
+    "type": "medium_airport",
+    "distance_km": 206.8
+   }
+  ],
+  "nearest_airport_km": 27.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "西安",
+    "name_en": "Xi'an",
+    "lat": 34.2799595,
+    "lon": 108.9578972,
+    "distance_km": 2.4,
+    "operator": "中国铁路西安局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "浐灞",
+    "name_en": "Chanba",
+    "lat": 34.291349,
+    "lon": 109.0022405,
+    "distance_km": 3.7,
+    "operator": "中国铁路西安局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "大雁塔北广场",
+    "name_en": "Great Wild Goose Pagoda North Plaza",
+    "lat": 34.2219792,
+    "lon": 108.9615819,
+    "distance_km": 5.1,
+    "operator": "西安曲江文化产业投资（集团）有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "西安阳光国际大酒店",
+   "name_en": "Grand Soluxe International Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 34.2757635,
+   "lon": 108.958747,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西安富力希尔顿酒店",
+   "name_en": "Hilton Xi'an",
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 34.2665468,
+   "lon": 108.9616791,
+   "distance_km": 1.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "索菲特国际会展中心",
+   "name_en": "Sofitel on Renmin Square",
+   "stars": null,
+   "brand": "Sofitel",
+   "lat": 34.2664175,
+   "lon": 108.9549975,
+   "distance_km": 2.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西安北大街钟楼希尔顿欢朋酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 34.2746625,
+   "lon": 108.9422001,
+   "distance_km": 3.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西安钟楼福朋喜来登酒店",
+   "name_en": "Xi’an Bell Tower Four Points by Sheraton Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.2616735,
+   "lon": 108.9360854,
+   "distance_km": 3.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 328,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/西安市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

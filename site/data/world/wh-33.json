@@ -1,0 +1,165 @@
+{
+ "id": "wh-33",
+ "unesco_id": "33",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1070,
+ "popularity_score": null,
+ "country": "BY",
+ "country_zh": "白俄罗斯",
+ "country_en": "Belarus",
+ "countries": [
+  {
+   "iso2": "BY",
+   "zh": "白俄罗斯",
+   "en": "Belarus"
+  },
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BY-BR",
+ "subdivision_zh": "",
+ "subdivision_en": "Brest Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "比亚沃维耶扎原始森林",
+ "name_zh_source": "curated",
+ "name_en": "Białowieża Forest",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "33-białowieża_forest",
+ "lat": 52.75,
+ "lon": 23.95,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1979",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "比亚沃维耶扎森林世界遗产地位于波兰和白俄罗斯边境，是一片广阔的原始森林，包括针叶树和阔叶树，总面积达 141,885 公顷。这一跨界遗产位于波罗的海和黑海的分水岭上，为生物多样性保护提供了特殊的机会。这里是该地产标志性物种欧洲野牛数量最多的家园。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The Białowieża Forest World Heritage site, on the border between Poland and Belarus, is an immense range of primary forest including both conifers and broadleaved trees covering a total area of 141,885 hectares. Situated on the watershed of the Baltic Sea and Black Sea, this transboundary property is exceptional for the opportunities it offers for biodiversity conservation. It is home to the largest population of the property’s iconic species, the European bison.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_33.jpg",
+   "title": "Białowieża Forest",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/33",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/33",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brest International Airport",
+    "iata": "BQT",
+    "city": "Brest",
+    "country": "BY",
+    "lat": 52.108138,
+    "lon": 23.89676,
+    "type": "large_airport",
+    "distance_km": 71.5
+   },
+   {
+    "name": "Lublin Airport",
+    "iata": "LUZ",
+    "city": "Lublin",
+    "country": "PL",
+    "lat": 51.240157,
+    "lon": 22.713461,
+    "type": "large_airport",
+    "distance_km": 188.0
+   },
+   {
+    "name": "Warsaw Chopin Airport",
+    "iata": "WAW",
+    "city": "Warsaw",
+    "country": "PL",
+    "lat": 52.165699,
+    "lon": 20.9671,
+    "type": "large_airport",
+    "distance_km": 212.3
+   }
+  ],
+  "nearest_airport_km": 71.5,
+  "distance_beijing_km": 6773.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BY",
+  "country_zh": "白俄罗斯",
+  "country_en": "Belarus",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa free for 30 days, for a maximum total stay of 90 days within any 1 calendar year.[19] Holders of passports for public affairs do not require a visa for up to 30 days.[20]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BY",
+   "country_zh": "白俄罗斯",
+   "country_en": "Belarus",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa free for 30 days, for a maximum total stay of 90 days within any 1 calendar year.[19] Holders of passports for public affairs do not require a visa for up to 30 days.[20]"
+  },
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/33"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

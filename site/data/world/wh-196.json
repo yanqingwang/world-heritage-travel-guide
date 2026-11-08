@@ -1,0 +1,162 @@
+{
+ "id": "wh-196",
+ "unesco_id": "196",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 653,
+ "popularity_score": 7247,
+ "country": "HN",
+ "country_zh": "洪都拉斯",
+ "country_en": "Honduras",
+ "countries": [
+  {
+   "iso2": "HN",
+   "zh": "洪都拉斯",
+   "en": "Honduras"
+  }
+ ],
+ "region": "Northeast of the country in the area known as the “Mosquitia Hondureña”",
+ "subdivision_iso": "HN-GD",
+ "subdivision_zh": "格拉西亚斯-阿迪奥斯省",
+ "subdivision_en": "Gracias a Dios Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "雷奥普拉塔诺生物圈保留地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Río Plátano Biosphere Reserve",
+ "name_local": "Reserva de biosfera de Río Plátano",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "196-río_plátano_biosphere_reserve",
+ "lat": 15.25,
+ "lon": -84.73,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该保留地位于雷奥普拉塔诺河的分水岭处，是中美洲少数几个湿热带雨林保护区之一。保留地内有数量丰富、种类繁多的植物和野生动物。在它加勒比海岸延伸的山地上，居住有2000多名土著居民，他们仍然沿袭传统的生活方式。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located on the watershed of the Río Plátano, the reserve is one of the few remains of a tropical rainforest in Central America and has an abundant and varied plant and wildlife. In its mountainous landscape sloping down to the Caribbean coast, over 2,000 indigenous people have preserved their traditional way of life.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ubicada en la cuenca del río Plátano, esta reserva alberga uno de los escasos vestigios de bosque lluvioso tropical de Centroamérica. Su fauna y flora son abundantes y variadas. En su territorio montañoso, que desciende en pendiente hasta la costa del Caribe, viven más de 2.000 indígenas que han conservado su modo de vida tradicional.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rio%20platano.jpg?width=1280",
+   "title": "Rio platano.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Rio%20platano.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_196.jpg",
+   "title": "Río Plátano Biosphere Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/196",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/196",
+ "transport": {
+  "airports": [
+   {
+    "name": "Puerto Lempira Airport",
+    "iata": "PEU",
+    "city": "Puerto Lempira",
+    "country": "HN",
+    "lat": 15.2622,
+    "lon": -83.781197,
+    "type": "small_airport",
+    "distance_km": 101.8
+   },
+   {
+    "name": "La Laguna Airport",
+    "iata": "GJA",
+    "city": "Guanaja",
+    "country": "HN",
+    "lat": 16.4454,
+    "lon": -85.906601,
+    "type": "medium_airport",
+    "distance_km": 183.1
+   },
+   {
+    "name": "Puerto Cabezas Airport",
+    "iata": "PUZ",
+    "city": "Puerto Cabezas",
+    "country": "NI",
+    "lat": 14.047200202941895,
+    "lon": -83.38670349121094,
+    "type": "medium_airport",
+    "distance_km": 196.9
+   }
+  ],
+  "nearest_airport_km": 101.8,
+  "distance_beijing_km": 13510.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HN",
+  "country_zh": "洪都拉斯",
+  "country_en": "Honduras",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa issued by Canada, the United States, or a Schengen Area member state, or a residence permit of the United Kingdom, Japan, Singapore, Australia and New Zealand."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HN",
+   "country_zh": "洪都拉斯",
+   "country_en": "Honduras",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa issued by Canada, the United States, or a Schengen Area member state, or a residence permit of the United Kingdom, Japan, Singapore, Australia and New Zealand."
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/196"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/R%C3%ADo%20Pl%C3%A1tano%20Biosphere%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-986",
+ "unesco_id": "986",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 525,
+ "popularity_score": 12476,
+ "country": "VE",
+ "country_zh": "委内瑞拉",
+ "country_en": "Venezuela",
+ "countries": [
+  {
+   "iso2": "VE",
+   "zh": "委内瑞拉",
+   "en": "Venezuela"
+  }
+ ],
+ "region": "Municipality of Libertador, Caracas",
+ "subdivision_iso": "VE-A",
+ "subdivision_zh": "联邦区",
+ "subdivision_en": "Capital District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加拉加斯大学城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ciudad Universitaria de Caracas",
+ "name_local": "Ciudad universitaria de Caracas",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "986-ciudad_universitaria_de_caracas",
+ "lat": 10.490833333,
+ "lon": -66.890555555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "加拉加斯大学城是1940年至1960年间根据委内瑞拉建筑师卡尔洛斯·劳尔·维拉努埃瓦的设计建造的，是建筑史上现代运动的杰出典范。它将大量建筑物及功能融入一套连接清晰的综合性建筑群体之中，这群建筑包括了现代建筑与视觉艺术的杰作，如带有亚历山大·卡尔德“云烟”的大学礼堂曼格纳、奥林匹克体育馆、隐藏的大厦。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Ciudad Universitaria de Caracas, built to the design of the architect Carlos Raúl Villanueva, between 1940 and 1960, is an outstanding example of the Modern Movement in architecture. The university campus integrates the large number of buildings and functions into a clearly articulated ensemble, including masterpieces of modern architecture and visual arts, such as the Aula Magna with the \"Clouds\" of Alexander Calder, the Olympic Stadium, and the Covered Plaza.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Construida entre 1940 y 1960 con arreglo a un proyecto del arquitecto Carlos Raúl Villanueva, la ciudad universitaria de Caracas es un ejemplo excepcional de la arquitectura moderna. El campus comprende un gran número de construcciones y edificios agrupados en un conjunto funcional y bien estructurado, cuyo valor es realzado por obras maestras de la arquitectura y las artes plásticas modernas como la plaza cubierta, el estadio olímpico y el aula magna, ornamentada con la escultura “Las Nubes” de Alexander Calder.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HansArp-CloudShepher-Manaure1953.JPG?width=1280",
+   "title": "HansArp-CloudShepher-Manaure1953.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:HansArp-CloudShepher-Manaure1953.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_986.jpg",
+   "title": "Ciudad Universitaria de Caracas",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/986",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/986",
+ "transport": {
+  "airports": [
+   {
+    "name": "Maiquetía Simón Bolívar International Airport",
+    "iata": "CCS",
+    "city": "Maiquetía",
+    "country": "VE",
+    "lat": 10.602214,
+    "lon": -66.991174,
+    "type": "large_airport",
+    "distance_km": 16.6
+   },
+   {
+    "name": "Arturo Michelena International Airport",
+    "iata": "VLN",
+    "city": "Valencia",
+    "country": "VE",
+    "lat": 10.149733,
+    "lon": -67.928398,
+    "type": "large_airport",
+    "distance_km": 119.7
+   },
+   {
+    "name": "Los Roques Airport",
+    "iata": "LRV",
+    "city": "Gran Roque Island",
+    "country": "VE",
+    "lat": 11.946935,
+    "lon": -66.668333,
+    "type": "small_airport",
+    "distance_km": 163.7
+   }
+  ],
+  "nearest_airport_km": 16.6,
+  "distance_beijing_km": 14367.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "VE",
+  "country_zh": "委内瑞拉",
+  "country_en": "Venezuela",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][158]",
+  "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.[159][160] Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "VE",
+   "country_zh": "委内瑞拉",
+   "country_en": "Venezuela",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][158]",
+   "notes": "Introduction of Electronic Visa System for Tourist and Business Travelers.[159][160] Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/986"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/University%20City%20of%20Caracas"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

@@ -1,0 +1,252 @@
+{
+ "id": "cn-446",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "常州市",
+ "city_en": "Changzhou",
+ "name_zh": "常州市天目湖景区",
+ "name_en": "Changzhou",
+ "name_en_source": "wikipedia",
+ "slug": "changzhoushitianmuhu-446",
+ "lat": 31.304274,
+ "lon": 119.44574,
+ "address_zh": "常州市溧阳市天目湖镇环湖东路",
+ "address_en": "Huanhu East Road, Tianmuhu Town, Liyang City, Changzhou City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "天目湖因属天目山余脉，故名“天目湖”。天目湖全区拥有300平方公里的生态保护区，区内坐落着沙河、大溪两座国家级大型水库。天目湖地区物产丰富，有沙河桂茗绿茶、乌龙茶、珍珠栗、桂元栗、砂锅鱼头等。",
+ "intro_en": "Changzhou is a prefecture-level city in southern Jiangsu, China. It was previously known as Yanling, Lanling, and Jinling. Located on the southern bank of the Yangtze River, Changzhou borders the provincial capital of Nanjing to the west, Zhenjiang to the northwest, Wuxi to the east, and the province of Zhejiang to the south. The population of the Changzhou Municipality was 5,278,121 at the 2020 census. The city is the birthplace of Zhou Youguang who created the pinyin romanization system.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20090919_Changzhou_Imgp5266.jpg/1280px-20090919_Changzhou_Imgp5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20090919 Changzhou Imgp5266.jpg",
+   "author": "Jakub Hałun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20090919_Changzhou_Imgp5266.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Administrative-Division-Changzhou-Icelandic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Administrative-Division-Changzhou-Icelandic.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Administrative-Division-Changzhou-Icelandic.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Changzhou-in-China-location-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Changzhou-in-China-location-map.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhou-in-China-location-map.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ChangzhouOldCityDistrict.jpg/1280px-ChangzhouOldCityDistrict.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ChangzhouOldCityDistrict.jpg",
+   "author": "Chen Yihan",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:ChangzhouOldCityDistrict.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanjing Lukou International Airport",
+    "iata": "NKG",
+    "city": "Nanjing",
+    "country": "CN",
+    "lat": 31.735032,
+    "lon": 118.865949,
+    "type": "large_airport",
+    "distance_km": 72.9
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 75.3
+   },
+   {
+    "name": "Wuhu Xuanzhou Airport",
+    "iata": "WHA",
+    "city": "Wuhu",
+    "country": "CN",
+    "lat": 31.1045,
+    "lon": 118.66687,
+    "type": "medium_airport",
+    "distance_km": 77.3
+   }
+  ],
+  "nearest_airport_km": 72.9,
+  "high_speed_stations": [
+   {
+    "name": "溧阳",
+    "name_en": "Liyang Railway Station",
+    "lat": 31.3879622,
+    "lon": 119.4976825,
+    "distance_km": 10.5,
+    "operator": "中国铁路上海局集团有限公司",
+    "high_speed": true
+   },
+   {
+    "name": "瓦屋山",
+    "name_en": "Wawushan Railway Station",
+    "lat": 31.5609914,
+    "lon": 119.269235,
+    "distance_km": 33.1,
+    "operator": "南京站",
+    "high_speed": true
+   },
+   {
+    "name": "宜兴",
+    "name_en": null,
+    "lat": 31.3138704,
+    "lon": 119.8087225,
+    "distance_km": 34.5,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "丁山",
+    "name_en": null,
+    "lat": 31.2378206,
+    "lon": 119.8261642,
+    "distance_km": 36.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "煤山",
+    "name_en": null,
+    "lat": 31.0927963,
+    "lon": 119.7566681,
+    "distance_km": 37.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "宜兴北",
+    "name_en": null,
+    "lat": 31.4193778,
+    "lon": 119.826982,
+    "distance_km": 38.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "天目湖宾馆",
+   "name_en": "Tianmuhu Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.3182746,
+   "lon": 119.4352788,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "溧阳万豪酒店",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.3920769,
+   "lon": 119.4867119,
+   "distance_km": 10.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "溧阳新城星俪岚酒店",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.406182,
+   "lon": 119.4596378,
+   "distance_km": 11.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金陵溧阳宾馆",
+   "name_en": "Jinling Liyang Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.4282825,
+   "lon": 119.4798003,
+   "distance_km": 14.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "翠竹园宾馆",
+   "name_en": "Bamboo Garden Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.3169086,
+   "lon": 119.431363,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 20,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/常州市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

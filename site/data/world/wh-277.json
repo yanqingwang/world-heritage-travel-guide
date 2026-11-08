@@ -1,0 +1,154 @@
+{
+ "id": "wh-277",
+ "unesco_id": "277",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1057,
+ "popularity_score": null,
+ "country": "IQ",
+ "country_zh": "伊拉克",
+ "country_en": "Iraq",
+ "countries": [
+  {
+   "iso2": "IQ",
+   "zh": "伊拉克",
+   "en": "Iraq"
+  }
+ ],
+ "region": "Governorate of Ninawa",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "哈特拉",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hatra",
+ "name_local": "الحضر",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "277-hatra",
+ "lat": 35.588055555556,
+ "lon": 42.718333333333,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)(vi)",
+ "year": "1985",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "哈特拉是受帕提亚帝国影响的要塞重镇和第一个阿拉伯王国的首府，在公元116年和198年抵挡住了罗马人的多次侵犯，这主要得益于它高大厚实的城墙和城堡。这座城市的遗址，特别是它融汇了希腊罗马建筑风格及东方装饰特色的寺庙建筑，展示了帕提亚文明的辉煌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A large fortified city under the influence of the Parthian Empire and capital of the first Arab Kingdom, Hatra withstood invasions by the Romans in A.D. 116 and 198 thanks to its high, thick walls reinforced by towers. The remains of the city, especially the temples where Hellenistic and Roman architecture blend with Eastern decorative features, attest to the greatness of its civilization.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "إنها مدينة كبيرة محصّنة خاضعة لنفوذ الامبراطورية البارثيّة وعاصمة المملكة العربية الأولى، وقد قاومت الحضر الرومان مرتين، في العامين 116 و198، بفضل جدارها المحصّن بأبراج. أما آثار المدينة ولا سيما المعابد حيث تمتزج الهندسة الإغريقية والرومانية بعناصر تزيينية ذات جذور شرقية، فهي تشهد فعلاً على عظمة حضارتها.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_277.jpg",
+   "title": "Hatra",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/277",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/277",
+ "transport": {
+  "airports": [
+   {
+    "name": "Erbil International Airport",
+    "iata": "EBL",
+    "city": "Arbil",
+    "country": "IQ",
+    "lat": 36.236047,
+    "lon": 43.946615,
+    "type": "large_airport",
+    "distance_km": 132.0
+   },
+   {
+    "name": "Kirkuk International Airport",
+    "iata": "KIK",
+    "city": "Kirkuk",
+    "country": "IQ",
+    "lat": 35.469501,
+    "lon": 44.3489,
+    "type": "large_airport",
+    "distance_km": 148.1
+   },
+   {
+    "name": "Şırnak Şerafettin Elçi Airport",
+    "iata": "NKT",
+    "city": "Şırnak",
+    "country": "TR",
+    "lat": 37.3647,
+    "lon": 42.0582,
+    "type": "medium_airport",
+    "distance_km": 206.2
+   }
+  ],
+  "nearest_airport_km": 132.0,
+  "distance_beijing_km": 6184.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IQ",
+  "country_zh": "伊拉克",
+  "country_en": "Iraq",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6][61]",
+  "notes": "Effective 1 March 2025, citizens of the countries that used have a visa on arrival facility are advised to apply for an e-visa before traveling to Iraq via the link.[62]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IQ",
+   "country_zh": "伊拉克",
+   "country_en": "Iraq",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6][61]",
+   "notes": "Effective 1 March 2025, citizens of the countries that used have a visa on arrival facility are advised to apply for an e-visa before traveling to Iraq via the link.[62]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/277"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

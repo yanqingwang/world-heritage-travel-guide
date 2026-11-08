@@ -1,0 +1,162 @@
+{
+ "id": "wh-1725",
+ "unesco_id": "1725",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 178,
+ "popularity_score": 75885,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-56",
+ "subdivision_zh": "莫尔比昂省",
+ "subdivision_en": "Morbihan",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡纳克和莫尔比昂海岸巨石林",
+ "name_zh_source": "unesco_official",
+ "name_en": "Megaliths of Carnac and of the shores of Morbihan",
+ "name_local": "Mégalithes de Carnac et des rives du Morbihan",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1725-megaliths_of_carnac_and_of_the_shores_of",
+ "lat": 47.593333333,
+ "lon": -3.079722222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这处位于法国布列塔尼大区的系列遗产，集中分布着大量造于新石器时代（约公元前5000-前2300年）的巨石遗迹，其布局与当地独特的地貌巧妙呼应。这些宏伟石构建筑既彼此协调排列，又呼应地形走势或水道流向，体现出先民对环境的深刻认知。遗址中丰富的刻纹及器物进一步展示了欧洲大西洋沿岸这一地区的社会文化复杂性。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This serial property in Brittany, France, features a dense concentration of megalithic structures built during the Neolithic period (c. 5000–2300 BCE), carefully aligned with the area’s unique geomorphology. These monumental stone constructions—arranged in relation to one another and to natural features like terrain and waterways—reflect a sophisticated understanding of the environment. Rich engravings and associated artifacts further illustrate the cultural complexity of the societies that inhabited this part of the European Atlantic coast.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé en Bretagne (France), ce bien en série comprend une forte densité de structures mégalithiques érigées durant la période néolithique – entre 5000 et 2300 avant notre ère, en tenant compte des spécificités géomorphologiques du territoire. Ces structures monumentales en pierre, alignées selon la topographie et l’hydrographie locales, témoignent d’une compréhension fine du milieu environnant. Le riche répertoire de gravures et d’objets précieux témoignent de l’occupation de la côte atlantique européenne par des sociétés qui ont développé une relation complexe avec leur environnement naturel.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/France-Carnac-Alignement%20de%20Kermario.jpg?width=1280",
+   "title": "France-Carnac-Alignement de Kermario.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:France-Carnac-Alignement%20de%20Kermario.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1725.jpg",
+   "title": "Megaliths of Carnac and of the shores of Morbihan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1725",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1725",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rennes-Saint-Jacques Airport",
+    "iata": "RNS",
+    "city": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine",
+    "country": "FR",
+    "lat": 48.0695,
+    "lon": -1.73479,
+    "type": "medium_airport",
+    "distance_km": 113.5
+   },
+   {
+    "name": "Nantes Atlantique Airport",
+    "iata": "NTE",
+    "city": "Nantes",
+    "country": "FR",
+    "lat": 47.153198,
+    "lon": -1.61073,
+    "type": "large_airport",
+    "distance_km": 121.0
+   },
+   {
+    "name": "Brest Bretagne airport",
+    "iata": "BES",
+    "city": "Brest",
+    "country": "FR",
+    "lat": 48.447899,
+    "lon": -4.41854,
+    "type": "large_airport",
+    "distance_km": 137.6
+   }
+  ],
+  "nearest_airport_km": 113.5,
+  "distance_beijing_km": 8486.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1725"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carnac%20stones"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

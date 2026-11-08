@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 51.82
 lon: 10.34
-updated_at: "2026-11-08T12:18:56Z"
+updated_at: "2026-11-08T14:52:29Z"
 ---
 
 # 上哈尔茨山的水资源管理系统 / Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System

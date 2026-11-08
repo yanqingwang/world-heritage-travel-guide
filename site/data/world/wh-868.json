@@ -1,0 +1,162 @@
+{
+ "id": "wh-868",
+ "unesco_id": "868",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 372,
+ "popularity_score": 22066,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Regions of Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Centre, Champagne-Ardenne, Ile-de-France, Languedoc-Roussillon, Limousin, Midi-Pyrénées, Picardie, Poitou-Charentes, and Provence-Alpes-Côte d’Azur",
+ "subdivision_iso": "FR-ARA",
+ "subdivision_zh": "奥弗涅-罗讷-阿尔卑斯大区",
+ "subdivision_en": "Auvergne-Rhône-Alpes",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "法国圣地亚哥——德孔波斯特拉朝圣之路",
+ "name_zh_source": "unesco_official",
+ "name_en": "Routes of Santiago de Compostela in France",
+ "name_local": "Chemins de Saint-Jacques-de-Compostelle en France",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "868-routes_of_santiago_de_compostela_in_fran",
+ "lat": 45.184055555,
+ "lon": -0.722944444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣地亚哥——德孔波斯特拉在整个中世纪是成千上万虔诚朝圣者们的终极目标，他们从欧洲各地蜂拥至此，为了到达西班牙，他们必须穿越法国。列入世界遗产的项目包括系列重要的历史古迹，标出了朝圣者穿越法国的路线。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Santiago de Compostela was the supreme goal for countless thousands of pious pilgrims who converged there from all over Europe throughout the Middle Ages. To reach Spain pilgrims had to pass through France, and the group of important historical monuments included in this inscription marks out the four routes by which they did so.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Tout au long du Moyen Âge, Saint-Jacques-de-Compostelle fut la plus importante de toutes les destinations pour d'innombrables pèlerins venant de toute l'Europe. Pour atteindre l'Espagne, les pèlerins devaient traverser la France, et les monuments historiques notables qui constituent la présente inscription sur la Liste du patrimoine mondial étaient des jalons sur les quatre routes qu'ils empruntaient.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moustey%20borne%20st%20jacques.JPG?width=1280",
+   "title": "Moustey borne st jacques.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Moustey%20borne%20st%20jacques.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_868.jpg",
+   "title": "Routes of Santiago de Compostela in France",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/868",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/868",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bordeaux–Mérignac Airport",
+    "iata": "BOD",
+    "city": "Bordeaux",
+    "country": "FR",
+    "lat": 44.82865,
+    "lon": -0.715356,
+    "type": "large_airport",
+    "distance_km": 39.5
+   },
+   {
+    "name": "Bergerac Dordogne-Périgord airport",
+    "iata": "EGC",
+    "city": "Bergerac",
+    "country": "FR",
+    "lat": 44.825298,
+    "lon": 0.518611,
+    "type": "medium_airport",
+    "distance_km": 105.4
+   },
+   {
+    "name": "La Rochelle Île de Ré Airport",
+    "iata": "LRH",
+    "city": "La Rochelle",
+    "country": "FR",
+    "lat": 46.179199,
+    "lon": -1.19528,
+    "type": "medium_airport",
+    "distance_km": 116.6
+   }
+  ],
+  "nearest_airport_km": 39.5,
+  "distance_beijing_km": 8692.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/868"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Routes%20of%20Santiago%20de%20Compostela%20in%20France"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

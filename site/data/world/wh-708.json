@@ -1,0 +1,162 @@
+{
+ "id": "wh-708",
+ "unesco_id": "708",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 816,
+ "popularity_score": 2084,
+ "country": "GE",
+ "country_zh": "格鲁吉亚",
+ "country_en": "Georgia",
+ "countries": [
+  {
+   "iso2": "GE",
+   "zh": "格鲁吉亚",
+   "en": "Georgia"
+  }
+ ],
+ "region": "City of Mtskheta, Region of Mtskheta-Mtianeti",
+ "subdivision_iso": "GE-MM",
+ "subdivision_zh": "姆茨赫塔-姆蒂亚内蒂",
+ "subdivision_en": "Mtskheta-Mtianeti",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "姆茨赫塔古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historical Monuments of Mtskheta",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "708-historical_monuments_of_mtskheta",
+ "lat": 41.84389,
+ "lon": 44.71639,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "格鲁吉亚前首都姆茨赫塔古城的教堂是高加索地区中世纪宗教建筑的杰出典范，展示了这个古代王国极高的艺术和文化水平。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The historic churches of Mtskheta, former capital of Georgia, are outstanding examples of medieval religious architecture in the Caucasus. They show the high artistic and cultural level attained by this ancient kingdom.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Jvari%20monastery%20IMG%209345%202070.jpg?width=1280",
+   "title": "Georgia Jvari monastery IMG 9345 2070.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Georgia%20Jvari%20monastery%20IMG%209345%202070.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_708.jpg",
+   "title": "Historical Monuments of Mtskheta",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/708",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/708",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tbilisi International Airport",
+    "iata": "TBS",
+    "city": "Tbilisi",
+    "country": "GE",
+    "lat": 41.669201,
+    "lon": 44.9547,
+    "type": "large_airport",
+    "distance_km": 27.7
+   },
+   {
+    "name": "Shirak International Airport",
+    "iata": "LWN",
+    "city": "Gyumri",
+    "country": "AM",
+    "lat": 40.750401,
+    "lon": 43.859299,
+    "type": "large_airport",
+    "distance_km": 141.1
+   },
+   {
+    "name": "Vladikavkaz Beslan International Airport",
+    "iata": "OGZ",
+    "city": "Beslan",
+    "country": "RU",
+    "lat": 43.205101,
+    "lon": 44.606602,
+    "type": "medium_airport",
+    "distance_km": 151.6
+   }
+  ],
+  "nearest_airport_km": 27.7,
+  "distance_beijing_km": 5842.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GE",
+  "country_zh": "格鲁吉亚",
+  "country_en": "Georgia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Holders of valid visas or residence permits of EU/EFTA/GCC countries, overseas territories of EU countries (except Anguilla, Montserrat, Pitcairn, Saint Helena, Ascension and Tristan da Cunha), Australia, Canada, Israel, Japan, New Zealand, South Korea, United Kingdom, or the United States - visa-fr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GE",
+   "country_zh": "格鲁吉亚",
+   "country_en": "Georgia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Holders of valid visas or residence permits of EU/EFTA/GCC countries, overseas territories of EU countries (except Anguilla, Montserrat, Pitcairn, Saint Helena, Ascension and Tristan da Cunha), Australia, Canada, Israel, Japan, New Zealand, South Korea, United Kingdom, or the United States - visa-fr"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/708"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historical%20Monuments%20of%20Mtskheta"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

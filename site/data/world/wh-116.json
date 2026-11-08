@@ -1,0 +1,154 @@
+{
+ "id": "wh-116",
+ "unesco_id": "116",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 906,
+ "popularity_score": null,
+ "country": "ML",
+ "country_zh": "马里",
+ "country_en": "Mali",
+ "countries": [
+  {
+   "iso2": "ML",
+   "zh": "马里",
+   "en": "Mali"
+  }
+ ],
+ "region": "Djenné Circle, Region of Mopti",
+ "subdivision_iso": "ML-5",
+ "subdivision_zh": "",
+ "subdivision_en": "Mopti",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "杰内古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Towns of Djenné",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "116-old_towns_of_djenné",
+ "lat": 13.90639,
+ "lon": -4.555,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1988",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "杰内自公元前250年开始有人居住，后来发展成一个市场中心和撒哈拉黄金贸易的重要中心。15世纪到16世纪间杰内成为伊斯兰教义传播的中心。城内的古建筑约有2 000座被完好地保存下来。这些建筑为防止季节性洪水，房屋建在了小丘之上 。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Inhabited since 250 B.C., Djenné became a market centre and an important link in the trans-Saharan gold trade. In the 15th and 16th centuries, it was one of the centres for the propagation of Islam. Its traditional houses, of which nearly 2,000 have survived, are built on hillocks ( toguere ) as protection from the seasonal floods.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_116.jpg",
+   "title": "Old Towns of Djenné",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/116",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/116",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mopti Airport",
+    "iata": "MZI",
+    "city": "Sévaré",
+    "country": "ML",
+    "lat": 14.5128,
+    "lon": -4.07956,
+    "type": "medium_airport",
+    "distance_km": 84.7
+   },
+   {
+    "name": "Bobo Dioulasso Airport",
+    "iata": "BOY",
+    "city": "Bobo Dioulasso",
+    "country": "BF",
+    "lat": 11.1601,
+    "lon": -4.33097,
+    "type": "large_airport",
+    "distance_km": 306.3
+   },
+   {
+    "name": "Tombouktou Airport",
+    "iata": "TOM",
+    "city": "Timbuktu",
+    "country": "ML",
+    "lat": 16.730499,
+    "lon": -3.00758,
+    "type": "large_airport",
+    "distance_km": 355.2
+   }
+  ],
+  "nearest_airport_km": 84.7,
+  "distance_beijing_km": 11397.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ML",
+  "country_zh": "马里",
+  "country_en": "Mali",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ML",
+   "country_zh": "马里",
+   "country_en": "Mali",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/116"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

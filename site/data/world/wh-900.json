@@ -1,0 +1,154 @@
+{
+ "id": "wh-900",
+ "unesco_id": "900",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1191,
+ "popularity_score": null,
+ "country": "RU",
+ "country_zh": "俄罗斯",
+ "country_en": "Russia",
+ "countries": [
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "Krasnodar Region",
+ "subdivision_iso": "RU-AD",
+ "subdivision_zh": "",
+ "subdivision_en": "Republic of Adygea",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "西高加索山",
+ "name_zh_source": "unesco_official",
+ "name_en": "Western Caucasus",
+ "name_local": "Западный Кавказ",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "900-western_caucasus",
+ "lat": 44.0,
+ "lon": 40.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "西高加索山在高加索山脉的最西端，位于黑海东北50公里处，占地275 000多公顷，是欧洲尚未受到人类重大干扰的少有的几座大山之一。其亚高山带的高山草原牧草只有野生动物食用。而从山下一直延伸到亚高山地带未遭破坏的广阔山林，在欧洲也是罕见的。该地区拥有的大量本地植物和野生动物，显示了其生态系统的多样性。这里也是山区亚种欧洲野牛的起源地和重新引进之地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Western Caucasus, extending over 275,000 ha of the extreme western end of the Caucasus mountains and located 50 km north-east of the Black Sea, is one of the few large mountain areas of Europe that has not experienced significant human impact. Its subalpine and alpine pastures have only been grazed by wild animals, and its extensive tracts of undisturbed mountain forests, extending from the lowlands to the subalpine zone, are unique in Europe. The site has a great diversity of ecosystems, with important endemic plants and wildlife, and is the place of origin and reintroduction of the mountain subspecies of the European bison.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Это один из немногих крупных высокогорных массивов в Европе, где природа еще не подверглась существенному антропогенному влиянию. Площадь объекта примерно 300 тыс. га, он располагается на западе Большого Кавказа, в 50 км к северо-востоку от побережья Черного моря. На здешних альпийских и субальпийских лугах пасутся только дикие животные, а обширные нетронутые горные леса, простирающиеся от низкогорной зоны до субальпики, – также уникальны для Европы. Местность характеризуется большим разнообразием экосистем, высокоэндемичной флорой и фауной, и является районом, где некогда обитал, а позднее был реакклиматизирован, горный подвид европейского зубра.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_900.jpg",
+   "title": "Western Caucasus",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/900",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/900",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sochi International Airport",
+    "iata": "AER",
+    "city": "Sochi",
+    "country": "RU",
+    "lat": 43.449902,
+    "lon": 39.9566,
+    "type": "large_airport",
+    "distance_km": 61.3
+   },
+   {
+    "name": "Krasnodar Pashkovsky International Airport",
+    "iata": "KRR",
+    "city": "Krasnodar",
+    "country": "RU",
+    "lat": 45.034465,
+    "lon": 39.174215,
+    "type": "large_airport",
+    "distance_km": 132.4
+   },
+   {
+    "name": "Vladislav Ardzinba Sukhum International Airport",
+    "iata": "SUI",
+    "city": "Sukhumi",
+    "country": "GE",
+    "lat": 42.8582,
+    "lon": 41.128101,
+    "type": "large_airport",
+    "distance_km": 156.3
+   }
+  ],
+  "nearest_airport_km": 61.3,
+  "distance_beijing_km": 6133.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RU",
+  "country_zh": "俄罗斯",
+  "country_en": "Russia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required",
+  "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/900"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

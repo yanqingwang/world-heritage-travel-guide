@@ -1,0 +1,162 @@
+{
+ "id": "wh-95",
+ "unesco_id": "95",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1198,
+ "popularity_score": null,
+ "country": "HR",
+ "country_zh": "克罗地亚",
+ "country_en": "Croatia",
+ "countries": [
+  {
+   "iso2": "HR",
+   "zh": "克罗地亚",
+   "en": "Croatia"
+  }
+ ],
+ "region": "County of Dubrovnik-Neretva, Adriatic Coast",
+ "subdivision_iso": "HR-19",
+ "subdivision_zh": "杜布罗夫尼克-内雷特瓦县",
+ "subdivision_en": "Dubrovnik-Neretva County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "杜布罗夫尼克古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old City of Dubrovnik",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "95-old_city_of_dubrovnik",
+ "lat": 42.6409,
+ "lon": 18.1091,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座古城位于达尔马提亚海岸(Dalmatian coast)，有“亚得里亚海明珠”之称，从13世纪开始就成为地中海的一支重要海上力量。虽然在1667年的地震中遭到严重损坏，杜布罗夫尼克仍保留了其美丽的哥特式、文艺复兴式和巴洛克式的教堂、修道院、宫殿和喷泉。20世纪90年代古城又在武装冲突中遭到损毁。现在联合国教科文组织以其为重点协调组织了一项重大修复计划，对其进行修复。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 'Pearl of the Adriatic', situated on the Dalmatian coast, became an important Mediterranean sea power from the 13th century onwards. Although severely damaged by an earthquake in 1667, Dubrovnik managed to preserve its beautiful Gothic, Renaissance and Baroque churches, monasteries, palaces and fountains. Damaged again in the 1990s by armed conflict, it is now the focus of a major restoration programme co-ordinated by UNESCO.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik%202025.jpg?width=1280",
+   "title": "Dubrovnik 2025.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Dubrovnik%202025.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_95.jpg",
+   "title": "Old City of Dubrovnik",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/95",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/95",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dubrovnik Ruđer Bošković Airport",
+    "iata": "DBV",
+    "city": "Dubrovnik",
+    "country": "HR",
+    "lat": 42.562247,
+    "lon": 18.265543,
+    "type": "large_airport",
+    "distance_km": 15.5
+   },
+   {
+    "name": "Tivat Airport",
+    "iata": "TIV",
+    "city": "Tivat",
+    "country": "ME",
+    "lat": 42.404701,
+    "lon": 18.723301,
+    "type": "medium_airport",
+    "distance_km": 56.8
+   },
+   {
+    "name": "Mostar International Airport",
+    "iata": "OMO",
+    "city": "Mostar",
+    "country": "BA",
+    "lat": 43.282489,
+    "lon": 17.846101,
+    "type": "large_airport",
+    "distance_km": 74.5
+   }
+  ],
+  "nearest_airport_km": 15.5,
+  "distance_beijing_km": 7702.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HR",
+  "country_zh": "克罗地亚",
+  "country_en": "Croatia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HR",
+   "country_zh": "克罗地亚",
+   "country_en": "Croatia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 8
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/95"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

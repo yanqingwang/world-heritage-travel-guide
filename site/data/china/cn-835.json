@@ -1,0 +1,156 @@
+{
+ "id": "cn-835",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山西省",
+ "province_en": "Shanxi",
+ "province_iso": "CN-SX",
+ "city_zh": "忻州市",
+ "city_en": "Xinzhou",
+ "name_zh": "忻州市五台山风景名胜区",
+ "name_en": "Xinzhoushiwutaishan Scenic and Historic Area",
+ "name_en_source": "pinyin",
+ "slug": "xinzhoushiwutaishanfengjingmingshengqu-835",
+ "lat": 38.90908,
+ "lon": 113.65576,
+ "address_zh": "忻州市五台县台怀镇",
+ "address_en": "Taihuai Town, Wutai County, Xinzhou City",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "五台山是中国修建佛教建筑最早的地方之一，佛光寺和南禅寺是中国现存最早的两座木质结构建筑。主要景点有塔院寺、菩萨顶、佛光寺、五爷庙、显通寺、万佛阁等。",
+ "intro_en": "Mount Wutai is one of the earliest places to build Buddhist buildings in China. Foguang Temple and Nanchan Temple are the two earliest existing wooden structures in China. The main attractions include Tayuan Temple, Bodhisattva Peak, Foguang Temple, Wuye Temple, Xiantong Temple, Wanfo Pavilion, etc.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xinzhou Wutaishan Airport",
+    "iata": "WUT",
+    "city": "Xinzhou",
+    "country": "CN",
+    "lat": 38.597456,
+    "lon": 112.969173,
+    "type": "small_airport",
+    "distance_km": 68.9
+   },
+   {
+    "name": "Shuozhou Zirun Airport",
+    "iata": "SZH",
+    "city": "Shuozhou",
+    "country": "CN",
+    "lat": 39.273241,
+    "lon": 112.691552,
+    "type": "medium_airport",
+    "distance_km": 92.5
+   },
+   {
+    "name": "Shijiazhuang Zhengding International Airport",
+    "iata": "SJW",
+    "city": "Shijiazhuang",
+    "country": "CN",
+    "lat": 38.280701,
+    "lon": 114.696999,
+    "type": "large_airport",
+    "distance_km": 114.3
+   }
+  ],
+  "nearest_airport_km": 68.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "五台山",
+    "name_en": null,
+    "lat": 38.8669734,
+    "lon": 113.727008,
+    "distance_km": 7.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "集义庄",
+    "name_en": null,
+    "lat": 39.225916,
+    "lon": 113.4616286,
+    "distance_km": 39.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "五台山北",
+    "name_en": "Wutaishanbei",
+    "lat": 39.2644802,
+    "lon": 113.5596012,
+    "distance_km": 40.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "五台山万豪酒店",
+   "name_en": "Wutai Mountain Marriott Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.9034405,
+   "lon": 113.6483279,
+   "distance_km": 0.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金莲花禅文化主题酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.8610589,
+   "lon": 113.7037464,
+   "distance_km": 6.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Friendship Hotel",
+   "name_en": "Friendship Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.992751,
+   "lon": 113.5765703,
+   "distance_km": 11.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

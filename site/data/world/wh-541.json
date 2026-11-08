@@ -1,0 +1,162 @@
+{
+ "id": "wh-541",
+ "unesco_id": "541",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 338,
+ "popularity_score": 25804,
+ "country": "LT",
+ "country_zh": "立陶宛",
+ "country_en": "Lithuania",
+ "countries": [
+  {
+   "iso2": "LT",
+   "zh": "立陶宛",
+   "en": "Lithuania"
+  }
+ ],
+ "region": "City of Vilnius",
+ "subdivision_iso": "LT-57",
+ "subdivision_zh": "维尔纽斯城市市镇",
+ "subdivision_en": "Vilnius City Municipality",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "维尔纽斯历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Vilnius Historic Centre",
+ "name_local": "Vilniaus senamiestis",
+ "local_lang": "lt",
+ "local_lang_name": "Lithuanian",
+ "slug": "541-vilnius_historic_centre",
+ "lat": 54.683333333,
+ "lon": 25.283333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "维尔纽斯是从13世纪到18世纪末期立陶宛大公国的政治中心，在文化和建筑发展上对许多东欧国家有着深远的影响。尽管遭到入侵和部分的破坏，它仍然给人留下深刻的印象，保留了哥特式、 文艺复兴时期、巴洛克式和古典的建筑及其中世纪的布局和自然景致。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Political centre of the Grand Duchy of Lithuania from the 13th to the end of the 18th century, Vilnius has had a profound influence on the cultural and architectural development of much of eastern Europe. Despite invasions and partial destruction, it has preserved an impressive complex of Gothic, Renaissance, Baroque and classical buildings as well as its medieval layout and natural setting.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Vilniaus senamiestis – seniausioji Vilniaus miesto dalis, esanti kairiajame Neries krante į pietus nuo Pilies kalno. Urbanistikos paminklas. Vilniaus senamiestis yra didžiausias Rytų ir Vidurio Europoje barokinis senamiestis. Tai vienas didžiausių Rytų Europos urbanistinių kompleksų, kuris pradėjo formuotis Viduramžiais. Plotas – 3,59 km². Apima 74 kvartalus su 70-čia gatvių ir skersgatvių, 1487 pastatais, kurių bendras plotas – 1 497 000 m². Senamiestyje yra daug katalikų, liuteronų ir stačiatikių bažnyčių, gyvenamųjų namų, kultūros ir architektūros paminklų, muziejų. Senamiestis formavosi kelis šimtus metų ir čia įamžinta miesto istorija bei svarbiausios kultūrinės įtakos. Pastatai ir jų elementai priklauso įvairiems architektūros stiliams (gotika, renesansas, barokas, klasicizmas, šiek tiek moderno), kurie darniai tarpusavyje susipynę ir papildo vienas kitą. Senamiestyje yra išlikę nemažai autentiškų XIV–XIX a. pastatų. XV–XVI a. sparčiai statyti gotikiniai plytų mūro pastatai: pranciškonų, dominikonų, bernardinų vienuolynų ansambliai, naujieji pirklių gildijų pastatai, Lietuvos gotikai būdingos architektūros stačiatikių cerkvės. Senamiestyje dominuojantis stilius – barokas. Baroko metu buvo pastatyta dauguma Vilniaus sakralinių statinių: bažnyčių, cerkvių, vienuolynų. Įžymiausi baroko pastatai Vilniuje: 1604 m. pradėta statyti šv. Kazimiero bažnyčia, XVIII a. antrame ketvir",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gedimino%20kalnas%2058.jpg?width=1280",
+   "title": "Gedimino kalnas 58.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Gedimino%20kalnas%2058.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_541.jpg",
+   "title": "Vilnius Historic Centre",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/541",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/541",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vilnius International Airport",
+    "iata": "VNO",
+    "city": "Vilnius",
+    "country": "LT",
+    "lat": 54.634102,
+    "lon": 25.285801,
+    "type": "large_airport",
+    "distance_km": 5.5
+   },
+   {
+    "name": "Kaunas International Airport",
+    "iata": "KUN",
+    "city": "Kaunas",
+    "country": "LT",
+    "lat": 54.963965,
+    "lon": 24.08582,
+    "type": "large_airport",
+    "distance_km": 82.8
+   },
+   {
+    "name": "Minsk National Airport",
+    "iata": "MSQ",
+    "city": "Minsk",
+    "country": "BY",
+    "lat": 53.888071,
+    "lon": 28.039964,
+    "type": "large_airport",
+    "distance_km": 199.6
+   }
+  ],
+  "nearest_airport_km": 5.5,
+  "distance_beijing_km": 6560.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LT",
+  "country_zh": "立陶宛",
+  "country_en": "Lithuania",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LT",
+   "country_zh": "立陶宛",
+   "country_en": "Lithuania",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "lt",
+  "local_lang_name": "Lithuanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/541"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vilnius%20Old%20Town"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

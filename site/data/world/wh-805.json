@@ -1,0 +1,162 @@
+{
+ "id": "wh-805",
+ "unesco_id": "805",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 651,
+ "popularity_score": 7306,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "San Millán de la Cogolla, Province and Autonomous Community of La Rioja",
+ "subdivision_iso": "ES-RI",
+ "subdivision_zh": "拉里奥哈自治区",
+ "subdivision_en": "La Rioja",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣米延尤索和素索修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "San Millán Yuso and Suso Monasteries",
+ "name_local": "Monasterios de San Millán de Yuso y de Suso",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "805-san_millán_yuso_and_suso_monasteries",
+ "lat": 42.325833333,
+ "lon": -2.86505,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣米延于公元6世纪中叶在该世界遗产所在地建立了修士团体，后来，这里成为了基督教徒的朝圣地。今天，这座为了纪念圣米延而修建的罗马式教堂历尽沧桑，依然矗立在素索。就是在这里产生了最早使用卡斯提尔语言的文学作品，今天全世界最广泛使用的语言之一——西班牙语，就起源于此。公元16世纪初，在素索旧址的下方，一座漂亮的新修道院——尤索修道院建成，它至今依然在兴旺地发展壮大。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The monastic community founded by St Millán in the mid-6th century became a place of pilgrimage. A fine Romanesque church built in honour of the holy man still stands at the site of Suso. It was here that the first literature was produced in Castilian, from which one of the most widely spoken languages in the world today is derived. In the early 16th century the community was housed in the fine new monastery of Yuso, below the older complex; it is still a thriving community today.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "El emplazamiento de la comunidad monástica fundada por San Millán a mediados del siglo VI se convirtió con el tiempo en un lugar de peregrinación. En honor de este santo se construyó en Suso una bella iglesia románica que se conserva aún. Este sitio fue la cuna de la lengua española, que ha llegado a ser uno de los idiomas más hablados del mundo. A principios del siglo XVI, la comunidad se instaló en un terreno situado debajo del antiguo monasterio y edificó el nuevo y bello monasterio de Yuso, donde todavía prosigue sus actividades.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monasterio%20de%20Suso%20%282%29.jpg?width=1280",
+   "title": "Monasterio de Suso (2).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Monasterio%20de%20Suso%20%282%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_805.jpg",
+   "title": "San Millán Yuso and Suso Monasteries",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/805",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/805",
+ "transport": {
+  "airports": [
+   {
+    "name": "Logroño-Agoncillo Airport",
+    "iata": "RJL",
+    "city": "Logroño",
+    "country": "ES",
+    "lat": 42.460953,
+    "lon": -2.322235,
+    "type": "medium_airport",
+    "distance_km": 47.0
+   },
+   {
+    "name": "Vitoria Airport",
+    "iata": "VIT",
+    "city": "Alava",
+    "country": "ES",
+    "lat": 42.882801,
+    "lon": -2.72447,
+    "type": "medium_airport",
+    "distance_km": 63.0
+   },
+   {
+    "name": "Bilbao Airport",
+    "iata": "BIO",
+    "city": "Bilbao",
+    "country": "ES",
+    "lat": 43.301102,
+    "lon": -2.91061,
+    "type": "large_airport",
+    "distance_km": 108.5
+   }
+  ],
+  "nearest_airport_km": 47.0,
+  "distance_beijing_km": 8972.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 24
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/805"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monasteries%20of%20San%20Mill%C3%A1n%20de%20la%20Cogolla"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

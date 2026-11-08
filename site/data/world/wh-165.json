@@ -1,0 +1,162 @@
+{
+ "id": "wh-165",
+ "unesco_id": "165",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 529,
+ "popularity_score": 12291,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Côte d'Or, Burgundy Region",
+ "subdivision_iso": "FR-21",
+ "subdivision_zh": "科多尔省",
+ "subdivision_en": "Côte-d’Or",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "丰特莱的西斯特尔教团修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cistercian Abbey of Fontenay",
+ "name_local": "Abbaye cistercienne de Fontenay",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "165-cistercian_abbey_of_fontenay",
+ "lat": 47.639661,
+ "lon": 4.389327,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座刻板的勃艮第修道院由圣伯纳尔(St Bernard)修建于1119年，修道院的教堂、回廊、餐厅、住宿区、面包房和钢铁厂一起，完美诠释了早期西斯特尔教团修道士自给自足的理想。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This stark Burgundian monastery was founded by St Bernard in 1119. With its church, cloister, refectory, sleeping quarters, bakery and ironworks, it is an excellent illustration of the ideal of self-sufficiency as practised by the earliest communities of Cistercian monks.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fondée en 1119 par saint Bernard, l'abbaye bourguignonne de Fontenay, à l'architecture dépouillée, avec son église, son cloître, son réfectoire, son dortoir, sa boulangerie et sa forge, illustre bien l'idéal d'autarcie des premières communautés de moines cisterciens.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbaye%20de%20Fontenay%20R01.jpg?width=1280",
+   "title": "Abbaye de Fontenay R01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Abbaye%20de%20Fontenay%20R01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_165.jpg",
+   "title": "Cistercian Abbey of Fontenay",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/165",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/165",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dole Tavaux Airport",
+    "iata": "DLE",
+    "city": "Dole",
+    "country": "FR",
+    "lat": 47.038955,
+    "lon": 5.427589,
+    "type": "medium_airport",
+    "distance_km": 102.9
+   },
+   {
+    "name": "Chalons Vatry airport",
+    "iata": "XCR",
+    "city": "Chalons en Champagne",
+    "country": "FR",
+    "lat": 48.77333,
+    "lon": 4.20611,
+    "type": "medium_airport",
+    "distance_km": 126.8
+   },
+   {
+    "name": "Paris-Orly Airport",
+    "iata": "ORY",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "country": "FR",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport",
+    "distance_km": 193.2
+   }
+  ],
+  "nearest_airport_km": 102.9,
+  "distance_beijing_km": 8179.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 39
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/165"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abbey%20of%20Fontenay"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

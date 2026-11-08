@@ -1,0 +1,154 @@
+{
+ "id": "wh-560",
+ "unesco_id": "560",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1108,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Municipality of Casas Grandes, State of Chihuahua",
+ "subdivision_iso": "MX-CHH",
+ "subdivision_zh": "",
+ "subdivision_en": "Chihuahua",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "大卡萨斯的帕魁姆考古区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Zone of Paquimé, Casas Grandes",
+ "name_local": "Zona arqueológica de Paquimé (Casas Grandes)",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "560-archaeological_zone_of_paquimé,_casas_gr",
+ "lat": 30.36638889,
+ "lon": -107.9475,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "大卡萨斯的帕魁姆在公元14世纪至15世纪达到了鼎盛时期，它当时作为贸易和文化纽带连接着现在美国西南部地区和墨西哥北部地区，以及中美洲其他一些高度文明的民族。该遗址拥有大量文物，尽管只有一部分被挖掘了出来，但仍然足以证明当时该地区文化的活力，并且显示出这一文化与当地的地理经济环境之间的和谐统一。但是，这一文明在西班牙征服时期突然消失了。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Paquimé, Casas Grandes, which reached its apogee in the 14th and 15th centuries, played a key role in trade and cultural contacts between the Pueblo culture of the south-western United States and northern Mexico and the more advanced civilizations of Mesoamerica. The extensive remains, only part of which have been excavated, are clear evidence of the vitality of a culture which was perfectly adapted to its physical and economic environment, but which suddenly vanished at the time of the Spanish Conquest.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Paquimé (Casas Grandes) desempeñó un papel clave en las relaciones comerciales y culturales entre la cultura pueblo –que se extendía por el sudoeste del actual territorio de los Estados Unidos y el norte de México– y las civilizaciones más avanzadas de Mesoamérica. Alcanzó su apogeo en los siglos XIV y XV. Los numerosos vestigios de este sitio, excavado tan sólo en parte, atestiguan la vitalidad de una cultura perfectamente adaptada al medio ambiente y el entorno económico, que desapareció bruscamente en tiempos de la conquista de México por los españoles.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_560.jpg",
+   "title": "Archaeological Zone of Paquimé, Casas Grandes",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/560",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/560",
+ "transport": {
+  "airports": [
+   {
+    "name": "Abraham González International Airport",
+    "iata": "CJS",
+    "city": "Ciudad Juárez",
+    "country": "MX",
+    "lat": 31.636673,
+    "lon": -106.428533,
+    "type": "large_airport",
+    "distance_km": 202.3
+   },
+   {
+    "name": "El Paso International Airport",
+    "iata": "ELP",
+    "city": "El Paso",
+    "country": "US",
+    "lat": 31.809908,
+    "lon": -106.375607,
+    "type": "large_airport",
+    "distance_km": 219.5
+   },
+   {
+    "name": "Las Cruces International Airport",
+    "iata": "LRU",
+    "city": "Las Cruces",
+    "country": "US",
+    "lat": 32.289398,
+    "lon": -106.921997,
+    "type": "medium_airport",
+    "distance_km": 235.0
+   }
+  ],
+  "nearest_airport_km": 202.3,
+  "distance_beijing_km": 10893.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/560"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

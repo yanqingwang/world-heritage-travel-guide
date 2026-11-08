@@ -1,0 +1,154 @@
+{
+ "id": "wh-1108",
+ "unesco_id": "1108",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 899,
+ "popularity_score": null,
+ "country": "IL",
+ "country_zh": "以色列",
+ "country_en": "Israel",
+ "countries": [
+  {
+   "iso2": "IL",
+   "zh": "以色列",
+   "en": "Israel"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IL-Z",
+ "subdivision_zh": "",
+ "subdivision_en": "North District",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "米吉多、夏琐和基色圣地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Biblical Tels - Megiddo, Hazor, Beer Sheba",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1108-biblical_tels_-_megiddo,_hazor,_beer_she",
+ "lat": 32.59722,
+ "lon": 35.18222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)(vi)",
+ "year": "2005",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "史前的定居土丘是地中海东部较为平坦的地区的典型特征，特别是黎巴嫩、叙利亚、以色列和东土耳其地区。在以色列超过200个早期居民遗迹中，米吉多、夏琐和基色圣地具有代表性，它们所包含的大量城市遗迹都与圣经相关。这三个圣地同时展示了精制铁器时代的一些最佳例子，以及服务于人口稠密的都市社区的地下水收集系统。具有数千年历史的建筑物反映出了中央集权、繁荣的农业活动和控制主要贸易路线的存在痕迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Tels (prehistoric settlement mounds), are characteristic of the flatter lands of the eastern Mediterranean, particularly Lebanon, Syria, Israel and eastern Turkey. Of more than 200 tels in Israel, Megiddo, Hazor and Beer Sheba are representative of those that contain substantial remains of cities with biblical connections. The three tels also present some of the best examples in the Levant of elaborate Iron Age, underground water-collecting systems, created to serve dense urban communities. Their traces of construction over the millennia reflect the existence of centralized authority, prosperous agricultural activity and the control of important trade routes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1108.jpg",
+   "title": "Biblical Tels - Megiddo, Hazor, Beer Sheba",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1108",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1108",
+ "transport": {
+  "airports": [
+   {
+    "name": "Uri Michaeli Haifa International Airport",
+    "iata": "HFA",
+    "city": "Haifa",
+    "country": "IL",
+    "lat": 32.810219,
+    "lon": 35.043719,
+    "type": "medium_airport",
+    "distance_km": 27.0
+   },
+   {
+    "name": "Ben Gurion International Airport",
+    "iata": "TLV",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.011398,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "distance_km": 70.8
+   },
+   {
+    "name": "Marka International (Amman Civil) Airport",
+    "iata": "ADJ",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "distance_km": 103.0
+   }
+  ],
+  "nearest_airport_km": 27.0,
+  "distance_beijing_km": 7080.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IL",
+  "country_zh": "以色列",
+  "country_en": "Israel",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IL",
+   "country_zh": "以色列",
+   "country_en": "Israel",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1108"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

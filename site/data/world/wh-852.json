@@ -1,0 +1,162 @@
+{
+ "id": "wh-852",
+ "unesco_id": "852",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 530,
+ "popularity_score": 12257,
+ "country": "LV",
+ "country_zh": "拉脱维亚",
+ "country_en": "Latvia",
+ "countries": [
+  {
+   "iso2": "LV",
+   "zh": "拉脱维亚",
+   "en": "Latvia"
+  }
+ ],
+ "region": "City of Riga",
+ "subdivision_iso": "LV-RIX",
+ "subdivision_zh": "里加",
+ "subdivision_en": "Riga",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "里加历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Riga",
+ "name_local": "Vecrīga",
+ "local_lang": "lv",
+ "local_lang_name": "Latvian",
+ "slug": "852-historic_centre_of_riga",
+ "lat": 56.9485,
+ "lon": 24.1082,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "里加是汉萨同盟的一个主要中心，它同中欧和东欧的贸易在13世纪至15世纪一度非常繁荣。尽管大部分的早期建筑受到火灾和战争的破坏，但是中世纪中期的城市建筑仍然反映了这种繁荣。19世纪里加成为重要的经济中心，中世纪城镇的市郊已经建成，风格从开始的古典木制建筑转入“新艺术”风格。里加被公认为欧洲最精美的“新艺术”建筑风格的中心。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Riga was a major centre of the Hanseatic League, deriving its prosperity in the 13th–15th centuries from the trade with central and eastern Europe. The urban fabric of its medieval centre reflects this prosperity, though most of the earliest buildings were destroyed by fire or war. Riga became an important economic centre in the 19th century, when the suburbs surrounding the medieval town were laid out, first with imposing wooden buildings in neoclassical style and then in Jugendstil . It is generally recognized that Riga has the finest collection of art nouveau buildings in Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Vecrīga, (apkaimes nosaukums Vecpilsēta) arī Iekšrīga, ir Rīgas pilsētas vissenākā daļa, kā arī apkaime, kuras robežas veido K. Valdemāra iela, Z. A. Meierovica bulvāris, Aspazijas bulvāris, 13. janvāra iela un 11. novembra krastmala. Kopš 1967. gada Vecrīga ir valsts aizsargājamā zona, kopš 1983. gada pilsētbūvniecības piemineklis, 1997. gadā Rīgas vēsturisko centru un tostarp Vecrīgu UNESCO iekļāva Pasaules mantojuma sarakstā, bet 2007. gadā, pateicoties Vecrīgas panorāmai un siluetam, Rīga ieguva Eiropas mantojuma zīmi.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Riga%20%2833844464828%29.jpg?width=1280",
+   "title": "Riga (33844464828).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Riga%20%2833844464828%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_852.jpg",
+   "title": "Historic Centre of Riga",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/852",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/852",
+ "transport": {
+  "airports": [
+   {
+    "name": "Riga International Airport",
+    "iata": "RIX",
+    "city": "Riga",
+    "country": "LV",
+    "lat": 56.920752,
+    "lon": 23.970711,
+    "type": "large_airport",
+    "distance_km": 8.9
+   },
+   {
+    "name": "Pärnu Airport",
+    "iata": "EPU",
+    "city": "Pärnu",
+    "country": "EE",
+    "lat": 58.41899871826172,
+    "lon": 24.47279930114746,
+    "type": "medium_airport",
+    "distance_km": 164.9
+   },
+   {
+    "name": "Kuressaare Airport",
+    "iata": "URE",
+    "city": "Kuressaare",
+    "country": "EE",
+    "lat": 58.22990036010742,
+    "lon": 22.50950050354004,
+    "type": "medium_airport",
+    "distance_km": 171.4
+   }
+  ],
+  "nearest_airport_km": 8.9,
+  "distance_beijing_km": 6520.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LV",
+  "country_zh": "拉脱维亚",
+  "country_en": "Latvia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LV",
+   "country_zh": "拉脱维亚",
+   "country_en": "Latvia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "lv",
+  "local_lang_name": "Latvian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/852"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vecr%C4%ABga"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

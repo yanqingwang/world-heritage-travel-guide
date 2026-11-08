@@ -1,0 +1,162 @@
+{
+ "id": "wh-1686",
+ "unesco_id": "1686",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1008,
+ "popularity_score": null,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "安蒂科斯蒂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Anticosti",
+ "name_local": "Anticosti",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1686-anticosti",
+ "lat": 49.538611111,
+ "lon": -63.245277777,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产位于魁北克省最大的岛屿安蒂科斯蒂岛上，保存着首次大规模动物灭绝（4.47-4.37亿年前）最齐全且最完好的古生物学记录，包含横跨1千万年地球历史的保存最完好的海洋生物化石记录。其化石数量之多、种类之丰富、状态之完美无与伦比，可供世界级科学研究之用。成千上万的大型沉积面可供我们观察和研究古代热带浅海底部的贝壳和部分软体动物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated on the island of Anticosti, the largest island in Quebec, this property is the most complete and best preserved palaeontological record of the first mass extinction of animal life, 447-437 million years ago. It contains the best preserved fossil record of marine life covering 10 million years of Earth history. The abundance, diversity, and exquisite preservation of the fossils are exceptional and allow for world-class scientific work. Thousands of large bedding surfaces allow the observation and study of shell and sometimes soft-bodied animals that lived on the shallow sea floor of an ancient tropical sea.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé sur l’île d’Anticosti, la plus grande île du Québec, ce bien constitue l’enregistrement paléontologique le plus complet et le mieux préservé de la première extinction massive de vie animale, il y a 447-437 millions d’années. Il comprend le témoignage fossile le plus complet de la vie marine, couvrant 10 millions d’années de l’histoire de la Terre. L’abondance, la diversité et l’état de conservation des fossiles sont exceptionnels et permettent un travail scientifique de classe mondiale. Des milliers de grandes surfaces de litage permettent d’observer et d’étudier les animaux à coquille, et parfois à corps mou, qui vivaient dans les fonds marins peu profonds d’une ancienne mer tropicale.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chute%20Vaur%C3%A9al.jpg?width=1280",
+   "title": "Chute Vauréal.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Chute%20Vaur%C3%A9al.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1686.jpg",
+   "title": "Anticosti",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1686",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1686",
+ "transport": {
+  "airports": [
+   {
+    "name": "Port-Menier Airport",
+    "iata": "YPN",
+    "city": "Port-Menier",
+    "country": "CA",
+    "lat": 49.836399,
+    "lon": -64.288597,
+    "type": "medium_airport",
+    "distance_km": 82.0
+   },
+   {
+    "name": "Havre-Saint-Pierre Airport",
+    "iata": "YGV",
+    "city": "Havre-Saint-Pierre",
+    "country": "CA",
+    "lat": 50.281898,
+    "lon": -63.611401,
+    "type": "medium_airport",
+    "distance_km": 86.7
+   },
+   {
+    "name": "Michel-Pouliot Gaspé Airport",
+    "iata": "YGP",
+    "city": "Gaspé",
+    "country": "CA",
+    "lat": 48.774915,
+    "lon": -64.481893,
+    "type": "medium_airport",
+    "distance_km": 123.7
+   }
+  ],
+  "nearest_airport_km": 82.0,
+  "distance_beijing_km": 10016.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1686"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-561",
+ "unesco_id": "561",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 193,
+ "popularity_score": 65013,
+ "country": "LK",
+ "country_zh": "斯里兰卡",
+ "country_en": "Sri Lanka",
+ "countries": [
+  {
+   "iso2": "LK",
+   "zh": "斯里兰卡",
+   "en": "Sri Lanka"
+  }
+ ],
+ "region": "Central Province, Matale District",
+ "subdivision_iso": "LK-22",
+ "subdivision_zh": "马特莱区",
+ "subdivision_en": "Matale District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "丹布勒金寺",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rangiri Dambulla Cave Temple",
+ "name_local": "",
+ "local_lang": "ta",
+ "local_lang_name": "Tamil",
+ "slug": "561-rangiri_dambulla_cave_temple",
+ "lat": 7.856563,
+ "lon": 80.6483403,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(vi)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "丹布勒金寺是一个享有22个世纪历史的朝圣圣地。丹布勒金寺里有五大圣堂，是斯里兰卡最大、保存最完整的洞穴庙宇群。这里珍藏着面积达2100平方米的壁画和157尊雕像，极为珍贵。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A sacred pilgrimage site for 22 centuries, this cave monastery, with its five sanctuaries, is the largest, best-preserved cave-temple complex in Sri Lanka. The Buddhist mural paintings (covering an area of 2,100 m 2 ) are of particular importance, as are the 157 statues.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dambulla-temple%20daurat1.jpg?width=1280",
+   "title": "Dambulla-temple daurat1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Dambulla-temple%20daurat1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_561.jpg",
+   "title": "Rangiri Dambulla Cave Temple",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/561",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/561",
+ "transport": {
+  "airports": [
+   {
+    "name": "China Bay Airport",
+    "iata": "TRR",
+    "city": "Trincomalee",
+    "country": "LK",
+    "lat": 8.539159,
+    "lon": 81.18128,
+    "type": "medium_airport",
+    "distance_km": 95.9
+   },
+   {
+    "name": "Bandaranaike International Colombo Airport",
+    "iata": "CMB",
+    "city": "Colombo",
+    "country": "LK",
+    "lat": 7.180759906768799,
+    "lon": 79.88410186767578,
+    "type": "large_airport",
+    "distance_km": 112.9
+   },
+   {
+    "name": "Batticaloa International Airport",
+    "iata": "BTC",
+    "city": "Batticaloa",
+    "country": "LK",
+    "lat": 7.705073,
+    "lon": 81.677163,
+    "type": "medium_airport",
+    "distance_km": 114.6
+   }
+  ],
+  "nearest_airport_km": 95.9,
+  "distance_beijing_km": 4956.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LK",
+  "country_zh": "斯里兰卡",
+  "country_en": "Sri Lanka",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free ETA / Visa on arrival[6][138]",
+  "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LK",
+   "country_zh": "斯里兰卡",
+   "country_en": "Sri Lanka",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free ETA / Visa on arrival[6][138]",
+   "notes": "Sri Lanka introduced an ETA valid for 30 days.[139]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "ta",
+  "local_lang_name": "Tamil",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 39
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/561"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dambulla%20cave%20temple"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

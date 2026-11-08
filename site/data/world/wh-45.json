@@ -1,0 +1,162 @@
+{
+ "id": "wh-45",
+ "unesco_id": "45",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 648,
+ "popularity_score": 7376,
+ "country": "BG",
+ "country_zh": "保加利亚",
+ "country_en": "Bulgaria",
+ "countries": [
+  {
+   "iso2": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria"
+  }
+ ],
+ "region": "Village of Ivanovo, 16 km from the town of Ruse, Province of Ruse",
+ "subdivision_iso": "BG-18",
+ "subdivision_zh": "鲁塞州",
+ "subdivision_en": "Ruse",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伊凡诺沃岩洞教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rock-Hewn Churches of Ivanovo",
+ "name_local": "Ивановски скални църкви",
+ "local_lang": "bg",
+ "local_lang_name": "Bulgarian",
+ "slug": "45-rock-hewn_churches_of_ivanovo",
+ "lat": 43.695555555,
+ "lon": 25.988055555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伊凡诺沃岩洞教堂位于保加利亚东北部洛姆河流域伊凡诺沃村一带，由岩洞教堂、小教堂、修道院和洞穴组成。12世纪，第一批隐士开始在这里开挖洞穴和建造教堂。绘于14世纪的壁画向人们展示了塔尔诺沃(Tarnovo)画派艺术家们杰出的艺术表现力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ивановските скални църкви са разположени край с. Иваново, на 18 км от град Русе. Имат отличително запазени стенописи в сравнение с други комплекси в България. За разлика от традиционните манастири, състоящи се от 1 – 2 църкви, монашеска и стопанска част, в Иваново има разнообразие от малки скални църкви, параклиси и килии, издълбани на различна височина в скалите на живописния каньон на река Русенски Лом. Църквите при Иваново са част от стотиците средновековни скални църкви, манастири, скитове и отделни отшелнически килии, които през периода Х-XIV век превръщат долината на реката и нейните притоци в българско духовно средище.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivanovski%20skalni%20tsarkvi%2020110714-05.JPG?width=1280",
+   "title": "Ivanovski skalni tsarkvi 20110714-05.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ivanovski%20skalni%20tsarkvi%2020110714-05.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_45.jpg",
+   "title": "Rock-Hewn Churches of Ivanovo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/45",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/45",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bucharest Băneasa Aurel Vlaicu International Airport",
+    "iata": "BBU",
+    "city": "Bucharest",
+    "country": "RO",
+    "lat": 44.503133,
+    "lon": 26.102944,
+    "type": "large_airport",
+    "distance_km": 90.3
+   },
+   {
+    "name": "Bucharest Henri Coandă International Airport",
+    "iata": "OTP",
+    "city": "Otopeni",
+    "country": "RO",
+    "lat": 44.571792,
+    "lon": 26.103285,
+    "type": "large_airport",
+    "distance_km": 97.9
+   },
+   {
+    "name": "Varna Airport",
+    "iata": "VAR",
+    "city": "Varna",
+    "country": "BG",
+    "lat": 43.232101,
+    "lon": 27.8251,
+    "type": "large_airport",
+    "distance_km": 157.0
+   }
+  ],
+  "nearest_airport_km": 90.3,
+  "distance_beijing_km": 7057.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BG",
+  "country_zh": "保加利亚",
+  "country_en": "Bulgaria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BG",
+   "country_zh": "保加利亚",
+   "country_en": "Bulgaria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "bg",
+  "local_lang_name": "Bulgarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/45"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rock-hewn%20Churches%20of%20Ivanovo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

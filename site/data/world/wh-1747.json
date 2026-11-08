@@ -1,0 +1,162 @@
+{
+ "id": "wh-1747",
+ "unesco_id": "1747",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 863,
+ "popularity_score": 517,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BR-MG",
+ "subdivision_zh": "米纳斯吉拉斯州",
+ "subdivision_en": "Minas Gerais",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "佩鲁瓦苏河峡谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "Peruaçu River Canyon",
+ "name_local": "Área de Proteção Ambiental Cavernas do Peruaçu",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "1747-peruaçu_river_canyon",
+ "lat": -14.9,
+ "lon": -44.05,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "佩鲁瓦苏河峡谷位于米纳斯吉拉斯州北部，拥有壮观的喀斯特地貌、巨大的岩洞和丰富的生物多样性。其发育于碳酸盐岩中的水平岩洞系统，呈现出显著的洞穴沉积物、坍塌落水洞、石灰岩拱门和地下河景观。这一地貌形成于稳定的圣弗朗西斯科克拉通之上，反映了上新世—更新世以来的重大气候和地质变化。公园位于塞拉多、卡廷加、大西洋森林３大生态区交汇带，栖息着2千余种动植物，包括诸多受威胁物种。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in northern Minas Gerais and featuring dramatic karst landscapes, vast caves, and rich biodiversity, the park’s horizontal cave systems, formed in carbonate rock, reveal striking speleothems, collapsed dolines, limestone arches, and underground rivers. Developed in the stable São Francisco craton, the landscape reflects major climatic and geological changes from the Plio-Pleistocene. The park lies at the intersection of the Cerrado, Caatinga, and Atlantic Forest biomes, supporting over 2,000 plant and animal species, including many threatened ones.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "A Área de Proteção Ambiental Cavernas do Peruaçu está localizada no estado de Minas Gerais na região sudeste do Brasil. O bioma predominante é o Cerrado.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vale%20do%20Perua%C3%A7%C3%BA.JPG?width=1280",
+   "title": "Vale do Peruaçú.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vale%20do%20Perua%C3%A7%C3%BA.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1747.jpg",
+   "title": "Peruaçu River Canyon",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1747",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1747",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mário Ribeiro Airport",
+    "iata": "MOC",
+    "city": "Montes Claros",
+    "country": "BR",
+    "lat": -16.706919,
+    "lon": -43.818901,
+    "type": "medium_airport",
+    "distance_km": 202.4
+   },
+   {
+    "name": "Dom Ricardo Weberberger Airport",
+    "iata": "BRA",
+    "city": "Barreiras",
+    "country": "BR",
+    "lat": -12.0789,
+    "lon": -45.008999,
+    "type": "small_airport",
+    "distance_km": 330.4
+   },
+   {
+    "name": "Glauber de Andrade Rocha Airport",
+    "iata": "VDC",
+    "city": "Vitória da Conquista",
+    "country": "BR",
+    "lat": -14.907885,
+    "lon": -40.914804,
+    "type": "medium_airport",
+    "distance_km": 336.9
+   }
+  ],
+  "nearest_airport_km": 202.4,
+  "distance_beijing_km": 16802.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1747"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cavernas%20do%20Perua%C3%A7u%20Environmental%20Protection%20Area"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

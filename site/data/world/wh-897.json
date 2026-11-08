@@ -1,0 +1,162 @@
+{
+ "id": "wh-897",
+ "unesco_id": "897",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 212,
+ "popularity_score": 54428,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "Eisenach, State of Thuringia (Thüringen)",
+ "subdivision_iso": "DE-TH",
+ "subdivision_zh": "图林根州",
+ "subdivision_en": "Thuringia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦尔特堡城堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Wartburg Castle",
+ "name_local": "Wartburg",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "897-wartburg_castle",
+ "lat": 50.966111111,
+ "lon": 10.306388888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "瓦尔特堡与周围的森林完美地融为一体，从许多方面来看，它都是一座“理想城堡”。尽管这里还保留着一些封建原始建筑，但19世纪重建后的形态则展示了这座城堡在军事和权力巅峰时的风采。马丁·路德正是流放在瓦尔特堡时，将《新约》翻译成了德文。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Wartburg Castle blends superbly into its forest surroundings and is in many ways 'the ideal castle'. Although it has retained some original sections from the feudal period, the form it acquired during the 19th-century reconstitution gives a good idea of what this fortress might have been at the height of its military and seigneurial power. It was during his exile at Wartburg Castle that Martin Luther translated the New Testament into German.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Wartburg ist eine Burg bei Eisenach, im nordwestlichen Thüringer Wald in Thüringen. Ihr Name ist wahrscheinlich von Warte, also Wach(t)-, Wächterburg abgeleitet. Der Burgberg weist mit 411 m ü. NHN noch einmal eine Höhe auf wie der etwa 3 km südlich gelegene Kamm des Thüringer Waldes mit dem Rennsteig. Unterhalb der Wartburg im nördlich gelegenen Hörseltal verlief die Via Regia. Erstmals genannt wurde die Wartburg 1080 in Brunos Abhandlung zum Sachsenkrieg „De bello Saxonico“. Aufgrund ihrer Verknüpfung mit bedeutenden Persönlichkeiten wie Elisabeth von Thüringen und Martin Luther bzw. Ereignissen wie dem Sängerkrieg und dem Wartburgfest der Urburschenschaft 1817 gilt die Wartburg als ein deutsches Nationaldenkmal. Seit 1999 gehört sie außerdem zum UNESCO-Welterbe. Der in wesentlichen Teilen erhaltene, von den Landgrafen von Thüringen, den Ludowingern, in der zweiten Hälfte des 12. Jahrhunderts erbaute Palas ist der erste seines Bautyps überhaupt im deutschsprachigen Raum und kann als künstlerisch und architektonisch bedeutendster Bau seiner Art gelten. Das heutige Gesamterscheinungsbild der Burganlage mit Neuer Kemenate und Hauptturm sowie des sie umgebenden Landschaftsparks geht auf den Großherzog Carl Alexander von Sachsen-Weimar-Eisenach zurück. In seinem Auftrag wurde die Wartburg 1838 bis 1890 nach Entwürfen von Hugo von Ritgen wiederhergestellt.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thuringia%20Eisenach%20asv2020-07%20img23%20Wartburg%20Castle.jpg?width=1280",
+   "title": "Thuringia Eisenach asv2020-07 img23 Wartburg Castle.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Thuringia%20Eisenach%20asv2020-07%20img23%20Wartburg%20Castle.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_897.jpg",
+   "title": "Wartburg Castle",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/897",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/897",
+ "transport": {
+  "airports": [
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 45.8
+   },
+   {
+    "name": "Kassel Airport",
+    "iata": "KSF",
+    "city": "Calden",
+    "country": "DE",
+    "lat": 51.418395,
+    "lon": 9.391638,
+    "type": "large_airport",
+    "distance_km": 81.2
+   },
+   {
+    "name": "Paderborn Lippstadt Airport",
+    "iata": "PAD",
+    "city": "Büren",
+    "country": "DE",
+    "lat": 51.612527,
+    "lon": 8.617459,
+    "type": "large_airport",
+    "distance_km": 137.7
+   }
+  ],
+  "nearest_airport_km": 45.8,
+  "distance_beijing_km": 7589.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 57
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/897"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wartburg"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

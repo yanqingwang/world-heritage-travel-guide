@@ -1,0 +1,162 @@
+{
+ "id": "wh-697",
+ "unesco_id": "697",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1134,
+ "popularity_score": null,
+ "country": "DK",
+ "country_zh": "丹麦",
+ "country_en": "Denmark",
+ "countries": [
+  {
+   "iso2": "DK",
+   "zh": "丹麦",
+   "en": "Denmark"
+  }
+ ],
+ "region": "Vejle Commune, Region of Southern Denmark",
+ "subdivision_iso": "DK-83",
+ "subdivision_zh": "南丹麦大区",
+ "subdivision_en": "Southern Denmark",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "耶灵墓地、古北欧石刻和教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Jelling Mounds, Runic Stones and Church",
+ "name_local": "Jellingmonumenterne",
+ "local_lang": "da",
+ "local_lang_name": "Danish",
+ "slug": "697-jelling_mounds,_runic_stones_and_church",
+ "lat": 55.75651427,
+ "lon": 9.419743429,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "耶灵墓地的坟冢和一个古代北欧文字的石碑是北欧文化中的异教徒文化的典型范例，而其他北欧文字的石碑和教堂则诠释了进入10世纪中期时，丹麦人逐渐基督教化的进程。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Jelling burial mounds and one of the runic stones are striking examples of pagan Nordic culture, while the other runic stone and the church illustrate the Christianization of the Danish people towards the middle of the 10th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Jellingmonumenterne er en samlet betegnelse for Jelling Kirke, Jellingstenene og de to kæmpegravhøje i Jelling. Jelling Monumentet blev i 1994 optaget på UNESCOs Verdensarvsliste, fordi det afspejler den første officielle overgang fra hedenskab til kristendom i Skandinavien.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jelling-Kirche%20suedlicher%20Huegel.jpg?width=1280",
+   "title": "Jelling-Kirche suedlicher Huegel.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Jelling-Kirche%20suedlicher%20Huegel.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_697.jpg",
+   "title": "Jelling Mounds, Runic Stones and Church",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/697",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/697",
+ "transport": {
+  "airports": [
+   {
+    "name": "Billund Airport",
+    "iata": "BLL",
+    "city": "Billund",
+    "country": "DK",
+    "lat": 55.740335,
+    "lon": 9.157019,
+    "type": "large_airport",
+    "distance_km": 16.5
+   },
+   {
+    "name": "Esbjerg Airport",
+    "iata": "EBJ",
+    "city": "Esbjerg",
+    "country": "DK",
+    "lat": 55.525902,
+    "lon": 8.5534,
+    "type": "medium_airport",
+    "distance_km": 60.1
+   },
+   {
+    "name": "Midtjyllands Airport / Air Base Karup",
+    "iata": "KRP",
+    "city": "Karup",
+    "country": "DK",
+    "lat": 56.297139,
+    "lon": 9.104311,
+    "type": "medium_airport",
+    "distance_km": 63.2
+   }
+  ],
+  "nearest_airport_km": 16.5,
+  "distance_beijing_km": 7364.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DK",
+  "country_zh": "丹麦",
+  "country_en": "Denmark",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DK",
+   "country_zh": "丹麦",
+   "country_en": "Denmark",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "da",
+  "local_lang_name": "Danish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 7
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/697"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iv)"
 lat: 34.78166667
 lon: 36.26305556
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:43Z"
 ---
 
 # 武士堡和萨拉丁堡 / Crac des Chevaliers and Qal’at Salah El-Din

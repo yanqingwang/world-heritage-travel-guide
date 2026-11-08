@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vi)"
 lat: 21.0768
 lon: 106.719
-updated_at: "2026-11-08T12:19:05Z"
+updated_at: "2026-11-08T14:52:53Z"
 ---
 
 # 安子、永严、昆山-劫泊建筑和景观群 / Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes

@@ -1,0 +1,242 @@
+{
+ "id": "wh-183",
+ "unesco_id": "183",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 141,
+ "popularity_score": 98815,
+ "country": "LY",
+ "country_zh": "利比亚",
+ "country_en": "Libya",
+ "countries": [
+  {
+   "iso2": "LY",
+   "zh": "利比亚",
+   "en": "Libya"
+  }
+ ],
+ "region": "District of Khoms",
+ "subdivision_iso": "LY-MB",
+ "subdivision_zh": "迈尔盖卜省",
+ "subdivision_en": "Murqub",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "莱波蒂斯考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Leptis Magna",
+ "name_local": "موقع لبدة الأثري (لبتس ماغنا) (لبدة الكبرى )",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "183-archaeological_site_of_leptis_magna",
+ "lat": 32.636748,
+ "lon": 14.2922,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)",
+ "year": "1982",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "莱波蒂斯是由塞普蒂斯乌斯·塞韦罗扩建并设计装饰的。他出生在那里并成为那里的国王。莱波蒂斯以其壮丽的公共纪念碑、人工港、市场、仓库、商店、居住区成为罗马帝国最美丽的城市之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Leptis Magna was enlarged and embellished by Septimius Severus, who was born there and later became emperor. It was one of the most beautiful cities of the Roman Empire, with its imposing public monuments, harbour, market-place, storehouses, shops and residential districts.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "كانت لبدة إحدى أجمل حاضرات الامبراطورية الرومانية بعد أن جمّلها وكبّرها \"سيبتيموس سيفيروس\" ابن البلاد الذي أصبح امبراطورًا، وذلك بنصبها العامة الكبيرة، ومرفئها الاصطناعي، وسوقها، ومخازنها، ومحترفاتها وأحيائها السكنية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leptis%20Magna%20%2829%29%20%288288918733%29.jpg?width=1280",
+   "title": "Leptis Magna (29) (8288918733).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Leptis%20Magna%20%2829%29%20%288288918733%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/00IMGL4379.jpg/1280px-00IMGL4379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "00IMGL4379.jpg",
+   "author": "Abdulfatah Amr",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:00IMGL4379.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/10_Severan_Nymphaeum.jpg/1280px-10_Severan_Nymphaeum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "10 Severan Nymphaeum.jpg",
+   "author": "slsphotolibrary",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/189018824@N02/51797694875/",
+   "source": "https://commons.wikimedia.org/wiki/File:10_Severan_Nymphaeum.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/11_Chalcidicum.jpg/1280px-11_Chalcidicum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "11 Chalcidicum.jpg",
+   "author": "slsphotolibrary",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/189018824@N02/51796964641/",
+   "source": "https://commons.wikimedia.org/wiki/File:11_Chalcidicum.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/12_Chalcidicum.jpg/1280px-12_Chalcidicum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "12 Chalcidicum.jpg",
+   "author": "slsphotolibrary",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/189018824@N02/51796963401/",
+   "source": "https://commons.wikimedia.org/wiki/File:12_Chalcidicum.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/183",
+ "transport": {
+  "airports": [
+   {
+    "name": "Misrata International Airport",
+    "iata": "MRA",
+    "city": "Misrata",
+    "country": "LY",
+    "lat": 32.325001,
+    "lon": 15.061,
+    "type": "small_airport",
+    "distance_km": 80.0
+   },
+   {
+    "name": "Mitiga International Airport",
+    "iata": "MJI",
+    "city": "Tripoli",
+    "country": "LY",
+    "lat": 32.89177,
+    "lon": 13.287878,
+    "type": "large_airport",
+    "distance_km": 98.1
+   },
+   {
+    "name": "Lampedusa Airport",
+    "iata": "LMP",
+    "city": "Lampedusa",
+    "country": "IT",
+    "lat": 35.497898,
+    "lon": 12.6181,
+    "type": "medium_airport",
+    "distance_km": 353.5
+   }
+  ],
+  "nearest_airport_km": 80.0,
+  "distance_beijing_km": 8626.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "فندق زليتن",
+   "name_en": "Zliten Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 32.4752042,
+   "lon": 14.5602048,
+   "distance_km": 30.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق المرقب",
+   "name_en": "Al Mergab Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6296921,
+   "lon": 14.2824465,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الخمس",
+   "name_en": "Al Khoms Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6527569,
+   "lon": 14.2706285,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الحسنين",
+   "name_en": "Hassanin Hotel-Khoms",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6435008,
+   "lon": 14.2512438,
+   "distance_km": 3.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق سيفيروس-الخمس",
+   "name_en": "Severus Hotel -Khoms",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6444891,
+   "lon": 14.2505349,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "LY",
+  "country_zh": "利比亚",
+  "country_en": "Libya",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][81]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LY",
+   "country_zh": "利比亚",
+   "country_en": "Libya",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][81]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 68
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/183"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Leptis%20Magna"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

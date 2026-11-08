@@ -1,0 +1,154 @@
+{
+ "id": "wh-1277",
+ "unesco_id": "1277",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 929,
+ "popularity_score": null,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "平泉——象征着佛教净土的庙宇、园林与考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1277-hiraizumi_–_temples,_gardens_and_archaeo",
+ "lat": 38.98861111,
+ "lon": 141.11027778,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(vi)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "由5处遗址组成，其中包括圣山金鸡山。11及12世纪时，平泉是日本北部地区与京都相抗衡的行政中心，至今尚留存有当时府衙的遗迹。平泉文化遗产中的遗址按照8世纪流传到日本的佛教净土宗的宇宙观建成，象征着人们渴望死后往生的佛陀净土以及此生的静心之境。结合了日本本土的自然崇拜与神道教的影响，净土宗发展出了日本独特的规划与园林设计理念。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Hiraizumi - Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land comprises five sites, including the sacred Mount Kinkeisan. It features vestiges of government offices dating from the 11th and 12th centuries when Hiraizumi was the administrative centre of the northern realm of Japan and rivalled Kyoto. The realm was based on the cosmology of Pure Land Buddhism, which spread to Japan in the 8th century. It represented the pure land of Buddha that people aspire to after death, as well as peace of mind in this life. In combination with indigenous Japanese nature worship and Shintoism, Pure Land Buddhism developed a concept of planning and garden design that was unique to Japan.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1277.jpg",
+   "title": "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1277",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1277",
+ "transport": {
+  "airports": [
+   {
+    "name": "Iwate Hanamaki Airport",
+    "iata": "HNA",
+    "city": "Hanamaki",
+    "country": "JP",
+    "lat": 39.4286,
+    "lon": 141.134995,
+    "type": "medium_airport",
+    "distance_km": 49.0
+   },
+   {
+    "name": "Yamagata Airport",
+    "iata": "GAJ",
+    "city": "Higashine",
+    "country": "JP",
+    "lat": 38.4119,
+    "lon": 140.371002,
+    "type": "medium_airport",
+    "distance_km": 90.7
+   },
+   {
+    "name": "Sendai Airport",
+    "iata": "SDJ",
+    "city": "Natori",
+    "country": "JP",
+    "lat": 38.139702,
+    "lon": 140.917007,
+    "type": "large_airport",
+    "distance_km": 95.9
+   }
+  ],
+  "nearest_airport_km": 49.0,
+  "distance_beijing_km": 2093.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1277"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

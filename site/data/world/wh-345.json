@@ -1,0 +1,162 @@
+{
+ "id": "wh-345",
+ "unesco_id": "345",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 209,
+ "popularity_score": 55340,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Aude, Languedoc-Roussillon Region",
+ "subdivision_iso": "FR-11",
+ "subdivision_zh": "奥德省",
+ "subdivision_en": "Aude",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡尔卡松历史城墙要塞",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Fortified City of Carcassonne",
+ "name_local": "Ville fortifiée historique de Carcassonne",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "345-historic_fortified_city_of_carcassonne",
+ "lat": 43.206439,
+ "lon": 2.363788,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从前罗马时期起，卡尔卡松现在所在的山上就有了防御性聚落。城堡历经历史而形态不改，是中世纪要塞城市的杰出典范。城堡四周环绕着坚固的防御工事，还有房屋、街道以及完美的哥特式大教堂。卡尔卡松的极端重要性还在于现代保护科学奠基人之一——维奥莱公爵(Viollet-le-Duc)开展的漫长修复工作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Since the pre-Roman period, a fortified settlement has existed on the hill where Carcassonne now stands. In its present form it is an outstanding example of a medieval fortified town, with its massive defences encircling the castle and the surrounding buildings, its streets and its fine Gothic cathedral. Carcassonne is also of exceptional importance because of the lengthy restoration campaign undertaken by Viollet-le-Duc, one of the founders of the modern science of conservation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Depuis la période préromaine, des fortifications ont été érigées sur la colline où est aujourd'hui située Carcassonne. Sous sa forme actuelle, c'est un exemple remarquable de cité médiévale fortifiée dotée d'un énorme système défensif entourant le château et les corps de logis qui lui sont associés, les rues et la superbe cathédrale gothique. Carcassonne doit aussi son importance exceptionnelle à la longue campagne de restauration menée par Viollet-le-Duc, l'un des fondateurs de la science moderne de la conservation.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cit%C3%A9%20de%20Carcassonne.jpg?width=1280",
+   "title": "Cité de Carcassonne.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9%20de%20Carcassonne.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_345.jpg",
+   "title": "Historic Fortified City of Carcassonne",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/345",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/345",
+ "transport": {
+  "airports": [
+   {
+    "name": "Carcassonne Salvaza Airport",
+    "iata": "CCF",
+    "city": "Carcassonne",
+    "country": "FR",
+    "lat": 43.216,
+    "lon": 2.30632,
+    "type": "medium_airport",
+    "distance_km": 4.8
+   },
+   {
+    "name": "Castres Mazamet Airport",
+    "iata": "DCM",
+    "city": "Castres",
+    "country": "FR",
+    "lat": 43.556301,
+    "lon": 2.28918,
+    "type": "medium_airport",
+    "distance_km": 39.4
+   },
+   {
+    "name": "Perpignan-Rivesaltes (Llabanère) Airport",
+    "iata": "PGF",
+    "city": "Perpignan/Rivesaltes",
+    "country": "FR",
+    "lat": 42.740398,
+    "lon": 2.87067,
+    "type": "medium_airport",
+    "distance_km": 66.2
+   }
+  ],
+  "nearest_airport_km": 4.8,
+  "distance_beijing_km": 8649.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/345"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cit%C3%A9%20de%20Carcassonne"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

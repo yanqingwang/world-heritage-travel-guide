@@ -1,0 +1,162 @@
+{
+ "id": "wh-284",
+ "unesco_id": "284",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 241,
+ "popularity_score": 41100,
+ "country": "NP",
+ "country_zh": "尼泊尔",
+ "country_en": "Nepal",
+ "countries": [
+  {
+   "iso2": "NP",
+   "zh": "尼泊尔",
+   "en": "Nepal"
+  }
+ ],
+ "region": "Chitwan District of the Narayani Zone",
+ "subdivision_iso": "NP-P2",
+ "subdivision_zh": "马德西省",
+ "subdivision_en": "Madhesh Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奇特旺皇家国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Chitwan National Park",
+ "name_local": "चितवन राष्ट्रिय निकुञ्ज",
+ "local_lang": "ne",
+ "local_lang_name": "Nepali",
+ "slug": "284-chitwan_national_park",
+ "lat": 27.5,
+ "lon": 84.333333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在喜马拉雅山脚下，奇特旺是德赖地区少数几个未遭到破坏的历史遗迹之一，它曾一直延伸到印度和尼泊尔的山脉丘陵地带。公园里拥有丰富的动植物群，有珍稀的独角亚洲犀牛，也是孟加拉虎的最后避难所。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "At the foot of the Himalayas, Chitwan is one of the few remaining undisturbed vestiges of the 'Terai' region, which formerly extended over the foothills of India and Nepal. It has a particularly rich flora and fauna. One of the last populations of single-horned Asiatic rhinoceros lives in the park, which is also one of the last refuges of the Bengal tiger.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "चितवन राष्ट्रिय निकुञ्ज, पहिले शाही चितवन राष्ट्रिय निकुञ्ज, नेपालको सबैभन्दा पहिलो तथा सबैभन्दा पुरानो राष्ट्रिय निकुञ्ज हो। यसको स्थापना सन् १९७३ मा गरिएको हो। यस निकुञ्जलाई सन् १९८४ मा युनेस्को विश्व सम्पदा क्षेत्रमा सूचीकृत गरिएको हो। यसको क्षेत्रफल ९५२.६३ किमी२ (३६७.८१ वर्ग माइल) छ। यसको अवस्थिति उचाई तल्लो नदी उपत्यकामा १०० मी (३३० फिट) देखि चुरे पहाड क्षेत्रमा ८१५ मी (२,६७४ फिट) सम्म रहेको छ। जैविक विविधताको धनी यो निकुञ्ज नेपालको मध्य तराईमा अवस्थित छ। यस निकुञ्जको मुख्य कार्यालय कसरामा रहेको छ जसकारण सबै प्रकारका प्रशासनिक कामहरू कसराबाटै हुने गर्दछ। सन् १९५१ सम्म चितवन उपत्यका तत्कालीन शासकहरूका बीचमा सिकार खेल्नको लागि निकै लोकप्रिय थियो। जसले पछि गएर राष्ट्रिय निकुञ्जको रूप लियो। चितवन राष्ट्रिय निकुञ्जको मुख्यद्वार नजिकैको सहर भरतपुरबाट १० किलोमिटरको दुरीमा रहेको छ। यो निकुञ्जको भ्रमण गर्न सडकमार्ग हुँदै भरतपुर भएर टाँडीबाट भित्र पस्दै जान सकिन्छ भने भरतपुर विमानस्थलमा दैनिक उडान उपलब्ध छन्।",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chitwan%20swamp.jpg?width=1280",
+   "title": "Chitwan swamp.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Chitwan%20swamp.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_284.jpg",
+   "title": "Chitwan National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/284",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/284",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bharatpur Airport",
+    "iata": "BHR",
+    "city": "Bharatpur",
+    "country": "NP",
+    "lat": 27.678101,
+    "lon": 84.429398,
+    "type": "small_airport",
+    "distance_km": 22.0
+   },
+   {
+    "name": "Simara Airport",
+    "iata": "SIF",
+    "city": "Simara",
+    "country": "NP",
+    "lat": 27.159803,
+    "lon": 84.980021,
+    "type": "small_airport",
+    "distance_km": 74.2
+   },
+   {
+    "name": "Pokhara International Airport",
+    "iata": "PHH",
+    "city": "Pokhara",
+    "country": "NP",
+    "lat": 28.1838,
+    "lon": 84.0147,
+    "type": "large_airport",
+    "distance_km": 82.2
+   }
+  ],
+  "nearest_airport_km": 22.0,
+  "distance_beijing_km": 3249.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NP",
+  "country_zh": "尼泊尔",
+  "country_en": "Nepal",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "Online Visa / Free visa on arrival[6][98]",
+  "notes": "Visa is issued free of charge for Chinese tourists.[99]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NP",
+   "country_zh": "尼泊尔",
+   "country_en": "Nepal",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "Online Visa / Free visa on arrival[6][98]",
+   "notes": "Visa is issued free of charge for Chinese tourists.[99]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ne",
+  "local_lang_name": "Nepali",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 55
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/284"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chitwan%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

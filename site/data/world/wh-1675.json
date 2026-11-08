@@ -1,0 +1,190 @@
+{
+ "id": "wh-1675",
+ "unesco_id": "1675",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 477,
+ "popularity_score": 14550,
+ "country": "TJ",
+ "country_zh": "塔吉克斯坦",
+ "country_en": "Tajikistan",
+ "countries": [
+  {
+   "iso2": "TJ",
+   "zh": "塔吉克斯坦",
+   "en": "Tajikistan"
+  },
+  {
+   "iso2": "TM",
+   "zh": "土库曼斯坦",
+   "en": "Turkmenistan"
+  },
+  {
+   "iso2": "UZ",
+   "zh": "乌兹别克斯坦",
+   "en": "Uzbekistan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "丝绸之路：扎拉夫尚-卡拉库姆廊道",
+ "name_zh_source": "unesco_official",
+ "name_en": "Silk Roads: Zarafshan-Karakum Corridor",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1675-silk_roads:_zarafshan-karakum_corridor",
+ "lat": 39.441488888,
+ "lon": 69.685558333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(v)",
+ "year": "2023",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "扎拉夫尚-卡拉库姆廊道是丝绸之路在中亚地区的咽喉，连接着来自各个方向的其他廊道。其全长866公里，沿途既有崎岖的山脉，又有肥沃的河谷和荒无人烟的沙漠。它先顺着扎拉夫尚河自东向西延伸，然后折往西南，沿古代商队路线穿越卡拉库姆沙漠直达梅尔夫绿洲。自公元前2世纪到公元16世纪，该走廊成为丝绸之路上东西方交流、大量商品贸易的主要渠道。它见证了人类的旅行、定居、征服、溃败，从而发展成民族、文化、宗教、科技的熔炉。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Zarafshan-Karakum Corridor is a key section of the Silk Roads in Central Asia that connects other corridors from all directions. Located in rugged mountains, fertile river valleys, and uninhabitable desert, the 866-kilometre corridor runs from east to west along the Zarafshan River and further southwest following the ancient caravan roads crossing the Karakum Desert to the Merv Oasis. Channelling much of the east-west exchange along the Silk Roads from the 2nd century BCE to the 16th century CE, a large quantity of goods was traded along the corridor. People travelled, settled, conquered, or were defeated here, making it a melting pot of ethnicities, cultures, religions, sciences, and technologies.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rabat%20Malik%2012-50.JPG?width=1280",
+   "title": "Rabat Malik 12-50.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Rabat%20Malik%2012-50.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1675.jpg",
+   "title": "Silk Roads: Zarafshan-Karakum Corridor",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1675",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1675",
+ "transport": {
+  "airports": [
+   {
+    "name": "Khujand International Airport",
+    "iata": "LBD",
+    "city": "Khujand",
+    "country": "TJ",
+    "lat": 40.215401,
+    "lon": 69.694702,
+    "type": "large_airport",
+    "distance_km": 86.1
+   },
+   {
+    "name": "Dushanbe International Airport",
+    "iata": "DYU",
+    "city": "Dushanbe",
+    "country": "TJ",
+    "lat": 38.543746,
+    "lon": 68.822977,
+    "type": "large_airport",
+    "distance_km": 124.6
+   },
+   {
+    "name": "Zomin Airport",
+    "iata": "OMN",
+    "city": "Zomin",
+    "country": "UZ",
+    "lat": 40.01402,
+    "lon": 68.41103,
+    "type": "medium_airport",
+    "distance_km": 126.2
+   }
+  ],
+  "nearest_airport_km": 86.1,
+  "distance_beijing_km": 3937.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TJ",
+  "country_zh": "塔吉克斯坦",
+  "country_en": "Tajikistan",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required (conditional) / eVisa[6][144]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18] Holders of passports which are 55 years old and more do not require a visa for 14 days.[145]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TJ",
+   "country_zh": "塔吉克斯坦",
+   "country_en": "Tajikistan",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required (conditional) / eVisa[6][144]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18] Holders of passports which are 55 years old and more do not require a visa for 14 days.[145]"
+  },
+  {
+   "iso2": "TM",
+   "country_zh": "土库曼斯坦",
+   "country_en": "Turkmenistan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  },
+  {
+   "iso2": "UZ",
+   "country_zh": "乌兹别克斯坦",
+   "country_en": "Uzbekistan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1675"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silk%20Roads%3A%20Zarafshan-Karakum%20Corridor"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

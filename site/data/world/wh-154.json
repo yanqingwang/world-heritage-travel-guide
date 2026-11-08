@@ -1,0 +1,260 @@
+{
+ "id": "wh-154",
+ "unesco_id": "154",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 25,
+ "popularity_score": 502368,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "Off the east coast of the Queensland mainland",
+ "subdivision_iso": "AU-QLD",
+ "subdivision_zh": "昆士兰州",
+ "subdivision_en": "Queensland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "大堡礁",
+ "name_zh_source": "unesco_official",
+ "name_en": "Great Barrier Reef",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "154-great_barrier_reef",
+ "lat": -16.4,
+ "lon": 145.8,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "大堡礁位于澳大利亚东北海岸，这里物种多样、景色迷人，有着世界上最大的珊瑚礁群，包括400种珊瑚、1500种鱼类和4000种软体动物。大堡礁还是一处得天独厚的科学研究场所，因为这里栖息着多种濒临灭绝的动物，比如儒艮（“美人鱼”）和巨星绿龟。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Great Barrier Reef is a site of remarkable variety and beauty on the north-east coast of Australia. It contains the world’s largest collection of coral reefs, with 400 types of coral, 1,500 species of fish and 4,000 types of mollusc. It also holds great scientific interest as the habitat of species such as the dugong (‘sea cow’) and the large green turtle, which are threatened with extinction.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GreatBarrierReef-EO.JPG?width=1280",
+   "title": "GreatBarrierReef-EO.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:GreatBarrierReef-EO.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Great Barrier Reef.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Great_Barrier_Reef.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/20150123--GOPR1316_%2821281036503%29.jpg/1280px-20150123--GOPR1316_%2821281036503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20150123--GOPR1316 (21281036503).jpg",
+   "author": "Ryan McMinds",
+   "license": "CC BY 2.0",
+   "credit": "20150123--GOPR1316.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:20150123--GOPR1316_%2821281036503%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_series_of_stills_from_Davies_Reef%2C_Great_Barrier_Reef_%281st_July_-_31st_July_2011%29.webm/960px--A_series_of_stills_from_Davies_Reef%2C_Great_Barrier_Reef_%281st_July_-_31st_July_2011%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "A series of stills from Davies Reef, Great Barrier Reef (1st July - 31st July 2011).webm",
+   "author": "Australian Institute of Marine Science",
+   "license": "CC BY 3.0",
+   "credit": "YouTube : A series of stills from Davies Reef 1st July - 31st July 2011 – View/save archived versions on archive.org",
+   "source": "https://commons.wikimedia.org/wiki/File:A_series_of_stills_from_Davies_Reef%2C_Great_Barrier_Reef_%281st_July_-_31st_July_2011%29.webm"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/AIMS_crown-of-thorns_starfish_survey.webm/500px--AIMS_crown-of-thorns_starfish_survey.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "AIMS crown-of-thorns starfish survey.webm",
+   "author": "Australian Institute of Marine Science",
+   "license": "CC BY 3.0",
+   "credit": "YouTube : Crown of Thorns Survey Video – View/save archived versions on archive.org",
+   "source": "https://commons.wikimedia.org/wiki/File:AIMS_crown-of-thorns_starfish_survey.webm"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/154",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cairns International Airport",
+    "iata": "CNS",
+    "city": "Cairns",
+    "country": "AU",
+    "lat": -16.878921,
+    "lon": 145.74948,
+    "type": "large_airport",
+    "distance_km": 53.5
+   },
+   {
+    "name": "Cooktown Airport",
+    "iata": "CTN",
+    "city": "",
+    "country": "AU",
+    "lat": -15.443649,
+    "lon": 145.183221,
+    "type": "medium_airport",
+    "distance_km": 125.1
+   },
+   {
+    "name": "Palm Island Airport",
+    "iata": "PMK",
+    "city": "",
+    "country": "AU",
+    "lat": -18.755301,
+    "lon": 146.580994,
+    "type": "small_airport",
+    "distance_km": 274.7
+   }
+  ],
+  "nearest_airport_km": 53.5,
+  "distance_beijing_km": 7016.5,
+  "ferry_terminals": [
+   {
+    "name": "Daintree River Ferry",
+    "name_en": null,
+    "lat": -16.2608804,
+    "lon": 145.3976426,
+    "distance_km": 45.6,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Kuranda",
+    "name_en": null,
+    "lat": -16.818485,
+    "lon": 145.6390891,
+    "distance_km": 49.6,
+    "operator": "Queensland Rail"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Mantra Aqueous Port Douglas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -16.4848647,
+   "lon": 145.4658583,
+   "distance_km": 36.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Paradiso",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -16.7444732,
+   "lon": 145.6706649,
+   "distance_km": 40.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton Grand Mirage Resort, Port Douglas",
+   "name_en": null,
+   "stars": null,
+   "brand": "Sheraton",
+   "lat": -16.5009007,
+   "lon": 145.465129,
+   "distance_km": 37.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Palm Cove Sea Temple Resort & Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.7527718,
+   "lon": 145.6705838,
+   "distance_km": 41.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thala Beach Nature Reserve",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.5869485,
+   "lon": 145.5181003,
+   "distance_km": 36.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 144
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/154"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Great%20Barrier%20Reef"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-269",
+ "unesco_id": "269",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 711,
+ "popularity_score": 5342,
+ "country": "CH",
+ "country_zh": "瑞士",
+ "country_en": "Switzerland",
+ "countries": [
+  {
+   "iso2": "CH",
+   "zh": "瑞士",
+   "en": "Switzerland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "CH-GR",
+ "subdivision_zh": "格劳宾登州",
+ "subdivision_en": "Canton of the Grisons",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "米兹泰尔的木笃会圣约翰女修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Benedictine Convent of St John at Müstair",
+ "name_local": "Benediktinerinnenkloster St. Johann",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "269-benedictine_convent_of_st_john_at_müstai",
+ "lat": 46.629166666,
+ "lon": 10.447777777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "米兹泰尔的木笃会圣约翰女修道院位于格里森州的一个山谷中，是卡洛林王朝时期极具基督教革新运动特征的修道院的典范。修道院内保存有具像壁画，于公元800年绘制完成，并保存有罗马时期的水彩绘画，堪称瑞士最伟大的艺术杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Convent of Müstair, which stands in a valley in the Grisons, is a good example of Christian monastic renovation during the Carolingian period. It has Switzerland's greatest series of figurative murals, painted c. A.D. 800, along with Romanesque frescoes and stuccoes.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Das Benediktinerinnenkloster St. Johannes Baptist (rätoromanisch Claustra Son Jon) in Müstair im Münstertal (Val Müstair) im Schweizer Kanton Graubünden ist ein sehr gut erhaltenes mittelalterliches Kloster der Karolingerzeit. Das Kloster wurde von der UNESCO 1983 in die Liste des Weltkulturerbes aufgenommen. Es ist Mitglied der Schweizerischen Benediktinerinnenföderation.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benediktinerkloster%20St.%20Johann.JPG?width=1280",
+   "title": "Benediktinerkloster St. Johann.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Benediktinerkloster%20St.%20Johann.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_269.jpg",
+   "title": "Benedictine Convent of St John at Müstair",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/269",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/269",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bolzano Airport",
+    "iata": "BZO",
+    "city": "Bolzano (BZ)",
+    "country": "IT",
+    "lat": 46.459245,
+    "lon": 11.326125,
+    "type": "medium_airport",
+    "distance_km": 69.8
+   },
+   {
+    "name": "Innsbruck Airport",
+    "iata": "INN",
+    "city": "Innsbruck",
+    "country": "AT",
+    "lat": 47.260201,
+    "lon": 11.344,
+    "type": "large_airport",
+    "distance_km": 97.7
+   },
+   {
+    "name": "Sankt Gallen Altenrhein Airport",
+    "iata": "ACH",
+    "city": "St. Gallen",
+    "country": "CH",
+    "lat": 47.485001,
+    "lon": 9.56077,
+    "type": "medium_airport",
+    "distance_km": 116.5
+   }
+  ],
+  "nearest_airport_km": 69.8,
+  "distance_beijing_km": 7878.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CH",
+  "country_zh": "瑞士",
+  "country_en": "Switzerland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CH",
+   "country_zh": "瑞士",
+   "country_en": "Switzerland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/269"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Saint%20John%20Abbey%2C%20M%C3%BCstair"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

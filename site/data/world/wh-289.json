@@ -1,0 +1,162 @@
+{
+ "id": "wh-289",
+ "unesco_id": "289",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 724,
+ "popularity_score": 5099,
+ "country": "MW",
+ "country_zh": "马拉维",
+ "country_en": "Malawi",
+ "countries": [
+  {
+   "iso2": "MW",
+   "zh": "马拉维",
+   "en": "Malawi"
+  }
+ ],
+ "region": "Central and Southern Regions",
+ "subdivision_iso": "MW-MG",
+ "subdivision_zh": "",
+ "subdivision_en": "Mangochi",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "马拉维湖国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Lake Malawi National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "289-lake_malawi_national_park",
+ "lat": -14.033333333,
+ "lon": 34.883333333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马拉维湖国家公园位于宽阔的马拉维湖最南端，湖水清澈深邃，背后群山相伴。马拉维湖国家公园保护着上百种当地的特有鱼类，其对于进化研究的重要性可与厄瓜多尔西部的加拉帕哥斯群岛上的雀类相提并论。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located at the southern end of the great expanse of Lake Malawi, with its deep, clear waters and mountain backdrop, the national park is home to many hundreds of fish species, nearly all endemic. Its importance for the study of evolution is comparable to that of the finches of the Galapagos Islands.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Malawi%20%282489696873%29.jpg?width=1280",
+   "title": "Lake Malawi (2489696873).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Lake%20Malawi%20%282489696873%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_289.jpg",
+   "title": "Lake Malawi National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/289",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/289",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lichinga Airport",
+    "iata": "VXC",
+    "city": "Lichinga",
+    "country": "MZ",
+    "lat": -13.274,
+    "lon": 35.2663,
+    "type": "medium_airport",
+    "distance_km": 94.0
+   },
+   {
+    "name": "Kamuzu International Airport",
+    "iata": "LLW",
+    "city": "Lumbadzi",
+    "country": "MW",
+    "lat": -13.7894,
+    "lon": 33.780998,
+    "type": "large_airport",
+    "distance_km": 122.0
+   },
+   {
+    "name": "Chileka International Airport",
+    "iata": "BLZ",
+    "city": "Blantyre",
+    "country": "MW",
+    "lat": -15.677189,
+    "lon": 34.972319,
+    "type": "large_airport",
+    "distance_km": 183.0
+   }
+  ],
+  "nearest_airport_km": 94.0,
+  "distance_beijing_km": 10233.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MW",
+  "country_zh": "马拉维",
+  "country_en": "Malawi",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6][83]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MW",
+   "country_zh": "马拉维",
+   "country_en": "Malawi",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6][83]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/289"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lake%20Malawi%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

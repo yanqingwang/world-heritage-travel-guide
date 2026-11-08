@@ -1,0 +1,186 @@
+{
+ "id": "wh-24",
+ "unesco_id": "24",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 73,
+ "popularity_score": 185600,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "Northwest Territories",
+ "subdivision_iso": "CA-NT",
+ "subdivision_zh": "西北地区",
+ "subdivision_en": "Northwest Territories",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "纳汉尼国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Nahanni National Park",
+ "name_local": "Parc national Nahanni",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "24-nahanni_national_park",
+ "lat": 61.5971,
+ "lon": -125.852,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1978",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "纳汉尼河是北美洲最壮观的河流之一，纳汉尼国家公园就坐落在南纳汉尼河流域。公园里峡谷幽深，有大瀑布和独特的石灰岩洞穴，是北部山区森林的狼、灰熊和北美驯鹿等动物的栖息地。公园的山区还有大角羊和山羊出没。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located along the South Nahanni River, one of the most spectacular wild rivers in North America, this park contains deep canyons and huge waterfalls, as well as a unique limestone cave system. The park is also home to animals of the boreal forest, such as wolves, grizzly bears and caribou. Dall's sheep and mountain goats are found in the park's alpine environment.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé le long de la Nahanni Sud, l'un des cours d'eau les plus spectaculaires d'Amérique du Nord, ce parc comporte de profonds canyons, de grandes cascades, ainsi qu'un ensemble unique de grottes karstiques. Le parc abrite, de plus, maintes espèces animales caractéristiques des forêts boréales comme le loup, le grizzli et le caribou. On trouve également le mouflon de Dall et la chèvre de montagne dans l'environnement alpin du parc.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nahanni%20-%20VirginiaFalls.jpg?width=1280",
+   "title": "Nahanni - VirginiaFalls.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Nahanni%20-%20VirginiaFalls.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%22standing_water%22_%289103242552%29.jpg/1280px-%22standing_water%22_%289103242552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"standing water\" (9103242552).jpg",
+   "author": "Fort Simpson Chamber of Commerce",
+   "license": "CC BY 2.0",
+   "credit": "\"standing water\"",
+   "source": "https://commons.wikimedia.org/wiki/File:%22standing_water%22_%289103242552%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/A_little_creek_pouring_into_the_Nahanni_River_%289101223021%29.jpg/1280px-A_little_creek_pouring_into_the_Nahanni_River_%289101223021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A little creek pouring into the Nahanni River (9101223021).jpg",
+   "author": "Fort Simpson Chamber of Commerce",
+   "license": "CC BY 2.0",
+   "credit": "a little creek pouring into the Nahanni River",
+   "source": "https://commons.wikimedia.org/wiki/File:A_little_creek_pouring_into_the_Nahanni_River_%289101223021%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Base_of_falls_%289103259164%29.jpg/1280px-Base_of_falls_%289103259164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Base of falls (9103259164).jpg",
+   "author": "Fort Simpson Chamber of Commerce",
+   "license": "CC BY 2.0",
+   "credit": "base of falls",
+   "source": "https://commons.wikimedia.org/wiki/File:Base_of_falls_%289103259164%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Camping_in_Nahanni_National_Park_Reserve_%289103305810%29.jpg/1280px-Camping_in_Nahanni_National_Park_Reserve_%289103305810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Camping in Nahanni National Park Reserve (9103305810).jpg",
+   "author": "Fort Simpson Chamber of Commerce",
+   "license": "CC BY 2.0",
+   "credit": "DSC00242",
+   "source": "https://commons.wikimedia.org/wiki/File:Camping_in_Nahanni_National_Park_Reserve_%289103305810%29.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/24",
+ "transport": {
+  "airports": [
+   {
+    "name": "Watson Lake Airport",
+    "iata": "YQH",
+    "city": "Watson Lake",
+    "country": "CA",
+    "lat": 60.116839,
+    "lon": -128.821993,
+    "type": "medium_airport",
+    "distance_km": 230.1
+   },
+   {
+    "name": "Fort Simpson Airport",
+    "iata": "YFS",
+    "city": "Fort Simpson",
+    "country": "CA",
+    "lat": 61.76020050048828,
+    "lon": -121.23699951171875,
+    "type": "medium_airport",
+    "distance_km": 244.1
+   },
+   {
+    "name": "Fort Nelson Airport",
+    "iata": "YYE",
+    "city": "Fort Nelson",
+    "country": "CA",
+    "lat": 58.8363990784,
+    "lon": -122.597000122,
+    "type": "medium_airport",
+    "distance_km": 355.6
+   }
+  ],
+  "nearest_airport_km": 230.1,
+  "distance_beijing_km": 7388.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/24"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nahanni%20National%20Park%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

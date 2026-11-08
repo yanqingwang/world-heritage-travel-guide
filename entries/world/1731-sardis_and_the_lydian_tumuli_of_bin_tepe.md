@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)"
 lat: 38.481944444
 lon: 28.045277777
-updated_at: "2026-11-08T12:19:05Z"
+updated_at: "2026-11-08T14:52:53Z"
 ---
 
 # 萨第斯及宾特佩的吕底亚陵墓群 / Sardis and the Lydian Tumuli of Bin Tepe

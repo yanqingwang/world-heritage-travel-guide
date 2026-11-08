@@ -1,0 +1,224 @@
+{
+ "id": "cn-521",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广东省",
+ "province_en": "Guangdong",
+ "province_iso": "CN-GD",
+ "city_zh": "中山市",
+ "city_en": "Zhongshan City",
+ "name_zh": "中山市孙中山故里旅游区",
+ "name_en": "Zhongshan",
+ "name_en_source": "wikipedia",
+ "slug": "zhongshanshisunzhongshanguli-521",
+ "lat": 22.452651,
+ "lon": 113.536789,
+ "address_zh": "广东省中山市翠亨村",
+ "address_en": "Cuiheng Village, Zhongshan City, Guangdong Province",
+ "address_en_source": "machine_translation",
+ "category": "red",
+ "category_zh": "红色旅游",
+ "category_en": "Red tourism",
+ "intro_zh": "景区占地面积约500平方米，涵括孙中山故居纪念馆、翠亨村、中山城、辛亥革命纪念公园和犁头尖山五个核心景区景点，全方位呈现了孙中山从出生成长到进行革命活动的相关历史遗迹。",
+ "intro_en": "Zhongshan (Chinese: 中山 [ʈʂʊ́ŋ ʂán]), alternately romanized via Cantonese as Chungshan or Jungsaan, is a prefecture-level city in the south of the Pearl River Delta in Guangdong province, China. As of the 2020 census, the whole city with 4,418,060 inhabitants is now part of the Guangzhou–Shenzhen conurbation with 65,565,622 inhabitants. The city-core subdistricts used to be called Shiqi or Shekki (Chinese: 石岐). Zhongshan is one of the few Chinese cities to be named after a person. It was originally named Xiangshan (香山, \"Fragrant Mountain\"; Cantonese: Heung-saan), but was renamed in 1925 in honor of Sun Yat-sen, who is known in China as \"Sun Zhongshan\". Sun, a local of the area, was the founding father of the Republic of China who is also regarded positively by the People's Republic.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Zhongshan_montage.jpg/1280px-Zhongshan_montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zhongshan montage.jpg",
+   "author": "ASDFGHJ ( talk )",
+   "license": "CC BY-SA 3.0",
+   "credit": "All CC/PD sources: File:孙中山故居.png , File:Shiqi River -02.jpg , File:Dong District, Zhongshan -11.jpg , File:Sunwen West Road -07.jpg , File:Zhongshan Chadong Ch",
+   "source": "https://commons.wikimedia.org/wiki/File:Zhongshan_montage.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A_Laundromat_in_Zhongshan_District%2C_Taipei.jpg/1280px-A_Laundromat_in_Zhongshan_District%2C_Taipei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A Laundromat in Zhongshan District, Taipei.jpg",
+   "author": "Liang SK",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/shangkuanlc/8085342041",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Laundromat_in_Zhongshan_District%2C_Taipei.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/River_in_downtown_Zhongshan.jpg/1280px-River_in_downtown_Zhongshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "River in downtown Zhongshan.jpg",
+   "author": "Mx. Granger",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:River_in_downtown_Zhongshan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/View_from_a_Street_in_Zhongshan_District%2C_Taipei.jpg/1280px-View_from_a_Street_in_Zhongshan_District%2C_Taipei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "View from a Street in Zhongshan District, Taipei.jpg",
+   "author": "Tbatb",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:View_from_a_Street_in_Zhongshan_District%2C_Taipei.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VoyageBanner_of_Zhongshan_District.jpg/1280px-VoyageBanner_of_Zhongshan_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "VoyageBanner of Zhongshan District.jpg",
+   "author": "Taiwankengo",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:VoyageBanner_of_Zhongshan_District.jpg"
+  }
+ ],
+ "web": "http://www.sunzhongshanguli.com/",
+ "booking": "http://www.sunzhongshanguli.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Macau International Airport",
+    "iata": "MFM",
+    "city": "Nossa Senhora do Carmo",
+    "country": "MO",
+    "lat": 22.149599,
+    "lon": 113.592003,
+    "type": "large_airport",
+    "distance_km": 34.2
+   },
+   {
+    "name": "Shenzhen Bao'an International Airport",
+    "iata": "SZX",
+    "city": "Shenzhen",
+    "country": "CN",
+    "lat": 22.639474,
+    "lon": 113.803262,
+    "type": "large_airport",
+    "distance_km": 34.4
+   },
+   {
+    "name": "Hong Kong International Airport",
+    "iata": "HKG",
+    "city": "Hong Kong",
+    "country": "HK",
+    "lat": 22.31184,
+    "lon": 113.914862,
+    "type": "large_airport",
+    "distance_km": 41.9
+   }
+  ],
+  "nearest_airport_km": 34.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "翠亨",
+    "name_en": "Cuiheng",
+    "lat": 22.4419789,
+    "lon": 113.5409425,
+    "distance_km": 1.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南朗",
+    "name_en": "Nanlang",
+    "lat": 22.4891049,
+    "lon": 113.5282463,
+    "distance_km": 4.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "珠海北",
+    "name_en": "Zhuhaibei",
+    "lat": 22.4037481,
+    "lon": 113.5468823,
+    "distance_km": 5.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "澳門十六浦索菲特酒店 Hotel Sofitel Macau De Ponte 16",
+   "name_en": "Sofitel Macau At Ponte 16",
+   "stars": 5,
+   "brand": null,
+   "lat": 22.1976264,
+   "lon": 113.536057,
+   "distance_km": 28.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "澳門雅辰酒店 ARTYZEN Grand Lapa Macau",
+   "name_en": "ARTYZEN Grand Lapa Macau",
+   "stars": 5,
+   "brand": null,
+   "lat": 22.1924942,
+   "lon": 113.5532647,
+   "distance_km": 29.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "星際酒店 Starworld Hotel",
+   "name_en": "Starworld Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 22.1897422,
+   "lon": 113.5480516,
+   "distance_km": 29.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "永利 Wynn",
+   "name_en": "Wynn",
+   "stars": 5,
+   "brand": null,
+   "lat": 22.1882912,
+   "lon": 113.5459435,
+   "distance_km": 29.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "澳門凱旋門酒店 Hotel L'arc Macau",
+   "name_en": "L'Arc Hotel Macau",
+   "stars": 5,
+   "brand": null,
+   "lat": 22.1885843,
+   "lon": 113.5486689,
+   "distance_km": 29.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 139,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/中山市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

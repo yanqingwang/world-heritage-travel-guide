@@ -1,0 +1,162 @@
+{
+ "id": "wh-232",
+ "unesco_id": "232",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 179,
+ "popularity_score": 75375,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "Delhi",
+ "subdivision_iso": "IN-DL",
+ "subdivision_zh": "",
+ "subdivision_en": "Delhi",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "德里的胡马雍陵",
+ "name_zh_source": "unesco_official",
+ "name_en": "Humayun's Tomb, Delhi",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "232-humayun's_tomb,_delhi",
+ "lat": 28.593264,
+ "lon": 77.250602,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "建于1570年的胡马雍陵，是印度次大陆的第一座花园陵墓，因而有着特殊的文化意义。它引起了建筑领域内几项重要的创新，而这种创新在泰姬陵的建筑中达到了顶峰。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This tomb, built in 1570, is of particular cultural significance as it was the first garden-tomb on the Indian subcontinent. It inspired several major architectural innovations, culminating in the construction of the Taj Mahal.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Humayun%20Tomb%20UNESCO%20world%20heritage%20site.jpg?width=1280",
+   "title": "Humayun Tomb UNESCO world heritage site.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Humayun%20Tomb%20UNESCO%20world%20heritage%20site.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_232.jpg",
+   "title": "Humayun's Tomb, Delhi",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/232",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/232",
+ "transport": {
+  "airports": [
+   {
+    "name": "Indira Gandhi International Airport",
+    "iata": "DEL",
+    "city": "New Delhi",
+    "country": "IN",
+    "lat": 28.55563,
+    "lon": 77.09519,
+    "type": "large_airport",
+    "distance_km": 15.7
+   },
+   {
+    "name": "Hindon Airport / Hindon Air Force Station",
+    "iata": "HDO",
+    "city": "Ghaziabad",
+    "country": "IN",
+    "lat": 28.707701,
+    "lon": 77.358902,
+    "type": "small_airport",
+    "distance_km": 16.5
+   },
+   {
+    "name": "Noida International Airport",
+    "iata": "DXN",
+    "city": "Gautam Buddha Nagar",
+    "country": "IN",
+    "lat": 28.179868,
+    "lon": 77.611843,
+    "type": "large_airport",
+    "distance_km": 58.0
+   }
+  ],
+  "nearest_airport_km": 15.7,
+  "distance_beijing_km": 3810.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 70
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/232"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Humayun%27s%20tomb"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

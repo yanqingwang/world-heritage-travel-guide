@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)(iv)"
 lat: 48.3655
 lon: 10.902
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:49Z"
 ---
 
 # 奥格斯堡水利管理系统 / Water Management System of Augsburg

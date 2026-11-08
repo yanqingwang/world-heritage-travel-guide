@@ -1,0 +1,154 @@
+{
+ "id": "wh-1739",
+ "unesco_id": "1739",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 272,
+ "popularity_score": 34476,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IN-MH",
+ "subdivision_zh": "马哈拉施特拉邦",
+ "subdivision_en": "Maharashtra",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "印度马拉塔军事景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Maratha Military Landscapes of India",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "1739-maratha_military_landscapes_of_india",
+ "lat": 20.7225,
+ "lon": 73.9425,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产包括12座重要防御工事，其中多数位于马哈拉施特拉邦，只有1处位于泰米尔纳德邦。赖加德（Raigad）、希夫内里（Shivneri）、辛杜杜尔格（Sindhudurg）等堡垒由马拉塔人（Maratha）自17世纪末至19世纪初建造、改造或扩建。它们分布于海岸与山地等战略要冲，构成复杂的防御体系，支持马拉塔人的军事扩张、贸易保护与领土控制。该网络在马拉塔政权作为政治和军事强国崛起的历程中发挥了关键作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property includes twelve major fortifications, mostly in Maharashtra State, with one in Tamil Nadu. These forts, such as Raigad, Shivneri, and Sindhudurg, were built, adapted, or expanded by the Marathas between the late 17th and early 19th centuries. Strategically located on coastal and mountainous terrain, they formed a complex defence system supporting Maratha military dominance, trade protection, and territorial control. This network played a key role in the Marathas’ rise as a major political and military force.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1739.jpg",
+   "title": "Maratha Military Landscapes of India",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1739",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1739",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nashik International Airport",
+    "iata": "ISK",
+    "city": "Nashik",
+    "country": "IN",
+    "lat": 20.119101,
+    "lon": 73.912903,
+    "type": "large_airport",
+    "distance_km": 67.2
+   },
+   {
+    "name": "Shirdi International Airport",
+    "iata": "SAG",
+    "city": "Kakadi",
+    "country": "IN",
+    "lat": 19.689211,
+    "lon": 74.373655,
+    "type": "large_airport",
+    "distance_km": 123.4
+   },
+   {
+    "name": "Surat International Airport",
+    "iata": "STV",
+    "city": "Surat",
+    "country": "IN",
+    "lat": 21.115531,
+    "lon": 72.743251,
+    "type": "large_airport",
+    "distance_km": 132.0
+   }
+  ],
+  "nearest_airport_km": 67.2,
+  "distance_beijing_km": 4607.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1739"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maratha%20Military%20Landscapes%20of%20India"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

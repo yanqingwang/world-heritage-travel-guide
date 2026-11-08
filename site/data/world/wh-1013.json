@@ -1,0 +1,162 @@
+{
+ "id": "wh-1013",
+ "unesco_id": "1013",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 332,
+ "popularity_score": 26342,
+ "country": "MY",
+ "country_zh": "马来西亚",
+ "country_en": "Malaysia",
+ "countries": [
+  {
+   "iso2": "MY",
+   "zh": "马来西亚",
+   "en": "Malaysia"
+  }
+ ],
+ "region": "northern Sarawak, island of Borneo",
+ "subdivision_iso": "MY-13",
+ "subdivision_zh": "砂拉越",
+ "subdivision_en": "Sarawak",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "穆鲁山国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gunung Mulu National Park",
+ "name_local": "Taman Negara Mulu",
+ "local_lang": "ms",
+ "local_lang_name": "Malay",
+ "slug": "1013-gunung_mulu_national_park",
+ "lat": 4.0425,
+ "lon": 114.8125,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "穆鲁山国家公园，位于沙捞越州的巴婆罗岛，因其生物多样性和喀斯特地貌而闻名，世界上大多数研究喀斯特地貌的研究都在此进行。这座52 864公顷的公园包含17 个植物园，有维管植物3500多种。公园的棕榈树种类异常丰富，已知的就有20属，109种。公园位于2377米高的穆鲁山山麓，已开发的山洞至少达295公里，洞中景观壮丽，并栖息着上百万只蝙蝠。沙捞越洞穴，长600米，宽415米，高80米，是已知世界上最大的洞穴。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Important both for its high biodiversity and for its karst features, Gunung Mulu National Park, on the island of Borneo in the State of Sarawak, is the most studied tropical karst area in the world. The 52,864-ha park contains seventeen vegetation zones, exhibiting some 3,500 species of vascular plants. Its palm species are exceptionally rich, with 109 species in twenty genera noted. The park is dominated by Gunung Mulu, a 2,377 m-high sandstone pinnacle. At least 295 km of explored caves provide a spectacular sight and are home to millions of cave swiftlets and bats. The Sarawak Chamber, 600 m by 415 m and 80 m high, is the largest known cave chamber in the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Taman Negara Gunung Mulu, atau Taman Negara Mulu yang terletak di sebelah utara negeri Sarawak, merupakan salah satu daripada destinasi pelancongan yang terkenal di Malaysia, khasnya di Sarawak. Ia merupakan salah satu kawasan batu kapur yang paling diselidik di dunia. Kawasan taman seluas 52,864-hektar mengandungi tujuh belas zon tumbuhan, menampilkan sekitar 3,500 spesies tumbuhan vaskular. Spesies palm di situ amat kaya dengan 109 spesies dari dua puluh genus telah dijumpai. Taman Negara ini dihiasi oleh Gunung Mulu yang merupakan gunung batu pasir setinggi 2,377 meter. Sekitar 295 km gua yang telah diterokai memberikan pemandangan yang menakjubkan dan turut merupakan gua kediaman kepada berjuta kelawar dan burung Layang-layang. Kamar Sarawak yang seluas 600 meter X 415 m dan setinggi 80 m, ialah kamar gua terbesar di seluruh dunia yang diketahui. Taman Negara Mulu turut memiliki bentuk geografi yang unik, yang terdiri daripada gua batu kapur, lingkaran air batu yang jernih serta dilitupi oleh hutan dara tropika, Taman Negara Mulu merupakan tempat yang bukan hanya sesuai untuk orang-orang yang inginkan ketenangan jauh dari hiruk pikuk kota metropolitan bahkan juga amat sesuai bagi mereka yang menginginkan kegiatan yang lasak. Taman Negara Mulu boleh dituju melalui pesawat dari Miri dan terus ke Taman Negara Mulu atau bagi mereka yang ingin merasakan kelainan dengan menggunak",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulu.JPG?width=1280",
+   "title": "Mulu.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mulu.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1013.jpg",
+   "title": "Gunung Mulu National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1013",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1013",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mulu Airport",
+    "iata": "MZV",
+    "city": "Mulu",
+    "country": "MY",
+    "lat": 4.048329830169678,
+    "lon": 114.80500030517578,
+    "type": "medium_airport",
+    "distance_km": 1.1
+   },
+   {
+    "name": "Long Seridan Airport",
+    "iata": "ODN",
+    "city": "Long Seridan",
+    "country": "MY",
+    "lat": 3.976087,
+    "lon": 115.067303,
+    "type": "small_airport",
+    "distance_km": 29.2
+   },
+   {
+    "name": "Marudi Airport",
+    "iata": "MUR",
+    "city": "Marudi",
+    "country": "MY",
+    "lat": 4.178734,
+    "lon": 114.330318,
+    "type": "medium_airport",
+    "distance_km": 55.6
+   }
+  ],
+  "nearest_airport_km": 1.1,
+  "distance_beijing_km": 4010.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MY",
+  "country_zh": "马来西亚",
+  "country_en": "Malaysia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][84]",
+  "notes": "90 days within any 180-day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MY",
+   "country_zh": "马来西亚",
+   "country_en": "Malaysia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][84]",
+   "notes": "90 days within any 180-day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ms",
+  "local_lang_name": "Malay",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1013"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gunung%20Mulu%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-860",
+ "unesco_id": "860",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1181,
+ "popularity_score": null,
+ "country": "CZ",
+ "country_zh": "捷克",
+ "country_en": "Czech Republic",
+ "countries": [
+  {
+   "iso2": "CZ",
+   "zh": "捷克",
+   "en": "Czech Republic"
+  }
+ ],
+ "region": "City and District of Kroměříž, Zlin Region",
+ "subdivision_iso": "CZ-721",
+ "subdivision_zh": "克羅梅日什縣",
+ "subdivision_en": "Kroměříž District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "克罗麦里兹花园和城堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gardens and Castle at Kroměříž",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "860-gardens_and_castle_at_kroměříž",
+ "lat": 49.2971717,
+ "lon": 17.3814272,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "克罗麦里兹坐落在横贯摩拉瓦河(the River Morava)的一处浅滩上，位于占据了摩拉维亚中心位置的赫日比山(Chriby mountain)山脚下。克罗麦里兹的花园和城堡是一处保存完好的欧洲巴洛克式的王族宅邸及花园的稀世典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Kroměříž stands on the site of an earlier ford across the River Morava, at the foot of the Chriby mountain range which dominates the central part of Moravia. The gardens and castle of Kroměříž are an exceptionally complete and well-preserved example of a European Baroque princely residence and its gardens.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Krom%C4%9B%C5%99%C3%AD%C5%BE%20Libosad%202.jpg?width=1280",
+   "title": "Kroměříž Libosad 2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Krom%C4%9B%C5%99%C3%AD%C5%BE%20Libosad%202.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_860.jpg",
+   "title": "Gardens and Castle at Kroměříž",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/860",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/860",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 52.5
+   },
+   {
+    "name": "Leoš Janáček Airport Ostrava",
+    "iata": "OSR",
+    "city": "Mošnov",
+    "country": "CZ",
+    "lat": 49.696301,
+    "lon": 18.111099,
+    "type": "large_airport",
+    "distance_km": 68.9
+   },
+   {
+    "name": "M. R. Štefánik Airport",
+    "iata": "BTS",
+    "city": "Bratislava",
+    "country": "SK",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "distance_km": 125.9
+   }
+  ],
+  "nearest_airport_km": 52.5,
+  "distance_beijing_km": 7378.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CZ",
+  "country_zh": "捷克",
+  "country_en": "Czech Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CZ",
+   "country_zh": "捷克",
+   "country_en": "Czech Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/860"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

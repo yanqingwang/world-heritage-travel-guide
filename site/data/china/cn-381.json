@@ -1,0 +1,127 @@
+{
+ "id": "cn-381",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "海南省",
+ "province_en": "Hainan",
+ "province_iso": "CN-HI",
+ "city_zh": "保亭黎族苗族自治县",
+ "city_en": "Baotinglizumiaozuzizhi County",
+ "name_zh": "保亭县海南槟榔谷黎苗文化旅游区",
+ "name_en": "Baotingxianhainanbinglanggulimiao Cultural Tourism Area",
+ "name_en_source": "pinyin",
+ "slug": "baotingxianhainanbinglanggulimiao-381",
+ "lat": 18.882055,
+ "lon": 109.67537,
+ "address_zh": "海南省保亭黎族苗族自治县三道镇甘什岭",
+ "address_en": "Ganshiling, Sandao Town, Baoting Li and Miao Autonomous County, Hainan Province",
+ "address_en_source": "machine_translation",
+ "category": "folk",
+ "category_zh": "民俗文化",
+ "category_en": "Folk culture",
+ "intro_zh": "景区由非遗村、甘什黎村、谷银苗家、田野黎家、《槟榔·古韵》大型实景演出、兰花小木屋、黎苗风味美食街七大文化体验区构成，风景秀丽，是海南黎、苗族传统“三月三”及“七夕嬉水节”的主要活动举办地之一。",
+ "intro_en": "The scenic spot consists of seven cultural experience areas including the Intangible Cultural Heritage Village, Ganshili Village, Guyin Miao Family, Tianyi Li Family, the large-scale live performance of \"Betel Nut·Ancient Rhythm\", the Orchid Cabin, and the Limiao and Miao flavor food street. It has beautiful scenery and is one of the main venues for the traditional \"March 3rd\" and \"Qixi Festival\" activities of the Hainan Li and Miao people.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "http://www.binglanggu.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sanya Phoenix International Airport",
+    "iata": "SYX",
+    "city": "Sanya (Tianya)",
+    "country": "CN",
+    "lat": 18.3029,
+    "lon": 109.412003,
+    "type": "large_airport",
+    "distance_km": 70.1
+   },
+   {
+    "name": "Qionghai Bo'ao Airport",
+    "iata": "BAR",
+    "city": "Qionghai (Basuo)",
+    "country": "CN",
+    "lat": 19.140951,
+    "lon": 110.452766,
+    "type": "medium_airport",
+    "distance_km": 86.6
+   },
+   {
+    "name": "Haikou Meilan International Airport",
+    "iata": "HAK",
+    "city": "Haikou (Meilan)",
+    "country": "CN",
+    "lat": 19.9349,
+    "lon": 110.459,
+    "type": "large_airport",
+    "distance_km": 143.0
+   }
+  ],
+  "nearest_airport_km": 70.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "陵水",
+    "name_en": "Lingshui Railway Station",
+    "lat": 18.5379736,
+    "lon": 110.0288117,
+    "distance_km": 53.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "海南七仙岭希尔顿逸林温泉度假酒店",
+   "name_en": "DoubleTree Resort by Hilton Hotel Hainan - Qixianling Hot Spring",
+   "stars": null,
+   "brand": null,
+   "lat": 18.7072643,
+   "lon": 109.6736162,
+   "distance_km": 19.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "云虎迎宾超",
+   "name_en": "Yun Hu Ying Bin Chao",
+   "stars": null,
+   "brand": null,
+   "lat": 18.9842115,
+   "lon": 109.8569223,
+   "distance_km": 22.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-576",
+ "unesco_id": "576",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 213,
+ "popularity_score": 54427,
+ "country": "TH",
+ "country_zh": "泰国",
+ "country_en": "Thailand",
+ "countries": [
+  {
+   "iso2": "TH",
+   "zh": "泰国",
+   "en": "Thailand"
+  }
+ ],
+ "region": "Ayutthaya Province",
+ "subdivision_iso": "TH-14",
+ "subdivision_zh": "大城府",
+ "subdivision_en": "Phra Nakhon Si Ayutthaya",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿育他亚(大城)历史城及相关城镇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic City of Ayutthaya",
+ "name_local": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
+ "local_lang": "th",
+ "local_lang_name": "Thai",
+ "slug": "576-historic_city_of_ayutthaya",
+ "lat": 14.351626,
+ "lon": 100.5575086,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿育他亚(大城)是继素可泰(Sukhothai)之后的第二任暹罗首府，大约建于1350年，18世纪被缅甸人摧毁。它的遗迹圣骨塔和大清真寺至今还依稀显露出其昔日的辉煌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded c. 1350, Ayutthaya became the second Siamese capital after Sukhothai. It was destroyed by the Burmese in the 18th century. Its remains, characterized by the prang (reliquary towers) and gigantic monasteries, give an idea of its past splendour.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา เป็นอุทยานประวัติศาสตร์แห่งหนึ่งของประเทศไทยภายใต้การดูแลของกรมศิลปากร กระทรวงวัฒนธรรม ตั้งอยู่ภายในเกาะเมืองอยุธยา อำเภอพระนครศรีอยุธยา จังหวัดพระนครศรีอยุธยา มีพื้นที่ 4,810 ไร่ อยู่ห่างจากกรุงเทพมหานคร ไปทางทิศเหนือ ตามถนนสายเอเซีย ระยะทางประมาณ 75 กิโลเมตร ได้รับการพิจารณาเป็นแหล่งมรดกโลกเมื่อวันที่ 13 ธันวาคม พ.ศ. 2534 ในนาม นครประวัติศาสตร์พระนครศรีอยุธยา",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ayuthistparkmap.png?width=1280",
+   "title": "Ayuthistparkmap.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ayuthistparkmap.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_576.jpg",
+   "title": "Historic City of Ayutthaya",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/576",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/576",
+ "transport": {
+  "airports": [
+   {
+    "name": "Don Mueang International Airport",
+    "iata": "DMK",
+    "city": "Bangkok",
+    "country": "TH",
+    "lat": 13.9126,
+    "lon": 100.607002,
+    "type": "large_airport",
+    "distance_km": 49.1
+   },
+   {
+    "name": "Suvarnabhumi Airport",
+    "iata": "BKK",
+    "city": "Bangkok",
+    "country": "TH",
+    "lat": 13.6811,
+    "lon": 100.747002,
+    "type": "large_airport",
+    "distance_km": 77.3
+   },
+   {
+    "name": "U-Tapao–Rayong–Pattaya International Airport",
+    "iata": "UTP",
+    "city": "Rayong",
+    "country": "TH",
+    "lat": 12.6799,
+    "lon": 101.004997,
+    "type": "large_airport",
+    "distance_km": 192.1
+   }
+  ],
+  "nearest_airport_km": 49.1,
+  "distance_beijing_km": 3300.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TH",
+  "country_zh": "泰国",
+  "country_en": "Thailand",
+  "status": "visa_free",
+  "days": 60,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 60 days at a time, no more than 90 days within any 180 days. 60-day visa can be extended while in Thailand."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TH",
+   "country_zh": "泰国",
+   "country_en": "Thailand",
+   "status": "visa_free",
+   "days": 60,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 60 days at a time, no more than 90 days within any 180 days. 60-day visa can be extended while in Thailand."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "th",
+  "local_lang_name": "Thai",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/576"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ayutthaya%20Historical%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

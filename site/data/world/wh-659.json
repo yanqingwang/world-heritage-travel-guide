@@ -1,0 +1,162 @@
+{
+ "id": "wh-659",
+ "unesco_id": "659",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 215,
+ "popularity_score": 53883,
+ "country": "IE",
+ "country_zh": "爱尔兰",
+ "country_en": "Ireland",
+ "countries": [
+  {
+   "iso2": "IE",
+   "zh": "爱尔兰",
+   "en": "Ireland"
+  }
+ ],
+ "region": "County Meath",
+ "subdivision_iso": "IE-MH",
+ "subdivision_zh": "米斯郡",
+ "subdivision_en": "County Meath",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "博恩河河曲考古遗址群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "659-brú_na_bóinne_-_archaeological_ensemble_",
+ "lat": 53.69284,
+ "lon": -6.44932,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "博恩河河曲考古遗址群位于都柏林以北50公里的博因河北畔，包括三个史前遗址，即纽格莱奇(Newgrange) 、诺斯(Knowth)和道斯(Dowth)，这个地区是欧洲史前巨石艺术最大和最重要的集中地。那里的遗迹反映了当时的社会、经济、宗教和丧葬习俗文化的风貌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The three main prehistoric sites of the Brú na Bóinne Complex, Newgrange, Knowth and Dowth, are situated on the north bank of the River Boyne 50 km north of Dublin. This is Europe's largest and most important concentration of prehistoric megalithic art. The monuments there had social, economic, religious and funerary functions.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bru%20na%20Boinne%20-%20Newgrange.jpg?width=1280",
+   "title": "Bru na Boinne - Newgrange.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bru%20na%20Boinne%20-%20Newgrange.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_659.jpg",
+   "title": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/659",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/659",
+ "transport": {
+  "airports": [
+   {
+    "name": "Dublin Airport",
+    "iata": "DUB",
+    "city": "Dublin",
+    "country": "IE",
+    "lat": 53.428713,
+    "lon": -6.262121,
+    "type": "large_airport",
+    "distance_km": 31.9
+   },
+   {
+    "name": "Belfast International Airport",
+    "iata": "BFS",
+    "city": "Belfast",
+    "country": "GB",
+    "lat": 54.6575012207,
+    "lon": -6.2158298492399995,
+    "type": "large_airport",
+    "distance_km": 108.3
+   },
+   {
+    "name": "George Best Belfast City Airport",
+    "iata": "BHD",
+    "city": "Belfast",
+    "country": "GB",
+    "lat": 54.618099,
+    "lon": -5.8725,
+    "type": "medium_airport",
+    "distance_km": 109.5
+   }
+  ],
+  "nearest_airport_km": 31.9,
+  "distance_beijing_km": 8267.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IE",
+  "country_zh": "爱尔兰",
+  "country_en": "Ireland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid C visa or visas endorsed with BIVS issued by the United Kingdom until October 2021.[63] Entry is permitted only if a first point of entry to the Common Travel Area was in the UK.[64]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IE",
+   "country_zh": "爱尔兰",
+   "country_en": "Ireland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid C visa or visas endorsed with BIVS issued by the United Kingdom until October 2021.[63] Entry is permitted only if a first point of entry to the Common Travel Area was in the UK.[64]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/659"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Br%C3%BA%20na%20B%C3%B3inne"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

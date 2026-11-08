@@ -1,0 +1,162 @@
+{
+ "id": "wh-1371",
+ "unesco_id": "1371",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 947,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ES-IB",
+ "subdivision_zh": "",
+ "subdivision_en": "Balearic Islands",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "特拉蒙塔那山区文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cultural Landscape of the Serra de Tramuntana",
+ "name_local": "El Paisaje Cultural de la Serra de Tramuntana",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1371-cultural_landscape_of_the_serra_de_tramu",
+ "lat": 39.73083,
+ "lon": 2.69472,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "岛西北海岸线平行伸展的一座单面为悬崖峭壁的山脉之中。数千年在一个资源稀缺的环境中发展起来的农业改变了土地的面貌，并围绕着源自封建时代的农业单位建立起了一个相互连通的水管理设备网络。这一景观的特征由此可以概括为其所拥有的农业梯田、相互连通的包括水车在内的水利设施，以及干石建筑与农场。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Cultural Landscape of the Serra de Tramuntana located on a sheer-sided mountain range parallel to the north-western coast of the island of Mallorca. Millennia of agriculture in an environment with scarce resources has transformed the terrain and displays an articulated network of devices for the management of water revolving around farming units of feudal origins. The landscape is marked by agricultural terraces and inter-connected water works - including water mills - as well as dry stone constructions and farms.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Está situado en las abruptas laderas de una cadena montañosa paralela a la costa noroccidental de la isla de Mallorca. La agricultura milenaria en un ambiente con escasos recursos de agua ha transformado el terreno y muestra una red articulada de mecanismos de gestión del agua entre las distintas parcelas que es de origen feudal. El paisaje está formado por cultivos en terraza y mecanismos de distribución del agua interconectados que incluyen molinos hidráulicos, así como construcciones de piedra sin argamasa y granjas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Runes%20del%20refugi%20de%20l%27Arxiduc.jpg?width=1280",
+   "title": "Runes del refugi de l'Arxiduc.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Runes%20del%20refugi%20de%20l%27Arxiduc.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1371.jpg",
+   "title": "Cultural Landscape of the Serra de Tramuntana",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1371",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1371",
+ "transport": {
+  "airports": [
+   {
+    "name": "Palma de Mallorca Airport",
+    "iata": "PMI",
+    "city": "Palma de Mallorca",
+    "country": "ES",
+    "lat": 39.551701,
+    "lon": 2.73881,
+    "type": "large_airport",
+    "distance_km": 20.3
+   },
+   {
+    "name": "Menorca Airport",
+    "iata": "MAH",
+    "city": "Mahón (Maó)",
+    "country": "ES",
+    "lat": 39.862598,
+    "lon": 4.21865,
+    "type": "large_airport",
+    "distance_km": 131.0
+   },
+   {
+    "name": "Ibiza Airport",
+    "iata": "IBZ",
+    "city": "Ibiza (Eivissa)",
+    "country": "ES",
+    "lat": 38.872898,
+    "lon": 1.37312,
+    "type": "large_airport",
+    "distance_km": 148.4
+   }
+  ],
+  "nearest_airport_km": 20.3,
+  "distance_beijing_km": 8909.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1371"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:45Z"
+}

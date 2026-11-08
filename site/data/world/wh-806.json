@@ -1,0 +1,162 @@
+{
+ "id": "wh-806",
+ "unesco_id": "806",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1168,
+ "popularity_score": null,
+ "country": "AT",
+ "country_zh": "奥地利",
+ "country_en": "Austria",
+ "countries": [
+  {
+   "iso2": "AT",
+   "zh": "奥地利",
+   "en": "Austria"
+  }
+ ],
+ "region": "States of Upper Austria, Styria and Salzburg",
+ "subdivision_iso": "AT-4",
+ "subdivision_zh": "上奥地利州",
+ "subdivision_en": "Upper Austria",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "哈尔施塔特－达特施泰因萨尔茨卡默古特文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+ "name_local": "Kulturlandschaft Hallstatt–Dachstein/Salzkammergut",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "806-hallstatt-dachstein_/_salzkammergut_cult",
+ "lat": 47.5594,
+ "lon": 13.6464,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在萨尔茨卡默古特(Salzkammergut)秀美的自然景观中，从史前时代起就有了人类活动。早在公元前2000年，人类就开始在这里开采盐矿。一直到20世纪中叶，这项资源一直是该地区繁荣昌盛的基础，这里的繁华从哈尔施塔特城(Hallstatt)的精美建筑中可见一斑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Human activity in the magnificent natural landscape of the Salzkammergut began in prehistoric times, with the salt deposits being exploited as early as the 2nd millennium BC. This resource formed the basis of the area’s prosperity up to the middle of the 20th century, a prosperity that is reflected in the fine architecture of the town of Hallstatt.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Kulturlandschaft Hallstatt–Dachstein/Salzkammergut, englisch Hallstatt-Dachstein/Salzkammergut Cultural Landscape, ist eine der aktuell (Stand: 2026) zwölf UNESCO-Welterbestätten in Österreich.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hallstatt%20-%20Zentrum%20.JPG?width=1280",
+   "title": "Hallstatt - Zentrum .JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Hallstatt%20-%20Zentrum%20.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_806.jpg",
+   "title": "Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/806",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/806",
+ "transport": {
+  "airports": [
+   {
+    "name": "Salzburg Airport",
+    "iata": "SZG",
+    "city": "Salzburg",
+    "country": "AT",
+    "lat": 47.793301,
+    "lon": 13.0043,
+    "type": "large_airport",
+    "distance_km": 54.7
+   },
+   {
+    "name": "Linz-Hörsching Airport",
+    "iata": "LNZ",
+    "city": "Linz",
+    "country": "AT",
+    "lat": 48.235362,
+    "lon": 14.188128,
+    "type": "large_airport",
+    "distance_km": 85.3
+   },
+   {
+    "name": "Klagenfurt Airport",
+    "iata": "KLU",
+    "city": "Klagenfurt am Wörthersee",
+    "country": "AT",
+    "lat": 46.642502,
+    "lon": 14.3377,
+    "type": "large_airport",
+    "distance_km": 114.6
+   }
+  ],
+  "nearest_airport_km": 54.7,
+  "distance_beijing_km": 7687.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AT",
+  "country_zh": "奥地利",
+  "country_en": "Austria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AT",
+   "country_zh": "奥地利",
+   "country_en": "Austria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/806"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

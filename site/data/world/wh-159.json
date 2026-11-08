@@ -1,0 +1,162 @@
+{
+ "id": "wh-159",
+ "unesco_id": "159",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 472,
+ "popularity_score": 14762,
+ "country": "PA",
+ "country_zh": "巴拿马",
+ "country_en": "Panama",
+ "countries": [
+  {
+   "iso2": "PA",
+   "zh": "巴拿马",
+   "en": "Panama"
+  }
+ ],
+ "region": "Province of Darien",
+ "subdivision_iso": "PA-5",
+ "subdivision_zh": "达连省",
+ "subdivision_en": "Darién Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "达连国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Darien National Park",
+ "name_local": "Parque Nacional del Darién",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "159-darien_national_park",
+ "lat": 7.73611111,
+ "lon": -77.54722222,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "达连国家公园成为连接新世界两个大洲间的桥梁，这里拥有非常丰富的地理环境，如沙滩、岩石海岸、红树林、沼泽和洼地以及山地热带丛林，其间生长着奇异的野生动植物。公园里还有两个印第安部落。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Forming a bridge between the two continents of the New World, Darien National Park contains an exceptional variety of habitats – sandy beaches, rocky coasts, mangroves, swamps, and lowland and upland tropical forests containing remarkable wildlife. Two Indian tribes live in the park.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Nexo natural entre Sudamérica y Centroamérica, el Parque Nacional del Darién posee una excepcional variedad de hábitats –playas de arena, litorales rocosos, manglares, marismas y bosques tropicales de tierras altas y bajas– que albergan una fauna y flora excepcionales. Dos tribus indias pueblan el territorio del parque.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pteroglossus-torquatus-001.jpg?width=1280",
+   "title": "Pteroglossus-torquatus-001.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pteroglossus-torquatus-001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_159.jpg",
+   "title": "Darien National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/159",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/159",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bahia Piña Airport",
+    "iata": "BFQ",
+    "city": "Puerto Piña",
+    "country": "PA",
+    "lat": 7.58737,
+    "lon": -78.179939,
+    "type": "small_airport",
+    "distance_km": 71.7
+   },
+   {
+    "name": "Antonio Roldán Betancur Airport",
+    "iata": "APO",
+    "city": "Carepa",
+    "country": "CO",
+    "lat": 7.81196,
+    "lon": -76.7164,
+    "type": "medium_airport",
+    "distance_km": 91.9
+   },
+   {
+    "name": "José Celestino Mutis Airport",
+    "iata": "BSC",
+    "city": "Bahía Solano",
+    "country": "CO",
+    "lat": 6.20292,
+    "lon": -77.3947,
+    "type": "medium_airport",
+    "distance_km": 171.3
+   }
+  ],
+  "nearest_airport_km": 71.7,
+  "distance_beijing_km": 14502.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PA",
+  "country_zh": "巴拿马",
+  "country_en": "Panama",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa issued by Australia, Canada, the United States, Schengen (need to be valid for 6 months after entry) or the United Kingdom for up to 30 days. As of 2 May 2019, visas are issued with a 5-year validity period for holiday, business and family visit pur"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PA",
+   "country_zh": "巴拿马",
+   "country_en": "Panama",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa issued by Australia, Canada, the United States, Schengen (need to be valid for 6 months after entry) or the United Kingdom for up to 30 days. As of 2 May 2019, visas are issued with a 5-year validity period for holiday, business and family visit pur"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/159"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dari%C3%A9n%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

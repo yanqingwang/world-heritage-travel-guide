@@ -1,0 +1,162 @@
+{
+ "id": "wh-1713",
+ "unesco_id": "1713",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 762,
+ "popularity_score": 4092,
+ "country": "BF",
+ "country_zh": "布基纳法索",
+ "country_en": "Burkina Faso",
+ "countries": [
+  {
+   "iso2": "BF",
+   "zh": "布基纳法索",
+   "en": "Burkina Faso"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BF-NAO",
+ "subdivision_zh": "纳乌里省",
+ "subdivision_en": "Nahouri Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "铁贝莱王宫",
+ "name_zh_source": "unesco_official",
+ "name_en": "Royal Court of Tiébélé",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1713-royal_court_of_tiébélé",
+ "lat": 11.089722222,
+ "lon": -0.961555555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2024",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "铁贝莱（Tiébélé）王宫是自16世纪以来建造的土制建筑群，体现了卡塞纳（Kasena）人的社会组织体系和文化价值观。王宫四周围绕着保护性院墙，墙壁和走廊既将内部建筑群分隔为不同区域，又通向围墙外的仪式和聚会场所。王宫由宫中男性建造，随后女性成员为其绘制具有象征意义的元素。女人是相关知识的唯一守护者，她们确保着这一传统的延续。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property is an earthen architectural complex established since the 16th century that bears testimony to the social organization and cultural values of the Kasena people. Enclosed by a protective compound wall, the Royal Court consists of a set of buildings arranged in distinct concessions separated by walls and passageways leading to ceremonial and gathering places outside the compound. Built by the men of the Royal Court, the huts are then adorned with decorations of symbolic significance by the women, who are the sole guardians of this knowledge and ensure this tradition is kept alive.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiebele%20village%20in%20Burkina%20Faso%2002.jpg?width=1280",
+   "title": "Tiebele village in Burkina Faso 02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tiebele%20village%20in%20Burkina%20Faso%2002.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1713.jpg",
+   "title": "Royal Court of Tiébélé",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1713",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1713",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ouagadougou Thomas Sankara International Airport",
+    "iata": "OUA",
+    "city": "Ouagadougou",
+    "country": "BF",
+    "lat": 12.3532,
+    "lon": -1.51242,
+    "type": "large_airport",
+    "distance_km": 152.8
+   },
+   {
+    "name": "Yakubu Tali International Airport",
+    "iata": "TML",
+    "city": "Tamale",
+    "country": "GH",
+    "lat": 9.553909,
+    "lon": -0.86606,
+    "type": "large_airport",
+    "distance_km": 171.1
+   },
+   {
+    "name": "Bobo Dioulasso Airport",
+    "iata": "BOY",
+    "city": "Bobo Dioulasso",
+    "country": "BF",
+    "lat": 11.1601,
+    "lon": -4.33097,
+    "type": "large_airport",
+    "distance_km": 367.7
+   }
+  ],
+  "nearest_airport_km": 152.8,
+  "distance_beijing_km": 11383.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BF",
+  "country_zh": "布基纳法索",
+  "country_en": "Burkina Faso",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][33]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BF",
+   "country_zh": "布基纳法索",
+   "country_en": "Burkina Faso",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][33]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 18
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1713"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Royal%20Court%20of%20Ti%C3%A9b%C3%A9l%C3%A9"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

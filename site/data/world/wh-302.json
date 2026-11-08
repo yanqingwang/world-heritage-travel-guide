@@ -1,0 +1,162 @@
+{
+ "id": "wh-302",
+ "unesco_id": "302",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1062,
+ "popularity_score": null,
+ "country": "ZW",
+ "country_zh": "津巴布韦",
+ "country_en": "Zimbabwe",
+ "countries": [
+  {
+   "iso2": "ZW",
+   "zh": "津巴布韦",
+   "en": "Zimbabwe"
+  }
+ ],
+ "region": "Urungwe District, Mashonaland North region",
+ "subdivision_iso": "ZW-MW",
+ "subdivision_zh": "西马绍纳兰省",
+ "subdivision_en": "Mashonaland West Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马纳波尔斯国家公园、萨比和切俄雷自然保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mana Pools National Park, Sapi and Chewore Safari Areas",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "302-mana_pools_national_park,_sapi_and_chewo",
+ "lat": -15.81944444,
+ "lon": 29.40805556,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在赞比西河河岸，悬崖突兀，洪水冲成的平原为野生动物的生存提供了乐土，这里有大象、水牛群、豹子和猎豹。其中，尼尔鳄鱼是这个地区的一个重要种群。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "On the banks of the Zambezi, great cliffs overhang the river and the floodplains. The area is home to a remarkable concentration of wild animals, including elephants, buffalo, leopards and cheetahs. An important concentration of Nile crocodiles is also be found in the area.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ZmbziRvr.jpg?width=1280",
+   "title": "ZmbziRvr.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:ZmbziRvr.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_302.jpg",
+   "title": "Mana Pools National Park, Sapi and Chewore Safari Areas",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/302",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/302",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kariba Airport",
+    "iata": "KAB",
+    "city": "Kariba",
+    "country": "ZW",
+    "lat": -16.5198,
+    "lon": 28.885,
+    "type": "medium_airport",
+    "distance_km": 95.8
+   },
+   {
+    "name": "Kenneth Kaunda International Airport",
+    "iata": "LUN",
+    "city": "Lusaka",
+    "country": "ZM",
+    "lat": -15.330833,
+    "lon": 28.452722,
+    "type": "large_airport",
+    "distance_km": 115.9
+   },
+   {
+    "name": "Robert Gabriel Mugabe International Airport",
+    "iata": "HRE",
+    "city": "Harare",
+    "country": "ZW",
+    "lat": -17.931801,
+    "lon": 31.0928,
+    "type": "large_airport",
+    "distance_km": 295.5
+   }
+  ],
+  "nearest_airport_km": 95.8,
+  "distance_beijing_km": 10990.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZW",
+  "country_zh": "津巴布韦",
+  "country_en": "Zimbabwe",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][163]",
+  "notes": "Also eligible for a universal visa allowing access to Zambia."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZW",
+   "country_zh": "津巴布韦",
+   "country_en": "Zimbabwe",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][163]",
+   "notes": "Also eligible for a universal visa allowing access to Zambia."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/302"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

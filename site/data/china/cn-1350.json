@@ -1,0 +1,214 @@
+{
+ "id": "cn-1350",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "内蒙古自治区",
+ "province_en": "Inner Mongolia",
+ "province_iso": "CN-NM",
+ "city_zh": "呼伦贝尔市",
+ "city_en": "Hulunbuir",
+ "name_zh": "呼伦贝尔市中俄边境旅游区",
+ "name_en": "Hulunbuir",
+ "name_en_source": "wikipedia",
+ "slug": "hulunbeiershizhongebianjing-1350",
+ "lat": 49.619437,
+ "lon": 117.401013,
+ "address_zh": "呼伦贝尔市满洲里市华埠大街",
+ "address_en": "Chinatown Street, Manzhouli City, Hulunbuir City",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "旅游区借助满洲里得天独厚的地理环境，汇集中国红色文化、俄罗斯风情文化精粹，打造出独具北疆特色的旅游观光休闲度假基地。旅游区由国门景区和套娃景区组成，其中国门景区是满洲里市标志性旅游景区，也是重要的爱国主义教育基地。",
+ "intro_en": "Hulunbuir or Hulun Buir is a prefecture-level city in northeastern Inner Mongolia, China. Its administrative center is located at Hailar District, its largest urban area. Major scenic features are the high steppes of the Hulun Buir grasslands, the Hulun and Buir lakes (the latter partially in Mongolia), and the Khingan range. Hulun Buir borders Russia to the north and west, Mongolia to the south and west, Heilongjiang province to the east and Hinggan League to the direct south. Hulunbuir is a linguistically diverse area: next to Mandarin Chinese, Mongolian dialects such as Khorchin and Buryat, the Mongolic language Daur, and some Tungusic languages, including Oroqen and Solon, are spoken there.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manzhouli_view.jpg/1280px-Manzhouli_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Manzhouli view.jpg",
+   "author": "Alexander V. Solomin",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Manzhouli_view.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Barga_Banner_in_Hulunbuir_%28blue%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Barga Banner in Hulunbuir (blue).jpg",
+   "author": "Roxanna",
+   "license": "CC BY-SA 4.0",
+   "credit": "based on File:ChinaHulunbuirChenBaragqi.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Barga_Banner_in_Hulunbuir_%28blue%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Barga_Banner_in_Hulunbuir_%28red%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Barga Banner in Hulunbuir (red).jpg",
+   "author": "Roxanna",
+   "license": "CC BY-SA 4.0",
+   "credit": "based on File:ChinaHulunbuirChenBaragqi.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Barga_Banner_in_Hulunbuir_%28red%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hulunbuir.jpg/1280px-Hulunbuir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hulunbuir.jpg",
+   "author": "Fanghong",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hulunbuir.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hulunbuir_Airport_CAAC_Chart.png/1280px-Hulunbuir_Airport_CAAC_Chart.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hulunbuir Airport CAAC Chart.png",
+   "author": "Civil Aviation Administration of China",
+   "license": "Public domain",
+   "credit": "eaipchina.cn",
+   "source": "https://commons.wikimedia.org/wiki/File:Hulunbuir_Airport_CAAC_Chart.png"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Manzhouli Xijiao Airport",
+    "iata": "NZH",
+    "city": "Manzhouli",
+    "country": "CN",
+    "lat": 49.566667,
+    "lon": 117.33,
+    "type": "medium_airport",
+    "distance_km": 7.8
+   },
+   {
+    "name": "Hulunbuir Hailar Airport",
+    "iata": "HLD",
+    "city": "Hailar",
+    "country": "CN",
+    "lat": 49.208616,
+    "lon": 119.822301,
+    "type": "large_airport",
+    "distance_km": 181.0
+   }
+  ],
+  "nearest_airport_km": 7.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "满洲里",
+    "name_en": "Manzhouli",
+    "lat": 49.5841146,
+    "lon": 117.44403,
+    "distance_km": 5.0,
+    "operator": "中国铁路哈尔滨局集团有限公司 满洲里站",
+    "high_speed": false
+   },
+   {
+    "name": "Забайкальск",
+    "name_en": "Zabaikalsk",
+    "lat": 49.6392281,
+    "lon": 117.3318649,
+    "distance_km": 5.4,
+    "operator": "ОАО «РЖД»",
+    "high_speed": false
+   },
+   {
+    "name": "胪滨",
+    "name_en": "Lubin",
+    "lat": 49.5494584,
+    "lon": 117.5356145,
+    "distance_km": 12.4,
+    "operator": "中国铁路哈尔滨局集团有限公司 满洲里站",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "满洲里香格里拉大酒店",
+   "name_en": "Shangri-La Manzhouli",
+   "stars": null,
+   "brand": "Shangri-La",
+   "lat": 49.5925162,
+   "lon": 117.447941,
+   "distance_km": 4.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jiuzhou International Hotel (Manzhouli Zhongsu Pedestrian Street)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5909923,
+   "lon": 117.4323289,
+   "distance_km": 3.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Аолун",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5913332,
+   "lon": 117.4427695,
+   "distance_km": 4.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Zane Xena",
+   "name_en": "Zane Xena",
+   "stars": null,
+   "brand": null,
+   "lat": 49.5893005,
+   "lon": 117.4411153,
+   "distance_km": 4.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Бэйго",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 49.5907725,
+   "lon": 117.4424924,
+   "distance_km": 4.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 25,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/呼伦贝尔市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

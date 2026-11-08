@@ -1,0 +1,162 @@
+{
+ "id": "wh-829",
+ "unesco_id": "829",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1176,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Naples, Campania",
+ "subdivision_iso": "IT-72",
+ "subdivision_zh": "坎帕尼亚",
+ "subdivision_en": "Campania",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "庞培、赫库兰尼姆和托雷安农齐亚塔考古区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "829-archaeological_areas_of_pompei,_herculan",
+ "lat": 40.75,
+ "lon": 14.48333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元79年8月24日维苏威火山的爆发，吞没了两个繁盛的罗马城市：庞培和赫库兰尼姆以及那个地区的许多富家别墅。从18世纪中叶始，被掩埋的一切都逐渐挖掘出来并向公众公开开放。庞培商业城的广阔，与规模不大却保存完好的赫库兰尼姆假日胜地相得益彰，而托雷安农齐亚塔的奥普隆蒂斯别墅的壮丽壁画，呈现给我们一幅早期罗马帝国富裕的市民生活方式的生动画面。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "When Vesuvius erupted on 24 August AD 79, it engulfed the two flourishing Roman towns of Pompei and Herculaneum, as well as the many wealthy villas in the area. These have been progressively excavated and made accessible to the public since the mid-18th century. The vast expanse of the commercial town of Pompei contrasts with the smaller but better-preserved remains of the holiday resort of Herculaneum, while the superb wall paintings of the Villa Oplontis at Torre Annunziata give a vivid impression of the opulent lifestyle enjoyed by the wealthier citizens of the Early Roman Empire.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Campania%20Pompei3%20tango7174.jpg?width=1280",
+   "title": "Campania Pompei3 tango7174.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Campania%20Pompei3%20tango7174.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_829.jpg",
+   "title": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/829",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/829",
+ "transport": {
+  "airports": [
+   {
+    "name": "Naples International Airport",
+    "iata": "NAP",
+    "city": "Napoli",
+    "country": "IT",
+    "lat": 40.886002,
+    "lon": 14.2908,
+    "type": "large_airport",
+    "distance_km": 22.2
+   },
+   {
+    "name": "Salerno Costa d'Amalfi Airport",
+    "iata": "QSR",
+    "city": "Salerno",
+    "country": "IT",
+    "lat": 40.620399,
+    "lon": 14.9113,
+    "type": "medium_airport",
+    "distance_km": 38.9
+   },
+   {
+    "name": "Foggia Gino Lisa Airport",
+    "iata": "FOG",
+    "city": "Foggia (FG)",
+    "country": "IT",
+    "lat": 41.433596,
+    "lon": 15.534566,
+    "type": "medium_airport",
+    "distance_km": 116.4
+   }
+  ],
+  "nearest_airport_km": 22.2,
+  "distance_beijing_km": 8077.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/829"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

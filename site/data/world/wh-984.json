@@ -1,0 +1,162 @@
+{
+ "id": "wh-984",
+ "unesco_id": "984",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 646,
+ "popularity_score": 7403,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Blaenavon,40 km NE of Cardiff, Wales",
+ "subdivision_iso": "GB-TOF",
+ "subdivision_zh": "托法恩自治市",
+ "subdivision_en": "Torfaen",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡莱纳冯工业区景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Blaenavon Industrial Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "984-blaenavon_industrial_landscape",
+ "lat": 51.770277777,
+ "lon": -3.092222222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡莱纳冯周围地区证明了在19世纪，南部威尔士是世界上主要的铁和煤的生产地。今天，人们还可以看到所有必要的证据：煤矿和矿石矿、采石场、一个原始铁路系统、炉膛、工人的家和他们社区的社会基础结构。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The area around Blaenavon is evidence of the pre-eminence of South Wales as the world's major producer of iron and coal in the 19th century. All the necessary elements can still be seen - coal and ore mines, quarries, a primitive railway system, furnaces, workers' homes, and the social infrastructure of their community.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Big%20Pit%20Mining%20Museum.jpg?width=1280",
+   "title": "Big Pit Mining Museum.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Big%20Pit%20Mining%20Museum.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_984.jpg",
+   "title": "Blaenavon Industrial Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/984",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/984",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cardiff International Airport",
+    "iata": "CWL",
+    "city": "Cardiff",
+    "country": "GB",
+    "lat": 51.396702,
+    "lon": -3.34333,
+    "type": "large_airport",
+    "distance_km": 45.0
+   },
+   {
+    "name": "Bristol Airport",
+    "iata": "BRS",
+    "city": "Bristol",
+    "country": "GB",
+    "lat": 51.382326,
+    "lon": -2.716453,
+    "type": "large_airport",
+    "distance_km": 50.4
+   },
+   {
+    "name": "Exeter International Airport",
+    "iata": "EXT",
+    "city": "Exeter, Devon",
+    "country": "GB",
+    "lat": 50.734261,
+    "lon": -3.413984,
+    "type": "medium_airport",
+    "distance_km": 117.4
+   }
+  ],
+  "nearest_airport_km": 45.0,
+  "distance_beijing_km": 8298.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 12
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/984"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Blaenavon%20Industrial%20Landscape"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

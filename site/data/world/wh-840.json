@@ -1,0 +1,154 @@
+{
+ "id": "wh-840",
+ "unesco_id": "840",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1178,
+ "popularity_score": null,
+ "country": "CU",
+ "country_zh": "古巴",
+ "country_en": "Cuba",
+ "countries": [
+  {
+   "iso2": "CU",
+   "zh": "古巴",
+   "en": "Cuba"
+  }
+ ],
+ "region": "Province of Pinar del Rio",
+ "subdivision_iso": "CU-01",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "比尼亚莱斯山谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "Viñales Valley",
+ "name_local": "Valle de Viñales",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "840-viñales_valley",
+ "lat": 22.616666666667,
+ "lon": -83.716666666667,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "比尼亚莱斯山谷群山环绕，山谷风景与裸露的岩石交相辉映。农业生产，尤其是烟草种植业中，仍然在采用传统技术。农场和村庄的当地建筑大大提升了这一文化景观的内涵，一个富裕的多民族社会在此繁衍，诠释了加勒比海岛屿和古巴的文化发展。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Viñales valley is encircled by mountains and its landscape is interspersed with dramatic rocky outcrops. Traditional techniques are still in use for agricultural production, particularly of tobacco. The quality of this cultural landscape is enhanced by the vernacular architecture of its farms and villages, where a rich multi-ethnic society survives, illustrating the cultural development of the islands of the Caribbean, and of Cuba.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Rodeado de montañas, el fértil valle de Viñales está sembrado de espectaculares afloramientos rocosos. Sus habitantes siguen utilizando técnicas agrícolas tradicionales, en particular para la producción del tabaco. La riqueza de su paisaje cultural se ve realzada por la arquitectura tradicional de sus granjas y aldeas, donde perduran todavía las características una sociedad pluriétnica de peculiar riqueza, muy ilustrativa del desarrollo cultural de las islas caribeñas en general y de Cuba en particular.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_840.jpg",
+   "title": "Viñales Valley",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/840",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/840",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rafael Cabrera Airport",
+    "iata": "GER",
+    "city": "Nueva Gerona",
+    "country": "CU",
+    "lat": 21.834699630737305,
+    "lon": -82.78379821777344,
+    "type": "medium_airport",
+    "distance_km": 129.5
+   },
+   {
+    "name": "José Martí International Airport",
+    "iata": "HAV",
+    "city": "Havana",
+    "country": "CU",
+    "lat": 22.989200592041016,
+    "lon": -82.40910339355469,
+    "type": "large_airport",
+    "distance_km": 140.3
+   },
+   {
+    "name": "Juan Gualberto Gomez International Airport",
+    "iata": "VRA",
+    "city": "Matanzas",
+    "country": "CU",
+    "lat": 23.034401,
+    "lon": -81.435303,
+    "type": "large_airport",
+    "distance_km": 238.4
+   }
+  ],
+  "nearest_airport_km": 129.5,
+  "distance_beijing_km": 12843.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CU",
+  "country_zh": "古巴",
+  "country_en": "Cuba",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CU",
+   "country_zh": "古巴",
+   "country_en": "Cuba",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/840"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

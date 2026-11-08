@@ -1,0 +1,154 @@
+{
+ "id": "wh-1372",
+ "unesco_id": "1372",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 948,
+ "popularity_score": null,
+ "country": "IR",
+ "country_zh": "伊朗",
+ "country_en": "Iran",
+ "countries": [
+  {
+   "iso2": "IR",
+   "zh": "伊朗",
+   "en": "Iran"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "波斯园林",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Persian Garden",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1372-the_persian_garden",
+ "lat": 33.74695630819231,
+ "lon": 51.33943194923077,
+ "coord_accuracy": "country_centroid",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这一文化遗产由分布在9个省份的9座园林共同组成。它们一方面体现了自公元前6世纪居鲁士大帝时期以来形成的波斯园林设计原则，另一方面也展现了波斯园林为适应各种气候条件而发展出来的多样风格。波斯园林的主要设计理念突出了对伊甸园及琐罗亚斯德教四大元素——天空、水、大地、植物的象征意象，所有园林都分为四个部分，并且水在园林的灌溉与装饰中发挥了重要的作用。这九座园林分别建设于不同时期，最早的可以追溯到公元前6世纪。楼台、亭榭、墙垣以及精密的水流灌溉系统是园林的重要特征。波斯园林对印度及西班牙园林艺术都产生了影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property includes nine gardens in as many provinces. They exemplify the diversity of Persian garden designs that evolved and adapted to different climate conditions while retaining principles that have their roots in the times of Cyrus the Great, 6th century BC. Always divided into four sectors, with water playing an important role for both irrigation and ornamentation, the Persian garden was conceived to symbolize Eden and the four Zoroastrian elements of sky, earth, water and plants. These gardens, dating back to different periods since the 6th century BC, also feature buildings, pavilions and walls, as well as sophisticated irrigation systems. They have influenced the art of garden design as far as India and Spain.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1372.jpg",
+   "title": "The Persian Garden",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1372",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1372",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kashan Airport",
+    "iata": "KKS",
+    "city": "Kashan",
+    "country": "IR",
+    "lat": 33.895302,
+    "lon": 51.577,
+    "type": "medium_airport",
+    "distance_km": 27.5
+   },
+   {
+    "name": "Isfahan Shahid Beheshti International Airport",
+    "iata": "IFN",
+    "city": "Isfahan",
+    "country": "IR",
+    "lat": 32.755142,
+    "lon": 51.883877,
+    "type": "large_airport",
+    "distance_km": 121.3
+   },
+   {
+    "name": "Imam Khomeini International Airport",
+    "iata": "IKA",
+    "city": "Tehran",
+    "country": "IR",
+    "lat": 35.416099548339844,
+    "lon": 51.152198791503906,
+    "type": "large_airport",
+    "distance_km": 186.4
+   }
+  ],
+  "nearest_airport_km": 27.5,
+  "distance_beijing_km": 5686.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IR",
+  "country_zh": "伊朗",
+  "country_en": "Iran",
+  "status": "visa_free",
+  "days": 21,
+  "requirement": "Visa not required[6][60]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IR",
+   "country_zh": "伊朗",
+   "country_en": "Iran",
+   "status": "visa_free",
+   "days": 21,
+   "requirement": "Visa not required[6][60]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1372"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

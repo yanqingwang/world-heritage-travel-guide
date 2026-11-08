@@ -1,0 +1,162 @@
+{
+ "id": "wh-818",
+ "unesco_id": "818",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 363,
+ "popularity_score": 23426,
+ "country": "NL",
+ "country_zh": "荷兰王国",
+ "country_en": "Kingdom of the Netherlands",
+ "countries": [
+  {
+   "iso2": "NL",
+   "zh": "荷兰王国",
+   "en": "Kingdom of the Netherlands"
+  }
+ ],
+ "region": "Municipalities of Alblasserdam and Nieuw-Lekkerland, Province of Zuid-Holland",
+ "subdivision_iso": "NL-ZH",
+ "subdivision_zh": "南荷兰省",
+ "subdivision_en": "South Holland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "金德代克-埃尔斯豪特的风车",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mill Network at Kinderdijk-Elshout",
+ "name_local": "Kinderdijkse molens",
+ "local_lang": "nl",
+ "local_lang_name": "Dutch",
+ "slug": "818-mill_network_at_kinderdijk-elshout",
+ "lat": 51.88861,
+ "lon": 4.63472,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "金德代克–埃尔斯豪特地区的风车装置极好地展示了荷兰人民为水处理技术做出的突出贡献。从中世纪起，人们开始建设水利工程，用于农田排水和居住目的，并一直坚持到今天。这里展现了与这些技术相关的各种典型特征，如，堤坝、水库、泵站、行政楼和一系列保存完好的风车设施。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The outstanding contribution made by the people of the Netherlands to the technology of handling water is admirably demonstrated by the installations in the Kinderdijk-Elshout area. Construction of hydraulic works for the drainage of land for agriculture and settlement began in the Middle Ages and have continued uninterruptedly to the present day. The site illustrates all the typical features associated with this technology – dykes, reservoirs, pumping stations, administrative buildings and a series of beautifully preserved windmills.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "De molens van Kinderdijk zijn negentien molens in het noordwesten van de Alblasserwaard, een streek in de Nederlandse provincie Zuid-Holland. Alhoewel ze worden aangeduid als behorend tot het dorpje Kinderdijk (gemeente Molenlanden) ligt één molen net daarbuiten (De Blokker), in de gemeente Alblasserdam. Het betreft hier boezemmolens, die twee molengangen vormen en een grote (ook internationale) toeristische trekpleister zijn. Sinds 1997 staan ze op de Werelderfgoedlijst van UNESCO en het gebied is tevens een beschermd dorpsgezicht. De molenrijen zijn alleen te voet of per fiets goed te bezichtigen. Drie molens zijn open voor publiek. De molens bij Kinderdijk zijn gebouwd vanaf het einde van de vijftiende eeuw, maar de huidige molens dateren bijna allemaal uit 1738 en 1740. Het gaat om de grootste nog bestaande concentratie van klassieke molens in de wereld, die sterk medebepalend is geweest voor de internationale uitstraling van Nederland.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/KinderdijkMolens02.jpg?width=1280",
+   "title": "KinderdijkMolens02.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_818.jpg",
+   "title": "Mill Network at Kinderdijk-Elshout",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/818",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/818",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rotterdam The Hague Airport",
+    "iata": "RTM",
+    "city": "Rotterdam",
+    "country": "NL",
+    "lat": 51.956902,
+    "lon": 4.43722,
+    "type": "large_airport",
+    "distance_km": 15.5
+   },
+   {
+    "name": "Amsterdam Airport Schiphol",
+    "iata": "AMS",
+    "city": "Amsterdam",
+    "country": "NL",
+    "lat": 52.308601,
+    "lon": 4.76389,
+    "type": "large_airport",
+    "distance_km": 47.5
+   },
+   {
+    "name": "Eindhoven Airport",
+    "iata": "EIN",
+    "city": "Eindhoven",
+    "country": "NL",
+    "lat": 51.4500999451,
+    "lon": 5.37452983856,
+    "type": "large_airport",
+    "distance_km": 70.6
+   }
+  ],
+  "nearest_airport_km": 15.5,
+  "distance_beijing_km": 7869.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NL",
+  "country_zh": "荷兰王国",
+  "country_en": "Kingdom of the Netherlands",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NL",
+   "country_zh": "荷兰王国",
+   "country_en": "Kingdom of the Netherlands",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "nl",
+  "local_lang_name": "Dutch",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 24
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/818"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kinderdijk%20windmills"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

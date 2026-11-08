@@ -1,0 +1,178 @@
+{
+ "id": "cn-457",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "云南省",
+ "province_en": "Yunnan",
+ "province_iso": "CN-YN",
+ "city_zh": "保山市",
+ "city_en": "Baoshan",
+ "name_zh": "保山市火山热海旅游区",
+ "name_en": "Baoshanshihuoshanrehai Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "baoshanshihuoshanrehai-457",
+ "lat": 24.953077,
+ "lon": 98.447149,
+ "address_zh": "云南省保山市腾冲县新村城",
+ "address_en": "Xincun City, Tengchong County, Baoshan City, Yunnan Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "火山热海位于腾冲县城西南20公里，面积约9平方公里，较大的气泉、温泉群共有80余处，其中有14个温泉群的水温达90℃以上。2016年被国家旅游局批准为国家AAAAA级旅游景区。",
+ "intro_en": "The Volcano Hot Sea is located 20 kilometers southwest of Tengchong County, covering an area of ​​about 9 square kilometers. There are more than 80 large gas springs and hot spring groups, among which 14 hot spring groups have water temperatures above 90°C. In 2016, it was approved by the National Tourism Administration as a national AAAAA tourist attraction.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.chinaspa.cn/index.html",
+ "booking": "http://www.chinaspa.cn/index.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tengchong Tuofeng Airport",
+    "iata": "TCZ",
+    "city": "Baoshan (Tengchong)",
+    "country": "CN",
+    "lat": 24.938056,
+    "lon": 98.485833,
+    "type": "medium_airport",
+    "distance_km": 4.2
+   },
+   {
+    "name": "Dehong Mangshi International Airport",
+    "iata": "LUM",
+    "city": "Dehong (Mangshi)",
+    "country": "CN",
+    "lat": 24.4011,
+    "lon": 98.5317,
+    "type": "medium_airport",
+    "distance_km": 62.0
+   },
+   {
+    "name": "Baoshan Yunrui Airport",
+    "iata": "BSD",
+    "city": "Baoshan (Longyang)",
+    "country": "CN",
+    "lat": 25.053301,
+    "lon": 99.168297,
+    "type": "medium_airport",
+    "distance_km": 73.5
+   }
+  ],
+  "nearest_airport_km": 4.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "上坝",
+    "name_en": null,
+    "lat": 24.9429811,
+    "lon": 98.95165,
+    "distance_km": 50.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "龙陵",
+    "name_en": null,
+    "lat": 24.5427768,
+    "lon": 98.6808316,
+    "distance_km": 51.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "永新",
+    "name_en": null,
+    "lat": 24.8402293,
+    "lon": 98.9428931,
+    "distance_km": 51.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "banyan tree tengchong",
+   "name_en": "banyan tree tengchong",
+   "stars": null,
+   "brand": null,
+   "lat": 25.0835075,
+   "lon": 98.5744893,
+   "distance_km": 19.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "腾冲金玉堂云景度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0070468,
+   "lon": 98.4639457,
+   "distance_km": 6.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "玉都大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0343017,
+   "lon": 98.4882091,
+   "distance_km": 9.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "洪运宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0357024,
+   "lon": 98.4878611,
+   "distance_km": 10.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "腾冲翡翠时光别墅酒店",
+   "name_en": "Tenchong Jade Time Villa Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 25.0381414,
+   "lon": 98.488996,
+   "distance_km": 10.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 10,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

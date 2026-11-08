@@ -1,0 +1,201 @@
+{
+ "id": "cn-400",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "开封市",
+ "city_en": "Kaifeng",
+ "name_zh": "开封市清明上河园景区",
+ "name_en": "Qingmingshangheyuan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "kaifengshiqingmingshangheyuan-400",
+ "lat": 34.813951,
+ "lon": 114.349998,
+ "address_zh": "开封市龙亭区大兴街道龙亭西路5号",
+ "address_en": "No. 5, Longting West Road, Daxing Street, Longting District, Kaifeng City",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "清明上河园是一座大型宋代文化实景主题公园，坐落在开封市龙亭湖西岸，是中国非物质文化遗产展演基地。该景区是以画家张择端的写实画作《清明上河图》为蓝本，按照《营造法式》为建设标准，以宋朝市井文化、民俗风情、皇家园林和古代娱乐为题材，以游客参与体验为特点的文化主题公园。",
+ "intro_en": "Qingming Riverside Garden is a large-scale Song Dynasty cultural real-life theme park located on the west bank of Longting Lake in Kaifeng City. It is a performance base for China's intangible cultural heritage. The scenic spot is a cultural theme park based on the realistic painting \"Along the River During the Qingming Festival\" by the painter Zhang Zeduan, in accordance with the \"Building Method\" as the construction standard, with themes of Song Dynasty street culture, folk customs, royal gardens and ancient entertainment, and featuring tourist participation and experience.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Millennium_City_Park_02.jpg/1280px-Millennium_City_Park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Millennium City Park 02.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Millennium_City_Park_02.jpg"
+  }
+ ],
+ "web": "https://www.qingmings.com/",
+ "booking": "https://www.qingmings.com/shop.php",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zhengzhou Xinzheng International Airport",
+    "iata": "CGO",
+    "city": "Zhengzhou",
+    "country": "CN",
+    "lat": 34.526497,
+    "lon": 113.849165,
+    "type": "large_airport",
+    "distance_km": 55.9
+   },
+   {
+    "name": "Anyang Hongqiqu Airport",
+    "iata": "HQQ",
+    "city": "Anyang",
+    "country": "CN",
+    "lat": 35.870833,
+    "lon": 114.461944,
+    "type": "small_airport",
+    "distance_km": 118.0
+   },
+   {
+    "name": "Heze Mudan Airport",
+    "iata": "HZA",
+    "city": "Heze (Dingtao)",
+    "country": "CN",
+    "lat": 35.212972,
+    "lon": 115.736748,
+    "type": "medium_airport",
+    "distance_km": 133.9
+   }
+  ],
+  "nearest_airport_km": 55.9,
+  "high_speed_stations": [
+   {
+    "name": "开封北",
+    "name_en": "Kaifengbei",
+    "lat": 34.8406362,
+    "lon": 114.2560503,
+    "distance_km": 9.1,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "开封",
+    "name_en": "Kaifeng",
+    "lat": 34.7720005,
+    "lon": 114.3490527,
+    "distance_km": 4.7,
+    "operator": "China Railways",
+    "high_speed": false
+   },
+   {
+    "name": "宋城路",
+    "name_en": "Songchenglu",
+    "lat": 34.7857534,
+    "lon": 114.2785621,
+    "distance_km": 7.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杏花营",
+    "name_en": "Xinghuaying",
+    "lat": 34.776037,
+    "lon": 114.2609426,
+    "distance_km": 9.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "开封建业铂尔曼酒店",
+   "name_en": "Pullman Kaifeng Jianye",
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": 34.8173305,
+   "lon": 114.3372152,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JinjiangInn(Kaifeng)",
+   "name_en": "JinjiangInn(Kaifeng)",
+   "stars": null,
+   "brand": null,
+   "lat": 34.795073,
+   "lon": 114.3454597,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 34.7952097,
+   "lon": 114.3472632,
+   "distance_km": 2.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "喆啡酒店",
+   "name_en": "James Joyce Coffetel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.7923,
+   "lon": 114.3457954,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Hotel Kaifeng",
+   "name_en": "Best Western Hotel Kaifeng",
+   "stars": null,
+   "brand": null,
+   "lat": 34.7920315,
+   "lon": 114.3544567,
+   "distance_km": 2.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 11,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/清明上河园"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

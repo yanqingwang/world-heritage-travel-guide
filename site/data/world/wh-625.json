@@ -1,0 +1,162 @@
+{
+ "id": "wh-625",
+ "unesco_id": "625",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 442,
+ "popularity_score": 17080,
+ "country": "BY",
+ "country_zh": "白俄罗斯",
+ "country_en": "Belarus",
+ "countries": [
+  {
+   "iso2": "BY",
+   "zh": "白俄罗斯",
+   "en": "Belarus"
+  }
+ ],
+ "region": "Grodno Province (oblast), Korelichi District",
+ "subdivision_iso": "BY-HR",
+ "subdivision_zh": "",
+ "subdivision_en": "Hrodna Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "米尔城堡群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mir Castle Complex",
+ "name_local": "Комплекс Мирского замка",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "625-mir_castle_complex",
+ "lat": 53.451266666,
+ "lon": 26.472894444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "米尔城堡于十五世纪末动工建设，属于哥特式风格，后来在文艺复兴时期及其后的巴洛克风格盛行时期得到不断扩建和重建。城堡曾被遗弃了近一个世纪，后又在拿破仑一世时期受到严重破坏，但最终于19世纪末得到修复。在修复过程中，加入了许多其他要素，美化了周边景观，建成了一个公园。如今的面貌是其历经沧桑动荡的历史写照。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The construction of this castle began at the end of the 15th century, in Gothic style. It was subsequently extended and reconstructed, first in the Renaissance and then in the Baroque style. After being abandoned for nearly a century and suffering severe damage during the Napoleonic period, the castle was restored at the end of the 19th century, with the addition of a number of other elements and the landscaping of the surrounding area as a park. Its present form is graphic testimony to its often turbulent history.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Мирский замок был возведен в самом начале XVI в. в готическом стиле. Затем он был существенно расширен и перестроен, сначала в стиле эпохи Возрождения, затем – барокко. Далее почти на протяжении столетия замок был заброшен, а во время войны 1812 г. он испытал серьезные разрушения. В конце XIX в. замок был восстановлен, в его архитектурный ансамбль были внесены новые элементы, а на прилегающей территории был разбит ландшафтный парк с водоемом. Современный облик замка – наглядное свидетельство его богатой и сложной истории.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mir%20Castle%202018.jpg?width=1280",
+   "title": "Mir Castle 2018.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mir%20Castle%202018.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_625.jpg",
+   "title": "Mir Castle Complex",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/625",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/625",
+ "transport": {
+  "airports": [
+   {
+    "name": "Minsk National Airport",
+    "iata": "MSQ",
+    "city": "Minsk",
+    "country": "BY",
+    "lat": 53.888071,
+    "lon": 28.039964,
+    "type": "large_airport",
+    "distance_km": 114.1
+   },
+   {
+    "name": "Vilnius International Airport",
+    "iata": "VNO",
+    "city": "Vilnius",
+    "country": "LT",
+    "lat": 54.634102,
+    "lon": 25.285801,
+    "type": "large_airport",
+    "distance_km": 152.7
+   },
+   {
+    "name": "Brest International Airport",
+    "iata": "BQT",
+    "city": "Brest",
+    "country": "BY",
+    "lat": 52.108138,
+    "lon": 23.89676,
+    "type": "large_airport",
+    "distance_km": 228.7
+   }
+  ],
+  "nearest_airport_km": 114.1,
+  "distance_beijing_km": 6436.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BY",
+  "country_zh": "白俄罗斯",
+  "country_en": "Belarus",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa free for 30 days, for a maximum total stay of 90 days within any 1 calendar year.[19] Holders of passports for public affairs do not require a visa for up to 30 days.[20]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BY",
+   "country_zh": "白俄罗斯",
+   "country_en": "Belarus",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa free for 30 days, for a maximum total stay of 90 days within any 1 calendar year.[19] Holders of passports for public affairs do not require a visa for up to 30 days.[20]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/625"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mir%20Castle%20Complex"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

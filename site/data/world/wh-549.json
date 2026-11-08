@@ -1,0 +1,154 @@
+{
+ "id": "wh-549",
+ "unesco_id": "549",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1104,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Provinces of Caserta and Benevento, Campania",
+ "subdivision_iso": "IT-72",
+ "subdivision_zh": "",
+ "subdivision_en": "Campania",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "卡塞塔的18世纪花园皇宫、凡韦特里水渠和圣莱乌西建筑群",
+ "name_zh_source": "unesco_official",
+ "name_en": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "549-18th-century_royal_palace_at_caserta_wit",
+ "lat": 41.07333,
+ "lon": 14.32639,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡塞塔地区的综合名胜群是波旁王朝国王查理斯三世为了与凡尔赛宫和马德里皇宫争奇斗美而在18世纪中叶修建的。这一建筑群别出心裁地把豪华的宫殿及其园林和花园、天然林地、打猎用的山林小屋和生产丝绸的工业设施完美地结合在一起。名胜群充分体现了启蒙运动在建筑领域的影响：以物质形式融入自然景观，实现两者完美的结合，而不是将启蒙思想强加于自然景观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The monumental complex at Caserta, created by the Bourbon king Charles III in the mid-18th century to rival Versailles and the Royal Palace in Madrid, is exceptional for the way in which it brings together a magnificent palace with its park and gardens, as well as natural woodland, hunting lodges and a silk factory. It is an eloquent expression of the Enlightenment in material form, integrated into, rather than imposed on, its natural setting.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_549.jpg",
+   "title": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/549",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/549",
+ "transport": {
+  "airports": [
+   {
+    "name": "Naples International Airport",
+    "iata": "NAP",
+    "city": "Napoli",
+    "country": "IT",
+    "lat": 40.886002,
+    "lon": 14.2908,
+    "type": "large_airport",
+    "distance_km": 21.0
+   },
+   {
+    "name": "Salerno Costa d'Amalfi Airport",
+    "iata": "QSR",
+    "city": "Salerno",
+    "country": "IT",
+    "lat": 40.620399,
+    "lon": 14.9113,
+    "type": "medium_airport",
+    "distance_km": 70.4
+   },
+   {
+    "name": "Foggia Gino Lisa Airport",
+    "iata": "FOG",
+    "city": "Foggia (FG)",
+    "country": "IT",
+    "lat": 41.433596,
+    "lon": 15.534566,
+    "type": "medium_airport",
+    "distance_km": 108.7
+   }
+  ],
+  "nearest_airport_km": 21.0,
+  "distance_beijing_km": 8077.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/549"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

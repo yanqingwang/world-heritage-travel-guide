@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Ningbo City"
 lat: 29.705123
 lon: 121.396879
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 宁波市溪口-滕头旅游景区 / Ningboshixikou-tengtou Scenic Area

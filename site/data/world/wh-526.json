@@ -1,0 +1,162 @@
+{
+ "id": "wh-526",
+ "unesco_id": "526",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 315,
+ "popularity_score": 28788,
+ "country": "DO",
+ "country_zh": "多米尼加",
+ "country_en": "Dominican Republic",
+ "countries": [
+  {
+   "iso2": "DO",
+   "zh": "多米尼加",
+   "en": "Dominican Republic"
+  }
+ ],
+ "region": "Distrito Nacional",
+ "subdivision_iso": "DO-01",
+ "subdivision_zh": "國家特區",
+ "subdivision_en": "Distrito Nacional",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣多明各殖民城市",
+ "name_zh_source": "unesco_official",
+ "name_en": "Colonial City of Santo Domingo",
+ "name_local": "Ciudad colonial de Santo Domingo",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "526-colonial_city_of_santo_domingo",
+ "lat": 18.473,
+ "lon": -69.883,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "1492年克里斯托夫·哥伦布(Christopher Columbus)首次踏足这个岛屿后，圣多明各成为美洲第一个建立教堂、医院、海关和大学的地方。这座殖民地城镇建于1498年，呈网状布局，是后来几乎所有新大陆城镇规划者效仿的典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "After Christopher Columbus's arrival on the island in 1492, Santo Domingo became the site of the first cathedral, hospital, customs house and university in the Americas. This colonial town, founded in 1498, was laid out on a grid pattern that became the model for almost all town planners in the New World.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fundada seis años después del descubrimiento de la isla por Cristóbal Colón en 1492, Santo Domingo es la ciudad donde se construyeron la primera catedral, el primer hospital, la primera universidad y la primera aduana del continente americano. La ciudad colonial fue construida con arreglo a un trazado en damero que sirvió de modelo a casi todos los urbanistas del Nuevo Mundo.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20Ciudad%20Colonial%20Santo%20Domingo%2009%202019%200067.jpg?width=1280",
+   "title": "Aerial view Ciudad Colonial Santo Domingo 09 2019 0067.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial%20view%20Ciudad%20Colonial%20Santo%20Domingo%2009%202019%200067.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_526.jpg",
+   "title": "Colonial City of Santo Domingo",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/526",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/526",
+ "transport": {
+  "airports": [
+   {
+    "name": "La Isabela International Airport",
+    "iata": "JBQ",
+    "city": "La Isabela",
+    "country": "DO",
+    "lat": 18.572500228881836,
+    "lon": -69.98560333251953,
+    "type": "medium_airport",
+    "distance_km": 15.5
+   },
+   {
+    "name": "Las Américas International Airport",
+    "iata": "SDQ",
+    "city": "Santo Domingo",
+    "country": "DO",
+    "lat": 18.42970085144,
+    "lon": -69.668899536133,
+    "type": "large_airport",
+    "distance_km": 23.1
+   },
+   {
+    "name": "Samaná El Catey International Airport",
+    "iata": "AZS",
+    "city": "Samana",
+    "country": "DO",
+    "lat": 19.269259,
+    "lon": -69.737405,
+    "type": "medium_airport",
+    "distance_km": 89.9
+   }
+  ],
+  "nearest_airport_km": 15.5,
+  "distance_beijing_km": 13457.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DO",
+  "country_zh": "多米尼加",
+  "country_en": "Dominican Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of a visa or permanent residency card issued by Canada, United States, United Kingdom, Ireland, Cyprus and any Schengen Area country can enter visa-free for a maximum stay of 30 days. United Kingdom residents can obtain a Tourist Card on arrival for a maximum stay of 90 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DO",
+   "country_zh": "多米尼加",
+   "country_en": "Dominican Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of a visa or permanent residency card issued by Canada, United States, United Kingdom, Ireland, Cyprus and any Schengen Area country can enter visa-free for a maximum stay of 30 days. United Kingdom residents can obtain a Tourist Card on arrival for a maximum stay of 90 days."
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 20
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/526"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ciudad%20Colonial%20%28Santo%20Domingo%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

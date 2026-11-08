@@ -1,0 +1,162 @@
+{
+ "id": "wh-217",
+ "unesco_id": "217",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1046,
+ "popularity_score": null,
+ "country": "BG",
+ "country_zh": "保加利亚",
+ "country_en": "Bulgaria",
+ "countries": [
+  {
+   "iso2": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria"
+  }
+ ],
+ "region": "Burgas Province",
+ "subdivision_iso": "BG-02",
+ "subdivision_zh": "布尔加斯州",
+ "subdivision_en": "Burgas",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "内塞巴尔古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ancient City of Nessebar",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "217-ancient_city_of_nessebar",
+ "lat": 42.65611,
+ "lon": 27.73,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "内塞巴尔古城位于黑海沿岸一个由岩石组成的半岛上，3000多年前，这里最初是色雷斯人聚落。公元前6世纪初，这里成了希腊殖民地。城市的遗迹大多可以追溯到古希腊时期，其中包括卫城、阿波罗神庙、广场和色雷斯人建造的堡垒剩下的一面墙。其他重要的古迹还包括中世纪时期建造的旧米特罗利亚教堂(Stara Mitropolia Basilica)和一些要塞，当时这里是黑海西岸最主要的拜占庭市镇之一。19世纪建造的木屋则体现了当时黑海地区典型的建筑特色。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nessebar%20Pantocrator.jpg?width=1280",
+   "title": "Nessebar Pantocrator.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Nessebar%20Pantocrator.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_217.jpg",
+   "title": "Ancient City of Nessebar",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/217",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/217",
+ "transport": {
+  "airports": [
+   {
+    "name": "Burgas Airport",
+    "iata": "BOJ",
+    "city": "Burgas",
+    "country": "BG",
+    "lat": 42.569917,
+    "lon": 27.515173,
+    "type": "large_airport",
+    "distance_km": 20.0
+   },
+   {
+    "name": "Varna Airport",
+    "iata": "VAR",
+    "city": "Varna",
+    "country": "BG",
+    "lat": 43.232101,
+    "lon": 27.8251,
+    "type": "large_airport",
+    "distance_km": 64.5
+   },
+   {
+    "name": "Tekirdağ Çorlu Airport",
+    "iata": "TEQ",
+    "city": "Çorlu",
+    "country": "TR",
+    "lat": 41.138199,
+    "lon": 27.9191,
+    "type": "medium_airport",
+    "distance_km": 169.5
+   }
+  ],
+  "nearest_airport_km": 20.0,
+  "distance_beijing_km": 7071.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BG",
+  "country_zh": "保加利亚",
+  "country_en": "Bulgaria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BG",
+   "country_zh": "保加利亚",
+   "country_en": "Bulgaria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/217"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

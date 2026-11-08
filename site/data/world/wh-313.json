@@ -1,0 +1,162 @@
+{
+ "id": "wh-313",
+ "unesco_id": "313",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 465,
+ "popularity_score": 15348,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Cordoba, Autonomous Community of Andalusia",
+ "subdivision_iso": "ES-CO",
+ "subdivision_zh": "科尔多瓦省",
+ "subdivision_en": "Córdoba Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "科尔多瓦历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Cordoba",
+ "name_local": "Centro histórico de Córdoba",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "313-historic_centre_of_cordoba",
+ "lat": 37.879194444,
+ "lon": -4.779722222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元8世纪，摩尔人占领了西班牙，于是科尔多瓦进入了它的鼎盛时期，在这段全盛时期中，城中建起了约300座清真寺、数不清的宫殿和公共建筑与君士坦丁堡、大马士革和巴格达的辉煌繁荣相媲美。公元13世纪，西班牙国王费尔南德三世时期，科尔多瓦大清真寺被改建成大教堂，一些新的防御性建筑也修建起来，特别著名的有基督教国王城堡和卡拉奥拉高塔要塞。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Cordoba's period of greatest glory began in the 8th century after the Moorish conquest, when some 300 mosques and innumerable palaces and public buildings were built to rival the splendours of Constantinople, Damascus and Baghdad. In the 13th century, under Ferdinand III, the Saint, Cordoba's Great Mosque was turned into a cathedral and new defensive structures, particularly the Alcázar de los Reyes Cristianos and the Torre Fortaleza de la Calahorra, were erected.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "El período de gloria de Córdoba comenzó en el siglo VIII, después de su conquista por los musulmanes, cuando se construyeron unas 300 mezquitas e innumerables palacios y edificios públicos. El esplendor de la ciudad llegó entonces a rivalizar con Constantinopla, Damasco y Bagdad. En el siglo XIII, en tiempos de Fernando III el Santo, se transformó la gran mezquita en catedral cristiana y se construyeron nuevos edificios defensivos como la Torre Fortaleza de la Calahorra y el Alcázar de los Reyes Cristianos.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Centro%20Hist%C3%B3rico%2C%2016.9%20--%202023%20--%20C%C3%B3rdoba%2C%20Espa%C3%B1a.jpg?width=1280",
+   "title": "Centro Histórico, 16.9 -- 2023 -- Córdoba, España.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Centro%20Hist%C3%B3rico%2C%2016.9%20--%202023%20--%20C%C3%B3rdoba%2C%20Espa%C3%B1a.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_313.jpg",
+   "title": "Historic Centre of Cordoba",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/313",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/313",
+ "transport": {
+  "airports": [
+   {
+    "name": "Córdoba Airport",
+    "iata": "ODB",
+    "city": "Córdoba",
+    "country": "ES",
+    "lat": 37.841999,
+    "lon": -4.84888,
+    "type": "medium_airport",
+    "distance_km": 7.3
+   },
+   {
+    "name": "Seville Airport",
+    "iata": "SVQ",
+    "city": "Seville",
+    "country": "ES",
+    "lat": 37.417999,
+    "lon": -5.89311,
+    "type": "large_airport",
+    "distance_km": 110.6
+   },
+   {
+    "name": "F.G.L. Airport Granada-Jaén Airport",
+    "iata": "GRX",
+    "city": "Granada",
+    "country": "ES",
+    "lat": 37.188702,
+    "lon": -3.77736,
+    "type": "medium_airport",
+    "distance_km": 117.1
+   }
+  ],
+  "nearest_airport_km": 7.3,
+  "distance_beijing_km": 9498.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 26
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/313"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20centre%20of%20C%C3%B3rdoba"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

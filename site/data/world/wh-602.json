@@ -1,0 +1,162 @@
+{
+ "id": "wh-602",
+ "unesco_id": "602",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1116,
+ "popularity_score": null,
+ "country": "UZ",
+ "country_zh": "乌兹别克斯坦",
+ "country_en": "Uzbekistan",
+ "countries": [
+  {
+   "iso2": "UZ",
+   "zh": "乌兹别克斯坦",
+   "en": "Uzbekistan"
+  }
+ ],
+ "region": "Bukhara region",
+ "subdivision_iso": "UZ-BU",
+ "subdivision_zh": "布哈拉州",
+ "subdivision_en": "Bukhara Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布哈拉历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Bukhara",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "602-historic_centre_of_bukhara",
+ "lat": 39.76666667,
+ "lon": 64.43333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "丝绸之路上的布哈拉已有两千多年的历史。在中亚城市之中，它完好地保存了绝大多数建筑物，是中世纪城市的典范。其中著名的纪念物有伊斯梅尔·萨马尼的著名墓碑，公元10世纪穆斯林的建筑杰作以及17世纪的一批建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Bukhara, which is situated on the Silk Route, is more than 2,000 years old. It is the most complete example of a medieval city in Central Asia, with an urban fabric that has remained largely intact. Monuments of particular interest include the famous tomb of Ismail Samani, a masterpiece of 10th-century Muslim architecture, and a large number of 17th-century madrasas.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bukhara%20-%20Panorama.jpg?width=1280",
+   "title": "Bukhara - Panorama.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bukhara%20-%20Panorama.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_602.jpg",
+   "title": "Historic Centre of Bukhara",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/602",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/602",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bukhara International Airport",
+    "iata": "BHK",
+    "city": "Bukhara",
+    "country": "UZ",
+    "lat": 39.775319,
+    "lon": 64.482279,
+    "type": "large_airport",
+    "distance_km": 4.3
+   },
+   {
+    "name": "Navoi International Airport",
+    "iata": "NVI",
+    "city": "Navoi",
+    "country": "UZ",
+    "lat": 40.117599,
+    "lon": 65.172658,
+    "type": "medium_airport",
+    "distance_km": 74.1
+   },
+   {
+    "name": "Türkmenabat International Airport",
+    "iata": "CRZ",
+    "city": "Türkmenabat",
+    "country": "TM",
+    "lat": 38.930662,
+    "lon": 63.563982,
+    "type": "large_airport",
+    "distance_km": 119.3
+   }
+  ],
+  "nearest_airport_km": 4.3,
+  "distance_beijing_km": 4377.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UZ",
+  "country_zh": "乌兹别克斯坦",
+  "country_en": "Uzbekistan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UZ",
+   "country_zh": "乌兹别克斯坦",
+   "country_en": "Uzbekistan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/602"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

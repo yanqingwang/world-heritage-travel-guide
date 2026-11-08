@@ -1,0 +1,142 @@
+{
+ "id": "wh-983",
+ "unesco_id": "983",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 801,
+ "popularity_score": 2972,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "St George, Bermuda",
+ "subdivision_iso": "GB-UKM",
+ "subdivision_zh": "英国",
+ "subdivision_en": "United Kingdom",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "百慕大群岛上的圣乔治镇及相关的要塞",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Town of St George and Related Fortifications, Bermuda",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "983-historic_town_of_st_george_and_related_f",
+ "lat": 32.37944444,
+ "lon": -64.67777778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣乔治镇始建于1612年，是在新大陆最早的英国城市居住区的杰出典型。与此有关的要塞经过改造，考虑到了17世纪至20世纪军炮的发展，生动地阐释了这一时期英国军事防御工程的发展情况。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Town of St George, founded in 1612, is an outstanding example of the earliest English urban settlement in the New World. Its associated fortifications graphically illustrate the development of English military engineering from the 17th to the 20th century, being adapted to take account of the development of artillery over this period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BL%206%20inch%20rifle%2C%20with%20two%20BL%209.2%20inch%20rifles%20beyond%2C%20at%20St.%20David%27s%20Battery%2C%20Bermuda%2C%202011.jpg?width=1280",
+   "title": "BL 6 inch rifle, with two BL 9.2 inch rifles beyond, at St. David's Battery, Bermuda, 2011.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:BL%206%20inch%20rifle%2C%20with%20two%20BL%209.2%20inch%20rifles%20beyond%2C%20at%20St.%20David%27s%20Battery%2C%20Bermuda%2C%202011.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_983.jpg",
+   "title": "Historic Town of St George and Related Fortifications, Bermuda",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/983",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/983",
+ "transport": {
+  "airports": [
+   {
+    "name": "L.F. Wade International Airport",
+    "iata": "BDA",
+    "city": "Hamilton",
+    "country": "BM",
+    "lat": 32.363802,
+    "lon": -64.67824,
+    "type": "large_airport",
+    "distance_km": 1.7
+   }
+  ],
+  "nearest_airport_km": 1.7,
+  "distance_beijing_km": 11958.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/983"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Town%20of%20St%20George%20and%20Related%20Fortifications%2C%20Bermuda"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1483",
+ "unesco_id": "1483",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 198,
+ "popularity_score": 63853,
+ "country": "SG",
+ "country_zh": "新加坡",
+ "country_en": "Singapore",
+ "countries": [
+  {
+   "iso2": "SG",
+   "zh": "新加坡",
+   "en": "Singapore"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "新加坡植物园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Singapore Botanic Gardens",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1483-singapore_botanic_gardens",
+ "lat": 1.3151,
+ "lon": 103.8162,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2015",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座植物园位于新加坡市中心，它展示了一座英国殖民时期热带植物园演变出的一个致力于保护和教育的世界级现代化科研机构。这里的风貌包括种类繁多的历史遗迹，以及展示这座植物园自1859年建园以来发展历程的植物和建筑。自1875年以来，这里已成为东南亚地区植物保护和科学研究的重要基地，尤其是关于橡胶种植方面的保护和研究。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated at the heart of the city of Singapore, the site demonstrates the evolution of a British tropical colonial botanic garden that has become a modern world-class scientific institution used for both conservation and education. The cultural landscape includes a rich variety of historic features, plantings and buildings that demonstrate the development of the garden since its creation in 1859. It has been an important centre for science, research and plant conservation, notably in connection with the cultivation of rubber plantations, in Southeast Asia since 1875.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Singapore%20Botanic%20Gardens%20Palm%20Valley.jpg?width=1280",
+   "title": "Singapore Botanic Gardens Palm Valley.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Singapore%20Botanic%20Gardens%20Palm%20Valley.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1483.jpg",
+   "title": "Singapore Botanic Gardens",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1483",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1483",
+ "transport": {
+  "airports": [
+   {
+    "name": "Seletar Airport",
+    "iata": "XSP",
+    "city": "Seletar",
+    "country": "SG",
+    "lat": 1.41555,
+    "lon": 103.86673,
+    "type": "medium_airport",
+    "distance_km": 12.5
+   },
+   {
+    "name": "Singapore Changi Airport",
+    "iata": "SIN",
+    "city": "Singapore",
+    "country": "SG",
+    "lat": 1.35019,
+    "lon": 103.994003,
+    "type": "large_airport",
+    "distance_km": 20.1
+   },
+   {
+    "name": "Senai International Airport",
+    "iata": "JHB",
+    "city": "Johor Bahru",
+    "country": "MY",
+    "lat": 1.64131,
+    "lon": 103.669998,
+    "type": "large_airport",
+    "distance_km": 39.7
+   }
+  ],
+  "nearest_airport_km": 12.5,
+  "distance_beijing_km": 4487.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SG",
+  "country_zh": "新加坡",
+  "country_en": "Singapore",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Holders of travel documents other than Chinese passports must obtain visa in advance or transit without visa.[133]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SG",
+   "country_zh": "新加坡",
+   "country_en": "Singapore",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Holders of travel documents other than Chinese passports must obtain visa in advance or transit without visa.[133]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1483"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Singapore%20Botanic%20Gardens"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

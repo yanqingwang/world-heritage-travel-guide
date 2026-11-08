@@ -1,0 +1,324 @@
+{
+ "id": "wh-488",
+ "unesco_id": "488",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 16,
+ "popularity_score": 731490,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "London Borough of Tower Hamlets, England",
+ "subdivision_iso": "GB-TWH",
+ "subdivision_zh": "陶尔哈姆莱茨区",
+ "subdivision_en": "London Borough of Tower Hamlets",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伦敦塔",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tower of London",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "488-tower_of_london",
+ "lat": 51.5082,
+ "lon": -0.076198055,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "宏伟的白塔是诺曼底军事建筑的典型，对整个英国的建筑风格产生了巨大影响。伦敦塔是威廉一世沿泰晤士河建造的，目的是为了保护伦敦，并占领领土。伦敦塔围绕白塔而建，是一个具有悠久历史的堡垒，也是王室权力的象征。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The massive White Tower is a typical example of Norman military architecture, whose influence was felt throughout the kingdom. It was built on the Thames by William the Conqueror to protect London and assert his power. The Tower of London – an imposing fortress with many layers of history, which has become one of the symbols of royalty – was built around the White Tower.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tower%20of%20London%20viewed%20from%20the%20River%20Thames.jpg?width=1280",
+   "title": "Tower of London viewed from the River Thames.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tower%20of%20London%20viewed%20from%20the%20River%20Thames.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/007SFEC_TOWER_OF_LONDON-200705.JPG/1280px-007SFEC_TOWER_OF_LONDON-200705.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "007SFEC TOWER OF LONDON-200705.JPG",
+   "author": "Steve F-E-Cameron ( Merlin-UK )",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:007SFEC_TOWER_OF_LONDON-200705.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/008SFEC_TOWER_OF_LONDON-200705.JPG/1280px-008SFEC_TOWER_OF_LONDON-200705.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "008SFEC TOWER OF LONDON-200705.JPG",
+   "author": "Steve F-E-Cameron ( Merlin-UK )",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:008SFEC_TOWER_OF_LONDON-200705.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/010SFEC_TOWER_OF_LONDON-200705.JPG/1280px-010SFEC_TOWER_OF_LONDON-200705.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "010SFEC TOWER OF LONDON-200705.JPG",
+   "author": "Steve F-E-Cameron ( Merlin-UK )",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:010SFEC_TOWER_OF_LONDON-200705.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/1_pound_of_silver.jpg/1280px-1_pound_of_silver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 pound of silver.jpg",
+   "author": "-JvL-",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/32051524@N08/17647852072/",
+   "source": "https://commons.wikimedia.org/wiki/File:1_pound_of_silver.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/488",
+ "transport": {
+  "airports": [
+   {
+    "name": "London City Airport",
+    "iata": "LCY",
+    "city": "London",
+    "country": "GB",
+    "lat": 51.505299,
+    "lon": 0.055278,
+    "type": "medium_airport",
+    "distance_km": 9.1
+   },
+   {
+    "name": "London Heathrow Airport",
+    "iata": "LHR",
+    "city": "London",
+    "country": "GB",
+    "lat": 51.470748,
+    "lon": -0.459909,
+    "type": "large_airport",
+    "distance_km": 26.9
+   },
+   {
+    "name": "London Gatwick Airport",
+    "iata": "LGW",
+    "city": "London",
+    "country": "GB",
+    "lat": 51.148744,
+    "lon": -0.185739,
+    "type": "large_airport",
+    "distance_km": 40.7
+   }
+  ],
+  "nearest_airport_km": 9.1,
+  "distance_beijing_km": 8125.1,
+  "ferry_terminals": [
+   {
+    "name": "Tower Millennium Pier",
+    "name_en": null,
+    "lat": 51.5072719,
+    "lon": -0.0788908,
+    "distance_km": 0.2,
+    "operator": null
+   },
+   {
+    "name": "Saint Katharine's Pier",
+    "name_en": null,
+    "lat": 51.5059721,
+    "lon": -0.0735163,
+    "distance_km": 0.3,
+    "operator": null
+   },
+   {
+    "name": "London Bridge City Pier",
+    "name_en": null,
+    "lat": 51.5069462,
+    "lon": -0.0846373,
+    "distance_km": 0.6,
+    "operator": null
+   },
+   {
+    "name": "Bankside Pier",
+    "name_en": null,
+    "lat": 51.5087709,
+    "lon": -0.0967972,
+    "distance_km": 1.4,
+    "operator": null
+   },
+   {
+    "name": "Wapping Pier",
+    "name_en": null,
+    "lat": 51.5032631,
+    "lon": -0.0565452,
+    "distance_km": 1.5,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Tower Gateway",
+    "name_en": null,
+    "lat": 51.5106288,
+    "lon": -0.0739505,
+    "distance_km": 0.3,
+    "operator": "KeolisAmey Docklands Ltd"
+   },
+   {
+    "name": "London Fenchurch Street",
+    "name_en": null,
+    "lat": 51.5113281,
+    "lon": -0.0774191,
+    "distance_km": 0.4,
+    "operator": "c2c"
+   },
+   {
+    "name": "London Bridge",
+    "name_en": null,
+    "lat": 51.5048764,
+    "lon": -0.0851473,
+    "distance_km": 0.7,
+    "operator": "Network Rail"
+   },
+   {
+    "name": "London Cannon Street",
+    "name_en": null,
+    "lat": 51.5106685,
+    "lon": -0.0906046,
+    "distance_km": 1.0,
+    "operator": "Network Rail"
+   },
+   {
+    "name": "London Liverpool Street",
+    "name_en": null,
+    "lat": 51.5182105,
+    "lon": -0.0814269,
+    "distance_km": 1.2,
+    "operator": "Network Rail"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Pan Pacific",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.5164968,
+   "lon": -0.0805192,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Andaz Liverpool Street",
+   "name_en": "Andaz Liverpool Street",
+   "stars": 5,
+   "brand": "ANdAZ",
+   "lat": 51.5173707,
+   "lon": -0.081576,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ned",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.513724,
+   "lon": -0.0900759,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency London Blackfriars",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 51.5122618,
+   "lon": -0.1046417,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NoMad London",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.5135819,
+   "lon": -0.1219487,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 87
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/488"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tower%20of%20London"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

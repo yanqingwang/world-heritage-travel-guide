@@ -1,0 +1,162 @@
+{
+ "id": "wh-88",
+ "unesco_id": "88",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 730,
+ "popularity_score": 4944,
+ "country": "EG",
+ "country_zh": "埃及",
+ "country_en": "Egypt",
+ "countries": [
+  {
+   "iso2": "EG",
+   "zh": "埃及",
+   "en": "Egypt"
+  }
+ ],
+ "region": "Governorate of Aswan",
+ "subdivision_iso": "EG-ASN",
+ "subdivision_zh": "",
+ "subdivision_en": "Aswan",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "阿布辛拜勒至菲莱的努比亚遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Nubian Monuments from Abu Simbel to Philae",
+ "name_local": "معالم النوبة من أبو سمبل إلى فيلة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "88-nubian_monuments_from_abu_simbel_to_phil",
+ "lat": 22.33638889,
+ "lon": 31.62611111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这一重要区域有大量极具考古价值的宏伟古迹，包括阿布辛拜勒(Abu Simbel)的拉美西斯二世神庙(Temples of Ramses II)和菲莱(Philae)的伊希斯女神圣殿(Sanctuary of Isis)。这些古迹在1960至1980年间曾险遭尼罗河涨水毁坏，多亏联合国教科文组织发起的国际运动，最终才幸免于难。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This outstanding archaeological area contains such magnificent monuments as the Temples of Ramses II at Abu Simbel and the Sanctuary of Isis at Philae, which were saved from the rising waters of the Nile thanks to the International Campaign launched by UNESCO, in 1960 to 1980.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "في هذه المنطقة الأثريّة مبانٍ مثيرة للعجب مثل معبد رمسيس الثاني في أبو سمبل ودار عبادة إيزيس في جزيرة فيلة اللذين أمكن انقاذهما لدى بناء سدّ أسوان بفضل حملةٍ دوليّةٍ أطلقتها اليونسكو عام 1960 واستمرت حتّى العام 1980.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Simbel%2002%20977.PNG?width=1280",
+   "title": "Abu Simbel 02 977.PNG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Abu%20Simbel%2002%20977.PNG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_88.jpg",
+   "title": "Nubian Monuments from Abu Simbel to Philae",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/88",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/88",
+ "transport": {
+  "airports": [
+   {
+    "name": "Abu Simbel Airport",
+    "iata": "ABS",
+    "city": "Abu Simbel",
+    "country": "EG",
+    "lat": 22.375924,
+    "lon": 31.611734,
+    "type": "medium_airport",
+    "distance_km": 4.6
+   },
+   {
+    "name": "Aswan International Airport",
+    "iata": "ASW",
+    "city": "Aswan",
+    "country": "EG",
+    "lat": 23.961075,
+    "lon": 32.820382,
+    "type": "large_airport",
+    "distance_km": 218.0
+   },
+   {
+    "name": "Dongola Airport",
+    "iata": "DOG",
+    "city": "Dongola",
+    "country": "SD",
+    "lat": 19.153666,
+    "lon": 30.430069,
+    "type": "medium_airport",
+    "distance_km": 375.1
+   }
+  ],
+  "nearest_airport_km": 4.6,
+  "distance_beijing_km": 8018.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EG",
+  "country_zh": "埃及",
+  "country_en": "Egypt",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][47]",
+  "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EG",
+   "country_zh": "埃及",
+   "country_en": "Egypt",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][47]",
+   "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 11
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/88"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

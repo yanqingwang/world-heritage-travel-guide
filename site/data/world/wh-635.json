@@ -1,0 +1,162 @@
+{
+ "id": "wh-635",
+ "unesco_id": "635",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 354,
+ "popularity_score": 24218,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Cher, Centre Region",
+ "subdivision_iso": "FR-18",
+ "subdivision_zh": "谢尔省",
+ "subdivision_en": "Cher",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布尔日大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Bourges Cathedral",
+ "name_local": "Cathédrale de Bourges",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "635-bourges_cathedral",
+ "lat": 47.08222,
+ "lon": 2.39917,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "布尔日·圣·艾蒂安大教堂(the Cathedral of St Etienne of Bourges)建于12世纪末至13世纪末期间，是杰出的哥特式建筑杰作之一，其完美的比例和协调的设计令人称羡。教堂的门楣、雕塑和彩色玻璃窗特别引人注目。除了漂亮的建筑，教堂还表现了中世纪法国基督教的权力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Cathedral of St Etienne of Bourges, built between the late 12th and late 13th centuries, is one of the great masterpieces of Gothic art and is admired for its proportions and the unity of its design. The tympanum, sculptures and stained-glass windows are particularly striking. Apart from the beauty of the architecture, it attests to the power of Christianity in medieval France.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Admirable par ses proportions et l'unité de sa conception, la cathédrale Saint-Étienne de Bourges, construite entre la fin du XII e et la fin du XIII e siècle, est l'un des grands chefs-d'œuvre de l'art gothique. Son tympan, ses sculptures et ses vitraux sont particulièrement remarquables. Par-delà sa beauté architecturale, elle témoigne de la puissance du christianisme dans la France médiévale.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bourges-Kathedrale-110-2008-gje.jpg?width=1280",
+   "title": "Bourges-Kathedrale-110-2008-gje.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bourges-Kathedrale-110-2008-gje.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_635.jpg",
+   "title": "Bourges Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/635",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/635",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tours Val de Loire Airport",
+    "iata": "TUF",
+    "city": "Tours, Indre-et-Loire",
+    "country": "FR",
+    "lat": 47.432201,
+    "lon": 0.727606,
+    "type": "medium_airport",
+    "distance_km": 132.0
+   },
+   {
+    "name": "Clermont-Ferrand Auvergne airport",
+    "iata": "CFE",
+    "city": "Clermont-Ferrand",
+    "country": "FR",
+    "lat": 45.786701,
+    "lon": 3.16917,
+    "type": "large_airport",
+    "distance_km": 155.7
+   },
+   {
+    "name": "Limoges Airport",
+    "iata": "LIG",
+    "city": "Limoges/Bellegarde",
+    "country": "FR",
+    "lat": 45.862801,
+    "lon": 1.17944,
+    "type": "medium_airport",
+    "distance_km": 164.6
+   }
+  ],
+  "nearest_airport_km": 132.0,
+  "distance_beijing_km": 8407.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 51
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/635"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bourges%20Cathedral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

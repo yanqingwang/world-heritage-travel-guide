@@ -1,0 +1,122 @@
+{
+ "id": "cn-1320",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "内蒙古自治区",
+ "province_en": "Inner Mongolia",
+ "province_iso": "CN-NM",
+ "city_zh": "赤峰市",
+ "city_en": "Chifeng City",
+ "name_zh": "赤峰市阿斯哈图石林景区",
+ "name_en": "Chifengshiasihatushilin Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "chifengshiasihatushilin-1320",
+ "lat": 43.941128,
+ "lon": 117.527176,
+ "address_zh": "赤峰市克什克腾旗巴彦查干苏木",
+ "address_en": "Bayanchagansumu, Keshiketeng Banner, Chifeng City",
+ "address_en_source": "machine_translation",
+ "category": "desert",
+ "category_zh": "草原沙漠",
+ "category_en": "Grassland & desert",
+ "intro_zh": "克什克腾石阵即阿斯哈图石林，是一个以奇石、险峰、草原、白桦林为主要特色的景区。石林沿山脊呈北东向展布，分为三个核心景区，展现了石林之秀、石林之美、石林之灵、石林之形。",
+ "intro_en": "Keshiketeng Stone Circle, also known as Ashatu Stone Forest, is a scenic spot with strange rocks, dangerous peaks, grasslands and birch forests as its main features. The stone forest spreads northeast along the ridge and is divided into three core scenic areas, showing the beauty, spirit and shape of the stone forest.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xilinhot Airport",
+    "iata": "XIL",
+    "city": "Xilinhot",
+    "country": "CN",
+    "lat": 43.91559982299805,
+    "lon": 115.96399688720703,
+    "type": "medium_airport",
+    "distance_km": 125.2
+   },
+   {
+    "name": "Chifeng Yulong Airport",
+    "iata": "CIF",
+    "city": "Chifeng",
+    "country": "CN",
+    "lat": 42.159723,
+    "lon": 118.840971,
+    "type": "medium_airport",
+    "distance_km": 225.0
+   },
+   {
+    "name": "Holingol Huolinhe Airport",
+    "iata": "HUO",
+    "city": "Holingol",
+    "country": "CN",
+    "lat": 45.487222,
+    "lon": 119.407222,
+    "type": "medium_airport",
+    "distance_km": 227.2
+   }
+  ],
+  "nearest_airport_km": 125.2,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "宇宙地",
+    "name_en": "Yuzhoudi",
+    "lat": 43.5481476,
+    "lon": 117.880408,
+    "distance_km": 52.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南洼营",
+    "name_en": "Nanwaying",
+    "lat": 43.5113753,
+    "lon": 117.8186904,
+    "distance_km": 53.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "嘎拉德斯汰",
+    "name_en": "Galadesitai",
+    "lat": 43.4350225,
+    "lon": 117.6992278,
+    "distance_km": 58.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

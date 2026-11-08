@@ -1,0 +1,142 @@
+{
+ "id": "wh-715",
+ "unesco_id": "715",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 374,
+ "popularity_score": 21985,
+ "country": "CL",
+ "country_zh": "智利",
+ "country_en": "Chile",
+ "countries": [
+  {
+   "iso2": "CL",
+   "zh": "智利",
+   "en": "Chile"
+  }
+ ],
+ "region": "Easter Island province of the Valparaíso Region",
+ "subdivision_iso": "CL-VS",
+ "subdivision_zh": "瓦尔帕莱索大区",
+ "subdivision_en": "Valparaíso Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "拉帕努伊国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rapa Nui National Park",
+ "name_local": "Parque Nacional Rapa Nui",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "715-rapa_nui_national_park",
+ "lat": -27.072877,
+ "lon": -109.348579,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "拉帕努伊是当地人对复活节岛(Easter Island)的称呼，岛上酝酿了一种独特的文化现象。公元300年时玻利尼西亚人(Polynesian)在没有外界影响下，形成了自己独特的、想象丰富的、原汁原味的纪念性雕刻和建筑传统。从10世纪到16世纪，玻利尼西亚人陆续建立了许多神殿，竖起了许多称为莫阿伊(moai)的巨大的石像，至今仍是一道无与伦比的文化风景，吸引全世界各地游人慕名来访。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Rapa Nui, the indigenous name of Easter Island, bears witness to a unique cultural phenomenon. A society of Polynesian origin that settled there c. A.D. 300 established a powerful, imaginative and original tradition of monumental sculpture and architecture, free from any external influence. From the 10th to the 16th century this society built shrines and erected enormous stone figures known as moai , which created an unrivalled cultural landscape that continues to fascinate people throughout the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Rapa Nui –nombre indí­gena de la Isla de Pascua– ofrece el testimonio de un fenómeno cultural único en el mundo. Asentada en esta isla hacia el año 300 d.C., una sociedad de origen polinesio creó, al margen de toda influencia externa, grandiosas formas arquitectónicas y esculturales dotadas de una gran fuerza, imaginación y originalidad. Desde el siglo X al XVI, construyó santuarios y esculpió numerosos ”moai“, gigantescos personajes de piedra que forman un paisaje cultural inigualable y fascinan hoy al mundo entero.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Osterinsel%20Krater-Rano%20Kao.jpg?width=1280",
+   "title": "Osterinsel Krater-Rano Kao.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Osterinsel%20Krater-Rano%20Kao.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_715.jpg",
+   "title": "Rapa Nui National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/715",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/715",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mataveri International Airport",
+    "iata": "IPC",
+    "city": "Isla De Pascua",
+    "country": "CL",
+    "lat": -27.165411,
+    "lon": -109.421027,
+    "type": "large_airport",
+    "distance_km": 12.5
+   }
+  ],
+  "nearest_airport_km": 12.5,
+  "distance_beijing_km": 15574.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CL",
+  "country_zh": "智利",
+  "country_en": "Chile",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6][39]",
+  "notes": "National visa may be substituted with a visa issued by Canada or the United States which is valid for a minimum of 6 months from the arrival date, or PR Card (green card)."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CL",
+   "country_zh": "智利",
+   "country_en": "Chile",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6][39]",
+   "notes": "National visa may be substituted with a visa issued by Canada or the United States which is valid for a minimum of 6 months from the arrival date, or PR Card (green card)."
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/715"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rapa%20Nui%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-1423",
+ "unesco_id": "1423",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 956,
+ "popularity_score": null,
+ "country": "IR",
+ "country_zh": "伊朗",
+ "country_en": "Iran",
+ "countries": [
+  {
+   "iso2": "IR",
+   "zh": "伊朗",
+   "en": "Iran"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "梅满德",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cultural Landscape of Maymand",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1423-cultural_landscape_of_maymand",
+ "lat": 33.74695630819231,
+ "lon": 51.33943194923077,
+ "coord_accuracy": "country_centroid",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)",
+ "year": "2015",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "梅满德是伊朗中部山脉南端终点谷底尽头孤立的半沙漠地区。居民是从事农牧业的半游牧民族。他们在山区牧场放牧，春秋两季住在山区临时定居点里，冬季则住在山谷底部在软岩（卡玛尔凝灰岩）上凿出的窑洞里，这种窑洞在干旱的沙漠地区非常罕见。这一文化景观呈现了一套过去曾经非常普遍的游牧系统，主要是为了适应人的迁移，而不是动物的迁徙。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Maymand is a self-contained, semi-arid area at the end of a valley at the southern extremity of Iran’s central mountains. The villagers are semi-nomadic agro-pastoralists. They raise their animals on mountain pastures, living in temporary settlements in spring and autumn. During the winter months they live lower down the valley in cave dwellings carved out of the soft rock ( kamar ), an unusual form of housing in a dry, desert environment. This cultural landscape is an example of a system that appears to have been more widespread in the past and involves the movement of people rather than animals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1423.jpg",
+   "title": "Cultural Landscape of Maymand",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1423",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1423",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kashan Airport",
+    "iata": "KKS",
+    "city": "Kashan",
+    "country": "IR",
+    "lat": 33.895302,
+    "lon": 51.577,
+    "type": "medium_airport",
+    "distance_km": 27.5
+   },
+   {
+    "name": "Isfahan Shahid Beheshti International Airport",
+    "iata": "IFN",
+    "city": "Isfahan",
+    "country": "IR",
+    "lat": 32.755142,
+    "lon": 51.883877,
+    "type": "large_airport",
+    "distance_km": 121.3
+   },
+   {
+    "name": "Imam Khomeini International Airport",
+    "iata": "IKA",
+    "city": "Tehran",
+    "country": "IR",
+    "lat": 35.416099548339844,
+    "lon": 51.152198791503906,
+    "type": "large_airport",
+    "distance_km": 186.4
+   }
+  ],
+  "nearest_airport_km": 27.5,
+  "distance_beijing_km": 5686.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IR",
+  "country_zh": "伊朗",
+  "country_en": "Iran",
+  "status": "visa_free",
+  "days": 21,
+  "requirement": "Visa not required[6][60]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IR",
+   "country_zh": "伊朗",
+   "country_en": "Iran",
+   "status": "visa_free",
+   "days": 21,
+   "requirement": "Visa not required[6][60]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1423"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

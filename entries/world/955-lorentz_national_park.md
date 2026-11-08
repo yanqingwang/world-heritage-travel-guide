@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(viii)(ix)(x)"
 lat: -4.75
 lon: 137.833333
-updated_at: "2026-11-08T12:18:58Z"
+updated_at: "2026-11-08T14:52:37Z"
 ---
 
 # 洛伦茨国家公园 / Lorentz National Park

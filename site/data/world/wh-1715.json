@@ -1,0 +1,150 @@
+{
+ "id": "wh-1715",
+ "unesco_id": "1715",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1017,
+ "popularity_score": null,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "格丁尼亚现代主义市中心",
+ "name_zh_source": "curated",
+ "name_en": "Gdynia Modernist City Centre",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1715-gdynia_modernist_city_centre",
+ "lat": 54.52083333,
+ "lon": 18.53888889,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "“格丁尼亚现代主义市中心”位于波罗的海沿岸，涵盖了两条最重要的东西向和南北向街道，以两次世界大战期间的规划街区和市中心保存的大部分那个时期的建筑为特色，反映了现代主义思想在建筑设计中的大规模运用。其结果是形成一个城市有机体，利用基于构建块的规划方法来开发具有特色、紧凑的现代主义建筑群，并具有强大的个性化建筑表达。市中心及其卡缅纳古拉山上的建筑、别墅和这一时期的其他住宅建筑，说明了格丁尼亚在第一次和第二次世界大战之间将格丁尼亚村转变为波兰第一共和国新的主要海上门户的过程中与历史主义的重大决裂。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Located on the Baltic Sea coast, \"Gdynia Modernist City Centre\" encompasses the two most significant east-west and north-south streets, featuring interwar planning blocks and the majority of the city centre’s preserved buildings from that period, which reflect the large-scale application of modernist ideas in architectural design. The result is an urban organism that harnesses a building-block-based planning approach to develop a characteristic, compact complex of modernist architecture, with robust individual architectural expressions. The city centre, with its buildings, villas on Kamienna Góra hill, and other residential buildings of this period, illustrates a critical break with historicism in the progression of turning the village of Gdynia into a new major sea gateway of the first Polish Republic between the First and Second World Wars.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1715.jpg",
+   "title": "Gdynia Modernist City Centre",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1715",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1715",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "iata": "GDN",
+    "city": "Gdańsk",
+    "country": "PL",
+    "lat": 54.377602,
+    "lon": 18.4662,
+    "type": "large_airport",
+    "distance_km": 16.6
+   },
+   {
+    "name": "Khrabrovo Airport",
+    "iata": "KGD",
+    "city": "Kaliningrad",
+    "country": "RU",
+    "lat": 54.89161,
+    "lon": 20.598559,
+    "type": "large_airport",
+    "distance_km": 138.6
+   },
+   {
+    "name": "Ignacy Jan Paderewski Bydgoszcz Airport",
+    "iata": "BZG",
+    "city": "Bydgoszcz",
+    "country": "PL",
+    "lat": 53.096802,
+    "lon": 17.977699,
+    "type": "medium_airport",
+    "distance_km": 162.6
+   }
+  ],
+  "nearest_airport_km": 16.6,
+  "distance_beijing_km": 6959.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1715"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

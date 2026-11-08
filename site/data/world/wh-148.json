@@ -1,0 +1,132 @@
+{
+ "id": "wh-148",
+ "unesco_id": "148",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 969,
+ "popularity_score": null,
+ "country": "XJ",
+ "country_zh": "耶路撒冷（约旦提名）",
+ "country_en": "Jerusalem (proposed by Jordan)",
+ "countries": [],
+ "region": "Jerusalem District",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "耶路撒冷古城及其城墙",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old City of Jerusalem and its Walls",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "148-old_city_of_jerusalem_and_its_walls",
+ "lat": 31.778214,
+ "lon": 35.23191,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(vi)",
+ "year": "1981",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "耶路撒冷作为犹太教、基督教和伊斯兰教三大宗教的圣城，具有极高的象征意义。在它220多处具有历史意义的建筑物中，有建于7世纪的著名岩石圆顶寺，其外墙装饰有许多美丽的几何图案和植物图案。三大宗教都认为耶路撒冷是亚伯拉罕的殉难地。哭墙分隔出代表三种不同宗教的部分，圣墓大教堂的复活大殿里庇护着耶稣的墓地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "As a holy city for Judaism, Christianity and Islam, Jerusalem has always been of great symbolic importance. Among its 220 historic monuments, the Dome of the Rock stands out: built in the 7th century, it is decorated with beautiful geometric and floral motifs. It is recognized by all three religions as the site of Abraham's sacrifice. The Wailing Wall delimits the quarters of the different religious communities, while the Resurrection rotunda in the Church of the Holy Sepulchre houses Christ's tomb.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_148.jpg",
+   "title": "Old City of Jerusalem and its Walls",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/148",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/148",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ben Gurion International Airport",
+    "iata": "TLV",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.011398,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "distance_km": 41.6
+   },
+   {
+    "name": "Queen Alia International Airport",
+    "iata": "AMM",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.7226009369,
+    "lon": 35.9931983948,
+    "type": "large_airport",
+    "distance_km": 72.2
+   },
+   {
+    "name": "Marka International (Amman Civil) Airport",
+    "iata": "ADJ",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "distance_km": 74.9
+   }
+  ],
+  "nearest_airport_km": 41.6,
+  "distance_beijing_km": 7140.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "status": "unknown"
+ },
+ "visa_by_country": [],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/148"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

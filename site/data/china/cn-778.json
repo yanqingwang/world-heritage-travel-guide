@@ -1,0 +1,219 @@
+{
+ "id": "cn-778",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山西省",
+ "province_en": "Shanxi",
+ "province_iso": "CN-SX",
+ "city_zh": "晋中市",
+ "city_en": "Jinzhong",
+ "name_zh": "晋中市平遥古城景区",
+ "name_en": "Jinzhongshipingyaogucheng Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "jinzhongshipingyaogucheng-778",
+ "lat": 37.217329,
+ "lon": 112.188122,
+ "address_zh": "晋中市平遥县古城街道",
+ "address_en": "Gucheng Street, Pingyao County, Jinzhong City",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "平遥古城位于山西省中部平遥县内，1997年被列入世界文化遗产名录。平遥古城是中国汉民族城市在明清时期的杰出范例，在中国历史的发展中，为人们展示了一幅文化、社会、经济及宗教发展的完整画卷。",
+ "intro_en": "Pingyao Ancient City is located in Pingyao County in central Shanxi Province. It was included in the World Cultural Heritage List in 1997. The ancient city of Pingyao is an outstanding example of Chinese Han ethnic cities in the Ming and Qing Dynasties. In the development of Chinese history, it shows people a complete picture of cultural, social, economic and religious development.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pingyao_40.JPG/1280px-Pingyao_40.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pingyao 40.JPG",
+   "author": "Nicor",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pingyao_40.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2016年度全国博物馆名录.pdf",
+   "author": "State Administration of Cultural Heritage",
+   "license": "Public domain",
+   "credit": "http://www.sach.gov.cn/module/download/downfile.jsp?classid=0&filename=1801091048478071079.xlsx",
+   "source": "https://commons.wikimedia.org/wiki/File:2016年度全国博物馆名录.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf",
+   "author": "国家文物局",
+   "license": "Public domain",
+   "credit": "https://whly.gd.gov.cn/uploads/files/2016/1206/1480987302836001.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%99%8B%E6%94%BF%E5%87%BD%E3%80%942021%E3%80%95102%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AD%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%99%8B%E6%94%BF%E5%87%BD%E3%80%942021%E3%80%95102%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "山西省人民政府关于公布第六批省级文物保护单位的通知（晋政函〔2021〕102号）.pdf",
+   "author": "山西省人民政府",
+   "license": "Public domain",
+   "credit": "http://www.shanxi.gov.cn/zfxxgk/zfxxgkzl/fdzdgknr/lzyj/szfwj/202205/t20220513_5976519.shtml",
+   "source": "https://commons.wikimedia.org/wiki/File:山西省人民政府关于公布第六批省级文物保护单位的通知（晋政函〔2021〕102号）.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/1_pingyao_ancient_city_aerial_pano_2019.jpg/1280px-1_pingyao_ancient_city_aerial_pano_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 pingyao ancient city aerial pano 2019.jpg",
+   "author": "Chensiyuan",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:1_pingyao_ancient_city_aerial_pano_2019.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taiyuan Wusu International Airport",
+    "iata": "TYN",
+    "city": "Taiyuan",
+    "country": "CN",
+    "lat": 37.746899,
+    "lon": 112.627998,
+    "type": "large_airport",
+    "distance_km": 70.5
+   },
+   {
+    "name": "Lüliang Dawu Airport",
+    "iata": "LLV",
+    "city": "Lüliang",
+    "country": "CN",
+    "lat": 37.683333,
+    "lon": 111.142778,
+    "type": "medium_airport",
+    "distance_km": 105.8
+   },
+   {
+    "name": "Linfen Yaodu Airport",
+    "iata": "LFQ",
+    "city": "Linfen (Yaodu)",
+    "country": "CN",
+    "lat": 36.132629,
+    "lon": 111.641236,
+    "type": "medium_airport",
+    "distance_km": 130.1
+   }
+  ],
+  "nearest_airport_km": 70.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "平遥",
+    "name_en": "Pingyao",
+    "lat": 37.2064926,
+    "lon": 112.161594,
+    "distance_km": 2.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "平遥古城",
+    "name_en": "Pingyao Ancient City Station",
+    "lat": 37.1547195,
+    "lon": 112.1434193,
+    "distance_km": 8.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "洪善",
+    "name_en": null,
+    "lat": 37.2789962,
+    "lon": 112.2541737,
+    "distance_km": 9.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "平遥29号客栈",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.2087995,
+   "lon": 112.181662,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Heping Residence (Pingyao Ancient City Shop)",
+   "name_en": "Heping Residence (Pingyao Ancient City Shop)",
+   "stars": null,
+   "brand": null,
+   "lat": 37.2084023,
+   "lon": 112.1802114,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "平遥杜门甲第客栈",
+   "name_en": "Pingyao Dumenjiadi Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 37.2066881,
+   "lon": 112.1823014,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "芊朋聚客栈",
+   "name_en": "Qianpengju Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.2115517,
+   "lon": 112.1741596,
+   "distance_km": 1.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "程家老院民俗宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.2087226,
+   "lon": 112.1754178,
+   "distance_km": 1.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 22,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

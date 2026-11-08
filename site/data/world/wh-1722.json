@@ -1,0 +1,162 @@
+{
+ "id": "wh-1722",
+ "unesco_id": "1722",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 369,
+ "popularity_score": 22443,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GB-HLD",
+ "subdivision_zh": "高地",
+ "subdivision_en": "Highland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "弗罗湿地区",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Flow Country",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1722-the_flow_country",
+ "lat": 58.3715,
+ "lon": -3.65845,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)",
+ "year": "2024",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "弗罗湿地区（Flow Country）系列遗产位于苏格兰高地，被视为持续累积的覆被泥炭沼泽的最典型范例。这一泥炭生态系统在过去9千年间不断累积，为多种鸟类提供了多样的栖息地，并展现出全球独一无二的丰富特性。泥炭地在碳储存方面发挥着至关重要的作用。该地区持续形成泥炭的生态过程目前还在继续储存大量碳，具有重要的研究和教育价值。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The serial property, located in the Highland Region of Scotland, is considered the most outstanding example of an actively accumulating blanket bog landscape. This peatland ecosystem, which has been accumulating for the past 9,000 years, provides a diversity of habitats home to a distinct combination of bird species and displays a remarkable diversity of features not found anywhere else on Earth. Peatlands play an important role in storing carbon and the property’s ongoing peat-forming ecological processes continue to sequester carbon on a very large scale, representing a significant research and educational resource.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sutherland%20Flow%20Country.jpg?width=1280",
+   "title": "Sutherland Flow Country.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sutherland%20Flow%20Country.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1722.jpg",
+   "title": "The Flow Country",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1722",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1722",
+ "transport": {
+  "airports": [
+   {
+    "name": "Wick John O'Groats Airport",
+    "iata": "WIC",
+    "city": "Wick",
+    "country": "GB",
+    "lat": 58.4589,
+    "lon": -3.09306,
+    "type": "medium_airport",
+    "distance_km": 34.3
+   },
+   {
+    "name": "Kirkwall Airport",
+    "iata": "KOI",
+    "city": "Kirkwall, Orkney Islands",
+    "country": "GB",
+    "lat": 58.957903,
+    "lon": -2.905077,
+    "type": "medium_airport",
+    "distance_km": 78.4
+   },
+   {
+    "name": "Inverness Airport",
+    "iata": "INV",
+    "city": "Inverness, Highland",
+    "country": "GB",
+    "lat": 57.5425,
+    "lon": -4.0475,
+    "type": "medium_airport",
+    "distance_km": 95.0
+   }
+  ],
+  "nearest_airport_km": 34.3,
+  "distance_beijing_km": 7725.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 11
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1722"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flow%20Country"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

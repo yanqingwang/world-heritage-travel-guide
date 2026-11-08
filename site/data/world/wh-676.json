@@ -1,0 +1,162 @@
+{
+ "id": "wh-676",
+ "unesco_id": "676",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1132,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Zacatecas State, Zacatecas Municipality",
+ "subdivision_iso": "MX-ZAC",
+ "subdivision_zh": "萨卡特卡斯州",
+ "subdivision_en": "Zacatecas",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨卡特卡斯历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Zacatecas",
+ "name_local": "Centro histórico de Zacatecas",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "676-historic_centre_of_zacatecas",
+ "lat": 22.76666667,
+ "lon": -102.55,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "萨卡特卡斯城建于1546年，因为当时在这里发现了一个储量丰富的银矿。该城在16世纪至17世纪达到了繁荣顶点。萨卡特卡斯城建造在一个狭窄河谷的陡坡上，周围环境景色怡人，城中保留有许多古老的宗教建筑和民居建筑。建于1730年到1760年间的大教堂占据了城镇的中心位置，它以其和谐的设计以及教堂正面的巴洛克风格而闻名，来自欧洲的装饰品和当地的饰物被安放在一起，体现出别具特色的美。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in 1546 after the discovery of a rich silver lode, Zacatecas reached the height of its prosperity in the 16th and 17th centuries. Built on the steep slopes of a narrow valley, the town has breathtaking views and there are many old buildings, both religious and civil. The cathedral, built between 1730 and 1760, dominates the centre of the town. It is notable for its harmonious design and the Baroque profusion of its façades, where European and indigenous decorative elements are found side by side.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La ciudad de Zacatecas se fundó en 1546, poco después del descubrimiento de un rico filón de plata, y prosperó gracias a la explotación de este metal precioso, alcanzando su apogeo en los siglos XVI y XVII. Edificada en la escarpada ladera de un estrecho valle, el panorama que ofrece es de una belleza impresionante. Conserva numerosos edificios antiguos, tanto religiosos como civiles, dominados por la silueta de la catedral, construida entre 1730 y 1760. Este templo es una obra arquitectónica excepcional por la armonía de su trazado y la profusa ornamentación barroca de sus fachadas, en las que se combinan los motivos decorativos europeos con los indígenas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ZacatecasView.JPG?width=1280",
+   "title": "ZacatecasView.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:ZacatecasView.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_676.jpg",
+   "title": "Historic Centre of Zacatecas",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/676",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/676",
+ "transport": {
+  "airports": [
+   {
+    "name": "General Leobardo C. Ruiz International Airport",
+    "iata": "ZCL",
+    "city": "Zacatecas",
+    "country": "MX",
+    "lat": 22.894942,
+    "lon": -102.687154,
+    "type": "medium_airport",
+    "distance_km": 20.0
+   },
+   {
+    "name": "Aguascalientes International Airport",
+    "iata": "AGU",
+    "city": "Aguascalientes",
+    "country": "MX",
+    "lat": 21.699589,
+    "lon": -102.318372,
+    "type": "large_airport",
+    "distance_km": 121.0
+   },
+   {
+    "name": "Ponciano Arriaga International Airport",
+    "iata": "SLP",
+    "city": "San Luis Potosí",
+    "country": "MX",
+    "lat": 22.262026,
+    "lon": -100.935692,
+    "type": "medium_airport",
+    "distance_km": 175.1
+   }
+  ],
+  "nearest_airport_km": 20.0,
+  "distance_beijing_km": 11916.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/676"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

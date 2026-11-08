@@ -57,6 +57,11 @@ def main() -> int:
     run("fetch_airports.py")
     run("fetch_wikidata.py")
     run("geocode_unesco.py")
+    # ISO 3166-2 subdivisions are cached per site; only missing records trigger
+    # an API call, so running both resolvers weekly stays inside rate limits.
+    run("fetch_subdivisions.py")
+    if not args.quick:
+        run("fetch_subdivisions_nominatim.py")
 
     if not args.quick:
         wiki_env = {"REFRESH_WIKI": "1"} if (args.refresh_wiki or first_week) else {}

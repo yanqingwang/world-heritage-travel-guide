@@ -1,0 +1,162 @@
+{
+ "id": "wh-1599",
+ "unesco_id": "1599",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 992,
+ "popularity_score": null,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "科舍米翁奇的史前条纹燧石矿区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Krzemionki Prehistoric Striped Flint Mining Region",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1599-krzemionki_prehistoric_striped_flint_min",
+ "lat": 50.968,
+ "lon": 21.5023,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "科舍米翁奇矿区位于圣十字省的山区，由4个采矿点组成。这些采矿点可追溯至新石器时代和青铜时代（公元前3900-1600年），开采和加工的条纹燧石用于石斧制造。该矿区包含地下采矿结构、燧石锻造工坊、4千多口矿井，是迄今发现的最全面的史前地下燧石采集和开发系统之一。该遗产地提供了关于史前人类定居点的生活和工作情况的信息，并见证了已灭绝的文化传统，是史前时期和用于工具生产的燧石开采在人类历史上的重要性的突出见证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in the mountain region of Świętokrzyskie, Krzemionki is an ensemble of four mining sites, dating from the Neolithic to the Bronze Age (about 3900 to 1600 BCE), dedicated to the extraction and processing of striped flint, which was mainly used for axe-making. With its underground mining structures, flint workshops and some 4,000 shafts and pits, the property features one of the most comprehensive prehistoric underground flint extraction and processing systems identified to date. The property provides information about life and work in prehistoric settlements and bears witness to an extinct cultural tradition. It is an exceptional testimony of the importance of the prehistoric period and of flint mining for tool production in human history.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Podziemny%20korytarz%20kopalni%20Krzemionki.%20Wapie%C5%84%20jury%20i%20krzemienie%203.jpg?width=1280",
+   "title": "Podziemny korytarz kopalni Krzemionki. Wapień jury i krzemienie 3.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Podziemny%20korytarz%20kopalni%20Krzemionki.%20Wapie%C5%84%20jury%20i%20krzemienie%203.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1599.jpg",
+   "title": "Krzemionki Prehistoric Striped Flint Mining Region",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1599",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1599",
+ "transport": {
+  "airports": [
+   {
+    "name": "Warsaw Radom Airport",
+    "iata": "RDO",
+    "city": "Radom",
+    "country": "PL",
+    "lat": 51.38937,
+    "lon": 21.214742,
+    "type": "medium_airport",
+    "distance_km": 51.0
+   },
+   {
+    "name": "Lublin Airport",
+    "iata": "LUZ",
+    "city": "Lublin",
+    "country": "PL",
+    "lat": 51.240157,
+    "lon": 22.713461,
+    "type": "large_airport",
+    "distance_km": 89.8
+   },
+   {
+    "name": "Rzeszów-Jasionka Airport",
+    "iata": "RZE",
+    "city": "Jasionka",
+    "country": "PL",
+    "lat": 50.109791,
+    "lon": 22.024155,
+    "type": "large_airport",
+    "distance_km": 102.3
+   }
+  ],
+  "nearest_airport_km": 51.0,
+  "distance_beijing_km": 6973.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1599"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

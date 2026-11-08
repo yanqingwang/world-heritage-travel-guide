@@ -1,0 +1,154 @@
+{
+ "id": "wh-892",
+ "unesco_id": "892",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1188,
+ "popularity_score": null,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "Atlantic Coast, states of Bahia and Espirito Santo, northeast Brazil",
+ "subdivision_iso": "BR-BA",
+ "subdivision_zh": "",
+ "subdivision_en": "Bahia",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "大西洋沿岸热带雨林保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Discovery Coast Atlantic Forest Reserves",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "892-discovery_coast_atlantic_forest_reserves",
+ "lat": -16.5,
+ "lon": -39.25,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "大西洋沿岸热带雨林保护区位于巴伊亚州(Bahia)和圣埃斯皮图里州(Espírito Santo)，由八个独立的保护区组成，拥有112 000公顷的大西洋森林和灌木。巴西大西洋沿岸的热带雨林是世界上生物多样性最丰富的地区。这个地区内生长有许多极具当地特色的动植物物种，反映了物种的进化过程，不仅仅具有很高的科学价值，同是也有很高的保护意义。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Discovery Coast Atlantic Forest Reserves, in the states of Bahia and Espírito Santo, consist of eight separate protected areas containing 112,000 ha of Atlantic forest and associated shrub ( restingas ). The rainforests of Brazil’s Atlantic coast are the world’s richest in terms of biodiversity. The site contains a distinct range of species with a high level of endemism and reveals a pattern of evolution that is not only of great scientific interest but is also of importance for conservation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_892.jpg",
+   "title": "Discovery Coast Atlantic Forest Reserves",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/892",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/892",
+ "transport": {
+  "airports": [
+   {
+    "name": "Porto Seguro International Airport",
+    "iata": "BPS",
+    "city": "Porto Seguro",
+    "country": "BR",
+    "lat": -16.438426,
+    "lon": -39.080584,
+    "type": "large_airport",
+    "distance_km": 19.3
+   },
+   {
+    "name": "Una-Comandatuba Airport",
+    "iata": "UNA",
+    "city": "Una",
+    "country": "BR",
+    "lat": -15.354358,
+    "lon": -38.998729,
+    "type": "small_airport",
+    "distance_km": 130.2
+   },
+   {
+    "name": "Bahia - Jorge Amado Airport",
+    "iata": "IOS",
+    "city": "Ilhéus",
+    "country": "BR",
+    "lat": -14.815929,
+    "lon": -39.033458,
+    "type": "medium_airport",
+    "distance_km": 188.7
+   }
+  ],
+  "nearest_airport_km": 19.3,
+  "distance_beijing_km": 16491.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/892"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

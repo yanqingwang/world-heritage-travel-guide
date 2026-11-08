@@ -1,0 +1,159 @@
+{
+ "id": "wh-710",
+ "unesco_id": "710",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1137,
+ "popularity_score": null,
+ "country": "GE",
+ "country_zh": "格鲁吉亚",
+ "country_en": "Georgia",
+ "countries": [
+  {
+   "iso2": "GE",
+   "zh": "格鲁吉亚",
+   "en": "Georgia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GE-IM",
+ "subdivision_zh": "",
+ "subdivision_en": "Imereti",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "格拉蒂修道院",
+ "name_zh_source": "curated",
+ "name_en": "Gelati Monastery",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "710-gelati_monastery",
+ "lat": 42.26222,
+ "lon": 42.71639,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "格拉提修道院始建于 1106 年，位于格鲁吉亚西部，是中世纪格鲁吉亚黄金时代的杰作，该时期是 11 世纪至 13 世纪政治实力和经济增长的时期。它的特点是光滑的大块立面、平衡的比例和用于外部装饰的盲拱。格拉蒂修道院是中世纪最大的东正教修道院之一，也是科学和教育中心，其所在的学院是古代格鲁吉亚最重要的文化中心之一。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece of the Golden Age of medieval Georgia, a period of political strength and economic growth between the 11th and 13th centuries. It is characterized by the facades of smoothly hewn large blocks, balanced proportions and blind arches for exterior decoration. The Gelati monastery, one of the largest medieval Orthodox monasteries, was also a centre of science and education and the Academy it housed was one of the most important centres of culture in ancient Georgia.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kutaisi%2C%20Bagrati%20Cathedral%20%2835702146540%29.jpg?width=1280",
+   "title": "Kutaisi, Bagrati Cathedral (35702146540).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kutaisi%2C%20Bagrati%20Cathedral%20%2835702146540%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_710.jpg",
+   "title": "Gelati Monastery",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/710",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/710",
+ "transport": {
+  "airports": [
+   {
+    "name": "David the Builder Kutaisi International Airport",
+    "iata": "KUT",
+    "city": "Kopitnari",
+    "country": "GE",
+    "lat": 42.177448,
+    "lon": 42.485353,
+    "type": "large_airport",
+    "distance_km": 21.2
+   },
+   {
+    "name": "Alexander Kartveli Batumi International Airport",
+    "iata": "BUS",
+    "city": "Batumi",
+    "country": "GE",
+    "lat": 41.60939,
+    "lon": 41.600315,
+    "type": "large_airport",
+    "distance_km": 117.4
+   },
+   {
+    "name": "Vladislav Ardzinba Sukhum International Airport",
+    "iata": "SUI",
+    "city": "Sukhumi",
+    "country": "GE",
+    "lat": 42.8582,
+    "lon": 41.128101,
+    "type": "large_airport",
+    "distance_km": 146.0
+   }
+  ],
+  "nearest_airport_km": 21.2,
+  "distance_beijing_km": 6005.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GE",
+  "country_zh": "格鲁吉亚",
+  "country_en": "Georgia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Holders of valid visas or residence permits of EU/EFTA/GCC countries, overseas territories of EU countries (except Anguilla, Montserrat, Pitcairn, Saint Helena, Ascension and Tristan da Cunha), Australia, Canada, Israel, Japan, New Zealand, South Korea, United Kingdom, or the United States - visa-fr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GE",
+   "country_zh": "格鲁吉亚",
+   "country_en": "Georgia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Holders of valid visas or residence permits of EU/EFTA/GCC countries, overseas territories of EU countries (except Anguilla, Montserrat, Pitcairn, Saint Helena, Ascension and Tristan da Cunha), Australia, Canada, Israel, Japan, New Zealand, South Korea, United Kingdom, or the United States - visa-fr"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/710"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

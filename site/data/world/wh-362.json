@@ -1,0 +1,162 @@
+{
+ "id": "wh-362",
+ "unesco_id": "362",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 346,
+ "popularity_score": 24840,
+ "country": "LY",
+ "country_zh": "利比亚",
+ "country_en": "Libya",
+ "countries": [
+  {
+   "iso2": "LY",
+   "zh": "利比亚",
+   "en": "Libya"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "LY-NL",
+ "subdivision_zh": "納盧特省",
+ "subdivision_en": "Nalut District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加达梅斯古镇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old Town of Ghadamès",
+ "name_local": "مدينة غدامس القديمة",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "362-old_town_of_ghadamès",
+ "lat": 30.133333333,
+ "lon": 9.5,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "加达梅斯古镇建在沙漠绿洲上，历来以“沙漠之珠”著称，是撒哈拉北部边缘最古老的城市之一，同时也是传统聚集地的典范。那里，家庭建筑的突出特点是每一层都有不同的作用：底层储备给养，在漆黑封闭的过道上面另外突出的一层供家人生活居住，而顶层露天的平台是专为妇女准备的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Ghadamès, known as 'the pearl of the desert', stands in an oasis. It is one of the oldest pre-Saharan cities and an outstanding example of a traditional settlement. Its domestic architecture is characterized by a vertical division of functions: the ground floor used to store supplies; then another floor for the family, overhanging covered alleys that create what is almost an underground network of passageways; and, at the top, open-air terraces reserved for the women.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "بنيت غدامس في واحة وسميت \"لؤلؤة الصحراء\" وهي إحدى أقدم المدن التي قامت في حقبة ما قبل الصحراء وخير مثال على الموئل التقليدي. وتتميز هندستها المنزلية بتوزيعها الوظائف المختلفة على مختلف الطبقات: الطبقة الأرضية لتخزين المؤونة، والطبقة العائلية تشرف على ممرات مسقوفة مموهة تسمح بتنقل تحت الأرض تقريبًا في المدينة وشرفات مكشوفة مخصصة للنساء.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghadames%2C%202006.jpg?width=1280",
+   "title": "Ghadames, 2006.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghadames%2C%202006.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_362.jpg",
+   "title": "Old Town of Ghadamès",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/362",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/362",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ghadames Airport",
+    "iata": "LTD",
+    "city": "Ghadames",
+    "country": "LY",
+    "lat": 30.145484,
+    "lon": 9.702095,
+    "type": "medium_airport",
+    "distance_km": 19.5
+   },
+   {
+    "name": "Zarzaitine - In Aménas Airport",
+    "iata": "IAM",
+    "city": "In Aménas",
+    "country": "DZ",
+    "lat": 28.0515,
+    "lon": 9.64291,
+    "type": "medium_airport",
+    "distance_km": 231.9
+   },
+   {
+    "name": "Hassi Messaoud-Oued Irara Krim Belkacem Airport",
+    "iata": "HME",
+    "city": "Hassi Messaoud",
+    "country": "DZ",
+    "lat": 31.673,
+    "lon": 6.14044,
+    "type": "medium_airport",
+    "distance_km": 363.4
+   }
+  ],
+  "nearest_airport_km": 19.5,
+  "distance_beijing_km": 9169.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LY",
+  "country_zh": "利比亚",
+  "country_en": "Libya",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][81]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LY",
+   "country_zh": "利比亚",
+   "country_en": "Libya",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][81]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 66
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/362"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ghadames"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

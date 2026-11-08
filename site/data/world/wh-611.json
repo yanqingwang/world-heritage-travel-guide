@@ -1,0 +1,162 @@
+{
+ "id": "wh-611",
+ "unesco_id": "611",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 479,
+ "popularity_score": 14525,
+ "country": "YE",
+ "country_zh": "也门",
+ "country_en": "Yemen",
+ "countries": [
+  {
+   "iso2": "YE",
+   "zh": "也门",
+   "en": "Yemen"
+  }
+ ],
+ "region": "Province d'al-Hudayda",
+ "subdivision_iso": "YE-HU",
+ "subdivision_zh": "荷台达省",
+ "subdivision_en": "Al Hudaydah Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "乍比得历史古城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Town of Zabid",
+ "name_local": "حاضرة زبيد التاريخية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "611-historic_town_of_zabid",
+ "lat": 14.2,
+ "lon": 43.316666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1993",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "乍比得的民用和军事建筑及其城市规则使之具有杰出的考古和历史价值。除了在13世纪到15世纪曾作为首都，许多世纪以来由于乍比得的伊斯兰大学，使得该城在阿拉伯和穆斯林世界发挥着重要作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Zabid's domestic and military architecture and its urban plan make it an outstanding archaeological and historical site. Besides being the capital of Yemen from the 13th to the 15th century, the city played an important role in the Arab and Muslim world for many centuries because of its Islamic university.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تشكل هذه المدينة موقعاً ذا أهمية أثرية وتاريخية استثنائية بفضل هندستها المحلية والعسكرية وتخطيطها المدني. وبالإضافة الى انها كانت عاصمة اليمن من القرن الثالث عشر الى القرن الخامس عشر، اتسمت زبيد بأهمية جمة في العالم العربي والإسلامي طيلة قرون من الزمن بفضل جامعتها الإسلامية.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zabid%2C%20Yemen.jpg?width=1280",
+   "title": "Zabid, Yemen.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Zabid%2C%20Yemen.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_611.jpg",
+   "title": "Historic Town of Zabid",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/611",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/611",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taiz International Airport",
+    "iata": "TAI",
+    "city": "Taiz",
+    "country": "YE",
+    "lat": 13.686,
+    "lon": 44.139099,
+    "type": "medium_airport",
+    "distance_km": 105.6
+   },
+   {
+    "name": "Sanaa International Airport",
+    "iata": "SAH",
+    "city": "Sanaa",
+    "country": "YE",
+    "lat": 15.4763,
+    "lon": 44.2197,
+    "type": "large_airport",
+    "distance_km": 171.9
+   },
+   {
+    "name": "Aden International Airport",
+    "iata": "ADE",
+    "city": "Aden",
+    "country": "YE",
+    "lat": 12.829564,
+    "lon": 45.029976,
+    "type": "large_airport",
+    "distance_km": 239.9
+   }
+  ],
+  "nearest_airport_km": 105.6,
+  "distance_beijing_km": 7547.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "YE",
+  "country_zh": "也门",
+  "country_en": "Yemen",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "YE",
+   "country_zh": "也门",
+   "country_en": "Yemen",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 55
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/611"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Zabid"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

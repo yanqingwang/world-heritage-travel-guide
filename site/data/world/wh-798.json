@@ -1,0 +1,162 @@
+{
+ "id": "wh-798",
+ "unesco_id": "798",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1165,
+ "popularity_score": null,
+ "country": "BD",
+ "country_zh": "孟加拉国",
+ "country_en": "Bangladesh",
+ "countries": [
+  {
+   "iso2": "BD",
+   "zh": "孟加拉国",
+   "en": "Bangladesh"
+  }
+ ],
+ "region": "South-Western Region (Khulna Division)",
+ "subdivision_iso": "BD-27",
+ "subdivision_zh": "库尔纳县",
+ "subdivision_en": "Khulna District",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "孙德尔本斯国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Sundarbans",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "798-the_sundarbans",
+ "lat": 22.033333333,
+ "lon": 89.516666666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "孙德尔本斯有着世界上最大的红树森林之一（占地140 000公顷），位于孟加拉湾的恒河 (Ganges)、布拉马普特拉河(Brahmaputra)和梅克纳河(Meghna)三角洲。公园毗邻1987年列入的印度孙德尔本斯世界遗产地。公园内遍布潮汐河道、泥滩和耐盐的红树林小岛，是成长型生态过程的范例。该地区因动物物种多样性而闻名于世，其中包括260种鸟类，还有孟加拉虎和其他濒危物种，如湾鳄和印度蟒蛇。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boat%20in%20the%20middle%20of%20a%20jungle.jpg?width=1280",
+   "title": "Boat in the middle of a jungle.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Boat%20in%20the%20middle%20of%20a%20jungle.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_798.jpg",
+   "title": "The Sundarbans",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/798",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/798",
+ "transport": {
+  "airports": [
+   {
+    "name": "Barisal Airport",
+    "iata": "BZL",
+    "city": "Barisal",
+    "country": "BD",
+    "lat": 22.801001,
+    "lon": 90.301201,
+    "type": "medium_airport",
+    "distance_km": 117.4
+   },
+   {
+    "name": "Netaji Subhash Chandra Bose International Airport",
+    "iata": "CCU",
+    "city": "Kolkata",
+    "country": "IN",
+    "lat": 22.654012,
+    "lon": 88.44765,
+    "type": "large_airport",
+    "distance_km": 129.8
+   },
+   {
+    "name": "Jessore Airport",
+    "iata": "JSR",
+    "city": "Jashore (Jessore)",
+    "country": "BD",
+    "lat": 23.1838,
+    "lon": 89.160797,
+    "type": "medium_airport",
+    "distance_km": 133.0
+   }
+  ],
+  "nearest_airport_km": 117.4,
+  "distance_beijing_km": 3127.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BD",
+  "country_zh": "孟加拉国",
+  "country_en": "Bangladesh",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Visa on arrival[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BD",
+   "country_zh": "孟加拉国",
+   "country_en": "Bangladesh",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Visa on arrival[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/798"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

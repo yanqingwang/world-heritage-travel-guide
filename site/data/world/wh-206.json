@@ -1,0 +1,162 @@
+{
+ "id": "wh-206",
+ "unesco_id": "206",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 874,
+ "popularity_score": 109,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "Région autonome des Açores",
+ "subdivision_iso": "PT-20",
+ "subdivision_zh": "亚速尔群岛",
+ "subdivision_en": "Azores",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "亚速尔群岛英雄港中心区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Central Zone of the Town of Angra do Heroismo in the Azores",
+ "name_local": "Centro Histórico de Angra do Heroísmo",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "206-central_zone_of_the_town_of_angra_do_her",
+ "lat": 38.655,
+ "lon": -27.22,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "英雄港位于亚速尔群岛众多岛屿中之一，从公元15世纪开始，一直到公元19世纪汽船问世，来往船只都会在这里停靠。岛上有400年历史的圣塞巴斯蒂安要塞和圣胡安包蒂斯塔要塞是军事建筑中的两个独特典范之作。安格拉在1980年的地震中不幸被毁，现正在修复之中。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated on one of the islands in the Azores archipelago, this was an obligatory port of call from the 15th century until the advent of the steamship in the 19th century. The 400-year-old San Sebastião and San João Baptista fortifications are unique examples of military architecture. Damaged by an earthquake in 1980, Angra is now being restored.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "O Centro Histórico de Angra do Heroísmo localiza-se na cidade de mesmo nome, na Ilha Terceira, nos Açores. É um conjunto arquitetónico classificado como património mundial pela UNESCO. A integração na lista do património mundial foi decidida na reunião de 7 de dezembro de 1983 realizada na Villa Medicea di Poggio a Caiano (a Ambra), em Florença. A inclusão da Zona Central da Cidade de Angra do Heroísmo (Açores) consta do ponto VIII, recebendo o número de identificação 206 e tendo como critério base os designados por C (iv) e C (vi), por ser um exemplo de um tipo de edifício ou conjunto arquitectónico, tecnológico ou de paisagem, que ilustre significativos estágios da história humana e estar diretamente ou tangivelmente associado a eventos ou tradições vivas, com ideias ou crenças, com trabalhos artísticos e literários de destacada importância universal.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Terceira%20CathedralAngra.jpg?width=1280",
+   "title": "Terceira CathedralAngra.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Terceira%20CathedralAngra.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_206.jpg",
+   "title": "Central Zone of the Town of Angra do Heroismo in the Azores",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/206",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/206",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lajes Airport",
+    "iata": "TER",
+    "city": "Praia da Vitória",
+    "country": "PT",
+    "lat": 38.761799,
+    "lon": -27.090799,
+    "type": "medium_airport",
+    "distance_km": 16.3
+   },
+   {
+    "name": "São Jorge Airport",
+    "iata": "SJZ",
+    "city": "Velas",
+    "country": "PT",
+    "lat": 38.665501,
+    "lon": -28.1758,
+    "type": "medium_airport",
+    "distance_km": 83.0
+   },
+   {
+    "name": "Graciosa Airport",
+    "iata": "GRW",
+    "city": "Santa Cruz da Graciosa",
+    "country": "PT",
+    "lat": 39.092201232910156,
+    "lon": -28.029800415039062,
+    "type": "medium_airport",
+    "distance_km": 85.3
+   }
+  ],
+  "nearest_airport_km": 16.3,
+  "distance_beijing_km": 10502.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 9
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/206"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Centro%20Hist%C3%B3rico%20de%20Angra%20do%20Hero%C3%ADsmo"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

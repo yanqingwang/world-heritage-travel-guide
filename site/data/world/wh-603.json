@@ -1,0 +1,162 @@
+{
+ "id": "wh-603",
+ "unesco_id": "603",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1117,
+ "popularity_score": null,
+ "country": "UZ",
+ "country_zh": "乌兹别克斯坦",
+ "country_en": "Uzbekistan",
+ "countries": [
+  {
+   "iso2": "UZ",
+   "zh": "乌兹别克斯坦",
+   "en": "Uzbekistan"
+  }
+ ],
+ "region": "Samarkand Region",
+ "subdivision_iso": "UZ-SA",
+ "subdivision_zh": "撒马尔罕州",
+ "subdivision_en": "Samarqand Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "处在文化十字路口的撒马尔罕城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Samarkand – Crossroad of Cultures",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "603-samarkand_–_crossroad_of_cultures",
+ "lat": 39.66861,
+ "lon": 67.0,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "撒马尔罕历史名城是世界多元文化交汇的大熔炉，建于公元前7世纪，在公元14世纪至15世纪的贴木尔王朝时期得到了重要发展。撒马尔罕拥有众多著名的古代建筑，如列吉斯坦伊斯兰教神学院、比比·哈内姆大清真寺、贴木尔家族陵墓和兀鲁伯天文台等。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The historic town of Samarkand is a crossroad and melting pot of the world's cultures. Founded in the 7th century B.C. as ancient Afrasiab, Samarkand had its most significant development in the Timurid period from the 14th to the 15th centuries. The major monuments include the Registan Mosque and madrasas, Bibi-Khanum Mosque, the Shakhi-Zinda compound and the Gur-Emir ensemble, as well as Ulugh-Beg's Observatory.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Registan%20square%20Samarkand.jpg?width=1280",
+   "title": "Registan square Samarkand.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Registan%20square%20Samarkand.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_603.jpg",
+   "title": "Samarkand – Crossroad of Cultures",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/603",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/603",
+ "transport": {
+  "airports": [
+   {
+    "name": "Samarkand International Airport",
+    "iata": "SKD",
+    "city": "Samarkand",
+    "country": "UZ",
+    "lat": 39.701842,
+    "lon": 66.981467,
+    "type": "large_airport",
+    "distance_km": 4.0
+   },
+   {
+    "name": "Zomin Airport",
+    "iata": "OMN",
+    "city": "Zomin",
+    "country": "UZ",
+    "lat": 40.01402,
+    "lon": 68.41103,
+    "type": "medium_airport",
+    "distance_km": 126.4
+   },
+   {
+    "name": "Karshi Airport",
+    "iata": "KSQ",
+    "city": "Karshi",
+    "country": "UZ",
+    "lat": 38.802246,
+    "lon": 65.773068,
+    "type": "small_airport",
+    "distance_km": 143.0
+   }
+  ],
+  "nearest_airport_km": 4.0,
+  "distance_beijing_km": 4175.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UZ",
+  "country_zh": "乌兹别克斯坦",
+  "country_en": "Uzbekistan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UZ",
+   "country_zh": "乌兹别克斯坦",
+   "country_en": "Uzbekistan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/603"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

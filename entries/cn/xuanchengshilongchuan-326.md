@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Xuancheng"
 lat: 30.090027
 lon: 118.685058
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 宣城市龙川景区 / Xuancheng

@@ -1,0 +1,154 @@
+{
+ "id": "wh-761",
+ "unesco_id": "761",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1149,
+ "popularity_score": null,
+ "country": "GM",
+ "country_zh": "冈比亚",
+ "country_en": "The Gambia",
+ "countries": [
+  {
+   "iso2": "GM",
+   "zh": "冈比亚",
+   "en": "The Gambia"
+  }
+ ],
+ "region": "Lower Niumi and Upper Niumi districts and Banjul Municipality",
+ "subdivision_iso": "GM-N",
+ "subdivision_zh": "",
+ "subdivision_en": "North Bank Division",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "詹姆斯岛及附近区域",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kunta Kinteh Island and Related Sites",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "761-kunta_kinteh_island_and_related_sites",
+ "lat": 13.31747222,
+ "lon": -16.36147222,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "詹姆斯岛及附近区域位于冈比亚河(the River Gambia)沿岸，为非洲与欧洲关系发展史提供了证据，其历史从前殖民地时代开始延续到前奴隶贸易时代，一直到冈比亚独立。这里与奴隶贸易的兴起及废除有着密切关系，同时还记录了早期伸向非洲大陆内陆的重要通道。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "James Island and Related Sites present a testimony to the main periods and facets of the encounter between Africa and Europe along the River Gambia, a continuum stretching from pre-colonial and pre-slavery times to independence. The site is particularly significant for its relation to the beginning of the slave trade and its abolition. It also documents early access to the interior of Africa.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_761.jpg",
+   "title": "Kunta Kinteh Island and Related Sites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/761",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/761",
+ "transport": {
+  "airports": [
+   {
+    "name": "Banjul International Airport",
+    "iata": "BJL",
+    "city": "Banjul (Yundum)",
+    "country": "GM",
+    "lat": 13.338,
+    "lon": -16.652201,
+    "type": "large_airport",
+    "distance_km": 31.5
+   },
+   {
+    "name": "Ziguinchor Airport",
+    "iata": "ZIG",
+    "city": "Ziguinchor",
+    "country": "SN",
+    "lat": 12.55559,
+    "lon": -16.283298,
+    "type": "medium_airport",
+    "distance_km": 85.1
+   },
+   {
+    "name": "Cap Skirring Airport",
+    "iata": "CSK",
+    "city": "Cap Skirring",
+    "country": "SN",
+    "lat": 12.39533,
+    "lon": -16.748,
+    "type": "medium_airport",
+    "distance_km": 110.8
+   }
+  ],
+  "nearest_airport_km": 31.5,
+  "distance_beijing_km": 12363.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GM",
+  "country_zh": "冈比亚",
+  "country_en": "The Gambia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GM",
+   "country_zh": "冈比亚",
+   "country_en": "The Gambia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/761"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-476",
+ "unesco_id": "476",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1091,
+ "popularity_score": null,
+ "country": "MW",
+ "country_zh": "马拉维",
+ "country_en": "Malawi",
+ "countries": [
+  {
+   "iso2": "MW",
+   "zh": "马拉维",
+   "en": "Malawi"
+  }
+ ],
+ "region": "Dedza District, Central Region",
+ "subdivision_iso": "MW-DE",
+ "subdivision_zh": "",
+ "subdivision_en": "Dedza",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "琼戈尼岩石艺术区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Chongoni Rock-Art Area",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "476-chongoni_rock-art_area",
+ "lat": -14.293333333333,
+ "lon": 34.279166666667,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "2006",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "琼戈尼岩石艺术区位于马拉维中央高原树林丛生的花岗岩山岗上，占地126.4平方公里。该地区127处遗址最集中、丰富地展现了中部非洲的岩画艺术。它们反映了相对贫乏的农民岩画艺术传统，以及自后石器时代就居住于此的群居猎人巴特瓦的绘画艺术。切瓦农民的祖先生活在后铁器时代，习练岩画至20世纪。岩画艺术里与妇女关系紧密的符号，在切瓦中仍有文化关联，这些遗址与庆典和仪式紧密相连。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated within a cluster of forested granite hills and covering an area of 126.4 km2, high up the plateau of central Malawi, the 127 sites of this area feature the richest concentration of rock art in Central Africa. They reflect the comparatively scarce tradition of farmer rock art, as well as paintings by BaTwa hunter-gatherers who inhabited the area from the late Stone Age. The Chewa agriculturalists, whose ancestors lived there from the late Iron Age, practised rock painting until well into the 20th century. The symbols in the rock art, which are strongly associated with women, still have cultural relevance amongst the Chewa, and the sites are actively associated with ceremonies and rituals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_476.jpg",
+   "title": "Chongoni Rock-Art Area",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/476",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/476",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kamuzu International Airport",
+    "iata": "LLW",
+    "city": "Lumbadzi",
+    "country": "MW",
+    "lat": -13.7894,
+    "lon": 33.780998,
+    "type": "large_airport",
+    "distance_km": 77.6
+   },
+   {
+    "name": "Lichinga Airport",
+    "iata": "VXC",
+    "city": "Lichinga",
+    "country": "MZ",
+    "lat": -13.274,
+    "lon": 35.2663,
+    "type": "medium_airport",
+    "distance_km": 155.6
+   },
+   {
+    "name": "Chileka International Airport",
+    "iata": "BLZ",
+    "city": "Blantyre",
+    "country": "MW",
+    "lat": -15.677189,
+    "lon": 34.972319,
+    "type": "large_airport",
+    "distance_km": 170.9
+   }
+  ],
+  "nearest_airport_km": 77.6,
+  "distance_beijing_km": 10392.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MW",
+  "country_zh": "马拉维",
+  "country_en": "Malawi",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6][83]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MW",
+   "country_zh": "马拉维",
+   "country_en": "Malawi",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6][83]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/476"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1141",
+ "unesco_id": "1141",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 467,
+ "popularity_score": 15018,
+ "country": "TJ",
+ "country_zh": "塔吉克斯坦",
+ "country_en": "Tajikistan",
+ "countries": [
+  {
+   "iso2": "TJ",
+   "zh": "塔吉克斯坦",
+   "en": "Tajikistan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "TJ-SU",
+ "subdivision_zh": "粟特州",
+ "subdivision_en": "Sughd Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "萨拉子目古城的原型城市遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Proto-urban Site of Sarazm",
+ "name_local": "",
+ "local_lang": "tg",
+ "local_lang_name": "Tajik",
+ "slug": "1141-proto-urban_site_of_sarazm",
+ "lat": 39.516666666,
+ "lon": 67.566666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "2010",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "萨拉子目，意指“大地开始的地方”，是一处考古遗址，它的出现证明早在公元前4000至公元前3000年，中亚地区就已经出现了定居人口。各种遗迹表明，这一地区很早以前就出现的初始城市化曾得到过迅速发展。作为古中亚地区的定居中心之一，它的地理位置为其发展提供了便利条件，一面是适于游牧民族发展畜牧业的平缓山区，另一面是广袤的山谷，为这一地区最初的定居者提供了发展农业特别是发展灌溉的优势。萨拉子目古城还是中亚草原与土库曼斯坦、伊朗高原、印度河谷直至印度洋这些地区之间商贸往来与文化交流的见证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Sarazm, which means “where the land begins”, is an archaeological site bearing testimony to the development of human settlements in Central Asia, from the 4th millennium BCE to the end of the 3rd millennium BCE. The ruins demonstrate the early development of proto-urbanization in this region. This centre of settlement, one of the oldest in Central Asia, is situated between a mountainous region suitable for cattle rearing by nomadic pastoralists, and a large valley conducive to the development of agriculture and irrigation by the first settled populations in the region. Sarazm also demonstrates the existence of commercial and cultural exchanges and trade relations with peoples over an extensive geographical area, extending from the steppes of Central Asia and Turkmenistan, to the Iranian plateau, the Indus valley and as far as the Indian Ocean.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarazm%2Carea12-W.jpg?width=1280",
+   "title": "Sarazm,area12-W.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sarazm%2Carea12-W.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1141.jpg",
+   "title": "Proto-urban Site of Sarazm",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1141",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1141",
+ "transport": {
+  "airports": [
+   {
+    "name": "Samarkand International Airport",
+    "iata": "SKD",
+    "city": "Samarkand",
+    "country": "UZ",
+    "lat": 39.701842,
+    "lon": 66.981467,
+    "type": "large_airport",
+    "distance_km": 54.2
+   },
+   {
+    "name": "Zomin Airport",
+    "iata": "OMN",
+    "city": "Zomin",
+    "country": "UZ",
+    "lat": 40.01402,
+    "lon": 68.41103,
+    "type": "medium_airport",
+    "distance_km": 90.9
+   },
+   {
+    "name": "Dushanbe International Airport",
+    "iata": "DYU",
+    "city": "Dushanbe",
+    "country": "TJ",
+    "lat": 38.543746,
+    "lon": 68.822977,
+    "type": "large_airport",
+    "distance_km": 153.2
+   }
+  ],
+  "nearest_airport_km": 54.2,
+  "distance_beijing_km": 4175.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TJ",
+  "country_zh": "塔吉克斯坦",
+  "country_en": "Tajikistan",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required (conditional) / eVisa[6][144]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18] Holders of passports which are 55 years old and more do not require a visa for 14 days.[145]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TJ",
+   "country_zh": "塔吉克斯坦",
+   "country_en": "Tajikistan",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required (conditional) / eVisa[6][144]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18] Holders of passports which are 55 years old and more do not require a visa for 14 days.[145]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "tg",
+  "local_lang_name": "Tajik",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1141"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sarazm"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

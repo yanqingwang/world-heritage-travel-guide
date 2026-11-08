@@ -1,0 +1,154 @@
+{
+ "id": "wh-231",
+ "unesco_id": "231",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1049,
+ "popularity_score": null,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "New Delhi State, Central District, New Delhi",
+ "subdivision_iso": "IN-DL",
+ "subdivision_zh": "",
+ "subdivision_en": "Delhi",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "德里红堡群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Red Fort Complex",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "231-red_fort_complex",
+ "lat": 28.65583333,
+ "lon": 77.24083333,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(vi)",
+ "year": "2007",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "德里红堡建筑群是建在印度莫卧儿王朝第五代国王沙贾汉（1628-1658年）的新首府——沙赫杰汗纳巴德的宫殿。因其大规模的红色砂岩围墙而得名。红堡毗邻1546年Islam Shah Sur建造的萨林加尔古堡，两者共同构成了红堡建筑群。私人寓所由一排亭子构成，亭子之间靠连续的水渠连接，这些水渠称作Nahr-i-Behisht，或“天堂水流”。宫殿的设计模仿了《古兰经》对于天堂的描述，殿内刻有这样一句话：“如果人间有天堂，那么天堂就在这里，不在别处。”人们把红堡看作莫卧儿王朝创造力达到顶峰的典范，在沙贾汉国王的带领下，其设计登上了新的高度。宫殿的规划以伊斯兰原型为依据，而每座亭子展现了具有莫卧儿王朝典型建筑特征的元素，反映出波斯、贴木儿王朝和印度建筑传统的相互融合。红堡的创新性规划和建筑风格，及其花园设计，对于后来拉贾斯坦、德里、阿格拉和其他地方的建筑及花园产生了极大的影响。历史事件的价值进一步强化了建筑本身的重要性。红堡建筑群通过其建筑反映了印度从莫卧儿王朝时期到印度独立之间各个阶段的历史发展。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone, it is adjacent to an older fort, the Salimgarh, built by Islam Shah Suri in 1546, with which it forms the Red Fort Complex. The private apartments consist of a row of pavilions connected by a continuous water channel, known as the Nahr-i-Behisht (Stream of Paradise). The Red Fort is considered to represent the zenith of Mughal creativity which, under the Shah Jahan, was brought to a new level of refinement. The planning of the palace is based on Islamic prototypes, but each pavilion reveals architectural elements typical of Mughal building, reflecting a fusion of Persian, Timurid and Hindu traditions The Red Fort’s innovative planning and architectural style, including the garden design, strongly influenced later buildings and gardens in Rajasthan, Delhi, Agra and further afield.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_231.jpg",
+   "title": "Red Fort Complex",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/231",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/231",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hindon Airport / Hindon Air Force Station",
+    "iata": "HDO",
+    "city": "Ghaziabad",
+    "country": "IN",
+    "lat": 28.707701,
+    "lon": 77.358902,
+    "type": "small_airport",
+    "distance_km": 12.9
+   },
+   {
+    "name": "Indira Gandhi International Airport",
+    "iata": "DEL",
+    "city": "New Delhi",
+    "country": "IN",
+    "lat": 28.55563,
+    "lon": 77.09519,
+    "type": "large_airport",
+    "distance_km": 18.1
+   },
+   {
+    "name": "Noida International Airport",
+    "iata": "DXN",
+    "city": "Gautam Buddha Nagar",
+    "country": "IN",
+    "lat": 28.179868,
+    "lon": 77.611843,
+    "type": "large_airport",
+    "distance_km": 64.2
+   }
+  ],
+  "nearest_airport_km": 12.9,
+  "distance_beijing_km": 3779.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/231"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

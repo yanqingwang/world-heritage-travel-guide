@@ -1,0 +1,151 @@
+{
+ "id": "wh-1362",
+ "unesco_id": "1362",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 429,
+ "popularity_score": 18132,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "JP-13",
+ "subdivision_zh": "东京都",
+ "subdivision_en": "Tokyo",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "Ogasawara Islands，日本",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ogasawara Islands",
+ "name_local": "小笠原諸島",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "1362-ogasawara_islands",
+ "lat": 27.0,
+ "lon": 142.16667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)",
+ "year": "2011",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "小笠原群岛（Ogasawara Islands，日本）由三组共30多座岛屿组成，覆盖面积7393公顷。岛屿自然景观丰富多样，是一种属于极危物种的蝙蝠——小笠原大蝙蝠（Bonin Flying Fox），以及195种濒危鸟类等大量动物栖息的家园。在这些岛屿上已发现并记录了441种当地特有的植物类群，在其周边水域中生活着种类繁多的鱼类、鲸目动物和珊瑚。小笠原群岛的生态系统体现了一系列的生物进化过程，主要表现在这里不仅有着来自东南亚地区与西北亚地区的植物物种，同时还生长着大量当地特有物种。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property numbers more than 30 islands clustered in three groups and covers surface area of 7,939 hectares. The islands offer a variety of landscapes and are home to a wealth of fauna, including the Bonin Flying Fox, a critically endangered bat, and 195 endangered bird species. Four-hundred and forty-one native plant taxa have been documented on the islands whose waters support numerous species of fish, cetaceans and corals. Ogasawara Islands' ecosystems reflect a range of evolutionary processes illustrated through its assemblage of plant species from both southeast and northwest Asia, alongside many endemic species.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "小笠原諸島（おがさわらしょとう）は、東京都小笠原村の行政区域を指す。東京都特別区の南南東約1,000キロメートルの太平洋上にある30余の島々からなる。総面積は104平方キロメートル。南鳥島、沖ノ鳥島を除いて伊豆・小笠原・マリアナ島弧（伊豆・小笠原弧）の一部をなす。小笠原諸島は別名をボニン諸島（Bonin Islands）という。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wai-Beach.jpg?width=1280",
+   "title": "Wai-Beach.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Wai-Beach.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1362.jpg",
+   "title": "Ogasawara Islands",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1362",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1362",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hachijojima Airport",
+    "iata": "HAC",
+    "city": "Hachijojima",
+    "country": "JP",
+    "lat": 33.114843,
+    "lon": 139.785645,
+    "type": "medium_airport",
+    "distance_km": 717.4
+   },
+   {
+    "name": "Miyakejima Airport",
+    "iata": "MYE",
+    "city": "Miyakejima",
+    "country": "JP",
+    "lat": 34.073600769,
+    "lon": 139.559997559,
+    "type": "medium_airport",
+    "distance_km": 825.1
+   }
+  ],
+  "nearest_airport_km": 717.4,
+  "distance_beijing_km": 2203.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru"
+  ],
+  "wikipedia_editions": 13
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1362"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ogasawara%20Islands"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:45Z"
+}

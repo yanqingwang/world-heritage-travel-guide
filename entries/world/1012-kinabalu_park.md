@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ix)(x)"
 lat: 6.15
 lon: 116.65
-updated_at: "2026-11-08T12:18:58Z"
+updated_at: "2026-11-08T14:52:38Z"
 ---
 
 # 基纳巴卢山公园 / Kinabalu Park

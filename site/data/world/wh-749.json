@@ -1,0 +1,177 @@
+{
+ "id": "wh-749",
+ "unesco_id": "749",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 836,
+ "popularity_score": 1561,
+ "country": "BF",
+ "country_zh": "布基纳法索",
+ "country_en": "Burkina Faso",
+ "countries": [
+  {
+   "iso2": "BF",
+   "zh": "布基纳法索",
+   "en": "Burkina Faso"
+  },
+  {
+   "iso2": "BJ",
+   "zh": "贝宁",
+   "en": "Benin"
+  },
+  {
+   "iso2": "NE",
+   "zh": "尼日尔",
+   "en": "Niger"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "W-阿尔利-彭贾里跨国联合公园",
+ "name_zh_source": "wikidata",
+ "name_en": "W-Arly-Pendjari Complex",
+ "name_local": "",
+ "local_lang": "mos",
+ "local_lang_name": "Mossi",
+ "slug": "749-w-arly-pendjari_complex",
+ "lat": 11.53,
+ "lon": 2.29,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1996",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "W-阿尔利-彭贾里跨国联合公园（英語：W-Arly-Pendjari Complex），又称W-阿尔利-彭贾里保护区、WAP联合公园，是横跨贝宁、布基纳法索和尼日尔三国的世界自然遗产。它包含以下三部分： 布基纳法索的阿爾利國家公園 贝宁的彭賈里國家公園 三国共有的W国家公园 自2005年以来，该保护区被视为非洲狮保护地，是非洲狮的潜在据点。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephants%20bath%20park%20w%20Niger%202006.jpg?width=1280",
+   "title": "Elephants bath park w Niger 2006.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Elephants%20bath%20park%20w%20Niger%202006.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_749.jpg",
+   "title": "W-Arly-Pendjari Complex",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/749",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/749",
+ "transport": {
+  "airports": [
+   {
+    "name": "Diori Hamani International Airport",
+    "iata": "NIM",
+    "city": "Niamey",
+    "country": "NE",
+    "lat": 13.4815,
+    "lon": 2.18361,
+    "type": "large_airport",
+    "distance_km": 217.3
+   },
+   {
+    "name": "Sadiq Abubakar III International Airport",
+    "iata": "SKO",
+    "city": "Sokoto",
+    "country": "NG",
+    "lat": 12.915729,
+    "lon": 5.207547,
+    "type": "large_airport",
+    "distance_km": 352.5
+   }
+  ],
+  "nearest_airport_km": 217.3,
+  "distance_beijing_km": 11013.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BF",
+  "country_zh": "布基纳法索",
+  "country_en": "Burkina Faso",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][33]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BF",
+   "country_zh": "布基纳法索",
+   "country_en": "Burkina Faso",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][33]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  },
+  {
+   "iso2": "BJ",
+   "country_zh": "贝宁",
+   "country_en": "Benin",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][24]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "NE",
+   "country_zh": "尼日尔",
+   "country_en": "Niger",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "mos",
+  "local_lang_name": "Mossi",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 25
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/749"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/W%E2%80%93Arly%E2%80%93Pendjari%20Complex"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

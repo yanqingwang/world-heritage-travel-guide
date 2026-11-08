@@ -1,0 +1,151 @@
+{
+ "id": "wh-1364",
+ "unesco_id": "1364",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 946,
+ "popularity_score": null,
+ "country": "BH",
+ "country_zh": "巴林",
+ "country_en": "Bahrain",
+ "countries": [
+  {
+   "iso2": "BH",
+   "zh": "巴林",
+   "en": "Bahrain"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "采珠业，岛屿经济的见证",
+ "name_zh_source": "curated",
+ "name_en": "Pearling, Testimony of an Island Economy",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1364-pearling,_testimony_of_an_island_economy",
+ "lat": 26.24128,
+ "lon": 50.61351,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2012",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址由穆哈拉克市的 17 座建筑、三个近海牡蛎养殖场、部分海岸以及穆哈拉克岛南端的 Qal’at Bu Mahir 堡垒组成，船只曾从那里出发前往牡蛎养殖场。列入保护名单的建筑包括富商住宅、商店、仓库和清真寺。该遗址是珍珠文化传统及其在贸易主导海湾经济时期（2 世纪至 1930 年代，日本开发养殖珍珠）所产生的财富的最后一个完整例子。它还构成了传统利用海洋资源以及人类与环境互动的杰出范例，塑造了该岛社会的经济和文化特征。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The site consists of seventeen buildings in Muharraq City, three offshore oyster beds, part of the seashore and the Qal’at Bu Mahir fortress on the southern tip of Muharraq Island, from where boats used to set off for the oyster beds. The listed buildings include residences of wealthy merchants, shops, storehouses and a mosque. The site is the last remaining complete example of the cultural tradition of pearling and the wealth it generated at a time when the trade dominated the Gulf economy (2nd century to the 1930s, when Japan developed cultured pearls). It also constitutes an outstanding example of traditional utilization of the sea’s resources and human interaction with the environment, which shaped both the economy and the cultural identity of the island’s society.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1364.jpg",
+   "title": "Pearling, Testimony of an Island Economy",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1364",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1364",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bahrain International Airport",
+    "iata": "BAH",
+    "city": "Manama",
+    "country": "BH",
+    "lat": 26.267295,
+    "lon": 50.63764,
+    "type": "large_airport",
+    "distance_km": 3.8
+   },
+   {
+    "name": "King Fahd International Airport",
+    "iata": "DMM",
+    "city": "Ad Dammam",
+    "country": "SA",
+    "lat": 26.4691,
+    "lon": 49.798209,
+    "type": "large_airport",
+    "distance_km": 85.1
+   },
+   {
+    "name": "Hamad International Airport",
+    "iata": "DOH",
+    "city": "Doha",
+    "country": "QA",
+    "lat": 25.273056,
+    "lon": 51.608056,
+    "type": "large_airport",
+    "distance_km": 146.7
+   }
+  ],
+  "nearest_airport_km": 3.8,
+  "distance_beijing_km": 6185.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BH",
+  "country_zh": "巴林",
+  "country_en": "Bahrain",
+  "status": "visa_on_arrival",
+  "days": 14,
+  "requirement": "eVisa / Visa on arrival[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BH",
+   "country_zh": "巴林",
+   "country_en": "Bahrain",
+   "status": "visa_on_arrival",
+   "days": 14,
+   "requirement": "eVisa / Visa on arrival[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1364"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:45Z"
+}

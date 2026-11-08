@@ -1,0 +1,154 @@
+{
+ "id": "wh-244",
+ "unesco_id": "244",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1051,
+ "popularity_score": null,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "Maharashtra State, District Kolaba (Island of Elephanta)",
+ "subdivision_iso": "IN-MH",
+ "subdivision_zh": "",
+ "subdivision_en": "Maharashtra",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "埃勒凡塔石窟（象岛石窟）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Elephanta Caves",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "244-elephanta_caves",
+ "lat": 18.963333333333335,
+ "lon": 72.93138888888889,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "称为“石窟城”的埃勒凡塔位于阿曼海临近孟买港湾的岛屿上。石窟内集中了大量表现崇拜湿婆神的石雕艺术作品。通过石窟里的那些作品，特别是主洞内高大的浮雕，印度艺术得到了最完美的表现。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 'City of Caves', on an island in the Sea of Oman close to Mumbai, contains a collection of rock art linked to the cult of Shiva. Here, Indian art has found one of its most perfect expressions, particularly the huge high reliefs in the main cave.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_244.jpg",
+   "title": "Elephanta Caves",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/244",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/244",
+ "transport": {
+  "airports": [
+   {
+    "name": "Navi Mumbai International Airport",
+    "iata": "NMI",
+    "city": "Navi Mumbai",
+    "country": "IN",
+    "lat": 18.984597,
+    "lon": 73.065253,
+    "type": "large_airport",
+    "distance_km": 14.3
+   },
+   {
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "iata": "BOM",
+    "city": "Mumbai",
+    "country": "IN",
+    "lat": 19.088699,
+    "lon": 72.867897,
+    "type": "large_airport",
+    "distance_km": 15.5
+   },
+   {
+    "name": "Pune International Airport",
+    "iata": "PNQ",
+    "city": "Pune",
+    "country": "IN",
+    "lat": 18.5821,
+    "lon": 73.919701,
+    "type": "large_airport",
+    "distance_km": 112.4
+   }
+  ],
+  "nearest_airport_km": 14.3,
+  "distance_beijing_km": 4755.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/244"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

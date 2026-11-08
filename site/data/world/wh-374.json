@@ -1,0 +1,162 @@
+{
+ "id": "wh-374",
+ "unesco_id": "374",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 386,
+ "popularity_score": 21202,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Gwynedd, North Wales",
+ "subdivision_iso": "GB-AGY",
+ "subdivision_zh": "安格西岛",
+ "subdivision_en": "Isle of Anglesey",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圭内斯郡爱德华国王城堡和城墙",
+ "name_zh_source": "unesco_official",
+ "name_en": "Castles and Town Walls of King Edward in Gwynedd",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "374-castles_and_town_walls_of_king_edward_in",
+ "lat": 53.139722222,
+ "lon": -4.276944444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "博马里斯和哈勒赫城堡（主要由军事工程师圣乔治建造）及卡那封和康韦防御工事位于威尔士北部圭内斯郡的前首府。它们保存极为完好，是爱德华国王统治时期（1272-1307年）殖民和防御工事的典型，反映了当时的军事建筑风格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The castles of Beaumaris and Harlech (largely the work of the greatest military engineer of the time, James of St George) and the fortified complexes of Caernarfon and Conwy are located in the former principality of Gwynedd, in north Wales. These extremely well-preserved monuments are examples of the colonization and defence works carried out throughout the reign of Edward I (1272–1307) and the military architecture of the time.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caernarfon%20Castle%201994.jpg?width=1280",
+   "title": "Caernarfon Castle 1994.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Caernarfon%20Castle%201994.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_374.jpg",
+   "title": "Castles and Town Walls of King Edward in Gwynedd",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/374",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/374",
+ "transport": {
+  "airports": [
+   {
+    "name": "Liverpool John Lennon Airport",
+    "iata": "LPL",
+    "city": "Liverpool",
+    "country": "GB",
+    "lat": 53.334863,
+    "lon": -2.849637,
+    "type": "large_airport",
+    "distance_km": 97.4
+   },
+   {
+    "name": "Isle of Man Airport",
+    "iata": "IOM",
+    "city": "Castletown, Rushen",
+    "country": "IM",
+    "lat": 54.083081,
+    "lon": -4.623871,
+    "type": "large_airport",
+    "distance_km": 107.4
+   },
+   {
+    "name": "Manchester Airport",
+    "iata": "MAN",
+    "city": "Manchester, Greater Manchester",
+    "country": "GB",
+    "lat": 53.349375,
+    "lon": -2.279521,
+    "type": "large_airport",
+    "distance_km": 134.9
+   }
+  ],
+  "nearest_airport_km": 97.4,
+  "distance_beijing_km": 8120.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/374"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Castles%20and%20Town%20Walls%20of%20King%20Edward%20in%20Gwynedd"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

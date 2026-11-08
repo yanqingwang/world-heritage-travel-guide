@@ -1,0 +1,162 @@
+{
+ "id": "wh-393",
+ "unesco_id": "393",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1082,
+ "popularity_score": null,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Prefecture of Phokis, Region of Central Greece",
+ "subdivision_iso": "GR-H",
+ "subdivision_zh": "中希腊大区",
+ "subdivision_en": "Central Greece Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "德尔斐考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Delphi",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "393-archaeological_site_of_delphi",
+ "lat": 38.482015,
+ "lon": 22.500215,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "希腊圣地德尔斐是阿波罗神曾转述神谕的地方，也就是所谓的“世界中心”( navel of the world)，与壮丽的自然景色完美融合，有着神圣的宗教意义。早在公元前6世纪，德尔斐就已经成为了宗教中心和古希腊统一的象征。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The pan-Hellenic sanctuary of Delphi, where the oracle of Apollo spoke, was the site of the omphalos, the 'navel of the world'. Blending harmoniously with the superb landscape and charged with sacred meaning, Delphi in the 6th century B.C. was indeed the religious centre and symbol of unity of the ancient Greek world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Delphi-Archaeological%20Site.jpg?width=1280",
+   "title": "Delphi-Archaeological Site.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Delphi-Archaeological%20Site.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_393.jpg",
+   "title": "Archaeological Site of Delphi",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/393",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/393",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nea Anchialos National Airport",
+    "iata": "VOL",
+    "city": "Nea Anchialos",
+    "country": "GR",
+    "lat": 39.219601,
+    "lon": 22.7943,
+    "type": "medium_airport",
+    "distance_km": 85.9
+   },
+   {
+    "name": "Patras Araxos Agamemnon Airport",
+    "iata": "GPA",
+    "city": "Patras",
+    "country": "GR",
+    "lat": 38.1511,
+    "lon": 21.4256,
+    "type": "medium_airport",
+    "distance_km": 100.7
+   },
+   {
+    "name": "Skiathos Island National Airport",
+    "iata": "JSI",
+    "city": "Skiathos",
+    "country": "GR",
+    "lat": 39.177101,
+    "lon": 23.5037,
+    "type": "medium_airport",
+    "distance_km": 116.3
+   }
+  ],
+  "nearest_airport_km": 85.9,
+  "distance_beijing_km": 7607.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/393"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

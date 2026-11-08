@@ -1,0 +1,162 @@
+{
+ "id": "wh-340",
+ "unesco_id": "340",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 259,
+ "popularity_score": 37656,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "State of Rajasthan, 50 km west of Agra",
+ "subdivision_iso": "IN-RJ",
+ "subdivision_zh": "拉贾斯坦邦",
+ "subdivision_en": "Rajasthan",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "凯奥拉德奥国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Keoladeo National Park",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "340-keoladeo_national_park",
+ "lat": 27.166667,
+ "lon": 77.516667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "凯奥拉德奥国家公园位于默哈拉杰。以前这里是猎鸭地区，现在是大批水禽鸟类冬季栖息的重要地区。这些水禽来自阿富汗、土库曼斯坦、中国和西伯利亚。364种鸟在公园里已经记录在册，其中包括稀有的西伯利亚鹤。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This former duck-hunting reserve of the Maharajas is one of the major wintering areas for large numbers of aquatic birds from Afghanistan, Turkmenistan, China and Siberia. Some 364 species of birds, including the rare Siberian crane, have been recorded in the park.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Keoladeo%20Ghana%20National%20Park%2C%20Bharatpur%2C%20Rajasthan%2C%20India.jpg?width=1280",
+   "title": "Keoladeo Ghana National Park, Bharatpur, Rajasthan, India.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Keoladeo%20Ghana%20National%20Park%2C%20Bharatpur%2C%20Rajasthan%2C%20India.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_340.jpg",
+   "title": "Keoladeo National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/340",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/340",
+ "transport": {
+  "airports": [
+   {
+    "name": "Agra Airport / Agra Air Force Station",
+    "iata": "AGR",
+    "city": "Agra",
+    "country": "IN",
+    "lat": 27.157975,
+    "lon": 77.961025,
+    "type": "medium_airport",
+    "distance_km": 44.0
+   },
+   {
+    "name": "Noida International Airport",
+    "iata": "DXN",
+    "city": "Gautam Buddha Nagar",
+    "country": "IN",
+    "lat": 28.179868,
+    "lon": 77.611843,
+    "type": "large_airport",
+    "distance_km": 113.1
+   },
+   {
+    "name": "Gwalior Airport",
+    "iata": "GWL",
+    "city": "Gwalior",
+    "country": "IN",
+    "lat": 26.29330062866211,
+    "lon": 78.22779846191406,
+    "type": "medium_airport",
+    "distance_km": 120.1
+   }
+  ],
+  "nearest_airport_km": 44.0,
+  "distance_beijing_km": 3817.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 56
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/340"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Keoladeo%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-960",
+ "unesco_id": "960",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1204,
+ "popularity_score": null,
+ "country": "AM",
+ "country_zh": "亚美尼亚",
+ "country_en": "Armenia",
+ "countries": [
+  {
+   "iso2": "AM",
+   "zh": "亚美尼亚",
+   "en": "Armenia"
+  }
+ ],
+ "region": "Kotayk' Region, near the village of Goght",
+ "subdivision_iso": "AM-KT",
+ "subdivision_zh": "",
+ "subdivision_en": "Kotayk Province",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "格加尔德修道院和上阿扎特山谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "Monastery of Geghard and the Upper Azat Valley",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "960-monastery_of_geghard_and_the_upper_azat_",
+ "lat": 40.15889,
+ "lon": 44.79667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "格加尔德修道院由许多教堂和坟墓组成，大部分建筑物都矗立在岩石之中，代表了亚美尼亚中世纪建筑的巅峰之作。这些中世纪建筑群周围环绕的便是阿扎特山谷(the Azat Valley)入口处的悬崖绝壁，与美丽的自然景观浑然一体。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The monastery of Geghard contains a number of churches and tombs, most of them cut into the rock, which illustrate the very peak of Armenian medieval architecture. The complex of medieval buildings is set into a landscape of great natural beauty, surrounded by towering cliffs at the entrance to the Azat Valley.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_960.jpg",
+   "title": "Monastery of Geghard and the Upper Azat Valley",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/960",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/960",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zvartnots International Airport",
+    "iata": "EVN",
+    "city": "Yerevan",
+    "country": "AM",
+    "lat": 40.148941,
+    "lon": 44.397887,
+    "type": "large_airport",
+    "distance_km": 33.9
+   },
+   {
+    "name": "Iğdır Airport",
+    "iata": "IGD",
+    "city": "Iğdır",
+    "country": "TR",
+    "lat": 39.976627,
+    "lon": 43.876648,
+    "type": "medium_airport",
+    "distance_km": 80.9
+   },
+   {
+    "name": "Shirak International Airport",
+    "iata": "LWN",
+    "city": "Gyumri",
+    "country": "AM",
+    "lat": 40.750401,
+    "lon": 43.859299,
+    "type": "large_airport",
+    "distance_km": 103.0
+   }
+  ],
+  "nearest_airport_km": 33.9,
+  "distance_beijing_km": 5955.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AM",
+  "country_zh": "亚美尼亚",
+  "country_en": "Armenia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6][13]",
+  "notes": "90 days within any 180 day period. Holders of passports for public affairs do not require a visa for up to 30 days.[14]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AM",
+   "country_zh": "亚美尼亚",
+   "country_en": "Armenia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6][13]",
+   "notes": "90 days within any 180 day period. Holders of passports for public affairs do not require a visa for up to 30 days.[14]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/960"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

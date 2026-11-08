@@ -1,0 +1,162 @@
+{
+ "id": "wh-941",
+ "unesco_id": "941",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1196,
+ "popularity_score": null,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Prefecture of Argolis, Region of the Peloponnesos",
+ "subdivision_iso": "GR-11",
+ "subdivision_zh": "阿尔戈利斯专区",
+ "subdivision_en": "Argolida Regional Unit",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "迈锡尼和提那雅恩斯的考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Sites of Mycenae and Tiryns",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "941-archaeological_sites_of_mycenae_and_tiry",
+ "lat": 37.73333333,
+ "lon": 22.75,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "迈锡尼和提那雅恩斯是迈锡尼文明两座最伟大的城市，其遗址也十分壮观。公元前15世纪至公元前12世纪，迈锡尼文明盛行于地中海东部，在古希腊文化的发展中发挥了重要作用。这两座城市还与荷马史诗《伊利亚特》和《奥德赛》有着密切的关联，而这两部史诗对欧洲艺术和文学的影响则持续了3000多年。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The archaeological sites of Mycenae and Tiryns are the imposing ruins of the two greatest cities of the Mycenaean civilization, which dominated the eastern Mediterranean world from the 15th to the 12th century B.C. and played a vital role in the development of classical Greek culture. These two cities are indissolubly linked to the Homeric epics, the Iliad and the Odyssey , which have influenced European art and literature for more than three millennia.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiryns%20-%20Cyclopean%20masonry.jpg?width=1280",
+   "title": "Tiryns - Cyclopean masonry.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tiryns%20-%20Cyclopean%20masonry.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_941.jpg",
+   "title": "Archaeological Sites of Mycenae and Tiryns",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/941",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/941",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kalamata Airport",
+    "iata": "KLX",
+    "city": "Kalamata",
+    "country": "GR",
+    "lat": 37.06829833984375,
+    "lon": 22.02549934387207,
+    "type": "medium_airport",
+    "distance_km": 97.8
+   },
+   {
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "iata": "ATH",
+    "city": "Spata-Artemida",
+    "country": "GR",
+    "lat": 37.936401,
+    "lon": 23.9445,
+    "type": "large_airport",
+    "distance_km": 107.3
+   },
+   {
+    "name": "Patras Araxos Agamemnon Airport",
+    "iata": "GPA",
+    "city": "Patras",
+    "country": "GR",
+    "lat": 38.1511,
+    "lon": 21.4256,
+    "type": "medium_airport",
+    "distance_km": 125.1
+   }
+  ],
+  "nearest_airport_km": 97.8,
+  "distance_beijing_km": 7800.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/941"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

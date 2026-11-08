@@ -1,0 +1,176 @@
+{
+ "id": "wh-155",
+ "unesco_id": "155",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 684,
+ "popularity_score": 6290,
+ "country": "CI",
+ "country_zh": "科特迪瓦",
+ "country_en": "Ivory Coast",
+ "countries": [
+  {
+   "iso2": "CI",
+   "zh": "科特迪瓦",
+   "en": "Ivory Coast"
+  },
+  {
+   "iso2": "GN",
+   "zh": "几内亚",
+   "en": "Guinea"
+  }
+ ],
+ "region": "Région de Lola",
+ "subdivision_iso": "CI-MG",
+ "subdivision_zh": "",
+ "subdivision_en": "Montagnes",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "宁巴山自然保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mount Nimba Strict Nature Reserve",
+ "name_local": "Réserve naturelle intégrale du mont Nimba",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "155-mount_nimba_strict_nature_reserve",
+ "lat": 7.603,
+ "lon": -8.391,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1981",
+ "danger": true,
+ "transnational": true,
+ "intro_zh": "宁巴山位于几内亚、利比亚和科特迪瓦的边境，高高耸立在一片草原之上，草原高山的脚下覆盖着浓密的森林。这一地区拥有特别丰富的动植物，还有一些当地特有的动物，如胎生蟾蜍和以石头当工具的黑猩猩。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located on the borders of Guinea, Liberia and Côte d’Ivoire, Mount Nimba rises above the surrounding savannah. Its slopes are covered by dense forest at the foot of grassy mountain pastures. They harbour an especially rich flora and fauna, with endemic species such as the viviparous toad and chimpanzees that use stones as tools.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé aux confins de la Guinée, du Liberia et de la Côte d’Ivoire, le mont Nimba domine les savanes environnantes. Ses pentes, couvertes d’une forêt dense au pied d’alpages de graminées, recèlent une flore et une faune particulièrement riches, avec des espèces endémiques comme le crapaud vivipare ou les chimpanzés qui se servent de pierres comme d’outils.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Nimba%20Strict%20Nature%20Reserve-123989.jpg?width=1280",
+   "title": "Mount Nimba Strict Nature Reserve-123989.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount%20Nimba%20Strict%20Nature%20Reserve-123989.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_155.jpg",
+   "title": "Mount Nimba Strict Nature Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/155",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/155",
+ "transport": {
+  "airports": [
+   {
+    "name": "Roberts International Airport",
+    "iata": "ROB",
+    "city": "Monrovia",
+    "country": "LR",
+    "lat": 6.23379,
+    "lon": -10.3623,
+    "type": "large_airport",
+    "distance_km": 265.6
+   },
+   {
+    "name": "Spriggs Payne Airport",
+    "iata": "MLW",
+    "city": "Monrovia",
+    "country": "LR",
+    "lat": 6.28906,
+    "lon": -10.7587,
+    "type": "medium_airport",
+    "distance_km": 299.4
+   },
+   {
+    "name": "Bouaké Airport",
+    "iata": "BYK",
+    "city": "Bouaké",
+    "country": "CI",
+    "lat": 7.7388,
+    "lon": -5.07367,
+    "type": "medium_airport",
+    "distance_km": 365.9
+   }
+  ],
+  "nearest_airport_km": 265.6,
+  "distance_beijing_km": 12541.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CI",
+  "country_zh": "科特迪瓦",
+  "country_en": "Ivory Coast",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CI",
+   "country_zh": "科特迪瓦",
+   "country_en": "Ivory Coast",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  },
+  {
+   "iso2": "GN",
+   "country_zh": "几内亚",
+   "country_en": "Guinea",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "eVisa[6][55][56]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/155"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mount%20Nimba%20Strict%20Nature%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

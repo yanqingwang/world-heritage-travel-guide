@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Huizhou"
 lat: 23.266942
 lon: 114.074208
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 惠州市博罗县罗浮山景区 / Mount Luofu

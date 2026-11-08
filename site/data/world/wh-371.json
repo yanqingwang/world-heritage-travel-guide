@@ -1,0 +1,162 @@
+{
+ "id": "wh-371",
+ "unesco_id": "371",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 387,
+ "popularity_score": 21159,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Shropshire, England",
+ "subdivision_iso": "GB-TFW",
+ "subdivision_zh": "特尔福德和雷金",
+ "subdivision_en": "Telford and Wrekin",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "乔治铁桥区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ironbridge Gorge",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "371-ironbridge_gorge",
+ "lat": 52.626388888,
+ "lon": -2.472777777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)(vi)",
+ "year": "1986",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "众所周知，乔治铁桥区是工业革命的象征，它包含了18世纪推动这一工业区快速发展的所有要素，包括矿业和铁路工业。附近有1708年建成的煤溪谷的鼓风炉，以纪念此地焦炭的发现。连接铁桥峡上的桥是世界上第一座用金属制成的桥，它对科学技术和建筑学的发展产生了巨大影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Ironbridge is known throughout the world as the symbol of the Industrial Revolution. It contains all the elements of progress that contributed to the rapid development of this industrial region in the 18th century, from the mines themselves to the railway lines. Nearby, the blast furnace of Coalbrookdale, built in 1708, is a reminder of the discovery of coke. The bridge at Ironbridge, the world's first bridge constructed of iron, had a considerable influence on developments in the fields of technology and architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Iron%20Bridge%20%28Aerial%29.JPG?width=1280",
+   "title": "The Iron Bridge (Aerial).JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:The%20Iron%20Bridge%20%28Aerial%29.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_371.jpg",
+   "title": "Ironbridge Gorge",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/371",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/371",
+ "transport": {
+  "airports": [
+   {
+    "name": "Birmingham Airport",
+    "iata": "BHX",
+    "city": "Birmingham, West Midlands",
+    "country": "GB",
+    "lat": 52.453899,
+    "lon": -1.74803,
+    "type": "large_airport",
+    "distance_km": 52.6
+   },
+   {
+    "name": "East Midlands Airport",
+    "iata": "EMA",
+    "city": "Nottingham, Leicestershire",
+    "country": "GB",
+    "lat": 52.8311,
+    "lon": -1.32806,
+    "type": "large_airport",
+    "distance_km": 80.4
+   },
+   {
+    "name": "Manchester Airport",
+    "iata": "MAN",
+    "city": "Manchester, Greater Manchester",
+    "country": "GB",
+    "lat": 53.349375,
+    "lon": -2.279521,
+    "type": "large_airport",
+    "distance_km": 81.4
+   }
+  ],
+  "nearest_airport_km": 52.6,
+  "distance_beijing_km": 8138.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 32
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/371"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ironbridge%20Gorge"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

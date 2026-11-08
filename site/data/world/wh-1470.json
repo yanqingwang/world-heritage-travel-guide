@@ -1,0 +1,154 @@
+{
+ "id": "wh-1470",
+ "unesco_id": "1470",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 968,
+ "popularity_score": null,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "瑙姆堡大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Naumburg Cathedral",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1470-naumburg_cathedral",
+ "lat": 51.154722222222,
+ "lon": 11.803888888889,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)",
+ "year": "2018",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "位于图林根盆地东部的瑙姆堡大教堂始建于1028年，是中世纪艺术和建筑的杰出代表。它的罗马式结构和两侧的哥特式唱经楼展示了从罗马式晚期到哥特式早期的风格转变。可追溯至13世纪上半叶的西侧唱经楼反映了宗教实践的变化，以及科学和自然在具象艺术中的显现。唱经楼和真人大小的大教堂创建者雕像是该遗产地的代表，被称作“瑙姆堡大师”作品",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in the eastern part of the Thuringian Basin, the Cathedral of Naumburg, whose construction began in 1028, is an outstanding testimony to medieval art and architecture. Its Romanesque structure, flanked by two Gothic choirs, demonstrates the stylistic transition from late Romanesque to early Gothic. The west choir, dating to the first half of the 13th century, reflects changes in religious practice and the appearance of science and nature in the figurative arts. The choir and life-size sculptures of the founders of the Cathedral are masterpieces of the workshop known as the ‘Naumburg Master’.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1470.jpg",
+   "title": "Naumburg Cathedral",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1470",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1470",
+ "transport": {
+  "airports": [
+   {
+    "name": "Leipzig/Halle Airport",
+    "iata": "LEJ",
+    "city": "Schkeuditz",
+    "country": "DE",
+    "lat": 51.420657,
+    "lon": 12.232705,
+    "type": "large_airport",
+    "distance_km": 42.0
+   },
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 62.1
+   },
+   {
+    "name": "Karlovy Vary Airport",
+    "iata": "KLV",
+    "city": "Karlovy Vary",
+    "country": "CZ",
+    "lat": 50.202999,
+    "lon": 12.915,
+    "type": "large_airport",
+    "distance_km": 131.6
+   }
+  ],
+  "nearest_airport_km": 42.0,
+  "distance_beijing_km": 7489.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1470"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:47Z"
+}

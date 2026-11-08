@@ -1,0 +1,161 @@
+{
+ "id": "wh-1240",
+ "unesco_id": "1240",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 630,
+ "popularity_score": 8242,
+ "country": "HR",
+ "country_zh": "克罗地亚",
+ "country_en": "Croatia",
+ "countries": [
+  {
+   "iso2": "HR",
+   "zh": "克罗地亚",
+   "en": "Croatia"
+  }
+ ],
+ "region": "Split and Dalmatia Counties",
+ "subdivision_iso": "HR-17",
+ "subdivision_zh": "斯普利特-达尔马提亚县",
+ "subdivision_en": "Split-Dalmatia County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "斯塔里格勒平原",
+ "name_zh_source": "wikidata",
+ "name_en": "Stari Grad Plain",
+ "name_local": "Starogradsko polje",
+ "local_lang": "hr",
+ "local_lang_name": "Croatian",
+ "slug": "1240-stari_grad_plain",
+ "lat": 43.181666666,
+ "lon": 16.638611111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(v)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "斯塔里格勒平原（克羅埃西亞語：Starogradsko polje，英語：Stari Grad Plain）是位於克羅埃西亞赫瓦爾島的一個古希臘殖民者農業遺跡，其歷史可追溯至西元前4世紀，現在仍在使用。斯塔里格勒平原被列為世界文化遺產。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Stari Grad Plain on the Adriatic island of Hvar is a cultural landscape that has remained practically intact since it was first colonized by Ionian Greeks from Paros in the 4th century BC. The original agricultural activity of this fertile plain, mainly centring on grapes and olives, has been maintained since Greek times to the present. The site is also a natural reserve. The landscape features ancient stone walls and trims, or small stone shelters, and bears testimony to the ancient geometrical system of land division used by the ancient Greeks, the chora which has remained virtually intact over 24 centuries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Starogradsko polje (mjesna čakavica: Starogrojsko poje) na otoku Hvaru zaštićeni je kulturni krajolik u kojem je starogrčka podjela zemljišta sačuvana do današnjih dana kao sustav putova i terasiranih parcela. Riječ je o najbolje sačuvanom antičkom grčkom katastru na Sredozemlju zbog čega je od 2008. godine 7. hrvatski lokalitet koji se nalazi na UNESCO-ovom popisu svjetske baštine.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20the%20Stari%20Grad%20Plain%20%28view%20from%20the%20southwest%29.jpg?width=1280",
+   "title": "Aerial image of the Stari Grad Plain (view from the southwest).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial%20image%20of%20the%20Stari%20Grad%20Plain%20%28view%20from%20the%20southwest%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1240.jpg",
+   "title": "Stari Grad Plain",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1240",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1240",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brač Airport",
+    "iata": "BWK",
+    "city": "Gornji Humac",
+    "country": "HR",
+    "lat": 43.284454,
+    "lon": 16.678362,
+    "type": "medium_airport",
+    "distance_km": 11.9
+   },
+   {
+    "name": "Split Saint Jerome Airport",
+    "iata": "SPU",
+    "city": "Split",
+    "country": "HR",
+    "lat": 43.538898,
+    "lon": 16.298,
+    "type": "large_airport",
+    "distance_km": 48.3
+   },
+   {
+    "name": "Mostar International Airport",
+    "iata": "OMO",
+    "city": "Mostar",
+    "country": "BA",
+    "lat": 43.282489,
+    "lon": 17.846101,
+    "type": "large_airport",
+    "distance_km": 98.5
+   }
+  ],
+  "nearest_airport_km": 11.9,
+  "distance_beijing_km": 7759.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HR",
+  "country_zh": "克罗地亚",
+  "country_en": "Croatia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HR",
+   "country_zh": "克罗地亚",
+   "country_en": "Croatia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "hr",
+  "local_lang_name": "Croatian",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1240"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stari%20Grad%20Plain"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

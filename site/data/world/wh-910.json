@@ -1,0 +1,162 @@
+{
+ "id": "wh-910",
+ "unesco_id": "910",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 539,
+ "popularity_score": 12018,
+ "country": "KN",
+ "country_zh": "圣基茨和尼维斯",
+ "country_en": "Saint Kitts and Nevis",
+ "countries": [
+  {
+   "iso2": "KN",
+   "zh": "圣基茨和尼维斯",
+   "en": "Saint Kitts and Nevis"
+  }
+ ],
+ "region": "Parish of St Thomas, St Christopher (St Kitts)",
+ "subdivision_iso": "KN-13",
+ "subdivision_zh": "圣托马斯米德艾兰区",
+ "subdivision_en": "Saint Thomas Middle Island Parish",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "硫磺石山要塞国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Brimstone Hill Fortress National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "910-brimstone_hill_fortress_national_park",
+ "lat": 17.347,
+ "lon": -62.836,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "硫磺石山国家公园是17世纪和18世纪出现于加勒比海的军事建筑得到完好保存的典型范例。这座公园由英国设计师设计、大批的非洲奴隶建造，要塞证实了欧洲殖民地的扩张、非洲的奴隶交易以及加勒比海地区新型社会制度的出现。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Brimstone Hill Fortress National Park is an outstanding, well-preserved example of 17th- and 18th-century military architecture in a Caribbean context. Designed by the British and built by African slave labour, the fortress is testimony to European colonial expansion, the African slave trade and the emergence of new societies in the Caribbean.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BrimstoneHill01.jpg?width=1280",
+   "title": "BrimstoneHill01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:BrimstoneHill01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_910.jpg",
+   "title": "Brimstone Hill Fortress National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/910",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/910",
+ "transport": {
+  "airports": [
+   {
+    "name": "Robert L. Bradshaw International Airport",
+    "iata": "SKB",
+    "city": "Basseterre",
+    "country": "KN",
+    "lat": 17.310845,
+    "lon": -62.719117,
+    "type": "large_airport",
+    "distance_km": 13.0
+   },
+   {
+    "name": "F. D. Roosevelt Airport",
+    "iata": "EUX",
+    "city": "Oranjestad",
+    "country": "BQ",
+    "lat": 17.4965,
+    "lon": -62.979401,
+    "type": "medium_airport",
+    "distance_km": 22.5
+   },
+   {
+    "name": "Vance W. Amory International Airport",
+    "iata": "NEV",
+    "city": "Charlestown",
+    "country": "KN",
+    "lat": 17.2057,
+    "lon": -62.589901,
+    "type": "medium_airport",
+    "distance_km": 30.5
+   }
+  ],
+  "nearest_airport_km": 13.0,
+  "distance_beijing_km": 13633.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KN",
+  "country_zh": "聖克里斯多福及尼維斯",
+  "country_en": "Saint Kitts and Nevis",
+  "status": "unknown",
+  "days": 90,
+  "requirement": "Electronic Travel Authorisation[6][120]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KN",
+   "country_zh": "聖克里斯多福及尼維斯",
+   "country_en": "Saint Kitts and Nevis",
+   "status": "unknown",
+   "days": 90,
+   "requirement": "Electronic Travel Authorisation[6][120]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/910"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brimstone%20Hill%20Fortress%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

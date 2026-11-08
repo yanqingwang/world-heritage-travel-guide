@@ -1,0 +1,180 @@
+{
+ "id": "cn-312",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "十堰市",
+ "city_en": "Shiyan",
+ "name_zh": "十堰市武当山风景区",
+ "name_en": "Wudang Mountains",
+ "name_en_source": "wikipedia",
+ "slug": "shiyanshiwudangshan-312",
+ "lat": 32.510141,
+ "lon": 111.100659,
+ "address_zh": "湖北省十堰市丹江口市太和街道永乐路13号",
+ "address_en": "No. 13, Yongle Road, Taihe Street, Danjiangkou City, Shiyan City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "religious",
+ "category_zh": "宗教文化",
+ "category_en": "Religious culture",
+ "intro_zh": "武当山是著名的道教圣地、国家重点风景名胜区，古建筑群被列入世界文化遗产。武当山风光旖旎、山川秀美、众峰嵯岈，而且常年紫气氤氲、云霞迷溕，除了规模宏大的古建筑群，还有博大精深的武术和源远流长的道教文化，尽显神秘空灵气质。",
+ "intro_en": "The Wudang Mountains (simplified Chinese: 武当山; traditional Chinese: 武當山; pinyin: Wǔdāng Shān) are a mountain range in the northwestern part of Hubei, China. They are home to a famous complex of Taoist temples and monasteries associated with the Lord of the North, Xuantian Shangdi. The Wudang Mountains are renowned for the practice of tai chi and Taoism as the Taoist counterpart to the Shaolin Monastery, which is affiliated with Chan Buddhism. The Wudang Mountains are one of the \"Four Sacred Mountains of Taoism\" in China, an important destination for Taoist pilgrimages. The monasteries such as the Wudang Garden were made a UNESCO World Heritage Site in 1994 because of their religious significance and architectural achievement.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Wudangshan_2003_10.jpg/1280px-Wudangshan_2003_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wudangshan 2003 10.jpg",
+   "author": "",
+   "license": "Public domain",
+   "credit": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Wudangshan_2003_10.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/%22North_Wudang_Mountain%22_by_Li_Qun_1991.jpg/1280px-%22North_Wudang_Mountain%22_by_Li_Qun_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"North Wudang Mountain\" by Li Qun 1991.jpg",
+   "author": "Li Qun",
+   "license": "CC BY-SA 4.0",
+   "credit": "http://www.liqunwoodcuts.org/",
+   "source": "https://commons.wikimedia.org/wiki/File:%22North_Wudang_Mountain%22_by_Li_Qun_1991.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg/1280px-FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg",
+   "author": "Mireya Mya",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:FuchenTAOuniversityMexicoMireyaMyaTaichi.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wudang_Garden_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wudang Garden 2.jpg",
+   "author": "Bernalicious",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wudang_Garden_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Wulong_Palace_%28Five_Dragon_Palace%29%2C_Wudang_Mountains%2C_Hubei%2C_China.jpg/1280px-Wulong_Palace_%28Five_Dragon_Palace%29%2C_Wudang_Mountains%2C_Hubei%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Wulong Palace (Five Dragon Palace), Wudang Mountains, Hubei, China.jpg",
+   "author": "折金扇",
+   "license": "CC BY 2.5",
+   "credit": "http://quanmao.lofter.com/post/42e9cf_10f87761",
+   "source": "https://commons.wikimedia.org/wiki/File:Wulong_Palace_%28Five_Dragon_Palace%29%2C_Wudang_Mountains%2C_Hubei%2C_China.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shiyan Wudangshan Airport",
+    "iata": "WDS",
+    "city": "Shiyan (Maojian)",
+    "country": "CN",
+    "lat": 32.592889,
+    "lon": 110.906296,
+    "type": "medium_airport",
+    "distance_km": 20.4
+   },
+   {
+    "name": "Xiangyang Liuji Airport",
+    "iata": "XFN",
+    "city": "Xiangyang (Xiangzhou)",
+    "country": "CN",
+    "lat": 32.152222,
+    "lon": 112.291666,
+    "type": "medium_airport",
+    "distance_km": 118.8
+   },
+   {
+    "name": "Shennongjia Hongping Airport",
+    "iata": "HPG",
+    "city": "Shennongjia (Hongping)",
+    "country": "CN",
+    "lat": 31.626,
+    "lon": 110.34,
+    "type": "medium_airport",
+    "distance_km": 121.7
+   }
+  ],
+  "nearest_airport_km": 20.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "武当山西",
+    "name_en": "Wudangshanxi",
+    "lat": 32.5399667,
+    "lon": 111.0086167,
+    "distance_km": 9.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "武当山",
+    "name_en": "Wudangshan",
+    "lat": 32.540419,
+    "lon": 110.960512,
+    "distance_km": 13.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "浪河",
+    "name_en": "Langhe",
+    "lat": 32.4116035,
+    "lon": 111.2626121,
+    "distance_km": 18.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "宜家酒店",
+   "name_en": "Ikea Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.5132047,
+   "lon": 111.0787208,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/武当山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

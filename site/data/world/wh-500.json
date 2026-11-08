@@ -1,0 +1,162 @@
+{
+ "id": "wh-500",
+ "unesco_id": "500",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 514,
+ "popularity_score": 12956,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "City of Lima",
+ "subdivision_iso": "PE-LIM",
+ "subdivision_zh": "利马大区",
+ "subdivision_en": "Lima Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "利马的历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Lima",
+ "name_local": "Centro histórico de Lima",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "500-historic_centre_of_lima",
+ "lat": -12.05138889,
+ "lon": -77.04305556,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "虽然该市先后经历了多次地震的严重破坏，直到18世纪中叶，这个“帝王之城”一直是西班牙在南美洲占领区的首都和重要城市。这里的许多建筑，如南美洲最大的建筑圣弗兰西斯科女修道院，都是当地的能工巧匠和来自旧大陆的建筑师共同建造的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Although severely damaged by earthquakes, this 'City of the Kings' was, until the middle of the 18th century, the capital and most important city of the Spanish dominions in South America. Many of its buildings, such as the Convent of San Francisco (the largest of its type in this part of the world), are the result of collaboration between local craftspeople and others from the Old World.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Lima, la “Ciudad de los Reyes”, fue la urbe y capital más importante de los dominios españoles en América del Sur hasta mediados del siglo XVIII. Pese a los graves daños sufridos por los terremotos, posee numerosos monumentos arquitectónicos, como el convento de San Francisco, el más grande de esta parte del mundo en su género. Muchos edificios limeños son creaciones conjuntas de artesanos y artistas locales y arquitectos y maestros de obras del Viejo Continente.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20centro%20de%20Lima.jpg?width=1280",
+   "title": "Panorama centro de Lima.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Panorama%20centro%20de%20Lima.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_500.jpg",
+   "title": "Historic Centre of Lima",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/500",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/500",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jorge Chávez International Airport",
+    "iata": "LIM",
+    "city": "Lima",
+    "country": "PE",
+    "lat": -12.0219,
+    "lon": -77.114305,
+    "type": "large_airport",
+    "distance_km": 8.4
+   },
+   {
+    "name": "Francisco Carle Airport",
+    "iata": "JAU",
+    "city": "Jauja",
+    "country": "PE",
+    "lat": -11.7831001282,
+    "lon": -75.47339630130001,
+    "type": "medium_airport",
+    "distance_km": 173.4
+   },
+   {
+    "name": "Alferez Fap David Figueroa Fernandini Airport",
+    "iata": "HUU",
+    "city": "Huánuco",
+    "country": "PE",
+    "lat": -9.878809928894043,
+    "lon": -76.20480346679688,
+    "type": "medium_airport",
+    "distance_km": 258.3
+   }
+  ],
+  "nearest_airport_km": 8.4,
+  "distance_beijing_km": 16618.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/500"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Lima"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

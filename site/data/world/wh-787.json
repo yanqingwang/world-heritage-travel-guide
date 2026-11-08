@@ -1,0 +1,162 @@
+{
+ "id": "wh-787",
+ "unesco_id": "787",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1157,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Bari, Puglia Region",
+ "subdivision_iso": "IT-BA",
+ "subdivision_zh": "巴里廣域市",
+ "subdivision_en": "Metropolitan City of Bari",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿尔贝罗贝洛的圆顶石屋",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Trulli of Alberobello",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "787-the_trulli_of_alberobello",
+ "lat": 40.7825,
+ "lon": 17.23694,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "意大利普利亚区南部发现的圆顶石屋，是一种石灰石住所，是史前建筑技术中无灰泥建筑技术的典型代表，该技术在这一地区仍然沿用。圆顶石屋是由从附近地区采集来的石灰石石块粗糙堆砌而成的。由石灰石板撑起的金字塔形、圆锥形或球状屋顶是石屋的特色。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The trulli , limestone dwellings found in the southern region of Puglia, are remarkable examples of drywall (mortarless) construction, a prehistoric building technique still in use in this region. The trulli are made of roughly worked limestone boulders collected from neighbouring fields. Characteristically, they feature pyramidal, domed or conical roofs built up of corbelled limestone slabs.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alberobello%20Trulli.jpg?width=1280",
+   "title": "Alberobello Trulli.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Alberobello%20Trulli.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_787.jpg",
+   "title": "The <em>Trulli</em> of Alberobello",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/787",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/787",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bari Karol Wojtyła International Airport",
+    "iata": "BRI",
+    "city": "Bari",
+    "country": "IT",
+    "lat": 41.138901,
+    "lon": 16.760599,
+    "type": "large_airport",
+    "distance_km": 56.3
+   },
+   {
+    "name": "Brindisi Airport",
+    "iata": "BDS",
+    "city": "Brindisi",
+    "country": "IT",
+    "lat": 40.6576,
+    "lon": 17.947001,
+    "type": "large_airport",
+    "distance_km": 61.4
+   },
+   {
+    "name": "Foggia Gino Lisa Airport",
+    "iata": "FOG",
+    "city": "Foggia (FG)",
+    "country": "IT",
+    "lat": 41.433596,
+    "lon": 15.534566,
+    "type": "medium_airport",
+    "distance_km": 159.9
+   }
+  ],
+  "nearest_airport_km": 56.3,
+  "distance_beijing_km": 7896.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/787"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-481",
+ "unesco_id": "481",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1092,
+ "popularity_score": null,
+ "country": "LA",
+ "country_zh": "老挝",
+ "country_en": "Laos",
+ "countries": [
+  {
+   "iso2": "LA",
+   "zh": "老挝",
+   "en": "Laos"
+  }
+ ],
+ "region": "Champasak Province",
+ "subdivision_iso": "LA-CH",
+ "subdivision_zh": "占巴塞省",
+ "subdivision_en": "Champasak Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "占巴塞文化景观内的瓦普庙和相关古民居",
+ "name_zh_source": "unesco_official",
+ "name_en": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "481-vat_phou_and_associated_ancient_settleme",
+ "lat": 14.83333333,
+ "lon": 105.8,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "占巴塞文化景观，包括瓦普神庙建筑群，是一处完好保留了1000多年的人类文化景观。占巴塞文化景观，以山顶至河岸为轴心，在方圆10公里的地方，整齐而有规划地建造了一系列庙宇、神殿和水利设施，完美表达了古代印度文明中天人关系的文化理念。占巴塞文化景观还包括湄公河两岸的两座文化名城和普高山，体现了公元5世纪到15世纪以高棉帝国为代表的老挝文化发展概况。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Champasak cultural landscape, including the Vat Phou Temple complex, is a remarkably well-preserved planned landscape more than 1,000 years old. It was shaped to express the Hindu vision of the relationship between nature and humanity, using an axis from mountain top to river bank to lay out a geometric pattern of temples, shrines and waterworks extending over some 10 km. Two planned cities on the banks of the Mekong River are also part of the site, as well as Phou Kao mountain. The whole represents a development ranging from the 5th to 15th centuries, mainly associated with the Khmer Empire.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WatPhouwholesite.jpg?width=1280",
+   "title": "WatPhouwholesite.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:WatPhouwholesite.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_481.jpg",
+   "title": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/481",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/481",
+ "transport": {
+  "airports": [
+   {
+    "name": "Pakse International Airport",
+    "iata": "PKZ",
+    "city": "Pakse",
+    "country": "LA",
+    "lat": 15.133973,
+    "lon": 105.779871,
+    "type": "large_airport",
+    "distance_km": 33.5
+   },
+   {
+    "name": "Ubon Ratchathani Airport",
+    "iata": "UBP",
+    "city": "Ubon Ratchathani",
+    "country": "TH",
+    "lat": 15.2512998581,
+    "lon": 104.870002747,
+    "type": "medium_airport",
+    "distance_km": 110.2
+   },
+   {
+    "name": "Siem Reap-Angkor International Airport",
+    "iata": "SAI",
+    "city": "Siem Reap",
+    "country": "KH",
+    "lat": 13.36974,
+    "lon": 104.223831,
+    "type": "large_airport",
+    "distance_km": 235.3
+   }
+  ],
+  "nearest_airport_km": 33.5,
+  "distance_beijing_km": 2965.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LA",
+  "country_zh": "老挝",
+  "country_en": "Laos",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6]",
+  "notes": "From 1 July to 31 December, a group of 5 tourists accompanied by a travel agency can enter Laos without a visa for 15 days by arranging their itinerary through a registered travel agency in Laos and applying for visa exemption in advance. 18[Note 1] of the 33 border crossings are only open to regula"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LA",
+   "country_zh": "老挝",
+   "country_en": "Laos",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6]",
+   "notes": "From 1 July to 31 December, a group of 5 tourists accompanied by a travel agency can enter Laos without a visa for 15 days by arranging their itinerary through a registered travel agency in Laos and applying for visa exemption in advance. 18[Note 1] of the 33 border crossings are only open to regula"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/481"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

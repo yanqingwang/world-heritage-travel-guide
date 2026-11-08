@@ -1,0 +1,160 @@
+{
+ "id": "wh-1303",
+ "unesco_id": "1303",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 159,
+ "popularity_score": 86848,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Wrexham County Borough, County of Denbighshire, Borough of Oswestry, County of Shropshire",
+ "subdivision_iso": "GB-WRX",
+ "subdivision_zh": "雷克瑟姆郡自治市",
+ "subdivision_en": "Wrexham County Borough",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "龐特卡薩魯岧水道",
+ "name_zh_source": "wikidata",
+ "name_en": "Pontcysyllte Aqueduct and Canal",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1303-pontcysyllte_aqueduct_and_canal",
+ "lat": 52.9702,
+ "lon": -3.08782,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "2009",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "龐特卡薩魯岧水道（英語：Pontcysyllte Aqueduct and Canal、威爾斯語：Traphont Ddŵr Pontcysyllte）是英國的一處世界文化遺產。位於威爾士西北部，雷克斯漢姆的郊外。包括了水道橋和運河。水道橋上的運河可承載船隻航行。龐特卡薩魯岧水道完成於1805年，是英國最長和最高的水道橋，被指定為英國一級登录建筑。現在水道橋上每年有超過10000艘船舶航行。在2009年6月27日，龐特卡薩魯岧水道被列入世界文化遺產。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Situated in north-eastern Wales, the 18 kilometre long Pontcysyllte Aqueduct and Canal is a feat of civil engineering of the Industrial Revolution, completed in the early years of the 19th century. Covering a difficult geographical setting, the building of the canal required substantial, bold civil engineering solutions, especially as it was built without using locks. The aqueduct is a pioneering masterpiece of engineering and monumental metal architecture, conceived by the celebrated civil engineer Thomas Telford. The use of both cast and wrought iron in the aqueduct enabled the construction of arches that were light and d strong, producing an overall effect that is both monumental and elegant. The property is inscribed as a masterpiece of creative genius, and as a remarkable synthesis of expertise already acquired in Europe. It is also recognized as an innovative ensemble that inspired many projects all over the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pontcysyllte%20aqueduct%20arp.jpg?width=1280",
+   "title": "Pontcysyllte aqueduct arp.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pontcysyllte%20aqueduct%20arp.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1303.jpg",
+   "title": "Pontcysyllte Aqueduct and Canal",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1303",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1303",
+ "transport": {
+  "airports": [
+   {
+    "name": "Liverpool John Lennon Airport",
+    "iata": "LPL",
+    "city": "Liverpool",
+    "country": "GB",
+    "lat": 53.334863,
+    "lon": -2.849637,
+    "type": "large_airport",
+    "distance_km": 43.5
+   },
+   {
+    "name": "Manchester Airport",
+    "iata": "MAN",
+    "city": "Manchester, Greater Manchester",
+    "country": "GB",
+    "lat": 53.349375,
+    "lon": -2.279521,
+    "type": "large_airport",
+    "distance_km": 68.4
+   },
+   {
+    "name": "Birmingham Airport",
+    "iata": "BHX",
+    "city": "Birmingham, West Midlands",
+    "country": "GB",
+    "lat": 52.453899,
+    "lon": -1.74803,
+    "type": "large_airport",
+    "distance_km": 107.0
+   }
+  ],
+  "nearest_airport_km": 43.5,
+  "distance_beijing_km": 8120.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1303"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pontcysyllte%20Aqueduct"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

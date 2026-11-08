@@ -1,0 +1,242 @@
+{
+ "id": "wh-190",
+ "unesco_id": "190",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 97,
+ "popularity_score": 151145,
+ "country": "LY",
+ "country_zh": "利比亚",
+ "country_en": "Libya",
+ "countries": [
+  {
+   "iso2": "LY",
+   "zh": "利比亚",
+   "en": "Libya"
+  }
+ ],
+ "region": "District of Ghebel Akhdar",
+ "subdivision_iso": "LY-JA",
+ "subdivision_zh": "绿山省",
+ "subdivision_en": "Jabal al Akhdar",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "昔兰尼考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Site of Cyrene",
+ "name_local": "موقع شحات (قورينة) الأثري",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "190-archaeological_site_of_cyrene",
+ "lat": 32.816666666,
+ "lon": 21.85,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(vi)",
+ "year": "1982",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "昔兰尼是锡拉岛希腊人的殖民地，是希腊最主要的城市之一，当时已经罗马化。公元365年发生地震之前，它一直都是一个强大繁荣的都市。现在，这片废墟自18世纪以来一直都很有名，它向人们展示着昔兰尼几千年的历史。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A colony of the Greeks of Thera, Cyrene was one of the principal cities in the Hellenic world. It was Romanized and remained a great capital until the earthquake of 365. A thousand years of history is written into its ruins, which have been famous since the 18th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "موقع شحات (قورينة) الأثري كانت شحات مستعمرة للإغريق في جزيرة ثيرا وكانت إحدى مدن العالم الهلّيني الأساسية. وإذ تحولت إلى مدينة رومانية ظلت عاصمة كبيرة حتى زلزال العام 365. وفي ثنايا آثارها التي اشتهرت منذ القرن الثامن عشر يختبئ ألف عام من التاريخ.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Archaeological%20Site%20of%20Cyrene-109025.jpg?width=1280",
+   "title": "Archaeological Site of Cyrene-109025.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Archaeological%20Site%20of%20Cyrene-109025.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/0_The_Road_To_Cyrene.jpg/1280px-0_The_Road_To_Cyrene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "0 The Road To Cyrene.jpg",
+   "author": "Sanadalahlafi",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:0_The_Road_To_Cyrene.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1_Caravanserai_1.jpg/1280px-1_Caravanserai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 Caravanserai 1.jpg",
+   "author": "slsphotolibrary",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/189018824@N02/51816655811/",
+   "source": "https://commons.wikimedia.org/wiki/File:1_Caravanserai_1.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/1_Caravanserai_2.jpg/1280px-1_Caravanserai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 Caravanserai 2.jpg",
+   "author": "slsphotolibrary",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/189018824@N02/51817002084/",
+   "source": "https://commons.wikimedia.org/wiki/File:1_Caravanserai_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1_Caravanserai_3.jpg/1280px-1_Caravanserai_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 Caravanserai 3.jpg",
+   "author": "slsphotolibrary",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/189018824@N02/51817001874/",
+   "source": "https://commons.wikimedia.org/wiki/File:1_Caravanserai_3.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/190",
+ "transport": {
+  "airports": [
+   {
+    "name": "Al Abraq International Airport",
+    "iata": "LAQ",
+    "city": "Al Albraq",
+    "country": "LY",
+    "lat": 32.789036,
+    "lon": 21.954864,
+    "type": "large_airport",
+    "distance_km": 10.3
+   },
+   {
+    "name": "Benina International Airport",
+    "iata": "BEN",
+    "city": "Benina",
+    "country": "LY",
+    "lat": 32.096802,
+    "lon": 20.269501,
+    "type": "large_airport",
+    "distance_km": 168.5
+   },
+   {
+    "name": "Chania International Airport",
+    "iata": "CHQ",
+    "city": "Souda",
+    "country": "GR",
+    "lat": 35.531207,
+    "lon": 24.150673,
+    "type": "large_airport",
+    "distance_km": 368.6
+   }
+  ],
+  "nearest_airport_km": 10.3,
+  "distance_beijing_km": 8088.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [
+  {
+   "name": "فندق مرحبا-البيضاء",
+   "name_en": "Marhaba Hotel -Al Bayda",
+   "stars": null,
+   "brand": null,
+   "lat": 32.7680311,
+   "lon": 21.7884641,
+   "distance_km": 7.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق مرحباً السياحي",
+   "name_en": "MARHABA HOTEL",
+   "stars": null,
+   "brand": null,
+   "lat": 32.7680769,
+   "lon": 21.7883989,
+   "distance_km": 7.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق مرحبا السياحي",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.7680337,
+   "lon": 21.7881699,
+   "distance_km": 7.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق المدينة-البيضاء",
+   "name_en": "AL MADINA Hotel -Al Bayda",
+   "stars": null,
+   "brand": null,
+   "lat": 32.7674373,
+   "lon": 21.7858607,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق لؤلؤة الخليج",
+   "name_en": "Lulua Al Khaleej Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.7649891,
+   "lon": 21.7775183,
+   "distance_km": 8.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "LY",
+  "country_zh": "利比亚",
+  "country_en": "Libya",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6][81]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LY",
+   "country_zh": "利比亚",
+   "country_en": "Libya",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][81]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 75
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/190"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cyrene%2C%20Libya"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

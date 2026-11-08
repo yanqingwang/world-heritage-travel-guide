@@ -1,0 +1,154 @@
+{
+ "id": "wh-1063",
+ "unesco_id": "1063",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 886,
+ "popularity_score": null,
+ "country": "HU",
+ "country_zh": "匈牙利",
+ "country_en": "Hungary",
+ "countries": [
+  {
+   "iso2": "HU",
+   "zh": "匈牙利",
+   "en": "Hungary"
+  }
+ ],
+ "region": "County of Borsod-Abaúj-Zemplén",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "托卡伊葡萄酒产地历史文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tokaj Wine Region Historic Cultural Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1063-tokaj_wine_region_historic_cultural_land",
+ "lat": 48.15,
+ "lon": 21.35,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)",
+ "year": "2002",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "托卡伊葡萄酒产地历史文化景观生动地表现了该地区低山河谷地带历史悠久的葡萄酒酿造传统。葡萄园体系繁杂庞大，包括葡萄园、农场、村庄、小城镇，还有历史遗留下来的网络般的地下酒窖，显示了著名的托卡伊葡萄酒的每个酿造过程，近三个世纪以来其质量和生产都受到严格的管理和控制。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The cultural landscape of Tokaj graphically demonstrates the long tradition of wine production in this region of low hills and river valleys. The intricate pattern of vineyards, farms, villages and small towns, with their historic networks of deep wine cellars, illustrates every facet of the production of the famous Tokaj wines, the quality and management of which have been strictly regulated for nearly three centuries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1063.jpg",
+   "title": "Tokaj Wine Region Historic Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1063",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1063",
+ "transport": {
+  "airports": [
+   {
+    "name": "Košice International Airport",
+    "iata": "KSC",
+    "city": "Košice",
+    "country": "SK",
+    "lat": 48.663101,
+    "lon": 21.2411,
+    "type": "medium_airport",
+    "distance_km": 57.6
+   },
+   {
+    "name": "Debrecen International Airport",
+    "iata": "DEB",
+    "city": "Debrecen",
+    "country": "HU",
+    "lat": 47.489469,
+    "lon": 21.616278,
+    "type": "large_airport",
+    "distance_km": 76.1
+   },
+   {
+    "name": "Satu Mare International Airport",
+    "iata": "SUJ",
+    "city": "Satu Mare",
+    "country": "RO",
+    "lat": 47.7033,
+    "lon": 22.8857,
+    "type": "medium_airport",
+    "distance_km": 124.7
+   }
+  ],
+  "nearest_airport_km": 57.6,
+  "distance_beijing_km": 7130.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HU",
+  "country_zh": "匈牙利",
+  "country_en": "Hungary",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HU",
+   "country_zh": "匈牙利",
+   "country_en": "Hungary",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1063"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

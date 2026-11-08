@@ -1,0 +1,243 @@
+{
+ "id": "cn-345",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "无锡市",
+ "city_en": "Wuxi",
+ "name_zh": "无锡市灵山大佛景区",
+ "name_en": "Grand Buddha at Ling Shan",
+ "name_en_source": "wikipedia",
+ "slug": "wuxishilingshandafu-345",
+ "lat": 31.4364,
+ "lon": 120.102894,
+ "address_zh": "无锡市滨湖区群灵路与灵湖路交汇处附近西北",
+ "address_en": "Northwest near the intersection of Qunling Road and Linghu Road, Binhu District, Wuxi City",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "灵山景区北倚灵山，南面太湖，是展示佛教文化的主题园区。释迦牟尼佛青铜立像灵山大佛，千年古刹祥符禅寺，音乐群雕九龙灌浴，世界佛教论坛会址灵山梵宫，形成了一个完整有序、各自独立、又密切关联的展现佛教文化的景观群。",
+ "intro_en": "The Grand Buddha (simplified Chinese: 灵山大佛; traditional Chinese: 靈山大佛; pinyin: Língshān Dà Fó) is located on the north shore of Lake Tai, near Wuxi, Jiangsu, within the Lingshan Scenic Area. It is one of the largest Buddha statues in China and also in the world. The Grand Buddha at Ling Shan is an outdoor bronze Amitabha standing Buddha, weighing over 700 metric tons (690 long tons; 770 short tons). It was completed at the end of 1996. The monument is 88 meters (289 ft) in total height, including a 9 m lotus pedestal. In 2008, the Five-signets Palace and a Hinduism-inspired Brahma Palace were built south-east of the Grand Buddha Statue.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_Buddha_at_Ling_Shan%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Grand Buddha at Ling Shan, China.jpg",
+   "author": "gdczjkk",
+   "license": "CC BY 3.0",
+   "credit": "https://www.panoramio.com/photo/56488717",
+   "source": "https://commons.wikimedia.org/wiki/File:Grand_Buddha_at_Ling_Shan%2C_China.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Grand_Buddha_at_Ling_Shan%2899_Steps%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Grand Buddha at Ling Shan(99 Steps).jpg",
+   "author": "Cabby329 at English Wikipedia",
+   "license": "Public domain",
+   "credit": "Transferred from en.wikipedia to Commons by .:Ajvol:. .",
+   "source": "https://commons.wikimedia.org/wiki/File:Grand_Buddha_at_Ling_Shan%2899_Steps%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Grand_Buddha_at_Ling_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Grand Buddha at Ling Shan.jpg",
+   "author": "王波波",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Grand_Buddha_at_Ling_Shan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Grand_Buddha_at_Ling_Shan_%2801%29.jpg/1280px-Grand_Buddha_at_Ling_Shan_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Grand Buddha at Ling Shan (01).jpg",
+   "author": "Mike",
+   "license": "CC BY-SA 2.0",
+   "credit": "https://www.flickr.com/photos/squeakymarmot/15793519886/",
+   "source": "https://commons.wikimedia.org/wiki/File:Grand_Buddha_at_Ling_Shan_%2801%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ling_shan_Buddha%27s_birth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Ling shan Buddha's birth.jpg",
+   "author": "Synyan",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Ling_shan_Buddha%27s_birth.jpg"
+  }
+ ],
+ "web": "https://www.chinalingshan.com/web?code=10002-01",
+ "booking": "https://www.chinalingshan.com/web",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sunan Shuofang International Airport",
+    "iata": "WUX",
+    "city": "Wuxi",
+    "country": "CN",
+    "lat": 31.496952,
+    "lon": 120.43038,
+    "type": "large_airport",
+    "distance_km": 31.8
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 62.1
+   },
+   {
+    "name": "Jiaxing Nanhu Airport",
+    "iata": "JNH",
+    "city": "Xiuzhou, Hangzhou",
+    "country": "CN",
+    "lat": 30.698056,
+    "lon": 120.663056,
+    "type": "medium_airport",
+    "distance_km": 97.9
+   }
+  ],
+  "nearest_airport_km": 31.8,
+  "high_speed_stations": [
+   {
+    "name": "无锡",
+    "name_en": "Wuxi",
+    "lat": 31.5898087,
+    "lon": 120.3018066,
+    "distance_km": 25.4,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "惠山",
+    "name_en": "Huishan",
+    "lat": 31.6716041,
+    "lon": 120.1963681,
+    "distance_km": 27.6,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "前黄",
+    "name_en": null,
+    "lat": 31.5705329,
+    "lon": 119.9929708,
+    "distance_km": 18.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "无锡西",
+    "name_en": "Wuxixi",
+    "lat": 31.6152731,
+    "lon": 120.1671256,
+    "distance_km": 20.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "无锡南",
+    "name_en": null,
+    "lat": 31.5481452,
+    "lon": 120.3373866,
+    "distance_km": 25.5,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Lakeview Hotel",
+   "name_en": "Lakeview Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5106978,
+   "lon": 120.2399808,
+   "distance_km": 15.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "1881 Peninsula Hotel",
+   "name_en": "1881 Peninsula Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5185862,
+   "lon": 120.2465636,
+   "distance_km": 16.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "无锡江南四季酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.4755841,
+   "lon": 120.270615,
+   "distance_km": 16.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万豪酒店",
+   "name_en": "Wuxi Marriott Hotel Lihu Lake",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5205866,
+   "lon": 120.247365,
+   "distance_km": 16.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "香格里拉温泉酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.5668541,
+   "lon": 120.2391272,
+   "distance_km": 19.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 104,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/灵山大佛"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

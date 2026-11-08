@@ -1,0 +1,162 @@
+{
+ "id": "wh-722",
+ "unesco_id": "722",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 329,
+ "popularity_score": 26660,
+ "country": "PH",
+ "country_zh": "菲律宾",
+ "country_en": "Philippines",
+ "countries": [
+  {
+   "iso2": "PH",
+   "zh": "菲律宾",
+   "en": "Philippines"
+  }
+ ],
+ "region": "Ifugao Province, Cordillera Region, Luzon Island",
+ "subdivision_iso": "PH-IFU",
+ "subdivision_zh": "伊富高省",
+ "subdivision_en": "Ifugao",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "菲律宾科迪勒拉山的水稻梯田",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rice Terraces of the Philippine Cordilleras",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "722-rice_terraces_of_the_philippine_cordille",
+ "lat": 16.93389,
+ "lon": 121.13667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "两千年以来，伊富高山上的稻田一直是依山坡地形种植的。种植知识代代相传，神圣的传统文化与社会使这里形成了一道美丽的风景，体现了人类与环境之间的征服和融合。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "For 2,000 years, the high rice fields of the Ifugao have followed the contours of the mountains. The fruit of knowledge handed down from one generation to the next, and the expression of sacred traditions and a delicate social balance, they have helped to create a landscape of great beauty that expresses the harmony between humankind and the environment.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Batad%20Rice%20Terraces%20after%20the%20rain.JPG?width=1280",
+   "title": "Batad Rice Terraces after the rain.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Batad%20Rice%20Terraces%20after%20the%20rain.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_722.jpg",
+   "title": "Rice Terraces of the Philippine Cordilleras",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/722",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/722",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cauayan Airport",
+    "iata": "CYZ",
+    "city": "Cauayan City",
+    "country": "PH",
+    "lat": 16.9298992157,
+    "lon": 121.752998352,
+    "type": "medium_airport",
+    "distance_km": 65.6
+   },
+   {
+    "name": "Tuguegarao Airport",
+    "iata": "TUG",
+    "city": "Tuguegarao City",
+    "country": "PH",
+    "lat": 17.6433676823,
+    "lon": 121.733150482,
+    "type": "medium_airport",
+    "distance_km": 101.2
+   },
+   {
+    "name": "Laoag International Airport",
+    "iata": "LAO",
+    "city": "Laoag City",
+    "country": "PH",
+    "lat": 18.175089,
+    "lon": 120.531006,
+    "type": "large_airport",
+    "distance_km": 152.2
+   }
+  ],
+  "nearest_airport_km": 65.6,
+  "distance_beijing_km": 2622.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PH",
+  "country_zh": "菲律宾",
+  "country_en": "Philippines",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required",
+  "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PH",
+   "country_zh": "菲律宾",
+   "country_en": "Philippines",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required",
+   "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 28
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/722"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rice%20Terraces%20of%20the%20Philippine%20Cordilleras"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

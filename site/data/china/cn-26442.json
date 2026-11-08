@@ -1,0 +1,224 @@
+{
+ "id": "cn-26442",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "海南省",
+ "province_en": "Hainan",
+ "province_iso": "CN-HI",
+ "city_zh": "三亚市",
+ "city_en": "Sanya",
+ "name_zh": "三亚市天涯海角游览区",
+ "name_en": "Tianya Haijiao",
+ "name_en_source": "wikipedia",
+ "slug": "sanyashitianyahaijiaoyoulanqu-26442",
+ "lat": 18.300971,
+ "lon": 109.354708,
+ "address_zh": "海南省三亚市沿海滨西行26公里马岭山下天涯海角景区",
+ "address_en": "Tianya Haijiao Scenic Area at the foot of Maling Mountain, 26 kilometers west along the coast of Sanya City, Hainan Province",
+ "address_en_source": "machine_translation",
+ "category": "coastal",
+ "category_zh": "海滨度假",
+ "category_en": "Coastal resort",
+ "intro_zh": "天涯海角游览区，位于海南省三亚市区西南方向，陆地面积10.4平方公里，海域面积6平方公里，背靠马岭山，面向茫茫大海。以美丽迷人的热带自然海滨风光，悠久独特的历史文化和浓郁多彩的民族风情驰名海内外，是三亚市的城市名片。",
+ "intro_en": "Tianya Haijiao (Chinese: 天涯海角; pinyin: Tiānyá Hǎijiǎo; lit. 'Edges of the heaven', 'corners of the sea') is a popular visitor attraction 24 kilometres (15 mi) west of Sanya city, Hainan, China. The venue is considered the southernmost point of China's land area despite the fact that Jinmu Cape actually is. It is for this reason that it is a popular sightseeing destination for tourists, as well as the fact that, on clear days, various islets are visible. In Chinese literature, the cape is mentioned in many famous poems, such as \"I will follow you to Tian-Ya-Hai-Jiao\", which means the couple will never be separated. Therefore, many newlyweds spend part of their honeymoon visiting the place. The term is also used to refer to other similar locations such as Cabo da Roca.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Beach_of_Tianya-Haijiao_near_Tianya_Rock_%2820230325134441%29.jpg/1280px-Beach_of_Tianya-Haijiao_near_Tianya_Rock_%2820230325134441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Beach of Tianya-Haijiao near Tianya Rock (20230325134441).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Beach_of_Tianya-Haijiao_near_Tianya_Rock_%2820230325134441%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Nantian_Yizhu_Rock_at_Tianya-Haijiao_%2820230325135141%29.jpg/1280px-Nantian_Yizhu_Rock_at_Tianya-Haijiao_%2820230325135141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Nantian Yizhu Rock at Tianya-Haijiao (20230325135141).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Nantian_Yizhu_Rock_at_Tianya-Haijiao_%2820230325135141%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Tianya_Haijiao%2C_Sanya.jpg/1280px-Tianya_Haijiao%2C_Sanya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianya Haijiao, Sanya.jpg",
+   "author": "钉钉",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianya_Haijiao%2C_Sanya.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tianya_Haijiao_020.JPG/1280px-Tianya_Haijiao_020.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianya Haijiao 020.JPG",
+   "author": "Huangdan2060",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianya_Haijiao_020.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Tianya_Haijiao_056.JPG/1280px-Tianya_Haijiao_056.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianya Haijiao 056.JPG",
+   "author": "Huangdan2060",
+   "license": "CC BY 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianya_Haijiao_056.JPG"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sanya Phoenix International Airport",
+    "iata": "SYX",
+    "city": "Sanya (Tianya)",
+    "country": "CN",
+    "lat": 18.3029,
+    "lon": 109.412003,
+    "type": "large_airport",
+    "distance_km": 6.1
+   },
+   {
+    "name": "Qionghai Bo'ao Airport",
+    "iata": "BAR",
+    "city": "Qionghai (Basuo)",
+    "country": "CN",
+    "lat": 19.140951,
+    "lon": 110.452766,
+    "type": "medium_airport",
+    "distance_km": 148.6
+   },
+   {
+    "name": "Haikou Meilan International Airport",
+    "iata": "HAK",
+    "city": "Haikou (Meilan)",
+    "country": "CN",
+    "lat": 19.9349,
+    "lon": 110.459,
+    "type": "large_airport",
+    "distance_km": 215.6
+   }
+  ],
+  "nearest_airport_km": 6.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "天涯海角",
+    "name_en": null,
+    "lat": 18.3077792,
+    "lon": 109.334811,
+    "distance_km": 2.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "凤凰机场",
+    "name_en": "Fenghuang Airport",
+    "lat": 18.3104251,
+    "lon": 109.4048937,
+    "distance_km": 5.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "红塘湾",
+    "name_en": null,
+    "lat": 18.3135364,
+    "lon": 109.2894425,
+    "distance_km": 7.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "三亚山海天大酒店",
+   "name_en": "The Shanhaitian Resort",
+   "stars": 5,
+   "brand": null,
+   "lat": 18.2192059,
+   "lon": 109.5091336,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "三亚君吉海景酒店",
+   "name_en": "Sanya Junji Seaview Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 18.2204183,
+   "lon": 109.5100902,
+   "distance_km": 18.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "三亚文华东方酒店",
+   "name_en": "Mandarin Oriental Hotel, Sanya",
+   "stars": 5,
+   "brand": null,
+   "lat": 18.2122162,
+   "lon": 109.5329474,
+   "distance_km": 21.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "三亚太阳湾柏悦酒店",
+   "name_en": "Park Hyatt Sanya Sunny Bay Resort",
+   "stars": 5,
+   "brand": null,
+   "lat": 18.1906818,
+   "lon": 109.6061302,
+   "distance_km": 29.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "海居帕尔曼度假酒店",
+   "name_en": "Pullman Oceanview Sanya Bay Resort & Spa",
+   "stars": 4,
+   "brand": null,
+   "lat": 18.287019,
+   "lon": 109.4489884,
+   "distance_km": 10.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 134,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天涯海角"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

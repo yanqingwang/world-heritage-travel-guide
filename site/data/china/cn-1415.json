@@ -1,0 +1,206 @@
+{
+ "id": "cn-1415",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山东省",
+ "province_en": "Shandong",
+ "province_iso": "CN-SD",
+ "city_zh": "济南市",
+ "city_en": "Jinan",
+ "name_zh": "济南市天下第一泉景区",
+ "name_en": "Jinanshitianxiadiyiquan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "jinanshitianxiadiyiquan-1415",
+ "lat": 36.670473,
+ "lon": 117.02025,
+ "address_zh": "山东省济南市历下区趵突泉南路1号",
+ "address_en": "No. 1, Baotuquan South Road, Lixia District, Jinan City, Shandong Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "景区总面积3.1平方公里，由“一河（护城河）一湖（大明湖）三泉（趵突泉、黑虎泉、五龙潭三大泉群）四园（趵突泉公园、环城公园、五龙潭公园、大明湖风景区）”组成，是集独特的自然山水景观和深厚的历史文化底蕴于一体的旅游景区。",
+ "intro_en": "The scenic area has a total area of ​​3.1 square kilometers and is composed of \"one river (moat), one lake (Daming Lake), three springs (the three major spring groups of Baotu Spring, Black Tiger Spring, and Wulongtan) and four parks (Baotu Spring Park, Huancheng Park, Wulongtan Park, and Daming Lake Scenic Area)\". It is a tourist attraction integrating unique natural landscapes and profound historical and cultural heritage.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "http://www.txdyq.cn/index.php?m=wap&a=page_about&catid=49",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jinan Yaoqiang International Airport",
+    "iata": "TNA",
+    "city": "Jinan (Licheng)",
+    "country": "CN",
+    "lat": 36.857201,
+    "lon": 117.216003,
+    "type": "large_airport",
+    "distance_km": 27.1
+   },
+   {
+    "name": "Jining Da'an Airport",
+    "iata": "JNG",
+    "city": "Jining",
+    "country": "CN",
+    "lat": 35.647358,
+    "lon": 116.743269,
+    "type": "medium_airport",
+    "distance_km": 116.5
+   },
+   {
+    "name": "Dongying Shengli Airport",
+    "iata": "DOY",
+    "city": "Dongying (Kenli)",
+    "country": "CN",
+    "lat": 37.50137,
+    "lon": 118.789863,
+    "type": "medium_airport",
+    "distance_km": 182.1
+   }
+  ],
+  "nearest_airport_km": 27.1,
+  "high_speed_stations": [
+   {
+    "name": "大明湖",
+    "name_en": "Daminghu",
+    "lat": 36.6811875,
+    "lon": 117.0219482,
+    "distance_km": 1.2,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": true
+   },
+   {
+    "name": "济南",
+    "name_en": "Jinan",
+    "lat": 36.6708478,
+    "lon": 116.9851524,
+    "distance_km": 3.1,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": true
+   },
+   {
+    "name": "济南西",
+    "name_en": "Jinanxi",
+    "lat": 36.668804,
+    "lon": 116.8860045,
+    "distance_km": 12.0,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "北园",
+    "name_en": "Beiyuan",
+    "lat": 36.6926612,
+    "lon": 116.9976413,
+    "distance_km": 3.2,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "黄台",
+    "name_en": "Huangtai",
+    "lat": 36.6915001,
+    "lon": 117.0570412,
+    "distance_km": 4.0,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "东沙王庄",
+    "name_en": "Dongshawangzhuang",
+    "lat": 36.7058607,
+    "lon": 116.940053,
+    "distance_km": 8.2,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "鲁能贵和洲际酒店",
+   "name_en": "Intercontinental Jinan City Center",
+   "stars": null,
+   "brand": "InterContinental",
+   "lat": 36.6631811,
+   "lon": 117.0197472,
+   "distance_km": 0.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "济南香格里拉大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6589938,
+   "lon": 117.0164219,
+   "distance_km": 1.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "银座索菲特大饭店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6591918,
+   "lon": 117.0242391,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万达凯悦酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6622738,
+   "lon": 116.9940358,
+   "distance_km": 2.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "济南鲁能希尔顿酒店及公寓",
+   "name_en": "Hilton",
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 36.5941846,
+   "lon": 116.9970897,
+   "distance_km": 8.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 131,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

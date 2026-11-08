@@ -1,0 +1,162 @@
+{
+ "id": "wh-990",
+ "unesco_id": "990",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1209,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IT-PG",
+ "subdivision_zh": "佩魯賈省",
+ "subdivision_en": "province of Perugia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿西西古镇的方济各会修道院与大教堂",
+ "name_zh_source": "unesco_official",
+ "name_en": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "990-assisi,_the_basilica_of_san_francesco_an",
+ "lat": 43.06616667,
+ "lon": 12.62244444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿西西古镇是建在山上的中世纪城市，它是方济各会的创始者意大利人圣方济各(Saint Francis)的出生地，与方济各会的建筑密切联系。这里有许多中世纪的艺术杰作，例如圣方济各大教堂，意大利画家契马布埃(Cimabue)、西蒙纳·马蒂尼(Simone Martini)、洛伦泽蒂(Pietro Lorenzetti)、乔托(Giotto)等大师的绘画作品。这些杰作使得阿西西古镇成为研究意大利以及欧洲艺术和建筑发展的一个重要参考。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Assisi, a medieval city built on a hill, is the birthplace of Saint Francis, closely associated with the work of the Franciscan Order. Its medieval art masterpieces, such as the Basilica of San Francesco and paintings by Cimabue, Pietro Lorenzetti, Simone Martini and Giotto, have made Assisi a fundamental reference point for the development of Italian and European art and architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Francesco%20Basilica2.jpg?width=1280",
+   "title": "San Francesco Basilica2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:San%20Francesco%20Basilica2.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_990.jpg",
+   "title": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/990",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/990",
+ "transport": {
+  "airports": [
+   {
+    "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
+    "iata": "PEG",
+    "city": "Perugia (PG)",
+    "country": "IT",
+    "lat": 43.095901,
+    "lon": 12.5132,
+    "type": "large_airport",
+    "distance_km": 9.5
+   },
+   {
+    "name": "Marche Airport",
+    "iata": "AOI",
+    "city": "Falconara Marittima (AN)",
+    "country": "IT",
+    "lat": 43.616299,
+    "lon": 13.3623,
+    "type": "medium_airport",
+    "distance_km": 85.6
+   },
+   {
+    "name": "Federico Fellini International Airport",
+    "iata": "RMI",
+    "city": "Rimini (RN)",
+    "country": "IT",
+    "lat": 44.020024,
+    "lon": 12.612198,
+    "type": "large_airport",
+    "distance_km": 106.1
+   }
+  ],
+  "nearest_airport_km": 9.5,
+  "distance_beijing_km": 8039.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/990"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

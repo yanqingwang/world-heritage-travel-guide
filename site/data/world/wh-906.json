@@ -1,0 +1,162 @@
+{
+ "id": "wh-906",
+ "unesco_id": "906",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 463,
+ "popularity_score": 15521,
+ "country": "RO",
+ "country_zh": "罗马尼亚",
+ "country_en": "Romania",
+ "countries": [
+  {
+   "iso2": "RO",
+   "zh": "罗马尼亚",
+   "en": "Romania"
+  }
+ ],
+ "region": "Counties of Alba and Hunedoara, Region of Transylvania",
+ "subdivision_iso": "RO-AB",
+ "subdivision_zh": "阿尔巴县",
+ "subdivision_en": "Alba County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奥拉斯迪山的达亚恩城堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Dacian Fortresses of the Orastie Mountains",
+ "name_local": "Fortărețe dacice din Munții Orăștiei",
+ "local_lang": "ro",
+ "local_lang_name": "Romanian",
+ "slug": "906-dacian_fortresses_of_the_orastie_mountai",
+ "lat": 45.6231,
+ "lon": 23.3119,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "达亚恩城堡修建于公元前1世纪达亚恩人统治时期，体现了古老的军事宗教建筑技巧和欧洲铁器时代晚期建筑理念不同寻常的相互融合。这里的6个防御工事，即达亚恩王国的中心，在公元2世纪时被罗马人占领; 大面积保存完好的遗址被壮丽的自然景观环绕，勾勒出一幅充满力量和革新意义的生动画面。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built in the 1st centuries B.C. and A.D. under Dacian rule, these fortresses show an unusual fusion of military and religious architectural techniques and concepts from the classical world and the late European Iron Age. The six defensive works, the nucleus of the Dacian Kingdom, were conquered by the Romans at the beginning of the 2nd century A.D.; their extensive and well-preserved remains stand in spectacular natural surroundings and give a dramatic picture of a vigorous and innovative civilization.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Construite în stilul murus dacicus, cele șase fortărețe dacice din Munții Șureanu, din România, au fost ridicate între secolul I î.Hr. și secolul I d.Hr. pentru apărare și protecție contra cuceririi romane. Rămășițele lor extinse și bine păstrate prezintă o imagine a Epocii Fierului viguroase și inovative. Cele șase fortărețe (Sarmizegetusa Regia, Luncani - Piatra Roșie, Costești - Blidaru, Costești - Cetățuie, Căpâlna și Bănița) care au format sistemul defensiv al lui Decebal, fac acum parte din patrimoniul cultural mondial UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarmizegetusa%20temples.jpg?width=1280",
+   "title": "Sarmizegetusa temples.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sarmizegetusa%20temples.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_906.jpg",
+   "title": "Dacian Fortresses of the Orastie Mountains",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/906",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/906",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sibiu International Airport",
+    "iata": "SBZ",
+    "city": "Sibiu",
+    "country": "RO",
+    "lat": 45.785841,
+    "lon": 24.086666,
+    "type": "large_airport",
+    "distance_km": 62.8
+   },
+   {
+    "name": "Târgu Mureş Transilvania International Airport",
+    "iata": "TGM",
+    "city": "Recea",
+    "country": "RO",
+    "lat": 46.467701,
+    "lon": 24.4125,
+    "type": "medium_airport",
+    "distance_km": 126.6
+   },
+   {
+    "name": "Avram Iancu Cluj International Airport",
+    "iata": "CLJ",
+    "city": "Cluj-Napoca",
+    "country": "RO",
+    "lat": 46.786042,
+    "lon": 23.685733,
+    "type": "large_airport",
+    "distance_km": 132.5
+   }
+  ],
+  "nearest_airport_km": 62.8,
+  "distance_beijing_km": 7117.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RO",
+  "country_zh": "罗马尼亚",
+  "country_en": "Romania",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RO",
+   "country_zh": "罗马尼亚",
+   "country_en": "Romania",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ro",
+  "local_lang_name": "Romanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/906"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dacian%20Fortresses%20of%20the%20Or%C4%83%C8%99tie%20Mountains"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

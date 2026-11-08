@@ -1,0 +1,169 @@
+{
+ "id": "cn-26434",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "丽水市",
+ "city_en": "Lishui City",
+ "name_zh": "丽水市云和梯田景区",
+ "name_en": "Yunhetitian Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "lishuishiyunhetitian-26434",
+ "lat": 28.055656,
+ "lon": 119.492894,
+ "address_zh": "浙江省丽水市云和县崇头镇",
+ "address_en": "Chongtou Town, Yunhe County, Lishui City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "梯田依山而造，看起来如诗如画似的梯田，因山势较陡，最大的田能种十几行禾苗，而最小的只能种一两行，有“青蛙一跳三块田”之说。这里的梯田分布在海拔200-1200米之间，一层层从山脚盘绕到山顶。景区内拥有梯田、云海、山村、竹海、溪流、瀑布、雾凇等自然景观，是中国摄影之乡——丽水的主要采风基地。",
+ "intro_en": "The terraced fields are built along the mountains. They look like picturesque terraces. Because the mountains are steep, the largest fields can be planted with more than a dozen rows of seedlings, while the smallest fields can only be planted with one or two rows. There is a saying that \"three fields can be planted in one leap of a frog.\" The terraces here are distributed between 200-1200 meters above sea level, winding from the foot of the mountain to the top of the mountain. The scenic area has natural landscapes such as terraced fields, seas of clouds, mountain villages, bamboo seas, streams, waterfalls, and rime. It is the main collection base for Lishui, the hometown of photography in China.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "浙江省人民政府公报2019年第12期.pdf",
+   "author": "Zhejiang People's Government",
+   "license": "Public domain",
+   "credit": "http://www.zj.gov.cn/col/col1621589/index.html",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC12%E6%9C%9F.pdf"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Quzhou Airport",
+    "iata": "JUZ",
+    "city": "Quzhou (Kezheng)",
+    "country": "CN",
+    "lat": 28.96613,
+    "lon": 118.898793,
+    "type": "medium_airport",
+    "distance_km": 116.7
+   },
+   {
+    "name": "Wenzhou Longwan International Airport",
+    "iata": "WNZ",
+    "city": "Wenzhou (Longwan)",
+    "country": "CN",
+    "lat": 27.910572,
+    "lon": 120.853465,
+    "type": "large_airport",
+    "distance_km": 134.6
+   },
+   {
+    "name": "Nanping Wuyishan Airport",
+    "iata": "WUS",
+    "city": "Wuyishan",
+    "country": "CN",
+    "lat": 27.7019,
+    "lon": 118.000999,
+    "type": "medium_airport",
+    "distance_km": 151.8
+   }
+  ],
+  "nearest_airport_km": 116.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "双平",
+    "name_en": null,
+    "lat": 28.2004775,
+    "lon": 119.3239677,
+    "distance_km": 23.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "道太",
+    "name_en": null,
+    "lat": 28.1222699,
+    "lon": 119.2204164,
+    "distance_km": 27.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "五部",
+    "name_en": null,
+    "lat": 28.3109268,
+    "lon": 119.3911128,
+    "distance_km": 30.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "艺杰民宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.0523188,
+   "lon": 119.4808854,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yunyi's Courtyard Villa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.0495228,
+   "lon": 119.4584236,
+   "distance_km": 3.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "云曼瑞锦度假大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.1314813,
+   "lon": 119.4464238,
+   "distance_km": 9.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/云和梯田"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

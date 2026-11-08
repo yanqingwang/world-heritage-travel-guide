@@ -1,0 +1,162 @@
+{
+ "id": "wh-996",
+ "unesco_id": "996",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1211,
+ "popularity_score": null,
+ "country": "BE",
+ "country_zh": "比利时",
+ "country_en": "Belgium",
+ "countries": [
+  {
+   "iso2": "BE",
+   "zh": "比利时",
+   "en": "Belgium"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BE-VWV",
+ "subdivision_zh": "西佛兰德省",
+ "subdivision_en": "West Flanders",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布鲁日历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Brugge",
+ "name_local": "Le centre historique de Bruges",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "996-historic_centre_of_brugge",
+ "lat": 51.20891,
+ "lon": 3.22527,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "布鲁日是中世纪人类聚落的杰出典范，虽历经数世纪沧桑，仍保留着大量历史建筑。在那里，早期哥特式建筑已经成为城市特征的一部分。作为欧洲商业与文化首都之一，布鲁日不断发展与世界各地的文化交流，同时，与佛兰芒原始绘画流派(Flemish Primitive painting)有着密切关系。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Brugge is an outstanding example of a medieval historic settlement, which has maintained its historic fabric as this has evolved over the centuries, and where original Gothic constructions form part of the town's identity. As one of the commercial and cultural capitals of Europe, Brugge developed cultural links to different parts of the world. It is closely associated with the school of Flemish Primitive painting.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Bruges est un exemple exceptionnel d'habitat médiéval ayant bien conservé son tissu urbain historique tel qu'il a évolué avec les siècles et où le bâti gothique d'origine fait partie de l'identité de la ville. Bruges, l'une des capitales commerciales et culturelles européennes, a tissé des liens culturels avec différentes parties du monde. On associe cette cité à l'Ecole de peinture des Primitifs flamands.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brugge-CanalRozenhoedkaai.JPG?width=1280",
+   "title": "Brugge-CanalRozenhoedkaai.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Brugge-CanalRozenhoedkaai.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_996.jpg",
+   "title": "Historic Centre of Brugge",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/996",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/996",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ostend-Bruges International Airport",
+    "iata": "OST",
+    "city": "Oostende",
+    "country": "BE",
+    "lat": 51.1998,
+    "lon": 2.874673,
+    "type": "large_airport",
+    "distance_km": 24.4
+   },
+   {
+    "name": "Lille Airport",
+    "iata": "LIL",
+    "city": "Lesquin",
+    "country": "FR",
+    "lat": 50.566564,
+    "lon": 3.102429,
+    "type": "large_airport",
+    "distance_km": 71.9
+   },
+   {
+    "name": "Antwerp International Airport (Deurne)",
+    "iata": "ANR",
+    "city": "Antwerp",
+    "country": "BE",
+    "lat": 51.190667,
+    "lon": 4.463153,
+    "type": "medium_airport",
+    "distance_km": 86.3
+   }
+  ],
+  "nearest_airport_km": 24.4,
+  "distance_beijing_km": 8006.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BE",
+  "country_zh": "比利时",
+  "country_en": "Belgium",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BE",
+   "country_zh": "比利时",
+   "country_en": "Belgium",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/996"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

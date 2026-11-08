@@ -1,0 +1,162 @@
+{
+ "id": "wh-299",
+ "unesco_id": "299",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1061,
+ "popularity_score": null,
+ "country": "LB",
+ "country_zh": "黎巴嫩",
+ "country_en": "Lebanon",
+ "countries": [
+  {
+   "iso2": "LB",
+   "zh": "黎巴嫩",
+   "en": "Lebanon"
+  }
+ ],
+ "region": "City and District of Tyre, Governorate of South Lebanon",
+ "subdivision_iso": "LB-JA",
+ "subdivision_zh": "南部省",
+ "subdivision_en": "South Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "提尔城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Tyre",
+ "name_local": "صور",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "299-tyre",
+ "lat": 33.269167,
+ "lon": 35.195833,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "1984",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "传说认为提尔城是紫色颜料的诞生地。它曾是最雄伟的腓尼基城市，当时腓尼基人统治着一些海域，建立了像卡地兹和迦太基这样繁荣的殖民地。它的历史地位在十字军东征之后逐步衰落，但仍保留了许多主要是罗马时期的重要的考古遗物。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "According to legend, purple dye was invented in Tyre. This great Phoenician city ruled the seas and founded prosperous colonies such as Cadiz and Carthage, but its historical role declined at the end of the Crusades. There are important archaeological remains, mainly from Roman times.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "كانت المدينة الفينيقيّة الكبرى، صور، حيث تمّ اكتشاف الأرجوان بحسب الأسطورة، سيدة البحار، ومؤسسة المدن المزدهرة كقادش وقرطاج. فقدت صور دورها التاريخي في نهاية الحروب الصليبية. وهي الآن تحافظ على آثارٍ تاريخيّة مهمّة تعود بشكل أساسي إلى العهد الروماني.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Columns%20at%20Al%20Mina%20site%2C%20Tyre%2C%20Lebanon.jpg?width=1280",
+   "title": "Columns at Al Mina site, Tyre, Lebanon.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Columns%20at%20Al%20Mina%20site%2C%20Tyre%2C%20Lebanon.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_299.jpg",
+   "title": "Tyre",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/299",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/299",
+ "transport": {
+  "airports": [
+   {
+    "name": "Uri Michaeli Haifa International Airport",
+    "iata": "HFA",
+    "city": "Haifa",
+    "country": "IL",
+    "lat": 32.810219,
+    "lon": 35.043719,
+    "type": "medium_airport",
+    "distance_km": 53.0
+   },
+   {
+    "name": "Beirut Rafic Hariri International Airport",
+    "iata": "BEY",
+    "city": "Beirut",
+    "country": "LB",
+    "lat": 33.819833,
+    "lon": 35.487443,
+    "type": "large_airport",
+    "distance_km": 66.9
+   },
+   {
+    "name": "Damascus International Airport",
+    "iata": "DAM",
+    "city": "Damascus",
+    "country": "SY",
+    "lat": 33.4114990234375,
+    "lon": 36.51559829711914,
+    "type": "large_airport",
+    "distance_km": 123.6
+   }
+  ],
+  "nearest_airport_km": 53.0,
+  "distance_beijing_km": 7080.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "LB",
+  "country_zh": "黎巴嫩",
+  "country_en": "Lebanon",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Free visa on arrival[6]",
+  "notes": "Extendable for 2 additional months."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "LB",
+   "country_zh": "黎巴嫩",
+   "country_en": "Lebanon",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Free visa on arrival[6]",
+   "notes": "Extendable for 2 additional months."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/299"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

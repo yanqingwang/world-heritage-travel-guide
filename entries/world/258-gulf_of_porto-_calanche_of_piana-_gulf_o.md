@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(viii)(x)"
 lat: 42.32519444
 lon: 8.628833333
-updated_at: "2026-11-08T12:18:54Z"
+updated_at: "2026-11-08T14:52:23Z"
 ---
 
 # 波尔托湾：皮亚纳－卡兰切斯、基罗拉塔湾、斯康多拉保护区 / Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve

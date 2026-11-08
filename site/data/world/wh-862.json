@@ -1,0 +1,162 @@
+{
+ "id": "wh-862",
+ "unesco_id": "862",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 693,
+ "popularity_score": 6044,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "State of Veracruz, Tlacotalpan Municipality",
+ "subdivision_iso": "MX-VER",
+ "subdivision_zh": "韦拉克鲁斯州",
+ "subdivision_en": "Veracruz",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塔拉科塔潘历史遗迹区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Monuments Zone of Tlacotalpan",
+ "name_local": "Zona de monumentos históricos de Tlacotalpán",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "862-historic_monuments_zone_of_tlacotalpan",
+ "lat": 18.613025,
+ "lon": -95.656273611,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "塔拉科塔潘城建于公元16世纪中期，位于墨西哥湾沿岸，是西班牙殖民者建立的一个内河港口城市。该城古老的城市建筑得到了很好保护，我们今天仍然可以看到那里有宽阔的街道、风格色彩各异的带柱廓房屋以及公共场地和私人庭院中的参天古树。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Tlacotalpan, a Spanish colonial river port on the Gulf coast of Mexico, was founded in the mid-16th century. It has preserved its original urban fabric to a remarkable degree, with wide streets, colonnaded houses in a profusion of styles and colours, and many mature trees in the public open spaces and private gardens.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situada en la costa del golfo de México, la ciudad portuaria fluvial de Tlacotalpán fue fundada por los españoles a mediados del siglo XVI. Ha conservado admirablemente su tejido urbano de la época colonial con calles anchas, casas con columnatas de una gran diversidad de estilos y colores, y numerosos árboles de edad venerable que ornamentan los espacios públicos y los jardines privados.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tlacotalpan%20Veracruz%20-%20panoramio.jpg?width=1280",
+   "title": "Tlacotalpan Veracruz - panoramio.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tlacotalpan%20Veracruz%20-%20panoramio.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_862.jpg",
+   "title": "Historic Monuments Zone of Tlacotalpan",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/862",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/862",
+ "transport": {
+  "airports": [
+   {
+    "name": "General Heriberto Jara International Airport",
+    "iata": "VER",
+    "city": "Veracruz",
+    "country": "MX",
+    "lat": 19.139589,
+    "lon": -96.188602,
+    "type": "large_airport",
+    "distance_km": 81.0
+   },
+   {
+    "name": "Minatitlán/Coatzacoalcos International Airport",
+    "iata": "MTT",
+    "city": "Cosoleacaque",
+    "country": "MX",
+    "lat": 18.103399,
+    "lon": -94.580704,
+    "type": "medium_airport",
+    "distance_km": 126.9
+   },
+   {
+    "name": "Xoxocotlán International Airport",
+    "iata": "OAX",
+    "city": "Oaxaca",
+    "country": "MX",
+    "lat": 16.998773,
+    "lon": -96.726092,
+    "type": "large_airport",
+    "distance_km": 212.2
+   }
+  ],
+  "nearest_airport_km": 81.0,
+  "distance_beijing_km": 12606.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/862"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tlacotalpan"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

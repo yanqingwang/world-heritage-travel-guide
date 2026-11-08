@@ -1,0 +1,162 @@
+{
+ "id": "wh-1563",
+ "unesco_id": "1563",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 171,
+ "popularity_score": 79206,
+ "country": "SA",
+ "country_zh": "沙特阿拉伯",
+ "country_en": "Saudi Arabia",
+ "countries": [
+  {
+   "iso2": "SA",
+   "zh": "沙特阿拉伯",
+   "en": "Saudi Arabia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "SA-04",
+ "subdivision_zh": "东部省",
+ "subdivision_en": "Eastern Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "哈萨绿洲，变迁的文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Al-Ahsa Oasis, an Evolving Cultural Landscape",
+ "name_local": "واحة الأحساء، منظر ثقافي آخذ بالتغير",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1563-al-ahsa_oasis,_an_evolving_cultural_land",
+ "lat": 25.429444,
+ "lon": 49.621944,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "2018",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "哈萨绿洲地处阿拉伯半岛东部，由花园、运河、泉眼、水井、排水湖，以及历史建筑、城市机构和考古遗址等一系列遗产组成。从留存至今的古堡、清真寺、水井、运河和其他水务系统可以看出，这里代表了海湾地区从新石器时代到现在持续人类定居的痕迹。这个世界上最大的绿洲拥有250万棵椰枣树。作为一处独特的地理文化景观，哈萨绿洲还是人类与环境相处的典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the eastern Arabian Peninsula, the Al-Ahsa Oasis is a serial property comprising gardens, canals, springs, wells and a drainage lake, as well as historical buildings, urban fabric and archaeological sites. They represent traces of continued human settlement in the Gulf region from the Neolithic to the present, as can be seen from remaining historic fortresses, mosques, wells, canals and other water management systems. With its 2.5 million date palms, it is the largest oasis in the world. Al-Ahsa is also a unique geocultural landscape and an exceptional example of human interaction with the environment.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تضمّ واحة الأحساء، الواقعة في الجزء الشرقي من شبه الجزيرة العربية، مجموعة من المواقع مثل الحدائق وقنوات الري وعيون المياه العذبة والآبار وبحيرة الأصفر ومبان تاريخية ونسيج حضري ومواقع أثرية تقف شاهداً على توطن البشر واستقرارهم في منطقة الخليج منذ العصر الحجري الحديث حتى يومنا هذا. ويتمثل ذلك في الحصون التاريخية المتبقية والجوامع والينابيع والقنوات وغيرها من نظم إدارة المياه. وتعدّ واحة الأحساء أكبر واحات النخيل في العالم إذ يصل عدد أشجار النخيل فيها إلى 2،5 مليون شجرة. ويعد هذا المنظر الطبيعي الثقافي الفريد مثالاً استثنائياً على التفاعل بين البشر والبيئة المحيطة بهم.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Al%20Hasa%20Cave.jpg?width=1280",
+   "title": "Al Hasa Cave.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Al%20Hasa%20Cave.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1563.jpg",
+   "title": "Al-Ahsa Oasis, an Evolving Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1563",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1563",
+ "transport": {
+  "airports": [
+   {
+    "name": "Al-Ahsa International Airport",
+    "iata": "HOF",
+    "city": "Hofuf",
+    "country": "SA",
+    "lat": 25.285299,
+    "lon": 49.485199,
+    "type": "large_airport",
+    "distance_km": 21.1
+   },
+   {
+    "name": "King Fahd International Airport",
+    "iata": "DMM",
+    "city": "Ad Dammam",
+    "country": "SA",
+    "lat": 26.4691,
+    "lon": 49.798209,
+    "type": "large_airport",
+    "distance_km": 116.9
+   },
+   {
+    "name": "Bahrain International Airport",
+    "iata": "BAH",
+    "city": "Manama",
+    "country": "BH",
+    "lat": 26.267295,
+    "lon": 50.63764,
+    "type": "large_airport",
+    "distance_km": 137.9
+   }
+  ],
+  "nearest_airport_km": 21.1,
+  "distance_beijing_km": 6341.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SA",
+  "country_zh": "沙特阿拉伯",
+  "country_en": "Saudi Arabia",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6][126]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SA",
+   "country_zh": "沙特阿拉伯",
+   "country_en": "Saudi Arabia",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6][126]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1563"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Al-Ahsa%20Oasis"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

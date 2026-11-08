@@ -1,0 +1,162 @@
+{
+ "id": "wh-149",
+ "unesco_id": "149",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 414,
+ "popularity_score": 19290,
+ "country": "GT",
+ "country_zh": "危地马拉",
+ "country_en": "Guatemala",
+ "countries": [
+  {
+   "iso2": "GT",
+   "zh": "危地马拉",
+   "en": "Guatemala"
+  }
+ ],
+ "region": "Department of Izabal",
+ "subdivision_iso": "GT-18",
+ "subdivision_zh": "伊萨瓦尔省",
+ "subdivision_en": "Izabal Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "基里瓜考古公园和玛雅文化遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Park and Ruins of Quirigua",
+ "name_local": "Parque arqueológico y ruinas de Quiriguá",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "149-archaeological_park_and_ruins_of_quirigu",
+ "lat": 15.269444444,
+ "lon": -89.040277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "基里瓜从公元2世纪开始就有人居住，在考阿克·斯凯统治（723至784年）期间成为了一个自治、繁荣国家的首都。基里瓜遗址包括8世纪的一些建筑杰作，以及一系列让人叹为观止的雕刻石柱和石刻历法，这些为研究玛雅文明提供了必要的原始资料。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Inhabited since the 2nd century A.D., Quirigua had become during the reign of Cauac Sky (723–84) the capital of an autonomous and prosperous state. The ruins of Quirigua contain some outstanding 8th-century monuments and an impressive series of carved stelae and sculpted calendars that constitute an essential source for the study of Mayan civilization.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Habitada desde el siglo II, Quiriguá fue la capital de un Estado autónomo durante el reinado de Cauac Cielo (723-784). Conserva admirables monumentos del siglo VIII y una impresionante serie de estelas y calendarios esculpidos que constituyen una fuente esencial de conocimientos sobre la historia de la civilización maya.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Escultura%20de%20Quirigu%C3%A1.jpg?width=1280",
+   "title": "Escultura de Quiriguá.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Escultura%20de%20Quirigu%C3%A1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_149.jpg",
+   "title": "Archaeological Park and Ruins of Quirigua",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/149",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/149",
+ "transport": {
+  "airports": [
+   {
+    "name": "Puerto Barrios Airport",
+    "iata": "PBR",
+    "city": "Puerto Barrios",
+    "country": "GT",
+    "lat": 15.7309,
+    "lon": -88.583801,
+    "type": "medium_airport",
+    "distance_km": 70.9
+   },
+   {
+    "name": "Punta Gorda Airport",
+    "iata": "PND",
+    "city": "Punta Gorda",
+    "country": "BZ",
+    "lat": 16.1024,
+    "lon": -88.808296,
+    "type": "small_airport",
+    "distance_km": 95.9
+   },
+   {
+    "name": "Ramón Villeda Morales International Airport",
+    "iata": "SAP",
+    "city": "San Pedro Sula",
+    "country": "HN",
+    "lat": 15.4526,
+    "lon": -87.923599,
+    "type": "large_airport",
+    "distance_km": 121.5
+   }
+  ],
+  "nearest_airport_km": 70.9,
+  "distance_beijing_km": 13284.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GT",
+  "country_zh": "危地马拉",
+  "country_en": "Guatemala",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Travellers who hold an El Salvador, Honduras, or Nicaragua visa or residency permit can enter Guatemala without a visa under the Central America-4 Border Control Agreement. Since 2019, permanent residents of any European Union member state, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GT",
+   "country_zh": "危地马拉",
+   "country_en": "Guatemala",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Travellers who hold an El Salvador, Honduras, or Nicaragua visa or residency permit can enter Guatemala without a visa under the Central America-4 Border Control Agreement. Since 2019, permanent residents of any European Union member state, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/149"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quirigu%C3%A1"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

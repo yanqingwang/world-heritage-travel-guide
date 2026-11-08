@@ -1,0 +1,162 @@
+{
+ "id": "wh-890",
+ "unesco_id": "890",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1187,
+ "popularity_score": null,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "State of Minas Gerais",
+ "subdivision_iso": "BR-MG",
+ "subdivision_zh": "米纳斯吉拉斯州",
+ "subdivision_en": "Minas Gerais",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "蒂阿曼蒂那城历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of the Town of Diamantina",
+ "name_local": "Centro Histórico de Diamantina",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "890-historic_centre_of_the_town_of_diamantin",
+ "lat": -18.23333333,
+ "lon": -43.6,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "蒂阿曼蒂那位于无人居住的荒凉岩石山脉之中，原为殖民地村庄。如果说绵绵山脉是条项链的话，蒂阿曼蒂那就是项链上的一颗宝石。这个小城展示给世人的是一幅18世纪采矿人挖掘钻石的场景，同时也是人类文化和艺术战胜环境的证明。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Diamantina, a colonial village set like a jewel in a necklace of inhospitable rocky mountains, recalls the exploits of diamond prospectors in the 18th century and testifies to the triumph of human cultural and artistic endeavour over the environment.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "O Centro Histórico de Diamantina é a área urbana histórica da cidade brasileira de Diamantina (Minas Gerais), tombada em nível federal em 1938 (um dos primeiros tombamentos no país, feito pelo então SPHAN, atual IPHAN) e também como Patrimônio Mundial pela Unesco. A área inscrita como Patrimônio Mundial é de 28,5 hectares, circundados por uma área tampão que coincide com o tombamento federal.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/6010156%20Diamantina.jpg?width=1280",
+   "title": "6010156 Diamantina.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:6010156%20Diamantina.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_890.jpg",
+   "title": "Historic Centre of the Town of Diamantina",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/890",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/890",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tancredo Neves International Airport",
+    "iata": "CNF",
+    "city": "Belo Horizonte",
+    "country": "BR",
+    "lat": -19.63571,
+    "lon": -43.966928,
+    "type": "large_airport",
+    "distance_km": 160.6
+   },
+   {
+    "name": "Mário Ribeiro Airport",
+    "iata": "MOC",
+    "city": "Montes Claros",
+    "country": "BR",
+    "lat": -16.706919,
+    "lon": -43.818901,
+    "type": "medium_airport",
+    "distance_km": 171.3
+   },
+   {
+    "name": "Usiminas Airport",
+    "iata": "IPN",
+    "city": "Ipatinga",
+    "country": "BR",
+    "lat": -19.470699,
+    "lon": -42.487598,
+    "type": "medium_airport",
+    "distance_km": 180.6
+   }
+  ],
+  "nearest_airport_km": 160.6,
+  "distance_beijing_km": 17082.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/890"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

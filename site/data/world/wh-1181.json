@@ -1,0 +1,162 @@
+{
+ "id": "wh-1181",
+ "unesco_id": "1181",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 908,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Seine-Maritime, Region of Haute-Normandie",
+ "subdivision_iso": "FR-76",
+ "subdivision_zh": "滨海塞纳省",
+ "subdivision_en": "Seine-Maritime",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "勒阿弗尔，奥古斯特•佩雷重建之城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Le Havre, the City Rebuilt by Auguste Perret",
+ "name_local": "Le Havre, la ville reconstruite par Auguste Perret",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1181-le_havre,_the_city_rebuilt_by_auguste_pe",
+ "lat": 49.4891,
+ "lon": 0.115222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2005",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "勒阿弗尔市位于英吉利海峡的诺曼底，在第二次世界大战期间遭到了惨烈轰炸。从1945年至1964年，根据奥古斯特·佩雷(Auguste Perret)领导的团队的规划，对炸毁区域进行了重建。这里现在是勒阿弗尔的行政、商业和文化中心。在许多重建城市之中，勒阿弗尔以其协调和完整而独具一格。它融合了早期城市布局的设想和未毁的历史建筑，同时融入了城市规划和建筑技术的新观念。勒阿弗尔是战后城市规划和建筑的杰出典范，其建筑的基础在于统一协调的方法，预制构件的使用，模块网络的系统利用，以及对混凝土潜能的创新开发利用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The city of Le Havre, on the English Channel in Normandy, was severely bombed during the Second World War. The destroyed area was rebuilt according to the plan of a team headed by Auguste Perret, from 1945 to 1964. The site forms the administrative, commercial and cultural centre of Le Havre. Le Havre is exceptional among many reconstructed cities for its unity and integrity. It combines a reflection of the earlier pattern of the town and its extant historic structures with the new ideas of town planning and construction technology. It is an outstanding post-war example of urban planning and architecture based on the unity of methodology and the use of prefabrication, the systematic utilization of a modular grid, and the innovative exploitation of the potential of concrete.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La ville du Havre, au bord de la Manche en Normandie, a été lourdement bombardée pendant la Seconde Guerre mondiale. La zone détruite a été reconstruite entre 1945 et 1964 d’après le plan d’une équipe dirigée par Auguste Perret. Le site forme le centre administratif, commercial et culturel du Havre. Parmi les nombreuses villes reconstruites, Le Havre est exceptionnel pour son unité et son intégrité, associant un reflet du schéma antérieur de la ville et de ses structures historiques encore existantes aux idées nouvelles en matière d’urbanisme et de technologie de construction. Il s’agit d’un exemple remarquable de l’architecture et l’urbanisme de l’après-guerre, fondé sur l’unité de méthodologie et le recours à la préfabrication, l’utilisation systématique d’une trame modulaire, et l’exploitation novatrice du potentiel du béton.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LeHavre.jpg?width=1280",
+   "title": "LeHavre.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:LeHavre.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1181.jpg",
+   "title": "Le Havre, the City Rebuilt by Auguste Perret",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1181",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1181",
+ "transport": {
+  "airports": [
+   {
+    "name": "Deauville Normandie airport",
+    "iata": "DOL",
+    "city": "Deauville",
+    "country": "FR",
+    "lat": 49.365237,
+    "lon": 0.154481,
+    "type": "medium_airport",
+    "distance_km": 14.1
+   },
+   {
+    "name": "Caen Carpiquet airport",
+    "iata": "CFR",
+    "city": "Caen",
+    "country": "FR",
+    "lat": 49.17678,
+    "lon": -0.454883,
+    "type": "medium_airport",
+    "distance_km": 54.0
+   },
+   {
+    "name": "Beauvais-Tillé airport",
+    "iata": "BVA",
+    "city": "Beauvais",
+    "country": "FR",
+    "lat": 49.454399,
+    "lon": 2.11278,
+    "type": "large_airport",
+    "distance_km": 144.4
+   }
+  ],
+  "nearest_airport_km": 14.1,
+  "distance_beijing_km": 8286.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1181"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

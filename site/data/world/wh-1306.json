@@ -1,0 +1,162 @@
+{
+ "id": "wh-1306",
+ "unesco_id": "1306",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 370,
+ "popularity_score": 22391,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "AU-NSW",
+ "subdivision_zh": "新南威尔士州",
+ "subdivision_en": "New South Wales",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "澳大利亚监狱遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Australian Convict Sites",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1306-australian_convict_sites",
+ "lat": -33.37833333,
+ "lon": 150.9944444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "2010",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "18世纪和19世纪时，大英帝国在澳大利亚设立了数千所监狱。“澳大利亚监狱遗址”选取了其中的11座殖民监狱。它们主要位于悉尼附近和塔斯马尼亚岛上，但也有几所设在诺福克岛和弗里曼特尔市，其所在地大多是原住民已被驱逐了的、肥沃的海岸地区。这些监狱关押过被英国法院放逐到澳洲殖民地的成千上万名男性、女性和儿童。每座监狱都有自身的用途，它们或是惩罚性的监禁，或是让犯人通过劳动教养协助殖民的建设。“澳大利亚监狱遗址”是现存的大规模驱逐罪犯出境以及欧洲列强通过流放犯人和强制劳动进行殖民扩张的最佳例证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property includes a selection of eleven penal sites, among the thousands established by the British Empire on Australian soil in the 18 th and 19 th centuries. The sites are spread across Australia, from Fremantle in Western Australia to Kingston and Arthur's Vale on Norfolk Island in the east; and from areas around Sydney in New South Wales in the north, to sites located in Tasmania in the south. Around 166,000 men, women and children were sent to Australia over 80 years between 1787 and 1868, condemned by British justice to transportation to the convict colonies. Each of the sites had a specific purpose, in terms both of punitive imprisonment and of rehabilitation through forced labour to help build the colony. The Australian Convict Sites presents the best surviving examples of large-scale convict transportation and the colonial expansion of European powers through the presence and labour of convicts.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PortArthurPenitentiary.jpg?width=1280",
+   "title": "PortArthurPenitentiary.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:PortArthurPenitentiary.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1306.jpg",
+   "title": "Australian Convict Sites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1306",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1306",
+ "transport": {
+  "airports": [
+   {
+    "name": "Western Sydney International (Nancy-Bird Walton) Airport",
+    "iata": "WSI",
+    "city": "Sydney",
+    "country": "AU",
+    "lat": -33.883461,
+    "lon": 150.712981,
+    "type": "large_airport",
+    "distance_km": 61.9
+   },
+   {
+    "name": "Sydney Kingsford Smith International Airport",
+    "iata": "SYD",
+    "city": "Sydney (Mascot)",
+    "country": "AU",
+    "lat": -33.946098,
+    "lon": 151.177002,
+    "type": "large_airport",
+    "distance_km": 65.4
+   },
+   {
+    "name": "Newcastle Airport",
+    "iata": "NTL",
+    "city": "Williamtown",
+    "country": "AU",
+    "lat": -32.796114,
+    "lon": 151.835025,
+    "type": "large_airport",
+    "distance_km": 101.6
+   }
+  ],
+  "nearest_airport_km": 61.9,
+  "distance_beijing_km": 8939.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1306"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Australian%20Convict%20Sites"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

@@ -1,0 +1,158 @@
+{
+ "id": "wh-800",
+ "unesco_id": "800",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 674,
+ "popularity_score": 6536,
+ "country": "KE",
+ "country_zh": "肯尼亚",
+ "country_en": "Kenya",
+ "countries": [
+  {
+   "iso2": "KE",
+   "zh": "肯尼亚",
+   "en": "Kenya"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "KE-26",
+ "subdivision_zh": "",
+ "subdivision_en": "Meru County",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "肯尼亚山国家公园",
+ "name_zh_source": "wikidata",
+ "name_en": "Mount Kenya National Park/Natural Forest",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "800-mount_kenya_national_park/natural_forest",
+ "lat": -0.123888888,
+ "lon": 37.336666666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "肯尼亚山国家公园，为肯尼亚所设立的一个国家公园，包含肯尼亚山及周边地区。成立于1949年。该地原为森林保护区，后森林保护区的部分区域被辟为国家公园，目前森林将国家公园包围。1978年，该地成为生物圈保护区。1997年，肯尼亚山国家公园及周边的森林保护区一起成为世界遗产。 国家公园总面积715平方公里，周围的森林保护区面积705.2平方公里。被列入世界遗产的总面积为1,420平方公里。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "At 5,199 m, Mount Kenya is the second highest peak in Africa. It is an ancient extinct volcano, which during its period of activity (3.1-2.6 million years ago) is thought to have risen to 6,500 m. There are 12 remnant glaciers on the mountain, all receding rapidly, and four secondary peaks that sit at the head of the U-shaped glacial valleys. With its rugged glacier-clad summits and forested middle slopes, Mount Kenya is one of the most impressive landscapes in East Africa. The evolution and ecology of its afro-alpine flora provide an outstanding example of ecological and biological processes. Through the Lewa Wildlife Conservancy and Ngare Ndare Forest Reserve, the property also incorporates lower lying scenic foothills and arid habitats of high biodiversity, situated in the ecological transition zone between the mountain ecosystem and the semi-arid savanna grasslands. The area also lies within the traditional migrating route of the African elephant population.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Kenya%20and%20the%20Gregory%20Glacier.jpg?width=1280",
+   "title": "Mount Kenya and the Gregory Glacier.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount%20Kenya%20and%20the%20Gregory%20Glacier.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_800.jpg",
+   "title": "Mount Kenya National Park/Natural Forest",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/800",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/800",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanyuki Civil Airport",
+    "iata": "NYK",
+    "city": "Gathiuru",
+    "country": "KE",
+    "lat": -0.062352,
+    "lon": 37.041296,
+    "type": "medium_airport",
+    "distance_km": 33.5
+   },
+   {
+    "name": "Mulika Lodge Airport",
+    "iata": "JJM",
+    "city": "Meru-Kinna",
+    "country": "KE",
+    "lat": 0.165083,
+    "lon": 38.195141,
+    "type": "small_airport",
+    "distance_km": 100.7
+   },
+   {
+    "name": "Jomo Kenyatta International Airport",
+    "iata": "NBO",
+    "city": "Nairobi",
+    "country": "KE",
+    "lat": -1.318886,
+    "lon": 36.928233,
+    "type": "large_airport",
+    "distance_km": 140.4
+   }
+  ],
+  "nearest_airport_km": 33.5,
+  "distance_beijing_km": 9124.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KE",
+  "country_zh": "肯尼亚",
+  "country_en": "Kenya",
+  "status": "unknown",
+  "days": 90,
+  "requirement": "Electronic Travel Authorisation[6][70]",
+  "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KE",
+   "country_zh": "肯尼亚",
+   "country_en": "Kenya",
+   "status": "unknown",
+   "days": 90,
+   "requirement": "Electronic Travel Authorisation[6][70]",
+   "notes": "Applications can be submitted up to 90 days prior to travel and must be submitted at least 3 days in advance. eTA fee is 32.50 USD. Proof of reservation at the hotel where visitors plan to stay is required (if staying with friends, an invitation letter is also acceptable). Yellow fever vaccination c"
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/800"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mount%20Kenya%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

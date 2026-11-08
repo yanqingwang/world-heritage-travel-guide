@@ -1,0 +1,162 @@
+{
+ "id": "wh-977",
+ "unesco_id": "977",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 476,
+ "popularity_score": 14556,
+ "country": "KR",
+ "country_zh": "大韩民国",
+ "country_en": "South Korea",
+ "countries": [
+  {
+   "iso2": "KR",
+   "zh": "大韩民国",
+   "en": "South Korea"
+  }
+ ],
+ "region": "Gochang-gun County, Jeollabuk-do Province; Hwasun-gun County, Jeollanam-do Province; Ganghwa-gun County, Incheon Metropolitan City",
+ "subdivision_iso": "KR-28",
+ "subdivision_zh": "仁川",
+ "subdivision_en": "Incheon",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "高昌、华森和江华的史前墓遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+ "name_local": "고창 화순 강화 고인돌 유적",
+ "local_lang": "ko",
+ "local_lang_name": "Korean",
+ "slug": "977-gochang,_hwasun_and_ganghwa_dolmen_sites",
+ "lat": 34.96667,
+ "lon": 126.92917,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在高昌、华森和江华发现的石墓群建于公元前一千年左右，该墓群用巨型厚石板建造而成。这里是全世界各地发现的巨石文化的一部分，同时也是这种文化最集中的一处。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The prehistoric cemeteries at Gochang, Hwasun, and Ganghwa contain many hundreds of examples of dolmens - tombs from the 1st millennium BC constructed of large stone slabs. They form part of the Megalithic culture, found in many parts of the world, but nowhere in such a concentrated form.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "고창 화순 강화 고인돌은 유네스코가 지정한 대한민국의 세계문화유산이다. 대한민국 전북특별자치도 고창군·전남광주통합특별시 화순군·인천광역시 강화군 3개 지역에 나뉘어 위치해 있는 고인돌군(群)이다.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganghwado.jpg?width=1280",
+   "title": "Ganghwado.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganghwado.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_977.jpg",
+   "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/977",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/977",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gwangju Airport",
+    "iata": "KWJ",
+    "city": "Gwangju",
+    "country": "KR",
+    "lat": 35.123173,
+    "lon": 126.805444,
+    "type": "medium_airport",
+    "distance_km": 20.7
+   },
+   {
+    "name": "Muan International Airport",
+    "iata": "MWX",
+    "city": "Muan (Piseo-ri)",
+    "country": "KR",
+    "lat": 34.991406,
+    "lon": 126.382814,
+    "type": "large_airport",
+    "distance_km": 49.9
+   },
+   {
+    "name": "Yeosu Airport",
+    "iata": "RSU",
+    "city": "Yeosu",
+    "country": "KR",
+    "lat": 34.84230041503906,
+    "lon": 127.61699676513672,
+    "type": "medium_airport",
+    "distance_km": 64.2
+   }
+  ],
+  "nearest_airport_km": 20.7,
+  "distance_beijing_km": 1054.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KR",
+  "country_zh": "大韩民国",
+  "country_en": "South Korea",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "Visa not required for direct or transit visitors to Jeju Island up to 30 days.[73] Visa not required for 30 days as a transit tourist (category B-2) to or from the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Cyprus and 29 Schengen member states. They must hold an onwa"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KR",
+   "country_zh": "大韩民国",
+   "country_en": "South Korea",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "Visa not required for direct or transit visitors to Jeju Island up to 30 days.[73] Visa not required for 30 days as a transit tourist (category B-2) to or from the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Cyprus and 29 Schengen member states. They must hold an onwa"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ko",
+  "local_lang_name": "Korean",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 30
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/977"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gochang%2C%20Hwasun%20and%20Ganghwa%20Dolmen%20Sites"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

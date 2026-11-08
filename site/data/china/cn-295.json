@@ -1,0 +1,137 @@
+{
+ "id": "cn-295",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "咸宁市",
+ "city_en": "Xianning City",
+ "name_zh": "咸宁市三国赤壁古战场景区",
+ "name_en": "Chibi Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "xianningshisanguochibiguzhanchang-295",
+ "lat": 29.885145,
+ "lon": 113.637088,
+ "address_zh": "湖北省咸宁市赤壁市赤壁镇武侯巷6号",
+ "address_en": "No. 6, Wuhou Lane, Chibi Town, Xianning City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "grotto",
+ "category_zh": "石窟艺术",
+ "category_en": "Grotto art",
+ "intro_zh": "三国赤壁古战场，相传是赤壁之战发生地。主要景观有赤壁摩崖石刻、周瑜塑像、拜风台、凤雏庵、翼江亭、赤壁大战陈列馆、赤壁碑廊、千年银杏、三国雕塑园等。",
+ "intro_en": "The ancient battlefield of Chibi in the Three Kingdoms is said to be the place where the Battle of Chibi took place. The main landscapes include Chibi Cliff Carvings, Statue of Zhou Yu, Wind Worship Platform, Fengchu Nunnery, Yijiang Pavilion, Chibi War Exhibition Hall, Chibi Stele Gallery, Millennium Ginkgo, Three Kingdoms Sculpture Garden, etc.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yueyang Sanhe Airport",
+    "iata": "YYA",
+    "city": "Yueyang (Yueyanglou)",
+    "country": "CN",
+    "lat": 29.311699,
+    "lon": 113.281574,
+    "type": "medium_airport",
+    "distance_km": 72.4
+   },
+   {
+    "name": "Wuhan Tianhe International Airport",
+    "iata": "WUH",
+    "city": "Wuhan (Huangpi)",
+    "country": "CN",
+    "lat": 30.774798,
+    "lon": 114.213723,
+    "type": "large_airport",
+    "distance_km": 113.4
+   },
+   {
+    "name": "Jingzhou Shashi Airport",
+    "iata": "SHS",
+    "city": "Jingzhou (Shashi)",
+    "country": "CN",
+    "lat": 30.29281,
+    "lon": 112.44854,
+    "type": "medium_airport",
+    "distance_km": 123.0
+   }
+  ],
+  "nearest_airport_km": 72.4,
+  "high_speed_stations": [
+   {
+    "name": "赤壁北",
+    "name_en": "Chibibei",
+    "lat": 29.7393548,
+    "lon": 113.8947876,
+    "distance_km": 29.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "蒲圻",
+    "name_en": "Puqi",
+    "lat": 29.7017285,
+    "lon": 113.8714671,
+    "distance_km": 30.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "茶岭",
+    "name_en": "Chaling",
+    "lat": 29.6315359,
+    "lon": 113.7892923,
+    "distance_km": 31.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "赤壁",
+    "name_en": "Chibi",
+    "lat": 29.7239396,
+    "lon": 113.9247365,
+    "distance_km": 33.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/赤壁"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

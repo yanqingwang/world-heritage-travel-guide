@@ -1,0 +1,152 @@
+{
+ "id": "wh-820",
+ "unesco_id": "820",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1171,
+ "popularity_score": null,
+ "country": "CR",
+ "country_zh": "哥斯达黎加",
+ "country_en": "Costa Rica",
+ "countries": [
+  {
+   "iso2": "CR",
+   "zh": "哥斯达黎加",
+   "en": "Costa Rica"
+  }
+ ],
+ "region": "Province of Puntarenas, South Eastern Tropical Pacific",
+ "subdivision_iso": "CR-P",
+ "subdivision_zh": "蓬塔雷纳斯省",
+ "subdivision_en": "Puntarenas Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "科科斯岛国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cocos Island National Park",
+ "name_local": "Parque Nacional Isla del Coco",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "820-cocos_island_national_park",
+ "lat": 5.53333,
+ "lon": -87.0667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "科科斯岛国家公园距哥斯达黎加太平洋海岸550公里，是热带东太平洋上唯一拥有热带雨林的岛屿，其位置最接近北赤道逆流，又是该岛和周围海洋生态系统全面相互影响的地方，因此这个地区是研究生物进程的理想实验室。公园的海底世界非常著名，吸引了众多的潜水员，因为这里被认为是世界上观看远洋生物的绝佳地点，鲨鱼、鳐鱼、金枪鱼以及海豚等随处可见。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Cocos Island National Park, located 550 km off the Pacific coast of Costa Rica, is the only island in the tropical eastern Pacific with a tropical rainforest. Its position as the first point of contact with the northern equatorial counter-current, and the myriad interactions between the island and the surrounding marine ecosystem, make the area an ideal laboratory for the study of biological processes. The underwater world of the national park has become famous due to the attraction it holds for divers, who rate it as one of the best places in the world to view large pelagic species such as sharks, rays, tuna and dolphins.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situada a 550 km del litoral costarricense, la Isla del Coco es la única de la zona tropical del Pacífico Oriental que posee un bosque húmedo tropical. Es un laboratorio ideal para el estudio de los procesos biológicos, debido a su ubicación en el primer punto de contacto con la contracorriente norecuatorial y a sus múltiples interacciones con el ecosistema marino circundante. Los fondos marinos del parque nacional son famosos y muchos submarinistas estiman que son los mejores del mundo para observar especies pelágicas de grandes dimensiones, como tiburones, rayas, atunes y delfines.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isla%20del%20Coco-chatham%20beach.jpg?width=1280",
+   "title": "Isla del Coco-chatham beach.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Isla%20del%20Coco-chatham%20beach.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_820.jpg",
+   "title": "Cocos Island National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/820",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/820",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nosara Airport",
+    "iata": "NOB",
+    "city": "Nicoya",
+    "country": "CR",
+    "lat": 9.976490020750001,
+    "lon": -85.65299987790002,
+    "type": "medium_airport",
+    "distance_km": 518.0
+   },
+   {
+    "name": "Puerto Jimenez Airport",
+    "iata": "PJM",
+    "city": "Puerto Jimenez",
+    "country": "CR",
+    "lat": 8.533329963684082,
+    "lon": -83.30000305175781,
+    "type": "medium_airport",
+    "distance_km": 532.9
+   }
+  ],
+  "nearest_airport_km": 518.0,
+  "distance_beijing_km": 13996.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CR",
+  "country_zh": "哥斯达黎加",
+  "country_en": "Costa Rica",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa for stays up to 30 days. National visa may be substituted with a visa issued by Canada or the United States."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CR",
+   "country_zh": "哥斯达黎加",
+   "country_en": "Costa Rica",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa for stays up to 30 days. National visa may be substituted with a visa issued by Canada or the United States."
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/820"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-163",
+ "unesco_id": "163",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 998,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Vacluse, Region of Provence-Alpes-Côte-d’Azur",
+ "subdivision_iso": "FR-84",
+ "subdivision_zh": "沃克吕兹省",
+ "subdivision_en": "Vaucluse",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奥朗日古罗马剧场和凯旋门",
+ "name_zh_source": "unesco_official",
+ "name_en": "Roman Theatre and its Surroundings and the \"Triumphal Arch\" of Orange",
+ "name_local": "Théâtre antique et ses abords et « Arc de Triomphe » d'Orange",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "163-roman_theatre_and_its_surroundings_and_t",
+ "lat": 44.13572222,
+ "lon": 4.808416667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "奥朗日古剧场坐落在隆河河谷(Rhone valley)，正面长103米，是所有古罗马剧场中保存最完好的剧场之一。罗马凯旋门建造于公元10至25年，是从奥古斯都统治时期保存下来的外省凯旋门中最精美、最有意义的一个，上面刻有浅浮雕，用以纪念罗马帝国统治下的和平与繁荣。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in the Rhone valley, the ancient theatre of Orange, with its 103-m-long facade, is one of the best preserved of all the great Roman theatres. Built between A.D. 10 and 25, the Roman arch is one of the most beautiful and interesting surviving examples of a provincial triumphal arch from the reign of Augustus. It is decorated with low reliefs commemorating the establishment of the Pax Romana.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Dans la vallée du Rhône, le théâtre antique d'Orange, avec son mur de façade de 103 m de long, est l'un des mieux conservés des grands théâtres romains. Construit entre 10 et 25, l'arc de triomphe romain d'Orange est l'un des plus beaux et des plus intéressants arcs de triomphe provinciaux d'époque augustéenne qui nous soit parvenu, avec des bas-reliefs qui retracent l'établissement de la Pax Romana .",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%C3%A2tre%20antique%20d%27Orange%202.jpg?width=1280",
+   "title": "Théâtre antique d'Orange 2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre%20antique%20d%27Orange%202.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_163.jpg",
+   "title": "Roman Theatre and its Surroundings and the \"Triumphal Arch\" of Orange",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/163",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/163",
+ "transport": {
+  "airports": [
+   {
+    "name": "Avignon Caumont airport",
+    "iata": "AVN",
+    "city": "Avignon",
+    "country": "FR",
+    "lat": 43.907299,
+    "lon": 4.90183,
+    "type": "medium_airport",
+    "distance_km": 26.5
+   },
+   {
+    "name": "Nîmes-Arles-Camargue Airport",
+    "iata": "FNI",
+    "city": "Nîmes/Garons",
+    "country": "FR",
+    "lat": 43.757401,
+    "lon": 4.41635,
+    "type": "medium_airport",
+    "distance_km": 52.5
+   },
+   {
+    "name": "Marseille Provence Airport",
+    "iata": "MRS",
+    "city": "Marignane, Bouches-du-Rhône",
+    "country": "FR",
+    "lat": 43.438088,
+    "lon": 5.2125,
+    "type": "large_airport",
+    "distance_km": 84.1
+   }
+  ],
+  "nearest_airport_km": 26.5,
+  "distance_beijing_km": 8444.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/163"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

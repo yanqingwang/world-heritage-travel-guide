@@ -1,0 +1,162 @@
+{
+ "id": "wh-966",
+ "unesco_id": "966",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1205,
+ "popularity_score": null,
+ "country": "AR",
+ "country_zh": "阿根廷",
+ "country_en": "Argentina",
+ "countries": [
+  {
+   "iso2": "AR",
+   "zh": "阿根廷",
+   "en": "Argentina"
+  }
+ ],
+ "region": "Provinces of San Juan and La Rioja",
+ "subdivision_iso": "AR-F",
+ "subdivision_zh": "拉里奥哈省",
+ "subdivision_en": "La Rioja Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "伊沙瓜拉斯托－塔拉姆佩雅自然公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ischigualasto / Talampaya Natural Parks",
+ "name_local": "Parques naturales de Ischigualasto / Talampaya",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "966-ischigualasto_/_talampaya_natural_parks",
+ "lat": -29.8,
+ "lon": -67.833333,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这两个公园相邻，坐落在阿根廷中部彭巴山 (the Sierra Pampeanas) 西麓的沙漠地区，绵延275 300公顷，保存有三叠纪（2.45亿至2.08亿年前）最为完整的大陆化石。公园内的六个地质层含有哺乳动物先祖、恐龙以及各种植物化石，反映了脊椎动物的进化过程以及三叠纪时期古代自然环境。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These two contiguous parks, extending over 275,300 ha in the desert region on the western border of the Sierra Pampeanas of central Argentina, contain the most complete continental fossil record known from the Triassic Period (245-208 million years ago). Six geological formations in the parks contain fossils of a wide range of ancestors of mammals, dinosaurs and plants revealing the evolution of vertebrates and the nature of palaeo-environments in the Triassic Period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Estos dos parques contiguos se extienden por una superficie de más de 275.300 hectáreas en la región desértica que limita al oeste con las Sierras Pampeanas del centro de Argentina. Las seis formaciones geológicas de los parques albergan el conjunto continental de fósiles más completo del mundo correspondientes al Triásico, el periodo geológico que se inició unos 245 millones de años antes de nuestra era y finalizó unos 37 millones de años después. Los fósiles comprenden una amplia gama de antepasados de mamíferos, así como vestigios de dinosaurios y plantas, que ilustran la evolución de los vertebrados y las características de los paleoambientes del período Triásico.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Talampaya%20NP.jpg?width=1280",
+   "title": "Talampaya NP.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Talampaya%20NP.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_966.jpg",
+   "title": "Ischigualasto / Talampaya Natural Parks",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/966",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/966",
+ "transport": {
+  "airports": [
+   {
+    "name": "Capitan V A Almonacid Airport",
+    "iata": "IRJ",
+    "city": "La Rioja",
+    "country": "AR",
+    "lat": -29.381599,
+    "lon": -66.795799,
+    "type": "medium_airport",
+    "distance_km": 110.6
+   },
+   {
+    "name": "Domingo Faustino Sarmiento Airport",
+    "iata": "UAQ",
+    "city": "San Juan",
+    "country": "AR",
+    "lat": -31.571501,
+    "lon": -68.418198,
+    "type": "medium_airport",
+    "distance_km": 204.8
+   },
+   {
+    "name": "Coronel Felipe Varela International Airport",
+    "iata": "CTC",
+    "city": "Catamarca",
+    "country": "AR",
+    "lat": -28.593117,
+    "lon": -65.7512,
+    "type": "medium_airport",
+    "distance_km": 242.6
+   }
+  ],
+  "nearest_airport_km": 110.6,
+  "distance_beijing_km": 18786.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AR",
+  "country_zh": "阿根廷",
+  "country_en": "Argentina",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AR",
+   "country_zh": "阿根廷",
+   "country_en": "Argentina",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Electronic Travel Authorization (AVE) will only be issued to those who already possess a U.S. or Schengen visa. It must be approved before travel and is valid for tourism purposes.[11] As of 1 October 2017, visas are issued with a 10-year validity period. As of 22 July 2025, visa not required for ho"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/966"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

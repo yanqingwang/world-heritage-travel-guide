@@ -1,0 +1,199 @@
+{
+ "id": "cn-286",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广西壮族自治区",
+ "province_en": "Guangxi",
+ "province_iso": "CN-GX",
+ "city_zh": "南宁市",
+ "city_en": "Nanning",
+ "name_zh": "南宁市青秀山风景名胜旅游区",
+ "name_en": "Qingxiushan Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "nanningshiqingxiushanfengjingmingsheng-286",
+ "lat": 22.794981,
+ "lon": 108.395823,
+ "address_zh": "广西壮族自治区南宁市青秀区青山路19号",
+ "address_en": "No. 19, Qingshan Road, Qingxiu District, Nanning City, Guangxi Zhuang Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "青秀山风景区坐落在蜿蜒流淌的邕江畔，是南宁市最靓丽的城市名片之一。景区群峰起伏、林木青翠、岩幽壁峭、泉清石奇，以南亚热带植物景观为特色，常年云雾环绕，具有高浓度的负氧离子，形成了一个独特的天然休闲氧吧，素有“城市绿肺”“绿城翡翠，壮乡凤凰”的美誉。",
+ "intro_en": "Qingxiu Mountain Scenic Area is located on the bank of the winding Yongjiang River. It is one of the most beautiful city cards in Nanning. The scenic area has undulating peaks, green trees, steep rocks, clear springs and strange rocks. It is characterized by the south subtropical plant landscape. It is surrounded by clouds and mist all year round and has a high concentration of negative oxygen ions, forming a unique natural leisure oxygen bar. It is known as the \"green lung of the city\", \"emerald city, phoenix city\".",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E5%8D%97%E5%AE%81%E9%9D%92%E7%A7%80%E5%B1%B1%E8%A7%82%E9%9F%B3%E7%A6%85%E5%AF%BA.jpg/1280px-%E5%8D%97%E5%AE%81%E9%9D%92%E7%A7%80%E5%B1%B1%E8%A7%82%E9%9F%B3%E7%A6%85%E5%AF%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "南宁青秀山观音禅寺.jpg",
+   "author": "EditQ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%81%E9%9D%92%E7%A7%80%E5%B1%B1%E8%A7%82%E9%9F%B3%E7%A6%85%E5%AF%BA.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%E5%8D%97%E5%AE%81%E5%B8%82%E5%A4%A7%E6%98%8E%E5%B1%B1%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E5%8D%97%E5%AE%81%E5%B8%82%E5%A4%A7%E6%98%8E%E5%B1%B1%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "南宁市大明山保护管理条例.pdf",
+   "author": "Q106007132",
+   "license": "Public domain",
+   "credit": "The file is from National Database of Laws and Regulations maintained by General Office of the Standing Committee of the National People's Congress of People's ",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%81%E5%B8%82%E5%A4%A7%E6%98%8E%E5%B1%B1%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf"
+  }
+ ],
+ "web": "http://qsgw.nanning.gov.cn/",
+ "booking": "http://qsgw.nanning.gov.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanning Wuxu International Airport",
+    "iata": "NNG",
+    "city": "Nanning (Jiangnan)",
+    "country": "CN",
+    "lat": 22.598071,
+    "lon": 108.181922,
+    "type": "large_airport",
+    "distance_km": 31.0
+   },
+   {
+    "name": "Beihai Fucheng Airport",
+    "iata": "BHY",
+    "city": "Beihai",
+    "country": "CN",
+    "lat": 21.538659,
+    "lon": 109.293683,
+    "type": "medium_airport",
+    "distance_km": 167.5
+   },
+   {
+    "name": "Baise (Bose) Bama Airport",
+    "iata": "AEB",
+    "city": "Baise (Tianyang)",
+    "country": "CN",
+    "lat": 23.7206,
+    "lon": 106.959999,
+    "type": "medium_airport",
+    "distance_km": 179.2
+   }
+  ],
+  "nearest_airport_km": 31.0,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "南宁东",
+    "name_en": "Nanningdong",
+    "lat": 22.8447744,
+    "lon": 108.4099277,
+    "distance_km": 5.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "屯里",
+    "name_en": "Tunli",
+    "lat": 22.843295,
+    "lon": 108.4271099,
+    "distance_km": 6.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "五象南",
+    "name_en": "Wuxiangnan",
+    "lat": 22.7154345,
+    "lon": 108.4259197,
+    "distance_km": 9.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "南宁鑫伟万豪酒店",
+   "name_en": "Nanning Marriott Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 22.8166085,
+   "lon": 108.3821142,
+   "distance_km": 2.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "南宁东站希尔顿欢朋酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.8295864,
+   "lon": 108.4062749,
+   "distance_km": 4.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "凯悦嘉轩酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.7833688,
+   "lon": 108.4600689,
+   "distance_km": 6.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "柏悦湾酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.8368075,
+   "lon": 108.2810408,
+   "distance_km": 12.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "桔子酒店（南宁铜鼓岭路店）",
+   "name_en": null,
+   "stars": null,
+   "brand": "桔子酒店",
+   "lat": 22.8053713,
+   "lon": 108.4097245,
+   "distance_km": 1.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 92,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/青秀山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

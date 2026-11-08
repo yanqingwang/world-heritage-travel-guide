@@ -1,0 +1,162 @@
+{
+ "id": "wh-871",
+ "unesco_id": "871",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1184,
+ "popularity_score": null,
+ "country": "SE",
+ "country_zh": "瑞典",
+ "country_en": "Sweden",
+ "countries": [
+  {
+   "iso2": "SE",
+   "zh": "瑞典",
+   "en": "Sweden"
+  }
+ ],
+ "region": "Blekinge County",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "卡尔斯克鲁纳军港",
+ "name_zh_source": "unesco_official",
+ "name_en": "Naval Port of Karlskrona",
+ "name_local": "Örlogsstaden Karlskrona",
+ "local_lang": "sv",
+ "local_lang_name": "Swedish",
+ "slug": "871-naval_port_of_karlskrona",
+ "lat": 56.166666666,
+ "lon": 15.583333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡尔斯克鲁纳是欧洲17世纪末海军城市的一个突出典范。直到今天，它最初的设计和许多建筑连同反映它后来发展的设施都被完好地保存下来。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Karlskrona is an outstanding example of a late-17th-century European planned naval city. The original plan and many of the buildings have survived intact, along with installations that illustrate its subsequent development up to the present day.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Örlogsstaden Karlskrona upptogs år 1998 på Unescos världsarvslista som objekt nr 871. År 2020 varnade Unesco för att Örlogsstaden kan förlora sin världsarvsstatus, detta eftersom Karlskrona planerar att uppföra ett nytt kulturhus på Stortorget, liksom för rivningen av befintliga byggnader. Bland andra menar Riksantikvarieämbetet att det kan \"äventyra stadens världsarvsstatus\".",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/KungsholmsFortKarlskrona2.JPG?width=1280",
+   "title": "KungsholmsFortKarlskrona2.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:KungsholmsFortKarlskrona2.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_871.jpg",
+   "title": "Naval Port of Karlskrona",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/871",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/871",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ronneby Airport",
+    "iata": "RNB",
+    "city": "Ronneby",
+    "country": "SE",
+    "lat": 56.266701,
+    "lon": 15.265,
+    "type": "medium_airport",
+    "distance_km": 22.6
+   },
+   {
+    "name": "Kalmar Airport",
+    "iata": "KLR",
+    "city": "Kalmar",
+    "country": "SE",
+    "lat": 56.685501,
+    "lon": 16.2876,
+    "type": "medium_airport",
+    "distance_km": 72.1
+   },
+   {
+    "name": "Växjö Kronoberg Airport",
+    "iata": "VXO",
+    "city": "Växjö",
+    "country": "SE",
+    "lat": 56.929100036621094,
+    "lon": 14.727999687194824,
+    "type": "medium_airport",
+    "distance_km": 99.7
+   }
+  ],
+  "nearest_airport_km": 22.6,
+  "distance_beijing_km": 7019.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SE",
+  "country_zh": "瑞典",
+  "country_en": "Sweden",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SE",
+   "country_zh": "瑞典",
+   "country_en": "Sweden",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "sv",
+  "local_lang_name": "Swedish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/871"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

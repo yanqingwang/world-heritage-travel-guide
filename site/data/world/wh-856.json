@@ -1,0 +1,162 @@
+{
+ "id": "wh-856",
+ "unesco_id": "856",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 754,
+ "popularity_score": 4310,
+ "country": "BE",
+ "country_zh": "比利时",
+ "country_en": "Belgium",
+ "countries": [
+  {
+   "iso2": "BE",
+   "zh": "比利时",
+   "en": "Belgium"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "BE-WHT",
+ "subdivision_zh": "埃诺省",
+ "subdivision_en": "Hainaut",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "拉卢维耶尔和勒罗尔克斯中央运河上的四座船舶吊车（艾诺）",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)",
+ "name_local": "Les quatre ascenseurs du canal du Centre et leur site, La Louvière et Le Roeulx (Hainaut)",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "856-the_four_lifts_on_the_canal_du_centre_an",
+ "lat": 50.4714,
+ "lon": 4.0945,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在古老的中央运河这一小段上，有四座液压船舶吊车，是终极水平的工业杰作，加上运河本身及其附属设施，构成了一幅19世纪末的工业全景图，保存十分完好。19世纪末20世纪初共有八座液压船舶吊车，但是只有在中央运河上的这四座仍然保持着原始工作形态。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The four hydraulic boat-lifts on this short stretch of the historic Canal du Centre are industrial monuments of the highest quality. Together with the canal itself and its associated structures, they constitute a remarkably well-preserved and complete example of a late-19th-century industrial landscape. Of the eight hydraulic boat-lifts built at the end of the 19th and beginning of the 20th century, the only ones in the world which still exist in their original working condition are these four lifts on the Canal du Centre.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Les quatre ascenseurs hydrauliques pour bateaux, regroupés sur un court segment de l’historique canal du Centre, constituent des monuments industriels de la plus haute qualité. Avec le canal lui-même et ses structures associées, ils offrent un exemple remarquablement bien préservé et complet d’un paysage industriel de la fin du XIXe siècle. Des huit ascenseurs hydrauliques à bateaux édifiés à cette époque et au début du XXe siècle, les quatre ascenseurs du canal du Centre sont les seuls au monde subsistant dans leur état originel de fonctionnement.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/01%20Houdeng-Goegnies%20050323%20%282%29.JPG?width=1280",
+   "title": "01 Houdeng-Goegnies 050323 (2).JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:01%20Houdeng-Goegnies%20050323%20%282%29.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_856.jpg",
+   "title": "The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/856",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/856",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brussels South Charleroi Airport",
+    "iata": "CRL",
+    "city": "Charleroi",
+    "country": "BE",
+    "lat": 50.461963,
+    "lon": 4.459562,
+    "type": "large_airport",
+    "distance_km": 25.9
+   },
+   {
+    "name": "Brussels Airport",
+    "iata": "BRU",
+    "city": "Zaventem",
+    "country": "BE",
+    "lat": 50.901402,
+    "lon": 4.48444,
+    "type": "large_airport",
+    "distance_km": 55.1
+   },
+   {
+    "name": "Lille Airport",
+    "iata": "LIL",
+    "city": "Lesquin",
+    "country": "FR",
+    "lat": 50.566564,
+    "lon": 3.102429,
+    "type": "large_airport",
+    "distance_km": 70.9
+   }
+  ],
+  "nearest_airport_km": 25.9,
+  "distance_beijing_km": 7978.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BE",
+  "country_zh": "比利时",
+  "country_en": "Belgium",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BE",
+   "country_zh": "比利时",
+   "country_en": "Belgium",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 30
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/856"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Boat%20Lifts%20on%20the%20Canal%20du%20Centre"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

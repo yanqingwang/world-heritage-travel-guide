@@ -1,0 +1,162 @@
+{
+ "id": "wh-288",
+ "unesco_id": "288",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 380,
+ "popularity_score": 21765,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of North Rhine-Westphalia (Nordrhein-Westfalen)",
+ "subdivision_iso": "DE-NW",
+ "subdivision_zh": "",
+ "subdivision_en": "North Rhine-Westphalia",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "布吕尔的奥古斯塔斯堡古堡和法尔肯拉斯特古堡",
+ "name_zh_source": "unesco_official",
+ "name_en": "Castles of Augustusburg and Falkenlust at Brühl",
+ "name_local": "Schlösser Augustusburg und Falkenlust",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "288-castles_of_augustusburg_and_falkenlust_a",
+ "lat": 50.8275,
+ "lon": 6.908055555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1984",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "奥古斯塔斯堡周围风景优美，颇具田园风情，这里曾是科洛涅(Cologne)大主教奢华的住所，而法尔肯拉斯特古堡(the Falkenlust hunting lodge)则是一处狩猎场（小规模乡下活动）。这两个建筑都是18世纪德国洛可可风格最早的杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Set in an idyllic garden landscape, Augustusburg Castle (the sumptuous residence of the prince-archbishops of Cologne) and the Falkenlust hunting lodge (a small rural folly) are among the earliest examples of Rococo architecture in 18th-century Germany.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Schlösser Augustusburg und Falkenlust sind zwei ehemalige Residenzen der Fürstbischöfe von Köln in der nordrhein-westfälischen Stadt Brühl. Das größere Sommerschloss Augustusburg wurde 1725 bis 1768 im Auftrag von Clemens August von Bayern nach Entwürfen von Johann Conrad Schlaun, François de Cuvilliés d. Ä. und Balthasar Neumann erbaut. Das kleinere Jagdschloss Falkenlust wurde 1729 bis 1737 im Auftrag von Clemens August von Bayern nach Entwurf von François de Cuvilliés d. Ä. erbaut. Hervorzuheben sind das Treppenhaus im Schloss Augustusburg, das Spiegelkabinett im Schloss Falkenlust sowie der Schlosspark. Als die „ersten bedeutenden Schöpfungen des Rokokostils in Deutschland“ wurden beide Schlösser 1984 in die UNESCO-Welterbeliste eingeschrieben.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20Augustusburg%2C%20Southern%20Facade%2C%20November%202017%20-01.jpg?width=1280",
+   "title": "Schloss Augustusburg, Southern Facade, November 2017 -01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Schloss%20Augustusburg%2C%20Southern%20Facade%2C%20November%202017%20-01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_288.jpg",
+   "title": "Castles of Augustusburg and Falkenlust at Brühl",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/288",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/288",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cologne Bonn Airport",
+    "iata": "CGN",
+    "city": "Köln (Cologne)",
+    "country": "DE",
+    "lat": 50.865898,
+    "lon": 7.14274,
+    "type": "large_airport",
+    "distance_km": 17.0
+   },
+   {
+    "name": "Düsseldorf Airport",
+    "iata": "DUS",
+    "city": "Düsseldorf",
+    "country": "DE",
+    "lat": 51.289501,
+    "lon": 6.76678,
+    "type": "large_airport",
+    "distance_km": 52.3
+   },
+   {
+    "name": "Maastricht Aachen Airport",
+    "iata": "MST",
+    "city": "Maastricht",
+    "country": "NL",
+    "lat": 50.911087,
+    "lon": 5.769401,
+    "type": "large_airport",
+    "distance_km": 80.4
+   }
+  ],
+  "nearest_airport_km": 17.0,
+  "distance_beijing_km": 7806.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/288"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Augustusburg%20and%20Falkenlust%20Palaces%2C%20Br%C3%BChl"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

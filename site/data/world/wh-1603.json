@@ -1,0 +1,152 @@
+{
+ "id": "wh-1603",
+ "unesco_id": "1603",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 993,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-TF",
+ "subdivision_zh": "法属南部和南极领地",
+ "subdivision_en": "French Southern and Antarctic Lands",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "法属南部领地和领海",
+ "name_zh_source": "unesco_official",
+ "name_en": "French Austral Lands and Seas",
+ "name_local": "Terres et mers australes françaises",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1603-french_austral_lands_and_seas",
+ "lat": -49.1397,
+ "lon": 69.5811,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产地包括陆地稀少的南印度洋上最大的几个群岛和岛屿：克罗泽群岛、凯尔盖朗群岛、圣保罗岛和阿姆斯特丹岛，以及约60个小型亚南极岛屿。这片南半球海域上的“绿洲”总计占地16600万公顷，是全世界鸟类和海洋哺乳动物密度最高的地区之一，尤其帝企鹅和黄鼻信天翁数量居全球之冠。由于远离人类活动中心，这些岛屿保存状态完好，是生物演变历程的陈列馆和科学研究的独特场所。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The French Austral Lands and Seas comprise the largest of the rare emerged landmasses in the southern Indian Ocean: the Crozet Archipelago, the Kerguelen Islands, Saint-Paul and Amsterdam Islands as well as 60 small sub-Antarctic islands. This ‘oasis’ in the middle of the Southern Ocean covers an area of more than 166 million ha and supports one of the highest concentrations of birds and marine mammals in the world. In particular, it has the largest population of King Penguins and Yellow-nosed albatrosses in the world. The remoteness of these islands from centres of human activity makes them extremely well-preserved showcases of biological evolution and a unique terrain for scientific research.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Les Terres et mers australes françaises englobent les plus grandes des rares terres émergées du sud de l’océan Indien : l’archipel Crozet, les îles Kerguelen, Saint-Paul et Amsterdam ainsi que 60 petits îlots situés dans la zone subantarctique. Cette « oasis » au cœur de l’océan Austral, qui couvre une superficie de plus de 166 millions d’hectares, abrite l’une des plus fortes concentrations d’oiseaux et de mammifères marins au monde. On y trouve notamment la plus grande population de manchots royaux et d’albatros de Carter au monde. Du fait de leur éloignement des centres d’activités humaines, ces îles sont des vitrines extrêmement bien préservées de l’évolution biologique, et elles constituent un terrain unique pour la recherche scientifique.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Presqu%27%C3%AEle%20de%20la%20Soci%C3%A9t%C3%A9%20de%20G%C3%A9ographie.jpg?width=1280",
+   "title": "Presqu'île de la Société de Géographie.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Presqu%27%C3%AEle%20de%20la%20Soci%C3%A9t%C3%A9%20de%20G%C3%A9ographie.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1603.jpg",
+   "title": "French Austral Lands and Seas",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1603",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1603",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sir Charles Gaetan Duval Airport",
+    "iata": "RRG",
+    "city": "Port Mathurin",
+    "country": "MU",
+    "lat": -19.757668,
+    "lon": 63.36103,
+    "type": "medium_airport",
+    "distance_km": 3313.9
+   },
+   {
+    "name": "Tôlanaro Airport",
+    "iata": "FTU",
+    "city": "Tôlanaro",
+    "country": "MG",
+    "lat": -25.038099,
+    "lon": 46.9561,
+    "type": "medium_airport",
+    "distance_km": 3320.8
+   }
+  ],
+  "nearest_airport_km": 3313.9,
+  "distance_beijing_km": 10938.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 6
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1603"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

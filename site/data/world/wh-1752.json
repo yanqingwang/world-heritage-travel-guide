@@ -1,0 +1,154 @@
+{
+ "id": "wh-1752",
+ "unesco_id": "1752",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 744,
+ "popularity_score": 4560,
+ "country": "FI",
+ "country_zh": "芬兰",
+ "country_en": "Finland",
+ "countries": [
+  {
+   "iso2": "FI",
+   "zh": "芬兰",
+   "en": "Finland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "阿尔托作品",
+ "name_zh_source": "unesco_official",
+ "name_en": "Aalto Works",
+ "name_local": "Aalto Works",
+ "local_lang": "fi",
+ "local_lang_name": "Finnish",
+ "slug": "1752-aalto_works",
+ "lat": 61.46139153783333,
+ "lon": 23.42446484066667,
+ "coord_accuracy": "country_centroid",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产由分布于芬兰各地的13处现代建筑及建筑群组成，建造年代为1928-1988年，充分体现了20世纪现代主义运动及其回应广泛社会需求的理念。这些公共建筑、社区建筑和住宅分布于城市和乡村环境之中。虽然它们在国际上普遍与阿尔瓦·阿尔托（Alvar Aalto）的名字联系在一起，但实际上也是阿伊诺·马尔西奥·阿尔托（Aino Marsio Aalto）、埃莉萨·阿尔托（Elissa Aalto）、阿尔托工作室及其设计合作伙伴共同创造的成果。这些作品植根于芬兰建筑传统，同时吸收全球现代主义思想，体现出以人为本、因地制宜且富有人文关怀的设计理念，彰显了芬兰对现代建筑的独特贡献。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property consists of thirteen modern buildings and ensembles across Finland (1928–1988) that exemplify the 20th‑century Modern Movement and its response to broad social needs. These civic, community, and residential structures—found in both urban and rural settings—are internationally associated with Alvar Aalto, yet they reflect the collaborative creativity of Aalto, Aino Marsio‑Aalto, Elissa Aalto, the Aalto studio, and their design partners. Rooted in Finnish building traditions while drawing on global modernist ideas, the works express a human‑centred, site‑specific, and empathetic vision that distinguishes Finland’s contribution to modern architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Aalto Works on Unescon maailmanperintöluettelon kohde, joka hyväksyttiin listalle vuonna 2026. Aalto Works -kokonaisuuteen kuuluu 13 Alvar Aallon ja tämän vaimojen Aino ja Elissa Aallon suunnittelemaa rakennusta Suomessa. Aalto Works on yksi Suomen kahdeksasta kohteesta Unescon maailmanperintöluettelossa.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1752.jpg",
+   "title": "Aalto Works",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1752",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1752",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tampere-Pirkkala Airport",
+    "iata": "TMP",
+    "city": "Tampere / Pirkkala",
+    "country": "FI",
+    "lat": 61.414101,
+    "lon": 23.604401,
+    "type": "large_airport",
+    "distance_km": 10.9
+   },
+   {
+    "name": "Pori Airport",
+    "iata": "POR",
+    "city": "Pori",
+    "country": "FI",
+    "lat": 61.4617,
+    "lon": 21.799999,
+    "type": "medium_airport",
+    "distance_km": 86.3
+   },
+   {
+    "name": "Turku Airport",
+    "iata": "TKU",
+    "city": "Turku",
+    "country": "FI",
+    "lat": 60.514099,
+    "lon": 22.2628,
+    "type": "large_airport",
+    "distance_km": 122.6
+   }
+  ],
+  "nearest_airport_km": 10.9,
+  "distance_beijing_km": 6325.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FI",
+  "country_zh": "芬兰",
+  "country_en": "Finland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FI",
+   "country_zh": "芬兰",
+   "country_en": "Finland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fi",
+  "local_lang_name": "Finnish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 17
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1752"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aalto%20Works"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

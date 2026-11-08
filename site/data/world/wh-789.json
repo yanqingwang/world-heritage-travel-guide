@@ -1,0 +1,162 @@
+{
+ "id": "wh-789",
+ "unesco_id": "789",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1159,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Siena, Tuscany",
+ "subdivision_iso": "IT-SI",
+ "subdivision_zh": "锡耶纳省",
+ "subdivision_en": "Province of Siena",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "皮恩扎历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of the City of Pienza",
+ "name_local": "Urbanistica di Pienza",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "789-historic_centre_of_the_city_of_pienza",
+ "lat": 43.0766,
+ "lon": 11.679,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在皮乌斯教皇二世(Pope Pius II)于1459年决定改变他出生地的面貌以后，文艺复兴时期的城市设想正是在这个托斯卡纳镇第一次得以付诸实施。他选择了设计师贝尔纳多·罗塞利诺(Bernardo Rossellino)，罗塞利诺在建造中运用了他的良师益友列昂·巴蒂斯塔·阿尔贝蒂(Leon Battista Alberti)的建筑原则。这种关于城市空间规划的新观念在富丽堂皇的皮乌斯二世广场及其周边建筑米科洛米尼宫、博尔贾宫，以及外观是纯文艺复兴时期而内装修又类似于德国南部教堂晚期哥特式的大教堂中得以体现。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "It was in this Tuscan town that Renaissance town-planning concepts were first put into practice after Pope Pius II decided, in 1459, to transform the look of his birthplace. He chose the architect Bernardo Rossellino, who applied the principles of his mentor, Leon Battista Alberti. This new vision of urban space was realized in the superb square known as Piazza Pio II and the buildings around it: the Piccolomini Palace, the Borgia Palace and the cathedral with its pure Renaissance exterior and an interior in the late Gothic style of south German churches.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Pienza, in provincia di Siena, è uno dei rarissimi progetti di città ideale del Rinascimento messi in pratica. Il progetto urbanistico cittadino, curato da Bernardo Rossellino per papa Pio II, è una delle realizzazioni più significative del Quattrocento italiano.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pienza-03.jpg?width=1280",
+   "title": "Pienza-03.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pienza-03.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_789.jpg",
+   "title": "Historic Centre of the City of Pienza",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/789",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/789",
+ "transport": {
+  "airports": [
+   {
+    "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
+    "iata": "PEG",
+    "city": "Perugia (PG)",
+    "country": "IT",
+    "lat": 43.095901,
+    "lon": 12.5132,
+    "type": "large_airport",
+    "distance_km": 67.8
+   },
+   {
+    "name": "Florence Airport, Peretola",
+    "iata": "FLR",
+    "city": "Firenze (FI)",
+    "country": "IT",
+    "lat": 43.808558,
+    "lon": 11.202822,
+    "type": "large_airport",
+    "distance_km": 90.0
+   },
+   {
+    "name": "Marina di Campo Airport",
+    "iata": "EBA",
+    "city": "Campo nell'Elba (LI)",
+    "country": "IT",
+    "lat": 42.760871,
+    "lon": 10.239811,
+    "type": "medium_airport",
+    "distance_km": 122.3
+   }
+  ],
+  "nearest_airport_km": 67.8,
+  "distance_beijing_km": 8039.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/789"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Bortala Mongol Autonomous Prefecture"
 lat: 44.612755
 lon: 81.401139
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 博尔塔拉蒙古自治州赛里木湖景区 / Boertalamengguzizhizhousailimuhu Scenic Area

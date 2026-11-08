@@ -1,0 +1,234 @@
+{
+ "id": "cn-1435",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "宁夏回族自治区",
+ "province_en": "Ningxia",
+ "province_iso": "CN-NX",
+ "city_zh": "银川市",
+ "city_en": "Yinchuan",
+ "name_zh": "银川市水洞沟旅游区",
+ "name_en": "Yinchuan",
+ "name_en_source": "wikipedia",
+ "slug": "yinchuanshishuidonggou-1435",
+ "lat": 38.296135,
+ "lon": 106.515563,
+ "address_zh": "宁夏回族自治区银川市灵武市临河镇鄂托克前旗",
+ "address_en": "Etuokeqian Banner, Linhe Town, Lingwu City, Yinchuan City, Ningxia Hui Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "水洞沟是中国最早发掘的旧石器时代文化遗址。独特的雅丹地貌鬼斧神工地造就了魔鬼城、摩天崖、大峡谷等奇绝景观，它们和蓝天、碧水、断崖、芦苇、鸳鸯、野鸭共同构筑了宁静逸然的世外桃源。",
+ "intro_en": "Yinchuan (Chinese: 银川; pinyin: Yínchuān; lit. 'Silver River') is a prefecture‑level city and the capital of the Ningxia Hui Autonomous Region in northwest China. It served as the imperial capital of the Tangut‑led Western Xia (1038–1227). Yinchuan hosts the biennial China–Arab States Expo. As of the 2020 Chinese census, Yinchuan’s administrative area had 2,859,074 inhabitants; the built‑up area had 2,564,918 residents, comprising the three urban districts and the urbanized parts of Helan and Yongning counties. At the end of 2024, the resident population of the city was 2,914,700, an increase of 66,600 over the end of the previous year. Among them, the urban population is 2,429,400.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Yinchuan_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Yinchuan Montage.jpg",
+   "author": "Montage by Lzy881114",
+   "license": "CC BY-SA 3.0",
+   "credit": "All CC/PD sources: File:Yinchuan aerial.JPG File:YinchuanWestPagoda.jpg File:YichuanDrumTower.jpg File:YinchuanMosque2.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_Montage.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg",
+   "author": "Dagvidur",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Yinchuan_-_53725808820.jpg/1280px-Yinchuan_-_53725808820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yinchuan - 53725808820.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/53725808820/",
+   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_-_53725808820.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yinchuan_Yuhuang_Pavilion_-_53725809745_%282024%29.jpg/1280px-Yinchuan_Yuhuang_Pavilion_-_53725809745_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yinchuan Yuhuang Pavilion - 53725809745 (2024).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/53725809745/",
+   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_Yuhuang_Pavilion_-_53725809745_%282024%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yinchuan_railway_station_53725805445.jpg/1280px-Yinchuan_railway_station_53725805445.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yinchuan railway station 53725805445.jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/xiquinho/53725805445/",
+   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_railway_station_53725805445.jpg"
+  }
+ ],
+ "web": "https://www.shuidonggou.com/",
+ "booking": "https://www.shuidonggou.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yinchuan Hedong International Airport",
+    "iata": "INC",
+    "city": "Yinchuan",
+    "country": "CN",
+    "lat": 38.322758,
+    "lon": 106.393214,
+    "type": "large_airport",
+    "distance_km": 11.1
+   },
+   {
+    "name": "Alxa Left Banner Bayanhot Airport",
+    "iata": "AXF",
+    "city": "Bayanhot",
+    "country": "CN",
+    "lat": 38.748317,
+    "lon": 105.58416,
+    "type": "medium_airport",
+    "distance_km": 95.4
+   },
+   {
+    "name": "Zhongwei Shapotou Airport",
+    "iata": "ZHY",
+    "city": "Zhongwei (Shapotou)",
+    "country": "CN",
+    "lat": 37.573125,
+    "lon": 105.154454,
+    "type": "medium_airport",
+    "distance_km": 143.9
+   }
+  ],
+  "nearest_airport_km": 11.1,
+  "high_speed_stations": [
+   {
+    "name": "河东机场",
+    "name_en": "Hedongjichang",
+    "lat": 38.3217859,
+    "lon": 106.3818651,
+    "distance_km": 12.0,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "上海庙西",
+    "name_en": null,
+    "lat": 38.321727,
+    "lon": 106.5392518,
+    "distance_km": 3.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "宝丰物流园",
+    "name_en": null,
+    "lat": 38.237093,
+    "lon": 106.5290809,
+    "distance_km": 6.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "范家庄",
+    "name_en": null,
+    "lat": 38.2224622,
+    "lon": 106.5129876,
+    "distance_km": 8.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "银川之悦酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.4579109,
+   "lon": 106.279519,
+   "distance_km": 27.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "爱的空间主题酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.4566417,
+   "lon": 106.2788513,
+   "distance_km": 27.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "奥瑞莱商务酒店",
+   "name_en": "Alright Business Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 38.4551024,
+   "lon": 106.268182,
+   "distance_km": 27.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "智选假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn",
+   "lat": 38.4948795,
+   "lon": 106.3076884,
+   "distance_km": 28.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "建国璞隐酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 38.4967704,
+   "lon": 106.3082621,
+   "distance_km": 28.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 5,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/银川市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

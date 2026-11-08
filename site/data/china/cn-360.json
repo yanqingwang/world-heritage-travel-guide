@@ -1,0 +1,167 @@
+{
+ "id": "cn-360",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "吉林省",
+ "province_en": "Jilin",
+ "province_iso": "CN-JL",
+ "city_zh": "通化市",
+ "city_en": "Tonghua City",
+ "name_zh": "通化市高句丽文物古迹旅游景区",
+ "name_en": "Tonghuashigaojuliwenwuguji Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "tonghuashigaojuliwenwuguji-360",
+ "lat": 41.183529,
+ "lon": 126.11615,
+ "address_zh": "通化市集安市通胜街道",
+ "address_en": "Tongsheng Street, Ji'an City, Tonghua City",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "高句丽文物古迹旅游景区位于吉林省集安市，是高句丽王朝的遗迹。景区主要景点包括丸都山城、王陵(14座)及贵族墓葬(26座)。",
+ "intro_en": "The Goguryeo Cultural Relics and Historic Sites Tourist Area is located in Ji'an City, Jilin Province. It is a relic of the Goguryeo Dynasty. The main attractions in the scenic area include Wandu Mountain Castle, royal tombs (14) and noble tombs (26).",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tonghua Sanyuanpu Airport",
+    "iata": "TNH",
+    "city": "Tonghua",
+    "country": "CN",
+    "lat": 42.048435,
+    "lon": 125.733963,
+    "type": "medium_airport",
+    "distance_km": 101.3
+   },
+   {
+    "name": "Changbaishan Airport",
+    "iata": "NBS",
+    "city": "Baishan",
+    "country": "CN",
+    "lat": 42.066944,
+    "lon": 127.602222,
+    "type": "medium_airport",
+    "distance_km": 157.8
+   },
+   {
+    "name": "Sondok Airport",
+    "iata": "DSO",
+    "city": "Sŏndŏng-ni",
+    "country": "KP",
+    "lat": 39.745201,
+    "lon": 127.473999,
+    "type": "medium_airport",
+    "distance_km": 196.9
+   }
+  ],
+  "nearest_airport_km": 101.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "集安",
+    "name_en": "Ji'an",
+    "lat": 41.1341712,
+    "lon": 126.1987707,
+    "distance_km": 8.8,
+    "operator": "中国铁路沈阳局集团有限公司 通化车务段",
+    "high_speed": false
+   },
+   {
+    "name": "阳岔",
+    "name_en": "Yangcha",
+    "lat": 41.2147885,
+    "lon": 126.2361719,
+    "distance_km": 10.6,
+    "operator": "中国铁路沈阳局集团有限公司 通化车务段",
+    "high_speed": false
+   },
+   {
+    "name": "만포청년",
+    "name_en": "Manpo-Chongnyon",
+    "lat": 41.1515618,
+    "lon": 126.2825426,
+    "distance_km": 14.4,
+    "operator": "조선민주주의인민공화국 철도성",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "集安宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1275355,
+   "lon": 126.1753381,
+   "distance_km": 8.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "益海酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1278955,
+   "lon": 126.1794174,
+   "distance_km": 8.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lano Hotel",
+   "name_en": "Lano Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 41.125755,
+   "lon": 126.1852267,
+   "distance_km": 8.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ji'an Heyue Hotel",
+   "name_en": "Ji'an Heyue Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 41.1311554,
+   "lon": 126.2026892,
+   "distance_km": 9.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

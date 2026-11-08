@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Nanchang"
 lat: 31.468248
 lon: 106.608353
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 南充市朱德故里景区 / Nanchong

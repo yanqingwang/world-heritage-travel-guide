@@ -1,0 +1,162 @@
+{
+ "id": "wh-229",
+ "unesco_id": "229",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1048,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Meurthe-et-Moselle, Lorraine Region",
+ "subdivision_iso": "FR-54",
+ "subdivision_zh": "默尔特-摩泽尔省",
+ "subdivision_en": "Meurthe-et-Moselle",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "南锡的斯坦尼斯拉斯广场、卡里埃勒广场和阿莱昂斯广场",
+ "name_zh_source": "unesco_official",
+ "name_en": "Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",
+ "name_local": "Places Stanislas, de la Carrière et d'Alliance à Nancy",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "229-place_stanislas,_place_de_la_carrière_an",
+ "lat": 48.69361111,
+ "lon": 6.183333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "斯坦尼斯拉斯·莱什琴斯基(Stanislas Leszczynski)，一个没有自己王国的国王，后来成了洛林公爵，他临时居住过的南锡则成了一个最古老而又最典型的现代首都典范。事实表明，这里受到启蒙思想影响的君主对公众需求确实敏感。1752年至1756年期间，建筑师埃赫尔(Héré)领导的一个才华横溢的团队修建了这个城市。这是一个精心设计的工程，成功地创造了一个既能提高王国声誉，又具有实用性的首都。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Nancy, the temporary residence of a king without a kingdom – Stanislas Leszczynski, later to become Duke of Lorraine – is paradoxically the oldest and most typical example of a modern capital where an enlightened monarch proved to be sensitive to the needs of the public. Built between 1752 and 1756 by a brilliant team led by the architect Héré, this was a carefully conceived project that succeeded in creating a capital that not only enhanced the sovereign's prestige but was also functional.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Nancy, résidence temporaire d'un roi sans royaume devenu duc de Lorraine, Stanislas Leszczynski, est paradoxalement l'exemple le plus ancien et le plus typique d'une capitale moderne où un monarque éclairé se montre soucieux d'utilité publique. Réalisé de 1752 à 1756 par une équipe brillante sous la direction de l'architecte Héré, le projet, d'une grande cohérence, s'est concrétisé dans une parfaite réussite monumentale qui allie la recherche du prestige et de l'exaltation du souverain au souci de la fonctionnalité.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Place%20Stanislas%20%C3%A0%20Nancy.jpg?width=1280",
+   "title": "Place Stanislas à Nancy.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Place%20Stanislas%20%C3%A0%20Nancy.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_229.jpg",
+   "title": "Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/229",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/229",
+ "transport": {
+  "airports": [
+   {
+    "name": "Metz-Nancy-Lorraine Airport",
+    "iata": "ETZ",
+    "city": "Goin",
+    "country": "FR",
+    "lat": 48.982101,
+    "lon": 6.25132,
+    "type": "medium_airport",
+    "distance_km": 32.5
+   },
+   {
+    "name": "Saarbrücken Airport",
+    "iata": "SCN",
+    "city": "Saarbrücken",
+    "country": "DE",
+    "lat": 49.214545,
+    "lon": 7.109735,
+    "type": "medium_airport",
+    "distance_km": 89.1
+   },
+   {
+    "name": "Luxembourg-Findel International Airport",
+    "iata": "LUX",
+    "city": "Luxembourg",
+    "country": "LU",
+    "lat": 49.626845,
+    "lon": 6.212134,
+    "type": "large_airport",
+    "distance_km": 103.8
+   }
+  ],
+  "nearest_airport_km": 32.5,
+  "distance_beijing_km": 7990.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/229"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

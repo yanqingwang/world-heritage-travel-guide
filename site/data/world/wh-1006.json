@@ -1,0 +1,162 @@
+{
+ "id": "wh-1006",
+ "unesco_id": "1006",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 734,
+ "popularity_score": 4838,
+ "country": "BE",
+ "country_zh": "比利时",
+ "country_en": "Belgium",
+ "countries": [
+  {
+   "iso2": "BE",
+   "zh": "比利时",
+   "en": "Belgium"
+  }
+ ],
+ "region": "Province of Hainaut, Wallonia Region",
+ "subdivision_iso": "BE-WAL",
+ "subdivision_zh": "",
+ "subdivision_en": "Hainaut",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "斯皮耶纳新石器时代的燧石矿",
+ "name_zh_source": "unesco_official",
+ "name_en": "Neolithic Flint Mines at Spiennes (Mons)",
+ "name_local": "Minières néolithiques de silex de Spiennes (Mons)",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1006-neolithic_flint_mines_at_spiennes_(mons)",
+ "lat": 50.419988888,
+ "lon": 3.982575,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "斯皮耶纳新石器时代的燧石矿面积达100多公顷，是欧洲最大且最早的古代矿坑汇集地。这些燧石矿的非凡在于提炼技术的多样化，及其与当时人类聚落之间的直接联系。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Neolithic flint mines at Spiennes, covering more than 100 ha, are the largest and earliest concentration of ancient mines in Europe. They are also remarkable for the diversity of technological solutions used for extraction and for the fact that they are directly linked to a settlement of the same period.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Les mines de silex du néolithique à Spiennes, qui couvrent plus de 100 ha, sont les centres d'extraction minière les plus vastes et les plus anciens d'Europe. Elles sont aussi remarquables par la diversité des solutions techniques mises en œuvre pour l'extraction et en raison de leur lien direct avec un peuplement de la même période.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Spiennes%20-%20Mini%C3%A8res%20n%C3%A9olithiques%20de%20silex%20%282%29.jpg?width=1280",
+   "title": "Spiennes - Minières néolithiques de silex (2).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Spiennes%20-%20Mini%C3%A8res%20n%C3%A9olithiques%20de%20silex%20%282%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1006.jpg",
+   "title": "Neolithic Flint Mines at Spiennes (Mons)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1006",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1006",
+ "transport": {
+  "airports": [
+   {
+    "name": "Brussels South Charleroi Airport",
+    "iata": "CRL",
+    "city": "Charleroi",
+    "country": "BE",
+    "lat": 50.461963,
+    "lon": 4.459562,
+    "type": "large_airport",
+    "distance_km": 34.1
+   },
+   {
+    "name": "Brussels Airport",
+    "iata": "BRU",
+    "city": "Zaventem",
+    "country": "BE",
+    "lat": 50.901402,
+    "lon": 4.48444,
+    "type": "large_airport",
+    "distance_km": 64.2
+   },
+   {
+    "name": "Lille Airport",
+    "iata": "LIL",
+    "city": "Lesquin",
+    "country": "FR",
+    "lat": 50.566564,
+    "lon": 3.102429,
+    "type": "large_airport",
+    "distance_km": 64.4
+   }
+  ],
+  "nearest_airport_km": 34.1,
+  "distance_beijing_km": 7978.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BE",
+  "country_zh": "比利时",
+  "country_en": "Belgium",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BE",
+   "country_zh": "比利时",
+   "country_en": "Belgium",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 25
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1006"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Neolithic%20flint%20mines%20of%20Spiennes"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

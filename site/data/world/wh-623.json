@@ -1,0 +1,162 @@
+{
+ "id": "wh-623",
+ "unesco_id": "623",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1123,
+ "popularity_score": null,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "DE-NI",
+ "subdivision_zh": "下萨克森州",
+ "subdivision_en": "Lower Saxony",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "上哈尔茨山的水资源管理系统",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",
+ "name_local": "Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "623-mines_of_rammelsberg,_historic_town_of_g",
+ "lat": 51.82,
+ "lon": 10.34,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "上哈尔茨的水动力采矿系统，位于赖迈尔斯堡矿和戈斯拉尔古城以南，主要用来协助提取有色金属矿，其开发使用的历史达到800年。这套系统最初由中世纪熙笃会僧侣建成，16世纪末到19世纪期间得到了大规模开发。这是一套复杂却关联性极强的系统，组成部分包括人工池塘、小通道、隧道及地下排水渠等，建造的目的是使用水力帮助进行采矿和冶金。这是体现西方世界矿业发展创新的一处重要遗址。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Upper Harz mining water management system, which lies south of the Rammelsberg mines and the town of Goslar, has been developed over a period of some 800 years to assist in the process of extracting ore for the production of non-ferrous metals. Its construction was first undertaken in the Middle Ages by Cistercian monks, and it was then developed on a vast scale from the end of the 16th century until the 19th century. It is made up of an extremely complex but perfectly coherent system of artificial ponds, small channels, tunnels and underground drains. It enabled the development of water power for use in mining and metallurgical processes. It is a major site for mining innovation in the western world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Mit der Bezeichnung Bergwerk Rammelsberg, Altstadt von Goslar und Oberharzer Wasserwirtschaft werden Ensembles von historischen Bauwerken und technischen Denkmälern des Oberharzer Bergbaus zu einer seriellen UNESCO-Welterbestätte zusammengefasst. Das Welterbe im Harz misst eine Gesamtfläche von 220 Quadratkilometern und weist zahlreiche museale Standorte und öffentlich zugängliche Bodendenkmäler auf. Alle befinden sich im Westharz (Niedersachsen).",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LuftbRammelsbg.JPG?width=1280",
+   "title": "LuftbRammelsbg.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:LuftbRammelsbg.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_623.jpg",
+   "title": "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/623",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/623",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kassel Airport",
+    "iata": "KSF",
+    "city": "Calden",
+    "country": "DE",
+    "lat": 51.418395,
+    "lon": 9.391638,
+    "type": "large_airport",
+    "distance_km": 79.3
+   },
+   {
+    "name": "Hannover Airport",
+    "iata": "HAJ",
+    "city": "Hannover",
+    "country": "DE",
+    "lat": 52.461102,
+    "lon": 9.68508,
+    "type": "large_airport",
+    "distance_km": 84.1
+   },
+   {
+    "name": "Erfurt-Weimar Airport",
+    "iata": "ERF",
+    "city": "Erfurt",
+    "country": "DE",
+    "lat": 50.978281,
+    "lon": 10.960713,
+    "type": "large_airport",
+    "distance_km": 103.0
+   }
+  ],
+  "nearest_airport_km": 79.3,
+  "distance_beijing_km": 7645.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/623"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

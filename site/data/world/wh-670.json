@@ -1,0 +1,162 @@
+{
+ "id": "wh-670",
+ "unesco_id": "670",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1131,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Matera, Region of Basilicata",
+ "subdivision_iso": "IT-MT",
+ "subdivision_zh": "馬泰拉省",
+ "subdivision_en": "province of Matera",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马泰拉的石窟民居和石头教堂花园",
+ "name_zh_source": "unesco_official",
+ "name_en": "The Sassi and the Park of the Rupestrian Churches of Matera",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "670-the_sassi_and_the_park_of_the_rupestrian",
+ "lat": 40.666388888,
+ "lon": 16.610277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(v)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这是地中海地区最著名也是保存最完好的穴居人遗址。整个遗址依地势而建，且完美地配合当地的生态系统。遗址最早的居住年代可以追溯到旧石器时代，并反映了人类历史发展的重要历史阶段。马泰拉地处巴西利卡塔的南部地区。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This is the most outstanding, intact example of a troglodyte settlement in the Mediterranean region, perfectly adapted to its terrain and ecosystem. The first inhabited zone dates from the Palaeolithic, while later settlements illustrate a number of significant stages in human history. Matera is in the southern region of Basilicata.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Matera%20Sassi.jpg?width=1280",
+   "title": "Matera Sassi.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Matera%20Sassi.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_670.jpg",
+   "title": "The Sassi and the Park of the Rupestrian Churches of Matera",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/670",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/670",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bari Karol Wojtyła International Airport",
+    "iata": "BRI",
+    "city": "Bari",
+    "country": "IT",
+    "lat": 41.138901,
+    "lon": 16.760599,
+    "type": "large_airport",
+    "distance_km": 54.0
+   },
+   {
+    "name": "Brindisi Airport",
+    "iata": "BDS",
+    "city": "Brindisi",
+    "country": "IT",
+    "lat": 40.6576,
+    "lon": 17.947001,
+    "type": "large_airport",
+    "distance_km": 112.8
+   },
+   {
+    "name": "Foggia Gino Lisa Airport",
+    "iata": "FOG",
+    "city": "Foggia (FG)",
+    "country": "IT",
+    "lat": 41.433596,
+    "lon": 15.534566,
+    "type": "medium_airport",
+    "distance_km": 124.2
+   }
+  ],
+  "nearest_airport_km": 54.0,
+  "distance_beijing_km": 7896.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/670"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

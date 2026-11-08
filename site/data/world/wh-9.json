@@ -1,0 +1,162 @@
+{
+ "id": "wh-9",
+ "unesco_id": "9",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 462,
+ "popularity_score": 15546,
+ "country": "ET",
+ "country_zh": "埃塞俄比亚",
+ "country_en": "Ethiopia",
+ "countries": [
+  {
+   "iso2": "ET",
+   "zh": "埃塞俄比亚",
+   "en": "Ethiopia"
+  }
+ ],
+ "region": "Gondar Region",
+ "subdivision_iso": "ET-AM",
+ "subdivision_zh": "阿姆哈拉州",
+ "subdivision_en": "Amhara Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "塞米恩国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Simien National Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "9-simien_national_park",
+ "lat": 13.183333333,
+ "lon": 38.066666666,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(x)",
+ "year": "1978",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "多少年以来，埃塞俄比亚高原遭受了严重侵蚀，但侵蚀也造就了世界上最为壮观的奇景之一，这里山峰险峻，峡谷幽深，悬崖峭壁高达1500米。公园也是一些极珍稀动物的栖息地，比如杰拉达狒狒、塞米恩狐狸和世界上仅此一处的瓦利亚野生山羊。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Massive erosion over the years on the Ethiopian plateau has created one of the most spectacular landscapes in the world, with jagged mountain peaks, deep valleys and sharp precipices dropping some 1,500 m. The park is home to some extremely rare animals such as the Gelada baboon, the Simien fox and the Walia ibex, a goat found nowhere else in the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simiensk%C3%A9%20hory.jpg?width=1280",
+   "title": "Simienské hory.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Simiensk%C3%A9%20hory.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_9.jpg",
+   "title": "Simien National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/9",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/9",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gondar Airport",
+    "iata": "GDQ",
+    "city": "Azezo",
+    "country": "ET",
+    "lat": 12.5199,
+    "lon": 37.433998,
+    "type": "medium_airport",
+    "distance_km": 100.7
+   },
+   {
+    "name": "Shire Inda Selassie Airport",
+    "iata": "SHC",
+    "city": "Shire Inda Selassie",
+    "country": "ET",
+    "lat": 14.075699,
+    "lon": 38.273592,
+    "type": "small_airport",
+    "distance_km": 101.7
+   },
+   {
+    "name": "Axum Airport",
+    "iata": "AXU",
+    "city": "Axum",
+    "country": "ET",
+    "lat": 14.1468,
+    "lon": 38.7728,
+    "type": "medium_airport",
+    "distance_km": 131.5
+   }
+  ],
+  "nearest_airport_km": 100.7,
+  "distance_beijing_km": 8198.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ET",
+  "country_zh": "埃塞俄比亚",
+  "country_en": "Ethiopia",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6]",
+  "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[49] e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days.[50] Visa free for holders of passports for public affairs.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ET",
+   "country_zh": "埃塞俄比亚",
+   "country_en": "Ethiopia",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6]",
+   "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[49] e-Visa holders must arrive via Addis Ababa Bole International Airport. e-Visa is available for 30 or 90 days.[50] Visa free for holders of passports for public affairs.[18]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 51
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/9"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Simien%20Mountains%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

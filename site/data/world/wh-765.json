@@ -1,0 +1,142 @@
+{
+ "id": "wh-765",
+ "unesco_id": "765",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1150,
+ "popularity_score": null,
+ "country": "RU",
+ "country_zh": "俄罗斯",
+ "country_en": "Russia",
+ "countries": [
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "RU-KAM",
+ "subdivision_zh": "堪察加邊疆區",
+ "subdivision_en": "Kamchatka Krai",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "勘察加火山",
+ "name_zh_source": "unesco_official",
+ "name_en": "Volcanoes of Kamchatka",
+ "name_local": "Вулканы Камчатки",
+ "local_lang": "ru",
+ "local_lang_name": "Russian",
+ "slug": "765-volcanoes_of_kamchatka",
+ "lat": 52.0,
+ "lon": 157.8299,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "勘察加火山是世界上最著名的火山区之一，它拥有高密度的活火山，而且类型和特征各不相同。指定考察的6个景点集中了勘察加半岛大多数的火山奇异景观。活火山与冰河相互作用造就了这里的生机和美景。景区内物种丰富，除世界现存的最大鲑鱼群外，还集中了罕见的海獭、棕熊和鱼鹰。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This is one of the most outstanding volcanic regions in the world, with a high density of active volcanoes, a variety of types, and a wide range of related features. The six sites included in the serial designation group together the majority of volcanic features of the Kamchatka peninsula. The interplay of active volcanoes and glaciers forms a dynamic landscape of great beauty. The sites contain great species diversity, including the world's largest known variety of salmonoid fish and exceptional concentrations of sea otter, brown bear and Stellar's sea eagle.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Это один из наиболее интересных вулканических районов мира, где сконцентрировано большое число действующих вулканов, равно как и множество других природных феноменов, связанных с вулканической деятельностью. Объект наследия состоит из шести отдельных участков, которые в сумме отражают все основные особенности Камчатки как региона активного вулканизма. Действующие вулканы в сочетании с ледниками формируют исключительно живописный и постоянно развивающийся ландшафт. Местность выделяется значительным биоразнообразием, здесь отмечена высочайшая концентрация лососевых рыб, а также крупные скопления калана, большое количество бурых медведей и белоплечих орланов.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/D0807I14-HarbourTour.jpg?width=1280",
+   "title": "D0807I14-HarbourTour.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:D0807I14-HarbourTour.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_765.jpg",
+   "title": "Volcanoes of Kamchatka",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/765",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/765",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yelizovo Airport",
+    "iata": "PKC",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "RU",
+    "lat": 53.168716,
+    "lon": 158.451068,
+    "type": "large_airport",
+    "distance_km": 136.6
+   }
+  ],
+  "nearest_airport_km": 136.6,
+  "distance_beijing_km": 3450.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RU",
+  "country_zh": "俄罗斯",
+  "country_en": "Russia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required",
+  "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ru",
+  "local_lang_name": "Russian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/765"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

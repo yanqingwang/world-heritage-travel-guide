@@ -1,0 +1,162 @@
+{
+ "id": "wh-764",
+ "unesco_id": "764",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 285,
+ "popularity_score": 32413,
+ "country": "BZ",
+ "country_zh": "伯利兹",
+ "country_en": "Belize",
+ "countries": [
+  {
+   "iso2": "BZ",
+   "zh": "伯利兹",
+   "en": "Belize"
+  }
+ ],
+ "region": "Belize District (sites I, II, III), Stann Creek District ( IV,V,VI), Toledo District (VII)",
+ "subdivision_iso": "BZ-BZ",
+ "subdivision_zh": "",
+ "subdivision_en": "Belize District",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "伯利兹堡礁保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Belize Barrier Reef Reserve System",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "764-belize_barrier_reef_reserve_system",
+ "lat": 17.2625,
+ "lon": -88.052777777,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "伯利兹海岸是一处风景绝佳的自然生态系统，由北半球最大的堡礁、近海环礁、几百个沙洲、美洲红树林、沿海泻湖、港湾组成。保护区内的七处景点展示了暗礁进化的历史，是包括海龟、海牛和美洲湾鳄在内的濒危物种的重要栖息地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The coastal area of Belize is an outstanding natural system consisting of the largest barrier reef in the northern hemisphere, offshore atolls, several hundred sand cays, mangrove forests, coastal lagoons and estuaries. The system’s seven sites illustrate the evolutionary history of reef development and are a significant habitat for threatened species, including marine turtles, manatees and the American marine crocodile.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Belize%20Barrier%20Reef%20from%20space.png?width=1280",
+   "title": "Belize Barrier Reef from space.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Belize%20Barrier%20Reef%20from%20space.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_764.jpg",
+   "title": "Belize Barrier Reef Reserve System",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/764",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/764",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sir Barry Bowen Municipal Airport",
+    "iata": "TZA",
+    "city": "Belize City",
+    "country": "BZ",
+    "lat": 17.517239,
+    "lon": -88.195775,
+    "type": "medium_airport",
+    "distance_km": 32.1
+   },
+   {
+    "name": "Dangriga Airport",
+    "iata": "DGA",
+    "city": "Dangriga",
+    "country": "BZ",
+    "lat": 16.98251,
+    "lon": -88.230988,
+    "type": "medium_airport",
+    "distance_km": 36.4
+   },
+   {
+    "name": "Philip S. W. Goldson International Airport",
+    "iata": "BZE",
+    "city": "Belize City",
+    "country": "BZ",
+    "lat": 17.539951,
+    "lon": -88.303556,
+    "type": "large_airport",
+    "distance_km": 40.7
+   }
+  ],
+  "nearest_airport_km": 32.1,
+  "distance_beijing_km": 13115.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BZ",
+  "country_zh": "伯利兹",
+  "country_en": "Belize",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Visa is not required for cruise passengers.[21] Holders of a multi-entry visa or Permanent Resident Card issued by Canada or United States, may enter visa-free for up to 30 days.[22] Holders of a multi-entry visa issued by a Schengen state, may enter visa-free for up to 30 days.[23]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BZ",
+   "country_zh": "伯利兹",
+   "country_en": "Belize",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Visa is not required for cruise passengers.[21] Holders of a multi-entry visa or Permanent Resident Card issued by Canada or United States, may enter visa-free for up to 30 days.[22] Holders of a multi-entry visa issued by a Schengen state, may enter visa-free for up to 30 days.[23]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 47
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/764"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Belize%20Barrier%20Reef"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

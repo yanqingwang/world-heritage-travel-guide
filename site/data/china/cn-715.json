@@ -1,0 +1,234 @@
+{
+ "id": "cn-715",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广东省",
+ "province_en": "Guangdong",
+ "province_iso": "CN-GD",
+ "city_zh": "广州市",
+ "city_en": "Guangzhou",
+ "name_zh": "广州市番禺区长隆旅游度假区",
+ "name_en": "Panyu, Guangzhou",
+ "name_en_source": "wikipedia",
+ "slug": "guangzhoushipanyuquzhanglong-715",
+ "lat": 23.005809,
+ "lon": 113.331839,
+ "address_zh": "广东省广州市番禺区汉溪大道东299号",
+ "address_en": "No. 299 East Hanxi Avenue, Panyu District, Guangzhou City, Guangdong Province",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "广州市长隆旅游度假区拥有长隆欢乐世界、长隆国际大马戏、长隆水上乐园、长隆野生动物世界、长隆飞鸟乐园和长隆酒店等多家主题公园及酒店，是国内超大规模的综合性旅游度假区之一。",
+ "intro_en": "Panyu, formerly romanized as Punyü, is one of 11 urban districts of the prefecture-level city of Guangzhou, the capital of Guangdong Province, China. Since January 1975, Panyu County has been under Guangzhou's administration. In 1992, Panyu County was renamed to Panyu county-level city, still under Guangzhou's administration. It was subsequently renamed to Panyu District on 10 July 2000. The present district covers an area of about 530 km2 (200 sq mi).",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Xili_Bridge%2C_Panyu%2C_Guangzhou_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Xili Bridge, Panyu, Guangzhou 2014.jpg",
+   "author": "xLai",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Xili_Bridge%2C_Panyu%2C_Guangzhou_2014.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg/1280px-Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Guangzhou Panyu Shawan Beicun 20190922.155057.jpg",
+   "author": "古海岸遗址",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Panyu_Avenue_N.%2C_Panyu_District%2C_Guangzhou-3.jpg/1280px-Panyu_Avenue_N.%2C_Panyu_District%2C_Guangzhou-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Panyu Avenue N., Panyu District, Guangzhou-3.jpg",
+   "author": "YikyuenG",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Panyu_Avenue_N.%2C_Panyu_District%2C_Guangzhou-3.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Panyu_Avenue_S.%2C_Panyu_District%2C_Guangzhou-4.jpg/1280px-Panyu_Avenue_S.%2C_Panyu_District%2C_Guangzhou-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Panyu Avenue S., Panyu District, Guangzhou-4.jpg",
+   "author": "YikyuenG",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Panyu_Avenue_S.%2C_Panyu_District%2C_Guangzhou-4.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Shawan_Bridge%2C_Panyu%2C_Guangzhou_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Shawan Bridge, Panyu, Guangzhou 2012.jpg",
+   "author": "Xiaolai1996",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shawan_Bridge%2C_Panyu%2C_Guangzhou_2012.jpg"
+  }
+ ],
+ "web": "https://www.chimelong.com/",
+ "booking": "https://www.chimelong.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Foshan Shadi Airport",
+    "iata": "FUO",
+    "city": "Foshan (Nanhai)",
+    "country": "CN",
+    "lat": 23.0825,
+    "lon": 113.070833,
+    "type": "medium_airport",
+    "distance_km": 28.0
+   },
+   {
+    "name": "Guangzhou Baiyun International Airport",
+    "iata": "CAN",
+    "city": "Guangzhou (Huadu)",
+    "country": "CN",
+    "lat": 23.392401,
+    "lon": 113.299004,
+    "type": "large_airport",
+    "distance_km": 43.1
+   },
+   {
+    "name": "Shenzhen Bao'an International Airport",
+    "iata": "SZX",
+    "city": "Shenzhen",
+    "country": "CN",
+    "lat": 22.639474,
+    "lon": 113.803262,
+    "type": "large_airport",
+    "distance_km": 63.2
+   }
+  ],
+  "nearest_airport_km": 28.0,
+  "high_speed_stations": [
+   {
+    "name": "广州南",
+    "name_en": "Guangzhounan",
+    "lat": 22.9914143,
+    "lon": 113.2640375,
+    "distance_km": 7.1,
+    "operator": "中国铁路广州局集团有限公司",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "广州长隆",
+    "name_en": "Guangzhouchanglong",
+    "lat": 22.9926925,
+    "lon": 113.3248275,
+    "distance_km": 1.6,
+    "operator": "广东城际铁路运营有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "大石东",
+    "name_en": "Dashidong",
+    "lat": 23.0216158,
+    "lon": 113.319092,
+    "distance_km": 2.2,
+    "operator": "广东城际铁路运营有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "东环",
+    "name_en": "Donghuan",
+    "lat": 22.9768441,
+    "lon": 113.3604784,
+    "distance_km": 4.4,
+    "operator": "广东城际铁路运营有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "正佳万豪酒店",
+   "name_en": "Guangzhou Marriott Hotel Tianhe",
+   "stars": 5,
+   "brand": "Marriott",
+   "lat": 23.1352884,
+   "lon": 113.3208039,
+   "distance_km": 14.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "广州海航威斯汀酒店",
+   "name_en": "The Westin Guangzhou",
+   "stars": 5,
+   "brand": null,
+   "lat": 23.1458312,
+   "lon": 113.3207985,
+   "distance_km": 15.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "广州希尔顿逸林酒店",
+   "name_en": "DoubleTree by Hilton Hotel Guangzhou",
+   "stars": 5,
+   "brand": null,
+   "lat": 23.1342368,
+   "lon": 113.2656669,
+   "distance_km": 15.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "白云宾馆",
+   "name_en": "Baiyun Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 23.1407002,
+   "lon": 113.2806747,
+   "distance_km": 15.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "广州天河希尔顿酒店",
+   "name_en": "Hilton Guangzhou Tianhe",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 23.1488451,
+   "lon": 113.315283,
+   "distance_km": 16.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 375,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/番禺区"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

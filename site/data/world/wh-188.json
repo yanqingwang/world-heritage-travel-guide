@@ -1,0 +1,162 @@
+{
+ "id": "wh-188",
+ "unesco_id": "188",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 313,
+ "popularity_score": 28928,
+ "country": "DZ",
+ "country_zh": "阿尔及利亚",
+ "country_en": "Algeria",
+ "countries": [
+  {
+   "iso2": "DZ",
+   "zh": "阿尔及利亚",
+   "en": "Algeria"
+  }
+ ],
+ "region": "Wilaya (province) of Ghardaïa",
+ "subdivision_iso": "DZ-47",
+ "subdivision_zh": "盖尔达耶省",
+ "subdivision_en": "Ghardaïa Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "姆扎卜山谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "M'Zab Valley",
+ "name_local": "وادي مزاب",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "188-m'zab_valley",
+ "lat": 32.487222222,
+ "lon": 3.681388888,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(v)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这是一个传统的人类居住地，由伊巴底人（the Ibadites）于十世纪围绕五座城邦修建而成，完整保存在姆扎卜山谷中。姆扎卜建筑简朴、实用，完美地与环境融为了一体。姆扎卡的建筑结构是为群体居住而设计的，但同时也考虑到了家庭的结构，当今城市建筑的设计者可以此为借鉴。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "A traditional human habitat, created in the 10th century by the Ibadites around their five ksour (fortified cities), has been preserved intact in the M’Zab valley. Simple, functional and perfectly adapted to the environment, the architecture of M’Zab was designed for community living, while respecting the structure of the family. It is a source of inspiration for today’s urban planners.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يبدو منظر وادي مزاب الذي تأسس في القرن العاشرعلى يد الأباظيين حول قصورهم الخمس أو قراهم المعزّزة وكأنه لا يزال على حاله. وقد صُمّمت الهندسة المعمارية لمزاب، وهي بسيطة وعملية ومتكيّفة تماماً مع البيئة من حولها، للعيش في الجماعة مع احترام البنى العائلية. إنها مصدر وحي لعلماء التنظيم المدني اليوم.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ksar%20Beni%20Isguen%202.jpg?width=1280",
+   "title": "Ksar Beni Isguen 2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ksar%20Beni%20Isguen%202.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_188.jpg",
+   "title": "M'Zab Valley",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/188",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/188",
+ "transport": {
+  "airports": [
+   {
+    "name": "Noumérat - Moufdi Zakaria Airport",
+    "iata": "GHA",
+    "city": "El Atteuf",
+    "country": "DZ",
+    "lat": 32.384102,
+    "lon": 3.79411,
+    "type": "medium_airport",
+    "distance_km": 15.6
+   },
+   {
+    "name": "Laghouat - Molay Ahmed Medeghri Airport",
+    "iata": "LOO",
+    "city": "Laghouat",
+    "country": "DZ",
+    "lat": 33.7644,
+    "lon": 2.92834,
+    "type": "medium_airport",
+    "distance_km": 158.4
+   },
+   {
+    "name": "Ain Beida Airport",
+    "iata": "OGX",
+    "city": "Ouargla",
+    "country": "DZ",
+    "lat": 31.9172,
+    "lon": 5.41278,
+    "type": "medium_airport",
+    "distance_km": 174.8
+   }
+  ],
+  "nearest_airport_km": 15.6,
+  "distance_beijing_km": 9404.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DZ",
+  "country_zh": "阿尔及利亚",
+  "country_en": "Algeria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DZ",
+   "country_zh": "阿尔及利亚",
+   "country_en": "Algeria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/188"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/M%27zab"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

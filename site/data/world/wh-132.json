@@ -1,0 +1,154 @@
+{
+ "id": "wh-132",
+ "unesco_id": "132",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 939,
+ "popularity_score": null,
+ "country": "MT",
+ "country_zh": "马耳他",
+ "country_en": "Malta",
+ "countries": [
+  {
+   "iso2": "MT",
+   "zh": "马耳他",
+   "en": "Malta"
+  }
+ ],
+ "region": "Islands of Gozo and Malta",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "马耳他巨石庙",
+ "name_zh_source": "unesco_official",
+ "name_en": "Megalithic Temples of Malta",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "132-megalithic_temples_of_malta",
+ "lat": 36.04916667,
+ "lon": 14.26944444,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在马耳他岛和戈佐岛上发现了七个巨石庙，其中每一个都是独立发展的结果。戈佐岛上的两座詹蒂亚寺庙以其巨大的青铜时代建筑而最引人注目。对当时的建筑者来说，资源非常有限，考虑到这一点，马耳他岛屿上的哈贾尔基姆、姆纳耶德拉和塔克西恩也可以看作是举世无双的建筑精品了。Ta'Hagrat 和 Skorba 建筑表现了马耳他寺庙建筑传统的流传方式。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Seven megalithic temples are found on the islands of Malta and Gozo, each the result of an individual development. The two temples of Ggantija on the island of Gozo are notable for their gigantic Bronze Age structures. On the island of Malta, the temples of Hagar Qim, Mnajdra and Tarxien are unique architectural masterpieces, given the limited resources available to their builders. The Ta'Hagrat and Skorba complexes show how the tradition of temple-building was handed down in Malta.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_132.jpg",
+   "title": "Megalithic Temples of Malta",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/132",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/132",
+ "transport": {
+  "airports": [
+   {
+    "name": "Malta International Airport",
+    "iata": "MLA",
+    "city": "Valletta",
+    "country": "MT",
+    "lat": 35.845932,
+    "lon": 14.491546,
+    "type": "large_airport",
+    "distance_km": 30.2
+   },
+   {
+    "name": "Comiso Airport",
+    "iata": "CIY",
+    "city": "Comiso",
+    "country": "IT",
+    "lat": 36.99583,
+    "lon": 14.60889,
+    "type": "medium_airport",
+    "distance_km": 109.5
+   },
+   {
+    "name": "Lampedusa Airport",
+    "iata": "LMP",
+    "city": "Lampedusa",
+    "country": "IT",
+    "lat": 35.497898,
+    "lon": 12.6181,
+    "type": "medium_airport",
+    "distance_km": 161.1
+   }
+  ],
+  "nearest_airport_km": 30.2,
+  "distance_beijing_km": 8416.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MT",
+  "country_zh": "马耳他",
+  "country_en": "Malta",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MT",
+   "country_zh": "马耳他",
+   "country_en": "Malta",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/132"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

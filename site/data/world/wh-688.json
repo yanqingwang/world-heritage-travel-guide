@@ -1,0 +1,162 @@
+{
+ "id": "wh-688",
+ "unesco_id": "688",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 269,
+ "popularity_score": 35994,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "Kyoto and Shiga prefectures",
+ "subdivision_iso": "JP-25",
+ "subdivision_zh": "滋贺县",
+ "subdivision_en": "Shiga Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "古京都遗址（京都、宇治和大津城）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",
+ "name_local": "古都京都の文化財",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "688-historic_monuments_of_ancient_kyoto_(kyo",
+ "lat": 35.060278,
+ "lon": 135.752778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "古京都是仿效古代中国首都形式，于公元794年建立的。从建立起直到19世纪中叶古京都一直是日本的帝国首都。作为一千多年来日本的文化中心，古京都不仅见证了日本木结构建筑，特别是宗教建筑的发展，而且也向世人展示着日本花园艺术的变迁，现在日本的花园设计艺术已经对全世界的景观花园设计产生了重大影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built in A.D. 794 on the model of the capitals of ancient China, Kyoto was the imperial capital of Japan from its foundation until the middle of the 19th century. As the centre of Japanese culture for more than 1,000 years, Kyoto illustrates the development of Japanese wooden architecture, particularly religious architecture, and the art of Japanese gardens, which has influenced landscape gardening the world over.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "古都京都の文化財（京都市、宇治市、大津市）（こときょうとのぶんかざい（きょうとし、うじし、おおつし））は、その名の通り京都府京都市・宇治市、滋賀県大津市の2府県3市に点在する構成資産17件から成るユネスコの世界遺産リスト登録物件（文化遺産）。1994年（平成6年）に日本で5件目の世界遺産として登録された。 正式名称には3市の名前が含まれており、文化庁の表記や日本ユネスコ協会連盟の表記はそうなっているが、しばしば市名の部分を省略して単に「古都京都の文化財」と呼ばれる。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kinkakuji%202004-09-21.jpg?width=1280",
+   "title": "Kinkakuji 2004-09-21.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kinkakuji%202004-09-21.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_688.jpg",
+   "title": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/688",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/688",
+ "transport": {
+  "airports": [
+   {
+    "name": "Osaka Itami International Airport",
+    "iata": "ITM",
+    "city": "Osaka",
+    "country": "JP",
+    "lat": 34.780853,
+    "lon": 135.440829,
+    "type": "large_airport",
+    "distance_km": 42.1
+   },
+   {
+    "name": "Kobe Airport",
+    "iata": "UKB",
+    "city": "Kobe",
+    "country": "JP",
+    "lat": 34.632801,
+    "lon": 135.223999,
+    "type": "large_airport",
+    "distance_km": 67.7
+   },
+   {
+    "name": "Kansai International Airport",
+    "iata": "KIX",
+    "city": "Osaka",
+    "country": "JP",
+    "lat": 34.427299,
+    "lon": 135.244003,
+    "type": "large_airport",
+    "distance_km": 84.3
+   }
+  ],
+  "nearest_airport_km": 42.1,
+  "distance_beijing_km": 1762.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/688"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Monuments%20of%20Ancient%20Kyoto%20%28Kyoto%2C%20Uji%20and%20Otsu%20Cities%29"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

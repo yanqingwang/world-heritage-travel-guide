@@ -1,0 +1,154 @@
+{
+ "id": "wh-1434",
+ "unesco_id": "1434",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 960,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "多姆山链，利马涅断层构造区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Chaîne des Puys - Limagne fault tectonic arena",
+ "name_local": "Haut lieu tectonique Chaîne des Puys - faille de Limagne",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1434-chaîne_des_puys_-_limagne_fault_tectonic",
+ "lat": 45.77939,
+ "lon": 2.96511,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2018",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "构造区位于法国中部，包括长利马涅断层，多姆山链火山群和塞拉山倒转地形。它是西欧裂谷的代表性部分，是在阿尔卑斯山于3500万年前形成之后形成的。这里的地质特征体现了大陆地壳是如何裂开然后塌陷，使得深层岩浆上升并引起地表隆起。该遗产地是大陆分裂的极好例证，大陆分裂是板块构造的5个主要阶段之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Situated in the centre of France, the property comprises the long Limagne fault, the alignments of the Chaîne des Puys volcanoes and the inverted relief of the Montagne de la Serre. It is an emblematic segment of the West European Rift, created in the aftermath of the formation of the Alps, 35 million years ago. The geological features of the property demonstrate how the continental crust cracks, then collapses, allowing deep magma to rise and cause uplifting at the surface. The property is an exceptional illustration of continental break-up – or rifting – which is one of the five major stages of plate tectonics.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé au centre de la France, le bien comprend la longue faille de Limagne, l’alignement des volcans de la Chaîne des Puys et le relief inversé de la Montagne de la Serre. Il s’agit d’un élément emblématique du rift ouest-européen, créé dans le sillage de la formation des Alpes, il y a 35 millions d’années. Les caractéristiques géologiques du bien démontrent comment la croûte continentale se fissure, puis s’effondre, permettant au magma profond de remonter et entraînant un soulèvement de la surface. Le bien illustre de manière exceptionnelle le phénomène de rupture continentale – ou rifting –, qui est l’une des cinq principales étapes de la tectonique des plaques.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1434.jpg",
+   "title": "Chaîne des Puys - Limagne fault tectonic arena",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1434",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1434",
+ "transport": {
+  "airports": [
+   {
+    "name": "Clermont-Ferrand Auvergne airport",
+    "iata": "CFE",
+    "city": "Clermont-Ferrand",
+    "country": "FR",
+    "lat": 45.786701,
+    "lon": 3.16917,
+    "type": "large_airport",
+    "distance_km": 15.8
+   },
+   {
+    "name": "Le Puy-Loudes Airfield",
+    "iata": "LPY",
+    "city": "Chaspuzac, Haute-Loire",
+    "country": "FR",
+    "lat": 45.0807,
+    "lon": 3.76289,
+    "type": "small_airport",
+    "distance_km": 99.6
+   },
+   {
+    "name": "Aurillac airport",
+    "iata": "AUR",
+    "city": "Aurillac",
+    "country": "FR",
+    "lat": 44.891399,
+    "lon": 2.42194,
+    "type": "medium_airport",
+    "distance_km": 107.5
+   }
+  ],
+  "nearest_airport_km": 15.8,
+  "distance_beijing_km": 8401.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1434"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:47Z"
+}

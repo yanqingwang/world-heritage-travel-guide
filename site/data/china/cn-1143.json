@@ -1,0 +1,197 @@
+{
+ "id": "cn-1143",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "青海省",
+ "province_en": "Qinghai",
+ "province_iso": "CN-QH",
+ "city_zh": "海东地区",
+ "city_en": "Haidong Prefecture",
+ "name_zh": "海东市互助土族故土园旅游区",
+ "name_en": "Haidongshihuzhutuzugutuyuan Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "haidongshihuzhutuzugutuyuan-1143",
+ "lat": 36.83836,
+ "lon": 101.953566,
+ "address_zh": "青海省海东市互助土族自治县威远镇天佑德大道",
+ "address_en": "Tianyoude Avenue, Weiyuan Town, Huzhu Tu Autonomous County, Haidong City, Qinghai Province",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "互助土族故土园景区是以“土族文化”为主题，集游览观光、休闲度假、民俗体验、宗教朝觐为一体的综合性旅游景区，是国内外游客集中了解土族民俗文化的首选之地。",
+ "intro_en": "The Huzhu Tu Nationality Hometown Park Scenic Area is a comprehensive tourist attraction with the theme of \"Tu Nationality Culture\" and integrates sightseeing, leisure vacations, folk experience, and religious pilgrimage. It is the first choice for domestic and foreign tourists to learn about Tu Nationality folk culture.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xining Caojiabao International Airport",
+    "iata": "XNN",
+    "city": "Haidong (Huzhu Tu Autonomous County)",
+    "country": "CN",
+    "lat": 36.52775,
+    "lon": 102.040215,
+    "type": "large_airport",
+    "distance_km": 35.4
+   },
+   {
+    "name": "Lanzhou Zhongchuan International Airport",
+    "iata": "LHW",
+    "city": "Lanzhou (Yongdeng)",
+    "country": "CN",
+    "lat": 36.515202,
+    "lon": 103.620003,
+    "type": "large_airport",
+    "distance_km": 152.9
+   },
+   {
+    "name": "Haibei Qilian Airport",
+    "iata": "HBQ",
+    "city": "Haibei (Qilian)",
+    "country": "CN",
+    "lat": 38.008068,
+    "lon": 100.645065,
+    "type": "small_airport",
+    "distance_km": 174.0
+   }
+  ],
+  "nearest_airport_km": 35.4,
+  "high_speed_stations": [
+   {
+    "name": "西宁",
+    "name_en": "Xining",
+    "lat": 36.6207609,
+    "lon": 101.813039,
+    "distance_km": 27.2,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "大通西",
+    "name_en": "Datongxi Station",
+    "lat": 36.9660009,
+    "lon": 101.6717642,
+    "distance_km": 28.8,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "长宁堡",
+    "name_en": null,
+    "lat": 36.8165839,
+    "lon": 101.7478358,
+    "distance_km": 18.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "孙家寨",
+    "name_en": null,
+    "lat": 36.7330525,
+    "lon": 101.7580399,
+    "distance_km": 21.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "陶家寨",
+    "name_en": null,
+    "lat": 36.8733358,
+    "lon": 101.7175108,
+    "distance_km": 21.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "彩虹商务宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.8376134,
+   "lon": 101.952235,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华丰假日宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.8378907,
+   "lon": 101.9496563,
+   "distance_km": 0.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "天佑德大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.8344532,
+   "lon": 101.9457121,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "民和福鑫宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.8331818,
+   "lon": 101.9478223,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西宁添悦酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.6597974,
+   "lon": 101.752686,
+   "distance_km": 26.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 23,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

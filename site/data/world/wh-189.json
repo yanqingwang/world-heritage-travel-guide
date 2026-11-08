@@ -1,0 +1,162 @@
+{
+ "id": "wh-189",
+ "unesco_id": "189",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 846,
+ "popularity_score": 1362,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "State of Pernambuco, North-East Region of Brazil",
+ "subdivision_iso": "BR-PE",
+ "subdivision_zh": "伯南布哥州",
+ "subdivision_en": "",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奥林达历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of the Town of Olinda",
+ "name_local": "Centro Histórico de Olinda",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "189-historic_centre_of_the_town_of_olinda",
+ "lat": -8.01333333,
+ "lon": -34.845,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座城市是16世纪葡萄牙人建立的，其历史与蔗糖工业有着密切的联系。这里曾遭荷兰殖民者洗劫，后得以重建，基础城市建筑可以追溯到18世纪。城中的楼群、花园、20座巴洛克教堂、女修道院和为数众多的“帕索斯”（小教堂）之间布局和谐，相得益彰，赋予了奥林达城独特的魅力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the 16th century by the Portuguese, the town’s history is linked to the sugar-cane industry. Rebuilt after being looted by the Dutch, its basic urban fabric dates from the 18th century. The harmonious balance between the buildings, gardens, 20 Baroque churches, convents and numerous small passos (chapels) all contribute to Olinda’s particular charm.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "O Centro Histórico de Olinda, também chamado de Cidade Alta, abrange a área histórica do município brasileiro de Olinda, no estado de Pernambuco. Quase um terço da área total do município é tombado. A preservação desse sítio histórico começou na década de 1930, quando os principais monumentos foram protegidos por tombamento. A partir daí foram promovidas várias ações no sentido de preservar todo o patrimônio histórico, cultural e arquitetônico ainda existente no município. O sítio foi declarado Monumento Nacional pelo Congresso Nacional em 1980, e em 1982 foi reconhecido como patrimônio mundial pela UNESCO. Olinda foi a urbe mais rica do Brasil Colônia entre o século XVI e o início do século XVII de acordo com escritores da época como Pero de Magalhães Gândavo, chegando a ser referida como uma \"Lisboa pequena\", dada a opulência só comparável à da Corte portuguesa. Foi sede do Brasil colonial entre 1624 e 1625 por ocasião da primeira das invasões neerlandesas: Matias de Albuquerque foi nomeado Governador-Geral, administrando a colônia a partir de Olinda. A vila manteve-se próspera até a invasão holandesa à Capitania de Pernambuco, quando os neerlandeses, após retirar os materiais nobres das edificações para construir suas casas na capital da Nova Holanda (Recife), incendiaram Olinda. Com o término da Insurreição Pernambucana, Olinda voltou a ser a sede da capitania, porém sem a ",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Centro%20Hist%C3%B3rico%20de%20Olinda%20-%20Pernambuco.jpg?width=1280",
+   "title": "Centro Histórico de Olinda - Pernambuco.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Centro%20Hist%C3%B3rico%20de%20Olinda%20-%20Pernambuco.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_189.jpg",
+   "title": "Historic Centre of the Town of Olinda",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/189",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/189",
+ "transport": {
+  "airports": [
+   {
+    "name": "Recife/Guararapes - Gilberto Freyre International Airport",
+    "iata": "REC",
+    "city": "Recife",
+    "country": "BR",
+    "lat": -8.12747,
+    "lon": -34.922961,
+    "type": "large_airport",
+    "distance_km": 15.3
+   },
+   {
+    "name": "Presidente Castro Pinto International Airport",
+    "iata": "JPA",
+    "city": "João Pessoa",
+    "country": "BR",
+    "lat": -7.148691,
+    "lon": -34.950554,
+    "type": "large_airport",
+    "distance_km": 96.8
+   },
+   {
+    "name": "Caruaru Airport",
+    "iata": "CAU",
+    "city": "Caruaru",
+    "country": "BR",
+    "lat": -8.28239,
+    "lon": -36.0135,
+    "type": "small_airport",
+    "distance_km": 132.1
+   }
+  ],
+  "nearest_airport_km": 15.3,
+  "distance_beijing_km": 15475.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/189"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

@@ -1,0 +1,149 @@
+{
+ "id": "wh-1536",
+ "unesco_id": "1536",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 641,
+ "popularity_score": 7724,
+ "country": "DK",
+ "country_zh": "丹麦",
+ "country_en": "Denmark",
+ "countries": [
+  {
+   "iso2": "DK",
+   "zh": "丹麦",
+   "en": "Denmark"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "库亚塔",
+ "name_zh_source": "wikidata",
+ "name_en": "Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap",
+ "name_local": "Kujataa",
+ "local_lang": "da",
+ "local_lang_name": "Danish",
+ "slug": "1536-kujataa_greenland:_norse_and_inuit_farmi",
+ "lat": 61.164444444,
+ "lon": -45.598055555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(v)",
+ "year": "2017",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "庫亚塔（格陵蘭語：Kujataa）是位在格陵兰南部的副極地農業帶，为北极地区第一個已知农业，也是古代北欧文化传播到欧洲大陆之外的最早的证据。。从10世纪到15世纪以及从18世纪到今天，该地区发生的耕作和狩猎海洋哺乳动物的独特并列现象。2017年，该地区以“格陵兰岛库亚塔：冰盖边缘的北欧及因纽特农业”的官方名称被联合国教科文组织列为世界文化遗产。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "Kujataa is a subarctic farming landscape located in the southern region of Greenland. It bears witness to the cultural histories of the Norse farmer-hunters who started arriving from Iceland in the 10th century and of the Inuit hunters and Inuit farming communities that developed from the end of the 18th century. Despite their differences, the two cultures, European Norse and Inuit, created a cultural landscape based on farming, grazing and marine mammal hunting. The landscape represents the earliest introduction of farming to the Arctic, and the Norse expansion of settlement beyond Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Der er for få eller ingen kildehenvisninger i denne artikel, hvilket er et problem. Du kan hjælpe ved at angive troværdige kilder til de påstande, som fremføres i artiklen. Kujataa er et subarktisk landbrugsområde i Grønland, der er det niende verdensarvsområde i Kongeriget Danmark, og det er det andet verdensarvsted i Grønland. Ilulissat Isfjord og den tilhørende Jakobshavn Isbræ er Grønlands ældste verdensarvsted. Ilulissat Isfjord blev verdensarv i 2004.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tunulliarfik-qassiarsuk.jpg?width=1280",
+   "title": "Tunulliarfik-qassiarsuk.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tunulliarfik-qassiarsuk.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1536.jpg",
+   "title": "Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1536",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1536",
+ "transport": {
+  "airports": [
+   {
+    "name": "Qaqortoq Airport",
+    "iata": "JJU",
+    "city": "Qaqortoq",
+    "country": "GL",
+    "lat": 60.76383,
+    "lon": -46.065001,
+    "type": "medium_airport",
+    "distance_km": 51.2
+   },
+   {
+    "name": "Paamiut Airport",
+    "iata": "JFR",
+    "city": "Paamiut",
+    "country": "GL",
+    "lat": 62.014736,
+    "lon": -49.670937,
+    "type": "small_airport",
+    "distance_km": 235.3
+   }
+  ],
+  "nearest_airport_km": 51.2,
+  "distance_beijing_km": 8691.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DK",
+  "country_zh": "丹麦",
+  "country_en": "Denmark",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DK",
+   "country_zh": "丹麦",
+   "country_en": "Denmark",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "da",
+  "local_lang_name": "Danish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 30
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1536"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kujataa"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

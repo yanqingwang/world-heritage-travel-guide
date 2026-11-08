@@ -1,0 +1,160 @@
+{
+ "id": "wh-1269",
+ "unesco_id": "1269",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 181,
+ "popularity_score": 73415,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PE-LIM",
+ "subdivision_zh": "利马大区",
+ "subdivision_en": "Lima Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "卡拉尔-苏佩圣城",
+ "name_zh_source": "curated",
+ "name_en": "Sacred City of Caral-Supe",
+ "name_local": "Ciudad Sagrada de Caral-Supe",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1269-sacred_city_of_caral-supe",
+ "lat": -10.893611111,
+ "lon": -77.520277777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2009",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡拉爾位於祕魯首都利馬北方200公里處，曾是小北文明的首都，約有5000年歷史，是美洲最古老的城市。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "The 5000-year-old 626-hectare archaeological site of The Sacred City of Caral-Supe is situated on a dry desert terrace overlooking the green valley of the Supe river. It dates back to the Late Archaic Period of the Central Andes and is the oldest centre of civilization in the Americas. Exceptionally well-preserved, the site is impressive in terms of its design and the complexity of its architectural, especially its monumental stone and earthen platform mounts and sunken circular courts. One of 18 urban settlements situated in the same area, Caral features complex and monumental architecture, including six large pyramidal structures. A quipu (the knot system used in Andean civilizations to record information) found on the site testifies to the development and complexity of Caral society. The city’s plan and some of its components, including pyramidal structures and residence of the elite, show clear evidence of ceremonial functions, signifying a powerful religious ideology.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La Ciudad Sagrada de Caral-Supe es un sitio arqueológico de 5.000 años de antigüedad que abarca 626 hectáreas. Está emplazado en una meseta desierta y árida que domina el valle verdeante del río Supe. Sus orígenes se remontan al periodo arcaico tardío de los Andes Centrales y hacen de él el centro de civilización más antiguo de las Américas. La ciudad, excepcionalmente bien preservada, es impresionante por la concepción y complejidad de sus elementos arquitectónicos y espaciales, sobre todo las plataformas monumentales de piedra y tierra y los patios circulares bajos. Caral es uno de los dieciocho asentamientos urbanos de la región y su arquitectura, compleja y monumental a la vez, comprende seis grandes estructuras piramidales. El hallazgo de un quipu (ramal de cuerda con varios nudos y colores, anudado a otros ramales similares y utilizado para registrar y transmitir relatos, noticias y cuentas) atestigua el grado de desarrollo y complejidad alcanzado por la civilización de Caral. El plano de la ciudad y algunos de sus componentes –en particular, las estructuras piramidales y el conjunto residencial de la clase dominante– atestiguan claramente la existencia de funciones ceremoniales reveladoras de una fuerte ideología religiosa.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PeruCaral01.jpg?width=1280",
+   "title": "PeruCaral01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:PeruCaral01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1269.jpg",
+   "title": "Sacred City of Caral-Supe",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1269",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1269",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jorge Chávez International Airport",
+    "iata": "LIM",
+    "city": "Lima",
+    "country": "PE",
+    "lat": -12.0219,
+    "lon": -77.114305,
+    "type": "large_airport",
+    "distance_km": 133.0
+   },
+   {
+    "name": "Alferez Fap David Figueroa Fernandini Airport",
+    "iata": "HUU",
+    "city": "Huánuco",
+    "country": "PE",
+    "lat": -9.878809928894043,
+    "lon": -76.20480346679688,
+    "type": "medium_airport",
+    "distance_km": 182.8
+   },
+   {
+    "name": "FAP Lieutenant Jaime Andres de Montreuil Morales Airport",
+    "iata": "CHM",
+    "city": "Chimbote",
+    "country": "PE",
+    "lat": -9.14961,
+    "lon": -78.523804,
+    "type": "medium_airport",
+    "distance_km": 222.9
+   }
+  ],
+  "nearest_airport_km": 133.0,
+  "distance_beijing_km": 16618.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 45
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1269"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caral"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

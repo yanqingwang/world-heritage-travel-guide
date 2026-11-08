@@ -1,0 +1,154 @@
+{
+ "id": "wh-1272",
+ "unesco_id": "1272",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 927,
+ "popularity_score": null,
+ "country": "BR",
+ "country_zh": "巴西",
+ "country_en": "Brazil",
+ "countries": [
+  {
+   "iso2": "BR",
+   "zh": "巴西",
+   "en": "Brazil"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "圣克里斯托旺的圣弗朗西斯科广场",
+ "name_zh_source": "unesco_official",
+ "name_en": "São Francisco Square in the Town of São Cristóvão",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1272-são_francisco_square_in_the_town_of_são_",
+ "lat": -11.01361111,
+ "lon": -37.20555556,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2010",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "圣克里斯托旺镇的圣弗朗西斯科广场，是一个开放的四边形空间，围绕着广场主要的早期建筑有圣弗朗西斯科教堂和修道院、教会建筑、仁慈堂大楼，地方政府大厦以及大量不同历史时期的相关房屋建筑。圣弗朗西斯科广场建筑群有着深远的意义，它与周围18和19世纪的房屋，形成了一个折射出该镇起源及历史的城市景观。这一方济会建筑群是巴西东北部教派典型建筑的一个范例。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "São Francisco Square, in the town of São Cristovão, is a quadrilateral open space surrounded by substantial early buildings such as São Francisco Church and convent, the Church and Santa Casa da Misericórdia, the Provincial Palace and the associated houses of different historical periods surrounding the Square. This monumental ensemble, together with the surrounding 18th- and 19th- century houses, creates an urban landscape which reflects the history of the town since its origin. The Franciscan complex is an example of the typical architecture of the religious order developed in north-eastern Brazil.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1272.jpg",
+   "title": "São Francisco Square in the Town of São Cristóvão",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1272",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1272",
+ "transport": {
+  "airports": [
+   {
+    "name": "Aracaju - Santa Maria Airport",
+    "iata": "AJU",
+    "city": "Aracaju",
+    "country": "BR",
+    "lat": -10.98394,
+    "lon": -37.072873,
+    "type": "medium_airport",
+    "distance_km": 14.9
+   },
+   {
+    "name": "Paulo Afonso Airport",
+    "iata": "PAV",
+    "city": "Paulo Afonso",
+    "country": "BR",
+    "lat": -9.40088,
+    "lon": -38.250599,
+    "type": "medium_airport",
+    "distance_km": 212.7
+   },
+   {
+    "name": "Zumbi dos Palmares International Airport",
+    "iata": "MCZ",
+    "city": "Maceió",
+    "country": "BR",
+    "lat": -9.512559,
+    "lon": -35.791839,
+    "type": "large_airport",
+    "distance_km": 227.6
+   }
+  ],
+  "nearest_airport_km": 14.9,
+  "distance_beijing_km": 15871.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BR",
+  "country_zh": "巴西",
+  "country_en": "Brazil",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BR",
+   "country_zh": "巴西",
+   "country_en": "Brazil",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa-exemption up to 30 days in 12 months until 31 Dec 2026.[31] As of 19 February 2024, visas are issued with a 10-year validity period for holidays, business and family visit purposes."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1272"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

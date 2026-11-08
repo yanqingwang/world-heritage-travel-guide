@@ -1,0 +1,152 @@
+{
+ "id": "wh-934",
+ "unesco_id": "934",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 828,
+ "popularity_score": 1779,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "Island of Madeira",
+ "subdivision_iso": "PT-30",
+ "subdivision_zh": "马德拉自治区",
+ "subdivision_en": "Madeira",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马德拉月桂树公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Laurisilva of Madeira",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "934-laurisilva_of_madeira",
+ "lat": 32.76666667,
+ "lon": -17.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马德拉月桂树公园是早期广泛分布的月桂树森林的遗留地，它是现存面积最大的月桂树森林，而且其中90%是原始森林。这里生活着很多特殊的动植物，包括许多地方性的物种，如马德拉长趾鸽。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Laurisilva of Madeira is an outstanding relict of a previously widespread laurel forest type. It is the largest surviving area of laurel forest and is believed to be 90% primary forest. It contains a unique suite of plants and animals, including many endemic species such as the Madeiran long-toed pigeon.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurazeen%20wood%20madeira%20hg.jpg?width=1280",
+   "title": "Laurazeen wood madeira hg.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Laurazeen%20wood%20madeira%20hg.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_934.jpg",
+   "title": "Laurisilva of Madeira",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/934",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/934",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cristiano Ronaldo International Airport",
+    "iata": "FNC",
+    "city": "Funchal",
+    "country": "PT",
+    "lat": 32.697812,
+    "lon": -16.774613,
+    "type": "large_airport",
+    "distance_km": 22.4
+   },
+   {
+    "name": "Porto Santo Airport",
+    "iata": "PXO",
+    "city": "Vila Baleira",
+    "country": "PT",
+    "lat": 33.0733985901,
+    "lon": -16.3500003815,
+    "type": "medium_airport",
+    "distance_km": 69.6
+   }
+  ],
+  "nearest_airport_km": 22.4,
+  "distance_beijing_km": 10609.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 19
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/934"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Laurisilva%20of%20Madeira"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

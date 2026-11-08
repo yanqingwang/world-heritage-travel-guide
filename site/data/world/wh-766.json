@@ -1,0 +1,159 @@
+{
+ "id": "wh-766",
+ "unesco_id": "766",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1151,
+ "popularity_score": null,
+ "country": "RU",
+ "country_zh": "俄罗斯",
+ "country_en": "Russia",
+ "countries": [
+  {
+   "iso2": "RU",
+   "zh": "俄罗斯",
+   "en": "Russia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "RU-PRI",
+ "subdivision_zh": "滨海边疆区",
+ "subdivision_en": "Primorsky Krai",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "中锡霍特-阿林",
+ "name_zh_source": "curated",
+ "name_en": "Central Sikhote-Alin",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "766-central_sikhote-alin",
+ "lat": 46.68333,
+ "lon": 136.66111,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "锡科特-阿林山脉拥有世界上最丰富、最不寻常的温带森林之一。在针叶林和亚热带之间的这个混合地带，老虎和喜马拉雅熊等南方物种与棕熊和山猫等北方物种共同生活。 2018 年扩建后，该遗产地包括位于现有场地以北约 100 公里处的比金河谷。它包括南鄂霍茨克暗针叶林和东亚针叶阔叶林。动物群包括针叶林物种和南满洲物种。其中包括著名的哺乳动物，如东北虎、西伯利亚麝、狼獾和黑貂。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The Sikhote-Alin mountain range contains one of the richest and most unusual temperate forests of the world. In this mixed zone between taiga and subtropics, southern species such as the tiger and Himalayan bear cohabit with northern species such as the brown bear and lynx. After its extension in 2018, the property includes the Bikin River Valley, located about 100 km to the north of the existing site. It encompasses the South-Okhotsk dark coniferous forests and the East-Asian coniferous broadleaf forests. The fauna includes species of the taiga alongside southern Manchurian species. It includes notable mammals such as the Amur Tiger, Siberian Musk Deer, Wolverine and Sable.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BE%D1%80%D1%8B%20%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%A1%D0%B8%D1%85%D0%BE%D1%82%D1%8D-%D0%90%D0%BB%D0%B8%D0%BD%D1%8F%2C%20%D0%BE%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5%20%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8.jpg?width=1280",
+   "title": "Горы Среднего Сихотэ-Алиня, огромные нетронутые территории.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D1%80%D1%8B%20%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%A1%D0%B8%D1%85%D0%BE%D1%82%D1%8D-%D0%90%D0%BB%D0%B8%D0%BD%D1%8F%2C%20%D0%BE%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D1%83%D1%82%D1%8B%D0%B5%20%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_766.jpg",
+   "title": "Central Sikhote-Alin",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/766",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/766",
+ "transport": {
+  "airports": [
+   {
+    "name": "Plastun Airport",
+    "iata": "TLY",
+    "city": "Plastun",
+    "country": "RU",
+    "lat": 44.814999,
+    "lon": 136.292007,
+    "type": "small_airport",
+    "distance_km": 209.7
+   },
+   {
+    "name": "Khabarovsk Novy Airport",
+    "iata": "KHV",
+    "city": "Khabarovsk",
+    "country": "RU",
+    "lat": 48.528338,
+    "lon": 135.188588,
+    "type": "medium_airport",
+    "distance_km": 233.0
+   },
+   {
+    "name": "Fuyuan Dongji Airport",
+    "iata": "FYJ",
+    "city": "Fuyuan",
+    "country": "CN",
+    "lat": 48.197219,
+    "lon": 134.36298,
+    "type": "medium_airport",
+    "distance_km": 241.2
+   }
+  ],
+  "nearest_airport_km": 209.7,
+  "distance_beijing_km": 1695.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "RU",
+  "country_zh": "俄罗斯",
+  "country_en": "Russia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required",
+  "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "RU",
+   "country_zh": "俄罗斯",
+   "country_en": "Russia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required",
+   "notes": "Visa-free until 31 December 2027.[118] Groups of 5 to 50 tourists can enter Russia without a visa for up to 15 days through pre-approved travel agencies."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/766"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

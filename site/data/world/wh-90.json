@@ -1,0 +1,162 @@
+{
+ "id": "wh-90",
+ "unesco_id": "90",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 513,
+ "popularity_score": 12980,
+ "country": "EG",
+ "country_zh": "埃及",
+ "country_en": "Egypt",
+ "countries": [
+  {
+   "iso2": "EG",
+   "zh": "埃及",
+   "en": "Egypt"
+  }
+ ],
+ "region": "Mariut desert, District of Burg al-Arab, Gouvernate of Al Iskandariyah (Alexandria)",
+ "subdivision_iso": "EG-ALX",
+ "subdivision_zh": "亚历山大省",
+ "subdivision_en": "Alexandria Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿布米那基督教遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Abu Mena",
+ "name_local": "أبو مينا",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "90-abu_mena",
+ "lat": 30.84105,
+ "lon": 29.66349,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座早期基督教圣城中的教堂、洗礼池、长方形会堂、公共建筑、街道、修道院、民居和工场，都是以亚历山大大帝时期的殉教者、死于公元296年的米纳斯(Menas)的坟墓为基础建立起来的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "مدينة أبو مينا المسيحيّة القديمة التي بُنيت على قبر الشهيد الإسكندري مار مينا المتوفّي عام 296 حافظت على ما فيها من كنيسة وبيت عماد وبازيليك ومؤسسات عامة وشوارع وأديرة ومنازل ومشاغل.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Mena%20Modern%20Monastery%2001.JPG?width=1280",
+   "title": "Abu Mena Modern Monastery 01.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Abu%20Mena%20Modern%20Monastery%2001.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_90.jpg",
+   "title": "Abu Mena",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/90",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/90",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alexandria International Airport",
+    "iata": "HBE",
+    "city": "Alexandria",
+    "country": "EG",
+    "lat": 30.93249,
+    "lon": 29.696437,
+    "type": "large_airport",
+    "distance_km": 10.6
+   },
+   {
+    "name": "El Alamein International Airport",
+    "iata": "DBB",
+    "city": "El Alamein",
+    "country": "EG",
+    "lat": 30.924324,
+    "lon": 28.46161,
+    "type": "large_airport",
+    "distance_km": 115.1
+   },
+   {
+    "name": "Sphinx International Airport",
+    "iata": "SPX",
+    "city": "Al Jiza",
+    "country": "EG",
+    "lat": 30.108179,
+    "lon": 30.895728,
+    "type": "large_airport",
+    "distance_km": 143.5
+   }
+  ],
+  "nearest_airport_km": 10.6,
+  "distance_beijing_km": 7616.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EG",
+  "country_zh": "埃及",
+  "country_en": "Egypt",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][47]",
+  "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EG",
+   "country_zh": "埃及",
+   "country_en": "Egypt",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][47]",
+   "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 62
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/90"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abu%20Mena"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

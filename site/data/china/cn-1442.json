@@ -1,0 +1,233 @@
+{
+ "id": "cn-1442",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "宁夏回族自治区",
+ "province_en": "Ningxia",
+ "province_iso": "CN-NX",
+ "city_zh": "中卫市",
+ "city_en": "Zhongwei",
+ "name_zh": "中卫市沙坡头旅游景区",
+ "name_en": "Shapotou Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "zhongweishishapotou-1442",
+ "lat": 37.478011,
+ "lon": 105.005776,
+ "address_zh": "宁夏回族自治区中卫市城沙坡头区迎水桥镇",
+ "address_en": "Yingshuiqiao Town, Shapotou District, Zhongwei City, Ningxia Hui Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "沙坡头集大漠、黄河、高山、绿洲为一处，具西北风光之雄奇。沙坡头主要保护对象为自然沙漠景观、天然沙生植被、治沙科研成果、野生动物、明代古长城、沙坡鸣钟等人文景观及其自然综合体。在这里可以骑骆驼穿越腾格里沙漠，可以乘坐越野车沙海冲浪，咫尺之间可以领略大漠孤烟、长河落日的奇观。",
+ "intro_en": "Shapotou combines the desert, Yellow River, mountains and oasis into one place, with the majestic scenery of the northwest. The main protection objects of Shapotou are natural desert landscape, natural desert vegetation, scientific research results of desert control, wild animals, ancient Ming Dynasty Great Wall, Shapo Ringing Bell and other cultural landscapes and their natural complexes. Here you can ride a camel across the Tengger Desert, ride an off-road vehicle to surf the sand, and enjoy the wonders of the lonely smoke in the desert and the sunset over the long river.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20260809_Shapotou_Scenic_Area_%28Desert_Area%29_01.jpg/1280px-20260809_Shapotou_Scenic_Area_%28Desert_Area%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260809 Shapotou Scenic Area (Desert Area) 01.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260809_Shapotou_Scenic_Area_%28Desert_Area%29_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/20260809_Shapotou_Scenic_Area_%28Desert_Area%29_02.jpg/1280px-20260809_Shapotou_Scenic_Area_%28Desert_Area%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260809 Shapotou Scenic Area (Desert Area) 02.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260809_Shapotou_Scenic_Area_%28Desert_Area%29_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/20260809_Shapotou_Scenic_Area_%28Desert_Area%29_03.jpg/1280px-20260809_Shapotou_Scenic_Area_%28Desert_Area%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260809 Shapotou Scenic Area (Desert Area) 03.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260809_Shapotou_Scenic_Area_%28Desert_Area%29_03.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/20260809_Yellow_River_at_Shapotou.jpg/1280px-20260809_Yellow_River_at_Shapotou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260809 Yellow River at Shapotou.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260809_Yellow_River_at_Shapotou.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Shapotou_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Shapotou National Park.jpg",
+   "author": "千里走单骑",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shapotou_National_Park.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zhongwei Shapotou Airport",
+    "iata": "ZHY",
+    "city": "Zhongwei (Shapotou)",
+    "country": "CN",
+    "lat": 37.573125,
+    "lon": 105.154454,
+    "type": "medium_airport",
+    "distance_km": 16.8
+   },
+   {
+    "name": "Alxa Left Banner Bayanhot Airport",
+    "iata": "AXF",
+    "city": "Bayanhot",
+    "country": "CN",
+    "lat": 38.748317,
+    "lon": 105.58416,
+    "type": "medium_airport",
+    "distance_km": 150.0
+   },
+   {
+    "name": "Yinchuan Hedong International Airport",
+    "iata": "INC",
+    "city": "Yinchuan",
+    "country": "CN",
+    "lat": 38.322758,
+    "lon": 106.393214,
+    "type": "large_airport",
+    "distance_km": 153.8
+   }
+  ],
+  "nearest_airport_km": 16.8,
+  "high_speed_stations": [
+   {
+    "name": "中卫南",
+    "name_en": "Zhongweinan",
+    "lat": 37.4721786,
+    "lon": 105.175193,
+    "distance_km": 15.0,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "沙坡头",
+    "name_en": "Shapotou",
+    "lat": 37.4656263,
+    "lon": 104.9965306,
+    "distance_km": 1.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "孟家湾",
+    "name_en": "Mengjiawan",
+    "lat": 37.4473934,
+    "lon": 104.9340972,
+    "distance_km": 7.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "迎水桥",
+    "name_en": "Yingshuiqiao",
+    "lat": 37.5091783,
+    "lon": 105.1044437,
+    "distance_km": 9.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "沙漠主题火车旅馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.5185862,
+   "lon": 105.0176973,
+   "distance_km": 4.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "沙漠星星酒店B区Q组",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.510892,
+   "lon": 104.9658285,
+   "distance_km": 5.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "S帐篷酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.5240439,
+   "lon": 104.988324,
+   "distance_km": 5.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "禹都麗茲酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.5148755,
+   "lon": 105.1815428,
+   "distance_km": 16.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Oasis hotel (绿洲大酒店）",
+   "name_en": "Oasis hotel (绿洲大酒店）",
+   "stars": null,
+   "brand": null,
+   "lat": 37.5146393,
+   "lon": 105.1850153,
+   "distance_km": 16.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 11,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/沙坡头"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(i)(ii)(iii)"
 lat: 41.941944
 lon: 12.775278
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:36Z"
 ---
 
 # 提沃利的阿德利阿纳村庄 / Villa Adriana (Tivoli)

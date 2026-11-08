@@ -1,0 +1,181 @@
+{
+ "id": "wh-1608",
+ "unesco_id": "1608",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 994,
+ "popularity_score": null,
+ "country": "AT",
+ "country_zh": "奥地利",
+ "country_en": "Austria",
+ "countries": [
+  {
+   "iso2": "AT",
+   "zh": "奥地利",
+   "en": "Austria"
+  },
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  },
+  {
+   "iso2": "SK",
+   "zh": "斯洛伐克",
+   "en": "Slovakia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "罗马帝国边界——多瑙河界墙（西段）",
+ "name_zh_source": "curated",
+ "name_en": "Frontiers of the Roman Empire – The Danube Limes (Western Segment)",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1608-frontiers_of_the_roman_empire_–_the_danu",
+ "lat": 48.115,
+ "lon": 16.861,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2021",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "它覆盖了整个罗马帝国多瑙河边境近600公里。该财产构成了罗马帝国环绕地中海的广阔边界的一部分。多瑙河石灰（西段）通过选择代表关键要素的地点（从道路、军团要塞及其相关定居点到小堡垒和临时营地）以及这些结构与当地地形的联系方式，反映了罗马边境这一部分的特殊性。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "It covers almost 600km of the whole Roman Empire’s Danube frontier. The property formed part of the much large frontier of the Roman Empire that encircled the Mediterranean Sea. The Danube Limes (Western Segment) reflects the specificities of this part of the Roman Frontier through the selection of sites that represent key elements from roads, legionary fortresses and their associated settlements to small forts and temporary camps, and the way these structures relate to local topography.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1608.jpg",
+   "title": "Frontiers of the Roman Empire – The Danube Limes (Western Segment)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1608",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1608",
+ "transport": {
+  "airports": [
+   {
+    "name": "Vienna International Airport",
+    "iata": "VIE",
+    "city": "Vienna",
+    "country": "AT",
+    "lat": 48.110298,
+    "lon": 16.5697,
+    "type": "large_airport",
+    "distance_km": 21.6
+   },
+   {
+    "name": "M. R. Štefánik Airport",
+    "iata": "BTS",
+    "city": "Bratislava",
+    "country": "SK",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "distance_km": 26.8
+   },
+   {
+    "name": "Brno-Tuřany Airport",
+    "iata": "BRQ",
+    "city": "Brno",
+    "country": "CZ",
+    "lat": 49.151276,
+    "lon": 16.693972,
+    "type": "medium_airport",
+    "distance_km": 115.9
+   }
+  ],
+  "nearest_airport_km": 21.6,
+  "distance_beijing_km": 7452.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AT",
+  "country_zh": "奥地利",
+  "country_en": "Austria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AT",
+   "country_zh": "奥地利",
+   "country_en": "Austria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "SK",
+   "country_zh": "斯洛伐克",
+   "country_en": "Slovakia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1608"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:50Z"
+}

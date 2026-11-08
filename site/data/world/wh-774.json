@@ -1,0 +1,162 @@
+{
+ "id": "wh-774",
+ "unesco_id": "774",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 560,
+ "popularity_score": 11196,
+ "country": "SE",
+ "country_zh": "瑞典",
+ "country_en": "Sweden",
+ "countries": [
+  {
+   "iso2": "SE",
+   "zh": "瑞典",
+   "en": "Sweden"
+  }
+ ],
+ "region": "County of Norrbotten. Municipalities – rural districts – Gällivare, Jokkmokk and Arjeplog",
+ "subdivision_iso": "SE-BD",
+ "subdivision_zh": "北博滕省",
+ "subdivision_en": "Norrbotten County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "拉普人区域",
+ "name_zh_source": "unesco_official",
+ "name_en": "Laponian Area",
+ "name_local": "Laponia",
+ "local_lang": "sv",
+ "local_lang_name": "Swedish",
+ "slug": "774-laponian_area",
+ "lat": 67.33333,
+ "lon": 17.58333,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(iii)(v)(vii)(viii)(ix)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "瑞典北部北极圈地区是萨米人或拉普人的家园。这里是最大的也是最后一个人们按照祖传方式进行生活的地区，这种生活以牲畜周期性的迁移为基础。每年夏天，萨米人赶着他们的驯鹿群穿越自然风景区走向大山，这些风景区至今还保存着，如今却受到汽车的威胁。我们可以从冰碛和水流路线的改变中看到历史和现今的地质作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Arctic Circle region of northern Sweden is the home of the Saami people. It is the largest area in the world (and one of the last) with an ancestral way of life based on the seasonal movement of livestock. Every summer, the Saami lead their huge herds of reindeer towards the mountains through a natural landscape hitherto preserved, but now threatened by the advent of motor vehicles. Historical and ongoing geological processes can be seen in the glacial moraines and changing water courses.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Laponia eller Lapplands världsarv i svenska Lappland är Europas största sammanhängande naturlandskap med så gott som orörd natur. Namnet kommer från det latinska namnet för Lappland.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarek%20Skierffe%20Rapadelta.jpg?width=1280",
+   "title": "Sarek Skierffe Rapadelta.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sarek%20Skierffe%20Rapadelta.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_774.jpg",
+   "title": "Laponian Area",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/774",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/774",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kiruna Airport",
+    "iata": "KRN",
+    "city": "Kiruna",
+    "country": "SE",
+    "lat": 67.821999,
+    "lon": 20.3368,
+    "type": "large_airport",
+    "distance_km": 128.8
+   },
+   {
+    "name": "Harstad/Narvik Airport",
+    "iata": "EVE",
+    "city": "Evenes",
+    "country": "NO",
+    "lat": 68.491302,
+    "lon": 16.678101,
+    "type": "large_airport",
+    "distance_km": 134.2
+   },
+   {
+    "name": "Bodø Airport",
+    "iata": "BOO",
+    "city": "Bodø",
+    "country": "NO",
+    "lat": 67.269203,
+    "lon": 14.3653,
+    "type": "large_airport",
+    "distance_km": 138.2
+   }
+  ],
+  "nearest_airport_km": 128.8,
+  "distance_beijing_km": 6183.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SE",
+  "country_zh": "瑞典",
+  "country_en": "Sweden",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SE",
+   "country_zh": "瑞典",
+   "country_en": "Sweden",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sv",
+  "local_lang_name": "Swedish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/774"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Laponia"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-211",
+ "unesco_id": "211",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1044,
+ "popularity_score": null,
+ "country": "AF",
+ "country_zh": "阿富汗",
+ "country_en": "Afghanistan",
+ "countries": [
+  {
+   "iso2": "AF",
+   "zh": "阿富汗",
+   "en": "Afghanistan"
+  }
+ ],
+ "region": "Shahrak District, Ghur Province",
+ "subdivision_iso": "AF-GHO",
+ "subdivision_zh": "",
+ "subdivision_en": "Ghor Province",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "查姆回教寺院尖塔和考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Minaret and Archaeological Remains of Jam",
+ "name_local": "مئذنة جام وبقاياها الاثرية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "211-minaret_and_archaeological_remains_of_ja",
+ "lat": 34.3964,
+ "lon": 64.5159,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2002",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "65米高的查姆尖塔庄严肃穆，高耸入云，其历史可追溯到公元12世纪。塔外砌烧制精巧的砖石, 顶部饰有蓝色釉面的琉璃瓦铭刻建筑工艺高超，装饰精美，代表了该地区建筑和艺术的最高水平。尖塔地处古尔省(Ghur province)心脏位置，依山傍水，从狭窄河谷中拔地而起，其独特的地理环境又为之平添了几分魅力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 65m-tall Minaret of Jam is a graceful, soaring structure, dating back to the 12th century. Covered in elaborate brickwork with a blue tile inscription at the top, it is noteworthy for the quality of its architecture and decoration, which represent the culmination of an architectural and artistic tradition in this region. Its impact is heightened by its dramatic setting, a deep river valley between towering mountains in the heart of the Ghur province.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "إن مئذنة جام بناء رشيق وممشوق؛ يبلغ ارتفاعها 65 متراً وتُرقى إلى القرن الثاني عشر. تغطيها زينة معقّدة التركيب من القرميد وتعلو قمتها كتابات بالقرميد الأزرق. تتميّز المئذنة بنوعية هندستها المعمارية ورسومها التزيينية التي تمثل قمّة التقاليد الفنية الخاصة بالمنطقة. ويزداد أثرها أهمية بفضل المحيط المذهل الذي تقع فيه، لأنها في وادٍِ عميق مفتوح بين جبال شاهقة وسط إقليم غور.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_211.jpg",
+   "title": "Minaret and Archaeological Remains of Jam",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/211",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/211",
+ "transport": {
+  "airports": [
+   {
+    "name": "Herat - Khwaja Abdullah Ansari International Airport",
+    "iata": "HEA",
+    "city": "Guzara",
+    "country": "AF",
+    "lat": 34.209999,
+    "lon": 62.228298,
+    "type": "large_airport",
+    "distance_km": 211.1
+   },
+   {
+    "name": "Ahmad Shah Baba International Airport",
+    "iata": "KDH",
+    "city": "Kandahar",
+    "country": "AF",
+    "lat": 31.505769,
+    "lon": 65.847963,
+    "type": "large_airport",
+    "distance_km": 344.6
+   },
+   {
+    "name": "Mazar-i-Sharif International Airport",
+    "iata": "MZR",
+    "city": "Mazar-i-Sharif",
+    "country": "AF",
+    "lat": 36.70412,
+    "lon": 67.210459,
+    "type": "large_airport",
+    "distance_km": 353.9
+   }
+  ],
+  "nearest_airport_km": 211.1,
+  "distance_beijing_km": 4787.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AF",
+  "country_zh": "阿富汗",
+  "country_en": "Afghanistan",
+  "status": "evisa",
+  "days": 30,
+  "requirement": "eVisa[6]",
+  "notes": "The eVisa is valid for a single entry of up to 30 days and can only be used when arriving at Kabul Airport. An introducing letter (from employer/organization/university/etc.) is required.[7]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AF",
+   "country_zh": "阿富汗",
+   "country_en": "Afghanistan",
+   "status": "evisa",
+   "days": 30,
+   "requirement": "eVisa[6]",
+   "notes": "The eVisa is valid for a single entry of up to 30 days and can only be used when arriving at Kabul Airport. An introducing letter (from employer/organization/university/etc.) is required.[7]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/211"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

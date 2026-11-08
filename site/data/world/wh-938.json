@@ -1,0 +1,162 @@
+{
+ "id": "wh-938",
+ "unesco_id": "938",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 729,
+ "popularity_score": 4951,
+ "country": "NG",
+ "country_zh": "尼日利亚",
+ "country_en": "Nigeria",
+ "countries": [
+  {
+   "iso2": "NG",
+   "zh": "尼日利亚",
+   "en": "Nigeria"
+  }
+ ],
+ "region": "Madagali Local Government Area, Adamawa State",
+ "subdivision_iso": "NG-AD",
+ "subdivision_zh": "阿达马瓦",
+ "subdivision_en": "Adamawa State",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "宿库卢文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sukur Cultural Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "938-sukur_cultural_landscape",
+ "lat": 10.740555555,
+ "lon": 13.571666666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(v)(vi)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "苏库尔文化景观包括建在小山上俯瞰下方村庄的酋长宫殿、平坦的场地和神圣的图腾，以及曾经繁荣的铁器工业的大量遗迹。这一景观完整地体现了社会原貌，反映了它的精神文明和物质文明。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Sukur Cultural Landscape, with the Palace of the Hidi (Chief) on a hill dominating the villages below, the terraced fields and their sacred symbols, and the extensive remains of a former flourishing iron industry, is a remarkably intact physical expression of a society and its spiritual and material culture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sukur%20Cultural%20Landscape%20%283%29.jpg?width=1280",
+   "title": "Sukur Cultural Landscape (3).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sukur%20Cultural%20Landscape%20%283%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_938.jpg",
+   "title": "Sukur Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/938",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/938",
+ "transport": {
+  "airports": [
+   {
+    "name": "Salak Airport",
+    "iata": "MVR",
+    "city": "Maroua",
+    "country": "CM",
+    "lat": 10.451399803161621,
+    "lon": 14.257399559020996,
+    "type": "medium_airport",
+    "distance_km": 81.6
+   },
+   {
+    "name": "Maiduguri International Airport",
+    "iata": "MIU",
+    "city": "Maiduguri",
+    "country": "NG",
+    "lat": 11.854163,
+    "lon": 13.080702,
+    "type": "large_airport",
+    "distance_km": 134.9
+   },
+   {
+    "name": "Garoua International Airport",
+    "iata": "GOU",
+    "city": "Garoua",
+    "country": "CM",
+    "lat": 9.334785,
+    "lon": 13.372129,
+    "type": "large_airport",
+    "distance_km": 157.8
+   }
+  ],
+  "nearest_airport_km": 81.6,
+  "distance_beijing_km": 10287.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NG",
+  "country_zh": "尼日利亚",
+  "country_en": "Nigeria",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "eVisa[6][104]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NG",
+   "country_zh": "尼日利亚",
+   "country_en": "Nigeria",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "eVisa[6][104]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/938"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sukur"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

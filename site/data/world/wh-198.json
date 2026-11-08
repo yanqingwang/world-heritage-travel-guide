@@ -1,0 +1,154 @@
+{
+ "id": "wh-198",
+ "unesco_id": "198",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1038,
+ "popularity_score": null,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "Collinsville, Illinois",
+ "subdivision_iso": "US-IL",
+ "subdivision_zh": "",
+ "subdivision_en": "Illinois",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "卡俄基亚土丘历史遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cahokia Mounds State Historic Site",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "198-cahokia_mounds_state_historic_site",
+ "lat": 38.65388889,
+ "lon": -90.06444444,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1982",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "卡俄基亚土丘历史遗址位于密苏里州圣路易斯城东北部约13公里处，这是哥伦布发现美洲前墨西哥以北地区最大的聚居地。该遗址主要在密西西比纪（公元800年至1400年）时期开始有人类居住，占地1600公顷，包括120个土丘。该遗址是古代部落社会的典型样例，以类似中心城和卫星城的模式进行规划，在中心城市周围有许多小村庄。这个农业社会在其鼎盛时期（约公元1050年至1150年间）约有人口1万至2万。在这个遗址上我们还可以找到一些远古建筑，例如当地的寺庙丘，这是美洲大陆上最大的史前土木工程，占地超过5公顷，高约30米。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Cahokia Mounds, some 13 km north-east of St Louis, Missouri, is the largest pre-Columbian settlement north of Mexico. It was occupied primarily during the Mississippian period (800–1400), when it covered nearly 1,600 ha and included some 120 mounds. It is a striking example of a complex chiefdom society, with many satellite mound centres and numerous outlying hamlets and villages. This agricultural society may have had a population of 10–20,000 at its peak between 1050 and 1150. Primary features at the site include Monks Mound, the largest prehistoric earthwork in the Americas, covering over 5 ha and standing 30 m high.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_198.jpg",
+   "title": "Cahokia Mounds State Historic Site",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/198",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/198",
+ "transport": {
+  "airports": [
+   {
+    "name": "Scott AFB/Midamerica Airport",
+    "iata": "BLV",
+    "city": "Belleville",
+    "country": "US",
+    "lat": 38.5452,
+    "lon": -89.835197,
+    "type": "medium_airport",
+    "distance_km": 23.3
+   },
+   {
+    "name": "St. Louis Lambert International Airport",
+    "iata": "STL",
+    "city": "St Louis",
+    "country": "US",
+    "lat": 38.748697,
+    "lon": -90.370003,
+    "type": "large_airport",
+    "distance_km": 28.5
+   },
+   {
+    "name": "Veterans Airport of Southern Illinois",
+    "iata": "MWA",
+    "city": "Marion",
+    "country": "US",
+    "lat": 37.751208,
+    "lon": -89.016568,
+    "type": "medium_airport",
+    "distance_km": 135.9
+   }
+  ],
+  "nearest_airport_km": 23.3,
+  "distance_beijing_km": 10868.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/198"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

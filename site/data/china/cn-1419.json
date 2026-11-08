@@ -1,0 +1,224 @@
+{
+ "id": "cn-1419",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山东省",
+ "province_en": "Shandong",
+ "province_iso": "CN-SD",
+ "city_zh": "威海市",
+ "city_en": "Weihai",
+ "name_zh": "威海市刘公岛景区",
+ "name_en": "Liugong Island",
+ "name_en_source": "wikipedia",
+ "slug": "weihaishiliugongdao-1419",
+ "lat": 37.499936,
+ "lon": 122.148033,
+ "address_zh": "山东省威海市环翠区海滨北路101-2号",
+ "address_en": "No. 101-2, Haibin North Road, Huancui District, Weihai City, Shandong Province",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "刘公岛是北洋水师的诞生地和甲午战争的古战场。岛上自然风光优美，植物茂密，松涛翠柏，郁郁葱葱；岛内人文景观丰富独特，有上溯千年的战国遗址、下至清朝北洋海军提督署、水师学堂、古炮台等甲午战争遗址，还有众多英租时期遗留下来的欧式建筑。",
+ "intro_en": "Liugong Island (simplified Chinese: 刘公岛; traditional Chinese: 劉公島; pinyin: Liúgōng Dǎo; Wade–Giles: Liu-kung Tao) is a small island located on the northeastern edge of Shandong Peninsula, China, at the mouth of Weihai Bay. It is known as the \"birthplace of China's first modern navy\" and is also the site of its defeat in the First Sino-Japanese War.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Weihai.port_de_Liugong_dao.jpg/1280px-Weihai.port_de_Liugong_dao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Weihai.port de Liugong dao.jpg",
+   "author": "Popolon",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Weihai.port_de_Liugong_dao.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%B8%89%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5.pdf/page1-1280px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%B8%89%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "山东省人民政府关于公布第三批省级文物保护单位名单的通知.pdf",
+   "author": "山东省人民政府",
+   "license": "Public domain",
+   "credit": "http://whhly.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=3d383da242974bb683deecf8a583e26a.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%B8%89%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%BA%94%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942015%E3%80%95142%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%BA%94%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942015%E3%80%95142%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "山东省人民政府关于公布第五批省级文物保护单位的通知（鲁政字〔2015〕142号）.pdf",
+   "author": "山东省人民政府",
+   "license": "Public domain",
+   "credit": "http://nrp.jinan.gov.cn/attach/0/46ab3f295cb7495e9434d53fa919edb1.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E4%BA%94%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942015%E3%80%95142%E5%8F%B7%EF%BC%89.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%9B%9B%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942013%E3%80%95204%E5%8F%B7%EF%BC%89-original_version.pdf/page1-960px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%9B%9B%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942013%E3%80%95204%E5%8F%B7%EF%BC%89-original_version.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "山东省人民政府关于公布第四批省级文物保护单位的通知（鲁政字〔2013〕204号）-original version.pdf",
+   "author": "山东省人民政府",
+   "license": "Public domain",
+   "credit": "http://nrp.jinan.gov.cn/attach/0/343c92bc33de47af99c94fab56ade7fd.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%9B%9B%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942013%E3%80%95204%E5%8F%B7%EF%BC%89-original_version.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%9B%9B%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942013%E3%80%95204%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%9B%9B%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942013%E3%80%95204%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "山东省人民政府关于公布第四批省级文物保护单位的通知（鲁政字〔2013〕204号）.pdf",
+   "author": "山东省人民政府",
+   "license": "Public domain",
+   "credit": "山东省人民政府关于公布第四批省级文物保护单位的通知[J].山东省人民政府公报,2013(24):3-25.",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E7%AC%AC%E5%9B%9B%E6%89%B9%E7%9C%81%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%B2%81%E6%94%BF%E5%AD%97%E3%80%942013%E3%80%95204%E5%8F%B7%EF%BC%89.pdf"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.liugongdao.com.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Weihai Dashuibo Airport",
+    "iata": "WEH",
+    "city": "Weihai",
+    "country": "CN",
+    "lat": 37.187099,
+    "lon": 122.228996,
+    "type": "medium_airport",
+    "distance_km": 35.5
+   },
+   {
+    "name": "Yantai Penglai International Airport",
+    "iata": "YNT",
+    "city": "Yantai",
+    "country": "CN",
+    "lat": 37.659724,
+    "lon": 120.978124,
+    "type": "large_airport",
+    "distance_km": 104.6
+   },
+   {
+    "name": "Dalian Zhoushuizi International Airport",
+    "iata": "DLC",
+    "city": "Dalian (Ganjingzi)",
+    "country": "CN",
+    "lat": 38.965719,
+    "lon": 121.538477,
+    "type": "large_airport",
+    "distance_km": 171.5
+   }
+  ],
+  "nearest_airport_km": 35.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "港前",
+    "name_en": null,
+    "lat": 37.4350065,
+    "lon": 122.1906562,
+    "distance_km": 8.1,
+    "operator": "威海桃威铁路有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "威海",
+    "name_en": "Weihai",
+    "lat": 37.4259659,
+    "lon": 122.1385889,
+    "distance_km": 8.3,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "威海北",
+    "name_en": "Weihaibei",
+    "lat": 37.4953271,
+    "lon": 122.0430167,
+    "distance_km": 9.3,
+    "operator": "中国铁路济南局集团有限公司",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "东山宾馆",
+   "name_en": "Dongshan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.5139405,
+   "lon": 122.1390435,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "威海地中山酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.5153357,
+   "lon": 122.1426357,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Weihai Bluesky Hotel",
+   "name_en": "Weihai Bluesky Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.5168409,
+   "lon": 122.1383928,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sea Breeze hotel",
+   "name_en": "Sea Breeze hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.4862593,
+   "lon": 122.1319588,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华坤酒店",
+   "name_en": "Huakun Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 37.498584,
+   "lon": 122.11621,
+   "distance_km": 2.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 23,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/刘公岛"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-434",
+ "unesco_id": "434",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 568,
+ "popularity_score": 10727,
+ "country": "OM",
+ "country_zh": "阿曼",
+ "country_en": "Oman",
+ "countries": [
+  {
+   "iso2": "OM",
+   "zh": "阿曼",
+   "en": "Oman"
+  }
+ ],
+ "region": "Al Dhahira region",
+ "subdivision_iso": "OM-ZA",
+ "subdivision_zh": "",
+ "subdivision_en": "Ad Dhahirah Governorate",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "巴特•库特姆和艾因考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+ "name_local": "المواقع التاريخية في بات والخطم والعين",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "434-archaeological_sites_of_bat,_al-khutm_an",
+ "lat": 23.27,
+ "lon": 56.745,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "巴特是一个史前遗址，位于阿曼苏丹国内的一片棕树林附近。它和周围的遗址一起共同组成了公元前3000年时最完整的村落和公共墓地遗迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The protohistoric site of Bat lies near a palm grove in the interior of the Sultanate of Oman. Together with the neighbouring sites, it forms the most complete collection of settlements and necropolises from the 3rd millennium B.C. in the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يشكّل موقع بات الذي يعود إلى عصور ما قبل الكتابة والمجاور لبستان النخل داخل سلطنة عمان، مع المواقع المرتبطة به، المجموعة الأكثر كمالاً في مناطق السكن والمقابر الكبيرة في الألفية الثالثة ق.م.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/World%20Heritage%20Grave%20Al%20Ayn%20Oman.JPG?width=1280",
+   "title": "World Heritage Grave Al Ayn Oman.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:World%20Heritage%20Grave%20Al%20Ayn%20Oman.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_434.jpg",
+   "title": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/434",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/434",
+ "transport": {
+  "airports": [
+   {
+    "name": "Suhar International Airport",
+    "iata": "OHS",
+    "city": "Suhar",
+    "country": "OM",
+    "lat": 24.38604,
+    "lon": 56.62541,
+    "type": "large_airport",
+    "distance_km": 124.7
+   },
+   {
+    "name": "Al Ain International Airport",
+    "iata": "AAN",
+    "city": "Al Ain",
+    "country": "AE",
+    "lat": 24.2617,
+    "lon": 55.6092,
+    "type": "large_airport",
+    "distance_km": 159.7
+   },
+   {
+    "name": "Muscat International Airport",
+    "iata": "MCT",
+    "city": "Muscat/Seeb",
+    "country": "OM",
+    "lat": 23.600218,
+    "lon": 58.285268,
+    "type": "large_airport",
+    "distance_km": 161.4
+   }
+  ],
+  "nearest_airport_km": 124.7,
+  "distance_beijing_km": 5789.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "OM",
+  "country_zh": "阿曼",
+  "country_en": "Oman",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required / eVisa[6][106]",
+  "notes": "Chinese national are also eligible for single / multiple entry e-Visa valid for 30 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "OM",
+   "country_zh": "阿曼",
+   "country_en": "Oman",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required / eVisa[6][106]",
+   "notes": "Chinese national are also eligible for single / multiple entry e-Visa valid for 30 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 31
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/434"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Archaeological%20Sites%20of%20Bat%2C%20Al-Khutm%20and%20Al-Ayn"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

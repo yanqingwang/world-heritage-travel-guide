@@ -1,0 +1,238 @@
+{
+ "id": "cn-474",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "无锡市",
+ "city_en": "Wuxi",
+ "name_zh": "无锡市鼋头渚旅游风景区",
+ "name_en": "Wuxishiyuantouzhulvyoufeng Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "wuxishiyuantouzhulvyou-474",
+ "lat": 31.479468,
+ "lon": 120.280659,
+ "address_zh": "无锡市滨湖区雪浪街道",
+ "address_en": "Xuelang Street, Binhu District, Wuxi City",
+ "address_en_source": "machine_translation",
+ "category": "garden",
+ "category_zh": "皇家园林",
+ "category_en": "Royal garden",
+ "intro_zh": "鼋头渚，独占太湖风景最美一角，山清水秀，天然胜景。鼋头渚风景区现有充山隐秀、鹿顶迎晖、鼋渚春涛、横云山庄等10多处景点。其中有山长水阔、帆影点点的自然山水画卷；有小桥流水，绿树人家的山乡田园风光；有典雅精致、古朴纯净的江南园林景致。",
+ "intro_en": "Yuantouzhu occupies the most beautiful corner of Taihu Lake, with beautiful mountains and clear waters and natural scenery. Yuantouzhu Scenic Area currently has more than 10 scenic spots, including Chongshan Yinxiu, Luding Yinghui, Yuanzhu Chuntao, and Hengyun Villa. Among them are natural landscape paintings with long mountains and wide rivers and dotted sail shadows; rural pastoral scenery with small bridges and flowing water, green trees and people; and elegant, delicate, simple and pure Jiangnan garden scenery.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wuxi_Taihu_lake_Changchun_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wuxi Taihu lake Changchun bridge.jpg",
+   "author": "2009/ Synyan ；2014/ 藍風攝影",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Wuxi_Taihu_lake_Changchun_bridge.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Yuantouzhu%2CLake_Tai.JPG/1280px-Yuantouzhu%2CLake_Tai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yuantouzhu,Lake Tai.JPG",
+   "author": "螺钉",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu,Lake_Tai.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Yuantouzhu%2CWuxi.JPG/1280px-Yuantouzhu%2CWuxi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yuantouzhu,Wuxi.JPG",
+   "author": "螺钉",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu,Wuxi.JPG"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Yuantouzhu_Cherry_Blossom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Yuantouzhu Cherry Blossom.jpg",
+   "author": "Synyan 、 新雨",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu_Cherry_Blossom.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yuantouzhu_Lake_Tai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Yuantouzhu Lake Tai.jpg",
+   "author": "Synyan",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yuantouzhu_Lake_Tai.jpg"
+  }
+ ],
+ "web": "http://www.ytz.com.cn/",
+ "booking": "http://www.ytz.com.cn/tickets.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sunan Shuofang International Airport",
+    "iata": "WUX",
+    "city": "Wuxi",
+    "country": "CN",
+    "lat": 31.496952,
+    "lon": 120.43038,
+    "type": "large_airport",
+    "distance_km": 14.3
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 68.5
+   },
+   {
+    "name": "Nantong Xingdong International Airport",
+    "iata": "NTG",
+    "city": "Nantong (Tongzhou)",
+    "country": "CN",
+    "lat": 32.073566,
+    "lon": 120.980076,
+    "type": "medium_airport",
+    "distance_km": 93.5
+   }
+  ],
+  "nearest_airport_km": 14.3,
+  "high_speed_stations": [
+   {
+    "name": "无锡新区",
+    "name_en": "Wuxi New District Station",
+    "lat": 31.4995998,
+    "lon": 120.3875023,
+    "distance_km": 10.4,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "无锡",
+    "name_en": "Wuxi",
+    "lat": 31.5898087,
+    "lon": 120.3018066,
+    "distance_km": 12.4,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "无锡南",
+    "name_en": null,
+    "lat": 31.5481452,
+    "lon": 120.3373866,
+    "distance_km": 9.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "周泾巷",
+    "name_en": null,
+    "lat": 31.5134246,
+    "lon": 120.3719549,
+    "distance_km": 9.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "硕放",
+    "name_en": "Shuofang",
+    "lat": 31.4764997,
+    "lon": 120.4110374,
+    "distance_km": 12.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "无锡江南四季酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.4755841,
+   "lon": 120.270615,
+   "distance_km": 1.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lakeview Hotel",
+   "name_en": "Lakeview Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5106978,
+   "lon": 120.2399808,
+   "distance_km": 5.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "1881 Peninsula Hotel",
+   "name_en": "1881 Peninsula Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5185862,
+   "lon": 120.2465636,
+   "distance_km": 5.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万豪酒店",
+   "name_en": "Wuxi Marriott Hotel Lihu Lake",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5205866,
+   "lon": 120.247365,
+   "distance_km": 5.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "皇冠假日酒店",
+   "name_en": "Crowne Plaza Wuxi City Center",
+   "stars": null,
+   "brand": "Crowne Plaza",
+   "lat": 31.5532743,
+   "lon": 120.2953125,
+   "distance_km": 8.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 110,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

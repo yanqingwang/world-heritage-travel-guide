@@ -1,0 +1,178 @@
+{
+ "id": "cn-1376",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "温州市",
+ "city_en": "Wenzhou City",
+ "name_zh": "温州市刘伯温故里景区",
+ "name_en": "Wenzhoushiliubowenguli Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "wenzhoushiliubowenguli-1376",
+ "lat": 27.85048,
+ "lon": 120.017937,
+ "address_zh": "浙江省温州市文成县百丈漈篁庄村",
+ "address_en": "Baizhang Jiahuangzhuang Village, Wencheng County, Wenzhou City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "景区总面积4.8平方公里，地域特色鲜明，由刘基庙和百丈漈两大核心景区构成，主要有一折瀑、西天屏、刘基庙、天顶湖、大象峰等景点，是人文与自然景观交相辉映、集多元文化于一体的综合型旅游休闲度假区。",
+ "intro_en": "The scenic area has a total area of ​​4.8 square kilometers and has distinctive regional characteristics. It is composed of two core scenic spots, Liuji Temple and Baizhangji. It mainly has Yizhe Waterfall, Xitianping, Liuji Temple, Tianding Lake, Elephant Peak and other scenic spots. It is a comprehensive tourism and leisure resort where humanities and natural landscapes complement each other and integrate multiculturalism.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Wenzhou Longwan International Airport",
+    "iata": "WNZ",
+    "city": "Wenzhou (Longwan)",
+    "country": "CN",
+    "lat": 27.910572,
+    "lon": 120.853465,
+    "type": "large_airport",
+    "distance_km": 82.4
+   },
+   {
+    "name": "Taizhou Luqiao Airport",
+    "iata": "HYN",
+    "city": "Taizhou (Luqiao)",
+    "country": "CN",
+    "lat": 28.562201,
+    "lon": 121.429001,
+    "type": "medium_airport",
+    "distance_km": 159.3
+   },
+   {
+    "name": "Quzhou Airport",
+    "iata": "JUZ",
+    "city": "Quzhou (Kezheng)",
+    "country": "CN",
+    "lat": 28.96613,
+    "lon": 118.898793,
+    "type": "medium_airport",
+    "distance_km": 165.4
+   }
+  ],
+  "nearest_airport_km": 82.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "青田",
+    "name_en": "Qingtian",
+    "lat": 28.1400241,
+    "lon": 120.275622,
+    "distance_km": 40.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "青田东",
+    "name_en": null,
+    "lat": 28.1271426,
+    "lon": 120.3496993,
+    "distance_km": 44.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "良岸",
+    "name_en": null,
+    "lat": 28.2119246,
+    "lon": 120.2187109,
+    "distance_km": 44.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "首旅南苑文成宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.7906539,
+   "lon": 120.0955459,
+   "distance_km": 10.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "文成国际大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.7946452,
+   "lon": 120.100217,
+   "distance_km": 10.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "维也纳酒店",
+   "name_en": "Vienna Hotels",
+   "stars": null,
+   "brand": "维也纳酒店",
+   "lat": 27.7874399,
+   "lon": 120.0955828,
+   "distance_km": 10.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "文成豪都商务宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.7869022,
+   "lon": 120.0950119,
+   "distance_km": 10.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华董华俪璞酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.7866322,
+   "lon": 120.0986894,
+   "distance_km": 10.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 5,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-1099",
+ "unesco_id": "1099",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 896,
+ "popularity_score": null,
+ "country": "ZA",
+ "country_zh": "南非",
+ "country_en": "South Africa",
+ "countries": [
+  {
+   "iso2": "ZA",
+   "zh": "南非",
+   "en": "South Africa"
+  }
+ ],
+ "region": "Northern Province",
+ "subdivision_iso": "ZA-LP",
+ "subdivision_zh": "林波波省",
+ "subdivision_en": "Limpopo",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马蓬古布韦文化景观",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mapungubwe Cultural Landscape",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1099-mapungubwe_cultural_landscape",
+ "lat": -22.211667,
+ "lon": 29.387889,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)(v)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "马蓬古布韦坐落于南非的北部边境，连结着津巴布韦与博茨瓦纳。它是位于林波波河和沙舍河汇流处的一处开放广阔的热带大草原风光。14世纪后它被人遗忘，在此之前它是非洲次大陆最大的王国。现在幸存的是几乎完整无损的宫殿遗址和依此而建的居留地以及两处早期的首都遗址。而这一切都为我们提供了约400年中那里的社会与政治结构发展的一幅无与伦比的图画。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Mapungubwe is set hard against the northern border of South Africa, joining Zimbabwe and Botswana. It is an open, expansive savannah landscape at the confluence of the Limpopo and Shashe rivers. Mapungubwe developed into the largest kingdom in the sub-continent before it was abandoned in the 14th century. What survives are the almost untouched remains of the palace sites and also the entire settlement area dependent upon them, as well as two earlier capital sites, the whole presenting an unrivalled picture of the development of social and political structures over some 400 years.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MapungubweHill.jpg?width=1280",
+   "title": "MapungubweHill.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:MapungubweHill.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1099.jpg",
+   "title": "Mapungubwe Cultural Landscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1099",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1099",
+ "transport": {
+  "airports": [
+   {
+    "name": "Polokwane International Airport",
+    "iata": "PTG",
+    "city": "Polokwane",
+    "country": "ZA",
+    "lat": -23.845269,
+    "lon": 29.458615,
+    "type": "large_airport",
+    "distance_km": 181.8
+   },
+   {
+    "name": "Phillip Gaonwe Matante International Airport",
+    "iata": "FRW",
+    "city": "Francistown",
+    "country": "BW",
+    "lat": -21.159183,
+    "lon": 27.468826,
+    "type": "large_airport",
+    "distance_km": 230.2
+   },
+   {
+    "name": "Joshua Mqabuko Nkomo International Airport",
+    "iata": "BUQ",
+    "city": "Bulawayo",
+    "country": "ZW",
+    "lat": -20.016284,
+    "lon": 28.622897,
+    "type": "large_airport",
+    "distance_km": 256.7
+   }
+  ],
+  "nearest_airport_km": 181.8,
+  "distance_beijing_km": 11454.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZA",
+  "country_zh": "南非",
+  "country_en": "South Africa",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Electronic Travel Authorization / eVisa[136]",
+  "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZA",
+   "country_zh": "南非",
+   "country_en": "South Africa",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Electronic Travel Authorization / eVisa[136]",
+   "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1099"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:41Z"
+}

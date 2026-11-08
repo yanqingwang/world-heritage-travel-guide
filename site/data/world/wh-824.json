@@ -1,0 +1,162 @@
+{
+ "id": "wh-824",
+ "unesco_id": "824",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 579,
+ "popularity_score": 10353,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Padova, Veneto Region,",
+ "subdivision_iso": "IT-PD",
+ "subdivision_zh": "帕多瓦省",
+ "subdivision_en": "Province of Padua",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "帕多瓦植物园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Botanical Garden (Orto Botanico), Padua",
+ "name_local": "Orto botanico di Padova",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "824-botanical_garden_(orto_botanico),_padua",
+ "lat": 45.39953,
+ "lon": 11.880682,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "世界上第一个植物园于1545年建于帕多瓦。它至今仍保留着最初的建筑布局——一块圆形土地，象征着整个世界，四周被淙淙的水流环绕。此后这里又增添了一些其他设施，其中包括建筑设施（装饰过的大门和栅栏）和实用设施（汲水装置和暖房）。时至今日，它仍一如既往地继续着它的初衷，即把植物园作为科学研究的基地。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The world's first botanical garden was created in Padua in 1545. It still preserves its original layout – a circular central plot, symbolizing the world, surrounded by a ring of water. Other elements were added later, some architectural (ornamental entrances and balustrades) and some practical (pumping installations and greenhouses). It continues to serve its original purpose as a centre for scientific research.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "L'orto botanico di Padova, fondato nel 1545, è il più antico orto botanico al mondo ancora nella sua collocazione originaria ed uno dei più antichi in assoluto. Situato in un'area di circa 2,2 ettari, si trova nel centro storico di Padova, nei pressi del Prato della Valle. Dal 1997 è Patrimonio dell'umanità dell'UNESCO.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orto%20botanico%20padova.JPG?width=1280",
+   "title": "Orto botanico padova.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Orto%20botanico%20padova.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_824.jpg",
+   "title": "Botanical Garden (Orto Botanico), Padua",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/824",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/824",
+ "transport": {
+  "airports": [
+   {
+    "name": "Treviso Airport",
+    "iata": "TSF",
+    "city": "Treviso (TV)",
+    "country": "IT",
+    "lat": 45.648399,
+    "lon": 12.1944,
+    "type": "large_airport",
+    "distance_km": 36.9
+   },
+   {
+    "name": "Venice Marco Polo Airport",
+    "iata": "VCE",
+    "city": "Venezia (VE)",
+    "country": "IT",
+    "lat": 45.505299,
+    "lon": 12.3519,
+    "type": "large_airport",
+    "distance_km": 38.6
+   },
+   {
+    "name": "Verona Villafranca Valerio Catullo Airport",
+    "iata": "VRN",
+    "city": "Caselle (VR)",
+    "country": "IT",
+    "lat": 45.394955,
+    "lon": 10.887303,
+    "type": "large_airport",
+    "distance_km": 77.6
+   }
+  ],
+  "nearest_airport_km": 36.9,
+  "distance_beijing_km": 7882.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/824"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Orto%20botanico%20di%20Padova"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:34Z"
+}

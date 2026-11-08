@@ -1,0 +1,162 @@
+{
+ "id": "wh-534",
+ "unesco_id": "534",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 376,
+ "popularity_score": 21801,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of Saxony-Anhalt (Sachsen-Anhalt)",
+ "subdivision_iso": "DE-ST",
+ "subdivision_zh": "萨克森-安哈尔特州",
+ "subdivision_en": "Saxony-Anhalt",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "德绍－沃尔利茨园林王国",
+ "name_zh_source": "unesco_official",
+ "name_en": "Garden Kingdom of Dessau-Wörlitz",
+ "name_local": "Dessau-Wörlitzer Gartenreich",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "534-garden_kingdom_of_dessau-wörlitz",
+ "lat": 51.8636,
+ "lon": 12.2814,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "德绍－沃尔利茨园林王国是18世纪欧洲启蒙运动时期园林设计和规划的典范之作。在花园中有各种杰出的建筑、英国风格观景园和花园以及通过精心设计的农田景致，将美学、教育和经济目的融合到了一起，堪称经典。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Garden Kingdom of Dessau-Wörlitz is an exceptional example of landscape design and planning of the Age of the Enlightenment, the 18th century. Its diverse components - outstanding buildings, landscaped parks and gardens in the English style, and subtly modified expanses of agricultural land - serve aesthetic, educational, and economic purposes in an exemplary manner.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Das Dessau-Wörlitzer Gartenreich ist eine europaweit bedeutende Kulturlandschaft in Sachsen-Anhalt, bestehend aus mehreren Bauten und Landschaftsparks nach englischem Vorbild. Das Gartenreich umfasst heute eine Fläche von 142 km² entlang der Elbe im Biosphärenreservat Mittelelbe. Seit November 2000 gehört es zum UNESCO-Welterbe. Es wurde in das im Jahre 2001 erschienene Blaubuch aufgenommen.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Woerlitzpark81.jpg?width=1280",
+   "title": "Woerlitzpark81.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Woerlitzpark81.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_534.jpg",
+   "title": "Garden Kingdom of Dessau-Wörlitz",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/534",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/534",
+ "transport": {
+  "airports": [
+   {
+    "name": "Leipzig/Halle Airport",
+    "iata": "LEJ",
+    "city": "Schkeuditz",
+    "country": "DE",
+    "lat": 51.420657,
+    "lon": 12.232705,
+    "type": "large_airport",
+    "distance_km": 49.4
+   },
+   {
+    "name": "Berlin Brandenburg Airport",
+    "iata": "BER",
+    "city": "Berlin",
+    "country": "DE",
+    "lat": 52.361738,
+    "lon": 13.502341,
+    "type": "large_airport",
+    "distance_km": 100.1
+   },
+   {
+    "name": "Dresden Airport",
+    "iata": "DRS",
+    "city": "Dresden",
+    "country": "DE",
+    "lat": 51.134123,
+    "lon": 13.767831,
+    "type": "large_airport",
+    "distance_km": 131.0
+   }
+  ],
+  "nearest_airport_km": 49.4,
+  "distance_beijing_km": 7489.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/534"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dessau-W%C3%B6rlitz%20Garden%20Realm"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

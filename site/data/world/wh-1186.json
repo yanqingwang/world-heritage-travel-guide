@@ -1,0 +1,162 @@
+{
+ "id": "wh-1186",
+ "unesco_id": "1186",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 251,
+ "popularity_score": 39342,
+ "country": "EG",
+ "country_zh": "埃及",
+ "country_en": "Egypt",
+ "countries": [
+  {
+   "iso2": "EG",
+   "zh": "埃及",
+   "en": "Egypt"
+  }
+ ],
+ "region": "Faiyum Governorate",
+ "subdivision_iso": "EG-FYM",
+ "subdivision_zh": "法尤姆省",
+ "subdivision_en": "Faiyum Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "鲸鱼峡谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "Wadi Al-Hitan (Whale Valley)",
+ "name_local": "وادي الحيتان",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1186-wadi_al-hitan_(whale_valley)",
+ "lat": 29.270833333,
+ "lon": 30.043888888,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2005",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "鲸鱼峡谷位于埃及西部沙漠，有珍贵的鲸化石，这种鲸类属于最古老的、现已绝迹的古鲸亚目。这些化石反映了主要的进化历程之一：鲸由早期的陆生动物进化为海洋哺乳动物。这是世界上反映这一进化阶段的最重要遗迹，生动地展示了这些鲸在进化过程中的生命形态。化石的数量、集中程度以及质量可谓首屈一指，所处的环境风景迷人，受到良好保护，可以接近。鲸鱼峡谷的化石展现了鲸后鳍退化最后阶段的原始状态。这些鲸鱼尽管在头骨和牙齿结构方面仍保持了原始面貌，但已显示了现代鲸典型的流线型身体形态。加上该遗址的其他化石材料，使人们完全可能重建当时的环境和生态。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Wadi Al-Hitan, Whale Valley, in the Western Desert of Egypt, contains invaluable fossil remains of the earliest, and now extinct, suborder of whales, Archaeoceti. These fossils represent one of the major stories of evolution: the emergence of the whale as an ocean-going mammal from a previous life as a land-based animal. This is the most important site in the world for the demonstration of this stage of evolution. It portrays vividly the form and life of these whales during their transition. The number, concentration and quality of such fossils here is unique, as is their accessibility and setting in an attractive and protected landscape. The fossils of Al-Hitan show the youngest archaeocetes, in the last stages of losing their hind limbs. Other fossil material in the site makes it possible to reconstruct the surrounding environmental and ecological conditions of the time.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يقع وادي الحيتان في صحراء مصر الغربيّة ويتضمّن بقايا أحفوريّة متحجّرة نفيسة عن فصيلة الحيتان القديمة والمنقرضة اليوم. تمثّل هذه البقايا المتحجرة إحدى أبرز محطات تطوّر الحيتان من ثدييات بريّة إلى ثدييات بحريّة. وهو أكبر مواقع العالم الشاهد على هذه المرحلة من التطوّر حيث يعكس طبيعة الحيتان وحياتها في خلال فترة تحوّلها. فهذه البقايا الأحفوريّة بعددها وتركّزها ونوعيّتها فريدة من نوعها تماماً كما النفاذ إليها ووجودها في موقع جميل ومحمي. تُبيّن بقايا الحيتان المتحجرة حيتاناً شابةً في المراحل الأخيرة من فقدان أعضائها الخلفيّة. وتتيح متحجرات أخرى متوفرة في هذا الموقع التعرف على البيئة والشروط البيئية في تلك الحقبة.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WadiHitanRock.jpg?width=1280",
+   "title": "WadiHitanRock.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:WadiHitanRock.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1186.jpg",
+   "title": "Wadi Al-Hitan (Whale Valley)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1186",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1186",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sphinx International Airport",
+    "iata": "SPX",
+    "city": "Al Jiza",
+    "country": "EG",
+    "lat": 30.108179,
+    "lon": 30.895728,
+    "type": "large_airport",
+    "distance_km": 124.3
+   },
+   {
+    "name": "Cairo International Airport",
+    "iata": "CAI",
+    "city": "Cairo",
+    "country": "EG",
+    "lat": 30.111534,
+    "lon": 31.396694,
+    "type": "large_airport",
+    "distance_km": 160.7
+   },
+   {
+    "name": "Alexandria International Airport",
+    "iata": "HBE",
+    "city": "Alexandria",
+    "country": "EG",
+    "lat": 30.93249,
+    "lon": 29.696437,
+    "type": "large_airport",
+    "distance_km": 187.8
+   }
+  ],
+  "nearest_airport_km": 124.3,
+  "distance_beijing_km": 7574.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EG",
+  "country_zh": "埃及",
+  "country_en": "Egypt",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "eVisa / Visa on arrival[6][47]",
+  "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EG",
+   "country_zh": "埃及",
+   "country_en": "Egypt",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][47]",
+   "notes": "Chinese citizens are eligible to apply for e-Visa. Per IATA, Chinese citizens are eligible to apply for visa on arrival for a maximum stay of one month with a Letter of Guarantee from a local travel agency."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 46
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1186"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wadi%20al%20Hitan"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:42Z"
+}

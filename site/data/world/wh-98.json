@@ -1,0 +1,162 @@
+{
+ "id": "wh-98",
+ "unesco_id": "98",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 152,
+ "popularity_score": 89508,
+ "country": "HR",
+ "country_zh": "克罗地亚",
+ "country_en": "Croatia",
+ "countries": [
+  {
+   "iso2": "HR",
+   "zh": "克罗地亚",
+   "en": "Croatia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "HR-04",
+ "subdivision_zh": "卡尔洛瓦茨县",
+ "subdivision_en": "Karlovac County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布里特威斯湖国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Plitvice Lakes National Park",
+ "name_local": "Nacionalni park Plitvička jezera",
+ "local_lang": "hr",
+ "local_lang_name": "Croatian",
+ "slug": "98-plitvice_lakes_national_park",
+ "lat": 44.880445,
+ "lon": 15.616035,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "数千年来流经石灰石和白垩上的水，逐渐沉积为石灰华屏障，构成一道道天然堤坝，这些堤坝又形成了一个个美丽的湖泊、洞穴和瀑布。这种地质作用至今仍在继续进行。公园里的森林是熊、狼和许多稀有鸟类的家园。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The waters flowing over the limestone and chalk have, over thousands of years, deposited travertine barriers, creating natural dams which in turn have created a series of beautiful lakes, caves and waterfalls. These geological processes continue today. The forests in the park are home to bears, wolves and many rare bird species.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Nacionalni park Plitvička jezera osobita je geološka i hidrogeološka krška pojava. Kompleks Plitvičkih jezera proglašen je nacionalnim parkom 8. travnja 1949. godine. To je najveći, najstariji i najposjećeniji hrvatski nacionalni park. Predstavlja šumovit planinski kraj u kojem se nalazi 16 jezera različite veličine, ispunjenima kristalnom modrozelenom vodom. Jezera dobivaju vodu od brojnih rječica i potoka, a međusobno su spojena kaskadama i slapovima. Sedrene barijere, koje su nastale u razdoblju od desetak tisuća godina, jedna su od temeljnih osobitosti Parka. Poseban zemljopisni položaj i specifične klimatske značajke pridonijeli su nastanku mnogih prirodnih fenomena i bogatoj biološkoj raznolikosti. Sedreni sedimenti oblikovani su od pleistocena do danas u vrtačama i depresijama između okolnih planina. Gornja jezera na jugu pretežno se sastoje od dolomita, a Donja jezera na sjeveru od vapnenačkih stijena. 2010-ih pojavila su se nova dva, Sedamnaesto jezero i osamnaesto jezero koja su nastala čovjekovim djelovanjem, no ona nisu ni čista ni estetski lijepa kao ostala. Cjelinu je UNESCO proglasio svjetskom prirodnom baštinom, 1979. godine, među prvima u svijetu. Park je podijeljen na užu i širu zonu prema stupnju zaštite. Nalazi se na području dvije županije, 91 % parka je u Ličko-senjskoj županiji, a 9 % u Karlovačkoj županiji. Na Plitvičkim jezerima nalazi se i izvor rijeke",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plitvice%20Lakes%20National%20Park%20%282%29.jpg?width=1280",
+   "title": "Plitvice Lakes National Park (2).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Plitvice%20Lakes%20National%20Park%20%282%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_98.jpg",
+   "title": "Plitvice Lakes National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/98",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/98",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zadar Airport",
+    "iata": "ZAD",
+    "city": "Zadar",
+    "country": "HR",
+    "lat": 44.096986,
+    "lon": 15.353565,
+    "type": "large_airport",
+    "distance_km": 89.6
+   },
+   {
+    "name": "Rijeka Airport",
+    "iata": "RJK",
+    "city": "Rijeka(Omišalj)",
+    "country": "HR",
+    "lat": 45.216376,
+    "lon": 14.57085,
+    "type": "large_airport",
+    "distance_km": 90.2
+   },
+   {
+    "name": "Zagreb Franjo Tuđman International Airport",
+    "iata": "ZAG",
+    "city": "Velika Gorica",
+    "country": "HR",
+    "lat": 45.742901,
+    "lon": 16.0688,
+    "type": "large_airport",
+    "distance_km": 102.2
+   }
+  ],
+  "nearest_airport_km": 89.6,
+  "distance_beijing_km": 7790.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HR",
+  "country_zh": "克罗地亚",
+  "country_en": "Croatia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HR",
+   "country_zh": "克罗地亚",
+   "country_en": "Croatia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "hr",
+  "local_lang_name": "Croatian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 61
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/98"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Plitvice%20Lakes%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

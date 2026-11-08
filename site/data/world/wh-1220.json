@@ -1,0 +1,154 @@
+{
+ "id": "wh-1220",
+ "unesco_id": "1220",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 916,
+ "popularity_score": null,
+ "country": "IL",
+ "country_zh": "以色列",
+ "country_en": "Israel",
+ "countries": [
+  {
+   "iso2": "IL",
+   "zh": "以色列",
+   "en": "Israel"
+  }
+ ],
+ "region": "Haifa and Northern Districts",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "海法和西加利利的巴海圣地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Bahá’i Holy Places in Haifa and the Western Galilee",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1220-bahá’i_holy_places_in_haifa_and_the_west",
+ "lat": 32.81222222,
+ "lon": 34.98638889,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(vi)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "入选的理由是它们体现了巴海浓厚的朝圣传统，以及它们所蕴涵的关于宗教信仰的深刻内涵。这一遗产由分布在阿克和海法11个地方、与宗教创始人有关的26座建筑、纪念碑和遗址组成，其中包括位于阿克的巴哈欧拉圣陵和位于海法的巴孛陵墓。此外还有房屋、花园、公墓和用作教务行政、档案室和研究中心的大规模新古典主义风格的现代建筑群。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their profound spiritual meaning and the testimony they bear to the strong tradition of pilgrimage in the Bahá’i faith. The property includes the two most holy places in the Bahá’í religion associated with the founders, the Shrine of Bahá’u’lláh in Acre and the Shrine of the Báb in Haifa, together with their surrounding gardens, associated buildings and monuments. These two shrines are part of a larger complex of buildings, monuments and sites at seven distinct locations in Haifa and Western Galilee that are visited as part of the Bahá’i pilgrimage.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1220.jpg",
+   "title": "Bahá’i Holy Places in Haifa and the Western Galilee",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1220",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1220",
+ "transport": {
+  "airports": [
+   {
+    "name": "Uri Michaeli Haifa International Airport",
+    "iata": "HFA",
+    "city": "Haifa",
+    "country": "IL",
+    "lat": 32.810219,
+    "lon": 35.043719,
+    "type": "medium_airport",
+    "distance_km": 5.4
+   },
+   {
+    "name": "Ben Gurion International Airport",
+    "iata": "TLV",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.011398,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "distance_km": 89.5
+   },
+   {
+    "name": "Beirut Rafic Hariri International Airport",
+    "iata": "BEY",
+    "city": "Beirut",
+    "country": "LB",
+    "lat": 33.819833,
+    "lon": 35.487443,
+    "type": "large_airport",
+    "distance_km": 121.3
+   }
+  ],
+  "nearest_airport_km": 5.4,
+  "distance_beijing_km": 7080.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IL",
+  "country_zh": "以色列",
+  "country_en": "Israel",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IL",
+   "country_zh": "以色列",
+   "country_en": "Israel",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "As of 2017 visas are issued with a 10-year validity period.[65]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1220"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:43Z"
+}

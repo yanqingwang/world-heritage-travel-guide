@@ -1,0 +1,224 @@
+{
+ "id": "cn-731",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "福建省",
+ "province_en": "Fujian",
+ "province_iso": "CN-FJ",
+ "city_zh": "泉州市",
+ "city_en": "Quanzhou",
+ "name_zh": "泉州市清源山风景名胜区",
+ "name_en": "Mount Qingyuan",
+ "name_en_source": "wikipedia",
+ "slug": "quanzhoushiqingyuanshanfengjingmingshengqu-731",
+ "lat": 24.947416,
+ "lon": 118.603989,
+ "address_zh": "泉州市丰泽区清源街道泉山路",
+ "address_en": "Quanshan Road, Qingyuan Street, Fengze District, Quanzhou City",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "清源山景区是泉州十八景之一，由清源山、九日山、灵山圣墓三大片区组成，总面积62平方公里。清源山以36洞天、18胜景闻名，其中尤以老君岩、千手岩、弥陀岩、碧霄岩、瑞象岩、虎乳泉、南台岩、清源洞、赐恩岩等为胜。",
+ "intro_en": "Mount Qingyuan (Chinese: 清源山; pinyin: Qīngyuán Shān; Tâi-lô: Tshing-guân Suann) is a mountain and national park protecting it, Fujian Province, located in the East China region of China.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Laozi_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Laozi 002.jpg",
+   "author": "Thanato",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Laozi_002.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Quanzhou_Qingyuan_Shan_20120301-15.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Quanzhou Qingyuan Shan 20120301-15.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Quanzhou_Qingyuan_Shan_20120301-15.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Quanzhou_Qingyuan_Shan_20120301-17.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Quanzhou Qingyuan Shan 20120301-17.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Quanzhou_Qingyuan_Shan_20120301-17.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Quanzhou_Qingyuan_Shan_20120301-18.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Quanzhou Qingyuan Shan 20120301-18.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Quanzhou_Qingyuan_Shan_20120301-18.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Quanzhou_Qingyuan_Shan_20120301-19.jpg/1280px-Quanzhou_Qingyuan_Shan_20120301-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Quanzhou Qingyuan Shan 20120301-19.jpg",
+   "author": "Zhangzhugang",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Quanzhou_Qingyuan_Shan_20120301-19.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Quanzhou Jinjiang International Airport",
+    "iata": "JJN",
+    "city": "Quanzhou",
+    "country": "CN",
+    "lat": 24.795855,
+    "lon": 118.588599,
+    "type": "large_airport",
+    "distance_km": 16.9
+   },
+   {
+    "name": "Kinmen Airport",
+    "iata": "KNH",
+    "city": "Shang-I",
+    "country": "TW",
+    "lat": 24.4279,
+    "lon": 118.359001,
+    "type": "medium_airport",
+    "distance_km": 62.8
+   },
+   {
+    "name": "Xiamen Gaoqi International Airport",
+    "iata": "XMN",
+    "city": "Xiamen",
+    "country": "CN",
+    "lat": 24.543889,
+    "lon": 118.127454,
+    "type": "large_airport",
+    "distance_km": 65.8
+   }
+  ],
+  "nearest_airport_km": 16.9,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "泉州东",
+    "name_en": null,
+    "lat": 24.9237894,
+    "lon": 118.6348343,
+    "distance_km": 4.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "泉州",
+    "name_en": "Quanzhou",
+    "lat": 24.9768893,
+    "lon": 118.5631517,
+    "distance_km": 5.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "洪濑",
+    "name_en": "Honglai",
+    "lat": 25.0203086,
+    "lon": 118.5603762,
+    "distance_km": 9.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "InterContinental Quanzhou",
+   "name_en": "InterContinental Quanzhou",
+   "stars": null,
+   "brand": "InterContinental",
+   "lat": 24.8748008,
+   "lon": 118.634171,
+   "distance_km": 8.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hetangyueshe Hotel",
+   "name_en": "Hetangyueshe Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 24.9193216,
+   "lon": 118.5986515,
+   "distance_km": 3.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 24.9393598,
+   "lon": 118.5701879,
+   "distance_km": 3.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "开元盛世酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.9219059,
+   "lon": 118.5803477,
+   "distance_km": 3.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金星大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.9153602,
+   "lon": 118.5901435,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 38,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/清源山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

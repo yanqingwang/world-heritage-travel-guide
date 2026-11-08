@@ -1,0 +1,152 @@
+{
+ "id": "wh-1010",
+ "unesco_id": "1010",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 601,
+ "popularity_score": 9920,
+ "country": "OM",
+ "country_zh": "阿曼",
+ "country_en": "Oman",
+ "countries": [
+  {
+   "iso2": "OM",
+   "zh": "阿曼",
+   "en": "Oman"
+  }
+ ],
+ "region": "Dhofar Province",
+ "subdivision_iso": "OM-ZU",
+ "subdivision_zh": "佐法尔省",
+ "subdivision_en": "Dhofar Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "乳香之路",
+ "name_zh_source": "unesco_official",
+ "name_en": "Land of Frankincense",
+ "name_local": "أرض اللبان",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1010-land_of_frankincense",
+ "lat": 18.253333333,
+ "lon": 53.647591666,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "瓦迪•道卡的乳香树和什斯尔/乌芭尔以及相关的科尔罗里和巴厘德港口的商队绿洲遗迹，都表明这里的乳香贸易繁荣了很多世纪。这项贸易在古代和中世纪是最重要的商业活动之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The frankincense trees of Wadi Dawkah and the remains of the caravan oasis of Shisr/Wubar and the affiliated ports of Khor Rori and Al-Baleed vividly illustrate the trade in frankincense that flourished in this region for many centuries, as one of the most important trading activities of the ancient and medieval world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تبرز أشجار اللبان في وادي دوكة، بالإضافة إلى آثار الواحة الصحراوية المتنقلة في شصر/وبار والمرافئ المرتبطة بخور روري والبليد. فقد ازدهرت تجارة اللبان بشكل واضح في هذه المنطقة خلال قرون عدة وكانت من أهم النشاطات التجارية في العالم القديم وفي القرون الوسطى.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruins6.JPG?width=1280",
+   "title": "Ruins6.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ruins6.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1010.jpg",
+   "title": "Land of Frankincense",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1010",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1010",
+ "transport": {
+  "airports": [
+   {
+    "name": "Salalah International Airport",
+    "iata": "SLL",
+    "city": "Salalah",
+    "country": "OM",
+    "lat": 17.0387,
+    "lon": 54.091301,
+    "type": "large_airport",
+    "distance_km": 143.0
+   },
+   {
+    "name": "Al Ghaydah International Airport",
+    "iata": "AAY",
+    "city": "Al Ghaydah",
+    "country": "YE",
+    "lat": 16.193341,
+    "lon": 52.174186,
+    "type": "medium_airport",
+    "distance_km": 277.4
+   }
+  ],
+  "nearest_airport_km": 143.0,
+  "distance_beijing_km": 6474.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "OM",
+  "country_zh": "阿曼",
+  "country_en": "Oman",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required / eVisa[6][106]",
+  "notes": "Chinese national are also eligible for single / multiple entry e-Visa valid for 30 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "OM",
+   "country_zh": "阿曼",
+   "country_en": "Oman",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required / eVisa[6][106]",
+   "notes": "Chinese national are also eligible for single / multiple entry e-Visa valid for 30 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1010"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Land%20of%20Frankincense"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

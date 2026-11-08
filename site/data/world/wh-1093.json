@@ -1,0 +1,162 @@
+{
+ "id": "wh-1093",
+ "unesco_id": "1093",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 631,
+ "popularity_score": 8236,
+ "country": "JO",
+ "country_zh": "约旦",
+ "country_en": "Jordan",
+ "countries": [
+  {
+   "iso2": "JO",
+   "zh": "约旦",
+   "en": "Jordan"
+  }
+ ],
+ "region": "Madaba Governorate",
+ "subdivision_iso": "JO-AM",
+ "subdivision_zh": "",
+ "subdivision_en": "Amman",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "乌姆赖萨斯考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Um er-Rasas (Kastrom Mefa'a)",
+ "name_local": "أم الرصاص",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1093-um_er-rasas_(kastrom_mefa'a)",
+ "lat": 31.499722222,
+ "lon": 35.919722222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)(vi)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "乌姆赖萨斯考古遗址的大部分尚未挖掘。该遗址包括罗马、拜占庭和早期穆斯林时期（公元3世纪末到9世纪）的遗迹，起初是罗马的一个军营，后来在公元5世纪发展成为一个城镇。面积为150米×150米的军营要塞基本没有挖掘。另外，还有几个教堂，有些教堂里有保存完好的镶嵌图案地板。特别值得一提的是圣史蒂芬教堂的镶嵌图案地板及其对该地区城镇形象的展示。两座方塔可能是修道士（即单独在柱子或塔上修炼的苦行者 ）进行该地区有名的修炼的仅有遗迹。乌姆赖萨斯考古遗址四周零星地分布着古代的农耕遗迹。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Most of this archaeological site, which started as a Roman military camp and grew to become a town from the 5th century, has not been excavated. It contains remains from the Roman, Byzantine and Early Muslim periods (end of 3rd to 9th centuries AD) and a fortified Roman military camp. The site also has 16 churches, some with well-preserved mosaic floors. Particularly noteworthy is the mosaic floor of the Church of Saint Stephen with its representation of towns in the region. Two square towers are probably the only remains of the practice, well known in this part of the world, of the stylites (ascetic monks who spent time in isolation atop a column or tower). Um er-Rasas is surrounded by, and dotted with, remains of ancient agricultural cultivation in an arid area.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "إنّ أهم ما في موقع أم الرصاص الأثري ما لم يتمّ نبشه بعد. فالموقع الذي يتضمَّن آثارًا من العصرَيْن البيزنطي والروماني ومن بدايات الإسلام (من أواخر القرن الثالث إلى القرن التاسع ميلادي)، كان مُعسكرًا رومانيًا، ثمّ توسّع ليصبح مدينةً ابتداءً من القرن الخامس. وقد تمّ استكشاف المُعسكر المحّصن قليلاً. ويحتوي الموقع أيضًا على 16 كنيسةً يملك البعض منها أرضيّاتٍ من الفسيفساء تمّت المُحافظة عليها بشكلٍ جيّد، لا سيّما أرضيّة كنيسة القديس اسطفانوس التي تمثّل مدن المنطقة. والبرجان المربّعان هما على الأرجح الشاهدان الوحيدان على تعابير نسّاك الأعمدة (رهبان نساك ينعزلون على قمة عمود أو برج) المعروفة جيدًا في هذه المنطقة من العالم. وتنتشر آثار النشاطات الزراعيّة القديمة في موقع أم الرصاص وفي ضواحيها.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Umm%20Rasas%20House%20ruins.JPG?width=1280",
+   "title": "Umm Rasas House ruins.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Umm%20Rasas%20House%20ruins.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1093.jpg",
+   "title": "Um er-Rasas (Kastrom Mefa'a)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1093",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1093",
+ "transport": {
+  "airports": [
+   {
+    "name": "Queen Alia International Airport",
+    "iata": "AMM",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.7226009369,
+    "lon": 35.9931983948,
+    "type": "large_airport",
+    "distance_km": 25.7
+   },
+   {
+    "name": "Marka International (Amman Civil) Airport",
+    "iata": "ADJ",
+    "city": "Amman",
+    "country": "JO",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "distance_km": 53.0
+   },
+   {
+    "name": "Ben Gurion International Airport",
+    "iata": "TLV",
+    "city": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.011398,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "distance_km": 113.0
+   }
+  ],
+  "nearest_airport_km": 25.7,
+  "distance_beijing_km": 7069.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JO",
+  "country_zh": "约旦",
+  "country_en": "Jordan",
+  "status": "visa_on_arrival",
+  "days": null,
+  "requirement": "eVisa / Visa on arrival[6][69]",
+  "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JO",
+   "country_zh": "约旦",
+   "country_en": "Jordan",
+   "status": "visa_on_arrival",
+   "days": null,
+   "requirement": "eVisa / Visa on arrival[6][69]",
+   "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 39
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1093"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Umm%20ar-Rasas"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

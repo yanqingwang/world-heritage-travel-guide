@@ -1,0 +1,154 @@
+{
+ "id": "wh-956",
+ "unesco_id": "956",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1200,
+ "popularity_score": null,
+ "country": "SN",
+ "country_zh": "塞内加尔",
+ "country_en": "Senegal",
+ "countries": [
+  {
+   "iso2": "SN",
+   "zh": "塞内加尔",
+   "en": "Senegal"
+  }
+ ],
+ "region": "Region of Saint-Louis",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "圣路易斯岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Island of Saint-Louis",
+ "name_local": "Île de Saint-Louis",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "956-island_of_saint-louis",
+ "lat": 16.014796,
+ "lon": -16.488762,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "17世纪时，法国殖民者在此建立定居点。到了19世纪中叶，圣路易斯岛发展成为一座城市。1872年到1957年期间，这里曾一度是塞内加尔的首府所在地，在整个西非地区发挥着重要的文化和经济作用。圣路易斯岛位于塞内加尔河的河口处，岛上正规的城市规划、众多的船埠码头和风格迥异的殖民地建筑，都使得圣路易斯城别具特色，独具一格。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded as a French colonial settlement in the 17th century, Saint-Louis was urbanised in the mid-19th century. It was the capital of Senegal from 1872 to 1957 and played an important cultural and economic role in the whole of West Africa. The location of the town on an island at the mouth of the Senegal River, its regular town plan, the system of quays, and the characteristic colonial architecture give Saint-Louis its distinctive appearance and identity.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fondée par les colons français au XVII e siècle, Saint-Louis s'urbanisa au milieu du XIX e siècle. Elle fut la capitale du Sénégal de 1872 à 1957 et joua un rôle culturel et économique prépondérant dans l'ensemble de l'Afrique occidentale. La situation de la ville sur une île à l'embouchure du fleuve Sénégal, son plan urbain régulier, son système de quais et son architecture coloniale caractéristique confèrent à Saint-Louis sa qualité particulière et son identité.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_956.jpg",
+   "title": "Island of Saint-Louis",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/956",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/956",
+ "transport": {
+  "airports": [
+   {
+    "name": "Blaise Diagne International Airport",
+    "iata": "DSS",
+    "city": "Dakar",
+    "country": "SN",
+    "lat": 14.670878,
+    "lon": -17.072829,
+    "type": "large_airport",
+    "distance_km": 162.0
+   },
+   {
+    "name": "Nouakchott–Oumtounsy International Airport",
+    "iata": "NKC",
+    "city": "Nouakchott",
+    "country": "MR",
+    "lat": 18.31,
+    "lon": -15.969722,
+    "type": "large_airport",
+    "distance_km": 261.1
+   },
+   {
+    "name": "Banjul International Airport",
+    "iata": "BJL",
+    "city": "Banjul (Yundum)",
+    "country": "GM",
+    "lat": 13.338,
+    "lon": -16.652201,
+    "type": "large_airport",
+    "distance_km": 298.2
+   }
+  ],
+  "nearest_airport_km": 162.0,
+  "distance_beijing_km": 12271.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SN",
+  "country_zh": "塞内加尔",
+  "country_en": "Senegal",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa not required for less than 3 months stay Chinese ordinary passport holders.[127] Holders of passports for public affairs do not require a visa for 30 days.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SN",
+   "country_zh": "塞内加尔",
+   "country_en": "Senegal",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa not required for less than 3 months stay Chinese ordinary passport holders.[127] Holders of passports for public affairs do not require a visa for 30 days.[18]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/956"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

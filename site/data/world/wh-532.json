@@ -1,0 +1,162 @@
+{
+ "id": "wh-532",
+ "unesco_id": "532",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 544,
+ "popularity_score": 11867,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "States of Brandenburg and Berlin",
+ "subdivision_iso": "DE-BB",
+ "subdivision_zh": "勃兰登堡州",
+ "subdivision_en": "Brandenburg",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "波兹坦与柏林的宫殿与庭园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Palaces and Parks of Potsdam and Berlin",
+ "name_local": "Schlösser und Parks von Potsdam und Berlin",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "532-palaces_and_parks_of_potsdam_and_berlin",
+ "lat": 52.4,
+ "lon": 13.033333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1990",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "拥有500公顷的公园和150座1730年至1916年期间的建筑物，波兹坦宫殿和庭园共同构成了一个艺术整体，其折衷性强化了其独特性。遗址一直延伸到柏林－采伦多夫区(Berlin-Zehlendorf)，其间的宫殿和庭园把哈弗尔河(River Havel)和格列尼克湖(Lake Glienicke)连接起来。位于桑图谢－苏西宫殿(Sans-Souci Palace)的伏尔泰宫是1745年至1747年期间弗雷德里克二世(Frederick II)在位期间修建的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "With 500 ha of parks and 150 buildings constructed between 1730 and 1916, Potsdam's complex of palaces and parks forms an artistic whole, whose eclectic nature reinforces its sense of uniqueness. It extends into the district of Berlin-Zehlendorf, with the palaces and parks lining the banks of the River Havel and Lake Glienicke. Voltaire stayed at the Sans-Souci Palace, built under Frederick II between 1745 and 1747.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Schlösser und Parks von Potsdam und Berlin ist eine von der UNESCO gelistete Stätte des Weltkulturerbes in Deutschland.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Park%20Sanssouci%2C%20Belvedere%20auf%20dem%20Klausberg%2C%20Schloss%20Sanssouci%2C%20Neues%20Palais%2C%20Orangerieschloss%2C%20Universit%C3%A4t%20Potsdam%2C%20Potsdam%2C%20Luftaufnahme%2C%20Vogelperspektive%2C%20aerial%20view%2C%201.jpg?width=1280",
+   "title": "Park Sanssouci, Belvedere auf dem Klausberg, Schloss Sanssouci, Neues Palais, Orangerieschloss, Universität Potsdam, Potsdam, Luftaufnahme, Vogelperspektive, aerial view, 1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Park%20Sanssouci%2C%20Belvedere%20auf%20dem%20Klausberg%2C%20Schloss%20Sanssouci%2C%20Neues%20Palais%2C%20Orangerieschloss%2C%20Universit%C3%A4t%20Potsdam%2C%20Potsdam%2C%20Luftaufnahme%2C%20Vogelperspektive%2C%20aerial%20view%2C%201.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_532.jpg",
+   "title": "Palaces and Parks of Potsdam and Berlin",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/532",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/532",
+ "transport": {
+  "airports": [
+   {
+    "name": "Berlin Brandenburg Airport",
+    "iata": "BER",
+    "city": "Berlin",
+    "country": "DE",
+    "lat": 52.361738,
+    "lon": 13.502341,
+    "type": "large_airport",
+    "distance_km": 32.1
+   },
+   {
+    "name": "Leipzig/Halle Airport",
+    "iata": "LEJ",
+    "city": "Schkeuditz",
+    "country": "DE",
+    "lat": 51.420657,
+    "lon": 12.232705,
+    "type": "large_airport",
+    "distance_km": 122.0
+   },
+   {
+    "name": "Dresden Airport",
+    "iata": "DRS",
+    "city": "Dresden",
+    "country": "DE",
+    "lat": 51.134123,
+    "lon": 13.767831,
+    "type": "large_airport",
+    "distance_km": 149.6
+   }
+  ],
+  "nearest_airport_km": 32.1,
+  "distance_beijing_km": 7357.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/532"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palaces%20and%20Parks%20of%20Potsdam%20and%20Berlin"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:28Z"
+}

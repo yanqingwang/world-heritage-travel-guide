@@ -1,0 +1,224 @@
+{
+ "id": "cn-1023",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "温州市",
+ "city_en": "Wenzhou City",
+ "name_zh": "温州市雁荡山风景区",
+ "name_en": "Yandang Mountains",
+ "name_en_source": "wikipedia",
+ "slug": "wenzhoushiyandangshan-1023",
+ "lat": 28.373528,
+ "lon": 121.109514,
+ "address_zh": "浙江省温州市乐清市雁荡镇响岭头村",
+ "address_en": "Xianglingtou Village, Yandang Town, Yueqing City, Wenzhou City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "雁荡山因山顶有湖，芦苇茂密，结草为荡，南归秋雁多宿于此，故名雁荡。景区以奇峰怪石、古洞石室、飞瀑流泉称胜；其中，灵峰、灵岩、大龙湫三个景区被称为“雁荡三绝”。",
+ "intro_en": "Yandang Mountains or Yandangshan (simplified Chinese: 雁荡山; traditional Chinese: 雁蕩山; pinyin: Yàndàng Shān; lit. 'Wild Goose Pond Mountain(s)') refers, in the broad sense, to a coastal mountain range in southeastern Zhejiang province in eastern China, covering much of the prefecture-level city of Wenzhou (from Pingyang County in the south to Yueqing County in the northeast) and extending to the county-level city of Wenling in Taizhou prefecture. The mountain range is divided in two by the Oujiang River, the two parts being the North Yandang and South Yandang. More narrowly, Yandangshan is also used to refer to Mount Yandang, a specific part of the North Yandang around an ancient caldera near a small town of the same name (雁荡镇; Yàndàng Zhèn). The highest peaks of North Yandang are located here, and this is also the main tourist spot. In this article, name \"Yandang Mountains\" is used to refer the mountain range and \"Mt. Yandang\" to refer to the caldera. The main peak of North Yandang, Baigangjian (百岗尖; Bǎigǎng Jiān; 'Hundred-Peak Point'), rises 1,150 m (3,770 ft) above sea level There is a radar station on the peak, which is closed to the public. In 2004, Yandangshan became National G",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/China2011_Zhejiang_YandangShan.jpg/1280px-China2011_Zhejiang_YandangShan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "China2011 Zhejiang YandangShan.jpg",
+   "author": "Glasreifen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:China2011_Zhejiang_YandangShan.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tracks_in_Yandangshan_Railway_Station.jpg/1280px-Tracks_in_Yandangshan_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tracks in Yandangshan Railway Station.jpg",
+   "author": "Siyuwj",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tracks_in_Yandangshan_Railway_Station.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Yandang_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Yandang Mountain.jpg",
+   "author": "Qian Weicheng",
+   "license": "Public domain",
+   "credit": "http://www.dashuhua.com/paimai/30540662.html#ms",
+   "source": "https://commons.wikimedia.org/wiki/File:Yandang_Mountain.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yandangshan_Railway_Station.jpg/1280px-Yandangshan_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yandangshan Railway Station.jpg",
+   "author": "Micromesistius",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yandangshan_Railway_Station.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Yandangshan_banner3.jpg/1280px-Yandangshan_banner3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Yandangshan banner3.jpg",
+   "author": "Dcpeets",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Yandangshan_banner3.jpg"
+  }
+ ],
+ "web": "http://www.wzyds.com",
+ "booking": "http://www.wzyds.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Taizhou Luqiao Airport",
+    "iata": "HYN",
+    "city": "Taizhou (Luqiao)",
+    "country": "CN",
+    "lat": 28.562201,
+    "lon": 121.429001,
+    "type": "medium_airport",
+    "distance_km": 37.6
+   },
+   {
+    "name": "Wenzhou Longwan International Airport",
+    "iata": "WNZ",
+    "city": "Wenzhou (Longwan)",
+    "country": "CN",
+    "lat": 27.910572,
+    "lon": 120.853465,
+    "type": "large_airport",
+    "distance_km": 57.3
+   },
+   {
+    "name": "Yiwu Airport",
+    "iata": "YIW",
+    "city": "Yiwu/Jinhua",
+    "country": "CN",
+    "lat": 29.342095,
+    "lon": 120.03116,
+    "type": "large_airport",
+    "distance_km": 150.4
+   }
+  ],
+  "nearest_airport_km": 37.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "雁荡山",
+    "name_en": "Yandangshan",
+    "lat": 28.3444955,
+    "lon": 121.1478227,
+    "distance_km": 4.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "温岭西",
+    "name_en": null,
+    "lat": 28.3974576,
+    "lon": 121.2932326,
+    "distance_km": 18.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "乐清湾",
+    "name_en": null,
+    "lat": 28.1923382,
+    "lon": 121.1016941,
+    "distance_km": 20.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "仙雁栖居",
+   "name_en": "Xian Yan Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 28.3704005,
+   "lon": 121.1014679,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "银都大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.2229565,
+   "lon": 121.034699,
+   "distance_km": 18.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "虹桥商务大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.2111552,
+   "lon": 121.0343937,
+   "distance_km": 19.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "鼎丰大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 28.1826087,
+   "lon": 121.0827703,
+   "distance_km": 21.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Koro",
+   "name_en": "Koro",
+   "stars": null,
+   "brand": null,
+   "lat": 28.399677,
+   "lon": 121.37695,
+   "distance_km": 26.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 8,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/雁荡山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

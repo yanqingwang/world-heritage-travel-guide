@@ -1,0 +1,162 @@
+{
+ "id": "wh-442",
+ "unesco_id": "442",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 867,
+ "popularity_score": 417,
+ "country": "US",
+ "country_zh": "美国",
+ "country_en": "United States",
+ "countries": [
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "Virginia",
+ "subdivision_iso": "US-VA",
+ "subdivision_zh": "弗吉尼亚州",
+ "subdivision_en": "Virginia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "夏洛茨维尔的蒙蒂塞洛和弗吉尼亚大学",
+ "name_zh_source": "unesco_official",
+ "name_en": "Monticello and the University of Virginia in Charlottesville",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "442-monticello_and_the_university_of_virgini",
+ "lat": 38.03277778,
+ "lon": -78.50388889,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)(vi)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "托马斯·杰佛逊（1743-1826年）是美国《独立宣言》的起草者，也是美国第三任总统，同时，他还是一位天才的新古典主义建筑设计师。1769年至1809年间，他亲自设计建造了自己的庄园——蒙蒂塞洛，在1817年至1826年间又设计建造了他的理想“学术村”，那里至今仍然是弗吉尼亚大学的中心。杰佛逊的设计在古典建筑基础上添加了许多新元素，这也代表了当时美国想要作为欧洲传统继承者的同时成为一个能够对文化进行再创新的成熟国家的渴望。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Thomas Jefferson (1743–1826), author of the American Declaration of Independence and third president of the United States, was also a talented architect of neoclassical buildings. He designed Monticello (1769–1809), his plantation home, and his ideal 'academical village' (1817–26), which is still the heart of the University of Virginia. Jefferson's use of an architectural vocabulary based upon classical antiquity symbolizes both the aspirations of the new American republic as the inheritor of European tradition and the cultural experimentation that could be expected as the country matured.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Virginia%20Rotunda%202006.jpg?width=1280",
+   "title": "University of Virginia Rotunda 2006.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:University%20of%20Virginia%20Rotunda%202006.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_442.jpg",
+   "title": "Monticello and the University of Virginia in Charlottesville",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/442",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/442",
+ "transport": {
+  "airports": [
+   {
+    "name": "Charlottesville Albemarle Airport",
+    "iata": "CHO",
+    "city": "Charlottesville",
+    "country": "US",
+    "lat": 38.13859939575195,
+    "lon": -78.4529037475586,
+    "type": "medium_airport",
+    "distance_km": 12.6
+   },
+   {
+    "name": "Shenandoah Valley Regional Airport",
+    "iata": "SHD",
+    "city": "Weyers Cave",
+    "country": "US",
+    "lat": 38.263802,
+    "lon": -78.8964,
+    "type": "medium_airport",
+    "distance_km": 42.9
+   },
+   {
+    "name": "Lynchburg Regional Airport - Preston Glenn Field",
+    "iata": "LYH",
+    "city": "Lynchburg",
+    "country": "US",
+    "lat": 37.326698,
+    "lon": -79.200401,
+    "type": "medium_airport",
+    "distance_km": 99.6
+   }
+  ],
+  "nearest_airport_km": 12.6,
+  "distance_beijing_km": 11183.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "US",
+  "country_zh": "美国",
+  "country_en": "United States",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/442"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monticello%20and%20the%20University%20of%20Virginia"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

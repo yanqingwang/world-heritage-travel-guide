@@ -1,0 +1,219 @@
+{
+ "id": "cn-563",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "云南省",
+ "province_en": "Yunnan",
+ "province_iso": "CN-YN",
+ "city_zh": "昆明市",
+ "city_en": "Kunming",
+ "name_zh": "昆明市石林风景区",
+ "name_en": "Kunmingshishilinfeng Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "kunmingshishilin-563",
+ "lat": 24.817625,
+ "lon": 103.330054,
+ "address_zh": "云南省昆明市石林彝族自治县石林中路",
+ "address_en": "Shilin Middle Road, Shilin Yi Autonomous County, Kunming City, Yunnan Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "景区内喀斯特地貌面积达1100多平方公里，保护区面积350平方公里，主要景点有石林风景区、乃古石林风景区、大叠水风景区、长湖风景区、圭山国家森林公园等。石林在自然景观上融雄、奇、险、秀、幽、奥、旷为一体，奇山怪石，惟妙惟肖，气势恢宏。",
+ "intro_en": "The karst landform area in the scenic area reaches more than 1,100 square kilometers, and the protected area covers an area of ​​350 square kilometers. The main attractions include Stone Forest Scenic Area, Naigu Stone Forest Scenic Area, Dadieshui Scenic Area, Changhu Scenic Area, Guishan National Forest Park, etc. The stone forest integrates majestic, strange, dangerous, graceful, secluded, mysterious and vast in the natural landscape. The strange mountains and rocks are lifelike and magnificent.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20260222_Lotus_Lake%2C_Stone_Forest.jpg/1280px-20260222_Lotus_Lake%2C_Stone_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260222 Lotus Lake, Stone Forest.jpg",
+   "author": "Ngguls",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260222_Lotus_Lake,_Stone_Forest.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/20260222_Stone_Forest%2C_Shilin_02.jpg/1280px-20260222_Stone_Forest%2C_Shilin_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260222 Stone Forest, Shilin 02.jpg",
+   "author": "Ngguls",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260222_Stone_Forest,_Shilin_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/20260222_Stone_Forest%2C_Shilin_04.jpg/1280px-20260222_Stone_Forest%2C_Shilin_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260222 Stone Forest, Shilin 04.jpg",
+   "author": "Ngguls",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260222_Stone_Forest,_Shilin_04.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/20260222_Stone_Forest%2C_Shilin_05.jpg/1280px-20260222_Stone_Forest%2C_Shilin_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260222 Stone Forest, Shilin 05.jpg",
+   "author": "Ngguls",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260222_Stone_Forest,_Shilin_05.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/20260222_Yunnan_Stone_Forest_Scenic_Area_National_Geological_Park.jpg/1280px-20260222_Yunnan_Stone_Forest_Scenic_Area_National_Geological_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20260222 Yunnan Stone Forest Scenic Area National Geological Park.jpg",
+   "author": "Ngguls",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20260222_Yunnan_Stone_Forest_Scenic_Area_National_Geological_Park.jpg"
+  }
+ ],
+ "web": "http://www.shilin.com.cn/public/protal/zh-CHS/index.html",
+ "booking": "http://www.shilin.com.cn/public/protal/zh-CHS/index.html",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kunming Changshui International Airport",
+    "iata": "KMG",
+    "city": "Kunming",
+    "country": "CN",
+    "lat": 25.110313,
+    "lon": 102.936743,
+    "type": "large_airport",
+    "distance_km": 51.3
+   },
+   {
+    "name": "Xingyi Wanfenglin Airport",
+    "iata": "ACX",
+    "city": "Xingyi",
+    "country": "CN",
+    "lat": 25.083423,
+    "lon": 104.960804,
+    "type": "medium_airport",
+    "distance_km": 167.0
+   },
+   {
+    "name": "Wenshan Puzhehei Airport",
+    "iata": "WNH",
+    "city": "Wenshan",
+    "country": "CN",
+    "lat": 23.5583,
+    "lon": 104.3255,
+    "type": "small_airport",
+    "distance_km": 172.6
+   }
+  ],
+  "nearest_airport_km": 51.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "石林",
+    "name_en": "Shilin",
+    "lat": 24.86571,
+    "lon": 103.32753,
+    "distance_km": 5.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "石林南",
+    "name_en": null,
+    "lat": 24.8651142,
+    "lon": 103.2763076,
+    "distance_km": 7.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "茂舍祖",
+    "name_en": null,
+    "lat": 24.8598558,
+    "lon": 103.4154802,
+    "distance_km": 9.8,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Kunming Forest Homestay",
+   "name_en": "Kunming Forest Homestay",
+   "stars": null,
+   "brand": null,
+   "lat": 24.8318054,
+   "lon": 103.3105874,
+   "distance_km": 2.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "興陽旅舘",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.7652786,
+   "lon": 103.2707456,
+   "distance_km": 8.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel - accepts foreigners",
+   "name_en": "Hotel - accepts foreigners",
+   "stars": null,
+   "brand": null,
+   "lat": 24.9240033,
+   "lon": 103.1493383,
+   "distance_km": 21.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "博海主题酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.9219359,
+   "lon": 103.1354535,
+   "distance_km": 22.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "郦京酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.9217668,
+   "lon": 103.1355031,
+   "distance_km": 22.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 6,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

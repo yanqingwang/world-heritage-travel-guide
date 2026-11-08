@@ -1,0 +1,182 @@
+{
+ "id": "cn-284",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "广西壮族自治区",
+ "province_en": "Guangxi",
+ "province_iso": "CN-GX",
+ "city_zh": "桂林市",
+ "city_en": "Guilin",
+ "name_zh": "桂林市两江四湖•象山景区",
+ "name_en": "Liangjiangsihu Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "guilinshiliangjiangsihu-xiangshan-284",
+ "lat": 25.274963,
+ "lon": 110.302478,
+ "address_zh": "广西壮族自治区桂林市象山区滨江路",
+ "address_en": "Binjiang Road, Xiangshan District, Guilin City, Guangxi Zhuang Autonomous Region",
+ "address_en_source": "machine_translation",
+ "category": "garden",
+ "category_zh": "皇家园林",
+ "category_en": "Royal garden",
+ "intro_zh": "景区由两江（漓江、桃花江）四湖（桂湖、榕湖、杉湖、木龙湖），三山（象山、叠彩山、伏波山）组成。乘船夜游两江四湖·象山景区，山水、园林、城市在璀璨灯光的笼罩下，更彰显出如梦似幻的高雅意境。",
+ "intro_en": "The scenic spot consists of two rivers (Lijiang River and Taohua River), four lakes (Gui Lake, Rong Lake, Shan Lake, and Mulong Lake), and three mountains (Xiang Mountain, Diecai Mountain, and Fubo Mountain). Take a night boat trip to the Xiangshan Scenic Area of ​​Two Rivers and Four Lakes. The landscapes, gardens, and cities are shrouded in bright lights, which further demonstrates the dreamlike and elegant artistic conception.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "https://www.glljsh.com/",
+ "booking": "https://www.glljsh.com/zh-CN/category/line/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Guilin Liangjiang International Airport",
+    "iata": "KWL",
+    "city": "Guilin (Lingui)",
+    "country": "CN",
+    "lat": 25.219828,
+    "lon": 110.039553,
+    "type": "large_airport",
+    "distance_km": 27.1
+   },
+   {
+    "name": "Liuzhou Bailian Airport / Bailian Air Base",
+    "iata": "LZH",
+    "city": "Liuzhou (Liujiang)",
+    "country": "CN",
+    "lat": 24.2075,
+    "lon": 109.390999,
+    "type": "medium_airport",
+    "distance_km": 150.2
+   },
+   {
+    "name": "Liping Airport",
+    "iata": "HZH",
+    "city": "Liping",
+    "country": "CN",
+    "lat": 26.32217,
+    "lon": 109.1499,
+    "type": "medium_airport",
+    "distance_km": 163.9
+   }
+  ],
+  "nearest_airport_km": 27.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "桂林",
+    "name_en": "Guilin",
+    "lat": 25.2643418,
+    "lon": 110.2772234,
+    "distance_km": 2.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "桂林南",
+    "name_en": "GuilinNan",
+    "lat": 25.2300532,
+    "lon": 110.2777806,
+    "distance_km": 5.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "桂林北",
+    "name_en": "Guilinbei",
+    "lat": 25.33146,
+    "lon": 110.2981859,
+    "distance_km": 6.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "桂林会展中心酒店",
+   "name_en": "Guilin Exhibition International Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 25.2650072,
+   "lon": 110.3025481,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "桂林环球大酒店",
+   "name_en": "Hotel Universal Guilin",
+   "stars": 4,
+   "brand": null,
+   "lat": 25.2798038,
+   "lon": 110.2960461,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "四季春天酒店",
+   "name_en": "O.Live Social Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 25.2761067,
+   "lon": 110.2945208,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MinFeng International Hotel",
+   "name_en": "MinFeng International Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 25.2842106,
+   "lon": 110.3101214,
+   "distance_km": 1.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "桂林喜来登饭店",
+   "name_en": "Sheraton Guilin Hotel",
+   "stars": null,
+   "brand": "喜来登",
+   "lat": 25.2768787,
+   "lon": 110.2944821,
+   "distance_km": 0.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 84,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/两江四湖"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

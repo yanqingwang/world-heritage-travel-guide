@@ -1,0 +1,158 @@
+{
+ "id": "wh-32",
+ "unesco_id": "32",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1068,
+ "popularity_score": null,
+ "country": "PL",
+ "country_zh": "波兰",
+ "country_en": "Poland",
+ "countries": [
+  {
+   "iso2": "PL",
+   "zh": "波兰",
+   "en": "Poland"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PL-12",
+ "subdivision_zh": "",
+ "subdivision_en": "Lesser Poland Voivodeship",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "维利奇卡和博赫尼亚皇家盐矿",
+ "name_zh_source": "curated",
+ "name_en": "Wieliczka and Bochnia Royal Salt Mines",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "32-wieliczka_and_bochnia_royal_salt_mines",
+ "lat": 49.97916667,
+ "lon": 20.06388889,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1978",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "维利奇卡和博赫尼亚的岩盐矿床自 13 世纪以来就开始开采。这一大型工业企业具有皇家地位，是欧洲同类企业中最古老的。该遗址是由维利奇卡盐矿和博赫尼亚盐矿以及维利奇卡盐场城堡组成的系列财产。维利奇卡盐矿和博赫尼亚皇家盐矿展现了 13 世纪至 20 世纪欧洲采矿技术发展的历史阶段：两个盐矿都拥有数百公里长的画廊，里面陈列着艺术品、地下教堂和用盐雕刻的雕像，让人对过去进行一次迷人的朝圣。这些矿场由维利奇卡盐场城堡负责管理和技术管理，该城堡的历史可以追溯到中世纪时期，在历史上曾多次重建。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "The deposit of rock salt in Wieliczka and Bochnia has been mined since the 13th century. This major industrial undertaking has royal status and is the oldest of its type in Europe. The site is a serial property consisting of Wieliczka and Bochnia salt mines and Wieliczka Saltworks Castle. The Wieliczka and Bochnia Royal Salt Mines illustrate the historic stages of the development of mining techniques in Europe from the 13th to the 20th centuries: both mines have hundreds of kilometers of galleries with works of art, underground chapels and statues sculpted in the salt, making a fascinating pilgrimage into the past. The mines were administratively and technically run by Wieliczka Saltworks Castle, which dates from the medieval period and has been rebuilt several times in the course of its history.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1%20%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1%204950.jpg?width=1280",
+   "title": "Αλατωρυχεία Βιελίτσκα 4950.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1%20%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1%204950.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_32.jpg",
+   "title": "Wieliczka and Bochnia Royal Salt Mines",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/32",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/32",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kraków John Paul II International Airport",
+    "iata": "KRK",
+    "city": "Balice",
+    "country": "PL",
+    "lat": 50.077702,
+    "lon": 19.7848,
+    "type": "large_airport",
+    "distance_km": 22.7
+   },
+   {
+    "name": "Katowice Wojciech Korfanty International Airport",
+    "iata": "KTW",
+    "city": "Katowice",
+    "country": "PL",
+    "lat": 50.476015,
+    "lon": 19.080705,
+    "type": "large_airport",
+    "distance_km": 89.1
+   },
+   {
+    "name": "Poprad-Tatry Airport",
+    "iata": "TAT",
+    "city": "Poprad",
+    "country": "SK",
+    "lat": 49.070994,
+    "lon": 20.241394,
+    "type": "medium_airport",
+    "distance_km": 101.8
+   }
+  ],
+  "nearest_airport_km": 22.7,
+  "distance_beijing_km": 7135.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PL",
+  "country_zh": "波兰",
+  "country_en": "Poland",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PL",
+   "country_zh": "波兰",
+   "country_en": "Poland",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/32"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

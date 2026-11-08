@@ -1,0 +1,162 @@
+{
+ "id": "wh-158",
+ "unesco_id": "158",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 182,
+ "popularity_score": 73185,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "Province of Alberta",
+ "subdivision_iso": "CA-AB",
+ "subdivision_zh": "阿尔伯塔省",
+ "subdivision_en": "Alberta",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "美洲野牛涧地带",
+ "name_zh_source": "unesco_official",
+ "name_en": "Head-Smashed-In Buffalo Jump",
+ "name_local": "Le précipice à bisons Head-Smashed-In",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "158-head-smashed-in_buffalo_jump",
+ "lat": 49.7494,
+ "lon": -113.625,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在艾伯塔省(Alberta)的西南部，发现了标有记号的数条小道、土著人营房和坟地遗址，里面存有大量的野牛（美洲野牛）骨骼，向人们生动地展示了近六千年前的北美平原上土著人的生活习俗。他们利用对地形的熟悉和对野牛习性的了解，将牛群追赶到悬崖边，迫使其跳崖摔死，然后在下面的营房里分割尸体。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In south-west Alberta, the remains of marked trails and an aboriginal camp, and a tumulus where vast quantities of buffalo (American Bison) skeletons can still be found, are evidence of a custom practised by aboriginal peoples of the North American plains for nearly 6,000 years. Using their excellent knowledge of the topography and of buffalo behaviour, they killed their prey by chasing them over a precipice; the carcasses were later carved up in the camp below.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Dans le sud-ouest de l'Alberta, les vestiges de pistes balisées, les restes d'un campement autochtone et un tumulus où l'on a trouvé d'énormes quantités de squelettes de bisons illustrent un usage pratiqué pendant près de six millénaires par les peuples autochtones des grandes plaines de l'Amérique du Nord. Ceux-ci, grâce à leur connaissance très précise de la topographie du terrain et du comportement des bisons, pourchassaient les troupeaux vers le précipice et dépeçaient ensuite les carcasses dans un campement en contrebas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Head-Smashed-In%20Buffalo%20Jump-27527-2.jpg?width=1280",
+   "title": "Head-Smashed-In Buffalo Jump-27527-2.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Head-Smashed-In%20Buffalo%20Jump-27527-2.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_158.jpg",
+   "title": "Head-Smashed-In Buffalo Jump",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/158",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/158",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lethbridge County Airport",
+    "iata": "YQL",
+    "city": "Lethbridge",
+    "country": "CA",
+    "lat": 49.6302986145,
+    "lon": -112.800003052,
+    "type": "medium_airport",
+    "distance_km": 60.8
+   },
+   {
+    "name": "Calgary International Airport",
+    "iata": "YYC",
+    "city": "Calgary",
+    "country": "CA",
+    "lat": 51.118822,
+    "lon": -114.009933,
+    "type": "large_airport",
+    "distance_km": 154.7
+   },
+   {
+    "name": "Cranbrook/Canadian Rockies International Airport",
+    "iata": "YXC",
+    "city": "Cranbrook",
+    "country": "CA",
+    "lat": 49.610802,
+    "lon": -115.781998,
+    "type": "medium_airport",
+    "distance_km": 156.0
+   }
+  ],
+  "nearest_airport_km": 60.8,
+  "distance_beijing_km": 8932.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 36
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/158"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Head-Smashed-In%20Buffalo%20Jump"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

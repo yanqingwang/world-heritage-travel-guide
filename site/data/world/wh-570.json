@@ -1,0 +1,162 @@
+{
+ "id": "wh-570",
+ "unesco_id": "570",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 231,
+ "popularity_score": 44785,
+ "country": "AL",
+ "country_zh": "阿尔巴尼亚",
+ "country_en": "Albania",
+ "countries": [
+  {
+   "iso2": "AL",
+   "zh": "阿尔巴尼亚",
+   "en": "Albania"
+  }
+ ],
+ "region": "District of Sarandë, County of Vlorë",
+ "subdivision_iso": "AL-12",
+ "subdivision_zh": "发罗拉州",
+ "subdivision_en": "Vlorë County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "布特林特",
+ "name_zh_source": "unesco_official",
+ "name_en": "Butrint",
+ "name_local": "",
+ "local_lang": "sq",
+ "local_lang_name": "Albanian",
+ "slug": "570-butrint",
+ "lat": 39.757066,
+ "lon": 20.016628,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "布特林特城史前就有人定居，先后为希腊殖民地、古罗马城市和主教辖区所在地。在拜占庭时期，这里曾一度非常繁荣，后被威尼斯人短期占领。中世纪后期，由于该地区变成了沼泽，所以这个城市便被遗弃了。现在的考古遗址其实就是一个废墟，展现了这个城市发展各个时期的风貌。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Inhabited since prehistoric times, Butrint has been the site of a Greek colony, a Roman city and a bishopric. Following a period of prosperity under Byzantine administration, then a brief occupation by the Venetians, the city was abandoned in the late Middle Ages after marshes formed in the area. The present archaeological site is a repository of ruins representing each period in the city’s development.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Butrint%2C%20Albania.jpg?width=1280",
+   "title": "Butrint, Albania.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Butrint%2C%20Albania.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_570.jpg",
+   "title": "Butrint",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/570",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/570",
+ "transport": {
+  "airports": [
+   {
+    "name": "Corfu Ioannis Kapodistrias International Airport",
+    "iata": "CFU",
+    "city": "Kerkyra (Corfu)",
+    "country": "GR",
+    "lat": 39.60145,
+    "lon": 19.912179,
+    "type": "large_airport",
+    "distance_km": 19.5
+   },
+   {
+    "name": "Ioannina King Pyrrhus National Airport",
+    "iata": "IOA",
+    "city": "Ioannina",
+    "country": "GR",
+    "lat": 39.6964,
+    "lon": 20.8225,
+    "type": "medium_airport",
+    "distance_km": 69.2
+   },
+   {
+    "name": "Aktion National Airport",
+    "iata": "PVK",
+    "city": "Preveza",
+    "country": "GR",
+    "lat": 38.925499,
+    "lon": 20.765301,
+    "type": "medium_airport",
+    "distance_km": 112.7
+   }
+  ],
+  "nearest_airport_km": 19.5,
+  "distance_beijing_km": 7784.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AL",
+  "country_zh": "阿尔巴尼亚",
+  "country_en": "Albania",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6][8]",
+  "notes": "90 days within any 180 day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AL",
+   "country_zh": "阿尔巴尼亚",
+   "country_en": "Albania",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6][8]",
+   "notes": "90 days within any 180 day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "sq",
+  "local_lang_name": "Albanian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 62
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/570"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Butrint"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

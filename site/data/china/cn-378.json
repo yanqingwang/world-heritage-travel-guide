@@ -1,0 +1,209 @@
+{
+ "id": "cn-378",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "黑龙江省",
+ "province_en": "Heilongjiang",
+ "province_iso": "CN-HL",
+ "city_zh": "哈尔滨市",
+ "city_en": "Harbin",
+ "name_zh": "哈尔滨市太阳岛景区",
+ "name_en": "Taiyangdao Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "haerbinshitaiyangdao-378",
+ "lat": 45.790589,
+ "lon": 126.605126,
+ "address_zh": "黑龙江省哈尔滨市松北区太阳大道1号",
+ "address_en": "No. 1, Taiyang Avenue, Songbei District, Harbin City, Heilongjiang Province",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "太阳岛是一处由冰雪文化、民俗文化等资源构成的多功能风景区，也是中国国内的沿江生态区。太阳岛风景区被授予国家级风景名胜区、国家水利风景区、国家湿地公园试点单位等荣誉。",
+ "intro_en": "Sun Island is a multi-functional scenic spot composed of ice and snow culture, folk culture and other resources. It is also a riverside ecological zone in China. Sun Island Scenic Area has been awarded the honors of a national scenic spot, a national water conservancy scenic spot, and a national wetland park pilot unit.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Names_of_Tomatoes_in_Chinese_Dialects.pdf/page1-960px-The_Names_of_Tomatoes_in_Chinese_Dialects.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "The Names of Tomatoes in Chinese Dialects.pdf",
+   "author": "张迎雪，项梦冰",
+   "license": "CC BY 4.0",
+   "credit": "https://image.hanspub.org/pdf/ML20160300000_75813704.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Names_of_Tomatoes_in_Chinese_Dialects.pdf"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf/page1-960px-%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "城镇化地区综合交通网规划.pdf",
+   "author": "National Development and Reform Commission and Ministry of Transport, People's Republic of China",
+   "license": "Public domain",
+   "credit": "http://www.ndrc.gov.cn/zcfb/zcfbghwb/201512/t20151209_761949.html",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%9F%8E%E9%95%87%E5%8C%96%E5%9C%B0%E5%8C%BA%E7%BB%BC%E5%90%88%E4%BA%A4%E9%80%9A%E7%BD%91%E8%A7%84%E5%88%92.pdf"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.taiyangdao.com.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Harbin Taiping International Airport",
+    "iata": "HRB",
+    "city": "Harbin",
+    "country": "CN",
+    "lat": 45.623402,
+    "lon": 126.25,
+    "type": "large_airport",
+    "distance_km": 33.3
+   },
+   {
+    "name": "Daqing Sartu Airport",
+    "iata": "DQA",
+    "city": "Daqing",
+    "country": "CN",
+    "lat": 46.750883,
+    "lon": 125.138642,
+    "type": "small_airport",
+    "distance_km": 155.3
+   },
+   {
+    "name": "Songyuan Chaganhu Airport",
+    "iata": "YSQ",
+    "city": "Qian Gorlos Mongol Autonomous County",
+    "country": "CN",
+    "lat": 44.931143,
+    "lon": 124.552121,
+    "type": "medium_airport",
+    "distance_km": 186.7
+   }
+  ],
+  "nearest_airport_km": 33.3,
+  "high_speed_stations": [
+   {
+    "name": "哈尔滨",
+    "name_en": "Harbin",
+    "lat": 45.7600422,
+    "lon": 126.6254465,
+    "distance_km": 3.7,
+    "operator": "中国铁路哈尔滨局集团有限公司 哈尔滨站",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "滨江",
+    "name_en": "Binjiang",
+    "lat": 45.7792087,
+    "lon": 126.6566468,
+    "distance_km": 4.2,
+    "operator": "中国铁路哈尔滨局集团有限公司 哈尔滨车务段",
+    "high_speed": false
+   },
+   {
+    "name": "庙台子",
+    "name_en": null,
+    "lat": 45.8306259,
+    "lon": 126.569333,
+    "distance_km": 5.2,
+    "operator": "中国铁路哈尔滨局集团有限公司 哈尔滨车务段",
+    "high_speed": false
+   },
+   {
+    "name": "太平桥",
+    "name_en": null,
+    "lat": 45.7925769,
+    "lon": 126.6813483,
+    "distance_km": 5.9,
+    "operator": "中国铁路哈尔滨局集团有限公司 哈尔滨车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Shangri-La Hotel",
+   "name_en": "Shangri-La Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 45.7627647,
+   "lon": 126.5897876,
+   "distance_km": 3.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "哈尔滨香格里拉",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 45.7628041,
+   "lon": 126.5894241,
+   "distance_km": 3.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "富力 丽思卡尔顿酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 45.7565923,
+   "lon": 126.5832015,
+   "distance_km": 4.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "哈尔滨松北香格里拉酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 45.8006307,
+   "lon": 126.5493684,
+   "distance_km": 4.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW万豪酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 45.7962823,
+   "lon": 126.522687,
+   "distance_km": 6.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 95,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/太阳岛"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

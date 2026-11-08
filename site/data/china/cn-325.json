@@ -1,0 +1,168 @@
+{
+ "id": "cn-325",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "安徽省",
+ "province_en": "Anhui",
+ "province_iso": "CN-AH",
+ "city_zh": "阜阳市",
+ "city_en": "Fuyang City",
+ "name_zh": "阜阳市八里河风景区",
+ "name_en": "Fuyang",
+ "name_en_source": "wikipedia",
+ "slug": "fuyangshibalihe-325",
+ "lat": 32.567479,
+ "lon": 116.321721,
+ "address_zh": "安徽省阜阳市颍上县",
+ "address_en": "Yingshang County, Fuyang City, Anhui Province",
+ "address_en_source": "machine_translation",
+ "category": "garden",
+ "category_zh": "皇家园林",
+ "category_en": "Royal garden",
+ "intro_zh": "颍上八里河景区主园区包含“世界风光”“锦绣中华”“碧波游览区”“鸟语林”等景点碧波万顷，风光旖旎。八里河景区融中西建筑于一体，尽现建筑文化和园林文化的魅力。",
+ "intro_en": "Fuyang (simplified Chinese: 阜阳; traditional Chinese: 阜陽; pinyin: , previously romanized as Fowyang) is a prefecture-level city in northwestern Anhui province, China. It is bordered by Henan province to the west and the cities of Bozhou to the northeast, Huainan to the southeast, and Lu'an to the south. Its population was 8,200,264 inhabitants at the 2020 census whom 2,128,538 lived in the built-up (or metro) area made of 3 urban districts Yingzhou, Yingdong and Yingquan.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fuyang_Anhui_Downtown_Area_Walkway.jpeg/1280px-Fuyang_Anhui_Downtown_Area_Walkway.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fuyang Anhui Downtown Area Walkway.jpeg",
+   "author": "Huihermit",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_Anhui_Downtown_Area_Walkway.jpeg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/China_Anhui_Fuyang.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "China Anhui Fuyang.png",
+   "author": "Sino0phile",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:China_Anhui_Fuyang.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fuyang_Anhui_Bridge.jpeg/1280px-Fuyang_Anhui_Bridge.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fuyang Anhui Bridge.jpeg",
+   "author": "Huihermit",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_Anhui_Bridge.jpeg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Fuyang_City_Skyline_%2820240930%29.jpg/1280px-Fuyang_City_Skyline_%2820240930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fuyang City Skyline (20240930).jpg",
+   "author": "Fumikas Sagisavas",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_City_Skyline_%2820240930%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Fuyang_Museum_2015.jpeg/1280px-Fuyang_Museum_2015.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Fuyang Museum 2015.jpeg",
+   "author": "Huihermit",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_Museum_2015.jpeg"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.balihe.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fuyang Xiguan Airport",
+    "iata": "FUG",
+    "city": "Yingzhou, Fuyang",
+    "country": "CN",
+    "lat": 32.882157,
+    "lon": 115.734364,
+    "type": "medium_airport",
+    "distance_km": 65.1
+   },
+   {
+    "name": "Hefei Xinqiao International Airport",
+    "iata": "HFE",
+    "city": "Hefei",
+    "country": "CN",
+    "lat": 31.98779,
+    "lon": 116.9769,
+    "type": "large_airport",
+    "distance_km": 89.2
+   },
+   {
+    "name": "Bengbu Tenghu Airport",
+    "iata": "BFY",
+    "city": "Bengbu",
+    "country": "CN",
+    "lat": 33.166292,
+    "lon": 117.058344,
+    "type": "medium_airport",
+    "distance_km": 95.7
+   }
+  ],
+  "nearest_airport_km": 65.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "颍上北",
+    "name_en": null,
+    "lat": 32.68115,
+    "lon": 116.2058955,
+    "distance_km": 16.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "谢桥",
+    "name_en": null,
+    "lat": 32.7249251,
+    "lon": 116.4025846,
+    "distance_km": 19.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "颍上",
+    "name_en": "Yingshang",
+    "lat": 32.7413981,
+    "lon": 116.3013822,
+    "distance_km": 19.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/阜阳市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

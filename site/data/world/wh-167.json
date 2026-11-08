@@ -1,0 +1,162 @@
+{
+ "id": "wh-167",
+ "unesco_id": "167",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 620,
+ "popularity_score": 8903,
+ "country": "AU",
+ "country_zh": "澳大利亚",
+ "country_en": "Australia",
+ "countries": [
+  {
+   "iso2": "AU",
+   "zh": "澳大利亚",
+   "en": "Australia"
+  }
+ ],
+ "region": "Balranald and Wentworth shires, New South Wales",
+ "subdivision_iso": "AU-NSW",
+ "subdivision_zh": "新南威尔士州",
+ "subdivision_en": "New South Wales",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "威兰德拉湖区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Willandra Lakes Region",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "167-willandra_lakes_region",
+ "lat": -33.618142,
+ "lon": 143.101406,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(iii)(viii)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该湖区有更新世(the Pleistocene)系列湖泊和沙滩构造的化石，考古研究还发现了4.5至6万年前人类居住的证据。这对于研究澳洲大陆人类进化史有着里程碑式的意义。湖区还有一些保存完好的大型有袋动物化石。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The fossil remains of a series of lakes and sand formations that date from the Pleistocene can be found in this region, together with archaeological evidence of human occupation dating from 45–60,000 years ago. It is a unique landmark in the study of human evolution on the Australian continent. Several well-preserved fossils of giant marsupials have also been found here.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Willandra%20Lakes.png?width=1280",
+   "title": "Willandra Lakes.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Willandra%20Lakes.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_167.jpg",
+   "title": "Willandra Lakes Region",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/167",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/167",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mildura Airport",
+    "iata": "MQL",
+    "city": "Mildura",
+    "country": "AU",
+    "lat": -34.229198455799995,
+    "lon": 142.085998535,
+    "type": "medium_airport",
+    "distance_km": 115.7
+   },
+   {
+    "name": "Broken Hill Airport",
+    "iata": "BHQ",
+    "city": "Broken Hill",
+    "country": "AU",
+    "lat": -32.0013999939,
+    "lon": 141.472000122,
+    "type": "medium_airport",
+    "distance_km": 235.6
+   },
+   {
+    "name": "Griffith Airport",
+    "iata": "GFF",
+    "city": "Griffith",
+    "country": "AU",
+    "lat": -34.2508010864,
+    "lon": 146.067001343,
+    "type": "medium_airport",
+    "distance_km": 282.5
+   }
+  ],
+  "nearest_airport_km": 115.7,
+  "distance_beijing_km": 8667.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AU",
+  "country_zh": "澳大利亚",
+  "country_en": "Australia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa required[6]",
+  "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AU",
+   "country_zh": "澳大利亚",
+   "country_en": "Australia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa required[6]",
+   "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[15] Visas are issued for 1,3,5 or 10-year validity period for Chinese citizens and a 10-year visa required for additional bio-data enrollment at the visa application centres out of mainland China due to the visa application centr"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/167"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Willandra%20Lakes%20Region"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

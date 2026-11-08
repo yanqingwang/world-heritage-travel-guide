@@ -1,0 +1,176 @@
+{
+ "id": "wh-725",
+ "unesco_id": "725",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 652,
+ "popularity_score": 7293,
+ "country": "HU",
+ "country_zh": "匈牙利",
+ "country_en": "Hungary",
+ "countries": [
+  {
+   "iso2": "HU",
+   "zh": "匈牙利",
+   "en": "Hungary"
+  },
+  {
+   "iso2": "SK",
+   "zh": "斯洛伐克",
+   "en": "Slovakia"
+  }
+ ],
+ "region": "Districts of Rožnava and Spišská Nová Ves, Region of Košice (SK)",
+ "subdivision_iso": "HU-BZ",
+ "subdivision_zh": "包尔绍德-奥包乌伊-曾普伦州",
+ "subdivision_en": "Borsod-Abaúj-Zemplén County",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿格泰列克洞穴和斯洛伐克喀斯特地貌",
+ "name_zh_source": "unesco_official",
+ "name_en": "Caves of Aggtelek Karst and Slovak Karst",
+ "name_local": "Az Aggteleki-karszt és a Szlovák-karszt barlangjai",
+ "local_lang": "hu",
+ "local_lang_name": "Hungarian",
+ "slug": "725-caves_of_aggtelek_karst_and_slovak_karst",
+ "lat": 48.471776789,
+ "lon": 20.495324815,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "1995",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "变化多端的岩层结构以及顺序排列在有限空间内的712个洞穴，为我们描绘出一幅温带喀斯特的神奇景观。作为热带与冰河气候共同作用下的一种极其奇特的组合，该地貌使人们研究几千万年以来的地貌历史成为可能。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The variety of formations and the fact that they are concentrated in a restricted area means that the 712 caves currently identified make up a typical temperate-zone karstic system. Because they display an extremely rare combination of tropical and glacial climatic effects, they make it possible to study geological history over tens of millions of years.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Magyarország és Szlovákia közös felterjesztése alapján 1995-ben kerültek az UNESCO világörökség listájára a Gömör–Tornai-karszt, tehát az Aggteleki-karszt és a Szlovák-karszt (Tornai-karszt) barlangjai.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Domica%20Cave%2022.jpg?width=1280",
+   "title": "Domica Cave 22.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Domica%20Cave%2022.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_725.jpg",
+   "title": "Caves of Aggtelek Karst and Slovak Karst",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/725",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/725",
+ "transport": {
+  "airports": [
+   {
+    "name": "Košice International Airport",
+    "iata": "KSC",
+    "city": "Košice",
+    "country": "SK",
+    "lat": 48.663101,
+    "lon": 21.2411,
+    "type": "medium_airport",
+    "distance_km": 58.9
+   },
+   {
+    "name": "Poprad-Tatry Airport",
+    "iata": "TAT",
+    "city": "Poprad",
+    "country": "SK",
+    "lat": 49.070994,
+    "lon": 20.241394,
+    "type": "medium_airport",
+    "distance_km": 69.2
+   },
+   {
+    "name": "Sliač Airport",
+    "iata": "SLD",
+    "city": "Sliač",
+    "country": "SK",
+    "lat": 48.63779830932617,
+    "lon": 19.13409996032715,
+    "type": "medium_airport",
+    "distance_km": 101.9
+   }
+  ],
+  "nearest_airport_km": 58.9,
+  "distance_beijing_km": 7130.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "HU",
+  "country_zh": "匈牙利",
+  "country_en": "Hungary",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "HU",
+   "country_zh": "匈牙利",
+   "country_en": "Hungary",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "SK",
+   "country_zh": "斯洛伐克",
+   "country_en": "Slovakia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "hu",
+  "local_lang_name": "Hungarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 35
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/725"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caves%20of%20Aggtelek%20Karst%20and%20Slovak%20Karst"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

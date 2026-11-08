@@ -1,0 +1,138 @@
+{
+ "id": "cn-1087",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖南省",
+ "province_en": "Hunan",
+ "province_iso": "CN-HN",
+ "city_zh": "湘西土家族苗族自治州",
+ "city_en": "Xiangxi Tujia and Miao Autonomous Prefecture",
+ "name_zh": "湘西州吉首市矮寨•十八洞•德夯大峡谷景区",
+ "name_en": "Aizhai·shibadong·dehangdaxiagujingqu Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "xiangxizhoujishoushiaizhai-shibadong-dehangdaxiagu-1087",
+ "lat": 28.345107,
+ "lon": 109.593699,
+ "address_zh": "湖南省湘西土家族苗族自治州",
+ "address_en": "Xiangxi Tujia and Miao Autonomous Prefecture, Hunan Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "矮寨•十八洞•德夯大峡谷景区位于湘西世界地质公园的核心区，由矮寨大桥、精准扶贫首倡地十八洞村、“天下鼓乡、天然氧吧”德夯大峡谷等景区共同组成。",
+ "intro_en": "Aizhai·Shibadong·Dehang Grand Canyon Scenic Area is located in the core area of ​​Xiangxi Global Geopark. It consists of Aizhai Bridge, Shibadong Village, the first place for targeted poverty alleviation, and Dehang Grand Canyon, the \"Tianxia Gu Township, Natural Oxygen Bar\".",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xiangxi Biancheng Airport",
+    "iata": "DXJ",
+    "city": "Xiangxi",
+    "country": "CN",
+    "lat": 28.4972,
+    "lon": 109.5218,
+    "type": "small_airport",
+    "distance_km": 18.3
+   },
+   {
+    "name": "Tongren Fenghuang Airport",
+    "iata": "TEN",
+    "city": "Tongren (Daxing)",
+    "country": "CN",
+    "lat": 27.883333,
+    "lon": 109.308889,
+    "type": "medium_airport",
+    "distance_km": 58.5
+   },
+   {
+    "name": "Huaihua Zhijiang Airport",
+    "iata": "HJJ",
+    "city": "Huaihua",
+    "country": "CN",
+    "lat": 27.443087,
+    "lon": 109.704666,
+    "type": "medium_airport",
+    "distance_km": 100.9
+   }
+  ],
+  "nearest_airport_km": 18.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "吉首",
+    "name_en": "Jishou",
+    "lat": 28.32736,
+    "lon": 109.730501,
+    "distance_km": 13.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "吉首南",
+    "name_en": "Jishounan",
+    "lat": 28.2578343,
+    "lon": 109.6999133,
+    "distance_km": 14.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "吉首东",
+    "name_en": "Jishoudong",
+    "lat": 28.2191531,
+    "lon": 109.7227893,
+    "distance_km": 18.9,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "JinHuang Hotel",
+   "name_en": "JinHuang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 28.3202999,
+   "lon": 109.725905,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/矮寨·十八洞·德夯大峡谷景区"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

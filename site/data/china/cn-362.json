@@ -1,0 +1,190 @@
+{
+ "id": "cn-362",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "商丘市",
+ "city_en": "Shangqiu City",
+ "name_zh": "商丘市芒砀山汉文化旅游景区",
+ "name_en": "Shangqiu",
+ "name_en_source": "wikipedia",
+ "slug": "shangqiushimangdangshanhanwenhua-362",
+ "lat": 34.176129,
+ "lon": 116.522746,
+ "address_zh": "商丘市永城市芒山镇",
+ "address_en": "Mangshan Town, Yongcheng City, Shangqiu City",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "芒砀山景区是集山水观光、文化观赏、生态休闲于一体的综合性旅游景区，面积为14平方公里，主要有世界上规模最大的地下西汉梁王陵墓群——汉梁王陵景区、刘邦斩蛇处、大汉雄风景区、芒砀山地质公园、陈胜园景区、夫子山景区、僖山景区等景点。",
+ "intro_en": "Shangqiu (Chinese: 商丘), alternately romanized as Shangkiu, is a city in eastern Henan province, Central China. It borders Kaifeng to the northwest, Zhoukou to the southwest, and the provinces of Shandong and Anhui to the northeast and southeast respectively. Its population was 7,816,831 inhabitants as of the 2020 Chinese census, of whom 2,831,814 lived in the built-up (or metro) area made up of two urban districts (Liangyuan and Suiyang) and Yucheng county now being conurbated. Shangqiu and surrounding area was an important base for the Shang dynasty (c. 1600 – c. 1046 BC), and the city itself was established more than three millennia ago. Shangqiu has grown significantly in recent years. It is located at an important location at the junction of several major railways, making it a major regional transportation hub.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/20220726_Historic_City_of_Shangqiu_01.jpg/1280px-20220726_Historic_City_of_Shangqiu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20220726 Historic City of Shangqiu 01.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20220726_Historic_City_of_Shangqiu_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/1511_Shangqiu_City_Wall_%26_South_Gate.jpg/1280px-1511_Shangqiu_City_Wall_%26_South_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1511 Shangqiu City Wall & South Gate.jpg",
+   "author": "Gary Todd",
+   "license": "CC0",
+   "credit": "https://www.flickr.com/photos/101561334@N08/10286967934/",
+   "source": "https://commons.wikimedia.org/wiki/File:1511_Shangqiu_City_Wall_%26_South_Gate.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/20251016_Shangqiu_Catholic_Church_01.jpg/1280px-20251016_Shangqiu_Catholic_Church_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20251016 Shangqiu Catholic Church 01.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20251016_Shangqiu_Catholic_Church_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/20251016_Shangqiu_Catholic_Church_02.jpg/1280px-20251016_Shangqiu_Catholic_Church_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20251016 Shangqiu Catholic Church 02.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20251016_Shangqiu_Catholic_Church_02.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/20251016_Shangqiu_Catholic_Church_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "20251016 Shangqiu Catholic Church 03.jpg",
+   "author": "Windmemories",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20251016_Shangqiu_Catholic_Church_03.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xuzhou Guanyin International Airport",
+    "iata": "XUZ",
+    "city": "Xuzhou",
+    "country": "CN",
+    "lat": 34.059056,
+    "lon": 117.555278,
+    "type": "medium_airport",
+    "distance_km": 95.9
+   },
+   {
+    "name": "Bengbu Tenghu Airport",
+    "iata": "BFY",
+    "city": "Bengbu",
+    "country": "CN",
+    "lat": 33.166292,
+    "lon": 117.058344,
+    "type": "medium_airport",
+    "distance_km": 122.7
+   },
+   {
+    "name": "Heze Mudan Airport",
+    "iata": "HZA",
+    "city": "Heze (Dingtao)",
+    "country": "CN",
+    "lat": 35.212972,
+    "lon": 115.736748,
+    "type": "medium_airport",
+    "distance_km": 135.9
+   }
+  ],
+  "nearest_airport_km": 95.9,
+  "high_speed_stations": [
+   {
+    "name": "永城北",
+    "name_en": null,
+    "lat": 34.2178054,
+    "lon": 116.515113,
+    "distance_km": 4.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "薛湖",
+    "name_en": null,
+    "lat": 34.1330077,
+    "lon": 116.3889103,
+    "distance_km": 13.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "姚楼",
+    "name_en": null,
+    "lat": 34.0029913,
+    "lon": 116.4111647,
+    "distance_km": 21.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "陈四楼",
+    "name_en": null,
+    "lat": 34.0110426,
+    "lon": 116.383599,
+    "distance_km": 22.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "光明大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.9229354,
+   "lon": 116.4351789,
+   "distance_km": 29.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/商丘市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

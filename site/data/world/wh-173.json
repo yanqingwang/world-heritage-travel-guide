@@ -1,0 +1,154 @@
+{
+ "id": "wh-173",
+ "unesco_id": "173",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1021,
+ "popularity_score": null,
+ "country": "TZ",
+ "country_zh": "坦桑尼亚",
+ "country_en": "Tanzania",
+ "countries": [
+  {
+   "iso2": "TZ",
+   "zh": "坦桑尼亚",
+   "en": "Tanzania"
+  }
+ ],
+ "region": "Zanzibar",
+ "subdivision_iso": "TZ-15",
+ "subdivision_zh": "",
+ "subdivision_en": "Zanzibar Urban/West",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "桑给巴尔石头城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Stone Town of Zanzibar",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "173-stone_town_of_zanzibar",
+ "lat": -6.1649444444444,
+ "lon": 39.198788888889,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(vi)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在东非斯瓦希里沿岸的贸易城镇中，桑给巴尔石头镇是一个典型代表。它的城市结构和景观至今未变，包括许多反映它独特文化的精美建筑。这些建筑已有了上千年的历史，它们被建造在一起，从而使非洲、阿拉伯、印度、欧洲这些风格迥异的文化因素融为一体。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_173.jpg",
+   "title": "Stone Town of Zanzibar",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/173",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/173",
+ "transport": {
+  "airports": [
+   {
+    "name": "Abeid Amani Karume International Airport",
+    "iata": "ZNZ",
+    "city": "Zanzibar",
+    "country": "TZ",
+    "lat": -6.22202,
+    "lon": 39.224899,
+    "type": "large_airport",
+    "distance_km": 7.0
+   },
+   {
+    "name": "Julius Nyerere International Airport",
+    "iata": "DAR",
+    "city": "Dar es Salaam",
+    "country": "TZ",
+    "lat": -6.873499,
+    "lon": 39.207288,
+    "type": "large_airport",
+    "distance_km": 78.8
+   },
+   {
+    "name": "Tanga Airport",
+    "iata": "TGT",
+    "city": "Tanga",
+    "country": "TZ",
+    "lat": -5.09236,
+    "lon": 39.071201,
+    "type": "medium_airport",
+    "distance_km": 120.1
+   }
+  ],
+  "nearest_airport_km": 7.0,
+  "distance_beijing_km": 9390.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TZ",
+  "country_zh": "坦桑尼亚",
+  "country_en": "Tanzania",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6][146]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TZ",
+   "country_zh": "坦桑尼亚",
+   "country_en": "Tanzania",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6][146]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/173"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

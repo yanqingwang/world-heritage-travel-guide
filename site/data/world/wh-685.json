@@ -1,0 +1,162 @@
+{
+ "id": "wh-685",
+ "unesco_id": "685",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 342,
+ "popularity_score": 25190,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Provinces of Huelva and Sevilla, Autonomous Community of Andalusia",
+ "subdivision_iso": "ES-AN",
+ "subdivision_zh": "安达卢西亚",
+ "subdivision_en": "Andalusia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "多南那国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Doñana National Park",
+ "name_local": "Parque Nacional de Doñana",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "685-doñana_national_park",
+ "lat": 37.02,
+ "lon": -6.44,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1994",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "安达卢西亚的多南那国家公园位于瓜达尔基维尔河汇入大西洋入海口的右岸。该国家公园以生态系统的多样性而著称，这里有环礁湖、沼泽地、固定和移动的沙丘、丛林地和灌木地带。这里还生活着5种濒危鸟类，同时，此地还是地中海地区最大的鸟类蛋孵化地之一，每年都有超过50万只水禽在这里栖息越冬。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Doñana National Park in Andalusia occupies the right bank of the Guadalquivir river at its estuary on the Atlantic Ocean. It is notable for the great diversity of its biotopes, especially lagoons, marshlands, fixed and mobile dunes, scrub woodland and maquis. It is home to five threatened bird species. It is one of the largest heronries in the Mediterranean region and is the wintering site for more than 500,000 water fowl each year.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situado en Andalucía, el parque de Doñana ocupa la margen derecha del estuario del río Guadalquivir, cerca de su desembocadura en el Atlántico. Es notable por la gran variedad de sus biotopos: lagunas, marismas, matorrales, monte bajo mediterráneo y dunas móviles y fijas. Es el hábitat de cinco especies de aves en peligro de extinción, posee una de las mayores poblaciones de garzas de la región mediterránea y sirve de refugio invernal a más de medio millón de aves acuáticas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20de%20las%20marismas%20del%20Parque%20Do%C3%B1ana.jpg?width=1280",
+   "title": "Vista de las marismas del Parque Doñana.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vista%20de%20las%20marismas%20del%20Parque%20Do%C3%B1ana.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_685.jpg",
+   "title": "Doñana National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/685",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/685",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jerez Airport",
+    "iata": "XRY",
+    "city": "Jerez de la Frontera",
+    "country": "ES",
+    "lat": 36.744598,
+    "lon": -6.06011,
+    "type": "medium_airport",
+    "distance_km": 45.6
+   },
+   {
+    "name": "Seville Airport",
+    "iata": "SVQ",
+    "city": "Seville",
+    "country": "ES",
+    "lat": 37.417999,
+    "lon": -5.89311,
+    "type": "large_airport",
+    "distance_km": 65.6
+   },
+   {
+    "name": "Faro - Gago Coutinho International Airport",
+    "iata": "FAO",
+    "city": "Faro",
+    "country": "PT",
+    "lat": 37.015909,
+    "lon": -7.970939,
+    "type": "large_airport",
+    "distance_km": 135.9
+   }
+  ],
+  "nearest_airport_km": 45.6,
+  "distance_beijing_km": 9660.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 50
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/685"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Do%C3%B1ana%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

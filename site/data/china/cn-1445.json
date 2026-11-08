@@ -1,0 +1,234 @@
+{
+ "id": "cn-1445",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "上海市",
+ "province_en": "Shanghai",
+ "province_iso": "CN-SH",
+ "city_zh": "浦东新区",
+ "city_en": "Pudong New Area",
+ "name_zh": "上海科技馆",
+ "name_en": "Shanghai Science and Technology Museum",
+ "name_en_source": "wikipedia",
+ "slug": "shanghaikejiguan-1445",
+ "lat": 31.224806,
+ "lon": 121.551321,
+ "address_zh": "上海市浦东新区世纪大道2000号",
+ "address_en": "No. 2000, Century Avenue, Pudong New Area, Shanghai",
+ "address_en_source": "machine_translation",
+ "category": "folk",
+ "category_zh": "民俗文化",
+ "category_en": "Folk culture",
+ "intro_zh": "上海科技馆坐落于上海浦东新区行政文化中心的世纪广场。上海科技馆的每个展区都是一个人们关注的社会话题；每个展品，都是一个引人入胜的互动游戏。大到宇宙苍穹，小到细胞基因等科学基本原理和重大科技成果都能在这里得到生动形象的展示，让游人在休闲娱乐中得到启迪。",
+ "intro_en": "Shanghai Science and Technology Museum is a large museum in Pudong, Shanghai, close to Century Park, the largest park within the inner districts of the city. It is one of China's most-visited museums. It received 1,351,000 visitors in 2020, despite a fall of attendance of 72 percent from 2019 due to restrictions and reduced tourism imposed by the COVID-19 pandemic.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Shanghai_-_Shanghai_Science_and_Technology_Museum_Exterior_Photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Shanghai - Shanghai Science and Technology Museum Exterior Photo.jpg",
+   "author": "Greg Peterson",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/greggypetty/4879617522/",
+   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Science_and_Technology_Museum_Exterior_Photo.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/200103_Shanghai_Metro_line_2_train_passing_Shanghai_Science_and_Technology_Museum_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "200103 Shanghai Metro line 2 train passing Shanghai Science and Technology Museum station.jpg",
+   "author": "Ian BLACK from I-LAN, Taiwan",
+   "license": "CC BY 2.0",
+   "credit": "Flickr",
+   "source": "https://commons.wikimedia.org/wiki/File:200103_Shanghai_Metro_line_2_train_passing_Shanghai_Science_and_Technology_Museum_station.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/201504_Shanghai_Science_and_Technology_Museum_station_concourse.jpg/1280px-201504_Shanghai_Science_and_Technology_Museum_station_concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "201504 Shanghai Science and Technology Museum station concourse.jpg",
+   "author": "::::=UT=::::",
+   "license": "CC BY-SA 3.0",
+   "credit": "https://web.archive.org/web/20161102075344/http://www.panoramio.com/photo/124276877",
+   "source": "https://commons.wikimedia.org/wiki/File:201504_Shanghai_Science_and_Technology_Museum_station_concourse.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/A_newly_installed_LED_signal_at_Shanghai_Science_and_Technology_Museum_Station_of_Shanghai_Metro_Line_2.jpg/1280px-A_newly_installed_LED_signal_at_Shanghai_Science_and_Technology_Museum_Station_of_Shanghai_Metro_Line_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A newly installed LED signal at Shanghai Science and Technology Museum Station of Shanghai Metro Line 2.jpg",
+   "author": "Antigng",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_newly_installed_LED_signal_at_Shanghai_Science_and_Technology_Museum_Station_of_Shanghai_Metro_Line_2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shanghai_Science_and_Technology_Museum.jpg/1280px-Shanghai_Science_and_Technology_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Shanghai Science and Technology Museum.jpg",
+   "author": "Empire Du Milieu",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Science_and_Technology_Museum.jpg"
+  }
+ ],
+ "web": "http://group.sstm.org.cn",
+ "booking": "http://group.sstm.org.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Shanghai Hongqiao International Airport",
+    "iata": "SHA",
+    "city": "Shanghai (Minhang)",
+    "country": "CN",
+    "lat": 31.198104,
+    "lon": 121.33426,
+    "type": "large_airport",
+    "distance_km": 20.9
+   },
+   {
+    "name": "Shanghai Pudong International Airport",
+    "iata": "PVG",
+    "city": "Shanghai (Pudong)",
+    "country": "CN",
+    "lat": 31.1434,
+    "lon": 121.805,
+    "type": "large_airport",
+    "distance_km": 25.8
+   },
+   {
+    "name": "Jiaxing Nanhu Airport",
+    "iata": "JNH",
+    "city": "Xiuzhou, Hangzhou",
+    "country": "CN",
+    "lat": 30.698056,
+    "lon": 120.663056,
+    "type": "medium_airport",
+    "distance_km": 103.0
+   }
+  ],
+  "nearest_airport_km": 20.9,
+  "high_speed_stations": [
+   {
+    "name": "上海",
+    "name_en": "Shanghai",
+    "lat": 31.2515568,
+    "lon": 121.4511645,
+    "distance_km": 10.0,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "龙阳路",
+    "name_en": "Longyang Road",
+    "lat": 31.2046984,
+    "lon": 121.5535315,
+    "distance_km": 2.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杨浦",
+    "name_en": null,
+    "lat": 31.2957694,
+    "lon": 121.5437596,
+    "distance_km": 7.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "殷行",
+    "name_en": null,
+    "lat": 31.3208537,
+    "lon": 121.5400582,
+    "distance_km": 10.7,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "上海东锦江希尔顿逸林酒店",
+   "name_en": "DoubleTree by Hilton Hotel Shanghai - Pudong",
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 31.2130198,
+   "lon": 121.5299452,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海外滩瑞吉酒店",
+   "name_en": "The St. Regis on the Bund, Shanghai",
+   "stars": 5,
+   "brand": "St. Regis",
+   "lat": 31.2297867,
+   "lon": 121.4922745,
+   "distance_km": 5.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "华尔道夫酒店",
+   "name_en": "Waldorf-Astoria Shanghai on the Bund",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.2357244,
+   "lon": 121.4863051,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海外滩 W 酒店",
+   "name_en": "W Shanghai - The Bund",
+   "stars": 5,
+   "brand": "W Hotels",
+   "lat": 31.2509402,
+   "lon": 121.4919839,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海威斯汀大饭店",
+   "name_en": "The Westin Bund Center, Shanghai",
+   "stars": 5,
+   "brand": "Westin",
+   "lat": 31.2343476,
+   "lon": 121.4824564,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 632,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/上海科技馆"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

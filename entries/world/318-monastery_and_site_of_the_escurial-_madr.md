@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(vi)"
 lat: 40.58916667
 lon: -4.14777778
-updated_at: "2026-11-08T12:18:54Z"
+updated_at: "2026-11-08T14:52:24Z"
 ---
 
 # 德里埃斯科里亚尔修道院和遗址 / Monastery and Site of the Escurial, Madrid

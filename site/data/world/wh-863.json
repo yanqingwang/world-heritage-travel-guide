@@ -1,0 +1,162 @@
+{
+ "id": "wh-863",
+ "unesco_id": "863",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1182,
+ "popularity_score": null,
+ "country": "EC",
+ "country_zh": "厄瓜多尔",
+ "country_en": "Ecuador",
+ "countries": [
+  {
+   "iso2": "EC",
+   "zh": "厄瓜多尔",
+   "en": "Ecuador"
+  }
+ ],
+ "region": "Province of Azuay",
+ "subdivision_iso": "EC-A",
+ "subdivision_zh": "阿苏艾省",
+ "subdivision_en": "Azuay Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "昆卡的洛斯－里奥斯的圣安娜历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Santa Ana de los Ríos de Cuenca",
+ "name_local": "Centro histórico de Santa Ana de los Ríos de Cuenca",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "863-historic_centre_of_santa_ana_de_los_ríos",
+ "lat": -2.8979,
+ "lon": -79.0049,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "昆卡的洛斯－里奥斯的圣安娜位于厄瓜多尔南部安第斯山环绕的一个山谷里，始建于1557年，是典型的内陆殖民地城镇，如今是厄瓜多尔第三大城市。城市的建造严格遵守了30年前西班牙国王查尔斯·冯·昆卡(Charles V. Cuenca)制定的垂直城市规划原则，并于后来的400年间一直沿袭了当初的规划。作为这个地区的农业和行政中心之一，该历史中心是当地居民和外来移民的大熔炉。昆卡的建筑大多始建于18世纪，到19世纪时这里成为奎宁、草帽以及其他产品的主要出口港，经济上的繁荣也推动了城市建筑的现代化。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Santa Ana de los Ríos de Cuenca is set in a valley surrounded by the Andean mountains in the south of Ecuador. This inland colonial town ( entroterra ), now the country's third city, was founded in 1557 on the rigorous planning guidelines issued 30 years earlier by the Spanish king Charles V. Cuenca still observes the formal orthogonal town plan that it has respected for 400 years. One of the region's agricultural and administrative centres, it has been a melting pot for local and immigrant populations. Cuenca's architecture, much of which dates from the 18th century, was 'modernized' in the economic prosperity of the 19th century as the city became a major exporter of quinine, straw hats and other products.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Santa Ana de los Ríos de Cuenca está enclavada en un valle de la cordillera de los Andes, al sur de Ecuador. Esta ciudad colonial “de tierra adentro” –que es hoy la tercera en importancia del país– fue fundada en 1557, de conformidad con la estricta normativa urbanística promulgada treinta años antes por el emperador Carlos V. El trazado urbano de la ciudad se sigue ajustando al plan ortogonal establecido 400 años atrás. Cuenca es hoy un centro agrícola y administrativo regional, en el que la población local se ha mezclado con sucesivas generaciones de emigrantes. La mayor parte de sus edificios datan del siglo XVIII, pero la arquitectura urbana se modernizó con la prosperidad económica de que se benefició la ciudad en el siglo XIX, cuando se convirtió en un centro de exportación importante de quinina, sombreros de jipijapa y otros productos.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sobrado%20tipo%20franc%C3%AAs.JPG?width=1280",
+   "title": "Sobrado tipo francês.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sobrado%20tipo%20franc%C3%AAs.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_863.jpg",
+   "title": "Historic Centre of Santa Ana de los Ríos de Cuenca",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/863",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/863",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mariscal Lamar Airport",
+    "iata": "CUE",
+    "city": "Cuenca",
+    "country": "EC",
+    "lat": -2.88947,
+    "lon": -78.984398,
+    "type": "medium_airport",
+    "distance_km": 2.5
+   },
+   {
+    "name": "Coronel E Carvajal Airport",
+    "iata": "XMS",
+    "city": "Macas",
+    "country": "EC",
+    "lat": -2.2991700172424316,
+    "lon": -78.12079620361328,
+    "type": "medium_airport",
+    "distance_km": 118.6
+   },
+   {
+    "name": "Santa Rosa - Artillery Colonel Victor Larrea International Airport",
+    "iata": "ETR",
+    "city": "Santa Rosa",
+    "country": "EC",
+    "lat": -3.441986,
+    "lon": -79.996957,
+    "type": "medium_airport",
+    "distance_km": 125.7
+   }
+  ],
+  "nearest_airport_km": 2.5,
+  "distance_beijing_km": 15592.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "EC",
+  "country_zh": "厄瓜多尔",
+  "country_en": "Ecuador",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa[6]",
+  "notes": "Effective from 1 July 2024, Ecuador reinstates visa requirements for Chinese citizens.[46]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "EC",
+   "country_zh": "厄瓜多尔",
+   "country_en": "Ecuador",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6]",
+   "notes": "Effective from 1 July 2024, Ecuador reinstates visa requirements for Chinese citizens.[46]"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 4
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/863"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

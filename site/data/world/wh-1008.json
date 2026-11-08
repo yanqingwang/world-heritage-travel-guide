@@ -1,0 +1,162 @@
+{
+ "id": "wh-1008",
+ "unesco_id": "1008",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 788,
+ "popularity_score": 3499,
+ "country": "CU",
+ "country_zh": "古巴",
+ "country_en": "Cuba",
+ "countries": [
+  {
+   "iso2": "CU",
+   "zh": "古巴",
+   "en": "Cuba"
+  }
+ ],
+ "region": "Santiago and Guantanamo Provinces, South-Eastern Region",
+ "subdivision_iso": "CU-13",
+ "subdivision_zh": "圣地亚哥省",
+ "subdivision_en": "Santiago de Cuba Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "古巴东南第一个咖啡种植园考古风景区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
+ "name_local": "Paisaje arqueológico de las primeras plantaciones de caféen el sudeste de Cuba",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "1008-archaeological_landscape_of_the_first_co",
+ "lat": 20.03,
+ "lon": -75.3914,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个座落在喜瑞拉梅斯特拉(the Sierra Maestra)丘陵间的19世纪咖啡种植园遗迹见证了在不规则土地上进行农业种植的创新形式，清晰地展示了加勒比海地区和拉丁美洲地区经济、社会和技术发展的历史。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The remains of the 19th-century coffee plantations in the foothills of the Sierra Maestra are unique evidence of a pioneer form of agriculture in a difficult terrain. They throw considerable light on the economic, social, and technological history of the Caribbean and Latin American region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Los vestigios de las plantaciones de café del siglo XIX, situados al pie de la Sierra Maestra, constituyen un testimonio excepcional del uso de técnicas agrícolas precursoras en terrenos difíciles. Estos vestigios aclaran aspectos de la historia económica, social y tecnológica del Caribe y América Latina.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuba%20Cafetal%20Isabelica%20P1080153a.jpg?width=1280",
+   "title": "Cuba Cafetal Isabelica P1080153a.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Cuba%20Cafetal%20Isabelica%20P1080153a.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1008.jpg",
+   "title": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1008",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1008",
+ "transport": {
+  "airports": [
+   {
+    "name": "Antonio Maceo International Airport",
+    "iata": "SCU",
+    "city": "Santiago",
+    "country": "CU",
+    "lat": 19.97474,
+    "lon": -75.835504,
+    "type": "large_airport",
+    "distance_km": 46.8
+   },
+   {
+    "name": "Gustavo Rizo Airport",
+    "iata": "BCA",
+    "city": "Baracoa",
+    "country": "CU",
+    "lat": 20.365299224853516,
+    "lon": -74.5062026977539,
+    "type": "medium_airport",
+    "distance_km": 99.6
+   },
+   {
+    "name": "Frank Pais International Airport",
+    "iata": "HOG",
+    "city": "Holguin",
+    "country": "CU",
+    "lat": 20.785148,
+    "lon": -76.315526,
+    "type": "large_airport",
+    "distance_km": 127.8
+   }
+  ],
+  "nearest_airport_km": 46.8,
+  "distance_beijing_km": 13214.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CU",
+  "country_zh": "古巴",
+  "country_en": "Cuba",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CU",
+   "country_zh": "古巴",
+   "country_en": "Cuba",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 32
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1008"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Archaeological%20Landscape%20of%20the%20First%20Coffee%20Plantations%20in%20the%20South-East%20of%20Cuba"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

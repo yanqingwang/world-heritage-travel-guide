@@ -1,0 +1,160 @@
+{
+ "id": "wh-653",
+ "unesco_id": "653",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 311,
+ "popularity_score": 29033,
+ "country": "PH",
+ "country_zh": "菲律宾",
+ "country_en": "Philippines",
+ "countries": [
+  {
+   "iso2": "PH",
+   "zh": "菲律宾",
+   "en": "Philippines"
+  }
+ ],
+ "region": "Municipality of Cagayancillo, Province of Palawan",
+ "subdivision_iso": "PH-PLW",
+ "subdivision_zh": "巴拉望省",
+ "subdivision_en": "Palawan",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "图巴塔哈群礁",
+ "name_zh_source": "wikidata",
+ "name_en": "Tubbataha Reefs Natural Park",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "653-tubbataha_reefs_natural_park",
+ "lat": 8.953333333,
+ "lon": 119.8675,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1993",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "图巴塔哈群礁（Tubbataha Reef）是坐落于菲律宾苏禄海的一处珊瑚环礁。菲律宾设置了图巴塔哈群礁国家海洋公园作为海洋保护区。在世界自然新七大奇迹的竞选中，图巴塔哈群礁曾被提名。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "The Tubbataha Reef Marine Park covers 96,828 ha, including the North and South Atolls and the Jessie Beazley Reef. It is a unique example of an atoll reef with a very high density of marine species; the North Islet serving as a nesting site for birds and marine turtles. The site is an excellent example of a pristine coral reef with a spectacular 100-m perpendicular wall, extensive lagoons and two coral islands.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tubbataha%20Shark.jpg?width=1280",
+   "title": "Tubbataha Shark.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tubbataha%20Shark.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_653.jpg",
+   "title": "Tubbataha Reefs Natural Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/653",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/653",
+ "transport": {
+  "airports": [
+   {
+    "name": "Puerto Princesa International Airport / PAF Antonio Bautista Air Base",
+    "iata": "PPS",
+    "city": "Puerto Princesa",
+    "country": "PH",
+    "lat": 9.742044,
+    "lon": 118.75911,
+    "type": "large_airport",
+    "distance_km": 149.9
+   },
+   {
+    "name": "San Vicente Airport",
+    "iata": "SWL",
+    "city": "San Vicente",
+    "country": "PH",
+    "lat": 10.524298,
+    "lon": 119.272899,
+    "type": "small_airport",
+    "distance_km": 186.4
+   },
+   {
+    "name": "Cuyo Airport",
+    "iata": "CYU",
+    "city": "Cuyo",
+    "country": "PH",
+    "lat": 10.8581,
+    "lon": 121.069,
+    "type": "small_airport",
+    "distance_km": 249.4
+   }
+  ],
+  "nearest_airport_km": 149.9,
+  "distance_beijing_km": 3380.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PH",
+  "country_zh": "菲律宾",
+  "country_en": "Philippines",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required",
+  "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PH",
+   "country_zh": "菲律宾",
+   "country_en": "Philippines",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required",
+   "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/653"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tubbataha%20Reef"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

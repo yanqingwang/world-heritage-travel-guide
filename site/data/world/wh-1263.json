@@ -1,0 +1,141 @@
+{
+ "id": "wh-1263",
+ "unesco_id": "1263",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 361,
+ "popularity_score": 23525,
+ "country": "YE",
+ "country_zh": "也门",
+ "country_en": "Yemen",
+ "countries": [
+  {
+   "iso2": "YE",
+   "zh": "也门",
+   "en": "Yemen"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "YE-SU",
+ "subdivision_zh": "索科特拉省",
+ "subdivision_en": "Socotra Archipelago Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "索科特拉群岛",
+ "name_zh_source": "wikidata",
+ "name_en": "Socotra Archipelago",
+ "name_local": "أرخبيل سقطرى",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1263-socotra_archipelago",
+ "lat": 12.5,
+ "lon": 53.4,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "2008",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "索科特拉群岛位于印度洋西北部，靠近亚丁湾，长 250 公里，由四个岛屿和两个岩石小岛组成，看起来像是非洲之角的延伸。该遗址因其丰富而独特的动植物群的生物多样性而具有普遍重要性：索科特拉岛 825 种植物物种中的 37%、90% 的爬行动物物种和 95% 的陆地蜗牛物种在世界其他任何地方都没有出现。该遗址还支持着全球重要的陆地和海鸟种群（192 种鸟类，其中 44 种在岛屿上繁殖，85 种是定期迁徙鸟类），其中包括许多濒危物种。索科特拉岛的海洋生物也非常多样化，有253种造礁珊瑚、730种沿海鱼类和300种螃蟹、龙虾和虾。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Socotra Archipelago, in the northwest Indian Ocean near the Gulf of Aden, is 250 km long and comprises four islands and two rocky islets which appear as a prolongation of the Horn of Africa. The site is of universal importance because of its biodiversity with rich and distinct flora and fauna: 37% of Socotra’s 825 plant species, 90% of its reptile species and 95% of its land snail species do not occur anywhere else in the world. The site also supports globally significant populations of land and sea birds (192 bird species, 44 of which breed on the islands while 85 are regular migrants), including a number of threatened species. The marine life of Socotra is also very diverse, with 253 species of reef-building corals, 730 species of coastal fish and 300 species of crab, lobster and shrimp.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يقع في شمال غرب المحيط الهندي، بالقرب من خليج عدن، ويمتد على مساحة 250 كلم. يشمل أربع جزر وجزيرتين صخريتين صغيرتين يبدو وكأنها امتداد للقرن الأفريقي. إنه موقع استثنائي من حيث التنوع الكبير في نباتاته ونسبة الأنواع المستوطنة: ذلك أن 73% من أنواع النباتات (من أصل 528 نوعاً) و09% من أنواع الزواحف و59% من أنواع الحلزونيات البرية المتواجدة فيه غير موجودة في أي مناطق أخرى من العالم. أما بالنسبة للعصافير، فالموقع يؤوي أنواعاً هامة على المستوى العالمي (291 نوعاً، يتوالد 44 منها في الجزر، فيما يهاجر 58 منها بانتظام)، ومن بينها بعض الأنواع المهددة بالانقراض. وتتميز الحياة البحرية في سقطرى بتنوع كبير، مع تواجد 352 نوعاً من المرجان الباني للشعب، و730 نوعاً من الأسماك الساحلية، و300 نوع من السراطين والكركند والإربيان.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Topographic%20map%20of%20the%20districts%20of%20Socotra%20%28en%29.svg?width=1280",
+   "title": "Topographic map of the districts of Socotra (en).svg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Topographic%20map%20of%20the%20districts%20of%20Socotra%20%28en%29.svg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1263.jpg",
+   "title": "Socotra Archipelago",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1263",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1263",
+ "transport": {
+  "airports": [
+   {
+    "name": "Socotra Airport",
+    "iata": "SCT",
+    "city": "Mori",
+    "country": "YE",
+    "lat": 12.632093,
+    "lon": 53.906173,
+    "type": "medium_airport",
+    "distance_km": 56.9
+   }
+  ],
+  "nearest_airport_km": 56.9,
+  "distance_beijing_km": 6792.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "YE",
+  "country_zh": "也门",
+  "country_en": "Yemen",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "YE",
+   "country_zh": "也门",
+   "country_en": "Yemen",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 24
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1263"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Socotra%20Archipelago"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:44Z"
+}

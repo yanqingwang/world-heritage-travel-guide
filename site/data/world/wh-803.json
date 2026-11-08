@@ -1,0 +1,162 @@
+{
+ "id": "wh-803",
+ "unesco_id": "803",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 186,
+ "popularity_score": 70232,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province of Léon, Autonomous Community of Castile-Leon",
+ "subdivision_iso": "ES-LE",
+ "subdivision_zh": "莱昂省",
+ "subdivision_en": "León Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "拉斯梅德拉斯",
+ "name_zh_source": "unesco_official",
+ "name_en": "Las Médulas",
+ "name_local": "Las Médulas",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "803-las_médulas",
+ "lat": 42.458699,
+ "lon": -6.759002,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1997",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "公元1世纪，罗马帝国统治者开始在西班牙西北部的拉斯梅德拉斯地区利用水利技术采金、淘金。经过两个世纪的开采后，罗马人撤走了，只留下一片废墟。从那以后，由于当地再未兴办过任何工业，所以独特的古代技术遗迹被保留了下来。从当地比比皆是的山崖峭壁和大片尾矿中，我们就能清楚地看出古代人劳动的痕迹。现在，尾矿被用于农业耕作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the 1st century A.D. the Roman Imperial authorities began to exploit the gold deposits of this region in north-west Spain, using a technique based on hydraulic power. After two centuries of working the deposits, the Romans withdrew, leaving a devastated landscape. Since there was no subsequent industrial activity, the dramatic traces of this remarkable ancient technology are visible everywhere as sheer faces in the mountainsides and the vast areas of tailings, now used for agriculture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "En el siglo I d.C., el poder imperial romano empezó a explotar el yacimiento aurífero de este sitio del noroeste de España recurriendo a una técnica basada en la fuerza hidráulica. Al cabo de dos siglos, la explotación se abandonó y el paisaje quedó devastado. Debido a la ausencia de actividades industriales posteriores, las espectaculares huellas del uso de la antigua tecnología romana son visibles por doquier, tanto en las pendientes montañosas desnudas como en las zonas de vertido de escorias, que hoy están cultivadas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Las%20Medulas%20%2817504738221%29.jpg?width=1280",
+   "title": "Las Medulas (17504738221).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Las%20Medulas%20%2817504738221%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_803.jpg",
+   "title": "Las Médulas",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/803",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/803",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bragança Airport",
+    "iata": "BGC",
+    "city": "Bragança",
+    "country": "PT",
+    "lat": 41.8578,
+    "lon": -6.70713,
+    "type": "medium_airport",
+    "distance_km": 67.0
+   },
+   {
+    "name": "León Airport",
+    "iata": "LEN",
+    "city": "La Virgen del Camino",
+    "country": "ES",
+    "lat": 42.590709,
+    "lon": -5.653406,
+    "type": "medium_airport",
+    "distance_km": 91.8
+   },
+   {
+    "name": "Asturias Airport",
+    "iata": "OVD",
+    "city": "Ranón",
+    "country": "ES",
+    "lat": 43.563599,
+    "lon": -6.03462,
+    "type": "large_airport",
+    "distance_km": 136.2
+   }
+  ],
+  "nearest_airport_km": 67.0,
+  "distance_beijing_km": 9261.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/803"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Las%20M%C3%A9dulas"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:33Z"
+}

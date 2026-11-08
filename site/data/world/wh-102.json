@@ -1,0 +1,162 @@
+{
+ "id": "wh-102",
+ "unesco_id": "102",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 590,
+ "popularity_score": 10145,
+ "country": "DZ",
+ "country_zh": "阿尔及利亚",
+ "country_en": "Algeria",
+ "countries": [
+  {
+   "iso2": "DZ",
+   "zh": "阿尔及利亚",
+   "en": "Algeria"
+  }
+ ],
+ "region": "Commune of Maadid \"Bechara\", Wilaya (province) of M'Sila",
+ "subdivision_iso": "DZ-28",
+ "subdivision_zh": "姆西拉省",
+ "subdivision_en": "M'Sila Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "贝尼•哈玛德的卡拉城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Al Qal'a of Beni Hammad",
+ "name_local": "قلعة بني حمّاد",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "102-al_qal'a_of_beni_hammad",
+ "lat": 35.813888888,
+ "lon": 4.793333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1980",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "哈玛德王朝（Hammadid emirs）第一个首都的遗址，位于风景秀美的山区，始建于公元1007年，毁于公元1152年，是要塞型穆斯林城市的真实写照。这里的清真寺祈祷室有13条走廊和8个隔间，是阿尔及利亚最大的清真寺之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In a mountainous site of extraordinary beauty, the ruins of the first capital of the Hammadid emirs, founded in 1007 and demolished in 1152, provide an authentic picture of a fortified Muslim city. The mosque, whose prayer room has 13 aisles with eight bays, is one of the largest in Algeria.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "ترتفع بقايا عاصمة إمارة بني حمّاد الأولى في موقع جبلي رائع الجمال وقد تأسست في العام 1007 وتفكّكت في العام 1152، وهي تعيد إلينا الصورة الأصيلة الخاصة ببلدة مسلمة محصّنة. ويُعتبر المسجد بقاعة الصلاة المؤلفة من 13 صحناً وثماني فواصل من أكبر مساجد الجزائر.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/28-2%20Kal%C3%A2a%20de%20Beni%20Hammad%20%283%29.jpg?width=1280",
+   "title": "28-2 Kalâa de Beni Hammad (3).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:28-2%20Kal%C3%A2a%20de%20Beni%20Hammad%20%283%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_102.jpg",
+   "title": "Al Qal'a of Beni Hammad",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/102",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/102",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ain Arnat Airport",
+    "iata": "QSF",
+    "city": "Sétif",
+    "country": "DZ",
+    "lat": 36.178488,
+    "lon": 5.329909,
+    "type": "medium_airport",
+    "distance_km": 63.0
+   },
+   {
+    "name": "Soummam–Abane Ramdane Airport",
+    "iata": "BJA",
+    "city": "Béjaïa",
+    "country": "DZ",
+    "lat": 36.712547,
+    "lon": 5.069909,
+    "type": "large_airport",
+    "distance_km": 103.0
+   },
+   {
+    "name": "Batna Mostefa Ben Boulaid Airport",
+    "iata": "BLJ",
+    "city": "Batna",
+    "country": "DZ",
+    "lat": 35.752102,
+    "lon": 6.30859,
+    "type": "large_airport",
+    "distance_km": 136.9
+   }
+  ],
+  "nearest_airport_km": 63.0,
+  "distance_beijing_km": 9008.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DZ",
+  "country_zh": "阿尔及利亚",
+  "country_en": "Algeria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DZ",
+   "country_zh": "阿尔及利亚",
+   "country_en": "Algeria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 51
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/102"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qal%27at%20Bani%20Hammad"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

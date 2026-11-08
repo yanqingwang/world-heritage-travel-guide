@@ -1,0 +1,176 @@
+{
+ "id": "wh-91",
+ "unesco_id": "91",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1192,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  },
+  {
+   "iso2": "VA",
+   "zh": "梵蒂冈",
+   "en": "Vatican City"
+  }
+ ],
+ "region": "Province of Roma, Lazio region (IT) / Vatican City State (VA)",
+ "subdivision_iso": "IT-RM",
+ "subdivision_zh": "羅馬首都廣域市",
+ "subdivision_en": "Metropolitan City of Rome",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "罗马历史中心，享受治外法权的罗马教廷建筑和缪拉圣保罗弗利",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "91-historic_centre_of_rome,_the_properties_",
+ "lat": 41.8928,
+ "lon": 12.4866,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)(vi)",
+ "year": "1980",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "根据神话传说，罗马城由罗穆卢斯和瑞摩斯于公元前753年修建。罗马首先作为罗马共和国的首都，后来是罗马帝国的都城，再后来到了公元4世纪，这里则成了整个基督教世界的中心。1990年，这个世界遗产地的范围扩大到了罗马八区的城墙。该文化遗址包括了一些著名的古代建筑，例如：古罗马广场、奥古斯都的陵墓、哈德良的陵墓、万神殿、图拉真柱、马可·奥里利乌斯柱，以及罗马教皇的许多宗教和公共建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded, according to legend, by Romulus and Remus in 753 BC, Rome was first the centre of the Roman Republic, then of the Roman Empire, and it became the capital of the Christian world in the 4th century. The World Heritage site, extended in 1990 to the walls of Urban VIII, includes some of the major monuments of antiquity such as the Forums, the Mausoleum of Augustus, the Mausoleum of Hadrian, the Pantheon, Trajan’s Column and the Column of Marcus Aurelius, as well as the religious and public buildings of papal Rome.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rome%20Skyline%20%288012016319%29.jpg?width=1280",
+   "title": "Rome Skyline (8012016319).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Rome%20Skyline%20%288012016319%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_91.jpg",
+   "title": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/91",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/91",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ciampino–G. B. Pastine International Airport",
+    "iata": "CIA",
+    "city": "Rome",
+    "country": "IT",
+    "lat": 41.798769,
+    "lon": 12.595331,
+    "type": "large_airport",
+    "distance_km": 13.8
+   },
+   {
+    "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
+    "iata": "FCO",
+    "city": "Rome",
+    "country": "IT",
+    "lat": 41.804532,
+    "lon": 12.251998,
+    "type": "large_airport",
+    "distance_km": 21.8
+   },
+   {
+    "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
+    "iata": "PEG",
+    "city": "Perugia (PG)",
+    "country": "IT",
+    "lat": 43.095901,
+    "lon": 12.5132,
+    "type": "large_airport",
+    "distance_km": 133.8
+   }
+  ],
+  "nearest_airport_km": 13.8,
+  "distance_beijing_km": 8124.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "VA",
+   "country_zh": "梵蒂冈",
+   "country_en": "Vatican City",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/91"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

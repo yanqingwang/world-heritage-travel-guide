@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(iii)"
 lat: 37.260375
 lon: -108.494444
-updated_at: "2026-11-08T12:18:53Z"
+updated_at: "2026-11-08T14:52:18Z"
 ---
 
 # 梅萨维德印第安遗址 / Mesa Verde National Park

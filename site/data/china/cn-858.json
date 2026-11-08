@@ -1,0 +1,145 @@
+{
+ "id": "cn-858",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "辽宁省",
+ "province_en": "Liaoning",
+ "province_iso": "CN-LN",
+ "city_zh": "盘锦市",
+ "city_en": "Panjin City",
+ "name_zh": "盘锦市红海滩风景廊道景区",
+ "name_en": "Panjinshihonghaitanfengjinglangdao Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "panjinshihonghaitanfengjinglangdao-858",
+ "lat": 40.90784,
+ "lon": 121.851983,
+ "address_zh": "盘锦市大洼区滨海大道",
+ "address_en": "Binhai Avenue, Dawa District, Panjin City",
+ "address_en_source": "machine_translation",
+ "category": "red",
+ "category_zh": "红色旅游",
+ "category_en": "Red tourism",
+ "intro_zh": "红海滩国家风景廊道全长18公里，被誉为“世界红色海岸线”。景区依托浩瀚的绿苇荡和退海湿地的先锋植物碱蓬草构成了红绿相间的天下奇观。景区由依水云舟、卧龙湖码头、小岛闲情、踏霞漫步、岁月小栈、向海同心、廊桥爱梦、稻梦空间、情人岛、爱情宣言廊道十个景点组成，一条沿海公路串联其间。",
+ "intro_en": "The Red Beach National Scenic Corridor is 18 kilometers long and is known as the \"Red Coastline of the World\". The scenic spot relies on the vast green reed swamps and the pioneer plant Suaeda salsa in the retreated wetland to form a world wonder of red and green. The scenic spot consists of ten scenic spots: Yishui Yunzhou, Wolong Lake Pier, Island Leisure, Walking on the Clouds, Years Inn, Xianghai Tongxin, Covered Bridge Love Dream, Daomeng Space, Lover Island, and Love Declaration Corridor. A coastal road connects them.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "http://www.hhtld.com/ticket/index.htm",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jinzhou Bay Airport",
+    "iata": "JNZ",
+    "city": "Jinzhou (Linghai)",
+    "country": "CN",
+    "lat": 40.936032,
+    "lon": 121.277114,
+    "type": "medium_airport",
+    "distance_km": 48.4
+   },
+   {
+    "name": "Yingkou Lanqi Airport",
+    "iata": "YKH",
+    "city": "Yingkou (Laobian)",
+    "country": "CN",
+    "lat": 40.542524,
+    "lon": 122.3586,
+    "type": "medium_airport",
+    "distance_km": 58.9
+   },
+   {
+    "name": "Anshan Teng'ao Airport / Anshan Air Base",
+    "iata": "AOG",
+    "city": "Anshan",
+    "country": "CN",
+    "lat": 41.105301,
+    "lon": 122.853996,
+    "type": "medium_airport",
+    "distance_km": 86.9
+   }
+  ],
+  "nearest_airport_km": 48.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "大洼",
+    "name_en": null,
+    "lat": 40.9698943,
+    "lon": 122.0963055,
+    "distance_km": 21.7,
+    "operator": "中国铁路沈阳局集团有限公司 锦州车务段",
+    "high_speed": false
+   },
+   {
+    "name": "盘锦港",
+    "name_en": null,
+    "lat": 40.7215244,
+    "lon": 122.0205197,
+    "distance_km": 25.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "金帛湾",
+    "name_en": null,
+    "lat": 40.7554334,
+    "lon": 122.0728147,
+    "distance_km": 25.1,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "红海滩度假村酒店",
+   "name_en": "Honghaitan Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 40.9662342,
+   "lon": 121.9730753,
+   "distance_km": 12.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "昆仑大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.0866126,
+   "lon": 122.0706371,
+   "distance_km": 27.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 51.218294444
 lon: 4.398163888
-updated_at: "2026-11-08T12:19:02Z"
+updated_at: "2026-11-08T14:52:42Z"
 ---
 
 # 帕拉丁莫瑞图斯工场－博物馆建筑群 / Plantin-Moretus House-Workshops-Museum Complex

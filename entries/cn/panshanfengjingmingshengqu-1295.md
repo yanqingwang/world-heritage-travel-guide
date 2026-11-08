@@ -13,7 +13,7 @@ province_en: "Tianjin"
 city_en: "Jizhou District"
 lat: 40.095194
 lon: 117.296592
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 盘山风景名胜区 / Huanglong Scenic and Historic Interest Area

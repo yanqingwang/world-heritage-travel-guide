@@ -1,0 +1,224 @@
+{
+ "id": "cn-1183",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖南省",
+ "province_en": "Hunan",
+ "province_iso": "CN-HN",
+ "city_zh": "张家界市",
+ "city_en": "Zhangjiajie",
+ "name_zh": "张家界市武陵源-天门山旅游区",
+ "name_en": "Tianmen Mountain",
+ "name_en_source": "wikipedia",
+ "slug": "zhangjiajieshiwulingyuantianmenshan-1183",
+ "lat": 29.360276,
+ "lon": 110.402594,
+ "address_zh": "湖南省张家界市",
+ "address_en": "Zhangjiajie City, Hunan Province",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "景区共包含武陵源、天门山两个旅游区。其中，武陵源风景名胜区由张家界市的张家界森林公园、慈利县的索溪峪自然保护区和桑植县的天子山自然保护区组合而成。天门山是山岳型自然景区，总面积96平方公里，山顶面积达2平方公里。天门山景区主峰海拔 1518.6米，是张家界海拔最高的山。因自然奇观天门洞而得名。",
+ "intro_en": "Tianmen Mountain (simplified Chinese: 天门山; traditional Chinese: 天門山; pinyin: Tiānmén Shān; lit. 'Heaven's Gate Mountain') is a mountain located within Tianmen Mountain National Park, Zhangjiajie, in the northwestern part of Hunan Province, China.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Solar_effect_with_Tianmen_Mountain_01.jpg/1280px-Solar_effect_with_Tianmen_Mountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Solar effect with Tianmen Mountain 01.jpg",
+   "author": "Codas",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Solar_effect_with_Tianmen_Mountain_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Solar_effect_with_Tianmen_Mountain_02.jpg/1280px-Solar_effect_with_Tianmen_Mountain_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Solar effect with Tianmen Mountain 02.jpg",
+   "author": "Codas",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Solar_effect_with_Tianmen_Mountain_02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg/1280px-Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianmen 38330-Zhangjiajie (49047525877).jpg",
+   "author": "xiquinhosilva",
+   "license": "CC BY 2.0",
+   "credit": "38330-Zhangjiajie",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianmen_38330-Zhangjiajie_%2849047525877%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Tianmen_Mountain_Heaven_Gate_arch_Zhangjiajie.jpg/1280px-Tianmen_Mountain_Heaven_Gate_arch_Zhangjiajie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tianmen Mountain Heaven Gate arch Zhangjiajie.jpg",
+   "author": "Lianguanlun",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tianmen_Mountain_Heaven_Gate_arch_Zhangjiajie.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Zhangjiajie_from_Tianmen_Mountain_01.jpg/1280px-Zhangjiajie_from_Tianmen_Mountain_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zhangjiajie from Tianmen Mountain 01.jpg",
+   "author": "Codas",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Zhangjiajie_from_Tianmen_Mountain_01.jpg"
+  }
+ ],
+ "web": "http://www.hnzjj.com/",
+ "booking": "http://www.hnzjj.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zhangjiajie Hehua International Airport",
+    "iata": "DYG",
+    "city": "Zhangjiajie (Yongding)",
+    "country": "CN",
+    "lat": 29.104749,
+    "lon": 110.442786,
+    "type": "large_airport",
+    "distance_km": 28.7
+   },
+   {
+    "name": "Xiangxi Biancheng Airport",
+    "iata": "DXJ",
+    "city": "Xiangxi",
+    "country": "CN",
+    "lat": 28.4972,
+    "lon": 109.5218,
+    "type": "small_airport",
+    "distance_km": 128.7
+   },
+   {
+    "name": "Changde Taohuayuan Airport",
+    "iata": "CGD",
+    "city": "Changde (Dingcheng)",
+    "country": "CN",
+    "lat": 28.9189,
+    "lon": 111.639999,
+    "type": "medium_airport",
+    "distance_km": 129.8
+   }
+  ],
+  "nearest_airport_km": 28.7,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "十里画廊观光电车下站",
+    "name_en": null,
+    "lat": 29.3729263,
+    "lon": 110.4786805,
+    "distance_km": 7.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "十里画廊观光电车上站",
+    "name_en": null,
+    "lat": 29.3624593,
+    "lon": 110.488219,
+    "distance_km": 8.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "教字垭",
+    "name_en": null,
+    "lat": 29.2846443,
+    "lon": 110.335924,
+    "distance_km": 10.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "张家界纳百利皇冠假日酒店",
+   "name_en": "Crowne Plaza",
+   "stars": null,
+   "brand": "Crowne Plaza",
+   "lat": 29.3455256,
+   "lon": 110.5350123,
+   "distance_km": 12.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "希尔顿欢朋酒店",
+   "name_en": "Hampton  Inn",
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 29.3539139,
+   "lon": 110.5415113,
+   "distance_km": 13.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "希尔顿花园酒店",
+   "name_en": "Hilton Garden Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 29.3381636,
+   "lon": 110.5461916,
+   "distance_km": 14.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "张家界天门山希尔顿欢朋酒店",
+   "name_en": "Hampton by Hilton Zhangjiajie Tianmen Mountain",
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 29.1136467,
+   "lon": 110.4792612,
+   "distance_km": 28.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万豪商务酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1098969,
+   "lon": 110.4748025,
+   "distance_km": 28.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 66,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/天门山"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Tangshan"
 lat: 40.041526
 lon: 117.726881
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 唐山市清东陵景区 / Eastern Qing tombs

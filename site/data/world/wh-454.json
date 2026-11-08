@@ -1,0 +1,162 @@
+{
+ "id": "wh-454",
+ "unesco_id": "454",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1089,
+ "popularity_score": null,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "Autonomous region of Mount Athos",
+ "subdivision_iso": "GR-69",
+ "subdivision_zh": "聖山",
+ "subdivision_en": "monastic community of Mount Athos",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿索斯山",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mount Athos",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "454-mount_athos",
+ "lat": 40.158333333,
+ "lon": 24.327222222,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(i)(ii)(iv)(v)(vi)(vii)",
+ "year": "1988",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿索斯山自1054年以来就是东正教的精神中心，从拜占庭时期起就拥有独立的法律。这座“圣山”禁止妇女儿童进入，也是一个艺术宝库。这些修道院（约有20座修道院，住着1400名修道士）的规划设计的影响远达俄罗斯，其绘画流派甚至影响了东正教艺术史。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "An Orthodox spiritual centre since 1054, Mount Athos has enjoyed an autonomous statute since Byzantine times. The 'Holy Mountain', which is forbidden to women and children, is also a recognized artistic site. The layout of the monasteries (about 20 of which are presently inhabited by some 1,400 monks) had an influence as far afield as Russia, and its school of painting influenced the history of Orthodox art.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Der%20Berg%20Athos.jpg?width=1280",
+   "title": "Der Berg Athos.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Der%20Berg%20Athos.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_454.jpg",
+   "title": "Mount Athos",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/454",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/454",
+ "transport": {
+  "airports": [
+   {
+    "name": "Limnos Airport",
+    "iata": "LXS",
+    "city": "Limnos Island",
+    "country": "GR",
+    "lat": 39.917098999,
+    "lon": 25.236299514799995,
+    "type": "small_airport",
+    "distance_km": 81.9
+   },
+   {
+    "name": "Kavala Alexander the Great International Airport",
+    "iata": "KVA",
+    "city": "Kavala",
+    "country": "GR",
+    "lat": 40.9133,
+    "lon": 24.6192,
+    "type": "large_airport",
+    "distance_km": 87.5
+   },
+   {
+    "name": "Thessaloniki Macedonia International Airport",
+    "iata": "SKG",
+    "city": "Thessaloniki",
+    "country": "GR",
+    "lat": 40.51928,
+    "lon": 22.970009,
+    "type": "large_airport",
+    "distance_km": 121.8
+   }
+  ],
+  "nearest_airport_km": 81.9,
+  "distance_beijing_km": 7390.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/454"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

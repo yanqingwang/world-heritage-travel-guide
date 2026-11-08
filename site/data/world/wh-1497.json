@@ -1,0 +1,162 @@
+{
+ "id": "wh-1497",
+ "unesco_id": "1497",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 661,
+ "popularity_score": 6978,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "CA-NL",
+ "subdivision_zh": "纽芬兰-拉布拉多省",
+ "subdivision_en": "Newfoundland and Labrador",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "迷斯塔肯角",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mistaken Point",
+ "name_local": "Mistaken Point",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1497-mistaken_point",
+ "lat": 46.6319,
+ "lon": -53.1903,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(viii)",
+ "year": "2016",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这处化石遗址位于加拿大东部纽芬兰岛的东南尽头，是一处长达17公里的狭长地带，有崎岖的沿海峭壁地貌。这片世界上已知最古老的大型化石群可追溯至震旦纪（5亿6千万-5亿8千万年前），勾画出地球生命演化史中一个极端重要的转折：微生物主导进化30亿年后，更大、更复杂的生命体开始出现。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This fossil site is located at the south-eastern tip of the island of Newfoundland, in eastern Canada. It consists of a narrow, 17 km-long strip of rugged coastal cliffs. Of deep marine origin, these cliffs date to the Ediacaran Period (580-560 million years ago), representing the oldest known assemblages of large fossils anywhere. These fossils illustrate a watershed in the history of life on earth: the appearance of large, biologically complex organisms, after almost three billion years of micro-dominated evolution.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Ce site fossilifère est situé à l’extrémité sud-est de l’île de Terre-Neuve, à l’est du pays. Il se compose d’une bande étroite de 17 km de long, formée de falaises côtières accidentées. Originaires des fonds marins, ces falaises, qui datent de la période de l’Édiacarien (580-560 millions d’années), présentent les plus anciens assemblages de grands fossiles connus. Ces fossiles illustrent un tournant critique dans l’histoire de la vie sur Terre : l’apparition d’organismes de grande taille, biologiquement complexes, après presque trois milliards d’années d’évolution dominée par les micro-organismes.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ediacaran%20fossils%20Mistaken%20Point%20Newfoundland.jpg?width=1280",
+   "title": "Ediacaran fossils Mistaken Point Newfoundland.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ediacaran%20fossils%20Mistaken%20Point%20Newfoundland.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1497.jpg",
+   "title": "Mistaken Point",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1497",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1497",
+ "transport": {
+  "airports": [
+   {
+    "name": "St. John's International Airport",
+    "iata": "YYT",
+    "city": "St. John's",
+    "country": "CA",
+    "lat": 47.618599,
+    "lon": -52.7519,
+    "type": "large_airport",
+    "distance_km": 114.6
+   },
+   {
+    "name": "Saint-Pierre Pointe-Blanche Airport",
+    "iata": "FSP",
+    "city": "Saint-Pierre",
+    "country": "PM",
+    "lat": 46.762651,
+    "lon": -56.17499,
+    "type": "medium_airport",
+    "distance_km": 228.1
+   },
+   {
+    "name": "Miquelon Airport",
+    "iata": "MQC",
+    "city": "Miquelon",
+    "country": "PM",
+    "lat": 47.095501,
+    "lon": -56.380299,
+    "type": "small_airport",
+    "distance_km": 247.9
+   }
+  ],
+  "nearest_airport_km": 114.6,
+  "distance_beijing_km": 10206.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 25
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1497"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mistaken%20Point%20Ecological%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:48Z"
+}

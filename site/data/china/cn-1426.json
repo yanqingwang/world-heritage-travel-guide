@@ -1,0 +1,159 @@
+{
+ "id": "cn-1426",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河北省",
+ "province_en": "Hebei",
+ "province_iso": "CN-HE",
+ "city_zh": "保定市",
+ "city_en": "Baoding",
+ "name_zh": "保定市清西陵景区",
+ "name_en": "Xiling Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "baodingshiqingxiling-1426",
+ "lat": 39.370705,
+ "lon": 115.361948,
+ "address_zh": "保定市易县西陵镇",
+ "address_en": "Xiling Town, Yixian County, Baoding City",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "清西陵是清朝最后一处帝王陵墓群。清西陵以14座陵寝为主，行宫、永福寺、营房、衙署为辅的83平方公里的广袤陵区，是现存规模宏大、保存最完整、陵寝建筑类型最齐全的古代皇家陵墓群。景点主要有泰陵、昌西陵、慕陵、崇陵、永福寺。2000年被列入《世界文化遗产名录》。",
+ "intro_en": "The Qingxi Mausoleum is the last imperial tomb complex in the Qing Dynasty. The Western Mausoleum of the Qing Dynasty consists of 14 mausoleums, supplemented by palaces, Yongfu Temple, barracks, and government offices, covering a vast mausoleum area of ​​83 square kilometers. It is an ancient royal mausoleum group with the largest scale, the most complete preservation, and the most complete types of mausoleum buildings. The main attractions include Tailing Tomb, Changxi Tomb, Muling Tomb, Chongling Tomb and Yongfu Temple. It was included in the \"World Cultural Heritage List\" in 2000.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf/page1-500px-2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2021年度行政法规、监察法规、地方法规、司法解释备案目录.pdf",
+   "author": "全国人民代表大会常务委员会法制工作委员会",
+   "license": "Public domain",
+   "credit": "http://www.npc.gov.cn/npc/fgsfjsndbaml/202205/3c76392b1cc942d081e0dab7ba5a9cb6/files/308a1b2c88374c36bbb2fd54d6e3b8f6.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E3%80%81%E7%9B%91%E5%AF%9F%E6%B3%95%E8%A7%84%E3%80%81%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E3%80%81%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A%E5%A4%87%E6%A1%88%E7%9B%AE%E5%BD%95.pdf"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Beijing Daxing International Airport",
+    "iata": "PKX",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 39.501289,
+    "lon": 116.413967,
+    "type": "large_airport",
+    "distance_km": 91.5
+   },
+   {
+    "name": "Beijing Capital International Airport",
+    "iata": "PEK",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 40.077349,
+    "lon": 116.596702,
+    "type": "large_airport",
+    "distance_km": 131.6
+   },
+   {
+    "name": "Shijiazhuang Zhengding International Airport",
+    "iata": "SJW",
+    "city": "Shijiazhuang",
+    "country": "CN",
+    "lat": 38.280701,
+    "lon": 114.696999,
+    "type": "large_airport",
+    "distance_km": 134.2
+   }
+  ],
+  "nearest_airport_km": 91.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "中高村",
+    "name_en": null,
+    "lat": 39.2808633,
+    "lon": 115.4501201,
+    "distance_km": 12.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "奇峰塔",
+    "name_en": "Qifengta",
+    "lat": 39.4892964,
+    "lon": 115.2252648,
+    "distance_km": 17.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "紫荆关",
+    "name_en": "Zijingguan",
+    "lat": 39.4472179,
+    "lon": 115.1648172,
+    "distance_km": 19.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "知行书院",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.2517499,
+   "lon": 115.1772168,
+   "distance_km": 20.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shengshi International Hotel",
+   "name_en": "Shengshi International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 39.3933807,
+   "lon": 115.6973393,
+   "distance_km": 28.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": true,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/西陵"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

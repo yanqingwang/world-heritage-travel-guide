@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Yunyang County"
 lat: 30.712292
 lon: 108.980209
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 龙缸景区 / Longgang Scenic Area

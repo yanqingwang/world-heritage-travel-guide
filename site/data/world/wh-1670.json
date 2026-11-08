@@ -1,0 +1,154 @@
+{
+ "id": "wh-1670",
+ "unesco_id": "1670",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 546,
+ "popularity_score": 11854,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "曷萨拉王朝神庙群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Sacred Ensembles of the Hoysalas",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "1670-sacred_ensembles_of_the_hoysalas",
+ "lat": 13.212453,
+ "lon": 75.994072,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这一系列遗产包括南印度最具代表性的三个曷萨拉（Hoysala）王朝风格寺庙建筑群，其建造年代可以追溯到12-13世纪。曷萨拉王朝精心选择、融合当时与古代寺庙的特点，塑造出有别于邻近王国的独特身份。这些庙宇的特征包括超逼真的雕塑、表面全覆盖的石雕、环绕式平台、大型雕塑廊道、多层次檐壁饰带，以及展现萨拉传说的雕塑。卓越的雕塑艺术提升了建筑群的艺术成就，这些寺庙建筑群代表了印度教寺庙建筑发展历史中的一个重要阶段。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This serial property encompasses the three most representative examples of Hoysala-style temple complexes in southern India, dating from the 12th to 13th centuries. The Hoysala style was created through careful selection of contemporary temple features and those from the past to create a different identity from neighbouring kingdoms. The shrines are characterized by hyper-real sculptures and stone carvings that cover the entire architectural surface, a circumambulatory platform, a large-scale sculptural gallery, a multi-tiered frieze, and sculptures of the Sala legend. The excellence of the sculptural art underpins the artistic achievement of these temple complexes, which represent a significant stage in the historical development of Hindu temple architecture.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1670.jpg",
+   "title": "Sacred Ensembles of the Hoysalas",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1670",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1670",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mangaluru International Airport",
+    "iata": "IXE",
+    "city": "Mangaluru",
+    "country": "IN",
+    "lat": 12.95471,
+    "lon": 74.886812,
+    "type": "large_airport",
+    "distance_km": 123.3
+   },
+   {
+    "name": "Mysore Airport",
+    "iata": "MYQ",
+    "city": "Mysore",
+    "country": "IN",
+    "lat": 12.229751,
+    "lon": 76.653683,
+    "type": "medium_airport",
+    "distance_km": 130.6
+   },
+   {
+    "name": "Kannur International Airport",
+    "iata": "CNN",
+    "city": "Kannur",
+    "country": "IN",
+    "lat": 11.916343,
+    "lon": 75.544979,
+    "type": "large_airport",
+    "distance_km": 152.1
+   }
+  ],
+  "nearest_airport_km": 123.3,
+  "distance_beijing_km": 5057.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 22
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1670"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sacred%20Ensembles%20of%20the%20Hoysalas"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

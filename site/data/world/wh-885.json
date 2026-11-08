@@ -1,0 +1,162 @@
+{
+ "id": "wh-885",
+ "unesco_id": "885",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 220,
+ "popularity_score": 50084,
+ "country": "UZ",
+ "country_zh": "乌兹别克斯坦",
+ "country_en": "Uzbekistan",
+ "countries": [
+  {
+   "iso2": "UZ",
+   "zh": "乌兹别克斯坦",
+   "en": "Uzbekistan"
+  }
+ ],
+ "region": "Kashkadarya region",
+ "subdivision_iso": "UZ-QA",
+ "subdivision_zh": "卡什卡达里亚州",
+ "subdivision_en": "Qashqadaryo Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "沙赫利苏伯兹历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Shakhrisyabz",
+ "name_local": "Shahrisabz",
+ "local_lang": "uz",
+ "local_lang_name": "Uzbek",
+ "slug": "885-historic_centre_of_shakhrisyabz",
+ "lat": 39.05,
+ "lon": 66.833333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2000",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "沙赫利苏伯兹的历史中心包含许多具有重要意义的古迹，这些古迹都见证了该城世俗发展的过程，特别是沙赫利苏伯兹在公元15世纪至16世纪阿米尔贴木尔和阿米尔贴木尔德斯统治时期达到颠峰的历史。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The historic centre of Shakhrisyabz contains a collection of exceptional monuments and ancient quarters which bear witness to the city's secular development, and particularly to the period of its apogee, under the rule of Amir Temur and the Temurids, in the 15th-16th century.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Shahrisabz — Oʻzbekistonning Qashqadaryo viloyatidagi viloyat boʻysunuvidagi shahar. Qadimgi nomi — Kesh. Shahar tarixi Amir Temur va Temuriylar bilan bogʻliq. Tarixiy markazi 2000-yilda UNESCOning Jahon merosi roʻyxatiga kiritilgan.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ensemble%20Dorout%20Tilovat%20%28Shahrisabz%29%20%286018370667%29.jpg?width=1280",
+   "title": "Ensemble Dorout Tilovat (Shahrisabz) (6018370667).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ensemble%20Dorout%20Tilovat%20%28Shahrisabz%29%20%286018370667%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_885.jpg",
+   "title": "Historic Centre of Shakhrisyabz",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/885",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/885",
+ "transport": {
+  "airports": [
+   {
+    "name": "Samarkand International Airport",
+    "iata": "SKD",
+    "city": "Samarkand",
+    "country": "UZ",
+    "lat": 39.701842,
+    "lon": 66.981467,
+    "type": "large_airport",
+    "distance_km": 73.6
+   },
+   {
+    "name": "Karshi Airport",
+    "iata": "KSQ",
+    "city": "Karshi",
+    "country": "UZ",
+    "lat": 38.802246,
+    "lon": 65.773068,
+    "type": "small_airport",
+    "distance_km": 95.8
+   },
+   {
+    "name": "Zomin Airport",
+    "iata": "OMN",
+    "city": "Zomin",
+    "country": "UZ",
+    "lat": 40.01402,
+    "lon": 68.41103,
+    "type": "medium_airport",
+    "distance_km": 172.6
+   }
+  ],
+  "nearest_airport_km": 73.6,
+  "distance_beijing_km": 4175.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "UZ",
+  "country_zh": "乌兹别克斯坦",
+  "country_en": "Uzbekistan",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "UZ",
+   "country_zh": "乌兹别克斯坦",
+   "country_en": "Uzbekistan",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "The duration of stay is 30 days at a time, no more than 90 days within any 180 days."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "uz",
+  "local_lang_name": "Uzbek",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 72
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/885"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shahrisabz"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

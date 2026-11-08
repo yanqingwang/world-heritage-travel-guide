@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iv)"
 lat: 41.5546
 lon: -8.3775
-updated_at: "2026-11-08T12:19:04Z"
+updated_at: "2026-11-08T14:52:50Z"
 ---
 
 # 布拉加山上仁慈耶稣朝圣所 / Sanctuary of Bom Jesus do Monte in Braga

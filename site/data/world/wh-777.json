@@ -1,0 +1,162 @@
+{
+ "id": "wh-777",
+ "unesco_id": "777",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1153,
+ "popularity_score": null,
+ "country": "AM",
+ "country_zh": "亚美尼亚",
+ "country_en": "Armenia",
+ "countries": [
+  {
+   "iso2": "AM",
+   "zh": "亚美尼亚",
+   "en": "Armenia"
+  }
+ ],
+ "region": "Villages of Haghpat and Sanahin, Lorri Region",
+ "subdivision_iso": "AM-LO",
+ "subdivision_zh": "洛里州",
+ "subdivision_en": "Lori Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "哈格帕特修道院和萨那欣修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Monasteries of Haghpat and Sanahin",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "777-monasteries_of_haghpat_and_sanahin",
+ "lat": 41.095,
+ "lon": 44.71028,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在基乌里克王朝(Kiurikian dynasty)繁荣时期（大约从公元10到13世纪），土马尼亚地区(the Tumanian region)的这两个拜占庭式修道院是当时重要的学府。萨那欣修道院以其注释和书法学校而举世闻名。这两个修道院建筑群，融汇拜占庭教会建筑风格和高加索地区本土传统建筑风格，形成了自己独特的艺术风格，代表了亚美尼亚宗教建筑顶尖水平。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These two Byzantine monasteries in the Tumanian region from the period of prosperity during the Kiurikian dynasty (10th to 13th century) were important centres of learning. Sanahin was renown for its school of illuminators and calligraphers. The two monastic complexes represent the highest flowering of Armenian religious architecture, whose unique style developed from a blending of elements of Byzantine ecclesiastical architecture and the traditional vernacular architecture of the Caucasian region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Haghpat-Nshan.jpg?width=1280",
+   "title": "Haghpat-Nshan.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Haghpat-Nshan.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_777.jpg",
+   "title": "Monasteries of Haghpat and Sanahin",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/777",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/777",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tbilisi International Airport",
+    "iata": "TBS",
+    "city": "Tbilisi",
+    "country": "GE",
+    "lat": 41.669201,
+    "lon": 44.9547,
+    "type": "large_airport",
+    "distance_km": 67.0
+   },
+   {
+    "name": "Shirak International Airport",
+    "iata": "LWN",
+    "city": "Gyumri",
+    "country": "AM",
+    "lat": 40.750401,
+    "lon": 43.859299,
+    "type": "large_airport",
+    "distance_km": 81.1
+   },
+   {
+    "name": "Zvartnots International Airport",
+    "iata": "EVN",
+    "city": "Yerevan",
+    "country": "AM",
+    "lat": 40.148941,
+    "lon": 44.397887,
+    "type": "large_airport",
+    "distance_km": 108.5
+   }
+  ],
+  "nearest_airport_km": 67.0,
+  "distance_beijing_km": 5842.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AM",
+  "country_zh": "亚美尼亚",
+  "country_en": "Armenia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6][13]",
+  "notes": "90 days within any 180 day period. Holders of passports for public affairs do not require a visa for up to 30 days.[14]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AM",
+   "country_zh": "亚美尼亚",
+   "country_en": "Armenia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6][13]",
+   "notes": "90 days within any 180 day period. Holders of passports for public affairs do not require a visa for up to 30 days.[14]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/777"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

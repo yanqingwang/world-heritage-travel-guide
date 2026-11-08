@@ -1,0 +1,162 @@
+{
+ "id": "wh-272",
+ "unesco_id": "272",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1056,
+ "popularity_score": null,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "State of Schleswig-Holstein",
+ "subdivision_iso": "DE-SH",
+ "subdivision_zh": "石勒苏益格-荷尔斯泰因",
+ "subdivision_en": "Schleswig-Holstein",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "吕贝克的汉西梯克城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Hanseatic City of Lübeck",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "272-hanseatic_city_of_lübeck",
+ "lat": 53.86667,
+ "lon": 10.69167,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "吕贝克，汉萨同盟(the Hanseatic League)的前首都和皇后城，建于公元12世纪，作为北欧的重要商业中心曾一度繁荣, 直到16世纪。今天，这里仍是海上商贸中心（尤其与北欧国家的海上贸易）。尽管在第二次世界大战中受到了一定的损毁，这座老城的基本城市结构还是保留了下来，这点从15世纪至16世纪建造的贵族居所，历史古迹（如著名的豪斯顿砖门）、教堂和盐场等都能够看出来。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Lübeck – the former capital and Queen City of the Hanseatic League – was founded in the 12th century and prospered until the 16th century as the major trading centre for northern Europe. It has remained a centre for maritime commerce to this day, particularly with the Nordic countries. Despite the damage it suffered during the Second World War, the basic structure of the old city, consisting mainly of 15th- and 16th-century patrician residences, public monuments (the famous Holstentor brick gate), churches and salt storehouses, remains unaltered.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20L%C3%BCbeck%20%28view%20from%20the%20southwest%29.jpg?width=1280",
+   "title": "Aerial image of Lübeck (view from the southwest).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial%20image%20of%20L%C3%BCbeck%20%28view%20from%20the%20southwest%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_272.jpg",
+   "title": "Hanseatic City of Lübeck",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/272",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/272",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lübeck Blankensee Airport",
+    "iata": "LBC",
+    "city": "Lübeck",
+    "country": "DE",
+    "lat": 53.805401,
+    "lon": 10.7192,
+    "type": "medium_airport",
+    "distance_km": 7.0
+   },
+   {
+    "name": "Hamburg Helmut Schmidt Airport",
+    "iata": "HAM",
+    "city": "Hamburg",
+    "country": "DE",
+    "lat": 53.630402,
+    "lon": 9.98823,
+    "type": "large_airport",
+    "distance_km": 53.2
+   },
+   {
+    "name": "Rostock-Laage Airport",
+    "iata": "RLG",
+    "city": "Laage",
+    "country": "DE",
+    "lat": 53.918201,
+    "lon": 12.2783,
+    "type": "medium_airport",
+    "distance_km": 104.1
+   }
+  ],
+  "nearest_airport_km": 7.0,
+  "distance_beijing_km": 7413.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/272"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:24Z"
+}

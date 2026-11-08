@@ -1,0 +1,202 @@
+{
+ "id": "cn-357",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "无锡市",
+ "city_en": "Wuxi",
+ "name_zh": "无锡市中央电视台无锡影视基地三国水浒城景区",
+ "name_en": "Wuxiyingshijidi Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "wuxishizhongyangdianshitaiwuxiyingshijidisanguoshuihucheng-357",
+ "lat": 31.481725,
+ "lon": 120.239237,
+ "address_zh": "无锡市滨湖区山水西路128号",
+ "address_en": "No. 128, Shanshui West Road, Binhu District, Wuxi City",
+ "address_en_source": "machine_translation",
+ "category": "natural",
+ "category_zh": "自然风光",
+ "category_en": "Natural scenery",
+ "intro_zh": "中央电视台无锡影视基地是中国首创的大规模影视拍摄和旅游基地。无锡影视基地始建于1987年，占地面积近100公顷，可使用太湖水面200公顷。当年中央电视台为拍摄电视连续剧《唐明皇》、《三国演义》和《水浒传》，相继建成了唐城、三国城和水浒城三大景区。",
+ "intro_en": "CCTV Wuxi Film and Television Base is China's first large-scale film and television shooting and tourism base. Wuxi Film and Television Base was founded in 1987, covering an area of ​​nearly 100 hectares and having access to 200 hectares of Taihu Lake water surface. At that time, CCTV built three major scenic spots: Tang City, Three Kingdoms City and Water Margin in order to film the TV series \"Tang Minghuang\", \"Romance of the Three Kingdoms\" and \"Water Margin\".",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.ctvwx.com/index.php",
+ "booking": "http://www.ctvwx.com/1551105-1551105.php",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sunan Shuofang International Airport",
+    "iata": "WUX",
+    "city": "Wuxi",
+    "country": "CN",
+    "lat": 31.496952,
+    "lon": 120.43038,
+    "type": "large_airport",
+    "distance_km": 18.2
+   },
+   {
+    "name": "Changzhou Benniu International Airport",
+    "iata": "CZX",
+    "city": "Changzhou",
+    "country": "CN",
+    "lat": 31.920485,
+    "lon": 119.77546,
+    "type": "medium_airport",
+    "distance_km": 65.6
+   },
+   {
+    "name": "Jiaxing Nanhu Airport",
+    "iata": "JNH",
+    "city": "Xiuzhou, Hangzhou",
+    "country": "CN",
+    "lat": 30.698056,
+    "lon": 120.663056,
+    "type": "medium_airport",
+    "distance_km": 96.0
+   }
+  ],
+  "nearest_airport_km": 18.2,
+  "high_speed_stations": [
+   {
+    "name": "无锡",
+    "name_en": "Wuxi",
+    "lat": 31.5898087,
+    "lon": 120.3018066,
+    "distance_km": 13.4,
+    "operator": null,
+    "high_speed": true
+   },
+   {
+    "name": "无锡新区",
+    "name_en": "Wuxi New District Station",
+    "lat": 31.4995998,
+    "lon": 120.3875023,
+    "distance_km": 14.2,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "无锡南",
+    "name_en": null,
+    "lat": 31.5481452,
+    "lon": 120.3373866,
+    "distance_km": 11.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "周泾巷",
+    "name_en": null,
+    "lat": 31.5134246,
+    "lon": 120.3719549,
+    "distance_km": 13.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "无锡西",
+    "name_en": "Wuxixi",
+    "lat": 31.6152731,
+    "lon": 120.1671256,
+    "distance_km": 16.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "无锡江南四季酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.4755841,
+   "lon": 120.270615,
+   "distance_km": 3.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lakeview Hotel",
+   "name_en": "Lakeview Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5106978,
+   "lon": 120.2399808,
+   "distance_km": 3.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "1881 Peninsula Hotel",
+   "name_en": "1881 Peninsula Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5185862,
+   "lon": 120.2465636,
+   "distance_km": 4.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万豪酒店",
+   "name_en": "Wuxi Marriott Hotel Lihu Lake",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5205866,
+   "lon": 120.247365,
+   "distance_km": 4.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "无锡万达喜来登酒店",
+   "name_en": "Sheraton Wuxi Binhu Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.5632661,
+   "lon": 120.2593282,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 109,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/无锡影视基地"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

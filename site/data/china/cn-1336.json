@@ -1,0 +1,191 @@
+{
+ "id": "cn-1336",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "贵州省",
+ "province_en": "Guizhou",
+ "province_iso": "CN-GZ",
+ "city_zh": "黔南布依族苗族自治州",
+ "city_en": "Qiannanbuyizumiaozu Autonomous Prefecture",
+ "name_zh": "黔南布依族苗族自治州荔波县樟江景区",
+ "name_en": "Qianxinan Buyei and Miao Autonomous Prefecture",
+ "name_en_source": "wikipedia",
+ "slug": "qiannanbuyizumiaozuzizhizhouliboxianzhangjiang-1336",
+ "lat": 25.425822,
+ "lon": 107.892801,
+ "address_zh": "黔南布依族苗族自治州荔波县瑶山瑶族乡",
+ "address_en": "Yaoshan Yao Township, Libo County, Qiannan Buyi and Miao Autonomous Prefecture",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "荔波樟江风景名胜区由大小七孔景区、水春河景区和樟江风光带组成。景区内以丰富多样的喀斯特地貌、秀丽奇特的樟江水景和繁盛茂密的原始森林、各类珍稀品种动植物为特色，集奇特的山水自然风光与当地布依族、水族、瑶族等民族特色于一身。2007年，荔波喀斯特成为“中国南方喀斯特”世界自然遗产的组成部分。",
+ "intro_en": "Qianxinan Buyei and Miao Autonomous Prefecture (Chinese: 黔西南布依族苗族自治州; pinyin: Qiánxīnán Bùyīzú Miáozú Zìzhìzhōu; Buyei: Qianfxiynanf Buxqyaix Buxyeeuz Ziqziqzouy; Hmu: Qeef Xib Naif Dol Yat Dol Hmub Zid Zid Zeb) is an autonomous prefecture of Guizhou province, People's Republic of China, bordering Guangxi to the south and Yunnan to the west. The name, \"黔西南\" derives from the prefecture's southwest location in the province; \"黔\" is the official abbreviation for Guizhou, while \"西南\" means \"southwest\".",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Wan_Feng_Lin_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Wan Feng Lin River.jpg",
+   "author": "Philippe Semanaz from Paris, France",
+   "license": "CC BY-SA 2.0",
+   "credit": "Wan Feng Lin River",
+   "source": "https://commons.wikimedia.org/wiki/File:Wan_Feng_Lin_River.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/ChinaQianxinanCeheng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "ChinaQianxinanCeheng.png",
+   "author": "Slb nsk",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ChinaQianxinanCeheng.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/ChinaQianxinanWangmo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "ChinaQianxinanWangmo.png",
+   "author": "Slb nsk",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ChinaQianxinanWangmo.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/ChinaQianxinanXingyi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "ChinaQianxinanXingyi.png",
+   "author": "Slb nsk",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ChinaQianxinanXingyi.png"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/ChinaQianxinanZhenfeng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "ChinaQianxinanZhenfeng.png",
+   "author": "Slb nsk",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ChinaQianxinanZhenfeng.png"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Libo Airport",
+    "iata": "LLB",
+    "city": "Qiannan (Libo)",
+    "country": "CN",
+    "lat": 25.4525,
+    "lon": 107.961667,
+    "type": "small_airport",
+    "distance_km": 7.5
+   },
+   {
+    "name": "Hechi Jinchengjiang Airport",
+    "iata": "HCJ",
+    "city": "Hechi (Jinchengjiang)",
+    "country": "CN",
+    "lat": 24.804344,
+    "lon": 107.710819,
+    "type": "medium_airport",
+    "distance_km": 71.5
+   },
+   {
+    "name": "Liping Airport",
+    "iata": "HZH",
+    "city": "Liping",
+    "country": "CN",
+    "lat": 26.32217,
+    "lon": 109.1499,
+    "type": "medium_airport",
+    "distance_km": 160.5
+   }
+  ],
+  "nearest_airport_km": 7.5,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "荔波",
+    "name_en": null,
+    "lat": 25.3476252,
+    "lon": 107.818764,
+    "distance_km": 11.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "峰洞",
+    "name_en": "Fengdong",
+    "lat": 25.5416938,
+    "lon": 107.5226125,
+    "distance_km": 39.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "星朗",
+    "name_en": null,
+    "lat": 25.4747146,
+    "lon": 107.4917498,
+    "distance_km": 40.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "荔波四季花园酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.4299759,
+   "lon": 107.8918225,
+   "distance_km": 0.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Westyard Lodge.Libo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.3615493,
+   "lon": 107.8236043,
+   "distance_km": 10.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黔西南布依族苗族自治州"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

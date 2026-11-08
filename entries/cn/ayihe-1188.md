@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Pengshuimiaozutujiazuzizhi County"
 lat: 29.157019
 lon: 108.126989
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 阿依河景区 / Ayihe Scenic Area

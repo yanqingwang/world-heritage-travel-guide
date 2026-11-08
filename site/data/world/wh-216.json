@@ -1,0 +1,162 @@
+{
+ "id": "wh-216",
+ "unesco_id": "216",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1045,
+ "popularity_score": null,
+ "country": "BG",
+ "country_zh": "保加利亚",
+ "country_en": "Bulgaria",
+ "countries": [
+  {
+   "iso2": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria"
+  }
+ ],
+ "region": "On the slopes of Rila, the highest Balkan Peninsula Mountain, in the valley of the Rilska River, 29 km east of the Sofia-Thessaloniki Highway. Rila, Kyustendil Province",
+ "subdivision_iso": "BG-10",
+ "subdivision_zh": "丘斯滕迪尔州",
+ "subdivision_en": "Kyustendil",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "里拉修道院",
+ "name_zh_source": "unesco_official",
+ "name_en": "Rila Monastery",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "216-rila_monastery",
+ "lat": 42.116666666,
+ "lon": 23.4,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "里拉修道院是里拉的隐士圣约翰于公元10世纪建造的。约翰死后被东正教封为圣徒，所以他以前修道的地方和他的坟墓成为了圣地，并且成为了修道院。这个小修道院在中世纪保加利亚的宗教生活和社会生活中扮演着非常重要的角色。19世纪初，修道院毁于一次火灾，后又于1834至1862年间重建。里拉修道院是18和19世纪保加利亚文艺复兴时期的代表之作，表现了数个世纪的被占领历史后斯拉夫文化认同感的觉醒。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Rila Monastery was founded in the 10th century by St John of Rila, a hermit canonized by the Orthodox Church. His ascetic dwelling and tomb became a holy site and were transformed into a monastic complex which played an important role in the spiritual and social life of medieval Bulgaria. Destroyed by fire at the beginning of the 19th century, the complex was rebuilt between 1834 and 1862. A characteristic example of the Bulgarian Renaissance (18th–19th centuries), the monument symbolizes the awareness of a Slavic cultural identity following centuries of occupation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Klosterkirche%20des%20Rilaklosters.jpg?width=1280",
+   "title": "Klosterkirche des Rilaklosters.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Klosterkirche%20des%20Rilaklosters.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_216.jpg",
+   "title": "Rila Monastery",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/216",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/216",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sofia Airport",
+    "iata": "SOF",
+    "city": "Sofia",
+    "country": "BG",
+    "lat": 42.696357,
+    "lon": 23.417671,
+    "type": "large_airport",
+    "distance_km": 64.5
+   },
+   {
+    "name": "Plovdiv International Airport",
+    "iata": "PDV",
+    "city": "Plovdiv",
+    "country": "BG",
+    "lat": 42.067799,
+    "lon": 24.8508,
+    "type": "large_airport",
+    "distance_km": 119.8
+   },
+   {
+    "name": "Skopje International Airport",
+    "iata": "SKP",
+    "city": "Ilinden",
+    "country": "MK",
+    "lat": 41.958087,
+    "lon": 21.622581,
+    "type": "large_airport",
+    "distance_km": 147.8
+   }
+  ],
+  "nearest_airport_km": 64.5,
+  "distance_beijing_km": 7347.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BG",
+  "country_zh": "保加利亚",
+  "country_en": "Bulgaria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BG",
+   "country_zh": "保加利亚",
+   "country_en": "Bulgaria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/216"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:22Z"
+}

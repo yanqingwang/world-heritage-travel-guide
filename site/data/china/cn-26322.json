@@ -1,0 +1,202 @@
+{
+ "id": "cn-26322",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "宜昌市",
+ "city_en": "Yichang",
+ "name_zh": "宜昌市三峡大瀑布景区",
+ "name_en": "Sanxiadapubu Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "yichangshisanxiadapubu-26322",
+ "lat": 30.930935,
+ "lon": 111.329026,
+ "address_zh": "湖北省宜昌市夷陵区312省道",
+ "address_en": "Provincial Road 312, Yiling District, Yichang City, Hubei Province",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "三峡大瀑布位于长江三峡国家地质公园范围内，由三峡大瀑布和金狮洞两个景区组成，总面积24平方公里。虎口瀑、珍珠瀑、五叠瀑、龙潭、水袈裟大佛等数十个自然瀑布组成了瀑布群，最壮观的是高102米、宽80米的主瀑布。",
+ "intro_en": "The Three Gorges Falls is located within the Yangtze Three Gorges National Geopark. It consists of two scenic spots: the Three Gorges Falls and the Golden Lion Cave, with a total area of ​​24 square kilometers. Dozens of natural waterfalls such as Hukou Waterfall, Pearl Waterfall, Wudie Waterfall, Longtan, and Water Kasaya Buddha form a waterfall group. The most spectacular one is the main waterfall that is 102 meters high and 80 meters wide.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%E5%AE%9C%E6%98%8C%E4%B8%89%E5%B3%A1%E5%A4%A7%E7%80%91%E5%B8%83.jpg/1280px-%E5%AE%9C%E6%98%8C%E4%B8%89%E5%B3%A1%E5%A4%A7%E7%80%91%E5%B8%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "宜昌三峡大瀑布.jpg",
+   "author": "Fxqf",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%E5%AE%9C%E6%98%8C%E4%B8%89%E5%B3%A1%E5%A4%A7%E7%80%91%E5%B8%83.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "http://www.sxdpb.cn/ticket/index.htm",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yichang Sanxia Airport",
+    "iata": "YIH",
+    "city": "Yichang (Xiaoting)",
+    "country": "CN",
+    "lat": 30.554132,
+    "lon": 111.482563,
+    "type": "medium_airport",
+    "distance_km": 44.4
+   },
+   {
+    "name": "Shennongjia Hongping Airport",
+    "iata": "HPG",
+    "city": "Shennongjia (Hongping)",
+    "country": "CN",
+    "lat": 31.626,
+    "lon": 110.34,
+    "type": "medium_airport",
+    "distance_km": 121.7
+   },
+   {
+    "name": "Jingzhou Shashi Airport",
+    "iata": "SHS",
+    "city": "Jingzhou (Shashi)",
+    "country": "CN",
+    "lat": 30.29281,
+    "lon": 112.44854,
+    "type": "medium_airport",
+    "distance_km": 128.5
+   }
+  ],
+  "nearest_airport_km": 44.4,
+  "high_speed_stations": [
+   {
+    "name": "宜昌东",
+    "name_en": "Yichangdong",
+    "lat": 30.6604102,
+    "lon": 111.3648824,
+    "distance_km": 30.3,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "小溪塔",
+    "name_en": "Xiaoxita",
+    "lat": 30.7821632,
+    "lon": 111.3434352,
+    "distance_km": 16.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "宜昌北",
+    "name_en": "Yichangbei",
+    "lat": 30.7470051,
+    "lon": 111.4696507,
+    "distance_km": 24.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "宜昌",
+    "name_en": "Yichang",
+    "lat": 30.7042942,
+    "lon": 111.2932136,
+    "distance_km": 25.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "宜昌富力皇冠假日酒店",
+   "name_en": "Crowne Plaza",
+   "stars": null,
+   "brand": null,
+   "lat": 30.6817554,
+   "lon": 111.3030712,
+   "distance_km": 27.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "山楂树云裳酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9533622,
+   "lon": 111.5157862,
+   "distance_km": 18.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "百里荒帐篷酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9451685,
+   "lon": 111.5166725,
+   "distance_km": 18.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Méridien",
+   "name_en": null,
+   "stars": null,
+   "brand": "Le Méridien",
+   "lat": 30.76654,
+   "lon": 111.2720793,
+   "distance_km": 19.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Longquan Hotel",
+   "name_en": "Longquan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.7694093,
+   "lon": 111.2576117,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 15,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/三峡大瀑布"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

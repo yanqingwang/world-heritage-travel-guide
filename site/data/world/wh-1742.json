@@ -1,0 +1,154 @@
+{
+ "id": "wh-1742",
+ "unesco_id": "1742",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 796,
+ "popularity_score": 3171,
+ "country": "JO",
+ "country_zh": "约旦",
+ "country_en": "Jordan",
+ "countries": [
+  {
+   "iso2": "JO",
+   "zh": "约旦",
+   "en": "Jordan"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "JO-AQ",
+ "subdivision_zh": "亚喀巴省",
+ "subdivision_en": "Aqaba Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "亚喀巴海洋保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Aqaba Marine Reserve",
+ "name_local": "محمية العقبة البحرية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1742-aqaba_marine_reserve",
+ "lat": 29.4307022,
+ "lon": 34.9718427,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产位于红海最北端，珊瑚礁、海草床、中光层珊瑚礁错落分布，共同维系丰富的海洋生物种群和生态过程。作为世界最北端的热带珊瑚礁系统，这里以其耐热珊瑚著称。过去约万年间，这些珊瑚逐渐适应了海洋热浪、高盐度和夏季高温环境。保护区守卫着重要海洋遗传资源，拥有极其丰富的生物多样性，包括150多种硬珊瑚、500多种鱼类、1000种软体动物。这里栖息着61%的红海特有石珊瑚物种，其珊瑚的地方特有性具有全球性意义。此外，80多种鱼类为红海或亚喀巴湾特有物种。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The property, located at the northernmost tip of the Red Sea, comprises a mosaic of coral reefs, seagrass beds, and mesophotic reefs that sustain diverse marine life and ecological processes. Recognized as the world’s northernmost tropical coral reef system, the property is notable for its thermally resilient corals, which have adapted over the last 10,000 years to marine heatwaves, high salinity, and elevated summer temperatures. The reserve safeguards important marine genetic resources and supports exceptional biodiversity, including more than 150 species of hard coral, over 500 species of fish, and 1,000 species of molluscs. Its coral endemism is globally significant, supporting approximately 61% of all Red Sea endemic hard coral species, while more than 80 fish species are endemic to the Red Sea or Gulf of Aqaba.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يقع هذا الموقع في أقصى الطرف الشمالي للبحر الأحمر، ويضمُّ فسيفساء من الشعاب المرجانية ومروج الأعشاب البحرية والشعاب المرجانية التي تعيش في إضاءة منخفضة، وهي تدعم كائنات حية بحرية وعمليات إيكولوجية متنوعة. ويُعرف هذا الموقع بأنه يحتوي على منظومة الشعاب المرجانية الموجودة في أقصى شمال المنطقة المدارية، ويتميز بوجود المرجان المقاوم للحرارة الذي تأقلم خلال أكثر من 10,000 عام مع موجات الحر البحرية والملوحة العالية ودرجات الحرارة المرتفعة في فصل الصيف. وتصون هذه المحمية موارد جينية بحرية هامة وتدعم تنوعاً بيولوجياً استثنائياً، يتضمن أكثر من 150 نوعاً من المرجان القاسي، وأكثر من 500 نوع من الأسماك، و1000 نوع من الرخويات. وكذلك، فإنَّ نسبة الأنواع المرجانية المتوطنة هي نسبة مرتفعة على الصعيد العالمي، وتحتوي المحمية على 61% تقريباً من مجمل الأنواع المرجانية القاسية المتوطنة في البحر الأحمر، وهناك أيضاً أكثر من 80 نوعاً من الأسماك المتوطنة في البحر الأحمر أو في خليج العقبة.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1742.jpg",
+   "title": "Aqaba Marine Reserve",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1742",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1742",
+ "transport": {
+  "airports": [
+   {
+    "name": "King Hussein International Airport",
+    "iata": "AQJ",
+    "city": "Aqaba",
+    "country": "JO",
+    "lat": 29.611601,
+    "lon": 35.018101,
+    "type": "large_airport",
+    "distance_km": 20.6
+   },
+   {
+    "name": "Taba International Airport",
+    "iata": "TCP",
+    "city": "Taba",
+    "country": "EG",
+    "lat": 29.594496,
+    "lon": 34.775752,
+    "type": "medium_airport",
+    "distance_km": 26.3
+   },
+   {
+    "name": "Ramon International Airport",
+    "iata": "ETM",
+    "city": "Eilat",
+    "country": "IL",
+    "lat": 29.727009,
+    "lon": 35.014116,
+    "type": "large_airport",
+    "distance_km": 33.2
+   }
+  ],
+  "nearest_airport_km": 20.6,
+  "distance_beijing_km": 7276.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JO",
+  "country_zh": "约旦",
+  "country_en": "Jordan",
+  "status": "visa_on_arrival",
+  "days": null,
+  "requirement": "eVisa / Visa on arrival[6][69]",
+  "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JO",
+   "country_zh": "约旦",
+   "country_en": "Jordan",
+   "status": "visa_on_arrival",
+   "days": null,
+   "requirement": "eVisa / Visa on arrival[6][69]",
+   "notes": "Visa can be obtained upon arrival, it will cost a total of 40 JOD, obtainable at most international ports of entry and land border crossings. (except King Hussein/Allenby Bridge)"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 12
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1742"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aqaba%20Marine%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

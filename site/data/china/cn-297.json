@@ -1,0 +1,178 @@
+{
+ "id": "cn-297",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "四川省",
+ "province_en": "Sichuan",
+ "province_iso": "CN-SC",
+ "city_zh": "阿坝藏族羌族自治州",
+ "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
+ "name_zh": "阿坝州汶川特别旅游区",
+ "name_en": "Abazhouwenchuantebie Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "abazhouwenchuantebie-297",
+ "lat": 30.937221,
+ "lon": 103.427301,
+ "address_zh": "阿坝藏族羌族自治州汶川县水磨镇",
+ "address_en": "Shuimo Town, Wenchuan County, Aba Tibetan and Qiang Autonomous Prefecture",
+ "address_en_source": "machine_translation",
+ "category": "theme",
+ "category_zh": "主题乐园",
+ "category_en": "Theme park",
+ "intro_zh": "旅游区位于四川省阿坝藏族羌族自治州汶川县漩三路。以\"世界汶川、水墨桃源\"为旅游定位，是2008年5月12日汶川特大地震重建后特别开发的纪念性和文化主题景区。旅游区涵盖汶川南部的三江乡、映秀镇和水磨镇，由梦幻三江、天地映秀、水磨古镇组成。",
+ "intro_en": "The tourist area is located on Xuansan Road, Wenchuan County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province. Positioned as \"World Wenchuan, Ink Peachland\", it is a commemorative and cultural-themed scenic spot specially developed after the reconstruction of the Wenchuan earthquake on May 12, 2008. The tourist area covers Sanjiang Township, Yingxiu Town and Shuimo Town in the south of Wenchuan, and is composed of Dream Sanjiang, Tiandi Yingxiu and Shuimo Ancient Town.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chengdu Shuangliu International Airport",
+    "iata": "CTU",
+    "city": "Chengdu (Shuangliu)",
+    "country": "CN",
+    "lat": 30.558257,
+    "lon": 103.945966,
+    "type": "large_airport",
+    "distance_km": 65.1
+   },
+   {
+    "name": "Chengdu Tianfu International Airport",
+    "iata": "TFU",
+    "city": "Chengdu (Jianyang)",
+    "country": "CN",
+    "lat": 30.31252,
+    "lon": 104.441284,
+    "type": "large_airport",
+    "distance_km": 119.3
+   },
+   {
+    "name": "Mianyang Nanjiao Airport",
+    "iata": "MIG",
+    "city": "Mianyang (Fucheng)",
+    "country": "CN",
+    "lat": 31.428101,
+    "lon": 104.740997,
+    "type": "medium_airport",
+    "distance_km": 136.4
+   }
+  ],
+  "nearest_airport_km": 65.1,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "映秀",
+    "name_en": null,
+    "lat": 31.0658524,
+    "lon": 103.4827201,
+    "distance_km": 15.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "青城山",
+    "name_en": "Qingchengshan",
+    "lat": 30.8949012,
+    "lon": 103.6050814,
+    "distance_km": 17.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "龙池",
+    "name_en": null,
+    "lat": 31.064602,
+    "lon": 103.559252,
+    "distance_km": 18.9,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "寿江园宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9293215,
+   "lon": 103.4203262,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "绿庭水寨",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9603734,
+   "lon": 103.5421777,
+   "distance_km": 11.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "青城山高家庄精品民宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.8894711,
+   "lon": 103.5659336,
+   "distance_km": 14.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "广营宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0560527,
+   "lon": 103.4847579,
+   "distance_km": 14.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "鹤翔山庄",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.8986656,
+   "lon": 103.5879427,
+   "distance_km": 15.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 21,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

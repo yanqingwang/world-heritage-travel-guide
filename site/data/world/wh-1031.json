@@ -1,0 +1,162 @@
+{
+ "id": "wh-1031",
+ "unesco_id": "1031",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 830,
+ "popularity_score": 1720,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "Province of Minho, District of Braga",
+ "subdivision_iso": "PT-03",
+ "subdivision_zh": "布拉加区",
+ "subdivision_en": "Braga",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "吉马良斯历史中心与库鲁斯区[",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Guimarães and Couros Zone",
+ "name_local": "Centro Histórico de Guimarães e Zona de Couros",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
+ "slug": "1031-historic_centre_of_guimarães_and_couros_",
+ "lat": 41.445157,
+ "lon": -8.290838,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)",
+ "year": "2001",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "吉马良斯历史中心与库鲁斯区由已列入《世界遗产名录》的吉马良斯历史中心拓展而成，遗产原范围为内城，新增区包括2座修道院建筑群和库鲁斯工业区。后者与流经此地的河流一样，得名于传统的鞣革手艺。虽然这项手工艺在20世纪中叶已然衰落，但有形的证据得以保留，特别是19世纪和20世纪初的制革厂、工人住宅、城市空间。此次拓界使这处世界遗产能够更充分地诠释葡萄牙一千年来的城市、建筑和社会发展。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The historic town of Guimarães is associated with the emergence of the Portuguese national identity in the 12th century. An exceptionally well-preserved and authentic example of the evolution of a medieval settlement into a modern town, its rich building typology exemplifies the specific development of Portuguese architecture from the 15th to 19th century through the consistent use of traditional building materials and techniques. The property includes two monastic complexes and an industrial area, the Couros Zone, which, like the local river, was named after the traditional craft of leather tanning. Evidence of the craft, though no longer practiced, persists in the form of tanneries, workers' houses and urban spaces from the 19th and early 20th centuries. The property bears witness to a thousand years of Portuguese urban, architectural and societal developments.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "A cidade histórica de Guimarães encontra-se associada à emergência da identidade nacional portuguesa no século XII. Constitui um exemplo excepcionalmente bem conservado da evolução de uma localidade medieval para uma cidade moderna, com a rica tipologia edificativa a mostrar o desenvolvimento da arquitectura portuguesa entre os séculos XV e XIX com o uso continuado de técnicas e materiais de construção tradicionais. Em 2021, foi aberto o procedimento de ampliação da classificação do Centro Histórico de Guimarães à Zona de Couros e em 19 de Setembro de 2023 foi aprovado o alargamento da área Património Mundial, e alterada a designação, passando a designar-se Centro Histórico de Guimarães e Zona de Couros (até então designava-se \"Centro Histórico de Guimarães\").",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guimaraes%20Portugal%20Pra%C3%A7a-de-S-Tiago-01.jpg?width=1280",
+   "title": "Guimaraes Portugal Praça-de-S-Tiago-01.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Guimaraes%20Portugal%20Pra%C3%A7a-de-S-Tiago-01.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1031.jpg",
+   "title": "Historic Centre of Guimarães and Couros Zone",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1031",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1031",
+ "transport": {
+  "airports": [
+   {
+    "name": "Francisco de Sá Carneiro Airport",
+    "iata": "OPO",
+    "city": "Porto",
+    "country": "PT",
+    "lat": 41.2481002808,
+    "lon": -8.68138980865,
+    "type": "large_airport",
+    "distance_km": 39.3
+   },
+   {
+    "name": "Vila Real Airport",
+    "iata": "VRL",
+    "city": "Vila Real",
+    "country": "PT",
+    "lat": 41.2743,
+    "lon": -7.72047,
+    "type": "medium_airport",
+    "distance_km": 51.3
+   },
+   {
+    "name": "Aerodromo Goncalves Lobato (Viseu Airport)",
+    "iata": "VSE",
+    "city": "Viseu",
+    "country": "PT",
+    "lat": 40.725498,
+    "lon": -7.88899,
+    "type": "medium_airport",
+    "distance_km": 86.8
+   }
+  ],
+  "nearest_airport_km": 39.3,
+  "distance_beijing_km": 9418.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 13
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1031"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Guimar%C3%A3es"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:39Z"
+}

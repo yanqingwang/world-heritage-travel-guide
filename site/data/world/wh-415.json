@@ -1,0 +1,154 @@
+{
+ "id": "wh-415",
+ "unesco_id": "415",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1085,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "Etat de Oaxaca de Juarez, municipalites de Oaxaca, Xoxocotlan et Cuilapan",
+ "subdivision_iso": "MX-OAX",
+ "subdivision_zh": "瓦哈卡州",
+ "subdivision_en": "Oaxaca",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦哈卡历史中心与阿尔班山考古遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+ "name_local": "Centro histórico de Oaxaca y zona arqueológica de Monte Albán",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "415-historic_centre_of_oaxaca_and_archaeolog",
+ "lat": 17.06194,
+ "lon": -96.72167,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在1500多年的历史中，曾先后有多个民族在赫奥尔巴山居住过，他们包括奥尔梅克人、萨巴特克人和米斯泰克人。在阿尔班山考古遗址有许多梯田、水坝、运河、金字塔以及人造山，这些都是在山上开挖修建出来的，是神圣地形学的标志。在阿尔班山考古遗址附近的瓦哈卡市采用的是纵横交错的城市格局，展示了西班牙殖民时期城镇规划的一种范例。城市中的建筑结构非常坚固，说明这是为了适应当地地震多发的情况而设计建造的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Inhabited over a period of 1,500 years by a succession of peoples – Olmecs, Zapotecs and Mixtecs – the terraces, dams, canals, pyramids and artificial mounds of Monte Albán were literally carved out of the mountain and are the symbols of a sacred topography. The nearby city of Oaxaca, which is built on a grid pattern, is a good example of Spanish colonial town planning. The solidity and volume of the city's buildings show that they were adapted to the earthquake-prone region in which these architectural gems were constructed.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este sitio fue habitado sucesivamente por los olmecas, zapotecas y mixtecas durante quince siglos. Los terraplenes, diques, canales, pirámides y montículos artificiales de Monte Albán fueron literalmente excavados en la montaña y son símbolos de una topografía sagrada. Situada en sus cercanías, la ciudad de Oaxaca con su trazado en damero constituye una excelente muestra del urbanismo colonial español. La solidez y volumen de sus edificios, verdaderas obras de arte de la arquitectura, atestiguan que su construcción se adaptó a las características sísmicas de la región.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_415.jpg",
+   "title": "Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/415",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/415",
+ "transport": {
+  "airports": [
+   {
+    "name": "Xoxocotlán International Airport",
+    "iata": "OAX",
+    "city": "Oaxaca",
+    "country": "MX",
+    "lat": 16.998773,
+    "lon": -96.726092,
+    "type": "large_airport",
+    "distance_km": 7.0
+   },
+   {
+    "name": "Puerto Escondido International Airport",
+    "iata": "PXM",
+    "city": "Puerto Escondido",
+    "country": "MX",
+    "lat": 15.876808,
+    "lon": -97.0891,
+    "type": "medium_airport",
+    "distance_km": 137.5
+   },
+   {
+    "name": "Bahías de Huatulco International Airport",
+    "iata": "HUX",
+    "city": "Huatulco",
+    "country": "MX",
+    "lat": 15.775437,
+    "lon": -96.260456,
+    "type": "large_airport",
+    "distance_km": 151.3
+   }
+  ],
+  "nearest_airport_km": 7.0,
+  "distance_beijing_km": 12792.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/415"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

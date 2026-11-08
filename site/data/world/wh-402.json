@@ -1,0 +1,162 @@
+{
+ "id": "wh-402",
+ "unesco_id": "402",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 491,
+ "popularity_score": 13853,
+ "country": "PE",
+ "country_zh": "秘鲁",
+ "country_en": "Peru",
+ "countries": [
+  {
+   "iso2": "PE",
+   "zh": "秘鲁",
+   "en": "Peru"
+  }
+ ],
+ "region": "Dep. Madre de Dios y Cusco, Provincias: Manu y Paucartambo",
+ "subdivision_iso": "PE-CUS",
+ "subdivision_zh": "库斯科大区",
+ "subdivision_en": "Cusco Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "玛努国家公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Manú National Park",
+ "name_local": "Parque Nacional de Manú",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "402-manú_national_park",
+ "lat": -12.14,
+ "lon": -71.66,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1987",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "玛努国家公园的面积有150万公顷，从海拔150米到4200米之间各层分布着不同种类的植物。在低层的热带丛林中，生活着丰富的动物和植物。此处已发现约850种鸟类以及罕见的巨型水獭和庞大的犰狳等动物。美洲虎也经常出没在这个公园里。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This huge 1.5 million-ha park has successive tiers of vegetation rising from 150 to 4,200 m above sea-level. The tropical forest in the lower tiers is home to an unrivalled variety of animal and plant species. Some 850 species of birds have been identified and rare species such as the giant otter and the giant armadillo also find refuge there. Jaguars are often sighted in the park.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Este inmenso parque de 1.500.000 hectáreas posee una gran variedad de vegetación estratificada entre 150 y 4.200 metros de altura. El bosque tropical de las zonas menos elevadas alberga una variedad incomparable de especies animales y vegetales. Se han identificado en él hasta 850 clases de pájaros. Algunas especies poco comunes como la nutria y el armadillo gigantes han encontrado refugio en este sitio, donde también se ha podido observar la presencia frecuente de jaguares.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manu%20riverbank.jpg?width=1280",
+   "title": "Manu riverbank.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Manu%20riverbank.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_402.jpg",
+   "title": "Manú National Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/402",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/402",
+ "transport": {
+  "airports": [
+   {
+    "name": "Alejandro Velasco Astete International Airport",
+    "iata": "CUZ",
+    "city": "Cusco",
+    "country": "PE",
+    "lat": -13.535699844400002,
+    "lon": -71.9387969971,
+    "type": "large_airport",
+    "distance_km": 158.1
+   },
+   {
+    "name": "Andahuaylas Airport",
+    "iata": "ANS",
+    "city": "Andahuaylas",
+    "country": "PE",
+    "lat": -13.706399917602539,
+    "lon": -73.35040283203125,
+    "type": "small_airport",
+    "distance_km": 252.8
+   },
+   {
+    "name": "Padre Aldamiz International Airport",
+    "iata": "PEM",
+    "city": "Puerto Maldonado",
+    "country": "PE",
+    "lat": -12.6135997772,
+    "lon": -69.2285995483,
+    "type": "medium_airport",
+    "distance_km": 269.3
+   }
+  ],
+  "nearest_airport_km": 158.1,
+  "distance_beijing_km": 16948.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PE",
+  "country_zh": "秘鲁",
+  "country_en": "Peru",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PE",
+   "country_zh": "秘鲁",
+   "country_en": "Peru",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Nationals of China who have a valid US, Canada, Australia, Schengen Area, or UK visa or permanent resident permit can stay a visa-free up to 180 days for tourist or business purposes. The visa must be valid for a minimum of 6 months from the arrival date.[112][113]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/402"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manu%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:26Z"
+}

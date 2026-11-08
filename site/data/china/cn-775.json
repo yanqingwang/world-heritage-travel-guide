@@ -1,0 +1,197 @@
+{
+ "id": "cn-775",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "福建省",
+ "province_en": "Fujian",
+ "province_iso": "CN-FJ",
+ "city_zh": "南平市",
+ "city_en": "Nanping",
+ "name_zh": "南平市武夷山风景名胜区",
+ "name_en": "Nanpingshiwuyishan Scenic and Historic Area",
+ "name_en_source": "pinyin",
+ "slug": "nanpingshiwuyishanfengjingmingshengqu-775",
+ "lat": 27.668108,
+ "lon": 117.963042,
+ "address_zh": "南平市武夷山市武夷街道",
+ "address_en": "Wuyi Street, Wuyishan City, Nanping City",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "武夷山位于中国福建北部，素有“碧水丹山”“奇秀甲东南”之美誉，是首批国家级重点风景名胜区之一。武夷山分布着世界同纬度带现存最完整、最典型、面积最大的中亚热带原生性森林生态系统。主要景点有天游峰、桃源洞、武夷宫、大王峰、玉女峰、虎啸岩、一线天、天心寺、莲花峰、遇林亭。",
+ "intro_en": "Wuyi Mountain is located in the northern part of Fujian, China. It is known as the \"Blue Water Mountain\" and \"The Beautiful Southeast\". It is one of the first batch of national key scenic spots. Wuyi Mountain is home to the most complete, typical and largest central subtropical primary forest ecosystem in the world at the same latitude. The main attractions include Tianyou Peak, Taoyuan Cave, Wuyi Palace, Dawang Peak, Yunu Peak, Huxiao Rock, Yixiantian, Tianxin Temple, Lotus Peak and Yulin Pavilion.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm/1280px--2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "title": "2020年7月8日 福建武夷山遭强暴雨袭击 全市停水 景区关闭.webm",
+   "author": "中国新闻网",
+   "license": "CC BY 3.0",
+   "credit": "YouTube : 福建武夷山遭强暴雨袭击 全市停水 景区关闭 – View/save archived versions on archive.org",
+   "source": "https://commons.wikimedia.org/wiki/File:2020年7月8日_福建武夷山遭强暴雨袭击_全市停水_景区关闭.webm"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nanping Wuyishan Airport",
+    "iata": "WUS",
+    "city": "Wuyishan",
+    "country": "CN",
+    "lat": 27.7019,
+    "lon": 118.000999,
+    "type": "medium_airport",
+    "distance_km": 5.3
+   },
+   {
+    "name": "Shangrao Sanqingshan Airport",
+    "iata": "SQD",
+    "city": "Shangrao (Hengfeng)",
+    "country": "CN",
+    "lat": 28.3797,
+    "lon": 117.9643,
+    "type": "medium_airport",
+    "distance_km": 79.1
+   },
+   {
+    "name": "Sanming Shaxian Airport",
+    "iata": "SQJ",
+    "city": "Sanming (Sha)",
+    "country": "CN",
+    "lat": 26.4263,
+    "lon": 117.8336,
+    "type": "medium_airport",
+    "distance_km": 138.7
+   }
+  ],
+  "nearest_airport_km": 5.3,
+  "high_speed_stations": [
+   {
+    "name": "武夷山北",
+    "name_en": "Wuyishanbei",
+    "lat": 27.7810329,
+    "lon": 118.0403584,
+    "distance_km": 14.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "武夷山",
+    "name_en": "Wuyishan",
+    "lat": 27.6287401,
+    "lon": 117.9842007,
+    "distance_km": 4.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南源岭",
+    "name_en": null,
+    "lat": 27.6112573,
+    "lon": 117.9834182,
+    "distance_km": 6.6,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "东山埔",
+    "name_en": null,
+    "lat": 27.5972263,
+    "lon": 117.9857021,
+    "distance_km": 8.2,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Yunlong Hotel",
+   "name_en": "Yunlong Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 27.6559094,
+   "lon": 117.9792253,
+   "distance_km": 2.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "武夷山庄",
+   "name_en": "Wuyi Mountain Villa",
+   "stars": null,
+   "brand": null,
+   "lat": 27.6488936,
+   "lon": 117.9682239,
+   "distance_km": 2.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Min Hui Hotel",
+   "name_en": "Min Hui Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 27.6543925,
+   "lon": 117.9785559,
+   "distance_km": 2.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Home Inn",
+   "name_en": "Home Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 27.6446661,
+   "lon": 117.9740344,
+   "distance_km": 2.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "美海大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.645476,
+   "lon": 117.9750001,
+   "distance_km": 2.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 10,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

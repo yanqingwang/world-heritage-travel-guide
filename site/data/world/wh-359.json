@@ -1,0 +1,162 @@
+{
+ "id": "wh-359",
+ "unesco_id": "359",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 517,
+ "popularity_score": 12897,
+ "country": "BG",
+ "country_zh": "保加利亚",
+ "country_en": "Bulgaria",
+ "countries": [
+  {
+   "iso2": "BG",
+   "zh": "保加利亚",
+   "en": "Bulgaria"
+  }
+ ],
+ "region": "Razgrad Province",
+ "subdivision_iso": "BG-17",
+ "subdivision_zh": "拉兹格勒州",
+ "subdivision_en": "Razgrad",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "斯韦什塔里的色雷斯人墓",
+ "name_zh_source": "unesco_official",
+ "name_en": "Thracian Tomb of Sveshtari",
+ "name_local": "Свещарска гробница",
+ "local_lang": "bg",
+ "local_lang_name": "Bulgarian",
+ "slug": "359-thracian_tomb_of_sveshtari",
+ "lat": 43.744964,
+ "lon": 26.7663,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这个遗迹是1982年在保加利亚斯韦什塔里村附近发现的。这座公元前3世纪的色雷斯人古墓体现了色雷斯人宗教建筑的基本结构特点。古墓内有独特的建筑装饰、多彩的半人半植物女像柱和各种壁画。中央墓室墙上雕刻的10个女神雕像和拱顶的弦月窗式装饰是至今为止在色雷斯岛上发现的唯一一处。这个遗迹证明了盖塔人的文化，根据古代地理学，当时的色雷斯人与古希腊人和居住在北方的民族有着联系。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Свещарската гробница е тракийски култов комплекс, разположен в Североизточна България, област Разград, Община Исперих, на 2,5 км югозападно от село Свещари (на турски: Мумджилар), на 42 км североизточно от Разград. Гробницата е обект от списъка на световното културно и природно наследство на ЮНЕСКО и е сред Стоте национални туристически обекта.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sveshtari%20Thracian%20tomb%20Bulgaria%20IFB.JPG?width=1280",
+   "title": "Sveshtari Thracian tomb Bulgaria IFB.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Sveshtari%20Thracian%20tomb%20Bulgaria%20IFB.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_359.jpg",
+   "title": "Thracian Tomb of Sveshtari",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/359",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/359",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bucharest Băneasa Aurel Vlaicu International Airport",
+    "iata": "BBU",
+    "city": "Bucharest",
+    "country": "RO",
+    "lat": 44.503133,
+    "lon": 26.102944,
+    "type": "large_airport",
+    "distance_km": 99.6
+   },
+   {
+    "name": "Varna Airport",
+    "iata": "VAR",
+    "city": "Varna",
+    "country": "BG",
+    "lat": 43.232101,
+    "lon": 27.8251,
+    "type": "large_airport",
+    "distance_km": 102.7
+   },
+   {
+    "name": "Bucharest Henri Coandă International Airport",
+    "iata": "OTP",
+    "city": "Otopeni",
+    "country": "RO",
+    "lat": 44.571792,
+    "lon": 26.103285,
+    "type": "large_airport",
+    "distance_km": 106.1
+   }
+  ],
+  "nearest_airport_km": 99.6,
+  "distance_beijing_km": 7057.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "BG",
+  "country_zh": "保加利亚",
+  "country_en": "Bulgaria",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "BG",
+   "country_zh": "保加利亚",
+   "country_en": "Bulgaria",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "bg",
+  "local_lang_name": "Bulgarian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/359"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thracian%20Tomb%20of%20Sveshtari"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

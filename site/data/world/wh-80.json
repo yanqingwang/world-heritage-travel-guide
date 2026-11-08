@@ -1,0 +1,162 @@
+{
+ "id": "wh-80",
+ "unesco_id": "80",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1166,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Manche, Region of Basse-Normandie",
+ "subdivision_iso": "FR-50",
+ "subdivision_zh": "芒什省",
+ "subdivision_en": "Manche",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "圣米歇尔山及其海湾",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mont-Saint-Michel and its Bay",
+ "name_local": "Mont-Saint-Michel et sa baie",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "80-mont-saint-michel_and_its_bay",
+ "lat": 48.63556,
+ "lon": -1.51056,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "诺曼底与布列塔尼之间有一片广袤的沙滩，沙滩中央有个岩石小岛上，涨潮时常受潮水冲击，岛上矗立着被誉为“西方奇迹”的一座哥特式本笃会修道院，专为纪念天使长圣米歇尔而建，修道院周围则是一个村落。这座修道院建于11至16世纪之间，是非凡的技术和艺术杰作，完美地适应了周围独特的自然环境。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Perched on a rocky islet in the midst of vast sandbanks exposed to powerful tides between Normandy and Brittany stand the 'Wonder of the West', a Gothic-style Benedictine abbey dedicated to the archangel St Michael, and the village that grew up in the shadow of its great walls. Built between the 11th and 16th centuries, the abbey is a technical and artistic tour de force , having had to adapt to the problems posed by this unique natural site.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Sur un îlot rocheux au milieu de grèves immenses soumises au va-et-vient de puissantes marées, à la limite entre la Normandie et la Bretagne, s'élèvent la « merveille de l'Occident », abbaye bénédictine de style gothique dédiée à l'archange saint Michel, et le village né à l'abri de ses murailles. La construction de l'abbaye, qui s'est poursuivie du XI e au XVI e siècle, en s'adaptant à un site naturel très difficile, a été un tour de force technique et artistique.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2017-04%20Mont%20Saint-Michel%2006.jpg?width=1280",
+   "title": "2017-04 Mont Saint-Michel 06.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:2017-04%20Mont%20Saint-Michel%2006.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_80.jpg",
+   "title": "Mont-Saint-Michel and its Bay",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/80",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/80",
+ "transport": {
+  "airports": [
+   {
+    "name": "Rennes-Saint-Jacques Airport",
+    "iata": "RNS",
+    "city": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine",
+    "country": "FR",
+    "lat": 48.0695,
+    "lon": -1.73479,
+    "type": "medium_airport",
+    "distance_km": 65.1
+   },
+   {
+    "name": "Jersey Airport",
+    "iata": "JER",
+    "city": "St. Peter",
+    "country": "JE",
+    "lat": 49.207901,
+    "lon": -2.19551,
+    "type": "medium_airport",
+    "distance_km": 81.0
+   },
+   {
+    "name": "Caen Carpiquet airport",
+    "iata": "CFR",
+    "city": "Caen",
+    "country": "FR",
+    "lat": 49.17678,
+    "lon": -0.454883,
+    "type": "medium_airport",
+    "distance_km": 97.9
+   }
+  ],
+  "nearest_airport_km": 65.1,
+  "distance_beijing_km": 8486.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/80"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

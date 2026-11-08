@@ -1,0 +1,154 @@
+{
+ "id": "wh-959",
+ "unesco_id": "959",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1202,
+ "popularity_score": null,
+ "country": "CL",
+ "country_zh": "智利",
+ "country_en": "Chile",
+ "countries": [
+  {
+   "iso2": "CL",
+   "zh": "智利",
+   "en": "Chile"
+  }
+ ],
+ "region": "Fifth Region, Province Valparaíso",
+ "subdivision_iso": "CL-VS",
+ "subdivision_zh": "",
+ "subdivision_en": "Valparaiso Region",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "瓦尔帕莱索港口城市历史区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Quarter of the Seaport City of Valparaíso",
+ "name_local": "Barrio histórico de la ciudad portuaria de Valparaíso",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "959-historic_quarter_of_the_seaport_city_of_",
+ "lat": -33.04063889,
+ "lon": -71.628,
+ "coord_accuracy": "wikidata_search",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "2003",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "瓦尔帕莱索殖民城市是19世纪晚期拉丁美洲城市和建筑发展的典范。城市地理位置如同一个圆形露天剧场，布局非常有特色，山腰上到处可见本国的城市建筑，其中还点缀着星罗棋布的教堂尖塔，在平地部分则采用几何布局。瓦尔帕莱索还完好保存了一些早年有趣的工业基础设施，例如陡峭山坡上不计其数的“起卸机”。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The colonial city of Valparaíso presents an excellent example of late 19th-century urban and architectural development in Latin America. In its natural amphitheatre-like setting, the city is characterized by a vernacular urban fabric adapted to the hillsides that are dotted with a great variety of church spires. It contrasts with the geometrical layout utilized in the plain. The city has well preserved its interesting early industrial infrastructures, such as the numerous ‘elevators’ on the steep hillsides.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "La ciudad colonial de Valparaíso constituye un ejemplo notable del desarrollo urbano y arquitectónico de América Latina a finales del siglo XIX. Enmarcada en un sitio natural en forma de anfiteatro, la ciudad se caracteriza por un tejido urbanístico tradicional especialmente adaptado a las colinas circundantes, que contrasta con el trazado geométrico utilizado en terreno llano. En su paisaje urbano, dotado de unidad formal, se yergue una gran variedad de campanarios de iglesias. La ciudad ha conservado interesantes estructuras de los inicios de la era industrial, por ejemplo los múltiples funiculares que recorren las escarpadas laderas de las colinas.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_959.jpg",
+   "title": "Historic Quarter of the Seaport City of Valparaíso",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/959",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/959",
+ "transport": {
+  "airports": [
+   {
+    "name": "Comodoro Arturo Merino Benítez International Airport",
+    "iata": "SCL",
+    "city": "Santiago",
+    "country": "CL",
+    "lat": -33.393001556396484,
+    "lon": -70.78579711914062,
+    "type": "large_airport",
+    "distance_km": 87.6
+   },
+   {
+    "name": "Governor Francisco Gabrielli International Airport",
+    "iata": "MDZ",
+    "city": "Mendoza",
+    "country": "AR",
+    "lat": -32.831699,
+    "lon": -68.7929,
+    "type": "large_airport",
+    "distance_km": 265.6
+   },
+   {
+    "name": "Domingo Faustino Sarmiento Airport",
+    "iata": "UAQ",
+    "city": "San Juan",
+    "country": "AR",
+    "lat": -31.571501,
+    "lon": -68.418198,
+    "type": "medium_airport",
+    "distance_km": 343.0
+   }
+  ],
+  "nearest_airport_km": 87.6,
+  "distance_beijing_km": 19023.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CL",
+  "country_zh": "智利",
+  "country_en": "Chile",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6][39]",
+  "notes": "National visa may be substituted with a visa issued by Canada or the United States which is valid for a minimum of 6 months from the arrival date, or PR Card (green card)."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CL",
+   "country_zh": "智利",
+   "country_en": "Chile",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6][39]",
+   "notes": "National visa may be substituted with a visa issued by Canada or the United States which is valid for a minimum of 6 months from the arrival date, or PR Card (green card)."
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/959"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:37Z"
+}

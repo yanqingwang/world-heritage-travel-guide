@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Fuling District"
 lat: 29.495731
 lon: 107.585789
-updated_at: "2026-11-08T12:02:05Z"
+updated_at: "2026-11-08T12:52:05Z"
 ---
 
 # 武陵山大裂谷景区 / Wulingshandaliegu Scenic Area

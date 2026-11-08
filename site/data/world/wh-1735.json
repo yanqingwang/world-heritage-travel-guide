@@ -1,0 +1,162 @@
+{
+ "id": "wh-1735",
+ "unesco_id": "1735",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 608,
+ "popularity_score": 9267,
+ "country": "AE",
+ "country_zh": "阿拉伯联合酋长国",
+ "country_en": "United Arab Emirates",
+ "countries": [
+  {
+   "iso2": "AE",
+   "zh": "阿拉伯联合酋长国",
+   "en": "United Arab Emirates"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "AE-SH",
+ "subdivision_zh": "沙迦酋长国",
+ "subdivision_en": "Emirate of Sharjah",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "法亚古地貌",
+ "name_zh_source": "unesco_official",
+ "name_en": "Faya Palaeolandscape",
+ "name_local": "جبل الفاية",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "1735-faya_palaeolandscape",
+ "lat": 25.111404,
+ "lon": 55.838957,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产位于波斯湾和阿拉伯海之间，保存着从旧石器时代中期到新石器时代（距今21万-6千年前）的人类活动证据。这片土地的气候以2万年为周期在干燥和多雨间轮替，考古地层揭示了狩猎采集者和牧民如何适应极端气候。除维持基本生计之外，早期人类群体还充分利用当地地质特征采集资源。蕴藏多种水资源和原材料的法亚遗址为研究超干旱环境下的人类韧性提供了珍贵资料。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located between the Persian Gulf and Arabian Sea, the property preserves evidence of human occupation from the Middle Palaeolithic and Neolithic periods (210,000–6,000 years ago). Archaeological layers reveal how hunter-gatherers and pastoralists adapted to extreme climates, alternating between arid and rainy periods every 20,000 years. Beyond subsistence activities, early human groups utilized the site's geomorphological features for resource extraction. With diverse water sources and raw materials, Faya provides valuable insights into human resilience in hyper-arid environments.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "يوجد هذا الموقع بين الخليج الفارسي وبحر العرب، وهو يحفظ أدلة على وجود الإنسان فيه خلال الفترة الممتدة من العصر الحجري الأوسط إلى العصر الحجري الحديث ( من 210000 سنة إلى 6000 سنة مضت). وقد كشفت الطبقات الأثرية كيف تأقلم الصيادون وجامعو الثمار والرعيان مع الظروف المناخية المتطرفة التي كانت تتراوح بين فترات الجفاف والمطر كل 20000 عام. وقد استخدمت المجموعات البشرية الأولى تضاريس الموقع لاستخراج الموارد، إلى جانب ممارستها لأنشطة الكفاف. ويعطي موقع الفاية فكرة قيِّمة عن قدرة الإنسان على الصمود في بيئات شديدة الجفاف بالاستفادة من المصادر المتعددة للمياه ومن المواد الخام.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jebel%20Faya.jpg?width=1280",
+   "title": "Jebel Faya.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Jebel%20Faya.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1735.jpg",
+   "title": "Faya Palaeolandscape",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1735",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1735",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sharjah International Airport",
+    "iata": "SHJ",
+    "city": "Sharjah",
+    "country": "AE",
+    "lat": 25.3286,
+    "lon": 55.5172,
+    "type": "large_airport",
+    "distance_km": 40.4
+   },
+   {
+    "name": "Fujairah International Airport",
+    "iata": "FJR",
+    "city": "Fujairah",
+    "country": "AE",
+    "lat": 25.108411,
+    "lon": 56.328061,
+    "type": "large_airport",
+    "distance_km": 49.2
+   },
+   {
+    "name": "Dubai International Airport",
+    "iata": "DXB",
+    "city": "Dubai",
+    "country": "AE",
+    "lat": 25.24979,
+    "lon": 55.370992,
+    "type": "large_airport",
+    "distance_km": 49.5
+   }
+  ],
+  "nearest_airport_km": 40.4,
+  "distance_beijing_km": 5827.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "AE",
+  "country_zh": "阿拉伯联合酋长国",
+  "country_en": "United Arab Emirates",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "90 days within any 180 day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "AE",
+   "country_zh": "阿拉伯联合酋长国",
+   "country_en": "United Arab Emirates",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "90 days within any 180 day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 20
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1735"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jebel%20Faya"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

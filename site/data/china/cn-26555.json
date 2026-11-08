@@ -1,0 +1,155 @@
+{
+ "id": "cn-26555",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "湖北省",
+ "province_en": "Hubei",
+ "province_iso": "CN-HB",
+ "city_zh": "黄冈市",
+ "city_en": "Huanggang City",
+ "name_zh": "黄冈市麻城龟峰山景区",
+ "name_en": "Huanggangshimachengguifengshan Scenic Area",
+ "name_en_source": "pinyin",
+ "slug": "huanggangshimachengguifengshan-26555",
+ "lat": 31.118494,
+ "lon": 115.234961,
+ "address_zh": "黄冈市麻城市",
+ "address_en": "Macheng City, Huanggang City",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "龟峰山景区位于鄂豫皖三省交界的大别山中段南麓，距离武汉市区120公里，距离麻城市区27公里，规划总面积为73.8平方公里，核心区域面积23.6平方公里。由神奇的龟首、雄伟的龟背和逼真的龟尾等9座山峰组成，从龟首到龟尾全长16公里、宽7公里，最高点险刀峰海拔1320米。\n景区山青水秀，环境优美，空气新鲜，森林覆盖率高达95%，负氧离子含量高达每立方厘米2万个以上，享有“绿色宝库”和“天然氧吧”的美誉，生态环境堪称全国一流，是观光、休闲和度假的理想之地。",
+ "intro_en": "Guifeng Mountain Scenic Area is located at the southern foot of the middle section of the Dabie Mountains at the junction of Hubei, Henan and Anhui provinces. It is 120 kilometers away from Wuhan City and 27 kilometers away from Macheng City. The total planned area is 73.8 square kilometers, and the core area is 23.6 square kilometers. It consists of 9 peaks, including the magical turtle head, the majestic turtle back and the lifelike turtle tail. It is 16 kilometers long and 7 kilometers wide from the turtle head to the turtle tail. The highest point, Xandao Peak, is 1,320 meters above sea level.\nThe scenic area has beautiful mountains and clear waters, a beautiful environment, fresh air, a forest coverage rate of 95%, and a negative oxygen ion content of more than 20,000 per cubic centimeter. It enjoys the reputation of a \"green treasure house\" and a \"natural oxygen bar\". The ecological environment is among the best in the country, and it is an ideal place for sightseeing, leisure and vacation.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.mcgfsly.com/index/index.html",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ezhou Huahu International Airport",
+    "iata": "EHU",
+    "city": "Ezhou",
+    "country": "CN",
+    "lat": 30.341178,
+    "lon": 115.03926,
+    "type": "large_airport",
+    "distance_km": 88.4
+   },
+   {
+    "name": "Wuhan Tianhe International Airport",
+    "iata": "WUH",
+    "city": "Wuhan (Huangpi)",
+    "country": "CN",
+    "lat": 30.774798,
+    "lon": 114.213723,
+    "type": "large_airport",
+    "distance_km": 104.6
+   },
+   {
+    "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
+    "iata": "AQG",
+    "city": "Anqing",
+    "country": "CN",
+    "lat": 30.582199,
+    "lon": 117.050003,
+    "type": "medium_airport",
+    "distance_km": 183.2
+   }
+  ],
+  "nearest_airport_km": 88.4,
+  "high_speed_stations": [
+   {
+    "name": "麻城北",
+    "name_en": null,
+    "lat": 31.1892671,
+    "lon": 114.9792945,
+    "distance_km": 25.6,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "三河",
+    "name_en": null,
+    "lat": 31.2736726,
+    "lon": 115.2148515,
+    "distance_km": 17.4,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "石材园",
+    "name_en": null,
+    "lat": 31.0635725,
+    "lon": 115.0333221,
+    "distance_km": 20.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "麻城",
+    "name_en": "Macheng",
+    "lat": 31.148281,
+    "lon": 114.957624,
+    "distance_km": 26.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "龟峰山庄洪山宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0902032,
+   "lon": 115.2150312,
+   "distance_km": 3.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "龟山客舍",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.0844691,
+   "lon": 115.2205384,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

@@ -1,0 +1,154 @@
+{
+ "id": "wh-600",
+ "unesco_id": "600",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1115,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Ile de France",
+ "subdivision_iso": "FR-IDF",
+ "subdivision_zh": "",
+ "subdivision_en": "Ile-de-France",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "巴黎塞纳河畔",
+ "name_zh_source": "unesco_official",
+ "name_en": "Paris, Banks of the Seine",
+ "name_local": "Paris, rives de la Seine",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "600-paris,_banks_of_the_seine",
+ "lat": 48.8567,
+ "lon": 2.3522,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1991",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从卢浮宫到埃菲尔铁塔，从协和广场到大小王宫，巴黎的历史变迁从塞纳河可见一斑。巴黎圣母院和圣礼拜堂堪称建筑杰作，而土耳其宽阔的广场和林荫道则影响着19世纪末和20世纪全世界的城市规划。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "From the Louvre to the Eiffel Tower, from the Place de la Concorde to the Grand and Petit Palais, the evolution of Paris and its history can be seen from the River Seine. The Cathedral of Notre-Dame and the Sainte Chapelle are architectural masterpieces while Haussmann's wide squares and boulevards influenced late 19th- and 20th-century town planning the world over.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Du Louvre jusqu'à la tour Eiffel, ou de la place de la Concorde au Grand Palais et au Petit Palais, on peut voir l'évolution de Paris et son histoire depuis la Seine. La cathédrale Notre-Dame et la Sainte-Chapelle sont des chefs-d'œuvre d'architecture. Quant aux larges places et avenues construites par Haussmann, elles ont influencé l'urbanisme de la fin du XIX e et du XX e siècle dans le monde entier.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_600.jpg",
+   "title": "Paris, Banks of the Seine",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/600",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/600",
+ "transport": {
+  "airports": [
+   {
+    "name": "Paris-Orly Airport",
+    "iata": "ORY",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "country": "FR",
+    "lat": 48.729499,
+    "lon": 2.358963,
+    "type": "large_airport",
+    "distance_km": 14.2
+   },
+   {
+    "name": "Charles de Gaulle International Airport",
+    "iata": "CDG",
+    "city": "Paris (Roissy-en-France, Val-d'Oise)",
+    "country": "FR",
+    "lat": 49.00896,
+    "lon": 2.554117,
+    "type": "large_airport",
+    "distance_km": 22.5
+   },
+   {
+    "name": "Beauvais-Tillé airport",
+    "iata": "BVA",
+    "city": "Beauvais",
+    "country": "FR",
+    "lat": 49.454399,
+    "lon": 2.11278,
+    "type": "large_airport",
+    "distance_km": 68.7
+   }
+  ],
+  "nearest_airport_km": 14.2,
+  "distance_beijing_km": 8220.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/600"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

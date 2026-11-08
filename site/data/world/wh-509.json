@@ -1,0 +1,168 @@
+{
+ "id": "wh-509",
+ "unesco_id": "509",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1098,
+ "popularity_score": null,
+ "country": "ZM",
+ "country_zh": "赞比亚",
+ "country_en": "Zambia",
+ "countries": [
+  {
+   "iso2": "ZM",
+   "zh": "赞比亚",
+   "en": "Zambia"
+  },
+  {
+   "iso2": "ZW",
+   "zh": "津巴布韦",
+   "en": "Zimbabwe"
+  }
+ ],
+ "region": "Livingstone District of Southern Province of the Republic of Zambia and Hwange District of Matabeleland North Province of Zimbabwe",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "莫西奥图尼亚瀑布（维多利亚瀑布）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Mosi-oa-Tunya / Victoria Falls",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "509-mosi-oa-tunya_/_victoria_falls",
+ "lat": -17.924777777778,
+ "lon": 25.858055555556,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1989",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "这是世界上最壮观的瀑布之一。赞比西河宽度超过2公里，瀑布奔入玄武岩峡谷，水雾形成的彩虹远隔20公里以外就能看到。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These are among the most spectacular waterfalls in the world. The Zambezi River, which is more than 2 km wide at this point, plunges noisily down a series of basalt gorges and raises an iridescent mist that can be seen more than 20 km away.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_509.jpg",
+   "title": "Mosi-oa-Tunya / Victoria Falls",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/509",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/509",
+ "transport": {
+  "airports": [
+   {
+    "name": "Harry Mwanga Nkumbula International Airport",
+    "iata": "LVI",
+    "city": "Livingstone",
+    "country": "ZM",
+    "lat": -17.821524,
+    "lon": 25.819642,
+    "type": "large_airport",
+    "distance_km": 12.2
+   },
+   {
+    "name": "Victoria Falls International Airport",
+    "iata": "VFA",
+    "city": "Victoria Falls",
+    "country": "ZW",
+    "lat": -18.097437,
+    "lon": 25.836867,
+    "type": "large_airport",
+    "distance_km": 19.3
+   },
+   {
+    "name": "Kasane International Airport",
+    "iata": "BBK",
+    "city": "Kasane",
+    "country": "BW",
+    "lat": -17.831653,
+    "lon": 25.166195,
+    "type": "large_airport",
+    "distance_km": 73.9
+   }
+  ],
+  "nearest_airport_km": 12.2,
+  "distance_beijing_km": 11334.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZM",
+  "country_zh": "赞比亚",
+  "country_en": "Zambia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][162]",
+  "notes": "Also eligible for a universal visa allowing access to Zimbabwe."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZM",
+   "country_zh": "赞比亚",
+   "country_en": "Zambia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][162]",
+   "notes": "Also eligible for a universal visa allowing access to Zimbabwe."
+  },
+  {
+   "iso2": "ZW",
+   "country_zh": "津巴布韦",
+   "country_en": "Zimbabwe",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "eVisa / Visa on arrival[6][163]",
+   "notes": "Also eligible for a universal visa allowing access to Zambia."
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 1
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/509"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:27Z"
+}

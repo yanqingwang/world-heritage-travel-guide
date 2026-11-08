@@ -1,0 +1,162 @@
+{
+ "id": "wh-876",
+ "unesco_id": "876",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1186,
+ "popularity_score": null,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province and Autonomous Community of Madrid",
+ "subdivision_iso": "ES-M",
+ "subdivision_zh": "",
+ "subdivision_en": "Madrid Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "埃纳雷斯堡大学城及历史区",
+ "name_zh_source": "unesco_official",
+ "name_en": "University and Historic Precinct of Alcalá de Henares",
+ "name_local": "Universidad y recinto histórico de Alcalá de Henares",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "876-university_and_historic_precinct_of_alca",
+ "lat": 40.482925,
+ "lon": -3.363131,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(vi)",
+ "year": "1998",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "埃纳雷斯堡是世界上第一座被规划成为大学城的城市，由西奈罗斯红衣大主教于16世纪早期建立。埃纳雷斯堡是后来西班牙传教士带到美洲的理想城市社区（又被称为上帝之城）的范本，同时它也为欧洲乃至全世界的大学提供了设计模型。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded by Cardinal Jiménez de Cisneros in the early 16th century, Alcalá de Henares was the world's first planned university city. It was the original model for the Civitas Dei (City of God), the ideal urban community which Spanish missionaries brought to the Americas. It also served as a model for universities in Europe and elsewhere.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fundada por el cardenal Jiménez de Cisneros a principios del siglo XVI, Alcalá de Henares fue la primera ciudad universitaria planificada del mundo. Fue el ejemplo de la Civitas Dei (Ciudad de Dios), comunidad urbana ideal que los misioneros españoles trasplantaron a América, y sirvió de modelo a toda una serie de universidades en Europa y otras partes del mundo.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Universidad%20de%20Alcal%C3%A1%20%28RPS%2018-05-2013%29%20Manzana%20Fundacional%20Cisneriana%2C%20maqueta.png?width=1280",
+   "title": "Universidad de Alcalá (RPS 18-05-2013) Manzana Fundacional Cisneriana, maqueta.png",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Universidad%20de%20Alcal%C3%A1%20%28RPS%2018-05-2013%29%20Manzana%20Fundacional%20Cisneriana%2C%20maqueta.png",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_876.jpg",
+   "title": "University and Historic Precinct of Alcalá de Henares",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/876",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/876",
+ "transport": {
+  "airports": [
+   {
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "iata": "MAD",
+    "city": "Madrid",
+    "country": "ES",
+    "lat": 40.493407,
+    "lon": -3.572249,
+    "type": "large_airport",
+    "distance_km": 17.7
+   },
+   {
+    "name": "Valladolid Airport",
+    "iata": "VLL",
+    "city": "Valladolid",
+    "country": "ES",
+    "lat": 41.7061,
+    "lon": -4.85194,
+    "type": "medium_airport",
+    "distance_km": 184.6
+   },
+   {
+    "name": "Salamanca Airport",
+    "iata": "SLM",
+    "city": "Salamanca",
+    "country": "ES",
+    "lat": 40.952099,
+    "lon": -5.50199,
+    "type": "medium_airport",
+    "distance_km": 187.7
+   }
+  ],
+  "nearest_airport_km": 17.7,
+  "distance_beijing_km": 9204.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/876"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:35Z"
+}

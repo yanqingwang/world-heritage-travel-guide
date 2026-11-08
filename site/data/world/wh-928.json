@@ -1,0 +1,162 @@
+{
+ "id": "wh-928",
+ "unesco_id": "928",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 752,
+ "popularity_score": 4368,
+ "country": "CR",
+ "country_zh": "哥斯达黎加",
+ "country_en": "Costa Rica",
+ "countries": [
+  {
+   "iso2": "CR",
+   "zh": "哥斯达黎加",
+   "en": "Costa Rica"
+  }
+ ],
+ "region": "Guanacaste and Alajuela provinces",
+ "subdivision_iso": "CR-G",
+ "subdivision_zh": "瓜纳卡斯特省",
+ "subdivision_en": "Guanacaste Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓜纳卡斯特自然保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Area de Conservación Guanacaste",
+ "name_local": "Área de Conservación Guanacaste",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "928-area_de_conservación_guanacaste",
+ "lat": 10.85,
+ "lon": -85.61666667,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "此保护区于1999年被列入世界遗产，现新增一块面积达15 000公顷的私人土地——圣艾雷那(St Elena)。这里有着保护生物多样性的重要自然栖息地，包括从中美洲蔓延到墨西哥北部的最佳旱地森林栖息地，以及一些濒危或珍稀动植物的主要栖息地。这个地方的陆地和海岸环境展示了重要的生态过程。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Area de Conservación Guanacaste (inscribed in 1999), was extended with the addition of a 15,000 ha private property, St Elena. It contains important natural habitats for the conservation of biological diversity, including the best dry forest habitats from Central America to northern Mexico and key habitats for endangered or rare plant and animal species. The site demonstrates significant ecological processes in both its terrestrial and marine-coastal environments.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Inscrito en la Lista del Patrimonio Mundial en 1999, este sitio se amplió posteriormente, para abarcar la zona de Santa Elena, una zona suplementaria de 15.000 hectáreas perteneciente a un particular. El área de conservación posee hábitats naturales importantes para la preservación de la diversidad biológica. Entre ellos figuran los mejores hábitats de bosque seco de toda la región que se extiende desde Centroamérica al norte de México, así como otros que son esenciales para la conservación de especies animales y vegetales, raras o en peligro de extinción. En este sitio tienen lugar procesos ecológicos de gran importancia, tanto en el medio ambiente terrestre como en el costero y marino.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guanacaste%20National%20Park.jpg?width=1280",
+   "title": "Guanacaste National Park.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Guanacaste%20National%20Park.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_928.jpg",
+   "title": "Area de Conservación Guanacaste",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/928",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/928",
+ "transport": {
+  "airports": [
+   {
+    "name": "Daniel Oduber Quirós International Airport",
+    "iata": "LIR",
+    "city": "Liberia",
+    "country": "CR",
+    "lat": 10.5933,
+    "lon": -85.544403,
+    "type": "large_airport",
+    "distance_km": 29.6
+   },
+   {
+    "name": "Nosara Airport",
+    "iata": "NOB",
+    "city": "Nicoya",
+    "country": "CR",
+    "lat": 9.976490020750001,
+    "lon": -85.65299987790002,
+    "type": "medium_airport",
+    "distance_km": 97.2
+   },
+   {
+    "name": "La Fortuna Arenal Airport",
+    "iata": "FON",
+    "city": "La Fortuna",
+    "country": "CR",
+    "lat": 10.469311,
+    "lon": -84.579073,
+    "type": "medium_airport",
+    "distance_km": 121.0
+   }
+  ],
+  "nearest_airport_km": 29.6,
+  "distance_beijing_km": 13936.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CR",
+  "country_zh": "哥斯达黎加",
+  "country_en": "Costa Rica",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa for stays up to 30 days. National visa may be substituted with a visa issued by Canada or the United States."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CR",
+   "country_zh": "哥斯达黎加",
+   "country_en": "Costa Rica",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa for stays up to 30 days. National visa may be substituted with a visa issued by Canada or the United States."
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 27
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/928"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Area%20de%20Conservaci%C3%B3n%20Guanacaste%20World%20Heritage%20Site"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-730",
+ "unesco_id": "730",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 600,
+ "popularity_score": 9945,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "Province of Bergamo, Lombardy",
+ "subdivision_iso": "IT-BG",
+ "subdivision_zh": "贝加莫省",
+ "subdivision_en": "Province of Bergamo",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿达的克里斯匹",
+ "name_zh_source": "unesco_official",
+ "name_en": "Crespi d'Adda",
+ "name_local": "Crespi d'Adda",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
+ "slug": "730-crespi_d'adda",
+ "lat": 45.596666666,
+ "lon": 9.536111111,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿达的克里斯匹位于意大利伦巴底地区的卡普里亚特·圣·赫瓦西奥城(Capriate San Gervasio)。克里斯匹是19世纪和20世纪初欧洲和北美“公司城” (company towns)的著名典范，是那些有知识的工业家们为满足工人们的需要而修建的。尽管受到现代社会经济和社会环境的变化的威胁，这些场所仍然保存完好，并部分用于工业。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Crespi d'Adda in Capriate San Gervasio in Lombardy is an outstanding example of the 19th- and early 20th-century 'company towns' built in Europe and North America by enlightened industrialists to meet the workers' needs. The site is still remarkably intact and is partly used for industrial purposes, although changing economic and social conditions now threaten its survival.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Crespi d'Adda (AFI: [ˈkrɛspi ˈdadːa]; Grèssp o Crèssp [ˈɡɾɛsp], ['cɾɛsp] in dialetto bergamasco) è una frazione del comune italiano di Capriate San Gervasio, in provincia di Bergamo, che in passato faceva parte del comune di Canonica d'Adda, al quale apparteneva in quanto a sud del Fosso bergamasco. Consiste in un villaggio operaio per ospitare le maestranze operanti nel settore tessile cotoniero, sorto a opera di Cristoforo Benigno Crespi a partire dal 1877 e passato poi nelle mani del figlio Silvio. Per l'eccezionale stato di conservazione del suo patrimonio storico e architettonico, nel 1995 fu annoverato tra i patrimoni dell'umanità dall'UNESCO. È infatti il villaggio operaio meglio conservato dell'Europa meridionale: benché esistano altri esempi simili, essi sono concentrati più nell'Europa centro-settentrionale.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20di%20Crespi%20d%27Adda.JPG?width=1280",
+   "title": "Vista di Crespi d'Adda.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Vista%20di%20Crespi%20d%27Adda.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_730.jpg",
+   "title": "Crespi d'Adda",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/730",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/730",
+ "transport": {
+  "airports": [
+   {
+    "name": "Il Caravaggio International Airport",
+    "iata": "BGY",
+    "city": "Orio al Serio (BG)",
+    "country": "IT",
+    "lat": 45.669362,
+    "lon": 9.708851,
+    "type": "large_airport",
+    "distance_km": 15.7
+   },
+   {
+    "name": "Milano Linate Airport",
+    "iata": "LIN",
+    "city": "Segrate (MI)",
+    "country": "IT",
+    "lat": 45.445099,
+    "lon": 9.27674,
+    "type": "large_airport",
+    "distance_km": 26.3
+   },
+   {
+    "name": "Milan Malpensa International Airport",
+    "iata": "MXP",
+    "city": "Ferno (VA)",
+    "country": "IT",
+    "lat": 45.6306,
+    "lon": 8.72811,
+    "type": "large_airport",
+    "distance_km": 63.0
+   }
+  ],
+  "nearest_airport_km": 15.7,
+  "distance_beijing_km": 8030.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 43
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/730"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crespi%20d%27Adda"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

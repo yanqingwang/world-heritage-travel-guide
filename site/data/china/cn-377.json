@@ -1,0 +1,178 @@
+{
+ "id": "cn-377",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河南省",
+ "province_en": "Henan",
+ "province_iso": "CN-HA",
+ "city_zh": "洛阳市",
+ "city_en": "Luoyang",
+ "name_zh": "洛阳市龙潭大峡谷景区",
+ "name_en": "Longtan Grand Canyon",
+ "name_en_source": "wikipedia",
+ "slug": "luoyangshilongtandaxiagu-377",
+ "lat": 34.978651,
+ "lon": 112.022649,
+ "address_zh": "洛阳市新安县石井镇",
+ "address_en": "Shijing Town, Xin'an County, Luoyang City",
+ "address_en_source": "machine_translation",
+ "category": "geology",
+ "category_zh": "地质奇观",
+ "category_en": "Geological wonder",
+ "intro_zh": "龙潭大峡谷全长12公里，谷内嶂谷、隘谷呈串珠状分布，云蒸霞蔚，激流飞溅，红壁绿荫，悬崖绝壁，不同时期的流水切割、旋蚀，磨痕十分清晰，巨型崩塌岩块形成的波痕大绝壁国内外罕见。",
+ "intro_en": "Longtan Grand Canyon is a AAAAA class tourist attraction in Luoyang, Henan, China. It is located in Xin'an County which is 70 km away from Luoyang city. The U-shaped valley with a total length of 12 kilometers, covering an area of 20 square kilometers, is famous for its high mountains, quiet valleys, waterfalls, and special purplish-red quartz sandstone formed years corrosion of flowing water. It is also the core scenic spot of Wangwushan-Daimeishan UNESCO Global Geopark. Longtan Grand Canyon has many good reputations including \"First Gorge of Chinese Valleys\" since its development in 2005. It is also the only spot selected in Henan Province in the \"40 beautiful places to visit in China\" by CNN. The peak season is from March to October.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/WeChat_Image_20201010210625.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "WeChat Image 20201010210625.jpg",
+   "author": "Xiaozz",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:WeChat_Image_20201010210625.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Glass_Bridge_in_Zhangjiajie_China.jpg/1280px-Glass_Bridge_in_Zhangjiajie_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Glass Bridge in Zhangjiajie China.jpg",
+   "author": "אביהוד",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Glass_Bridge_in_Zhangjiajie_China.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/WeChat_Image_20201010210634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "WeChat Image 20201010210634.jpg",
+   "author": "Xiaozz",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:WeChat_Image_20201010210634.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/ZhangjiajieGlassByHighestBridges.jpg/1280px-ZhangjiajieGlassByHighestBridges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "ZhangjiajieGlassByHighestBridges.jpg",
+   "author": "HighestBridges",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:ZhangjiajieGlassByHighestBridges.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Zhangjiajie_Glass_Bridge_20190726.jpg/1280px-Zhangjiajie_Glass_Bridge_20190726.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Zhangjiajie Glass Bridge 20190726.jpg",
+   "author": "Sunyiming",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Zhangjiajie_Glass_Bridge_20190726.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Luoyang Beijiao Airport",
+    "iata": "LYA",
+    "city": "Luoyang (Laocheng)",
+    "country": "CN",
+    "lat": 34.7411,
+    "lon": 112.388,
+    "type": "large_airport",
+    "distance_km": 42.5
+   },
+   {
+    "name": "Yuncheng Yanhu International Airport",
+    "iata": "YCU",
+    "city": "Yuncheng (Yanhu)",
+    "country": "CN",
+    "lat": 35.117823,
+    "lon": 111.034023,
+    "type": "large_airport",
+    "distance_km": 91.3
+   },
+   {
+    "name": "Linfen Yaodu Airport",
+    "iata": "LFQ",
+    "city": "Linfen (Yaodu)",
+    "country": "CN",
+    "lat": 36.132629,
+    "lon": 111.641236,
+    "type": "medium_airport",
+    "distance_km": 132.9
+   }
+  ],
+  "nearest_airport_km": 42.5,
+  "high_speed_stations": [
+   {
+    "name": "渑池南",
+    "name_en": "Mianchi South",
+    "lat": 34.686304,
+    "lon": 111.7682705,
+    "distance_km": 39.9,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "铁门",
+    "name_en": "Tiemen",
+    "lat": 34.7377313,
+    "lon": 112.0125915,
+    "distance_km": 26.8,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "南岗村",
+    "name_en": null,
+    "lat": 34.7377571,
+    "lon": 112.0560109,
+    "distance_km": 27.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "义马",
+    "name_en": "Yima",
+    "lat": 34.7223642,
+    "lon": 111.9060128,
+    "distance_km": 30.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/洛阳龙潭大峡谷"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-26",
+ "unesco_id": "26",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 218,
+ "popularity_score": 52355,
+ "country": "SN",
+ "country_zh": "塞内加尔",
+ "country_en": "Senegal",
+ "countries": [
+  {
+   "iso2": "SN",
+   "zh": "塞内加尔",
+   "en": "Senegal"
+  }
+ ],
+ "region": "Cape Verde Region",
+ "subdivision_iso": "SN-DK",
+ "subdivision_zh": "达喀尔区",
+ "subdivision_en": "Dakar",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "戈雷岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Island of Gorée",
+ "name_local": "Île de Gorée",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "26-island_of_gorée",
+ "lat": 14.666944444,
+ "lon": -17.398333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(vi)",
+ "year": "1978",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "戈雷岛位于塞内加尔海岸不远处，与达喀尔隔海相望。从15世纪到19世纪，戈雷岛一直都是非洲海岸最大的奴隶贸易中心，历史上这里曾先后被葡萄牙人、荷兰人、英国人和法国人占领过。在戈雷岛上，既能看到奴隶住的简陋屋子，也能找到奴隶贸易商居住的优雅庭院，两类建筑物形成鲜明对比。今天的戈雷岛，依然能使人们记起那段人剥削人的历史，这里同时也是人们消除历史积怨、求得和解的神圣殿堂。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The island of Gorée lies off the coast of Senegal, opposite Dakar. From the 15th to the 19th century, it was the largest slave-trading centre on the African coast. Ruled in succession by the Portuguese, Dutch, English and French, its architecture is characterized by the contrast between the grim slave-quarters and the elegant houses of the slave traders. Today it continues to serve as a reminder of human exploitation and as a sanctuary for reconciliation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Au large des côtes du Sénégal, en face de Dakar, Gorée a été du XV e au XIX e siècle le plus grand centre de commerce d'esclaves de la côte africaine. Tour à tour sous domination portugaise, néerlandaise, anglaise et française, son architecture est caractérisée par le contraste entre les sombres quartiers des esclaves et les élégantes maisons des marchands d'esclaves. L'île de Gorée reste encore aujourd'hui un symbole de l'exploitation humaine et un sanctuaire pour la réconciliation.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Senegal%20Gor%C3%A9e%20island%20harbor.jpg?width=1280",
+   "title": "Senegal Gorée island harbor.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Senegal%20Gor%C3%A9e%20island%20harbor.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_26.jpg",
+   "title": "Island of Gorée",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/26",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/26",
+ "transport": {
+  "airports": [
+   {
+    "name": "Blaise Diagne International Airport",
+    "iata": "DSS",
+    "city": "Dakar",
+    "country": "SN",
+    "lat": 14.670878,
+    "lon": -17.072829,
+    "type": "large_airport",
+    "distance_km": 35.0
+   },
+   {
+    "name": "Banjul International Airport",
+    "iata": "BJL",
+    "city": "Banjul (Yundum)",
+    "country": "GM",
+    "lat": 13.338,
+    "lon": -16.652201,
+    "type": "large_airport",
+    "distance_km": 168.3
+   },
+   {
+    "name": "Cap Skirring Airport",
+    "iata": "CSK",
+    "city": "Cap Skirring",
+    "country": "SN",
+    "lat": 12.39533,
+    "lon": -16.748,
+    "type": "medium_airport",
+    "distance_km": 262.2
+   }
+  ],
+  "nearest_airport_km": 35.0,
+  "distance_beijing_km": 12271.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "SN",
+  "country_zh": "塞内加尔",
+  "country_en": "Senegal",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "Visa not required for less than 3 months stay Chinese ordinary passport holders.[127] Holders of passports for public affairs do not require a visa for 30 days.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "SN",
+   "country_zh": "塞内加尔",
+   "country_en": "Senegal",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "Visa not required for less than 3 months stay Chinese ordinary passport holders.[127] Holders of passports for public affairs do not require a visa for 30 days.[18]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 57
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/26"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gor%C3%A9e"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:18Z"
+}

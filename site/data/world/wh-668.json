@@ -1,0 +1,162 @@
+{
+ "id": "wh-668",
+ "unesco_id": "668",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1129,
+ "popularity_score": null,
+ "country": "KH",
+ "country_zh": "柬埔寨",
+ "country_en": "Cambodia",
+ "countries": [
+  {
+   "iso2": "KH",
+   "zh": "柬埔寨",
+   "en": "Cambodia"
+  }
+ ],
+ "region": "Province Siem Reap",
+ "subdivision_iso": "KH-17",
+ "subdivision_zh": "暹粒省",
+ "subdivision_en": "Siem Reap Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "吴哥窟",
+ "name_zh_source": "unesco_official",
+ "name_en": "Angkor",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "668-angkor",
+ "lat": 13.440881,
+ "lon": 103.859081,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(iv)",
+ "year": "1992",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "吴哥窟是东南亚最重要的考古学遗址之一。吴哥窟遗址公园占地面积达400多平方公里，包括森林地区，有9至15世纪高棉王国(the Khmer Empire)各个时期首都的辉煌遗迹，其中包括了著名的吴哥寺(Angkor Wat)，以及坐落在吴哥索姆(Angkor Thom)以无数雕塑饰品而著称的白永寺庙(Bayon Temple)。联合国教科文组织已经对这一遗址及其周边制定了一项覆盖范围广泛的保护计划。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Angkor is one of the most important archaeological sites in South-East Asia. Stretching over some 400 km2, including forested area, Angkor Archaeological Park contains the magnificent remains of the different capitals of the Khmer Empire, from the 9th to the 15th century. They include the famous Temple of Angkor Wat and, at Angkor Thom, the Bayon Temple with its countless sculptural decorations. UNESCO has set up a wide-ranging programme to safeguard this symbolic site and its surroundings.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20Wat%20ausSO.jpg?width=1280",
+   "title": "Angkor Wat ausSO.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Angkor%20Wat%20ausSO.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_668.jpg",
+   "title": "Angkor",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/668",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/668",
+ "transport": {
+  "airports": [
+   {
+    "name": "Siem Reap-Angkor International Airport",
+    "iata": "SAI",
+    "city": "Siem Reap",
+    "country": "KH",
+    "lat": 13.36974,
+    "lon": 104.223831,
+    "type": "large_airport",
+    "distance_km": 40.2
+   },
+   {
+    "name": "Battambang Airport",
+    "iata": "BBM",
+    "city": "Battambang",
+    "country": "KH",
+    "lat": 13.0956,
+    "lon": 103.223999,
+    "type": "medium_airport",
+    "distance_km": 78.7
+   },
+   {
+    "name": "Surin Airport",
+    "iata": "PXR",
+    "city": "Surin",
+    "country": "TH",
+    "lat": 14.868300437927,
+    "lon": 103.49800109863,
+    "type": "medium_airport",
+    "distance_km": 163.4
+   }
+  ],
+  "nearest_airport_km": 40.2,
+  "distance_beijing_km": 3206.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "KH",
+  "country_zh": "柬埔寨",
+  "country_en": "Cambodia",
+  "status": "visa_on_arrival",
+  "days": 30,
+  "requirement": "Online Visa / Visa on arrival[6][35]",
+  "notes": "Visas valid for 30 days can be obtained on arrival or online."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "KH",
+   "country_zh": "柬埔寨",
+   "country_en": "Cambodia",
+   "status": "visa_on_arrival",
+   "days": 30,
+   "requirement": "Online Visa / Visa on arrival[6][35]",
+   "notes": "Visas valid for 30 days can be obtained on arrival or online."
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/668"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:30Z"
+}

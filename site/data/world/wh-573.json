@@ -1,0 +1,152 @@
+{
+ "id": "wh-573",
+ "unesco_id": "573",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 624,
+ "popularity_score": 8644,
+ "country": "NE",
+ "country_zh": "尼日尔",
+ "country_en": "Niger",
+ "countries": [
+  {
+   "iso2": "NE",
+   "zh": "尼日尔",
+   "en": "Niger"
+  }
+ ],
+ "region": "Départment d’Agades, arrondissement d’Arlit",
+ "subdivision_iso": "NE-1",
+ "subdivision_zh": "阿加德兹大区",
+ "subdivision_en": "Agadez Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿德尔和泰内雷自然保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Air and Ténéré Natural Reserves",
+ "name_local": "",
+ "local_lang": "ha",
+ "local_lang_name": "Hausa",
+ "slug": "573-air_and_ténéré_natural_reserves",
+ "lat": 18.0,
+ "lon": 9.0,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(ix)(x)",
+ "year": "1991",
+ "danger": true,
+ "transnational": false,
+ "intro_zh": "阿德尔和泰内雷自然保护区是非洲最大的自然保护区，占地约770万公顷，但整个区域只有约占面积六分之一的地区被认为真正具有保护意义。该地区包括阿德尔火山断层和小萨赫勒地区，该地区虽然位于泰内雷的撒哈拉沙漠，但是那里的气候、动物和植物却与周围地区明显不同。阿德尔和泰内雷自然保护区以拥有各异的环境、多样化的植物和野生动物而著称。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamgak%20mountains%20Niger.jpg?width=1280",
+   "title": "Tamgak mountains Niger.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Tamgak%20mountains%20Niger.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_573.jpg",
+   "title": "Air and Ténéré Natural Reserves",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/573",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/573",
+ "transport": {
+  "airports": [
+   {
+    "name": "Zinder Airport",
+    "iata": "ZND",
+    "city": "Zinder",
+    "country": "NE",
+    "lat": 13.779000282287598,
+    "lon": 8.983759880065918,
+    "type": "medium_airport",
+    "distance_km": 469.4
+   },
+   {
+    "name": "Umaru Musa Yar'adua Airport",
+    "iata": "DKA",
+    "city": "Katsina",
+    "country": "NG",
+    "lat": 13.0078,
+    "lon": 7.66045,
+    "type": "medium_airport",
+    "distance_km": 573.3
+   }
+  ],
+  "nearest_airport_km": 469.4,
+  "distance_beijing_km": 10462.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NE",
+  "country_zh": "尼日尔",
+  "country_en": "Niger",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "Holders of passports for public affairs do not require a visa.[18]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NE",
+   "country_zh": "尼日尔",
+   "country_en": "Niger",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": "ha",
+  "local_lang_name": "Hausa",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 34
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/573"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/A%C3%AFr%20and%20T%C3%A9n%C3%A9r%C3%A9%20National%20Nature%20Reserve"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:29Z"
+}

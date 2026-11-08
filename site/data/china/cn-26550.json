@@ -1,0 +1,197 @@
+{
+ "id": "cn-26550",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "黑龙江省",
+ "province_en": "Heilongjiang",
+ "province_iso": "CN-HL",
+ "city_zh": "齐齐哈尔市",
+ "city_en": "Qiqihaer City",
+ "name_zh": "齐齐哈尔市扎龙生态旅游区",
+ "name_en": "Qiqihaershizhalongshengtai Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "qiqihaershizhalongshengtai-26550",
+ "lat": 47.209125,
+ "lon": 124.242091,
+ "address_zh": "黑龙江省齐齐哈尔市铁锋区扎龙镇扎龙村",
+ "address_en": "Zhalong Village, Zhalong Town, Tiefeng District, Qiqihar City, Heilongjiang Province",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "扎龙生态旅游区位于齐齐哈尔市铁锋区，总面积4.7平方公里。扎龙生态旅游区湿地风光秀美，拥有扎龙湖、荷仙池鹤唳云天、鹿鹤同春、芦林鹤影等游览景区，打造了望鹤楼、水禽岛、名鹤苑、扎龙湿地博物馆、丹顶鹤野化训飞区等丰富多样的旅游景点。",
+ "intro_en": "Zhalong Ecological Tourism Zone is located in Tiefeng District, Qiqihar City, with a total area of ​​4.7 square kilometers. The Zhalong Ecological Tourism Zone has beautiful wetland scenery, including Zhalong Lake, Hexian Pond, Cranes in the Sky, Deer and Cranes in Spring, and Crane Shadows in Lulin. It has created a variety of tourist attractions such as Wanghe Tower, Waterfowl Island, Minghe Garden, Zhalong Wetland Museum, and Red-crowned Crane Rewilding and Flying Area.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.chinazhalong.com/showindex.jsp",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Qiqihar Sanjiazi Airport",
+    "iata": "NDG",
+    "city": "Qiqihar",
+    "country": "CN",
+    "lat": 47.229969,
+    "lon": 123.914179,
+    "type": "large_airport",
+    "distance_km": 24.9
+   },
+   {
+    "name": "Daqing Sartu Airport",
+    "iata": "DQA",
+    "city": "Daqing",
+    "country": "CN",
+    "lat": 46.750883,
+    "lon": 125.138642,
+    "type": "small_airport",
+    "distance_km": 85.0
+   },
+   {
+    "name": "Zhalantun Genghis Khan Airport",
+    "iata": "NZL",
+    "city": "Zhalantun",
+    "country": "CN",
+    "lat": 47.865942,
+    "lon": 122.768662,
+    "type": "medium_airport",
+    "distance_km": 132.5
+   }
+  ],
+  "nearest_airport_km": 24.9,
+  "high_speed_stations": [
+   {
+    "name": "齐齐哈尔南",
+    "name_en": "Qiqiha'ernan",
+    "lat": 47.2824806,
+    "lon": 123.9653116,
+    "distance_km": 22.4,
+    "operator": "中国铁路哈尔滨局集团有限公司 齐齐哈尔站",
+    "high_speed": true
+   },
+   {
+    "name": "齐齐哈尔",
+    "name_en": "Qiqiha'er",
+    "lat": 47.3384973,
+    "lon": 123.990047,
+    "distance_km": 23.8,
+    "operator": "中国铁路哈尔滨局集团有限公司 齐齐哈尔站",
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "大民屯",
+    "name_en": "Damintun",
+    "lat": 47.2543837,
+    "lon": 123.9557161,
+    "distance_km": 22.2,
+    "operator": "中国铁路哈尔滨局集团有限公司 齐齐哈尔车务段",
+    "high_speed": false
+   },
+   {
+    "name": "红旗营东",
+    "name_en": "Hongqiyingdong",
+    "lat": 47.0850381,
+    "lon": 123.9817606,
+    "distance_km": 24.0,
+    "operator": "中国铁路哈尔滨局集团有限公司 齐齐哈尔站",
+    "high_speed": false
+   },
+   {
+    "name": "烟筒屯",
+    "name_en": null,
+    "lat": 47.0015617,
+    "lon": 124.1546746,
+    "distance_km": 24.0,
+    "operator": "中国铁路哈尔滨局集团有限公司 大庆车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Chonpines Hotel",
+   "name_en": "Chonpines Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 47.335744,
+   "lon": 123.9864888,
+   "distance_km": 23.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "白鹤宾馆",
+   "name_en": "Baihe Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 47.3366926,
+   "lon": 123.9860126,
+   "distance_km": 24.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "如家酒店",
+   "name_en": "Home Inn",
+   "stars": null,
+   "brand": "如家酒店",
+   "lat": 47.3397093,
+   "lon": 123.9807828,
+   "distance_km": 24.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "怡莱酒店（齐齐哈尔火车站店）",
+   "name_en": null,
+   "stars": null,
+   "brand": "怡莱酒店",
+   "lat": 47.3391114,
+   "lon": 123.9744288,
+   "distance_km": 24.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "轻住·东翰宾馆（百花园中医院店）",
+   "name_en": "Qingzhu Donghan Hotel (Baihuayuan Shopping Mall & Chinese Medical Hospital Branch)",
+   "stars": null,
+   "brand": null,
+   "lat": 47.3316787,
+   "lon": 123.9658015,
+   "distance_km": 24.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 18,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

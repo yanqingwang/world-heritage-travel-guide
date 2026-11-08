@@ -1,0 +1,162 @@
+{
+ "id": "wh-974",
+ "unesco_id": "974",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 443,
+ "popularity_score": 16980,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "District of Freiburg, State of Baden-Württemberg",
+ "subdivision_iso": "DE-BW",
+ "subdivision_zh": "",
+ "subdivision_en": "Baden-Württemberg",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "赖谢瑙修道院之岛",
+ "name_zh_source": "unesco_official",
+ "name_en": "Monastic Island of Reichenau",
+ "name_local": "Reichenau (Insel)",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "974-monastic_island_of_reichenau",
+ "lat": 47.693055555,
+ "lon": 9.063055555,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "2000",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "德国康斯坦茨湖(Lake Constance)中的赖谢瑙岛上完好地保存着贝纳迪克汀修道院(Benedictine monastery)的历史遗迹。该修道院建于公元724年，在宗教、认知和艺术方面都曾有过巨大影响。岛上的圣玛丽与马库斯教堂、圣彼得教堂、圣保罗教堂和圣乔治教堂都建于公元9世纪至11世纪之间，为中世纪早期的修道院式建筑提供了一幅可贵的全景图。教堂里的壁画则是各种影响深远的艺术活动的见证。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The island of Reichenau on Lake Constance preserves the traces of the Benedictine monastery, founded in 724, which exercised remarkable spiritual, intellectual and artistic influence. The churches of St Mary and Marcus, St Peter and St Paul, and St George, mainly built between the 9th and 11th centuries, provide a panorama of early medieval monastic architecture in central Europe. Their wall paintings bear witness to impressive artistic activity.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Die Reichenau (alemannisch: Riichenau) ist eine bewohnte Insel im Landkreis Konstanz in Baden-Württemberg und die größte Insel im Bodensee. Die zur Gemeinde Reichenau gehörende „Klosterinsel Reichenau“ ist seit 2000 als „herausragendes Zeugnis der religiösen und kulturellen Rolle eines großen Benediktinerklosters im Mittelalter“ auf der UNESCO-Welterbe-Liste verzeichnet. Das Königskloster Reichenau „war eines der innovativsten kulturellen und politischen Zentren des Regnum Teutonicum und besaß im 10. und 11. Jahrhundert eine einflussreiche Malschule“: Die Hauptwerke der Reichenauer Handschriften wurden 2003 als „kulturgeschichtlich einzigartige Dokumente, die exemplarisch das kollektive Gedächtnis der Menschheit repräsentieren“, zum UNESCO-Weltdokumentenerbe hinzugefügt. 2024 feierte die Klosterinsel ihr 1300-jähriges Jubiläum: Unter dem Titel Welterbe des Mittelalters war dies Anlass und Thema der „Großen Landesausstellung“ Baden-Württemberg vom April bis Oktober des Jahres im Archäologischen Landesmuseum Baden-Württemberg in Konstanz am Bodensee sowie auf der Insel selbst.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/InselReichenau%2020090709%20MartinSteiger%20CCBYSA%20001.jpg?width=1280",
+   "title": "InselReichenau 20090709 MartinSteiger CCBYSA 001.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:InselReichenau%2020090709%20MartinSteiger%20CCBYSA%20001.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_974.jpg",
+   "title": "Monastic Island of Reichenau",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/974",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/974",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bodensee Airport Friedrichshafen",
+    "iata": "FDH",
+    "city": "Friedrichshafen",
+    "country": "DE",
+    "lat": 47.671299,
+    "lon": 9.51149,
+    "type": "large_airport",
+    "distance_km": 33.7
+   },
+   {
+    "name": "Sankt Gallen Altenrhein Airport",
+    "iata": "ACH",
+    "city": "St. Gallen",
+    "country": "CH",
+    "lat": 47.485001,
+    "lon": 9.56077,
+    "type": "medium_airport",
+    "distance_km": 43.9
+   },
+   {
+    "name": "Zürich Airport",
+    "iata": "ZRH",
+    "city": "Zurich",
+    "country": "CH",
+    "lat": 47.458056,
+    "lon": 8.548056,
+    "type": "large_airport",
+    "distance_km": 46.6
+   }
+  ],
+  "nearest_airport_km": 33.7,
+  "distance_beijing_km": 7900.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 49
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/974"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Reichenau%20Island"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

@@ -1,0 +1,201 @@
+{
+ "id": "cn-1414",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "浙江省",
+ "province_en": "Zhejiang",
+ "province_iso": "CN-ZJ",
+ "city_zh": "杭州市",
+ "city_en": "Hangzhou",
+ "name_zh": "杭州市西溪湿地旅游区",
+ "name_en": "Hangzhoushixixishidi Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "hangzhoushixixishidi-1414",
+ "lat": 30.283595,
+ "lon": 120.076821,
+ "address_zh": "浙江省杭州市西湖区留下镇天目山路518号",
+ "address_en": "No. 518, Tianmushan Road, Liuliu Town, Xihu District, Hangzhou City, Zhejiang Province",
+ "address_en_source": "machine_translation",
+ "category": "wetland",
+ "category_zh": "生态湿地",
+ "category_en": "Wetland ecology",
+ "intro_zh": "西溪湿地是一个集城市湿地、农耕湿地、文化湿地于一体的国家湿地公园。景区总面积约11.5平方公里，分为东部湿地生态保护培育区、中部湿地生态旅游休闲区和西部湿地生态景观封育区。",
+ "intro_en": "Xixi Wetland is a national wetland park integrating urban wetlands, agricultural wetlands and cultural wetlands. The total area of ​​the scenic area is about 11.5 square kilometers, which is divided into the eastern wetland ecological protection and cultivation area, the central wetland ecological tourism and leisure area, and the western wetland ecological landscape enclosure area.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "长江三角洲城市群发展规划.pdf",
+   "author": "中华人民共和国国家发展和改革委员会",
+   "license": "Public domain",
+   "credit": "关于印发长江三角洲城市群发展规划的通知(发改规划〔2016〕1176号)",
+   "source": "https://commons.wikimedia.org/wiki/File:%E9%95%BF%E6%B1%9F%E4%B8%89%E8%A7%92%E6%B4%B2%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf"
+  }
+ ],
+ "web": "http://www.xixiwetland.com.cn/index.html",
+ "booking": "http://www.xixiwetland.com.cn/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Hangzhou Xiaoshan International Airport",
+    "iata": "HGH",
+    "city": "Hangzhou",
+    "country": "CN",
+    "lat": 30.23609,
+    "lon": 120.428865,
+    "type": "large_airport",
+    "distance_km": 34.2
+   },
+   {
+    "name": "Jiaxing Nanhu Airport",
+    "iata": "JNH",
+    "city": "Xiuzhou, Hangzhou",
+    "country": "CN",
+    "lat": 30.698056,
+    "lon": 120.663056,
+    "type": "medium_airport",
+    "distance_km": 72.7
+   },
+   {
+    "name": "Yiwu Airport",
+    "iata": "YIW",
+    "city": "Yiwu/Jinhua",
+    "country": "CN",
+    "lat": 29.342095,
+    "lon": 120.03116,
+    "type": "large_airport",
+    "distance_km": 104.8
+   }
+  ],
+  "nearest_airport_km": 34.2,
+  "high_speed_stations": [
+   {
+    "name": "杭州东",
+    "name_en": "Hangzhoudong",
+    "lat": 30.2935486,
+    "lon": 120.2082034,
+    "distance_km": 12.7,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "杭州西",
+    "name_en": "Hangzhouxi",
+    "lat": 30.3007603,
+    "lon": 119.9821401,
+    "distance_km": 9.3,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "艮山门",
+    "name_en": null,
+    "lat": 30.284487,
+    "lon": 120.1797999,
+    "distance_km": 9.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "杭州北",
+    "name_en": null,
+    "lat": 30.3429538,
+    "lon": 120.1589398,
+    "distance_km": 10.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "杭州西子湖四季酒店",
+   "name_en": "Four Seasons Hotel Hangzhou at West Lake",
+   "stars": 5,
+   "brand": null,
+   "lat": 30.2537723,
+   "lon": 120.1236265,
+   "distance_km": 5.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "良渚君澜度假酒店",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 30.373013,
+   "lon": 120.018052,
+   "distance_km": 11.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金溪山庄",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 30.2513399,
+   "lon": 120.1253132,
+   "distance_km": 5.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "杭州逸舍.隐约瑾舍精品度假客栈",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 30.2470565,
+   "lon": 120.1047769,
+   "distance_km": 4.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宜必思酒店",
+   "name_en": "Ibis",
+   "stars": 1,
+   "brand": "宜必思",
+   "lat": 30.2599985,
+   "lon": 120.172357,
+   "distance_km": 9.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 329,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/西溪 (杭州市)"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

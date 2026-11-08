@@ -1,0 +1,162 @@
+{
+ "id": "wh-733",
+ "unesco_id": "733",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1143,
+ "popularity_score": null,
+ "country": "IT",
+ "country_zh": "意大利",
+ "country_en": "Italy",
+ "countries": [
+  {
+   "iso2": "IT",
+   "zh": "意大利",
+   "en": "Italy"
+  }
+ ],
+ "region": "City and Province of Ferrara, Emilia-Romagna Region",
+ "subdivision_iso": "IT-FE",
+ "subdivision_zh": "费拉拉省",
+ "subdivision_en": "Province of Ferrara",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "文艺复兴城市费拉拉城以及波河三角洲",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ferrara, City of the Renaissance, and its Po Delta",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "733-ferrara,_city_of_the_renaissance,_and_it",
+ "lat": 44.83777778,
+ "lon": 11.61944444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iii)(iv)(v)(vi)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "费拉拉是从波河浅滩上建立起来的，并逐渐成为意大利文化艺术中心。15、16世纪时它吸引了大批文艺复兴的才子巨匠。在这座城市里，皮耶罗·德拉·弗兰切斯卡(Piero della Francesca)、雅各布·贝利尼(Jacopo Bellini) 和曼泰尼亚 (Andrea Mantegna) 装饰了埃斯泰王朝的宫殿。人本主义观念下的“理想城市”也在这里成为现实：从1492年起，比亚焦·罗塞蒂(Biagio Rossetti) 根据远景规划的新原则在埃斯泰王朝的宫殿周围建造起了“理想城市”。这个规划的完成标志着现代化都市设计的诞生，并影响了其以后城市建筑的发展。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Ferrara, which grew up around a ford over the River Po, became an intellectual and artistic centre that attracted the greatest minds of the Italian Renaissance in the 15th and 16th centuries. Here, Piero della Francesca, Jacopo Bellini and Andrea Mantegna decorated the palaces of the House of Este. The humanist concept of the 'ideal city' came to life here in the neighbourhoods built from 1492 onwards by Biagio Rossetti according to the new principles of perspective. The completion of this project marked the birth of modern town planning and influenced its subsequent development.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferrara%20-%20Palazzo%20Municipale.jpg?width=1280",
+   "title": "Ferrara - Palazzo Municipale.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferrara%20-%20Palazzo%20Municipale.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_733.jpg",
+   "title": "Ferrara, City of the Renaissance, and its Po Delta",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/733",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/733",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bologna Guglielmo Marconi Airport",
+    "iata": "BLQ",
+    "city": "Bologna",
+    "country": "IT",
+    "lat": 44.5354,
+    "lon": 11.2887,
+    "type": "large_airport",
+    "distance_km": 42.6
+   },
+   {
+    "name": "Forlì-Luigi Ridolfi International Airport",
+    "iata": "FRL",
+    "city": "Forlì (FC)",
+    "country": "IT",
+    "lat": 44.194801,
+    "lon": 12.0701,
+    "type": "medium_airport",
+    "distance_km": 79.9
+   },
+   {
+    "name": "Verona Villafranca Valerio Catullo Airport",
+    "iata": "VRN",
+    "city": "Caselle (VR)",
+    "country": "IT",
+    "lat": 45.394955,
+    "lon": 10.887303,
+    "type": "large_airport",
+    "distance_km": 84.5
+   }
+  ],
+  "nearest_airport_km": 42.6,
+  "distance_beijing_km": 8015.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IT",
+  "country_zh": "意大利",
+  "country_en": "Italy",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IT",
+   "country_zh": "意大利",
+   "country_en": "Italy",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/733"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

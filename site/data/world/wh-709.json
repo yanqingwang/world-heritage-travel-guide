@@ -1,0 +1,162 @@
+{
+ "id": "wh-709",
+ "unesco_id": "709",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1136,
+ "popularity_score": null,
+ "country": "GE",
+ "country_zh": "格鲁吉亚",
+ "country_en": "Georgia",
+ "countries": [
+  {
+   "iso2": "GE",
+   "zh": "格鲁吉亚",
+   "en": "Georgia"
+  }
+ ],
+ "region": "Village of Chajashi, Mestia district, Region of Samegrelo-Zemo Svateni",
+ "subdivision_iso": "GE-SZ",
+ "subdivision_zh": "萨梅格雷洛-上斯瓦内蒂",
+ "subdivision_en": "Samegrelo-Zemo Svaneti",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "上斯瓦涅季",
+ "name_zh_source": "unesco_official",
+ "name_en": "Upper Svaneti",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "709-upper_svaneti",
+ "lat": 42.91639,
+ "lon": 43.01139,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "高加索的上斯瓦涅季是一处有典型中世纪村落和塔状房屋的山地景区，由于长期与世隔绝而得以保存。恰扎西村庄(village of Chazhashi)至今还有200处这种房屋保持原貌，这些房屋既是当时人们的住所，也是防御当时该地区入侵者的哨所。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Preserved by its long isolation, the Upper Svaneti region of the Caucasus is an exceptional example of mountain scenery with medieval-type villages and tower-houses. The village of Chazhashi still has more than 200 of these very unusual houses, which were used both as dwellings and as defence posts against the invaders who plagued the region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mestia.%20regio%20Svaneti.jpg?width=1280",
+   "title": "Mestia. regio Svaneti.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mestia.%20regio%20Svaneti.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_709.jpg",
+   "title": "Upper Svaneti",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/709",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/709",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nalchik Airport",
+    "iata": "NAL",
+    "city": "Nalchik",
+    "country": "RU",
+    "lat": 43.512901,
+    "lon": 43.6366,
+    "type": "medium_airport",
+    "distance_km": 83.5
+   },
+   {
+    "name": "David the Builder Kutaisi International Airport",
+    "iata": "KUT",
+    "city": "Kopitnari",
+    "country": "GE",
+    "lat": 42.177448,
+    "lon": 42.485353,
+    "type": "large_airport",
+    "distance_km": 92.8
+   },
+   {
+    "name": "Vladikavkaz Beslan International Airport",
+    "iata": "OGZ",
+    "city": "Beslan",
+    "country": "RU",
+    "lat": 43.205101,
+    "lon": 44.606602,
+    "type": "medium_airport",
+    "distance_km": 133.5
+   }
+  ],
+  "nearest_airport_km": 83.5,
+  "distance_beijing_km": 5859.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GE",
+  "country_zh": "格鲁吉亚",
+  "country_en": "Georgia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6]",
+  "notes": "Holders of valid visas or residence permits of EU/EFTA/GCC countries, overseas territories of EU countries (except Anguilla, Montserrat, Pitcairn, Saint Helena, Ascension and Tristan da Cunha), Australia, Canada, Israel, Japan, New Zealand, South Korea, United Kingdom, or the United States - visa-fr"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GE",
+   "country_zh": "格鲁吉亚",
+   "country_en": "Georgia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6]",
+   "notes": "Holders of valid visas or residence permits of EU/EFTA/GCC countries, overseas territories of EU countries (except Anguilla, Montserrat, Pitcairn, Saint Helena, Ascension and Tristan da Cunha), Australia, Canada, Israel, Japan, New Zealand, South Korea, United Kingdom, or the United States - visa-fr"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/709"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

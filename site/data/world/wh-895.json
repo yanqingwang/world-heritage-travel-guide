@@ -1,0 +1,162 @@
+{
+ "id": "wh-895",
+ "unesco_id": "895",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1189,
+ "popularity_score": null,
+ "country": "MX",
+ "country_zh": "墨西哥",
+ "country_en": "Mexico",
+ "countries": [
+  {
+   "iso2": "MX",
+   "zh": "墨西哥",
+   "en": "Mexico"
+  }
+ ],
+ "region": "State of Campeche",
+ "subdivision_iso": "MX-CAM",
+ "subdivision_zh": "坎佩切州",
+ "subdivision_en": "Campeche",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "坎佩切历史要塞城",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Fortified Town of Campeche",
+ "name_local": "Ciudad histórica fortificada de Campeche",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "895-historic_fortified_town_of_campeche",
+ "lat": 19.84722222,
+ "lon": -90.54166667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1999",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "坎佩切城是西班牙殖民者征服新世界时期的典型港口城市，该历史要塞保留了其外墙和防御体系，这些防御工事是这个加勒比海港口为抵御海上袭击而修建的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Campeche is a typical example of a harbour town from the Spanish colonial period in the New World. The historic centre has kept its outer walls and system of fortifications, designed to defend this Caribbean port against attacks from the sea.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Campeche es una ciudad portuaria caribeña de tiempos de la colonización española. Su centro histórico ha conservado las murallas y el sistema de fortificaciones creado para protegerla contra los ataques navales.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bah%C3%ADa%20de%20Campeche%20Cart%20Siglo%20XVI.jpg?width=1280",
+   "title": "Bahía de Campeche Cart Siglo XVI.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Bah%C3%ADa%20de%20Campeche%20Cart%20Siglo%20XVI.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_895.jpg",
+   "title": "Historic Fortified Town of Campeche",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/895",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/895",
+ "transport": {
+  "airports": [
+   {
+    "name": "Ingeniero Alberto Acuña Ongay International Airport",
+    "iata": "CPE",
+    "city": "Campeche",
+    "country": "MX",
+    "lat": 19.815969,
+    "lon": -90.500125,
+    "type": "medium_airport",
+    "distance_km": 5.6
+   },
+   {
+    "name": "Manuel Crescencio Rejón International Airport",
+    "iata": "MID",
+    "city": "Mérida",
+    "country": "MX",
+    "lat": 20.930485,
+    "lon": -89.645462,
+    "type": "large_airport",
+    "distance_km": 152.4
+   },
+   {
+    "name": "Ciudad del Carmen International Airport",
+    "iata": "CME",
+    "city": "Ciudad del Carmen",
+    "country": "MX",
+    "lat": 18.651516,
+    "lon": -91.799355,
+    "type": "medium_airport",
+    "distance_km": 187.4
+   }
+  ],
+  "nearest_airport_km": 5.6,
+  "distance_beijing_km": 12787.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MX",
+  "country_zh": "墨西哥",
+  "country_en": "Mexico",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MX",
+   "country_zh": "墨西哥",
+   "country_en": "Mexico",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "National visa may be substituted with a valid visa (of any category except transit) or permanent residency issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state, may enter visa-free for 180 days. Holders of permanent residency in Chile or Colombia may enter visa-fre"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/895"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:36Z"
+}

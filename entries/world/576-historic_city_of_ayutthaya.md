@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iii)"
 lat: 14.351626
 lon: 100.5575086
-updated_at: "2026-11-08T12:18:56Z"
+updated_at: "2026-11-08T14:52:29Z"
 ---
 
 # 阿育他亚(大城)历史城及相关城镇 / Historic City of Ayutthaya

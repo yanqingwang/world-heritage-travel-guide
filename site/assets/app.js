@@ -12,6 +12,24 @@
       search: "搜索景区、城市、国家…",
       allCountries: "全部国家",
       allProvinces: "全部省份",
+      allSubdivisions: "全部省份 / 州",
+      visitedOnly: "只看去过的",
+      globe: "我的地球",
+      globeTitle: "点亮你去过的世界",
+      globeKicker: "我的足迹",
+      globeHint: "拖动旋转 · 滚轮缩放 · 点击地区筛选",
+      globeEmpty: "还没有标记。打开任意目的地，点「去过」即可点亮所在省份或国家。",
+      globeSites: "目的地",
+      globeCountries: "国家",
+      globeProvinces: "省份",
+      focusChina: "聚焦中国",
+      spinOn: "暂停旋转",
+      spinOff: "自动旋转",
+      legendVisited: "去过",
+      legendIdle: "未点亮",
+      markVisited: "去过",
+      markLike: "赞过",
+      markBad: "不好",
       allCategories: "全部类型",
       allVisa: "全部签证状态",
       allTier: "全部资料等级",
@@ -68,6 +86,24 @@
       search: "Search site, city or country…",
       allCountries: "All countries",
       allProvinces: "All provinces",
+      allSubdivisions: "All provinces / states",
+      visitedOnly: "Visited only",
+      globe: "My globe",
+      globeTitle: "Light up the world you have seen",
+      globeKicker: "MY FOOTPRINT",
+      globeHint: "Drag to rotate · scroll to zoom · click a region to filter",
+      globeEmpty: "Nothing marked yet. Open any destination and press “Visited” to light up its province or country.",
+      globeSites: "Destinations",
+      globeCountries: "Countries",
+      globeProvinces: "Provinces",
+      focusChina: "Focus China",
+      spinOn: "Pause spin",
+      spinOff: "Auto-spin",
+      legendVisited: "Visited",
+      legendIdle: "Not lit",
+      markVisited: "Visited",
+      markLike: "Liked",
+      markBad: "Not for me",
       allCategories: "All categories",
       allVisa: "All visa statuses",
       allTier: "All record tiers",
@@ -121,12 +157,29 @@
     lang: localStorage.getItem("whtg-lang") || "zh",
     query: "",
     country: "",
+    subdivision: "",
     category: "",
     visa: "",
     tier: "",
+    visitedOnly: false,
     limit: 60,
     data: { china: null, world: null },
+    details: {},
     loading: {},
+    marks: {},
+    pending: null,
+  };
+
+  // Personal marks live in localStorage only: { [siteId]: { v, r, c, p, n } }
+  // v = visited flag, r = "like" | "bad", c/p = country / ISO 3166-2 captured
+  // at mark time so the globe does not need to download both datasets.
+  try {
+    state.marks = JSON.parse(localStorage.getItem("whtg-marks") || "{}") || {};
+  } catch (_) {
+    state.marks = {};
+  }
+  const saveMarks = () => {
+    try { localStorage.setItem("whtg-marks", JSON.stringify(state.marks)); } catch (_) {}
   };
 
   const $ = (sel) => document.querySelector(sel);
@@ -184,6 +237,13 @@
     $("#search").placeholder = t().search;
     $("#reset").textContent = t().reset;
     $("#load-more").textContent = t().loadMore;
+    syncVisitedToggle();
+    updateGlobeButton();
+    if (globe.open) {
+      updateGlobeLabels();
+      updateGlobeStats();
+      globe.dirty = true;
+    }
     $("#empty").querySelector("p").textContent = t().empty;
     $("#empty").querySelector(".muted").textContent = t().emptyHint;
     $("#footer-line").textContent = t().footer;
@@ -202,29 +262,48 @@
 
   function buildFilters() {
     const country = $("#country-filter");
+    const subdivision = $("#subdivision-filter");
     const category = $("#category-filter");
     const visa = $("#visa-filter");
     const tier = $("#tier-filter");
     const data = state.data[state.tab];
     if (data) {
       if (state.tab === "china") {
-        const provinces = [...new Map(data.sites.map((s) => [s.province_zh, {
-          value: s.province_zh, zh: s.province_zh, en: s.province_en,
-        }])).values()].sort((a, b) => a.zh.localeCompare(b.zh, "zh"));
-        country.innerHTML = `<option value="">${esc(t().allProvinces)}</option>` +
+        // Same two-level logic as the overseas tab: country first, then the
+        // ISO 3166-2 province.  China only has one country, but keeping the
+        // control identical avoids a second mental model.
+        country.innerHTML = `<option value="CN">${esc(state.lang === "zh" ? "中国" : "China")}</option>`;
+        country.disabled = true;
+        const provinces = [...new Map(data.sites.map((s) => [s.province_iso || s.province_zh, {
+          value: s.province_iso || s.province_zh,
+          zh: s.province_zh, en: s.province_en,
+        }])).values()].sort((a, b) => (a.zh || "").localeCompare(b.zh || "", "zh"));
+        subdivision.innerHTML = `<option value="">${esc(t().allSubdivisions)}</option>` +
           provinces.map((p) => `<option value="${esc(p.value)}">${esc(state.lang === "zh" ? p.zh : p.en)}</option>`).join("");
-        country.disabled = false;
+        subdivision.disabled = false;
         visa.disabled = true;
         tier.disabled = true;
       } else {
+        // Countries with the most full-tier records first, then alphabetical.
+        const fullCount = new Map();
+        for (const s of data.sites) {
+          if (s.tier === "full") fullCount.set(s.country, (fullCount.get(s.country) || 0) + 1);
+        }
         const countries = [...new Map(data.sites.map((s) => [s.country, {
           value: s.country, zh: s.country_zh, en: s.country_en,
-        }])).values()].sort((a, b) => (a.en || "").localeCompare(b.en || ""));
+        }])).values()].sort((a, b) =>
+          (fullCount.get(b.value) || 0) - (fullCount.get(a.value) || 0) ||
+          (a.en || "").localeCompare(b.en || ""));
         country.innerHTML = `<option value="">${esc(t().allCountries)}</option>` +
-          countries.map((p) => `<option value="${esc(p.value)}">${esc(state.lang === "zh" ? (p.zh || p.en) : p.en)}</option>`).join("");
+          countries.map((p) => {
+            const name = state.lang === "zh" ? (p.zh || p.en) : p.en;
+            const n = fullCount.get(p.value) || 0;
+            return `<option value="${esc(p.value)}">${esc(n ? `${name} (${n})` : name)}</option>`;
+          }).join("");
         country.disabled = false;
         visa.disabled = false;
         tier.disabled = false;
+        buildSubdivisionOptions();
       }
       const cats = [...new Set(data.sites.map((s) => s.category).filter(Boolean))];
       category.innerHTML = `<option value="">${esc(t().allCategories)}</option>` +
@@ -236,10 +315,49 @@
     tier.innerHTML = `<option value="">${esc(t().allTier)}</option>` +
       Object.entries(t().tier).map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join("");
     // Language switches rebuild the options, so restore the active filters.
-    country.value = state.country;
+    country.value = state.country || (state.tab === "china" ? "CN" : "");
+    if (state.tab === "world") buildSubdivisionOptions();
+    subdivision.value = state.subdivision;
     category.value = state.category;
     visa.value = state.visa;
     tier.value = state.tier;
+  }
+
+  // ISO 3166-2 subdivisions of the selected country that actually have sites.
+  function buildSubdivisionOptions() {
+    const subdivision = $("#subdivision-filter");
+    const data = state.data.world;
+    if (!data) { subdivision.innerHTML = ""; subdivision.disabled = true; return; }
+    const country = state.country;
+    const rows = country
+      ? data.sites.filter((s) => s.country === country && s.subdivision_iso &&
+        s.subdivision_iso.startsWith(`${country}-`))
+      : [];
+    const unique = [...new Map(rows.map((s) => [s.subdivision_iso, {
+      value: s.subdivision_iso,
+      zh: s.subdivision_zh || s.subdivision_en || s.subdivision_iso,
+      en: s.subdivision_en || s.subdivision_zh || s.subdivision_iso,
+    }])).values()].sort((a, b) => (state.lang === "zh"
+      ? (a.zh || "").localeCompare(b.zh || "", "zh")
+      : (a.en || "").localeCompare(b.en || "")));
+    subdivision.innerHTML = `<option value="">${esc(t().allSubdivisions)}</option>` +
+      unique.map((p) => `<option value="${esc(p.value)}">${esc(state.lang === "zh" ? p.zh : p.en)}</option>`).join("");
+    subdivision.disabled = unique.length === 0;
+    if (!unique.some((p) => p.value === state.subdivision)) state.subdivision = "";
+    subdivision.value = state.subdivision;
+  }
+
+  function syncVisitedToggle() {
+    const el = $("#visited-filter");
+    if (!el) return;
+    el.classList.toggle("active", state.visitedOnly);
+    el.setAttribute("aria-pressed", String(state.visitedOnly));
+    el.textContent = `✓ ${t().visitedOnly}`;
+  }
+
+  function updateGlobeButton() {
+    const { sites } = visitedSets();
+    $("#globe-open").textContent = `🌍 ${t().globe}${sites ? ` · ${sites}` : ""}`;
   }
 
   function updateFooter() {
@@ -252,9 +370,7 @@
     const stats = $("#stats");
     const china = state.data.china;
     const world = state.data.world;
-    const langCount = world
-      ? new Set(world.sites.flatMap((s) => s.info_languages?.official_unesco || [])).size
-      : 6;
+    const langCount = world ? (world.unesco_lang_count || 6) : 6;
     const locale = state.lang === "zh" ? "zh-CN" : "en-US";
     const fmtN = (n) => (typeof n === "number" ? n.toLocaleString(locale) : n);
     const items = [
@@ -274,13 +390,22 @@
       el.classList.toggle("active", on);
       el.setAttribute("aria-selected", String(on));
     });
-    state.country = state.category = state.visa = state.tier = "";
+    state.country = tab === "china" ? "CN" : "";
+    state.subdivision = state.category = state.visa = state.tier = "";
     state.query = $("#search").value = "";
     state.limit = 60;
-    $("#country-filter").value = "";
+    $("#country-filter").value = state.country;
+    $("#subdivision-filter").value = "";
     $("#category-filter").value = "";
     $("#visa-filter").value = "";
     $("#tier-filter").value = "";
+    if (state.pending) {
+      state.country = state.pending.country || state.country;
+      state.subdivision = state.pending.subdivision || "";
+      state.visitedOnly = !!state.pending.visitedOnly;
+      state.pending = null;
+    }
+    syncVisitedToggle();
     if (state.data[tab]) {
       buildFilters();
       updateFooter();
@@ -290,7 +415,8 @@
     if (state.loading[tab]) return;
     state.loading[tab] = true;
     $("#cards").innerHTML = `<p class="muted" style="grid-column:1/-1;padding:24px 0">Loading…</p>`;
-    fetch(`./data/${tab}.json`)
+    // The list only needs the compact index; full records load per site.
+    fetch(`./data/${tab}-index.json`, { cache: "no-cache" })
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();
@@ -321,10 +447,12 @@
         ].filter(Boolean).join(" ").toLowerCase();
         if (!hay.includes(q)) return false;
       }
-      if (state.country) {
-        if (state.tab === "china" && s.province_zh !== state.country) return false;
-        if (state.tab === "world" && s.country !== state.country) return false;
+      if (state.country && s.country !== state.country) return false;
+      if (state.subdivision) {
+        const sub = state.tab === "china" ? (s.province_iso || s.province_zh) : s.subdivision_iso;
+        if (sub !== state.subdivision) return false;
       }
+      if (state.visitedOnly && !(state.marks[s.id] || {}).v) return false;
       if (state.category && s.category !== state.category) return false;
       if (state.tab === "world") {
         if (state.visa && s.visa_summary !== state.visa) return false;
@@ -341,6 +469,17 @@
     return list;
   }
 
+  function markRowHTML(site) {
+    const m = state.marks[site.id] || {};
+    const btn = (kind, cls, label) =>
+      `<button type="button" class="mark-btn ${cls}" data-mark="${kind}" data-id="${esc(site.id)}" aria-pressed="${cls.includes("on")}">${label}</button>`;
+    return `<div class="mark-row">
+      ${btn("v", m.v ? "on" : "", `✓ ${esc(t().markVisited)}`)}
+      ${btn("like", m.r === "like" ? "on like" : "", `👍 ${esc(t().markLike)}`)}
+      ${btn("bad", m.r === "bad" ? "on bad" : "", `👎 ${esc(t().markBad)}`)}
+    </div>`;
+  }
+
   function cardHTML(site) {
     const name = localizedName(site);
     const sec = secondaryName(site);
@@ -352,6 +491,9 @@
       badges.push(`<span class="badge">${esc(categoryLabel(site))}</span>`);
       if (site.tier === "full") badges.push(`<span class="badge gold">TOP ${esc(site.popularity_rank || "")}</span>`);
       badges.push(`<span class="badge ${site.visa_summary === "visa_free" ? "" : "clay"}">${esc(visaLabel(site.visa_summary))}</span>`);
+    }
+    if ((state.marks[site.id] || {}).v) {
+      badges.unshift(`<span class="badge visited">✓ ${esc(t().markVisited)}</span>`);
     }
     const media = img
       ? `<img loading="lazy" src="${esc(img.url)}" alt="${esc(name)}" onerror="this.style.display='none';this.parentElement.querySelector('.fallback').style.display='grid'">`
@@ -379,6 +521,7 @@
         ${sec ? `<p class="local-name">${esc(sec)}</p>` : ""}
         <p class="where">${esc(locationLine(site))}</p>
         <div class="meta-line">${meta.map((m) => `<span>${m}</span>`).join("")}</div>
+        ${markRowHTML(site)}
       </div>
     </article>`;
   }
@@ -395,7 +538,10 @@
     $("#empty").hidden = list.length > 0;
     $("#load-more").hidden = list.length <= state.limit;
     document.querySelectorAll(".card").forEach((el) => {
-      el.addEventListener("click", () => openDetail(el.dataset.id));
+      el.addEventListener("click", (e) => {
+        if (e.target.closest(".mark-btn")) return;
+        openDetail(el.dataset.id);
+      });
       el.addEventListener("keydown", (e) => {
         if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openDetail(el.dataset.id); }
       });
@@ -413,10 +559,36 @@
 
   function openDetail(id, keep) {
     const data = state.data[state.tab];
-    const site = data?.sites.find((s) => s.id === id);
-    if (!site) return;
+    const summary = data?.sites.find((s) => s.id === id);
+    if (!summary) return;
     const d = $("#detail");
     d.dataset.siteId = id;
+    if (!keep && !d.open) d.showModal();
+    const cached = state.details[id];
+    if (cached) { renderDetail(cached); return; }
+    // Paint the list-level header immediately, then swap in the full record.
+    $("#detail-kicker").textContent = locationLine(summary);
+    $("#detail-title").textContent = localizedName(summary);
+    $("#detail-sub").textContent = secondaryName(summary);
+    $("#detail-body").innerHTML = `<p class="note">${state.lang === "zh" ? "加载详情…" : "Loading details…"}</p>`;
+    fetch(`./data/${state.tab}/${id}.json`, { cache: "no-cache" })
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then((site) => {
+        state.details[id] = site;
+        if (d.dataset.siteId === id) renderDetail(site);
+      })
+      .catch((err) => {
+        $("#detail-body").innerHTML =
+          `<p class="note">${state.lang === "zh" ? "详情加载失败" : "Failed to load details"}: ${esc(err.message)}</p>`;
+      });
+  }
+
+  function renderDetail(site) {
+    const d = $("#detail");
+    d.dataset.siteId = site.id;
     const name = localizedName(site);
     const sec = secondaryName(site);
     $("#detail-kicker").textContent = site.dataset === "china_5a"
@@ -443,6 +615,7 @@
       if (site.transnational) chips.push(`<span class="chip">${t().labels.transnational}</span>`);
     }
     body.push(`<div class="chips">${chips.join("")}</div>`);
+    body.push(markRowHTML(site));
 
     const intro = state.lang === "zh" ? site.intro_zh : site.intro_en;
     const introSource = state.lang === "zh" ? site.intro_zh_source : site.intro_en_source;
@@ -554,27 +727,471 @@
       (imgs.length ? `<p class="credit">${imgs.map((im) => `${t().labels.imageCredit}: ${esc(im.author || "—")} · ${esc(im.license || "—")} · ${esc(im.title || "")}`).join("<br>")}</p>` : "")));
 
     $("#detail-body").innerHTML = body.join("");
-    if (!keep) d.showModal();
-    d.dataset.siteId = id;
   }
+
+  // ---------------------------------------------------------------------
+  // Personal marks (visited / liked / not for me)
+  // ---------------------------------------------------------------------
+  function findSite(id) {
+    for (const tab of ["china", "world"]) {
+      const site = state.data[tab]?.sites.find((s) => s.id === id);
+      if (site) return site;
+    }
+    return null;
+  }
+
+  function toggleMark(id, kind) {
+    const site = findSite(id);
+    if (!site) return;
+    const m = { ...(state.marks[id] || {}) };
+    if (kind === "v") m.v = m.v ? 0 : 1;
+    else m.r = m.r === kind ? null : kind;
+    if (m.v || m.r) {
+      m.c = site.country || "";
+      // Only Chinese records light up a province; overseas ones light the country.
+      m.p = site.dataset === "china_5a" ? (site.province_iso || "") : "";
+      m.n = localizedName(site);
+      state.marks[id] = m;
+    } else {
+      delete state.marks[id];
+    }
+    saveMarks();
+    refreshMarkUI(id);
+    updateGlobeButton();
+    if (globe.open) { globe.dirty = true; updateGlobeStats(); }
+    if (state.visitedOnly) render();
+  }
+
+  function refreshMarkUI(id) {
+    const m = state.marks[id] || {};
+    document.querySelectorAll(`.mark-btn[data-id="${id}"]`).forEach((btn) => {
+      const kind = btn.dataset.mark;
+      const on = kind === "v" ? !!m.v : m.r === kind;
+      btn.classList.toggle("on", on);
+      btn.classList.toggle("like", kind === "like" && m.r === "like");
+      btn.classList.toggle("bad", kind === "bad" && m.r === "bad");
+      btn.setAttribute("aria-pressed", String(on));
+    });
+    const badges = document.querySelector(`.card[data-id="${id}"] .card-badges`);
+    if (badges) {
+      const existing = badges.querySelector(".badge.visited");
+      if (m.v && !existing) {
+        badges.insertAdjacentHTML("afterbegin",
+          `<span class="badge visited">✓ ${esc(t().markVisited)}</span>`);
+      } else if (!m.v && existing) {
+        existing.remove();
+      }
+    }
+  }
+
+  // ---------------------------------------------------------------------
+  // Globe: visited provinces (China) and countries (overseas) lit up
+  // ---------------------------------------------------------------------
+  const globe = {
+    open: false, loaded: false, loading: false,
+    world: null, provinces: null,
+    rotation: [-104, -22], zoom: 1,
+    spinning: true, dragging: false, moved: false, dirty: true,
+    hover: null, raf: null, pointer: { x: 0, y: 0 },
+    anim: null,
+  };
+
+  function visitedSets() {
+    const countries = new Set();
+    const provinces = new Set();
+    let sites = 0;
+    for (const m of Object.values(state.marks)) {
+      if (!m.v) continue;
+      sites += 1;
+      if (m.p) provinces.add(m.p);
+      if (m.c && m.c !== "CN") countries.add(m.c);
+    }
+    return { countries, provinces, sites };
+  }
+
+  async function ensureGeo() {
+    if (globe.loaded || globe.loading) return;
+    globe.loading = true;
+    try {
+      const [world, provinces] = await Promise.all([
+        fetch("./assets/geo/world-110m.json").then((r) => r.json()),
+        fetch("./assets/geo/china-provinces.json").then((r) => r.json()),
+      ]);
+      globe.world = world.features;
+      globe.provinces = provinces.features;
+      globe.loaded = true;
+      globe.dirty = true;
+    } catch (err) {
+      $("#globe-canvas").replaceWith(Object.assign(document.createElement("p"), {
+        className: "note", textContent: `Failed to load globe data: ${err.message}`,
+      }));
+    } finally {
+      globe.loading = false;
+    }
+  }
+
+  function globeSize() {
+    const canvas = $("#globe-canvas");
+    const rect = canvas.getBoundingClientRect();
+    return { canvas, w: Math.max(rect.width, 240), h: Math.max(rect.height, 240) };
+  }
+
+  function projectionFor(w, h) {
+    const radius = Math.min(w, h) / 2 - 10;
+    return d3.geoOrthographic()
+      .translate([w / 2, h / 2])
+      .scale(radius * globe.zoom)
+      .rotate([globe.rotation[0], globe.rotation[1], 0])
+      .clipAngle(90);
+  }
+
+  function featureAt(px, py) {
+    const { w, h } = globeSize();
+    const projection = projectionFor(w, h);
+    const lonlat = projection.invert([px, py]);
+    if (!lonlat || !isFinite(lonlat[0]) || !isFinite(lonlat[1])) return null;
+    for (const f of globe.provinces || []) {
+      if (d3.geoContains(f, lonlat)) return { kind: "province", feature: f };
+    }
+    for (const f of globe.world || []) {
+      if (d3.geoContains(f, lonlat)) return { kind: "country", feature: f };
+    }
+    return null;
+  }
+
+  function drawGlobe() {
+    if (!globe.loaded) return;
+    const { canvas, w, h } = globeSize();
+    const dpr = window.devicePixelRatio || 1;
+    if (canvas.width !== Math.round(w * dpr) || canvas.height !== Math.round(h * dpr)) {
+      canvas.width = Math.round(w * dpr);
+      canvas.height = Math.round(h * dpr);
+    }
+    const ctx = canvas.getContext("2d");
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.clearRect(0, 0, w, h);
+
+    const projection = projectionFor(w, h);
+    const path = d3.geoPath(projection, ctx);
+    const { countries, provinces } = visitedSets();
+
+    // Ocean sphere with a soft directional light.
+    const r = projection.scale();
+    const cx = w / 2, cy = h / 2;
+    const grad = ctx.createRadialGradient(cx - r * 0.35, cy - r * 0.4, r * 0.1, cx, cy, r);
+    grad.addColorStop(0, "#20404c");
+    grad.addColorStop(0.65, "#122a35");
+    grad.addColorStop(1, "#0a1a22");
+    ctx.beginPath();
+    path({ type: "Sphere" });
+    ctx.fillStyle = grad;
+    ctx.fill();
+
+    // Graticule
+    ctx.beginPath();
+    path(d3.geoGraticule10());
+    ctx.strokeStyle = "rgba(150, 200, 210, .10)";
+    ctx.lineWidth = 0.6;
+    ctx.stroke();
+
+    // Base countries
+    for (const f of globe.world) {
+      ctx.beginPath();
+      path(f);
+      ctx.fillStyle = "#243743";
+      ctx.fill();
+      ctx.strokeStyle = "rgba(160, 200, 210, .18)";
+      ctx.lineWidth = 0.5;
+      ctx.stroke();
+    }
+
+    // Chinese provinces (drawn over China's country fill)
+    for (const f of globe.provinces) {
+      ctx.beginPath();
+      path(f);
+      const lit = provinces.has(f.properties.iso);
+      if (lit) {
+        ctx.save();
+        ctx.shadowColor = "rgba(224, 161, 60, .85)";
+        ctx.shadowBlur = 12;
+        ctx.fillStyle = "#e0a13c";
+        ctx.fill();
+        ctx.restore();
+      } else {
+        ctx.fillStyle = "#2b414d";
+        ctx.fill();
+      }
+      ctx.strokeStyle = lit ? "rgba(255, 214, 140, .85)" : "rgba(170, 210, 220, .22)";
+      ctx.lineWidth = 0.6;
+      ctx.stroke();
+    }
+
+    // Lit overseas countries
+    for (const f of globe.world) {
+      if (!countries.has(f.properties.iso2)) continue;
+      if (f.properties.iso2 === "CN") continue; // provinces already cover it
+      ctx.beginPath();
+      path(f);
+      ctx.save();
+      ctx.shadowColor = "rgba(224, 161, 60, .85)";
+      ctx.shadowBlur = 14;
+      ctx.fillStyle = "#e0a13c";
+      ctx.fill();
+      ctx.restore();
+      ctx.strokeStyle = "rgba(255, 219, 150, .9)";
+      ctx.lineWidth = 0.8;
+      ctx.stroke();
+    }
+
+    // Hover highlight
+    if (globe.hover) {
+      ctx.beginPath();
+      path(globe.hover.feature);
+      ctx.strokeStyle = "rgba(255, 250, 235, .95)";
+      ctx.lineWidth = 1.6;
+      ctx.stroke();
+    }
+
+    // Sphere rim
+    ctx.beginPath();
+    ctx.arc(cx, cy, r, 0, Math.PI * 2);
+    ctx.strokeStyle = "rgba(196, 154, 74, .5)";
+    ctx.lineWidth = 1;
+    ctx.stroke();
+
+    // Compass hint: mark Beijing so the viewer can orient themselves.
+    const beijing = projection([116.4, 39.9]);
+    if (beijing && projection.invert(beijing)) {
+      ctx.beginPath();
+      ctx.arc(beijing[0], beijing[1], 2.6, 0, Math.PI * 2);
+      ctx.fillStyle = "rgba(240, 226, 200, .9)";
+      ctx.fill();
+    }
+  }
+
+  function updateGlobeStats() {
+    const { countries, provinces, sites } = visitedSets();
+    const items = [
+      [sites, t().globeSites],
+      [countries.size, t().globeCountries],
+      [provinces.size, t().globeProvinces],
+    ];
+    $("#globe-stats").innerHTML = items.map(([n, label]) =>
+      `<div class="globe-stat"><b>${n}</b><span>${esc(label)}</span></div>`).join("");
+    $("#globe-empty").hidden = sites > 0;
+    $("#globe-empty").textContent = t().globeEmpty;
+  }
+
+  function tick() {
+    if (!globe.open) return;
+    if (globe.spinning && !globe.dragging && !globe.anim) {
+      globe.rotation[0] += 0.16;
+      globe.dirty = true;
+    }
+    if (globe.dirty) {
+      drawGlobe();
+      globe.dirty = false;
+    }
+    globe.raf = requestAnimationFrame(tick);
+  }
+
+  function animateTo(rotation, zoom) {
+    const start = { r: [...globe.rotation], z: globe.zoom, t: performance.now() };
+    const target = { r: rotation, z: zoom };
+    const duration = 700;
+    const ease = (x) => 1 - Math.pow(1 - x, 3);
+    const step = (now) => {
+      const p = Math.min(1, (now - start.t) / duration);
+      const k = ease(p);
+      globe.rotation = [
+        start.r[0] + (target.r[0] - start.r[0]) * k,
+        start.r[1] + (target.r[1] - start.r[1]) * k,
+      ];
+      globe.zoom = start.z + (target.z - start.z) * k;
+      globe.dirty = true;
+      if (p < 1) globe.anim = requestAnimationFrame(step);
+      else globe.anim = null;
+    };
+    if (globe.anim) cancelAnimationFrame(globe.anim);
+    globe.anim = requestAnimationFrame(step);
+  }
+
+  function updateGlobeLabels() {
+    $("#globe-kicker").textContent = t().globeKicker;
+    $("#globe-title").textContent = t().globeTitle;
+    $("#globe-hint").textContent = t().globeHint;
+    $("#globe-close").setAttribute("aria-label", t().reset);
+    $("#globe-china").textContent = t().focusChina;
+    $("#globe-spin").textContent = globe.spinning ? t().spinOn : t().spinOff;
+    $("#globe-legend").innerHTML =
+      `<span><i class="dot lit"></i>${esc(t().legendVisited)}</span>` +
+      `<span><i class="dot idle"></i>${esc(t().legendIdle)}</span>`;
+  }
+
+  function openGlobe() {
+    const d = $("#globe");
+    globe.open = true;
+    if (!d.open) d.showModal();
+    updateGlobeLabels();
+    updateGlobeStats();
+    ensureGeo().then(() => { globe.dirty = true; drawGlobe(); });
+    if (!globe.raf) globe.raf = requestAnimationFrame(tick);
+  }
+
+  function closeGlobe() {
+    globe.open = false;
+    if (globe.raf) cancelAnimationFrame(globe.raf);
+    globe.raf = null;
+    const d = $("#globe");
+    if (d.open) d.close();
+  }
+
+  function applyLocation(tab, country, subdivision) {
+    closeGlobe();
+    state.pending = { country, subdivision: subdivision || "" };
+    if (state.tab !== tab) {
+      loadTab(tab);
+    } else {
+      state.pending = null;
+      state.country = country;
+      state.subdivision = subdivision || "";
+      buildFilters();
+      render();
+    }
+  }
+
+  function globeSelect(hit) {
+    if (!hit) return;
+    if (hit.kind === "province") {
+      applyLocation("china", "CN", hit.feature.properties.iso);
+    } else {
+      const iso2 = hit.feature.properties.iso2;
+      if (iso2 === "CN") applyLocation("china", "CN", "");
+      else applyLocation("world", iso2, "");
+    }
+  }
+
+  // Globe interaction
+  $("#globe-open").addEventListener("click", openGlobe);
+  $("#globe-close").addEventListener("click", closeGlobe);
+  $("#globe").addEventListener("click", (e) => { if (e.target === $("#globe")) closeGlobe(); });
+  $("#globe-china").addEventListener("click", () => animateTo([-104, -30], 2.1));
+  $("#globe-spin").addEventListener("click", () => {
+    globe.spinning = !globe.spinning;
+    $("#globe-spin").textContent = globe.spinning ? t().spinOn : t().spinOff;
+  });
+
+  (() => {
+    const canvas = $("#globe-canvas");
+    const tip = $("#globe-tip");
+    // offsetX is unreliable for synthetic events, so derive it from the rect.
+    const localPoint = (e) => {
+      const rect = canvas.getBoundingClientRect();
+      return { x: e.clientX - rect.left, y: e.clientY - rect.top };
+    };
+    let down = null;
+    canvas.addEventListener("pointerdown", (e) => {
+      canvas.setPointerCapture(e.pointerId);
+      globe.dragging = true;
+      globe.moved = false;
+      down = { x: e.clientX, y: e.clientY };
+      globe.pointer = localPoint(e);
+    });
+    canvas.addEventListener("pointermove", (e) => {
+      globe.pointer = localPoint(e);
+      if (globe.dragging && down) {
+        const dx = e.clientX - down.x;
+        const dy = e.clientY - down.y;
+        if (Math.abs(dx) + Math.abs(dy) > 3) globe.moved = true;
+        globe.rotation[0] += dx * 0.3;
+        globe.rotation[1] = Math.max(-85, Math.min(85, globe.rotation[1] - dy * 0.3));
+        down = { x: e.clientX, y: e.clientY };
+        globe.dirty = true;
+        tip.hidden = true;
+        return;
+      }
+      if (!globe.loaded) return;
+      const hit = featureAt(globe.pointer.x, globe.pointer.y);
+      globe.hover = hit;
+      globe.dirty = true;
+      if (hit) {
+        const p = hit.feature.properties;
+        const name = hit.kind === "province"
+          ? (state.lang === "zh" ? p.name_zh : p.name_en)
+          : (state.lang === "zh" ? (p.name_zh || p.name) : p.name);
+        tip.textContent = name || p.iso || p.iso2 || "";
+        tip.style.left = `${globe.pointer.x + 14}px`;
+        tip.style.top = `${globe.pointer.y + 14}px`;
+        tip.hidden = false;
+      } else {
+        tip.hidden = true;
+      }
+    });
+    canvas.addEventListener("pointerup", () => {
+      globe.dragging = false;
+      if (!globe.moved && globe.loaded) globeSelect(featureAt(globe.pointer.x, globe.pointer.y));
+      down = null;
+    });
+    canvas.addEventListener("pointerleave", () => {
+      globe.dragging = false;
+      globe.hover = null;
+      tip.hidden = true;
+      globe.dirty = true;
+    });
+    canvas.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      const factor = Math.exp(-e.deltaY * 0.0012);
+      globe.zoom = Math.max(0.75, Math.min(3.2, globe.zoom * factor));
+      globe.dirty = true;
+    }, { passive: false });
+    window.addEventListener("resize", () => { globe.dirty = true; });
+  })();
 
   // Events
   document.querySelectorAll(".tab").forEach((el) => el.addEventListener("click", () => loadTab(el.dataset.tab)));
   $("#lang-toggle").addEventListener("click", () => setLang(state.lang === "zh" ? "en" : "zh"));
   $("#search").addEventListener("input", (e) => { state.query = e.target.value; state.limit = 60; render(); });
-  $("#country-filter").addEventListener("change", (e) => { state.country = e.target.value; state.limit = 60; render(); });
+  $("#country-filter").addEventListener("change", (e) => {
+    state.country = e.target.value;
+    state.subdivision = "";
+    state.limit = 60;
+    if (state.tab === "world") buildSubdivisionOptions();
+    render();
+  });
+  $("#subdivision-filter").addEventListener("change", (e) => {
+    state.subdivision = e.target.value;
+    state.limit = 60;
+    render();
+  });
+  $("#visited-filter").addEventListener("click", () => {
+    state.visitedOnly = !state.visitedOnly;
+    state.limit = 60;
+    syncVisitedToggle();
+    render();
+  });
   $("#category-filter").addEventListener("change", (e) => { state.category = e.target.value; state.limit = 60; render(); });
   $("#visa-filter").addEventListener("change", (e) => { state.visa = e.target.value; state.limit = 60; render(); });
   $("#tier-filter").addEventListener("change", (e) => { state.tier = e.target.value; state.limit = 60; render(); });
   $("#reset").addEventListener("click", () => {
-    state.query = state.country = state.category = state.visa = state.tier = "";
+    state.query = state.subdivision = state.category = state.visa = state.tier = "";
+    state.country = state.tab === "china" ? "CN" : "";
+    state.visitedOnly = false;
     state.limit = 60;
     $("#search").value = "";
-    $("#country-filter").value = "";
+    $("#country-filter").value = state.country;
+    $("#subdivision-filter").value = "";
     $("#category-filter").value = "";
     $("#visa-filter").value = "";
     $("#tier-filter").value = "";
+    syncVisitedToggle();
     render();
+  });
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest(".mark-btn");
+    if (!btn) return;
+    e.preventDefault();
+    e.stopPropagation();
+    toggleMark(btn.dataset.id, btn.dataset.mark);
   });
   $("#load-more").addEventListener("click", () => { state.limit += 60; render(); });
   $("#detail-close").addEventListener("click", () => $("#detail").close());

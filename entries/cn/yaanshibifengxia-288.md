@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Ya'an"
 lat: 30.078428
 lon: 102.997037
-updated_at: "2026-11-08T12:02:06Z"
+updated_at: "2026-11-08T12:52:06Z"
 ---
 
 # 雅安市碧峰峡旅游景区 / Ya'an

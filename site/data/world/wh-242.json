@@ -1,0 +1,261 @@
+{
+ "id": "wh-242",
+ "unesco_id": "242",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 39,
+ "popularity_score": 325656,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "Maharashtra State, Aurangabad District , Soyagon Taluka, Lenapur Village",
+ "subdivision_iso": "IN-MH",
+ "subdivision_zh": "马哈拉施特拉邦",
+ "subdivision_en": "Maharashtra",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "阿旃陀石窟群",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ajanta Caves",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "242-ajanta_caves",
+ "lat": 20.55341667,
+ "lon": 75.70047222,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iii)(vi)",
+ "year": "1983",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "阿旃陀最初的佛教石窟始建于公元前2世纪至公元前1世纪。公元5世纪至6世纪的笈多时期，更多精心修饰的石窟又被添加到原有的石窟群中。阿旃陀石窟的绘画和雕塑，是佛教艺术的经典之作，具有相当重要的艺术影响力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The first Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries B.C. During the Gupta period (5th and 6th centuries A.D.), many more richly decorated caves were added to the original group. The paintings and sculptures of Ajanta, considered masterpieces of Buddhist religious art, have had a considerable artistic influence.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ajanta%20%2863%29.jpg?width=1280",
+   "title": "Ajanta (63).jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ajanta%20%2863%29.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/1996_-209-32_%28Dec95%29_Aurangabad_Ajanta_Caves_%282233377501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1996 -209-32 (Dec95) Aurangabad Ajanta Caves (2233377501).jpg",
+   "author": "Dan Lundberg",
+   "license": "CC BY-SA 2.0",
+   "credit": "1996 #209-32 (Dec95) Aurangabad Ajanta Caves",
+   "source": "https://commons.wikimedia.org/wiki/File:1996_-209-32_%28Dec95%29_Aurangabad_Ajanta_Caves_%282233377501%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/A_seen_of_Ajanta_caves_from_it%27s_stairs.jpg/1280px-A_seen_of_Ajanta_caves_from_it%27s_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A seen of Ajanta caves from it's stairs.jpg",
+   "author": "Diksha Jadhav",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_seen_of_Ajanta_caves_from_it%27s_stairs.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A_silent_statue.jpg/1280px-A_silent_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "A silent statue.jpg",
+   "author": "Sundaram Perumal",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:A_silent_statue.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_travel_poster_view%2C_by_the_Government_of_India%2C_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "A travel poster view, by the Government of India, 1961.jpg",
+   "author": "Government of India",
+   "license": "Public domain",
+   "credit": "http://www.columbia.edu/itc/mealac/pritchett/00routesdata/bce_099_000/ajanta/frescoes/frescoes.html",
+   "source": "https://commons.wikimedia.org/wiki/File:A_travel_poster_view%2C_by_the_Government_of_India%2C_1961.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/242",
+ "transport": {
+  "airports": [
+   {
+    "name": "Jalgaon Airport",
+    "iata": "JLG",
+    "city": "Jalgaon",
+    "country": "IN",
+    "lat": 20.962678,
+    "lon": 75.627492,
+    "type": "small_airport",
+    "distance_km": 46.1
+   },
+   {
+    "name": "Aurangabad Airport",
+    "iata": "IXU",
+    "city": "Aurangabad",
+    "country": "IN",
+    "lat": 19.862875,
+    "lon": 75.396312,
+    "type": "medium_airport",
+    "distance_km": 83.1
+   },
+   {
+    "name": "Shirdi International Airport",
+    "iata": "SAG",
+    "city": "Kakadi",
+    "country": "IN",
+    "lat": 19.689211,
+    "lon": 74.373655,
+    "type": "large_airport",
+    "distance_km": 168.6
+   }
+  ],
+  "nearest_airport_km": 46.1,
+  "distance_beijing_km": 4409.1,
+  "ferry_terminals": [],
+  "railway_stations": [
+   {
+    "name": "Shendurni",
+    "name_en": null,
+    "lat": 20.6574319,
+    "lon": 75.5974594,
+    "distance_km": 15.8,
+    "operator": "CR"
+   },
+   {
+    "name": "Pahur",
+    "name_en": null,
+    "lat": 20.7154391,
+    "lon": 75.6836894,
+    "distance_km": 18.1,
+    "operator": "CR"
+   },
+   {
+    "name": "Pimpalgaon",
+    "name_en": null,
+    "lat": 20.6278802,
+    "lon": 75.5162536,
+    "distance_km": 20.9,
+    "operator": "CR"
+   },
+   {
+    "name": "Bhagdara",
+    "name_en": null,
+    "lat": 20.7367289,
+    "lon": 75.7506113,
+    "distance_km": 21.0,
+    "operator": "CR"
+   },
+   {
+    "name": "Varkhedi",
+    "name_en": null,
+    "lat": 20.6575236,
+    "lon": 75.443917,
+    "distance_km": 29.1,
+    "operator": "CR"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "MTDC Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.5799914,
+   "lon": 75.7249627,
+   "distance_km": 3.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel View Point",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.4943015,
+   "lon": 75.7222358,
+   "distance_km": 7.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "4 Seasons",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.2510683,
+   "lon": 75.6196411,
+   "distance_km": 34.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 81
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/242"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ajanta%20Caves"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

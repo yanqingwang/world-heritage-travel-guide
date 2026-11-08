@@ -1,0 +1,159 @@
+{
+ "id": "wh-1403",
+ "unesco_id": "1403",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 868,
+ "popularity_score": 401,
+ "country": "PH",
+ "country_zh": "菲律宾",
+ "country_en": "Philippines",
+ "countries": [
+  {
+   "iso2": "PH",
+   "zh": "菲律宾",
+   "en": "Philippines"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PH-DAO",
+ "subdivision_zh": "东达沃省",
+ "subdivision_en": "",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "哈米吉坦山野生动物保护区",
+ "name_zh_source": "curated",
+ "name_en": "Mount Hamiguitan Range Wildlife Sanctuary",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1403-mount_hamiguitan_range_wildlife_sanctuar",
+ "lat": 6.74,
+ "lon": 126.182,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "2014",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "哈米吉坦山野生动物保护区位于东棉兰老岛生物多样性走廊东南部，形成沿着普贾达半岛南北走向的山脊，海拔范围为 75-1,637 米，为一系列动植物物种提供了重要的栖息地。该遗产展示了不同海拔的陆地和水生栖息地，包括受威胁和特有的动植物物种，其中八种仅在哈米吉坦山发现。其中包括极度濒危的树木、植物以及标志性的菲律宾鹰和菲律宾凤头鹦鹉。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Forming a mountain ridge running north-south along the Pujada Peninsula in the south-eastern part of the Eastern Mindanao Biodiversity Corridor, the Mount Hamiguitan Range Wildlife Sanctuary has an elevation range of 75–1,637 m above sea level and provides critical habitat for a range of plant and animal species. The property showcases terrestrial and aquatic habitats at different elevations, and includes threatened and endemic flora and fauna species, eight of which are found only at Mount Hamiguitan. These include critically endangered trees, plants and the iconic Philippine eagle and Philippine cockatoo.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Hamiguitan%20peak.JPG?width=1280",
+   "title": "Mount Hamiguitan peak.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount%20Hamiguitan%20peak.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1403.jpg",
+   "title": "Mount Hamiguitan Range Wildlife Sanctuary",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1403",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1403",
+ "transport": {
+  "airports": [
+   {
+    "name": "Francisco Bangoy International Airport",
+    "iata": "DVO",
+    "city": "Davao",
+    "country": "PH",
+    "lat": 7.12552,
+    "lon": 125.646004,
+    "type": "large_airport",
+    "distance_km": 73.1
+   },
+   {
+    "name": "General Santos International Airport",
+    "iata": "GES",
+    "city": "General Santos",
+    "country": "PH",
+    "lat": 6.057208,
+    "lon": 125.096243,
+    "type": "large_airport",
+    "distance_km": 142.0
+   },
+   {
+    "name": "Cotabato (Awang) Airport",
+    "iata": "CBO",
+    "city": "Datu Odin Sinsuat",
+    "country": "PH",
+    "lat": 7.164753,
+    "lon": 124.209938,
+    "type": "medium_airport",
+    "distance_km": 222.7
+   }
+  ],
+  "nearest_airport_km": 73.1,
+  "distance_beijing_km": 3773.9,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PH",
+  "country_zh": "菲律宾",
+  "country_en": "Philippines",
+  "status": "visa_free",
+  "days": 14,
+  "requirement": "Visa not required",
+  "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PH",
+   "country_zh": "菲律宾",
+   "country_en": "Philippines",
+   "status": "visa_free",
+   "days": 14,
+   "requirement": "Visa not required",
+   "notes": "eVisas issued to Chinese citizens are good for single-entry only. Holders of a valid eVisa must arrive via Ninoy Aquino International Airport (in Manila) or Mactan-Cebu International Airport (in Cebu).[114] Holders of a visa issued by Australia, Japan, Canada, USA or Schengen area do not require a v"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 3
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1403"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mount%20Hamiguitan%20Range%20Wildlife%20Sanctuary"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

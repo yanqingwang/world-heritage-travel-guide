@@ -1,0 +1,113 @@
+{
+ "id": "cn-26562",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "甘肃省",
+ "province_en": "Gansu",
+ "province_iso": "CN-GS",
+ "city_zh": "甘南藏族自治州",
+ "city_en": "Gannanzangzu Autonomous Prefecture",
+ "name_zh": "甘南州冶力关旅游区",
+ "name_en": "Gannanzhouyeliguan Tourist Area",
+ "name_en_source": "pinyin",
+ "slug": "gannanzhouyeliguan-26562",
+ "lat": 35.019003,
+ "lon": 103.628622,
+ "address_zh": "甘肃省甘南藏族自治州临潭县冶力关镇滨河北路",
+ "address_en": "Binhe North Road, Yeliguan Town, Lintan County, Gannan Tibetan Autonomous Prefecture, Gansu Province",
+ "address_en_source": "machine_translation",
+ "category": "red",
+ "category_zh": "红色旅游",
+ "category_en": "Red tourism",
+ "intro_zh": "冶力关旅游区位于甘肃省甘南藏族自治州临潭县东北部，地处青藏高原和黄土高原的过渡带，是青藏高原东北边缘、秦岭褶皱带上集高山湖泊、丹霞地貌、亚高山草甸、梯田花海于一体的复合型生态旅游区。距省会兰州150公里，距甘南州府合作市90公里。由赤壁幽谷和天池冶海两个相连片区组成，总面积20.2平方公里。其中天池冶海属于高山堰塞湖，四周群山叠翠，四季水清如醇；赤壁幽谷形成于中生代的侏罗纪至新生代的第三纪，赭红色的丹霞悬崖横亘，突兀耸峙的奇峰石笋形态各异，是典型的丹霞地貌景观。",
+ "intro_en": "Yeliguan Tourist Area is located in the northeastern part of Lintan County, Gannan Tibetan Autonomous Prefecture, Gansu Province. It is located in the transition zone between the Qinghai-Tibet Plateau and the Loess Plateau. It is a composite eco-tourism area on the northeastern edge of the Qinghai-Tibet Plateau and the Qinling Fold Belt that integrates alpine lakes, Danxia landforms, sub-alpine meadows, and terraced fields of flowers. It is 150 kilometers away from the provincial capital Lanzhou and 90 kilometers away from Hehe City, the capital of Gannan Prefecture. It consists of two connected areas, Chibi Valley and Tianchi Yehai, with a total area of ​​20.2 square kilometers. Among them, Tianchi Yehai is an alpine barrier lake, surrounded by verdant mountains and with clear water all year round; the Red Cliff Valley was formed from the Jurassic Period of the Mesozoic Era to the Tertiary Period of the Cenozoic Era, with ocher-red Danxia cliffs stretching across it and abrupt peaks and stalagmites of various shapes, making it a typical Danxia landform landscape.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "https://ylgly.com/#/home",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Gannan Xiahe Airport",
+    "iata": "GXH",
+    "city": "Gannan (Xiahe)",
+    "country": "CN",
+    "lat": 34.819014,
+    "lon": 102.622261,
+    "type": "medium_airport",
+    "distance_km": 94.4
+   },
+   {
+    "name": "Lanzhou Zhongchuan International Airport",
+    "iata": "LHW",
+    "city": "Lanzhou (Yongdeng)",
+    "country": "CN",
+    "lat": 36.515202,
+    "lon": 103.620003,
+    "type": "large_airport",
+    "distance_km": 166.4
+   },
+   {
+    "name": "Tianshui Maijishan Airport",
+    "iata": "THQ",
+    "city": "Tianshui (Maiji)",
+    "country": "CN",
+    "lat": 34.5601,
+    "lon": 105.860343,
+    "type": "medium_airport",
+    "distance_km": 210.1
+   }
+  ],
+  "nearest_airport_km": 94.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "渭源",
+    "name_en": "Weiyuan",
+    "lat": 35.0972158,
+    "lon": 104.2256059,
+    "distance_km": 55.0,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "漳县",
+    "name_en": "Zhangxian",
+    "lat": 34.7181801,
+    "lon": 104.1556001,
+    "distance_km": 58.6,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

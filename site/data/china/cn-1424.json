@@ -1,0 +1,234 @@
+{
+ "id": "cn-1424",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "河北省",
+ "province_en": "Hebei",
+ "province_iso": "CN-HE",
+ "city_zh": "承德市",
+ "city_en": "Chengde",
+ "name_zh": "承德市金山岭长城景区",
+ "name_en": "Jinshanling",
+ "name_en_source": "wikipedia",
+ "slug": "chengdeshijinshanlingchangcheng-1424",
+ "lat": 40.840497,
+ "lon": 117.594811,
+ "address_zh": "承德市滦平县巴克什营镇",
+ "address_en": "Bakshiying Town, Luanping County, Chengde City",
+ "address_en_source": "machine_translation",
+ "category": "historic",
+ "category_zh": "历史遗址",
+ "category_en": "Historic site",
+ "intro_zh": "金山岭长城西起龙峪口，东至望京楼，全长10.5公里，有关隘5处，敌楼67座，烽燧3座。金山岭长城以视野开阔、敌楼密集、景观奇特、建筑艺术精美。军事防御体系健全、保存完好而著称。",
+ "intro_en": "Jinshanling (simplified Chinese: 金山岭; traditional Chinese: 金山嶺; pinyin: Jīnshānlǐng) is a section of the Great Wall of China located in the mountainous area in Luanping County, Chengde, Hebei Province, 125 km (78 miles) northeast of Beijing. This section of the wall is connected with the Simatai section to the east. Some distance to the west lies the Mutianyu section. Jinshanling was built from 1570 CE during the Ming dynasty.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jinshangling2.jpg/1280px-Jinshangling2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jinshangling2.jpg",
+   "author": "Georgio",
+   "license": "CC BY-SA 3.0",
+   "credit": "Self-photographed",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinshangling2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/1280px-20090529_Great_Wall_8185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20090529 Great Wall 8185.jpg",
+   "author": "Jakub Hałun",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8185.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/20090529_Great_Wall_Jinshanling_0903_8233.jpg/1280px-20090529_Great_Wall_Jinshanling_0903_8233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20090529 Great Wall Jinshanling 0903 8233.jpg",
+   "author": "Jakub Hałun",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_Jinshanling_0903_8233.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jinshanling-facing-east-2019-Luka-Peternel.jpg/1280px-Jinshanling-facing-east-2019-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jinshanling-facing-east-2019-Luka-Peternel.jpg",
+   "author": "Luka Peternel",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinshanling-facing-east-2019-Luka-Peternel.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Jinshanling-facing-west-2019-Luka-Peternel.jpg/1280px-Jinshanling-facing-west-2019-Luka-Peternel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jinshanling-facing-west-2019-Luka-Peternel.jpg",
+   "author": "Luka Peternel",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinshanling-facing-west-2019-Luka-Peternel.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Chengde Puning Airport",
+    "iata": "CDE",
+    "city": "Chengde",
+    "country": "CN",
+    "lat": 41.1225,
+    "lon": 118.073889,
+    "type": "medium_airport",
+    "distance_km": 51.0
+   },
+   {
+    "name": "Beijing Capital International Airport",
+    "iata": "PEK",
+    "city": "Beijing",
+    "country": "CN",
+    "lat": 40.077349,
+    "lon": 116.596702,
+    "type": "large_airport",
+    "distance_km": 119.7
+   },
+   {
+    "name": "Tangshan Sannühe Airport",
+    "iata": "TVS",
+    "city": "Tangshan (Fengrun)",
+    "country": "CN",
+    "lat": 39.7178,
+    "lon": 118.002625,
+    "type": "small_airport",
+    "distance_km": 129.5
+   }
+  ],
+  "nearest_airport_km": 51.0,
+  "high_speed_stations": [
+   {
+    "name": "安匠",
+    "name_en": "Anjiang",
+    "lat": 40.7625342,
+    "lon": 117.723237,
+    "distance_km": 13.9,
+    "operator": null,
+    "high_speed": true
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "承德西",
+    "name_en": "Chengdexi",
+    "lat": 40.7656488,
+    "lon": 117.7160949,
+    "distance_km": 13.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "焦化",
+    "name_en": "Jiaohua",
+    "lat": 40.9437375,
+    "lon": 117.7179372,
+    "distance_km": 15.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "滦河",
+    "name_en": "Luanhe",
+    "lat": 40.9444516,
+    "lon": 117.7337937,
+    "distance_km": 16.4,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "金山岭云璟酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.7888803,
+   "lon": 117.4806693,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "海际宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.9351608,
+   "lon": 117.3343304,
+   "distance_km": 24.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "昭阳宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.9338397,
+   "lon": 117.3282283,
+   "distance_km": 24.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "如家酒店",
+   "name_en": "Home Inn",
+   "stars": null,
+   "brand": "如家酒店",
+   "lat": 40.9415838,
+   "lon": 117.3328364,
+   "distance_km": 24.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "星际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.9365529,
+   "lon": 117.3281532,
+   "distance_km": 24.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 9,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/金山岭长城"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:05Z"
+}

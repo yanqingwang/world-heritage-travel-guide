@@ -1,0 +1,202 @@
+{
+ "id": "cn-397",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "江苏省",
+ "province_en": "Jiangsu",
+ "province_iso": "CN-JS",
+ "city_zh": "宿迁市",
+ "city_en": "Suqian City",
+ "name_zh": "宿迁市洪泽湖湿地景区",
+ "name_en": "Hongze Lake",
+ "name_en_source": "wikipedia",
+ "slug": "suqianshihongzehushidi-397",
+ "lat": 33.252125,
+ "lon": 118.338694,
+ "address_zh": "宿迁市泗洪县东南部城头村洪泽湖湿地公园",
+ "address_en": "Hongze Lake Wetland Park, Chengtou Village, Southeast of Sihong County, Suqian City",
+ "address_en_source": "machine_translation",
+ "category": "resort",
+ "category_zh": "度假休闲",
+ "category_en": "Resort & leisure",
+ "intro_zh": "景区分为五大游览区，分别是以芦苇迷宫为代表的湿地文化体验区、以洪泽湖鱼族馆为代表的湿地科普互动区、以千荷园为代表的湿地植物展示区、以深呼吸通道为代表的湿地生态养生区以及以湿地度假村为代表的湿地度假休闲区。景区集观光旅游、生态休闲、科普教育、度假养生等为一体，现已成为华东地区具有代表性的生态湿地景区。",
+ "intro_en": "Hongze Lake, previously romanized as Lake Hungtze or Hung-tse, is the fourth-largest freshwater lake in China. Although it is known to have existed from antiquity, it drastically increased in size during the Qing when the Yellow River—then still flowing south of Shandong—merged with the Huai. The increased sediment and flow combined to greatly expand the lake, swallowing the previous regional center of Sizhou and the Ming Zuling tombs. During the imperial and republican periods, the lake formed part of the border between Jiangsu and Anhui provinces but since 1955, border changes have put it entirely in Jiangsu, in the counties of Sihong and Siyang in Suqian Prefecture and Xuyi and Hongze in Huai'an Prefecture. Since the establishment of the People's Republic of China, the lake has generally decreased in size as more of its inflow has been diverted for irrigation.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Satellite_view_Hongze_Lake.png/1280px-Satellite_view_Hongze_Lake.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Satellite view Hongze Lake.png",
+   "author": "NASA",
+   "license": "Public domain",
+   "credit": "NASA Imagery",
+   "source": "https://commons.wikimedia.org/wiki/File:Satellite_view_Hongze_Lake.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/PLANS_Hongze_Lake_%28AO-881%29_20160127.jpg/1280px-PLANS_Hongze_Lake_%28AO-881%29_20160127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "PLANS Hongze Lake (AO-881) 20160127.jpg",
+   "author": "日本防衛省·統合幕僚監部",
+   "license": "CC BY 4.0",
+   "credit": "http://www.mod.go.jp/js/Press/press2016/press_pdf/p20160127_01.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:PLANS_Hongze_Lake_%28AO-881%29_20160127.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/PLANS_Hongze_Lake_%28AO-881%29_20160202.jpg/1280px-PLANS_Hongze_Lake_%28AO-881%29_20160202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "PLANS Hongze Lake (AO-881) 20160202.jpg",
+   "author": "日本防衛省·統合幕僚監部",
+   "license": "CC BY 4.0",
+   "credit": "http://www.mod.go.jp/js/Press/press2016/press_pdf/p20160203_01.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:PLANS_Hongze_Lake_%28AO-881%29_20160202.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/PLANS_Hongze_Lake_%28AO-881%29_20160216.jpg/1280px-PLANS_Hongze_Lake_%28AO-881%29_20160216.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "PLANS Hongze Lake (AO-881) 20160216.jpg",
+   "author": "日本防衛省·統合幕僚監部",
+   "license": "CC BY 4.0",
+   "credit": "http://www.mod.go.jp/js/Press/press2016/press_pdf/p20160217_02.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:PLANS_Hongze_Lake_%28AO-881%29_20160216.jpg"
+  },
+  {
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "Zh Hongze ia.ogg",
+   "author": "EEIM",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Zh_Hongze_ia.ogg"
+  }
+ ],
+ "web": "http://www.shhzhsd.cn",
+ "booking": "http://www.shhzhsd.cn/sdmp/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Huai'an Lianshui Airport",
+    "iata": "HIA",
+    "city": "Huai'an",
+    "country": "CN",
+    "lat": 33.792712,
+    "lon": 119.126657,
+    "type": "large_airport",
+    "distance_km": 94.6
+   },
+   {
+    "name": "Xuzhou Guanyin International Airport",
+    "iata": "XUZ",
+    "city": "Xuzhou",
+    "country": "CN",
+    "lat": 34.059056,
+    "lon": 117.555278,
+    "type": "medium_airport",
+    "distance_km": 115.4
+   },
+   {
+    "name": "Bengbu Tenghu Airport",
+    "iata": "BFY",
+    "city": "Bengbu",
+    "country": "CN",
+    "lat": 33.166292,
+    "lon": 117.058344,
+    "type": "medium_airport",
+    "distance_km": 119.5
+   }
+  ],
+  "nearest_airport_km": 94.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "泗县东",
+    "name_en": null,
+    "lat": 33.4631577,
+    "lon": 117.9834156,
+    "distance_km": 40.5,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "泗洪",
+    "name_en": null,
+    "lat": 33.6080207,
+    "lon": 118.2136202,
+    "distance_km": 41.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "黑塔",
+    "name_en": null,
+    "lat": 33.5625598,
+    "lon": 118.0399069,
+    "distance_km": 44.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "康达宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.1849313,
+   "lon": 118.5881889,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "鸿运宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.1852863,
+   "lon": 118.5888918,
+   "distance_km": 24.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "老子山温泉度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.1876429,
+   "lon": 118.5946642,
+   "distance_km": 24.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/洪泽湖"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

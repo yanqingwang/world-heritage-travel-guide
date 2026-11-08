@@ -1,0 +1,162 @@
+{
+ "id": "wh-734",
+ "unesco_id": "734",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 234,
+ "popularity_score": 44145,
+ "country": "JP",
+ "country_zh": "日本",
+ "country_en": "Japan",
+ "countries": [
+  {
+   "iso2": "JP",
+   "zh": "日本",
+   "en": "Japan"
+  }
+ ],
+ "region": "Gifu and Toyama prefectures",
+ "subdivision_iso": "JP-16",
+ "subdivision_zh": "富山县",
+ "subdivision_en": "Toyama Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "白川乡和五屹山历史村落",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Villages of Shirakawa-go and Gokayama",
+ "name_local": "白川郷・五箇山の合掌造り集落",
+ "local_lang": "ja",
+ "local_lang_name": "Japanese",
+ "slug": "734-historic_villages_of_shirakawa-go_and_go",
+ "lat": 36.25694444,
+ "lon": 136.90638889,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "白川乡和五屹山村落，地处山区，长期以来与外界隔绝。这些村落的居民以种桑养蚕为生，当地的农舍很有特色，在日本是独一无二的，它们比一般农舍略大，为两层结构，屋顶坡面很陡，用茅草覆盖。尽管经历了严重的经济动荡，荻町、相仓和菅沼这些村落依旧体现了当地人那种与自然生活环境和社会经济环境完美适应的传统生活方式。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located in a mountainous region that was cut off from the rest of the world for a long period of time, these villages with their Gassho-style houses subsisted on the cultivation of mulberry trees and the rearing of silkworms. The large houses with their steeply pitched thatched roofs are the only examples of their kind in Japan. Despite economic upheavals, the villages of Ogimachi, Ainokura and Suganuma are outstanding examples of a traditional way of life perfectly adapted to the environment and people's social and economic circumstances.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "白川郷・五箇山の合掌造り集落（しらかわごう・ごかやまのがっしょうづくりしゅうらく）は、飛越地方の白川郷と五箇山にある合掌造りの集落群である。1995年（平成7年）12月9日にユネスコの世界遺産（文化遺産）に登録され、日本では6件目の世界遺産となった。",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ogi%20Shirakawa-g%C5%8D%2C%20Gifu%2C%20Japan.jpg?width=1280",
+   "title": "Ogi Shirakawa-gō, Gifu, Japan.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Ogi%20Shirakawa-g%C5%8D%2C%20Gifu%2C%20Japan.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_734.jpg",
+   "title": "Historic Villages of Shirakawa-go and Gokayama",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/734",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/734",
+ "transport": {
+  "airports": [
+   {
+    "name": "Komatsu Airport / JASDF Komatsu Air Base",
+    "iata": "KMQ",
+    "city": "Kanazawa",
+    "country": "JP",
+    "lat": 36.393407,
+    "lon": 136.406895,
+    "type": "large_airport",
+    "distance_km": 47.3
+   },
+   {
+    "name": "Toyama Kitokito Airport",
+    "iata": "TOY",
+    "city": "Toyama",
+    "country": "JP",
+    "lat": 36.648416,
+    "lon": 137.187359,
+    "type": "medium_airport",
+    "distance_km": 50.3
+   },
+   {
+    "name": "Shinshu-Matsumoto Airport",
+    "iata": "MMJ",
+    "city": "Matsumoto",
+    "country": "JP",
+    "lat": 36.166801,
+    "lon": 137.923004,
+    "type": "medium_airport",
+    "distance_km": 91.8
+   }
+  ],
+  "nearest_airport_km": 47.3,
+  "distance_beijing_km": 1775.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "JP",
+  "country_zh": "日本",
+  "country_en": "Japan",
+  "status": "evisa",
+  "days": null,
+  "requirement": "eVisa (conditional)[6]",
+  "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "JP",
+   "country_zh": "日本",
+   "country_en": "Japan",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa (conditional)[6]",
+   "notes": "Japanese oversea missions in mainland China request all visa applications guaranteed and submitted by authorized travel agencies and do not accept direct submission. See details. Passengers transiting through Narita or Haneda airport may apply for a shore pass to enter Japan for no more than 72 hour"
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ja",
+  "local_lang_name": "Japanese",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 40
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/734"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Villages%20of%20Shirakawa-g%C5%8D%20and%20Gokayama"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

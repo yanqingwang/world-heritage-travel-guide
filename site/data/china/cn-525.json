@@ -1,0 +1,224 @@
+{
+ "id": "cn-525",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "云南省",
+ "province_en": "Yunnan",
+ "province_iso": "CN-YN",
+ "city_zh": "丽江市",
+ "city_en": "Lijiang",
+ "name_zh": "丽江市丽江古城景区",
+ "name_en": "Old Town of Lijiang",
+ "name_en_source": "wikipedia",
+ "slug": "lijiangshilijianggucheng-525",
+ "lat": 26.871365,
+ "lon": 100.248143,
+ "address_zh": "云南省丽江市古城区纳西族自治县东大街1号",
+ "address_en": "No. 1, East Street, Naxi Autonomous County, Gucheng District, Lijiang City, Yunnan Province",
+ "address_en_source": "machine_translation",
+ "category": "town",
+ "category_zh": "古镇村落",
+ "category_en": "Ancient town",
+ "intro_zh": "丽江古城是中国四大古城之一，被列入“世界文化遗产名录”。丽江古城是一座没有城墙的古城，主要由古街、古桥、木府、各种古建筑组成，这里有着多彩的地方民族习俗和娱乐活动包括别具特色的纳西古乐、东巴仪式、占卜文化、古镇酒吧以及纳西族火把节等。",
+ "intro_en": "Dayan (Chinese: 大研), commonly called the Old Town of Lijiang (simplified Chinese: 丽江古城; traditional Chinese: 麗江古城) is the historical center of Lijiang City, in Yunnan, China. It is a UNESCO World Heritage Site.",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/1_lijiang_old_town_2012a.jpg/1280px-1_lijiang_old_town_2012a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 lijiang old town 2012a.jpg",
+   "author": "chensiyuan",
+   "license": "CC BY-SA 4.0",
+   "credit": "chensiyuan",
+   "source": "https://commons.wikimedia.org/wiki/File:1_lijiang_old_town_2012a.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_lijiang_old_town_night.jpg/1280px-1_lijiang_old_town_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1 lijiang old town night.jpg",
+   "author": "chensiyuan",
+   "license": "CC BY-SA 4.0",
+   "credit": "chensiyuan",
+   "source": "https://commons.wikimedia.org/wiki/File:1_lijiang_old_town_night.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lijiang_Yunnan_China-Firefighting-Equipment-in-Old-Town-01.jpg/1280px-Lijiang_Yunnan_China-Firefighting-Equipment-in-Old-Town-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lijiang Yunnan China-Firefighting-Equipment-in-Old-Town-01.jpg",
+   "author": "CEphoto, Uwe Aranas",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_China-Firefighting-Equipment-in-Old-Town-01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Lijiang_Yunnan_Doors-_in-old-town-01.jpg/1280px-Lijiang_Yunnan_Doors-_in-old-town-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lijiang Yunnan Doors- in-old-town-01.jpg",
+   "author": "CEphoto, Uwe Aranas",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_Doors-_in-old-town-01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg/1280px-Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Lijiang Yunnan Heritage-shops-in-old-town-01.jpg",
+   "author": "CEphoto, Uwe Aranas",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_Heritage-shops-in-old-town-01.jpg"
+  }
+ ],
+ "web": "https://ljgc517.com/",
+ "booking": "https://ljgc517.com/",
+ "transport": {
+  "airports": [
+   {
+    "name": "Lijiang Sanyi International Airport",
+    "iata": "LJG",
+    "city": "Lijiang",
+    "country": "CN",
+    "lat": 26.677483,
+    "lon": 100.244944,
+    "type": "large_airport",
+    "distance_km": 21.6
+   },
+   {
+    "name": "Ninglang Luguhu Airport",
+    "iata": "NLH",
+    "city": "Ninglang",
+    "country": "CN",
+    "lat": 27.5403,
+    "lon": 100.7593,
+    "type": "medium_airport",
+    "distance_km": 89.9
+   },
+   {
+    "name": "Diqing Shangri-La Airport",
+    "iata": "DIG",
+    "city": "Diqing (Shangri-La)",
+    "country": "CN",
+    "lat": 27.7936,
+    "lon": 99.6772,
+    "type": "medium_airport",
+    "distance_km": 117.0
+   }
+  ],
+  "nearest_airport_km": 21.6,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "丽江东",
+    "name_en": "Lijiangdong",
+    "lat": 26.8710736,
+    "lon": 100.290885,
+    "distance_km": 4.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "丽江",
+    "name_en": "Lijiang",
+    "lat": 26.8143271,
+    "lon": 100.2512118,
+    "distance_km": 6.3,
+    "operator": "中国铁路昆明局集团有限公司",
+    "high_speed": false
+   },
+   {
+    "name": "游客中心",
+    "name_en": "Visitor Center",
+    "lat": 26.9414239,
+    "lon": 100.2310476,
+    "distance_km": 8.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "丽江和府洲际度假酒店",
+   "name_en": "InterContinental Lijiang Ancient Town Resort",
+   "stars": null,
+   "brand": null,
+   "lat": 26.869499,
+   "lon": 100.2362909,
+   "distance_km": 1.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "丽江大研安缦酒店",
+   "name_en": "Amandayan Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 26.8773737,
+   "lon": 100.2307026,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "丽江实力希尔顿花园酒店",
+   "name_en": "Hilton Garden Inn Lijiang",
+   "stars": null,
+   "brand": null,
+   "lat": 26.8729488,
+   "lon": 100.2208523,
+   "distance_km": 2.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "丽江金茂凯悦臻选酒店",
+   "name_en": "Jinmao Hotel Lijiang, the Unbound Collection by Hyatt",
+   "stars": null,
+   "brand": null,
+   "lat": 26.9162856,
+   "lon": 100.2183027,
+   "distance_km": 5.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "丽江晶玺希尔顿酒店",
+   "name_en": "Hilton Lijiang",
+   "stars": null,
+   "brand": null,
+   "lat": 26.8237357,
+   "lon": 100.2173268,
+   "distance_km": 6.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 122,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/丽江古城"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

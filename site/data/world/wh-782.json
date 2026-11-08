@@ -1,0 +1,162 @@
+{
+ "id": "wh-782",
+ "unesco_id": "782",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 583,
+ "popularity_score": 10249,
+ "country": "ES",
+ "country_zh": "西班牙",
+ "country_en": "Spain",
+ "countries": [
+  {
+   "iso2": "ES",
+   "zh": "西班牙",
+   "en": "Spain"
+  }
+ ],
+ "region": "Province and Autonomous Community of Valencia",
+ "subdivision_iso": "ES-V",
+ "subdivision_zh": "巴伦西亚省",
+ "subdivision_en": "Province of Valencia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "瓦伦西亚丝绸交易厅",
+ "name_zh_source": "unesco_official",
+ "name_en": "La Lonja de la Seda de Valencia",
+ "name_local": "Lonja de la seda de Valencia",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "782-la_lonja_de_la_seda_de_valencia",
+ "lat": 39.474444444,
+ "lon": -0.378333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iv)",
+ "year": "1996",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该建筑群建于公元1482年至1533年间，原用于丝绸贸易，并因此得名为丝绸交易厅，从此，那里一直都是进行商贸交易的中心。作为哥特式晚期的建筑杰作，宏伟的交易大厅还是公元15世纪至16世纪地中海地区主要商业城市权力和财富的象征。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built between 1482 and 1533, this group of buildings was originally used for trading in silk (hence its name, the Silk Exchange) and it has always been a centre for commerce. It is a masterpiece of late Gothic architecture. The grandiose Sala de Contratación (Contract or Trading Hall), in particular, illustrates the power and wealth of a major Mediterranean mercantile city in the 15th and 16th centuries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Construido entre 1482 y 1533, este conjunto de edificios se destinó desde un principio al comercio de la seda y desde entonces ha venido desempeñando funciones mercantiles. Obra maestra del gótico flamígero, la lonja y su grandiosa Sala de Contratación ilustran el poderío y la riqueza de una gran ciudad mercantil mediterránea en los siglos XV y XVI.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Consulado%20del%20Mar%20y%20Lonja%20de%20la%20Seda%20en%20Valencia.jpg?width=1280",
+   "title": "Consulado del Mar y Lonja de la Seda en Valencia.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Consulado%20del%20Mar%20y%20Lonja%20de%20la%20Seda%20en%20Valencia.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_782.jpg",
+   "title": "La Lonja de la Seda de Valencia",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/782",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/782",
+ "transport": {
+  "airports": [
+   {
+    "name": "Valencia Airport",
+    "iata": "VLC",
+    "city": "Valencia",
+    "country": "ES",
+    "lat": 39.489162,
+    "lon": -0.480961,
+    "type": "large_airport",
+    "distance_km": 9.0
+   },
+   {
+    "name": "Castellón-Costa Azahar Airport",
+    "iata": "CDT",
+    "city": "Castellón de la Plana",
+    "country": "ES",
+    "lat": 40.213889,
+    "lon": 0.073333,
+    "type": "medium_airport",
+    "distance_km": 90.8
+   },
+   {
+    "name": "Alicante-Elche Miguel Hernández Airport",
+    "iata": "ALC",
+    "city": "Alicante",
+    "country": "ES",
+    "lat": 38.2822,
+    "lon": -0.558156,
+    "type": "large_airport",
+    "distance_km": 133.5
+   }
+  ],
+  "nearest_airport_km": 9.0,
+  "distance_beijing_km": 9107.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ES",
+  "country_zh": "西班牙",
+  "country_en": "Spain",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ES",
+   "country_zh": "西班牙",
+   "country_en": "Spain",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 42
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/782"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lonja%20de%20la%20Seda"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

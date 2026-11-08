@@ -1,0 +1,308 @@
+{
+ "id": "wh-344",
+ "unesco_id": "344",
+ "dataset": "unesco",
+ "tier": "full",
+ "popularity_rank": 91,
+ "popularity_score": 160969,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "FR-30",
+ "subdivision_zh": "加尔省",
+ "subdivision_en": "Gard",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加德桥（罗马式水渠）",
+ "name_zh_source": "unesco_official",
+ "name_en": "Pont du Gard (Roman Aqueduct)",
+ "name_local": "Pont du Gard",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "344-pont_du_gard_(roman_aqueduct)",
+ "lat": 43.9473,
+ "lon": 4.5355,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(iii)(iv)",
+ "year": "1985",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "加德桥建于公元前夕，是为了让尼姆高架渠（长约50公里）横跨加德河所建。这座桥共三层，高约50米，最长的地方为275米，设计这座桥的罗马建筑师和水利工程师创造了一件技术和艺术杰作。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The Pont du Gard was built shortly before the Christian era to allow the aqueduct of Nîmes (which is almost 50 km long) to cross the Gard river. The Roman architects and hydraulic engineers who designed this bridge, which stands almost 50 m high and is on three levels – the longest measuring 275 m – created a technical as well as an artistic masterpiece.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Le pont du Gard a été construit peu avant l'ère chrétienne pour permettre à l'aqueduc de Nîmes, long de près de 50 km, de franchir le Gardon. En imaginant ce pont de 50 m de haut à trois niveaux, dont le plus long mesure 275 m, les ingénieurs hydrauliciens et architectes romains ont créé un chef-d'œuvre technique qui est aussi une œuvre d'art.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pont%20du%20Gard%20BLS.jpg?width=1280",
+   "title": "Pont du Gard BLS.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Pont%20du%20Gard%20BLS.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Pont_Du_Gard_From_River.JPG/1280px-Pont_Du_Gard_From_River.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Pont Du Gard From River.JPG",
+   "author": "Chris0693",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Pont_Du_Gard_From_River.JPG"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._01.jpg/1280px-%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Ein architektonisches Meisterwerk der Römer\". 01.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._02.jpg/1280px-%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Ein architektonisches Meisterwerk der Römer\". 02.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._02.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._03.jpg/1280px-%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "\"Ein architektonisches Meisterwerk der Römer\". 03.jpg",
+   "author": "Holger Uwe Schmitt",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Ein_architektonisches_Meisterwerk_der_R%C3%B6mer%22._03.jpg"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/344",
+ "transport": {
+  "airports": [
+   {
+    "name": "Nîmes-Arles-Camargue Airport",
+    "iata": "FNI",
+    "city": "Nîmes/Garons",
+    "country": "FR",
+    "lat": 43.757401,
+    "lon": 4.41635,
+    "type": "medium_airport",
+    "distance_km": 23.2
+   },
+   {
+    "name": "Avignon Caumont airport",
+    "iata": "AVN",
+    "city": "Avignon",
+    "country": "FR",
+    "lat": 43.907299,
+    "lon": 4.90183,
+    "type": "medium_airport",
+    "distance_km": 29.7
+   },
+   {
+    "name": "Montpellier-Méditerranée Airport",
+    "iata": "MPL",
+    "city": "Montpellier/Méditerranée",
+    "country": "FR",
+    "lat": 43.576199,
+    "lon": 3.96301,
+    "type": "large_airport",
+    "distance_km": 61.8
+   }
+  ],
+  "nearest_airport_km": 23.2,
+  "distance_beijing_km": 8484.7,
+  "ferry_terminals": [
+   {
+    "name": "Bac du Rocher des Doms",
+    "name_en": null,
+    "lat": 43.9553516,
+    "lon": 4.8075067,
+    "distance_km": 21.8,
+    "operator": null
+   },
+   {
+    "name": "halte nautique d'Avignon",
+    "name_en": null,
+    "lat": 43.9538942,
+    "lon": 4.8099782,
+    "distance_km": 22.0,
+    "operator": null
+   },
+   {
+    "name": "Halte Fluviale",
+    "name_en": null,
+    "lat": 44.0670168,
+    "lon": 4.7887285,
+    "distance_km": 24.2,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Nîmes Pont du Gard",
+    "name_en": null,
+    "lat": 43.8168238,
+    "lon": 4.5076542,
+    "distance_km": 14.7,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Beaucaire",
+    "name_en": null,
+    "lat": 43.8022132,
+    "lon": 4.6471462,
+    "distance_km": 18.4,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Nîmes Centre",
+    "name_en": null,
+    "lat": 43.8323742,
+    "lon": 4.3662548,
+    "distance_km": 18.6,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Tarascon",
+    "name_en": null,
+    "lat": 43.8010557,
+    "lon": 4.657056,
+    "distance_km": 19.0,
+    "operator": "SNCF Gares & Connexions"
+   },
+   {
+    "name": "Avignon TGV",
+    "name_en": null,
+    "lat": 43.9217832,
+    "lon": 4.786072,
+    "distance_km": 20.3,
+    "operator": "SNCF Gares & Connexions"
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "Le Prieuré",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.9632638,
+   "lon": 4.7961564,
+   "distance_km": 20.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Château de Montcaud",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.171856,
+   "lon": 4.5710216,
+   "distance_km": 25.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Auberge de Cassagne & Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.9606594,
+   "lon": 4.874932,
+   "distance_km": 27.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Guigou",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.743976,
+   "lon": 4.7910646,
+   "distance_km": 30.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "L'Oustaù de Baumanière",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 43.7401362,
+   "lon": 4.7885263,
+   "distance_km": 30.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 57
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/344"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pont%20du%20Gard"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:25Z"
+}

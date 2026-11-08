@@ -1,0 +1,162 @@
+{
+ "id": "wh-742",
+ "unesco_id": "742",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 503,
+ "popularity_score": 13410,
+ "country": "CO",
+ "country_zh": "哥伦比亚",
+ "country_en": "Colombia",
+ "countries": [
+  {
+   "iso2": "CO",
+   "zh": "哥伦比亚",
+   "en": "Colombia"
+  }
+ ],
+ "region": "Bolívar Department",
+ "subdivision_iso": "CO-BOL",
+ "subdivision_zh": "玻利瓦尔省",
+ "subdivision_en": "Bolívar Department",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "蒙波斯的圣克鲁斯历史中心",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Santa Cruz de Mompox",
+ "name_local": "Centro histórico de Santa Cruz de Mompox",
+ "local_lang": "es",
+ "local_lang_name": "Spanish",
+ "slug": "742-historic_centre_of_santa_cruz_de_mompox",
+ "lat": 9.239444444,
+ "lon": -74.425,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(v)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "蒙波斯(Mompox)于1540年建立于马格达莱纳河(the River Magdalena)河畔，在西班牙殖民统治南美洲北部时发挥了重要作用。从16至19世纪，这个城市沿着河流两岸逐渐发展扩大，主要街道都担当着河堤的作用。历史中心保持了城市景观的和谐与统一。现在大部分建筑物，仍保留原来的使用目的，真实地反映了西班牙统治时期的殖民地城市画面。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in 1540 on the banks of the River Magdalena, Mompox played a key role in the Spanish colonization of northern South America. From the 16th to the 19th century the city developed parallel to the river, with the main street acting as a dyke. The historic centre has preserved the harmony and unity of the urban landscape. Most of the buildings are still used for their original purposes, providing an exceptional picture of what a Spanish colonial city was like.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Fundada en 1540, a orillas del rí­o Magdalena, Mompox desempeñó un importante papel en el establecimiento de la dominación española en el norte de Sudamérica. Desde el siglo XVI hasta el XIX, la ciudad fue creciendo paralelamente al rí­o y su calle principal serví­a de dique de contención del rí­o. En su centro histórico se ha preservado la armoní­a e integridad del paisaje urbano. La mayorí­a de los edificios siguen cumpliendo todaví­a su función primigenia, ofreciendo así­ una imagen excepcional de lo que fue una ciudad colonial española.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mompox%20-%20Vista%20dal%20Rio%20Magdalena.jpg?width=1280",
+   "title": "Mompox - Vista dal Rio Magdalena.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mompox%20-%20Vista%20dal%20Rio%20Magdalena.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_742.jpg",
+   "title": "Historic Centre of Santa Cruz de Mompox",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/742",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/742",
+ "transport": {
+  "airports": [
+   {
+    "name": "Las Brujas Airport",
+    "iata": "CZU",
+    "city": "Corozal",
+    "country": "CO",
+    "lat": 9.33274,
+    "lon": -75.2856,
+    "type": "medium_airport",
+    "distance_km": 95.0
+   },
+   {
+    "name": "Golfo de Morrosquillo Airport",
+    "iata": "TLU",
+    "city": "Santiago de Tolú",
+    "country": "CO",
+    "lat": 9.50945,
+    "lon": -75.5854,
+    "type": "small_airport",
+    "distance_km": 130.8
+   },
+   {
+    "name": "Los Garzones Airport",
+    "iata": "MTR",
+    "city": "Montería",
+    "country": "CO",
+    "lat": 8.82374,
+    "lon": -75.8258,
+    "type": "medium_airport",
+    "distance_km": 160.6
+   }
+  ],
+  "nearest_airport_km": 95.0,
+  "distance_beijing_km": 14386.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CO",
+  "country_zh": "哥伦比亚",
+  "country_en": "Colombia",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Online Visa[6][40]",
+  "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CO",
+   "country_zh": "哥伦比亚",
+   "country_en": "Colombia",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Online Visa[6][40]",
+   "notes": "National visa may be substituted with a visa or residence permit issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[41]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "es",
+  "local_lang_name": "Spanish",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 44
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/742"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Santa%20Cruz%20de%20Mompox"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:32Z"
+}

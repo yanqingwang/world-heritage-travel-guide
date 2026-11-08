@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(v)"
 lat: 46.21777778
 lon: 24.79222222
-updated_at: "2026-11-08T12:18:57Z"
+updated_at: "2026-11-08T14:52:36Z"
 ---
 
 # 锡吉什瓦拉历史中心 / Historic Centre of Sighişoara

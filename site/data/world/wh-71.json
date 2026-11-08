@@ -1,0 +1,162 @@
+{
+ "id": "wh-71",
+ "unesco_id": "71",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 294,
+ "popularity_score": 31410,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "CA-AB",
+ "subdivision_zh": "阿尔伯塔省",
+ "subdivision_en": "Alberta",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "艾伯塔省恐龙公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Dinosaur Provincial Park",
+ "name_local": "Parc provincial Dinosaur",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "71-dinosaur_provincial_park",
+ "lat": 50.7617,
+ "lon": -111.485,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "艾伯塔省恐龙公园位于艾伯塔省荒地的中心，公园内除了特别秀丽的风景之外，还有许多最为重要的“爬行动物时代”(Age of Reptiles)的化石，特别是可以追溯到7500万年前的35种恐龙化石。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In addition to its particularly beautiful scenery, Dinosaur Provincial Park – located at the heart of the province of Alberta's badlands – contains some of the most important fossil discoveries ever made from the 'Age of Reptiles', in particular about 35 species of dinosaur, dating back some 75 million years.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Outre ses paysages d'une grande beauté, le parc, situé au cœur des bad-lands de la province de l'Alberta, contient les vestiges les plus importants qu'on ait jamais trouvés de l'« âge des reptiles ». Il s'agit en particulier d'environ 35 espèces de dinosaures remontant à quelque 75 millions d'années.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DinosaurProvincialParkHoodoo.jpg?width=1280",
+   "title": "DinosaurProvincialParkHoodoo.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:DinosaurProvincialParkHoodoo.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_71.jpg",
+   "title": "Dinosaur Provincial Park",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/71",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/71",
+ "transport": {
+  "airports": [
+   {
+    "name": "Medicine Hat Regional Airport",
+    "iata": "YXH",
+    "city": "Medicine Hat",
+    "country": "CA",
+    "lat": 50.018902,
+    "lon": -110.721001,
+    "type": "medium_airport",
+    "distance_km": 98.8
+   },
+   {
+    "name": "Lethbridge County Airport",
+    "iata": "YQL",
+    "city": "Lethbridge",
+    "country": "CA",
+    "lat": 49.6302986145,
+    "lon": -112.800003052,
+    "type": "medium_airport",
+    "distance_km": 156.8
+   },
+   {
+    "name": "Calgary International Airport",
+    "iata": "YYC",
+    "city": "Calgary",
+    "country": "CA",
+    "lat": 51.118822,
+    "lon": -114.009933,
+    "type": "large_airport",
+    "distance_km": 181.3
+   }
+  ],
+  "nearest_airport_km": 98.8,
+  "distance_beijing_km": 8983.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/71"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dinosaur%20Provincial%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

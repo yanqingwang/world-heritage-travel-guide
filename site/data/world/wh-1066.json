@@ -1,0 +1,162 @@
+{
+ "id": "wh-1066",
+ "unesco_id": "1066",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 887,
+ "popularity_score": null,
+ "country": "DE",
+ "country_zh": "德国",
+ "country_en": "Germany",
+ "countries": [
+  {
+   "iso2": "DE",
+   "zh": "德国",
+   "en": "Germany"
+  }
+ ],
+ "region": "States of Rhineland-Palatinate (Rheinland-Pfalz) and Hesse (Hessen)",
+ "subdivision_iso": "DE-HE",
+ "subdivision_zh": "黑森州",
+ "subdivision_en": "Hesse",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "莱茵河中上游河谷",
+ "name_zh_source": "unesco_official",
+ "name_en": "Upper Middle Rhine Valley",
+ "name_local": "Oberes Mittelrheintal",
+ "local_lang": "de",
+ "local_lang_name": "German",
+ "slug": "1066-upper_middle_rhine_valley",
+ "lat": 50.1736,
+ "lon": 7.694169444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)(v)",
+ "year": "2002",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "延绵65公里的莱茵河中游河谷，与河畔的古堡、历史小城、葡萄园一起生动地描述了一段人类与变迁的自然环境相互影响的漫长历史。几个世纪来，这里发生的众多历史事件、演绎的许多传奇，对作家、艺术家和作曲家产生了很大影响。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The 65km-stretch of the Middle Rhine Valley, with its castles, historic towns and vineyards, graphically illustrates the long history of human involvement with a dramatic and varied natural landscape. It is intimately associated with history and legend and for centuries has exercised a powerful influence on writers, artists and composers.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Das Obere Mittelrheintal (vereinzelt auch Obermittelrheintal) ist eine naturräumliche Haupteinheit innerhalb der Haupteinheitengruppe Mittelrheingebiet am Mittelrhein. Sie erstreckt sich rheinaufwärts im Südosten etwa bis zu einer Linie, die die Rochuskapelle in Bingen mit dem Niederwalddenkmal in Rüdesheim verbindet, und rheinabwärts im Nordwesten bis unmittelbar oberhalb von Koblenz. Das Obere Mittelrheintal liegt in Rheinland-Pfalz, am südlicheren Ostufer auch in Hessen, und trennt den Taunus im Osten vom Hunsrück im Westen. Am 27. Juni 2002 wurde das Welterbe Kulturlandschaft Oberes Mittelrheintal mit dem nach Norden leicht erweiterten Verlauf bis zur Moselmündung in Koblenz in die Liste des Weltkulturerbes der UNESCO aufgenommen.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mittelrhein%20Burg%20Katz.jpg?width=1280",
+   "title": "Mittelrhein Burg Katz.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mittelrhein%20Burg%20Katz.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1066.jpg",
+   "title": "Upper Middle Rhine Valley",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1066",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1066",
+ "transport": {
+  "airports": [
+   {
+    "name": "Frankfurt-Hahn Airport",
+    "iata": "HHN",
+    "city": "Frankfurt am Main (Lautzenhausen)",
+    "country": "DE",
+    "lat": 49.946353,
+    "lon": 7.261734,
+    "type": "large_airport",
+    "distance_km": 39.9
+   },
+   {
+    "name": "Frankfurt Main Airport",
+    "iata": "FRA",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "lat": 50.026706,
+    "lon": 8.55835,
+    "type": "large_airport",
+    "distance_km": 63.8
+   },
+   {
+    "name": "Cologne Bonn Airport",
+    "iata": "CGN",
+    "city": "Köln (Cologne)",
+    "country": "DE",
+    "lat": 50.865898,
+    "lon": 7.14274,
+    "type": "large_airport",
+    "distance_km": 86.3
+   }
+  ],
+  "nearest_airport_km": 39.9,
+  "distance_beijing_km": 7865.6,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "DE",
+  "country_zh": "德国",
+  "country_en": "Germany",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "DE",
+   "country_zh": "德国",
+   "country_en": "Germany",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 33
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1066"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rhine%20Gorge"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:40Z"
+}

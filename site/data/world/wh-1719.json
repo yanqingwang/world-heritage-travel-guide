@@ -1,0 +1,162 @@
+{
+ "id": "wh-1719",
+ "unesco_id": "1719",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1018,
+ "popularity_score": null,
+ "country": "GR",
+ "country_zh": "希腊",
+ "country_en": "Greece",
+ "countries": [
+  {
+   "iso2": "GR",
+   "zh": "希腊",
+   "en": "Greece"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "GR-42",
+ "subdivision_zh": "拉里萨专区",
+ "subdivision_en": "Larissa Regional Unit",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "奥林匹斯山及周边区域",
+ "name_zh_source": "unesco_official",
+ "name_en": "The wider area of Mount Olympus",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1719-the_wider_area_of_mount_olympus",
+ "lat": 40.0783,
+ "lon": 22.3489,
+ "coord_accuracy": "site",
+ "category": "Mixed",
+ "category_zh": "混合遗产",
+ "category_en": "Mixed",
+ "criteria": "(vi)(x)",
+ "year": "2026",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "奥林匹斯山位于希腊北部，是该国最高峰。由于毗邻海洋且地势陡峭抬升，其独特小气候造就了极丰富的地形、气候和植被类型。古希腊人视这里为神之居所，包括以宙斯为首的12位奥林匹斯主神，以及缪斯女神和美惠三女神。赫西俄德和荷马的著作使奥林匹斯山成为整个希腊和罗马世界中希腊神话体系的核心参照，并成为希腊文明的恒久象征。遗产拥有壮观的自然地貌，包括冰川圈谷、石灰岩峭壁、岩溶塌陷和滑塌岩体区；米蒂卡斯—斯蒂法尼（Mytikas–Stefani）山脊群等陡峭山脊以及埃尼佩阿斯（Enipeas）等深谷，则展现了持续的新构造运动。奥林匹斯山曾是森林物种的冰期避难所，同时也是地中海地区植物多样性和特有植物的热点地区。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Mount Olympus is situated in northern Greece and is the highest mountain in the country. Its microclimate, resulting from its proximity to the sea and abrupt elevation, produces a remarkable diversity in terrain, climate, and vegetation. In this landscape, the ancient Greeks situated the abode of their Twelve Olympian Gods, with Zeus as their sovereign, as well as the Muses and Graces. Through the writings of Hesiod and Homer, Mount Olympus became a central point of reference for Greek mythology throughout the Greek and Roman worlds, rendering Mount Olympus an enduring emblem of Greek civilisation. The serial property features striking landforms, including glacial cirques, limestone cliffs, karstic sinkholes, and olistolith fields, while sharp ridges like the Mytikas-Stefani complex and deep gorges such as the Enipeas illustrate ongoing neotectonic activity. Mount Olympus has served as a glacial refugium for forest species and is also a Mediterranean plant biodiversity and endemism hotspot.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus%20Litochoro.JPG?width=1280",
+   "title": "Olympus Litochoro.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Olympus%20Litochoro.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1719.jpg",
+   "title": "The wider area of Mount Olympus",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1719",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1719",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kozani National Airport Filippos",
+    "iata": "KZI",
+    "city": "Kozani",
+    "country": "GR",
+    "lat": 40.286098,
+    "lon": 21.840799,
+    "type": "medium_airport",
+    "distance_km": 49.0
+   },
+   {
+    "name": "Thessaloniki Macedonia International Airport",
+    "iata": "SKG",
+    "city": "Thessaloniki",
+    "country": "GR",
+    "lat": 40.51928,
+    "lon": 22.970009,
+    "type": "large_airport",
+    "distance_km": 72.0
+   },
+   {
+    "name": "Kastoria National Airport Aristotle",
+    "iata": "KSO",
+    "city": "Argos Orestiko",
+    "country": "GR",
+    "lat": 40.446301,
+    "lon": 21.2822,
+    "type": "small_airport",
+    "distance_km": 99.3
+   }
+  ],
+  "nearest_airport_km": 49.0,
+  "distance_beijing_km": 7606.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GR",
+  "country_zh": "希腊",
+  "country_en": "Greece",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GR",
+   "country_zh": "希腊",
+   "country_en": "Greece",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1719"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

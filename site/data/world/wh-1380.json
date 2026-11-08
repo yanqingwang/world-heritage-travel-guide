@@ -1,0 +1,179 @@
+{
+ "id": "wh-1380",
+ "unesco_id": "1380",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 949,
+ "popularity_score": null,
+ "country": "CF",
+ "country_zh": "中非共和国",
+ "country_en": "Central African Republic",
+ "countries": [
+  {
+   "iso2": "CF",
+   "zh": "中非共和国",
+   "en": "Central African Republic"
+  },
+  {
+   "iso2": "CG",
+   "zh": "刚果共和国",
+   "en": "Republic of the Congo"
+  },
+  {
+   "iso2": "CM",
+   "zh": "喀麦隆",
+   "en": "Cameroon"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
+ "name_zh": "桑加三国保护区",
+ "name_zh_source": "curated",
+ "name_en": "Sangha Trinational",
+ "name_local": "Trinational de la Sangha",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "1380-sangha_trinational",
+ "lat": 2.6666666666667,
+ "lon": 16.333333333333,
+ "coord_accuracy": "wikidata_search",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2012",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "该地区位于喀麦隆、中非共和国和刚果三国交界处的刚果盆地西北部，包括三个相连的国家公园，总面积约 750,000 公顷。该地区的大部分地区未受到人类活动的影响，拥有广泛的潮湿热带森林生态系统，拥有丰富的动植物群，包括尼罗河鳄鱼和大型捕食者虎鱼。森林空地支持草本物种的生长，桑加是大量森林象、极度濒危的西部低地大猩猩和濒临灭绝的黑猩猩的家园。该遗址的环境保存了大规模的生态和进化过程的延续以及丰富的生物多样性，包括许多濒临灭绝的动物物种。",
+ "intro_zh_source": "machine_translation",
+ "intro_en": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Situé dans le nord-ouest du bassin du Congo, au point de rencontre du Cameroun, du Congo et de la République centrafricaine, le site comprend trois parcs nationaux contigus, couvrant une superficie totale de 750 000 hectares, très peu affectés par l’activité humaine. On y trouve l’ensemble du spectre des écosystèmes de forêts tropicales humides. Les riches faune et flore comprennent notamment des crocodiles du Nil et des poissons-tigres Goliath, grands prédateurs. Les clairières offrent des espèces herbacées et la Sangha abrite des populations considérables d’éléphants de forêt, ainsi que des gorilles des plaines de l’ouest (en danger critique d’extinction) et des chimpanzés (en danger). L’environnement du site a permis la poursuite des processus écologiques et évolutionnaires sur une large échelle, ainsi que le maintien d’une grande biodiversité, comprenant de nombreuses espèces en danger.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1380.jpg",
+   "title": "Sangha Trinational",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1380",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1380",
+ "transport": {
+  "airports": [
+   {
+    "name": "Bangui M'Poko International Airport",
+    "iata": "BGF",
+    "city": "Bangui",
+    "country": "CF",
+    "lat": 4.39848,
+    "lon": 18.518801,
+    "type": "large_airport",
+    "distance_km": 309.7
+   },
+   {
+    "name": "Mbandaka Airport",
+    "iata": "MDK",
+    "city": "Mbandaka",
+    "country": "CD",
+    "lat": 0.0226000007242,
+    "lon": 18.2887001038,
+    "type": "medium_airport",
+    "distance_km": 365.6
+   },
+   {
+    "name": "Gemena Airport",
+    "iata": "GMA",
+    "city": "Gemena",
+    "country": "CD",
+    "lat": 3.23537,
+    "lon": 19.771299,
+    "type": "medium_airport",
+    "distance_km": 387.0
+   }
+  ],
+  "nearest_airport_km": 309.7,
+  "distance_beijing_km": 10375.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CF",
+  "country_zh": "中非共和国",
+  "country_en": "Central African Republic",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CF",
+   "country_zh": "中非共和国",
+   "country_en": "Central African Republic",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  },
+  {
+   "iso2": "CG",
+   "country_zh": "刚果共和国",
+   "country_en": "Republic of the Congo",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Holders of passports for public affairs do not require a visa.[18]"
+  },
+  {
+   "iso2": "CM",
+   "country_zh": "喀麦隆",
+   "country_en": "Cameroon",
+   "status": "evisa",
+   "days": null,
+   "requirement": "eVisa[6][36]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "mixed",
+ "info_languages": {
+  "zh": false,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1380"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

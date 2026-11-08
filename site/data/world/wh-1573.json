@@ -1,0 +1,162 @@
+{
+ "id": "wh-1573",
+ "unesco_id": "1573",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 989,
+ "popularity_score": null,
+ "country": "PT",
+ "country_zh": "葡萄牙",
+ "country_en": "Portugal",
+ "countries": [
+  {
+   "iso2": "PT",
+   "zh": "葡萄牙",
+   "en": "Portugal"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "PT-11",
+ "subdivision_zh": "里斯本区",
+ "subdivision_en": "Lisbon",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马夫拉皇室建筑-宫殿、大教堂、修道院、塞尔科花园及塔帕达狩猎公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Royal Building of Mafra – Palace, Basilica, Convent, Cerco Garden and Hunting Park ( Tapada )",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1573-royal_building_of_mafra_–_palace,_basili",
+ "lat": 38.936922,
+ "lon": -9.326395,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "2019",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址位于里斯本西北30公里处，由若昂五世于1711年兴建，是其君主制和国家概念的实物呈现。这座宏伟的矩形建筑包括国王及王后宫殿、按照巴洛克风格罗马巴西利卡样式修建的皇家小圣堂、方济各会修道院，及藏书3.6万册的图书馆。几何对称布局的塞尔科花园及塔帕达皇家狩猎公园亦是建筑整体的一部分。马夫拉皇室建筑是若昂五世最出色的工程之一，展示了葡萄牙帝国的实力和影响力。若昂五世不仅采纳了罗马的意大利巴罗克建筑和艺术样式，还定制了各类艺术作品用于装饰，使得马夫拉成为意大利巴罗克风格的典型建筑。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located 30 km northwest of Lisbon, the property was conceived by King João V in 1711 as a tangible representation of his conception of the monarchy and the State. This imposing quadrangular building houses the king’s and queen's palaces, the royal chapel, shaped like a Roman baroque basilica, a Franciscan monastery and a library containing 36,000 volumes. The complex is completed by the Cerco garden, with its geometric layout, and the royal hunting park ( Tapada ). The Royal Mafra Building is one of the most remarkable works undertaken by King João V, which illustrates the power and reach of the Portuguese Empire. João V adopted Roman and Italian baroque architectural and artistic models and commissioned works of art that make Mafra an exceptional example of Italian Baroque.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mafra%20May%202013-1.jpg?width=1280",
+   "title": "Mafra May 2013-1.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Mafra%20May%202013-1.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1573.jpg",
+   "title": "Royal Building of <i>Mafra</i> – Palace, Basilica, Convent, <i>Cerco</i> Garden and Hunting Park (<i>Tapada</i>)",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1573",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1573",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cascais Airport",
+    "iata": "CAT",
+    "city": "Cascais",
+    "country": "PT",
+    "lat": 38.724998,
+    "lon": -9.35523,
+    "type": "medium_airport",
+    "distance_km": 23.7
+   },
+   {
+    "name": "Lisbon Humberto Delgado Airport",
+    "iata": "LIS",
+    "city": "Lisbon",
+    "country": "PT",
+    "lat": 38.7813,
+    "lon": -9.13592,
+    "type": "large_airport",
+    "distance_km": 23.9
+   },
+   {
+    "name": "Portimão Airport",
+    "iata": "PRM",
+    "city": "Portimão",
+    "country": "PT",
+    "lat": 37.1493,
+    "lon": -8.58396,
+    "type": "medium_airport",
+    "distance_km": 209.1
+   }
+  ],
+  "nearest_airport_km": 23.7,
+  "distance_beijing_km": 9673.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "PT",
+  "country_zh": "葡萄牙",
+  "country_en": "Portugal",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "PT",
+   "country_zh": "葡萄牙",
+   "country_en": "Portugal",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1573"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:49Z"
+}

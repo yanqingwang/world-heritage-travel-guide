@@ -1,0 +1,213 @@
+{
+ "id": "cn-803",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "山西省",
+ "province_en": "Shanxi",
+ "province_iso": "CN-SX",
+ "city_zh": "晋中市",
+ "city_en": "Jinzhong",
+ "name_zh": "晋中市绵山风景区",
+ "name_en": "Jinzhong",
+ "name_en_source": "wikipedia",
+ "slug": "jinzhongshimianshan-803",
+ "lat": 36.912044,
+ "lon": 111.966208,
+ "address_zh": "晋中市介休市绵山镇",
+ "address_en": "Mianshan Town, Jiexiu City, Jinzhong City",
+ "address_en_source": "machine_translation",
+ "category": "garden",
+ "category_zh": "皇家园林",
+ "category_en": "Royal garden",
+ "intro_zh": "绵山风景名胜区，跨介休、灵石、沁源三市县地界，是太岳山的一条支脉。景区建筑群体中宗教建筑有殿庙、宫观，园林建筑有亭、台、楼、阁、轩、廊、榭、牌楼，古留遗迹建筑有古营门、城池、营寨等。",
+ "intro_en": "Mianshan Scenic Area, spanning the boundaries of Jiexiu, Lingshi and Qinyuan cities and counties, is a branch of Taiyue Mountain. Among the architectural groups in the scenic area, religious buildings include temples and palaces, garden buildings include pavilions, terraces, towers, pavilions, pavilions, corridors, pavilions, and archways, and ancient relic buildings include ancient camp gates, cities, camps, etc.",
+ "intro_en_source": "machine_translation",
+ "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Buildings_in_Pingyao_2018-06-13_093324.jpg/1280px-Buildings_in_Pingyao_2018-06-13_093324.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Buildings in Pingyao 2018-06-13 093324.jpg",
+   "author": "David290",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Buildings_in_Pingyao_2018-06-13_093324.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jinzhong-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Jinzhong-map.png",
+   "author": "장길산",
+   "license": "Public domain",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong-map.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Jinzhong_Railway_Station_%2820241107155630%29.jpg/1280px-Jinzhong_Railway_Station_%2820241107155630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jinzhong Railway Station (20241107155630).jpg",
+   "author": "N509FZ",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_%2820241107155630%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg/1280px-Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Jinzhong Railway Station (August 11, 2026).jpg",
+   "author": "Ib",
+   "license": "CC BY 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jinzhong_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Jinzhong mcp.png",
+   "author": "Maggern87",
+   "license": "CC0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_mcp.png"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Linfen Yaodu Airport",
+    "iata": "LFQ",
+    "city": "Linfen (Yaodu)",
+    "country": "CN",
+    "lat": 36.132629,
+    "lon": 111.641236,
+    "type": "medium_airport",
+    "distance_km": 91.4
+   },
+   {
+    "name": "Taiyuan Wusu International Airport",
+    "iata": "TYN",
+    "city": "Taiyuan",
+    "country": "CN",
+    "lat": 37.746899,
+    "lon": 112.627998,
+    "type": "large_airport",
+    "distance_km": 109.7
+   },
+   {
+    "name": "Lüliang Dawu Airport",
+    "iata": "LLV",
+    "city": "Lüliang",
+    "country": "CN",
+    "lat": 37.683333,
+    "lon": 111.142778,
+    "type": "medium_airport",
+    "distance_km": 112.5
+   }
+  ],
+  "nearest_airport_km": 91.4,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "灵石东",
+    "name_en": null,
+    "lat": 36.8793321,
+    "lon": 111.9093864,
+    "distance_km": 6.2,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "介休",
+    "name_en": "Jiexiu",
+    "lat": 37.0179736,
+    "lon": 111.9130844,
+    "distance_km": 12.7,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "义棠",
+    "name_en": "Yitang",
+    "lat": 37.000849,
+    "lon": 111.8394936,
+    "distance_km": 15.0,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "陌上轻雅酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.869847,
+   "lon": 111.880985,
+   "distance_km": 8.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "崇宁堡宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.8963771,
+   "lon": 111.8640726,
+   "distance_km": 9.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "友谊宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.0255957,
+   "lon": 111.9055519,
+   "distance_km": 13.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "如家酒店",
+   "name_en": "Home Inn",
+   "stars": null,
+   "brand": "如家酒店",
+   "lat": 37.0226758,
+   "lon": 111.8988952,
+   "distance_km": 13.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/晋中市"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

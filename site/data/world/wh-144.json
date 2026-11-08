@@ -1,0 +1,162 @@
+{
+ "id": "wh-144",
+ "unesco_id": "144",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 961,
+ "popularity_score": null,
+ "country": "TZ",
+ "country_zh": "坦桑尼亚",
+ "country_en": "Tanzania",
+ "countries": [
+  {
+   "iso2": "TZ",
+   "zh": "坦桑尼亚",
+   "en": "Tanzania"
+  }
+ ],
+ "region": "Lindi Region, District of Kilwa",
+ "subdivision_iso": "TZ-12",
+ "subdivision_zh": "林迪区",
+ "subdivision_en": "Lindi Region",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "基尔瓦基斯瓦尼遗址和松戈马拉遗址",
+ "name_zh_source": "unesco_official",
+ "name_en": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "144-ruins_of_kilwa_kisiwani_and_ruins_of_son",
+ "lat": -8.95777778,
+ "lon": 39.52277778,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "在海岸边的两个小岛上，保存着两个被早期欧洲探险家所称颂为伟大的东非港口的遗址。从13世纪到16世纪，基尔瓦商人从事黄金、白银、珍珠、香水、阿拉伯陶器、波斯土陶以及中国瓷器的贸易，许多印度洋上的贸易是由他们经手的。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The remains of two great East African ports admired by early European explorers are situated on two small islands near the coast. From the 13th to the 16th century, the merchants of Kilwa dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain; much of the trade in the Indian Ocean thus passed through their hands.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/City%20of%20Kilwa%2C%201572.jpg?width=1280",
+   "title": "City of Kilwa, 1572.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:City%20of%20Kilwa%2C%201572.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_144.jpg",
+   "title": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/144",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/144",
+ "transport": {
+  "airports": [
+   {
+    "name": "Mafia Airport",
+    "iata": "MFA",
+    "city": "Kilindoni",
+    "country": "TZ",
+    "lat": -7.917478,
+    "lon": 39.668502,
+    "type": "small_airport",
+    "distance_km": 116.8
+   },
+   {
+    "name": "Mtwara Airport",
+    "iata": "MYW",
+    "city": "Mtwara",
+    "country": "TZ",
+    "lat": -10.336204,
+    "lon": 40.181997,
+    "type": "medium_airport",
+    "distance_km": 169.5
+   },
+   {
+    "name": "Julius Nyerere International Airport",
+    "iata": "DAR",
+    "city": "Dar es Salaam",
+    "country": "TZ",
+    "lat": -6.873499,
+    "lon": 39.207288,
+    "type": "large_airport",
+    "distance_km": 234.4
+   }
+  ],
+  "nearest_airport_km": 116.8,
+  "distance_beijing_km": 9479.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TZ",
+  "country_zh": "坦桑尼亚",
+  "country_en": "Tanzania",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "eVisa / Visa on arrival[6][146]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TZ",
+   "country_zh": "坦桑尼亚",
+   "country_en": "Tanzania",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "eVisa / Visa on arrival[6][146]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 5
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/144"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-38",
+ "unesco_id": "38",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 184,
+ "popularity_score": 70898,
+ "country": "TN",
+ "country_zh": "突尼斯",
+ "country_en": "Tunisia",
+ "countries": [
+  {
+   "iso2": "TN",
+   "zh": "突尼斯",
+   "en": "Tunisia"
+  }
+ ],
+ "region": "El-Mahdia",
+ "subdivision_iso": "TN-53",
+ "subdivision_zh": "马赫迪耶省",
+ "subdivision_en": "Mahdia Governorate",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "杰姆的圆形竞技场",
+ "name_zh_source": "unesco_official",
+ "name_en": "Amphitheatre of El Jem",
+ "name_local": "مدرّج الجم الروماني",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "38-amphitheatre_of_el_jem",
+ "lat": 35.29638889,
+ "lon": 10.70694444,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗址是北非最大的竞技场遗址，其规模令人叹为观止。该竞技场坐落在一个叫杰姆的小村子里，能够容纳35 000名观众。这座始建于3世纪的建筑展示了罗马帝国的庄严和庞大。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The impressive ruins of the largest colosseum in North Africa, a huge amphitheatre which could hold up to 35,000 spectators, are found in the small village of El Jem. This 3rd-century monument illustrates the grandeur and extent of Imperial Rome.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "ترتفع في مدينة الجم الصغيرة الآثار المهيبة لأكبر كوليزيه في شمال افريقيا وهو عبارة عن مدرّج روماني ضخم يتسع لما يعادل 35000 مشاهد. ويجسّد هذا البناء العائد الى القرن الثالث توسع الامبراطورية الرومانية وعظمتها.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%2C%20El%20Jem%2C%20T%C3%BAnez%2C%202016-09-04%2C%20DD%2055-66%20HDR%20PAN.jpg?width=1280",
+   "title": "Anfiteatro, El Jem, Túnez, 2016-09-04, DD 55-66 HDR PAN.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Anfiteatro%2C%20El%20Jem%2C%20T%C3%BAnez%2C%202016-09-04%2C%20DD%2055-66%20HDR%20PAN.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_38.jpg",
+   "title": "Amphitheatre of El Jem",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/38",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/38",
+ "transport": {
+  "airports": [
+   {
+    "name": "Monastir Habib Bourguiba International Airport",
+    "iata": "MIR",
+    "city": "Monastir",
+    "country": "TN",
+    "lat": 35.75809860229492,
+    "lon": 10.75469970703125,
+    "type": "medium_airport",
+    "distance_km": 51.5
+   },
+   {
+    "name": "Sfax Thyna International Airport",
+    "iata": "SFA",
+    "city": "Sfax",
+    "country": "TN",
+    "lat": 34.717999,
+    "lon": 10.691,
+    "type": "medium_airport",
+    "distance_km": 64.3
+   },
+   {
+    "name": "Enfidha - Hammamet International Airport",
+    "iata": "NBE",
+    "city": "Enfidha",
+    "country": "TN",
+    "lat": 36.075833,
+    "lon": 10.438611,
+    "type": "medium_airport",
+    "distance_km": 90.0
+   }
+  ],
+  "nearest_airport_km": 51.5,
+  "distance_beijing_km": 8680.0,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "TN",
+  "country_zh": "突尼斯",
+  "country_en": "Tunisia",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "TN",
+   "country_zh": "突尼斯",
+   "country_en": "Tunisia",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "For tourism purposes only. When entering the country, a paid hotel reservation (Bon-Voucher) and a round-trip flight ticket that matches the duration of the stay in Tunisia is required.[150]"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": true,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 41
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/38"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amphitheatre%20of%20El%20Jem"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

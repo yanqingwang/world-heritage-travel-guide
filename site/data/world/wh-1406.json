@@ -1,0 +1,159 @@
+{
+ "id": "wh-1406",
+ "unesco_id": "1406",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 446,
+ "popularity_score": 16739,
+ "country": "IN",
+ "country_zh": "印度",
+ "country_en": "India",
+ "countries": [
+  {
+   "iso2": "IN",
+   "zh": "印度",
+   "en": "India"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "IN-HP",
+ "subdivision_zh": "喜马偕尔邦",
+ "subdivision_en": "Himachal Pradesh",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "大喜马拉雅山脉国家公园保护区",
+ "name_zh_source": "curated",
+ "name_en": "Great Himalayan National Park Conservation Area",
+ "name_local": "",
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
+ "slug": "1406-great_himalayan_national_park_conservati",
+ "lat": 31.804288,
+ "lon": 77.951021,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(x)",
+ "year": "2014",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "大喜马拉雅山脈国家公园（Great Himalayan National Park）是印度的一個國家公園，位于喜马偕尔邦古卢地区Banjar。该公园成立于1984年，占地1171km2，海拔位於1500到 6000米之间。大喜马拉雅山脈国家公园是众多植物和超过 375种动物的棲息地，其中包括大约31种哺乳动物、181种鸟类、3种爬行动物、9种两栖动物、11种环节动物、17种软体动物和127种昆虫。它们受到1972年的野生动物保护法的保護，因此任何形式的狩猎都被禁止。 2014年6月，大喜马拉雅山脈国家公园被列入联合国教科文组织世界遗产。",
+ "intro_zh_source": "wikipedia",
+ "intro_en": "This National Park in the western part of the Himalayan Mountains in the northern Indian state of Himachal Pradesh is characterized by high alpine peaks, alpine meadows and riverine forests. The 90,540 ha property includes the upper mountain glacial and snow meltwater sources of several rivers, and the catchments of water supplies that are vital to millions of downstream users. The GHNPCA protects the monsoon-affected forests and alpine meadows of the Himalayan front ranges. It is part of the Himalaya biodiversity hotspot and includes twenty-five forest types along with a rich assemblage of fauna species, several of which are threatened. This gives the site outstanding significance for biodiversity conservation.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Himalayan%20National%20Park%2C%20Kullu%2C%20Himachal.jpg?width=1280",
+   "title": "Great Himalayan National Park, Kullu, Himachal.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Great%20Himalayan%20National%20Park%2C%20Kullu%2C%20Himachal.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1406.jpg",
+   "title": "Great Himalayan National Park Conservation Area",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1406",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1406",
+ "transport": {
+  "airports": [
+   {
+    "name": "Kullu Manali Airport",
+    "iata": "KUU",
+    "city": "Bhuntar",
+    "country": "IN",
+    "lat": 31.876699,
+    "lon": 77.154404,
+    "type": "medium_airport",
+    "distance_km": 75.7
+   },
+   {
+    "name": "Kangra Airport",
+    "iata": "DHM",
+    "city": "Kangra",
+    "country": "IN",
+    "lat": 32.164902,
+    "lon": 76.263018,
+    "type": "medium_airport",
+    "distance_km": 164.2
+   },
+   {
+    "name": "Shaheed Bhagat Singh International Airport",
+    "iata": "IXC",
+    "city": "Chandigarh",
+    "country": "IN",
+    "lat": 30.6735,
+    "lon": 76.788498,
+    "type": "large_airport",
+    "distance_km": 167.4
+   }
+  ],
+  "nearest_airport_km": 75.7,
+  "distance_beijing_km": 3631.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "IN",
+  "country_zh": "印度",
+  "country_en": "India",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "IN",
+   "country_zh": "印度",
+   "country_en": "India",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "e-Visa is no longer available due to military tension between China and India.[58]"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": false,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
+  "official_unesco": [
+   "en",
+   "fr",
+   "es"
+  ],
+  "wikipedia_editions": 38
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1406"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Great%20Himalayan%20National%20Park"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:46Z"
+}

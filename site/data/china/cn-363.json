@@ -1,0 +1,178 @@
+{
+ "id": "cn-363",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "吉林省",
+ "province_en": "Jilin",
+ "province_iso": "CN-JL",
+ "city_zh": "延边朝鲜族自治州",
+ "city_en": "Yanbian Korean Autonomous Prefecture",
+ "name_zh": "延边州六鼎山文化旅游区",
+ "name_en": "Yanbianzhouliudingshan Cultural Tourism Area",
+ "name_en_source": "pinyin",
+ "slug": "yanbianzhouliudingshan-363",
+ "lat": 43.329782,
+ "lon": 128.251207,
+ "address_zh": "延边朝鲜族自治州敦化市丹江街道六顶山路",
+ "address_en": "Liudingshan Road, Danjiang Street, Dunhua City, Yanbian Korean Autonomous Prefecture",
+ "address_en_source": "machine_translation",
+ "category": "mountain",
+ "category_zh": "山地风光",
+ "category_en": "Mountain scenery",
+ "intro_zh": "敦化市六鼎山文化旅游区位于敦化市南郊3公里处牡丹江南岸，规划面积52平方公里。景区重点开发佛教文化、清始祖文化、渤海文化等旅游项目。",
+ "intro_en": "Dunhua Liudingshan Cultural Tourism Zone is located on the south bank of Mudanjiang River, 3 kilometers away from the southern suburbs of Dunhua City, with a planned area of ​​52 square kilometers. The scenic spot focuses on developing tourism projects such as Buddhist culture, Qing ancestor culture, and Bohai culture.",
+ "intro_en_source": "machine_translation",
+ "images": [],
+ "web": "http://www.jindingdafo.com",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Yanji Chaoyangchuan Airport",
+    "iata": "YNJ",
+    "city": "Yanji",
+    "country": "CN",
+    "lat": 42.8828010559,
+    "lon": 129.451004028,
+    "type": "medium_airport",
+    "distance_km": 109.3
+   },
+   {
+    "name": "Changbaishan Airport",
+    "iata": "NBS",
+    "city": "Baishan",
+    "country": "CN",
+    "lat": 42.066944,
+    "lon": 127.602222,
+    "type": "medium_airport",
+    "distance_km": 150.1
+   },
+   {
+    "name": "Mudanjiang Hailang International Airport",
+    "iata": "MDG",
+    "city": "Mudanjiang",
+    "country": "CN",
+    "lat": 44.525172,
+    "lon": 129.568634,
+    "type": "medium_airport",
+    "distance_km": 169.7
+   }
+  ],
+  "nearest_airport_km": 109.3,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "敦化",
+    "name_en": "Dunhua",
+    "lat": 43.3779174,
+    "lon": 128.2403343,
+    "distance_km": 5.4,
+    "operator": "中国铁路沈阳局集团有限公司 延吉车务段",
+    "high_speed": false
+   },
+   {
+    "name": "敦化南",
+    "name_en": null,
+    "lat": 43.3132782,
+    "lon": 128.3331723,
+    "distance_km": 6.9,
+    "operator": "中国铁路沈阳局集团有限公司 延吉车务段",
+    "high_speed": false
+   },
+   {
+    "name": "大桥",
+    "name_en": null,
+    "lat": 43.3468585,
+    "lon": 128.3767822,
+    "distance_km": 10.3,
+    "operator": "中国铁路沈阳局集团有限公司 延吉车务段",
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "万豪国际大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3404503,
+   "lon": 128.2245779,
+   "distance_km": 2.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "泰格酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3538604,
+   "lon": 128.2352509,
+   "distance_km": 3.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "敦化缘中缘时尚宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3565921,
+   "lon": 128.2312898,
+   "distance_km": 3.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "全季酒店",
+   "name_en": "Ji Hotel",
+   "stars": null,
+   "brand": "全季酒店",
+   "lat": 43.3541714,
+   "lon": 128.223162,
+   "distance_km": 3.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "服务大楼宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 43.3638649,
+   "lon": 128.2282939,
+   "distance_km": 4.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 6,
+ "info_languages": {
+  "zh": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
+  "source": [
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "unknown",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

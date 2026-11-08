@@ -1,0 +1,162 @@
+{
+ "id": "wh-170",
+ "unesco_id": "170",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1014,
+ "popularity_score": null,
+ "country": "MA",
+ "country_zh": "摩洛哥",
+ "country_en": "Morocco",
+ "countries": [
+  {
+   "iso2": "MA",
+   "zh": "摩洛哥",
+   "en": "Morocco"
+  }
+ ],
+ "region": "City of Fez",
+ "subdivision_iso": "MA-FES",
+ "subdivision_zh": "费兹（县）",
+ "subdivision_en": "Fez Prefecture",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "非斯的阿拉伯人聚居区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Medina of Fez",
+ "name_local": "مدينة فاس",
+ "local_lang": "ar",
+ "local_lang_name": "Arabic",
+ "slug": "170-medina_of_fez",
+ "lat": 34.0625,
+ "lon": -4.9725,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(v)",
+ "year": "1981",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "非斯城建于公元9世纪，那里有世界上最早建立的大学。在公元13世纪至14世纪时，非斯代替马拉柯什成为马里尼德王国的首都，从而到达了它的鼎盛时期。聚居区中的城市建筑和主要遗迹都可以追溯到那个时期，其中包括伊斯兰学校、集市、宫殿、民居、清真寺、喷泉等等。尽管国家的政治首都于1912年迁到了拉巴特，但非斯仍然是最主要的文化中心和宗教中心。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Founded in the 9th century, Fez reached its height in the 13th–14th centuries under the Marinids, when it replaced Marrakesh as the capital of the kingdom. The urban fabric and the principal monuments in the medina – madrasas, fondouks , palaces, residences, mosques and fountains - date from this period. Although the political capital of Morocco was transferred to Rabat in 1912, Fez has retained its status as the country's cultural and spiritual centre.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "تأسّست مدينة فاس في القرن التاسع وفيها أقدم جامعة في العالم. عرفت فاس عصرها الذهبي في القرنَيْن الثالث عشر والرابع عشر تحت حكم المرينيّين عندما أصبحت عاصمة المملكة بدلاً من مراكش. ويعود النسيج المدني والنصب الأساسيّة إلى تلك الحقبة: المدرسة والفنادق والقصور والبيوت والمساجد والينابيع. وبالرغم من نقل مركز العاصمة إلى الرباط في العام 1912، حافظت فاس على موقعها كعاصمة ثقافيّة وروحيّة للبلاد.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Medina%20of%20Fes%2C%20Marocco.jpg?width=1280",
+   "title": "Medina of Fes, Marocco.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Medina%20of%20Fes%2C%20Marocco.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_170.jpg",
+   "title": "Medina of Fez",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/170",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/170",
+ "transport": {
+  "airports": [
+   {
+    "name": "Fes Saïss International Airport",
+    "iata": "FEZ",
+    "city": "Saïss",
+    "country": "MA",
+    "lat": 33.927299,
+    "lon": -4.97796,
+    "type": "large_airport",
+    "distance_km": 15.0
+   },
+   {
+    "name": "Cherif Al Idrissi Airport",
+    "iata": "AHU",
+    "city": "Al Hoceima",
+    "country": "MA",
+    "lat": 35.177101,
+    "lon": -3.83952,
+    "type": "medium_airport",
+    "distance_km": 161.6
+   },
+   {
+    "name": "Rabat-Salé Airport",
+    "iata": "RBA",
+    "city": "Rabat",
+    "country": "MA",
+    "lat": 34.051498,
+    "lon": -6.75152,
+    "type": "large_airport",
+    "distance_km": 163.9
+   }
+  ],
+  "nearest_airport_km": 15.0,
+  "distance_beijing_km": 9835.2,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MA",
+  "country_zh": "摩洛哥",
+  "country_en": "Morocco",
+  "status": "visa_free",
+  "days": 90,
+  "requirement": "Visa not required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MA",
+   "country_zh": "摩洛哥",
+   "country_en": "Morocco",
+   "status": "visa_free",
+   "days": 90,
+   "requirement": "Visa not required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "ar",
+  "local_lang_name": "Arabic",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 15
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/170"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:21Z"
+}

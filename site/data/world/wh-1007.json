@@ -1,0 +1,152 @@
+{
+ "id": "wh-1007",
+ "unesco_id": "1007",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 385,
+ "popularity_score": 21275,
+ "country": "ZA",
+ "country_zh": "南非",
+ "country_en": "South Africa",
+ "countries": [
+  {
+   "iso2": "ZA",
+   "zh": "南非",
+   "en": "South Africa"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "ZA-WC",
+ "subdivision_zh": "",
+ "subdivision_en": "Western Cape",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "开普植物保护区",
+ "name_zh_source": "unesco_official",
+ "name_en": "Cape Floral Region Protected Areas",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1007-cape_floral_region_protected_areas",
+ "lat": -34.166667,
+ "lon": 18.375,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(ix)(x)",
+ "year": "2004",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该处遗产地位于南非最西南端，于2004年载入世界遗产名录。是世界陆上生态多样性最丰富的中心之一。该扩展遗产地包括国家公园、自然保护区、野生自然保护区、国家森林公园和山区汇水盆地。这些不同的地形为当地的细硬叶凡波斯灌木植被增添了适应地中海式气候和周期性火灾的特征，形成开普植物保护区独有的景观。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Inscribed on the World Heritage List in 2004, the property is located at the south-western extremity of South Africa. It is one of the world’s great centres of terrestrial biodiversity. The extended property includes national parks, nature reserves, wilderness areas, State forests and mountain catchment areas. These elements add a significant number of endemic species associated with the Fynbos vegetation, a fine-leaved sclerophyllic shrubland adapted to both a Mediterranean climate and periodic fires, which is unique to the Cape Floral Region.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Floraregio%20van%20de%20Kaap.jpg?width=1280",
+   "title": "Floraregio van de Kaap.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Floraregio%20van%20de%20Kaap.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1007.jpg",
+   "title": "Cape Floral Region Protected Areas",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1007",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1007",
+ "transport": {
+  "airports": [
+   {
+    "name": "Cape Town International Airport",
+    "iata": "CPT",
+    "city": "Cape Town",
+    "country": "ZA",
+    "lat": -33.97403,
+    "lon": 18.604333,
+    "type": "large_airport",
+    "distance_km": 30.1
+   },
+   {
+    "name": "George Airport",
+    "iata": "GRJ",
+    "city": "George",
+    "country": "ZA",
+    "lat": -34.0056,
+    "lon": 22.378902,
+    "type": "large_airport",
+    "distance_km": 369.1
+   }
+  ],
+  "nearest_airport_km": 30.1,
+  "distance_beijing_km": 12966.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "ZA",
+  "country_zh": "南非",
+  "country_en": "South Africa",
+  "status": "evisa",
+  "days": 90,
+  "requirement": "Electronic Travel Authorization / eVisa[136]",
+  "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "ZA",
+   "country_zh": "南非",
+   "country_en": "South Africa",
+   "status": "evisa",
+   "days": 90,
+   "requirement": "Electronic Travel Authorization / eVisa[136]",
+   "notes": "With ETA, Chinese passport holders may enter via O. R. Tambo International Airport or Cape Town Airport for stays up to 90 days. ETA is valid for 1 year, multi-entry, with each stay up to 90 days. ETA issuance is usually within an hour. In addition to ETA, e-Visa is also available."
+  }
+ ],
+ "visa_summary": "evisa",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 47
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1007"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cape%20Floristic%20Region"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:38Z"
+}

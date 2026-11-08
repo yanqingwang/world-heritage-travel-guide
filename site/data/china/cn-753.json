@@ -1,0 +1,224 @@
+{
+ "id": "cn-753",
+ "dataset": "china_5a",
+ "country": "CN",
+ "country_zh": "中国",
+ "country_en": "China",
+ "province_zh": "福建省",
+ "province_en": "Fujian",
+ "province_iso": "CN-FJ",
+ "city_zh": "龙岩市",
+ "city_en": "Longyan",
+ "name_zh": "福建土楼（永定•南靖）旅游景区",
+ "name_en": "Fujian tulou",
+ "name_en_source": "wikipedia",
+ "slug": "fujiantulouyongding-nanjing-753",
+ "lat": 24.659148,
+ "lon": 116.982954,
+ "address_zh": "龙岩市永定区湖坑镇六联村",
+ "address_en": "Liulian Village, Hukeng Town, Yongding District, Longyan City",
+ "address_en_source": "machine_translation",
+ "category": "mixed",
+ "category_zh": "自然人文",
+ "category_en": "Natural & cultural",
+ "intro_zh": "永定客家土楼以历史悠久、风格独特、规模宏大、结构精巧、功能齐全、内涵丰富而闻名，在中国传统古民居建筑中独树一帜。主要景点有振成楼、承启楼、永隆昌、遗经楼、奎聚楼、神速裕楼馥馨楼、集庆楼等。",
+ "intro_en": "The Fujian tulou (simplified Chinese: 福建土楼; traditional Chinese: 福建土樓; pinyin: Fújiàn tǔlóu; lit. 'Fujian earthen buildings') are Chinese rural dwellings unique to the Hakka in the mountainous areas in southeastern Fujian, China. They were mostly built between the 12th and the 20th centuries. A tulou is usually a large, enclosed and fortified earth building, most commonly rectangular or circular in configuration, with very thick load-bearing rammed earth walls between three and five stories high and housing up to 800 people. Smaller interior buildings are often enclosed by these huge peripheral walls which can contain halls, storehouses, wells and living areas, the whole structure resembling a small fortified city. The fortified outer structures are formed by compacting earth, mixed with stone, bamboo, wood and other readily available materials to form walls up to 6 feet (1.8 m) thick. Branches, strips of wood and bamboo chips are often laid in the wall as additional reinforcement. The result is a well-lit, well-ventilated, windproof and earthquake-proof building that is warm in winter and cool in summer. Tulous usually have only one main gate, guarded by 4–5-inch-thick (100–130 mm",
+ "intro_en_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Hakka_china.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Hakka china.jpg",
+   "author": "yazi-swallow",
+   "license": "CC BY 2.0",
+   "credit": "https://www.flickr.com/photos/ilomoeverything/151011163/",
+   "source": "https://commons.wikimedia.org/wiki/File:Hakka_china.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%9B%BD%E7%9C%81%E9%81%93%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%EF%BC%882024-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%9B%BD%E7%9C%81%E9%81%93%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%EF%BC%882024-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "福建省国省道公路网规划（2024-2035年）.pdf",
+   "author": "福建省交通运输厅",
+   "license": "Public domain",
+   "credit": "http://jtyst.fujian.gov.cn/zwgk/ghjh/zxgh/202502/P020250207369975924665.pdf",
+   "source": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%9B%BD%E7%9C%81%E9%81%93%E5%85%AC%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92%EF%BC%882024-2035%E5%B9%B4%EF%BC%89.pdf"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/%40tulou_%284056336054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "@tulou (4056336054).jpg",
+   "author": "Vincent",
+   "license": "CC BY-SA 2.0",
+   "credit": "@tulou",
+   "source": "https://commons.wikimedia.org/wiki/File:%40tulou_%284056336054%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%40tulou_%284056345018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "@tulou (4056345018).jpg",
+   "author": "Vincent",
+   "license": "CC BY-SA 2.0",
+   "credit": "@tulou",
+   "source": "https://commons.wikimedia.org/wiki/File:%40tulou_%284056345018%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/%40tulou_%284058111783%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "@tulou (4058111783).jpg",
+   "author": "Vincent",
+   "license": "CC BY-SA 2.0",
+   "credit": "@tulou",
+   "source": "https://commons.wikimedia.org/wiki/File:%40tulou_%284058111783%29.jpg"
+  }
+ ],
+ "web": "",
+ "booking": "",
+ "transport": {
+  "airports": [
+   {
+    "name": "Meizhou Meixian Changgangji International Airport",
+    "iata": "MXZ",
+    "city": "Meizhou (Meixian)",
+    "country": "CN",
+    "lat": 24.263425,
+    "lon": 116.097857,
+    "type": "small_airport",
+    "distance_km": 99.8
+   },
+   {
+    "name": "Liancheng Guanzhishan Airport",
+    "iata": "LCX",
+    "city": "Longyan (Liancheng)",
+    "country": "CN",
+    "lat": 25.67592,
+    "lon": 116.745907,
+    "type": "medium_airport",
+    "distance_km": 115.5
+   },
+   {
+    "name": "Xiamen Gaoqi International Airport",
+    "iata": "XMN",
+    "city": "Xiamen",
+    "country": "CN",
+    "lat": 24.543889,
+    "lon": 118.127454,
+    "type": "large_airport",
+    "distance_km": 116.4
+   }
+  ],
+  "nearest_airport_km": 99.8,
+  "high_speed_stations": [],
+  "railway_stations": [
+   {
+    "name": "永定",
+    "name_en": "Yongding",
+    "lat": 24.7376834,
+    "lon": 116.7393246,
+    "distance_km": 26.1,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "富岭",
+    "name_en": null,
+    "lat": 24.9639125,
+    "lon": 116.8984827,
+    "distance_km": 34.9,
+    "operator": null,
+    "high_speed": false
+   },
+   {
+    "name": "仙师",
+    "name_en": null,
+    "lat": 24.6909881,
+    "lon": 116.6351026,
+    "distance_km": 35.3,
+    "operator": null,
+    "high_speed": false
+   }
+  ]
+ },
+ "hotels": [
+  {
+   "name": "读旅民宿",
+   "name_en": "Du Lu Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 24.6623223,
+   "lon": 116.9747924,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "百福休闲山庄",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6645578,
+   "lon": 116.9738853,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "阳临客栈",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6652875,
+   "lon": 116.9715381,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "客家土楼王子大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6525373,
+   "lon": 116.9481244,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Q+ Hotel",
+   "name_en": "Q+ Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 24.6219634,
+   "lon": 117.044015,
+   "distance_km": 7.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 9,
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "source": [
+   "Wikipedia language editions",
+   "official website language switcher"
+  ]
+ },
+ "foreign_visitors": {
+  "status": "likely_open",
+  "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
+  "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
+ },
+ "sources": [
+  {
+   "name": "文化和旅游部 5A 景区名录",
+   "url": "https://lyfw.mct.gov.cn/site/special/home"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/福建土楼"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  }
+ ],
+ "updated_at": "2026-11-08T12:52:06Z"
+}

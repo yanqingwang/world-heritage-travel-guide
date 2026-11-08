@@ -1,0 +1,176 @@
+{
+ "id": "wh-72",
+ "unesco_id": "72",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 642,
+ "popularity_score": 7512,
+ "country": "CA",
+ "country_zh": "加拿大",
+ "country_en": "Canada",
+ "countries": [
+  {
+   "iso2": "CA",
+   "zh": "加拿大",
+   "en": "Canada"
+  },
+  {
+   "iso2": "US",
+   "zh": "美国",
+   "en": "United States"
+  }
+ ],
+ "region": "Kluane: Yukon Territory (Canada) and Alaska (USA) Glacier Bay: Alaska (USA) Tatshenshini: Province of British Columbia (Canada)",
+ "subdivision_iso": "CA-BC",
+ "subdivision_zh": "不列颠哥伦比亚省",
+ "subdivision_en": "British Columbia",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "克卢恩/兰格尔-圣伊莱亚斯/冰川湾/塔琴希尼-阿尔塞克",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+ "name_local": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "72-kluane_/_wrangell-st._elias_/_glacier_ba",
+ "lat": 61.1975,
+ "lon": -140.992,
+ "coord_accuracy": "site",
+ "category": "Natural",
+ "category_zh": "自然遗产",
+ "category_en": "Natural",
+ "criteria": "(vii)(viii)(ix)(x)",
+ "year": "1979",
+ "danger": false,
+ "transnational": true,
+ "intro_zh": "这些公园包括了位于加拿大（育空地区和英属哥伦比亚）和美国（阿拉斯加）交界处的包括冰川和高峰，景致蔚为壮观。这里是大灰熊、北美驯鹿和大角羊的栖息地，也是世界上最大的非极地冰原区。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "These parks comprise an impressive complex of glaciers and high peaks on both sides of the border between Canada (Yukon Territory and British Columbia) and the United States (Alaska). The spectacular natural landscapes are home to many grizzly bears, caribou and Dall's sheep. The site contains the largest non-polar icefield in the world.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Cet ensemble impressionnant de glaciers et de hauts sommets, situé de part et d'autre de la frontière entre le Canada (territoire du Yukon et Colombie-Britannique) et les États-Unis d'Amérique (Alaska), constitue l'un des paysages naturels les plus spectaculaires du monde. Il abrite de nombreux grizzlis, caribous et mouflons de Dall et contient le champ de glace non polaire le plus vaste du monde.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kathleen%20Lake%20Yukon.jpg?width=1280",
+   "title": "Kathleen Lake Yukon.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kathleen%20Lake%20Yukon.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_72.jpg",
+   "title": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/72",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/72",
+ "transport": {
+  "airports": [
+   {
+    "name": "May Creek Airport",
+    "iata": "MYK",
+    "city": "May Creek",
+    "country": "US",
+    "lat": 61.335701,
+    "lon": -142.686996,
+    "type": "small_airport",
+    "distance_km": 91.9
+   },
+   {
+    "name": "Yakataga Airport",
+    "iata": "CYT",
+    "city": "Yakataga",
+    "country": "US",
+    "lat": 60.080974,
+    "lon": -142.494541,
+    "type": "small_airport",
+    "distance_km": 148.7
+   },
+   {
+    "name": "Yakutat Airport",
+    "iata": "YAK",
+    "city": "Yakutat",
+    "country": "US",
+    "lat": 59.508717,
+    "lon": -139.660435,
+    "type": "medium_airport",
+    "distance_km": 201.6
+   }
+  ],
+  "nearest_airport_km": 91.9,
+  "distance_beijing_km": 6696.5,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "CA",
+  "country_zh": "加拿大",
+  "country_en": "Canada",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "CA",
+   "country_zh": "加拿大",
+   "country_en": "Canada",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "No transit visa is required if transiting through Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only, cannot change terminal or transit through Terminal 3), Vancouver International or Winnipeg Airports to or from the United States within 24 hours of arrival while h"
+  },
+  {
+   "iso2": "US",
+   "country_zh": "美国",
+   "country_en": "United States",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\" However, such B1/B2 visas are limited to \"One month single-entry\" for Chinese Communist Party members, their spouses and children under 21-year-old.[156] 10-year multiple-entry B visa holde"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 37
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/72"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kluane%20/%20Wrangell%E2%80%93St.%20Elias%20/%20Glacier%20Bay%20/%20Tatshenshini-Alsek"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:19Z"
+}

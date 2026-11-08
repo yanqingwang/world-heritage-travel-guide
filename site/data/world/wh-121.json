@@ -1,0 +1,162 @@
+{
+ "id": "wh-121",
+ "unesco_id": "121",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 208,
+ "popularity_score": 56133,
+ "country": "NP",
+ "country_zh": "尼泊尔",
+ "country_en": "Nepal",
+ "countries": [
+  {
+   "iso2": "NP",
+   "zh": "尼泊尔",
+   "en": "Nepal"
+  }
+ ],
+ "region": "Kathmandu Valley",
+ "subdivision_iso": "NP-P3",
+ "subdivision_zh": "第三省",
+ "subdivision_en": "Bagmati Province",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "加德满都谷地",
+ "name_zh_source": "unesco_official",
+ "name_en": "Kathmandu Valley",
+ "name_local": "काठमाडौँ उपत्यका",
+ "local_lang": "ne",
+ "local_lang_name": "Nepali",
+ "slug": "121-kathmandu_valley",
+ "lat": 27.703944444,
+ "lon": 85.308583333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iii)(iv)(vi)",
+ "year": "1979",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "加德满都谷地文化遗产有七组历史遗址和建筑群，全面反映了加德满都谷地闻名于世的历史和艺术成就。七组历史遗址包括加德满都、帕坦和巴德冈王宫广场、斯瓦亚姆布与博德纳特佛教圣庙和伯舒伯蒂与钱古·纳拉扬印度神庙。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "The cultural heritage of the Kathmandu Valley is illustrated by seven groups of monuments and buildings which display the full range of historic and artistic achievements for which the Kathmandu Valley is world famous. The seven include the Durbar Squares of Hanuman Dhoka (Kathmandu), Patan and Bhaktapur, the Buddhist stupas of Swayambhu and Bauddhanath and the Hindu temples of Pashupati and Changu Narayan.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "काठमाडौँ उपत्यका (नेवारी: स्वनिगः [swoniɡəː]) नेपालको राष्ट्रिय (संघिय) राजधानी, एतिहासिक सहर तथा युनेस्को विश्व सम्पदा क्षेत्रमा सूचीकृत क्षेत्र हो । काठमाडौँ उपत्यका (नेपाल उपत्यका)मा ३ जिल्ला काठमाडौँ, ललितपुर तथा भक्तपुर पर्दछन् । यस उपत्यकाभित्र १ महानगरपालिका, २ उपमहानगरपालिका, तथा ५७ गाउँ विकास समितिहरू गाविस थियो । हाल काठमाण्डौ उपत्यकामा १ महानगरपालिका, २० नगरपालिका र ३ गाउँपालिका रहेका छन् ।",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kathmandu%20Valley%20krish.jpg?width=1280",
+   "title": "Kathmandu Valley krish.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Kathmandu%20Valley%20krish.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_121.jpg",
+   "title": "Kathmandu Valley",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/121",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/121",
+ "transport": {
+  "airports": [
+   {
+    "name": "Tribhuvan International Airport",
+    "iata": "KTM",
+    "city": "Kathmandu",
+    "country": "NP",
+    "lat": 27.6966,
+    "lon": 85.3591,
+    "type": "large_airport",
+    "distance_km": 5.0
+   },
+   {
+    "name": "Simara Airport",
+    "iata": "SIF",
+    "city": "Simara",
+    "country": "NP",
+    "lat": 27.159803,
+    "lon": 84.980021,
+    "type": "small_airport",
+    "distance_km": 68.6
+   },
+   {
+    "name": "Bharatpur Airport",
+    "iata": "BHR",
+    "city": "Bharatpur",
+    "country": "NP",
+    "lat": 27.678101,
+    "lon": 84.429398,
+    "type": "small_airport",
+    "distance_km": 86.6
+   }
+  ],
+  "nearest_airport_km": 5.0,
+  "distance_beijing_km": 3172.1,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NP",
+  "country_zh": "尼泊尔",
+  "country_en": "Nepal",
+  "status": "visa_on_arrival",
+  "days": 90,
+  "requirement": "Online Visa / Free visa on arrival[6][98]",
+  "notes": "Visa is issued free of charge for Chinese tourists.[99]"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NP",
+   "country_zh": "尼泊尔",
+   "country_en": "Nepal",
+   "status": "visa_on_arrival",
+   "days": 90,
+   "requirement": "Online Visa / Free visa on arrival[6][98]",
+   "notes": "Visa is issued free of charge for Chinese tourists.[99]"
+  }
+ ],
+ "visa_summary": "visa_on_arrival",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "ne",
+  "local_lang_name": "Nepali",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 60
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/121"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kathmandu%20Valley"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:20Z"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "wh-728",
+ "unesco_id": "728",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1140,
+ "popularity_score": null,
+ "country": "GB",
+ "country_zh": "英国",
+ "country_en": "United Kingdom",
+ "countries": [
+  {
+   "iso2": "GB",
+   "zh": "英国",
+   "en": "United Kingdom"
+  }
+ ],
+ "region": "Lothian Region, Scotland",
+ "subdivision_iso": "GB-EDH",
+ "subdivision_zh": "爱丁堡市议会",
+ "subdivision_en": "City of Edinburgh",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "爱丁堡的新镇、老镇",
+ "name_zh_source": "unesco_official",
+ "name_en": "Old and New Towns of Edinburgh",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "728-old_and_new_towns_of_edinburgh",
+ "lat": 55.95,
+ "lon": -3.216666667,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(ii)(iv)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "从15世纪起，爱丁堡就是苏格兰的首都。目前这座城市由两个部分组成，一个是以中世纪堡垒风格占据主要地位的老城和一个从18世纪发展而来具有新古典主义形式的城市，它对欧洲城市建筑具有广泛的影响。这两个历史城区都有许多重要的建筑物，其风格既统一和谐又对比分明，给这座城市赋予了独特魅力。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Edinburgh has been the Scottish capital since the 15th century. It has two distinct areas: the Old Town, dominated by a medieval fortress; and the neoclassical New Town, whose development from the 18th century onwards had a far-reaching influence on European urban planning. The harmonious juxtaposition of these two contrasting historic areas, each with many important buildings, is what gives the city its unique character.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20town%20from%20the%20Castle%202.JPG?width=1280",
+   "title": "New town from the Castle 2.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:New%20town%20from%20the%20Castle%202.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_728.jpg",
+   "title": "Old and New Towns of Edinburgh",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/728",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/728",
+ "transport": {
+  "airports": [
+   {
+    "name": "Edinburgh Airport",
+    "iata": "EDI",
+    "city": "Ingliston, Edinburgh",
+    "country": "GB",
+    "lat": 55.950145,
+    "lon": -3.372288,
+    "type": "large_airport",
+    "distance_km": 9.7
+   },
+   {
+    "name": "Dundee Airport",
+    "iata": "DND",
+    "city": "Dundee",
+    "country": "GB",
+    "lat": 56.452499,
+    "lon": -3.02583,
+    "type": "medium_airport",
+    "distance_km": 57.1
+   },
+   {
+    "name": "Glasgow Airport",
+    "iata": "GLA",
+    "city": "Glasgow",
+    "country": "GB",
+    "lat": 55.871899,
+    "lon": -4.43306,
+    "type": "large_airport",
+    "distance_km": 76.3
+   }
+  ],
+  "nearest_airport_km": 9.7,
+  "distance_beijing_km": 7935.4,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "GB",
+  "country_zh": "英国",
+  "country_en": "United Kingdom",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "GB",
+   "country_zh": "英国",
+   "country_en": "United Kingdom",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/728"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:31Z"
+}

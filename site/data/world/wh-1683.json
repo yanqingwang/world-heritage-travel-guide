@@ -1,0 +1,162 @@
+{
+ "id": "wh-1683",
+ "unesco_id": "1683",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 615,
+ "popularity_score": 9014,
+ "country": "NL",
+ "country_zh": "荷兰王国",
+ "country_en": "Kingdom of the Netherlands",
+ "countries": [
+  {
+   "iso2": "NL",
+   "zh": "荷兰王国",
+   "en": "Kingdom of the Netherlands"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "NL-FR",
+ "subdivision_zh": "弗里斯兰省",
+ "subdivision_en": "Friesland",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "弗拉讷克的艾辛哈天文馆",
+ "name_zh_source": "unesco_official",
+ "name_en": "Eisinga Planetarium in Franeker",
+ "name_local": "Koninklijk Eise Eisinga Planetarium",
+ "local_lang": "nl",
+ "local_lang_name": "Dutch",
+ "slug": "1683-eisinga_planetarium_in_franeker",
+ "lat": 53.187375,
+ "lon": 5.543752777,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "2023",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "天文馆建于1774-1781年间，是基于当时对太阳系的认知建造的动态机械比例模型。构思和建造都由普通市民、羊毛织造商艾辛哈（Eise Eisinga）完成，模型建于他的原起居室/卧室的天花板和南墙。它由单一摆钟驱动，力求真实还原太阳、月亮、地球和其他5颗行星（水星、金星、火星、木星、土星）的位置。这些行星围绕太阳实时运转，行星之间的距离也按比例变化。模型占满了房间的整个天花板，使其成为20和21世纪天花板及投影天文馆的雏形之一。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Built between 1774 and 1781, this property is a moving mechanical scale model of the solar system as it was known at the time. Conceived and built by an ordinary citizen – the wool manufacturer Eise Eisinga – the model is built into the ceiling and south wall of the former living room/bedroom of its creator. Powered by one single pendulum clock, it provides a realistic image of the positions of the Sun, the Moon, the Earth and five other planets (Mercury, Venus, Mars, Jupiter and Saturn). The planets revolve around the Sun in real time and the distance between the planets is at scale. The model fills the entire ceiling of the room, making it one of the earliest predecessors of the ceiling and projection planetariums of the 20th and 21st centuries.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Het Koninklijk Eise Eisinga Planetarium is een wetenschapsmuseum in de stad Franeker in de Nederlandse provincie Friesland. Centraal staat het planetarium dat werd gebouwd door Eise Eisinga (1744-1828) tussen 1774 en 1781. Aangedreven door een slingeruurwerk geeft dit astronomisch uurwerk sinds de voltooiing in 1781 de actuele positie van de planeten aan via de plafondwijzerplaat en is hiermee het oudste nog werkende planetarium ter wereld. Op 19 september 2023 werd het Eise Eisinga Planetarium als dertiende object van Nederland toegevoegd aan de Unesco werelderfgoedlijst.",
+ "intro_local_source": "wikipedia",
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franeker%2C%20Planetarium.jpg?width=1280",
+   "title": "Franeker, Planetarium.jpg",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:Franeker%2C%20Planetarium.jpg",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1683.jpg",
+   "title": "Eisinga Planetarium in Franeker",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1683",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1683",
+ "transport": {
+  "airports": [
+   {
+    "name": "Groningen Airport Eelde",
+    "iata": "GRQ",
+    "city": "Groningen",
+    "country": "NL",
+    "lat": 53.119107,
+    "lon": 6.577652,
+    "type": "large_airport",
+    "distance_km": 69.4
+   },
+   {
+    "name": "Borkum Airport",
+    "iata": "BMK",
+    "city": "Borkum",
+    "country": "DE",
+    "lat": 53.59639,
+    "lon": 6.709167,
+    "type": "small_airport",
+    "distance_km": 89.7
+   },
+   {
+    "name": "Amsterdam Airport Schiphol",
+    "iata": "AMS",
+    "city": "Amsterdam",
+    "country": "NL",
+    "lat": 52.308601,
+    "lon": 4.76389,
+    "type": "large_airport",
+    "distance_km": 110.9
+   }
+  ],
+  "nearest_airport_km": 69.4,
+  "distance_beijing_km": 7675.7,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "NL",
+  "country_zh": "荷兰王国",
+  "country_en": "Kingdom of the Netherlands",
+  "status": "unknown",
+  "days": null,
+  "requirement": "",
+  "notes": ""
+ },
+ "visa_by_country": [
+  {
+   "iso2": "NL",
+   "country_zh": "荷兰王国",
+   "country_en": "Kingdom of the Netherlands",
+   "status": "unknown",
+   "days": null,
+   "requirement": "",
+   "notes": ""
+  }
+ ],
+ "visa_summary": "unknown",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": true,
+  "ko": false,
+  "local": true,
+  "local_lang": "nl",
+  "local_lang_name": "Dutch",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 29
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1683"
+  },
+  {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eise%20Eisinga%20Planetarium"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:52Z"
+}

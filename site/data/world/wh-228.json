@@ -1,0 +1,154 @@
+{
+ "id": "wh-228",
+ "unesco_id": "228",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1047,
+ "popularity_score": null,
+ "country": "FR",
+ "country_zh": "法国",
+ "country_en": "France",
+ "countries": [
+  {
+   "iso2": "FR",
+   "zh": "法国",
+   "en": "France"
+  }
+ ],
+ "region": "Department of Vacluse, Region of Provence-Alpes-Côte-d’Azur",
+ "subdivision_iso": "FR-PAC",
+ "subdivision_zh": "",
+ "subdivision_en": "Provence-Alpes-Côte d'Azur",
+ "subdivision_source": "nominatim_reverse",
+ "name_zh": "阿维尼翁历史中心：教皇宫、主教圣堂和阿维尼翁桥",
+ "name_zh_source": "unesco_official",
+ "name_en": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+ "name_local": "Centre historique d’Avignon : Palais des papes, ensemble épiscopal et Pont d’Avignon",
+ "local_lang": "fr",
+ "local_lang_name": "French",
+ "slug": "228-historic_centre_of_avignon:_papal_palace",
+ "lat": 43.95,
+ "lon": 4.8075,
+ "coord_accuracy": "wikipedia",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(i)(ii)(iv)",
+ "year": "1995",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "这座位于法国南部的城市是14世纪罗马教皇的居所。教皇宫其实就是一个装饰豪华却外表朴素的城堡，由西蒙·马蒂尼和马泰奥·焦瓦内蒂(Simone Martini and Matteo Giovanetti)装修而成，占据了这座城市绝大部分面积，周围是坚固的城墙和12世纪隆河桥的遗址。在卓越的哥特式建筑之下，小宫殿和圣母院的罗马式主教堂古迹实属罕见，证明了阿维尼翁在14世纪基督化欧洲所发挥的领导作用。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "In the 14th century, this city in the South of France was the seat of the papacy. The Palais des Papes, an austere-looking fortress lavishly decorated by Simone Martini and Matteo Giovanetti, dominates the city, the surrounding ramparts and the remains of a 12th-century bridge over the Rhone. Beneath this outstanding example of Gothic architecture, the Petit Palais and the Romanesque Cathedral of Notre-Dame-des-Doms complete an exceptional group of monuments that testify to the leading role played by Avignon in 14th-century Christian Europe.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "Cette ville du midi de la France fut le siège de la papauté au XIV e siècle. Le palais des Papes, forteresse d'apparence austère somptueusement décorée à l'intérieur par Simone Martini et Matteo Giovanetti, domine la cité, sa ceinture de remparts et les vestiges d'un pont du XII e siècle sur le Rhône. Au pied de ce remarquable exemple d'architecture gothique, le Petit Palais et la cathédrale romane Notre-Dame-des-Doms achèvent de former un exceptionnel ensemble monumental qui témoigne du rôle éminent joué par Avignon dans l'Europe chrétienne au XIV e siècle.",
+ "intro_local_source": "unesco_official",
+ "images": [
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_228.jpg",
+   "title": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/228",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/228",
+ "transport": {
+  "airports": [
+   {
+    "name": "Avignon Caumont airport",
+    "iata": "AVN",
+    "city": "Avignon",
+    "country": "FR",
+    "lat": 43.907299,
+    "lon": 4.90183,
+    "type": "medium_airport",
+    "distance_km": 8.9
+   },
+   {
+    "name": "Nîmes-Arles-Camargue Airport",
+    "iata": "FNI",
+    "city": "Nîmes/Garons",
+    "country": "FR",
+    "lat": 43.757401,
+    "lon": 4.41635,
+    "type": "medium_airport",
+    "distance_km": 38.0
+   },
+   {
+    "name": "Marseille Provence Airport",
+    "iata": "MRS",
+    "city": "Marignane, Bouches-du-Rhône",
+    "country": "FR",
+    "lat": 43.438088,
+    "lon": 5.2125,
+    "type": "large_airport",
+    "distance_km": 65.6
+   }
+  ],
+  "nearest_airport_km": 8.9,
+  "distance_beijing_km": 8444.8,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "FR",
+  "country_zh": "法国",
+  "country_en": "France",
+  "status": "visa_required",
+  "days": null,
+  "requirement": "Visa required[6]",
+  "notes": "nan"
+ },
+ "visa_by_country": [
+  {
+   "iso2": "FR",
+   "country_zh": "法国",
+   "country_en": "France",
+   "status": "visa_required",
+   "days": null,
+   "requirement": "Visa required[6]",
+   "notes": "nan"
+  }
+ ],
+ "visa_summary": "visa_required",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": true,
+  "local_lang": "fr",
+  "local_lang_name": "French",
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 0
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/228"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:23Z"
+}

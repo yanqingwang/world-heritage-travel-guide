@@ -1,0 +1,162 @@
+{
+ "id": "wh-1734",
+ "unesco_id": "1734",
+ "dataset": "unesco",
+ "tier": "basic",
+ "popularity_rank": 1023,
+ "popularity_score": null,
+ "country": "MY",
+ "country_zh": "马来西亚",
+ "country_en": "Malaysia",
+ "countries": [
+  {
+   "iso2": "MY",
+   "zh": "马来西亚",
+   "en": "Malaysia"
+  }
+ ],
+ "region": "",
+ "subdivision_iso": "MY-10",
+ "subdivision_zh": "雪兰莪",
+ "subdivision_en": "Selangor",
+ "subdivision_source": "wikidata_p131_p300",
+ "name_zh": "马来西亚森林研究院雪兰莪森林公园",
+ "name_zh_source": "unesco_official",
+ "name_en": "Forest Research Institute Malaysia Forest Park Selangor",
+ "name_local": "",
+ "local_lang": null,
+ "local_lang_name": null,
+ "slug": "1734-forest_research_institute_malaysia_fores",
+ "lat": 3.233333333,
+ "lon": 101.633333333,
+ "coord_accuracy": "site",
+ "category": "Cultural",
+ "category_zh": "文化遗产",
+ "category_en": "Cultural",
+ "criteria": "(iv)",
+ "year": "2025",
+ "danger": false,
+ "transnational": false,
+ "intro_zh": "该遗产是一处坐落在吉隆坡西北16公里处的人工热带雨林。造林工作始于20世纪20年代，原址是锡矿开采后的退化土地。园区内包含科研、居住、服务设施，以及水体和步道。这一开创性再造林工程成功将贫瘠的荒地转化为成熟的低地热带森林，是早期生态修复和可持续土地复垦实践典范。",
+ "intro_zh_source": "unesco_official",
+ "intro_en": "Located 16 km northwest of Kuala Lumpur, the property is a human-made tropical rainforest established on degraded tin-mining land from the 1920s. It includes scientific, residential, and service buildings, water bodies, and trails. The site represents a pioneering reforestation effort, successfully transforming barren land into a mature lowland tropical forest, showcasing early ecological restoration and sustainable land rehabilitation practices.",
+ "intro_en_source": "unesco_official",
+ "intro_local": "",
+ "intro_local_source": null,
+ "images": [
+  {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FRIM%20canopy.JPG?width=1280",
+   "title": "FRIM canopy.JPG",
+   "author": "",
+   "license": "see Wikimedia Commons file page",
+   "source": "https://commons.wikimedia.org/wiki/File:FRIM%20canopy.JPG",
+   "provider": "wikimedia_commons"
+  },
+  {
+   "url": "https://whc.unesco.org/uploads/sites/site_1734.jpg",
+   "title": "Forest Research Institute Malaysia Forest Park Selangor",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1734",
+   "provider": "unesco"
+  }
+ ],
+ "unesco_url": "https://whc.unesco.org/en/list/1734",
+ "transport": {
+  "airports": [
+   {
+    "name": "Sultan Abdul Aziz Shah International Airport",
+    "iata": "SZB",
+    "city": "Subang",
+    "country": "MY",
+    "lat": 3.13058,
+    "lon": 101.549004,
+    "type": "large_airport",
+    "distance_km": 14.8
+   },
+   {
+    "name": "Kuala Lumpur International Airport",
+    "iata": "KUL",
+    "city": "Sepang",
+    "country": "MY",
+    "lat": 2.74558,
+    "lon": 101.709999,
+    "type": "large_airport",
+    "distance_km": 54.9
+   },
+   {
+    "name": "Malacca International Airport",
+    "iata": "MKZ",
+    "city": "Malacca",
+    "country": "MY",
+    "lat": 2.265613,
+    "lon": 102.252778,
+    "type": "medium_airport",
+    "distance_km": 127.7
+   }
+  ],
+  "nearest_airport_km": 14.8,
+  "distance_beijing_km": 4378.3,
+  "ferry_terminals": [],
+  "railway_stations": []
+ },
+ "hotels": [],
+ "visa": {
+  "iso2": "MY",
+  "country_zh": "马来西亚",
+  "country_en": "Malaysia",
+  "status": "visa_free",
+  "days": 30,
+  "requirement": "Visa not required[6][84]",
+  "notes": "90 days within any 180-day period."
+ },
+ "visa_by_country": [
+  {
+   "iso2": "MY",
+   "country_zh": "马来西亚",
+   "country_en": "Malaysia",
+   "status": "visa_free",
+   "days": 30,
+   "requirement": "Visa not required[6][84]",
+   "notes": "90 days within any 180-day period."
+  }
+ ],
+ "visa_summary": "visa_free",
+ "info_languages": {
+  "zh": true,
+  "en": true,
+  "ja": false,
+  "ko": false,
+  "local": false,
+  "local_lang": null,
+  "local_lang_name": null,
+  "official_unesco": [
+   "en",
+   "zh",
+   "fr",
+   "es",
+   "ru",
+   "ar"
+  ],
+  "wikipedia_editions": 2
+ },
+ "sources": [
+  {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1734"
+  },
+  {
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
+  },
+  {
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/"
+  },
+  {
+   "name": "OurAirports",
+   "url": "https://ourairports.com/data/"
+  }
+ ],
+ "updated_at": "2026-11-08T14:52:53Z"
+}

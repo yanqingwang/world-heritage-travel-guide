@@ -28,6 +28,7 @@
       <button class="tab" data-tab="world" role="tab" aria-selected="false">海外世界遗产</button>
     </nav>
     <div class="top-actions">
+      <button id="globe-open" class="ghost" type="button">🌍 我的地球</button>
       <button id="lang-toggle" class="ghost" type="button" aria-label="Switch language">EN</button>
     </div>
   </header>
@@ -48,9 +49,11 @@
         <input id="search" type="search" placeholder="搜索景区、城市、国家…" autocomplete="off">
       </div>
       <select id="country-filter" aria-label="Country"></select>
+      <select id="subdivision-filter" aria-label="Province or state"></select>
       <select id="category-filter" aria-label="Category"></select>
       <select id="visa-filter" aria-label="Visa"></select>
       <select id="tier-filter" aria-label="Data tier"></select>
+      <button id="visited-filter" class="ghost small toggle" type="button" aria-pressed="false">✓ 只看去过的</button>
       <button id="reset" class="ghost small" type="button">重置</button>
     </section>
 
@@ -86,6 +89,34 @@
     <div id="detail-body" class="detail-body"></div>
   </dialog>
 
-  <script src="./assets/app.js"></script>
+  <dialog id="globe" class="globe-dialog">
+    <div class="globe-head">
+      <div>
+        <p id="globe-kicker" class="eyebrow">我的足迹</p>
+        <h2 id="globe-title">点亮你去过的世界</h2>
+      </div>
+      <button id="globe-close" class="icon-btn" type="button" aria-label="关闭">✕</button>
+    </div>
+    <div class="globe-stage">
+      <canvas id="globe-canvas"></canvas>
+      <div id="globe-tip" class="globe-tip" hidden></div>
+    </div>
+    <p id="globe-hint" class="note globe-hint">拖动旋转 · 滚轮缩放 · 点击地区筛选</p>
+    <div id="globe-empty" class="globe-empty" hidden></div>
+    <div class="globe-foot">
+      <div id="globe-stats" class="globe-stats"></div>
+      <div class="globe-side">
+        <div id="globe-legend" class="globe-legend"></div>
+        <div class="globe-actions">
+          <button id="globe-china" class="ghost small" type="button">聚焦中国</button>
+          <button id="globe-spin" class="ghost small" type="button">暂停旋转</button>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="./assets/vendor/d3-array.min.js?v=1"></script>
+  <script src="./assets/vendor/d3-geo.min.js?v=1"></script>
+  <script src="./assets/app.js?v=3"></script>
 </body>
 </html>
