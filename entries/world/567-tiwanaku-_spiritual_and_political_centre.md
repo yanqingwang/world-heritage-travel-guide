@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: -16.554722222
 lon: -68.673333333
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:28Z"
 ---
 
 # 蒂瓦纳科文化的精神和政治中心 / Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Zonnepoort tiwanaku.jpg · see Wikimedia Commons file page*
 
-![Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture](https://whc.unesco.org/uploads/sites/site_567.jpg)
+![BO Tihuanako (sitio arqueológico) 1207 (1) (17041033190).jpg](https://upload.wikimedia.org/wikipedia/commons/a/ae/BO_Tihuanako_%28sitio_arqueol%C3%B3gico%29_1207_%281%29_%2817041033190%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*BO Tihuanako (sitio arqueológico) 1207 (1) (17041033190).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+
+![Tiwanaku11.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tiwanaku11.jpg/1280px-Tiwanaku11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tiwanaku11.jpg · Alexson Scheppa Peisino(AlexSP) · Public domain*
+
+![Tiwanaku10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tiwanaku10.jpg/1280px-Tiwanaku10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tiwanaku10.jpg · Alexson Scheppa Peisino(AlexSP) · Public domain*
+
+![2-2 Tiwanaku.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2-2_Tiwanaku.jpg/1280px-2-2_Tiwanaku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2-2 Tiwanaku.jpg · Brattarb · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,23 @@ Tiwanaku fue la capital de un poderoso imperio prehispánico que alcanzó su apo
 - ✈ **El Alto International Airport (LPB)** — 51.8 km
 - ✈ **Inca Manco Capac International Airport (JUL)** — 199.3 km
 - ✈ **Juan Mendoza International Airport (ORU)** — 230.3 km
+- 🚉 **Tiahuanacu** — 0.4 km
+- 🚉 **Puerto Guaqui** — 19.6 km
+- 🚉 **Viacha** — 42.0 km
+- ⛴ **Puerto Guaqui** — 19.8 km
+- ⛴ **Puerto Quewaya** — 25.2 km
+- ⛴ **Isla Flotante Pariti** — 25.6 km
+- ⛴ **Muelle Anapia** — 33.1 km
+- ⛴ **Punta Hermosa** — 47.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **17354.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Tiahuanacu** — 0.5 km — hotel
+- **Akapana** — 0.5 km — hotel
+- **Alojamiento Geminis** — 0.8 km — hotel
+- **Hospedaje Utasawa** — 0.8 km — hotel
+- **El Mochillero** — 1.0 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

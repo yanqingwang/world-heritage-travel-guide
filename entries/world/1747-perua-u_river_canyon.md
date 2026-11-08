@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(vii)(viii)"
 lat: -14.9
 lon: -44.05
-updated_at: "2026-11-08T11:24:57Z"
+updated_at: "2026-11-08T12:02:50Z"
 ---
 
 # 佩鲁瓦苏河峡谷 / Peruaçu River Canyon

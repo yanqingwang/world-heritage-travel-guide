@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)"
 lat: 40.159305555
 lon: 44.295138888
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:37Z"
 ---
 
 # 埃奇米河津教堂与兹瓦尔特诺茨考古遗址 / Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots

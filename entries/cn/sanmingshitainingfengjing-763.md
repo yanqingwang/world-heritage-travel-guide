@@ -2,7 +2,7 @@
 id: "cn-763"
 dataset: "china_5a"
 name_zh: "三明市泰宁风景旅游区"
-name_en: "Sanming"
+name_en: "Sanmingshitainingfengjing Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Fujian"
 city_en: "Sanming"
 lat: 26.869942
 lon: 117.108373
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 三明市泰宁风景旅游区 / Sanming
+# 三明市泰宁风景旅游区 / Sanmingshitainingfengjing Tourist Area
 
 > 福建省 · 三明市 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Sanming (Chinese: 三明; pinyin: Sānmíng), also known as Minzhong (simplified Chinese: 闽中; traditional Chinese: 閩中), is a prefecture-level city in western Fujian province, China. It borders Nanping City to the north, Fuzhou City to the east, Quanzhou City to the southeast, Longyan City to the south and the province of Jiangxi to the west. Sanming lies between Wuyi and Daiyun mountains.
+Taining Scenic Area is located on the southeast side of the Shanling branch in the middle section of the Wuyi Mountains. It includes seven scenic areas: Jinhu Lake, Shangqing Creek, Zhuangyuanyan, Maoer Mountain, Jiulongtan, Zhaixia Grand Canyon, and Taining Ancient City. The main landscape features are Danxia on the water, canyon communities, cave wonders, and primitive ecology. The scenic area is dominated by the typical young Danxia landform, and also contains various geological relics such as volcanic rocks, granite, and structural landforms. It is a comprehensive geological park.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -69,10 +71,9 @@ Sanming (Chinese: 三明; pinyin: Sānmíng), also known as Minzhong (simplified
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/三明市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -23.0
 lon: 15.0
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:44Z"
 ---
 
 # 纳米布沙漠 / Namib Sand Sea
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Namib Desert surface.jpg · see Wikimedia Commons file page*
 
-![Namib Sand Sea](https://whc.unesco.org/uploads/sites/site_1430.jpg)
+![Location Namib.png](https://upload.wikimedia.org/wikipedia/commons/c/c9/Location_Namib.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Namib Sand Sea · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Location Namib.png · Concerto · CC BY-SA 3.0*
+
+![LocationNamib.png](https://upload.wikimedia.org/wikipedia/commons/2/22/LocationNamib.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocationNamib.png · Concerto · CC BY-SA 3.0*
+
+![Namibia Rivers Map rel.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Namibia_Rivers_Map_rel.png/1280px-Namibia_Rivers_Map_rel.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Namibia Rivers Map rel.png · Pechristener - integration Namibia relief location map.jpg : Carport , NordNordWest · CC BY-SA 3.0*
+
+![Namibia Rivers Map.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Namibia_Rivers_Map.png/1280px-Namibia_Rivers_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Namibia Rivers Map.png · Pechristener · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -46,6 +58,8 @@ Namib Sand Sea is the only coastal desert in the world that includes extensive d
 - ✈ **Walvis Bay International Airport (WVB)** — 36.2 km
 - ✈ **Eros Airport (ERS)** — 217.6 km
 - ✈ **Hosea Kutako International Airport (WDH)** — 259.9 km
+- 🚉 **Rand Rifles** — 45.0 km
+- 🚉 **Kuiseb** — 49.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12609.0 km**
 
 ## 附近酒店 / Nearby hotels

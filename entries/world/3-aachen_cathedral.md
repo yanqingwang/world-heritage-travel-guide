@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 50.77475
 lon: 6.083922222
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:08Z"
 ---
 
 # 亚琛大教堂 / Aachen Cathedral
@@ -26,6 +26,18 @@ updated_at: "2026-11-08T11:24:46Z"
 ![Aachen Germany Imperial-Cathedral-01.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Aachen%20Germany%20Imperial-Cathedral-01.jpg?width=1280)
 
 *Aachen Germany Imperial-Cathedral-01.jpg · see Wikimedia Commons file page*
+
+![Deutschland 2012 100 Euro Gold Dom zu Aachen MK Berlin 18238080 Nemat Zadeh Mohammad.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Deutschland_2012_100_Euro_Gold_Dom_zu_Aachen_MK_Berlin_18238080_Nemat_Zadeh_Mohammad.png/1280px-Deutschland_2012_100_Euro_Gold_Dom_zu_Aachen_MK_Berlin_18238080_Nemat_Zadeh_Mohammad.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Deutschland 2012 100 Euro Gold Dom zu Aachen MK Berlin 18238080 Nemat Zadeh Mohammad.png · Münzstätte München (Herstellung) / Erich Ott (Entwurf) / Bundesrepublik Deutschland (Münzstand / Auftrag) · CC0*
+
+![President Clinton tours the Aachen Cathedral in Germany.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/President_Clinton_tours_the_Aachen_Cathedral_in_Germany.jpg/1280px-President_Clinton_tours_the_Aachen_Cathedral_in_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*President Clinton tours the Aachen Cathedral in Germany.jpg · David Scull · Public domain*
+
+![President Vaclav Havel, King Juan Carlos I, and President Clinton attend the prayer service in the Aachen Cathedral.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2e/President_Vaclav_Havel%2C_King_Juan_Carlos_I%2C_and_President_Clinton_attend_the_prayer_service_in_the_Aachen_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*President Vaclav Havel, King Juan Carlos I, and President Clinton attend the prayer service in the Aachen Cathedral.jpg · David Scull · Public domain*
 
 ![Aachen Cathedral](https://whc.unesco.org/uploads/sites/site_3.jpg)
 
@@ -52,11 +64,25 @@ Der Dom St. Marien zu Aachen, kurz der Aachener Dom, ist die Bischofskirche des 
 - ✈ **Maastricht Aachen Airport (MST)** — 26.8 km
 - ✈ **Liège Airport (LGG)** — 47.5 km
 - ✈ **Düsseldorf Airport (DUS)** — 74.5 km
+- 🚉 **Aachen Hauptbahnhof** — 0.9 km
+- 🚉 **Aachen West** — 1.2 km
+- 🚉 **Aachen-Rothe Erde** — 2.3 km
+- 🚉 **Vetschau** — 5.1 km
+- 🚉 **Kohlscheid** — 6.4 km
+- ⛴ **Eijsden** — 27.0 km
+- ⛴ **Lanaye** — 27.2 km
+- ⛴ **Woffelsbach** — 27.2 km
+- ⛴ **Kermeterufer** — 27.6 km
+- ⛴ **Eschauel** — 27.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7876.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Quellenhof** — 0.9 km — star — 5★
+- **Van Oys Maastricht Retreat** — 26.7 km — star — 5★
+- **Kruisherenhotel** — 29.3 km — star — 5★ · Château Hotels
+- **Aquis Grana** — 0.2 km — star — 4★
+- **Best Western Plus Hotel Regence** — 0.6 km — star — 4★ · Best Western Plus
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

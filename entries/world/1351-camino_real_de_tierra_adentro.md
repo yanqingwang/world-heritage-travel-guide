@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iv)"
 lat: 22.608055555
 lon: -102.379166666
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:43Z"
 ---
 
 # 皇家内陆大干线 / Camino Real de Tierra Adentro

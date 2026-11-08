@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(iv)(v)"
 lat: 31.05
 lon: -7.133333333
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:25Z"
 ---
 
 # 阿伊特•本•哈杜筑垒村 / Ksar of Ait-Ben-Haddou
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg · see Wikimedia Commons file page*
 
-![Ksar of Ait-Ben-Haddou](https://whc.unesco.org/uploads/sites/site_444.jpg)
+!["Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._01.jpg/1280px-%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ksar of Ait-Ben-Haddou · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 01.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._02.jpg/1280px-%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 02.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._03.jpg/1280px-%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 03.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._04.jpg/1280px-%22Hervorragendes_Beispiel_marokkanischer_Lehmbauarchitektur%22._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Hervorragendes Beispiel marokkanischer Lehmbauarchitektur". 04.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ The ksar , a group of earthen buildings surrounded by high walls, is a tradition
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Dar Mouna** — 0.6 km — star — 5★
+- **Chez Brahim** — 0.7 km — star — 5★
+- **Bagdad Cafe** — 0.8 km — star — 5★
+- **Hotel Dar Rita** — 23.9 km — star — 4★
+- **Le Kasbah** — 0.5 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

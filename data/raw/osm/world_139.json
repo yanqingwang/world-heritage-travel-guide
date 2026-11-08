@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Jan's Palace",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hotel Jan's Palace",
+   "lat": 33.6503033,
+   "lon": 73.0612547,
+   "distance_km": 27.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Check Inn",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 33.6832663,
+   "lon": 73.0352841,
+   "distance_km": 24.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Margala",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 33.7084094,
+   "lon": 73.0988425,
+   "distance_km": 29.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hill View Hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 33.7211151,
+   "lon": 73.0565451,
+   "distance_km": 25.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Al-Habib",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 33.703488,
+   "lon": 73.0714023,
+   "distance_km": 26.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 148,
+ "stations": [
+  {
+   "name": "واہ کینٹ ریلوے",
+   "name_en": "Wah Cantonment",
+   "lat": 33.7582369,
+   "lon": 72.7930331,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "ٹیکسلا",
+   "name_en": "Taxila",
+   "lat": 33.7422793,
+   "lon": 72.8145203,
+   "distance_km": 2.5,
+   "operator": null
+  },
+  {
+   "name": "بودھو",
+   "name_en": "Budho",
+   "lat": 33.7947531,
+   "lon": 72.7679202,
+   "distance_km": 5.7,
+   "operator": null
+  },
+  {
+   "name": "سنگجانی",
+   "name_en": "Sangjani",
+   "lat": 33.6963031,
+   "lon": 72.8503729,
+   "distance_km": 8.0,
+   "operator": null
+  },
+  {
+   "name": "واہ",
+   "name_en": "Wah",
+   "lat": 33.817464,
+   "lon": 72.7371729,
+   "distance_km": 9.2,
+   "operator": null
+  },
+  {
+   "name": "حسن ابدال",
+   "name_en": "‎Hasan Abdal",
+   "lat": 33.8267964,
+   "lon": 72.6990758,
+   "distance_km": 12.2,
+   "operator": null
+  },
+  {
+   "name": "ترنول ریلوے اسٹیشن",
+   "name_en": "Tarnol Railway Station",
+   "lat": 33.6499553,
+   "lon": 72.9098017,
+   "distance_km": 15.5,
+   "operator": null
+  },
+  {
+   "name": "گولڑہ شریف جنکشن ریلوے اسٹیشن",
+   "name_en": "Golra Sharif Junction",
+   "lat": 33.6704978,
+   "lon": 72.9478446,
+   "distance_km": 17.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:17Z"
+}

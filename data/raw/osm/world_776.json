@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "蔵宿いろは",
+   "name_en": "Kurayado Iroha",
+   "stars": 5,
+   "brand": null,
+   "lat": 34.2996222,
+   "lon": 132.3216408,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "旅館水羽荘",
+   "name_en": "Auberge Mizuhaso",
+   "stars": 3,
+   "brand": null,
+   "lat": 34.2953622,
+   "lon": 132.3162282,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宮島シーサイドホテル",
+   "name_en": "Miyajima Seaside Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 34.3043952,
+   "lon": 132.3350871,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "EN HOTEL",
+   "name_en": "EN Hotel Hiroshima",
+   "stars": 3,
+   "brand": null,
+   "lat": 34.3916119,
+   "lon": 132.4685847,
+   "distance_km": 17.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "山一別館",
+   "name_en": "Yamaichi Bekkan",
+   "stars": 2,
+   "brand": null,
+   "lat": 34.3013929,
+   "lon": 132.322745,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 172,
+ "stations": [
+  {
+   "name": "広電宮島口",
+   "name_en": "Hiroden-Miyajima-guchi",
+   "lat": 34.3117771,
+   "lon": 132.3049223,
+   "distance_km": 2.3,
+   "operator": "広島電鉄"
+  },
+  {
+   "name": "宮島口",
+   "name_en": "Miyajimaguchi",
+   "lat": 34.3123127,
+   "lon": 132.3029382,
+   "distance_km": 2.4,
+   "operator": null
+  },
+  {
+   "name": "宮島ボートレース場",
+   "name_en": null,
+   "lat": 34.3143211,
+   "lon": 132.304935,
+   "distance_km": 2.5,
+   "operator": "広島電鉄"
+  },
+  {
+   "name": "前空",
+   "name_en": "Maezora",
+   "lat": 34.3009973,
+   "lon": 132.2893928,
+   "distance_km": 2.9,
+   "operator": null
+  },
+  {
+   "name": "阿品",
+   "name_en": "Ajina",
+   "lat": 34.3230984,
+   "lon": 132.3143115,
+   "distance_km": 3.1,
+   "operator": "ジェイアール西日本メンテック"
+  },
+  {
+   "name": "大野浦",
+   "name_en": "Ōnoura",
+   "lat": 34.2843347,
+   "lon": 132.2656723,
+   "distance_km": 5.2,
+   "operator": null
+  },
+  {
+   "name": "宮内串戸",
+   "name_en": "Miyauchi-Kushido",
+   "lat": 34.3480427,
+   "lon": 132.3237511,
+   "distance_km": 5.8,
+   "operator": null
+  },
+  {
+   "name": "廿日市",
+   "name_en": "Hatsukaichi",
+   "lat": 34.3580272,
+   "lon": 132.335674,
+   "distance_km": 7.1,
+   "operator": "West Japan Railway Company"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "宮島桟橋",
+   "name_en": "Miyajima Ferry Terminal",
+   "lat": 34.3020991,
+   "lon": 132.3222525,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "宮島口フェリーのりば旅客ターミナル",
+   "name_en": "Miyajimaguchi Ferry Terminal",
+   "lat": 34.3110993,
+   "lon": 132.3052316,
+   "distance_km": 2.2,
+   "operator": null
+  },
+  {
+   "name": "三高〜宇品",
+   "name_en": null,
+   "lat": 34.2599512,
+   "lon": 132.4076624,
+   "distance_km": 9.0,
+   "operator": null
+  },
+  {
+   "name": "三高桟橋",
+   "name_en": null,
+   "lat": 34.2589998,
+   "lon": 132.4076318,
+   "distance_km": 9.0,
+   "operator": null
+  },
+  {
+   "name": "高田",
+   "name_en": null,
+   "lat": 34.2372684,
+   "lon": 132.4351556,
+   "distance_km": 12.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:47Z"
+}

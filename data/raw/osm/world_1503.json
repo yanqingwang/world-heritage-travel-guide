@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Seven Stars Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.9577423,
+   "lon": 158.2099466,
+   "distance_km": 18.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yvonne´s Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.9650026,
+   "lon": 158.212661,
+   "distance_km": 19.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Qceanview",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.9573667,
+   "lon": 158.2035131,
+   "distance_km": 19.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Joy Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 6.9657539,
+   "lon": 158.2107769,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mangrove Bay Hotel",
+   "name_en": "Mangrove Bay Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 6.9592121,
+   "lon": 158.2012022,
+   "distance_km": 19.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 7,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:47Z"
+}

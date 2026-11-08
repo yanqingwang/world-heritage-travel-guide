@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Shangrila",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.8803582,
+   "lon": 75.3188836,
+   "distance_km": 21.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Holiday Era",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.8613094,
+   "lon": 75.311555,
+   "distance_km": 23.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 19.8623853,
+   "lon": 75.3136646,
+   "distance_km": 23.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Kailas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.0236681,
+   "lon": 75.1746434,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Crystal",
+   "name_en": "Hotel Crystal",
+   "stars": null,
+   "brand": null,
+   "lat": 19.9932406,
+   "lon": 75.1950312,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 45,
+ "stations": [
+  {
+   "name": "Daulatabad",
+   "name_en": "Daulatabad",
+   "lat": 19.9168755,
+   "lon": 75.2097419,
+   "distance_km": 12.6,
+   "operator": "SCR"
+  },
+  {
+   "name": "Potul",
+   "name_en": null,
+   "lat": 19.9181206,
+   "lon": 75.1224724,
+   "distance_km": 13.4,
+   "operator": "SCR"
+  },
+  {
+   "name": "Lasur",
+   "name_en": null,
+   "lat": 19.9263446,
+   "lon": 75.0118617,
+   "distance_km": 20.7,
+   "operator": "SCR"
+  },
+  {
+   "name": "Chhatrapati Sambhajinagar",
+   "name_en": "Chhatrapati Sambhajinagar",
+   "lat": 19.8597998,
+   "lon": 75.3114008,
+   "distance_km": 23.1,
+   "operator": "SCR"
+  },
+  {
+   "name": "Karanjgaon",
+   "name_en": null,
+   "lat": 19.9496748,
+   "lon": 74.9247952,
+   "distance_km": 27.9,
+   "operator": "SCR"
+  },
+  {
+   "name": "Chikalthana",
+   "name_en": "Chikalthana",
+   "lat": 19.8596828,
+   "lon": 75.4024016,
+   "distance_km": 29.8,
+   "operator": "SCR"
+  },
+  {
+   "name": "Parsoda",
+   "name_en": null,
+   "lat": 19.9537923,
+   "lon": 74.875349,
+   "distance_km": 32.8,
+   "operator": "SCR"
+  },
+  {
+   "name": "Karmad",
+   "name_en": null,
+   "lat": 19.8728917,
+   "lon": 75.5379525,
+   "distance_km": 41.2,
+   "operator": "SCR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:38Z"
+}

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "ホテルウィングインターナショナル",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 34.655789,
+   "lon": 135.1455776,
+   "distance_km": 46.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "神戸マリオットホテル",
+   "name_en": "Kobe Marriott Hotel",
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 34.6787224,
+   "lon": 135.1797496,
+   "distance_km": 47.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tuki no Akari",
+   "name_en": "Tuki no Akari",
+   "stars": null,
+   "brand": null,
+   "lat": 34.8406222,
+   "lon": 134.6879706,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ホテルウィングインターナショナル姫路",
+   "name_en": "Hotel Wing International Himeji",
+   "stars": null,
+   "brand": null,
+   "lat": 34.8323601,
+   "lon": 134.6937244,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ホテルウイング姫路",
+   "name_en": "HOTEL WING",
+   "stars": null,
+   "brand": null,
+   "lat": 34.8325121,
+   "lon": 134.6937142,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 237,
+ "stations": [
+  {
+   "name": "京口",
+   "name_en": "Kyōguchi",
+   "lat": 34.8340316,
+   "lon": 134.7051426,
+   "distance_km": 1.2,
+   "operator": "西日本旅客鉄道"
+  },
+  {
+   "name": "山陽姫路",
+   "name_en": "Sanyo Himeji",
+   "lat": 34.8288513,
+   "lon": 134.6893813,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "姫路",
+   "name_en": "Himeji",
+   "lat": 34.8269005,
+   "lon": 134.6902424,
+   "distance_km": 1.4,
+   "operator": "西日本旅客鉄道"
+  },
+  {
+   "name": "東姫路",
+   "name_en": "Higashi-Himeji",
+   "lat": 34.8243643,
+   "lon": 134.7106573,
+   "distance_km": 2.3,
+   "operator": null
+  },
+  {
+   "name": "野里",
+   "name_en": "Nozato",
+   "lat": 34.856087,
+   "lon": 134.7112045,
+   "distance_km": 2.4,
+   "operator": null
+  },
+  {
+   "name": "手柄",
+   "name_en": "Tegara",
+   "lat": 34.8198589,
+   "lon": 134.6812818,
+   "distance_km": 2.5,
+   "operator": null
+  },
+  {
+   "name": "手柄山平和公園",
+   "name_en": "Tegarayamaheiwakōen",
+   "lat": 34.8233879,
+   "lon": 134.6717191,
+   "distance_km": 2.7,
+   "operator": null
+  },
+  {
+   "name": "播磨高岡",
+   "name_en": "Harima-Takaoka",
+   "lat": 34.8421074,
+   "lon": 134.6584744,
+   "distance_km": 3.2,
+   "operator": "西日本旅客鉄道"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "宮港",
+   "name_en": null,
+   "lat": 34.6783395,
+   "lon": 134.5339092,
+   "distance_km": 23.1,
+   "operator": null
+  },
+  {
+   "name": "家島港",
+   "name_en": null,
+   "lat": 34.6785262,
+   "lon": 134.5318985,
+   "distance_km": 23.2,
+   "operator": null
+  },
+  {
+   "name": "真浦港",
+   "name_en": null,
+   "lat": 34.6774585,
+   "lon": 134.5280597,
+   "distance_km": 23.5,
+   "operator": null
+  },
+  {
+   "name": "網手浜",
+   "name_en": null,
+   "lat": 34.6668572,
+   "lon": 134.5259917,
+   "distance_km": 24.6,
+   "operator": null
+  },
+  {
+   "name": "奈座港",
+   "name_en": null,
+   "lat": 34.6529364,
+   "lon": 134.5105133,
+   "distance_km": 26.6,
+   "operator": "坊勢汽船"
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:30Z"
+}

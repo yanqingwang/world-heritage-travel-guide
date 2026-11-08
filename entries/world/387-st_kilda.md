@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(iii)(v)(vii)(ix)(x)"
 lat: 57.815
 lon: -8.5875
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:23Z"
 ---
 
 # 圣基尔达岛 / St Kilda
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Saint Kilda 20090611 Hirta - Village Bay overview.jpg · see Wikimedia Commons file page*
 
-![St Kilda](https://whc.unesco.org/uploads/sites/site_387.jpg)
+![Lady Grange.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cd/Lady_Grange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*St Kilda · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Lady Grange.jpg · John Baptist Medina · Public domain*
+
+![A St Kildan line-up - geograph.org.uk - 4980843.jpg](https://upload.wikimedia.org/wikipedia/commons/5/51/A_St_Kildan_line-up_-_geograph.org.uk_-_4980843.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A St Kildan line-up - geograph.org.uk - 4980843.jpg · Gordon Brown · CC BY-SA 2.0*
+
+![Atlantic Grey Seal at the foot of Oiseval - geograph.org.uk - 726065.jpg](https://upload.wikimedia.org/wikipedia/commons/2/24/Atlantic_Grey_Seal_at_the_foot_of_Oiseval_-_geograph.org.uk_-_726065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Atlantic Grey Seal at the foot of Oiseval - geograph.org.uk - 726065.jpg · Des Colhoun · CC BY-SA 2.0*
+
+![The history of St. Kilda. Containing a description of this remarkable island ... (IA b30545225).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/The_history_of_St._Kilda._Containing_a_description_of_this_remarkable_island_..._%28IA_b30545225%29.pdf/page1-960px-The_history_of_St._Kilda._Containing_a_description_of_this_remarkable_island_..._%28IA_b30545225%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The history of St. Kilda. Containing a description of this remarkable island ... (IA b30545225).pdf · Macaulay, Kenneth, 1723-1779 · Public domain*
 
 ## 简介 / Introduction
 

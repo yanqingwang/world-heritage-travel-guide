@@ -13,7 +13,7 @@ province_en: "Tibet"
 city_en: "Lhasa"
 lat: 29.656004
 lon: 91.139963
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 拉萨市大昭寺景区 / Jokhang

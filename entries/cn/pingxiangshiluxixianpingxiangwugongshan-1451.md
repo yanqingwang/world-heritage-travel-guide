@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Pingxiang City"
 lat: 27.495319
 lon: 114.135944
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 萍乡市芦溪县萍乡武功山景区 / Wugong Mountains
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:13Z"
 
 ### English
 
-The Wugongshan or Wu-kung Mountains (Chinese: 武功山), now a tourist resort, are a range of mountains located in the west of Jiangxi, China. It is the geography boundary of Anfu County, Luxi County, Jiangxi, Yichun, Jiangxi, and Lianhua County. Its highest point, the 1918.3-meter high Baihe Feng (Golden Peak) located in Anfu County.
+The Wugong Mountain Scenic Area in Pingxiang City belongs to the northern section of the Luoxiao Mountains on the border of Hunan and Jiangxi. Historically, it was once known as the three famous mountains in the south of the Yangtze River together with Mount Lu and Mount Heng, and was known as the "Wugong Center at the Head of Heng and Mount Lu at the End". Wugong Mountain Scenic Area consists of four major areas: Golden Summit Scenic Area, Sheep and Lion Screen Scenic Area, Jiulong Mountain, and Fayunjie. Among them, the main peak of Wugong Mountain, Baihe Peak (Golden Summit), is 1,918.3 meters above sea level.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

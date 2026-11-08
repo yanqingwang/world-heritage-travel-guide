@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "هتل فردیس",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.92311,
+   "lon": 53.2887037,
+   "distance_km": 32.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل اسکندری",
+   "name_en": "Eskandari Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 29.913321,
+   "lon": 53.3000378,
+   "distance_km": 33.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Apadana hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.9362693,
+   "lon": 52.886333,
+   "distance_km": 40.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل جهانگردی پرسپولیس",
+   "name_en": "ITTIC Tourist Hotel Persepolis",
+   "stars": null,
+   "brand": null,
+   "lat": 29.9314356,
+   "lon": 52.8697805,
+   "distance_km": 42.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Persepolis Tourist Hotelهتل پرسپولیس",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.9299043,
+   "lon": 52.8664441,
+   "distance_km": 42.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [
+  {
+   "name": "ایستگاه راه آهن سعادت شهر",
+   "name_en": "Saadatshahr",
+   "lat": 30.1053415,
+   "lon": 53.0942238,
+   "distance_km": 13.3,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه راه آهن دیدگان",
+   "name_en": null,
+   "lat": 30.3634688,
+   "lon": 53.3498957,
+   "distance_km": 24.5,
+   "operator": "رجا"
+  },
+  {
+   "name": "ایستگاه راه آهن صفاشهر",
+   "name_en": "Safashahr Train Station",
+   "lat": 30.5850395,
+   "lon": 53.1948231,
+   "distance_km": 42.8,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه قطار تخت جمشید",
+   "name_en": "Marvdasht Railway Station",
+   "lat": 29.8965546,
+   "lon": 52.8016394,
+   "distance_km": 49.6,
+   "operator": "راه آهن ایران"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:27Z"
+}

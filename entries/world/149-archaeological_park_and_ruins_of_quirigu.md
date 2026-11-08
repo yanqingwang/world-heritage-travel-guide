@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(i)(ii)(iv)"
 lat: 15.269444444
 lon: -89.040277777
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:13Z"
 ---
 
 # 基里瓜考古公园和玛雅文化遗址 / Archaeological Park and Ruins of Quirigua

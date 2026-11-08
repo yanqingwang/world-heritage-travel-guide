@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Quellenhof",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.7816932,
+   "lon": 6.0908929,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Van Oys Maastricht Retreat",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.7961294,
+   "lon": 5.7060664,
+   "distance_km": 26.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kruisherenhotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Château Hotels",
+   "lat": 50.8487435,
+   "lon": 5.6838029,
+   "distance_km": 29.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aquis Grana",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.7755552,
+   "lon": 6.086436,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Hotel Regence",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Best Western Plus",
+   "lat": 50.7777729,
+   "lon": 6.0913783,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 655,
+ "stations": [
+  {
+   "name": "Aachen Hauptbahnhof",
+   "name_en": "Aachen Central Train Station",
+   "lat": 50.7677663,
+   "lon": 6.0913818,
+   "distance_km": 0.9,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Aachen West",
+   "name_en": null,
+   "lat": 50.7807171,
+   "lon": 6.0696064,
+   "distance_km": 1.2,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Aachen-Rothe Erde",
+   "name_en": null,
+   "lat": 50.770064,
+   "lon": 6.1161849,
+   "distance_km": 2.3,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Vetschau",
+   "name_en": null,
+   "lat": 50.8125249,
+   "lon": 6.0424712,
+   "distance_km": 5.1,
+   "operator": "Zuid-Limburgse Stoomtrein Maatschappij"
+  },
+  {
+   "name": "Kohlscheid",
+   "name_en": null,
+   "lat": 50.8319245,
+   "lon": 6.0745043,
+   "distance_km": 6.4,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Bocholtz",
+   "name_en": null,
+   "lat": 50.8170574,
+   "lon": 6.0055661,
+   "distance_km": 7.2,
+   "operator": "Zuid-Limburgse Stoomtrein Maatschappij"
+  },
+  {
+   "name": "Stolberg (Rheinl) Hbf",
+   "name_en": null,
+   "lat": 50.7944455,
+   "lon": 6.2173543,
+   "distance_km": 9.6,
+   "operator": "DB InfraGO AG"
+  },
+  {
+   "name": "Kerkrade ZLSM",
+   "name_en": null,
+   "lat": 50.8590632,
+   "lon": 6.0566467,
+   "distance_km": 9.6,
+   "operator": "Zuid-Limburgse Stoomtrein Maatschappij"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Eijsden",
+   "name_en": null,
+   "lat": 50.7769494,
+   "lon": 5.6993253,
+   "distance_km": 27.0,
+   "operator": null
+  },
+  {
+   "name": "Lanaye",
+   "name_en": null,
+   "lat": 50.7772901,
+   "lon": 5.6968382,
+   "distance_km": 27.2,
+   "operator": null
+  },
+  {
+   "name": "Woffelsbach",
+   "name_en": null,
+   "lat": 50.6280071,
+   "lon": 6.3924447,
+   "distance_km": 27.2,
+   "operator": "Rursee-Schifffahrt KG"
+  },
+  {
+   "name": "Kermeterufer",
+   "name_en": null,
+   "lat": 50.6281809,
+   "lon": 6.4000144,
+   "distance_km": 27.6,
+   "operator": "Rursee-Schifffahrt KG"
+  },
+  {
+   "name": "Eschauel",
+   "name_en": null,
+   "lat": 50.6427803,
+   "lon": 6.4161537,
+   "distance_km": 27.6,
+   "operator": "Rursee-Schifffahrt KG"
+  }
+ ],
+ "fetched_at": "2026-11-08T11:57:45Z"
+}

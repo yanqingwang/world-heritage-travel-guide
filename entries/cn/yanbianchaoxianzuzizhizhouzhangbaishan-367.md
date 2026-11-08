@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Yanbian Korean Autonomous Prefecture"
 lat: 42.03497
 lon: 128.079482
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 延边朝鲜族自治州长白山景区 / Mount Paektu
@@ -22,25 +22,25 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ## 图片 / Images
 
-![Baitou Mountain Tianchi.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6d/Baitou_Mountain_Tianchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Changbai Mountain-Stream from Heaven Lake to Waterfall.jpg](https://upload.wikimedia.org/wikipedia/commons/9/97/Changbai_Mountain-Stream_from_Heaven_Lake_to_Waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Baitou Mountain Tianchi.jpg · Bdpmax · CC BY-SA 3.0*
+*Changbai Mountain-Stream from Heaven Lake to Waterfall.jpg · Yoshi Canopus · CC BY-SA 4.0*
 
-![GA 36-2007.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/GA_36-2007.pdf/page1-960px-GA_36-2007.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Korea paektu-san locmap.png](https://upload.wikimedia.org/wikipedia/commons/1/1c/Korea_paektu-san_locmap.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*GA 36-2007.pdf · Ministry of Public Security · Public domain*
+*Korea paektu-san locmap.png · CC BY-SA 3.0*
 
-![GA 36-2014.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/GA_36-2014.pdf/page1-960px-GA_36-2014.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Mount Paektu Relief Map, SRTM-1.jpg](https://upload.wikimedia.org/wikipedia/commons/2/28/Mount_Paektu_Relief_Map%2C_SRTM-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*GA 36-2014.pdf · Ministry of Public Security · Public domain*
+*Mount Paektu Relief Map, SRTM-1.jpg · Batholith · Public domain*
 
-![中华人民共和国机动车号牌标准〔中华人民共和国公共安全行业标准GA36—2007〕.PDF](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%BA%E5%8A%A8%E8%BD%A6%E5%8F%B7%E7%89%8C%E6%A0%87%E5%87%86%E3%80%94%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86GA36%E2%80%942007%E3%80%95.PDF/page1-960px-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%BA%E5%8A%A8%E8%BD%A6%E5%8F%B7%E7%89%8C%E6%A0%87%E5%87%86%E3%80%94%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86GA36%E2%80%942007%E3%80%95.PDF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Mount Paektu banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mount_Paektu_banner.jpg/1280px-Mount_Paektu_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*中华人民共和国机动车号牌标准〔中华人民共和国公共安全行业标准GA36—2007〕.PDF · 中华人民共和国公安部 · Public domain*
+*Mount Paektu banner.jpg · Mount_Paektu8.jpg : Mark Scott Johnson from Sydney, Australia derivative work: Jjtkk · CC BY 2.0*
 
-![中文维基百科月刊第三期.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9C%88%E5%88%8A%E7%AC%AC%E4%B8%89%E6%9C%9F.pdf/page1-960px-%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E6%9C%88%E5%88%8A%E7%AC%AC%E4%B8%89%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Mount Paektu view from Samjiyon Airport.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mount_Paektu_view_from_Samjiyon_Airport.jpg/1280px-Mount_Paektu_view_from_Samjiyon_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*中文维基百科月刊第三期.pdf · Yhz1221 · CC BY-SA 3.0*
+*Mount Paektu view from Samjiyon Airport.jpg · Mark Fahey from Sydney, Australia · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Mount Paektu or Mount Baekdu (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain (Chinese: 长白山, Chinese Korean: 장백산). At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, called Janggun Peak, belongs to North Korea. The mountain notably features a caldera that contains a large crater lake called Heaven Lake, which serves as the source of the Songhua, Tumen, and Yalu rivers. Korean and Manchu people assign a mythical quality to the mountain and its lake, and consider the mountain to be their ancestral homeland. The mountain's caldera was formed by an eruption in 946 that released about 100–120 km3 (24–29 cu mi) of tephra. It was among the largest and most powerful eruptions on Earth in the last 5,000 years. The volcano last erupted in 1903, and is expected to erupt roughly once every hundred years. In the 2010s, concerns over an upcoming eruption prompted several countries to commission research into when the volcano might next erupt. The mountain is considered culturally important to multipl
+Changbai Mountain is named after the white pumice and snow-covered peak of Mount Baektou. The scenic spot is a tourist attraction with a high reputation of "sacred mountain, holy water, strange forest, fairy fruit". The main attractions include Changbai Mountain Tianchi, Baiyun Peak, Tianwen Peak, Changbai Hot Spring Group, Changbai Valley Bottom Forest Sea, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

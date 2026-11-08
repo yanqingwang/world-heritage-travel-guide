@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(iv)"
 lat: 34.839444444
 lon: 134.693611111
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:29Z"
 ---
 
 # 姬路城 / Himeji-jo
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Himeji castle in may 2015.jpg · see Wikimedia Commons file page*
 
-![Himeji-jo](https://whc.unesco.org/uploads/sites/site_661.jpg)
+![20260429 Burg Himeji 01, Hyōgo, Japan anagoria.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/20260429_Burg_Himeji_01%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg/1280px-20260429_Burg_Himeji_01%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Himeji-jo · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20260429 Burg Himeji 01, Hyōgo, Japan anagoria.jpg · Anagoria · CC BY-SA 4.0*
+
+![20260429 Burg Himeji 02, Hyōgo, Japan anagoria.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/20260429_Burg_Himeji_02%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg/1280px-20260429_Burg_Himeji_02%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20260429 Burg Himeji 02, Hyōgo, Japan anagoria.jpg · Anagoria · CC BY-SA 4.0*
+
+![20260429 Burg Himeji 03, Hyōgo, Japan anagoria.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/20260429_Burg_Himeji_03%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg/1280px-20260429_Burg_Himeji_03%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20260429 Burg Himeji 03, Hyōgo, Japan anagoria.jpg · Anagoria · CC BY-SA 4.0*
+
+![20260429 Burg Himeji 04, Hyōgo, Japan anagoria.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/20260429_Burg_Himeji_04%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg/1280px-20260429_Burg_Himeji_04%2C_Hy%C5%8Dgo%2C_Japan_anagoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20260429 Burg Himeji 04, Hyōgo, Japan anagoria.jpg · Anagoria · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Himeji-jo is the finest surviving example of early 17th-century Japanese castle 
 - ✈ **Kobe Airport (UKB)** — 53.6 km
 - ✈ **Kansai International Airport (KIX)** — 68.1 km
 - ✈ **Osaka Itami International Airport (ITM)** — 68.5 km
+- 🚉 **京口** — 1.2 km
+- 🚉 **山陽姫路** — 1.2 km
+- 🚉 **姫路** — 1.4 km
+- 🚉 **東姫路** — 2.3 km
+- 🚉 **野里** — 2.4 km
+- ⛴ **宮港** — 23.1 km
+- ⛴ **家島港** — 23.2 km
+- ⛴ **真浦港** — 23.5 km
+- ⛴ **網手浜** — 24.6 km
+- ⛴ **奈座港** — 26.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1751.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **ホテルウィングインターナショナル** — 46.1 km — star — 4★
+- **神戸マリオットホテル** — 47.9 km — chain — Kobe Marriott Hotel · Marriott
+- **Tuki no Akari** — 0.5 km — hotel — Tuki no Akari
+- **ホテルウィングインターナショナル姫路** — 0.8 km — hotel — Hotel Wing International Himeji
+- **ホテルウイング姫路** — 0.8 km — hotel — HOTEL WING
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

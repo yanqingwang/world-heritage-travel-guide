@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(x)"
 lat: 45.2
 lon: 29.5
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:28Z"
 ---
 
 # 多瑙河三角洲 / Danube Delta
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Danube Delta ESA23450088.jpeg · see Wikimedia Commons file page*
 
-![Danube Delta](https://whc.unesco.org/uploads/sites/site_588.jpg)
+![Black Sea Mouth of the Danube River.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Black_Sea_Mouth_of_the_Danube_River.webm/1280px--Black_Sea_Mouth_of_the_Danube_River.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
 
-*Danube Delta · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Black Sea Mouth of the Danube River.webm · Türk Deniz Araştırmaları Vakfı (TÜDAV) / Turkish Marine Research Foundation (TUDAV) · CC BY 3.0*
+
+![TulceaDonaudelta2010Video.ogv](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/TulceaDonaudelta2010Video.ogv/330px--TulceaDonaudelta2010Video.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*TulceaDonaudelta2010Video.ogv · Joergsam · CC BY-SA 3.0*
+
+!["The Hotel" of cormorans - Hotelul cormoranilor - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%22The_Hotel%22_of_cormorans_-_Hotelul_cormoranilor_-_panoramio.jpg/1280px-%22The_Hotel%22_of_cormorans_-_Hotelul_cormoranilor_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"The Hotel" of cormorans - Hotelul cormoranilor - panoramio.jpg · Ioan Cepaliga · CC BY 3.0*
+
+![1976 Fisher village in Danube delta.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/1976_Fisher_village_in_Danube_delta.jpg/1280px-1976_Fisher_village_in_Danube_delta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1976 Fisher village in Danube delta.jpg · RudolfSimon · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Delta Dunării, aflată în mare parte în Dobrogea, România și parțial în U
 - ✈ **Mihail Kogălniceanu International Airport (CND)** — 122.7 km
 - ✈ **Chişinău International Airport (RMO)** — 197.1 km
 - ✈ **Bacău George Enescu International  Airport (BCM)** — 248.6 km
+- ⛴ **Crisan** — 9.4 km
+- ⛴ **Crișan** — 9.4 km
+- ⛴ **Sulina** — 13.5 km
+- ⛴ **Caraorman** — 15.6 km
+- ⛴ **Mila 23** — 20.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6902.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Sunrise** — 7.3 km — star — 4★
+- **Danube Delta Resort** — 9.7 km — star — 4★
+- **Hotel Plutitor GG Gociman** — 9.8 km — star — 4★
+- **Paradisul Deltei** — 14.0 km — star — 4★
+- **Paradise Delta House** — 19.3 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

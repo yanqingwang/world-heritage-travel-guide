@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hyatt House New Jersey",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hyatt House",
+   "lat": 40.7159226,
+   "lon": -74.0338368,
+   "distance_km": 3.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton Garden Inn",
+   "lat": 40.7029734,
+   "lon": -74.0122339,
+   "distance_km": 3.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 40.7030515,
+   "lon": -74.0122707,
+   "distance_km": 3.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Jersey City on the Hudson",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hyatt Regency",
+   "lat": 40.7170953,
+   "lon": -74.0316024,
+   "distance_km": 3.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 40.7038609,
+   "lon": -74.0123272,
+   "distance_km": 3.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 818,
+ "stations": [
+  {
+   "name": "Liberty State Park",
+   "name_en": null,
+   "lat": 40.7103247,
+   "lon": -74.0559652,
+   "distance_km": 2.4,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Essex Street",
+   "name_en": null,
+   "lat": 40.7128648,
+   "lon": -74.0359523,
+   "distance_km": 2.7,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Marin Boulevard",
+   "name_en": null,
+   "lat": 40.7144578,
+   "lon": -74.0432714,
+   "distance_km": 2.7,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Jersey Avenue",
+   "name_en": null,
+   "lat": 40.7150464,
+   "lon": -74.0484689,
+   "distance_km": 2.8,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Exchange Place",
+   "name_en": null,
+   "lat": 40.7160215,
+   "lon": -74.0341139,
+   "distance_km": 3.0,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Richard Street",
+   "name_en": null,
+   "lat": 40.6992584,
+   "lon": -74.0785082,
+   "distance_km": 3.0,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Garfield Avenue",
+   "name_en": null,
+   "lat": 40.7105791,
+   "lon": -74.0711323,
+   "distance_km": 3.2,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Harborside Financial Center",
+   "name_en": null,
+   "lat": 40.7194979,
+   "lon": -74.0339995,
+   "distance_km": 3.4,
+   "operator": "New Jersey Transit"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Liberty Island",
+   "name_en": null,
+   "lat": 40.6898508,
+   "lon": -74.0476674,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Ellis Island",
+   "name_en": null,
+   "lat": 40.6989545,
+   "lon": -74.0404631,
+   "distance_km": 1.1,
+   "operator": null
+  },
+  {
+   "name": "Liberty State Park",
+   "name_en": null,
+   "lat": 40.7075327,
+   "lon": -74.0344078,
+   "distance_km": 2.1,
+   "operator": "Circle Line Cruises"
+  },
+  {
+   "name": "Liberty Harbor",
+   "name_en": null,
+   "lat": 40.7096231,
+   "lon": -74.0399336,
+   "distance_km": 2.2,
+   "operator": null
+  },
+  {
+   "name": "Warren Street",
+   "name_en": null,
+   "lat": 40.710974,
+   "lon": -74.0402573,
+   "distance_km": 2.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:43Z"
+}

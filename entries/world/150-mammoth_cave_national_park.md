@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(viii)(x)"
 lat: 37.186944444
 lon: -86.101111111
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:13Z"
 ---
 
 # 猛玛洞穴国家公园 / Mammoth Cave National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Mammoth Cave Rotunda (USGS Lwt02830).jpg · see Wikimedia Commons file page*
 
-![Mammoth Cave National Park](https://whc.unesco.org/uploads/sites/site_150.jpg)
+![A comic history of the United States (1880) (14783949313).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/A_comic_history_of_the_United_States_%281880%29_%2814783949313%29.jpg/1280px-A_comic_history_of_the_United_States_%281880%29_%2814783949313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mammoth Cave National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A comic history of the United States (1880) (14783949313).jpg · Internet Archive Book Images · No restrictions*
+
+![Accessible Tour parking area (4025db46-2f51-4c6d-bdcc-8f9920ddb079).JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Accessible_Tour_parking_area_%284025db46-2f51-4c6d-bdcc-8f9920ddb079%29.JPG/1280px-Accessible_Tour_parking_area_%284025db46-2f51-4c6d-bdcc-8f9920ddb079%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Accessible Tour parking area (4025db46-2f51-4c6d-bdcc-8f9920ddb079).JPG · NPS photo · Public domain*
+
+![Chroma Key Classificação Indicativa Livre Gloobinho (2017-2022).webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Chroma_Key_Classifica%C3%A7%C3%A3o_Indicativa_Livre_Gloobinho_%282017-2022%29.webm/1280px--Chroma_Key_Classifica%C3%A7%C3%A3o_Indicativa_Livre_Gloobinho_%282017-2022%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*Chroma Key Classificação Indicativa Livre Gloobinho (2017-2022).webm · Rafaelvictor28 · CC0*
+
+![Doyel Valley Overlook in Winter (2c65fe35-433b-4f46-a6a0-cbebe651fbf3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Doyel_Valley_Overlook_in_Winter_%282c65fe35-433b-4f46-a6a0-cbebe651fbf3%29.jpg/1280px-Doyel_Valley_Overlook_in_Winter_%282c65fe35-433b-4f46-a6a0-cbebe651fbf3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Doyel Valley Overlook in Winter (2c65fe35-433b-4f46-a6a0-cbebe651fbf3).jpg · NPS Photo · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,17 @@ Mammoth Cave National Park, located in the state of Kentucky, has the world's la
 - ✈ **Owensboro Daviess County Airport (OWB)** — 112.4 km
 - ✈ **Louisville Muhammad Ali International Airport (SDF)** — 114.0 km
 - ✈ **Nashville International Airport (BNA)** — 128.9 km
+- ⛴ **Green River Ferry (South)** — 1.3 km
+- ⛴ **Green River Ferry (North)** — 1.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11029.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Days Inn by Wyndham Cave City** — 12.6 km — chain — Days Inn
+- **Hampton Inn & Suites** — 12.9 km — chain — Hampton Inn & Suites
+- **Holiday Inn Express Horse Cave** — 14.5 km — chain — Holiday Inn Express
+- **Holiday Inn Express & Suites** — 25.6 km — chain — Holiday Inn Express & Suites
+- **Embassy Suites by Hilton Bowling Green** — 36.4 km — chain — Embassy Suites
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

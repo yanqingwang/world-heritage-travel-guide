@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Baotinglizumiaozuzizhi County"
 lat: 19.040516
 lon: 109.627203
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 保亭县呀诺达雨林文化旅游区 / Baotingxianyanuodayulin Cultural Tourism Area

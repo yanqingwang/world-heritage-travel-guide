@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(vii)"
 lat: 18.98333333
 lon: 20.66666667
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:43Z"
 ---
 
 # 乌尼昂加湖泊群 / Lakes of Ounianga

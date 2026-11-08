@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Electra Palace Athens",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.9738892,
+   "lon": 23.7315825,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hyatt Athens",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Grand Hyatt",
+   "lat": 37.95742,
+   "lon": 23.7183949,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Athens",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 37.9755674,
+   "lon": 23.75029,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Divani Caravel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.9730141,
+   "lon": 23.7513757,
+   "distance_km": 2.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Divani Apollon Palace & Thalasso",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.8285367,
+   "lon": 23.7715174,
+   "distance_km": 16.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 556,
+ "stations": [
+  {
+   "name": "Αριστίππου",
+   "name_en": "Aristippou",
+   "lat": 37.98029,
+   "lon": 23.7440155,
+   "distance_km": 1.8,
+   "operator": "ΕΟΤ"
+  },
+  {
+   "name": "Άγιος Γεώργιος",
+   "name_en": "Agios Georgios",
+   "lat": 37.9821045,
+   "lon": 23.7435617,
+   "distance_km": 1.9,
+   "operator": "ΕΟΤ"
+  },
+  {
+   "name": "Ρουφ",
+   "name_en": null,
+   "lat": 37.973633,
+   "lon": 23.7039652,
+   "distance_km": 2.0,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Ταύρος",
+   "name_en": null,
+   "lat": 37.9687965,
+   "lon": 23.6934298,
+   "distance_km": 2.9,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Ρέντης",
+   "name_en": null,
+   "lat": 37.9623421,
+   "lon": 23.668454,
+   "distance_km": 5.2,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Άγιοι Ανάργυροι",
+   "name_en": null,
+   "lat": 38.0218581,
+   "lon": 23.7184204,
+   "distance_km": 5.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Πύργος Βασιλίσσης",
+   "name_en": null,
+   "lat": 38.0397137,
+   "lon": 23.727456,
+   "distance_km": 7.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Πειραιάς",
+   "name_en": "Piraeus",
+   "lat": 37.9491311,
+   "lon": 23.64372,
+   "distance_km": 7.7,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "E7",
+   "name_en": null,
+   "lat": 37.9451441,
+   "lon": 23.6391433,
+   "distance_km": 8.2,
+   "operator": null
+  },
+  {
+   "name": "Πειραιάς Πορθμείο",
+   "name_en": "Piraeus Ferry Port",
+   "lat": 37.9487689,
+   "lon": 23.637218,
+   "distance_km": 8.2,
+   "operator": "ANEK LINES"
+  },
+  {
+   "name": "Αναχώρηση Μινωικών Γραμμών Κρήτης",
+   "name_en": null,
+   "lat": 37.9449291,
+   "lon": 23.636275,
+   "distance_km": 8.5,
+   "operator": "Minoan Lines"
+  },
+  {
+   "name": "Λιμένας Πειραιώς",
+   "name_en": "Piraeus Port",
+   "lat": 37.9413892,
+   "lon": 23.6323424,
+   "distance_km": 8.9,
+   "operator": "ΟΛΠ - Οργανισμός Λιμένος Πειραιώς"
+  },
+  {
+   "name": "Πειραιάς",
+   "name_en": null,
+   "lat": 37.9419453,
+   "lon": 23.6252337,
+   "distance_km": 9.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:53Z"
+}

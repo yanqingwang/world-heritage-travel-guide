@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Luoyang"
 lat: 33.744304
 lon: 111.880617
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 洛阳市白云山景区 / Baiyunshan Scenic Area

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Edinburgh Residence",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.9509339,
+   "lon": -3.21757,
+   "distance_km": 11.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Chester Residence",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.9505558,
+   "lon": -3.2171107,
+   "distance_km": 11.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Caledonian Edinburgh, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Curio Collection",
+   "lat": 55.9495574,
+   "lon": -3.2074836,
+   "distance_km": 12.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Glenbervie House Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 56.0377926,
+   "lon": -3.8463214,
+   "distance_km": 28.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dakota",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.9821211,
+   "lon": -3.4001562,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 417,
+ "stations": [
+  {
+   "name": "Dalmeny",
+   "name_en": null,
+   "lat": 55.9862498,
+   "lon": -3.3815031,
+   "distance_km": 1.4,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "North Queensferry",
+   "name_en": null,
+   "lat": 56.0124476,
+   "lon": -3.3946556,
+   "distance_km": 1.6,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Inverkeithing",
+   "name_en": null,
+   "lat": 56.0352386,
+   "lon": -3.3954171,
+   "distance_km": 4.1,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Dalgety Bay",
+   "name_en": null,
+   "lat": 56.0422731,
+   "lon": -3.367249,
+   "distance_km": 5.0,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Rosyth",
+   "name_en": null,
+   "lat": 56.0453763,
+   "lon": -3.4263289,
+   "distance_km": 5.8,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Edinburgh Gateway",
+   "name_en": null,
+   "lat": 55.9409388,
+   "lon": -3.3201335,
+   "distance_km": 7.6,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Aberdour",
+   "name_en": null,
+   "lat": 56.0547554,
+   "lon": -3.3009757,
+   "distance_km": 8.3,
+   "operator": "ScotRail"
+  },
+  {
+   "name": "Dunfermline City",
+   "name_en": null,
+   "lat": 56.0681116,
+   "lon": -3.4523618,
+   "distance_km": 8.7,
+   "operator": "ScotRail"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Hawes Pier",
+   "name_en": null,
+   "lat": 55.9917662,
+   "lon": -3.3862713,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Rosyth Cruise Terminal",
+   "name_en": null,
+   "lat": 56.023707,
+   "lon": -3.4374591,
+   "distance_km": 4.2,
+   "operator": null
+  },
+  {
+   "name": "Inchcolm",
+   "name_en": null,
+   "lat": 56.0304853,
+   "lon": -3.2991769,
+   "distance_km": 6.6,
+   "operator": null
+  },
+  {
+   "name": "Cruise Liner Terminal",
+   "name_en": null,
+   "lat": 55.9804341,
+   "lon": -3.1816243,
+   "distance_km": 13.0,
+   "operator": null
+  },
+  {
+   "name": "Fisherrow Harbour",
+   "name_en": null,
+   "lat": 55.9458169,
+   "lon": -3.0675434,
+   "distance_km": 20.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:53Z"
+}

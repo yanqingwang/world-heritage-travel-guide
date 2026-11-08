@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(i)(ii)(iv)"
 lat: 37.223055555
 lon: 38.9225
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:47Z"
 ---
 
 # 哥贝克力石阵 / Göbekli Tepe
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:56Z"
 
 *Göbekli Tepe, Urfa.jpg · see Wikimedia Commons file page*
 
-![Göbekli Tepe](https://whc.unesco.org/uploads/sites/site_1572.jpg)
+![Göbekli Tepe location map (3 to 2).PNG](https://upload.wikimedia.org/wikipedia/commons/0/0d/G%C3%B6bekli_Tepe_location_map_%283_to_2%29.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Göbekli Tepe · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Göbekli Tepe location map (3 to 2).PNG · Bjoertvedt · CC BY-SA 3.0*
+
+![Göbekli Tepe location map.PNG](https://upload.wikimedia.org/wikipedia/commons/0/0f/G%C3%B6bekli_Tepe_location_map.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Göbekli Tepe location map.PNG · Bjoertvedt · CC BY-SA 3.0*
+
+![Anatolian Legacy of Strong Female Symbols.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Anatolian_Legacy_of_Strong_Female_Symbols.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Anatolian Legacy of Strong Female Symbols.jpg · Bernietaylor · CC BY 4.0*
+
+![Archäologiepark Göbekli Tepe.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Arch%C3%A4ologiepark_G%C3%B6bekli_Tepe.jpg/1280px-Arch%C3%A4ologiepark_G%C3%B6bekli_Tepe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archäologiepark Göbekli Tepe.jpg · Philrock · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Göbeklitepe veya Göbekli Tepe, Türkiye'nin Güneydoğu Anadolu Bölgesi'ndeki
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **DoubleTree by Hilton Sanliurfa** — 11.2 km — star — 5★ · DoubleTree
+- **El-Ruha Otel** — 14.8 km — star — 5★
+- **Hilton Garden Inn Sanliurfa** — 14.8 km — star — 4★ · Hilton
+- **Manici Hotel** — 14.6 km — star — 3★
+- **Newton Hotel** — 13.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iv)"
 lat: 38.01131
 lon: -3.37122
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:27Z"
 ---
 
 # 乌韦达和巴埃萨城文艺复兴时期的建筑群 / Renaissance Monumental Ensembles of Úbeda and Baeza

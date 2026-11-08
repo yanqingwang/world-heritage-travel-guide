@@ -1,0 +1,96 @@
+{
+ "hotels": [
+  {
+   "name": "هتل پارسیان بوعلی",
+   "name_en": "Parsian BuAli Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 34.7849112,
+   "lon": 48.5133463,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارسیان همدان",
+   "name_en": "Parsian Hamedan Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 34.7806993,
+   "lon": 48.486722,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل هگمتانه",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.8041841,
+   "lon": 48.5201549,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل باباطاهر",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.8102533,
+   "lon": 48.5106689,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل یاس",
+   "name_en": "Yas hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.7988709,
+   "lon": 48.5158144,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 22,
+ "stations": [
+  {
+   "name": "ایستگاه راه آهن همدان",
+   "name_en": "Hamedan",
+   "lat": 34.8692859,
+   "lon": 48.6199113,
+   "distance_km": 11.8,
+   "operator": null
+  },
+  {
+   "name": "کوریجان",
+   "name_en": "Kurijan",
+   "lat": 35.0233102,
+   "lon": 48.7018993,
+   "distance_km": 29.5,
+   "operator": null
+  },
+  {
+   "name": "Aq Bolagh",
+   "name_en": "Aq Bolagh",
+   "lat": 35.0474079,
+   "lon": 48.1970644,
+   "distance_km": 39.6,
+   "operator": null
+  },
+  {
+   "name": "فامنین",
+   "name_en": "Famenin",
+   "lat": 35.0509106,
+   "lon": 48.9163899,
+   "distance_km": 45.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:02:00Z"
+}

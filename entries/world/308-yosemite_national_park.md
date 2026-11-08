@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(viii)"
 lat: 37.7425
 lon: -119.5375
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:20Z"
 ---
 
 # 约塞米特蒂国家公园 / Yosemite National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Half Dome with Eastern Yosemite Valley (50MP).jpg · see Wikimedia Commons file page*
 
-![Yosemite National Park](https://whc.unesco.org/uploads/sites/site_308.jpg)
+![500px photo (109919815).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/500px_photo_%28109919815%29.jpeg/1280px-500px_photo_%28109919815%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Yosemite National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*500px photo (109919815).jpeg · Swanster · CC BY 3.0*
+
+![Bomen in Yosemite park, RP-F-F16143.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bomen_in_Yosemite_park%2C_RP-F-F16143.jpg/1280px-Bomen_in_Yosemite_park%2C_RP-F-F16143.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bomen in Yosemite park, RP-F-F16143.jpg · Rijksmuseum · CC0*
+
+![Cali-46-solo tree (6558647667).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Cali-46-solo_tree_%286558647667%29.jpg/1280px-Cali-46-solo_tree_%286558647667%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cali-46-solo tree (6558647667).jpg · Weldon Kennedy from London, UK · CC BY 2.0*
+
+![California (9973881465).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/California_%289973881465%29.jpg/1280px-California_%289973881465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*California (9973881465).jpg · Kate Nevens · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,16 @@ Yosemite National Park lies in the heart of California. With its 'hanging' valle
 - ✈ **Mammoth Yosemite Airport (MMH)** — 62.5 km
 - ✈ **Merced Regional Macready Field (MCE)** — 100.0 km
 - ✈ **Fresno Yosemite International Airport (FAT)** — 108.7 km
+- ⛴ **Saddlebag Lake Resort Water Taxi** — 34.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9694.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Holiday Inn Express & Suites Oakhurst-Yosemite Park Area** — 45.6 km — chain — Holiday Inn Express & Suites
+- **Hampton Inn Oakhurst-Yosemite** — 45.8 km — chain — Hampton
+- **Yosemite Gateway Inn** — 46.3 km — chain — Best Western
+- **BEST WESTERN PLUS Yosemite Way Station Motel** — 47.4 km — chain
+- **The Westin Monache Resort, Mammoth** — 49.6 km — chain — Westin
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

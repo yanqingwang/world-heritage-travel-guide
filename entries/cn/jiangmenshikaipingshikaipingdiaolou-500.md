@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Jiangmen City"
 lat: 22.378728
 lon: 112.586021
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 江门市开平市开平碉楼文化旅游区 / Kaipingdiaolou Cultural Tourism Area
@@ -21,10 +21,6 @@ updated_at: "2026-11-07T22:58:14Z"
 > 广东省 · 江门市 · 古镇村落
 
 ## 图片 / Images
-
-![Zili Village Yunhuan Lou 0005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Zili_Village_Yunhuan_Lou_0005.jpg/1280px-Zili_Village_Yunhuan_Lou_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zili Village Yunhuan Lou 0005.jpg · Stefan Fussan · CC BY-SA 3.0*
 
 ![江门市国土空间总体规划（2021—2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%E6%B1%9F%E9%97%A8%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B1%9F%E9%97%A8%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021%E2%80%942035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

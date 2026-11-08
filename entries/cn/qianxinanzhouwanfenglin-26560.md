@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Qianxinanbuyizumiaozu Autonomous Prefecture"
 lat: 24.999408
 lon: 104.930256
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 黔西南州万峰林景区 / Wanfenglin Scenic Area

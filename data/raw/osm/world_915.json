@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Sandton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": -26.1014501,
+   "lon": 28.0601717,
+   "distance_km": 42.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Sandton",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -26.1042381,
+   "lon": 28.0613937,
+   "distance_km": 42.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Johannesburg",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": -26.143739,
+   "lon": 28.0431868,
+   "distance_km": 42.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Westcliff",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": -26.1709372,
+   "lon": 28.0317741,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Park Hyatt Johannesburg",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Park Hyatt",
+   "lat": -26.1481734,
+   "lon": 28.0457449,
+   "distance_km": 43.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 157,
+ "stations": [
+  {
+   "name": "Tarlton",
+   "name_en": null,
+   "lat": -26.0801283,
+   "lon": 27.6399861,
+   "distance_km": 12.8,
+   "operator": null
+  },
+  {
+   "name": "Magaliesburg",
+   "name_en": null,
+   "lat": -26.0016586,
+   "lon": 27.5376624,
+   "distance_km": 13.0,
+   "operator": null
+  },
+  {
+   "name": "Battery",
+   "name_en": null,
+   "lat": -26.1163655,
+   "lon": 27.6858741,
+   "distance_km": 16.7,
+   "operator": null
+  },
+  {
+   "name": "Seekmore",
+   "name_en": null,
+   "lat": -26.0026745,
+   "lon": 27.488426,
+   "distance_km": 17.8,
+   "operator": null
+  },
+  {
+   "name": "Wes-Rand",
+   "name_en": null,
+   "lat": -26.1118949,
+   "lon": 27.7486084,
+   "distance_km": 18.2,
+   "operator": null
+  },
+  {
+   "name": "Ferguson",
+   "name_en": null,
+   "lat": -26.1199579,
+   "lon": 27.7412046,
+   "distance_km": 18.7,
+   "operator": null
+  },
+  {
+   "name": "Krugersdorp",
+   "name_en": null,
+   "lat": -26.1089211,
+   "lon": 27.7709411,
+   "distance_km": 19.1,
+   "operator": null
+  },
+  {
+   "name": "Millsite",
+   "name_en": null,
+   "lat": -26.1280664,
+   "lon": 27.7394002,
+   "distance_km": 19.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:14Z"
+}

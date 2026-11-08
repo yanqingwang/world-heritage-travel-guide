@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Daxinganling"
 lat: 53.487363
 lon: 122.366127
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 大兴安岭地区北极村旅游景区 / Daxing'anling Prefecture

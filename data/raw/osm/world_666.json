@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hyatt Place Butwal",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Place",
+   "lat": 27.6862184,
+   "lon": 83.4714441,
+   "distance_km": 29.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bodhi Villa",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 27.6088177,
+   "lon": 83.4726378,
+   "distance_km": 24.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ameet hotel",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": 27.6247787,
+   "lon": 83.4958969,
+   "distance_km": 26.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ghimire Hotel and lodge",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 27.661043,
+   "lon": 83.0362996,
+   "distance_km": 30.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Shangrila",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.51469,
+   "lon": 83.4538348,
+   "distance_km": 17.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 221,
+ "stations": [
+  {
+   "name": "Nautanwa",
+   "name_en": null,
+   "lat": 27.4247284,
+   "lon": 83.420198,
+   "distance_km": 15.6,
+   "operator": "NER"
+  },
+  {
+   "name": "Naugarh",
+   "name_en": null,
+   "lat": 27.2748041,
+   "lon": 83.088518,
+   "distance_km": 29.5,
+   "operator": "NER"
+  },
+  {
+   "name": "Siddharth Nagar",
+   "name_en": null,
+   "lat": 27.27547,
+   "lon": 83.0880597,
+   "distance_km": 29.5,
+   "operator": null
+  },
+  {
+   "name": "Chilhia",
+   "name_en": null,
+   "lat": 27.3467476,
+   "lon": 82.9961001,
+   "distance_km": 31.4,
+   "operator": "NER"
+  },
+  {
+   "name": "Jhamat",
+   "name_en": null,
+   "lat": 27.2054946,
+   "lon": 83.3439602,
+   "distance_km": 31.4,
+   "operator": "NER"
+  },
+  {
+   "name": "Bridgemanganj",
+   "name_en": null,
+   "lat": 27.195288,
+   "lon": 83.1969574,
+   "distance_km": 32.8,
+   "operator": "NER"
+  },
+  {
+   "name": "Shohratgarh",
+   "name_en": null,
+   "lat": 27.3920641,
+   "lon": 82.9568893,
+   "distance_km": 33.0,
+   "operator": "NER"
+  },
+  {
+   "name": "Purandarpur",
+   "name_en": null,
+   "lat": 27.1842693,
+   "lon": 83.328783,
+   "distance_km": 33.5,
+   "operator": "NER"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:00:34Z"
+}

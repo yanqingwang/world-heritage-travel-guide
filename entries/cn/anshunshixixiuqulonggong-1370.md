@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Anshun City"
 lat: 26.112673
 lon: 105.88403
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 安顺市西秀区龙宫景区 / Xixiu, Anshun

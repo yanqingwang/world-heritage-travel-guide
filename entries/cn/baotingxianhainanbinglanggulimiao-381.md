@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Baotinglizumiaozuzizhi County"
 lat: 18.882055
 lon: 109.67537
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 保亭县海南槟榔谷黎苗文化旅游区 / Baotingxianhainanbinglanggulimiao Cultural Tourism Area

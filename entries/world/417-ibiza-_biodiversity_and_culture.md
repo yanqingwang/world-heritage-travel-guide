@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iii)(iv)(ix)(x)"
 lat: 38.98
 lon: 1.43
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:24Z"
 ---
 
 # 伊维萨岛的生物多样性和特有文化 / Ibiza, Biodiversity and Culture
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Ibiza rock volcano (747230830).jpg · see Wikimedia Commons file page*
 
-![Ibiza, Biodiversity and Culture](https://whc.unesco.org/uploads/sites/site_417.jpg)
+![De-Ibiza.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Ibiza, Biodiversity and Culture · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Ibiza.ogg · Jeuwre · CC BY-SA 4.0*
+
+![20230720 182914 View on a small Es Vedra island near Ibiza.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/20230720_182914_View_on_a_small_Es_Vedra_island_near_Ibiza.jpg/1280px-20230720_182914_View_on_a_small_Es_Vedra_island_near_Ibiza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20230720 182914 View on a small Es Vedra island near Ibiza.jpg · Leon petrosyan · CC BY-SA 4.0*
+
+![Agave von Käfer ausgeweidet.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Agave_von_K%C3%A4fer_ausgeweidet.jpg/1280px-Agave_von_K%C3%A4fer_ausgeweidet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Agave von Käfer ausgeweidet.jpg · JanManu · CC BY-SA 4.0*
+
+![Aurelio F. Rodríguez in Ibiza, Spain (2021).jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Aurelio_F._Rodr%C3%ADguez_in_Ibiza%2C_Spain_%282021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aurelio F. Rodríguez in Ibiza, Spain (2021).jpg · MariVRodriguez · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Esta isla ofrece un excelente ejemplo de la interacción entre los ecosistemas m
 - ✈ **Ibiza Airport (IBZ)** — 12.9 km
 - ✈ **Palma de Mallorca Airport (PMI)** — 129.4 km
 - ✈ **Valencia Airport (VLC)** — 174.0 km
+- ⛴ **Eivissa** — 7.4 km
+- ⛴ **Estació Marìtima de Formentera** — 7.5 km
+- ⛴ **Marina Ibiza** — 7.5 km
+- ⛴ **Marina Botafoc** — 7.8 km
+- ⛴ **Estación Marítima Ibiza-Botafoc** — 8.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9046.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ibiza Gran Hotel** — 7.1 km — star — 5★
+- **Ocean Drive Talamanca** — 7.4 km — star — 5★ · OD Hotels
+- **Gran Hotel Montesol Ibiza, Curio Collection by Hilton** — 7.8 km — star — 5★ · Hilton
+- **The Standard Ibiza** — 7.8 km — star — 5★ · Hyatt
+- **Insotel Fenicia Prestige Suites & SPA** — 8.5 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

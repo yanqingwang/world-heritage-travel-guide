@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Alashan League"
 lat: 41.088816
 lon: 101.071953
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 阿拉善盟胡杨林旅游区 / Alxa League

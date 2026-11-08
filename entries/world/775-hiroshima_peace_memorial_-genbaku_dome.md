@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(vi)"
 lat: 34.395555555
 lon: 132.453611111
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:32Z"
 ---
 
 # 广岛和平纪念公园(原爆遗址) / Hiroshima Peace Memorial (Genbaku Dome)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Genbaku Dome04-r.JPG · see Wikimedia Commons file page*
 
-![Hiroshima Peace Memorial (Genbaku Dome)](https://whc.unesco.org/uploads/sites/site_775.jpg)
+![018 Hiroshima-Japan 2008-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/018_Hiroshima-Japan_2008-10.jpg/1280px-018_Hiroshima-Japan_2008-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hiroshima Peace Memorial (Genbaku Dome) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*018 Hiroshima-Japan 2008-10.jpg · RuinDig/Yuki Uchida · CC BY 4.0*
+
+![019 Hiroshima-Japan 2008-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/019_Hiroshima-Japan_2008-10.jpg/1280px-019_Hiroshima-Japan_2008-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*019 Hiroshima-Japan 2008-10.jpg · RuinDig/Yuki Uchida · CC BY 4.0*
+
+![029 Hiroshima-Japan 2008-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/029_Hiroshima-Japan_2008-10.jpg/1280px-029_Hiroshima-Japan_2008-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*029 Hiroshima-Japan 2008-10.jpg · RuinDig/Yuki Uchida · CC BY 4.0*
+
+![1 Chome Ōtemachi, Naka-ku, Hiroshima-shi, Hiroshima-ken 730-0051, Japan - panoramio (11).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1_Chome_%C5%8Ctemachi%2C_Naka-ku%2C_Hiroshima-shi%2C_Hiroshima-ken_730-0051%2C_Japan_-_panoramio_%2811%29.jpg/1280px-1_Chome_%C5%8Ctemachi%2C_Naka-ku%2C_Hiroshima-shi%2C_Hiroshima-ken_730-0051%2C_Japan_-_panoramio_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 Chome Ōtemachi, Naka-ku, Hiroshima-shi, Hiroshima-ken 730-0051, Japan - panoramio (11).jpg · warabi hatogaya · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ The Hiroshima Peace Memorial (Genbaku Dome) was the only structure left standing
 - ✈ **Iwakuni Kintaikyo Airport (IWK)** — 33.6 km
 - ✈ **Hiroshima Airport (HIJ)** — 42.9 km
 - ✈ **Matsuyama Airport (MYJ)** — 67.2 km
+- 🚉 **本通** — 0.4 km
+- 🚉 **県庁前** — 0.4 km
+- 🚉 **城北** — 1.2 km
+- 🚉 **新白島** — 1.6 km
+- 🚉 **横川** — 1.7 km
+- ⛴ **元安桟橋** — 0.2 km
+- ⛴ **Hiroshima World Heritage River Cruise** — 0.2 km
+- ⛴ **広島港宇品旅客ターミナル** — 4.8 km
+- ⛴ **Hiroshima Port Cruise Terminal** — 5.0 km
+- ⛴ **広島国際フェリーポート** — 5.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1534.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **蔵宿いろは** — 16.1 km — star — Kurayado Iroha · 5★
+- **EN HOTEL** — 1.4 km — star — EN Hotel Hiroshima · 3★
+- **宮島シーサイドホテル** — 14.9 km — star — Miyajima Seaside Hotel · 3★
+- **旅館水羽荘** — 16.8 km — star — Auberge Mizuhaso · 3★
+- **山一別館** — 15.9 km — star — Yamaichi Bekkan · 2★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

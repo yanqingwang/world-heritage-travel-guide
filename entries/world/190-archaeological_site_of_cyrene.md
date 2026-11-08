@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(vi)"
 lat: 32.816666666
 lon: 21.85
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:15Z"
 ---
 
 # 昔兰尼考古遗址 / Archaeological Site of Cyrene
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Archaeological Site of Cyrene-109025.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Cyrene](https://whc.unesco.org/uploads/sites/site_190.jpg)
+![0 The Road To Cyrene.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/0_The_Road_To_Cyrene.jpg/1280px-0_The_Road_To_Cyrene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Cyrene · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0 The Road To Cyrene.jpg · Sanadalahlafi · CC BY-SA 4.0*
+
+![1 Caravanserai 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1_Caravanserai_1.jpg/1280px-1_Caravanserai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 Caravanserai 1.jpg · slsphotolibrary · CC BY-SA 2.0*
+
+![1 Caravanserai 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/1_Caravanserai_2.jpg/1280px-1_Caravanserai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 Caravanserai 2.jpg · slsphotolibrary · CC BY-SA 2.0*
+
+![1 Caravanserai 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1_Caravanserai_3.jpg/1280px-1_Caravanserai_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 Caravanserai 3.jpg · slsphotolibrary · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ A colony of the Greeks of Thera, Cyrene was one of the principal cities in the H
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فندق مرحبا-البيضاء** — 7.9 km — hotel — Marhaba Hotel -Al Bayda
+- **فندق مرحباً السياحي** — 7.9 km — hotel — MARHABA HOTEL
+- **فندق مرحبا السياحي** — 7.9 km — hotel
+- **فندق المدينة-البيضاء** — 8.1 km — hotel — AL MADINA Hotel -Al Bayda
+- **فندق لؤلؤة الخليج** — 8.9 km — hotel — Lulua Al Khaleej Hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

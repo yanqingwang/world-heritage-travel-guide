@@ -1,0 +1,81 @@
+{
+ "hotels": [
+  {
+   "name": "Mantra Aqueous Port Douglas",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -16.4848647,
+   "lon": 145.4658583,
+   "distance_km": 36.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Paradiso",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -16.7444732,
+   "lon": 145.6706649,
+   "distance_km": 40.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton Grand Mirage Resort, Port Douglas",
+   "name_en": null,
+   "stars": null,
+   "brand": "Sheraton",
+   "lat": -16.5009007,
+   "lon": 145.465129,
+   "distance_km": 37.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman Palm Cove Sea Temple Resort & Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": "Pullman",
+   "lat": -16.7527718,
+   "lon": 145.6705838,
+   "distance_km": 41.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thala Beach Nature Reserve",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.5869485,
+   "lon": 145.5181003,
+   "distance_km": 36.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 54,
+ "stations": [
+  {
+   "name": "Kuranda",
+   "name_en": null,
+   "lat": -16.818485,
+   "lon": 145.6390891,
+   "distance_km": 49.6,
+   "operator": "Queensland Rail"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Daintree River Ferry",
+   "name_en": null,
+   "lat": -16.2608804,
+   "lon": 145.3976426,
+   "distance_km": 45.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:58:23Z"
+}

@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(vi)"
 lat: 29.935
 lon: 52.89
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:12Z"
 ---
 
 # 波斯波利斯 / Persepolis
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Gate of All Nations, Persepolis.jpg · see Wikimedia Commons file page*
 
-![Persepolis](https://whc.unesco.org/uploads/sites/site_114.jpg)
+![030614-Perspolice-IMG 1273-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/030614-Perspolice-IMG_1273-2.jpg/1280px-030614-Perspolice-IMG_1273-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Persepolis · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*030614-Perspolice-IMG 1273-2.jpg · Safa.daneshvar · CC BY 4.0*
+
+![030614-Safa-Perspolice-IMG 1291-2.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d2/030614-Safa-Perspolice-IMG_1291-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*030614-Safa-Perspolice-IMG 1291-2.jpg · Safa.daneshvar · CC BY 4.0*
+
+![Apadana palace.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Apadana_palace.jpg/1280px-Apadana_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Apadana palace.jpg · Mahest · CC BY-SA 3.0*
+
+![Apadana1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Apadana1.jpg/1280px-Apadana1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Apadana1.jpg · Mahest · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Founded by Darius I in 518 B.C., Persepolis was the capital of the Achaemenid Em
 - ✈ **Shiraz Shahid Dastghaib International Airport (SYZ)** — 52.7 km
 - ✈ **Gachsaran Airport (GCH)** — 202.6 km
 - ✈ **Bushehr Airport (BUZ)** — 227.5 km
+- 🚉 **ایستگاه قطار تخت جمشید** — 9.5 km
+- 🚉 **ایستگاه راه آهن سعادت شهر** — 27.3 km
+- 🚉 **ایستگاه راه آهن شیراز** — 48.1 km
+- 🚉 **ایستگاه مترو امام حسین** — 48.9 km
+- 🚉 **ایستگاه مترو نمازی** — 49.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5833.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل بزرگ شیراز** — 46.1 km — star — Shiraz Grand Hotel · 5★
+- **هتل هما** — 48.0 km — star — Homa Hotel · 5★
+- **هتل بزرگ چمران** — 49.4 km — star — Chamran Grand Hotel · 5★
+- **هتل رویال شیراز** — 46.6 km — star — Royal Shiraz Hotel · 4★
+- **هتل بین المللی ستارگان** — 48.2 km — star — Stars Hotel · 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

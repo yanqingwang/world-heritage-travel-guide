@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(ii)(vi)"
 lat: 48.804722222
 lon: 2.120277777
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:11Z"
 ---
 
 # 凡尔赛宫及其园林 / Palace and Park of Versailles
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 083.jpg · see Wikimedia Commons file page*
 
-![Palace and Park of Versailles](https://whc.unesco.org/uploads/sites/site_83.jpg)
+!["A Summer Trip," volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 27).jpg](https://upload.wikimedia.org/wikipedia/commons/1/11/%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Palace and Park of Versailles · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"A Summer Trip," volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 27).jpg · Johnson, John G., 1841-1917; F. Frith & Co · Public domain*
+
+!["A Summer Trip," volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 28).jpg](https://upload.wikimedia.org/wikipedia/commons/1/12/%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*"A Summer Trip," volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 28).jpg · Johnson, John G., 1841-1917; F. Frith & Co · Public domain*
+
+!["A Summer Trip," volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 32).jpg](https://upload.wikimedia.org/wikipedia/commons/5/5c/%22A_Summer_Trip%2C%22_volume_1_-_DPLA_-_1d42a547fd82666992d1a2bc6a51bd4f_%28page_32%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*"A Summer Trip," volume 1 - DPLA - 1d42a547fd82666992d1a2bc6a51bd4f (page 32).jpg · Johnson, John G., 1841-1917; F. Frith & Co · Public domain*
+
+![10-8-26, Versailles, Assemblée nationale, arrivée d'un parlementaire - btv1b531667360.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/10-8-26%2C_Versailles%2C_Assembl%C3%A9e_nationale%2C_arriv%C3%A9e_d%27un_parlementaire_-_btv1b531667360.jpg/1280px-10-8-26%2C_Versailles%2C_Assembl%C3%A9e_nationale%2C_arriv%C3%A9e_d%27un_parlementaire_-_btv1b531667360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10-8-26, Versailles, Assemblée nationale, arrivée d'un parlementaire - btv1b531667360.jpg · Agence Rol. Agence photographique (commanditaire) · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Lieu de résidence privilégié de la monarchie française de Louis XIV à Louis
 - ✈ **Paris-Orly Airport (ORY)** — 19.4 km
 - ✈ **Charles de Gaulle International Airport (CDG)** — 39.0 km
 - ✈ **Beauvais-Tillé airport (BVA)** — 72.2 km
+- 🚉 **Versailles Château Rive Gauche** — 0.8 km
+- 🚉 **Versailles Rive Droite** — 1.3 km
+- 🚉 **Versailles-Chantiers** — 1.5 km
+- 🚉 **Montreuil** — 2.3 km
+- 🚉 **Porchefontaine** — 2.6 km
+- ⛴ **Embarcadère du Chalet des Îles** — 12.2 km
+- ⛴ **Beaugrenelle** — 12.7 km
+- ⛴ **Tour-Eiffel** — 14.1 km
+- ⛴ **Bateaux parisiens** — 14.1 km
+- ⛴ **Bateaux-Mouches** — 15.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8220.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Les Lumières** — 0.3 km — star — 5★
+- **Le Grand Contrôle** — 0.4 km — star — 5★ · Areilles
+- **Waldorf Astoria Versailles - Trianon Palace** — 0.7 km — star — 5★ · Waldorf Astoria
+- **Molitor** — 10.7 km — star — 5★ · Accor
+- **Nest Paris La Défense** — 13.2 km — star — 5★ · MGallery
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

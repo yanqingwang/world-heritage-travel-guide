@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Mövenpick Nabatean Castle Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 30.288498,
+   "lon": 35.4565191,
+   "distance_km": 4.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Silk Road Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 30.3253632,
+   "lon": 35.4711707,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Al-Rashid Hotel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 30.3218493,
+   "lon": 35.4800161,
+   "distance_km": 3.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crowne Plaza",
+   "name_en": "Crowne Plaza",
+   "stars": null,
+   "brand": null,
+   "lat": 30.3260414,
+   "lon": 35.4654884,
+   "distance_km": 2.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mövenpick Resort Petra",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.3254303,
+   "lon": 35.4692919,
+   "distance_km": 2.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 74,
+ "stations": [
+  {
+   "name": "محطة سمنة",
+   "name_en": "Mahattat Samna",
+   "lat": 30.169766,
+   "lon": 35.653459,
+   "distance_km": 27.1,
+   "operator": null
+  },
+  {
+   "name": "محطة الجردانة",
+   "name_en": "Al Jirdana Station",
+   "lat": 30.3283063,
+   "lon": 35.7687613,
+   "distance_km": 31.5,
+   "operator": null
+  },
+  {
+   "name": "معان",
+   "name_en": "Ma Aan",
+   "lat": 30.1821099,
+   "lon": 35.7664254,
+   "distance_km": 35.3,
+   "operator": null
+  },
+  {
+   "name": "رأس النقب",
+   "name_en": "Ras al Naqb",
+   "lat": 30.0025997,
+   "lon": 35.4895273,
+   "distance_km": 36.6,
+   "operator": null
+  },
+  {
+   "name": "محطة عنيزة",
+   "name_en": "Qalat Aneiza",
+   "lat": 30.487034,
+   "lon": 35.79799,
+   "distance_km": 38.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:59:39Z"
+}

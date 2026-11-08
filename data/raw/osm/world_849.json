@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Canakkale",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree by Hilton",
+   "lat": 40.127821,
+   "lon": 26.4088983,
+   "distance_km": 23.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Anemos Otel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.2318657,
+   "lon": 25.8983864,
+   "distance_km": 42.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Çınarlı Kasrı",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.1287704,
+   "lon": 25.9398681,
+   "distance_km": 31.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hisarlik Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 39.9562472,
+   "lon": 26.2480987,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tusan Hotel Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.0333543,
+   "lon": 26.3380899,
+   "distance_km": 11.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 158,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Akçansa Limanı",
+   "name_en": null,
+   "lat": 39.8795214,
+   "lon": 26.1526667,
+   "distance_km": 11.4,
+   "operator": "AKÇANSA Çimento Sanayii  ve Tic. A.Ş."
+  },
+  {
+   "name": "Geyikli Feribot İskelesi",
+   "name_en": null,
+   "lat": 39.8197353,
+   "lon": 26.1605354,
+   "distance_km": 16.7,
+   "operator": "GESTAŞ"
+  },
+  {
+   "name": "Bozcaada Feribot İskelesi",
+   "name_en": "Bozcaada Ferry Terminal",
+   "lat": 39.8346166,
+   "lon": 26.0739341,
+   "distance_km": 19.6,
+   "operator": null
+  },
+  {
+   "name": "Gestaş Bozcaada Feribot İskelesi",
+   "name_en": null,
+   "lat": 39.8346066,
+   "lon": 26.0727764,
+   "distance_km": 19.7,
+   "operator": null
+  },
+  {
+   "name": "Poyraz Limanı",
+   "name_en": null,
+   "lat": 39.8193342,
+   "lon": 26.0734519,
+   "distance_km": 20.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:56Z"
+}

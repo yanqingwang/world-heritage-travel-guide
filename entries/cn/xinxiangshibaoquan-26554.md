@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Xinxiang"
 lat: 35.449525
 lon: 113.518278
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 新乡市宝泉旅游区 / Xinxiang

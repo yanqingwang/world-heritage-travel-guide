@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 30.328888888
 lon: 35.440277777
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:20Z"
 ---
 
 # 佩特拉 / Petra
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *The Treasury, Petra, Jordan5.jpg · see Wikimedia Commons file page*
 
-![Petra](https://whc.unesco.org/uploads/sites/site_326.jpg)
+![2019 Israel Jordanien 06167 Petra Altar of Sacrifice View Point.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2019_Israel_Jordanien_06167_Petra_Altar_of_Sacrifice_View_Point.JPG/1280px-2019_Israel_Jordanien_06167_Petra_Altar_of_Sacrifice_View_Point.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Petra · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2019 Israel Jordanien 06167 Petra Altar of Sacrifice View Point.JPG · Steffen 962 · CC BY-SA 4.0*
+
+![24 Petra (225) (13251434654).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/24_Petra_%28225%29_%2813251434654%29.jpg/1280px-24_Petra_%28225%29_%2813251434654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*24 Petra (225) (13251434654).jpg · xorge · CC BY-SA 2.0*
+
+![A Bedouin boy in Petra.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_Bedouin_boy_in_Petra.jpg/1280px-A_Bedouin_boy_in_Petra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Bedouin boy in Petra.jpg · Palimpsestlover · CC BY-SA 4.0*
+
+![A bedouin with his camel at the Treasury.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/A_bedouin_with_his_camel_at_the_Treasury.jpg/1280px-A_bedouin_with_his_camel_at_the_Treasury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A bedouin with his camel at the Treasury.jpg · SinanDira · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Inhabited since prehistoric times, this Nabataean caravan-city, situated between
 - ✈ **Ramon International Airport (ETM)** — 78.5 km
 - ✈ **King Hussein International Airport (AQJ)** — 89.5 km
 - ✈ **Taba International Airport (TCP)** — 103.8 km
+- 🚉 **محطة سمنة** — 27.1 km
+- 🚉 **محطة الجردانة** — 31.5 km
+- 🚉 **معان** — 35.3 km
+- 🚉 **رأس النقب** — 36.6 km
+- 🚉 **محطة عنيزة** — 38.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7269.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Mövenpick Nabatean Castle Hotel** — 4.8 km — star — 5★
+- **Silk Road Hotel** — 3.0 km — star — 3★
+- **Al-Rashid Hotel** — 3.9 km — star — 1★
+- **Crowne Plaza** — 2.4 km — chain — Crowne Plaza
+- **Mövenpick Resort Petra** — 2.8 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

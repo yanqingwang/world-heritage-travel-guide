@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Jingmen City"
 lat: 31.215108
 lon: 112.644097
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 荆门市明显陵文化旅游景区 / Mingxianling Scenic Area

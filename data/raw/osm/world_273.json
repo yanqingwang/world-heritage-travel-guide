@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Palacio Nazarenas",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Palacio Nazarenas",
+   "lat": -13.5148885,
+   "lon": -71.9769029,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Monasterio",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Belmond",
+   "lat": -13.5153157,
+   "lon": -71.9764885,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW Marriott Hotel Cusco",
+   "name_en": null,
+   "stars": 5,
+   "brand": "JW Marriott",
+   "lat": -13.5169157,
+   "lon": -71.9756905,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palacio del Inka",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Marriott",
+   "lat": -13.5195349,
+   "lon": -71.975037,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aranwa Sacred Valley Hotel & Wellness",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Aranwa",
+   "lat": -13.3304246,
+   "lon": -72.0512005,
+   "distance_km": 22.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 445,
+ "stations": [
+  {
+   "name": "San Pedro",
+   "name_en": null,
+   "lat": -13.5216139,
+   "lon": -71.9836973,
+   "distance_km": 0.8,
+   "operator": null
+  },
+  {
+   "name": "Wanchaq",
+   "name_en": null,
+   "lat": -13.5254376,
+   "lon": -71.9711633,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "Poroy",
+   "name_en": null,
+   "lat": -13.4946277,
+   "lon": -72.0423435,
+   "distance_km": 7.3,
+   "operator": null
+  },
+  {
+   "name": "Izcuchaca",
+   "name_en": null,
+   "lat": -13.4637945,
+   "lon": -72.1433544,
+   "distance_km": 18.8,
+   "operator": "PeruRail"
+  },
+  {
+   "name": "Huarocondo",
+   "name_en": null,
+   "lat": -13.4186959,
+   "lon": -72.2030355,
+   "distance_km": 26.6,
+   "operator": null
+  },
+  {
+   "name": "Urubamba",
+   "name_en": null,
+   "lat": -13.3084782,
+   "lon": -72.1198455,
+   "distance_km": 27.8,
+   "operator": "PeruRail"
+  },
+  {
+   "name": "Huambutio",
+   "name_en": null,
+   "lat": -13.5835199,
+   "lon": -71.7150233,
+   "distance_km": 29.4,
+   "operator": null
+  },
+  {
+   "name": "Pomatales",
+   "name_en": null,
+   "lat": -13.3336077,
+   "lon": -72.2313899,
+   "distance_km": 34.1,
+   "operator": "PeruRail"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:59:11Z"
+}

@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iv)"
 lat: 50.906695508
 lon: 19.756514222142858
-updated_at: "2026-11-08T11:24:57Z"
+updated_at: "2026-11-08T12:02:50Z"
 ---
 
 # 格丁尼亚现代主义市中心 / Gdynia Modernist City Centre

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Alaer City"
 lat: 40.54896
 lon: 81.281538
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区 / Aral, Xinjiang
@@ -26,9 +26,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *20231216 G217 Highway in Aral 01.jpg · Windmemories · CC BY-SA 4.0*
 
-![20231216 G580 Highway near Aral 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/20231216_G580_Highway_near_Aral_03.jpg/1280px-20231216_G580_Highway_near_Aral_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![20231216 G580 Highway near Aral 05.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/20231216_G580_Highway_near_Aral_05.jpg/1280px-20231216_G580_Highway_near_Aral_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*20231216 G580 Highway near Aral 03.jpg · Windmemories · CC BY-SA 4.0*
+*20231216 G580 Highway near Aral 05.jpg · Windmemories · CC BY-SA 4.0*
 
 ![20231216 Road from Aksu to Aral.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/20231216_Road_from_Aksu_to_Aral.jpg/1280px-20231216_Road_from_Aksu_to_Aral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

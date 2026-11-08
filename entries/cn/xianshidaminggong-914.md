@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.297789
 lon: 108.977621
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 西安市大明宫旅游景区 / Daming Palace

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Dar Mouna",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.0475378,
+   "lon": -7.1282156,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Chez Brahim",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.0441756,
+   "lon": -7.1298162,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bagdad Cafe",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.0429363,
+   "lon": -7.1302021,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Dar Rita",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 30.9227392,
+   "lon": -6.9318377,
+   "distance_km": 23.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Kasbah",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 31.0455621,
+   "lon": -7.1313548,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 102,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:00:00Z"
+}

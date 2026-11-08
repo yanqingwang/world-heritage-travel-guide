@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vi)"
 lat: 39.948888888
 lon: -75.15
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:11Z"
 ---
 
 # 独立大厅 / Independence Hall
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Exterior of the Independence Hall, Aug 2019.jpg · see Wikimedia Commons file page*
 
-![Independence Hall](https://whc.unesco.org/uploads/sites/site_78.jpg)
+!['Independence Hall' by Tania Dey.JPG](https://upload.wikimedia.org/wikipedia/commons/b/b4/%27Independence_Hall%27_by_Tania_Dey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Independence Hall · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*'Independence Hall' by Tania Dey.JPG · Tania Dey · CC BY-SA 3.0*
+
+![037 Philadelphia PA (Independence Hall).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/037_Philadelphia_PA_%28Independence_Hall%29.jpg/1280px-037_Philadelphia_PA_%28Independence_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*037 Philadelphia PA (Independence Hall).jpg · Ronen Perry · CC BY 3.0*
+
+![LOSSING(1876) p018 THE STATE HOUSE IN PHILADELPHIA, 1778.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/LOSSING%281876%29_p018_THE_STATE_HOUSE_IN_PHILADELPHIA%2C_1778.jpg/1280px-LOSSING%281876%29_p018_THE_STATE_HOUSE_IN_PHILADELPHIA%2C_1778.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*LOSSING(1876) p018 THE STATE HOUSE IN PHILADELPHIA, 1778.jpg · Public domain*
+
+![PRR(1893) p061 PHILADELPHIA - INDEPENDENCE HALL.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c4/PRR%281893%29_p061_PHILADELPHIA_-_INDEPENDENCE_HALL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*PRR(1893) p061 PHILADELPHIA - INDEPENDENCE HALL.jpg · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,22 @@ The Declaration of Independence (1776) and the Constitution of the United States
 - ✈ **Philadelphia International Airport (PHL)** — 11.6 km
 - ✈ **Trenton Mercer Airport (TTN)** — 46.3 km
 - ✈ **Wilmington Airport (ILG)** — 49.2 km
+- 🚉 **Jefferson Station** — 0.8 km
+- 🚉 **Suburban Station** — 1.6 km
+- 🚉 **Adventure Aquarium** — 1.8 km
+- 🚉 **Entertainment Center** — 2.0 km
+- 🚉 **Cooper Street–Rutgers** — 2.2 km
+- ⛴ **Penn’s Landing** — 0.9 km
+- ⛴ **Camden** — 1.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11044.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Renaissance Philadelphia Downtown Hotel** — 0.2 km — chain — Renaissance
+- **Wyndham Philadelphia Historic District** — 0.4 km — chain — Wyndham
+- **Best Western Plus Independence Park Hotel** — 0.4 km — chain — Best Western Plus
+- **Philadelphia Marriott Old City** — 0.6 km — chain — Marriott
+- **Hilton Philadelphia at Penn's Landing** — 0.8 km — chain — Hilton
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

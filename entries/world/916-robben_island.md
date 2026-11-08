@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(vi)"
 lat: -33.805
 lon: 18.37
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:35Z"
 ---
 
 # 罗布恩岛 / Robben Island
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *Robben Island - Cape Town, South Africa (3883849594).jpg · see Wikimedia Commons file page*
 
-![Robben Island](https://whc.unesco.org/uploads/sites/site_916.jpg)
+![Robben Island - Cape Town, South Africa (3883849594).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/1280px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Robben Island · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Robben Island - Cape Town, South Africa (3883849594).jpg · South African Tourism from South Africa · CC BY 2.0*
+
+![De-Robben Island.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*De-Robben Island.ogg · Jeuwre · CC BY-SA 4.0*
+
+![1910-10-29 Robben Island whalers Carmen and Vardøhus aground.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1910-10-29_Robben_Island_whalers_Carmen_and_Vard%C3%B8hus_aground.jpg/1280px-1910-10-29_Robben_Island_whalers_Carmen_and_Vard%C3%B8hus_aground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1910-10-29 Robben Island whalers Carmen and Vardøhus aground.jpg · Unknown author Unknown author · Public domain*
+
+![2005 1022Image0071.JPG](https://upload.wikimedia.org/wikipedia/commons/a/a5/2005_1022Image0071.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*2005 1022Image0071.JPG · Dingy · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -45,11 +57,23 @@ Robben Island was used at various times between the 17th and 20th centuries as a
 
 - ✈ **Cape Town International Airport (CPT)** — 28.7 km
 - ✈ **George Airport (GRJ)** — 370.6 km
+- 🚉 **The "Blue Train"** — 11.2 km
+- 🚉 **Cape Town Station** — 14.1 km
+- 🚉 **Esplanade** — 14.9 km
+- 🚉 **Woodstock** — 15.1 km
+- 🚉 **Paarden Eiland** — 15.8 km
+- ⛴ **Murray's Harbour** — 1.0 km
+- ⛴ **Nelson Mandela Gateway to Robben Island** — 12.3 km
+- ⛴ **Houtbaai** — 27.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12966.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **One and Only** — 12.3 km — star — 7★
+- **Radisson Blu Hotel Waterfront** — 11.2 km — star — 5★
+- **Victoria & Alfred Hotel** — 12.2 km — star — 5★
+- **Pullman** — 13.6 km — star — 5★ · Pullman
+- **Hyatt Regency Cape Town** — 13.6 km — star — 5★ · Hyatt Regency
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

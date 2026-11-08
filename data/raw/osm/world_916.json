@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "One and Only",
+   "name_en": null,
+   "stars": 7,
+   "brand": null,
+   "lat": -33.9087291,
+   "lon": 18.4164332,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu Hotel Waterfront",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -33.8993915,
+   "lon": 18.4122622,
+   "distance_km": 11.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Victoria & Alfred Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -33.9061595,
+   "lon": 18.4201019,
+   "distance_km": 12.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pullman",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Pullman",
+   "lat": -33.9189494,
+   "lon": 18.4222213,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Cape Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": -33.9214316,
+   "lon": 18.4157801,
+   "distance_km": 13.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 202,
+ "stations": [
+  {
+   "name": "The \"Blue Train\"",
+   "name_en": null,
+   "lat": -33.902529,
+   "lon": 18.3988862,
+   "distance_km": 11.2,
+   "operator": null
+  },
+  {
+   "name": "Cape Town Station",
+   "name_en": "Cape Town",
+   "lat": -33.9224221,
+   "lon": 18.4263523,
+   "distance_km": 14.1,
+   "operator": "Metrorail"
+  },
+  {
+   "name": "Esplanade",
+   "name_en": null,
+   "lat": -33.9236869,
+   "lon": 18.4459658,
+   "distance_km": 14.9,
+   "operator": "Metrorail"
+  },
+  {
+   "name": "Woodstock",
+   "name_en": null,
+   "lat": -33.9253129,
+   "lon": 18.446164,
+   "distance_km": 15.1,
+   "operator": "Metrorail"
+  },
+  {
+   "name": "Paarden Eiland",
+   "name_en": "Paarden Eiland",
+   "lat": -33.9224742,
+   "lon": 18.4669547,
+   "distance_km": 15.8,
+   "operator": null
+  },
+  {
+   "name": "Chempet",
+   "name_en": null,
+   "lat": -33.8614982,
+   "lon": 18.5286328,
+   "distance_km": 15.9,
+   "operator": null
+  },
+  {
+   "name": "Ysterplaat",
+   "name_en": null,
+   "lat": -33.9200207,
+   "lon": 18.4766999,
+   "distance_km": 16.1,
+   "operator": null
+  },
+  {
+   "name": "Salt River",
+   "name_en": "Salt River",
+   "lat": -33.9272293,
+   "lon": 18.4650145,
+   "distance_km": 16.2,
+   "operator": "Metrorail"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Murray's Harbour",
+   "name_en": null,
+   "lat": -33.7981967,
+   "lon": 18.3773817,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Nelson Mandela Gateway to Robben Island",
+   "name_en": null,
+   "lat": -33.90647,
+   "lon": 18.4225194,
+   "distance_km": 12.3,
+   "operator": null
+  },
+  {
+   "name": "Houtbaai",
+   "name_en": null,
+   "lat": -34.0515711,
+   "lon": 18.347934,
+   "distance_km": 27.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:15Z"
+}

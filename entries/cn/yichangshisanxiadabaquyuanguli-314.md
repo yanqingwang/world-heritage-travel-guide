@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.832278
 lon: 110.994721
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 宜昌市三峡大坝-屈原故里文化旅游区 / Yichang

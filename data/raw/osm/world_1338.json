@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Shahpura House",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 26.9278442,
+   "lon": 75.7877823,
+   "distance_km": 3.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Trident Hotel , Jaipur",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Trident Hotels",
+   "lat": 26.9569767,
+   "lon": 75.8429925,
+   "distance_km": 4.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Jaipur",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 26.900956,
+   "lon": 75.7839508,
+   "distance_km": 4.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Oberoi  Rajvilas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 26.8763394,
+   "lon": 75.8838128,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal orchid",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 26.844801,
+   "lon": 75.792943,
+   "distance_km": 9.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 187,
+ "stations": [
+  {
+   "name": "Jaipur Junction",
+   "name_en": "Jaipur Junction",
+   "lat": 26.9207888,
+   "lon": 75.7866539,
+   "distance_km": 3.8,
+   "operator": "NWR"
+  },
+  {
+   "name": "Bais Godam",
+   "name_en": null,
+   "lat": 26.9017919,
+   "lon": 75.7895065,
+   "distance_km": 4.3,
+   "operator": "NWR"
+  },
+  {
+   "name": "Dahar-Ka-Balaji",
+   "name_en": null,
+   "lat": 26.9445145,
+   "lon": 75.766114,
+   "distance_km": 6.2,
+   "operator": "NWR"
+  },
+  {
+   "name": "Gandhi Nagar Jaipur",
+   "name_en": null,
+   "lat": 26.8728017,
+   "lon": 75.7992199,
+   "distance_km": 6.3,
+   "operator": "North Western Railway"
+  },
+  {
+   "name": "Durgapura",
+   "name_en": null,
+   "lat": 26.855093,
+   "lon": 75.7870163,
+   "distance_km": 8.6,
+   "operator": "NWR"
+  },
+  {
+   "name": "Getor Jagatpura",
+   "name_en": null,
+   "lat": 26.837001,
+   "lon": 75.8320226,
+   "distance_km": 9.8,
+   "operator": "NWR"
+  },
+  {
+   "name": "Khatipura",
+   "name_en": null,
+   "lat": 26.8361206,
+   "lon": 75.8910715,
+   "distance_km": 11.8,
+   "operator": "NWR"
+  },
+  {
+   "name": "Kanakpura",
+   "name_en": null,
+   "lat": 26.9291996,
+   "lon": 75.703282,
+   "distance_km": 12.1,
+   "operator": "NWR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:32Z"
+}

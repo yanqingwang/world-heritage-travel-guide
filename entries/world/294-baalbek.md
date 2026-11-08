@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(iv)"
 lat: 34.015363
 lon: 36.200556
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:19Z"
 ---
 
 # 巴勒贝克 / Baalbek
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Temple of Bacchus.jpg · see Wikimedia Commons file page*
 
-![Baalbek](https://whc.unesco.org/uploads/sites/site_294.jpg)
+![De-Baalbek.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Baalbek · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Baalbek.ogg · Jeuwre · CC BY-SA 4.0*
+
+![1 (10) Baalbeck Temples.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1_%2810%29_Baalbeck_Temples.jpg/1280px-1_%2810%29_Baalbeck_Temples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 (10) Baalbeck Temples.jpg · NidalSolh · CC BY-SA 4.0*
+
+![1 (11) Baalbeck Temples.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1_%2811%29_Baalbeck_Temples.jpg/1280px-1_%2811%29_Baalbeck_Temples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 (11) Baalbeck Temples.jpg · NidalSolh · CC BY-SA 4.0*
+
+![1 (4) Baalbeck Temples.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/1_%284%29_Baalbeck_Temples.jpg/1280px-1_%284%29_Baalbeck_Temples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 (4) Baalbeck Temples.jpg · NidalSolh · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,16 @@ This Phoenician city, where a triad of deities was worshipped, was known as Heli
 - ✈ **Beirut Rafic Hariri International Airport (BEY)** — 69.3 km
 - ✈ **Damascus International Airport (DAM)** — 73.2 km
 - ✈ **Latakia International Airport (LTK)** — 155.8 km
+- 🚉 **محطة قطار جديدة الشيباني** — 49.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6985.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Le Cedrus Hotel** — 29.3 km — star — Le Cedrus Hotel · 4★
+- **Club de Campagne Ehden** — 38.4 km — star — Ehden Country Club · 4★
+- **Intercontinental Mzaar Hotel** — 33.6 km — chain — Intercontinental Mzaar Hotel · InterContinental
+- **Shangri-La** — 34.6 km — chain — Shangri-La
+- **Hotel Ash-Shams** — 1.2 km — hotel — Hotel Ash-Shams
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

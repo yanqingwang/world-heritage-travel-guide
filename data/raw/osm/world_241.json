@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Royal Orchid Central Kireeti",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 15.283623,
+   "lon": 76.3865622,
+   "distance_km": 9.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Clarks Inn",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 15.3066101,
+   "lon": 76.4769676,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Place Hampi",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hyatt",
+   "lat": 15.1748792,
+   "lon": 76.6245272,
+   "distance_km": 24.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crazy Panda",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.3487092,
+   "lon": 76.4650752,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampi Delmond Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.3490132,
+   "lon": 76.4669417,
+   "distance_km": 1.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 37,
+ "stations": [
+  {
+   "name": "Hosapete Junction",
+   "name_en": null,
+   "lat": 15.2865355,
+   "lon": 76.3865828,
+   "distance_km": 9.7,
+   "operator": "SWR"
+  },
+  {
+   "name": "Kariganuru",
+   "name_en": null,
+   "lat": 15.2515098,
+   "lon": 76.4333246,
+   "distance_km": 9.7,
+   "operator": "SWR"
+  },
+  {
+   "name": "Chikkabenakal",
+   "name_en": null,
+   "lat": 15.4286036,
+   "lon": 76.442833,
+   "distance_km": 10.7,
+   "operator": "SWR"
+  },
+  {
+   "name": "Papinayaknahalli",
+   "name_en": null,
+   "lat": 15.2356817,
+   "lon": 76.4907833,
+   "distance_km": 11.4,
+   "operator": "SWR"
+  },
+  {
+   "name": "Munirabad",
+   "name_en": null,
+   "lat": 15.3080081,
+   "lon": 76.3363826,
+   "distance_km": 13.8,
+   "operator": "SWR"
+  },
+  {
+   "name": "Tunga Bhadra Dam",
+   "name_en": null,
+   "lat": 15.2630215,
+   "lon": 76.354187,
+   "distance_km": 14.0,
+   "operator": "SWR"
+  },
+  {
+   "name": "Bayaluvaddigeri",
+   "name_en": null,
+   "lat": 15.2299894,
+   "lon": 76.535912,
+   "distance_km": 14.1,
+   "operator": "SWR"
+  },
+  {
+   "name": "Jabbalagudda",
+   "name_en": null,
+   "lat": 15.4245005,
+   "lon": 76.3685975,
+   "distance_km": 14.2,
+   "operator": "SWR"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Coracle Boat Rides",
+   "name_en": null,
+   "lat": 15.3509135,
+   "lon": 76.502564,
+   "distance_km": 4.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:58:36Z"
+}

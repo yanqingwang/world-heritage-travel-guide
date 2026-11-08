@@ -1,0 +1,129 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Hotel Aqaba",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree by Hilton",
+   "lat": 29.5301833,
+   "lon": 35.00349,
+   "distance_km": 40.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "InterContinental Aqaba (Resort Aqaba)",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 29.5334561,
+   "lon": 34.9950454,
+   "distance_km": 41.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency Aqaba Ayla",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 29.5468258,
+   "lon": 34.9901075,
+   "distance_km": 41.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق مارينا بلازا",
+   "name_en": "Marina Plaza",
+   "stars": 4,
+   "brand": null,
+   "lat": 29.4103176,
+   "lon": 34.98099,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Swiss-Belresort Beach Tala Bay",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 29.4131311,
+   "lon": 34.9783018,
+   "distance_km": 46.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 113,
+ "stations": [
+  {
+   "name": "Wadi Rum",
+   "name_en": null,
+   "lat": 29.6995225,
+   "lon": 35.3965375,
+   "distance_km": 13.9,
+   "operator": null
+  },
+  {
+   "name": "محطة الديسة",
+   "name_en": null,
+   "lat": 29.639661,
+   "lon": 35.5524372,
+   "distance_km": 14.6,
+   "operator": null
+  },
+  {
+   "name": "العقبة",
+   "name_en": "Aqaba",
+   "lat": 29.5327987,
+   "lon": 35.0178139,
+   "distance_km": 39.2,
+   "operator": null
+  },
+  {
+   "name": "رأس النقب",
+   "name_en": "Ras al Naqb",
+   "lat": 30.0025997,
+   "lon": 35.4895273,
+   "distance_km": 47.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "الميناء",
+   "name_en": "Port",
+   "lat": 29.5087728,
+   "lon": 34.9973804,
+   "distance_km": 41.6,
+   "operator": null
+  },
+  {
+   "name": "Aqaba Ferry Terminal",
+   "name_en": null,
+   "lat": 29.4597389,
+   "lon": 34.9770738,
+   "distance_km": 44.8,
+   "operator": null
+  },
+  {
+   "name": "From Jordan to Egypt. (Aqaba Nuwaibee, 50JD, 3hours, taxi from center 5JD max)",
+   "name_en": null,
+   "lat": 29.4637663,
+   "lon": 34.9746752,
+   "distance_km": 44.9,
+   "operator": null
+  },
+  {
+   "name": "Aqaba",
+   "name_en": null,
+   "lat": 29.460894,
+   "lon": 34.9748838,
+   "distance_km": 44.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:36Z"
+}

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Four Seasons Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Four Seasons",
+   "lat": 41.0065618,
+   "lon": 28.9802407,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hagia Sofia Mansions Istanbul, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 41.0065608,
+   "lon": 28.9790796,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sura Design Hotel and Suites",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sura Hotels",
+   "lat": 41.0086121,
+   "lon": 28.9759195,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sura Hagia Sophia Hotel and Spa",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.0087202,
+   "lon": 28.9761783,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Istanbul - Old Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 41.0090498,
+   "lon": 28.9603467,
+   "distance_km": 1.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1731,
+ "stations": [
+  {
+   "name": "Cankurtaran",
+   "name_en": null,
+   "lat": 41.0055376,
+   "lon": 28.9830122,
+   "distance_km": 0.4,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Sirkeci",
+   "name_en": "Sirkeci",
+   "lat": 41.0136066,
+   "lon": 28.9771437,
+   "distance_km": 0.6,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Kumkapı",
+   "name_en": null,
+   "lat": 41.0033651,
+   "lon": 28.9629002,
+   "distance_km": 1.5,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Karaköy",
+   "name_en": "Karaköy Station, Tünel Line",
+   "lat": 41.0228645,
+   "lon": 28.9740393,
+   "distance_km": 1.7,
+   "operator": null
+  },
+  {
+   "name": "Beyoğlu",
+   "name_en": "Beyoğlu Station, Tünel Line",
+   "lat": 41.0283447,
+   "lon": 28.9739892,
+   "distance_km": 2.3,
+   "operator": null
+  },
+  {
+   "name": "Yenikapı",
+   "name_en": null,
+   "lat": 41.004765,
+   "lon": 28.9524013,
+   "distance_km": 2.3,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Kabataş",
+   "name_en": "Kabataş",
+   "lat": 41.0339358,
+   "lon": 28.992264,
+   "distance_km": 3.0,
+   "operator": "Metro İstanbul"
+  },
+  {
+   "name": "Taksim",
+   "name_en": null,
+   "lat": 41.0367764,
+   "lon": 28.9866305,
+   "distance_km": 3.2,
+   "operator": "Metro İstanbul"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ahırkapı İskelesi",
+   "name_en": null,
+   "lat": 41.0035807,
+   "lon": 28.9823737,
+   "distance_km": 0.6,
+   "operator": "İBB Şehir Hatları"
+  },
+  {
+   "name": "Sirkeci",
+   "name_en": null,
+   "lat": 41.016772,
+   "lon": 28.9776393,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Eminönü İskelesi паром",
+   "name_en": "Eminonu Pier",
+   "lat": 41.0171316,
+   "lon": 28.976271,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Sarayburnu Limanı",
+   "name_en": null,
+   "lat": 41.0173357,
+   "lon": 28.9832049,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Sirkeci-Harem İskelesi",
+   "name_en": null,
+   "lat": 41.0168221,
+   "lon": 28.9765587,
+   "distance_km": 1.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:46Z"
+}

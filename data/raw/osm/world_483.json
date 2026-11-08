@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Real Hispano",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 20.6916672,
+   "lon": -88.2022874,
+   "distance_km": 38.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El Meson del Marqués",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 20.6909715,
+   "lon": -88.2017093,
+   "distance_km": 38.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ecotel Quinta Regia",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 20.6982301,
+   "lon": -88.2013967,
+   "distance_km": 38.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kaan Ac",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 20.7287521,
+   "lon": -88.1986065,
+   "distance_km": 38.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mayaland Hotel & Bungalows",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mayaland Resorts",
+   "lat": 20.6791375,
+   "lon": -88.5678613,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 147,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:00:14Z"
+}

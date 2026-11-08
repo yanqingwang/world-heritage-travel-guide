@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iv)"
 lat: 32.077777777
 lon: 34.773888888
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:39Z"
 ---
 
 # 特拉维夫白城——现代运动 / White City of Tel-Aviv – the Modern Movement

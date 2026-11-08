@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(viii)"
 lat: 45.751944
 lon: -64.418056
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:41Z"
 ---
 
 # 乔金斯化石崖壁 / Joggins Fossil Cliffs

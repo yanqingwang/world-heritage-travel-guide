@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Nanchang"
 lat: 31.58086
 lon: 105.97767
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 南充市阆中古城旅游景区 / Nanchong
@@ -38,9 +38,9 @@ updated_at: "2026-11-07T22:58:15Z"
 
 *Exit B, Nanchong Station, Fmetro 20220501.jpg · Nrya · CC BY-SA 3.0*
 
-![Nanchong Railway Station 202501.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Nanchong_Railway_Station_202501.jpg/1280px-Nanchong_Railway_Station_202501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Nanchong-map.png](https://upload.wikimedia.org/wikipedia/commons/2/23/Nanchong-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Nanchong Railway Station 202501.jpg · SunLong2002 · CC BY-SA 4.0*
+*Nanchong-map.png · 장길산 · Public domain*
 
 ## 简介 / Introduction
 

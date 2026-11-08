@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iii)(iv)"
 lat: 15.334547
 lon: 76.462162
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:16Z"
 ---
 
 # 汉皮古迹群 / Group of Monuments at Hampi
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Hampi, India, Granite boulders of Matanga Hill.jpg · see Wikimedia Commons file page*
 
-![Group of Monuments at Hampi](https://whc.unesco.org/uploads/sites/site_241.jpg)
+![100-columned Hall.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/100-columned_Hall.jpg/1280px-100-columned_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Group of Monuments at Hampi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*100-columned Hall.jpg · Honeycake26 · CC BY-SA 4.0*
+
+![1047 Hampi 2006-02-20 11-55-29 (10552053386).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/1047_Hampi_2006-02-20_11-55-29_%2810552053386%29.jpg/1280px-1047_Hampi_2006-02-20_11-55-29_%2810552053386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1047 Hampi 2006-02-20 11-55-29 (10552053386).jpg · Klaus Nahr from Germany · CC BY-SA 2.0*
+
+![37A8484.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/37A8484.jpg/1280px-37A8484.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*37A8484.jpg · Gundla shubham · CC BY-SA 4.0*
+
+![A monument of Hampi 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/A_monument_of_Hampi_4.jpg/1280px-A_monument_of_Hampi_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A monument of Hampi 4.jpg · Ishanjyotibora · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,21 @@ The austere, grandiose site of Hampi was the last capital of the last great Hind
 - ✈ **Hubballi Airport (HBX)** — 148.0 km
 - ✈ **Kurnool Airport (KJB)** — 187.8 km
 - ✈ **Belagavi Airport (IXG)** — 205.9 km
+- 🚉 **Hosapete Junction** — 9.7 km
+- 🚉 **Kariganuru** — 9.7 km
+- 🚉 **Chikkabenakal** — 10.7 km
+- 🚉 **Papinayaknahalli** — 11.4 km
+- 🚉 **Munirabad** — 13.8 km
+- ⛴ **Coracle Boat Rides** — 4.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4857.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Royal Orchid Central Kireeti** — 9.9 km — star — 4★
+- **Clarks Inn** — 3.5 km — star — 3★
+- **Hyatt Place Hampi** — 24.9 km — chain — Hyatt
+- **Crazy Panda** — 1.6 km — hotel
+- **Hampi Delmond Resort** — 1.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

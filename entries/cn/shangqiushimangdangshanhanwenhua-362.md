@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Shangqiu City"
 lat: 34.176129
 lon: 116.522746
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 商丘市芒砀山汉文化旅游景区 / Shangqiu
@@ -38,9 +38,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *20251016 Shangqiu Catholic Church 02.jpg · Windmemories · CC BY-SA 4.0*
 
-![20251016 Shangqiu Christian Church 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/20251016_Shangqiu_Christian_Church_01.jpg/1280px-20251016_Shangqiu_Christian_Church_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![20251016 Shangqiu Catholic Church 03.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/20251016_Shangqiu_Catholic_Church_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*20251016 Shangqiu Christian Church 01.jpg · Windmemories · CC BY-SA 4.0*
+*20251016 Shangqiu Catholic Church 03.jpg · Windmemories · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

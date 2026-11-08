@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Nanchang"
 lat: 28.687376
 lon: 115.887675
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 南昌市东湖区滕王阁旅游区 / Pavilion of Prince Teng
@@ -21,14 +21,6 @@ updated_at: "2026-11-07T22:58:13Z"
 > 江西省 · 南昌市 · 自然风光
 
 ## 图片 / Images
-
-![Pavilion of Prince Teng 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Pavilion_of_Prince_Teng_3.jpg/1280px-Pavilion_of_Prince_Teng_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pavilion of Prince Teng 3.jpg · No machine-readable author provided. BetacommandBot assumed (based on copyright claims). · CC BY-SA 3.0*
-
-![长江中游城市群发展规划.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/%E9%95%BF%E6%B1%9F%E4%B8%AD%E6%B8%B8%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E6%B1%9F%E4%B8%AD%E6%B8%B8%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*长江中游城市群发展规划.pdf · National Development and Reform Commission of the People's Republic of China · Public domain*
 
 ![Paifang in front of Pavilion of Prince Teng 2023021303.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paifang_in_front_of_Pavilion_of_Prince_Teng_2023021303.jpg/1280px-Paifang_in_front_of_Pavilion_of_Prince_Teng_2023021303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -41,6 +33,14 @@ updated_at: "2026-11-07T22:58:13Z"
 ![Pavilion of Prince Teng 2023021301.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pavilion_of_Prince_Teng_2023021301.jpg/1280px-Pavilion_of_Prince_Teng_2023021301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Pavilion of Prince Teng 2023021301.jpg · Huangdan2060 · CC BY 4.0*
+
+![Pavilion of Prince Teng 2023021302.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pavilion_of_Prince_Teng_2023021302.jpg/1280px-Pavilion_of_Prince_Teng_2023021302.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Pavilion of Prince Teng 2023021302.jpg · Huangdan2060 · CC BY 4.0*
+
+![Pavilion of Prince Teng 20231017 09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Pavilion_of_Prince_Teng_20231017_09.jpg/1280px-Pavilion_of_Prince_Teng_20231017_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Pavilion of Prince Teng 20231017 09.jpg · 沈澄心 · CC0*
 
 ## 简介 / Introduction
 

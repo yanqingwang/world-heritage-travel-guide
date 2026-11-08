@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 35.58673
 lon: 109.281748
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 延安市黄帝陵景区 / Yan'an

@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Rajdoot Gaurav",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 23.2640984,
+   "lon": 77.4076497,
+   "distance_km": 41.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Highway Retreat Bhimbetka",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 22.957626,
+   "lon": 77.6249021,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Shiv Vilas ",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.1040994,
+   "lon": 77.5117783,
+   "distance_km": 21.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel New Arcadia",
+   "name_en": null,
+   "stars": null,
+   "brand": "Yagyapatra Group",
+   "lat": 23.1362619,
+   "lon": 77.4902178,
+   "distance_km": 25.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amer Greens ",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.1380859,
+   "lon": 77.4880018,
+   "distance_km": 25.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 51,
+ "stations": [
+  {
+   "name": "Barkhera",
+   "name_en": null,
+   "lat": 22.9168461,
+   "lon": 77.6500363,
+   "distance_km": 4.4,
+   "operator": "WCR"
+  },
+  {
+   "name": "Obaidullaganj",
+   "name_en": null,
+   "lat": 22.9950724,
+   "lon": 77.5874655,
+   "distance_km": 6.9,
+   "operator": "WCR"
+  },
+  {
+   "name": "Choka",
+   "name_en": null,
+   "lat": 22.8639234,
+   "lon": 77.6380194,
+   "distance_km": 8.7,
+   "operator": "WCR"
+  },
+  {
+   "name": "Midghat",
+   "name_en": "Midghat",
+   "lat": 22.8250952,
+   "lon": 77.6505207,
+   "distance_km": 13.2,
+   "operator": "WCR"
+  },
+  {
+   "name": "Itayakalan",
+   "name_en": null,
+   "lat": 23.0553519,
+   "lon": 77.5409924,
+   "distance_km": 15.0,
+   "operator": "WCR"
+  },
+  {
+   "name": "Budhni",
+   "name_en": null,
+   "lat": 22.786886,
+   "lon": 77.6814749,
+   "distance_km": 18.2,
+   "operator": "WCR"
+  },
+  {
+   "name": "Mandideep",
+   "name_en": null,
+   "lat": 23.093838,
+   "lon": 77.5114296,
+   "distance_km": 20.2,
+   "operator": "WCR"
+  },
+  {
+   "name": "Hoshangabad",
+   "name_en": null,
+   "lat": 22.7529598,
+   "lon": 77.7173261,
+   "distance_km": 23.2,
+   "operator": "WCR"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sah ali shah jatty",
+   "name_en": null,
+   "lat": 23.2449933,
+   "lon": 77.3771336,
+   "distance_km": 41.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:15Z"
+}

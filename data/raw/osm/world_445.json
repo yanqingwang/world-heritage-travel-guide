@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Saint Moritz Hplus Express",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.7904247,
+   "lon": -47.8846443,
+   "distance_km": 0.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Biarritz",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.7901501,
+   "lon": -47.885167,
+   "distance_km": 0.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ramada by Wyndham Brasília Alvorada",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ramada",
+   "lat": -15.793152,
+   "lon": -47.890856,
+   "distance_km": 0.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mercure Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Mercure",
+   "lat": -15.78819,
+   "lon": -47.8903635,
+   "distance_km": 1.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Mercure Lider",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -15.788888,
+   "lon": -47.8911165,
+   "distance_km": 1.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 147,
+ "stations": [
+  {
+   "name": "Brasília",
+   "name_en": null,
+   "lat": -15.7754732,
+   "lon": -47.9409989,
+   "distance_km": 6.6,
+   "operator": null
+  },
+  {
+   "name": "Jardim do Ingá",
+   "name_en": null,
+   "lat": -16.1338664,
+   "lon": -47.9529504,
+   "distance_km": 38.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:00:09Z"
+}

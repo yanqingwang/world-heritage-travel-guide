@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.828262
 lon: 125.340278
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 长春市世界雕塑公园景区 / Changchun World Sculpture Park

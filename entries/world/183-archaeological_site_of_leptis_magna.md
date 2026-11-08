@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(ii)(iii)"
 lat: 32.636748
 lon: 14.2922
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:14Z"
 ---
 
 # 莱波蒂斯考古遗址 / Archaeological Site of Leptis Magna
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Leptis Magna (29) (8288918733).jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Leptis Magna](https://whc.unesco.org/uploads/sites/site_183.jpg)
+![00IMGL4379.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/00IMGL4379.jpg/1280px-00IMGL4379.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Leptis Magna · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*00IMGL4379.jpg · Abdulfatah Amr · CC BY-SA 4.0*
+
+![10 Severan Nymphaeum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/10_Severan_Nymphaeum.jpg/1280px-10_Severan_Nymphaeum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*10 Severan Nymphaeum.jpg · slsphotolibrary · CC BY-SA 2.0*
+
+![11 Chalcidicum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/11_Chalcidicum.jpg/1280px-11_Chalcidicum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*11 Chalcidicum.jpg · slsphotolibrary · CC BY-SA 2.0*
+
+![12 Chalcidicum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/12_Chalcidicum.jpg/1280px-12_Chalcidicum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*12 Chalcidicum.jpg · slsphotolibrary · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Leptis Magna was enlarged and embellished by Septimius Severus, who was born the
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فندق زليتن** — 30.9 km — star — Zliten Hotel · 3★
+- **فندق المرقب** — 1.2 km — hotel — Al Mergab Hotel
+- **فندق الخمس** — 2.7 km — hotel — Al Khoms Hotel
+- **فندق الحسنين** — 3.9 km — hotel — Hassanin Hotel-Khoms
+- **فندق سيفيروس-الخمس** — 4.0 km — hotel — Severus Hotel -Khoms
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

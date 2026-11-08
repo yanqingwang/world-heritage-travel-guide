@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Diqing Tibetan Autonomous Prefecture"
 lat: 27.808283
 lon: 99.913131
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 迪庆州普达措国家公园 / Potatson National Park
@@ -38,9 +38,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W.jpg · Colin W · CC BY-SA 3.0*
 
-![Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%282%29.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%281%29.jpg/1280px-Potatso_%28Pudacuo%29_National_Park%2C_Diqing_-_panoramio_-_Colin_W_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W (2).jpg · Colin W · CC BY-SA 3.0*
+*Potatso (Pudacuo) National Park, Diqing - panoramio - Colin W (1).jpg · Colin W · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

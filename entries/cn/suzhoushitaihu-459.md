@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.24342
 lon: 120.43027
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 苏州市太湖旅游区 / Suzhoushitaihu Tourist Area

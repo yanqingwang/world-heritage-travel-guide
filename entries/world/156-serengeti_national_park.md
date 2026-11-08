@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(x)"
 lat: -2.4
 lon: 34.6
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:14Z"
 ---
 
 # 塞伦盖蒂国家公园 / Serengeti National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Serengeti-Landscape-2012.JPG · see Wikimedia Commons file page*
 
-![Serengeti National Park](https://whc.unesco.org/uploads/sites/site_156.jpg)
+![001 Male Lion brothers Snyggve and Tryggve in the Serengeti National Park Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/001_Male_Lion_brothers_Snyggve_and_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-001_Male_Lion_brothers_Snyggve_and_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Serengeti National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*001 Male Lion brothers Snyggve and Tryggve in the Serengeti National Park Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![002 Male Lion prowling in the Serengeti National Park Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/002_Male_Lion_prowling_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-002_Male_Lion_prowling_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*002 Male Lion prowling in the Serengeti National Park Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![003 Male Lion scanning the horizon in the Serengeti National Park Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/003_Male_Lion_scanning_the_horizon_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-003_Male_Lion_scanning_the_horizon_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*003 Male Lion scanning the horizon in the Serengeti National Park Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![1971-12-29 Tanzania -Serengeti park - Leverworstboom.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/1971-12-29_Tanzania_-Serengeti_park_-_Leverworstboom.jpg/1280px-1971-12-29_Tanzania_-Serengeti_park_-_Leverworstboom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1971-12-29 Tanzania -Serengeti park - Leverworstboom.jpg · Guus Gorter · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Hifadhi ya Serengeti ni eneo kubwa la mbuga na misitu katika Tanzania ya kaskazi
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Four Seasons Safari Lodge Serengeti** — 39.9 km — chain — Four Seasons
+- **Soroi Serengeti Lodge** — 2.3 km — hotel — Mbali Mbali
+- **Meliá Serengeti Lodge** — 10.0 km — hotel — Meliá
+- **Serengeti Serena Lodge** — 11.6 km — hotel
+- **Serengeti Little Paradise** — 12.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

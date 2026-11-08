@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Թոմուս",
+   "name_en": "Tomu’s Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 40.7870021,
+   "lon": 43.8471798,
+   "distance_km": 38.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Գյումրի հյուրանոց",
+   "name_en": "\"Gyumri\" Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 40.801058,
+   "lon": 43.8478846,
+   "distance_km": 40.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cheltikov Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 40.6070261,
+   "lon": 43.0897014,
+   "distance_km": 42.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Hotel & Spa",
+   "name_en": "Radisson Hotel & Spa",
+   "stars": null,
+   "brand": "Radisson Hotels",
+   "lat": 40.7867371,
+   "lon": 43.8428679,
+   "distance_km": 38.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Արթիկ",
+   "name_en": "Artik",
+   "stars": null,
+   "brand": null,
+   "lat": 40.6219509,
+   "lon": 43.9699242,
+   "distance_km": 35.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 47,
+ "stations": [
+  {
+   "name": "Անի",
+   "name_en": "Ani",
+   "lat": 40.465267,
+   "lon": 43.6434945,
+   "distance_km": 7.6,
+   "operator": "Հարավկովկասյան երկաթուղի"
+  },
+  {
+   "name": "Աղին",
+   "name_en": "Aghin",
+   "lat": 40.6074302,
+   "lon": 43.7145073,
+   "distance_km": 16.3,
+   "operator": "Հարավկովկասյան երկաթուղի"
+  },
+  {
+   "name": "Արագած",
+   "name_en": "Aragats",
+   "lat": 40.3256282,
+   "lon": 43.6648211,
+   "distance_km": 21.7,
+   "operator": "Հարավկովկասյան երկաթուղի"
+  },
+  {
+   "name": "Akyaka",
+   "name_en": null,
+   "lat": 40.7398464,
+   "lon": 43.6234121,
+   "distance_km": 26.2,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Բայանդուր",
+   "name_en": "Bayandur",
+   "lat": 40.693976,
+   "lon": 43.7720739,
+   "distance_km": 26.7,
+   "operator": "Հարավկովկասյան երկաթուղի"
+  },
+  {
+   "name": "Մարալիկ",
+   "name_en": "Maralik",
+   "lat": 40.5793161,
+   "lon": 43.8765543,
+   "distance_km": 26.9,
+   "operator": null
+  },
+  {
+   "name": "Արտենի",
+   "name_en": "Arteni",
+   "lat": 40.3003348,
+   "lon": 43.7682559,
+   "distance_km": 28.4,
+   "operator": null
+  },
+  {
+   "name": "Doğukapı",
+   "name_en": null,
+   "lat": 40.7296214,
+   "lon": 43.7381696,
+   "distance_km": 28.4,
+   "operator": "TCDD Taşımacılık"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:50Z"
+}

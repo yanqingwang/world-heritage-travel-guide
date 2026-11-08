@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Chizhou"
 lat: 30.483187
 lon: 117.806842
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 池州市九华山风景区 / Mount Hua

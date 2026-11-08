@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Tongzhou District"
 lat: 39.920145
 lon: 116.674039
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 北京（通州）大运河文化旅游景区 / Grand Canal (China)

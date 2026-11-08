@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)"
 lat: -47.15
 lon: -70.666666666
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:37Z"
 ---
 
 # 洛斯马诺斯岩画（1999年） / Cueva de las Manos, Río Pinturas
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *SantaCruz-CuevaManos-P2210651b.jpg · see Wikimedia Commons file page*
 
-![Cueva de las Manos, Río Pinturas](https://whc.unesco.org/uploads/sites/site_936.jpg)
+![Acceso a la Cueva de las Manos.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Acceso_a_la_Cueva_de_las_Manos.jpg/1280px-Acceso_a_la_Cueva_de_las_Manos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Cueva de las Manos, Río Pinturas · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Acceso a la Cueva de las Manos.jpg · LuigiStudio · CC BY-SA 4.0*
+
+![AR Cueva de las Manos 0702 001 (16593044824).jpg](https://upload.wikimedia.org/wikipedia/commons/d/de/AR_Cueva_de_las_Manos_0702_001_%2816593044824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AR Cueva de las Manos 0702 001 (16593044824).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+
+![AR Cueva de las Manos 0702 002 (17215012281).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4a/AR_Cueva_de_las_Manos_0702_002_%2817215012281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AR Cueva de las Manos 0702 002 (17215012281).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
+
+![AR Cueva de las Manos 0702 003 (17215571885).jpg](https://upload.wikimedia.org/wikipedia/commons/b/bd/AR_Cueva_de_las_Manos_0702_003_%2817215571885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*AR Cueva de las Manos 0702 003 (17215571885).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,9 @@ La Cueva de las Manos del Río Pinturas alberga un conjunto excepcional de arte 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Estancia de las Manos** — 13.6 km — hotel
+- **Bajo Caracoles** — 38.1 km — hotel
+- **Hotel bajo Caracoles** — 38.2 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

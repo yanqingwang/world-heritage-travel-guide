@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 37.971527
 lon: 23.726601
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:23Z"
 ---
 
 # 雅典卫城 / Acropolis, Athens
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *The Parthenon in Athens.jpg · see Wikimedia Commons file page*
 
-![Acropolis, Athens](https://whc.unesco.org/uploads/sites/site_404.jpg)
+![De-Parthenon.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Acropolis, Athens · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Parthenon.ogg · Jeuwre · CC BY-SA 4.0*
+
+![+ 1987 wurde die Akropolis Athens Teil des UNESCO-Welterbes. 32.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/%2B_1987_wurde_die_Akropolis_Athens_Teil_des_UNESCO-Welterbes._32.jpg/1280px-%2B_1987_wurde_die_Akropolis_Athens_Teil_des_UNESCO-Welterbes._32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1987 wurde die Akropolis Athens Teil des UNESCO-Welterbes. 32.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1987 wurde die Akropolis Athens Teil des UNESCO-Welterbes. 33.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/%2B_1987_wurde_die_Akropolis_Athens_Teil_des_UNESCO-Welterbes._33.jpg/1280px-%2B_1987_wurde_die_Akropolis_Athens_Teil_des_UNESCO-Welterbes._33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1987 wurde die Akropolis Athens Teil des UNESCO-Welterbes. 33.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+![+ 1987 wurde die Akropolis Athens Teil des UNESCO-Welterbes. 34.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%2B_1987_wurde_die_Akropolis_Athens_Teil_des_UNESCO-Welterbes._34.jpg/1280px-%2B_1987_wurde_die_Akropolis_Athens_Teil_des_UNESCO-Welterbes._34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*+ 1987 wurde die Akropolis Athens Teil des UNESCO-Welterbes. 34.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ The Acropolis of Athens and its monuments are universal symbols of the classical
 - ✈ **Athens Eleftherios Venizelos International Airport (ATH)** — 19.5 km
 - ✈ **Syros Airport (JSY)** — 123.8 km
 - ✈ **Skiros Airport (SKU)** — 129.0 km
+- 🚉 **Αριστίππου** — 1.8 km
+- 🚉 **Άγιος Γεώργιος** — 1.9 km
+- 🚉 **Ρουφ** — 2.0 km
+- 🚉 **Ταύρος** — 2.9 km
+- 🚉 **Ρέντης** — 5.2 km
+- ⛴ **E7** — 8.2 km
+- ⛴ **Πειραιάς Πορθμείο** — 8.2 km
+- ⛴ **Αναχώρηση Μινωικών Γραμμών Κρήτης** — 8.5 km
+- ⛴ **Λιμένας Πειραιώς** — 8.9 km
+- ⛴ **Πειραιάς** — 9.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7606.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Electra Palace Athens** — 0.5 km — star — 5★
+- **Grand Hyatt Athens** — 1.7 km — star — 5★ · Grand Hyatt
+- **Hilton Athens** — 2.1 km — star — 5★ · Hilton
+- **Divani Caravel** — 2.2 km — star — 5★
+- **Divani Apollon Palace & Thalasso** — 16.4 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

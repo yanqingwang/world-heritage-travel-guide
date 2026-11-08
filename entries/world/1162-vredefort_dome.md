@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(viii)"
 lat: -27.0
 lon: 27.5
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:40Z"
 ---
 
 # 弗里德堡陨石坑 / Vredefort Dome
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:53Z"
 
 *Aasvoelkop.jpg · see Wikimedia Commons file page*
 
-![Vredefort Dome](https://whc.unesco.org/uploads/sites/site_1162.jpg)
+![Map of Vredefort dome.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Map_of_Vredefort_dome.jpg/1280px-Map_of_Vredefort_dome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Vredefort Dome · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Map of Vredefort dome.jpg · Oggmus · CC BY-SA 3.0*
+
+![South African Geology - Schwarz - 1912 Fig 51.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/South_African_Geology_-_Schwarz_-_1912_Fig_51.png/1280px-South_African_Geology_-_Schwarz_-_1912_Fig_51.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*South African Geology - Schwarz - 1912 Fig 51.png · Schwarz, Ernest Hubert Lewis, 1873-1928 · Public domain*
+
+![The Quarterly journal of the Geological Society of London (1898) (14778506372).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/The_Quarterly_journal_of_the_Geological_Society_of_London_%281898%29_%2814778506372%29.jpg/1280px-The_Quarterly_journal_of_the_Geological_Society_of_London_%281898%29_%2814778506372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The Quarterly journal of the Geological Society of London (1898) (14778506372).jpg · Geological Society of London · No restrictions*
+
+![Vredefort crater & Witwatersrand.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Vredefort_crater_%26_Witwatersrand.png/1280px-Vredefort_crater_%26_Witwatersrand.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Vredefort crater & Witwatersrand.png · Oggmus · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Vredefort Dome, approximately 120 km south-west of Johannesburg, is a representa
 - ✈ **O.R. Tambo International Airport (JNB)** — 121.1 km
 - ✈ **Lanseria International Airport (HLA)** — 125.4 km
 - ✈ **George Dick Montshioa Airport (MBD)** — 235.9 km
+- 🚉 **Greenlands** — 22.1 km
+- 🚉 **Dover** — 23.2 km
+- 🚉 **Koppies** — 27.3 km
+- 🚉 **Wolwehoek** — 33.1 km
+- 🚉 **Rooiwal** — 33.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11708.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Le Grand Château** — 12.3 km — star — 3★
+- **SunWa River Lodge** — 15.7 km — star — 3★
+- **Stonehenge in Africa / Stonehenge River Lodge** — 15.5 km — hotel
+- **Thabela Thabeng** — 26.1 km — hotel
+- **Candy's Lodge and Bar** — 30.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

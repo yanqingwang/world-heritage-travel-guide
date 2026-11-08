@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iv)(v)(vii)"
 lat: 39.7125
 lon: 21.626666666
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:25Z"
 ---
 
 # 曼代奥拉 / Meteora
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *00 0541 Kloster Agía Triáda (Meteora) - Griechenland.jpg · see Wikimedia Commons file page*
 
-![Meteora](https://whc.unesco.org/uploads/sites/site_455.jpg)
+!["Dem Himmel näher" - die Meteora-Klöster. 05.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._05.jpg/1280px-%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Meteora · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Dem Himmel näher" - die Meteora-Klöster. 05.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Dem Himmel näher" - die Meteora-Klöster. 09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._09.jpg/1280px-%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Dem Himmel näher" - die Meteora-Klöster. 09.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Dem Himmel näher" - die Meteora-Klöster. 12.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._12.jpg/1280px-%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Dem Himmel näher" - die Meteora-Klöster. 12.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Dem Himmel näher" - die Meteora-Klöster. 14.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._14.jpg/1280px-%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Dem Himmel näher" - die Meteora-Klöster. 14.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,18 @@ In a region of almost inaccessible sandstone peaks, monks settled on these 'colu
 - ✈ **Kozani National Airport Filippos (KZI)** — 66.3 km
 - ✈ **Ioannina King Pyrrhus National Airport (IOA)** — 68.8 km
 - ✈ **Kastoria National Airport Aristotle (KSO)** — 86.7 km
+- 🚉 **Καλαμπάκα** — 1.1 km
+- 🚉 **Τρίκαλα** — 21.9 km
+- 🚉 **Καρδίτσα** — 46.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7606.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Grand Meteora Hotel** — 1.4 km — star — Grand Meteora Hotel · 5★
+- **Thessalikon Grand** — 46.6 km — star — 5★
+- **Liknon Hotel** — 1.8 km — star — 4★
+- **Άρνη** — 46.2 km — star — Arni · 4★ · Domotel
+- **Hotel Adrachti** — 0.5 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

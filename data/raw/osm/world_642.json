@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Melia Purosani",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Melia",
+   "lat": -7.7969057,
+   "lon": 110.3689789,
+   "distance_km": 14.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amanjiwo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -7.6317111,
+   "lon": 110.2020129,
+   "distance_km": 34.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Solia Zigna",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -7.5694863,
+   "lon": 110.7960636,
+   "distance_km": 39.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "1O1 STYLE Yogyakarta Malioboro",
+   "name_en": null,
+   "stars": 4,
+   "brand": "PHM Hotels",
+   "lat": -7.7988901,
+   "lon": 110.3733759,
+   "distance_km": 14.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crystal Lotus",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -7.7593574,
+   "lon": 110.3622608,
+   "distance_km": 14.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 750,
+ "stations": [
+  {
+   "name": "Brambanan",
+   "name_en": null,
+   "lat": -7.7566296,
+   "lon": 110.500401,
+   "distance_km": 1.1,
+   "operator": "PT Kereta Api Indonesia (Persero)"
+  },
+  {
+   "name": "Srowot",
+   "name_en": null,
+   "lat": -7.7413566,
+   "lon": 110.5493576,
+   "distance_km": 6.5,
+   "operator": null
+  },
+  {
+   "name": "Maguwo",
+   "name_en": null,
+   "lat": -7.7850944,
+   "lon": 110.4369156,
+   "distance_km": 7.0,
+   "operator": "PT Kereta Commuter Indonesia"
+  },
+  {
+   "name": "Klaten",
+   "name_en": null,
+   "lat": -7.7123541,
+   "lon": 110.6029736,
+   "distance_km": 13.1,
+   "operator": "PT. Kereta Api Indonesia (Persero)"
+  },
+  {
+   "name": "Lempuyangan",
+   "name_en": null,
+   "lat": -7.7900721,
+   "lon": 110.3753385,
+   "distance_km": 13.5,
+   "operator": "PT. Kereta Api Indonesia"
+  },
+  {
+   "name": "Yogyakarta",
+   "name_en": null,
+   "lat": -7.7892387,
+   "lon": 110.3634648,
+   "distance_km": 14.7,
+   "operator": "PT Kereta Api Indonesia"
+  },
+  {
+   "name": "Patukan",
+   "name_en": null,
+   "lat": -7.7907238,
+   "lon": 110.3253312,
+   "distance_km": 18.8,
+   "operator": "Kereta Api Indonesia"
+  },
+  {
+   "name": "Ceper",
+   "name_en": null,
+   "lat": -7.6689676,
+   "lon": 110.6748531,
+   "distance_km": 22.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Loket Perahu",
+   "name_en": null,
+   "lat": -7.9435094,
+   "lon": 110.4892799,
+   "distance_km": 21.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:30Z"
+}

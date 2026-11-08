@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Wushan County"
 lat: 31.086327
 lon: 109.894762
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 小三峡-小小三峡旅游区 / Xiaosanxia-xiaoxiaosanxia Tourist Area

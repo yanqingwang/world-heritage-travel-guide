@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.619437
 lon: 117.401013
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 呼伦贝尔市中俄边境旅游区 / Hulunbuir

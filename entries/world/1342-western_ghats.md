@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ix)(x)"
 lat: 10.169722222
 lon: 77.061111111
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:43Z"
 ---
 
 # 西高止山脉 / Western Ghats
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:54Z"
 
 *Naikolli Mala near Anamudi.jpg · see Wikimedia Commons file page*
 
-![Western Ghats](https://whc.unesco.org/uploads/sites/site_1342.jpg)
+![Oriental Scenery Part 6 Fig 1.jpg](https://upload.wikimedia.org/wikipedia/commons/2/20/Oriental_Scenery_Part_6_Fig_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Western Ghats · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Oriental Scenery Part 6 Fig 1.jpg · Thomas Daniell / After James Wales · Public domain*
+
+![Oriental Scenery Part 6 Fig 2.jpg](https://upload.wikimedia.org/wikipedia/commons/9/93/Oriental_Scenery_Part_6_Fig_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Oriental Scenery Part 6 Fig 2.jpg · Thomas Daniell / After James Wales · Public domain*
+
+![Oriental Scenery Part 6 Fig 3.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cd/Oriental_Scenery_Part_6_Fig_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Oriental Scenery Part 6 Fig 3.jpg · Thomas Daniell / After James Wales · Public domain*
+
+![20250516 095021, some moss like plants fount in the Westernghats in monsoon 2025.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/20250516_095021%2C_some_moss_like_plants_fount_in_the_Westernghats_in_monsoon_2025.jpg/1280px-20250516_095021%2C_some_moss_like_plants_fount_in_the_Westernghats_in_monsoon_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20250516 095021, some moss like plants fount in the Westernghats in monsoon 2025.jpg · Mohanakrishnan Mp · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Older than the Himalaya mountains, the mountain chain of the Western Ghats repre
 - ✈ **Cochin International Airport (COK)** — 72.3 km
 - ✈ **Coimbatore International Airport (CJB)** — 95.7 km
 - ✈ **Madurai Airport (IXM)** — 119.0 km
+- 🚉 **Bodinayakkanur** — 35.4 km
+- 🚉 **Teni** — 48.3 km
+- 🚉 **Gomangalam** — 49.6 km
+- 🚉 **Udumalaippettai** — 50.0 km
+- ⛴ **Blavana Ferry** — 31.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5166.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Fragrant Nature** — 12.8 km — star — 4★
+- **Tea Valley Resort** — 13.0 km — star — 4★
+- **Oak field resort** — 14.5 km — star — 4★
+- **Le Celestium** — 9.2 km — star — 3★
+- **red star holiday** — 9.1 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

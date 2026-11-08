@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vi)"
 lat: 49.7494
 lon: -113.625
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:14Z"
 ---
 
 # 美洲野牛涧地带 / Head-Smashed-In Buffalo Jump

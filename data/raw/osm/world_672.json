@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Wyndham Garden Sonasea Vân Đồn",
+   "name_en": "Wyndham Garden Sonasea Van Don",
+   "stars": 5,
+   "brand": "Wyndham Garden",
+   "lat": 21.1042914,
+   "lon": 107.4821772,
+   "distance_km": 37.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nhật Anh Hotel 2",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 20.7278897,
+   "lon": 107.0461664,
+   "distance_km": 24.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ngoc Hoa Hotel",
+   "name_en": "Trung hoa hotel",
+   "stars": 1,
+   "brand": null,
+   "lat": 20.7252294,
+   "lon": 107.0488659,
+   "distance_km": 25.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wyndham Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Wyndham",
+   "lat": 20.9595167,
+   "lon": 107.0603206,
+   "distance_km": 15.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wyndham Garden",
+   "name_en": null,
+   "stars": null,
+   "brand": "Wyndham Garden",
+   "lat": 20.9566836,
+   "lon": 107.0563926,
+   "distance_km": 16.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 237,
+ "stations": [
+  {
+   "name": "Cảng Cái Lân",
+   "name_en": null,
+   "lat": 20.9699203,
+   "lon": 107.0523986,
+   "distance_km": 17.2,
+   "operator": null
+  },
+  {
+   "name": "Cái Lân",
+   "name_en": null,
+   "lat": 20.971902,
+   "lon": 107.04058,
+   "distance_km": 18.4,
+   "operator": null
+  },
+  {
+   "name": "Hạ Long",
+   "name_en": null,
+   "lat": 20.9748254,
+   "lon": 107.0104198,
+   "distance_km": 21.4,
+   "operator": null
+  },
+  {
+   "name": "Yên Cư",
+   "name_en": null,
+   "lat": 20.9839535,
+   "lon": 106.915292,
+   "distance_km": 31.0,
+   "operator": null
+  },
+  {
+   "name": "Bàn Cờ",
+   "name_en": null,
+   "lat": 21.0324321,
+   "lon": 106.7779256,
+   "distance_km": 46.2,
+   "operator": null
+  },
+  {
+   "name": "Uông Bí",
+   "name_en": null,
+   "lat": 21.0349918,
+   "lon": 106.7563458,
+   "distance_km": 48.4,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Cảng - Vũng Đục",
+   "name_en": null,
+   "lat": 20.992069,
+   "lon": 107.2975874,
+   "distance_km": 14.4,
+   "operator": null
+  },
+  {
+   "name": "Old Hon Gai Ferry Terminal",
+   "name_en": null,
+   "lat": 20.9580942,
+   "lon": 107.0672948,
+   "distance_km": 15.2,
+   "operator": null
+  },
+  {
+   "name": "Ha Long International Cruise Port",
+   "name_en": "Halong International Cruise Port",
+   "lat": 20.9532759,
+   "lon": 107.0557052,
+   "distance_km": 16.1,
+   "operator": null
+  },
+  {
+   "name": "Cảng tàu khách quốc tế Hạ Long",
+   "name_en": null,
+   "lat": 20.953275,
+   "lon": 107.05571,
+   "distance_km": 16.1,
+   "operator": null
+  },
+  {
+   "name": "Old Cat Ba ferry terminal",
+   "name_en": "Old Cat Ba ferry terminal",
+   "lat": 20.9468412,
+   "lon": 107.0247193,
+   "distance_km": 18.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:33Z"
+}

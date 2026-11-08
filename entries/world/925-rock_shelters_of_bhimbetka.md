@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(v)"
 lat: 22.93863333
 lon: 77.61438056
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:36Z"
 ---
 
 # 温迪亚山脉的比莫贝卡特石窟 / Rock Shelters of Bhimbetka
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *Bhimbetka Cave Paintings.jpg · see Wikimedia Commons file page*
 
-![Rock Shelters of Bhimbetka](https://whc.unesco.org/uploads/sites/site_925.jpg)
+![... near Bhimbetka rock shelters (9971111094).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/..._near_Bhimbetka_rock_shelters_%289971111094%29.jpg/1280px-..._near_Bhimbetka_rock_shelters_%289971111094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rock Shelters of Bhimbetka · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*... near Bhimbetka rock shelters (9971111094).jpg · Dinesh Valke from Thane, India · CC BY-SA 2.0*
+
+![... near Bhimbetka rock shelters (9971123984).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/..._near_Bhimbetka_rock_shelters_%289971123984%29.jpg/1280px-..._near_Bhimbetka_rock_shelters_%289971123984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*... near Bhimbetka rock shelters (9971123984).jpg · Dinesh Valke from Thane, India · CC BY-SA 2.0*
+
+![1 of the rock shelter caves at Bhimbetka, Madhya Pradesh.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/1_of_the_rock_shelter_caves_at_Bhimbetka%2C_Madhya_Pradesh.jpg/1280px-1_of_the_rock_shelter_caves_at_Bhimbetka%2C_Madhya_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1 of the rock shelter caves at Bhimbetka, Madhya Pradesh.jpg · solarisgirl from Pune, India · CC BY-SA 2.0*
+
+![2016 view of Bhimbetka rock shelters Madhya Pradesh India.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2016_view_of_Bhimbetka_rock_shelters_Madhya_Pradesh_India.jpg/1280px-2016_view_of_Bhimbetka_rock_shelters_Madhya_Pradesh_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016 view of Bhimbetka rock shelters Madhya Pradesh India.jpg · solarisgirl from Pune, India · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,21 @@ The Rock Shelters of Bhimbetka are in the foothills of the Vindhyan Mountains on
 - ✈ **Raja Bhoj International Airport (BHO)** — 48.0 km
 - ✈ **Devi Ahilya Bai Holkar International Airport (IDR)** — 187.5 km
 - ✈ **Amravati  Airport (AVR)** — 236.4 km
+- 🚉 **Barkhera** — 4.4 km
+- 🚉 **Obaidullaganj** — 6.9 km
+- 🚉 **Choka** — 8.7 km
+- 🚉 **Midghat** — 13.2 km
+- 🚉 **Itayakalan** — 15.0 km
+- ⛴ **Sah ali shah jatty** — 41.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4112.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Rajdoot Gaurav** — 41.9 km — star — 3★
+- **Highway Retreat Bhimbetka** — 2.4 km — hotel
+- **Hotel Shiv Vilas ** — 21.2 km — hotel
+- **Hotel New Arcadia** — 25.4 km — hotel — Yagyapatra Group
+- **Amer Greens ** — 25.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)"
 lat: 49.25056
 lon: 6.84528
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 弗尔克林根钢铁厂 / Völklingen Ironworks

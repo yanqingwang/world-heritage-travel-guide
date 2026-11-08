@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -0.666666666
 lon: -90.55
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:08Z"
 ---
 
 # 加拉帕戈斯群岛 / Galápagos Islands
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Galápagos Islands ESA23188644.jpeg · see Wikimedia Commons file page*
 
-![Galápagos Islands](https://whc.unesco.org/uploads/sites/site_1.jpg)
+![05000+Sucres+Bill+Ecuador+1995.jpg](https://upload.wikimedia.org/wikipedia/commons/5/57/05000%2BSucres%2BBill%2BEcuador%2B1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Galápagos Islands · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*05000+Sucres+Bill+Ecuador+1995.jpg · Scanned by Uploader · Public domain*
+
+![2022-05-23 Flaggen Puerto Baquerizo Moreno, Galápagos, Ecuador 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2022-05-23_Flaggen_Puerto_Baquerizo_Moreno%2C_Gal%C3%A1pagos%2C_Ecuador_01.jpg/1280px-2022-05-23_Flaggen_Puerto_Baquerizo_Moreno%2C_Gal%C3%A1pagos%2C_Ecuador_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2022-05-23 Flaggen Puerto Baquerizo Moreno, Galápagos, Ecuador 01.jpg · Bärbel Miemietz · CC BY-SA 4.0*
+
+![20230111 Lava Lizard Microlophus Galapagos San Cristobál Island.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/20230111_Lava_Lizard_Microlophus_Galapagos_San_Cristob%C3%A1l_Island.jpg/1280px-20230111_Lava_Lizard_Microlophus_Galapagos_San_Cristob%C3%A1l_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20230111 Lava Lizard Microlophus Galapagos San Cristobál Island.jpg · Bex-Lemon · CC BY-SA 4.0*
+
+![A woman stands beside several children on a Galapagos Island beach (7005078245).jpg](https://upload.wikimedia.org/wikipedia/commons/8/8f/A_woman_stands_beside_several_children_on_a_Galapagos_Island_beach_%287005078245%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A woman stands beside several children on a Galapagos Island beach (7005078245).jpg · Australian National Maritime Museum on The Commons · No restrictions*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Situadas en el Pacífico, a unos mil kilómetros del subcontinente sudamericano,
 - ✈ **Seymour Galapagos Ecological Airport (GPS)** — 39.5 km
 - ✈ **General Villamil Airport (IBB)** — 54.3 km
 - ✈ **San Cristóbal Airport (SCY)** — 107.2 km
+- ⛴ **Muelle Pescadores** — 27.8 km
+- ⛴ **Muelle de Carga** — 27.8 km
+- ⛴ **Muelle de Pasageros Gus Angermeyer** — 27.9 km
+- ⛴ **Ferry a las Grietas** — 28.2 km
+- ⛴ **Finch bay hotel pier** — 28.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14839.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Finch Bay Hotel** — 28.2 km — star — 5★
+- **Duncan Suites** — 27.3 km — star — 4★
+- **Pikaya** — 30.4 km — star — 4★
+- **CAPITAN Max** — 27.5 km — star — 3★
+- **Muyuyo Galápagos** — 27.6 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

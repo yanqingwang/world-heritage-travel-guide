@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Yantai"
 lat: 37.567253
 lon: 120.485953
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 烟台市南山景区 / Yantai

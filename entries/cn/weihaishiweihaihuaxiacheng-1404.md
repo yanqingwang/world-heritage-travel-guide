@@ -2,7 +2,7 @@
 id: "cn-1404"
 dataset: "china_5a"
 name_zh: "威海市威海华夏城景区"
-name_en: "Weihai"
+name_en: "Weihaishiweihaihuaxiacheng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shandong"
 city_en: "Weihai"
 lat: 37.429984
 lon: 122.122166
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
-# 威海市威海华夏城景区 / Weihai
+# 威海市威海华夏城景区 / Weihaishiweihaihuaxiacheng Scenic Area
 
 > 山东省 · 威海市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Weihai (Weihainese: Wé4iHæ, [ʋeɪ̯˥˩ hɛ̆꜌]; Chinese: 威海; pinyin: Wēihǎi), formerly Weihaiwei (Chinese: 威海卫; pinyin: Wēihǎiwèi; lit. 'Mighty Sea Fort'), is a prefecture-level city and major seaport city in the easternmost Shandong province of China. It borders Yantai to the west and the Yellow Sea to the east, and is the closest mainland Chinese city to South Korea (specifically, Chengshan to Yeonpyeongdo). Compared with the 2,804,771 people in the 2010 Chinese census, there has been a total increase of 101,777 people over the past decade, an increase of 3.63%, with an average annual growth rate of 0.36%. Weihai's population was 2,906,548 as of the 2020 Chinese census, of whom 1,164,730 lived in the current built-up (or metro) area of (Huancui District) even though Wendeng district to the south with 563,529 inhabitants is soon being conurbated. There are two county-level cities within Weihai; Rongcheng had a built up area with 714,211 inhabitants, while Rushan had 464,078 inhabitants in 2020.
+The scenic area mainly displays oriental classical culture. It is a large-scale ecological cultural tourism area with natural landscapes and beautiful scenery, humanities and architecture complementing each other, splendid folk performances, and comprehensive development of food, accommodation, travel, entertainment and shopping. It has been rated as a national cultural industry demonstration base.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Weihai (Weihainese: Wé4iHæ, [ʋeɪ̯˥˩ hɛ̆꜌]; Chinese: 威海; pinyin: W
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/威海市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

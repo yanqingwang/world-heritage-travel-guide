@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.67434
 lon: 120.732699
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 苏州市沙家浜-虞山尚湖旅游区 / Suzhou

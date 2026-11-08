@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vii)(viii)"
 lat: 61.5971
 lon: -125.852
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:09Z"
 ---
 
 # 纳汉尼国家公园 / Nahanni National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Nahanni - VirginiaFalls.jpg · see Wikimedia Commons file page*
 
-![Nahanni National Park](https://whc.unesco.org/uploads/sites/site_24.jpg)
+!["standing water" (9103242552).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%22standing_water%22_%289103242552%29.jpg/1280px-%22standing_water%22_%289103242552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Nahanni National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"standing water" (9103242552).jpg · Fort Simpson Chamber of Commerce · CC BY 2.0*
+
+![A little creek pouring into the Nahanni River (9101223021).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/A_little_creek_pouring_into_the_Nahanni_River_%289101223021%29.jpg/1280px-A_little_creek_pouring_into_the_Nahanni_River_%289101223021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A little creek pouring into the Nahanni River (9101223021).jpg · Fort Simpson Chamber of Commerce · CC BY 2.0*
+
+![Base of falls (9103259164).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Base_of_falls_%289103259164%29.jpg/1280px-Base_of_falls_%289103259164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Base of falls (9103259164).jpg · Fort Simpson Chamber of Commerce · CC BY 2.0*
+
+![Camping in Nahanni National Park Reserve (9103305810).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Camping_in_Nahanni_National_Park_Reserve_%289103305810%29.jpg/1280px-Camping_in_Nahanni_National_Park_Reserve_%289103305810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Camping in Nahanni National Park Reserve (9103305810).jpg · Fort Simpson Chamber of Commerce · CC BY 2.0*
 
 ## 简介 / Introduction
 

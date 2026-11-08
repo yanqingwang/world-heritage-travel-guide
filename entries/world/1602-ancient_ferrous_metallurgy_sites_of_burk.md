@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)(vi)"
 lat: 12.5878
 lon: -3.329
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:48Z"
 ---
 
 # 布基纳法索古冶铁遗址 / Ancient Ferrous Metallurgy Sites of Burkina Faso

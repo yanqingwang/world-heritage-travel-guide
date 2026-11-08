@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 34.29577
 lon: 132.320105
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:32Z"
 ---
 
 # 严岛神殿 / Itsukushima Shinto Shrine
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Itsukushima Gate.jpg · see Wikimedia Commons file page*
 
-![Itsukushima Shinto Shrine](https://whc.unesco.org/uploads/sites/site_776.jpg)
+![1167-5 Miyajimachō, Hatsukaichi-shi, Hiroshima-ken 739-0588, Japan - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/1167-5_Miyajimach%C5%8D%2C_Hatsukaichi-shi%2C_Hiroshima-ken_739-0588%2C_Japan_-_panoramio.jpg/1280px-1167-5_Miyajimach%C5%8D%2C_Hatsukaichi-shi%2C_Hiroshima-ken_739-0588%2C_Japan_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Itsukushima Shinto Shrine · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1167-5 Miyajimachō, Hatsukaichi-shi, Hiroshima-ken 739-0588, Japan - panoramio.jpg · usainohugahuga · CC BY 3.0*
+
+![1Miyajima882.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/1Miyajima882.jpg/1280px-1Miyajima882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1Miyajima882.jpg · Nanosanchez · Public domain*
+
+![20100723 Miyajima Itsukushima 4804.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/20100723_Miyajima_Itsukushima_4804.jpg/1280px-20100723_Miyajima_Itsukushima_4804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20100723 Miyajima Itsukushima 4804.jpg · Jakub Hałun · CC BY-SA 4.0*
+
+![20100723 Miyajima Itsukushima 4946.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/20100723_Miyajima_Itsukushima_4946.jpg/1280px-20100723_Miyajima_Itsukushima_4946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20100723 Miyajima Itsukushima 4946.jpg · Jakub Hałun · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ The island of Itsukushima, in the Seto inland sea, has been a holy place of Shin
 - ✈ **Iwakuni Kintaikyo Airport (IWK)** — 17.9 km
 - ✈ **Hiroshima Airport (HIJ)** — 57.1 km
 - ✈ **Matsuyama Airport (MYJ)** — 62.8 km
+- 🚉 **広電宮島口** — 2.3 km
+- 🚉 **宮島口** — 2.4 km
+- 🚉 **宮島ボートレース場** — 2.5 km
+- 🚉 **前空** — 2.9 km
+- 🚉 **阿品** — 3.1 km
+- ⛴ **宮島桟橋** — 0.7 km
+- ⛴ **宮島口フェリーのりば旅客ターミナル** — 2.2 km
+- ⛴ **三高〜宇品** — 9.0 km
+- ⛴ **三高桟橋** — 9.0 km
+- ⛴ **高田** — 12.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1534.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **蔵宿いろは** — 0.5 km — star — Kurayado Iroha · 5★
+- **旅館水羽荘** — 0.4 km — star — Auberge Mizuhaso · 3★
+- **宮島シーサイドホテル** — 1.7 km — star — Miyajima Seaside Hotel · 3★
+- **EN HOTEL** — 17.3 km — star — EN Hotel Hiroshima · 3★
+- **山一別館** — 0.7 km — star — Yamaichi Bekkan · 2★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

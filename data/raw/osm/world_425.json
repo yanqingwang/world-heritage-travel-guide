@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "The Randolph Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Graduate",
+   "lat": 51.754886,
+   "lon": -1.2597974,
+   "distance_km": 11.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Remont",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.7846803,
+   "lon": -1.2692663,
+   "distance_km": 8.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Old Parsonage Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.759504,
+   "lon": -1.2605607,
+   "distance_km": 11.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Bay Tree",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8079622,
+   "lon": -1.6385387,
+   "distance_km": 19.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Abingdon Oxford",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 51.6682539,
+   "lon": -1.3049206,
+   "distance_km": 19.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 341,
+ "stations": [
+  {
+   "name": "Palace Station",
+   "name_en": null,
+   "lat": 51.8429869,
+   "lon": -1.3581865,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Walled Garden Station",
+   "name_en": null,
+   "lat": 51.8388678,
+   "lon": -1.3505501,
+   "distance_km": 0.8,
+   "operator": null
+  },
+  {
+   "name": "Hanborough",
+   "name_en": null,
+   "lat": 51.8247081,
+   "lon": -1.3726319,
+   "distance_km": 2.0,
+   "operator": "Great Western Railway"
+  },
+  {
+   "name": "Combe",
+   "name_en": null,
+   "lat": 51.8326251,
+   "lon": -1.3939977,
+   "distance_km": 2.5,
+   "operator": "Great Western Railway"
+  },
+  {
+   "name": "Tackley",
+   "name_en": null,
+   "lat": 51.8814551,
+   "lon": -1.297508,
+   "distance_km": 6.2,
+   "operator": "Great Western Railway"
+  },
+  {
+   "name": "Oxford Parkway",
+   "name_en": null,
+   "lat": 51.8037471,
+   "lon": -1.275093,
+   "distance_km": 7.2,
+   "operator": "Chiltern Railways"
+  },
+  {
+   "name": "Finstock",
+   "name_en": null,
+   "lat": 51.8528179,
+   "lon": -1.4696045,
+   "distance_km": 7.6,
+   "operator": "Great Western Railway"
+  },
+  {
+   "name": "Islip",
+   "name_en": null,
+   "lat": 51.826163,
+   "lon": -1.2376466,
+   "distance_km": 8.6,
+   "operator": "Chiltern Railways"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Benson Marina",
+   "name_en": null,
+   "lat": 51.6199563,
+   "lon": -1.1159511,
+   "distance_km": 29.8,
+   "operator": null
+  },
+  {
+   "name": "Avon Boating",
+   "name_en": null,
+   "lat": 52.1891493,
+   "lon": -1.7057549,
+   "distance_km": 45.3,
+   "operator": null
+  },
+  {
+   "name": "Thames RiverCruise",
+   "name_en": null,
+   "lat": 51.4658287,
+   "lon": -0.9781492,
+   "distance_km": 49.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:09Z"
+}

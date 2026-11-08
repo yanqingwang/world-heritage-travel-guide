@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Xiamen"
 lat: 24.454028
 lon: 118.116413
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 厦门市厦门园林植物园景区 / Xiamen Botanical Gardens

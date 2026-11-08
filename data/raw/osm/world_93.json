@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Pierre",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4595211,
+   "lon": 9.1769569,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tne Unique Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4708783,
+   "lon": 9.1840372,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "TownHouse Duomo Milano",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4649448,
+   "lon": 9.1893721,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Galleria Vik Milano",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4657526,
+   "lon": 9.1893633,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bulgari Hotel Milano",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Bulgari",
+   "lat": 45.4700904,
+   "lon": 9.1892977,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 979,
+ "stations": [
+  {
+   "name": "Milano Cadorna",
+   "name_en": null,
+   "lat": 45.4684048,
+   "lon": 9.175523,
+   "distance_km": 0.4,
+   "operator": "Ferrovienord"
+  },
+  {
+   "name": "Milano Domodossola",
+   "name_en": null,
+   "lat": 45.4808646,
+   "lon": 9.1622369,
+   "distance_km": 1.8,
+   "operator": "Ferrovienord"
+  },
+  {
+   "name": "Milano Porta Garibaldi (passante)",
+   "name_en": null,
+   "lat": 45.4840444,
+   "lon": 9.1866425,
+   "distance_km": 2.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Milano Porta Garibaldi (superficie)",
+   "name_en": "Milano Porta Garibaldi railway station",
+   "lat": 45.4845605,
+   "lon": 9.1873439,
+   "distance_km": 2.4,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Milano Romolo",
+   "name_en": null,
+   "lat": 45.4432682,
+   "lon": 9.1678498,
+   "distance_km": 2.5,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Milano Repubblica",
+   "name_en": null,
+   "lat": 45.4803739,
+   "lon": 9.1988454,
+   "distance_km": 2.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Milano Tibaldi",
+   "name_en": null,
+   "lat": 45.4441605,
+   "lon": 9.1855664,
+   "distance_km": 2.7,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Milano Porta Venezia",
+   "name_en": null,
+   "lat": 45.4757916,
+   "lon": 9.2087419,
+   "distance_km": 3.1,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Approdo",
+   "name_en": null,
+   "lat": 45.4180145,
+   "lon": 9.0695831,
+   "distance_km": 9.5,
+   "operator": null
+  },
+  {
+   "name": "Casa del custode delle acque",
+   "name_en": null,
+   "lat": 45.5737467,
+   "lon": 9.5338113,
+   "distance_km": 30.7,
+   "operator": null
+  },
+  {
+   "name": "Concesa",
+   "name_en": null,
+   "lat": 45.6016904,
+   "lon": 9.5294424,
+   "distance_km": 31.7,
+   "operator": null
+  },
+  {
+   "name": "Imbersago",
+   "name_en": null,
+   "lat": 45.7079015,
+   "lon": 9.4562922,
+   "distance_km": 34.9,
+   "operator": null
+  },
+  {
+   "name": "Villa d'Adda",
+   "name_en": null,
+   "lat": 45.7083748,
+   "lon": 9.4569723,
+   "distance_km": 35.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:58:14Z"
+}

@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(iv)(vii)(viii)(ix)(x)"
 lat: -3.21
 lon: 35.46
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:10Z"
 ---
 
 # 恩戈罗恩戈罗自然保护区 / Ngorongoro Conservation Area
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Ngorongo 1.jpg · see Wikimedia Commons file page*
 
-![Ngorongoro Conservation Area](https://whc.unesco.org/uploads/sites/site_39.jpg)
+!["Kigelia africana", leverworstboom, worstenboom (6693822091).jpg](https://upload.wikimedia.org/wikipedia/commons/5/58/%22Kigelia_africana%22%2C_leverworstboom%2C_worstenboom_%286693822091%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ngorongoro Conservation Area · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Kigelia africana", leverworstboom, worstenboom (6693822091).jpg · Martijn.Munneke from Netherlands · CC BY 2.0*
+
+![016 Divine light illuminating the Ngorongoro Crater Photo by Giles Laurent.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/016_Divine_light_illuminating_the_Ngorongoro_Crater_Photo_by_Giles_Laurent.jpg/1280px-016_Divine_light_illuminating_the_Ngorongoro_Crater_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*016 Divine light illuminating the Ngorongoro Crater Photo by Giles Laurent.jpg · Giles Laurent · CC BY-SA 4.0*
+
+![1973-12-26 Ngorongoro - Landschap.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/1973-12-26_Ngorongoro_-_Landschap.jpg/1280px-1973-12-26_Ngorongoro_-_Landschap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1973-12-26 Ngorongoro - Landschap.jpg · Guus Gorter · CC BY-SA 4.0*
+
+![1973-12-26 Ngorongoro krater, dia 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/1973-12-26_Ngorongoro_krater%2C_dia_2.jpg/1280px-1973-12-26_Ngorongoro_krater%2C_dia_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1973-12-26 Ngorongoro krater, dia 2.jpg · Guus Gorter · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Hifadhi ya Ngorongoro (kwa Kiingereza: "Ngorongoro Conservation Area") ni hifadh
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ngorongoro Wildlife Lodge** — 6.9 km — star — 5★
+- **Bashay Rift Lodge** — 26.7 km — star — 4★
+- **Ngorongoro Serena Safari Lodge** — 2.0 km — hotel
+- **&Beyond Ngorongoro Crater Lodge** — 5.3 km — hotel
+- **Rhino Lodge** — 8.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

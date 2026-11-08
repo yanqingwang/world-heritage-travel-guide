@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iv)"
 lat: 18.9398
 lon: 72.8355
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:37Z"
 ---
 
 # 贾特拉帕蒂•希瓦吉终点站（前维多利亚终点站） / Chhatrapati Shivaji Terminus (formerly Victoria Terminus)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *Chatrapati Shivaji Terminus Pano.jpg · see Wikimedia Commons file page*
 
-![Chhatrapati Shivaji Terminus (formerly Victoria Terminus)](https://whc.unesco.org/uploads/sites/site_945.jpg)
+![AMCHI MUMBAI CST (vintage LAMP-POST at near BY CST STATION and BMC office ) click by Abhijit Malandkar.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/AMCHI_MUMBAI_CST_%28vintage_LAMP-POST_at_near_BY_CST_STATION_and_BMC_office_%29_click_by_Abhijit_Malandkar.jpg/1280px-AMCHI_MUMBAI_CST_%28vintage_LAMP-POST_at_near_BY_CST_STATION_and_BMC_office_%29_click_by_Abhijit_Malandkar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Chhatrapati Shivaji Terminus (formerly Victoria Terminus) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*AMCHI MUMBAI CST (vintage LAMP-POST at near BY CST STATION and BMC office ) click by Abhijit Malandkar.jpg · Abhijitmal92 · CC BY-SA 4.0*
+
+![AMCHI MUMBAI CST (Way to get-of-india ) click by Abhijit Malandkar.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/AMCHI_MUMBAI_CST_%28Way_to_get-of-india_%29_click_by_Abhijit_Malandkar.jpg/1280px-AMCHI_MUMBAI_CST_%28Way_to_get-of-india_%29_click_by_Abhijit_Malandkar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AMCHI MUMBAI CST (Way to get-of-india ) click by Abhijit Malandkar.jpg · Abhijitmal92 · CC BY-SA 4.0*
+
+![BEST-AC-CST.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/BEST-AC-CST.jpg/1280px-BEST-AC-CST.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*BEST-AC-CST.jpg · Rsrikanth05 · CC BY-SA 4.0*
+
+![Chatrapati Shivaji Terminus Bombay.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Chatrapati_Shivaji_Terminus_Bombay.jpg/1280px-Chatrapati_Shivaji_Terminus_Bombay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chatrapati Shivaji Terminus Bombay.jpg · Amitbalani · CC0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,25 @@ The Chhatrapati Shivaji Terminus, formerly known as Victoria Terminus Station, i
 - ✈ **Chhatrapati Shivaji Maharaj International Airport (BOM)** — 16.9 km
 - ✈ **Navi Mumbai International Airport (NMI)** — 24.7 km
 - ✈ **Pune International Airport (PNQ)** — 120.9 km
+- 🚉 **Mumbai CSMT** — 0.1 km
+- 🚉 **Churchgate** — 1.0 km
+- 🚉 **Marine Lines** — 1.4 km
+- 🚉 **Masjid** — 1.4 km
+- 🚉 **Charni Road** — 2.3 km
+- ⛴ **Mumbai International Cruise Terminal** — 1.3 km
+- ⛴ **Gateway of India - Mandwa Rewas Ferry Terminal** — 1.9 km
+- ⛴ **Angriya Water Terminal** — 1.9 km
+- ⛴ **Gateway of India - Elephanta Island ferry service** — 2.0 km
+- ⛴ **M2M Ro-Ro Terminal** — 2.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4764.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Trident, Nariman-Point** — 2.0 km — star — 5★ · Trident
+- **The Oberoi** — 2.1 km — star — 5★ · Oberoi
+- **Taj Lands End** — 11.7 km — star — Taj Lands End · 5★ · Taj
+- **Taj Santacruz Mumbai** — 17.1 km — star — 5★ · Taj
+- **JW Marriott Mumbai Sahar** — 18.7 km — star — 5★ · JW Marriott
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

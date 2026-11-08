@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iii)(iv)(v)(vii)(viii)"
 lat: 42.65
 lon: 0.05
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:32Z"
 ---
 
 # 比利牛斯——珀杜山 / Pyrénées - Mont Perdu

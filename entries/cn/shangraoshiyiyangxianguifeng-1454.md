@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 28.332988
 lon: 117.421056
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 上饶市弋阳县龟峰景区 / Yiyang County, Jiangxi
@@ -21,10 +21,6 @@ updated_at: "2026-11-07T22:58:13Z"
 > 江西省 · 上饶市 · 地质奇观
 
 ## 图片 / Images
-
-![Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg/1280px-Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ![Jiangxi Yiyang.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiangxi_Yiyang.svg/1280px-Jiangxi_Yiyang.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -41,6 +37,10 @@ updated_at: "2026-11-07T22:58:13Z"
 ![Yiyang County Museum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Yiyang_County_Museum.jpg/1280px-Yiyang_County_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Yiyang County Museum.jpg · Baomi · CC BY-SA 4.0*
+
+![Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg/1280px-Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

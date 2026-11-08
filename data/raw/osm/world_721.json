@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hyatt House",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hyatt House",
+   "lat": 32.371975,
+   "lon": -104.2326293,
+   "distance_km": 29.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Home2 Suites by Hilton Carlsbad",
+   "name_en": null,
+   "stars": null,
+   "brand": "Home2 Suites",
+   "lat": 32.3814111,
+   "lon": -104.223978,
+   "distance_km": 30.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn and Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton Inn & Suites",
+   "lat": 32.3957785,
+   "lon": -104.2230925,
+   "distance_km": 32.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 32.392347,
+   "lon": -104.2185502,
+   "distance_km": 32.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Stevens Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 32.4014715,
+   "lon": -104.2237571,
+   "distance_km": 32.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 21,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:00:37Z"
+}

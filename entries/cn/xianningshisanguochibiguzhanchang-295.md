@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Xianning City"
 lat: 29.885145
 lon: 113.637088
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 咸宁市三国赤壁古战场景区 / Chibi Scenic Area

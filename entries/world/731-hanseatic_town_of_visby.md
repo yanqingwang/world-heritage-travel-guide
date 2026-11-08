@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)(v)"
 lat: 57.64166667
 lon: 18.29583333
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:31Z"
 ---
 
 # 汉萨同盟城市维斯比 / Hanseatic Town of Visby

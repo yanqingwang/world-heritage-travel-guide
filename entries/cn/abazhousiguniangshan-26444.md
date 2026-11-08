@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 31.035123
 lon: 102.818742
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 阿坝州四姑娘山景区 / Mount Siguniang
@@ -38,9 +38,9 @@ updated_at: "2026-11-07T22:58:13Z"
 
 *Dujiangyan panorama.jpg · Thehistorianisaac · CC0*
 
-![四姑娘山景区 Mount Siguniang Scenic Area 27.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%99%AF%E5%8C%BA_Mount_Siguniang_Scenic_Area_27.jpg/1280px-%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%99%AF%E5%8C%BA_Mount_Siguniang_Scenic_Area_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![四姑娘山景区 Mount Siguniang Scenic Area 39.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%99%AF%E5%8C%BA_Mount_Siguniang_Scenic_Area_39.jpg/1280px-%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E6%99%AF%E5%8C%BA_Mount_Siguniang_Scenic_Area_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*四姑娘山景区 Mount Siguniang Scenic Area 27.jpg · George N · CC BY 2.0*
+*四姑娘山景区 Mount Siguniang Scenic Area 39.jpg · George N · CC BY 2.0*
 
 ## 简介 / Introduction
 

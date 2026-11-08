@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(ii)(iv)"
 lat: 18.93472
 lon: -98.89778
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 波波卡特佩山坡上最早的16世纪修道院 / Earliest 16th-Century Monasteries on the Slopes of Popocatepetl

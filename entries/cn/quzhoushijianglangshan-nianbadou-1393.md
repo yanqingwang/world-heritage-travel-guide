@@ -2,7 +2,7 @@
 id: "cn-1393"
 dataset: "china_5a"
 name_zh: "衢州市江郎山•廿八都旅游区"
-name_en: "Mount Jianglang"
+name_en: "Quzhoushijianglangshan•nianbadou Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Quzhou City"
 lat: 28.29801
 lon: 118.489754
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
-# 衢州市江郎山•廿八都旅游区 / Mount Jianglang
+# 衢州市江郎山•廿八都旅游区 / Quzhoushijianglangshan•nianbadou Tourist Area
 
 > 浙江省 · 衢州市 · 地质奇观
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Jianglangshan or Mount Jianglang (Chinese: 江郎山; pinyin: Jiāngláng Shān) is a mountain in Jiangshan, Zhejiang, China. Three peaks from north to south make its recognizable "river-shaped" arrangement, as follows: Lang Feng, Ya Feng and Ling Feng. Lang Feng has elevation of 816.8 m (2,680 ft). The mountain exhibits Danxia landform, and was inscribed onto the World Heritage List in August 2010 as part of China Danxia. In September 2013, Mount Jianglang was the scene for a stunt by Jeb Corliss where he flew between two of the peaks in a wingsuit, starting the jump from a helicopter.
+The scenic spot is mainly characterized by Danxia Qifeng, which is composed of Sanyi Stone, Shibaqu, Tower Peak, Xunv Lake, Xianju Temple and other parts. Jianglang Mountain is famous for its majestic and unique "Three Pillars" and has scenic spots such as Great Man Peak, Langfeng Tianyou, Kaiming Zen Temple, and Jianglang Academy. Nianbadu was historically an important market town in the border area and was known as the "Key to Maple Creek".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -71,10 +73,9 @@ Jianglangshan or Mount Jianglang (Chinese: 江郎山; pinyin: Jiāngláng Shān)
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/江郎山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

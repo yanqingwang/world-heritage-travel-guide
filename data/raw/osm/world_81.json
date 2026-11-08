@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Grand Monarque",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.4443975,
+   "lon": 1.4831709,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Chartres",
+   "name_en": "Novotel Chartres",
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 48.4523391,
+   "lon": 1.5301699,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Mercure Relays du Château",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Mercure",
+   "lat": 48.6457496,
+   "lon": 1.8191311,
+   "distance_km": 32.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Domaine de l'ancienne abbaye des Vaux de Cernay (également sur commune de Auffargis)",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.683873,
+   "lon": 1.9369052,
+   "distance_km": 42.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel Des poèmes",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 48.447586,
+   "lon": 1.4817694,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 75,
+ "stations": [
+  {
+   "name": "Chartres",
+   "name_en": null,
+   "lat": 48.4484362,
+   "lon": 1.480857,
+   "distance_km": 0.5,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "La Villette - Saint-Prest",
+   "name_en": null,
+   "lat": 48.4827059,
+   "lon": 1.5230874,
+   "distance_km": 4.7,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Amilly Ouerray",
+   "name_en": null,
+   "lat": 48.4382588,
+   "lon": 1.3893306,
+   "distance_km": 7.3,
+   "operator": null
+  },
+  {
+   "name": "Jouy",
+   "name_en": null,
+   "lat": 48.5100787,
+   "lon": 1.5576496,
+   "distance_km": 8.6,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Saint-Piat",
+   "name_en": null,
+   "lat": 48.5428752,
+   "lon": 1.5902024,
+   "distance_km": 13.0,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Maintenon",
+   "name_en": null,
+   "lat": 48.5855671,
+   "lon": 1.5925337,
+   "distance_km": 17.2,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Courville-sur-Eure",
+   "name_en": null,
+   "lat": 48.4514321,
+   "lon": 1.2348341,
+   "distance_km": 18.7,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Auneau",
+   "name_en": null,
+   "lat": 48.4458848,
+   "lon": 1.7800726,
+   "distance_km": 21.6,
+   "operator": "SNCF Gares & Connexions"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:49Z"
+}

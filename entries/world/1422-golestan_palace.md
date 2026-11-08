@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)(iv)"
 lat: 35.679722222
 lon: 51.420277777
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:44Z"
 ---
 
 # 古列斯坦宮 / Golestan Palace
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Milad-poorali.jpg · see Wikimedia Commons file page*
 
-![Golestan Palace](https://whc.unesco.org/uploads/sites/site_1422.jpg)
+![-Golestan, The Peacock Throne, Teheran, Iran- (Takht-I Taous) MET DP202914.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/-Golestan%2C_The_Peacock_Throne%2C_Teheran%2C_Iran-_%28Takht-I_Taous%29_MET_DP202914.jpg/1280px--Golestan%2C_The_Peacock_Throne%2C_Teheran%2C_Iran-_%28Takht-I_Taous%29_MET_DP202914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Golestan Palace · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*-Golestan, The Peacock Throne, Teheran, Iran- (Takht-I Taous) MET DP202914.jpg · Luigi Pesce · CC0*
+
+![-Golestan, The Peacock Throne, Teheran, Iran- (Takht-I Taous) MET DP202915.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/-Golestan%2C_The_Peacock_Throne%2C_Teheran%2C_Iran-_%28Takht-I_Taous%29_MET_DP202915.jpg/1280px--Golestan%2C_The_Peacock_Throne%2C_Teheran%2C_Iran-_%28Takht-I_Taous%29_MET_DP202915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-Golestan, The Peacock Throne, Teheran, Iran- (Takht-I Taous) MET DP202915.jpg · Luigi Pesce · CC0*
+
+![-In the Mosque of the Damegan-The Eunuchs- MET DP163282.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/-In_the_Mosque_of_the_Damegan-The_Eunuchs-_MET_DP163282.jpg/1280px--In_the_Mosque_of_the_Damegan-The_Eunuchs-_MET_DP163282.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-In the Mosque of the Damegan-The Eunuchs- MET DP163282.jpg · Luigi Pesce · CC0*
+
+![1047.GolestanMuseum (1405206037).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/1047.GolestanMuseum_%281405206037%29.jpg/1280px-1047.GolestanMuseum_%281405206037%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1047.GolestanMuseum (1405206037).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ The lavish Golestan Palace is a masterpiece of the Qajar era, embodying the succ
 - ✈ **Mehrabad International Airport (THR)** — 9.6 km
 - ✈ **Imam Khomeini International Airport (IKA)** — 38.0 km
 - ✈ **Payam International Airport (PYK)** — 54.6 km
+- 🚉 **ایستگاه راه آهن تهران** — 3.1 km
+- 🚉 **ری** — 11.0 km
+- 🚉 **تپه سفید** — 12.8 km
+- 🚉 **ایستگاه مترو ورزشگاه آزادی** — 13.2 km
+- 🚉 **نیک پسندی** — 14.9 km
+- ⛴ **باربری عظیمیه زنبق بار کرج09355579072** — 39.5 km
+- ⛴ **باربری بلوار هفت تیر زنبق بار09355579072** — 41.1 km
+- ⛴ **باربری مهستان زنبق بار 09355579072** — 42.5 km
+- ⛴ **باربری فاز4مهرشهرزنبق بار0935579072** — 46.0 km
+- ⛴ **اتوبار زنبق بار مهرشهر 0935579072** — 48.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5619.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل بین المللی اسپیناس** — 3.7 km — star — Espinas International Hotel · 5★ · Espinas International Hotel
+- **هتل پرشین پلازا** — 5.7 km — star — persian plaza hotel · 5★ · plaza
+- **هتل پارسیان استقلال** — 12.3 km — star — Parsian Esteghal Hotel · 5★
+- **هتل پارسیان آزادی** — 12.6 km — star — Parsian Azadi Hotel · 5★
+- **هتل اسپیناس پالاس** — 13.9 km — star — Espinas Palace Hotel · 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

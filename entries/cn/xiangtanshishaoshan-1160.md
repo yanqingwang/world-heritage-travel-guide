@@ -2,7 +2,7 @@
 id: "cn-1160"
 dataset: "china_5a"
 name_zh: "湘潭市韶山旅游区"
-name_en: "Xiangtan"
+name_en: "Xiangtanshishaoshan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Xiangtan City"
 lat: 27.910503
 lon: 112.49678
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 湘潭市韶山旅游区 / Xiangtan
+# 湘潭市韶山旅游区 / Xiangtanshishaoshan Tourist Area
 
 > 湖南省 · 湘潭市 · 红色旅游
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Xiangtan (Chinese: 湘潭) is a prefecture-level city in east-central Hunan province, south-central China. The hometowns of several founding leaders of the Chinese Communist Party, including Chairman Mao Zedong, President Liu Shaoqi, and Marshal Peng Dehuai, are in Xiangtan's administration, as well as the hometowns of Qing dynasty and republic era painter Qi Baishi, Confucian scholar-general Zeng Guofan, and tennis player Peng Shuai. Xiangtan forms a part of the Greater Changsha Metropolitan Region with Changsha as the core city along with Zhuzhou, also known as Changzhutan City Cluster, one of the core cities in Central China. Xiangtan is one of the top 200 cities in the world by scientific research outputs, as tracked by the Nature Index. It is home to Xiangtan University, a Double First-Class Construction university, and two provincial key public universities of Hunan Institute of Engineering and Hunan University of Science and Technology, as well as a high-tech industrial development zone.
+Shaoshan is the hometown of the great leader Mao Zedong. It is also the place where Mao Zedong lived, studied, worked and engaged in revolutionary activities in his early youth. Shaoshan has a long history. It belonged to Jingchu in ancient times. It got its name because Emperor Shun came here to perform Shao music during his tour to the south. The area has beautiful bells, beautiful scenery, and the cultural and natural landscapes complement each other.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,10 +76,9 @@ Xiangtan (Chinese: 湘潭) is a prefecture-level city in east-central Hunan prov
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/湘潭市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "فندق زليتن",
+   "name_en": "Zliten Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 32.4752042,
+   "lon": 14.5602048,
+   "distance_km": 30.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق المرقب",
+   "name_en": "Al Mergab Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6296921,
+   "lon": 14.2824465,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الخمس",
+   "name_en": "Al Khoms Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6527569,
+   "lon": 14.2706285,
+   "distance_km": 2.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الحسنين",
+   "name_en": "Hassanin Hotel-Khoms",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6435008,
+   "lon": 14.2512438,
+   "distance_km": 3.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق سيفيروس-الخمس",
+   "name_en": "Severus Hotel -Khoms",
+   "stars": null,
+   "brand": null,
+   "lat": 32.6444891,
+   "lon": 14.2505349,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 10,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:28Z"
+}

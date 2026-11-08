@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 29.846794
 lon: 118.292631
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 黄山市皖南古村落-西递宏村 / Huangshan
@@ -38,9 +38,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *Mount-huangshan 53319729912.jpg · xiquinhosilva · CC BY 2.0*
 
-![Mount-huangshan 53319732602 o.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Mount-huangshan_53319732602_o.jpg/1280px-Mount-huangshan_53319732602_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Mount-huangshan 53320601421 o.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mount-huangshan_53320601421_o.jpg/1280px-Mount-huangshan_53320601421_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mount-huangshan 53319732602 o.jpg · xiquinhosilva · CC BY 2.0*
+*Mount-huangshan 53320601421 o.jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 

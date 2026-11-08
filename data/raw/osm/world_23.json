@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "زنوبيا شام بالاس",
+   "name_en": "Zenobia Cham Palace",
+   "stars": null,
+   "brand": null,
+   "lat": 34.553987,
+   "lon": 38.2711787,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "بل",
+   "name_en": "Bel Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5553847,
+   "lon": 38.275757,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق فيلا بالميرا",
+   "name_en": "Hotel Villa Palmyra",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5552029,
+   "lon": 38.2765976,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palace Hotel",
+   "name_en": "Palace Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5546151,
+   "lon": 38.2763956,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ديديمان تدمر",
+   "name_en": "Dedeman Palmyra",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5473111,
+   "lon": 38.2596323,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:30Z"
+}

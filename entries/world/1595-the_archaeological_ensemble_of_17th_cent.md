@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)(vi)"
 lat: 17.9375
 lon: -76.841388888
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:48Z"
 ---
 
 # 皇家港17世纪考古景观 / The Archaeological Ensemble of 17th Century Port Royal
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:56Z"
 
 *Aerial view of Port Royal Jamaica.JPG · see Wikimedia Commons file page*
 
-![The Archaeological Ensemble of 17th Century Port Royal](https://whc.unesco.org/uploads/sites/site_1595.jpg)
+![110727-N-XD935-231 (5988128648).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/110727-N-XD935-231_%285988128648%29.jpg/1280px-110727-N-XD935-231_%285988128648%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Archaeological Ensemble of 17th Century Port Royal · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*110727-N-XD935-231 (5988128648).jpg · U.S. Department of Defense Current Photos · Public domain*
+
+![110729-N-XD935-032 (6002139847).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/110729-N-XD935-032_%286002139847%29.jpg/1280px-110729-N-XD935-032_%286002139847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*110729-N-XD935-032 (6002139847).jpg · U.S. Department of Defense Current Photos · Public domain*
+
+![1988 Port Royal Fort Charles 2.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6e/1988_Port_Royal_Fort_Charles_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1988 Port Royal Fort Charles 2.jpg · De Geo · CC BY-SA 4.0*
+
+![Aerial view of Port Royal Jamaica.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_view_of_Port_Royal_Jamaica.JPG/1280px-Aerial_view_of_Port_Royal_Jamaica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial view of Port Royal Jamaica.JPG · Raychristofer · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,19 @@ The town of Port Royal is located at the mouth of Kingston Harbour in southeaste
 - ✈ **Norman Manley International Airport (KIN)** — 5.7 km
 - ✈ **Tinson Pen Airport (KTP)** — 6.0 km
 - ✈ **Ian Fleming International Airport (OCJ)** — 53.6 km
+- 🚉 **Old Bog Walk Railway Station** — 25.2 km
+- ⛴ **Port Royal Cruise Ship Port** — 0.7 km
+- ⛴ **Errol Flynn Marina** — 49.1 km
+- ⛴ **Ken Wright Cruise Ship Pier** — 49.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13416.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **ROK Hotel Kingston, Tapestry Collection by Hilton** — 6.0 km — chain
+- **Courtyard by Marriott Kingston, Jamaica** — 9.2 km — chain — Courtyard
+- **Hotel Four Seasons** — 9.3 km — chain
+- **The Kingston Hilton Hotel** — 9.4 km — chain
+- **AC Marriott Hotel** — 10.3 km — chain — Marriott
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

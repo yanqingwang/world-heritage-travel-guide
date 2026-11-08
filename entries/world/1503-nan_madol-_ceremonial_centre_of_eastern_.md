@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(i)(iii)(iv)(vi)"
 lat: 6.841944
 lon: 158.332222
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:46Z"
 ---
 
 # 南马都尔：东密克罗尼西亚庆典中心 / Nan Madol: Ceremonial Centre of Eastern Micronesia
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Nan madol.jpg · see Wikimedia Commons file page*
 
-![Nan Madol: Ceremonial Centre of Eastern Micronesia](https://whc.unesco.org/uploads/sites/site_1503.jpg)
+![110705-O-ZZ999-007 (5914132920).jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/110705-O-ZZ999-007_%285914132920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Nan Madol: Ceremonial Centre of Eastern Micronesia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*110705-O-ZZ999-007 (5914132920).jpg · COMSEVENTHFLT · CC BY-SA 2.0*
+
+![HH1883 pg076 Nanmatal, Ponape.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/HH1883_pg076_Nanmatal%2C_Ponape.jpg/1280px-HH1883_pg076_Nanmatal%2C_Ponape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*HH1883 pg076 Nanmatal, Ponape.jpg · Public domain*
+
+![D194- murs cyclopéens en basalte - L1-Ch4.png](https://upload.wikimedia.org/wikipedia/commons/f/fa/D194-_murs_cyclop%C3%A9ens_en_basalte_-_L1-Ch4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*D194- murs cyclopéens en basalte - L1-Ch4.png · Élisée Reclus · Public domain*
+
+![Detail of a wall constructed of columnar basalt pieces at Nan Madol.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a1/Detail_of_a_wall_constructed_of_columnar_basalt_pieces_at_Nan_Madol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Detail of a wall constructed of columnar basalt pieces at Nan Madol.jpg · Jebrennan · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -48,7 +60,11 @@ Nan Madol is a series of more than 100 islets off the south-east coast of Pohnpe
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Seven Stars Inn** — 18.7 km — hotel
+- **Yvonne´s Hotel** — 19.0 km — hotel
+- **Qceanview** — 19.1 km — hotel
+- **Joy Hotel** — 19.2 km — hotel
+- **Mangrove Bay Hotel** — 19.5 km — hotel — Mangrove Bay Hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

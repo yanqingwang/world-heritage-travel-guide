@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Zhoushan City"
 lat: 30.007976
 lon: 122.397608
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 舟山市普陀山风景区 / Mount Putuo

@@ -2,7 +2,7 @@
 id: "cn-1396"
 dataset: "china_5a"
 name_zh: "嘉兴市西塘古镇旅游景区"
-name_en: "Jiaxing"
+name_en: "Jiaxingshixitangguzhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Jiaxing City"
 lat: 30.949711
 lon: 120.902526
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
-# 嘉兴市西塘古镇旅游景区 / Jiaxing
+# 嘉兴市西塘古镇旅游景区 / Jiaxingshixitangguzhen Scenic Area
 
 > 浙江省 · 嘉兴市 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Jiaxing (simplified Chinese: 嘉兴; traditional Chinese: 嘉興; pinyin: Jiāxīng; Wade–Giles: Chia-hsing), alternately romanized as Kashing, is a prefecture-level city in northern Zhejiang province, China. Lying on the Grand Canal of China, Jiaxing borders Hangzhou to the southwest, Huzhou to the west, Shanghai to the northeast, and the province of Jiangsu to the north. As of the 2020 census, its population was 5,400,868 and its built-up (or metro) area, made up of 2 urban districts was home to 1,518,654 inhabitants.
+Xitang Ancient Town has a flat terrain and dense rivers, presenting a landscape with "many bridges, lanes, and sheds". As one of the first batch of historical and cultural towns in China and one of the six ancient towns in Jiangnan, it has a long history and is one of the birthplaces of ancient Wuyue culture. It has won the Outstanding Achievement Award for World Heritage Protection and has been included in China's World Cultural Heritage Preparatory List by the State Administration of Cultural Heritage.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Jiaxing (simplified Chinese: 嘉兴; traditional Chinese: 嘉興; pinyin: Jiāx�
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/嘉兴市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

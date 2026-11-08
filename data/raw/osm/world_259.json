@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "The Park Vista",
+   "name_en": null,
+   "stars": null,
+   "brand": "DoubleTree",
+   "lat": 35.7037018,
+   "lon": -83.5126534,
+   "distance_km": 13.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 35.7039542,
+   "lon": -83.5171844,
+   "distance_km": 13.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express Gatlinburg Downtown",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 35.7073303,
+   "lon": -83.5181114,
+   "distance_km": 13.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn Gatlinburg",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 35.7095083,
+   "lon": -83.5210876,
+   "distance_km": 14.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express & Suites Cherokee/Casino",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 35.468472,
+   "lon": -83.3045958,
+   "distance_km": 19.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 210,
+ "stations": [
+  {
+   "name": "Bryson",
+   "name_en": null,
+   "lat": 35.4304766,
+   "lon": -83.4468985,
+   "distance_km": 20.2,
+   "operator": "Great Smoky Mountains Railroad"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:59:00Z"
+}

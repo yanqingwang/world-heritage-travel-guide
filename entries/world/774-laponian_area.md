@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(v)(vii)(viii)(ix)"
 lat: 67.33333
 lon: 17.58333
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:32Z"
 ---
 
 # 拉普人区域 / Laponian Area

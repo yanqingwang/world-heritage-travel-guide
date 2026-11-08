@@ -1,0 +1,112 @@
+{
+ "hotels": [
+  {
+   "name": "Ramada Plaza by Wyndham Konya",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Ramada",
+   "lat": 37.9352763,
+   "lon": 32.5117683,
+   "distance_km": 40.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Konya",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton Garden Inn",
+   "lat": 37.8684629,
+   "lon": 32.5129899,
+   "distance_km": 35.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dergâh Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8713804,
+   "lon": 32.5028458,
+   "distance_km": 36.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Think Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8714393,
+   "lon": 32.5024513,
+   "distance_km": 36.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Otel Selçuk",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.8730268,
+   "lon": 32.4957242,
+   "distance_km": 37.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 39,
+ "stations": [
+  {
+   "name": "Çumra",
+   "name_en": null,
+   "lat": 37.5720111,
+   "lon": 32.7845981,
+   "distance_km": 11.3,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Kaşınhan",
+   "name_en": null,
+   "lat": 37.7032,
+   "lon": 32.5684579,
+   "distance_km": 23.2,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Arıkören",
+   "name_en": null,
+   "lat": 37.4607025,
+   "lon": 32.9280828,
+   "distance_km": 24.6,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Konya",
+   "name_en": null,
+   "lat": 37.8653357,
+   "lon": 32.4758962,
+   "distance_km": 38.0,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Selçuklu YHT",
+   "name_en": null,
+   "lat": 37.898243,
+   "lon": 32.4981516,
+   "distance_km": 38.7,
+   "operator": "TCDD Taşımacılık"
+  },
+  {
+   "name": "Pınarbaşı",
+   "name_en": null,
+   "lat": 38.0372312,
+   "lon": 32.6049151,
+   "distance_km": 45.6,
+   "operator": "TCDD Taşımacılık"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:38Z"
+}

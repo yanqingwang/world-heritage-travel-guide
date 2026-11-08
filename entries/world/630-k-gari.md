@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(vii)(viii)(ix)"
 lat: -25.24
 lon: 153.15
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:29Z"
 ---
 
 # 弗雷泽岛 / K’gari
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Fraser Island view from Indian Head.jpg · see Wikimedia Commons file page*
 
-![K’gari](https://whc.unesco.org/uploads/sites/site_630.jpg)
+![4WD at the beach - essentially Fraser Island.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/4WD_at_the_beach_-_essentially_Fraser_Island.jpg/1280px-4WD_at_the_beach_-_essentially_Fraser_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*K’gari · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*4WD at the beach - essentially Fraser Island.jpg · Travelstine · CC BY-SA 4.0*
+
+![4wd bus fraser island.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/4wd_bus_fraser_island.jpg/1280px-4wd_bus_fraser_island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*4wd bus fraser island.jpg · Photnart · CC BY-SA 3.0*
+
+![A gnarled paper bark tree on the edge of a Fraser Island Lake.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/A_gnarled_paper_bark_tree_on_the_edge_of_a_Fraser_Island_Lake.jpg/1280px-A_gnarled_paper_bark_tree_on_the_edge_of_a_Fraser_Island_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A gnarled paper bark tree on the edge of a Fraser Island Lake.jpg · Keith Sinclair · CC BY-SA 4.0*
+
+![A077 Australia Fraser Island Salted Ponds Kingfisher bay (5052281318).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/A077_Australia_Fraser_Island_Salted_Ponds_Kingfisher_bay_%285052281318%29.jpg/1280px-A077_Australia_Fraser_Island_Salted_Ponds_Kingfisher_bay_%285052281318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A077 Australia Fraser Island Salted Ponds Kingfisher bay (5052281318).jpg · DANIEL JULIE from Paris, France · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,18 @@ K’gari lies just off the east coast of Australia. At 122 km long, it is the la
 - ✈ **Hervey Bay Airport (HVB)** — 28.5 km
 - ✈ **Bundaberg Airport (BDB)** — 91.3 km
 - ✈ **Sunshine Coast Airport (MCY)** — 150.6 km
+- ⛴ **Urang Creek barge landing** — 13.4 km
+- ⛴ **Wangoolba Creek Ferry** — 28.1 km
+- ⛴ **River Heads Ferry** — 31.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8185.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Mantra Hervey Bay** — 24.9 km — hotel
+- **Ramada** — 25.2 km — hotel — Ramada
+- **Akama Resort** — 25.2 km — hotel
+- **Oceans Resort & Spa** — 25.5 km — hotel
+- **Allegea** — 27.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

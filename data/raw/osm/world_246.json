@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Pulin Puri",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 19.7936808,
+   "lon": 85.8196609,
+   "distance_km": 30.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel New Sea Hawk",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 19.7923232,
+   "lon": 85.8152741,
+   "distance_km": 31.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Tazz Odisha",
+   "name_en": null,
+   "stars": 3,
+   "brand": "Hotel Tazz",
+   "lat": 20.2639696,
+   "lon": 85.8387259,
+   "distance_km": 49.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sree Chakra Residency Hotel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 20.2626668,
+   "lon": 85.8377907,
+   "distance_km": 49.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shree Vishnu Darshan Holiday Home",
+   "name_en": "Shree Vishnu Darshan Holiday Home",
+   "stars": null,
+   "brand": null,
+   "lat": 19.8069848,
+   "lon": 85.8210928,
+   "distance_km": 30.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 86,
+ "stations": [
+  {
+   "name": "Malatipatpur",
+   "name_en": null,
+   "lat": 19.8657782,
+   "lon": 85.8314557,
+   "distance_km": 27.6,
+   "operator": "ECoR"
+  },
+  {
+   "name": "Puri",
+   "name_en": null,
+   "lat": 19.8079337,
+   "lon": 85.8377905,
+   "distance_km": 28.3,
+   "operator": "ECoR"
+  },
+  {
+   "name": "Sakhigopal",
+   "name_en": null,
+   "lat": 19.9427763,
+   "lon": 85.8160362,
+   "distance_km": 29.8,
+   "operator": "ECoR"
+  },
+  {
+   "name": "Birpurusottampur",
+   "name_en": null,
+   "lat": 19.9908662,
+   "lon": 85.8063348,
+   "distance_km": 32.3,
+   "operator": "ECoR"
+  },
+  {
+   "name": "Jenapur Road",
+   "name_en": null,
+   "lat": 20.0182016,
+   "lon": 85.7863296,
+   "distance_km": 35.3,
+   "operator": "ECoR"
+  },
+  {
+   "name": "Delang",
+   "name_en": null,
+   "lat": 20.0379856,
+   "lon": 85.767105,
+   "distance_km": 38.1,
+   "operator": "ECoR"
+  },
+  {
+   "name": "Motari",
+   "name_en": null,
+   "lat": 20.0900529,
+   "lon": 85.7291176,
+   "distance_km": 44.3,
+   "operator": "ECoR"
+  },
+  {
+   "name": "Retang",
+   "name_en": null,
+   "lat": 20.1998224,
+   "lon": 85.7608821,
+   "distance_km": 49.2,
+   "operator": "ECoR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:48Z"
+}

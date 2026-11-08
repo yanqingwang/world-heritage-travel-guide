@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Ordos"
 lat: 40.250956
 lon: 109.968272
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 鄂尔多斯市响沙湾旅游景区 / Ordos City
@@ -34,13 +34,13 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *North of Ordos.Church.jpg · Popolon · CC BY-SA 4.0*
 
-![Ordos.Shanxi youmian.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ordos.Shanxi_youmian.jpg/1280px-Ordos.Shanxi_youmian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ordos.Shanxi youmian.jpg · Popolon · CC BY-SA 4.0*
-
 ![OrdosC.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/OrdosC.svg/1280px-OrdosC.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *OrdosC.svg · JesseW900 · CC BY-SA 4.0*
+
+![OrdosX623.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6a/OrdosX623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*OrdosX623.jpg · AthosworldLi · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

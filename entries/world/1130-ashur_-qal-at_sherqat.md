@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(iv)"
 lat: 35.456666666
 lon: 43.2625
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:39Z"
 ---
 
 # 亚述古城 / Ashur (Qal'at Sherqat)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:53Z"
 
 *Ashur (Qal'at Sherqat)-115188.jpg · see Wikimedia Commons file page*
 
-![Ashur (Qal'at Sherqat)](https://whc.unesco.org/uploads/sites/site_1130.jpg)
+![-330-130 Assur Kesselpauken-Keilschrift-Text anagoria.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/-330-130_Assur_Kesselpauken-Keilschrift-Text_anagoria.JPG/1280px--330-130_Assur_Kesselpauken-Keilschrift-Text_anagoria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ashur (Qal'at Sherqat) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*-330-130 Assur Kesselpauken-Keilschrift-Text anagoria.JPG · Anagoria · CC BY 3.0*
+
+![35.05 large basin Assur.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/35.05_large_basin_Assur.tif/lossless-page1-1280px-35.05_large_basin_Assur.tif.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*35.05 large basin Assur.tif · Kharmacher · CC0*
+
+![Altar Tukulti-Ninurta I Assur IAM.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Altar_Tukulti-Ninurta_I_Assur_IAM.jpg/1280px-Altar_Tukulti-Ninurta_I_Assur_IAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altar Tukulti-Ninurta I Assur IAM.jpg · Marie-Lan Nguyen · Public domain*
+
+![Ashur (Qal'at Sherqat)-115184.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ashur_%28Qal%27at_Sherqat%29-115184.jpg/1280px-Ashur_%28Qal%27at_Sherqat%29-115184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ashur (Qal'at Sherqat)-115184.jpg · Véronique Dauge · CC BY-SA 3.0 igo*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,18 @@ The ancient city of Ashur is located on the Tigris River in northern Mesopotamia
 - ✈ **Kirkuk International Airport (KIK)** — 98.4 km
 - ✈ **Erbil International Airport (EBL)** — 106.4 km
 - ✈ **Jalal Talabani International Airport (ISU)** — 186.2 km
+- 🚉 **Sirqat Railway Station** — 7.1 km
+- 🚉 **محطة جرناف** — 14.4 km
+- 🚉 **محطة قطار أتلول الباج** — 14.6 km
+- 🚉 **محطة قطار الجرنف** — 20.2 km
+- 🚉 **محطة قطار وادي المر** — 26.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6192.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **فرع الطرشان** — 33.5 km — hotel — alturshan st.
+- **فندق الحويجة القديم** — 48.6 km — hotel
+- **فندق الحضر** — 49.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

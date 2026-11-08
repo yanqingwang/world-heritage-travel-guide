@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vi)"
 lat: 50.035833333
 lon: 19.178333333
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:10Z"
 ---
 
 # 前纳粹德国奥斯维辛-比克瑙集中营（1940-1945年） / Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Birkenau múzeum - panoramio (cropped).jpg · see Wikimedia Commons file page*
 
-![Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>](https://whc.unesco.org/uploads/sites/site_31.jpg)
+![1945-04-28 Amerikanische 12. Heeresgruppe für die deutsche Zivilbevölkerung, Hessische Post, Seite 4 (Ausschnitt Auschwitz).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1945-04-28_Amerikanische_12._Heeresgruppe_f%C3%BCr_die_deutsche_Zivilbev%C3%B6lkerung%2C_Hessische_Post%2C_Seite_4_%28Ausschnitt_Auschwitz%29.jpg/1280px-1945-04-28_Amerikanische_12._Heeresgruppe_f%C3%BCr_die_deutsche_Zivilbev%C3%B6lkerung%2C_Hessische_Post%2C_Seite_4_%28Ausschnitt_Auschwitz%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small> · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1945-04-28 Amerikanische 12. Heeresgruppe für die deutsche Zivilbevölkerung, Hessische Post, Seite 4 (Ausschnitt Auschwitz).jpg · Amerikanische 12. Heeresgruppe für die deutsche Zivilbevölkerung · Public domain*
+
+![400 people (12436514024).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/400_people_%2812436514024%29.jpg/1280px-400_people_%2812436514024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*400 people (12436514024).jpg · Kenneth Solberg from Gjøvik, Norway · CC BY 2.0*
+
+![Alexander-Dering.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Alexander-Dering.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Alexander-Dering.jpg · Unknown author Unknown author · Public domain*
+
+![August Kaufeld Pol. 39375 Auschwitz.png](https://upload.wikimedia.org/wikipedia/commons/1/12/August_Kaufeld_Pol._39375_Auschwitz.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*August Kaufeld Pol. 39375 Auschwitz.png · Politische Abteilung Erkennungsdienst Auschwitz · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,21 @@ Konzentrationslager Auschwitz, w szczególności KL Auschwitz I (Stammlager), KL
 - ✈ **Kraków John Paul II International Airport (KRK)** — 43.5 km
 - ✈ **Katowice Wojciech Korfanty International Airport (KTW)** — 49.4 km
 - ✈ **Leoš Janáček Airport Ostrava (OSR)** — 85.3 km
+- 🚉 **Oświęcim** — 1.7 km
+- 🚉 **Nowy Bieruń** — 4.2 km
+- 🚉 **Dwory** — 7.7 km
+- 🚉 **Brzeszcze Jawiszowice** — 7.9 km
+- 🚉 **Chełmek** — 8.9 km
+- ⛴ **Przystań na Zaporze** — 32.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7135.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Piramida Spa & Business** — 14.3 km — star — 5★
+- **2BCOMFY | Nocleg w centrum Bielska-Białej | Komfortowe apartamenty** — 25.4 km — star — 5★ · 2BCOMFY
+- **Hotel Monopol Katowice** — 27.1 km — star — 5★
+- **Aries Hotel & Spa Szczyrk** — 37.3 km — star — 5★
+- **Belweder** — 43.1 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

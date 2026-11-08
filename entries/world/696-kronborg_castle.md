@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iv)"
 lat: 56.038611111
 lon: 12.621944444
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 科隆博格城堡 / Kronborg Castle
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *KronborgCastle HCS.jpg · see Wikimedia Commons file page*
 
-![Kronborg Castle](https://whc.unesco.org/uploads/sites/site_696.jpg)
+![Kronborg April 2026 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kronborg_April_2026_03.jpg/1280px-Kronborg_April_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kronborg Castle · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Kronborg April 2026 03.jpg · ArildV · CC BY-SA 4.0*
+
+![Kronborg April 2026 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kronborg_April_2026_04.jpg/1280px-Kronborg_April_2026_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kronborg April 2026 04.jpg · ArildV · CC BY-SA 4.0*
+
+![Kronborg April 2026 05.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kronborg_April_2026_05.jpg/1280px-Kronborg_April_2026_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kronborg April 2026 05.jpg · ArildV · CC BY-SA 4.0*
+
+![Kronborg April 2026 06.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Kronborg_April_2026_06.jpg/1280px-Kronborg_April_2026_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kronborg April 2026 06.jpg · ArildV · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Kronborg er et slot og stjernefæstning i Helsingør. Slottet er et af Nordeurop
 - ✈ **Ängelholm-Helsingborg Airport (AGH)** — 31.8 km
 - ✈ **Copenhagen Kastrup Airport (CPH)** — 46.8 km
 - ✈ **Copenhagen Roskilde Airport (RKE)** — 59.0 km
+- 🚉 **Grønnehave** — 0.7 km
+- 🚉 **Helsingør** — 0.8 km
+- 🚉 **Højstrup** — 2.1 km
+- 🚉 **Snekkersten** — 4.1 km
+- 🚉 **Helsingborg C** — 4.6 km
+- ⛴ **Sundbusserne** — 0.6 km
+- ⛴ **Helsingør-Helsingborg** — 0.7 km
+- ⛴ **Øresundslinjen** — 0.8 km
+- ⛴ **Öresundslinjen** — 1.3 km
+- ⛴ **Helsingborg-Helsingør** — 4.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7141.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Sanders** — 40.1 km — star — 5★
+- **NH Collection Copenhagen** — 40.6 km — star — 5★ · NH Collection Hotels
+- **Villa Copenhagen** — 41.0 km — star — 5★
+- **Copenhagen Marriott Hotel** — 41.3 km — star — 5★ · Marriott
+- **Hotell Linnéa** — 4.7 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 45.438611111
 lon: 10.992777777
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:33Z"
 ---
 
 # 维罗纳城 / City of Verona
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Aerial picture of Verona.jpg · see Wikimedia Commons file page*
 
-![City of Verona](https://whc.unesco.org/uploads/sites/site_797.jpg)
+![Map of comune of Verona (province of Verona, region Veneto, Italy).svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Map_of_comune_of_Verona_%28province_of_Verona%2C_region_Veneto%2C_Italy%29.svg/1280px-Map_of_comune_of_Verona_%28province_of_Verona%2C_region_Veneto%2C_Italy%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*City of Verona · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Map of comune of Verona (province of Verona, region Veneto, Italy).svg · Vonvikken · Public domain*
+
+![De-Verona.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*De-Verona.ogg · Jeuwre · CC BY-SA 4.0*
+
+![A view of Verona from Castel San Pietro.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/A_view_of_Verona_from_Castel_San_Pietro.jpg/1280px-A_view_of_Verona_from_Castel_San_Pietro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A view of Verona from Castel San Pietro.jpg · Matycu · CC0*
+
+![Adige a Verona2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Adige_a_Verona2.jpg/1280px-Adige_a_Verona2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Adige a Verona2.jpg · Adert · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Verona (, AFI: /veˈrona/) è un comune italiano di 255 393 abitanti, capoluogo 
 - ✈ **Verona Villafranca Valerio Catullo Airport (VRN)** — 9.6 km
 - ✈ **Brescia Gabriele d'Annunzio Airport (VBS)** — 51.7 km
 - ✈ **Parma Airport (PMF)** — 87.3 km
+- 🚉 **S. Stefano** — 1.3 km
+- 🚉 **Verona Porta Nuova** — 1.3 km
+- 🚉 **Castel S. Pietro** — 1.4 km
+- 🚉 **Verona Porta Vescovo** — 2.0 km
+- 🚉 **Dossobuono** — 8.0 km
+- ⛴ **Lazise** — 21.7 km
+- ⛴ **Cisano** — 23.2 km
+- ⛴ **Peschiera del Garda** — 23.5 km
+- ⛴ **Navigarda** — 23.5 km
+- ⛴ **Bardolino** — 24.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7979.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Vista Palazzo Verona** — 0.6 km — star — 5★ · Lario Hotels
+- **Hotel due Torri** — 0.9 km — star — 5★
+- **Byblosart** — 9.2 km — star — 5★
+- **Quellenhof Luxury Resort Lazise** — 20.4 km — star — 5★
+- **VILLA CORTINE PALACE HOTEL** — 30.7 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

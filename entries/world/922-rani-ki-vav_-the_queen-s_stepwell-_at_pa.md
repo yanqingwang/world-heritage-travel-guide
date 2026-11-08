@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(i)(iv)"
 lat: 23.85892
 lon: 72.10162
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:36Z"
 ---
 
 # 古吉拉特邦帕坦城的王后階梯井 / Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *Rani ki vav 02.jpg · see Wikimedia Commons file page*
 
-![Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat](https://whc.unesco.org/uploads/sites/site_922.jpg)
+!["000 Inside Rani Ki Vav, Patan, Gujarat".jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%22000_Inside_Rani_Ki_Vav%2C_Patan%2C_Gujarat%22.jpg/1280px-%22000_Inside_Rani_Ki_Vav%2C_Patan%2C_Gujarat%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"000 Inside Rani Ki Vav, Patan, Gujarat".jpg · Bibhas87 · CC BY-SA 4.0*
+
+!['Scottish Ten' project (6447209601).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/%27Scottish_Ten%27_project_%286447209601%29.jpg/1280px-%27Scottish_Ten%27_project_%286447209601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*'Scottish Ten' project (6447209601).jpg · Scottish Government · CC BY 2.0*
+
+![100 rs note reverse.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3c/100_rs_note_reverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*100 rs note reverse.jpg · Reserve Bank of India · GODL-India*
+
+![220315 suntemp raninivav089.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/220315_suntemp_raninivav089.jpg/1280px-220315_suntemp_raninivav089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*220315 suntemp raninivav089.jpg · Miteshnathani · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Rani-ki-Vav, on the banks of the Saraswati River, was initially built as a memor
 - ✈ **Sardar Vallabh Patel International Airport (AMD)** — 102.5 km
 - ✈ **Rajkot International Airport (HSR)** — 197.2 km
 - ✈ **Maharana Pratap Airport (UDR)** — 200.6 km
+- 🚉 **Patan** — 3.0 km
+- 🚉 **Khalipur** — 4.3 km
+- 🚉 **Kansa** — 8.7 km
+- 🚉 **Jitoda** — 15.2 km
+- 🚉 **Ranuj Junction** — 15.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4515.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Saber Guest house** — 2.7 km — star — 1★
+- **hotel garden** — 3.6 km — hotel
+- **The Grand Raveta** — 3.7 km — hotel
+- **Apple Residency** — 3.8 km — hotel
+- **Hotel amar deep** — 28.6 km — hotel — Hotel amar deep
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

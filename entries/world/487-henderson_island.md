@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(vii)(x)"
 lat: -24.375
 lon: -128.325
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:26Z"
 ---
 
 # 享德森岛 / Henderson Island
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Henderson.JPG · see Wikimedia Commons file page*
 
-![Henderson Island](https://whc.unesco.org/uploads/sites/site_487.jpg)
+![Henderson Island ESA392791.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Henderson_Island_ESA392791.jpg/1280px-Henderson_Island_ESA392791.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Henderson Island · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Henderson Island ESA392791.jpg · European Space Agency · CC BY-SA 3.0 igo*
+
+![Henderson Island ESA392791.tiff](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Henderson_Island_ESA392791.tiff/lossy-page1-1280px-Henderson_Island_ESA392791.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Henderson Island ESA392791.tiff · European Space Agency · CC BY-SA 3.0 igo*
+
+![Henderson Island Map.jpg](https://upload.wikimedia.org/wikipedia/commons/7/78/Henderson_Island_Map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Henderson Island Map.jpg · EVS-Islands · CC BY 2.0*
+
+![Henderson Island Pitcairn map mk.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Henderson_Island_Pitcairn_map_mk.svg/1280px-Henderson_Island_Pitcairn_map_mk.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Henderson Island Pitcairn map mk.svg · DennisM , translated:-- MacedonianBoy ( talk ) 18:00, 29 May 2011 (UTC) · Public domain*
 
 ## 简介 / Introduction
 

@@ -2,7 +2,7 @@
 id: "cn-474"
 dataset: "china_5a"
 name_zh: "无锡市鼋头渚旅游风景区"
-name_en: "Yuantouzhu"
+name_en: "Wuxishiyuantouzhulvyoufeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.479468
 lon: 120.280659
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 无锡市鼋头渚旅游风景区 / Yuantouzhu
+# 无锡市鼋头渚旅游风景区 / Wuxishiyuantouzhulvyoufeng Scenic Area
 
 > 江苏省 · 无锡市 · 皇家园林
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Yuantouzhu (Chinese: 鼋头渚; pinyin: Yuán tóu zhǔ) is a peninsula which lies on the northwestern shore of Lake Tai, near Wuxi in China's Jiangsu province. It was established as a park in 1916 and celebrated its centennial in 2016. Yuantouzhu, or "Turtle Head Isle" in English (so called because its shape resembles a turtle's head), is a popular scenic tourist region. Tourist ferries leave from Yuantouzhu to the Sanshan Islands (三山岛), which were opened to tourists in the mid-1980s. Seagulls follow the boat and like to be fed by tourists on the boat. The Yuantouzhu park is famous for its tourism, especially during the spring season from March to April, when hundreds of cherry blossom trees start to bloom. Two gates are open for tourists which are Chongshan gate and Dushan main gate. During the season, there are also at least eight ancient fishing sailboats on the lake.
+Yuantouzhu occupies the most beautiful corner of Taihu Lake, with beautiful mountains and clear waters and natural scenery. Yuantouzhu Scenic Area currently has more than 10 scenic spots, including Chongshan Yinxiu, Luding Yinghui, Yuanzhu Chuntao, and Hengyun Villa. Among them are natural landscape paintings with long mountains and wide rivers and dotted sail shadows; rural pastoral scenery with small bridges and flowing water, green trees and people; and elegant, delicate, simple and pure Jiangnan garden scenery.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -75,10 +77,9 @@ Yuantouzhu (Chinese: 鼋头渚; pinyin: Yuán tóu zhǔ) is a peninsula which li
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/鼋头渚)
 - [OpenStreetMap](https://www.openstreetmap.org/)

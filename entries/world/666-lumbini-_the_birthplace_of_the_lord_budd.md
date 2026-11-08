@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iii)(vi)"
 lat: 27.4814
 lon: 83.275829
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:29Z"
 ---
 
 # 佛祖诞生地兰毗尼 / Lumbini, the Birthplace of the Lord Buddha
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Lumbini 4.jpg · see Wikimedia Commons file page*
 
-![Lumbini, the Birthplace of the Lord Buddha](https://whc.unesco.org/uploads/sites/site_666.jpg)
+!["May Peace Prevail on Earth" sign in front gate of Lumbini Nepal.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%22May_Peace_Prevail_on_Earth%22_sign_in_front_gate_of_Lumbini_Nepal.jpg/1280px-%22May_Peace_Prevail_on_Earth%22_sign_in_front_gate_of_Lumbini_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Lumbini, the Birthplace of the Lord Buddha · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"May Peace Prevail on Earth" sign in front gate of Lumbini Nepal.jpg · Tdo1993 · CC BY-SA 4.0*
+
+!["Russian" Buddhist monastery under construction (April 2024).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%22Russian%22_Buddhist_monastery_under_construction_%28April_2024%29.jpg/1280px-%22Russian%22_Buddhist_monastery_under_construction_%28April_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Russian" Buddhist monastery under construction (April 2024).jpg · Editorq35 · CC0*
+
+![013 Listening to Dhamma Talk, Lumbini (9244125780).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/013_Listening_to_Dhamma_Talk%2C_Lumbini_%289244125780%29.jpg/1280px-013_Listening_to_Dhamma_Talk%2C_Lumbini_%289244125780%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*013 Listening to Dhamma Talk, Lumbini (9244125780).jpg · Photo Dharma from Sadao, Thailand · CC BY 2.0*
+
+![2010 Sakya Monlam Prayer Festival, Lumbini, Nepal.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2010_Sakya_Monlam_Prayer_Festival%2C_Lumbini%2C_Nepal.webm/500px--2010_Sakya_Monlam_Prayer_Festival%2C_Lumbini%2C_Nepal.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*2010 Sakya Monlam Prayer Festival, Lumbini, Nepal.webm · Barbara Weibel · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Siddhartha Gautama, the Lord Buddha, was born in 623 B.C. in the famous gardens 
 - ✈ **Gautam Buddha International Airport (BWA)** — 13.5 km
 - ✈ **Gorakhpur Airport (GOP)** — 84.2 km
 - ✈ **Pokhara Domestic Airport (PKR)** — 105.9 km
+- 🚉 **Nautanwa** — 15.6 km
+- 🚉 **Naugarh** — 29.5 km
+- 🚉 **Siddharth Nagar** — 29.5 km
+- 🚉 **Chilhia** — 31.4 km
+- 🚉 **Jhamat** — 31.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3343.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hyatt Place Butwal** — 29.8 km — star — 5★ · Hyatt Place
+- **Bodhi Villa** — 24.0 km — star — 2★
+- **ameet hotel** — 26.9 km — star — 2★
+- **Ghimire Hotel and lodge** — 30.9 km — star — 1★
+- **Hotel Shangrila** — 17.9 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

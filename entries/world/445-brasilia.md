@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(iv)"
 lat: -15.793888888
 lon: -47.882777777
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:25Z"
 ---
 
 # 巴西利亚 / Brasilia
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Planalto Central (cropped).jpg · see Wikimedia Commons file page*
 
-![Brasilia](https://whc.unesco.org/uploads/sites/site_445.jpg)
+![De-Brasilia.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Brasilia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Brasilia.ogg · Jeuwre · CC BY-SA 4.0*
+
+![-+ CINELÂNDIA-82.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/-%2B_CINEL%C3%82NDIA-82.jpg/1280px--%2B_CINEL%C3%82NDIA-82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-+ CINELÂNDIA-82.jpg · Taissa rodrigues · CC BY-SA 4.0*
+
+![-parquejk -brasilia (26416467805).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/-parquejk_-brasilia_%2826416467805%29.jpg/1280px--parquejk_-brasilia_%2826416467805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-parquejk -brasilia (26416467805).jpg · Thiago Alves Pinto · CC BY 2.0*
+
+![07 12 2023 - -TBT Brasília, há 36 anos Patrimônio Mundial pela Unesco (53380561087).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/07_12_2023_-_-TBT_Bras%C3%ADlia%2C_h%C3%A1_36_anos_Patrim%C3%B4nio_Mundial_pela_Unesco_%2853380561087%29.jpg/1280px-07_12_2023_-_-TBT_Bras%C3%ADlia%2C_h%C3%A1_36_anos_Patrim%C3%B4nio_Mundial_pela_Unesco_%2853380561087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*07 12 2023 - -TBT Brasília, há 36 anos Patrimônio Mundial pela Unesco (53380561087).jpg · Agência Brasília from Brasília, Brasil · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,17 @@ Brasília (AFI: [bɾaˈzilja] ou AFI: [bɾaˈziʎa]) é a capital federal do Bra
 - ✈ **Presidente Juscelino Kubitschek International Airport (BSB)** — 9.3 km
 - ✈ **Santa Genoveva International Airport (GYN)** — 170.6 km
 - ✈ **Pedro Rabelo de Souza Airport (PYT)** — 193.1 km
+- 🚉 **Brasília** — 6.6 km
+- 🚉 **Jardim do Ingá** — 38.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16933.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Saint Moritz Hplus Express** — 0.4 km — chain
+- **Biarritz** — 0.5 km — chain
+- **Ramada by Wyndham Brasília Alvorada** — 0.9 km — chain — Ramada
+- **Mercure Hotel** — 1.0 km — chain — Mercure
+- **Hotel Mercure Lider** — 1.1 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

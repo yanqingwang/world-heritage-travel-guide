@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.80415
 lon: 111.169942
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 宜昌市三峡人家风景区 / Yichang

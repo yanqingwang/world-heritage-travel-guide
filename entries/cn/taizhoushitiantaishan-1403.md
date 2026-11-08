@@ -2,7 +2,7 @@
 id: "cn-1403"
 dataset: "china_5a"
 name_zh: "台州市天台山景区"
-name_en: "Tiantai Mountain"
+name_en: "Taizhoushitiantaishan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 29.163259
 lon: 121.042193
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
-# 台州市天台山景区 / Tiantai Mountain
+# 台州市天台山景区 / Taizhoushitiantaishan Scenic Area
 
 > 浙江省 · 台州市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Tiantai Mountain (also Tí Taî in the local language) is a mountain in Tiantai County, Taizhou, Zhejiang Province, China. Its highest peak, Huading, reaches a height of 1,138 meters (3,734 ft). It was designated a scenic area in 1985, with an area of 105 km2. One of nine remaining wild populations of Seven-Son Flower (Heptacodium miconioides) is located on mount Tiantai.
+Tiantai Mountain is famous for being the seat of the ancestral court of the Tiantai Sect of Buddhism, the ancestral home of the Southern Taoist Sect, and the hometown of Jigong’s “living Buddha”. The scenic spot has a mild climate and a long history. The natural landscape and cultural landscape interpenetrate each other. The mountains, rocks, caves and waterfalls have their own charm, forming a unique style of ancient, quiet, pure and strange.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Tiantai Mountain (also Tí Taî in the local language) is a mountain in Tiantai 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/天台山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

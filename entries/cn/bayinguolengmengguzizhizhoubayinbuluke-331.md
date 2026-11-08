@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Bayinguolengmenggu Autonomous Prefecture"
 lat: 42.769767
 lon: 84.439264
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 巴音郭楞蒙古自治州巴音布鲁克景区 / Bayingolin Mongol Autonomous Prefecture

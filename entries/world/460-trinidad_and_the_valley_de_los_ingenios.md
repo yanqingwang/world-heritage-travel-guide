@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iv)(v)"
 lat: 21.80305556
 lon: -79.98444444
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:25Z"
 ---
 
 # 特立尼达和洛斯因赫尼奥斯山谷 / Trinidad and the Valley de los Ingenios

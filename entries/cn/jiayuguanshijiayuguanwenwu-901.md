@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Jiayuguan City"
 lat: 39.807534
 lon: 98.221721
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 嘉峪关市嘉峪关文物景区 / Jiayu Pass

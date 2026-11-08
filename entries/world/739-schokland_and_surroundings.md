@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iii)(v)"
 lat: 52.638611111
 lon: 5.771666666
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:31Z"
 ---
 
 # 斯霍克兰及其周围地区 / Schokland and Surroundings

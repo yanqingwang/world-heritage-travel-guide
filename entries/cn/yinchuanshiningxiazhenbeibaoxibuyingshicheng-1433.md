@@ -13,7 +13,7 @@ province_en: "Ningxia"
 city_en: "Yinchuan"
 lat: 38.623035
 lon: 106.074791
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 银川市宁夏镇北堡西部影视城 / Yingshicheng

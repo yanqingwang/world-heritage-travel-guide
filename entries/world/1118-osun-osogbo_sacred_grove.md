@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(vi)"
 lat: 7.75491
 lon: 4.550625
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:39Z"
 ---
 
 # 奥孙－奥索博神树林 / Osun-Osogbo Sacred Grove

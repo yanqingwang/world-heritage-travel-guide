@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Ca' Sagredo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4405403,
+   "lon": 12.3345217,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel dei Dogi",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4465128,
+   "lon": 12.3311304,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cà Bonfadini",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4444231,
+   "lon": 12.3235294,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palazzo Nani",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Collection",
+   "lat": 45.4443848,
+   "lon": 12.3245987,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bauer Palazzo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4328761,
+   "lon": 12.3358364,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1210,
+ "stations": [
+  {
+   "name": "Venezia Santa Lucia",
+   "name_en": null,
+   "lat": 45.4410753,
+   "lon": 12.3210322,
+   "distance_km": 0.9,
+   "operator": "Rete Ferroviaria Italiana;Grandi Stazioni"
+  },
+  {
+   "name": "Piazzale Roma",
+   "name_en": null,
+   "lat": 45.437845,
+   "lon": 12.3173376,
+   "distance_km": 1.2,
+   "operator": "Azienda Veneziana della Mobilità"
+  },
+  {
+   "name": "Marittima (cruise terminal)",
+   "name_en": null,
+   "lat": 45.4400088,
+   "lon": 12.3128607,
+   "distance_km": 1.5,
+   "operator": "Azienda Veneziana della Mobilità"
+  },
+  {
+   "name": "Tronchetto",
+   "name_en": null,
+   "lat": 45.4420386,
+   "lon": 12.3083387,
+   "distance_km": 1.9,
+   "operator": "Azienda Veneziana della Mobilità"
+  },
+  {
+   "name": "Venezia Mestre",
+   "name_en": null,
+   "lat": 45.482462,
+   "lon": 12.2317016,
+   "distance_km": 9.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Venezia Porta Ovest",
+   "name_en": null,
+   "lat": 45.4635482,
+   "lon": 12.1793791,
+   "distance_km": 12.2,
+   "operator": "Infrastrutture Venete"
+  },
+  {
+   "name": "Mira Buse",
+   "name_en": null,
+   "lat": 45.4272211,
+   "lon": 12.139009,
+   "distance_km": 15.1,
+   "operator": "Infrastrutture Venete"
+  },
+  {
+   "name": "Quarto d'Altino",
+   "name_en": null,
+   "lat": 45.5746836,
+   "lon": 12.3648796,
+   "distance_km": 15.2,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "San Stae",
+   "name_en": null,
+   "lat": 45.4417551,
+   "lon": 12.330814,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Ca' D' Oro",
+   "name_en": null,
+   "lat": 45.440545,
+   "lon": 12.3338929,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "San Silvestro",
+   "name_en": null,
+   "lat": 45.4367825,
+   "lon": 12.3331796,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Rialto Mercato",
+   "name_en": null,
+   "lat": 45.4394434,
+   "lon": 12.3353097,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "San Marcuola \"A\"",
+   "name_en": null,
+   "lat": 45.4424277,
+   "lon": 12.3288131,
+   "distance_km": 0.4,
+   "operator": "Actv"
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:56Z"
+}

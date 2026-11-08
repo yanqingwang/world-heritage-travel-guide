@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)(vi)"
 lat: 33.745833333
 lon: 72.7875
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:13Z"
 ---
 
 # 塔克希拉 / Taxila
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Double-Headed Eagle Stupa at Sirkap 08.jpg · see Wikimedia Commons file page*
 
-![Taxila](https://whc.unesco.org/uploads/sites/site_139.jpg)
+![An old tree at taxila ruins in Pakistan 2014-01-15 00-57.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/An_old_tree_at_taxila_ruins_in_Pakistan_2014-01-15_00-57.jpg/1280px-An_old_tree_at_taxila_ruins_in_Pakistan_2014-01-15_00-57.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Taxila · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*An old tree at taxila ruins in Pakistan 2014-01-15 00-57.jpg · User:Themajiks · CC BY-SA 3.0*
+
+![Aramaic inscription from Taxila JRAS.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bb/Aramaic_inscription_from_Taxila_JRAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aramaic inscription from Taxila JRAS.jpg · L.D. Barnett in 1915 · Public domain*
+
+![Aramaic inscription from Taxila.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ab/Aramaic_inscription_from_Taxila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aramaic inscription from Taxila.jpg · Sir John Marshall · Public domain*
+
+![Armlet from Taxila, Gold, circa 1st centre CE, National Museum, Delhi.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f1/Armlet_from_Taxila%2C_Gold%2C_circa_1st_centre_CE%2C_National_Museum%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Armlet from Taxila, Gold, circa 1st centre CE, National Museum, Delhi.jpg · SpeakingArch · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ From the ancient Neolithic tumulus of Saraikala to the ramparts of Sirkap (2nd c
 - ✈ **Islamabad International Airport (ISB)** — 22.2 km
 - ✈ **Muzaffarabad Airport (MFG)** — 93.6 km
 - ✈ **Bacha Khan International Airport (PEW)** — 120.7 km
+- 🚉 **واہ کینٹ ریلوے** — 1.5 km
+- 🚉 **ٹیکسلا** — 2.5 km
+- 🚉 **بودھو** — 5.7 km
+- 🚉 **سنگجانی** — 8.0 km
+- 🚉 **واہ** — 9.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3922.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Jan's Palace** — 27.5 km — star — 4★ · Hotel Jan's Palace
+- **Check Inn** — 24.0 km — star — 3★
+- **Hotel Margala** — 29.1 km — star — 3★
+- **Hill View Hotel** — 25.0 km — star — 2★
+- **Hotel Al-Habib** — 26.7 km — star — 2★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

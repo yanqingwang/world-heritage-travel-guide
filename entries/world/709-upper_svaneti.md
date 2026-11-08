@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)(v)"
 lat: 42.91639
 lon: 43.01139
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 上斯瓦涅季 / Upper Svaneti

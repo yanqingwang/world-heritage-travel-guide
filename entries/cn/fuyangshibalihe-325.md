@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Fuyang City"
 lat: 32.567479
 lon: 116.321721
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 阜阳市八里河风景区 / Fuyang

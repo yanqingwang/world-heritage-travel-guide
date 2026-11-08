@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iv)"
 lat: 51.841362665
 lon: -1.360948307
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:24Z"
 ---
 
 # 布莱尼姆宫 / Blenheim Palace
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Blenheim Palace 6-2008 4.jpg · see Wikimedia Commons file page*
 
-![Blenheim Palace](https://whc.unesco.org/uploads/sites/site_425.jpg)
+![Blenheim Palace from the Air - geograph.org.uk - 620690.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Blenheim_Palace_from_the_Air_-_geograph.org.uk_-_620690.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Blenheim Palace · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Blenheim Palace from the Air - geograph.org.uk - 620690.jpg · Martin Addison · CC BY-SA 2.0*
+
+![Ornamental lake, Blenheim Palace, Woodstock - geograph.org.uk - 1084933.jpg](https://upload.wikimedia.org/wikipedia/commons/4/43/Ornamental_lake%2C_Blenheim_Palace%2C_Woodstock_-_geograph.org.uk_-_1084933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ornamental lake, Blenheim Palace, Woodstock - geograph.org.uk - 1084933.jpg · Brian Robert Marshall · CC BY-SA 2.0*
+
+!['Untitled' art work at Blenheim Palace - geograph.org.uk - 5872594.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%27Untitled%27_art_work_at_Blenheim_Palace_-_geograph.org.uk_-_5872594.jpg/1280px-%27Untitled%27_art_work_at_Blenheim_Palace_-_geograph.org.uk_-_5872594.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*'Untitled' art work at Blenheim Palace - geograph.org.uk - 5872594.jpg · Gareth James · CC BY-SA 2.0*
+
+![Blenheim Palace, Oxfordshire, taken 1964 - geograph.org.uk - 742171.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f3/Blenheim_Palace%2C_Oxfordshire%2C_taken_1964_-_geograph.org.uk_-_742171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Blenheim Palace, Oxfordshire, taken 1964 - geograph.org.uk - 742171.jpg · Christine Matthews · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,23 @@ Blenheim Palace, near Oxford, stands in a romantic park created by the famous la
 - ✈ **London Luton Airport (LTN)** — 68.3 km
 - ✈ **Birmingham Airport (BHX)** — 73.1 km
 - ✈ **London Heathrow Airport (LHR)** — 74.6 km
+- 🚉 **Palace Station** — 0.3 km
+- 🚉 **Walled Garden Station** — 0.8 km
+- 🚉 **Hanborough** — 2.0 km
+- 🚉 **Combe** — 2.5 km
+- 🚉 **Tackley** — 6.2 km
+- ⛴ **Benson Marina** — 29.8 km
+- ⛴ **Avon Boating** — 45.3 km
+- ⛴ **Thames RiverCruise** — 49.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8117.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Randolph Hotel** — 11.9 km — star — 5★ · Graduate
+- **Remont** — 8.9 km — star — 4★
+- **Old Parsonage Hotel** — 11.4 km — star — 4★
+- **The Bay Tree** — 19.4 km — star — 4★
+- **Hilton Garden Inn Abingdon Oxford** — 19.6 km — star — 4★ · Hilton Garden Inn
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

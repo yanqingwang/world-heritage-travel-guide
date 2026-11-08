@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(iii)(v)"
 lat: 32.27210285742857
 lon: 35.055198094285714
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:39Z"
 ---
 
 # 熏香之路——内盖夫的沙漠城镇 / Incense Route - Desert Cities in the Negev

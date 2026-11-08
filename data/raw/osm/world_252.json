@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "The Oberoi Amarvilas",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.167935,
+   "lon": 78.0489443,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ITC Mughal",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1610537,
+   "lon": 78.0439887,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "TajView",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1609675,
+   "lon": 78.0400797,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Agra",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 27.1515883,
+   "lon": 78.0508426,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott Agra",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 27.1563143,
+   "lon": 78.0596665,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 107,
+ "stations": [
+  {
+   "name": "Yamuna Bridge",
+   "name_en": "Yamuna Bridge",
+   "lat": 27.1921557,
+   "lon": 78.0389458,
+   "distance_km": 1.9,
+   "operator": "NCR"
+  },
+  {
+   "name": "Agra Fort",
+   "name_en": "Agra Fort",
+   "lat": 27.1830031,
+   "lon": 78.0187128,
+   "distance_km": 2.5,
+   "operator": "NCR"
+  },
+  {
+   "name": "Agra City",
+   "name_en": null,
+   "lat": 27.1941308,
+   "lon": 78.0155191,
+   "distance_km": 3.4,
+   "operator": "NCR"
+  },
+  {
+   "name": "Raja Ki Mandi",
+   "name_en": "Raja Ki Mandi",
+   "lat": 27.1940261,
+   "lon": 77.9970749,
+   "distance_km": 4.9,
+   "operator": "NCR"
+  },
+  {
+   "name": "Agra Cantonment",
+   "name_en": "Agra Cantonment",
+   "lat": 27.1589527,
+   "lon": 77.9900478,
+   "distance_km": 5.4,
+   "operator": "North Central Railway"
+  },
+  {
+   "name": "Bilochpura",
+   "name_en": null,
+   "lat": 27.2019001,
+   "lon": 77.9867894,
+   "distance_km": 6.2,
+   "operator": "NCR"
+  },
+  {
+   "name": "Chhalesar",
+   "name_en": "Chhalesar",
+   "lat": 27.21507,
+   "lon": 78.0901483,
+   "distance_km": 6.5,
+   "operator": "NCR"
+  },
+  {
+   "name": "कुबेरपुर (Kuberpur)",
+   "name_en": null,
+   "lat": 27.2230206,
+   "lon": 78.1309194,
+   "distance_km": 10.3,
+   "operator": "NCR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:47Z"
+}

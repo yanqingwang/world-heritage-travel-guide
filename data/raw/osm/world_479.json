@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Avani+ Luang Prabang",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 19.8884919,
+   "lon": 102.1334502,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Amantaka",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 19.8859077,
+   "lon": 102.1347138,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Luang Prabang",
+   "name_en": null,
+   "stars": 5,
+   "brand": "AccorHotels",
+   "lat": 19.8815417,
+   "lon": 102.1347509,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Belle Rive Boutique Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 19.8961129,
+   "lon": 102.1403374,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kiridara Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 19.8776719,
+   "lon": 102.1415837,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 166,
+ "stations": [
+  {
+   "name": "ຫຼວງພະບາງ 琅勃拉邦",
+   "name_en": "Luang Prabang",
+   "lat": 19.867716,
+   "lon": 102.213551,
+   "distance_km": 8.6,
+   "operator": "中国铁路昆明局集团有限公司"
+  },
+  {
+   "name": "ຊຽງເງີນ",
+   "name_en": "Xiang Ngeun",
+   "lat": 19.7937853,
+   "lon": 102.1969255,
+   "distance_km": 12.5,
+   "operator": null
+  },
+  {
+   "name": "ຫ້ວຍຫານ",
+   "name_en": "Huoay Han",
+   "lat": 20.1388227,
+   "lon": 102.0878259,
+   "distance_km": 28.1,
+   "operator": null
+  },
+  {
+   "name": "ພູຄູນ",
+   "name_en": "Phoukhoun",
+   "lat": 19.5171061,
+   "lon": 102.2051107,
+   "distance_km": 42.1,
+   "operator": null
+  },
+  {
+   "name": "ເມືອງງາ 孟阿",
+   "name_en": "Muang Nga",
+   "lat": 20.2805432,
+   "lon": 101.9815774,
+   "distance_km": 46.3,
+   "operator": "中国铁路昆明局集团有限公司"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ferry landing",
+   "name_en": "Ferry landing",
+   "lat": 19.8908716,
+   "lon": 102.1322695,
+   "distance_km": 0.3,
+   "operator": "Public"
+  },
+  {
+   "name": "Ferry Ticket Office",
+   "name_en": null,
+   "lat": 19.8930648,
+   "lon": 102.1351031,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "Mekong Car Ferry 10000 lak pax",
+   "name_en": "Mekong Car Ferry 10000 lak pax",
+   "lat": 19.893695,
+   "lon": 102.135555,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "ລົດປັ່",
+   "name_en": "Car Ferry",
+   "lat": 19.8945164,
+   "lon": 102.129668,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Slow boat harbour",
+   "name_en": null,
+   "lat": 19.924991,
+   "lon": 102.1803312,
+   "distance_km": 6.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:13Z"
+}

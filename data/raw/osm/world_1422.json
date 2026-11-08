@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "هتل بین المللی اسپیناس",
+   "name_en": "Espinas International Hotel",
+   "stars": 5,
+   "brand": "Espinas International Hotel",
+   "lat": 35.7094661,
+   "lon": 51.4013937,
+   "distance_km": 3.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پرشین پلازا",
+   "name_en": "persian plaza hotel",
+   "stars": 5,
+   "brand": "plaza",
+   "lat": 35.7285305,
+   "lon": 51.4398908,
+   "distance_km": 5.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارسیان استقلال",
+   "name_en": "Parsian Esteghal Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.7903388,
+   "lon": 51.4126058,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل پارسیان آزادی",
+   "name_en": "Parsian Azadi Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.7899693,
+   "lon": 51.3898578,
+   "distance_km": 12.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هتل اسپیناس پالاس",
+   "name_en": "Espinas Palace Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 35.7932578,
+   "lon": 51.3563926,
+   "distance_km": 13.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 217,
+ "stations": [
+  {
+   "name": "ایستگاه راه آهن تهران",
+   "name_en": "Tehran",
+   "lat": 35.6581179,
+   "lon": 51.3978115,
+   "distance_km": 3.1,
+   "operator": null
+  },
+  {
+   "name": "ری",
+   "name_en": "Rey",
+   "lat": 35.5807276,
+   "lon": 51.424938,
+   "distance_km": 11.0,
+   "operator": null
+  },
+  {
+   "name": "تپه سفید",
+   "name_en": "Tappeh Sefid",
+   "lat": 35.6112464,
+   "lon": 51.3057782,
+   "distance_km": 12.8,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه مترو ورزشگاه آزادی",
+   "name_en": "Varzeshgah-e Azadi",
+   "lat": 35.7165426,
+   "lon": 51.2814613,
+   "distance_km": 13.2,
+   "operator": null
+  },
+  {
+   "name": "نیک پسندی",
+   "name_en": "Nik Pasandi",
+   "lat": 35.6781729,
+   "lon": 51.2552302,
+   "distance_km": 14.9,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه راه آهن لشکری",
+   "name_en": "Lashkari",
+   "lat": 35.6895214,
+   "lon": 51.2094711,
+   "distance_km": 19.1,
+   "operator": null
+  },
+  {
+   "name": "آپرین",
+   "name_en": "Aperyn",
+   "lat": 35.5814252,
+   "lon": 51.2367782,
+   "distance_km": 19.9,
+   "operator": null
+  },
+  {
+   "name": "ایستگاه مترو ایران خودرو",
+   "name_en": "Iran Khodro metro station",
+   "lat": 35.7252171,
+   "lon": 51.1965948,
+   "distance_km": 20.8,
+   "operator": "Tehran Urban and Suburban Railways Organization"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "باربری عظیمیه زنبق بار کرج09355579072",
+   "name_en": null,
+   "lat": 35.8350537,
+   "lon": 51.0263904,
+   "distance_km": 39.5,
+   "operator": null
+  },
+  {
+   "name": "باربری بلوار هفت تیر زنبق بار09355579072",
+   "name_en": null,
+   "lat": 35.8025528,
+   "lon": 50.9911935,
+   "distance_km": 41.1,
+   "operator": null
+  },
+  {
+   "name": "باربری مهستان زنبق بار 09355579072",
+   "name_en": null,
+   "lat": 35.851416,
+   "lon": 50.9998183,
+   "distance_km": 42.5,
+   "operator": null
+  },
+  {
+   "name": "باربری فاز4مهرشهرزنبق بار0935579072",
+   "name_en": null,
+   "lat": 35.8128145,
+   "lon": 50.9377705,
+   "distance_km": 46.0,
+   "operator": null
+  },
+  {
+   "name": "اتوبار زنبق بار مهرشهر 0935579072",
+   "name_en": null,
+   "lat": 35.812651,
+   "lon": 50.9039983,
+   "distance_km": 48.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:41Z"
+}

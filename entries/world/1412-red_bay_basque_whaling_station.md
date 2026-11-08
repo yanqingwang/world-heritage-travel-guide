@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(iii)(iv)"
 lat: 51.726916666
 lon: -56.429527777
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:44Z"
 ---
 
 # 红湾巴斯克捕鲸站 / Red Bay Basque Whaling Station

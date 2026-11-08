@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 47.548408
 lon: 121.409598
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 兴安盟阿尔山-柴河旅游景区 / Xinganmengaershan-chaihe Scenic Area

@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Hangzhou"
 lat: 30.228932
 lon: 120.12792
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 杭州市杭州西湖风景区 / West Lake

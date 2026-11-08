@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "Great Zimbabwe Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2649633,
+   "lon": 30.9232644,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "At the Ancient City",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.269739,
+   "lon": 30.9518569,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Clevers Lakeview Resort and Conference Centre (previously known as Norma Jeane Lake View Lodge)",
+   "name_en": null,
+   "stars": null,
+   "brand": "Clevers Hotels and Resorts",
+   "lat": -20.2519793,
+   "lon": 31.0026002,
+   "distance_km": 7.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lodges",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.2185011,
+   "lon": 31.0097803,
+   "distance_km": 9.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mineheart Boutique Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -20.1237023,
+   "lon": 30.8054047,
+   "distance_km": 21.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 11,
+ "stations": [
+  {
+   "name": "Masvingo",
+   "name_en": null,
+   "lat": -20.0737142,
+   "lon": 30.8396618,
+   "distance_km": 23.9,
+   "operator": null
+  },
+  {
+   "name": "Zimuto",
+   "name_en": null,
+   "lat": -19.8597195,
+   "lon": 30.8565443,
+   "distance_km": 46.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:59:44Z"
+}

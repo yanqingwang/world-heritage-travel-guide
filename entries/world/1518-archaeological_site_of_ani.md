@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(ii)(iii)(iv)"
 lat: 40.5075
 lon: 43.572777777
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:47Z"
 ---
 
 # 阿尼 / Archaeological Site of Ani
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Ani Archeological Site, March 2020 1.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Ani](https://whc.unesco.org/uploads/sites/site_1518.jpg)
+![Ani Fallen minaret of Abu'l Muamran 3567.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ani_Fallen_minaret_of_Abu%27l_Muamran_3567.jpg/1280px-Ani_Fallen_minaret_of_Abu%27l_Muamran_3567.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Ani · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Ani Fallen minaret of Abu'l Muamran 3567.jpg · Dosseman · CC BY-SA 4.0*
+
+![Ani harabeleri 2023.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ani_harabeleri_2023.jpg/1280px-Ani_harabeleri_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ani harabeleri 2023.jpg · Vl1net · CC BY-SA 4.0*
+
+![Ani lion.png](https://upload.wikimedia.org/wikipedia/commons/0/02/Ani_lion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ani lion.png · Toros Toramanian (d. 1934) · Public domain*
+
+![Ani xarabalıqları 2022 (10).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ani_xarabal%C4%B1qlar%C4%B1_2022_%2810%29.jpg/1280px-Ani_xarabal%C4%B1qlar%C4%B1_2022_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ani xarabalıqları 2022 (10).jpg · Rəcəb Yaxşı · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Ani (Ermenice: Անի, Latince: Abnicum), Kars'ın güneydoğusunda, Arpaçay bo
 - ✈ **Shirak International Airport (LWN)** — 36.3 km
 - ✈ **Kars Airport (KSY)** — 39.2 km
 - ✈ **Iğdır Airport (IGD)** — 64.4 km
+- 🚉 **Անի** — 7.6 km
+- 🚉 **Աղին** — 16.3 km
+- 🚉 **Արագած** — 21.7 km
+- 🚉 **Akyaka** — 26.2 km
+- 🚉 **Բայանդուր** — 26.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5968.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Թոմուս** — 38.8 km — star — Tomu’s Hotel · 3★
+- **Գյումրի հյուրանոց** — 40.1 km — star — "Gyumri" Hotel · 3★
+- **Cheltikov Hotel** — 42.3 km — star — 3★
+- **Radisson Hotel & Spa** — 38.5 km — chain — Radisson Hotel & Spa · Radisson Hotels
+- **Արթիկ** — 35.9 km — hotel — Artik
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

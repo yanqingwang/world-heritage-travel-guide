@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)"
 lat: 34.8065
 lon: 48.516247
-updated_at: "2026-11-08T11:24:57Z"
+updated_at: "2026-11-08T12:02:50Z"
 ---
 
 # 埃克巴坦那 / Hegmataneh
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:57Z"
 
 *Excavations in Ecbatana.jpg · see Wikimedia Commons file page*
 
-![Hegmataneh](https://whc.unesco.org/uploads/sites/site_1716.jpg)
+![3200 year-old skeleton.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/3200_year-old_skeleton.JPG/1280px-3200_year-old_skeleton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Hegmataneh · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*3200 year-old skeleton.JPG · P0lyzoarium · CC BY-SA 3.0*
+
+![6382.EcbatanaExcavation (2181903709).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/6382.EcbatanaExcavation_%282181903709%29.jpg/1280px-6382.EcbatanaExcavation_%282181903709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*6382.EcbatanaExcavation (2181903709).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
+
+![Animal heads - Achaemenid gold, said to have been found at Hamadan at Tepe Hagmatana, the site of ancient Ecbatana, 550-330 BC - Oriental Institute Museum, University of Chicago - DSC07988.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Animal_heads_-_Achaemenid_gold%2C_said_to_have_been_found_at_Hamadan_at_Tepe_Hagmatana%2C_the_site_of_ancient_Ecbatana%2C_550-330_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07988.JPG/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Animal heads - Achaemenid gold, said to have been found at Hamadan at Tepe Hagmatana, the site of ancient Ecbatana, 550-330 BC - Oriental Institute Museum, University of Chicago - DSC07988.JPG · Daderot · CC0*
+
+![August 03, 2016 内沙布尔+古昌1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/August_03%2C_2016_%E5%86%85%E6%B2%99%E5%B8%83%E5%B0%94%2B%E5%8F%A4%E6%98%8C1.jpg/1280px-August_03%2C_2016_%E5%86%85%E6%B2%99%E5%B8%83%E5%B0%94%2B%E5%8F%A4%E6%98%8C1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*August 03, 2016 内沙布尔+古昌1.jpg · 林安长沙窑 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,19 @@ The archaeological remains of ancient Hegmataneh are located in northwestern Ira
 - ✈ **Hamadan Airport (HDM)** — 7.8 km
 - ✈ **Shahid Ashrafi Esfahani Airport (KSH)** — 134.5 km
 - ✈ **Sanandaj Airport (SDG)** — 145.7 km
+- 🚉 **ایستگاه راه آهن همدان** — 11.8 km
+- 🚉 **کوریجان** — 29.5 km
+- 🚉 **Aq Bolagh** — 39.6 km
+- 🚉 **فامنین** — 45.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5883.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل پارسیان بوعلی** — 2.4 km — star — Parsian BuAli Hotel · 4★
+- **هتل پارسیان همدان** — 3.9 km — star — Parsian Hamedan Hotel · 4★
+- **هتل هگمتانه** — 0.4 km — hotel
+- **هتل باباطاهر** — 0.7 km — hotel
+- **هتل یاس** — 0.8 km — hotel — Yas hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

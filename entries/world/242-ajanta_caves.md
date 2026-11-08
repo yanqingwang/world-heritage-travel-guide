@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(ii)(iii)(vi)"
 lat: 20.55341667
 lon: 75.70047222
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:16Z"
 ---
 
 # 阿旃陀石窟群 / Ajanta Caves
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Ajanta (63).jpg · see Wikimedia Commons file page*
 
-![Ajanta Caves](https://whc.unesco.org/uploads/sites/site_242.jpg)
+![1996 -209-32 (Dec95) Aurangabad Ajanta Caves (2233377501).jpg](https://upload.wikimedia.org/wikipedia/commons/3/36/1996_-209-32_%28Dec95%29_Aurangabad_Ajanta_Caves_%282233377501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ajanta Caves · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1996 -209-32 (Dec95) Aurangabad Ajanta Caves (2233377501).jpg · Dan Lundberg · CC BY-SA 2.0*
+
+![A seen of Ajanta caves from it's stairs.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/A_seen_of_Ajanta_caves_from_it%27s_stairs.jpg/1280px-A_seen_of_Ajanta_caves_from_it%27s_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A seen of Ajanta caves from it's stairs.jpg · Diksha Jadhav · CC BY-SA 4.0*
+
+![A silent statue.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A_silent_statue.jpg/1280px-A_silent_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A silent statue.jpg · Sundaram Perumal · CC BY-SA 4.0*
+
+![A travel poster view, by the Government of India, 1961.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cf/A_travel_poster_view%2C_by_the_Government_of_India%2C_1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A travel poster view, by the Government of India, 1961.jpg · Government of India · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,18 @@ The first Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries 
 - ✈ **Jalgaon Airport (JLG)** — 46.1 km
 - ✈ **Aurangabad Airport (IXU)** — 83.1 km
 - ✈ **Shirdi International Airport (SAG)** — 168.6 km
+- 🚉 **Shendurni** — 15.8 km
+- 🚉 **Pahur** — 18.1 km
+- 🚉 **Pimpalgaon** — 20.9 km
+- 🚉 **Bhagdara** — 21.0 km
+- 🚉 **Varkhedi** — 29.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4409.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **MTDC Holiday Resort** — 3.9 km — chain
+- **Hotel View Point** — 7.0 km — hotel
+- **4 Seasons** — 34.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

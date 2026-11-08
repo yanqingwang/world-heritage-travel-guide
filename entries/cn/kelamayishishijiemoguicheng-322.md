@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Kelamayi City"
 lat: 46.136384
 lon: 85.754111
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 克拉玛依市世界魔鬼城景区 / Karamay

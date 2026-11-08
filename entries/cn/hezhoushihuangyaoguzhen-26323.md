@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Hezhou City"
 lat: 24.253637
 lon: 111.21324
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 贺州市黄姚古镇景区 / Hezhou

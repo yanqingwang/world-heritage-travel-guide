@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(iv)"
 lat: 37.886080468
 lon: -4.867785472
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:47Z"
 ---
 
 # 哈里发的阿尔扎哈拉古城 / Caliphate City of Medina Azahara

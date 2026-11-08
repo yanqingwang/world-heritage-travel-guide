@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Africa Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.1247283,
+   "lon": 38.7328205,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The ark hotel",
+   "name_en": "The ark hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 14.1247215,
+   "lon": 38.7323196,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Setit hotel",
+   "name_en": "Setit hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 14.1230863,
+   "lon": 38.7377624,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Abinet Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.1242347,
+   "lon": 38.7303146,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sabean Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 14.1242288,
+   "lon": 38.7316741,
+   "distance_km": 0.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 34,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:24Z"
+}

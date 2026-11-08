@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(x)"
 lat: 12.5
 lon: 53.4
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:40Z"
 ---
 
 # 索科特拉群岛 / Socotra Archipelago

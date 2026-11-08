@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)(iv)"
 lat: 34.49054280555
 lon: -101.34791811125
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:15Z"
 ---
 
 # 卡俄基亚土丘历史遗址 / Cahokia Mounds State Historic Site

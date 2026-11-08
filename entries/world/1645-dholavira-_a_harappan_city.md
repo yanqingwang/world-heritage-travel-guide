@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(iv)"
 lat: 23.88611111
 lon: 70.21666667
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:49Z"
 ---
 
 # 多拉维拉：哈拉帕文明古城 / Dholavira: a Harappan City
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:56Z"
 
 *Dholavira gujarat.jpg · see Wikimedia Commons file page*
 
-![Dholavira: a Harappan City](https://whc.unesco.org/uploads/sites/site_1645.jpg)
+![Banner at the North Gate of Dholavira.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Banner_at_the_North_Gate_of_Dholavira.svg/1280px-Banner_at_the_North_Gate_of_Dholavira.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Dholavira: a Harappan City · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Banner at the North Gate of Dholavira.svg · Swastik Harish, original Harappan Inlay work · CC BY-SA 4.0*
+
+![Beads found from harappan site.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Beads_found_from_harappan_site.jpg/1280px-Beads_found_from_harappan_site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Beads found from harappan site.jpg · Ranjith Kumar Inbasekaran · CC BY-SA 4.0*
+
+![Dholavira Layout.jpg](https://upload.wikimedia.org/wikipedia/commons/0/07/Dholavira_Layout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Dholavira Layout.jpg · Nizil Shah · CC BY-SA 3.0*
+
+![Dholavira-layout-en.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dholavira-layout-en.svg/1280px-Dholavira-layout-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Dholavira-layout-en.svg · Yodaspirine · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

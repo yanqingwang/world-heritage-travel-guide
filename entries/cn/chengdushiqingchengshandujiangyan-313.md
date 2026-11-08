@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Chengdu"
 lat: 31.001763
 lon: 103.622111
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 成都市青城山-都江堰旅游景区 / Mount Qingcheng
@@ -26,17 +26,17 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *青城山 Mount Qingcheng 2017.jpg · JianEn Yu · CC BY 2.0*
 
-![Jianfu Palace, Mount Qingcheng (54530903712).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Jianfu_Palace%2C_Mount_Qingcheng_%2854530903712%29.jpg/1280px-Jianfu_Palace%2C_Mount_Qingcheng_%2854530903712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Mount Qingcheng Kina 2009 0215 (4141815344).jpg](https://upload.wikimedia.org/wikipedia/commons/1/1f/Mount_Qingcheng_Kina_2009_0215_%284141815344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Jianfu Palace, Mount Qingcheng (54530903712).jpg · xiquinhosilva · CC BY 2.0*
-
-![Mount Qingcheng Kina 2009 0184 (4141805854).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mount_Qingcheng_Kina_2009_0184_%284141805854%29.jpg/1280px-Mount_Qingcheng_Kina_2009_0184_%284141805854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount Qingcheng Kina 2009 0184 (4141805854).jpg · Einar Fredriksen · CC BY-SA 2.0*
+*Mount Qingcheng Kina 2009 0215 (4141815344).jpg · Einar Fredriksen · CC BY-SA 2.0*
 
 ![Mount Qingcheng Kina 2009 0224 (4141063061).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mount_Qingcheng_Kina_2009_0224_%284141063061%29.jpg/1280px-Mount_Qingcheng_Kina_2009_0224_%284141063061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Mount Qingcheng Kina 2009 0224 (4141063061).jpg · Einar Fredriksen · CC BY-SA 2.0*
+
+![Mount Qingcheng Kina 2009 0245 (4141823386).jpg](https://upload.wikimedia.org/wikipedia/commons/9/9e/Mount_Qingcheng_Kina_2009_0245_%284141823386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Mount Qingcheng Kina 2009 0245 (4141823386).jpg · Einar Fredriksen · CC BY-SA 2.0*
 
 ![Mount Qingcheng Kina 2009 0251 (4141069833).jpg](https://upload.wikimedia.org/wikipedia/commons/f/fb/Mount_Qingcheng_Kina_2009_0251_%284141069833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 

@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Tulufan Prefecture"
 lat: 43.005375
 lon: 89.249626
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 吐鲁番市葡萄沟风景区 / Grape Valley

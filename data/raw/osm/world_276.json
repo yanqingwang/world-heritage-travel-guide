@@ -1,0 +1,112 @@
+{
+ "hotels": [
+  {
+   "name": "مجمع السفراء الأربعة",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.1980736,
+   "lon": 43.8738147,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "مجمع المجدد الشيرازي",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.1976381,
+   "lon": 43.8738526,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "مجمع صاحب الأمر",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.1993898,
+   "lon": 43.871695,
+   "distance_km": 1.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "مجمع السيدة حكيمة",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.2025537,
+   "lon": 43.8705092,
+   "distance_km": 1.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق باي روك",
+   "name_en": "Bay Rock Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.5860769,
+   "lon": 43.6808212,
+   "distance_km": 47.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [
+  {
+   "name": "محطة قطار سامراء",
+   "name_en": "Samarra Railway Station",
+   "lat": 34.1885813,
+   "lon": 43.8517149,
+   "distance_km": 3.2,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار العباسية",
+   "name_en": "Abbasiya Railway Station",
+   "lat": 34.3121767,
+   "lon": 43.7774794,
+   "distance_km": 16.3,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار الاسحاقي",
+   "name_en": "Ishaq Railway Station",
+   "lat": 34.0399712,
+   "lon": 43.983358,
+   "distance_km": 19.5,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار امام دور",
+   "name_en": "Imam Dawr Railway Station",
+   "lat": 34.4730629,
+   "lon": 43.7094701,
+   "distance_km": 34.8,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار بلد",
+   "name_en": "Balad Railway Station",
+   "lat": 33.9505306,
+   "lon": 44.1543904,
+   "distance_km": 36.8,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار تكريت",
+   "name_en": "Tikrit Railway Station",
+   "lat": 34.605377,
+   "lon": 43.6610039,
+   "distance_km": 50.0,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:59:23Z"
+}

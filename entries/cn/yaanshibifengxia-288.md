@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Ya'an"
 lat: 30.078428
 lon: 102.997037
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 雅安市碧峰峡旅游景区 / Ya'an
@@ -34,9 +34,9 @@ updated_at: "2026-11-07T22:58:15Z"
 
 *David Crockett Graham, 1923.png · Unknown author Unknown author · Public domain*
 
-![ShangLi old town.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/ShangLi_old_town.jpg/1280px-ShangLi_old_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Platforms of Ya’an Railway Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Platforms_of_Ya%E2%80%99an_Railway_Station.jpg/1280px-Platforms_of_Ya%E2%80%99an_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*ShangLi old town.jpg · 2019082315HAO JINGYU · CC BY-SA 4.0*
+*Platforms of Ya’an Railway Station.jpg · 来斤小仓鼠吧 · CC BY-SA 4.0*
 
 ![Ya'an Museum 2014-09.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ya%27an_Museum_2014-09.JPG/1280px-Ya%27an_Museum_2014-09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 

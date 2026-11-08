@@ -2,7 +2,7 @@
 id: "cn-487"
 dataset: "china_5a"
 name_zh: "南通市濠河风景区"
-name_en: "Haohe Scenic Area"
+name_en: "Nantongshihaohefeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Nantong City"
 lat: 32.028014
 lon: 120.863679
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 南通市濠河风景区 / Haohe Scenic Area
+# 南通市濠河风景区 / Nantongshihaohefeng Scenic Area
 
 > 江苏省 · 南通市 · 自然风光
 
@@ -60,5 +60,4 @@ Haohe River is located in the center of Nantong, a national historical and cultu
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/濠河)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-336"
 dataset: "china_5a"
 name_zh: "泰州市溱湖旅游景区"
-name_en: "Qinhu Scenic Area"
+name_en: "Taizhoushiqinhu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Taizhou City"
 lat: 32.61842
 lon: 120.092904
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 泰州市溱湖旅游景区 / Qinhu Scenic Area
+# 泰州市溱湖旅游景区 / Taizhoushiqinhu Scenic Area
 
 > 江苏省 · 泰州市 · 度假休闲
 
@@ -58,5 +58,4 @@ The wetland in Qinhu Scenic Area has beautiful scenery, profound cultural herita
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/溱湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

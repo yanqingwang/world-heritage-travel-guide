@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(i)(iv)(vi)"
 lat: 36.7565
 lon: 139.5994
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:35Z"
 ---
 
 # 日光神殿和庙宇 / Shrines and Temples of Nikko

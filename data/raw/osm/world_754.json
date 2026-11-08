@@ -1,0 +1,80 @@
+{
+ "hotels": [
+  {
+   "name": "ЭКО ХАУС",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.985518,
+   "lon": 108.291579,
+   "distance_km": 40.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Драган",
+   "name_en": "Dragan",
+   "stars": null,
+   "brand": null,
+   "lat": 52.9866784,
+   "lon": 108.3017517,
+   "distance_km": 40.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Гостевой дом Алдан",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.9841205,
+   "lon": 108.293258,
+   "distance_km": 40.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Кемпинг Радуга",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.9839281,
+   "lon": 108.2914447,
+   "distance_km": 40.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Горхон",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 52.9852965,
+   "lon": 108.2971804,
+   "distance_km": 40.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 39,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "порт Турка",
+   "name_en": null,
+   "lat": 52.9420756,
+   "lon": 108.2199686,
+   "distance_km": 42.6,
+   "operator": null
+  },
+  {
+   "name": "Хужир",
+   "name_en": null,
+   "lat": 53.2022884,
+   "lon": 107.3410592,
+   "distance_km": 45.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:37Z"
+}

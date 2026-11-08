@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(v)(vi)"
 lat: 32.658222222
 lon: 51.677333333
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:12Z"
 ---
 
 # 伊斯法罕王侯广场 / Meidan Emam, Esfahan

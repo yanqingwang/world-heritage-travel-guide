@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iv)"
 lat: 43.782482
 lon: 19.287872
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:40Z"
 ---
 
 # 迈赫迈德•巴什•索科罗维奇的古桥 / Mehmed Paša Sokolović Bridge in Višegrad

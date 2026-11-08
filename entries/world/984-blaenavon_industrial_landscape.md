@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 51.770277777
 lon: -3.092222222
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:37Z"
 ---
 
 # 卡莱纳冯工业区景观 / Blaenavon Industrial Landscape

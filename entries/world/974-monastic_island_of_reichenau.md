@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)(vi)"
 lat: 47.693055555
 lon: 9.063055555
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:37Z"
 ---
 
 # 赖谢瑙修道院之岛 / Monastic Island of Reichenau

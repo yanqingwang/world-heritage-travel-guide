@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Datong"
 lat: 40.119273
 lon: 113.144291
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 大同市云冈石窟景区 / Datong
@@ -26,14 +26,6 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *The skyline of Datong（Southgate）2019.jpg · Charlie fong · CC BY-SA 4.0*
 
-![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2016年度全国博物馆名录.pdf · State Administration of Cultural Heritage · Public domain*
-
-![关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf · 国家文物局 · Public domain*
-
 ![Central Seminary of Datong.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/Central_Seminary_of_Datong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 *Central Seminary of Datong.jpg · Unknown author Unknown author · Public domain*
@@ -41,6 +33,14 @@ updated_at: "2026-11-07T22:58:14Z"
 ![Datong banner Chunyanggong.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Datong_banner_Chunyanggong.jpg/1280px-Datong_banner_Chunyanggong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Datong banner Chunyanggong.jpg · Datong_Chunyanggong.jpg : JP Bennett from Yamato, Japan derivative work: Inkey · CC BY 2.0*
+
+![Datong factory January 1985.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Datong_factory_January_1985.jpg/1280px-Datong_factory_January_1985.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Datong factory January 1985.jpg · BabelStone · CC BY-SA 4.0*
+
+![Datong temple.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Datong_temple.jpg/1280px-Datong_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Datong temple.jpg · Lesterin · CC0*
 
 ## 简介 / Introduction
 

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Vista Palazzo Verona",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Lario Hotels",
+   "lat": 45.4407559,
+   "lon": 11.0000095,
+   "distance_km": 0.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel due Torri",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4448767,
+   "lon": 10.9995592,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Byblosart",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.489695,
+   "lon": 10.8994964,
+   "distance_km": 9.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Quellenhof Luxury Resort Lazise",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4908837,
+   "lon": 10.7414706,
+   "distance_km": 20.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "VILLA CORTINE PALACE HOTEL",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 45.4954929,
+   "lon": 10.6072811,
+   "distance_km": 30.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 955,
+ "stations": [
+  {
+   "name": "S. Stefano",
+   "name_en": null,
+   "lat": 45.4487484,
+   "lon": 11.0008597,
+   "distance_km": 1.3,
+   "operator": "Azienda Gestione Edifici Comunali"
+  },
+  {
+   "name": "Verona Porta Nuova",
+   "name_en": null,
+   "lat": 45.429182,
+   "lon": 10.9823706,
+   "distance_km": 1.3,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Castel S. Pietro",
+   "name_en": null,
+   "lat": 45.4486699,
+   "lon": 11.0027741,
+   "distance_km": 1.4,
+   "operator": "Azienda Gestione Edifici Comunali"
+  },
+  {
+   "name": "Verona Porta Vescovo",
+   "name_en": null,
+   "lat": 45.4357704,
+   "lon": 11.0186493,
+   "distance_km": 2.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Dossobuono",
+   "name_en": null,
+   "lat": 45.3924814,
+   "lon": 10.9147556,
+   "distance_km": 8.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Pescantina",
+   "name_en": null,
+   "lat": 45.4955026,
+   "lon": 10.8791378,
+   "distance_km": 10.9,
+   "operator": null
+  },
+  {
+   "name": "Buttapietra",
+   "name_en": null,
+   "lat": 45.3388709,
+   "lon": 10.9883096,
+   "distance_km": 11.1,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Sommacampagna-Sona",
+   "name_en": null,
+   "lat": 45.4263707,
+   "lon": 10.8441503,
+   "distance_km": 11.7,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Lazise",
+   "name_en": null,
+   "lat": 45.505323,
+   "lon": 10.7307498,
+   "distance_km": 21.7,
+   "operator": "Navigazione Laghi"
+  },
+  {
+   "name": "Cisano",
+   "name_en": null,
+   "lat": 45.5295643,
+   "lon": 10.7254035,
+   "distance_km": 23.2,
+   "operator": "Navigazione laghi"
+  },
+  {
+   "name": "Peschiera del Garda",
+   "name_en": null,
+   "lat": 45.4404159,
+   "lon": 10.6921272,
+   "distance_km": 23.5,
+   "operator": "Navigazione laghi"
+  },
+  {
+   "name": "Navigarda",
+   "name_en": null,
+   "lat": 45.4404279,
+   "lon": 10.692092,
+   "distance_km": 23.5,
+   "operator": "Navigarda"
+  },
+  {
+   "name": "Bardolino",
+   "name_en": null,
+   "lat": 45.5463361,
+   "lon": 10.7186304,
+   "distance_km": 24.5,
+   "operator": "Navigazione Laghi"
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:51Z"
+}

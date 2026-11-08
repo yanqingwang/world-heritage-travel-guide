@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iii)"
 lat: 20.683055555
 lon: -88.568611111
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:26Z"
 ---
 
 # 奇琴伊察古城 / Pre-Hispanic City of Chichen-Itza
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Chichen Itza 3.jpg · see Wikimedia Commons file page*
 
-![Pre-Hispanic City of Chichen-Itza](https://whc.unesco.org/uploads/sites/site_483.jpg)
+![2007-06-22 Chichen Itza - 018.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2007-06-22_Chichen_Itza_-_018.jpg/1280px-2007-06-22_Chichen_Itza_-_018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Pre-Hispanic City of Chichen-Itza · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2007-06-22 Chichen Itza - 018.jpg · mark byzewski · CC BY 2.0*
+
+![2007-06-22 Chichen Itza - 020.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2007-06-22_Chichen_Itza_-_020.jpg/1280px-2007-06-22_Chichen_Itza_-_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2007-06-22 Chichen Itza - 020.jpg · mark byzewski · CC BY 2.0*
+
+![2007-06-22 Chichen Itza - 021.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2007-06-22_Chichen_Itza_-_021.jpg/1280px-2007-06-22_Chichen_Itza_-_021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2007-06-22 Chichen Itza - 021.jpg · mark byzewski · CC BY 2.0*
+
+![2007-06-22 Chichen Itza - 022.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2007-06-22_Chichen_Itza_-_022.jpg/1280px-2007-06-22_Chichen_Itza_-_022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2007-06-22 Chichen Itza - 022.jpg · mark byzewski · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Esta ciudad sagrada fue uno de los centros más importantes de la civilización 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Real Hispano** — 38.1 km — star — 5★
+- **El Meson del Marqués** — 38.2 km — star — 5★
+- **Ecotel Quinta Regia** — 38.2 km — star — 5★
+- **Kaan Ac** — 38.8 km — star — 5★
+- **Mayaland Hotel & Bungalows** — 0.4 km — star — 4★ · Mayaland Resorts
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

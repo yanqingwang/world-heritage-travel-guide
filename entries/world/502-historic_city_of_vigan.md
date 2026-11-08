@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 17.57472
 lon: 120.38694
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:26Z"
 ---
 
 # 维甘历史古城 / Historic City of Vigan

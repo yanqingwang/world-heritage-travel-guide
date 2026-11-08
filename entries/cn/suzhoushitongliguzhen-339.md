@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.156127
 lon: 120.729409
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 苏州市同里古镇景区 / Suzhou

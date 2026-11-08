@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)"
 lat: 36.727297
 lon: 128.843428
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:46Z"
 ---
 
 # 韩国新儒学书院 / Seowon, Korean Neo-Confucian Academies

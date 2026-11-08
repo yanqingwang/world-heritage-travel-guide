@@ -13,7 +13,7 @@ province_en: "Heilongjiang"
 city_en: "Qiqihaer City"
 lat: 47.209125
 lon: 124.242091
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 齐齐哈尔市扎龙生态旅游区 / Qiqihaershizhalongshengtai Tourist Area

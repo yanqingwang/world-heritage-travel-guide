@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iv)(vi)"
 lat: 11.6
 lon: 165.4
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:42Z"
 ---
 
 # 比基尼环礁核试验地 / Bikini Atoll Nuclear Test Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:54Z"
 
 *Bikini Atoll 2001-01-14, Landsat 7 ETM+, bands 3-2-1-8.png · see Wikimedia Commons file page*
 
-![Bikini Atoll Nuclear Test Site](https://whc.unesco.org/uploads/sites/site_1339.jpg)
+![Aerial view of Bikini Atoll.jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/Aerial_view_of_Bikini_Atoll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Bikini Atoll Nuclear Test Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Aerial view of Bikini Atoll.jpg · TTPI(Trust Territory of the Pacific Islands) Headquarters · Public domain*
+
+![Air compressing gear and air tank used for diving, Bikini Atoll, summer 1947 (DONALDSON 232).jpeg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Air_compressing_gear_and_air_tank_used_for_diving%2C_Bikini_Atoll%2C_summer_1947_%28DONALDSON_232%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Air compressing gear and air tank used for diving, Bikini Atoll, summer 1947 (DONALDSON 232).jpeg · United States Navy · Public domain*
+
+![Arlis McCartner with seven foot shark caught from aboard the USS CHILTON, vicinity of Bikini Atoll, summer 1947 (DONALDSON 84).jpeg](https://upload.wikimedia.org/wikipedia/commons/6/65/Arlis_McCartner_with_seven_foot_shark_caught_from_aboard_the_USS_CHILTON%2C_vicinity_of_Bikini_Atoll%2C_summer_1947_%28DONALDSON_84%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Arlis McCartner with seven foot shark caught from aboard the USS CHILTON, vicinity of Bikini Atoll, summer 1947 (DONALDSON 84).jpeg · United States Navy · Public domain*
+
+![Atomic Bomb Test Bikini 1946.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Atomic_Bomb_Test_Bikini_1946.jpg/1280px-Atomic_Bomb_Test_Bikini_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Atomic Bomb Test Bikini 1946.jpg · SDASM Archives · No restrictions*
 
 ## 简介 / Introduction
 

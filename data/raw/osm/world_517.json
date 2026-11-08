@@ -1,0 +1,113 @@
+{
+ "hotels": [
+  {
+   "name": "Aldemar Olympian Village  * * * * *",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.7057834,
+   "lon": 21.3207902,
+   "distance_km": 28.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MANNA",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Design Hotels",
+   "lat": 37.6833207,
+   "lon": 22.1108153,
+   "distance_km": 42.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Αναγγένησις",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.6741006,
+   "lon": 21.4381798,
+   "distance_km": 17.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aldemar Olympian Village",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.7080252,
+   "lon": 21.3264949,
+   "distance_km": 27.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Royal Olympian",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.708516,
+   "lon": 21.3207889,
+   "distance_km": 28.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 93,
+ "stations": [
+  {
+   "name": "Ολυμπία",
+   "name_en": "Olympia",
+   "lat": 37.6456407,
+   "lon": 21.6266157,
+   "distance_km": 0.9,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Αλφειός",
+   "name_en": null,
+   "lat": 37.6537043,
+   "lon": 21.5032947,
+   "distance_km": 11.3,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Πύργος",
+   "name_en": null,
+   "lat": 37.6760512,
+   "lon": 21.4353666,
+   "distance_km": 17.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Κατάκολο",
+   "name_en": null,
+   "lat": 37.6483931,
+   "lon": 21.3166749,
+   "distance_km": 27.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Katakolo",
+   "name_en": "Katakolon",
+   "lat": 37.6455045,
+   "lon": 21.3249507,
+   "distance_km": 26.9,
+   "operator": null
+  },
+  {
+   "name": "Παλαιό Πορθμείο Λάδωνα",
+   "name_en": null,
+   "lat": 37.7519642,
+   "lon": 22.0460414,
+   "distance_km": 38.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:17Z"
+}

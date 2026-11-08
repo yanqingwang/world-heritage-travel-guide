@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Guilin"
 lat: 25.274963
 lon: 110.302478
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 桂林市两江四湖•象山景区 / Liangjiangsihu Scenic Area

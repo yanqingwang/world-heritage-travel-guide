@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Liuzhou"
 lat: 25.903032
 lon: 109.647973
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 柳州市程阳八寨景区 / Liuzhoushichengyangbazhai Scenic Area

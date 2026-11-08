@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(iv)"
 lat: 37.6675
 lon: 32.828333333
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:44Z"
 ---
 
 # 恰塔尔赫于克 / Neolithic Site of Çatalhöyük
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *CatalHoyukSouthArea.JPG · see Wikimedia Commons file page*
 
-![Neolithic Site of Çatalhöyük](https://whc.unesco.org/uploads/sites/site_1405.jpg)
+![9.000 Yıl Önce Dünya’da Kurulan İlk Kent Yerleşkesi; “Çatalhöyük-Konya".webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/9.000_Y%C4%B1l_%C3%96nce_D%C3%BCnya%E2%80%99da_Kurulan_%C4%B0lk_Kent_Yerle%C5%9Fkesi%3B_%E2%80%9C%C3%87atalh%C3%B6y%C3%BCk-Konya%22.webm/1280px--9.000_Y%C4%B1l_%C3%96nce_D%C3%BCnya%E2%80%99da_Kurulan_%C4%B0lk_Kent_Yerle%C5%9Fkesi%3B_%E2%80%9C%C3%87atalh%C3%B6y%C3%BCk-Konya%22.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
 
-*Neolithic Site of Çatalhöyük · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*9.000 Yıl Önce Dünya’da Kurulan İlk Kent Yerleşkesi; “Çatalhöyük-Konya".webm · Tarihçi Duygu Uğun · CC BY 3.0*
+
+![Birthing Women Anatolia.jpg](https://upload.wikimedia.org/wikipedia/commons/6/65/Birthing_Women_Anatolia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Birthing Women Anatolia.jpg · Bernietaylor · CC BY 4.0*
+
+![Bukarien aus Catal Hüyük, Türkei..jpg](https://upload.wikimedia.org/wikipedia/commons/f/f5/Bukarien_aus_Catal_H%C3%BCy%C3%BCk%2C_T%C3%BCrkei..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bukarien aus Catal Hüyük, Türkei..jpg · Nicotta · CC BY-SA 3.0*
+
+![Calibrated Carbon 14 dates for Çatalhöyük as of 2013.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Calibrated_Carbon_14_dates_for_%C3%87atalh%C3%B6y%C3%BCk_as_of_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Calibrated Carbon 14 dates for Çatalhöyük as of 2013.jpg · Kavita Gangal , Graeme R. Sarson, Anvar Shukurov · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Two hills form the 37 ha site on the Southern Anatolian Plateau. The taller east
 - ✈ **Konya Airport (KYA)** — 41.8 km
 - ✈ **Gazipaşa-Alanya Airport (GZP)** — 159.3 km
 - ✈ **Nevşehir Kapadokya Airport (NAV)** — 193.1 km
+- 🚉 **Çumra** — 11.3 km
+- 🚉 **Kaşınhan** — 23.2 km
+- 🚉 **Arıkören** — 24.6 km
+- 🚉 **Konya** — 38.0 km
+- 🚉 **Selçuklu YHT** — 38.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6969.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Ramada Plaza by Wyndham Konya** — 40.7 km — star — 5★ · Ramada
+- **Hilton Garden Inn Konya** — 35.6 km — star — 4★ · Hilton Garden Inn
+- **Dergâh Hotel** — 36.5 km — star — 4★
+- **Think Hotel** — 36.5 km — star — 4★
+- **Otel Selçuk** — 37.1 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

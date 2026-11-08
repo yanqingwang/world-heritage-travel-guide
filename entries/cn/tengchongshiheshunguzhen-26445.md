@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Baoshan"
 lat: 25.01266
 lon: 98.465504
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 腾冲市和顺古镇景区 / Tengchong

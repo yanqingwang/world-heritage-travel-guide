@@ -13,7 +13,7 @@ province_en: "Jilin"
 city_en: "Yanbian Korean Autonomous Prefecture"
 lat: 43.329782
 lon: 128.251207
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 延边州六鼎山文化旅游区 / Yanbianzhouliudingshan Cultural Tourism Area

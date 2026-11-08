@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Four Seasons Safari Lodge Serengeti",
+   "name_en": null,
+   "stars": null,
+   "brand": "Four Seasons",
+   "lat": -2.2344371,
+   "lon": 34.9190415,
+   "distance_km": 39.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Soroi Serengeti Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": "Mbali Mbali",
+   "lat": -2.406171,
+   "lon": 34.619763,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Meliá Serengeti Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": "Meliá",
+   "lat": -2.472081,
+   "lon": 34.5467682,
+   "distance_km": 10.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Serengeti Serena Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.3826676,
+   "lon": 34.7027211,
+   "distance_km": 11.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Serengeti Little Paradise",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -2.4964402,
+   "lon": 34.6516863,
+   "distance_km": 12.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 14,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:24Z"
+}

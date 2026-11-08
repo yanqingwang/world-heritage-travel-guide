@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Nanping"
 lat: 27.668108
 lon: 117.963042
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 南平市武夷山风景名胜区 / Nanpingshiwuyishan Scenic and Historic Area
@@ -65,5 +65,4 @@ Wuyi Mountain is located in the northern part of Fujian, China. It is known as t
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/武夷山风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

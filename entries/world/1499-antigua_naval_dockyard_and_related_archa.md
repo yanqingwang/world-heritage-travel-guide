@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(ii)(iv)"
 lat: 17.00455
 lon: -61.76007
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:46Z"
 ---
 
 # 安提瓜海军船坞及相关考古遗址 / Antigua Naval Dockyard and Related Archaeological Sites

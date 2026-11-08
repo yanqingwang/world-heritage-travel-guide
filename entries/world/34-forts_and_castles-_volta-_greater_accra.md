@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vi)"
 lat: 5.103694444
 lon: -1.241
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:10Z"
 ---
 
 # 沃尔特大阿克拉中西部地区的要塞和城堡 / Forts and Castles, Volta, Greater Accra, Central and Western Regions

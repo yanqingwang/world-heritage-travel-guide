@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Ganzi Tibetan Autonomous Prefecture"
 lat: 28.464938
 lon: 100.293273
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 甘孜州稻城亚丁旅游景区 / Yading

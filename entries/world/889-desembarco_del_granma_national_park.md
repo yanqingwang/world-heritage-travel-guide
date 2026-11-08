@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(vii)(viii)"
 lat: 19.883333
 lon: -77.633333
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:35Z"
 ---
 
 # 格朗玛的德桑巴尔科国家公园 / Desembarco del Granma National Park

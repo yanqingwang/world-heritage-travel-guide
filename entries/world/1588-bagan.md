@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)(vi)"
 lat: 21.1725
 lon: 94.86
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:48Z"
 ---
 
 # 蒲甘 / Bagan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:56Z"
 
 *Bagan, Myanmar, Htilominlo Temple and other Buddhist stupas in Bagan plain.jpg · see Wikimedia Commons file page*
 
-![Bagan](https://whc.unesco.org/uploads/sites/site_1588.jpg)
+![2020 satellite picture of Bagan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2020_satellite_picture_of_Bagan.jpg/1280px-2020_satellite_picture_of_Bagan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bagan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2020 satellite picture of Bagan.jpg · NASA · Public domain*
+
+![500px photo (193117595).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/500px_photo_%28193117595%29.jpeg/1280px-500px_photo_%28193117595%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*500px photo (193117595).jpeg · Magdalena Roeseler · CC BY 3.0*
+
+![A Folklore Morning in Bagan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/A_Folklore_Morning_in_Bagan.jpg/1280px-A_Folklore_Morning_in_Bagan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Folklore Morning in Bagan.jpg · Satt Pai Htun · CC BY-SA 4.0*
+
+![Bagan (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Bagan_%282%29.jpg/1280px-Bagan_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bagan (2).jpg · Golden Egg · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Lying on a bend of the Ayeyarwady River in the central plain of Myanmar, Bagan i
 - ✈ **Bagan Airport (NYU)** — 7.3 km
 - ✈ **Magway Airport (MWQ)** — 112.3 km
 - ✈ **Mandalay International Airport (MDL)** — 129.8 km
+- 🚉 **Kyun Chaung Station** — 6.0 km
+- 🚉 **Tant Kyi Station** — 6.8 km
+- 🚉 **ပုဂံဘူတာ** — 8.1 km
+- 🚉 **Myitche** — 9.0 km
+- 🚉 **ပုလင်းဘူတာ** — 14.3 km
+- ⛴ **Pandaw Orient mooring** — 0.7 km
+- ⛴ **Irrawaddy Princess 2 Jetty** — 1.0 km
+- ⛴ **Road to Mandalay Jetty** — 1.3 km
+- ⛴ **Fantasia Garden Jetty** — 1.5 km
+- ⛴ **လက်ပံချောင်းမော်တော်ဆိပ်** — 5.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2935.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Serenity Bagan Resort** — 8.6 km — star — 3★
+- **Cherry Bagan Hotel** — 9.8 km — star — 3★
+- **Myanmar Han Hotel** — 10.2 km — star — Myanmar Han Hotel · 3★
+- **မြန်မာဟန်ဟိုတယ်** — 10.2 km — star — Myanmar Han Hotel · 3★
+- **We Stay @ Bagan Lotus Hotel** — 11.9 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

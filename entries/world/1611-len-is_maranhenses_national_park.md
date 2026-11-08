@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(vii)(viii)"
 lat: -2.483333333
 lon: -43.133333333
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:48Z"
 ---
 
 # 伦索伊斯-马拉年塞斯国家公园 / Lençóis Maranhenses National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:56Z"
 
 *Lençóis Maranhenses 2018.jpg · see Wikimedia Commons file page*
 
-![Lençóis Maranhenses National Park](https://whc.unesco.org/uploads/sites/site_1611.jpg)
+![-Maranhão-19-06-21-5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/-Maranh%C3%A3o-19-06-21-5.jpg/1280px--Maranh%C3%A3o-19-06-21-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Lençóis Maranhenses National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*-Maranhão-19-06-21-5.jpg · andresumida · CC BY 2.0*
+
+![-Maranhão-19-06-22-23.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/-Maranh%C3%A3o-19-06-22-23.jpg/1280px--Maranh%C3%A3o-19-06-22-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-Maranhão-19-06-22-23.jpg · andresumida · CC BY 2.0*
+
+![-Maranhão-19-06-23-35.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/-Maranh%C3%A3o-19-06-23-35.jpg/1280px--Maranh%C3%A3o-19-06-23-35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-Maranhão-19-06-23-35.jpg · andresumida · CC BY 2.0*
+
+![-Maranhão-19-06-23-39.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/-Maranh%C3%A3o-19-06-23-39.jpg/1280px--Maranh%C3%A3o-19-06-23-39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-Maranhão-19-06-23-39.jpg · andresumida · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,18 @@ O Parque Nacional dos Lençóis Maranhenses é uma unidade de conservação bras
 - ✈ **Marechal Cunha Machado International Airport (SLZ)** — 122.9 km
 - ✈ **Parnaíba - Prefeito Doutor João Silva Filho International Airport (PHB)** — 162.2 km
 - ✈ **Senador Petrônio Portela Airport (THE)** — 288.6 km
+- ⛴ **Balsa do Santo Antonio** — 42.3 km
+- ⛴ **Balsa da Daiana - Cantinho** — 43.8 km
+- ⛴ **Balsa** — 44.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **15420.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel e Pousada do Buriti** — 45.3 km — star — 3★
+- **Rancho das Dunas** — 13.1 km — hotel
+- **Pousada Água Doce** — 13.7 km — hotel
+- **Baixa Grande** — 17.1 km — hotel — Baixa Grande
+- **Green Village Pousada Atins** — 43.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "蔵宿いろは",
+   "name_en": "Kurayado Iroha",
+   "stars": 5,
+   "brand": null,
+   "lat": 34.2996222,
+   "lon": 132.3216408,
+   "distance_km": 16.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "EN HOTEL",
+   "name_en": "EN Hotel Hiroshima",
+   "stars": 3,
+   "brand": null,
+   "lat": 34.3916119,
+   "lon": 132.4685847,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宮島シーサイドホテル",
+   "name_en": "Miyajima Seaside Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 34.3043952,
+   "lon": 132.3350871,
+   "distance_km": 14.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "旅館水羽荘",
+   "name_en": "Auberge Mizuhaso",
+   "stars": 3,
+   "brand": null,
+   "lat": 34.2953622,
+   "lon": 132.3162282,
+   "distance_km": 16.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "山一別館",
+   "name_en": "Yamaichi Bekkan",
+   "stars": 2,
+   "brand": null,
+   "lat": 34.3013929,
+   "lon": 132.322745,
+   "distance_km": 15.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 179,
+ "stations": [
+  {
+   "name": "本通",
+   "name_en": "Hondōri",
+   "lat": 34.3931587,
+   "lon": 132.4569775,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "県庁前",
+   "name_en": "Kenchō-mae",
+   "lat": 34.3966808,
+   "lon": 132.458162,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "城北",
+   "name_en": "Jōhoku",
+   "lat": 34.4053714,
+   "lon": 132.4588291,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "新白島",
+   "name_en": "Shin-Hakushima",
+   "lat": 34.4084066,
+   "lon": 132.4615637,
+   "distance_km": 1.6,
+   "operator": null
+  },
+  {
+   "name": "横川",
+   "name_en": "Yokogawa",
+   "lat": 34.4104178,
+   "lon": 132.4508213,
+   "distance_km": 1.7,
+   "operator": "西日本旅客鉄道"
+  },
+  {
+   "name": "白島",
+   "name_en": "Hakushima",
+   "lat": 34.4109218,
+   "lon": 132.4627488,
+   "distance_km": 1.9,
+   "operator": null
+  },
+  {
+   "name": "広島",
+   "name_en": "Hiroshima",
+   "lat": 34.3985139,
+   "lon": 132.4753527,
+   "distance_km": 2.0,
+   "operator": "西日本旅客鉄道"
+  },
+  {
+   "name": "西広島",
+   "name_en": "Nishi-Hiroshima",
+   "lat": 34.3979966,
+   "lon": 132.4279158,
+   "distance_km": 2.4,
+   "operator": "西日本旅客鉄道"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "元安桟橋",
+   "name_en": "Motoyasu Pier",
+   "lat": 34.3937904,
+   "lon": 132.4541825,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Hiroshima World Heritage River Cruise",
+   "name_en": null,
+   "lat": 34.3937867,
+   "lon": 132.4542145,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "広島港宇品旅客ターミナル",
+   "name_en": null,
+   "lat": 34.3524545,
+   "lon": 132.4550554,
+   "distance_km": 4.8,
+   "operator": null
+  },
+  {
+   "name": "Hiroshima Port Cruise Terminal",
+   "name_en": "Hiroshima Port Cruise Terminal",
+   "lat": 34.352801,
+   "lon": 132.4706897,
+   "distance_km": 5.0,
+   "operator": null
+  },
+  {
+   "name": "広島国際フェリーポート",
+   "name_en": null,
+   "lat": 34.3506497,
+   "lon": 132.4496543,
+   "distance_km": 5.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:43Z"
+}

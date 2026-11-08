@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(vi)"
 lat: -25.967231
 lon: 27.66244
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:35Z"
 ---
 
 # 斯泰克方丹、 斯瓦特科兰斯、 科罗姆德拉伊和维罗恩斯的化石遗址 / Fossil Hominid Sites of South Africa
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *SterkfonteinCave.jpg · see Wikimedia Commons file page*
 
-![Fossil Hominid Sites of South Africa](https://whc.unesco.org/uploads/sites/site_915.jpg)
+![Africanus south africa.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Africanus_south_africa.jpg/1280px-Africanus_south_africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Fossil Hominid Sites of South Africa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Africanus south africa.jpg · Chartep · CC BY-SA 4.0*
+
+![Cradle of Humankind map.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Cradle_of_Humankind_map.jpg/1280px-Cradle_of_Humankind_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cradle of Humankind map.jpg · Chartep · CC BY-SA 4.0*
+
+![Cradle of Humankind plan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Cradle_of_Humankind_plan.jpg/1280px-Cradle_of_Humankind_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Cradle of Humankind plan.jpg · Chartep · CC BY-SA 4.0*
+
+![Geological setting of Cradle of Humankind and Rising Star cave system.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Geological_setting_of_Cradle_of_Humankind_and_Rising_Star_cave_system.jpg/1280px-Geological_setting_of_Cradle_of_Humankind_and_Rising_Star_cave_system.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Geological setting of Cradle of Humankind and Rising Star cave system.jpg · Paul H. G. M. Dirks et al · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The Taung Skull Fossil Site, part of the extension to the site inscribed in 1999
 - ✈ **Lanseria International Airport (HLA)** — 26.6 km
 - ✈ **O.R. Tambo International Airport (JNB)** — 61.5 km
 - ✈ **George Dick Montshioa Airport (MBD)** — 212.4 km
+- 🚉 **Tarlton** — 12.8 km
+- 🚉 **Magaliesburg** — 13.0 km
+- 🚉 **Battery** — 16.7 km
+- 🚉 **Seekmore** — 17.8 km
+- 🚉 **Wes-Rand** — 18.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11719.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hilton Sandton** — 42.4 km — star — 5★ · Hilton
+- **Radisson Blu Sandton** — 42.7 km — star — 5★
+- **Hyatt Regency Johannesburg** — 42.8 km — star — 5★ · Hyatt Regency
+- **The Westcliff** — 43.3 km — star — 5★ · Four Seasons
+- **Park Hyatt Johannesburg** — 43.3 km — star — 5★ · Park Hyatt
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

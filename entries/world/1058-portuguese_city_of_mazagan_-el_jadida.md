@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iv)"
 lat: 33.467269315857145
 lon: -6.203932317285714
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:38Z"
 ---
 
 # 马扎甘葡萄牙城 / Portuguese City of Mazagan (El Jadida)

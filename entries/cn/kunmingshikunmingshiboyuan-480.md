@@ -2,7 +2,7 @@
 id: "cn-480"
 dataset: "china_5a"
 name_zh: "昆明市昆明世博园景区"
-name_en: "Kunming"
+name_en: "Kunmingshikunmingshiboyuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Yunnan"
 city_en: "Kunming"
 lat: 25.080626
 lon: 102.769359
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 昆明市昆明世博园景区 / Kunming
+# 昆明市昆明世博园景区 / Kunmingshikunmingshiboyuan Scenic Area
 
 > 云南省 · 昆明市 · 主题乐园
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Kunming is the capital and largest city of the province of Yunnan in China. The political, economic, communications and cultural centre of the province, Kunming is also a major tourism centre in China. It is nicknamed the "City of Eternal Spring" for its year-round mild climate. During World War II, Kunming was a Chinese military center and the location of the headquarters for the U.S. Army Forces China-Burma-British Raj. Wujiaba Airport served as the home of the First American Volunteer Group (AVG) of the Republic of China Air Force, nicknamed the Flying Tigers. Kunming was also a transport terminus for the Burma Road. Kunming is at an altitude of 1,900 metres (6,234 feet) above sea level and a latitude just north of the Tropic of Cancer, and is situated in the middle of the Yunnan–Guizhou Plateau. Kunming is the fourth most populous city in Western China, after Chongqing, Chengdu, and Xi'an, and the third most populous city in Southwestern China after Chongqing and Chengdu. As of the 2020 census, Kunming had a total population of 8,460,088 inhabitants, of whom 5,604,310 lived in its built-up (or metro) area made of all urban districts except Jinning. At the end of 2024, the resid
+The Kunming World Expo Park Scenic Area in Kunming is the site of the 1999 Kunming World Horticultural Exposition. The park covers an area of ​​about 218 hectares. It integrates the local characteristics of all provinces, districts and cities across the country and 95 national-style gardening products, courtyard buildings and scientific and technological achievements in one park, embodying the theme of the times of "harmony between man and nature".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,10 @@ Kunming is the capital and largest city of the province of Yunnan in China. The 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/昆明市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/世博园站 (昆明市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Longnan City"
 lat: 34.016357
 lon: 104.39915
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 陇南市官鹅沟景区 / Longnanshiguanegou Scenic Area

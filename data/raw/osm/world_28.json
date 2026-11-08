@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Best Western Desert Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 44.6619216,
+   "lon": -111.0987878,
+   "distance_km": 47.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Weston Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 44.6640802,
+   "lon": -111.100487,
+   "distance_km": 48.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn - West Yellowstone",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn",
+   "lat": 44.6592108,
+   "lon": -111.1051969,
+   "distance_km": 48.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lake Yellowstone Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 44.549972,
+   "lon": -110.3998666,
+   "distance_km": 9.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lake Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 44.555064,
+   "lon": -110.3957406,
+   "distance_km": 9.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 37,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:33Z"
+}

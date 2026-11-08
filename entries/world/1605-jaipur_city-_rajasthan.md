@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)(iv)(vi)"
 lat: 26.915
 lon: 75.82
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:48Z"
 ---
 
 # 斋浦尔城 / Jaipur City, Rajasthan
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:56Z"
 
 *Jaipur Montage.png · see Wikimedia Commons file page*
 
-![Jaipur City, Rajasthan](https://whc.unesco.org/uploads/sites/site_1605.jpg)
+![125th Napier's rifles.jpg](https://upload.wikimedia.org/wikipedia/commons/4/48/125th_Napier%27s_rifles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Jaipur City, Rajasthan · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*125th Napier's rifles.jpg · A.C. Lovett · Public domain*
+
+![4 Popular building in Jaipur together.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/4_Popular_building_in_Jaipur_together.jpg/1280px-4_Popular_building_in_Jaipur_together.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*4 Popular building in Jaipur together.jpg · Shaurya Pratap Singh Rajawat Siras · CC BY-SA 4.0*
+
+![A History of Indian Shipping and Maritime Activity From the Earliest Times.jpg](https://upload.wikimedia.org/wikipedia/commons/7/70/A_History_of_Indian_Shipping_and_Maritime_Activity_From_the_Earliest_Times.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A History of Indian Shipping and Maritime Activity From the Earliest Times.jpg · Jitendrasingh17 · CC BY-SA 4.0*
+
+![Aerial View of Jaipur From Galta Pahadi.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Aerial_View_of_Jaipur_From_Galta_Pahadi.jpg/1280px-Aerial_View_of_Jaipur_From_Galta_Pahadi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial View of Jaipur From Galta Pahadi.jpg · Incridible.jainism · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The walled city of Jaipur, in India’s north-western state of Rajasthan was fou
 - ✈ **Jaipur International Airport (JAI)** — 10.1 km
 - ✈ **Kishangarh Airport Ajmer (KQH)** — 106.3 km
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 213.8 km
+- 🚉 **Bais Godam** — 3.4 km
+- 🚉 **Jaipur Junction** — 3.4 km
+- 🚉 **Gandhi Nagar Jaipur** — 5.1 km
+- 🚉 **Dahar-Ka-Balaji** — 6.3 km
+- 🚉 **Durgapura** — 7.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4017.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Shahpura House** — 3.5 km — star — 5★
+- **Hilton Jaipur** — 3.9 km — star — 5★ · Hilton
+- **Trident Hotel , Jaipur** — 5.2 km — star — 5★ · Trident Hotels
+- **The Oberoi  Rajvilas** — 7.7 km — star — 5★
+- **Royal orchid** — 8.3 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

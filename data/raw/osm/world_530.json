@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Myconian O",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Myconian Collection",
+   "lat": 37.4227012,
+   "lon": 25.321598,
+   "distance_km": 5.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kove Hotel & Spa Mykonos - MGallery Collection",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Myconian Collection",
+   "lat": 37.4240877,
+   "lon": 25.3256818,
+   "distance_km": 6.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Myconian Ambassador Relais & Chateaux",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Myconian Collection",
+   "lat": 37.4154329,
+   "lon": 25.3432842,
+   "distance_km": 7.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Myconian Korali Relais & Châteaux",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Myconian Collection",
+   "lat": 37.436788,
+   "lon": 25.3289869,
+   "distance_km": 7.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Myconian Kyma",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Myconian Collection",
+   "lat": 37.4369954,
+   "lon": 25.3297536,
+   "distance_km": 7.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 442,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Δήλος",
+   "name_en": "Delos",
+   "lat": 37.3984679,
+   "lon": 25.2646912,
+   "distance_km": 1.1,
+   "operator": null
+  },
+  {
+   "name": "Ιερό Λιμάνι",
+   "name_en": "Sacred Harbor",
+   "lat": 37.3997076,
+   "lon": 25.2656565,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "Ρηνεία",
+   "name_en": "Rineia",
+   "lat": 37.4157198,
+   "lon": 25.2378613,
+   "distance_km": 4.0,
+   "operator": null
+  },
+  {
+   "name": "Mykonos-Dilos",
+   "name_en": null,
+   "lat": 37.4487608,
+   "lon": 25.3265237,
+   "distance_km": 8.3,
+   "operator": null
+  },
+  {
+   "name": "Παλιό Λιμάνι",
+   "name_en": "Old Port",
+   "lat": 37.4482445,
+   "lon": 25.3265927,
+   "distance_km": 8.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:20Z"
+}

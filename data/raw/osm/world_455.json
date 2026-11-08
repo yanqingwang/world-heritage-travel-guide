@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "Grand Meteora Hotel",
+   "name_en": "Grand Meteora Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 39.7193889,
+   "lon": 21.6123234,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thessalikon Grand",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 39.3407961,
+   "lon": 21.8782504,
+   "distance_km": 46.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Liknon Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 39.6993294,
+   "lon": 21.6384277,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Άρνη",
+   "name_en": "Arni",
+   "stars": 4,
+   "brand": "Domotel",
+   "lat": 39.3650798,
+   "lon": 21.9215942,
+   "distance_km": 46.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Adrachti",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 39.7163279,
+   "lon": 21.6236605,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 116,
+ "stations": [
+  {
+   "name": "Καλαμπάκα",
+   "name_en": "Kalambaka",
+   "lat": 39.7030141,
+   "lon": 21.6253598,
+   "distance_km": 1.1,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Τρίκαλα",
+   "name_en": null,
+   "lat": 39.5460802,
+   "lon": 21.7633872,
+   "distance_km": 21.9,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Καρδίτσα",
+   "name_en": null,
+   "lat": 39.3540442,
+   "lon": 21.9147816,
+   "distance_km": 46.9,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:00:12Z"
+}

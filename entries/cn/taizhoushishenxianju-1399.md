@@ -2,7 +2,7 @@
 id: "cn-1399"
 dataset: "china_5a"
 name_zh: "台州市神仙居景区"
-name_en: "Shenxianju Scenic Area"
+name_en: "Taizhoushishenxianju Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 28.683553
 lon: 120.599543
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
-# 台州市神仙居景区 / Shenxianju Scenic Area
+# 台州市神仙居景区 / Taizhoushishenxianju Scenic Area
 
 > 浙江省 · 台州市 · 地质奇观
 
@@ -60,5 +60,4 @@ Shenxianju has a unique geological structure. It is a large-scale volcanic rhyol
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/神仙居)
 - [OpenStreetMap](https://www.openstreetmap.org/)

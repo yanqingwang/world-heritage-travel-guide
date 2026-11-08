@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Áurea Washington Irving",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Aurea Hotels",
+   "lat": 37.1741976,
+   "lon": -3.5865738,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Alhambra Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.1739761,
+   "lon": -3.5901391,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eurostars Gran Vía",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Eurostars Hotel Company",
+   "lat": 37.1779317,
+   "lon": -3.5985463,
+   "distance_km": 0.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Claridge Granada",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.1772309,
+   "lon": -3.5992407,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Seda Residences",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hidden Hotels",
+   "lat": 37.176395,
+   "lon": -3.6011607,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 296,
+ "stations": [
+  {
+   "name": "Recogidas",
+   "name_en": null,
+   "lat": 37.1701453,
+   "lon": -3.6058663,
+   "distance_km": 1.7,
+   "operator": "Metro de Granada"
+  },
+  {
+   "name": "Alcázar Genil",
+   "name_en": null,
+   "lat": 37.1644942,
+   "lon": -3.6024393,
+   "distance_km": 1.8,
+   "operator": "Metro de Granada"
+  },
+  {
+   "name": "Hípica",
+   "name_en": null,
+   "lat": 37.160728,
+   "lon": -3.5965429,
+   "distance_km": 1.9,
+   "operator": "Metro de Granada"
+  },
+  {
+   "name": "Méndez Núñez",
+   "name_en": null,
+   "lat": 37.1765925,
+   "lon": -3.6097845,
+   "distance_km": 1.9,
+   "operator": "Metro de Granada"
+  },
+  {
+   "name": "Universidad",
+   "name_en": null,
+   "lat": 37.1808537,
+   "lon": -3.6085801,
+   "distance_km": 1.9,
+   "operator": "Metro de Granada"
+  },
+  {
+   "name": "Estación Ferrocarril",
+   "name_en": null,
+   "lat": 37.183249,
+   "lon": -3.60832,
+   "distance_km": 1.9,
+   "operator": "Metro de Granada"
+  },
+  {
+   "name": "Granada",
+   "name_en": null,
+   "lat": 37.1836936,
+   "lon": -3.6086283,
+   "distance_km": 2.0,
+   "operator": "Adif"
+  },
+  {
+   "name": "Andrés Segovia",
+   "name_en": null,
+   "lat": 37.1581693,
+   "lon": -3.5954377,
+   "distance_km": 2.1,
+   "operator": "Metro de Granada"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:59:38Z"
+}

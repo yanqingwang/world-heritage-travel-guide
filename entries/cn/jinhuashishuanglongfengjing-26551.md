@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jinhua City"
 lat: 29.192493
 lon: 119.63307
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 金华市双龙风景旅游区 / Jinhuashishuanglongfengjing Tourist Area

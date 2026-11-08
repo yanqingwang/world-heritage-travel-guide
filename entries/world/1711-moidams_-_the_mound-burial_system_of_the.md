@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)"
 lat: 26.943611111
 lon: 94.875
-updated_at: "2026-11-08T11:24:57Z"
+updated_at: "2026-11-08T12:02:50Z"
 ---
 
 # 阿洪姆王朝的土丘墓葬系统（印度） / Moidams – the Mound-Burial System of the Ahom Dynasty

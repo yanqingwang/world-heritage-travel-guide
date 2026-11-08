@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Zhaoqing City"
 lat: 23.081657
 lon: 112.476283
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 肇庆市端州区星湖旅游景区 / Zhaoqing
@@ -26,10 +26,6 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *GD Guangdong Starlake Pearl Hotel Duanzhou Zhaoqing 03 view July-2012.JPG · Swiscrevolve · CC BY-SA 3.0*
 
-![肇庆市国土空间总体规划（2021-2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%E8%82%87%E5%BA%86%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E8%82%87%E5%BA%86%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*肇庆市国土空间总体规划（2021-2035年）.pdf · 肇庆市人民政府 · Public domain*
-
 ![GD 廣東 肇慶 Zhaoqing road public bus 10 July-2012.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/GD_%E5%BB%A3%E6%9D%B1_%E8%82%87%E6%85%B6_Zhaoqing_road_public_bus_10_July-2012.JPG/1280px-GD_%E5%BB%A3%E6%9D%B1_%E8%82%87%E6%85%B6_Zhaoqing_road_public_bus_10_July-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *GD 廣東 肇慶 Zhaoqing road public bus 10 July-2012.JPG · Swiscrevolve · CC BY-SA 4.0*
@@ -41,6 +37,10 @@ updated_at: "2026-11-07T22:58:14Z"
 ![Zhaoqing (Chinese characters).svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Zhaoqing_%28Chinese_characters%29.svg/1280px-Zhaoqing_%28Chinese_characters%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Zhaoqing (Chinese characters).svg · White whirlwind · CC0*
+
+![Zhaoqing (Chinese characters, simplified only).svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Zhaoqing_%28Chinese_characters%2C_simplified_only%29.svg/1280px-Zhaoqing_%28Chinese_characters%2C_simplified_only%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Zhaoqing (Chinese characters, simplified only).svg · 星星 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

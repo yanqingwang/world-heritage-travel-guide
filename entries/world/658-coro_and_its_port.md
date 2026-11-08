@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)(v)"
 lat: 11.4
 lon: -69.6833
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:29Z"
 ---
 
 # 科罗及其港口 / Coro and its Port

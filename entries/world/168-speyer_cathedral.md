@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)"
 lat: 49.317222
 lon: 8.4425
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:14Z"
 ---
 
 # 施佩耶尔大教堂 / Speyer Cathedral

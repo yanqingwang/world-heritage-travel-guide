@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(viii)(ix)(x)"
 lat: 25.3125
 lon: -80.6875
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:10Z"
 ---
 
 # 大沼泽国家公园 / Everglades National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Sunset over the River of Grass, NPSphoto, G.Gardner (9255157507).jpg · see Wikimedia Commons file page*
 
-![Everglades National Park](https://whc.unesco.org/uploads/sites/site_76.jpg)
+![150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0513).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0513%29.jpg/1280px-150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Everglades National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0513).jpg · USDAgov · Public domain*
+
+![150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0514).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0514%29.jpg/1280px-150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0514%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0514).jpg · USDAgov · Public domain*
+
+![150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0515).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0515%29.jpg/1280px-150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0515).jpg · USDAgov · Public domain*
+
+![150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0516).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0516%29.jpg/1280px-150th_Anniversary_of_U_S_Department_of_Agriculture-Historical_imagery_%2820120105-OC-AMW-0516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*150th Anniversary of U S Department of Agriculture-Historical imagery (20120105-OC-AMW-0516).jpg · USDAgov · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ This site at the southern tip of Florida has been called 'a river of grass flowi
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Holiday Inn Express & Suites Florida City-Gateway to Keys** — 25.5 km — chain — Holiday Inn Express & Suites
+- **Best Western Gateway To the Keys** — 25.7 km — chain — Best Western
+- **Tru by Hilton Florida City** — 26.1 km — chain — Tru
+- **Home2 Suites by Hilton Florida City, FL** — 26.2 km — chain — Home2 Suites
+- **Days Inn by Wyndham Florida City** — 26.2 km — chain — Days Inn
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

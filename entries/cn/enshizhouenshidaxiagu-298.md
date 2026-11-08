@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Enshi Tujia and Miao Autonomous Prefecture"
 lat: 30.43178
 lon: 109.173293
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 恩施州恩施大峡谷景区 / Enshi Grand Canyon
@@ -34,13 +34,13 @@ updated_at: "2026-11-07T22:58:15Z"
 
 *Enshi grand canyon.jpg · Unknown author Unknown author · CC0*
 
+![Enshi grand canyon 2025 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Enshi_grand_canyon_2025_01.jpg/1280px-Enshi_grand_canyon_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Enshi grand canyon 2025 01.jpg · Wimwamble · CC BY-SA 4.0*
+
 ![Enshi grand canyon 2025 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Enshi_grand_canyon_2025_02.jpg/1280px-Enshi_grand_canyon_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Enshi grand canyon 2025 02.jpg · Wimwamble · CC BY-SA 4.0*
-
-![Enshi grand canyon 2025 04.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Enshi_grand_canyon_2025_04.jpg/1280px-Enshi_grand_canyon_2025_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Enshi grand canyon 2025 04.jpg · Wimwamble · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "NH Mexico City Airport T2",
+   "name_en": null,
+   "stars": 5,
+   "brand": "NH Hotels",
+   "lat": 19.4218921,
+   "lon": -99.0771411,
+   "distance_km": 38.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel B Urban Xaman",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hoteles BF",
+   "lat": 19.4356,
+   "lon": -99.1484276,
+   "distance_km": 42.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Hotel Mexico City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 19.4287228,
+   "lon": -99.1660413,
+   "distance_km": 44.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sheraton María Isabel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sheraton",
+   "lat": 19.4282132,
+   "lon": -99.1671457,
+   "distance_km": 44.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "St. Regis Mexico City",
+   "name_en": null,
+   "stars": 5,
+   "brand": "St. Regis",
+   "lat": 19.4256625,
+   "lon": -99.1723556,
+   "distance_km": 45.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 427,
+ "stations": [
+  {
+   "name": "AIFA/FAIA",
+   "name_en": null,
+   "lat": 19.7355762,
+   "lon": -99.0257661,
+   "distance_km": 19.6,
+   "operator": "FONADIN"
+  },
+  {
+   "name": "Estación Teyahualco",
+   "name_en": null,
+   "lat": 19.6552363,
+   "lon": -99.1359469,
+   "distance_km": 30.9,
+   "operator": null
+  },
+  {
+   "name": "Cuautitlán",
+   "name_en": null,
+   "lat": 19.6663043,
+   "lon": -99.1763863,
+   "distance_km": 34.9,
+   "operator": "FC Suburbano de México"
+  },
+  {
+   "name": "CETRAM Suburbano Cuautitlán",
+   "name_en": null,
+   "lat": 19.6663596,
+   "lon": -99.1758069,
+   "distance_km": 34.9,
+   "operator": null
+  },
+  {
+   "name": "Tultitlán",
+   "name_en": null,
+   "lat": 19.6355042,
+   "lon": -99.1803876,
+   "distance_km": 35.8,
+   "operator": null
+  },
+  {
+   "name": "Talismán",
+   "name_en": null,
+   "lat": 19.4743767,
+   "lon": -99.108026,
+   "distance_km": 36.8,
+   "operator": null
+  },
+  {
+   "name": "Lechería",
+   "name_en": null,
+   "lat": 19.5982769,
+   "lon": -99.1867294,
+   "distance_km": 37.4,
+   "operator": null
+  },
+  {
+   "name": "Terminal 1",
+   "name_en": null,
+   "lat": 19.4356463,
+   "lon": -99.0836015,
+   "distance_km": 38.0,
+   "operator": "Grupo Aeroportuario de la Ciudad de México"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Estación AIFA",
+   "name_en": null,
+   "lat": 19.7353213,
+   "lon": -99.0262167,
+   "distance_km": 19.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:56Z"
+}

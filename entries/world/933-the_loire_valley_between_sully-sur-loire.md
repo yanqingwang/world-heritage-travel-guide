@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(ii)(iv)"
 lat: 47.616111111
 lon: 1.517222222
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:36Z"
 ---
 
 # 卢瓦尔河畔叙利与沙洛纳间的卢瓦尔河谷 / The Loire Valley between Sully-sur-Loire and Chalonnes
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *France Loir-et-Cher Chambord Chateau 03.jpg · see Wikimedia Commons file page*
 
-![The Loire Valley between Sully-sur-Loire and Chalonnes](https://whc.unesco.org/uploads/sites/site_933.jpg)
+![00 3101 Chambord castle - Church Église de Saint Louis de Chambord.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/00_3101_Chambord_castle_-_Church_%C3%89glise_de_Saint_Louis_de_Chambord.jpg/1280px-00_3101_Chambord_castle_-_Church_%C3%89glise_de_Saint_Louis_de_Chambord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Loire Valley between Sully-sur-Loire and Chalonnes · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*00 3101 Chambord castle - Church Église de Saint Louis de Chambord.jpg · W. Bulach · CC BY-SA 4.0*
+
+![01 Château de Chambord 2022-09-17.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/01_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg/1280px-01_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*01 Château de Chambord 2022-09-17.jpg · MowMow 98 · CC BY-SA 4.0*
+
+![02 Château de Chambord 2022-09-17.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/02_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg/1280px-02_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*02 Château de Chambord 2022-09-17.jpg · MowMow 98 · CC BY-SA 4.0*
+
+![05 Château de Chambord 2022-09-17.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/05_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg/1280px-05_Ch%C3%A2teau_de_Chambord_2022-09-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*05 Château de Chambord 2022-09-17.jpg · MowMow 98 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,23 @@ Le Val de Loire est un paysage culturel exceptionnel, comprenant des villes et v
 - ✈ **Tours Val de Loire Airport (TUF)** — 62.7 km
 - ✈ **Paris-Orly Airport (ORY)** — 138.6 km
 - ✈ **Poitiers-Biard Airport (PIS)** — 146.5 km
+- 🚉 **Mer** — 10.0 km
+- 🚉 **Blois - Chambord** — 14.9 km
+- 🚉 **Beaugency** — 19.8 km
+- 🚉 **Baule** — 24.5 km
+- 🚉 **Meung-sur-Loire** — 27.1 km
+- ⛴ **Quai du Châtelet** — 42.9 km
+- ⛴ **Cabinet Vert** — 44.2 km
+- ⛴ **Île Charlemagne - Base de Loisirs** — 44.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8407.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Fleur de Loire** — 14.0 km — star — 5★
+- **Château Louise de La Vallière** — 48.9 km — star — 5★
+- **Le Prieuré de Boulogne** — 4.9 km — star — 4★
+- **Relais des Trois Châteaux** — 12.8 km — star — 4★
+- **Novotel Blois Centre Val de Loire** — 13.8 km — star — 4★ · Novotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

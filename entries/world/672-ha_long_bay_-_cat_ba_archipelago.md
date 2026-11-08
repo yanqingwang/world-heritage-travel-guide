@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(viii)"
 lat: 20.9
 lon: 107.2
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 下龙湾-吉婆群岛 / Ha Long Bay - Cat Ba Archipelago
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Halong ensemble (colour corrected).jpg · see Wikimedia Commons file page*
 
-![Ha Long Bay - Cat Ba Archipelago](https://whc.unesco.org/uploads/sites/site_672.jpg)
+![0964.a.2594.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/0964.a.2594.tif/lossy-page1-1280px-0964.a.2594.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ha Long Bay - Cat Ba Archipelago · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*0964.a.2594.tif · Unknown author Unknown author · CC0*
+
+![2013-10-19-IMG 0546 (16281009626).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2013-10-19-IMG_0546_%2816281009626%29.jpg/1280px-2013-10-19-IMG_0546_%2816281009626%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2013-10-19-IMG 0546 (16281009626).jpg · Felix Stahlberg · CC BY 2.0*
+
+![2013-10-19-IMG 0555 (16306079332).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2013-10-19-IMG_0555_%2816306079332%29.jpg/1280px-2013-10-19-IMG_0555_%2816306079332%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2013-10-19-IMG 0555 (16306079332).jpg · Felix Stahlberg · CC BY 2.0*
+
+![2013-10-20-IMG 0580 (16281007856).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2013-10-20-IMG_0580_%2816281007856%29.jpg/1280px-2013-10-20-IMG_0580_%2816281007856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2013-10-20-IMG 0580 (16281007856).jpg · Felix Stahlberg · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Vịnh Hạ Long là một vịnh nhỏ thuộc phần bờ tây vịnh Bắc B�
 - ✈ **Van Don International Airport (VDO)** — 33.2 km
 - ✈ **Cat Bi International Airport (HPH)** — 50.3 km
 - ✈ **Noi Bai International Airport (HAN)** — 148.9 km
+- 🚉 **Cảng Cái Lân** — 17.2 km
+- 🚉 **Cái Lân** — 18.4 km
+- 🚉 **Hạ Long** — 21.4 km
+- 🚉 **Yên Cư** — 31.0 km
+- 🚉 **Bàn Cờ** — 46.2 km
+- ⛴ **Cảng - Vũng Đục** — 14.4 km
+- ⛴ **Old Hon Gai Ferry Terminal** — 15.2 km
+- ⛴ **Ha Long International Cruise Port** — 16.1 km
+- ⛴ **Cảng tàu khách quốc tế Hạ Long** — 16.1 km
+- ⛴ **Old Cat Ba ferry terminal** — 18.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2280.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Wyndham Garden Sonasea Vân Đồn** — 37.1 km — star — Wyndham Garden Sonasea Van Don · 5★ · Wyndham Garden
+- **Nhật Anh Hotel 2** — 24.9 km — star — 1★
+- **Ngoc Hoa Hotel** — 25.0 km — star — Trung hoa hotel · 1★
+- **Wyndham Hotel** — 15.9 km — chain — Wyndham
+- **Wyndham Garden** — 16.2 km — chain — Wyndham Garden
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -1,0 +1,106 @@
+{
+ "hotels": [
+  {
+   "name": "فرع الطرشان",
+   "name_en": "alturshan st.",
+   "stars": null,
+   "brand": null,
+   "lat": 35.1785451,
+   "lon": 43.4038592,
+   "distance_km": 33.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الحويجة القديم",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.3209352,
+   "lon": 43.7715613,
+   "distance_km": 48.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق الحضر",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.5788513,
+   "lon": 42.7326512,
+   "distance_km": 49.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [
+  {
+   "name": "Sirqat Railway Station",
+   "name_en": null,
+   "lat": 35.5177487,
+   "lon": 43.2380347,
+   "distance_km": 7.1,
+   "operator": null
+  },
+  {
+   "name": "محطة جرناف",
+   "name_en": "Jarnaf Railway Station",
+   "lat": 35.5841203,
+   "lon": 43.2342947,
+   "distance_km": 14.4,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار أتلول الباج",
+   "name_en": "Atlul Al Baj Railway Station",
+   "lat": 35.4203038,
+   "lon": 43.1074772,
+   "distance_km": 14.6,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار الجرنف",
+   "name_en": "Jernaf Railway Station",
+   "lat": 35.6079067,
+   "lon": 43.1380879,
+   "distance_km": 20.2,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار وادي المر",
+   "name_en": "Wadi Al Murr Railway Station",
+   "lat": 35.6968217,
+   "lon": 43.2597726,
+   "distance_km": 26.7,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار عين دايس",
+   "name_en": "Ein Deiss Railway Station",
+   "lat": 35.2024599,
+   "lon": 43.2729404,
+   "distance_km": 28.3,
+   "operator": null
+  },
+  {
+   "name": "محطة قطار القيارة",
+   "name_en": "Qiara Railway Station",
+   "lat": 35.7910825,
+   "lon": 43.2943851,
+   "distance_km": 37.3,
+   "operator": null
+  },
+  {
+   "name": "Hulaywat",
+   "name_en": "Hulaywat",
+   "lat": 35.0935107,
+   "lon": 43.291076,
+   "distance_km": 40.5,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:26Z"
+}

@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Ngorongoro Wildlife Lodge",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": -3.2441184,
+   "lon": 35.5116027,
+   "distance_km": 6.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bashay Rift Lodge",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": -3.3812427,
+   "lon": 35.6282786,
+   "distance_km": 26.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ngorongoro Serena Safari Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.2095055,
+   "lon": 35.4782816,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "&Beyond Ngorongoro Crater Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.2394363,
+   "lon": 35.4979412,
+   "distance_km": 5.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Rhino Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -3.2568985,
+   "lon": 35.5250055,
+   "distance_km": 8.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 64,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:35Z"
+}

@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(i)"
 lat: 14.390555555
 lon: 104.680277777
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:40Z"
 ---
 
 # 柏威夏寺 / Temple of Preah Vihear
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:54Z"
 
 *03 Prasat Preah Vihear-nX-06478.jpg · see Wikimedia Commons file page*
 
-![Temple of Preah Vihear](https://whc.unesco.org/uploads/sites/site_1224.jpg)
+![03 Prasat Preah Vihear-nX-06454.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/03_Prasat_Preah_Vihear-nX-06454.jpg/1280px-03_Prasat_Preah_Vihear-nX-06454.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Temple of Preah Vihear · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*03 Prasat Preah Vihear-nX-06454.jpg · PsamatheM · CC BY-SA 4.0*
+
+![03 Prasat Preah Vihear-nX-06455.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/03_Prasat_Preah_Vihear-nX-06455.jpg/1280px-03_Prasat_Preah_Vihear-nX-06455.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*03 Prasat Preah Vihear-nX-06455.jpg · PsamatheM · CC BY-SA 4.0*
+
+![03 Prasat Preah Vihear-nX-06461.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/03_Prasat_Preah_Vihear-nX-06461.jpg/1280px-03_Prasat_Preah_Vihear-nX-06461.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*03 Prasat Preah Vihear-nX-06461.jpg · PsamatheM · CC BY-SA 4.0*
+
+![03 Prasat Preah Vihear-nX-06462.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/03_Prasat_Preah_Vihear-nX-06462.jpg/1280px-03_Prasat_Preah_Vihear-nX-06462.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*03 Prasat Preah Vihear-nX-06462.jpg · PsamatheM · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ Situated on the edge of a plateau that dominates the plain of Cambodia, the Temp
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Preah Vihear Boutique Hotel** — 17.1 km — hotel
+- **Preah Vihear Jaya Hote** — 17.3 km — hotel
+- **Reaksmey Sokun Guest House** — 17.5 km — hotel
+- **Chhouk Tep Guest House** — 17.6 km — hotel
+- **SB Hôtel** — 28.6 km — hotel — SB Hôtel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

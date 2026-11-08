@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)(iv)"
 lat: 36.32056
 lon: 5.73667
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:15Z"
 ---
 
 # 杰米拉 / Djémila

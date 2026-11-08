@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.481725
 lon: 120.239237
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 无锡市中央电视台无锡影视基地三国水浒城景区 / Wuxiyingshijidi Scenic Area

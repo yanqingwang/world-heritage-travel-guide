@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.930245
 lon: 112.983731
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 佛山市南海区西樵山景区 / Mount Xiqiao

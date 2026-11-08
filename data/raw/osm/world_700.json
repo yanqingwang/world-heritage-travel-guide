@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hospedaje Alubias",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -14.5355189,
+   "lon": -75.1866593,
+   "distance_km": 18.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Majoro",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -14.8432721,
+   "lon": -74.9724993,
+   "distance_km": 23.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel San Marcelo",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -14.8324802,
+   "lon": -74.9576702,
+   "distance_km": 24.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Tu Candela",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -14.8257873,
+   "lon": -74.9418185,
+   "distance_km": 25.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Las Tinajas",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -14.8264333,
+   "lon": -74.941694,
+   "distance_km": 25.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 22,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:00:36Z"
+}

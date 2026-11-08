@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vi)"
 lat: 51.595266666
 lon: -55.531222222
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:08Z"
 ---
 
 # 拉安斯欧克斯梅多国家历史遗址 / L’Anse aux Meadows National Historic Site
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Authentic Viking recreation.jpg · see Wikimedia Commons file page*
 
-![L’Anse aux Meadows National Historic Site](https://whc.unesco.org/uploads/sites/site_4.jpg)
+![2022-08-27 01 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/2022-08-27_01_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg/1280px-2022-08-27_01_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*L’Anse aux Meadows National Historic Site · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2022-08-27 01 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg · Gordon Leggett · CC BY-SA 4.0*
+
+![2022-08-27 02 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2022-08-27_02_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg/1280px-2022-08-27_02_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2022-08-27 02 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg · Gordon Leggett · CC BY-SA 4.0*
+
+![2022-08-27 03 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2022-08-27_03_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg/1280px-2022-08-27_03_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2022-08-27 03 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg · Gordon Leggett · CC BY-SA 4.0*
+
+![2022-08-27 04 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2022-08-27_04_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg/1280px-2022-08-27_04_Silhouette_sculpture_of_Norsemen_above_L%27Anse_aux_Meadows%2C_NFL_CAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2022-08-27 04 Silhouette sculpture of Norsemen above L'Anse aux Meadows, NFL CAN.jpg · Gordon Leggett · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,9 @@ At the tip of the Great Northern Peninsula of the island of Newfoundland, the re
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Valhalla Lodge** — 7.1 km — hotel
+- **Quirpon Lighthouse Inn** — 8.7 km — hotel — Linkum Tours
+- **Grenfell Heritage Hotel & Suites** — 26.0 km — hotel — Grenfell Heritage Hotel & Suites
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

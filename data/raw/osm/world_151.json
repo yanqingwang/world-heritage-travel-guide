@@ -1,0 +1,41 @@
+{
+ "hotels": [
+  {
+   "name": "Sol Duc Hot Springs Resort Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 47.9688898,
+   "lon": -123.8631374,
+   "distance_km": 31.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Lake Crescent Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 48.057081,
+   "lon": -123.7999808,
+   "distance_km": 39.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kalaloch Main Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 47.6058174,
+   "lon": -124.3714431,
+   "distance_km": 47.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:22Z"
+}

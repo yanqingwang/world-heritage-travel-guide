@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -16.4
 lon: 145.8
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:14Z"
 ---
 
 # 大堡礁 / Great Barrier Reef
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *GreatBarrierReef-EO.JPG · see Wikimedia Commons file page*
 
-![Great Barrier Reef](https://whc.unesco.org/uploads/sites/site_154.jpg)
+![De-Great Barrier Reef.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Great Barrier Reef · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Great Barrier Reef.ogg · Jeuwre · CC BY-SA 4.0*
+
+![20150123--GOPR1316 (21281036503).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/20150123--GOPR1316_%2821281036503%29.jpg/1280px-20150123--GOPR1316_%2821281036503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20150123--GOPR1316 (21281036503).jpg · Ryan McMinds · CC BY 2.0*
+
+![A series of stills from Davies Reef, Great Barrier Reef (1st July - 31st July 2011).webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_series_of_stills_from_Davies_Reef%2C_Great_Barrier_Reef_%281st_July_-_31st_July_2011%29.webm/960px--A_series_of_stills_from_Davies_Reef%2C_Great_Barrier_Reef_%281st_July_-_31st_July_2011%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*A series of stills from Davies Reef, Great Barrier Reef (1st July - 31st July 2011).webm · Australian Institute of Marine Science · CC BY 3.0*
+
+![AIMS crown-of-thorns starfish survey.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/AIMS_crown-of-thorns_starfish_survey.webm/500px--AIMS_crown-of-thorns_starfish_survey.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*AIMS crown-of-thorns starfish survey.webm · Australian Institute of Marine Science · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,17 @@ The Great Barrier Reef is a site of remarkable variety and beauty on the north-e
 - ✈ **Cairns International Airport (CNS)** — 53.5 km
 - ✈ **Cooktown Airport (CTN)** — 125.1 km
 - ✈ **Palm Island Airport (PMK)** — 274.7 km
+- 🚉 **Kuranda** — 49.6 km
+- ⛴ **Daintree River Ferry** — 45.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7016.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Mantra Aqueous Port Douglas** — 36.9 km — star — 4★
+- **Villa Paradiso** — 40.7 km — star — 4★
+- **Sheraton Grand Mirage Resort, Port Douglas** — 37.4 km — chain — Sheraton
+- **Pullman Palm Cove Sea Temple Resort & Spa** — 41.6 km — chain — Pullman
+- **Thala Beach Nature Reserve** — 36.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

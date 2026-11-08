@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Shenzhen"
 lat: 22.543555
 lon: 113.989928
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 深圳市南山区华侨城旅游度假区 / Nanshan, Shenzhen

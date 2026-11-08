@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Machrie",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 55.661622,
+   "lon": -6.2508773,
+   "distance_km": 49.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cosy Cottage on the Causeway coast and Glens",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 55.1909301,
+   "lon": -6.3185385,
+   "distance_km": 13.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marine Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 55.2049934,
+   "lon": -6.2399534,
+   "distance_km": 17.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Marcus Portrush",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 55.2069828,
+   "lon": -6.653596,
+   "distance_km": 9.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Marcus Portrush, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": "Tapestry Collection by Hilton",
+   "lat": 55.2069377,
+   "lon": -6.6537707,
+   "distance_km": 9.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 46,
+ "stations": [
+  {
+   "name": "Giant's Causeway",
+   "name_en": null,
+   "lat": 55.2311905,
+   "lon": -6.5181917,
+   "distance_km": 1.1,
+   "operator": "Giant's Causeway & Bushmills Railway"
+  },
+  {
+   "name": "Bushmills",
+   "name_en": null,
+   "lat": 55.2075906,
+   "lon": -6.5298478,
+   "distance_km": 3.9,
+   "operator": "Giant's Causeway & Bushmills Railway"
+  },
+  {
+   "name": "Portrush",
+   "name_en": null,
+   "lat": 55.2031155,
+   "lon": -6.6533861,
+   "distance_km": 9.9,
+   "operator": "Translink NI Railways"
+  },
+  {
+   "name": "Dhu Varren",
+   "name_en": null,
+   "lat": 55.1962242,
+   "lon": -6.6611895,
+   "distance_km": 10.7,
+   "operator": "Translink NI Railways"
+  },
+  {
+   "name": "University",
+   "name_en": null,
+   "lat": 55.1503894,
+   "lon": -6.6684074,
+   "distance_km": 14.1,
+   "operator": "Translink NI Railways"
+  },
+  {
+   "name": "Coleraine",
+   "name_en": null,
+   "lat": 55.1339557,
+   "lon": -6.6626658,
+   "distance_km": 15.3,
+   "operator": "Translink NI Railways"
+  },
+  {
+   "name": "Damhead Miniature Railway",
+   "name_en": null,
+   "lat": 55.1115126,
+   "lon": -6.5975599,
+   "distance_km": 15.4,
+   "operator": "Coleraine and District Society of Model Engineers Ltd"
+  },
+  {
+   "name": "Castlerock",
+   "name_en": null,
+   "lat": 55.165303,
+   "lon": -6.7873526,
+   "distance_km": 19.4,
+   "operator": "Translink NI Railways"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Portandoo Harbour",
+   "name_en": null,
+   "lat": 55.2105806,
+   "lon": -6.6552658,
+   "distance_km": 9.7,
+   "operator": null
+  },
+  {
+   "name": "Portstewart Harbour",
+   "name_en": null,
+   "lat": 55.1871649,
+   "lon": -6.720567,
+   "distance_km": 14.5,
+   "operator": null
+  },
+  {
+   "name": "Rathlin Island Ferry Booking Office & Terminal",
+   "name_en": null,
+   "lat": 55.2078861,
+   "lon": -6.2416519,
+   "distance_km": 17.5,
+   "operator": "Dunaverty Ltd"
+  },
+  {
+   "name": "Rathlin Island Ferry",
+   "name_en": null,
+   "lat": 55.2927196,
+   "lon": -6.1950503,
+   "distance_km": 20.9,
+   "operator": null
+  },
+  {
+   "name": "Lough Foyle Ferry Company",
+   "name_en": null,
+   "lat": 55.2034003,
+   "lon": -6.9839841,
+   "distance_km": 30.2,
+   "operator": "Frazer Foyle Holdings Ltd"
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:46Z"
+}

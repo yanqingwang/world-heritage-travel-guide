@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Ji'an"
 lat: 26.636167
 lon: 114.143789
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 吉安市井冈山市井冈山风景旅游区 / Jinggang Mountains

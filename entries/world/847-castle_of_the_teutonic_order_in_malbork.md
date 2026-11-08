@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)(iv)"
 lat: 54.039722222
 lon: 19.027777777
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:34Z"
 ---
 
 # 马尔堡的条顿骑士团城堡 / Castle of the Teutonic Order in Malbork
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Panorama of Malbork Castle, part 4.jpg · see Wikimedia Commons file page*
 
-![Castle of the Teutonic Order in Malbork](https://whc.unesco.org/uploads/sites/site_847.jpg)
+![1847. Внутренний вид готического собора. Мариенбург.jpg](https://upload.wikimedia.org/wikipedia/commons/7/74/1847._%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4_%D0%B3%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%B0._%D0%9C%D0%B0%D1%80%D0%B8%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Castle of the Teutonic Order in Malbork · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1847. Внутренний вид готического собора. Мариенбург.jpg · Johann Karl Schultz · Public domain*
+
+![2025 07 07 T 19 42 08.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/2025_07_07_T_19_42_08.jpg/1280px-2025_07_07_T_19_42_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2025 07 07 T 19 42 08.jpg · Fotopediagraf · CC BY-SA 4.0*
+
+![Archivum Panstwowe w Elblagu.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a0/Archivum_Panstwowe_w_Elblagu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Archivum Panstwowe w Elblagu.jpg · Rudolf H. Boettcher · CC BY-SA 4.0*
+
+![Castle in Malbork (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Castle_in_Malbork_%281%29.jpg/1280px-Castle_in_Malbork_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Castle in Malbork (1).jpg · Michał Bulsa · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Zamek w Malborku (niem. Ordensburg Marienburg) – zamek w Malborku, na prawym b
 - ✈ **Gdańsk Lech Wałęsa Airport (GDN)** — 52.4 km
 - ✈ **Ignacy Jan Paderewski Bydgoszcz Airport (BZG)** — 125.7 km
 - ✈ **Khrabrovo Airport (KGD)** — 138.8 km
+- 🚉 **Malbork** — 1.1 km
+- 🚉 **Szymankowo** — 7.5 km
+- 🚉 **Stare Pole** — 11.7 km
+- 🚉 **Sztum** — 12.8 km
+- 🚉 **Mleczewo** — 15.3 km
+- ⛴ **Żegluga-przystań pasażerska w Elblągu** — 27.2 km
+- ⛴ **Żegluga Gdańska - Przystań w Elblągu** — 27.3 km
+- ⛴ **Mikoszewo** — 33.0 km
+- ⛴ **Świbno** — 33.2 km
+- ⛴ **Sobieszewo** — 36.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6959.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Gdańsk** — 41.9 km — star — 5★
+- **Radisson Blu** — 42.0 km — star — 5★ · Radisson Blu
+- **Podewils** — 42.0 km — star — 5★
+- **Hilton Gdansk** — 42.4 km — star — 5★ · Hilton
+- **Hotel Zamek Gniew (Pałac Marysieńki)** — 26.3 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

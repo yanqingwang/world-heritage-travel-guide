@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)(vi)"
 lat: 22.824966552410256
 lon: 79.36635501135898
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:15Z"
 ---
 
 # 德里红堡群 / Red Fort Complex

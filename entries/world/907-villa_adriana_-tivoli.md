@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(i)(ii)(iii)"
 lat: 41.941944
 lon: 12.775278
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:35Z"
 ---
 
 # 提沃利的阿德利阿纳村庄 / Villa Adriana (Tivoli)
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *Tivoli - Wall of the Poikile of Hadrian's Villa (Villa Adriana) - 2019.jpg · see Wikimedia Commons file page*
 
-![Villa Adriana (Tivoli)](https://whc.unesco.org/uploads/sites/site_907.jpg)
+![Abandoned drinking fountain in Villa Adriana, Tivoli. 2024-12-01, 15-42.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Abandoned_drinking_fountain_in_Villa_Adriana%2C_Tivoli._2024-12-01%2C_15-42.jpg/1280px-Abandoned_drinking_fountain_in_Villa_Adriana%2C_Tivoli._2024-12-01%2C_15-42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Villa Adriana (Tivoli) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Abandoned drinking fountain in Villa Adriana, Tivoli. 2024-12-01, 15-42.jpg · Dieterdreist · CC BY 4.0*
+
+![Abandoned drinking fountain in Villa Adriana, Tivoli. 2024-12-01, 15-47.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Abandoned_drinking_fountain_in_Villa_Adriana%2C_Tivoli._2024-12-01%2C_15-47.jpg/1280px-Abandoned_drinking_fountain_in_Villa_Adriana%2C_Tivoli._2024-12-01%2C_15-47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abandoned drinking fountain in Villa Adriana, Tivoli. 2024-12-01, 15-47.jpg · Dieterdreist · CC BY 4.0*
+
+![Antica roma, statua di mercurio, in marmo, da villa adriana a tivoli, II secolo dc da un orig. di lisippo del 330 ac ca, IN 2798.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Antica_roma%2C_statua_di_mercurio%2C_in_marmo%2C_da_villa_adriana_a_tivoli%2C_II_secolo_dc_da_un_orig._di_lisippo_del_330_ac_ca%2C_IN_2798.jpg/1280px-Antica_roma%2C_statua_di_mercurio%2C_in_marmo%2C_da_villa_adriana_a_tivoli%2C_II_secolo_dc_da_un_orig._di_lisippo_del_330_ac_ca%2C_IN_2798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Antica roma, statua di mercurio, in marmo, da villa adriana a tivoli, II secolo dc da un orig. di lisippo del 330 ac ca, IN 2798.jpg · Francesco Bini · CC BY-SA 4.0*
+
+![Drinking fountain in Villa Adriana, Tivoli. 2024-12-01, 14-30.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Drinking_fountain_in_Villa_Adriana%2C_Tivoli._2024-12-01%2C_14-30.jpg/1280px-Drinking_fountain_in_Villa_Adriana%2C_Tivoli._2024-12-01%2C_14-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Drinking fountain in Villa Adriana, Tivoli. 2024-12-01, 14-30.jpg · Dieterdreist · CC BY 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Villa Adriana fu una residenza imperiale extraurbana, fatta realizzare presso Ti
 - ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 21.8 km
 - ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 45.9 km
 - ✈ **Abruzzo Airport (PSR)** — 128.1 km
+- 🚉 **Tivoli** — 3.3 km
+- 🚉 **Tivoli Terme** — 4.5 km
+- 🚉 **Guidonia Collefiorito** — 5.9 km
+- 🚉 **Marcellina-Palombara** — 6.6 km
+- 🚉 **Castel Madama** — 9.0 km
+- ⛴ **Ponte Cavour** — 25.2 km
+- ⛴ **Isola Tiberina** — 25.4 km
+- ⛴ **Ponte Risorgimento** — 25.4 km
+- ⛴ **Sant'Angelo** — 25.8 km
+- ⛴ **Anguillara Sabazia** — 45.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8124.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hyatt Regency Rome Central** — 22.8 km — star — 5★ · Hyatt
+- **NH Collection Hotels Roma Palazzo Cinquecento** — 23.1 km — star — 5★ · NH Collection Hotels
+- **Hotel "Parco dei Principi"** — 23.6 km — star — 5★
+- **Hotel La Griffe** — 23.7 km — star — 5★
+- **Baglioni Hotel Regina** — 23.9 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

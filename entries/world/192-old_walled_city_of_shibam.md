@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iii)(iv)(v)"
 lat: 15.926944444
 lon: 48.626666666
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:15Z"
 ---
 
 # 城墙环绕的希巴姆古城 / Old Walled City of Shibam
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *مدينة شبام حضرموت.jpg · see Wikimedia Commons file page*
 
-![Old Walled City of Shibam](https://whc.unesco.org/uploads/sites/site_192.jpg)
+![146 Šibam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/146_%C5%A0ibam.jpg/1280px-146_%C5%A0ibam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Old Walled City of Shibam · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*146 Šibam.jpg · Ljuba brank at Slovenian Wikipedia · GFDL*
+
+![149 Šibam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/149_%C5%A0ibam.jpg/1280px-149_%C5%A0ibam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*149 Šibam.jpg · Ljuba brank at Slovenian Wikipedia · GFDL*
+
+![15 Šibam (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/15_%C5%A0ibam_%281%29.jpg/1280px-15_%C5%A0ibam_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*15 Šibam (1).jpg · Ljuba brank · CC BY-SA 3.0*
+
+![15 Šibam (10).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/15_%C5%A0ibam_%2810%29.jpg/1280px-15_%C5%A0ibam_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*15 Šibam (10).jpg · Ljuba brank · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Surrounded by a fortified wall, the 16th-century city of Shibam is one of the ol
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hawta Palace Hotel** — 6.7 km — star — 4★
+- **Shibam hotel** — 0.2 km — hotel
+- **Bmc Hotel** — 11.2 km — hotel
+- **Alnkheel Hotel** — 16.1 km — hotel
+- **فندق وادي النخيل (Palms valley hotel)** — 16.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

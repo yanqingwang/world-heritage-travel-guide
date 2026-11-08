@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 41.07333
 lon: 14.32639
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:28Z"
 ---
 
 # 卡塞塔的18世纪花园皇宫、凡韦特里水渠和圣莱乌西建筑群 / 18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex

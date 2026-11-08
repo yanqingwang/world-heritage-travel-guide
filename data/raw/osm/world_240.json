@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Yogi Lodge",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 24.8531906,
+   "lon": 79.9238693,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Jass",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8426681,
+   "lon": 79.9235769,
+   "distance_km": 1.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Pramad Palace",
+   "name_en": "Hotel Pramad Palace",
+   "stars": null,
+   "brand": null,
+   "lat": 24.8515761,
+   "lon": 79.924293,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fusion Guest House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8519277,
+   "lon": 79.9246032,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Marble Palace",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.8517634,
+   "lon": 79.9252925,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 27,
+ "stations": [
+  {
+   "name": "Khajuraho",
+   "name_en": null,
+   "lat": 24.7963896,
+   "lon": 79.8892878,
+   "distance_km": 7.0,
+   "operator": "NCR"
+  },
+  {
+   "name": "Rajnagar K",
+   "name_en": null,
+   "lat": 24.9038663,
+   "lon": 79.8774505,
+   "distance_km": 7.3,
+   "operator": "NCR"
+  },
+  {
+   "name": "Duriyaganj",
+   "name_en": null,
+   "lat": 24.8012943,
+   "lon": 79.7823535,
+   "distance_km": 15.2,
+   "operator": "NCR"
+  },
+  {
+   "name": "Basari",
+   "name_en": null,
+   "lat": 24.8135796,
+   "lon": 79.702878,
+   "distance_km": 22.5,
+   "operator": "NCR"
+  },
+  {
+   "name": "Singhpur Dumra",
+   "name_en": null,
+   "lat": 25.066363,
+   "lon": 79.8968977,
+   "distance_km": 23.9,
+   "operator": "NCR"
+  },
+  {
+   "name": "Maharaja Chhatrasal Station Chhatarpur",
+   "name_en": null,
+   "lat": 24.8780371,
+   "lon": 79.6151277,
+   "distance_km": 31.1,
+   "operator": "NCR"
+  },
+  {
+   "name": "Raghouli",
+   "name_en": null,
+   "lat": 25.1331779,
+   "lon": 79.8897845,
+   "distance_km": 31.4,
+   "operator": "NCR"
+  },
+  {
+   "name": "Chithari",
+   "name_en": null,
+   "lat": 25.2356114,
+   "lon": 79.8868822,
+   "distance_km": 42.8,
+   "operator": "NCR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:31Z"
+}

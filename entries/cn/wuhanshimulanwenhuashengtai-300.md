@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 31.099165
 lon: 114.403265
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 武汉市木兰文化生态旅游区 / Wuhan
@@ -38,9 +38,9 @@ updated_at: "2026-11-07T22:58:15Z"
 
 *Wuhan (32164).jpg · Rc1959 · CC BY-SA 4.0*
 
-![Wuhan (49777).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Wuhan_%2849777%29.jpg/1280px-Wuhan_%2849777%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Wuhan (55945).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wuhan_%2855945%29.jpg/1280px-Wuhan_%2855945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Wuhan (49777).jpg · Rc1959 · CC BY-SA 4.0*
+*Wuhan (55945).jpg · Rc1959 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 16.469444444
 lon: 107.577777777
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 顺化历史建筑群 / Complex of Hué Monuments
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Citadel Hue.jpg · see Wikimedia Commons file page*
 
-![Complex of Hué Monuments](https://whc.unesco.org/uploads/sites/site_678.jpg)
+![26587027158 0f752c94ce h OXPK.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/26587027158_0f752c94ce_h_OXPK.jpg/1280px-26587027158_0f752c94ce_h_OXPK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Complex of Hué Monuments · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*26587027158 0f752c94ce h OXPK.jpg · Unknown author Unknown author · CC0*
+
+![26587027168 0fd23e2736 h ZWIK.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/26587027168_0fd23e2736_h_ZWIK.jpg/1280px-26587027168_0fd23e2736_h_ZWIK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*26587027168 0fd23e2736 h ZWIK.jpg · Unknown author Unknown author · CC0*
+
+![27482324309 9077e026d1 h TPNY.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/27482324309_9077e026d1_h_TPNY.jpg/1280px-27482324309_9077e026d1_h_TPNY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*27482324309 9077e026d1 h TPNY.jpg · Unknown author Unknown author · CC0*
+
+![4.4 Hue-23 (36458207732).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/4.4_Hue-23_%2836458207732%29.jpg/1280px-4.4_Hue-23_%2836458207732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*4.4 Hue-23 (36458207732).jpg · Esmée Winnubst · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Hoàng thành Huế (chữ Hán: 皇城) hay còn được gọi là Đại Nộ
 - ✈ **Phu Bai International Airport (HUI)** — 15.5 km
 - ✈ **Da Nang International Airport (DAD)** — 81.5 km
 - ✈ **Dong Hoi Airport (VDH)** — 156.6 km
+- 🚉 **Huế** — 1.4 km
+- 🚉 **Văn Xá** — 9.0 km
+- 🚉 **Hương Thuỷ** — 10.9 km
+- 🚉 **Hiền Sỹ** — 16.8 km
+- 🚉 **Phò Trạch** — 26.3 km
+- ⛴ **Moonlight Cruises** — 1.1 km
+- ⛴ **Thien Mu Boat Station** — 4.0 km
+- ⛴ **Truồi** — 26.4 km
+- ⛴ **Bến Tàu Túy Vân** — 36.3 km
+- ⛴ **Cầu Hai** — 38.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2769.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **La Résidence** — 1.2 km — star — 5★ · Azerai
+- **Silk Path Grand Hue Hotel** — 1.3 km — star — 5★ · Silk Path
+- **Imperial** — 1.5 km — star — 5★
+- **Khách sạn Indochine Palace** — 2.4 km — star — Indochine Palace · 5★
+- **Camellia** — 1.9 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

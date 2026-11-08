@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(iii)(iv)(vi)"
 lat: 34.119501
 lon: 35.646846
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:19Z"
 ---
 
 # 比布鲁斯 / Byblos
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Byblos Libanon 2003.JPG · see Wikimedia Commons file page*
 
-![Byblos](https://whc.unesco.org/uploads/sites/site_295.jpg)
+![1 Պէզիքեան Թանգարան.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6e/1_%D5%8A%D5%A7%D5%A6%D5%AB%D6%84%D5%A5%D5%A1%D5%B6_%D4%B9%D5%A1%D5%B6%D5%A3%D5%A1%D6%80%D5%A1%D5%B6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Byblos · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1 Պէզիքեան Թանգարան.jpg · Սեւան Դանիէլեան Մկրեան · CC0*
+
+![Admiralty Chart No 2633 Syria sheet 2 Markhab to Ras En-Nakúra, Published 1863.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Admiralty_Chart_No_2633_Syria_sheet_2_Markhab_to_Ras_En-Nak%C3%BAra%2C_Published_1863.jpg/1280px-Admiralty_Chart_No_2633_Syria_sheet_2_Markhab_to_Ras_En-Nak%C3%BAra%2C_Published_1863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Admiralty Chart No 2633 Syria sheet 2 Markhab to Ras En-Nakúra, Published 1863.jpg · United Kingdom Hydrographic Office · Public domain*
+
+![Antiquities of the Orient unveiled, containing a concise description of the remarkable ruins of King Solomon's temple, and store cities ,together with those of all the most ancient and renowned cities (14595747760).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Antiquities_of_the_Orient_unveiled%2C_containing_a_concise_description_of_the_remarkable_ruins_of_King_Solomon%27s_temple%2C_and_store_cities_%2Ctogether_with_those_of_all_the_most_ancient_and_renowned_cities_%2814595747760%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Antiquities of the Orient unveiled, containing a concise description of the remarkable ruins of King Solomon's temple, and store cities ,together with those of all the most ancient and renowned cities (14595747760).jpg · Redding, M. W. (Moses Wolcott); Guide to Mount Moriah, Author of · No restrictions*
+
+![AlphabetMonumentByblosLebanon.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/AlphabetMonumentByblosLebanon.jpg/1280px-AlphabetMonumentByblosLebanon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*AlphabetMonumentByblosLebanon.jpg · Elgaard · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,16 @@ The ruins of many successive civilizations are found at Byblos, one of the oldes
 - ✈ **Beirut Rafic Hariri International Airport (BEY)** — 36.4 km
 - ✈ **Damascus International Airport (DAM)** — 112.5 km
 - ✈ **Latakia International Airport (LTK)** — 145.2 km
+- ⛴ **ميناء طرابلس** — 40.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6985.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Le Royal** — 19.7 km — star — Le Royal · 5★
+- **هيلتون بيروت وسط المدينة** — 27.7 km — star — Hilton Beirut Downtown · 5★ · Hilton
+- **فندق ريفييرا** — 29.1 km — star — Hotel Riviera · 5★
+- **Hilton Beirut Metropolitan Palace** — 29.5 km — star — Hilton Beirut Metropolitan Palace · 5★ · Hilton
+- **Stay Bridge Suites** — 29.5 km — star — Stay Bridge Suites · 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iv)"
 lat: 38.936922
 lon: -9.326395
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:47Z"
 ---
 
 # 马夫拉皇室建筑-宫殿、大教堂、修道院、塞尔科花园及塔帕达狩猎公园 / Royal Building of Mafra – Palace, Basilica, Convent, Cerco Garden and Hunting Park ( Tapada )

@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(ix)(x)"
 lat: 26.666666666
 lon: 93.35
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:21Z"
 ---
 
 # 卡齐兰加国家公园 / Kaziranga National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Indian Rhinoceros Rhinoceros unicornis by Dr. Raju Kasambe (5).JPG · see Wikimedia Commons file page*
 
-![Kaziranga National Park](https://whc.unesco.org/uploads/sites/site_337.jpg)
+![Assam 057.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Assam_057.jpg/1280px-Assam_057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kaziranga National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Assam 057.jpg · Peter Andersen · CC BY 2.5*
+
+![Kaziranga-pronounce.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*Kaziranga-pronounce.ogg · Myself · CC BY-SA 3.0*
+
+![A trail in Kaziranga National Park, Assam.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/A_trail_in_Kaziranga_National_Park%2C_Assam.jpg/1280px-A_trail_in_Kaziranga_National_Park%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A trail in Kaziranga National Park, Assam.jpg · Joli · CC BY-SA 4.0*
+
+![A vibrant bird 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/A_vibrant_bird_2.jpg/1280px-A_vibrant_bird_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A vibrant bird 2.jpg · Karabi kanan chutia · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ In the heart of Assam, this park is one of the last areas in eastern India undis
 - ✈ **Itanagar Donyi Polo Hollongi Airport (HGI)** — 44.0 km
 - ✈ **Tezpur Airport (TEZ)** — 56.4 km
 - ✈ **Jorhat Airport (JRH)** — 82.3 km
+- 🚉 **Nizbargang** — 20.5 km
+- 🚉 **Viswanath Charali** — 21.6 km
+- 🚉 **Nizchatia** — 21.7 km
+- 🚉 **Helem** — 25.1 km
+- 🚉 **Niz Chatia** — 31.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2566.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Borgos Resort** — 8.6 km — hotel
+- **A.G. Lodge** — 9.6 km — hotel
+- **Sneha Bhawan** — 10.1 km — hotel
+- **Jonaki Kareng** — 10.6 km — hotel
+- **Aranya Tourist Lodge** — 10.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

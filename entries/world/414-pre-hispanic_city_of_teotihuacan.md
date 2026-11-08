@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 19.6925
 lon: -98.843888888
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:24Z"
 ---
 
 # 特奥蒂瓦坎 / Pre-Hispanic City of Teotihuacan
@@ -26,6 +26,18 @@ updated_at: "2026-11-08T11:24:48Z"
 ![ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/ZA77%20Teotihuac%C3%A1n%20edo%20de%20mex%20Herberto%20de%20la%20rosa.jpg?width=1280)
 
 *ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg · see Wikimedia Commons file page*
+
+![De-Teotihuacan.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*De-Teotihuacan.ogg · Jeuwre · CC BY-SA 4.0*
+
+![Glifo Puh.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Glifo_Puh.svg/1280px-Glifo_Puh.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Glifo Puh.svg · Yavidaxiu · CC BY-SA 3.0*
+
+![Teotihuacanos7.png](https://upload.wikimedia.org/wikipedia/commons/6/62/Teotihuacanos7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Teotihuacanos7.png · Urielzarur · CC BY-SA 4.0*
 
 ![Pre-Hispanic City of Teotihuacan](https://whc.unesco.org/uploads/sites/site_414.jpg)
 
@@ -52,11 +64,21 @@ Situada a unos 50 km de México, la ciudad sagrada de Teotihuacán –“lugar d
 - ✈ **Felipe Ángeles International Airport (NLU)** — 18.8 km
 - ✈ **Mexico City Benito Juárez International Airport (MEX)** — 37.1 km
 - ✈ **Hermanos Serdán International Airport (PBC)** — 77.3 km
+- 🚉 **AIFA/FAIA** — 19.6 km
+- 🚉 **Estación Teyahualco** — 30.9 km
+- 🚉 **Cuautitlán** — 34.9 km
+- 🚉 **CETRAM Suburbano Cuautitlán** — 34.9 km
+- 🚉 **Tultitlán** — 35.8 km
+- ⛴ **Estación AIFA** — 19.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12408.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **NH Mexico City Airport T2** — 38.8 km — star — 5★ · NH Hotels
+- **Hotel B Urban Xaman** — 42.8 km — star — 5★ · Hoteles BF
+- **Sofitel Hotel Mexico City** — 44.7 km — star — 5★ · Sofitel
+- **Sheraton María Isabel** — 44.8 km — star — 5★ · Sheraton
+- **St. Regis Mexico City** — 45.4 km — star — 5★ · St. Regis
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

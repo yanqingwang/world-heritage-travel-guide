@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(iii)(vi)"
 lat: 32.51805556
 lon: 36.48166667
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:08Z"
 ---
 
 # 布斯拉古城 / Ancient City of Bosra

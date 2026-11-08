@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Le Royal",
+   "name_en": "Le Royal",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.9478819,
+   "lon": 35.5949631,
+   "distance_km": 19.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "هيلتون بيروت وسط المدينة",
+   "name_en": "Hilton Beirut Downtown",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 33.9012172,
+   "lon": 35.5029789,
+   "distance_km": 27.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق ريفييرا",
+   "name_en": "Hotel Riviera",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.9004646,
+   "lon": 35.4733535,
+   "distance_km": 29.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Beirut Metropolitan Palace",
+   "name_en": "Hilton Beirut Metropolitan Palace",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 33.8707953,
+   "lon": 35.5359606,
+   "distance_km": 29.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stay Bridge Suites",
+   "name_en": "Stay Bridge Suites",
+   "stars": 5,
+   "brand": null,
+   "lat": 33.8913262,
+   "lon": 35.4834004,
+   "distance_km": 29.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 251,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "ميناء طرابلس",
+   "name_en": "Port of Tripoli",
+   "lat": 34.455202,
+   "lon": 35.821023,
+   "distance_km": 40.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:22Z"
+}

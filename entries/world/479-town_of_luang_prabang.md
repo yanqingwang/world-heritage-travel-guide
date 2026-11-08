@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(ii)(iv)(v)"
 lat: 19.89
 lon: 102.134722222
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:26Z"
 ---
 
 # 琅勃拉邦的古城 / Town of Luang Prabang
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Luang Prabang, Laos. III.jpg · see Wikimedia Commons file page*
 
-![Town of Luang Prabang](https://whc.unesco.org/uploads/sites/site_479.jpg)
+![2014-08-12 Amanita princeps Corner & Bas 448331.jpg](https://upload.wikimedia.org/wikipedia/commons/1/11/2014-08-12_Amanita_princeps_Corner_%26_Bas_448331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Town of Luang Prabang · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2014-08-12 Amanita princeps Corner & Bas 448331.jpg · This image was created by user Britt Bunyard (Fungi magazine) (bbunyard) at Mushroom Observer , a source for mycological · CC BY-SA 3.0*
+
+![2016-Laos-Candi 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2016-Laos-Candi_01.jpg/1280px-2016-Laos-Candi_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016-Laos-Candi 01.jpg · Centenoyespelta · CC BY-SA 4.0*
+
+![2016-Laos-Candi 02.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f4/2016-Laos-Candi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*2016-Laos-Candi 02.jpg · Centenoyespelta · CC BY-SA 4.0*
+
+![20191212 Luang Prabang cooked frogs-1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/20191212_Luang_Prabang_cooked_frogs-1.jpg/1280px-20191212_Luang_Prabang_cooked_frogs-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20191212 Luang Prabang cooked frogs-1.jpg · Balon Greyjoy · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Luang Prabang is an outstanding example of the fusion of traditional architectur
 - ✈ **Luang Phabang International Airport (LPQ)** — 3.7 km
 - ✈ **Oudomsay Airport (ODY)** — 89.4 km
 - ✈ **Xieng Khouang Airport (XKH)** — 117.8 km
+- 🚉 **ຫຼວງພະບາງ 琅勃拉邦** — 8.6 km
+- 🚉 **ຊຽງເງີນ** — 12.5 km
+- 🚉 **ຫ້ວຍຫານ** — 28.1 km
+- 🚉 **ພູຄູນ** — 42.1 km
+- 🚉 **ເມືອງງາ 孟阿** — 46.3 km
+- ⛴ **Ferry landing** — 0.3 km
+- ⛴ **Ferry Ticket Office** — 0.3 km
+- ⛴ **Mekong Car Ferry 10000 lak pax** — 0.4 km
+- ⛴ **ລົດປັ່** — 0.7 km
+- ⛴ **Slow boat harbour** — 6.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2630.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Avani+ Luang Prabang** — 0.2 km — star — 5★
+- **Amantaka** — 0.5 km — star — 5★
+- **Sofitel Luang Prabang** — 0.9 km — star — 5★ · AccorHotels
+- **The Belle Rive Boutique Hotel** — 0.9 km — star — 4★
+- **Kiridara Hotel** — 1.5 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

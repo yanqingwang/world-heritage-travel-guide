@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "מלון המלך דוד",
+   "name_en": "King David Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7743784,
+   "lon": 35.2226341,
+   "distance_km": 7.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "שרתון",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 31.7771582,
+   "lon": 35.2167728,
+   "distance_km": 8.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון וולדורף אסטוריה ירושלים",
+   "name_en": "Waldorf Astoria Jerusalem",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7773467,
+   "lon": 35.2216124,
+   "distance_km": 8.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Waldorf Astoria",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 31.7774592,
+   "lon": 35.2223554,
+   "distance_km": 8.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "موفنبيك رام الله",
+   "name_en": "Movenpick Ramallah",
+   "stars": 5,
+   "brand": null,
+   "lat": 31.8958126,
+   "lon": 35.2046063,
+   "distance_km": 21.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 219,
+ "stations": [
+  {
+   "name": "ירושלים מלחה",
+   "name_en": "Jerusalem Malcha",
+   "lat": 31.7477545,
+   "lon": 35.1882146,
+   "distance_km": 5.2,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "גן החיות התנ\"כי",
+   "name_en": "Biblical Zoo",
+   "lat": 31.7448338,
+   "lon": 35.1781123,
+   "distance_km": 5.3,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "ירושלים - יצחק נבון",
+   "name_en": "Jerusalem - Yitzhak Navon",
+   "lat": 31.7881125,
+   "lon": 35.2027658,
+   "distance_km": 9.3,
+   "operator": "רכבת ישראל"
+  },
+  {
+   "name": "בית שמש",
+   "name_en": "Bet Shemesh",
+   "lat": 31.7578195,
+   "lon": 34.9893645,
+   "distance_km": 21.5,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "מודיעין מרכז",
+   "name_en": "Modi'in Center",
+   "lat": 31.9010673,
+   "lon": 35.0057522,
+   "distance_km": 29.0,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "פאתי מודיעין",
+   "name_en": "Pa'atai Modi'in",
+   "lat": 31.8931196,
+   "lon": 34.9606982,
+   "distance_km": 31.4,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "מזכרת בתיה",
+   "name_en": "Mazkeret Batya",
+   "lat": 31.8421422,
+   "lon": 34.8563066,
+   "distance_km": 36.6,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "קריית מלאכי - יואב",
+   "name_en": "Kiryat Mal'akhi - Yoav",
+   "lat": 31.7469145,
+   "lon": 34.8225068,
+   "distance_km": 36.7,
+   "operator": "Israel Railways"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:45Z"
+}

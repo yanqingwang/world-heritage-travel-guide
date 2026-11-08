@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(i)(ii)"
 lat: 50.83514
 lon: 4.41625
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:41Z"
 ---
 
 # 斯托克莱宫 / Stoclet House

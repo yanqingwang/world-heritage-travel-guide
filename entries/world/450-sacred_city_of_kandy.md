@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iv)(vi)"
 lat: 7.293055555
 lon: 80.635
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:25Z"
 ---
 
 # 康提圣城 / Sacred City of Kandy
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *SL Kandy asv2020-01 img10 Arthurs Seat view.jpg · see Wikimedia Commons file page*
 
-![Sacred City of Kandy](https://whc.unesco.org/uploads/sites/site_450.jpg)
+![Kandy Montage.jpeg](https://upload.wikimedia.org/wikipedia/commons/e/ec/Kandy_Montage.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Sacred City of Kandy · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Kandy Montage.jpeg · Compilation by User:Price Zero using images taken from several authors: Front view of Temple of the Tooth, Kandy: මියුරු · CC BY-SA 3.0*
+
+![- panoramio - jpaul211.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/-_panoramio_-_jpaul211.jpg/1280px--_panoramio_-_jpaul211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*- panoramio - jpaul211.jpg · jpaul211 · CC BY-SA 3.0*
+
+![202312 Street scene in Kandy, Sri Lanka.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/202312_Street_scene_in_Kandy%2C_Sri_Lanka.jpg/1280px-202312_Street_scene_in_Kandy%2C_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*202312 Street scene in Kandy, Sri Lanka.jpg · Jonashtand · CC BY-SA 4.0*
+
+![A cat in a café in Kandy, Sri Lanka.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/A_cat_in_a_caf%C3%A9_in_Kandy%2C_Sri_Lanka.jpg/1280px-A_cat_in_a_caf%C3%A9_in_Kandy%2C_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A cat in a café in Kandy, Sri Lanka.jpg · Alexey Komarov · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ This sacred Buddhist site, popularly known as the city of Senkadagalapura, was t
 - ✈ **Bandaranaike International Colombo Airport (CMB)** — 83.8 km
 - ✈ **Colombo Ratmalana International Airport (RML)** — 97.9 km
 - ✈ **Batticaloa International Airport (BTC)** — 123.7 km
+- 🚉 **Asgiriya** — 0.5 km
+- 🚉 **Katugastota** — 4.2 km
+- 🚉 **Palle Talawinna** — 5.0 km
+- 🚉 **Uda Talawinna** — 5.5 km
+- 🚉 **Peradeniya Jct.** — 6.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5163.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Albatross, Boutique Villa** — 15.4 km — star — 5★
+- **The Radh** — 0.4 km — star — 4★
+- **Grand Serendib** — 1.3 km — star — Grand Serendib · 4★
+- **The Grand Hanthana** — 2.1 km — star — 4★ · Grand Hanthana
+- **The Grand Mountain Hotel** — 18.1 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

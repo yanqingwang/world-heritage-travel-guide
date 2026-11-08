@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 29.374196
 lon: 118.058013
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 上饶市婺源县江湾景区 / Wuyuan County, Jiangxi

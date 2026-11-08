@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Националь",
+   "name_en": "National",
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7567792,
+   "lon": 37.6135167,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ararat Park Hyatt Moscow",
+   "name_en": "Ararat Park Hyatt Moscow",
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 55.7599971,
+   "lon": 37.6217764,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Пётр I",
+   "name_en": "Piotr I",
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7635036,
+   "lon": 37.6197594,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Садовническая",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7467415,
+   "lon": 37.6307417,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stand Art",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 55.7649945,
+   "lon": 37.6069571,
+   "distance_km": 1.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1009,
+ "stations": [
+  {
+   "name": "Москва-Пассажирская-Курская",
+   "name_en": "Moscow Kursky railway station",
+   "lat": 55.7576777,
+   "lon": 37.6627881,
+   "distance_km": 2.7,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Москва-Пассажирская-Павелецкая",
+   "name_en": "Moscow Paveletsky railway station",
+   "lat": 55.7290949,
+   "lon": 37.6410311,
+   "distance_km": 3.1,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Москва-Пассажирская-Казанская",
+   "name_en": "Kazan Passenger Moscow",
+   "lat": 55.7742335,
+   "lon": 37.6599154,
+   "distance_km": 3.3,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Москва-Пассажирская",
+   "name_en": "Moscow-Passazhirskaya",
+   "lat": 55.7788343,
+   "lon": 37.6537207,
+   "distance_km": 3.5,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Москва-Пассажирская-Ярославская",
+   "name_en": "Moscow Yaroslavsky railway station",
+   "lat": 55.7784041,
+   "lon": 37.6567616,
+   "distance_km": 3.5,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Москва-Пассажирская-Смоленская",
+   "name_en": "Moscow Belorussky railway station",
+   "lat": 55.7763133,
+   "lon": 37.5803618,
+   "distance_km": 3.5,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Москва-Пассажирская-Киевская",
+   "name_en": "Moscow-Passanger-Kiyevskya",
+   "lat": 55.7420034,
+   "lon": 37.5628449,
+   "distance_km": 3.8,
+   "operator": "ОАО «РЖД»"
+  },
+  {
+   "name": "Дербеневская",
+   "name_en": "Derbenevskaya",
+   "lat": 55.7175334,
+   "lon": 37.6433584,
+   "distance_km": 4.3,
+   "operator": "ОАО «РЖД»"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Китай-город / Устьинский",
+   "name_en": null,
+   "lat": 55.7486249,
+   "lon": 37.6354134,
+   "distance_km": 1.1,
+   "operator": null
+  },
+  {
+   "name": "Третьяковский",
+   "name_en": null,
+   "lat": 55.7444301,
+   "lon": 37.6181351,
+   "distance_km": 1.1,
+   "operator": null
+  },
+  {
+   "name": "Красный Октябрь",
+   "name_en": null,
+   "lat": 55.7451255,
+   "lon": 37.6107392,
+   "distance_km": 1.2,
+   "operator": null
+  },
+  {
+   "name": "Патриарший",
+   "name_en": null,
+   "lat": 55.7441738,
+   "lon": 37.6081923,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "Крымский мост",
+   "name_en": null,
+   "lat": 55.7324691,
+   "lon": 37.5959945,
+   "distance_km": 2.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:29Z"
+}

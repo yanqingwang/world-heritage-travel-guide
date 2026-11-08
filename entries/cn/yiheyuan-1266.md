@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Haidian District"
 lat: 40.004215
 lon: 116.287499
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 颐和园 / Summer Palace
@@ -34,13 +34,13 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *West Gate of Summer Palace Station (20231203).jpg · 深鸣 · CC BY-SA 4.0*
 
-![West Gate of Summer Palace Station (20231203) 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Gate_of_Summer_Palace_Station_%2820231203%29_02.jpg/1280px-West_Gate_of_Summer_Palace_Station_%2820231203%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![West Gate of Summer Palace Station (20231203) 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/West_Gate_of_Summer_Palace_Station_%2820231203%29_01.jpg/1280px-West_Gate_of_Summer_Palace_Station_%2820231203%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*West Gate of Summer Palace Station (20231203) 02.jpg · 深鸣 · CC BY-SA 4.0*
+*West Gate of Summer Palace Station (20231203) 01.jpg · 深鸣 · CC BY-SA 4.0*
 
-![West Gate of Summer Palace Station (Xijiao Line) 20180430.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/West_Gate_of_Summer_Palace_Station_%28Xijiao_Line%29_20180430.jpg/1280px-West_Gate_of_Summer_Palace_Station_%28Xijiao_Line%29_20180430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![West Gate of Summer Palace Station (20231203) 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/West_Gate_of_Summer_Palace_Station_%2820231203%29_03.jpg/1280px-West_Gate_of_Summer_Palace_Station_%2820231203%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*West Gate of Summer Palace Station (Xijiao Line) 20180430.jpg · Tyg728 · CC BY 4.0*
+*West Gate of Summer Palace Station (20231203) 03.jpg · 深鸣 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

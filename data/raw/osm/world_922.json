@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Saber Guest house",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 23.8524634,
+   "lon": 72.1275413,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "hotel garden",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.8408715,
+   "lon": 72.1310207,
+   "distance_km": 3.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Grand Raveta",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.8396491,
+   "lon": 72.1308285,
+   "distance_km": 3.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Apple Residency",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.8435402,
+   "lon": 72.1348495,
+   "distance_km": 3.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel amar deep",
+   "name_en": "Hotel amar deep",
+   "stars": null,
+   "brand": null,
+   "lat": 23.9496122,
+   "lon": 72.3649187,
+   "distance_km": 28.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 50,
+ "stations": [
+  {
+   "name": "Patan",
+   "name_en": null,
+   "lat": 23.8546248,
+   "lon": 72.1308559,
+   "distance_km": 3.0,
+   "operator": "WR"
+  },
+  {
+   "name": "Khalipur",
+   "name_en": null,
+   "lat": 23.8814692,
+   "lon": 72.0673411,
+   "distance_km": 4.3,
+   "operator": "WR"
+  },
+  {
+   "name": "Kansa",
+   "name_en": null,
+   "lat": 23.9299838,
+   "lon": 72.0649804,
+   "distance_km": 8.7,
+   "operator": "WR"
+  },
+  {
+   "name": "Jitoda",
+   "name_en": null,
+   "lat": 23.7285278,
+   "lon": 72.1449444,
+   "distance_km": 15.2,
+   "operator": "WR"
+  },
+  {
+   "name": "Ranuj Junction",
+   "name_en": null,
+   "lat": 23.7606286,
+   "lon": 72.2136114,
+   "distance_km": 15.8,
+   "operator": "WR"
+  },
+  {
+   "name": "Chanasma",
+   "name_en": null,
+   "lat": 23.7062008,
+   "lon": 72.1071682,
+   "distance_km": 17.0,
+   "operator": "WR"
+  },
+  {
+   "name": "Wayad",
+   "name_en": null,
+   "lat": 24.0237074,
+   "lon": 72.0341418,
+   "distance_km": 19.6,
+   "operator": "WR"
+  },
+  {
+   "name": "Manund",
+   "name_en": null,
+   "lat": 23.7315935,
+   "lon": 72.2382727,
+   "distance_km": 19.8,
+   "operator": "WR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:12Z"
+}

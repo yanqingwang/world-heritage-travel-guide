@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "Butler Arms",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8278783,
+   "lon": -10.1721912,
+   "distance_km": 26.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Parknasilla Resort & Spa",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.8165702,
+   "lon": -9.8746354,
+   "distance_km": 46.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Beara Coast Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 51.6487207,
+   "lon": -9.9099097,
+   "distance_km": 45.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Royal Valentia",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 51.9261621,
+   "lon": -10.2880104,
+   "distance_km": 24.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ring of Kerry Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 51.9404039,
+   "lon": -10.2368765,
+   "distance_km": 28.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 23,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Valentia Island Car Ferry",
+   "name_en": null,
+   "lat": 51.9254781,
+   "lon": -10.2860962,
+   "distance_km": 24.5,
+   "operator": null
+  },
+  {
+   "name": "Dunquin Harbour",
+   "name_en": null,
+   "lat": 52.1239169,
+   "lon": -10.4607777,
+   "distance_km": 39.6,
+   "operator": null
+  },
+  {
+   "name": "Castletownbere Ferry Slipway",
+   "name_en": null,
+   "lat": 51.6519728,
+   "lon": -9.9077158,
+   "distance_km": 45.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:39Z"
+}

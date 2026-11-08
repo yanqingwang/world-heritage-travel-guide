@@ -1,0 +1,129 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Tiahuanacu",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.5533959,
+   "lon": -68.678292,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Akapana",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.5571247,
+   "lon": -68.6769484,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alojamiento Geminis",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.5550899,
+   "lon": -68.6810363,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hospedaje Utasawa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.5538006,
+   "lon": -68.6803162,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El Mochillero",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -16.5523524,
+   "lon": -68.6819401,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 27,
+ "stations": [
+  {
+   "name": "Tiahuanacu",
+   "name_en": null,
+   "lat": -16.557674,
+   "lon": -68.6758274,
+   "distance_km": 0.4,
+   "operator": null
+  },
+  {
+   "name": "Puerto Guaqui",
+   "name_en": null,
+   "lat": -16.5918889,
+   "lon": -68.8530601,
+   "distance_km": 19.6,
+   "operator": null
+  },
+  {
+   "name": "Viacha",
+   "name_en": null,
+   "lat": -16.6538102,
+   "lon": -68.2930488,
+   "distance_km": 42.0,
+   "operator": "Ferroviaria Andina"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Puerto Guaqui",
+   "name_en": null,
+   "lat": -16.5907437,
+   "lon": -68.8554933,
+   "distance_km": 19.8,
+   "operator": "NAVTUR"
+  },
+  {
+   "name": "Puerto Quewaya",
+   "name_en": null,
+   "lat": -16.3320506,
+   "lon": -68.7160372,
+   "distance_km": 25.2,
+   "operator": null
+  },
+  {
+   "name": "Isla Flotante Pariti",
+   "name_en": null,
+   "lat": -16.3295396,
+   "lon": -68.7223063,
+   "distance_km": 25.6,
+   "operator": null
+  },
+  {
+   "name": "Muelle Anapia",
+   "name_en": null,
+   "lat": -16.3167751,
+   "lon": -68.8597966,
+   "distance_km": 33.1,
+   "operator": null
+  },
+  {
+   "name": "Punta Hermosa",
+   "name_en": null,
+   "lat": -16.2271478,
+   "lon": -68.9595472,
+   "distance_km": 47.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:21Z"
+}

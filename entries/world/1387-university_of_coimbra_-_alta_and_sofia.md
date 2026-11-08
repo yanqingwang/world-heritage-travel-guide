@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iv)(vi)"
 lat: 40.20781111
 lon: -8.425775
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:43Z"
 ---
 
 # 科英布拉大学—阿尔塔和索菲亚 / University of Coimbra – Alta and Sofia

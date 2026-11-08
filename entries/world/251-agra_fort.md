@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)"
 lat: 27.179583333
 lon: 78.021297222
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:17Z"
 ---
 
 # 阿格拉古堡 / Agra Fort
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Agra 03-2016 16 Agra Fort.jpg · see Wikimedia Commons file page*
 
-![Agra Fort](https://whc.unesco.org/uploads/sites/site_251.jpg)
+![1977-3-3 Agra - Red fort - Moskee.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/1977-3-3_Agra_-_Red_fort_-_Moskee.jpg/1280px-1977-3-3_Agra_-_Red_fort_-_Moskee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Agra Fort · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1977-3-3 Agra - Red fort - Moskee.jpg · Guus Gorter · CC BY-SA 4.0*
+
+![2025-11-08 Agra fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2025-11-08_Agra_fort.jpg/1280px-2025-11-08_Agra_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2025-11-08 Agra fort.jpg · Maria Ann Joseph · CC BY-SA 4.0*
+
+![20251108 Agra fort.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/20251108_Agra_fort.jpg/1280px-20251108_Agra_fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20251108 Agra fort.jpg · Maria Ann Joseph · CC BY-SA 4.0*
+
+![A Balcony in Agra Fort Overlooking Yamuna.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/A_Balcony_in_Agra_Fort_Overlooking_Yamuna.jpg/1280px-A_Balcony_in_Agra_Fort_Overlooking_Yamuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Balcony in Agra Fort Overlooking Yamuna.jpg · Kanad Sanyal · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Near the gardens of the Taj Mahal stands the important 16th-century Mughal monum
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 6.4 km
 - ✈ **Gwalior Airport (GWL)** — 100.7 km
 - ✈ **Noida International Airport (DXN)** — 118.3 km
+- 🚉 **Agra Fort** — 0.5 km
+- 🚉 **Agra City** — 1.7 km
+- 🚉 **Yamuna Bridge** — 2.2 km
+- 🚉 **Raja Ki Mandi** — 2.9 km
+- 🚉 **Agra Cantonment** — 3.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3817.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **TajView** — 2.8 km — star — 5★
+- **The Oberoi Amarvilas** — 3.0 km — star — 5★
+- **ITC Mughal** — 3.0 km — star — 5★
+- **DoubleTree by Hilton Hotel Agra** — 4.3 km — star — 5★ · DoubleTree
+- **Courtyard by Marriott Agra** — 4.6 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

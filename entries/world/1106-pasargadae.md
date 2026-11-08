@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 30.2
 lon: 53.179444444
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:39Z"
 ---
 
 # 帕萨尔加德 / Pasargadae
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:53Z"
 
 *Pasargadae, Marv Dasht, near Shiraz - 4-8-2013.jpg · see Wikimedia Commons file page*
 
-![Pasargadae](https://whc.unesco.org/uploads/sites/site_1106.jpg)
+![2012-Pasargad - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2012-Pasargad_-_panoramio.jpg/1280px-2012-Pasargad_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Pasargadae · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*2012-Pasargad - panoramio.jpg · hassan jafari · CC BY 3.0*
+
+![6309.Pasargadae (1470623203).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/6309.Pasargadae_%281470623203%29.jpg/1280px-6309.Pasargadae_%281470623203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*6309.Pasargadae (1470623203).jpg · Ensie & Matthias from San Diego, California, USA · CC BY-SA 2.0*
+
+![A walk through Pasargadae.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/A_walk_through_Pasargadae.webm/1280px--A_walk_through_Pasargadae.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*A walk through Pasargadae.webm · AsuhsWorld · CC BY 3.0*
+
+![Achaemenid-Pasargadae.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Achaemenid-Pasargadae.jpg/1280px-Achaemenid-Pasargadae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Achaemenid-Pasargadae.jpg · Falten-Jura · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,19 @@ Pasargadae was the first dynastic capital of the Achaemenid Empire, founded by C
 - ✈ **Shiraz Shahid Dastghaib International Airport (SYZ)** — 92.9 km
 - ✈ **Shahid Sadooghi Airport (AZD)** — 216.5 km
 - ✈ **Gachsaran Airport (GCH)** — 225.8 km
+- 🚉 **ایستگاه راه آهن سعادت شهر** — 13.3 km
+- 🚉 **ایستگاه راه آهن دیدگان** — 24.5 km
+- 🚉 **ایستگاه راه آهن صفاشهر** — 42.8 km
+- 🚉 **ایستگاه قطار تخت جمشید** — 49.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5833.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **هتل فردیس** — 32.5 km — hotel
+- **هتل اسکندری** — 33.9 km — hotel — Eskandari Hotel
+- **Apadana hotel** — 40.7 km — hotel
+- **هتل جهانگردی پرسپولیس** — 42.2 km — hotel — ITTIC Tourist Hotel Persepolis
+- **Persepolis Tourist Hotelهتل پرسپولیس** — 42.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

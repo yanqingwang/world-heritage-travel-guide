@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)"
 lat: 36.42333333
 lon: 9.22027778
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:32Z"
 ---
 
 # 沙格镇 / Dougga / Thugga

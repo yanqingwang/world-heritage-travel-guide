@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)(v)(vi)"
 lat: 45.439722222
 lon: 12.331944444
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:23Z"
 ---
 
 # 威尼斯及泻湖 / Venice and its Lagoon
@@ -26,6 +26,10 @@ updated_at: "2026-11-08T11:24:48Z"
 ![Venizi - lanscape from San Giorgio Maggiore.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Venizi%20-%20lanscape%20from%20San%20Giorgio%20Maggiore.jpg?width=1280)
 
 *Venizi - lanscape from San Giorgio Maggiore.jpg · see Wikimedia Commons file page*
+
+![Map of comune of Venice (province of Venice, region Veneto, Italy).svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Map_of_comune_of_Venice_%28province_of_Venice%2C_region_Veneto%2C_Italy%29.svg/1280px-Map_of_comune_of_Venice_%28province_of_Venice%2C_region_Veneto%2C_Italy%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Map of comune of Venice (province of Venice, region Veneto, Italy).svg · Vonvikken · Public domain*
 
 ![Venice and its Lagoon](https://whc.unesco.org/uploads/sites/site_394.jpg)
 
@@ -52,11 +56,25 @@ Venezia (AFI: /veˈnɛʦʦja/, ; [veˈnɛsja] in veneziano) è un comune italian
 - ✈ **Venice Marco Polo Airport (VCE)** — 7.5 km
 - ✈ **Treviso Airport (TSF)** — 25.6 km
 - ✈ **Trieste Airport (TRS)** — 98.2 km
+- 🚉 **Venezia Santa Lucia** — 0.9 km
+- 🚉 **Piazzale Roma** — 1.2 km
+- 🚉 **Marittima (cruise terminal)** — 1.5 km
+- 🚉 **Tronchetto** — 1.9 km
+- 🚉 **Venezia Mestre** — 9.1 km
+- ⛴ **San Stae** — 0.2 km
+- ⛴ **Ca' D' Oro** — 0.2 km
+- ⛴ **San Silvestro** — 0.3 km
+- ⛴ **Rialto Mercato** — 0.3 km
+- ⛴ **San Marcuola "A"** — 0.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7882.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Ca' Sagredo** — 0.2 km — star — 5★
+- **Grand Hotel dei Dogi** — 0.8 km — star — 5★
+- **Cà Bonfadini** — 0.8 km — star — 5★
+- **Palazzo Nani** — 0.8 km — star — 5★ · Radisson Collection
+- **Bauer Palazzo** — 0.8 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

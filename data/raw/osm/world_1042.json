@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "מלון כינורות",
+   "name_en": "Kinorot Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.797661,
+   "lon": 35.5318128,
+   "distance_km": 44.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "פרנק",
+   "name_en": "Frank",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.0084377,
+   "lon": 35.0907448,
+   "distance_km": 9.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bar-On Holiday Home",
+   "name_en": "Bar-On Holiday Home",
+   "stars": null,
+   "brand": null,
+   "lat": 33.0041351,
+   "lon": 35.1152543,
+   "distance_km": 9.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ארגמן",
+   "name_en": "Argaman",
+   "stars": null,
+   "brand": null,
+   "lat": 32.9177463,
+   "lon": 35.0803094,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון עכוטל",
+   "name_en": "Akkotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.9220778,
+   "lon": 35.0728192,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 125,
+ "stations": [
+  {
+   "name": "עכו",
+   "name_en": "Acre",
+   "lat": 32.9281903,
+   "lon": 35.0830583,
+   "distance_km": 0.2,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "אחיהוד",
+   "name_en": "Ahihud",
+   "lat": 32.9117258,
+   "lon": 35.1734392,
+   "distance_km": 8.5,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "נהריה",
+   "name_en": "Nahariya",
+   "lat": 33.0049493,
+   "lon": 35.0988288,
+   "distance_km": 8.9,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "קרית מוצקין",
+   "name_en": "Kiryat Motzkin",
+   "lat": 32.8329575,
+   "lon": 35.0699238,
+   "distance_km": 10.4,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "קרית חיים",
+   "name_en": "Kiryat Haim",
+   "lat": 32.8248135,
+   "lon": 35.0642744,
+   "distance_km": 11.4,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "חוצות המפרץ",
+   "name_en": "Hutzot Hamifratz",
+   "lat": 32.8094005,
+   "lon": 35.0544169,
+   "distance_km": 13.3,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "חיפה מרכז השמונה",
+   "name_en": "Haifa Center HaShmona",
+   "lat": 32.8223019,
+   "lon": 34.9973626,
+   "distance_km": 14.1,
+   "operator": "Israel Railways"
+  },
+  {
+   "name": "חיפה בת גלים",
+   "name_en": "Haifa Bat Galim",
+   "lat": 32.8303401,
+   "lon": 34.9817594,
+   "distance_km": 14.3,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Haifa-Akko Ferry",
+   "name_en": null,
+   "lat": 32.9190782,
+   "lon": 35.0705478,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "dfh",
+   "name_en": "dfh",
+   "lat": 32.8237727,
+   "lon": 35.0201013,
+   "distance_km": 12.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:26Z"
+}

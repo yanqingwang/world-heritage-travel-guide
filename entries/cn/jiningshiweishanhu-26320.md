@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Jining"
 lat: 34.689652
 lon: 117.28291
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 济宁市微山湖旅游区 / Weishanhu Tourist Area

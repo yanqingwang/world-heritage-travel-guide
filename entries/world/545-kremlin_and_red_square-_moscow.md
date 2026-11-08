@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 55.754166666
 lon: 37.62
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:27Z"
 ---
 
 # 莫斯科克里姆林宫和红场 / Kremlin and Red Square, Moscow
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Kremlin and Red Square.1.jpg · see Wikimedia Commons file page*
 
-![Kremlin and Red Square, Moscow](https://whc.unesco.org/uploads/sites/site_545.jpg)
+![32341-Moscow.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/32341-Moscow.jpg/1280px-32341-Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Kremlin and Red Square, Moscow · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*32341-Moscow.jpg · xiquinhosilva · CC BY 2.0*
+
+![32349-Moscow.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/32349-Moscow.jpg/1280px-32349-Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*32349-Moscow.jpg · xiquinhosilva · CC BY 2.0*
+
+![32357-Moscow - 9246847062.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/32357-Moscow_-_9246847062.jpg/1280px-32357-Moscow_-_9246847062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*32357-Moscow - 9246847062.jpg · xiquinhosilva · CC BY 2.0*
+
+![32371-Moscow - 9246847646.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/32371-Moscow_-_9246847646.jpg/1280px-32371-Moscow_-_9246847646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*32371-Moscow - 9246847646.jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Inextricably linked to all the most important historical and political events in
 - ✈ **Sheremetyevo International Airport (SVO)** — 28.8 km
 - ✈ **Vnukovo International Airport (VKO)** — 28.9 km
 - ✈ **Zhukovsky International Airport (ZIA)** — 40.1 km
+- 🚉 **Москва-Пассажирская-Курская** — 2.7 km
+- 🚉 **Москва-Пассажирская-Павелецкая** — 3.1 km
+- 🚉 **Москва-Пассажирская-Казанская** — 3.3 km
+- 🚉 **Москва-Пассажирская** — 3.5 km
+- 🚉 **Москва-Пассажирская-Ярославская** — 3.5 km
+- ⛴ **Китай-город / Устьинский** — 1.1 km
+- ⛴ **Третьяковский** — 1.1 km
+- ⛴ **Красный Октябрь** — 1.2 km
+- ⛴ **Патриарший** — 1.3 km
+- ⛴ **Крымский мост** — 2.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5796.6 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Националь** — 0.5 km — star — National · 5★
+- **Ararat Park Hyatt Moscow** — 0.7 km — star — Ararat Park Hyatt Moscow · 5★ · Hyatt
+- **Пётр I** — 1.0 km — star — Piotr I · 5★
+- **Садовническая** — 1.1 km — star — 5★
+- **Stand Art** — 1.5 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

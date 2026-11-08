@@ -1,0 +1,41 @@
+{
+ "hotels": [
+  {
+   "name": "Estancia de las Manos",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -47.0281501,
+   "lon": -70.6485781,
+   "distance_km": 13.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bajo Caracoles",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -47.444279,
+   "lon": -70.9266239,
+   "distance_km": 38.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel bajo Caracoles",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -47.4443937,
+   "lon": -70.9268426,
+   "distance_km": 38.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:18Z"
+}

@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(iv)"
 lat: -7.752
 lon: 110.49122
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:29Z"
 ---
 
 # 普兰巴南寺庙群 / Prambanan Temple Compounds
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Prambanan Complex 1.jpg · see Wikimedia Commons file page*
 
-![Prambanan Temple Compounds](https://whc.unesco.org/uploads/sites/site_642.jpg)
+![A Good Morning in Prambanan Park.jpg](https://upload.wikimedia.org/wikipedia/commons/3/36/A_Good_Morning_in_Prambanan_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Prambanan Temple Compounds · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A Good Morning in Prambanan Park.jpg · Motohiko Tokuriki · CC BY 2.0*
+
+![A Good Morning in Prambanan Temple.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/A_Good_Morning_in_Prambanan_Temple.jpg/1280px-A_Good_Morning_in_Prambanan_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Good Morning in Prambanan Temple.jpg · Aditya Prabaswara · CC BY 2.0*
+
+![A Good Morning in Prambanan.jpg](https://upload.wikimedia.org/wikipedia/commons/3/31/A_Good_Morning_in_Prambanan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A Good Morning in Prambanan.jpg · Motohiko Tokuriki · CC BY 2.0*
+
+![Candi Pambanan 2024.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Candi_Pambanan_2024.jpg/1280px-Candi_Pambanan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Candi Pambanan 2024.jpg · Abieomar · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,21 @@ Candi Prambanan (bahasa Jawa: ꦕꦟ꧀ꦝꦶꦥꦿꦩ꧀ꦧꦤꦤ꧀, translit.
 - ✈ **Adisutjipto International Airport (JOG)** — 7.7 km
 - ✈ **Adisoemarmo International Airport (SOC)** — 39.4 km
 - ✈ **Yogyakarta International Airport (YIA)** — 50.8 km
+- 🚉 **Brambanan** — 1.1 km
+- 🚉 **Srowot** — 6.5 km
+- 🚉 **Maguwo** — 7.0 km
+- 🚉 **Klaten** — 13.1 km
+- 🚉 **Lempuyangan** — 13.5 km
+- ⛴ **Loket Perahu** — 21.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5360.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Melia Purosani** — 14.4 km — star — 5★ · Melia
+- **Amanjiwo** — 34.6 km — star — 5★
+- **Solia Zigna** — 39.2 km — star — 5★
+- **1O1 STYLE Yogyakarta Malioboro** — 14.0 km — star — 4★ · PHM Hotels
+- **Crystal Lotus** — 14.2 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

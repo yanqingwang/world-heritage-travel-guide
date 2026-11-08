@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(iv)(v)"
 lat: 25.429444
 lon: 49.621944
-updated_at: "2026-11-08T11:24:56Z"
+updated_at: "2026-11-08T12:02:47Z"
 ---
 
 # 哈萨绿洲，变迁的文化景观 / Al-Ahsa Oasis, an Evolving Cultural Landscape

@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)(vi)"
 lat: 48.402222222
 lon: 2.700555555
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:14Z"
 ---
 
 # 枫丹白露宫 / Palace and Park of Fontainebleau
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Le Grand Escalier à Fer de Cheval.jpg · see Wikimedia Commons file page*
 
-![Palace and Park of Fontainebleau](https://whc.unesco.org/uploads/sites/site_160.jpg)
+![Détail Lambris par Honoré Jean Guibert pour le pavillon de Madame du Barry au chateau de Fontainebleau.jpg](https://upload.wikimedia.org/wikipedia/commons/5/51/D%C3%A9tail_Lambris_par_Honor%C3%A9_Jean_Guibert_pour_le_pavillon_de_Madame_du_Barry_au_chateau_de_Fontainebleau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Palace and Park of Fontainebleau · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Détail Lambris par Honoré Jean Guibert pour le pavillon de Madame du Barry au chateau de Fontainebleau.jpg · Sculpteur Honoré Jean Guibert · Public domain*
+
+![Le château de Fontainebleau en 1580 (IA lechateaudefonta00herb).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Le_ch%C3%A2teau_de_Fontainebleau_en_1580_%28IA_lechateaudefonta00herb%29.pdf/page1-500px-Le_ch%C3%A2teau_de_Fontainebleau_en_1580_%28IA_lechateaudefonta00herb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Le château de Fontainebleau en 1580 (IA lechateaudefonta00herb).pdf · Herbet, Félix, 1843-1917 · Public domain*
+
+![Logo Château de Fontainebleau (2008-2025).svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Ch%C3%A2teau_de_Fontainebleau_%282008-2025%29.svg/1280px-Logo_Ch%C3%A2teau_de_Fontainebleau_%282008-2025%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Logo Château de Fontainebleau (2008-2025).svg · Claude Mediavilla · Public domain*
+
+![Logo Château de Fontainebleau (2025-).svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_Ch%C3%A2teau_de_Fontainebleau_%282025-%29.svg/1280px-Logo_Ch%C3%A2teau_de_Fontainebleau_%282025-%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Logo Château de Fontainebleau (2025-).svg · Agende Lonsdale · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Utilisée par les rois de France dès le XII e siècle, la résidence de chasse 
 - ✈ **Paris-Orly Airport (ORY)** — 44.2 km
 - ✈ **Charles de Gaulle International Airport (CDG)** — 68.3 km
 - ✈ **Chalons Vatry airport (XCR)** — 118.2 km
+- 🚉 **Fontainebleau - Avon** — 2.5 km
+- 🚉 **Thomery** — 4.8 km
+- 🚉 **Vulaines-sur-Seine - Samoreau** — 5.0 km
+- 🚉 **Héricy** — 6.3 km
+- 🚉 **Champagne-sur-Seine** — 7.3 km
+- ⛴ **Port de plaisance Stéphane Mallarmé** — 4.2 km
+- ⛴ **Halte de Saint-Mammès** — 7.9 km
+- ⛴ **Halte fluviale de Moret** — 9.1 km
+- ⛴ **Port aux Cerises** — 39.4 km
+- ⛴ **Port Saint-Roch** — 45.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8220.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Novotel Fontainebleau Ury** — 9.1 km — star — 4★ · Novotel
+- **Residhome Apparthotel Suites Paris Sénart** — 27.0 km — star — 4★
+- **Novotel Sénart Golf de Greenparc** — 28.0 km — star — 4★ · Novotel
+- **Novotel Evry Courcouronnes** — 31.3 km — star — 4★ · Novotel
+- **Residhome Apparthotel** — 32.0 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

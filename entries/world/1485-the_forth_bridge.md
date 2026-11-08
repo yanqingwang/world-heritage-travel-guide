@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(i)(iv)"
 lat: 55.9984
 lon: -3.3876
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:46Z"
 ---
 
 # 弗斯桥 / The Forth Bridge
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Forthrailbridgefromsouthqueensferry.jpg · see Wikimedia Commons file page*
 
-![The Forth Bridge](https://whc.unesco.org/uploads/sites/site_1485.jpg)
+![Bridges 23.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bridges_23.png/1280px-Bridges_23.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Forth Bridge · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bridges 23.png · Public domain*
+
+![L-gelenktraeger14.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/L-gelenktraeger14.png/1280px-L-gelenktraeger14.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*L-gelenktraeger14.png · Public domain*
+
+!['Crown Princess' - geograph.org.uk - 1424155.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a1/%27Crown_Princess%27_-_geograph.org.uk_-_1424155.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*'Crown Princess' - geograph.org.uk - 1424155.jpg · Anne Burgess · CC BY-SA 2.0*
+
+!['Forth' heading down the Firth of Forth to go under the Forth Bridge - geograph.org.uk - 3522312.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%27Forth%27_heading_down_the_Firth_of_Forth_to_go_under_the_Forth_Bridge_-_geograph.org.uk_-_3522312.jpg/1280px-%27Forth%27_heading_down_the_Firth_of_Forth_to_go_under_the_Forth_Bridge_-_geograph.org.uk_-_3522312.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*'Forth' heading down the Firth of Forth to go under the Forth Bridge - geograph.org.uk - 3522312.jpg · M J Richardson · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,25 @@ This railway bridge, crossing the Forth estuary in Scotland, had the world’s l
 - ✈ **Edinburgh Airport (EDI)** — 5.4 km
 - ✈ **Dundee Airport (DND)** — 55.2 km
 - ✈ **Glasgow Airport (GLA)** — 66.6 km
+- 🚉 **Dalmeny** — 1.4 km
+- 🚉 **North Queensferry** — 1.6 km
+- 🚉 **Inverkeithing** — 4.1 km
+- 🚉 **Dalgety Bay** — 5.0 km
+- 🚉 **Rosyth** — 5.8 km
+- ⛴ **Hawes Pier** — 0.7 km
+- ⛴ **Rosyth Cruise Terminal** — 4.2 km
+- ⛴ **Inchcolm** — 6.6 km
+- ⛴ **Cruise Liner Terminal** — 13.0 km
+- ⛴ **Fisherrow Harbour** — 20.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7935.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Edinburgh Residence** — 11.8 km — star — 5★
+- **The Chester Residence** — 11.9 km — star — 5★
+- **The Caledonian Edinburgh, Curio Collection by Hilton** — 12.5 km — star — 5★ · Curio Collection
+- **Glenbervie House Hotel** — 28.8 km — star — 5★
+- **Dakota** — 2.0 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

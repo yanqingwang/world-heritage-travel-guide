@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(v)(vi)(vii)(viii)"
 lat: -25.322076
 lon: 130.985732
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:25Z"
 ---
 
 # 乌卢鲁－卡塔曲塔国家公园 / Ulu r u-Kata Tju t a National Park

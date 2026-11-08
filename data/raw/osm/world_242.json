@@ -1,0 +1,106 @@
+{
+ "hotels": [
+  {
+   "name": "MTDC Holiday Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.5799914,
+   "lon": 75.7249627,
+   "distance_km": 3.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel View Point",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.4943015,
+   "lon": 75.7222358,
+   "distance_km": 7.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "4 Seasons",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 20.2510683,
+   "lon": 75.6196411,
+   "distance_km": 34.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [
+  {
+   "name": "Shendurni",
+   "name_en": null,
+   "lat": 20.6574319,
+   "lon": 75.5974594,
+   "distance_km": 15.8,
+   "operator": "CR"
+  },
+  {
+   "name": "Pahur",
+   "name_en": null,
+   "lat": 20.7154391,
+   "lon": 75.6836894,
+   "distance_km": 18.1,
+   "operator": "CR"
+  },
+  {
+   "name": "Pimpalgaon",
+   "name_en": null,
+   "lat": 20.6278802,
+   "lon": 75.5162536,
+   "distance_km": 20.9,
+   "operator": "CR"
+  },
+  {
+   "name": "Bhagdara",
+   "name_en": null,
+   "lat": 20.7367289,
+   "lon": 75.7506113,
+   "distance_km": 21.0,
+   "operator": "CR"
+  },
+  {
+   "name": "Varkhedi",
+   "name_en": null,
+   "lat": 20.6575236,
+   "lon": 75.443917,
+   "distance_km": 29.1,
+   "operator": "CR"
+  },
+  {
+   "name": "Jamner",
+   "name_en": null,
+   "lat": 20.8064403,
+   "lon": 75.7749092,
+   "distance_km": 29.2,
+   "operator": "CR"
+  },
+  {
+   "name": "Maheji",
+   "name_en": null,
+   "lat": 20.7691355,
+   "lon": 75.4244792,
+   "distance_km": 37.4,
+   "operator": "CR"
+  },
+  {
+   "name": "Pachora Junction",
+   "name_en": "Pachora Junction",
+   "lat": 20.6696319,
+   "lon": 75.3492048,
+   "distance_km": 38.8,
+   "operator": "CR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:59Z"
+}

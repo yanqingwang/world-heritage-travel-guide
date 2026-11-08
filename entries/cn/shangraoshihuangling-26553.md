@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 29.324639
 lon: 118.126786
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 上饶市篁岭景区 / Shangrao

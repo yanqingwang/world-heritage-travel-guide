@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Borgos Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.600961,
+   "lon": 93.3961515,
+   "distance_km": 8.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "A.G. Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5917775,
+   "lon": 93.3989787,
+   "distance_km": 9.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sneha Bhawan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5900666,
+   "lon": 93.4044474,
+   "distance_km": 10.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jonaki Kareng",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5835956,
+   "lon": 93.4024534,
+   "distance_km": 10.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Aranya Tourist Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 26.5823466,
+   "lon": 93.4034962,
+   "distance_km": 10.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 14,
+ "stations": [
+  {
+   "name": "Nizbargang",
+   "name_en": null,
+   "lat": 26.8459516,
+   "lon": 93.3022942,
+   "distance_km": 20.5,
+   "operator": "NFR"
+  },
+  {
+   "name": "Viswanath Charali",
+   "name_en": null,
+   "lat": 26.7696912,
+   "lon": 93.1654234,
+   "distance_km": 21.6,
+   "operator": null
+  },
+  {
+   "name": "Nizchatia",
+   "name_en": null,
+   "lat": 26.769328,
+   "lon": 93.1637328,
+   "distance_km": 21.7,
+   "operator": "NFR"
+  },
+  {
+   "name": "Helem",
+   "name_en": null,
+   "lat": 26.8729733,
+   "lon": 93.4528023,
+   "distance_km": 25.1,
+   "operator": "NFR"
+  },
+  {
+   "name": "Niz Chatia",
+   "name_en": null,
+   "lat": 26.7480438,
+   "lon": 93.0476504,
+   "distance_km": 31.4,
+   "operator": null
+  },
+  {
+   "name": "Jakhalabandha",
+   "name_en": null,
+   "lat": 26.5804062,
+   "lon": 92.9906325,
+   "distance_km": 37.0,
+   "operator": "NFR"
+  },
+  {
+   "name": "Gohpur",
+   "name_en": null,
+   "lat": 26.897071,
+   "lon": 93.6218307,
+   "distance_km": 37.2,
+   "operator": "NFR"
+  },
+  {
+   "name": "Silghat Town",
+   "name_en": null,
+   "lat": 26.6074953,
+   "lon": 92.9299564,
+   "distance_km": 42.3,
+   "operator": "NFR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:59:42Z"
+}

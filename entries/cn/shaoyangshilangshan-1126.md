@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Shaoyang City"
 lat: 26.359977
 lon: 110.802193
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 邵阳市崀山景区 / Mount Langshan

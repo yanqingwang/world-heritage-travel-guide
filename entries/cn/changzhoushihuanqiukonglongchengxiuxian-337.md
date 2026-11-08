@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.828146
 lon: 120.00606
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 常州市环球恐龙城休闲旅游区 / Changzhou

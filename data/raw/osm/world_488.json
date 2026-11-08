@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Pan Pacific",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.5164968,
+   "lon": -0.0805192,
+   "distance_km": 1.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Andaz Liverpool Street",
+   "name_en": "Andaz Liverpool Street",
+   "stars": 5,
+   "brand": "ANdAZ",
+   "lat": 51.5173707,
+   "lon": -0.081576,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Ned",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.513724,
+   "lon": -0.0900759,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hyatt Regency London Blackfriars",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt Regency",
+   "lat": 51.5122618,
+   "lon": -0.1046417,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NoMad London",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 51.5135819,
+   "lon": -0.1219487,
+   "distance_km": 3.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1683,
+ "stations": [
+  {
+   "name": "Tower Gateway",
+   "name_en": null,
+   "lat": 51.5106288,
+   "lon": -0.0739505,
+   "distance_km": 0.3,
+   "operator": "KeolisAmey Docklands Ltd"
+  },
+  {
+   "name": "London Fenchurch Street",
+   "name_en": null,
+   "lat": 51.5113281,
+   "lon": -0.0774191,
+   "distance_km": 0.4,
+   "operator": "c2c"
+  },
+  {
+   "name": "London Bridge",
+   "name_en": null,
+   "lat": 51.5048764,
+   "lon": -0.0851473,
+   "distance_km": 0.7,
+   "operator": "Network Rail"
+  },
+  {
+   "name": "London Cannon Street",
+   "name_en": null,
+   "lat": 51.5106685,
+   "lon": -0.0906046,
+   "distance_km": 1.0,
+   "operator": "Network Rail"
+  },
+  {
+   "name": "London Liverpool Street",
+   "name_en": null,
+   "lat": 51.5182105,
+   "lon": -0.0814269,
+   "distance_km": 1.2,
+   "operator": "Network Rail"
+  },
+  {
+   "name": "Liverpool Street",
+   "name_en": null,
+   "lat": 51.5176474,
+   "lon": -0.0864414,
+   "distance_km": 1.3,
+   "operator": "Transport for London"
+  },
+  {
+   "name": "Shadwell",
+   "name_en": null,
+   "lat": 51.511289,
+   "lon": -0.0569187,
+   "distance_km": 1.4,
+   "operator": "London Overground"
+  },
+  {
+   "name": "Wapping",
+   "name_en": null,
+   "lat": 51.5044344,
+   "lon": -0.0560206,
+   "distance_km": 1.5,
+   "operator": "London Overground"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Tower Millennium Pier",
+   "name_en": null,
+   "lat": 51.5072719,
+   "lon": -0.0788908,
+   "distance_km": 0.2,
+   "operator": null
+  },
+  {
+   "name": "Saint Katharine's Pier",
+   "name_en": null,
+   "lat": 51.5059721,
+   "lon": -0.0735163,
+   "distance_km": 0.3,
+   "operator": null
+  },
+  {
+   "name": "London Bridge City Pier",
+   "name_en": null,
+   "lat": 51.5069462,
+   "lon": -0.0846373,
+   "distance_km": 0.6,
+   "operator": null
+  },
+  {
+   "name": "Bankside Pier",
+   "name_en": null,
+   "lat": 51.5087709,
+   "lon": -0.0967972,
+   "distance_km": 1.4,
+   "operator": null
+  },
+  {
+   "name": "Wapping Pier",
+   "name_en": null,
+   "lat": 51.5032631,
+   "lon": -0.0565452,
+   "distance_km": 1.5,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:34Z"
+}

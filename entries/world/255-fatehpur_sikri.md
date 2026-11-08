@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(ii)(iii)(iv)"
 lat: 27.091111111
 lon: 77.661111111
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:17Z"
 ---
 
 # 法塔赫布尔西格里 / Fatehpur Sikri
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Fatehpur Sikri- Hamamm.jpg · see Wikimedia Commons file page*
 
-![Fatehpur Sikri](https://whc.unesco.org/uploads/sites/site_255.jpg)
+![ANCIENT AGRA 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/ANCIENT_AGRA_03.jpg/1280px-ANCIENT_AGRA_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Fatehpur Sikri · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*ANCIENT AGRA 03.jpg · Kiran Guha · CC BY-SA 4.0*
+
+![ANCIENT AGRA.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/ANCIENT_AGRA.jpg/1280px-ANCIENT_AGRA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ANCIENT AGRA.jpg · Kiran Guha · CC BY-SA 4.0*
+
+![Blue sun.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Blue_sun.jpg/1280px-Blue_sun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Blue sun.jpg · Minesshubham · CC BY-SA 4.0*
+
+![Bricks of Sugar in Bazaar - Fatehpur Sikri - Uttar Pradesh - India (12635218703).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bricks_of_Sugar_in_Bazaar_-_Fatehpur_Sikri_-_Uttar_Pradesh_-_India_%2812635218703%29.jpg/1280px-Bricks_of_Sugar_in_Bazaar_-_Fatehpur_Sikri_-_Uttar_Pradesh_-_India_%2812635218703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bricks of Sugar in Bazaar - Fatehpur Sikri - Uttar Pradesh - India (12635218703).jpg · Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Built during the second half of the 16th century by the Emperor Akbar, Fatehpur 
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 30.6 km
 - ✈ **Gwalior Airport (GWL)** — 105.1 km
 - ✈ **Noida International Airport (DXN)** — 121.2 km
+- 🚉 **Fatehpur Sikri** — 1.0 km
+- 🚉 **Singarpur** — 7.3 km
+- 🚉 **Aulenda** — 7.9 km
+- 🚉 **Chiksana** — 12.1 km
+- 🚉 **Kiraoli** — 13.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3817.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **TajView** — 38.3 km — star — 5★
+- **ITC Mughal** — 38.7 km — star — 5★
+- **DoubleTree by Hilton Hotel Agra** — 39.2 km — star — 5★ · DoubleTree
+- **The Oberoi Amarvilas** — 39.3 km — star — 5★
+- **Courtyard by Marriott Agra** — 40.1 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

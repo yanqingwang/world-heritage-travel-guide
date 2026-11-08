@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(iv)"
 lat: 7.956944444
 lon: 80.759722222
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:15Z"
 ---
 
 # 锡吉里亚古城 / Ancient City of Sigiriya
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Beauty of Sigiriya by Binuka.jpg · see Wikimedia Commons file page*
 
-![Ancient City of Sigiriya](https://whc.unesco.org/uploads/sites/site_202.jpg)
+![Map of Sigiryia.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Map_of_Sigiryia.jpg/1280px-Map_of_Sigiryia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Ancient City of Sigiriya · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Map of Sigiryia.jpg · Dan arndt · CC BY-SA 4.0*
+
+![20160124 Sri Lanka 3805 Sigiriya sRGB (25144199213).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/20160124_Sri_Lanka_3805_Sigiriya_sRGB_%2825144199213%29.jpg/1280px-20160124_Sri_Lanka_3805_Sigiriya_sRGB_%2825144199213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20160124 Sri Lanka 3805 Sigiriya sRGB (25144199213).jpg · Dan Lundberg · CC BY-SA 2.0*
+
+![20160124 Sri Lanka 3806 Pano Sigiriya sRGB (25675699941).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/20160124_Sri_Lanka_3806_Pano_Sigiriya_sRGB_%2825675699941%29.jpg/1280px-20160124_Sri_Lanka_3806_Pano_Sigiriya_sRGB_%2825675699941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20160124 Sri Lanka 3806 Pano Sigiriya sRGB (25675699941).jpg · Dan Lundberg · CC BY-SA 2.0*
+
+![20160124 Sri Lanka 3825 crop Sigiriya sRGB (25744722846).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/20160124_Sri_Lanka_3825_crop_Sigiriya_sRGB_%2825744722846%29.jpg/1280px-20160124_Sri_Lanka_3825_crop_Sigiriya_sRGB_%2825744722846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*20160124 Sri Lanka 3825 crop Sigiriya sRGB (25744722846).jpg · Dan Lundberg · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The ruins of the capital built by the parricidal King Kassapa I (477–95) lie o
 - ✈ **China Bay Airport (TRR)** — 79.6 km
 - ✈ **Batticaloa International Airport (BTC)** — 104.9 km
 - ✈ **Bandaranaike International Colombo Airport (CMB)** — 129.5 km
+- 🚉 **Habarana** — 11.2 km
+- 🚉 **Palugaswewa** — 12.5 km
+- 🚉 **Horiwiala** — 15.2 km
+- 🚉 **Kekirawa** — 22.6 km
+- 🚉 **Hatares Kotuwa** — 22.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4956.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **EKHO Lake House** — 26.2 km — star — 4★ · EKHO
+- **sigiriya nature villa lodge** — 1.3 km — star — 2★
+- **Jays Holiday Resort** — 7.9 km — chain
+- **The Ritz Tourist Home** — 15.6 km — chain — The Ritz-Carlton
+- **Sevonrich Holiday Resort** — 17.0 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Casa Angelina",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6144553,
+   "lon": 14.5218021,
+   "distance_km": 46.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Covo dei Saraceni",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6275495,
+   "lon": 14.4860938,
+   "distance_km": 49.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Sirenuse",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.6287732,
+   "lon": 14.4876265,
+   "distance_km": 49.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Esplanade",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.4286385,
+   "lon": 14.9851423,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Savoy Beach Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.4292263,
+   "lon": 14.9850424,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 333,
+ "stations": [
+  {
+   "name": "Paestum",
+   "name_en": null,
+   "lat": 40.4216783,
+   "lon": 15.0148832,
+   "distance_km": 0.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Capaccio-Roccadaspide",
+   "name_en": null,
+   "lat": 40.4555062,
+   "lon": 15.0134437,
+   "distance_km": 4.0,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Agropoli-Castellabate",
+   "name_en": null,
+   "lat": 40.3516086,
+   "lon": 15.0020215,
+   "distance_km": 7.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Battipaglia",
+   "name_en": null,
+   "lat": 40.6058949,
+   "lon": 14.9829349,
+   "distance_km": 20.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Campagna-Serre-Persano",
+   "name_en": null,
+   "lat": 40.5956683,
+   "lon": 15.1139231,
+   "distance_km": 21.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Eboli",
+   "name_en": null,
+   "lat": 40.6110155,
+   "lon": 15.0524342,
+   "distance_km": 21.6,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Vallo della Lucania-Castelnuovo",
+   "name_en": null,
+   "lat": 40.2294706,
+   "lon": 15.1581373,
+   "distance_km": 24.8,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Pontecagnano",
+   "name_en": null,
+   "lat": 40.6401877,
+   "lon": 14.8728509,
+   "distance_km": 26.9,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Escursioni in Battello",
+   "name_en": null,
+   "lat": 40.3178601,
+   "lon": 15.1086885,
+   "distance_km": 14.3,
+   "operator": null
+  },
+  {
+   "name": "Battello",
+   "name_en": null,
+   "lat": 40.3178572,
+   "lon": 15.1087073,
+   "distance_km": 14.3,
+   "operator": null
+  },
+  {
+   "name": "Salerno",
+   "name_en": null,
+   "lat": 40.6718993,
+   "lon": 14.7668124,
+   "distance_km": 34.5,
+   "operator": null
+  },
+  {
+   "name": "Stazione Marittima - Molo Manfredi",
+   "name_en": null,
+   "lat": 40.6742869,
+   "lon": 14.7519994,
+   "distance_km": 35.5,
+   "operator": null
+  },
+  {
+   "name": "Salerno Container Terminal",
+   "name_en": null,
+   "lat": 40.6741534,
+   "lon": 14.7414566,
+   "distance_km": 36.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:53Z"
+}

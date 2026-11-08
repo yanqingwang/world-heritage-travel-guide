@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Maanshan City"
 lat: 31.639665
 lon: 118.442385
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 马鞍山市长江采石矶文化生态旅游区 / Caishi Rock
@@ -30,9 +30,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *Miao Song - The Taibo Wine Pavilion at Caishi Rock - 7-1998 - Saint Louis Art Museum.jpg · Public domain*
 
-![三元洞 - panoramio - 陈宏宇.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3a/%E4%B8%89%E5%85%83%E6%B4%9E_-_panoramio_-_%E9%99%88%E5%AE%8F%E5%AE%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![三元洞内部望长江 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/2/20/%E4%B8%89%E5%85%83%E6%B4%9E%E5%86%85%E9%83%A8%E6%9C%9B%E9%95%BF%E6%B1%9F_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*三元洞 - panoramio - 陈宏宇.jpg · 陈宏宇 · CC BY 3.0*
+*三元洞内部望长江 - panoramio.jpg · 陈宏宇 · CC BY 3.0*
 
 ![导游图 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%AF%BC%E6%B8%B8%E5%9B%BE_-_panoramio.jpg/1280px-%E5%AF%BC%E6%B8%B8%E5%9B%BE_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Caishi Rock (simplified Chinese: 采石矶; traditional Chinese: 采石磯; pinyin: Cǎishí jī), also named Niuzhu Rock (simplified Chinese: 牛渚矶; traditional Chinese: 牛渚磯; pinyin: Niúzhǔ jī), is a large rock located in the Yangtze River, located in Ma'anshan, Anhui, China. It is the first of the three most famous rocks in the Yangtze, together with Chengling Rock (城陵矶) and Swallow Rock (燕子矶). It has been an AAAAA Grade Tourist Attraction of China since 2020.
+Yangtze River Caishiji Cultural Ecological Tourism Area is a comprehensive scenic area integrating cultural appreciation, natural sightseeing and leisure walks. With the poet Li Bai as the soul, the profound historical culture as the foundation, and the mountainous landscape of "Cuiluo Floating River" as the feature, the area has famous scenic spots such as Caishiji, Taibai Tower, Banished Immortal Garden, Lin Sanzhi Art Museum, Sanyuan Cave, Yanyuan Garden, Yuanmengyuan Garden, Wanzhuwu, and Santai Pavilion.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

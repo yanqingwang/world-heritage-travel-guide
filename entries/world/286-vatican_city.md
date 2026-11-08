@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 41.904
 lon: 12.453
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:19Z"
 ---
 
 # 梵蒂冈城 / Vatican City
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *0 Basilique Saint-Pierre - Rome (1).JPG · see Wikimedia Commons file page*
 
-![Vatican City](https://whc.unesco.org/uploads/sites/site_286.jpg)
+![11062-Vatican - 3481560759.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/11062-Vatican_-_3481560759.jpg/1280px-11062-Vatican_-_3481560759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Vatican City · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*11062-Vatican - 3481560759.jpg · xiquinhosilva · CC BY 2.0*
+
+![11100-Vatican-StPeterSquare - 3481560899.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/11100-Vatican-StPeterSquare_-_3481560899.jpg/1280px-11100-Vatican-StPeterSquare_-_3481560899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*11100-Vatican-StPeterSquare - 3481560899.jpg · xiquinhosilva · CC BY 2.0*
+
+![11217-Vatican-FromTheDome - 3482375184.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/11217-Vatican-FromTheDome_-_3482375184.jpg/1280px-11217-Vatican-FromTheDome_-_3482375184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*11217-Vatican-FromTheDome - 3482375184.jpg · xiquinhosilva · CC BY 2.0*
+
+![11280-Vatican-FromTheDome - 3482377452.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/11280-Vatican-FromTheDome_-_3482377452.jpg/1280px-11280-Vatican-FromTheDome_-_3482377452.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*11280-Vatican-FromTheDome - 3482377452.jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,25 @@ The Vatican City, one of the most sacred places in Christendom, attests to a gre
 - ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 16.6 km
 - ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 20.0 km
 - ✈ **Perugia San Francesco d'Assisi – Umbria International Airport (PEG)** — 132.6 km
+- 🚉 **Città del Vaticano** — 0.4 km
+- 🚉 **Valle Aurelia** — 0.9 km
+- 🚉 **Roma San Pietro** — 0.9 km
+- 🚉 **Appiano** — 1.5 km
+- 🚉 **Flaminio** — 2.2 km
+- ⛴ **Sant'Angelo** — 1.3 km
+- ⛴ **Ponte Cavour** — 1.8 km
+- ⛴ **Ponte Risorgimento** — 2.2 km
+- ⛴ **Isola Tiberina** — 2.4 km
+- ⛴ **Anguillara Sabazia** — 26.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8124.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Raphael Hotel** — 1.6 km — star — 5★
+- **Palazzo Di Ripetta** — 2.0 km — star — 5★
+- **Romeo** — 2.0 km — star — 5★
+- **Grand Hotel Plaza Rome** — 2.1 km — star — 5★
+- **The first dolce** — 2.1 km — star — 5★ · The Pavilions
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

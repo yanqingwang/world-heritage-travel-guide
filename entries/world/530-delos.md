@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 37.38948
 lon: 25.26904
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:27Z"
 ---
 
 # 提洛岛 / Delos
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Ruines de Délos.jpg · see Wikimedia Commons file page*
 
-![Delos](https://whc.unesco.org/uploads/sites/site_530.jpg)
+![Delos, Greece (5719090700).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Delos%2C_Greece_%285719090700%29.jpg/1280px-Delos%2C_Greece_%285719090700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Delos · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Delos, Greece (5719090700).jpg · Bryan Ledgard · CC BY 2.0*
+
+![Houses on Delos (LIII) (5183086818).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Houses_on_Delos_%28LIII%29_%285183086818%29.jpg/1280px-Houses_on_Delos_%28LIII%29_%285183086818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Houses on Delos (LIII) (5183086818).jpg · Institute for the Study of the Ancient World from New York, United States of America · CC BY 2.0*
+
+![Island of Delos.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Island_of_Delos.jpg/1280px-Island_of_Delos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Island of Delos.jpg · Lydia.comstock · CC BY-SA 4.0*
+
+![Kapari on Mykonos, Delos, 224483.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Kapari_on_Mykonos%2C_Delos%2C_224483.jpg/1280px-Kapari_on_Mykonos%2C_Delos%2C_224483.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Kapari on Mykonos, Delos, 224483.jpg · Zde · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ According to Greek mythology, Apollo was born on this tiny island in the Cyclade
 - ✈ **Mykonos Island National Airport (JMK)** — 8.6 km
 - ✈ **Syros Airport (JSY)** — 28.3 km
 - ✈ **Naxos Island National Airport (JNX)** — 35.4 km
+- ⛴ **Δήλος** — 1.1 km
+- ⛴ **Ιερό Λιμάνι** — 1.2 km
+- ⛴ **Ρηνεία** — 4.0 km
+- ⛴ **Mykonos-Dilos** — 8.3 km
+- ⛴ **Παλιό Λιμάνι** — 8.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7536.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Myconian O** — 5.9 km — star — 5★ · Myconian Collection
+- **Kove Hotel & Spa Mykonos - MGallery Collection** — 6.3 km — star — 5★ · Myconian Collection
+- **Myconian Ambassador Relais & Chateaux** — 7.2 km — star — 5★ · Myconian Collection
+- **Myconian Korali Relais & Châteaux** — 7.5 km — star — 5★ · Myconian Collection
+- **Myconian Kyma** — 7.5 km — star — 5★ · Myconian Collection
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

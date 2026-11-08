@@ -1,0 +1,161 @@
+{
+ "hotels": [
+  {
+   "name": "Imaret",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Imaret",
+   "lat": 40.9331716,
+   "lon": 24.4137883,
+   "distance_km": 14.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Makryammos",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 40.7703918,
+   "lon": 24.7249644,
+   "distance_km": 45.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Egnatia",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9415861,
+   "lon": 24.3889465,
+   "distance_km": 11.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Galaxy",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 40.9366671,
+   "lon": 24.410459,
+   "distance_km": 13.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Philoxenia",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 40.9369854,
+   "lon": 24.3739067,
+   "distance_km": 11.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 117,
+ "stations": [
+  {
+   "name": "Νικηφόρος",
+   "name_en": null,
+   "lat": 41.1672645,
+   "lon": 24.3099189,
+   "distance_km": 17.4,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Δράμα",
+   "name_en": null,
+   "lat": 41.1404906,
+   "lon": 24.1471344,
+   "distance_km": 18.3,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Φωτολίβος",
+   "name_en": "Fotolivos Railway Station",
+   "lat": 41.0597079,
+   "lon": 24.0491966,
+   "distance_km": 20.4,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Πλατανιά",
+   "name_en": null,
+   "lat": 41.2044736,
+   "lon": 24.4217942,
+   "distance_km": 24.3,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Αγγίστα",
+   "name_en": "Stathmos Aggistis",
+   "lat": 41.0070361,
+   "lon": 23.9387212,
+   "distance_km": 29.0,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Λευκοθέα",
+   "name_en": "Lefkothea Railway Station",
+   "lat": 41.0120998,
+   "lon": 23.9329829,
+   "distance_km": 29.5,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Παρανέστι",
+   "name_en": "Paranesti",
+   "lat": 41.265638,
+   "lon": 24.5019464,
+   "distance_km": 33.6,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  },
+  {
+   "name": "Νεοχώρι",
+   "name_en": null,
+   "lat": 41.2208583,
+   "lon": 24.6333954,
+   "distance_km": 37.3,
+   "operator": "Σιδηρόδρομοι Ελλάδος"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Λιμάνι Καβάλας Απόστολος Παύλος",
+   "name_en": null,
+   "lat": 40.9333941,
+   "lon": 24.4087837,
+   "distance_km": 13.6,
+   "operator": null
+  },
+  {
+   "name": "Πρίνος",
+   "name_en": "Prinos",
+   "lat": 40.7589594,
+   "lon": 24.5771417,
+   "distance_km": 37.4,
+   "operator": null
+  },
+  {
+   "name": "Keramoti Ferry Terminal",
+   "name_en": null,
+   "lat": 40.8571771,
+   "lon": 24.7027112,
+   "distance_km": 39.1,
+   "operator": null
+  },
+  {
+   "name": "Θάσος",
+   "name_en": "Thassos Ferry Terminal",
+   "lat": 40.7799158,
+   "lon": 24.7025477,
+   "distance_km": 43.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:49Z"
+}

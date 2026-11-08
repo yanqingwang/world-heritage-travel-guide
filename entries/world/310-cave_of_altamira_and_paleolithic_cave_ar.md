@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)"
 lat: 43.376944444
 lon: -4.11975
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:20Z"
 ---
 
 # 阿尔塔米拉洞 / Cave of Altamira and Paleolithic Cave Art of Northern Spain
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *Techo de Altamira (replica)-Museo Arqueológico Nacional.jpg · see Wikimedia Commons file page*
 
-![Cave of Altamira and Paleolithic Cave Art of Northern Spain](https://whc.unesco.org/uploads/sites/site_310.jpg)
+![6. Placa conmemorativa con la entrada de la cueva al fondo.jpg](https://upload.wikimedia.org/wikipedia/commons/0/02/6._Placa_conmemorativa_con_la_entrada_de_la_cueva_al_fondo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Cave of Altamira and Paleolithic Cave Art of Northern Spain · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*6. Placa conmemorativa con la entrada de la cueva al fondo.jpg · Museo de Altamira · CC BY-SA 3.0*
+
+![Altamira Ambre MHNT.PRE.2012.0.615.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Altamira_Ambre_MHNT.PRE.2012.0.615.jpg/1280px-Altamira_Ambre_MHNT.PRE.2012.0.615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altamira Ambre MHNT.PRE.2012.0.615.jpg · Didier Descouens · CC BY-SA 4.0*
+
+![Altamira Littorina littorea Édouard Harlé MHNT.PRE.2012.0.609.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Altamira_Littorina_littorea_%C3%89douard_Harl%C3%A9_MHNT.PRE.2012.0.609.jpg/1280px-Altamira_Littorina_littorea_%C3%89douard_Harl%C3%A9_MHNT.PRE.2012.0.609.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altamira Littorina littorea Édouard Harlé MHNT.PRE.2012.0.609.jpg · Didier Descouens · CC BY-SA 4.0*
+
+![Altamira Nordspanien Prähistorische Höhlenmalerei Deckengemälde UniDiaVerlag Nr. 41501.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Altamira_Nordspanien_Pr%C3%A4historische_H%C3%B6hlenmalerei_Deckengem%C3%A4lde_UniDiaVerlag_Nr._41501.tif/lossy-page1-1280px-Altamira_Nordspanien_Pr%C3%A4historische_H%C3%B6hlenmalerei_Deckengem%C3%A4lde_UniDiaVerlag_Nr._41501.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Altamira Nordspanien Prähistorische Höhlenmalerei Deckengemälde UniDiaVerlag Nr. 41501.tif · Lissy Burges · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Diecisiete grutas ornamentadas de la época paleolítica se agregaron a la Lista
 - ✈ **Seve Ballesteros-Santander Airport (SDR)** — 24.8 km
 - ✈ **Bilbao Airport (BIO)** — 98.1 km
 - ✈ **Vitoria Airport (VIT)** — 125.9 km
+- 🚉 **Santa Isabel** — 2.1 km
+- 🚉 **San Pedro de Rudagüera** — 3.0 km
+- 🚉 **Puente San Miguel** — 3.3 km
+- 🚉 **Ganzo** — 4.6 km
+- 🚉 **Golbardo** — 5.0 km
+- ⛴ **Puerto de Santander** — 25.4 km
+- ⛴ **Varadero** — 25.8 km
+- ⛴ **Terminal Marítima de Santander** — 27.0 km
+- ⛴ **Embarcadero de Santander** — 27.4 km
+- ⛴ **El Puntal** — 29.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8975.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Casa del Marques** — 1.9 km — star — 5★
+- **Helguera Palacio Boutique Antique** — 13.0 km — star — 5★
+- **San Marcos** — 1.3 km — star — 4★
+- **La Casona de Revolgo** — 1.5 km — star — 4★
+- **Casona Los Caballeros** — 1.5 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

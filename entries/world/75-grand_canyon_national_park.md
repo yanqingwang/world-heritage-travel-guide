@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 36.0553
 lon: -112.122
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:10Z"
 ---
 
 # 大峡谷国家公园 / Grand Canyon National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *10 Grand Canyon Navajo Point viewpoint terrace, Grand Canyon National Park, USA - American nature.jpg · see Wikimedia Commons file page*
 
-![Grand Canyon National Park](https://whc.unesco.org/uploads/sites/site_75.jpg)
+![01554 Grand Canyon Naturalist Collection (4739033309).jpg](https://upload.wikimedia.org/wikipedia/commons/c/c9/01554_Grand_Canyon_Naturalist_Collection_%284739033309%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Grand Canyon National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*01554 Grand Canyon Naturalist Collection (4739033309).jpg · Grand Canyon National Park · CC BY 2.0*
+
+![02655 Grand Canyon National Canyon (7945981366).jpg](https://upload.wikimedia.org/wikipedia/commons/3/39/02655_Grand_Canyon_National_Canyon_%287945981366%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*02655 Grand Canyon National Canyon (7945981366).jpg · Grand Canyon National Park · CC BY 2.0*
+
+![02656 Grand Canyon National Canyon (7945981178).jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/02656_Grand_Canyon_National_Canyon_%287945981178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*02656 Grand Canyon National Canyon (7945981178).jpg · Grand Canyon National Park · CC BY 2.0*
+
+![02661 Grand Canyon National Canyon (7945980932).jpg](https://upload.wikimedia.org/wikipedia/commons/b/bb/02661_Grand_Canyon_National_Canyon_%287945980932%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*02661 Grand Canyon National Canyon (7945980932).jpg · Grand Canyon National Park · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,16 @@ Carved out by the Colorado River, the Grand Canyon (nearly 1,500 m deep) is the 
 - ✈ **Grand Canyon National Park Airport (GCN)** — 11.7 km
 - ✈ **Flagstaff Pulliam Airport (FLG)** — 109.7 km
 - ✈ **Page Municipal Airport (PGA)** — 113.9 km
+- 🚉 **Grand Canyon** — 1.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10202.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Holiday Inn Express & Suites Grand Canyon** — 9.4 km — chain — Holiday Inn Express & Suites
+- **The Squire at Grand Canyon, a Holiday Inn Resort** — 9.6 km — chain — Holiday Inn
+- **Yavapai Lodge** — 0.2 km — hotel
+- **El Tovar Hotel** — 1.4 km — hotel
+- **Kachina Lodge** — 1.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

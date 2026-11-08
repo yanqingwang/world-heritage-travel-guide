@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(iii)"
 lat: 37.260375
 lon: -108.494444
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:09Z"
 ---
 
 # 梅萨维德印第安遗址 / Mesa Verde National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Mesa Verde.jpg · see Wikimedia Commons file page*
 
-![Mesa Verde National Park](https://whc.unesco.org/uploads/sites/site_27.jpg)
+![16 21 2290 mesa verde.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/16_21_2290_mesa_verde.jpg/1280px-16_21_2290_mesa_verde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mesa Verde National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*16 21 2290 mesa verde.jpg · Dsdugan · CC BY-SA 4.0*
+
+![1982-06-07-Mesa Verde-a 32-ps.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/1982-06-07-Mesa_Verde-a_32-ps.jpg/1280px-1982-06-07-Mesa_Verde-a_32-ps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*1982-06-07-Mesa Verde-a 32-ps.jpg · Rainer Halama · CC BY-SA 3.0*
+
+![2016.10.20 Mesa Verde, CO (93).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2016.10.20_Mesa_Verde%2C_CO_%2893%29.jpg/1280px-2016.10.20_Mesa_Verde%2C_CO_%2893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016.10.20 Mesa Verde, CO (93).jpg · NealVickers · CC BY-SA 4.0*
+
+![2019-08-31 Mesa Verde National Park - 062.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2019-08-31_Mesa_Verde_National_Park_-_062.jpg/1280px-2019-08-31_Mesa_Verde_National_Park_-_062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2019-08-31 Mesa Verde National Park - 062.jpg · mark byzewski · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ A great concentration of ancestral Pueblo Indian dwellings, built from the 6th t
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Holiday Inn Express Mesa Verde-Cortez** — 11.3 km — chain — Holiday Inn Express
+- **Hampton Inn Mesa Verde / Cortez** — 11.3 km — chain — Hampton
+- **Days Inn by Wyndham Cortez** — 11.7 km — chain — Days Inn
+- **BEST WESTERN Turquoise Inn & Suites** — 12.2 km — chain — Best Western
+- **Far View Lodge** — 0.1 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

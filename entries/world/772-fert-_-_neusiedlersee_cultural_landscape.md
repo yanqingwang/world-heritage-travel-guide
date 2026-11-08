@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(v)"
 lat: 47.80055556
 lon: 16.73472222
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:32Z"
 ---
 
 # 新锡德尔湖与费尔特湖地区文化景观 / Fertö / Neusiedlersee Cultural Landscape

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)(iv)"
 lat: -13.516944444
 lon: -71.978611111
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:18Z"
 ---
 
 # 科斯科古城 / City of Cuzco
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Cathedral at Cuszo Peru.jpg · see Wikimedia Commons file page*
 
-![City of Cuzco](https://whc.unesco.org/uploads/sites/site_273.jpg)
+![Anahuarque.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Anahuarque.jpg/1280px-Anahuarque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*City of Cuzco · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Anahuarque.jpg · Mosoqkilla · CC BY-SA 4.0*
+
+![Apukunaq tiyanan MBH.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Apukunaq_tiyanan_MBH.jpg/1280px-Apukunaq_tiyanan_MBH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Apukunaq tiyanan MBH.jpg · EL MUNDO DE NINA · CC BY 4.0*
+
+![Arco de Santa Clara de noche, cusco.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Arco_de_Santa_Clara_de_noche%2C_cusco.jpg/1280px-Arco_de_Santa_Clara_de_noche%2C_cusco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Arco de Santa Clara de noche, cusco.jpg · JEAMpisho · CC BY-SA 4.0*
+
+![Chabad students in Cusco.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Chabad_students_in_Cusco.jpg/1280px-Chabad_students_in_Cusco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chabad students in Cusco.jpg · AbuSinai · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Situada en el corazón de los Andes, esta ciudad se convirtió bajo el gobierno 
 - ✈ **Alejandro Velasco Astete International Airport (CUZ)** — 4.8 km
 - ✈ **Andahuaylas Airport (ANS)** — 149.7 km
 - ✈ **Air Force Colonel Alfredo Mendivil Duarte Airport (AYP)** — 244.2 km
+- 🚉 **San Pedro** — 0.8 km
+- 🚉 **Wanchaq** — 1.2 km
+- 🚉 **Poroy** — 7.3 km
+- 🚉 **Izcuchaca** — 18.8 km
+- 🚉 **Huarocondo** — 26.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16948.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Palacio Nazarenas** — 0.3 km — star — 5★ · Palacio Nazarenas
+- **Monasterio** — 0.3 km — star — 5★ · Belmond
+- **JW Marriott Hotel Cusco** — 0.3 km — star — 5★ · JW Marriott
+- **Palacio del Inka** — 0.5 km — star — 5★ · Marriott
+- **Aranwa Sacred Valley Hotel & Wellness** — 22.2 km — star — 5★ · Aranwa
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

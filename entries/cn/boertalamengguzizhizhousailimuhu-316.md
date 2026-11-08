@@ -2,7 +2,7 @@
 id: "cn-316"
 dataset: "china_5a"
 name_zh: "博尔塔拉蒙古自治州赛里木湖景区"
-name_en: "Sayram Lake"
+name_en: "Boertalamengguzizhizhousailimuhu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Bortala Mongol Autonomous Prefecture"
 lat: 44.612755
 lon: 81.401139
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 博尔塔拉蒙古自治州赛里木湖景区 / Sayram Lake
+# 博尔塔拉蒙古自治州赛里木湖景区 / Boertalamengguzizhizhousailimuhu Scenic Area
 
 > 新疆维吾尔自治区 · 博尔塔拉蒙古自治州 · 生态湿地
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Sairam Lake (Chinese: 赛里木湖; pinyin: Sàilǐmù hú; Uyghur: سايرام كۆلى; Kazakh: Сайрам көлі, romanized: Sairam köli; Mongolian: Сайрам нуур, romanized: Sairam nuur), also known as Santai Haizi (Chinese: 三台海子) or historically the "Clean Sea" (净海), is an endorheic freshwater lake in the northern Tianshan Mountains at Börtala Mongol Autonomous Prefecture, Xinjiang, China, less than 50 km (31 mi) from the border with Kazakhstan. The name Sayram originally derives from Kazakh, meaning "blessing". The lake is the largest (458 km2 or 177 sq mi) and also the highest (at 2,070 m or 6,790 ft) alpine lake in Xinjiang, largely filled by glacial meltwater, residual precipitation from the Eurasian westerlies and runoffs from the surrounding mountain chains, as well as some groundwater springing and seepage. It was designated an AAAA National Scenic Area in 2010 and was upgraded to an AAAAA National Scenic Area in April 2021.
+Sailimu Lake Scenic Area is the highest mountain lake in Xinjiang with the highest altitude and largest area. It is characterized by natural ecological landscapes such as lakes, wetlands, grasslands, forests, and snow-capped mountains. The scenic spot is divided into six tourist areas: the lake-circuit scenic area, the grassland nomadic style area, the ecological landscape conservation area, the swan and other rare bird habitat protection area, the comprehensive tourism service area, and the original ecological environment preservation area. It has the reputation of "the artistic conception from the West, the spiritual soil of the world".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -67,10 +69,9 @@ Sairam Lake (Chinese: 赛里木湖; pinyin: Sàilǐmù hú; Uyghur: سايرام
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/赛里木湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

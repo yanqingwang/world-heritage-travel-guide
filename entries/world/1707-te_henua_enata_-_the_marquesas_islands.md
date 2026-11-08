@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(vi)(vii)(ix)(x)"
 lat: -8.9
 lon: -139.6
-updated_at: "2026-11-08T11:24:57Z"
+updated_at: "2026-11-08T12:02:50Z"
 ---
 
 # 人类之地——马克萨斯群岛 / Te Henua Enata – The Marquesas Islands
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:57Z"
 
 *HivaOa BaieDesTraitres 20061110.jpg · see Wikimedia Commons file page*
 
-![Te Henua Enata – The Marquesas Islands](https://whc.unesco.org/uploads/sites/site_1707.jpg)
+![A Marquesan House with its Paepae or Platform of Great Balsaltic Blocks, c. 1910.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/A_Marquesan_House_with_its_Paepae_or_Platform_of_Great_Balsaltic_Blocks%2C_c._1910.jpg/1280px-A_Marquesan_House_with_its_Paepae_or_Platform_of_Great_Balsaltic_Blocks%2C_c._1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Te Henua Enata – The Marquesas Islands · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A Marquesan House with its Paepae or Platform of Great Balsaltic Blocks, c. 1910.jpg · Unknown author Unknown author · Public domain*
+
+![Ancient Marquesan, Haka-Ui Bay, c. 1910.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Ancient_Marquesan%2C_Haka-Ui_Bay%2C_c._1910.jpg/1280px-Ancient_Marquesan%2C_Haka-Ui_Bay%2C_c._1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ancient Marquesan, Haka-Ui Bay, c. 1910.jpg · not given, before 1910 · Public domain*
+
+![Canonniere la Zélée en 1910.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d4/Canonniere_la_Z%C3%A9l%C3%A9e_en_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Canonniere la Zélée en 1910.jpg · Lucien Gauthier · Public domain*
+
+![De-Marquesasinseln.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+
+*De-Marquesasinseln.ogg · Jeuwre · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,7 @@ Situé dans l’océan Pacifique Sud, ce bien mixte en série constitue un témo
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Mana Atapu** — 3.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

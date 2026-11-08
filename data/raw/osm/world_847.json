@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Gdańsk",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 54.3492458,
+   "lon": 18.6605187,
+   "distance_km": 41.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Blu",
+   "lat": 54.34789,
+   "lon": 18.6546948,
+   "distance_km": 42.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Podewils",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 54.3504849,
+   "lon": 18.6602471,
+   "distance_km": 42.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Gdansk",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 54.3536691,
+   "lon": 18.6583543,
+   "distance_km": 42.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Zamek Gniew (Pałac Marysieńki)",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 53.8335415,
+   "lon": 18.8294015,
+   "distance_km": 26.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 220,
+ "stations": [
+  {
+   "name": "Malbork",
+   "name_en": null,
+   "lat": 54.0359714,
+   "lon": 19.0431501,
+   "distance_km": 1.1,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Szymankowo",
+   "name_en": null,
+   "lat": 54.0727108,
+   "lon": 18.9275111,
+   "distance_km": 7.5,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Stare Pole",
+   "name_en": null,
+   "lat": 54.05334,
+   "lon": 19.2056865,
+   "distance_km": 11.7,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Sztum",
+   "name_en": null,
+   "lat": 53.9243063,
+   "lon": 19.0211281,
+   "distance_km": 12.8,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Mleczewo",
+   "name_en": null,
+   "lat": 53.9137425,
+   "lon": 19.1229124,
+   "distance_km": 15.3,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Tczew",
+   "name_en": null,
+   "lat": 54.0972478,
+   "lon": 18.7897812,
+   "distance_km": 16.8,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Subkowy",
+   "name_en": null,
+   "lat": 53.9861304,
+   "lon": 18.7535814,
+   "distance_km": 18.9,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Gronowo Elbląskie",
+   "name_en": null,
+   "lat": 54.0900141,
+   "lon": 19.3059519,
+   "distance_km": 19.0,
+   "operator": "PKP Polskie Linie Kolejowe"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Żegluga-przystań pasażerska w Elblągu",
+   "name_en": null,
+   "lat": 54.1575127,
+   "lon": 19.3926867,
+   "distance_km": 27.2,
+   "operator": "Żegluga Ostródzko-Elbląskiej Sp. z o.o."
+  },
+  {
+   "name": "Żegluga Gdańska - Przystań w Elblągu",
+   "name_en": null,
+   "lat": 54.1602994,
+   "lon": 19.3918577,
+   "distance_km": 27.3,
+   "operator": "Żegluga Gdańska"
+  },
+  {
+   "name": "Mikoszewo",
+   "name_en": null,
+   "lat": 54.332683,
+   "lon": 18.9428098,
+   "distance_km": 33.0,
+   "operator": null
+  },
+  {
+   "name": "Świbno",
+   "name_en": null,
+   "lat": 54.3332798,
+   "lon": 18.9367892,
+   "distance_km": 33.2,
+   "operator": null
+  },
+  {
+   "name": "Sobieszewo",
+   "name_en": null,
+   "lat": 54.3463122,
+   "lon": 18.8152429,
+   "distance_km": 36.8,
+   "operator": "Żegluga Gdańska"
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:59Z"
+}

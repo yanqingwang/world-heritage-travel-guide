@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Raphael Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.8998981,
+   "lon": 12.4721221,
+   "distance_km": 1.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Palazzo Di Ripetta",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9084341,
+   "lon": 12.4759275,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Romeo",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9090235,
+   "lon": 12.4760182,
+   "distance_km": 2.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel Plaza Rome",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9051237,
+   "lon": 12.4788451,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The first dolce",
+   "name_en": null,
+   "stars": 5,
+   "brand": "The Pavilions",
+   "lat": 41.9071572,
+   "lon": 12.477968,
+   "distance_km": 2.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 1055,
+ "stations": [
+  {
+   "name": "Città del Vaticano",
+   "name_en": "Vatican City",
+   "lat": 41.9008795,
+   "lon": 12.4509301,
+   "distance_km": 0.4,
+   "operator": "Ferrovia Vaticana"
+  },
+  {
+   "name": "Valle Aurelia",
+   "name_en": null,
+   "lat": 41.9029987,
+   "lon": 12.4421536,
+   "distance_km": 0.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Roma San Pietro",
+   "name_en": null,
+   "lat": 41.8960491,
+   "lon": 12.4544522,
+   "distance_km": 0.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Appiano",
+   "name_en": null,
+   "lat": 41.9119079,
+   "lon": 12.4388846,
+   "distance_km": 1.5,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Flaminio",
+   "name_en": null,
+   "lat": 41.913065,
+   "lon": 12.4764638,
+   "distance_km": 2.2,
+   "operator": "ASTRAL"
+  },
+  {
+   "name": "Roma Balduina",
+   "name_en": null,
+   "lat": 41.9197615,
+   "lon": 12.4366012,
+   "distance_km": 2.2,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Quattro Venti",
+   "name_en": null,
+   "lat": 41.8786721,
+   "lon": 12.45859,
+   "distance_km": 2.9,
+   "operator": "Rete Ferroviaria Italiana"
+  },
+  {
+   "name": "Gemelli",
+   "name_en": null,
+   "lat": 41.9278076,
+   "lon": 12.4273722,
+   "distance_km": 3.4,
+   "operator": "Rete Ferroviaria Italiana"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sant'Angelo",
+   "name_en": null,
+   "lat": 41.901758,
+   "lon": 12.4681481,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "Ponte Cavour",
+   "name_en": null,
+   "lat": 41.9044109,
+   "lon": 12.4743542,
+   "distance_km": 1.8,
+   "operator": null
+  },
+  {
+   "name": "Ponte Risorgimento",
+   "name_en": null,
+   "lat": 41.9194623,
+   "lon": 12.4702226,
+   "distance_km": 2.2,
+   "operator": null
+  },
+  {
+   "name": "Isola Tiberina",
+   "name_en": null,
+   "lat": 41.8903339,
+   "lon": 12.4757678,
+   "distance_km": 2.4,
+   "operator": null
+  },
+  {
+   "name": "Anguillara Sabazia",
+   "name_en": null,
+   "lat": 42.0929108,
+   "lon": 12.2676718,
+   "distance_km": 26.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:16Z"
+}

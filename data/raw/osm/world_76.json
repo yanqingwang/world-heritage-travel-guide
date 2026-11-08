@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Holiday Inn Express & Suites Florida City-Gateway to Keys",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 25.4398899,
+   "lon": -80.4764878,
+   "distance_km": 25.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Gateway To the Keys",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 25.4428844,
+   "lon": -80.4764245,
+   "distance_km": 25.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tru by Hilton Florida City",
+   "name_en": null,
+   "stars": null,
+   "brand": "Tru",
+   "lat": 25.4503463,
+   "lon": -80.4768366,
+   "distance_km": 26.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Home2 Suites by Hilton Florida City, FL",
+   "name_en": null,
+   "stars": null,
+   "brand": "Home2 Suites",
+   "lat": 25.450368,
+   "lon": -80.4761003,
+   "distance_km": 26.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Days Inn by Wyndham Florida City",
+   "name_en": null,
+   "stars": null,
+   "brand": "Days Inn",
+   "lat": 25.4487116,
+   "lon": -80.4744473,
+   "distance_km": 26.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 61,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:40Z"
+}

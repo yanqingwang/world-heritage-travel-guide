@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 35.611111111
 lon: -83.425
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:18Z"
 ---
 
 # 大烟雾山国家公园 / Great Smoky Mountains National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *Great Smoky Mountains Cades Cove View.jpg · see Wikimedia Commons file page*
 
-![Great Smoky Mountains National Park](https://whc.unesco.org/uploads/sites/site_259.jpg)
+![1 Rays thru the Trees (1ab0c340-1dd8-b71b-0b14-fa4bd9c1afe2).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4d/1_Rays_thru_the_Trees_%281ab0c340-1dd8-b71b-0b14-fa4bd9c1afe2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Great Smoky Mountains National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1 Rays thru the Trees (1ab0c340-1dd8-b71b-0b14-fa4bd9c1afe2).jpg · NPS Photo · Public domain*
+
+![4 12 View from the Bunion (154bf961-1dd8-b71b-0bce-ede14b515ec7).JPG](https://upload.wikimedia.org/wikipedia/commons/9/91/4_12_View_from_the_Bunion_%28154bf961-1dd8-b71b-0bce-ede14b515ec7%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*4 12 View from the Bunion (154bf961-1dd8-b71b-0bce-ede14b515ec7).JPG · NPS Photo · Public domain*
+
+![4 3 A Smokies View (13d36c51-1dd8-b71b-0ba8-29089b05c9a1).JPG](https://upload.wikimedia.org/wikipedia/commons/1/19/4_3_A_Smokies_View_%2813d36c51-1dd8-b71b-0ba8-29089b05c9a1%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*4 3 A Smokies View (13d36c51-1dd8-b71b-0ba8-29089b05c9a1).JPG · NPS Photo · Public domain*
+
+![4 5 Trees in the Clouds (144e300b-1dd8-b71b-0b7e-f7a1178d8576).JPG](https://upload.wikimedia.org/wikipedia/commons/d/d7/4_5_Trees_in_the_Clouds_%28144e300b-1dd8-b71b-0b7e-f7a1178d8576%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*4 5 Trees in the Clouds (144e300b-1dd8-b71b-0b7e-f7a1178d8576).JPG · NPS Photo · Public domain*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,16 @@ Stretching over more than 200,000 ha, this exceptionally beautiful park is home 
 - ✈ **McGhee Tyson Airport (TYS)** — 56.0 km
 - ✈ **Asheville Regional Airport (AVL)** — 82.3 km
 - ✈ **Tri-Cities Regional TN/VA Airport (TRI)** — 132.7 km
+- 🚉 **Bryson** — 20.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11317.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **The Park Vista** — 13.0 km — chain — DoubleTree
+- **Hampton Inn** — 13.3 km — chain — Hampton
+- **Holiday Inn Express Gatlinburg Downtown** — 13.6 km — chain — Holiday Inn Express
+- **Hampton Inn Gatlinburg** — 14.0 km — chain — Hampton
+- **Holiday Inn Express & Suites Cherokee/Casino** — 19.2 km — chain — Holiday Inn Express & Suites
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

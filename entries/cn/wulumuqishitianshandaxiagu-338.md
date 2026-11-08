@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Urumqi"
 lat: 43.499388
 lon: 87.448685
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 乌鲁木齐市天山大峡谷 / Tianshan Grand Canyon

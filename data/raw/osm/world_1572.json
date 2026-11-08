@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "DoubleTree by Hilton Sanliurfa",
+   "name_en": null,
+   "stars": 5,
+   "brand": "DoubleTree",
+   "lat": 37.1814082,
+   "lon": 38.8067449,
+   "distance_km": 11.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El-Ruha Otel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 37.1488064,
+   "lon": 38.7839121,
+   "distance_km": 14.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Garden Inn Sanliurfa",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Hilton",
+   "lat": 37.1552766,
+   "lon": 38.7791237,
+   "distance_km": 14.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Manici Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 37.1481515,
+   "lon": 38.7873687,
+   "distance_km": 14.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Newton Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.1595092,
+   "lon": 38.7967827,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 15,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:52Z"
+}

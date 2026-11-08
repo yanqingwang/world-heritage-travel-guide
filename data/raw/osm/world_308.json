@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Holiday Inn Express & Suites Oakhurst-Yosemite Park Area",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express & Suites",
+   "lat": 37.3408983,
+   "lon": -119.6441747,
+   "distance_km": 45.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn Oakhurst-Yosemite",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 37.3395133,
+   "lon": -119.6448185,
+   "distance_km": 45.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yosemite Gateway Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 37.3354083,
+   "lon": -119.6464274,
+   "distance_km": 46.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BEST WESTERN PLUS Yosemite Way Station Motel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.4826248,
+   "lon": -119.9641184,
+   "distance_km": 47.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Westin Monache Resort, Mammoth",
+   "name_en": null,
+   "stars": null,
+   "brand": "Westin",
+   "lat": 37.6491594,
+   "lon": -118.9862845,
+   "distance_km": 49.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 43,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Saddlebag Lake Resort Water Taxi",
+   "name_en": null,
+   "lat": 37.966768,
+   "lon": -119.2710416,
+   "distance_km": 34.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:29Z"
+}

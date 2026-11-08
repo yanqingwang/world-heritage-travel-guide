@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.723428
 lon: 10.394778
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:23Z"
 ---
 
 # 比萨大教堂广场 / Piazza del Duomo, Pisa

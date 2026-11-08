@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 37.638333333
 lon: 21.63
-updated_at: "2026-11-08T11:24:49Z"
+updated_at: "2026-11-08T12:02:27Z"
 ---
 
 # 奥林匹亚考古遗址 / Archaeological Site of Olympia
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:49Z"
 
 *Olympic Flame, the Start of the Olympic Torch Relay (51224124860).jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Olympia](https://whc.unesco.org/uploads/sites/site_517.jpg)
+!["Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 19.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_19.jpg/1280px-%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Olympia · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 19.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 20.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_20.jpg/1280px-%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 20.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 23.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_23.jpg/1280px-%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 23.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
+
+!["Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 24.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_24.jpg/1280px-%22Wo_einst_die_Olympischen_Spiele_zu_Ehren_des_Zeus_erfunden_wurden%22_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*"Wo einst die Olympischen Spiele zu Ehren des Zeus erfunden wurden" 24.jpg · Holger Uwe Schmitt · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,21 @@ The site of Olympia, in a valley in the Peloponnesus, has been inhabited since p
 - ✈ **Patras Araxos Agamemnon Airport (GPA)** — 59.8 km
 - ✈ **Zakynthos International Airport "Dionysios Solomos" (ZTH)** — 66.8 km
 - ✈ **Kalamata Airport (KLX)** — 72.4 km
+- 🚉 **Ολυμπία** — 0.9 km
+- 🚉 **Αλφειός** — 11.3 km
+- 🚉 **Πύργος** — 17.6 km
+- 🚉 **Κατάκολο** — 27.6 km
+- ⛴ **Katakolo** — 26.9 km
+- ⛴ **Παλαιό Πορθμείο Λάδωνα** — 38.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7772.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Aldemar Olympian Village  * * * * *** — 28.2 km — star — 5★
+- **MANNA** — 42.6 km — star — 5★ · Design Hotels
+- **Αναγγένησις** — 17.3 km — star — 4★
+- **Aldemar Olympian Village** — 27.8 km — star — 4★
+- **Royal Olympian** — 28.3 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

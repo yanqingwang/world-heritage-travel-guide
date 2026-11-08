@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "Eldey gisting",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 63.4341299,
+   "lon": -20.2931575,
+   "distance_km": 21.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Vestmannaeyjar",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 63.440485,
+   "lon": -20.2677897,
+   "distance_km": 22.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Westman Islands Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 63.4418781,
+   "lon": -20.2694781,
+   "distance_km": 22.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The New Post Office Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 63.4407153,
+   "lon": -20.2671863,
+   "distance_km": 22.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Vulcano View Guest House",
+   "name_en": "Vulcano View Guest House",
+   "stars": null,
+   "brand": null,
+   "lat": 63.614879,
+   "lon": -20.2388633,
+   "distance_km": 39.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Vestmannaeyjar",
+   "name_en": null,
+   "lat": 63.444088,
+   "lon": -20.2738242,
+   "distance_km": 22.7,
+   "operator": null
+  },
+  {
+   "name": "Herjólfur",
+   "name_en": null,
+   "lat": 63.4444369,
+   "lon": -20.2734621,
+   "distance_km": 22.7,
+   "operator": null
+  },
+  {
+   "name": "Landeyjahöfn",
+   "name_en": null,
+   "lat": 63.5309036,
+   "lon": -20.116991,
+   "distance_km": 35.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:30Z"
+}

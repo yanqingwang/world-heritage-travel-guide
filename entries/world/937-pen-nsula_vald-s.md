@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(x)"
 lat: -42.5
 lon: -63.933333
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:37Z"
 ---
 
 # 瓦尔德斯半岛 / Península Valdés

@@ -1,0 +1,88 @@
+{
+ "hotels": [
+  {
+   "name": "Mantra Hervey Bay",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2927569,
+   "lon": 152.909118,
+   "distance_km": 24.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ramada",
+   "name_en": null,
+   "stars": null,
+   "brand": "Ramada",
+   "lat": -25.2943058,
+   "lon": 152.9064193,
+   "distance_km": 25.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Akama Resort",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.293896,
+   "lon": 152.9066579,
+   "distance_km": 25.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Oceans Resort & Spa",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2823495,
+   "lon": 152.9011768,
+   "distance_km": 25.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Allegea",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -25.2830668,
+   "lon": 152.8804536,
+   "distance_km": 27.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 11,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Urang Creek barge landing",
+   "name_en": null,
+   "lat": -25.3191817,
+   "lon": 153.0501847,
+   "distance_km": 13.4,
+   "operator": null
+  },
+  {
+   "name": "Wangoolba Creek Ferry",
+   "name_en": null,
+   "lat": -25.4467171,
+   "lon": 152.9892119,
+   "distance_km": 28.1,
+   "operator": "Fraser Island Ferry"
+  },
+  {
+   "name": "River Heads Ferry",
+   "name_en": null,
+   "lat": -25.4299841,
+   "lon": 152.9242376,
+   "distance_km": 31.0,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:22Z"
+}

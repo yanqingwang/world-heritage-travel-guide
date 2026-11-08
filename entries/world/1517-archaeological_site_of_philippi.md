@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(iv)"
 lat: 41.012072
 lon: 24.284576
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:46Z"
 ---
 
 # 腓立比 / Archaeological Site of Philippi
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Филипи през 2007.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Philippi](https://whc.unesco.org/uploads/sites/site_1517.jpg)
+![De-Philippi.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Archaeological Site of Philippi · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Philippi.ogg · Jeuwre · CC BY-SA 4.0*
+
+![Damnatio memoriae - Domitian.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f3/Damnatio_memoriae_-_Domitian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Damnatio memoriae - Domitian.jpg · Juliana Bastos Marques · CC BY-SA 3.0*
+
+![Dictionnaire de la Bible - F. Vigouroux - Tome V - 66. — Plaine de Philippes.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d1/Dictionnaire_de_la_Bible_-_F._Vigouroux_-_Tome_V_-_66._%E2%80%94_Plaine_de_Philippes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Dictionnaire de la Bible - F. Vigouroux - Tome V - 66. — Plaine de Philippes.jpg · H. Cambournac · Public domain*
+
+![Lydia - baptismal in the creek.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lydia_-_baptismal_in_the_creek.jpg/1280px-Lydia_-_baptismal_in_the_creek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Lydia - baptismal in the creek.jpg · DocWoKav · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,24 @@ The remains of this walled city lie at the foot of an acropolis in north-eastern
 - ✈ **Kavala Alexander the Great International Airport (KVA)** — 30.2 km
 - ✈ **Thessaloniki Macedonia International Airport (SKG)** — 123.5 km
 - ✈ **Plovdiv International Airport (PDV)** — 126.5 km
+- 🚉 **Νικηφόρος** — 17.4 km
+- 🚉 **Δράμα** — 18.3 km
+- 🚉 **Φωτολίβος** — 20.4 km
+- 🚉 **Πλατανιά** — 24.3 km
+- 🚉 **Αγγίστα** — 29.0 km
+- ⛴ **Λιμάνι Καβάλας Απόστολος Παύλος** — 13.6 km
+- ⛴ **Πρίνος** — 37.4 km
+- ⛴ **Keramoti Ferry Terminal** — 39.1 km
+- ⛴ **Θάσος** — 43.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7373.0 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Imaret** — 14.0 km — star — 5★ · Imaret
+- **Makryammos** — 45.7 km — star — 5★
+- **Hotel Egnatia** — 11.8 km — star — 4★
+- **Hotel Galaxy** — 13.5 km — star — 4★
+- **Philoxenia** — 11.2 km — star — 3★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

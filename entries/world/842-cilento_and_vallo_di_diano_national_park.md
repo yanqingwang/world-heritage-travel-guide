@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)"
 lat: 40.42
 lon: 15.005555555
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:34Z"
 ---
 
 # 奇伦托和迪亚诺河谷国家公园，帕埃斯图姆和韦利亚考古遗址 / Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Aerial image of Paestum (view from the south).jpg · see Wikimedia Commons file page*
 
-![Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula](https://whc.unesco.org/uploads/sites/site_842.jpg)
+![Paestum 220.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Paestum_220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Paestum 220.jpg · Doking · CC BY-SA 3.0*
+
+![Aerial image of Paestum (view from the south).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Aerial_image_of_Paestum_%28view_from_the_south%29.jpg/1280px-Aerial_image_of_Paestum_%28view_from_the_south%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aerial image of Paestum (view from the south).jpg · Carsten Steger · CC BY-SA 4.0*
+
+![Constantin Hansen - A shepherd boy from Pæstum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Constantin_Hansen_-_A_shepherd_boy_from_P%C3%A6stum.jpg/1280px-Constantin_Hansen_-_A_shepherd_boy_from_P%C3%A6stum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Constantin Hansen - A shepherd boy from Pæstum.jpg · Constantin Hansen · Public domain*
+
+![Hetor (1).png](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Hetor_%281%29.png/1280px-Hetor_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hetor (1).png · MariAnnaP3 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ Paestum fu un'antica città della Magna Grecia, chiamata dai greci Poseidonia in
 - ✈ **Salerno Costa d'Amalfi Airport (QSR)** — 23.7 km
 - ✈ **Naples International Airport (NAP)** — 79.5 km
 - ✈ **Foggia Gino Lisa Airport (FOG)** — 121.2 km
+- 🚉 **Paestum** — 0.8 km
+- 🚉 **Capaccio-Roccadaspide** — 4.0 km
+- 🚉 **Agropoli-Castellabate** — 7.6 km
+- 🚉 **Battipaglia** — 20.8 km
+- 🚉 **Campagna-Serre-Persano** — 21.6 km
+- ⛴ **Escursioni in Battello** — 14.3 km
+- ⛴ **Battello** — 14.3 km
+- ⛴ **Salerno** — 34.5 km
+- ⛴ **Stazione Marittima - Molo Manfredi** — 35.5 km
+- ⛴ **Salerno Container Terminal** — 36.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8055.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Casa Angelina** — 46.3 km — star — 5★
+- **Covo dei Saraceni** — 49.6 km — star — 5★
+- **Le Sirenuse** — 49.6 km — star — 5★
+- **Esplanade** — 2.0 km — star — 4★
+- **Savoy Beach Hotel** — 2.0 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

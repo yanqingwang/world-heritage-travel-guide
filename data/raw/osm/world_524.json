@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Rajdoot Gaurav",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 23.2640984,
+   "lon": 77.4076497,
+   "distance_km": 41.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Krishna Hotel",
+   "name_en": null,
+   "stars": 1,
+   "brand": null,
+   "lat": 23.4865191,
+   "lon": 77.7387209,
+   "distance_km": 0.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Pride Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.5229214,
+   "lon": 77.8138411,
+   "distance_km": 9.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel saubhagya",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.2755145,
+   "lon": 77.4689552,
+   "distance_km": 35.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "oyo hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 23.2730248,
+   "lon": 77.4651438,
+   "distance_km": 36.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 50,
+ "stations": [
+  {
+   "name": "Sanchi",
+   "name_en": null,
+   "lat": 23.4876339,
+   "lon": 77.7360676,
+   "distance_km": 1.0,
+   "operator": "WCR"
+  },
+  {
+   "name": "Salamatpur",
+   "name_en": null,
+   "lat": 23.460948,
+   "lon": 77.6724853,
+   "distance_km": 7.2,
+   "operator": "WCR"
+  },
+  {
+   "name": "Vidisha",
+   "name_en": null,
+   "lat": 23.5225788,
+   "lon": 77.8148001,
+   "distance_km": 9.0,
+   "operator": "WCR"
+  },
+  {
+   "name": "Sorai",
+   "name_en": null,
+   "lat": 23.5566889,
+   "lon": 77.8505778,
+   "distance_km": 14.2,
+   "operator": "WCR"
+  },
+  {
+   "name": "Dewanganj",
+   "name_en": null,
+   "lat": 23.4286917,
+   "lon": 77.5924073,
+   "distance_km": 16.1,
+   "operator": "WCR"
+  },
+  {
+   "name": "Sumer",
+   "name_en": null,
+   "lat": 23.6253811,
+   "lon": 77.8798975,
+   "distance_km": 21.6,
+   "operator": "WCR"
+  },
+  {
+   "name": "Bhad Bhada Ghat",
+   "name_en": null,
+   "lat": 23.3748405,
+   "lon": 77.5354676,
+   "distance_km": 23.9,
+   "operator": "WCR"
+  },
+  {
+   "name": "Gulabhganj",
+   "name_en": null,
+   "lat": 23.6837781,
+   "lon": 77.9119025,
+   "distance_km": 28.7,
+   "operator": "WCR"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Sah ali shah jatty",
+   "name_en": null,
+   "lat": 23.2449933,
+   "lon": 77.3771336,
+   "distance_km": 45.3,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:00:19Z"
+}

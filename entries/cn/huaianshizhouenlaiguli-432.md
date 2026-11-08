@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Huai'an"
 lat: 33.541841
 lon: 119.147121
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 淮安市周恩来故里景区 / Zhou Enlai
@@ -50,7 +50,7 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou1 Ên1-lai2; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta
+Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou¹ Ên¹-lai²; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta
 
 ## 交通 / Transport
 

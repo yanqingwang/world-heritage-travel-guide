@@ -1,0 +1,145 @@
+{
+ "hotels": [
+  {
+   "name": "Renaissance Philadelphia Downtown Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Renaissance",
+   "lat": 39.9490507,
+   "lon": -75.1478835,
+   "distance_km": 0.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wyndham Philadelphia Historic District",
+   "name_en": null,
+   "stars": null,
+   "brand": "Wyndham",
+   "lat": 39.9520461,
+   "lon": -75.1473347,
+   "distance_km": 0.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Independence Park Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 39.9488376,
+   "lon": -75.1455821,
+   "distance_km": 0.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Philadelphia Marriott Old City",
+   "name_en": null,
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 39.9461726,
+   "lon": -75.1436241,
+   "distance_km": 0.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hilton Philadelphia at Penn's Landing",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": 39.9454624,
+   "lon": -75.1413504,
+   "distance_km": 0.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 334,
+ "stations": [
+  {
+   "name": "Jefferson Station",
+   "name_en": "Jefferson Station",
+   "lat": 39.9527752,
+   "lon": -75.1580261,
+   "distance_km": 0.8,
+   "operator": "SEPTA"
+  },
+  {
+   "name": "Suburban Station",
+   "name_en": null,
+   "lat": 39.9542026,
+   "lon": -75.1673687,
+   "distance_km": 1.6,
+   "operator": "SEPTA"
+  },
+  {
+   "name": "Adventure Aquarium",
+   "name_en": null,
+   "lat": 39.9456573,
+   "lon": -75.1287362,
+   "distance_km": 1.8,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Entertainment Center",
+   "name_en": null,
+   "lat": 39.940886,
+   "lon": -75.1284981,
+   "distance_km": 2.0,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Cooper Street–Rutgers",
+   "name_en": null,
+   "lat": 39.9476406,
+   "lon": -75.1248002,
+   "distance_km": 2.2,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Walter Rand Transportation Center",
+   "name_en": null,
+   "lat": 39.9431709,
+   "lon": -75.1203267,
+   "distance_km": 2.6,
+   "operator": "New Jersey Transit"
+  },
+  {
+   "name": "Philadelphia 30th Street Station",
+   "name_en": null,
+   "lat": 39.9559304,
+   "lon": -75.1819051,
+   "distance_km": 2.8,
+   "operator": "Amtrak"
+  },
+  {
+   "name": "Penn Medicine",
+   "name_en": null,
+   "lat": 39.9478543,
+   "lon": -75.1903505,
+   "distance_km": 3.4,
+   "operator": "Southeastern Pennsylvania Transportation Authority"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Penn’s Landing",
+   "name_en": null,
+   "lat": 39.946224,
+   "lon": -75.1396331,
+   "distance_km": 0.9,
+   "operator": null
+  },
+  {
+   "name": "Camden",
+   "name_en": null,
+   "lat": 39.9442611,
+   "lon": -75.132616,
+   "distance_km": 1.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:57:46Z"
+}

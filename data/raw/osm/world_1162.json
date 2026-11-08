@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Le Grand Château",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -26.8976749,
+   "lon": 27.4531984,
+   "distance_km": 12.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "SunWa River Lodge",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -26.9003238,
+   "lon": 27.3875802,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stonehenge in Africa / Stonehenge River Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -26.9013159,
+   "lon": 27.3893346,
+   "distance_km": 15.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Thabela Thabeng",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -26.8609873,
+   "lon": 27.2876313,
+   "distance_km": 26.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Candy's Lodge and Bar",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -26.7388354,
+   "lon": 27.6020206,
+   "distance_km": 30.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 10,
+ "stations": [
+  {
+   "name": "Greenlands",
+   "name_en": null,
+   "lat": -27.1238033,
+   "lon": 27.6747944,
+   "distance_km": 22.1,
+   "operator": null
+  },
+  {
+   "name": "Dover",
+   "name_en": null,
+   "lat": -27.0586451,
+   "lon": 27.7247943,
+   "distance_km": 23.2,
+   "operator": null
+  },
+  {
+   "name": "Koppies",
+   "name_en": null,
+   "lat": -27.2376409,
+   "lon": 27.5692396,
+   "distance_km": 27.3,
+   "operator": null
+  },
+  {
+   "name": "Wolwehoek",
+   "name_en": null,
+   "lat": -26.9160181,
+   "lon": 27.8205346,
+   "distance_km": 33.1,
+   "operator": null
+  },
+  {
+   "name": "Rooiwal",
+   "name_en": null,
+   "lat": -27.2989181,
+   "lon": 27.5222736,
+   "distance_km": 33.3,
+   "operator": null
+  },
+  {
+   "name": "Sasolburg",
+   "name_en": null,
+   "lat": -26.8545853,
+   "lon": 27.866511,
+   "distance_km": 39.8,
+   "operator": null
+  },
+  {
+   "name": "Serfontein",
+   "name_en": null,
+   "lat": -27.3844125,
+   "lon": 27.4664118,
+   "distance_km": 42.9,
+   "operator": null
+  },
+  {
+   "name": "Enselspruit",
+   "name_en": null,
+   "lat": -26.6084175,
+   "lon": 27.40221,
+   "distance_km": 44.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:28Z"
+}

@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)(iv)"
 lat: 34.1959
 lon: 43.88568
-updated_at: "2026-11-08T11:24:47Z"
+updated_at: "2026-11-08T12:02:18Z"
 ---
 
 # 萨迈拉古城 / Samarra Archaeological City
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:47Z"
 
 *The spiral minaret in Samarra.jpg · see Wikimedia Commons file page*
 
-![Samarra Archaeological City](https://whc.unesco.org/uploads/sites/site_276.jpg)
+![001124-VirginPalace-Samerra-IMG 7869-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/001124-VirginPalace-Samerra-IMG_7869-2.jpg/1280px-001124-VirginPalace-Samerra-IMG_7869-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Samarra Archaeological City · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*001124-VirginPalace-Samerra-IMG 7869-2.jpg · Safa.daneshvar · CC BY-SA 4.0*
+
+![001124-VirginPalace-Samerra-IMG 7877-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/001124-VirginPalace-Samerra-IMG_7877-2.jpg/1280px-001124-VirginPalace-Samerra-IMG_7877-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*001124-VirginPalace-Samerra-IMG 7877-2.jpg · Safa.daneshvar · CC BY-SA 4.0*
+
+![001124-VirginPalace-Samerra-IMG 7878-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/001124-VirginPalace-Samerra-IMG_7878-2.jpg/1280px-001124-VirginPalace-Samerra-IMG_7878-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*001124-VirginPalace-Samerra-IMG 7878-2.jpg · Safa.daneshvar · CC BY-SA 4.0*
+
+![001124-VirginPalace-Samerra-IMG 7885-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/001124-VirginPalace-Samerra-IMG_7885-2.jpg/1280px-001124-VirginPalace-Samerra-IMG_7885-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*001124-VirginPalace-Samerra-IMG 7885-2.jpg · Safa.daneshvar · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Samarra Archaeological City is the site of a powerful Islamic capital city that 
 - ✈ **Baghdad International Airport / New Al Muthana Air Base (BGW)** — 108.7 km
 - ✈ **Kirkuk International Airport (KIK)** — 147.8 km
 - ✈ **Jalal Talabani International Airport (ISU)** — 200.1 km
+- 🚉 **محطة قطار سامراء** — 3.2 km
+- 🚉 **محطة قطار العباسية** — 16.3 km
+- 🚉 **محطة قطار الاسحاقي** — 19.5 km
+- 🚉 **محطة قطار امام دور** — 34.8 km
+- 🚉 **محطة قطار بلد** — 36.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6319.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **مجمع السفراء الأربعة** — 1.1 km — hotel
+- **مجمع المجدد الشيرازي** — 1.1 km — hotel
+- **مجمع صاحب الأمر** — 1.3 km — hotel
+- **مجمع السيدة حكيمة** — 1.6 km — hotel
+- **فندق باي روك** — 47.3 km — hotel — Bay Rock Hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

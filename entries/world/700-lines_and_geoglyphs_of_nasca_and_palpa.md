@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(i)(iii)(iv)"
 lat: -14.6975
 lon: -75.135
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 纳斯卡和朱马纳草原的线条图 / Lines and Geoglyphs of Nasca and Palpa
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 44.JPG · see Wikimedia Commons file page*
 
-![Lines and Geoglyphs of Nasca and Palpa](https://whc.unesco.org/uploads/sites/site_700.jpg)
+![1-1Nazca-lineas.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/1-1Nazca-lineas.JPG/1280px-1-1Nazca-lineas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Lines and Geoglyphs of Nasca and Palpa · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1-1Nazca-lineas.JPG · Brattarb · CC BY-SA 3.0*
+
+![206 - Plaine de Nazca - Mirador - Juillet 2010.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/206_-_Plaine_de_Nazca_-_Mirador_-_Juillet_2010.jpg/1280px-206_-_Plaine_de_Nazca_-_Mirador_-_Juillet_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*206 - Plaine de Nazca - Mirador - Juillet 2010.jpg · Martin St-Amant ( S23678 ) · CC BY-SA 3.0*
+
+![207 - Plaine de Nazca - Mirador - Juillet 2010.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/207_-_Plaine_de_Nazca_-_Mirador_-_Juillet_2010.jpg/1280px-207_-_Plaine_de_Nazca_-_Mirador_-_Juillet_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*207 - Plaine de Nazca - Mirador - Juillet 2010.jpg · Martin St-Amant ( S23678 ) · CC BY-SA 3.0*
+
+![A dust whirl on the Nazca Plain.JPG](https://upload.wikimedia.org/wikipedia/commons/f/fd/A_dust_whirl_on_the_Nazca_Plain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*A dust whirl on the Nazca Plain.JPG · User: (WT-shared) Shoestring at wts wikivoyage · CC BY-SA 1.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ Situados en la árida planicie costera del Perú, a unos 400 kilómetros al sur 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hospedaje Alubias** — 18.8 km — hotel
+- **Hotel Majoro** — 23.8 km — hotel
+- **Hotel San Marcelo** — 24.3 km — hotel
+- **Hotel Tu Candela** — 25.2 km — hotel
+- **Hotel Las Tinajas** — 25.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

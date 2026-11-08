@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Handan"
 lat: 36.63978
 lon: 113.614932
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 邯郸市娲皇宫景区 / Handan

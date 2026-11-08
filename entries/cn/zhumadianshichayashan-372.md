@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Zhumadian City"
 lat: 33.13301
 lon: 113.74461
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 驻马店市嵖岈山旅游景区 / Mount Chaya
@@ -26,10 +26,6 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *Chaya Shan 06.jpg · Gary Todd · CC0*
 
-![河南省人民政府关于公布河南省第七批文物保护单位名单的通知（豫政〔2016〕4号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E6%B2%B3%E5%8D%97%E7%9C%81%E7%AC%AC%E4%B8%83%E6%89%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%B1%AB%E6%94%BF%E3%80%942016%E3%80%954%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E6%B2%B3%E5%8D%97%E7%9C%81%E7%AC%AC%E4%B8%83%E6%89%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%B1%AB%E6%94%BF%E3%80%942016%E3%80%954%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*河南省人民政府关于公布河南省第七批文物保护单位名单的通知（豫政〔2016〕4号）.pdf · 河南省人民政府 People's Government of Henan Province · Public domain*
-
 ![Chaya Shan 21.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Chaya_Shan_21.jpg/1280px-Chaya_Shan_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Chaya Shan 21.jpg · Gary Todd · CC0*
@@ -41,6 +37,10 @@ updated_at: "2026-11-07T22:58:14Z"
 ![Shindainichi-Chaya 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Shindainichi-Chaya_01.jpg/1280px-Shindainichi-Chaya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Shindainichi-Chaya 01.jpg · Σ64 ( talk ) · CC BY-SA 3.0*
+
+![The Caves of Mount Chaya.png](https://upload.wikimedia.org/wikipedia/commons/9/9e/The_Caves_of_Mount_Chaya.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*The Caves of Mount Chaya.png · Unknown author Unknown author · Public domain*
 
 ## 简介 / Introduction
 

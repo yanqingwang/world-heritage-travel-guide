@@ -1,0 +1,137 @@
+{
+ "hotels": [
+  {
+   "name": "Château de Montcaud",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 44.171856,
+   "lon": 4.5710216,
+   "distance_km": 27.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Villa Augusta",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.345179,
+   "lon": 4.7661588,
+   "distance_km": 28.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ibis Styles Montélimar Centre",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Ibis Styles",
+   "lat": 44.5627676,
+   "lon": 4.753216,
+   "distance_km": 33.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Château de Rochegude",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.2477433,
+   "lon": 4.8280525,
+   "distance_km": 36.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "La Ferme Chapouton",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 44.4205283,
+   "lon": 4.9028509,
+   "distance_km": 38.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 221,
+ "stations": [
+  {
+   "name": "Pierrelatte",
+   "name_en": null,
+   "lat": 44.3747039,
+   "lon": 4.704055,
+   "distance_km": 22.9,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Pont-Saint-Esprit",
+   "name_en": null,
+   "lat": 44.253506,
+   "lon": 4.6431336,
+   "distance_km": 23.5,
+   "operator": null
+  },
+  {
+   "name": "Le Teil",
+   "name_en": null,
+   "lat": 44.5524521,
+   "lon": 4.6861843,
+   "distance_km": 28.2,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Bagnols-sur-Cèze",
+   "name_en": null,
+   "lat": 44.1616575,
+   "lon": 4.6269652,
+   "distance_km": 30.3,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Montélimar",
+   "name_en": null,
+   "lat": 44.5590139,
+   "lon": 4.7447209,
+   "distance_km": 32.3,
+   "operator": null
+  },
+  {
+   "name": "Grand-Combe-la-Pise",
+   "name_en": null,
+   "lat": 44.209953,
+   "lon": 4.0329499,
+   "distance_km": 36.4,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Génolhac",
+   "name_en": null,
+   "lat": 44.3471455,
+   "lon": 3.9516355,
+   "distance_km": 37.2,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Alès",
+   "name_en": null,
+   "lat": 44.1278635,
+   "lon": 4.0849332,
+   "distance_km": 39.2,
+   "operator": "SNCF Gares & Connexions"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Halte Fluviale",
+   "name_en": null,
+   "lat": 44.0670168,
+   "lon": 4.7887285,
+   "distance_km": 46.4,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:46Z"
+}

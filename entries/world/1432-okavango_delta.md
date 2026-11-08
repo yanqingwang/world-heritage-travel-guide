@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(vii)(ix)(x)"
 lat: -19.4
 lon: 22.9
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:45Z"
 ---
 
 # 奥卡万戈三角洲 / Okavango Delta
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Okavango11.jpg · see Wikimedia Commons file page*
 
-![Okavango Delta](https://whc.unesco.org/uploads/sites/site_1432.jpg)
+![01 Botswana, Okavango Delta.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/01_Botswana%2C_Okavango_Delta.tif/lossy-page1-1280px-01_Botswana%2C_Okavango_Delta.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Okavango Delta · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*01 Botswana, Okavango Delta.tif · Dr. Ondřej Havelka (cestovatel) · CC BY-SA 4.0*
+
+![02 Botswana, Okavango Delta.tif](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/02_Botswana%2C_Okavango_Delta.tif/lossy-page1-1280px-02_Botswana%2C_Okavango_Delta.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*02 Botswana, Okavango Delta.tif · Dr. Ondřej Havelka (cestovatel) · CC BY-SA 4.0*
+
+![Ativista do Clima Angolano Auber Fichess.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Ativista_do_Clima_Angolano_Auber_Fichess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Ativista do Clima Angolano Auber Fichess.jpg · Edmilsoncipriano94 · CC0*
+
+![Botswana - 36034632214.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Botswana_-_36034632214.jpg/1280px-Botswana_-_36034632214.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Botswana - 36034632214.jpg · Vaughan McShane · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ This delta in north-west Botswana comprises permanent marshlands and seasonally 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Nxabega Okavango Tented Camp** — 14.6 km — hotel
+- **Xigera Safari Camp** — 14.8 km — hotel
+- **Kanana Camp** — 16.4 km — hotel
+- **Pom Pom Camp** — 21.3 km — hotel
+- **Eagle Island Camp** — 22.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

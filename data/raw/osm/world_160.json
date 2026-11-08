@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Novotel Fontainebleau Ury",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 48.3497382,
+   "lon": 2.6059594,
+   "distance_km": 9.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residhome Apparthotel Suites Paris Sénart",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.620412,
+   "lon": 2.540391,
+   "distance_km": 27.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Sénart Golf de Greenparc",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 48.623695,
+   "lon": 2.5209911,
+   "distance_km": 28.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel Evry Courcouronnes",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Novotel",
+   "lat": 48.6162933,
+   "lon": 2.4237936,
+   "distance_km": 31.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residhome Apparthotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 48.6250819,
+   "lon": 2.4266615,
+   "distance_km": 32.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 248,
+ "stations": [
+  {
+   "name": "Fontainebleau - Avon",
+   "name_en": null,
+   "lat": 48.4163144,
+   "lon": 2.7266285,
+   "distance_km": 2.5,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Thomery",
+   "name_en": null,
+   "lat": 48.3943084,
+   "lon": 2.7639925,
+   "distance_km": 4.8,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Vulaines-sur-Seine - Samoreau",
+   "name_en": null,
+   "lat": 48.4306653,
+   "lon": 2.7530646,
+   "distance_km": 5.0,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Héricy",
+   "name_en": null,
+   "lat": 48.4427392,
+   "lon": 2.7607709,
+   "distance_km": 6.3,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Champagne-sur-Seine",
+   "name_en": null,
+   "lat": 48.4066756,
+   "lon": 2.7993021,
+   "distance_km": 7.3,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Montigny-sur-Loing",
+   "name_en": null,
+   "lat": 48.336466,
+   "lon": 2.738544,
+   "distance_km": 7.8,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Moret-sur-Loing - Veneux-les-Sablons",
+   "name_en": null,
+   "lat": 48.3784011,
+   "lon": 2.7992908,
+   "distance_km": 7.8,
+   "operator": "SNCF Gares & Connexions"
+  },
+  {
+   "name": "Bourron-Marlotte - Grez",
+   "name_en": null,
+   "lat": 48.3326758,
+   "lon": 2.6924587,
+   "distance_km": 7.8,
+   "operator": "SNCF Gares & Connexions"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port de plaisance Stéphane Mallarmé",
+   "name_en": null,
+   "lat": 48.4257155,
+   "lon": 2.7453379,
+   "distance_km": 4.2,
+   "operator": null
+  },
+  {
+   "name": "Halte de Saint-Mammès",
+   "name_en": null,
+   "lat": 48.3884809,
+   "lon": 2.8061359,
+   "distance_km": 7.9,
+   "operator": null
+  },
+  {
+   "name": "Halte fluviale de Moret",
+   "name_en": null,
+   "lat": 48.377858,
+   "lon": 2.817534,
+   "distance_km": 9.1,
+   "operator": null
+  },
+  {
+   "name": "Port aux Cerises",
+   "name_en": null,
+   "lat": 48.6907658,
+   "lon": 2.3906509,
+   "distance_km": 39.4,
+   "operator": null
+  },
+  {
+   "name": "Port Saint-Roch",
+   "name_en": null,
+   "lat": 47.992336,
+   "lon": 2.7345939,
+   "distance_km": 45.6,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:58:33Z"
+}

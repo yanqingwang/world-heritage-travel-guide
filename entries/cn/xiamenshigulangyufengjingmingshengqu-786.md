@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Xiamen"
 lat: 24.449908
 lon: 118.079275
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 厦门市鼓浪屿风景名胜区 / Gulangyu
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Gulangyu, Gulang or Kulangsu is an island off the coast of Xiamen, Fujian, southeastern China. A UNESCO World Cultural Heritage Site, the island is one of China's most visited tourist attractions, attracting more than 10 million visitors per year. Gulangyu covers an area of 1.88 km2 (0.73 sq mi), with a population of 12,509 as of 2023. Administratively, the island constitutes the Gulangyu Subdistrict, part of Xiamen's Siming District. It is reachable by ferry from downtown Xiamen. Gulangyu Island is renowned for its beaches, winding lanes and rich architecture. The island is on China's list of National Scenic Spots and is classified as a 5A tourist attraction by the China National Tourism Administration (CNTA). It ranks at the top of the list of the ten most scenic areas in the province. As a pedestrian-only zone where cars and bicycles are banned, the only vehicles permitted are small electric buggies and electric government service vehicles.
+Gulangyu Scenic Area faces Xiamen City across the sea, covering an area of ​​1.78 square kilometers. The island's beautiful landscape is well-known at home and abroad. The coastline of the island is winding and winding, surrounded by natural bathing beaches with gentle slopes and fine sand. The miraculous reefs are naturally formed. Gulangyu Island has Sunlight Rock, Shuzhuang Garden, Haoyue Garden, Yuyuan and other scenic spots.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

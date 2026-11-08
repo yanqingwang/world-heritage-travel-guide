@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Tai'an"
 lat: 36.210482
 lon: 117.136047
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 泰安市泰山景区 / Mount Tai

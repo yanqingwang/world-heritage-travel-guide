@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(ii)(iv)"
 lat: 34.56
 lon: 38.267222
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:08Z"
 ---
 
 # 帕尔米拉古城遗址 / Site of Palmyra
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Palmira al capvespre (2495033007).jpg · see Wikimedia Commons file page*
 
-![Site of Palmyra](https://whc.unesco.org/uploads/sites/site_23.jpg)
+![A group of children in Ba'ath Vanguard uniforms welcome the French Prime Minister at Syrian city of Palmyra in 1977.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b6/A_group_of_children_in_Ba%27ath_Vanguard_uniforms_welcome_the_French_Prime_Minister_at_Syrian_city_of_Palmyra_in_1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Site of Palmyra · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A group of children in Ba'ath Vanguard uniforms welcome the French Prime Minister at Syrian city of Palmyra in 1977.jpg · Unknown author Unknown author · Public domain*
+
+![Abdul AL-Kadiri in Palmyra.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Abdul_AL-Kadiri_in_Palmyra.jpg/1280px-Abdul_AL-Kadiri_in_Palmyra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abdul AL-Kadiri in Palmyra.jpg · KANKA OFFICIAL · CC BY-SA 4.0*
+
+![The antiquities of Palmyra (IA antiquitiesofpal00sell).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_antiquities_of_Palmyra_%28IA_antiquitiesofpal00sell%29.pdf/page1-500px-The_antiquities_of_Palmyra_%28IA_antiquitiesofpal00sell%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*The antiquities of Palmyra (IA antiquitiesofpal00sell).pdf · Seller, Abednego, 1646?-1705 Smith, Samuel, active 1681-1703 Walford, Benjamin, -approximately 1710 · Public domain*
+
+![Aphroditidae 2.jpg](https://upload.wikimedia.org/wikipedia/commons/9/95/Aphroditidae_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Aphroditidae 2.jpg · Philippe Bourjon · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ An oasis in the Syrian desert, north-east of Damascus, Palmyra contains the monu
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **زنوبيا شام بالاس** — 0.8 km — hotel — Zenobia Cham Palace
+- **بل** — 0.9 km — hotel — Bel Hotel
+- **فندق فيلا بالميرا** — 1.0 km — hotel — Hotel Villa Palmyra
+- **Palace Hotel** — 1.0 km — hotel — Palace Hotel
+- **ديديمان تدمر** — 1.6 km — hotel — Dedeman Palmyra
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

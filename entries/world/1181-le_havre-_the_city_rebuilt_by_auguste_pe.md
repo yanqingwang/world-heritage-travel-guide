@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iv)"
 lat: 49.4891
 lon: 0.115222
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:40Z"
 ---
 
 # 勒阿弗尔，奥古斯特•佩雷重建之城 / Le Havre, the City Rebuilt by Auguste Perret

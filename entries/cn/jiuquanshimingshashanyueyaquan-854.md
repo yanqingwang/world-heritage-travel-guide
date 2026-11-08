@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Jiuquan City"
 lat: 40.102448
 lon: 94.681563
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 酒泉市鸣沙山月牙泉景区 / Crescent Lake (Dunhuang)
@@ -26,6 +26,10 @@ updated_at: "2026-11-07T22:58:14Z"
 
 *Crescent Lake from the Singing Sand Dunes (20230918101214).jpg · N509FZ · CC BY-SA 4.0*
 
+![Crescent Lake.jpg](https://upload.wikimedia.org/wikipedia/commons/7/79/Crescent_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Crescent Lake.jpg · User: (WT-shared) Tsetsefly at wts wikivoyage · CC BY-SA 1.0*
+
 ![Crescent Lake (41853077232).jpg](https://upload.wikimedia.org/wikipedia/commons/0/07/Crescent_Lake_%2841853077232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 *Crescent Lake (41853077232).jpg · David Stanley from Nanaimo, Canada · CC BY 2.0*
@@ -33,10 +37,6 @@ updated_at: "2026-11-07T22:58:14Z"
 ![Crescent Moon Lake (23889572731).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Crescent_Moon_Lake_%2823889572731%29.jpg/1280px-Crescent_Moon_Lake_%2823889572731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 *Crescent Moon Lake (23889572731).jpg · Laika ac from UK · CC BY-SA 2.0*
-
-![Crescent Moon Lake (23972188095).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Crescent_Moon_Lake_%2823972188095%29.jpg/1280px-Crescent_Moon_Lake_%2823972188095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Crescent Moon Lake (23972188095).jpg · Laika ac from UK · CC BY-SA 2.0*
 
 ![Crescent lake june 2006-yw.png](https://upload.wikimedia.org/wikipedia/commons/0/0c/Crescent_lake_june_2006-yw.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 

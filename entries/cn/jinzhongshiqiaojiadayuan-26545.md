@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Jinzhong"
 lat: 37.412043
 lon: 112.448047
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 晋中市乔家大院景区 / Qiao Family Compound

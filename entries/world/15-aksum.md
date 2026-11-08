@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(iv)"
 lat: 14.116666666
 lon: 38.733333333
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:08Z"
 ---
 
 # 阿克苏姆考古遗址 / Aksum
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *ET Axum asv2018-01 img34 view from hill.jpg · see Wikimedia Commons file page*
 
-![Aksum](https://whc.unesco.org/uploads/sites/site_15.jpg)
+![De-Aksum.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Aksum · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*De-Aksum.ogg · Jeuwre · CC BY-SA 4.0*
+
+![A Pause At Threshing Time, Axum, Ethiopia (3156308439).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/A_Pause_At_Threshing_Time%2C_Axum%2C_Ethiopia_%283156308439%29.jpg/1280px-A_Pause_At_Threshing_Time%2C_Axum%2C_Ethiopia_%283156308439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A Pause At Threshing Time, Axum, Ethiopia (3156308439).jpg · A. Davey from Where I Live Now: Pacific Northwest · CC BY 2.0*
+
+![Adam & Eve & the Serpent - Facade of I Yesus Church - Axum (Aksum) - Ethiopia (8701140705).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Adam_%26_Eve_%26_the_Serpent_-_Facade_of_I_Yesus_Church_-_Axum_%28Aksum%29_-_Ethiopia_%288701140705%29.jpg/1280px-Adam_%26_Eve_%26_the_Serpent_-_Facade_of_I_Yesus_Church_-_Axum_%28Aksum%29_-_Ethiopia_%288701140705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Adam & Eve & the Serpent - Facade of I Yesus Church - Axum (Aksum) - Ethiopia (8701140705).jpg · Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0*
+
+![Aksum, Tigray.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Aksum%2C_Tigray.jpg/1280px-Aksum%2C_Tigray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Aksum, Tigray.jpg · Rod Waddington · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -56,7 +68,11 @@ The ruins of the ancient city of Aksum are found close to Ethiopia's northern bo
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Africa Hotel** — 0.9 km — hotel
+- **The ark hotel** — 0.9 km — hotel — The ark hotel
+- **Setit hotel** — 0.9 km — hotel — Setit hotel
+- **Abinet Hotel** — 0.9 km — hotel
+- **Sabean Hotel** — 0.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

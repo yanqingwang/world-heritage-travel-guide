@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)(vi)"
 lat: 25.381111111
 lon: 83.021388888
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:36Z"
 ---
 
 # 鹿野苑古佛教遗址 / Ancient Buddhist Site of Sarnath
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:52Z"
 
 *Sarnath1.jpg · see Wikimedia Commons file page*
 
-![Ancient Buddhist Site of Sarnath](https://whc.unesco.org/uploads/sites/site_927.jpg)
+![Bodhisattva Padmapani ,6th Century CE, Sarnath, Uttar Pradesh. Currently housed at the National Museum New Delhi.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5a/Bodhisattva_Padmapani_%2C6th_Century_CE%2C_Sarnath%2C_Uttar_Pradesh._Currently_housed_at_the_National_Museum_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Ancient Buddhist Site of Sarnath · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Bodhisattva Padmapani ,6th Century CE, Sarnath, Uttar Pradesh. Currently housed at the National Museum New Delhi.jpg · SpeakingArch · CC BY-SA 4.0*
+
+![Bodhisattva, 5th Century C E, Sarnath, Uttar Pradesh. Currently housed at the National Museum New Delhi.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4c/Bodhisattva%2C_5th_Century_C_E%2C_Sarnath%2C_Uttar_Pradesh._Currently_housed_at_the_National_Museum_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Bodhisattva, 5th Century C E, Sarnath, Uttar Pradesh. Currently housed at the National Museum New Delhi.jpg · SpeakingArch · CC BY-SA 4.0*
+
+![Buddha , 5th Century CE, Sarnath. Currently at the National Museum New Delhi.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5c/Buddha_%2C_5th_Century_CE%2C_Sarnath._Currently_at_the_National_Museum_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Buddha , 5th Century CE, Sarnath. Currently at the National Museum New Delhi.jpg · SpeakingArch · CC BY-SA 4.0*
+
+![Buddha is located within the Japanese Buddhist Temple.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Buddha_is_located_within_the_Japanese_Buddhist_Temple.jpg/1280px-Buddha_is_located_within_the_Japanese_Buddhist_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Buddha is located within the Japanese Buddhist Temple.jpg · Aliva Sahoo · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,22 @@ The serial property contains the architectural and archaeological remains of Sar
 - ✈ **Lal Bahadur Shastri International Airport (VNS)** — 17.8 km
 - ✈ **Prayagraj Airport (IXD)** — 129.5 km
 - ✈ **Gorakhpur Airport (GOP)** — 157.0 km
+- 🚉 **Sarnath** — 1.3 km
+- 🚉 **Varanasi City** — 5.2 km
+- 🚉 **Kashi** — 6.1 km
+- 🚉 **Shivpur Railway Station** — 7.9 km
+- 🚉 **Kadipur** — 10.3 km
+- ⛴ **Dasaswamedh Ghat** — 8.4 km
+- ⛴ **Ramnagar** — 12.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3518.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hyatt Place** — 1.3 km — chain
+- **DoubleTree by Hilton Varanasi** — 4.3 km — chain — DoubleTree
+- **Radisson** — 6.2 km — chain — Radisson
+- **The Westinn** — 6.3 km — chain
+- **Hotel Buddha Int.** — 0.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

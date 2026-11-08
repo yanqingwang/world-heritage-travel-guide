@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ix)"
 lat: 63.30402566
 lon: -20.604713791
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:41Z"
 ---
 
 # 叙尔特塞岛 / Surtsey
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:54Z"
 
 *Surtsey by Brian Gratwicke.jpg · see Wikimedia Commons file page*
 
-![Surtsey](https://whc.unesco.org/uploads/sites/site_1267.jpg)
+![Surtsey pronunciation.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
 
-*Surtsey · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Surtsey pronunciation.ogg · Svavar Kjarrval · CC0*
+
+![Surstey Island2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Surstey_Island2.jpg/1280px-Surstey_Island2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Surstey Island2.jpg · CanonS2 · CC BY-SA 2.0*
+
+![Surtsey 051007.jpg](https://upload.wikimedia.org/wikipedia/commons/6/65/Surtsey_051007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Surtsey 051007.jpg · NASA · Public domain*
+
+![Surtsey by Brian Gratwicke in 2014.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Surtsey_by_Brian_Gratwicke_in_2014.jpg/1280px-Surtsey_by_Brian_Gratwicke_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Surtsey by Brian Gratwicke in 2014.jpg · Brian Gratwicke · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,18 @@ Surtsey, a volcanic island approximately 32 km from the south coast of Iceland, 
 - ✈ **Reykjavík Domestic Airport (RKV)** — 112.8 km
 - ✈ **Keflavik International Airport (KEF)** — 124.4 km
 - ✈ **Hornafjörður Airport (HFN)** — 286.0 km
+- ⛴ **Vestmannaeyjar** — 22.7 km
+- ⛴ **Herjólfur** — 22.7 km
+- ⛴ **Landeyjahöfn** — 35.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7870.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Eldey gisting** — 21.2 km — hotel
+- **Hotel Vestmannaeyjar** — 22.6 km — hotel
+- **Westman Islands Inn** — 22.7 km — hotel
+- **The New Post Office Hotel** — 22.7 km — hotel
+- **Vulcano View Guest House** — 39.1 km — hotel — Vulcano View Guest House
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

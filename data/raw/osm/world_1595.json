@@ -1,0 +1,97 @@
+{
+ "hotels": [
+  {
+   "name": "ROK Hotel Kingston, Tapestry Collection by Hilton",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.9643417,
+   "lon": -76.7926384,
+   "distance_km": 6.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Courtyard by Marriott Kingston, Jamaica",
+   "name_en": null,
+   "stars": null,
+   "brand": "Courtyard",
+   "lat": 18.0038894,
+   "lon": -76.7901438,
+   "distance_km": 9.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Four Seasons",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.0079689,
+   "lon": -76.7943657,
+   "distance_km": 9.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Kingston Hilton Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 18.0049378,
+   "lon": -76.7872505,
+   "distance_km": 9.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "AC Marriott Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Marriott",
+   "lat": 18.0084581,
+   "lon": -76.7785094,
+   "distance_km": 10.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 41,
+ "stations": [
+  {
+   "name": "Old Bog Walk Railway Station",
+   "name_en": null,
+   "lat": 18.1009443,
+   "lon": -77.0068524,
+   "distance_km": 25.2,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Port Royal Cruise Ship Port",
+   "name_en": null,
+   "lat": 17.9411362,
+   "lon": -76.8363318,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Errol Flynn Marina",
+   "name_en": null,
+   "lat": 18.1807194,
+   "lon": -76.4534096,
+   "distance_km": 49.1,
+   "operator": null
+  },
+  {
+   "name": "Ken Wright Cruise Ship Pier",
+   "name_en": null,
+   "lat": 18.1826419,
+   "lon": -76.4537355,
+   "distance_km": 49.2,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:55Z"
+}

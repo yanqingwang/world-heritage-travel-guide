@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(viii)"
 lat: 46.6319
 lon: -53.1903
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:46Z"
 ---
 
 # 迷斯塔肯角 / Mistaken Point

@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 44.6
 lon: -110.5
-updated_at: "2026-11-08T11:24:46Z"
+updated_at: "2026-11-08T12:02:09Z"
 ---
 
 # 黄石国家公园 / Yellowstone National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:46Z"
 
 *Grand Prismatic Spring 2013.jpg · see Wikimedia Commons file page*
 
-![Yellowstone National Park](https://whc.unesco.org/uploads/sites/site_28.jpg)
+![1923 map of the Oregon Short Line Railroad (system index map) (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1923_map_of_the_Oregon_Short_Line_Railroad_%28system_index_map%29_%28cropped%29.jpg/1280px-1923_map_of_the_Oregon_Short_Line_Railroad_%28system_index_map%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Yellowstone National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*1923 map of the Oregon Short Line Railroad (system index map) (cropped).jpg · Interstate Commerce Commission. Bureau of Valuation, Engineering Section. 1910? · Public domain*
+
+![Alta, Yellowstone National Park.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a4/Alta%2C_Yellowstone_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Alta, Yellowstone National Park.jpg · Cmhealy · CC BY-SA 4.0*
+
+![Artistic.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Artistic.jpg/1280px-Artistic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Artistic.jpg · Aps1708 · CC BY-SA 4.0*
+
+![Assignment- 48-DPA-8-09-07 SOI K Yellow) Views of Yellowstone National Park, Wyoming, (taken during) visit by Secretary Dirk Kempthorne (and aides) (48-DPA-8-09-07 SOI K Yellow IOD - DPLA - 4cc697202774b0683c01163b3a50a167.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Assignment-_48-DPA-8-09-07_SOI_K_Yellow%29_Views_of_Yellowstone_National_Park%2C_Wyoming%2C_%28taken_during%29_visit_by_Secretary_Dirk_Kempthorne_%28and_aides%29_%2848-DPA-8-09-07_SOI_K_Yellow_IOD_-_DPLA_-_4cc697202774b0683c01163b3a50a167.JPG/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Assignment- 48-DPA-8-09-07 SOI K Yellow) Views of Yellowstone National Park, Wyoming, (taken during) visit by Secretary Dirk Kempthorne (and aides) (48-DPA-8-09-07 SOI K Yellow IOD - DPLA - 4cc697202774b0683c01163b3a50a167.JPG · Department of the Interior. National Business Center. Administrative Operations Directorate. Division of Employee and Pu · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ The vast natural forest of Yellowstone National Park covers nearly 9,000 km 2 ; 
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Best Western Desert Inn** — 47.9 km — chain — Best Western
+- **Best Western Weston Inn** — 48.0 km — chain — Best Western
+- **Holiday Inn - West Yellowstone** — 48.3 km — chain — Holiday Inn
+- **Lake Yellowstone Hotel** — 9.7 km — hotel
+- **Lake Lodge** — 9.7 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

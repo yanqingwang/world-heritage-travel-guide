@@ -1,0 +1,104 @@
+{
+ "hotels": [
+  {
+   "name": "Ibiza Gran Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.9171555,
+   "lon": 1.4416705,
+   "distance_km": 7.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ocean Drive Talamanca",
+   "name_en": null,
+   "stars": 5,
+   "brand": "OD Hotels",
+   "lat": 38.9184012,
+   "lon": 1.4623095,
+   "distance_km": 7.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gran Hotel Montesol Ibiza, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 38.9099708,
+   "lon": 1.4346581,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Standard Ibiza",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 38.910249,
+   "lon": 1.4338393,
+   "distance_km": 7.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Insotel Fenicia Prestige Suites & SPA",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 38.97899,
+   "lon": 1.52801,
+   "distance_km": 8.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 318,
+ "stations": [],
+ "ferry_terminals": [
+  {
+   "name": "Eivissa",
+   "name_en": null,
+   "lat": 38.9141502,
+   "lon": 1.4412832,
+   "distance_km": 7.4,
+   "operator": null
+  },
+  {
+   "name": "Estació Marìtima de Formentera",
+   "name_en": null,
+   "lat": 38.9124347,
+   "lon": 1.4352466,
+   "distance_km": 7.5,
+   "operator": null
+  },
+  {
+   "name": "Marina Ibiza",
+   "name_en": null,
+   "lat": 38.913459,
+   "lon": 1.4421136,
+   "distance_km": 7.5,
+   "operator": null
+  },
+  {
+   "name": "Marina Botafoc",
+   "name_en": null,
+   "lat": 38.9114036,
+   "lon": 1.4495558,
+   "distance_km": 7.8,
+   "operator": null
+  },
+  {
+   "name": "Estación Marítima Ibiza-Botafoc",
+   "name_en": null,
+   "lat": 38.9087377,
+   "lon": 1.4516863,
+   "distance_km": 8.1,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:55Z"
+}

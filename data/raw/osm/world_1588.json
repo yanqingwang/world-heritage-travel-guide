@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Serenity Bagan Resort",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 21.0954309,
+   "lon": 94.8587155,
+   "distance_km": 8.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Cherry Bagan Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 21.0841887,
+   "lon": 94.86104,
+   "distance_km": 9.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Myanmar Han Hotel",
+   "name_en": "Myanmar Han Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 21.1332034,
+   "lon": 94.9485411,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "မြန်မာဟန်ဟိုတယ်",
+   "name_en": "Myanmar Han Hotel",
+   "stars": 3,
+   "brand": null,
+   "lat": 21.1331026,
+   "lon": 94.9486371,
+   "distance_km": 10.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "We Stay @ Bagan Lotus Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 21.1197144,
+   "lon": 94.9595229,
+   "distance_km": 11.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 132,
+ "stations": [
+  {
+   "name": "Kyun Chaung Station",
+   "name_en": null,
+   "lat": 21.1988366,
+   "lon": 94.8099313,
+   "distance_km": 6.0,
+   "operator": null
+  },
+  {
+   "name": "Tant Kyi Station",
+   "name_en": null,
+   "lat": 21.1491142,
+   "lon": 94.7993956,
+   "distance_km": 6.8,
+   "operator": "Myanmar Railway"
+  },
+  {
+   "name": "ပုဂံဘူတာ",
+   "name_en": "Bagan Station",
+   "lat": 21.1544348,
+   "lon": 94.9352244,
+   "distance_km": 8.1,
+   "operator": null
+  },
+  {
+   "name": "Myitche",
+   "name_en": null,
+   "lat": 21.2521126,
+   "lon": 94.8433195,
+   "distance_km": 9.0,
+   "operator": null
+  },
+  {
+   "name": "ပုလင်းဘူတာ",
+   "name_en": "Pu Lin Station",
+   "lat": 21.2141963,
+   "lon": 94.9903974,
+   "distance_km": 14.3,
+   "operator": null
+  },
+  {
+   "name": "ဒေါသာဘူတာ",
+   "name_en": null,
+   "lat": 21.0454359,
+   "lon": 94.7476486,
+   "distance_km": 18.3,
+   "operator": null
+  },
+  {
+   "name": "သစ်ထောင့်ဘူတာ",
+   "name_en": "Thit Htaunt Station",
+   "lat": 21.2476975,
+   "lon": 95.0434139,
+   "distance_km": 20.8,
+   "operator": null
+  },
+  {
+   "name": "တောင်ဇင်းဘူတာ",
+   "name_en": "Taung Zinn Station",
+   "lat": 21.0293543,
+   "lon": 95.0017767,
+   "distance_km": 21.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Pandaw Orient mooring",
+   "name_en": "Pandaw Orient mooring",
+   "lat": 21.1789571,
+   "lon": 94.8598838,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Irrawaddy Princess 2 Jetty",
+   "name_en": null,
+   "lat": 21.1813808,
+   "lon": 94.8624231,
+   "distance_km": 1.0,
+   "operator": null
+  },
+  {
+   "name": "Road to Mandalay Jetty",
+   "name_en": null,
+   "lat": 21.1828689,
+   "lon": 94.8652951,
+   "distance_km": 1.3,
+   "operator": null
+  },
+  {
+   "name": "Fantasia Garden Jetty",
+   "name_en": null,
+   "lat": 21.1839683,
+   "lon": 94.8677672,
+   "distance_km": 1.5,
+   "operator": null
+  },
+  {
+   "name": "လက်ပံချောင်းမော်တော်ဆိပ်",
+   "name_en": null,
+   "lat": 21.1589404,
+   "lon": 94.8060409,
+   "distance_km": 5.8,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:53Z"
+}

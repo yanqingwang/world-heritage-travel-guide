@@ -2,7 +2,7 @@
 id: "cn-778"
 dataset: "china_5a"
 name_zh: "晋中市平遥古城景区"
-name_en: "Pingyao"
+name_en: "Jinzhongshipingyaogucheng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanxi"
 city_en: "Jinzhong"
 lat: 37.217329
 lon: 112.188122
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 晋中市平遥古城景区 / Pingyao
+# 晋中市平遥古城景区 / Jinzhongshipingyaogucheng Scenic Area
 
 > 山西省 · 晋中市 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-07T22:58:14Z"
 
 ### English
 
-Pingyao, officially Pingyao Ancient City, is a walled city in central Shanxi, China, famed for its importance in Chinese economic history and for its well-preserved Ming and Qing urban planning and architecture. It is the only walled city seat in China to survive with both its historic street plan and its original building fabric substantially intact. The greater part of the city's courtyard dwellings, shopfronts and temples are ancient structures surviving in situ rather than modern reconstructions. Administratively, it comprises the town of Gutao in Pingyao County, Jinzhong. The town was founded in the 14th century AD and has been the seat of local government since at least the Qin. By the 16th century, it was a regional financial hub; it had been the financial centre of the Qing Empire in the late 19th century. Pingyao Ancient City is located in Pingyao County, Shanxi Province. The ancient city was built during the reign of King Xuan of Zhou (827-782 BC) and has a history of more than 2800 years. In and around the ancient city there are 1,075 registered immovable cultural relics, 143 of which are designated protection units at the national, provincial, municipal, or county level
+Pingyao Ancient City is located in Pingyao County in central Shanxi Province. It was included in the World Cultural Heritage List in 1997. The ancient city of Pingyao is an outstanding example of Chinese Han ethnic cities in the Ming and Qing Dynasties. In the development of Chinese history, it shows people a complete picture of cultural, social, economic and religious development.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Pingyao, officially Pingyao Ancient City, is a walled city in central Shanxi, Ch
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/平遥古城)
 - [OpenStreetMap](https://www.openstreetmap.org/)

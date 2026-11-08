@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "فندق العائلة المقدسة",
+   "name_en": "Holy Family Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 31.7056967,
+   "lon": 35.2051383,
+   "distance_km": 45.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dead Sea Spa Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 31.7139805,
+   "lon": 35.5866667,
+   "distance_km": 49.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wadi Mujib Chalets",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 31.4702538,
+   "lon": 35.568775,
+   "distance_km": 26.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crowne Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.7068514,
+   "lon": 35.5839231,
+   "distance_km": 48.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kempinski Hotel Ishtar Dead Sea",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.7151484,
+   "lon": 35.5859504,
+   "distance_km": 49.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 85,
+ "stations": [
+  {
+   "name": "דימונה",
+   "name_en": "Dimona",
+   "lat": 31.0689229,
+   "lon": 35.0118331,
+   "distance_km": 42.6,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T12:01:23Z"
+}

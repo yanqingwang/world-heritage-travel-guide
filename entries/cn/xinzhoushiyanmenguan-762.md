@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Xinzhou"
 lat: 39.197762
 lon: 112.8724
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 忻州市雁门关景区 / Yanmen Pass

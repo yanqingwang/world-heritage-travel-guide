@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(iv)"
 lat: 51.771111111
 lon: -10.540555555
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:31Z"
 ---
 
 # 斯凯利格•迈克尔岛 / Sceilg Mhichíl
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Skellig Michael03(js).jpg · see Wikimedia Commons file page*
 
-![Sceilg Mhichíl](https://whc.unesco.org/uploads/sites/site_757.jpg)
+![080Skellig Michael.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/080Skellig_Michael.JPG/1280px-080Skellig_Michael.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Sceilg Mhichíl · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*080Skellig Michael.JPG · Jibi44 · CC BY 2.5*
+
+![600 steps ascending to top of Skellig Michael - June 2018 13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/600_steps_ascending_to_top_of_Skellig_Michael_-_June_2018_13.jpg/1280px-600_steps_ascending_to_top_of_Skellig_Michael_-_June_2018_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*600 steps ascending to top of Skellig Michael - June 2018 13.jpg · Stinglehammer · CC BY-SA 4.0*
+
+![A view of Little Skellig - geograph.org.uk - 4191039.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/A_view_of_Little_Skellig_-_geograph.org.uk_-_4191039.jpg/1280px-A_view_of_Little_Skellig_-_geograph.org.uk_-_4191039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A view of Little Skellig - geograph.org.uk - 4191039.jpg · Hywel Williams · CC BY-SA 2.0*
+
+![Abstraction on cliff (8045740720).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Abstraction_on_cliff_%288045740720%29.jpg/1280px-Abstraction_on_cliff_%288045740720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Abstraction on cliff (8045740720).jpg · psyberartist · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,18 @@ Sceilg Mhichíl is an outstanding, and in many respects unique, example of an ea
 - ✈ **Kerry Airport (KIR)** — 83.2 km
 - ✈ **Cork International Airport (ORK)** — 141.1 km
 - ✈ **Shannon Airport (SNN)** — 151.1 km
+- ⛴ **Valentia Island Car Ferry** — 24.5 km
+- ⛴ **Dunquin Harbour** — 39.6 km
+- ⛴ **Castletownbere Ferry Slipway** — 45.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8515.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Butler Arms** — 26.1 km — star — 4★
+- **Parknasilla Resort & Spa** — 46.1 km — star — 4★
+- **Beara Coast Hotel** — 45.5 km — star — 3★
+- **The Royal Valentia** — 24.5 km — hotel
+- **Ring of Kerry Hotel** — 28.1 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

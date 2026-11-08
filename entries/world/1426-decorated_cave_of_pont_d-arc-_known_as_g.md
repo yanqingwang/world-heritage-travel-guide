@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(i)(iii)"
 lat: 44.3881219
 lon: 4.4161408
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:44Z"
 ---
 
 # 肖维岩洞 / Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Rhinocéros grotte Chauvet.jpg · see Wikimedia Commons file page*
 
-![Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche](https://whc.unesco.org/uploads/sites/site_1426.jpg)
+![Caverne du Pont d Arc P1010132mod.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Caverne_du_Pont_d_Arc_P1010132mod.jpg/1280px-Caverne_du_Pont_d_Arc_P1010132mod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Caverne du Pont d Arc P1010132mod.jpg · JYB Devot · CC BY-SA 4.0*
+
+![Caverne du Pont d Arc P1010144mod.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Caverne_du_Pont_d_Arc_P1010144mod.jpg/1280px-Caverne_du_Pont_d_Arc_P1010144mod.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Caverne du Pont d Arc P1010144mod.jpg · JYB Devot · CC BY-SA 4.0*
+
+![Chauvet Teverga 31.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Chauvet_Teverga_31.jpg/1280px-Chauvet_Teverga_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chauvet Teverga 31.jpg · Nachosan · CC BY-SA 3.0*
+
+![Chauvet Teverga 32.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chauvet_Teverga_32.jpg/1280px-Chauvet_Teverga_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Chauvet Teverga 32.jpg · Nachosan · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,21 @@ Située dans un plateau calcaire traversé par les méandres de la rivière Ard�
 - ✈ **Avignon Caumont airport (AVN)** — 66.0 km
 - ✈ **Nîmes-Arles-Camargue Airport (FNI)** — 70.1 km
 - ✈ **Le Puy-Loudes Airfield (LPY)** — 92.7 km
+- 🚉 **Pierrelatte** — 22.9 km
+- 🚉 **Pont-Saint-Esprit** — 23.5 km
+- 🚉 **Le Teil** — 28.2 km
+- 🚉 **Bagnols-sur-Cèze** — 30.3 km
+- 🚉 **Montélimar** — 32.3 km
+- ⛴ **Halte Fluviale** — 46.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8444.8 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Château de Montcaud** — 27.0 km — star — 5★
+- **Villa Augusta** — 28.2 km — star — 4★
+- **Ibis Styles Montélimar Centre** — 33.1 km — star — 4★ · Ibis Styles
+- **Château de Rochegude** — 36.3 km — star — 4★
+- **La Ferme Chapouton** — 38.8 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

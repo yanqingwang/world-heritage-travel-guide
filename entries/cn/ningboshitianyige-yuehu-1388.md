@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Ningbo City"
 lat: 29.877347
 lon: 121.54465
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 宁波市天一阁•月湖景区 / Tianyi Ge

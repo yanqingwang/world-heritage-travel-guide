@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(i)(ii)(iv)(v)"
 lat: 42.776667256122444
 lon: 11.998449920510204
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:38Z"
 ---
 
 # 晚期的巴洛克城镇瓦拉迪那托（西西里东南部） / Late Baroque Towns of the Val di Noto (South-Eastern Sicily)

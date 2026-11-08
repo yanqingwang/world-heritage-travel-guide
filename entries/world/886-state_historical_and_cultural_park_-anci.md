@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iii)"
 lat: 37.662777777
 lon: 62.1925
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:35Z"
 ---
 
 # 梅尔夫历史与文化公园 / State Historical and Cultural Park “Ancient Merv”
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Merv City Walls (10) (44747325714).jpg · see Wikimedia Commons file page*
 
-![State Historical and Cultural Park “Ancient Merv”](https://whc.unesco.org/uploads/sites/site_886.jpg)
+![Cyark merv 1.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0d/Cyark_merv_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*State Historical and Cultural Park “Ancient Merv” · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Cyark merv 1.jpg · CyArk · CC BY-SA 3.0*
+
+![Domed Adobe Structures Surrounded by an Adobe Wall.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Domed_Adobe_Structures_Surrounded_by_an_Adobe_Wall.pdf/page1-1280px-Domed_Adobe_Structures_Surrounded_by_an_Adobe_Wall.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Domed Adobe Structures Surrounded by an Adobe Wall.pdf · Sergey Prokudin-Gorsky · Public domain*
+
+![Flag of the Khanate of Merv.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Khanate_of_Merv.svg/1280px-Flag_of_the_Khanate_of_Merv.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Flag of the Khanate of Merv.svg · Dekodrak · CC BY-SA 4.0*
+
+![Gandkhar Buddha, Merv, 5th C. (32322568068).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Gandkhar_Buddha%2C_Merv%2C_5th_C._%2832322568068%29.jpg/1280px-Gandkhar_Buddha%2C_Merv%2C_5th_C._%2832322568068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Gandkhar Buddha, Merv, 5th C. (32322568068).jpg · Hans Birger Nilsen · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ Merv is the oldest and best-preserved of the oasis-cities along the Silk Route i
 - ✈ **Mary International Airport (MYP)** — 26.5 km
 - ✈ **Türkmenabat International Airport (CRZ)** — 184.9 km
 - ✈ **Mashhad International Airport (MHD)** — 276.6 km
+- 🚉 **Gurbangala** — 14.3 km
+- 🚉 **Rzd. No 64** — 15.1 km
+- 🚉 **Mollanepes** — 23.5 km
+- 🚉 **Semenik** — 27.3 km
+- 🚉 **Talhatanbaba** — 29.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4668.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hotel Sanjar** — 32.3 km — star — Hotel Sanjar · 2★
+- **Marguş Oteli** — 31.0 km — hotel — Margush Hotel
+- **Mary Oteli** — 31.5 km — hotel — Hotel Mary
+- **Myhmanhana** — 32.3 km — hotel
+- **Yrsgal** — 32.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iii)(v)"
 lat: 32.926111111
 lon: 35.083888888
-updated_at: "2026-11-08T11:24:53Z"
+updated_at: "2026-11-08T12:02:38Z"
 ---
 
 # 阿克古城 / Old City of Acre
@@ -52,11 +52,22 @@ Acre is a historic walled port-city with continuous settlement from the Phoenici
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 13.4 km
 - ✈ **Ben Gurion International Airport (TLV)** — 103.4 km
 - ✈ **Beirut Rafic Hariri International Airport (BEY)** — 106.2 km
+- 🚉 **עכו** — 0.2 km
+- 🚉 **אחיהוד** — 8.5 km
+- 🚉 **נהריה** — 8.9 km
+- 🚉 **קרית מוצקין** — 10.4 km
+- 🚉 **קרית חיים** — 11.4 km
+- ⛴ **Haifa-Akko Ferry** — 1.5 km
+- ⛴ **dfh** — 12.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7080.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **מלון כינורות** — 44.2 km — star — Kinorot Hotel · 5★
+- **פרנק** — 9.2 km — star — Frank · 3★
+- **Bar-On Holiday Home** — 9.2 km — chain — Bar-On Holiday Home
+- **ארגמן** — 1.0 km — hotel — Argaman
+- **מלון עכוטל** — 1.1 km — hotel — Akkotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

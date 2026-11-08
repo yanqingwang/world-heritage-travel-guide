@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hawta Palace Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 15.9046454,
+   "lon": 48.6851759,
+   "distance_km": 6.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Shibam hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9256495,
+   "lon": 48.6282937,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bmc Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9266758,
+   "lon": 48.7317118,
+   "distance_km": 11.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Alnkheel Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9482108,
+   "lon": 48.7751595,
+   "distance_km": 16.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "فندق وادي النخيل (Palms valley hotel)",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 15.9512944,
+   "lon": 48.7769338,
+   "distance_km": 16.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 31,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:36Z"
+}

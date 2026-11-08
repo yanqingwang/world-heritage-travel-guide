@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Khahawar Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5486174,
+   "lon": 68.210472,
+   "distance_km": 25.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sambara Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5504178,
+   "lon": 68.2045952,
+   "distance_km": 25.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Husnain Hotel Larakna",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5502533,
+   "lon": 68.2182284,
+   "distance_km": 25.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Paris Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5519657,
+   "lon": 68.2127143,
+   "distance_km": 25.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Green Palace Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5521417,
+   "lon": 68.2134171,
+   "distance_km": 25.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 8,
+ "stations": [
+  {
+   "name": "Mohenjo-daro",
+   "name_en": "Mohenjo-daro",
+   "lat": 27.3797386,
+   "lon": 68.0719038,
+   "distance_km": 8.7,
+   "operator": null
+  },
+  {
+   "name": "بخش جتوئی",
+   "name_en": "Bakhsh Jatoi",
+   "lat": 27.4099608,
+   "lon": 68.0972879,
+   "distance_km": 9.9,
+   "operator": null
+  },
+  {
+   "name": "باڈہ",
+   "name_en": "Badah",
+   "lat": 27.3289448,
+   "lon": 68.0286756,
+   "distance_km": 10.9,
+   "operator": null
+  },
+  {
+   "name": "Haider Bakhsh Jatoi",
+   "name_en": "Haider Bakhsh Jatoi",
+   "lat": 27.4361885,
+   "lon": 68.1196456,
+   "distance_km": 12.1,
+   "operator": null
+  },
+  {
+   "name": "باکرانی روڈ",
+   "name_en": "Bakrani Road",
+   "lat": 27.4580032,
+   "lon": 68.1380424,
+   "distance_km": 14.3,
+   "operator": null
+  },
+  {
+   "name": "سحر",
+   "name_en": "Sihar",
+   "lat": 27.2459721,
+   "lon": 67.987785,
+   "distance_km": 17.6,
+   "operator": null
+  },
+  {
+   "name": "مشوری شریف",
+   "name_en": "Mashori Sharif",
+   "lat": 27.4881088,
+   "lon": 68.1635215,
+   "distance_km": 17.8,
+   "operator": null
+  },
+  {
+   "name": "رادھن",
+   "name_en": "Radhan",
+   "lat": 27.1763698,
+   "lon": 67.9542257,
+   "distance_km": 24.9,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:16Z"
+}

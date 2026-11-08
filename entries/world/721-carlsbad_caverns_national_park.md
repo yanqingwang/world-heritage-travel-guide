@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(viii)"
 lat: 32.175277777
 lon: -104.443888888
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:31Z"
 ---
 
 # 卡尔斯巴德洞穴国家公园 / Carlsbad Caverns National Park
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Carlsbad Interior Formations.jpg · see Wikimedia Commons file page*
 
-![Carlsbad Caverns National Park](https://whc.unesco.org/uploads/sites/site_721.jpg)
+![Delaware Basin map.PNG](https://upload.wikimedia.org/wikipedia/commons/d/da/Delaware_Basin_map.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Carlsbad Caverns National Park · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Delaware Basin map.PNG · National Park Service · Public domain*
+
+![Calcite (GeoDIL number - 700).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Calcite_%28GeoDIL_number_-_700%29.jpg/1280px-Calcite_%28GeoDIL_number_-_700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Calcite (GeoDIL number - 700).jpg · Darla Sondrol · CC0*
+
+![Carlsbad Caverns National Park - New Mexico - USA - 5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Carlsbad_Caverns_National_Park_-_New_Mexico_-_USA_-_5.jpg/1280px-Carlsbad_Caverns_National_Park_-_New_Mexico_-_USA_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Carlsbad Caverns National Park - New Mexico - USA - 5.jpg · Wctr2019 · CC BY-SA 4.0*
+
+![Carlsbad Caverns National Park and White's City, New Mexico, USA - 48344714941.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Carlsbad_Caverns_National_Park_and_White%27s_City%2C_New_Mexico%2C_USA_-_48344714941.jpg/1280px-Carlsbad_Caverns_National_Park_and_White%27s_City%2C_New_Mexico%2C_USA_-_48344714941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Carlsbad Caverns National Park and White's City, New Mexico, USA - 48344714941.jpg · Jirka Matousek · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +62,11 @@ This karst landscape in the state of New Mexico comprises over 80 recognized cav
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hyatt House** — 29.5 km — chain — Hyatt House
+- **Home2 Suites by Hilton Carlsbad** — 30.9 km — chain — Home2 Suites
+- **Hampton Inn and Suites** — 32.1 km — chain — Hampton Inn & Suites
+- **Best Western** — 32.1 km — chain — Best Western
+- **Best Western Stevens Inn** — 32.6 km — chain — Best Western
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

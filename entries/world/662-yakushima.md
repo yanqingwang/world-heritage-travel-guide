@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(vii)(ix)"
 lat: 30.358611111
 lon: 130.528611111
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:29Z"
 ---
 
 # 屋久岛 / Yakushima
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:50Z"
 
 *Yakushima from Ferry Amami 20121116.jpg · see Wikimedia Commons file page*
 
-![Yakushima](https://whc.unesco.org/uploads/sites/site_662.jpg)
+![Blue ceramic box in Yakushima, Japan 2015 (22676700144).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Blue_ceramic_box_in_Yakushima%2C_Japan_2015_%2822676700144%29.jpg/1280px-Blue_ceramic_box_in_Yakushima%2C_Japan_2015_%2822676700144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Yakushima · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Blue ceramic box in Yakushima, Japan 2015 (22676700144).jpg · jillllybean · CC BY-SA 2.0*
+
+![ISS065-E-1079 - View of Earth.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/ISS065-E-1079_-_View_of_Earth.jpg/1280px-ISS065-E-1079_-_View_of_Earth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ISS065-E-1079 - View of Earth.jpg · Earth Science and Remote Sensing Unit , Lyndon B. Johnson Space Center · Public domain*
+
+![Japan 2015 (22676973214).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Japan_2015_%2822676973214%29.jpg/1280px-Japan_2015_%2822676973214%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Japan 2015 (22676973214).jpg · jillllybean · CC BY-SA 2.0*
+
+![Japan 2015 (22676989634).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Japan_2015_%2822676989634%29.jpg/1280px-Japan_2015_%2822676989634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Japan 2015 (22676989634).jpg · jillllybean · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Located in the interior of Yaku Island, at the meeting-point of the palaearctic 
 - ✈ **Yakushima Airport (KUM)** — 12.9 km
 - ✈ **New Tanegashima Airport (TNE)** — 52.1 km
 - ✈ **Kagoshima Airport (KOJ)** — 161.7 km
+- ⛴ **宮之浦** — 9.2 km
+- ⛴ **屋久島** — 9.2 km
+- ⛴ **宮之浦港フェリーターミナル** — 9.2 km
+- ⛴ **安房港** — 13.3 km
+- ⛴ **トッピーターミナル** — 13.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1668.4 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Yaedake Sanso Lodge** — 6.8 km — hotel — Yaedake Sanso Lodge
+- **Tashiro Bekkan** — 7.6 km — hotel — Tashiro Bekkan
+- **Yakushimaya** — 8.9 km — hotel — Yakushimaya
+- **THE HOTEL YAKUSHIMA OCEAN ＆ FOREST** — 9.1 km — hotel — THE HOTEL YAKUSHIMA OCEAN ＆ FOREST
+- **Soyotei** — 10.7 km — hotel — Soyotei
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

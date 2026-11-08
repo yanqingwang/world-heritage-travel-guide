@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)(iv)"
 lat: 26.924722222
 lon: 75.825
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:41Z"
 ---
 
 # 简塔•曼塔天文台 / The Jantar Mantar, Jaipur
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:54Z"
 
 *Astronomical Instrument.jpg · see Wikimedia Commons file page*
 
-![The Jantar Mantar, Jaipur](https://whc.unesco.org/uploads/sites/site_1338.jpg)
+![20191218 Jantar Mantar, Jaipur 0908 8989.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/20191218_Jantar_Mantar%2C_Jaipur_0908_8989.jpg/1280px-20191218_Jantar_Mantar%2C_Jaipur_0908_8989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*The Jantar Mantar, Jaipur · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*20191218 Jantar Mantar, Jaipur 0908 8989.jpg · Jakub Hałun · CC BY-SA 4.0*
+
+![A section of Jantar Mantar.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/A_section_of_Jantar_Mantar.jpg/1280px-A_section_of_Jantar_Mantar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A section of Jantar Mantar.jpg · Vabinik · CC BY-SA 4.0*
+
+![A tree at Jantar Mantar (Jaipur, Rajasthan) 2012 (01).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/A_tree_at_Jantar_Mantar_%28Jaipur%2C_Rajasthan%29_2012_%2801%29.jpg/1280px-A_tree_at_Jantar_Mantar_%28Jaipur%2C_Rajasthan%29_2012_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A tree at Jantar Mantar (Jaipur, Rajasthan) 2012 (01).jpg · Guptaele · CC BY-SA 4.0*
+
+![A tree at Jantar Mantar (Jaipur, Rajasthan) 2012.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/A_tree_at_Jantar_Mantar_%28Jaipur%2C_Rajasthan%29_2012.jpg/1280px-A_tree_at_Jantar_Mantar_%28Jaipur%2C_Rajasthan%29_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A tree at Jantar Mantar (Jaipur, Rajasthan) 2012.jpg · Guptaele · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,20 @@ The Jantar Mantar, in Jaipur, is an astronomical observation site built in the e
 - ✈ **Jaipur International Airport (JAI)** — 11.2 km
 - ✈ **Kishangarh Airport Ajmer (KQH)** — 107.1 km
 - ✈ **Agra Airport / Agra Air Force Station (AGR)** — 213.1 km
+- 🚉 **Jaipur Junction** — 3.8 km
+- 🚉 **Bais Godam** — 4.3 km
+- 🚉 **Dahar-Ka-Balaji** — 6.2 km
+- 🚉 **Gandhi Nagar Jaipur** — 6.3 km
+- 🚉 **Durgapura** — 8.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4017.9 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Shahpura House** — 3.7 km — star — 5★
+- **Trident Hotel , Jaipur** — 4.0 km — star — 5★ · Trident Hotels
+- **Hilton Jaipur** — 4.9 km — star — 5★ · Hilton
+- **The Oberoi  Rajvilas** — 7.9 km — star — 5★
+- **Royal orchid** — 9.4 km — star — 5★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

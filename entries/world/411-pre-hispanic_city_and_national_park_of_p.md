@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 17.484166666
 lon: -92.046388888
-updated_at: "2026-11-08T11:24:48Z"
+updated_at: "2026-11-08T12:02:23Z"
 ---
 
 # 帕伦克古城和国家公园 / Pre-Hispanic City and National Park of Palenque
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:48Z"
 
 *055 Palenque Pakal Maji (29).JPG · see Wikimedia Commons file page*
 
-![Pre-Hispanic City and National Park of Palenque](https://whc.unesco.org/uploads/sites/site_411.jpg)
+![-EnVivoAhora - Masiosare- ¿Mundial de las élites? (17-06-2026).webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/-EnVivoAhora_-_Masiosare-_%C2%BFMundial_de_las_%C3%A9lites%3F_%2817-06-2026%29.webm/1280px---EnVivoAhora_-_Masiosare-_%C2%BFMundial_de_las_%C3%A9lites%3F_%2817-06-2026%29.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
 
-*Pre-Hispanic City and National Park of Palenque · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*-EnVivoAhora - Masiosare- ¿Mundial de las élites? (17-06-2026).webm · Canal22 · CC BY 4.0*
+
+![Ancestras Capítulo 5- La Reina Roja de Palenque.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ancestras_Cap%C3%ADtulo_5-_La_Reina_Roja_de_Palenque.webm/1280px--Ancestras_Cap%C3%ADtulo_5-_La_Reina_Roja_de_Palenque.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
+
+*Ancestras Capítulo 5- La Reina Roja de Palenque.webm · Canal22 · CC BY 4.0*
+
+![Archaeological Palenque by ovedc 007.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Archaeological_Palenque_by_ovedc_007.jpg/1280px-Archaeological_Palenque_by_ovedc_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archaeological Palenque by ovedc 007.jpg · Ovedc · CC BY-SA 4.0*
+
+![Archaeological Palenque by ovedc 011.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Archaeological_Palenque_by_ovedc_011.jpg/1280px-Archaeological_Palenque_by_ovedc_011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archaeological Palenque by ovedc 011.jpg · Ovedc · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,19 @@ Ejemplo eminente de santuario maya de la época clásica, Palenque alcanzó su a
 - ✈ **Carlos Rovirosa Pérez International Airport (VSA)** — 99.5 km
 - ✈ **Ciudad del Carmen International Airport (CME)** — 132.4 km
 - ✈ **Angel Albino Corzo International Airport (TGZ)** — 146.2 km
+- 🚉 **Estación Salto de Agua** — 32.8 km
+- ⛴ **paso a Avispero- Pochote** — 41.6 km
+- ⛴ **paso a Avispero-Pochote** — 41.7 km
+- ⛴ **PASO A POCHOTE** — 44.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12875.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Maya Palenque** — 6.6 km — star — 3★
+- **Mayabell** — 1.0 km — hotel
+- **El Panchan** — 2.4 km — hotel
+- **Hotel Chan-Kah** — 3.2 km — hotel
+- **Hotel Villa Mercedes Palenque** — 3.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

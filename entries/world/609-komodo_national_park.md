@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(x)"
 lat: -8.651625
 lon: 119.576569
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:28Z"
 ---
 
 # 科莫多国家公园 / Komodo National Park

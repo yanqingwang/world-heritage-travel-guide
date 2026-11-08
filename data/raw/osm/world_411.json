@@ -1,0 +1,97 @@
+{
+ "hotels": [
+  {
+   "name": "Maya Palenque",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 17.5087491,
+   "lon": -91.989343,
+   "distance_km": 6.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mayabell",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4877402,
+   "lon": -92.0378118,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "El Panchan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4914893,
+   "lon": -92.0248911,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Chan-Kah",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4930758,
+   "lon": -92.01813,
+   "distance_km": 3.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Villa Mercedes Palenque",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 17.4980922,
+   "lon": -92.0171378,
+   "distance_km": 3.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 44,
+ "stations": [
+  {
+   "name": "Estación Salto de Agua",
+   "name_en": null,
+   "lat": 17.5570717,
+   "lon": -92.3457474,
+   "distance_km": 32.8,
+   "operator": "Ferroistmo"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "paso a Avispero- Pochote",
+   "name_en": null,
+   "lat": 17.7453526,
+   "lon": -91.7651813,
+   "distance_km": 41.6,
+   "operator": null
+  },
+  {
+   "name": "paso a Avispero-Pochote",
+   "name_en": null,
+   "lat": 17.7457439,
+   "lon": -91.7639198,
+   "distance_km": 41.7,
+   "operator": "Turismo"
+  },
+  {
+   "name": "PASO A POCHOTE",
+   "name_en": null,
+   "lat": 17.7579574,
+   "lon": -91.741785,
+   "distance_km": 44.4,
+   "operator": "COOPERATIVA DE LANCHEROS"
+  }
+ ],
+ "fetched_at": "2026-11-08T11:59:51Z"
+}

@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Longyan"
 lat: 25.22922
 lon: 116.830373
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 龙岩市古田旅游区 / Longyan

@@ -1,0 +1,41 @@
+{
+ "hotels": [
+  {
+   "name": "Valhalla Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 51.5418469,
+   "lon": -55.4745299,
+   "distance_km": 7.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Quirpon Lighthouse Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Linkum Tours",
+   "lat": 51.6399985,
+   "lon": -55.4269653,
+   "distance_km": 8.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grenfell Heritage Hotel & Suites",
+   "name_en": "Grenfell Heritage Hotel & Suites",
+   "stars": null,
+   "brand": null,
+   "lat": 51.3639769,
+   "lon": -55.5873908,
+   "distance_km": 26.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 3,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:26Z"
+}

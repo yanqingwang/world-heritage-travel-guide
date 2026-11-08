@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)(vi)"
 lat: 41.841389
 lon: 12.5325
-updated_at: "2026-11-08T11:24:57Z"
+updated_at: "2026-11-08T12:02:50Z"
 ---
 
 # 阿庇亚道：道路女王 / Via Appia. Regina Viarum
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:57Z"
 
 *Appian Way.jpg · see Wikimedia Commons file page*
 
-![Via Appia. <em>Regina Viarum</em>](https://whc.unesco.org/uploads/sites/site_1708.jpg)
+![Appia Antica.jpg](https://upload.wikimedia.org/wikipedia/commons/b/ba/Appia_Antica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Via Appia. <em>Regina Viarum</em> · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Appia Antica.jpg · Dario Scatola · CC0*
+
+![Appia Tomba Romolo.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ed/Appia_Tomba_Romolo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Appia Tomba Romolo.jpg · Sciavicco · CC BY-SA 4.0*
+
+![Appian Way Archaeological Park, Mondragone - 54813793566.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Appian_Way_Archaeological_Park%2C_Mondragone_-_54813793566.jpg/1280px-Appian_Way_Archaeological_Park%2C_Mondragone_-_54813793566.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Appian Way Archaeological Park, Mondragone - 54813793566.jpg · Tery14 · CC BY-SA 4.0*
+
+![Appian Way Archaeological Park, Mondragone - 54814054163.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Appian_Way_Archaeological_Park%2C_Mondragone_-_54814054163.jpg/1280px-Appian_Way_Archaeological_Park%2C_Mondragone_-_54814054163.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Appian Way Archaeological Park, Mondragone - 54814054163.jpg · Tery14 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,25 @@ La via Appia era una strada romana che collegava Roma a Capua. Fu poi prolungata
 - ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 7.0 km
 - ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 23.6 km
 - ✈ **Perugia San Francesco d'Assisi – Umbria International Airport (PEG)** — 139.5 km
+- 🚉 **Capannelle** — 3.2 km
+- 🚉 **Roma Tuscolana** — 4.3 km
+- 🚉 **Roma Prenestina** — 6.4 km
+- 🚉 **Serenissima** — 6.8 km
+- 🚉 **Ciampino** — 6.9 km
+- ⛴ **Isola Tiberina** — 7.2 km
+- ⛴ **Ponte Cavour** — 8.5 km
+- ⛴ **Sant'Angelo** — 8.6 km
+- ⛴ **Ponte Risorgimento** — 10.1 km
+- ⛴ **Anguillara Sabazia** — 35.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8124.7 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Hyatt Regency Rome Central** — 6.5 km — star — 5★ · Hyatt
+- **Roma Luxus Hotel** — 7.1 km — star — 5★
+- **NH Collection Hotels Roma Palazzo Cinquecento** — 7.3 km — star — 5★ · NH Collection Hotels
+- **Hotel La Griffe** — 7.4 km — star — 5★
+- **Thompson Hotel** — 7.4 km — star — 5★ · Hyatt
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

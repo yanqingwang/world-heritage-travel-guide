@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(ix)(x)"
 lat: 37.02
 lon: -6.44
-updated_at: "2026-11-08T11:24:50Z"
+updated_at: "2026-11-08T12:02:30Z"
 ---
 
 # 多南那国家公园 / Doñana National Park

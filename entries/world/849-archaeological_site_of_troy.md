@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iii)(vi)"
 lat: 39.9575
 lon: 26.238888888
-updated_at: "2026-11-08T11:24:51Z"
+updated_at: "2026-11-08T12:02:34Z"
 ---
 
 # 特洛伊考古遗址 / Archaeological Site of Troy
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:51Z"
 
 *Walls of Troy (2).jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Troy](https://whc.unesco.org/uploads/sites/site_849.jpg)
+![A view from Troy Ancient City, Çanakkale, Turkey.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/A_view_from_Troy_Ancient_City%2C_%C3%87anakkale%2C_Turkey.jpg/1280px-A_view_from_Troy_Ancient_City%2C_%C3%87anakkale%2C_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Troy · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A view from Troy Ancient City, Çanakkale, Turkey.jpg · Kadı · CC BY-SA 4.0*
+
+![Alessandro Cesati, called Il Grechetto, Troy with Galleys in Harbor (reverse), NGA 44982.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Alessandro_Cesati%2C_called_Il_Grechetto%2C_Troy_with_Galleys_in_Harbor_%28reverse%29%2C_NGA_44982.jpg/1280px-Alessandro_Cesati%2C_called_Il_Grechetto%2C_Troy_with_Galleys_in_Harbor_%28reverse%29%2C_NGA_44982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alessandro Cesati, called Il Grechetto, Troy with Galleys in Harbor (reverse), NGA 44982.jpg · Alessandro Cesati, called Il Grechetto · CC0*
+
+![Archaeological Museum of the University of Münster - showcase "The Cultural History of Anatolia III" 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Archaeological_Museum_of_the_University_of_M%C3%BCnster_-_showcase_%22The_Cultural_History_of_Anatolia_III%22_03.jpg/1280px-Archaeological_Museum_of_the_University_of_M%C3%BCnster_-_showcase_%22The_Cultural_History_of_Anatolia_III%22_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Archaeological Museum of the University of Münster - showcase "The Cultural History of Anatolia III" 03.jpg · Marsupium · CC BY 4.0*
+
+![Başsız kadın Haykell.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ba%C5%9Fs%C4%B1z_kad%C4%B1n_Haykell.jpg/1280px-Ba%C5%9Fs%C4%B1z_kad%C4%B1n_Haykell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Başsız kadın Haykell.jpg · Abdul Rahman Abdul Kudus · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,20 @@ Troya veya Truva (Yunanca: Τροία Troia veya Ίλιον İlion, Latince: Tro
 - ✈ **Çanakkale Airport (CKZ)** — 25.6 km
 - ✈ **Balıkesir Koca Seyit Airport (EDO)** — 79.8 km
 - ✈ **Limnos Airport (LXS)** — 85.6 km
+- ⛴ **Akçansa Limanı** — 11.4 km
+- ⛴ **Geyikli Feribot İskelesi** — 16.7 km
+- ⛴ **Bozcaada Feribot İskelesi** — 19.6 km
+- ⛴ **Gestaş Bozcaada Feribot İskelesi** — 19.7 km
+- ⛴ **Poyraz Limanı** — 20.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7292.1 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **DoubleTree by Hilton Canakkale** — 23.8 km — star — 5★ · DoubleTree by Hilton
+- **Anemos Otel** — 42.1 km — star — 5★
+- **Çınarlı Kasrı** — 31.8 km — star — 4★
+- **Hisarlik Hotel** — 0.8 km — hotel
+- **Tusan Hotel Spa** — 11.9 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

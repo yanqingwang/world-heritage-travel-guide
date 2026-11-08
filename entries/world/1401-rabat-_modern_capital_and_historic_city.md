@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ii)(iv)"
 lat: 34.021111111
 lon: -6.841388888
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:43Z"
 ---
 
 # 拉巴特 / Rabat, Modern Capital and Historic City: a Shared Heritage
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Kasbah des Oudaias P1060356.JPG · see Wikimedia Commons file page*
 
-![Rabat, Modern Capital and Historic City: a Shared Heritage](https://whc.unesco.org/uploads/sites/site_1401.jpg)
+![04032012-Filé sur Remparts (6805783042).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/04032012-Fil%C3%A9_sur_Remparts_%286805783042%29.jpg/1280px-04032012-Fil%C3%A9_sur_Remparts_%286805783042%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rabat, Modern Capital and Historic City: a Shared Heritage · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*04032012-Filé sur Remparts (6805783042).jpg · WiLPrZ from Rabat, Maroc · CC BY-SA 2.0*
+
+![1910, Morocco, Georges SCHMITT.webp](https://upload.wikimedia.org/wikipedia/commons/c/c8/1910%2C_Morocco%2C_Georges_SCHMITT.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1910, Morocco, Georges SCHMITT.webp · Georges SCHMITT · Public domain*
+
+![2016-08 Morocco Artwork (28915734840).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2016-08_Morocco_Artwork_%2828915734840%29.jpg/1280px-2016-08_Morocco_Artwork_%2828915734840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016-08 Morocco Artwork (28915734840).jpg · Senator Chris Coons · Public domain*
+
+![2016-08 Morocco Artwork 2 (28915737200).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2016-08_Morocco_Artwork_2_%2828915737200%29.jpg/1280px-2016-08_Morocco_Artwork_2_%2828915737200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016-08 Morocco Artwork 2 (28915737200).jpg · Senator Chris Coons · Public domain*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,22 @@ Located on the Atlantic coast in the north-west of Morocco, the site is the prod
 - ✈ **Rabat-Salé Airport (RBA)** — 8.9 km
 - ✈ **Mohammed V International Airport (CMN)** — 100.4 km
 - ✈ **Fes Saïss International Airport (FEZ)** — 172.1 km
+- 🚉 **Gare Rabat Agdal** — 2.7 km
+- 🚉 **Gare Rabat Riad محطة الرباط الرياض** — 7.4 km
+- 🚉 **Gare Skhirat** — 26.0 km
+- 🚉 **Kénitra** — 35.0 km
+- 🚉 **Kenitra Medina** — 37.0 km
+- ⛴ **Port de pêche de Salé** — 2.2 km
+- ⛴ **Medha** — 33.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9930.3 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Riad L'Alcazar** — 0.7 km — star — 5★
+- **STORY Rabat Boutique Hôtel & Spa** — 8.9 km — star — 5★
+- **Conrad Rabat Arzana** — 19.8 km — star — 5★ · Hilton
+- **Amphitrite Palace** — 26.1 km — star — 5★
+- **Helnan Chellah** — 1.2 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

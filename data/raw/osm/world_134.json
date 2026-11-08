@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Holiday Inn Express Klamath",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 41.5295815,
+   "lon": -124.0393945,
+   "distance_km": 17.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Best Western Plus Northwoods Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western Plus",
+   "lat": 41.7510628,
+   "lon": -124.1817002,
+   "distance_km": 44.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Holiday Inn Express Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 40.9683209,
+   "lon": -124.110653,
+   "distance_km": 46.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Historic Requa Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.5471324,
+   "lon": -124.0647621,
+   "distance_km": 20.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Lost Whale Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 41.1228176,
+   "lon": -124.1568166,
+   "distance_km": 30.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 12,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:58:11Z"
+}

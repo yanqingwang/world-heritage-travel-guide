@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Luoyang"
 lat: 34.978651
 lon: 112.022649
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 洛阳市龙潭大峡谷景区 / Longtan Grand Canyon

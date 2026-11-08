@@ -2,7 +2,7 @@
 id: "cn-563"
 dataset: "china_5a"
 name_zh: "昆明市石林风景区"
-name_en: "Shilin Scenic Area"
+name_en: "Kunmingshishilinfeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Yunnan"
 city_en: "Kunming"
 lat: 24.817625
 lon: 103.330054
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
-# 昆明市石林风景区 / Shilin Scenic Area
+# 昆明市石林风景区 / Kunmingshishilinfeng Scenic Area
 
 > 云南省 · 昆明市 · 地质奇观
 
@@ -80,5 +80,4 @@ The karst landform area in the scenic area reaches more than 1,100 square kilome
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/石林)
 - [OpenStreetMap](https://www.openstreetmap.org/)

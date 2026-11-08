@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Huanggang City"
 lat: 31.118494
 lon: 115.234961
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 黄冈市麻城龟峰山景区 / Huanggangshimachengguifengshan Scenic Area

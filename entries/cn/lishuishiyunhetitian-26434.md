@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Lishui City"
 lat: 28.055656
 lon: 119.492894
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 丽水市云和梯田景区 / Yunhetitian Scenic Area

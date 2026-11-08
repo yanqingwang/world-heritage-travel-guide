@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Tangshan"
 lat: 39.605971
 lon: 118.168681
-updated_at: "2026-11-07T22:58:13Z"
+updated_at: "2026-11-08T12:02:05Z"
 ---
 
 # 唐山市南湖·开滦旅游景区 / Tangshan

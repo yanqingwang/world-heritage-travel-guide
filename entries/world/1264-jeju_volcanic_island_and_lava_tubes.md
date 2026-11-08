@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(vii)(viii)"
 lat: 33.36138889
 lon: 126.5325
-updated_at: "2026-11-08T11:24:54Z"
+updated_at: "2026-11-08T12:02:40Z"
 ---
 
 # 济州火山岛和熔岩洞 / Jeju Volcanic Island and Lava Tubes

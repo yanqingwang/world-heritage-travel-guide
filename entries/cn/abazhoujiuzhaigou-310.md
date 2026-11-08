@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 33.163223
 lon: 103.921224
-updated_at: "2026-11-07T22:58:15Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 阿坝州九寨沟景区 / Jiuzhaigou

@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "The Castle Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.0154912,
+   "lon": -3.1037355,
+   "distance_km": 35.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Blorenge House Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 51.0195163,
+   "lon": -3.1092883,
+   "distance_km": 35.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Portland Spa Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.5286968,
+   "lon": -2.4524539,
+   "distance_km": 42.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Yardley Manor Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 50.4623949,
+   "lon": -3.5192086,
+   "distance_km": 46.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Shrubbery",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 50.9285457,
+   "lon": -2.917993,
+   "distance_km": 25.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 283,
+ "stations": [
+  {
+   "name": "Much Natter",
+   "name_en": null,
+   "lat": 50.6976224,
+   "lon": -3.1007729,
+   "distance_km": 7.9,
+   "operator": null
+  },
+  {
+   "name": "Axminster",
+   "name_en": null,
+   "lat": 50.7790074,
+   "lon": -3.0049453,
+   "distance_km": 8.2,
+   "operator": "South Western Railway"
+  },
+  {
+   "name": "Honiton",
+   "name_en": null,
+   "lat": 50.7967287,
+   "lon": -3.1869232,
+   "distance_km": 17.2,
+   "operator": "South Western Railway"
+  },
+  {
+   "name": "Feniton",
+   "name_en": null,
+   "lat": 50.78662,
+   "lon": -3.2854607,
+   "distance_km": 22.7,
+   "operator": "South Western Railway"
+  },
+  {
+   "name": "Crewkerne",
+   "name_en": null,
+   "lat": 50.8736126,
+   "lon": -2.7784902,
+   "distance_km": 23.9,
+   "operator": "South Western Railway"
+  },
+  {
+   "name": "Whimple",
+   "name_en": null,
+   "lat": 50.7679282,
+   "lon": -3.3542794,
+   "distance_km": 26.6,
+   "operator": "South Western Railway"
+  },
+  {
+   "name": "Maiden Newton",
+   "name_en": null,
+   "lat": 50.7802255,
+   "lon": -2.569663,
+   "distance_km": 30.7,
+   "operator": "Great Western Railway"
+  },
+  {
+   "name": "Cranbrook",
+   "name_en": null,
+   "lat": 50.7500196,
+   "lon": -3.4209803,
+   "distance_km": 30.7,
+   "operator": "South Western Railway"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "West Bay Harbour",
+   "name_en": null,
+   "lat": 50.7088212,
+   "lon": -2.7634665,
+   "distance_km": 15.9,
+   "operator": null
+  },
+  {
+   "name": "Starcross Ferry",
+   "name_en": null,
+   "lat": 50.616836,
+   "lon": -3.4242321,
+   "distance_km": 32.2,
+   "operator": null
+  },
+  {
+   "name": "Stuart Line Cruises",
+   "name_en": null,
+   "lat": 50.61637,
+   "lon": -3.4238375,
+   "distance_km": 32.2,
+   "operator": null
+  },
+  {
+   "name": "Starcross",
+   "name_en": null,
+   "lat": 50.6268604,
+   "lon": -3.4453789,
+   "distance_km": 33.3,
+   "operator": null
+  },
+  {
+   "name": "Cockwood Harbour",
+   "name_en": null,
+   "lat": 50.6177574,
+   "lon": -3.4481485,
+   "distance_km": 33.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-08T12:01:25Z"
+}

@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Zhenjiang"
 lat: 31.792289
 lon: 119.300208
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 镇江市茅山景区 / Maoshan

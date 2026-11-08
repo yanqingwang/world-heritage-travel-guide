@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iv)(vi)"
 lat: 25.136797222
 lon: 85.443827777
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:46Z"
 ---
 
 # 那烂陀寺考古遗址（那烂陀大学），比哈尔邦那烂陀 / Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Nalanda The Great Stupa.jpg · see Wikimedia Commons file page*
 
-![Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar](https://whc.unesco.org/uploads/sites/site_1502.jpg)
+![A panoramic view of Nalanda (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/A_panoramic_view_of_Nalanda_%28cropped%29.jpg/1280px-A_panoramic_view_of_Nalanda_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*A panoramic view of Nalanda (cropped).jpg · Srijitakundan · CC BY-SA 4.0*
+
+![A panoramic view of Nalanda.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/A_panoramic_view_of_Nalanda.jpg/1280px-A_panoramic_view_of_Nalanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A panoramic view of Nalanda.jpg · Srijitakundan · CC BY-SA 4.0*
+
+![A view of Nalanda.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/A_view_of_Nalanda.jpg/1280px-A_view_of_Nalanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A view of Nalanda.jpg · Kinshuk Sunil · CC BY 2.0*
+
+![Ancient Indian Knowledge 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Ancient_Indian_Knowledge_4.jpg/1280px-Ancient_Indian_Knowledge_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Ancient Indian Knowledge 4.jpg · Aditya9955 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,11 +58,17 @@ The Nalanda Mahavihara site is in the State of Bihar, in north-eastern India. It
 - ✈ **Jay Prakash Narayan Airport (PAT)** — 61.9 km
 - ✈ **Gaya Airport (GAY)** — 66.1 km
 - ✈ **Darbhanga Airport (DBR)** — 126.6 km
+- 🚉 **Nalanda** — 2.5 km
+- 🚉 **Silao** — 5.9 km
+- 🚉 **Pawapuri Road** — 7.3 km
+- 🚉 **Karahdih** — 7.4 km
+- 🚉 **Rajgir** — 11.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3329.5 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Gokhool Hotel** — 46.6 km — hotel
+- **Hotel Rajgrih and Restaurant** — 46.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

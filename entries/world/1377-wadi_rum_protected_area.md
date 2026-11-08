@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(v)(vii)"
 lat: 29.5765
 lon: 35.419927777
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:43Z"
 ---
 
 # 瓦迪拉姆保护区 / Wadi Rum Protected Area
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Wadi Rum in December.jpg · see Wikimedia Commons file page*
 
-![Wadi Rum Protected Area](https://whc.unesco.org/uploads/sites/site_1377.jpg)
+!["Desert of asphalt" (12465228594).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%22Desert_of_asphalt%22_%2812465228594%29.jpg/1280px-%22Desert_of_asphalt%22_%2812465228594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Wadi Rum Protected Area · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Desert of asphalt" (12465228594).jpg · Jorge Láscar from Australia · CC BY 2.0*
+
+![2019 Israel Jordanien 0744 Wadi Rum - Red Sand Dune.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2019_Israel_Jordanien_0744_Wadi_Rum_-_Red_Sand_Dune.JPG/1280px-2019_Israel_Jordanien_0744_Wadi_Rum_-_Red_Sand_Dune.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2019 Israel Jordanien 0744 Wadi Rum - Red Sand Dune.JPG · Steffen 962 · CC BY-SA 4.0*
+
+![28 Wadi Rum (115) (13250449813).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/28_Wadi_Rum_%28115%29_%2813250449813%29.jpg/1280px-28_Wadi_Rum_%28115%29_%2813250449813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*28 Wadi Rum (115) (13250449813).jpg · xorge · CC BY-SA 2.0*
+
+![28 Wadi Rum (119) (13250645684).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/28_Wadi_Rum_%28119%29_%2813250645684%29.jpg/1280px-28_Wadi_Rum_%28119%29_%2813250645684%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*28 Wadi Rum (119) (13250645684).jpg · xorge · CC BY-SA 2.0*
 
 ## 简介 / Introduction
 
@@ -52,11 +64,23 @@ The 74,000-hectare property, inscribed as a mixed natural and cultural site, is 
 - ✈ **King Hussein International Airport (AQJ)** — 39.0 km
 - ✈ **Ramon International Airport (ETM)** — 42.6 km
 - ✈ **Taba International Airport (TCP)** — 62.3 km
+- 🚉 **Wadi Rum** — 13.9 km
+- 🚉 **محطة الديسة** — 14.6 km
+- 🚉 **العقبة** — 39.2 km
+- 🚉 **رأس النقب** — 47.9 km
+- ⛴ **الميناء** — 41.6 km
+- ⛴ **Aqaba Ferry Terminal** — 44.8 km
+- ⛴ **From Jordan to Egypt. (Aqaba Nuwaibee, 50JD, 3hours, taxi from center 5JD max)** — 44.9 km
+- ⛴ **Aqaba** — 44.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7276.2 km**
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **DoubleTree by Hilton Hotel Aqaba** — 40.6 km — star — 5★ · DoubleTree by Hilton
+- **InterContinental Aqaba (Resort Aqaba)** — 41.4 km — star — 5★
+- **Hyatt Regency Aqaba Ayla** — 41.7 km — star — 5★ · Hyatt Regency
+- **فندق مارينا بلازا** — 46.3 km — star — Marina Plaza · 4★
+- **Grand Swiss-Belresort Beach Tala Bay** — 46.4 km — star — 4★
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

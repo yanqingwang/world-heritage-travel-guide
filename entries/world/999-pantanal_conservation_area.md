@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(vii)(ix)(x)"
 lat: -14.969457346999999
 lon: -45.92604658995
-updated_at: "2026-11-08T11:24:52Z"
+updated_at: "2026-11-08T12:02:37Z"
 ---
 
 # 潘塔奈尔保护区 / Pantanal Conservation Area

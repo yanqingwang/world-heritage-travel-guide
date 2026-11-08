@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 33.74695630819231
 lon: 51.33943194923077
-updated_at: "2026-11-08T11:24:57Z"
+updated_at: "2026-11-08T12:02:50Z"
 ---
 
 # 阿拉穆特城堡及相关防御工事 / Alamūt Castle and Related Fortifications

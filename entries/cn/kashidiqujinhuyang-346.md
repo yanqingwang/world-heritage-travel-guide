@@ -13,7 +13,7 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 38.035954
 lon: 76.987903
-updated_at: "2026-11-07T22:58:14Z"
+updated_at: "2026-11-08T12:02:06Z"
 ---
 
 # 喀什地区金湖杨景区 / Kashidiqujinhuyang Scenic Area

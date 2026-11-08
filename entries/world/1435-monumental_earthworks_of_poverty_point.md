@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iii)"
 lat: 32.6367
 lon: -91.4114
-updated_at: "2026-11-08T11:24:55Z"
+updated_at: "2026-11-08T12:02:45Z"
 ---
 
 # 波弗蒂角纪念土丘 / Monumental Earthworks of Poverty Point
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T11:24:55Z"
 
 *Mound A at Poverty Point.jpg · see Wikimedia Commons file page*
 
-![Monumental Earthworks of Poverty Point](https://whc.unesco.org/uploads/sites/site_1435.jpg)
+![Barrow pit at Poverty Point IMG 7422.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Barrow_pit_at_Poverty_Point_IMG_7422.JPG/1280px-Barrow_pit_at_Poverty_Point_IMG_7422.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Monumental Earthworks of Poverty Point · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Barrow pit at Poverty Point IMG 7422.JPG · Billy Hathorn · CC BY 3.0*
+
+![Bayou Maçon.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Bayou_Ma%C3%A7on.jpg/1280px-Bayou_Ma%C3%A7on.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bayou Maçon.jpg · Jennifer R. Trotter · CC BY-SA 4.0*
+
+![Bird Mound at Poverty Point.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bird_Mound_at_Poverty_Point.jpg/1280px-Bird_Mound_at_Poverty_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Bird Mound at Poverty Point.jpg · Bart Everson · CC BY 2.0*
+
+![Circular structures at Poverty Point IMG 7433.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Circular_structures_at_Poverty_Point_IMG_7433.JPG/1280px-Circular_structures_at_Poverty_Point_IMG_7433.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Circular structures at Poverty Point IMG 7433.JPG · Billy Hathorn · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,7 @@ Monumental Earthworks of Poverty Point owes its name to a 19th-century plantatio
 
 ## 附近酒店 / Nearby hotels
 
-- 暂无 / none
+- **Days Inn** — 33.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

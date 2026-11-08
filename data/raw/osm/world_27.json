@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Holiday Inn Express Mesa Verde-Cortez",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Express",
+   "lat": 37.3484374,
+   "lon": -108.5585223,
+   "distance_km": 11.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hampton Inn Mesa Verde / Cortez",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hampton",
+   "lat": 37.3492705,
+   "lon": -108.5564304,
+   "distance_km": 11.3,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Days Inn by Wyndham Cortez",
+   "name_en": null,
+   "stars": null,
+   "brand": "Days Inn",
+   "lat": 37.3547686,
+   "lon": -108.5520031,
+   "distance_km": 11.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "BEST WESTERN Turquoise Inn & Suites",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 37.3482795,
+   "lon": -108.5775215,
+   "distance_km": 12.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Far View Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.2592482,
+   "lon": -108.4939807,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 13,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-08T11:57:32Z"
+}
