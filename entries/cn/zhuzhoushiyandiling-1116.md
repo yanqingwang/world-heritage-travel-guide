@@ -2,7 +2,7 @@
 id: "cn-1116"
 dataset: "china_5a"
 name_zh: "株洲市炎帝陵景区"
-name_en: "Zhuzhoushiyandiling Scenic Area"
+name_en: "Yandiling Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Zhuzhou City"
 lat: 26.414436
 lon: 113.679206
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 株洲市炎帝陵景区 / Zhuzhoushiyandiling Scenic Area
+# 株洲市炎帝陵景区 / Yandiling Scenic Area
 
 > 湖南省 · 株洲市 · 历史遗址
 
@@ -54,4 +54,5 @@ The Yandi Mausoleum area covers an area of ​​about 5 square kilometers. It i
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/炎帝陵)
 - [OpenStreetMap](https://www.openstreetmap.org/)

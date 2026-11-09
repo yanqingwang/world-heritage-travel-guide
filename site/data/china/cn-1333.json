@@ -37,7 +37,8 @@
     "lat": 47.865942,
     "lon": 122.768662,
     "type": "medium_airport",
-    "distance_km": 107.6
+    "distance_km": 107.6,
+    "name_zh": "扎兰屯成吉思汗机场"
    },
    {
     "name": "Arxan Yi'ershi Airport",
@@ -47,7 +48,8 @@
     "lat": 47.3106,
     "lon": 119.9117,
     "type": "medium_airport",
-    "distance_km": 115.7
+    "distance_km": 115.7,
+    "name_zh": "阿尔山伊尔施机场"
    },
    {
     "name": "Ulanhot Yilelite Airport",
@@ -57,7 +59,8 @@
     "lat": 46.195333,
     "lon": 122.008333,
     "type": "small_airport",
-    "distance_km": 157.2
+    "distance_km": 157.2,
+    "name_zh": "乌兰浩特机场"
    }
   ],
   "nearest_airport_km": 107.6,
@@ -118,5 +121,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

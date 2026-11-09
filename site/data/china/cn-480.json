@@ -24,48 +24,7 @@
  "intro_zh": "昆明市昆明世博园景区是1999昆明世界园艺博览会会址，园区占地面积约218公顷，集全国各省、区、市地方特色和95个国家风格的园林园艺品、庭院建筑和科技成就于一园，体现了“人与自然，和谐发展”的时代主题。",
  "intro_en": "The World Horti-Expo Garden is a botanical garden center in Kunming, China. It played host to the October 1999 Kunming International Horticulture Exposition. As an international botanical garden, the Expo Garden has become a significant Kunming landmark. The World Horti-Expo Garden covers an area of 218 hectares and consists of 5 indoor exhibition halls (China Hall, the Man and Nature Hall, the Green House, the Science and Technology Hall, and the International Hall), 6 theme gardens (the Tree Garden, the Tea Garden, the Bonsai Garden, the Medicinal Herb Garden, the Bamboo Garden, and the Vegetable and Fruit Garden) and 34 outdoor gardens of domestic participants, 34 outdoor gardens for foreign countries and international organizational and 9 outdoor exhibition area for the enterprise participants. The World Horti-Expo Garden was designed to be in \"perfect harmony\" with the surrounding mountains, waters and forest, showing that it originates from and return to the nature. It has hosted a large collection of horticultural and gardening works from different Chinese provinces and municipalities, and also from all over the world.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%E4%BA%94%E5%8D%8E%E5%8C%BA%E4%B8%8E%E7%9B%98%E9%BE%99%E5%8C%BA%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-05-16_03.jpg/1280px-%E4%BA%94%E5%8D%8E%E5%8C%BA%E4%B8%8E%E7%9B%98%E9%BE%99%E5%8C%BA%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-05-16_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "五华区与盘龙区天际线 - 航拍 - 2025-05-16 03.jpg",
-   "author": "瑞丽江的河水",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:五华区与盘龙区天际线_-_航拍_-_2025-05-16_03.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/20260222_Hongqiao_Interchange_from_Kunming_rail_transit.jpg/1280px-20260222_Hongqiao_Interchange_from_Kunming_rail_transit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260222 Hongqiao Interchange from Kunming rail transit.jpg",
-   "author": "Ngguls",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260222_Hongqiao_Interchange_from_Kunming_rail_transit.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20260222_Hongqiao_Road_from_Kunming_rail_transit.jpg/1280px-20260222_Hongqiao_Road_from_Kunming_rail_transit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260222 Hongqiao Road from Kunming rail transit.jpg",
-   "author": "Ngguls",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260222_Hongqiao_Road_from_Kunming_rail_transit.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kunming-location-MAP-in-Yunnan-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Kunming-location-MAP-in-Yunnan-Province-China.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Kunming-location-MAP-in-Yunnan-Province-China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Kunming_Railway_Station_20250811_185613.jpg/1280px-Kunming_Railway_Station_20250811_185613.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Kunming Railway Station 20250811 185613.jpg",
-   "author": "Zhangzhugang",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Kunming_Railway_Station_20250811_185613.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.kmexpoarea.com/",
  "booking": "http://www.kmexpoarea.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 25.110313,
     "lon": 102.936743,
     "type": "large_airport",
-    "distance_km": 17.2
+    "distance_km": 17.2,
+    "name_zh": "昆明长水国际机场"
    },
    {
     "name": "Panzhihua Bao'anying Airport",
@@ -88,7 +48,8 @@
     "lat": 26.54,
     "lon": 101.79852,
     "type": "medium_airport",
-    "distance_km": 189.1
+    "distance_km": 189.1,
+    "name_zh": "攀枝花保安营机场"
    },
    {
     "name": "Xingyi Wanfenglin Airport",
@@ -98,7 +59,8 @@
     "lat": 25.083423,
     "lon": 104.960804,
     "type": "medium_airport",
-    "distance_km": 220.7
+    "distance_km": 220.7,
+    "name_zh": "兴义机场"
    }
   ],
   "nearest_airport_km": 17.2,
@@ -234,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

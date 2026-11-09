@@ -37,7 +37,8 @@
     "lat": 36.078889,
     "lon": 106.216944,
     "type": "medium_airport",
-    "distance_km": 86.8
+    "distance_km": 86.8,
+    "name_zh": "固原六盘山机场"
    },
    {
     "name": "Tianshui Maijishan Airport",
@@ -47,7 +48,8 @@
     "lat": 34.5601,
     "lon": 105.860343,
     "type": "medium_airport",
-    "distance_km": 99.8
+    "distance_km": 99.8,
+    "name_zh": "天水麦积山机场"
    },
    {
     "name": "Qingyang Xifeng Airport",
@@ -57,7 +59,8 @@
     "lat": 35.802638,
     "lon": 107.598896,
     "type": "medium_airport",
-    "distance_km": 179.8
+    "distance_km": 179.8,
+    "name_zh": "庆阳机场"
    }
   ],
   "nearest_airport_km": 86.8,
@@ -142,5 +145,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

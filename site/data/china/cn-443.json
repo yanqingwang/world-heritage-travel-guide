@@ -10,7 +10,7 @@
  "city_zh": "苏州市",
  "city_en": "Suzhou",
  "name_zh": "苏州市沙家浜-虞山尚湖旅游区",
- "name_en": "Suzhoushishajiabang-yushanshanghu Tourist Area",
+ "name_en": "Yushanlinchang Tourist Area",
  "name_en_source": "pinyin",
  "slug": "suzhoushishajiabangyushanshanghu-443",
  "lat": 31.67434,
@@ -24,48 +24,7 @@
  "intro_zh": "虞山是国家森林公园，是中国吴文化的重要发源地。尚湖与虞山相依，湖内湿地遍布，鹭鸟翔飞。沙家浜以京剧《沙家浜》而闻名，形成了革命传统教育区、红石民俗文化村、横泾老街、湿地公园等景点，以红色教育游、绿色生态游、金色美食游、影视文化游为特色。",
  "intro_en": "Yushan is a national forest park and an important birthplace of Wu culture in China. Shanghu Lake and Yushan Mountain depend on each other. There are wetlands all over the lake and herons are flying around. Shajiabang is famous for the Peking Opera \"Shajiabang\" and has formed revolutionary traditional education area, Hongshi Folk Culture Village, Hengjing Old Street, Wetland Park and other attractions, featuring red educational tours, green ecological tours, golden food tours, and film and television cultural tours.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg/1280px-%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "东方之门1.jpg",
-   "author": "铁头娃蛤蛤",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:东方之门1.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Autumn_1980_in_Suzhou_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Autumn 1980 in Suzhou 01.jpg",
-   "author": "Szilas",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Autumn_1980_in_Suzhou_01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Jinji_Lake_Suzhou_November_2017_001.jpg/1280px-Jinji_Lake_Suzhou_November_2017_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jinji Lake Suzhou November 2017 001.jpg",
-   "author": "King of Hearts",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinji_Lake_Suzhou_November_2017_001.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Jinji_Lake_Suzhou_November_2017_002.jpg/1280px-Jinji_Lake_Suzhou_November_2017_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jinji Lake Suzhou November 2017 002.jpg",
-   "author": "King of Hearts",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinji_Lake_Suzhou_November_2017_002.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_41.jpg/1280px-Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Lingering Garden, Suzhou, China (2015) - 41.jpg",
-   "author": "Another Believer",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Lingering_Garden,_Suzhou,_China_(2015)_-_41.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 34.8
+    "distance_km": 34.8,
+    "name_zh": "无锡硕放机场"
    },
    {
     "name": "Nantong Xingdong International Airport",
@@ -88,7 +48,8 @@
     "lat": 32.073566,
     "lon": 120.980076,
     "type": "medium_airport",
-    "distance_km": 50.2
+    "distance_km": 50.2,
+    "name_zh": "南通兴东国际机场"
    },
    {
     "name": "Shanghai Hongqiao International Airport",
@@ -98,7 +59,8 @@
     "lat": 31.198104,
     "lon": 121.33426,
     "type": "large_airport",
-    "distance_km": 77.9
+    "distance_km": 77.9,
+    "name_zh": "上海虹桥国际机场"
    }
   ],
   "nearest_airport_km": 34.8,
@@ -253,9 +215,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/虞山林场"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

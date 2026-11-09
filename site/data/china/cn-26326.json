@@ -78,7 +78,8 @@
     "lat": 26.260556,
     "lon": 105.873333,
     "type": "medium_airport",
-    "distance_km": 57.2
+    "distance_km": 57.2,
+    "name_zh": "黄果树机场"
    },
    {
     "name": "Bijie Feixiong Airport",
@@ -88,7 +89,8 @@
     "lat": 27.267066,
     "lon": 105.472097,
     "type": "medium_airport",
-    "distance_km": 69.8
+    "distance_km": 69.8,
+    "name_zh": "毕节飞雄机场"
    },
    {
     "name": "Guiyang Longdongbao International Airport",
@@ -98,7 +100,8 @@
     "lat": 26.541805,
     "lon": 106.80402,
     "type": "large_airport",
-    "distance_km": 92.7
+    "distance_km": 92.7,
+    "name_zh": "贵阳龙洞堡国际机场"
    }
   ],
   "nearest_airport_km": 57.2,
@@ -135,17 +138,6 @@
  },
  "hotels": [
   {
-   "name": "水西假日酒店",
-   "name_en": "Shuixi Holiday Inn",
-   "stars": null,
-   "brand": null,
-   "lat": 27.016465,
-   "lon": 106.0349874,
-   "distance_km": 29.7,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "黔西大酒店",
    "name_en": null,
    "stars": null,
@@ -154,6 +146,17 @@
    "lon": 106.0386552,
    "distance_km": 29.5,
    "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "水西假日酒店",
+   "name_en": "Shuixi Holiday Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 27.016465,
+   "lon": 106.0349874,
+   "distance_km": 29.7,
+   "kind": "chain",
    "source": "OpenStreetMap"
   }
  ],
@@ -201,5 +204,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

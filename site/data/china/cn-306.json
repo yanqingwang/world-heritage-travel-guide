@@ -24,48 +24,7 @@
  "intro_zh": "黄龙，这颗闪烁在四川松潘的高原明珠，以其妩媚秀丽，清新柔美 ，含蓄空灵，一尘不染的清流彩池，使你享受牧歌式的大自然情趣，以及宁静的、田园诗般的轻松。在景点核心处还设有观景台，结构精巧，古朴典雅，各具特色。黄龙栈道宛若一条狂放而又幽柔、洒脱而又缱绻的主线，将彩池、飞瀑、流滩串联起来，形成了一个有声有色有意蕴的“人间瑶池”。",
  "intro_en": "The Stone Forest or Shilin (Chinese: 石林; pinyin: Shílín) is a notable set of limestone formations about 500 km2 in area located in Shilin Yi Autonomous County, Yunnan, China. The forest is approximately 90 km (56 mi) east of the provincial capital Kunming. The tall rocks appear to rise from the ground in a manner somewhat reminiscent of stalagmites, with many looking like petrified trees, thereby creating the illusion of a forest made of stone. Since 2007, two parts of the site, the Naigu Stone Forest (乃古石林) and Suogeyi Village (所各邑村), have been UNESCO World Heritage Sites as part of the South China Karst. The site is classified as a AAAAA-class tourist site.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Water-of-Five-colored-Pond Huanglong Sichuan China.jpg",
-   "author": "Kounosu",
-   "license": "CC BY-SA 3.0",
-   "credit": "Self-photographed",
-   "source": "https://commons.wikimedia.org/wiki/File:Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/1_huanglong_pools_aerial_2011.jpg/1280px-1_huanglong_pools_aerial_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "1 huanglong pools aerial 2011.jpg",
-   "author": "chensiyuan",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:1_huanglong_pools_aerial_2011.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg/1280px-Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Huanglong Sichuan China Doppelmayr-Ropeway-01.jpg",
-   "author": "CEphoto, Uwe Aranas",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Huanglong_Sichuan_China_Multicolored-ponds-02.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Huanglong Sichuan China Multicolored-ponds-02.jpg",
-   "author": "CEphoto, Uwe Aranas",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Huanglong_Sichuan_China_Multicolored-ponds-02.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Huanglong_Sichuan_Tourist-Cabin-01.jpg/1280px-Huanglong_Sichuan_Tourist-Cabin-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Huanglong Sichuan Tourist-Cabin-01.jpg",
-   "author": "CEphoto, Uwe Aranas",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Huanglong_Sichuan_Tourist-Cabin-01.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.abatour.com/",
  "booking": "http://c.abatour.com/booking/#/ticketBooking?iscenicid=1",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 32.853333,
     "lon": 103.682222,
     "type": "medium_airport",
-    "distance_km": 18.7
+    "distance_km": 18.7,
+    "name_zh": "九寨黄龙机场"
    },
    {
     "name": "Mianyang Nanjiao Airport",
@@ -88,7 +48,8 @@
     "lat": 31.428101,
     "lon": 104.740997,
     "type": "medium_airport",
-    "distance_km": 169.7
+    "distance_km": 169.7,
+    "name_zh": "绵阳南郊机场"
    },
    {
     "name": "Guangyuan Panlong Airport",
@@ -98,7 +59,8 @@
     "lat": 32.390254,
     "lon": 105.694571,
     "type": "medium_airport",
-    "distance_km": 178.3
+    "distance_km": 178.3,
+    "name_zh": "广元盘龙机场"
    }
   ],
   "nearest_airport_km": 18.7,
@@ -234,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

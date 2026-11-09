@@ -62,7 +62,8 @@
     "lat": 34.7411,
     "lon": 112.388,
     "type": "large_airport",
-    "distance_km": 129.4
+    "distance_km": 129.4,
+    "name_zh": "洛阳北郊机场"
    },
    {
     "name": "Nanyang Jiangying Airport",
@@ -72,7 +73,8 @@
     "lat": 32.982696,
     "lon": 112.617467,
     "type": "small_airport",
-    "distance_km": 131.8
+    "distance_km": 131.8,
+    "name_zh": "南阳姜营机场"
    },
    {
     "name": "Shiyan Wudangshan Airport",
@@ -82,7 +84,8 @@
     "lat": 32.592889,
     "lon": 110.906296,
     "type": "medium_airport",
-    "distance_km": 146.9
+    "distance_km": 146.9,
+    "name_zh": "十堰武当山机场"
    }
   ],
   "nearest_airport_km": 129.4,
@@ -174,5 +177,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

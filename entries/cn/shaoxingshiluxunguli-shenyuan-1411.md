@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Shaoxing City"
 lat: 29.998999
 lon: 120.591062
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 绍兴市鲁迅故里•沈园景区 / Lu Xun Native Place

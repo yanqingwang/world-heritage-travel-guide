@@ -10,8 +10,8 @@
  "city_zh": "佛山市",
  "city_en": "Foshan",
  "name_zh": "佛山市南海区西樵山景区",
- "name_en": "Foshanshinanhaiquxiqiaoshan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Mount Xiqiao",
+ "name_en_source": "wikipedia",
  "slug": "foshanshinanhaiquxiqiaoshan-637",
  "lat": 22.930245,
  "lon": 112.983731,
@@ -22,8 +22,8 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "西樵山是广东四大名山之一，是中国国家森林公园、中国国家地质公园、国家重点风景名胜区。西樵山自然风光旖旎，山上七十二峰峰峰皆奇，四十二洞洞洞皆幽，更有湖、瀑、泉、涧、岩、壁、潭、台点缀其间。",
- "intro_en": "Xiqiao Mountain is one of the four famous mountains in Guangdong. It is a China National Forest Park, a China National Geopark, and a national key scenic spot. Xiqiao Mountain has beautiful natural scenery. The 72 peaks on the mountain are all strange, and the 42 caves are secluded. There are also lakes, waterfalls, springs, streams, rocks, walls, pools and platforms dotted there.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Mount Xiqiao is a 40- to 50-million-year-old extinct volcano situated in the south west of the Nanhai District, Foshan, Guangdong, People's Republic of China 68 km (42 mi) from Guangzhou. The mountain is an important scenic area and designated as a national forest park and national geological park. Covering an area of 14 square kilometres (5.4 sq mi), the area features a total of 72 peaks with the highest, Dacheng Peak (大秤峰), rising to 346 m (1,135 ft).",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Xiqiaoshan2.jpg/1280px-Xiqiaoshan2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 23.0825,
     "lon": 113.070833,
     "type": "medium_airport",
-    "distance_km": 19.1
+    "distance_km": 19.1,
+    "name_zh": "佛山沙堤机场"
    },
    {
     "name": "Guangzhou Baiyun International Airport",
@@ -88,7 +89,8 @@
     "lat": 23.392401,
     "lon": 113.299004,
     "type": "large_airport",
-    "distance_km": 60.7
+    "distance_km": 60.7,
+    "name_zh": "广州白云国际机场"
    },
    {
     "name": "Shenzhen Bao'an International Airport",
@@ -98,7 +100,8 @@
     "lat": 22.639474,
     "lon": 113.803262,
     "type": "large_airport",
-    "distance_km": 90.0
+    "distance_km": 90.0,
+    "name_zh": "深圳宝安国际机场"
    }
   ],
   "nearest_airport_km": 19.1,
@@ -197,6 +200,7 @@
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -226,12 +230,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/佛山市南海区南海中学"
+   "url": "https://zh.wikipedia.org/wiki/西樵山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

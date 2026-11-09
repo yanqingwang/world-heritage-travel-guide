@@ -22,8 +22,8 @@
  "category_zh": "民俗文化",
  "category_en": "Folk culture",
  "intro_zh": "景区由非遗村、甘什黎村、谷银苗家、田野黎家、《槟榔·古韵》大型实景演出、兰花小木屋、黎苗风味美食街七大文化体验区构成，风景秀丽，是海南黎、苗族传统“三月三”及“七夕嬉水节”的主要活动举办地之一。",
- "intro_en": "The scenic spot consists of seven cultural experience areas including the Intangible Cultural Heritage Village, Ganshili Village, Guyin Miao Family, Tianyi Li Family, the large-scale live performance of \"Betel Nut·Ancient Rhythm\", the Orchid Cabin, and the Limiao and Miao flavor food street. It has beautiful scenery and is one of the main venues for the traditional \"March 3rd\" and \"Qixi Festival\" activities of the Hainan Li and Miao people.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Wuzhi Mountain (Chinese: 五指山; pinyin: Wǔzhǐ Shān; lit. 'Five Finger Mountain') is the highest mountain in Hainan, China, towering 1,840 metres (6,040 ft) above the center of Hainan Island. The surrounding areas of Wuzhi Mountain are inhabited mainly by the Li ethnic group. It is located adjacent to Wuzhishan City but is not part of that city's administrative area. Various Li myths concern the name for the mountain (Five Finger Mountain) and its formation. One legend has it that the five mountain peaks are the fossilized fingers of a dead Li clan chief. Another tale is that the five peaks are dedicated to the five most powerful Li gods. Numerous historical poems have also been written about the mountain, the most famous of all by the Hainan writer, Qiujun.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "http://www.binglanggu.com/",
@@ -37,7 +37,8 @@
     "lat": 18.3029,
     "lon": 109.412003,
     "type": "large_airport",
-    "distance_km": 70.1
+    "distance_km": 70.1,
+    "name_zh": "三亚凤凰国际机场"
    },
    {
     "name": "Qionghai Bo'ao Airport",
@@ -47,7 +48,8 @@
     "lat": 19.140951,
     "lon": 110.452766,
     "type": "medium_airport",
-    "distance_km": 86.6
+    "distance_km": 86.6,
+    "name_zh": "琼海博鳌机场"
    },
    {
     "name": "Haikou Meilan International Airport",
@@ -57,7 +59,8 @@
     "lat": 19.9349,
     "lon": 110.459,
     "type": "large_airport",
-    "distance_km": 143.0
+    "distance_km": 143.0,
+    "name_zh": "海口美兰国际机场"
    }
   ],
   "nearest_airport_km": 70.1,
@@ -142,5 +145,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

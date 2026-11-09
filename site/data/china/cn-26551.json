@@ -10,8 +10,8 @@
  "city_zh": "金华市",
  "city_en": "Jinhua City",
  "name_zh": "金华市双龙风景旅游区",
- "name_en": "Shuanglong Cave",
- "name_en_source": "wikipedia",
+ "name_en": "Shuanglong Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "jinhuashishuanglongfengjing-26551",
  "lat": 29.192493,
  "lon": 119.63307,
@@ -22,8 +22,8 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "金华双龙风景旅游区位于浙江省金华市北郊的金华山麓，规划范围包括双龙风景名胜区79.7平方公里、金华山北坡兰溪范围150平方公里以及金华山南坡山脚一带70平方公里，合计约300平方公里，有双龙洞、黄大仙、尖峰山、大盘天、赤松山、家园里六大景区，是集儒、释、道文化为一体的“三教圣地、仙香福地、名人沃土”。旅游区拥有丰富的喀斯特地貌景观和极具规模的溶洞群，境内岩洞奇绝，岩溶地貌发育完整，在长达25公里的带状石灰岩层，分布着50多个溶洞和多条地下河、一个地下湖，自古即有“五湖十景”之称。",
- "intro_en": "Shuanglong Cave (simplified Chinese: 双龙洞; traditional Chinese: 双龍洞; lit. 'Double Dragon Cave') is a water-filled karst cave some 8 km (5.0 mi) from Jinhua City, Zhejiang Province, People's Republic of China.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Jinhua Shuanglong Scenic Tourist Area is located at the foothills of Jinhua Mountain in the northern suburbs of Jinhua City, Zhejiang Province. The planned scope includes 79.7 square kilometers of Shuanglong Scenic Area, 150 square kilometers of Lanxi on the northern slope of Jinhua Mountain, and 7 areas at the foot of the southern slope of Jinhua Mountain. 0 square kilometers, totaling about 300 square kilometers, there are six major scenic spots: Shuanglong Cave, Wong Tai Sin, Jianfeng Mountain, Dapantian, Chisong Mountain, and Jiayuanli. It is a \"holy land of three religions, a blessed land of immortals, and a fertile land for celebrities\" integrating Confucianism, Buddhism, and Taoism culture. The tourist area has rich karst landscapes and large-scale karst cave groups. The caves are unique and the karst landforms are fully developed. There are more than 50 karst caves, multiple underground rivers and an underground lake in the 25-kilometer-long strip of limestone. It has been known as the \"Five Lakes and Ten Scenic Spots\" since ancient times.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "http://www.shuanglongdong.com/ticketBooking.html",
  "booking": "",
@@ -37,7 +37,8 @@
     "lat": 29.342095,
     "lon": 120.03116,
     "type": "large_airport",
-    "distance_km": 42.0
+    "distance_km": 42.0,
+    "name_zh": "义乌机场"
    },
    {
     "name": "Quzhou Airport",
@@ -47,7 +48,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 75.7
+    "distance_km": 75.7,
+    "name_zh": "衢州机场"
    },
    {
     "name": "Hangzhou Xiaoshan International Airport",
@@ -57,7 +59,8 @@
     "lat": 30.23609,
     "lon": 120.428865,
     "type": "large_airport",
-    "distance_km": 139.2
+    "distance_km": 139.2,
+    "name_zh": "杭州萧山国际机场"
    }
   ],
   "nearest_airport_km": 42.0,
@@ -104,39 +107,6 @@
  },
  "hotels": [
   {
-   "name": "金华世茂大饭店",
-   "name_en": "Best Western World Trade Hotel Jinhua",
-   "stars": null,
-   "brand": "Best Western",
-   "lat": 29.1141705,
-   "lon": 119.648989,
-   "distance_km": 8.8,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "格林豪泰快捷酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 29.1118235,
-   "lon": 119.631964,
-   "distance_km": 9.0,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "亚朵酒店",
-   "name_en": "Atour Hotel",
-   "stars": null,
-   "brand": "亚朵酒店",
-   "lat": 29.1101048,
-   "lon": 119.6584595,
-   "distance_km": 9.5,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "金华万豪酒店",
    "name_en": null,
    "stars": null,
@@ -148,22 +118,55 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "豪森假日花园大酒店",
+   "name": "电站宾馆",
    "name_en": null,
    "stars": null,
    "brand": null,
-   "lat": 29.0752838,
-   "lon": 119.6227765,
-   "distance_km": 13.1,
-   "kind": "chain",
+   "lat": 29.2035583,
+   "lon": 119.6190014,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "隐居芥子园酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2052346,
+   "lon": 119.6185759,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "浙师大国际交流中心",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1367322,
+   "lon": 119.6465208,
+   "distance_km": 6.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "俏江南",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.1273702,
+   "lon": 119.6355487,
+   "distance_km": 7.2,
+   "kind": "hotel",
    "source": "OpenStreetMap"
   }
  ],
  "hotels_nearby_30km": 25,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": false,
+  "en": false,
+  "ja": true,
   "ko": false,
   "source": [
    "Wikipedia language editions",
@@ -185,7 +188,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -196,12 +199,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/双龙风景名胜区"
+   "url": "https://zh.wikipedia.org/wiki/双龙"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

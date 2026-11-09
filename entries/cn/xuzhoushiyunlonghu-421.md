@@ -2,7 +2,7 @@
 id: "cn-421"
 dataset: "china_5a"
 name_zh: "徐州市云龙湖景区"
-name_en: "Xuzhoushiyunlonghu Scenic Area"
+name_en: "Yunlong Lake"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Xuzhou"
 lat: 34.334121
 lon: 117.291025
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 徐州市云龙湖景区 / Xuzhoushiyunlonghu Scenic Area
+# 徐州市云龙湖景区 / Yunlong Lake
 
 > 江苏省 · 徐州市 · 山地风光
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Yunlong Lake tourist attraction is located in the southwest of Xuzhou City. It is an urban tourist attraction featuring the natural landscape of Yunlong mountains and rivers, with Han culture, celebrity culture, religious culture, and military culture as its main content, and integrating comprehensive functions such as science popularization, sightseeing, sightseeing, leisure, and ecology. Yunlong Mountain in the scenic area stretches for nine sections and looks like a swimming dragon. It is known as the top scenic spot in Xuzhou. Xuzhou’s ancient fortresses and historical sites are scattered throughout the city and countryside.
-
-*English introduction: machine translation.*
+Yunlong Lake (Chinese: 云龙湖) is a lake in Xuzhou, Jiangsu, China. Yunlong Mountain lies to its east.
 
 ## 交通 / Transport
 
@@ -76,10 +74,10 @@ Yunlong Lake tourist attraction is located in the southwest of Xuzhou City. It i
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄山街道 (徐州市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/云龙湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Chengdu"
 lat: 30.510789
 lon: 103.63057
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 成都市安仁古镇景区 / Chengdu
 
 > 四川省 · 成都市 · 古镇村落
-
-## 图片 / Images
-
-![雪山下的成都市天际线 Chengdu skyline with snow capped mountains.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg/1280px-%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*雪山下的成都市天际线 Chengdu skyline with snow capped mountains.jpg · FISU · CC BY 3.0*
-
-![CADAL09011923 民國名人圖鑒·（一）.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/CADAL09011923_%E6%B0%91%E5%9C%8B%E5%90%8D%E4%BA%BA%E5%9C%96%E9%91%92%C2%B7%EF%BC%88%E4%B8%80%EF%BC%89.djvu/page1-1280px-CADAL09011923_%E6%B0%91%E5%9C%8B%E5%90%8D%E4%BA%BA%E5%9C%96%E9%91%92%C2%B7%EF%BC%88%E4%B8%80%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09011923 民國名人圖鑒·（一）.djvu · 杨家骆（著） · Public domain*
-
-![CADAL11103043 科學整理後之西華文獻最近情報·第一季節第一分卷.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/CADAL11103043_%E7%A7%91%E5%AD%B8%E6%95%B4%E7%90%86%E5%BE%8C%E4%B9%8B%E8%A5%BF%E8%8F%AF%E6%96%87%E7%8D%BB%E6%9C%80%E8%BF%91%E6%83%85%E5%A0%B1%C2%B7%E7%AC%AC%E4%B8%80%E5%AD%A3%E7%AF%80%E7%AC%AC%E4%B8%80%E5%88%86%E5%8D%B7.djvu/page1-1280px-CADAL11103043_%E7%A7%91%E5%AD%B8%E6%95%B4%E7%90%86%E5%BE%8C%E4%B9%8B%E8%A5%BF%E8%8F%AF%E6%96%87%E7%8D%BB%E6%9C%80%E8%BF%91%E6%83%85%E5%A0%B1%C2%B7%E7%AC%AC%E4%B8%80%E5%AD%A3%E7%AF%80%E7%AC%AC%E4%B8%80%E5%88%86%E5%8D%B7.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL11103043 科學整理後之西華文獻最近情報·第一季節第一分卷.djvu · 成都华同新闻编译社 · Public domain*
-
-![The Names of Tomatoes in Chinese Dialects.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Names_of_Tomatoes_in_Chinese_Dialects.pdf/page1-960px-The_Names_of_Tomatoes_in_Chinese_Dialects.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*The Names of Tomatoes in Chinese Dialects.pdf · 张迎雪，项梦冰 · CC BY 4.0*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
 
 ## 简介 / Introduction
 
@@ -64,10 +42,10 @@ Chengdu is the capital city of the Chinese province of Sichuan. With a populatio
 ## 附近酒店 / Nearby hotels
 
 - **成都安仁福朋喜来登酒店** — 1.5 km — chain — Four Points by Sheraton Chengdu, Anren · Four Points by Sheraton
-- **新视窗假日酒店** — 13.0 km — chain
-- **成都温江戴斯温德姆酒店** — 23.9 km — chain — Days Hotel by Wyndham Chengdu Wenjiang · Days Inn
 - **金桂公馆酒店** — 0.7 km — hotel — Jingui Residence Hotel
+- **新视窗假日酒店** — 13.0 km — chain
 - **大邑塞尚·庄园酒店** — 13.9 km — hotel
+- **Umay Boutique Hotel** — 18.9 km — hotel — Umay Boutique Hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

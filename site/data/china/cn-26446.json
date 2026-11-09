@@ -46,7 +46,8 @@
     "lat": 36.479413,
     "lon": 109.464083,
     "type": "medium_airport",
-    "distance_km": 89.7
+    "distance_km": 89.7,
+    "name_zh": "延安南泥湾机场"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -56,7 +57,8 @@
     "lat": 37.683333,
     "lon": 111.142778,
     "type": "medium_airport",
-    "distance_km": 124.2
+    "distance_km": 124.2,
+    "name_zh": "吕梁机场"
    },
    {
     "name": "Linfen Yaodu Airport",
@@ -66,7 +68,8 @@
     "lat": 36.132629,
     "lon": 111.641236,
     "type": "medium_airport",
-    "distance_km": 127.5
+    "distance_km": 127.5,
+    "name_zh": "临汾乔李机场"
    }
   ],
   "nearest_airport_km": 89.7,
@@ -145,5 +148,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "喀什地区",
  "city_en": "Kashgar Prefecture",
  "name_zh": "喀什地区帕米尔旅游区",
- "name_en": "Kashgar Prefecture",
- "name_en_source": "wikipedia",
+ "name_en": "Pamierren Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "kashidiqupamier-324",
  "lat": 37.787016,
  "lon": 75.230587,
@@ -22,50 +22,9 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "喀什地区帕米尔旅游区总面积3.1平方公里，由石头城景区、金草滩，塔吉克民俗村、综合服务中心、旅游购物中心五大区域组成，是古代丝绸之路南道、中道通往西亚、南亚及欧洲的必经之地。2014年被国家旅游局授予全国“国际高原风情旅游目的地”的称号。",
- "intro_en": "Kashgar Prefecture, also known as Kashi Prefecture, is a prefecture in southwestern Xinjiang, China, in the Tarim Basin region (roughly the southern half of Xinjiang). It has an area of 112,057 km2 (43,265 sq mi) and 4,496,377 inhabitants at the 2020 census with a population density of 35.5 inhabitants/km2. The capital of the prefecture is the city of Kashgar which has a population 506,640. Kashgar Prefecture borders the Gorno-Badakhshan Autonomous Region of Tajikistan, Badakhshan Province of Afghanistan, Gilgit-Baltistan of Pakistan, and Ladakh of India in the far south.",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shi_Tou_Cheng.JPG/1280px-Shi_Tou_Cheng.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Shi Tou Cheng.JPG",
-   "author": "Acstar",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Shi_Tou_Cheng.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Administrative_commission_of_Qeshqer_Prefecture_%2820230923191204%29.jpg/1280px-Administrative_commission_of_Qeshqer_Prefecture_%2820230923191204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Administrative commission of Qeshqer Prefecture (20230923191204).jpg",
-   "author": "N509FZ",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Administrative_commission_of_Qeshqer_Prefecture_(20230923191204).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Administrative_commission_of_Qeshqer_Prefecture_%2820230923191355%29.jpg/1280px-Administrative_commission_of_Qeshqer_Prefecture_%2820230923191355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Administrative commission of Qeshqer Prefecture (20230923191355).jpg",
-   "author": "N509FZ",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Administrative_commission_of_Qeshqer_Prefecture_(20230923191355).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Location_of_Tashkurgan%2C_Koghushluk%2C_Tor%2C_Teeng_within_the_Kashgar_prefecture.png/1280px-Location_of_Tashkurgan%2C_Koghushluk%2C_Tor%2C_Teeng_within_the_Kashgar_prefecture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Location of Tashkurgan, Koghushluk, Tor, Teeng within the Kashgar prefecture.png",
-   "author": "Chk2011",
-   "license": "CC BY-SA 4.0",
-   "credit": "a derivative work from",
-   "source": "https://commons.wikimedia.org/wiki/File:Location_of_Tashkurgan,_Koghushluk,_Tor,_Teeng_within_the_Kashgar_prefecture.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/PIA21189_-_Kashgar%2C_China.jpg/1280px-PIA21189_-_Kashgar%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "PIA21189 - Kashgar, China.jpg",
-   "author": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
-   "license": "Public domain",
-   "credit": "This image or video was catalogued by Jet Propulsion Laboratory of the United States National Aeronautics and Space Administration (NASA) under Photo ID: PIA211",
-   "source": "https://commons.wikimedia.org/wiki/File:PIA21189_-_Kashgar,_China.jpg"
-  }
- ],
+ "intro_en": "The Pamir Tourist Area in Kashgar Prefecture has a total area of ​​3.1 square kilometers and consists of five major areas: Stone City Scenic Area, Golden Grass Beach, Tajik Folk Village, Comprehensive Service Center, and Tourist Shopping Center. It is the only place that the ancient Silk Road's southern and middle routes lead to West Asia, South Asia and Europe. In 2014, it was awarded the title of National \"International Plateau Style Tourism Destination\" by the National Tourism Administration.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "http://www.pmrjq.com/",
  "booking": "http://www.pmrjq.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 37.661333,
     "lon": 75.288877,
     "type": "medium_airport",
-    "distance_km": 14.9
+    "distance_km": 14.9,
+    "name_zh": "塔什库尔干红其拉甫机场"
    },
    {
     "name": "Shache Airport",
@@ -88,7 +48,8 @@
     "lat": 38.24542,
     "lon": 77.056149,
     "type": "medium_airport",
-    "distance_km": 167.8
+    "distance_km": 167.8,
+    "name_zh": "莎车机场"
    },
    {
     "name": "Kashgar Laining International Airport",
@@ -98,7 +59,8 @@
     "lat": 39.542273,
     "lon": 76.02023,
     "type": "large_airport",
-    "distance_km": 206.9
+    "distance_km": 206.9,
+    "name_zh": "喀什徕宁国际机场"
    }
   ],
   "nearest_airport_km": 14.9,
@@ -169,7 +131,6 @@
   "ja": true,
   "ko": true,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -199,12 +160,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/喀什地区"
+   "url": "https://zh.wikipedia.org/wiki/帕米尔人"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

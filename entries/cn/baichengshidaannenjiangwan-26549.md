@@ -2,7 +2,7 @@
 id: "cn-26549"
 dataset: "china_5a"
 name_zh: "白城市大安嫩江湾旅游区"
-name_en: "Da'an, Jilin"
+name_en: "Baichengshidaannenjiangwan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jilin"
 city_en: "Baicheng City"
 lat: 45.534909
 lon: 124.301536
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 白城市大安嫩江湾旅游区 / Da'an, Jilin
+# 白城市大安嫩江湾旅游区 / Baichengshidaannenjiangwan Tourist Area
 
 > 吉林省 · 白城市 · 生态湿地
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Da'an (Chinese: 大安; pinyin: Dà'ān; lit. 'Dalai and Anchang') is a city of northwestern Jilin province in Northeast China, on the southern bank of the Songhua River and the border with Heilongjiang province. It is under the administration of Baicheng City, 115 kilometres (71 mi) to the west, and lies 57 kilometres (35 mi) northwest of Songyuan. Da'an City is 423,700, including 423,000 permanent residents.
+Nenjiang Bay Tourist Area is located in Da'an City, Jilin Province, only 1 km away from the city. The total area of ​​the scenic spot is 3.5 square kilometers, and there are more than 100 large and small scenic spots such as Laokanzi Wharf, Liaohuang Fish Viewing Platform, Huayi Tongfeng Yuan, etc. It is famous all over the world for being the first bay of the Nenjiang River in thousands of miles. It is a shining pearl on the Songnen Plain. It has been rated as a National Forest Park, a National Wetland Park, and a National Water Conservancy Scenic Area.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -47,10 +49,10 @@ Da'an (Chinese: 大安; pinyin: Dà'ān; lit. 'Dalai and Anchang') is a city of 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/大安市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/长虹街道 (大安市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

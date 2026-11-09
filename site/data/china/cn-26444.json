@@ -78,7 +78,8 @@
     "lat": 30.558257,
     "lon": 103.945966,
     "type": "large_airport",
-    "distance_km": 120.0
+    "distance_km": 120.0,
+    "name_zh": "成都双流国际机场"
    },
    {
     "name": "Kangding Airport",
@@ -88,7 +89,8 @@
     "lat": 30.142464,
     "lon": 101.73872,
     "type": "medium_airport",
-    "distance_km": 143.3
+    "distance_km": 143.3,
+    "name_zh": "甘孜康定机场"
    },
    {
     "name": "Chengdu Tianfu International Airport",
@@ -98,7 +100,8 @@
     "lat": 30.31252,
     "lon": 104.441284,
     "type": "large_airport",
-    "distance_km": 174.7
+    "distance_km": 174.7,
+    "name_zh": "成都天府国际机场"
    }
   ],
   "nearest_airport_km": 120.0,
@@ -135,17 +138,6 @@
  },
  "hotels": [
   {
-   "name": "MT.YUE Yueshan Holiday Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 30.9933941,
-   "lon": 102.8364862,
-   "distance_km": 4.9,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "悠然牧居智能酒店",
    "name_en": null,
    "stars": null,
@@ -154,6 +146,17 @@
    "lon": 102.8322471,
    "distance_km": 4.9,
    "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "MT.YUE Yueshan Holiday Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9933941,
+   "lon": 102.8364862,
+   "distance_km": 4.9,
+   "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
@@ -212,5 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

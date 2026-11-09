@@ -78,7 +78,8 @@
     "lat": 35.117823,
     "lon": 111.034023,
     "type": "large_airport",
-    "distance_km": 106.6
+    "distance_km": 106.6,
+    "name_zh": "运城盐湖国际机场"
    },
    {
     "name": "Xi'an Xianyang International Airport",
@@ -88,7 +89,8 @@
     "lat": 34.442207,
     "lon": 108.762385,
     "type": "large_airport",
-    "distance_km": 123.8
+    "distance_km": 123.8,
+    "name_zh": "西安咸阳国际机场"
    },
    {
     "name": "Luoyang Beijiao Airport",
@@ -98,7 +100,8 @@
     "lat": 34.7411,
     "lon": 112.388,
     "type": "large_airport",
-    "distance_km": 209.8
+    "distance_km": 209.8,
+    "name_zh": "洛阳北郊机场"
    }
   ],
   "nearest_airport_km": 106.6,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

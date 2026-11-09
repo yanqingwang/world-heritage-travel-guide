@@ -10,7 +10,7 @@
  "city_zh": "泉州市",
  "city_en": "Quanzhou",
  "name_zh": "泉州市清源山风景名胜区",
- "name_en": "Huanglong Scenic and Historic Interest Area",
+ "name_en": "Mount Qingyuan",
  "name_en_source": "wikipedia",
  "slug": "quanzhoushiqingyuanshanfengjingmingshengqu-731",
  "lat": 24.947416,
@@ -22,7 +22,7 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "清源山景区是泉州十八景之一，由清源山、九日山、灵山圣墓三大片区组成，总面积62平方公里。清源山以36洞天、18胜景闻名，其中尤以老君岩、千手岩、弥陀岩、碧霄岩、瑞象岩、虎乳泉、南台岩、清源洞、赐恩岩等为胜。",
- "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
+ "intro_en": "Mount Qingyuan (Chinese: 清源山; pinyin: Qīngyuán Shān; Tâi-lô: Tshing-guân Suann) is a mountain and national park protecting it, Fujian Province, located in the East China region of China.",
  "intro_en_source": "wikipedia",
  "images": [
   {
@@ -78,7 +78,8 @@
     "lat": 24.795855,
     "lon": 118.588599,
     "type": "large_airport",
-    "distance_km": 16.9
+    "distance_km": 16.9,
+    "name_zh": "泉州晋江机场"
    },
    {
     "name": "Kinmen Airport",
@@ -88,7 +89,8 @@
     "lat": 24.4279,
     "lon": 118.359001,
     "type": "medium_airport",
-    "distance_km": 62.8
+    "distance_km": 62.8,
+    "name_zh": "金门机场"
    },
    {
     "name": "Xiamen Gaoqi International Airport",
@@ -98,7 +100,8 @@
     "lat": 24.543889,
     "lon": 118.127454,
     "type": "large_airport",
-    "distance_km": 65.8
+    "distance_km": 65.8,
+    "name_zh": "厦门高崎国际机场"
    }
   ],
   "nearest_airport_km": 16.9,
@@ -194,8 +197,8 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -227,12 +230,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
+   "url": "https://zh.wikipedia.org/wiki/清源山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

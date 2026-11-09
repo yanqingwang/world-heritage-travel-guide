@@ -78,7 +78,8 @@
     "lat": 29.350876,
     "lon": 89.299157,
     "type": "large_airport",
-    "distance_km": 41.7
+    "distance_km": 41.7,
+    "name_zh": "日喀则和平机场"
    },
    {
     "name": "Lhasa Gonggar International Airport",
@@ -88,7 +89,8 @@
     "lat": 29.298001,
     "lon": 90.911951,
     "type": "large_airport",
-    "distance_km": 197.2
+    "distance_km": 197.2,
+    "name_zh": "拉萨贡嘎国际机场"
    },
    {
     "name": "Paro International Airport",
@@ -98,7 +100,8 @@
     "lat": 27.4032,
     "lon": 89.424599,
     "type": "large_airport",
-    "distance_km": 214.3
+    "distance_km": 214.3,
+    "name_zh": "帕罗机场"
    }
   ],
   "nearest_airport_km": 41.7,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

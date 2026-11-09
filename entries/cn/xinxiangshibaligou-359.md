@@ -2,7 +2,7 @@
 id: "cn-359"
 dataset: "china_5a"
 name_zh: "新乡市八里沟景区"
-name_en: "Xinxiang"
+name_en: "Xinxiangshibaligou Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Henan"
 city_en: "Xinxiang"
 lat: 35.550987
 lon: 113.629414
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 新乡市八里沟景区 / Xinxiang
+# 新乡市八里沟景区 / Xinxiangshibaligou Scenic Area
 
 > 河南省 · 新乡市 · 地质奇观
-
-## 图片 / Images
-
-![Xinxiang01.jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Xinxiang01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Xinxiang01.jpg · 靠斯 · CC BY-SA 3.0*
-
-![河南省人民政府关于公布河南省第七批文物保护单位名单的通知（豫政〔2016〕4号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E6%B2%B3%E5%8D%97%E7%9C%81%E7%AC%AC%E4%B8%83%E6%89%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%B1%AB%E6%94%BF%E3%80%942016%E3%80%954%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%83%E6%B2%B3%E5%8D%97%E7%9C%81%E7%AC%AC%E4%B8%83%E6%89%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E8%B1%AB%E6%94%BF%E3%80%942016%E3%80%954%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*河南省人民政府关于公布河南省第七批文物保护单位名单的通知（豫政〔2016〕4号）.pdf · 河南省人民政府 People's Government of Henan Province · Public domain*
-
-![Li Xinxiang 2025-05-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Li_Xinxiang_2025-05-01.jpg/1280px-Li_Xinxiang_2025-05-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Li Xinxiang 2025-05-01.jpg · IDontHaveSkype · CC0*
-
-![View near Xinxiang East Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/View_near_Xinxiang_East_Station.jpg/1280px-View_near_Xinxiang_East_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*View near Xinxiang East Station.jpg · そらみみ · CC BY-SA 4.0*
-
-![Xinxiang Banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Xinxiang_Banner.jpg/1280px-Xinxiang_Banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xinxiang Banner.jpg · 山海风 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Xinxiang (Chinese: 新乡; pinyin: Xīnxiāng [ɕín.ɕjáŋ]) is a prefecture-level city in northern Henan province, China. It borders the provincial capital of Zhengzhou to its southwest, Kaifeng to its southeast, Hebi and Anyang to its north, Jiaozuo to its west, and the provinces of Shanxi and Shandong to its northwest and east respectively. Its total population was 6,251,929 as of the 2020 Chinese Census. As of the 2018 estimation, 2,743,200 lived in the built-up (or metro) area made of 4 urban districts (Weibin, Hongqi, Muye, Fenquan), Yanjin county, Xinxiang county and Huixian City which are now being conurbated as the city is expanding very quickly. Xinxiang is an industrial city in northern Henan, an important city on the Beijing-Guangzhou Railway and a city in the Central Plains urban agglomeration, and was once one of the eight major towns in northern China. In ancient times, there were major events that influenced the course of Chinese history, such as the Battle of Mingtiao, the Battle of Muye, and the Chenqiao Mutiny. Modern Xinxiang is China's excellent tourist city, , birth center of the Fumagalli family, national health city, national garden city, national forest city, and on
+Xinxiang Baligou Scenic Area is located in Hui County, northwest of Xinxiang City, Henan Province. It is located at the southern foot of Taihang Mountain and the border between Henan and Shanxi provinces, with a total area of ​​109 square kilometers. It is one of the first batch of national tourism standardization demonstration units, a national macaque nature reserve, a national geological park, and one of the top ten scenic spots in Henan Province.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -72,10 +52,10 @@ Xinxiang (Chinese: 新乡; pinyin: Xīnxiāng [ɕín.ɕjáŋ]) is a prefecture-l
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/新乡市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/八里河风景区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

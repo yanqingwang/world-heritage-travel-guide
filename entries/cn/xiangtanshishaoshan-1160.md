@@ -2,7 +2,7 @@
 id: "cn-1160"
 dataset: "china_5a"
 name_zh: "湘潭市韶山旅游区"
-name_en: "Xiangtan"
+name_en: "Shaoshanzhan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,22 +13,12 @@ province_en: "Hunan"
 city_en: "Xiangtan City"
 lat: 27.910503
 lon: 112.49678
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 湘潭市韶山旅游区 / Xiangtan
+# 湘潭市韶山旅游区 / Shaoshanzhan Tourist Area
 
 > 湖南省 · 湘潭市 · 红色旅游
-
-## 图片 / Images
-
-![Baishipark.jpg](https://upload.wikimedia.org/wikipedia/commons/1/15/Baishipark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Baishipark.jpg · Photo taken by Efm · CC BY-SA 3.0*
-
-![长沙市雨花区国民经济和社会发展第十四个五年规划纲要.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E9%95%BF%E6%B2%99%E5%B8%82%E9%9B%A8%E8%8A%B1%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81.pdf/page1-960px-%E9%95%BF%E6%B2%99%E5%B8%82%E9%9B%A8%E8%8A%B1%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*长沙市雨花区国民经济和社会发展第十四个五年规划纲要.pdf · 长沙市雨花区第五届人民代表大会 · Public domain*
 
 ## 简介 / Introduction
 
@@ -38,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Xiangtan (Chinese: 湘潭) is a prefecture-level city in east-central Hunan province, south-central China. The hometowns of several founding leaders of the Chinese Communist Party, including Chairman Mao Zedong, President Liu Shaoqi, and Marshal Peng Dehuai, are in Xiangtan's administration, as well as the hometowns of Qing dynasty and republic era painter Qi Baishi, Confucian scholar-general Zeng Guofan, and tennis player Peng Shuai. Xiangtan forms a part of the Greater Changsha Metropolitan Region with Changsha as the core city along with Zhuzhou, also known as Changzhutan City Cluster, one of the core cities in Central China. Xiangtan is one of the top 200 cities in the world by scientific research outputs, as tracked by the Nature Index. It is home to Xiangtan University, a Double First-Class Construction university, and two provincial key public universities of Hunan Institute of Engineering and Hunan University of Science and Technology, as well as a high-tech industrial development zone.
+Shaoshan is the hometown of the great leader Mao Zedong. It is also the place where Mao Zedong lived, studied, worked and engaged in revolutionary activities in his early youth. Shaoshan has a long history. It belonged to Jingchu in ancient times. It got its name because Emperor Shun came here to perform Shao music during his tour to the south. The area has beautiful bells, beautiful scenery, and the cultural and natural landscapes complement each other.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -62,10 +54,10 @@ Xiangtan (Chinese: 湘潭) is a prefecture-level city in east-central Hunan prov
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/湘潭市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/韶山站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

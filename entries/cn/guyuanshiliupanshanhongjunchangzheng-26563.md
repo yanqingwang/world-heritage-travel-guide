@@ -2,7 +2,7 @@
 id: "cn-26563"
 dataset: "china_5a"
 name_zh: "固原市六盘山红军长征旅游区"
-name_en: "Liupanshan Tourist Area"
+name_en: "Liupan Mountains"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Ningxia"
 city_en: "Guyuan City"
 lat: 35.673415
 lon: 106.20037
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:13Z"
 ---
 
-# 固原市六盘山红军长征旅游区 / Liupanshan Tourist Area
+# 固原市六盘山红军长征旅游区 / Liupan Mountains
 
 > 宁夏回族自治区 · 固原市 · 红色旅游
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Liupan Mountain is a famous historical mountain. It appears in many ancient poems. Emperors of Qin, Han, Wu and Genghis Khan left their footprints here. From August 1935 to October 1936, the 25th Red Army, the Central Red Army (Shaanxi-Gansu Detachment), the Western Expedition Red Army, and the Second Red Front Army passed through Liupanshan District four times, opening a new chapter in the revolution that laid the foundation for the Northwest. Liupanshan was therefore known as the "Mountain of Dawn" and "The Mountain of Victory."
-
-*English introduction: machine translation.*
+The Liupan Mountains (Chinese: 六盘山; pinyin: Lìupán Shān) are a mountain range in northwestern China, located mostly in southern Ningxia Hui Autonomous Region. The range marks the southwestern boundary of the Ordos Basin. Its southern section is known as Mount Long (Chinese: 陇山; pinyin: Lǒng Shān), which strides southeast through eastern Gansu and western Shaanxi province before joining into the Qinling Mountains, giving rise to regional names like "Longxi" (陇西, lit. "west of Mount Long"), "Longdong" (陇东, "east of Mount Long", referring to the Jing River valley basin region around eastern Pingliang, southern Qingyang and northern Xianyang) and "Longnan" (陇南, "south of Mount Long"). It is the western boundary of the Guanzhong Plain, and is also the source of the Qian River (千河), a left tributary of the Wei River that flows through the prefectural city of Baoji.
 
 ## 交通 / Transport
 
@@ -73,7 +71,7 @@ Liupan Mountain is a famous historical mountain. It appears in many ancient poem
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 

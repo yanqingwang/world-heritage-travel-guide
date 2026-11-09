@@ -13,34 +13,12 @@ province_en: "Shandong"
 city_en: "Weihai"
 lat: 37.429984
 lon: 122.122166
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 威海市威海华夏城景区 / Weihaishiweihaihuaxiacheng Scenic Area
 
 > 山东省 · 威海市 · 山地风光
-
-## 图片 / Images
-
-![Weihai City.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Weihai_City.jpg/1280px-Weihai_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Weihai City.jpg · 蒋 · CC BY-SA 3.0*
-
-![Plan Of Oie-Hai-Oie Harbour.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Plan_Of_Oie-Hai-Oie_Harbour.jpg/1280px-Plan_Of_Oie-Hai-Oie_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Plan Of Oie-Hai-Oie Harbour.jpg · Crawford, John ; Horsburgh, James (Herausgeber/-in) · CC0*
-
-![Shantung Province and Wei Hai Wei Map 1954.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg/1280px-Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Shantung Province and Wei Hai Wei Map 1954.jpg · US Army Corps of Engineers · Public domain*
-
-![Wei-Hai-Wei (1906).jpg](https://upload.wikimedia.org/wikipedia/commons/a/a7/Wei-Hai-Wei_%281906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wei-Hai-Wei (1906).jpg · Unknown author Unknown author · Public domain*
-
-![Wei-hai-wei NJ51 10 2567233.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Wei-hai-wei_NJ51_10_2567233.jpg/1280px-Wei-hai-wei_NJ51_10_2567233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wei-hai-wei NJ51 10 2567233.jpg · Army Map Service · Public domain*
 
 ## 简介 / Introduction
 
@@ -80,4 +58,5 @@ The scenic area mainly displays oriental classical culture. It is a large-scale 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/西苑街道 (威海市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

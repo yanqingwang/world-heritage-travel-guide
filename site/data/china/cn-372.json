@@ -78,7 +78,8 @@
     "lat": 32.540819,
     "lon": 114.079141,
     "type": "medium_airport",
-    "distance_km": 72.9
+    "distance_km": 72.9,
+    "name_zh": "信阳明港机场"
    },
    {
     "name": "Nanyang Jiangying Airport",
@@ -88,7 +89,8 @@
     "lat": 32.982696,
     "lon": 112.617467,
     "type": "small_airport",
-    "distance_km": 106.4
+    "distance_km": 106.4,
+    "name_zh": "南阳姜营机场"
    },
    {
     "name": "Zhengzhou Xinzheng International Airport",
@@ -98,7 +100,8 @@
     "lat": 34.526497,
     "lon": 113.849165,
     "type": "large_airport",
-    "distance_km": 155.2
+    "distance_km": 155.2,
+    "name_zh": "郑州新郑国际机场"
    }
   ],
   "nearest_airport_km": 72.9,
@@ -233,5 +236,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

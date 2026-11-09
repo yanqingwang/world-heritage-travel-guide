@@ -10,7 +10,7 @@
  "city_zh": "台州市",
  "city_en": "Taizhou City",
  "name_zh": "台州市神仙居景区",
- "name_en": "Taizhoushishenxianju Scenic Area",
+ "name_en": "Shenxianju Scenic Area",
  "name_en_source": "pinyin",
  "slug": "taizhoushishenxianju-1399",
  "lat": 28.683553,
@@ -24,16 +24,7 @@
  "intro_zh": "神仙居地质构造独特，是世界上规模较大的火山流纹岩地貌集群，一山一水、 一崖一洞、一石一峰，都能自成一格，形成观音、如来、天姥峰、云海、飞瀑、蝌蚪文六大奇观。",
  "intro_en": "Shenxianju has a unique geological structure. It is a large-scale volcanic rhyolite landform cluster in the world. Every mountain, water, cliff, cave, stone and peak is unique in its own way, forming six wonders: Guanyin, Tathagata, Tianmu Peak, Sea of ​​Clouds, Waterfall, and Tadpole Wen.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%E4%BD%9B%E7%A5%96%E5%B3%B0_-_Buddha_Peak_-_2014.06_-_panoramio.jpg/1280px-%E4%BD%9B%E7%A5%96%E5%B3%B0_-_Buddha_Peak_-_2014.06_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "佛祖峰 - Buddha Peak - 2014.06 - panoramio.jpg",
-   "author": "rheins",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161029212209/http://www.panoramio.com/photo/108442114",
-   "source": "https://commons.wikimedia.org/wiki/File:佛祖峰_-_Buddha_Peak_-_2014.06_-_panoramio.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.zjshenxianju.com",
  "booking": "http://www.zjshenxianju.com/",
  "transport": {
@@ -46,7 +37,8 @@
     "lat": 28.562201,
     "lon": 121.429001,
     "type": "medium_airport",
-    "distance_km": 82.1
+    "distance_km": 82.1,
+    "name_zh": "台州路桥机场"
    },
    {
     "name": "Wenzhou Longwan International Airport",
@@ -56,7 +48,8 @@
     "lat": 27.910572,
     "lon": 120.853465,
     "type": "large_airport",
-    "distance_km": 89.5
+    "distance_km": 89.5,
+    "name_zh": "温州龙湾国际机场"
    },
    {
     "name": "Yiwu Airport",
@@ -66,7 +59,8 @@
     "lat": 29.342095,
     "lon": 120.03116,
     "type": "large_airport",
-    "distance_km": 91.7
+    "distance_km": 91.7,
+    "name_zh": "义乌机场"
    }
   ],
   "nearest_airport_km": 82.1,
@@ -149,9 +143,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/神仙居"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

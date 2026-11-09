@@ -24,48 +24,7 @@
  "intro_zh": "百色起义纪念馆位于广西百色市迎龙山公园内，始建于1961年。纪念馆共有七个展厅，分百色风雷、革命英杰、邓小平与百色、建设新百色四个部分，陈列革命文物和图片资料1400多件（幅）。",
  "intro_en": "The Baise Uprising Memorial Hall is located in Yinglongshan Park, Baise City, Guangxi. It was built in 1961. The memorial hall has seven exhibition halls, divided into four sections: Baise Fenglei, Revolutionary Heroes, Deng Xiaoping and Baise, and Construction of New Baise. More than 1,400 pieces of revolutionary cultural relics and pictures are displayed.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E7%99%BE%E8%89%B2%E5%B8%82%E5%8F%B3%E6%B1%9F%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%A9%8B_2013.jpg/1280px-%E7%99%BE%E8%89%B2%E5%B8%82%E5%8F%B3%E6%B1%9F%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%A9%8B_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "百色市右江區中山橋 2013.jpg",
-   "author": "PanShiBo",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:百色市右江區中山橋_2013.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baise_Memorial_Quote.png/1280px-Baise_Memorial_Quote.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Baise Memorial Quote.png",
-   "author": "Sevgonlernassau",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Baise_Memorial_Quote.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Baise_kanalbruecke.jpg/1280px-Baise_kanalbruecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Baise kanalbruecke.jpg",
-   "author": "Wolfgang Bauer",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Baise_kanalbruecke.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ba%C3%AFse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Baïse.png",
-   "author": "OpenStreetMap contributors",
-   "license": "CC BY-SA 4.0",
-   "credit": "Description Baïse.png This map was created from OpenStreetMap project data, collected by the OpenStreetMap community. This map may be incomplete, and may contai",
-   "source": "https://commons.wikimedia.org/wiki/File:Baïse.png"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/M_N_Saha%2C_J_C_Bose%2C_J_C_Ghosh%2C_Snehamoy_Dutt%2C_S_N_Bose%2C_D_M_Bose%2C_N_R_Sen%2C_J_N_Mukherjee%2C_N_C_Nag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "M N Saha, J C Bose, J C Ghosh, Snehamoy Dutt, S N Bose, D M Bose, N R Sen, J N Mukherjee, N C Nag.jpg",
-   "author": "Unknown author Unknown author",
-   "license": "Public domain",
-   "credit": "Photographic record no. 7 from the Satyendra Nath Bose National Centre for Basic Sciences Archive",
-   "source": "https://commons.wikimedia.org/wiki/File:M_N_Saha,_J_C_Bose,_J_C_Ghosh,_Snehamoy_Dutt,_S_N_Bose,_D_M_Bose,_N_R_Sen,_J_N_Mukherjee,_N_C_Nag.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.bsqygy.com/",
  "booking": "http://www.bsqygy.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 23.7206,
     "lon": 106.959999,
     "type": "medium_airport",
-    "distance_km": 38.1
+    "distance_km": 38.1,
+    "name_zh": "百色巴马机场"
    },
    {
     "name": "Hechi Jinchengjiang Airport",
@@ -88,7 +48,8 @@
     "lat": 24.804344,
     "lon": 107.710819,
     "type": "medium_airport",
-    "distance_km": 146.9
+    "distance_km": 146.9,
+    "name_zh": "河池金城江机场"
    },
    {
     "name": "Nanning Wuxu International Airport",
@@ -98,7 +59,8 @@
     "lat": 22.598071,
     "lon": 108.181922,
     "type": "large_airport",
-    "distance_km": 214.0
+    "distance_km": 214.0,
+    "name_zh": "南宁吴圩国际机场"
    }
   ],
   "nearest_airport_km": 38.1,
@@ -233,5 +195,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

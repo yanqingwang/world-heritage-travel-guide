@@ -2,7 +2,7 @@
 id: "cn-367"
 dataset: "china_5a"
 name_zh: "延边朝鲜族自治州长白山景区"
-name_en: "Heaven Lake"
+name_en: "Mount Paektu"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jilin"
 city_en: "Yanbian Korean Autonomous Prefecture"
 lat: 42.03497
 lon: 128.079482
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 延边朝鲜族自治州长白山景区 / Heaven Lake
+# 延边朝鲜族自治州长白山景区 / Mount Paektu
 
 > 吉林省 · 延边朝鲜族自治州 · 度假休闲
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Heaven Lake (Chinese: 天池; pinyin: Tiān Chí; Korean: 천지) is a volcanic crater lake atop Paektu Mountain. It lies on the border between China and North Korea, and is roughly evenly divided between the two countries. The Chinese part is in Jilin Province while the North Korean part is in Ryanggang Province.
+Mount Paektu or Mount Baekdu (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain (Chinese: 长白山, Chinese Korean: 장백산). At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, called Janggun Peak, belongs to North Korea. The mountain notably features a caldera that contains a large crater lake called Heaven Lake, which serves as the source of the Songhua, Tumen, and Yalu rivers. Korean and Manchu people assign a mythical quality to the mountain and its lake, and consider the mountain to be their ancestral homeland. The mountain's caldera was formed by an eruption in 946 that released about 100–120 km3 (24–29 cu mi) of tephra. It was among the largest and most powerful eruptions on Earth in the last 5,000 years. The volcano last erupted in 1903, and is expected to erupt roughly once every hundred years. In the 2010s, concerns over an upcoming eruption prompted several countries to commission research into when the volcano might next erupt. The mountain is considered culturally important to multipl
 
 ## 交通 / Transport
 
@@ -75,5 +75,5 @@ Heaven Lake (Chinese: 天池; pinyin: Tiān Chí; Korean: 천지) is a volcanic 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/长白山天池)
+- [Wikipedia](https://zh.wikipedia.org/wiki/长白山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

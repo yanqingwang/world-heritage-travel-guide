@@ -24,48 +24,7 @@
  "intro_zh": "龙宫景区集溶洞、峡谷、瀑布、峰林、绝壁、溪河、石林、漏斗、暗河等多种喀斯特地质地貌景观于一体，是喀斯特地貌形态展示最为集中的景区之一。",
  "intro_en": "Dragon Palace Scenic Area integrates various karst geological and landform landscapes such as caves, canyons, waterfalls, peak forests, cliffs, streams, stone forests, funnels, and underground rivers. It is one of the scenic spots with the most concentrated display of karst landforms.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Anshunxi_railway_station%2C_16_September_2020J.jpg/1280px-Anshunxi_railway_station%2C_16_September_2020J.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Anshunxi railway station, 16 September 2020J.jpg",
-   "author": "Huangdan2060",
-   "license": "CC BY 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Anshunxi_railway_station,_16_September_2020J.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/CADAL09010675_%E9%87%91%E7%9F%B3%E7%B4%A2%C2%B7%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89.djvu/page1-1280px-CADAL09010675_%E9%87%91%E7%9F%B3%E7%B4%A2%C2%B7%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL09010675 金石索·（十一）.djvu",
-   "author": "冯云鹏（编）；冯云鹓（编）",
-   "license": "Public domain",
-   "credit": "Wuhan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL09010675_金石索·（十一）.djvu"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/CADAL11101387_%E9%8B%BC%E9%90%B5.djvu/page1-1280px-CADAL11101387_%E9%8B%BC%E9%90%B5.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL11101387 鋼鐵.djvu",
-   "author": "",
-   "license": "Public domain",
-   "credit": "Sichuan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL11101387_鋼鐵.djvu"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/CADAL11107300_%E6%B8%85%E7%A8%97%E9%A1%9E%E9%88%94%C2%B7%E7%AC%AC%E5%8D%81%E5%85%AD%E5%86%8A_%E9%96%80%E9%96%A5_%E5%A7%93%E5%90%8D_%E9%A2%A8%E4%BF%97_%E6%96%B9%E8%A8%80.djvu/page1-1280px-CADAL11107300_%E6%B8%85%E7%A8%97%E9%A1%9E%E9%88%94%C2%B7%E7%AC%AC%E5%8D%81%E5%85%AD%E5%86%8A_%E9%96%80%E9%96%A5_%E5%A7%93%E5%90%8D_%E9%A2%A8%E4%BF%97_%E6%96%B9%E8%A8%80.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL11107300 清稗類鈔·第十六冊 門閥 姓名 風俗 方言.djvu",
-   "author": "徐珂",
-   "license": "Public domain",
-   "credit": "Sichuan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL11107300_清稗類鈔·第十六冊_門閥_姓名_風俗_方言.djvu"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/CADAL11110521_%E4%B8%AD%E5%9C%8B%E5%9C%B0%E7%90%86.djvu/page1-1280px-CADAL11110521_%E4%B8%AD%E5%9C%8B%E5%9C%B0%E7%90%86.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CADAL11110521 中國地理.djvu",
-   "author": "（美）哈金森；姜毓文；邝富灼",
-   "license": "Public domain",
-   "credit": "Sichuan University",
-   "source": "https://commons.wikimedia.org/wiki/File:CADAL11110521_中國地理.djvu"
-  }
- ],
+ "images": [],
  "web": "http://www.china-longgong.com/index.html",
  "booking": "http://www.china-longgong.com/index.html",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 26.260556,
     "lon": 105.873333,
     "type": "medium_airport",
-    "distance_km": 16.5
+    "distance_km": 16.5,
+    "name_zh": "黄果树机场"
    },
    {
     "name": "Guiyang Longdongbao International Airport",
@@ -88,7 +48,8 @@
     "lat": 26.541805,
     "lon": 106.80402,
     "type": "large_airport",
-    "distance_km": 103.4
+    "distance_km": 103.4,
+    "name_zh": "贵阳龙洞堡国际机场"
    },
    {
     "name": "Liupanshui Yuezhao Airport",
@@ -98,7 +59,8 @@
     "lat": 26.609417,
     "lon": 104.979,
     "type": "medium_airport",
-    "distance_km": 105.7
+    "distance_km": 105.7,
+    "name_zh": "六盘水月照机场"
    }
   ],
   "nearest_airport_km": 16.5,
@@ -243,5 +205,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

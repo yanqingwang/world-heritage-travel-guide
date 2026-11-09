@@ -2,7 +2,7 @@
 id: "cn-312"
 dataset: "china_5a"
 name_zh: "十堰市武当山风景区"
-name_en: "Shiyanshiwudangshanfeng Scenic Area"
+name_en: "Wudang Mountains"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hubei"
 city_en: "Shiyan"
 lat: 32.510141
 lon: 111.100659
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 十堰市武当山风景区 / Shiyanshiwudangshanfeng Scenic Area
+# 十堰市武当山风景区 / Wudang Mountains
 
 > 湖北省 · 十堰市 · 宗教文化
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Wudang Mountain is a famous Taoist holy land and a national key scenic spot. Its ancient buildings are listed as world cultural heritage. Wudang Mountain has beautiful scenery, beautiful mountains and rivers, and craggy peaks. It is also filled with purple air and misty clouds all year round. In addition to the large-scale ancient buildings, it also has extensive and profound martial arts and long-standing Taoist culture, showing its mysterious and ethereal temperament.
-
-*English introduction: machine translation.*
+The Wudang Mountains (simplified Chinese: 武当山; traditional Chinese: 武當山; pinyin: Wǔdāng Shān) are a mountain range in the northwestern part of Hubei, China. They are home to a famous complex of Taoist temples and monasteries associated with the Lord of the North, Xuantian Shangdi. The Wudang Mountains are renowned for the practice of tai chi and Taoism as the Taoist counterpart to the Shaolin Monastery, which is affiliated with Chan Buddhism. The Wudang Mountains are one of the "Four Sacred Mountains of Taoism" in China, an important destination for Taoist pilgrimages. The monasteries such as the Wudang Garden were made a UNESCO World Heritage Site in 1994 because of their religious significance and architectural achievement.
 
 ## 交通 / Transport
 
@@ -71,9 +69,10 @@ Wudang Mountain is a famous Taoist holy land and a national key scenic spot. Its
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/武当山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

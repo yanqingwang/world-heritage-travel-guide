@@ -2,7 +2,7 @@
 id: "cn-314"
 dataset: "china_5a"
 name_zh: "宜昌市三峡大坝-屈原故里文化旅游区"
-name_en: "Three Gorges Dam"
+name_en: "Sanxiadapubu Cultural Tourism Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.832278
 lon: 110.994721
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 宜昌市三峡大坝-屈原故里文化旅游区 / Three Gorges Dam
+# 宜昌市三峡大坝-屈原故里文化旅游区 / Sanxiadapubu Cultural Tourism Area
 
 > 湖北省 · 宜昌市 · 宗教文化
-
-## 图片 / Images
-
-![Yichang skyline 5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yichang_skyline_5.jpg/1280px-Yichang_skyline_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yichang skyline 5.jpg · Fxqf · CC BY-SA 4.0*
-
-![Wufeng, Yichang, Hubei, China - panoramio (115).jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Wufeng%2C_Yichang%2C_Hubei%2C_China_-_panoramio_%28115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wufeng, Yichang, Hubei, China - panoramio (115).jpg · 王界 · CC BY 3.0*
-
-![Yichang script.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Yichang_script.svg/1280px-Yichang_script.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yichang script.svg · Alan Fan Pei · CC BY-SA 4.0*
-
-![Yichang skyline 6.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Yichang_skyline_6.jpg/1280px-Yichang_skyline_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yichang skyline 6.jpg · Fxqf · CC BY-SA 4.0*
-
-![Yichang skyline 7.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yichang_skyline_7.jpg/1280px-Yichang_skyline_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yichang skyline 7.jpg · Fxqf · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-The Three Gorges Dam, officially known as Yangtze River Three Gorges Water Conservancy Project is a hydroelectric gravity dam that spans the Yangtze River near Sandouping in Yiling District, Yichang, Hubei province, central China, downstream of the Three Gorges. It is also the world's largest power station by installed capacity (22,500 MW); it generates 95±20 TWh of electricity per year on average, depending on the amount of precipitation in the river basin. After the monsoons of 2020, the dam produced nearly 112 TWh in a year, breaking the record of 103 TWh set by the Itaipu Dam in 2016. The dam's body, 185 meters high and 2,309 meters wide, was completed in 2006. The power plant became fully operational in 2012, when the last of the 32 main water turbines in the underground plant began production. The last major component of the project, the ship lift, was completed in 2015. Each of the 32 turbines, considered state-of-the-art at the time of their installation, can generate 700 MW. Combined with two 50 MW generators that power the plant itself, the Three Gorges Dam can generate some 22,500 MW—far more than the next-biggest hydroelectric plant, the 16,000 MW Baihetan Dam, also in 
+The scenic area includes two tourist areas: the Three Gorges Dam and Qu Yuan's hometown. The Three Gorges Dam is the main project of the Three Gorges Hydropower Station, the world's largest hydropower project, and the core landscape of the Three Gorges Dam tourist area; Qu Yuan's hometown is the Qu Yuan Cultural Tourism Park with Qu Yuan Temple and Qu Yuan's Tomb as its main contents; at the same time, the tourist area is also an intangible cultural display park with witchcraft performances and boatman's chants as its main contents.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +53,10 @@ The Three Gorges Dam, officially known as Yangtze River Three Gorges Water Conse
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/长江三峡水利枢纽工程)
+- [Wikipedia](https://zh.wikipedia.org/wiki/三峡大瀑布)
 - [OpenStreetMap](https://www.openstreetmap.org/)

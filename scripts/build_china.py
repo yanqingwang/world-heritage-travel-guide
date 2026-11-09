@@ -307,7 +307,11 @@ def main() -> int:
             "intro_zh": intro_zh,
             "intro_en": (intro_en or "")[:1200],
             "intro_en_source": intro_en_source,
-            "images": (w.get("images") or prev_site.get("images") or [])[:5],
+            # Never fall back to the previous snapshot's images: those came
+            # from generic Commons queries (city-name pools) and repeated the
+            # same photos across sibling scenic areas. No fresh images this
+            # week means no images — the next CI run refetches instead.
+            "images": (w.get("images") or [])[:5],
             "web": site.get("web") or "",
             "booking": site.get("booking") or "",
             "transport": {

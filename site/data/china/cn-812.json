@@ -37,7 +37,8 @@
     "lat": 36.515202,
     "lon": 103.620003,
     "type": "large_airport",
-    "distance_km": 56.0
+    "distance_km": 56.0,
+    "name_zh": "兰州中川机场"
    },
    {
     "name": "Xining Caojiabao International Airport",
@@ -47,7 +48,8 @@
     "lat": 36.52775,
     "lon": 102.040215,
     "type": "large_airport",
-    "distance_km": 162.7
+    "distance_km": 162.7,
+    "name_zh": "西宁曹家堡机场"
    },
    {
     "name": "Gannan Xiahe Airport",
@@ -57,7 +59,8 @@
     "lat": 34.819014,
     "lon": 102.622261,
     "type": "medium_airport",
-    "distance_km": 167.9
+    "distance_km": 167.9,
+    "name_zh": "甘南夏河机场"
    }
   ],
   "nearest_airport_km": 56.0,
@@ -203,5 +206,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

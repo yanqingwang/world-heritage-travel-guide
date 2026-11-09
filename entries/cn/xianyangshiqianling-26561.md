@@ -2,7 +2,7 @@
 id: "cn-26561"
 dataset: "china_5a"
 name_zh: "咸阳市乾陵景区"
-name_en: "Xianyangshi Scenic Area"
+name_en: "Qianling Mausoleum"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,34 @@ province_en: "Shaanxi"
 city_en: "Xianyang"
 lat: 34.574647
 lon: 108.226645
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:13Z"
 ---
 
-# 咸阳市乾陵景区 / Xianyangshi Scenic Area
+# 咸阳市乾陵景区 / Qianling Mausoleum
 
 > 陕西省 · 咸阳市 · 历史遗址
 
 ## 图片 / Images
 
-![Skyline of Xianyang (in sandstorm), April 28 2023.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Skyline_of_Xianyang_%28in_sandstorm%29%2C_April_28_2023.jpg/1280px-Skyline_of_Xianyang_%28in_sandstorm%29%2C_April_28_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![乾陵远望 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E4%B9%BE%E9%99%B5%E8%BF%9C%E6%9C%9B_01.jpg/1280px-%E4%B9%BE%E9%99%B5%E8%BF%9C%E6%9C%9B_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Skyline of Xianyang (in sandstorm), April 28 2023.jpg · A Chinese ID · CC BY-SA 4.0*
+*乾陵远望 01.jpg · Liuxingy · CC BY-SA 4.0*
 
-![1962-05 1962年 陕西挖掘咸阳秦朝遗址.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7d/1962-05_1962%E5%B9%B4_%E9%99%95%E8%A5%BF%E6%8C%96%E6%8E%98%E5%92%B8%E9%98%B3%E7%A7%A6%E6%9C%9D%E9%81%97%E5%9D%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![乾陵远望 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/%E4%B9%BE%E9%99%B5%E8%BF%9C%E6%9C%9B_02.jpg/1280px-%E4%B9%BE%E9%99%B5%E8%BF%9C%E6%9C%9B_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*1962-05 1962年 陕西挖掘咸阳秦朝遗址.jpg · 《人民画报》 · Public domain*
+*乾陵远望 02.jpg · Liuxingy · CC BY-SA 4.0*
 
-![Bronze Door Knocker, Qin Palace, Xianyang (detail).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bronze_Door_Knocker%2C_Qin_Palace%2C_Xianyang_%28detail%29.jpg/1280px-Bronze_Door_Knocker%2C_Qin_Palace%2C_Xianyang_%28detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Naitou-topparna.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Naitou-topparna.JPG/1280px-Naitou-topparna.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Bronze Door Knocker, Qin Palace, Xianyang (detail).jpg · Gary Todd · CC BY-SA 4.0*
+*Naitou-topparna.JPG · Bairuilong · CC BY-SA 4.0*
 
-![Full View of Wei River in Xianyang 2012-09.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Full_View_of_Wei_River_in_Xianyang_2012-09.jpg/1280px-Full_View_of_Wei_River_in_Xianyang_2012-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Qianling Mausoleum, dignitary with braids.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Qianling_Mausoleum%2C_dignitary_with_braids.jpg/1280px-Qianling_Mausoleum%2C_dignitary_with_braids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Full View of Wei River in Xianyang 2012-09.jpg · 猫猫的日记本 · CC BY-SA 3.0*
+*Qianling Mausoleum, dignitary with braids.jpg · Felix Filnkoessl · CC BY-SA 2.0*
 
-![Full View of Wei River in Xianyang 2012-09 (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Full_View_of_Wei_River_in_Xianyang_2012-09_%28cropped%29.jpg/1280px-Full_View_of_Wei_River_in_Xianyang_2012-09_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Qianling Mausoleum 03 2013-08.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Qianling_Mausoleum_03_2013-08.JPG/1280px-Qianling_Mausoleum_03_2013-08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Full View of Wei River in Xianyang 2012-09 (cropped).jpg · 猫猫的日记本 · CC BY-SA 3.0*
+*Qianling Mausoleum 03 2013-08.JPG · 猫猫的日记本 · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-The Qianling Mausoleum was built during the prosperous Tang Dynasty. The mausoleum is large in scale and the architecture is magnificent and majestic. It can be called "the crown of all imperial mausoleums in the past". Among them, the ground floor buildings of the cemetery are modeled after Chang'an City, the capital of the Tang Dynasty, and are divided into three parts: the inner city, the outer city and the burial tomb area (equivalent to the palace city, imperial city and outer city of Chang'an City respectively). There were originally 378 buildings in the cemetery, including dedicated halls, side rooms, cloisters, and towers. After more than 1,300 years, the majestic ground-level buildings of Qianling Mausoleum no longer exist. Today, the most intact ones are the symmetrical rows of shrines on both sides of the Shinto outside the Suzaku Gate in the inner city. There are more than 100 large-scale and exquisite stone sculptures on display, among which the most famous ones include the wordless stele, the Shusheng Ji stele, the statues of sixty-one ministers, stone lions and other unique stone sculptures. Therefore, the Qianling Mausoleum is known as the "Open-air Stone Sculpture 
-
-*English introduction: machine translation.*
+The Qian Mausoleum (Chinese: 乾陵; pinyin: Qiánlíng) is a Tang dynasty (618–907) tomb site located in Qian County, Shaanxi Province, China, and is 85 km (53 mi) northwest of Xi'an. Built in 684 (with additional construction until 706), the tombs of the mausoleum complex house the remains of various members of the House of Li, the imperial family of the Tang dynasty. This includes Emperor Gaozong (r. 649–83), as well as his wife, Wu Zetian, who assumed the Tang throne and became China's only reigning female emperor from 690 to 705. The mausoleum is renowned for its many Tang dynasty stone statues located above ground and the mural paintings adorning the subterranean walls of the tombs. Besides the main tumulus mound and underground tomb of Emperor Gaozong and Wu Zetian, there are 17 smaller attendant tombs, or peizang mu. Presently, only five of these attendant tombs have been excavated by archaeologists, three belonging to members of the imperial family, one to a chancellor, and the other to a general of the left guard. The Shaanxi Administration of Cultural Heritage declared in 2012 that no further excavations would take place for at least 50 years.
 
 ## 交通 / Transport
 
@@ -71,10 +69,10 @@ The Qianling Mausoleum was built during the prosperous Tang Dynasty. The mausole
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/咸阳市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/唐乾陵)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -24,48 +24,7 @@
  "intro_zh": "旅游区借助满洲里得天独厚的地理环境，汇集中国红色文化、俄罗斯风情文化精粹，打造出独具北疆特色的旅游观光休闲度假基地。旅游区由国门景区和套娃景区组成，其中国门景区是满洲里市标志性旅游景区，也是重要的爱国主义教育基地。",
  "intro_en": "Taking advantage of Manzhouli's unique geographical environment, the tourist area brings together the essence of Chinese red culture and Russian style culture to create a tourism, leisure and vacation base with unique northern Xinjiang characteristics. The tourist area consists of the National Gate Scenic Area and the Matryoshka Doll Scenic Area. The Chinese Gate Scenic Area is a landmark tourist attraction in Manzhouli City and an important patriotism education base.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manzhouli_view.jpg/1280px-Manzhouli_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Manzhouli view.jpg",
-   "author": "Alexander V. Solomin",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Manzhouli_view.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Barga_Banner_in_Hulunbuir_%28blue%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Barga Banner in Hulunbuir (blue).jpg",
-   "author": "Roxanna",
-   "license": "CC BY-SA 4.0",
-   "credit": "based on File:ChinaHulunbuirChenBaragqi.png",
-   "source": "https://commons.wikimedia.org/wiki/File:Barga_Banner_in_Hulunbuir_(blue).jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Barga_Banner_in_Hulunbuir_%28red%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Barga Banner in Hulunbuir (red).jpg",
-   "author": "Roxanna",
-   "license": "CC BY-SA 4.0",
-   "credit": "based on File:ChinaHulunbuirChenBaragqi.png",
-   "source": "https://commons.wikimedia.org/wiki/File:Barga_Banner_in_Hulunbuir_(red).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hulunbuir.jpg/1280px-Hulunbuir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Hulunbuir.jpg",
-   "author": "Fanghong",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Hulunbuir.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hulunbuir_Airport_CAAC_Chart.png/1280px-Hulunbuir_Airport_CAAC_Chart.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Hulunbuir Airport CAAC Chart.png",
-   "author": "Civil Aviation Administration of China",
-   "license": "Public domain",
-   "credit": "eaipchina.cn",
-   "source": "https://commons.wikimedia.org/wiki/File:Hulunbuir_Airport_CAAC_Chart.png"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 49.566667,
     "lon": 117.33,
     "type": "medium_airport",
-    "distance_km": 7.8
+    "distance_km": 7.8,
+    "name_zh": "满洲里西郊机场"
    },
    {
     "name": "Hulunbuir Hailar Airport",
@@ -88,7 +48,8 @@
     "lat": 49.208616,
     "lon": 119.822301,
     "type": "large_airport",
-    "distance_km": 181.0
+    "distance_km": 181.0,
+    "name_zh": "呼伦贝尔海拉尔机场"
    }
   ],
   "nearest_airport_km": 7.8,
@@ -224,5 +185,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

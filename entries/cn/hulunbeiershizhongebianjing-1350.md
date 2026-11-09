@@ -13,34 +13,12 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.619437
 lon: 117.401013
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 呼伦贝尔市中俄边境旅游区 / Hulunbeiercaoyuan Tourist Area
 
 > 内蒙古自治区 · 呼伦贝尔市 · 度假休闲
-
-## 图片 / Images
-
-![Manzhouli view.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manzhouli_view.jpg/1280px-Manzhouli_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Manzhouli view.jpg · Alexander V. Solomin · CC BY-SA 3.0*
-
-![Barga Banner in Hulunbuir (blue).jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/Barga_Banner_in_Hulunbuir_%28blue%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Barga Banner in Hulunbuir (blue).jpg · Roxanna · CC BY-SA 4.0*
-
-![Barga Banner in Hulunbuir (red).jpg](https://upload.wikimedia.org/wikipedia/commons/2/2f/Barga_Banner_in_Hulunbuir_%28red%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Barga Banner in Hulunbuir (red).jpg · Roxanna · CC BY-SA 4.0*
-
-![Hulunbuir.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hulunbuir.jpg/1280px-Hulunbuir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hulunbuir.jpg · Fanghong · CC BY-SA 3.0*
-
-![Hulunbuir Airport CAAC Chart.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Hulunbuir_Airport_CAAC_Chart.png/1280px-Hulunbuir_Airport_CAAC_Chart.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hulunbuir Airport CAAC Chart.png · Civil Aviation Administration of China · Public domain*
 
 ## 简介 / Introduction
 

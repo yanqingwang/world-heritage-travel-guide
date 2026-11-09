@@ -13,34 +13,12 @@ province_en: "Jiangxi"
 city_en: "Ganzhou"
 lat: 25.88996
 lon: 116.018882
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 赣州市瑞金市共和国摇篮景区 / Chinese Soviet Republic
 
 > 江西省 · 赣州市 · 红色旅游
-
-## 图片 / Images
-
-![Ganzhounan Railway Station 7959 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ganzhounan_Railway_Station_7959_1.jpg/1280px-Ganzhounan_Railway_Station_7959_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ganzhounan Railway Station 7959 1.jpg · David290 · CC BY-SA 4.0*
-
-![Ganzhou-map.png](https://upload.wikimedia.org/wikipedia/commons/a/ac/Ganzhou-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Ganzhou-map.png · 장길산 · Public domain*
-
-![Ganzhou Railway Station (20250126).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ganzhou_Railway_Station_%2820250126%29.jpg/1280px-Ganzhou_Railway_Station_%2820250126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ganzhou Railway Station (20250126).jpg · Fumikas Sagisavas · CC0*
-
-![Ganzhou Wenmiao 20180619 161026.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ganzhou_Wenmiao_20180619_161026.jpg/1280px-Ganzhou_Wenmiao_20180619_161026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ganzhou Wenmiao 20180619 161026.jpg · Sino Yu · CC0*
-
-![Location map of Ganzhou, Jiangxi.png](https://upload.wikimedia.org/wikipedia/commons/2/21/Location_map_of_Ganzhou%2C_Jiangxi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Location map of Ganzhou, Jiangxi.png · Not logging in · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

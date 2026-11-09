@@ -78,7 +78,8 @@
     "lat": 35.647358,
     "lon": 116.743269,
     "type": "medium_airport",
-    "distance_km": 71.9
+    "distance_km": 71.9,
+    "name_zh": "济宁大安机场"
    },
    {
     "name": "Jinan Yaoqiang International Airport",
@@ -88,7 +89,8 @@
     "lat": 36.857201,
     "lon": 117.216003,
     "type": "large_airport",
-    "distance_km": 72.3
+    "distance_km": 72.3,
+    "name_zh": "济南遥墙国际机场"
    },
    {
     "name": "Heze Mudan Airport",
@@ -98,7 +100,8 @@
     "lat": 35.212972,
     "lon": 115.736748,
     "type": "medium_airport",
-    "distance_km": 168.1
+    "distance_km": 168.1,
+    "name_zh": "菏泽牡丹机场"
    }
   ],
   "nearest_airport_km": 71.9,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

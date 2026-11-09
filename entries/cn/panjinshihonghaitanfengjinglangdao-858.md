@@ -13,18 +13,12 @@ province_en: "Liaoning"
 city_en: "Panjin City"
 lat: 40.90784
 lon: 121.851983
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 盘锦市红海滩风景廊道景区 / Panjinshihonghaitanfengjinglangdao Scenic Area
 
 > 辽宁省 · 盘锦市 · 红色旅游
-
-## 图片 / Images
-
-![Water-of-Five-colored-Pond Huanglong Sichuan China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Water-of-Five-colored-Pond Huanglong Sichuan China.jpg · Kounosu · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

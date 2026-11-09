@@ -37,7 +37,8 @@
     "lat": 24.938056,
     "lon": 98.485833,
     "type": "medium_airport",
-    "distance_km": 4.2
+    "distance_km": 4.2,
+    "name_zh": "腾冲驼峰机场"
    },
    {
     "name": "Dehong Mangshi International Airport",
@@ -47,7 +48,8 @@
     "lat": 24.4011,
     "lon": 98.5317,
     "type": "medium_airport",
-    "distance_km": 62.0
+    "distance_km": 62.0,
+    "name_zh": "德宏芒市机场"
    },
    {
     "name": "Baoshan Yunrui Airport",
@@ -57,7 +59,8 @@
     "lat": 25.053301,
     "lon": 99.168297,
     "type": "medium_airport",
-    "distance_km": 73.5
+    "distance_km": 73.5,
+    "name_zh": "保山云瑞机场"
    }
   ],
   "nearest_airport_km": 4.2,
@@ -184,9 +187,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/腾冲火山热海旅游区"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

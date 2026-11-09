@@ -24,48 +24,7 @@
  "intro_zh": "华侨城以锦绣中华、中国民俗文化村、世界之窗、欢乐谷四大主题公园为核心，汇聚了中国较为集中的文化主题公园群、文化主题酒店群和文化艺术设施群，是首批全国文明风景旅游区、国家级文化产业示范园区。",
  "intro_en": "With the four major theme parks of Splendid China, China Folk Culture Village, Window of the World and Happy Valley as its core, OCT brings together a relatively concentrated group of cultural theme parks, cultural themed hotels and cultural and art facilities in China. It is one of the first batch of national civilized scenic tourist areas and national cultural industry demonstration parks.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "China Resources Headquarters&Shenzhen Bay gymnasium in Nanshan District2020.jpg",
-   "author": "Charlie fong",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:China_Resources_Headquarters&Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Nanshan_District_Government%2CShenzhen.jpg/1280px-Nanshan_District_Government%2CShenzhen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Nanshan District Government,Shenzhen.jpg",
-   "author": "Lhzss8",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Nanshan_District_Government,Shenzhen.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2810%29.jpg/1280px-SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (10).jpg",
-   "author": "Dinkun Chen",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:SUNSET_OF_XILI,_NANSHAN_DISTRICT,_SHENZHEN_(10).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2811%29.jpg/1280px-SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (11).jpg",
-   "author": "Dinkun Chen",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:SUNSET_OF_XILI,_NANSHAN_DISTRICT,_SHENZHEN_(11).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2814%29.jpg/1280px-SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (14).jpg",
-   "author": "Dinkun Chen",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:SUNSET_OF_XILI,_NANSHAN_DISTRICT,_SHENZHEN_(14).jpg"
-  }
- ],
+ "images": [],
  "web": "https://www.chinaoct.com/",
  "booking": "https://www.chinaoct.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 22.639474,
     "lon": 113.803262,
     "type": "large_airport",
-    "distance_km": 21.9
+    "distance_km": 21.9,
+    "name_zh": "深圳宝安国际机场"
    },
    {
     "name": "Hong Kong International Airport",
@@ -88,7 +48,8 @@
     "lat": 22.31184,
     "lon": 113.914862,
     "type": "large_airport",
-    "distance_km": 26.9
+    "distance_km": 26.9,
+    "name_zh": "香港国际机场"
    },
    {
     "name": "Macau International Airport",
@@ -98,7 +59,8 @@
     "lat": 22.149599,
     "lon": 113.592003,
     "type": "large_airport",
-    "distance_km": 59.9
+    "distance_km": 59.9,
+    "name_zh": "澳门国际机场"
    }
   ],
   "nearest_airport_km": 21.9,
@@ -252,5 +214,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

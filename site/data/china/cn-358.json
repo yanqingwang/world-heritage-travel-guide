@@ -78,7 +78,8 @@
     "lat": 31.735032,
     "lon": 118.865949,
     "type": "large_airport",
-    "distance_km": 36.3
+    "distance_km": 36.3,
+    "name_zh": "南京禄口国际机场"
    },
    {
     "name": "Changzhou Benniu International Airport",
@@ -88,7 +89,8 @@
     "lat": 31.920485,
     "lon": 119.77546,
     "type": "medium_airport",
-    "distance_km": 87.7
+    "distance_km": 87.7,
+    "name_zh": "常州奔牛机场"
    },
    {
     "name": "Yangzhou Taizhou Airport",
@@ -98,7 +100,8 @@
     "lat": 32.5634,
     "lon": 119.7198,
     "type": "medium_airport",
-    "distance_km": 98.1
+    "distance_km": 98.1,
+    "name_zh": "扬州泰州机场"
    }
   ],
   "nearest_airport_km": 36.3,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

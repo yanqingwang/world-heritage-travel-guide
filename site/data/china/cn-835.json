@@ -37,7 +37,8 @@
     "lat": 38.597456,
     "lon": 112.969173,
     "type": "small_airport",
-    "distance_km": 68.9
+    "distance_km": 68.9,
+    "name_zh": "五台山机场"
    },
    {
     "name": "Shuozhou Zirun Airport",
@@ -47,7 +48,8 @@
     "lat": 39.273241,
     "lon": 112.691552,
     "type": "medium_airport",
-    "distance_km": 92.5
+    "distance_km": 92.5,
+    "name_zh": "朔州滋润机场"
    },
    {
     "name": "Shijiazhuang Zhengding International Airport",
@@ -57,7 +59,8 @@
     "lat": 38.280701,
     "lon": 114.696999,
     "type": "large_airport",
-    "distance_km": 114.3
+    "distance_km": 114.3,
+    "name_zh": "石家庄正定国际机场"
    }
   ],
   "nearest_airport_km": 68.9,
@@ -171,5 +174,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

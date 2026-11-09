@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Taiyuan"
 lat: 37.705129
 lon: 112.449184
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 太原市晋祠天龙山景区 / Jinci
@@ -66,8 +66,8 @@ The Jinci or Jin Temple (晉祠) is the most prominent temple complex in Shanxi,
 - **凯宾斯基饭店** — 15.7 km — star — Kempinski Hotels · 5★ · Kempinski
 - **太原富力铂尔曼大酒店** — 24.9 km — star — Pullman Taiyuan · 5★
 - **JW Marriott** — 16.5 km — chain
-- **全季酒店** — 17.0 km — chain — Ji Hotel · 全季酒店
-- **锦江之星** — 19.8 km — chain — Jinjiang Inn · 锦江之星
+- **Hampton by Hilton Taiyuan Wuyi Square** — 19.8 km — chain — Hampton
+- **悦海四季酒店** — 21.7 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

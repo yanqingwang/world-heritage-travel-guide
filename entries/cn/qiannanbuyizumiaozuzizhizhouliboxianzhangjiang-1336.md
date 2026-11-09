@@ -2,7 +2,7 @@
 id: "cn-1336"
 dataset: "china_5a"
 name_zh: "黔南布依族苗族自治州荔波县樟江景区"
-name_en: "Qianxinan Buyei and Miao Autonomous Prefecture"
+name_en: "Yupingjiedao (liboxian) Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Guizhou"
 city_en: "Qiannanbuyizumiaozu Autonomous Prefecture"
 lat: 25.425822
 lon: 107.892801
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 黔南布依族苗族自治州荔波县樟江景区 / Qianxinan Buyei and Miao Autonomous Prefecture
+# 黔南布依族苗族自治州荔波县樟江景区 / Yupingjiedao (liboxian) Scenic Area
 
 > 贵州省 · 黔南布依族苗族自治州 · 地质奇观
-
-## 图片 / Images
-
-![Wan Feng Lin River.jpg](https://upload.wikimedia.org/wikipedia/commons/1/16/Wan_Feng_Lin_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wan Feng Lin River.jpg · Philippe Semanaz from Paris, France · CC BY-SA 2.0*
-
-![ChinaQianxinanCeheng.png](https://upload.wikimedia.org/wikipedia/commons/8/82/ChinaQianxinanCeheng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*ChinaQianxinanCeheng.png · Slb nsk · CC BY-SA 4.0*
-
-![ChinaQianxinanQinglong.png](https://upload.wikimedia.org/wikipedia/commons/6/64/ChinaQianxinanQinglong.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*ChinaQianxinanQinglong.png · Slb nsk · CC BY-SA 4.0*
-
-![ChinaQianxinanXingyi.png](https://upload.wikimedia.org/wikipedia/commons/4/44/ChinaQianxinanXingyi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*ChinaQianxinanXingyi.png · Slb nsk · CC BY-SA 4.0*
-
-![ChinaQianxinanZhenfeng.png](https://upload.wikimedia.org/wikipedia/commons/1/1d/ChinaQianxinanZhenfeng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*ChinaQianxinanZhenfeng.png · Slb nsk · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Qianxinan Buyei and Miao Autonomous Prefecture (Chinese: 黔西南布依族苗族自治州; pinyin: Qiánxīnán Bùyīzú Miáozú Zìzhìzhōu; Buyei: Qianfxiynanf Buxqyaix Buxyeeuz Ziqziqzouy; Hmu: Qeef Xib Naif Dol Yat Dol Hmub Zid Zid Zeb) is an autonomous prefecture of Guizhou province, People's Republic of China, bordering Guangxi to the south and Yunnan to the west. The name, "黔西南" derives from the prefecture's southwest location in the province; "黔" is the official abbreviation for Guizhou, while "西南" means "southwest".
+Libo Zhangjiang Scenic Area consists of the Big and Small Qikong Scenic Area, Shuichun River Scenic Area and Zhangjiang Scenic Area. The scenic area is characterized by rich and diverse karst landforms, the beautiful and unique Zhangjiang River waterscape, prosperous and dense virgin forests, and various rare species of animals and plants. It combines the unique natural landscape of mountains and rivers with the characteristics of the local Buyi, Shui, Yao and other ethnic groups. In 2007, Libo Karst became part of the "Southern China Karst" World Natural Heritage.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -70,10 +50,10 @@ Qianxinan Buyei and Miao Autonomous Prefecture (Chinese: 黔西南布依族苗�
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黔西南布依族苗族自治州)
+- [Wikipedia](https://zh.wikipedia.org/wiki/玉屏街道 (荔波县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

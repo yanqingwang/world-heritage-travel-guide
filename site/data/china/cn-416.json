@@ -10,7 +10,7 @@
  "city_zh": "连云港市",
  "city_en": "Lianyungang",
  "name_zh": "连云港市花果山景区",
- "name_en": "Lianyungangshihuaguoshan Scenic Area",
+ "name_en": "Huaguoshan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "lianyungangshihuaguoshan-416",
  "lat": 34.65221,
@@ -37,7 +37,8 @@
     "lat": 34.41406,
     "lon": 119.17899,
     "type": "large_airport",
-    "distance_km": 27.8
+    "distance_km": 27.8,
+    "name_zh": "连云港花果山国际机场"
    },
    {
     "name": "Rizhao Shanzihe Airport",
@@ -47,7 +48,8 @@
     "lat": 35.405033,
     "lon": 119.324403,
     "type": "medium_airport",
-    "distance_km": 83.9
+    "distance_km": 83.9,
+    "name_zh": "日照机场"
    },
    {
     "name": "Linyi Qiyang Airport",
@@ -57,7 +59,8 @@
     "lat": 35.052918,
     "lon": 118.411828,
     "type": "medium_airport",
-    "distance_km": 90.1
+    "distance_km": 90.1,
+    "name_zh": "临沂启阳国际机场"
    }
   ],
   "nearest_airport_km": 27.8,
@@ -156,7 +159,6 @@
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -186,12 +188,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/朝阳街道 (连云港市)"
+   "url": "https://zh.wikipedia.org/wiki/花果山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

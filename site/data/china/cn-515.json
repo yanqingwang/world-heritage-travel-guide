@@ -78,7 +78,8 @@
     "lat": 23.049999,
     "lon": 114.599998,
     "type": "medium_airport",
-    "distance_km": 20.7
+    "distance_km": 20.7,
+    "name_zh": "惠州平潭机场"
    },
    {
     "name": "Shenzhen Bao'an International Airport",
@@ -88,7 +89,8 @@
     "lat": 22.639474,
     "lon": 113.803262,
     "type": "large_airport",
-    "distance_km": 79.7
+    "distance_km": 79.7,
+    "name_zh": "深圳宝安国际机场"
    },
    {
     "name": "Hong Kong International Airport",
@@ -98,7 +100,8 @@
     "lat": 22.31184,
     "lon": 113.914862,
     "type": "large_airport",
-    "distance_km": 100.5
+    "distance_km": 100.5,
+    "name_zh": "香港国际机场"
    }
   ],
   "nearest_airport_km": 20.7,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

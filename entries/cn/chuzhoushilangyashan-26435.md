@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Chuzhou City"
 lat: 32.28648
 lon: 118.293741
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 滁州市琅琊山景区 / Mount Langya (Anhui)
@@ -65,8 +65,8 @@ Mount Langya (Chinese: 琅琊山; pinyin: Lángyá shān) is a mountain located 
 
 ## 附近酒店 / Nearby hotels
 
-- **Wyndham Chuzhou Hotel** — 5.1 km — chain — Wyndham Chuzhou Hotel · Wyndham
 - **喜来登酒店** — 5.6 km — chain — Sheraton Chuzhou Hotel
+- **Wyndham Chuzhou Hotel** — 5.1 km — chain — Wyndham Chuzhou Hotel · Wyndham
 - **昊天商务酒店** — 9.8 km — hotel
 - **贝壳酒店** — 9.9 km — hotel
 - **滁州阿尔卡迪亚酒店** — 19.9 km — hotel

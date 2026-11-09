@@ -13,34 +13,12 @@ province_en: "Shanxi"
 city_en: "Changzhi"
 lat: 35.952601
 lon: 113.452974
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 长治市太行山大峡谷八泉峡景区 / Tianshan Grand Canyon
 
 > 山西省 · 长治市 · 度假休闲
-
-## 图片 / Images
-
-![Changzhi bayi square rostrum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Changzhi_bayi_square_rostrum.jpg/1280px-Changzhi_bayi_square_rostrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Changzhi bayi square rostrum.jpg · 1969社论 · CC BY-SA 4.0*
-
-![CCP Changzhi committee & Changzhi Gov.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CCP_Changzhi_committee_%26_Changzhi_Gov.jpg/1280px-CCP_Changzhi_committee_%26_Changzhi_Gov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CCP Changzhi committee & Changzhi Gov.jpg · 1969社论 · CC BY-SA 4.0*
-
-![Changzhi Museum.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Changzhi_Museum.jpg/1280px-Changzhi_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Changzhi Museum.jpg · 1969社论 · CC BY-SA 4.0*
-
-![Changzhi guanyintang.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Changzhi_guanyintang.JPG/1280px-Changzhi_guanyintang.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Changzhi guanyintang.JPG · Halazhang · CC BY-SA 4.0*
-
-![Changzhi stadium.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Changzhi_stadium.jpg/1280px-Changzhi_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Changzhi stadium.jpg · 1969社论 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

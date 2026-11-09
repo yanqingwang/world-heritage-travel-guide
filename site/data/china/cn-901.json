@@ -78,7 +78,8 @@
     "lat": 39.859052,
     "lon": 98.339344,
     "type": "large_airport",
-    "distance_km": 11.6
+    "distance_km": 11.6,
+    "name_zh": "嘉峪关酒泉机场"
    },
    {
     "name": "Zhangye Ganzhou Airport",
@@ -88,7 +89,8 @@
     "lat": 38.801899,
     "lon": 100.675003,
     "type": "medium_airport",
-    "distance_km": 238.9
+    "distance_km": 238.9,
+    "name_zh": "张掖甘州机场"
    }
   ],
   "nearest_airport_km": 11.6,
@@ -234,5 +236,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

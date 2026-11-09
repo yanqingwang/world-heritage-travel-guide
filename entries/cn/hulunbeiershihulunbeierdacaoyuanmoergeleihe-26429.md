@@ -2,7 +2,7 @@
 id: "cn-26429"
 dataset: "china_5a"
 name_zh: "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区"
-name_en: "Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area"
+name_en: "Hulunbeiercaoyuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.467238
 lon: 119.716673
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区 / Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area
+# 呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区 / Hulunbeiercaoyuan Scenic Area
 
 > 内蒙古自治区 · 呼伦贝尔市 · 草原沙漠
-
-## 图片 / Images
-
-![Manzhouli view.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manzhouli_view.jpg/1280px-Manzhouli_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Manzhouli view.jpg · Alexander V. Solomin · CC BY-SA 3.0*
-
-![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2016年度全国博物馆名录.pdf · State Administration of Cultural Heritage · Public domain*
-
-![关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf · 国家文物局 · Public domain*
-
-![Barga Banner in Hulunbuir (blue).jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/Barga_Banner_in_Hulunbuir_%28blue%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Barga Banner in Hulunbuir (blue).jpg · Roxanna · CC BY-SA 4.0*
-
-![Barga Banner in Hulunbuir (red).jpg](https://upload.wikimedia.org/wikipedia/commons/2/2f/Barga_Banner_in_Hulunbuir_%28red%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Barga Banner in Hulunbuir (red).jpg · Roxanna · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -65,10 +43,10 @@ Hulunbuir Prairie·Morgele River Scenic Area is located in Chenbalhu Banner, Hul
 
 ## 附近酒店 / Nearby hotels
 
-- **7天连锁酒店呼伦贝尔海拉尔中央桥店** — 28.7 km — chain — 7Days Inn Hulun Buir Shengli Street
 - **呼伦贝尔融府商务酒店** — 27.9 km — hotel
 - **呼伦布尔** — 28.4 km — hotel
 - **呼伦贝尔酒店** — 28.6 km — hotel
+- **7天连锁酒店呼伦贝尔海拉尔中央桥店** — 28.7 km — chain — 7Days Inn Hulun Buir Shengli Street
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
@@ -79,4 +57,5 @@ Hulunbuir Prairie·Morgele River Scenic Area is located in Chenbalhu Banner, Hul
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/呼伦贝尔草原)
 - [OpenStreetMap](https://www.openstreetmap.org/)

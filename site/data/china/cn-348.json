@@ -24,48 +24,7 @@
  "intro_zh": "阿勒泰地区富蕴可可托海景区占地面积788平方公里，主要由卡拉先格尔地震断裂带、可可苏里、伊雷木湖、额尔齐斯大峡谷组成，集优美峡谷河源风光、沼泽湿地景观、寒极湖泊、独特地貌等自然景色为一体，融合草原游牧文化、西域民族风情、地域特色民俗等人文景观，以观光旅游、休闲度假、特种旅游（徒步、摄影等）、科学考察等为主要特色的国家5A级旅游景区、国际原生态旅游景区。",
  "intro_en": "Fuyun Keketuohai (Koktokay) Airport (IATA: FYN, ICAO: ZWFY) is an airport serving Fuyun County in Altay Prefecture, Xinjiang, China. The old airport of Fuyun was built in 1965, located 38 kilometres (24 mi) from the county seat. It served a single route to Ürümqi until it was canceled in 1994, after the closing of the Koktokay mine. In November 2011, the State Council of China approved the proposal to move and rebuild Fuyun Airport. The new airport is located near the intersection of the provincial highway 226 and the national highway 216, 21 kilometres (13 mi) from the county seat. It is a class 4C regional airport, and the airport was projected to cost 410 million yuan to build. The airport was opened on 1 August 2015, when the inaugural China Southern Airlines flight from Urumqi Diwopu International Airport landed at the airport.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/ColourfulBeach.jpg/1280px-ColourfulBeach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "ColourfulBeach.jpg",
-   "author": "Fanghong",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:ColourfulBeach.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Altay%2C_Xinjiang%2C_China_-_panoramio.jpg/1280px-Altay%2C_Xinjiang%2C_China_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Altay, Xinjiang, China - panoramio.jpg",
-   "author": "余华峰",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://web.archive.org/web/20161012070525/http://www.panoramio.com/photo/15486329",
-   "source": "https://commons.wikimedia.org/wiki/File:Altay,_Xinjiang,_China_-_panoramio.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Altay%2C_Xinjiang%2C_China_-_panoramio_%2810%29.jpg/1280px-Altay%2C_Xinjiang%2C_China_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Altay, Xinjiang, China - panoramio (10).jpg",
-   "author": "陈琛",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://web.archive.org/web/20161102182853/http://www.panoramio.com/photo/77611886",
-   "source": "https://commons.wikimedia.org/wiki/File:Altay,_Xinjiang,_China_-_panoramio_(10).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Altay%2C_Xinjiang%2C_China_-_panoramio_%289%29.jpg/1280px-Altay%2C_Xinjiang%2C_China_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Altay, Xinjiang, China - panoramio (9).jpg",
-   "author": "陈琛",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://web.archive.org/web/20161025182747/http://www.panoramio.com/photo/77611311",
-   "source": "https://commons.wikimedia.org/wiki/File:Altay,_Xinjiang,_China_-_panoramio_(9).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Burqin%2C_Altay%2C_Xinjiang%2C_China_-_panoramio_-_neverdance_%287%29-1.jpg/1280px-Burqin%2C_Altay%2C_Xinjiang%2C_China_-_panoramio_-_neverdance_%287%29-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Burqin, Altay, Xinjiang, China - panoramio - neverdance (7)-1.jpg",
-   "author": "neverdance",
-   "license": "CC BY 3.0",
-   "credit": "File:Burqin,_Altay,_Xinjiang,_China_-_panoramio_-_neverdance_(7).jpg",
-   "source": "https://commons.wikimedia.org/wiki/File:Burqin,_Altay,_Xinjiang,_China_-_panoramio_-_neverdance_(7)-1.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 46.804169,
     "lon": 89.512006,
     "type": "medium_airport",
-    "distance_km": 53.5
+    "distance_km": 53.5,
+    "name_zh": "富蕴机场"
    },
    {
     "name": "Altay Xuedu Airport",
@@ -88,7 +48,8 @@
     "lat": 47.749886,
     "lon": 88.085808,
     "type": "medium_airport",
-    "distance_km": 147.0
+    "distance_km": 147.0,
+    "name_zh": "阿勒泰机场"
    },
    {
     "name": "Khovd Airport",
@@ -98,7 +59,8 @@
     "lat": 47.954102,
     "lon": 91.628197,
     "type": "medium_airport",
-    "distance_km": 154.9
+    "distance_km": 154.9,
+    "name_zh": "科布多城"
    }
   ],
   "nearest_airport_km": 53.5,
@@ -181,5 +143,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

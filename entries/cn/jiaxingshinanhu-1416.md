@@ -2,7 +2,7 @@
 id: "cn-1416"
 dataset: "china_5a"
 name_zh: "嘉兴市南湖旅游区"
-name_en: "Jiaxing"
+name_en: "Nanhu Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Zhejiang"
 city_en: "Jiaxing City"
 lat: 30.756238
 lon: 120.77231
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 嘉兴市南湖旅游区 / Jiaxing
+# 嘉兴市南湖旅游区 / Nanhu Tourist Area
 
 > 浙江省 · 嘉兴市 · 历史遗址
-
-## 图片 / Images
-
-![Night (35420240).jpeg](https://upload.wikimedia.org/wikipedia/commons/2/26/Night_%2835420240%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Night (35420240).jpeg · Yang Lao · CC BY-SA 3.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![浙江省人民政府公报2019年第15期.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC15%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC15%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*浙江省人民政府公报2019年第15期.pdf · Zhejiang People's Government · Public domain*
-
-![浙江省人民政府公报2019年第16期.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC16%E6%9C%9F.pdf/page1-960px-%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%AC%E6%8A%A52019%E5%B9%B4%E7%AC%AC16%E6%9C%9F.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*浙江省人民政府公报2019年第16期.pdf · Zhejiang People's Government · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Jiaxing (simplified Chinese: 嘉兴; traditional Chinese: 嘉興; pinyin: Jiāxīng; Wade–Giles: Chia-hsing), alternately romanized as Kashing, is a prefecture-level city in northern Zhejiang province, China. Lying on the Grand Canal of China, Jiaxing borders Hangzhou to the southwest, Huzhou to the west, Shanghai to the northeast, and the province of Jiangsu to the north. As of the 2020 census, its population was 5,400,868 and its built-up (or metro) area, made up of 2 urban districts was home to 1,518,654 inhabitants.
+Jiaxing South Lake shines in history as an integral part of the site of the National Congress of the Communist Party of China. Nanhu is divided into East and West lakes, which are shaped like mandarin ducks crossing their necks, so it is also called Yuanyang Lake. The scenic area includes the core area of ​​Nanhu, Yuehe Historical Street, Qiyi Square, etc. It is a comprehensive historical and cultural scenic spot integrating tourism, Nanhu scenery, leisure and entertainment, and historical education.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,10 +54,10 @@ Jiaxing (simplified Chinese: 嘉兴; traditional Chinese: 嘉興; pinyin: Jiāx�
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/嘉兴市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/南湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

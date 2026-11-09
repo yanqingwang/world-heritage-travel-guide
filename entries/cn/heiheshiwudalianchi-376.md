@@ -13,18 +13,12 @@ province_en: "Heilongjiang"
 city_en: "Heihe City"
 lat: 48.699183
 lon: 126.168957
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 黑河市五大连池景区 / Wudalianchi Dedu Airport
 
 > 黑龙江省 · 黑河市 · 山地风光
-
-## 图片 / Images
-
-![黑河市市容和环境卫生管理条例.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*黑河市市容和环境卫生管理条例.pdf · Q106036866 · Public domain*
 
 ## 简介 / Introduction
 

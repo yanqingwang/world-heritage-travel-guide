@@ -10,7 +10,7 @@
  "city_zh": "博尔塔拉蒙古自治州",
  "city_en": "Bortala Mongol Autonomous Prefecture",
  "name_zh": "博尔塔拉蒙古自治州赛里木湖景区",
- "name_en": "Boertalamengguzizhizhousailimuhu Scenic Area",
+ "name_en": "Sailimuhu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "boertalamengguzizhizhousailimuhu-316",
  "lat": 44.612755,
@@ -46,7 +46,8 @@
     "lat": 43.955799,
     "lon": 81.330299,
     "type": "medium_airport",
-    "distance_km": 73.3
+    "distance_km": 73.3,
+    "name_zh": "伊犁伊宁国际机场"
    },
    {
     "name": "Bole Alashankou Airport",
@@ -56,7 +57,8 @@
     "lat": 44.895461,
     "lon": 82.30007,
     "type": "medium_airport",
-    "distance_km": 77.6
+    "distance_km": 77.6,
+    "name_zh": "博乐阿拉山口机场"
    },
    {
     "name": "Zhaosu Tianma Airport",
@@ -66,7 +68,8 @@
     "lat": 43.088477,
     "lon": 81.223013,
     "type": "small_airport",
-    "distance_km": 170.1
+    "distance_km": 170.1,
+    "name_zh": "昭苏天马机场"
    }
   ],
   "nearest_airport_km": 73.3,
@@ -132,9 +135,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/赛里木湖"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

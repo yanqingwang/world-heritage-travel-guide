@@ -78,7 +78,8 @@
     "lat": 27.7936,
     "lon": 99.6772,
     "type": "medium_airport",
-    "distance_km": 23.3
+    "distance_km": 23.3,
+    "name_zh": "迪庆香格里拉机场"
    },
    {
     "name": "Ninglang Luguhu Airport",
@@ -88,7 +89,8 @@
     "lat": 27.5403,
     "lon": 100.7593,
     "type": "medium_airport",
-    "distance_km": 88.5
+    "distance_km": 88.5,
+    "name_zh": "宁蒗泸沽湖机场"
    },
    {
     "name": "Lijiang Sanyi International Airport",
@@ -98,7 +100,8 @@
     "lat": 26.677483,
     "lon": 100.244944,
     "type": "large_airport",
-    "distance_km": 129.9
+    "distance_km": 129.9,
+    "name_zh": "丽江三义机场"
    }
   ],
   "nearest_airport_km": 23.3,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

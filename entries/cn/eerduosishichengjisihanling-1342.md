@@ -13,7 +13,7 @@ province_en: "Inner Mongolia"
 city_en: "Ordos"
 lat: 39.349464
 lon: 109.807367
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 鄂尔多斯市成吉思汗陵旅游区 / Mausoleum of Genghis Khan

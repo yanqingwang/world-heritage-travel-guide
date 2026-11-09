@@ -24,24 +24,7 @@
  "intro_zh": "武夷山位于中国福建北部，素有“碧水丹山”“奇秀甲东南”之美誉，是首批国家级重点风景名胜区之一。武夷山分布着世界同纬度带现存最完整、最典型、面积最大的中亚热带原生性森林生态系统。主要景点有天游峰、桃源洞、武夷宫、大王峰、玉女峰、虎啸岩、一线天、天心寺、莲花峰、遇林亭。",
  "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Water-of-Five-colored-Pond Huanglong Sichuan China.jpg",
-   "author": "Kounosu",
-   "license": "CC BY-SA 3.0",
-   "credit": "Self-photographed",
-   "source": "https://commons.wikimedia.org/wiki/File:Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm/1280px--2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-   "title": "2020年7月8日 福建武夷山遭强暴雨袭击 全市停水 景区关闭.webm",
-   "author": "中国新闻网",
-   "license": "CC BY 3.0",
-   "credit": "YouTube : 福建武夷山遭强暴雨袭击 全市停水 景区关闭 – View/save archived versions on archive.org",
-   "source": "https://commons.wikimedia.org/wiki/File:2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -54,7 +37,8 @@
     "lat": 27.7019,
     "lon": 118.000999,
     "type": "medium_airport",
-    "distance_km": 5.3
+    "distance_km": 5.3,
+    "name_zh": "武夷山机场"
    },
    {
     "name": "Shangrao Sanqingshan Airport",
@@ -64,7 +48,8 @@
     "lat": 28.3797,
     "lon": 117.9643,
     "type": "medium_airport",
-    "distance_km": 79.1
+    "distance_km": 79.1,
+    "name_zh": "上饶三清山机场"
    },
    {
     "name": "Sanming Shaxian Airport",
@@ -74,7 +59,8 @@
     "lat": 26.4263,
     "lon": 117.8336,
     "type": "medium_airport",
-    "distance_km": 138.7
+    "distance_km": 138.7,
+    "name_zh": "三明沙县机场"
    }
   ],
   "nearest_airport_km": 5.3,
@@ -220,5 +206,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -24,48 +24,7 @@
  "intro_zh": "娲皇宫景区座落在一万年前的新石器时代遗址上，由入口区、补天园、补天湖、娲皇宫和补天谷五部分组成。娲皇宫自汉代创建神庙三楹，现存北齐石刻、唐代题记、宋代砖墙、明清建筑等古遗址，有林地、山谷、园林、水系等自然景观，是研究我国根祖文化的重要基地。",
  "intro_en": "The Nüwa Palace, also known as Wahuang Palace and by its Chinese name Wahuanggong, is a compound of palaces and temples beside Phoenix Mountain (Fenghuangshan) in She County, Handan Prefecture, Hebei Province, China. It principally honors the Chinese goddess Nüwa, whom the ancient Chinese believed created mankind and repaired the sky in prehistoric times. As such, the location is treated as a kind of ancestral shrine of all humankind and sees increased pilgrimage on Tomb Sweeping Day. The scenic area now covers 2600 mu (1.67 km2 or 0.64 sq mi) and was made a AAAAA tourist attraction by China's National Tourism Administration in 2015.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%E9%82%AF%E9%83%B8%E5%B8%82%E8%A1%97%E9%81%9301.jpg/1280px-%E9%82%AF%E9%83%B8%E5%B8%82%E8%A1%97%E9%81%9301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "邯郸市街道01.jpg",
-   "author": "User:我乃野云鹤",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:邯郸市街道01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/201606_Handan%E2%80%93Huanghua_Railway1.jpg/1280px-201606_Handan%E2%80%93Huanghua_Railway1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "201606 Handan–Huanghua Railway1.jpg",
-   "author": "MNXANL",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:201606_Handan–Huanghua_Railway1.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Handan-location-MAP-in-Hebei-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Handan-location-MAP-in-Hebei-Province-China.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Handan-location-MAP-in-Hebei-Province-China.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Handan_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Handan mcp.png",
-   "author": "Maggern87",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Handan_mcp.png"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Location_of_Handan_Prefecture_within_Hebei_%28China%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Location of Handan Prefecture within Hebei (China).png",
-   "author": "Croquant",
-   "license": "CC BY 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Location_of_Handan_Prefecture_within_Hebei_(China).png"
-  }
- ],
+ "images": [],
  "web": "https://216876.12301.cc/h5/",
  "booking": "https://216876.12301.cc/h5/prod/190087?disId=466d9d51&parentId=3691502",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 36.247501,
     "lon": 113.125999,
     "type": "small_airport",
-    "distance_km": 61.8
+    "distance_km": 61.8,
+    "name_zh": "长治王村机场"
    },
    {
     "name": "Handan Airport",
@@ -88,7 +48,8 @@
     "lat": 36.524824,
     "lon": 114.424126,
     "type": "medium_airport",
-    "distance_km": 73.4
+    "distance_km": 73.4,
+    "name_zh": "邯郸机场"
    },
    {
     "name": "Anyang Hongqiqu Airport",
@@ -98,7 +59,8 @@
     "lat": 35.870833,
     "lon": 114.461944,
     "type": "small_airport",
-    "distance_km": 114.4
+    "distance_km": 114.4,
+    "name_zh": "安阳红旗渠机场"
    }
   ],
   "nearest_airport_km": 61.8,
@@ -201,5 +163,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -78,7 +78,8 @@
     "lat": 28.189199,
     "lon": 113.220001,
     "type": "large_airport",
-    "distance_km": 27.1
+    "distance_km": 27.1,
+    "name_zh": "长沙黄花国际机场"
    },
    {
     "name": "Yueyang Sanhe Airport",
@@ -88,7 +89,8 @@
     "lat": 29.311699,
     "lon": 113.281574,
     "type": "medium_airport",
-    "distance_km": 129.1
+    "distance_km": 129.1,
+    "name_zh": "岳阳三荷机场"
    },
    {
     "name": "Yichun Mingyueshan Airport",
@@ -98,7 +100,8 @@
     "lat": 27.8025,
     "lon": 114.3062,
     "type": "medium_airport",
-    "distance_km": 140.5
+    "distance_km": 140.5,
+    "name_zh": "宜春明月山机场"
    }
   ],
   "nearest_airport_km": 27.1,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

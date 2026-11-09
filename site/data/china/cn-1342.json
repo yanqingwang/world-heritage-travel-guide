@@ -78,7 +78,8 @@
     "lat": 39.493514,
     "lon": 109.8599,
     "type": "large_airport",
-    "distance_km": 16.6
+    "distance_km": 16.6,
+    "name_zh": "鄂尔多斯伊金霍洛机场"
    },
    {
     "name": "Yulin Yuyang Airport",
@@ -88,7 +89,8 @@
     "lat": 38.35971,
     "lon": 109.590927,
     "type": "medium_airport",
-    "distance_km": 111.6
+    "distance_km": 111.6,
+    "name_zh": "榆林西沙机场"
    },
    {
     "name": "Baotou Donghe International Airport",
@@ -98,7 +100,8 @@
     "lat": 40.560001,
     "lon": 109.997002,
     "type": "large_airport",
-    "distance_km": 135.6
+    "distance_km": 135.6,
+    "name_zh": "包头东河国际机场"
    }
   ],
   "nearest_airport_km": 16.6,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -78,7 +78,8 @@
     "lat": 29.342095,
     "lon": 120.03116,
     "type": "large_airport",
-    "distance_km": 35.9
+    "distance_km": 35.9,
+    "name_zh": "义乌机场"
    },
    {
     "name": "Hangzhou Xiaoshan International Airport",
@@ -88,7 +89,8 @@
     "lat": 30.23609,
     "lon": 120.428865,
     "type": "large_airport",
-    "distance_km": 121.9
+    "distance_km": 121.9,
+    "name_zh": "杭州萧山国际机场"
    },
    {
     "name": "Taizhou Luqiao Airport",
@@ -98,7 +100,8 @@
     "lat": 28.562201,
     "lon": 121.429001,
     "type": "medium_airport",
-    "distance_km": 125.6
+    "distance_km": 125.6,
+    "name_zh": "台州路桥机场"
    }
   ],
   "nearest_airport_km": 35.9,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

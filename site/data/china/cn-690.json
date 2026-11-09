@@ -78,7 +78,8 @@
     "lat": 25.929254,
     "lon": 119.672524,
     "type": "large_airport",
-    "distance_km": 40.9
+    "distance_km": 40.9,
+    "name_zh": "福州长乐国际机场"
    },
    {
     "name": "Matsu Nangan Airport",
@@ -88,7 +89,8 @@
     "lat": 26.159656,
     "lon": 119.958376,
     "type": "medium_airport",
-    "distance_km": 65.9
+    "distance_km": 65.9,
+    "name_zh": "马祖南竿机场"
    },
    {
     "name": "Matsu Beigan Airport",
@@ -98,7 +100,8 @@
     "lat": 26.22414,
     "lon": 120.002679,
     "type": "medium_airport",
-    "distance_km": 71.4
+    "distance_km": 71.4,
+    "name_zh": "马祖北竿机场"
    }
   ],
   "nearest_airport_km": 40.9,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

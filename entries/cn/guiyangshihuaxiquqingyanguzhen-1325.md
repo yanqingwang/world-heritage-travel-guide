@@ -2,7 +2,7 @@
 id: "cn-1325"
 dataset: "china_5a"
 name_zh: "贵阳市花溪区青岩古镇景区"
-name_en: "Guiyang"
+name_en: "Guiyangshihuaxiquqingyanguzhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Guizhou"
 city_en: "Guiyang City"
 lat: 26.337982
 lon: 106.692629
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 贵阳市花溪区青岩古镇景区 / Guiyang
+# 贵阳市花溪区青岩古镇景区 / Guiyangshihuaxiquqingyanguzhen Scenic Area
 
 > 贵州省 · 贵阳市 · 红色旅游
-
-## 图片 / Images
-
-![Guiyang montage 2019.png](https://upload.wikimedia.org/wikipedia/commons/6/63/Guiyang_montage_2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Guiyang montage 2019.png · Akira CA · CC BY-SA 3.0*
-
-![贵阳市青岩古镇保护条例.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%E8%B4%B5%E9%98%B3%E5%B8%82%E9%9D%92%E5%B2%A9%E5%8F%A4%E9%95%87%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E8%B4%B5%E9%98%B3%E5%B8%82%E9%9D%92%E5%B2%A9%E5%8F%A4%E9%95%87%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*贵阳市青岩古镇保护条例.pdf · Q106007123 · Public domain*
-
-![Guiyang-location-MAP-in-Guizhou-Province-China.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Guiyang-location-MAP-in-Guizhou-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Guiyang-location-MAP-in-Guizhou-Province-China.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Guiyang URT (Metro) Line 1 CRRC Nanjing Puzhen B train.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Guiyang_URT_%28Metro%29_Line_1_CRRC_Nanjing_Puzhen_B_train.jpg/1280px-Guiyang_URT_%28Metro%29_Line_1_CRRC_Nanjing_Puzhen_B_train.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Guiyang URT (Metro) Line 1 CRRC Nanjing Puzhen B train.jpg · Wahsaw · CC BY-SA 4.0*
-
-![贵阳市，贵州 202403 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/%E8%B4%B5%E9%98%B3%E5%B8%82%EF%BC%8C%E8%B4%B5%E5%B7%9E_202403_2.jpg/1280px-%E8%B4%B5%E9%98%B3%E5%B8%82%EF%BC%8C%E8%B4%B5%E5%B7%9E_202403_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*贵阳市，贵州 202403 2.jpg · FN-082 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Guiyang is the capital of Guizhou province in the People's Republic of China. It is centrally located within the province, on the eastern part of the Yunnan–Guizhou Plateau, and sits on the north bank of the Nanming River, a tributary of the Wu River. The city is situated at an elevation of approximately 1,100 meters (3,600 ft) and covers an area of 8,034 square kilometers (3,102 sq mi). According to the 2020 census, Guiyang had a total population of 5,987,018, with 4,506,134 lived in its six urban districts. Despite being the capital of Guizhou, it is not the largest city in the province, which is Zunyi. Guiyang has a humid subtropical climate and is surrounded by mountains and forests. The area has been inhabited since at least the Spring and Autumn period and officially became the provincial capital in 1413, during the Ming dynasty. The city is home to a significant Miao and Bouyei ethnic minority population. Guiyang has a diversified economy, historically known for aluminum production, phosphate mining, and optical instrument manufacturing. Following economic reforms, the service sector now contributes the majority of the city's economic output. Since 2015, targeted development
+Qingyan Ancient Town was built in the 10th year of Hongwu in the Ming Dynasty (1378) and was originally a military fortress. The ancient town is densely packed with ancient buildings from the Ming and Qing dynasties with exquisite designs and exquisite craftsmanship. In the town, there are scenic spots such as Qingyan Missionary Plan Site, Zhao Zhuangyuan's Mansion, Mr. Ping Gang's Former Residence, and the Red Army's Long March Operation Headquarters.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +53,10 @@ Guiyang is the capital of Guizhou province in the People's Republic of China. It
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/贵阳市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/花溪区各级文物保护单位列表)
 - [OpenStreetMap](https://www.openstreetmap.org/)

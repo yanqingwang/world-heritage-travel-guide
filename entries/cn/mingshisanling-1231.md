@@ -2,7 +2,7 @@
 id: "cn-1231"
 dataset: "china_5a"
 name_zh: "明十三陵景区"
-name_en: "Mingshisanling Scenic Area"
+name_en: "Ming tombs"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Beijing"
 city_en: "Changping District"
 lat: 40.263544
 lon: 116.231846
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 明十三陵景区 / Mingshisanling Scenic Area
+# 明十三陵景区 / Ming tombs
 
 > 北京市 · 昌平区 · 历史遗址
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-The Ming Tombs, a national scenic spot, is located at the southern foot of Tianshou Mountain in Changping District, 50 kilometers north of Beijing. It is the mausoleum complex of the thirteen emperors of the Ming Dynasty (1368-1644). It is large in scale, complete in system, and relatively well preserved. The area has beautiful natural landscapes and a collection of cultural relics and historic sites.
-
-*English introduction: machine translation.*
+The Ming tombs are a collection of mausoleums built by the emperors of the Ming dynasty of China. The tomb of the first Ming ruler, the Hongwu Emperor (r. 1368–1398), is located near his capital Nanjing. However, the majority of the Ming tombs are located in a cluster near Beijing and collectively known as the Thirteen Tombs of the Ming dynasty (Chinese: 明十三陵; pinyin: Míng Shísān Líng; lit. 'Ming Thirteen Mausoleums'). They are located within the suburban Changping District of Beijing Municipality, 42 kilometers (26 mi) north-northwest of Beijing's city center. The site, on the southern slope of Tianshou Mountain (originally Huangtu Mountain), was chosen based on the principles of feng shui by the third Ming emperor, the Yongle Emperor (r. 1402–1424). After the construction of the Imperial Palace (Forbidden City) in 1420, the Yongle Emperor selected his burial site and created his own mausoleum. Most of the subsequent emperors placed their tombs in the same valley. From the Yongle Emperor onwards, thirteen Ming emperors were buried in the same area. The Hongwu Emperor's Xiaoling Mausoleum is located near his capital Nanjing; the second emperor, the Jianwen Emperor (r. 1398–1402), w
 
 ## 交通 / Transport
 
@@ -76,9 +74,10 @@ The Ming Tombs, a national scenic spot, is located at the southern foot of Tians
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/明十三陵)
 - [OpenStreetMap](https://www.openstreetmap.org/)

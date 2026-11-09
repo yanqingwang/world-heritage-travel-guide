@@ -10,8 +10,8 @@
  "city_zh": "无锡市",
  "city_en": "Wuxi",
  "name_zh": "无锡市鼋头渚旅游风景区",
- "name_en": "Yuantouzhu",
- "name_en_source": "wikipedia",
+ "name_en": "Yuantouzhu Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "wuxishiyuantouzhulvyou-474",
  "lat": 31.479468,
  "lon": 120.280659,
@@ -46,7 +46,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 14.3
+    "distance_km": 14.3,
+    "name_zh": "无锡硕放机场"
    },
    {
     "name": "Changzhou Benniu International Airport",
@@ -56,7 +57,8 @@
     "lat": 31.920485,
     "lon": 119.77546,
     "type": "medium_airport",
-    "distance_km": 68.5
+    "distance_km": 68.5,
+    "name_zh": "常州奔牛机场"
    },
    {
     "name": "Nantong Xingdong International Airport",
@@ -66,7 +68,8 @@
     "lat": 32.073566,
     "lon": 120.980076,
     "type": "medium_airport",
-    "distance_km": 93.5
+    "distance_km": 93.5,
+    "name_zh": "南通兴东国际机场"
    }
   ],
   "nearest_airport_km": 14.3,
@@ -180,11 +183,10 @@
  "hotels_nearby_30km": 110,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -203,7 +205,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -221,5 +223,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

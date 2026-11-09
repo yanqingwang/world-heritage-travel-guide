@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Qijiang County"
 lat: 28.870914
 lon: 106.978844
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 万盛黑山谷-龙鳞石海风景区 / Wanshengdongzhan (chongqingshi) Scenic Area

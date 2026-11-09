@@ -2,7 +2,7 @@
 id: "cn-325"
 dataset: "china_5a"
 name_zh: "阜阳市八里河风景区"
-name_en: "Fuyang"
+name_en: "Balihefengjingqu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Anhui"
 city_en: "Fuyang City"
 lat: 32.567479
 lon: 116.321721
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 阜阳市八里河风景区 / Fuyang
+# 阜阳市八里河风景区 / Balihefengjingqu Scenic Area
 
 > 安徽省 · 阜阳市 · 皇家园林
-
-## 图片 / Images
-
-![Fuyang Anhui Downtown Area Walkway.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fuyang_Anhui_Downtown_Area_Walkway.jpeg/1280px-Fuyang_Anhui_Downtown_Area_Walkway.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fuyang Anhui Downtown Area Walkway.jpeg · Huihermit · CC0*
-
-![China Anhui Fuyang.png](https://upload.wikimedia.org/wikipedia/commons/d/de/China_Anhui_Fuyang.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*China Anhui Fuyang.png · Sino0phile · CC BY-SA 4.0*
-
-![Fuyang Anhui Bridge.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fuyang_Anhui_Bridge.jpeg/1280px-Fuyang_Anhui_Bridge.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fuyang Anhui Bridge.jpeg · Huihermit · CC0*
-
-![Fuyang City Skyline (20240930).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Fuyang_City_Skyline_%2820240930%29.jpg/1280px-Fuyang_City_Skyline_%2820240930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fuyang City Skyline (20240930).jpg · Fumikas Sagisavas · CC0*
-
-![Fuyang Museum 2015.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Fuyang_Museum_2015.jpeg/1280px-Fuyang_Museum_2015.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Fuyang Museum 2015.jpeg · Huihermit · CC0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Fuyang (simplified Chinese: 阜阳; traditional Chinese: 阜陽; pinyin: , previously romanized as Fowyang) is a prefecture-level city in northwestern Anhui province, China. It is bordered by Henan province to the west and the cities of Bozhou to the northeast, Huainan to the southeast, and Lu'an to the south. Its population was 8,200,264 inhabitants at the 2020 census whom 2,128,538 lived in the built-up (or metro) area made of 3 urban districts Yingzhou, Yingdong and Yingquan.
+The main park of Balihe Scenic Area in Yingshang includes scenic spots such as "World Scenery", "Splendid China", "Bibo Tourist Area" and "Niaoling Forest", with vast expanse of blue waves and beautiful scenery. Bali River Scenic Area integrates Chinese and Western architecture, fully displaying the charm of architectural culture and garden culture.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -69,10 +49,10 @@ Fuyang (simplified Chinese: 阜阳; traditional Chinese: 阜陽; pinyin: , previ
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/阜阳市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/八里河风景区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

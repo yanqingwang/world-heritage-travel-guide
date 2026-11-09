@@ -78,7 +78,8 @@
     "lat": 40.077349,
     "lon": 116.596702,
     "type": "large_airport",
-    "distance_km": 24.1
+    "distance_km": 24.1,
+    "name_zh": "北京首都国际机场"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -88,7 +89,8 @@
     "lat": 39.501289,
     "lon": 116.413967,
     "type": "large_airport",
-    "distance_km": 58.0
+    "distance_km": 58.0,
+    "name_zh": "北京大兴国际机场"
    },
    {
     "name": "Tianjin Binhai International Airport",
@@ -98,7 +100,8 @@
     "lat": 39.124401092499994,
     "lon": 117.346000671,
     "type": "large_airport",
-    "distance_km": 132.5
+    "distance_km": 132.5,
+    "name_zh": "天津滨海国际机场"
    }
   ],
   "nearest_airport_km": 24.1,
@@ -253,5 +256,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

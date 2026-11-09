@@ -24,48 +24,7 @@
  "intro_zh": "朱德故里景区位于四川省南充市仪陇县东部，规划面积约5.6平方公里。景区内有国家级文保单位3处：朱德故居、朱德诞生地、丁氏庄园。省级文保单位11处：朱德同志故居纪念馆、朱德父母故居、朱德生父墓地、药铺垭私塾、席家砭私塾、金城小学、琳琅井、朱德母亲墓地、四方田、马鞍中学题词碑、朱德故里碑。",
  "intro_en": "Zhu De's Former Residence (Chinese: 朱德故居; pinyin: Zhū Dé Gùjū) was built during the late Qing Dynasty (1644–1911). It is located in Linlang Village, Ma'an Town, Yilong County, Sichuan, China. It has a building area of about 2560 square meters, embodies buildings such as the old houses, the Zhu De Memorial Hall, the statue of Zhu De, the Cultural relics Exhibition Hall, and Lancao Garden (兰草园).",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Nanchong_night.jpg/1280px-Nanchong_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Nanchong night.jpg",
-   "author": "Mengyl97",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Nanchong_night.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/202309_Nanchong_Overview.jpg/1280px-202309_Nanchong_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "202309 Nanchong Overview.jpg",
-   "author": "MNXANL",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:202309_Nanchong_Overview.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Exit_A%2C_Nanchong_Station%2C_Guangzhou_Metro.jpg/1280px-Exit_A%2C_Nanchong_Station%2C_Guangzhou_Metro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Exit A, Nanchong Station, Guangzhou Metro.jpg",
-   "author": "Chinen Sieru",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Exit_A,_Nanchong_Station,_Guangzhou_Metro.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Exit_B%2C_Nanchong_Station%2C_Fmetro_20220501.jpg/1280px-Exit_B%2C_Nanchong_Station%2C_Fmetro_20220501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Exit B, Nanchong Station, Fmetro 20220501.jpg",
-   "author": "Nrya",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Exit_B,_Nanchong_Station,_Fmetro_20220501.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Nanchong_Railway_Station_202501.jpg/1280px-Nanchong_Railway_Station_202501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Nanchong Railway Station 202501.jpg",
-   "author": "SunLong2002",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Nanchong_Railway_Station_202501.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 31.73842,
     "lon": 106.644872,
     "type": "medium_airport",
-    "distance_km": 30.2
+    "distance_km": 30.2,
+    "name_zh": "巴中机场"
    },
    {
     "name": "Langzhong Gucheng Airport",
@@ -88,7 +48,8 @@
     "lat": 31.50191,
     "lon": 106.034417,
     "type": "medium_airport",
-    "distance_km": 54.6
+    "distance_km": 54.6,
+    "name_zh": "阆中古城机场"
    },
    {
     "name": "Nanchong Gaoping Airport",
@@ -98,7 +59,8 @@
     "lat": 30.798104,
     "lon": 106.16415,
     "type": "small_airport",
-    "distance_km": 85.7
+    "distance_km": 85.7,
+    "name_zh": "南充高坪机场"
    }
   ],
   "nearest_airport_km": 30.2,
@@ -178,5 +140,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

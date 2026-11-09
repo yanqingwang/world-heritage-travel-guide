@@ -10,8 +10,8 @@
  "city_zh": "阜阳市",
  "city_en": "Fuyang City",
  "name_zh": "阜阳市八里河风景区",
- "name_en": "Fuyang",
- "name_en_source": "wikipedia",
+ "name_en": "Balihefengjingqu Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "fuyangshibalihe-325",
  "lat": 32.567479,
  "lon": 116.321721,
@@ -22,50 +22,9 @@
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
  "intro_zh": "颍上八里河景区主园区包含“世界风光”“锦绣中华”“碧波游览区”“鸟语林”等景点碧波万顷，风光旖旎。八里河景区融中西建筑于一体，尽现建筑文化和园林文化的魅力。",
- "intro_en": "Fuyang (simplified Chinese: 阜阳; traditional Chinese: 阜陽; pinyin: , previously romanized as Fowyang) is a prefecture-level city in northwestern Anhui province, China. It is bordered by Henan province to the west and the cities of Bozhou to the northeast, Huainan to the southeast, and Lu'an to the south. Its population was 8,200,264 inhabitants at the 2020 census whom 2,128,538 lived in the built-up (or metro) area made of 3 urban districts Yingzhou, Yingdong and Yingquan.",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Fuyang_Anhui_Downtown_Area_Walkway.jpeg/1280px-Fuyang_Anhui_Downtown_Area_Walkway.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Fuyang Anhui Downtown Area Walkway.jpeg",
-   "author": "Huihermit",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_Anhui_Downtown_Area_Walkway.jpeg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/China_Anhui_Fuyang.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "China Anhui Fuyang.png",
-   "author": "Sino0phile",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:China_Anhui_Fuyang.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Fuyang_Anhui_Bridge.jpeg/1280px-Fuyang_Anhui_Bridge.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Fuyang Anhui Bridge.jpeg",
-   "author": "Huihermit",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_Anhui_Bridge.jpeg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Fuyang_City_Skyline_%2820240930%29.jpg/1280px-Fuyang_City_Skyline_%2820240930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Fuyang City Skyline (20240930).jpg",
-   "author": "Fumikas Sagisavas",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_City_Skyline_(20240930).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Fuyang_Museum_2015.jpeg/1280px-Fuyang_Museum_2015.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Fuyang Museum 2015.jpeg",
-   "author": "Huihermit",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Fuyang_Museum_2015.jpeg"
-  }
- ],
+ "intro_en": "The main park of Balihe Scenic Area in Yingshang includes scenic spots such as \"World Scenery\", \"Splendid China\", \"Bibo Tourist Area\" and \"Niaoling Forest\", with vast expanse of blue waves and beautiful scenery. Bali River Scenic Area integrates Chinese and Western architecture, fully displaying the charm of architectural culture and garden culture.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "",
  "booking": "http://www.balihe.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 32.882157,
     "lon": 115.734364,
     "type": "medium_airport",
-    "distance_km": 65.1
+    "distance_km": 65.1,
+    "name_zh": "阜阳机场"
    },
    {
     "name": "Hefei Xinqiao International Airport",
@@ -88,7 +48,8 @@
     "lat": 31.98779,
     "lon": 116.9769,
     "type": "large_airport",
-    "distance_km": 89.2
+    "distance_km": 89.2,
+    "name_zh": "合肥新桥国际机场"
    },
    {
     "name": "Bengbu Tenghu Airport",
@@ -98,7 +59,8 @@
     "lat": 33.166292,
     "lon": 117.058344,
     "type": "medium_airport",
-    "distance_km": 95.7
+    "distance_km": 95.7,
+    "name_zh": "蚌埠滕湖机场"
    }
   ],
   "nearest_airport_km": 65.1,
@@ -137,11 +99,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -160,7 +121,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -171,12 +132,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/阜阳市"
+   "url": "https://zh.wikipedia.org/wiki/八里河风景区"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

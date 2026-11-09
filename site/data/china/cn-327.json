@@ -78,7 +78,8 @@
     "lat": 30.341178,
     "lon": 115.03926,
     "type": "large_airport",
-    "distance_km": 114.0
+    "distance_km": 114.0,
+    "name_zh": "鄂州花湖机场"
    },
    {
     "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
@@ -88,7 +89,8 @@
     "lat": 30.582199,
     "lon": 117.050003,
     "type": "medium_airport",
-    "distance_km": 135.8
+    "distance_km": 135.8,
+    "name_zh": "安庆天柱山机场"
    },
    {
     "name": "Hefei Xinqiao International Airport",
@@ -98,7 +100,8 @@
     "lat": 31.98779,
     "lon": 116.9769,
     "type": "large_airport",
-    "distance_km": 147.0
+    "distance_km": 147.0,
+    "name_zh": "合肥新桥国际机场"
    }
   ],
   "nearest_airport_km": 114.0,
@@ -211,5 +214,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

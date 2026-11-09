@@ -2,7 +2,7 @@
 id: "cn-26553"
 dataset: "china_5a"
 name_zh: "上饶市篁岭景区"
-name_en: "Shangrao"
+name_en: "Huangling, Wuyuan County"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,34 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 29.324639
 lon: 118.126786
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 上饶市篁岭景区 / Shangrao
+# 上饶市篁岭景区 / Huangling, Wuyuan County
 
 > 江西省 · 上饶市 · 古镇村落
 
 ## 图片 / Images
 
-![信江大桥 - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%E4%BF%A1%E6%B1%9F%E5%A4%A7%E6%A1%A5_-_panoramio_%281%29.jpg/1280px-%E4%BF%A1%E6%B1%9F%E5%A4%A7%E6%A1%A5_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Huangling Village 10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Huangling_Village_10.jpg/1280px-Huangling_Village_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*信江大桥 - panoramio (1).jpg · 江上清风1961 · CC BY 3.0*
+*Huangling Village 10.jpg · EditQ · CC BY-SA 4.0*
 
-![第六批江西省文物保护单位名单.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Huangling Village 11.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Huangling_Village_11.jpg/1280px-Huangling_Village_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*第六批江西省文物保护单位名单.pdf · 江西省人民政府 · Public domain*
+*Huangling Village 11.jpg · EditQ · CC BY-SA 4.0*
 
-![Shangrao - 01 (July 18, 2025).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Shangrao_-_01_%28July_18%2C_2025%29.jpg/1280px-Shangrao_-_01_%28July_18%2C_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Huangling Village 13.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Huangling_Village_13.jpg/1280px-Huangling_Village_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Shangrao - 01 (July 18, 2025).jpg · 茅野ふたば · CC BY-SA 4.0*
+*Huangling Village 13.jpg · EditQ · CC BY-SA 4.0*
 
-![Shangrao - 07 (July 19, 2025).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Shangrao_-_07_%28July_19%2C_2025%29.jpg/1280px-Shangrao_-_07_%28July_19%2C_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Huangling Village 20231020 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Huangling_Village_20231020_03.jpg/1280px-Huangling_Village_20231020_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Shangrao - 07 (July 19, 2025).jpg · 茅野ふたば · CC BY-SA 4.0*
+*Huangling Village 20231020 03.jpg · 沈澄心 · CC0*
 
-![Shangrao - 09 (July 19, 2025).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Shangrao_-_09_%28July_19%2C_2025%29.jpg/1280px-Shangrao_-_09_%28July_19%2C_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Huangling Village 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Huangling_Village_4.jpg/1280px-Huangling_Village_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Shangrao - 09 (July 19, 2025).jpg · 茅野ふたば · CC BY-SA 4.0*
+*Huangling Village 4.jpg · EditQ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Shangrao (simplified Chinese: 上饶; traditional Chinese: 上饒; pinyin: Shàngráo) is a medium-sized prefecture-level city located in the northeast of Jiangxi province, People's Republic of China. The city borders the province of Anhui to the north, the province of Zhejiang to the east, and the province of Fujian to the south. Also, the city's western reaches extend into Poyang Lake. Shangrao had a population of 6,491,088 as of 2020 census whom 1,293,399 lived in the built up (or metro) area made of Xinzhou and Guangxin districts, Guangfeng District not being conurbated yet. Shangrao itself is at the very western edge of the Wu-speaking areas, while most of its associated counties speak Gan.
+Huangling (Chinese: 篁岭; pinyin: huánglǐng) is a village in Jiangwan Zhen in Wuyuan County, Jiangxi. The buildings of the village are of Hui-style architecture, and it is noted for its rapeseed flowers that bloom in spring and the local practice of shaiqiu or autumn crop drying where crops are dried in large bamboo baskets on the window sills and roofs. It developed into a tourist village in 2009. It was included in the 2023 list of Best Tourism Villages by the United Nations World Tourism Organization.
 
 ## 交通 / Transport
 
@@ -75,10 +75,10 @@ Shangrao (simplified Chinese: 上饶; traditional Chinese: 上饒; pinyin: Shàn
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/上饶市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/篁岭村)
 - [OpenStreetMap](https://www.openstreetmap.org/)

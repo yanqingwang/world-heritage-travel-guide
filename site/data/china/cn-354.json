@@ -78,7 +78,8 @@
     "lat": 43.0308,
     "lon": 89.0987,
     "type": "medium_airport",
-    "distance_km": 12.6
+    "distance_km": 12.6,
+    "name_zh": "吐鲁番交河机场"
    },
    {
     "name": "Qitai Jiangbulake Airport",
@@ -88,7 +89,8 @@
     "lat": 44.166086,
     "lon": 89.55014,
     "type": "small_airport",
-    "distance_km": 131.3
+    "distance_km": 131.3,
+    "name_zh": "奇台江布拉克机场"
    },
    {
     "name": "Ürümqi Tianshan International Airport",
@@ -98,7 +100,8 @@
     "lat": 43.913584,
     "lon": 87.479372,
     "type": "large_airport",
-    "distance_km": 175.0
+    "distance_km": 175.0,
+    "name_zh": "乌鲁木齐天山国际机场"
    }
   ],
   "nearest_airport_km": 12.6,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

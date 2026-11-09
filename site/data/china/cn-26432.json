@@ -37,7 +37,8 @@
     "lat": 32.073566,
     "lon": 120.980076,
     "type": "medium_airport",
-    "distance_km": 45.2
+    "distance_km": 45.2,
+    "name_zh": "南通兴东国际机场"
    },
    {
     "name": "Shanghai Hongqiao International Airport",
@@ -47,7 +48,8 @@
     "lat": 31.198104,
     "lon": 121.33426,
     "type": "large_airport",
-    "distance_km": 61.1
+    "distance_km": 61.1,
+    "name_zh": "上海虹桥国际机场"
    },
    {
     "name": "Sunan Shuofang International Airport",
@@ -57,7 +59,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 83.2
+    "distance_km": 83.2,
+    "name_zh": "无锡硕放机场"
    }
   ],
   "nearest_airport_km": 45.2,
@@ -144,6 +147,7 @@
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -172,9 +176,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/明珠湖公园"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

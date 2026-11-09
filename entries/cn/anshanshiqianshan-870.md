@@ -13,7 +13,7 @@ province_en: "Liaoning"
 city_en: "Anshan City"
 lat: 41.035262
 lon: 123.148632
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 鞍山市千山景区 / Qianshan

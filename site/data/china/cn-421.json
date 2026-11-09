@@ -10,8 +10,8 @@
  "city_zh": "徐州市",
  "city_en": "Xuzhou",
  "name_zh": "徐州市云龙湖景区",
- "name_en": "Xuzhoushiyunlonghu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Yunlong Lake",
+ "name_en_source": "wikipedia",
  "slug": "xuzhoushiyunlonghu-421",
  "lat": 34.334121,
  "lon": 117.291025,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "云龙湖旅游景区位于徐州市区西南部，是以云龙山水自然景观为特色，以两汉文化、名士文化、宗教文化、军事文化为主要内容，集科普、观光、游览、休闲、生态等综合功能为一体的城市型旅游景区。景区内云龙山绵延九节，状若游龙，素称徐州名胜之冠。徐州遗台故垒，名胜古迹遍布城乡。",
- "intro_en": "Yunlong Lake tourist attraction is located in the southwest of Xuzhou City. It is an urban tourist attraction featuring the natural landscape of Yunlong mountains and rivers, with Han culture, celebrity culture, religious culture, and military culture as its main content, and integrating comprehensive functions such as science popularization, sightseeing, sightseeing, leisure, and ecology. Yunlong Mountain in the scenic area stretches for nine sections and looks like a swimming dragon. It is known as the top scenic spot in Xuzhou. Xuzhou’s ancient fortresses and historical sites are scattered throughout the city and countryside.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Yunlong Lake (Chinese: 云龙湖) is a lake in Xuzhou, Jiangsu, China. Yunlong Mountain lies to its east.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/20260131_Yunlong_Lake_in_Xuzhou_03.jpg/1280px-20260131_Yunlong_Lake_in_Xuzhou_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 34.059056,
     "lon": 117.555278,
     "type": "medium_airport",
-    "distance_km": 39.1
+    "distance_km": 39.1,
+    "name_zh": "徐州观音机场"
    },
    {
     "name": "Linyi Qiyang Airport",
@@ -88,7 +89,8 @@
     "lat": 35.052918,
     "lon": 118.411828,
     "type": "medium_airport",
-    "distance_km": 130.0
+    "distance_km": 130.0,
+    "name_zh": "临沂启阳国际机场"
    },
    {
     "name": "Bengbu Tenghu Airport",
@@ -98,7 +100,8 @@
     "lat": 33.166292,
     "lon": 117.058344,
     "type": "medium_airport",
-    "distance_km": 131.6
+    "distance_km": 131.6,
+    "name_zh": "蚌埠滕湖机场"
    }
   ],
   "nearest_airport_km": 39.1,
@@ -203,10 +206,11 @@
  "hotels_nearby_30km": 43,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -225,7 +229,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -236,12 +240,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/黄山街道 (徐州市)"
+   "url": "https://zh.wikipedia.org/wiki/云龙湖"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

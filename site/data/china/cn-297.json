@@ -10,8 +10,8 @@
  "city_zh": "阿坝藏族羌族自治州",
  "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
  "name_zh": "阿坝州汶川特别旅游区",
- "name_en": "Wenchuan County",
- "name_en_source": "wikipedia",
+ "name_en": "Abazhouwenchuantebie Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "abazhouwenchuantebie-297",
  "lat": 30.937221,
  "lon": 103.427301,
@@ -22,8 +22,8 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "旅游区位于四川省阿坝藏族羌族自治州汶川县漩三路。以\"世界汶川、水墨桃源\"为旅游定位，是2008年5月12日汶川特大地震重建后特别开发的纪念性和文化主题景区。旅游区涵盖汶川南部的三江乡、映秀镇和水磨镇，由梦幻三江、天地映秀、水磨古镇组成。",
- "intro_en": "Wenchuan County is a county in Ngawa Tibetan and Qiang Autonomous Prefecture, Sichuan, China. The county has an area of 4,084 square kilometres (1,577 sq mi), and a population of 100,771 as of 2010. Wolong National Nature Reserve is a protected area located in Wenchuan County, which houses more than 150 highly endangered giant pandas. The Wolong Special Administrative Region is also located here. The county's Yingxiu town was the site of the epicentre of the 2008 Sichuan earthquake, also known as the Wenchuan earthquake.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The tourist area is located on Xuansan Road, Wenchuan County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province. Positioned as \"World Wenchuan, Ink Peachland\", it is a commemorative and cultural-themed scenic spot specially developed after the reconstruction of the Wenchuan earthquake on May 12, 2008. The tourist area covers Sanjiang Township, Yingxiu Town and Shuimo Town in the south of Wenchuan, and is composed of Dream Sanjiang, Tiandi Yingxiu and Shuimo Ancient Town.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "",
@@ -37,7 +37,8 @@
     "lat": 30.558257,
     "lon": 103.945966,
     "type": "large_airport",
-    "distance_km": 65.1
+    "distance_km": 65.1,
+    "name_zh": "成都双流国际机场"
    },
    {
     "name": "Chengdu Tianfu International Airport",
@@ -47,7 +48,8 @@
     "lat": 30.31252,
     "lon": 104.441284,
     "type": "large_airport",
-    "distance_km": 119.3
+    "distance_km": 119.3,
+    "name_zh": "成都天府国际机场"
    },
    {
     "name": "Mianyang Nanjiao Airport",
@@ -57,7 +59,8 @@
     "lat": 31.428101,
     "lon": 104.740997,
     "type": "medium_airport",
-    "distance_km": 136.4
+    "distance_km": 136.4,
+    "name_zh": "绵阳南郊机场"
    }
   ],
   "nearest_airport_km": 65.1,
@@ -152,9 +155,9 @@
  "hotels_nearby_30km": 21,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -175,7 +178,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -186,12 +189,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/汶川县"
+   "url": "https://zh.wikipedia.org/wiki/水磨镇 (汶川县)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

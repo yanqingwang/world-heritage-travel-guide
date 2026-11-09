@@ -70,7 +70,8 @@
     "lat": 36.646702,
     "lon": 119.119003,
     "type": "medium_airport",
-    "distance_km": 56.5
+    "distance_km": 56.5,
+    "name_zh": "潍坊机场"
    },
    {
     "name": "Dongying Shengli Airport",
@@ -80,7 +81,8 @@
     "lat": 37.50137,
     "lon": 118.789863,
     "type": "medium_airport",
-    "distance_km": 95.3
+    "distance_km": 95.3,
+    "name_zh": "东营胜利机场"
    },
    {
     "name": "Jinan Yaoqiang International Airport",
@@ -90,7 +92,8 @@
     "lat": 36.857201,
     "lon": 117.216003,
     "type": "large_airport",
-    "distance_km": 114.9
+    "distance_km": 114.9,
+    "name_zh": "济南遥墙国际机场"
    }
   ],
   "nearest_airport_km": 56.5,
@@ -235,5 +238,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

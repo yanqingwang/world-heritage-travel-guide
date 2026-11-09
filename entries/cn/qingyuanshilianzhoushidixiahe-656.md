@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Qingyuan"
 lat: 25.010584
 lon: 112.330161
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 清远市连州市地下河旅游景区 / Qingyuanshilianzhoushidixiahe Scenic Area
 
 > 广东省 · 清远市 · 地质奇观
-
-## 图片 / Images
-
-![Qingyuan City Xiaoshi Skyline Guangdong Province.JPG](https://upload.wikimedia.org/wikipedia/commons/b/b9/Qingyuan_City_Xiaoshi_Skyline_Guangdong_Province.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Qingyuan City Xiaoshi Skyline Guangdong Province.JPG · User:Alex Liu , User:Feelmore · Copyrighted free use*
-
-![清远市国土空间总体规划（2021-2035年）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E6%B8%85%E8%BF%9C%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B8%85%E8%BF%9C%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*清远市国土空间总体规划（2021-2035年）.pdf · 清远市人民政府 · Public domain*
-
-![Qingyuan Riverside Park 2.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Qingyuan_Riverside_Park_2.JPG/1280px-Qingyuan_Riverside_Park_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qingyuan Riverside Park 2.JPG · Feelmore at Chinese Wikipedia · Copyrighted free use-link*
-
-![Qingyuan Xiaoshi Skyline.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Qingyuan_Xiaoshi_Skyline.JPG/1280px-Qingyuan_Xiaoshi_Skyline.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qingyuan Xiaoshi Skyline.JPG · Alex Liu ( Feelmore at Chinese Wikipedia ) · Public domain*
-
-![Qingyuan Zunzhe 005.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Qingyuan_Zunzhe_005.jpg/1280px-Qingyuan_Zunzhe_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qingyuan Zunzhe 005.jpg · Jengtingchen · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

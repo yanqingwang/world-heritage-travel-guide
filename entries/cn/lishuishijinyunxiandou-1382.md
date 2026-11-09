@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Lishui City"
 lat: 28.714992
 lon: 120.076183
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 丽水市缙云仙都景区 / Xiandou Scenic Area

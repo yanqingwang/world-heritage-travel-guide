@@ -10,8 +10,8 @@
  "city_zh": "厦门市",
  "city_en": "Xiamen",
  "name_zh": "厦门市鼓浪屿风景名胜区",
- "name_en": "Xiamenshigulangyu Scenic and Historic Area",
- "name_en_source": "pinyin",
+ "name_en": "Gulangyu",
+ "name_en_source": "wikipedia",
  "slug": "xiamenshigulangyufengjingmingshengqu-786",
  "lat": 24.449908,
  "lon": 118.079275,
@@ -22,8 +22,8 @@
  "category_zh": "海滨度假",
  "category_en": "Coastal resort",
  "intro_zh": "鼓浪屿风景区与厦门市区隔海相对，面积1.78平方公里，海岛景观秀丽多姿，享誉中外。岛上海岸线蜿蜒曲折，坡缓沙细的天然海滨浴场环布四周，鬼斧神工的礁石奇趣天成，鼓浪屿有日光岩、菽庄花园、皓月园、毓园等景点。",
- "intro_en": "Gulangyu Scenic Area faces Xiamen City across the sea, covering an area of ​​1.78 square kilometers. The island has a beautiful and diverse landscape and is well-known at home and abroad. The coastline of the island is winding and winding, surrounded by natural bathing beaches with gentle slopes and fine sand. The miraculous reefs are naturally formed. Gulangyu Island has Sunlight Rock, Shuzhuang Garden, Haoyue Garden, Yuyuan and other scenic spots.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Gulangyu, Gulang or Kulangsu is an island off the coast of Xiamen, Fujian, southeastern China. A UNESCO World Cultural Heritage Site, the island is one of China's most visited tourist attractions, attracting more than 10 million visitors per year. Gulangyu covers an area of 1.88 km2 (0.73 sq mi), with a population of 12,509 as of 2023. Administratively, the island constitutes the Gulangyu Subdistrict, part of Xiamen's Siming District. It is reachable by ferry from downtown Xiamen. Gulangyu Island is renowned for its beaches, winding lanes and rich architecture. The island is on China's list of National Scenic Spots and is classified as a 5A tourist attraction by the China National Tourism Administration (CNTA). It ranks at the top of the list of the ten most scenic areas in the province. As a pedestrian-only zone where cars and bicycles are banned, the only vehicles permitted are small electric buggies and electric government service vehicles.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg/1280px-%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 24.543889,
     "lon": 118.127454,
     "type": "large_airport",
-    "distance_km": 11.5
+    "distance_km": 11.5,
+    "name_zh": "厦门高崎国际机场"
    },
    {
     "name": "Kinmen Airport",
@@ -88,7 +89,8 @@
     "lat": 24.4279,
     "lon": 118.359001,
     "type": "medium_airport",
-    "distance_km": 28.4
+    "distance_km": 28.4,
+    "name_zh": "金门机场"
    },
    {
     "name": "Quanzhou Jinjiang International Airport",
@@ -98,7 +100,8 @@
     "lat": 24.795855,
     "lon": 118.588599,
     "type": "large_airport",
-    "distance_km": 64.3
+    "distance_km": 64.3,
+    "name_zh": "泉州晋江机场"
    }
   ],
   "nearest_airport_km": 11.5,
@@ -193,10 +196,11 @@
  "hotels_nearby_30km": 272,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -215,7 +219,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -225,9 +229,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/鼓浪屿"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

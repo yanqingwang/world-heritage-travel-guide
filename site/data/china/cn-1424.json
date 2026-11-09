@@ -78,7 +78,8 @@
     "lat": 41.1225,
     "lon": 118.073889,
     "type": "medium_airport",
-    "distance_km": 51.0
+    "distance_km": 51.0,
+    "name_zh": "承德机场"
    },
    {
     "name": "Beijing Capital International Airport",
@@ -88,7 +89,8 @@
     "lat": 40.077349,
     "lon": 116.596702,
     "type": "large_airport",
-    "distance_km": 119.7
+    "distance_km": 119.7,
+    "name_zh": "北京首都国际机场"
    },
    {
     "name": "Tangshan Sannühe Airport",
@@ -98,7 +100,8 @@
     "lat": 39.7178,
     "lon": 118.002625,
     "type": "small_airport",
-    "distance_km": 129.5
+    "distance_km": 129.5,
+    "name_zh": "唐山三女河机场"
    }
   ],
   "nearest_airport_km": 51.0,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

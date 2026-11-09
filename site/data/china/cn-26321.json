@@ -78,7 +78,8 @@
     "lat": 32.540819,
     "lon": 114.079141,
     "type": "medium_airport",
-    "distance_km": 80.2
+    "distance_km": 80.2,
+    "name_zh": "信阳明港机场"
    },
    {
     "name": "Wuhan Tianhe International Airport",
@@ -88,7 +89,8 @@
     "lat": 30.774798,
     "lon": 114.213723,
     "type": "large_airport",
-    "distance_km": 116.8
+    "distance_km": 116.8,
+    "name_zh": "武汉天河国际机场"
    },
    {
     "name": "Xiangyang Liuji Airport",
@@ -98,7 +100,8 @@
     "lat": 32.152222,
     "lon": 112.291666,
     "type": "medium_airport",
-    "distance_km": 173.0
+    "distance_km": 173.0,
+    "name_zh": "襄阳刘集机场"
    }
   ],
   "nearest_airport_km": 80.2,
@@ -178,5 +181,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

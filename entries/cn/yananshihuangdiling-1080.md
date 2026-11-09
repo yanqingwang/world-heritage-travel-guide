@@ -13,34 +13,12 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 35.58673
 lon: 109.281748
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 延安市黄帝陵景区 / Mausoleum of the Yellow Emperor
 
 > 陕西省 · 延安市 · 历史遗址
-
-## 图片 / Images
-
-![宝塔山看延安市 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%E5%AE%9D%E5%A1%94%E5%B1%B1%E7%9C%8B%E5%BB%B6%E5%AE%89%E5%B8%82_2.jpg/1280px-%E5%AE%9D%E5%A1%94%E5%B1%B1%E7%9C%8B%E5%BB%B6%E5%AE%89%E5%B8%82_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*宝塔山看延安市 2.jpg · H2v5o68z · CC0*
-
-![CADAL02047258 函史下編（二）.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/CADAL02047258_%E5%87%BD%E5%8F%B2%E4%B8%8B%E7%B7%A8%EF%BC%88%E4%BA%8C%EF%BC%89.djvu/page1-1280px-CADAL02047258_%E5%87%BD%E5%8F%B2%E4%B8%8B%E7%B7%A8%EF%BC%88%E4%BA%8C%EF%BC%89.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL02047258 函史下編（二）.djvu · （明）鄧元錫撰 · Public domain*
-
-![CADAL09009050 說文通訓定聲·(十三).djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/CADAL09009050_%E8%AA%AA%E6%96%87%E9%80%9A%E8%A8%93%E5%AE%9A%E8%81%B2%C2%B7%28%E5%8D%81%E4%B8%89%29.djvu/page1-1280px-CADAL09009050_%E8%AA%AA%E6%96%87%E9%80%9A%E8%A8%93%E5%AE%9A%E8%81%B2%C2%B7%28%E5%8D%81%E4%B8%89%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09009050 說文通訓定聲·(十三).djvu · (清) 朱骏声（记录）；(清) 朱骏蓉 · Public domain*
-
-![文淵閣四庫全書 0552冊.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E6%96%87%E6%B7%B5%E9%96%A3%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8_0552%E5%86%8A.djvu/page1-1280px-%E6%96%87%E6%B7%B5%E9%96%A3%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8_0552%E5%86%8A.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*文淵閣四庫全書 0552冊.djvu · various · Public domain*
-
-![China Yan'an Map.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/China_Yan%27an_Map.svg/1280px-China_Yan%27an_Map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*China Yan'an Map.svg · Amtoastintolerant · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

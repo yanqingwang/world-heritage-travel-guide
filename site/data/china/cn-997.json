@@ -37,7 +37,8 @@
     "lat": 32.592889,
     "lon": 110.906296,
     "type": "medium_airport",
-    "distance_km": 100.6
+    "distance_km": 100.6,
+    "name_zh": "十堰武当山机场"
    },
    {
     "name": "Ankang Fuqiang Airport",
@@ -47,7 +48,8 @@
     "lat": 32.75696,
     "lon": 108.87338,
     "type": "small_airport",
-    "distance_km": 177.4
+    "distance_km": 177.4,
+    "name_zh": "安康富强机场"
    },
    {
     "name": "Yuncheng Yanhu International Airport",
@@ -57,7 +59,8 @@
     "lat": 35.117823,
     "lon": 111.034023,
     "type": "large_airport",
-    "distance_km": 189.3
+    "distance_km": 189.3,
+    "name_zh": "运城盐湖国际机场"
    }
   ],
   "nearest_airport_km": 100.6,
@@ -136,5 +139,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

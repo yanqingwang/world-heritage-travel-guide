@@ -10,8 +10,8 @@
  "city_zh": "湖州市",
  "city_en": "Huzhou City",
  "name_zh": "湖州市南浔古镇景区",
- "name_en": "Huzhoushinanxunguzhen Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Nanxun",
+ "name_en_source": "wikipedia",
  "slug": "huzhoushinanxunguzhen-1406",
  "lat": 30.874788,
  "lon": 120.437508,
@@ -22,8 +22,8 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "南浔是一个人文资源充足、中西建筑合璧的江南古镇。古镇内众多的名胜古迹与水乡自然风光和谐统一，既充满着浓郁的历史文化底蕴和灵气，又洋溢着江南水乡诗画一般的神韵，成为江浙地区居民休闲、度假、疗养、观光游览的胜地。",
- "intro_en": "Nanxun is an ancient town in the south of the Yangtze River with abundant human resources and a combination of Chinese and Western architecture. The numerous scenic spots and historic sites in the ancient town are harmoniously integrated with the natural scenery of the water town. It is not only full of rich historical and cultural heritage and aura, but also filled with the charm of Jiangnan water town poetry and painting. It has become a resort for residents in Jiangsu and Zhejiang areas for leisure, vacation, recuperation, and sightseeing.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Nanxun (simplified Chinese: 南浔镇; traditional Chinese: 南潯鎮; pinyin: Nánxún Zhèn) is a historic town in Nanxun District of Huzhou, Zhejiang, China. As of the 2007 census it had a population of 119,300 and an area of 141-square-kilometre (54 sq mi).",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -37,7 +37,8 @@
     "lat": 30.698056,
     "lon": 120.663056,
     "type": "medium_airport",
-    "distance_km": 29.2
+    "distance_km": 29.2,
+    "name_zh": "嘉兴南湖机场"
    },
    {
     "name": "Sunan Shuofang International Airport",
@@ -47,7 +48,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 69.2
+    "distance_km": 69.2,
+    "name_zh": "无锡硕放机场"
    },
    {
     "name": "Hangzhou Xiaoshan International Airport",
@@ -57,7 +59,8 @@
     "lat": 30.23609,
     "lon": 120.428865,
     "type": "large_airport",
-    "distance_km": 71.0
+    "distance_km": 71.0,
+    "name_zh": "杭州萧山国际机场"
    }
   ],
   "nearest_airport_km": 29.2,
@@ -152,10 +155,11 @@
  "hotels_nearby_30km": 21,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -174,7 +178,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -184,9 +188,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/南浔镇"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -24,16 +24,7 @@
  "intro_zh": "五大连池地处小兴安岭山地向松嫩平原的转换地带，区域内火山林立、熔岩浩瀚、湖泊珠连、矿泉星布。新期火山喷发的熔岩阻塞了远古河道，形成了5个溪水相连的串珠状火山堰塞湖，五大连池由此得名。此地也被科学家喻为“天然火山博物馆”和“打开的火山教科书”。",
  "intro_en": "Wudalianchi Dedu Airport (IATA: DTU, ICAO: ZYDU) is an airport serving the city of Wudalianchi in Heilongjiang province of Northeast China, southwest of the city center and 11 kilometres (6.8 mi) from Wudalianchi National Park. It received approval from the State Council of China and the Central Military Commission on 25 December 2013. Its construction budget was 644.41 million yuan, and an additional 74 million yuan for related infrastructure outside the airport. The airport was opened on 22 November 2017, with an inaugural Loong Air flight from Harbin Taiping International Airport.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "黑河市市容和环境卫生管理条例.pdf",
-   "author": "Q106036866",
-   "license": "Public domain",
-   "credit": "The file is from National Database of Laws and Regulations maintained by General Office of the Standing Committee of the National People's Congress of People's ",
-   "source": "https://commons.wikimedia.org/wiki/File:黑河市市容和环境卫生管理条例.pdf"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -46,7 +37,8 @@
     "lat": 48.441037,
     "lon": 126.128374,
     "type": "medium_airport",
-    "distance_km": 28.9
+    "distance_km": 28.9,
+    "name_zh": "五大连池德都机场"
    },
    {
     "name": "Heihe Aihui Airport",
@@ -56,7 +48,8 @@
     "lat": 50.171621,
     "lon": 127.308884,
     "type": "medium_airport",
-    "distance_km": 183.3
+    "distance_km": 183.3,
+    "name_zh": "黑河机场"
    },
    {
     "name": "Ignatyevo Airport",
@@ -66,7 +59,8 @@
     "lat": 50.426723,
     "lon": 127.415502,
     "type": "medium_airport",
-    "distance_km": 212.1
+    "distance_km": 212.1,
+    "name_zh": "伊格纳耶沃机场"
    }
   ],
   "nearest_airport_km": 28.9,
@@ -180,5 +174,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

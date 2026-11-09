@@ -24,48 +24,7 @@
  "intro_zh": "伊犁那拉提旅游风景区地处天山腹地，景区自南向北由高山草原观光区、哈萨克民俗风情区、旅游生活区组成，拥有夏牧场、柯孜拉霞瀑布、望天洞等著名景点。它以独特的自然景观、悠久的历史文化和浓郁的民族风情构成了独具特色的边塞风光。",
  "intro_en": "Ili Nalati Tourist Scenic Area is located in the hinterland of the Tianshan Mountains. From south to north, the scenic area consists of an alpine grassland tourist area, a Kazakh folk customs area, and a tourist life area. It has famous attractions such as Summer Ranch, Kezilashia Waterfall, and Wangtian Cave. It forms a unique frontier fortress scenery with its unique natural landscape, long history and culture and rich ethnic customs.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Xinjiang_DSC_8258_%283716304776%29.jpg/1280px-Xinjiang_DSC_8258_%283716304776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Xinjiang DSC 8258 (3716304776).jpg",
-   "author": "lwtt93 from Shanghai, China",
-   "license": "CC BY 2.0",
-   "credit": "DSC_8258",
-   "source": "https://commons.wikimedia.org/wiki/File:Xinjiang_DSC_8258_(3716304776).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ili_Kazakh_Autonomous_Prefecture_in_China.svg/1280px-Ili_Kazakh_Autonomous_Prefecture_in_China.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ili Kazakh Autonomous Prefecture in China.svg",
-   "author": "China Xinjiang Ili.svg : Joowwww / derivative work: Splittist ( talk )",
-   "license": "Public domain",
-   "credit": "China Xinjiang Ili.svg",
-   "source": "https://commons.wikimedia.org/wiki/File:Ili_Kazakh_Autonomous_Prefecture_in_China.svg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Location_of_Ili_Kazakh-_real.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Location of Ili Kazakh- real.png",
-   "author": "cncs",
-   "license": "CC BY-SA 4.0",
-   "credit": "Location of Ili Kazakh.PNG",
-   "source": "https://commons.wikimedia.org/wiki/File:Location_of_Ili_Kazakh-_real.png"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Population_of_Ili_Kazakh_Autonomous_Prefecture_by_ethnicity%2C_in_1949%2C_1959%2C_and_1969.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Population of Ili Kazakh Autonomous Prefecture by ethnicity, in 1949, 1959, and 1969.png",
-   "author": "Yuet Man Lee",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work , using data from Mao, Sheng (2018). \"More Than a Famine: Mass Exodus of 1962 in Northwest Xinjiang\". China Review 18 (2): 165. ISSN 1680-2012 .",
-   "source": "https://commons.wikimedia.org/wiki/File:Population_of_Ili_Kazakh_Autonomous_Prefecture_by_ethnicity,_in_1949,_1959,_and_1969.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Subdivision_of_Ili_Kazakh_%28Xinjiang%29.gif/1280px-Subdivision_of_Ili_Kazakh_%28Xinjiang%29.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Subdivision of Ili Kazakh (Xinjiang).gif",
-   "author": "Cncs_wikipedia",
-   "license": "Public domain",
-   "credit": "Date of creation",
-   "source": "https://commons.wikimedia.org/wiki/File:Subdivision_of_Ili_Kazakh_(Xinjiang).gif"
-  }
- ],
+ "images": [],
  "web": "http://www.nalati.com/",
  "booking": "http://www.nalati.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 42.976395,
     "lon": 83.995543,
     "type": "small_airport",
-    "distance_km": 38.9
+    "distance_km": 38.9,
+    "name_zh": "和静巴音布鲁克机场"
    },
    {
     "name": "Xinyuan Nalati Airport",
@@ -88,7 +48,8 @@
     "lat": 43.4318,
     "lon": 83.3786,
     "type": "medium_airport",
-    "distance_km": 54.2
+    "distance_km": 54.2,
+    "name_zh": "新源那拉提机场"
    },
    {
     "name": "Shihezi Huayuan Airport",
@@ -98,7 +59,8 @@
     "lat": 44.2421,
     "lon": 85.8905,
     "type": "small_airport",
-    "distance_km": 180.6
+    "distance_km": 180.6,
+    "name_zh": "石河子花园机场"
    }
   ],
   "nearest_airport_km": 38.9,
@@ -173,5 +135,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

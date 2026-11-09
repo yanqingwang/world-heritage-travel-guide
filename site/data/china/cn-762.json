@@ -78,7 +78,8 @@
     "lat": 39.273241,
     "lon": 112.691552,
     "type": "medium_airport",
-    "distance_km": 17.7
+    "distance_km": 17.7,
+    "name_zh": "朔州滋润机场"
    },
    {
     "name": "Xinzhou Wutaishan Airport",
@@ -88,7 +89,8 @@
     "lat": 38.597456,
     "lon": 112.969173,
     "type": "small_airport",
-    "distance_km": 67.3
+    "distance_km": 67.3,
+    "name_zh": "五台山机场"
    },
    {
     "name": "Datong Yungang International Airport",
@@ -98,7 +100,8 @@
     "lat": 40.06139,
     "lon": 113.480509,
     "type": "large_airport",
-    "distance_km": 109.2
+    "distance_km": 109.2,
+    "name_zh": "大同云冈国际机场"
    }
   ],
   "nearest_airport_km": 17.7,
@@ -178,5 +181,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

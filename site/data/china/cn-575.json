@@ -78,7 +78,8 @@
     "lat": 29.303301,
     "lon": 94.335297,
     "type": "medium_airport",
-    "distance_km": 68.6
+    "distance_km": 68.6,
+    "name_zh": "林芝米林机场"
    },
    {
     "name": "Qamdo Bangda Airport",
@@ -88,7 +89,8 @@
     "lat": 30.553600311279297,
     "lon": 97.1082992553711,
     "type": "medium_airport",
-    "distance_km": 232.7
+    "distance_km": 232.7,
+    "name_zh": "昌都邦达机场"
    },
    {
     "name": "Dibrugarh Airport",
@@ -98,7 +100,8 @@
     "lat": 27.4839000702,
     "lon": 95.0168991089,
     "type": "medium_airport",
-    "distance_km": 237.5
+    "distance_km": 237.5,
+    "name_zh": "迪布鲁加尔机场"
    }
   ],
   "nearest_airport_km": 68.6,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -78,7 +78,8 @@
     "lat": 36.52775,
     "lon": 102.040215,
     "type": "large_airport",
-    "distance_km": 126.9
+    "distance_km": 126.9,
+    "name_zh": "西宁曹家堡机场"
    },
    {
     "name": "Haibei Qilian Airport",
@@ -88,7 +89,8 @@
     "lat": 38.008068,
     "lon": 100.645065,
     "type": "small_airport",
-    "distance_km": 160.8
+    "distance_km": 160.8,
+    "name_zh": "祁连机场"
    },
    {
     "name": "Golog Maqên Airport",
@@ -98,7 +100,8 @@
     "lat": 34.418066,
     "lon": 100.301144,
     "type": "medium_airport",
-    "distance_km": 240.2
+    "distance_km": 240.2,
+    "name_zh": "果洛玛沁机场"
    }
   ],
   "nearest_airport_km": 126.9,
@@ -201,5 +204,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

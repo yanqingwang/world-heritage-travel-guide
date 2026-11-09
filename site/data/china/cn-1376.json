@@ -10,8 +10,8 @@
  "city_zh": "温州市",
  "city_en": "Wenzhou City",
  "name_zh": "温州市刘伯温故里景区",
- "name_en": "Liu Bowen",
- "name_en_source": "wikipedia",
+ "name_en": "Liubowen Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "wenzhoushiliubowenguli-1376",
  "lat": 27.85048,
  "lon": 120.017937,
@@ -22,8 +22,8 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "景区总面积4.8平方公里，地域特色鲜明，由刘基庙和百丈漈两大核心景区构成，主要有一折瀑、西天屏、刘基庙、天顶湖、大象峰等景点，是人文与自然景观交相辉映、集多元文化于一体的综合型旅游休闲度假区。",
- "intro_en": "Liu Ji (1 July 1311 – 16 May 1375), courtesy name Bowen, better known as Liu Bowen, was a Chinese military strategist, philosopher, and politician who lived in the late Yuan and early Ming dynasties. He was born in Qingtian County (present-day Wencheng County, Lishui, Zhejiang). He served as a key advisor to Zhu Yuanzhang, the Hongwu Emperor, the founder of the Ming dynasty, in the latter's struggle to overthrow the Yuan dynasty and unify China proper under his rule. Liu is also known for his prophecies and has been described as the \"Divine Chinese Nostradamus\". He and Jiao Yu co-edited the military treatise known as the Huolongjing (Fire Dragon Manual). Liu Bowen initially aided Zhu Yuanzhang in his ascent to power, but later Li Shanchang and Hu Weiyong quarrelled with Liu, forcing Liu to resign. Liu Bowen warned the Hongwu Emperor that Hu was not suitable for the position of prime minister. Liu died soon after, possibly having been poisoned by the emperor and Hu Weiyong, in a political affair that became the first of the Four Major Cases of the early Ming dynasty.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The scenic area has a total area of ​​4.8 square kilometers and has distinctive regional characteristics. It is composed of two core scenic spots, Liuji Temple and Baizhangji. It mainly has Yizhe Waterfall, Xitianping, Liuji Temple, Tianding Lake, Elephant Peak and other scenic spots. It is a comprehensive tourism and leisure resort where humanities and natural landscapes complement each other and integrate multiculturalism.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Liu_Ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -46,7 +46,8 @@
     "lat": 27.910572,
     "lon": 120.853465,
     "type": "large_airport",
-    "distance_km": 82.4
+    "distance_km": 82.4,
+    "name_zh": "温州龙湾国际机场"
    },
    {
     "name": "Taizhou Luqiao Airport",
@@ -56,7 +57,8 @@
     "lat": 28.562201,
     "lon": 121.429001,
     "type": "medium_airport",
-    "distance_km": 159.3
+    "distance_km": 159.3,
+    "name_zh": "台州路桥机场"
    },
    {
     "name": "Quzhou Airport",
@@ -66,7 +68,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 165.4
+    "distance_km": 165.4,
+    "name_zh": "衢州机场"
    }
   ],
   "nearest_airport_km": 82.4,
@@ -161,11 +164,10 @@
  "hotels_nearby_30km": 5,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -184,7 +186,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -202,5 +204,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

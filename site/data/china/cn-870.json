@@ -78,7 +78,8 @@
     "lat": 41.105301,
     "lon": 122.853996,
     "type": "medium_airport",
-    "distance_km": 25.9
+    "distance_km": 25.9,
+    "name_zh": "鞍山腾鳌机场"
    },
    {
     "name": "Shenyang Taoxian International Airport",
@@ -88,7 +89,8 @@
     "lat": 41.6398,
     "lon": 123.483668,
     "type": "large_airport",
-    "distance_km": 72.8
+    "distance_km": 72.8,
+    "name_zh": "沈阳桃仙国际机场"
    },
    {
     "name": "Yingkou Lanqi Airport",
@@ -98,7 +100,8 @@
     "lat": 40.542524,
     "lon": 122.3586,
     "type": "medium_airport",
-    "distance_km": 86.2
+    "distance_km": 86.2,
+    "name_zh": "营口兰旗机场"
    }
   ],
   "nearest_airport_km": 25.9,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

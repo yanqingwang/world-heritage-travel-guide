@@ -46,7 +46,8 @@
     "lat": 38.965719,
     "lon": 121.538477,
     "type": "large_airport",
-    "distance_km": 6.9
+    "distance_km": 6.9,
+    "name_zh": "大连周水子国际机场"
    },
    {
     "name": "Changhai Dachangshandao Airport",
@@ -56,7 +57,8 @@
     "lat": 39.266441,
     "lon": 122.66696,
     "type": "small_airport",
-    "distance_km": 108.3
+    "distance_km": 108.3,
+    "name_zh": "长海大长山岛机场"
    },
    {
     "name": "Yantai Penglai International Airport",
@@ -66,7 +68,8 @@
     "lat": 37.659724,
     "lon": 120.978124,
     "type": "large_airport",
-    "distance_km": 146.5
+    "distance_km": 146.5,
+    "name_zh": "烟台蓬莱国际机场"
    }
   ],
   "nearest_airport_km": 6.9,
@@ -202,5 +205,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -78,7 +78,8 @@
     "lat": 24.795855,
     "lon": 118.588599,
     "type": "large_airport",
-    "distance_km": 66.1
+    "distance_km": 66.1,
+    "name_zh": "泉州晋江机场"
    },
    {
     "name": "Fuzhou Changle International Airport",
@@ -88,7 +89,8 @@
     "lat": 25.929254,
     "lon": 119.672524,
     "type": "large_airport",
-    "distance_km": 106.2
+    "distance_km": 106.2,
+    "name_zh": "福州长乐国际机场"
    },
    {
     "name": "Kinmen Airport",
@@ -98,7 +100,8 @@
     "lat": 24.4279,
     "lon": 118.359001,
     "type": "medium_airport",
-    "distance_km": 109.5
+    "distance_km": 109.5,
+    "name_zh": "金门机场"
    }
   ],
   "nearest_airport_km": 66.1,
@@ -178,5 +181,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

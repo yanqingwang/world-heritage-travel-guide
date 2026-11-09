@@ -13,34 +13,12 @@ province_en: "Yunnan"
 city_en: "Kunming"
 lat: 25.080626
 lon: 102.769359
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 昆明市昆明世博园景区 / World Horti-Expo Garden
 
 > 云南省 · 昆明市 · 主题乐园
-
-## 图片 / Images
-
-![五华区与盘龙区天际线 - 航拍 - 2025-05-16 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%E4%BA%94%E5%8D%8E%E5%8C%BA%E4%B8%8E%E7%9B%98%E9%BE%99%E5%8C%BA%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-05-16_03.jpg/1280px-%E4%BA%94%E5%8D%8E%E5%8C%BA%E4%B8%8E%E7%9B%98%E9%BE%99%E5%8C%BA%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-05-16_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*五华区与盘龙区天际线 - 航拍 - 2025-05-16 03.jpg · 瑞丽江的河水 · CC BY-SA 4.0*
-
-![20260222 Hongqiao Interchange from Kunming rail transit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/20260222_Hongqiao_Interchange_from_Kunming_rail_transit.jpg/1280px-20260222_Hongqiao_Interchange_from_Kunming_rail_transit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260222 Hongqiao Interchange from Kunming rail transit.jpg · Ngguls · CC BY-SA 4.0*
-
-![20260222 Hongqiao Road from Kunming rail transit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20260222_Hongqiao_Road_from_Kunming_rail_transit.jpg/1280px-20260222_Hongqiao_Road_from_Kunming_rail_transit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20260222 Hongqiao Road from Kunming rail transit.jpg · Ngguls · CC BY-SA 4.0*
-
-![Kunming-location-MAP-in-Yunnan-Province-China.jpg](https://upload.wikimedia.org/wikipedia/commons/1/12/Kunming-location-MAP-in-Yunnan-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Kunming-location-MAP-in-Yunnan-Province-China.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Kunming Railway Station 20250811 185613.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Kunming_Railway_Station_20250811_185613.jpg/1280px-Kunming_Railway_Station_20250811_185613.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Kunming Railway Station 20250811 185613.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

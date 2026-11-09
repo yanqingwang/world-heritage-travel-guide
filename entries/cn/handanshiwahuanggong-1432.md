@@ -13,34 +13,12 @@ province_en: "Hebei"
 city_en: "Handan"
 lat: 36.63978
 lon: 113.614932
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 邯郸市娲皇宫景区 / Nüwa Palace
 
 > 河北省 · 邯郸市 · 皇家园林
-
-## 图片 / Images
-
-![邯郸市街道01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%E9%82%AF%E9%83%B8%E5%B8%82%E8%A1%97%E9%81%9301.jpg/1280px-%E9%82%AF%E9%83%B8%E5%B8%82%E8%A1%97%E9%81%9301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*邯郸市街道01.jpg · User:我乃野云鹤 · CC BY-SA 4.0*
-
-![201606 Handan–Huanghua Railway1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/201606_Handan%E2%80%93Huanghua_Railway1.jpg/1280px-201606_Handan%E2%80%93Huanghua_Railway1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*201606 Handan–Huanghua Railway1.jpg · MNXANL · CC BY-SA 4.0*
-
-![Handan-location-MAP-in-Hebei-Province-China.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/Handan-location-MAP-in-Hebei-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Handan-location-MAP-in-Hebei-Province-China.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Handan mcp.png](https://upload.wikimedia.org/wikipedia/commons/f/ff/Handan_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Handan mcp.png · Maggern87 · CC0*
-
-![Location of Handan Prefecture within Hebei (China).png](https://upload.wikimedia.org/wikipedia/commons/3/38/Location_of_Handan_Prefecture_within_Hebei_%28China%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Location of Handan Prefecture within Hebei (China).png · Croquant · CC BY 3.0*
 
 ## 简介 / Introduction
 

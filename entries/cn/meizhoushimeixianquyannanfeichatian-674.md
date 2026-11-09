@@ -2,7 +2,7 @@
 id: "cn-674"
 dataset: "china_5a"
 name_zh: "梅州市梅县区雁南飞茶田景区"
-name_en: "Meizhou"
+name_en: "Meizhoushimeixianquyannanfeichatian Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Meizhou"
 lat: 24.388232
 lon: 116.381966
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 梅州市梅县区雁南飞茶田景区 / Meizhou
+# 梅州市梅县区雁南飞茶田景区 / Meizhoushimeixianquyannanfeichatian Scenic Area
 
 > 广东省 · 梅州市 · 主题乐园
-
-## 图片 / Images
-
-![人民公园 - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD_-_panoramio_%281%29.jpg/1280px-%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*人民公园 - panoramio (1).jpg · 8168UFO · CC BY 3.0*
-
-![NLC403-312001082774-160568 龍津縣誌 1960 卷二.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/NLC403-312001082774-160568_%E9%BE%8D%E6%B4%A5%E7%B8%A3%E8%AA%8C_1960_%E5%8D%B7%E4%BA%8C.pdf/page1-960px-NLC403-312001082774-160568_%E9%BE%8D%E6%B4%A5%E7%B8%A3%E8%AA%8C_1960_%E5%8D%B7%E4%BA%8C.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*NLC403-312001082774-160568 龍津縣誌 1960 卷二.pdf · 李文雄 · Public domain*
-
-![2000-01-15 Meizhou Street.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3f/2000-01-15_Meizhou_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*2000-01-15 Meizhou Street.jpg · Petes42 at English Wikipedia · CC BY 2.5*
-
-![Hakka Houses, Meizhou 2006.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Hakka_Houses%2C_Meizhou_2006.JPG/1280px-Hakka_Houses%2C_Meizhou_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hakka Houses, Meizhou 2006.JPG · Shi Annan · CC BY-SA 3.0*
-
-![Meizhou, Guangdong, China 2006.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Meizhou%2C_Guangdong%2C_China_2006.JPG/1280px-Meizhou%2C_Guangdong%2C_China_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Meizhou, Guangdong, China 2006.JPG · Shi Annan · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Meizhou (Chinese: 梅州, Hakka Chinese: Mòichû) is a prefecture-level city in eastern Guangdong province, China. It has an area of 15,864.51 km2 (6,125.32 sq mi), and a population of 3,873,239 as of the 2020 census. It comprises Meijiang District, Meixian District, Xingning City and five counties. Its built-up or metro area made up of two urban districts was home to 992,351 inhabitants.
+The scenic area is dominated by hilly landforms. The main attractions and facilities include orchards, landscape waterfalls, tea fields, tea pavilions, tea pavilions, tea houses, camellia grand view gardens, food streets, ecological valleys, artificial lakes, visitor centers, conference centers, Weilong Restaurant, mountain villas, etc., highlighting the profound tea culture and Hakka cultural themes.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +53,9 @@ Meizhou (Chinese: 梅州, Hakka Chinese: Mòichû) is a prefecture-level city in
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/梅州市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

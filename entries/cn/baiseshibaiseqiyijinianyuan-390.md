@@ -13,34 +13,12 @@ province_en: "Guangxi"
 city_en: "Baise City"
 lat: 23.907336
 lon: 106.646025
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 百色市百色起义纪念园景区 / Baiseshidierrenminyiyuan Scenic Area
 
 > 广西壮族自治区 · 百色市 · 红色旅游
-
-## 图片 / Images
-
-![百色市右江區中山橋 2013.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E7%99%BE%E8%89%B2%E5%B8%82%E5%8F%B3%E6%B1%9F%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%A9%8B_2013.jpg/1280px-%E7%99%BE%E8%89%B2%E5%B8%82%E5%8F%B3%E6%B1%9F%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%A9%8B_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*百色市右江區中山橋 2013.jpg · PanShiBo · CC BY-SA 3.0*
-
-![Baise Memorial Quote.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baise_Memorial_Quote.png/1280px-Baise_Memorial_Quote.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Baise Memorial Quote.png · Sevgonlernassau · CC BY-SA 3.0*
-
-![Baise kanalbruecke.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Baise_kanalbruecke.jpg/1280px-Baise_kanalbruecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Baise kanalbruecke.jpg · Wolfgang Bauer · Public domain*
-
-![Baïse.png](https://upload.wikimedia.org/wikipedia/commons/c/c3/Ba%C3%AFse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Baïse.png · OpenStreetMap contributors · CC BY-SA 4.0*
-
-![M N Saha, J C Bose, J C Ghosh, Snehamoy Dutt, S N Bose, D M Bose, N R Sen, J N Mukherjee, N C Nag.jpg](https://upload.wikimedia.org/wikipedia/commons/6/63/M_N_Saha%2C_J_C_Bose%2C_J_C_Ghosh%2C_Snehamoy_Dutt%2C_S_N_Bose%2C_D_M_Bose%2C_N_R_Sen%2C_J_N_Mukherjee%2C_N_C_Nag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*M N Saha, J C Bose, J C Ghosh, Snehamoy Dutt, S N Bose, D M Bose, N R Sen, J N Mukherjee, N C Nag.jpg · Unknown author Unknown author · Public domain*
 
 ## 简介 / Introduction
 

@@ -2,7 +2,7 @@
 id: "cn-437"
 dataset: "china_5a"
 name_zh: "镇江市茅山景区"
-name_en: "Zhenjiangshimaoshan Scenic Area"
+name_en: "Maoshan"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Zhenjiang"
 lat: 31.792289
 lon: 119.300208
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 镇江市茅山景区 / Zhenjiangshimaoshan Scenic Area
+# 镇江市茅山景区 / Maoshan
 
 > 江苏省 · 镇江市 · 山地风光
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Maoshan Scenic Area is located in Jurong City, southwest of Jiangsu Province. The main peak, Damao Peak, looks like the head of a green dragon and is also the highest peak of Maoshan Mountain. Maoshan is both a Taoist holy land and an anti-Japanese base area. There are many scenic spots on the mountain, including nine peaks, nineteen springs, twenty-six caves and twenty-eight pools.
-
-*English introduction: machine translation.*
+The Shangqing School (Chinese:上清), also known as Supreme Clarity, Highest Clarity, or Supreme Purity, is a Daoist movement that began during the aristocracy of the Western Jin dynasty. Shangqing can be translated as either 'Supreme Clarity' or 'Highest Clarity.' The first leader of the school was a woman, Wei Huacun (251-334). According to her Shangqing hagiographers, her devotion to Daoist cultivation so impressed a number of immortals that she received revelations from them: 31 volumes of Daoist scriptures which would become the foundation of Shangqing Daoism. Later, Tao Hongjing, a man, (Chinese: 陶弘景) (456－536) structured the theory and practice and compiled the canon. He greatly contributed to the development of the school that took place near the end of the 5th century. The mountain near Nanjing where Tao Hongjing had his retreat, Maoshan (茅山 – fr), today remains the principal seat of the school. Shangqing practice values meditation techniques of visualization and breathing, as well as physical exercises, as opposed to the use of alchemy and talismans common in other Daoist practises. The recitation of the sacred canon plays an equally important role. The practice was essentia
 
 ## 交通 / Transport
 
@@ -81,4 +79,5 @@ Maoshan Scenic Area is located in Jurong City, southwest of Jiangsu Province. Th
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/茅山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

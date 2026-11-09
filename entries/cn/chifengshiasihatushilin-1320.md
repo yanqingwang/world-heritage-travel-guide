@@ -2,7 +2,7 @@
 id: "cn-1320"
 dataset: "china_5a"
 name_zh: "赤峰市阿斯哈图石林景区"
-name_en: "Stone Forest"
+name_en: "Shilintielu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,22 +13,12 @@ province_en: "Inner Mongolia"
 city_en: "Chifeng City"
 lat: 43.941128
 lon: 117.527176
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 赤峰市阿斯哈图石林景区 / Stone Forest
+# 赤峰市阿斯哈图石林景区 / Shilintielu Scenic Area
 
 > 内蒙古自治区 · 赤峰市 · 草原沙漠
-
-## 图片 / Images
-
-![Shilin, Yunnan 24740.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Shilin%2C_Yunnan_24740.jpg/1280px-Shilin%2C_Yunnan_24740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Shilin, Yunnan 24740.jpg · xiquinhosilva · CC BY 2.0*
-
-![Shilin Yunnan China Shilin-Stone-Forest-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Shilin_Yunnan_China_Shilin-Stone-Forest-01.jpg/1280px-Shilin_Yunnan_China_Shilin-Stone-Forest-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Shilin Yunnan China Shilin-Stone-Forest-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -59,10 +49,10 @@ Keshiketeng Stone Circle, also known as Ashatu Stone Forest, is a scenic spot wi
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/石林风景名胜区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/石林铁路)
 - [OpenStreetMap](https://www.openstreetmap.org/)

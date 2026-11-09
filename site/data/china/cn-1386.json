@@ -78,7 +78,8 @@
     "lat": 26.260556,
     "lon": 105.873333,
     "type": "medium_airport",
-    "distance_km": 36.2
+    "distance_km": 36.2,
+    "name_zh": "黄果树机场"
    },
    {
     "name": "Liupanshui Yuezhao Airport",
@@ -88,7 +89,8 @@
     "lat": 26.609417,
     "lon": 104.979,
     "type": "medium_airport",
-    "distance_km": 98.4
+    "distance_km": 98.4,
+    "name_zh": "六盘水月照机场"
    },
    {
     "name": "Xingyi Wanfenglin Airport",
@@ -98,7 +100,8 @@
     "lat": 25.083423,
     "lon": 104.960804,
     "type": "medium_airport",
-    "distance_km": 123.5
+    "distance_km": 123.5,
+    "name_zh": "兴义机场"
    }
   ],
   "nearest_airport_km": 36.2,
@@ -220,5 +223,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

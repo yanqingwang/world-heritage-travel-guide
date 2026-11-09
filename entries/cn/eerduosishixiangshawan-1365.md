@@ -13,34 +13,12 @@ province_en: "Inner Mongolia"
 city_en: "Ordos"
 lat: 40.250956
 lon: 109.968272
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 鄂尔多斯市响沙湾旅游景区 / Eerduosishixiangshawan Scenic Area
 
 > 内蒙古自治区 · 鄂尔多斯市 · 山地风光
-
-## 图片 / Images
-
-![Dongsheng District 2016.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Dongsheng_District_2016.jpg/1280px-Dongsheng_District_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Dongsheng District 2016.jpg · Charlie fong · CC BY-SA 4.0*
-
-![Administrative Division Ordos 1.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Administrative_Division_Ordos_1.png/1280px-Administrative_Division_Ordos_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Administrative Division Ordos 1.png · ASDFGH · CC BY-SA 3.0*
-
-![North of Ordos.Church.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/North_of_Ordos.Church.jpg/1280px-North_of_Ordos.Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*North of Ordos.Church.jpg · Popolon · CC BY-SA 4.0*
-
-![Ordos.Shanxi youmian.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ordos.Shanxi_youmian.jpg/1280px-Ordos.Shanxi_youmian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ordos.Shanxi youmian.jpg · Popolon · CC BY-SA 4.0*
-
-![OrdosC.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/OrdosC.svg/1280px-OrdosC.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*OrdosC.svg · JesseW900 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

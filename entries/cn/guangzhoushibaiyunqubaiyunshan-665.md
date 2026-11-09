@@ -2,7 +2,7 @@
 id: "cn-665"
 dataset: "china_5a"
 name_zh: "广州市白云区白云山景区"
-name_en: "Guangzhoushibaiyunqubaiyunshan Scenic Area"
+name_en: "Baiyunshan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Guangzhou"
 lat: 23.202789
 lon: 113.293185
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 广州市白云区白云山景区 / Guangzhoushibaiyunqubaiyunshan Scenic Area
+# 广州市白云区白云山景区 / Baiyunshan Scenic Area
 
 > 广东省 · 广州市 · 山地风光
 
@@ -75,10 +75,10 @@ The scenic spot is located in the northeast of Guangzhou City. It is one of the 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/广州市白云区人民医院)
+- [Wikipedia](https://zh.wikipedia.org/wiki/白云山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

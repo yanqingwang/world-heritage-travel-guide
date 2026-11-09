@@ -13,34 +13,12 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 29.869137
 lon: 118.442534
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 黄山市古徽州文化旅游区 / Huangshan
 
 > 安徽省 · 黄山市 · 古镇村落
-
-## 图片 / Images
-
-![Huangshan fengjing.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Huangshan fengjing.jpg · Public domain*
-
-![Anhui Huangshan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Anhui_Huangshan.jpg/1280px-Anhui_Huangshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Anhui Huangshan.jpg · Miaulian · CC BY-SA 3.0*
-
-![Mount-huangshan 53319729912.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount-huangshan 53319729912.jpg · xiquinhosilva · CC BY 2.0*
-
-![Mount-huangshan 53319732602 o.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Mount-huangshan_53319732602_o.jpg/1280px-Mount-huangshan_53319732602_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount-huangshan 53319732602 o.jpg · xiquinhosilva · CC BY 2.0*
-
-![Mount-huangshan 53320601421 o.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mount-huangshan_53320601421_o.jpg/1280px-Mount-huangshan_53320601421_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Mount-huangshan 53320601421 o.jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 

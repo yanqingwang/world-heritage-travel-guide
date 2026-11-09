@@ -13,34 +13,12 @@ province_en: "Jiangxi"
 city_en: "Jingdezhen"
 lat: 29.289262
 lon: 117.191564
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 景德镇市昌江区古窑民俗博览区 / Jingdezhenguyaominsubolanqu
 
 > 江西省 · 景德镇市 · 主题乐园
-
-## 图片 / Images
-
-![Changjiang River Seen from Zhushan Bridge, Jingdezhen.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Changjiang_River_Seen_from_Zhushan_Bridge%2C_Jingdezhen.jpg/1280px-Changjiang_River_Seen_from_Zhushan_Bridge%2C_Jingdezhen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Changjiang River Seen from Zhushan Bridge, Jingdezhen.jpg · EditQ · CC BY-SA 4.0*
-
-![CN Jingdezhen 0806 (2) (17187725276).jpg](https://upload.wikimedia.org/wikipedia/commons/4/48/CN_Jingdezhen_0806_%282%29_%2817187725276%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*CN Jingdezhen 0806 (2) (17187725276).jpg · Diego Tirira from Quito, Ecuador · CC BY-SA 2.0*
-
-![Jingdezhen (Chinese characters).svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jingdezhen_%28Chinese_characters%29.svg/1280px-Jingdezhen_%28Chinese_characters%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jingdezhen (Chinese characters).svg · White whirlwind · Public domain*
-
-![Jingdezhen name.JPG](https://upload.wikimedia.org/wikipedia/commons/6/6c/Jingdezhen_name.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Jingdezhen name.JPG · EEIM · CC BY-SA 3.0*
-
-![Jingdezhen name2.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jingdezhen_name2.svg/1280px-Jingdezhen_name2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jingdezhen name2.svg · JesseW900 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -65,10 +43,10 @@ Jingdezhen Ancient Kiln Folklore Expo Area covers an area of ​​83 hectares. 
 
 ## 附近酒店 / Nearby hotels
 
+- **半岛国际酒店** — 2.3 km — hotel
 - **景德镇陶溪川凯悦酒店** — 4.2 km — chain — Hyatt Place Jingdezhen Taoxichuan · Hyatt
 - **西西里民宿** — 1.0 km — hotel
 - **Jinghan** — 1.8 km — hotel
-- **半岛国际酒店** — 2.3 km — hotel
 - **文苑商务大酒店** — 2.4 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*

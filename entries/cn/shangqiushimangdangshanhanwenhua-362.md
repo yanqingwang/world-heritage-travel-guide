@@ -13,34 +13,12 @@ province_en: "Henan"
 city_en: "Shangqiu City"
 lat: 34.176129
 lon: 116.522746
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 商丘市芒砀山汉文化旅游景区 / Shangqiushimangdangshanhanwenhua Scenic Area
 
 > 河南省 · 商丘市 · 历史遗址
-
-## 图片 / Images
-
-![20220726 Historic City of Shangqiu 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/20220726_Historic_City_of_Shangqiu_01.jpg/1280px-20220726_Historic_City_of_Shangqiu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20220726 Historic City of Shangqiu 01.jpg · Windmemories · CC BY-SA 4.0*
-
-![1511 Shangqiu City Wall & South Gate.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/1511_Shangqiu_City_Wall_%26_South_Gate.jpg/1280px-1511_Shangqiu_City_Wall_%26_South_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1511 Shangqiu City Wall & South Gate.jpg · Gary Todd · CC0*
-
-![20251016 Shangqiu Catholic Church 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/20251016_Shangqiu_Catholic_Church_01.jpg/1280px-20251016_Shangqiu_Catholic_Church_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20251016 Shangqiu Catholic Church 01.jpg · Windmemories · CC BY-SA 4.0*
-
-![20251016 Shangqiu Catholic Church 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/20251016_Shangqiu_Catholic_Church_02.jpg/1280px-20251016_Shangqiu_Catholic_Church_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20251016 Shangqiu Catholic Church 02.jpg · Windmemories · CC BY-SA 4.0*
-
-![20251016 Shangqiu Christian Church 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/20251016_Shangqiu_Christian_Church_01.jpg/1280px-20251016_Shangqiu_Christian_Church_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20251016 Shangqiu Christian Church 01.jpg · Windmemories · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

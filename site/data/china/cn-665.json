@@ -10,7 +10,7 @@
  "city_zh": "广州市",
  "city_en": "Guangzhou",
  "name_zh": "广州市白云区白云山景区",
- "name_en": "Guangzhoushibaiyunqubaiyunshan Scenic Area",
+ "name_en": "Baiyunshan Scenic Area",
  "name_en_source": "pinyin",
  "slug": "guangzhoushibaiyunqubaiyunshan-665",
  "lat": 23.202789,
@@ -78,7 +78,8 @@
     "lat": 23.392401,
     "lon": 113.299004,
     "type": "large_airport",
-    "distance_km": 21.1
+    "distance_km": 21.1,
+    "name_zh": "广州白云国际机场"
    },
    {
     "name": "Foshan Shadi Airport",
@@ -88,7 +89,8 @@
     "lat": 23.0825,
     "lon": 113.070833,
     "type": "medium_airport",
-    "distance_km": 26.4
+    "distance_km": 26.4,
+    "name_zh": "佛山沙堤机场"
    },
    {
     "name": "Shenzhen Bao'an International Airport",
@@ -98,7 +100,8 @@
     "lat": 22.639474,
     "lon": 113.803262,
     "type": "large_airport",
-    "distance_km": 81.6
+    "distance_km": 81.6,
+    "name_zh": "深圳宝安国际机场"
    }
   ],
   "nearest_airport_km": 21.1,
@@ -194,7 +197,7 @@
  "info_languages": {
   "zh": true,
   "en": false,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "source": [
    "Wikipedia language editions",
@@ -227,12 +230,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/广州市白云区人民医院"
+   "url": "https://zh.wikipedia.org/wiki/白云山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

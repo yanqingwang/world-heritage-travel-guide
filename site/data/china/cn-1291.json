@@ -24,48 +24,7 @@
  "intro_zh": "赤水丹霞旅游区由赤水大瀑布、佛光岩、燕子岩三大景区组成，区内瀑布成群、丹霞奇丽、竹林似海、桫椤繁茂、森林壮阔，是一个集山、谷、瀑、河、珍稀动植物为一体的丹霞地貌旅游区。",
  "intro_en": "Chishui Danxia Tourist Area is composed of three major scenic spots: Chishui Waterfall, Foguang Rock, and Swallow Rock. The area has clusters of waterfalls, beautiful Danxia, ​​sea-like bamboo forests, luxuriant algae, and magnificent forests. It is a Danxia landform tourist area integrating mountains, valleys, waterfalls, rivers, and rare animals and plants.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Zunyi.JPG/1280px-Zunyi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Zunyi.JPG",
-   "author": "YubYub41",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Zunyi.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zunyi_-_55410567063.jpg/1280px-Zunyi_-_55410567063.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Zunyi - 55410567063.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 4.0",
-   "credit": "https://www.flickr.com/photos/7138083@N04/55410567063/",
-   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_-_55410567063.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Zunyi_Conference_Site.jpg/1280px-Zunyi_Conference_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Zunyi Conference Site.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 4.0",
-   "credit": "https://www.flickr.com/photos/7138083@N04/55410620039/",
-   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_Conference_Site.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zunyi_Conference_Site_-_55410566288.jpg/1280px-Zunyi_Conference_Site_-_55410566288.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Zunyi Conference Site - 55410566288.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 4.0",
-   "credit": "https://www.flickr.com/photos/7138083@N04/55410566288/",
-   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_Conference_Site_-_55410566288.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Zunyi_Conference_Site_-_55410566863.jpg/1280px-Zunyi_Conference_Site_-_55410566863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Zunyi Conference Site - 55410566863.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 4.0",
-   "credit": "https://www.flickr.com/photos/7138083@N04/55410566863/",
-   "source": "https://commons.wikimedia.org/wiki/File:Zunyi_Conference_Site_-_55410566863.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 29.030357,
     "lon": 105.468407,
     "type": "medium_airport",
-    "distance_km": 60.3
+    "distance_km": 60.3,
+    "name_zh": "泸州云龙机场"
    },
    {
     "name": "Zunyi Maotai Airport",
@@ -88,7 +48,8 @@
     "lat": 27.961837,
     "lon": 106.435416,
     "type": "medium_airport",
-    "distance_km": 93.9
+    "distance_km": 93.9,
+    "name_zh": "仁怀茅台机场"
    },
    {
     "name": "Yibin Wuliangye Airport",
@@ -98,7 +59,8 @@
     "lat": 28.858431,
     "lon": 104.526157,
     "type": "medium_airport",
-    "distance_km": 123.4
+    "distance_km": 123.4,
+    "name_zh": "宜宾五粮液机场"
    }
   ],
   "nearest_airport_km": 60.3,
@@ -222,5 +184,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

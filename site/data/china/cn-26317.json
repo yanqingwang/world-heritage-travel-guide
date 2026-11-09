@@ -78,7 +78,8 @@
     "lat": 36.132629,
     "lon": 111.641236,
     "type": "medium_airport",
-    "distance_km": 88.7
+    "distance_km": 88.7,
+    "name_zh": "临汾乔李机场"
    },
    {
     "name": "Yan'an Nanniwan Airport",
@@ -88,7 +89,8 @@
     "lat": 36.479413,
     "lon": 109.464083,
     "type": "medium_airport",
-    "distance_km": 113.8
+    "distance_km": 113.8,
+    "name_zh": "延安南泥湾机场"
    },
    {
     "name": "Yuncheng Yanhu International Airport",
@@ -98,7 +100,8 @@
     "lat": 35.117823,
     "lon": 111.034023,
     "type": "large_airport",
-    "distance_km": 116.7
+    "distance_km": 116.7,
+    "name_zh": "运城盐湖国际机场"
    }
   ],
   "nearest_airport_km": 88.7,
@@ -212,5 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

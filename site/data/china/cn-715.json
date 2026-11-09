@@ -10,7 +10,7 @@
  "city_zh": "广州市",
  "city_en": "Guangzhou",
  "name_zh": "广州市番禺区长隆旅游度假区",
- "name_en": "Panyu, Guangzhou",
+ "name_en": "Dashi station",
  "name_en_source": "wikipedia",
  "slug": "guangzhoushipanyuquzhanglong-715",
  "lat": 23.005809,
@@ -22,50 +22,9 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "广州市长隆旅游度假区拥有长隆欢乐世界、长隆国际大马戏、长隆水上乐园、长隆野生动物世界、长隆飞鸟乐园和长隆酒店等多家主题公园及酒店，是国内超大规模的综合性旅游度假区之一。",
- "intro_en": "Panyu, formerly romanized as Punyü, is one of 11 urban districts of the prefecture-level city of Guangzhou, the capital of Guangdong Province, China. Since January 1975, Panyu County has been under Guangzhou's administration. In 1992, Panyu County was renamed to Panyu county-level city, still under Guangzhou's administration. It was subsequently renamed to Panyu District on 10 July 2000. The present district covers an area of about 530 km2 (200 sq mi).",
+ "intro_en": "Dashi Station (Chinese: 大石站; Cantonese Yale: Daaihsehk Jaahm; lit. 'Big Rock Station') is a station of Line 3 of the Guangzhou Metro that started operation on 28 December 2006. It is located under the New Moon Pearl Garden (新月明珠花园) in the Dashi Subdistrict, Panyu District, which is near where the Xinguang Expressway (新光快速公路) passes over Qunxian Road (群贤路). The station has reservations to interchange with Line 7. The northern end of the concourse has structures reserved for the two side platforms for Line 7. However, Line 7 was adjusted and changed to Hanxi Changlong station and the reserved structure of this station has been left unused and covered with enamel panels.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Xili_Bridge%2C_Panyu%2C_Guangzhou_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Xili Bridge, Panyu, Guangzhou 2014.jpg",
-   "author": "xLai",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Xili_Bridge,_Panyu,_Guangzhou_2014.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg/1280px-Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Guangzhou Panyu Shawan Beicun 20190922.155057.jpg",
-   "author": "古海岸遗址",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Panyu_Avenue_N.%2C_Panyu_District%2C_Guangzhou-3.jpg/1280px-Panyu_Avenue_N.%2C_Panyu_District%2C_Guangzhou-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Panyu Avenue N., Panyu District, Guangzhou-3.jpg",
-   "author": "YikyuenG",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Panyu_Avenue_N.,_Panyu_District,_Guangzhou-3.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Panyu_Avenue_S.%2C_Panyu_District%2C_Guangzhou-4.jpg/1280px-Panyu_Avenue_S.%2C_Panyu_District%2C_Guangzhou-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Panyu Avenue S., Panyu District, Guangzhou-4.jpg",
-   "author": "YikyuenG",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Panyu_Avenue_S.,_Panyu_District,_Guangzhou-4.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Shawan_Bridge%2C_Panyu%2C_Guangzhou_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Shawan Bridge, Panyu, Guangzhou 2012.jpg",
-   "author": "Xiaolai1996",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Shawan_Bridge,_Panyu,_Guangzhou_2012.jpg"
-  }
- ],
+ "images": [],
  "web": "https://www.chimelong.com/",
  "booking": "https://www.chimelong.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 23.0825,
     "lon": 113.070833,
     "type": "medium_airport",
-    "distance_km": 28.0
+    "distance_km": 28.0,
+    "name_zh": "佛山沙堤机场"
    },
    {
     "name": "Guangzhou Baiyun International Airport",
@@ -88,7 +48,8 @@
     "lat": 23.392401,
     "lon": 113.299004,
     "type": "large_airport",
-    "distance_km": 43.1
+    "distance_km": 43.1,
+    "name_zh": "广州白云国际机场"
    },
    {
     "name": "Shenzhen Bao'an International Airport",
@@ -98,7 +59,8 @@
     "lat": 22.639474,
     "lon": 113.803262,
     "type": "large_airport",
-    "distance_km": 63.2
+    "distance_km": 63.2,
+    "name_zh": "深圳宝安国际机场"
    }
   ],
   "nearest_airport_km": 28.0,
@@ -205,7 +167,7 @@
   "zh": true,
   "en": true,
   "ja": true,
-  "ko": true,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -237,12 +199,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/番禺区"
+   "url": "https://zh.wikipedia.org/wiki/大石站 (广州市)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

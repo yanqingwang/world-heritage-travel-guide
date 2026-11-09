@@ -2,7 +2,7 @@
 id: "cn-1376"
 dataset: "china_5a"
 name_zh: "温州市刘伯温故里景区"
-name_en: "Liu Bowen"
+name_en: "Liubowen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Wenzhou City"
 lat: 27.85048
 lon: 120.017937
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 温州市刘伯温故里景区 / Liu Bowen
+# 温州市刘伯温故里景区 / Liubowen Scenic Area
 
 > 浙江省 · 温州市 · 度假休闲
 
@@ -34,7 +34,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Liu Ji (1 July 1311 – 16 May 1375), courtesy name Bowen, better known as Liu Bowen, was a Chinese military strategist, philosopher, and politician who lived in the late Yuan and early Ming dynasties. He was born in Qingtian County (present-day Wencheng County, Lishui, Zhejiang). He served as a key advisor to Zhu Yuanzhang, the Hongwu Emperor, the founder of the Ming dynasty, in the latter's struggle to overthrow the Yuan dynasty and unify China proper under his rule. Liu is also known for his prophecies and has been described as the "Divine Chinese Nostradamus". He and Jiao Yu co-edited the military treatise known as the Huolongjing (Fire Dragon Manual). Liu Bowen initially aided Zhu Yuanzhang in his ascent to power, but later Li Shanchang and Hu Weiyong quarrelled with Liu, forcing Liu to resign. Liu Bowen warned the Hongwu Emperor that Hu was not suitable for the position of prime minister. Liu died soon after, possibly having been poisoned by the emperor and Hu Weiyong, in a political affair that became the first of the Four Major Cases of the early Ming dynasty.
+The scenic area has a total area of ​​4.8 square kilometers and has distinctive regional characteristics. It is composed of two core scenic spots, Liuji Temple and Baizhangji. It mainly has Yizhe Waterfall, Xitianping, Liuji Temple, Tianding Lake, Elephant Peak and other scenic spots. It is a comprehensive tourism and leisure resort where humanities and natural landscapes complement each other and integrate multiculturalism.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -57,7 +59,7 @@ Liu Ji (1 July 1311 – 16 May 1375), courtesy name Bowen, better known as Liu B
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 

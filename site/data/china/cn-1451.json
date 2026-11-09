@@ -78,7 +78,8 @@
     "lat": 27.8025,
     "lon": 114.3062,
     "type": "medium_airport",
-    "distance_km": 38.1
+    "distance_km": 38.1,
+    "name_zh": "宜春明月山机场"
    },
    {
     "name": "Jinggangshan Airport",
@@ -88,7 +89,8 @@
     "lat": 26.856899,
     "lon": 114.737,
     "type": "medium_airport",
-    "distance_km": 92.6
+    "distance_km": 92.6,
+    "name_zh": "吉安井冈山机场"
    },
    {
     "name": "Changsha Huanghua International Airport",
@@ -98,7 +100,8 @@
     "lat": 28.189199,
     "lon": 113.220001,
     "type": "large_airport",
-    "distance_km": 118.6
+    "distance_km": 118.6,
+    "name_zh": "长沙黄花国际机场"
    }
   ],
   "nearest_airport_km": 38.1,
@@ -188,5 +191,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

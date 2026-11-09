@@ -67,16 +67,50 @@ def similarity(query: str, title: str) -> float:
 
 
 def is_generic_place(title: str) -> bool:
-    return bool(re.search(r"(市|县|区|省|自治州|地区|镇|乡)$", title))
+    # Pure administrative names ("金华市", "冶力关镇"). Scenic-area titles like
+    # "双龙风景旅游区" end in 区 too — strip scenic suffixes before testing so
+    # they are not mistaken for a city/county article.
+    t = re.sub("(旅游景区|旅游度假区|文化旅游区|旅游区|风景区|景区|自然保护区)$", "", title)
+    return bool(re.search(r"(市|县|区|省|自治州|地区|镇|乡|盟|州)$", t))
 
 
 def choose_zh_title(site: dict, candidates: list[str]) -> str | None:
     name = re.sub("(旅游景区|旅游度假区|文化旅游区|旅游区|风景区|景区)$", "", site["name"])
-    scored = sorted(((similarity(name, t), t) for t in candidates), reverse=True)
-    for score, title in scored:
-        if score >= 0.62 and not (is_generic_place(title) and not is_generic_place(name)):
+    # 5A names lead with the administrative prefix ("新乡市宝泉", "甘南州冶力关");
+    # the article is titled with the feature alone. Score both the full name and
+    # the stripped name and take the better match per candidate, so "新乡市"
+    # (a substring of the full name, 0.9) cannot beat "宝泉水库"/"河南宝泉
+    # 旅游区" (a weak 0.42 against the full name but 0.9 against "宝泉").
+    stripped = re.sub(r"^[一-鿿]{1,3}(市|州|县|区|盟)", "", name)
+    def score(title: str) -> float:
+        s = max(similarity(name, title), similarity(stripped, title))
+        # A candidate that is exactly the query's administrative prefix
+        # ("新乡市" in "新乡市宝泉") is the parent city, not the place — cap it
+        # below the 0.62 bar so a real feature article always wins. When the
+        # city is the only candidate it is still accepted by the fallback
+        # (threshold 0.55) for its intro text; images handle it separately.
+        if is_generic_place(title) and name.startswith(title):
+            s = min(s, 0.55)  # below the 0.62 accept bar
+        return s
+    scored = sorted((((s, not is_generic_place(t)), t) for s, t in
+                     ((score(t), t) for t in candidates)), reverse=True)
+    for (score_, _non_generic), title in scored:
+        if score_ >= 0.62 and not (is_generic_place(title) and not is_generic_place(name)):
             return title
-    return scored[0][1] if scored and scored[0][0] >= 0.4 else None
+    # Fallback for weak matches: prefer the best non-generic candidate even
+    # below the 0.62 bar ("黑龙江扎龙国家级自然保护区" scores 0.42 against
+    # "齐齐哈尔市扎龙生态"); only settle for a bare administrative name
+    # ("新乡市") when nothing else is on offer — its text is still useful,
+    # and image sourcing treats it separately.
+    best_non_generic = next((s for s, ng, _t in
+                             ((s_, ng, t_) for (s_, ng), t_ in scored if ng)), None)
+    for (score_, non_generic), title in scored:
+        if non_generic or is_generic_place(name):
+            if score_ >= 0.4:
+                return title
+        elif best_non_generic is None and score_ >= 0.55:
+            return title
+    return None
 
 
 def geosearch_titles(lat: float, lon: float) -> list[str]:
@@ -186,11 +220,28 @@ def china_site(site: dict) -> dict:
         except Exception:
             pass
 
-    search_terms = [f"{name} {site['province_full']}"]
-    if en_title:
-        search_terms.append(en_title)
+    # Image search terms: the stripped scenic name beats the full official
+    # name. Querying "黄山市皖南古村落-西递宏村 安徽省" pools every file tagged
+    # Huangshan/Anhui (the same generic images then fill 黄山/宏村/古徽州 alike);
+    # "西递宏村" hits the village photos. When the wiki match is a parent city
+    # article, skip its title too — it would repeat the same city images.
+    core = re.sub(r"^[一-鿿]{1,3}(市|州|县|区|盟)", "", name) or name
+    matched_is_city = is_generic_place(page.get("title") or "")
+    search_terms = [f"{core} {site['province_full']}", core]
+    if not matched_is_city:
+        if en_title:
+            search_terms.append(en_title)
+    seen_terms = set()
     for term in search_terms:
+        if not term.strip() or term in seen_terms:
+            continue
+        seen_terms.add(term)
         for img in commons_search(term, 6):
+            # Gazette PDFs and other non-photo files rank high on Chinese
+            # government-title queries; keep images only.
+            fname = img.get("title") or ""
+            if fname.lower().endswith((".pdf", ".djvu", ".tif", ".tiff")):
+                continue
             if img not in images:
                 images.append(img)
     # Deduplicate by URL and keep at most five.

@@ -78,7 +78,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 33.5
+    "distance_km": 33.5,
+    "name_zh": "无锡硕放机场"
    },
    {
     "name": "Shanghai Hongqiao International Airport",
@@ -88,7 +89,8 @@
     "lat": 31.198104,
     "lon": 121.33426,
     "type": "large_airport",
-    "distance_km": 60.8
+    "distance_km": 60.8,
+    "name_zh": "上海虹桥国际机场"
    },
    {
     "name": "Jiaxing Nanhu Airport",
@@ -98,7 +100,8 @@
     "lat": 30.698056,
     "lon": 120.663056,
     "type": "medium_airport",
-    "distance_km": 68.2
+    "distance_km": 68.2,
+    "name_zh": "嘉兴南湖机场"
    }
   ],
   "nearest_airport_km": 33.5,
@@ -262,5 +265,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

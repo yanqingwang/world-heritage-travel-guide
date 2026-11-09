@@ -2,7 +2,7 @@
 id: "cn-1110"
 dataset: "china_5a"
 name_zh: "常德市桃花源旅游区"
-name_en: "Changdeshitaohuayuan Tourist Area"
+name_en: "Tao Hua Yuan"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Changde City"
 lat: 28.79315
 lon: 111.442847
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 常德市桃花源旅游区 / Changdeshitaohuayuan Tourist Area
+# 常德市桃花源旅游区 / Tao Hua Yuan
 
 > 湖南省 · 常德市 · 山地风光
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-The scenic spot is famous for the beauty of its landscape, the prosperity of temples and pavilions, the abundance of poems and inscriptions, and the wonders of history and legends. It is said that it is the location of the "Xanadu" described in Tao Yuanming's "Peach Blossom Spring".
-
-*English introduction: machine translation.*
+The Peach Blossom Spring (Chinese: 桃花源記; pinyin: Táohuā Yuán Jì; lit. 'Source of the Peach Blossoms', also translated as “(The Record of) the Peach Blossom”), or Peach Blossom Spring Story or The Peach Blossom Land was a fable written by Tao Yuanming in 421 CE about a chance discovery of an ethereal utopia where the people lead an ideal existence in harmony with nature, unaware of the outside world for centuries. The phrase can be used to describe an idealistic place of beauty and repose, although it is sometimes used to refer to an unrealistic dream.
 
 ## 交通 / Transport
 
@@ -71,9 +69,10 @@ The scenic spot is famous for the beauty of its landscape, the prosperity of tem
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ko
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/桃花源)
 - [OpenStreetMap](https://www.openstreetmap.org/)

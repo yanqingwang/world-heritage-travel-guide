@@ -78,7 +78,8 @@
     "lat": 33.792712,
     "lon": 119.126657,
     "type": "large_airport",
-    "distance_km": 94.6
+    "distance_km": 94.6,
+    "name_zh": "淮安涟水机场"
    },
    {
     "name": "Xuzhou Guanyin International Airport",
@@ -88,7 +89,8 @@
     "lat": 34.059056,
     "lon": 117.555278,
     "type": "medium_airport",
-    "distance_km": 115.4
+    "distance_km": 115.4,
+    "name_zh": "徐州观音机场"
    },
    {
     "name": "Bengbu Tenghu Airport",
@@ -98,7 +100,8 @@
     "lat": 33.166292,
     "lon": 117.058344,
     "type": "medium_airport",
-    "distance_km": 119.5
+    "distance_km": 119.5,
+    "name_zh": "蚌埠滕湖机场"
    }
   ],
   "nearest_airport_km": 94.6,
@@ -212,5 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

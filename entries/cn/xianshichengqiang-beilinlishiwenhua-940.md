@@ -2,7 +2,7 @@
 id: "cn-940"
 dataset: "china_5a"
 name_zh: "西安市城墙•碑林历史文化景区"
-name_en: "Xi'an"
+name_en: "Xianshidiershiliuzhongxue Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.265569
 lon: 108.977354
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 西安市城墙•碑林历史文化景区 / Xi'an
+# 西安市城墙•碑林历史文化景区 / Xianshidiershiliuzhongxue Scenic Area
 
 > 陕西省 · 西安市 · 历史遗址
-
-## 图片 / Images
-
-![西安钟楼2020 (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg/1280px-%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*西安钟楼2020 (1).jpg · ScareCriterion12 · CC BY-SA 4.0*
-
-![Hawk Type 97 Xi'an Gaoke Annex Building.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Hawk_Type_97_Xi%27an_Gaoke_Annex_Building.jpg/1280px-Hawk_Type_97_Xi%27an_Gaoke_Annex_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Hawk Type 97 Xi'an Gaoke Annex Building.jpg · DieSonneUnsLach · CC BY-SA 4.0*
-
-![Xi'an, China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Xi%27an%2C_China.jpg/1280px-Xi%27an%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xi'an, China.jpg · Ideophagous · CC BY-SA 4.0*
-
-![Xi'an, China (35775).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Xi%27an%2C_China_%2835775%29.jpg/1280px-Xi%27an%2C_China_%2835775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xi'an, China (35775).jpg · Ideophagous · CC BY-SA 4.0*
-
-![Xi'an, China (38809).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Xi%27an%2C_China_%2838809%29.jpg/1280px-Xi%27an%2C_China_%2838809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Xi'an, China (38809).jpg · Ideophagous · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city on the Guanzhong plain, the city is the most populous in the province and third-most populous in Western China after Chongqing and Chengdu, as well as the most populous in Northwestern China. Based on the city's 2025 1% population sample survey, its estimated year-end resident population was 13.24 million, of whom 10.72 million were urban residents. Xi'an is one of the oldest cities in China. Known as Chang'an throughout much of its history, Xi'an is one of China's Five Great Ancient Capitals, having held the position under several of the most important dynasties in Chinese history, including the Western Zhou, Qin, Western Han, Sui, Northern Zhou and Tang. Xi'an is now the second-most popular tourist destination in China. Xi'an contains the Mausoleum of the First Qin Emperor, including the Terracotta Army, and five component sites of the UNESCO-listed Silk Roads: the Routes Network of Chang'an-Tianshan Corridor. Since the 1980s, as part of the economic growth of inland China especially for the central and northwest regions, Xi'an has developed into a cultural, industrial, political and educational, and r
+Xi'an City Wall and Forest of Steles Historical and Cultural Scenic Area consists of Xi'an's most influential Forest of Steles Museum and City Wall Scenic Area. The Xi'an Forest of Steles Museum is adjacent to the Academy Gate Cultural Street and is famous for its collection, display and research of inscriptions, epitaphs and stone carvings from past dynasties. The Xi'an City Wall continues the historical context of the entire ancient capital of Chang'an, and with its unique charm, it blooms its magnificence, magnificence and breadth to the world, demonstrating the depth, wisdom and inclusiveness of the ancient capital.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +53,10 @@ Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city o
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西安市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/西安市第二十六中学)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-26427"
 dataset: "china_5a"
 name_zh: "北京（通州）大运河文化旅游景区"
-name_en: "Tongzhouquwenhuaguan Scenic Area"
+name_en: "Grand Canal (China)"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Beijing"
 city_en: "Tongzhou District"
 lat: 39.920145
 lon: 116.674039
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 北京（通州）大运河文化旅游景区 / Tongzhouquwenhuaguan Scenic Area
+# 北京（通州）大运河文化旅游景区 / Grand Canal (China)
 
 > 北京市 · 通州区 · 自然风光
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Thousands of years of water transportation history have left many cultural relics and beautiful scenery in Tongzhou, a canal city. With the development of the times, Tongzhou has also been built into an ecological city, a canal city, and a dynamic city.
-
-*English introduction: machine translation.*
+The Grand Canal (Chinese: 大运河; pinyin: Dà yùnhé) is a system of interconnected canals linking various major rivers and lakes in North and East China, serving as an important waterborne transport infrastructure between the north and the south during Medieval and premodern China. It is the longest artificial waterway in the world and a World Heritage Site. The Grand Canal has undergone several route changes throughout history. Its current main stem, known as the Jing–Hang Grand Canal, is thought to extend for 1,776 km (1,104 mi) linking Beijing in the north to Hangzhou in the south, and is divided into 6 main subsections, with the southernmost sections remaining relatively unchanged over time. The Jiangnan Canal starts from the Qiantang River at Hangzhou's Jianggan District, looping around the east side of Lake Tai through Jiaxing, Suzhou and Wuxi, to the Yangtze at Zhenjiang; the Inner Canal from Yangzhou across the Yangtze from Zhenjiang, going through the Gaoyou Lake to join the Huai River at Huai'an, which for centuries was also its junction with the former course of the Yellow River; the Middle Canal from Huai'an to Luoma Lake at Suqian, then to the Nansi Lakes at Weishan; the L
 
 ## 交通 / Transport
 
@@ -75,10 +73,10 @@ Thousands of years of water transportation history have left many cultural relic
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/通州区文化馆)
+- [Wikipedia](https://zh.wikipedia.org/wiki/大运河)
 - [OpenStreetMap](https://www.openstreetmap.org/)

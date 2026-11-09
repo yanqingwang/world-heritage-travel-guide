@@ -2,7 +2,7 @@
 id: "cn-1259"
 dataset: "china_5a"
 name_zh: "小三峡-小小三峡旅游区"
-name_en: "Xiaosanxia-xiaoxiaosanxia Tourist Area"
+name_en: "Xiaosanxiadaqiao Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Chongqing"
 city_en: "Wushan County"
 lat: 31.086327
 lon: 109.894762
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 小三峡-小小三峡旅游区 / Xiaosanxia-xiaoxiaosanxia Tourist Area
+# 小三峡-小小三峡旅游区 / Xiaosanxiadaqiao Tourist Area
 
 > 重庆市 · 巫山县 · 地质奇观
 
@@ -58,4 +58,5 @@ Wushan Little Three Gorges is the general name for the Longmen Gorge, Bawu Gorge
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/小三峡大桥)
 - [OpenStreetMap](https://www.openstreetmap.org/)

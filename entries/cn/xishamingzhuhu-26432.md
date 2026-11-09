@@ -13,7 +13,7 @@ province_en: "Shanghai"
 city_en: "Chongming District"
 lat: 31.743662
 lon: 121.260027
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 西沙明珠湖景区 / Xishamingzhuhu Scenic Area
@@ -57,4 +57,5 @@ Xisha Pearl Lake Scenic Area is located at the southwest end of Chongming Island
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/明珠湖公园)
 - [OpenStreetMap](https://www.openstreetmap.org/)

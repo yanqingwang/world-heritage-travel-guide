@@ -37,7 +37,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 18.2
+    "distance_km": 18.2,
+    "name_zh": "无锡硕放机场"
    },
    {
     "name": "Changzhou Benniu International Airport",
@@ -47,7 +48,8 @@
     "lat": 31.920485,
     "lon": 119.77546,
     "type": "medium_airport",
-    "distance_km": 65.6
+    "distance_km": 65.6,
+    "name_zh": "常州奔牛机场"
    },
    {
     "name": "Jiaxing Nanhu Airport",
@@ -57,7 +59,8 @@
     "lat": 30.698056,
     "lon": 120.663056,
     "type": "medium_airport",
-    "distance_km": 96.0
+    "distance_km": 96.0,
+    "name_zh": "嘉兴南湖机场"
    }
   ],
   "nearest_airport_km": 18.2,
@@ -212,5 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

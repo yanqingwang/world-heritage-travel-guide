@@ -46,7 +46,8 @@
     "lat": 26.22414,
     "lon": 120.002679,
     "type": "medium_airport",
-    "distance_km": 127.9
+    "distance_km": 127.9,
+    "name_zh": "马祖北竿机场"
    },
    {
     "name": "Matsu Nangan Airport",
@@ -56,7 +57,8 @@
     "lat": 26.159656,
     "lon": 119.958376,
     "type": "medium_airport",
-    "distance_km": 130.3
+    "distance_km": 130.3,
+    "name_zh": "马祖南竿机场"
    },
    {
     "name": "Nanping Wuyishan Airport",
@@ -66,7 +68,8 @@
     "lat": 27.7019,
     "lon": 118.000999,
     "type": "medium_airport",
-    "distance_km": 131.4
+    "distance_km": 131.4,
+    "name_zh": "武夷山机场"
    }
   ],
   "nearest_airport_km": 127.9,
@@ -180,5 +183,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

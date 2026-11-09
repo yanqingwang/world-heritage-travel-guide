@@ -10,7 +10,7 @@
  "city_zh": "延边朝鲜族自治州",
  "city_en": "Yanbian Korean Autonomous Prefecture",
  "name_zh": "延边朝鲜族自治州长白山景区",
- "name_en": "Heaven Lake",
+ "name_en": "Mount Paektu",
  "name_en_source": "wikipedia",
  "slug": "yanbianchaoxianzuzizhizhouzhangbaishan-367",
  "lat": 42.03497,
@@ -22,7 +22,7 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "长白山因主峰白头山多白色浮石与积雪而得名。景区是拥有“神山、圣水、奇林、仙果”等盛誉的旅游胜地，主要景点有长白山天池、白云峰、天文峰、长白温泉群 、长白山谷底林海等。",
- "intro_en": "Heaven Lake (Chinese: 天池; pinyin: Tiān Chí; Korean: 천지) is a volcanic crater lake atop Paektu Mountain. It lies on the border between China and North Korea, and is roughly evenly divided between the two countries. The Chinese part is in Jilin Province while the North Korean part is in Ryanggang Province.",
+ "intro_en": "Mount Paektu or Mount Baekdu (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain (Chinese: 长白山, Chinese Korean: 장백산). At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, called Janggun Peak, belongs to North Korea. The mountain notably features a caldera that contains a large crater lake called Heaven Lake, which serves as the source of the Songhua, Tumen, and Yalu rivers. Korean and Manchu people assign a mythical quality to the mountain and its lake, and consider the mountain to be their ancestral homeland. The mountain's caldera was formed by an eruption in 946 that released about 100–120 km3 (24–29 cu mi) of tephra. It was among the largest and most powerful eruptions on Earth in the last 5,000 years. The volcano last erupted in 1903, and is expected to erupt roughly once every hundred years. In the 2010s, concerns over an upcoming eruption prompted several countries to commission research into when the volcano might next erupt. The mountain is considered culturally important to multipl",
  "intro_en_source": "wikipedia",
  "images": [
   {
@@ -78,7 +78,8 @@
     "lat": 42.066944,
     "lon": 127.602222,
     "type": "medium_airport",
-    "distance_km": 39.6
+    "distance_km": 39.6,
+    "name_zh": "长白山机场"
    },
    {
     "name": "Orang (Chongjin) Airport",
@@ -88,7 +89,8 @@
     "lat": 41.428538,
     "lon": 129.647555,
     "type": "medium_airport",
-    "distance_km": 146.6
+    "distance_km": 146.6,
+    "name_zh": "清津机场"
    },
    {
     "name": "Yanji Chaoyangchuan Airport",
@@ -98,7 +100,8 @@
     "lat": 42.8828010559,
     "lon": 129.451004028,
     "type": "medium_airport",
-    "distance_km": 146.8
+    "distance_km": 146.8,
+    "name_zh": "延吉朝阳川机场"
    }
   ],
   "nearest_airport_km": 39.6,
@@ -194,12 +197,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/长白山天池"
+   "url": "https://zh.wikipedia.org/wiki/长白山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

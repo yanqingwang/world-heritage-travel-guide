@@ -10,7 +10,7 @@
  "city_zh": "佛山市",
  "city_en": "Foshan",
  "name_zh": "佛山市顺德区长鹿旅游休博园",
- "name_en": "Foshanshishundequzhanglulvyouxiuboyuan",
+ "name_en": "Foshanshishundequdiyizhongxue",
  "name_en_source": "pinyin",
  "slug": "foshanshishundequzhanglulvyouxiuboyuan-620",
  "lat": 22.884408,
@@ -24,48 +24,7 @@
  "intro_zh": "长鹿旅游休博园又名长鹿农庄，始建于2001年，现为全国农业旅游示范点。整个农庄主要由“尖叫乐园”“动感玩水区”“农家乐主题公园”“童话动物世界”和“长鹿休闲度假村”等五大块组成。",
  "intro_en": "Changlu Tourism and Leisure Expo Park, also known as Changlu Farm, was founded in 2001 and is now a national agricultural tourism demonstration site. The entire farm is mainly composed of five major parts: \"Screaming Paradise\", \"Dynamic Water Play Area\", \"Farmhouse Theme Park\", \"Fairy Tale Animal World\" and \"Changlu Leisure Resort\".",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ronggui_Skyline_%28cropped%29.jpg/1280px-Ronggui_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ronggui Skyline (cropped).jpg",
-   "author": "Caiguanhao",
-   "license": "CC BY-SA 4.0",
-   "credit": "Cropped from File:Ronggui Skyline.jpg",
-   "source": "https://commons.wikimedia.org/wiki/File:Ronggui_Skyline_(cropped).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cuisine_of_Guangdong_%28Museum_of_Shunde%29.jpg/1280px-Cuisine_of_Guangdong_%28Museum_of_Shunde%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Cuisine of Guangdong (Museum of Shunde).jpg",
-   "author": "Pauloleong2002",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Cuisine_of_Guangdong_(Museum_of_Shunde).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cuisine_of_Guangdong_%28Museum_of_Shunde%29_2.jpg/1280px-Cuisine_of_Guangdong_%28Museum_of_Shunde%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Cuisine of Guangdong (Museum of Shunde) 2.jpg",
-   "author": "Pauloleong2002",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Cuisine_of_Guangdong_(Museum_of_Shunde)_2.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/GD_Guangdong_Fushan_Shunde_highway_express_December_2024_R12S_01.jpg/1280px-GD_Guangdong_Fushan_Shunde_highway_express_December_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "GD Guangdong Fushan Shunde highway express December 2024 R12S 01.jpg",
-   "author": "KazHO Weneldmz PPYA",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:GD_Guangdong_Fushan_Shunde_highway_express_December_2024_R12S_01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%BD%9B%E5%B1%B1_Foshan_%E9%A0%86%E5%BE%B7_Shunde_town_1210pm_January_2024_R12S_01_blue_sign.jpg/1280px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%BD%9B%E5%B1%B1_Foshan_%E9%A0%86%E5%BE%B7_Shunde_town_1210pm_January_2024_R12S_01_blue_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "GD 廣東 Guangdong 佛山 Foshan 順德 Shunde town 1210pm January 2024 R12S 01 blue sign.jpg",
-   "author": "Lau Hau Yatyue Tiger",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:GD_廣東_Guangdong_佛山_Foshan_順德_Shunde_town_1210pm_January_2024_R12S_01_blue_sign.jpg"
-  }
- ],
+ "images": [],
  "web": "https://www.chuanloo.com/web/tpl/index.html",
  "booking": "https://www.chuanloo.com/web/tpl/index.html",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 23.0825,
     "lon": 113.070833,
     "type": "medium_airport",
-    "distance_km": 31.8
+    "distance_km": 31.8,
+    "name_zh": "佛山沙堤机场"
    },
    {
     "name": "Guangzhou Baiyun International Airport",
@@ -88,7 +48,8 @@
     "lat": 23.392401,
     "lon": 113.299004,
     "type": "large_airport",
-    "distance_km": 56.5
+    "distance_km": 56.5,
+    "name_zh": "广州白云国际机场"
    },
    {
     "name": "Shenzhen Bao'an International Airport",
@@ -98,7 +59,8 @@
     "lat": 22.639474,
     "lon": 113.803262,
     "type": "large_airport",
-    "distance_km": 58.8
+    "distance_km": 58.8,
+    "name_zh": "深圳宝安国际机场"
    }
   ],
   "nearest_airport_km": 31.8,
@@ -235,9 +197,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/佛山市顺德区第一中学"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

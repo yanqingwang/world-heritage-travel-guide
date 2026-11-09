@@ -24,48 +24,7 @@
  "intro_zh": "三河古镇，因有丰乐河、杭埠河、小南河三河流经而得名。历史悠久，文化灿烂，人杰地灵，物阜民丰，旅游以水乡古镇为特色，荟萃了丰富的人文观景，镇内五里长街，河环水绕，镇外河网纵横，圩堤交错，具有“外环两岸，中峙三州”的独特地貌。",
  "intro_en": "Hefei is the capital of Anhui province, China. A prefecture-level city, it is the political, economic, and cultural center of Anhui. Its population was 9,369,881 as of the 2020 census. Its built-up (or metro) area is made up of four urban districts plus Feidong, Feixi and Changfeng counties being urbanized, and was home to 7,754,481 inhabitants. Located in the central portion of the province, it borders Huainan to the north, Chuzhou to the northeast, Wuhu to the southeast, Tongling to the south, Anqing to the southwest and Lu'an to the west. A natural hub of communications, Hefei is situated to the north of Chao Lake and stands on a low saddle crossing the northeastern extension of the Dabie Mountains, which forms the divide between the Huai and Yangtze rivers. The present-day city dates from the Song dynasty. Before World War II, Hefei remained essentially an administrative centre and the regional market for the fertile plain to the south. It has gone through a growth in infrastructure in recent years. Hefei is the location of Experimental Advanced Superconducting Tokamak, an experimental superconducting tokamak magnetic fusion energy reactor. Hefei is a leading world city for sci",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Hefei_montage1.png/1280px-Hefei_montage1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Hefei montage1.png",
-   "author": "Virgil Guo",
-   "license": "CC BY-SA 4.0",
-   "credit": "All CC/PD sources:",
-   "source": "https://commons.wikimedia.org/wiki/File:Hefei_montage1.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/City_Construction_Museum_%28Hefei%29.jpg/1280px-City_Construction_Museum_%28Hefei%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "City Construction Museum (Hefei).jpg",
-   "author": "Zhou Guanhuai",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:City_Construction_Museum_(Hefei).jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hefei-location-MAP-in-Anhui-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Hefei-location-MAP-in-Anhui-Province-China.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Hefei-location-MAP-in-Anhui-Province-China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_of_Hefei_Television_in_1996.svg/1280px-Logo_of_Hefei_Television_in_1996.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Logo of Hefei Television in 1996.svg",
-   "author": "William Ng",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_Hefei_Television_in_1996.svg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Outside_of_Hefei_Xishan_Scenic_Spot.jpg/1280px-Outside_of_Hefei_Xishan_Scenic_Spot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Outside of Hefei Xishan Scenic Spot.jpg",
-   "author": "Perimeter Chou",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Outside_of_Hefei_Xishan_Scenic_Spot.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 31.98779,
     "lon": 116.9769,
     "type": "large_airport",
-    "distance_km": 58.3
+    "distance_km": 58.3,
+    "name_zh": "合肥新桥国际机场"
    },
    {
     "name": "Chizhou Jiuhuashan Airport",
@@ -88,7 +48,8 @@
     "lat": 30.7403,
     "lon": 117.6856,
     "type": "small_airport",
-    "distance_km": 95.9
+    "distance_km": 95.9,
+    "name_zh": "池州九华山机场"
    },
    {
     "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
@@ -98,7 +59,8 @@
     "lat": 30.582199,
     "lon": 117.050003,
     "type": "medium_airport",
-    "distance_km": 106.3
+    "distance_km": 106.3,
+    "name_zh": "安庆天柱山机场"
    }
   ],
   "nearest_airport_km": 58.3,
@@ -234,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

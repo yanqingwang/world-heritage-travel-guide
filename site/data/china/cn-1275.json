@@ -22,8 +22,8 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "天坛是明清两代皇帝“祭天”“祈谷”的场所。坛域北呈圆形，南为方形，寓意“天圆地方”，主要建筑有祈年殿、圜丘坛等。1998年，天坛公园被联合国教科文组织确认为世界文化遗产。",
- "intro_en": "The Temple of Heaven was the place where emperors of the Ming and Qing dynasties \"sacrifice to heaven\" and \"pray for grain\". The altar area is round in the north and square in the south, which means \"the sky is round and the place is round\". The main buildings include the Hall of Prayer for Good Harvests and the Circle Mound Altar. In 1998, the Temple of Heaven Park was recognized as a World Cultural Heritage by UNESCO.",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Temple of Heaven (simplified Chinese: 天坛; traditional Chinese: 天壇; pinyin: Tiāntán) is a complex of imperial religious Confucian buildings situated in the southeastern part of central Beijing. The complex was visited by the Emperors of the Ming and then later restored by the Qing dynasties for annual ceremonies of prayer to Heaven for a good harvest and other seasonal rites. The Temple of Heaven was inscribed as a World Heritage site in 1998 and was described as \"a masterpiece of architecture and landscape design which simply and graphically illustrates a cosmogony of great importance for the evolution of one of the world's great civilizations...\" as the \"symbolic layout and design of the Temple of Heaven had a profound influence on architecture and planning in the Far East over many centuries.\"",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Temple_of_Heaven_20160323_01.jpg/1280px-Temple_of_Heaven_20160323_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 40.077349,
     "lon": 116.596702,
     "type": "large_airport",
-    "distance_km": 25.7
+    "distance_km": 25.7,
+    "name_zh": "北京首都国际机场"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -88,7 +89,8 @@
     "lat": 39.501289,
     "lon": 116.413967,
     "type": "large_airport",
-    "distance_km": 42.7
+    "distance_km": 42.7,
+    "name_zh": "北京大兴国际机场"
    },
    {
     "name": "Tianjin Binhai International Airport",
@@ -98,7 +100,8 @@
     "lat": 39.124401092499994,
     "lon": 117.346000671,
     "type": "large_airport",
-    "distance_km": 115.5
+    "distance_km": 115.5,
+    "name_zh": "天津滨海国际机场"
    }
   ],
   "nearest_airport_km": 25.7,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

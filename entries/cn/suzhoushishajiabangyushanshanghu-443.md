@@ -2,7 +2,7 @@
 id: "cn-443"
 dataset: "china_5a"
 name_zh: "苏州市沙家浜-虞山尚湖旅游区"
-name_en: "Suzhoushishajiabang-yushanshanghu Tourist Area"
+name_en: "Yushanlinchang Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.67434
 lon: 120.732699
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 苏州市沙家浜-虞山尚湖旅游区 / Suzhoushishajiabang-yushanshanghu Tourist Area
+# 苏州市沙家浜-虞山尚湖旅游区 / Yushanlinchang Tourist Area
 
 > 江苏省 · 苏州市 · 红色旅游
-
-## 图片 / Images
-
-![东方之门1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg/1280px-%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*东方之门1.jpg · 铁头娃蛤蛤 · CC BY-SA 4.0*
-
-![Autumn 1980 in Suzhou 01.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d3/Autumn_1980_in_Suzhou_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Autumn 1980 in Suzhou 01.jpg · Szilas · CC0*
-
-![Jinji Lake Suzhou November 2017 001.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Jinji_Lake_Suzhou_November_2017_001.jpg/1280px-Jinji_Lake_Suzhou_November_2017_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinji Lake Suzhou November 2017 001.jpg · King of Hearts · CC BY-SA 4.0*
-
-![Jinji Lake Suzhou November 2017 002.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Jinji_Lake_Suzhou_November_2017_002.jpg/1280px-Jinji_Lake_Suzhou_November_2017_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinji Lake Suzhou November 2017 002.jpg · King of Hearts · CC BY-SA 4.0*
-
-![Lingering Garden, Suzhou, China (2015) - 41.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_41.jpg/1280px-Lingering_Garden%2C_Suzhou%2C_China_%282015%29_-_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lingering Garden, Suzhou, China (2015) - 41.jpg · Another Believer · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -83,4 +61,5 @@ Yushan is a national forest park and an important birthplace of Wu culture in Ch
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/虞山林场)
 - [OpenStreetMap](https://www.openstreetmap.org/)

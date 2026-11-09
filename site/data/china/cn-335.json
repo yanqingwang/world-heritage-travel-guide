@@ -10,8 +10,8 @@
  "city_zh": "喀什地区",
  "city_en": "Kashgar Prefecture",
  "name_zh": "喀什地区喀什古城景区",
- "name_en": "Kashgar Prefecture",
- "name_en_source": "wikipedia",
+ "name_en": "Kashizhan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "kashidiqukashigucheng-335",
  "lat": 39.483206,
  "lon": 76.001757,
@@ -22,48 +22,16 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "喀什噶尔老城景区，面积4.25平方公里，约有居民12.68万人。老城区街巷纵横交错，布局灵活多变，曲径通幽，民居大多为土木、砖木结构，不少传统民居已有上百年的历史，是以伊斯兰文化为特色的迷宫式城市街区。",
- "intro_en": "Kashgar Prefecture, also known as Kashi Prefecture, is a prefecture in southwestern Xinjiang, China, in the Tarim Basin region (roughly the southern half of Xinjiang). It has an area of 112,057 km2 (43,265 sq mi) and 4,496,377 inhabitants at the 2020 census with a population density of 35.5 inhabitants/km2. The capital of the prefecture is the city of Kashgar which has a population 506,640. Kashgar Prefecture borders the Gorno-Badakhshan Autonomous Region of Tajikistan, Badakhshan Province of Afghanistan, Gilgit-Baltistan of Pakistan, and Ladakh of India in the far south.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Kashgar Old City Scenic Area covers an area of ​​4.25 square kilometers and has approximately 126,800 residents. The streets and alleys in the old city are criss-crossed, with flexible layouts and winding paths. Most of the residences are made of earth, wood, brick and wood structures. Many traditional residences have a history of hundreds of years. It is a labyrinth-like urban block characterized by Islamic culture.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Shi_Tou_Cheng.JPG/1280px-Shi_Tou_Cheng.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Shi Tou Cheng.JPG",
-   "author": "Acstar",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kashgar_Railway_Station.jpg/1280px-Kashgar_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Kashgar Railway Station.jpg",
+   "author": "xue siyang (df45086)",
    "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Shi_Tou_Cheng.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Administrative_commission_of_Qeshqer_Prefecture_%2820230923191204%29.jpg/1280px-Administrative_commission_of_Qeshqer_Prefecture_%2820230923191204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Administrative commission of Qeshqer Prefecture (20230923191204).jpg",
-   "author": "N509FZ",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Administrative_commission_of_Qeshqer_Prefecture_(20230923191204).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Administrative_commission_of_Qeshqer_Prefecture_%2820230923191355%29.jpg/1280px-Administrative_commission_of_Qeshqer_Prefecture_%2820230923191355%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Administrative commission of Qeshqer Prefecture (20230923191355).jpg",
-   "author": "N509FZ",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Administrative_commission_of_Qeshqer_Prefecture_(20230923191355).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Location_of_Tashkurgan%2C_Koghushluk%2C_Tor%2C_Teeng_within_the_Kashgar_prefecture.png/1280px-Location_of_Tashkurgan%2C_Koghushluk%2C_Tor%2C_Teeng_within_the_Kashgar_prefecture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Location of Tashkurgan, Koghushluk, Tor, Teeng within the Kashgar prefecture.png",
-   "author": "Chk2011",
-   "license": "CC BY-SA 4.0",
-   "credit": "a derivative work from",
-   "source": "https://commons.wikimedia.org/wiki/File:Location_of_Tashkurgan,_Koghushluk,_Tor,_Teeng_within_the_Kashgar_prefecture.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/PIA21189_-_Kashgar%2C_China.jpg/1280px-PIA21189_-_Kashgar%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "PIA21189 - Kashgar, China.jpg",
-   "author": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
-   "license": "Public domain",
-   "credit": "This image or video was catalogued by Jet Propulsion Laboratory of the United States National Aeronautics and Space Administration (NASA) under Photo ID: PIA211",
-   "source": "https://commons.wikimedia.org/wiki/File:PIA21189_-_Kashgar,_China.jpg"
+   "credit": "https://www.panoramio.com/photo/103261533",
+   "source": "https://commons.wikimedia.org/wiki/File:Kashgar_Railway_Station.jpg"
   }
  ],
  "web": "",
@@ -78,7 +46,8 @@
     "lat": 39.542273,
     "lon": 76.02023,
     "type": "large_airport",
-    "distance_km": 6.8
+    "distance_km": 6.8,
+    "name_zh": "喀什徕宁国际机场"
    },
    {
     "name": "Shache Airport",
@@ -88,7 +57,8 @@
     "lat": 38.24542,
     "lon": 77.056149,
     "type": "medium_airport",
-    "distance_km": 165.2
+    "distance_km": 165.2,
+    "name_zh": "莎车机场"
    },
    {
     "name": "Tashikuergan Hongqilafu Airport",
@@ -98,7 +68,8 @@
     "lat": 37.661333,
     "lon": 75.288877,
     "type": "medium_airport",
-    "distance_km": 211.8
+    "distance_km": 211.8,
+    "name_zh": "塔什库尔干红其拉甫机场"
    }
   ],
   "nearest_airport_km": 6.8,
@@ -193,11 +164,10 @@
  "hotels_nearby_30km": 20,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +186,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -227,12 +197,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/喀什地区"
+   "url": "https://zh.wikipedia.org/wiki/喀什站"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

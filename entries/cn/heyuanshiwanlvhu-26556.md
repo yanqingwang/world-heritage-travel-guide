@@ -2,7 +2,7 @@
 id: "cn-26556"
 dataset: "china_5a"
 name_zh: "河源市万绿湖风景区"
-name_en: "Wanlvhu Scenic Area"
+name_en: "Xinfengjiang Reservoir"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Heyuan City"
 lat: 23.823781
 lon: 114.531722
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 河源市万绿湖风景区 / Wanlvhu Scenic Area
+# 河源市万绿湖风景区 / Xinfengjiang Reservoir
 
 > 广东省 · 河源市 · 自然风光
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Wanlv Lake Scenic Area is located in Dongyuan County, Heyuan City, Guangdong Province, 200 kilometers away from Guangzhou and 180 kilometers away from Shenzhen. It is the back garden of the Guangdong-Hong Kong-Macao Greater Bay Area. It is named because it is green everywhere and is green all year round. The water quality of Wanlu Lake maintains the national first-class surface water standard all year round. It has a water area of ​​370 square kilometers, a water storage capacity of approximately 13.9 billion cubic meters, and more than 360 green islands. Wanlv Lake has been developing tourism since 1995. The currently developed attractions include Wanlv Lake, Shuiyue Bay, Longfeng Island, Jinghuayuan, Hakka Customs Museum and Wanlu Valley, covering a total area of ​​11.5 square kilometers.
-
-*English introduction: machine translation.*
+Xinfengjiang Reservoir (simplified Chinese: 新丰江水库; traditional Chinese: 新豐江水庫; Jyutping: san1 fung1 gong1 seoi2 fu3) or Wanlü Lake (万绿湖; 萬綠湖; maan6 luk6 wu4) is a man-made lake located in Heyuan, Guangdong, China, formed since the damming of the Xinfeng River (a tributary of Dong River) by the Xinfengjiang Dam. The dam is about 6 km away from the downtown of Heyuan and 170 km away from Guangzhou. It is the largest lake in Guangdong covering an area of 370 km2 and it has a storage capacity of 13.98 km3. Xinfengjiang Reservoir is known for its clear and almost drinkable water, such as that used to produce the renowned Nongfu Spring brand of mineral water (Generally, it is provided South China). Otherwise, the lake, which is famous for the name of "Wanlü Lake" (evergreen in Chinese), is an important tourist attraction of Guangdong.
 
 ## 交通 / Transport
 
@@ -75,7 +73,7 @@ Wanlv Lake Scenic Area is located in Dongyuan County, Heyuan City, Guangdong Pro
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 

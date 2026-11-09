@@ -46,7 +46,8 @@
     "lat": 30.29281,
     "lon": 112.44854,
     "type": "medium_airport",
-    "distance_km": 104.2
+    "distance_km": 104.2,
+    "name_zh": "荆州沙市机场"
    },
    {
     "name": "Xiangyang Liuji Airport",
@@ -56,7 +57,8 @@
     "lat": 32.152222,
     "lon": 112.291666,
     "type": "medium_airport",
-    "distance_km": 109.4
+    "distance_km": 109.4,
+    "name_zh": "襄阳刘集机场"
    },
    {
     "name": "Yichang Sanxia Airport",
@@ -66,7 +68,8 @@
     "lat": 30.554132,
     "lon": 111.482563,
     "type": "medium_airport",
-    "distance_km": 133.0
+    "distance_km": 133.0,
+    "name_zh": "宜昌三峡机场"
    }
   ],
   "nearest_airport_km": 104.2,
@@ -158,5 +161,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

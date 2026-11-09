@@ -10,8 +10,8 @@
  "city_zh": "宜昌市",
  "city_en": "Yichang",
  "name_zh": "宜昌市三峡大坝-屈原故里文化旅游区",
- "name_en": "Three Gorges Dam",
- "name_en_source": "wikipedia",
+ "name_en": "Sanxiadapubu Cultural Tourism Area",
+ "name_en_source": "pinyin",
  "slug": "yichangshisanxiadabaquyuanguli-314",
  "lat": 30.832278,
  "lon": 110.994721,
@@ -22,50 +22,9 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "景区包含三峡大坝和屈原故里两个旅游区。三峡大坝，是当今世界大的水利发电工程——三峡水电站的主体工程、三峡大坝旅游区的核心景观；屈原故里是以屈原祠、屈原衣冠冢为主要内容的屈原文化旅游园区；同时，旅游区也是巫术表演、船工号子为主要内容的非物质文化展示园区。",
- "intro_en": "The Three Gorges Dam, officially known as Yangtze River Three Gorges Water Conservancy Project is a hydroelectric gravity dam that spans the Yangtze River near Sandouping in Yiling District, Yichang, Hubei province, central China, downstream of the Three Gorges. It is also the world's largest power station by installed capacity (22,500 MW); it generates 95±20 TWh of electricity per year on average, depending on the amount of precipitation in the river basin. After the monsoons of 2020, the dam produced nearly 112 TWh in a year, breaking the record of 103 TWh set by the Itaipu Dam in 2016. The dam's body, 185 meters high and 2,309 meters wide, was completed in 2006. The power plant became fully operational in 2012, when the last of the 32 main water turbines in the underground plant began production. The last major component of the project, the ship lift, was completed in 2015. Each of the 32 turbines, considered state-of-the-art at the time of their installation, can generate 700 MW. Combined with two 50 MW generators that power the plant itself, the Three Gorges Dam can generate some 22,500 MW—far more than the next-biggest hydroelectric plant, the 16,000 MW Baihetan Dam, also in ",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yichang_skyline_5.jpg/1280px-Yichang_skyline_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang skyline 5.jpg",
-   "author": "Fxqf",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_5.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wufeng%2C_Yichang%2C_Hubei%2C_China_-_panoramio_%28115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Wufeng, Yichang, Hubei, China - panoramio (115).jpg",
-   "author": "王界",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161021011609/http://www.panoramio.com/photo/54879274",
-   "source": "https://commons.wikimedia.org/wiki/File:Wufeng,_Yichang,_Hubei,_China_-_panoramio_(115).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Yichang_script.svg/1280px-Yichang_script.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang script.svg",
-   "author": "Alan Fan Pei",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_script.svg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Yichang_skyline_6.jpg/1280px-Yichang_skyline_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang skyline 6.jpg",
-   "author": "Fxqf",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_6.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yichang_skyline_7.jpg/1280px-Yichang_skyline_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang skyline 7.jpg",
-   "author": "Fxqf",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_7.jpg"
-  }
- ],
+ "intro_en": "The scenic area includes two tourist areas: the Three Gorges Dam and Qu Yuan's hometown. The Three Gorges Dam is the main project of the Three Gorges Hydropower Station, the world's largest hydropower project, and the core landscape of the Three Gorges Dam tourist area; Qu Yuan's hometown is the Qu Yuan Cultural Tourism Park with Qu Yuan Temple and Qu Yuan's Tomb as its main contents; at the same time, the tourist area is also an intangible cultural display park with witchcraft performances and boatman's chants as its main contents.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 30.554132,
     "lon": 111.482563,
     "type": "medium_airport",
-    "distance_km": 56.0
+    "distance_km": 56.0,
+    "name_zh": "宜昌三峡机场"
    },
    {
     "name": "Shennongjia Hongping Airport",
@@ -88,7 +48,8 @@
     "lat": 31.626,
     "lon": 110.34,
     "type": "medium_airport",
-    "distance_km": 108.0
+    "distance_km": 108.0,
+    "name_zh": "神农架红坪机场"
    },
    {
     "name": "Chongqing Wushan Airport",
@@ -98,7 +59,8 @@
     "lat": 31.06896,
     "lon": 109.708958,
     "type": "small_airport",
-    "distance_km": 125.4
+    "distance_km": 125.4,
+    "name_zh": "巫山神女峰机场"
    }
   ],
   "nearest_airport_km": 56.0,
@@ -193,9 +155,9 @@
  "hotels_nearby_30km": 5,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -216,7 +178,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -227,12 +189,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/长江三峡水利枢纽工程"
+   "url": "https://zh.wikipedia.org/wiki/三峡大瀑布"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

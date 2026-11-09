@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Weifang"
 lat: 36.679155
 lon: 118.486971
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 潍坊市青州古城景区 / Qingzhougucheng Scenic Area

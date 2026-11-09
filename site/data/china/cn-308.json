@@ -10,7 +10,7 @@
  "city_zh": "宜昌市",
  "city_en": "Yichang",
  "name_zh": "宜昌市三峡人家风景区",
- "name_en": "Yichang",
+ "name_en": "Three Gorges Dam",
  "name_en_source": "wikipedia",
  "slug": "yichangshisanxiarenjia-308",
  "lat": 30.80415,
@@ -22,50 +22,9 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "三峡人家，依山傍水，风情如画。传统的三峡吊脚楼点缀于山水之间，久违的古帆船、乌篷船安静地泊在三峡人家门前，溪边少女挥着棒槌在清洗衣服，江面上悠然的渔家在撒网打鱼，千百年流传的生活习俗孕育了峡江人民独特的风土人情。",
- "intro_en": "Yichang (Chinese: 宜昌), alternatively romanized as Ichang, is a prefecture-level city located in western Hubei province, China. Yichang had a population of 3.92 million people at the 2022 census, making it the third most populous city in Hubei. The city is famous for the Three Gorges, the Three Gorges Dam and the Gezhouba Dam, all three of which are located in Yiling District, one of the city's districts.",
+ "intro_en": "The Three Gorges Dam, officially known as Yangtze River Three Gorges Water Conservancy Project is a hydroelectric gravity dam that spans the Yangtze River near Sandouping in Yiling District, Yichang, Hubei province, central China, downstream of the Three Gorges. It is also the world's largest power station by installed capacity (22,500 MW); it generates 95±20 TWh of electricity per year on average, depending on the amount of precipitation in the river basin. After the monsoons of 2020, the dam produced nearly 112 TWh in a year, breaking the record of 103 TWh set by the Itaipu Dam in 2016. The dam's body, 185 meters high and 2,309 meters wide, was completed in 2006. The power plant became fully operational in 2012, when the last of the 32 main water turbines in the underground plant began production. The last major component of the project, the ship lift, was completed in 2015. Each of the 32 turbines, considered state-of-the-art at the time of their installation, can generate 700 MW. Combined with two 50 MW generators that power the plant itself, the Three Gorges Dam can generate some 22,500 MW—far more than the next-biggest hydroelectric plant, the 16,000 MW Baihetan Dam, also in ",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yichang_skyline_5.jpg/1280px-Yichang_skyline_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang skyline 5.jpg",
-   "author": "Fxqf",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_5.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wufeng%2C_Yichang%2C_Hubei%2C_China_-_panoramio_%28115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Wufeng, Yichang, Hubei, China - panoramio (115).jpg",
-   "author": "王界",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161021011609/http://www.panoramio.com/photo/54879274",
-   "source": "https://commons.wikimedia.org/wiki/File:Wufeng,_Yichang,_Hubei,_China_-_panoramio_(115).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Yichang_script.svg/1280px-Yichang_script.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang script.svg",
-   "author": "Alan Fan Pei",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_script.svg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Yichang_skyline_6.jpg/1280px-Yichang_skyline_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang skyline 6.jpg",
-   "author": "Fxqf",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_6.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yichang_skyline_7.jpg/1280px-Yichang_skyline_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichang skyline 7.jpg",
-   "author": "Fxqf",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichang_skyline_7.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.sanxiarenjia.com/",
  "booking": "http://www.sanxiarenjia.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 30.554132,
     "lon": 111.482563,
     "type": "medium_airport",
-    "distance_km": 40.8
+    "distance_km": 40.8,
+    "name_zh": "宜昌三峡机场"
    },
    {
     "name": "Shennongjia Hongping Airport",
@@ -88,7 +48,8 @@
     "lat": 31.626,
     "lon": 110.34,
     "type": "medium_airport",
-    "distance_km": 120.7
+    "distance_km": 120.7,
+    "name_zh": "神农架红坪机场"
    },
    {
     "name": "Jingzhou Shashi Airport",
@@ -98,7 +59,8 @@
     "lat": 30.29281,
     "lon": 112.44854,
     "type": "medium_airport",
-    "distance_km": 135.0
+    "distance_km": 135.0,
+    "name_zh": "荆州沙市机场"
    }
   ],
   "nearest_airport_km": 40.8,
@@ -237,12 +199,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/宜昌市"
+   "url": "https://zh.wikipedia.org/wiki/长江三峡水利枢纽工程"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

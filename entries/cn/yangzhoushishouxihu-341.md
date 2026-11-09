@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Yangzhou"
 lat: 32.408155
 lon: 119.432817
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 扬州市瘦西湖风景区 / Slender West Lake
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-The Slender West Lake Scenic Area is an important part of the Grand Canal, a world cultural heritage, and the core and essence of the national scenic area Shugang-Slender West Lake Scenic Area. The graceful and winding lake is surrounded by famous gardens and scenic spots such as Xu Garden, Xiaojin Mountain, Wuting Bridge, White Tower, Twenty-four Bridges, Wanhua Garden, Shuangfeng Cloud Stack, etc. It has a unique charm and is famous at home and abroad.
-
-*English introduction: machine translation.*
+Slender West Lake, also known by its Chinese name Shouxihu and by other names, is a scenic lake in Hanjiang District in central Yangzhou, China. The lake developed from the city moats of Tang-era Yangzhou. During the Qing dynasty, its banks were the site of numerous estates for the area's wealthy officials and salt merchants. The lake and some of its attractions have been restored as a national park and AAAAA tourist attraction, requiring a ticket for admission and open only from 7 am to 6 pm.
 
 ## 交通 / Transport
 

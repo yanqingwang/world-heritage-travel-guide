@@ -2,7 +2,7 @@
 id: "cn-1422"
 dataset: "china_5a"
 name_zh: "烟台市南山景区"
-name_en: "Yantai"
+name_en: "南山"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Shandong"
 city_en: "Yantai"
 lat: 37.567253
 lon: 120.485953
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 烟台市南山景区 / Yantai
+# 烟台市南山景区 / 南山
 
 > 山东省 · 烟台市 · 度假休闲
-
-## 图片 / Images
-
-![Yantai2017.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yantai2017.jpg/1280px-Yantai2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yantai2017.jpg · HaoLinFotos · CC BY-SA 4.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![Chefoo from the east.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8d/Chefoo_from_the_east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Chefoo from the east.jpg · 园区资料 · Public domain*
-
-![Chefoo from the south.jpg](https://upload.wikimedia.org/wikipedia/commons/d/de/Chefoo_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Chefoo from the south.jpg · 园区资料 · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Yantai, formerly Chefoo, is a coastal prefecture-level city on the Shandong Peninsula in China. Lying on the southern coast of the Bohai Strait, Yantai borders Qingdao on the southwest and Weihai on the east, with sea access to both the Bohai Sea (via the Laizhou Bay and the Bohai Strait) and the Yellow Sea (from both north and south sides of the Shandong Peninsula). It is the largest fishing seaport in Shandong. Its population was 7,102,116 during the 2020 census, of whom 3,184,299 lived in the built-up area made up of the 5 urban districts of Zhifu, Laishan, Fushan, Muping, and Penglai.
+南山, literally "south mountain(s)", may refer to: Nanshan (disambiguation) (pinyin: Nánshān) for Chinese places Nanzan (disambiguation) for Japanese places Namsan (disambiguation) for Korean places Minamiyama, a Japanese surname
 
 ## 交通 / Transport
 
@@ -72,10 +50,10 @@ Yantai, formerly Chefoo, is a coastal prefecture-level city on the Shandong Peni
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/烟台市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/南山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

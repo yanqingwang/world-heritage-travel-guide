@@ -10,7 +10,7 @@
  "city_zh": "郴州市",
  "city_en": "Chenzhou City",
  "name_zh": "郴州市东江湖旅游区",
- "name_en": "Chenzhou",
+ "name_en": "Jianghu",
  "name_en_source": "wikipedia",
  "slug": "chenzhoushidongjianghu-1135",
  "lat": 25.871959,
@@ -22,50 +22,9 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "东江湖旅游区纯净浩瀚，其水质达到了国家一级饮用水标准。主要景观有雾漫小东江、东江大坝、龙景峡谷、兜率灵岩、东江漂流、三湘四水-东江湖文化旅游街。",
- "intro_en": "Chenzhou (Chinese: 郴州; pinyin: Chēnzhōu) is a prefecture-level city located in the south of Hunan province, China, bordering the provinces of Jiangxi to the east and Guangdong to the south. Its administrative area covers 19,317 square kilometres (7,458 sq mi), 9.2% of the provincial area, and its total population reached 4,581,779 in the 2010 census, 26% of them living in urban areas, 74% of them living in rural areas.",
+ "intro_en": "Jianghu (Chinese: 江湖; pinyin: jiānghú; Jyutping: gong1wu4; lit. 'rivers and lakes') is a Chinese term that generally refers to the social environment in which many Chinese wuxia, xianxia, and gong'an stories are set. The term is used flexibly, and can be used to describe a fictionalized version of imperial China (usually using loose influences from across the 221 BC – 1912 AD period of time); a setting of feuding martial arts clans and the people of that community; a secret and possibly criminal underworld; a general sense of the \"mythic world\" where fantastical stories happen; or some combination thereof. A closely related term, wǔlín (武林; 'martial forest'), refers exclusively to the community of martial artists that inhabit a jianghu setting. The terms jianghu and wulin have been borrowed into Korean as gangho (강호) and murim (무림) to refer to fiction set in Chinese-inspired martial arts worlds.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E9%B9%8A%E4%BB%99%E6%A1%A5_20240125.jpg/1280px-%E9%B9%8A%E4%BB%99%E6%A1%A5_20240125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "鹊仙桥 20240125.jpg",
-   "author": "Uuongkinghe",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:鹊仙桥_20240125.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Chenzhou_%28May_7%2C_2025%29_%281%29.jpg/1280px-Chenzhou_%28May_7%2C_2025%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Chenzhou (May 7, 2025) (1).jpg",
-   "author": "茅野ふたば",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Chenzhou_(May_7,_2025)_(1).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Chenzhou_%28May_7%2C_2025%29_%282%29.jpg/1280px-Chenzhou_%28May_7%2C_2025%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Chenzhou (May 7, 2025) (2).jpg",
-   "author": "茅野ふたば",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Chenzhou_(May_7,_2025)_(2).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Chenzhou_%28May_7%2C_2025%29_%283%29.jpg/1280px-Chenzhou_%28May_7%2C_2025%29_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Chenzhou (May 7, 2025) (3).jpg",
-   "author": "茅野ふたば",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Chenzhou_(May_7,_2025)_(3).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/South_Guoqing_Road_Chenzhou.JPG/1280px-South_Guoqing_Road_Chenzhou.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "South Guoqing Road Chenzhou.JPG",
-   "author": "圍棋一級",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:South_Guoqing_Road_Chenzhou.JPG"
-  }
- ],
+ "images": [],
  "web": "https://www.dongjianghu.com/",
  "booking": "https://www.dongjianghu.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 25.753419,
     "lon": 112.845404,
     "type": "medium_airport",
-    "distance_km": 49.1
+    "distance_km": 49.1,
+    "name_zh": "郴州北湖机场"
    },
    {
     "name": "Shaoguan Danxia Airport",
@@ -88,7 +48,8 @@
     "lat": 24.9786,
     "lon": 113.420998,
     "type": "medium_airport",
-    "distance_km": 99.9
+    "distance_km": 99.9,
+    "name_zh": "韶关丹霞机场"
    },
    {
     "name": "Hengyang Nanyue Airport",
@@ -98,7 +59,8 @@
     "lat": 26.72208,
     "lon": 112.617958,
     "type": "medium_airport",
-    "distance_km": 117.5
+    "distance_km": 117.5,
+    "name_zh": "衡阳南岳机场"
    }
   ],
   "nearest_airport_km": 49.1,
@@ -195,7 +157,7 @@
   "zh": true,
   "en": true,
   "ja": true,
-  "ko": true,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -227,12 +189,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/郴州市"
+   "url": "https://zh.wikipedia.org/wiki/江湖"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

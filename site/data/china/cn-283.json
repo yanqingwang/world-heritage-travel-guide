@@ -78,7 +78,8 @@
     "lat": 27.7936,
     "lon": 99.6772,
     "type": "medium_airport",
-    "distance_km": 96.0
+    "distance_km": 96.0,
+    "name_zh": "迪庆香格里拉机场"
    },
    {
     "name": "Daocheng Yading Airport",
@@ -88,7 +89,8 @@
     "lat": 29.31632,
     "lon": 100.060317,
     "type": "medium_airport",
-    "distance_km": 97.3
+    "distance_km": 97.3,
+    "name_zh": "稻城亚丁机场"
    },
    {
     "name": "Ninglang Luguhu Airport",
@@ -98,7 +100,8 @@
     "lat": 27.5403,
     "lon": 100.7593,
     "type": "medium_airport",
-    "distance_km": 112.5
+    "distance_km": 112.5,
+    "name_zh": "宁蒗泸沽湖机场"
    }
   ],
   "nearest_airport_km": 96.0,
@@ -206,5 +209,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

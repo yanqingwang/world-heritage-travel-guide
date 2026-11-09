@@ -10,8 +10,8 @@
  "city_zh": "梅州市",
  "city_en": "Meizhou",
  "name_zh": "梅州市梅县区雁南飞茶田景区",
- "name_en": "Meizhou",
- "name_en_source": "wikipedia",
+ "name_en": "Meizhoushimeixianquyannanfeichatian Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "meizhoushimeixianquyannanfeichatian-674",
  "lat": 24.388232,
  "lon": 116.381966,
@@ -22,50 +22,9 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "景区以丘陵地貌为主，主要景点和设施有果园、山水瀑布、茶田、望茶亭、茶情阁、茶艺馆、茶花大观园、美食街、生态谷、人工湖、游客中心、会议中心、围龙食府、山庄别墅等，彰显出博大精深的茶文化和客家文化主题。",
- "intro_en": "Meizhou (Chinese: 梅州, Hakka Chinese: Mòichû) is a prefecture-level city in eastern Guangdong province, China. It has an area of 15,864.51 km2 (6,125.32 sq mi), and a population of 3,873,239 as of the 2020 census. It comprises Meijiang District, Meixian District, Xingning City and five counties. Its built-up or metro area made up of two urban districts was home to 992,351 inhabitants.",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD_-_panoramio_%281%29.jpg/1280px-%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "人民公园 - panoramio (1).jpg",
-   "author": "8168UFO",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161018022027/http://www.panoramio.com/photo/45003213",
-   "source": "https://commons.wikimedia.org/wiki/File:人民公园_-_panoramio_(1).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/NLC403-312001082774-160568_%E9%BE%8D%E6%B4%A5%E7%B8%A3%E8%AA%8C_1960_%E5%8D%B7%E4%BA%8C.pdf/page1-960px-NLC403-312001082774-160568_%E9%BE%8D%E6%B4%A5%E7%B8%A3%E8%AA%8C_1960_%E5%8D%B7%E4%BA%8C.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "NLC403-312001082774-160568 龍津縣誌 1960 卷二.pdf",
-   "author": "李文雄",
-   "license": "Public domain",
-   "credit": "National Library of China",
-   "source": "https://commons.wikimedia.org/wiki/File:NLC403-312001082774-160568_龍津縣誌_1960_卷二.pdf"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2000-01-15_Meizhou_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "2000-01-15 Meizhou Street.jpg",
-   "author": "Petes42 at English Wikipedia",
-   "license": "CC BY 2.5",
-   "credit": "Transferred from en.wikipedia to Commons.",
-   "source": "https://commons.wikimedia.org/wiki/File:2000-01-15_Meizhou_Street.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Hakka_Houses%2C_Meizhou_2006.JPG/1280px-Hakka_Houses%2C_Meizhou_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Hakka Houses, Meizhou 2006.JPG",
-   "author": "Shi Annan",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Hakka_Houses,_Meizhou_2006.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Meizhou%2C_Guangdong%2C_China_2006.JPG/1280px-Meizhou%2C_Guangdong%2C_China_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Meizhou, Guangdong, China 2006.JPG",
-   "author": "Shi Annan",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Meizhou,_Guangdong,_China_2006.JPG"
-  }
- ],
+ "intro_en": "The scenic area is dominated by hilly landforms. The main attractions and facilities include orchards, landscape waterfalls, tea fields, tea pavilions, tea pavilions, tea houses, camellia grand view gardens, food streets, ecological valleys, artificial lakes, visitor centers, conference centers, Weilong Restaurant, mountain villas, etc., highlighting the profound tea culture and Hakka cultural themes.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "http://www.yearning.cn/",
  "booking": "http://www.yearning.cn/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 24.263425,
     "lon": 116.097857,
     "type": "small_airport",
-    "distance_km": 32.0
+    "distance_km": 32.0,
+    "name_zh": "梅州梅县机场"
    },
    {
     "name": "Jieyang Chaoshan International Airport",
@@ -88,7 +48,8 @@
     "lat": 23.552,
     "lon": 116.5033,
     "type": "large_airport",
-    "distance_km": 93.8
+    "distance_km": 93.8,
+    "name_zh": "揭阳潮汕国际机场"
    },
    {
     "name": "Liancheng Guanzhishan Airport",
@@ -98,7 +59,8 @@
     "lat": 25.67592,
     "lon": 116.745907,
     "type": "medium_airport",
-    "distance_km": 147.8
+    "distance_km": 147.8,
+    "name_zh": "龙岩冠豸山机场"
    }
   ],
   "nearest_airport_km": 32.0,
@@ -194,10 +156,9 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -226,13 +187,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/梅州市"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -24,48 +24,7 @@
  "intro_zh": "庐山风景名胜区是世界文化遗产、世界地质公园、国家重点风景名胜区、全国重点文物保护单位，也是避暑疗养胜地。庐山以雄、奇、险、秀闻名，素有“匡庐奇秀甲天下”之美誉。",
  "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lushan_City_seen_from_Xiufeng.jpg/1280px-Lushan_City_seen_from_Xiufeng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Lushan City seen from Xiufeng.jpg",
-   "author": "钉钉",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Lushan_City_seen_from_Xiufeng.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "第六批江西省文物保护单位名单.pdf",
-   "author": "江西省人民政府",
-   "license": "Public domain",
-   "credit": "[1] （来自 [2] ，另见 [3] ）",
-   "source": "https://commons.wikimedia.org/wiki/File:第六批江西省文物保护单位名单.pdf"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/CN_Lushan_0806_%2816%29_%2817026182788%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "CN Lushan 0806 (16) (17026182788).jpg",
-   "author": "Diego Tirira from Quito, Ecuador",
-   "license": "CC BY-SA 2.0",
-   "credit": "CN Lushan 0806 (16)",
-   "source": "https://commons.wikimedia.org/wiki/File:CN_Lushan_0806_(16)_(17026182788).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Lushan_Funicular_Car_1.jpg/1280px-Lushan_Funicular_Car_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Lushan Funicular Car 1.jpg",
-   "author": "Gorden 2211",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Lushan_Funicular_Car_1.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Men_in_ancient_costume_in_Lushan%2C_Jiangxi_Province.jpg/1280px-Men_in_ancient_costume_in_Lushan%2C_Jiangxi_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Men in ancient costume in Lushan, Jiangxi Province.jpg",
-   "author": "WANGYIFAN2024",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Men_in_ancient_costume_in_Lushan,_Jiangxi_Province.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 29.476944,
     "lon": 115.801111,
     "type": "small_airport",
-    "distance_km": 21.5
+    "distance_km": 21.5,
+    "name_zh": "九江庐山机场"
    },
    {
     "name": "Nanchang Changbei International Airport",
@@ -88,7 +48,8 @@
     "lat": 28.864815,
     "lon": 115.90271,
     "type": "large_airport",
-    "distance_km": 78.1
+    "distance_km": 78.1,
+    "name_zh": "南昌昌北国际机场"
    },
    {
     "name": "Jingdezhen Luojia Airport",
@@ -98,7 +59,8 @@
     "lat": 29.3386,
     "lon": 117.176003,
     "type": "medium_airport",
-    "distance_km": 116.4
+    "distance_km": 116.4,
+    "name_zh": "景德镇罗家机场"
    }
   ],
   "nearest_airport_km": 21.5,
@@ -234,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

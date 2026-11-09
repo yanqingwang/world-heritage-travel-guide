@@ -46,7 +46,8 @@
     "lat": 27.267066,
     "lon": 105.472097,
     "type": "medium_airport",
-    "distance_km": 45.9
+    "distance_km": 45.9,
+    "name_zh": "毕节飞雄机场"
    },
    {
     "name": "Zunyi Maotai Airport",
@@ -56,7 +57,8 @@
     "lat": 27.961837,
     "lon": 106.435416,
     "type": "medium_airport",
-    "distance_km": 97.2
+    "distance_km": 97.2,
+    "name_zh": "仁怀茅台机场"
    },
    {
     "name": "Anshun Huangguoshu Airport",
@@ -66,7 +68,8 @@
     "lat": 26.260556,
     "lon": 105.873333,
     "type": "medium_airport",
-    "distance_km": 105.7
+    "distance_km": 105.7,
+    "name_zh": "黄果树机场"
    }
   ],
   "nearest_airport_km": 45.9,
@@ -201,5 +204,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

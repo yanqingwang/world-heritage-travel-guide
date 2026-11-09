@@ -2,7 +2,7 @@
 id: "cn-1218"
 dataset: "china_5a"
 name_zh: "北京奥林匹克公园"
-name_en: "Aolinpike Gongyuan (Olympic Park) station"
+name_en: "Olympic Green"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Beijing"
 city_en: "Zhaoyang District"
 lat: 39.999245
 lon: 116.399206
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 北京奥林匹克公园 / Aolinpike Gongyuan (Olympic Park) station
+# 北京奥林匹克公园 / Olympic Green
 
 > 北京市 · 朝阳区 · 宗教文化
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Aolinpike Gongyuan (Olympic Park) station (simplified Chinese: 奥林匹克公园站; traditional Chinese: 奧林匹克公園站; pinyin: Àolínpǐkè Gōngyuán zhàn) is an interchange station on Line 8 and Line 15 of the Beijing Subway. The station was named Olympic Green. It was renamed on December 31, 2021, to use Pinyin, though the English translation are still displayed in brackets underneath.
+The Olympic Green (Chinese: 奥林匹克公园; pinyin: Àolínpǐkè Gōngyuán; lit. 'Olympic Park') is an Olympic Park in Chaoyang, Beijing, China. The three main facilities there include the National Stadium (Bird's Nest), Water Cube, and National Indoor Stadium. Olympic Green was originally constructed for the 2008 Summer Olympics and the 2008 Summer Paralympics. Since then, the streets around the park have been used for an exhibition street race of the FIA GT1 World Championship in 2011, after a race at Goldenport Park Circuit in the vicinity. It again served as an Olympic Park when Beijing hosted the 2022 Winter Olympics and the 2022 Winter Paralympics.
 
 ## 交通 / Transport
 
@@ -81,5 +81,5 @@ Aolinpike Gongyuan (Olympic Park) station (simplified Chinese: 奥林匹克公�
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/奥林匹克公园站 (北京市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/奥林匹克公园 (北京))
 - [OpenStreetMap](https://www.openstreetmap.org/)

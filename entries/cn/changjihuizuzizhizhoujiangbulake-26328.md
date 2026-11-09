@@ -13,34 +13,12 @@ province_en: "Xinjiang"
 city_en: "Changji Hui Autonomous Prefecture"
 lat: 43.654124
 lon: 89.732454
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 昌吉回族自治州江布拉克景区 / Changjihuizuzizhizhoujiangbulake Scenic Area
 
 > 新疆维吾尔自治区 · 昌吉回族自治州 · 古镇村落
-
-## 图片 / Images
-
-![天山天池2 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A02_-_panoramio.jpg/1280px-%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A02_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*天山天池2 - panoramio.jpg · zhanyoun · CC BY-SA 3.0*
-
-![GA 36-2007.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/GA_36-2007.pdf/page1-960px-GA_36-2007.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*GA 36-2007.pdf · Ministry of Public Security · Public domain*
-
-![GA 36-2014.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/GA_36-2014.pdf/page1-960px-GA_36-2014.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*GA 36-2014.pdf · Ministry of Public Security · Public domain*
-
-![中华人民共和国机动车号牌标准〔中华人民共和国公共安全行业标准GA36—2007〕.PDF](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%BA%E5%8A%A8%E8%BD%A6%E5%8F%B7%E7%89%8C%E6%A0%87%E5%87%86%E3%80%94%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86GA36%E2%80%942007%E3%80%95.PDF/page1-960px-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%BA%E5%8A%A8%E8%BD%A6%E5%8F%B7%E7%89%8C%E6%A0%87%E5%87%86%E3%80%94%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%85%B1%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86GA36%E2%80%942007%E3%80%95.PDF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*中华人民共和国机动车号牌标准〔中华人民共和国公共安全行业标准GA36—2007〕.PDF · 中华人民共和国公安部 · Public domain*
-
-![中国新疆昌吉回族自治州 China Xinjiang Changji Hui Autonomous Pre - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%96%86%E6%98%8C%E5%90%89%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E_China_Xinjiang_Changji_Hui_Autonomous_Pre_-_panoramio_%281%29.jpg/1280px-%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%96%86%E6%98%8C%E5%90%89%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E_China_Xinjiang_Changji_Hui_Autonomous_Pre_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*中国新疆昌吉回族自治州 China Xinjiang Changji Hui Autonomous Pre - panoramio (1).jpg · 罗布泊 · CC BY 3.0*
 
 ## 简介 / Introduction
 

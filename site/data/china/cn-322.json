@@ -10,8 +10,8 @@
  "city_zh": "克拉玛依市",
  "city_en": "Kelamayi City",
  "name_zh": "克拉玛依市世界魔鬼城景区",
- "name_en": "Karamay",
- "name_en_source": "wikipedia",
+ "name_en": "Kelamayishishijiemoguicheng Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "kelamayishishijiemoguicheng-322",
  "lat": 46.136384,
  "lon": 85.754111,
@@ -22,50 +22,9 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "克拉玛依市世界魔鬼城，又称乌尔禾风城，是在干旱、大风环境下形成的一种风蚀地貌类型。魔鬼城呈西北、东西走向，长宽约在5公里以上，方圆约10平方公里，地面海拔350米左右，城内形成了形态各异的风蚀岩群，其形状或如殿、台、阁、堡，或如人、禽、兽，蔚然壮观，神秘莫测，成为世界奇景之一。",
- "intro_en": "Karamay (also spelled Karamai; Chinese: 克拉玛依, romanized: Kèlāmǎyī, Uyghur: قاراماي, romanized: Qaramay) is a prefecture-level city in the north of the Xinjiang Uyghur Autonomous Region, People's Republic of China. It is surrounded on all sides by Tacheng Prefecture. The name of the city comes from the Uyghur language and means \"black oil\", referring to the oil fields near the city. Karamay was the site of one of the worst disasters in modern Chinese history, the 1994 Karamay fire, when 324 people, including 288 school children, lost their lives in a cinema fire on 8 December 1994.",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Karamay_river.jpg/1280px-Karamay_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Karamay river.jpg",
-   "author": "Rart",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Karamay_river.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Karamay_Cultural_Street1.jpg/1280px-Karamay_Cultural_Street1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Karamay Cultural Street1.jpg",
-   "author": "Rart",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Karamay_Cultural_Street1.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Karamay_Cultural_Street2.jpg/1280px-Karamay_Cultural_Street2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Karamay Cultural Street2.jpg",
-   "author": "Rart",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Karamay_Cultural_Street2.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Karamay_Dinosaur_Garden.jpg/1280px-Karamay_Dinosaur_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Karamay Dinosaur Garden.jpg",
-   "author": "Rart",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Karamay_Dinosaur_Garden.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Karamay_statue.jpg/1280px-Karamay_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Karamay statue.jpg",
-   "author": "Rart",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Karamay_statue.jpg"
-  }
- ],
+ "intro_en": "The World Devil City in Karamay City, also known as Urho Wind City, is a type of wind-eroded landform formed in a drought and windy environment. The Devil's City runs northwest and east-west, with a length and width of more than 5 kilometers, a radius of about 10 square kilometers, and a ground altitude of about 350 meters. A group of wind-eroded rocks of various shapes have been formed in the city. Their shapes may be like palaces, platforms, pavilions, castles, or people, birds, or beasts. They are spectacular, mysterious and unpredictable, and have become one of the wonders of the world.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "http://www.klmysjmgc.com/",
  "booking": "http://www.klmysjmgc.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 45.46655,
     "lon": 84.9527,
     "type": "small_airport",
-    "distance_km": 97.0
+    "distance_km": 97.0,
+    "name_zh": "克拉玛依机场"
    },
    {
     "name": "Zaysan Airport",
@@ -98,7 +58,8 @@
     "lat": 46.672501,
     "lon": 83.340797,
     "type": "small_airport",
-    "distance_km": 194.4
+    "distance_km": 194.4,
+    "name_zh": "塔城机场"
    }
   ],
   "nearest_airport_km": 97.0,
@@ -138,10 +99,9 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -170,13 +130,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/克拉玛依市"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

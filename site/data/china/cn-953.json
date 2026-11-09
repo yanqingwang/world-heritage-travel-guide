@@ -78,7 +78,8 @@
     "lat": 34.442207,
     "lon": 108.762385,
     "type": "large_airport",
-    "distance_km": 84.8
+    "distance_km": 84.8,
+    "name_zh": "西安咸阳国际机场"
    },
    {
     "name": "Hanzhong Chenggu Airport",
@@ -88,7 +89,8 @@
     "lat": 33.133527,
     "lon": 107.203817,
     "type": "medium_airport",
-    "distance_km": 129.7
+    "distance_km": 129.7,
+    "name_zh": "汉中城固机场"
    },
    {
     "name": "Ankang Fuqiang Airport",
@@ -98,7 +100,8 @@
     "lat": 32.75696,
     "lon": 108.87338,
     "type": "small_airport",
-    "distance_km": 177.5
+    "distance_km": 177.5,
+    "name_zh": "安康富强机场"
    }
   ],
   "nearest_airport_km": 84.8,
@@ -253,5 +256,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

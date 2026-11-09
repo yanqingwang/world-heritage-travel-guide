@@ -13,34 +13,12 @@ province_en: "Ningxia"
 city_en: "Yinchuan"
 lat: 38.296135
 lon: 106.515563
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 银川市水洞沟旅游区 / Shuidonggou
 
 > 宁夏回族自治区 · 银川市 · 历史遗址
-
-## 图片 / Images
-
-![Yinchuan Montage.jpg](https://upload.wikimedia.org/wikipedia/commons/8/86/Yinchuan_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Yinchuan Montage.jpg · Montage by Lzy881114 · CC BY-SA 3.0*
-
-![Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg](https://upload.wikimedia.org/wikipedia/commons/6/60/Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Yinchuan - 53725808820.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Yinchuan_-_53725808820.jpg/1280px-Yinchuan_-_53725808820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yinchuan - 53725808820.jpg · xiquinhosilva · CC BY 2.0*
-
-![Yinchuan Yuhuang Pavilion - 53725809745 (2024).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yinchuan_Yuhuang_Pavilion_-_53725809745_%282024%29.jpg/1280px-Yinchuan_Yuhuang_Pavilion_-_53725809745_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yinchuan Yuhuang Pavilion - 53725809745 (2024).jpg · xiquinhosilva · CC BY 2.0*
-
-![Yinchuan railway station 53725805445.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yinchuan_railway_station_53725805445.jpg/1280px-Yinchuan_railway_station_53725805445.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yinchuan railway station 53725805445.jpg · xiquinhosilva · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -50,9 +28,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Shuidonggou is the earliest Paleolithic cultural site excavated in China. The unique Yadan landform and uncanny construction sites have created extraordinary landscapes such as Devil City, skyscraper cliffs, and grand canyons. Together with the blue sky, clear water, cliffs, reeds, mandarin ducks, and wild ducks, they create a peaceful paradise.
-
-*English introduction: machine translation.*
+Shuidonggou is an archaeological site and tourist attraction in Ordos, Yinchuan, Ningxia. It is the earliest paleolithic site in China, dating from over 30,000 years ago, and one of the AAAAA Tourist Attractions of China, a list of the most important and best-maintained tourist attractions in the People's Republic of China.
 
 ## 交通 / Transport
 

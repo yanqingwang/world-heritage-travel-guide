@@ -24,48 +24,7 @@
  "intro_zh": "明月山景区是以奇峰险壑、温泉飞瀑、珍稀动植物和禅宗文化为主要特色，集生态游览、休闲度假、科普教育和宗教旅游为一体的山岳型风景名胜区。",
  "intro_en": "Mingyue Mountain Scenic Area is a mountain-type scenic spot with the main features of strange peaks and dangerous valleys, hot springs and waterfalls, rare animals and plants and Zen culture. It integrates ecological tourism, leisure vacation, popular science education and religious tourism.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/%E5%9C%A8%E8%A2%81%E5%B1%B1%E5%85%AC%E5%9B%AD%E7%9C%8B%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "在袁山公园看体育中心 - panoramio.jpg",
-   "author": "邓利",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://web.archive.org/web/20161024012839/http://www.panoramio.com/photo/20560685",
-   "source": "https://commons.wikimedia.org/wiki/File:在袁山公园看体育中心_-_panoramio.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Torch_at_Yichun_railway_station_20191019_164425.jpg/1280px-Torch_at_Yichun_railway_station_20191019_164425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Torch at Yichun railway station 20191019 164425.jpg",
-   "author": "維基小霸王",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Torch_at_Yichun_railway_station_20191019_164425.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Yichun%2C_Jianxi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Yichun, Jianxi - panoramio.jpg",
-   "author": "The Erica Chang",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161025200416/http://www.panoramio.com/photo/87644725",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichun,_Jianxi_-_panoramio.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-55-12.jpg/1280px-Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-55-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-55-12.jpg",
-   "author": "Zhangzhugang",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-55-12.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-56-16.jpg/1280px-Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-56-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-56-16.jpg",
-   "author": "Zhangzhugang",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-56-16.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.myswq.com/",
  "booking": "http://www.myswq.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 27.8025,
     "lon": 114.3062,
     "type": "medium_airport",
-    "distance_km": 21.9
+    "distance_km": 21.9,
+    "name_zh": "宜春明月山机场"
    },
    {
     "name": "Jinggangshan Airport",
@@ -88,7 +48,8 @@
     "lat": 26.856899,
     "lon": 114.737,
     "type": "medium_airport",
-    "distance_km": 93.8
+    "distance_km": 93.8,
+    "name_zh": "吉安井冈山机场"
    },
    {
     "name": "Changsha Huanghua International Airport",
@@ -98,7 +59,8 @@
     "lat": 28.189199,
     "lon": 113.220001,
     "type": "large_airport",
-    "distance_km": 124.3
+    "distance_km": 124.3,
+    "name_zh": "长沙黄花国际机场"
    }
   ],
   "nearest_airport_km": 21.9,
@@ -187,5 +149,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

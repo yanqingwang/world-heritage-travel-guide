@@ -2,7 +2,7 @@
 id: "cn-424"
 dataset: "china_5a"
 name_zh: "盐城市中华麋鹿园景区"
-name_en: "Dafeng Milu Nature Reserve"
+name_en: "Père David's deer"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Yancheng"
 lat: 32.989999
 lon: 120.821875
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 盐城市中华麋鹿园景区 / Dafeng Milu Nature Reserve
+# 盐城市中华麋鹿园景区 / Père David's deer
 
 > 江苏省 · 盐城市 · 生态湿地
-
-## 图片 / Images
-
-![Tinghu, Yancheng, Jiangsu, China - panoramio (44).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tinghu%2C_Yancheng%2C_Jiangsu%2C_China_-_panoramio_%2844%29.jpg/1280px-Tinghu%2C_Yancheng%2C_Jiangsu%2C_China_-_panoramio_%2844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tinghu, Yancheng, Jiangsu, China - panoramio (44).jpg · 柳少阳 · CC BY-SA 3.0*
-
-![Yancheng Ruins, Jiangsu 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Yancheng_Ruins%2C_Jiangsu_03.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yancheng Ruins, Jiangsu 03.jpg · Slyronit · CC BY-SA 4.0*
-
-![Yancheng Ruins, Jiangsu 19.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yancheng_Ruins%2C_Jiangsu_19.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yancheng Ruins, Jiangsu 19.jpg · Slyronit · CC BY-SA 4.0*
-
-![Yancheng Ruins, Jiangsu 28.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Yancheng_Ruins%2C_Jiangsu_28.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yancheng Ruins, Jiangsu 28.jpg · Slyronit · CC BY-SA 4.0*
-
-![Yancheng Ruins, Jiangsu 32.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Yancheng_Ruins%2C_Jiangsu_32.jpg/1280px-Yancheng_Ruins%2C_Jiangsu_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yancheng Ruins, Jiangsu 32.jpg · Slyronit · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Dafeng Milu Nature Reserve is located in Dafeng, Jiangsu Province and near the Yellow Sea coast in eastern China, with the whole area 78000 ha, the core area 2668 ha, the buffer area 2220, and the experimental area 73112. The Geological landforms are typical coastal wetland, including tidal flats, seasonal stream and part of artificial wetland together with a lot of forest land, salt marsh, and bare land. The city of Dafeng belongs to subtropical and warm temperate zone, where thermophilic crops can grow well and influenced by the East Asian monsoon. The average annual temperature is 14.5 °C and the normal precipitation is over 750 mm per year.
+Père David's deer (Elaphurus davidianus), also known as the milu (Chinese: 麋鹿; pinyin: mílù) or elaphure, is a species of deer native to the subtropical river valleys of China. It grazes mainly on grass and aquatic plants. It is the only extant member of the genus Elaphurus. Some experts suggest demoting Elaphurus to a subgenus of Cervus. Based on genetic comparisons, Père David's deer is closely related to Eld's deer. Père David's deer were hunted almost to extinction in their native China by the late 19th century, but a number were taken to zoos in France and Germany and the deer was bred successfully in captivity. In the early 20th century, the British nobleman and politician Herbrand Russell, 11th Duke of Bedford, acquired a few Père David's deer from the Berlin Zoo and built up a large herd on his estate at Woburn Abbey. In the 1980s, the duke's great-grandson Robin Russell, 14th Duke of Bedford, donated several dozen deer to the Chinese government for reintroducing the species to the wild. In 2020, the wild population in China was estimated at 2,825 individuals, with a further 7,380 in various nature reserves in China. All Père David's deer alive today descend from Herbrand R
 
 ## 交通 / Transport
 
@@ -69,10 +47,10 @@ Dafeng Milu Nature Reserve is located in Dafeng, Jiangsu Province and near the Y
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/江苏大丰麋鹿国家级自然保护区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/麋鹿)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -10,8 +10,8 @@
  "city_zh": "周口市",
  "city_en": "Zhoukou City",
  "name_zh": "周口市太昊伏羲陵文化旅游区",
- "name_en": "Zhoukou",
- "name_en_source": "wikipedia",
+ "name_en": "Fuxi Cultural Tourism Area",
+ "name_en_source": "pinyin",
  "slug": "zhoukoushitaihaofuxiling-26438",
  "lat": 33.756252,
  "lon": 114.894006,
@@ -22,50 +22,9 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "太昊陵,即“三皇之首”太昊伏羲氏的陵庙,位于河南省淮阳区羲皇故都风景名胜区,毗邻风景秀丽的万亩龙湖,是全国重点文物保护单位,中国十八大名陵之一。",
- "intro_en": "Zhoukou (Chinese: 周口; pinyin: Zhōukǒu; Wade–Giles: Chou-k’ou; postal: Chowkow) is a prefecture-level city in eastern Henan province, China. It borders Zhumadian to the southwest, Xuchang and Luohe to the west, Kaifeng to the northwest, Shangqiu to the northeast, and the province of Anhui on all other sides. As of the 2020 census, its population was 9,026,015 inhabitants. However, as of the 2018 estimation, 1,601,300 lived in the built-up (or metro) made up of Chuanhui district and the northern part of Shangshui county. The history and geography of Zhoukou have made it a city. As the ancient capitals of Emperor Yao and the birthplace of Laozi, it carries a cultural heritage of China. At the same time, the remnants of the Chen and Chu cultures endow Zhoukou with historical significance. The development of the Lin'gang New City reflects the city's modernization process and economic development. The convergence of the Sha Ying rivers has endowed Zhoukou with unparalleled geographical advantages, making it a hub known as the Central Plains Port City. This bestowed upon Zhoukou significant importance in ancient times, and today, with further improvements in transportation infrastructure,",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/ShayingRiver_Zhoukou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "ShayingRiver Zhoukou.jpg",
-   "author": "Standingtooth",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:ShayingRiver_Zhoukou.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Night_View_of_Guan_Di_Temple_in_Zhoukou_City.jpg/1280px-Night_View_of_Guan_Di_Temple_in_Zhoukou_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Night View of Guan Di Temple in Zhoukou City.jpg",
-   "author": "Wsw1357",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Night_View_of_Guan_Di_Temple_in_Zhoukou_City.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Wuyi_Square%2C_Zhoukou_City.jpg/1280px-Wuyi_Square%2C_Zhoukou_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Wuyi Square, Zhoukou City.jpg",
-   "author": "Wsw1357",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Wuyi_Square,_Zhoukou_City.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Zhoukou-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Zhoukou-map.png",
-   "author": "Standingtooth",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Zhoukou-map.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Zhoukou_City_Street.jpg/1280px-Zhoukou_City_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Zhoukou City Street.jpg",
-   "author": "Wsw1357",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Zhoukou_City_Street.jpg"
-  }
- ],
+ "intro_en": "Taihao Mausoleum, the mausoleum of Taihao Fuxi, the \"head of the Three Emperors\", is located in the Xihuang Former Capital Scenic Area in Huaiyang District, Henan Province, adjacent to the scenic 10,000-acre Long Lake. It is a national key cultural relics protection unit and one of the eighteen famous mausoleums in China.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "",
  "booking": "http://www.szsdlyq.com/#/AdmissionTicketDetails?id=20",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 32.882157,
     "lon": 115.734364,
     "type": "medium_airport",
-    "distance_km": 124.7
+    "distance_km": 124.7,
+    "name_zh": "阜阳机场"
    },
    {
     "name": "Zhengzhou Xinzheng International Airport",
@@ -88,7 +48,8 @@
     "lat": 34.526497,
     "lon": 113.849165,
     "type": "large_airport",
-    "distance_km": 128.8
+    "distance_km": 128.8,
+    "name_zh": "郑州新郑国际机场"
    },
    {
     "name": "Xinyang Minggang Airport",
@@ -98,7 +59,8 @@
     "lat": 32.540819,
     "lon": 114.079141,
     "type": "medium_airport",
-    "distance_km": 155.0
+    "distance_km": 155.0,
+    "name_zh": "信阳明港机场"
    }
   ],
   "nearest_airport_km": 124.7,
@@ -149,11 +111,10 @@
  "hotels_nearby_30km": 1,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -172,7 +133,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -183,12 +144,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/周口市"
+   "url": "https://zh.wikipedia.org/wiki/伏羲"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

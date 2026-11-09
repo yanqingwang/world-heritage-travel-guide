@@ -78,7 +78,8 @@
     "lat": 25.083423,
     "lon": 104.960804,
     "type": "medium_airport",
-    "distance_km": 9.8
+    "distance_km": 9.8,
+    "name_zh": "兴义机场"
    },
    {
     "name": "Anshun Huangguoshu Airport",
@@ -88,7 +89,8 @@
     "lat": 26.260556,
     "lon": 105.873333,
     "type": "medium_airport",
-    "distance_km": 169.1
+    "distance_km": 169.1,
+    "name_zh": "黄果树机场"
    },
    {
     "name": "Wenshan Puzhehei Airport",
@@ -98,7 +100,8 @@
     "lat": 23.5583,
     "lon": 104.3255,
     "type": "small_airport",
-    "distance_km": 171.6
+    "distance_km": 171.6,
+    "name_zh": "文山普者黑机场"
    }
   ],
   "nearest_airport_km": 9.8,
@@ -233,5 +236,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:13Z"
 }

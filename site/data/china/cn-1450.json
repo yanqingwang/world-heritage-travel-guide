@@ -78,7 +78,8 @@
     "lat": 28.3797,
     "lon": 117.9643,
     "type": "medium_airport",
-    "distance_km": 57.2
+    "distance_km": 57.2,
+    "name_zh": "上饶三清山机场"
    },
    {
     "name": "Quzhou Airport",
@@ -88,7 +89,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 80.8
+    "distance_km": 80.8,
+    "name_zh": "衢州机场"
    },
    {
     "name": "Huangshan Tunxi International Airport",
@@ -98,7 +100,8 @@
     "lat": 29.733299,
     "lon": 118.255997,
     "type": "large_airport",
-    "distance_km": 96.0
+    "distance_km": 96.0,
+    "name_zh": "黄山屯溪机场"
    }
   ],
   "nearest_airport_km": 57.2,
@@ -253,5 +256,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

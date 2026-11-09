@@ -62,7 +62,8 @@
     "lat": 30.320299,
     "lon": 109.485001,
     "type": "medium_airport",
-    "distance_km": 47.3
+    "distance_km": 47.3,
+    "name_zh": "恩施许家坪机场"
    },
    {
     "name": "Wanzhou Wuqiao Airport",
@@ -72,7 +73,8 @@
     "lat": 30.8017,
     "lon": 108.433,
     "type": "small_airport",
-    "distance_km": 74.2
+    "distance_km": 74.2,
+    "name_zh": "万州五桥机场"
    },
    {
     "name": "Qianjiang Wulingshan Airport",
@@ -82,7 +84,8 @@
     "lat": 29.5133333333,
     "lon": 108.831111111,
     "type": "medium_airport",
-    "distance_km": 93.2
+    "distance_km": 93.2,
+    "name_zh": "黔江武陵山机场"
    }
   ],
   "nearest_airport_km": 47.3,
@@ -213,5 +216,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-637"
 dataset: "china_5a"
 name_zh: "佛山市南海区西樵山景区"
-name_en: "Foshanshinanhaiquxiqiaoshan Scenic Area"
+name_en: "Mount Xiqiao"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.930245
 lon: 112.983731
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 佛山市南海区西樵山景区 / Foshanshinanhaiquxiqiaoshan Scenic Area
+# 佛山市南海区西樵山景区 / Mount Xiqiao
 
 > 广东省 · 佛山市 · 宗教文化
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Xiqiao Mountain is one of the four famous mountains in Guangdong. It is a China National Forest Park, a China National Geopark, and a national key scenic spot. Xiqiao Mountain has beautiful natural scenery. The 72 peaks on the mountain are all strange, and the 42 caves are secluded. There are also lakes, waterfalls, springs, streams, rocks, walls, pools and platforms dotted there.
-
-*English introduction: machine translation.*
+Mount Xiqiao is a 40- to 50-million-year-old extinct volcano situated in the south west of the Nanhai District, Foshan, Guangdong, People's Republic of China 68 km (42 mi) from Guangzhou. The mountain is an important scenic area and designated as a national forest park and national geological park. Covering an area of 14 square kilometres (5.4 sq mi), the area features a total of 72 peaks with the highest, Dacheng Peak (大秤峰), rising to 346 m (1,135 ft).
 
 ## 交通 / Transport
 
@@ -80,5 +78,5 @@ Xiqiao Mountain is one of the four famous mountains in Guangdong. It is a China 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/佛山市南海区南海中学)
+- [Wikipedia](https://zh.wikipedia.org/wiki/西樵山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

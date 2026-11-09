@@ -78,7 +78,8 @@
     "lat": 29.104749,
     "lon": 110.442786,
     "type": "large_airport",
-    "distance_km": 28.7
+    "distance_km": 28.7,
+    "name_zh": "张家界荷花国际机场"
    },
    {
     "name": "Xiangxi Biancheng Airport",
@@ -88,7 +89,8 @@
     "lat": 28.4972,
     "lon": 109.5218,
     "type": "small_airport",
-    "distance_km": 128.7
+    "distance_km": 128.7,
+    "name_zh": "湘西边城机场"
    },
    {
     "name": "Changde Taohuayuan Airport",
@@ -98,7 +100,8 @@
     "lat": 28.9189,
     "lon": 111.639999,
     "type": "medium_airport",
-    "distance_km": 129.8
+    "distance_km": 129.8,
+    "name_zh": "常德桃花源机场"
    }
   ],
   "nearest_airport_km": 28.7,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

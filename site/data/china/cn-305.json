@@ -37,7 +37,8 @@
     "lat": 31.626,
     "lon": 110.34,
     "type": "medium_airport",
-    "distance_km": 37.1
+    "distance_km": 37.1,
+    "name_zh": "神农架红坪机场"
    },
    {
     "name": "Chongqing Wushan Airport",
@@ -47,7 +48,8 @@
     "lat": 31.06896,
     "lon": 109.708958,
     "type": "small_airport",
-    "distance_km": 88.6
+    "distance_km": 88.6,
+    "name_zh": "巫山神女峰机场"
    },
    {
     "name": "Yichang Sanxia Airport",
@@ -57,7 +59,8 @@
     "lat": 30.554132,
     "lon": 111.482563,
     "type": "medium_airport",
-    "distance_km": 124.5
+    "distance_km": 124.5,
+    "name_zh": "宜昌三峡机场"
    }
   ],
   "nearest_airport_km": 37.1,
@@ -192,5 +195,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

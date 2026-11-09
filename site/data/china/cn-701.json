@@ -78,7 +78,8 @@
     "lat": 26.22414,
     "lon": 120.002679,
     "type": "medium_airport",
-    "distance_km": 101.0
+    "distance_km": 101.0,
+    "name_zh": "马祖北竿机场"
    },
    {
     "name": "Wenzhou Longwan International Airport",
@@ -88,7 +89,8 @@
     "lat": 27.910572,
     "lon": 120.853465,
     "type": "large_airport",
-    "distance_km": 107.6
+    "distance_km": 107.6,
+    "name_zh": "温州龙湾国际机场"
    },
    {
     "name": "Matsu Nangan Airport",
@@ -98,7 +100,8 @@
     "lat": 26.159656,
     "lon": 119.958376,
     "type": "medium_airport",
-    "distance_km": 109.1
+    "distance_km": 109.1,
+    "name_zh": "马祖南竿机场"
    }
   ],
   "nearest_airport_km": 101.0,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

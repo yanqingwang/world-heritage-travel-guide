@@ -10,7 +10,7 @@
  "city_zh": "成都市",
  "city_en": "Chengdu",
  "name_zh": "成都市青城山-都江堰旅游景区",
- "name_en": "Dujiangyan",
+ "name_en": "Mount Qingcheng",
  "name_en_source": "wikipedia",
  "slug": "chengdushiqingchengshandujiangyan-313",
  "lat": 31.001763,
@@ -22,7 +22,7 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "青城山景区位于四川省成都市都江堰市西南，是中国首批公布的风景名胜区之一。青城山靠岷山雪岭，面向川西平原，群峰环绕，状若城廓；林深树密，四季常绿；丹梯千级，曲径通幽。都江堰不仅是举世闻名的中国古代水利工程，也是著名的风景名胜区。都江堰附近景色秀丽，文物古迹众多，主要有伏龙观、二王庙、安澜索桥、玉垒关、离堆公园、玉垒山公园、玉女峰、灵岩寺、普照寺、翠月湖、都江堰水利工程等。",
- "intro_en": "The Dujiangyan (Chinese: 都江堰; pinyin: Dūjiāngyàn) is an ancient hydraulic engineering system in Dujiangyan City, Sichuan, China. Originally constructed around 256 BC by the State of Qin as an irrigation and flood control project, it is still in use today. The system's infrastructure develops on the Min River (Minjiang), one of the longest tributaries of the Yangtze. The area is in the west part of the Chengdu Plain, between the Sichuan Basin and the Tibetan Plateau. Originally, the Min would rush down from the Min Mountains and slow down abruptly after reaching the Chengdu Plain, filling the watercourse with silt, thus making the nearby areas extremely prone to floods. King Zhao of Qin commissioned the project, and the construction of the Dujiangyan harnessed the river using a new method of channeling and dividing the water rather than simply damming it. The water management scheme is still in use today to irrigate over 5,300 km2 (2,000 sq mi) of land in the region and has produced comprehensive benefits in flood control, irrigation, water transport and general water consumption. Begun over 2,250 years ago, it now irrigates 668,700 hectares of farmland. The Dujiangyan, the Zhengguo",
+ "intro_en": "Mount Qingcheng (Chinese: 青城山; pinyin: Qīngchéng Shān) is a sacred Taoist mountain in Dujiangyan, Chengdu, Sichuan, China. It is considered one of the birthplaces of Taoism and one of the most important Taoist religious sites in China. In Taoist mythology, it was the site of the Yellow Emperor's studies with Ning Fengzi. As an important site of the Taoism, it became host to many Taoist monasteries and temples. The mountain has 36 peaks. It is also home to Dujiangyan Giant Panda Center and since 2000 has been listed as a UNESCO World Heritage Site. Mount Qingcheng was affected by the Wenchuan Earthquake in 2008.",
  "intro_en_source": "wikipedia",
  "images": [
   {
@@ -78,7 +78,8 @@
     "lat": 30.558257,
     "lon": 103.945966,
     "type": "large_airport",
-    "distance_km": 58.2
+    "distance_km": 58.2,
+    "name_zh": "成都双流国际机场"
    },
    {
     "name": "Chengdu Tianfu International Airport",
@@ -88,7 +89,8 @@
     "lat": 30.31252,
     "lon": 104.441284,
     "type": "large_airport",
-    "distance_km": 109.6
+    "distance_km": 109.6,
+    "name_zh": "成都天府国际机场"
    },
    {
     "name": "Mianyang Nanjiao Airport",
@@ -98,7 +100,8 @@
     "lat": 31.428101,
     "lon": 104.740997,
     "type": "medium_airport",
-    "distance_km": 116.5
+    "distance_km": 116.5,
+    "name_zh": "绵阳南郊机场"
    }
   ],
   "nearest_airport_km": 58.2,
@@ -227,12 +230,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/都江堰"
+   "url": "https://zh.wikipedia.org/wiki/青城山"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

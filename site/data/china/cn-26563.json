@@ -10,8 +10,8 @@
  "city_zh": "固原市",
  "city_en": "Guyuan City",
  "name_zh": "固原市六盘山红军长征旅游区",
- "name_en": "Liupanshan Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Liupan Mountains",
+ "name_en_source": "wikipedia",
  "slug": "guyuanshiliupanshanhongjunchangzheng-26563",
  "lat": 35.673415,
  "lon": 106.20037,
@@ -22,8 +22,8 @@
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
  "intro_zh": "六盘山是一座历史名山，很多古代诗词里出现过它的身姿，秦皇汉武、成吉思汗在这里留下过足迹。1935年8月至1936年10月，红二十五军、中央红军（陕甘支队）、西征红军、红二方面军四次经过六盘山区，开启了奠基大西北的革命新篇章，六盘山因此被誉为“曙光之山”“胜利之山”。",
- "intro_en": "Liupan Mountain is a famous historical mountain. It appears in many ancient poems. Emperors of Qin, Han, Wu and Genghis Khan left their footprints here. From August 1935 to October 1936, the 25th Red Army, the Central Red Army (Shaanxi-Gansu Detachment), the Western Expedition Red Army, and the Second Red Front Army passed through Liupanshan District four times, opening a new chapter in the revolution that laid the foundation for the Northwest. Liupanshan was therefore known as the \"Mountain of Dawn\" and \"The Mountain of Victory.\"",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Liupan Mountains (Chinese: 六盘山; pinyin: Lìupán Shān) are a mountain range in northwestern China, located mostly in southern Ningxia Hui Autonomous Region. The range marks the southwestern boundary of the Ordos Basin. Its southern section is known as Mount Long (Chinese: 陇山; pinyin: Lǒng Shān), which strides southeast through eastern Gansu and western Shaanxi province before joining into the Qinling Mountains, giving rise to regional names like \"Longxi\" (陇西, lit. \"west of Mount Long\"), \"Longdong\" (陇东, \"east of Mount Long\", referring to the Jing River valley basin region around eastern Pingliang, southern Qingyang and northern Xianyang) and \"Longnan\" (陇南, \"south of Mount Long\"). It is the western boundary of the Guanzhong Plain, and is also the source of the Qian River (千河), a left tributary of the Wei River that flows through the prefectural city of Baoji.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/%E5%85%AD%E7%9B%98%E5%B1%B1%E7%BA%A2%E5%86%9B%E9%95%BF%E5%BE%81%E7%BA%AA%E5%BF%B5%E9%A6%86%E8%A5%BF%E7%9C%BA.jpg/1280px-%E5%85%AD%E7%9B%98%E5%B1%B1%E7%BA%A2%E5%86%9B%E9%95%BF%E5%BE%81%E7%BA%AA%E5%BF%B5%E9%A6%86%E8%A5%BF%E7%9C%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 36.078889,
     "lon": 106.216944,
     "type": "medium_airport",
-    "distance_km": 45.1
+    "distance_km": 45.1,
+    "name_zh": "固原六盘山机场"
    },
    {
     "name": "Qingyang Xifeng Airport",
@@ -88,7 +89,8 @@
     "lat": 35.802638,
     "lon": 107.598896,
     "type": "medium_airport",
-    "distance_km": 127.0
+    "distance_km": 127.0,
+    "name_zh": "庆阳机场"
    },
    {
     "name": "Tianshui Maijishan Airport",
@@ -98,7 +100,8 @@
     "lat": 34.5601,
     "lon": 105.860343,
     "type": "medium_airport",
-    "distance_km": 127.6
+    "distance_km": 127.6,
+    "name_zh": "天水麦积山机场"
    }
   ],
   "nearest_airport_km": 45.1,
@@ -171,10 +174,11 @@
  "hotels_nearby_30km": 3,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -193,7 +197,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -211,5 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:13Z"
 }

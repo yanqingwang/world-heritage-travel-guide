@@ -78,7 +78,8 @@
     "lat": 25.219828,
     "lon": 110.039553,
     "type": "large_airport",
-    "distance_km": 40.8
+    "distance_km": 40.8,
+    "name_zh": "桂林两江国际机场"
    },
    {
     "name": "Liuzhou Bailian Airport / Bailian Air Base",
@@ -88,7 +89,8 @@
     "lat": 24.2075,
     "lon": 109.390999,
     "type": "medium_airport",
-    "distance_km": 149.2
+    "distance_km": 149.2,
+    "name_zh": "柳州白莲机场"
    },
    {
     "name": "Yongzhou Lingling Airport",
@@ -98,7 +100,8 @@
     "lat": 26.338661,
     "lon": 111.610043,
     "type": "medium_airport",
-    "distance_km": 176.5
+    "distance_km": 176.5,
+    "name_zh": "永州零陵机场"
    }
   ],
   "nearest_airport_km": 40.8,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

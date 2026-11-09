@@ -2,7 +2,7 @@
 id: "cn-1242"
 dataset: "china_5a"
 name_zh: "八达岭—慕田峪长城旅游区"
-name_en: "Badaling"
+name_en: "Great Wall of China"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Beijing"
 city_en: "Huairou District"
 lat: 40.367951
 lon: 115.984491
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 八达岭—慕田峪长城旅游区 / Badaling
+# 八达岭—慕田峪长城旅游区 / Great Wall of China
 
 > 北京市 · 怀柔区 · 历史遗址
 
@@ -51,7 +51,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Badaling (Chinese: 八达岭; pinyin: Bādálǐng) is the site of the most visited section of the Great Wall of China, approximately 80 kilometers (50 mi) northwest of Beijing's city center, in Badaling Town, Yanqing District, Beijing municipality. The portion of the wall running through the site was built in 1504 during the Ming Dynasty, along with a military outpost reflecting the location's strategic importance. The highest point of Badaling is Beibalou (北八樓), approximately 1,015 meters (3,330 ft) above sea level. Badaling Great Wall was built in the Ming Dynasty (1505) to occupy a commanding and strategic position for protecting the Juyong Pass to its south, further protecting the city of Beijing. The portion of the wall at Badaling has undergone restoration, and in 1957, it was the first section of the wall to open to tourism. Now visited annually by millions, the immediate area has seen significant development, including hotels, restaurants, and a cable car.
+The Great Wall of China is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty. Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644). To aid in defense, the Great Wall utilized watchtowers, troop barracks, garrison stations, signaling capabilities through the means of smoke or fire, and its status as a transportation corridor. Other purposes of the Great Wall have included border controls (allowing control of immigration and emigration, and the imposition of duties on goods transported along the Silk Road), and the regulation of trade. The collective fortifications constituting the Great Wall stretch from Liaodong in the east to Lop Lake in the west, and from the present-day Sino-Russian border in the north to Tao River in the south: an arc that roughly delineates the edge of the Mongolian steppe, spanning 21,196.18 km (13,170.70 mi) in total. It is a UNESCO World Heritage Site, a
 
 ## 交通 / Transport
 
@@ -80,5 +80,5 @@ Badaling (Chinese: 八达岭; pinyin: Bādálǐng) is the site of the most visit
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/八达岭)
+- [Wikipedia](https://zh.wikipedia.org/wiki/长城)
 - [OpenStreetMap](https://www.openstreetmap.org/)

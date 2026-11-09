@@ -10,8 +10,8 @@
  "city_zh": "喀什地区",
  "city_en": "Kashgar Prefecture",
  "name_zh": "喀什地区金湖杨景区",
- "name_en": "Jinhu, Kinmen",
- "name_en_source": "wikipedia",
+ "name_en": "Jinhuzhen Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "kashidiqujinhuyang-346",
  "lat": 38.035954,
  "lon": 76.987903,
@@ -46,7 +46,8 @@
     "lat": 38.24542,
     "lon": 77.056149,
     "type": "medium_airport",
-    "distance_km": 24.0
+    "distance_km": 24.0,
+    "name_zh": "莎车机场"
    },
    {
     "name": "Tashikuergan Hongqilafu Airport",
@@ -56,7 +57,8 @@
     "lat": 37.661333,
     "lon": 75.288877,
     "type": "medium_airport",
-    "distance_km": 154.9
+    "distance_km": 154.9,
+    "name_zh": "塔什库尔干红其拉甫机场"
    },
    {
     "name": "Kashgar Laining International Airport",
@@ -66,7 +68,8 @@
     "lat": 39.542273,
     "lon": 76.02023,
     "type": "large_airport",
-    "distance_km": 187.3
+    "distance_km": 187.3,
+    "name_zh": "喀什徕宁国际机场"
    }
   ],
   "nearest_airport_km": 24.0,
@@ -105,11 +108,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -128,7 +130,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -146,5 +148,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

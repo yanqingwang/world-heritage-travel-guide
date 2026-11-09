@@ -37,7 +37,8 @@
     "lat": 42.8828010559,
     "lon": 129.451004028,
     "type": "medium_airport",
-    "distance_km": 109.3
+    "distance_km": 109.3,
+    "name_zh": "延吉朝阳川机场"
    },
    {
     "name": "Changbaishan Airport",
@@ -47,7 +48,8 @@
     "lat": 42.066944,
     "lon": 127.602222,
     "type": "medium_airport",
-    "distance_km": 150.1
+    "distance_km": 150.1,
+    "name_zh": "长白山机场"
    },
    {
     "name": "Mudanjiang Hailang International Airport",
@@ -57,7 +59,8 @@
     "lat": 44.525172,
     "lon": 129.568634,
     "type": "medium_airport",
-    "distance_km": 169.7
+    "distance_km": 169.7,
+    "name_zh": "牡丹江海浪机场"
    }
   ],
   "nearest_airport_km": 109.3,
@@ -193,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

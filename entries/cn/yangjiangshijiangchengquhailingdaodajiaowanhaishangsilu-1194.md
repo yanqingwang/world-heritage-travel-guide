@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Yangjiang City"
 lat: 21.760659
 lon: 111.887063
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 阳江市江城区海陵岛大角湾海上丝路旅游区 / Hailingdao Tourist Area

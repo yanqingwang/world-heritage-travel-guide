@@ -54,7 +54,8 @@
     "lat": 32.982696,
     "lon": 112.617467,
     "type": "small_airport",
-    "distance_km": 108.9
+    "distance_km": 108.9,
+    "name_zh": "南阳姜营机场"
    },
    {
     "name": "Luoyang Beijiao Airport",
@@ -64,7 +65,8 @@
     "lat": 34.7411,
     "lon": 112.388,
     "type": "large_airport",
-    "distance_km": 120.3
+    "distance_km": 120.3,
+    "name_zh": "洛阳北郊机场"
    },
    {
     "name": "Shiyan Wudangshan Airport",
@@ -74,7 +76,8 @@
     "lat": 32.592889,
     "lon": 110.906296,
     "type": "medium_airport",
-    "distance_km": 156.9
+    "distance_km": 156.9,
+    "name_zh": "十堰武当山机场"
    }
   ],
   "nearest_airport_km": 108.9,
@@ -138,5 +141,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

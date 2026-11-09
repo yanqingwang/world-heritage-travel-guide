@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Zhongshan City"
 lat: 22.452651
 lon: 113.536789
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 中山市孙中山故里旅游区 / Zhongshanshisunzhongshanguli Tourist Area
 
 > 广东省 · 中山市 · 红色旅游
-
-## 图片 / Images
-
-![Zhongshan montage.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Zhongshan_montage.jpg/1280px-Zhongshan_montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zhongshan montage.jpg · ASDFGHJ ( talk ) · CC BY-SA 3.0*
-
-![A Laundromat in Zhongshan District, Taipei.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/A_Laundromat_in_Zhongshan_District%2C_Taipei.jpg/1280px-A_Laundromat_in_Zhongshan_District%2C_Taipei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*A Laundromat in Zhongshan District, Taipei.jpg · Liang SK · CC BY-SA 2.0*
-
-![River in downtown Zhongshan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/River_in_downtown_Zhongshan.jpg/1280px-River_in_downtown_Zhongshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*River in downtown Zhongshan.jpg · Mx. Granger · CC0*
-
-![View from a Street in Zhongshan District, Taipei.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/View_from_a_Street_in_Zhongshan_District%2C_Taipei.jpg/1280px-View_from_a_Street_in_Zhongshan_District%2C_Taipei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*View from a Street in Zhongshan District, Taipei.jpg · Tbatb · CC BY-SA 4.0*
-
-![VoyageBanner of Zhongshan District.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VoyageBanner_of_Zhongshan_District.jpg/1280px-VoyageBanner_of_Zhongshan_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*VoyageBanner of Zhongshan District.jpg · Taiwankengo · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -80,5 +58,5 @@ The scenic area covers an area of ​​about 500 square meters and includes fiv
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/孙中山故居纪念馆)
+- [Wikipedia](https://zh.wikipedia.org/wiki/孙中山故里旅游区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

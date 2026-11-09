@@ -78,7 +78,8 @@
     "lat": 37.573125,
     "lon": 105.154454,
     "type": "medium_airport",
-    "distance_km": 16.8
+    "distance_km": 16.8,
+    "name_zh": "中卫沙坡头机场"
    },
    {
     "name": "Alxa Left Banner Bayanhot Airport",
@@ -88,7 +89,8 @@
     "lat": 38.748317,
     "lon": 105.58416,
     "type": "medium_airport",
-    "distance_km": 150.0
+    "distance_km": 150.0,
+    "name_zh": "阿拉善左旗巴彦浩特机场"
    },
    {
     "name": "Yinchuan Hedong International Airport",
@@ -98,7 +100,8 @@
     "lat": 38.322758,
     "lon": 106.393214,
     "type": "large_airport",
-    "distance_km": 153.8
+    "distance_km": 153.8,
+    "name_zh": "银川河东机场"
    }
   ],
   "nearest_airport_km": 16.8,
@@ -243,5 +246,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

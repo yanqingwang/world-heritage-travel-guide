@@ -24,48 +24,7 @@
  "intro_zh": "伪满皇宫博物院是中国末代皇帝爱新觉罗·溥仪称帝“满洲国”的宫廷旧址，是日本殖民统治中国东北十四年的历史见证，也是近代长春城市变迁的地标式建筑群。博物院形成了宫廷旧址博物馆+旅游景区的格局。景区规划为四大功能区：宫廷核心区、博物馆区、休闲区和创意街区。",
  "intro_en": "The Imperial Palace Museum of the Puppet Manchukuo is the former site of the palace where the last emperor of China, Aisin Gioro Puyi, proclaimed himself the emperor of \"Manchukuo\". It is a historical witness of the fourteen years of Japanese colonial rule in Northeast China. It is also a landmark building complex in the urban changes of Changchun in modern times. The museum forms a pattern of palace site museum + tourist attraction. The scenic spot is planned into four major functional areas: palace core area, museum area, leisure area and creative block.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Changchun_Montage_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Changchun Montage 2017.png",
-   "author": "Montage by 嗷大喵 ( 嗷大喵 )",
-   "license": "CC BY-SA 4.0",
-   "credit": "All CC/PD sources: File:长春20171029.png ( 嗷大喵 ) File:长春20160823.png ( 嗷大喵 ) File:文化广场中心雕塑 - panoramio.jpg ( 陈宏宇 ) File:The Puppet Manchukuo government's State De",
-   "source": "https://commons.wikimedia.org/wiki/File:Changchun_Montage_2017.png"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Changchun-location-MAP-in-Jilin-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Changchun-location-MAP-in-Jilin-Province-in-China.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changchun-location-MAP-in-Jilin-Province-in-China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Changchun_CBD_viewed_from_the_Cultural_Square%2C_2024.jpg/1280px-Changchun_CBD_viewed_from_the_Cultural_Square%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Changchun CBD viewed from the Cultural Square, 2024.jpg",
-   "author": "Licjar Xeymelloz",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changchun_CBD_viewed_from_the_Cultural_Square,_2024.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Changchun_Railway_Station.jpg/1280px-Changchun_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Changchun Railway Station.jpg",
-   "author": "Jacob Lyu",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changchun_Railway_Station.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hsinking_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Hsinking Airport.jpg",
-   "author": "Unknown author Unknown author",
-   "license": "Public domain",
-   "credit": "historical postcard, personal collection",
-   "source": "https://commons.wikimedia.org/wiki/File:Hsinking_Airport.jpg"
-  }
- ],
+ "images": [],
  "web": "https://www.wmhg.com.cn/index.html",
  "booking": "https://www.wmhg.com.cn/tickets.html",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 43.996201,
     "lon": 125.684998,
     "type": "large_airport",
-    "distance_km": 27.8
+    "distance_km": 27.8,
+    "name_zh": "长春龙嘉国际机场"
    },
    {
     "name": "Songyuan Chaganhu Airport",
@@ -88,7 +48,8 @@
     "lat": 44.931143,
     "lon": 124.552121,
     "type": "medium_airport",
-    "distance_km": 130.1
+    "distance_km": 130.1,
+    "name_zh": "松原查干湖机场"
    },
    {
     "name": "Harbin Taiping International Airport",
@@ -98,7 +59,8 @@
     "lat": 45.623402,
     "lon": 126.25,
     "type": "large_airport",
-    "distance_km": 202.9
+    "distance_km": 202.9,
+    "name_zh": "哈尔滨太平国际机场"
    }
   ],
   "nearest_airport_km": 27.8,
@@ -225,9 +187,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/伪满皇宫及日伪军政机构旧址"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

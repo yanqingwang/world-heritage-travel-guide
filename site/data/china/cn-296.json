@@ -78,7 +78,8 @@
     "lat": 32.390254,
     "lon": 105.694571,
     "type": "medium_airport",
-    "distance_km": 24.4
+    "distance_km": 24.4,
+    "name_zh": "广元盘龙机场"
    },
    {
     "name": "Langzhong Gucheng Airport",
@@ -88,7 +89,8 @@
     "lat": 31.50191,
     "lon": 106.034417,
     "type": "medium_airport",
-    "distance_km": 88.8
+    "distance_km": 88.8,
+    "name_zh": "阆中古城机场"
    },
    {
     "name": "Bazhong Enyang Airport",
@@ -98,7 +100,8 @@
     "lat": 31.73842,
     "lon": 106.644872,
     "type": "medium_airport",
-    "distance_km": 113.3
+    "distance_km": 113.3,
+    "name_zh": "巴中机场"
    }
   ],
   "nearest_airport_km": 24.4,
@@ -190,5 +193,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

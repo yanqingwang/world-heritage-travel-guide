@@ -78,7 +78,8 @@
     "lat": 39.666384,
     "lon": 119.061384,
     "type": "medium_airport",
-    "distance_km": 72.2
+    "distance_km": 72.2,
+    "name_zh": "秦皇岛北戴河机场"
    },
    {
     "name": "Tangshan Sannühe Airport",
@@ -88,7 +89,8 @@
     "lat": 39.7178,
     "lon": 118.002625,
     "type": "small_airport",
-    "distance_km": 152.9
+    "distance_km": 152.9,
+    "name_zh": "唐山三女河机场"
    },
    {
     "name": "Jinzhou Bay Airport",
@@ -98,7 +100,8 @@
     "lat": 40.936032,
     "lon": 121.277114,
     "type": "medium_airport",
-    "distance_km": 162.8
+    "distance_km": 162.8,
+    "name_zh": "锦州湾机场"
    }
   ],
   "nearest_airport_km": 72.2,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

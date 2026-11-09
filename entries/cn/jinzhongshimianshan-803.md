@@ -13,34 +13,12 @@ province_en: "Shanxi"
 city_en: "Jinzhong"
 lat: 36.912044
 lon: 111.966208
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 晋中市绵山风景区 / Jinzhongshimianshanfeng Scenic Area
 
 > 山西省 · 晋中市 · 皇家园林
-
-## 图片 / Images
-
-![Buildings in Pingyao 2018-06-13 093324.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Buildings_in_Pingyao_2018-06-13_093324.jpg/1280px-Buildings_in_Pingyao_2018-06-13_093324.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Buildings in Pingyao 2018-06-13 093324.jpg · David290 · CC BY-SA 4.0*
-
-![Jinzhong-map.png](https://upload.wikimedia.org/wikipedia/commons/5/55/Jinzhong-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Jinzhong-map.png · 장길산 · Public domain*
-
-![Jinzhong Railway Station (20241107155630).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Jinzhong_Railway_Station_%2820241107155630%29.jpg/1280px-Jinzhong_Railway_Station_%2820241107155630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinzhong Railway Station (20241107155630).jpg · N509FZ · CC BY-SA 4.0*
-
-![Jinzhong Railway Station (August 11, 2026).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg/1280px-Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Jinzhong Railway Station (August 11, 2026).jpg · Ib · CC BY 4.0*
-
-![Jinzhong mcp.png](https://upload.wikimedia.org/wikipedia/commons/9/9f/Jinzhong_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Jinzhong mcp.png · Maggern87 · CC0*
 
 ## 简介 / Introduction
 

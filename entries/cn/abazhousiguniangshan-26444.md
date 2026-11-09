@@ -13,7 +13,7 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 31.035123
 lon: 102.818742
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 阿坝州四姑娘山景区 / Mount Siguniang
@@ -64,8 +64,8 @@ Mount Siguniang (Chinese: 四姑娘山; pinyin: Sìgūniang Shān; lit. 'Mountai
 
 ## 附近酒店 / Nearby hotels
 
-- **MT.YUE Yueshan Holiday Hotel** — 4.9 km — chain
 - **悠然牧居智能酒店** — 4.9 km — hotel
+- **MT.YUE Yueshan Holiday Hotel** — 4.9 km — chain
 - **夹金山庄** — 18.9 km — hotel — Jia Jin Villa
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*

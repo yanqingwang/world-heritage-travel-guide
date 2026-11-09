@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Diqing Tibetan Autonomous Prefecture"
 lat: 27.808283
 lon: 99.913131
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 迪庆州普达措国家公园 / Potatson National Park

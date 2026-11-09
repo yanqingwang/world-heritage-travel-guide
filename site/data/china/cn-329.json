@@ -78,7 +78,8 @@
     "lat": 30.582199,
     "lon": 117.050003,
     "type": "medium_airport",
-    "distance_km": 58.1
+    "distance_km": 58.1,
+    "name_zh": "安庆天柱山机场"
    },
    {
     "name": "Chizhou Jiuhuashan Airport",
@@ -88,7 +89,8 @@
     "lat": 30.7403,
     "lon": 117.6856,
     "type": "small_airport",
-    "distance_km": 116.6
+    "distance_km": 116.6,
+    "name_zh": "池州九华山机场"
    },
    {
     "name": "Ezhou Huahu International Airport",
@@ -98,7 +100,8 @@
     "lat": 30.341178,
     "lon": 115.03926,
     "type": "large_airport",
-    "distance_km": 143.2
+    "distance_km": 143.2,
+    "name_zh": "鄂州花湖机场"
    }
   ],
   "nearest_airport_km": 58.1,
@@ -201,5 +204,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

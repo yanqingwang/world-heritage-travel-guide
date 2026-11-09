@@ -78,7 +78,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 67.1
+    "distance_km": 67.1,
+    "name_zh": "衢州机场"
    },
    {
     "name": "Huangshan Tunxi International Airport",
@@ -88,7 +89,8 @@
     "lat": 29.733299,
     "lon": 118.255997,
     "type": "large_airport",
-    "distance_km": 80.3
+    "distance_km": 80.3,
+    "name_zh": "黄山屯溪机场"
    },
    {
     "name": "Yiwu Airport",
@@ -98,7 +100,8 @@
     "lat": 29.342095,
     "lon": 120.03116,
     "type": "large_airport",
-    "distance_km": 96.9
+    "distance_km": 96.9,
+    "name_zh": "义乌机场"
    }
   ],
   "nearest_airport_km": 67.1,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

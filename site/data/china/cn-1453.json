@@ -78,7 +78,8 @@
     "lat": 28.864815,
     "lon": 115.90271,
     "type": "large_airport",
-    "distance_km": 19.8
+    "distance_km": 19.8,
+    "name_zh": "南昌昌北国际机场"
    },
    {
     "name": "Jiujiang Lushan Airport",
@@ -88,7 +89,8 @@
     "lat": 29.476944,
     "lon": 115.801111,
     "type": "small_airport",
-    "distance_km": 88.2
+    "distance_km": 88.2,
+    "name_zh": "九江庐山机场"
    },
    {
     "name": "Jingdezhen Luojia Airport",
@@ -98,7 +100,8 @@
     "lat": 29.3386,
     "lon": 117.176003,
     "type": "medium_airport",
-    "distance_km": 144.7
+    "distance_km": 144.7,
+    "name_zh": "景德镇罗家机场"
    }
   ],
   "nearest_airport_km": 19.8,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Pingxiang City"
 lat: 27.495319
 lon: 114.135944
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 萍乡市芦溪县萍乡武功山景区 / Wugong Mountains

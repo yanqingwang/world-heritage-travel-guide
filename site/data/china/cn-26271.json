@@ -24,48 +24,7 @@
  "intro_zh": "八泉峡是国家5A级旅游景区，被称为“太行第一雄峡”，位于山西长治壶关太行山大峡谷中段，面积24.11平方公里，最低海拔600余米，最高海拔1400余米，是峡谷内设施最全、线路最美、最具代表性的精华景区。八泉峡集江河峡谷、石灰岩地区干旱峡谷和溪流峡谷等诸般景致于一体，峡谷内气候湿润、植被丰茂、地理位置优越，有门楼景观、峡谷景观、索道景观和步道景观四大游览区域，是自然观光、生态旅游、休闲度假的理想去处。",
  "intro_en": "Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in Xinjiang Uygur Autonomous Region. It is a national forest park and also a 5A-level scenic spot in China.More than 40 kilometers from Ürümqi urban area, the total area of the scenic spot is 1038.48 square kilometers, the average altitude is more than 2000 meters, and the average annual temperature is 4-6 °C.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Changzhi_bayi_square_rostrum.jpg/1280px-Changzhi_bayi_square_rostrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Changzhi bayi square rostrum.jpg",
-   "author": "1969社论",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_bayi_square_rostrum.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/CCP_Changzhi_committee_%26_Changzhi_Gov.jpg/1280px-CCP_Changzhi_committee_%26_Changzhi_Gov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "CCP Changzhi committee & Changzhi Gov.jpg",
-   "author": "1969社论",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:CCP_Changzhi_committee_&_Changzhi_Gov.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Changzhi_Museum.jpg/1280px-Changzhi_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Changzhi Museum.jpg",
-   "author": "1969社论",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_Museum.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Changzhi_guanyintang.JPG/1280px-Changzhi_guanyintang.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Changzhi guanyintang.JPG",
-   "author": "Halazhang",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_guanyintang.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Changzhi_stadium.jpg/1280px-Changzhi_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Changzhi stadium.jpg",
-   "author": "1969社论",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changzhi_stadium.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.thsbqx.com/",
  "booking": "http://www.thsbqx.com/index.php?c=category&id=29",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 36.247501,
     "lon": 113.125999,
     "type": "small_airport",
-    "distance_km": 44.0
+    "distance_km": 44.0,
+    "name_zh": "长治王村机场"
    },
    {
     "name": "Anyang Hongqiqu Airport",
@@ -88,7 +48,8 @@
     "lat": 35.870833,
     "lon": 114.461944,
     "type": "small_airport",
-    "distance_km": 91.3
+    "distance_km": 91.3,
+    "name_zh": "安阳红旗渠机场"
    },
    {
     "name": "Handan Airport",
@@ -98,7 +59,8 @@
     "lat": 36.524824,
     "lon": 114.424126,
     "type": "medium_airport",
-    "distance_km": 107.9
+    "distance_km": 107.9,
+    "name_zh": "邯郸机场"
    }
   ],
   "nearest_airport_km": 44.0,
@@ -220,5 +182,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

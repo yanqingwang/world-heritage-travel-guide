@@ -78,7 +78,8 @@
     "lat": 29.311699,
     "lon": 113.281574,
     "type": "medium_airport",
-    "distance_km": 19.2
+    "distance_km": 19.2,
+    "name_zh": "岳阳三荷机场"
    },
    {
     "name": "Jingzhou Shashi Airport",
@@ -88,7 +89,8 @@
     "lat": 30.29281,
     "lon": 112.44854,
     "type": "medium_airport",
-    "distance_km": 119.1
+    "distance_km": 119.1,
+    "name_zh": "荆州沙市机场"
    },
    {
     "name": "Changsha Huanghua International Airport",
@@ -98,7 +100,8 @@
     "lat": 28.189199,
     "lon": 113.220001,
     "type": "large_airport",
-    "distance_km": 133.4
+    "distance_km": 133.4,
+    "name_zh": "长沙黄花国际机场"
    }
   ],
   "nearest_airport_km": 19.2,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

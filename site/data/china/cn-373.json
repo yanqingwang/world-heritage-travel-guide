@@ -10,7 +10,7 @@
  "city_zh": "伊春市",
  "city_en": "Yichun City",
  "name_zh": "伊春市林海奇石景区",
- "name_en": "Yichun, Heilongjiang",
+ "name_en": "Jan Lamb",
  "name_en_source": "wikipedia",
  "slug": "yichunshilinhaiqishi-373",
  "lat": 48.465019,
@@ -22,50 +22,9 @@
  "category_zh": "生态湿地",
  "category_en": "Wetland ecology",
  "intro_zh": "林海奇石风景区是一处由人文景观和自然景观构成的生态旅游区和国家地质遗迹公园。景区可分为天然牧场、雪色松林、溪水湿地、民族风情、山水浏览、兴安石林、秋色松林、花卉观赏八大区域。",
- "intro_en": "Yichun (Chinese: 伊春; pinyin: Yīchūn) is a prefecture-level city on the Songhua river in Heilongjiang province, China. The city is separated from Russia by the Amur River and has an international border of 246 kilometres (153 mi). According to the 2010 census, it had a total population of 1,148,126 with 729,202 people living in 15 districts separated by forests.据According to the statistics of the public security department, the total registered population of the city by the end of 2024 will be 1.033 million. Among them, the urban population is 900.000 and the rural population is 133,000. The urbanization rate of the registered population is 87.1%. The greening rate of Yichun is up to 83%. The nickname of Yichun is Lindu (Chinese: 林都; pinyin: Líndū; lit. 'forest capital').",
+ "intro_en": "Jan Lamb Hoi-fong (Chinese: 林海峰; born 28 January 1967) is a Hong Kong DJ, singer and actor. Lamb is the elder brother of Jerry Lamb and younger brother of singer and radio personality Sandy Lamb. He formed a comedic musical duo during the late 1980s with fellow actor and comedian Eric Kot called Softhard). His wife Cass Phang is a singer.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sight_of_the_city_from_the_top_of_Xing%27an_Tower%2C_Yichun%2C_Heilongjiang%2C_China.jpg/1280px-Sight_of_the_city_from_the_top_of_Xing%27an_Tower%2C_Yichun%2C_Heilongjiang%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Sight of the city from the top of Xing'an Tower, Yichun, Heilongjiang, China.jpg",
-   "author": "Xwn0122",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Sight_of_the_city_from_the_top_of_Xing'an_Tower,_Yichun,_Heilongjiang,_China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Administrative_Division_Yichun_%28Heilongjiang%29.png/1280px-Administrative_Division_Yichun_%28Heilongjiang%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Administrative Division Yichun (Heilongjiang).png",
-   "author": "Chk2011",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Administrative_Division_Yichun_(Heilongjiang).png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DF11-0414_at_Yichun_Railway_Station%2C_Heilongjiang_20251005.jpg/1280px-DF11-0414_at_Yichun_Railway_Station%2C_Heilongjiang_20251005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "DF11-0414 at Yichun Railway Station, Heilongjiang 20251005.jpg",
-   "author": "0612",
-   "license": "CC BY 4.0",
-   "credit": "森林中的DF11",
-   "source": "https://commons.wikimedia.org/wiki/File:DF11-0414_at_Yichun_Railway_Station,_Heilongjiang_20251005.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Wikivoyage_banner_of_Yichun.jpg/1280px-Wikivoyage_banner_of_Yichun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Wikivoyage banner of Yichun.jpg",
-   "author": "Xwn0122",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Wikivoyage_banner_of_Yichun.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Yichun_Pagebanner_%28maybe%29.jpg/1280px-Yichun_Pagebanner_%28maybe%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yichun Pagebanner (maybe).jpg",
-   "author": "Xwn0122",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yichun_Pagebanner_(maybe).jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 47.752056,
     "lon": 129.019125,
     "type": "medium_airport",
-    "distance_km": 85.7
+    "distance_km": 85.7,
+    "name_zh": "伊春林都机场"
    },
    {
     "name": "Jiamusi Songjiang International Airport",
@@ -88,7 +48,8 @@
     "lat": 46.842793,
     "lon": 130.46426,
     "type": "medium_airport",
-    "distance_km": 195.5
+    "distance_km": 195.5,
+    "name_zh": "佳木斯松江国际机场"
    },
    {
     "name": "Heihe Aihui Airport",
@@ -98,7 +59,8 @@
     "lat": 50.171621,
     "lon": 127.308884,
     "type": "medium_airport",
-    "distance_km": 245.5
+    "distance_km": 245.5,
+    "name_zh": "黑河机场"
    }
   ],
   "nearest_airport_km": 85.7,
@@ -161,8 +123,8 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -194,12 +156,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/伊春市"
+   "url": "https://zh.wikipedia.org/wiki/林海峰 (香港)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

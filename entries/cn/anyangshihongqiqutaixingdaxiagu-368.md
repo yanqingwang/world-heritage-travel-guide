@@ -2,7 +2,7 @@
 id: "cn-368"
 dataset: "china_5a"
 name_zh: "安阳市红旗渠-太行大峡谷旅游景区"
-name_en: "Anyangshihongqiqu-taixingdaxiagu Scenic Area"
+name_en: "Red Flag Canal"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Henan"
 city_en: "Anyang"
 lat: 36.152012
 lon: 113.826832
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 安阳市红旗渠-太行大峡谷旅游景区 / Anyangshihongqiqu-taixingdaxiagu Scenic Area
+# 安阳市红旗渠-太行大峡谷旅游景区 / Red Flag Canal
 
 > 河南省 · 安阳市 · 历史遗址
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Hongqi Canal·Taihang Grand Canyon Scenic Area includes two main scenic areas: Hongqi Canal and Taihang Grand Canyon. The Hongqi Canal is known as the artificial Tianhe, the eighth wonder of the world, and the Great Water Wall of China. The scenic spots include the Youth Cave of the Hongqi Canal, the Hongqi Canal Water Dividing Garden, the Hongqi Canal Memorial Hall, and Luositan. Taihang Grand Canyon includes Peach Blossom Valley, Taiji Mountain, Wangxiang Rock and other landscapes.
-
-*English introduction: machine translation.*
+The Red Flag Canal (Chinese: 红旗渠; pinyin: Hóngqí qú) is an irrigation canal located 80 km (50 mi) northwest of Anyang in the northern extremity of Henan, China.
 
 ## 交通 / Transport
 
@@ -71,9 +69,10 @@ Hongqi Canal·Taihang Grand Canyon Scenic Area includes two main scenic areas: H
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/红旗渠)
 - [OpenStreetMap](https://www.openstreetmap.org/)

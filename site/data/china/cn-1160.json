@@ -10,8 +10,8 @@
  "city_zh": "湘潭市",
  "city_en": "Xiangtan City",
  "name_zh": "湘潭市韶山旅游区",
- "name_en": "Xiangtan",
- "name_en_source": "wikipedia",
+ "name_en": "Shaoshanzhan Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "xiangtanshishaoshan-1160",
  "lat": 27.910503,
  "lon": 112.49678,
@@ -22,26 +22,9 @@
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
  "intro_zh": "韶山是伟大领袖毛泽东的故乡，也是毛泽东青少年时期生活、学习、劳动和早期从事革命活动的地方。韶山历史源远流长，古属荆楚，因舜帝南巡至此演奏韶乐而得名，区内钟灵毓秀，风光旖旎，人文景观和自然景观交相辉映。",
- "intro_en": "Xiangtan (Chinese: 湘潭) is a prefecture-level city in east-central Hunan province, south-central China. The hometowns of several founding leaders of the Chinese Communist Party, including Chairman Mao Zedong, President Liu Shaoqi, and Marshal Peng Dehuai, are in Xiangtan's administration, as well as the hometowns of Qing dynasty and republic era painter Qi Baishi, Confucian scholar-general Zeng Guofan, and tennis player Peng Shuai. Xiangtan forms a part of the Greater Changsha Metropolitan Region with Changsha as the core city along with Zhuzhou, also known as Changzhutan City Cluster, one of the core cities in Central China. Xiangtan is one of the top 200 cities in the world by scientific research outputs, as tracked by the Nature Index. It is home to Xiangtan University, a Double First-Class Construction university, and two provincial key public universities of Hunan Institute of Engineering and Hunan University of Science and Technology, as well as a high-tech industrial development zone.",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Baishipark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Baishipark.jpg",
-   "author": "Photo taken by Efm",
-   "license": "CC BY-SA 3.0",
-   "credit": "From zh wiki",
-   "source": "https://commons.wikimedia.org/wiki/File:Baishipark.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E9%95%BF%E6%B2%99%E5%B8%82%E9%9B%A8%E8%8A%B1%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81.pdf/page1-960px-%E9%95%BF%E6%B2%99%E5%B8%82%E9%9B%A8%E8%8A%B1%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "长沙市雨花区国民经济和社会发展第十四个五年规划纲要.pdf",
-   "author": "长沙市雨花区第五届人民代表大会",
-   "license": "Public domain",
-   "credit": "http://www.yuhua.gov.cn/zwgk97/jcxxgk/ghjh/gmjjhshfzgh/202102/P020210203398215441632.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:%E9%95%BF%E6%B2%99%E5%B8%82%E9%9B%A8%E8%8A%B1%E5%8C%BA%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%AA%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81.pdf"
-  }
- ],
+ "intro_en": "Shaoshan is the hometown of the great leader Mao Zedong. It is also the place where Mao Zedong lived, studied, worked and engaged in revolutionary activities in his early youth. Shaoshan has a long history. It belonged to Jingchu in ancient times. It got its name because Emperor Shun came here to perform Shao music during his tour to the south. The area has beautiful bells, beautiful scenery, and the cultural and natural landscapes complement each other.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -54,7 +37,8 @@
     "lat": 28.189199,
     "lon": 113.220001,
     "type": "large_airport",
-    "distance_km": 77.4
+    "distance_km": 77.4,
+    "name_zh": "长沙黄花国际机场"
    },
    {
     "name": "Hengyang Nanyue Airport",
@@ -64,7 +48,8 @@
     "lat": 26.72208,
     "lon": 112.617958,
     "type": "medium_airport",
-    "distance_km": 132.7
+    "distance_km": 132.7,
+    "name_zh": "衡阳南岳机场"
    },
    {
     "name": "Changde Taohuayuan Airport",
@@ -74,7 +59,8 @@
     "lat": 28.9189,
     "lon": 111.639999,
     "type": "medium_airport",
-    "distance_km": 140.0
+    "distance_km": 140.0,
+    "name_zh": "常德桃花源机场"
    }
   ],
   "nearest_airport_km": 77.4,
@@ -179,11 +165,10 @@
  "hotels_nearby_30km": 6,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -202,7 +187,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -213,12 +198,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/湘潭市"
+   "url": "https://zh.wikipedia.org/wiki/韶山站"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

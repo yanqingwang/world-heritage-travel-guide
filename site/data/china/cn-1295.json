@@ -24,48 +24,7 @@
  "intro_zh": "盘山位于天津市蓟州区，始记于汉，兴于唐，极盛于清，是自然山水与名胜古迹并著，佛家文化与皇家文化共融的旅游休闲胜地。历史上众多帝王将相、文人墨客来到此地。相传清乾隆皇帝先后巡幸盘山32次，留下了大量歌咏盘山的诗作，并发出“早知有盘山，何必下江南”的感叹。",
  "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Water-of-Five-colored-Pond Huanglong Sichuan China.jpg",
-   "author": "Kounosu",
-   "license": "CC BY-SA 3.0",
-   "credit": "Self-photographed",
-   "source": "https://commons.wikimedia.org/wiki/File:Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Pan_shan.jpg/1280px-Pan_shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Pan shan.jpg",
-   "author": "Fanghong",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Pan_shan.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/%E6%AE%8A%E8%83%9C%40%E7%9B%98%E5%B1%B1.jpg/1280px-%E6%AE%8A%E8%83%9C%40%E7%9B%98%E5%B1%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "殊胜@盘山.jpg",
-   "author": "Shizhao",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:殊胜@盘山.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio.jpg/1280px-%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "盘山 - Mount Panshan - 2015.10 - panoramio.jpg",
-   "author": "rheins",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161101015748/http://www.panoramio.com/photo/125087450",
-   "source": "https://commons.wikimedia.org/wiki/File:盘山_-_Mount_Panshan_-_2015.10_-_panoramio.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio_%281%29.jpg/1280px-%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "盘山 - Mount Panshan - 2015.10 - panoramio (1).jpg",
-   "author": "rheins",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161102232012/http://www.panoramio.com/photo/125087470",
-   "source": "https://commons.wikimedia.org/wiki/File:盘山_-_Mount_Panshan_-_2015.10_-_panoramio_(1).jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "http://www.chinapanshan.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 40.077349,
     "lon": 116.596702,
     "type": "large_airport",
-    "distance_km": 59.6
+    "distance_km": 59.6,
+    "name_zh": "北京首都国际机场"
    },
    {
     "name": "Tangshan Sannühe Airport",
@@ -88,7 +48,8 @@
     "lat": 39.7178,
     "lon": 118.002625,
     "type": "small_airport",
-    "distance_km": 73.4
+    "distance_km": 73.4,
+    "name_zh": "唐山三女河机场"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -98,7 +59,8 @@
     "lat": 39.501289,
     "lon": 116.413967,
     "type": "large_airport",
-    "distance_km": 100.2
+    "distance_km": 100.2,
+    "name_zh": "北京大兴国际机场"
    }
   ],
   "nearest_airport_km": 59.6,
@@ -234,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

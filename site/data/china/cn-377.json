@@ -78,7 +78,8 @@
     "lat": 34.7411,
     "lon": 112.388,
     "type": "large_airport",
-    "distance_km": 42.5
+    "distance_km": 42.5,
+    "name_zh": "洛阳北郊机场"
    },
    {
     "name": "Yuncheng Yanhu International Airport",
@@ -88,7 +89,8 @@
     "lat": 35.117823,
     "lon": 111.034023,
     "type": "large_airport",
-    "distance_km": 91.3
+    "distance_km": 91.3,
+    "name_zh": "运城盐湖国际机场"
    },
    {
     "name": "Linfen Yaodu Airport",
@@ -98,7 +100,8 @@
     "lat": 36.132629,
     "lon": 111.641236,
     "type": "medium_airport",
-    "distance_km": 132.9
+    "distance_km": 132.9,
+    "name_zh": "临汾乔李机场"
    }
   ],
   "nearest_airport_km": 42.5,
@@ -188,5 +191,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -37,7 +37,8 @@
     "lat": 21.481667,
     "lon": 110.590278,
     "type": "large_airport",
-    "distance_km": 137.6
+    "distance_km": 137.6,
+    "name_zh": "湛江机场"
    },
    {
     "name": "Zhuhai Jinwan Airport",
@@ -47,7 +48,8 @@
     "lat": 22.006399,
     "lon": 113.375999,
     "type": "large_airport",
-    "distance_km": 156.0
+    "distance_km": 156.0,
+    "name_zh": "珠海机场"
    },
    {
     "name": "Macau International Airport",
@@ -57,7 +59,8 @@
     "lat": 22.149599,
     "lon": 113.592003,
     "type": "large_airport",
-    "distance_km": 181.1
+    "distance_km": 181.1,
+    "name_zh": "澳门国际机场"
    }
   ],
   "nearest_airport_km": 137.6,
@@ -182,5 +185,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -62,7 +62,8 @@
     "lat": 29.342095,
     "lon": 120.03116,
     "type": "large_airport",
-    "distance_km": 69.9
+    "distance_km": 69.9,
+    "name_zh": "义乌机场"
    },
    {
     "name": "Wenzhou Longwan International Airport",
@@ -72,7 +73,8 @@
     "lat": 27.910572,
     "lon": 120.853465,
     "type": "large_airport",
-    "distance_km": 117.4
+    "distance_km": 117.4,
+    "name_zh": "温州龙湾国际机场"
    },
    {
     "name": "Quzhou Airport",
@@ -82,7 +84,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 118.0
+    "distance_km": 118.0,
+    "name_zh": "衢州机场"
    }
   ],
   "nearest_airport_km": 69.9,
@@ -184,5 +187,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

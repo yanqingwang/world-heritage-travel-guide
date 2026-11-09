@@ -78,7 +78,8 @@
     "lat": 37.746899,
     "lon": 112.627998,
     "type": "large_airport",
-    "distance_km": 40.5
+    "distance_km": 40.5,
+    "name_zh": "太原武宿国际机场"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -88,7 +89,8 @@
     "lat": 37.683333,
     "lon": 111.142778,
     "type": "medium_airport",
-    "distance_km": 119.0
+    "distance_km": 119.0,
+    "name_zh": "吕梁机场"
    },
    {
     "name": "Xinzhou Wutaishan Airport",
@@ -98,7 +100,8 @@
     "lat": 38.597456,
     "lon": 112.969173,
     "type": "small_airport",
-    "distance_km": 139.5
+    "distance_km": 139.5,
+    "name_zh": "五台山机场"
    }
   ],
   "nearest_airport_km": 40.5,
@@ -188,5 +191,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

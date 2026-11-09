@@ -78,7 +78,8 @@
     "lat": 43.996201,
     "lon": 125.684998,
     "type": "large_airport",
-    "distance_km": 33.3
+    "distance_km": 33.3,
+    "name_zh": "长春龙嘉国际机场"
    },
    {
     "name": "Songyuan Chaganhu Airport",
@@ -88,7 +89,8 @@
     "lat": 44.931143,
     "lon": 124.552121,
     "type": "medium_airport",
-    "distance_km": 137.7
+    "distance_km": 137.7,
+    "name_zh": "松原查干湖机场"
    },
    {
     "name": "Tonghua Sanyuanpu Airport",
@@ -98,7 +100,8 @@
     "lat": 42.048435,
     "lon": 125.733963,
     "type": "medium_airport",
-    "distance_km": 200.5
+    "distance_km": 200.5,
+    "name_zh": "通化三源浦机场"
    }
   ],
   "nearest_airport_km": 33.3,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

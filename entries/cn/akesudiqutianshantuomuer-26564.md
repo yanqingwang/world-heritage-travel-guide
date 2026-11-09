@@ -2,7 +2,7 @@
 id: "cn-26564"
 dataset: "china_5a"
 name_zh: "阿克苏地区天山托木尔景区"
-name_en: "Tuomuerfeng Scenic Area"
+name_en: "Jengish Chokusu"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,34 @@ province_en: "Xinjiang"
 city_en: "Aksu Prefecture"
 lat: 41.725426
 lon: 80.558971
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:13Z"
 ---
 
-# 阿克苏地区天山托木尔景区 / Tuomuerfeng Scenic Area
+# 阿克苏地区天山托木尔景区 / Jengish Chokusu
 
 > 新疆维吾尔自治区 · 阿克苏地区 · 草原沙漠
 
 ## 图片 / Images
 
-![塔克拉克牧场 - panoramio (3).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%E5%A1%94%E5%85%8B%E6%8B%89%E5%85%8B%E7%89%A7%E5%9C%BA_-_panoramio_%283%29.jpg/1280px-%E5%A1%94%E5%85%8B%E6%8B%89%E5%85%8B%E7%89%A7%E5%9C%BA_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Jengish Chokusu (Victory Peak, Pik Pobeda), Southern Inylchek Glacier, Tien Shan — Golden Hour.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Jengish_Chokusu_%28Victory_Peak%2C_Pik_Pobeda%29%2C_Southern_Inylchek_Glacier%2C_Tien_Shan_%E2%80%94_Golden_Hour.jpg/1280px-Jengish_Chokusu_%28Victory_Peak%2C_Pik_Pobeda%29%2C_Southern_Inylchek_Glacier%2C_Tien_Shan_%E2%80%94_Golden_Hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*塔克拉克牧场 - panoramio (3).jpg · landagent · CC BY-SA 3.0*
+*Jengish Chokusu (Victory Peak, Pik Pobeda), Southern Inylchek Glacier, Tien Shan — Golden Hour.jpg · Maryliflower · CC BY-SA 4.0*
 
-![20231215 Aksu Prefecture No. 2 Peoples Hospital.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/20231215_Aksu_Prefecture_No._2_Peoples_Hospital.jpg/1280px-20231215_Aksu_Prefecture_No._2_Peoples_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Jengish Chokusu from BC.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jengish_Chokusu_from_BC.jpg/1280px-Jengish_Chokusu_from_BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*20231215 Aksu Prefecture No. 2 Peoples Hospital.jpg · Windmemories · CC BY-SA 4.0*
+*Jengish Chokusu from BC.jpg · Chen Zhao · CC BY 2.0*
 
-![20240322 Aksu Prefecture No. 1 People's Hospital.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/20240322_Aksu_Prefecture_No._1_People%27s_Hospital.jpg/1280px-20240322_Aksu_Prefecture_No._1_People%27s_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Pik Pobedy and Vazha-Pshavela Peak at sunset from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Pik_Pobedy_and_Vazha-Pshavela_Peak_at_sunset_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg/1280px-Pik_Pobedy_and_Vazha-Pshavela_Peak_at_sunset_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*20240322 Aksu Prefecture No. 1 People's Hospital.jpg · Windmemories · CC BY-SA 4.0*
+*Pik Pobedy and Vazha-Pshavela Peak at sunset from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg · Maryliflower · CC BY-SA 4.0*
 
-![Aksu mcp.png](https://upload.wikimedia.org/wikipedia/commons/0/05/Aksu_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Pik Pobedy and Vazha-Pshavela Peak in clouds from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Pik_Pobedy_and_Vazha-Pshavela_Peak_in_clouds_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg/1280px-Pik_Pobedy_and_Vazha-Pshavela_Peak_in_clouds_from_South_Engilchek_Base_Camp%2C_Central_Tian_Shan%2C_Kyrgyzstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Aksu mcp.png · Maggern · CC0*
+*Pik Pobedy and Vazha-Pshavela Peak in clouds from South Engilchek Base Camp, Central Tian Shan, Kyrgyzstan.jpg · Maryliflower · CC BY-SA 4.0*
 
-![Location of Aksu Prefecture within Xinjiang (China).png](https://upload.wikimedia.org/wikipedia/commons/0/0b/Location_of_Aksu_Prefecture_within_Xinjiang_%28China%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Rock cairn on the South Inylchek Glacier, with Jengish Chokusu (Victory Peak) in the background, Khan Tengri Nature Park, Tien Shan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Rock_cairn_on_the_South_Inylchek_Glacier%2C_with_Jengish_Chokusu_%28Victory_Peak%29_in_the_background%2C_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg/1280px-Rock_cairn_on_the_South_Inylchek_Glacier%2C_with_Jengish_Chokusu_%28Victory_Peak%29_in_the_background%2C_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Location of Aksu Prefecture within Xinjiang (China).png · Croquant · CC BY 3.0*
+*Rock cairn on the South Inylchek Glacier, with Jengish Chokusu (Victory Peak) in the background, Khan Tengri Nature Park, Tien Shan.jpg · Maryliflower · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-The Aksu region, with its magnificent natural scenery, has the highest peak in the Tianshan Mountains - Tomur Peak; the world's second largest mobile desert - the Taklamakan Desert; the country's longest inland river - the Tarim River; the world's largest and best-preserved primitive Populus euphratica forest; the national nature reserve - Tomur Peak Nature Reserve; and natural scenic spots such as the Yadan Landform, Wensu Grand Canyon, and the Tianshan Sacred Wood Garden. The natural scenery embodies the culmination of northern and southern Xinjiang.
-
-*English introduction: machine translation.*
+The Jengish Chokusu is the highest mountain in the Tian Shan mountain system in Central Asia at 7,439 metres (24,406 ft). It lies on the China–Kyrgyzstan border between the Ak-Suu District in the Issyk-Kul Region of far eastern Kyrgyzstan and Wensu County, Xinjiang, China. It is part of the Kakshaal Too, the highest part of the Tian Shan, and is southeast of lake Issyk-Kul. Jengish Chokusu is the 16th most prominent peak on Earth.
 
 ## 交通 / Transport
 
@@ -69,7 +67,7 @@ The Aksu region, with its magnificent natural scenery, has the highest peak in t
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

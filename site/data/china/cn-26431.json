@@ -78,7 +78,8 @@
     "lat": 44.931143,
     "lon": 124.552121,
     "type": "medium_airport",
-    "distance_km": 32.3
+    "distance_km": 32.3,
+    "name_zh": "松原查干湖机场"
    },
    {
     "name": "Baicheng Chang'an Airport",
@@ -88,7 +89,8 @@
     "lat": 45.505278,
     "lon": 123.019722,
     "type": "medium_airport",
-    "distance_km": 115.8
+    "distance_km": 115.8,
+    "name_zh": "白城长安机场"
    },
    {
     "name": "Harbin Taiping International Airport",
@@ -98,7 +100,8 @@
     "lat": 45.623402,
     "lon": 126.25,
     "type": "large_airport",
-    "distance_km": 148.4
+    "distance_km": 148.4,
+    "name_zh": "哈尔滨太平国际机场"
    }
   ],
   "nearest_airport_km": 32.3,
@@ -190,5 +193,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

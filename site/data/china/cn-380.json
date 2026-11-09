@@ -46,7 +46,8 @@
     "lat": 18.3029,
     "lon": 109.412003,
     "type": "large_airport",
-    "distance_km": 42.8
+    "distance_km": 42.8,
+    "name_zh": "三亚凤凰国际机场"
    },
    {
     "name": "Qionghai Bo'ao Airport",
@@ -56,7 +57,8 @@
     "lat": 19.140951,
     "lon": 110.452766,
     "type": "medium_airport",
-    "distance_km": 110.6
+    "distance_km": 110.6,
+    "name_zh": "琼海博鳌机场"
    },
    {
     "name": "Haikou Meilan International Airport",
@@ -66,7 +68,8 @@
     "lat": 19.9349,
     "lon": 110.459,
     "type": "large_airport",
-    "distance_km": 171.2
+    "distance_km": 171.2,
+    "name_zh": "海口美兰国际机场"
    }
   ],
   "nearest_airport_km": 42.8,
@@ -169,5 +172,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

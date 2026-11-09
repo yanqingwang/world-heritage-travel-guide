@@ -78,7 +78,8 @@
     "lat": 30.554132,
     "lon": 111.482563,
     "type": "medium_airport",
-    "distance_km": 33.4
+    "distance_km": 33.4,
+    "name_zh": "宜昌三峡机场"
    },
    {
     "name": "Jingzhou Shashi Airport",
@@ -88,7 +89,8 @@
     "lat": 30.29281,
     "lon": 112.44854,
     "type": "medium_airport",
-    "distance_km": 126.6
+    "distance_km": 126.6,
+    "name_zh": "荆州沙市机场"
    },
    {
     "name": "Shennongjia Hongping Airport",
@@ -98,7 +100,8 @@
     "lat": 31.626,
     "lon": 110.34,
     "type": "medium_airport",
-    "distance_km": 149.3
+    "distance_km": 149.3,
+    "name_zh": "神农架红坪机场"
    }
   ],
   "nearest_airport_km": 33.4,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

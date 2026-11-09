@@ -62,7 +62,8 @@
     "lat": 34.059056,
     "lon": 117.555278,
     "type": "medium_airport",
-    "distance_km": 52.9
+    "distance_km": 52.9,
+    "name_zh": "徐州观音机场"
    },
    {
     "name": "Linyi Qiyang Airport",
@@ -72,7 +73,8 @@
     "lat": 35.052918,
     "lon": 118.411828,
     "type": "medium_airport",
-    "distance_km": 94.7
+    "distance_km": 94.7,
+    "name_zh": "临沂启阳国际机场"
    },
    {
     "name": "Jining Da'an Airport",
@@ -82,7 +84,8 @@
     "lat": 35.647358,
     "lon": 116.743269,
     "type": "medium_airport",
-    "distance_km": 145.8
+    "distance_km": 145.8,
+    "name_zh": "济宁大安机场"
    }
   ],
   "nearest_airport_km": 52.9,
@@ -184,5 +187,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

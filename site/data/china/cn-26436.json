@@ -78,7 +78,8 @@
     "lat": 24.543889,
     "lon": 118.127454,
     "type": "large_airport",
-    "distance_km": 10.1
+    "distance_km": 10.1,
+    "name_zh": "厦门高崎国际机场"
    },
    {
     "name": "Kinmen Airport",
@@ -88,7 +89,8 @@
     "lat": 24.4279,
     "lon": 118.359001,
     "type": "medium_airport",
-    "distance_km": 24.7
+    "distance_km": 24.7,
+    "name_zh": "金门机场"
    },
    {
     "name": "Quanzhou Jinjiang International Airport",
@@ -98,7 +100,8 @@
     "lat": 24.795855,
     "lon": 118.588599,
     "type": "large_airport",
-    "distance_km": 61.0
+    "distance_km": 61.0,
+    "name_zh": "泉州晋江机场"
    }
   ],
   "nearest_airport_km": 10.1,
@@ -157,35 +160,35 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "全季酒店",
-   "name_en": "Ji Hotel",
-   "stars": null,
-   "brand": "全季酒店",
-   "lat": 24.4702525,
-   "lon": 118.1038204,
-   "distance_km": 2.2,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "如家酒店",
-   "name_en": "Home Inn",
-   "stars": null,
-   "brand": "如家酒店",
-   "lat": 24.4741549,
-   "lon": 118.1087633,
-   "distance_km": 2.4,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "亚朵酒店",
-   "name_en": "Atour",
+   "name": "厦门佳逸希尔顿格芮精选酒店",
+   "name_en": "Joyze Hotel Xiamen, Curio Collection By Hilton",
    "stars": null,
    "brand": null,
-   "lat": 24.4645869,
-   "lon": 118.0961484,
+   "lat": 24.4321504,
+   "lon": 118.1162657,
    "distance_km": 2.4,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "凯宾斯基大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.4752515,
+   "lon": 118.0956464,
+   "distance_km": 3.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金色四季酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.4877436,
+   "lon": 118.1168305,
+   "distance_km": 3.7,
    "kind": "chain",
    "source": "OpenStreetMap"
   }
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

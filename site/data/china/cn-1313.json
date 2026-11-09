@@ -78,7 +78,8 @@
     "lat": 27.883333,
     "lon": 109.308889,
     "type": "medium_airport",
-    "distance_km": 52.1
+    "distance_km": 52.1,
+    "name_zh": "铜仁凤凰机场"
    },
    {
     "name": "Huaihua Zhijiang Airport",
@@ -88,7 +89,8 @@
     "lat": 27.443087,
     "lon": 109.704666,
     "type": "medium_airport",
-    "distance_km": 101.5
+    "distance_km": 101.5,
+    "name_zh": "怀化芷江机场"
    },
    {
     "name": "Xiangxi Biancheng Airport",
@@ -98,7 +100,8 @@
     "lat": 28.4972,
     "lon": 109.5218,
     "type": "small_airport",
-    "distance_km": 102.5
+    "distance_km": 102.5,
+    "name_zh": "湘西边城机场"
    }
   ],
   "nearest_airport_km": 52.1,
@@ -201,5 +204,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

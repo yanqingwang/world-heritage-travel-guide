@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Baotinglizumiaozuzizhi County"
 lat: 18.882055
 lon: 109.67537
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 保亭县海南槟榔谷黎苗文化旅游区 / Wuzhi Mountain
@@ -28,9 +28,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-The scenic spot consists of seven cultural experience areas including the Intangible Cultural Heritage Village, Ganshili Village, Guyin Miao Family, Tianyi Li Family, the large-scale live performance of "Betel Nut·Ancient Rhythm", the Orchid Cabin, and the Limiao and Miao flavor food street. It has beautiful scenery and is one of the main venues for the traditional "March 3rd" and "Qixi Festival" activities of the Hainan Li and Miao people.
-
-*English introduction: machine translation.*
+Wuzhi Mountain (Chinese: 五指山; pinyin: Wǔzhǐ Shān; lit. 'Five Finger Mountain') is the highest mountain in Hainan, China, towering 1,840 metres (6,040 ft) above the center of Hainan Island. The surrounding areas of Wuzhi Mountain are inhabited mainly by the Li ethnic group. It is located adjacent to Wuzhishan City but is not part of that city's administrative area. Various Li myths concern the name for the mountain (Five Finger Mountain) and its formation. One legend has it that the five mountain peaks are the fossilized fingers of a dead Li clan chief. Another tale is that the five peaks are dedicated to the five most powerful Li gods. Numerous historical poems have also been written about the mountain, the most famous of all by the Hainan writer, Qiujun.
 
 ## 交通 / Transport
 

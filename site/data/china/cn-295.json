@@ -37,7 +37,8 @@
     "lat": 29.311699,
     "lon": 113.281574,
     "type": "medium_airport",
-    "distance_km": 72.4
+    "distance_km": 72.4,
+    "name_zh": "岳阳三荷机场"
    },
    {
     "name": "Wuhan Tianhe International Airport",
@@ -47,7 +48,8 @@
     "lat": 30.774798,
     "lon": 114.213723,
     "type": "large_airport",
-    "distance_km": 113.4
+    "distance_km": 113.4,
+    "name_zh": "武汉天河国际机场"
    },
    {
     "name": "Jingzhou Shashi Airport",
@@ -57,7 +59,8 @@
     "lat": 30.29281,
     "lon": 112.44854,
     "type": "medium_airport",
-    "distance_km": 123.0
+    "distance_km": 123.0,
+    "name_zh": "荆州沙市机场"
    }
   ],
   "nearest_airport_km": 72.4,
@@ -147,5 +150,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

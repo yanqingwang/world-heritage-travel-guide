@@ -2,7 +2,7 @@
 id: "cn-339"
 dataset: "china_5a"
 name_zh: "苏州市同里古镇景区"
-name_en: "Suzhoushitongliguzhen Scenic Area"
+name_en: "Tongli station"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.156127
 lon: 120.729409
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 苏州市同里古镇景区 / Suzhoushitongliguzhen Scenic Area
+# 苏州市同里古镇景区 / Tongli station
 
 > 江苏省 · 苏州市 · 古镇村落
-
-## 图片 / Images
-
-![东方之门1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg/1280px-%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*东方之门1.jpg · 铁头娃蛤蛤 · CC BY-SA 4.0*
-
-![State Council Gazette - 2019 - Issue 30.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 30.pdf · General Office of the State Council · Public domain*
-
-![State Council Gazette - 2019 - Issue 35.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/State_Council_Gazette_-_2019_-_Issue_35.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_35.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2019 - Issue 35.pdf · General Office of the State Council · Public domain*
-
-![State Council Gazette - 2020 - Issue 14.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/State_Council_Gazette_-_2020_-_Issue_14.pdf/page1-960px-State_Council_Gazette_-_2020_-_Issue_14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*State Council Gazette - 2020 - Issue 14.pdf · General Office of the State Council · Public domain*
-
-![中长期铁路网规划 (2016).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%E4%B8%AD%E9%95%BF%E6%9C%9F%E9%93%81%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92_%282016%29.pdf/page1-960px-%E4%B8%AD%E9%95%BF%E6%9C%9F%E9%93%81%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92_%282016%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*中长期铁路网规划 (2016).pdf · National Development and Reform Commission of the People's Republic of China, Ministry of Transport of the People's Repu · Public domain*
 
 ## 简介 / Introduction
 
@@ -50,9 +28,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Tongli Town is an ancient town with a long history and typical water town style. The town is divided into 7 small islands vertically and horizontally by 15 rivers, connected by 49 bridges. Tongli is famous at home and abroad for its characteristics of "an authentic water town, like the south of the Yangtze River in the old days".
-
-*English introduction: machine translation.*
+Tongli (Chinese: 同里) is a station on Line 4 of the Suzhou Metro, and the southern terminus of Line 4. The station is located in the Wujiang District of Suzhou. It has been in use since April 15, 2017, the same time of the operation of Line 4.
 
 ## 交通 / Transport
 
@@ -80,4 +56,5 @@ Tongli Town is an ancient town with a long history and typical water town style.
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/同里站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

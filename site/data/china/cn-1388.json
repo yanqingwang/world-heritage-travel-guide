@@ -78,7 +78,8 @@
     "lat": 29.82670021057129,
     "lon": 121.46199798583984,
     "type": "large_airport",
-    "distance_km": 9.8
+    "distance_km": 9.8,
+    "name_zh": "宁波栎社国际机场"
    },
    {
     "name": "Zhoushan Putuoshan International Airport",
@@ -88,7 +89,8 @@
     "lat": 29.933874,
     "lon": 122.362307,
     "type": "large_airport",
-    "distance_km": 79.1
+    "distance_km": 79.1,
+    "name_zh": "舟山普陀山国际机场"
    },
    {
     "name": "Hangzhou Xiaoshan International Airport",
@@ -98,7 +100,8 @@
     "lat": 30.23609,
     "lon": 120.428865,
     "type": "large_airport",
-    "distance_km": 114.6
+    "distance_km": 114.6,
+    "name_zh": "杭州萧山国际机场"
    }
   ],
   "nearest_airport_km": 9.8,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

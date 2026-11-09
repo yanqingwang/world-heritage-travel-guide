@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Jinan"
 lat: 36.670473
 lon: 117.02025
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 济南市天下第一泉景区 / Tianxiadiyiquan Scenic Area

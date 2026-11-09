@@ -22,50 +22,9 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "水洞沟是中国最早发掘的旧石器时代文化遗址。独特的雅丹地貌鬼斧神工地造就了魔鬼城、摩天崖、大峡谷等奇绝景观，它们和蓝天、碧水、断崖、芦苇、鸳鸯、野鸭共同构筑了宁静逸然的世外桃源。",
- "intro_en": "Shuidonggou is the earliest Paleolithic cultural site excavated in China. The unique Yadan landform and uncanny construction sites have created extraordinary landscapes such as Devil City, skyscraper cliffs, and grand canyons. Together with the blue sky, clear water, cliffs, reeds, mandarin ducks, and wild ducks, they create a peaceful paradise.",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Yinchuan_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Yinchuan Montage.jpg",
-   "author": "Montage by Lzy881114",
-   "license": "CC BY-SA 3.0",
-   "credit": "All CC/PD sources: File:Yinchuan aerial.JPG File:YinchuanWestPagoda.jpg File:YichuanDrumTower.jpg File:YinchuanMosque2.jpg",
-   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_Montage.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan-location-MAP-in-Ningxia-Province-in-China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Yinchuan_-_53725808820.jpg/1280px-Yinchuan_-_53725808820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yinchuan - 53725808820.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/photos/xiquinho/53725808820/",
-   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_-_53725808820.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Yinchuan_Yuhuang_Pavilion_-_53725809745_%282024%29.jpg/1280px-Yinchuan_Yuhuang_Pavilion_-_53725809745_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yinchuan Yuhuang Pavilion - 53725809745 (2024).jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/photos/xiquinho/53725809745/",
-   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_Yuhuang_Pavilion_-_53725809745_(2024).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yinchuan_railway_station_53725805445.jpg/1280px-Yinchuan_railway_station_53725805445.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yinchuan railway station 53725805445.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/photos/xiquinho/53725805445/",
-   "source": "https://commons.wikimedia.org/wiki/File:Yinchuan_railway_station_53725805445.jpg"
-  }
- ],
+ "intro_en": "Shuidonggou is an archaeological site and tourist attraction in Ordos, Yinchuan, Ningxia. It is the earliest paleolithic site in China, dating from over 30,000 years ago, and one of the AAAAA Tourist Attractions of China, a list of the most important and best-maintained tourist attractions in the People's Republic of China.",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "https://www.shuidonggou.com/",
  "booking": "https://www.shuidonggou.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 38.322758,
     "lon": 106.393214,
     "type": "large_airport",
-    "distance_km": 11.1
+    "distance_km": 11.1,
+    "name_zh": "银川河东机场"
    },
    {
     "name": "Alxa Left Banner Bayanhot Airport",
@@ -88,7 +48,8 @@
     "lat": 38.748317,
     "lon": 105.58416,
     "type": "medium_airport",
-    "distance_km": 95.4
+    "distance_km": 95.4,
+    "name_zh": "阿拉善左旗巴彦浩特机场"
    },
    {
     "name": "Zhongwei Shapotou Airport",
@@ -98,7 +59,8 @@
     "lat": 37.573125,
     "lon": 105.154454,
     "type": "medium_airport",
-    "distance_km": 143.9
+    "distance_km": 143.9,
+    "name_zh": "中卫沙坡头机场"
    }
   ],
   "nearest_airport_km": 11.1,
@@ -244,5 +206,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

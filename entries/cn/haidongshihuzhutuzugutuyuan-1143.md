@@ -13,7 +13,7 @@ province_en: "Qinghai"
 city_en: "Haidong Prefecture"
 lat: 36.83836
 lon: 101.953566
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 海东市互助土族故土园旅游区 / Haidongshihuzhutuzugutuyuan Tourist Area
@@ -60,4 +60,5 @@ The Huzhu Tu Nationality Hometown Park Scenic Area is a comprehensive tourist at
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/五峰镇 (互助土族自治县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

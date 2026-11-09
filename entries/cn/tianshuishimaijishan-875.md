@@ -13,34 +13,12 @@ province_en: "Gansu"
 city_en: "Tianshui City"
 lat: 34.371083
 lon: 106.008607
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 天水市麦积山景区 / Maijishan Grottoes
 
 > 甘肃省 · 天水市 · 石窟艺术
-
-## 图片 / Images
-
-![鸟瞰天水 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%E9%B8%9F%E7%9E%B0%E5%A4%A9%E6%B0%B4_-_panoramio.jpg/1280px-%E9%B8%9F%E7%9E%B0%E5%A4%A9%E6%B0%B4_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*鸟瞰天水 - panoramio.jpg · ❤的方向 · CC BY-SA 3.0*
-
-![Immortal Lake of Xianren Cliff, Tianshui 20260929.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Immortal_Lake_of_Xianren_Cliff%2C_Tianshui_20260929.jpg/1280px-Immortal_Lake_of_Xianren_Cliff%2C_Tianshui_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Immortal Lake of Xianren Cliff, Tianshui 20260929.jpg · 颐园居 · CC BY-SA 4.0*
-
-![Lingying Temple of Xianren Cliff 20260929.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lingying_Temple_of_Xianren_Cliff_20260929.jpg/1280px-Lingying_Temple_of_Xianren_Cliff_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Lingying Temple of Xianren Cliff 20260929.jpg · 颐园居 · CC BY-SA 4.0*
-
-![South Cliff of Xianren Cliff, Tianshui 20260929.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/South_Cliff_of_Xianren_Cliff%2C_Tianshui_20260929.jpg/1280px-South_Cliff_of_Xianren_Cliff%2C_Tianshui_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*South Cliff of Xianren Cliff, Tianshui 20260929.jpg · 颐园居 · CC BY-SA 4.0*
-
-![Tianshui Xianren Cliff 20260929.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tianshui_Xianren_Cliff_20260929.jpg/1280px-Tianshui_Xianren_Cliff_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Tianshui Xianren Cliff 20260929.jpg · 颐园居 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

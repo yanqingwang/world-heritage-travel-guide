@@ -2,7 +2,7 @@
 id: "cn-319"
 dataset: "china_5a"
 name_zh: "兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区"
-name_en: "Bingtuanalaershitakelamagan•sanwujiulv Cultural Tourism Area"
+name_en: "Xingfulujiedao (alaershi) Cultural Tourism Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Xinjiang"
 city_en: "Alaer City"
 lat: 40.54896
 lon: 81.281538
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区 / Bingtuanalaershitakelamagan•sanwujiulv Cultural Tourism Area
+# 兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区 / Xingfulujiedao (alaershi) Cultural Tourism Area
 
 > 新疆维吾尔自治区 · 阿拉尔市 · 红色旅游
-
-## 图片 / Images
-
-![20231216 G217 Highway in Aral 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/20231216_G217_Highway_in_Aral_01.jpg/1280px-20231216_G217_Highway_in_Aral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20231216 G217 Highway in Aral 01.jpg · Windmemories · CC BY-SA 4.0*
-
-![20231216 G580 Highway near Aral 03.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/20231216_G580_Highway_near_Aral_03.jpg/1280px-20231216_G580_Highway_near_Aral_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20231216 G580 Highway near Aral 03.jpg · Windmemories · CC BY-SA 4.0*
-
-![20231216 Road from Aksu to Aral.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/20231216_Road_from_Aksu_to_Aral.jpg/1280px-20231216_Road_from_Aksu_to_Aral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20231216 Road from Aksu to Aral.jpg · Windmemories · CC BY-SA 4.0*
-
-![20231216 Tarim River in Aral 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/20231216_Tarim_River_in_Aral_01.jpg/1280px-20231216_Tarim_River_in_Aral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20231216 Tarim River in Aral 01.jpg · Windmemories · CC BY-SA 4.0*
-
-![20231216 Tarim River in Aral 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/20231216_Tarim_River_in_Aral_02.jpg/1280px-20231216_Tarim_River_in_Aral_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20231216 Tarim River in Aral 02.jpg · Windmemories · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -75,4 +53,5 @@ The Taklimakan 359th Brigade Cultural Tourism Zone in Alar City, with the 359th 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/幸福路街道 (阿拉尔市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

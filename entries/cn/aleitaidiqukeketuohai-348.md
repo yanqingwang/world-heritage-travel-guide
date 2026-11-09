@@ -13,34 +13,12 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 47.216809
 lon: 89.875277
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 阿勒泰地区可可托海景区 / Fuyun Koktokay Airport
 
 > 新疆维吾尔自治区 · 阿勒泰地区 · 度假休闲
-
-## 图片 / Images
-
-![ColourfulBeach.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/ColourfulBeach.jpg/1280px-ColourfulBeach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*ColourfulBeach.jpg · Fanghong · CC BY-SA 3.0*
-
-![Altay, Xinjiang, China - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Altay%2C_Xinjiang%2C_China_-_panoramio.jpg/1280px-Altay%2C_Xinjiang%2C_China_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Altay, Xinjiang, China - panoramio.jpg · 余华峰 · CC BY-SA 3.0*
-
-![Altay, Xinjiang, China - panoramio (10).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Altay%2C_Xinjiang%2C_China_-_panoramio_%2810%29.jpg/1280px-Altay%2C_Xinjiang%2C_China_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Altay, Xinjiang, China - panoramio (10).jpg · 陈琛 · CC BY-SA 3.0*
-
-![Altay, Xinjiang, China - panoramio (9).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Altay%2C_Xinjiang%2C_China_-_panoramio_%289%29.jpg/1280px-Altay%2C_Xinjiang%2C_China_-_panoramio_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Altay, Xinjiang, China - panoramio (9).jpg · 陈琛 · CC BY-SA 3.0*
-
-![Burqin, Altay, Xinjiang, China - panoramio - neverdance (7)-1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Burqin%2C_Altay%2C_Xinjiang%2C_China_-_panoramio_-_neverdance_%287%29-1.jpg/1280px-Burqin%2C_Altay%2C_Xinjiang%2C_China_-_panoramio_-_neverdance_%287%29-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Burqin, Altay, Xinjiang, China - panoramio - neverdance (7)-1.jpg · neverdance · CC BY 3.0*
 
 ## 简介 / Introduction
 

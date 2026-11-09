@@ -37,7 +37,8 @@
     "lat": 21.538659,
     "lon": 109.293683,
     "type": "medium_airport",
-    "distance_km": 15.7
+    "distance_km": 15.7,
+    "name_zh": "北海福成机场"
    },
    {
     "name": "Yulin Fumian Airport",
@@ -47,7 +48,8 @@
     "lat": 22.433042,
     "lon": 110.119996,
     "type": "medium_airport",
-    "distance_km": 118.9
+    "distance_km": 118.9,
+    "name_zh": "玉林福绵机场"
    },
    {
     "name": "Zhanjiang Wuchuan International Airport",
@@ -57,7 +59,8 @@
     "lat": 21.481667,
     "lon": 110.590278,
     "type": "large_airport",
-    "distance_km": 135.1
+    "distance_km": 135.1,
+    "name_zh": "湛江机场"
    }
   ],
   "nearest_airport_km": 15.7,
@@ -188,5 +191,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

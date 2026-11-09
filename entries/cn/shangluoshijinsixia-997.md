@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Shangluo"
 lat: 33.456314
 lon: 110.585101
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 商洛市金丝峡景区 / Jinsixia Scenic Area

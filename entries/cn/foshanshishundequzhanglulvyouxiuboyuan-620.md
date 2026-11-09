@@ -2,7 +2,7 @@
 id: "cn-620"
 dataset: "china_5a"
 name_zh: "佛山市顺德区长鹿旅游休博园"
-name_en: "Foshanshishundequzhanglulvyouxiuboyuan"
+name_en: "Foshanshishundequdiyizhongxue"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.884408
 lon: 113.295229
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 佛山市顺德区长鹿旅游休博园 / Foshanshishundequzhanglulvyouxiuboyuan
+# 佛山市顺德区长鹿旅游休博园 / Foshanshishundequdiyizhongxue
 
 > 广东省 · 佛山市 · 主题乐园
-
-## 图片 / Images
-
-![Ronggui Skyline (cropped).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ronggui_Skyline_%28cropped%29.jpg/1280px-Ronggui_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ronggui Skyline (cropped).jpg · Caiguanhao · CC BY-SA 4.0*
-
-![Cuisine of Guangdong (Museum of Shunde).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Cuisine_of_Guangdong_%28Museum_of_Shunde%29.jpg/1280px-Cuisine_of_Guangdong_%28Museum_of_Shunde%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Cuisine of Guangdong (Museum of Shunde).jpg · Pauloleong2002 · CC BY-SA 4.0*
-
-![Cuisine of Guangdong (Museum of Shunde) 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cuisine_of_Guangdong_%28Museum_of_Shunde%29_2.jpg/1280px-Cuisine_of_Guangdong_%28Museum_of_Shunde%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Cuisine of Guangdong (Museum of Shunde) 2.jpg · Pauloleong2002 · CC BY-SA 4.0*
-
-![GD Guangdong Fushan Shunde highway express December 2024 R12S 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/GD_Guangdong_Fushan_Shunde_highway_express_December_2024_R12S_01.jpg/1280px-GD_Guangdong_Fushan_Shunde_highway_express_December_2024_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*GD Guangdong Fushan Shunde highway express December 2024 R12S 01.jpg · KazHO Weneldmz PPYA · CC0*
-
-![GD 廣東 Guangdong 佛山 Foshan 順德 Shunde town 1210pm January 2024 R12S 01 blue sign.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%BD%9B%E5%B1%B1_Foshan_%E9%A0%86%E5%BE%B7_Shunde_town_1210pm_January_2024_R12S_01_blue_sign.jpg/1280px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%BD%9B%E5%B1%B1_Foshan_%E9%A0%86%E5%BE%B7_Shunde_town_1210pm_January_2024_R12S_01_blue_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*GD 廣東 Guangdong 佛山 Foshan 順德 Shunde town 1210pm January 2024 R12S 01 blue sign.jpg · Lau Hau Yatyue Tiger · CC0*
 
 ## 简介 / Introduction
 
@@ -81,4 +59,5 @@ Changlu Tourism and Leisure Expo Park, also known as Changlu Farm, was founded i
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/佛山市顺德区第一中学)
 - [OpenStreetMap](https://www.openstreetmap.org/)

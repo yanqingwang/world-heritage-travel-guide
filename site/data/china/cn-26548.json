@@ -10,8 +10,8 @@
  "city_zh": "呼和浩特市",
  "city_en": "Hohhot",
  "name_zh": "呼和浩特市老牛湾黄河大峡谷旅游区",
- "name_en": "Yarlung Tsangpo Grand Canyon",
- "name_en_source": "wikipedia",
+ "name_en": "Huhehaoteshilaoniuwanhuanghedaxiagu Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "huhehaoteshilaoniuwanhuanghedaxiagu-26548",
  "lat": 39.694348,
  "lon": 111.435569,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "老牛湾黄河大峡谷旅游区位于清水河县境内西南部，面积9.5平方公里，地处晋、蒙黄河大峡谷的核心地段和黄河“几”字弯腹地。老牛湾黄河大峡谷旅游区内文物古迹众多，自然人文景观皆美，历史文化底蕴深厚，30余公里的峡谷段两岸奇峰壁立、姿态万千。拥有长城与黄河唯一握手之地的独特奇观、宁边州故城遗址、全国最美古村落—老牛湾古村落、全国最大的天然石坪广场—神牛广场、具有黄河九十九道弯象征意义的九曲黄河阵、幽静深邃的杨家川小峡谷、270度大回环的太极湾、蜿蜒盘旋于峡谷的游步道。",
- "intro_en": "The Yarlung Tsangpo Grand Canyon, also known as the Yarlung Zangbo Grand Canyon, the Tsangpo Canyon, the Brahmaputra Canyon or the Tsangpo Gorge (simplified Chinese: 雅鲁藏布大峡谷; traditional Chinese: 雅魯藏布大峽谷; pinyin: Yǎlǔzàngbù Dàxiágǔ), is a canyon along the Yarlung Tsangpo River in Tibet Autonomous Region, China. It is the deepest canyon in the world, and at 504.6 kilometres (313.5 mi) is slightly longer than the Grand Canyon in the United States, making it one of the world's largest. The Yarlung Tsangpo (Tibetan name for the upper course of the Brahmaputra) originates near Mount Kailash and runs east for about 1,700 kilometres (1,100 mi), draining a northern section of the Himalayas before it enters the gorge just downstream of Pei, Tibet, near the settlement of Zhibe. The canyon has a length of about 240 kilometres (150 mi) as the gorge bends around Mount Namcha Barwa (7,782 metres or 25,531 feet) and cuts its way through the eastern Himalayas. Its waters drop from about 2,900 metres (9,500 ft) near Pei to about 1,500 metres (4,900 ft) at the end of the Upper Gorge where the Po Tsangpo River enters. The river continues through the Lower Gorge to the Indian border at an elevation of",
- "intro_en_source": "wikipedia",
+ "intro_en": "Laoniuwan Yellow River Grand Canyon Tourist Area is located in the southwest of Qingshuihe County, covering an area of ​​9.5 square kilometers. It is located in the core area of ​​the Yellow River Grand Canyon in Shanxi and Inner Mongolia and the hinterland of the \"Ji\" bend of the Yellow River. There are many cultural relics and historic sites in the Laoniuwan Yellow River Grand Canyon tourist area, with beautiful natural and cultural landscapes and profound historical and cultural heritage. The more than 30 kilometers of the canyon section has many strange peaks standing on both sides of the bank.拥有长城与黄河唯一握手之地的独特奇观、宁边州故城遗址、全国最美古村落—老牛湾古村落、全国最大的天然石坪广场—神牛广场、具有黄河九十九道弯象征意义的九曲黄河阵、幽静深邃的杨家川小峡谷、270度大回环的太极湾、蜿蜒盘旋于峡谷的游步道。",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "http://www.lnwjq.cn/#/home",
  "booking": "",
@@ -37,7 +37,8 @@
     "lat": 39.273241,
     "lon": 112.691552,
     "type": "medium_airport",
-    "distance_km": 117.5
+    "distance_km": 117.5,
+    "name_zh": "朔州滋润机场"
    },
    {
     "name": "Hohhot Baita International Airport",
@@ -47,7 +48,8 @@
     "lat": 40.849658,
     "lon": 111.824598,
     "type": "large_airport",
-    "distance_km": 132.6
+    "distance_km": 132.6,
+    "name_zh": "呼和浩特白塔国际机场"
    },
    {
     "name": "Ordos Ejin Horo International Airport",
@@ -57,7 +59,8 @@
     "lat": 39.493514,
     "lon": 109.8599,
     "type": "large_airport",
-    "distance_km": 136.8
+    "distance_km": 136.8,
+    "name_zh": "鄂尔多斯伊金霍洛机场"
    }
   ],
   "nearest_airport_km": 117.5,
@@ -96,11 +99,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
+  "en": false,
+  "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -119,7 +121,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -129,13 +131,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/雅鲁藏布大峡谷"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

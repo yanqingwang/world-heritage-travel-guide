@@ -2,7 +2,7 @@
 id: "cn-1430"
 dataset: "china_5a"
 name_zh: "保定市白石山景区"
-name_en: "Baishishan Scenic Area"
+name_en: "Baodingshibaishishan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Hebei"
 city_en: "Baoding"
 lat: 39.242194
 lon: 114.722083
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 保定市白石山景区 / Baishishan Scenic Area
+# 保定市白石山景区 / Baodingshibaishishan Scenic Area
 
 > 河北省 · 保定市 · 山地风光
-
-## 图片 / Images
-
-![保定市天际线 - 航拍 - 2025-10-24 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%E4%BF%9D%E5%AE%9A%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-10-24_01.jpg/1280px-%E4%BF%9D%E5%AE%9A%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2025-10-24_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*保定市天际线 - 航拍 - 2025-10-24 01.jpg · 瑞丽江的河水 · CC BY-SA 4.0*
-
-![Baoding-Monument.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Baoding-Monument.jpg/1280px-Baoding-Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Baoding-Monument.jpg · Matthias Wiegandt · CC BY-SA 4.0*
-
-![Baoding 001.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Baoding_001.jpg/1280px-Baoding_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Baoding 001.jpg · BaodingWikiKeeper · CC BY-SA 4.0*
-
-![Baoding Balls in Box.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Baoding_Balls_in_Box.jpg/1280px-Baoding_Balls_in_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Baoding Balls in Box.jpg · Conrad 7 · CC0*
-
-![Baoding balls2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Baoding_balls2.jpg/1280px-Baoding_balls2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Baoding balls2.jpg · Stanislav Kozlovskiy · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -71,10 +49,10 @@ Baishi Mountain Scenic Area is located 15 kilometers south of Laiyuan County, Ba
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/白石山)
+- [Wikipedia](https://zh.wikipedia.org/wiki/白石山镇 (涞源县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

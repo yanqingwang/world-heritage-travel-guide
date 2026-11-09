@@ -78,7 +78,8 @@
     "lat": 29.933874,
     "lon": 122.362307,
     "type": "large_airport",
-    "distance_km": 8.9
+    "distance_km": 8.9,
+    "name_zh": "舟山普陀山国际机场"
    },
    {
     "name": "Ningbo Lishe International Airport",
@@ -88,7 +89,8 @@
     "lat": 29.82670021057129,
     "lon": 121.46199798583984,
     "type": "large_airport",
-    "distance_km": 92.4
+    "distance_km": 92.4,
+    "name_zh": "宁波栎社国际机场"
    },
    {
     "name": "Shanghai Pudong International Airport",
@@ -98,7 +100,8 @@
     "lat": 31.1434,
     "lon": 121.805,
     "type": "large_airport",
-    "distance_km": 138.4
+    "distance_km": 138.4,
+    "name_zh": "上海浦东国际机场"
    }
   ],
   "nearest_airport_km": 8.9,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

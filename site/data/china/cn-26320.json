@@ -46,7 +46,8 @@
     "lat": 34.059056,
     "lon": 117.555278,
     "type": "medium_airport",
-    "distance_km": 74.4
+    "distance_km": 74.4,
+    "name_zh": "徐州观音机场"
    },
    {
     "name": "Linyi Qiyang Airport",
@@ -56,7 +57,8 @@
     "lat": 35.052918,
     "lon": 118.411828,
     "type": "medium_airport",
-    "distance_km": 110.6
+    "distance_km": 110.6,
+    "name_zh": "临沂启阳国际机场"
    },
    {
     "name": "Jining Da'an Airport",
@@ -66,7 +68,8 @@
     "lat": 35.647358,
     "lon": 116.743269,
     "type": "medium_airport",
-    "distance_km": 117.2
+    "distance_km": 117.2,
+    "name_zh": "济宁大安机场"
    }
   ],
   "nearest_airport_km": 74.4,
@@ -124,17 +127,6 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "荷韵假日酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 34.8210086,
-   "lon": 117.115293,
-   "distance_km": 21.2,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "微山岛名湖度假酒店",
    "name_en": null,
    "stars": null,
@@ -164,6 +156,17 @@
    "lat": 34.8083535,
    "lon": 117.268331,
    "distance_km": 13.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金尊国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.8049124,
+   "lon": 117.3308134,
+   "distance_km": 13.5,
    "kind": "hotel",
    "source": "OpenStreetMap"
   }
@@ -212,5 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

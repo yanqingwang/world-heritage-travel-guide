@@ -78,7 +78,8 @@
     "lat": 30.23609,
     "lon": 120.428865,
     "type": "large_airport",
-    "distance_km": 30.6
+    "distance_km": 30.6,
+    "name_zh": "杭州萧山国际机场"
    },
    {
     "name": "Jiaxing Nanhu Airport",
@@ -88,7 +89,8 @@
     "lat": 30.698056,
     "lon": 120.663056,
     "type": "medium_airport",
-    "distance_km": 78.0
+    "distance_km": 78.0,
+    "name_zh": "嘉兴南湖机场"
    },
    {
     "name": "Ningbo Lishe International Airport",
@@ -98,7 +100,8 @@
     "lat": 29.82670021057129,
     "lon": 121.46199798583984,
     "type": "large_airport",
-    "distance_km": 86.1
+    "distance_km": 86.1,
+    "name_zh": "宁波栎社国际机场"
    }
   ],
   "nearest_airport_km": 30.6,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

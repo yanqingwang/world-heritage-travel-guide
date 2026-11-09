@@ -24,48 +24,7 @@
  "intro_zh": "瑞金共和国摇篮景区是全国重点文物保护单位、全国爱国主义教育示范基地、全国红色旅游经典景区。该景区由叶坪、红井、二苏大、中华苏维埃纪念园（南园和北园）四大景区组成。",
  "intro_en": "The Chinese Soviet Republic (CSR) was a proto-state within the Republic of China, proclaimed on 7 November 1931 by Chinese Communist Party (CCP) leaders Mao Zedong and Zhu De in the early stages of the Chinese Civil War. The discontiguous territories of the CSR included 18 provinces and 4 counties under the Communists' control. The CSR's government was located in its largest component territory, the Jiangxi Soviet in southeastern China, with its capital city at Ruijin. Due to the importance of the Jiangxi Soviet in the CSR's early history, the name \"Jiangxi Soviet\" is sometimes used to refer to the CSR as a whole. Other component territories of the CSR included the Minzhegan, Xianggan, Xiang'egang, Honghu, Xiang'echuanqian, Eyuwan, Eyushan, Shaanxi-Gansu, Sichuan-Shaanxi, and Hailufeng Soviets. Mao was both CSR state chairman and prime minister; he commanded the state and its government. Mao's tenure as commander of a \"small state within a state\" gave him experience in mobile warfare and peasant organization, which helped him lead the Chinese Communists to victory in 1949. The encirclement campaigns initiated by the Kuomintang in 1934 forced the CCP to abandon most of the soviets i",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ganzhounan_Railway_Station_7959_1.jpg/1280px-Ganzhounan_Railway_Station_7959_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ganzhounan Railway Station 7959 1.jpg",
-   "author": "David290",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Ganzhounan_Railway_Station_7959_1.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ganzhou-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Ganzhou-map.png",
-   "author": "장길산",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Ganzhou-map.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ganzhou_Railway_Station_%2820250126%29.jpg/1280px-Ganzhou_Railway_Station_%2820250126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ganzhou Railway Station (20250126).jpg",
-   "author": "Fumikas Sagisavas",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Ganzhou_Railway_Station_(20250126).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ganzhou_Wenmiao_20180619_161026.jpg/1280px-Ganzhou_Wenmiao_20180619_161026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ganzhou Wenmiao 20180619 161026.jpg",
-   "author": "Sino Yu",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Ganzhou_Wenmiao_20180619_161026.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Location_map_of_Ganzhou%2C_Jiangxi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Location map of Ganzhou, Jiangxi.png",
-   "author": "Not logging in",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work File:Map Jiangxi adm.png",
-   "source": "https://commons.wikimedia.org/wiki/File:Location_map_of_Ganzhou,_Jiangxi.png"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 25.67592,
     "lon": 116.745907,
     "type": "medium_airport",
-    "distance_km": 76.6
+    "distance_km": 76.6,
+    "name_zh": "龙岩冠豸山机场"
    },
    {
     "name": "Ganzhou Huangjin Airport",
@@ -88,7 +48,8 @@
     "lat": 25.853333,
     "lon": 114.778889,
     "type": "small_airport",
-    "distance_km": 124.1
+    "distance_km": 124.1,
+    "name_zh": "赣州黄金机场"
    },
    {
     "name": "Jinggangshan Airport",
@@ -98,7 +59,8 @@
     "lat": 26.856899,
     "lon": 114.737,
     "type": "medium_airport",
-    "distance_km": 166.9
+    "distance_km": 166.9,
+    "name_zh": "吉安井冈山机场"
    }
   ],
   "nearest_airport_km": 76.6,
@@ -212,5 +174,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -78,7 +78,8 @@
     "lat": 28.562201,
     "lon": 121.429001,
     "type": "medium_airport",
-    "distance_km": 43.9
+    "distance_km": 43.9,
+    "name_zh": "台州路桥机场"
    },
    {
     "name": "Wenzhou Longwan International Airport",
@@ -88,7 +89,8 @@
     "lat": 27.910572,
     "lon": 120.853465,
     "type": "large_airport",
-    "distance_km": 108.0
+    "distance_km": 108.0,
+    "name_zh": "温州龙湾国际机场"
    },
    {
     "name": "Ningbo Lishe International Airport",
@@ -98,7 +100,8 @@
     "lat": 29.82670021057129,
     "lon": 121.46199798583984,
     "type": "large_airport",
-    "distance_km": 113.2
+    "distance_km": 113.2,
+    "name_zh": "宁波栎社国际机场"
    }
   ],
   "nearest_airport_km": 43.9,
@@ -135,17 +138,6 @@
  },
  "hotels": [
   {
-   "name": "格林豪泰智选酒店(台州临海高铁南站店)",
-   "name_en": null,
-   "stars": null,
-   "brand": "格林豪泰",
-   "lat": 28.8225074,
-   "lon": 121.1315979,
-   "distance_km": 3.4,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "万豪酒店",
    "name_en": "Zhejiang Taizhou Marriott Hotel",
    "stars": null,
@@ -176,6 +168,17 @@
    "lon": 121.1380792,
    "distance_km": 1.4,
    "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "格林豪泰智选酒店(台州临海高铁南站店)",
+   "name_en": null,
+   "stars": null,
+   "brand": "格林豪泰",
+   "lat": 28.8225074,
+   "lon": 121.1315979,
+   "distance_km": 3.4,
+   "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

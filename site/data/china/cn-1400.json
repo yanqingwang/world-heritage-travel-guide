@@ -10,8 +10,8 @@
  "city_zh": "东营市",
  "city_en": "Dongying",
  "name_zh": "东营市黄河口生态旅游区",
- "name_en": "Dongyingshihuanghekoushengtai Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Yellow River",
+ "name_en_source": "wikipedia",
  "slug": "dongyingshihuanghekoushengtai-1400",
  "lat": 37.809776,
  "lon": 119.082774,
@@ -22,8 +22,8 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "景区拥有河海交汇、湿地生态、石油工业和滨海滩涂景观等黄河三角洲独具特色的生态旅游资源。区域内有各种野生动物1524多种，还有国内罕见的天然柽柳林和万亩人工刺槐林，是进行科考、度假、观鸟、猎奇、赶海、观潮、赏月、观日出的理想场所。",
- "intro_en": "The scenic area has unique eco-tourism resources in the Yellow River Delta such as the intersection of rivers and seas, wetland ecology, petroleum industry and coastal beach landscapes. There are more than 1,524 kinds of wild animals in the area, as well as the rare natural tamarisk forest and 10,000 acres of artificial black locust forest in the country. It is an ideal place for scientific research, vacation, bird watching, hunting, catching the sea, watching tides, admiring the moon and watching the sunrise.",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Yellow River, also known as Huang He, is the second-longest river in China and the sixth-longest in the world, with an estimated length of 5,464 km (3,395 mi) and a drainage basin of 795,000 km2 (307,000 sq mi). Beginning in the Bayan Har Mountains, the river flows generally eastwards before entering the 1,500 km (930 mi) long Ordos Loop, which runs northeast at Gansu through the Ordos Plateau and turns east in Inner Mongolia. The river then turns sharply southwards to form the border between Shanxi and Shaanxi, turns eastwards at its confluence with the Wei River, and flows across the North China Plain before emptying into the Bohai Sea. The river is named for the yellow color of its water, which comes from the large amount of sediment discharged into the water as the river flows through the Loess Plateau. The Yellow River basin was the birthplace of ancient Chinese civilization. According to traditional Chinese historiography, the Xia dynasty originated on its banks around 2100 BC; Sima Qian's Shiji (c. 91 BC) record that the Xia were founded after the tribes around the Yellow River united to combat the frequent floods in the area. The river has provided fertile soil for agri",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Yellow_River_-_panoramio.jpg/1280px-Yellow_River_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 37.50137,
     "lon": 118.789863,
     "type": "medium_airport",
-    "distance_km": 42.9
+    "distance_km": 42.9,
+    "name_zh": "东营胜利机场"
    },
    {
     "name": "Weifang Nanyuan Airport",
@@ -88,7 +89,8 @@
     "lat": 36.646702,
     "lon": 119.119003,
     "type": "medium_airport",
-    "distance_km": 129.4
+    "distance_km": 129.4,
+    "name_zh": "潍坊机场"
    },
    {
     "name": "Yantai Penglai International Airport",
@@ -98,7 +100,8 @@
     "lat": 37.659724,
     "lon": 120.978124,
     "type": "large_airport",
-    "distance_km": 167.5
+    "distance_km": 167.5,
+    "name_zh": "烟台蓬莱国际机场"
    }
   ],
   "nearest_airport_km": 42.9,
@@ -162,10 +165,11 @@
  "hotels_nearby_30km": 3,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -184,7 +188,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -194,9 +198,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄河"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

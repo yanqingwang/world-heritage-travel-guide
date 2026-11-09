@@ -78,7 +78,8 @@
     "lat": 30.142464,
     "lon": 101.73872,
     "type": "medium_airport",
-    "distance_km": 66.2
+    "distance_km": 66.2,
+    "name_zh": "甘孜康定机场"
    },
    {
     "name": "Leshan Airport",
@@ -98,7 +99,8 @@
     "lat": 27.9891,
     "lon": 102.183998,
     "type": "medium_airport",
-    "distance_km": 185.0
+    "distance_km": 185.0,
+    "name_zh": "西昌青山机场"
    }
   ],
   "nearest_airport_km": 66.2,
@@ -234,5 +236,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

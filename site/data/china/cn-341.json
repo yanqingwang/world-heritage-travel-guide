@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "瘦西湖风景区是世界文化遗产大运河的重要组成部分、国家级风景名胜区蜀冈-瘦西湖风景名胜区的核心和精华部分。窈窕曲折的一湖碧水，串以徐园、小金山、五亭桥、白塔、二十四桥、万花园、双峰云栈等名园胜迹，风韵独具而蜚声海内外。",
- "intro_en": "The Slender West Lake Scenic Area is an important part of the Grand Canal, a world cultural heritage, and the core and essence of the national scenic area Shugang-Slender West Lake Scenic Area. The graceful and winding lake is surrounded by famous gardens and scenic spots such as Xu Garden, Xiaojin Mountain, Wuting Bridge, White Tower, Twenty-four Bridges, Wanhua Garden, Shuangfeng Cloud Stack, etc. It has a unique charm and is famous at home and abroad.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Slender West Lake, also known by its Chinese name Shouxihu and by other names, is a scenic lake in Hanjiang District in central Yangzhou, China. The lake developed from the city moats of Tang-era Yangzhou. During the Qing dynasty, its banks were the site of numerous estates for the area's wealthy officials and salt merchants. The lake and some of its attractions have been restored as a national park and AAAAA tourist attraction, requiring a ticket for admission and open only from 7 am to 6 pm.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Thin_West_Lake_south_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -78,7 +78,8 @@
     "lat": 32.5634,
     "lon": 119.7198,
     "type": "medium_airport",
-    "distance_km": 32.0
+    "distance_km": 32.0,
+    "name_zh": "扬州泰州机场"
    },
    {
     "name": "Changzhou Benniu International Airport",
@@ -88,7 +89,8 @@
     "lat": 31.920485,
     "lon": 119.77546,
     "type": "medium_airport",
-    "distance_km": 63.1
+    "distance_km": 63.1,
+    "name_zh": "常州奔牛机场"
    },
    {
     "name": "Nanjing Lukou International Airport",
@@ -98,7 +100,8 @@
     "lat": 31.735032,
     "lon": 118.865949,
     "type": "large_airport",
-    "distance_km": 92.0
+    "distance_km": 92.0,
+    "name_zh": "南京禄口国际机场"
    }
   ],
   "nearest_airport_km": 32.0,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

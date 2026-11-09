@@ -24,48 +24,7 @@
  "intro_zh": "景德镇古窑民俗博览区占地83公顷，是集文化博览、陶瓷体验、娱乐休闲为一体的文化旅游景区，是一家以陶瓷文化为主题的国家级旅游景区。主要景点有历代古窑展示区、陶瓷民俗展示区、水岸前街创意休憩区三大景区。",
  "intro_en": "Jingdezhen Ancient Kiln Folklore Expo Area covers an area of ​​83 hectares. It is a cultural tourist attraction integrating cultural exposition, ceramic experience, entertainment and leisure. It is a national tourist attraction with the theme of ceramic culture. The main attractions include the ancient kiln exhibition area, the ceramic folk custom exhibition area, and the Shui'an Qian Street creative rest area.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Changjiang_River_Seen_from_Zhushan_Bridge%2C_Jingdezhen.jpg/1280px-Changjiang_River_Seen_from_Zhushan_Bridge%2C_Jingdezhen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Changjiang River Seen from Zhushan Bridge, Jingdezhen.jpg",
-   "author": "EditQ",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changjiang_River_Seen_from_Zhushan_Bridge,_Jingdezhen.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/CN_Jingdezhen_0806_%282%29_%2817187725276%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "CN Jingdezhen 0806 (2) (17187725276).jpg",
-   "author": "Diego Tirira from Quito, Ecuador",
-   "license": "CC BY-SA 2.0",
-   "credit": "CN Jingdezhen 0806 (2)",
-   "source": "https://commons.wikimedia.org/wiki/File:CN_Jingdezhen_0806_(2)_(17187725276).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Jingdezhen_%28Chinese_characters%29.svg/1280px-Jingdezhen_%28Chinese_characters%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jingdezhen (Chinese characters).svg",
-   "author": "White whirlwind",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jingdezhen_(Chinese_characters).svg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jingdezhen_name.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Jingdezhen name.JPG",
-   "author": "EEIM",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jingdezhen_name.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Jingdezhen_name2.svg/1280px-Jingdezhen_name2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jingdezhen name2.svg",
-   "author": "JesseW900",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jingdezhen_name2.svg"
-  }
- ],
+ "images": [],
  "web": "http://www.chinaguyao.com/index.html",
  "booking": "http://www.chinaguyao.com/index.html",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 29.3386,
     "lon": 117.176003,
     "type": "medium_airport",
-    "distance_km": 5.7
+    "distance_km": 5.7,
+    "name_zh": "景德镇罗家机场"
    },
    {
     "name": "Huangshan Tunxi International Airport",
@@ -88,7 +48,8 @@
     "lat": 29.733299,
     "lon": 118.255997,
     "type": "large_airport",
-    "distance_km": 114.2
+    "distance_km": 114.2,
+    "name_zh": "黄山屯溪机场"
    },
    {
     "name": "Shangrao Sanqingshan Airport",
@@ -98,7 +59,8 @@
     "lat": 28.3797,
     "lon": 117.9643,
     "type": "medium_airport",
-    "distance_km": 126.1
+    "distance_km": 126.1,
+    "name_zh": "上饶三清山机场"
    }
   ],
   "nearest_airport_km": 5.7,
@@ -135,6 +97,17 @@
  },
  "hotels": [
   {
+   "name": "半岛国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.287738,
+   "lon": 117.2152933,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "景德镇陶溪川凯悦酒店",
    "name_en": "Hyatt Place Jingdezhen Taoxichuan",
    "stars": null,
@@ -164,17 +137,6 @@
    "lat": 29.2913052,
    "lon": 117.209505,
    "distance_km": 1.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "半岛国际酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 29.287738,
-   "lon": 117.2152933,
-   "distance_km": 2.3,
    "kind": "hotel",
    "source": "OpenStreetMap"
   },
@@ -233,5 +195,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

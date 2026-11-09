@@ -10,7 +10,7 @@
  "city_zh": "丽水市",
  "city_en": "Lishui City",
  "name_zh": "丽水市云和梯田景区",
- "name_en": "Lishuishiyunhetitian Scenic Area",
+ "name_en": "Yunhetitian Scenic Area",
  "name_en_source": "pinyin",
  "slug": "lishuishiyunhetitian-26434",
  "lat": 28.055656,
@@ -46,7 +46,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 116.7
+    "distance_km": 116.7,
+    "name_zh": "衢州机场"
    },
    {
     "name": "Wenzhou Longwan International Airport",
@@ -56,7 +57,8 @@
     "lat": 27.910572,
     "lon": 120.853465,
     "type": "large_airport",
-    "distance_km": 134.6
+    "distance_km": 134.6,
+    "name_zh": "温州龙湾国际机场"
    },
    {
     "name": "Nanping Wuyishan Airport",
@@ -66,7 +68,8 @@
     "lat": 27.7019,
     "lon": 118.000999,
     "type": "medium_airport",
-    "distance_km": 151.8
+    "distance_km": 151.8,
+    "name_zh": "武夷山机场"
    }
   ],
   "nearest_airport_km": 116.7,
@@ -171,9 +174,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/云和梯田"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

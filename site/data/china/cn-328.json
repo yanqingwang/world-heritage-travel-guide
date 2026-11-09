@@ -37,7 +37,8 @@
     "lat": 47.749886,
     "lon": 88.085808,
     "type": "medium_airport",
-    "distance_km": 29.6
+    "distance_km": 29.6,
+    "name_zh": "阿勒泰机场"
    },
    {
     "name": "Burqin Kanas Airport",
@@ -47,7 +48,8 @@
     "lat": 48.2223,
     "lon": 86.9959,
     "type": "medium_airport",
-    "distance_km": 93.0
+    "distance_km": 93.0,
+    "name_zh": "布尔津喀纳斯机场"
    },
    {
     "name": "Fuyun Koktokay Airport",
@@ -57,7 +59,8 @@
     "lat": 46.804169,
     "lon": 89.512006,
     "type": "medium_airport",
-    "distance_km": 156.1
+    "distance_km": 156.1,
+    "name_zh": "富蕴机场"
    }
   ],
   "nearest_airport_km": 29.6,
@@ -144,5 +147,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

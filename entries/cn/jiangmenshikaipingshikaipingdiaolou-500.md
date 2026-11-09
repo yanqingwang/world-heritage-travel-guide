@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Jiangmen City"
 lat: 22.378728
 lon: 112.586021
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 江门市开平市开平碉楼文化旅游区 / Kaipingdiaolou Cultural Tourism Area

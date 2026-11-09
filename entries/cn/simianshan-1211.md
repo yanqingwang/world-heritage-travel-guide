@@ -13,7 +13,7 @@ province_en: "Chongqing"
 city_en: "Jiangjin District"
 lat: 28.720354
 lon: 106.486508
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 四面山景区 / Simian Mountain

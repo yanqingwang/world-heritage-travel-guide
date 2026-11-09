@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.304274
 lon: 119.44574
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 常州市天目湖景区 / Changzhoushitianmuhu Scenic Area
 
 > 江苏省 · 常州市 · 山地风光
-
-## 图片 / Images
-
-![20090919 Changzhou Imgp5266.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20090919_Changzhou_Imgp5266.jpg/1280px-20090919_Changzhou_Imgp5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20090919 Changzhou Imgp5266.jpg · Jakub Hałun · CC BY-SA 4.0*
-
-![Administrative-Division-Changzhou-Icelandic.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3c/Administrative-Division-Changzhou-Icelandic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Administrative-Division-Changzhou-Icelandic.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Changzhou-in-China-location-map.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Changzhou-in-China-location-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Changzhou-in-China-location-map.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg · Dagvidur · CC BY-SA 4.0*
-
-![ChangzhouOldCityDistrict.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ChangzhouOldCityDistrict.jpg/1280px-ChangzhouOldCityDistrict.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*ChangzhouOldCityDistrict.jpg · Chen Yihan · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -83,4 +61,5 @@ Tianmu Lake is named "Tianmu Lake" because it belongs to the remnants of Tianmu 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/天目湖旅游度假区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -78,7 +78,8 @@
     "lat": 36.361953,
     "lon": 120.088171,
     "type": "large_airport",
-    "distance_km": 39.1
+    "distance_km": 39.1,
+    "name_zh": "青岛胶东国际机场"
    },
    {
     "name": "Weifang Nanyuan Airport",
@@ -88,7 +89,8 @@
     "lat": 36.646702,
     "lon": 119.119003,
     "type": "medium_airport",
-    "distance_km": 131.4
+    "distance_km": 131.4,
+    "name_zh": "潍坊机场"
    },
    {
     "name": "Rizhao Shanzihe Airport",
@@ -98,7 +100,8 @@
     "lat": 35.405033,
     "lon": 119.324403,
     "type": "medium_airport",
-    "distance_km": 141.2
+    "distance_km": 141.2,
+    "name_zh": "日照机场"
    }
   ],
   "nearest_airport_km": 39.1,
@@ -262,5 +265,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

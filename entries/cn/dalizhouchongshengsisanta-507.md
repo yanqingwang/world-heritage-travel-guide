@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Dali Bai Autonomous Prefecture"
 lat: 25.710056
 lon: 100.149979
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 大理州崇圣寺三塔文化旅游区 / Three Pagodas

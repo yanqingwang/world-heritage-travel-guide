@@ -2,7 +2,7 @@
 id: "cn-847"
 dataset: "china_5a"
 name_zh: "大同市云冈石窟景区"
-name_en: "Datong"
+name_en: "Lubanyaoshiku Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Shanxi"
 city_en: "Datong"
 lat: 40.119273
 lon: 113.144291
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 大同市云冈石窟景区 / Datong
+# 大同市云冈石窟景区 / Lubanyaoshiku Scenic Area
 
 > 山西省 · 大同市 · 石窟艺术
-
-## 图片 / Images
-
-![The skyline of Datong（Southgate）2019.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/The_skyline_of_Datong%EF%BC%88Southgate%EF%BC%892019.jpg/1280px-The_skyline_of_Datong%EF%BC%88Southgate%EF%BC%892019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*The skyline of Datong（Southgate）2019.jpg · Charlie fong · CC BY-SA 4.0*
-
-![2016年度全国博物馆名录.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf/page1-960px-2016%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2016年度全国博物馆名录.pdf · State Administration of Cultural Heritage · Public domain*
-
-![关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912015%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E5%90%8D%E5%BD%95%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E6%96%87%E7%89%A9%E5%8D%9A%E5%8F%91%E3%80%942016%E3%80%9518%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*关于印发2015年度全国博物馆名录的通知（文物博发〔2016〕18号）.pdf · 国家文物局 · Public domain*
-
-![Central Seminary of Datong.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a9/Central_Seminary_of_Datong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Central Seminary of Datong.jpg · Unknown author Unknown author · Public domain*
-
-![Datong banner Chunyanggong.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Datong_banner_Chunyanggong.jpg/1280px-Datong_banner_Chunyanggong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Datong banner Chunyanggong.jpg · Datong_Chunyanggong.jpg : JP Bennett from Yamato, Japan derivative work: Inkey · CC BY 2.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Datong is a prefecture-level city in northern Shanxi Province in the People's Republic of China. It is located in the Datong Basin at an elevation of 1,040 metres (3,410 ft) and borders Inner Mongolia to the north and west and Hebei to the east. As of the 2020 census, it had a population of 3,105,591 of whom 1,790,452 lived in the built-up (or metro) area made of the 2 out 4 urban districts of Pingcheng and Yungang as Yunzhou and Xinrong are not conurbated yet.
+The Yungang Grottoes are excavated on the mountain, with a large scale and majestic momentum. They stretch for about 1 kilometer from east to west. There are 45 major caves in existence. The key caves include Shigu Cave, Hanquan Cave, Lingyan Temple Cave, Big Buddha Cave, etc.; the main landscapes include the Stone Buddha Temple, Lotus Avenue, Bhikshuni Tanmei Statue, Buddha Relief Wall, Buddha Avenue, Tan Yao Square, etc. In December 2001, it was approved by UNESCO to be included in the World Cultural Heritage List.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +53,10 @@ Datong is a prefecture-level city in northern Shanxi Province in the People's Re
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/大同市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/鲁班窑石窟)
 - [OpenStreetMap](https://www.openstreetmap.org/)

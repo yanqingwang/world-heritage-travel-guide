@@ -37,7 +37,8 @@
     "lat": 23.7206,
     "lon": 106.959999,
     "type": "medium_airport",
-    "distance_km": 98.5
+    "distance_km": 98.5,
+    "name_zh": "百色巴马机场"
    },
    {
     "name": "Nanning Wuxu International Airport",
@@ -47,7 +48,8 @@
     "lat": 22.598071,
     "lon": 108.181922,
     "type": "large_airport",
-    "distance_km": 151.2
+    "distance_km": 151.2,
+    "name_zh": "南宁吴圩国际机场"
    },
    {
     "name": "Van Don International Airport",
@@ -57,7 +59,8 @@
     "lat": 21.120693,
     "lon": 107.41539,
     "type": "medium_airport",
-    "distance_km": 205.6
+    "distance_km": 205.6,
+    "name_zh": "云屯国际机场"
    }
   ],
   "nearest_airport_km": 98.5,
@@ -193,5 +196,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

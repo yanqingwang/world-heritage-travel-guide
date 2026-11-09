@@ -37,7 +37,8 @@
     "lat": 38.801899,
     "lon": 100.675003,
     "type": "medium_airport",
-    "distance_km": 55.7
+    "distance_km": 55.7,
+    "name_zh": "张掖甘州机场"
    },
    {
     "name": "Haibei Qilian Airport",
@@ -47,7 +48,8 @@
     "lat": 38.008068,
     "lon": 100.645065,
     "type": "small_airport",
-    "distance_km": 118.9
+    "distance_km": 118.9,
+    "name_zh": "祁连机场"
    },
    {
     "name": "Alxa Right Banner Badanjilin Airport",
@@ -57,7 +59,8 @@
     "lat": 39.225,
     "lon": 101.546,
     "type": "small_airport",
-    "distance_km": 129.9
+    "distance_km": 129.9,
+    "name_zh": "阿拉善右旗巴丹吉林机场"
    }
   ],
   "nearest_airport_km": 55.7,
@@ -221,5 +224,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

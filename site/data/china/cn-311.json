@@ -88,7 +88,8 @@
     "lat": 30.558257,
     "lon": 103.945966,
     "type": "large_airport",
-    "distance_km": 123.3
+    "distance_km": 123.3,
+    "name_zh": "成都双流国际机场"
    },
    {
     "name": "Chengdu Tianfu International Airport",
@@ -98,7 +99,8 @@
     "lat": 30.31252,
     "lon": 104.441284,
     "type": "large_airport",
-    "distance_km": 132.9
+    "distance_km": 132.9,
+    "name_zh": "成都天府国际机场"
    }
   ],
   "nearest_airport_km": 40.9,
@@ -234,5 +236,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

@@ -10,7 +10,7 @@
  "city_zh": "甘南藏族自治州",
  "city_en": "Gannanzangzu Autonomous Prefecture",
  "name_zh": "甘南州冶力关旅游区",
- "name_en": "Yeliguanzhen Tourist Area",
+ "name_en": "Gannanzhouyeliguan Tourist Area",
  "name_en_source": "pinyin",
  "slug": "gannanzhouyeliguan-26562",
  "lat": 35.019003,
@@ -37,7 +37,8 @@
     "lat": 34.819014,
     "lon": 102.622261,
     "type": "medium_airport",
-    "distance_km": 94.4
+    "distance_km": 94.4,
+    "name_zh": "甘南夏河机场"
    },
    {
     "name": "Lanzhou Zhongchuan International Airport",
@@ -47,7 +48,8 @@
     "lat": 36.515202,
     "lon": 103.620003,
     "type": "large_airport",
-    "distance_km": 166.4
+    "distance_km": 166.4,
+    "name_zh": "兰州中川机场"
    },
    {
     "name": "Tianshui Maijishan Airport",
@@ -57,7 +59,8 @@
     "lat": 34.5601,
     "lon": 105.860343,
     "type": "medium_airport",
-    "distance_km": 210.1
+    "distance_km": 210.1,
+    "name_zh": "天水麦积山机场"
    }
   ],
   "nearest_airport_km": 94.4,
@@ -119,13 +122,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/冶力关镇"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:13Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-322"
 dataset: "china_5a"
 name_zh: "克拉玛依市世界魔鬼城景区"
-name_en: "Karamay"
+name_en: "Kelamayishishijiemoguicheng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Xinjiang"
 city_en: "Kelamayi City"
 lat: 46.136384
 lon: 85.754111
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 克拉玛依市世界魔鬼城景区 / Karamay
+# 克拉玛依市世界魔鬼城景区 / Kelamayishishijiemoguicheng Scenic Area
 
 > 新疆维吾尔自治区 · 克拉玛依市 · 宗教文化
-
-## 图片 / Images
-
-![Karamay river.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Karamay_river.jpg/1280px-Karamay_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Karamay river.jpg · Rart · CC BY-SA 4.0*
-
-![Karamay Cultural Street1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Karamay_Cultural_Street1.jpg/1280px-Karamay_Cultural_Street1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Karamay Cultural Street1.jpg · Rart · CC BY-SA 4.0*
-
-![Karamay Cultural Street2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Karamay_Cultural_Street2.jpg/1280px-Karamay_Cultural_Street2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Karamay Cultural Street2.jpg · Rart · CC BY-SA 4.0*
-
-![Karamay Dinosaur Garden.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Karamay_Dinosaur_Garden.jpg/1280px-Karamay_Dinosaur_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Karamay Dinosaur Garden.jpg · Rart · CC BY-SA 4.0*
-
-![Karamay statue.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Karamay_statue.jpg/1280px-Karamay_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Karamay statue.jpg · Rart · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Karamay (also spelled Karamai; Chinese: 克拉玛依, romanized: Kèlāmǎyī, Uyghur: قاراماي, romanized: Qaramay) is a prefecture-level city in the north of the Xinjiang Uyghur Autonomous Region, People's Republic of China. It is surrounded on all sides by Tacheng Prefecture. The name of the city comes from the Uyghur language and means "black oil", referring to the oil fields near the city. Karamay was the site of one of the worst disasters in modern Chinese history, the 1994 Karamay fire, when 324 people, including 288 school children, lost their lives in a cinema fire on 8 December 1994.
+The World Devil City in Karamay City, also known as Urho Wind City, is a type of wind-eroded landform formed in a drought and windy environment. The Devil's City runs northwest and east-west, with a length and width of more than 5 kilometers, a radius of about 10 square kilometers, and a ground altitude of about 350 meters. A group of wind-eroded rocks of various shapes have been formed in the city. Their shapes may be like palaces, platforms, pavilions, castles, or people, birds, or beasts. They are spectacular, mysterious and unpredictable, and have become one of the wonders of the world.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -69,10 +49,9 @@ Karamay (also spelled Karamai; Chinese: 克拉玛依, romanized: Kèlāmǎyī, U
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/克拉玛依市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

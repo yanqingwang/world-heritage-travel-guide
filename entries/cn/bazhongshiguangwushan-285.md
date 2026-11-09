@@ -2,7 +2,7 @@
 id: "cn-285"
 dataset: "china_5a"
 name_zh: "巴中市光雾山旅游景区"
-name_en: "Bazhong"
+name_en: "Bazhongdongzhan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Bazhong City"
 lat: 32.720751
 lon: 106.866943
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 巴中市光雾山旅游景区 / Bazhong
+# 巴中市光雾山旅游景区 / Bazhongdongzhan Scenic Area
 
 > 四川省 · 巴中市 · 地质奇观
-
-## 图片 / Images
-
-![巴中 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%B7%B4%E4%B8%AD_-_panoramio.jpg/1280px-%E5%B7%B4%E4%B8%AD_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*巴中 - panoramio.jpg · Xiaohui · CC BY 3.0*
-
-![重庆市长寿区人民政府关于公布32处区级文物保护单位保护范围和建设控制地带的通知（长寿府发〔2021〕62号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%E9%87%8D%E5%BA%86%E5%B8%82%E9%95%BF%E5%AF%BF%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%8332%E5%A4%84%E5%8C%BA%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%BF%9D%E6%8A%A4%E8%8C%83%E5%9B%B4%E5%92%8C%E5%BB%BA%E8%AE%BE%E6%8E%A7%E5%88%B6%E5%9C%B0%E5%B8%A6%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%95%BF%E5%AF%BF%E5%BA%9C%E5%8F%91%E3%80%942021%E3%80%9562%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E9%87%8D%E5%BA%86%E5%B8%82%E9%95%BF%E5%AF%BF%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%85%AC%E5%B8%8332%E5%A4%84%E5%8C%BA%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E4%BF%9D%E6%8A%A4%E8%8C%83%E5%9B%B4%E5%92%8C%E5%BB%BA%E8%AE%BE%E6%8E%A7%E5%88%B6%E5%9C%B0%E5%B8%A6%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E9%95%BF%E5%AF%BF%E5%BA%9C%E5%8F%91%E3%80%942021%E3%80%9562%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*重庆市长寿区人民政府关于公布32处区级文物保护单位保护范围和建设控制地带的通知（长寿府发〔2021〕62号）.pdf · 重庆市长寿区人民政府 · Public domain*
-
-![Bazhong-map.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bazhong-map.png/1280px-Bazhong-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Bazhong-map.png · 장길산 · Public domain*
-
-![Bazhong mcp.png](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bazhong_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Bazhong mcp.png · Maggern87 · CC0*
-
-![Bazhong page banner.jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bazhong_page_banner.jpeg/1280px-Bazhong_page_banner.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Bazhong page banner.jpeg · 无相 · CC BY 3.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Bazhong (Chinese: 巴中; pinyin: Bāzhōng; lit. 'centre of Ba') is a prefecture-level city in north-eastern Sichuan province, China. Its population was 2,712,894 at the 2020 census whom 1,064,766 lived in Bazhou and Enyang urban districts. As of the end of 2022, the resident population of Bazhong City was 2,658,800 people. At the end of 2024, the city's resident population was 2.613 million, including 1,278 million urban residents, and the urbanization rate of the resident population was 48.91%, an increase of 0.39 percentage points over the end of the previous year. At the end of the year, the registered population of the city was 3.543 million, a decrease of 23,100 compared with the end of the previous year.
+The tourist area is located in the northern part of Nanjiang County, Bazhong City, Sichuan Province, at the heart of Micang Mountain, at the junction of Sichuan and Shaanxi. It is located in the geometric center of the three major cities of Chengdu, Chongqing and Xi'an, covering an area of 830 square kilometers. Ecological vegetation, charming waterfalls and pools, beautiful canyon scenery and unique Cuban culture, Micang ancient road culture, and the culture of the Three Kingdoms complement each other. You can enjoy azaleas in spring, enjoy the coolness in the summer, enjoy red leaves in autumn, and see rime in winter. It was approved as a national scenic spot in 2004 and listed as a World Geopark in 2018.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -70,10 +50,10 @@ Bazhong (Chinese: 巴中; pinyin: Bāzhōng; lit. 'centre of Ba') is a prefectur
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/巴中市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/巴中东站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

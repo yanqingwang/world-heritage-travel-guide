@@ -54,7 +54,8 @@
     "lat": 45.623402,
     "lon": 126.25,
     "type": "large_airport",
-    "distance_km": 33.3
+    "distance_km": 33.3,
+    "name_zh": "哈尔滨太平国际机场"
    },
    {
     "name": "Daqing Sartu Airport",
@@ -64,7 +65,8 @@
     "lat": 46.750883,
     "lon": 125.138642,
     "type": "small_airport",
-    "distance_km": 155.3
+    "distance_km": 155.3,
+    "name_zh": "大庆萨尔图机场"
    },
    {
     "name": "Songyuan Chaganhu Airport",
@@ -74,7 +76,8 @@
     "lat": 44.931143,
     "lon": 124.552121,
     "type": "medium_airport",
-    "distance_km": 186.7
+    "distance_km": 186.7,
+    "name_zh": "松原查干湖机场"
    }
   ],
   "nearest_airport_km": 33.3,
@@ -219,5 +222,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

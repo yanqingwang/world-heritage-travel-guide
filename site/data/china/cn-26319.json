@@ -54,7 +54,8 @@
     "lat": 24.263425,
     "lon": 116.097857,
     "type": "small_airport",
-    "distance_km": 106.4
+    "distance_km": 106.4,
+    "name_zh": "梅州梅县机场"
    },
    {
     "name": "Ganzhou Huangjin Airport",
@@ -64,7 +65,8 @@
     "lat": 25.853333,
     "lon": 114.778889,
     "type": "small_airport",
-    "distance_km": 114.9
+    "distance_km": 114.9,
+    "name_zh": "赣州黄金机场"
    },
    {
     "name": "Liancheng Guanzhishan Airport",
@@ -74,7 +76,8 @@
     "lat": 25.67592,
     "lon": 116.745907,
     "type": "medium_airport",
-    "distance_km": 151.7
+    "distance_km": 151.7,
+    "name_zh": "龙岩冠豸山机场"
    }
   ],
   "nearest_airport_km": 106.4,
@@ -154,5 +157,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

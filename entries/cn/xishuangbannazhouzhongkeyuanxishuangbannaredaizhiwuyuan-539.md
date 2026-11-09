@@ -2,7 +2,7 @@
 id: "cn-539"
 dataset: "china_5a"
 name_zh: "西双版纳州中科院西双版纳热带植物园"
-name_en: "Xishuangbanna Dai Autonomous Prefecture"
+name_en: "Xishuangbanna Tropical Botanical Garden"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Yunnan"
 city_en: "Xishuangbanna Dai Autonomous Prefecture"
 lat: 21.931604
 lon: 101.262951
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 西双版纳州中科院西双版纳热带植物园 / Xishuangbanna Dai Autonomous Prefecture
+# 西双版纳州中科院西双版纳热带植物园 / Xishuangbanna Tropical Botanical Garden
 
 > 云南省 · 西双版纳傣族自治州 · 主题乐园
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Xishuangbanna, sometimes shortened to Banna, is one of the eight autonomous prefectures in Yunnan, China. This autonomous prefecture for Dai people lies in the extreme south of Yunnan, bordering both Myanmar and Laos. Xishuangbanna lies at latitude 21°10′-22°40′ and longitude 99°55′-101°50′ east, on the northern edge of the tropics south of the Tropic of Cancer. It has an area of 19,124.5 square kilometers, bordering Pu'er City to the northeast and northwest, Laos to the southeast and Myanmar to the southwest. The border is 966.3 kilometres or 600.4 miles long, one river connects six countries, and there are four national ports. The prefectural seat is Jinghong, the largest settlement in the area and one that straddles the Mekong, called the "Lancang River" in Chinese. This region of China is noted for the distinct culture of its ethnic groups, which is very different from that of the Han Chinese. The people, architecture, language and culture more closely resemble those of the Shan, Dai and Tai peoples, which includes the Thai and Lao. By the end of 2024, the resident population of the whole state will be 1,336,000.
+Xishuangbanna Tropical Botanical Garden (XTBG), of the Chinese Academy of Sciences (CAS), founded in 1959, is located in Mengla County, Xishuangbanna at 21º55' N, 101º15'E, covering an area of 1125 ha. Over 13,000 species of tropical plants are preserved in its 35 living collections, including over 301 families and 2110 genera.
 
 ## 交通 / Transport
 
@@ -72,10 +72,10 @@ Xishuangbanna, sometimes shortened to Banna, is one of the eight autonomous pref
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西双版纳傣族自治州)
+- [Wikipedia](https://zh.wikipedia.org/wiki/中国科学院西双版纳热带植物园)
 - [OpenStreetMap](https://www.openstreetmap.org/)

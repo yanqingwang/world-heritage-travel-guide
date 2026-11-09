@@ -37,7 +37,8 @@
     "lat": 42.048435,
     "lon": 125.733963,
     "type": "medium_airport",
-    "distance_km": 101.3
+    "distance_km": 101.3,
+    "name_zh": "通化三源浦机场"
    },
    {
     "name": "Changbaishan Airport",
@@ -47,7 +48,8 @@
     "lat": 42.066944,
     "lon": 127.602222,
     "type": "medium_airport",
-    "distance_km": 157.8
+    "distance_km": 157.8,
+    "name_zh": "长白山机场"
    },
    {
     "name": "Sondok Airport",
@@ -57,7 +59,8 @@
     "lat": 39.745201,
     "lon": 127.473999,
     "type": "medium_airport",
-    "distance_km": 196.9
+    "distance_km": 196.9,
+    "name_zh": "善德机场"
    }
   ],
   "nearest_airport_km": 101.3,
@@ -182,5 +185,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

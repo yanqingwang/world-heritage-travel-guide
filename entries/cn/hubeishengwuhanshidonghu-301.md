@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 30.557869
 lon: 114.420005
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 湖北省武汉市东湖景区 / Hubeishengwuhanshidonghu Scenic Area
@@ -81,5 +81,5 @@ Wuhan East Lake Ecological Tourism Scenic Area covers an area of ​​88 square
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/武汉市光谷汤逊湖高级中学)
+- [Wikipedia](https://zh.wikipedia.org/wiki/东湖宾馆 (武汉市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

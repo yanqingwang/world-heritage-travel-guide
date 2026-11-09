@@ -13,7 +13,7 @@ province_en: "Jiangxi"
 city_en: "Fuzhou"
 lat: 27.702518
 lon: 117.150348
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 抚州市资溪县大觉山景区 / Mount Dajue
@@ -34,9 +34,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Dajue Mountain Scenic Area is divided into two large areas: east and west. The East District is centered on the vast virgin forest as large as the sea, which brings together all kinds of animals and plants, and is known as the "natural oxygen bar" and "animal and plant gene bank". The West District is the perfect crystallization of nature and original ecology, and is a natural ecological and Buddhist cultural tourist attraction.
-
-*English introduction: machine translation.*
+Mount Dajue, also known as Dajue Mountain or Dajueshan, is a mountainous area and tourist attraction in Zixi County, Fuzhou, Jiangxi, China. It is one of the AAAAA Tourist Attractions of China. Dajue Mountain tourist area's highest elevation is 1,647m, and covers an area of 204 kilometers squared. The area contains ancient forest and cultural attractions, as well as canyon activities. Dajue Peak is located in the area and has a cableway reaching 1,200m altitude, and reaches a maximum height of 1,360 meters. There is also Dajue Temple, which is a large granite cave with a total depth of 69m; the temple has a history dating back at least 1,600 years, and is located in Lotus Mountain. A leisure resort has been built within the park. As of 2017, a glass bridge was another attraction in the area. The mountain has a subtropical humid monsoon climate, with an average of 1,596.7 hours of sunshine per year, an average temperature of 16.9 degrees Celsius and a rainfall of 1,929.9 mm annually. The scenic area is home to 123 rare and endangered species. These include Taxus chinensis and the gingko. There are at least 206 species of animals under state protection, including the clouded leopard 
 
 ## 交通 / Transport
 
@@ -49,11 +47,11 @@ Dajue Mountain Scenic Area is divided into two large areas: east and west. The E
 
 ## 附近酒店 / Nearby hotels
 
-- **圣农假日酒店** — 25.6 km — chain
 - **资溪面包之家大酒店** — 7.2 km — hotel
 - **天福酒店** — 24.5 km — hotel
 - **人头马酒店** — 24.8 km — hotel
 - **温馨大酒店** — 25.2 km — hotel
+- **圣农假日酒店** — 25.6 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

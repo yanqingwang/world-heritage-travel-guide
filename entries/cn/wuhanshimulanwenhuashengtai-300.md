@@ -2,7 +2,7 @@
 id: "cn-300"
 dataset: "china_5a"
 name_zh: "武汉市木兰文化生态旅游区"
-name_en: "Wuhan"
+name_en: "Mulanshan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 31.099165
 lon: 114.403265
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 武汉市木兰文化生态旅游区 / Wuhan
+# 武汉市木兰文化生态旅游区 / Mulanshan Tourist Area
 
 > 湖北省 · 武汉市 · 草原沙漠
-
-## 图片 / Images
-
-![武汉黄鹤楼俯瞰.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg/1280px-%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*武汉黄鹤楼俯瞰.jpg · 螺钉 · CC BY-SA 4.0*
-
-![Wuhan-location-MAP-in-Hubei-Province-in-China.jpg](https://upload.wikimedia.org/wikipedia/commons/0/00/Wuhan-location-MAP-in-Hubei-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wuhan-location-MAP-in-Hubei-Province-in-China.jpg · Dagvidur · CC BY-SA 4.0*
-
-![WuhanSkyline.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/WuhanSkyline.jpg/1280px-WuhanSkyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*WuhanSkyline.jpg · AndrewHorne at English Wikipedia · CC BY-SA 3.0*
-
-![Wuhan (32164).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Wuhan_%2832164%29.jpg/1280px-Wuhan_%2832164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wuhan (32164).jpg · Rc1959 · CC BY-SA 4.0*
-
-![Wuhan (49777).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Wuhan_%2849777%29.jpg/1280px-Wuhan_%2849777%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Wuhan (49777).jpg · Rc1959 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Wuhan is the capital of Hubei, China. With a population of 13,861,900, it is the most populous city in Hubei and the seventh-most-populous city in China. It is also one of China's nine national central cities. Wuhan historically served as a busy city port for commerce and trading with some crucial influences on Chinese history. The name "Wuhan" came from the city's historical origin from the conglomeration of Wuchang, Hankou, and Hanyang, which are collectively known as the "Three Towns of Wuhan" (武汉三镇). Wuhan lies in the eastern Jianghan Plain, at the confluence of the Yangtze river and its largest tributary, the Han River, and is known as "Nine Provinces' Thoroughfare" (九省通衢). Wuhan was the site of the 1911 Wuchang Uprising against the Qing dynasty which ended 2,000 years of dynastic rule. Wuhan was briefly a capital of China twice, in 1927 under a left wing Kuomintang (KMT) government, and in 1937 as a provisional wartime capital during World War II. In 1938, during the Second Sino-Japanese War, the city was the site of the Battle of Wuhan. On December 31, 2019, SARS-CoV-2, a novel coronavirus that later caused the COVID-19 pandemic, was first discovered in Wuhan and the city wa
+Huangpi Mulan Cultural Ecological Tourism Area is composed of four major scenic spots: Mulan Mountain, Mulan Tianchi, Mulan Grassland, and Mulan Yunwu Mountain. It is the largest urban ecotourism scenic spot group in Central China and an important tourist destination in Central China and high-speed rail tours.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -71,10 +51,10 @@ Wuhan is the capital of Hubei, China. With a population of 13,861,900, it is the
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/武汉市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/木兰山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

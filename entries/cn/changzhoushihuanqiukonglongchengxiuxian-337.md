@@ -2,7 +2,7 @@
 id: "cn-337"
 dataset: "china_5a"
 name_zh: "常州市环球恐龙城休闲旅游区"
-name_en: "Changzhoushihuanqiukonglongchengxiuxian Tourist Area"
+name_en: "Xixiakonglongyizhiyuan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.828146
 lon: 120.00606
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 常州市环球恐龙城休闲旅游区 / Changzhoushihuanqiukonglongchengxiuxian Tourist Area
+# 常州市环球恐龙城休闲旅游区 / Xixiakonglongyizhiyuan Tourist Area
 
 > 江苏省 · 常州市 · 主题乐园
-
-## 图片 / Images
-
-![20090919 Changzhou Imgp5266.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20090919_Changzhou_Imgp5266.jpg/1280px-20090919_Changzhou_Imgp5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20090919 Changzhou Imgp5266.jpg · Jakub Hałun · CC BY-SA 4.0*
-
-![Administrative-Division-Changzhou-Icelandic.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3c/Administrative-Division-Changzhou-Icelandic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Administrative-Division-Changzhou-Icelandic.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Changzhou-in-China-location-map.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Changzhou-in-China-location-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Changzhou-in-China-location-map.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg · Dagvidur · CC BY-SA 4.0*
-
-![ChangzhouOldCityDistrict.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ChangzhouOldCityDistrict.jpg/1280px-ChangzhouOldCityDistrict.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*ChangzhouOldCityDistrict.jpg · Chen Yihan · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -83,5 +61,5 @@ Universal Dinosaur City is a dinosaur-themed comprehensive tourist resort. Unive
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/奥体中心站 (常州市))
+- [Wikipedia](https://zh.wikipedia.org/wiki/西峡恐龙遗址园)
 - [OpenStreetMap](https://www.openstreetmap.org/)

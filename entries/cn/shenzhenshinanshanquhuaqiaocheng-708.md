@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Shenzhen"
 lat: 22.543555
 lon: 113.989928
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 深圳市南山区华侨城旅游度假区 / Shenzhenshinanshanquhuaqiaocheng Tourist Resort
 
 > 广东省 · 深圳市 · 主题乐园
-
-## 图片 / Images
-
-![China Resources Headquarters&Shenzhen Bay gymnasium in Nanshan District2020.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*China Resources Headquarters&Shenzhen Bay gymnasium in Nanshan District2020.jpg · Charlie fong · CC BY-SA 4.0*
-
-![Nanshan District Government,Shenzhen.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Nanshan_District_Government%2CShenzhen.jpg/1280px-Nanshan_District_Government%2CShenzhen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Nanshan District Government,Shenzhen.jpg · Lhzss8 · CC BY-SA 4.0*
-
-![SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (10).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2810%29.jpg/1280px-SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (10).jpg · Dinkun Chen · CC BY-SA 4.0*
-
-![SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (11).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2811%29.jpg/1280px-SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (11).jpg · Dinkun Chen · CC BY-SA 4.0*
-
-![SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (14).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2814%29.jpg/1280px-SUNSET_OF_XILI%2C_NANSHAN_DISTRICT%2C_SHENZHEN_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*SUNSET OF XILI, NANSHAN DISTRICT, SHENZHEN (14).jpg · Dinkun Chen · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

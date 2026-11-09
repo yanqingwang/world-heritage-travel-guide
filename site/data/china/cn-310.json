@@ -78,7 +78,8 @@
     "lat": 32.853333,
     "lon": 103.682222,
     "type": "medium_airport",
-    "distance_km": 41.0
+    "distance_km": 41.0,
+    "name_zh": "九寨黄龙机场"
    },
    {
     "name": "Guangyuan Panlong Airport",
@@ -88,7 +89,8 @@
     "lat": 32.390254,
     "lon": 105.694571,
     "type": "medium_airport",
-    "distance_km": 186.7
+    "distance_km": 186.7,
+    "name_zh": "广元盘龙机场"
    },
    {
     "name": "Longnan Chengzhou Airport",
@@ -98,7 +100,8 @@
     "lat": 33.789918,
     "lon": 105.790014,
     "type": "medium_airport",
-    "distance_km": 186.8
+    "distance_km": 186.8,
+    "name_zh": "陇南成州机场"
    }
   ],
   "nearest_airport_km": 41.0,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

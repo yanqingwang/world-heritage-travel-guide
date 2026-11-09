@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Xiamen"
 lat: 24.454028
 lon: 118.116413
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 厦门市厦门园林植物园景区 / Xiamen Botanical Gardens
@@ -65,9 +65,9 @@ Xiamen Botanical Garden (XMBG; Chinese: 厦门市园林植物园; pinyin: Xiàm�
 
 - **厦门康莱德酒店** — 3.7 km — star — Conrad Xiamen · 5★ · Hilton
 - **Millenium Harbour View** — 3.9 km — star — 4★
-- **全季酒店** — 2.2 km — chain — Ji Hotel · 全季酒店
-- **如家酒店** — 2.4 km — chain — Home Inn · 如家酒店
-- **亚朵酒店** — 2.4 km — chain — Atour
+- **厦门佳逸希尔顿格芮精选酒店** — 2.4 km — chain — Joyze Hotel Xiamen, Curio Collection By Hilton
+- **凯宾斯基大酒店** — 3.2 km — chain
+- **金色四季酒店** — 3.7 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

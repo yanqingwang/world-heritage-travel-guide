@@ -24,48 +24,7 @@
  "intro_zh": "绵山风景名胜区，跨介休、灵石、沁源三市县地界，是太岳山的一条支脉。景区建筑群体中宗教建筑有殿庙、宫观，园林建筑有亭、台、楼、阁、轩、廊、榭、牌楼，古留遗迹建筑有古营门、城池、营寨等。",
  "intro_en": "Mianshan Scenic Area, spanning the boundaries of Jiexiu, Lingshi and Qinyuan cities and counties, is a branch of Taiyue Mountain. Among the architectural groups in the scenic area, religious buildings include temples and palaces, garden buildings include pavilions, terraces, towers, pavilions, pavilions, corridors, pavilions, and archways, and ancient relic buildings include ancient camp gates, cities, camps, etc.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Buildings_in_Pingyao_2018-06-13_093324.jpg/1280px-Buildings_in_Pingyao_2018-06-13_093324.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Buildings in Pingyao 2018-06-13 093324.jpg",
-   "author": "David290",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Buildings_in_Pingyao_2018-06-13_093324.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jinzhong-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Jinzhong-map.png",
-   "author": "장길산",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong-map.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Jinzhong_Railway_Station_%2820241107155630%29.jpg/1280px-Jinzhong_Railway_Station_%2820241107155630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jinzhong Railway Station (20241107155630).jpg",
-   "author": "N509FZ",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_(20241107155630).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg/1280px-Jinzhong_Railway_Station_%28August_11%2C_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jinzhong Railway Station (August 11, 2026).jpg",
-   "author": "Ib",
-   "license": "CC BY 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_Railway_Station_(August_11,_2026).jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jinzhong_mcp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Jinzhong mcp.png",
-   "author": "Maggern87",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jinzhong_mcp.png"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 36.132629,
     "lon": 111.641236,
     "type": "medium_airport",
-    "distance_km": 91.4
+    "distance_km": 91.4,
+    "name_zh": "临汾乔李机场"
    },
    {
     "name": "Taiyuan Wusu International Airport",
@@ -88,7 +48,8 @@
     "lat": 37.746899,
     "lon": 112.627998,
     "type": "large_airport",
-    "distance_km": 109.7
+    "distance_km": 109.7,
+    "name_zh": "太原武宿国际机场"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -98,7 +59,8 @@
     "lat": 37.683333,
     "lon": 111.142778,
     "type": "medium_airport",
-    "distance_km": 112.5
+    "distance_km": 112.5,
+    "name_zh": "吕梁机场"
    }
   ],
   "nearest_airport_km": 91.4,
@@ -218,5 +180,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

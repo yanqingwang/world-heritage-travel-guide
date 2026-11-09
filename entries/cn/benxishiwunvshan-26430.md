@@ -13,34 +13,12 @@ province_en: "Liaoning"
 city_en: "Benxi City"
 lat: 41.332991
 lon: 125.419948
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 本溪市五女山景区 / Wunvshanzhan Scenic Area
 
 > 辽宁省 · 本溪市 · 主题乐园
-
-## 图片 / Images
-
-![Benxi Blick über die Stadt.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Benxi_Blick_%C3%BCber_die_Stadt.jpg/1280px-Benxi_Blick_%C3%BCber_die_Stadt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Benxi Blick über die Stadt.jpg · Andreas · CC BY-SA 3.0*
-
-![CADAL09012191 遼寧省政府公報.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/CADAL09012191_%E9%81%BC%E5%AF%A7%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu/page1-1280px-CADAL09012191_%E9%81%BC%E5%AF%A7%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09012191 遼寧省政府公報.djvu · Public domain*
-
-![CADAL09012198 遼寧省政府公報.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/CADAL09012198_%E9%81%BC%E5%AF%A7%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu/page1-1280px-CADAL09012198_%E9%81%BC%E5%AF%A7%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09012198 遼寧省政府公報.djvu · Public domain*
-
-![CADAL09012233 遼寧省政府公報.djvu](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/CADAL09012233_%E9%81%BC%E5%AF%A7%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu/page1-1280px-CADAL09012233_%E9%81%BC%E5%AF%A7%E7%9C%81%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*CADAL09012233 遼寧省政府公報.djvu · Public domain*
-
-![中华人民共和国全国人民代表大会常务委员会公报1958年总第26号.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A51958%E5%B9%B4%E6%80%BB%E7%AC%AC26%E5%8F%B7.pdf/page1-960px-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%B8%B8%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%AC%E6%8A%A51958%E5%B9%B4%E6%80%BB%E7%AC%AC26%E5%8F%B7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*中华人民共和国全国人民代表大会常务委员会公报1958年总第26号.pdf · General Office of the Standing Committee of the National People's Congress · Public domain*
 
 ## 简介 / Introduction
 

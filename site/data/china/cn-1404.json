@@ -24,48 +24,7 @@
  "intro_zh": "景区以展示东方古典文化为主，是一处自然山水和悦生美、人文建筑相得益彰、民俗演艺璀璨生辉、吃住行游娱购全面发展的大型生态文化旅游区，被评为国家级文化产业示范基地。",
  "intro_en": "The scenic area mainly displays oriental classical culture. It is a large-scale ecological cultural tourism area with natural landscapes and beautiful scenery, humanities and architecture complementing each other, splendid folk performances, and comprehensive development of food, accommodation, travel, entertainment and shopping. It has been rated as a national cultural industry demonstration base.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Weihai_City.jpg/1280px-Weihai_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Weihai City.jpg",
-   "author": "蒋",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Weihai_City.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Plan_Of_Oie-Hai-Oie_Harbour.jpg/1280px-Plan_Of_Oie-Hai-Oie_Harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Plan Of Oie-Hai-Oie Harbour.jpg",
-   "author": "Crawford, John ; Horsburgh, James (Herausgeber/-in)",
-   "license": "CC0",
-   "credit": "Leibniz-Institut für Länderkunde e.V., Leipzig",
-   "source": "https://commons.wikimedia.org/wiki/File:Plan_Of_Oie-Hai-Oie_Harbour.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg/1280px-Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Shantung Province and Wei Hai Wei Map 1954.jpg",
-   "author": "US Army Corps of Engineers",
-   "license": "Public domain",
-   "credit": "http://www.lib.utexas.edu/maps/ams/china/",
-   "source": "https://commons.wikimedia.org/wiki/File:Shantung_Province_and_Wei_Hai_Wei_Map_1954.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wei-Hai-Wei_%281906%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Wei-Hai-Wei (1906).jpg",
-   "author": "Unknown author Unknown author",
-   "license": "Public domain",
-   "credit": "C. P. Lucas: A Historical Geography of the British Colonies, Second Edition, Volume I: The Mediterranean and Eastern Colonies,. Clarendon Press, Oxford, 1906.",
-   "source": "https://commons.wikimedia.org/wiki/File:Wei-Hai-Wei_(1906).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Wei-hai-wei_NJ51_10_2567233.jpg/1280px-Wei-hai-wei_NJ51_10_2567233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Wei-hai-wei NJ51 10 2567233.jpg",
-   "author": "Army Map Service",
-   "license": "Public domain",
-   "credit": "https://id.lib.harvard.edu/alma/990094028280203941/catalog",
-   "source": "https://commons.wikimedia.org/wiki/File:Wei-hai-wei_NJ51_10_2567233.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 37.187099,
     "lon": 122.228996,
     "type": "medium_airport",
-    "distance_km": 28.6
+    "distance_km": 28.6,
+    "name_zh": "威海大水泊国际机场"
    },
    {
     "name": "Yantai Penglai International Airport",
@@ -88,7 +48,8 @@
     "lat": 37.659724,
     "lon": 120.978124,
     "type": "large_airport",
-    "distance_km": 104.0
+    "distance_km": 104.0,
+    "name_zh": "烟台蓬莱国际机场"
    },
    {
     "name": "Dalian Zhoushuizi International Airport",
@@ -98,7 +59,8 @@
     "lat": 38.965719,
     "lon": 121.538477,
     "type": "large_airport",
-    "distance_km": 178.2
+    "distance_km": 178.2,
+    "name_zh": "大连周水子国际机场"
    }
   ],
   "nearest_airport_km": 28.6,
@@ -225,9 +187,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/西苑街道 (威海市)"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

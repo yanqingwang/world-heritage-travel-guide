@@ -2,7 +2,7 @@
 id: "cn-402"
 dataset: "china_5a"
 name_zh: "无锡市惠山古镇景区"
-name_en: "Wuxi"
+name_en: "Huishanguzhenzhan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.58758
 lon: 120.280765
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 无锡市惠山古镇景区 / Wuxi
+# 无锡市惠山古镇景区 / Huishanguzhenzhan Scenic Area
 
 > 江苏省 · 无锡市 · 古镇村落
-
-## 图片 / Images
-
-![Wuxi-bird-view.PNG](https://upload.wikimedia.org/wikipedia/commons/b/bd/Wuxi-bird-view.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wuxi-bird-view.PNG · Synyan · CC BY 3.0*
-
-![国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf/page1-960px-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E6%A0%B8%E5%AE%9A%E5%B9%B6%E5%85%AC%E5%B8%83%E7%AC%AC%E5%85%AB%E6%89%B9%E5%85%A8%E5%9B%BD%E9%87%8D%E7%82%B9%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%9B%BD%E5%8F%91%E3%80%942019%E3%80%9522%E5%8F%B7%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*国务院关于核定并公布第八批全国重点文物保护单位的通知（国发〔2019〕22号）.pdf · 中华人民共和国国务院 · Public domain*
-
-![Administrative-Division-Wuxi-Jiangsu-China (Icelandic).png](https://upload.wikimedia.org/wikipedia/commons/b/b5/Administrative-Division-Wuxi-Jiangsu-China_%28Icelandic%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Administrative-Division-Wuxi-Jiangsu-China (Icelandic).png · Dagvidur · CC BY-SA 4.0*
-
-![Grand Park Wuxi, China.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c4/Grand_Park_Wuxi%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Grand Park Wuxi, China.jpg · Phkitty · CC BY 4.0*
-
-![Wuxi-location-MAP-in-Jiangsu-Province-China.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c9/Wuxi-location-MAP-in-Jiangsu-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Wuxi-location-MAP-in-Jiangsu-Province-China.jpg · Dagvidur · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Wuxi is a city in southern Jiangsu, China. As of 2024, it had a population of 7,495,000. The city lies in the southern Yangtze delta and borders Lake Tai. Notable landmarks include Lihu Park, the Mt. Lingshan Grand Buddha Scenic Area and its 88-meter (289 ft)-tall Grand Buddha at Ling Shan statue, Xihui Park, Wuxi Zoo, and the Wuxi Museum. Transportation options include Wuxi Shuofang Airport, Wuxi Metro, Shanghai–Nanjing intercity high-speed railway, and Beijing–Shanghai high-speed railway. Wuxi is home to Jiangnan University.
+Huishan Ancient Town Scenic Area was formed by the merger of the original Xihui Park and Huishan Historical and Cultural District. It is divided into four tourist areas in terms of regional functions: cultural relics area, Xihui scenic area, historical and cultural block and mountain forest protection area. Famous scenic spots include the ruins of the ancestors of Liangzhu Xishan, the place where Chun Shenjun drank his horse during the Warring States Period, the Huishan Temple Garden during the Southern and Northern Dynasties, the second spring in the world in the Tang Dynasty, the Golden Lotus Bridge in the Song Dynasty, the ancient garden of the Ming Dynasty, Jichang Garden, and the Yugong Valley. Erquan Academy and Bishan Yinshe, as well as 118 ancestral halls and gardens from the Tang Dynasty to the Republic of China, and the cemetery of A Bing, the composer of Erquan Yingyue.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -76,10 +56,10 @@ Wuxi is a city in southern Jiangsu, China. As of 2024, it had a population of 7,
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/无锡市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/惠山古镇站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

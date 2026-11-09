@@ -10,8 +10,8 @@
  "city_zh": "西安市",
  "city_en": "Xi'an",
  "name_zh": "西安市城墙•碑林历史文化景区",
- "name_en": "Xi'an",
- "name_en_source": "wikipedia",
+ "name_en": "Xianshidiershiliuzhongxue Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "xianshichengqiang-beilinlishiwenhua-940",
  "lat": 34.265569,
  "lon": 108.977354,
@@ -22,50 +22,9 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "西安城墙·碑林历史文化景区由西安市最有影响力的碑林博物馆和城墙景区组成，西安碑林博物馆紧邻书院门文化街，以收藏、陈列和研究历代碑刻、墓志和石刻闻名。西安城墙延续了整个古都长安的历史文脉，并以其独特的魅力向世人绽放着她的恢弘、壮丽和博大，展示着古都的深邃、智慧和兼容并蓄。",
- "intro_en": "Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city on the Guanzhong plain, the city is the most populous in the province and third-most populous in Western China after Chongqing and Chengdu, as well as the most populous in Northwestern China. Based on the city's 2025 1% population sample survey, its estimated year-end resident population was 13.24 million, of whom 10.72 million were urban residents. Xi'an is one of the oldest cities in China. Known as Chang'an throughout much of its history, Xi'an is one of China's Five Great Ancient Capitals, having held the position under several of the most important dynasties in Chinese history, including the Western Zhou, Qin, Western Han, Sui, Northern Zhou and Tang. Xi'an is now the second-most popular tourist destination in China. Xi'an contains the Mausoleum of the First Qin Emperor, including the Terracotta Army, and five component sites of the UNESCO-listed Silk Roads: the Routes Network of Chang'an-Tianshan Corridor. Since the 1980s, as part of the economic growth of inland China especially for the central and northwest regions, Xi'an has developed into a cultural, industrial, political and educational, and r",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg/1280px-%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "西安钟楼2020 (1).jpg",
-   "author": "ScareCriterion12",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:西安钟楼2020_(1).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Hawk_Type_97_Xi%27an_Gaoke_Annex_Building.jpg/1280px-Hawk_Type_97_Xi%27an_Gaoke_Annex_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Hawk Type 97 Xi'an Gaoke Annex Building.jpg",
-   "author": "DieSonneUnsLach",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Hawk_Type_97_Xi'an_Gaoke_Annex_Building.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Xi%27an%2C_China.jpg/1280px-Xi%27an%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Xi'an, China.jpg",
-   "author": "Ideophagous",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Xi'an,_China.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Xi%27an%2C_China_%2835775%29.jpg/1280px-Xi%27an%2C_China_%2835775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Xi'an, China (35775).jpg",
-   "author": "Ideophagous",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Xi'an,_China_(35775).jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Xi%27an%2C_China_%2838809%29.jpg/1280px-Xi%27an%2C_China_%2838809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Xi'an, China (38809).jpg",
-   "author": "Ideophagous",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Xi'an,_China_(38809).jpg"
-  }
- ],
+ "intro_en": "Xi'an City Wall and Forest of Steles Historical and Cultural Scenic Area consists of Xi'an's most influential Forest of Steles Museum and City Wall Scenic Area. The Xi'an Forest of Steles Museum is adjacent to the Academy Gate Cultural Street and is famous for its collection, display and research of inscriptions, epitaphs and stone carvings from past dynasties. The Xi'an City Wall continues the historical context of the entire ancient capital of Chang'an, and with its unique charm, it blooms its magnificence, magnificence and breadth to the world, demonstrating the depth, wisdom and inclusiveness of the ancient capital.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 34.442207,
     "lon": 108.762385,
     "type": "large_airport",
-    "distance_km": 27.8
+    "distance_km": 27.8,
+    "name_zh": "西安咸阳国际机场"
    },
    {
     "name": "Ankang Fuqiang Airport",
@@ -88,7 +48,8 @@
     "lat": 32.75696,
     "lon": 108.87338,
     "type": "small_airport",
-    "distance_km": 168.0
+    "distance_km": 168.0,
+    "name_zh": "安康富强机场"
    },
    {
     "name": "Hanzhong Chenggu Airport",
@@ -98,7 +59,8 @@
     "lat": 33.133527,
     "lon": 107.203817,
     "type": "medium_airport",
-    "distance_km": 206.8
+    "distance_km": 206.8,
+    "name_zh": "汉中城固机场"
    }
   ],
   "nearest_airport_km": 27.8,
@@ -193,11 +155,10 @@
  "hotels_nearby_30km": 328,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +177,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -227,12 +188,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/西安市"
+   "url": "https://zh.wikipedia.org/wiki/西安市第二十六中学"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

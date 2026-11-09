@@ -24,16 +24,7 @@
  "intro_zh": "红海滩国家风景廊道全长18公里，被誉为“世界红色海岸线”。景区依托浩瀚的绿苇荡和退海湿地的先锋植物碱蓬草构成了红绿相间的天下奇观。景区由依水云舟、卧龙湖码头、小岛闲情、踏霞漫步、岁月小栈、向海同心、廊桥爱梦、稻梦空间、情人岛、爱情宣言廊道十个景点组成，一条沿海公路串联其间。",
  "intro_en": "The Red Beach National Scenic Corridor is 18 kilometers long and is known as the \"Red Coastline of the World\". The scenic spot relies on the vast green reed swamps and the pioneer plant Suaeda salsa in the retreated wetland to form a world wonder of red and green. The scenic spot consists of ten scenic spots: Yishui Yunzhou, Wolong Lake Pier, Island Leisure, Walking on the Clouds, Years Inn, Xianghai Tongxin, Covered Bridge Love Dream, Daomeng Space, Lover Island, and Love Declaration Corridor. A coastal road connects them.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Water-of-Five-colored-Pond Huanglong Sichuan China.jpg",
-   "author": "Kounosu",
-   "license": "CC BY-SA 3.0",
-   "credit": "Self-photographed",
-   "source": "https://commons.wikimedia.org/wiki/File:Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "http://www.hhtld.com/ticket/index.htm",
  "transport": {
@@ -46,7 +37,8 @@
     "lat": 40.936032,
     "lon": 121.277114,
     "type": "medium_airport",
-    "distance_km": 48.4
+    "distance_km": 48.4,
+    "name_zh": "锦州湾机场"
    },
    {
     "name": "Yingkou Lanqi Airport",
@@ -56,7 +48,8 @@
     "lat": 40.542524,
     "lon": 122.3586,
     "type": "medium_airport",
-    "distance_km": 58.9
+    "distance_km": 58.9,
+    "name_zh": "营口兰旗机场"
    },
    {
     "name": "Anshan Teng'ao Airport / Anshan Air Base",
@@ -66,7 +59,8 @@
     "lat": 41.105301,
     "lon": 122.853996,
     "type": "medium_airport",
-    "distance_km": 86.9
+    "distance_km": 86.9,
+    "name_zh": "鞍山腾鳌机场"
    }
   ],
   "nearest_airport_km": 48.4,
@@ -164,5 +158,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

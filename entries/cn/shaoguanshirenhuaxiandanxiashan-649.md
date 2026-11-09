@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Shaoguan"
 lat: 25.027559
 lon: 113.727658
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 韶关市仁化县丹霞山景区 / Mount Danxia
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Danxia Mountain is a world geological park, a world natural heritage, a national scenic spot, and a national geopark. Danxia Mountain is named after "Danxia Landform". Among the more than 1,200 Danxia landforms discovered around the world, Danxia Mountain is one of the most typical Danxia landforms with the most complete types, richest shapes and most beautiful scenery.
-
-*English introduction: machine translation.*
+Mount Danxia (Chinese: 丹霞山; pinyin: Dānxiá Shān) is a noted scenic mountainous area in Renhua County, in the northern part of Guangdong province. It is described on the local signage as a "world famous UNESCO geopark of China". It was inscribed as part of the China Danxia World Heritage Site in 2010 because of its unique geographical in formations and spectacular scenery. It is also an AAAAA Chinese attraction.
 
 ## 交通 / Transport
 

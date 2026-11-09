@@ -24,16 +24,7 @@
  "intro_zh": "泰宁风景区位于武夷山脉中段的杉岭支脉东南侧，包括金湖、上清溪、状元岩、猫儿山、九龙潭、寨下大峡谷、泰宁古城七大景区，以水上丹霞、峡谷群落、洞穴奇观、原始生态为主要景观特点。景区以典型青年期丹霞地貌为主体，兼有火山岩、花岗岩、构造地貌等多种地质遗迹，是一个综合性地质公园。",
  "intro_en": "Taining Scenic Area is located on the southeast side of the Shanling branch in the middle section of the Wuyi Mountains. It includes seven scenic areas: Jinhu Lake, Shangqing Creek, Zhuangyuanyan, Maoer Mountain, Jiulongtan, Zhaixia Grand Canyon, and Taining Ancient City. The main landscape features are Danxia on the water, canyon communities, cave wonders, and primitive ecology. The scenic area is dominated by the typical young Danxia landform, and also contains various geological relics such as volcanic rocks, granite, and structural landforms. It is a comprehensive geological park.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Water-of-Five-colored-Pond Huanglong Sichuan China.jpg",
-   "author": "Kounosu",
-   "license": "CC BY-SA 3.0",
-   "credit": "Self-photographed",
-   "source": "https://commons.wikimedia.org/wiki/File:Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -46,7 +37,8 @@
     "lat": 26.4263,
     "lon": 117.8336,
     "type": "medium_airport",
-    "distance_km": 87.3
+    "distance_km": 87.3,
+    "name_zh": "三明沙县机场"
    },
    {
     "name": "Nanping Wuyishan Airport",
@@ -56,7 +48,8 @@
     "lat": 27.7019,
     "lon": 118.000999,
     "type": "medium_airport",
-    "distance_km": 127.8
+    "distance_km": 127.8,
+    "name_zh": "武夷山机场"
    },
    {
     "name": "Liancheng Guanzhishan Airport",
@@ -66,7 +59,8 @@
     "lat": 25.67592,
     "lon": 116.745907,
     "type": "medium_airport",
-    "distance_km": 137.6
+    "distance_km": 137.6,
+    "name_zh": "龙岩冠豸山机场"
    }
   ],
   "nearest_airport_km": 87.3,
@@ -145,5 +139,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -78,7 +78,8 @@
     "lat": 37.187099,
     "lon": 122.228996,
     "type": "medium_airport",
-    "distance_km": 35.5
+    "distance_km": 35.5,
+    "name_zh": "威海大水泊国际机场"
    },
    {
     "name": "Yantai Penglai International Airport",
@@ -88,7 +89,8 @@
     "lat": 37.659724,
     "lon": 120.978124,
     "type": "large_airport",
-    "distance_km": 104.6
+    "distance_km": 104.6,
+    "name_zh": "烟台蓬莱国际机场"
    },
    {
     "name": "Dalian Zhoushuizi International Airport",
@@ -98,7 +100,8 @@
     "lat": 38.965719,
     "lon": 121.538477,
     "type": "large_airport",
-    "distance_km": 171.5
+    "distance_km": 171.5,
+    "name_zh": "大连周水子国际机场"
    }
   ],
   "nearest_airport_km": 35.5,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

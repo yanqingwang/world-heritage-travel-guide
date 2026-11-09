@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 32.748974
 lon: 103.839658
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 阿坝州黄龙风景名胜区 / Stone Forest
 
 > 四川省 · 阿坝藏族羌族自治州 · 自然风光
-
-## 图片 / Images
-
-![Water-of-Five-colored-Pond Huanglong Sichuan China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Water-of-Five-colored-Pond Huanglong Sichuan China.jpg · Kounosu · CC BY-SA 3.0*
-
-![1 huanglong pools aerial 2011.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/1_huanglong_pools_aerial_2011.jpg/1280px-1_huanglong_pools_aerial_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1 huanglong pools aerial 2011.jpg · chensiyuan · CC BY-SA 4.0*
-
-![Huanglong Sichuan China Doppelmayr-Ropeway-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg/1280px-Huanglong_Sichuan_China_Doppelmayr-Ropeway-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huanglong Sichuan China Doppelmayr-Ropeway-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
-
-![Huanglong Sichuan China Multicolored-ponds-02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Huanglong_Sichuan_China_Multicolored-ponds-02.jpg/1280px-Huanglong_Sichuan_China_Multicolored-ponds-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huanglong Sichuan China Multicolored-ponds-02.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
-
-![Huanglong Sichuan Tourist-Cabin-01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Huanglong_Sichuan_Tourist-Cabin-01.jpg/1280px-Huanglong_Sichuan_Tourist-Cabin-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Huanglong Sichuan Tourist-Cabin-01.jpg · CEphoto, Uwe Aranas · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 

@@ -37,7 +37,8 @@
     "lat": 36.857201,
     "lon": 117.216003,
     "type": "large_airport",
-    "distance_km": 27.1
+    "distance_km": 27.1,
+    "name_zh": "济南遥墙国际机场"
    },
    {
     "name": "Jining Da'an Airport",
@@ -47,7 +48,8 @@
     "lat": 35.647358,
     "lon": 116.743269,
     "type": "medium_airport",
-    "distance_km": 116.5
+    "distance_km": 116.5,
+    "name_zh": "济宁大安机场"
    },
    {
     "name": "Dongying Shengli Airport",
@@ -57,7 +59,8 @@
     "lat": 37.50137,
     "lon": 118.789863,
     "type": "medium_airport",
-    "distance_km": 182.1
+    "distance_km": 182.1,
+    "name_zh": "东营胜利机场"
    }
   ],
   "nearest_airport_km": 27.1,
@@ -220,5 +223,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

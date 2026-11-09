@@ -78,7 +78,8 @@
     "lat": 29.465658,
     "lon": 107.693664,
     "type": "medium_airport",
-    "distance_km": 66.1
+    "distance_km": 66.1,
+    "name_zh": "武隆仙女山机场"
    },
    {
     "name": "Chongqing Jiangbei International Airport",
@@ -88,7 +89,8 @@
     "lat": 29.712254,
     "lon": 106.651895,
     "type": "large_airport",
-    "distance_km": 76.0
+    "distance_km": 76.0,
+    "name_zh": "重庆江北国际机场"
    },
    {
     "name": "Zunyi Maotai Airport",
@@ -98,7 +100,8 @@
     "lat": 27.961837,
     "lon": 106.435416,
     "type": "medium_airport",
-    "distance_km": 148.5
+    "distance_km": 148.5,
+    "name_zh": "仁怀茅台机场"
    }
   ],
   "nearest_airport_km": 66.1,
@@ -190,5 +193,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

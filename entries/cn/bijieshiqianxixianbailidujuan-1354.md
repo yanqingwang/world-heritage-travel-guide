@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Bijie City"
 lat: 27.209884
 lon: 105.931775
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 毕节市黔西县百里杜鹃景区 / Bailidujuan Scenic Area

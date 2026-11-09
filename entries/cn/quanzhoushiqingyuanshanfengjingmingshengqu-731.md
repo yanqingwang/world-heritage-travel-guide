@@ -2,7 +2,7 @@
 id: "cn-731"
 dataset: "china_5a"
 name_zh: "泉州市清源山风景名胜区"
-name_en: "Huanglong Scenic and Historic Interest Area"
+name_en: "Mount Qingyuan"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Fujian"
 city_en: "Quanzhou"
 lat: 24.947416
 lon: 118.603989
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 泉州市清源山风景名胜区 / Huanglong Scenic and Historic Interest Area
+# 泉州市清源山风景名胜区 / Mount Qingyuan
 
 > 福建省 · 泉州市 · 历史遗址
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.
+Mount Qingyuan (Chinese: 清源山; pinyin: Qīngyuán Shān; Tâi-lô: Tshing-guân Suann) is a mountain and national park protecting it, Fujian Province, located in the East China region of China.
 
 ## 交通 / Transport
 
@@ -73,10 +73,10 @@ Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huá
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/清源山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

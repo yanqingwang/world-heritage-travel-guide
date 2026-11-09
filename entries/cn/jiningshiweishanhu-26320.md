@@ -13,7 +13,7 @@ province_en: "Shandong"
 city_en: "Jining"
 lat: 34.689652
 lon: 117.28291
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 济宁市微山湖旅游区 / Weishanhu Tourist Area
@@ -51,10 +51,10 @@ Weishan Lake is the largest freshwater lake in the north and an old red revoluti
 ## 附近酒店 / Nearby hotels
 
 - **微山岛京杭假日酒店** — 3.9 km — chain
-- **荷韵假日酒店** — 21.2 km — chain
 - **微山岛名湖度假酒店** — 6.0 km — hotel
 - **颐正园** — 12.0 km — hotel
 - **丽波大酒店** — 13.3 km — hotel
+- **金尊国际酒店** — 13.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

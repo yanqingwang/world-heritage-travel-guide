@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Baoshan"
 lat: 24.953077
 lon: 98.447149
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 保山市火山热海旅游区 / Baoshanshihuoshanrehai Tourist Area
@@ -58,4 +58,5 @@ The Volcano Hot Sea is located 20 kilometers southwest of Tengchong County, cove
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/腾冲火山热海旅游区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-715"
 dataset: "china_5a"
 name_zh: "广州市番禺区长隆旅游度假区"
-name_en: "Panyu, Guangzhou"
+name_en: "Dashi station"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Guangdong"
 city_en: "Guangzhou"
 lat: 23.005809
 lon: 113.331839
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 广州市番禺区长隆旅游度假区 / Panyu, Guangzhou
+# 广州市番禺区长隆旅游度假区 / Dashi station
 
 > 广东省 · 广州市 · 主题乐园
-
-## 图片 / Images
-
-![Xili Bridge, Panyu, Guangzhou 2014.jpg](https://upload.wikimedia.org/wikipedia/commons/9/99/Xili_Bridge%2C_Panyu%2C_Guangzhou_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Xili Bridge, Panyu, Guangzhou 2014.jpg · xLai · CC BY-SA 4.0*
-
-![Guangzhou Panyu Shawan Beicun 20190922.155057.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg/1280px-Guangzhou_Panyu_Shawan_Beicun_20190922.155057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Guangzhou Panyu Shawan Beicun 20190922.155057.jpg · 古海岸遗址 · CC BY-SA 4.0*
-
-![Panyu Avenue N., Panyu District, Guangzhou-3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Panyu_Avenue_N.%2C_Panyu_District%2C_Guangzhou-3.jpg/1280px-Panyu_Avenue_N.%2C_Panyu_District%2C_Guangzhou-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Panyu Avenue N., Panyu District, Guangzhou-3.jpg · YikyuenG · CC BY-SA 4.0*
-
-![Panyu Avenue S., Panyu District, Guangzhou-4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Panyu_Avenue_S.%2C_Panyu_District%2C_Guangzhou-4.jpg/1280px-Panyu_Avenue_S.%2C_Panyu_District%2C_Guangzhou-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Panyu Avenue S., Panyu District, Guangzhou-4.jpg · YikyuenG · CC BY-SA 4.0*
-
-![Shawan Bridge, Panyu, Guangzhou 2012.jpg](https://upload.wikimedia.org/wikipedia/commons/b/be/Shawan_Bridge%2C_Panyu%2C_Guangzhou_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Shawan Bridge, Panyu, Guangzhou 2012.jpg · Xiaolai1996 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Panyu, formerly romanized as Punyü, is one of 11 urban districts of the prefecture-level city of Guangzhou, the capital of Guangdong Province, China. Since January 1975, Panyu County has been under Guangzhou's administration. In 1992, Panyu County was renamed to Panyu county-level city, still under Guangzhou's administration. It was subsequently renamed to Panyu District on 10 July 2000. The present district covers an area of about 530 km2 (200 sq mi).
+Dashi Station (Chinese: 大石站; Cantonese Yale: Daaihsehk Jaahm; lit. 'Big Rock Station') is a station of Line 3 of the Guangzhou Metro that started operation on 28 December 2006. It is located under the New Moon Pearl Garden (新月明珠花园) in the Dashi Subdistrict, Panyu District, which is near where the Xinguang Expressway (新光快速公路) passes over Qunxian Road (群贤路). The station has reservations to interchange with Line 7. The northern end of the concourse has structures reserved for the two side platforms for Line 7. However, Line 7 was adjusted and changed to Hanxi Changlong station and the reserved structure of this station has been left unused and covered with enamel panels.
 
 ## 交通 / Transport
 
@@ -74,10 +52,10 @@ Panyu, formerly romanized as Punyü, is one of 11 urban districts of the prefect
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/番禺区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/大石站 (广州市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

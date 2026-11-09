@@ -78,7 +78,8 @@
     "lat": 26.72208,
     "lon": 112.617958,
     "type": "medium_airport",
-    "distance_km": 60.1
+    "distance_km": 60.1,
+    "name_zh": "衡阳南岳机场"
    },
    {
     "name": "Changsha Huanghua International Airport",
@@ -88,7 +89,8 @@
     "lat": 28.189199,
     "lon": 113.220001,
     "type": "large_airport",
-    "distance_km": 114.5
+    "distance_km": 114.5,
+    "name_zh": "长沙黄花国际机场"
    },
    {
     "name": "Yongzhou Lingling Airport",
@@ -98,7 +100,8 @@
     "lat": 26.338661,
     "lon": 111.610043,
     "type": "medium_airport",
-    "distance_km": 151.2
+    "distance_km": 151.2,
+    "name_zh": "永州零陵机场"
    }
   ],
   "nearest_airport_km": 60.1,
@@ -233,5 +236,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

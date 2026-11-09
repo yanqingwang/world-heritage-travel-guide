@@ -13,7 +13,7 @@ province_en: "Fujian"
 city_en: "Fuzhou"
 lat: 26.088452
 lon: 119.303186
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 福州市三坊七巷景区 / Sanfang Qixiang

@@ -24,48 +24,7 @@
  "intro_zh": "麦积山景区自然资源丰富，风景秀丽，形成自己独特的山水景观。人文景观有中国四大石窟之一的麦积山石窟和仙人崖等，其中麦积山是著名的艺术宝库，仙人崖为释、道、儒三家共存之地。",
  "intro_en": "The Maijishan Grottoes (simplified Chinese: 麦积山石窟; traditional Chinese: 麥積山石窟; pinyin: Màijīshān Shíkū), formerly romanized as Maichishan, are a series of 194 rock-cut caves cut into the Maijishan hill in Tianshui, Gansu Province, northwest China. They contain over 7,200 Buddhist sculptures and over 1,000 square meters of murals. The name Maijishan consists of three Chinese words (麦积山): mai (麦) is the generic term for most grains, ji (积) means \"stack\" or \"mound\", and shan (山) means \"mountain\". Maijishan is often translated as \"wheatstack mountain\" or \"corn rick mountain\". The mountain is formed of purplish red sandstone. Construction of the grottoes began in the Later Qin era (384–417 CE). A team of Chinese archeologists from Beijing conducted the first modern exploration in 1952–53. They devised the numbering system still in use today. Caves #1–50 are on the western cliff face, while caves #51–191 on the eastern cliff face. The grottoes were later photographed by Michael Sullivan and Dominique Darbois, who subsequently published the primary English-language work on the caves noted in the footnotes below. The Maijishan Grottoes are just one of the string of Buddhist grottoes that c",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%E9%B8%9F%E7%9E%B0%E5%A4%A9%E6%B0%B4_-_panoramio.jpg/1280px-%E9%B8%9F%E7%9E%B0%E5%A4%A9%E6%B0%B4_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "鸟瞰天水 - panoramio.jpg",
-   "author": "❤的方向",
-   "license": "CC BY-SA 3.0",
-   "credit": "https://web.archive.org/web/20161102140449/http://www.panoramio.com/photo/70435327",
-   "source": "https://commons.wikimedia.org/wiki/File:鸟瞰天水_-_panoramio.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Immortal_Lake_of_Xianren_Cliff%2C_Tianshui_20260929.jpg/1280px-Immortal_Lake_of_Xianren_Cliff%2C_Tianshui_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Immortal Lake of Xianren Cliff, Tianshui 20260929.jpg",
-   "author": "颐园居",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Immortal_Lake_of_Xianren_Cliff,_Tianshui_20260929.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lingying_Temple_of_Xianren_Cliff_20260929.jpg/1280px-Lingying_Temple_of_Xianren_Cliff_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Lingying Temple of Xianren Cliff 20260929.jpg",
-   "author": "颐园居",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Lingying_Temple_of_Xianren_Cliff_20260929.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/South_Cliff_of_Xianren_Cliff%2C_Tianshui_20260929.jpg/1280px-South_Cliff_of_Xianren_Cliff%2C_Tianshui_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "South Cliff of Xianren Cliff, Tianshui 20260929.jpg",
-   "author": "颐园居",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:South_Cliff_of_Xianren_Cliff,_Tianshui_20260929.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tianshui_Xianren_Cliff_20260929.jpg/1280px-Tianshui_Xianren_Cliff_20260929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Tianshui Xianren Cliff 20260929.jpg",
-   "author": "颐园居",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Tianshui_Xianren_Cliff_20260929.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 34.5601,
     "lon": 105.860343,
     "type": "medium_airport",
-    "distance_km": 25.0
+    "distance_km": 25.0,
+    "name_zh": "天水麦积山机场"
    },
    {
     "name": "Longnan Chengzhou Airport",
@@ -88,7 +48,8 @@
     "lat": 33.789918,
     "lon": 105.790014,
     "type": "medium_airport",
-    "distance_km": 67.7
+    "distance_km": 67.7,
+    "name_zh": "陇南成州机场"
    },
    {
     "name": "Hanzhong Chenggu Airport",
@@ -98,7 +59,8 @@
     "lat": 33.133527,
     "lon": 107.203817,
     "type": "medium_airport",
-    "distance_km": 176.5
+    "distance_km": 176.5,
+    "name_zh": "汉中城固机场"
    }
   ],
   "nearest_airport_km": 25.0,
@@ -244,5 +206,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -24,48 +24,7 @@
  "intro_zh": "连州地下河位于粤西北连州市内，是一处巧夺天工的亚热带喀斯特地貌的典型巨型天然石灰岩溶洞。景区以其神秘瑰丽的钟乳石及洞穴暗河而驰名中外，又因为溶洞内四季气温保持在18℃左右，空气清新，冬暖夏凉，是旅游避暑的好去处。",
  "intro_en": "Lianzhou Underground River is located in Lianzhou City in northwest Guangdong. It is a typical giant natural limestone cave with an ingenious subtropical karst landform. The scenic spot is famous both at home and abroad for its mysterious and magnificent stalactites and underground rivers in the cave. And because the temperature in the cave remains at around 18°C ​​in all seasons, the air is fresh, warm in winter and cool in summer, making it a good place to escape the summer heat.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Qingyuan_City_Xiaoshi_Skyline_Guangdong_Province.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Qingyuan City Xiaoshi Skyline Guangdong Province.JPG",
-   "author": "User:Alex Liu , User:Feelmore",
-   "license": "Copyrighted free use",
-   "credit": "w:zh:文件:Qingyuan Xiaoshi Skyline.JPG",
-   "source": "https://commons.wikimedia.org/wiki/File:Qingyuan_City_Xiaoshi_Skyline_Guangdong_Province.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E6%B8%85%E8%BF%9C%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf/page1-960px-%E6%B8%85%E8%BF%9C%E5%B8%82%E5%9B%BD%E5%9C%9F%E7%A9%BA%E9%97%B4%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%EF%BC%882021-2035%E5%B9%B4%EF%BC%89.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "清远市国土空间总体规划（2021-2035年）.pdf",
-   "author": "清远市人民政府",
-   "license": "Public domain",
-   "credit": "https://www.gdqy.gov.cn/attachment/0/146/146773/1984783.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:清远市国土空间总体规划（2021-2035年）.pdf"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Qingyuan_Riverside_Park_2.JPG/1280px-Qingyuan_Riverside_Park_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Qingyuan Riverside Park 2.JPG",
-   "author": "Feelmore at Chinese Wikipedia",
-   "license": "Copyrighted free use-link",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Qingyuan_Riverside_Park_2.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Qingyuan_Xiaoshi_Skyline.JPG/1280px-Qingyuan_Xiaoshi_Skyline.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Qingyuan Xiaoshi Skyline.JPG",
-   "author": "Alex Liu ( Feelmore at Chinese Wikipedia )",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Qingyuan_Xiaoshi_Skyline.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Qingyuan_Zunzhe_005.jpg/1280px-Qingyuan_Zunzhe_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Qingyuan Zunzhe 005.jpg",
-   "author": "Jengtingchen",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Qingyuan_Zunzhe_005.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "http://www.lzdxh.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 25.753419,
     "lon": 112.845404,
     "type": "medium_airport",
-    "distance_km": 97.5
+    "distance_km": 97.5,
+    "name_zh": "郴州北湖机场"
    },
    {
     "name": "Shaoguan Danxia Airport",
@@ -88,7 +48,8 @@
     "lat": 24.9786,
     "lon": 113.420998,
     "type": "medium_airport",
-    "distance_km": 110.0
+    "distance_km": 110.0,
+    "name_zh": "韶关丹霞机场"
    },
    {
     "name": "Yongzhou Lingling Airport",
@@ -98,7 +59,8 @@
     "lat": 26.338661,
     "lon": 111.610043,
     "type": "medium_airport",
-    "distance_km": 164.4
+    "distance_km": 164.4,
+    "name_zh": "永州零陵机场"
    }
   ],
   "nearest_airport_km": 97.5,
@@ -177,5 +139,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -24,48 +24,7 @@
  "intro_zh": "响沙湾沙高110米，坡度45度，呈弯月状，特殊的地理构造形成一个很大的沙山回音壁。这里沙丘高大，比肩而立，浩海茫茫。顺着云梯攀援而上，当人们从沙顶向下滑动，便会听到犹如飞机掠空而过的轰鸣声，响沙湾因而得名。",
  "intro_en": "The sand in Xiangshawan is 110 meters high, with a slope of 45 degrees and a crescent shape. The special geographical structure forms a large sand mountain echo wall. The sand dunes here are tall and shoulder to shoulder, and the sea is vast. Climbing up the ladder, when people slide down from the top of the sand, they will hear the roar like an airplane passing through the sky, hence the name Xiangshawan.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Dongsheng_District_2016.jpg/1280px-Dongsheng_District_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Dongsheng District 2016.jpg",
-   "author": "Charlie fong",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Dongsheng_District_2016.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Administrative_Division_Ordos_1.png/1280px-Administrative_Division_Ordos_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Administrative Division Ordos 1.png",
-   "author": "ASDFGH",
-   "license": "CC BY-SA 3.0",
-   "credit": "Chk2011",
-   "source": "https://commons.wikimedia.org/wiki/File:Administrative_Division_Ordos_1.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/North_of_Ordos.Church.jpg/1280px-North_of_Ordos.Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "North of Ordos.Church.jpg",
-   "author": "Popolon",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:North_of_Ordos.Church.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ordos.Shanxi_youmian.jpg/1280px-Ordos.Shanxi_youmian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ordos.Shanxi youmian.jpg",
-   "author": "Popolon",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Ordos.Shanxi_youmian.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/OrdosC.svg/1280px-OrdosC.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "OrdosC.svg",
-   "author": "JesseW900",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:OrdosC.svg"
-  }
- ],
+ "images": [],
  "web": "https://www.ixsw.cn",
  "booking": "http://yd.ixsw.cn/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 40.560001,
     "lon": 109.997002,
     "type": "large_airport",
-    "distance_km": 34.5
+    "distance_km": 34.5,
+    "name_zh": "包头东河国际机场"
    },
    {
     "name": "Ordos Ejin Horo International Airport",
@@ -88,7 +48,8 @@
     "lat": 39.493514,
     "lon": 109.8599,
     "type": "large_airport",
-    "distance_km": 84.7
+    "distance_km": 84.7,
+    "name_zh": "鄂尔多斯伊金霍洛机场"
    },
    {
     "name": "Hohhot Baita International Airport",
@@ -98,7 +59,8 @@
     "lat": 40.849658,
     "lon": 111.824598,
     "type": "large_airport",
-    "distance_km": 170.4
+    "distance_km": 170.4,
+    "name_zh": "呼和浩特白塔国际机场"
    }
   ],
   "nearest_airport_km": 34.5,
@@ -211,5 +173,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

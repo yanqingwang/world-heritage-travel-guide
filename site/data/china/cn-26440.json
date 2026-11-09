@@ -62,7 +62,8 @@
     "lat": 27.883333,
     "lon": 109.308889,
     "type": "medium_airport",
-    "distance_km": 29.7
+    "distance_km": 29.7,
+    "name_zh": "铜仁凤凰机场"
    },
    {
     "name": "Huaihua Zhijiang Airport",
@@ -72,7 +73,8 @@
     "lat": 27.443087,
     "lon": 109.704666,
     "type": "medium_airport",
-    "distance_km": 58.1
+    "distance_km": 58.1,
+    "name_zh": "怀化芷江机场"
    },
    {
     "name": "Xiangxi Biancheng Airport",
@@ -82,7 +84,8 @@
     "lat": 28.4972,
     "lon": 109.5218,
     "type": "small_airport",
-    "distance_km": 60.6
+    "distance_km": 60.6,
+    "name_zh": "湘西边城机场"
    }
   ],
   "nearest_airport_km": 29.7,
@@ -119,14 +122,14 @@
  },
  "hotels": [
   {
-   "name": "凤仙境·温德姆森林温泉酒店",
-   "name_en": null,
+   "name": "Fenghuang Jinshuian River View Hotel",
+   "name_en": "Fenghuang Jinshuian River View Hotel",
    "stars": null,
    "brand": null,
-   "lat": 27.944143,
-   "lon": 109.6111387,
-   "distance_km": 1.8,
-   "kind": "chain",
+   "lat": 27.9560087,
+   "lon": 109.5939775,
+   "distance_km": 0.5,
+   "kind": "hotel",
    "source": "OpenStreetMap"
   },
   {
@@ -218,5 +221,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

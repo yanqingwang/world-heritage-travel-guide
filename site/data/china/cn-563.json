@@ -24,48 +24,7 @@
  "intro_zh": "景区内喀斯特地貌面积达1100多平方公里，保护区面积350平方公里，主要景点有石林风景区、乃古石林风景区、大叠水风景区、长湖风景区、圭山国家森林公园等。石林在自然景观上融雄、奇、险、秀、幽、奥、旷为一体，奇山怪石，惟妙惟肖，气势恢宏。",
  "intro_en": "The karst landform area in the scenic area reaches more than 1,100 square kilometers, and the protected area covers an area of ​​350 square kilometers. The main attractions include Stone Forest Scenic Area, Naigu Stone Forest Scenic Area, Dadieshui Scenic Area, Changhu Scenic Area, Guishan National Forest Park, etc. The stone forest integrates majestic, strange, dangerous, graceful, secluded, mysterious and vast in the natural landscape. The strange mountains and rocks are lifelike and magnificent.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20260222_Lotus_Lake%2C_Stone_Forest.jpg/1280px-20260222_Lotus_Lake%2C_Stone_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260222 Lotus Lake, Stone Forest.jpg",
-   "author": "Ngguls",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260222_Lotus_Lake,_Stone_Forest.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/20260222_Stone_Forest%2C_Shilin_02.jpg/1280px-20260222_Stone_Forest%2C_Shilin_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260222 Stone Forest, Shilin 02.jpg",
-   "author": "Ngguls",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260222_Stone_Forest,_Shilin_02.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/20260222_Stone_Forest%2C_Shilin_04.jpg/1280px-20260222_Stone_Forest%2C_Shilin_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260222 Stone Forest, Shilin 04.jpg",
-   "author": "Ngguls",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260222_Stone_Forest,_Shilin_04.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/20260222_Stone_Forest%2C_Shilin_05.jpg/1280px-20260222_Stone_Forest%2C_Shilin_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260222 Stone Forest, Shilin 05.jpg",
-   "author": "Ngguls",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260222_Stone_Forest,_Shilin_05.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/20260222_Yunnan_Stone_Forest_Scenic_Area_National_Geological_Park.jpg/1280px-20260222_Yunnan_Stone_Forest_Scenic_Area_National_Geological_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20260222 Yunnan Stone Forest Scenic Area National Geological Park.jpg",
-   "author": "Ngguls",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20260222_Yunnan_Stone_Forest_Scenic_Area_National_Geological_Park.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.shilin.com.cn/public/protal/zh-CHS/index.html",
  "booking": "http://www.shilin.com.cn/public/protal/zh-CHS/index.html",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 25.110313,
     "lon": 102.936743,
     "type": "large_airport",
-    "distance_km": 51.3
+    "distance_km": 51.3,
+    "name_zh": "昆明长水国际机场"
    },
    {
     "name": "Xingyi Wanfenglin Airport",
@@ -88,7 +48,8 @@
     "lat": 25.083423,
     "lon": 104.960804,
     "type": "medium_airport",
-    "distance_km": 167.0
+    "distance_km": 167.0,
+    "name_zh": "兴义机场"
    },
    {
     "name": "Wenshan Puzhehei Airport",
@@ -98,7 +59,8 @@
     "lat": 23.5583,
     "lon": 104.3255,
     "type": "small_airport",
-    "distance_km": 172.6
+    "distance_km": 172.6,
+    "name_zh": "文山普者黑机场"
    }
   ],
   "nearest_airport_km": 51.3,
@@ -233,5 +195,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

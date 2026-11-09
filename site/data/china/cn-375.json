@@ -78,7 +78,8 @@
     "lat": 44.525172,
     "lon": 129.568634,
     "type": "medium_airport",
-    "distance_km": 70.1
+    "distance_km": 70.1,
+    "name_zh": "牡丹江海浪机场"
    },
    {
     "name": "Yanji Chaoyangchuan Airport",
@@ -88,7 +89,8 @@
     "lat": 42.8828010559,
     "lon": 129.451004028,
     "type": "medium_airport",
-    "distance_km": 137.7
+    "distance_km": 137.7,
+    "name_zh": "延吉朝阳川机场"
    },
    {
     "name": "Jixi Xingkaihu Airport",
@@ -98,7 +100,8 @@
     "lat": 45.293,
     "lon": 131.193,
     "type": "medium_airport",
-    "distance_km": 222.9
+    "distance_km": 222.9,
+    "name_zh": "鸡西兴凯湖机场"
    }
   ],
   "nearest_airport_km": 70.1,
@@ -178,5 +181,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

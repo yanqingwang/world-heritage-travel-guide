@@ -2,7 +2,7 @@
 id: "cn-297"
 dataset: "china_5a"
 name_zh: "阿坝州汶川特别旅游区"
-name_en: "Wenchuan County"
+name_en: "Abazhouwenchuantebie Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 30.937221
 lon: 103.427301
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 阿坝州汶川特别旅游区 / Wenchuan County
+# 阿坝州汶川特别旅游区 / Abazhouwenchuantebie Tourist Area
 
 > 四川省 · 阿坝藏族羌族自治州 · 主题乐园
 
@@ -28,7 +28,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Wenchuan County is a county in Ngawa Tibetan and Qiang Autonomous Prefecture, Sichuan, China. The county has an area of 4,084 square kilometres (1,577 sq mi), and a population of 100,771 as of 2010. Wolong National Nature Reserve is a protected area located in Wenchuan County, which houses more than 150 highly endangered giant pandas. The Wolong Special Administrative Region is also located here. The county's Yingxiu town was the site of the epicentre of the 2008 Sichuan earthquake, also known as the Wenchuan earthquake.
+The tourist area is located on Xuansan Road, Wenchuan County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province. Positioned as "World Wenchuan, Ink Peachland", it is a commemorative and cultural-themed scenic spot specially developed after the reconstruction of the Wenchuan earthquake on May 12, 2008. The tourist area covers Sanjiang Township, Yingxiu Town and Shuimo Town in the south of Wenchuan, and is composed of Dream Sanjiang, Tiandi Yingxiu and Shuimo Ancient Town.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -51,10 +53,10 @@ Wenchuan County is a county in Ngawa Tibetan and Qiang Autonomous Prefecture, Si
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/汶川县)
+- [Wikipedia](https://zh.wikipedia.org/wiki/水磨镇 (汶川县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

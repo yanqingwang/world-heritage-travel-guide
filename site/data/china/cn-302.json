@@ -24,48 +24,7 @@
  "intro_zh": "阆中古城位于四川盆地东北缘、嘉陵江中游，有2300多年的建城历史，为古代巴国蜀国军事重镇。古城有张飞庙、永安寺、五龙庙、滕王阁、观音寺、巴巴寺、大佛寺、川北道贡院等8处全国重点文物保护单位；有邵家湾墓群、文笔塔、石室观摩崖造像、雷神洞摩崖造像、牛王洞摩崖造像、红四方面军总政治部旧址、华光楼等22处省级文物保护单位。",
  "intro_en": "Langzhong Gucheng Airport (IATA: LZG, ICAO: ZULA) is an airport serving the city of Langzhong in Southwest China's Sichuan Province. It is located in the town of Shilong (石龙) in Langzhong. This airport named after Lanzhong's historic city centre. Construction for the airport first began in 1994, after receiving approval from the national government of China in August 1992. However, work was later stopped for shortage of funds. Meanwhile, nearby Guangyuan Panlong Airport and Nanchong Gaoping Airport, which were started later, were completed and opened to the public. In December 2018, construction for Langzhong Airport resumed after a hiatus of more than 20 years, as the growing popularity of Langzhong as a tourist destination provides new justification for building the airport. The construction budget is 960 million yuan, and the airport opened on December 17, 2023. Langzhong Airport has a 3,600-metre (11,800 ft) runway (class 4C) and a 7,000-square-metre (75,000 sq ft) terminal building.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Nanchong_night.jpg/1280px-Nanchong_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Nanchong night.jpg",
-   "author": "Mengyl97",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Nanchong_night.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/202309_Nanchong_Overview.jpg/1280px-202309_Nanchong_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "202309 Nanchong Overview.jpg",
-   "author": "MNXANL",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:202309_Nanchong_Overview.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Exit_A%2C_Nanchong_Station%2C_Guangzhou_Metro.jpg/1280px-Exit_A%2C_Nanchong_Station%2C_Guangzhou_Metro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Exit A, Nanchong Station, Guangzhou Metro.jpg",
-   "author": "Chinen Sieru",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Exit_A,_Nanchong_Station,_Guangzhou_Metro.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Exit_B%2C_Nanchong_Station%2C_Fmetro_20220501.jpg/1280px-Exit_B%2C_Nanchong_Station%2C_Fmetro_20220501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Exit B, Nanchong Station, Fmetro 20220501.jpg",
-   "author": "Nrya",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Exit_B,_Nanchong_Station,_Fmetro_20220501.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Nanchong_Railway_Station_202501.jpg/1280px-Nanchong_Railway_Station_202501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Nanchong Railway Station 202501.jpg",
-   "author": "SunLong2002",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Nanchong_Railway_Station_202501.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 31.50191,
     "lon": 106.034417,
     "type": "medium_airport",
-    "distance_km": 10.3
+    "distance_km": 10.3,
+    "name_zh": "阆中古城机场"
    },
    {
     "name": "Bazhong Enyang Airport",
@@ -88,7 +48,8 @@
     "lat": 31.73842,
     "lon": 106.644872,
     "type": "medium_airport",
-    "distance_km": 65.5
+    "distance_km": 65.5,
+    "name_zh": "巴中机场"
    },
    {
     "name": "Nanchong Gaoping Airport",
@@ -98,7 +59,8 @@
     "lat": 30.798104,
     "lon": 106.16415,
     "type": "small_airport",
-    "distance_km": 88.8
+    "distance_km": 88.8,
+    "name_zh": "南充高坪机场"
    }
   ],
   "nearest_airport_km": 10.3,
@@ -212,5 +174,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

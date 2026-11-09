@@ -10,8 +10,8 @@
  "city_zh": "马鞍山市",
  "city_en": "Maanshan City",
  "name_zh": "马鞍山市长江采石矶文化生态旅游区",
- "name_en": "Maanshanshizhangjiangcaishijiwenhuashengtai Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Caishi Rock",
+ "name_en_source": "wikipedia",
  "slug": "maanshanshizhangjiangcaishijiwenhuashengtai-317",
  "lat": 31.639665,
  "lon": 118.442385,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "长江采石矶文化生态旅游区是一个集文化欣赏、自然观光和休闲散步等功能为一体的综合型风景区。区域内以诗仙李白为灵魂，以深厚的历史文化为底蕴，以“翠螺浮大江”的山岳型景观为特色，建有采石矶、太白楼、谪仙园、林散之艺术馆、三元洞、延园、圆梦园、万竹坞、三台阁等著名景点。",
- "intro_en": "Yangtze River Caishiji Cultural Ecological Tourism Area is a comprehensive scenic area integrating cultural appreciation, natural sightseeing and leisure walks. With the poet Li Bai as the soul, the profound historical culture as the foundation, and the mountainous landscape of \"Cuiluo Floating River\" as the feature, the area has famous scenic spots such as Caishiji, Taibai Tower, Banished Immortal Garden, Lin Sanzhi Art Museum, Sanyuan Cave, Yanyuan Garden, Yuanmengyuan Garden, Wanzhuwu, and Santai Pavilion.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Caishi Rock (simplified Chinese: 采石矶; traditional Chinese: 采石磯; pinyin: Cǎishí jī), also named Niuzhu Rock (simplified Chinese: 牛渚矶; traditional Chinese: 牛渚磯; pinyin: Niúzhǔ jī), is a large rock located in the Yangtze River, located in Ma'anshan, Anhui, China. It is the first of the three most famous rocks in the Yangtze, together with Chengling Rock (城陵矶) and Swallow Rock (燕子矶). It has been an AAAAA Grade Tourist Attraction of China since 2020.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/%E4%B8%89%E5%85%83%E6%B4%9E_-_panoramio_-_%E9%99%88%E5%AE%8F%E5%AE%87_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -78,7 +78,8 @@
     "lat": 31.735032,
     "lon": 118.865949,
     "type": "large_airport",
-    "distance_km": 41.5
+    "distance_km": 41.5,
+    "name_zh": "南京禄口国际机场"
    },
    {
     "name": "Wuhu Xuanzhou Airport",
@@ -88,7 +89,8 @@
     "lat": 31.1045,
     "lon": 118.66687,
     "type": "medium_airport",
-    "distance_km": 63.2
+    "distance_km": 63.2,
+    "name_zh": "芜湖宣州机场"
    },
    {
     "name": "Chizhou Jiuhuashan Airport",
@@ -98,7 +100,8 @@
     "lat": 30.7403,
     "lon": 117.6856,
     "type": "small_airport",
-    "distance_km": 123.2
+    "distance_km": 123.2,
+    "name_zh": "池州九华山机场"
    }
   ],
   "nearest_airport_km": 41.5,
@@ -193,10 +196,11 @@
  "hotels_nearby_30km": 12,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -215,7 +219,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -225,9 +229,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/采石矶"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

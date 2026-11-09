@@ -24,48 +24,7 @@
  "intro_zh": "中国春秋淹城旅游区是国内保存较完整、形制独特的春秋时期地面城池遗址。旅游区分为五大区块：春秋淹城遗址、淹城春秋乐园、淹城野生动物世界、淹城传统商业街坊和淹城宝林禅寺。1988年，淹城遗址被列为全国重点文物保护单位。",
  "intro_en": "Chunqiu Yancheng is the remains of an ancient city from the Spring and Autumn period. It is now rebuilt and displayed as a tourist attraction rated as an AAAAA site, the highest official tourism rating. Changzhou Spring and Autumn Yancheng site is located in Wujin, the southern suburb of Changzhou, about 15 minutes away by car. Yancheng was surrounded by three rivers inside and outside. From the inside to the outside, the city, the city river, the inner city, the inner city river, the outer city, the outer city river, three cities, and three rivers. This architectural form is unique among the ancient city ruins in China. Most ancient cities have one city and one river, and a few have two cities and one river or two cities and two rivers. The site currently consists of three concentric artificial rivers that once surrounded the village. Around 2007, construction was being finished on shops and a museum in traditional style catering to the many tourists that come to Yancheng each year. With much of the original site now covered in grass with many remaining trees, it is most popular with Changzhou locals as a historical theme amusement park. By stimulating the ancient cultural scenes,",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20090919_Changzhou_Imgp5266.jpg/1280px-20090919_Changzhou_Imgp5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20090919 Changzhou Imgp5266.jpg",
-   "author": "Jakub Hałun",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20090919_Changzhou_Imgp5266.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Administrative-Division-Changzhou-Icelandic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Administrative-Division-Changzhou-Icelandic.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Administrative-Division-Changzhou-Icelandic.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Changzhou-in-China-location-map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Changzhou-in-China-location-map.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changzhou-in-China-location-map.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg",
-   "author": "Dagvidur",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Changzhou-location-MAP-in-Jiangsu-Province-China-2.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ChangzhouOldCityDistrict.jpg/1280px-ChangzhouOldCityDistrict.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "ChangzhouOldCityDistrict.jpg",
-   "author": "Chen Yihan",
-   "license": "CC BY-SA 3.0",
-   "credit": "Self-photographed",
-   "source": "https://commons.wikimedia.org/wiki/File:ChangzhouOldCityDistrict.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.yclyq.com",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 31.920485,
     "lon": 119.77546,
     "type": "medium_airport",
-    "distance_km": 27.3
+    "distance_km": 27.3,
+    "name_zh": "常州奔牛机场"
    },
    {
     "name": "Sunan Shuofang International Airport",
@@ -88,7 +48,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 53.3
+    "distance_km": 53.3,
+    "name_zh": "无锡硕放机场"
    },
    {
     "name": "Yangzhou Taizhou Airport",
@@ -98,7 +59,8 @@
     "lat": 32.5634,
     "lon": 119.7198,
     "type": "medium_airport",
-    "distance_km": 96.8
+    "distance_km": 96.8,
+    "name_zh": "扬州泰州机场"
    }
   ],
   "nearest_airport_km": 27.3,
@@ -262,5 +224,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

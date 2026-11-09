@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "大觉山景区分为东、西两大片区。东区以浩瀚如海的原始森林为中心，汇集了各类动植物，被誉为“天然氧吧”“动植物基因库”。西区是大自然和原生态的完美结晶，是自然生态和佛教文化旅游景区。",
- "intro_en": "Dajue Mountain Scenic Area is divided into two large areas: east and west. The East District is centered on the vast virgin forest as large as the sea, which brings together all kinds of animals and plants, and is known as the \"natural oxygen bar\" and \"animal and plant gene bank\". The West District is the perfect crystallization of nature and original ecology, and is a natural ecological and Buddhist cultural tourist attraction.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Mount Dajue, also known as Dajue Mountain or Dajueshan, is a mountainous area and tourist attraction in Zixi County, Fuzhou, Jiangxi, China. It is one of the AAAAA Tourist Attractions of China. Dajue Mountain tourist area's highest elevation is 1,647m, and covers an area of 204 kilometers squared. The area contains ancient forest and cultural attractions, as well as canyon activities. Dajue Peak is located in the area and has a cableway reaching 1,200m altitude, and reaches a maximum height of 1,360 meters. There is also Dajue Temple, which is a large granite cave with a total depth of 69m; the temple has a history dating back at least 1,600 years, and is located in Lotus Mountain. A leisure resort has been built within the park. As of 2017, a glass bridge was another attraction in the area. The mountain has a subtropical humid monsoon climate, with an average of 1,596.7 hours of sunshine per year, an average temperature of 16.9 degrees Celsius and a rainfall of 1,929.9 mm annually. The scenic area is home to 123 rare and endangered species. These include Taxus chinensis and the gingko. There are at least 206 species of animals under state protection, including the clouded leopard ",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf/page1-960px-%E7%AC%AC%E5%85%AD%E6%89%B9%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%90%8D%E5%8D%95.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -46,7 +46,8 @@
     "lat": 27.7019,
     "lon": 118.000999,
     "type": "medium_airport",
-    "distance_km": 83.7
+    "distance_km": 83.7,
+    "name_zh": "武夷山机场"
    },
    {
     "name": "Shangrao Sanqingshan Airport",
@@ -56,7 +57,8 @@
     "lat": 28.3797,
     "lon": 117.9643,
     "type": "medium_airport",
-    "distance_km": 109.8
+    "distance_km": 109.8,
+    "name_zh": "上饶三清山机场"
    },
    {
     "name": "Sanming Shaxian Airport",
@@ -66,7 +68,8 @@
     "lat": 26.4263,
     "lon": 117.8336,
     "type": "medium_airport",
-    "distance_km": 157.2
+    "distance_km": 157.2,
+    "name_zh": "三明沙县机场"
    }
   ],
   "nearest_airport_km": 83.7,
@@ -102,17 +105,6 @@
   ]
  },
  "hotels": [
-  {
-   "name": "圣农假日酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.5436104,
-   "lon": 117.3383341,
-   "distance_km": 25.6,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
   {
    "name": "资溪面包之家大酒店",
    "name_en": null,
@@ -155,6 +147,17 @@
    "lon": 117.3340587,
    "distance_km": 25.2,
    "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "圣农假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5436104,
+   "lon": 117.3383341,
+   "distance_km": 25.6,
+   "kind": "chain",
    "source": "OpenStreetMap"
   }
  ],
@@ -202,5 +205,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

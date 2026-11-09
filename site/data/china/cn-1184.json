@@ -37,7 +37,8 @@
     "lat": 29.5133333333,
     "lon": 108.831111111,
     "type": "medium_airport",
-    "distance_km": 24.3
+    "distance_km": 24.3,
+    "name_zh": "黔江武陵山机场"
    },
    {
     "name": "Chongqing Xiannüshan Airport",
@@ -47,7 +48,8 @@
     "lat": 29.465658,
     "lon": 107.693664,
     "type": "medium_airport",
-    "distance_km": 106.7
+    "distance_km": 106.7,
+    "name_zh": "武隆仙女山机场"
    },
    {
     "name": "Xiangxi Biancheng Airport",
@@ -57,7 +59,8 @@
     "lat": 28.4972,
     "lon": 109.5218,
     "type": "small_airport",
-    "distance_km": 114.9
+    "distance_km": 114.9,
+    "name_zh": "湘西边城机场"
    }
   ],
   "nearest_airport_km": 24.3,
@@ -149,5 +152,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

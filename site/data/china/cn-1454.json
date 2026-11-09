@@ -24,48 +24,7 @@
  "intro_zh": "龟峰发育于距今1.35亿年的白垩纪晚期，属典型的丹霞地貌，因景区内有无数形态酷似乌龟的象形石和整个景区远远看去像一只硕大无朋的巨龟而得名。",
  "intro_en": "Guifeng was developed in the late Cretaceous period 135 million years ago. It is a typical Danxia landform. It is named because there are countless pictographic stones that resemble turtles in the scenic area and the entire scenic area looks like a huge giant turtle from a distance.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg/1280px-Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yiyang Dieshan Shuyuan 2017.11.26 12-21-34.jpg",
-   "author": "Zhangzhugang",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiangxi_Yiyang.svg/1280px-Jiangxi_Yiyang.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Jiangxi Yiyang.svg",
-   "author": "Camphora",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Jiangxi_Yiyang.svg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PLANS_Yiyang_%28FFG-548%29_20240205.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "PLANS Yiyang (FFG-548) 20240205.jpg",
-   "author": "日本防衛省・統合幕僚監部",
-   "license": "CC BY 4.0",
-   "credit": "https://www.mod.go.jp/js/pdf/2024/p20240205_04.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:PLANS_Yiyang_(FFG-548)_20240205.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Yiyang-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Yiyang-map.png",
-   "author": "장길산",
-   "license": "Public domain",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yiyang-map.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Yiyang_County_Museum.jpg/1280px-Yiyang_County_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Yiyang County Museum.jpg",
-   "author": "Baomi",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Yiyang_County_Museum.jpg"
-  }
- ],
+ "images": [],
  "web": "http://www.guifengly.com/",
  "booking": "http://www.guifengly.com/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 28.3797,
     "lon": 117.9643,
     "type": "medium_airport",
-    "distance_km": 53.4
+    "distance_km": 53.4,
+    "name_zh": "上饶三清山机场"
    },
    {
     "name": "Nanping Wuyishan Airport",
@@ -88,7 +48,8 @@
     "lat": 27.7019,
     "lon": 118.000999,
     "type": "medium_airport",
-    "distance_km": 90.4
+    "distance_km": 90.4,
+    "name_zh": "武夷山机场"
    },
    {
     "name": "Jingdezhen Luojia Airport",
@@ -98,7 +59,8 @@
     "lat": 29.3386,
     "lon": 117.176003,
     "type": "medium_airport",
-    "distance_km": 114.3
+    "distance_km": 114.3,
+    "name_zh": "景德镇罗家机场"
    }
   ],
   "nearest_airport_km": 53.4,
@@ -224,9 +186,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/弋阳县各级文物保护单位列表"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

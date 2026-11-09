@@ -10,8 +10,8 @@
  "city_zh": "雅安市",
  "city_en": "Ya'an",
  "name_zh": "雅安市碧峰峡旅游景区",
- "name_en": "Ya'an",
- "name_en_source": "wikipedia",
+ "name_en": "Yaanshibifengxia Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "yaanshibifengxia-288",
  "lat": 30.078428,
  "lon": 102.997037,
@@ -22,50 +22,9 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "碧峰峡景区主要由碧峰峡生态动物园、碧峰峡峡谷组成。生态动物园中拥有世界各地的珍贵保护动物。碧峰峡峡谷景区由两条峡谷构成，左峡谷长7公里，右峡谷长6公里，呈V字型，是一个封闭式可循环游览景区，峡宽30-70米，海拔700-1971米，峡壁高度100-200米。在峡区内环绕旅游，可领略险、奇、秀、幽之原始风貌，植被、瀑布、峡景、云海是碧峰峡景区的鲜明特色。",
- "intro_en": "Ya'an (Chinese: 雅安; pinyin: Yǎ'ān; Wade–Giles: Ya-an) is a prefecture-level city in the western part of Sichuan province, China, located just below the Tibetan Plateau. The city is home to Sichuan Agricultural University, the only 211 Project university and the largest regional comprehensive university in Ya'an. As of the 2020 Chinese census, Ya'an has a population of 1,434,603.",
- "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ya%27an%2C_August_2020.jpg/1280px-Ya%27an%2C_August_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ya'an, August 2020.jpg",
-   "author": "Song Yanbo",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Ya'an,_August_2020.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/201908_Chengdu-Ya%27an_Railway_Branch_to_Chengdu_West_Ring_Railway_under_Construction.jpg/1280px-201908_Chengdu-Ya%27an_Railway_Branch_to_Chengdu_West_Ring_Railway_under_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "201908 Chengdu-Ya'an Railway Branch to Chengdu West Ring Railway under Construction.jpg",
-   "author": "MNXANL",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:201908_Chengdu-Ya'an_Railway_Branch_to_Chengdu_West_Ring_Railway_under_Construction.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/David_Crockett_Graham%2C_1923.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "David Crockett Graham, 1923.png",
-   "author": "Unknown author Unknown author",
-   "license": "Public domain",
-   "credit": "https://siarchives.si.edu/blog/david-crockett-graham-field-book-collection-portal-chinese-culture-and-biodiversity",
-   "source": "https://commons.wikimedia.org/wiki/File:David_Crockett_Graham,_1923.png"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/ShangLi_old_town.jpg/1280px-ShangLi_old_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "ShangLi old town.jpg",
-   "author": "2019082315HAO JINGYU",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:ShangLi_old_town.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ya%27an_Museum_2014-09.JPG/1280px-Ya%27an_Museum_2014-09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ya'an Museum 2014-09.JPG",
-   "author": "猫猫的日记本",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Ya'an_Museum_2014-09.JPG"
-  }
- ],
+ "intro_en": "Bifengxia Scenic Area mainly consists of Bifengxia Ecological Zoo and Bifengxia Canyon. The ecological zoo has rare protected animals from all over the world. Bifeng Gorge Scenic Area is composed of two canyons, the left canyon is 7 kilometers long, and the right canyon is 6 kilometers long. It is V-shaped and is a closed circular tourist scenic spot. The canyon is 30-70 meters wide, 700-1971 meters above sea level, and the canyon wall height is 100-200 meters. Traveling around the gorge area, you can appreciate the dangerous, strange, beautiful and secluded original features. Vegetation, waterfalls, gorge scenery and sea of ​​clouds are the distinctive features of Bifeng Gorge Scenic Area.",
+ "intro_en_source": "machine_translation",
+ "images": [],
  "web": "http://www.bifengxia.com/",
  "booking": "http://www.bifengxia.com/ticketbook2?goodRid=102",
  "transport": {
@@ -88,7 +47,8 @@
     "lat": 30.558257,
     "lon": 103.945966,
     "type": "large_airport",
-    "distance_km": 105.6
+    "distance_km": 105.6,
+    "name_zh": "成都双流国际机场"
    },
    {
     "name": "Kangding Airport",
@@ -98,7 +58,8 @@
     "lat": 30.142464,
     "lon": 101.73872,
     "type": "medium_airport",
-    "distance_km": 121.2
+    "distance_km": 121.2,
+    "name_zh": "甘孜康定机场"
    }
   ],
   "nearest_airport_km": 101.7,
@@ -194,10 +155,9 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -227,12 +187,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/雅安市"
+   "url": "https://zh.wikipedia.org/wiki/碧峰峡旅游景区"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

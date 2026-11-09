@@ -78,7 +78,8 @@
     "lat": 27.961837,
     "lon": 106.435416,
     "type": "medium_airport",
-    "distance_km": 84.5
+    "distance_km": 84.5,
+    "name_zh": "仁怀茅台机场"
    },
    {
     "name": "Luzhou Yunlong Airport",
@@ -88,7 +89,8 @@
     "lat": 29.030357,
     "lon": 105.468407,
     "type": "medium_airport",
-    "distance_km": 105.0
+    "distance_km": 105.0,
+    "name_zh": "泸州云龙机场"
    },
    {
     "name": "Chongqing Jiangbei International Airport",
@@ -98,7 +100,8 @@
     "lat": 29.712254,
     "lon": 106.651895,
     "type": "large_airport",
-    "distance_km": 111.5
+    "distance_km": 111.5,
+    "name_zh": "重庆江北国际机场"
    }
   ],
   "nearest_airport_km": 84.5,
@@ -178,5 +181,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

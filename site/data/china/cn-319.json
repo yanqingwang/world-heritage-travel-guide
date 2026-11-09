@@ -10,7 +10,7 @@
  "city_zh": "阿拉尔市",
  "city_en": "Alaer City",
  "name_zh": "兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区",
- "name_en": "Bingtuanalaershitakelamagan•sanwujiulv Cultural Tourism Area",
+ "name_en": "Xingfulujiedao (alaershi) Cultural Tourism Area",
  "name_en_source": "pinyin",
  "slug": "bingtuanalaershitakelamagan-sanwujiulv-319",
  "lat": 40.54896,
@@ -24,48 +24,7 @@
  "intro_zh": "阿拉尔市塔克拉玛干·三五九旅文化旅游区，是以三五九旅屯垦纪念馆为核心，展示兵团屯垦戍边红色文化以及接受爱国主义教育，了解阿拉尔市以及兵团建设成就的一个窗口，也是新疆建设兵团重要的红色旅游基地。其中纪念馆是为纪念1950年挺进新疆、解放新疆的新疆军区农业建设第一师而建。",
  "intro_en": "The Taklimakan 359th Brigade Cultural Tourism Zone in Alar City, with the 359th Brigade Reclamation Memorial Hall as its core, displays the red culture of the Xinjiang Xinjiang Construction Corps' reclamation and border garrison, as well as receiving patriotic education, and a window to understand the achievements of Alar City and the Corps. It is also an important red tourism base of the Xinjiang Construction Corps. The memorial hall was built to commemorate the First Agricultural Construction Division of the Xinjiang Military Region that advanced into Xinjiang and liberated Xinjiang in 1950.",
  "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/20231216_G217_Highway_in_Aral_01.jpg/1280px-20231216_G217_Highway_in_Aral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20231216 G217 Highway in Aral 01.jpg",
-   "author": "Windmemories",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20231216_G217_Highway_in_Aral_01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/20231216_G580_Highway_near_Aral_03.jpg/1280px-20231216_G580_Highway_near_Aral_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20231216 G580 Highway near Aral 03.jpg",
-   "author": "Windmemories",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20231216_G580_Highway_near_Aral_03.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/20231216_Road_from_Aksu_to_Aral.jpg/1280px-20231216_Road_from_Aksu_to_Aral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20231216 Road from Aksu to Aral.jpg",
-   "author": "Windmemories",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20231216_Road_from_Aksu_to_Aral.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/20231216_Tarim_River_in_Aral_01.jpg/1280px-20231216_Tarim_River_in_Aral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20231216 Tarim River in Aral 01.jpg",
-   "author": "Windmemories",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20231216_Tarim_River_in_Aral_01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/20231216_Tarim_River_in_Aral_02.jpg/1280px-20231216_Tarim_River_in_Aral_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20231216 Tarim River in Aral 02.jpg",
-   "author": "Windmemories",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20231216_Tarim_River_in_Aral_02.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 40.434748,
     "lon": 81.26206,
     "type": "small_airport",
-    "distance_km": 12.8
+    "distance_km": 12.8,
+    "name_zh": "阿拉尔塔里木机场"
    },
    {
     "name": "Aksu Hongqipo Airport",
@@ -88,7 +48,8 @@
     "lat": 41.262501,
     "lon": 80.291702,
     "type": "medium_airport",
-    "distance_km": 115.0
+    "distance_km": 115.0,
+    "name_zh": "阿克苏红旗坡机场"
    },
    {
     "name": "Kuqa Qiuci Airport",
@@ -98,7 +59,8 @@
     "lat": 41.677856,
     "lon": 82.872917,
     "type": "small_airport",
-    "distance_km": 183.1
+    "distance_km": 183.1,
+    "name_zh": "库车龟兹机场"
    }
   ],
   "nearest_airport_km": 12.8,
@@ -160,9 +122,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/幸福路街道 (阿拉尔市)"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

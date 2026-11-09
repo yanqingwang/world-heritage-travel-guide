@@ -24,48 +24,7 @@
  "intro_zh": "古徽州文化旅游区内主要有徽州古城、牌坊群·鲍家花园、潜口民宅、呈坎、唐模五大旅游景点，是一个聚集了古城生活、宗祠文化、牌坊文化、徽商文化、村落文化、民居文化的古徽州文化旅游区。",
  "intro_en": "Huangshan (simplified Chinese: 黄山; traditional Chinese: 黃山), literally meaning the Yellow Mountain(s), is a mountain range in southern Anhui province in eastern China. It was originally called \"Yishan\", and it was renamed because of a legend that the Yellow Emperor once made alchemy here. Vegetation on the range is thickest below 1,100 meters (3,600 ft), with trees growing up to the treeline at 1,800 meters (5,900 ft). The area is well known for its scenery, sunsets, peculiarly shaped granite peaks, Huangshan pine trees, hot springs, winter snow, and views of the clouds from above. Huangshan is a frequent subject of traditional Chinese paintings and literature, as well as modern photography. It is a UNESCO World Heritage Site and one of China's major tourist destinations.",
  "intro_en_source": "wikipedia",
- "images": [
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Huangshan fengjing.jpg",
-   "author": "",
-   "license": "Public domain",
-   "credit": "",
-   "source": "https://commons.wikimedia.org/wiki/File:Huangshan_fengjing.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Anhui_Huangshan.jpg/1280px-Anhui_Huangshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Anhui Huangshan.jpg",
-   "author": "Miaulian",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Anhui_Huangshan.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Mount-huangshan 53319729912.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "Mount Huangshan",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount-huangshan_53319729912.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Mount-huangshan_53319732602_o.jpg/1280px-Mount-huangshan_53319732602_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Mount-huangshan 53319732602 o.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/photos/xiquinho/53319732602/in/album-72177720312565103/",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount-huangshan_53319732602_o.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Mount-huangshan_53320601421_o.jpg/1280px-Mount-huangshan_53320601421_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Mount-huangshan 53320601421 o.jpg",
-   "author": "xiquinhosilva",
-   "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/photos/xiquinho/53320601421/in/album-72177720312565103/",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount-huangshan_53320601421_o.jpg"
-  }
- ],
+ "images": [],
  "web": "",
  "booking": "",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 29.733299,
     "lon": 118.255997,
     "type": "large_airport",
-    "distance_km": 23.5
+    "distance_km": 23.5,
+    "name_zh": "黄山屯溪机场"
    },
    {
     "name": "Quzhou Airport",
@@ -88,7 +48,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 109.7
+    "distance_km": 109.7,
+    "name_zh": "衢州机场"
    },
    {
     "name": "Chizhou Jiuhuashan Airport",
@@ -98,7 +59,8 @@
     "lat": 30.7403,
     "lon": 117.6856,
     "type": "small_airport",
-    "distance_km": 121.1
+    "distance_km": 121.1,
+    "name_zh": "池州九华山机场"
    }
   ],
   "nearest_airport_km": 23.5,
@@ -253,5 +215,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

@@ -37,7 +37,8 @@
     "lat": 30.8017,
     "lon": 108.433,
     "type": "small_airport",
-    "distance_km": 53.2
+    "distance_km": 53.2,
+    "name_zh": "万州五桥机场"
    },
    {
     "name": "Enshi Xujiaping Airport",
@@ -47,7 +48,8 @@
     "lat": 30.320299,
     "lon": 109.485001,
     "type": "medium_airport",
-    "distance_km": 65.1
+    "distance_km": 65.1,
+    "name_zh": "恩施许家坪机场"
    },
    {
     "name": "Chongqing Wushan Airport",
@@ -57,7 +59,8 @@
     "lat": 31.06896,
     "lon": 109.708958,
     "type": "small_airport",
-    "distance_km": 80.1
+    "distance_km": 80.1,
+    "name_zh": "巫山神女峰机场"
    }
   ],
   "nearest_airport_km": 53.2,
@@ -142,5 +145,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "连云港市",
  "city_en": "Lianyungang",
  "name_zh": "连云港市连岛景区",
- "name_en": "Lianyungangshiliandao Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Lian Island",
+ "name_en_source": "wikipedia",
  "slug": "lianyungangshiliandao-26433",
  "lat": 34.765512,
  "lon": 119.477774,
@@ -22,8 +22,8 @@
  "category_zh": "海滨度假",
  "category_en": "Coastal resort",
  "intro_zh": "连岛，古称鹰游山，座落在物产富饶的海州湾内，与伟岸雄峻的北云台山相峙，与著名的新亚欧大陆桥的东桥头堡---连云港港隔海相望。连岛，其形状狭长，东南、西北走向，东西直线距离5.5公里，南北直线距离0.9公里，海岸线长18公里，最高峰大桅尖海拔357.8米，山势曲折，峰连岭涌，折列如画屏，俨然一座美丽的海上屏风。",
- "intro_en": "Liandao, known as Yingyou Mountain in ancient times, is located in the product-rich Haizhou Bay, facing the majestic Beiyuntai Mountain, and across the sea from Lianyungang Port, the east bridgehead of the famous New Eurasian Continental Bridge. Liandao has a long and narrow shape, running southeast and northwest. The straight line distance from east to west is 5.5 kilometers, and the straight line distance from north to south is 0.9 kilometers. The coastline is 18 kilometers long. The highest peak, the mast tip, is 357.8 meters above sea level. The mountains are winding and the peaks are surging, arranged like a picture screen, just like a beautiful sea screen.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Lian Island (Chinese: 连岛; pinyin: lián dǎo) is the largest island in Lianyun District, Lianyungang, Jiangsu, China. The island is located inside Haizhou Bay in the Yellow Sea. It is 9 km (5.6 mi) long from east to west across the island and it has an area of 7.57 km2 (2.92 sq mi). 80% of the island is covered with forests. The longest sea dyke nationally (6.7 km or 4.2 mi long) connects the island with the east of the city of Lianyungang. Lian Island is the only AAAA-class seashore tourist attraction in Jiangsu. The island was formerly known as Yingyou hill.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%E8%A5%BF%E8%BF%9E%E5%B2%9B%E8%BF%9C%E7%9C%BA.JPG/1280px-%E8%A5%BF%E8%BF%9E%E5%B2%9B%E8%BF%9C%E7%9C%BA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 34.41406,
     "lon": 119.17899,
     "type": "large_airport",
-    "distance_km": 47.7
+    "distance_km": 47.7,
+    "name_zh": "连云港花果山国际机场"
    },
    {
     "name": "Rizhao Shanzihe Airport",
@@ -88,7 +89,8 @@
     "lat": 35.405033,
     "lon": 119.324403,
     "type": "medium_airport",
-    "distance_km": 72.5
+    "distance_km": 72.5,
+    "name_zh": "日照机场"
    },
    {
     "name": "Linyi Qiyang Airport",
@@ -98,7 +100,8 @@
     "lat": 35.052918,
     "lon": 118.411828,
     "type": "medium_airport",
-    "distance_km": 102.3
+    "distance_km": 102.3,
+    "name_zh": "临沂启阳国际机场"
    }
   ],
   "nearest_airport_km": 47.7,
@@ -146,39 +149,6 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "连云港在海一方假日酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 34.7572913,
-   "lon": 119.3630953,
-   "distance_km": 10.5,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "连云港连云区嘉瑞宝广场亚朵酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 34.7365649,
-   "lon": 119.3555373,
-   "distance_km": 11.6,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "7天酒店",
-   "name_en": "7 Days Inn",
-   "stars": null,
-   "brand": "7天酒店",
-   "lat": 34.8532112,
-   "lon": 119.1843479,
-   "distance_km": 28.5,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "枫树山庄",
    "name_en": null,
    "stars": null,
@@ -188,15 +158,49 @@
    "distance_km": 8.1,
    "kind": "hotel",
    "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ju Chuan hotel",
+   "name_en": "Ju Chuan hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.748583,
+   "lon": 119.3717593,
+   "distance_km": 9.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Nuclear Power Hotel",
+   "name_en": "Nuclear Power Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 34.7429398,
+   "lon": 119.3677859,
+   "distance_km": 10.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "连云港在海一方假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 34.7572913,
+   "lon": 119.3630953,
+   "distance_km": 10.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
   }
  ],
  "hotels_nearby_30km": 13,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -215,7 +219,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -225,9 +229,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/连岛"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

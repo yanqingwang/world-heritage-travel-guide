@@ -2,7 +2,7 @@
 id: "cn-1266"
 dataset: "china_5a"
 name_zh: "颐和园"
-name_en: "Yiheyuan"
+name_en: "Summer Palace"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Beijing"
 city_en: "Haidian District"
 lat: 40.004215
 lon: 116.287499
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 颐和园 / Yiheyuan
+# 颐和园 / Summer Palace
 
 > 北京市 · 海淀区 · 皇家园林
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-The main scenic area of ​​the Summer Palace consists of Wanshou Mountain and Kunming Lake. The entire garden covers an area of ​​3.009 square kilometers, and the water surface accounts for about three-quarters. There are 70,000 square meters of various palaces and ancient gardens in the park, and it is world-famous for its precious collection of cultural relics. It is one of the first batch of national key cultural relics protection units. In 1988, the Summer Palace was included in the World Heritage List by UNESCO.
-
-*English introduction: machine translation.*
+The Summer Palace or Yihe Garden (simplified Chinese: 颐和园; traditional Chinese: 頤和園; pinyin: Yíhéyuán) was a pavilion built by the Chinese Empress Dowager Cixi for quiet retreat. It consists of a vast ensemble of lakes, gardens and palaces located in Beijing. An imperial garden during the Qing dynasty, it includes Longevity Hill (万寿山; 萬壽山; Wànshòu Shān), Kunming Lake, and Seventeen-Arch Bridge. It covers an expanse of 2.9 square kilometres (1.1 sq mi), three-quarters of which is water. Longevity Hill is about 60 metres (200 ft) high and has many buildings positioned in sequence. The front hill is the site of halls and pavilions, while the back hill, in sharp contrast, is quiet with natural beauty. The central Kunming Lake, covering 2.2 square kilometres (540 acres), was entirely man-made and the excavated soil was used to build Longevity Hill. The Summer Palace, which is inspired by the gardens of South China, contains over 3,000 Chinese ancient buildings that house a collection of over 40,000 valuable historical relics from various dynasties. In December 1998, UNESCO included the Summer Palace on its World Heritage List. It declared the Summer Palace "a masterpiece of Chinese land
 
 ## 交通 / Transport
 
@@ -76,9 +74,10 @@ The main scenic area of ​​the Summer Palace consists of Wanshou Mountain and
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/颐和园)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -37,7 +37,8 @@
     "lat": 33.789918,
     "lon": 105.790014,
     "type": "medium_airport",
-    "distance_km": 130.8
+    "distance_km": 130.8,
+    "name_zh": "陇南成州机场"
    },
    {
     "name": "Jiuzhai Huanglong Airport",
@@ -47,7 +48,8 @@
     "lat": 32.853333,
     "lon": 103.682222,
     "type": "medium_airport",
-    "distance_km": 145.4
+    "distance_km": 145.4,
+    "name_zh": "九寨黄龙机场"
    },
    {
     "name": "Tianshui Maijishan Airport",
@@ -57,7 +59,8 @@
     "lat": 34.5601,
     "lon": 105.860343,
     "type": "medium_airport",
-    "distance_km": 147.2
+    "distance_km": 147.2,
+    "name_zh": "天水麦积山机场"
    }
   ],
   "nearest_airport_km": 130.8,
@@ -155,5 +158,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

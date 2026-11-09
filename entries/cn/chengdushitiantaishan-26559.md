@@ -2,7 +2,7 @@
 id: "cn-26559"
 dataset: "china_5a"
 name_zh: "成都市天台山景区"
-name_en: "Tiantaishan Scenic Area"
+name_en: "Tiantai Mountain"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Chengdu"
 lat: 30.283941
 lon: 103.132781
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:13Z"
 ---
 
-# 成都市天台山景区 / Tiantaishan Scenic Area
+# 成都市天台山景区 / Tiantai Mountain
 
 > 四川省 · 成都市 · 古镇村落
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Tiantai Mountain Scenic Area in Chengdu, Sichuan is located in Qionglai City, the "Hometown of Wenjun", which is an excellent tourist city in China, one of the four ancient cities of Bashu and the first city west of Chengdu on the Southern Silk Road. It is about 110 kilometers away from Chengdu city. The total area of ​​the scenic spot is 29.1 square kilometers, and the main peak, Yuxiao Peak, is 1,812 meters above sea level. The Tiantai Mountain tourist attraction belongs to the Qionglai Mountains, with a forest coverage rate of nearly 95% and rich species of animals and plants. It is the Sichuan Giant Panda Habitat World Natural Heritage, a national key scenic spot, a national forest park, a national AAAAA tourist attraction, and one of the eight best firefly viewing spots in the world.
-
-*English introduction: machine translation.*
+Tiantai Mountain (also Tí Taî in the local language) is a mountain in Tiantai County, Taizhou, Zhejiang Province, China. Its highest peak, Huading, reaches a height of 1,138 meters (3,734 ft). It was designated a scenic area in 1985, with an area of 105 km2. One of nine remaining wild populations of Seven-Son Flower (Heptacodium miconioides) is located on mount Tiantai.
 
 ## 交通 / Transport
 
@@ -65,17 +63,17 @@ Tiantai Mountain Scenic Area in Chengdu, Sichuan is located in Qionglai City, th
 
 ## 附近酒店 / Nearby hotels
 
-- **蒙顶山假日度假酒店** — 24.7 km — chain — Holiday Inn Resort
-- **维也纳国际酒店（雅安高铁站店）** — 29.8 km — chain — Vienna International Hotel
 - **天台上大酒店** — 0.9 km — hotel
 - **龙门方舟** — 11.8 km — hotel
 - **Pingle Upper House** — 20.5 km — hotel — Pingle Upper House
+- **Jinyang House Pingle Ancient Town Shop** — 20.8 km — hotel — Jinyang House Pingle Ancient Town Shop
+- **Haitang Garden** — 20.8 km — hotel — Haitang Garden
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

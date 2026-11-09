@@ -13,34 +13,12 @@ province_en: "Guizhou"
 city_en: "Zunyi City"
 lat: 28.542853
 lon: 105.739586
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 遵义市赤水市赤水丹霞旅游区 / Chishuidanxiadimao Tourist Area
 
 > 贵州省 · 遵义市 · 地质奇观
-
-## 图片 / Images
-
-![Zunyi.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Zunyi.JPG/1280px-Zunyi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zunyi.JPG · YubYub41 · CC BY-SA 3.0*
-
-![Zunyi - 55410567063.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Zunyi_-_55410567063.jpg/1280px-Zunyi_-_55410567063.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zunyi - 55410567063.jpg · xiquinhosilva · CC BY 4.0*
-
-![Zunyi Conference Site.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Zunyi_Conference_Site.jpg/1280px-Zunyi_Conference_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zunyi Conference Site.jpg · xiquinhosilva · CC BY 4.0*
-
-![Zunyi Conference Site - 55410566288.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zunyi_Conference_Site_-_55410566288.jpg/1280px-Zunyi_Conference_Site_-_55410566288.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zunyi Conference Site - 55410566288.jpg · xiquinhosilva · CC BY 4.0*
-
-![Zunyi Conference Site - 55410566863.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Zunyi_Conference_Site_-_55410566863.jpg/1280px-Zunyi_Conference_Site_-_55410566863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Zunyi Conference Site - 55410566863.jpg · xiquinhosilva · CC BY 4.0*
 
 ## 简介 / Introduction
 

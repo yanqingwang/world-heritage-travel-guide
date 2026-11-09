@@ -10,7 +10,7 @@
  "city_zh": "湘西土家族苗族自治州",
  "city_en": "Xiangxi Tujia and Miao Autonomous Prefecture",
  "name_zh": "湘西州吉首市矮寨•十八洞•德夯大峡谷景区",
- "name_en": "Aizhaizhen Scenic Area",
+ "name_en": "Yalucangbudaxiagu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "xiangxizhoujishoushiaizhai-shibadong-dehangdaxiagu-1087",
  "lat": 28.345107,
@@ -54,7 +54,8 @@
     "lat": 28.4972,
     "lon": 109.5218,
     "type": "small_airport",
-    "distance_km": 18.3
+    "distance_km": 18.3,
+    "name_zh": "湘西边城机场"
    },
    {
     "name": "Tongren Fenghuang Airport",
@@ -64,7 +65,8 @@
     "lat": 27.883333,
     "lon": 109.308889,
     "type": "medium_airport",
-    "distance_km": 58.5
+    "distance_km": 58.5,
+    "name_zh": "铜仁凤凰机场"
    },
    {
     "name": "Huaihua Zhijiang Airport",
@@ -74,7 +76,8 @@
     "lat": 27.443087,
     "lon": 109.704666,
     "type": "medium_airport",
-    "distance_km": 100.9
+    "distance_km": 100.9,
+    "name_zh": "怀化芷江机场"
    }
   ],
   "nearest_airport_km": 18.3,
@@ -129,7 +132,6 @@
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -159,12 +161,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/矮寨镇"
+   "url": "https://zh.wikipedia.org/wiki/雅鲁藏布大峡谷"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

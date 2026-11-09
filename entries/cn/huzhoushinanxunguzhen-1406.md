@@ -2,7 +2,7 @@
 id: "cn-1406"
 dataset: "china_5a"
 name_zh: "湖州市南浔古镇景区"
-name_en: "Huzhoushinanxunguzhen Scenic Area"
+name_en: "Nanxun"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Huzhou City"
 lat: 30.874788
 lon: 120.437508
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 湖州市南浔古镇景区 / Huzhoushinanxunguzhen Scenic Area
+# 湖州市南浔古镇景区 / Nanxun
 
 > 浙江省 · 湖州市 · 度假休闲
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Nanxun is an ancient town in the south of the Yangtze River with abundant human resources and a combination of Chinese and Western architecture. The numerous scenic spots and historic sites in the ancient town are harmoniously integrated with the natural scenery of the water town. It is not only full of rich historical and cultural heritage and aura, but also filled with the charm of Jiangnan water town poetry and painting. It has become a resort for residents in Jiangsu and Zhejiang areas for leisure, vacation, recuperation, and sightseeing.
-
-*English introduction: machine translation.*
+Nanxun (simplified Chinese: 南浔镇; traditional Chinese: 南潯鎮; pinyin: Nánxún Zhèn) is a historic town in Nanxun District of Huzhou, Zhejiang, China. As of the 2007 census it had a population of 119,300 and an area of 141-square-kilometre (54 sq mi).
 
 ## 交通 / Transport
 
@@ -53,9 +51,10 @@ Nanxun is an ancient town in the south of the Yangtze River with abundant human 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/南浔镇)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -10,8 +10,8 @@
  "city_zh": "衢州市",
  "city_en": "Quzhou City",
  "name_zh": "衢州市根宫佛国文化旅游区",
- "name_en": "Binzhou",
- "name_en_source": "wikipedia",
+ "name_en": "Quzhouguidaojiaotong Cultural Tourism Area",
+ "name_en_source": "pinyin",
  "slug": "quzhoushigengongfuguo-1409",
  "lat": 29.139382,
  "lon": 118.399521,
@@ -37,7 +37,8 @@
     "lat": 28.96613,
     "lon": 118.898793,
     "type": "medium_airport",
-    "distance_km": 52.2
+    "distance_km": 52.2,
+    "name_zh": "衢州机场"
    },
    {
     "name": "Huangshan Tunxi International Airport",
@@ -47,7 +48,8 @@
     "lat": 29.733299,
     "lon": 118.255997,
     "type": "large_airport",
-    "distance_km": 67.5
+    "distance_km": 67.5,
+    "name_zh": "黄山屯溪机场"
    },
    {
     "name": "Shangrao Sanqingshan Airport",
@@ -57,7 +59,8 @@
     "lat": 28.3797,
     "lon": 117.9643,
     "type": "medium_airport",
-    "distance_km": 94.5
+    "distance_km": 94.5,
+    "name_zh": "上饶三清山机场"
    }
   ],
   "nearest_airport_km": 52.2,
@@ -162,11 +165,10 @@
  "hotels_nearby_30km": 5,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -185,7 +187,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -196,12 +198,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/滨州市"
+   "url": "https://zh.wikipedia.org/wiki/衢州轨道交通"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -10,7 +10,7 @@
  "city_zh": "株洲市",
  "city_en": "Zhuzhou City",
  "name_zh": "株洲市炎帝陵景区",
- "name_en": "Zhuzhoushiyandiling Scenic Area",
+ "name_en": "Yandiling Scenic Area",
  "name_en_source": "pinyin",
  "slug": "zhuzhoushiyandiling-1116",
  "lat": 26.414436,
@@ -37,7 +37,8 @@
     "lat": 26.72208,
     "lon": 112.617958,
     "type": "medium_airport",
-    "distance_km": 110.9
+    "distance_km": 110.9,
+    "name_zh": "衡阳南岳机场"
    },
    {
     "name": "Chenzhou Beihu Airport",
@@ -47,7 +48,8 @@
     "lat": 25.753419,
     "lon": 112.845404,
     "type": "medium_airport",
-    "distance_km": 111.1
+    "distance_km": 111.1,
+    "name_zh": "郴州北湖机场"
    },
    {
     "name": "Jinggangshan Airport",
@@ -57,7 +59,8 @@
     "lat": 26.856899,
     "lon": 114.737,
     "type": "medium_airport",
-    "distance_km": 116.1
+    "distance_km": 116.1,
+    "name_zh": "吉安井冈山机场"
    }
   ],
   "nearest_airport_km": 110.9,
@@ -128,9 +131,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/炎帝陵"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

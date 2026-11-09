@@ -10,7 +10,7 @@
  "city_zh": "文山壮族苗族自治州",
  "city_en": "Wenshan Zhuang and Miao Autonomous Prefecture",
  "name_zh": "文山州普者黑旅游景区",
- "name_en": "Wenshanzhoupuzhehei Scenic Area",
+ "name_en": "Puzheheihu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "wenshanzhoupuzhehei-451",
  "lat": 24.12162,
@@ -37,7 +37,8 @@
     "lat": 23.5583,
     "lon": 104.3255,
     "type": "small_airport",
-    "distance_km": 65.5
+    "distance_km": 65.5,
+    "name_zh": "文山普者黑机场"
    },
    {
     "name": "Xingyi Wanfenglin Airport",
@@ -47,7 +48,8 @@
     "lat": 25.083423,
     "lon": 104.960804,
     "type": "medium_airport",
-    "distance_km": 135.4
+    "distance_km": 135.4,
+    "name_zh": "兴义机场"
    },
    {
     "name": "Kunming Changshui International Airport",
@@ -57,7 +59,8 @@
     "lat": 25.110313,
     "lon": 102.936743,
     "type": "large_airport",
-    "distance_km": 163.9
+    "distance_km": 163.9,
+    "name_zh": "昆明长水国际机场"
    }
   ],
   "nearest_airport_km": 65.5,
@@ -184,9 +187,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/普者黑湖"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

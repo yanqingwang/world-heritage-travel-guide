@@ -78,7 +78,8 @@
     "lat": 36.479413,
     "lon": 109.464083,
     "type": "medium_airport",
-    "distance_km": 15.2
+    "distance_km": 15.2,
+    "name_zh": "延安南泥湾机场"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -88,7 +89,8 @@
     "lat": 37.683333,
     "lon": 111.142778,
     "type": "medium_airport",
-    "distance_km": 189.0
+    "distance_km": 189.0,
+    "name_zh": "吕梁机场"
    },
    {
     "name": "Qingyang Xifeng Airport",
@@ -98,7 +100,8 @@
     "lat": 35.802638,
     "lon": 107.598896,
     "type": "medium_airport",
-    "distance_km": 191.7
+    "distance_km": 191.7,
+    "name_zh": "庆阳机场"
    }
   ],
   "nearest_airport_km": 15.2,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -10,7 +10,7 @@
  "city_zh": "泰州市",
  "city_en": "Taizhou City",
  "name_zh": "泰州市溱湖旅游景区",
- "name_en": "Taizhoushiqinhu Scenic Area",
+ "name_en": "Qinhu Scenic Area",
  "name_en_source": "pinyin",
  "slug": "taizhoushiqinhu-336",
  "lat": 32.61842,
@@ -37,7 +37,8 @@
     "lat": 32.5634,
     "lon": 119.7198,
     "type": "medium_airport",
-    "distance_km": 35.5
+    "distance_km": 35.5,
+    "name_zh": "扬州泰州机场"
    },
    {
     "name": "Changzhou Benniu International Airport",
@@ -47,7 +48,8 @@
     "lat": 31.920485,
     "lon": 119.77546,
     "type": "medium_airport",
-    "distance_km": 83.1
+    "distance_km": 83.1,
+    "name_zh": "常州奔牛机场"
    },
    {
     "name": "Yancheng Nanyang International Airport",
@@ -57,7 +59,8 @@
     "lat": 33.428317,
     "lon": 120.20545,
     "type": "large_airport",
-    "distance_km": 90.7
+    "distance_km": 90.7,
+    "name_zh": "盐城机场"
    }
   ],
   "nearest_airport_km": 35.5,
@@ -184,9 +187,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/溱湖"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

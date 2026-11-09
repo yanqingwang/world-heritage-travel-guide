@@ -2,7 +2,7 @@
 id: "cn-26437"
 dataset: "china_5a"
 name_zh: "青岛市奥帆海洋文化旅游区"
-name_en: "Qingdao"
+name_en: "Qingdaoshiaofanhaiyang Cultural Tourism Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,12 @@ province_en: "Shandong"
 city_en: "Qingdao"
 lat: 36.066251
 lon: 120.39726
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 青岛市奥帆海洋文化旅游区 / Qingdao
+# 青岛市奥帆海洋文化旅游区 / Qingdaoshiaofanhaiyang Cultural Tourism Area
 
 > 山东省 · 青岛市 · 主题乐园
-
-## 图片 / Images
-
-![青岛湛山及太平山俯瞰 2018-10-10.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E9%9D%92%E5%B2%9B%E6%B9%9B%E5%B1%B1%E5%8F%8A%E5%A4%AA%E5%B9%B3%E5%B1%B1%E4%BF%AF%E7%9E%B0_2018-10-10.jpg/1280px-%E9%9D%92%E5%B2%9B%E6%B9%9B%E5%B1%B1%E5%8F%8A%E5%A4%AA%E5%B9%B3%E5%B1%B1%E4%BF%AF%E7%9E%B0_2018-10-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*青岛湛山及太平山俯瞰 2018-10-10.jpg · Dan Nevill · CC BY 2.0*
-
-![201907 Rolling Stock of Qingdao Metro Line 11.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/201907_Rolling_Stock_of_Qingdao_Metro_Line_11.jpg/1280px-201907_Rolling_Stock_of_Qingdao_Metro_Line_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*201907 Rolling Stock of Qingdao Metro Line 11.jpg · SCJiang This photo was taken with Canon EOS 760D · CC BY-SA 4.0*
-
-![Apple Store Qingdao Shinan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Apple_Store_Qingdao_Shinan.jpg/1280px-Apple_Store_Qingdao_Shinan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Apple Store Qingdao Shinan.jpg · 人工知能 · CC BY-SA 4.0*
-
-![Qingdao-location-MAP-in-Shandong-Province-China.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Qingdao-location-MAP-in-Shandong-Province-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Qingdao-location-MAP-in-Shandong-Province-China.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Qingdao City Seaside Scenery.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Qingdao_City_Seaside_Scenery.jpg/960px-Qingdao_City_Seaside_Scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Qingdao City Seaside Scenery.jpg · Zhuo1221 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +28,9 @@ updated_at: "2026-11-09T12:00:54Z"
 
 ### English
 
-Qingdao, previously transliterated as Tsingtao, is a prefecture-level city in China's Shandong province. Lying across the Shandong Peninsula and looking out to the Yellow Sea, it borders the prefecture-level cities of Yantai to the northeast, Weifang to the west, and Rizhao to the southwest. The Jiaozhou Bay Bridge links Qingdao's main urban area with Huangdao district, straddling Jiaozhou Bay. Qingdao was an important fortress, and is a major seaport and naval base, as well as a commercial and financial center. It is a major nodal city of the Belt and Road Initiative (BRI) that connects Continental and East Asia with Europe. Administered at the sub-provincial level, Qingdao has jurisdiction over seven districts and three county-level cities (Jiaozhou, Pingdu, Laixi). As of the 2020 census, Qingdao built-up (or metro) area made of the seven urban districts (Shinan, Shibei, Huangdao, Laoshan, Licang, Chengyang and Jimo) was home to 7,172,451 inhabitants, making it the 15th largest city in China by population. It has the highest GDP of any city in the province. In 1897, the city was ceded to Germany. For the Germans, Qingdao was a strategic trade center, port and base for its East As
+Qingdao Olympic Sailing Marine Cultural Tourism Area is located in Shinan District, Qingdao City, Shandong Province. The scenic area covers an area of ​​5.25K㎡ and consists of two major areas: Underwater World and Olympic Sailing Center. As the venue for the sailing competitions of the 2008 Beijing Olympics and Paralympics, the Olympic Sailing Center has the only Olympic cultural heritage of sailing in the country. Major festivals such as the Olympic Games, SCO Summit, and Navy Day have also left many valuable cultural resources for the Olympic Sailing Center. The underwater world has tens of thousands of rare marine life specimens, a variety of national first- and second-level protected animals, tens of thousands of rare marine creatures from all over the world, and rich and unique architectural landscapes. Relying on high-quality tourism resources, the tourist area launches a full range of themed products such as marine sports, marine science research, and coastal leisure and entertainment, and builds the scenic spot into an international marine cultural tourism destination integrating sailing sports, coastal leisure, cultural experience, marine research, and exhibition tourism.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -75,10 +55,10 @@ Qingdao, previously transliterated as Tsingtao, is a prefecture-level city in Ch
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/青岛市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/青岛市A级旅游景区列表)
 - [OpenStreetMap](https://www.openstreetmap.org/)

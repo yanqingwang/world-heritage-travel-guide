@@ -78,7 +78,8 @@
     "lat": 30.798104,
     "lon": 106.16415,
     "type": "small_airport",
-    "distance_km": 55.0
+    "distance_km": 55.0,
+    "name_zh": "南充高坪机场"
    },
    {
     "name": "Chongqing Jiangbei International Airport",
@@ -88,7 +89,8 @@
     "lat": 29.712254,
     "lon": 106.651895,
     "type": "large_airport",
-    "distance_km": 90.4
+    "distance_km": 90.4,
+    "name_zh": "重庆江北国际机场"
    },
    {
     "name": "Dazhou Jinya Airport",
@@ -98,7 +100,8 @@
     "lat": 31.048815,
     "lon": 107.435646,
     "type": "medium_airport",
-    "distance_km": 95.5
+    "distance_km": 95.5,
+    "name_zh": "达州金垭机场"
    }
   ],
   "nearest_airport_km": 55.0,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

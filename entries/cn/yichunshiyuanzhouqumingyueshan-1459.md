@@ -13,34 +13,12 @@ province_en: "Jiangxi"
 city_en: "Yichun"
 lat: 27.60543
 lon: 114.299102
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 宜春市袁州区明月山旅游区 / Mingyueshan (jiangxi) Tourist Area
 
 > 江西省 · 宜春市 · 度假休闲
-
-## 图片 / Images
-
-![在袁山公园看体育中心 - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9d/%E5%9C%A8%E8%A2%81%E5%B1%B1%E5%85%AC%E5%9B%AD%E7%9C%8B%E4%BD%93%E8%82%B2%E4%B8%AD%E5%BF%83_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*在袁山公园看体育中心 - panoramio.jpg · 邓利 · CC BY-SA 3.0*
-
-![Torch at Yichun railway station 20191019 164425.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Torch_at_Yichun_railway_station_20191019_164425.jpg/1280px-Torch_at_Yichun_railway_station_20191019_164425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Torch at Yichun railway station 20191019 164425.jpg · 維基小霸王 · CC BY-SA 4.0*
-
-![Yichun, Jianxi - panoramio.jpg](https://upload.wikimedia.org/wikipedia/commons/1/18/Yichun%2C_Jianxi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Yichun, Jianxi - panoramio.jpg · The Erica Chang · CC BY 3.0*
-
-![Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-55-12.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-55-12.jpg/1280px-Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-55-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-55-12.jpg · Zhangzhugang · CC BY-SA 4.0*
-
-![Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-56-16.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-56-16.jpg/1280px-Yichun_Yuanzhou_Huiyi_Jiuzhi_2018.06.30_16-56-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Yichun Yuanzhou Huiyi Jiuzhi 2018.06.30 16-56-16.jpg · Zhangzhugang · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

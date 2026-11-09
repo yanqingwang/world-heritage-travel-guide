@@ -2,7 +2,7 @@
 id: "cn-483"
 dataset: "china_5a"
 name_zh: "镇江市金山•焦山•北固山风景区"
-name_en: "Zhenjiangshijinshan•jiaoshan•beigushanfeng Scenic Area"
+name_en: "Jinshanjiedao (zhenjiangshi) Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Zhenjiang"
 lat: 32.227994
 lon: 119.4198
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
-# 镇江市金山•焦山•北固山风景区 / Zhenjiangshijinshan•jiaoshan•beigushanfeng Scenic Area
+# 镇江市金山•焦山•北固山风景区 / Jinshanjiedao (zhenjiangshi) Scenic Area
 
 > 江苏省 · 镇江市 · 山地风光
 
@@ -61,4 +61,5 @@ The three mountains of Zhenjiang, namely Jinshan Mountain, Beigu Mountain and Ji
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/金山街道 (镇江市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

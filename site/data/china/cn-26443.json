@@ -10,8 +10,8 @@
  "city_zh": "涪陵区",
  "city_en": "Fuling District",
  "name_zh": "武陵山大裂谷景区",
- "name_en": "Wuling Mountains",
- "name_en_source": "wikipedia",
+ "name_en": "Wulingshanmai Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "wulingshandaliegu-26443",
  "lat": 29.495731,
  "lon": 107.585789,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "武陵山大裂谷景区位于重庆市涪陵区城东南约40公里的武陵山乡境内，武陵山系西北尾端，乌江下游东岸，景区创建面积9平方公里。景区平均海拔1300米，最高处1980米，山势奇峻多姿，原生植被丰富，种类繁多，共有2000余种野生植物和200余种野生动物；空气清新宜人，生态环境优良，山、林、泉、洞、瀑、崖、湖、潭、峡、坑、缝一应俱全，旅游资源十分丰富。十里大峡谷雄阔壮美，谷底奇石叠垒，溪流淙淙；天然绝壁宛如万里长城，绵延数里；地缝、暗河神奇壮观。",
- "intro_en": "The Wuling Mountains (simplified Chinese: 武陵山脉; traditional Chinese: 武陵山脈; pinyin: Wǔlíng Shānmài) are a mountain range located in Central China, running from Chongqing Municipality and East Guizhou to West Hunan. They are home to many ethnic groups, including the Tujia, Han, Miao, Dong, and Bai.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Wuling Mountain Rift Valley Scenic Spot is located in Wuling Mountain Township, about 40 kilometers southeast of Fuling District, Chongqing City. It is at the northwest end of the Wuling Mountains and on the east bank of the lower reaches of the Wujiang River. The scenic spot covers an area of ​​9 square kilometers. The average altitude of the scenic spot is 1,300 meters, and the highest point is 1,980 meters. The mountains are steep and varied, and the native vegetation is rich and diverse. There are more than 2,000 species of wild plants and more than 200 species of wild animals. The air is fresh and pleasant, and the ecological environment is excellent. Mountains, forests, springs, caves, waterfalls, cliffs, lakes, pools, gorges, pits, and crevices are all available, and the tourism resources are very rich. The Shili Grand Canyon is majestic and majestic, with strange rocks stacked on top of each other and gurgling streams; the natural cliffs are like the Great Wall, stretching for several miles; the cracks in the ground and the underground rivers are magical and spectacular.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "",
  "booking": "http://www.wlsdlg.com/mall",
@@ -37,7 +37,8 @@
     "lat": 29.465658,
     "lon": 107.693664,
     "type": "medium_airport",
-    "distance_km": 11.0
+    "distance_km": 11.0,
+    "name_zh": "武隆仙女山机场"
    },
    {
     "name": "Chongqing Jiangbei International Airport",
@@ -47,7 +48,8 @@
     "lat": 29.712254,
     "lon": 106.651895,
     "type": "large_airport",
-    "distance_km": 93.4
+    "distance_km": 93.4,
+    "name_zh": "重庆江北国际机场"
    },
    {
     "name": "Qianjiang Wulingshan Airport",
@@ -57,7 +59,8 @@
     "lat": 29.5133333333,
     "lon": 108.831111111,
     "type": "medium_airport",
-    "distance_km": 120.5
+    "distance_km": 120.5,
+    "name_zh": "黔江武陵山机场"
    }
   ],
   "nearest_airport_km": 11.0,
@@ -141,11 +144,10 @@
  "hotels_nearby_30km": 4,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
-  "ko": true,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -164,7 +166,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -182,5 +184,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

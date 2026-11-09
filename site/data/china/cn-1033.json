@@ -78,7 +78,8 @@
     "lat": 30.23609,
     "lon": 120.428865,
     "type": "large_airport",
-    "distance_km": 28.9
+    "distance_km": 28.9,
+    "name_zh": "杭州萧山国际机场"
    },
    {
     "name": "Jiaxing Nanhu Airport",
@@ -88,7 +89,8 @@
     "lat": 30.698056,
     "lon": 120.663056,
     "type": "medium_airport",
-    "distance_km": 73.2
+    "distance_km": 73.2,
+    "name_zh": "嘉兴南湖机场"
    },
    {
     "name": "Yiwu Airport",
@@ -98,7 +100,8 @@
     "lat": 29.342095,
     "lon": 120.03116,
     "type": "large_airport",
-    "distance_km": 99.1
+    "distance_km": 99.1,
+    "name_zh": "义乌机场"
    }
   ],
   "nearest_airport_km": 28.9,
@@ -244,5 +247,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-26562"
 dataset: "china_5a"
 name_zh: "甘南州冶力关旅游区"
-name_en: "Yeliguanzhen Tourist Area"
+name_en: "Gannanzhouyeliguan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Gansu"
 city_en: "Gannanzangzu Autonomous Prefecture"
 lat: 35.019003
 lon: 103.628622
-updated_at: "2026-11-09T12:00:54Z"
+updated_at: "2026-11-09T12:50:13Z"
 ---
 
-# 甘南州冶力关旅游区 / Yeliguanzhen Tourist Area
+# 甘南州冶力关旅游区 / Gannanzhouyeliguan Tourist Area
 
 > 甘肃省 · 甘南藏族自治州 · 红色旅游
 
@@ -53,5 +53,4 @@ Yeliguan Tourist Area is located in the northeastern part of Lintan County, Gann
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/冶力关镇)
 - [OpenStreetMap](https://www.openstreetmap.org/)

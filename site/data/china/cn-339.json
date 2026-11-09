@@ -10,8 +10,8 @@
  "city_zh": "苏州市",
  "city_en": "Suzhou",
  "name_zh": "苏州市同里古镇景区",
- "name_en": "Suzhoushitongliguzhen Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Tongli station",
+ "name_en_source": "wikipedia",
  "slug": "suzhoushitongliguzhen-339",
  "lat": 31.156127,
  "lon": 120.729409,
@@ -22,50 +22,9 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "同里镇是一个具有悠久历史和典型水乡风格的古镇。镇内由15条河流纵横分割为7个小岛，由49座桥连接。同里以“醇正水乡，旧时江南”的特色闻名于海内外。",
- "intro_en": "Tongli Town is an ancient town with a long history and typical water town style. The town is divided into 7 small islands vertically and horizontally by 15 rivers, connected by 49 bridges. Tongli is famous at home and abroad for its characteristics of \"an authentic water town, like the south of the Yangtze River in the old days\".",
- "intro_en_source": "machine_translation",
- "images": [
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg/1280px-%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "东方之门1.jpg",
-   "author": "铁头娃蛤蛤",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:东方之门1.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/State_Council_Gazette_-_2019_-_Issue_30.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_30.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "State Council Gazette - 2019 - Issue 30.pdf",
-   "author": "General Office of the State Council",
-   "license": "Public domain",
-   "credit": "https://www.gov.cn/gongbao",
-   "source": "https://commons.wikimedia.org/wiki/File:State_Council_Gazette_-_2019_-_Issue_30.pdf"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/State_Council_Gazette_-_2019_-_Issue_35.pdf/page1-960px-State_Council_Gazette_-_2019_-_Issue_35.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "State Council Gazette - 2019 - Issue 35.pdf",
-   "author": "General Office of the State Council",
-   "license": "Public domain",
-   "credit": "https://www.gov.cn/gongbao",
-   "source": "https://commons.wikimedia.org/wiki/File:State_Council_Gazette_-_2019_-_Issue_35.pdf"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/State_Council_Gazette_-_2020_-_Issue_14.pdf/page1-960px-State_Council_Gazette_-_2020_-_Issue_14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "State Council Gazette - 2020 - Issue 14.pdf",
-   "author": "General Office of the State Council",
-   "license": "Public domain",
-   "credit": "https://www.gov.cn/gongbao",
-   "source": "https://commons.wikimedia.org/wiki/File:State_Council_Gazette_-_2020_-_Issue_14.pdf"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%E4%B8%AD%E9%95%BF%E6%9C%9F%E9%93%81%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92_%282016%29.pdf/page1-960px-%E4%B8%AD%E9%95%BF%E6%9C%9F%E9%93%81%E8%B7%AF%E7%BD%91%E8%A7%84%E5%88%92_%282016%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "中长期铁路网规划 (2016).pdf",
-   "author": "National Development and Reform Commission of the People's Republic of China, Ministry of Transport of the People's Repu",
-   "license": "Public domain",
-   "credit": "http://www.ndrc.gov.cn/zcfb/zcfbghwb/201607/W020160720563365893147.pdf",
-   "source": "https://commons.wikimedia.org/wiki/File:中长期铁路网规划_(2016).pdf"
-  }
- ],
+ "intro_en": "Tongli (Chinese: 同里) is a station on Line 4 of the Suzhou Metro, and the southern terminus of Line 4. The station is located in the Wujiang District of Suzhou. It has been in use since April 15, 2017, the same time of the operation of Line 4.",
+ "intro_en_source": "wikipedia",
+ "images": [],
  "web": "http://www.tongli.net/index.php?m=Index&a=indexcn",
  "booking": "http://www.tongli.net/",
  "transport": {
@@ -78,7 +37,8 @@
     "lat": 31.496952,
     "lon": 120.43038,
     "type": "large_airport",
-    "distance_km": 47.4
+    "distance_km": 47.4,
+    "name_zh": "无锡硕放机场"
    },
    {
     "name": "Jiaxing Nanhu Airport",
@@ -88,7 +48,8 @@
     "lat": 30.698056,
     "lon": 120.663056,
     "type": "medium_airport",
-    "distance_km": 51.3
+    "distance_km": 51.3,
+    "name_zh": "嘉兴南湖机场"
    },
    {
     "name": "Shanghai Hongqiao International Airport",
@@ -98,7 +59,8 @@
     "lat": 31.198104,
     "lon": 121.33426,
     "type": "large_airport",
-    "distance_km": 57.7
+    "distance_km": 57.7,
+    "name_zh": "上海虹桥国际机场"
    }
   ],
   "nearest_airport_km": 47.4,
@@ -197,6 +159,7 @@
   "ja": false,
   "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -225,9 +188,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/同里站"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

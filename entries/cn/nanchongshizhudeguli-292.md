@@ -13,34 +13,12 @@ province_en: "Sichuan"
 city_en: "Nanchang"
 lat: 31.468248
 lon: 106.608353
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 南充市朱德故里景区 / Former Residence of Zhu De
 
 > 四川省 · 南充市 · 历史遗址
-
-## 图片 / Images
-
-![Nanchong night.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Nanchong_night.jpg/1280px-Nanchong_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Nanchong night.jpg · Mengyl97 · CC BY-SA 4.0*
-
-![202309 Nanchong Overview.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/202309_Nanchong_Overview.jpg/1280px-202309_Nanchong_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*202309 Nanchong Overview.jpg · MNXANL · CC BY-SA 4.0*
-
-![Exit A, Nanchong Station, Guangzhou Metro.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Exit_A%2C_Nanchong_Station%2C_Guangzhou_Metro.jpg/1280px-Exit_A%2C_Nanchong_Station%2C_Guangzhou_Metro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Exit A, Nanchong Station, Guangzhou Metro.jpg · Chinen Sieru · CC BY-SA 4.0*
-
-![Exit B, Nanchong Station, Fmetro 20220501.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Exit_B%2C_Nanchong_Station%2C_Fmetro_20220501.jpg/1280px-Exit_B%2C_Nanchong_Station%2C_Fmetro_20220501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Exit B, Nanchong Station, Fmetro 20220501.jpg · Nrya · CC BY-SA 3.0*
-
-![Nanchong Railway Station 202501.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Nanchong_Railway_Station_202501.jpg/1280px-Nanchong_Railway_Station_202501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Nanchong Railway Station 202501.jpg · SunLong2002 · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 

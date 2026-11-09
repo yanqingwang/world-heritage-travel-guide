@@ -13,34 +13,12 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.912045
 lon: 125.357554
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
 # 长春市伪满皇宫博物馆 / Changchunshiweimanhuanggong Museum
 
 > 吉林省 · 长春市 · 历史遗址
-
-## 图片 / Images
-
-![Changchun Montage 2017.png](https://upload.wikimedia.org/wikipedia/commons/0/0e/Changchun_Montage_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Changchun Montage 2017.png · Montage by 嗷大喵 ( 嗷大喵 ) · CC BY-SA 4.0*
-
-![Changchun-location-MAP-in-Jilin-Province-in-China.jpg](https://upload.wikimedia.org/wikipedia/commons/3/3b/Changchun-location-MAP-in-Jilin-Province-in-China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Changchun-location-MAP-in-Jilin-Province-in-China.jpg · Dagvidur · CC BY-SA 4.0*
-
-![Changchun CBD viewed from the Cultural Square, 2024.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Changchun_CBD_viewed_from_the_Cultural_Square%2C_2024.jpg/1280px-Changchun_CBD_viewed_from_the_Cultural_Square%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Changchun CBD viewed from the Cultural Square, 2024.jpg · Licjar Xeymelloz · CC0*
-
-![Changchun Railway Station.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Changchun_Railway_Station.jpg/1280px-Changchun_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Changchun Railway Station.jpg · Jacob Lyu · CC BY-SA 4.0*
-
-![Hsinking Airport.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/Hsinking_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Hsinking Airport.jpg · Unknown author Unknown author · Public domain*
 
 ## 简介 / Introduction
 
@@ -80,4 +58,5 @@ The Imperial Palace Museum of the Puppet Manchukuo is the former site of the pal
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/伪满皇宫及日伪军政机构旧址)
 - [OpenStreetMap](https://www.openstreetmap.org/)

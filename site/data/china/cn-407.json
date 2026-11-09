@@ -10,7 +10,7 @@
  "city_zh": "焦作市",
  "city_en": "Jiaozuo",
  "name_zh": "焦作市云台山-神农山-青天河风景区",
- "name_en": "Jiaozuoshiyuntaishan-shennongshan-qingtianhefeng Scenic Area",
+ "name_en": "Qingtianhe Scenic Area",
  "name_en_source": "pinyin",
  "slug": "jiaozuoshiyuntaishanshennongshanqingtianhe-407",
  "lat": 35.441412,
@@ -37,7 +37,8 @@
     "lat": 36.247501,
     "lon": 113.125999,
     "type": "small_airport",
-    "distance_km": 92.6
+    "distance_km": 92.6,
+    "name_zh": "长治王村机场"
    },
    {
     "name": "Anyang Hongqiqu Airport",
@@ -47,7 +48,8 @@
     "lat": 35.870833,
     "lon": 114.461944,
     "type": "small_airport",
-    "distance_km": 108.5
+    "distance_km": 108.5,
+    "name_zh": "安阳红旗渠机场"
    },
    {
     "name": "Zhengzhou Xinzheng International Airport",
@@ -57,7 +59,8 @@
     "lat": 34.526497,
     "lon": 113.849165,
     "type": "large_airport",
-    "distance_km": 110.2
+    "distance_km": 110.2,
+    "name_zh": "郑州新郑国际机场"
    }
   ],
   "nearest_airport_km": 92.6,
@@ -173,9 +176,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/青天河"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

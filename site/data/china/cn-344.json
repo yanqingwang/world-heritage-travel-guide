@@ -10,8 +10,8 @@
  "city_zh": "南京市",
  "city_en": "Nanjing",
  "name_zh": "南京市夫子庙-秦淮风光带",
- "name_en": "Nanjing Fuzimiao",
- "name_en_source": "wikipedia",
+ "name_en": "Nanjingfuzimiao",
+ "name_en_source": "pinyin",
  "slug": "nanjingshifuzimiaoqinhuaifengguangdai-344",
  "lat": 32.027197,
  "lon": 118.794426,
@@ -22,8 +22,8 @@
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
  "intro_zh": "秦淮河全长五公里，史称“十里秦淮”，是夫子庙-秦淮风光带精华所在。夫子庙-秦淮风光带是集自然风光、山水园林、庙宇学堂、街市民居、乡土人情为一体的旅游区。",
- "intro_en": "Nanjing Fuzimiao (Chinese: 南京夫子庙) or Fuzimiao (Chinese: 夫子庙; lit. 'Confucian Temple'), is a Confucius Temple and former site of imperial examination hall located in southern Nanjing City on banks of the Qinhuai River. It is now a popular tourist attraction with pedestrian shopping streets around the restored temple buildings. Nanjing Confucius Temple is located in Qinhuai District, Nanjing City, on the north bank of the Qinhuai River Gongyuan Street, Jiangnan Gongyuan west, located in the Confucius temple Qinhuai scenery belt core area, namely Nanjing Confucius Temple, Nanjing Confucian Temple, Wenxuanwang Temple, for the place of worship and sacrifice of Confucius. It is the first national highest institution of learning in China, one of the four major temples of literature in China, the hub of ancient Chinese culture, the place where Nanking history and humanities gather and is not only the cultural and educational centre of Nanjing in the Ming and Qing dynasties but also the cultural and educational architectural complex that ranks first in the southeastern provinces.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Qinhuai River is five kilometers long and is known as the \"Ten Miles of Qinhuai\" in history. It is the essence of the Confucius Temple-Qinhuai Scenic Area. Confucius Temple-Qinhuai Scenic Belt is a tourist area integrating natural scenery, landscape gardens, temples and schools, residents and local people.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Gate_of_Nanjing_Fuzi_Temple_2.jpg/1280px-Gate_of_Nanjing_Fuzi_Temple_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -62,7 +62,8 @@
     "lat": 31.735032,
     "lon": 118.865949,
     "type": "large_airport",
-    "distance_km": 33.2
+    "distance_km": 33.2,
+    "name_zh": "南京禄口国际机场"
    },
    {
     "name": "Changzhou Benniu International Airport",
@@ -72,7 +73,8 @@
     "lat": 31.920485,
     "lon": 119.77546,
     "type": "medium_airport",
-    "distance_km": 93.3
+    "distance_km": 93.3,
+    "name_zh": "常州奔牛机场"
    },
    {
     "name": "Wuhu Xuanzhou Airport",
@@ -82,7 +84,8 @@
     "lat": 31.1045,
     "lon": 118.66687,
     "type": "medium_airport",
-    "distance_km": 103.3
+    "distance_km": 103.3,
+    "name_zh": "芜湖宣州机场"
    }
   ],
   "nearest_airport_km": 33.2,
@@ -196,11 +199,10 @@
  "hotels_nearby_30km": 171,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
+  "en": false,
+  "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -219,7 +221,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -237,5 +239,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }

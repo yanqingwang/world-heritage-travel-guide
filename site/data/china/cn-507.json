@@ -78,7 +78,8 @@
     "lat": 25.649401,
     "lon": 100.319,
     "type": "medium_airport",
-    "distance_km": 18.2
+    "distance_km": 18.2,
+    "name_zh": "大理凤仪机场"
    },
    {
     "name": "Lijiang Sanyi International Airport",
@@ -88,7 +89,8 @@
     "lat": 26.677483,
     "lon": 100.244944,
     "type": "large_airport",
-    "distance_km": 108.0
+    "distance_km": 108.0,
+    "name_zh": "丽江三义机场"
    },
    {
     "name": "Baoshan Yunrui Airport",
@@ -98,7 +100,8 @@
     "lat": 25.053301,
     "lon": 99.168297,
     "type": "medium_airport",
-    "distance_km": 122.7
+    "distance_km": 122.7,
+    "name_zh": "保山云瑞机场"
    }
   ],
   "nearest_airport_km": 18.2,
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

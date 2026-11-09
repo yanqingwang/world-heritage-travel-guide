@@ -78,7 +78,8 @@
     "lat": 37.746899,
     "lon": 112.627998,
     "type": "large_airport",
-    "distance_km": 16.4
+    "distance_km": 16.4,
+    "name_zh": "太原武宿国际机场"
    },
    {
     "name": "Xinzhou Wutaishan Airport",
@@ -88,7 +89,8 @@
     "lat": 38.597456,
     "lon": 112.969173,
     "type": "small_airport",
-    "distance_km": 109.1
+    "distance_km": 109.1,
+    "name_zh": "五台山机场"
    },
    {
     "name": "Lüliang Dawu Airport",
@@ -98,7 +100,8 @@
     "lat": 37.683333,
     "lon": 111.142778,
     "type": "medium_airport",
-    "distance_km": 115.0
+    "distance_km": 115.0,
+    "name_zh": "吕梁机场"
    }
   ],
   "nearest_airport_km": 16.4,
@@ -168,24 +171,24 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "全季酒店",
-   "name_en": "Ji Hotel",
+   "name": "Hampton by Hilton Taiyuan Wuyi Square",
+   "name_en": null,
    "stars": null,
-   "brand": "全季酒店",
-   "lat": 37.8369455,
-   "lon": 112.5464039,
-   "distance_km": 17.0,
+   "brand": "Hampton",
+   "lat": 37.8566672,
+   "lon": 112.5670719,
+   "distance_km": 19.8,
    "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
-   "name": "锦江之星",
-   "name_en": "Jinjiang Inn",
+   "name": "悦海四季酒店",
+   "name_en": null,
    "stars": null,
-   "brand": "锦江之星",
-   "lat": 37.8571123,
-   "lon": 112.5662506,
-   "distance_km": 19.8,
+   "brand": null,
+   "lat": 37.8762528,
+   "lon": 112.5675729,
+   "distance_km": 21.7,
    "kind": "chain",
    "source": "OpenStreetMap"
   }
@@ -234,5 +237,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

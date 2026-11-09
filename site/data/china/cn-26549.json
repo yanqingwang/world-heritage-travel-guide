@@ -10,8 +10,8 @@
  "city_zh": "白城市",
  "city_en": "Baicheng City",
  "name_zh": "白城市大安嫩江湾旅游区",
- "name_en": "Da'an, Jilin",
- "name_en_source": "wikipedia",
+ "name_en": "Baichengshidaannenjiangwan Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "baichengshidaannenjiangwan-26549",
  "lat": 45.534909,
  "lon": 124.301536,
@@ -22,8 +22,8 @@
  "category_zh": "生态湿地",
  "category_en": "Wetland ecology",
  "intro_zh": "嫩江湾旅游区地处吉林省大安市，距城区仅1公里。景区总面积3.5平方公里，有老坎子码头、辽皇观鱼台、华夷同风院等大小景点百余处。因系千里嫩江第一湾而闻名天下，是松嫩平原上一颗璀璨的明珠，先后被评为国家森林公园、国家湿地公园、国家级水利风景区。",
- "intro_en": "Da'an (Chinese: 大安; pinyin: Dà'ān; lit. 'Dalai and Anchang') is a city of northwestern Jilin province in Northeast China, on the southern bank of the Songhua River and the border with Heilongjiang province. It is under the administration of Baicheng City, 115 kilometres (71 mi) to the west, and lies 57 kilometres (35 mi) northwest of Songyuan. Da'an City is 423,700, including 423,000 permanent residents.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Nenjiang Bay Tourist Area is located in Da'an City, Jilin Province, only 1 km away from the city. The total area of ​​the scenic spot is 3.5 square kilometers, and there are more than 100 large and small scenic spots such as Laokanzi Wharf, Liaohuang Fish Viewing Platform, Huayi Tongfeng Yuan, etc. It is famous all over the world for being the first bay of the Nenjiang River in thousands of miles. It is a shining pearl on the Songnen Plain. It has been rated as a National Forest Park, a National Wetland Park, and a National Water Conservancy Scenic Area.",
+ "intro_en_source": "machine_translation",
  "images": [],
  "web": "https://www.danjwlyq.com/da-www/",
  "booking": "",
@@ -37,7 +37,8 @@
     "lat": 44.931143,
     "lon": 124.552121,
     "type": "medium_airport",
-    "distance_km": 69.9
+    "distance_km": 69.9,
+    "name_zh": "松原查干湖机场"
    },
    {
     "name": "Baicheng Chang'an Airport",
@@ -47,7 +48,8 @@
     "lat": 45.505278,
     "lon": 123.019722,
     "type": "medium_airport",
-    "distance_km": 99.9
+    "distance_km": 99.9,
+    "name_zh": "白城长安机场"
    },
    {
     "name": "Daqing Sartu Airport",
@@ -57,7 +59,8 @@
     "lat": 46.750883,
     "lon": 125.138642,
     "type": "small_airport",
-    "distance_km": 149.8
+    "distance_km": 149.8,
+    "name_zh": "大庆萨尔图机场"
    }
   ],
   "nearest_airport_km": 69.9,
@@ -96,11 +99,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -119,7 +121,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -130,12 +132,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/大安市"
+   "url": "https://zh.wikipedia.org/wiki/长虹街道 (大安市)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

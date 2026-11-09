@@ -10,7 +10,7 @@
  "city_zh": "朝阳区",
  "city_en": "Zhaoyang District",
  "name_zh": "北京奥林匹克公园",
- "name_en": "Aolinpike Gongyuan (Olympic Park) station",
+ "name_en": "Olympic Green",
  "name_en_source": "wikipedia",
  "slug": "beijingaolinpikegongyuan-1218",
  "lat": 39.999245,
@@ -22,7 +22,7 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "奥林匹克公园地处城市中轴线北端，总中心区是主要场馆和配套设施建设区。奥林匹克公园中心区是举办北京2008年奥运会的主要场地，拥有亚洲最大的城区人工水系和城市绿化景观、亚洲最长的地下交通环廊和世界最开阔的步行广场。",
- "intro_en": "Aolinpike Gongyuan (Olympic Park) station (simplified Chinese: 奥林匹克公园站; traditional Chinese: 奧林匹克公園站; pinyin: Àolínpǐkè Gōngyuán zhàn) is an interchange station on Line 8 and Line 15 of the Beijing Subway. The station was named Olympic Green. It was renamed on December 31, 2021, to use Pinyin, though the English translation are still displayed in brackets underneath.",
+ "intro_en": "The Olympic Green (Chinese: 奥林匹克公园; pinyin: Àolínpǐkè Gōngyuán; lit. 'Olympic Park') is an Olympic Park in Chaoyang, Beijing, China. The three main facilities there include the National Stadium (Bird's Nest), Water Cube, and National Indoor Stadium. Olympic Green was originally constructed for the 2008 Summer Olympics and the 2008 Summer Paralympics. Since then, the streets around the park have been used for an exhibition street race of the FIA GT1 World Championship in 2011, after a race at Goldenport Park Circuit in the vicinity. It again served as an Olympic Park when Beijing hosted the 2022 Winter Olympics and the 2022 Winter Paralympics.",
  "intro_en_source": "wikipedia",
  "images": [
   {
@@ -78,7 +78,8 @@
     "lat": 40.077349,
     "lon": 116.596702,
     "type": "large_airport",
-    "distance_km": 18.9
+    "distance_km": 18.9,
+    "name_zh": "北京首都国际机场"
    },
    {
     "name": "Beijing Daxing International Airport",
@@ -88,7 +89,8 @@
     "lat": 39.501289,
     "lon": 116.413967,
     "type": "large_airport",
-    "distance_km": 55.4
+    "distance_km": 55.4,
+    "name_zh": "北京大兴国际机场"
    },
    {
     "name": "Tianjin Binhai International Airport",
@@ -98,7 +100,8 @@
     "lat": 39.124401092499994,
     "lon": 117.346000671,
     "type": "large_airport",
-    "distance_km": 126.7
+    "distance_km": 126.7,
+    "name_zh": "天津滨海国际机场"
    }
   ],
   "nearest_airport_km": 18.9,
@@ -255,12 +258,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/奥林匹克公园站 (北京市)"
+   "url": "https://zh.wikipedia.org/wiki/奥林匹克公园 (北京)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

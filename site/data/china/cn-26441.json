@@ -10,7 +10,7 @@
  "city_zh": "柳州市",
  "city_en": "Liuzhou",
  "name_zh": "柳州市程阳八寨景区",
- "name_en": "Liuzhoushichengyangbazhai Scenic Area",
+ "name_en": "Chengyangyongjiqiao Scenic Area",
  "name_en_source": "pinyin",
  "slug": "liuzhoushichengyangbazhai-26441",
  "lat": 25.903032,
@@ -46,7 +46,8 @@
     "lat": 26.32217,
     "lon": 109.1499,
     "type": "medium_airport",
-    "distance_km": 68.2
+    "distance_km": 68.2,
+    "name_zh": "黎平机场"
    },
    {
     "name": "Guilin Liangjiang International Airport",
@@ -56,7 +57,8 @@
     "lat": 25.219828,
     "lon": 110.039553,
     "type": "large_airport",
-    "distance_km": 85.5
+    "distance_km": 85.5,
+    "name_zh": "桂林两江国际机场"
    },
    {
     "name": "Shaoyang Wugang Airport",
@@ -66,7 +68,8 @@
     "lat": 26.806123,
     "lon": 110.641042,
     "type": "medium_airport",
-    "distance_km": 141.0
+    "distance_km": 141.0,
+    "name_zh": "邵阳武冈机场"
    }
   ],
   "nearest_airport_km": 68.2,
@@ -103,28 +106,6 @@
  },
  "hotels": [
   {
-   "name": "汉庭酒店",
-   "name_en": "Hanting Hotel",
-   "stars": null,
-   "brand": "汉庭酒店",
-   "lat": 25.7850054,
-   "lon": 109.6114801,
-   "distance_km": 13.6,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "全季酒店",
-   "name_en": "Ji Hotel",
-   "stars": null,
-   "brand": "全季酒店",
-   "lat": 25.785028,
-   "lon": 109.6118048,
-   "distance_km": 13.6,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "Dong Village Hotel",
    "name_en": "Dong Village Hotel",
    "stars": null,
@@ -154,6 +135,28 @@
    "lat": 25.7859534,
    "lon": 109.6143123,
    "distance_km": 13.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "雅贤居商务酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.785935,
+   "lon": 109.6139475,
+   "distance_km": 13.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "盛利宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.7856983,
+   "lon": 109.612141,
+   "distance_km": 13.5,
    "kind": "hotel",
    "source": "OpenStreetMap"
   }
@@ -193,9 +196,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/程阳永济桥"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

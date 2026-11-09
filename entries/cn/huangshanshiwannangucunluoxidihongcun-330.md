@@ -2,7 +2,7 @@
 id: "cn-330"
 dataset: "china_5a"
 name_zh: "黄山市皖南古村落-西递宏村"
-name_en: "Huangshan"
+name_en: "Wannangucunluo"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,34 +13,34 @@ province_en: "Anhui"
 city_en: "Huangshan"
 lat: 29.846794
 lon: 118.292631
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:15Z"
 ---
 
-# 黄山市皖南古村落-西递宏村 / Huangshan
+# 黄山市皖南古村落-西递宏村 / Wannangucunluo
 
 > 安徽省 · 黄山市 · 古镇村落
 
 ## 图片 / Images
 
-![Huangshan fengjing.jpg](https://upload.wikimedia.org/wikipedia/commons/4/44/Huangshan_fengjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+![Hongcun 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hongcun_1.jpg/1280px-Hongcun_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Huangshan fengjing.jpg · Public domain*
+*Hongcun 1.jpg · EditQ · CC BY-SA 4.0*
 
-![安徽省人民政府关于进一步加强文物工作的实施意见.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/%E5%AE%89%E5%BE%BD%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E6%96%87%E7%89%A9%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%AE%9E%E6%96%BD%E6%84%8F%E8%A7%81.pdf/page1-960px-%E5%AE%89%E5%BE%BD%E7%9C%81%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E6%96%87%E7%89%A9%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%AE%9E%E6%96%BD%E6%84%8F%E8%A7%81.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Hongcun 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Hongcun_2.jpg/1280px-Hongcun_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*安徽省人民政府关于进一步加强文物工作的实施意见.pdf · 安徽省人民政府 · Public domain*
+*Hongcun 2.jpg · EditQ · CC BY-SA 4.0*
 
-![Anhui Huangshan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Anhui_Huangshan.jpg/1280px-Anhui_Huangshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Hongcun 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hongcun_3.jpg/1280px-Hongcun_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Anhui Huangshan.jpg · Miaulian · CC BY-SA 3.0*
+*Hongcun 3.jpg · EditQ · CC BY-SA 4.0*
 
-![Mount-huangshan 53319729912.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount-huangshan_53319729912.jpg/1280px-Mount-huangshan_53319729912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Hongcun 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Hongcun_4.jpg/1280px-Hongcun_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mount-huangshan 53319729912.jpg · xiquinhosilva · CC BY 2.0*
+*Hongcun 4.jpg · EditQ · CC BY-SA 4.0*
 
-![Mount-huangshan 53319732602 o.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Mount-huangshan_53319732602_o.jpg/1280px-Mount-huangshan_53319732602_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Hongcun 5.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hongcun_5.jpg/1280px-Hongcun_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Mount-huangshan 53319732602 o.jpg · xiquinhosilva · CC BY 2.0*
+*Hongcun 5.jpg · EditQ · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-09T12:00:55Z"
 
 ### English
 
-Huangshan (simplified Chinese: 黄山; traditional Chinese: 黃山), literally meaning the Yellow Mountain(s), is a mountain range in southern Anhui province in eastern China. It was originally called "Yishan", and it was renamed because of a legend that the Yellow Emperor once made alchemy here. Vegetation on the range is thickest below 1,100 meters (3,600 ft), with trees growing up to the treeline at 1,800 meters (5,900 ft). The area is well known for its scenery, sunsets, peculiarly shaped granite peaks, Huangshan pine trees, hot springs, winter snow, and views of the clouds from above. Huangshan is a frequent subject of traditional Chinese paintings and literature, as well as modern photography. It is a UNESCO World Heritage Site and one of China's major tourist destinations.
+The Wannan Ancient Village Scenic Spot is represented by Xidi Village and Hongcun, which are two of the more representative ancient villages among the folk houses in southern Anhui. Xidi Village has a history of more than 950 years. The typical ancient village style of the Ming and Qing Dynasties is well preserved in the village, and it is known as the "living ancient residential museum". Hongcun was founded in 1131 AD. It is a typical representative of the culture of the late feudal society in China and embodies the characteristics of Huizhou folk houses with exquisite craftsmanship.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -75,10 +77,10 @@ Huangshan (simplified Chinese: 黄山; traditional Chinese: 黃山), literally m
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄山)
+- [Wikipedia](https://zh.wikipedia.org/wiki/皖南古村落)
 - [OpenStreetMap](https://www.openstreetmap.org/)

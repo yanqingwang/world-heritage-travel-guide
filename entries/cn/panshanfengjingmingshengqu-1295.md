@@ -13,34 +13,12 @@ province_en: "Tianjin"
 city_en: "Jizhou District"
 lat: 40.095194
 lon: 117.296592
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 盘山风景名胜区 / Huanglong Scenic and Historic Interest Area
 
 > 天津市 · 蓟州区 · 山地风光
-
-## 图片 / Images
-
-![Water-of-Five-colored-Pond Huanglong Sichuan China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Water-of-Five-colored-Pond Huanglong Sichuan China.jpg · Kounosu · CC BY-SA 3.0*
-
-![Pan shan.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Pan_shan.jpg/1280px-Pan_shan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Pan shan.jpg · Fanghong · CC BY-SA 4.0*
-
-![殊胜@盘山.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/%E6%AE%8A%E8%83%9C%40%E7%9B%98%E5%B1%B1.jpg/1280px-%E6%AE%8A%E8%83%9C%40%E7%9B%98%E5%B1%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*殊胜@盘山.jpg · Shizhao · CC BY-SA 4.0*
-
-![盘山 - Mount Panshan - 2015.10 - panoramio.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio.jpg/1280px-%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*盘山 - Mount Panshan - 2015.10 - panoramio.jpg · rheins · CC BY 3.0*
-
-![盘山 - Mount Panshan - 2015.10 - panoramio (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio_%281%29.jpg/1280px-%E7%9B%98%E5%B1%B1_-_Mount_Panshan_-_2015.10_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*盘山 - Mount Panshan - 2015.10 - panoramio (1).jpg · rheins · CC BY 3.0*
 
 ## 简介 / Introduction
 

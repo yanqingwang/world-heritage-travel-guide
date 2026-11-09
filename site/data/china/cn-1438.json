@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "野三坡主要景点包括百里峡景区、拒马河景区、龙门天关景区、 白草畔森林游览区、鱼谷洞、 印象野三坡等，是中国北方极为罕见的融雄山碧水、奇峡怪泉、文物古迹、名树古禅于一身的风景名胜区。",
- "intro_en": "The main scenic spots in Yesanpo include Baili Gorge Scenic Area, Juma River Scenic Area, Longmen Tianguan Scenic Area, Baicaopan Forest Tourist Area, Yugu Cave, Impression Yesanpo, etc. It is an extremely rare scenic spot in northern China that combines majestic mountains and clear waters, strange gorges and springs, cultural relics, famous trees and ancient Zen.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Yesanpo National Park (Chinese: 野三坡; pinyin: Yěsānpō; lit. 'Wild Three Slope') (also, Yesanpo Scenic Site, or Yesanpo Geopark, and component areas) is a national park in Laishui County, Hebei Province, China about 2 hours west of Beijing. Yesanpo consists of six main scenic sites, including the Bai Li Xia Gorge (\"hundred li gorge\", which is about 31 miles), portions of the Juma River, Baicaopan Forest, and Jinhua Mountain. The park is located where the Taihang Mountains meet the Yan Mountains. Although designated as a national park, Yesanpo is not listed as an IUCN Level II \"protected area\" in the World Database of Protected Areas (WDPA). However, \"Yesanpo Scenic Area\" is listed by the governmental China National Tourism Administration, and components are listed in the WDPA. For example, Binlixia Nature Reserve is listed as an IUCN Level V Protected Area.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Yesanpo.jpg/1280px-Yesanpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -78,7 +78,8 @@
     "lat": 39.501289,
     "lon": 116.413967,
     "type": "large_airport",
-    "distance_km": 106.0
+    "distance_km": 106.0,
+    "name_zh": "北京大兴国际机场"
    },
    {
     "name": "Zhangjiakou Ningyuan Airport",
@@ -88,7 +89,8 @@
     "lat": 40.738664,
     "lon": 114.933395,
     "type": "medium_airport",
-    "distance_km": 110.9
+    "distance_km": 110.9,
+    "name_zh": "张家口机场"
    },
    {
     "name": "Beijing Capital International Airport",
@@ -98,7 +100,8 @@
     "lat": 40.077349,
     "lon": 116.596702,
     "type": "large_airport",
-    "distance_km": 121.9
+    "distance_km": 121.9,
+    "name_zh": "北京首都国际机场"
    }
   ],
   "nearest_airport_km": 106.0,
@@ -201,5 +204,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:54Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

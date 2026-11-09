@@ -78,7 +78,8 @@
     "lat": 35.870833,
     "lon": 114.461944,
     "type": "small_airport",
-    "distance_km": 33.6
+    "distance_km": 33.6,
+    "name_zh": "安阳红旗渠机场"
    },
    {
     "name": "Handan Airport",
@@ -88,7 +89,8 @@
     "lat": 36.524824,
     "lon": 114.424126,
     "type": "medium_airport",
-    "distance_km": 42.9
+    "distance_km": 42.9,
+    "name_zh": "邯郸机场"
    },
    {
     "name": "Changzhi Wangcun Airport",
@@ -98,7 +100,8 @@
     "lat": 36.247501,
     "lon": 113.125999,
     "type": "small_airport",
-    "distance_km": 107.4
+    "distance_km": 107.4,
+    "name_zh": "长治王村机场"
    }
   ],
   "nearest_airport_km": 33.6,
@@ -222,5 +225,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:14Z"
 }

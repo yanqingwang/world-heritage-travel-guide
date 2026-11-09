@@ -13,22 +13,12 @@ province_en: "Fujian"
 city_en: "Nanping"
 lat: 27.668108
 lon: 117.963042
-updated_at: "2026-11-09T12:00:55Z"
+updated_at: "2026-11-09T12:50:14Z"
 ---
 
 # 南平市武夷山风景名胜区 / Huanglong Scenic and Historic Interest Area
 
 > 福建省 · 南平市 · 山地风光
-
-## 图片 / Images
-
-![Water-of-Five-colored-Pond Huanglong Sichuan China.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Water-of-Five-colored-Pond Huanglong Sichuan China.jpg · Kounosu · CC BY-SA 3.0*
-
-![2020年7月8日 福建武夷山遭强暴雨袭击 全市停水 景区关闭.webm](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm/1280px--2020%E5%B9%B47%E6%9C%888%E6%97%A5_%E7%A6%8F%E5%BB%BA%E6%AD%A6%E5%A4%B7%E5%B1%B1%E9%81%AD%E5%BC%BA%E6%9A%B4%E9%9B%A8%E8%A2%AD%E5%87%BB_%E5%85%A8%E5%B8%82%E5%81%9C%E6%B0%B4_%E6%99%AF%E5%8C%BA%E5%85%B3%E9%97%AD.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo)
-
-*2020年7月8日 福建武夷山遭强暴雨袭击 全市停水 景区关闭.webm · 中国新闻网 · CC BY 3.0*
 
 ## 简介 / Introduction
 

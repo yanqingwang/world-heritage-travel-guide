@@ -54,7 +54,8 @@
     "lat": 22.598071,
     "lon": 108.181922,
     "type": "large_airport",
-    "distance_km": 31.0
+    "distance_km": 31.0,
+    "name_zh": "南宁吴圩国际机场"
    },
    {
     "name": "Beihai Fucheng Airport",
@@ -64,7 +65,8 @@
     "lat": 21.538659,
     "lon": 109.293683,
     "type": "medium_airport",
-    "distance_km": 167.5
+    "distance_km": 167.5,
+    "name_zh": "北海福成机场"
    },
    {
     "name": "Baise (Bose) Bama Airport",
@@ -74,7 +76,8 @@
     "lat": 23.7206,
     "lon": 106.959999,
     "type": "medium_airport",
-    "distance_km": 179.2
+    "distance_km": 179.2,
+    "name_zh": "百色巴马机场"
    }
   ],
   "nearest_airport_km": 31.0,
@@ -209,5 +212,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-09T12:00:55Z"
+ "updated_at": "2026-11-09T12:50:15Z"
 }
