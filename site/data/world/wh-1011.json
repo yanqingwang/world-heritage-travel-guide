@@ -3,7 +3,7 @@
  "unesco_id": "1011",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 832,
+ "popularity_rank": 877,
  "popularity_score": null,
  "country": "AM",
  "country_zh": "亚美尼亚",
@@ -72,7 +72,8 @@
     "lat": 40.148941,
     "lon": 44.397887,
     "type": "large_airport",
-    "distance_km": 8.8
+    "distance_km": 8.8,
+    "name_zh": "兹瓦尔特诺茨国际机场"
    },
    {
     "name": "Iğdır Airport",
@@ -82,7 +83,8 @@
     "lat": 39.976627,
     "lon": 43.876648,
     "type": "medium_airport",
-    "distance_km": 41.0
+    "distance_km": 41.0,
+    "name_zh": "厄德尔机场"
    },
    {
     "name": "Shirak International Airport",
@@ -92,7 +94,8 @@
     "lat": 40.750401,
     "lon": 43.859299,
     "type": "large_airport",
-    "distance_km": 75.4
+    "distance_km": 75.4,
+    "name_zh": "希拉克机场"
    }
   ],
   "nearest_airport_km": 8.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1625",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 267,
- "popularity_score": 29789,
+ "popularity_rank": 299,
+ "popularity_score": 30843,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -80,7 +80,8 @@
     "lat": 46.179199,
     "lon": -1.19528,
     "type": "medium_airport",
-    "distance_km": 65.9
+    "distance_km": 65.9,
+    "name_zh": "拉罗歇尔"
    },
    {
     "name": "Bordeaux–Mérignac Airport",
@@ -90,7 +91,8 @@
     "lat": 44.82865,
     "lon": -0.715356,
     "type": "large_airport",
-    "distance_km": 91.6
+    "distance_km": 91.6,
+    "name_zh": "法国空军106号基地"
    },
    {
     "name": "Bergerac Dordogne-Périgord airport",
@@ -100,7 +102,8 @@
     "lat": 44.825298,
     "lon": 0.518611,
     "type": "medium_airport",
-    "distance_km": 157.3
+    "distance_km": 157.3,
+    "name_zh": "贝尔热拉克多尔多涅佩里戈尔机场"
    }
   ],
   "nearest_airport_km": 65.9,
@@ -318,5 +321,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

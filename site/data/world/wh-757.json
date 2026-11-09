@@ -3,8 +3,8 @@
  "unesco_id": "757",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 96,
- "popularity_score": 124725,
+ "popularity_rank": 106,
+ "popularity_score": 134349,
  "country": "IE",
  "country_zh": "爱尔兰",
  "country_en": "Ireland",
@@ -96,7 +96,8 @@
     "lat": 52.180901,
     "lon": -9.52378,
     "type": "medium_airport",
-    "distance_km": 83.2
+    "distance_km": 83.2,
+    "name_zh": "凯里机场"
    },
    {
     "name": "Cork International Airport",
@@ -106,7 +107,8 @@
     "lat": 51.841301,
     "lon": -8.49111,
     "type": "large_airport",
-    "distance_km": 141.1
+    "distance_km": 141.1,
+    "name_zh": "科克机场"
    },
    {
     "name": "Shannon Airport",
@@ -116,7 +118,8 @@
     "lat": 52.702,
     "lon": -8.92482,
     "type": "large_airport",
-    "distance_km": 151.1
+    "distance_km": 151.1,
+    "name_zh": "香农机场"
    }
   ],
   "nearest_airport_km": 83.2,
@@ -278,5 +281,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

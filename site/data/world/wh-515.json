@@ -3,8 +3,8 @@
  "unesco_id": "515",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 397,
- "popularity_score": 16798,
+ "popularity_rank": 422,
+ "popularity_score": 18377,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "District of Bergstrasse, State of Hesse (Hessen)",
- "subdivision_iso": "DE-HE",
- "subdivision_zh": "黑森州",
- "subdivision_en": "Hesse",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "洛尔施修道院",
  "name_zh_source": "unesco_official",
  "name_en": "Abbey and Altenmünster of Lorsch",
@@ -72,7 +72,8 @@
     "lat": 49.473057,
     "lon": 8.514167,
     "type": "medium_airport",
-    "distance_km": 20.5
+    "distance_km": 20.5,
+    "name_zh": "曼海姆城市机场"
    },
    {
     "name": "Frankfurt Main Airport",
@@ -82,7 +83,8 @@
     "lat": 50.026706,
     "lon": 8.55835,
     "type": "large_airport",
-    "distance_km": 41.5
+    "distance_km": 41.5,
+    "name_zh": "法兰克福机场"
    },
    {
     "name": "Frankfurt-Hahn Airport",
@@ -92,7 +94,8 @@
     "lat": 49.946353,
     "lon": 7.261734,
     "type": "large_airport",
-    "distance_km": 99.3
+    "distance_km": 99.3,
+    "name_zh": "哈恩机场"
    }
   ],
   "nearest_airport_km": 20.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

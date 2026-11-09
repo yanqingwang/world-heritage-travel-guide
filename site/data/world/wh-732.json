@@ -3,7 +3,7 @@
  "unesco_id": "732",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1137,
+ "popularity_rank": 1142,
  "popularity_score": null,
  "country": "CZ",
  "country_zh": "捷克",
@@ -72,7 +72,8 @@
     "lat": 50.015049,
     "lon": 15.73981,
     "type": "large_airport",
-    "distance_km": 34.6
+    "distance_km": 34.6,
+    "name_zh": "帕尔杜比采机场"
    },
    {
     "name": "Václav Havel Airport Prague",
@@ -82,7 +83,8 @@
     "lat": 50.100874,
     "lon": 14.259911,
     "type": "large_airport",
-    "distance_km": 73.8
+    "distance_km": 73.8,
+    "name_zh": "布拉格鲁济涅国际机场"
    },
    {
     "name": "České Budějovice South Bohemian Airport",
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

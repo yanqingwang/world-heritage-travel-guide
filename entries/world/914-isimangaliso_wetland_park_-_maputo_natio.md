@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(vii)(ix)(x)"
 lat: -28.0
 lon: 32.5
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:21Z"
 ---
 
 # 伊西曼格利索湿地公园 / iSimangaliso Wetland Park – Maputo National Park

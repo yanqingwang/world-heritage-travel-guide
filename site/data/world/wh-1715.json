@@ -3,7 +3,7 @@
  "unesco_id": "1715",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1001,
+ "popularity_rank": 1017,
  "popularity_score": null,
  "country": "PL",
  "country_zh": "波兰",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "PL-22",
- "subdivision_zh": "滨海省",
- "subdivision_en": "Pomeranian Voivodeship",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "格丁尼亚现代主义市中心",
  "name_zh_source": "curated",
  "name_en": "Gdynia Modernist City Centre",
@@ -64,7 +64,8 @@
     "lat": 54.377602,
     "lon": 18.4662,
     "type": "large_airport",
-    "distance_km": 16.6
+    "distance_km": 16.6,
+    "name_zh": "格但斯克"
    },
    {
     "name": "Khrabrovo Airport",
@@ -74,7 +75,8 @@
     "lat": 54.89161,
     "lon": 20.598559,
     "type": "large_airport",
-    "distance_km": 138.6
+    "distance_km": 138.6,
+    "name_zh": "加里宁格勒"
    },
    {
     "name": "Ignacy Jan Paderewski Bydgoszcz Airport",
@@ -84,7 +86,8 @@
     "lat": 53.096802,
     "lon": 17.977699,
     "type": "medium_airport",
-    "distance_km": 162.6
+    "distance_km": 162.6,
+    "name_zh": "比得哥什"
    }
   ],
   "nearest_airport_km": 16.6,
@@ -160,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

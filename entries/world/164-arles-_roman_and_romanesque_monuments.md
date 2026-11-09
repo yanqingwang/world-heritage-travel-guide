@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)(iv)"
 lat: 43.677638888
 lon: 4.630694444
-updated_at: "2026-11-09T12:00:57Z"
+updated_at: "2026-11-09T12:50:17Z"
 ---
 
 # 阿尔勒城的古罗马建筑 / Arles, Roman and Romanesque Monuments

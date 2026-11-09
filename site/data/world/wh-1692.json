@@ -3,7 +3,7 @@
  "unesco_id": "1692",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 994,
+ "popularity_rank": 1010,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 44.826351,
     "lon": 10.29705,
     "type": "medium_airport",
-    "distance_km": 50.2
+    "distance_km": 50.2,
+    "name_zh": "帕尔马机场 (意大利)"
    },
    {
     "name": "Bologna Guglielmo Marconi Airport",
@@ -82,7 +83,8 @@
     "lat": 44.5354,
     "lon": 11.2887,
     "type": "large_airport",
-    "distance_km": 73.5
+    "distance_km": 73.5,
+    "name_zh": "波隆纳机场"
    },
    {
     "name": "Pisa International Airport",
@@ -92,7 +94,8 @@
     "lat": 43.683899,
     "lon": 10.3927,
     "type": "large_airport",
-    "distance_km": 77.4
+    "distance_km": 77.4,
+    "name_zh": "比萨伽利略·伽利莱机场"
    }
   ],
   "nearest_airport_km": 50.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

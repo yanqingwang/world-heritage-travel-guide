@@ -3,8 +3,8 @@
  "unesco_id": "1053",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 653,
- "popularity_score": 5485,
+ "popularity_rank": 698,
+ "popularity_score": 5945,
  "country": "PL",
  "country_zh": "波兰",
  "country_en": "Poland",
@@ -72,7 +72,8 @@
     "lat": 50.109791,
     "lon": 22.024155,
     "type": "large_airport",
-    "distance_km": 80.3
+    "distance_km": 80.3,
+    "name_zh": "热舒夫-亚西翁卡机场"
    },
    {
     "name": "Poprad-Tatry Airport",
@@ -82,7 +83,8 @@
     "lat": 49.070994,
     "lon": 20.241394,
     "type": "medium_airport",
-    "distance_km": 92.5
+    "distance_km": 92.5,
+    "name_zh": "波普拉德机场"
    },
    {
     "name": "Košice International Airport",
@@ -92,7 +94,8 @@
     "lat": 48.663101,
     "lon": 21.2411,
     "type": "medium_airport",
-    "distance_km": 107.7
+    "distance_km": 107.7,
+    "name_zh": "科希策"
    }
   ],
   "nearest_airport_km": 80.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

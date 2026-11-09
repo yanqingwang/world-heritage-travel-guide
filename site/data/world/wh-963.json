@@ -3,8 +3,8 @@
  "unesco_id": "963",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 424,
- "popularity_score": 14790,
+ "popularity_rank": 451,
+ "popularity_score": 16245,
  "country": "HR",
  "country_zh": "克罗地亚",
  "country_en": "Croatia",
@@ -72,7 +72,8 @@
     "lat": 43.538898,
     "lon": 16.298,
     "type": "large_airport",
-    "distance_km": 39.5
+    "distance_km": 39.5,
+    "name_zh": "斯普利特机场"
    },
    {
     "name": "Zadar Airport",
@@ -82,7 +83,8 @@
     "lat": 44.096986,
     "lon": 15.353565,
     "type": "large_airport",
-    "distance_km": 58.8
+    "distance_km": 58.8,
+    "name_zh": "扎达尔机场"
    },
    {
     "name": "Brač Airport",
@@ -92,7 +94,8 @@
     "lat": 43.284454,
     "lon": 16.678362,
     "type": "medium_airport",
-    "distance_km": 81.0
+    "distance_km": 81.0,
+    "name_zh": "布拉奇机场"
    }
   ],
   "nearest_airport_km": 39.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

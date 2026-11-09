@@ -3,8 +3,8 @@
  "unesco_id": "1685",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 762,
- "popularity_score": 2351,
+ "popularity_rank": 805,
+ "popularity_score": 2580,
  "country": "TJ",
  "country_zh": "塔吉克斯坦",
  "country_en": "Tajikistan",
@@ -82,7 +82,8 @@
     "lat": 37.287261,
     "lon": 67.311869,
     "type": "medium_airport",
-    "distance_km": 105.2
+    "distance_km": 105.2,
+    "name_zh": "泰尔梅兹机场"
    },
    {
     "name": "Mazar-i-Sharif International Airport",
@@ -92,7 +93,8 @@
     "lat": 36.70412,
     "lon": 67.210459,
     "type": "large_airport",
-    "distance_km": 129.6
+    "distance_km": 129.6,
+    "name_zh": "马扎里沙里夫"
    }
   ],
   "nearest_airport_km": 75.7,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

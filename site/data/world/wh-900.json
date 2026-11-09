@@ -64,7 +64,8 @@
     "lat": 43.449902,
     "lon": 39.9566,
     "type": "large_airport",
-    "distance_km": 61.3
+    "distance_km": 61.3,
+    "name_zh": "索契国际机场"
    },
    {
     "name": "Krasnodar Pashkovsky International Airport",
@@ -74,7 +75,8 @@
     "lat": 45.034465,
     "lon": 39.174215,
     "type": "large_airport",
-    "distance_km": 132.4
+    "distance_km": 132.4,
+    "name_zh": "克拉斯诺达尔"
    },
    {
     "name": "Vladislav Ardzinba Sukhum International Airport",
@@ -84,7 +86,8 @@
     "lat": 42.8582,
     "lon": 41.128101,
     "type": "large_airport",
-    "distance_km": 156.3
+    "distance_km": 156.3,
+    "name_zh": "巴布沙拉苏呼米机场"
    }
   ],
   "nearest_airport_km": 61.3,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

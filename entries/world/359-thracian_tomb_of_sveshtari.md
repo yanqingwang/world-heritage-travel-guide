@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)"
 lat: 43.744964
 lon: 26.7663
-updated_at: "2026-11-09T12:00:58Z"
+updated_at: "2026-11-09T12:50:18Z"
 ---
 
 # 斯韦什塔里的色雷斯人墓 / Thracian Tomb of Sveshtari

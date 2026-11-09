@@ -3,8 +3,8 @@
  "unesco_id": "1613",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 233,
- "popularity_score": 35874,
+ "popularity_rank": 252,
+ "popularity_score": 39172,
  "country": "AT",
  "country_zh": "奥地利",
  "country_en": "Austria",
@@ -126,7 +126,8 @@
     "lat": 50.638574,
     "lon": 5.443897,
     "type": "medium_airport",
-    "distance_km": 34.0
+    "distance_km": 34.0,
+    "name_zh": "列日机场"
    },
    {
     "name": "Maastricht Aachen Airport",
@@ -136,7 +137,8 @@
     "lat": 50.911087,
     "lon": 5.769401,
     "type": "large_airport",
-    "distance_km": 47.1
+    "distance_km": 47.1,
+    "name_zh": "马斯特里赫特"
    },
    {
     "name": "Cologne Bonn Airport",
@@ -146,7 +148,8 @@
     "lat": 50.865898,
     "lon": 7.14274,
     "type": "large_airport",
-    "distance_km": 99.0
+    "distance_km": 99.0,
+    "name_zh": "科隆/波恩机场"
    }
   ],
   "nearest_airport_km": 34.0,
@@ -418,5 +421,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

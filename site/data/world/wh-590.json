@@ -3,7 +3,7 @@
  "unesco_id": "590",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1102,
+ "popularity_rank": 761,
  "popularity_score": 4104,
  "country": "TH",
  "country_zh": "泰国",
@@ -72,7 +72,8 @@
     "lat": 13.6811,
     "lon": 100.747002,
     "type": "large_airport",
-    "distance_km": 158.0
+    "distance_km": 158.0,
+    "name_zh": "苏凡纳布机场"
    },
    {
     "name": "Don Mueang International Airport",
@@ -82,7 +83,8 @@
     "lat": 13.9126,
     "lon": 100.607002,
     "type": "large_airport",
-    "distance_km": 162.4
+    "distance_km": 162.4,
+    "name_zh": "廊曼国际机场"
    },
    {
     "name": "Buri Ram Airport",
@@ -92,7 +94,8 @@
     "lat": 15.2295,
     "lon": 103.252998,
     "type": "medium_airport",
-    "distance_km": 163.5
+    "distance_km": 163.5,
+    "name_zh": "武里南机场"
    }
   ],
   "nearest_airport_km": 158.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

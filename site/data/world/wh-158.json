@@ -3,8 +3,8 @@
  "unesco_id": "158",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 163,
- "popularity_score": 69811,
+ "popularity_rank": 182,
+ "popularity_score": 73185,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -96,7 +96,8 @@
     "lat": 49.6302986145,
     "lon": -112.800003052,
     "type": "medium_airport",
-    "distance_km": 60.8
+    "distance_km": 60.8,
+    "name_zh": "列斯桥机场"
    },
    {
     "name": "Calgary International Airport",
@@ -106,7 +107,8 @@
     "lat": 51.118822,
     "lon": -114.009933,
     "type": "large_airport",
-    "distance_km": 154.7
+    "distance_km": 154.7,
+    "name_zh": "卡尔加里国际机场"
    },
    {
     "name": "Cranbrook/Canadian Rockies International Airport",
@@ -116,7 +118,8 @@
     "lat": 49.610802,
     "lon": -115.781998,
     "type": "medium_airport",
-    "distance_km": 156.0
+    "distance_km": 156.0,
+    "name_zh": "克兰布鲁克/加拿大洛矶国际机场"
    }
   ],
   "nearest_airport_km": 60.8,
@@ -242,5 +245,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-794",
  "unesco_id": "794",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 293,
- "popularity_score": 26576,
+ "tier": "basic",
+ "popularity_rank": 312,
+ "popularity_score": 29023,
  "country": "TN",
  "country_zh": "突尼斯",
  "country_en": "Tunisia",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/A_tunnel_in_Dougga_01.jpg/1280px-A_tunnel_in_Dougga_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A tunnel in Dougga 01.jpg",
-   "author": "Kritzolina",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_tunnel_in_Dougga_01.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/A_tunnel_in_Dougga_02.jpg/1280px-A_tunnel_in_Dougga_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A tunnel in Dougga 02.jpg",
-   "author": "Kritzolina",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_tunnel_in_Dougga_02.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Auditorium_liber_pater_dougga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Auditorium liber pater dougga.JPG",
-   "author": "Pradigue",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Auditorium_liber_pater_dougga.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Byzantine_Fortifications_at_Dougga_-_isawnyu.jpg/1280px-Byzantine_Fortifications_at_Dougga_-_isawnyu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Byzantine Fortifications at Dougga - isawnyu.jpg",
-   "author": "Institute for the Study of the Ancient World",
-   "license": "CC BY 2.0",
-   "credit": "Byzantine Fortifications at Dougga",
-   "source": "https://commons.wikimedia.org/wiki/File:Byzantine_Fortifications_at_Dougga_-_isawnyu.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_794.jpg",
+   "title": "Dougga / Thugga",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/794",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/794",
@@ -96,7 +72,8 @@
     "lat": 36.98,
     "lon": 8.87694,
     "type": "medium_airport",
-    "distance_km": 69.1
+    "distance_km": 69.1,
+    "name_zh": "塔巴卡"
    },
    {
     "name": "Tunis Carthage International Airport",
@@ -106,7 +83,8 @@
     "lat": 36.851002,
     "lon": 10.2272,
     "type": "large_airport",
-    "distance_km": 101.7
+    "distance_km": 101.7,
+    "name_zh": "突尼斯－迦太基国际机场"
    },
    {
     "name": "Enfidha - Hammamet International Airport",
@@ -116,112 +94,16 @@
     "lat": 36.075833,
     "lon": 10.438611,
     "type": "medium_airport",
-    "distance_km": 115.9
+    "distance_km": 115.9,
+    "name_zh": "恩菲达-哈马马特国际机场"
    }
   ],
   "nearest_airport_km": 69.1,
   "distance_beijing_km": 8715.7,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "قعفور",
-    "name_en": "Gaâfour",
-    "lat": 36.3224443,
-    "lon": 9.326201,
-    "distance_km": 14.7,
-    "operator": null
-   },
-   {
-    "name": "سيدي عياد",
-    "name_en": null,
-    "lat": 36.3512001,
-    "lon": 9.3908817,
-    "distance_km": 17.2,
-    "operator": null
-   },
-   {
-    "name": "الخوات",
-    "name_en": null,
-    "lat": 36.2550459,
-    "lon": 9.2548607,
-    "distance_km": 19.0,
-    "operator": null
-   },
-   {
-    "name": "الكريب",
-    "name_en": null,
-    "lat": 36.254165,
-    "lon": 9.1861546,
-    "distance_km": 19.1,
-    "operator": null
-   },
-   {
-    "name": "سيدي إسماعيل",
-    "name_en": null,
-    "lat": 36.5956629,
-    "lon": 9.1129003,
-    "distance_km": 21.4,
-    "operator": null
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hôtel Thugga",
-   "name_en": null,
-   "stars": 2,
-   "brand": null,
-   "lat": 36.456993,
-   "lon": 9.2553074,
-   "distance_km": 4.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Sidi Bou Teffaha",
-   "name_en": "Hotel Sidi Bou Teffaha",
-   "stars": null,
-   "brand": null,
-   "lat": 36.726247,
-   "lon": 9.1836909,
-   "distance_km": 33.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hôtel Aladino",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 36.7270221,
-   "lon": 9.1891031,
-   "distance_km": 33.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "فندق زاما",
-   "name_en": "Hotel ZAMA",
-   "stars": null,
-   "brand": null,
-   "lat": 36.0918875,
-   "lon": 9.3708397,
-   "distance_km": 39.2,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "فندق أطلس",
-   "name_en": "Hotel Atlas",
-   "stars": null,
-   "brand": null,
-   "lat": 36.5017715,
-   "lon": 8.7780802,
-   "distance_km": 40.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "TN",
   "country_zh": "突尼斯",
@@ -293,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

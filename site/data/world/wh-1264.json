@@ -3,8 +3,8 @@
  "unesco_id": "1264",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 336,
- "popularity_score": 21601,
+ "popularity_rank": 360,
+ "popularity_score": 23550,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KR-49",
- "subdivision_zh": "济州特别自治道",
- "subdivision_en": "Jeju Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "济州火山岛和熔岩洞",
  "name_zh_source": "unesco_official",
  "name_en": "Jeju Volcanic Island and Lava Tubes",
@@ -72,7 +72,8 @@
     "lat": 33.512058,
     "lon": 126.492548,
     "type": "large_airport",
-    "distance_km": 17.2
+    "distance_km": 17.2,
+    "name_zh": "济州国际机场"
    },
    {
     "name": "Muan International Airport",
@@ -82,7 +83,8 @@
     "lat": 34.991406,
     "lon": 126.382814,
     "type": "large_airport",
-    "distance_km": 181.8
+    "distance_km": 181.8,
+    "name_zh": "务安国际机场"
    },
    {
     "name": "Yeosu Airport",
@@ -92,7 +94,8 @@
     "lat": 34.84230041503906,
     "lon": 127.61699676513672,
     "type": "medium_airport",
-    "distance_km": 192.6
+    "distance_km": 192.6,
+    "name_zh": "丽水机场"
    }
   ],
   "nearest_airport_km": 17.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

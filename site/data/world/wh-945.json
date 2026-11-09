@@ -3,8 +3,8 @@
  "unesco_id": "945",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 63,
- "popularity_score": 172733,
+ "popularity_rank": 70,
+ "popularity_score": 189647,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 19.088699,
     "lon": 72.867897,
     "type": "large_airport",
-    "distance_km": 16.9
+    "distance_km": 16.9,
+    "name_zh": "贾特拉帕蒂·希瓦吉国际机场"
    },
    {
     "name": "Navi Mumbai International Airport",
@@ -106,7 +107,8 @@
     "lat": 18.984597,
     "lon": 73.065253,
     "type": "large_airport",
-    "distance_km": 24.7
+    "distance_km": 24.7,
+    "name_zh": "新孟买国际机场"
    },
    {
     "name": "Pune International Airport",
@@ -116,7 +118,8 @@
     "lat": 18.5821,
     "lon": 73.919701,
     "type": "large_airport",
-    "distance_km": 120.9
+    "distance_km": 120.9,
+    "name_zh": "浦那国际机场"
    }
   ],
   "nearest_airport_km": 16.9,
@@ -336,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

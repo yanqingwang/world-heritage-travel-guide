@@ -3,8 +3,8 @@
  "unesco_id": "908",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 149,
- "popularity_score": 79559,
+ "popularity_rank": 162,
+ "popularity_score": 86126,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -96,7 +96,8 @@
     "lat": 38.071201,
     "lon": 15.6516,
     "type": "medium_airport",
-    "distance_km": 78.4
+    "distance_km": 78.4,
+    "name_zh": "雷焦卡拉布里亚机场"
    },
    {
     "name": "Catania-Fontanarossa Airport",
@@ -106,7 +107,8 @@
     "lat": 37.466801,
     "lon": 15.0664,
     "type": "large_airport",
-    "distance_km": 115.1
+    "distance_km": 115.1,
+    "name_zh": "卡塔尼亚"
    },
    {
     "name": "Lamezia Terme Sant'Eufemia International Airport",
@@ -116,7 +118,8 @@
     "lat": 38.906214,
     "lon": 16.246007,
     "type": "large_airport",
-    "distance_km": 122.5
+    "distance_km": 122.5,
+    "name_zh": "拉梅齐亚泰尔梅"
    }
   ],
   "nearest_airport_km": 78.4,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

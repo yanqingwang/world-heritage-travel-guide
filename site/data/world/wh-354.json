@@ -3,7 +3,7 @@
  "unesco_id": "354",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1058,
+ "popularity_rank": 1074,
  "popularity_score": null,
  "country": "CA",
  "country_zh": "加拿大",
@@ -69,7 +69,8 @@
     "lat": 48.310501,
     "lon": -114.255997,
     "type": "medium_airport",
-    "distance_km": 80.5
+    "distance_km": 80.5,
+    "name_zh": "冰河公园国际机场"
    },
    {
     "name": "Lethbridge County Airport",
@@ -79,7 +80,8 @@
     "lat": 49.6302986145,
     "lon": -112.800003052,
     "type": "medium_airport",
-    "distance_km": 106.7
+    "distance_km": 106.7,
+    "name_zh": "列斯桥机场"
    },
    {
     "name": "Cranbrook/Canadian Rockies International Airport",
@@ -89,7 +91,8 @@
     "lat": 49.610802,
     "lon": -115.781998,
     "type": "medium_airport",
-    "distance_km": 152.3
+    "distance_km": 152.3,
+    "name_zh": "克兰布鲁克/加拿大洛矶国际机场"
    }
   ],
   "nearest_airport_km": 80.5,
@@ -179,5 +182,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1703",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 546,
- "popularity_score": 9538,
+ "popularity_rank": 585,
+ "popularity_score": 10191,
  "country": "UA",
  "country_zh": "乌克兰",
  "country_en": "Ukraine",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "UA-51",
- "subdivision_zh": "敖德萨州",
- "subdivision_en": "Odesa Oblast",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "敖德萨历史中心",
  "name_zh_source": "wikidata",
  "name_en": "The Historic Centre of Odesa",
@@ -72,7 +72,8 @@
     "lat": 46.92774,
     "lon": 28.931704,
     "type": "large_airport",
-    "distance_km": 146.5
+    "distance_km": 146.5,
+    "name_zh": "基希讷乌国际机场"
    },
    {
     "name": "Iaşi International Airport",
@@ -82,7 +83,8 @@
     "lat": 47.179633,
     "lon": 27.621431,
     "type": "large_airport",
-    "distance_km": 249.5
+    "distance_km": 249.5,
+    "name_zh": "雅西"
    },
    {
     "name": "Bacău George Enescu International  Airport",
@@ -92,7 +94,8 @@
     "lat": 46.5219,
     "lon": 26.910299,
     "type": "large_airport",
-    "distance_km": 293.2
+    "distance_km": 293.2,
+    "name_zh": "巴克乌国际机场"
    }
   ],
   "nearest_airport_km": 146.5,
@@ -168,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -56,6 +56,7 @@ def main() -> int:
     run("fetch_country_info.py")
     run("fetch_visa.py")
     run("fetch_airports.py")
+    run("fetch_airport_names.py")
     run("fetch_wikidata.py")
     run("geocode_unesco.py")
     # ISO 3166-2 subdivisions are cached per site; only missing records trigger

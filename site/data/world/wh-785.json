@@ -3,8 +3,8 @@
  "unesco_id": "785",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 526,
- "popularity_score": 10351,
+ "popularity_rank": 566,
+ "popularity_score": 10774,
  "country": "AT",
  "country_zh": "奥地利",
  "country_en": "Austria",
@@ -72,7 +72,8 @@
     "lat": 48.110298,
     "lon": 16.5697,
     "type": "large_airport",
-    "distance_km": 75.7
+    "distance_km": 75.7,
+    "name_zh": "维也纳国际机场"
    },
    {
     "name": "Graz Airport",
@@ -82,7 +83,8 @@
     "lat": 46.9911,
     "lon": 15.4396,
     "type": "large_airport",
-    "distance_km": 78.3
+    "distance_km": 78.3,
+    "name_zh": "格拉茨机场"
    },
    {
     "name": "M. R. Štefánik Airport",
@@ -92,7 +94,8 @@
     "lat": 48.1702,
     "lon": 17.2127,
     "type": "large_airport",
-    "distance_km": 118.5
+    "distance_km": 118.5,
+    "name_zh": "布拉提斯拉瓦机场"
    }
   ],
   "nearest_airport_km": 75.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

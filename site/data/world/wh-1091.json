@@ -3,8 +3,8 @@
  "unesco_id": "1091",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 345,
- "popularity_score": 20486,
+ "popularity_rank": 375,
+ "popularity_score": 21905,
  "country": "KP",
  "country_zh": "朝鲜民主主义人民共和国",
  "country_en": "North Korea",
@@ -72,7 +72,8 @@
     "lat": 39.224098,
     "lon": 125.669998,
     "type": "large_airport",
-    "distance_km": 45.8
+    "distance_km": 45.8,
+    "name_zh": "平壤国际机场"
    },
    {
     "name": "Dandong Langtou International Airport",
@@ -82,7 +83,8 @@
     "lat": 40.025453,
     "lon": 124.28669,
     "type": "medium_airport",
-    "distance_km": 161.5
+    "distance_km": 161.5,
+    "name_zh": "丹东浪头机场"
    },
    {
     "name": "Incheon International Airport",
@@ -92,7 +94,8 @@
     "lat": 37.469101,
     "lon": 126.450996,
     "type": "large_airport",
-    "distance_km": 179.5
+    "distance_km": 179.5,
+    "name_zh": "仁川国际机场"
    }
   ],
   "nearest_airport_km": 45.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

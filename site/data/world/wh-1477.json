@@ -3,8 +3,8 @@
  "unesco_id": "1477",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 562,
- "popularity_score": 9029,
+ "popularity_rank": 602,
+ "popularity_score": 9828,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KR-44",
- "subdivision_zh": "忠清南道",
- "subdivision_en": "South Chungcheong",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "百济遗址区",
  "name_zh_source": "unesco_official",
  "name_en": "Baekje Historic Areas",
@@ -72,7 +72,8 @@
     "lat": 36.71556,
     "lon": 127.500289,
     "type": "large_airport",
-    "distance_km": 43.6
+    "distance_km": 43.6,
+    "name_zh": "清州国际机场"
    },
    {
     "name": "Gunsan Airport / Gunsan Air Base",
@@ -82,7 +83,8 @@
     "lat": 35.903801,
     "lon": 126.615997,
     "type": "medium_airport",
-    "distance_km": 77.2
+    "distance_km": 77.2,
+    "name_zh": "群山空军基地"
    },
    {
     "name": "Seoul Gimpo International Airport",
@@ -92,7 +94,8 @@
     "lat": 37.5583,
     "lon": 126.791,
     "type": "large_airport",
-    "distance_km": 125.5
+    "distance_km": 125.5,
+    "name_zh": "金浦国际机场"
    }
   ],
   "nearest_airport_km": 43.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

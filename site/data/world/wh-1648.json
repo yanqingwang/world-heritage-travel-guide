@@ -3,8 +3,8 @@
  "unesco_id": "1648",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 750,
- "popularity_score": 2977,
+ "popularity_rank": 793,
+ "popularity_score": 3227,
  "country": "CI",
  "country_zh": "科特迪瓦",
  "country_en": "Ivory Coast",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "CI-SV",
- "subdivision_zh": "薩瓦內區",
- "subdivision_en": "Savanes",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "科特迪瓦北部的苏丹式清真寺",
  "name_zh_source": "unesco_official",
  "name_en": "Sudanese style mosques in northern Côte d’Ivoire",
@@ -82,7 +82,8 @@
     "lat": 11.1601,
     "lon": -4.33097,
     "type": "large_airport",
-    "distance_km": 239.0
+    "distance_km": 239.0,
+    "name_zh": "博博迪乌拉索机场"
    },
    {
     "name": "Modibo Keita International Airport",
@@ -92,7 +93,8 @@
     "lat": 12.5335,
     "lon": -7.94994,
     "type": "large_airport",
-    "distance_km": 282.4
+    "distance_km": 282.4,
+    "name_zh": "巴马科国际机场"
    }
   ],
   "nearest_airport_km": 154.2,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

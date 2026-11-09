@@ -3,8 +3,8 @@
  "unesco_id": "333",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 552,
- "popularity_score": 9350,
+ "popularity_rank": 582,
+ "popularity_score": 10252,
  "country": "PE",
  "country_zh": "秘鲁",
  "country_en": "Peru",
@@ -72,7 +72,8 @@
     "lat": -9.14961,
     "lon": -78.523804,
     "type": "medium_airport",
-    "distance_km": 126.4
+    "distance_km": 126.4,
+    "name_zh": "Tnte. FAP Jaime Montreuil Morales机场"
    },
    {
     "name": "Alferez Fap David Figueroa Fernandini Airport",
@@ -82,7 +83,8 @@
     "lat": -9.878809928894043,
     "lon": -76.20480346679688,
     "type": "medium_airport",
-    "distance_km": 141.4
+    "distance_km": 141.4,
+    "name_zh": "瓦努科"
    },
    {
     "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
@@ -92,7 +94,8 @@
     "lat": -8.082382,
     "lon": -79.108821,
     "type": "large_airport",
-    "distance_km": 238.2
+    "distance_km": 238.2,
+    "name_zh": "特鲁希略"
    }
   ],
   "nearest_airport_km": 126.4,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

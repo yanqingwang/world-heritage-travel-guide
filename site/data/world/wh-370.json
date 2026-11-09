@@ -3,8 +3,8 @@
  "unesco_id": "370",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 283,
- "popularity_score": 28113,
+ "popularity_rank": 300,
+ "popularity_score": 30795,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -96,7 +96,8 @@
     "lat": 55.037958,
     "lon": -1.689577,
     "type": "large_airport",
-    "distance_km": 30.1
+    "distance_km": 30.1,
+    "name_zh": "纽卡斯尔国际机场"
    },
    {
     "name": "Teesside International Airport",
@@ -106,7 +107,8 @@
     "lat": 54.509201,
     "lon": -1.42941,
     "type": "medium_airport",
-    "distance_km": 31.0
+    "distance_km": 31.0,
+    "name_zh": "德罕蒂斯谷机场"
    },
    {
     "name": "Leeds Bradford Airport",
@@ -116,7 +118,8 @@
     "lat": 53.865898,
     "lon": -1.66057,
     "type": "large_airport",
-    "distance_km": 101.2
+    "distance_km": 101.2,
+    "name_zh": "里兹/布拉福"
    }
   ],
   "nearest_airport_km": 30.1,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

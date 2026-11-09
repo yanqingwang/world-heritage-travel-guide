@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(vii)(viii)"
 lat: 49.689444444
 lon: -57.738055555
-updated_at: "2026-11-09T12:00:59Z"
+updated_at: "2026-11-09T12:50:18Z"
 ---
 
 # 格罗斯莫讷国家公园 / Gros Morne National Park

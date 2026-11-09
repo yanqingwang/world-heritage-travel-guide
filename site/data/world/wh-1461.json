@@ -3,8 +3,8 @@
  "unesco_id": "1461",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 445,
- "popularity_score": 13413,
+ "popularity_rank": 481,
+ "popularity_score": 14427,
  "country": "TH",
  "country_zh": "泰国",
  "country_en": "Thailand",
@@ -72,7 +72,8 @@
     "lat": 12.6361999512,
     "lon": 99.951499939,
     "type": "medium_airport",
-    "distance_km": 57.0
+    "distance_km": 57.0,
+    "name_zh": "华欣机场"
    },
    {
     "name": "Myeik Airport",
@@ -82,7 +83,8 @@
     "lat": 12.439800262451172,
     "lon": 98.62149810791016,
     "type": "medium_airport",
-    "distance_km": 98.7
+    "distance_km": 98.7,
+    "name_zh": "丹老机场"
    },
    {
     "name": "U-Tapao–Rayong–Pattaya International Airport",
@@ -92,7 +94,8 @@
     "lat": 12.6799,
     "lon": 101.004997,
     "type": "large_airport",
-    "distance_km": 168.8
+    "distance_km": 168.8,
+    "name_zh": "乌塔保国际机场"
    }
   ],
   "nearest_airport_km": 57.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

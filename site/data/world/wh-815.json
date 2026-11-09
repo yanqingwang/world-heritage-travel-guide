@@ -3,8 +3,8 @@
  "unesco_id": "815",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 454,
- "popularity_score": 12849,
+ "popularity_rank": 493,
+ "popularity_score": 13673,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -72,7 +72,8 @@
     "lat": 20.523342,
     "lon": -103.310108,
     "type": "large_airport",
-    "distance_km": 17.3
+    "distance_km": 17.3,
+    "name_zh": "瓜达拉哈拉"
    },
    {
     "name": "Aguascalientes International Airport",
@@ -82,7 +83,8 @@
     "lat": 21.699589,
     "lon": -102.318372,
     "type": "large_airport",
-    "distance_km": 155.2
+    "distance_km": 155.2,
+    "name_zh": "阿瓜斯卡连特斯国际机场"
    },
    {
     "name": "Licenciado Miguel de la Madrid International Airport",
@@ -92,7 +94,8 @@
     "lat": 19.277,
     "lon": -103.577002,
     "type": "medium_airport",
-    "distance_km": 157.7
+    "distance_km": 157.7,
+    "name_zh": "米格尔·德拉马德里机场"
    }
   ],
   "nearest_airport_km": 17.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

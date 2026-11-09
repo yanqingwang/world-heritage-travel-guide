@@ -3,8 +3,8 @@
  "unesco_id": "989",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 308,
- "popularity_score": 24328,
+ "popularity_rank": 331,
+ "popularity_score": 26549,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 42.882801,
     "lon": -2.72447,
     "type": "medium_airport",
-    "distance_km": 88.0
+    "distance_km": 88.0,
+    "name_zh": "维多利亚机场"
    },
    {
     "name": "Logroño-Agoncillo Airport",
@@ -82,7 +83,8 @@
     "lat": 42.460953,
     "lon": -2.322235,
     "type": "medium_airport",
-    "distance_km": 99.1
+    "distance_km": 99.1,
+    "name_zh": "洛格罗尼奥"
    },
    {
     "name": "Bilbao Airport",
@@ -92,7 +94,8 @@
     "lat": 43.301102,
     "lon": -2.91061,
     "type": "large_airport",
-    "distance_km": 116.8
+    "distance_km": 116.8,
+    "name_zh": "毕尔包机场"
    }
   ],
   "nearest_airport_km": 88.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

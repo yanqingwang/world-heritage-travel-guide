@@ -3,8 +3,8 @@
  "unesco_id": "1588",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 110,
- "popularity_score": 105844,
+ "popularity_rank": 122,
+ "popularity_score": 115992,
  "country": "MM",
  "country_zh": "缅甸",
  "country_en": "Myanmar",
@@ -96,7 +96,8 @@
     "lat": 21.178800582885742,
     "lon": 94.9301986694336,
     "type": "small_airport",
-    "distance_km": 7.3
+    "distance_km": 7.3,
+    "name_zh": "蒲甘"
    },
    {
     "name": "Magway Airport",
@@ -106,7 +107,8 @@
     "lat": 20.1656,
     "lon": 94.941399,
     "type": "small_airport",
-    "distance_km": 112.3
+    "distance_km": 112.3,
+    "name_zh": "马圭机场"
    },
    {
     "name": "Mandalay International Airport",
@@ -116,7 +118,8 @@
     "lat": 21.702199935913086,
     "lon": 95.97789764404297,
     "type": "large_airport",
-    "distance_km": 129.8
+    "distance_km": 129.8,
+    "name_zh": "曼德勒国际机场"
    }
   ],
   "nearest_airport_km": 7.3,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1455",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 49,
- "popularity_score": 207640,
+ "popularity_rank": 60,
+ "popularity_score": 223938,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IR-06",
- "subdivision_zh": "胡齐斯坦省",
- "subdivision_en": "Khuzestan Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "苏萨",
  "name_zh_source": "unesco_official",
  "name_en": "Susa",
@@ -96,7 +96,8 @@
     "lat": 32.434399,
     "lon": 48.397598,
     "type": "medium_airport",
-    "distance_km": 30.3
+    "distance_km": 30.3,
+    "name_zh": "迪兹富勒机场"
    },
    {
     "name": "Qasem Soleimani International Airport",
@@ -106,7 +107,8 @@
     "lat": 31.3364,
     "lon": 48.763789,
     "type": "large_airport",
-    "distance_km": 106.3
+    "distance_km": 106.3,
+    "name_zh": "阿瓦士"
    },
    {
     "name": "Khoram Abad Airport",
@@ -116,7 +118,8 @@
     "lat": 33.43539810180664,
     "lon": 48.282901763916016,
     "type": "medium_airport",
-    "distance_km": 138.6
+    "distance_km": 138.6,
+    "name_zh": "霍拉马巴德机场"
    }
   ],
   "nearest_airport_km": 30.3,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

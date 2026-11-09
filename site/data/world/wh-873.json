@@ -72,7 +72,8 @@
     "lat": 48.77333,
     "lon": 4.20611,
     "type": "medium_airport",
-    "distance_km": 70.7
+    "distance_km": 70.7,
+    "name_zh": "沙隆瓦特里机场"
    },
    {
     "name": "Paris-Orly Airport",
@@ -82,7 +83,8 @@
     "lat": 48.729499,
     "lon": 2.358963,
     "type": "large_airport",
-    "distance_km": 71.6
+    "distance_km": 71.6,
+    "name_zh": "巴黎－奥利机场"
    },
    {
     "name": "Charles de Gaulle International Airport",
@@ -92,7 +94,8 @@
     "lat": 49.00896,
     "lon": 2.554117,
     "type": "large_airport",
-    "distance_km": 74.0
+    "distance_km": 74.0,
+    "name_zh": "巴黎夏尔·戴高乐机场"
    }
   ],
   "nearest_airport_km": 70.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

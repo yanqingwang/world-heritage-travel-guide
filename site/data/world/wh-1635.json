@@ -3,7 +3,7 @@
  "unesco_id": "1635",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 984,
+ "popularity_rank": 1000,
  "popularity_score": null,
  "country": "FR",
  "country_zh": "法国",
@@ -72,7 +72,8 @@
     "lat": 43.658401,
     "lon": 7.21587,
     "type": "large_airport",
-    "distance_km": 6.6
+    "distance_km": 6.6,
+    "name_zh": "尼斯蔚蓝海岸机场"
    },
    {
     "name": "La Môle Airport",
@@ -82,7 +83,8 @@
     "lat": 43.205399,
     "lon": 6.482,
     "type": "small_airport",
-    "distance_km": 84.4
+    "distance_km": 84.4,
+    "name_zh": "圣特罗佩湾-拉莫勒机场"
    },
    {
     "name": "Cuneo International Airport",
@@ -92,7 +94,8 @@
     "lat": 44.547458,
     "lon": 7.623045,
     "type": "medium_airport",
-    "distance_km": 98.1
+    "distance_km": 98.1,
+    "name_zh": "库内奥国际机场"
    }
   ],
   "nearest_airport_km": 6.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(i)(iv)"
 lat: 23.85892
 lon: 72.10162
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:21Z"
 ---
 
 # 古吉拉特邦帕坦城的王后階梯井 / Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat

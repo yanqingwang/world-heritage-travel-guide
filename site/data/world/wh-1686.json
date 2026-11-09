@@ -3,7 +3,7 @@
  "unesco_id": "1686",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 992,
+ "popularity_rank": 1008,
  "popularity_score": null,
  "country": "CA",
  "country_zh": "加拿大",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "CA-QC",
- "subdivision_zh": "魁北克省",
- "subdivision_en": "Quebec",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "安蒂科斯蒂",
  "name_zh_source": "unesco_official",
  "name_en": "Anticosti",
@@ -92,7 +92,8 @@
     "lat": 48.774915,
     "lon": -64.481893,
     "type": "medium_airport",
-    "distance_km": 123.7
+    "distance_km": 123.7,
+    "name_zh": "米歇尔-普利奥·加斯佩机场"
    }
   ],
   "nearest_airport_km": 82.0,
@@ -173,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

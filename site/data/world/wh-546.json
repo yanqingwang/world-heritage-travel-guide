@@ -3,8 +3,8 @@
  "unesco_id": "546",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 493,
- "popularity_score": 11441,
+ "popularity_rank": 527,
+ "popularity_score": 12430,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -17,7 +17,7 @@
  ],
  "region": "District of Enz, State of Baden-Württemberg",
  "subdivision_iso": "DE-BW",
- "subdivision_zh": "巴登-符腾堡州",
+ "subdivision_zh": "",
  "subdivision_en": "Baden-Württemberg",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "莫尔布龙修道院",
@@ -72,7 +72,8 @@
     "lat": 48.689899,
     "lon": 9.22196,
     "type": "large_airport",
-    "distance_km": 45.8
+    "distance_km": 45.8,
+    "name_zh": "斯图加特机场"
    },
    {
     "name": "Mannheim-City Airport",
@@ -82,7 +83,8 @@
     "lat": 49.473057,
     "lon": 8.514167,
     "type": "medium_airport",
-    "distance_km": 56.8
+    "distance_km": 56.8,
+    "name_zh": "曼海姆城市机场"
    },
    {
     "name": "Karlsruhe Baden-Baden Airport",
@@ -92,7 +94,8 @@
     "lat": 48.7794,
     "lon": 8.0805,
     "type": "large_airport",
-    "distance_km": 58.9
+    "distance_km": 58.9,
+    "name_zh": "卡尔斯鲁厄/巴登-巴登机场"
    }
   ],
   "nearest_airport_km": 45.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

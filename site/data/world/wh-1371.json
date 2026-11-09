@@ -3,7 +3,7 @@
  "unesco_id": "1371",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 920,
+ "popularity_rank": 947,
  "popularity_score": null,
  "country": "ES",
  "country_zh": "西班牙",
@@ -72,7 +72,8 @@
     "lat": 39.551701,
     "lon": 2.73881,
     "type": "large_airport",
-    "distance_km": 20.3
+    "distance_km": 20.3,
+    "name_zh": "马略卡岛帕尔马机场"
    },
    {
     "name": "Menorca Airport",
@@ -82,7 +83,8 @@
     "lat": 39.862598,
     "lon": 4.21865,
     "type": "large_airport",
-    "distance_km": 131.0
+    "distance_km": 131.0,
+    "name_zh": "马翁"
    },
    {
     "name": "Ibiza Airport",
@@ -92,7 +94,8 @@
     "lat": 38.872898,
     "lon": 1.37312,
     "type": "large_airport",
-    "distance_km": 148.4
+    "distance_km": 148.4,
+    "name_zh": "Ibiza（IBZ）"
    }
   ],
   "nearest_airport_km": 20.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

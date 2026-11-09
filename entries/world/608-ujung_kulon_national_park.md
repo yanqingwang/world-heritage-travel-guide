@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(x)"
 lat: -6.75
 lon: 105.333333333
-updated_at: "2026-11-09T12:01:00Z"
+updated_at: "2026-11-09T12:50:19Z"
 ---
 
 # 马戎格库龙国家公园 / Ujung Kulon National Park

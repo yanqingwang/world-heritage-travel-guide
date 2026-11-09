@@ -3,8 +3,8 @@
  "unesco_id": "1472",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 707,
- "popularity_score": 4072,
+ "popularity_rank": 758,
+ "popularity_score": 4210,
  "country": "SA",
  "country_zh": "沙特阿拉伯",
  "country_en": "Saudi Arabia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "SA-06",
- "subdivision_zh": "哈伊勒省",
- "subdivision_en": "Ḥa'il Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "沙特阿拉伯哈伊勒地区岩画",
  "name_zh_source": "curated",
  "name_en": "Rock Art in the Hail Region of Saudi Arabia",
@@ -72,7 +72,8 @@
     "lat": 27.437901,
     "lon": 41.686298,
     "type": "large_airport",
-    "distance_km": 99.5
+    "distance_km": 99.5,
+    "name_zh": "哈伊勒地区机场"
    },
    {
     "name": "Al-Jawf International Airport",
@@ -82,7 +83,8 @@
     "lat": 29.783301,
     "lon": 40.100905,
     "type": "large_airport",
-    "distance_km": 213.0
+    "distance_km": 213.0,
+    "name_zh": "焦夫省国内机场"
    },
    {
     "name": "Rafha Domestic Airport",
@@ -171,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

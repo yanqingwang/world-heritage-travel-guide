@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ix)(x)"
 lat: -16.5
 lon: -39.25
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:21Z"
 ---
 
 # 大西洋沿岸热带雨林保护区 / Discovery Coast Atlantic Forest Reserves

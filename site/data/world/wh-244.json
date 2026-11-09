@@ -3,7 +3,7 @@
  "unesco_id": "244",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1035,
+ "popularity_rank": 1051,
  "popularity_score": null,
  "country": "IN",
  "country_zh": "印度",
@@ -17,7 +17,7 @@
  ],
  "region": "Maharashtra State, District Kolaba (Island of Elephanta)",
  "subdivision_iso": "IN-MH",
- "subdivision_zh": "马哈拉施特拉邦",
+ "subdivision_zh": "",
  "subdivision_en": "Maharashtra",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "埃勒凡塔石窟（象岛石窟）",
@@ -64,7 +64,8 @@
     "lat": 18.984597,
     "lon": 73.065253,
     "type": "large_airport",
-    "distance_km": 14.3
+    "distance_km": 14.3,
+    "name_zh": "新孟买国际机场"
    },
    {
     "name": "Chhatrapati Shivaji Maharaj International Airport",
@@ -74,7 +75,8 @@
     "lat": 19.088699,
     "lon": 72.867897,
     "type": "large_airport",
-    "distance_km": 15.5
+    "distance_km": 15.5,
+    "name_zh": "贾特拉帕蒂·希瓦吉国际机场"
    },
    {
     "name": "Pune International Airport",
@@ -84,7 +86,8 @@
     "lat": 18.5821,
     "lon": 73.919701,
     "type": "large_airport",
-    "distance_km": 112.4
+    "distance_km": 112.4,
+    "name_zh": "浦那国际机场"
    }
   ],
   "nearest_airport_km": 14.3,
@@ -166,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "102",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 561,
- "popularity_score": 9050,
+ "popularity_rank": 590,
+ "popularity_score": 10145,
  "country": "DZ",
  "country_zh": "阿尔及利亚",
  "country_en": "Algeria",
@@ -72,7 +72,8 @@
     "lat": 36.178488,
     "lon": 5.329909,
     "type": "medium_airport",
-    "distance_km": 63.0
+    "distance_km": 63.0,
+    "name_zh": "塞提夫"
    },
    {
     "name": "Soummam–Abane Ramdane Airport",
@@ -82,7 +83,8 @@
     "lat": 36.712547,
     "lon": 5.069909,
     "type": "large_airport",
-    "distance_km": 103.0
+    "distance_km": 103.0,
+    "name_zh": "Soummam – Abane Ramdane机场"
    },
    {
     "name": "Batna Mostefa Ben Boulaid Airport",
@@ -92,7 +94,8 @@
     "lat": 35.752102,
     "lon": 6.30859,
     "type": "large_airport",
-    "distance_km": 136.9
+    "distance_km": 136.9,
+    "name_zh": "Mostépha Ben Boulaid机场"
    }
   ],
   "nearest_airport_km": 63.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

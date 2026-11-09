@@ -3,8 +3,8 @@
  "unesco_id": "1418",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 823,
- "popularity_score": 363,
+ "popularity_rank": 870,
+ "popularity_score": 376,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 34.795022,
     "lon": 138.190976,
     "type": "large_airport",
-    "distance_km": 79.6
+    "distance_km": 79.6,
+    "name_zh": "静冈机场"
    },
    {
     "name": "Oshima Airport",
@@ -82,7 +83,8 @@
     "lat": 34.782001495399996,
     "lon": 139.36000061,
     "type": "medium_airport",
-    "distance_km": 86.3
+    "distance_km": 86.3,
+    "name_zh": "大岛机场"
    },
    {
     "name": "Tokyo Haneda International Airport",
@@ -92,7 +94,8 @@
     "lat": 35.549678,
     "lon": 139.786958,
     "type": "large_airport",
-    "distance_km": 98.2
+    "distance_km": 98.2,
+    "name_zh": "东京国际机场"
    }
   ],
   "nearest_airport_km": 79.6,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

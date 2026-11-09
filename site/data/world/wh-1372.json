@@ -3,7 +3,7 @@
  "unesco_id": "1372",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 921,
+ "popularity_rank": 948,
  "popularity_score": null,
  "country": "IR",
  "country_zh": "伊朗",
@@ -74,7 +74,8 @@
     "lat": 32.755142,
     "lon": 51.883877,
     "type": "large_airport",
-    "distance_km": 121.3
+    "distance_km": 121.3,
+    "name_zh": "伊斯法罕"
    },
    {
     "name": "Imam Khomeini International Airport",
@@ -84,7 +85,8 @@
     "lat": 35.416099548339844,
     "lon": 51.152198791503906,
     "type": "large_airport",
-    "distance_km": 186.4
+    "distance_km": 186.4,
+    "name_zh": "伊玛目霍梅尼国际机场"
    }
   ],
   "nearest_airport_km": 27.5,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

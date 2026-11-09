@@ -3,8 +3,8 @@
  "unesco_id": "1725",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 164,
- "popularity_score": 69437,
+ "popularity_rank": 178,
+ "popularity_score": 75885,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -96,7 +96,8 @@
     "lat": 48.0695,
     "lon": -1.73479,
     "type": "medium_airport",
-    "distance_km": 113.5
+    "distance_km": 113.5,
+    "name_zh": "雷恩"
    },
    {
     "name": "Nantes Atlantique Airport",
@@ -106,7 +107,8 @@
     "lat": 47.153198,
     "lon": -1.61073,
     "type": "large_airport",
-    "distance_km": 121.0
+    "distance_km": 121.0,
+    "name_zh": "南特大西洋机场"
    },
    {
     "name": "Brest Bretagne airport",
@@ -116,7 +118,8 @@
     "lat": 48.447899,
     "lon": -4.41854,
     "type": "large_airport",
-    "distance_km": 137.6
+    "distance_km": 137.6,
+    "name_zh": "布雷斯特-布列塔尼机场"
    }
   ],
   "nearest_airport_km": 113.5,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

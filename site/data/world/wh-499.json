@@ -3,8 +3,8 @@
  "unesco_id": "499",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 154,
- "popularity_score": 74690,
+ "popularity_rank": 167,
+ "popularity_score": 81497,
  "country": "TN",
  "country_zh": "突尼斯",
  "country_en": "Tunisia",
@@ -96,7 +96,8 @@
     "lat": 36.075833,
     "lon": 10.438611,
     "type": "medium_airport",
-    "distance_km": 53.2
+    "distance_km": 53.2,
+    "name_zh": "恩菲达-哈马马特国际机场"
    },
    {
     "name": "Monastir Habib Bourguiba International Airport",
@@ -106,7 +107,8 @@
     "lat": 35.75809860229492,
     "lon": 10.75469970703125,
     "type": "medium_airport",
-    "distance_km": 59.7
+    "distance_km": 59.7,
+    "name_zh": "莫纳斯提尔哈比卜·布尔吉巴国际机场"
    },
    {
     "name": "Sfax Thyna International Airport",
@@ -116,7 +118,8 @@
     "lat": 34.717999,
     "lon": 10.691,
     "type": "medium_airport",
-    "distance_km": 120.0
+    "distance_km": 120.0,
+    "name_zh": "斯法克斯"
    }
   ],
   "nearest_airport_km": 53.2,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

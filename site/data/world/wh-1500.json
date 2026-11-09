@@ -3,7 +3,7 @@
  "unesco_id": "1500",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 948,
+ "popularity_rank": 973,
  "popularity_score": null,
  "country": "GB",
  "country_zh": "英国",
@@ -72,7 +72,8 @@
     "lat": 36.151679,
     "lon": -5.34978,
     "type": "large_airport",
-    "distance_km": 3.3
+    "distance_km": 3.3,
+    "name_zh": "直布罗陀皇家空军基地"
    },
    {
     "name": "Sania Ramel Airport",
@@ -82,7 +83,8 @@
     "lat": 35.594299,
     "lon": -5.32002,
     "type": "large_airport",
-    "distance_km": 58.8
+    "distance_km": 58.8,
+    "name_zh": "得土安"
    },
    {
     "name": "Tangier Ibn Battuta Airport",
@@ -92,7 +94,8 @@
     "lat": 35.731741,
     "lon": -5.921459,
     "type": "large_airport",
-    "distance_km": 67.9
+    "distance_km": 67.9,
+    "name_zh": "丹吉尔"
    }
   ],
   "nearest_airport_km": 3.3,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

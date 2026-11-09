@@ -3,8 +3,8 @@
  "unesco_id": "1435",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 137,
- "popularity_score": 82815,
+ "popularity_rank": 150,
+ "popularity_score": 90977,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 32.510899,
     "lon": -92.037697,
     "type": "medium_airport",
-    "distance_km": 60.3
+    "distance_km": 60.3,
+    "name_zh": "门罗区域机场"
    },
    {
     "name": "Mid Delta Regional Airport",
@@ -106,7 +107,8 @@
     "lat": 33.482899,
     "lon": -90.985603,
     "type": "medium_airport",
-    "distance_km": 102.1
+    "distance_km": 102.1,
+    "name_zh": "中三角洲支线机场"
    },
    {
     "name": "Jackson-Medgar Wiley Evers International Airport",
@@ -116,7 +118,8 @@
     "lat": 32.311199,
     "lon": -90.075897,
     "type": "medium_airport",
-    "distance_km": 130.4
+    "distance_km": 130.4,
+    "name_zh": "杰克逊梅德加·威利·埃弗斯国际机场"
    }
   ],
   "nearest_airport_km": 60.3,
@@ -205,5 +208,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

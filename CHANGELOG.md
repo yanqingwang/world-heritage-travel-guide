@@ -1,5 +1,11 @@
 # 变更记录 / Changelog
 
+## 2026-11-09 — 机场全称与 README 双语整理
+
+- 机场新增中文名称（如「北京首都国际机场 · Beijing Capital International Airport (PEK)」）：来自 Wikidata SPARQL（P238 IATA → 中文标签，OpenCC 繁转简），单次查询覆盖全部 1,632 个在用机场；列表卡片与详情页都显示全称，不再只显示三字码。
+- 新增 `scripts/fetch_airport_names.py` 并纳入每周管线。
+- README 中文部分去除中英混排（「自动 commit」→「自动提交」等），顶部简介改为中英双语段落。
+
 ## 2026-11-09 — 旅行实用信息
 
 - 每条目的详情页新增「旅行实用信息 / Practical information」板块：货币（中英文名 + 代码 + 符号）、插座类型与电压、主要时区、通行方向（靠左/靠右）、国际区号、官方语言。
@@ -37,9 +43,3 @@
 - 中国 5A：359 条；海外世界遗产：1,213 条。
 - 新增 0 条，移除 0 条，更新 18 条。
 - 变更字段：transport.airports × 18、transport.distance_beijing_km × 17
-
-## 2026-11-09
-
-- 中国 5A：359 条；海外世界遗产：1,213 条。
-- 新增 0 条，移除 0 条，更新 382 条。
-- 变更字段：images × 240、hotels × 187、tier × 178、name_en × 137、intro_en × 127、transport.ferry_terminals × 98

@@ -3,8 +3,8 @@
  "unesco_id": "1468",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 531,
- "popularity_score": 9863,
+ "popularity_rank": 574,
+ "popularity_score": 10635,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -87,7 +87,8 @@
     "lat": 55.740335,
     "lon": 9.157019,
     "type": "large_airport",
-    "distance_km": 47.3
+    "distance_km": 47.3,
+    "name_zh": "比隆"
    },
    {
     "name": "Sønderborg Airport",
@@ -97,7 +98,8 @@
     "lat": 54.96440124511719,
     "lon": 9.791729927062988,
     "type": "medium_airport",
-    "distance_km": 47.8
+    "distance_km": 47.8,
+    "name_zh": "森讷堡机场"
    },
    {
     "name": "Odense Hans Christian Andersen Airport",
@@ -107,7 +109,8 @@
     "lat": 55.475307,
     "lon": 10.327206,
     "type": "large_airport",
-    "distance_km": 54.9
+    "distance_km": 54.9,
+    "name_zh": "奥登斯"
    }
   ],
   "nearest_airport_km": 47.3,
@@ -214,5 +217,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

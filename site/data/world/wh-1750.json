@@ -3,7 +3,7 @@
  "unesco_id": "1750",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1011,
+ "popularity_rank": 1027,
  "popularity_score": null,
  "country": "ST",
  "country_zh": "圣多美和普林西比",
@@ -72,7 +72,8 @@
     "lat": 0.378175,
     "lon": 6.71215,
     "type": "large_airport",
-    "distance_km": 27.5
+    "distance_km": 27.5,
+    "name_zh": "圣多美国际机场"
    },
    {
     "name": "Principe Airport",
@@ -82,7 +83,8 @@
     "lat": 1.661155,
     "lon": 7.411081,
     "type": "medium_airport",
-    "distance_km": 189.3
+    "distance_km": 189.3,
+    "name_zh": "普林西比机场"
    },
    {
     "name": "Annobón Airport",
@@ -92,7 +94,8 @@
     "lat": -1.408615,
     "lon": 5.624163,
     "type": "small_airport",
-    "distance_km": 206.3
+    "distance_km": 206.3,
+    "name_zh": "安诺本机场"
    }
   ],
   "nearest_airport_km": 27.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

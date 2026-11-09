@@ -3,8 +3,8 @@
  "unesco_id": "1442",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 199,
- "popularity_score": 48544,
+ "popularity_rank": 216,
+ "popularity_score": 53340,
  "country": "CN",
  "country_zh": "中华人民共和国",
  "country_en": "People's Republic of China",
@@ -106,7 +106,8 @@
     "lat": 34.442207,
     "lon": 108.762385,
     "type": "large_airport",
-    "distance_km": 17.6
+    "distance_km": 17.6,
+    "name_zh": "西安咸阳国际机场"
    },
    {
     "name": "Ankang Fuqiang Airport",
@@ -116,7 +117,8 @@
     "lat": 32.75696,
     "lon": 108.87338,
     "type": "small_airport",
-    "distance_km": 172.1
+    "distance_km": 172.1,
+    "name_zh": "安康富强机场"
    },
    {
     "name": "Hanzhong Chenggu Airport",
@@ -126,7 +128,8 @@
     "lat": 33.133527,
     "lon": 107.203817,
     "type": "medium_airport",
-    "distance_km": 200.8
+    "distance_km": 200.8,
+    "name_zh": "汉中城固机场"
    }
   ],
   "nearest_airport_km": 17.6,
@@ -317,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

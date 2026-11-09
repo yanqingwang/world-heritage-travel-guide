@@ -3,8 +3,8 @@
  "unesco_id": "1345",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 537,
- "popularity_score": 9728,
+ "popularity_rank": 572,
+ "popularity_score": 10657,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -72,7 +72,8 @@
     "lat": 38.3256988525,
     "lon": 48.4244003296,
     "type": "medium_airport",
-    "distance_km": 14.4
+    "distance_km": 14.4,
+    "name_zh": "阿尔达比勒机场"
    },
    {
     "name": "Lankaran International Airport",
@@ -82,7 +83,8 @@
     "lat": 38.757919,
     "lon": 48.807042,
     "type": "small_airport",
-    "distance_km": 72.3
+    "distance_km": 72.3,
+    "name_zh": "连科兰国际机场"
    },
    {
     "name": "Parsabad-Moghan Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

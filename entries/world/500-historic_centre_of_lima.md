@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iv)"
 lat: -12.05138889
 lon: -77.04305556
-updated_at: "2026-11-09T12:00:59Z"
+updated_at: "2026-11-09T12:50:19Z"
 ---
 
 # 利马的历史中心 / Historic Centre of Lima

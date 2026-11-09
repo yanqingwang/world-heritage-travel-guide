@@ -3,8 +3,8 @@
  "unesco_id": "145",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 301,
- "popularity_score": 25505,
+ "popularity_rank": 325,
+ "popularity_score": 27923,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -72,7 +72,8 @@
     "lat": -50.280267,
     "lon": -72.053401,
     "type": "medium_airport",
-    "distance_km": 84.0
+    "distance_km": 84.0,
+    "name_zh": "Comandante Armando Tola国际机场"
    },
    {
     "name": "Lieutenant Julio Gallardo Airport",
@@ -82,7 +83,8 @@
     "lat": -51.67067,
     "lon": -72.529078,
     "type": "medium_airport",
-    "distance_km": 157.0
+    "distance_km": 157.0,
+    "name_zh": "纳塔莱斯港机场"
    },
    {
     "name": "28 de Noviembre Airport",
@@ -92,7 +94,8 @@
     "lat": -51.605,
     "lon": -72.2203,
     "type": "small_airport",
-    "distance_km": 158.5
+    "distance_km": 158.5,
+    "name_zh": "特尔比奥河机场"
    }
   ],
   "nearest_airport_km": 84.0,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

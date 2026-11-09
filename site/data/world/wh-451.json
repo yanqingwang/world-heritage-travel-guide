@@ -3,7 +3,7 @@
  "unesco_id": "451",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1077,
+ "popularity_rank": 1088,
  "popularity_score": null,
  "country": "LK",
  "country_zh": "斯里兰卡",
@@ -82,7 +82,8 @@
     "lat": 6.821638,
     "lon": 79.885859,
     "type": "large_airport",
-    "distance_km": 96.3
+    "distance_km": 96.3,
+    "name_zh": "拉特马拉纳机场"
    },
    {
     "name": "Mattala Rajapaksa International Airport",
@@ -92,7 +93,8 @@
     "lat": 6.283878,
     "lon": 81.124163,
     "type": "medium_airport",
-    "distance_km": 104.3
+    "distance_km": 104.3,
+    "name_zh": "汉班托塔国际机场"
    }
   ],
   "nearest_airport_km": 11.7,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

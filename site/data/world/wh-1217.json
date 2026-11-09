@@ -3,8 +3,8 @@
  "unesco_id": "1217",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 317,
- "popularity_score": 23421,
+ "popularity_rank": 340,
+ "popularity_score": 25706,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 43.301102,
     "lon": -2.91061,
     "type": "large_airport",
-    "distance_km": 8.9
+    "distance_km": 8.9,
+    "name_zh": "毕尔包机场"
    },
    {
     "name": "Vitoria Airport",
@@ -82,7 +83,8 @@
     "lat": 42.882801,
     "lon": -2.72447,
     "type": "medium_airport",
-    "distance_km": 54.4
+    "distance_km": 54.4,
+    "name_zh": "维多利亚机场"
    },
    {
     "name": "Seve Ballesteros-Santander Airport",
@@ -92,7 +94,8 @@
     "lat": 43.427101,
     "lon": -3.82001,
     "type": "medium_airport",
-    "distance_km": 65.9
+    "distance_km": 65.9,
+    "name_zh": "桑坦德"
    }
   ],
   "nearest_airport_km": 8.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

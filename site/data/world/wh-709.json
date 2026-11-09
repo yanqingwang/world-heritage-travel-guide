@@ -3,7 +3,7 @@
  "unesco_id": "709",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1131,
+ "popularity_rank": 1136,
  "popularity_score": null,
  "country": "GE",
  "country_zh": "格鲁吉亚",
@@ -72,7 +72,8 @@
     "lat": 43.512901,
     "lon": 43.6366,
     "type": "medium_airport",
-    "distance_km": 83.5
+    "distance_km": 83.5,
+    "name_zh": "纳尔奇克机场"
    },
    {
     "name": "David the Builder Kutaisi International Airport",
@@ -82,7 +83,8 @@
     "lat": 42.177448,
     "lon": 42.485353,
     "type": "large_airport",
-    "distance_km": 92.8
+    "distance_km": 92.8,
+    "name_zh": "库塔伊西国际机场"
    },
    {
     "name": "Vladikavkaz Beslan International Airport",
@@ -92,7 +94,8 @@
     "lat": 43.205101,
     "lon": 44.606602,
     "type": "medium_airport",
-    "distance_km": 133.5
+    "distance_km": 133.5,
+    "name_zh": "弗拉季高加索国际机场"
    }
   ],
   "nearest_airport_km": 83.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

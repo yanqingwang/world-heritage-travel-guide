@@ -3,7 +3,7 @@
  "unesco_id": "747",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1141,
+ "popularity_rank": 1146,
  "popularity_score": null,
  "country": "UY",
  "country_zh": "乌拉圭",
@@ -72,7 +72,8 @@
     "lat": -34.559419,
     "lon": -58.415536,
     "type": "large_airport",
-    "distance_km": 52.6
+    "distance_km": 52.6,
+    "name_zh": "豪尔赫·纽伯里机场"
    },
    {
     "name": "Ezeiza International Airport - Ministro Pistarini",
@@ -82,7 +83,8 @@
     "lat": -34.8222,
     "lon": -58.5358,
     "type": "large_airport",
-    "distance_km": 73.8
+    "distance_km": 73.8,
+    "name_zh": "皮斯塔里尼部长国际机场"
    },
    {
     "name": "Carrasco General Cesáreo L. Berisso International Airport",
@@ -92,7 +94,8 @@
     "lat": -34.835647,
     "lon": -56.026497,
     "type": "large_airport",
-    "distance_km": 171.7
+    "distance_km": 171.7,
+    "name_zh": "卡拉斯科国际机场"
    }
   ],
   "nearest_airport_km": 52.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

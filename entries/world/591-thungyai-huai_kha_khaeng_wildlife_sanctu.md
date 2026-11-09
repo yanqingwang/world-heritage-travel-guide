@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(vii)(ix)(x)"
 lat: 15.333333333
 lon: 98.916666666
-updated_at: "2026-11-09T12:01:00Z"
+updated_at: "2026-11-09T12:50:19Z"
 ---
 
 # 童•艾•纳雷松野生生物保护区 / Thungyai-Huai Kha Khaeng Wildlife Sanctuaries

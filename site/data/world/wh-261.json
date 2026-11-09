@@ -3,8 +3,8 @@
  "unesco_id": "261",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 618,
- "popularity_score": 6455,
+ "popularity_rank": 663,
+ "popularity_score": 6931,
  "country": "SC",
  "country_zh": "塞舌尔",
  "country_en": "Seychelles",
@@ -82,7 +82,8 @@
     "lat": -4.67434,
     "lon": 55.521801,
     "type": "large_airport",
-    "distance_km": 45.2
+    "distance_km": 45.2,
+    "name_zh": "塞舌尔国际机场"
    }
   ],
   "nearest_airport_km": 5.2,
@@ -164,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

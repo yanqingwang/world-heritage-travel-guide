@@ -3,7 +3,7 @@
  "unesco_id": "1467",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 941,
+ "popularity_rank": 966,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -72,7 +72,8 @@
     "lat": 53.630402,
     "lon": 9.98823,
     "type": "large_airport",
-    "distance_km": 9.7
+    "distance_km": 9.7,
+    "name_zh": "汉堡机场"
    },
    {
     "name": "Lübeck Blankensee Airport",
@@ -82,7 +83,8 @@
     "lat": 53.805401,
     "lon": 10.7192,
     "type": "medium_airport",
-    "distance_km": 56.1
+    "distance_km": 56.1,
+    "name_zh": "吕贝克机场"
    },
    {
     "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

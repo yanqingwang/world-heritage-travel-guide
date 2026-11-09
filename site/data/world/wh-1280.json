@@ -3,7 +3,7 @@
  "unesco_id": "1280",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 894,
+ "popularity_rank": 931,
  "popularity_score": null,
  "country": "VU",
  "country_zh": "瓦努阿图",
@@ -72,7 +72,8 @@
     "lat": -17.699301,
     "lon": 168.320007,
     "type": "large_airport",
-    "distance_km": 9.1
+    "distance_km": 9.1,
+    "name_zh": "维拉港国际机场"
    },
    {
     "name": "Tongoa Airport",
@@ -173,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "669",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1125,
+ "popularity_rank": 1130,
  "popularity_score": null,
  "country": "ES",
  "country_zh": "西班牙",
@@ -64,7 +64,8 @@
     "lat": 40.493407,
     "lon": -3.572249,
     "type": "large_airport",
-    "distance_km": 115.9
+    "distance_km": 115.9,
+    "name_zh": "马德里－巴拉哈斯机场"
    },
    {
     "name": "Córdoba Airport",
@@ -84,7 +85,8 @@
     "lat": 40.952099,
     "lon": -5.50199,
     "type": "medium_airport",
-    "distance_km": 202.0
+    "distance_km": 202.0,
+    "name_zh": "萨拉曼卡机场"
    }
   ],
   "nearest_airport_km": 115.9,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

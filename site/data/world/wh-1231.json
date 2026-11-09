@@ -3,7 +3,7 @@
  "unesco_id": "1231",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 884,
+ "popularity_rank": 921,
  "popularity_score": null,
  "country": "KE",
  "country_zh": "肯尼亚",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Coast Province",
- "subdivision_iso": "KE-14",
- "subdivision_zh": "基利菲县",
- "subdivision_en": "Kilifi County",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "米吉肯达卡亚圣林",
  "name_zh_source": "curated",
  "name_en": "Sacred Mijikenda Kaya Forests",
@@ -64,7 +64,8 @@
     "lat": -4.03483,
     "lon": 39.5942,
     "type": "large_airport",
-    "distance_km": 11.4
+    "distance_km": 11.4,
+    "name_zh": "莫伊国际机场"
    },
    {
     "name": "Malindi International Airport",
@@ -74,7 +75,8 @@
     "lat": -3.22931,
     "lon": 40.1017,
     "type": "medium_airport",
-    "distance_km": 96.2
+    "distance_km": 96.2,
+    "name_zh": "马林迪机场"
    },
    {
     "name": "Tanga Airport",
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

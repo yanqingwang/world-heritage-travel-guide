@@ -3,8 +3,8 @@
  "unesco_id": "951",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 414,
- "popularity_score": 15540,
+ "popularity_rank": 452,
+ "popularity_score": 16204,
  "country": "LA",
  "country_zh": "老挝",
  "country_en": "Laos",
@@ -77,7 +77,8 @@
     "lat": 17.515,
     "lon": 106.590556,
     "type": "medium_airport",
-    "distance_km": 46.8
+    "distance_km": 46.8,
+    "name_zh": "洞海机场"
    },
    {
     "name": "Vinh Airport",
@@ -87,7 +88,8 @@
     "lat": 18.7376003265,
     "lon": 105.67099762,
     "type": "medium_airport",
-    "distance_km": 143.2
+    "distance_km": 143.2,
+    "name_zh": "荣市国际机场"
    },
    {
     "name": "Nakhon Phanom Airport",
@@ -97,7 +99,8 @@
     "lat": 17.383801,
     "lon": 104.642998,
     "type": "medium_airport",
-    "distance_km": 160.7
+    "distance_km": 160.7,
+    "name_zh": "那空拍侬机场"
    }
   ],
   "nearest_airport_km": 46.8,
@@ -185,5 +188,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

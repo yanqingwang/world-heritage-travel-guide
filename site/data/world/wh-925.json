@@ -3,8 +3,8 @@
  "unesco_id": "925",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 115,
- "popularity_score": 103930,
+ "popularity_rank": 127,
+ "popularity_score": 112981,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 23.2875,
     "lon": 77.337402,
     "type": "large_airport",
-    "distance_km": 48.0
+    "distance_km": 48.0,
+    "name_zh": "Raja Bhoj机场"
    },
    {
     "name": "Devi Ahilya Bai Holkar International Airport",
@@ -106,7 +107,8 @@
     "lat": 22.721404,
     "lon": 75.80051,
     "type": "large_airport",
-    "distance_km": 187.5
+    "distance_km": 187.5,
+    "name_zh": "印多尔"
    },
    {
     "name": "Amravati  Airport",
@@ -304,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

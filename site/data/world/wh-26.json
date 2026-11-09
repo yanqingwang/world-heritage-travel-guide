@@ -3,8 +3,8 @@
  "unesco_id": "26",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 200,
- "popularity_score": 48294,
+ "popularity_rank": 218,
+ "popularity_score": 52355,
  "country": "SN",
  "country_zh": "塞内加尔",
  "country_en": "Senegal",
@@ -72,7 +72,8 @@
     "lat": 14.670878,
     "lon": -17.072829,
     "type": "large_airport",
-    "distance_km": 35.0
+    "distance_km": 35.0,
+    "name_zh": "达喀尔"
    },
    {
     "name": "Banjul International Airport",
@@ -82,7 +83,8 @@
     "lat": 13.338,
     "lon": -16.652201,
     "type": "large_airport",
-    "distance_km": 168.3
+    "distance_km": 168.3,
+    "name_zh": "班珠尔国际机场"
    },
    {
     "name": "Cap Skirring Airport",
@@ -92,7 +94,8 @@
     "lat": 12.39533,
     "lon": -16.748,
     "type": "medium_airport",
-    "distance_km": 262.2
+    "distance_km": 262.2,
+    "name_zh": "Cap Skirring机场"
    }
   ],
   "nearest_airport_km": 35.0,
@@ -310,5 +313,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

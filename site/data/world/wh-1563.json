@@ -3,8 +3,8 @@
  "unesco_id": "1563",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 157,
- "popularity_score": 72771,
+ "popularity_rank": 171,
+ "popularity_score": 79206,
  "country": "SA",
  "country_zh": "沙特阿拉伯",
  "country_en": "Saudi Arabia",
@@ -72,7 +72,8 @@
     "lat": 25.285299,
     "lon": 49.485199,
     "type": "large_airport",
-    "distance_km": 21.1
+    "distance_km": 21.1,
+    "name_zh": "胡富夫"
    },
    {
     "name": "King Fahd International Airport",
@@ -82,7 +83,8 @@
     "lat": 26.4691,
     "lon": 49.798209,
     "type": "large_airport",
-    "distance_km": 116.9
+    "distance_km": 116.9,
+    "name_zh": "法赫德国王国际机场"
    },
    {
     "name": "Bahrain International Airport",
@@ -92,7 +94,8 @@
     "lat": 26.267295,
     "lon": 50.63764,
     "type": "large_airport",
-    "distance_km": 137.9
+    "distance_km": 137.9,
+    "name_zh": "巴林国际机场"
    }
   ],
   "nearest_airport_km": 21.1,
@@ -228,5 +231,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

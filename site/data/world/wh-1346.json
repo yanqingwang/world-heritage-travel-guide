@@ -3,8 +3,8 @@
  "unesco_id": "1346",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 462,
- "popularity_score": 12617,
+ "popularity_rank": 496,
+ "popularity_score": 13647,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -72,7 +72,8 @@
     "lat": 38.1339,
     "lon": 46.235001,
     "type": "large_airport",
-    "distance_km": 7.7
+    "distance_km": 7.7,
+    "name_zh": "大不里士"
    },
    {
     "name": "Urmia Airport",
@@ -82,7 +83,8 @@
     "lat": 37.6680984497,
     "lon": 45.0686988831,
     "type": "medium_airport",
-    "distance_km": 116.8
+    "distance_km": 116.8,
+    "name_zh": "乌尔米耶机场"
    },
    {
     "name": "Nakhchivan International Airport",
@@ -92,7 +94,8 @@
     "lat": 39.188801,
     "lon": 45.458401,
     "type": "large_airport",
-    "distance_km": 142.9
+    "distance_km": 142.9,
+    "name_zh": "纳希契凡国际机场"
    }
   ],
   "nearest_airport_km": 7.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

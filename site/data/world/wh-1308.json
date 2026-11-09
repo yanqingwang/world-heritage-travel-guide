@@ -3,7 +3,7 @@
  "unesco_id": "1308",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 899,
+ "popularity_rank": 936,
  "popularity_score": null,
  "country": "BR",
  "country_zh": "巴西",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "BR-RJ",
- "subdivision_zh": "里约热内卢州",
- "subdivision_en": "Rio de Janeiro",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "帕拉蒂和格兰德岛-文化与生物多样性",
  "name_zh_source": "unesco_official",
  "name_en": "Paraty and Ilha Grande – Culture and Biodiversity",
@@ -64,7 +64,8 @@
     "lat": -23.2292,
     "lon": -45.8615,
     "type": "medium_airport",
-    "distance_km": 122.5
+    "distance_km": 122.5,
+    "name_zh": "圣若泽-杜斯坎普斯机场"
    },
    {
     "name": "Rio de Janeiro Galeão – Tom Jobim International Airport",
@@ -74,7 +75,8 @@
     "lat": -22.809999,
     "lon": -43.250557,
     "type": "large_airport",
-    "distance_km": 148.8
+    "distance_km": 148.8,
+    "name_zh": "里约热内卢/加利昂－安东尼奥·卡洛斯·若宾国际机场"
    },
    {
     "name": "Santos Dumont Airport",
@@ -84,7 +86,8 @@
     "lat": -22.910397,
     "lon": -43.16282,
     "type": "large_airport",
-    "distance_km": 156.3
+    "distance_km": 156.3,
+    "name_zh": "圣杜蒙特机场"
    }
   ],
   "nearest_airport_km": 122.5,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

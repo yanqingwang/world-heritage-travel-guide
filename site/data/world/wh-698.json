@@ -3,8 +3,8 @@
  "unesco_id": "698",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 813,
- "popularity_score": 757,
+ "popularity_rank": 859,
+ "popularity_score": 842,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -72,7 +72,8 @@
     "lat": -17.9403,
     "lon": 138.822006,
     "type": "small_airport",
-    "distance_km": 127.6
+    "distance_km": 127.6,
+    "name_zh": "Doomadgee机场"
    },
    {
     "name": "Burketown Airport",
@@ -82,7 +83,8 @@
     "lat": -17.748600006103516,
     "lon": 139.53399658203125,
     "type": "small_airport",
-    "distance_km": 171.6
+    "distance_km": 171.6,
+    "name_zh": "伯克敦机场"
    },
    {
     "name": "Mount Isa Airport",
@@ -92,7 +94,8 @@
     "lat": -20.66638,
     "lon": 139.488468,
     "type": "medium_airport",
-    "distance_km": 193.6
+    "distance_km": 193.6,
+    "name_zh": "伊萨山机场"
    }
   ],
   "nearest_airport_km": 127.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

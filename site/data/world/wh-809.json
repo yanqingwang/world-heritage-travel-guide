@@ -3,8 +3,8 @@
  "unesco_id": "809",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 357,
- "popularity_score": 19620,
+ "popularity_rank": 393,
+ "popularity_score": 20979,
  "country": "HR",
  "country_zh": "克罗地亚",
  "country_en": "Croatia",
@@ -72,7 +72,8 @@
     "lat": 44.893501,
     "lon": 13.9222,
     "type": "large_airport",
-    "distance_km": 45.3
+    "distance_km": 45.3,
+    "name_zh": "普拉机场"
    },
    {
     "name": "Trieste Airport",
@@ -82,7 +83,8 @@
     "lat": 45.827862,
     "lon": 13.466672,
     "type": "large_airport",
-    "distance_km": 67.4
+    "distance_km": 67.4,
+    "name_zh": "的里雅斯特机场"
    },
    {
     "name": "Rijeka Airport",
@@ -92,7 +94,8 @@
     "lat": 45.216376,
     "lon": 14.57085,
     "type": "large_airport",
-    "distance_km": 76.5
+    "distance_km": 76.5,
+    "name_zh": "里耶卡机场"
    }
   ],
   "nearest_airport_km": 45.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

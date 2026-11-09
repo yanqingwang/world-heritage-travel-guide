@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(vii)(x)"
 lat: -22.739
 lon: 113.628
-updated_at: "2026-11-09T12:01:04Z"
+updated_at: "2026-11-09T12:50:24Z"
 ---
 
 # 宁格罗海岸 / Ningaloo Coast

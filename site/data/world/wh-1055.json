@@ -3,8 +3,8 @@
  "unesco_id": "1055",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 218,
- "popularity_score": 38232,
+ "popularity_rank": 255,
+ "popularity_score": 38254,
  "country": "KE",
  "country_zh": "肯尼亚",
  "country_en": "Kenya",
@@ -106,7 +106,8 @@
     "lat": -3.22931,
     "lon": 40.1017,
     "type": "medium_airport",
-    "distance_km": 138.8
+    "distance_km": 138.8,
+    "name_zh": "马林迪机场"
    },
    {
     "name": "Moi International Airport",
@@ -116,7 +117,8 @@
     "lat": -4.03483,
     "lon": 39.5942,
     "type": "large_airport",
-    "distance_km": 244.1
+    "distance_km": 244.1,
+    "name_zh": "莫伊国际机场"
    }
   ],
   "nearest_airport_km": 2.3,
@@ -253,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

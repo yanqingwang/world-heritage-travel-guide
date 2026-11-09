@@ -3,8 +3,8 @@
  "unesco_id": "800",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 629,
- "popularity_score": 6012,
+ "popularity_rank": 674,
+ "popularity_score": 6536,
  "country": "KE",
  "country_zh": "肯尼亚",
  "country_en": "Kenya",
@@ -92,7 +92,8 @@
     "lat": -1.318886,
     "lon": 36.928233,
     "type": "large_airport",
-    "distance_km": 140.4
+    "distance_km": 140.4,
+    "name_zh": "乔莫·肯雅塔国际机场"
    }
   ],
   "nearest_airport_km": 33.5,
@@ -169,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

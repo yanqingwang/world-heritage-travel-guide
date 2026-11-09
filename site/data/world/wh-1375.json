@@ -3,8 +3,8 @@
  "unesco_id": "1375",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 358,
- "popularity_score": 19603,
+ "popularity_rank": 392,
+ "popularity_score": 21011,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IN-WB",
- "subdivision_zh": "西孟加拉邦",
- "subdivision_en": "West Bengal",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "桑地尼克坦",
  "name_zh_source": "unesco_official",
  "name_en": "Santiniketan",
@@ -72,7 +72,8 @@
     "lat": 23.6225,
     "lon": 87.243,
     "type": "medium_airport",
-    "distance_km": 45.5
+    "distance_km": 45.5,
+    "name_zh": "卡齐·纳兹鲁·伊斯拉姆机场"
    },
    {
     "name": "Shah Makhdum Airport",
@@ -82,7 +83,8 @@
     "lat": 24.437201,
     "lon": 88.616501,
     "type": "medium_airport",
-    "distance_km": 126.8
+    "distance_km": 126.8,
+    "name_zh": "沙马赫杜机场"
    },
    {
     "name": "Deoghar Airport",
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

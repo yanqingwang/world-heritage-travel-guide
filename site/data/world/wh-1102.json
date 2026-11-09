@@ -3,7 +3,7 @@
  "unesco_id": "1102",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 858,
+ "popularity_rank": 897,
  "popularity_score": null,
  "country": "KZ",
  "country_zh": "哈萨克斯坦",
@@ -64,7 +64,8 @@
     "lat": 51.027035,
     "lon": 71.467094,
     "type": "large_airport",
-    "distance_km": 173.4
+    "distance_km": 173.4,
+    "name_zh": "努尔苏丹·纳扎尔巴耶夫国际机场"
    },
    {
     "name": "Sary-Arka Airport",
@@ -74,7 +75,8 @@
     "lat": 49.670799,
     "lon": 73.334396,
     "type": "large_airport",
-    "distance_km": 307.8
+    "distance_km": 307.8,
+    "name_zh": "卡拉干达"
    },
    {
     "name": "Zhezkazgan National Airport",
@@ -84,7 +86,8 @@
     "lat": 47.708953,
     "lon": 67.738094,
     "type": "large_airport",
-    "distance_km": 320.8
+    "distance_km": 320.8,
+    "name_zh": "杰兹卡兹甘机场"
    }
   ],
   "nearest_airport_km": 173.4,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

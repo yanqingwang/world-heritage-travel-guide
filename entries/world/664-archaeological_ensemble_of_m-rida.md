@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iii)(iv)"
 lat: 38.91597
 lon: -6.33869
-updated_at: "2026-11-09T12:01:00Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 梅里达考古群 / Archaeological Ensemble of Mérida

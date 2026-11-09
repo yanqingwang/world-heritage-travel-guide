@@ -3,7 +3,7 @@
  "unesco_id": "415",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1074,
+ "popularity_rank": 1085,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -64,7 +64,8 @@
     "lat": 16.998773,
     "lon": -96.726092,
     "type": "large_airport",
-    "distance_km": 7.0
+    "distance_km": 7.0,
+    "name_zh": "瓦哈卡"
    },
    {
     "name": "Puerto Escondido International Airport",
@@ -74,7 +75,8 @@
     "lat": 15.876808,
     "lon": -97.0891,
     "type": "medium_airport",
-    "distance_km": 137.5
+    "distance_km": 137.5,
+    "name_zh": "埃斯孔迪多港"
    },
    {
     "name": "Bahías de Huatulco International Airport",
@@ -84,7 +86,8 @@
     "lat": 15.775437,
     "lon": -96.260456,
     "type": "large_airport",
-    "distance_km": 151.3
+    "distance_km": 151.3,
+    "name_zh": "哈杜克"
    }
   ],
   "nearest_airport_km": 7.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

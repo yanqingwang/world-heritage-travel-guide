@@ -3,7 +3,7 @@
  "unesco_id": "728",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1135,
+ "popularity_rank": 1140,
  "popularity_score": null,
  "country": "GB",
  "country_zh": "英国",
@@ -72,7 +72,8 @@
     "lat": 55.950145,
     "lon": -3.372288,
     "type": "large_airport",
-    "distance_km": 9.7
+    "distance_km": 9.7,
+    "name_zh": "爱丁堡机场"
    },
    {
     "name": "Dundee Airport",
@@ -82,7 +83,8 @@
     "lat": 56.452499,
     "lon": -3.02583,
     "type": "medium_airport",
-    "distance_km": 57.1
+    "distance_km": 57.1,
+    "name_zh": "邓迪机场"
    },
    {
     "name": "Glasgow Airport",
@@ -92,7 +94,8 @@
     "lat": 55.871899,
     "lon": -4.43306,
     "type": "large_airport",
-    "distance_km": 76.3
+    "distance_km": 76.3,
+    "name_zh": "格拉斯哥国际机场"
    }
   ],
   "nearest_airport_km": 9.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

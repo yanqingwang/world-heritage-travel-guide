@@ -3,8 +3,8 @@
  "unesco_id": "1382",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 760,
- "popularity_score": 2434,
+ "popularity_rank": 803,
+ "popularity_score": 2710,
  "country": "MN",
  "country_zh": "蒙古国",
  "country_en": "Mongolia",
@@ -72,7 +72,8 @@
     "lat": 48.993301,
     "lon": 89.922501,
     "type": "medium_airport",
-    "distance_km": 117.3
+    "distance_km": 117.3,
+    "name_zh": "乌列盖机场"
    },
    {
     "name": "Burqin Kanas Airport",
@@ -82,7 +83,8 @@
     "lat": 48.2223,
     "lon": 86.9959,
     "type": "medium_airport",
-    "distance_km": 160.6
+    "distance_km": 160.6,
+    "name_zh": "布尔津喀纳斯机场"
    },
    {
     "name": "Altay Xuedu Airport",
@@ -92,7 +94,8 @@
     "lat": 47.749886,
     "lon": 88.085808,
     "type": "medium_airport",
-    "distance_km": 177.6
+    "distance_km": 177.6,
+    "name_zh": "阿勒泰机场"
    }
   ],
   "nearest_airport_km": 117.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

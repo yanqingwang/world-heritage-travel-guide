@@ -3,7 +3,7 @@
  "unesco_id": "621",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1117,
+ "popularity_rank": 1122,
  "popularity_score": null,
  "country": "CZ",
  "country_zh": "捷克",
@@ -82,7 +82,8 @@
     "lat": 49.151276,
     "lon": 16.693972,
     "type": "medium_airport",
-    "distance_km": 90.5
+    "distance_km": 90.5,
+    "name_zh": "布尔诺-图拉尼机场"
    },
    {
     "name": "Pardubice Airport",
@@ -92,7 +93,8 @@
     "lat": 50.015049,
     "lon": 15.73981,
     "type": "large_airport",
-    "distance_km": 94.8
+    "distance_km": 94.8,
+    "name_zh": "帕尔杜比采机场"
    }
   ],
   "nearest_airport_km": 78.9,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

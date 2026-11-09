@@ -3,8 +3,8 @@
  "unesco_id": "1138",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 484,
- "popularity_score": 11855,
+ "popularity_rank": 515,
+ "popularity_score": 12921,
  "country": "PA",
  "country_zh": "巴拿马",
  "country_en": "Panama",
@@ -72,7 +72,8 @@
     "lat": 8.388983,
     "lon": -82.436425,
     "type": "medium_airport",
-    "distance_km": 123.6
+    "distance_km": 123.6,
+    "name_zh": "Enrique Malek国际机场"
    },
    {
     "name": "Alonso Valderrama Airport",
@@ -82,7 +83,8 @@
     "lat": 7.98784,
     "lon": -80.409837,
     "type": "medium_airport",
-    "distance_km": 162.2
+    "distance_km": 162.2,
+    "name_zh": "Chitré Alonso Valderrama机场"
    },
    {
     "name": "Capt. J. Montenegro Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

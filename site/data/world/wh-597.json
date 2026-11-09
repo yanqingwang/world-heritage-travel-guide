@@ -3,7 +3,7 @@
  "unesco_id": "597",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1108,
+ "popularity_rank": 667,
  "popularity_score": 6826,
  "country": "RO",
  "country_zh": "罗马尼亚",
@@ -72,7 +72,8 @@
     "lat": 45.785841,
     "lon": 24.086666,
     "type": "large_airport",
-    "distance_km": 68.9
+    "distance_km": 68.9,
+    "name_zh": "锡比乌"
    },
    {
     "name": "Craiova International Airport",
@@ -82,7 +83,8 @@
     "lat": 44.3181,
     "lon": 23.888599,
     "type": "large_airport",
-    "distance_km": 95.0
+    "distance_km": 95.0,
+    "name_zh": "克拉约瓦国际机场"
    },
    {
     "name": "Brașov-Ghimbav International Airport",
@@ -92,7 +94,8 @@
     "lat": 45.70558,
     "lon": 25.522871,
     "type": "large_airport",
-    "distance_km": 132.5
+    "distance_km": 132.5,
+    "name_zh": "布拉索夫-金巴夫国际机场"
    }
   ],
   "nearest_airport_km": 68.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

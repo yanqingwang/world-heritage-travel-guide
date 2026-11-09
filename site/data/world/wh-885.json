@@ -3,8 +3,8 @@
  "unesco_id": "885",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 202,
- "popularity_score": 45346,
+ "popularity_rank": 220,
+ "popularity_score": 50084,
  "country": "UZ",
  "country_zh": "乌兹别克斯坦",
  "country_en": "Uzbekistan",
@@ -96,7 +96,8 @@
     "lat": 39.701842,
     "lon": 66.981467,
     "type": "large_airport",
-    "distance_km": 73.6
+    "distance_km": 73.6,
+    "name_zh": "撒马尔罕国际机场"
    },
    {
     "name": "Karshi Airport",
@@ -106,7 +107,8 @@
     "lat": 38.802246,
     "lon": 65.773068,
     "type": "small_airport",
-    "distance_km": 95.8
+    "distance_km": 95.8,
+    "name_zh": "卡尔西机场"
    },
    {
     "name": "Zomin Airport",
@@ -286,5 +288,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

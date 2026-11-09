@@ -3,7 +3,7 @@
  "unesco_id": "400",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1072,
+ "popularity_rank": 1083,
  "popularity_score": null,
  "country": "HU",
  "country_zh": "匈牙利",
@@ -72,7 +72,8 @@
     "lat": 47.43018,
     "lon": 19.262393,
     "type": "large_airport",
-    "distance_km": 15.5
+    "distance_km": 15.5,
+    "name_zh": "布达佩斯李斯特·费伦茨国际机场"
    },
    {
     "name": "Sliač Airport",
@@ -82,7 +83,8 @@
     "lat": 48.63779830932617,
     "lon": 19.13409996032715,
     "type": "medium_airport",
-    "distance_km": 128.6
+    "distance_km": 128.6,
+    "name_zh": "斯利亚奇机场"
    },
    {
     "name": "M. R. Štefánik Airport",
@@ -92,7 +94,8 @@
     "lat": 48.1702,
     "lon": 17.2127,
     "type": "large_airport",
-    "distance_km": 158.4
+    "distance_km": 158.4,
+    "name_zh": "布拉提斯拉瓦机场"
    }
   ],
   "nearest_airport_km": 15.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

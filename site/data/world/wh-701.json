@@ -3,8 +3,8 @@
  "unesco_id": "701",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 262,
- "popularity_score": 30259,
+ "popularity_rank": 281,
+ "popularity_score": 33291,
  "country": "VE",
  "country_zh": "委内瑞拉",
  "country_en": "Venezuela",
@@ -106,7 +106,8 @@
     "lat": 6.231989,
     "lon": -62.85485,
     "type": "medium_airport",
-    "distance_km": 155.0
+    "distance_km": 155.0,
+    "name_zh": "Canaima机场"
    },
    {
     "name": "Kaieteur Airport",
@@ -196,5 +197,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

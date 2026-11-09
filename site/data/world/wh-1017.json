@@ -3,8 +3,8 @@
  "unesco_id": "1017",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 688,
- "popularity_score": 4470,
+ "popularity_rank": 735,
+ "popularity_score": 4810,
  "country": "SR",
  "country_zh": "苏里南",
  "country_en": "Suriname",
@@ -72,7 +72,8 @@
     "lat": 4.111359,
     "lon": -54.672766,
     "type": "small_airport",
-    "distance_km": 203.0
+    "distance_km": 203.0,
+    "name_zh": "德里塔贝切机场"
    },
    {
     "name": "Wageningen Airstrip",
@@ -82,7 +83,8 @@
     "lat": 5.841252,
     "lon": -56.673247,
     "type": "small_airport",
-    "distance_km": 205.6
+    "distance_km": 205.6,
+    "name_zh": "瓦赫宁恩机场"
    },
    {
     "name": "Johan Adolf Pengel International Airport",
@@ -92,7 +94,8 @@
     "lat": 5.45283,
     "lon": -55.187801,
     "type": "large_airport",
-    "distance_km": 217.4
+    "distance_km": 217.4,
+    "name_zh": "约翰·阿道夫·彭格尔国际机场"
    }
   ],
   "nearest_airport_km": 203.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

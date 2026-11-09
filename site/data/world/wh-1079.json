@@ -3,8 +3,8 @@
  "unesco_id": "1079",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 720,
- "popularity_score": 3749,
+ "popularity_rank": 894,
+ "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -72,7 +72,8 @@
     "lat": 20.618779,
     "lon": -100.186449,
     "type": "large_airport",
-    "distance_km": 99.3
+    "distance_km": 99.3,
+    "name_zh": "克雷塔罗国际机场"
    },
    {
     "name": "Felipe Ángeles International Airport",
@@ -82,7 +83,8 @@
     "lat": 19.743824,
     "lon": -99.01507,
     "type": "large_airport",
-    "distance_km": 168.9
+    "distance_km": 168.9,
+    "name_zh": "墨西哥城圣塔卢西亚机场"
    },
    {
     "name": "Ponciano Arriaga International Airport",
@@ -92,7 +94,8 @@
     "lat": 22.262026,
     "lon": -100.935692,
     "type": "medium_airport",
-    "distance_km": 192.2
+    "distance_km": 192.2,
+    "name_zh": "圣路易斯波托西市"
    }
   ],
   "nearest_airport_km": 99.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

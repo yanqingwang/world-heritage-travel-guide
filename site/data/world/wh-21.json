@@ -3,8 +3,8 @@
  "unesco_id": "21",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 381,
- "popularity_score": 18384,
+ "popularity_rank": 411,
+ "popularity_score": 19692,
  "country": "SY",
  "country_zh": "叙利亚",
  "country_en": "Syria",
@@ -72,7 +72,8 @@
     "lat": 36.181262,
     "lon": 37.226869,
     "type": "large_airport",
-    "distance_km": 6.9
+    "distance_km": 6.9,
+    "name_zh": "阿勒颇国际机场"
    },
    {
     "name": "Hatay Airport",
@@ -82,7 +83,8 @@
     "lat": 36.36079,
     "lon": 36.285589,
     "type": "medium_airport",
-    "distance_km": 80.0
+    "distance_km": 80.0,
+    "name_zh": "哈塔伊机场"
    },
    {
     "name": "Gaziantep Oğuzeli International Airport",
@@ -92,7 +94,8 @@
     "lat": 36.947201,
     "lon": 37.478699,
     "type": "large_airport",
-    "distance_km": 89.9
+    "distance_km": 89.9,
+    "name_zh": "加济安泰普"
    }
   ],
   "nearest_airport_km": 6.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

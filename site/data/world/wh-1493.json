@@ -3,8 +3,8 @@
  "unesco_id": "1493",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 669,
- "popularity_score": 4908,
+ "popularity_rank": 708,
+ "popularity_score": 5379,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -72,7 +72,8 @@
     "lat": -19.63571,
     "lon": -43.966928,
     "type": "large_airport",
-    "distance_km": 24.1
+    "distance_km": 24.1,
+    "name_zh": "坦克雷多·内韦斯国际机场"
    },
    {
     "name": "Usiminas Airport",
@@ -92,7 +93,8 @@
     "lat": -21.513086,
     "lon": -43.173069,
     "type": "medium_airport",
-    "distance_km": 202.6
+    "distance_km": 202.6,
+    "name_zh": "左纳马塔地方机场"
    }
   ],
   "nearest_airport_km": 24.1,
@@ -171,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

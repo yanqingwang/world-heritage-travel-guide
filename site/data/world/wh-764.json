@@ -3,8 +3,8 @@
  "unesco_id": "764",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 266,
- "popularity_score": 29922,
+ "popularity_rank": 285,
+ "popularity_score": 32413,
  "country": "BZ",
  "country_zh": "伯利兹",
  "country_en": "Belize",
@@ -96,7 +96,8 @@
     "lat": 17.517239,
     "lon": -88.195775,
     "type": "medium_airport",
-    "distance_km": 32.1
+    "distance_km": 32.1,
+    "name_zh": "贝里斯市-市政"
    },
    {
     "name": "Dangriga Airport",
@@ -106,7 +107,8 @@
     "lat": 16.98251,
     "lon": -88.230988,
     "type": "medium_airport",
-    "distance_km": 36.4
+    "distance_km": 36.4,
+    "name_zh": "丹格里加机场"
    },
    {
     "name": "Philip S. W. Goldson International Airport",
@@ -116,7 +118,8 @@
     "lat": 17.539951,
     "lon": -88.303556,
     "type": "large_airport",
-    "distance_km": 40.7
+    "distance_km": 40.7,
+    "name_zh": "菲利普戈尔德森国际机场"
    }
   ],
   "nearest_airport_km": 32.1,
@@ -295,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

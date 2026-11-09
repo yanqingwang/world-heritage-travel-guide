@@ -3,8 +3,8 @@
  "unesco_id": "1602",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 730,
- "popularity_score": 3444,
+ "popularity_rank": 778,
+ "popularity_score": 3721,
  "country": "BF",
  "country_zh": "布基纳法索",
  "country_en": "Burkina Faso",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "BF-01",
- "subdivision_zh": "布克萊迪穆翁大區",
- "subdivision_en": "Boucle du Mouhoun",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "布基纳法索古冶铁遗址",
  "name_zh_source": "unesco_official",
  "name_en": "Ancient Ferrous Metallurgy Sites of Burkina Faso",
@@ -64,7 +64,8 @@
     "lat": 11.1601,
     "lon": -4.33097,
     "type": "large_airport",
-    "distance_km": 192.6
+    "distance_km": 192.6,
+    "name_zh": "博博迪乌拉索机场"
    },
    {
     "name": "Ouagadougou Thomas Sankara International Airport",
@@ -74,7 +75,8 @@
     "lat": 12.3532,
     "lon": -1.51242,
     "type": "large_airport",
-    "distance_km": 198.9
+    "distance_km": 198.9,
+    "name_zh": "瓦加杜古国际机场"
    },
    {
     "name": "Mopti Airport",
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

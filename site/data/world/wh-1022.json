@@ -3,8 +3,8 @@
  "unesco_id": "1022",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 380,
- "popularity_score": 18404,
+ "popularity_rank": 330,
+ "popularity_score": 26630,
  "country": "UG",
  "country_zh": "乌干达",
  "country_en": "Uganda",
@@ -72,7 +72,8 @@
     "lat": 0.042386,
     "lon": 32.443501,
     "type": "large_airport",
-    "distance_km": 34.1
+    "distance_km": 34.1,
+    "name_zh": "恩德培国际机场"
    },
    {
     "name": "Soroti Airport",
@@ -92,7 +93,8 @@
     "lat": -1.332,
     "lon": 31.8212,
     "type": "small_airport",
-    "distance_km": 201.9
+    "distance_km": 201.9,
+    "name_zh": "布科巴机场"
    }
   ],
   "nearest_airport_km": 34.1,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

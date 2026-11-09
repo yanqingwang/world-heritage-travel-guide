@@ -3,8 +3,8 @@
  "unesco_id": "384",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 716,
- "popularity_score": 3824,
+ "popularity_rank": 759,
+ "popularity_score": 4193,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 38.8913,
     "lon": -6.82133,
     "type": "medium_airport",
-    "distance_km": 75.6
+    "distance_km": 75.6,
+    "name_zh": "巴达霍斯机场"
    },
    {
     "name": "Salamanca Airport",
@@ -82,7 +83,8 @@
     "lat": 40.952099,
     "lon": -5.50199,
     "type": "medium_airport",
-    "distance_km": 180.1
+    "distance_km": 180.1,
+    "name_zh": "萨拉曼卡机场"
    },
    {
     "name": "Aerodromo Goncalves Lobato (Viseu Airport)",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

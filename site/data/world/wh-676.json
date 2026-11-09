@@ -3,7 +3,7 @@
  "unesco_id": "676",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1127,
+ "popularity_rank": 1132,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -72,7 +72,8 @@
     "lat": 22.894942,
     "lon": -102.687154,
     "type": "medium_airport",
-    "distance_km": 20.0
+    "distance_km": 20.0,
+    "name_zh": "萨卡特卡斯国际机场"
    },
    {
     "name": "Aguascalientes International Airport",
@@ -82,7 +83,8 @@
     "lat": 21.699589,
     "lon": -102.318372,
     "type": "large_airport",
-    "distance_km": 121.0
+    "distance_km": 121.0,
+    "name_zh": "阿瓜斯卡连特斯国际机场"
    },
    {
     "name": "Ponciano Arriaga International Airport",
@@ -92,7 +94,8 @@
     "lat": 22.262026,
     "lon": -100.935692,
     "type": "medium_airport",
-    "distance_km": 175.1
+    "distance_km": 175.1,
+    "name_zh": "圣路易斯波托西市"
    }
   ],
   "nearest_airport_km": 20.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

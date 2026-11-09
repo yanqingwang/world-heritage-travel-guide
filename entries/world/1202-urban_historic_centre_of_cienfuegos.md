@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iv)"
 lat: 22.14555556
 lon: -80.43638889
-updated_at: "2026-11-09T12:01:03Z"
+updated_at: "2026-11-09T12:50:23Z"
 ---
 
 # 西恩富戈斯古城 / Urban Historic Centre of Cienfuegos

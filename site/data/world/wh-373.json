@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 5,
- "popularity_score": 1207132,
+ "popularity_score": 1324527,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -96,7 +96,8 @@
     "lat": 50.950298,
     "lon": -1.3568,
     "type": "medium_airport",
-    "distance_km": 41.5
+    "distance_km": 41.5,
+    "name_zh": "南安普敦机场"
    },
    {
     "name": "Bournemouth Airport",
@@ -106,7 +107,8 @@
     "lat": 50.780483,
     "lon": -1.839576,
     "type": "medium_airport",
-    "distance_km": 44.3
+    "distance_km": 44.3,
+    "name_zh": "伯恩茅斯机场"
    },
    {
     "name": "Bristol Airport",
@@ -116,7 +118,8 @@
     "lat": 51.382326,
     "lon": -2.716453,
     "type": "large_airport",
-    "distance_km": 65.9
+    "distance_km": 65.9,
+    "name_zh": "布里斯托机场"
    }
   ],
   "nearest_airport_km": 41.5,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

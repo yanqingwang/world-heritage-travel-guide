@@ -3,7 +3,7 @@
  "unesco_id": "216",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1029,
+ "popularity_rank": 1045,
  "popularity_score": null,
  "country": "BG",
  "country_zh": "保加利亚",
@@ -72,7 +72,8 @@
     "lat": 42.696357,
     "lon": 23.417671,
     "type": "large_airport",
-    "distance_km": 64.5
+    "distance_km": 64.5,
+    "name_zh": "索菲亚机场"
    },
    {
     "name": "Plovdiv International Airport",
@@ -82,7 +83,8 @@
     "lat": 42.067799,
     "lon": 24.8508,
     "type": "large_airport",
-    "distance_km": 119.8
+    "distance_km": 119.8,
+    "name_zh": "普罗夫迪夫机场"
    },
    {
     "name": "Skopje International Airport",
@@ -92,7 +94,8 @@
     "lat": 41.958087,
     "lon": 21.622581,
     "type": "large_airport",
-    "distance_km": 147.8
+    "distance_km": 147.8,
+    "name_zh": "史高比耶机场"
    }
   ],
   "nearest_airport_km": 64.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

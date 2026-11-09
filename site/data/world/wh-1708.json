@@ -3,8 +3,8 @@
  "unesco_id": "1708",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 43,
- "popularity_score": 212566,
+ "popularity_rank": 52,
+ "popularity_score": 233631,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -96,7 +96,8 @@
     "lat": 41.798769,
     "lon": 12.595331,
     "type": "large_airport",
-    "distance_km": 7.0
+    "distance_km": 7.0,
+    "name_zh": "罗马钱皮诺机场"
    },
    {
     "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
@@ -106,7 +107,8 @@
     "lat": 41.804532,
     "lon": 12.251998,
     "type": "large_airport",
-    "distance_km": 23.6
+    "distance_km": 23.6,
+    "name_zh": "罗马—菲乌米奇诺机场"
    },
    {
     "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
@@ -116,7 +118,8 @@
     "lat": 43.095901,
     "lon": 12.5132,
     "type": "large_airport",
-    "distance_km": 139.5
+    "distance_km": 139.5,
+    "name_zh": "佩鲁贾"
    }
   ],
   "nearest_airport_km": 7.0,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

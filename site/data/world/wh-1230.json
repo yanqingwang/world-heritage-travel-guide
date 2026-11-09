@@ -3,8 +3,8 @@
  "unesco_id": "1230",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 522,
- "popularity_score": 10539,
+ "popularity_rank": 555,
+ "popularity_score": 11408,
  "country": "KG",
  "country_zh": "吉尔吉斯斯坦",
  "country_en": "Kyrgyzstan",
@@ -72,7 +72,8 @@
     "lat": 40.609001,
     "lon": 72.793297,
     "type": "large_airport",
-    "distance_km": 8.9
+    "distance_km": 8.9,
+    "name_zh": "奥什机场"
    },
    {
     "name": "Andijan International Airport",
@@ -82,7 +83,8 @@
     "lat": 40.727699,
     "lon": 72.293999,
     "type": "medium_airport",
-    "distance_km": 46.8
+    "distance_km": 46.8,
+    "name_zh": "安集延机场"
    },
    {
     "name": "Fergana International Airport",
@@ -92,7 +94,8 @@
     "lat": 40.358799,
     "lon": 71.745003,
     "type": "medium_airport",
-    "distance_km": 89.9
+    "distance_km": 89.9,
+    "name_zh": "费尔干纳国际机场"
    }
   ],
   "nearest_airport_km": 8.9,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

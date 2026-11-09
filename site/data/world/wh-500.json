@@ -3,8 +3,8 @@
  "unesco_id": "500",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 489,
- "popularity_score": 11651,
+ "popularity_rank": 514,
+ "popularity_score": 12956,
  "country": "PE",
  "country_zh": "秘鲁",
  "country_en": "Peru",
@@ -72,7 +72,8 @@
     "lat": -12.0219,
     "lon": -77.114305,
     "type": "large_airport",
-    "distance_km": 8.4
+    "distance_km": 8.4,
+    "name_zh": "豪尔赫·查韦斯国际机场"
    },
    {
     "name": "Francisco Carle Airport",
@@ -82,7 +83,8 @@
     "lat": -11.7831001282,
     "lon": -75.47339630130001,
     "type": "medium_airport",
-    "distance_km": 173.4
+    "distance_km": 173.4,
+    "name_zh": "豪哈"
    },
    {
     "name": "Alferez Fap David Figueroa Fernandini Airport",
@@ -92,7 +94,8 @@
     "lat": -9.878809928894043,
     "lon": -76.20480346679688,
     "type": "medium_airport",
-    "distance_km": 258.3
+    "distance_km": 258.3,
+    "name_zh": "瓦努科"
    }
   ],
   "nearest_airport_km": 8.4,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

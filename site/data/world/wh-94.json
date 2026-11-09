@@ -3,8 +3,8 @@
  "unesco_id": "94",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 303,
- "popularity_score": 25209,
+ "popularity_rank": 327,
+ "popularity_score": 27510,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -72,7 +72,8 @@
     "lat": 45.669362,
     "lon": 9.708851,
     "type": "large_airport",
-    "distance_km": 63.4
+    "distance_km": 63.4,
+    "name_zh": "卡拉瓦乔二世国际机场"
    },
    {
     "name": "Brescia Gabriele d'Annunzio Airport",
@@ -82,7 +83,8 @@
     "lat": 45.428902,
     "lon": 10.3306,
     "type": "medium_airport",
-    "distance_km": 66.2
+    "distance_km": 66.2,
+    "name_zh": "布雷西亚机场"
    },
    {
     "name": "Verona Villafranca Valerio Catullo Airport",
@@ -92,7 +94,8 @@
     "lat": 45.394955,
     "lon": 10.887303,
     "type": "large_airport",
-    "distance_km": 81.4
+    "distance_km": 81.4,
+    "name_zh": "维罗纳维拉弗兰卡机场"
    }
   ],
   "nearest_airport_km": 63.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

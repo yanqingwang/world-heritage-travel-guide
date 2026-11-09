@@ -3,7 +3,7 @@
  "unesco_id": "476",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1080,
+ "popularity_rank": 1091,
  "popularity_score": null,
  "country": "MW",
  "country_zh": "马拉维",
@@ -64,7 +64,8 @@
     "lat": -13.7894,
     "lon": 33.780998,
     "type": "large_airport",
-    "distance_km": 77.6
+    "distance_km": 77.6,
+    "name_zh": "利隆圭国际机场"
    },
    {
     "name": "Lichinga Airport",
@@ -84,7 +85,8 @@
     "lat": -15.677189,
     "lon": 34.972319,
     "type": "large_airport",
-    "distance_km": 170.9
+    "distance_km": 170.9,
+    "name_zh": "Chileka国际机场"
    }
   ],
   "nearest_airport_km": 77.6,
@@ -165,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

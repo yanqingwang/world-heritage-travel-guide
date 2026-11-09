@@ -3,8 +3,8 @@
  "unesco_id": "428",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 17,
- "popularity_score": 598316,
+ "popularity_rank": 18,
+ "popularity_score": 650208,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -88,7 +88,8 @@
     "lat": 51.382326,
     "lon": -2.716453,
     "type": "large_airport",
-    "distance_km": 24.8
+    "distance_km": 24.8,
+    "name_zh": "布里斯托机场"
    },
    {
     "name": "Cardiff International Airport",
@@ -98,7 +99,8 @@
     "lat": 51.396702,
     "lon": -3.34333,
     "type": "large_airport",
-    "distance_km": 68.3
+    "distance_km": 68.3,
+    "name_zh": "卡地夫国际机场"
    },
    {
     "name": "Bournemouth Airport",
@@ -108,7 +110,8 @@
     "lat": 50.780483,
     "lon": -1.839576,
     "type": "medium_airport",
-    "distance_km": 76.1
+    "distance_km": 76.1,
+    "name_zh": "伯恩茅斯机场"
    }
   ],
   "nearest_airport_km": 24.8,
@@ -326,5 +329,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

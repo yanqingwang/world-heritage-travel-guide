@@ -3,8 +3,8 @@
  "unesco_id": "916",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 103,
- "popularity_score": 111561,
+ "popularity_rank": 114,
+ "popularity_score": 121931,
  "country": "ZA",
  "country_zh": "南非",
  "country_en": "South Africa",
@@ -96,7 +96,8 @@
     "lat": -33.97403,
     "lon": 18.604333,
     "type": "large_airport",
-    "distance_km": 28.7
+    "distance_km": 28.7,
+    "name_zh": "开普敦国际机场"
    },
    {
     "name": "George Airport",
@@ -106,7 +107,8 @@
     "lat": -34.0056,
     "lon": 22.378902,
     "type": "large_airport",
-    "distance_km": 370.6
+    "distance_km": 370.6,
+    "name_zh": "乔治机场"
    }
   ],
   "nearest_airport_km": 28.7,
@@ -318,5 +320,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

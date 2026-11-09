@@ -3,7 +3,7 @@
  "unesco_id": "1225",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 881,
+ "popularity_rank": 918,
  "popularity_score": null,
  "country": "BF",
  "country_zh": "布基纳法索",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "BF-13",
- "subdivision_zh": "西南大區",
- "subdivision_en": "Southwest",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "洛罗佩尼遗址",
  "name_zh_source": "curated",
  "name_en": "Ruins of Loropéni",
@@ -64,7 +64,8 @@
     "lat": 11.1601,
     "lon": -4.33097,
     "type": "large_airport",
-    "distance_km": 126.4
+    "distance_km": 126.4,
+    "name_zh": "博博迪乌拉索机场"
    },
    {
     "name": "Korhogo Airport",
@@ -84,7 +85,8 @@
     "lat": 9.553909,
     "lon": -0.86606,
     "type": "large_airport",
-    "distance_km": 307.1
+    "distance_km": 307.1,
+    "name_zh": "塔马利"
    }
   ],
   "nearest_airport_km": 126.4,
@@ -162,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

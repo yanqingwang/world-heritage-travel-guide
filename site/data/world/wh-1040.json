@@ -2,8 +2,8 @@
  "id": "wh-1040",
  "unesco_id": "1040",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 846,
+ "tier": "full",
+ "popularity_rank": 49,
  "popularity_score": 239451,
  "country": "IL",
  "country_zh": "以色列",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1040.jpg",
-   "title": "Masada",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1040",
-   "provider": "unesco"
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Masada_coin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Masada coin.jpg",
+   "author": "Jack1956 at English Wikipedia",
+   "license": "CC BY 3.0",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "source": "https://commons.wikimedia.org/wiki/File:Masada_coin.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/-%D7%9E%D7%A6%D7%93%D7%94-_%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-_%D7%A9%D7%A7%D7%99%D7%A2%D7%94.jpg/1280px--%D7%9E%D7%A6%D7%93%D7%94-_%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-_%D7%A9%D7%A7%D7%99%D7%A2%D7%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "-מצדה- לקראת- שקיעה.jpg",
+   "author": "אופיר קדם",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:-%D7%9E%D7%A6%D7%93%D7%94-_%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-_%D7%A9%D7%A7%D7%99%D7%A2%D7%94.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/-%D7%9E%D7%A6%D7%93%D7%94-%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-%D7%A9%D7%A7%D7%99%D7%A2%D7%94-.jpg/1280px--%D7%9E%D7%A6%D7%93%D7%94-%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-%D7%A9%D7%A7%D7%99%D7%A2%D7%94-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "-מצדה-לקראת-שקיעה-.jpg",
+   "author": "אופיר קדם",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:-%D7%9E%D7%A6%D7%93%D7%94-%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-%D7%A9%D7%A7%D7%99%D7%A2%D7%94-.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/05._%D0%9F%D1%96%D0%B4%D0%B9%D0%BE%D0%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "05. Підйом.jpg",
+   "author": "Светлана Петровская",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:05._%D0%9F%D1%96%D0%B4%D0%B9%D0%BE%D0%BC.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1040",
@@ -72,7 +96,8 @@
     "lat": 31.7226009369,
     "lon": 35.9931983948,
     "type": "large_airport",
-    "distance_km": 75.6
+    "distance_km": 75.6,
+    "name_zh": "阿勒娅王后国际机场"
    },
    {
     "name": "Ben Gurion International Airport",
@@ -82,7 +107,8 @@
     "lat": 32.011398,
     "lon": 34.8867,
     "type": "large_airport",
-    "distance_km": 89.1
+    "distance_km": 89.1,
+    "name_zh": "本-古里安国际机场"
    },
    {
     "name": "Marka International (Amman Civil) Airport",
@@ -92,15 +118,81 @@
     "lat": 31.9727,
     "lon": 35.9916,
     "type": "large_airport",
-    "distance_km": 94.8
+    "distance_km": 94.8,
+    "name_zh": "马尔卡国际机场"
    }
   ],
   "nearest_airport_km": 75.6,
   "distance_beijing_km": 7069.9,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "דימונה",
+    "name_en": "Dimona",
+    "lat": 31.0689229,
+    "lon": 35.0118331,
+    "distance_km": 42.6,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "فندق العائلة المقدسة",
+   "name_en": "Holy Family Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 31.7056967,
+   "lon": 35.2051383,
+   "distance_km": 45.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dead Sea Spa Hotel",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 31.7139805,
+   "lon": 35.5866667,
+   "distance_km": 49.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wadi Mujib Chalets",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 31.4702538,
+   "lon": 35.568775,
+   "distance_km": 26.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Crowne Plaza",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.7068514,
+   "lon": 35.5839231,
+   "distance_km": 48.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Kempinski Hotel Ishtar Dead Sea",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.7151484,
+   "lon": 35.5859504,
+   "distance_km": 49.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IL",
   "country_zh": "以色列",
@@ -173,5 +265,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

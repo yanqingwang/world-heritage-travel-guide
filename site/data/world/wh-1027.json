@@ -3,7 +3,7 @@
  "unesco_id": "1027",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 838,
+ "popularity_rank": 390,
  "popularity_score": 21028,
  "country": "SE",
  "country_zh": "瑞典",
@@ -72,7 +72,8 @@
     "lat": 60.422001,
     "lon": 15.5152,
     "type": "medium_airport",
-    "distance_km": 21.3
+    "distance_km": 21.3,
+    "name_zh": "达拉机场"
    },
    {
     "name": "Mora Airport",
@@ -82,7 +83,8 @@
     "lat": 60.957901,
     "lon": 14.5114,
     "type": "medium_airport",
-    "distance_km": 72.3
+    "distance_km": 72.3,
+    "name_zh": "莫拉-锡利扬机场"
    },
    {
     "name": "Stockholm Västerås Airport",
@@ -92,7 +94,8 @@
     "lat": 59.589401,
     "lon": 16.6336,
     "type": "large_airport",
-    "distance_km": 125.8
+    "distance_km": 125.8,
+    "name_zh": "斯德哥尔摩－韦斯特罗斯机场"
    }
   ],
   "nearest_airport_km": 21.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

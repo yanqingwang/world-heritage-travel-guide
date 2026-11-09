@@ -3,8 +3,8 @@
  "unesco_id": "1263",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 332,
- "popularity_score": 21962,
+ "popularity_rank": 361,
+ "popularity_score": 23525,
  "country": "YE",
  "country_zh": "也门",
  "country_en": "Yemen",
@@ -72,7 +72,8 @@
     "lat": 12.632093,
     "lon": 53.906173,
     "type": "medium_airport",
-    "distance_km": 56.9
+    "distance_km": 56.9,
+    "name_zh": "索科特拉机场"
    }
   ],
   "nearest_airport_km": 56.9,
@@ -151,5 +152,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

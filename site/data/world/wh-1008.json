@@ -3,8 +3,8 @@
  "unesco_id": "1008",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 743,
- "popularity_score": 3181,
+ "popularity_rank": 788,
+ "popularity_score": 3499,
  "country": "CU",
  "country_zh": "古巴",
  "country_en": "Cuba",
@@ -72,7 +72,8 @@
     "lat": 19.97474,
     "lon": -75.835504,
     "type": "large_airport",
-    "distance_km": 46.8
+    "distance_km": 46.8,
+    "name_zh": "圣地亚哥-德古巴"
    },
    {
     "name": "Gustavo Rizo Airport",
@@ -82,7 +83,8 @@
     "lat": 20.365299224853516,
     "lon": -74.5062026977539,
     "type": "medium_airport",
-    "distance_km": 99.6
+    "distance_km": 99.6,
+    "name_zh": "Gustavo Rizo机场"
    },
    {
     "name": "Frank Pais International Airport",
@@ -92,7 +94,8 @@
     "lat": 20.785148,
     "lon": -76.315526,
     "type": "large_airport",
-    "distance_km": 127.8
+    "distance_km": 127.8,
+    "name_zh": "弗兰克帕里斯机场"
    }
   ],
   "nearest_airport_km": 46.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

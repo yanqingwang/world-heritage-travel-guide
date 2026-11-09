@@ -3,8 +3,8 @@
  "unesco_id": "242",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 34,
- "popularity_score": 293165,
+ "popularity_rank": 39,
+ "popularity_score": 325656,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -106,7 +106,8 @@
     "lat": 19.862875,
     "lon": 75.396312,
     "type": "medium_airport",
-    "distance_km": 83.1
+    "distance_km": 83.1,
+    "name_zh": "奥郎加巴德机场"
    },
    {
     "name": "Shirdi International Airport",
@@ -116,7 +117,8 @@
     "lat": 19.689211,
     "lon": 74.373655,
     "type": "large_airport",
-    "distance_km": 168.6
+    "distance_km": 168.6,
+    "name_zh": "舍地机场"
    }
   ],
   "nearest_airport_km": 46.1,
@@ -273,5 +275,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

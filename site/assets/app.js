@@ -520,7 +520,10 @@
       if (hsr) meta.push(`🚄 ${esc(hsr.name)} · ${fmtKm(hsr.distance_km)}`);
       else {
         const ap = (site.transport?.airports || [])[0];
-        if (ap) meta.push(`✈ ${esc(ap.iata || ap.name)} · ${fmtKm(ap.distance_km)}`);
+        if (ap) {
+          const apName = state.lang === "zh" ? (ap.name_zh || ap.name) : ap.name;
+          meta.push(`✈ ${esc(apName)}${ap.iata ? ` (${esc(ap.iata)})` : ""} · ${fmtKm(ap.distance_km)}`);
+        }
       }
     } else {
       if (site.transport?.distance_beijing_km != null) meta.push(`✈ ${fmtKm(site.transport.distance_beijing_km)} → ${state.lang === "zh" ? "北京" : "Beijing"}`);
@@ -655,8 +658,12 @@
     const rails = tr.railway_stations || [];
     const ferries = tr.ferry_terminals || [];
     const transportBlocks = [];
-    if (airports.length) transportBlocks.push(`<div class="panel"><h4>${t().labels.airport}</h4>${listHTML(airports, (a) =>
-      `<li><div class="name">${esc(a.name)} <small>${esc(a.iata || "")} ${esc(a.city || "")}</small></div><div class="dist">${fmtKm(a.distance_km)}</div></li>`)}</div>`);
+    if (airports.length) transportBlocks.push(`<div class="panel"><h4>${t().labels.airport}</h4>${listHTML(airports, (a) => {
+      const zh = state.lang === "zh" ? a.name_zh : "";
+      const primary = zh || a.name;
+      const secondary = zh ? a.name : "";
+      return `<li><div class="name">${esc(primary)}${secondary ? ` <small>${esc(secondary)}</small>` : ""} <small>${esc(a.iata || "")} ${esc(a.city || "")}</small></div><div class="dist">${fmtKm(a.distance_km)}</div></li>`;
+    })}</div>`);
     if (hs.length) transportBlocks.push(`<div class="panel"><h4>${t().labels.hsr}</h4>${listHTML(hs, (a) =>
       `<li><div class="name">${esc(a.name)} <small>${esc(a.name_en || "")}</small></div><div class="dist">${fmtKm(a.distance_km)}</div></li>`)}</div>`);
     if (rails.length) transportBlocks.push(`<div class="panel"><h4>${t().labels.rail}</h4>${listHTML(rails, (a) =>

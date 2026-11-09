@@ -2,9 +2,9 @@
  "id": "wh-29",
  "unesco_id": "29",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 298,
- "popularity_score": 26040,
+ "tier": "basic",
+ "popularity_rank": 310,
+ "popularity_score": 29085,
  "country": "PL",
  "country_zh": "波兰",
  "country_en": "Poland",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%27Horse_Carriages.JPG/1280px-%27Horse_Carriages.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "'Horse Carriages.JPG",
-   "author": "Rudolph.A.furtado",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:%27Horse_Carriages.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/0201_Krak%C3%B3w_2013.jpg/1280px-0201_Krak%C3%B3w_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "0201 Kraków 2013.jpg",
-   "author": "Silar",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:0201_Krak%C3%B3w_2013.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/0207_Krak%C3%B3w_2013.jpg/1280px-0207_Krak%C3%B3w_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "0207 Kraków 2013.jpg",
-   "author": "Silar",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:0207_Krak%C3%B3w_2013.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/20180711_141224_krakow_july_2018.jpg/1280px-20180711_141224_krakow_july_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "20180711 141224 krakow july 2018.jpg",
-   "author": "Rakoon",
-   "license": "CC0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:20180711_141224_krakow_july_2018.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_29.jpg",
+   "title": "Historic Centre of Kraków",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/29",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/29",
@@ -96,7 +72,8 @@
     "lat": 50.077702,
     "lon": 19.7848,
     "type": "large_airport",
-    "distance_km": 11.0
+    "distance_km": 11.0,
+    "name_zh": "克拉科夫"
    },
    {
     "name": "Katowice Wojciech Korfanty International Airport",
@@ -106,7 +83,8 @@
     "lat": 50.476015,
     "lon": 19.080705,
     "type": "large_airport",
-    "distance_km": 76.3
+    "distance_km": 76.3,
+    "name_zh": "卡托维治"
    },
    {
     "name": "Poprad-Tatry Airport",
@@ -116,137 +94,16 @@
     "lat": 49.070994,
     "lon": 20.241394,
     "type": "medium_airport",
-    "distance_km": 112.4
+    "distance_km": 112.4,
+    "name_zh": "波普拉德机场"
    }
   ],
   "nearest_airport_km": 11.0,
   "distance_beijing_km": 7135.8,
-  "ferry_terminals": [
-   {
-    "name": "Most Kotlarski",
-    "name_en": null,
-    "lat": 50.0519138,
-    "lon": 19.9605668,
-    "distance_km": 2.0,
-    "operator": null
-   },
-   {
-    "name": "Most Piłsudskiego",
-    "name_en": null,
-    "lat": 50.0447807,
-    "lon": 19.9448655,
-    "distance_km": 2.0,
-    "operator": "Krakowski Tramwaj Wodny"
-   },
-   {
-    "name": "Stopień Dąbie",
-    "name_en": null,
-    "lat": 50.0541659,
-    "lon": 19.9754165,
-    "distance_km": 2.9,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Kraków Główny",
-    "name_en": "Krakow Main Station",
-    "lat": 50.0684238,
-    "lon": 19.9478862,
-    "distance_km": 1.1,
-    "operator": "PKP Polskie Linie Kolejowe"
-   },
-   {
-    "name": "Kraków Bonarka",
-    "name_en": null,
-    "lat": 50.0298423,
-    "lon": 19.9464698,
-    "distance_km": 3.7,
-    "operator": "PKP Polskie Linie Kolejowe"
-   },
-   {
-    "name": "Kraków Płaszów",
-    "name_en": null,
-    "lat": 50.0350214,
-    "lon": 19.9747852,
-    "distance_km": 4.0,
-    "operator": "PKP Polskie Linie Kolejowe"
-   },
-   {
-    "name": "Kraków Mydlniki",
-    "name_en": null,
-    "lat": 50.0835874,
-    "lon": 19.8597855,
-    "distance_km": 6.0,
-    "operator": "PKP Polskie Linie Kolejowe"
-   },
-   {
-    "name": "Kraków Batowice",
-    "name_en": null,
-    "lat": 50.1075321,
-    "lon": 19.9954682,
-    "distance_km": 6.6,
-    "operator": "PKP Polskie Linie Kolejowe"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hotel Saski Krakow, Curio Collection by Hilton",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Curio Collection",
-   "lat": 50.0633379,
-   "lon": 19.9374505,
-   "distance_km": 0.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "The Bonerowski Palace",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 50.0625916,
-   "lon": 19.9382762,
-   "distance_km": 0.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Grand Hotel",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 50.0636094,
-   "lon": 19.9377729,
-   "distance_km": 0.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Wyndham Grand Krakow Old Town",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Wyndham Grand",
-   "lat": 50.0638819,
-   "lon": 19.9404196,
-   "distance_km": 0.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Radisson Blu",
-   "name_en": null,
-   "stars": 5,
-   "brand": "Radisson Blu",
-   "lat": 50.0582578,
-   "lon": 19.9330149,
-   "distance_km": 0.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "PL",
   "country_zh": "波兰",
@@ -318,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

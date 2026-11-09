@@ -3,8 +3,8 @@
  "unesco_id": "886",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 50,
- "popularity_score": 207050,
+ "popularity_rank": 53,
+ "popularity_score": 233177,
  "country": "TM",
  "country_zh": "土库曼斯坦",
  "country_en": "Turkmenistan",
@@ -96,7 +96,8 @@
     "lat": 37.62353,
     "lon": 61.895668,
     "type": "medium_airport",
-    "distance_km": 26.5
+    "distance_km": 26.5,
+    "name_zh": "马雷国际机场"
    },
    {
     "name": "Türkmenabat International Airport",
@@ -106,7 +107,8 @@
     "lat": 38.930662,
     "lon": 63.563982,
     "type": "large_airport",
-    "distance_km": 184.9
+    "distance_km": 184.9,
+    "name_zh": "土库曼纳巴德机场"
    },
    {
     "name": "Mashhad International Airport",
@@ -116,7 +118,8 @@
     "lat": 36.234821,
     "lon": 59.642949,
     "type": "large_airport",
-    "distance_km": 276.6
+    "distance_km": 276.6,
+    "name_zh": "沙希德·哈希米内贾德国际机场"
    }
   ],
   "nearest_airport_km": 26.5,
@@ -294,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

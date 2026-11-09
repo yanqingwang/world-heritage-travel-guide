@@ -3,7 +3,7 @@
  "unesco_id": "1564",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 970,
+ "popularity_rank": 986,
  "popularity_score": null,
  "country": "CA",
  "country_zh": "加拿大",
@@ -64,7 +64,8 @@
     "lat": 64.04309844970703,
     "lon": -139.1280059814453,
     "type": "medium_airport",
-    "distance_km": 7.9
+    "distance_km": 7.9,
+    "name_zh": "道森市机场"
    },
    {
     "name": "Eagle Airport",
@@ -74,7 +75,8 @@
     "lat": 64.778003,
     "lon": -141.150455,
     "type": "small_airport",
-    "distance_km": 134.8
+    "distance_km": 134.8,
+    "name_zh": "伊格尔机场"
    },
    {
     "name": "Chicken Airport",
@@ -84,7 +86,8 @@
     "lat": 64.066495,
     "lon": -141.951342,
     "type": "small_airport",
-    "distance_km": 143.9
+    "distance_km": 143.9,
+    "name_zh": "奇金机场"
    }
   ],
   "nearest_airport_km": 7.9,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

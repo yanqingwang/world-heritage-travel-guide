@@ -3,8 +3,8 @@
  "unesco_id": "692",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 609,
- "popularity_score": 6733,
+ "popularity_rank": 655,
+ "popularity_score": 7223,
  "country": "CG",
  "country_zh": "刚果共和国",
  "country_en": "Republic of the Congo",
@@ -82,7 +82,8 @@
     "lat": -1.65616,
     "lon": 13.438,
     "type": "medium_airport",
-    "distance_km": 317.8
+    "distance_km": 317.8,
+    "name_zh": "弗朗斯维尔机场"
    },
    {
     "name": "Oyem Airport",
@@ -92,7 +93,8 @@
     "lat": 1.5431100130081177,
     "lon": 11.581399917602539,
     "type": "medium_airport",
-    "distance_km": 378.1
+    "distance_km": 378.1,
+    "name_zh": "奥耶姆机场"
    }
   ],
   "nearest_airport_km": 224.7,
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

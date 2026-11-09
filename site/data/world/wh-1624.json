@@ -3,7 +3,7 @@
  "unesco_id": "1624",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 980,
+ "popularity_rank": 996,
  "popularity_score": null,
  "country": "PE",
  "country_zh": "秘鲁",
@@ -72,7 +72,8 @@
     "lat": -9.14961,
     "lon": -78.523804,
     "type": "medium_airport",
-    "distance_km": 55.2
+    "distance_km": 55.2,
+    "name_zh": "Tnte. FAP Jaime Montreuil Morales机场"
    },
    {
     "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
@@ -82,7 +83,8 @@
     "lat": -8.082382,
     "lon": -79.108821,
     "type": "large_airport",
-    "distance_km": 190.0
+    "distance_km": 190.0,
+    "name_zh": "特鲁希略"
    },
    {
     "name": "Alferez Fap David Figueroa Fernandini Airport",
@@ -92,7 +94,8 @@
     "lat": -9.878809928894043,
     "lon": -76.20480346679688,
     "type": "medium_airport",
-    "distance_km": 225.5
+    "distance_km": 225.5,
+    "name_zh": "瓦努科"
    }
   ],
   "nearest_airport_km": 55.2,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

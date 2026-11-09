@@ -3,8 +3,8 @@
  "unesco_id": "744",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 519,
- "popularity_score": 10580,
+ "popularity_rank": 550,
+ "popularity_score": 11582,
  "country": "CO",
  "country_zh": "哥伦比亚",
  "country_en": "Colombia",
@@ -82,7 +82,8 @@
     "lat": 1.58919,
     "lon": -75.5644,
     "type": "medium_airport",
-    "distance_km": 87.7
+    "distance_km": 87.7,
+    "name_zh": "Gustavo Artunduaga Paredes机场"
    },
    {
     "name": "Antonio Nariño Airport",
@@ -172,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

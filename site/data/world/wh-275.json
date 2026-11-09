@@ -3,8 +3,8 @@
  "unesco_id": "275",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 369,
- "popularity_score": 19073,
+ "popularity_rank": 397,
+ "popularity_score": 20795,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -77,7 +77,8 @@
     "lat": -27.227537,
     "lon": -55.837584,
     "type": "large_airport",
-    "distance_km": 30.4
+    "distance_km": 30.4,
+    "name_zh": "Teniente Amin Ayub Gonzalez机场"
    },
    {
     "name": "Libertador Gral D Jose De San Martin Airport",
@@ -87,7 +88,8 @@
     "lat": -27.3858,
     "lon": -55.9707,
     "type": "medium_airport",
-    "distance_km": 45.7
+    "distance_km": 45.7,
+    "name_zh": "胡塞·德·圣马丁解放者将军机场"
    },
    {
     "name": "Luis Alberto Lehr Airport",
@@ -97,7 +99,8 @@
     "lat": -27.90658,
     "lon": -54.520628,
     "type": "small_airport",
-    "distance_km": 123.2
+    "distance_km": 123.2,
+    "name_zh": "圣罗莎机场"
    }
   ],
   "nearest_airport_km": 30.4,
@@ -187,5 +190,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

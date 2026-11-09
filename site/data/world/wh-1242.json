@@ -3,8 +3,8 @@
  "unesco_id": "1242",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 271,
- "popularity_score": 29379,
+ "popularity_rank": 289,
+ "popularity_score": 32187,
  "country": "TM",
  "country_zh": "土库曼斯坦",
  "country_en": "Turkmenistan",
@@ -96,7 +96,8 @@
     "lat": 37.986801,
     "lon": 58.361,
     "type": "large_airport",
-    "distance_km": 13.6
+    "distance_km": 13.6,
+    "name_zh": "萨帕尔穆拉特·尼亚佐夫国际机场"
    },
    {
     "name": "Bojnord Airport",
@@ -106,7 +107,8 @@
     "lat": 37.49300003051758,
     "lon": 57.30820083618164,
     "type": "medium_airport",
-    "distance_km": 94.4
+    "distance_km": 94.4,
+    "name_zh": "博季努尔德机场"
    },
    {
     "name": "Sabzevar National Airport",
@@ -294,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

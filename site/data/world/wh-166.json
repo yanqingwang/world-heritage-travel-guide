@@ -3,7 +3,7 @@
  "unesco_id": "166",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 988,
+ "popularity_rank": 1004,
  "popularity_score": null,
  "country": "AU",
  "country_zh": "澳大利亚",
@@ -64,7 +64,8 @@
     "lat": -33.946098,
     "lon": 151.177002,
     "type": "large_airport",
-    "distance_km": 10.5
+    "distance_km": 10.5,
+    "name_zh": "悉尼机场"
    },
    {
     "name": "Western Sydney International (Nancy-Bird Walton) Airport",
@@ -74,7 +75,8 @@
     "lat": -33.883461,
     "lon": 150.712981,
     "type": "large_airport",
-    "distance_km": 46.4
+    "distance_km": 46.4,
+    "name_zh": "西悉尼机场"
    },
    {
     "name": "Newcastle Airport",
@@ -84,7 +86,8 @@
     "lat": -32.796114,
     "lon": 151.835025,
     "type": "large_airport",
-    "distance_km": 131.3
+    "distance_km": 131.3,
+    "name_zh": "纽卡索机场"
    }
   ],
   "nearest_airport_km": 10.5,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

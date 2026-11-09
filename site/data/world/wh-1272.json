@@ -3,7 +3,7 @@
  "unesco_id": "1272",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 890,
+ "popularity_rank": 927,
  "popularity_score": null,
  "country": "BR",
  "country_zh": "巴西",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "BR-SE",
- "subdivision_zh": "塞尔希培州",
- "subdivision_en": "Sergipe",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "圣克里斯托旺的圣弗朗西斯科广场",
  "name_zh_source": "unesco_official",
  "name_en": "São Francisco Square in the Town of São Cristóvão",
@@ -64,7 +64,8 @@
     "lat": -10.98394,
     "lon": -37.072873,
     "type": "medium_airport",
-    "distance_km": 14.9
+    "distance_km": 14.9,
+    "name_zh": "圣玛利亚机场"
    },
    {
     "name": "Paulo Afonso Airport",
@@ -84,7 +85,8 @@
     "lat": -9.512559,
     "lon": -35.791839,
     "type": "large_airport",
-    "distance_km": 227.6
+    "distance_km": 227.6,
+    "name_zh": "祖比·帕尔马雷斯国际机场"
    }
   ],
   "nearest_airport_km": 14.9,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

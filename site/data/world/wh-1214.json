@@ -3,8 +3,8 @@
  "unesco_id": "1214",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 584,
- "popularity_score": 8004,
+ "popularity_rank": 627,
+ "popularity_score": 8587,
  "country": "CL",
  "country_zh": "智利",
  "country_en": "Chile",
@@ -72,7 +72,8 @@
     "lat": -33.393001556396484,
     "lon": -70.78579711914062,
     "type": "large_airport",
-    "distance_km": 85.5
+    "distance_km": 85.5,
+    "name_zh": "阿图罗·梅里诺·贝尼特斯准将国际机场"
    },
    {
     "name": "Suboficial Ay Santiago Germano Airport",
@@ -82,7 +83,8 @@
     "lat": -34.588299,
     "lon": -68.4039,
     "type": "medium_airport",
-    "distance_km": 190.1
+    "distance_km": 190.1,
+    "name_zh": "圣拉斐尔机场 (阿根廷)"
    },
    {
     "name": "Governor Francisco Gabrielli International Airport",
@@ -92,7 +94,8 @@
     "lat": -32.831699,
     "lon": -68.7929,
     "type": "large_airport",
-    "distance_km": 202.9
+    "distance_km": 202.9,
+    "name_zh": "门多萨"
    }
   ],
   "nearest_airport_km": 85.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

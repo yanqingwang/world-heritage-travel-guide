@@ -3,7 +3,7 @@
  "unesco_id": "239",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1034,
+ "popularity_rank": 1050,
  "popularity_score": null,
  "country": "IN",
  "country_zh": "印度",
@@ -17,7 +17,7 @@
  ],
  "region": "State of Karnataka, Bijapur District, Badami Taluk",
  "subdivision_iso": "IN-KA",
- "subdivision_zh": "卡纳塔克邦",
+ "subdivision_zh": "",
  "subdivision_en": "Karnataka",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "帕塔达卡尔建筑群",
@@ -64,7 +64,8 @@
     "lat": 15.361084,
     "lon": 75.082096,
     "type": "medium_airport",
-    "distance_km": 102.3
+    "distance_km": 102.3,
+    "name_zh": "胡布利机场"
    },
    {
     "name": "Belagavi Airport",
@@ -74,7 +75,8 @@
     "lat": 15.8593,
     "lon": 74.618301,
     "type": "medium_airport",
-    "distance_km": 128.3
+    "distance_km": 128.3,
+    "name_zh": "贝尔高姆"
    },
    {
     "name": "Kolhapur Airport",
@@ -84,7 +86,8 @@
     "lat": 16.6647,
     "lon": 74.289398,
     "type": "medium_airport",
-    "distance_km": 181.1
+    "distance_km": 181.1,
+    "name_zh": "戈尔哈布尔机场"
    }
   ],
   "nearest_airport_km": 102.3,
@@ -166,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

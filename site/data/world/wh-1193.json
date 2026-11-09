@@ -3,7 +3,7 @@
  "unesco_id": "1193",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 874,
+ "popularity_rank": 913,
  "popularity_score": null,
  "country": "JP",
  "country_zh": "日本",
@@ -72,7 +72,8 @@
     "lat": 43.5774993896,
     "lon": 144.960006714,
     "type": "medium_airport",
-    "distance_km": 39.6
+    "distance_km": 39.6,
+    "name_zh": "中标津机场"
    },
    {
     "name": "Yuzhno-Kurilsk Mendeleyevo Airport",
@@ -82,7 +83,8 @@
     "lat": 43.961066,
     "lon": 145.684977,
     "type": "small_airport",
-    "distance_km": 58.9
+    "distance_km": 58.9,
+    "name_zh": "门德列夫机场"
    },
    {
     "name": "Memanbetsu Airport",
@@ -92,7 +94,8 @@
     "lat": 43.8805999756,
     "lon": 144.164001465,
     "type": "medium_airport",
-    "distance_km": 63.2
+    "distance_km": 63.2,
+    "name_zh": "女满别机场"
    }
   ],
   "nearest_airport_km": 39.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

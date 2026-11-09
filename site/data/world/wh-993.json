@@ -72,7 +72,8 @@
     "lat": -16.632,
     "lon": -49.220699,
     "type": "large_airport",
-    "distance_km": 124.6
+    "distance_km": 124.6,
+    "name_zh": "戈亚尼亚国际机场"
    },
    {
     "name": "Presidente Juscelino Kubitschek International Airport",
@@ -82,7 +83,8 @@
     "lat": -15.869167,
     "lon": -47.920834,
     "type": "large_airport",
-    "distance_km": 236.7
+    "distance_km": 236.7,
+    "name_zh": "巴西利亚－儒塞利诺·库比契克总统国际机场"
    },
    {
     "name": "Nelson Ribeiro Guimarães Airport",
@@ -92,7 +94,8 @@
     "lat": -17.725096,
     "lon": -48.606324,
     "type": "small_airport",
-    "distance_km": 257.1
+    "distance_km": 257.1,
+    "name_zh": "卡尔达斯诺瓦斯机场"
    }
   ],
   "nearest_airport_km": 124.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

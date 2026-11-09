@@ -3,8 +3,8 @@
  "unesco_id": "902",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 517,
- "popularity_score": 10688,
+ "popularity_rank": 540,
+ "popularity_score": 11961,
  "country": "RO",
  "country_zh": "罗马尼亚",
  "country_en": "Romania",
@@ -72,7 +72,8 @@
     "lat": 46.467701,
     "lon": 24.4125,
     "type": "medium_airport",
-    "distance_km": 40.3
+    "distance_km": 40.3,
+    "name_zh": "特尔古穆列什国际机场"
    },
    {
     "name": "Sibiu International Airport",
@@ -82,7 +83,8 @@
     "lat": 45.785841,
     "lon": 24.086666,
     "type": "large_airport",
-    "distance_km": 72.6
+    "distance_km": 72.6,
+    "name_zh": "锡比乌"
    },
    {
     "name": "Brașov-Ghimbav International Airport",
@@ -92,7 +94,8 @@
     "lat": 45.70558,
     "lon": 25.522871,
     "type": "large_airport",
-    "distance_km": 80.2
+    "distance_km": 80.2,
+    "name_zh": "布拉索夫-金巴夫国际机场"
    }
   ],
   "nearest_airport_km": 40.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

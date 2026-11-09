@@ -3,8 +3,8 @@
  "unesco_id": "367",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 599,
- "popularity_score": 7222,
+ "popularity_rank": 639,
+ "popularity_score": 7841,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -72,7 +72,8 @@
     "lat": 49.626845,
     "lon": 6.212134,
     "type": "large_airport",
-    "distance_km": 33.2
+    "distance_km": 33.2,
+    "name_zh": "卢森堡－芬德尔国际机场"
    },
    {
     "name": "Frankfurt-Hahn Airport",
@@ -82,7 +83,8 @@
     "lat": 49.946353,
     "lon": 7.261734,
     "type": "large_airport",
-    "distance_km": 50.1
+    "distance_km": 50.1,
+    "name_zh": "哈恩机场"
    },
    {
     "name": "Saarbrücken Airport",
@@ -92,7 +94,8 @@
     "lat": 49.214545,
     "lon": 7.109735,
     "type": "medium_airport",
-    "distance_km": 68.8
+    "distance_km": 68.8,
+    "name_zh": "萨尔布吕肯机场"
    }
   ],
   "nearest_airport_km": 33.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

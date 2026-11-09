@@ -3,8 +3,8 @@
  "unesco_id": "1328",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 172,
- "popularity_score": 63253,
+ "popularity_rank": 187,
+ "popularity_score": 69242,
  "country": "VN",
  "country_zh": "越南",
  "country_en": "Vietnam",
@@ -96,7 +96,8 @@
     "lat": 21.221201,
     "lon": 105.806999,
     "type": "large_airport",
-    "distance_km": 21.3
+    "distance_km": 21.3,
+    "name_zh": "内排国际机场"
    },
    {
     "name": "Cat Bi International Airport",
@@ -106,7 +107,8 @@
     "lat": 20.817428,
     "lon": 106.724315,
     "type": "large_airport",
-    "distance_km": 94.9
+    "distance_km": 94.9,
+    "name_zh": "吉碑国际机场"
    },
    {
     "name": "Tho Xuan Airport",
@@ -116,7 +118,8 @@
     "lat": 19.901667,
     "lon": 105.467778,
     "type": "small_airport",
-    "distance_km": 131.6
+    "distance_km": 131.6,
+    "name_zh": "寿春机场"
    }
   ],
   "nearest_airport_km": 21.3,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

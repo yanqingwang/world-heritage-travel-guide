@@ -3,7 +3,7 @@
  "unesco_id": "1633",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 983,
+ "popularity_rank": 999,
  "popularity_score": null,
  "country": "GB",
  "country_zh": "英国",
@@ -72,7 +72,8 @@
     "lat": 53.334863,
     "lon": -2.849637,
     "type": "large_airport",
-    "distance_km": 87.5
+    "distance_km": 87.5,
+    "name_zh": "利物浦约翰·列侬机场"
    },
    {
     "name": "Isle of Man Airport",
@@ -82,7 +83,8 @@
     "lat": 54.083081,
     "lon": -4.623871,
     "type": "large_airport",
-    "distance_km": 112.1
+    "distance_km": 112.1,
+    "name_zh": "萌岛机场"
    },
    {
     "name": "Manchester Airport",
@@ -92,7 +94,8 @@
     "lat": 53.349375,
     "lon": -2.279521,
     "type": "large_airport",
-    "distance_km": 124.8
+    "distance_km": 124.8,
+    "name_zh": "曼彻斯特机场"
    }
   ],
   "nearest_airport_km": 87.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

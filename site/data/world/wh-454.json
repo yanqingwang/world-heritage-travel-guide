@@ -3,7 +3,7 @@
  "unesco_id": "454",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1078,
+ "popularity_rank": 1089,
  "popularity_score": null,
  "country": "GR",
  "country_zh": "希腊",
@@ -72,7 +72,8 @@
     "lat": 39.917098999,
     "lon": 25.236299514799995,
     "type": "small_airport",
-    "distance_km": 81.9
+    "distance_km": 81.9,
+    "name_zh": "利姆诺斯岛"
    },
    {
     "name": "Kavala Alexander the Great International Airport",
@@ -82,7 +83,8 @@
     "lat": 40.9133,
     "lon": 24.6192,
     "type": "large_airport",
-    "distance_km": 87.5
+    "distance_km": 87.5,
+    "name_zh": "卡瓦拉亚历山大大帝国际机场"
    },
    {
     "name": "Thessaloniki Macedonia International Airport",
@@ -92,7 +94,8 @@
     "lat": 40.51928,
     "lon": 22.970009,
     "type": "large_airport",
-    "distance_km": 121.8
+    "distance_km": 121.8,
+    "name_zh": "塞萨洛尼基马其顿国际机场"
    }
   ],
   "nearest_airport_km": 81.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

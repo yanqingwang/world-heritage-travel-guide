@@ -3,8 +3,8 @@
  "unesco_id": "419",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 210,
- "popularity_score": 42096,
+ "popularity_rank": 228,
+ "popularity_score": 45284,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -96,7 +96,8 @@
     "lat": 49.208159,
     "lon": -57.396147,
     "type": "medium_airport",
-    "distance_km": 58.9
+    "distance_km": 58.9,
+    "name_zh": "鹿湖区域机场"
    },
    {
     "name": "La Tabatière Airport",
@@ -270,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

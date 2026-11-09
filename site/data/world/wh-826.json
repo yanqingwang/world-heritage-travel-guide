@@ -3,7 +3,7 @@
  "unesco_id": "826",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1169,
+ "popularity_rank": 1173,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 43.683899,
     "lon": 10.3927,
     "type": "large_airport",
-    "distance_km": 71.0
+    "distance_km": 71.0,
+    "name_zh": "比萨伽利略·伽利莱机场"
    },
    {
     "name": "Genoa Cristoforo Colombo Airport",
@@ -82,7 +83,8 @@
     "lat": 44.412039,
     "lon": 8.840732,
     "type": "large_airport",
-    "distance_km": 78.5
+    "distance_km": 78.5,
+    "name_zh": "热那亚－克里斯托弗·哥伦布机场"
    },
    {
     "name": "Parma Airport",
@@ -92,7 +94,8 @@
     "lat": 44.826351,
     "lon": 10.29705,
     "type": "medium_airport",
-    "distance_km": 91.8
+    "distance_km": 91.8,
+    "name_zh": "帕尔马机场 (意大利)"
    }
   ],
   "nearest_airport_km": 71.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

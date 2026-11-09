@@ -3,7 +3,7 @@
  "unesco_id": "1352",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 915,
+ "popularity_rank": 944,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "MX-OAX",
- "subdivision_zh": "瓦哈卡州",
- "subdivision_en": "Oaxaca",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "瓦哈卡州中央谷地的亚古尔与米特拉史前洞穴",
  "name_zh_source": "unesco_official",
  "name_en": "Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca",
@@ -64,7 +64,8 @@
     "lat": 16.998773,
     "lon": -96.726092,
     "type": "large_airport",
-    "distance_km": 32.9
+    "distance_km": 32.9,
+    "name_zh": "瓦哈卡"
    },
    {
     "name": "Bahías de Huatulco International Airport",
@@ -74,7 +75,8 @@
     "lat": 15.775437,
     "lon": -96.260456,
     "type": "large_airport",
-    "distance_km": 131.8
+    "distance_km": 131.8,
+    "name_zh": "哈杜克"
    },
    {
     "name": "Puerto Escondido International Airport",
@@ -84,7 +86,8 @@
     "lat": 15.876808,
     "lon": -97.0891,
     "type": "medium_airport",
-    "distance_km": 139.1
+    "distance_km": 139.1,
+    "name_zh": "埃斯孔迪多港"
    }
   ],
   "nearest_airport_km": 32.9,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

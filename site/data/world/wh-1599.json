@@ -3,7 +3,7 @@
  "unesco_id": "1599",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 976,
+ "popularity_rank": 992,
  "popularity_score": null,
  "country": "PL",
  "country_zh": "波兰",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "PL-26",
- "subdivision_zh": "圣十字省",
- "subdivision_en": "Holy Cross Voivodeship",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "科舍米翁奇的史前条纹燧石矿区",
  "name_zh_source": "unesco_official",
  "name_en": "Krzemionki Prehistoric Striped Flint Mining Region",
@@ -72,7 +72,8 @@
     "lat": 51.38937,
     "lon": 21.214742,
     "type": "medium_airport",
-    "distance_km": 51.0
+    "distance_km": 51.0,
+    "name_zh": "拉多姆"
    },
    {
     "name": "Lublin Airport",
@@ -82,7 +83,8 @@
     "lat": 51.240157,
     "lon": 22.713461,
     "type": "large_airport",
-    "distance_km": 89.8
+    "distance_km": 89.8,
+    "name_zh": "卢布林机场"
    },
    {
     "name": "Rzeszów-Jasionka Airport",
@@ -92,7 +94,8 @@
     "lat": 50.109791,
     "lon": 22.024155,
     "type": "large_airport",
-    "distance_km": 102.3
+    "distance_km": 102.3,
+    "name_zh": "热舒夫-亚西翁卡机场"
    }
   ],
   "nearest_airport_km": 51.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

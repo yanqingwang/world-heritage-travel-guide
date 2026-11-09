@@ -3,7 +3,7 @@
  "unesco_id": "198",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1022,
+ "popularity_rank": 1038,
  "popularity_score": null,
  "country": "US",
  "country_zh": "美国",
@@ -64,7 +64,8 @@
     "lat": 38.5452,
     "lon": -89.835197,
     "type": "medium_airport",
-    "distance_km": 23.3
+    "distance_km": 23.3,
+    "name_zh": "史考特空军基地"
    },
    {
     "name": "St. Louis Lambert International Airport",
@@ -74,7 +75,8 @@
     "lat": 38.748697,
     "lon": -90.370003,
     "type": "large_airport",
-    "distance_km": 28.5
+    "distance_km": 28.5,
+    "name_zh": "圣路易斯兰伯特国际机场"
    },
    {
     "name": "Veterans Airport of Southern Illinois",
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

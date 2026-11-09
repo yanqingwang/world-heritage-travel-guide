@@ -3,8 +3,8 @@
  "unesco_id": "666",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 53,
- "popularity_score": 196964,
+ "popularity_rank": 61,
+ "popularity_score": 216174,
  "country": "NP",
  "country_zh": "尼泊尔",
  "country_en": "Nepal",
@@ -96,7 +96,8 @@
     "lat": 27.504636,
     "lon": 83.410381,
     "type": "large_airport",
-    "distance_km": 13.5
+    "distance_km": 13.5,
+    "name_zh": "Gautam大佛机场"
    },
    {
     "name": "Gorakhpur Airport",
@@ -106,7 +107,8 @@
     "lat": 26.739700317399997,
     "lon": 83.4496994019,
     "type": "medium_airport",
-    "distance_km": 84.2
+    "distance_km": 84.2,
+    "name_zh": "戈勒克布尔机场"
    },
    {
     "name": "Pokhara Domestic Airport",
@@ -116,7 +118,8 @@
     "lat": 28.200621,
     "lon": 83.981203,
     "type": "medium_airport",
-    "distance_km": 105.9
+    "distance_km": 105.9,
+    "name_zh": "博克拉机场"
    }
   ],
   "nearest_airport_km": 13.5,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

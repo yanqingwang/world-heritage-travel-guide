@@ -3,7 +3,7 @@
  "unesco_id": "1321",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 909,
+ "popularity_rank": 940,
  "popularity_score": null,
  "country": "AR",
  "country_zh": "阿根廷",
@@ -94,7 +94,8 @@
     "lat": 46.238098,
     "lon": 6.10895,
     "type": "large_airport",
-    "distance_km": 60.9
+    "distance_km": 60.9,
+    "name_zh": "日内瓦国际机场"
    },
    {
     "name": "Bern Airport",
@@ -104,7 +105,8 @@
     "lat": 46.912736,
     "lon": 7.498819,
     "type": "medium_airport",
-    "distance_km": 71.1
+    "distance_km": 71.1,
+    "name_zh": "伯尔尼－贝尔普机场"
    },
    {
     "name": "Annecy Meythet airport",
@@ -114,7 +116,8 @@
     "lat": 45.928947,
     "lon": 6.0987,
     "type": "medium_airport",
-    "distance_km": 82.2
+    "distance_km": 82.2,
+    "name_zh": "阿讷西上萨瓦勃朗峰机场"
    }
   ],
   "nearest_airport_km": 60.9,
@@ -248,5 +251,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

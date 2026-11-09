@@ -3,8 +3,8 @@
  "unesco_id": "225",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 554,
- "popularity_score": 9275,
+ "popularity_rank": 594,
+ "popularity_score": 10089,
  "country": "BG",
  "country_zh": "保加利亚",
  "country_en": "Bulgaria",
@@ -72,7 +72,8 @@
     "lat": 42.696357,
     "lon": 23.417671,
     "type": "large_airport",
-    "distance_km": 114.0
+    "distance_km": 114.0,
+    "name_zh": "索菲亚机场"
    },
    {
     "name": "Plovdiv International Airport",
@@ -82,7 +83,8 @@
     "lat": 42.067799,
     "lon": 24.8508,
     "type": "large_airport",
-    "distance_km": 121.1
+    "distance_km": 121.1,
+    "name_zh": "普罗夫迪夫机场"
    },
    {
     "name": "Kavala Alexander the Great International Airport",
@@ -92,7 +94,8 @@
     "lat": 40.9133,
     "lon": 24.6192,
     "type": "large_airport",
-    "distance_km": 126.7
+    "distance_km": 126.7,
+    "name_zh": "卡瓦拉亚历山大大帝国际机场"
    }
   ],
   "nearest_airport_km": 114.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

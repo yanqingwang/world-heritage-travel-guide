@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 52.0
 lon: 157.8299
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 勘察加火山 / Volcanoes of Kamchatka

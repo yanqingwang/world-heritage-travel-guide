@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)"
 lat: 32.326666666
 lon: 36.369722222
-updated_at: "2026-11-09T12:01:06Z"
+updated_at: "2026-11-09T12:50:26Z"
 ---
 
 # 乌姆吉马尔 / Umm Al-Jimāl

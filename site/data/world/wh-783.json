@@ -3,7 +3,7 @@
  "unesco_id": "783",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1150,
+ "popularity_rank": 1155,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -72,7 +72,8 @@
     "lat": 51.420657,
     "lon": 12.232705,
     "type": "large_airport",
-    "distance_km": 57.3
+    "distance_km": 57.3,
+    "name_zh": "莱比锡/哈雷机场"
    },
    {
     "name": "Berlin Brandenburg Airport",
@@ -82,7 +83,8 @@
     "lat": 52.361738,
     "lon": 13.502341,
     "type": "large_airport",
-    "distance_km": 80.1
+    "distance_km": 80.1,
+    "name_zh": "柏林勃兰登堡机场"
    },
    {
     "name": "Dresden Airport",
@@ -92,7 +94,8 @@
     "lat": 51.134123,
     "lon": 13.767831,
     "type": "large_airport",
-    "distance_km": 112.1
+    "distance_km": 112.1,
+    "name_zh": "德累斯顿机场"
    }
   ],
   "nearest_airport_km": 57.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

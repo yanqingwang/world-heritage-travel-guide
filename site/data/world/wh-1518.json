@@ -3,8 +3,8 @@
  "unesco_id": "1518",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 65,
- "popularity_score": 169569,
+ "popularity_rank": 74,
+ "popularity_score": 182883,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -96,7 +96,8 @@
     "lat": 40.750401,
     "lon": 43.859299,
     "type": "large_airport",
-    "distance_km": 36.3
+    "distance_km": 36.3,
+    "name_zh": "希拉克机场"
    },
    {
     "name": "Kars Airport",
@@ -106,7 +107,8 @@
     "lat": 40.562198638916016,
     "lon": 43.1150016784668,
     "type": "medium_airport",
-    "distance_km": 39.2
+    "distance_km": 39.2,
+    "name_zh": "卡尔斯"
    },
    {
     "name": "Iğdır Airport",
@@ -116,7 +118,8 @@
     "lat": 39.976627,
     "lon": 43.876648,
     "type": "medium_airport",
-    "distance_km": 64.4
+    "distance_km": 64.4,
+    "name_zh": "厄德尔机场"
    }
   ],
   "nearest_airport_km": 36.3,
@@ -292,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

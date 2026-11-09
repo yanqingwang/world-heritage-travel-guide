@@ -3,7 +3,7 @@
  "unesco_id": "1317",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 905,
+ "popularity_rank": 938,
  "popularity_score": null,
  "country": "FR",
  "country_zh": "法国",
@@ -72,7 +72,8 @@
     "lat": -20.890087,
     "lon": 55.518894,
     "type": "large_airport",
-    "distance_km": 23.6
+    "distance_km": 23.6,
+    "name_zh": "罗兰加洛斯机场"
    },
    {
     "name": "Saint-Pierre Pierrefonds Airport",
@@ -82,7 +83,8 @@
     "lat": -21.319362,
     "lon": 55.422506,
     "type": "large_airport",
-    "distance_km": 25.2
+    "distance_km": 25.2,
+    "name_zh": "圣皮埃尔机场"
    },
    {
     "name": "Sir Seewoosagur Ramgoolam International Airport",
@@ -92,7 +94,8 @@
     "lat": -20.430201,
     "lon": 57.683601,
     "type": "large_airport",
-    "distance_km": 240.9
+    "distance_km": 240.9,
+    "name_zh": "西沃萨古尔·拉姆古兰爵士国际机场"
    }
   ],
   "nearest_airport_km": 23.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

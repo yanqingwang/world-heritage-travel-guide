@@ -3,7 +3,7 @@
  "unesco_id": "1058",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 849,
+ "popularity_rank": 883,
  "popularity_score": null,
  "country": "MA",
  "country_zh": "摩洛哥",
@@ -64,7 +64,8 @@
     "lat": 33.3675,
     "lon": -7.58997,
     "type": "large_airport",
-    "distance_km": 85.9
+    "distance_km": 85.9,
+    "name_zh": "穆罕默德五世国际机场"
    },
    {
     "name": "Rabat-Salé Airport",
@@ -74,7 +75,8 @@
     "lat": 34.051498,
     "lon": -6.75152,
     "type": "large_airport",
-    "distance_km": 185.7
+    "distance_km": 185.7,
+    "name_zh": "拉巴特－塞拉国际机场"
    },
    {
     "name": "Marrakesh Menara Airport",
@@ -84,7 +86,8 @@
     "lat": 31.604807,
     "lon": -8.035788,
     "type": "large_airport",
-    "distance_km": 186.3
+    "distance_km": 186.3,
+    "name_zh": "马拉喀什－迈纳拉国际机场"
    }
   ],
   "nearest_airport_km": 85.9,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

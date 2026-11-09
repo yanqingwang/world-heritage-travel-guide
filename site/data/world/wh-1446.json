@@ -3,8 +3,8 @@
  "unesco_id": "1446",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 188,
- "popularity_score": 54315,
+ "popularity_rank": 205,
+ "popularity_score": 58481,
  "country": "JO",
  "country_zh": "约旦",
  "country_en": "Jordan",
@@ -96,7 +96,8 @@
     "lat": 31.7226009369,
     "lon": 35.9931983948,
     "type": "large_airport",
-    "distance_km": 43.8
+    "distance_km": 43.8,
+    "name_zh": "阿勒娅王后国际机场"
    },
    {
     "name": "Marka International (Amman Civil) Airport",
@@ -106,7 +107,8 @@
     "lat": 31.9727,
     "lon": 35.9916,
     "type": "large_airport",
-    "distance_km": 44.3
+    "distance_km": 44.3,
+    "name_zh": "马尔卡国际机场"
    },
    {
     "name": "Ben Gurion International Airport",
@@ -116,7 +118,8 @@
     "lat": 32.011398,
     "lon": 34.8867,
     "type": "large_airport",
-    "distance_km": 65.6
+    "distance_km": 65.6,
+    "name_zh": "本-古里安国际机场"
    }
   ],
   "nearest_airport_km": 43.8,
@@ -292,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(vii)(viii)"
 lat: -2.483333333
 lon: -43.133333333
-updated_at: "2026-11-09T12:01:05Z"
+updated_at: "2026-11-09T12:50:25Z"
 ---
 
 # 伦索伊斯-马拉年塞斯国家公园 / Lençóis Maranhenses National Park

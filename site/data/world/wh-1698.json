@@ -3,7 +3,7 @@
  "unesco_id": "1698",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 997,
+ "popularity_rank": 1013,
  "popularity_score": null,
  "country": "JP",
  "country_zh": "日本",
@@ -72,7 +72,8 @@
     "lat": 38.0601997375,
     "lon": 138.414001465,
     "type": "medium_airport",
-    "distance_km": 13.8
+    "distance_km": 13.8,
+    "name_zh": "佐渡机场"
    },
    {
     "name": "Niigata Airport",
@@ -82,7 +83,8 @@
     "lat": 37.954166,
     "lon": 139.112189,
     "type": "large_airport",
-    "distance_km": 75.5
+    "distance_km": 75.5,
+    "name_zh": "新潟机场"
    },
    {
     "name": "Noto Satoyama Airport",
@@ -92,7 +94,8 @@
     "lat": 37.293098,
     "lon": 136.962006,
     "type": "medium_airport",
-    "distance_km": 141.1
+    "distance_km": 141.1,
+    "name_zh": "能登机场"
    }
   ],
   "nearest_airport_km": 13.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vi)"
 lat: 39.948888888
 lon: -75.15
-updated_at: "2026-11-09T12:00:57Z"
+updated_at: "2026-11-09T12:50:16Z"
 ---
 
 # 独立大厅 / Independence Hall

@@ -3,8 +3,8 @@
  "unesco_id": "403",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 442,
- "popularity_score": 13513,
+ "popularity_rank": 469,
+ "popularity_score": 14969,
  "country": "TZ",
  "country_zh": "坦桑尼亚",
  "country_en": "Tanzania",
@@ -72,7 +72,8 @@
     "lat": -2.644786,
     "lon": 37.252922,
     "type": "medium_airport",
-    "distance_km": 48.6
+    "distance_km": 48.6,
+    "name_zh": "安博塞利机场"
    },
    {
     "name": "Kilimanjaro International Airport",
@@ -82,7 +83,8 @@
     "lat": -3.427049,
     "lon": 37.07353,
     "type": "large_airport",
-    "distance_km": 51.6
+    "distance_km": 51.6,
+    "name_zh": "乞力马扎罗国际机场"
    },
    {
     "name": "Arusha Airport",
@@ -92,7 +94,8 @@
     "lat": -3.3677899837493896,
     "lon": 36.63330078125,
     "type": "medium_airport",
-    "distance_km": 88.0
+    "distance_km": 88.0,
+    "name_zh": "阿鲁沙机场"
    }
   ],
   "nearest_airport_km": 48.6,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

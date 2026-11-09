@@ -3,8 +3,8 @@
  "unesco_id": "246",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 36,
- "popularity_score": 264910,
+ "popularity_rank": 42,
+ "popularity_score": 289988,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 20.251021,
     "lon": 85.814747,
     "type": "large_airport",
-    "distance_km": 49.9
+    "distance_km": 49.9,
+    "name_zh": "Biju Patnaik国际机场"
    },
    {
     "name": "Utkela Airport",
@@ -295,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

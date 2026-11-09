@@ -3,8 +3,8 @@
  "unesco_id": "977",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 444,
- "popularity_score": 13497,
+ "popularity_rank": 476,
+ "popularity_score": 14556,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -72,7 +72,8 @@
     "lat": 35.123173,
     "lon": 126.805444,
     "type": "medium_airport",
-    "distance_km": 20.7
+    "distance_km": 20.7,
+    "name_zh": "光州机场"
    },
    {
     "name": "Muan International Airport",
@@ -82,7 +83,8 @@
     "lat": 34.991406,
     "lon": 126.382814,
     "type": "large_airport",
-    "distance_km": 49.9
+    "distance_km": 49.9,
+    "name_zh": "务安国际机场"
    },
    {
     "name": "Yeosu Airport",
@@ -92,7 +94,8 @@
     "lat": 34.84230041503906,
     "lon": 127.61699676513672,
     "type": "medium_airport",
-    "distance_km": 64.2
+    "distance_km": 64.2,
+    "name_zh": "丽水机场"
    }
   ],
   "nearest_airport_km": 20.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

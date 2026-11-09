@@ -3,8 +3,8 @@
  "unesco_id": "310",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 105,
- "popularity_score": 109972,
+ "popularity_rank": 115,
+ "popularity_score": 121447,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -96,7 +96,8 @@
     "lat": 43.427101,
     "lon": -3.82001,
     "type": "medium_airport",
-    "distance_km": 24.8
+    "distance_km": 24.8,
+    "name_zh": "桑坦德"
    },
    {
     "name": "Bilbao Airport",
@@ -106,7 +107,8 @@
     "lat": 43.301102,
     "lon": -2.91061,
     "type": "large_airport",
-    "distance_km": 98.1
+    "distance_km": 98.1,
+    "name_zh": "毕尔包机场"
    },
    {
     "name": "Vitoria Airport",
@@ -116,7 +118,8 @@
     "lat": 42.882801,
     "lon": -2.72447,
     "type": "medium_airport",
-    "distance_km": 125.9
+    "distance_km": 125.9,
+    "name_zh": "维多利亚机场"
    }
   ],
   "nearest_airport_km": 24.8,
@@ -333,5 +336,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

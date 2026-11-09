@@ -3,7 +3,7 @@
  "unesco_id": "736",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1139,
+ "popularity_rank": 1144,
  "popularity_score": null,
  "country": "KR",
  "country_zh": "大韩民国",
@@ -17,8 +17,8 @@
  ],
  "region": "",
  "subdivision_iso": "KR-47",
- "subdivision_zh": "庆尚北道",
- "subdivision_en": "North Gyeongsang",
+ "subdivision_zh": "",
+ "subdivision_en": "",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "石窟庵和佛国寺",
  "name_zh_source": "unesco_official",
@@ -72,7 +72,8 @@
     "lat": 35.59349823,
     "lon": 129.352005005,
     "type": "medium_airport",
-    "distance_km": 19.3
+    "distance_km": 19.3,
+    "name_zh": "蔚山机场"
    },
    {
     "name": "Pohang Airport (G-815/K-3)",
@@ -82,7 +83,8 @@
     "lat": 35.987955,
     "lon": 129.420383,
     "type": "medium_airport",
-    "distance_km": 25.8
+    "distance_km": 25.8,
+    "name_zh": "浦项机场"
    },
    {
     "name": "Daegu International Airport",
@@ -92,7 +94,8 @@
     "lat": 35.894394,
     "lon": 128.656989,
     "type": "large_airport",
-    "distance_km": 62.6
+    "distance_km": 62.6,
+    "name_zh": "大邱国际机场"
    }
   ],
   "nearest_airport_km": 19.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

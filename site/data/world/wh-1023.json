@@ -2,8 +2,8 @@
  "id": "wh-1023",
  "unesco_id": "1023",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 834,
+ "tier": "full",
+ "popularity_rank": 57,
  "popularity_score": 228121,
  "country": "RU",
  "country_zh": "俄罗斯",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1023.jpg",
-   "title": "Natural System of Wrangel Island Reserve",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1023",
-   "provider": "unesco"
+   "url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "title": "De-Wrangelinsel.ogg",
+   "author": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:De-Wrangelinsel.ogg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1-s2.0-S0277379119301398-main.pdf/page1-960px-1-s2.0-S0277379119301398-main.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "1-s2.0-S0277379119301398-main.pdf",
+   "author": "Laura Arppe, Juha A. Karhu, Sergey Vartanyan, Dorothée G. Drucker, Heli Etu-Sihvola, Hervé Bocherens",
+   "license": "CC BY 4.0",
+   "credit": "https://www.sciencedirect.com/science/article/pii/S0277379119301398 https://doi.org/10.1016/j.quascirev.2019.105884",
+   "source": "https://commons.wikimedia.org/wiki/File:1-s2.0-S0277379119301398-main.pdf"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/1921_Wrangel_Island_Expedition_team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "1921 Wrangel Island Expedition team.jpg",
+   "author": "Internet Archive",
+   "license": "Public domain",
+   "credit": "https://www.atlasobscura.com/articles/ada-blackjack-arctic-survivor",
+   "source": "https://commons.wikimedia.org/wiki/File:1921_Wrangel_Island_Expedition_team.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20160103-DVL_0846-Pano.jpg/1280px-20160103-DVL_0846-Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "20160103-DVL 0846-Pano.jpg",
+   "author": "Виталий Дворяченко",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:20160103-DVL_0846-Pano.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1023",
@@ -162,5 +186,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

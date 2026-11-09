@@ -3,8 +3,8 @@
  "unesco_id": "725",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 607,
- "popularity_score": 6759,
+ "popularity_rank": 652,
+ "popularity_score": 7293,
  "country": "HU",
  "country_zh": "匈牙利",
  "country_en": "Hungary",
@@ -77,7 +77,8 @@
     "lat": 48.663101,
     "lon": 21.2411,
     "type": "medium_airport",
-    "distance_km": 58.9
+    "distance_km": 58.9,
+    "name_zh": "科希策"
    },
    {
     "name": "Poprad-Tatry Airport",
@@ -87,7 +88,8 @@
     "lat": 49.070994,
     "lon": 20.241394,
     "type": "medium_airport",
-    "distance_km": 69.2
+    "distance_km": 69.2,
+    "name_zh": "波普拉德机场"
    },
    {
     "name": "Sliač Airport",
@@ -97,7 +99,8 @@
     "lat": 48.63779830932617,
     "lon": 19.13409996032715,
     "type": "medium_airport",
-    "distance_km": 101.9
+    "distance_km": 101.9,
+    "name_zh": "斯利亚奇机场"
    }
   ],
   "nearest_airport_km": 58.9,
@@ -186,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

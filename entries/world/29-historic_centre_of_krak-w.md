@@ -8,13 +8,13 @@ country: "PL"
 country_zh: "波兰"
 country_en: "Poland"
 unesco_id: "29"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1978"
 criteria: "(iv)"
 lat: 50.06209
 lon: 19.93688
-updated_at: "2026-11-09T12:00:56Z"
+updated_at: "2026-11-09T12:50:16Z"
 ---
 
 # 克拉科夫历史中心 / Historic Centre of Kraków
@@ -27,21 +27,9 @@ updated_at: "2026-11-09T12:00:56Z"
 
 *Kraków - Sukiennice 01.jpg · see Wikimedia Commons file page*
 
-!['Horse Carriages.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%27Horse_Carriages.JPG/1280px-%27Horse_Carriages.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Historic Centre of Kraków](https://whc.unesco.org/uploads/sites/site_29.jpg)
 
-*'Horse Carriages.JPG · Rudolph.A.furtado · CC0*
-
-![0201 Kraków 2013.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/0201_Krak%C3%B3w_2013.jpg/1280px-0201_Krak%C3%B3w_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*0201 Kraków 2013.jpg · Silar · CC BY-SA 3.0*
-
-![0207 Kraków 2013.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/0207_Krak%C3%B3w_2013.jpg/1280px-0207_Krak%C3%B3w_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*0207 Kraków 2013.jpg · Silar · CC BY-SA 3.0*
-
-![20180711 141224 krakow july 2018.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/20180711_141224_krakow_july_2018.jpg/1280px-20180711_141224_krakow_july_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20180711 141224 krakow july 2018.jpg · Rakoon · CC0*
+*Historic Centre of Kraków · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,25 +52,7 @@ Stare Miasto – najstarszy obszar Krakowa, w obrębie Plant. Dla centrum Krakow
 - ✈ **Kraków John Paul II International Airport (KRK)** — 11.0 km
 - ✈ **Katowice Wojciech Korfanty International Airport (KTW)** — 76.3 km
 - ✈ **Poprad-Tatry Airport (TAT)** — 112.4 km
-- 🚉 **Kraków Główny** — 1.1 km
-- 🚉 **Kraków Bonarka** — 3.7 km
-- 🚉 **Kraków Płaszów** — 4.0 km
-- 🚉 **Kraków Mydlniki** — 6.0 km
-- 🚉 **Kraków Batowice** — 6.6 km
-- ⛴ **Most Kotlarski** — 2.0 km
-- ⛴ **Most Piłsudskiego** — 2.0 km
-- ⛴ **Stopień Dąbie** — 2.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7135.8 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hotel Saski Krakow, Curio Collection by Hilton** — 0.1 km — star — 5★ · Curio Collection
-- **The Bonerowski Palace** — 0.1 km — star — 5★
-- **Grand Hotel** — 0.2 km — star — 5★
-- **Wyndham Grand Krakow Old Town** — 0.3 km — star — 5★ · Wyndham Grand
-- **Radisson Blu** — 0.5 km — star — 5★ · Radisson Blu
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

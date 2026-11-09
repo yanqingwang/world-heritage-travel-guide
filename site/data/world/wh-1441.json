@@ -3,8 +3,8 @@
  "unesco_id": "1441",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 449,
- "popularity_score": 13147,
+ "popularity_rank": 478,
+ "popularity_score": 14525,
  "country": "NL",
  "country_zh": "荷兰王国",
  "country_en": "Kingdom of the Netherlands",
@@ -72,7 +72,8 @@
     "lat": 51.956902,
     "lon": 4.43722,
     "type": "large_airport",
-    "distance_km": 3.8
+    "distance_km": 3.8,
+    "name_zh": "鹿特丹海牙机场"
    },
    {
     "name": "Amsterdam Airport Schiphol",
@@ -82,7 +83,8 @@
     "lat": 52.308601,
     "lon": 4.76389,
     "type": "large_airport",
-    "distance_km": 48.5
+    "distance_km": 48.5,
+    "name_zh": "阿姆斯特丹史基浦机场"
    },
    {
     "name": "Antwerp International Airport (Deurne)",
@@ -92,7 +94,8 @@
     "lat": 51.190667,
     "lon": 4.463153,
     "type": "medium_airport",
-    "distance_km": 81.4
+    "distance_km": 81.4,
+    "name_zh": "安特卫普国际机场"
    }
   ],
   "nearest_airport_km": 3.8,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

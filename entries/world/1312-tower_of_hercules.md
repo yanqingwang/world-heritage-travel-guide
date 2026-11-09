@@ -8,13 +8,13 @@ country: "ES"
 country_zh: "西班牙"
 country_en: "Spain"
 unesco_id: "1312"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2009"
 criteria: "(iii)"
 lat: 43.385833333
 lon: -8.406388888
-updated_at: "2026-11-09T12:01:04Z"
+updated_at: "2026-11-09T12:50:23Z"
 ---
 
 # 海格力斯塔 / Tower of Hercules
@@ -27,9 +27,21 @@ updated_at: "2026-11-09T12:01:04Z"
 
 *Torre de Hércules 2023.jpg · see Wikimedia Commons file page*
 
-![Tower of Hercules](https://whc.unesco.org/uploads/sites/site_1312.jpg)
+![Investigaciones sobre la fundación y fábrica de la Torre llamada de Hércules, situada a la entrada del puerto de La Coruña (IA A086B122).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Investigaciones_sobre_la_fundaci%C3%B3n_y_f%C3%A1brica_de_la_Torre_llamada_de_H%C3%A9rcules%2C_situada_a_la_entrada_del_puerto_de_La_Coru%C3%B1a_%28IA_A086B122%29.pdf/page1-500px-Investigaciones_sobre_la_fundaci%C3%B3n_y_f%C3%A1brica_de_la_Torre_llamada_de_H%C3%A9rcules%2C_situada_a_la_entrada_del_puerto_de_La_Coru%C3%B1a_%28IA_A086B122%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Tower of Hercules · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Investigaciones sobre la fundación y fábrica de la Torre llamada de Hércules, situada a la entrada del puerto de La Coruña (IA A086B122).pdf · Cornide, José, 1734-1803 Cano, Benito · Public domain*
+
+![559-Torre de Hercules, A Coruña.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/559-Torre_de_Hercules%2C_A_Coru%C3%B1a.jpg/1280px-559-Torre_de_Hercules%2C_A_Coru%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*559-Torre de Hercules, A Coruña.jpg · Jose Luis Cernadas Iglesias · CC BY 2.0*
+
+![A coruna torre de hercules sunset edit.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/A_coruna_torre_de_hercules_sunset_edit.jpg/1280px-A_coruna_torre_de_hercules_sunset_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A coruna torre de hercules sunset edit.jpg · Alessio Damato · CC BY-SA 3.0*
+
+![A coruna torre de hercules sunset.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/A_coruna_torre_de_hercules_sunset.jpg/1280px-A_coruna_torre_de_hercules_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A coruna torre de hercules sunset.jpg · Alessio Damato · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,23 @@ La Torre de Hércules sirve como faro y emblema de la entrada al puerto de La Co
 - ✈ **A Coruña Airport (LCG)** — 9.6 km
 - ✈ **Santiago-Rosalía de Castro Airport (SCQ)** — 54.4 km
 - ✈ **Vigo Airport (VGO)** — 129.6 km
+- 🚉 **A Coruña** — 3.7 km
+- 🚉 **O Burgo-Santiago** — 8.1 km
+- 🚉 **Uxes** — 10.3 km
+- 🚉 **Pontedeume** — 18.5 km
+- 🚉 **Barallobre** — 19.6 km
+- ⛴ **Terminal de cruceiros** — 2.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9225.1 km**
+
+## 附近酒店 / Nearby hotels
+
+- **NH Collection A Coruña Finisterre** — 2.2 km — star — 5★
+- **Eurostars Ciudad de A Coruña** — 1.0 km — star — 4★ · Eurostars
+- **Meliá María Pita** — 1.2 km — star — 4★
+- **DoubleTree by Hilton A Coruña** — 1.4 km — star — DoubleTree by Hilton A Coruna · 4★ · DoubleTree
+- **Eurostars Atlántico** — 2.0 km — star — 4★ · Eurostars Hotel Company
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

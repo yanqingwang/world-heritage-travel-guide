@@ -3,7 +3,7 @@
  "unesco_id": "1189",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 872,
+ "popularity_rank": 911,
  "popularity_score": null,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
@@ -64,7 +64,8 @@
     "lat": 9.623549,
     "lon": 41.855027,
     "type": "large_airport",
-    "distance_km": 46.7
+    "distance_km": 46.7,
+    "name_zh": "阿巴·德纳·D·伊尔马国际机场"
    },
    {
     "name": "Gerad Wilwal International Airport",
@@ -84,7 +85,8 @@
     "lat": 9.514082,
     "lon": 44.083469,
     "type": "large_airport",
-    "distance_km": 214.7
+    "distance_km": 214.7,
+    "name_zh": "埃加勒国际机场"
    }
   ],
   "nearest_airport_km": 46.7,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1322",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 817,
- "popularity_score": 527,
+ "popularity_rank": 862,
+ "popularity_score": 568,
  "country": "CI",
  "country_zh": "科特迪瓦",
  "country_en": "Ivory Coast",
@@ -72,7 +72,8 @@
     "lat": 5.26139,
     "lon": -3.92629,
     "type": "large_airport",
-    "distance_km": 22.2
+    "distance_km": 22.2,
+    "name_zh": "阿必尚国际机场"
    },
    {
     "name": "Takoradi Airport",
@@ -82,7 +83,8 @@
     "lat": 4.896059989929199,
     "lon": -1.7747600078582764,
     "type": "medium_airport",
-    "distance_km": 219.9
+    "distance_km": 219.9,
+    "name_zh": "塔科拉迪"
    },
    {
     "name": "Sunyani Airport",
@@ -92,7 +94,8 @@
     "lat": 7.36183,
     "lon": -2.32876,
     "type": "medium_airport",
-    "distance_km": 286.7
+    "distance_km": 286.7,
+    "name_zh": "苏尼亚尼"
    }
   ],
   "nearest_airport_km": 22.2,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "518",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 550,
- "popularity_score": 9380,
+ "popularity_rank": 589,
+ "popularity_score": 10155,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 41.147509,
     "lon": 1.168354,
     "type": "large_airport",
-    "distance_km": 26.9
+    "distance_km": 26.9,
+    "name_zh": "雷乌斯"
    },
    {
     "name": "Lleida-Alguaire Airport",
@@ -82,7 +83,8 @@
     "lat": 41.728185,
     "lon": 0.535023,
     "type": "medium_airport",
-    "distance_km": 59.7
+    "distance_km": 59.7,
+    "name_zh": "莱里达-阿尔瓜伊雷机场"
    },
    {
     "name": "Josep Tarradellas Barcelona-El Prat Airport",
@@ -92,7 +94,8 @@
     "lat": 41.2971,
     "lon": 2.07846,
     "type": "large_airport",
-    "distance_km": 83.7
+    "distance_km": 83.7,
+    "name_zh": "巴塞罗那机场"
    }
   ],
   "nearest_airport_km": 26.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

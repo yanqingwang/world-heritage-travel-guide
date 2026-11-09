@@ -3,8 +3,8 @@
  "unesco_id": "1255",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 459,
- "popularity_score": 12686,
+ "popularity_rank": 490,
+ "popularity_score": 13870,
  "country": "NA",
  "country_zh": "纳米比亚",
  "country_en": "Namibia",
@@ -82,7 +82,8 @@
     "lat": -19.0285,
     "lon": 16.4585,
     "type": "small_airport",
-    "distance_km": 279.2
+    "distance_km": 279.2,
+    "name_zh": "哈拉立机场"
    },
    {
     "name": "Ondangwa Airport",
@@ -180,5 +181,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

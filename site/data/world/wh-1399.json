@@ -3,7 +3,7 @@
  "unesco_id": "1399",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 927,
+ "popularity_rank": 952,
  "popularity_score": null,
  "country": "FJ",
  "country_zh": "斐济",
@@ -82,7 +82,8 @@
     "lat": -18.044226,
     "lon": 178.561486,
     "type": "large_airport",
-    "distance_km": 49.4
+    "distance_km": 49.4,
+    "name_zh": "瑙索里国际机场"
    },
    {
     "name": "Ngau Airport",
@@ -170,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

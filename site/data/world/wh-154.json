@@ -3,8 +3,8 @@
  "unesco_id": "154",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 23,
- "popularity_score": 454647,
+ "popularity_rank": 25,
+ "popularity_score": 502368,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -96,7 +96,8 @@
     "lat": -16.878921,
     "lon": 145.74948,
     "type": "large_airport",
-    "distance_km": 53.5
+    "distance_km": 53.5,
+    "name_zh": "凯恩斯机场"
    },
    {
     "name": "Cooktown Airport",
@@ -106,7 +107,8 @@
     "lat": -15.443649,
     "lon": 145.183221,
     "type": "medium_airport",
-    "distance_km": 125.1
+    "distance_km": 125.1,
+    "name_zh": "库克敦机场"
    },
    {
     "name": "Palm Island Airport",
@@ -270,5 +272,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

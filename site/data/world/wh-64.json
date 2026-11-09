@@ -3,8 +3,8 @@
  "unesco_id": "64",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 703,
- "popularity_score": 4091,
+ "popularity_rank": 727,
+ "popularity_score": 4958,
  "country": "GT",
  "country_zh": "危地马拉",
  "country_en": "Guatemala",
@@ -72,7 +72,8 @@
     "lat": 16.913707,
     "lon": -89.866143,
     "type": "medium_airport",
-    "distance_km": 42.9
+    "distance_km": 42.9,
+    "name_zh": "马雅世界国际机场"
    },
    {
     "name": "H.E Alfredo Martinez (Tower Hill) Airstrip",
@@ -92,7 +93,8 @@
     "lat": 17.539951,
     "lon": -88.303556,
     "type": "large_airport",
-    "distance_km": 143.9
+    "distance_km": 143.9,
+    "name_zh": "菲利普戈尔德森国际机场"
    }
   ],
   "nearest_airport_km": 42.9,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "870",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 389,
- "popularity_score": 17522,
+ "popularity_rank": 412,
+ "popularity_score": 19338,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 34.780853,
     "lon": 135.440829,
     "type": "large_airport",
-    "distance_km": 38.3
+    "distance_km": 38.3,
+    "name_zh": "大阪国际机场"
    },
    {
     "name": "Kobe Airport",
@@ -82,7 +83,8 @@
     "lat": 34.632801,
     "lon": 135.223999,
     "type": "large_airport",
-    "distance_km": 56.5
+    "distance_km": 56.5,
+    "name_zh": "神户机场"
    },
    {
     "name": "Kansai International Airport",
@@ -92,7 +94,8 @@
     "lat": 34.427299,
     "lon": 135.244003,
     "type": "large_airport",
-    "distance_km": 61.1
+    "distance_km": 61.1,
+    "name_zh": "关西国际机场"
    }
   ],
   "nearest_airport_km": 38.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

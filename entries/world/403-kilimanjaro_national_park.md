@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(vii)"
 lat: -3.066666666
 lon: 37.366666666
-updated_at: "2026-11-09T12:00:59Z"
+updated_at: "2026-11-09T12:50:18Z"
 ---
 
 # 乞力马扎罗国家公园 / Kilimanjaro National Park

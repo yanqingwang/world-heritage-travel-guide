@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(x)"
 lat: -2.314805555
 lon: 28.758666666
-updated_at: "2026-11-09T12:00:57Z"
+updated_at: "2026-11-09T12:50:17Z"
 ---
 
 # 卡胡兹－别加国家公园 / Kahuzi-Biega National Park

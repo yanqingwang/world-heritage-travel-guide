@@ -3,8 +3,8 @@
  "unesco_id": "896",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 161,
- "popularity_score": 70065,
+ "popularity_rank": 174,
+ "popularity_score": 77538,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -96,7 +96,8 @@
     "lat": 52.361738,
     "lon": 13.502341,
     "type": "large_airport",
-    "distance_km": 19.2
+    "distance_km": 19.2,
+    "name_zh": "柏林勃兰登堡机场"
    },
    {
     "name": "Leipzig/Halle Airport",
@@ -106,7 +107,8 @@
     "lat": 51.420657,
     "lon": 12.232705,
     "type": "large_airport",
-    "distance_km": 146.0
+    "distance_km": 146.0,
+    "name_zh": "莱比锡/哈雷机场"
    },
    {
     "name": "Solidarity Szczecin–Goleniów Airport",
@@ -116,7 +118,8 @@
     "lat": 53.584702,
     "lon": 14.9022,
     "type": "large_airport",
-    "distance_km": 155.3
+    "distance_km": 155.3,
+    "name_zh": "斯塞新机场"
    }
   ],
   "nearest_airport_km": 19.2,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

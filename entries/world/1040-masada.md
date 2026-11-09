@@ -8,13 +8,13 @@ country: "IL"
 country_zh: "以色列"
 country_en: "Israel"
 unesco_id: "1040"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2001"
 criteria: "(iii)(iv)(vi)"
 lat: 31.315555555
 lon: 35.353888888
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 马萨达 / Masada
@@ -27,9 +27,21 @@ updated_at: "2026-11-09T12:01:02Z"
 
 *Israel-2013-Aerial 21-Masada.jpg · see Wikimedia Commons file page*
 
-![Masada](https://whc.unesco.org/uploads/sites/site_1040.jpg)
+![Masada coin.jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/Masada_coin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Masada · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Masada coin.jpg · Jack1956 at English Wikipedia · CC BY 3.0*
+
+![-מצדה- לקראת- שקיעה.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/-%D7%9E%D7%A6%D7%93%D7%94-_%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-_%D7%A9%D7%A7%D7%99%D7%A2%D7%94.jpg/1280px--%D7%9E%D7%A6%D7%93%D7%94-_%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-_%D7%A9%D7%A7%D7%99%D7%A2%D7%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-מצדה- לקראת- שקיעה.jpg · אופיר קדם · CC BY-SA 4.0*
+
+![-מצדה-לקראת-שקיעה-.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/-%D7%9E%D7%A6%D7%93%D7%94-%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-%D7%A9%D7%A7%D7%99%D7%A2%D7%94-.jpg/1280px--%D7%9E%D7%A6%D7%93%D7%94-%D7%9C%D7%A7%D7%A8%D7%90%D7%AA-%D7%A9%D7%A7%D7%99%D7%A2%D7%94-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*-מצדה-לקראת-שקיעה-.jpg · אופיר קדם · CC BY-SA 4.0*
+
+![05. Підйом.jpg](https://upload.wikimedia.org/wikipedia/commons/5/59/05._%D0%9F%D1%96%D0%B4%D0%B9%D0%BE%D0%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*05. Підйом.jpg · Светлана Петровская · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,18 @@ Masada is a rugged natural fortress, of majestic beauty, in the Judaean Desert o
 - ✈ **Queen Alia International Airport (AMM)** — 75.6 km
 - ✈ **Ben Gurion International Airport (TLV)** — 89.1 km
 - ✈ **Marka International (Amman Civil) Airport (ADJ)** — 94.8 km
+- 🚉 **דימונה** — 42.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7069.9 km**
+
+## 附近酒店 / Nearby hotels
+
+- **فندق العائلة المقدسة** — 45.6 km — star — Holy Family Hotel · 4★
+- **Dead Sea Spa Hotel** — 49.5 km — star — 4★
+- **Wadi Mujib Chalets** — 26.7 km — star — 3★
+- **Crowne Plaza** — 48.7 km — chain
+- **Kempinski Hotel Ishtar Dead Sea** — 49.6 km — chain
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

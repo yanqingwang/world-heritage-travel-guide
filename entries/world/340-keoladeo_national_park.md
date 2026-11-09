@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(x)"
 lat: 27.166667
 lon: 77.516667
-updated_at: "2026-11-09T12:00:58Z"
+updated_at: "2026-11-09T12:50:18Z"
 ---
 
 # 凯奥拉德奥国家公园 / Keoladeo National Park

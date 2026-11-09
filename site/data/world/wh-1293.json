@@ -3,8 +3,8 @@
  "unesco_id": "1293",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 143,
- "popularity_score": 80680,
+ "popularity_rank": 153,
+ "popularity_score": 88405,
  "country": "SA",
  "country_zh": "沙特阿拉伯",
  "country_en": "Saudi Arabia",
@@ -96,7 +96,8 @@
     "lat": 26.483634,
     "lon": 38.117048,
     "type": "large_airport",
-    "distance_km": 37.9
+    "distance_km": 37.9,
+    "name_zh": "阿卜杜勒·马吉德·本·阿卜杜拉兹王子国际机场"
    },
    {
     "name": "Red Sea International Airport",
@@ -116,7 +117,8 @@
     "lat": 26.198601,
     "lon": 36.476398,
     "type": "medium_airport",
-    "distance_km": 161.0
+    "distance_km": 161.0,
+    "name_zh": "沃季赫机场"
    }
   ],
   "nearest_airport_km": 37.9,
@@ -284,5 +286,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

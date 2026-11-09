@@ -3,7 +3,7 @@
  "unesco_id": "116",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 867,
+ "popularity_rank": 906,
  "popularity_score": null,
  "country": "ML",
  "country_zh": "马里",
@@ -74,7 +74,8 @@
     "lat": 11.1601,
     "lon": -4.33097,
     "type": "large_airport",
-    "distance_km": 306.3
+    "distance_km": 306.3,
+    "name_zh": "博博迪乌拉索机场"
    },
    {
     "name": "Tombouktou Airport",
@@ -84,7 +85,8 @@
     "lat": 16.730499,
     "lon": -3.00758,
     "type": "large_airport",
-    "distance_km": 355.2
+    "distance_km": 355.2,
+    "name_zh": "廷巴克图机场"
    }
   ],
   "nearest_airport_km": 84.7,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

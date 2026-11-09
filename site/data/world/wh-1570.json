@@ -3,8 +3,8 @@
  "unesco_id": "1570",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 189,
- "popularity_score": 53805,
+ "popularity_rank": 203,
+ "popularity_score": 59171,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 17.231318,
     "lon": 78.429855,
     "type": "large_airport",
-    "distance_km": 196.8
+    "distance_km": 196.8,
+    "name_zh": "拉吉夫·甘地国际机场"
    },
    {
     "name": "Vijayawada International Airport",
@@ -106,7 +107,8 @@
     "lat": 16.530011,
     "lon": 80.804888,
     "type": "large_airport",
-    "distance_km": 213.0
+    "distance_km": 213.0,
+    "name_zh": "维杰亚瓦达机场"
    },
    {
     "name": "Rajahmundry Airport",
@@ -116,7 +118,8 @@
     "lat": 17.105799,
     "lon": 81.813204,
     "type": "medium_airport",
-    "distance_km": 236.1
+    "distance_km": 236.1,
+    "name_zh": "拉加穆迪利机场"
    }
   ],
   "nearest_airport_km": 196.8,
@@ -295,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

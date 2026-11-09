@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ix)(x)"
 lat: 20.45
 lon: -75.0
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:21Z"
 ---
 
 # 阿里杰罗德胡波尔德国家公园 / Alejandro de Humboldt National Park

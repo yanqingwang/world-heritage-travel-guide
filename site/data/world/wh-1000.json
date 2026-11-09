@@ -3,7 +3,7 @@
  "unesco_id": "1000",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 831,
+ "popularity_rank": 876,
  "popularity_score": null,
  "country": "BR",
  "country_zh": "巴西",
@@ -64,7 +64,8 @@
     "lat": -3.854534,
     "lon": -32.423017,
     "type": "medium_airport",
-    "distance_km": 0.4
+    "distance_km": 0.4,
+    "name_zh": "费尔南多·迪诺罗尼亚机场"
    },
    {
     "name": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
@@ -74,7 +75,8 @@
     "lat": -5.769822,
     "lon": -35.36661,
     "type": "large_airport",
-    "distance_km": 389.1
+    "distance_km": 389.1,
+    "name_zh": "奥古斯都·塞弗里国际机场"
    }
   ],
   "nearest_airport_km": 0.4,
@@ -154,5 +156,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

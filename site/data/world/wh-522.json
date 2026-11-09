@@ -3,7 +3,7 @@
  "unesco_id": "522",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1088,
+ "popularity_rank": 1099,
  "popularity_score": null,
  "country": "ES",
  "country_zh": "西班牙",
@@ -72,7 +72,8 @@
     "lat": 37.188702,
     "lon": -3.77736,
     "type": "medium_airport",
-    "distance_km": 98.2
+    "distance_km": 98.2,
+    "name_zh": "格兰纳达"
    },
    {
     "name": "Córdoba Airport",
@@ -92,7 +93,8 @@
     "lat": 36.843899,
     "lon": -2.3701,
     "type": "medium_airport",
-    "distance_km": 157.1
+    "distance_km": 157.1,
+    "name_zh": "阿尔梅里亚"
    }
   ],
   "nearest_airport_km": 98.2,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

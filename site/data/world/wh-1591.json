@@ -3,8 +3,8 @@
  "unesco_id": "1591",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 563,
- "popularity_score": 9023,
+ "popularity_rank": 603,
+ "popularity_score": 9753,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -72,7 +72,8 @@
     "lat": 34.991406,
     "lon": 126.382814,
     "type": "large_airport",
-    "distance_km": 31.2
+    "distance_km": 31.2,
+    "name_zh": "务安国际机场"
    },
    {
     "name": "Gwangju Airport",
@@ -82,7 +83,8 @@
     "lat": 35.123173,
     "lon": 126.805444,
     "type": "medium_airport",
-    "distance_km": 71.8
+    "distance_km": 71.8,
+    "name_zh": "光州机场"
    },
    {
     "name": "Gunsan Airport / Gunsan Air Base",
@@ -92,7 +94,8 @@
     "lat": 35.903801,
     "lon": 126.615997,
     "type": "medium_airport",
-    "distance_km": 128.2
+    "distance_km": 128.2,
+    "name_zh": "群山空军基地"
    }
   ],
   "nearest_airport_km": 31.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

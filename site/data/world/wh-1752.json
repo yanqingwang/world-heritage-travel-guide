@@ -3,7 +3,7 @@
  "unesco_id": "1752",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 685,
+ "popularity_rank": 744,
  "popularity_score": 4560,
  "country": "FI",
  "country_zh": "芬兰",
@@ -64,7 +64,8 @@
     "lat": 61.414101,
     "lon": 23.604401,
     "type": "large_airport",
-    "distance_km": 10.9
+    "distance_km": 10.9,
+    "name_zh": "坦佩雷－皮尔卡拉机场"
    },
    {
     "name": "Pori Airport",
@@ -74,7 +75,8 @@
     "lat": 61.4617,
     "lon": 21.799999,
     "type": "medium_airport",
-    "distance_km": 86.3
+    "distance_km": 86.3,
+    "name_zh": "波里机场"
    },
    {
     "name": "Turku Airport",
@@ -84,7 +86,8 @@
     "lat": 60.514099,
     "lon": 22.2628,
     "type": "large_airport",
-    "distance_km": 122.6
+    "distance_km": 122.6,
+    "name_zh": "图尔库机场"
    }
   ],
   "nearest_airport_km": 10.9,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

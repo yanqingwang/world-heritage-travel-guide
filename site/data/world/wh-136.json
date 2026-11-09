@@ -3,7 +3,7 @@
  "unesco_id": "136",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 917,
+ "popularity_rank": 570,
  "popularity_score": 10691,
  "country": "CD",
  "country_zh": "刚果民主共和国",
@@ -72,7 +72,8 @@
     "lat": 3.049152,
     "lon": 30.911714,
     "type": "medium_airport",
-    "distance_km": 212.6
+    "distance_km": 212.6,
+    "name_zh": "阿鲁阿"
    },
    {
     "name": "Matari Airport",
@@ -92,7 +93,8 @@
     "lat": 4.87201,
     "lon": 31.601101,
     "type": "large_airport",
-    "distance_km": 278.1
+    "distance_km": 278.1,
+    "name_zh": "朱巴机场"
    }
   ],
   "nearest_airport_km": 212.6,
@@ -176,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

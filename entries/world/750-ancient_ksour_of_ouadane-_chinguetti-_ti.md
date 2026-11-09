@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(iv)(v)"
 lat: 20.92889
 lon: -11.62361
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 瓦丹、欣盖提、提希特和瓦拉塔古镇 / Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata

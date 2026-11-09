@@ -3,8 +3,8 @@
  "unesco_id": "387",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 75,
- "popularity_score": 155255,
+ "popularity_rank": 86,
+ "popularity_score": 167124,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -96,7 +96,8 @@
     "lat": 57.481098,
     "lon": -7.36278,
     "type": "medium_airport",
-    "distance_km": 81.8
+    "distance_km": 81.8,
+    "name_zh": "本贝丘拉机场"
    },
    {
     "name": "Barra Airport",
@@ -106,7 +107,8 @@
     "lat": 57.0228,
     "lon": -7.44306,
     "type": "medium_airport",
-    "distance_km": 111.6
+    "distance_km": 111.6,
+    "name_zh": "巴拉机场"
    },
    {
     "name": "Stornoway Airport",
@@ -116,7 +118,8 @@
     "lat": 58.215599,
     "lon": -6.33111,
     "type": "medium_airport",
-    "distance_km": 140.2
+    "distance_km": 140.2,
+    "name_zh": "外赫布里底群岛斯托诺韦（SYY）"
    }
   ],
   "nearest_airport_km": 81.8,
@@ -196,5 +199,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

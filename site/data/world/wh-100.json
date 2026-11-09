@@ -3,7 +3,7 @@
  "unesco_id": "100",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 830,
+ "popularity_rank": 875,
  "popularity_score": null,
  "country": "ME",
  "country_zh": "黑山",
@@ -72,7 +72,8 @@
     "lat": 42.404701,
     "lon": 18.723301,
     "type": "medium_airport",
-    "distance_km": 87.1
+    "distance_km": 87.1,
+    "name_zh": "蒂瓦特机场"
    },
    {
     "name": "Podgorica Airport / Podgorica Golubovci Airbase",
@@ -82,7 +83,8 @@
     "lat": 42.359402,
     "lon": 19.2519,
     "type": "large_airport",
-    "distance_km": 90.0
+    "distance_km": 90.0,
+    "name_zh": "波德戈里察国际机场"
    },
    {
     "name": "Dubrovnik Ruđer Bošković Airport",
@@ -92,7 +94,8 @@
     "lat": 42.562247,
     "lon": 18.265543,
     "type": "large_airport",
-    "distance_km": 90.9
+    "distance_km": 90.9,
+    "name_zh": "杜布罗夫尼克机场"
    }
   ],
   "nearest_airport_km": 87.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

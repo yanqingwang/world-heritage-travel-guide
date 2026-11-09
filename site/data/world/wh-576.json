@@ -3,8 +3,8 @@
  "unesco_id": "576",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 195,
- "popularity_score": 49626,
+ "popularity_rank": 213,
+ "popularity_score": 54427,
  "country": "TH",
  "country_zh": "泰国",
  "country_en": "Thailand",
@@ -96,7 +96,8 @@
     "lat": 13.9126,
     "lon": 100.607002,
     "type": "large_airport",
-    "distance_km": 49.1
+    "distance_km": 49.1,
+    "name_zh": "廊曼国际机场"
    },
    {
     "name": "Suvarnabhumi Airport",
@@ -106,7 +107,8 @@
     "lat": 13.6811,
     "lon": 100.747002,
     "type": "large_airport",
-    "distance_km": 77.3
+    "distance_km": 77.3,
+    "name_zh": "苏凡纳布机场"
    },
    {
     "name": "U-Tapao–Rayong–Pattaya International Airport",
@@ -116,7 +118,8 @@
     "lat": 12.6799,
     "lon": 101.004997,
     "type": "large_airport",
-    "distance_km": 192.1
+    "distance_km": 192.1,
+    "name_zh": "乌塔保国际机场"
    }
   ],
   "nearest_airport_km": 49.1,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

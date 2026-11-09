@@ -3,8 +3,8 @@
  "unesco_id": "1258",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 351,
- "popularity_score": 20144,
+ "popularity_rank": 373,
+ "popularity_score": 22061,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 28.0445,
     "lon": -16.5725,
     "type": "large_airport",
-    "distance_km": 24.9
+    "distance_km": 24.9,
+    "name_zh": "特内里费南部机场"
    },
    {
     "name": "Tenerife Norte-Ciudad de La Laguna Airport",
@@ -82,7 +83,8 @@
     "lat": 28.482752,
     "lon": -16.341707,
     "type": "large_airport",
-    "distance_km": 36.3
+    "distance_km": 36.3,
+    "name_zh": "特内里费北部-拉拉古纳市机场"
    },
    {
     "name": "La Gomera Airport",
@@ -92,7 +94,8 @@
     "lat": 28.0296,
     "lon": -17.2146,
     "type": "small_airport",
-    "distance_km": 64.1
+    "distance_km": 64.1,
+    "name_zh": "戈梅拉机场"
    }
   ],
   "nearest_airport_km": 24.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

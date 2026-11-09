@@ -3,7 +3,7 @@
  "unesco_id": "262",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1038,
+ "popularity_rank": 1054,
  "popularity_score": null,
  "country": "SD",
  "country_zh": "苏丹",
@@ -64,7 +64,8 @@
     "lat": 19.434558,
     "lon": 37.234125,
     "type": "large_airport",
-    "distance_km": 40.0
+    "distance_km": 40.0,
+    "name_zh": "苏丹港新国际机场"
    },
    {
     "name": "King Abdulaziz International Airport",
@@ -74,7 +75,8 @@
     "lat": 21.680241,
     "lon": 39.157436,
     "type": "large_airport",
-    "distance_km": 280.2
+    "distance_km": 280.2,
+    "name_zh": "阿卜杜勒-阿齐兹国王国际机场"
    },
    {
     "name": "Taif International Airport",
@@ -84,7 +86,8 @@
     "lat": 21.484739,
     "lon": 40.544074,
     "type": "large_airport",
-    "distance_km": 376.8
+    "distance_km": 376.8,
+    "name_zh": "塔伊夫地区机场"
    }
   ],
   "nearest_airport_km": 40.0,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

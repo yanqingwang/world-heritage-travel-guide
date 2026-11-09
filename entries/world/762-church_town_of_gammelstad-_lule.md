@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(iv)(v)"
 lat: 65.64611
 lon: 22.02861
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 吕勒欧的格默尔斯达德教堂村 / Church Town of Gammelstad, Luleå

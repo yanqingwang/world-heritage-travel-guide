@@ -3,8 +3,8 @@
  "unesco_id": "1577",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 450,
- "popularity_score": 13030,
+ "popularity_rank": 475,
+ "popularity_score": 14627,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -74,7 +74,8 @@
     "lat": -37.744382,
     "lon": 140.780561,
     "type": "medium_airport",
-    "distance_km": 106.0
+    "distance_km": 106.0,
+    "name_zh": "甘比尔山机场"
    },
    {
     "name": "Melbourne Avalon International Airport",
@@ -84,7 +85,8 @@
     "lat": -38.040269,
     "lon": 144.467196,
     "type": "large_airport",
-    "distance_km": 223.3
+    "distance_km": 223.3,
+    "name_zh": "爱华隆机场"
    }
   ],
   "nearest_airport_km": 48.0,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

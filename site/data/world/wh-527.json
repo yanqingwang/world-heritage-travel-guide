@@ -3,7 +3,7 @@
  "unesco_id": "527",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1089,
+ "popularity_rank": 1100,
  "popularity_score": null,
  "country": "UA",
  "country_zh": "乌克兰",
@@ -72,7 +72,8 @@
     "lat": 52.527000427246094,
     "lon": 31.016700744628906,
     "type": "medium_airport",
-    "distance_km": 233.2
+    "distance_km": 233.2,
+    "name_zh": "戈梅利机场"
    },
    {
     "name": "Mogilev Airport",
@@ -82,7 +83,8 @@
     "lat": 53.954898834228516,
     "lon": 30.09510040283203,
     "type": "medium_airport",
-    "distance_km": 390.5
+    "distance_km": 390.5,
+    "name_zh": "莫吉廖夫机场"
    }
   ],
   "nearest_airport_km": 233.2,
@@ -162,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

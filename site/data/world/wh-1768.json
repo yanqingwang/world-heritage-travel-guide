@@ -3,7 +3,7 @@
  "unesco_id": "1768",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1017,
+ "popularity_rank": 1033,
  "popularity_score": null,
  "country": "KM",
  "country_zh": "科摩罗",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KM-A",
- "subdivision_zh": "昂儒昂岛",
- "subdivision_en": "Anjouan",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "科摩罗历史苏丹国麦地那",
  "name_zh_source": "unesco_official",
  "name_en": "The Medinas of the Historic Sultanates of the Comoros",
@@ -64,7 +64,8 @@
     "lat": -12.131047,
     "lon": 44.430044,
     "type": "medium_airport",
-    "distance_km": 18.2
+    "distance_km": 18.2,
+    "name_zh": "昂儒昂机场"
    },
    {
     "name": "Dzaoudzi Pamandzi International Airport",
@@ -74,7 +75,8 @@
     "lat": -12.809319,
     "lon": 45.281815,
     "type": "large_airport",
-    "distance_km": 101.7
+    "distance_km": 101.7,
+    "name_zh": "藻德济-帕芒济国际机场"
    },
    {
     "name": "Prince Said Ibrahim International Airport",
@@ -84,7 +86,8 @@
     "lat": -11.5337,
     "lon": 43.2719,
     "type": "medium_airport",
-    "distance_km": 159.2
+    "distance_km": 159.2,
+    "name_zh": "赛义德·易卜拉欣王子国际机场"
    }
   ],
   "nearest_airport_km": 18.2,
@@ -166,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

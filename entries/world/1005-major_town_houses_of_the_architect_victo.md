@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(ii)(iv)"
 lat: 50.81666667
 lon: 4.35
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 建筑师维克多•奥尔塔设计的主要城市建筑(布鲁塞尔) / Major Town Houses of the Architect Victor Horta (Brussels)

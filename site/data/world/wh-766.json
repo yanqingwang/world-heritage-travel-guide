@@ -3,7 +3,7 @@
  "unesco_id": "766",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1146,
+ "popularity_rank": 1151,
  "popularity_score": null,
  "country": "RU",
  "country_zh": "俄罗斯",
@@ -82,7 +82,8 @@
     "lat": 48.528338,
     "lon": 135.188588,
     "type": "medium_airport",
-    "distance_km": 233.0
+    "distance_km": 233.0,
+    "name_zh": "哈巴罗夫斯克机场"
    },
    {
     "name": "Fuyuan Dongji Airport",
@@ -92,7 +93,8 @@
     "lat": 48.197219,
     "lon": 134.36298,
     "type": "medium_airport",
-    "distance_km": 241.2
+    "distance_km": 241.2,
+    "name_zh": "抚远东极机场"
    }
   ],
   "nearest_airport_km": 209.7,
@@ -169,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

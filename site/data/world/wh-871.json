@@ -72,7 +72,8 @@
     "lat": 56.266701,
     "lon": 15.265,
     "type": "medium_airport",
-    "distance_km": 22.6
+    "distance_km": 22.6,
+    "name_zh": "龙讷比机场"
    },
    {
     "name": "Kalmar Airport",
@@ -82,7 +83,8 @@
     "lat": 56.685501,
     "lon": 16.2876,
     "type": "medium_airport",
-    "distance_km": 72.1
+    "distance_km": 72.1,
+    "name_zh": "卡尔马机场"
    },
    {
     "name": "Växjö Kronoberg Airport",
@@ -92,7 +94,8 @@
     "lat": 56.929100036621094,
     "lon": 14.727999687194824,
     "type": "medium_airport",
-    "distance_km": 99.7
+    "distance_km": 99.7,
+    "name_zh": "韦克舍"
    }
   ],
   "nearest_airport_km": 22.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

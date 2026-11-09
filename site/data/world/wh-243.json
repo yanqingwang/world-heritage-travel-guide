@@ -3,8 +3,8 @@
  "unesco_id": "243",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 47,
- "popularity_score": 208246,
+ "popularity_rank": 54,
+ "popularity_score": 229967,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 19.862875,
     "lon": 75.396312,
     "type": "medium_airport",
-    "distance_km": 29.1
+    "distance_km": 29.1,
+    "name_zh": "奥郎加巴德机场"
    },
    {
     "name": "Shirdi International Airport",
@@ -106,7 +107,8 @@
     "lat": 19.689211,
     "lon": 74.373655,
     "type": "large_airport",
-    "distance_km": 92.2
+    "distance_km": 92.2,
+    "name_zh": "舍地机场"
    },
    {
     "name": "Jalgaon Airport",
@@ -295,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

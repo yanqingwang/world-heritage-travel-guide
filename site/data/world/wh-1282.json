@@ -3,8 +3,8 @@
  "unesco_id": "1282",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 667,
- "popularity_score": 4916,
+ "popularity_rank": 709,
+ "popularity_score": 5356,
  "country": "SE",
  "country_zh": "瑞典",
  "country_en": "Sweden",
@@ -72,7 +72,8 @@
     "lat": 62.047798,
     "lon": 14.4229,
     "type": "small_airport",
-    "distance_km": 100.3
+    "distance_km": 100.3,
+    "name_zh": "斯韦格机场"
    },
    {
     "name": "Sundsvall-Härnösand Airport",
@@ -82,7 +83,8 @@
     "lat": 62.528099060058594,
     "lon": 17.443899154663086,
     "type": "medium_airport",
-    "distance_km": 112.0
+    "distance_km": 112.0,
+    "name_zh": "松兹瓦尔-蒂姆罗机场"
    },
    {
     "name": "Mora Airport",
@@ -92,7 +94,8 @@
     "lat": 60.957901,
     "lon": 14.5114,
     "type": "medium_airport",
-    "distance_km": 122.5
+    "distance_km": 122.5,
+    "name_zh": "莫拉-锡利扬机场"
    }
   ],
   "nearest_airport_km": 100.3,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

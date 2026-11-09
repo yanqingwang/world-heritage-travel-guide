@@ -3,7 +3,7 @@
  "unesco_id": "1542",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 958,
+ "popularity_rank": 598,
  "popularity_score": 9994,
  "country": "BH",
  "country_zh": "巴林",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "BH-14",
- "subdivision_zh": "南方省",
- "subdivision_en": "Southern Governorate",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "迪尔穆恩墓葬群",
  "name_zh_source": "unesco_official",
  "name_en": "Dilmun Burial Mounds",
@@ -72,7 +72,8 @@
     "lat": 26.267295,
     "lon": 50.63764,
     "type": "large_airport",
-    "distance_km": 18.1
+    "distance_km": 18.1,
+    "name_zh": "巴林国际机场"
    },
    {
     "name": "King Fahd International Airport",
@@ -82,7 +83,8 @@
     "lat": 26.4691,
     "lon": 49.798209,
     "type": "large_airport",
-    "distance_km": 79.6
+    "distance_km": 79.6,
+    "name_zh": "法赫德国王国际机场"
    },
    {
     "name": "Al-Ahsa International Airport",
@@ -92,7 +94,8 @@
     "lat": 25.285299,
     "lon": 49.485199,
     "type": "large_airport",
-    "distance_km": 140.8
+    "distance_km": 140.8,
+    "name_zh": "胡富夫"
    }
   ],
   "nearest_airport_km": 18.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

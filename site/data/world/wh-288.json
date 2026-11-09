@@ -3,8 +3,8 @@
  "unesco_id": "288",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 361,
- "popularity_score": 19546,
+ "popularity_rank": 380,
+ "popularity_score": 21765,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -17,7 +17,7 @@
  ],
  "region": "State of North Rhine-Westphalia (Nordrhein-Westfalen)",
  "subdivision_iso": "DE-NW",
- "subdivision_zh": "北莱茵-威斯特法伦州",
+ "subdivision_zh": "",
  "subdivision_en": "North Rhine-Westphalia",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "布吕尔的奥古斯塔斯堡古堡和法尔肯拉斯特古堡",
@@ -72,7 +72,8 @@
     "lat": 50.865898,
     "lon": 7.14274,
     "type": "large_airport",
-    "distance_km": 17.0
+    "distance_km": 17.0,
+    "name_zh": "科隆/波恩机场"
    },
    {
     "name": "Düsseldorf Airport",
@@ -82,7 +83,8 @@
     "lat": 51.289501,
     "lon": 6.76678,
     "type": "large_airport",
-    "distance_km": 52.3
+    "distance_km": 52.3,
+    "name_zh": "杜塞尔多夫机场车站"
    },
    {
     "name": "Maastricht Aachen Airport",
@@ -92,7 +94,8 @@
     "lat": 50.911087,
     "lon": 5.769401,
     "type": "large_airport",
-    "distance_km": 80.4
+    "distance_km": 80.4,
+    "name_zh": "马斯特里赫特"
    }
   ],
   "nearest_airport_km": 17.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

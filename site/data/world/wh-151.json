@@ -3,8 +3,8 @@
  "unesco_id": "151",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 85,
- "popularity_score": 140940,
+ "popularity_rank": 96,
+ "popularity_score": 152991,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -106,7 +106,8 @@
     "lat": 46.969399,
     "lon": -122.903,
     "type": "medium_airport",
-    "distance_km": 103.3
+    "distance_km": 103.3,
+    "name_zh": "奥林匹亚区域机场"
    },
    {
     "name": "Lopez Island Airport",
@@ -230,5 +231,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

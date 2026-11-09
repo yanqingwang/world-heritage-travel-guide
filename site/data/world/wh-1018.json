@@ -3,7 +3,7 @@
  "unesco_id": "1018",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 833,
+ "popularity_rank": 878,
  "popularity_score": null,
  "country": "TR",
  "country_zh": "土耳其",
@@ -64,7 +64,8 @@
     "lat": 38.2924,
     "lon": 27.157,
     "type": "large_airport",
-    "distance_km": 42.2
+    "distance_km": 42.2,
+    "name_zh": "伊兹密尔"
    },
    {
     "name": "Samos Airport",
@@ -74,7 +75,8 @@
     "lat": 37.689999,
     "lon": 26.911699,
     "type": "medium_airport",
-    "distance_km": 46.8
+    "distance_km": 46.8,
+    "name_zh": "萨摩斯国际机场"
    },
    {
     "name": "Milas Bodrum International Airport",
@@ -84,7 +86,8 @@
     "lat": 37.249314,
     "lon": 27.66401,
     "type": "large_airport",
-    "distance_km": 82.0
+    "distance_km": 82.0,
+    "name_zh": "米拉斯-博德鲁姆机场"
    }
   ],
   "nearest_airport_km": 42.2,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

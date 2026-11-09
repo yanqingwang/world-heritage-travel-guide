@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iii)"
 lat: 15.46658533
 lon: 101.15009308
-updated_at: "2026-11-09T12:01:06Z"
+updated_at: "2026-11-09T12:50:26Z"
 ---
 
 # 西贴古镇及相关陀罗钵地古迹 / The Ancient Town of Si Thep and its Associated Dvaravati Monuments

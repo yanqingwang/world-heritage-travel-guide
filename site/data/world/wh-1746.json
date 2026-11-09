@@ -3,7 +3,7 @@
  "unesco_id": "1746",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1010,
+ "popularity_rank": 1026,
  "popularity_score": null,
  "country": "SL",
  "country_zh": "塞拉利昂",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "SL-E",
- "subdivision_zh": "东方省",
- "subdivision_en": "Kenema District",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "戈拉-蒂瓦伊综合体",
  "name_zh_source": "unesco_official",
  "name_en": "Gola-Tiwai Complex",
@@ -82,7 +82,8 @@
     "lat": 6.23379,
     "lon": -10.3623,
     "type": "large_airport",
-    "distance_km": 156.3
+    "distance_km": 156.3,
+    "name_zh": "罗伯茨国际机场"
    },
    {
     "name": "Lungi International Airport",
@@ -92,7 +93,8 @@
     "lat": 8.61644,
     "lon": -13.1955,
     "type": "large_airport",
-    "distance_km": 260.0
+    "distance_km": 260.0,
+    "name_zh": "隆吉国际机场"
    }
   ],
   "nearest_airport_km": 129.4,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "663",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 382,
- "popularity_score": 18249,
+ "popularity_rank": 398,
+ "popularity_score": 20673,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 40.191898,
     "lon": 140.371002,
     "type": "medium_airport",
-    "distance_km": 32.2
+    "distance_km": 32.2,
+    "name_zh": "大馆能代机场"
    },
    {
     "name": "Aomori Airport",
@@ -82,7 +83,8 @@
     "lat": 40.733777,
     "lon": 140.689477,
     "type": "large_airport",
-    "distance_km": 52.1
+    "distance_km": 52.1,
+    "name_zh": "青森机场"
    },
    {
     "name": "Akita Airport",
@@ -92,7 +94,8 @@
     "lat": 39.615601,
     "lon": 140.218994,
     "type": "medium_airport",
-    "distance_km": 92.8
+    "distance_km": 92.8,
+    "name_zh": "秋田机场"
    }
   ],
   "nearest_airport_km": 32.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "425",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 24,
- "popularity_score": 445978,
+ "popularity_rank": 26,
+ "popularity_score": 487590,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -96,7 +96,8 @@
     "lat": 51.874699,
     "lon": -0.368333,
     "type": "large_airport",
-    "distance_km": 68.3
+    "distance_km": 68.3,
+    "name_zh": "伦敦卢顿机场"
    },
    {
     "name": "Birmingham Airport",
@@ -106,7 +107,8 @@
     "lat": 52.453899,
     "lon": -1.74803,
     "type": "large_airport",
-    "distance_km": 73.1
+    "distance_km": 73.1,
+    "name_zh": "伯明翰机场"
    },
    {
     "name": "London Heathrow Airport",
@@ -116,7 +118,8 @@
     "lat": 51.470748,
     "lon": -0.459909,
     "type": "large_airport",
-    "distance_km": 74.6
+    "distance_km": 74.6,
+    "name_zh": "希思罗机场"
    }
   ],
   "nearest_airport_km": 68.3,
@@ -318,5 +321,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "93",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 135,
- "popularity_score": 84137,
+ "popularity_rank": 147,
+ "popularity_score": 93460,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -96,7 +96,8 @@
     "lat": 45.445099,
     "lon": 9.27674,
     "type": "large_airport",
-    "distance_km": 8.6
+    "distance_km": 8.6,
+    "name_zh": "连尼治机场"
    },
    {
     "name": "Milan Malpensa International Airport",
@@ -106,7 +107,8 @@
     "lat": 45.6306,
     "lon": 8.72811,
     "type": "large_airport",
-    "distance_km": 39.1
+    "distance_km": 39.1,
+    "name_zh": "米兰－马尔彭萨机场"
    },
    {
     "name": "Il Caravaggio International Airport",
@@ -116,7 +118,8 @@
     "lat": 45.669362,
     "lon": 9.708851,
     "type": "large_airport",
-    "distance_km": 47.6
+    "distance_km": 47.6,
+    "name_zh": "卡拉瓦乔二世国际机场"
    }
   ],
   "nearest_airport_km": 8.6,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

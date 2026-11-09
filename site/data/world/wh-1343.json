@@ -3,7 +3,7 @@
  "unesco_id": "1343",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 913,
+ "popularity_rank": 943,
  "popularity_score": null,
  "country": "AE",
  "country_zh": "阿拉伯联合酋长国",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "AE-AZ",
- "subdivision_zh": "阿布扎比酋长国",
- "subdivision_en": "Abu Dhabi Emirate",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "艾恩文化遗址：哈菲特、西里、比达-宾特-沙特以及绿洲",
  "name_zh_source": "unesco_official",
  "name_en": "Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
@@ -72,7 +72,8 @@
     "lat": 24.2617,
     "lon": 55.6092,
     "type": "large_airport",
-    "distance_km": 29.4
+    "distance_km": 29.4,
+    "name_zh": "艾因国际机场"
    },
    {
     "name": "Suhar International Airport",
@@ -92,7 +93,8 @@
     "lat": 24.896171,
     "lon": 55.16235,
     "type": "large_airport",
-    "distance_km": 112.8
+    "distance_km": 112.8,
+    "name_zh": "阿勒马克图姆国际机场"
    }
   ],
   "nearest_airport_km": 29.4,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

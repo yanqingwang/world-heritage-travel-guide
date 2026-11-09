@@ -3,7 +3,7 @@
  "unesco_id": "55",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1094,
+ "popularity_rank": 1105,
  "popularity_score": null,
  "country": "NO",
  "country_zh": "挪威",
@@ -82,7 +82,8 @@
     "lat": 63.457802,
     "lon": 10.924,
     "type": "large_airport",
-    "distance_km": 101.0
+    "distance_km": 101.0,
+    "name_zh": "特隆赫姆"
    },
    {
     "name": "Ørland Airport",
@@ -92,7 +93,8 @@
     "lat": 63.69889831542969,
     "lon": 9.604000091552734,
     "type": "medium_airport",
-    "distance_km": 153.8
+    "distance_km": 153.8,
+    "name_zh": "奥兰德主航空站"
    }
   ],
   "nearest_airport_km": 2.3,
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

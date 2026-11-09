@@ -3,8 +3,8 @@
  "unesco_id": "1687",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 170,
- "popularity_score": 64661,
+ "popularity_rank": 185,
+ "popularity_score": 70694,
  "country": "PS",
  "country_zh": "巴勒斯坦",
  "country_en": "Palestine",
@@ -96,7 +96,8 @@
     "lat": 31.9727,
     "lon": 35.9916,
     "type": "large_airport",
-    "distance_km": 52.8
+    "distance_km": 52.8,
+    "name_zh": "马尔卡国际机场"
    },
    {
     "name": "Queen Alia International Airport",
@@ -106,7 +107,8 @@
     "lat": 31.7226009369,
     "lon": 35.9931983948,
     "type": "large_airport",
-    "distance_km": 54.4
+    "distance_km": 54.4,
+    "name_zh": "阿勒娅王后国际机场"
    },
    {
     "name": "Ben Gurion International Airport",
@@ -116,7 +118,8 @@
     "lat": 32.011398,
     "lon": 34.8867,
     "type": "large_airport",
-    "distance_km": 54.9
+    "distance_km": 54.9,
+    "name_zh": "本-古里安国际机场"
    }
   ],
   "nearest_airport_km": 52.8,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "442",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 821,
- "popularity_score": 411,
+ "popularity_rank": 867,
+ "popularity_score": 417,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -72,7 +72,8 @@
     "lat": 38.13859939575195,
     "lon": -78.4529037475586,
     "type": "medium_airport",
-    "distance_km": 12.6
+    "distance_km": 12.6,
+    "name_zh": "夏洛茨维尔-阿尔伯马尔机场"
    },
    {
     "name": "Shenandoah Valley Regional Airport",
@@ -82,7 +83,8 @@
     "lat": 38.263802,
     "lon": -78.8964,
     "type": "medium_airport",
-    "distance_km": 42.9
+    "distance_km": 42.9,
+    "name_zh": "谢南多亚山谷区域机场"
    },
    {
     "name": "Lynchburg Regional Airport - Preston Glenn Field",
@@ -92,7 +94,8 @@
     "lat": 37.326698,
     "lon": -79.200401,
     "type": "medium_airport",
-    "distance_km": 99.6
+    "distance_km": 99.6,
+    "name_zh": "林奇堡地域机场"
    }
   ],
   "nearest_airport_km": 12.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

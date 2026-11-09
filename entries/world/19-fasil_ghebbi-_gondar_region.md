@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)"
 lat: 12.608055555
 lon: 37.469722222
-updated_at: "2026-11-09T12:00:56Z"
+updated_at: "2026-11-09T12:50:16Z"
 ---
 
 # 贡德尔地区的法西尔盖比城堡及古建筑 / Fasil Ghebbi, Gondar Region

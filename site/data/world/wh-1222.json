@@ -3,8 +3,8 @@
  "unesco_id": "1222",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 216,
- "popularity_score": 40735,
+ "popularity_rank": 237,
+ "popularity_score": 42368,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -96,7 +96,8 @@
     "lat": 34.3459014893,
     "lon": 47.1581001282,
     "type": "medium_airport",
-    "distance_km": 26.0
+    "distance_km": 26.0,
+    "name_zh": "克尔曼沙赫"
    },
    {
     "name": "Sanandaj Airport",
@@ -116,7 +117,8 @@
     "lat": 34.866416,
     "lon": 48.56069,
     "type": "medium_airport",
-    "distance_km": 115.7
+    "distance_km": 115.7,
+    "name_zh": "哈马丹机场"
    }
   ],
   "nearest_airport_km": 26.0,
@@ -269,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

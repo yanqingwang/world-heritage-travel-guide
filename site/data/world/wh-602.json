@@ -3,7 +3,7 @@
  "unesco_id": "602",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1111,
+ "popularity_rank": 1116,
  "popularity_score": null,
  "country": "UZ",
  "country_zh": "乌兹别克斯坦",
@@ -72,7 +72,8 @@
     "lat": 39.775319,
     "lon": 64.482279,
     "type": "large_airport",
-    "distance_km": 4.3
+    "distance_km": 4.3,
+    "name_zh": "布哈拉国际机场"
    },
    {
     "name": "Navoi International Airport",
@@ -82,7 +83,8 @@
     "lat": 40.117599,
     "lon": 65.172658,
     "type": "medium_airport",
-    "distance_km": 74.1
+    "distance_km": 74.1,
+    "name_zh": "纳沃伊国际机场"
    },
    {
     "name": "Türkmenabat International Airport",
@@ -92,7 +94,8 @@
     "lat": 38.930662,
     "lon": 63.563982,
     "type": "large_airport",
-    "distance_km": 119.3
+    "distance_km": 119.3,
+    "name_zh": "土库曼纳巴德机场"
    }
   ],
   "nearest_airport_km": 4.3,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1578",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 727,
- "popularity_score": 3594,
+ "popularity_rank": 768,
+ "popularity_score": 3935,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 27.9319,
     "lon": -15.3866,
     "type": "large_airport",
-    "distance_km": 29.7
+    "distance_km": 29.7,
+    "name_zh": "大加那利机场"
    },
    {
     "name": "Tenerife Norte-Ciudad de La Laguna Airport",
@@ -82,7 +83,8 @@
     "lat": 28.482752,
     "lon": -16.341707,
     "type": "large_airport",
-    "distance_km": 82.6
+    "distance_km": 82.6,
+    "name_zh": "特内里费北部-拉拉古纳市机场"
    },
    {
     "name": "Tenerife Sur Airport",
@@ -92,7 +94,8 @@
     "lat": 28.0445,
     "lon": -16.5725,
     "type": "large_airport",
-    "distance_km": 89.4
+    "distance_km": 89.4,
+    "name_zh": "特内里费南部机场"
    }
   ],
   "nearest_airport_km": 29.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

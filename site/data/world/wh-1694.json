@@ -3,8 +3,8 @@
  "unesco_id": "1694",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 463,
- "popularity_score": 12610,
+ "popularity_rank": 516,
+ "popularity_score": 12901,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -72,7 +72,8 @@
     "lat": 39.111107,
     "lon": 30.130405,
     "type": "medium_airport",
-    "distance_km": 52.5
+    "distance_km": 52.5,
+    "name_zh": "屈塔希亚"
    },
    {
     "name": "Süleyman Demirel International Airport",
@@ -82,7 +83,8 @@
     "lat": 37.8554,
     "lon": 30.368401,
     "type": "medium_airport",
-    "distance_km": 101.0
+    "distance_km": 101.0,
+    "name_zh": "伊斯帕尔塔"
    },
    {
     "name": "Hasan Polatkan Airport",
@@ -92,7 +94,8 @@
     "lat": 39.811644,
     "lon": 30.519268,
     "type": "large_airport",
-    "distance_km": 117.5
+    "distance_km": 117.5,
+    "name_zh": "哈桑·波拉特坎机场"
    }
   ],
   "nearest_airport_km": 52.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

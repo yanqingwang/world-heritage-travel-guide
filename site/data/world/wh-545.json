@@ -3,8 +3,8 @@
  "unesco_id": "545",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 46,
- "popularity_score": 208347,
+ "popularity_rank": 58,
+ "popularity_score": 226470,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -96,7 +96,8 @@
     "lat": 55.977486,
     "lon": 37.386677,
     "type": "large_airport",
-    "distance_km": 28.8
+    "distance_km": 28.8,
+    "name_zh": "谢列梅捷沃国际机场"
    },
    {
     "name": "Vnukovo International Airport",
@@ -106,7 +107,8 @@
     "lat": 55.591499,
     "lon": 37.261501,
     "type": "large_airport",
-    "distance_km": 28.9
+    "distance_km": 28.9,
+    "name_zh": "伏努科沃国际机场"
    },
    {
     "name": "Zhukovsky International Airport",
@@ -116,7 +118,8 @@
     "lat": 55.553299,
     "lon": 38.150002,
     "type": "large_airport",
-    "distance_km": 40.1
+    "distance_km": 40.1,
+    "name_zh": "拉缅斯科耶机场"
    }
   ],
   "nearest_airport_km": 28.8,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

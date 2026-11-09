@@ -3,8 +3,8 @@
  "unesco_id": "1140",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 476,
- "popularity_score": 12196,
+ "popularity_rank": 522,
+ "popularity_score": 12629,
  "country": "BJ",
  "country_zh": "贝宁",
  "country_en": "Benin",
@@ -77,7 +77,8 @@
     "lat": 9.553909,
     "lon": -0.86606,
     "type": "large_airport",
-    "distance_km": 220.3
+    "distance_km": 220.3,
+    "name_zh": "塔马利"
    },
    {
     "name": "Ouagadougou Thomas Sankara International Airport",
@@ -87,7 +88,8 @@
     "lat": 12.3532,
     "lon": -1.51242,
     "type": "large_airport",
-    "distance_km": 376.7
+    "distance_km": 376.7,
+    "name_zh": "瓦加杜古国际机场"
    },
    {
     "name": "Diori Hamani International Airport",
@@ -97,7 +99,8 @@
     "lat": 13.4815,
     "lon": 2.18361,
     "type": "large_airport",
-    "distance_km": 395.2
+    "distance_km": 395.2,
+    "name_zh": "迪奥里·哈马尼国际机场"
    }
   ],
   "nearest_airport_km": 220.3,
@@ -186,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

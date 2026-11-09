@@ -3,8 +3,8 @@
  "unesco_id": "1643",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 656,
- "popularity_score": 5291,
+ "popularity_rank": 703,
+ "popularity_score": 5708,
  "country": "SI",
  "country_zh": "斯洛文尼亚",
  "country_en": "Slovenia",
@@ -72,7 +72,8 @@
     "lat": 46.223701,
     "lon": 14.4576,
     "type": "large_airport",
-    "distance_km": 20.3
+    "distance_km": 20.3,
+    "name_zh": "卢布尔雅那约热·普奇尼克机场"
    },
    {
     "name": "Klagenfurt Airport",
@@ -82,7 +83,8 @@
     "lat": 46.642502,
     "lon": 14.3377,
     "type": "large_airport",
-    "distance_km": 67.8
+    "distance_km": 67.8,
+    "name_zh": "克拉根福机场"
    },
    {
     "name": "Trieste Airport",
@@ -92,7 +94,8 @@
     "lat": 45.827862,
     "lon": 13.466672,
     "type": "large_airport",
-    "distance_km": 83.6
+    "distance_km": 83.6,
+    "name_zh": "的里雅斯特机场"
    }
   ],
   "nearest_airport_km": 20.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "390",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 366,
- "popularity_score": 19410,
+ "popularity_rank": 388,
+ "popularity_score": 21144,
  "country": "SI",
  "country_zh": "斯洛文尼亚",
  "country_en": "Slovenia",
@@ -72,7 +72,8 @@
     "lat": 45.827862,
     "lon": 13.466672,
     "type": "large_airport",
-    "distance_km": 44.8
+    "distance_km": 44.8,
+    "name_zh": "的里雅斯特机场"
    },
    {
     "name": "Rijeka Airport",
@@ -82,7 +83,8 @@
     "lat": 45.216376,
     "lon": 14.57085,
     "type": "large_airport",
-    "distance_km": 67.1
+    "distance_km": 67.1,
+    "name_zh": "里耶卡机场"
    },
    {
     "name": "Ljubljana Jože Pučnik Airport",
@@ -92,7 +94,8 @@
     "lat": 46.223701,
     "lon": 14.4576,
     "type": "large_airport",
-    "distance_km": 71.7
+    "distance_km": 71.7,
+    "name_zh": "卢布尔雅那约热·普奇尼克机场"
    }
   ],
   "nearest_airport_km": 44.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

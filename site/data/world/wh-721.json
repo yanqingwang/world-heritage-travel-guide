@@ -3,8 +3,8 @@
  "unesco_id": "721",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 116,
- "popularity_score": 103894,
+ "popularity_rank": 129,
+ "popularity_score": 111352,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 32.337501525878906,
     "lon": -104.26300048828125,
     "type": "medium_airport",
-    "distance_km": 24.8
+    "distance_km": 24.8,
+    "name_zh": "Cavern城航空站"
    },
    {
     "name": "Roswell Air Center Airport",
@@ -106,7 +107,8 @@
     "lat": 33.301601,
     "lon": -104.530998,
     "type": "medium_airport",
-    "distance_km": 125.5
+    "distance_km": 125.5,
+    "name_zh": "罗斯威尔国际航空中心"
    },
    {
     "name": "Lea County Regional Airport",
@@ -116,7 +118,8 @@
     "lat": 32.6875,
     "lon": -103.217003,
     "type": "medium_airport",
-    "distance_km": 128.5
+    "distance_km": 128.5,
+    "name_zh": "利郡区域机场"
    }
   ],
   "nearest_airport_km": 24.8,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

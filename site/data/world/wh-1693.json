@@ -3,7 +3,7 @@
  "unesco_id": "1693",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 995,
+ "popularity_rank": 1011,
  "popularity_score": null,
  "country": "KZ",
  "country_zh": "哈萨克斯坦",
@@ -26,10 +26,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KZ-33",
- "subdivision_zh": "杰特苏州",
- "subdivision_en": "Jetisu Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "图兰的冷冬沙漠",
  "name_zh_source": "unesco_official",
  "name_en": "Cold Winter Deserts of Turan",
@@ -102,7 +102,8 @@
     "lat": 43.354267,
     "lon": 77.042828,
     "type": "large_airport",
-    "distance_km": 176.7
+    "distance_km": 176.7,
+    "name_zh": "阿拉木图国际机场"
    }
   ],
   "nearest_airport_km": 130.6,
@@ -201,5 +202,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

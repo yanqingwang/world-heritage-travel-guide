@@ -3,8 +3,8 @@
  "unesco_id": "323",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 393,
- "popularity_score": 17030,
+ "popularity_rank": 419,
+ "popularity_score": 18612,
  "country": "BJ",
  "country_zh": "贝宁",
  "country_en": "Benin",
@@ -72,7 +72,8 @@
     "lat": 6.35723,
     "lon": 2.38435,
     "type": "large_airport",
-    "distance_km": 102.0
+    "distance_km": 102.0,
+    "name_zh": "柯多努国际机场"
    },
    {
     "name": "Lomé–Tokoin International Airport",
@@ -82,7 +83,8 @@
     "lat": 6.16561,
     "lon": 1.25451,
     "type": "large_airport",
-    "distance_km": 139.4
+    "distance_km": 139.4,
+    "name_zh": "纳辛贝·埃亚德马国际机场"
    },
    {
     "name": "Murtala Muhammed International Airport",
@@ -92,7 +94,8 @@
     "lat": 6.57737,
     "lon": 3.32116,
     "type": "large_airport",
-    "distance_km": 162.0
+    "distance_km": 162.0,
+    "name_zh": "穆尔塔拉·穆罕默德国际机场"
    }
   ],
   "nearest_airport_km": 102.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1631",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 634,
- "popularity_score": 5872,
+ "popularity_rank": 681,
+ "popularity_score": 6346,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -21,10 +21,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "DE-NW",
- "subdivision_zh": "北莱茵-威斯特法伦州",
- "subdivision_en": "North Rhine-Westphalia",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "罗马帝国边境--下日耳曼界墙",
  "name_zh_source": "unesco_official",
  "name_en": "Frontiers of the Roman Empire – The Lower German Limes",
@@ -77,7 +77,8 @@
     "lat": 51.601362,
     "lon": 6.141228,
     "type": "large_airport",
-    "distance_km": 22.6
+    "distance_km": 22.6,
+    "name_zh": "韦策机场"
    },
    {
     "name": "Düsseldorf Airport",
@@ -87,7 +88,8 @@
     "lat": 51.289501,
     "lon": 6.76678,
     "type": "large_airport",
-    "distance_km": 46.8
+    "distance_km": 46.8,
+    "name_zh": "杜塞尔多夫机场车站"
    },
    {
     "name": "Eindhoven Airport",
@@ -97,7 +99,8 @@
     "lat": 51.4500999451,
     "lon": 5.37452983856,
     "type": "large_airport",
-    "distance_km": 78.3
+    "distance_km": 78.3,
+    "name_zh": "埃因霍温机场"
    }
   ],
   "nearest_airport_km": 22.6,
@@ -186,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

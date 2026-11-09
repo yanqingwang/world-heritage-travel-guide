@@ -3,8 +3,8 @@
  "unesco_id": "1361",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 259,
- "popularity_score": 30392,
+ "popularity_rank": 278,
+ "popularity_score": 33614,
  "country": "SA",
  "country_zh": "沙特阿拉伯",
  "country_en": "Saudi Arabia",
@@ -96,7 +96,8 @@
     "lat": 21.680241,
     "lon": 39.157436,
     "type": "large_airport",
-    "distance_km": 22.3
+    "distance_km": 22.3,
+    "name_zh": "阿卜杜勒-阿齐兹国王国际机场"
    },
    {
     "name": "Taif International Airport",
@@ -106,7 +107,8 @@
     "lat": 21.484739,
     "lon": 40.544074,
     "type": "large_airport",
-    "distance_km": 139.1
+    "distance_km": 139.1,
+    "name_zh": "塔伊夫地区机场"
    },
    {
     "name": "King Saud Bin Abdulaziz (Al Baha) Airport",
@@ -116,7 +118,8 @@
     "lat": 20.298506,
     "lon": 41.636153,
     "type": "medium_airport",
-    "distance_km": 285.3
+    "distance_km": 285.3,
+    "name_zh": "巴哈国内机场"
    }
   ],
   "nearest_airport_km": 22.3,
@@ -268,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "495",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1085,
+ "popularity_rank": 1096,
  "popularity_score": null,
  "country": "FR",
  "country_zh": "法国",
@@ -72,7 +72,8 @@
     "lat": 48.5383,
     "lon": 7.62823,
     "type": "large_airport",
-    "distance_km": 10.3
+    "distance_km": 10.3,
+    "name_zh": "斯特拉斯堡机场"
    },
    {
     "name": "Karlsruhe Baden-Baden Airport",
@@ -82,7 +83,8 @@
     "lat": 48.7794,
     "lon": 8.0805,
     "type": "large_airport",
-    "distance_km": 32.6
+    "distance_km": 32.6,
+    "name_zh": "卡尔斯鲁厄/巴登-巴登机场"
    },
    {
     "name": "Saarbrücken Airport",
@@ -92,7 +94,8 @@
     "lat": 49.214545,
     "lon": 7.109735,
     "type": "medium_airport",
-    "distance_km": 84.2
+    "distance_km": 84.2,
+    "name_zh": "萨尔布吕肯机场"
    }
   ],
   "nearest_airport_km": 10.3,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

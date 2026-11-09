@@ -3,8 +3,8 @@
  "unesco_id": "1580",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 795,
- "popularity_score": 1378,
+ "popularity_rank": 841,
+ "popularity_score": 1503,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -72,7 +72,8 @@
     "lat": 47.988092,
     "lon": 10.238248,
     "type": "large_airport",
-    "distance_km": 64.7
+    "distance_km": 64.7,
+    "name_zh": "梅明根机场"
    },
    {
     "name": "Munich Airport",
@@ -82,7 +83,8 @@
     "lat": 48.353802,
     "lon": 11.7861,
     "type": "large_airport",
-    "distance_km": 65.3
+    "distance_km": 65.3,
+    "name_zh": "慕尼黑机场"
    },
    {
     "name": "Nuremberg Airport",
@@ -92,7 +94,8 @@
     "lat": 49.498699,
     "lon": 11.078056,
     "type": "large_airport",
-    "distance_km": 126.7
+    "distance_km": 126.7,
+    "name_zh": "纽伦堡机场"
    }
   ],
   "nearest_airport_km": 64.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

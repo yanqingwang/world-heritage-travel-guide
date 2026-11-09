@@ -64,7 +64,8 @@
     "lat": 49.696301,
     "lon": 18.111099,
     "type": "large_airport",
-    "distance_km": 63.0
+    "distance_km": 63.0,
+    "name_zh": "俄斯特拉发"
    },
    {
     "name": "Brno-Tuřany Airport",
@@ -74,7 +75,8 @@
     "lat": 49.151276,
     "lon": 16.693972,
     "type": "medium_airport",
-    "distance_km": 63.6
+    "distance_km": 63.6,
+    "name_zh": "布尔诺-图拉尼机场"
    },
    {
     "name": "Pardubice Airport",
@@ -84,7 +86,8 @@
     "lat": 50.015049,
     "lon": 15.73981,
     "type": "large_airport",
-    "distance_km": 118.1
+    "distance_km": 118.1,
+    "name_zh": "帕尔杜比采机场"
    }
   ],
   "nearest_airport_km": 63.0,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

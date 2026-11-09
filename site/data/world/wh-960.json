@@ -64,7 +64,8 @@
     "lat": 40.148941,
     "lon": 44.397887,
     "type": "large_airport",
-    "distance_km": 33.9
+    "distance_km": 33.9,
+    "name_zh": "兹瓦尔特诺茨国际机场"
    },
    {
     "name": "Iğdır Airport",
@@ -74,7 +75,8 @@
     "lat": 39.976627,
     "lon": 43.876648,
     "type": "medium_airport",
-    "distance_km": 80.9
+    "distance_km": 80.9,
+    "name_zh": "厄德尔机场"
    },
    {
     "name": "Shirak International Airport",
@@ -84,7 +86,8 @@
     "lat": 40.750401,
     "lon": 43.859299,
     "type": "large_airport",
-    "distance_km": 103.0
+    "distance_km": 103.0,
+    "name_zh": "希拉克机场"
    }
   ],
   "nearest_airport_km": 33.9,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

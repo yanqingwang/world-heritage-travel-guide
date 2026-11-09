@@ -3,8 +3,8 @@
  "unesco_id": "1224",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 101,
- "popularity_score": 111788,
+ "popularity_rank": 117,
+ "popularity_score": 120157,
  "country": "KH",
  "country_zh": "柬埔寨",
  "country_en": "Cambodia",
@@ -96,7 +96,8 @@
     "lat": 15.2512998581,
     "lon": 104.870002747,
     "type": "medium_airport",
-    "distance_km": 97.9
+    "distance_km": 97.9,
+    "name_zh": "乌汶叻差他尼国际机场"
    },
    {
     "name": "Siem Reap-Angkor International Airport",
@@ -106,7 +107,8 @@
     "lat": 13.36974,
     "lon": 104.223831,
     "type": "large_airport",
-    "distance_km": 123.7
+    "distance_km": 123.7,
+    "name_zh": "暹粒吴哥国际机场"
    },
    {
     "name": "Surin Airport",
@@ -251,5 +253,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

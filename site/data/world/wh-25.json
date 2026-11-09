@@ -3,8 +3,8 @@
  "unesco_id": "25",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 713,
- "popularity_score": 3889,
+ "popularity_rank": 756,
+ "popularity_score": 4229,
  "country": "SN",
  "country_zh": "塞内加尔",
  "country_en": "Senegal",
@@ -72,7 +72,8 @@
     "lat": 14.670878,
     "lon": -17.072829,
     "type": "large_airport",
-    "distance_km": 206.2
+    "distance_km": 206.2,
+    "name_zh": "达喀尔"
    },
    {
     "name": "Nouakchott–Oumtounsy International Airport",
@@ -82,7 +83,8 @@
     "lat": 18.31,
     "lon": -15.969722,
     "type": "large_airport",
-    "distance_km": 219.4
+    "distance_km": 219.4,
+    "name_zh": "诺克少"
    },
    {
     "name": "Banjul International Airport",
@@ -92,7 +94,8 @@
     "lat": 13.338,
     "lon": -16.652201,
     "type": "large_airport",
-    "distance_km": 338.3
+    "distance_km": 338.3,
+    "name_zh": "班珠尔国际机场"
    }
   ],
   "nearest_airport_km": 206.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

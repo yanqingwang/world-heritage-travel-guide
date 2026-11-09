@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iv)"
 lat: 22.616666666667
 lon: -83.716666666667
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:21Z"
 ---
 
 # 比尼亚莱斯山谷 / Viñales Valley

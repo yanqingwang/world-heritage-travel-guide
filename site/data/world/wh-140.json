@@ -3,7 +3,7 @@
  "unesco_id": "140",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 928,
+ "popularity_rank": 953,
  "popularity_score": null,
  "country": "PK",
  "country_zh": "巴基斯坦",
@@ -64,7 +64,8 @@
     "lat": 33.9939,
     "lon": 71.514603,
     "type": "large_airport",
-    "distance_km": 53.8
+    "distance_km": 53.8,
+    "name_zh": "巴查·汗国际机场"
    },
    {
     "name": "Islamabad International Airport",
@@ -74,7 +75,8 @@
     "lat": 33.549,
     "lon": 72.82566,
     "type": "large_airport",
-    "distance_km": 118.1
+    "distance_km": 118.1,
+    "name_zh": "新伊斯兰玛巴德国际机场"
    },
    {
     "name": "Muzaffarabad Airport",
@@ -165,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

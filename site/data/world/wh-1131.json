@@ -3,7 +3,7 @@
  "unesco_id": "1131",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 862,
+ "popularity_rank": 901,
  "popularity_score": null,
  "country": "AU",
  "country_zh": "澳大利亚",
@@ -72,7 +72,8 @@
     "lat": -37.7281,
     "lon": 144.901993,
     "type": "medium_airport",
-    "distance_km": 10.5
+    "distance_km": 10.5,
+    "name_zh": "埃森登机场"
    },
    {
     "name": "Melbourne Airport",
@@ -82,7 +83,8 @@
     "lat": -37.670732,
     "lon": 144.837898,
     "type": "large_airport",
-    "distance_km": 19.0
+    "distance_km": 19.0,
+    "name_zh": "墨尔本机场"
    },
    {
     "name": "Melbourne Moorabbin Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

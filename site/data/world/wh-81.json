@@ -3,8 +3,8 @@
  "unesco_id": "81",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 70,
- "popularity_score": 162124,
+ "popularity_rank": 77,
+ "popularity_score": 179395,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -96,7 +96,8 @@
     "lat": 48.729499,
     "lon": 2.358963,
     "type": "large_airport",
-    "distance_km": 71.3
+    "distance_km": 71.3,
+    "name_zh": "巴黎－奥利机场"
    },
    {
     "name": "Charles de Gaulle International Airport",
@@ -106,7 +107,8 @@
     "lat": 49.00896,
     "lon": 2.554117,
     "type": "large_airport",
-    "distance_km": 100.1
+    "distance_km": 100.1,
+    "name_zh": "巴黎夏尔·戴高乐机场"
    },
    {
     "name": "Beauvais-Tillé airport",
@@ -116,7 +118,8 @@
     "lat": 49.454399,
     "lon": 2.11278,
     "type": "large_airport",
-    "distance_km": 120.9
+    "distance_km": 120.9,
+    "name_zh": "巴黎-博韦"
    }
   ],
   "nearest_airport_km": 71.3,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

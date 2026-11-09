@@ -3,7 +3,7 @@
  "unesco_id": "1548",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 961,
+ "popularity_rank": 621,
  "popularity_score": 8824,
  "country": "BR",
  "country_zh": "巴西",
@@ -72,7 +72,8 @@
     "lat": -22.910397,
     "lon": -43.16282,
     "type": "large_airport",
-    "distance_km": 2.9
+    "distance_km": 2.9,
+    "name_zh": "圣杜蒙特机场"
    },
    {
     "name": "Rio de Janeiro Galeão – Tom Jobim International Airport",
@@ -82,7 +83,8 @@
     "lat": -22.809999,
     "lon": -43.250557,
     "type": "large_airport",
-    "distance_km": 11.6
+    "distance_km": 11.6,
+    "name_zh": "里约热内卢/加利昂－安东尼奥·卡洛斯·若宾国际机场"
    },
    {
     "name": "Cabo Frio Airport",
@@ -92,7 +94,8 @@
     "lat": -22.921485,
     "lon": -42.071874,
     "type": "small_airport",
-    "distance_km": 114.3
+    "distance_km": 114.3,
+    "name_zh": "卡波弗里奥国际机场"
    }
   ],
   "nearest_airport_km": 2.9,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

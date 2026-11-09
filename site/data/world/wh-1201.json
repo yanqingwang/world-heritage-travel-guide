@@ -3,8 +3,8 @@
  "unesco_id": "1201",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 524,
- "popularity_score": 10411,
+ "popularity_rank": 549,
+ "popularity_score": 11595,
  "country": "MW",
  "country_zh": "马拉维",
  "country_en": "Malawi",
@@ -72,7 +72,8 @@
     "lat": -15.677189,
     "lon": 34.972319,
     "type": "large_airport",
-    "distance_km": 76.6
+    "distance_km": 76.6,
+    "name_zh": "Chileka国际机场"
    },
    {
     "name": "Tete Airport",
@@ -82,7 +83,8 @@
     "lat": -16.104799,
     "lon": 33.640202,
     "type": "large_airport",
-    "distance_km": 216.0
+    "distance_km": 216.0,
+    "name_zh": "太特"
    },
    {
     "name": "Quelimane Airport",
@@ -92,7 +94,8 @@
     "lat": -17.855499267578125,
     "lon": 36.86909866333008,
     "type": "medium_airport",
-    "distance_km": 253.2
+    "distance_km": 253.2,
+    "name_zh": "克利马内机场"
    }
   ],
   "nearest_airport_km": 76.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

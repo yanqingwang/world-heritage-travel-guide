@@ -3,8 +3,8 @@
  "unesco_id": "1654",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 712,
- "popularity_score": 3911,
+ "popularity_rank": 755,
+ "popularity_score": 4293,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "RU-KR",
- "subdivision_zh": "卡累利阿共和国",
- "subdivision_en": "Karelia",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "奥涅加湖和白海的岩刻",
  "name_zh_source": "unesco_official",
  "name_en": "Petroglyphs of Lake Onega and the White Sea",
@@ -72,7 +72,8 @@
     "lat": 61.885201,
     "lon": 34.154701,
     "type": "medium_airport",
-    "distance_km": 99.1
+    "distance_km": 99.1,
+    "name_zh": "罗扎沃茨克机场"
    },
    {
     "name": "Cherepovets Airport",
@@ -82,7 +83,8 @@
     "lat": 59.273601532,
     "lon": 38.015800476100004,
     "type": "medium_airport",
-    "distance_km": 294.3
+    "distance_km": 294.3,
+    "name_zh": "切列波韦茨机场"
    },
    {
     "name": "Joensuu Airport",
@@ -92,7 +94,8 @@
     "lat": 62.658815,
     "lon": 29.619398,
     "type": "medium_airport",
-    "distance_km": 347.2
+    "distance_km": 347.2,
+    "name_zh": "约恩苏机场"
    }
   ],
   "nearest_airport_km": 99.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

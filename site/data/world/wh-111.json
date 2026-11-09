@@ -3,8 +3,8 @@
  "unesco_id": "111",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 553,
- "popularity_score": 9289,
+ "popularity_rank": 592,
+ "popularity_score": 10137,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
  "country_en": "Ethiopia",
@@ -72,7 +72,8 @@
     "lat": 7.100611,
     "lon": 38.396455,
     "type": "large_airport",
-    "distance_km": 154.4
+    "distance_km": 154.4,
+    "name_zh": "阿瓦萨机场"
    },
    {
     "name": "Arba Minch Airport",
@@ -82,7 +83,8 @@
     "lat": 6.03939,
     "lon": 37.5905,
     "type": "medium_airport",
-    "distance_km": 251.4
+    "distance_km": 251.4,
+    "name_zh": "阿尔巴门奇机场"
    },
    {
     "name": "Addis Ababa Bole International Airport",
@@ -92,7 +94,8 @@
     "lat": 8.97789,
     "lon": 38.799301,
     "type": "large_airport",
-    "distance_km": 269.0
+    "distance_km": 269.0,
+    "name_zh": "博莱国际机场"
    }
   ],
   "nearest_airport_km": 154.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

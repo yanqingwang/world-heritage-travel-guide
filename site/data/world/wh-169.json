@@ -3,8 +3,8 @@
  "unesco_id": "169",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 209,
- "popularity_score": 42121,
+ "popularity_rank": 226,
+ "popularity_score": 46679,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -96,7 +96,8 @@
     "lat": 49.498699,
     "lon": 11.078056,
     "type": "large_airport",
-    "distance_km": 88.3
+    "distance_km": 88.3,
+    "name_zh": "纽伦堡机场"
    },
    {
     "name": "Frankfurt Main Airport",
@@ -106,7 +107,8 @@
     "lat": 50.026706,
     "lon": 8.55835,
     "type": "large_airport",
-    "distance_km": 102.2
+    "distance_km": 102.2,
+    "name_zh": "法兰克福机场"
    },
    {
     "name": "Mannheim-City Airport",
@@ -116,7 +118,8 @@
     "lat": 49.473057,
     "lon": 8.514167,
     "type": "medium_airport",
-    "distance_km": 108.6
+    "distance_km": 108.6,
+    "name_zh": "曼海姆城市机场"
    }
   ],
   "nearest_airport_km": 88.3,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

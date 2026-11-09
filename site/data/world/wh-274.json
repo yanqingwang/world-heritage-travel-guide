@@ -3,8 +3,8 @@
  "unesco_id": "274",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 575,
- "popularity_score": 8323,
+ "popularity_rank": 616,
+ "popularity_score": 9001,
  "country": "PE",
  "country_zh": "秘鲁",
  "country_en": "Peru",
@@ -72,7 +72,8 @@
     "lat": -13.535699844400002,
     "lon": -71.9387969971,
     "type": "large_airport",
-    "distance_km": 83.9
+    "distance_km": 83.9,
+    "name_zh": "Alejandro Velasco Astete国际机场"
    },
    {
     "name": "Andahuaylas Airport",
@@ -82,7 +83,8 @@
     "lat": -13.706399917602539,
     "lon": -73.35040283203125,
     "type": "small_airport",
-    "distance_km": 105.8
+    "distance_km": 105.8,
+    "name_zh": "安达韦拉斯机场"
    },
    {
     "name": "Air Force Colonel Alfredo Mendivil Duarte Airport",
@@ -92,7 +94,8 @@
     "lat": -13.1548,
     "lon": -74.204399,
     "type": "medium_airport",
-    "distance_km": 175.6
+    "distance_km": 175.6,
+    "name_zh": "Coronel FAP Alfredo Mendívil Duarte机场"
    }
   ],
   "nearest_airport_km": 83.9,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

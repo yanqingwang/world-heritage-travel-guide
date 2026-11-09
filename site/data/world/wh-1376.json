@@ -3,8 +3,8 @@
  "unesco_id": "1376",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 84,
- "popularity_score": 143889,
+ "popularity_rank": 94,
+ "popularity_score": 154121,
  "country": "BB",
  "country_zh": "巴巴多斯",
  "country_en": "Barbados",
@@ -96,7 +96,8 @@
     "lat": 13.074667,
     "lon": -59.491034,
     "type": "large_airport",
-    "distance_km": 13.8
+    "distance_km": 13.8,
+    "name_zh": "布里奇敦国际机场"
    },
    {
     "name": "Hewanorra International Airport",
@@ -106,7 +107,8 @@
     "lat": 13.7332,
     "lon": -60.952599,
     "type": "large_airport",
-    "distance_km": 160.9
+    "distance_km": 160.9,
+    "name_zh": "圣露西亚"
    },
    {
     "name": "Argyle International Airport",
@@ -116,7 +118,8 @@
     "lat": 13.159725,
     "lon": -61.148801,
     "type": "large_airport",
-    "distance_km": 166.1
+    "distance_km": 166.1,
+    "name_zh": "圣文森"
    }
   ],
   "nearest_airport_km": 13.8,
@@ -269,5 +272,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

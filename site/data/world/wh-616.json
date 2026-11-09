@@ -3,7 +3,7 @@
  "unesco_id": "616",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1114,
+ "popularity_rank": 1119,
  "popularity_score": null,
  "country": "CZ",
  "country_zh": "捷克",
@@ -64,7 +64,8 @@
     "lat": 50.100874,
     "lon": 14.259911,
     "type": "large_airport",
-    "distance_km": 11.4
+    "distance_km": 11.4,
+    "name_zh": "布拉格鲁济涅国际机场"
    },
    {
     "name": "Pardubice Airport",
@@ -74,7 +75,8 @@
     "lat": 50.015049,
     "lon": 15.73981,
     "type": "large_airport",
-    "distance_km": 94.6
+    "distance_km": 94.6,
+    "name_zh": "帕尔杜比采机场"
    },
    {
     "name": "Karlovy Vary Airport",
@@ -84,7 +86,8 @@
     "lat": 50.202999,
     "lon": 12.915,
     "type": "large_airport",
-    "distance_km": 107.9
+    "distance_km": 107.9,
+    "name_zh": "卡罗维发利机场"
    }
   ],
   "nearest_airport_km": 11.4,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

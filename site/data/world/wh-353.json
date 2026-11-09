@@ -3,7 +3,7 @@
  "unesco_id": "353",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1057,
+ "popularity_rank": 1073,
  "popularity_score": null,
  "country": "US",
  "country_zh": "美国",
@@ -74,7 +74,8 @@
     "lat": 37.151501,
     "lon": -107.753998,
     "type": "medium_airport",
-    "distance_km": 122.5
+    "distance_km": 122.5,
+    "name_zh": "杜兰戈-拉普拉塔县机场"
    },
    {
     "name": "Cortez Municipal Airport",
@@ -84,7 +85,8 @@
     "lat": 37.303001,
     "lon": -108.627998,
     "type": "medium_airport",
-    "distance_km": 149.7
+    "distance_km": 149.7,
+    "name_zh": "科尔特斯市立机场"
    }
   ],
   "nearest_airport_km": 95.9,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

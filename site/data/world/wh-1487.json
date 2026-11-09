@@ -3,8 +3,8 @@
  "unesco_id": "1487",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 392,
- "popularity_score": 17042,
+ "popularity_rank": 416,
+ "popularity_score": 18986,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -72,7 +72,8 @@
     "lat": 38.175999,
     "lon": 13.091,
     "type": "large_airport",
-    "distance_km": 24.0
+    "distance_km": 24.0,
+    "name_zh": "帕勒莫"
    },
    {
     "name": "Vincenzo Florio Airport Trapani-Birgi",
@@ -82,7 +83,8 @@
     "lat": 37.9114,
     "lon": 12.488,
     "type": "medium_airport",
-    "distance_km": 79.0
+    "distance_km": 79.0,
+    "name_zh": "特拉帕尼机场"
    },
    {
     "name": "Comiso Airport",
@@ -92,7 +94,8 @@
     "lat": 36.99583,
     "lon": 14.60889,
     "type": "medium_airport",
-    "distance_km": 166.2
+    "distance_km": 166.2,
+    "name_zh": "科米索机场"
    }
   ],
   "nearest_airport_km": 24.0,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

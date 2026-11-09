@@ -3,8 +3,8 @@
  "unesco_id": "579",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 753,
- "popularity_score": 2860,
+ "popularity_rank": 799,
+ "popularity_score": 3034,
  "country": "FI",
  "country_zh": "芬兰",
  "country_en": "Finland",
@@ -72,7 +72,8 @@
     "lat": 61.4617,
     "lon": 21.799999,
     "type": "medium_airport",
-    "distance_km": 38.3
+    "distance_km": 38.3,
+    "name_zh": "波里机场"
    },
    {
     "name": "Turku Airport",
@@ -82,7 +83,8 @@
     "lat": 60.514099,
     "lon": 22.2628,
     "type": "large_airport",
-    "distance_km": 72.1
+    "distance_km": 72.1,
+    "name_zh": "图尔库机场"
    },
    {
     "name": "Tampere-Pirkkala Airport",
@@ -92,7 +94,8 @@
     "lat": 61.414101,
     "lon": 23.604401,
     "type": "large_airport",
-    "distance_km": 103.2
+    "distance_km": 103.2,
+    "name_zh": "坦佩雷－皮尔卡拉机场"
    }
   ],
   "nearest_airport_km": 38.3,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

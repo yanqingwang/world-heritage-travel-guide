@@ -3,7 +3,7 @@
  "unesco_id": "1236",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 885,
+ "popularity_rank": 922,
  "popularity_score": null,
  "country": "NI",
  "country_zh": "尼加拉瓜",
@@ -64,7 +64,8 @@
     "lat": 42.590709,
     "lon": -5.653406,
     "type": "medium_airport",
-    "distance_km": 7.2
+    "distance_km": 7.2,
+    "name_zh": "莱昂机场"
    },
    {
     "name": "Asturias Airport",
@@ -74,7 +75,8 @@
     "lat": 43.563599,
     "lon": -6.03462,
     "type": "large_airport",
-    "distance_km": 113.7
+    "distance_km": 113.7,
+    "name_zh": "奥维耶多"
    },
    {
     "name": "Valladolid Airport",
@@ -84,7 +86,8 @@
     "lat": 41.7061,
     "lon": -4.85194,
     "type": "medium_airport",
-    "distance_km": 115.5
+    "distance_km": 115.5,
+    "name_zh": "巴利亚多利德机场"
    }
   ],
   "nearest_airport_km": 7.2,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

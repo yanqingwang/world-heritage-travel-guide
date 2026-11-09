@@ -3,7 +3,7 @@
  "unesco_id": "1063",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 852,
+ "popularity_rank": 886,
  "popularity_score": null,
  "country": "HU",
  "country_zh": "匈牙利",
@@ -64,7 +64,8 @@
     "lat": 48.663101,
     "lon": 21.2411,
     "type": "medium_airport",
-    "distance_km": 57.6
+    "distance_km": 57.6,
+    "name_zh": "科希策"
    },
    {
     "name": "Debrecen International Airport",
@@ -74,7 +75,8 @@
     "lat": 47.489469,
     "lon": 21.616278,
     "type": "large_airport",
-    "distance_km": 76.1
+    "distance_km": 76.1,
+    "name_zh": "德布勒森国际机场"
    },
    {
     "name": "Satu Mare International Airport",
@@ -84,7 +86,8 @@
     "lat": 47.7033,
     "lon": 22.8857,
     "type": "medium_airport",
-    "distance_km": 124.7
+    "distance_km": 124.7,
+    "name_zh": "萨图马雷"
    }
   ],
   "nearest_airport_km": 57.6,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

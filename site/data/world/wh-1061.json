@@ -3,7 +3,7 @@
  "unesco_id": "1061",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 851,
+ "popularity_rank": 885,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -74,7 +74,8 @@
     "lat": 16.913707,
     "lon": -89.866143,
     "type": "medium_airport",
-    "distance_km": 132.6
+    "distance_km": 132.6,
+    "name_zh": "马雅世界国际机场"
    },
    {
     "name": "Corozal Airport",
@@ -84,7 +85,8 @@
     "lat": 18.3822,
     "lon": -88.411903,
     "type": "medium_airport",
-    "distance_km": 150.9
+    "distance_km": 150.9,
+    "name_zh": "科罗萨尔机场"
    }
   ],
   "nearest_airport_km": 129.9,
@@ -161,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

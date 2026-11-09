@@ -3,8 +3,8 @@
  "unesco_id": "1262",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 594,
- "popularity_score": 7562,
+ "popularity_rank": 632,
+ "popularity_score": 8158,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IR-03",
- "subdivision_zh": "东阿塞拜疆省",
- "subdivision_en": "East Azerbaijan Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "伊朗的亚美尼亚隐修院集合体",
  "name_zh_source": "wikidata",
  "name_en": "Armenian Monastic Ensembles of Iran",
@@ -72,7 +72,8 @@
     "lat": 39.188801,
     "lon": 45.458401,
     "type": "large_airport",
-    "distance_km": 23.4
+    "distance_km": 23.4,
+    "name_zh": "纳希契凡国际机场"
    },
    {
     "name": "Tabriz International Airport",
@@ -82,7 +83,8 @@
     "lat": 38.1339,
     "lon": 46.235001,
     "type": "large_airport",
-    "distance_km": 115.0
+    "distance_km": 115.0,
+    "name_zh": "大不里士"
    },
    {
     "name": "Lachin International Airport",
@@ -92,7 +94,8 @@
     "lat": 39.883787,
     "lon": 46.363137,
     "type": "medium_airport",
-    "distance_km": 126.3
+    "distance_km": 126.3,
+    "name_zh": "拉钦国际机场"
    }
   ],
   "nearest_airport_km": 23.4,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

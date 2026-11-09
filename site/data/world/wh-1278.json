@@ -3,7 +3,7 @@
  "unesco_id": "1278",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 893,
+ "popularity_rank": 930,
  "popularity_score": null,
  "country": "KP",
  "country_zh": "朝鲜民主主义人民共和国",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KP-15",
- "subdivision_zh": "开城特级市",
- "subdivision_en": "Kaesong",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "开城历史古迹",
  "name_zh_source": "curated",
  "name_en": "Historic Monuments and Sites in Kaesong",
@@ -64,7 +64,8 @@
     "lat": 37.5583,
     "lon": 126.791,
     "type": "large_airport",
-    "distance_km": 53.2
+    "distance_km": 53.2,
+    "name_zh": "金浦国际机场"
    },
    {
     "name": "Incheon International Airport",
@@ -74,7 +75,8 @@
     "lat": 37.469101,
     "lon": 126.450996,
     "type": "large_airport",
-    "distance_km": 57.2
+    "distance_km": 57.2,
+    "name_zh": "仁川国际机场"
    },
    {
     "name": "Wonju Airport / Hoengseong Air Base (K-38/K-46)",
@@ -84,7 +86,8 @@
     "lat": 37.437113,
     "lon": 127.960051,
     "type": "medium_airport",
-    "distance_km": 141.4
+    "distance_km": 141.4,
+    "name_zh": "原州机场"
    }
   ],
   "nearest_airport_km": 53.2,
@@ -160,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

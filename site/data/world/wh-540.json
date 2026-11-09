@@ -3,7 +3,7 @@
  "unesco_id": "540",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1092,
+ "popularity_rank": 1103,
  "popularity_score": null,
  "country": "RU",
  "country_zh": "俄罗斯",
@@ -64,7 +64,8 @@
     "lat": 59.800301,
     "lon": 30.262501,
     "type": "large_airport",
-    "distance_km": 15.7
+    "distance_km": 15.7,
+    "name_zh": "普尔科沃机场"
    },
    {
     "name": "Lappeenranta Airport",
@@ -74,7 +75,8 @@
     "lat": 61.044601,
     "lon": 28.144743,
     "type": "large_airport",
-    "distance_km": 171.0
+    "distance_km": 171.0,
+    "name_zh": "拉彭兰塔机场"
    },
    {
     "name": "Savonlinna Airport",
@@ -84,7 +86,8 @@
     "lat": 61.9431,
     "lon": 28.945101,
     "type": "medium_airport",
-    "distance_km": 234.8
+    "distance_km": 234.8,
+    "name_zh": "萨翁林纳机场"
    }
   ],
   "nearest_airport_km": 15.7,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

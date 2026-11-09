@@ -3,8 +3,8 @@
  "unesco_id": "1014",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 387,
- "popularity_score": 17751,
+ "popularity_rank": 409,
+ "popularity_score": 19775,
  "country": "MY",
  "country_zh": "马来西亚",
  "country_en": "Malaysia",
@@ -72,7 +72,8 @@
     "lat": 4.32201,
     "lon": 113.987,
     "type": "medium_airport",
-    "distance_km": 60.9
+    "distance_km": 60.9,
+    "name_zh": "美里机场"
    },
    {
     "name": "Marudi Airport",
@@ -82,7 +83,8 @@
     "lat": 4.178734,
     "lon": 114.330318,
     "type": "medium_airport",
-    "distance_km": 73.2
+    "distance_km": 73.2,
+    "name_zh": "马鲁帝机场"
    },
    {
     "name": "Bintulu Airport",
@@ -92,7 +94,8 @@
     "lat": 3.12385010719,
     "lon": 113.019996643,
     "type": "medium_airport",
-    "distance_km": 114.1
+    "distance_km": 114.1,
+    "name_zh": "民都鲁机场"
    }
   ],
   "nearest_airport_km": 60.9,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

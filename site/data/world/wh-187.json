@@ -3,8 +3,8 @@
  "unesco_id": "187",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 775,
- "popularity_score": 1872,
+ "popularity_rank": 815,
+ "popularity_score": 2088,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -72,7 +72,8 @@
     "lat": 52.461102,
     "lon": 9.68508,
     "type": "large_airport",
-    "distance_km": 38.5
+    "distance_km": 38.5,
+    "name_zh": "汉诺威-朗根哈根机场"
    },
    {
     "name": "Kassel Airport",
@@ -82,7 +83,8 @@
     "lat": 51.418395,
     "lon": 9.391638,
     "type": "large_airport",
-    "distance_km": 90.1
+    "distance_km": 90.1,
+    "name_zh": "卡塞尔-卡尔登机场"
    },
    {
     "name": "Paderborn Lippstadt Airport",
@@ -92,7 +94,8 @@
     "lat": 51.612527,
     "lon": 8.617459,
     "type": "large_airport",
-    "distance_km": 109.1
+    "distance_km": 109.1,
+    "name_zh": "帕德博恩/利普施塔特机场"
    }
   ],
   "nearest_airport_km": 38.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

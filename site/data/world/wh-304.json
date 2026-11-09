@@ -3,8 +3,8 @@
  "unesco_id": "304",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 520,
- "popularity_score": 10548,
+ "popularity_rank": 553,
+ "popularity_score": 11439,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -72,7 +72,8 @@
     "lat": 51.118822,
     "lon": -114.009933,
     "type": "large_airport",
-    "distance_km": 175.1
+    "distance_km": 175.1,
+    "name_zh": "卡尔加里国际机场"
    },
    {
     "name": "Cranbrook/Canadian Rockies International Airport",
@@ -82,7 +83,8 @@
     "lat": 49.610802,
     "lon": -115.781998,
     "type": "medium_airport",
-    "distance_km": 207.6
+    "distance_km": 207.6,
+    "name_zh": "克兰布鲁克/加拿大洛矶国际机场"
    },
    {
     "name": "Castlegar/West Kootenay Regional Airport",
@@ -92,7 +94,8 @@
     "lat": 49.296398,
     "lon": -117.632004,
     "type": "medium_airport",
-    "distance_km": 250.4
+    "distance_km": 250.4,
+    "name_zh": "西古特尼区域机场"
    }
   ],
   "nearest_airport_km": 175.1,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

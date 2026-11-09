@@ -3,7 +3,7 @@
  "unesco_id": "204",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1025,
+ "popularity_rank": 1041,
  "popularity_score": null,
  "country": "CU",
  "country_zh": "古巴",
@@ -64,7 +64,8 @@
     "lat": 22.989200592041016,
     "lon": -82.40910339355469,
     "type": "large_airport",
-    "distance_km": 17.1
+    "distance_km": 17.1,
+    "name_zh": "何塞·马蒂国际机场"
    },
    {
     "name": "Juan Gualberto Gomez International Airport",
@@ -74,7 +75,8 @@
     "lat": 23.034401,
     "lon": -81.435303,
     "type": "large_airport",
-    "distance_km": 94.2
+    "distance_km": 94.2,
+    "name_zh": "巴拉德罗"
    },
    {
     "name": "Rafael Cabrera Airport",
@@ -84,7 +86,8 @@
     "lat": 21.834699630737305,
     "lon": -82.78379821777344,
     "type": "medium_airport",
-    "distance_km": 151.1
+    "distance_km": 151.1,
+    "name_zh": "Rafael Cabrera Mustelier机场"
    }
   ],
   "nearest_airport_km": 17.1,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

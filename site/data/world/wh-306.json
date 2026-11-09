@@ -3,7 +3,7 @@
  "unesco_id": "306",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1048,
+ "popularity_rank": 1064,
  "popularity_score": null,
  "country": "ZW",
  "country_zh": "津巴布韦",
@@ -64,7 +64,8 @@
     "lat": -20.016284,
     "lon": 28.622897,
     "type": "large_airport",
-    "distance_km": 55.3
+    "distance_km": 55.3,
+    "name_zh": "Joshua Mqabuko Nkomo国际机场"
    },
    {
     "name": "Phillip Gaonwe Matante International Airport",
@@ -74,7 +75,8 @@
     "lat": -21.159183,
     "lon": 27.468826,
     "type": "large_airport",
-    "distance_km": 129.8
+    "distance_km": 129.8,
+    "name_zh": "弗朗西斯敦机场"
    },
    {
     "name": "Polokwane International Airport",
@@ -84,7 +86,8 @@
     "lat": -23.845269,
     "lon": 29.458615,
     "type": "large_airport",
-    "distance_km": 384.8
+    "distance_km": 384.8,
+    "name_zh": "波罗克瓦尼国际机场"
    }
   ],
   "nearest_airport_km": 55.3,
@@ -178,5 +181,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

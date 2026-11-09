@@ -3,8 +3,8 @@
  "unesco_id": "19",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 257,
- "popularity_score": 30529,
+ "popularity_rank": 282,
+ "popularity_score": 32790,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
  "country_en": "Ethiopia",
@@ -72,7 +72,8 @@
     "lat": 12.5199,
     "lon": 37.433998,
     "type": "medium_airport",
-    "distance_km": 10.5
+    "distance_km": 10.5,
+    "name_zh": "贡德尔机场"
    },
    {
     "name": "Bahir Dar Airport",
@@ -82,7 +83,8 @@
     "lat": 11.6081,
     "lon": 37.321602,
     "type": "medium_airport",
-    "distance_km": 112.4
+    "distance_km": 112.4,
+    "name_zh": "巴赫达尔机场"
    },
    {
     "name": "Humera Airport",
@@ -237,5 +239,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1386",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 924,
+ "popularity_rank": 950,
  "popularity_score": null,
  "country": "PW",
  "country_zh": "帕劳",
@@ -72,7 +72,8 @@
     "lat": 7.366965,
     "lon": 134.544085,
     "type": "large_airport",
-    "distance_km": 25.0
+    "distance_km": 25.0,
+    "name_zh": "罗曼·莫图国际机场"
    }
   ],
   "nearest_airport_km": 25.0,
@@ -150,5 +151,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "452",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 220,
- "popularity_score": 37991,
+ "popularity_rank": 238,
+ "popularity_score": 42150,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 22.654012,
     "lon": 88.44765,
     "type": "large_airport",
-    "distance_km": 105.2
+    "distance_km": 105.2,
+    "name_zh": "内塔吉·苏巴斯·钱德拉·鲍斯国际机场"
    },
    {
     "name": "Jessore Airport",
@@ -106,7 +107,8 @@
     "lat": 23.1838,
     "lon": 89.160797,
     "type": "medium_airport",
-    "distance_km": 164.9
+    "distance_km": 164.9,
+    "name_zh": "杰索尔机场"
    },
    {
     "name": "Barisal Airport",
@@ -116,7 +118,8 @@
     "lat": 22.801001,
     "lon": 90.301201,
     "type": "medium_airport",
-    "distance_km": 197.8
+    "distance_km": 197.8,
+    "name_zh": "巴里萨尔机场"
    }
   ],
   "nearest_airport_km": 105.2,
@@ -263,5 +266,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

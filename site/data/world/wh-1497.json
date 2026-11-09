@@ -3,8 +3,8 @@
  "unesco_id": "1497",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 622,
- "popularity_score": 6368,
+ "popularity_rank": 661,
+ "popularity_score": 6978,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -72,7 +72,8 @@
     "lat": 47.618599,
     "lon": -52.7519,
     "type": "large_airport",
-    "distance_km": 114.6
+    "distance_km": 114.6,
+    "name_zh": "圣约翰斯国际机场"
    },
    {
     "name": "Saint-Pierre Pointe-Blanche Airport",
@@ -82,7 +83,8 @@
     "lat": 46.762651,
     "lon": -56.17499,
     "type": "medium_airport",
-    "distance_km": 228.1
+    "distance_km": 228.1,
+    "name_zh": "圣皮埃尔机场 (圣皮埃尔和密克隆)"
    },
    {
     "name": "Miquelon Airport",
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "731",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1136,
+ "popularity_rank": 1141,
  "popularity_score": null,
  "country": "SE",
  "country_zh": "瑞典",
@@ -72,7 +72,8 @@
     "lat": 57.6628,
     "lon": 18.346201,
     "type": "large_airport",
-    "distance_km": 3.8
+    "distance_km": 3.8,
+    "name_zh": "维斯比机场"
    },
    {
     "name": "Stockholm Skavsta Airport",
@@ -82,7 +83,8 @@
     "lat": 58.789656,
     "lon": 16.911479,
     "type": "large_airport",
-    "distance_km": 151.2
+    "distance_km": 151.2,
+    "name_zh": "斯德哥尔摩斯卡夫斯塔机场"
    },
    {
     "name": "Norrköping Airport",
@@ -92,7 +94,8 @@
     "lat": 58.586299896240234,
     "lon": 16.250600814819336,
     "type": "medium_airport",
-    "distance_km": 159.6
+    "distance_km": 159.6,
+    "name_zh": "北雪平"
    }
   ],
   "nearest_airport_km": 3.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

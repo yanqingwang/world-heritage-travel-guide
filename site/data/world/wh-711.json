@@ -3,8 +3,8 @@
  "unesco_id": "711",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 689,
- "popularity_score": 4467,
+ "popularity_rank": 733,
+ "popularity_score": 4890,
  "country": "CO",
  "country_zh": "哥伦比亚",
  "country_en": "Colombia",
@@ -64,7 +64,8 @@
     "lat": 7.81196,
     "lon": -76.7164,
     "type": "medium_airport",
-    "distance_km": 47.8
+    "distance_km": 47.8,
+    "name_zh": "安东尼奥·劳丹·贝滕各尔特机场"
    },
    {
     "name": "Bahia Piña Airport",
@@ -74,7 +75,8 @@
     "lat": 7.58737,
     "lon": -78.179939,
     "type": "small_airport",
-    "distance_km": 115.9
+    "distance_km": 115.9,
+    "name_zh": "皮尼亚港机场"
    },
    {
     "name": "José Celestino Mutis Airport",
@@ -84,7 +86,8 @@
     "lat": 6.20292,
     "lon": -77.3947,
     "type": "medium_airport",
-    "distance_km": 179.6
+    "distance_km": 179.6,
+    "name_zh": "José Celestino Mutis机场"
    }
   ],
   "nearest_airport_km": 47.8,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

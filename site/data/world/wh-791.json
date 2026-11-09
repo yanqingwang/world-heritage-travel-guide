@@ -3,7 +3,7 @@
  "unesco_id": "791",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1156,
+ "popularity_rank": 1161,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -64,7 +64,8 @@
     "lat": 20.930485,
     "lon": -89.645462,
     "type": "large_airport",
-    "distance_km": 64.6
+    "distance_km": 64.6,
+    "name_zh": "梅里达国际机场"
    },
    {
     "name": "Ingeniero Alberto Acuña Ongay International Airport",
@@ -74,7 +75,8 @@
     "lat": 19.815969,
     "lon": -90.500125,
     "type": "medium_airport",
-    "distance_km": 97.4
+    "distance_km": 97.4,
+    "name_zh": "阿尔贝托·阿库尼亚·翁盖国际机场"
    },
    {
     "name": "Felipe Carrillo Puerto International Airport Tulum",
@@ -84,7 +86,8 @@
     "lat": 20.172098,
     "lon": -87.660272,
     "type": "large_airport",
-    "distance_km": 221.1
+    "distance_km": 221.1,
+    "name_zh": "图卢姆国际机场"
    }
   ],
   "nearest_airport_km": 64.6,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

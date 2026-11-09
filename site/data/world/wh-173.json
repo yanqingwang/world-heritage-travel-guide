@@ -3,7 +3,7 @@
  "unesco_id": "173",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1005,
+ "popularity_rank": 1021,
  "popularity_score": null,
  "country": "TZ",
  "country_zh": "坦桑尼亚",
@@ -64,7 +64,8 @@
     "lat": -6.22202,
     "lon": 39.224899,
     "type": "large_airport",
-    "distance_km": 7.0
+    "distance_km": 7.0,
+    "name_zh": "桑吉巴国际机场"
    },
    {
     "name": "Julius Nyerere International Airport",
@@ -74,7 +75,8 @@
     "lat": -6.873499,
     "lon": 39.207288,
     "type": "large_airport",
-    "distance_km": 78.8
+    "distance_km": 78.8,
+    "name_zh": "朱利叶斯·尼雷尔国际机场"
    },
    {
     "name": "Tanga Airport",
@@ -165,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1610",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 675,
- "popularity_score": 4784,
+ "popularity_rank": 722,
+ "popularity_score": 5117,
  "country": "ID",
  "country_zh": "印度尼西亚",
  "country_en": "Indonesia",
@@ -72,7 +72,8 @@
     "lat": -0.785964,
     "lon": 100.280384,
     "type": "large_airport",
-    "distance_km": 55.3
+    "distance_km": 55.3,
+    "name_zh": "巴东"
    },
    {
     "name": "Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB",
@@ -82,7 +83,8 @@
     "lat": 0.458647,
     "lon": 101.444321,
     "type": "medium_airport",
-    "distance_km": 147.6
+    "distance_km": 147.6,
+    "name_zh": "北干巴鲁"
    },
    {
     "name": "Departi Parbo Airport",
@@ -92,7 +94,8 @@
     "lat": -2.094042,
     "lon": 101.47025,
     "type": "small_airport",
-    "distance_km": 175.3
+    "distance_km": 175.3,
+    "name_zh": "德帕蒂·帕波机场"
    }
   ],
   "nearest_airport_km": 55.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

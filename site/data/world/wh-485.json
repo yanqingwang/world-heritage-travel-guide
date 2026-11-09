@@ -3,7 +3,7 @@
  "unesco_id": "485",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1083,
+ "popularity_rank": 1094,
  "popularity_score": null,
  "country": "TR",
  "country_zh": "土耳其",
@@ -72,7 +72,8 @@
     "lat": 37.7855987549,
     "lon": 29.7012996674,
     "type": "medium_airport",
-    "distance_km": 53.0
+    "distance_km": 53.0,
+    "name_zh": "代尼兹利恰尔达克机场"
    },
    {
     "name": "Süleyman Demirel International Airport",
@@ -82,7 +83,8 @@
     "lat": 37.8554,
     "lon": 30.368401,
     "type": "medium_airport",
-    "distance_km": 109.5
+    "distance_km": 109.5,
+    "name_zh": "伊斯帕尔塔"
    },
    {
     "name": "Dalaman International Airport",
@@ -92,7 +94,8 @@
     "lat": 36.7131,
     "lon": 28.7925,
     "type": "large_airport",
-    "distance_km": 137.8
+    "distance_km": 137.8,
+    "name_zh": "Dalaman（DLM）"
    }
   ],
   "nearest_airport_km": 53.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

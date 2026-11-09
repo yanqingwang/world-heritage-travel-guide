@@ -2,9 +2,9 @@
  "id": "wh-1397",
  "unesco_id": "1397",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 291,
- "popularity_score": 26787,
+ "tier": "basic",
+ "popularity_rank": 314,
+ "popularity_score": 28896,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IR-10",
- "subdivision_zh": "伊斯法罕省",
- "subdivision_en": "Isfahan Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "伊斯法罕聚礼清真寺",
  "name_zh_source": "wikidata",
  "name_en": "Masjed-e Jāmé of Isfahan",
@@ -72,7 +72,8 @@
     "lat": 32.755142,
     "lon": 51.883877,
     "type": "large_airport",
-    "distance_km": 20.9
+    "distance_km": 20.9,
+    "name_zh": "伊斯法罕"
    },
    {
     "name": "Kashan Airport",
@@ -92,105 +93,16 @@
     "lat": 31.9048995972,
     "lon": 54.2765007019,
     "type": "medium_airport",
-    "distance_km": 258.0
+    "distance_km": 258.0,
+    "name_zh": "什伊德斯道格伊机场"
    }
   ],
   "nearest_airport_km": 20.9,
   "distance_beijing_km": 5719.8,
-  "ferry_terminals": [
-   {
-    "name": "حمل ونقل کالا و اثاثیه منزل کورش ترابر سپاهان",
-    "name_en": null,
-    "lat": 32.6031593,
-    "lon": 51.7689033,
-    "distance_km": 10.8,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "ایستگاه راه آهن اصفهان",
-    "name_en": "Isfahan",
-    "lat": 32.5499852,
-    "lon": 51.6953745,
-    "distance_km": 13.3,
-    "operator": null
-   },
-   {
-    "name": "سیستان",
-    "name_en": "Sistan",
-    "lat": 32.6698536,
-    "lon": 52.1121951,
-    "distance_km": 40.0,
-    "operator": null
-   },
-   {
-    "name": "ورتون",
-    "name_en": "Vartun",
-    "lat": 32.8336288,
-    "lon": 52.1211308,
-    "distance_km": 44.6,
-    "operator": null
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "هتل عباسی",
-   "name_en": "Abbasi Hotel",
-   "stars": 5,
-   "brand": null,
-   "lat": 32.6516026,
-   "lon": 51.6706303,
-   "distance_km": 2.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "هتل بین‌المللی ویرا",
-   "name_en": "VIRA Hotel",
-   "stars": 5,
-   "brand": null,
-   "lat": 32.6505761,
-   "lon": 51.6713734,
-   "distance_km": 2.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "هتل پارسیان کوثر",
-   "name_en": "Parsian Kowsar Hotel",
-   "stars": 5,
-   "brand": null,
-   "lat": 32.6418016,
-   "lon": 51.6652968,
-   "distance_km": 3.6,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "هتل سیزنز (Seasons Hotel)",
-   "name_en": "(Seasons Hotel) هتل سیزنز",
-   "stars": 5,
-   "brand": "(Seasons Hotel) هتل سیزنز",
-   "lat": 32.6835311,
-   "lon": 51.7396697,
-   "distance_km": 5.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "هتل پرستیژ اصفهان",
-   "name_en": "Prestige",
-   "stars": 5,
-   "brand": null,
-   "lat": 32.5535287,
-   "lon": 51.6923665,
-   "distance_km": 12.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IR",
   "country_zh": "伊朗",
@@ -259,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

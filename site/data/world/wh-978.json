@@ -3,8 +3,8 @@
  "unesco_id": "978",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 180,
- "popularity_score": 58889,
+ "popularity_rank": 197,
+ "popularity_score": 64227,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -96,7 +96,8 @@
     "lat": 39.60145,
     "lon": 19.912179,
     "type": "large_airport",
-    "distance_km": 2.6
+    "distance_km": 2.6,
+    "name_zh": "科孚岛爱奥尼斯·卡波季斯第亚斯国际机场"
    },
    {
     "name": "Ioannina King Pyrrhus National Airport",
@@ -116,7 +117,8 @@
     "lat": 38.925499,
     "lon": 20.765301,
     "type": "medium_airport",
-    "distance_km": 106.3
+    "distance_km": 106.3,
+    "name_zh": "普雷韦扎"
    }
   ],
   "nearest_airport_km": 2.6,
@@ -293,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1422",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 52,
- "popularity_score": 197034,
+ "popularity_rank": 67,
+ "popularity_score": 201435,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IR-23",
- "subdivision_zh": "德黑兰省",
- "subdivision_en": "Tehran Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "古列斯坦宮",
  "name_zh_source": "wikidata",
  "name_en": "Golestan Palace",
@@ -96,7 +96,8 @@
     "lat": 35.689175,
     "lon": 51.314392,
     "type": "large_airport",
-    "distance_km": 9.6
+    "distance_km": 9.6,
+    "name_zh": "梅赫拉巴德国际机场"
    },
    {
     "name": "Imam Khomeini International Airport",
@@ -106,7 +107,8 @@
     "lat": 35.416099548339844,
     "lon": 51.152198791503906,
     "type": "large_airport",
-    "distance_km": 38.0
+    "distance_km": 38.0,
+    "name_zh": "伊玛目霍梅尼国际机场"
    },
    {
     "name": "Payam International Airport",
@@ -116,7 +118,8 @@
     "lat": 35.7761,
     "lon": 50.826698,
     "type": "large_airport",
-    "distance_km": 54.6
+    "distance_km": 54.6,
+    "name_zh": "帕亚姆国际机场"
    }
   ],
   "nearest_airport_km": 9.6,
@@ -330,5 +333,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

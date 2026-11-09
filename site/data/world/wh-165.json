@@ -3,8 +3,8 @@
  "unesco_id": "165",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 505,
- "popularity_score": 11054,
+ "popularity_rank": 529,
+ "popularity_score": 12291,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -72,7 +72,8 @@
     "lat": 47.038955,
     "lon": 5.427589,
     "type": "medium_airport",
-    "distance_km": 102.9
+    "distance_km": 102.9,
+    "name_zh": "多尔-汝拉机场"
    },
    {
     "name": "Chalons Vatry airport",
@@ -82,7 +83,8 @@
     "lat": 48.77333,
     "lon": 4.20611,
     "type": "medium_airport",
-    "distance_km": 126.8
+    "distance_km": 126.8,
+    "name_zh": "沙隆瓦特里机场"
    },
    {
     "name": "Paris-Orly Airport",
@@ -92,7 +94,8 @@
     "lat": 48.729499,
     "lon": 2.358963,
     "type": "large_airport",
-    "distance_km": 193.2
+    "distance_km": 193.2,
+    "name_zh": "巴黎－奥利机场"
    }
   ],
   "nearest_airport_km": 102.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

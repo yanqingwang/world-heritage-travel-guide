@@ -3,8 +3,8 @@
  "unesco_id": "719",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 548,
- "popularity_score": 9439,
+ "popularity_rank": 580,
+ "popularity_score": 10348,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -82,7 +82,8 @@
     "lat": 66.0047,
     "lon": 57.367199,
     "type": "medium_airport",
-    "distance_km": 165.2
+    "distance_km": 165.2,
+    "name_zh": "乌辛斯克机场"
    },
    {
     "name": "Vorkuta Airport",
@@ -92,7 +93,8 @@
     "lat": 67.488602,
     "lon": 63.993099,
     "type": "medium_airport",
-    "distance_km": 319.4
+    "distance_km": 319.4,
+    "name_zh": "沃尔库塔机场"
    }
   ],
   "nearest_airport_km": 141.5,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

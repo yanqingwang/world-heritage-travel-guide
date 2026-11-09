@@ -3,8 +3,8 @@
  "unesco_id": "661",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 26,
- "popularity_score": 432283,
+ "popularity_rank": 28,
+ "popularity_score": 479476,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -96,7 +96,8 @@
     "lat": 34.632801,
     "lon": 135.223999,
     "type": "large_airport",
-    "distance_km": 53.6
+    "distance_km": 53.6,
+    "name_zh": "神户机场"
    },
    {
     "name": "Kansai International Airport",
@@ -106,7 +107,8 @@
     "lat": 34.427299,
     "lon": 135.244003,
     "type": "large_airport",
-    "distance_km": 68.1
+    "distance_km": 68.1,
+    "name_zh": "关西国际机场"
    },
    {
     "name": "Osaka Itami International Airport",
@@ -116,7 +118,8 @@
     "lat": 34.780853,
     "lon": 135.440829,
     "type": "large_airport",
-    "distance_km": 68.5
+    "distance_km": 68.5,
+    "name_zh": "大阪国际机场"
    }
   ],
   "nearest_airport_km": 53.6,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

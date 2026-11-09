@@ -72,7 +72,8 @@
     "lat": 49.151276,
     "lon": 16.693972,
     "type": "medium_airport",
-    "distance_km": 52.5
+    "distance_km": 52.5,
+    "name_zh": "布尔诺-图拉尼机场"
    },
    {
     "name": "Leoš Janáček Airport Ostrava",
@@ -82,7 +83,8 @@
     "lat": 49.696301,
     "lon": 18.111099,
     "type": "large_airport",
-    "distance_km": 68.9
+    "distance_km": 68.9,
+    "name_zh": "俄斯特拉发"
    },
    {
     "name": "M. R. Štefánik Airport",
@@ -92,7 +94,8 @@
     "lat": 48.1702,
     "lon": 17.2127,
     "type": "large_airport",
-    "distance_km": 125.9
+    "distance_km": 125.9,
+    "name_zh": "布拉提斯拉瓦机场"
    }
   ],
   "nearest_airport_km": 52.5,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

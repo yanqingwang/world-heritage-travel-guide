@@ -3,8 +3,8 @@
  "unesco_id": "970",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 240,
- "popularity_score": 34610,
+ "popularity_rank": 257,
+ "popularity_score": 37879,
  "country": "AT",
  "country_zh": "奥地利",
  "country_en": "Austria",
@@ -96,7 +96,8 @@
     "lat": 48.110298,
     "lon": 16.5697,
     "type": "large_airport",
-    "distance_km": 88.7
+    "distance_km": 88.7,
+    "name_zh": "维也纳国际机场"
    },
    {
     "name": "Linz-Hörsching Airport",
@@ -106,7 +107,8 @@
     "lat": 48.235362,
     "lon": 14.188128,
     "type": "large_airport",
-    "distance_km": 93.3
+    "distance_km": 93.3,
+    "name_zh": "林茨机场"
    },
    {
     "name": "České Budějovice South Bohemian Airport",
@@ -334,5 +336,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

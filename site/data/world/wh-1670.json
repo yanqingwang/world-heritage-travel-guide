@@ -3,8 +3,8 @@
  "unesco_id": "1670",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 515,
- "popularity_score": 10759,
+ "popularity_rank": 546,
+ "popularity_score": 11854,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IN-KA",
- "subdivision_zh": "卡纳塔克邦",
- "subdivision_en": "Karnataka",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "曷萨拉王朝神庙群",
  "name_zh_source": "unesco_official",
  "name_en": "Sacred Ensembles of the Hoysalas",
@@ -64,7 +64,8 @@
     "lat": 12.95471,
     "lon": 74.886812,
     "type": "large_airport",
-    "distance_km": 123.3
+    "distance_km": 123.3,
+    "name_zh": "门格洛尔国际机场"
    },
    {
     "name": "Mysore Airport",
@@ -74,7 +75,8 @@
     "lat": 12.229751,
     "lon": 76.653683,
     "type": "medium_airport",
-    "distance_km": 130.6
+    "distance_km": 130.6,
+    "name_zh": "迈索尔机场"
    },
    {
     "name": "Kannur International Airport",
@@ -84,7 +86,8 @@
     "lat": 11.916343,
     "lon": 75.544979,
     "type": "large_airport",
-    "distance_km": 152.1
+    "distance_km": 152.1,
+    "name_zh": "坎努尔"
    }
   ],
   "nearest_airport_km": 123.3,
@@ -166,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

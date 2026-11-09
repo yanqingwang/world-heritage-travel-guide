@@ -3,7 +3,7 @@
  "unesco_id": "119",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 873,
+ "popularity_rank": 912,
  "popularity_score": null,
  "country": "ML",
  "country_zh": "马里",
@@ -64,7 +64,8 @@
     "lat": 16.730499,
     "lon": -3.00758,
     "type": "large_airport",
-    "distance_km": 4.8
+    "distance_km": 4.8,
+    "name_zh": "廷巴克图机场"
    },
    {
     "name": "Mopti Airport",
@@ -84,7 +85,8 @@
     "lat": 16.248466,
     "lon": -0.005389,
     "type": "medium_airport",
-    "distance_km": 324.5
+    "distance_km": 324.5,
+    "name_zh": "加奥国际机场"
    }
   ],
   "nearest_airport_km": 4.8,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

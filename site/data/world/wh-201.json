@@ -3,8 +3,8 @@
  "unesco_id": "201",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 213,
- "popularity_score": 41155,
+ "popularity_rank": 230,
+ "popularity_score": 44941,
  "country": "LK",
  "country_zh": "斯里兰卡",
  "country_en": "Sri Lanka",
@@ -106,7 +106,8 @@
     "lat": 7.705073,
     "lon": 81.677163,
     "type": "medium_airport",
-    "distance_km": 78.8
+    "distance_km": 78.8,
+    "name_zh": "巴提卡洛阿机场"
    },
    {
     "name": "Bandaranaike International Colombo Airport",
@@ -116,7 +117,8 @@
     "lat": 7.180759906768799,
     "lon": 79.88410186767578,
     "type": "large_airport",
-    "distance_km": 148.8
+    "distance_km": 148.8,
+    "name_zh": "班达拉奈克国际机场"
    }
   ],
   "nearest_airport_km": 70.3,
@@ -294,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

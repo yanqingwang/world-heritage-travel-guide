@@ -3,8 +3,8 @@
  "unesco_id": "1486",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 649,
- "popularity_score": 5594,
+ "popularity_rank": 692,
+ "popularity_score": 6081,
  "country": "NO",
  "country_zh": "挪威",
  "country_en": "Norway",
@@ -72,7 +72,8 @@
     "lat": 59.186699,
     "lon": 10.2586,
     "type": "large_airport",
-    "distance_km": 121.4
+    "distance_km": 121.4,
+    "name_zh": "桑讷菲尤尔机场"
    },
    {
     "name": "Oslo-Gardermoen International Airport",
@@ -82,7 +83,8 @@
     "lat": 60.193901,
     "lon": 11.1004,
     "type": "large_airport",
-    "distance_km": 143.6
+    "distance_km": 143.6,
+    "name_zh": "奥斯陆加勒穆恩机场"
    },
    {
     "name": "Sogndal Airport, Haukåsen",
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

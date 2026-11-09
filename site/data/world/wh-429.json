@@ -3,8 +3,8 @@
  "unesco_id": "429",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 238,
- "popularity_score": 34634,
+ "popularity_rank": 260,
+ "popularity_score": 37476,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -96,7 +96,8 @@
     "lat": 55.950145,
     "lon": -3.372288,
     "type": "large_airport",
-    "distance_km": 40.8
+    "distance_km": 40.8,
+    "name_zh": "爱丁堡机场"
    },
    {
     "name": "Glasgow Airport",
@@ -106,7 +107,8 @@
     "lat": 55.871899,
     "lon": -4.43306,
     "type": "large_airport",
-    "distance_km": 46.9
+    "distance_km": 46.9,
+    "name_zh": "格拉斯哥国际机场"
    },
    {
     "name": "Glasgow Prestwick Airport",
@@ -116,7 +118,8 @@
     "lat": 55.501499,
     "lon": -4.577182,
     "type": "large_airport",
-    "distance_km": 53.2
+    "distance_km": 53.2,
+    "name_zh": "格拉斯哥普雷斯蒂克国际机场"
    }
   ],
   "nearest_airport_km": 40.8,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

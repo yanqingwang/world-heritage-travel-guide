@@ -3,8 +3,8 @@
  "unesco_id": "1743",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 560,
- "popularity_score": 9099,
+ "popularity_rank": 368,
+ "popularity_score": 22702,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -72,7 +72,8 @@
     "lat": 53.391991,
     "lon": 58.755235,
     "type": "large_airport",
-    "distance_km": 119.1
+    "distance_km": 119.1,
+    "name_zh": "钢城国际机场"
    },
    {
     "name": "Orenburg Central Airport",
@@ -82,7 +83,8 @@
     "lat": 51.792668,
     "lon": 55.457229,
     "type": "medium_airport",
-    "distance_km": 176.8
+    "distance_km": 176.8,
+    "name_zh": "奥伦堡特森特拉尼机场"
    },
    {
     "name": "Ufa International Airport",
@@ -92,7 +94,8 @@
     "lat": 54.557499,
     "lon": 55.874401,
     "type": "large_airport",
-    "distance_km": 185.5
+    "distance_km": 185.5,
+    "name_zh": "乌法"
    }
   ],
   "nearest_airport_km": 119.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

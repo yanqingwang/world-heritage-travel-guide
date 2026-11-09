@@ -3,7 +3,7 @@
  "unesco_id": "312",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1050,
+ "popularity_rank": 1066,
  "popularity_score": null,
  "country": "ES",
  "country_zh": "西班牙",
@@ -72,7 +72,8 @@
     "lat": 43.563599,
     "lon": -6.03462,
     "type": "large_airport",
-    "distance_km": 24.6
+    "distance_km": 24.6,
+    "name_zh": "奥维耶多"
    },
    {
     "name": "León Airport",
@@ -82,7 +83,8 @@
     "lat": 42.590709,
     "lon": -5.653406,
     "type": "medium_airport",
-    "distance_km": 89.3
+    "distance_km": 89.3,
+    "name_zh": "莱昂机场"
    },
    {
     "name": "Seve Ballesteros-Santander Airport",
@@ -92,7 +94,8 @@
     "lat": 43.427101,
     "lon": -3.82001,
     "type": "medium_airport",
-    "distance_km": 165.4
+    "distance_km": 165.4,
+    "name_zh": "桑坦德"
    }
   ],
   "nearest_airport_km": 24.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

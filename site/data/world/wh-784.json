@@ -3,8 +3,8 @@
  "unesco_id": "784",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 512,
- "popularity_score": 10821,
+ "popularity_rank": 547,
+ "popularity_score": 11803,
  "country": "AT",
  "country_zh": "奥地利",
  "country_en": "Austria",
@@ -72,7 +72,8 @@
     "lat": 47.793301,
     "lon": 13.0043,
     "type": "large_airport",
-    "distance_km": 3.4
+    "distance_km": 3.4,
+    "name_zh": "萨尔茨堡沃尔夫冈·阿马多伊斯·莫扎特机场"
    },
    {
     "name": "Linz-Hörsching Airport",
@@ -82,7 +83,8 @@
     "lat": 48.235362,
     "lon": 14.188128,
     "type": "large_airport",
-    "distance_km": 97.6
+    "distance_km": 97.6,
+    "name_zh": "林茨机场"
    },
    {
     "name": "Munich Airport",
@@ -92,7 +94,8 @@
     "lat": 48.353802,
     "lon": 11.7861,
     "type": "large_airport",
-    "distance_km": 112.2
+    "distance_km": 112.2,
+    "name_zh": "慕尼黑机场"
    }
   ],
   "nearest_airport_km": 3.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

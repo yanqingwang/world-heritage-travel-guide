@@ -3,8 +3,8 @@
  "unesco_id": "567",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 98,
- "popularity_score": 120270,
+ "popularity_rank": 107,
+ "popularity_score": 129736,
  "country": "BO",
  "country_zh": "玻利维亚",
  "country_en": "Bolivia",
@@ -96,7 +96,8 @@
     "lat": -16.510272,
     "lon": -68.189416,
     "type": "large_airport",
-    "distance_km": 51.8
+    "distance_km": 51.8,
+    "name_zh": "埃尔阿尔托国际机场"
    },
    {
     "name": "Inca Manco Capac International Airport",
@@ -106,7 +107,8 @@
     "lat": -15.467689,
     "lon": -70.15653,
     "type": "large_airport",
-    "distance_km": 199.3
+    "distance_km": 199.3,
+    "name_zh": "胡利亚卡"
    },
    {
     "name": "Juan Mendoza International Airport",
@@ -116,7 +118,8 @@
     "lat": -17.956151,
     "lon": -67.075829,
     "type": "large_airport",
-    "distance_km": 230.3
+    "distance_km": 230.3,
+    "name_zh": "奥鲁罗机场"
    }
   ],
   "nearest_airport_km": 51.8,
@@ -321,5 +324,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

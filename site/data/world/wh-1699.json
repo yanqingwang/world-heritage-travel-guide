@@ -3,8 +3,8 @@
  "unesco_id": "1699",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 683,
- "popularity_score": 4574,
+ "popularity_rank": 726,
+ "popularity_score": 5024,
  "country": "SA",
  "country_zh": "沙特阿拉伯",
  "country_en": "Saudi Arabia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "SA-01",
- "subdivision_zh": "利雅得省",
- "subdivision_en": "Riyadh Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "奥鲁克·巴尼·马阿里德",
  "name_zh_source": "unesco_official",
  "name_en": "‘Uruq Bani Ma’arid",
@@ -92,7 +92,8 @@
     "lat": 17.611401,
     "lon": 44.419201,
     "type": "medium_airport",
-    "distance_km": 247.6
+    "distance_km": 247.6,
+    "name_zh": "奈季兰国内机场"
    }
   ],
   "nearest_airport_km": 149.2,
@@ -172,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

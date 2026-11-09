@@ -3,8 +3,8 @@
  "unesco_id": "1481",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 636,
- "popularity_score": 5851,
+ "popularity_rank": 680,
+ "popularity_score": 6360,
  "country": "IQ",
  "country_zh": "伊拉克",
  "country_en": "Iraq",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IQ-MA",
- "subdivision_zh": "米桑省",
- "subdivision_en": "Maysan Governorate",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "伊拉克南部Ahwar：生态多样性避难所和美索不达米亚城市遗迹景观",
  "name_zh_source": "unesco_official",
  "name_en": "The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities",
@@ -72,7 +72,8 @@
     "lat": 31.3364,
     "lon": 48.763789,
     "type": "large_airport",
-    "distance_km": 107.9
+    "distance_km": 107.9,
+    "name_zh": "阿瓦士"
    },
    {
     "name": "Basra International Airport",
@@ -82,7 +83,8 @@
     "lat": 30.549101,
     "lon": 47.662102,
     "type": "large_airport",
-    "distance_km": 112.7
+    "distance_km": 112.7,
+    "name_zh": "巴士拉国际机场"
    },
    {
     "name": "Dezful Airport",
@@ -92,7 +94,8 @@
     "lat": 32.434399,
     "lon": 48.397598,
     "type": "medium_airport",
-    "distance_km": 119.5
+    "distance_km": 119.5,
+    "name_zh": "迪兹富勒机场"
    }
   ],
   "nearest_airport_km": 107.9,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

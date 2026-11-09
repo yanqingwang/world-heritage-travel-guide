@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 9,
- "popularity_score": 958379,
+ "popularity_score": 1056655,
  "country": "JO",
  "country_zh": "约旦",
  "country_en": "Jordan",
@@ -96,7 +96,8 @@
     "lat": 29.727009,
     "lon": 35.014116,
     "type": "large_airport",
-    "distance_km": 78.5
+    "distance_km": 78.5,
+    "name_zh": "拉蒙机场"
    },
    {
     "name": "King Hussein International Airport",
@@ -106,7 +107,8 @@
     "lat": 29.611601,
     "lon": 35.018101,
     "type": "large_airport",
-    "distance_km": 89.5
+    "distance_km": 89.5,
+    "name_zh": "侯赛因国王国际机场"
    },
    {
     "name": "Taba International Airport",
@@ -116,7 +118,8 @@
     "lat": 29.594496,
     "lon": 34.775752,
     "type": "medium_airport",
-    "distance_km": 103.8
+    "distance_km": 103.8,
+    "name_zh": "塔巴国际机场"
    }
   ],
   "nearest_airport_km": 78.5,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

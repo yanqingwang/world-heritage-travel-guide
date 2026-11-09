@@ -3,8 +3,8 @@
  "unesco_id": "448",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 158,
- "popularity_score": 72324,
+ "popularity_rank": 169,
+ "popularity_score": 79745,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -96,7 +96,8 @@
     "lat": 37.7314,
     "lon": 38.468899,
     "type": "medium_airport",
-    "distance_km": 36.6
+    "distance_km": 36.6,
+    "name_zh": "阿德亚曼机场"
    },
    {
     "name": "Şanlıurfa GAP Airport",
@@ -106,7 +107,8 @@
     "lat": 37.445663,
     "lon": 38.895592,
     "type": "large_airport",
-    "distance_km": 61.0
+    "distance_km": 61.0,
+    "name_zh": "尚勒乌尔法GAP机场"
    },
    {
     "name": "Malatya Erhaç Airport",
@@ -116,7 +118,8 @@
     "lat": 38.435298919699996,
     "lon": 38.0909996033,
     "type": "medium_airport",
-    "distance_km": 76.0
+    "distance_km": 76.0,
+    "name_zh": "马拉蒂亚"
    }
   ],
   "nearest_airport_km": 36.6,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

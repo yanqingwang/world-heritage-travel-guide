@@ -3,8 +3,8 @@
  "unesco_id": "1748",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 624,
- "popularity_score": 6219,
+ "popularity_rank": 666,
+ "popularity_score": 6827,
  "country": "KH",
  "country_zh": "柬埔寨",
  "country_en": "Cambodia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KH-12",
- "subdivision_zh": "金边",
- "subdivision_en": "Phnom Penh",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "柬埔寨纪念地：从压迫中心到和平与反思之所",
  "name_zh_source": "unesco_official",
  "name_en": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
@@ -72,7 +72,8 @@
     "lat": 11.359987,
     "lon": 104.921272,
     "type": "large_airport",
-    "distance_km": 14.0
+    "distance_km": 14.0,
+    "name_zh": "德崇国际机场"
    },
    {
     "name": "Rach Gia Airport",
@@ -82,7 +83,8 @@
     "lat": 9.95802997234,
     "lon": 105.132379532,
     "type": "medium_airport",
-    "distance_km": 171.6
+    "distance_km": 171.6,
+    "name_zh": "迪石机场"
    },
    {
     "name": "Sihanouk International Airport",
@@ -92,7 +94,8 @@
     "lat": 10.570557,
     "lon": 103.632067,
     "type": "large_airport",
-    "distance_km": 171.9
+    "distance_km": 171.9,
+    "name_zh": "西哈努克国际机场"
    }
   ],
   "nearest_airport_km": 14.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

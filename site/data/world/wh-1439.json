@@ -3,8 +3,8 @@
  "unesco_id": "1439",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 246,
- "popularity_score": 33340,
+ "popularity_rank": 266,
+ "popularity_score": 36382,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -96,7 +96,8 @@
     "lat": 37.5583,
     "lon": 126.791,
     "type": "large_airport",
-    "distance_km": 35.8
+    "distance_km": 35.8,
+    "name_zh": "金浦国际机场"
    },
    {
     "name": "Incheon International Airport",
@@ -106,7 +107,8 @@
     "lat": 37.469101,
     "lon": 126.450996,
     "type": "large_airport",
-    "distance_km": 64.7
+    "distance_km": 64.7,
+    "name_zh": "仁川国际机场"
    },
    {
     "name": "Wonju Airport / Hoengseong Air Base (K-38/K-46)",
@@ -116,7 +118,8 @@
     "lat": 37.437113,
     "lon": 127.960051,
     "type": "medium_airport",
-    "distance_km": 68.6
+    "distance_km": 68.6,
+    "name_zh": "原州机场"
    }
   ],
   "nearest_airport_km": 35.8,
@@ -331,5 +334,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

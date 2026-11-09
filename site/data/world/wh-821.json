@@ -3,8 +3,8 @@
  "unesco_id": "821",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 758,
- "popularity_score": 2472,
+ "popularity_rank": 806,
+ "popularity_score": 2574,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -72,7 +72,8 @@
     "lat": -2.586386,
     "lon": -44.235008,
     "type": "large_airport",
-    "distance_km": 10.2
+    "distance_km": 10.2,
+    "name_zh": "圣路易斯国际机场"
    },
    {
     "name": "Parnaíba - Prefeito Doutor João Silva Filho International Airport",
@@ -92,7 +93,8 @@
     "lat": -5.06025,
     "lon": -42.823712,
     "type": "medium_airport",
-    "distance_km": 326.1
+    "distance_km": 326.1,
+    "name_zh": "特雷西纳机场"
    }
   ],
   "nearest_airport_km": 10.2,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

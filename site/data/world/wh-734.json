@@ -3,8 +3,8 @@
  "unesco_id": "734",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 215,
- "popularity_score": 40829,
+ "popularity_rank": 234,
+ "popularity_score": 44145,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -96,7 +96,8 @@
     "lat": 36.393407,
     "lon": 136.406895,
     "type": "large_airport",
-    "distance_km": 47.3
+    "distance_km": 47.3,
+    "name_zh": "小松机场"
    },
    {
     "name": "Toyama Kitokito Airport",
@@ -106,7 +107,8 @@
     "lat": 36.648416,
     "lon": 137.187359,
     "type": "medium_airport",
-    "distance_km": 50.3
+    "distance_km": 50.3,
+    "name_zh": "富山机场"
    },
    {
     "name": "Shinshu-Matsumoto Airport",
@@ -116,7 +118,8 @@
     "lat": 36.166801,
     "lon": 137.923004,
     "type": "medium_airport",
-    "distance_km": 91.8
+    "distance_km": 91.8,
+    "name_zh": "松本机场"
    }
   ],
   "nearest_airport_km": 47.3,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

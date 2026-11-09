@@ -3,8 +3,8 @@
  "unesco_id": "1426",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 59,
- "popularity_score": 181993,
+ "popularity_rank": 68,
+ "popularity_score": 195452,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -96,7 +96,8 @@
     "lat": 43.907299,
     "lon": 4.90183,
     "type": "medium_airport",
-    "distance_km": 66.0
+    "distance_km": 66.0,
+    "name_zh": "亚维农-普罗旺斯机场"
    },
    {
     "name": "Nîmes-Arles-Camargue Airport",
@@ -106,7 +107,8 @@
     "lat": 43.757401,
     "lon": 4.41635,
     "type": "medium_airport",
-    "distance_km": 70.1
+    "distance_km": 70.1,
+    "name_zh": "尼姆-阿莱-卡马尔格-塞文机场"
    },
    {
     "name": "Le Puy-Loudes Airfield",
@@ -116,7 +118,8 @@
     "lat": 45.0807,
     "lon": 3.76289,
     "type": "small_airport",
-    "distance_km": 92.7
+    "distance_km": 92.7,
+    "name_zh": "勒皮"
    }
   ],
   "nearest_airport_km": 66.0,
@@ -299,5 +302,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1121",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 861,
+ "popularity_rank": 900,
  "popularity_score": null,
  "country": "CO",
  "country_zh": "哥伦比亚",
@@ -64,7 +64,8 @@
     "lat": 3.542717,
     "lon": -76.381898,
     "type": "large_airport",
-    "distance_km": 68.6
+    "distance_km": 68.6,
+    "name_zh": "卡利"
    },
    {
     "name": "Gerardo Tobar López Airport",
@@ -74,7 +75,8 @@
     "lat": 3.81963,
     "lon": -76.9898,
     "type": "medium_airport",
-    "distance_km": 76.1
+    "distance_km": 76.1,
+    "name_zh": "Gerardo Tobar López机场"
    },
    {
     "name": "El Eden Airport",
@@ -84,7 +86,8 @@
     "lat": 4.45278,
     "lon": -75.7664,
     "type": "medium_airport",
-    "distance_km": 76.9
+    "distance_km": 76.9,
+    "name_zh": "埃尔埃登国际机场"
    }
   ],
   "nearest_airport_km": 68.6,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

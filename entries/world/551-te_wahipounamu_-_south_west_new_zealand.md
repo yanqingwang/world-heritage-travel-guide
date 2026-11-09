@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -45.036
 lon: 167.32
-updated_at: "2026-11-09T12:01:00Z"
+updated_at: "2026-11-09T12:50:19Z"
 ---
 
 # 蒂瓦希普纳穆-新西兰西南部地区 / Te Wahipounamu – South West New Zealand

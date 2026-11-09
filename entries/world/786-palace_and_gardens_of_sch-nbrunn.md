@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(iv)"
 lat: 48.18667
 lon: 16.31333
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 申布伦宫殿和花园 / Palace and Gardens of Schönbrunn

@@ -3,8 +3,8 @@
  "unesco_id": "901",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 670,
- "popularity_score": 4885,
+ "popularity_rank": 712,
+ "popularity_score": 5326,
  "country": "CZ",
  "country_zh": "捷克",
  "country_en": "Czech Republic",
@@ -72,7 +72,8 @@
     "lat": 50.015049,
     "lon": 15.73981,
     "type": "large_airport",
-    "distance_km": 43.9
+    "distance_km": 43.9,
+    "name_zh": "帕尔杜比采机场"
    },
    {
     "name": "Brno-Tuřany Airport",
@@ -82,7 +83,8 @@
     "lat": 49.151276,
     "lon": 16.693972,
     "type": "medium_airport",
-    "distance_km": 84.9
+    "distance_km": 84.9,
+    "name_zh": "布尔诺-图拉尼机场"
    },
    {
     "name": "Leoš Janáček Airport Ostrava",
@@ -92,7 +94,8 @@
     "lat": 49.696301,
     "lon": 18.111099,
     "type": "large_airport",
-    "distance_km": 130.6
+    "distance_km": 130.6,
+    "name_zh": "俄斯特拉发"
    }
   ],
   "nearest_airport_km": 43.9,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

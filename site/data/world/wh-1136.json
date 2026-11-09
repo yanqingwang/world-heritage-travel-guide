@@ -3,8 +3,8 @@
  "unesco_id": "1136",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 456,
- "popularity_score": 12748,
+ "popularity_rank": 489,
+ "popularity_score": 13889,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -72,7 +72,8 @@
     "lat": 19.435822,
     "lon": -99.07033,
     "type": "large_airport",
-    "distance_km": 13.1
+    "distance_km": 13.1,
+    "name_zh": "墨西哥城贝尼托·胡亚雷斯国际机场"
    },
    {
     "name": "Adolfo López Mateos International Airport",
@@ -82,7 +83,8 @@
     "lat": 19.3369,
     "lon": -99.56583,
     "type": "large_airport",
-    "distance_km": 40.0
+    "distance_km": 40.0,
+    "name_zh": "墨西哥城/托鲁卡"
    },
    {
     "name": "Felipe Ángeles International Airport",
@@ -92,7 +94,8 @@
     "lat": 19.743824,
     "lon": -99.01507,
     "type": "large_airport",
-    "distance_km": 41.4
+    "distance_km": 41.4,
+    "name_zh": "墨西哥城圣塔卢西亚机场"
    }
   ],
   "nearest_airport_km": 13.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

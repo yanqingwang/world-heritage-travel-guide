@@ -3,8 +3,8 @@
  "unesco_id": "1338",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 136,
- "popularity_score": 83820,
+ "popularity_rank": 149,
+ "popularity_score": 91325,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IN-RJ",
- "subdivision_zh": "拉贾斯坦邦",
- "subdivision_en": "Rajasthan",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "简塔•曼塔天文台",
  "name_zh_source": "unesco_official",
  "name_en": "The Jantar Mantar, Jaipur",
@@ -96,7 +96,8 @@
     "lat": 26.8242,
     "lon": 75.812202,
     "type": "large_airport",
-    "distance_km": 11.2
+    "distance_km": 11.2,
+    "name_zh": "斋浦尔国际机场"
    },
    {
     "name": "Kishangarh Airport Ajmer",
@@ -116,7 +117,8 @@
     "lat": 27.157975,
     "lon": 77.961025,
     "type": "medium_airport",
-    "distance_km": 213.1
+    "distance_km": 213.1,
+    "name_zh": "阿格拉机场"
    }
   ],
   "nearest_airport_km": 11.2,
@@ -295,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

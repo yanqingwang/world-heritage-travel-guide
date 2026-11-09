@@ -3,8 +3,8 @@
  "unesco_id": "407",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 722,
- "popularity_score": 3733,
+ "popularity_rank": 766,
+ "popularity_score": 4027,
  "country": "CM",
  "country_zh": "喀麦隆",
  "country_en": "Cameroon",
@@ -72,7 +72,8 @@
     "lat": 3.72256,
     "lon": 11.5533,
     "type": "large_airport",
-    "distance_km": 177.1
+    "distance_km": 177.1,
+    "name_zh": "雅温得-恩西马兰国际机场"
    },
    {
     "name": "Oyem Airport",
@@ -82,7 +83,8 @@
     "lat": 1.5431100130081177,
     "lon": 11.581399917602539,
     "type": "medium_airport",
-    "distance_km": 226.1
+    "distance_km": 226.1,
+    "name_zh": "奥耶姆机场"
    },
    {
     "name": "President Obiang Nguema International Airport",
@@ -92,7 +94,8 @@
     "lat": 1.676437,
     "lon": 11.024904,
     "type": "medium_airport",
-    "distance_km": 263.7
+    "distance_km": 263.7,
+    "name_zh": "奥比昂·恩圭马总统国际机场"
    }
   ],
   "nearest_airport_km": 177.1,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

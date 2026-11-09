@@ -3,8 +3,8 @@
  "unesco_id": "445",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 20,
- "popularity_score": 524619,
+ "popularity_rank": 22,
+ "popularity_score": 567409,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -96,7 +96,8 @@
     "lat": -15.869167,
     "lon": -47.920834,
     "type": "large_airport",
-    "distance_km": 9.3
+    "distance_km": 9.3,
+    "name_zh": "巴西利亚－儒塞利诺·库比契克总统国际机场"
    },
    {
     "name": "Santa Genoveva International Airport",
@@ -106,7 +107,8 @@
     "lat": -16.632,
     "lon": -49.220699,
     "type": "large_airport",
-    "distance_km": 170.6
+    "distance_km": 170.6,
+    "name_zh": "戈亚尼亚国际机场"
    },
    {
     "name": "Pedro Rabelo de Souza Airport",
@@ -269,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

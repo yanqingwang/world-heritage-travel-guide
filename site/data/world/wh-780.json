@@ -3,8 +3,8 @@
  "unesco_id": "780",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 234,
- "popularity_score": 35807,
+ "popularity_rank": 250,
+ "popularity_score": 39348,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -90,7 +90,8 @@
     "lat": 40.51928,
     "lon": 22.970009,
     "type": "large_airport",
-    "distance_km": 54.9
+    "distance_km": 54.9,
+    "name_zh": "塞萨洛尼基马其顿国际机场"
    },
    {
     "name": "Kastoria National Airport Aristotle",
@@ -294,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

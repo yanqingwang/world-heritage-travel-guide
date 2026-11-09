@@ -3,7 +3,7 @@
  "unesco_id": "186",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1021,
+ "popularity_rank": 1037,
  "popularity_score": null,
  "country": "AU",
  "country_zh": "澳大利亚",
@@ -72,7 +72,8 @@
     "lat": -31.538204,
     "lon": 159.07546,
     "type": "small_airport",
-    "distance_km": 2.0
+    "distance_km": 2.0,
+    "name_zh": "豪勋爵岛机场"
    }
   ],
   "nearest_airport_km": 2.0,
@@ -152,5 +153,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

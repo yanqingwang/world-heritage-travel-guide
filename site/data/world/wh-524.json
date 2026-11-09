@@ -3,8 +3,8 @@
  "unesco_id": "524",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 77,
- "popularity_score": 154616,
+ "popularity_rank": 85,
+ "popularity_score": 168650,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 23.2875,
     "lon": 77.337402,
     "type": "large_airport",
-    "distance_km": 46.3
+    "distance_km": 46.3,
+    "name_zh": "Raja Bhoj机场"
    },
    {
     "name": "Devi Ahilya Bai Holkar International Airport",
@@ -106,7 +107,8 @@
     "lat": 22.721404,
     "lon": 75.80051,
     "type": "large_airport",
-    "distance_km": 215.5
+    "distance_km": 215.5,
+    "name_zh": "印多尔"
    },
    {
     "name": "Jabalpur Airport",
@@ -116,7 +118,8 @@
     "lat": 23.177799,
     "lon": 80.052002,
     "type": "medium_airport",
-    "distance_km": 238.5
+    "distance_km": 238.5,
+    "name_zh": "贾巴尔普尔机场"
    }
   ],
   "nearest_airport_km": 46.3,
@@ -304,5 +307,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1380",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 923,
+ "popularity_rank": 949,
  "popularity_score": null,
  "country": "CF",
  "country_zh": "中非共和国",
@@ -26,10 +26,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "CF-SE",
- "subdivision_zh": "桑加-姆巴埃雷省",
- "subdivision_en": "Sangha-Mbaéré",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "桑加三国保护区",
  "name_zh_source": "curated",
  "name_en": "Sangha Trinational",
@@ -74,7 +74,8 @@
     "lat": 4.39848,
     "lon": 18.518801,
     "type": "large_airport",
-    "distance_km": 309.7
+    "distance_km": 309.7,
+    "name_zh": "班吉－姆波科国际机场"
    },
    {
     "name": "Mbandaka Airport",
@@ -94,7 +95,8 @@
     "lat": 3.23537,
     "lon": 19.771299,
     "type": "medium_airport",
-    "distance_km": 387.0
+    "distance_km": 387.0,
+    "name_zh": "盖梅纳机场"
    }
   ],
   "nearest_airport_km": 309.7,
@@ -190,5 +192,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

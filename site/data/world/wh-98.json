@@ -3,8 +3,8 @@
  "unesco_id": "98",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 140,
- "popularity_score": 81521,
+ "popularity_rank": 152,
+ "popularity_score": 89508,
  "country": "HR",
  "country_zh": "克罗地亚",
  "country_en": "Croatia",
@@ -96,7 +96,8 @@
     "lat": 44.096986,
     "lon": 15.353565,
     "type": "large_airport",
-    "distance_km": 89.6
+    "distance_km": 89.6,
+    "name_zh": "扎达尔机场"
    },
    {
     "name": "Rijeka Airport",
@@ -106,7 +107,8 @@
     "lat": 45.216376,
     "lon": 14.57085,
     "type": "large_airport",
-    "distance_km": 90.2
+    "distance_km": 90.2,
+    "name_zh": "里耶卡机场"
    },
    {
     "name": "Zagreb Franjo Tuđman International Airport",
@@ -116,7 +118,8 @@
     "lat": 45.742901,
     "lon": 16.0688,
     "type": "large_airport",
-    "distance_km": 102.2
+    "distance_km": 102.2,
+    "name_zh": "萨格勒布机场"
    }
   ],
   "nearest_airport_km": 89.6,
@@ -326,5 +329,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

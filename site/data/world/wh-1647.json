@@ -3,8 +3,8 @@
  "unesco_id": "1647",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 783,
- "popularity_score": 1692,
+ "popularity_rank": 827,
+ "popularity_score": 1838,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -82,7 +82,8 @@
     "lat": 34.3459014893,
     "lon": 47.1581001282,
     "type": "medium_airport",
-    "distance_km": 105.0
+    "distance_km": 105.0,
+    "name_zh": "克尔曼沙赫"
    },
    {
     "name": "Jalal Talabani International Airport",
@@ -92,7 +93,8 @@
     "lat": 35.560487,
     "lon": 45.315137,
     "type": "medium_airport",
-    "distance_km": 116.9
+    "distance_km": 116.9,
+    "name_zh": "苏莱曼尼亚"
    }
   ],
   "nearest_airport_km": 50.7,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "995",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 664,
- "popularity_score": 4949,
+ "popularity_rank": 707,
+ "popularity_score": 5394,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -72,7 +72,8 @@
     "lat": -31.312346,
     "lon": -64.208329,
     "type": "large_airport",
-    "distance_km": 43.9
+    "distance_km": 43.9,
+    "name_zh": "Ingeniero Aeronáutico Ambrosio L.V. Taravella国际机场"
    },
    {
     "name": "Brigadier Mayor D Cesar Raul Ojeda Airport",
@@ -82,7 +83,8 @@
     "lat": -33.273201,
     "lon": -66.3564,
     "type": "medium_airport",
-    "distance_km": 254.6
+    "distance_km": 254.6,
+    "name_zh": "圣路易斯机场"
    },
    {
     "name": "Capitan V A Almonacid Airport",
@@ -92,7 +94,8 @@
     "lat": -29.381599,
     "lon": -66.795799,
     "type": "medium_airport",
-    "distance_km": 339.2
+    "distance_km": 339.2,
+    "name_zh": "拉利奥哈-维森特·阿尔曼多斯上尉机场"
    }
   ],
   "nearest_airport_km": 43.9,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

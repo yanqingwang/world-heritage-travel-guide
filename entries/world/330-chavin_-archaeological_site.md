@@ -8,13 +8,13 @@ country: "PE"
 country_zh: "秘鲁"
 country_en: "Peru"
 unesco_id: "330"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1985"
 criteria: "(iii)"
 lat: -9.592775
 lon: -77.178452777
-updated_at: "2026-11-09T12:00:58Z"
+updated_at: "2026-11-09T12:50:18Z"
 ---
 
 # 夏文考古遗址 / Chavin (Archaeological Site)
@@ -27,21 +27,9 @@ updated_at: "2026-11-09T12:00:58Z"
 
 *Chavin - Août 2007.jpg · see Wikimedia Commons file page*
 
-![Acondicionamiento Climático prehispánico.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Acondicionamiento_Clim%C3%A1tico_prehisp%C3%A1nico.jpg/1280px-Acondicionamiento_Clim%C3%A1tico_prehisp%C3%A1nico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Chavin (Archaeological Site)](https://whc.unesco.org/uploads/sites/site_330.jpg)
 
-*Acondicionamiento Climático prehispánico.jpg · Luf sattui · CC BY-SA 4.0*
-
-![Acueducto en Chavín.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Acueducto_en_Chav%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Acueducto en Chavín.jpg · Qpqqy · CC BY-SA 4.0*
-
-![Alpaca en el centro ceremonial de Chavín de Huántar 01.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_01.jpg/1280px-Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Alpaca en el centro ceremonial de Chavín de Huántar 01.jpg · Carlo Brescia · CC BY-SA 4.0*
-
-![Alpaca en el centro ceremonial de Chavín de Huántar 02.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_02.jpg/1280px-Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Alpaca en el centro ceremonial de Chavín de Huántar 02.jpg · Carlo Brescia · CC BY-SA 4.0*
+*Chavin (Archaeological Site) · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -65,16 +53,6 @@ El sitio arqueológico de Chavín ha dado su nombre a la cultura que se desarrol
 - ✈ **FAP Lieutenant Jaime Andres de Montreuil Morales Airport (CHM)** — 155.6 km
 - ✈ **Jorge Chávez International Airport (LIM)** — 270.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **16427.1 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hostal Chavin Turistico** — 0.3 km — star — 3★
-- **Andino Club Hotel** — 38.3 km — star — 3★
-- **San Sebastian** — 38.4 km — star — 3★
-- **Sierra Nevada** — 40.8 km — star — 3★
-- **Hotel Inca** — 0.4 km — star — 2★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

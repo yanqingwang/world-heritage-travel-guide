@@ -3,7 +3,7 @@
  "unesco_id": "1107",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 859,
+ "popularity_rank": 898,
  "popularity_score": null,
  "country": "IL",
  "country_zh": "以色列",
@@ -64,7 +64,8 @@
     "lat": 29.727009,
     "lon": 35.014116,
     "type": "large_airport",
-    "distance_km": 91.6
+    "distance_km": 91.6,
+    "name_zh": "拉蒙机场"
    },
    {
     "name": "King Hussein International Airport",
@@ -74,7 +75,8 @@
     "lat": 29.611601,
     "lon": 35.018101,
     "type": "large_airport",
-    "distance_km": 104.3
+    "distance_km": 104.3,
+    "name_zh": "侯赛因国王国际机场"
    },
    {
     "name": "Taba International Airport",
@@ -84,7 +86,8 @@
     "lat": 29.594496,
     "lon": 34.775752,
     "type": "medium_airport",
-    "distance_km": 111.6
+    "distance_km": 111.6,
+    "name_zh": "塔巴国际机场"
    }
   ],
   "nearest_airport_km": 91.6,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "65",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1122,
+ "popularity_rank": 1127,
  "popularity_score": null,
  "country": "GT",
  "country_zh": "危地马拉",
@@ -64,7 +64,8 @@
     "lat": 14.582896,
     "lon": -90.527515,
     "type": "large_airport",
-    "distance_km": 22.4
+    "distance_km": 22.4,
+    "name_zh": "拉奥罗拉国际机场"
    },
    {
     "name": "Quezaltenango Airport",
@@ -74,7 +75,8 @@
     "lat": 14.8656,
     "lon": -91.501999,
     "type": "small_airport",
-    "distance_km": 89.5
+    "distance_km": 89.5,
+    "name_zh": "克萨尔特南戈机场"
    },
    {
     "name": "Retalhuleu Airport",
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

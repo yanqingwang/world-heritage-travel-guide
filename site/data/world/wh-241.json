@@ -3,8 +3,8 @@
  "unesco_id": "241",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 86,
- "popularity_score": 139811,
+ "popularity_rank": 92,
+ "popularity_score": 160019,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 15.361084,
     "lon": 75.082096,
     "type": "medium_airport",
-    "distance_km": 148.0
+    "distance_km": 148.0,
+    "name_zh": "胡布利机场"
    },
    {
     "name": "Kurnool Airport",
@@ -116,7 +117,8 @@
     "lat": 15.8593,
     "lon": 74.618301,
     "type": "medium_airport",
-    "distance_km": 205.9
+    "distance_km": 205.9,
+    "name_zh": "贝尔高姆"
    }
   ],
   "nearest_airport_km": 148.0,
@@ -304,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

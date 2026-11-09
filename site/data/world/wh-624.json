@@ -3,7 +3,7 @@
  "unesco_id": "624",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1119,
+ "popularity_rank": 1124,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -64,7 +64,8 @@
     "lat": 49.498699,
     "lon": 11.078056,
     "type": "large_airport",
-    "distance_km": 45.7
+    "distance_km": 45.7,
+    "name_zh": "纽伦堡机场"
    },
    {
     "name": "Erfurt-Weimar Airport",
@@ -74,7 +75,8 @@
     "lat": 50.978281,
     "lon": 10.960713,
     "type": "large_airport",
-    "distance_km": 120.9
+    "distance_km": 120.9,
+    "name_zh": "埃尔福特-魏玛机场"
    },
    {
     "name": "Karlovy Vary Airport",
@@ -84,7 +86,8 @@
     "lat": 50.202999,
     "lon": 12.915,
     "type": "large_airport",
-    "distance_km": 148.6
+    "distance_km": 148.6,
+    "name_zh": "卡罗维发利机场"
    }
   ],
   "nearest_airport_km": 45.7,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

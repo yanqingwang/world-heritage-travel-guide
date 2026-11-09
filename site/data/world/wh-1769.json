@@ -3,8 +3,8 @@
  "unesco_id": "1769",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 205,
- "popularity_score": 43253,
+ "popularity_rank": 223,
+ "popularity_score": 47280,
  "country": "TN",
  "country_zh": "突尼斯",
  "country_en": "Tunisia",
@@ -96,7 +96,8 @@
     "lat": 36.851002,
     "lon": 10.2272,
     "type": "large_airport",
-    "distance_km": 10.3
+    "distance_km": 10.3,
+    "name_zh": "突尼斯－迦太基国际机场"
    },
    {
     "name": "Enfidha - Hammamet International Airport",
@@ -106,7 +107,8 @@
     "lat": 36.075833,
     "lon": 10.438611,
     "type": "medium_airport",
-    "distance_km": 88.7
+    "distance_km": 88.7,
+    "name_zh": "恩菲达-哈马马特国际机场"
    },
    {
     "name": "Monastir Habib Bourguiba International Airport",
@@ -116,7 +118,8 @@
     "lat": 35.75809860229492,
     "lon": 10.75469970703125,
     "type": "medium_airport",
-    "distance_km": 129.0
+    "distance_km": 129.0,
+    "name_zh": "莫纳斯提尔哈比卜·布尔吉巴国际机场"
    }
   ],
   "nearest_airport_km": 10.3,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

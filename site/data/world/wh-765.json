@@ -3,7 +3,7 @@
  "unesco_id": "765",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1145,
+ "popularity_rank": 1150,
  "popularity_score": null,
  "country": "RU",
  "country_zh": "俄罗斯",
@@ -72,7 +72,8 @@
     "lat": 53.168716,
     "lon": 158.451068,
     "type": "large_airport",
-    "distance_km": 136.6
+    "distance_km": 136.6,
+    "name_zh": "堪察加彼得罗巴甫洛夫斯克机场"
    }
   ],
   "nearest_airport_km": 136.6,
@@ -152,5 +153,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

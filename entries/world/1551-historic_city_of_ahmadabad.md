@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1551"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2017"
 criteria: "(ii)(v)"
 lat: 23.021944444
 lon: 72.579722222
-updated_at: "2026-11-09T12:01:05Z"
+updated_at: "2026-11-09T12:50:25Z"
 ---
 
 # 艾哈迈达巴德 / Historic City of Ahmadabad
@@ -27,9 +27,21 @@ updated_at: "2026-11-09T12:01:05Z"
 
 *Amdavad Aerial.jpg · see Wikimedia Commons file page*
 
-![Historic City of Ahmadabad](https://whc.unesco.org/uploads/sites/site_1551.jpg)
+!["Retreat", Sarabhai Residence, Ahmedabad, 1952.jpg](https://upload.wikimedia.org/wikipedia/commons/4/43/%22Retreat%22%2C_Sarabhai_Residence%2C_Ahmedabad%2C_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
-*Historic City of Ahmadabad · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*"Retreat", Sarabhai Residence, Ahmedabad, 1952.jpg · Nathan Hughes Hamilton · CC BY 2.0*
+
+![12297 – Pune Duronto Express Train at Ahmedabad, Gujarat, India (2012).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/12297_%E2%80%93_Pune_Duronto_Express_Train_at_Ahmedabad%2C_Gujarat%2C_India_%282012%29.jpg/1280px-12297_%E2%80%93_Pune_Duronto_Express_Train_at_Ahmedabad%2C_Gujarat%2C_India_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*12297 – Pune Duronto Express Train at Ahmedabad, Gujarat, India (2012).jpg · Nitinr708 · CC BY-SA 3.0*
+
+![1901 Ahmedabadi Market.jpg](https://upload.wikimedia.org/wikipedia/commons/f/f7/1901_Ahmedabadi_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*1901 Ahmedabadi Market.jpg · Keystone View Company · Public domain*
+
+![A circus near Vishwakarma Mandir Gota Road, Ahmedabad, Gujarat, India (2014).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_circus_near_Vishwakarma_Mandir_Gota_Road%2C_Ahmedabad%2C_Gujarat%2C_India_%282014%29.jpg/1280px-A_circus_near_Vishwakarma_Mandir_Gota_Road%2C_Ahmedabad%2C_Gujarat%2C_India_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*A circus near Vishwakarma Mandir Gota Road, Ahmedabad, Gujarat, India (2014).jpg · Amarjeetarc · CC BY-SA 3.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,22 @@ The walled city of Ahmadabad, founded by Sultan Ahmad Shah in the 15th century, 
 - ✈ **Sardar Vallabh Patel International Airport (AMD)** — 8.3 km
 - ✈ **Vadodara International Airport (BDQ)** — 101.1 km
 - ✈ **Bhavnagar Airport (BHU)** — 146.9 km
+- 🚉 **Ahmedabad Junction** — 2.2 km
+- 🚉 **Maninagar** — 4.1 km
+- 🚉 **Asarva** — 4.2 km
+- 🚉 **Sabarmati Junction** — 5.5 km
+- 🚉 **Sabarmati** — 6.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4515.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Radisson Blu** — 2.3 km — star — 5★
+- **Pride Plaza** — 6.9 km — star — 5★
+- **DoubleTree By Hilton Ahmedabad** — 8.0 km — star — 5★ · DoubleTree
+- **Cama Hotel** — 1.2 km — star — 4★
+- **Park Plaza** — 1.3 km — star — 4★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

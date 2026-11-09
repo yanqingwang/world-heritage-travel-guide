@@ -3,8 +3,8 @@
  "unesco_id": "672",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 55,
- "popularity_score": 193043,
+ "popularity_rank": 62,
+ "popularity_score": 212660,
  "country": "VN",
  "country_zh": "越南",
  "country_en": "Vietnam",
@@ -17,8 +17,8 @@
  ],
  "region": "",
  "subdivision_iso": "VN-13",
- "subdivision_zh": "广宁市",
- "subdivision_en": "Quảng Ninh",
+ "subdivision_zh": "",
+ "subdivision_en": "",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "下龙湾-吉婆群岛",
  "name_zh_source": "unesco_official",
@@ -96,7 +96,8 @@
     "lat": 21.120693,
     "lon": 107.41539,
     "type": "medium_airport",
-    "distance_km": 33.2
+    "distance_km": 33.2,
+    "name_zh": "云屯国际机场"
    },
    {
     "name": "Cat Bi International Airport",
@@ -106,7 +107,8 @@
     "lat": 20.817428,
     "lon": 106.724315,
     "type": "large_airport",
-    "distance_km": 50.3
+    "distance_km": 50.3,
+    "name_zh": "吉碑国际机场"
    },
    {
     "name": "Noi Bai International Airport",
@@ -116,7 +118,8 @@
     "lat": 21.221201,
     "lon": 105.806999,
     "type": "large_airport",
-    "distance_km": 148.9
+    "distance_km": 148.9,
+    "name_zh": "内排国际机场"
    }
   ],
   "nearest_airport_km": 33.2,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

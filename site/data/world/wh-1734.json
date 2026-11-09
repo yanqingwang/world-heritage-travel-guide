@@ -3,7 +3,7 @@
  "unesco_id": "1734",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1007,
+ "popularity_rank": 1023,
  "popularity_score": null,
  "country": "MY",
  "country_zh": "马来西亚",
@@ -72,7 +72,8 @@
     "lat": 3.13058,
     "lon": 101.549004,
     "type": "large_airport",
-    "distance_km": 14.8
+    "distance_km": 14.8,
+    "name_zh": "苏丹阿都阿兹沙机场"
    },
    {
     "name": "Kuala Lumpur International Airport",
@@ -82,7 +83,8 @@
     "lat": 2.74558,
     "lon": 101.709999,
     "type": "large_airport",
-    "distance_km": 54.9
+    "distance_km": 54.9,
+    "name_zh": "吉隆坡国际机场"
    },
    {
     "name": "Malacca International Airport",
@@ -92,7 +94,8 @@
     "lat": 2.265613,
     "lon": 102.252778,
     "type": "medium_airport",
-    "distance_km": 127.7
+    "distance_km": 127.7,
+    "name_zh": "马六甲国际机场"
    }
   ],
   "nearest_airport_km": 14.8,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

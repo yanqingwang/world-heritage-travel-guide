@@ -3,8 +3,8 @@
  "unesco_id": "1430",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 125,
- "popularity_score": 99210,
+ "popularity_rank": 137,
+ "popularity_score": 107954,
  "country": "NA",
  "country_zh": "纳米比亚",
  "country_en": "Namibia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "NA-ER",
- "subdivision_zh": "埃龙戈区",
- "subdivision_en": "Erongo Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "纳米布沙漠",
  "name_zh_source": "wikidata",
  "name_en": "Namib Sand Sea",
@@ -106,7 +106,8 @@
     "lat": -22.60492,
     "lon": 17.079002,
     "type": "medium_airport",
-    "distance_km": 217.6
+    "distance_km": 217.6,
+    "name_zh": "厄洛斯机场"
    },
    {
     "name": "Hosea Kutako International Airport",
@@ -116,7 +117,8 @@
     "lat": -22.4799,
     "lon": 17.4709,
     "type": "large_airport",
-    "distance_km": 259.9
+    "distance_km": 259.9,
+    "name_zh": "霍齐亚·库塔科国际机场"
    }
   ],
   "nearest_airport_km": 36.2,
@@ -217,5 +219,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

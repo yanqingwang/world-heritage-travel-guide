@@ -3,8 +3,8 @@
  "unesco_id": "633",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 615,
- "popularity_score": 6591,
+ "popularity_rank": 656,
+ "popularity_score": 7211,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -72,7 +72,8 @@
     "lat": 56.93939971923828,
     "lon": 40.940799713134766,
     "type": "medium_airport",
-    "distance_km": 93.5
+    "distance_km": 93.5,
+    "name_zh": "伊万诺沃"
    },
    {
     "name": "Zhukovsky International Airport",
@@ -82,7 +83,8 @@
     "lat": 55.553299,
     "lon": 38.150002,
     "type": "large_airport",
-    "distance_km": 156.3
+    "distance_km": 156.3,
+    "name_zh": "拉缅斯科耶机场"
    },
    {
     "name": "Golden Ring Yaroslavl International Airport",
@@ -92,7 +94,8 @@
     "lat": 57.560699,
     "lon": 40.157398,
     "type": "large_airport",
-    "distance_km": 157.7
+    "distance_km": 157.7,
+    "name_zh": "图诺什纳机场"
    }
   ],
   "nearest_airport_km": 93.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

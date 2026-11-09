@@ -3,7 +3,7 @@
  "unesco_id": "422",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1075,
+ "popularity_rank": 1086,
  "popularity_score": null,
  "country": "GB",
  "country_zh": "英国",
@@ -17,7 +17,7 @@
  ],
  "region": "",
  "subdivision_iso": "GB-ENG",
- "subdivision_zh": "英格兰",
+ "subdivision_zh": "",
  "subdivision_en": "England",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "英格兰湖区",
@@ -64,7 +64,8 @@
     "lat": 54.083081,
     "lon": -4.623871,
     "type": "large_airport",
-    "distance_km": 105.3
+    "distance_km": 105.3,
+    "name_zh": "萌岛机场"
    },
    {
     "name": "Newcastle International Airport",
@@ -74,7 +75,8 @@
     "lat": 55.037958,
     "lon": -1.689577,
     "type": "large_airport",
-    "distance_km": 112.0
+    "distance_km": 112.0,
+    "name_zh": "纽卡斯尔国际机场"
    },
    {
     "name": "Teesside International Airport",
@@ -84,7 +86,8 @@
     "lat": 54.509201,
     "lon": -1.42941,
     "type": "medium_airport",
-    "distance_km": 112.2
+    "distance_km": 112.2,
+    "name_zh": "德罕蒂斯谷机场"
    }
   ],
   "nearest_airport_km": 105.3,
@@ -162,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

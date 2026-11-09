@@ -3,7 +3,7 @@
  "unesco_id": "277",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1041,
+ "popularity_rank": 1057,
  "popularity_score": null,
  "country": "IQ",
  "country_zh": "伊拉克",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Governorate of Ninawa",
- "subdivision_iso": "IQ-NI",
- "subdivision_zh": "尼尼微省",
- "subdivision_en": "Nineveh Governorate",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "哈特拉",
  "name_zh_source": "unesco_official",
  "name_en": "Hatra",
@@ -64,7 +64,8 @@
     "lat": 36.236047,
     "lon": 43.946615,
     "type": "large_airport",
-    "distance_km": 132.0
+    "distance_km": 132.0,
+    "name_zh": "艾比尔国际机场"
    },
    {
     "name": "Kirkuk International Airport",
@@ -74,7 +75,8 @@
     "lat": 35.469501,
     "lon": 44.3489,
     "type": "large_airport",
-    "distance_km": 148.1
+    "distance_km": 148.1,
+    "name_zh": "基尔库克国际机场"
    },
    {
     "name": "Şırnak Şerafettin Elçi Airport",
@@ -84,7 +86,8 @@
     "lat": 37.3647,
     "lon": 42.0582,
     "type": "medium_airport",
-    "distance_km": 206.2
+    "distance_km": 206.2,
+    "name_zh": "舍尔纳克机场"
    }
   ],
   "nearest_airport_km": 132.0,
@@ -166,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

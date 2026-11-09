@@ -3,7 +3,7 @@
  "unesco_id": "1658",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 987,
+ "popularity_rank": 1003,
  "popularity_score": null,
  "country": "LV",
  "country_zh": "拉脱维亚",
@@ -72,7 +72,8 @@
     "lat": 56.920752,
     "lon": 23.970711,
     "type": "large_airport",
-    "distance_km": 121.4
+    "distance_km": 121.4,
+    "name_zh": "里加国际机场"
    },
    {
     "name": "Palanga International Airport",
@@ -82,7 +83,8 @@
     "lat": 55.973202,
     "lon": 21.093901,
     "type": "large_airport",
-    "distance_km": 123.0
+    "distance_km": 123.0,
+    "name_zh": "帕兰加国际机场"
    },
    {
     "name": "Kuressaare Airport",
@@ -92,7 +94,8 @@
     "lat": 58.22990036010742,
     "lon": 22.50950050354004,
     "type": "medium_airport",
-    "distance_km": 144.0
+    "distance_km": 144.0,
+    "name_zh": "库雷萨雷机场"
    }
   ],
   "nearest_airport_km": 121.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

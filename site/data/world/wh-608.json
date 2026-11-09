@@ -3,8 +3,8 @@
  "unesco_id": "608",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 325,
- "popularity_score": 22819,
+ "popularity_rank": 349,
+ "popularity_score": 24682,
  "country": "ID",
  "country_zh": "印度尼西亚",
  "country_en": "Indonesia",
@@ -72,7 +72,8 @@
     "lat": -6.12557,
     "lon": 106.655998,
     "type": "large_airport",
-    "distance_km": 161.8
+    "distance_km": 161.8,
+    "name_zh": "苏加诺－哈达国际机场"
    },
    {
     "name": "Radin Inten II International Airport",
@@ -82,7 +83,8 @@
     "lat": -5.246803,
     "lon": 105.182531,
     "type": "medium_airport",
-    "distance_km": 168.0
+    "distance_km": 168.0,
+    "name_zh": "拉丁·因滕二世机场"
    },
    {
     "name": "Halim Perdanakusuma International Airport",
@@ -92,7 +94,8 @@
     "lat": -6.266989,
     "lon": 106.890318,
     "type": "large_airport",
-    "distance_km": 180.2
+    "distance_km": 180.2,
+    "name_zh": "哈利姆机场"
    }
   ],
   "nearest_airport_km": 161.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

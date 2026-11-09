@@ -3,8 +3,8 @@
  "unesco_id": "718",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 500,
- "popularity_score": 11208,
+ "popularity_rank": 535,
+ "popularity_score": 12038,
  "country": "CD",
  "country_zh": "刚果民主共和国",
  "country_en": "Democratic Republic of the Congo",
@@ -82,7 +82,8 @@
     "lat": 1.565743,
     "lon": 30.220685,
     "type": "medium_airport",
-    "distance_km": 197.2
+    "distance_km": 197.2,
+    "name_zh": "布尼亚机场"
    },
    {
     "name": "Arua Airport",
@@ -92,7 +93,8 @@
     "lat": 3.049152,
     "lon": 30.911714,
     "type": "medium_airport",
-    "distance_km": 292.2
+    "distance_km": 292.2,
+    "name_zh": "阿鲁阿"
    }
   ],
   "nearest_airport_km": 136.8,
@@ -176,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

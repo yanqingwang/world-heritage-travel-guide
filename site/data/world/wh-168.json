@@ -3,8 +3,8 @@
  "unesco_id": "168",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 173,
- "popularity_score": 60723,
+ "popularity_rank": 192,
+ "popularity_score": 65832,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -96,7 +96,8 @@
     "lat": 49.473057,
     "lon": 8.514167,
     "type": "medium_airport",
-    "distance_km": 18.1
+    "distance_km": 18.1,
+    "name_zh": "曼海姆城市机场"
    },
    {
     "name": "Karlsruhe Baden-Baden Airport",
@@ -106,7 +107,8 @@
     "lat": 48.7794,
     "lon": 8.0805,
     "type": "large_airport",
-    "distance_km": 65.4
+    "distance_km": 65.4,
+    "name_zh": "卡尔斯鲁厄/巴登-巴登机场"
    },
    {
     "name": "Frankfurt Main Airport",
@@ -116,7 +118,8 @@
     "lat": 50.026706,
     "lon": 8.55835,
     "type": "large_airport",
-    "distance_km": 79.3
+    "distance_km": 79.3,
+    "name_zh": "法兰克福机场"
    }
   ],
   "nearest_airport_km": 18.1,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

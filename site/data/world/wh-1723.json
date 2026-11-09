@@ -3,7 +3,7 @@
  "unesco_id": "1723",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1003,
+ "popularity_rank": 1019,
  "popularity_score": null,
  "country": "ZA",
  "country_zh": "南非",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "ZA-WC",
- "subdivision_zh": "西开普省",
- "subdivision_en": "Western Cape",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "现代人的出现：南非更新世人类遗址",
  "name_zh_source": "unesco_official",
  "name_en": "The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa",
@@ -72,7 +72,8 @@
     "lat": -33.97403,
     "lon": 18.604333,
     "type": "large_airport",
-    "distance_km": 177.1
+    "distance_km": 177.1,
+    "name_zh": "开普敦国际机场"
    }
   ],
   "nearest_airport_km": 177.1,
@@ -162,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1645",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 131,
- "popularity_score": 85732,
+ "popularity_rank": 144,
+ "popularity_score": 95095,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 23.2877998352,
     "lon": 69.6701965332,
     "type": "medium_airport",
-    "distance_km": 86.8
+    "distance_km": 86.8,
+    "name_zh": "普杰机场"
    },
    {
     "name": "Kandla Airport",
@@ -116,7 +117,8 @@
     "lat": 22.465499877929688,
     "lon": 70.01260375976562,
     "type": "medium_airport",
-    "distance_km": 159.3
+    "distance_km": 159.3,
+    "name_zh": "贾姆讷格尔机场"
    }
   ],
   "nearest_airport_km": 86.8,
@@ -198,5 +200,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

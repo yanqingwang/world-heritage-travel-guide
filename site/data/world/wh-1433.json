@@ -3,8 +3,8 @@
  "unesco_id": "1433",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 69,
- "popularity_score": 162290,
+ "popularity_rank": 78,
+ "popularity_score": 176127,
  "country": "PS",
  "country_zh": "巴勒斯坦",
  "country_en": "Palestine",
@@ -96,7 +96,8 @@
     "lat": 32.011398,
     "lon": 34.8867,
     "type": "large_airport",
-    "distance_km": 45.7
+    "distance_km": 45.7,
+    "name_zh": "本-古里安国际机场"
    },
    {
     "name": "Queen Alia International Airport",
@@ -106,7 +107,8 @@
     "lat": 31.7226009369,
     "lon": 35.9931983948,
     "type": "large_airport",
-    "distance_km": 74.3
+    "distance_km": 74.3,
+    "name_zh": "阿勒娅王后国际机场"
    },
    {
     "name": "Marka International (Amman Civil) Airport",
@@ -116,7 +118,8 @@
     "lat": 31.9727,
     "lon": 35.9916,
     "type": "large_airport",
-    "distance_km": 79.8
+    "distance_km": 79.8,
+    "name_zh": "马尔卡国际机场"
    }
   ],
   "nearest_airport_km": 45.7,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

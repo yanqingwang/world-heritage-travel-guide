@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(vi)"
 lat: 39.603636
 lon: -8.419258
-updated_at: "2026-11-09T12:00:58Z"
+updated_at: "2026-11-09T12:50:17Z"
 ---
 
 # 托马尔的女修道院 / Convent of Christ in Tomar

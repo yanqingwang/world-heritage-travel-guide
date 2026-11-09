@@ -3,8 +3,8 @@
  "unesco_id": "1463",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 648,
- "popularity_score": 5594,
+ "popularity_rank": 697,
+ "popularity_score": 5949,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -72,7 +72,8 @@
     "lat": 19.743824,
     "lon": -99.01507,
     "type": "large_airport",
-    "distance_km": 38.3
+    "distance_km": 38.3,
+    "name_zh": "墨西哥城圣塔卢西亚机场"
    },
    {
     "name": "Mexico City Benito Juárez International Airport",
@@ -82,7 +83,8 @@
     "lat": 19.435822,
     "lon": -99.07033,
     "type": "large_airport",
-    "distance_km": 61.7
+    "distance_km": 61.7,
+    "name_zh": "墨西哥城贝尼托·胡亚雷斯国际机场"
    },
    {
     "name": "Hermanos Serdán International Airport",
@@ -92,7 +94,8 @@
     "lat": 19.158465,
     "lon": -98.371582,
     "type": "large_airport",
-    "distance_km": 81.3
+    "distance_km": 81.3,
+    "name_zh": "普埃布拉州国际机场"
    }
   ],
   "nearest_airport_km": 38.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

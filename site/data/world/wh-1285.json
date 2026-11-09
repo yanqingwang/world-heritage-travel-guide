@@ -3,8 +3,8 @@
  "unesco_id": "1285",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 771,
- "popularity_score": 1952,
+ "popularity_rank": 814,
+ "popularity_score": 2104,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -72,7 +72,8 @@
     "lat": 46.113189,
     "lon": -64.67719,
     "type": "medium_airport",
-    "distance_km": 44.9
+    "distance_km": 44.9,
+    "name_zh": "大蒙克顿机场"
    },
    {
     "name": "Charlottetown Airport",
@@ -82,7 +83,8 @@
     "lat": 46.288911,
     "lon": -63.125174,
     "type": "medium_airport",
-    "distance_km": 116.3
+    "distance_km": 116.3,
+    "name_zh": "夏洛特敦机场"
    },
    {
     "name": "Halifax / Stanfield International Airport",
@@ -92,7 +94,8 @@
     "lat": 44.8807983398,
     "lon": -63.5085983276,
     "type": "large_airport",
-    "distance_km": 120.2
+    "distance_km": 120.2,
+    "name_zh": "哈利法克斯斯坦菲尔德国际机场"
    }
   ],
   "nearest_airport_km": 44.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "256",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 237,
- "popularity_score": 34834,
+ "popularity_rank": 261,
+ "popularity_score": 37447,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -96,7 +96,8 @@
     "lat": 60.020302,
     "lon": -111.961998,
     "type": "medium_airport",
-    "distance_km": 91.1
+    "distance_km": 91.1,
+    "name_zh": "史密斯堡机场"
    },
    {
     "name": "Fort Chipewyan Airport",
@@ -106,7 +107,8 @@
     "lat": 58.7672004699707,
     "lon": -111.11699676513672,
     "type": "medium_airport",
-    "distance_km": 126.7
+    "distance_km": 126.7,
+    "name_zh": "奇佩维恩堡机场"
    },
    {
     "name": "Hay River / Merlyn Carter Airport",
@@ -116,7 +118,8 @@
     "lat": 60.8396987915,
     "lon": -115.782997131,
     "type": "medium_airport",
-    "distance_km": 224.2
+    "distance_km": 224.2,
+    "name_zh": "高坪镇机场"
    }
   ],
   "nearest_airport_km": 91.1,
@@ -197,5 +200,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

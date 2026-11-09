@@ -3,7 +3,7 @@
  "unesco_id": "804",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1162,
+ "popularity_rank": 1167,
  "popularity_score": null,
  "country": "ES",
  "country_zh": "西班牙",
@@ -72,7 +72,8 @@
     "lat": 41.2971,
     "lon": 2.07846,
     "type": "large_airport",
-    "distance_km": 12.9
+    "distance_km": 12.9,
+    "name_zh": "巴塞罗那机场"
    },
    {
     "name": "Girona-Costa Brava Airport",
@@ -82,7 +83,8 @@
     "lat": 41.904639,
     "lon": 2.761774,
     "type": "large_airport",
-    "distance_km": 75.4
+    "distance_km": 75.4,
+    "name_zh": "赫罗纳－布拉瓦海岸机场"
    },
    {
     "name": "Reus Airport",
@@ -92,7 +94,8 @@
     "lat": 41.147509,
     "lon": 1.168354,
     "type": "large_airport",
-    "distance_km": 88.3
+    "distance_km": 88.3,
+    "name_zh": "雷乌斯"
    }
   ],
   "nearest_airport_km": 12.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

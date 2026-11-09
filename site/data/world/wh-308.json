@@ -3,8 +3,8 @@
  "unesco_id": "308",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 22,
- "popularity_score": 467286,
+ "popularity_rank": 24,
+ "popularity_score": 521900,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 37.625381,
     "lon": -118.84306,
     "type": "medium_airport",
-    "distance_km": 62.5
+    "distance_km": 62.5,
+    "name_zh": "马麦斯湖"
    },
    {
     "name": "Merced Regional Macready Field",
@@ -116,7 +117,8 @@
     "lat": 36.775767,
     "lon": -119.718018,
     "type": "large_airport",
-    "distance_km": 108.7
+    "distance_km": 108.7,
+    "name_zh": "弗雷斯诺优胜美地国际机场"
    }
   ],
   "nearest_airport_km": 62.5,
@@ -261,5 +263,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

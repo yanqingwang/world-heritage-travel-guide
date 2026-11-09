@@ -3,7 +3,7 @@
  "unesco_id": "670",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1126,
+ "popularity_rank": 1131,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 41.138901,
     "lon": 16.760599,
     "type": "large_airport",
-    "distance_km": 54.0
+    "distance_km": 54.0,
+    "name_zh": "巴里"
    },
    {
     "name": "Brindisi Airport",
@@ -82,7 +83,8 @@
     "lat": 40.6576,
     "lon": 17.947001,
     "type": "large_airport",
-    "distance_km": 112.8
+    "distance_km": 112.8,
+    "name_zh": "布林迪西-萨兰托机场"
    },
    {
     "name": "Foggia Gino Lisa Airport",
@@ -92,7 +94,8 @@
     "lat": 41.433596,
     "lon": 15.534566,
     "type": "medium_airport",
-    "distance_km": 124.2
+    "distance_km": 124.2,
+    "name_zh": "福贾「Gino Lisa」机场"
    }
   ],
   "nearest_airport_km": 54.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

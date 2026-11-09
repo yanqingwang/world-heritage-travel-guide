@@ -3,8 +3,8 @@
  "unesco_id": "583",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 162,
- "popularity_score": 70041,
+ "popularity_rank": 177,
+ "popularity_score": 75918,
  "country": "FI",
  "country_zh": "芬兰",
  "country_en": "Finland",
@@ -96,7 +96,8 @@
     "lat": 60.318363,
     "lon": 24.963341,
     "type": "large_airport",
-    "distance_km": 19.5
+    "distance_km": 19.5,
+    "name_zh": "赫尔辛基-万塔机场"
    },
    {
     "name": "Lennart Meri Tallinn Airport",
@@ -106,7 +107,8 @@
     "lat": 59.413246,
     "lon": 24.83264,
     "type": "large_airport",
-    "distance_km": 81.7
+    "distance_km": 81.7,
+    "name_zh": "塔林机场"
    },
    {
     "name": "Turku Airport",
@@ -116,7 +118,8 @@
     "lat": 60.514099,
     "lon": 22.2628,
     "type": "large_airport",
-    "distance_km": 155.4
+    "distance_km": 155.4,
+    "name_zh": "图尔库机场"
    }
   ],
   "nearest_airport_km": 19.5,
@@ -335,5 +338,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

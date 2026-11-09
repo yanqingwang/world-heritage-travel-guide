@@ -3,8 +3,8 @@
  "unesco_id": "183",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 128,
- "popularity_score": 91342,
+ "popularity_rank": 141,
+ "popularity_score": 98815,
  "country": "LY",
  "country_zh": "利比亚",
  "country_en": "Libya",
@@ -96,7 +96,8 @@
     "lat": 32.325001,
     "lon": 15.061,
     "type": "small_airport",
-    "distance_km": 80.0
+    "distance_km": 80.0,
+    "name_zh": "米苏拉塔"
    },
    {
     "name": "Mitiga International Airport",
@@ -106,7 +107,8 @@
     "lat": 32.89177,
     "lon": 13.287878,
     "type": "large_airport",
-    "distance_km": 98.1
+    "distance_km": 98.1,
+    "name_zh": "的黎波里-米提加"
    },
    {
     "name": "Lampedusa Airport",
@@ -116,7 +118,8 @@
     "lat": 35.497898,
     "lon": 12.6181,
     "type": "medium_airport",
-    "distance_km": 353.5
+    "distance_km": 353.5,
+    "name_zh": "兰佩杜萨岛机场"
    }
   ],
   "nearest_airport_km": 80.0,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

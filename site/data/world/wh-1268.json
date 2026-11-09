@@ -3,8 +3,8 @@
  "unesco_id": "1268",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 816,
- "popularity_score": 588,
+ "popularity_rank": 861,
+ "popularity_score": 632,
  "country": "NE",
  "country_zh": "尼日尔",
  "country_en": "Niger",
@@ -72,7 +72,8 @@
     "lat": 13.779000282287598,
     "lon": 8.983759880065918,
     "type": "medium_airport",
-    "distance_km": 371.0
+    "distance_km": 371.0,
+    "name_zh": "津德尔机场"
    }
   ],
   "nearest_airport_km": 371.0,
@@ -148,5 +149,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

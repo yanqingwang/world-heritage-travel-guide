@@ -3,8 +3,8 @@
  "unesco_id": "835",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 647,
- "popularity_score": 5606,
+ "popularity_rank": 691,
+ "popularity_score": 6096,
  "country": "PL",
  "country_zh": "波兰",
  "country_en": "Poland",
@@ -72,7 +72,8 @@
     "lat": 53.096802,
     "lon": 17.977699,
     "type": "medium_airport",
-    "distance_km": 43.0
+    "distance_km": 43.0,
+    "name_zh": "比得哥什"
    },
    {
     "name": "Poznań-Ławica Airport",
@@ -82,7 +83,8 @@
     "lat": 52.421598,
     "lon": 16.823359,
     "type": "large_airport",
-    "distance_km": 136.7
+    "distance_km": 136.7,
+    "name_zh": "波兹南-拉威卡机场"
    },
    {
     "name": "Warsaw Modlin Airport",
@@ -92,7 +94,8 @@
     "lat": 52.451099,
     "lon": 20.6518,
     "type": "large_airport",
-    "distance_km": 151.2
+    "distance_km": 151.2,
+    "name_zh": "华沙–莫德林"
    }
   ],
   "nearest_airport_km": 43.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

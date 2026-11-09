@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 49.29333
 lon: 21.27917
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 巴尔代约夫镇保护区 / Bardejov Town Conservation Reserve

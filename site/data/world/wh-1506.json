@@ -3,8 +3,8 @@
  "unesco_id": "1506",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 812,
- "popularity_score": 856,
+ "popularity_rank": 858,
+ "popularity_score": 919,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -64,7 +64,8 @@
     "lat": 32.896525,
     "lon": 59.281258,
     "type": "large_airport",
-    "distance_km": 165.5
+    "distance_km": 165.5,
+    "name_zh": "比尔詹德国际机场"
    },
    {
     "name": "Sabzevar National Airport",
@@ -84,7 +85,8 @@
     "lat": 36.234821,
     "lon": 59.642949,
     "type": "large_airport",
-    "distance_km": 234.1
+    "distance_km": 234.1,
+    "name_zh": "沙希德·哈希米内贾德国际机场"
    }
   ],
   "nearest_airport_km": 165.5,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

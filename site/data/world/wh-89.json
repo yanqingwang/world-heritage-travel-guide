@@ -3,8 +3,8 @@
  "unesco_id": "89",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 248,
- "popularity_score": 32895,
+ "popularity_rank": 270,
+ "popularity_score": 35915,
  "country": "EG",
  "country_zh": "埃及",
  "country_en": "Egypt",
@@ -96,7 +96,8 @@
     "lat": 30.111534,
     "lon": 31.396694,
     "type": "large_airport",
-    "distance_km": 14.8
+    "distance_km": 14.8,
+    "name_zh": "开罗国际机场"
    },
    {
     "name": "Sphinx International Airport",
@@ -106,7 +107,8 @@
     "lat": 30.108179,
     "lon": 30.895728,
     "type": "large_airport",
-    "distance_km": 36.0
+    "distance_km": 36.0,
+    "name_zh": "斯芬克斯国际机场"
    },
    {
     "name": "Capital International Airport",
@@ -116,7 +118,8 @@
     "lat": 30.06465,
     "lon": 31.839974,
     "type": "medium_airport",
-    "distance_km": 55.6
+    "distance_km": 55.6,
+    "name_zh": "首都国际机场 (埃及)"
    }
   ],
   "nearest_airport_km": 14.8,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

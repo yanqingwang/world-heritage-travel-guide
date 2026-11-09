@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 6,
- "popularity_score": 1173463,
+ "popularity_score": 1290819,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -80,7 +80,8 @@
     "lat": 45.505299,
     "lon": 12.3519,
     "type": "large_airport",
-    "distance_km": 7.5
+    "distance_km": 7.5,
+    "name_zh": "威尼斯－泰塞拉机场"
    },
    {
     "name": "Treviso Airport",
@@ -90,7 +91,8 @@
     "lat": 45.648399,
     "lon": 12.1944,
     "type": "large_airport",
-    "distance_km": 25.6
+    "distance_km": 25.6,
+    "name_zh": "特雷维索机场"
    },
    {
     "name": "Trieste Airport",
@@ -100,7 +102,8 @@
     "lat": 45.827862,
     "lon": 13.466672,
     "type": "large_airport",
-    "distance_km": 98.2
+    "distance_km": 98.2,
+    "name_zh": "的里雅斯特机场"
    }
   ],
   "nearest_airport_km": 7.5,
@@ -318,5 +321,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

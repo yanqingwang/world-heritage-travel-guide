@@ -3,8 +3,8 @@
  "unesco_id": "1653",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 733,
- "popularity_score": 3416,
+ "popularity_rank": 779,
+ "popularity_score": 3702,
  "country": "GA",
  "country_zh": "加蓬",
  "country_en": "Gabon",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "GA-7",
- "subdivision_zh": "奥果韦-洛洛省",
- "subdivision_en": "Ogooué-Lolo Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "伊温多国家公园",
  "name_zh_source": "unesco_official",
  "name_en": "Ivindo National Park",
@@ -82,7 +82,8 @@
     "lat": 1.5431100130081177,
     "lon": 11.581399917602539,
     "type": "medium_airport",
-    "distance_km": 199.4
+    "distance_km": 199.4,
+    "name_zh": "奥耶姆机场"
    },
    {
     "name": "M'Vengue El Hadj Omar Bongo Ondimba International Airport",
@@ -92,7 +93,8 @@
     "lat": -1.65616,
     "lon": 13.438,
     "type": "medium_airport",
-    "distance_km": 213.7
+    "distance_km": 213.7,
+    "name_zh": "弗朗斯维尔机场"
    }
   ],
   "nearest_airport_km": 61.8,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

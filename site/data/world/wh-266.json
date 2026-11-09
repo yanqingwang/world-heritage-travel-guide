@@ -3,8 +3,8 @@
  "unesco_id": "266",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 625,
- "popularity_score": 6179,
+ "popularity_rank": 672,
+ "popularity_score": 6622,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -72,7 +72,8 @@
     "lat": 18.45680046081543,
     "lon": -66.09809875488281,
     "type": "medium_airport",
-    "distance_km": 2.4
+    "distance_km": 2.4,
+    "name_zh": "Isla Grande 机场"
    },
    {
     "name": "Luis Munoz Marin International Airport",
@@ -82,7 +83,8 @@
     "lat": 18.4394,
     "lon": -66.001801,
     "type": "large_airport",
-    "distance_km": 12.7
+    "distance_km": 12.7,
+    "name_zh": "路易斯·穆尼奥斯·马林国际机场"
    },
    {
     "name": "José Aponte de la Torre Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

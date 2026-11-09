@@ -3,8 +3,8 @@
  "unesco_id": "78",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 66,
- "popularity_score": 165478,
+ "popularity_rank": 76,
+ "popularity_score": 180752,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 39.871899,
     "lon": -75.241096,
     "type": "large_airport",
-    "distance_km": 11.6
+    "distance_km": 11.6,
+    "name_zh": "费城国际机场"
    },
    {
     "name": "Trenton Mercer Airport",
@@ -106,7 +107,8 @@
     "lat": 40.276699,
     "lon": -74.813499,
     "type": "medium_airport",
-    "distance_km": 46.3
+    "distance_km": 46.3,
+    "name_zh": "特伦顿–默瑟机场"
    },
    {
     "name": "Wilmington Airport",
@@ -116,7 +118,8 @@
     "lat": 39.678699,
     "lon": -75.606499,
     "type": "medium_airport",
-    "distance_km": 49.2
+    "distance_km": 49.2,
+    "name_zh": "纽卡斯尔机场"
    }
   ],
   "nearest_airport_km": 11.6,
@@ -310,5 +313,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1147",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 864,
+ "popularity_rank": 903,
  "popularity_score": null,
  "country": "GA",
  "country_zh": "加蓬",
@@ -74,7 +74,8 @@
     "lat": 1.5431100130081177,
     "lon": 11.581399917602539,
     "type": "medium_airport",
-    "distance_km": 227.4
+    "distance_km": 227.4,
+    "name_zh": "奥耶姆机场"
    },
    {
     "name": "President Obiang Nguema International Airport",
@@ -84,7 +85,8 @@
     "lat": 1.676437,
     "lon": 11.024904,
     "type": "medium_airport",
-    "distance_km": 247.7
+    "distance_km": 247.7,
+    "name_zh": "奥比昂·恩圭马总统国际机场"
    }
   ],
   "nearest_airport_km": 195.8,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

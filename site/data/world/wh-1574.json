@@ -3,8 +3,8 @@
  "unesco_id": "1574",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 661,
- "popularity_score": 5187,
+ "popularity_rank": 704,
+ "popularity_score": 5670,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 28.430599212646484,
     "lon": 129.71299743652344,
     "type": "medium_airport",
-    "distance_km": 36.8
+    "distance_km": 36.8,
+    "name_zh": "奄美机场"
    },
    {
     "name": "Kikai Airport",
@@ -82,7 +83,8 @@
     "lat": 28.321300506599997,
     "lon": 129.927993774,
     "type": "medium_airport",
-    "distance_km": 54.0
+    "distance_km": 54.0,
+    "name_zh": "喜界机场"
    },
    {
     "name": "Tokunoshima Airport",
@@ -92,7 +94,8 @@
     "lat": 27.836382,
     "lon": 128.881356,
     "type": "medium_airport",
-    "distance_km": 69.3
+    "distance_km": 69.3,
+    "name_zh": "德之岛机场"
    }
   ],
   "nearest_airport_km": 36.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

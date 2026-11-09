@@ -3,8 +3,8 @@
  "unesco_id": "410",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 581,
- "popularity_score": 8094,
+ "popularity_rank": 622,
+ "popularity_score": 8788,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -72,7 +72,8 @@
     "lat": 20.172098,
     "lon": -87.660272,
     "type": "large_airport",
-    "distance_km": 88.8
+    "distance_km": 88.8,
+    "name_zh": "图卢姆国际机场"
    },
    {
     "name": "Chetumal International Airport",
@@ -82,7 +83,8 @@
     "lat": 18.504985,
     "lon": -88.328018,
     "type": "medium_airport",
-    "distance_km": 112.8
+    "distance_km": 112.8,
+    "name_zh": "切图马尔国际机场"
    },
    {
     "name": "Corozal Airport",
@@ -92,7 +94,8 @@
     "lat": 18.3822,
     "lon": -88.411903,
     "type": "medium_airport",
-    "distance_km": 129.0
+    "distance_km": 129.0,
+    "name_zh": "科罗萨尔机场"
    }
   ],
   "nearest_airport_km": 88.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

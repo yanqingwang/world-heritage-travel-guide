@@ -3,7 +3,7 @@
  "unesco_id": "1571",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 972,
+ "popularity_rank": 988,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IT-34",
- "subdivision_zh": "威尼托",
- "subdivision_en": "Veneto",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "科内利亚诺和瓦尔多比亚德内的普罗赛柯产地",
  "name_zh_source": "unesco_official",
  "name_en": "Le Colline del Prosecco di Conegliano e Valdobbiadene",
@@ -64,7 +64,8 @@
     "lat": 45.648399,
     "lon": 12.1944,
     "type": "large_airport",
-    "distance_km": 34.0
+    "distance_km": 34.0,
+    "name_zh": "特雷维索机场"
    },
    {
     "name": "Venice Marco Polo Airport",
@@ -74,7 +75,8 @@
     "lat": 45.505299,
     "lon": 12.3519,
     "type": "large_airport",
-    "distance_km": 50.7
+    "distance_km": 50.7,
+    "name_zh": "威尼斯－泰塞拉机场"
    },
    {
     "name": "Bolzano Airport",
@@ -84,7 +86,8 @@
     "lat": 46.459245,
     "lon": 11.326125,
     "type": "medium_airport",
-    "distance_km": 89.2
+    "distance_km": 89.2,
+    "name_zh": "波尔查诺机场"
    }
   ],
   "nearest_airport_km": 34.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

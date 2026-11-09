@@ -3,8 +3,8 @@
  "unesco_id": "185",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 197,
- "popularity_score": 49277,
+ "popularity_rank": 217,
+ "popularity_score": 53323,
  "country": "SC",
  "country_zh": "塞舌尔",
  "country_en": "Seychelles",
@@ -96,7 +96,8 @@
     "lat": -12.131047,
     "lon": 44.430044,
     "type": "medium_airport",
-    "distance_km": 371.7
+    "distance_km": 371.7,
+    "name_zh": "昂儒昂机场"
    },
    {
     "name": "Dzaoudzi Pamandzi International Airport",
@@ -106,7 +107,8 @@
     "lat": -12.809319,
     "lon": 45.281815,
     "type": "large_airport",
-    "distance_km": 397.1
+    "distance_km": 397.1,
+    "name_zh": "藻德济-帕芒济国际机场"
    }
   ],
   "nearest_airport_km": 371.7,
@@ -188,5 +190,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

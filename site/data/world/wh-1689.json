@@ -3,8 +3,8 @@
  "unesco_id": "1689",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 453,
- "popularity_score": 12871,
+ "popularity_rank": 495,
+ "popularity_score": 13660,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -72,7 +72,8 @@
     "lat": 39.998001,
     "lon": -82.891899,
     "type": "large_airport",
-    "distance_km": 38.5
+    "distance_km": 38.5,
+    "name_zh": "哥伦布国际机场"
    },
    {
     "name": "Rickenbacker International Airport",
@@ -82,7 +83,8 @@
     "lat": 39.813801,
     "lon": -82.927803,
     "type": "medium_airport",
-    "distance_km": 49.0
+    "distance_km": 49.0,
+    "name_zh": "里肯巴克国际机场"
    },
    {
     "name": "Mid Ohio Valley Regional Airport",
@@ -92,7 +94,8 @@
     "lat": 39.3451,
     "lon": -81.439201,
     "type": "medium_airport",
-    "distance_km": 116.7
+    "distance_km": 116.7,
+    "name_zh": "俄亥俄谷中部地区机场"
    }
   ],
   "nearest_airport_km": 38.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1594",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 153,
- "popularity_score": 75757,
+ "popularity_rank": 170,
+ "popularity_score": 79381,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -96,7 +96,8 @@
     "lat": 53.349375,
     "lon": -2.279521,
     "type": "large_airport",
-    "distance_km": 12.7
+    "distance_km": 12.7,
+    "name_zh": "曼彻斯特机场"
    },
    {
     "name": "Liverpool John Lennon Airport",
@@ -106,7 +107,8 @@
     "lat": 53.334863,
     "lon": -2.849637,
     "type": "large_airport",
-    "distance_km": 37.7
+    "distance_km": 37.7,
+    "name_zh": "利物浦约翰·列侬机场"
    },
    {
     "name": "East Midlands Airport",
@@ -116,7 +118,8 @@
     "lat": 52.8311,
     "lon": -1.32806,
     "type": "large_airport",
-    "distance_km": 79.5
+    "distance_km": 79.5,
+    "name_zh": "东密德兰机场"
    }
   ],
   "nearest_airport_km": 12.7,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

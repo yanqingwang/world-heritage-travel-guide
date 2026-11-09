@@ -3,8 +3,8 @@
  "unesco_id": "867",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 621,
- "popularity_score": 6397,
+ "popularity_rank": 665,
+ "popularity_score": 6896,
  "country": "NL",
  "country_zh": "荷兰王国",
  "country_en": "Kingdom of the Netherlands",
@@ -72,7 +72,8 @@
     "lat": 53.119107,
     "lon": 6.577652,
     "type": "large_airport",
-    "distance_km": 67.4
+    "distance_km": 67.4,
+    "name_zh": "格罗宁根埃尔德机场"
    },
    {
     "name": "Amsterdam Airport Schiphol",
@@ -82,7 +83,8 @@
     "lat": 52.308601,
     "lon": 4.76389,
     "type": "large_airport",
-    "distance_km": 86.0
+    "distance_km": 86.0,
+    "name_zh": "阿姆斯特丹史基浦机场"
    },
    {
     "name": "Borkum Airport",
@@ -92,7 +94,8 @@
     "lat": 53.59639,
     "lon": 6.709167,
     "type": "small_airport",
-    "distance_km": 108.0
+    "distance_km": 108.0,
+    "name_zh": "博尔库姆飞行场"
    }
   ],
   "nearest_airport_km": 67.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

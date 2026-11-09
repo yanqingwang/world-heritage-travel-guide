@@ -72,7 +72,8 @@
     "lat": 27.977272,
     "lon": 34.394717,
     "type": "large_airport",
-    "distance_km": 76.4
+    "distance_km": 76.4,
+    "name_zh": "沙姆沙伊赫国际机场"
    },
    {
     "name": "Taba International Airport",
@@ -82,7 +83,8 @@
     "lat": 29.594496,
     "lon": 34.775752,
     "type": "medium_airport",
-    "distance_km": 139.2
+    "distance_km": 139.2,
+    "name_zh": "塔巴国际机场"
    },
    {
     "name": "Neom Bay Airport",
@@ -92,7 +94,8 @@
     "lat": 27.924261,
     "lon": 35.29358,
     "type": "large_airport",
-    "distance_km": 147.0
+    "distance_km": 147.0,
+    "name_zh": "尼奥机场"
    }
   ],
   "nearest_airport_km": 76.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

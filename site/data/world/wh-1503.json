@@ -3,8 +3,8 @@
  "unesco_id": "1503",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 68,
- "popularity_score": 162999,
+ "popularity_rank": 82,
+ "popularity_score": 173079,
  "country": "FM",
  "country_zh": "密克罗尼西亚联邦",
  "country_en": "Federated States of Micronesia",
@@ -96,7 +96,8 @@
     "lat": 6.985082,
     "lon": 158.20992,
     "type": "medium_airport",
-    "distance_km": 20.9
+    "distance_km": 20.9,
+    "name_zh": "波纳佩国际机场"
    }
   ],
   "nearest_airport_km": 20.9,
@@ -232,5 +233,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

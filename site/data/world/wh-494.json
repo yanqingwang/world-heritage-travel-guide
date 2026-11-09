@@ -3,8 +3,8 @@
  "unesco_id": "494",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 528,
- "popularity_score": 10277,
+ "popularity_rank": 552,
+ "popularity_score": 11450,
  "country": "MG",
  "country_zh": "马达加斯加",
  "country_en": "Madagascar",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "MG-M",
- "subdivision_zh": "馬哈贊加省",
- "subdivision_en": "Melaky",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "安德列发那干旱森林",
  "name_zh_source": "unesco_official",
  "name_en": "Andrefana Dry Forests",
@@ -82,7 +82,8 @@
     "lat": -20.2847,
     "lon": 44.3176,
     "type": "medium_airport",
-    "distance_km": 185.5
+    "distance_km": 185.5,
+    "name_zh": "莫伦达瓦机场"
    },
    {
     "name": "Besalampy Airport",
@@ -92,7 +93,8 @@
     "lat": -16.74453,
     "lon": 44.482484,
     "type": "medium_airport",
-    "distance_km": 215.6
+    "distance_km": 215.6,
+    "name_zh": "贝萨兰皮机场"
    }
   ],
   "nearest_airport_km": 155.8,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

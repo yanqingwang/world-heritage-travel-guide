@@ -3,8 +3,8 @@
  "unesco_id": "933",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 80,
- "popularity_score": 150799,
+ "popularity_rank": 87,
+ "popularity_score": 166821,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -96,7 +96,8 @@
     "lat": 47.432201,
     "lon": 0.727606,
     "type": "medium_airport",
-    "distance_km": 62.7
+    "distance_km": 62.7,
+    "name_zh": "都尔卢瓦尔河机场"
    },
    {
     "name": "Paris-Orly Airport",
@@ -106,7 +107,8 @@
     "lat": 48.729499,
     "lon": 2.358963,
     "type": "large_airport",
-    "distance_km": 138.6
+    "distance_km": 138.6,
+    "name_zh": "巴黎－奥利机场"
    },
    {
     "name": "Poitiers-Biard Airport",
@@ -116,7 +118,8 @@
     "lat": 46.5877,
     "lon": 0.306666,
     "type": "medium_airport",
-    "distance_km": 146.5
+    "distance_km": 146.5,
+    "name_zh": "普瓦捷"
    }
   ],
   "nearest_airport_km": 62.7,
@@ -318,5 +321,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

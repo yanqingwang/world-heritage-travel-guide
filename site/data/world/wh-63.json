@@ -3,8 +3,8 @@
  "unesco_id": "63",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 221,
- "popularity_score": 37987,
+ "popularity_rank": 240,
+ "popularity_score": 41119,
  "country": "CD",
  "country_zh": "刚果民主共和国",
  "country_en": "Democratic Republic of the Congo",
@@ -116,7 +116,8 @@
     "lat": -1.666758,
     "lon": 29.238037,
     "type": "large_airport",
-    "distance_km": 133.0
+    "distance_km": 133.0,
+    "name_zh": "戈马国际机场"
    }
   ],
   "nearest_airport_km": 32.8,
@@ -256,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

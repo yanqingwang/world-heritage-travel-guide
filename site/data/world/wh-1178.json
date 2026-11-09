@@ -3,8 +3,8 @@
  "unesco_id": "1178",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 544,
- "popularity_score": 9562,
+ "popularity_rank": 578,
+ "popularity_score": 10387,
  "country": "CL",
  "country_zh": "智利",
  "country_en": "Chile",
@@ -72,7 +72,8 @@
     "lat": -20.536273,
     "lon": -70.181373,
     "type": "large_airport",
-    "distance_km": 54.4
+    "distance_km": 54.4,
+    "name_zh": "伊基克机场"
    },
    {
     "name": "Chacalluta International Airport",
@@ -82,7 +83,8 @@
     "lat": -18.348499,
     "lon": -70.338699,
     "type": "medium_airport",
-    "distance_km": 214.5
+    "distance_km": 214.5,
+    "name_zh": "Chacalluta国际机场"
    },
    {
     "name": "Coronel FAP Carlos Ciriani Santa Rosa International Airport",
@@ -92,7 +94,8 @@
     "lat": -18.053300857500002,
     "lon": -70.2758026123,
     "type": "medium_airport",
-    "distance_km": 244.9
+    "distance_km": 244.9,
+    "name_zh": "塔克纳"
    }
   ],
   "nearest_airport_km": 54.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

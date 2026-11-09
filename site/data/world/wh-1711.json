@@ -3,8 +3,8 @@
  "unesco_id": "1711",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 510,
- "popularity_score": 10880,
+ "popularity_rank": 542,
+ "popularity_score": 11900,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -72,7 +72,8 @@
     "lat": 27.4839000702,
     "lon": 95.0168991089,
     "type": "medium_airport",
-    "distance_km": 61.7
+    "distance_km": 61.7,
+    "name_zh": "迪布鲁加尔机场"
    },
    {
     "name": "Jorhat Airport",
@@ -82,7 +83,8 @@
     "lat": 26.730456,
     "lon": 94.175416,
     "type": "medium_airport",
-    "distance_km": 73.3
+    "distance_km": 73.3,
+    "name_zh": "焦尔哈德机场"
    },
    {
     "name": "Lilabari North Lakhimpur Airport",
@@ -92,7 +94,8 @@
     "lat": 27.295682,
     "lon": 94.097266,
     "type": "medium_airport",
-    "distance_km": 86.4
+    "distance_km": 86.4,
+    "name_zh": "拉金普"
    }
   ],
   "nearest_airport_km": 61.7,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

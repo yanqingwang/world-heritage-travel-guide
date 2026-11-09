@@ -3,8 +3,8 @@
  "unesco_id": "450",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 94,
- "popularity_score": 127460,
+ "popularity_rank": 103,
+ "popularity_score": 138623,
  "country": "LK",
  "country_zh": "斯里兰卡",
  "country_en": "Sri Lanka",
@@ -96,7 +96,8 @@
     "lat": 7.180759906768799,
     "lon": 79.88410186767578,
     "type": "large_airport",
-    "distance_km": 83.8
+    "distance_km": 83.8,
+    "name_zh": "班达拉奈克国际机场"
    },
    {
     "name": "Colombo Ratmalana International Airport",
@@ -106,7 +107,8 @@
     "lat": 6.821638,
     "lon": 79.885859,
     "type": "large_airport",
-    "distance_km": 97.9
+    "distance_km": 97.9,
+    "name_zh": "拉特马拉纳机场"
    },
    {
     "name": "Batticaloa International Airport",
@@ -116,7 +118,8 @@
     "lat": 7.705073,
     "lon": 81.677163,
     "type": "medium_airport",
-    "distance_km": 123.7
+    "distance_km": 123.7,
+    "name_zh": "巴提卡洛阿机场"
    }
   ],
   "nearest_airport_km": 83.8,
@@ -294,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

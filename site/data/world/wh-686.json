@@ -3,7 +3,7 @@
  "unesco_id": "686",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1128,
+ "popularity_rank": 1133,
  "popularity_score": null,
  "country": "CA",
  "country_zh": "加拿大",
@@ -17,7 +17,7 @@
  ],
  "region": "Gaspé Peninsula, Province of Quebec",
  "subdivision_iso": "CA-QC",
- "subdivision_zh": "魁北克省",
+ "subdivision_zh": "",
  "subdivision_en": "Quebec",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "米瓜莎公园",
@@ -74,7 +74,8 @@
     "lat": 47.6297,
     "lon": -65.738899,
     "type": "medium_airport",
-    "distance_km": 71.2
+    "distance_km": 71.2,
+    "name_zh": "巴瑟斯特机场"
    },
    {
     "name": "Mont Joli Airport",
@@ -84,7 +85,8 @@
     "lat": 48.60860061645508,
     "lon": -68.20809936523438,
     "type": "medium_airport",
-    "distance_km": 146.7
+    "distance_km": 146.7,
+    "name_zh": "美山市机场"
    }
   ],
   "nearest_airport_km": 67.7,
@@ -165,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "652",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 229,
- "popularity_score": 36697,
+ "popularity_rank": 245,
+ "popularity_score": 40500,
  "country": "PH",
  "country_zh": "菲律宾",
  "country_en": "Philippines",
@@ -96,7 +96,8 @@
     "lat": 9.742044,
     "lon": 118.75911,
     "type": "large_airport",
-    "distance_km": 50.3
+    "distance_km": 50.3,
+    "name_zh": "公主港国际机场"
    },
    {
     "name": "San Vicente Airport",
@@ -116,7 +117,8 @@
     "lat": 11.202399,
     "lon": 119.416087,
     "type": "small_airport",
-    "distance_km": 127.4
+    "distance_km": 127.4,
+    "name_zh": "爱妮岛机场"
    }
   ],
   "nearest_airport_km": 50.3,
@@ -294,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

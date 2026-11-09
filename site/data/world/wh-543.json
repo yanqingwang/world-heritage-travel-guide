@@ -3,8 +3,8 @@
  "unesco_id": "543",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 318,
- "popularity_score": 23382,
+ "popularity_rank": 341,
+ "popularity_score": 25679,
  "country": "UZ",
  "country_zh": "乌兹别克斯坦",
  "country_en": "Uzbekistan",
@@ -72,7 +72,8 @@
     "lat": 41.58274,
     "lon": 60.64338,
     "type": "large_airport",
-    "distance_km": 32.8
+    "distance_km": 32.8,
+    "name_zh": "乌尔根奇国际机场"
    },
    {
     "name": "Dashoguz International Airport",
@@ -82,7 +83,8 @@
     "lat": 41.759853,
     "lon": 59.836149,
     "type": "large_airport",
-    "distance_km": 60.8
+    "distance_km": 60.8,
+    "name_zh": "达沙古兹机场"
    },
    {
     "name": "Nukus International Airport",
@@ -92,7 +94,8 @@
     "lat": 42.4884,
     "lon": 59.623299,
     "type": "large_airport",
-    "distance_km": 137.7
+    "distance_km": 137.7,
+    "name_zh": "努库斯机场"
    }
   ],
   "nearest_airport_km": 32.8,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

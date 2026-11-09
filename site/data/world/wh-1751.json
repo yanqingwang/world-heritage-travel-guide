@@ -3,8 +3,8 @@
  "unesco_id": "1751",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 494,
- "popularity_score": 11430,
+ "popularity_rank": 536,
+ "popularity_score": 12030,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -72,7 +72,8 @@
     "lat": 30.492469,
     "lon": -81.687813,
     "type": "large_airport",
-    "distance_km": 51.2
+    "distance_km": 51.2,
+    "name_zh": "杰克逊维尔国际机场"
    },
    {
     "name": "Brunswick Golden Isles Airport",
@@ -82,7 +83,8 @@
     "lat": 31.258801,
     "lon": -81.466499,
     "type": "medium_airport",
-    "distance_km": 86.4
+    "distance_km": 86.4,
+    "name_zh": "不伦瑞克金群岛机场"
    },
    {
     "name": "Valdosta Regional Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1612",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 736,
- "popularity_score": 3316,
+ "popularity_rank": 784,
+ "popularity_score": 3585,
  "country": "UY",
  "country_zh": "乌拉圭",
  "country_en": "Uruguay",
@@ -72,7 +72,8 @@
     "lat": -34.835647,
     "lon": -56.026497,
     "type": "large_airport",
-    "distance_km": 25.9
+    "distance_km": 25.9,
+    "name_zh": "卡拉斯科国际机场"
    },
    {
     "name": "Capitan Corbeta CA Curbelo International Airport",
@@ -82,7 +83,8 @@
     "lat": -34.855099,
     "lon": -55.094299,
     "type": "medium_airport",
-    "distance_km": 62.6
+    "distance_km": 62.6,
+    "name_zh": "埃斯特角城"
    },
    {
     "name": "Santa Teresita Airport",
@@ -92,7 +94,8 @@
     "lat": -36.5423,
     "lon": -56.7218,
     "type": "medium_airport",
-    "distance_km": 217.8
+    "distance_km": 217.8,
+    "name_zh": "圣泰蕾西塔机场"
    }
   ],
   "nearest_airport_km": 25.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

@@ -64,7 +64,8 @@
     "lat": 21.834699630737305,
     "lon": -82.78379821777344,
     "type": "medium_airport",
-    "distance_km": 129.5
+    "distance_km": 129.5,
+    "name_zh": "Rafael Cabrera Mustelier机场"
    },
    {
     "name": "José Martí International Airport",
@@ -74,7 +75,8 @@
     "lat": 22.989200592041016,
     "lon": -82.40910339355469,
     "type": "large_airport",
-    "distance_km": 140.3
+    "distance_km": 140.3,
+    "name_zh": "何塞·马蒂国际机场"
    },
    {
     "name": "Juan Gualberto Gomez International Airport",
@@ -84,7 +86,8 @@
     "lat": 23.034401,
     "lon": -81.435303,
     "type": "large_airport",
-    "distance_km": 238.4
+    "distance_km": 238.4,
+    "name_zh": "巴拉德罗"
    }
   ],
   "nearest_airport_km": 129.5,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

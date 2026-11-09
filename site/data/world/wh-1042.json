@@ -2,8 +2,8 @@
  "id": "wh-1042",
  "unesco_id": "1042",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 847,
+ "tier": "full",
+ "popularity_rank": 44,
  "popularity_score": 282794,
  "country": "IL",
  "country_zh": "以色列",
@@ -72,7 +72,8 @@
     "lat": 32.810219,
     "lon": 35.043719,
     "type": "medium_airport",
-    "distance_km": 13.4
+    "distance_km": 13.4,
+    "name_zh": "海法机场"
    },
    {
     "name": "Ben Gurion International Airport",
@@ -82,7 +83,8 @@
     "lat": 32.011398,
     "lon": 34.8867,
     "type": "large_airport",
-    "distance_km": 103.4
+    "distance_km": 103.4,
+    "name_zh": "本-古里安国际机场"
    },
    {
     "name": "Beirut Rafic Hariri International Airport",
@@ -92,15 +94,130 @@
     "lat": 33.819833,
     "lon": 35.487443,
     "type": "large_airport",
-    "distance_km": 106.2
+    "distance_km": 106.2,
+    "name_zh": "贝鲁特－拉菲克·哈里里国际机场"
    }
   ],
   "nearest_airport_km": 13.4,
   "distance_beijing_km": 7080.3,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Haifa-Akko Ferry",
+    "name_en": null,
+    "lat": 32.9190782,
+    "lon": 35.0705478,
+    "distance_km": 1.5,
+    "operator": null
+   },
+   {
+    "name": "dfh",
+    "name_en": "dfh",
+    "lat": 32.8237727,
+    "lon": 35.0201013,
+    "distance_km": 12.8,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "עכו",
+    "name_en": "Acre",
+    "lat": 32.9281903,
+    "lon": 35.0830583,
+    "distance_km": 0.2,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "אחיהוד",
+    "name_en": "Ahihud",
+    "lat": 32.9117258,
+    "lon": 35.1734392,
+    "distance_km": 8.5,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "נהריה",
+    "name_en": "Nahariya",
+    "lat": 33.0049493,
+    "lon": 35.0988288,
+    "distance_km": 8.9,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "קרית מוצקין",
+    "name_en": "Kiryat Motzkin",
+    "lat": 32.8329575,
+    "lon": 35.0699238,
+    "distance_km": 10.4,
+    "operator": "Israel Railways"
+   },
+   {
+    "name": "קרית חיים",
+    "name_en": "Kiryat Haim",
+    "lat": 32.8248135,
+    "lon": 35.0642744,
+    "distance_km": 11.4,
+    "operator": "Israel Railways"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "מלון כינורות",
+   "name_en": "Kinorot Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 32.797661,
+   "lon": 35.5318128,
+   "distance_km": 44.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "פרנק",
+   "name_en": "Frank",
+   "stars": 3,
+   "brand": null,
+   "lat": 33.0084377,
+   "lon": 35.0907448,
+   "distance_km": 9.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Bar-On Holiday Home",
+   "name_en": "Bar-On Holiday Home",
+   "stars": null,
+   "brand": null,
+   "lat": 33.0041351,
+   "lon": 35.1152543,
+   "distance_km": 9.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "ארגמן",
+   "name_en": "Argaman",
+   "stars": null,
+   "brand": null,
+   "lat": 32.9177463,
+   "lon": 35.0803094,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "מלון עכוטל",
+   "name_en": "Akkotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.9220778,
+   "lon": 35.0728192,
+   "distance_km": 1.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IL",
   "country_zh": "以色列",
@@ -173,5 +290,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

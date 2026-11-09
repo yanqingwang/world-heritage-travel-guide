@@ -3,8 +3,8 @@
  "unesco_id": "1187",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 208,
- "popularity_score": 42557,
+ "popularity_rank": 229,
+ "popularity_score": 44997,
  "country": "BY",
  "country_zh": "白俄罗斯",
  "country_en": "Belarus",
@@ -125,7 +125,8 @@
     "lat": 52.108138,
     "lon": 23.89676,
     "type": "large_airport",
-    "distance_km": 121.1
+    "distance_km": 121.1,
+    "name_zh": "布列斯特机场"
    },
    {
     "name": "Lublin Airport",
@@ -135,7 +136,8 @@
     "lat": 51.240157,
     "lon": 22.713461,
     "type": "large_airport",
-    "distance_km": 233.3
+    "distance_km": 233.3,
+    "name_zh": "卢布林机场"
    },
    {
     "name": "Minsk National Airport",
@@ -145,7 +147,8 @@
     "lat": 53.888071,
     "lon": 28.039964,
     "type": "large_airport",
-    "distance_km": 238.9
+    "distance_km": 238.9,
+    "name_zh": "明斯克国际机场"
    }
   ],
   "nearest_airport_km": 121.1,
@@ -445,5 +448,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

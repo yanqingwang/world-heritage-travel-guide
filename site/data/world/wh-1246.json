@@ -3,8 +3,8 @@
  "unesco_id": "1246",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 328,
- "popularity_score": 22320,
+ "popularity_rank": 351,
+ "popularity_score": 24419,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 35.413601,
     "lon": 132.889999,
     "type": "medium_airport",
-    "distance_km": 53.4
+    "distance_km": 53.4,
+    "name_zh": "出云机场"
    },
    {
     "name": "Iwami Airport",
@@ -82,7 +83,8 @@
     "lat": 34.676399231,
     "lon": 131.789993286,
     "type": "medium_airport",
-    "distance_km": 76.0
+    "distance_km": 76.0,
+    "name_zh": "石见机场"
    },
    {
     "name": "Yonago Kitaro Airport / JASDF Miho Air Base",
@@ -92,7 +94,8 @@
     "lat": 35.492199,
     "lon": 133.235992,
     "type": "medium_airport",
-    "distance_km": 84.2
+    "distance_km": 84.2,
+    "name_zh": "美保飞行场"
    }
   ],
   "nearest_airport_km": 53.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

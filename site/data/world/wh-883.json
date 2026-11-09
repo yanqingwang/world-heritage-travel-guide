@@ -3,8 +3,8 @@
  "unesco_id": "883",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 605,
- "popularity_score": 6778,
+ "popularity_rank": 645,
+ "popularity_score": 7404,
  "country": "BO",
  "country_zh": "玻利维亚",
  "country_en": "Bolivia",
@@ -82,7 +82,8 @@
     "lat": -17.6448,
     "lon": -63.135399,
     "type": "large_airport",
-    "distance_km": 93.5
+    "distance_km": 93.5,
+    "name_zh": "圣克鲁斯 (玻利维亚)"
    },
    {
     "name": "Alcantarí International Airport",
@@ -92,7 +93,8 @@
     "lat": -19.246835,
     "lon": -65.149611,
     "type": "large_airport",
-    "distance_km": 183.7
+    "distance_km": 183.7,
+    "name_zh": "苏克雷机场"
    }
   ],
   "nearest_airport_km": 79.7,
@@ -175,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

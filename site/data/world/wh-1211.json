@@ -3,8 +3,8 @@
  "unesco_id": "1211",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 183,
- "popularity_score": 57334,
+ "popularity_rank": 206,
+ "popularity_score": 58369,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -96,7 +96,8 @@
     "lat": 44.412039,
     "lon": 8.840732,
     "type": "large_airport",
-    "distance_km": 7.2
+    "distance_km": 7.2,
+    "name_zh": "热那亚－克里斯托弗·哥伦布机场"
    },
    {
     "name": "Cuneo International Airport",
@@ -106,7 +107,8 @@
     "lat": 44.547458,
     "lon": 7.623045,
     "type": "medium_airport",
-    "distance_km": 104.9
+    "distance_km": 104.9,
+    "name_zh": "库内奥国际机场"
    },
    {
     "name": "Parma Airport",
@@ -116,7 +118,8 @@
     "lat": 44.826351,
     "lon": 10.29705,
     "type": "medium_airport",
-    "distance_km": 117.5
+    "distance_km": 117.5,
+    "name_zh": "帕尔马机场 (意大利)"
    }
   ],
   "nearest_airport_km": 7.2,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

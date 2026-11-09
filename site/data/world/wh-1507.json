@@ -3,7 +3,7 @@
  "unesco_id": "1507",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 950,
+ "popularity_rank": 975,
  "popularity_score": null,
  "country": "TH",
  "country_zh": "泰国",
@@ -64,7 +64,8 @@
     "lat": 17.985052,
     "lon": 102.566692,
     "type": "large_airport",
-    "distance_km": 36.0
+    "distance_km": 36.0,
+    "name_zh": "瓦岱国际机场"
    },
    {
     "name": "Udon Thani International Airport",
@@ -74,7 +75,8 @@
     "lat": 17.386186,
     "lon": 102.788577,
     "type": "large_airport",
-    "distance_km": 59.8
+    "distance_km": 59.8,
+    "name_zh": "乌隆他尼国际机场"
    },
    {
     "name": "Loei Airport",
@@ -84,7 +86,8 @@
     "lat": 17.43910026550293,
     "lon": 101.72200012207031,
     "type": "medium_airport",
-    "distance_km": 74.7
+    "distance_km": 74.7,
+    "name_zh": "黎市机场"
    }
   ],
   "nearest_airport_km": 36.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

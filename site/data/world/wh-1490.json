@@ -3,7 +3,7 @@
  "unesco_id": "1490",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 945,
+ "popularity_rank": 970,
  "popularity_score": null,
  "country": "KG",
  "country_zh": "吉尔吉斯斯坦",
@@ -26,10 +26,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KG-C",
- "subdivision_zh": "楚河州",
- "subdivision_en": "Chuy Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "西部天山",
  "name_zh_source": "unesco_official",
  "name_en": "Western Tien-Shan",
@@ -82,7 +82,8 @@
     "lat": 43.061298,
     "lon": 74.4776,
     "type": "large_airport",
-    "distance_km": 63.0
+    "distance_km": 63.0,
+    "name_zh": "玛纳斯国际机场"
    },
    {
     "name": "Issyk-Kul International Airport",
@@ -92,7 +93,8 @@
     "lat": 42.585584,
     "lon": 76.701181,
     "type": "large_airport",
-    "distance_km": 173.8
+    "distance_km": 173.8,
+    "name_zh": "伊塞克湖国际机场"
    },
    {
     "name": "Almaty International Airport",
@@ -102,7 +104,8 @@
     "lat": 43.354267,
     "lon": 77.042828,
     "type": "large_airport",
-    "distance_km": 221.6
+    "distance_km": 221.6,
+    "name_zh": "阿拉木图国际机场"
    }
   ],
   "nearest_airport_km": 63.0,
@@ -201,5 +204,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

@@ -72,7 +72,8 @@
     "lat": -29.381599,
     "lon": -66.795799,
     "type": "medium_airport",
-    "distance_km": 110.6
+    "distance_km": 110.6,
+    "name_zh": "拉利奥哈-维森特·阿尔曼多斯上尉机场"
    },
    {
     "name": "Domingo Faustino Sarmiento Airport",
@@ -82,7 +83,8 @@
     "lat": -31.571501,
     "lon": -68.418198,
     "type": "medium_airport",
-    "distance_km": 204.8
+    "distance_km": 204.8,
+    "name_zh": "圣胡安-多明哥·福斯蒂诺·萨尔门托机场"
    },
    {
     "name": "Coronel Felipe Varela International Airport",
@@ -92,7 +94,8 @@
     "lat": -28.593117,
     "lon": -65.7512,
     "type": "medium_airport",
-    "distance_km": 242.6
+    "distance_km": 242.6,
+    "name_zh": "费利佩·巴雷拉上校国际机场"
    }
   ],
   "nearest_airport_km": 110.6,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "937",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 479,
- "popularity_score": 12095,
+ "popularity_rank": 509,
+ "popularity_score": 13113,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -72,7 +72,8 @@
     "lat": -42.7592,
     "lon": -65.1027,
     "type": "medium_airport",
-    "distance_km": 99.9
+    "distance_km": 99.9,
+    "name_zh": "特韦尔切机场"
    },
    {
     "name": "Almirante Marco Andres Zar Airport",
@@ -82,7 +83,8 @@
     "lat": -43.2105,
     "lon": -65.2703,
     "type": "medium_airport",
-    "distance_km": 134.6
+    "distance_km": 134.6,
+    "name_zh": "马科斯·扎尔海军上将机场"
    },
    {
     "name": "Gobernador Castello Airport",
@@ -92,7 +94,8 @@
     "lat": -40.8692,
     "lon": -63.0004,
     "type": "medium_airport",
-    "distance_km": 197.2
+    "distance_km": 197.2,
+    "name_zh": "埃德加多·卡斯特罗州长机场"
    }
   ],
   "nearest_airport_km": 99.9,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

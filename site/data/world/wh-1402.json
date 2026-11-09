@@ -3,8 +3,8 @@
  "unesco_id": "1402",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 404,
- "popularity_score": 16424,
+ "popularity_rank": 427,
+ "popularity_score": 18173,
  "country": "QA",
  "country_zh": "卡塔尔",
  "country_en": "Qatar",
@@ -72,7 +72,8 @@
     "lat": 26.267295,
     "lon": 50.63764,
     "type": "large_airport",
-    "distance_km": 50.1
+    "distance_km": 50.1,
+    "name_zh": "巴林国际机场"
    },
    {
     "name": "Hamad International Airport",
@@ -82,7 +83,8 @@
     "lat": 25.273056,
     "lon": 51.608056,
     "type": "large_airport",
-    "distance_km": 98.1
+    "distance_km": 98.1,
+    "name_zh": "哈马德国际机场"
    },
    {
     "name": "King Fahd International Airport",
@@ -92,7 +94,8 @@
     "lat": 26.4691,
     "lon": 49.798209,
     "type": "large_airport",
-    "distance_km": 134.0
+    "distance_km": 134.0,
+    "name_zh": "法赫德国王国际机场"
    }
   ],
   "nearest_airport_km": 50.1,
@@ -168,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

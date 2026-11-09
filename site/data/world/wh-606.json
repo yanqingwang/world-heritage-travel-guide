@@ -3,8 +3,8 @@
  "unesco_id": "606",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 472,
- "popularity_score": 12374,
+ "popularity_rank": 505,
+ "popularity_score": 13325,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -72,7 +72,8 @@
     "lat": -9.362422,
     "lon": -40.569098,
     "type": "medium_airport",
-    "distance_km": 230.9
+    "distance_km": 230.9,
+    "name_zh": "彼得罗利纳"
    },
    {
     "name": "Orlando Bezerra de Menezes Airport",
@@ -162,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

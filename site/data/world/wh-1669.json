@@ -3,8 +3,8 @@
  "unesco_id": "1669",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 276,
- "popularity_score": 28820,
+ "popularity_rank": 295,
+ "popularity_score": 31365,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -96,7 +96,8 @@
     "lat": 40.128101,
     "lon": 32.995098,
     "type": "large_airport",
-    "distance_km": 101.7
+    "distance_km": 101.7,
+    "name_zh": "埃森博阿国际机场"
    },
    {
     "name": "Hasan Polatkan Airport",
@@ -106,7 +107,8 @@
     "lat": 39.811644,
     "lon": 30.519268,
     "type": "large_airport",
-    "distance_km": 126.1
+    "distance_km": 126.1,
+    "name_zh": "哈桑·波拉特坎机场"
    },
    {
     "name": "Zafer Airport",
@@ -116,7 +118,8 @@
     "lat": 39.111107,
     "lon": 30.130405,
     "type": "medium_airport",
-    "distance_km": 169.8
+    "distance_km": 169.8,
+    "name_zh": "屈塔希亚"
    }
   ],
   "nearest_airport_km": 101.7,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

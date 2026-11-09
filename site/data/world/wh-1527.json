@@ -3,8 +3,8 @@
  "unesco_id": "1527",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 536,
- "popularity_score": 9751,
+ "popularity_rank": 567,
+ "popularity_score": 10745,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -64,7 +64,8 @@
     "lat": 48.689899,
     "lon": 9.22196,
     "type": "large_airport",
-    "distance_km": 52.3
+    "distance_km": 52.3,
+    "name_zh": "斯图加特机场"
    },
    {
     "name": "Memmingen Allgau Airport",
@@ -74,7 +75,8 @@
     "lat": 47.988092,
     "lon": 10.238248,
     "type": "large_airport",
-    "distance_km": 56.6
+    "distance_km": 56.6,
+    "name_zh": "梅明根机场"
    },
    {
     "name": "Bodensee Airport Friedrichshafen",
@@ -84,7 +86,8 @@
     "lat": 47.671299,
     "lon": 9.51149,
     "type": "large_airport",
-    "distance_km": 81.9
+    "distance_km": 81.9,
+    "name_zh": "腓特烈港机场"
    }
   ],
   "nearest_airport_km": 52.3,
@@ -161,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

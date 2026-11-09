@@ -3,8 +3,8 @@
  "unesco_id": "259",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 74,
- "popularity_score": 155905,
+ "popularity_rank": 83,
+ "popularity_score": 169514,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 35.811001,
     "lon": -83.994003,
     "type": "large_airport",
-    "distance_km": 56.0
+    "distance_km": 56.0,
+    "name_zh": "麦基尔泰臣空军国民警卫队基地"
    },
    {
     "name": "Asheville Regional Airport",
@@ -106,7 +107,8 @@
     "lat": 35.435488,
     "lon": -82.541853,
     "type": "medium_airport",
-    "distance_km": 82.3
+    "distance_km": 82.3,
+    "name_zh": "阿什维尔支线机场"
    },
    {
     "name": "Tri-Cities Regional TN/VA Airport",
@@ -116,7 +118,8 @@
     "lat": 36.475201,
     "lon": -82.407401,
     "type": "medium_airport",
-    "distance_km": 132.7
+    "distance_km": 132.7,
+    "name_zh": "三城区域机场"
    }
   ],
   "nearest_airport_km": 56.0,
@@ -261,5 +264,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

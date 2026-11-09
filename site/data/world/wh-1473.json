@@ -3,8 +3,8 @@
  "unesco_id": "1473",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 416,
- "popularity_score": 15380,
+ "popularity_rank": 440,
+ "popularity_score": 17143,
  "country": "RO",
  "country_zh": "罗马尼亚",
  "country_en": "Romania",
@@ -72,7 +72,8 @@
     "lat": 44.3181,
     "lon": 23.888599,
     "type": "large_airport",
-    "distance_km": 93.1
+    "distance_km": 93.1,
+    "name_zh": "克拉约瓦国际机场"
    },
    {
     "name": "Sibiu International Airport",
@@ -82,7 +83,8 @@
     "lat": 45.785841,
     "lon": 24.086666,
     "type": "large_airport",
-    "distance_km": 104.1
+    "distance_km": 104.1,
+    "name_zh": "锡比乌"
    },
    {
     "name": "Timișoara Traian Vuia International Airport",
@@ -92,7 +94,8 @@
     "lat": 45.809898,
     "lon": 21.3379,
     "type": "large_airport",
-    "distance_km": 174.6
+    "distance_km": 174.6,
+    "name_zh": "蒂米什瓦拉"
    }
   ],
   "nearest_airport_km": 93.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

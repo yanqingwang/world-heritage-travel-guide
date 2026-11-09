@@ -3,8 +3,8 @@
  "unesco_id": "129",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 138,
- "popularity_score": 81904,
+ "popularity_rank": 154,
+ "popularity_score": 87896,
  "country": "HN",
  "country_zh": "洪都拉斯",
  "country_en": "Honduras",
@@ -106,7 +106,8 @@
     "lat": 13.6995,
     "lon": -89.119904,
     "type": "medium_airport",
-    "distance_km": 126.6
+    "distance_km": 126.6,
+    "name_zh": "圣萨尔瓦多-伊洛潘戈"
    },
    {
     "name": "Punta Gorda Airport",
@@ -116,7 +117,8 @@
     "lat": 16.1024,
     "lon": -88.808296,
     "type": "small_airport",
-    "distance_km": 145.1
+    "distance_km": 145.1,
+    "name_zh": "潘塔哥达"
    }
   ],
   "nearest_airport_km": 116.0,
@@ -252,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

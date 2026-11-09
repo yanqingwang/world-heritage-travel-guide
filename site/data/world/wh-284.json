@@ -3,8 +3,8 @@
  "unesco_id": "284",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 223,
- "popularity_score": 37628,
+ "popularity_rank": 241,
+ "popularity_score": 41100,
  "country": "NP",
  "country_zh": "尼泊尔",
  "country_en": "Nepal",
@@ -96,7 +96,8 @@
     "lat": 27.678101,
     "lon": 84.429398,
     "type": "small_airport",
-    "distance_km": 22.0
+    "distance_km": 22.0,
+    "name_zh": "巴拉特普尔机场"
    },
    {
     "name": "Simara Airport",
@@ -106,7 +107,8 @@
     "lat": 27.159803,
     "lon": 84.980021,
     "type": "small_airport",
-    "distance_km": 74.2
+    "distance_km": 74.2,
+    "name_zh": "西玛拉机场"
    },
    {
     "name": "Pokhara International Airport",
@@ -116,7 +118,8 @@
     "lat": 28.1838,
     "lon": 84.0147,
     "type": "large_airport",
-    "distance_km": 82.2
+    "distance_km": 82.2,
+    "name_zh": "博卡拉国际机场"
    }
   ],
   "nearest_airport_km": 22.0,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

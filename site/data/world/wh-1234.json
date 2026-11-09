@@ -3,8 +3,8 @@
  "unesco_id": "1234",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 321,
- "popularity_score": 23027,
+ "popularity_rank": 343,
+ "popularity_score": 24946,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -72,7 +72,8 @@
     "lat": 69.307951,
     "lon": 87.325906,
     "type": "large_airport",
-    "distance_km": 227.0
+    "distance_km": 227.0,
+    "name_zh": "诺里尔斯克"
    },
    {
     "name": "Igarka Airport",
@@ -82,7 +83,8 @@
     "lat": 67.437202,
     "lon": 86.621902,
     "type": "medium_airport",
-    "distance_km": 315.1
+    "distance_km": 315.1,
+    "name_zh": "伊加尔卡机场"
    }
   ],
   "nearest_airport_km": 227.0,
@@ -161,5 +163,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

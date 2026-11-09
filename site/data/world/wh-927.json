@@ -3,8 +3,8 @@
  "unesco_id": "927",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 79,
- "popularity_score": 151625,
+ "popularity_rank": 89,
+ "popularity_score": 165503,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 25.452171,
     "lon": 82.862549,
     "type": "large_airport",
-    "distance_km": 17.8
+    "distance_km": 17.8,
+    "name_zh": "瓦拉纳西"
    },
    {
     "name": "Prayagraj Airport",
@@ -106,7 +107,8 @@
     "lat": 25.4401,
     "lon": 81.733902,
     "type": "medium_airport",
-    "distance_km": 129.5
+    "distance_km": 129.5,
+    "name_zh": "安拉阿巴德机场"
    },
    {
     "name": "Gorakhpur Airport",
@@ -116,7 +118,8 @@
     "lat": 26.739700317399997,
     "lon": 83.4496994019,
     "type": "medium_airport",
-    "distance_km": 157.0
+    "distance_km": 157.0,
+    "name_zh": "戈勒克布尔机场"
    }
   ],
   "nearest_airport_km": 17.8,
@@ -312,5 +315,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

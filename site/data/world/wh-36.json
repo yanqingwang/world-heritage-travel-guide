@@ -3,8 +3,8 @@
  "unesco_id": "36",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 282,
- "popularity_score": 28183,
+ "popularity_rank": 297,
+ "popularity_score": 31104,
  "country": "TN",
  "country_zh": "突尼斯",
  "country_en": "Tunisia",
@@ -96,7 +96,8 @@
     "lat": 36.851002,
     "lon": 10.2272,
     "type": "large_airport",
-    "distance_km": 7.7
+    "distance_km": 7.7,
+    "name_zh": "突尼斯－迦太基国际机场"
    },
    {
     "name": "Enfidha - Hammamet International Airport",
@@ -106,7 +107,8 @@
     "lat": 36.075833,
     "lon": 10.438611,
     "type": "medium_airport",
-    "distance_km": 83.9
+    "distance_km": 83.9,
+    "name_zh": "恩菲达-哈马马特国际机场"
    },
    {
     "name": "Tabarka-Aïn Draham International Airport",
@@ -116,7 +118,8 @@
     "lat": 36.98,
     "lon": 8.87694,
     "type": "medium_airport",
-    "distance_km": 116.7
+    "distance_km": 116.7,
+    "name_zh": "塔巴卡"
    }
   ],
   "nearest_airport_km": 7.7,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

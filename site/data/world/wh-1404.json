@@ -3,8 +3,8 @@
  "unesco_id": "1404",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 420,
- "popularity_score": 15003,
+ "popularity_rank": 448,
+ "popularity_score": 16351,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -72,7 +72,8 @@
     "lat": 44.8807983398,
     "lon": -63.5085983276,
     "type": "large_airport",
-    "distance_km": 67.9
+    "distance_km": 67.9,
+    "name_zh": "哈利法克斯斯坦菲尔德国际机场"
    },
    {
     "name": "Greater Moncton Roméo LeBlanc International Airport",
@@ -82,7 +83,8 @@
     "lat": 46.113189,
     "lon": -64.67719,
     "type": "medium_airport",
-    "distance_km": 115.3
+    "distance_km": 115.3,
+    "name_zh": "大蒙克顿机场"
    },
    {
     "name": "Saint John Airport",
@@ -92,7 +94,8 @@
     "lat": 45.31610107421875,
     "lon": -65.89029693603516,
     "type": "medium_airport",
-    "distance_km": 126.0
+    "distance_km": 126.0,
+    "name_zh": "圣约翰机场"
    }
   ],
   "nearest_airport_km": 67.9,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

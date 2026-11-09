@@ -3,8 +3,8 @@
  "unesco_id": "1730",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 487,
- "popularity_score": 11690,
+ "popularity_rank": 518,
+ "popularity_score": 12884,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IT-88",
- "subdivision_zh": "撒丁",
- "subdivision_en": "Sardinia",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "撒丁岛史前时期的丧葬传统——仙女之家",
  "name_zh_source": "unesco_official",
  "name_en": "Funerary Tradition in the Prehistory of Sardinia – The domus de janas",
@@ -72,7 +72,8 @@
     "lat": 40.632099,
     "lon": 8.29077,
     "type": "medium_airport",
-    "distance_km": 82.6
+    "distance_km": 82.6,
+    "name_zh": "阿尔盖罗机场"
    },
    {
     "name": "Cagliari Elmas Airport",
@@ -82,7 +83,8 @@
     "lat": 39.251499,
     "lon": 9.05428,
     "type": "large_airport",
-    "distance_km": 93.1
+    "distance_km": 93.1,
+    "name_zh": "卡利亚里"
    },
    {
     "name": "Olbia Costa Smeralda Airport",
@@ -92,7 +94,8 @@
     "lat": 40.898953,
     "lon": 9.518457,
     "type": "large_airport",
-    "distance_km": 102.4
+    "distance_km": 102.4,
+    "name_zh": "奥尔比亚"
    }
   ],
   "nearest_airport_km": 82.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

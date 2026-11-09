@@ -3,8 +3,8 @@
  "unesco_id": "1642",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 222,
- "popularity_score": 37690,
+ "popularity_rank": 244,
+ "popularity_score": 40928,
  "country": "KP",
  "country_zh": "朝鲜民主主义人民共和国",
  "country_en": "North Korea",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KP-07",
- "subdivision_zh": "江原道",
- "subdivision_en": "Kangwon",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "金刚山——海上钻石山",
  "name_zh_source": "unesco_official",
  "name_en": "Mount Kumgang – Diamond Mountain from the Sea",
@@ -96,7 +96,8 @@
     "lat": 39.165219,
     "lon": 127.487931,
     "type": "medium_airport",
-    "distance_km": 77.8
+    "distance_km": 77.8,
+    "name_zh": "元山机场"
    },
    {
     "name": "Yangyang International Airport",
@@ -106,7 +107,8 @@
     "lat": 38.060481,
     "lon": 128.669822,
     "type": "large_airport",
-    "distance_km": 82.6
+    "distance_km": 82.6,
+    "name_zh": "襄阳国际机场"
    },
    {
     "name": "Sondok Airport",
@@ -116,7 +118,8 @@
     "lat": 39.745201,
     "lon": 127.473999,
     "type": "medium_airport",
-    "distance_km": 132.7
+    "distance_km": 132.7,
+    "name_zh": "善德机场"
    }
   ],
   "nearest_airport_km": 77.8,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

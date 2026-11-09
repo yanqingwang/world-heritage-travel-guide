@@ -3,8 +3,8 @@
  "unesco_id": "865",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 549,
- "popularity_score": 9412,
+ "popularity_rank": 586,
+ "popularity_score": 10178,
  "country": "UA",
  "country_zh": "乌克兰",
  "country_en": "Ukraine",
@@ -72,7 +72,8 @@
     "lat": 50.109791,
     "lon": 22.024155,
     "type": "large_airport",
-    "distance_km": 146.6
+    "distance_km": 146.6,
+    "name_zh": "热舒夫-亚西翁卡机场"
    },
    {
     "name": "Lublin Airport",
@@ -82,7 +83,8 @@
     "lat": 51.240157,
     "lon": 22.713461,
     "type": "large_airport",
-    "distance_km": 181.3
+    "distance_km": 181.3,
+    "name_zh": "卢布林机场"
    },
    {
     "name": "Košice International Airport",
@@ -92,7 +94,8 @@
     "lat": 48.663101,
     "lon": 21.2411,
     "type": "medium_airport",
-    "distance_km": 241.2
+    "distance_km": 241.2,
+    "name_zh": "科希策"
    }
   ],
   "nearest_airport_km": 146.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

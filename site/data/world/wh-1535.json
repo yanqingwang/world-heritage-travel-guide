@@ -3,7 +3,7 @@
  "unesco_id": "1535",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 953,
+ "popularity_rank": 612,
  "popularity_score": 9087,
  "country": "JP",
  "country_zh": "日本",
@@ -72,7 +72,8 @@
     "lat": 33.7490005493,
     "lon": 129.785003662,
     "type": "medium_airport",
-    "distance_km": 62.6
+    "distance_km": 62.6,
+    "name_zh": "壹岐机场"
    },
    {
     "name": "Tsushima Airport",
@@ -82,7 +83,8 @@
     "lat": 34.2849006653,
     "lon": 129.330993652,
     "type": "medium_airport",
-    "distance_km": 71.3
+    "distance_km": 71.3,
+    "name_zh": "对马机场"
    },
    {
     "name": "Fukuoka Airport",
@@ -92,7 +94,8 @@
     "lat": 33.585899353027344,
     "lon": 130.4510040283203,
     "type": "large_airport",
-    "distance_km": 79.9
+    "distance_km": 79.9,
+    "name_zh": "福冈机场"
    }
   ],
   "nearest_airport_km": 62.6,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

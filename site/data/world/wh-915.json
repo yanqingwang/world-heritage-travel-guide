@@ -3,8 +3,8 @@
  "unesco_id": "915",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 114,
- "popularity_score": 104749,
+ "popularity_rank": 125,
+ "popularity_score": 114435,
  "country": "ZA",
  "country_zh": "南非",
  "country_en": "South Africa",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Gauteng, Limpopo and North-west provinces",
- "subdivision_iso": "ZA-GP",
- "subdivision_zh": "豪滕省",
- "subdivision_en": "Gauteng",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "斯泰克方丹、 斯瓦特科兰斯、 科罗姆德拉伊和维罗恩斯的化石遗址",
  "name_zh_source": "unesco_official",
  "name_en": "Fossil Hominid Sites of South Africa",
@@ -96,7 +96,8 @@
     "lat": -25.938964,
     "lon": 27.926642,
     "type": "large_airport",
-    "distance_km": 26.6
+    "distance_km": 26.6,
+    "name_zh": "兰塞里亚国际机场"
    },
    {
     "name": "O.R. Tambo International Airport",
@@ -106,7 +107,8 @@
     "lat": -26.140081,
     "lon": 28.246801,
     "type": "large_airport",
-    "distance_km": 61.5
+    "distance_km": 61.5,
+    "name_zh": "奥利弗·坦博国际机场"
    },
    {
     "name": "George Dick Montshioa Airport",
@@ -116,7 +118,8 @@
     "lat": -25.798401,
     "lon": 25.548,
     "type": "medium_airport",
-    "distance_km": 212.4
+    "distance_km": 212.4,
+    "name_zh": "姆马巴托国际机场"
    }
   ],
   "nearest_airport_km": 26.6,
@@ -303,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

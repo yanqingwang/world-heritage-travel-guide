@@ -3,8 +3,8 @@
  "unesco_id": "724",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 443,
- "popularity_score": 13501,
+ "popularity_rank": 480,
+ "popularity_score": 14518,
  "country": "RS",
  "country_zh": "塞尔维亚",
  "country_en": "Serbia",
@@ -72,7 +72,8 @@
     "lat": 42.5728,
     "lon": 21.035801,
     "type": "large_airport",
-    "distance_km": 63.8
+    "distance_km": 63.8,
+    "name_zh": "普里斯提纳国际机场"
    },
    {
     "name": "Podgorica Airport / Podgorica Golubovci Airbase",
@@ -82,7 +83,8 @@
     "lat": 42.359402,
     "lon": 19.2519,
     "type": "large_airport",
-    "distance_km": 89.6
+    "distance_km": 89.6,
+    "name_zh": "波德戈里察国际机场"
    },
    {
     "name": "Tivat Airport",
@@ -92,7 +94,8 @@
     "lat": 42.404701,
     "lon": 18.723301,
     "type": "medium_airport",
-    "distance_km": 129.5
+    "distance_km": 129.5,
+    "name_zh": "蒂瓦特机场"
    }
   ],
   "nearest_airport_km": 63.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

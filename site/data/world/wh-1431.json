@@ -3,7 +3,7 @@
  "unesco_id": "1431",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 934,
+ "popularity_rank": 959,
  "popularity_score": null,
  "country": "GW",
  "country_zh": "几内亚比绍",
@@ -64,7 +64,8 @@
     "lat": 11.894262,
     "lon": -15.653596,
     "type": "large_airport",
-    "distance_km": 85.6
+    "distance_km": 85.6,
+    "name_zh": "奥斯瓦尔多·维埃拉国际机场"
    },
    {
     "name": "Cap Skirring Airport",
@@ -74,7 +75,8 @@
     "lat": 12.39533,
     "lon": -16.748,
     "type": "medium_airport",
-    "distance_km": 146.5
+    "distance_km": 146.5,
+    "name_zh": "Cap Skirring机场"
    },
    {
     "name": "Ziguinchor Airport",
@@ -165,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

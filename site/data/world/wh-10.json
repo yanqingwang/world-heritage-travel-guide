@@ -3,8 +3,8 @@
  "unesco_id": "10",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 809,
- "popularity_score": 1010,
+ "popularity_rank": 854,
+ "popularity_score": 1122,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
  "country_en": "Ethiopia",
@@ -82,7 +82,8 @@
     "lat": 11.10975,
     "lon": 39.725911,
     "type": "small_airport",
-    "distance_km": 93.1
+    "distance_km": 93.1,
+    "name_zh": "孔博勒查机场"
    },
    {
     "name": "Aba Tenna Dejazmach Yilma International Airport",
@@ -92,7 +93,8 @@
     "lat": 9.623549,
     "lon": 41.855027,
     "type": "large_airport",
-    "distance_km": 215.5
+    "distance_km": 215.5,
+    "name_zh": "阿巴·德纳·D·伊尔马国际机场"
    }
   ],
   "nearest_airport_km": 88.7,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

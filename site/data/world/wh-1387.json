@@ -3,7 +3,7 @@
  "unesco_id": "1387",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 925,
+ "popularity_rank": 951,
  "popularity_score": null,
  "country": "PT",
  "country_zh": "葡萄牙",
@@ -82,7 +82,8 @@
     "lat": 41.2481002808,
     "lon": -8.68138980865,
     "type": "large_airport",
-    "distance_km": 117.7
+    "distance_km": 117.7,
+    "name_zh": "费尔南多·萨·卡内罗机场"
    },
    {
     "name": "Vila Real Airport",
@@ -168,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

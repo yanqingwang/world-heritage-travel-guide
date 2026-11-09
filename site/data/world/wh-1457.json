@@ -3,7 +3,7 @@
  "unesco_id": "1457",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 939,
+ "popularity_rank": 964,
  "popularity_score": null,
  "country": "TR",
  "country_zh": "土耳其",
@@ -72,7 +72,8 @@
     "lat": 39.552533,
     "lon": 27.010192,
     "type": "large_airport",
-    "distance_km": 49.6
+    "distance_km": 49.6,
+    "name_zh": "巴勒克埃西尔Koca Seyit机场"
    },
    {
     "name": "Mytilene International Airport",
@@ -82,7 +83,8 @@
     "lat": 39.057406,
     "lon": 26.598629,
     "type": "medium_airport",
-    "distance_km": 50.7
+    "distance_km": 50.7,
+    "name_zh": "米蒂利尼"
    },
    {
     "name": "Balıkesir Airport",
@@ -92,7 +94,8 @@
     "lat": 39.619301,
     "lon": 27.926001,
     "type": "medium_airport",
-    "distance_km": 84.4
+    "distance_km": 84.4,
+    "name_zh": "巴勒克埃西尔机场"
    }
   ],
   "nearest_airport_km": 49.6,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

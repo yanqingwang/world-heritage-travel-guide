@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)"
 lat: 32.039166666
 lon: 35.727222222
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 阿萨尔特——包容之地与好客之城 / As-Salt - The Place of Tolerance and Urban Hospitality

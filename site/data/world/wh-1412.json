@@ -3,7 +3,7 @@
  "unesco_id": "1412",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 786,
+ "popularity_rank": 834,
  "popularity_score": 1620,
  "country": "CA",
  "country_zh": "加拿大",
@@ -72,7 +72,8 @@
     "lat": 51.391909,
     "lon": -56.08321,
     "type": "medium_airport",
-    "distance_km": 44.3
+    "distance_km": 44.3,
+    "name_zh": "圣安东尼机场"
    },
    {
     "name": "Lourdes-de-Blanc-Sablon Airport",
@@ -82,7 +83,8 @@
     "lat": 51.4436,
     "lon": -57.185299,
     "type": "medium_airport",
-    "distance_km": 61.0
+    "distance_km": 61.0,
+    "name_zh": "布朗萨布隆机场"
    },
    {
     "name": "Mary's Harbour Airport",
@@ -169,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

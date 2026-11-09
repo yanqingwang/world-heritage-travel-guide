@@ -3,7 +3,7 @@
  "unesco_id": "509",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1087,
+ "popularity_rank": 1098,
  "popularity_score": null,
  "country": "ZM",
  "country_zh": "赞比亚",
@@ -21,10 +21,10 @@
   }
  ],
  "region": "Livingstone District of Southern Province of the Republic of Zambia and Hwange District of Matabeleland North Province of Zimbabwe",
- "subdivision_iso": "ZM-07",
- "subdivision_zh": "南部省",
- "subdivision_en": "Southern Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "莫西奥图尼亚瀑布（维多利亚瀑布）",
  "name_zh_source": "unesco_official",
  "name_en": "Mosi-oa-Tunya / Victoria Falls",
@@ -69,7 +69,8 @@
     "lat": -17.821524,
     "lon": 25.819642,
     "type": "large_airport",
-    "distance_km": 12.2
+    "distance_km": 12.2,
+    "name_zh": "利文斯通"
    },
    {
     "name": "Victoria Falls International Airport",
@@ -79,7 +80,8 @@
     "lat": -18.097437,
     "lon": 25.836867,
     "type": "large_airport",
-    "distance_km": 19.3
+    "distance_km": 19.3,
+    "name_zh": "维多利亚瀑布城机场"
    },
    {
     "name": "Kasane International Airport",
@@ -89,7 +91,8 @@
     "lat": -17.831653,
     "lon": 25.166195,
     "type": "large_airport",
-    "distance_km": 73.9
+    "distance_km": 73.9,
+    "name_zh": "卡萨内机场"
    }
   ],
   "nearest_airport_km": 12.2,
@@ -178,5 +181,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

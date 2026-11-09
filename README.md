@@ -2,9 +2,11 @@
 
 [![Update data and deploy](https://github.com/yanqingwang/world-heritage-travel-guide/actions/workflows/update.yml/badge.svg)](https://github.com/yanqingwang/world-heritage-travel-guide/actions/workflows/update.yml)
 
+一份中英双语的公开数据集：**359 个中国 5A 景区**与 **1,213 处海外 UNESCO 世界遗产**（其中 300 条完整资料）。每条记录都有中英文版本，所在国有官方 UNESCO 版本或维基百科版本时还会补充官方语言内容。
+
 A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas** and **1,213 UNESCO World Heritage sites outside China** (300 of them with full records). Every record is available in Chinese and English, with the country's official language added whenever an official UNESCO edition or a Wikipedia edition exists.
 
-**[Open the site →](https://yanqingwang.github.io/world-heritage-travel-guide/)**
+**[打开网站 / Open the site →](https://yanqingwang.github.io/world-heritage-travel-guide/)**
 
 ---
 
@@ -23,7 +25,7 @@ A bilingual, source-backed travel dataset covering **359 Chinese 5A scenic areas
 - **中英双语界面**，详情内可直接查看所在国官方语言（日语、韩语、法语、西班牙语、德语、意大利语等，取决于是否有官方/维基文本）。
 - **旅行实用信息**：每个目的地详情页展示所在国货币、插座/电压、时区、通行方向、国际区号与官方语言（数据来自 mledoze/countries + IEC 插座表）。
 - **统一的国家 → 省 / 州两级筛选**：两套数据都先选国家，再按 ISO 3166-2 选省/州；中国固定为「中国 → 省份」，海外按所在国的一级行政区。
-- **个人标记与足迹地球**：每个条目可标「去过 / 赞过 / 不好」，保存在浏览器 localStorage；「去过」会点亮地球上的中国省份或海外国家，支持拖动旋转、滚轮缩放与点击地区筛选。
+- **个人标记与足迹地球**：每个条目可标「去过 / 赞过 / 不好」，保存在浏览器本地存储（localStorage）；「去过」会点亮地球上的中国省份或海外国家，支持拖动旋转、滚轮缩放与点击地区筛选。
 - 按类型、签证状态、资料等级筛选，支持名称/城市/国家搜索，并可「只看去过的」。
 - **数据可机读**：`data/china.json`、`data/world.json`；每个条目另有 Markdown 版本在 `entries/`。
 - **站点按需加载**：列表只取约 1.3 MB 的 `site/data/world-index.json`，点开条目时再取单条详情 `site/data/world/<id>.json`，慢网络下也能先看到列表。
@@ -92,7 +94,7 @@ python -m http.server 8000 --directory site
 2. 滚动刷新约 80 个目的地的 OSM 酒店/车站/码头；
 3. 重建 `data/*.json`、`site/`、`entries/`；
 4. 写入 `CHANGELOG.md` 与 `data/changelog/YYYY-MM-DD.json`；
-5. 有变更则自动 commit，并部署 GitHub Pages。
+5. 有变更则自动提交，并部署 GitHub Pages。
 
 首次启用完整 UNESCO 更新时，建议在仓库 Secrets 中添加 `FIRECRAWL_API_KEY`。没有该 secret 时，直连失败会保留上一版快照，不会破坏构建。
 
@@ -109,7 +111,7 @@ python -m http.server 8000 --directory site
 - **发布前结构校验**：`scripts/validate_data.py` 检查双语字段、坐标范围、图片/酒店数量与距离上限，硬错误会阻断每周发布。
 - **为什么不用数据库**：1,572 条记录在浏览器内筛选 <1 ms，静态 JSON + CDN 比 Neon 往返更快、更便宜；实测与取舍见 [`docs/neon-evaluation.md`](docs/neon-evaluation.md)。
 - **省 / 州编码来自 ISO 3166-2**：中国 359 条全部有编码；海外 1,213 条中约 86% 由 Wikidata P131/P300 或 Nominatim 反查得到，缺失时只显示国家，不阻断筛选。
-- **足迹标记只存在本机浏览器**（localStorage），不是账号数据；清浏览器缓存或换设备不会同步。地球底图为 Natural Earth 公有领域数据，D3 Geo 仅用于本地投影渲染。
+- **足迹标记只存在本机浏览器的本地存储**（localStorage），不是账号数据；清浏览器缓存或换设备不会同步。地球底图为 Natural Earth 公有领域数据，D3 Geo 仅用于本地投影渲染。
 
 ### 许可
 

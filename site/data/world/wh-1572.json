@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 7,
- "popularity_score": 1145268,
+ "popularity_score": 1245947,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -96,7 +96,8 @@
     "lat": 37.445663,
     "lon": 38.895592,
     "type": "large_airport",
-    "distance_km": 24.9
+    "distance_km": 24.9,
+    "name_zh": "尚勒乌尔法GAP机场"
    },
    {
     "name": "Adıyaman Airport",
@@ -106,7 +107,8 @@
     "lat": 37.7314,
     "lon": 38.468899,
     "type": "medium_airport",
-    "distance_km": 69.3
+    "distance_km": 69.3,
+    "name_zh": "阿德亚曼机场"
    },
    {
     "name": "Gaziantep Oğuzeli International Airport",
@@ -116,7 +118,8 @@
     "lat": 36.947201,
     "lon": 37.478699,
     "type": "large_airport",
-    "distance_km": 131.7
+    "distance_km": 131.7,
+    "name_zh": "加济安泰普"
    }
   ],
   "nearest_airport_km": 24.9,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

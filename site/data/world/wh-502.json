@@ -3,8 +3,8 @@
  "unesco_id": "502",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 175,
- "popularity_score": 60247,
+ "popularity_rank": 189,
+ "popularity_score": 66531,
  "country": "PH",
  "country_zh": "菲律宾",
  "country_en": "Philippines",
@@ -96,7 +96,8 @@
     "lat": 18.175089,
     "lon": 120.531006,
     "type": "large_airport",
-    "distance_km": 68.5
+    "distance_km": 68.5,
+    "name_zh": "佬沃机场"
    },
    {
     "name": "Tuguegarao Airport",
@@ -106,7 +107,8 @@
     "lat": 17.6433676823,
     "lon": 121.733150482,
     "type": "medium_airport",
-    "distance_km": 142.9
+    "distance_km": 142.9,
+    "name_zh": "土格拉洛机场"
    },
    {
     "name": "Cauayan Airport",
@@ -116,7 +118,8 @@
     "lat": 16.9298992157,
     "lon": 121.752998352,
     "type": "medium_airport",
-    "distance_km": 161.8
+    "distance_km": 161.8,
+    "name_zh": "卡瓦延机场"
    }
   ],
   "nearest_airport_km": 68.5,
@@ -197,5 +200,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

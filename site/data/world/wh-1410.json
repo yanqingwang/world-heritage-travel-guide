@@ -3,8 +3,8 @@
  "unesco_id": "1410",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 611,
- "popularity_score": 6671,
+ "popularity_rank": 654,
+ "popularity_score": 7238,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -82,7 +82,8 @@
     "lat": 32.650938,
     "lon": -114.609375,
     "type": "medium_airport",
-    "distance_km": 97.3
+    "distance_km": 97.3,
+    "name_zh": "尤马海军陆战队航空基地"
    },
    {
     "name": "General Rodolfo Sánchez Taboada International Airport",
@@ -92,7 +93,8 @@
     "lat": 32.630629,
     "lon": -115.242805,
     "type": "medium_airport",
-    "distance_km": 143.0
+    "distance_km": 143.0,
+    "name_zh": "墨西卡利国际机场"
    }
   ],
   "nearest_airport_km": 92.4,
@@ -168,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

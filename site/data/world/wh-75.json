@@ -3,8 +3,8 @@
  "unesco_id": "75",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 67,
- "popularity_score": 164187,
+ "popularity_rank": 75,
+ "popularity_score": 180772,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 35.9524,
     "lon": -112.147003,
     "type": "medium_airport",
-    "distance_km": 11.7
+    "distance_km": 11.7,
+    "name_zh": "大峡谷国家公园机场"
    },
    {
     "name": "Flagstaff Pulliam Airport",
@@ -106,7 +107,8 @@
     "lat": 35.139757,
     "lon": -111.669826,
     "type": "medium_airport",
-    "distance_km": 109.7
+    "distance_km": 109.7,
+    "name_zh": "弗拉格斯塔夫Pulliam机场"
    },
    {
     "name": "Page Municipal Airport",
@@ -261,5 +263,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

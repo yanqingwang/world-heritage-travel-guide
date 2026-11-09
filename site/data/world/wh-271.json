@@ -3,8 +3,8 @@
  "unesco_id": "271",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 302,
- "popularity_score": 25220,
+ "popularity_rank": 323,
+ "popularity_score": 27954,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Town of Steingaden, District of Weilheim-Schongau, Region of Upper Bavaria, State of Bavaria (Bayern)",
- "subdivision_iso": "DE-BY",
- "subdivision_zh": "巴伐利亚州",
- "subdivision_en": "Bavaria",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "维斯教堂",
  "name_zh_source": "unesco_official",
  "name_en": "Pilgrimage Church of Wies",
@@ -72,7 +72,8 @@
     "lat": 47.260201,
     "lon": 11.344,
     "type": "large_airport",
-    "distance_km": 57.4
+    "distance_km": 57.4,
+    "name_zh": "因斯布鲁克机场"
    },
    {
     "name": "Memmingen Allgau Airport",
@@ -82,7 +83,8 @@
     "lat": 47.988092,
     "lon": 10.238248,
     "type": "large_airport",
-    "distance_km": 60.1
+    "distance_km": 60.1,
+    "name_zh": "梅明根机场"
    },
    {
     "name": "Munich Airport",
@@ -92,7 +94,8 @@
     "lat": 48.353802,
     "lon": 11.7861,
     "type": "large_airport",
-    "distance_km": 99.7
+    "distance_km": 99.7,
+    "name_zh": "慕尼黑机场"
    }
   ],
   "nearest_airport_km": 57.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

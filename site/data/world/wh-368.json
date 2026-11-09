@@ -3,8 +3,8 @@
  "unesco_id": "368",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 384,
- "popularity_score": 18044,
+ "popularity_rank": 408,
+ "popularity_score": 19845,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -72,7 +72,8 @@
     "lat": -29.498899459799997,
     "lon": 149.845001221,
     "type": "medium_airport",
-    "distance_km": 26.2
+    "distance_km": 26.2,
+    "name_zh": "莫里机场"
    },
    {
     "name": "Narrabri Airport",
@@ -82,7 +83,8 @@
     "lat": -30.3192005157,
     "lon": 149.82699585,
     "type": "medium_airport",
-    "distance_km": 82.9
+    "distance_km": 82.9,
+    "name_zh": "纳拉布赖机场"
    },
    {
     "name": "Walgett Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

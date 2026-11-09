@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(ii)(iii)(v)"
 lat: 29.777481
 lon: 51.57045
-updated_at: "2026-11-09T12:01:05Z"
+updated_at: "2026-11-09T12:50:25Z"
 ---
 
 # 法尔斯地区的萨珊王朝考古遗址 / Sassanid Archaeological Landscape of Fars Region

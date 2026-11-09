@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(vii)(ix)(x)"
 lat: -9.416388888
 lon: 46.416388888
-updated_at: "2026-11-09T12:00:57Z"
+updated_at: "2026-11-09T12:50:17Z"
 ---
 
 # 阿尔达布拉环礁 / Aldabra Atoll

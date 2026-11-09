@@ -3,8 +3,8 @@
  "unesco_id": "1329",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 342,
- "popularity_score": 20847,
+ "popularity_rank": 367,
+ "popularity_score": 23042,
  "country": "SA",
  "country_zh": "沙特阿拉伯",
  "country_en": "Saudi Arabia",
@@ -72,7 +72,8 @@
     "lat": 24.9576,
     "lon": 46.698799,
     "type": "large_airport",
-    "distance_km": 27.9
+    "distance_km": 27.9,
+    "name_zh": "哈立德国王国际机场"
    },
    {
     "name": "Dawadmi Domestic Airport",
@@ -82,7 +83,8 @@
     "lat": 24.4499,
     "lon": 44.121201,
     "type": "medium_airport",
-    "distance_km": 250.1
+    "distance_km": 250.1,
+    "name_zh": "杜瓦达米本地机场"
    },
    {
     "name": "Al-Ahsa International Airport",
@@ -92,7 +94,8 @@
     "lat": 25.285299,
     "lon": 49.485199,
     "type": "large_airport",
-    "distance_km": 299.6
+    "distance_km": 299.6,
+    "name_zh": "胡富夫"
    }
   ],
   "nearest_airport_km": 27.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

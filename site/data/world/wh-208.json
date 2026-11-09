@@ -3,7 +3,7 @@
  "unesco_id": "208",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1027,
+ "popularity_rank": 1043,
  "popularity_score": null,
  "country": "AF",
  "country_zh": "阿富汗",
@@ -64,7 +64,8 @@
     "lat": 34.565899,
     "lon": 69.212303,
     "type": "large_airport",
-    "distance_km": 130.1
+    "distance_km": 130.1,
+    "name_zh": "喀布尔国际机场"
    },
    {
     "name": "Mazar-i-Sharif International Airport",
@@ -74,7 +75,8 @@
     "lat": 36.70412,
     "lon": 67.210459,
     "type": "large_airport",
-    "distance_km": 215.5
+    "distance_km": 215.5,
+    "name_zh": "马扎里沙里夫"
    },
    {
     "name": "Khost International Airport",
@@ -84,7 +86,8 @@
     "lat": 33.284605,
     "lon": 69.80734,
     "type": "medium_airport",
-    "distance_km": 250.8
+    "distance_km": 250.8,
+    "name_zh": "霍斯特机场"
    }
   ],
   "nearest_airport_km": 130.1,
@@ -166,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

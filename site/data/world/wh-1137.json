@@ -3,7 +3,7 @@
  "unesco_id": "1137",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 863,
+ "popularity_rank": 902,
  "popularity_score": null,
  "country": "LT",
  "country_zh": "立陶宛",
@@ -72,7 +72,8 @@
     "lat": 54.634102,
     "lon": 25.285801,
     "type": "large_airport",
-    "distance_km": 39.5
+    "distance_km": 39.5,
+    "name_zh": "维尔纽斯国际机场"
    },
    {
     "name": "Kaunas International Airport",
@@ -82,7 +83,8 @@
     "lat": 54.963965,
     "lon": 24.08582,
     "type": "large_airport",
-    "distance_km": 49.2
+    "distance_km": 49.2,
+    "name_zh": "考纳斯机场"
    },
    {
     "name": "Riga International Airport",
@@ -92,7 +94,8 @@
     "lat": 56.920752,
     "lon": 23.970711,
     "type": "large_airport",
-    "distance_km": 233.3
+    "distance_km": 233.3,
+    "name_zh": "里加国际机场"
    }
   ],
   "nearest_airport_km": 39.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

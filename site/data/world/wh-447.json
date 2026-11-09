@@ -3,8 +3,8 @@
  "unesco_id": "447",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 269,
- "popularity_score": 29676,
+ "popularity_rank": 287,
+ "popularity_score": 32275,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -96,7 +96,8 @@
     "lat": -25.185913,
     "lon": 130.97703,
     "type": "medium_airport",
-    "distance_km": 15.2
+    "distance_km": 15.2,
+    "name_zh": "乌鲁汝"
    },
    {
     "name": "Alice Springs Airport",
@@ -106,7 +107,8 @@
     "lat": -23.806588,
     "lon": 133.903427,
     "type": "medium_airport",
-    "distance_km": 339.8
+    "distance_km": 339.8,
+    "name_zh": "爱丽斯泉机场"
    }
   ],
   "nearest_airport_km": 15.2,
@@ -242,5 +244,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

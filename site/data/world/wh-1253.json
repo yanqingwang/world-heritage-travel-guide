@@ -3,8 +3,8 @@
  "unesco_id": "1253",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 395,
- "popularity_score": 16893,
+ "popularity_rank": 424,
+ "popularity_score": 18317,
  "country": "RS",
  "country_zh": "塞尔维亚",
  "country_en": "Serbia",
@@ -72,7 +72,8 @@
     "lat": 43.336538,
     "lon": 21.856242,
     "type": "large_airport",
-    "distance_km": 68.0
+    "distance_km": 68.0,
+    "name_zh": "尼什"
    },
    {
     "name": "Morava Airport",
@@ -92,7 +93,8 @@
     "lat": 44.3181,
     "lon": 23.888599,
     "type": "large_airport",
-    "distance_km": 143.7
+    "distance_km": 143.7,
+    "name_zh": "克拉约瓦国际机场"
    }
   ],
   "nearest_airport_km": 68.0,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

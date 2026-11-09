@@ -3,8 +3,8 @@
  "unesco_id": "369",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 32,
- "popularity_score": 351438,
+ "popularity_rank": 34,
+ "popularity_score": 387874,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -96,7 +96,8 @@
     "lat": 55.042801,
     "lon": -7.16111,
     "type": "medium_airport",
-    "distance_km": 46.8
+    "distance_km": 46.8,
+    "name_zh": "德里（LDY）"
    },
    {
     "name": "Islay Airport",
@@ -106,7 +107,8 @@
     "lat": 55.682708,
     "lon": -6.257525,
     "type": "medium_airport",
-    "distance_km": 51.7
+    "distance_km": 51.7,
+    "name_zh": "内赫布里底群岛艾拉（ILY）"
    },
    {
     "name": "Campbeltown Airport",
@@ -116,7 +118,8 @@
     "lat": 55.437199,
     "lon": -5.68639,
     "type": "medium_airport",
-    "distance_km": 56.6
+    "distance_km": 56.6,
+    "name_zh": "坎贝尔城机场"
    }
   ],
   "nearest_airport_km": 46.8,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

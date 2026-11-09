@@ -3,7 +3,7 @@
  "unesco_id": "1762",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1015,
+ "popularity_rank": 1031,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 43.095901,
     "lon": 12.5132,
     "type": "large_airport",
-    "distance_km": 54.9
+    "distance_km": 54.9,
+    "name_zh": "佩鲁贾"
    },
    {
     "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
@@ -82,7 +83,8 @@
     "lat": 41.804532,
     "lon": 12.251998,
     "type": "large_airport",
-    "distance_km": 110.1
+    "distance_km": 110.1,
+    "name_zh": "罗马—菲乌米奇诺机场"
    },
    {
     "name": "Ciampino–G. B. Pastine International Airport",
@@ -92,7 +94,8 @@
     "lat": 41.798769,
     "lon": 12.595331,
     "type": "large_airport",
-    "distance_km": 119.3
+    "distance_km": 119.3,
+    "name_zh": "罗马钱皮诺机场"
    }
   ],
   "nearest_airport_km": 54.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1627",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 981,
+ "popularity_rank": 997,
  "popularity_score": null,
  "country": "TJ",
  "country_zh": "塔吉克斯坦",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "TJ-KT",
- "subdivision_zh": "哈特隆州",
- "subdivision_en": "Khatlon Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "古骨咄的文化遗产地",
  "name_zh_source": "unesco_official",
  "name_en": "Cultural Heritage Sites of Ancient Khuttal",
@@ -64,7 +64,8 @@
     "lat": 37.988098,
     "lon": 69.805,
     "type": "large_airport",
-    "distance_km": 32.0
+    "distance_km": 32.0,
+    "name_zh": "库洛布机场"
    },
    {
     "name": "Bokhtar International Airport",
@@ -84,7 +85,8 @@
     "lat": 38.543746,
     "lon": 68.822977,
     "type": "large_airport",
-    "distance_km": 106.6
+    "distance_km": 106.6,
+    "name_zh": "杜尚别机场"
    }
   ],
   "nearest_airport_km": 32.0,
@@ -165,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

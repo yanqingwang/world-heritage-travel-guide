@@ -3,8 +3,8 @@
  "unesco_id": "1809",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 231,
- "popularity_score": 36363,
+ "popularity_rank": 254,
+ "popularity_score": 38723,
  "country": "PS",
  "country_zh": "巴勒斯坦",
  "country_en": "Palestine",
@@ -96,7 +96,8 @@
     "lat": 32.011398,
     "lon": 34.8867,
     "type": "large_airport",
-    "distance_km": 39.8
+    "distance_km": 39.8,
+    "name_zh": "本-古里安国际机场"
    },
    {
     "name": "Uri Michaeli Haifa International Airport",
@@ -106,7 +107,8 @@
     "lat": 32.810219,
     "lon": 35.043719,
     "type": "medium_airport",
-    "distance_km": 61.8
+    "distance_km": 61.8,
+    "name_zh": "海法机场"
    },
    {
     "name": "Marka International (Amman Civil) Airport",
@@ -116,7 +118,8 @@
     "lat": 31.9727,
     "lon": 35.9916,
     "type": "large_airport",
-    "distance_km": 82.8
+    "distance_km": 82.8,
+    "name_zh": "马尔卡国际机场"
    }
   ],
   "nearest_airport_km": 39.8,
@@ -303,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

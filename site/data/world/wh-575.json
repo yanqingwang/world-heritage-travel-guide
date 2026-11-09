@@ -3,8 +3,8 @@
  "unesco_id": "575",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 396,
- "popularity_score": 16856,
+ "popularity_rank": 423,
+ "popularity_score": 18352,
  "country": "TH",
  "country_zh": "泰国",
  "country_en": "Thailand",
@@ -72,7 +72,8 @@
     "lat": 17.386186,
     "lon": 102.788577,
     "type": "large_airport",
-    "distance_km": 63.1
+    "distance_km": 63.1,
+    "name_zh": "乌隆他尼国际机场"
    },
    {
     "name": "Sakon Nakhon Airport",
@@ -82,7 +83,8 @@
     "lat": 17.195100784301758,
     "lon": 104.11900329589844,
     "type": "medium_airport",
-    "distance_km": 89.8
+    "distance_km": 89.8,
+    "name_zh": "沙功那空机场"
    },
    {
     "name": "Wattay International Airport",
@@ -92,7 +94,8 @@
     "lat": 17.985052,
     "lon": 102.566692,
     "type": "large_airport",
-    "distance_km": 96.9
+    "distance_km": 96.9,
+    "name_zh": "瓦岱国际机场"
    }
   ],
   "nearest_airport_km": 63.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "189",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 800,
- "popularity_score": 1262,
+ "popularity_rank": 846,
+ "popularity_score": 1362,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -72,7 +72,8 @@
     "lat": -8.12747,
     "lon": -34.922961,
     "type": "large_airport",
-    "distance_km": 15.3
+    "distance_km": 15.3,
+    "name_zh": "累西腓/瓜拉拉皮斯－吉尔贝托·弗雷雷国际机场"
    },
    {
     "name": "Presidente Castro Pinto International Airport",
@@ -82,7 +83,8 @@
     "lat": -7.148691,
     "lon": -34.950554,
     "type": "large_airport",
-    "distance_km": 96.8
+    "distance_km": 96.8,
+    "name_zh": "若昂佩索阿国际机场"
    },
    {
     "name": "Caruaru Airport",
@@ -92,7 +94,8 @@
     "lat": -8.28239,
     "lon": -36.0135,
     "type": "small_airport",
-    "distance_km": 132.1
+    "distance_km": 132.1,
+    "name_zh": "卡鲁阿鲁机场"
    }
   ],
   "nearest_airport_km": 15.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

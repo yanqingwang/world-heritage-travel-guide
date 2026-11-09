@@ -3,7 +3,7 @@
  "unesco_id": "1453",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 938,
+ "popularity_rank": 963,
  "popularity_score": null,
  "country": "CR",
  "country_zh": "哥斯达黎加",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "CR-P",
- "subdivision_zh": "蓬塔雷纳斯省",
- "subdivision_en": "Puntarenas Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "迪基斯前哥伦布时期酋长聚落与石球",
  "name_zh_source": "curated",
  "name_en": "Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís",
@@ -64,7 +64,8 @@
     "lat": 8.65401,
     "lon": -83.182198,
     "type": "medium_airport",
-    "distance_km": 47.3
+    "distance_km": 47.3,
+    "name_zh": "戈尔菲托机场"
    },
    {
     "name": "Puerto Jimenez Airport",
@@ -74,7 +75,8 @@
     "lat": 8.533329963684082,
     "lon": -83.30000305175781,
     "type": "medium_airport",
-    "distance_km": 50.2
+    "distance_km": 50.2,
+    "name_zh": "希门尼斯港机场"
    },
    {
     "name": "Quepos Managua Airport",
@@ -84,7 +86,8 @@
     "lat": 9.44316,
     "lon": -84.129799,
     "type": "medium_airport",
-    "distance_km": 88.8
+    "distance_km": 88.8,
+    "name_zh": "马拿加机场"
    }
   ],
   "nearest_airport_km": 47.3,
@@ -161,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

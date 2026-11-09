@@ -3,8 +3,8 @@
  "unesco_id": "762",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 674,
- "popularity_score": 4834,
+ "popularity_rank": 719,
+ "popularity_score": 5167,
  "country": "SE",
  "country_zh": "瑞典",
  "country_en": "Sweden",
@@ -72,7 +72,8 @@
     "lat": 65.5438,
     "lon": 22.122,
     "type": "large_airport",
-    "distance_km": 12.2
+    "distance_km": 12.2,
+    "name_zh": "吕勒奥"
    },
    {
     "name": "Kemi-Tornio Airport",
@@ -82,7 +83,8 @@
     "lat": 65.778701782227,
     "lon": 24.582099914551,
     "type": "medium_airport",
-    "distance_km": 117.7
+    "distance_km": 117.7,
+    "name_zh": "凯米-托尔尼奥机场"
    },
    {
     "name": "Skellefteå Airport",
@@ -92,7 +94,8 @@
     "lat": 64.62480163574219,
     "lon": 21.076900482177734,
     "type": "medium_airport",
-    "distance_km": 122.0
+    "distance_km": 122.0,
+    "name_zh": "谢莱夫特奥机场"
    }
   ],
   "nearest_airport_km": 12.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

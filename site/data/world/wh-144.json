@@ -3,7 +3,7 @@
  "unesco_id": "144",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 936,
+ "popularity_rank": 961,
  "popularity_score": null,
  "country": "TZ",
  "country_zh": "坦桑尼亚",
@@ -82,7 +82,8 @@
     "lat": -10.336204,
     "lon": 40.181997,
     "type": "medium_airport",
-    "distance_km": 169.5
+    "distance_km": 169.5,
+    "name_zh": "姆特瓦拉机场"
    },
    {
     "name": "Julius Nyerere International Airport",
@@ -92,7 +93,8 @@
     "lat": -6.873499,
     "lon": 39.207288,
     "type": "large_airport",
-    "distance_km": 234.4
+    "distance_km": 234.4,
+    "name_zh": "朱利叶斯·尼雷尔国际机场"
    }
   ],
   "nearest_airport_km": 116.8,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

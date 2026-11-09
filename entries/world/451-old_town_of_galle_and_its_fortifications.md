@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iv)"
 lat: 6.021388889
 lon: 80.21861111
-updated_at: "2026-11-09T12:00:59Z"
+updated_at: "2026-11-09T12:50:19Z"
 ---
 
 # 加勒老城及其堡垒 / Old Town of Galle and its Fortifications

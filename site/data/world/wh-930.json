@@ -3,8 +3,8 @@
  "unesco_id": "930",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 477,
- "popularity_score": 12107,
+ "popularity_rank": 510,
+ "popularity_score": 13092,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 38.2822,
     "lon": -0.558156,
     "type": "large_airport",
-    "distance_km": 11.7
+    "distance_km": 11.7,
+    "name_zh": "阿利坎特"
    },
    {
     "name": "Region of Murcia International Airport",
@@ -82,7 +83,8 @@
     "lat": 37.802852,
     "lon": -1.124884,
     "type": "large_airport",
-    "distance_km": 63.9
+    "distance_km": 63.9,
+    "name_zh": "穆尔西亚地区国际机场"
    },
    {
     "name": "Valencia Airport",
@@ -92,7 +94,8 @@
     "lat": 39.489162,
     "lon": -0.480961,
     "type": "large_airport",
-    "distance_km": 137.4
+    "distance_km": 137.4,
+    "name_zh": "巴伦西亚"
    }
   ],
   "nearest_airport_km": 11.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

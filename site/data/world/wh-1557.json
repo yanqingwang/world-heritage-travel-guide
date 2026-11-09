@@ -3,7 +3,7 @@
  "unesco_id": "1557",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 968,
+ "popularity_rank": 818,
  "popularity_score": 2072,
  "country": "DK",
  "country_zh": "丹麦",
@@ -72,7 +72,8 @@
     "lat": 67.010446,
     "lon": -50.715294,
     "type": "medium_airport",
-    "distance_km": 31.7
+    "distance_km": 31.7,
+    "name_zh": "坎克尔路斯斯雅克机场"
    },
    {
     "name": "Sisimiut Airport",
@@ -82,7 +83,8 @@
     "lat": 66.951302,
     "lon": -53.729301,
     "type": "medium_airport",
-    "distance_km": 100.5
+    "distance_km": 100.5,
+    "name_zh": "锡西米尤特机场"
    },
    {
     "name": "Aasiaat Airport",
@@ -92,7 +94,8 @@
     "lat": 68.721802,
     "lon": -52.784698,
     "type": "medium_airport",
-    "distance_km": 192.8
+    "distance_km": 192.8,
+    "name_zh": "亚西亚特机场"
    }
   ],
   "nearest_airport_km": 31.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

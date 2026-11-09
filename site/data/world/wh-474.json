@@ -3,8 +3,8 @@
  "unesco_id": "474",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 441,
- "popularity_score": 13543,
+ "popularity_rank": 473,
+ "popularity_score": 14754,
  "country": "HU",
  "country_zh": "匈牙利",
  "country_en": "Hungary",
@@ -72,7 +72,8 @@
     "lat": 47.489469,
     "lon": 21.616278,
     "type": "large_airport",
-    "distance_km": 36.4
+    "distance_km": 36.4,
+    "name_zh": "德布勒森国际机场"
    },
    {
     "name": "Oradea International Airport",
@@ -82,7 +83,8 @@
     "lat": 47.025299,
     "lon": 21.9025,
     "type": "large_airport",
-    "distance_km": 84.7
+    "distance_km": 84.7,
+    "name_zh": "奥拉迪亚"
    },
    {
     "name": "Košice International Airport",
@@ -92,7 +94,8 @@
     "lat": 48.663101,
     "lon": 21.2411,
     "type": "medium_airport",
-    "distance_km": 119.0
+    "distance_km": 119.0,
+    "name_zh": "科希策"
    }
   ],
   "nearest_airport_km": 36.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1315",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 904,
+ "popularity_rank": 826,
  "popularity_score": 1855,
  "country": "IR",
  "country_zh": "伊朗",
@@ -72,7 +72,8 @@
     "lat": 32.434399,
     "lon": 48.397598,
     "type": "medium_airport",
-    "distance_km": 59.9
+    "distance_km": 59.9,
+    "name_zh": "迪兹富勒机场"
    },
    {
     "name": "Qasem Soleimani International Airport",
@@ -82,7 +83,8 @@
     "lat": 31.3364,
     "lon": 48.763789,
     "type": "large_airport",
-    "distance_km": 80.2
+    "distance_km": 80.2,
+    "name_zh": "阿瓦士"
    },
    {
     "name": "Khoram Abad Airport",
@@ -92,7 +94,8 @@
     "lat": 33.43539810180664,
     "lon": 48.282901763916016,
     "type": "medium_airport",
-    "distance_km": 162.5
+    "distance_km": 162.5,
+    "name_zh": "霍拉马巴德机场"
    }
   ],
   "nearest_airport_km": 59.9,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

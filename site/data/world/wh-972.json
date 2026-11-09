@@ -3,8 +3,8 @@
  "unesco_id": "972",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 455,
- "popularity_score": 12754,
+ "popularity_rank": 486,
+ "popularity_score": 13993,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 26.192437,
     "lon": 127.639804,
     "type": "large_airport",
-    "distance_km": 4.7
+    "distance_km": 4.7,
+    "name_zh": "那霸机场"
    },
    {
     "name": "Aguni Airport",
@@ -82,7 +83,8 @@
     "lat": 26.592755,
     "lon": 127.240335,
     "type": "small_airport",
-    "distance_km": 61.4
+    "distance_km": 61.4,
+    "name_zh": "粟国机场"
    },
    {
     "name": "Kumejima Airport",
@@ -92,7 +94,8 @@
     "lat": 26.363445,
     "lon": 126.71384,
     "type": "medium_airport",
-    "distance_km": 98.1
+    "distance_km": 98.1,
+    "name_zh": "久米岛机场"
    }
   ],
   "nearest_airport_km": 4.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

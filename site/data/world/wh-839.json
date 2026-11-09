@@ -64,7 +64,8 @@
     "lat": 20.365299224853516,
     "lon": -74.5062026977539,
     "type": "medium_airport",
-    "distance_km": 52.3
+    "distance_km": 52.3,
+    "name_zh": "Gustavo Rizo机场"
    },
    {
     "name": "Antonio Maceo International Airport",
@@ -74,7 +75,8 @@
     "lat": 19.97474,
     "lon": -75.835504,
     "type": "large_airport",
-    "distance_km": 101.9
+    "distance_km": 101.9,
+    "name_zh": "圣地亚哥-德古巴"
    },
    {
     "name": "Frank Pais International Airport",
@@ -84,7 +86,8 @@
     "lat": 20.785148,
     "lon": -76.315526,
     "type": "large_airport",
-    "distance_km": 141.9
+    "distance_km": 141.9,
+    "name_zh": "弗兰克帕里斯机场"
    }
   ],
   "nearest_airport_km": 52.3,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

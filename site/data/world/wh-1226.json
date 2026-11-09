@@ -3,7 +3,7 @@
  "unesco_id": "1226",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 882,
+ "popularity_rank": 919,
  "popularity_score": null,
  "country": "GM",
  "country_zh": "冈比亚",
@@ -77,7 +77,8 @@
     "lat": 13.338,
     "lon": -16.652201,
     "type": "large_airport",
-    "distance_km": 127.1
+    "distance_km": 127.1,
+    "name_zh": "班珠尔国际机场"
    },
    {
     "name": "Ziguinchor Airport",
@@ -97,7 +98,8 @@
     "lat": 12.39533,
     "lon": -16.748,
     "type": "medium_airport",
-    "distance_km": 195.3
+    "distance_km": 195.3,
+    "name_zh": "Cap Skirring机场"
    }
   ],
   "nearest_airport_km": 127.1,
@@ -186,5 +188,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

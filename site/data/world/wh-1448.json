@@ -3,8 +3,8 @@
  "unesco_id": "1448",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 705,
- "popularity_score": 4083,
+ "popularity_rank": 747,
+ "popularity_score": 4524,
  "country": "MN",
  "country_zh": "蒙古国",
  "country_en": "Mongolia",
@@ -21,10 +21,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "MN-061",
- "subdivision_zh": "东方省",
- "subdivision_en": "Dornod",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "达乌里亚景观",
  "name_zh_source": "curated",
  "name_en": "Landscapes of Dauria",
@@ -77,7 +77,8 @@
     "lat": 49.566667,
     "lon": 117.33,
     "type": "medium_airport",
-    "distance_km": 142.7
+    "distance_km": 142.7,
+    "name_zh": "满洲里西郊机场"
    },
    {
     "name": "Choibalsan Airport",
@@ -87,7 +88,8 @@
     "lat": 48.135381,
     "lon": 114.647231,
     "type": "medium_airport",
-    "distance_km": 207.5
+    "distance_km": 207.5,
+    "name_zh": "乔巴山机场"
    },
    {
     "name": "Chita-Kadala International Airport",
@@ -97,7 +99,8 @@
     "lat": 52.024841,
     "lon": 113.305839,
     "type": "large_airport",
-    "distance_km": 276.1
+    "distance_km": 276.1,
+    "name_zh": "赤塔机场"
    }
   ],
   "nearest_airport_km": 142.7,
@@ -183,5 +186,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

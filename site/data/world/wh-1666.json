@@ -3,8 +3,8 @@
  "unesco_id": "1666",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 587,
- "popularity_score": 7961,
+ "popularity_rank": 628,
+ "popularity_score": 8544,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KR-48",
- "subdivision_zh": "庆尚南道",
- "subdivision_en": "South Gyeongsang",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "伽倻古坟群",
  "name_zh_source": "unesco_official",
  "name_en": "Gaya Tumuli",
@@ -72,7 +72,8 @@
     "lat": 35.179501,
     "lon": 128.938004,
     "type": "large_airport",
-    "distance_km": 8.7
+    "distance_km": 8.7,
+    "name_zh": "金海国际机场"
    },
    {
     "name": "Ulsan Airport",
@@ -82,7 +83,8 @@
     "lat": 35.59349823,
     "lon": 129.352005005,
     "type": "medium_airport",
-    "distance_km": 58.7
+    "distance_km": 58.7,
+    "name_zh": "蔚山机场"
    },
    {
     "name": "Sacheon Airport / Sacheon Air Base",
@@ -92,7 +94,8 @@
     "lat": 35.088591,
     "lon": 128.071747,
     "type": "medium_airport",
-    "distance_km": 74.8
+    "distance_km": 74.8,
+    "name_zh": "泗川机场"
    }
   ],
   "nearest_airport_km": 8.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

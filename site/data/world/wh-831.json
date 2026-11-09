@@ -2,8 +2,8 @@
  "id": "wh-831",
  "unesco_id": "831",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 1174,
+ "tier": "full",
+ "popularity_rank": 176,
  "popularity_score": 76353,
  "country": "IT",
  "country_zh": "意大利",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_831.jpg",
-   "title": "Archaeological Area of Agrigento",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/831",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/01_Panorama_%28foto_del_1979%29.jpg/1280px-01_Panorama_%28foto_del_1979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "01 Panorama (foto del 1979).jpg",
+   "author": "Luciano Tronati",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:01_Panorama_%28foto_del_1979%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/02_Panorama_%28foto_del_1979%29.jpg/1280px-02_Panorama_%28foto_del_1979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "02 Panorama (foto del 1979).jpg",
+   "author": "Luciano Tronati",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:02_Panorama_%28foto_del_1979%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/03_Panorama_%28foto_del_1979%29.jpg/1280px-03_Panorama_%28foto_del_1979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "03 Panorama (foto del 1979).jpg",
+   "author": "Luciano Tronati",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:03_Panorama_%28foto_del_1979%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Agrgento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Agrgento.jpg",
+   "author": "Mare*i",
+   "license": "Copyrighted free use",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Agrgento.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/831",
@@ -72,7 +96,8 @@
     "lat": 36.99583,
     "lon": 14.60889,
     "type": "medium_airport",
-    "distance_km": 96.0
+    "distance_km": 96.0,
+    "name_zh": "科米索机场"
    },
    {
     "name": "Falcone–Borsellino Airport",
@@ -82,7 +107,8 @@
     "lat": 38.175999,
     "lon": 13.091,
     "type": "large_airport",
-    "distance_km": 107.9
+    "distance_km": 107.9,
+    "name_zh": "帕勒莫"
    },
    {
     "name": "Vincenzo Florio Airport Trapani-Birgi",
@@ -92,15 +118,138 @@
     "lat": 37.9114,
     "lon": 12.488,
     "type": "medium_airport",
-    "distance_km": 119.2
+    "distance_km": 119.2,
+    "name_zh": "特拉帕尼机场"
    }
   ],
   "nearest_airport_km": 96.0,
   "distance_beijing_km": 8327.6,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Porto Empedocle",
+    "name_en": null,
+    "lat": 37.2875438,
+    "lon": 13.5297994,
+    "distance_km": 5.3,
+    "operator": null
+   },
+   {
+    "name": "Marina di Cala del Sole",
+    "name_en": null,
+    "lat": 37.0962143,
+    "lon": 13.9440839,
+    "distance_km": 38.0,
+    "operator": null
+   },
+   {
+    "name": "Porto di Licata",
+    "name_en": null,
+    "lat": 37.0911609,
+    "lon": 13.93935,
+    "distance_km": 38.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Agrigento Centrale",
+    "name_en": null,
+    "lat": 37.3092487,
+    "lon": 13.5839443,
+    "distance_km": 2.2,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Agrigento Bassa",
+    "name_en": null,
+    "lat": 37.3190914,
+    "lon": 13.5881768,
+    "distance_km": 3.3,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Porto Empedocle Centrale",
+    "name_en": null,
+    "lat": 37.2915465,
+    "lon": 13.5378546,
+    "distance_km": 4.6,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Aragona Caldare",
+    "name_en": null,
+    "lat": 37.3810981,
+    "lon": 13.6365277,
+    "distance_km": 11.0,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Racalmuto",
+    "name_en": null,
+    "lat": 37.4060705,
+    "lon": 13.7275575,
+    "distance_km": 17.8,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Blu Hotel Kaos",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2888488,
+   "lon": 13.5567831,
+   "distance_km": 2.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dioscuri",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2635094,
+   "lon": 13.5781467,
+   "distance_km": 3.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Residence Hotel \"Antica Perla\"",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2364939,
+   "lon": 13.6203468,
+   "distance_km": 6.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Villa Romana",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2896918,
+   "lon": 13.494811,
+   "distance_km": 8.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Scala dei Turchi Resort",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 37.2898751,
+   "lon": 13.477592,
+   "distance_km": 9.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -172,5 +321,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

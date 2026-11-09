@@ -3,8 +3,8 @@
  "unesco_id": "1324",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 741,
- "popularity_score": 3216,
+ "popularity_rank": 786,
+ "popularity_score": 3508,
  "country": "KR",
  "country_zh": "大韩民国",
  "country_en": "South Korea",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "KR-47",
- "subdivision_zh": "庆尚北道",
- "subdivision_en": "North Gyeongsang",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "韩国历史村落：河回村和良洞村",
  "name_zh_source": "unesco_official",
  "name_en": "Historic Villages of Korea: Hahoe and Yangdong",
@@ -72,7 +72,8 @@
     "lat": 35.894394,
     "lon": 128.656989,
     "type": "large_airport",
-    "distance_km": 72.8
+    "distance_km": 72.8,
+    "name_zh": "大邱国际机场"
    },
    {
     "name": "Cheongju International Airport",
@@ -82,7 +83,8 @@
     "lat": 36.71556,
     "lon": 127.500289,
     "type": "large_airport",
-    "distance_km": 92.8
+    "distance_km": 92.8,
+    "name_zh": "清州国际机场"
    },
    {
     "name": "Pohang Airport (G-815/K-3)",
@@ -92,7 +94,8 @@
     "lat": 35.987955,
     "lon": 129.420383,
     "type": "medium_airport",
-    "distance_km": 101.6
+    "distance_km": 101.6,
+    "name_zh": "浦项机场"
    }
   ],
   "nearest_airport_km": 72.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

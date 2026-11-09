@@ -3,8 +3,8 @@
  "unesco_id": "986",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 490,
- "popularity_score": 11648,
+ "popularity_rank": 525,
+ "popularity_score": 12476,
  "country": "VE",
  "country_zh": "委内瑞拉",
  "country_en": "Venezuela",
@@ -72,7 +72,8 @@
     "lat": 10.602214,
     "lon": -66.991174,
     "type": "large_airport",
-    "distance_km": 16.6
+    "distance_km": 16.6,
+    "name_zh": "迈克蒂亚西蒙·玻利瓦尔国际机场"
    },
    {
     "name": "Arturo Michelena International Airport",
@@ -82,7 +83,8 @@
     "lat": 10.149733,
     "lon": -67.928398,
     "type": "large_airport",
-    "distance_km": 119.7
+    "distance_km": 119.7,
+    "name_zh": "巴伦西亚机场"
    },
    {
     "name": "Los Roques Airport",
@@ -92,7 +94,8 @@
     "lat": 11.946935,
     "lon": -66.668333,
     "type": "small_airport",
-    "distance_km": 163.7
+    "distance_km": 163.7,
+    "name_zh": "洛斯罗克斯机场"
    }
   ],
   "nearest_airport_km": 16.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

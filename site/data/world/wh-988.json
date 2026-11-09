@@ -3,8 +3,8 @@
  "unesco_id": "988",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 663,
- "popularity_score": 4955,
+ "popularity_rank": 713,
+ "popularity_score": 5312,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -82,7 +82,8 @@
     "lat": 41.728185,
     "lon": 0.535023,
     "type": "medium_airport",
-    "distance_km": 89.1
+    "distance_km": 89.1,
+    "name_zh": "莱里达-阿尔瓜伊雷机场"
    },
    {
     "name": "Tarbes-Lourdes-Pyrénées Airport",
@@ -92,7 +93,8 @@
     "lat": 43.178699,
     "lon": -0.006439,
     "type": "medium_airport",
-    "distance_km": 99.9
+    "distance_km": 99.9,
+    "name_zh": "塔布-卢尔德-比利牛斯机场"
    }
   ],
   "nearest_airport_km": 53.0,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

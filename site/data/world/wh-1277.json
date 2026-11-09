@@ -3,7 +3,7 @@
  "unesco_id": "1277",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 892,
+ "popularity_rank": 929,
  "popularity_score": null,
  "country": "JP",
  "country_zh": "日本",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "JP-03",
- "subdivision_zh": "岩手县",
- "subdivision_en": "Iwate Prefecture",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "平泉——象征着佛教净土的庙宇、园林与考古遗址",
  "name_zh_source": "unesco_official",
  "name_en": "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
@@ -64,7 +64,8 @@
     "lat": 39.4286,
     "lon": 141.134995,
     "type": "medium_airport",
-    "distance_km": 49.0
+    "distance_km": 49.0,
+    "name_zh": "花卷机场"
    },
    {
     "name": "Yamagata Airport",
@@ -74,7 +75,8 @@
     "lat": 38.4119,
     "lon": 140.371002,
     "type": "medium_airport",
-    "distance_km": 90.7
+    "distance_km": 90.7,
+    "name_zh": "山形机场"
    },
    {
     "name": "Sendai Airport",
@@ -84,7 +86,8 @@
     "lat": 38.139702,
     "lon": 140.917007,
     "type": "large_airport",
-    "distance_km": 95.9
+    "distance_km": 95.9,
+    "name_zh": "仙台机场"
    }
   ],
   "nearest_airport_km": 49.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1761",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 407,
- "popularity_score": 16073,
+ "popularity_rank": 444,
+ "popularity_score": 16970,
  "country": "TH",
  "country_zh": "泰国",
  "country_en": "Thailand",
@@ -72,7 +72,8 @@
     "lat": 8.539620399475098,
     "lon": 99.9447021484375,
     "type": "medium_airport",
-    "distance_km": 14.5
+    "distance_km": 14.5,
+    "name_zh": "洛坤机场"
    },
    {
     "name": "Trang Airport",
@@ -82,7 +83,8 @@
     "lat": 7.50874,
     "lon": 99.6166,
     "type": "medium_airport",
-    "distance_km": 107.5
+    "distance_km": 107.5,
+    "name_zh": "董里机场"
    },
    {
     "name": "Krabi International Airport",
@@ -92,7 +94,8 @@
     "lat": 8.095591,
     "lon": 98.988955,
     "type": "large_airport",
-    "distance_km": 113.2
+    "distance_km": 113.2,
+    "name_zh": "甲米机场"
    }
   ],
   "nearest_airport_km": 14.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

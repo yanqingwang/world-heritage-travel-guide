@@ -3,7 +3,7 @@
  "unesco_id": "143",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 933,
+ "popularity_rank": 958,
  "popularity_score": null,
  "country": "PK",
  "country_zh": "巴基斯坦",
@@ -72,7 +72,8 @@
     "lat": 24.9065,
     "lon": 67.160797,
     "type": "large_airport",
-    "distance_km": 76.3
+    "distance_km": 76.3,
+    "name_zh": "真纳国际机场"
    },
    {
     "name": "Hyderabad Airport",
@@ -92,7 +93,8 @@
     "lat": 26.2194,
     "lon": 68.390099,
     "type": "medium_airport",
-    "distance_km": 170.0
+    "distance_km": 170.0,
+    "name_zh": "讷瓦布沙阿机场"
    }
   ],
   "nearest_airport_km": 76.3,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

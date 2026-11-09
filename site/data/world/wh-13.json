@@ -3,7 +3,7 @@
  "unesco_id": "13",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 897,
+ "popularity_rank": 934,
  "popularity_score": null,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
@@ -64,7 +64,8 @@
     "lat": 8.97789,
     "lon": 38.799301,
     "type": "large_airport",
-    "distance_km": 91.2
+    "distance_km": 91.2,
+    "name_zh": "博莱国际机场"
    },
    {
     "name": "Debre Markos Airport",
@@ -84,7 +85,8 @@
     "lat": 11.10975,
     "lon": 39.725911,
     "type": "small_airport",
-    "distance_km": 197.8
+    "distance_km": 197.8,
+    "name_zh": "孔博勒查机场"
    }
   ],
   "nearest_airport_km": 91.2,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

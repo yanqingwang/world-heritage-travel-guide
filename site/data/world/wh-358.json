@@ -3,7 +3,7 @@
  "unesco_id": "358",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1061,
+ "popularity_rank": 483,
  "popularity_score": 14281,
  "country": "TR",
  "country_zh": "土耳其",
@@ -72,7 +72,8 @@
     "lat": 38.435298919699996,
     "lon": 38.0909996033,
     "type": "medium_airport",
-    "distance_km": 104.1
+    "distance_km": 104.1,
+    "name_zh": "马拉蒂亚"
    },
    {
     "name": "Sivas Nuri Demirağ Airport",
@@ -92,7 +93,8 @@
     "lat": 39.7102012634,
     "lon": 39.527000427199994,
     "type": "medium_airport",
-    "distance_km": 126.3
+    "distance_km": 126.3,
+    "name_zh": "埃尔津詹机场"
    }
   ],
   "nearest_airport_km": 104.1,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

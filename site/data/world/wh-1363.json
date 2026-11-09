@@ -3,8 +3,8 @@
  "unesco_id": "1363",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 309,
- "popularity_score": 24054,
+ "popularity_rank": 333,
+ "popularity_score": 26159,
  "country": "AT",
  "country_zh": "奥地利",
  "country_en": "Austria",
@@ -97,7 +97,8 @@
     "lat": 47.671299,
     "lon": 9.51149,
     "type": "large_airport",
-    "distance_km": 29.2
+    "distance_km": 29.2,
+    "name_zh": "腓特烈港机场"
    },
    {
     "name": "Sankt Gallen Altenrhein Airport",
@@ -107,7 +108,8 @@
     "lat": 47.485001,
     "lon": 9.56077,
     "type": "medium_airport",
-    "distance_km": 39.1
+    "distance_km": 39.1,
+    "name_zh": "圣加仑-阿尔滕莱茵机场"
    },
    {
     "name": "Zürich Airport",
@@ -117,7 +119,8 @@
     "lat": 47.458056,
     "lon": 8.548056,
     "type": "large_airport",
-    "distance_km": 49.3
+    "distance_km": 49.3,
+    "name_zh": "苏黎世机场"
    }
   ],
   "nearest_airport_km": 29.2,
@@ -242,5 +245,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

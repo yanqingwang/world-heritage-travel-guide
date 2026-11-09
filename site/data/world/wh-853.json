@@ -3,8 +3,8 @@
  "unesco_id": "853",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 726,
- "popularity_score": 3631,
+ "popularity_rank": 769,
+ "popularity_score": 3912,
  "country": "HU",
  "country_zh": "匈牙利",
  "country_en": "Hungary",
@@ -82,7 +82,8 @@
     "lat": 45.462355,
     "lon": 18.811278,
     "type": "medium_airport",
-    "distance_km": 81.7
+    "distance_km": 81.7,
+    "name_zh": "奥西耶克机场"
    },
    {
     "name": "Hévíz–Balaton Airport",
@@ -92,7 +93,8 @@
     "lat": 46.686391,
     "lon": 17.159084,
     "type": "medium_airport",
-    "distance_km": 106.5
+    "distance_km": 106.5,
+    "name_zh": "赫维什-巴拉顿国际机场"
    }
   ],
   "nearest_airport_km": 9.6,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

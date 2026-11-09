@@ -8,13 +8,13 @@ country: "ZW"
 country_zh: "津巴布韦"
 country_en: "Zimbabwe"
 unesco_id: "364"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1986"
 criteria: "(i)(iii)(vi)"
 lat: -20.27
 lon: 30.933
-updated_at: "2026-11-09T12:00:58Z"
+updated_at: "2026-11-09T12:50:18Z"
 ---
 
 # 大津巴布韦国家纪念地 / Great Zimbabwe National Monument
@@ -27,9 +27,21 @@ updated_at: "2026-11-09T12:00:58Z"
 
 *Great-Zimbabwe-6.jpg · see Wikimedia Commons file page*
 
-![Great Zimbabwe National Monument](https://whc.unesco.org/uploads/sites/site_364.jpg)
+![Gr Zimbabwe map.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gr_Zimbabwe_map.png/1280px-Gr_Zimbabwe_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Great Zimbabwe National Monument · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*Gr Zimbabwe map.png · Thomas Wozniak · CC BY 3.0*
+
+![D255-plan du temple elliptique de zimbabyeh.-L2-Ch7.png](https://upload.wikimedia.org/wikipedia/commons/8/8d/D255-plan_du_temple_elliptique_de_zimbabyeh.-L2-Ch7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*D255-plan du temple elliptique de zimbabyeh.-L2-Ch7.png · Élisée Reclus · Public domain*
+
+![Alloes-valley-great-zimbabwe.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Alloes-valley-great-zimbabwe.jpg/1280px-Alloes-valley-great-zimbabwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Alloes-valley-great-zimbabwe.jpg · ctsnow (Flikr user) · CC BY 2.0*
+
+![ASC Leiden - Rietveld Collection - East Africa 1975 - 05 - 033 - A wall of the ruins of Great Zimbabwe - Masvingo, Zimbabwe.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_033_-_A_wall_of_the_ruins_of_Great_Zimbabwe_-_Masvingo%2C_Zimbabwe.jpg/1280px-ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_033_-_A_wall_of_the_ruins_of_Great_Zimbabwe_-_Masvingo%2C_Zimbabwe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*ASC Leiden - Rietveld Collection - East Africa 1975 - 05 - 033 - A wall of the ruins of Great Zimbabwe - Masvingo, Zimbabwe.jpg · Aart Rietveld · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -46,7 +58,19 @@ The ruins of Great Zimbabwe – the capital of the Queen of Sheba, according to 
 - ✈ **Joshua Mqabuko Nkomo International Airport (BUQ)** — 242.8 km
 - ✈ **Robert Gabriel Mugabe International Airport (HRE)** — 260.5 km
 - ✈ **Chimoio Airport (VPY)** — 289.4 km
+- 🚉 **Masvingo** — 23.9 km
+- 🚉 **Zimuto** — 46.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11256.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Great Zimbabwe Lodge** — 1.2 km — hotel
+- **At the Ancient City** — 2.0 km — hotel
+- **Clevers Lakeview Resort and Conference Centre (previously known as Norma Jeane Lake View Lodge)** — 7.5 km — hotel — Clevers Hotels and Resorts
+- **Lodges** — 9.8 km — hotel
+- **Mineheart Boutique Hotel** — 21.0 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

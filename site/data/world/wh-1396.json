@@ -3,8 +3,8 @@
  "unesco_id": "1396",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 632,
- "popularity_score": 5957,
+ "popularity_rank": 677,
+ "popularity_score": 6491,
  "country": "MY",
  "country_zh": "马来西亚",
  "country_en": "Malaysia",
@@ -72,7 +72,8 @@
     "lat": 4.56733,
     "lon": 101.091643,
     "type": "large_airport",
-    "distance_km": 57.2
+    "distance_km": 57.2,
+    "name_zh": "怡保苏丹阿斯兰沙国际机场"
    },
    {
     "name": "Penang International Airport",
@@ -82,7 +83,8 @@
     "lat": 5.296303,
     "lon": 100.276185,
     "type": "large_airport",
-    "distance_km": 81.1
+    "distance_km": 81.1,
+    "name_zh": "槟城国际机场"
    },
    {
     "name": "Pulau Pangkor Airport",
@@ -92,7 +94,8 @@
     "lat": 4.244719982147217,
     "lon": 100.5530014038086,
     "type": "small_airport",
-    "distance_km": 102.6
+    "distance_km": 102.6,
+    "name_zh": "邦咯机场"
    }
   ],
   "nearest_airport_km": 57.2,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

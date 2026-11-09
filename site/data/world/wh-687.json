@@ -3,8 +3,8 @@
  "unesco_id": "687",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 430,
- "popularity_score": 14405,
+ "popularity_rank": 460,
+ "popularity_score": 15663,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -72,7 +72,8 @@
     "lat": 49.214545,
     "lon": 7.109735,
     "type": "medium_airport",
-    "distance_km": 19.6
+    "distance_km": 19.6,
+    "name_zh": "萨尔布吕肯机场"
    },
    {
     "name": "Metz-Nancy-Lorraine Airport",
@@ -82,7 +83,8 @@
     "lat": 48.982101,
     "lon": 6.25132,
     "type": "medium_airport",
-    "distance_km": 52.5
+    "distance_km": 52.5,
+    "name_zh": "梅斯-南锡-洛林机场"
    },
    {
     "name": "Luxembourg-Findel International Airport",
@@ -92,7 +94,8 @@
     "lat": 49.626845,
     "lon": 6.212134,
     "type": "large_airport",
-    "distance_km": 62.0
+    "distance_km": 62.0,
+    "name_zh": "卢森堡－芬德尔国际机场"
    }
   ],
   "nearest_airport_km": 19.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

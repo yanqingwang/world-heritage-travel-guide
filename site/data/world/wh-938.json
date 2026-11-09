@@ -3,8 +3,8 @@
  "unesco_id": "938",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 687,
- "popularity_score": 4545,
+ "popularity_rank": 729,
+ "popularity_score": 4951,
  "country": "NG",
  "country_zh": "尼日利亚",
  "country_en": "Nigeria",
@@ -72,7 +72,8 @@
     "lat": 10.451399803161621,
     "lon": 14.257399559020996,
     "type": "medium_airport",
-    "distance_km": 81.6
+    "distance_km": 81.6,
+    "name_zh": "马鲁阿"
    },
    {
     "name": "Maiduguri International Airport",
@@ -92,7 +93,8 @@
     "lat": 9.334785,
     "lon": 13.372129,
     "type": "large_airport",
-    "distance_km": 157.8
+    "distance_km": 157.8,
+    "name_zh": "加鲁阿国际机场"
    }
   ],
   "nearest_airport_km": 81.6,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

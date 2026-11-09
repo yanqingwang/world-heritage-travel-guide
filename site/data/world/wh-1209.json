@@ -3,8 +3,8 @@
  "unesco_id": "1209",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 715,
- "popularity_score": 3834,
+ "popularity_rank": 763,
+ "popularity_score": 4073,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Valles Region, Jalisco State",
- "subdivision_iso": "MX-JAL",
- "subdivision_zh": "哈利斯科州",
- "subdivision_en": "Jalisco",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "龙舌兰景观和特基拉的古代工业设施",
  "name_zh_source": "unesco_official",
  "name_en": "Agave Landscape and Ancient Industrial Facilities of Tequila",
@@ -72,7 +72,8 @@
     "lat": 20.523342,
     "lon": -103.310108,
     "type": "large_airport",
-    "distance_km": 49.3
+    "distance_km": 49.3,
+    "name_zh": "瓜达拉哈拉"
    },
    {
     "name": "Amado Nervo National Airport",
@@ -82,7 +83,8 @@
     "lat": 21.419833,
     "lon": -104.842472,
     "type": "medium_airport",
-    "distance_km": 141.9
+    "distance_km": 141.9,
+    "name_zh": "特皮克"
    },
    {
     "name": "Licenciado Miguel de la Madrid International Airport",
@@ -92,7 +94,8 @@
     "lat": 19.277,
     "lon": -103.577002,
     "type": "medium_airport",
-    "distance_km": 151.6
+    "distance_km": 151.6,
+    "name_zh": "米格尔·德拉马德里机场"
    }
   ],
   "nearest_airport_km": 49.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

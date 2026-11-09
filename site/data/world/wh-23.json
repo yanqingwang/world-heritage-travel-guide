@@ -3,8 +3,8 @@
  "unesco_id": "23",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 39,
- "popularity_score": 234784,
+ "popularity_rank": 46,
+ "popularity_score": 253703,
  "country": "SY",
  "country_zh": "叙利亚",
  "country_en": "Syria",
@@ -96,7 +96,8 @@
     "lat": 36.181262,
     "lon": 37.226869,
     "type": "large_airport",
-    "distance_km": 203.5
+    "distance_km": 203.5,
+    "name_zh": "阿勒颇国际机场"
    },
    {
     "name": "Damascus International Airport",
@@ -106,7 +107,8 @@
     "lat": 33.4114990234375,
     "lon": 36.51559829711914,
     "type": "large_airport",
-    "distance_km": 205.9
+    "distance_km": 205.9,
+    "name_zh": "大马士革国际机场"
    },
    {
     "name": "Latakia International Airport",
@@ -116,7 +118,8 @@
     "lat": 35.4011,
     "lon": 35.9487,
     "type": "medium_airport",
-    "distance_km": 231.0
+    "distance_km": 231.0,
+    "name_zh": "巴塞勒·阿萨德国际机场"
    }
   ],
   "nearest_airport_km": 203.5,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

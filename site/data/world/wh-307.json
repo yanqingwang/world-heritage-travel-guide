@@ -3,8 +3,8 @@
  "unesco_id": "307",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 106,
- "popularity_score": 108335,
+ "popularity_rank": 119,
+ "popularity_score": 118292,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 40.6894,
     "lon": -74.170545,
     "type": "large_airport",
-    "distance_km": 10.6
+    "distance_km": 10.6,
+    "name_zh": "纽华克自由国际机场"
    },
    {
     "name": "LaGuardia Airport",
@@ -106,7 +107,8 @@
     "lat": 40.777199,
     "lon": -73.872597,
     "type": "large_airport",
-    "distance_km": 17.5
+    "distance_km": 17.5,
+    "name_zh": "拉瓜地亚机场"
    },
    {
     "name": "Teterboro Airport",
@@ -116,7 +118,8 @@
     "lat": 40.850101,
     "lon": -74.060799,
     "type": "medium_airport",
-    "distance_km": 17.9
+    "distance_km": 17.9,
+    "name_zh": "泰特波罗机场"
    }
   ],
   "nearest_airport_km": 10.6,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

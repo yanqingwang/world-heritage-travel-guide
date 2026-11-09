@@ -3,8 +3,8 @@
  "unesco_id": "404",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 13,
- "popularity_score": 722054,
+ "popularity_rank": 14,
+ "popularity_score": 812936,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -96,7 +96,8 @@
     "lat": 37.936401,
     "lon": 23.9445,
     "type": "large_airport",
-    "distance_km": 19.5
+    "distance_km": 19.5,
+    "name_zh": "雅典埃莱夫塞里奥斯·韦尼泽洛斯国际机场"
    },
    {
     "name": "Syros Airport",
@@ -334,5 +335,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

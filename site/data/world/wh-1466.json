@@ -3,8 +3,8 @@
  "unesco_id": "1466",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 547,
- "popularity_score": 9495,
+ "popularity_rank": 581,
+ "popularity_score": 10262,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -72,7 +72,8 @@
     "lat": 29.533701,
     "lon": -98.469803,
     "type": "large_airport",
-    "distance_km": 22.9
+    "distance_km": 22.9,
+    "name_zh": "圣安东尼奥国际机场"
    },
    {
     "name": "Austin Bergstrom International Airport",
@@ -82,7 +83,8 @@
     "lat": 30.197535,
     "lon": -97.662015,
     "type": "large_airport",
-    "distance_km": 123.6
+    "distance_km": 123.6,
+    "name_zh": "奥斯汀-伯格斯特龙国际机场"
    },
    {
     "name": "Victoria Regional Airport",
@@ -92,7 +94,8 @@
     "lat": 28.85260009765625,
     "lon": -96.91850280761719,
     "type": "medium_airport",
-    "distance_km": 158.8
+    "distance_km": 158.8,
+    "name_zh": "维多利亚地区机场"
    }
   ],
   "nearest_airport_km": 22.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

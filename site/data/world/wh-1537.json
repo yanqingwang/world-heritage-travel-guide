@@ -3,7 +3,7 @@
  "unesco_id": "1537",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 955,
+ "popularity_rank": 637,
  "popularity_score": 7900,
  "country": "OM",
  "country_zh": "阿曼",
@@ -72,7 +72,8 @@
     "lat": 23.600218,
     "lon": 58.285268,
     "type": "large_airport",
-    "distance_km": 149.4
+    "distance_km": 149.4,
+    "name_zh": "马斯喀特国际机场"
    },
    {
     "name": "Chabahar Konarak International Airport",
@@ -82,7 +83,8 @@
     "lat": 25.44319,
     "lon": 60.382167,
     "type": "medium_airport",
-    "distance_km": 321.9
+    "distance_km": 321.9,
+    "name_zh": "恰赫巴哈尔"
    },
    {
     "name": "Suhar International Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

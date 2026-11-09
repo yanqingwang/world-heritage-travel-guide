@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)(iv)"
 lat: 4.4969
 lon: 36.0138
-updated_at: "2026-11-09T12:00:56Z"
+updated_at: "2026-11-09T12:50:16Z"
 ---
 
 # 奥莫低谷 / Lower Valley of the Omo

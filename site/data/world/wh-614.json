@@ -3,7 +3,7 @@
  "unesco_id": "614",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1113,
+ "popularity_rank": 1118,
  "popularity_score": null,
  "country": "TR",
  "country_zh": "土耳其",
@@ -72,7 +72,8 @@
     "lat": 41.506401,
     "lon": 32.0886,
     "type": "medium_airport",
-    "distance_km": 57.1
+    "distance_km": 57.1,
+    "name_zh": "宗古尔达克机场"
    },
    {
     "name": "Kastamonu Airport",
@@ -82,7 +83,8 @@
     "lat": 41.314201,
     "lon": 33.795799,
     "type": "medium_airport",
-    "distance_km": 92.6
+    "distance_km": 92.6,
+    "name_zh": "卡斯塔莫努机场"
    },
    {
     "name": "Esenboğa International Airport",
@@ -92,7 +94,8 @@
     "lat": 40.128101,
     "lon": 32.995098,
     "type": "large_airport",
-    "distance_km": 128.5
+    "distance_km": 128.5,
+    "name_zh": "埃森博阿国际机场"
    }
   ],
   "nearest_airport_km": 57.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

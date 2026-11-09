@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(v)(vi)"
 lat: -8.42016
 lon: 115.31194
-updated_at: "2026-11-09T12:01:03Z"
+updated_at: "2026-11-09T12:50:23Z"
 ---
 
 # 巴厘岛文化景观：苏巴克体系 / Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy

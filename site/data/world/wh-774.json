@@ -3,8 +3,8 @@
  "unesco_id": "774",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 525,
- "popularity_score": 10378,
+ "popularity_rank": 560,
+ "popularity_score": 11196,
  "country": "SE",
  "country_zh": "瑞典",
  "country_en": "Sweden",
@@ -72,7 +72,8 @@
     "lat": 67.821999,
     "lon": 20.3368,
     "type": "large_airport",
-    "distance_km": 128.8
+    "distance_km": 128.8,
+    "name_zh": "基律纳机场"
    },
    {
     "name": "Harstad/Narvik Airport",
@@ -82,7 +83,8 @@
     "lat": 68.491302,
     "lon": 16.678101,
     "type": "large_airport",
-    "distance_km": 134.2
+    "distance_km": 134.2,
+    "name_zh": "哈尔斯塔/纳尔维克机场 (埃沃内斯)"
    },
    {
     "name": "Bodø Airport",
@@ -92,7 +94,8 @@
     "lat": 67.269203,
     "lon": 14.3653,
     "type": "large_airport",
-    "distance_km": 138.2
+    "distance_km": 138.2,
+    "name_zh": "博德机场"
    }
   ],
   "nearest_airport_km": 128.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

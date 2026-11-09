@@ -3,8 +3,8 @@
  "unesco_id": "1081",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 353,
- "popularity_score": 19957,
+ "popularity_rank": 381,
+ "popularity_score": 21693,
  "country": "MN",
  "country_zh": "蒙古国",
  "country_en": "Mongolia",
@@ -17,7 +17,7 @@
  ],
  "region": "Orkhon-Kharkorin Region",
  "subdivision_iso": "MN-073",
- "subdivision_zh": "后杭爱省",
+ "subdivision_zh": "",
  "subdivision_en": "Arkhangai",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "鄂尔浑峡谷文化景观",
@@ -72,7 +72,8 @@
     "lat": 46.250301361083984,
     "lon": 102.802001953125,
     "type": "medium_airport",
-    "distance_km": 145.3
+    "distance_km": 145.3,
+    "name_zh": "阿尔拜赫雷机场"
    },
    {
     "name": "Bulgan Airport",
@@ -82,7 +83,8 @@
     "lat": 48.85499954223633,
     "lon": 103.47599792480469,
     "type": "medium_airport",
-    "distance_km": 152.1
+    "distance_km": 152.1,
+    "name_zh": "布尔干机场"
    },
    {
     "name": "Bayankhongor Airport",
@@ -92,7 +94,8 @@
     "lat": 46.1633,
     "lon": 100.704002,
     "type": "medium_airport",
-    "distance_km": 224.0
+    "distance_km": 224.0,
+    "name_zh": "巴彦洪戈尔机场"
    }
   ],
   "nearest_airport_km": 145.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "293",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 390,
- "popularity_score": 17234,
+ "popularity_rank": 417,
+ "popularity_score": 18787,
  "country": "LB",
  "country_zh": "黎巴嫩",
  "country_en": "Lebanon",
@@ -72,7 +72,8 @@
     "lat": 33.819833,
     "lon": 35.487443,
     "type": "large_airport",
-    "distance_km": 42.2
+    "distance_km": 42.2,
+    "name_zh": "贝鲁特－拉菲克·哈里里国际机场"
    },
    {
     "name": "Damascus International Airport",
@@ -82,7 +83,8 @@
     "lat": 33.4114990234375,
     "lon": 36.51559829711914,
     "type": "large_airport",
-    "distance_km": 64.6
+    "distance_km": 64.6,
+    "name_zh": "大马士革国际机场"
    },
    {
     "name": "Uri Michaeli Haifa International Airport",
@@ -92,7 +94,8 @@
     "lat": 32.810219,
     "lon": 35.043719,
     "type": "medium_airport",
-    "distance_km": 131.0
+    "distance_km": 131.0,
+    "name_zh": "海法机场"
    }
   ],
   "nearest_airport_km": 42.2,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "862",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 643,
- "popularity_score": 5667,
+ "popularity_rank": 693,
+ "popularity_score": 6044,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -72,7 +72,8 @@
     "lat": 19.139589,
     "lon": -96.188602,
     "type": "large_airport",
-    "distance_km": 81.0
+    "distance_km": 81.0,
+    "name_zh": "韦拉克鲁斯州国际机场"
    },
    {
     "name": "Minatitlán/Coatzacoalcos International Airport",
@@ -92,7 +93,8 @@
     "lat": 16.998773,
     "lon": -96.726092,
     "type": "large_airport",
-    "distance_km": 212.2
+    "distance_km": 212.2,
+    "name_zh": "瓦哈卡"
    }
   ],
   "nearest_airport_km": 81.0,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

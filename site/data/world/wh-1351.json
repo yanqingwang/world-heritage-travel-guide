@@ -3,8 +3,8 @@
  "unesco_id": "1351",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 277,
- "popularity_score": 28795,
+ "popularity_rank": 296,
+ "popularity_score": 31135,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "MX-ZAC",
- "subdivision_zh": "萨卡特卡斯州",
- "subdivision_en": "Zacatecas",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "皇家内陆大干线",
  "name_zh_source": "unesco_official",
  "name_en": "Camino Real de Tierra Adentro",
@@ -96,7 +96,8 @@
     "lat": 22.894942,
     "lon": -102.687154,
     "type": "medium_airport",
-    "distance_km": 44.9
+    "distance_km": 44.9,
+    "name_zh": "萨卡特卡斯国际机场"
    },
    {
     "name": "Aguascalientes International Airport",
@@ -106,7 +107,8 @@
     "lat": 21.699589,
     "lon": -102.318372,
     "type": "large_airport",
-    "distance_km": 101.2
+    "distance_km": 101.2,
+    "name_zh": "阿瓜斯卡连特斯国际机场"
    },
    {
     "name": "Ponciano Arriaga International Airport",
@@ -116,7 +118,8 @@
     "lat": 22.262026,
     "lon": -100.935692,
     "type": "medium_airport",
-    "distance_km": 153.3
+    "distance_km": 153.3,
+    "name_zh": "圣路易斯波托西市"
    }
   ],
   "nearest_airport_km": 44.9,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

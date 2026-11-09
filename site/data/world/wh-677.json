@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "basic",
  "popularity_rank": 352,
- "popularity_score": 20130,
+ "popularity_score": 24308,
  "country": "PH",
  "country_zh": "菲律宾",
  "country_en": "Philippines",
@@ -72,7 +72,8 @@
     "lat": 10.833017,
     "lon": 122.493358,
     "type": "large_airport",
-    "distance_km": 35.3
+    "distance_km": 35.3,
+    "name_zh": "伊洛伊洛国际机场"
    },
    {
     "name": "Bacolod-Silay International Airport",
@@ -82,7 +83,8 @@
     "lat": 10.776237,
     "lon": 123.018879,
     "type": "large_airport",
-    "distance_km": 86.9
+    "distance_km": 86.9,
+    "name_zh": "描戈律锡莱国际机场"
    },
    {
     "name": "Kalibo International Airport",
@@ -92,7 +94,8 @@
     "lat": 11.6794,
     "lon": 122.375999,
     "type": "large_airport",
-    "distance_km": 116.4
+    "distance_km": 116.4,
+    "name_zh": "卡利博国际机场"
    }
   ],
   "nearest_airport_km": 35.3,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

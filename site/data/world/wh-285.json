@@ -3,7 +3,7 @@
  "unesco_id": "285",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1043,
+ "popularity_rank": 1059,
  "popularity_score": null,
  "country": "CO",
  "country_zh": "哥伦比亚",
@@ -72,7 +72,8 @@
     "lat": 10.4424,
     "lon": -75.513,
     "type": "large_airport",
-    "distance_km": 3.6
+    "distance_km": 3.6,
+    "name_zh": "卡塔赫纳"
    },
    {
     "name": "Ernesto Cortissoz International Airport",
@@ -82,7 +83,8 @@
     "lat": 10.8896,
     "lon": -74.7808,
     "type": "large_airport",
-    "distance_km": 97.6
+    "distance_km": 97.6,
+    "name_zh": "Ernesto Cortissoz国际机场"
    },
    {
     "name": "Golfo de Morrosquillo Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

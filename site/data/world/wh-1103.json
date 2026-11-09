@@ -3,8 +3,8 @@
  "unesco_id": "1103",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 305,
- "popularity_score": 24894,
+ "popularity_rank": 326,
+ "popularity_score": 27652,
  "country": "KZ",
  "country_zh": "哈萨克斯坦",
  "country_en": "Kazakhstan",
@@ -72,7 +72,8 @@
     "lat": 43.311087,
     "lon": 68.550352,
     "type": "large_airport",
-    "distance_km": 22.7
+    "distance_km": 22.7,
+    "name_zh": "哈兹拉特苏丹国际机场"
    },
    {
     "name": "Shymkent International Airport",
@@ -82,7 +83,8 @@
     "lat": 42.365021,
     "lon": 69.47564,
     "type": "large_airport",
-    "distance_km": 142.8
+    "distance_km": 142.8,
+    "name_zh": "奇姆肯特国际机场"
    },
    {
     "name": "Tashkent-Khumo International Airport",
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

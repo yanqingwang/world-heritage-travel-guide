@@ -3,7 +3,7 @@
  "unesco_id": "1364",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 918,
+ "popularity_rank": 946,
  "popularity_score": null,
  "country": "BH",
  "country_zh": "巴林",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "BH-15",
- "subdivision_zh": "穆哈拉格省",
- "subdivision_en": "Muharraq Governorate",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "采珠业，岛屿经济的见证",
  "name_zh_source": "curated",
  "name_en": "Pearling, Testimony of an Island Economy",
@@ -64,7 +64,8 @@
     "lat": 26.267295,
     "lon": 50.63764,
     "type": "large_airport",
-    "distance_km": 3.8
+    "distance_km": 3.8,
+    "name_zh": "巴林国际机场"
    },
    {
     "name": "King Fahd International Airport",
@@ -74,7 +75,8 @@
     "lat": 26.4691,
     "lon": 49.798209,
     "type": "large_airport",
-    "distance_km": 85.1
+    "distance_km": 85.1,
+    "name_zh": "法赫德国王国际机场"
    },
    {
     "name": "Hamad International Airport",
@@ -84,7 +86,8 @@
     "lat": 25.273056,
     "lon": 51.608056,
     "type": "large_airport",
-    "distance_km": 146.7
+    "distance_km": 146.7,
+    "name_zh": "哈马德国际机场"
    }
   ],
   "nearest_airport_km": 3.8,
@@ -161,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

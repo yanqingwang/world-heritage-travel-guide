@@ -3,7 +3,7 @@
  "unesco_id": "603",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1112,
+ "popularity_rank": 1117,
  "popularity_score": null,
  "country": "UZ",
  "country_zh": "乌兹别克斯坦",
@@ -72,7 +72,8 @@
     "lat": 39.701842,
     "lon": 66.981467,
     "type": "large_airport",
-    "distance_km": 4.0
+    "distance_km": 4.0,
+    "name_zh": "撒马尔罕国际机场"
    },
    {
     "name": "Zomin Airport",
@@ -92,7 +93,8 @@
     "lat": 38.802246,
     "lon": 65.773068,
     "type": "small_airport",
-    "distance_km": 143.0
+    "distance_km": 143.0,
+    "name_zh": "卡尔西机场"
    }
   ],
   "nearest_airport_km": 4.0,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

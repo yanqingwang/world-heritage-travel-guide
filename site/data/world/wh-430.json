@@ -2,9 +2,9 @@
  "id": "wh-430",
  "unesco_id": "430",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 287,
- "popularity_score": 27348,
+ "tier": "basic",
+ "popularity_rank": 304,
+ "popularity_score": 30345,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -77,7 +77,8 @@
     "lat": 55.037958,
     "lon": -1.689577,
     "type": "large_airport",
-    "distance_km": 58.3
+    "distance_km": 58.3,
+    "name_zh": "纽卡斯尔国际机场"
    },
    {
     "name": "Teesside International Airport",
@@ -87,7 +88,8 @@
     "lat": 54.509201,
     "lon": -1.42941,
     "type": "medium_airport",
-    "distance_km": 92.4
+    "distance_km": 92.4,
+    "name_zh": "德罕蒂斯谷机场"
    },
    {
     "name": "Edinburgh Airport",
@@ -97,129 +99,16 @@
     "lat": 55.950145,
     "lon": -3.372288,
     "type": "large_airport",
-    "distance_km": 117.0
+    "distance_km": 117.0,
+    "name_zh": "爱丁堡机场"
    }
   ],
   "nearest_airport_km": 58.3,
   "distance_beijing_km": 7932.5,
-  "ferry_terminals": [
-   {
-    "name": "Pooley Bridge",
-    "name_en": null,
-    "lat": 54.6100931,
-    "lon": -2.8274531,
-    "distance_km": 44.9,
-    "operator": "Ullswater Steamers"
-   },
-   {
-    "name": "Howtown",
-    "name_en": null,
-    "lat": 54.5713959,
-    "lon": -2.8629545,
-    "distance_km": 49.8,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "Haltwhistle",
-    "name_en": null,
-    "lat": 54.9679903,
-    "lon": -2.4627642,
-    "distance_km": 9.2,
-    "operator": "Northern Trains"
-   },
-   {
-    "name": "Brampton",
-    "name_en": null,
-    "lat": 54.9321536,
-    "lon": -2.7038502,
-    "distance_km": 9.4,
-    "operator": "Northern Trains"
-   },
-   {
-    "name": "Slaggyford",
-    "name_en": null,
-    "lat": 54.8653223,
-    "lon": -2.5064919,
-    "distance_km": 15.4,
-    "operator": null
-   },
-   {
-    "name": "Bardon Mill",
-    "name_en": null,
-    "lat": 54.9745437,
-    "lon": -2.3450711,
-    "distance_km": 16.5,
-    "operator": "Northern Trains"
-   },
-   {
-    "name": "Lintley Halt",
-    "name_en": null,
-    "lat": 54.8522284,
-    "lon": -2.4859345,
-    "distance_km": 17.3,
-    "operator": null
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Ibis Hotel Carlisle",
-   "name_en": null,
-   "stars": null,
-   "brand": "Ibis",
-   "lat": 54.8907018,
-   "lon": -2.930056,
-   "distance_km": 23.9,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Carlisle Station Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": "Best Western",
-   "lat": 54.8910906,
-   "lon": -2.932633,
-   "distance_km": 24.0,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Best Western Derwent Manor Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": "Best Western",
-   "lat": 54.8522485,
-   "lon": -1.8833817,
-   "distance_km": 48.4,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Gilsland Hall Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 55.0024537,
-   "lon": -2.5707587,
-   "distance_km": 2.2,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Greenhead Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 54.9817661,
-   "lon": -2.5331535,
-   "distance_km": 4.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "DE",
   "country_zh": "德国",
@@ -299,5 +188,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

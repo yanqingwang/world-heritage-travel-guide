@@ -3,8 +3,8 @@
  "unesco_id": "199",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 474,
- "popularity_score": 12277,
+ "popularity_rank": 494,
+ "popularity_score": 13670,
  "country": "TZ",
  "country_zh": "坦桑尼亚",
  "country_en": "Tanzania",
@@ -82,7 +82,8 @@
     "lat": -6.873499,
     "lon": 39.207288,
     "type": "large_airport",
-    "distance_km": 309.1
+    "distance_km": 309.1,
+    "name_zh": "朱利叶斯·尼雷尔国际机场"
    },
    {
     "name": "Mtwara Airport",
@@ -92,7 +93,8 @@
     "lat": -10.336204,
     "lon": 40.181997,
     "type": "medium_airport",
-    "distance_km": 339.2
+    "distance_km": 339.2,
+    "name_zh": "姆特瓦拉机场"
    }
   ],
   "nearest_airport_km": 277.0,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

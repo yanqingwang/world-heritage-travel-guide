@@ -3,7 +3,7 @@
  "unesco_id": "1758",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1012,
+ "popularity_rank": 1028,
  "popularity_score": null,
  "country": "DK",
  "country_zh": "丹麦",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "DK-81",
- "subdivision_zh": "北日德兰大区",
- "subdivision_en": "North Denmark Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "利姆水道西段硬骨鱼化石——始新世最早期的演化和气候适应",
  "name_zh_source": "unesco_official",
  "name_en": "The Bony Fish Fossils of the Western Limfjord – Evolution and Climate Adaptation in the Earliest Eocene",
@@ -64,7 +64,8 @@
     "lat": 56.297139,
     "lon": 9.104311,
     "type": "medium_airport",
-    "distance_km": 70.0
+    "distance_km": 70.0,
+    "name_zh": "中日德兰机场"
    },
    {
     "name": "Aalborg Airport",
@@ -74,7 +75,8 @@
     "lat": 57.094763,
     "lon": 9.84993,
     "type": "large_airport",
-    "distance_km": 70.1
+    "distance_km": 70.1,
+    "name_zh": "奥尔堡机场"
    },
    {
     "name": "Billund Airport",
@@ -84,7 +86,8 @@
     "lat": 55.740335,
     "lon": 9.157019,
     "type": "large_airport",
-    "distance_km": 130.9
+    "distance_km": 130.9,
+    "name_zh": "比隆"
    }
   ],
   "nearest_airport_km": 70.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

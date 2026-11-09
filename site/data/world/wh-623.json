@@ -3,7 +3,7 @@
  "unesco_id": "623",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1118,
+ "popularity_rank": 1123,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -72,7 +72,8 @@
     "lat": 51.418395,
     "lon": 9.391638,
     "type": "large_airport",
-    "distance_km": 79.3
+    "distance_km": 79.3,
+    "name_zh": "卡塞尔-卡尔登机场"
    },
    {
     "name": "Hannover Airport",
@@ -82,7 +83,8 @@
     "lat": 52.461102,
     "lon": 9.68508,
     "type": "large_airport",
-    "distance_km": 84.1
+    "distance_km": 84.1,
+    "name_zh": "汉诺威-朗根哈根机场"
    },
    {
     "name": "Erfurt-Weimar Airport",
@@ -92,7 +94,8 @@
     "lat": 50.978281,
     "lon": 10.960713,
     "type": "large_airport",
-    "distance_km": 103.0
+    "distance_km": 103.0,
+    "name_zh": "埃尔福特-魏玛机场"
    }
   ],
   "nearest_airport_km": 79.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

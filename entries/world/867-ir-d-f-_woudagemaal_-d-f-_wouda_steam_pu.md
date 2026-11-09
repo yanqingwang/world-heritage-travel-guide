@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(i)(ii)(iv)"
 lat: 52.845833333
 lon: 5.678888888
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:21Z"
 ---
 
 # 迪•弗•伍达蒸汽泵站 / Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)

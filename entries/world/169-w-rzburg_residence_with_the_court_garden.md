@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(i)(iv)"
 lat: 49.792797617
 lon: 9.938889043
-updated_at: "2026-11-09T12:00:57Z"
+updated_at: "2026-11-09T12:50:17Z"
 ---
 
 # 维尔茨堡宫及宫廷花园和广场 / Würzburg Residence with the Court Gardens and Residence Square

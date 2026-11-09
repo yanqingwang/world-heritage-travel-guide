@@ -3,8 +3,8 @@
  "unesco_id": "1529",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 521,
- "popularity_score": 10540,
+ "popularity_rank": 551,
+ "popularity_score": 11514,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -92,7 +92,8 @@
     "lat": -16.444400787353516,
     "lon": -151.75100708007812,
     "type": "medium_airport",
-    "distance_km": 60.3
+    "distance_km": 60.3,
+    "name_zh": "博拉博拉岛机场"
    }
   ],
   "nearest_airport_km": 17.0,
@@ -169,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

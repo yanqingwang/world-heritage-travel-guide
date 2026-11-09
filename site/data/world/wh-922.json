@@ -3,8 +3,8 @@
  "unesco_id": "922",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 120,
- "popularity_score": 100901,
+ "popularity_rank": 132,
+ "popularity_score": 110757,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 23.0772,
     "lon": 72.634697,
     "type": "large_airport",
-    "distance_km": 102.5
+    "distance_km": 102.5,
+    "name_zh": "萨达尔·瓦拉巴伊·帕特尔国际机场"
    },
    {
     "name": "Rajkot International Airport",
@@ -116,7 +117,8 @@
     "lat": 24.617700576799997,
     "lon": 73.89610290530001,
     "type": "medium_airport",
-    "distance_km": 200.6
+    "distance_km": 200.6,
+    "name_zh": "乌代浦"
    }
   ],
   "nearest_airport_km": 102.5,
@@ -292,5 +294,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

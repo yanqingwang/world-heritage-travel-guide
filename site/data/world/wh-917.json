@@ -3,8 +3,8 @@
  "unesco_id": "917",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 588,
- "popularity_score": 7917,
+ "popularity_rank": 626,
+ "popularity_score": 8595,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -72,7 +72,8 @@
     "lat": -33.406817,
     "lon": 149.651161,
     "type": "medium_airport",
-    "distance_km": 45.9
+    "distance_km": 45.9,
+    "name_zh": "巴瑟斯特机场 (新南威尔士州)"
    },
    {
     "name": "Western Sydney International (Nancy-Bird Walton) Airport",
@@ -82,7 +83,8 @@
     "lat": -33.883461,
     "lon": 150.712981,
     "type": "large_airport",
-    "distance_km": 69.0
+    "distance_km": 69.0,
+    "name_zh": "西悉尼机场"
    },
    {
     "name": "Sydney Kingsford Smith International Airport",
@@ -92,7 +94,8 @@
     "lat": -33.946098,
     "lon": 151.177002,
     "type": "large_airport",
-    "distance_km": 112.1
+    "distance_km": 112.1,
+    "name_zh": "悉尼机场"
    }
   ],
   "nearest_airport_km": 45.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

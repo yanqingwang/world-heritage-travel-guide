@@ -3,7 +3,7 @@
  "unesco_id": "1538",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 956,
+ "popularity_rank": 978,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 45.200802,
     "lon": 7.64963,
     "type": "large_airport",
-    "distance_km": 33.3
+    "distance_km": 33.3,
+    "name_zh": "都灵机场"
    },
    {
     "name": "Milan Malpensa International Airport",
@@ -82,7 +83,8 @@
     "lat": 45.6306,
     "lon": 8.72811,
     "type": "large_airport",
-    "distance_km": 69.6
+    "distance_km": 69.6,
+    "name_zh": "米兰－马尔彭萨机场"
    },
    {
     "name": "Lugano Airport",
@@ -92,7 +94,8 @@
     "lat": 46.004299,
     "lon": 8.91058,
     "type": "medium_airport",
-    "distance_km": 101.1
+    "distance_km": 101.1,
+    "name_zh": "卢加诺机场"
    }
   ],
   "nearest_airport_km": 33.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

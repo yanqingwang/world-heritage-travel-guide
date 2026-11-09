@@ -3,7 +3,7 @@
  "unesco_id": "1270",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 889,
+ "popularity_rank": 926,
  "popularity_score": null,
  "country": "CU",
  "country_zh": "古巴",
@@ -72,7 +72,8 @@
     "lat": 22.149999618530273,
     "lon": -80.41419982910156,
     "type": "medium_airport",
-    "distance_km": 4.1
+    "distance_km": 4.1,
+    "name_zh": "Jaime González机场"
    },
    {
     "name": "Alberto Delgado Airport",
@@ -92,7 +93,8 @@
     "lat": 22.492215,
     "lon": -79.943119,
     "type": "large_airport",
-    "distance_km": 65.3
+    "distance_km": 65.3,
+    "name_zh": "圣克拉拉机场"
    }
   ],
   "nearest_airport_km": 4.1,
@@ -171,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

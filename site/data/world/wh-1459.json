@@ -3,8 +3,8 @@
  "unesco_id": "1459",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 190,
- "popularity_score": 51264,
+ "popularity_rank": 207,
+ "popularity_score": 56619,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -121,7 +121,8 @@
     "lat": -18.053300857500002,
     "lon": -70.2758026123,
     "type": "medium_airport",
-    "distance_km": 75.5
+    "distance_km": 75.5,
+    "name_zh": "塔克纳"
    },
    {
     "name": "Chacalluta International Airport",
@@ -131,7 +132,8 @@
     "lat": -18.348499,
     "lon": -70.338699,
     "type": "medium_airport",
-    "distance_km": 79.6
+    "distance_km": 79.6,
+    "name_zh": "Chacalluta国际机场"
    },
    {
     "name": "General Jorge Fernandez Maldon Airport",
@@ -361,5 +363,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

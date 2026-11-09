@@ -3,7 +3,7 @@
  "unesco_id": "1496",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 947,
+ "popularity_rank": 972,
  "popularity_score": null,
  "country": "US",
  "country_zh": "美国",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "US-PA",
- "subdivision_zh": "宾夕法尼亚州",
- "subdivision_en": "Pennsylvania",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "弗兰克·劳埃德·赖特的20世纪建筑作品",
  "name_zh_source": "unesco_official",
  "name_en": "The 20th-Century Architecture of Frank Lloyd Wright",
@@ -74,7 +74,8 @@
     "lat": 39.643305,
     "lon": -79.917598,
     "type": "medium_airport",
-    "distance_km": 48.3
+    "distance_km": 48.3,
+    "name_zh": "摩根敦市立机场"
    },
    {
     "name": "John Murtha Johnstown Cambria County Airport",
@@ -84,7 +85,8 @@
     "lat": 40.31610107421875,
     "lon": -78.83390045166016,
     "type": "medium_airport",
-    "distance_km": 70.6
+    "distance_km": 70.6,
+    "name_zh": "约翰斯敦-坎布里亚县机场"
    }
   ],
   "nearest_airport_km": 41.5,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

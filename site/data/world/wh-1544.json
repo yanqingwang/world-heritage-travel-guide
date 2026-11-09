@@ -3,7 +3,7 @@
  "unesco_id": "1544",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 959,
+ "popularity_rank": 980,
  "popularity_score": null,
  "country": "IR",
  "country_zh": "伊朗",
@@ -72,7 +72,8 @@
     "lat": 31.9048995972,
     "lon": 54.2765007019,
     "type": "medium_airport",
-    "distance_km": 8.8
+    "distance_km": 8.8,
+    "name_zh": "什伊德斯道格伊机场"
    },
    {
     "name": "Rafsanjan Airport",
@@ -82,7 +83,8 @@
     "lat": 30.298345,
     "lon": 56.048979,
     "type": "medium_airport",
-    "distance_km": 239.4
+    "distance_km": 239.4,
+    "name_zh": "拉夫桑贾机场"
    },
    {
     "name": "Isfahan Shahid Beheshti International Airport",
@@ -92,7 +94,8 @@
     "lat": 32.755142,
     "lon": 51.883877,
     "type": "large_airport",
-    "distance_km": 252.1
+    "distance_km": 252.1,
+    "name_zh": "伊斯法罕"
    }
   ],
   "nearest_airport_km": 8.8,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

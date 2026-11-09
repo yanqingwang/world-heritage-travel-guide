@@ -8,13 +8,13 @@ country: "NO"
 country_zh: "挪威"
 country_en: "Norway"
 unesco_id: "58"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1979"
 criteria: "(i)(ii)(iii)"
 lat: 61.298055555
 lon: 7.3225
-updated_at: "2026-11-09T12:00:57Z"
+updated_at: "2026-11-09T12:50:16Z"
 ---
 
 # 奥尔内斯木构教堂 / Urnes Stave Church
@@ -27,21 +27,9 @@ updated_at: "2026-11-09T12:00:57Z"
 
 *2023-07-04-Stabkirche Urnes-6781.jpg · see Wikimedia Commons file page*
 
-![Dahl 2.Heft Tafel 1.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Dahl_2.Heft_Tafel_1.png/1280px-Dahl_2.Heft_Tafel_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Urnes Stave Church](https://whc.unesco.org/uploads/sites/site_58.jpg)
 
-*Dahl 2.Heft Tafel 1.png · Public domain*
-
-![Holy St. Olav or Jesus, from Urnes stavechurch.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Holy_St._Olav_or_Jesus%2C_from_Urnes_stavechurch.jpg/1280px-Holy_St._Olav_or_Jesus%2C_from_Urnes_stavechurch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Holy St. Olav or Jesus, from Urnes stavechurch.jpg · Arild Nybø · CC BY-SA 2.0*
-
-![Old Madonna or St. Sunniva-statue.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Old_Madonna_or_St._Sunniva-statue.jpg/1280px-Old_Madonna_or_St._Sunniva-statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Old Madonna or St. Sunniva-statue.jpg · Arild Nybø · CC BY-SA 2.0*
-
-![Urnes fra Måsaviki.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Urnes_fra_M%C3%A5saviki.jpg/1280px-Urnes_fra_M%C3%A5saviki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Urnes fra Måsaviki.jpg · WikiTimewatch · CC BY 4.0*
+*Urnes Stave Church · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,23 +52,7 @@ Urnes stavkirke er en stavkirke på gården Ornes på sørsiden av Lustrafjorden
 - ✈ **Sogndal Airport, Haukåsen (SOG)** — 18.6 km
 - ✈ **Førde Airport, Bringeland (FDE)** — 84.1 km
 - ✈ **Sandane Airport, Anda (SDN)** — 87.5 km
-- 🚉 **Flåm** — 49.7 km
-- ⛴ **Ornes** — 0.6 km
-- ⛴ **Solvorn** — 4.0 km
-- ⛴ **Kaupanger** — 13.4 km
-- ⛴ **Sogndal** — 13.9 km
-- ⛴ **Mannheller** — 15.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7097.2 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Best Western Lægreid Hotell** — 14.1 km — chain — Best Western
-- **Walaker Hotell** — 4.0 km — hotel
-- **Eikum Hotel** — 6.6 km — hotel
-- **Tørvis Hotel** — 9.2 km — hotel
-- **Gaupnetunet** — 11.7 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

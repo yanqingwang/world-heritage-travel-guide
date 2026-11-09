@@ -3,8 +3,8 @@
  "unesco_id": "506",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 574,
- "popularity_score": 8327,
+ "popularity_rank": 614,
+ "popularity_score": 9029,
  "country": "MR",
  "country_zh": "毛里塔尼亚",
  "country_en": "Mauritania",
@@ -72,7 +72,8 @@
     "lat": 20.932404,
     "lon": -17.030199,
     "type": "large_airport",
-    "distance_km": 123.4
+    "distance_km": 123.4,
+    "name_zh": "努瓦迪布国际机场"
    },
    {
     "name": "Nouakchott–Oumtounsy International Airport",
@@ -82,7 +83,8 @@
     "lat": 18.31,
     "lon": -15.969722,
     "type": "large_airport",
-    "distance_km": 214.5
+    "distance_km": 214.5,
+    "name_zh": "诺克少"
    },
    {
     "name": "Dakhla Airport",
@@ -92,7 +94,8 @@
     "lat": 23.7183,
     "lon": -15.932,
     "type": "large_airport",
-    "distance_km": 387.8
+    "distance_km": 387.8,
+    "name_zh": "达克拉"
    }
   ],
   "nearest_airport_km": 123.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

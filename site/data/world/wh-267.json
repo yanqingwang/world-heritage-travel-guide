@@ -3,8 +3,8 @@
  "unesco_id": "267",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 417,
- "popularity_score": 15292,
+ "popularity_rank": 445,
+ "popularity_score": 16857,
  "country": "CH",
  "country_zh": "瑞士",
  "country_en": "Switzerland",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Canton of Berne",
- "subdivision_iso": "CH-BE",
- "subdivision_zh": "伯恩州",
- "subdivision_en": "Bern",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "伯尔尼古城",
  "name_zh_source": "unesco_official",
  "name_en": "Old City of Berne",
@@ -72,7 +72,8 @@
     "lat": 46.912736,
     "lon": 7.498819,
     "type": "medium_airport",
-    "distance_km": 5.4
+    "distance_km": 5.4,
+    "name_zh": "伯尔尼－贝尔普机场"
    },
    {
     "name": "EuroAirport Basel–Mulhouse–Freiburg",
@@ -82,7 +83,8 @@
     "lat": 47.60068,
     "lon": 7.521117,
     "type": "large_airport",
-    "distance_km": 72.8
+    "distance_km": 72.8,
+    "name_zh": "巴塞尔－米卢斯－弗赖堡欧洲机场"
    },
    {
     "name": "Zürich Airport",
@@ -92,7 +94,8 @@
     "lat": 47.458056,
     "lon": 8.548056,
     "type": "large_airport",
-    "distance_km": 100.5
+    "distance_km": 100.5,
+    "name_zh": "苏黎世机场"
    }
   ],
   "nearest_airport_km": 5.4,
@@ -175,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

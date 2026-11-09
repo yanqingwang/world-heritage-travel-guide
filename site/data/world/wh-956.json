@@ -16,10 +16,10 @@
   }
  ],
  "region": "Region of Saint-Louis",
- "subdivision_iso": "SN-SL",
- "subdivision_zh": "圣路易区",
- "subdivision_en": "Saint-Louis Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "圣路易斯岛",
  "name_zh_source": "unesco_official",
  "name_en": "Island of Saint-Louis",
@@ -64,7 +64,8 @@
     "lat": 14.670878,
     "lon": -17.072829,
     "type": "large_airport",
-    "distance_km": 162.0
+    "distance_km": 162.0,
+    "name_zh": "达喀尔"
    },
    {
     "name": "Nouakchott–Oumtounsy International Airport",
@@ -74,7 +75,8 @@
     "lat": 18.31,
     "lon": -15.969722,
     "type": "large_airport",
-    "distance_km": 261.1
+    "distance_km": 261.1,
+    "name_zh": "诺克少"
    },
    {
     "name": "Banjul International Airport",
@@ -84,7 +86,8 @@
     "lat": 13.338,
     "lon": -16.652201,
     "type": "large_airport",
-    "distance_km": 298.2
+    "distance_km": 298.2,
+    "name_zh": "班珠尔国际机场"
    }
   ],
   "nearest_airport_km": 162.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

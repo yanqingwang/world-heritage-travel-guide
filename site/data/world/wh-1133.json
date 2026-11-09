@@ -3,8 +3,8 @@
  "unesco_id": "1133",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 230,
- "popularity_score": 36553,
+ "popularity_rank": 253,
+ "popularity_score": 38894,
  "country": "AL",
  "country_zh": "阿尔巴尼亚",
  "country_en": "Albania",
@@ -191,7 +191,8 @@
     "lat": 48.235362,
     "lon": 14.188128,
     "type": "large_airport",
-    "distance_km": 103.9
+    "distance_km": 103.9,
+    "name_zh": "林茨机场"
    },
    {
     "name": "Brno-Tuřany Airport",
@@ -201,7 +202,8 @@
     "lat": 49.151276,
     "lon": 16.693972,
     "type": "medium_airport",
-    "distance_km": 124.5
+    "distance_km": 124.5,
+    "name_zh": "布尔诺-图拉尼机场"
    }
   ],
   "nearest_airport_km": 42.1,
@@ -555,5 +557,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

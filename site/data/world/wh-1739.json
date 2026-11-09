@@ -3,8 +3,8 @@
  "unesco_id": "1739",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 253,
- "popularity_score": 31452,
+ "popularity_rank": 272,
+ "popularity_score": 34476,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -82,7 +82,8 @@
     "lat": 19.689211,
     "lon": 74.373655,
     "type": "large_airport",
-    "distance_km": 123.4
+    "distance_km": 123.4,
+    "name_zh": "舍地机场"
    },
    {
     "name": "Surat International Airport",
@@ -92,7 +93,8 @@
     "lat": 21.115531,
     "lon": 72.743251,
     "type": "large_airport",
-    "distance_km": 132.0
+    "distance_km": 132.0,
+    "name_zh": "苏拉特机场"
    }
   ],
   "nearest_airport_km": 67.2,
@@ -247,5 +249,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

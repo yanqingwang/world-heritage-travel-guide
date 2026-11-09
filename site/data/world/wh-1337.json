@@ -3,8 +3,8 @@
  "unesco_id": "1337",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 799,
- "popularity_score": 1314,
+ "popularity_rank": 842,
+ "popularity_score": 1424,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -72,7 +72,8 @@
     "lat": 43.556301,
     "lon": 2.28918,
     "type": "medium_airport",
-    "distance_km": 43.0
+    "distance_km": 43.0,
+    "name_zh": "卡斯特尔-马扎默机场"
    },
    {
     "name": "Rodez–Aveyron Airport",
@@ -82,7 +83,8 @@
     "lat": 44.407902,
     "lon": 2.48267,
     "type": "medium_airport",
-    "distance_km": 59.8
+    "distance_km": 59.8,
+    "name_zh": "罗德兹-阿韦龙机场"
    },
    {
     "name": "Toulouse-Blagnac Airport",
@@ -92,7 +94,8 @@
     "lat": 43.629101,
     "lon": 1.36382,
     "type": "large_airport",
-    "distance_km": 70.8
+    "distance_km": 70.8,
+    "name_zh": "图卢兹－布拉尼亚克机场"
    }
   ],
   "nearest_airport_km": 43.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

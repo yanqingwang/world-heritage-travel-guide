@@ -3,7 +3,7 @@
  "unesco_id": "1237",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 886,
+ "popularity_rank": 923,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IT-34",
- "subdivision_zh": "威尼托",
- "subdivision_en": "Veneto",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "多洛米蒂山",
  "name_zh_source": "curated",
  "name_en": "The Dolomites",
@@ -64,7 +64,8 @@
     "lat": 46.459245,
     "lon": 11.326125,
     "type": "medium_airport",
-    "distance_km": 66.3
+    "distance_km": 66.3,
+    "name_zh": "波尔查诺机场"
    },
    {
     "name": "Innsbruck Airport",
@@ -74,7 +75,8 @@
     "lat": 47.260201,
     "lon": 11.344,
     "type": "large_airport",
-    "distance_km": 95.1
+    "distance_km": 95.1,
+    "name_zh": "因斯布鲁克机场"
    },
    {
     "name": "Treviso Airport",
@@ -84,7 +86,8 @@
     "lat": 45.648399,
     "lon": 12.1944,
     "type": "large_airport",
-    "distance_km": 107.3
+    "distance_km": 107.3,
+    "name_zh": "特雷维索机场"
    }
   ],
   "nearest_airport_km": 66.3,
@@ -162,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

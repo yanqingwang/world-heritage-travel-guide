@@ -3,7 +3,7 @@
  "unesco_id": "1318",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 906,
+ "popularity_rank": 738,
  "popularity_score": 4715,
  "country": "IT",
  "country_zh": "意大利",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IT-36",
- "subdivision_zh": "弗留利-威尼斯朱利亚",
- "subdivision_en": "Friuli – Venezia Giulia",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "意大利伦巴第人遗址",
  "name_zh_source": "unesco_official",
  "name_en": "Longobards in Italy. Places of the Power (568-774 A.D.)",
@@ -72,7 +72,8 @@
     "lat": 45.827862,
     "lon": 13.466672,
     "type": "large_airport",
-    "distance_km": 29.7
+    "distance_km": 29.7,
+    "name_zh": "的里雅斯特机场"
    },
    {
     "name": "Ljubljana Jože Pučnik Airport",
@@ -82,7 +83,8 @@
     "lat": 46.223701,
     "lon": 14.4576,
     "type": "large_airport",
-    "distance_km": 80.2
+    "distance_km": 80.2,
+    "name_zh": "卢布尔雅那约热·普奇尼克机场"
    },
    {
     "name": "Klagenfurt Airport",
@@ -92,7 +94,8 @@
     "lat": 46.642502,
     "lon": 14.3377,
     "type": "large_airport",
-    "distance_km": 92.4
+    "distance_km": 92.4,
+    "name_zh": "克拉根福机场"
    }
   ],
   "nearest_airport_km": 29.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

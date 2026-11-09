@@ -3,8 +3,8 @@
  "unesco_id": "1650",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 327,
- "popularity_score": 22380,
+ "popularity_rank": 347,
+ "popularity_score": 24824,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -72,7 +72,8 @@
     "lat": 44.5354,
     "lon": 11.2887,
     "type": "large_airport",
-    "distance_km": 6.0
+    "distance_km": 6.0,
+    "name_zh": "波隆纳机场"
    },
    {
     "name": "Forlì-Luigi Ridolfi International Airport",
@@ -82,7 +83,8 @@
     "lat": 44.194801,
     "lon": 12.0701,
     "type": "medium_airport",
-    "distance_km": 67.3
+    "distance_km": 67.3,
+    "name_zh": "弗利机场"
    },
    {
     "name": "Florence Airport, Peretola",
@@ -92,7 +94,8 @@
     "lat": 43.808558,
     "lon": 11.202822,
     "type": "large_airport",
-    "distance_km": 76.6
+    "distance_km": 76.6,
+    "name_zh": "佛罗伦萨－佩雷托拉机场"
    }
   ],
   "nearest_airport_km": 6.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

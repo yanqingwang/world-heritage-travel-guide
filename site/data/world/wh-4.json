@@ -3,8 +3,8 @@
  "unesco_id": "4",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 37,
- "popularity_score": 258664,
+ "popularity_rank": 43,
+ "popularity_score": 285000,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -96,7 +96,8 @@
     "lat": 51.391909,
     "lon": -56.08321,
     "type": "medium_airport",
-    "distance_km": 44.4
+    "distance_km": 44.4,
+    "name_zh": "圣安东尼机场"
    },
    {
     "name": "Mary's Harbour Airport",
@@ -231,5 +232,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)(vi)"
 lat: 50.96394564616667
 lon: 4.202226197583333
-updated_at: "2026-11-09T12:01:05Z"
+updated_at: "2026-11-09T12:50:25Z"
 ---
 
 # 第一次世界大战（西线）的墓葬和纪念场所 / Funerary and memory sites of the First World War (Western Front)

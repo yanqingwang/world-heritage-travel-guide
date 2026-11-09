@@ -3,7 +3,7 @@
  "unesco_id": "828",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1171,
+ "popularity_rank": 1175,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 44.020024,
     "lon": 12.612198,
     "type": "large_airport",
-    "distance_km": 32.8
+    "distance_km": 32.8,
+    "name_zh": "费德里柯·费里尼国际机场"
    },
    {
     "name": "Marche Airport",
@@ -82,7 +83,8 @@
     "lat": 43.616299,
     "lon": 13.3623,
     "type": "medium_airport",
-    "distance_km": 59.9
+    "distance_km": 59.9,
+    "name_zh": "安科纳－法尔科纳拉机场"
    },
    {
     "name": "Forlì-Luigi Ridolfi International Airport",
@@ -92,7 +94,8 @@
     "lat": 44.194801,
     "lon": 12.0701,
     "type": "medium_airport",
-    "distance_km": 69.0
+    "distance_km": 69.0,
+    "name_zh": "弗利机场"
    }
   ],
   "nearest_airport_km": 32.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

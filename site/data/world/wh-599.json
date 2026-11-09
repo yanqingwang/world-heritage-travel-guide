@@ -3,8 +3,8 @@
  "unesco_id": "599",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 227,
- "popularity_score": 36971,
+ "popularity_rank": 248,
+ "popularity_score": 39912,
  "country": "MZ",
  "country_zh": "莫桑比克",
  "country_en": "Mozambique",
@@ -106,7 +106,8 @@
     "lat": -15.1056,
     "lon": 39.281799,
     "type": "large_airport",
-    "distance_km": 156.0
+    "distance_km": 156.0,
+    "name_zh": "楠普拉机场"
    },
    {
     "name": "Pemba Airport",
@@ -116,7 +117,8 @@
     "lat": -12.993302,
     "lon": 40.524867,
     "type": "medium_airport",
-    "distance_km": 228.3
+    "distance_km": 228.3,
+    "name_zh": "彭巴"
    }
   ],
   "nearest_airport_km": 61.0,
@@ -277,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

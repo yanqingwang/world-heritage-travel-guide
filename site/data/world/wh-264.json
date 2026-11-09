@@ -3,8 +3,8 @@
  "unesco_id": "264",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 244,
- "popularity_score": 33485,
+ "popularity_rank": 264,
+ "popularity_score": 37041,
  "country": "PT",
  "country_zh": "葡萄牙",
  "country_en": "Portugal",
@@ -96,7 +96,8 @@
     "lat": 38.7813,
     "lon": -9.13592,
     "type": "large_airport",
-    "distance_km": 101.2
+    "distance_km": 101.2,
+    "name_zh": "里斯本机场"
    },
    {
     "name": "Cascais Airport",
@@ -293,5 +294,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "338",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 214,
- "popularity_score": 41002,
+ "popularity_rank": 232,
+ "popularity_score": 44772,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 27.25627,
     "lon": 91.514633,
     "type": "small_airport",
-    "distance_km": 83.2
+    "distance_km": 83.2,
+    "name_zh": "永普拉机场"
    },
    {
     "name": "Lokpriya Gopinath Bordoloi International Airport",
@@ -106,7 +107,8 @@
     "lat": 26.106654,
     "lon": 91.585226,
     "type": "large_airport",
-    "distance_km": 93.9
+    "distance_km": 93.9,
+    "name_zh": "古瓦哈提"
    },
    {
     "name": "Bathpalathang Airport",
@@ -116,7 +118,8 @@
     "lat": 27.5622,
     "lon": 90.7471,
     "type": "small_airport",
-    "distance_km": 95.8
+    "distance_km": 95.8,
+    "name_zh": "Bathpalathang机场"
    }
   ],
   "nearest_airport_km": 83.2,
@@ -295,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

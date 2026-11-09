@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iii)(vi)(ix)"
 lat: 51.0
 lon: -95.0
-updated_at: "2026-11-09T12:01:05Z"
+updated_at: "2026-11-09T12:50:24Z"
 ---
 
 # 皮玛希旺·阿奇 / Pimachiowin Aki

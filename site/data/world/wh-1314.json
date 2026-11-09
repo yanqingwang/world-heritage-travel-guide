@@ -3,7 +3,7 @@
  "unesco_id": "1314",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 903,
+ "popularity_rank": 937,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -26,10 +26,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "DE-NI",
- "subdivision_zh": "下萨克森州",
- "subdivision_en": "Lower Saxony",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "瓦登海",
  "name_zh_source": "curated",
  "name_en": "Wadden Sea",
@@ -74,7 +74,8 @@
     "lat": 53.59639,
     "lon": 6.709167,
     "type": "small_airport",
-    "distance_km": 13.5
+    "distance_km": 13.5,
+    "name_zh": "博尔库姆飞行场"
    },
    {
     "name": "Juist Airport",
@@ -189,5 +190,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

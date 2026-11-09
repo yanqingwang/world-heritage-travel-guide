@@ -3,7 +3,7 @@
  "unesco_id": "1573",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 973,
+ "popularity_rank": 989,
  "popularity_score": null,
  "country": "PT",
  "country_zh": "葡萄牙",
@@ -82,7 +82,8 @@
     "lat": 38.7813,
     "lon": -9.13592,
     "type": "large_airport",
-    "distance_km": 23.9
+    "distance_km": 23.9,
+    "name_zh": "里斯本机场"
    },
    {
     "name": "Portimão Airport",
@@ -172,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

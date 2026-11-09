@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ii)(iv)(vi)"
 lat: 50.4625
 lon: 3.54611
-updated_at: "2026-11-09T12:01:04Z"
+updated_at: "2026-11-09T12:50:24Z"
 ---
 
 # 北部-加萊海峽的採礦盆地 / Nord-Pas de Calais Mining Basin

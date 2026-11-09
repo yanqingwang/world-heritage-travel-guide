@@ -3,8 +3,8 @@
  "unesco_id": "695",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 182,
- "popularity_score": 57531,
+ "popularity_rank": 199,
+ "popularity_score": 62351,
  "country": "DK",
  "country_zh": "丹麦",
  "country_en": "Denmark",
@@ -106,7 +106,8 @@
     "lat": 55.617900848389,
     "lon": 12.656000137329,
     "type": "large_airport",
-    "distance_km": 36.2
+    "distance_km": 36.2,
+    "name_zh": "哥本哈根凯斯楚普机场"
    },
    {
     "name": "Malmö Sturup Airport",
@@ -116,7 +117,8 @@
     "lat": 55.535564,
     "lon": 13.376327,
     "type": "large_airport",
-    "distance_km": 82.3
+    "distance_km": 82.3,
+    "name_zh": "马尔默机场"
    }
   ],
   "nearest_airport_km": 7.1,
@@ -334,5 +336,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

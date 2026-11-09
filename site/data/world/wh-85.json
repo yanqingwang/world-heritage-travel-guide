@@ -3,8 +3,8 @@
  "unesco_id": "85",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 492,
- "popularity_score": 11477,
+ "popularity_rank": 523,
+ "popularity_score": 12560,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -72,7 +72,8 @@
     "lat": 45.039722,
     "lon": 1.485556,
     "type": "medium_airport",
-    "distance_km": 24.9
+    "distance_km": 24.9,
+    "name_zh": "布里夫-苏亚克机场"
    },
    {
     "name": "Bergerac Dordogne-Périgord airport",
@@ -82,7 +83,8 @@
     "lat": 44.825298,
     "lon": 0.518611,
     "type": "medium_airport",
-    "distance_km": 57.4
+    "distance_km": 57.4,
+    "name_zh": "贝尔热拉克多尔多涅佩里戈尔机场"
    },
    {
     "name": "Limoges Airport",
@@ -92,7 +94,8 @@
     "lat": 45.862801,
     "lon": 1.17944,
     "type": "medium_airport",
-    "distance_km": 89.5
+    "distance_km": 89.5,
+    "name_zh": "利摩日"
    }
   ],
   "nearest_airport_km": 24.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

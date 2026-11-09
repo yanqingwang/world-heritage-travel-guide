@@ -3,8 +3,8 @@
  "unesco_id": "1145",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 646,
- "popularity_score": 5628,
+ "popularity_rank": 695,
+ "popularity_score": 6034,
  "country": "KZ",
  "country_zh": "哈萨克斯坦",
  "country_en": "Kazakhstan",
@@ -72,7 +72,8 @@
     "lat": 43.061298,
     "lon": 74.4776,
     "type": "large_airport",
-    "distance_km": 118.7
+    "distance_km": 118.7,
+    "name_zh": "玛纳斯国际机场"
    },
    {
     "name": "Almaty International Airport",
@@ -82,7 +83,8 @@
     "lat": 43.354267,
     "lon": 77.042828,
     "type": "large_airport",
-    "distance_km": 131.3
+    "distance_km": 131.3,
+    "name_zh": "阿拉木图国际机场"
    },
    {
     "name": "Issyk-Kul International Airport",
@@ -92,7 +94,8 @@
     "lat": 42.585584,
     "lon": 76.701181,
     "type": "large_airport",
-    "distance_km": 165.1
+    "distance_km": 165.1,
+    "name_zh": "伊塞克湖国际机场"
    }
   ],
   "nearest_airport_km": 118.7,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

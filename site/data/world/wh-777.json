@@ -3,7 +3,7 @@
  "unesco_id": "777",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1148,
+ "popularity_rank": 1153,
  "popularity_score": null,
  "country": "AM",
  "country_zh": "亚美尼亚",
@@ -72,7 +72,8 @@
     "lat": 41.669201,
     "lon": 44.9547,
     "type": "large_airport",
-    "distance_km": 67.0
+    "distance_km": 67.0,
+    "name_zh": "第比利斯国际机场"
    },
    {
     "name": "Shirak International Airport",
@@ -82,7 +83,8 @@
     "lat": 40.750401,
     "lon": 43.859299,
     "type": "large_airport",
-    "distance_km": 81.1
+    "distance_km": 81.1,
+    "name_zh": "希拉克机场"
    },
    {
     "name": "Zvartnots International Airport",
@@ -92,7 +94,8 @@
     "lat": 40.148941,
     "lon": 44.397887,
     "type": "large_airport",
-    "distance_km": 108.5
+    "distance_km": 108.5,
+    "name_zh": "兹瓦尔特诺茨国际机场"
    }
   ],
   "nearest_airport_km": 67.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

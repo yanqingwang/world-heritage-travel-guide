@@ -3,8 +3,8 @@
  "unesco_id": "841",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 644,
- "popularity_score": 5657,
+ "popularity_rank": 688,
+ "popularity_score": 6170,
  "country": "CU",
  "country_zh": "古巴",
  "country_en": "Cuba",
@@ -72,7 +72,8 @@
     "lat": 19.97474,
     "lon": -75.835504,
     "type": "large_airport",
-    "distance_km": 3.7
+    "distance_km": 3.7,
+    "name_zh": "圣地亚哥-德古巴"
    },
    {
     "name": "Carlos Manuel de Cespedes Airport",
@@ -82,7 +83,8 @@
     "lat": 20.3964,
     "lon": -76.621399,
     "type": "medium_airport",
-    "distance_km": 91.7
+    "distance_km": 91.7,
+    "name_zh": "卡洛斯·曼努埃尔·德·塞斯佩德斯机场"
    },
    {
     "name": "Frank Pais International Airport",
@@ -92,7 +94,8 @@
     "lat": 20.785148,
     "lon": -76.315526,
     "type": "large_airport",
-    "distance_km": 102.0
+    "distance_km": 102.0,
+    "name_zh": "弗兰克帕里斯机场"
    }
   ],
   "nearest_airport_km": 3.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

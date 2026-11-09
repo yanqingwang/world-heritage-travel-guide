@@ -3,7 +3,7 @@
  "unesco_id": "717",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1133,
+ "popularity_rank": 1138,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 43.808558,
     "lon": 11.202822,
     "type": "large_airport",
-    "distance_km": 55.5
+    "distance_km": 55.5,
+    "name_zh": "佛罗伦萨－佩雷托拉机场"
    },
    {
     "name": "Pisa International Airport",
@@ -82,7 +83,8 @@
     "lat": 43.683899,
     "lon": 10.3927,
     "type": "large_airport",
-    "distance_km": 85.9
+    "distance_km": 85.9,
+    "name_zh": "比萨伽利略·伽利莱机场"
    },
    {
     "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
@@ -92,7 +94,8 @@
     "lat": 43.095901,
     "lon": 12.5132,
     "type": "large_airport",
-    "distance_km": 98.9
+    "distance_km": 98.9,
+    "name_zh": "佩鲁贾"
    }
   ],
   "nearest_airport_km": 55.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

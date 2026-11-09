@@ -3,8 +3,8 @@
  "unesco_id": "1267",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 109,
- "popularity_score": 106498,
+ "popularity_rank": 116,
+ "popularity_score": 120405,
  "country": "IS",
  "country_zh": "冰岛",
  "country_en": "Iceland",
@@ -96,7 +96,8 @@
     "lat": 64.128732,
     "lon": -21.93759,
     "type": "medium_airport",
-    "distance_km": 112.8
+    "distance_km": 112.8,
+    "name_zh": "雷克雅未克机场"
    },
    {
     "name": "Keflavik International Airport",
@@ -106,7 +107,8 @@
     "lat": 63.985001,
     "lon": -22.6056,
     "type": "large_airport",
-    "distance_km": 124.4
+    "distance_km": 124.4,
+    "name_zh": "凯夫拉维克国际机场"
    },
    {
     "name": "Hornafjörður Airport",
@@ -116,7 +118,8 @@
     "lat": 64.295601,
     "lon": -15.2272,
     "type": "medium_airport",
-    "distance_km": 286.0
+    "distance_km": 286.0,
+    "name_zh": "赫本机场"
    }
   ],
   "nearest_airport_km": 112.8,
@@ -276,5 +279,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1636",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 985,
+ "popularity_rank": 1001,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "DE-RP",
- "subdivision_zh": "莱茵兰-普法尔茨州",
- "subdivision_en": "Rhineland-Palatinate",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "施派尔、沃尔姆斯和美因茨的犹太社区遗址",
  "name_zh_source": "unesco_official",
  "name_en": "ShUM Sites of Speyer, Worms and Mainz",
@@ -72,7 +72,8 @@
     "lat": 49.473057,
     "lon": 8.514167,
     "type": "medium_airport",
-    "distance_km": 18.3
+    "distance_km": 18.3,
+    "name_zh": "曼海姆城市机场"
    },
    {
     "name": "Karlsruhe Baden-Baden Airport",
@@ -82,7 +83,8 @@
     "lat": 48.7794,
     "lon": 8.0805,
     "type": "large_airport",
-    "distance_km": 65.2
+    "distance_km": 65.2,
+    "name_zh": "卡尔斯鲁厄/巴登-巴登机场"
    },
    {
     "name": "Frankfurt Main Airport",
@@ -92,7 +94,8 @@
     "lat": 50.026706,
     "lon": 8.55835,
     "type": "large_airport",
-    "distance_km": 79.5
+    "distance_km": 79.5,
+    "name_zh": "法兰克福机场"
    }
   ],
   "nearest_airport_km": 18.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

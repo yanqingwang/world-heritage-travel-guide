@@ -3,8 +3,8 @@
  "unesco_id": "76",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 73,
- "popularity_score": 158832,
+ "popularity_rank": 88,
+ "popularity_score": 166446,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 25.796011,
     "lon": -80.289751,
     "type": "large_airport",
-    "distance_km": 67.0
+    "distance_km": 67.0,
+    "name_zh": "迈亚密国际机场"
    },
    {
     "name": "Miami-Opa Locka Executive Airport",
@@ -106,7 +107,8 @@
     "lat": 25.907,
     "lon": -80.278397,
     "type": "medium_airport",
-    "distance_km": 77.8
+    "distance_km": 77.8,
+    "name_zh": "迈阿密-奥帕克洛克行政机场"
    },
    {
     "name": "Fort Lauderdale Hollywood International Airport",
@@ -116,7 +118,8 @@
     "lat": 26.072599,
     "lon": -80.152702,
     "type": "large_airport",
-    "distance_km": 100.1
+    "distance_km": 100.1,
+    "name_zh": "劳德代尔堡－好莱坞国际机场"
    }
   ],
   "nearest_airport_km": 67.0,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

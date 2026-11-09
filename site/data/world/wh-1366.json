@@ -3,8 +3,8 @@
  "unesco_id": "1366",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 207,
- "popularity_score": 42827,
+ "popularity_rank": 225,
+ "popularity_score": 46874,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -96,7 +96,8 @@
     "lat": 40.8559,
     "lon": 25.956301,
     "type": "medium_airport",
-    "distance_km": 104.4
+    "distance_km": 104.4,
+    "name_zh": "亚历山德鲁波利斯德谟克利特国际机场"
    },
    {
     "name": "Burgas Airport",
@@ -106,7 +107,8 @@
     "lat": 42.569917,
     "lon": 27.515173,
     "type": "large_airport",
-    "distance_km": 126.7
+    "distance_km": 126.7,
+    "name_zh": "布尔加斯机场"
    },
    {
     "name": "Tekirdağ Çorlu Airport",
@@ -116,7 +118,8 @@
     "lat": 41.138199,
     "lon": 27.9191,
     "type": "medium_airport",
-    "distance_km": 128.3
+    "distance_km": 128.3,
+    "name_zh": "乔尔卢"
    }
   ],
   "nearest_airport_km": 104.4,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

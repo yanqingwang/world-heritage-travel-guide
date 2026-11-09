@@ -3,8 +3,8 @@
  "unesco_id": "1130",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 107,
- "popularity_score": 107288,
+ "popularity_rank": 121,
+ "popularity_score": 117278,
  "country": "IQ",
  "country_zh": "伊拉克",
  "country_en": "Iraq",
@@ -96,7 +96,8 @@
     "lat": 35.469501,
     "lon": 44.3489,
     "type": "large_airport",
-    "distance_km": 98.4
+    "distance_km": 98.4,
+    "name_zh": "基尔库克国际机场"
    },
    {
     "name": "Erbil International Airport",
@@ -106,7 +107,8 @@
     "lat": 36.236047,
     "lon": 43.946615,
     "type": "large_airport",
-    "distance_km": 106.4
+    "distance_km": 106.4,
+    "name_zh": "艾比尔国际机场"
    },
    {
     "name": "Jalal Talabani International Airport",
@@ -116,7 +118,8 @@
     "lat": 35.560487,
     "lon": 45.315137,
     "type": "medium_airport",
-    "distance_km": 186.2
+    "distance_km": 186.2,
+    "name_zh": "苏莱曼尼亚"
    }
   ],
   "nearest_airport_km": 98.4,
@@ -273,5 +276,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "648",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 639,
- "popularity_score": 5747,
+ "popularity_rank": 683,
+ "popularity_score": 6295,
  "country": "PY",
  "country_zh": "巴拉圭",
  "country_en": "Paraguay",
@@ -72,7 +72,8 @@
     "lat": -27.227537,
     "lon": -55.837584,
     "type": "large_airport",
-    "distance_km": 20.8
+    "distance_km": 20.8,
+    "name_zh": "Teniente Amin Ayub Gonzalez机场"
    },
    {
     "name": "Libertador Gral D Jose De San Martin Airport",
@@ -82,7 +83,8 @@
     "lat": -27.3858,
     "lon": -55.9707,
     "type": "medium_airport",
-    "distance_km": 42.5
+    "distance_km": 42.5,
+    "name_zh": "胡塞·德·圣马丁解放者将军机场"
    },
    {
     "name": "Luis Alberto Lehr Airport",
@@ -92,7 +94,8 @@
     "lat": -27.90658,
     "lon": -54.520628,
     "type": "small_airport",
-    "distance_km": 154.0
+    "distance_km": 154.0,
+    "name_zh": "圣罗莎机场"
    }
   ],
   "nearest_airport_km": 20.8,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

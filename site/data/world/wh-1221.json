@@ -3,7 +3,7 @@
  "unesco_id": "1221",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 880,
+ "popularity_rank": 917,
  "popularity_score": null,
  "country": "CA",
  "country_zh": "加拿大",
@@ -72,7 +72,8 @@
     "lat": 45.322498,
     "lon": -75.669197,
     "type": "large_airport",
-    "distance_km": 37.3
+    "distance_km": 37.3,
+    "name_zh": "渥太华麦克唐纳－卡蒂埃国际机场"
    },
    {
     "name": "Ogdensburg International Airport",
@@ -82,7 +83,8 @@
     "lat": 44.6819,
     "lon": -75.4655,
     "type": "medium_airport",
-    "distance_km": 42.0
+    "distance_km": 42.0,
+    "name_zh": "奥格登斯堡国际机场"
    },
    {
     "name": "Ottawa / Rockcliffe Airport",
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

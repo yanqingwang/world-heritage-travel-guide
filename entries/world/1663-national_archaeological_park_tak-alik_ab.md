@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iii)"
 lat: 14.645833333
 lon: -91.736111111
-updated_at: "2026-11-09T12:01:06Z"
+updated_at: "2026-11-09T12:50:26Z"
 ---
 
 # 塔卡利克·阿巴赫国家考古公园 / National Archaeological Park Tak’alik Ab’aj

@@ -3,8 +3,8 @@
  "unesco_id": "269",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 665,
- "popularity_score": 4933,
+ "popularity_rank": 711,
+ "popularity_score": 5342,
  "country": "CH",
  "country_zh": "瑞士",
  "country_en": "Switzerland",
@@ -72,7 +72,8 @@
     "lat": 46.459245,
     "lon": 11.326125,
     "type": "medium_airport",
-    "distance_km": 69.8
+    "distance_km": 69.8,
+    "name_zh": "波尔查诺机场"
    },
    {
     "name": "Innsbruck Airport",
@@ -82,7 +83,8 @@
     "lat": 47.260201,
     "lon": 11.344,
     "type": "large_airport",
-    "distance_km": 97.7
+    "distance_km": 97.7,
+    "name_zh": "因斯布鲁克机场"
    },
    {
     "name": "Sankt Gallen Altenrhein Airport",
@@ -92,7 +94,8 @@
     "lat": 47.485001,
     "lon": 9.56077,
     "type": "medium_airport",
-    "distance_km": 116.5
+    "distance_km": 116.5,
+    "name_zh": "圣加仑-阿尔滕莱茵机场"
    }
   ],
   "nearest_airport_km": 69.8,
@@ -175,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

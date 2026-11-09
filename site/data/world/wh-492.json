@@ -3,7 +3,7 @@
  "unesco_id": "492",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1084,
+ "popularity_rank": 1095,
  "popularity_score": null,
  "country": "US",
  "country_zh": "美国",
@@ -74,7 +74,8 @@
     "lat": 35.6171,
     "lon": -106.088997,
     "type": "medium_airport",
-    "distance_km": 103.8
+    "distance_km": 103.8,
+    "name_zh": "圣菲市立机场"
    },
    {
     "name": "San Luis Valley Regional Airport/Bergman Field",
@@ -84,7 +85,8 @@
     "lat": 37.434898,
     "lon": -105.866997,
     "type": "medium_airport",
-    "distance_km": 114.5
+    "distance_km": 114.5,
+    "name_zh": "圣路易斯谷支线机场"
    }
   ],
   "nearest_airport_km": 12.2,
@@ -164,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1195",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 757,
- "popularity_score": 2723,
+ "popularity_rank": 802,
+ "popularity_score": 2908,
  "country": "NO",
  "country_zh": "挪威",
  "country_en": "Norway",
@@ -82,7 +82,8 @@
     "lat": 61.391102,
     "lon": 5.75694,
     "type": "small_airport",
-    "distance_km": 80.7
+    "distance_km": 80.7,
+    "name_zh": "弗勒Bringeland机场"
    },
    {
     "name": "Sandane Airport, Anda",
@@ -92,7 +93,8 @@
     "lat": 61.830002,
     "lon": 6.10583,
     "type": "small_airport",
-    "distance_km": 106.7
+    "distance_km": 106.7,
+    "name_zh": "安达桑纳讷机场"
    }
   ],
   "nearest_airport_km": 22.8,
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

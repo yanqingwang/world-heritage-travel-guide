@@ -3,7 +3,7 @@
  "unesco_id": "231",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1033,
+ "popularity_rank": 1049,
  "popularity_score": null,
  "country": "IN",
  "country_zh": "印度",
@@ -74,7 +74,8 @@
     "lat": 28.55563,
     "lon": 77.09519,
     "type": "large_airport",
-    "distance_km": 18.1
+    "distance_km": 18.1,
+    "name_zh": "英迪拉·甘地国际机场"
    },
    {
     "name": "Noida International Airport",
@@ -84,7 +85,8 @@
     "lat": 28.179868,
     "lon": 77.611843,
     "type": "large_airport",
-    "distance_km": 64.2
+    "distance_km": 64.2,
+    "name_zh": "诺伊达国际机场"
    }
   ],
   "nearest_airport_km": 12.9,
@@ -166,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

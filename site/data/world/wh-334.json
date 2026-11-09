@@ -3,8 +3,8 @@
  "unesco_id": "334",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 744,
- "popularity_score": 3153,
+ "popularity_rank": 785,
+ "popularity_score": 3534,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -72,7 +72,8 @@
     "lat": -19.63571,
     "lon": -43.966928,
     "type": "large_airport",
-    "distance_km": 97.6
+    "distance_km": 97.6,
+    "name_zh": "坦克雷多·内韦斯国际机场"
    },
    {
     "name": "Presidente Itamar Franco Airport",
@@ -82,7 +83,8 @@
     "lat": -21.513086,
     "lon": -43.173069,
     "type": "medium_airport",
-    "distance_km": 132.6
+    "distance_km": 132.6,
+    "name_zh": "左纳马塔地方机场"
    },
    {
     "name": "Francisco de Assis Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

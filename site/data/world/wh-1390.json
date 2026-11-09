@@ -3,8 +3,8 @@
  "unesco_id": "1390",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 659,
- "popularity_score": 5231,
+ "popularity_rank": 700,
+ "popularity_score": 5902,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -72,7 +72,8 @@
     "lat": 44.547458,
     "lon": 7.623045,
     "type": "medium_airport",
-    "distance_km": 31.6
+    "distance_km": 31.6,
+    "name_zh": "库内奥国际机场"
    },
    {
     "name": "Turin Airport",
@@ -82,7 +83,8 @@
     "lat": 45.200802,
     "lon": 7.64963,
     "type": "large_airport",
-    "distance_km": 66.8
+    "distance_km": 66.8,
+    "name_zh": "都灵机场"
    },
    {
     "name": "Genoa Cristoforo Colombo Airport",
@@ -92,7 +94,8 @@
     "lat": 44.412039,
     "lon": 8.840732,
     "type": "large_airport",
-    "distance_km": 72.2
+    "distance_km": 72.2,
+    "name_zh": "热那亚－克里斯托弗·哥伦布机场"
    }
   ],
   "nearest_airport_km": 31.6,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "167",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 579,
- "popularity_score": 8183,
+ "popularity_rank": 620,
+ "popularity_score": 8903,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -72,7 +72,8 @@
     "lat": -34.229198455799995,
     "lon": 142.085998535,
     "type": "medium_airport",
-    "distance_km": 115.7
+    "distance_km": 115.7,
+    "name_zh": "米尔迪拉机场"
    },
    {
     "name": "Broken Hill Airport",
@@ -82,7 +83,8 @@
     "lat": -32.0013999939,
     "lon": 141.472000122,
     "type": "medium_airport",
-    "distance_km": 235.6
+    "distance_km": 235.6,
+    "name_zh": "布罗肯希尔机场"
    },
    {
     "name": "Griffith Airport",
@@ -92,7 +94,8 @@
     "lat": -34.2508010864,
     "lon": 146.067001343,
     "type": "medium_airport",
-    "distance_km": 282.5
+    "distance_km": 282.5,
+    "name_zh": "葛瑞菲斯机场"
    }
   ],
   "nearest_airport_km": 115.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

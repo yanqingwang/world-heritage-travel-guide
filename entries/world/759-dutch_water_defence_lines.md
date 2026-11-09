@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(iv)(v)"
 lat: 52.058611111
 lon: 5.168330555
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 荷兰水防线 / Dutch Water Defence Lines

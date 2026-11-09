@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 32.59722
 lon: 35.18222
-updated_at: "2026-11-09T12:01:03Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 米吉多、夏琐和基色圣地 / Biblical Tels - Megiddo, Hazor, Beer Sheba

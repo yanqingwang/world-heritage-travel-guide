@@ -3,8 +3,8 @@
  "unesco_id": "1306",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 763,
- "popularity_score": 2314,
+ "popularity_rank": 370,
+ "popularity_score": 22391,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -72,7 +72,8 @@
     "lat": -33.883461,
     "lon": 150.712981,
     "type": "large_airport",
-    "distance_km": 61.9
+    "distance_km": 61.9,
+    "name_zh": "西悉尼机场"
    },
    {
     "name": "Sydney Kingsford Smith International Airport",
@@ -82,7 +83,8 @@
     "lat": -33.946098,
     "lon": 151.177002,
     "type": "large_airport",
-    "distance_km": 65.4
+    "distance_km": 65.4,
+    "name_zh": "悉尼机场"
    },
    {
     "name": "Newcastle Airport",
@@ -92,7 +94,8 @@
     "lat": -32.796114,
     "lon": 151.835025,
     "type": "large_airport",
-    "distance_km": 101.6
+    "distance_km": 101.6,
+    "name_zh": "纽卡索机场"
    }
   ],
   "nearest_airport_km": 61.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

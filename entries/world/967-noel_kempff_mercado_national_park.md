@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ix)(x)"
 lat: -14.23028
 lon: -60.84667
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 挪尔•肯普夫墨卡多国家公园 / Noel Kempff Mercado National Park

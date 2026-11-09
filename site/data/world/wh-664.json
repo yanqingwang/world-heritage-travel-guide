@@ -3,7 +3,7 @@
  "unesco_id": "664",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1123,
+ "popularity_rank": 1128,
  "popularity_score": null,
  "country": "ES",
  "country_zh": "西班牙",
@@ -72,7 +72,8 @@
     "lat": 38.8913,
     "lon": -6.82133,
     "type": "medium_airport",
-    "distance_km": 41.9
+    "distance_km": 41.9,
+    "name_zh": "巴达霍斯机场"
    },
    {
     "name": "Seville Airport",
@@ -82,7 +83,8 @@
     "lat": 37.417999,
     "lon": -5.89311,
     "type": "large_airport",
-    "distance_km": 171.1
+    "distance_km": 171.1,
+    "name_zh": "塞维亚"
    },
    {
     "name": "Córdoba Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "715",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 346,
- "popularity_score": 20435,
+ "popularity_rank": 374,
+ "popularity_score": 21985,
  "country": "CL",
  "country_zh": "智利",
  "country_en": "Chile",
@@ -72,7 +72,8 @@
     "lat": -27.165411,
     "lon": -109.421027,
     "type": "large_airport",
-    "distance_km": 12.5
+    "distance_km": 12.5,
+    "name_zh": "马塔维里国际机场"
    }
   ],
   "nearest_airport_km": 12.5,
@@ -152,5 +153,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

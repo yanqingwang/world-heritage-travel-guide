@@ -3,8 +3,8 @@
  "unesco_id": "685",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 323,
- "popularity_score": 22846,
+ "popularity_rank": 342,
+ "popularity_score": 25190,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 36.744598,
     "lon": -6.06011,
     "type": "medium_airport",
-    "distance_km": 45.6
+    "distance_km": 45.6,
+    "name_zh": "赫雷斯机场"
    },
    {
     "name": "Seville Airport",
@@ -82,7 +83,8 @@
     "lat": 37.417999,
     "lon": -5.89311,
     "type": "large_airport",
-    "distance_km": 65.6
+    "distance_km": 65.6,
+    "name_zh": "塞维亚"
    },
    {
     "name": "Faro - Gago Coutinho International Airport",
@@ -92,7 +94,8 @@
     "lat": 37.015909,
     "lon": -7.970939,
     "type": "large_airport",
-    "distance_km": 135.9
+    "distance_km": 135.9,
+    "name_zh": "法鲁机场"
    }
   ],
   "nearest_airport_km": 45.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

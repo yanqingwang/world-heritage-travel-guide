@@ -3,8 +3,8 @@
  "unesco_id": "365",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 585,
- "popularity_score": 7993,
+ "popularity_rank": 595,
+ "popularity_score": 10049,
  "country": "ZW",
  "country_zh": "津巴布韦",
  "country_en": "Zimbabwe",
@@ -72,7 +72,8 @@
     "lat": -20.016284,
     "lon": 28.622897,
     "type": "large_airport",
-    "distance_km": 25.2
+    "distance_km": 25.2,
+    "name_zh": "Joshua Mqabuko Nkomo国际机场"
    },
    {
     "name": "Phillip Gaonwe Matante International Airport",
@@ -82,7 +83,8 @@
     "lat": -21.159183,
     "lon": 27.468826,
     "type": "large_airport",
-    "distance_km": 150.4
+    "distance_km": 150.4,
+    "name_zh": "弗朗西斯敦机场"
    },
    {
     "name": "Victoria Falls International Airport",
@@ -92,7 +94,8 @@
     "lat": -18.097437,
     "lon": 25.836867,
     "type": "large_airport",
-    "distance_km": 354.4
+    "distance_km": 354.4,
+    "name_zh": "维多利亚瀑布城机场"
    }
   ],
   "nearest_airport_km": 25.2,
@@ -186,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

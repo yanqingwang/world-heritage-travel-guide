@@ -3,8 +3,8 @@
  "unesco_id": "195",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 539,
- "popularity_score": 9701,
+ "popularity_rank": 573,
+ "popularity_score": 10640,
  "country": "CI",
  "country_zh": "科特迪瓦",
  "country_en": "Ivory Coast",
@@ -82,7 +82,8 @@
     "lat": 7.7388,
     "lon": -5.07367,
     "type": "medium_airport",
-    "distance_km": 316.2
+    "distance_km": 316.2,
+    "name_zh": "布瓦凯机场"
    },
    {
     "name": "Félix-Houphouët-Boigny International Airport",
@@ -92,7 +93,8 @@
     "lat": 5.26139,
     "lon": -3.92629,
     "type": "large_airport",
-    "distance_km": 357.6
+    "distance_km": 357.6,
+    "name_zh": "阿必尚国际机场"
    }
   ],
   "nearest_airport_km": 122.6,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -72,7 +72,8 @@
     "lat": 43.538898,
     "lon": 16.298,
     "type": "large_airport",
-    "distance_km": 11.9
+    "distance_km": 11.9,
+    "name_zh": "斯普利特机场"
    },
    {
     "name": "Brač Airport",
@@ -82,7 +83,8 @@
     "lat": 43.284454,
     "lon": 16.678362,
     "type": "medium_airport",
-    "distance_km": 31.5
+    "distance_km": 31.5,
+    "name_zh": "布拉奇机场"
    },
    {
     "name": "Zadar Airport",
@@ -92,7 +94,8 @@
     "lat": 44.096986,
     "lon": 15.353565,
     "type": "large_airport",
-    "distance_km": 109.0
+    "distance_km": 109.0,
+    "name_zh": "扎达尔机场"
    }
   ],
   "nearest_airport_km": 11.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

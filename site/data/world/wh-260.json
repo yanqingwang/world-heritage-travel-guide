@@ -3,8 +3,8 @@
  "unesco_id": "260",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 684,
- "popularity_score": 4571,
+ "popularity_rank": 728,
+ "popularity_score": 4954,
  "country": "EC",
  "country_zh": "厄瓜多尔",
  "country_en": "Ecuador",
@@ -82,7 +82,8 @@
     "lat": -0.906833,
     "lon": -78.615799,
     "type": "medium_airport",
-    "distance_km": 107.7
+    "distance_km": 107.7,
+    "name_zh": "拉塔昆加"
    },
    {
     "name": "Mariscal Lamar Airport",
@@ -92,7 +93,8 @@
     "lat": -2.88947,
     "lon": -78.984398,
     "type": "medium_airport",
-    "distance_km": 137.9
+    "distance_km": 137.9,
+    "name_zh": "Mariscal Lamar国际机场"
    }
   ],
   "nearest_airport_km": 56.9,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

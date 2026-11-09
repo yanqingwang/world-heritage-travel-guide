@@ -3,8 +3,8 @@
  "unesco_id": "934",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 785,
- "popularity_score": 1622,
+ "popularity_rank": 828,
+ "popularity_score": 1779,
  "country": "PT",
  "country_zh": "葡萄牙",
  "country_en": "Portugal",
@@ -72,7 +72,8 @@
     "lat": 32.697812,
     "lon": -16.774613,
     "type": "large_airport",
-    "distance_km": 22.4
+    "distance_km": 22.4,
+    "name_zh": "马德拉机场"
    },
    {
     "name": "Porto Santo Airport",
@@ -82,7 +83,8 @@
     "lat": 33.0733985901,
     "lon": -16.3500003815,
     "type": "medium_airport",
-    "distance_km": 69.6
+    "distance_km": 69.6,
+    "name_zh": "圣港机场"
    }
   ],
   "nearest_airport_km": 22.4,
@@ -162,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

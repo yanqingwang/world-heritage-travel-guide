@@ -3,8 +3,8 @@
  "unesco_id": "720",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 451,
- "popularity_score": 12981,
+ "popularity_rank": 502,
+ "popularity_score": 13426,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -17,7 +17,7 @@
  ],
  "region": "District of Darmstadt-Dieburg, State of Hesse (Hessen)",
  "subdivision_iso": "DE-HE",
- "subdivision_zh": "黑森州",
+ "subdivision_zh": "",
  "subdivision_en": "Hesse",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "麦塞尔化石遗址",
@@ -72,7 +72,8 @@
     "lat": 50.026706,
     "lon": 8.55835,
     "type": "large_airport",
-    "distance_km": 18.7
+    "distance_km": 18.7,
+    "name_zh": "法兰克福机场"
    },
    {
     "name": "Mannheim-City Airport",
@@ -82,7 +83,8 @@
     "lat": 49.473057,
     "lon": 8.514167,
     "type": "medium_airport",
-    "distance_km": 52.4
+    "distance_km": 52.4,
+    "name_zh": "曼海姆城市机场"
    },
    {
     "name": "Frankfurt-Hahn Airport",
@@ -92,7 +94,8 @@
     "lat": 49.946353,
     "lon": 7.261734,
     "type": "large_airport",
-    "distance_km": 107.0
+    "distance_km": 107.0,
+    "name_zh": "哈恩机场"
    }
   ],
   "nearest_airport_km": 18.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

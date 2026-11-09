@@ -3,8 +3,8 @@
  "unesco_id": "662",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 133,
- "popularity_score": 85107,
+ "popularity_rank": 145,
+ "popularity_score": 94235,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -96,7 +96,8 @@
     "lat": 30.385599,
     "lon": 130.658997,
     "type": "medium_airport",
-    "distance_km": 12.9
+    "distance_km": 12.9,
+    "name_zh": "屋久岛机场"
    },
    {
     "name": "New Tanegashima Airport",
@@ -106,7 +107,8 @@
     "lat": 30.605100631699997,
     "lon": 130.990997314,
     "type": "medium_airport",
-    "distance_km": 52.1
+    "distance_km": 52.1,
+    "name_zh": "种子岛机场"
    },
    {
     "name": "Kagoshima Airport",
@@ -116,7 +118,8 @@
     "lat": 31.8034,
     "lon": 130.718994,
     "type": "large_airport",
-    "distance_km": 161.7
+    "distance_km": 161.7,
+    "name_zh": "鹿儿岛机场"
    }
   ],
   "nearest_airport_km": 12.9,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1632",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 530,
- "popularity_score": 10154,
+ "popularity_rank": 561,
+ "popularity_score": 11163,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 40.733777,
     "lon": 140.689477,
     "type": "large_airport",
-    "distance_km": 38.7
+    "distance_km": 38.7,
+    "name_zh": "青森机场"
    },
    {
     "name": "Misawa Airport / Misawa Air Base",
@@ -82,7 +83,8 @@
     "lat": 40.703201,
     "lon": 141.367996,
     "type": "medium_airport",
-    "distance_km": 79.5
+    "distance_km": 79.5,
+    "name_zh": "三泽飞行场"
    },
    {
     "name": "Hakodate Airport",
@@ -92,7 +94,8 @@
     "lat": 41.77,
     "lon": 140.822006,
     "type": "large_airport",
-    "distance_km": 81.5
+    "distance_km": 81.5,
+    "name_zh": "函馆机场"
    }
   ],
   "nearest_airport_km": 38.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

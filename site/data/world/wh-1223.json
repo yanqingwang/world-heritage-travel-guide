@@ -3,8 +3,8 @@
  "unesco_id": "1223",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 551,
- "popularity_score": 9376,
+ "popularity_rank": 588,
+ "popularity_score": 10170,
  "country": "MY",
  "country_zh": "马来西亚",
  "country_en": "Malaysia",
@@ -72,7 +72,8 @@
     "lat": 3.90871,
     "lon": 108.388,
     "type": "medium_airport",
-    "distance_km": 144.8
+    "distance_km": 144.8,
+    "name_zh": "拉奈机场"
    },
    {
     "name": "Mukah Airport",
@@ -82,7 +83,8 @@
     "lat": 2.881944,
     "lon": 112.043333,
     "type": "medium_airport",
-    "distance_km": 325.9
+    "distance_km": 325.9,
+    "name_zh": "木胶机场"
    },
    {
     "name": "Kuching International Airport",
@@ -92,7 +94,8 @@
     "lat": 1.487364,
     "lon": 110.352859,
     "type": "large_airport",
-    "distance_km": 341.9
+    "distance_km": 341.9,
+    "name_zh": "古晋国际机场"
    }
   ],
   "nearest_airport_km": 144.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

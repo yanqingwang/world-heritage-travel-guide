@@ -3,8 +3,8 @@
  "unesco_id": "803",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 166,
- "popularity_score": 67298,
+ "popularity_rank": 186,
+ "popularity_score": 70232,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -96,7 +96,8 @@
     "lat": 41.8578,
     "lon": -6.70713,
     "type": "medium_airport",
-    "distance_km": 67.0
+    "distance_km": 67.0,
+    "name_zh": "布拉干萨机场"
    },
    {
     "name": "León Airport",
@@ -106,7 +107,8 @@
     "lat": 42.590709,
     "lon": -5.653406,
     "type": "medium_airport",
-    "distance_km": 91.8
+    "distance_km": 91.8,
+    "name_zh": "莱昂机场"
    },
    {
     "name": "Asturias Airport",
@@ -116,7 +118,8 @@
     "lat": 43.563599,
     "lon": -6.03462,
     "type": "large_airport",
-    "distance_km": 136.2
+    "distance_km": 136.2,
+    "name_zh": "奥维耶多"
    }
   ],
   "nearest_airport_km": 67.0,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "149",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 385,
- "popularity_score": 18026,
+ "popularity_rank": 414,
+ "popularity_score": 19290,
  "country": "GT",
  "country_zh": "危地马拉",
  "country_en": "Guatemala",
@@ -82,7 +82,8 @@
     "lat": 16.1024,
     "lon": -88.808296,
     "type": "small_airport",
-    "distance_km": 95.9
+    "distance_km": 95.9,
+    "name_zh": "潘塔哥达"
    },
    {
     "name": "Ramón Villeda Morales International Airport",
@@ -92,7 +93,8 @@
     "lat": 15.4526,
     "lon": -87.923599,
     "type": "large_airport",
-    "distance_km": 121.5
+    "distance_km": 121.5,
+    "name_zh": "圣佩德罗苏拉"
    }
   ],
   "nearest_airport_km": 70.9,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

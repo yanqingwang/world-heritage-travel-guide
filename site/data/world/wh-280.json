@@ -3,8 +3,8 @@
  "unesco_id": "280",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 555,
- "popularity_score": 9245,
+ "popularity_rank": 597,
+ "popularity_score": 10005,
  "country": "CD",
  "country_zh": "刚果民主共和国",
  "country_en": "Democratic Republic of the Congo",
@@ -72,7 +72,8 @@
     "lat": -0.286652,
     "lon": 20.883551,
     "type": "small_airport",
-    "distance_km": 191.0
+    "distance_km": 191.0,
+    "name_zh": "博恩代机场"
    },
    {
     "name": "Ilebo Airport",
@@ -176,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

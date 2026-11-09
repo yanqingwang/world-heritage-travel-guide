@@ -3,7 +3,7 @@
  "unesco_id": "1067",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 853,
+ "popularity_rank": 888,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -72,7 +72,8 @@
     "lat": 53.918201,
     "lon": 12.2783,
     "type": "medium_airport",
-    "distance_km": 67.8
+    "distance_km": 67.8,
+    "name_zh": "罗斯托克－拉格机场"
    },
    {
     "name": "Heringsdorf Airport",
@@ -92,7 +93,8 @@
     "lat": 55.063301,
     "lon": 14.7596,
     "type": "medium_airport",
-    "distance_km": 136.9
+    "distance_km": 136.9,
+    "name_zh": "波恩霍姆岛机场"
    }
   ],
   "nearest_airport_km": 67.8,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

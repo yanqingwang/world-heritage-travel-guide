@@ -3,8 +3,8 @@
  "unesco_id": "551",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 499,
- "popularity_score": 11211,
+ "popularity_rank": 532,
+ "popularity_score": 12195,
  "country": "NZ",
  "country_zh": "新西兰",
  "country_en": "New Zealand",
@@ -72,7 +72,8 @@
     "lat": -45.019205,
     "lon": 168.746379,
     "type": "large_airport",
-    "distance_km": 112.1
+    "distance_km": 112.1,
+    "name_zh": "皇后镇国际机场"
    },
    {
     "name": "Wanaka Airport",
@@ -92,7 +93,8 @@
     "lat": -46.41239929199219,
     "lon": 168.31300354003906,
     "type": "medium_airport",
-    "distance_km": 171.4
+    "distance_km": 171.4,
+    "name_zh": "因弗卡吉尔国际机场"
    }
   ],
   "nearest_airport_km": 112.1,
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

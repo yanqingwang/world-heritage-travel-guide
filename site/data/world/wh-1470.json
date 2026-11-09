@@ -3,7 +3,7 @@
  "unesco_id": "1470",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 943,
+ "popularity_rank": 968,
  "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "DE-ST",
- "subdivision_zh": "萨克森-安哈尔特州",
- "subdivision_en": "Saxony-Anhalt",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "瑙姆堡大教堂",
  "name_zh_source": "unesco_official",
  "name_en": "Naumburg Cathedral",
@@ -64,7 +64,8 @@
     "lat": 51.420657,
     "lon": 12.232705,
     "type": "large_airport",
-    "distance_km": 42.0
+    "distance_km": 42.0,
+    "name_zh": "莱比锡/哈雷机场"
    },
    {
     "name": "Erfurt-Weimar Airport",
@@ -74,7 +75,8 @@
     "lat": 50.978281,
     "lon": 10.960713,
     "type": "large_airport",
-    "distance_km": 62.1
+    "distance_km": 62.1,
+    "name_zh": "埃尔福特-魏玛机场"
    },
    {
     "name": "Karlovy Vary Airport",
@@ -84,7 +86,8 @@
     "lat": 50.202999,
     "lon": 12.915,
     "type": "large_airport",
-    "distance_km": 131.6
+    "distance_km": 131.6,
+    "name_zh": "卡罗维发利机场"
    }
   ],
   "nearest_airport_km": 42.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1744",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1009,
+ "popularity_rank": 1025,
  "popularity_score": null,
  "country": "IR",
  "country_zh": "伊朗",
@@ -64,7 +64,8 @@
     "lat": 33.43539810180664,
     "lon": 48.282901763916016,
     "type": "medium_airport",
-    "distance_km": 4.7
+    "distance_km": 4.7,
+    "name_zh": "霍拉马巴德机场"
    },
    {
     "name": "Dezful Airport",
@@ -74,7 +75,8 @@
     "lat": 32.434399,
     "lon": 48.397598,
     "type": "medium_airport",
-    "distance_km": 115.0
+    "distance_km": 115.0,
+    "name_zh": "迪兹富勒机场"
    },
    {
     "name": "Shahid Ashrafi Esfahani Airport",
@@ -84,7 +86,8 @@
     "lat": 34.3459014893,
     "lon": 47.1581001282,
     "type": "medium_airport",
-    "distance_km": 144.9
+    "distance_km": 144.9,
+    "name_zh": "克尔曼沙赫"
    }
   ],
   "nearest_airport_km": 4.7,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

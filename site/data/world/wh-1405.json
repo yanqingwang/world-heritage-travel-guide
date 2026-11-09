@@ -3,8 +3,8 @@
  "unesco_id": "1405",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 40,
- "popularity_score": 229132,
+ "popularity_rank": 47,
+ "popularity_score": 252765,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -96,7 +96,8 @@
     "lat": 37.979,
     "lon": 32.561901,
     "type": "large_airport",
-    "distance_km": 41.8
+    "distance_km": 41.8,
+    "name_zh": "科尼亚"
    },
    {
     "name": "Gazipaşa-Alanya Airport",
@@ -106,7 +107,8 @@
     "lat": 36.298832,
     "lon": 32.297017,
     "type": "medium_airport",
-    "distance_km": 159.3
+    "distance_km": 159.3,
+    "name_zh": "阿拉尼亚"
    },
    {
     "name": "Nevşehir Kapadokya Airport",
@@ -116,7 +118,8 @@
     "lat": 38.7719,
     "lon": 34.5345,
     "type": "large_airport",
-    "distance_km": 193.1
+    "distance_km": 193.1,
+    "name_zh": "内夫谢希尔-卡帕多细亚机场"
    }
   ],
   "nearest_airport_km": 41.8,
@@ -290,5 +293,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "635",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 333,
- "popularity_score": 21946,
+ "popularity_rank": 354,
+ "popularity_score": 24218,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -72,7 +72,8 @@
     "lat": 47.432201,
     "lon": 0.727606,
     "type": "medium_airport",
-    "distance_km": 132.0
+    "distance_km": 132.0,
+    "name_zh": "都尔卢瓦尔河机场"
    },
    {
     "name": "Clermont-Ferrand Auvergne airport",
@@ -82,7 +83,8 @@
     "lat": 45.786701,
     "lon": 3.16917,
     "type": "large_airport",
-    "distance_km": 155.7
+    "distance_km": 155.7,
+    "name_zh": "克莱蒙费朗"
    },
    {
     "name": "Limoges Airport",
@@ -92,7 +94,8 @@
     "lat": 45.862801,
     "lon": 1.17944,
     "type": "medium_airport",
-    "distance_km": 164.6
+    "distance_km": 164.6,
+    "name_zh": "利摩日"
    }
   ],
   "nearest_airport_km": 132.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

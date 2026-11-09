@@ -3,8 +3,8 @@
  "unesco_id": "34",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 804,
- "popularity_score": 1234,
+ "popularity_rank": 849,
+ "popularity_score": 1328,
  "country": "GH",
  "country_zh": "加纳",
  "country_en": "Ghana",
@@ -72,7 +72,8 @@
     "lat": 4.896059989929199,
     "lon": -1.7747600078582764,
     "type": "medium_airport",
-    "distance_km": 63.5
+    "distance_km": 63.5,
+    "name_zh": "塔科拉迪"
    },
    {
     "name": "Kotoka International Airport",
@@ -82,7 +83,8 @@
     "lat": 5.605189800262451,
     "lon": -0.16678600013256073,
     "type": "large_airport",
-    "distance_km": 131.4
+    "distance_km": 131.4,
+    "name_zh": "科托卡国际机场"
    },
    {
     "name": "Prempeh I International Airport",
@@ -92,7 +94,8 @@
     "lat": 6.71456,
     "lon": -1.59082,
     "type": "large_airport",
-    "distance_km": 183.3
+    "distance_km": 183.3,
+    "name_zh": "库马西"
    }
   ],
   "nearest_airport_km": 63.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

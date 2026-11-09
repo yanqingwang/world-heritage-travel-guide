@@ -3,7 +3,7 @@
  "unesco_id": "1464",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 940,
+ "popularity_rank": 965,
  "popularity_score": null,
  "country": "UY",
  "country_zh": "乌拉圭",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "UY-RN",
- "subdivision_zh": "内格罗河省",
- "subdivision_en": "Río Negro",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "弗莱本托斯文化工业景区",
  "name_zh_source": "unesco_official",
  "name_en": "Fray Bentos Industrial Landscape",
@@ -64,7 +64,8 @@
     "lat": -34.559419,
     "lon": -58.415536,
     "type": "large_airport",
-    "distance_km": 160.5
+    "distance_km": 160.5,
+    "name_zh": "豪尔赫·纽伯里机场"
    },
    {
     "name": "Ezeiza International Airport - Ministro Pistarini",
@@ -74,7 +75,8 @@
     "lat": -34.8222,
     "lon": -58.5358,
     "type": "large_airport",
-    "distance_km": 190.5
+    "distance_km": 190.5,
+    "name_zh": "皮斯塔里尼部长国际机场"
    },
    {
     "name": "Rosario Islas Malvinas International Airport",
@@ -84,7 +86,8 @@
     "lat": -32.9036,
     "lon": -60.785,
     "type": "large_airport",
-    "distance_km": 230.0
+    "distance_km": 230.0,
+    "name_zh": "罗萨里奥—马尔维纳斯群岛国际机场"
    }
   ],
   "nearest_airport_km": 160.5,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

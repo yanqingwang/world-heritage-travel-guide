@@ -3,8 +3,8 @@
  "unesco_id": "344",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 82,
- "popularity_score": 147353,
+ "popularity_rank": 91,
+ "popularity_score": 160969,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -96,7 +96,8 @@
     "lat": 43.757401,
     "lon": 4.41635,
     "type": "medium_airport",
-    "distance_km": 23.2
+    "distance_km": 23.2,
+    "name_zh": "尼姆-阿莱-卡马尔格-塞文机场"
    },
    {
     "name": "Avignon Caumont airport",
@@ -106,7 +107,8 @@
     "lat": 43.907299,
     "lon": 4.90183,
     "type": "medium_airport",
-    "distance_km": 29.7
+    "distance_km": 29.7,
+    "name_zh": "亚维农-普罗旺斯机场"
    },
    {
     "name": "Montpellier-Méditerranée Airport",
@@ -116,7 +118,8 @@
     "lat": 43.576199,
     "lon": 3.96301,
     "type": "large_airport",
-    "distance_km": 61.8
+    "distance_km": 61.8,
+    "name_zh": "蒙佩利尔地中海机场"
    }
   ],
   "nearest_airport_km": 23.2,
@@ -318,5 +321,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

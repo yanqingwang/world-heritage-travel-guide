@@ -3,8 +3,8 @@
  "unesco_id": "950",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 432,
- "popularity_score": 14287,
+ "popularity_rank": 454,
+ "popularity_score": 16150,
  "country": "MG",
  "country_zh": "马达加斯加",
  "country_en": "Madagascar",
@@ -72,7 +72,8 @@
     "lat": -18.7969,
     "lon": 47.478802,
     "type": "large_airport",
-    "distance_km": 9.8
+    "distance_km": 9.8,
+    "name_zh": "塔那那利佛/伊瓦图国际机场"
    },
    {
     "name": "Toamasina Ambalamanasy Airport",
@@ -82,7 +83,8 @@
     "lat": -18.113537,
     "lon": 49.392262,
     "type": "large_airport",
-    "distance_km": 205.9
+    "distance_km": 205.9,
+    "name_zh": "图阿马西纳机场"
    },
    {
     "name": "Tsaratanana Airport",
@@ -92,7 +94,8 @@
     "lat": -16.751064,
     "lon": 47.619016,
     "type": "small_airport",
-    "distance_km": 223.4
+    "distance_km": 223.4,
+    "name_zh": "察拉坦那那机场"
    }
   ],
   "nearest_airport_km": 9.8,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

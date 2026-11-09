@@ -3,8 +3,8 @@
  "unesco_id": "1265",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 503,
- "popularity_score": 11107,
+ "popularity_rank": 531,
+ "popularity_score": 12199,
  "country": "ZA",
  "country_zh": "南非",
  "country_en": "South Africa",
@@ -92,7 +92,8 @@
     "lat": -28.400246,
     "lon": 21.263592,
     "type": "medium_airport",
-    "distance_km": 397.3
+    "distance_km": 397.3,
+    "name_zh": "阿平顿机场"
    }
   ],
   "nearest_airport_km": 74.0,
@@ -182,5 +183,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

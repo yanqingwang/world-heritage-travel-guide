@@ -3,8 +3,8 @@
  "unesco_id": "1179",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 677,
- "popularity_score": 4700,
+ "popularity_rank": 720,
+ "popularity_score": 5146,
  "country": "CH",
  "country_zh": "瑞士",
  "country_en": "Switzerland",
@@ -72,7 +72,8 @@
     "lat": 47.485001,
     "lon": 9.56077,
     "type": "medium_airport",
-    "distance_km": 67.4
+    "distance_km": 67.4,
+    "name_zh": "圣加仑-阿尔滕莱茵机场"
    },
    {
     "name": "Zürich Airport",
@@ -82,7 +83,8 @@
     "lat": 47.458056,
     "lon": 8.548056,
     "type": "large_airport",
-    "distance_km": 80.2
+    "distance_km": 80.2,
+    "name_zh": "苏黎世机场"
    },
    {
     "name": "Bodensee Airport Friedrichshafen",
@@ -92,7 +94,8 @@
     "lat": 47.671299,
     "lon": 9.51149,
     "type": "large_airport",
-    "distance_km": 86.2
+    "distance_km": 86.2,
+    "name_zh": "腓特烈港机场"
    }
   ],
   "nearest_airport_km": 67.4,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

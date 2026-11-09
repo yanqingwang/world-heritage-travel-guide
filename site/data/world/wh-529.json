@@ -3,8 +3,8 @@
  "unesco_id": "529",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 620,
- "popularity_score": 6405,
+ "popularity_rank": 659,
+ "popularity_score": 7029,
  "country": "BO",
  "country_zh": "玻利维亚",
  "country_en": "Bolivia",
@@ -72,7 +72,8 @@
     "lat": -17.6448,
     "lon": -63.135399,
     "type": "large_airport",
-    "distance_km": 166.3
+    "distance_km": 166.3,
+    "name_zh": "圣克鲁斯 (玻利维亚)"
    },
    {
     "name": "El Trompillo Airport",
@@ -175,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

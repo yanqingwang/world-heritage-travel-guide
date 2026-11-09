@@ -3,8 +3,8 @@
  "unesco_id": "196",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 612,
- "popularity_score": 6637,
+ "popularity_rank": 653,
+ "popularity_score": 7247,
  "country": "HN",
  "country_zh": "洪都拉斯",
  "country_en": "Honduras",
@@ -72,7 +72,8 @@
     "lat": 15.2622,
     "lon": -83.781197,
     "type": "small_airport",
-    "distance_km": 101.8
+    "distance_km": 101.8,
+    "name_zh": "伦皮拉港机场"
    },
    {
     "name": "La Laguna Airport",
@@ -82,7 +83,8 @@
     "lat": 16.4454,
     "lon": -85.906601,
     "type": "medium_airport",
-    "distance_km": 183.1
+    "distance_km": 183.1,
+    "name_zh": "瓜纳哈机场"
    },
    {
     "name": "Puerto Cabezas Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

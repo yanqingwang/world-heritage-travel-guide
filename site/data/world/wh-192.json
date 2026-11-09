@@ -3,8 +3,8 @@
  "unesco_id": "192",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 130,
- "popularity_score": 90048,
+ "popularity_rank": 143,
+ "popularity_score": 96229,
  "country": "YE",
  "country_zh": "也门",
  "country_en": "Yemen",
@@ -96,7 +96,8 @@
     "lat": 15.965887,
     "lon": 48.788146,
     "type": "large_airport",
-    "distance_km": 17.8
+    "distance_km": 17.8,
+    "name_zh": "赛文国际机场"
    },
    {
     "name": "Riyan International Airport",
@@ -106,7 +107,8 @@
     "lat": 14.662241,
     "lon": 49.375289,
     "type": "large_airport",
-    "distance_km": 161.9
+    "distance_km": 161.9,
+    "name_zh": "里扬机场"
    },
    {
     "name": "Sharurah Domestic Airport",
@@ -252,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

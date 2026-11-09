@@ -3,8 +3,8 @@
  "unesco_id": "544",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 329,
- "popularity_score": 22101,
+ "popularity_rank": 353,
+ "popularity_score": 24240,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -17,7 +17,7 @@
  ],
  "region": "Karelian Autonomous S.S.R., Medvezhjegorskij Region",
  "subdivision_iso": "RU-KR",
- "subdivision_zh": "卡累利阿共和国",
+ "subdivision_zh": "",
  "subdivision_en": "Karelia",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "基日岛的木结构教堂",
@@ -72,7 +72,8 @@
     "lat": 61.885201,
     "lon": 34.154701,
     "type": "medium_airport",
-    "distance_km": 59.4
+    "distance_km": 59.4,
+    "name_zh": "罗扎沃茨克机场"
    },
    {
     "name": "Joensuu Airport",
@@ -82,7 +83,8 @@
     "lat": 62.658815,
     "lon": 29.619398,
     "type": "medium_airport",
-    "distance_km": 296.3
+    "distance_km": 296.3,
+    "name_zh": "约恩苏机场"
    },
    {
     "name": "Savonlinna Airport",
@@ -92,7 +94,8 @@
     "lat": 61.9431,
     "lon": 28.945101,
     "type": "medium_airport",
-    "distance_km": 327.9
+    "distance_km": 327.9,
+    "name_zh": "萨翁林纳机场"
    }
   ],
   "nearest_airport_km": 59.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

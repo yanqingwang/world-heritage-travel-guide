@@ -3,8 +3,8 @@
  "unesco_id": "514",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 320,
- "popularity_score": 23081,
+ "popularity_rank": 348,
+ "popularity_score": 24730,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -72,7 +72,8 @@
     "lat": 58.957903,
     "lon": -2.905077,
     "type": "medium_airport",
-    "distance_km": 18.3
+    "distance_km": 18.3,
+    "name_zh": "柯克沃尔机场"
    },
    {
     "name": "Eday Airport",
@@ -82,7 +83,8 @@
     "lat": 59.19060134887695,
     "lon": -2.7722198963165283,
     "type": "medium_airport",
-    "distance_km": 33.2
+    "distance_km": 33.2,
+    "name_zh": "伊迪机场"
    },
    {
     "name": "Stronsay Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

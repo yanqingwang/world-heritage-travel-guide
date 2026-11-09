@@ -3,7 +3,7 @@
  "unesco_id": "426",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1076,
+ "popularity_rank": 1087,
  "popularity_score": null,
  "country": "GB",
  "country_zh": "英国",
@@ -72,7 +72,8 @@
     "lat": 51.505299,
     "lon": 0.055278,
     "type": "medium_airport",
-    "distance_km": 12.6
+    "distance_km": 12.6,
+    "name_zh": "伦敦城市机场"
    },
    {
     "name": "London Heathrow Airport",
@@ -82,7 +83,8 @@
     "lat": 51.470748,
     "lon": -0.459909,
     "type": "large_airport",
-    "distance_km": 23.3
+    "distance_km": 23.3,
+    "name_zh": "希思罗机场"
    },
    {
     "name": "London Gatwick Airport",
@@ -92,7 +94,8 @@
     "lat": 51.148744,
     "lon": -0.185739,
     "type": "large_airport",
-    "distance_km": 39.3
+    "distance_km": 39.3,
+    "name_zh": "盖特威克机场"
    }
   ],
   "nearest_airport_km": 12.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

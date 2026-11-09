@@ -3,8 +3,8 @@
  "unesco_id": "818",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 337,
- "popularity_score": 21586,
+ "popularity_rank": 363,
+ "popularity_score": 23426,
  "country": "NL",
  "country_zh": "荷兰王国",
  "country_en": "Kingdom of the Netherlands",
@@ -72,7 +72,8 @@
     "lat": 51.956902,
     "lon": 4.43722,
     "type": "large_airport",
-    "distance_km": 15.5
+    "distance_km": 15.5,
+    "name_zh": "鹿特丹海牙机场"
    },
    {
     "name": "Amsterdam Airport Schiphol",
@@ -82,7 +83,8 @@
     "lat": 52.308601,
     "lon": 4.76389,
     "type": "large_airport",
-    "distance_km": 47.5
+    "distance_km": 47.5,
+    "name_zh": "阿姆斯特丹史基浦机场"
    },
    {
     "name": "Eindhoven Airport",
@@ -92,7 +94,8 @@
     "lat": 51.4500999451,
     "lon": 5.37452983856,
     "type": "large_airport",
-    "distance_km": 70.6
+    "distance_km": 70.6,
+    "name_zh": "埃因霍温机场"
    }
   ],
   "nearest_airport_km": 15.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

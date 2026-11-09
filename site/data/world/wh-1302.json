@@ -3,7 +3,7 @@
  "unesco_id": "1302",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 898,
+ "popularity_rank": 935,
  "popularity_score": null,
  "country": "CH",
  "country_zh": "瑞士",
@@ -72,7 +72,8 @@
     "lat": 46.912736,
     "lon": 7.498819,
     "type": "medium_airport",
-    "distance_km": 57.6
+    "distance_km": 57.6,
+    "name_zh": "伯尔尼－贝尔普机场"
    },
    {
     "name": "EuroAirport Basel–Mulhouse–Freiburg",
@@ -82,7 +83,8 @@
     "lat": 47.60068,
     "lon": 7.521117,
     "type": "large_airport",
-    "distance_km": 80.4
+    "distance_km": 80.4,
+    "name_zh": "巴塞尔－米卢斯－弗赖堡欧洲机场"
    },
    {
     "name": "Dole Tavaux Airport",
@@ -92,7 +94,8 @@
     "lat": 47.038955,
     "lon": 5.427589,
     "type": "medium_airport",
-    "distance_km": 102.5
+    "distance_km": 102.5,
+    "name_zh": "多尔-汝拉机场"
    }
   ],
   "nearest_airport_km": 57.6,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

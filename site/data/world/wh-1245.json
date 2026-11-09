@@ -3,7 +3,7 @@
  "unesco_id": "1245",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 888,
+ "popularity_rank": 925,
  "popularity_score": null,
  "country": "SM",
  "country_zh": "圣马力诺",
@@ -72,7 +72,8 @@
     "lat": 44.020024,
     "lon": 12.612198,
     "type": "large_airport",
-    "distance_km": 16.1
+    "distance_km": 16.1,
+    "name_zh": "费德里柯·费里尼国际机场"
    },
    {
     "name": "Forlì-Luigi Ridolfi International Airport",
@@ -82,7 +83,8 @@
     "lat": 44.194801,
     "lon": 12.0701,
     "type": "medium_airport",
-    "distance_km": 42.2
+    "distance_km": 42.2,
+    "name_zh": "弗利机场"
    },
    {
     "name": "Marche Airport",
@@ -92,7 +94,8 @@
     "lat": 43.616299,
     "lon": 13.3623,
     "type": "medium_airport",
-    "distance_km": 81.1
+    "distance_km": 81.1,
+    "name_zh": "安科纳－法尔科纳拉机场"
    }
   ],
   "nearest_airport_km": 16.1,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iii)(iv)"
 lat: 48.296641666
 lon: 25.924905555
-updated_at: "2026-11-09T12:01:04Z"
+updated_at: "2026-11-09T12:50:24Z"
 ---
 
 # 布科维纳与达尔马提亚的城市民居 / Residence of Bukovinian and Dalmatian Metropolitans

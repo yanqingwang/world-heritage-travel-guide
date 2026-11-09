@@ -3,8 +3,8 @@
  "unesco_id": "739",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 334,
- "popularity_score": 21908,
+ "popularity_rank": 366,
+ "popularity_score": 23089,
  "country": "NL",
  "country_zh": "荷兰王国",
  "country_en": "Kingdom of the Netherlands",
@@ -64,7 +64,8 @@
     "lat": 53.119107,
     "lon": 6.577652,
     "type": "large_airport",
-    "distance_km": 76.0
+    "distance_km": 76.0,
+    "name_zh": "格罗宁根埃尔德机场"
    },
    {
     "name": "Amsterdam Airport Schiphol",
@@ -74,7 +75,8 @@
     "lat": 52.308601,
     "lon": 4.76389,
     "type": "large_airport",
-    "distance_km": 77.5
+    "distance_km": 77.5,
+    "name_zh": "阿姆斯特丹史基浦机场"
    },
    {
     "name": "Weeze (Niederrhein) Airport",
@@ -84,7 +86,8 @@
     "lat": 51.601362,
     "lon": 6.141228,
     "type": "large_airport",
-    "distance_km": 118.1
+    "distance_km": 118.1,
+    "name_zh": "韦策机场"
    }
   ],
   "nearest_airport_km": 76.0,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

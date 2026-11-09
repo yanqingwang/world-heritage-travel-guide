@@ -3,8 +3,8 @@
  "unesco_id": "1513",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 270,
- "popularity_score": 29445,
+ "popularity_rank": 286,
+ "popularity_score": 32340,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 27.3509,
     "lon": 87.69525,
     "type": "medium_airport",
-    "distance_km": 69.7
+    "distance_km": 69.7,
+    "name_zh": "地旁庄机场"
    },
    {
     "name": "Bagdogra Airport",
@@ -106,7 +107,8 @@
     "lat": 26.6812,
     "lon": 88.328598,
     "type": "large_airport",
-    "distance_km": 108.4
+    "distance_km": 108.4,
+    "name_zh": "巴格多格拉机场"
    },
    {
     "name": "Paro International Airport",
@@ -116,7 +118,8 @@
     "lat": 27.4032,
     "lon": 89.424599,
     "type": "large_airport",
-    "distance_km": 113.2
+    "distance_km": 113.2,
+    "name_zh": "帕罗机场"
    }
   ],
   "nearest_airport_km": 69.7,
@@ -253,5 +256,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

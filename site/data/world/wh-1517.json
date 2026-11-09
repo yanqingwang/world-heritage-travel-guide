@@ -3,8 +3,8 @@
  "unesco_id": "1517",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 113,
- "popularity_score": 105304,
+ "popularity_rank": 124,
+ "popularity_score": 115140,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -96,7 +96,8 @@
     "lat": 40.9133,
     "lon": 24.6192,
     "type": "large_airport",
-    "distance_km": 30.2
+    "distance_km": 30.2,
+    "name_zh": "卡瓦拉亚历山大大帝国际机场"
    },
    {
     "name": "Thessaloniki Macedonia International Airport",
@@ -106,7 +107,8 @@
     "lat": 40.51928,
     "lon": 22.970009,
     "type": "large_airport",
-    "distance_km": 123.5
+    "distance_km": 123.5,
+    "name_zh": "塞萨洛尼基马其顿国际机场"
    },
    {
     "name": "Plovdiv International Airport",
@@ -116,7 +118,8 @@
     "lat": 42.067799,
     "lon": 24.8508,
     "type": "large_airport",
-    "distance_km": 126.5
+    "distance_km": 126.5,
+    "name_zh": "普罗夫迪夫机场"
    }
   ],
   "nearest_airport_km": 30.2,
@@ -325,5 +328,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

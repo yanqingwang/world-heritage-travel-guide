@@ -3,8 +3,8 @@
  "unesco_id": "335",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 642,
- "popularity_score": 5703,
+ "popularity_rank": 687,
+ "popularity_score": 6177,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -72,7 +72,8 @@
     "lat": 30.189243,
     "lon": 78.176651,
     "type": "medium_airport",
-    "distance_km": 154.4
+    "distance_km": 154.4,
+    "name_zh": "Jolly Grant机场"
    },
    {
     "name": "Ngari Gunsa Airport",
@@ -82,7 +83,8 @@
     "lat": 32.09794,
     "lon": 80.053971,
     "type": "medium_airport",
-    "distance_km": 157.9
+    "distance_km": 157.9,
+    "name_zh": "阿里昆莎机场"
    },
    {
     "name": "Pantnagar Airport",
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

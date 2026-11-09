@@ -3,8 +3,8 @@
  "unesco_id": "433",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 471,
- "popularity_score": 12405,
+ "popularity_rank": 488,
+ "popularity_score": 13922,
  "country": "OM",
  "country_zh": "阿曼",
  "country_en": "Oman",
@@ -72,7 +72,8 @@
     "lat": 23.600218,
     "lon": 58.285268,
     "type": "large_airport",
-    "distance_km": 122.9
+    "distance_km": 122.9,
+    "name_zh": "马斯喀特国际机场"
    },
    {
     "name": "Suhar International Airport",
@@ -92,7 +93,8 @@
     "lat": 24.2617,
     "lon": 55.6092,
     "type": "large_airport",
-    "distance_km": 224.7
+    "distance_km": 224.7,
+    "name_zh": "艾因国际机场"
    }
   ],
   "nearest_airport_km": 122.9,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

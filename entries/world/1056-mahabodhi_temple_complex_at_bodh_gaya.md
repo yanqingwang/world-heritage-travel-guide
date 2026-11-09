@@ -8,13 +8,13 @@ country: "IN"
 country_zh: "印度"
 country_en: "India"
 unesco_id: "1056"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "2002"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 24.696004
 lon: 84.991358
-updated_at: "2026-11-09T12:01:03Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 菩提伽耶的摩诃菩提寺 / Mahabodhi Temple Complex at Bodh Gaya
@@ -27,21 +27,9 @@ updated_at: "2026-11-09T12:01:03Z"
 
 *Mahabodhitemple.jpg · see Wikimedia Commons file page*
 
-![2024-Apr Jing-an Temple 静安寺 Shanghai 26 - Bodh Gaya Mahabodhi Replica.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2024-Apr_Jing-an_Temple_%E9%9D%99%E5%AE%89%E5%AF%BA_Shanghai_26_-_Bodh_Gaya_Mahabodhi_Replica.jpg/1280px-2024-Apr_Jing-an_Temple_%E9%9D%99%E5%AE%89%E5%AF%BA_Shanghai_26_-_Bodh_Gaya_Mahabodhi_Replica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Mahabodhi Temple Complex at Bodh Gaya](https://whc.unesco.org/uploads/sites/site_1056.jpg)
 
-*2024-Apr Jing-an Temple 静安寺 Shanghai 26 - Bodh Gaya Mahabodhi Replica.jpg · Chainwit. · CC BY 4.0*
-
-![234 Anagarika Dharmapala Renovates the Mahabodhi Temple.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/234_Anagarika_Dharmapala_Renovates_the_Mahabodhi_Temple.jpg/1280px-234_Anagarika_Dharmapala_Renovates_the_Mahabodhi_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*234 Anagarika Dharmapala Renovates the Mahabodhi Temple.jpg · Anandajoti · CC BY-SA 4.0*
-
-![Ajapala Nigrodha Tree Pillar - Bodh Gaya (1).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%281%29.jpg/1280px-Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ajapala Nigrodha Tree Pillar - Bodh Gaya (1).jpg · Sumitsurai · CC BY-SA 4.0*
-
-![Ajapala Nigrodha Tree Pillar - Bodh Gaya (2).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%282%29.jpg/1280px-Ajapala_Nigrodha_Tree_Pillar_-_Bodh_Gaya_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Ajapala Nigrodha Tree Pillar - Bodh Gaya (2).jpg · Sumitsurai · CC BY-SA 4.0*
+*Mahabodhi Temple Complex at Bodh Gaya · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -58,22 +46,7 @@ The Mahabodhi Temple Complex is one of the four holy sites related to the life o
 - ✈ **Gaya Airport (GAY)** — 6.7 km
 - ✈ **Jay Prakash Narayan Airport (PAT)** — 100.0 km
 - ✈ **Birsa Munda Airport (IXR)** — 157.3 km
-- 🚉 **Bandhua** — 9.8 km
-- 🚉 **Gaya Junction** — 12.0 km
-- 🚉 **Tankuppa** — 13.0 km
-- 🚉 **Shaheed Ishwar Chowdhary Halt** — 13.0 km
-- 🚉 **Manpur Junction** — 13.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3397.5 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Hotel Tathagat** — 0.2 km — hotel
-- **Prince Kings** — 0.2 km — hotel
-- **Mahamaya** — 0.2 km — hotel
-- **Jeevak International** — 0.2 km — hotel
-- **Mahayana** — 0.3 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

@@ -3,8 +3,8 @@
  "unesco_id": "1716",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 121,
- "popularity_score": 100843,
+ "popularity_rank": 135,
+ "popularity_score": 109000,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -96,7 +96,8 @@
     "lat": 34.866416,
     "lon": 48.56069,
     "type": "medium_airport",
-    "distance_km": 7.8
+    "distance_km": 7.8,
+    "name_zh": "哈马丹机场"
    },
    {
     "name": "Shahid Ashrafi Esfahani Airport",
@@ -106,7 +107,8 @@
     "lat": 34.3459014893,
     "lon": 47.1581001282,
     "type": "medium_airport",
-    "distance_km": 134.5
+    "distance_km": 134.5,
+    "name_zh": "克尔曼沙赫"
    },
    {
     "name": "Sanandaj Airport",
@@ -285,5 +287,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

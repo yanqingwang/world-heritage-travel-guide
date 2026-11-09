@@ -3,8 +3,8 @@
  "unesco_id": "150",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 42,
- "popularity_score": 220863,
+ "popularity_rank": 50,
+ "popularity_score": 237228,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -106,7 +106,8 @@
     "lat": 38.1706,
     "lon": -85.735076,
     "type": "large_airport",
-    "distance_km": 114.0
+    "distance_km": 114.0,
+    "name_zh": "路易维尔国际机场"
    },
    {
     "name": "Nashville International Airport",
@@ -116,7 +117,8 @@
     "lat": 36.1245,
     "lon": -86.6782,
     "type": "large_airport",
-    "distance_km": 128.9
+    "distance_km": 128.9,
+    "name_zh": "纳什维尔国际机场"
    }
   ],
   "nearest_airport_km": 112.4,
@@ -269,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

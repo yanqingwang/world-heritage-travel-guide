@@ -3,8 +3,8 @@
  "unesco_id": "1623",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 630,
- "popularity_score": 6004,
+ "popularity_rank": 670,
+ "popularity_score": 6656,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -72,7 +72,8 @@
     "lat": 45.648399,
     "lon": 12.1944,
     "type": "large_airport",
-    "distance_km": 36.0
+    "distance_km": 36.0,
+    "name_zh": "特雷维索机场"
    },
    {
     "name": "Venice Marco Polo Airport",
@@ -82,7 +83,8 @@
     "lat": 45.505299,
     "lon": 12.3519,
     "type": "large_airport",
-    "distance_km": 38.3
+    "distance_km": 38.3,
+    "name_zh": "威尼斯－泰塞拉机场"
    },
    {
     "name": "Verona Villafranca Valerio Catullo Airport",
@@ -92,7 +94,8 @@
     "lat": 45.394955,
     "lon": 10.887303,
     "type": "large_airport",
-    "distance_km": 77.5
+    "distance_km": 77.5,
+    "name_zh": "维罗纳维拉弗兰卡机场"
    }
   ],
   "nearest_airport_km": 36.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

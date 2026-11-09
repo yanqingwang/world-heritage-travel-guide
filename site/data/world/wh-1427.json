@@ -3,7 +3,7 @@
  "unesco_id": "1427",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 932,
+ "popularity_rank": 957,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -72,7 +72,8 @@
     "lat": 37.466801,
     "lon": 15.0664,
     "type": "large_airport",
-    "distance_km": 33.7
+    "distance_km": 33.7,
+    "name_zh": "卡塔尼亚"
    },
    {
     "name": "Reggio Calabria Airport",
@@ -82,7 +83,8 @@
     "lat": 38.071201,
     "lon": 15.6516,
     "type": "medium_airport",
-    "distance_km": 66.5
+    "distance_km": 66.5,
+    "name_zh": "雷焦卡拉布里亚机场"
    },
    {
     "name": "Comiso Airport",
@@ -92,7 +94,8 @@
     "lat": 36.99583,
     "lon": 14.60889,
     "type": "medium_airport",
-    "distance_km": 92.3
+    "distance_km": 92.3,
+    "name_zh": "科米索机场"
    }
   ],
   "nearest_airport_km": 33.7,
@@ -168,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

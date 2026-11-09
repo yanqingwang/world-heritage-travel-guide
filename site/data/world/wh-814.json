@@ -3,8 +3,8 @@
  "unesco_id": "814",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 638,
- "popularity_score": 5749,
+ "popularity_rank": 682,
+ "popularity_score": 6300,
  "country": "DM",
  "country_zh": "多米尼克",
  "country_en": "Dominica",
@@ -72,7 +72,8 @@
     "lat": 15.336693,
     "lon": -61.392108,
     "type": "medium_airport",
-    "distance_km": 14.0
+    "distance_km": 14.0,
+    "name_zh": "坎菲尔德机场"
    },
    {
     "name": "Douglas-Charles Airport",
@@ -82,7 +83,8 @@
     "lat": 15.546673,
     "lon": -61.301082,
     "type": "medium_airport",
-    "distance_km": 31.2
+    "distance_km": 31.2,
+    "name_zh": "道格拉斯-查尔斯机场"
    },
    {
     "name": "Marie-Galante Airport",
@@ -92,7 +94,8 @@
     "lat": 15.868925,
     "lon": -61.270087,
     "type": "medium_airport",
-    "distance_km": 67.0
+    "distance_km": 67.0,
+    "name_zh": "玛丽-加朗特机场"
    }
   ],
   "nearest_airport_km": 14.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

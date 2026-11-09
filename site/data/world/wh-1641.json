@@ -3,8 +3,8 @@
  "unesco_id": "1641",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 796,
- "popularity_score": 1367,
+ "popularity_rank": 839,
+ "popularity_score": 1515,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
  "country_en": "Ethiopia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "ET-OR",
- "subdivision_zh": "奥罗米亚州",
- "subdivision_en": "Oromia Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "盖德奥文化景观",
  "name_zh_source": "unesco_official",
  "name_en": "The Gedeo Cultural Landscape",
@@ -72,7 +72,8 @@
     "lat": 6.03939,
     "lon": 37.5905,
     "type": "medium_airport",
-    "distance_km": 157.2
+    "distance_km": 157.2,
+    "name_zh": "阿尔巴门奇机场"
    },
    {
     "name": "Hawassa International Airport",
@@ -82,7 +83,8 @@
     "lat": 7.100611,
     "lon": 38.396455,
     "type": "large_airport",
-    "distance_km": 222.6
+    "distance_km": 222.6,
+    "name_zh": "阿瓦萨机场"
    },
    {
     "name": "Jinka Airport",
@@ -92,7 +94,8 @@
     "lat": 5.749655,
     "lon": 36.560165,
     "type": "medium_airport",
-    "distance_km": 243.6
+    "distance_km": 243.6,
+    "name_zh": "金卡机场"
    }
   ],
   "nearest_airport_km": 157.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

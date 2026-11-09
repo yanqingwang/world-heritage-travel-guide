@@ -3,8 +3,8 @@
  "unesco_id": "71",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 275,
- "popularity_score": 28894,
+ "popularity_rank": 294,
+ "popularity_score": 31410,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -96,7 +96,8 @@
     "lat": 50.018902,
     "lon": -110.721001,
     "type": "medium_airport",
-    "distance_km": 98.8
+    "distance_km": 98.8,
+    "name_zh": "药帽市机场"
    },
    {
     "name": "Lethbridge County Airport",
@@ -106,7 +107,8 @@
     "lat": 49.6302986145,
     "lon": -112.800003052,
     "type": "medium_airport",
-    "distance_km": 156.8
+    "distance_km": 156.8,
+    "name_zh": "列斯桥机场"
    },
    {
     "name": "Calgary International Airport",
@@ -116,7 +118,8 @@
     "lat": 51.118822,
     "lon": -114.009933,
     "type": "large_airport",
-    "distance_km": 181.3
+    "distance_km": 181.3,
+    "name_zh": "卡尔加里国际机场"
    }
   ],
   "nearest_airport_km": 98.8,
@@ -253,5 +256,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

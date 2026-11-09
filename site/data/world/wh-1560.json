@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 236,
- "popularity_score": 35232,
+ "popularity_score": 43306,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -106,7 +106,8 @@
     "lat": 37.417999,
     "lon": -5.89311,
     "type": "large_airport",
-    "distance_km": 104.2
+    "distance_km": 104.2,
+    "name_zh": "塞维亚"
    },
    {
     "name": "F.G.L. Airport Granada-Jaén Airport",
@@ -116,7 +117,8 @@
     "lat": 37.188702,
     "lon": -3.77736,
     "type": "medium_airport",
-    "distance_km": 123.5
+    "distance_km": 123.5,
+    "name_zh": "格兰纳达"
    }
   ],
   "nearest_airport_km": 5.2,
@@ -293,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

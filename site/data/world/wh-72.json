@@ -3,8 +3,8 @@
  "unesco_id": "72",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 602,
- "popularity_score": 6927,
+ "popularity_rank": 642,
+ "popularity_score": 7512,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -87,7 +87,8 @@
     "lat": 60.080974,
     "lon": -142.494541,
     "type": "small_airport",
-    "distance_km": 148.7
+    "distance_km": 148.7,
+    "name_zh": "Yakataga机场"
    },
    {
     "name": "Yakutat Airport",
@@ -97,7 +98,8 @@
     "lat": 59.508717,
     "lon": -139.660435,
     "type": "medium_airport",
-    "distance_km": 201.6
+    "distance_km": 201.6,
+    "name_zh": "亚库塔特机场"
    }
   ],
   "nearest_airport_km": 91.9,
@@ -187,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

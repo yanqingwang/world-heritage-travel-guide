@@ -3,7 +3,7 @@
  "unesco_id": "560",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1097,
+ "popularity_rank": 1108,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -64,7 +64,8 @@
     "lat": 31.636673,
     "lon": -106.428533,
     "type": "large_airport",
-    "distance_km": 202.3
+    "distance_km": 202.3,
+    "name_zh": "Abraham González国际机场"
    },
    {
     "name": "El Paso International Airport",
@@ -74,7 +75,8 @@
     "lat": 31.809908,
     "lon": -106.375607,
     "type": "large_airport",
-    "distance_km": 219.5
+    "distance_km": 219.5,
+    "name_zh": "艾尔帕索国际机场"
    },
    {
     "name": "Las Cruces International Airport",
@@ -84,7 +86,8 @@
     "lat": 32.289398,
     "lon": -106.921997,
     "type": "medium_airport",
-    "distance_km": 235.0
+    "distance_km": 235.0,
+    "name_zh": "拉斯克鲁塞斯国际机场"
    }
   ],
   "nearest_airport_km": 202.3,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

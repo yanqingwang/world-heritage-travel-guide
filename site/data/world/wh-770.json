@@ -3,8 +3,8 @@
  "unesco_id": "770",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 150,
- "popularity_score": 78754,
+ "popularity_rank": 164,
+ "popularity_score": 85626,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -96,7 +96,8 @@
     "lat": 43.629101,
     "lon": 1.36382,
     "type": "large_airport",
-    "distance_km": 4.8
+    "distance_km": 4.8,
+    "name_zh": "图卢兹－布拉尼亚克机场"
    },
    {
     "name": "Castres Mazamet Airport",
@@ -106,7 +107,8 @@
     "lat": 43.556301,
     "lon": 2.28918,
     "type": "medium_airport",
-    "distance_km": 70.4
+    "distance_km": 70.4,
+    "name_zh": "卡斯特尔-马扎默机场"
    },
    {
     "name": "Carcassonne Salvaza Airport",
@@ -116,7 +118,8 @@
     "lat": 43.216,
     "lon": 2.30632,
     "type": "medium_airport",
-    "distance_km": 84.1
+    "distance_km": 84.1,
+    "name_zh": "卡尔卡松机场"
    }
   ],
   "nearest_airport_km": 4.8,
@@ -318,5 +321,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

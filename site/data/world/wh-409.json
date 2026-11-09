@@ -3,8 +3,8 @@
  "unesco_id": "409",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 191,
- "popularity_score": 51205,
+ "popularity_rank": 211,
+ "popularity_score": 55060,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -96,7 +96,8 @@
     "lat": 19.72135,
     "lon": -155.045428,
     "type": "medium_airport",
-    "distance_km": 36.6
+    "distance_km": 36.6,
+    "name_zh": "希洛国际机场"
    },
    {
     "name": "Waimea Kohala Airport",
@@ -116,7 +117,8 @@
     "lat": 19.738783,
     "lon": -156.045603,
     "type": "large_airport",
-    "distance_km": 103.7
+    "distance_km": 103.7,
+    "name_zh": "科纳国际机场"
    }
   ],
   "nearest_airport_km": 36.6,
@@ -252,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "395",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 225,
- "popularity_score": 36995,
+ "popularity_rank": 243,
+ "popularity_score": 40943,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -96,7 +96,8 @@
     "lat": 43.683899,
     "lon": 10.3927,
     "type": "large_airport",
-    "distance_km": 4.4
+    "distance_km": 4.4,
+    "name_zh": "比萨伽利略·伽利莱机场"
    },
    {
     "name": "Florence Airport, Peretola",
@@ -106,7 +107,8 @@
     "lat": 43.808558,
     "lon": 11.202822,
     "type": "large_airport",
-    "distance_km": 65.6
+    "distance_km": 65.6,
+    "name_zh": "佛罗伦萨－佩雷托拉机场"
    },
    {
     "name": "Marina di Campo Airport",
@@ -116,7 +118,8 @@
     "lat": 42.760871,
     "lon": 10.239811,
     "type": "medium_airport",
-    "distance_km": 107.8
+    "distance_km": 107.8,
+    "name_zh": "Marina di Campo机场"
    }
   ],
   "nearest_airport_km": 4.4,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

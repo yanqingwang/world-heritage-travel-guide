@@ -2,8 +2,8 @@
  "id": "wh-1025",
  "unesco_id": "1025",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 836,
+ "tier": "full",
+ "popularity_rank": 183,
  "popularity_score": 70933,
  "country": "IT",
  "country_zh": "意大利",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_1025.jpg",
-   "title": "Villa d'Este, Tivoli",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/1025",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Tivoli%2C_Villa_d%27Este%2C_Schautafel.jpg/1280px-Tivoli%2C_Villa_d%27Este%2C_Schautafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tivoli, Villa d'Este, Schautafel.jpg",
+   "author": "Dnalor 01",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tivoli%2C_Villa_d%27Este%2C_Schautafel.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Villa_d%27Este_%28Tivoli%29_1000_01.jpg/1280px-Villa_d%27Este_%28Tivoli%29_1000_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Villa d'Este (Tivoli) 1000 01.jpg",
+   "author": "FrDr",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Villa_d%27Este_%28Tivoli%29_1000_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Tivoli%2C_Villa_d%27Este%2C_UNESCO-Tafel.jpg/1280px-Tivoli%2C_Villa_d%27Este%2C_UNESCO-Tafel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Tivoli, Villa d'Este, UNESCO-Tafel.jpg",
+   "author": "Dnalor 01",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Tivoli%2C_Villa_d%27Este%2C_UNESCO-Tafel.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Cento_Fontane.JPG/1280px-Cento_Fontane.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Cento Fontane.JPG",
+   "author": "Justinawind",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Cento_Fontane.JPG"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1025",
@@ -72,7 +96,8 @@
     "lat": 41.798769,
     "lon": 12.595331,
     "type": "large_airport",
-    "distance_km": 24.7
+    "distance_km": 24.7,
+    "name_zh": "罗马钱皮诺机场"
    },
    {
     "name": "Rome–Fiumicino Leonardo da Vinci International Airport",
@@ -82,7 +107,8 @@
     "lat": 41.804532,
     "lon": 12.251998,
     "type": "large_airport",
-    "distance_km": 48.3
+    "distance_km": 48.3,
+    "name_zh": "罗马—菲乌米奇诺机场"
    },
    {
     "name": "Abruzzo Airport",
@@ -92,15 +118,154 @@
     "lat": 42.431079,
     "lon": 14.182981,
     "type": "large_airport",
-    "distance_km": 125.6
+    "distance_km": 125.6,
+    "name_zh": "阿布鲁佐国际机场"
    }
   ],
   "nearest_airport_km": 24.7,
   "distance_beijing_km": 8124.7,
-  "ferry_terminals": [],
-  "railway_stations": []
+  "ferry_terminals": [
+   {
+    "name": "Ponte Risorgimento",
+    "name_en": null,
+    "lat": 41.9194623,
+    "lon": 12.4702226,
+    "distance_km": 27.4,
+    "operator": null
+   },
+   {
+    "name": "Ponte Cavour",
+    "name_en": null,
+    "lat": 41.9044109,
+    "lon": 12.4743542,
+    "distance_km": 27.4,
+    "operator": null
+   },
+   {
+    "name": "Isola Tiberina",
+    "name_en": null,
+    "lat": 41.8903339,
+    "lon": 12.4757678,
+    "distance_km": 27.7,
+    "operator": null
+   },
+   {
+    "name": "Sant'Angelo",
+    "name_en": null,
+    "lat": 41.901758,
+    "lon": 12.4681481,
+    "distance_km": 28.0,
+    "operator": null
+   },
+   {
+    "name": "Anguillara Sabazia",
+    "name_en": null,
+    "lat": 42.0929108,
+    "lon": 12.2676718,
+    "distance_km": 46.0,
+    "operator": null
+   }
+  ],
+  "railway_stations": [
+   {
+    "name": "Tivoli",
+    "name_en": null,
+    "lat": 41.9618813,
+    "lon": 12.8050665,
+    "distance_km": 0.7,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Marcellina-Palombara",
+    "name_en": null,
+    "lat": 41.9996557,
+    "lon": 12.791368,
+    "distance_km": 4.2,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Guidonia Collefiorito",
+    "name_en": null,
+    "lat": 41.9779924,
+    "lon": 12.7222669,
+    "distance_km": 6.3,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Tivoli Terme",
+    "name_en": null,
+    "lat": 41.9496564,
+    "lon": 12.7222218,
+    "distance_km": 6.3,
+    "operator": "Rete Ferroviaria Italiana"
+   },
+   {
+    "name": "Castel Madama",
+    "name_en": null,
+    "lat": 41.9883592,
+    "lon": 12.8648771,
+    "distance_km": 6.4,
+    "operator": "Rete Ferroviaria Italiana"
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hyatt Regency Rome Central",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Hyatt",
+   "lat": 41.8965671,
+   "lon": 12.5063063,
+   "distance_km": 25.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "NH Collection Hotels Roma Palazzo Cinquecento",
+   "name_en": null,
+   "stars": 5,
+   "brand": "NH Collection Hotels",
+   "lat": 41.902594,
+   "lon": 12.5016035,
+   "distance_km": 25.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel \"Parco dei Principi\"",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9175913,
+   "lon": 12.4920147,
+   "distance_km": 25.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel La Griffe",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9013529,
+   "lon": 12.4944032,
+   "distance_km": 25.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Ambasciatori Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 41.9062786,
+   "lon": 12.4895349,
+   "distance_km": 26.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "IT",
   "country_zh": "意大利",
@@ -172,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

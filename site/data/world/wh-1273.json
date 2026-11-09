@@ -3,8 +3,8 @@
  "unesco_id": "1273",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 657,
- "popularity_score": 5289,
+ "popularity_rank": 701,
+ "popularity_score": 5766,
  "country": "SK",
  "country_zh": "斯洛伐克",
  "country_en": "Slovakia",
@@ -72,7 +72,8 @@
     "lat": 49.070994,
     "lon": 20.241394,
     "type": "medium_airport",
-    "distance_km": 57.7
+    "distance_km": 57.7,
+    "name_zh": "波普拉德机场"
    },
    {
     "name": "Sliač Airport",
@@ -82,7 +83,8 @@
     "lat": 48.63779830932617,
     "lon": 19.13409996032715,
     "type": "medium_airport",
-    "distance_km": 83.6
+    "distance_km": 83.6,
+    "name_zh": "斯利亚奇机场"
    },
    {
     "name": "Kraków John Paul II International Airport",
@@ -92,7 +94,8 @@
     "lat": 50.077702,
     "lon": 19.7848,
     "type": "large_airport",
-    "distance_km": 84.1
+    "distance_km": 84.1,
+    "name_zh": "克拉科夫"
    }
   ],
   "nearest_airport_km": 57.7,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

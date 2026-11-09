@@ -3,8 +3,8 @@
  "unesco_id": "12",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 645,
- "popularity_score": 5653,
+ "popularity_rank": 685,
+ "popularity_score": 6260,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
  "country_en": "Ethiopia",
@@ -72,7 +72,8 @@
     "lat": 8.97789,
     "lon": 38.799301,
     "type": "large_airport",
-    "distance_km": 63.8
+    "distance_km": 63.8,
+    "name_zh": "博莱国际机场"
    },
    {
     "name": "Hawassa International Airport",
@@ -82,7 +83,8 @@
     "lat": 7.100611,
     "lon": 38.396455,
     "type": "large_airport",
-    "distance_km": 150.3
+    "distance_km": 150.3,
+    "name_zh": "阿瓦萨机场"
    },
    {
     "name": "Jimma Airport",
@@ -92,7 +94,8 @@
     "lat": 7.66609001159668,
     "lon": 36.81660079956055,
     "type": "medium_airport",
-    "distance_km": 215.4
+    "distance_km": 215.4,
+    "name_zh": "吉马机场"
    }
   ],
   "nearest_airport_km": 63.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

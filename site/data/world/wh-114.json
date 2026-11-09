@@ -3,8 +3,8 @@
  "unesco_id": "114",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 21,
- "popularity_score": 507045,
+ "popularity_rank": 23,
+ "popularity_score": 540688,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -17,7 +17,7 @@
  ],
  "region": "Fars",
  "subdivision_iso": "IR-07",
- "subdivision_zh": "法尔斯省",
+ "subdivision_zh": "",
  "subdivision_en": "Fars Province",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "波斯波利斯",
@@ -96,7 +96,8 @@
     "lat": 29.5392,
     "lon": 52.589802,
     "type": "large_airport",
-    "distance_km": 52.7
+    "distance_km": 52.7,
+    "name_zh": "沙希德·阿亚图拉·达斯特盖卜国际机场"
    },
    {
     "name": "Gachsaran Airport",
@@ -106,7 +107,8 @@
     "lat": 30.333869,
     "lon": 50.833796,
     "type": "medium_airport",
-    "distance_km": 202.6
+    "distance_km": 202.6,
+    "name_zh": "加奇萨兰机场"
    },
    {
     "name": "Bushehr Airport",
@@ -116,7 +118,8 @@
     "lat": 28.9447994232,
     "lon": 50.8345985413,
     "type": "medium_airport",
-    "distance_km": 227.5
+    "distance_km": 227.5,
+    "name_zh": "布什尔机场"
    }
   ],
   "nearest_airport_km": 52.7,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

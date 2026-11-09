@@ -3,8 +3,8 @@
  "unesco_id": "1413",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 370,
- "popularity_score": 18973,
+ "popularity_rank": 400,
+ "popularity_score": 20648,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -72,7 +72,8 @@
     "lat": 51.418395,
     "lon": 9.391638,
     "type": "large_airport",
-    "distance_km": 11.3
+    "distance_km": 11.3,
+    "name_zh": "卡塞尔-卡尔登机场"
    },
    {
     "name": "Paderborn Lippstadt Airport",
@@ -82,7 +83,8 @@
     "lat": 51.612527,
     "lon": 8.617459,
     "type": "large_airport",
-    "distance_km": 63.4
+    "distance_km": 63.4,
+    "name_zh": "帕德博恩/利普施塔特机场"
    },
    {
     "name": "Erfurt-Weimar Airport",
@@ -92,7 +94,8 @@
     "lat": 50.978281,
     "lon": 10.960713,
     "type": "large_airport",
-    "distance_km": 115.2
+    "distance_km": 115.2,
+    "name_zh": "埃尔福特-魏玛机场"
    }
   ],
   "nearest_airport_km": 11.3,
@@ -168,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

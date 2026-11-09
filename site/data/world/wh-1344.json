@@ -3,8 +3,8 @@
  "unesco_id": "1344",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 695,
- "popularity_score": 4301,
+ "popularity_rank": 739,
+ "popularity_score": 4694,
  "country": "BE",
  "country_zh": "比利时",
  "country_en": "Belgium",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "BE-WAL",
- "subdivision_zh": "瓦隆",
- "subdivision_en": "Hainaut",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "瓦隆主要矿业遗址",
  "name_zh_source": "wikidata",
  "name_en": "Major Mining Sites of Wallonia",
@@ -72,7 +72,8 @@
     "lat": 50.461963,
     "lon": 4.459562,
     "type": "large_airport",
-    "distance_km": 44.1
+    "distance_km": 44.1,
+    "name_zh": "沙勒罗瓦－布鲁塞尔南机场"
    },
    {
     "name": "Lille Airport",
@@ -82,7 +83,8 @@
     "lat": 50.566564,
     "lon": 3.102429,
     "type": "large_airport",
-    "distance_km": 54.1
+    "distance_km": 54.1,
+    "name_zh": "里尔机场"
    },
    {
     "name": "Brussels Airport",
@@ -92,7 +94,8 @@
     "lat": 50.901402,
     "lon": 4.48444,
     "type": "large_airport",
-    "distance_km": 69.0
+    "distance_km": 69.0,
+    "name_zh": "布鲁塞尔机场"
    }
   ],
   "nearest_airport_km": 44.1,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "88",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 690,
- "popularity_score": 4456,
+ "popularity_rank": 730,
+ "popularity_score": 4944,
  "country": "EG",
  "country_zh": "埃及",
  "country_en": "Egypt",
@@ -72,7 +72,8 @@
     "lat": 22.375924,
     "lon": 31.611734,
     "type": "medium_airport",
-    "distance_km": 4.6
+    "distance_km": 4.6,
+    "name_zh": "阿布辛贝机场"
    },
    {
     "name": "Aswan International Airport",
@@ -82,7 +83,8 @@
     "lat": 23.961075,
     "lon": 32.820382,
     "type": "large_airport",
-    "distance_km": 218.0
+    "distance_km": 218.0,
+    "name_zh": "阿斯旺国际机场"
    },
    {
     "name": "Dongola Airport",
@@ -92,7 +94,8 @@
     "lat": 19.153666,
     "lon": 30.430069,
     "type": "medium_airport",
-    "distance_km": 375.1
+    "distance_km": 375.1,
+    "name_zh": "栋古拉机场"
    }
   ],
   "nearest_airport_km": 4.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

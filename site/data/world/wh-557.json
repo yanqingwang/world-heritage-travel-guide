@@ -3,8 +3,8 @@
  "unesco_id": "557",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 504,
- "popularity_score": 11055,
+ "popularity_rank": 541,
+ "popularity_score": 11949,
  "country": "SE",
  "country_zh": "瑞典",
  "country_en": "Sweden",
@@ -82,7 +82,8 @@
     "lat": 59.186699,
     "lon": 10.2586,
     "type": "large_airport",
-    "distance_km": 82.2
+    "distance_km": 82.2,
+    "name_zh": "桑讷菲尤尔机场"
    },
    {
     "name": "Göteborg Landvetter Airport",
@@ -92,7 +93,8 @@
     "lat": 57.6628,
     "lon": 12.2798,
     "type": "large_airport",
-    "distance_km": 127.9
+    "distance_km": 127.9,
+    "name_zh": "哥德堡－兰德维特机场"
    }
   ],
   "nearest_airport_km": 72.4,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

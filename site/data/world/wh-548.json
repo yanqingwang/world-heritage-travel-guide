@@ -3,8 +3,8 @@
  "unesco_id": "548",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 738,
- "popularity_score": 3304,
+ "popularity_rank": 777,
+ "popularity_score": 3724,
  "country": "PE",
  "country_zh": "秘鲁",
  "country_en": "Peru",
@@ -72,7 +72,8 @@
     "lat": -7.13918,
     "lon": -78.489403,
     "type": "medium_airport",
-    "distance_km": 152.6
+    "distance_km": 152.6,
+    "name_zh": "Mayor General FAP Armando Revoredo Iglesias机场"
    },
    {
     "name": "Cadete FAP Guillermo Del Castillo Paredes Airport",
@@ -82,7 +83,8 @@
     "lat": -6.508739948272705,
     "lon": -76.37319946289062,
     "type": "medium_airport",
-    "distance_km": 168.5
+    "distance_km": 168.5,
+    "name_zh": "塔拉波托"
    },
    {
     "name": "Chachapoyas Airport",
@@ -92,7 +94,8 @@
     "lat": -6.201911,
     "lon": -77.856195,
     "type": "medium_airport",
-    "distance_km": 184.7
+    "distance_km": 184.7,
+    "name_zh": "查查波亚斯机场"
    }
   ],
   "nearest_airport_km": 152.6,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

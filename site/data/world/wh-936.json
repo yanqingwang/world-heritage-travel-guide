@@ -3,8 +3,8 @@
  "unesco_id": "936",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 108,
- "popularity_score": 106714,
+ "popularity_rank": 123,
+ "popularity_score": 115334,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Patagonia Region, Santa Cruz Province",
- "subdivision_iso": "AR-Z",
- "subdivision_zh": "圣克鲁斯省",
- "subdivision_en": "Santa Cruz",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "洛斯马诺斯岩画（1999年）",
  "name_zh_source": "unesco_official",
  "name_en": "Cueva de las Manos, Río Pinturas",
@@ -96,7 +96,8 @@
     "lat": -46.537899,
     "lon": -70.978699,
     "type": "medium_airport",
-    "distance_km": 72.1
+    "distance_km": 72.1,
+    "name_zh": "佩里托莫雷诺机场"
    },
    {
     "name": "Las Heras Airport",
@@ -106,7 +107,8 @@
     "lat": -46.538517,
     "lon": -68.965323,
     "type": "medium_airport",
-    "distance_km": 146.2
+    "distance_km": 146.2,
+    "name_zh": "科洛尼亚拉斯赫拉斯机场"
    },
    {
     "name": "Balmaceda Airport",
@@ -116,7 +118,8 @@
     "lat": -45.915968,
     "lon": -71.689499,
     "type": "medium_airport",
-    "distance_km": 158.0
+    "distance_km": 158.0,
+    "name_zh": "巴尔马塞达机场"
    }
   ],
   "nearest_airport_km": 72.1,
@@ -231,5 +234,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

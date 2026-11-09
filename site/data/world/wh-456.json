@@ -3,8 +3,8 @@
  "unesco_id": "456",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 488,
- "popularity_score": 11660,
+ "popularity_rank": 520,
+ "popularity_score": 12691,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -72,7 +72,8 @@
     "lat": 40.51928,
     "lon": 22.970009,
     "type": "large_airport",
-    "distance_km": 13.4
+    "distance_km": 13.4,
+    "name_zh": "塞萨洛尼基马其顿国际机场"
    },
    {
     "name": "Kozani National Airport Filippos",
@@ -172,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

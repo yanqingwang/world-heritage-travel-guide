@@ -3,8 +3,8 @@
  "unesco_id": "483",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 14,
- "popularity_score": 685171,
+ "popularity_rank": 15,
+ "popularity_score": 750968,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -96,7 +96,8 @@
     "lat": 20.172098,
     "lon": -87.660272,
     "type": "large_airport",
-    "distance_km": 110.4
+    "distance_km": 110.4,
+    "name_zh": "图卢姆国际机场"
    },
    {
     "name": "Manuel Crescencio Rejón International Airport",
@@ -106,7 +107,8 @@
     "lat": 20.930485,
     "lon": -89.645462,
     "type": "large_airport",
-    "distance_km": 115.3
+    "distance_km": 115.3,
+    "name_zh": "梅里达国际机场"
    },
    {
     "name": "Cozumel International Airport",
@@ -116,7 +118,8 @@
     "lat": 20.514922,
     "lon": -86.928538,
     "type": "large_airport",
-    "distance_km": 171.7
+    "distance_km": 171.7,
+    "name_zh": "科苏梅尔国际机场"
    }
   ],
   "nearest_airport_km": 110.4,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1616",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 682,
- "popularity_score": 4597,
+ "popularity_rank": 732,
+ "popularity_score": 4924,
  "country": "GE",
  "country_zh": "格鲁吉亚",
  "country_en": "Georgia",
@@ -72,7 +72,8 @@
     "lat": 41.60939,
     "lon": 41.600315,
     "type": "large_airport",
-    "distance_km": 30.9
+    "distance_km": 30.9,
+    "name_zh": "巴统国际机场"
    },
    {
     "name": "David the Builder Kutaisi International Airport",
@@ -82,7 +83,8 @@
     "lat": 42.177448,
     "lon": 42.485353,
     "type": "large_airport",
-    "distance_km": 68.9
+    "distance_km": 68.9,
+    "name_zh": "库塔伊西国际机场"
    },
    {
     "name": "Rize–Artvin Airport",
@@ -92,7 +94,8 @@
     "lat": 41.179766,
     "lon": 40.848802,
     "type": "medium_airport",
-    "distance_km": 108.7
+    "distance_km": 108.7,
+    "name_zh": "里泽-阿尔特温机场"
    }
   ],
   "nearest_airport_km": 30.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1488",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 746,
- "popularity_score": 3102,
+ "popularity_rank": 790,
+ "popularity_score": 3380,
  "country": "TR",
  "country_zh": "土耳其",
  "country_en": "Turkey",
@@ -72,7 +72,8 @@
     "lat": 37.893902,
     "lon": 40.201,
     "type": "medium_airport",
-    "distance_km": 4.4
+    "distance_km": 4.4,
+    "name_zh": "迪亚巴克尔机场"
    },
    {
     "name": "Batman Airport",
@@ -82,7 +83,8 @@
     "lat": 37.929001,
     "lon": 41.1166,
     "type": "medium_airport",
-    "distance_km": 76.3
+    "distance_km": 76.3,
+    "name_zh": "巴特曼机场"
    },
    {
     "name": "Mardin Airport",
@@ -92,7 +94,8 @@
     "lat": 37.223300933800004,
     "lon": 40.6316986084,
     "type": "medium_airport",
-    "distance_km": 83.3
+    "distance_km": 83.3,
+    "name_zh": "马尔丁机场"
    }
   ],
   "nearest_airport_km": 4.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

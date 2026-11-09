@@ -3,8 +3,8 @@
  "unesco_id": "974",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 413,
- "popularity_score": 15653,
+ "popularity_rank": 443,
+ "popularity_score": 16980,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -17,7 +17,7 @@
  ],
  "region": "District of Freiburg, State of Baden-Württemberg",
  "subdivision_iso": "DE-BW",
- "subdivision_zh": "巴登-符腾堡州",
+ "subdivision_zh": "",
  "subdivision_en": "Baden-Württemberg",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "赖谢瑙修道院之岛",
@@ -72,7 +72,8 @@
     "lat": 47.671299,
     "lon": 9.51149,
     "type": "large_airport",
-    "distance_km": 33.7
+    "distance_km": 33.7,
+    "name_zh": "腓特烈港机场"
    },
    {
     "name": "Sankt Gallen Altenrhein Airport",
@@ -82,7 +83,8 @@
     "lat": 47.485001,
     "lon": 9.56077,
     "type": "medium_airport",
-    "distance_km": 43.9
+    "distance_km": 43.9,
+    "name_zh": "圣加仑-阿尔滕莱茵机场"
    },
    {
     "name": "Zürich Airport",
@@ -92,7 +94,8 @@
     "lat": 47.458056,
     "lon": 8.548056,
     "type": "large_airport",
-    "distance_km": 46.6
+    "distance_km": 46.6,
+    "name_zh": "苏黎世机场"
    }
   ],
   "nearest_airport_km": 33.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

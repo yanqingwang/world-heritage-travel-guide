@@ -3,7 +3,7 @@
  "unesco_id": "1755",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 827,
+ "popularity_rank": 872,
  "popularity_score": 265,
  "country": "FR",
  "country_zh": "法国",
@@ -64,7 +64,8 @@
     "lat": 38.872898,
     "lon": 1.37312,
     "type": "large_airport",
-    "distance_km": 85.2
+    "distance_km": 85.2,
+    "name_zh": "Ibiza（IBZ）"
    },
    {
     "name": "Alicante-Elche Miguel Hernández Airport",
@@ -74,7 +75,8 @@
     "lat": 38.2822,
     "lon": -0.558156,
     "type": "large_airport",
-    "distance_km": 142.3
+    "distance_km": 142.3,
+    "name_zh": "阿利坎特"
    },
    {
     "name": "Region of Murcia International Airport",
@@ -84,7 +86,8 @@
     "lat": 37.802852,
     "lon": -1.124884,
     "type": "large_airport",
-    "distance_km": 195.4
+    "distance_km": 195.4,
+    "name_zh": "穆尔西亚地区国际机场"
    }
   ],
   "nearest_airport_km": 85.2,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

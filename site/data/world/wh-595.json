@@ -3,7 +3,7 @@
  "unesco_id": "595",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1106,
+ "popularity_rank": 1113,
  "popularity_score": null,
  "country": "GR",
  "country_zh": "希腊",
@@ -72,7 +72,8 @@
     "lat": 37.689999,
     "lon": 26.911699,
     "type": "medium_airport",
-    "distance_km": 3.0
+    "distance_km": 3.0,
+    "name_zh": "萨摩斯国际机场"
    },
    {
     "name": "Ikaria Airport",
@@ -172,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

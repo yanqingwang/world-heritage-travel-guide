@@ -3,7 +3,7 @@
  "unesco_id": "792",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1157,
+ "popularity_rank": 1162,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -72,7 +72,8 @@
     "lat": 20.618779,
     "lon": -100.186449,
     "type": "large_airport",
-    "distance_km": 19.2
+    "distance_km": 19.2,
+    "name_zh": "克雷塔罗国际机场"
    },
    {
     "name": "General Francisco J. Mujica International Airport",
@@ -82,7 +83,8 @@
     "lat": 19.849899,
     "lon": -101.025002,
     "type": "large_airport",
-    "distance_km": 106.6
+    "distance_km": 106.6,
+    "name_zh": "莫雷利亚机场"
    },
    {
     "name": "Guanajuato International Airport",
@@ -92,7 +94,8 @@
     "lat": 20.992695,
     "lon": -101.480284,
     "type": "large_airport",
-    "distance_km": 124.4
+    "distance_km": 124.4,
+    "name_zh": "德尔巴乔国际机场"
    }
   ],
   "nearest_airport_km": 19.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

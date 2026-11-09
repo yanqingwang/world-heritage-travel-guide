@@ -3,8 +3,8 @@
  "unesco_id": "1523",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 782,
- "popularity_score": 1695,
+ "popularity_rank": 824,
+ "popularity_score": 1876,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -72,7 +72,8 @@
     "lat": 57.781316,
     "lon": 28.39384,
     "type": "medium_airport",
-    "distance_km": 4.8
+    "distance_km": 4.8,
+    "name_zh": "奥莉加公主普斯科夫国际机场"
    },
    {
     "name": "Tartu Airport",
@@ -82,7 +83,8 @@
     "lat": 58.307438,
     "lon": 26.686473,
     "type": "medium_airport",
-    "distance_km": 111.5
+    "distance_km": 111.5,
+    "name_zh": "塔尔图机场"
    },
    {
     "name": "Pärnu Airport",
@@ -92,7 +94,8 @@
     "lat": 58.41899871826172,
     "lon": 24.47279930114746,
     "type": "medium_airport",
-    "distance_km": 236.4
+    "distance_km": 236.4,
+    "name_zh": "派尔努机场"
    }
   ],
   "nearest_airport_km": 4.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 112,
- "popularity_score": 105559,
+ "popularity_score": 122798,
  "country": "TZ",
  "country_zh": "坦桑尼亚",
  "country_en": "Tanzania",
@@ -96,7 +96,8 @@
     "lat": -2.45806,
     "lon": 34.822498,
     "type": "small_airport",
-    "distance_km": 25.5
+    "distance_km": 25.5,
+    "name_zh": "塞罗勒那飞行场"
    },
    {
     "name": "Mara Serena Lodge Airstrip",
@@ -253,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

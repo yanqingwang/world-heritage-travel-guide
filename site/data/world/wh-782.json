@@ -3,8 +3,8 @@
  "unesco_id": "782",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 545,
- "popularity_score": 9544,
+ "popularity_rank": 583,
+ "popularity_score": 10249,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 39.489162,
     "lon": -0.480961,
     "type": "large_airport",
-    "distance_km": 9.0
+    "distance_km": 9.0,
+    "name_zh": "巴伦西亚"
    },
    {
     "name": "Castellón-Costa Azahar Airport",
@@ -82,7 +83,8 @@
     "lat": 40.213889,
     "lon": 0.073333,
     "type": "medium_airport",
-    "distance_km": 90.8
+    "distance_km": 90.8,
+    "name_zh": "卡斯特利翁-橙花海岸机场"
    },
    {
     "name": "Alicante-Elche Miguel Hernández Airport",
@@ -92,7 +94,8 @@
     "lat": 38.2822,
     "lon": -0.558156,
     "type": "large_airport",
-    "distance_km": 133.5
+    "distance_km": 133.5,
+    "name_zh": "阿利坎特"
    }
   ],
   "nearest_airport_km": 9.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

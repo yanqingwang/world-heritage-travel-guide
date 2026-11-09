@@ -3,7 +3,7 @@
  "unesco_id": "1108",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 860,
+ "popularity_rank": 899,
  "popularity_score": null,
  "country": "IL",
  "country_zh": "以色列",
@@ -64,7 +64,8 @@
     "lat": 32.810219,
     "lon": 35.043719,
     "type": "medium_airport",
-    "distance_km": 27.0
+    "distance_km": 27.0,
+    "name_zh": "海法机场"
    },
    {
     "name": "Ben Gurion International Airport",
@@ -74,7 +75,8 @@
     "lat": 32.011398,
     "lon": 34.8867,
     "type": "large_airport",
-    "distance_km": 70.8
+    "distance_km": 70.8,
+    "name_zh": "本-古里安国际机场"
    },
    {
     "name": "Marka International (Amman Civil) Airport",
@@ -84,7 +86,8 @@
     "lat": 31.9727,
     "lon": 35.9916,
     "type": "large_airport",
-    "distance_km": 103.0
+    "distance_km": 103.0,
+    "name_zh": "马尔卡国际机场"
    }
   ],
   "nearest_airport_km": 27.0,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

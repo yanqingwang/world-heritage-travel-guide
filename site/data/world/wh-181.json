@@ -3,8 +3,8 @@
  "unesco_id": "181",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 523,
- "popularity_score": 10465,
+ "popularity_rank": 556,
+ "popularity_score": 11358,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -72,7 +72,8 @@
     "lat": -42.837032,
     "lon": 147.513022,
     "type": "large_airport",
-    "distance_km": 112.7
+    "distance_km": 112.7,
+    "name_zh": "霍巴特国际机场"
    },
    {
     "name": "Launceston Airport",
@@ -82,7 +83,8 @@
     "lat": -41.544935,
     "lon": 147.210785,
     "type": "medium_airport",
-    "distance_km": 144.9
+    "distance_km": 144.9,
+    "name_zh": "朗塞斯顿机场"
    },
    {
     "name": "Devonport Airport",
@@ -92,7 +94,8 @@
     "lat": -41.1697006226,
     "lon": 146.429992676,
     "type": "medium_airport",
-    "distance_km": 160.0
+    "distance_km": 160.0,
+    "name_zh": "德文港机场"
    }
   ],
   "nearest_airport_km": 112.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

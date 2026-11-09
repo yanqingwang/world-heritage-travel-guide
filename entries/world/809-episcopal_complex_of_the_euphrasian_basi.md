@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)(iv)"
 lat: 45.228611111
 lon: 13.593611111
-updated_at: "2026-11-09T12:01:01Z"
+updated_at: "2026-11-09T12:50:21Z"
 ---
 
 # 波雷奇历史中心的尤弗拉西苏斯大教堂建筑群 / Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč

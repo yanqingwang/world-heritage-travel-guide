@@ -3,8 +3,8 @@
  "unesco_id": "928",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 706,
- "popularity_score": 4076,
+ "popularity_rank": 752,
+ "popularity_score": 4368,
  "country": "CR",
  "country_zh": "哥斯达黎加",
  "country_en": "Costa Rica",
@@ -72,7 +72,8 @@
     "lat": 10.5933,
     "lon": -85.544403,
     "type": "large_airport",
-    "distance_km": 29.6
+    "distance_km": 29.6,
+    "name_zh": "瓜纳卡斯特机场"
    },
    {
     "name": "Nosara Airport",
@@ -172,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1182",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 870,
+ "popularity_rank": 909,
  "popularity_score": null,
  "country": "MX",
  "country_zh": "墨西哥",
@@ -92,7 +92,8 @@
     "lat": 29.092811,
     "lon": -111.053015,
     "type": "large_airport",
-    "distance_km": 160.8
+    "distance_km": 160.8,
+    "name_zh": "埃莫西约国际机场"
    }
   ],
   "nearest_airport_km": 77.3,
@@ -171,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

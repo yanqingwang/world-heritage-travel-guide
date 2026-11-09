@@ -3,8 +3,8 @@
  "unesco_id": "1582",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 790,
- "popularity_score": 1471,
+ "popularity_rank": 835,
+ "popularity_score": 1565,
  "country": "PA",
  "country_zh": "巴拿马",
  "country_en": "Panama",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "PA-8",
- "subdivision_zh": "巴拿马省",
- "subdivision_en": "Panamá Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "殖民时期跨巴拿马地峡通道",
  "name_zh_source": "unesco_official",
  "name_en": "The Colonial Transisthmian Route of Panamá",
@@ -64,7 +64,8 @@
     "lat": 8.97334,
     "lon": -79.555603,
     "type": "medium_airport",
-    "distance_km": 3.3
+    "distance_km": 3.3,
+    "name_zh": "阿尔布鲁克「马可斯·A·热拉贝尔」国际机场"
    },
    {
     "name": "Panamá Pacífico International Airport",
@@ -74,7 +75,8 @@
     "lat": 8.91479,
     "lon": -79.599602,
     "type": "medium_airport",
-    "distance_km": 8.3
+    "distance_km": 8.3,
+    "name_zh": "巴拿马太平洋国际机场"
    },
    {
     "name": "Tocumen International Airport",
@@ -84,7 +86,8 @@
     "lat": 9.07136,
     "lon": -79.383499,
     "type": "large_airport",
-    "distance_km": 21.2
+    "distance_km": 21.2,
+    "name_zh": "托库门国际机场"
    }
   ],
   "nearest_airport_km": 3.3,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

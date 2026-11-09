@@ -3,8 +3,8 @@
  "unesco_id": "1634",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 181,
- "popularity_score": 58380,
+ "popularity_rank": 196,
+ "popularity_score": 64240,
  "country": "CL",
  "country_zh": "智利",
  "country_en": "Chile",
@@ -96,7 +96,8 @@
     "lat": -18.348499,
     "lon": -70.338699,
     "type": "medium_airport",
-    "distance_km": 14.8
+    "distance_km": 14.8,
+    "name_zh": "Chacalluta国际机场"
    },
    {
     "name": "Coronel FAP Carlos Ciriani Santa Rosa International Airport",
@@ -106,7 +107,8 @@
     "lat": -18.053300857500002,
     "lon": -70.2758026123,
     "type": "medium_airport",
-    "distance_km": 47.8
+    "distance_km": 47.8,
+    "name_zh": "塔克纳"
    },
    {
     "name": "General Jorge Fernandez Maldon Airport",
@@ -293,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

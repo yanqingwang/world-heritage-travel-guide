@@ -3,7 +3,7 @@
  "unesco_id": "1545",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 960,
+ "popularity_rank": 857,
  "popularity_score": 950,
  "country": "ZA",
  "country_zh": "南非",
@@ -72,7 +72,8 @@
     "lat": -28.400246,
     "lon": 21.263592,
     "type": "medium_airport",
-    "distance_km": 314.2
+    "distance_km": 314.2,
+    "name_zh": "阿平顿机场"
    },
    {
     "name": "Sishen Airport",
@@ -170,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

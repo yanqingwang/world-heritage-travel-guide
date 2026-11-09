@@ -3,8 +3,8 @@
  "unesco_id": "1724",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 640,
- "popularity_score": 5740,
+ "popularity_rank": 694,
+ "popularity_score": 6039,
  "country": "AE",
  "country_zh": "阿拉伯联合酋长国",
  "country_en": "United Arab Emirates",
@@ -72,7 +72,8 @@
     "lat": 25.108411,
     "lon": 56.328061,
     "type": "large_airport",
-    "distance_km": 35.1
+    "distance_km": 35.1,
+    "name_zh": "富吉拉国际机场"
    },
    {
     "name": "Ras Al Khaimah International Airport",
@@ -82,7 +83,8 @@
     "lat": 25.613501,
     "lon": 55.938801,
     "type": "large_airport",
-    "distance_km": 47.6
+    "distance_km": 47.6,
+    "name_zh": "哈伊马角国际机场"
    },
    {
     "name": "Khasab Airport",
@@ -92,7 +94,8 @@
     "lat": 26.171,
     "lon": 56.240601,
     "type": "medium_airport",
-    "distance_km": 84.1
+    "distance_km": 84.1,
+    "name_zh": "海塞卜"
    }
   ],
   "nearest_airport_km": 35.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

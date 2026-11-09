@@ -3,7 +3,7 @@
  "unesco_id": "555",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 797,
+ "popularity_rank": 845,
  "popularity_score": 1367,
  "country": "SE",
  "country_zh": "瑞典",
@@ -72,7 +72,8 @@
     "lat": 59.354401,
     "lon": 17.9417,
     "type": "medium_airport",
-    "distance_km": 22.7
+    "distance_km": 22.7,
+    "name_zh": "斯德哥尔摩布罗马机场"
    },
    {
     "name": "Stockholm-Arlanda Airport",
@@ -82,7 +83,8 @@
     "lat": 59.64849,
     "lon": 17.928829,
     "type": "large_airport",
-    "distance_km": 41.1
+    "distance_km": 41.1,
+    "name_zh": "斯德哥尔摩－阿兰达机场"
    },
    {
     "name": "Stockholm Västerås Airport",
@@ -92,7 +94,8 @@
     "lat": 59.589401,
     "lon": 16.6336,
     "type": "large_airport",
-    "distance_km": 58.6
+    "distance_km": 58.6,
+    "name_zh": "斯德哥尔摩－韦斯特罗斯机场"
    }
   ],
   "nearest_airport_km": 22.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1549",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 962,
+ "popularity_rank": 322,
  "popularity_score": 27991,
  "country": "AZ",
  "country_zh": "阿塞拜疆",
@@ -72,7 +72,8 @@
     "lat": 40.808617,
     "lon": 47.725389,
     "type": "medium_airport",
-    "distance_km": 63.1
+    "distance_km": 63.1,
+    "name_zh": "甘巴拉国际机场"
    },
    {
     "name": "Ganja International Airport",
@@ -82,7 +83,8 @@
     "lat": 40.738692,
     "lon": 46.320383,
     "type": "large_airport",
-    "distance_km": 87.4
+    "distance_km": 87.4,
+    "name_zh": "占贾国际机场"
    },
    {
     "name": "Lachin International Airport",
@@ -92,7 +94,8 @@
     "lat": 39.883787,
     "lon": 46.363137,
     "type": "medium_airport",
-    "distance_km": 160.7
+    "distance_km": 160.7,
+    "name_zh": "拉钦国际机场"
    }
   ],
   "nearest_airport_km": 63.1,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

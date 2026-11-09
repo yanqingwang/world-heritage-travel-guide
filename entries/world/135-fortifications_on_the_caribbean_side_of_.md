@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(iv)"
 lat: 9.553888888
 lon: -79.655833333
-updated_at: "2026-11-09T12:00:57Z"
+updated_at: "2026-11-09T12:50:17Z"
 ---
 
 # 巴拿马加勒比海岸的防御工事：波托韦洛－圣洛伦索 / Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo

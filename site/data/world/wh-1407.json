@@ -3,8 +3,8 @@
  "unesco_id": "1407",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 767,
- "popularity_score": 2176,
+ "popularity_rank": 810,
+ "popularity_score": 2349,
  "country": "SN",
  "country_zh": "塞内加尔",
  "country_en": "Senegal",
@@ -82,7 +82,8 @@
     "lat": 11.894262,
     "lon": -15.653596,
     "type": "large_airport",
-    "distance_km": 314.9
+    "distance_km": 314.9,
+    "name_zh": "奥斯瓦尔多·维埃拉国际机场"
    },
    {
     "name": "Ahmed Sékou Touré International Airport",
@@ -92,7 +93,8 @@
     "lat": 9.57689,
     "lon": -13.612,
     "type": "large_airport",
-    "distance_km": 345.7
+    "distance_km": 345.7,
+    "name_zh": "科纳克里国际机场"
    }
   ],
   "nearest_airport_km": 261.9,
@@ -169,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

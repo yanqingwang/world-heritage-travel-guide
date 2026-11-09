@@ -3,8 +3,8 @@
  "unesco_id": "180",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 794,
- "popularity_score": 1410,
+ "popularity_rank": 840,
+ "popularity_score": 1515,
  "country": "HT",
  "country_zh": "海地",
  "country_en": "Haiti",
@@ -72,7 +72,8 @@
     "lat": 19.725547,
     "lon": -72.20071,
     "type": "large_airport",
-    "distance_km": 17.5
+    "distance_km": 17.5,
+    "name_zh": "乌戈·查维兹国际机场"
    },
    {
     "name": "Toussaint Louverture International Airport",
@@ -82,7 +83,8 @@
     "lat": 18.580023,
     "lon": -72.292596,
     "type": "large_airport",
-    "distance_km": 110.6
+    "distance_km": 110.6,
+    "name_zh": "杜桑·卢维杜尔国际机场"
    },
    {
     "name": "Cibao International Airport",
@@ -92,7 +94,8 @@
     "lat": 19.40406,
     "lon": -70.604431,
     "type": "large_airport",
-    "distance_km": 172.9
+    "distance_km": 172.9,
+    "name_zh": "希巴欧国际机场"
    }
   ],
   "nearest_airport_km": 17.5,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -2,9 +2,9 @@
  "id": "wh-1299",
  "unesco_id": "1299",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 299,
- "popularity_score": 25916,
+ "tier": "basic",
+ "popularity_rank": 320,
+ "popularity_score": 28272,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -72,7 +72,8 @@
     "lat": 62.0933,
     "lon": 129.770996,
     "type": "large_airport",
-    "distance_km": 168.1
+    "distance_km": 168.1,
+    "name_zh": "雅库茨克机场"
    },
    {
     "name": "Olyokminsk Airport",
@@ -97,24 +98,7 @@
   ],
   "nearest_airport_km": 168.1,
   "distance_beijing_km": 2603.6,
-  "ferry_terminals": [
-   {
-    "name": "Ленские столбы",
-    "name_en": null,
-    "lat": 61.1073601,
-    "lon": 127.3618439,
-    "distance_km": 0.0,
-    "operator": null
-   },
-   {
-    "name": "Чкалов",
-    "name_en": null,
-    "lat": 61.1886237,
-    "lon": 127.7483797,
-    "distance_km": 22.7,
-    "operator": null
-   }
-  ],
+  "ferry_terminals": [],
   "railway_stations": []
  },
  "hotels": [],
@@ -189,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

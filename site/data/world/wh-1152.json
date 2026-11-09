@@ -3,8 +3,8 @@
  "unesco_id": "1152",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 147,
- "popularity_score": 80211,
+ "popularity_rank": 158,
+ "popularity_score": 87535,
  "country": "IS",
  "country_zh": "冰岛",
  "country_en": "Iceland",
@@ -96,7 +96,8 @@
     "lat": 64.128732,
     "lon": -21.93759,
     "type": "medium_airport",
-    "distance_km": 41.9
+    "distance_km": 41.9,
+    "name_zh": "雷克雅未克机场"
    },
    {
     "name": "Keflavik International Airport",
@@ -106,7 +107,8 @@
     "lat": 63.985001,
     "lon": -22.6056,
     "type": "large_airport",
-    "distance_km": 78.0
+    "distance_km": 78.0,
+    "name_zh": "凯夫拉维克国际机场"
    },
    {
     "name": "Akureyri International Airport",
@@ -116,7 +118,8 @@
     "lat": 65.656573,
     "lon": -18.072018,
     "type": "large_airport",
-    "distance_km": 211.7
+    "distance_km": 211.7,
+    "name_zh": "阿克雷里"
    }
   ],
   "nearest_airport_km": 41.9,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

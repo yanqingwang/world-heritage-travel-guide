@@ -3,8 +3,8 @@
  "unesco_id": "1013",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 310,
- "popularity_score": 24039,
+ "popularity_rank": 332,
+ "popularity_score": 26342,
  "country": "MY",
  "country_zh": "马来西亚",
  "country_en": "Malaysia",
@@ -72,7 +72,8 @@
     "lat": 4.048329830169678,
     "lon": 114.80500030517578,
     "type": "medium_airport",
-    "distance_km": 1.1
+    "distance_km": 1.1,
+    "name_zh": "姆鲁机场"
    },
    {
     "name": "Long Seridan Airport",
@@ -82,7 +83,8 @@
     "lat": 3.976087,
     "lon": 115.067303,
     "type": "small_airport",
-    "distance_km": 29.2
+    "distance_km": 29.2,
+    "name_zh": "弄斯里丹机场"
    },
    {
     "name": "Marudi Airport",
@@ -92,7 +94,8 @@
     "lat": 4.178734,
     "lon": 114.330318,
     "type": "medium_airport",
-    "distance_km": 55.6
+    "distance_km": 55.6,
+    "name_zh": "马鲁帝机场"
    }
   ],
   "nearest_airport_km": 1.1,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

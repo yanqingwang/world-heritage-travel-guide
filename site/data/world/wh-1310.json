@@ -3,7 +3,7 @@
  "unesco_id": "1310",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 900,
+ "popularity_rank": 365,
  "popularity_score": 23220,
  "country": "CV",
  "country_zh": "佛得角",
@@ -72,7 +72,8 @@
     "lat": 14.941126,
     "lon": -23.484728,
     "type": "large_airport",
-    "distance_km": 13.1
+    "distance_km": 13.1,
+    "name_zh": "纳尔逊·曼德拉国际机场"
    },
    {
     "name": "Maio Airport",
@@ -82,7 +83,8 @@
     "lat": 15.155900001525879,
     "lon": -23.213699340820312,
     "type": "medium_airport",
-    "distance_km": 49.7
+    "distance_km": 49.7,
+    "name_zh": "马约机场"
    },
    {
     "name": "São Filipe Airport",
@@ -92,7 +94,8 @@
     "lat": 14.8850002289,
     "lon": -24.4799995422,
     "type": "small_airport",
-    "distance_km": 94.2
+    "distance_km": 94.2,
+    "name_zh": "圣菲利佩机场"
    }
   ],
   "nearest_airport_km": 13.1,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

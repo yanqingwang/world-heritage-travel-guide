@@ -54,11 +54,15 @@ def airports() -> list[dict]:
 
 
 def nearest(lat: float, lon: float, limit: int = 3, max_km: float = 300.0) -> list[dict]:
+    zh_names = (load_json(RAW / "airport_names.json", {}) or {}).get("names") or {}
     scored = []
     for ap in airports():
         dist = haversine_km(lat, lon, ap["lat"], ap["lon"])
         if dist <= max_km:
-            scored.append({**ap, "distance_km": round(dist, 1)})
+            rec = {**ap, "distance_km": round(dist, 1)}
+            if ap.get("iata") in zh_names:
+                rec["name_zh"] = zh_names[ap["iata"]]
+            scored.append(rec)
     scored.sort(key=lambda x: x["distance_km"])
     return scored[:limit]
 

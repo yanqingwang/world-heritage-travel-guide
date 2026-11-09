@@ -3,7 +3,7 @@
  "unesco_id": "1759",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1013,
+ "popularity_rank": 1029,
  "popularity_score": null,
  "country": "MN",
  "country_zh": "蒙古国",
@@ -72,7 +72,8 @@
     "lat": 48.85499954223633,
     "lon": 103.47599792480469,
     "type": "medium_airport",
-    "distance_km": 135.1
+    "distance_km": 135.1,
+    "name_zh": "布尔干机场"
    },
    {
     "name": "Mörön Airport",
@@ -82,7 +83,8 @@
     "lat": 49.663677,
     "lon": 100.100028,
     "type": "medium_airport",
-    "distance_km": 136.8
+    "distance_km": 136.8,
+    "name_zh": "木伦机场"
    },
    {
     "name": "Arvaikheer Airport",
@@ -92,7 +94,8 @@
     "lat": 46.250301361083984,
     "lon": 102.802001953125,
     "type": "medium_airport",
-    "distance_km": 312.4
+    "distance_km": 312.4,
+    "name_zh": "阿尔拜赫雷机场"
    }
   ],
   "nearest_airport_km": 135.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "987",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 466,
- "popularity_score": 12526,
+ "popularity_rank": 500,
+ "popularity_score": 13528,
  "country": "ES",
  "country_zh": "西班牙",
  "country_en": "Spain",
@@ -72,7 +72,8 @@
     "lat": 42.896301,
     "lon": -8.41514,
     "type": "large_airport",
-    "distance_km": 70.8
+    "distance_km": 70.8,
+    "name_zh": "圣地亚哥-德孔波斯特拉"
    },
    {
     "name": "A Coruña Airport",
@@ -82,7 +83,8 @@
     "lat": 43.302101,
     "lon": -8.37726,
     "type": "medium_airport",
-    "distance_km": 73.6
+    "distance_km": 73.6,
+    "name_zh": "拉科鲁尼亚"
    },
    {
     "name": "Vigo Airport",
@@ -92,7 +94,8 @@
     "lat": 42.2318,
     "lon": -8.62677,
     "type": "medium_airport",
-    "distance_km": 123.2
+    "distance_km": 123.2,
+    "name_zh": "维戈"
    }
   ],
   "nearest_airport_km": 70.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

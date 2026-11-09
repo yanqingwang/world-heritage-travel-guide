@@ -3,8 +3,8 @@
  "unesco_id": "1444",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 792,
- "popularity_score": 1410,
+ "popularity_rank": 837,
+ "popularity_score": 1532,
  "country": "MM",
  "country_zh": "缅甸",
  "country_en": "Myanmar",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "MM-01",
- "subdivision_zh": "实皆省",
- "subdivision_en": "Sagaing Region",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "骠国古城遗址",
  "name_zh_source": "wikidata",
  "name_en": "Pyu Ancient Cities",
@@ -72,7 +72,8 @@
     "lat": 21.702199935913086,
     "lon": 95.97789764404297,
     "type": "large_airport",
-    "distance_km": 86.9
+    "distance_km": 86.9,
+    "name_zh": "曼德勒国际机场"
    },
    {
     "name": "Bagan Airport",
@@ -82,7 +83,8 @@
     "lat": 21.178800582885742,
     "lon": 94.9301986694336,
     "type": "small_airport",
-    "distance_km": 170.4
+    "distance_km": 170.4,
+    "name_zh": "蒲甘"
    },
    {
     "name": "Lashio Airport",
@@ -92,7 +94,8 @@
     "lat": 22.9778995513916,
     "lon": 97.752197265625,
     "type": "medium_airport",
-    "distance_km": 206.2
+    "distance_km": 206.2,
+    "name_zh": "腊戍机场"
    }
   ],
   "nearest_airport_km": 86.9,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

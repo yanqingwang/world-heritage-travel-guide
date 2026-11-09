@@ -3,7 +3,7 @@
  "unesco_id": "171",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1000,
+ "popularity_rank": 1016,
  "popularity_score": null,
  "country": "PK",
  "country_zh": "巴基斯坦",
@@ -72,7 +72,8 @@
     "lat": 31.521601,
     "lon": 74.403603,
     "type": "large_airport",
-    "distance_km": 11.7
+    "distance_km": 11.7,
+    "name_zh": "拉合尔阿拉马·伊克巴勒国际机场"
    },
    {
     "name": "Sri Guru Ram Das Ji International Airport",
@@ -82,7 +83,8 @@
     "lat": 31.7096,
     "lon": 74.797302,
     "type": "large_airport",
-    "distance_km": 48.0
+    "distance_km": 48.0,
+    "name_zh": "阿姆利则国际机场"
    },
    {
     "name": "Sialkot International Airport",
@@ -92,7 +94,8 @@
     "lat": 32.535941,
     "lon": 74.364623,
     "type": "large_airport",
-    "distance_km": 105.3
+    "distance_km": 105.3,
+    "name_zh": "锡亚尔科特国际机场"
    }
   ],
   "nearest_airport_km": 11.7,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

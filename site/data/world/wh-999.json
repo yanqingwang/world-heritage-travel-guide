@@ -82,7 +82,8 @@
     "lat": -19.01193,
     "lon": -57.672772,
     "type": "medium_airport",
-    "distance_km": 180.2
+    "distance_km": 180.2,
+    "name_zh": "科伦巴国际机场"
    },
    {
     "name": "Várzea Grande–Marechal Rondon International Airport",
@@ -92,7 +93,8 @@
     "lat": -15.6529,
     "lon": -56.116699,
     "type": "large_airport",
-    "distance_km": 243.9
+    "distance_km": 243.9,
+    "name_zh": "库亚巴国际机场"
    }
   ],
   "nearest_airport_km": 178.4,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

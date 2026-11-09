@@ -3,8 +3,8 @@
  "unesco_id": "1605",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 28,
- "popularity_score": 384090,
+ "popularity_rank": 30,
+ "popularity_score": 422347,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 26.8242,
     "lon": 75.812202,
     "type": "large_airport",
-    "distance_km": 10.1
+    "distance_km": 10.1,
+    "name_zh": "斋浦尔国际机场"
    },
    {
     "name": "Kishangarh Airport Ajmer",
@@ -116,7 +117,8 @@
     "lat": 27.157975,
     "lon": 77.961025,
     "type": "medium_airport",
-    "distance_km": 213.8
+    "distance_km": 213.8,
+    "name_zh": "阿格拉机场"
    }
   ],
   "nearest_airport_km": 10.1,
@@ -292,5 +294,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

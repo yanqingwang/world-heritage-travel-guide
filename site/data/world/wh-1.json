@@ -3,8 +3,8 @@
  "unesco_id": "1",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 12,
- "popularity_score": 773393,
+ "popularity_rank": 13,
+ "popularity_score": 843033,
  "country": "EC",
  "country_zh": "厄瓜多尔",
  "country_en": "Ecuador",
@@ -96,7 +96,8 @@
     "lat": -0.453758,
     "lon": -90.2659,
     "type": "medium_airport",
-    "distance_km": 39.5
+    "distance_km": 39.5,
+    "name_zh": "西摩机场"
    },
    {
     "name": "General Villamil Airport",
@@ -116,7 +117,8 @@
     "lat": -0.910206,
     "lon": -89.617401,
     "type": "small_airport",
-    "distance_km": 107.2
+    "distance_km": 107.2,
+    "name_zh": "圣克立托巴机场"
    }
   ],
   "nearest_airport_km": 39.5,
@@ -293,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

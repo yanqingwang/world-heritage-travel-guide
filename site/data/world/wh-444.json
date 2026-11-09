@@ -3,8 +3,8 @@
  "unesco_id": "444",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 92,
- "popularity_score": 127785,
+ "popularity_rank": 102,
+ "popularity_score": 139060,
  "country": "MA",
  "country_zh": "摩洛哥",
  "country_en": "Morocco",
@@ -96,7 +96,8 @@
     "lat": 30.9391,
     "lon": -6.90943,
     "type": "large_airport",
-    "distance_km": 24.6
+    "distance_km": 24.6,
+    "name_zh": "瓦尔扎扎特"
    },
    {
     "name": "Marrakesh Menara Airport",
@@ -106,7 +107,8 @@
     "lat": 31.604807,
     "lon": -8.035788,
     "type": "large_airport",
-    "distance_km": 105.6
+    "distance_km": 105.6,
+    "name_zh": "马拉喀什－迈纳拉国际机场"
    },
    {
     "name": "Zagora Airport",
@@ -116,7 +118,8 @@
     "lat": 30.265788,
     "lon": -5.860808,
     "type": "large_airport",
-    "distance_km": 149.7
+    "distance_km": 149.7,
+    "name_zh": "扎古拉"
    }
   ],
   "nearest_airport_km": 24.6,
@@ -253,5 +256,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

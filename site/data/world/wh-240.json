@@ -3,8 +3,8 @@
  "unesco_id": "240",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 33,
- "popularity_score": 300817,
+ "popularity_rank": 38,
+ "popularity_score": 328322,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 24.8172,
     "lon": 79.918602,
     "type": "medium_airport",
-    "distance_km": 3.9
+    "distance_km": 3.9,
+    "name_zh": "克久拉霍民用机场"
    },
    {
     "name": "Rewa Airport, Chorhata, REWA",
@@ -106,7 +107,8 @@
     "lat": 24.503401,
     "lon": 81.220299,
     "type": "medium_airport",
-    "distance_km": 136.8
+    "distance_km": 136.8,
+    "name_zh": "雷瓦机场"
    },
    {
     "name": "Kanpur Airport",
@@ -295,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

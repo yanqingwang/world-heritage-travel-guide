@@ -3,8 +3,8 @@
  "unesco_id": "193",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 529,
- "popularity_score": 10202,
+ "popularity_rank": 559,
+ "popularity_score": 11228,
  "country": "DZ",
  "country_zh": "阿尔及利亚",
  "country_en": "Algeria",
@@ -72,7 +72,8 @@
     "lat": 36.693886,
     "lon": 3.214531,
     "type": "large_airport",
-    "distance_km": 69.9
+    "distance_km": 69.9,
+    "name_zh": "阿尔及尔胡阿里·布迈丁机场"
    },
    {
     "name": "Chlef Aboubakr Belkaid International Airport",
@@ -92,7 +93,8 @@
     "lat": 36.712547,
     "lon": 5.069909,
     "type": "large_airport",
-    "distance_km": 234.9
+    "distance_km": 234.9,
+    "name_zh": "Soummam – Abane Ramdane机场"
    }
   ],
   "nearest_airport_km": 69.9,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

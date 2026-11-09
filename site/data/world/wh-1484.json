@@ -3,8 +3,8 @@
  "unesco_id": "1484",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 350,
- "popularity_score": 20290,
+ "popularity_rank": 377,
+ "popularity_score": 21792,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "JP-35",
- "subdivision_zh": "山口县",
- "subdivision_en": "Yamaguchi Prefecture",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "明治工业革命遗迹：钢铁、造船和煤矿",
  "name_zh_source": "unesco_official",
  "name_en": "Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",
@@ -72,7 +72,8 @@
     "lat": 34.676399231,
     "lon": 131.789993286,
     "type": "medium_airport",
-    "distance_km": 44.1
+    "distance_km": 44.1,
+    "name_zh": "石见机场"
    },
    {
     "name": "Yamaguchi Ube Airport",
@@ -82,7 +83,8 @@
     "lat": 33.93,
     "lon": 131.279007,
     "type": "medium_airport",
-    "distance_km": 57.0
+    "distance_km": 57.0,
+    "name_zh": "山口宇部机场"
    },
    {
     "name": "Kitakyushu Airport",
@@ -92,7 +94,8 @@
     "lat": 33.845901,
     "lon": 131.035004,
     "type": "large_airport",
-    "distance_km": 73.7
+    "distance_km": 73.7,
+    "name_zh": "北九州机场"
    }
   ],
   "nearest_airport_km": 44.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

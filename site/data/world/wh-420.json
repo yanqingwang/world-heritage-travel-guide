@@ -3,8 +3,8 @@
  "unesco_id": "420",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 93,
- "popularity_score": 127747,
+ "popularity_rank": 104,
+ "popularity_score": 138317,
  "country": "BO",
  "country_zh": "玻利维亚",
  "country_en": "Bolivia",
@@ -96,7 +96,8 @@
     "lat": -19.246835,
     "lon": -65.149611,
     "type": "large_airport",
-    "distance_km": 73.9
+    "distance_km": 73.9,
+    "name_zh": "苏克雷机场"
    },
    {
     "name": "Joya Andina International Airport",
@@ -106,7 +107,8 @@
     "lat": -20.441304,
     "lon": -66.857553,
     "type": "large_airport",
-    "distance_km": 149.3
+    "distance_km": 149.3,
+    "name_zh": "安第斯明珠机场"
    },
    {
     "name": "Juan Mendoza International Airport",
@@ -116,7 +118,8 @@
     "lat": -17.956151,
     "lon": -67.075829,
     "type": "large_airport",
-    "distance_km": 228.8
+    "distance_km": 228.8,
+    "name_zh": "奥鲁罗机场"
    }
   ],
   "nearest_airport_km": 73.9,
@@ -280,5 +283,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

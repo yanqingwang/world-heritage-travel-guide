@@ -3,8 +3,8 @@
  "unesco_id": "702",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 617,
- "popularity_score": 6460,
+ "popularity_rank": 660,
+ "popularity_score": 6991,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -72,7 +72,8 @@
     "lat": 19.435822,
     "lon": -99.07033,
     "type": "large_airport",
-    "distance_km": 58.6
+    "distance_km": 58.6,
+    "name_zh": "墨西哥城贝尼托·胡亚雷斯国际机场"
    },
    {
     "name": "Hermanos Serdán International Airport",
@@ -82,7 +83,8 @@
     "lat": 19.158465,
     "lon": -98.371582,
     "type": "large_airport",
-    "distance_km": 60.6
+    "distance_km": 60.6,
+    "name_zh": "普埃布拉州国际机场"
    },
    {
     "name": "Adolfo López Mateos International Airport",
@@ -92,7 +94,8 @@
     "lat": 19.3369,
     "lon": -99.56583,
     "type": "large_airport",
-    "distance_km": 83.2
+    "distance_km": 83.2,
+    "name_zh": "墨西哥城/托鲁卡"
    }
   ],
   "nearest_airport_km": 58.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

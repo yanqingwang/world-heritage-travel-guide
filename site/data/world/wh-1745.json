@@ -3,8 +3,8 @@
  "unesco_id": "1745",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 765,
- "popularity_score": 2241,
+ "popularity_rank": 808,
+ "popularity_score": 2442,
  "country": "CM",
  "country_zh": "喀麦隆",
  "country_en": "Cameroon",
@@ -64,7 +64,8 @@
     "lat": 10.451399803161621,
     "lon": 14.257399559020996,
     "type": "medium_airport",
-    "distance_km": 69.5
+    "distance_km": 69.5,
+    "name_zh": "马鲁阿"
    },
    {
     "name": "Maiduguri International Airport",
@@ -84,7 +85,8 @@
     "lat": 9.334785,
     "lon": 13.372129,
     "type": "large_airport",
-    "distance_km": 183.0
+    "distance_km": 183.0,
+    "name_zh": "加鲁阿国际机场"
    }
   ],
   "nearest_airport_km": 69.5,
@@ -165,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

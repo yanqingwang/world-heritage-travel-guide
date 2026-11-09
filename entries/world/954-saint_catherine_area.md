@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(i)(iii)(iv)(vi)"
 lat: 28.55623
 lon: 33.97543
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 圣卡特琳娜地区 / Saint Catherine Area

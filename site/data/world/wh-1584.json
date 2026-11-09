@@ -3,7 +3,7 @@
  "unesco_id": "1584",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 974,
+ "popularity_rank": 990,
  "popularity_score": null,
  "country": "AZ",
  "country_zh": "阿塞拜疆",
@@ -77,7 +77,8 @@
     "lat": 37.49300003051758,
     "lon": 57.30820083618164,
     "type": "medium_airport",
-    "distance_km": 140.0
+    "distance_km": 140.0,
+    "name_zh": "博季努尔德机场"
    },
    {
     "name": "Sabzevar National Airport",
@@ -97,7 +98,8 @@
     "lat": 37.986801,
     "lon": 58.361,
     "type": "large_airport",
-    "distance_km": 240.3
+    "distance_km": 240.3,
+    "name_zh": "萨帕尔穆拉特·尼亚佐夫国际机场"
    }
   ],
   "nearest_airport_km": 140.0,
@@ -187,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

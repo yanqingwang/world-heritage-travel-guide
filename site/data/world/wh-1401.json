@@ -3,8 +3,8 @@
  "unesco_id": "1401",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 29,
- "popularity_score": 376724,
+ "popularity_rank": 31,
+ "popularity_score": 403350,
  "country": "MA",
  "country_zh": "摩洛哥",
  "country_en": "Morocco",
@@ -96,7 +96,8 @@
     "lat": 34.051498,
     "lon": -6.75152,
     "type": "large_airport",
-    "distance_km": 8.9
+    "distance_km": 8.9,
+    "name_zh": "拉巴特－塞拉国际机场"
    },
    {
     "name": "Mohammed V International Airport",
@@ -106,7 +107,8 @@
     "lat": 33.3675,
     "lon": -7.58997,
     "type": "large_airport",
-    "distance_km": 100.4
+    "distance_km": 100.4,
+    "name_zh": "穆罕默德五世国际机场"
    },
    {
     "name": "Fes Saïss International Airport",
@@ -116,7 +118,8 @@
     "lat": 33.927299,
     "lon": -4.97796,
     "type": "large_airport",
-    "distance_km": 172.1
+    "distance_km": 172.1,
+    "name_zh": "非斯－萨伊斯国际机场"
    }
   ],
   "nearest_airport_km": 8.9,
@@ -308,5 +311,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

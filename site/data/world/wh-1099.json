@@ -3,7 +3,7 @@
  "unesco_id": "1099",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 857,
+ "popularity_rank": 896,
  "popularity_score": null,
  "country": "ZA",
  "country_zh": "南非",
@@ -72,7 +72,8 @@
     "lat": -23.845269,
     "lon": 29.458615,
     "type": "large_airport",
-    "distance_km": 181.8
+    "distance_km": 181.8,
+    "name_zh": "波罗克瓦尼国际机场"
    },
    {
     "name": "Phillip Gaonwe Matante International Airport",
@@ -82,7 +83,8 @@
     "lat": -21.159183,
     "lon": 27.468826,
     "type": "large_airport",
-    "distance_km": 230.2
+    "distance_km": 230.2,
+    "name_zh": "弗朗西斯敦机场"
    },
    {
     "name": "Joshua Mqabuko Nkomo International Airport",
@@ -92,7 +94,8 @@
     "lat": -20.016284,
     "lon": 28.622897,
     "type": "large_airport",
-    "distance_km": 256.7
+    "distance_km": 256.7,
+    "name_zh": "Joshua Mqabuko Nkomo国际机场"
    }
   ],
   "nearest_airport_km": 181.8,
@@ -182,5 +185,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

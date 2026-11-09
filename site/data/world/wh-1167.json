@@ -3,8 +3,8 @@
  "unesco_id": "1167",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 534,
- "popularity_score": 9787,
+ "popularity_rank": 576,
+ "popularity_score": 10527,
  "country": "ID",
  "country_zh": "印度尼西亚",
  "country_en": "Indonesia",
@@ -72,7 +72,8 @@
     "lat": -2.094042,
     "lon": 101.47025,
     "type": "small_airport",
-    "distance_km": 45.3
+    "distance_km": 45.3,
+    "name_zh": "德帕蒂·帕波机场"
    },
    {
     "name": "Muko Muko Airport",
@@ -82,7 +83,8 @@
     "lat": -2.541058,
     "lon": 101.087651,
     "type": "small_airport",
-    "distance_km": 46.0
+    "distance_km": 46.0,
+    "name_zh": "穆科穆科机场"
    },
    {
     "name": "Muara Bungo Airport",
@@ -92,7 +94,8 @@
     "lat": -1.541635,
     "lon": 102.181613,
     "type": "small_airport",
-    "distance_km": 130.7
+    "distance_km": 130.7,
+    "name_zh": "麻拉邦鄂机场"
    }
   ],
   "nearest_airport_km": 45.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

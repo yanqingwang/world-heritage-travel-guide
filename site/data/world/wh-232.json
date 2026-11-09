@@ -3,8 +3,8 @@
  "unesco_id": "232",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 155,
- "popularity_score": 74534,
+ "popularity_rank": 179,
+ "popularity_score": 75375,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 28.55563,
     "lon": 77.09519,
     "type": "large_airport",
-    "distance_km": 15.7
+    "distance_km": 15.7,
+    "name_zh": "英迪拉·甘地国际机场"
    },
    {
     "name": "Hindon Airport / Hindon Air Force Station",
@@ -116,7 +117,8 @@
     "lat": 28.179868,
     "lon": 77.611843,
     "type": "large_airport",
-    "distance_km": 58.0
+    "distance_km": 58.0,
+    "name_zh": "诺伊达国际机场"
    }
   ],
   "nearest_airport_km": 15.7,
@@ -295,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

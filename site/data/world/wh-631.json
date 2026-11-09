@@ -2,9 +2,9 @@
  "id": "wh-631",
  "unesco_id": "631",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 290,
- "popularity_score": 26879,
+ "tier": "basic",
+ "popularity_rank": 309,
+ "popularity_score": 29471,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/An_abbreviated_map_of_El_Tajin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "An abbreviated map of El Tajin.JPG",
-   "author": "Siyajkak",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:An_abbreviated_map_of_El_Tajin.JPG"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_01_%2815837213509%29.jpg/1280px-Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_01_%2815837213509%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 01 (15837213509).jpg",
-   "author": "Adam Jones from Kelowna, BC, Canada",
-   "license": "CC BY-SA 2.0",
-   "credit": "Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 01",
-   "source": "https://commons.wikimedia.org/wiki/File:Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_01_%2815837213509%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_02_%2815997468786%29.jpg/1280px-Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_02_%2815997468786%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 02 (15997468786).jpg",
-   "author": "Adam Jones from Kelowna, BC, Canada",
-   "license": "CC BY-SA 2.0",
-   "credit": "Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 02",
-   "source": "https://commons.wikimedia.org/wiki/File:Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_02_%2815997468786%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_03_%2815837185979%29.jpg/1280px-Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_03_%2815837185979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 03 (15837185979).jpg",
-   "author": "Adam Jones from Kelowna, BC, Canada",
-   "license": "CC BY-SA 2.0",
-   "credit": "Architectural Detail - El Tajin Archaeological Site - Veracruz - Mexico - 03",
-   "source": "https://commons.wikimedia.org/wiki/File:Architectural_Detail_-_El_Tajin_Archaeological_Site_-_Veracruz_-_Mexico_-_03_%2815837185979%29.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_631.jpg",
+   "title": "El Tajin, Pre-Hispanic City",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/631",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/631",
@@ -96,7 +72,8 @@
     "lat": 20.6026992798,
     "lon": -97.46080017090001,
     "type": "medium_airport",
-    "distance_km": 19.2
+    "distance_km": 19.2,
+    "name_zh": "波萨里卡"
    },
    {
     "name": "Hermanos Serdán International Airport",
@@ -106,7 +83,8 @@
     "lat": 19.158465,
     "lon": -98.371582,
     "type": "large_airport",
-    "distance_km": 177.1
+    "distance_km": 177.1,
+    "name_zh": "普埃布拉州国际机场"
    },
    {
     "name": "Felipe Ángeles International Airport",
@@ -116,7 +94,8 @@
     "lat": 19.743824,
     "lon": -99.01507,
     "type": "large_airport",
-    "distance_km": 188.0
+    "distance_km": 188.0,
+    "name_zh": "墨西哥城圣塔卢西亚机场"
    }
   ],
   "nearest_airport_km": 19.2,
@@ -124,63 +103,7 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hotel Victoria Poza Rica",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Collection O",
-   "lat": 20.5422551,
-   "lon": -97.453843,
-   "distance_km": 13.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Fiesta Inn Poza Rica",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Fiesta Inn Hoteles Business Class",
-   "lat": 20.545833,
-   "lon": -97.4612576,
-   "distance_km": 13.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Tajín",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 20.4458954,
-   "lon": -97.3211838,
-   "distance_km": 5.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Toledo",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 20.5303361,
-   "lon": -97.4637289,
-   "distance_km": 12.8,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Novotel",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 20.533139,
-   "lon": -97.4603349,
-   "distance_km": 12.8,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "MX",
   "country_zh": "墨西哥",
@@ -252,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

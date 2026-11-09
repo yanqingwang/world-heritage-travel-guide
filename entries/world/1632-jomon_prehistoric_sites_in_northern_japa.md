@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(v)"
 lat: 41.065555555
 lon: 140.552216666
-updated_at: "2026-11-09T12:01:06Z"
+updated_at: "2026-11-09T12:50:26Z"
 ---
 
 # 日本北部的绳纹史前遗址群 / Jomon Prehistoric Sites in Northern Japan

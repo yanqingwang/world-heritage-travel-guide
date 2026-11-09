@@ -3,8 +3,8 @@
  "unesco_id": "955",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 527,
- "popularity_score": 10297,
+ "popularity_rank": 558,
+ "popularity_score": 11286,
  "country": "ID",
  "country_zh": "印度尼西亚",
  "country_en": "Indonesia",
@@ -72,7 +72,8 @@
     "lat": -4.52978,
     "lon": 136.887388,
     "type": "medium_airport",
-    "distance_km": 107.7
+    "distance_km": 107.7,
+    "name_zh": "莫泽什吉朗因国际机场"
    },
    {
     "name": "Bilorai Airport",
@@ -92,7 +93,8 @@
     "lat": -4.097324,
     "lon": 138.952417,
     "type": "medium_airport",
-    "distance_km": 143.7
+    "distance_km": 143.7,
+    "name_zh": "瓦梅纳机场"
    }
   ],
   "nearest_airport_km": 107.7,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

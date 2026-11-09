@@ -3,8 +3,8 @@
  "unesco_id": "1432",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 89,
- "popularity_score": 131788,
+ "popularity_rank": 100,
+ "popularity_score": 142133,
  "country": "BW",
  "country_zh": "博茨瓦纳",
  "country_en": "Botswana",
@@ -96,7 +96,8 @@
     "lat": -19.970491,
     "lon": 23.431409,
     "type": "large_airport",
-    "distance_km": 84.4
+    "distance_km": 84.4,
+    "name_zh": "马翁"
    },
    {
     "name": "Shakawe Airport",
@@ -251,5 +252,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

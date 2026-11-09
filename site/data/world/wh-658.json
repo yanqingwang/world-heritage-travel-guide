@@ -3,8 +3,8 @@
  "unesco_id": "658",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 759,
- "popularity_score": 2456,
+ "popularity_rank": 804,
+ "popularity_score": 2659,
  "country": "VE",
  "country_zh": "委内瑞拉",
  "country_en": "Venezuela",
@@ -72,7 +72,8 @@
     "lat": 11.414944,
     "lon": -69.680901,
     "type": "medium_airport",
-    "distance_km": 1.7
+    "distance_km": 1.7,
+    "name_zh": "José Leonardo Chirino机场"
    },
    {
     "name": "Josefa Camejo International Airport",
@@ -82,7 +83,8 @@
     "lat": 11.780775,
     "lon": -70.151497,
     "type": "medium_airport",
-    "distance_km": 66.3
+    "distance_km": 66.3,
+    "name_zh": "蓬托菲霍机场"
    },
    {
     "name": "Hato International Airport",
@@ -92,7 +94,8 @@
     "lat": 12.1889,
     "lon": -68.959801,
     "type": "large_airport",
-    "distance_km": 117.9
+    "distance_km": 117.9,
+    "name_zh": "库拉索国际机场"
    }
   ],
   "nearest_airport_km": 1.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

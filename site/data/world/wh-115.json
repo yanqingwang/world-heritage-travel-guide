@@ -3,8 +3,8 @@
  "unesco_id": "115",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 204,
- "popularity_score": 44242,
+ "popularity_rank": 222,
+ "popularity_score": 47411,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -17,7 +17,7 @@
  ],
  "region": "Esfahan",
  "subdivision_iso": "IR-10",
- "subdivision_zh": "伊斯法罕省",
+ "subdivision_zh": "",
  "subdivision_en": "Isfahan Province",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "伊斯法罕王侯广场",
@@ -96,7 +96,8 @@
     "lat": 32.755142,
     "lon": 51.883877,
     "type": "large_airport",
-    "distance_km": 22.1
+    "distance_km": 22.1,
+    "name_zh": "伊斯法罕"
    },
    {
     "name": "Kashan Airport",
@@ -116,7 +117,8 @@
     "lat": 31.9048995972,
     "lon": 54.2765007019,
     "type": "medium_airport",
-    "distance_km": 258.3
+    "distance_km": 258.3,
+    "name_zh": "什伊德斯道格伊机场"
    }
   ],
   "nearest_airport_km": 22.1,
@@ -286,5 +288,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "355",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 772,
- "popularity_score": 1938,
+ "popularity_rank": 428,
+ "popularity_score": 18161,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -72,7 +72,8 @@
     "lat": -25.594167,
     "lon": -54.489444,
     "type": "large_airport",
-    "distance_km": 55.1
+    "distance_km": 55.1,
+    "name_zh": "伊瓜苏"
    },
    {
     "name": "Cataratas Del Iguazú International Airport",
@@ -82,7 +83,8 @@
     "lat": -25.737301,
     "lon": -54.4734,
     "type": "medium_airport",
-    "distance_km": 58.7
+    "distance_km": 58.7,
+    "name_zh": "伊瓜苏瀑布国际机场"
    },
    {
     "name": "Coronel Adalberto Mendes da Silva Airport",
@@ -92,7 +94,8 @@
     "lat": -25.000323,
     "lon": -53.501208,
     "type": "medium_airport",
-    "distance_km": 71.6
+    "distance_km": 71.6,
+    "name_zh": "卡斯卡韦尔机场"
    }
   ],
   "nearest_airport_km": 55.1,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

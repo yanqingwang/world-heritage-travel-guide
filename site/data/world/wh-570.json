@@ -3,8 +3,8 @@
  "unesco_id": "570",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 212,
- "popularity_score": 41839,
+ "popularity_rank": 231,
+ "popularity_score": 44785,
  "country": "AL",
  "country_zh": "阿尔巴尼亚",
  "country_en": "Albania",
@@ -72,7 +72,8 @@
     "lat": 39.60145,
     "lon": 19.912179,
     "type": "large_airport",
-    "distance_km": 19.5
+    "distance_km": 19.5,
+    "name_zh": "科孚岛爱奥尼斯·卡波季斯第亚斯国际机场"
    },
    {
     "name": "Ioannina King Pyrrhus National Airport",
@@ -92,7 +93,8 @@
     "lat": 38.925499,
     "lon": 20.765301,
     "type": "medium_airport",
-    "distance_km": 112.7
+    "distance_km": 112.7,
+    "name_zh": "普雷韦扎"
    }
   ],
   "nearest_airport_km": 19.5,
@@ -269,5 +271,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

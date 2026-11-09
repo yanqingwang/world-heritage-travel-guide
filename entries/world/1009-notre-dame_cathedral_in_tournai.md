@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 50.606502
 lon: 3.388903
-updated_at: "2026-11-09T12:01:02Z"
+updated_at: "2026-11-09T12:50:22Z"
 ---
 
 # 图尔奈圣母大教堂 / Notre-Dame Cathedral in Tournai

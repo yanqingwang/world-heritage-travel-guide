@@ -3,8 +3,8 @@
  "unesco_id": "983",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 756,
- "popularity_score": 2784,
+ "popularity_rank": 801,
+ "popularity_score": 2972,
  "country": "GB",
  "country_zh": "英国",
  "country_en": "United Kingdom",
@@ -72,7 +72,8 @@
     "lat": 32.363802,
     "lon": -64.67824,
     "type": "large_airport",
-    "distance_km": 1.7
+    "distance_km": 1.7,
+    "name_zh": "百慕达国际机场"
    }
   ],
   "nearest_airport_km": 1.7,
@@ -152,5 +153,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

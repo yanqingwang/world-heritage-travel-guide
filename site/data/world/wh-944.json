@@ -3,8 +3,8 @@
  "unesco_id": "944",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 379,
- "popularity_score": 18539,
+ "popularity_rank": 405,
+ "popularity_score": 20183,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -72,7 +72,8 @@
     "lat": 23.177799,
     "lon": 80.052002,
     "type": "medium_airport",
-    "distance_km": 80.4
+    "distance_km": 80.4,
+    "name_zh": "贾巴尔普尔机场"
    },
    {
     "name": "Gondia Airport",
@@ -92,7 +93,8 @@
     "lat": 21.092199,
     "lon": 79.047203,
     "type": "large_airport",
-    "distance_km": 195.5
+    "distance_km": 195.5,
+    "name_zh": "巴巴萨海布·阿姆倍伽尔博士国际机场"
    }
   ],
   "nearest_airport_km": 80.4,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

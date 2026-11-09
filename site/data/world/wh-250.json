@@ -3,8 +3,8 @@
  "unesco_id": "250",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 247,
- "popularity_score": 33325,
+ "popularity_rank": 263,
+ "popularity_score": 37199,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 10.762915,
     "lon": 78.717741,
     "type": "large_airport",
-    "distance_km": 45.4
+    "distance_km": 45.4,
+    "name_zh": "蒂鲁吉拉帕利"
    },
    {
     "name": "Jaffna International Airport",
@@ -116,7 +117,8 @@
     "lat": 11.968,
     "lon": 79.812,
     "type": "medium_airport",
-    "distance_km": 151.2
+    "distance_km": 151.2,
+    "name_zh": "本地治里机场"
    }
   ],
   "nearest_airport_km": 45.4,
@@ -295,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

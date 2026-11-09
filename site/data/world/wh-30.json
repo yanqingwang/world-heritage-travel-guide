@@ -3,8 +3,8 @@
  "unesco_id": "30",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 256,
- "popularity_score": 30807,
+ "popularity_rank": 277,
+ "popularity_score": 33638,
  "country": "PL",
  "country_zh": "波兰",
  "country_en": "Poland",
@@ -96,7 +96,8 @@
     "lat": 52.165699,
     "lon": 20.9671,
     "type": "large_airport",
-    "distance_km": 9.8
+    "distance_km": 9.8,
+    "name_zh": "华沙肖邦机场"
    },
    {
     "name": "Warsaw Modlin Airport",
@@ -106,7 +107,8 @@
     "lat": 52.451099,
     "lon": 20.6518,
     "type": "large_airport",
-    "distance_km": 33.2
+    "distance_km": 33.2,
+    "name_zh": "华沙–莫德林"
    },
    {
     "name": "Warsaw Radom Airport",
@@ -116,7 +118,8 @@
     "lat": 51.38937,
     "lon": 21.214742,
     "type": "medium_airport",
-    "distance_km": 96.7
+    "distance_km": 96.7,
+    "name_zh": "拉多姆"
    }
   ],
   "nearest_airport_km": 9.8,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

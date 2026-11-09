@@ -3,7 +3,7 @@
  "unesco_id": "1229",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 883,
+ "popularity_rank": 920,
  "popularity_score": null,
  "country": "SY",
  "country_zh": "叙利亚",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Municipalities of Al Hosn and Haffeh",
- "subdivision_iso": "SY-HI",
- "subdivision_zh": "霍姆斯省",
- "subdivision_en": "Homs Governorate",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "武士堡和萨拉丁堡",
  "name_zh_source": "unesco_official",
  "name_en": "Crac des Chevaliers and Qal’at Salah El-Din",
@@ -72,7 +72,8 @@
     "lat": 35.4011,
     "lon": 35.9487,
     "type": "medium_airport",
-    "distance_km": 74.6
+    "distance_km": 74.6,
+    "name_zh": "巴塞勒·阿萨德国际机场"
    },
    {
     "name": "Beirut Rafic Hariri International Airport",
@@ -82,7 +83,8 @@
     "lat": 33.819833,
     "lon": 35.487443,
     "type": "large_airport",
-    "distance_km": 128.5
+    "distance_km": 128.5,
+    "name_zh": "贝鲁特－拉菲克·哈里里国际机场"
    },
    {
     "name": "Damascus International Airport",
@@ -92,7 +94,8 @@
     "lat": 33.4114990234375,
     "lon": 36.51559829711914,
     "type": "large_airport",
-    "distance_km": 154.1
+    "distance_km": 154.1,
+    "name_zh": "大马士革国际机场"
    }
   ],
   "nearest_airport_km": 74.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

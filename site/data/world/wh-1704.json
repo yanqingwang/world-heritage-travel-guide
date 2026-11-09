@@ -3,8 +3,8 @@
  "unesco_id": "1704",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 766,
- "popularity_score": 2200,
+ "popularity_rank": 809,
+ "popularity_score": 2403,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -64,7 +64,8 @@
     "lat": 21.419833,
     "lon": -104.842472,
     "type": "medium_airport",
-    "distance_km": 107.1
+    "distance_km": 107.1,
+    "name_zh": "特皮克"
    },
    {
     "name": "General Leobardo C. Ruiz International Airport",
@@ -74,7 +75,8 @@
     "lat": 22.894942,
     "lon": -102.687154,
     "type": "medium_airport",
-    "distance_km": 173.1
+    "distance_km": 173.1,
+    "name_zh": "萨卡特卡斯国际机场"
    },
    {
     "name": "Aguascalientes International Airport",
@@ -84,7 +86,8 @@
     "lat": 21.699589,
     "lon": -102.318372,
     "type": "large_airport",
-    "distance_km": 197.1
+    "distance_km": 197.1,
+    "name_zh": "阿瓜斯卡连特斯国际机场"
    }
   ],
   "nearest_airport_km": 107.1,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

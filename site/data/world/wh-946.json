@@ -72,7 +72,8 @@
     "lat": 43.282489,
     "lon": 17.846101,
     "type": "large_airport",
-    "distance_km": 45.0
+    "distance_km": 45.0,
+    "name_zh": "莫斯塔尔"
    },
    {
     "name": "Sarajevo International Airport",
@@ -82,7 +83,8 @@
     "lat": 43.8246,
     "lon": 18.331499,
     "type": "large_airport",
-    "distance_km": 65.2
+    "distance_km": 65.2,
+    "name_zh": "萨拉热窝国际机场"
    },
    {
     "name": "Dubrovnik Ruđer Bošković Airport",
@@ -92,7 +94,8 @@
     "lat": 42.562247,
     "lon": 18.265543,
     "type": "large_airport",
-    "distance_km": 76.2
+    "distance_km": 76.2,
+    "name_zh": "杜布罗夫尼克机场"
    }
   ],
   "nearest_airport_km": 45.0,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

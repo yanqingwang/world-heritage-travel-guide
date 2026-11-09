@@ -3,8 +3,8 @@
  "unesco_id": "659",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 198,
- "popularity_score": 49086,
+ "popularity_rank": 215,
+ "popularity_score": 53883,
  "country": "IE",
  "country_zh": "爱尔兰",
  "country_en": "Ireland",
@@ -96,7 +96,8 @@
     "lat": 53.428713,
     "lon": -6.262121,
     "type": "large_airport",
-    "distance_km": 31.9
+    "distance_km": 31.9,
+    "name_zh": "都柏林机场"
    },
    {
     "name": "Belfast International Airport",
@@ -106,7 +107,8 @@
     "lat": 54.6575012207,
     "lon": -6.2158298492399995,
     "type": "large_airport",
-    "distance_km": 108.3
+    "distance_km": 108.3,
+    "name_zh": "贝尔法斯特国际机场"
    },
    {
     "name": "George Best Belfast City Airport",
@@ -116,7 +118,8 @@
     "lat": 54.618099,
     "lon": -5.8725,
     "type": "medium_airport",
-    "distance_km": 109.5
+    "distance_km": 109.5,
+    "name_zh": "乔治·贝斯特贝尔法斯特城市机场"
    }
   ],
   "nearest_airport_km": 31.9,
@@ -335,5 +338,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

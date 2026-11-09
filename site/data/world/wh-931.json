@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "AT-6",
- "subdivision_zh": "施泰尔马克州",
- "subdivision_en": "Styria",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "格拉茨城历史中心与埃根博格城堡",
  "name_zh_source": "unesco_official",
  "name_en": "City of Graz – Historic Centre and Schloss Eggenberg",
@@ -64,7 +64,8 @@
     "lat": 46.9911,
     "lon": 15.4396,
     "type": "large_airport",
-    "distance_km": 9.9
+    "distance_km": 9.9,
+    "name_zh": "格拉茨机场"
    },
    {
     "name": "Maribor Edvard Rusjan Airport",
@@ -74,7 +75,8 @@
     "lat": 46.4799,
     "lon": 15.6861,
     "type": "medium_airport",
-    "distance_km": 69.8
+    "distance_km": 69.8,
+    "name_zh": "马里博尔爱德华·鲁斯扬机场"
    },
    {
     "name": "Klagenfurt Airport",
@@ -84,7 +86,8 @@
     "lat": 46.642502,
     "lon": 14.3377,
     "type": "large_airport",
-    "distance_km": 93.4
+    "distance_km": 93.4,
+    "name_zh": "克拉根福机场"
    }
   ],
   "nearest_airport_km": 9.9,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

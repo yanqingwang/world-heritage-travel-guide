@@ -3,8 +3,8 @@
  "unesco_id": "1718",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 787,
- "popularity_score": 1507,
+ "popularity_rank": 833,
+ "popularity_score": 1633,
  "country": "RO",
  "country_zh": "罗马尼亚",
  "country_en": "Romania",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "RO-SJ",
- "subdivision_zh": "瑟拉日县",
- "subdivision_en": "Sălaj County",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "罗马帝国的边疆——达契亚",
  "name_zh_source": "unesco_official",
  "name_en": "Frontiers of the Roman Empire – Dacia",
@@ -64,7 +64,8 @@
     "lat": 47.658444,
     "lon": 23.464445,
     "type": "medium_airport",
-    "distance_km": 57.9
+    "distance_km": 57.9,
+    "name_zh": "马拉穆列什国际机场"
    },
    {
     "name": "Avram Iancu Cluj International Airport",
@@ -74,7 +75,8 @@
     "lat": 46.786042,
     "lon": 23.685733,
     "type": "large_airport",
-    "distance_km": 59.3
+    "distance_km": 59.3,
+    "name_zh": "克卢日国际机场"
    },
    {
     "name": "Satu Mare International Airport",
@@ -84,7 +86,8 @@
     "lat": 47.7033,
     "lon": 22.8857,
     "type": "medium_airport",
-    "distance_km": 61.6
+    "distance_km": 61.6,
+    "name_zh": "萨图马雷"
    }
   ],
   "nearest_airport_km": 57.9,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

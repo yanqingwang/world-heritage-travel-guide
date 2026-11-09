@@ -3,8 +3,8 @@
  "unesco_id": "742",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 470,
- "popularity_score": 12429,
+ "popularity_rank": 503,
+ "popularity_score": 13410,
  "country": "CO",
  "country_zh": "哥伦比亚",
  "country_en": "Colombia",
@@ -72,7 +72,8 @@
     "lat": 9.33274,
     "lon": -75.2856,
     "type": "medium_airport",
-    "distance_km": 95.0
+    "distance_km": 95.0,
+    "name_zh": "Las Brujas机场 (哥伦比亚)"
    },
    {
     "name": "Golfo de Morrosquillo Airport",
@@ -92,7 +93,8 @@
     "lat": 8.82374,
     "lon": -75.8258,
     "type": "medium_airport",
-    "distance_km": 160.6
+    "distance_km": 160.6,
+    "name_zh": "洛斯·加尔佐内斯机场"
    }
   ],
   "nearest_airport_km": 95.0,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

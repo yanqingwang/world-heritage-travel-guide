@@ -3,7 +3,7 @@
  "unesco_id": "593",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1105,
+ "popularity_rank": 543,
  "popularity_score": 11884,
  "country": "ID",
  "country_zh": "印度尼西亚",
@@ -72,7 +72,8 @@
     "lat": -7.516044,
     "lon": 110.757492,
     "type": "large_airport",
-    "distance_km": 12.6
+    "distance_km": 12.6,
+    "name_zh": "梭罗国际机场"
    },
    {
     "name": "Adisutjipto International Airport",
@@ -82,7 +83,8 @@
     "lat": -7.78818,
     "lon": 110.431999,
     "type": "medium_airport",
-    "distance_km": 59.5
+    "distance_km": 59.5,
+    "name_zh": "阿迪苏吉普托国际机场"
    },
    {
     "name": "Jenderal Ahmad Yani Airport",
@@ -92,7 +94,8 @@
     "lat": -6.970732,
     "lon": 110.373244,
     "type": "large_airport",
-    "distance_km": 74.9
+    "distance_km": 74.9,
+    "name_zh": "艾哈迈德·雅尼国际机场"
    }
   ],
   "nearest_airport_km": 12.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

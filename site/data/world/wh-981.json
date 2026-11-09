@@ -72,7 +72,8 @@
     "lat": 54.401001,
     "lon": 48.8027,
     "type": "medium_airport",
-    "distance_km": 66.3
+    "distance_km": 66.3,
+    "name_zh": "乌里扬诺夫斯克东方港机场"
    },
    {
     "name": "Kazan International Airport",
@@ -82,7 +83,8 @@
     "lat": 55.606201,
     "lon": 49.278702,
     "type": "large_airport",
-    "distance_km": 71.2
+    "distance_km": 71.2,
+    "name_zh": "喀山国际机场"
    },
    {
     "name": "Ulyanovsk Baratayevka Airport",
@@ -92,7 +94,8 @@
     "lat": 54.27016,
     "lon": 48.225569,
     "type": "medium_airport",
-    "distance_km": 95.2
+    "distance_km": 95.2,
+    "name_zh": "乌里扬诺夫斯克"
    }
   ],
   "nearest_airport_km": 66.3,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "42",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 338,
- "popularity_score": 21568,
+ "popularity_rank": 359,
+ "popularity_score": 23641,
  "country": "BG",
  "country_zh": "保加利亚",
  "country_en": "Bulgaria",
@@ -72,7 +72,8 @@
     "lat": 42.696357,
     "lon": 23.417671,
     "type": "large_airport",
-    "distance_km": 13.7
+    "distance_km": 13.7,
+    "name_zh": "索菲亚机场"
    },
    {
     "name": "Niš Constantine the Great Airport",
@@ -82,7 +83,8 @@
     "lat": 43.336538,
     "lon": 21.856242,
     "type": "large_airport",
-    "distance_km": 138.1
+    "distance_km": 138.1,
+    "name_zh": "尼什"
    },
    {
     "name": "Plovdiv International Airport",
@@ -92,7 +94,8 @@
     "lat": 42.067799,
     "lon": 24.8508,
     "type": "large_airport",
-    "distance_km": 145.1
+    "distance_km": 145.1,
+    "name_zh": "普罗夫迪夫机场"
    }
   ],
   "nearest_airport_km": 13.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(vi)"
 lat: 32.81222222
 lon: 34.98638889
-updated_at: "2026-11-09T12:01:03Z"
+updated_at: "2026-11-09T12:50:23Z"
 ---
 
 # 海法和西加利利的巴海圣地 / Bahá’i Holy Places in Haifa and the Western Galilee

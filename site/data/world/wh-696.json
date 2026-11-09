@@ -3,8 +3,8 @@
  "unesco_id": "696",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 134,
- "popularity_score": 84701,
+ "popularity_rank": 148,
+ "popularity_score": 92467,
  "country": "DK",
  "country_zh": "丹麦",
  "country_en": "Denmark",
@@ -96,7 +96,8 @@
     "lat": 56.29610061645508,
     "lon": 12.847100257873535,
     "type": "medium_airport",
-    "distance_km": 31.8
+    "distance_km": 31.8,
+    "name_zh": "恩厄尔霍尔姆－赫尔辛堡机场"
    },
    {
     "name": "Copenhagen Kastrup Airport",
@@ -106,7 +107,8 @@
     "lat": 55.617900848389,
     "lon": 12.656000137329,
     "type": "large_airport",
-    "distance_km": 46.8
+    "distance_km": 46.8,
+    "name_zh": "哥本哈根凯斯楚普机场"
    },
    {
     "name": "Copenhagen Roskilde Airport",
@@ -334,5 +336,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

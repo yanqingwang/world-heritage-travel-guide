@@ -3,8 +3,8 @@
  "unesco_id": "1087",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 532,
- "popularity_score": 9852,
+ "popularity_rank": 569,
+ "popularity_score": 10722,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -72,7 +72,8 @@
     "lat": 53.046786,
     "lon": 8.78932,
     "type": "large_airport",
-    "distance_km": 3.5
+    "distance_km": 3.5,
+    "name_zh": "不来梅机场"
    },
    {
     "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
@@ -92,7 +93,8 @@
     "lat": 52.461102,
     "lon": 9.68508,
     "type": "large_airport",
-    "distance_km": 90.3
+    "distance_km": 90.3,
+    "name_zh": "汉诺威-朗根哈根机场"
    }
   ],
   "nearest_airport_km": 3.5,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

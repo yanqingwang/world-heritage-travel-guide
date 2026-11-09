@@ -3,8 +3,8 @@
  "unesco_id": "1021",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 482,
- "popularity_score": 11919,
+ "popularity_rank": 508,
+ "popularity_score": 13187,
  "country": "BW",
  "country_zh": "博茨瓦纳",
  "country_en": "Botswana",
@@ -82,7 +82,8 @@
     "lat": -19.970491,
     "lon": 23.431409,
     "type": "large_airport",
-    "distance_km": 220.7
+    "distance_km": 220.7,
+    "name_zh": "马翁"
    },
    {
     "name": "Rundu Airport",
@@ -173,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

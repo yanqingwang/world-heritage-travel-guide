@@ -3,7 +3,7 @@
  "unesco_id": "1808",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 798,
+ "popularity_rank": 850,
  "popularity_score": 1327,
  "country": "SS",
  "country_zh": "南苏丹",
@@ -64,7 +64,8 @@
     "lat": 4.87201,
     "lon": 31.601101,
     "type": "large_airport",
-    "distance_km": 236.4
+    "distance_km": 236.4,
+    "name_zh": "朱巴机场"
    },
    {
     "name": "Gambela Airport",
@@ -74,7 +75,8 @@
     "lat": 8.12876,
     "lon": 34.563099,
     "type": "medium_airport",
-    "distance_km": 252.1
+    "distance_km": 252.1,
+    "name_zh": "甘贝拉机场"
    },
    {
     "name": "Tippi Airport",
@@ -163,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

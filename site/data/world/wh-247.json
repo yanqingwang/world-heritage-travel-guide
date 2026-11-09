@@ -3,7 +3,7 @@
  "unesco_id": "247",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1036,
+ "popularity_rank": 1052,
  "popularity_score": null,
  "country": "IN",
  "country_zh": "印度",
@@ -17,7 +17,7 @@
  ],
  "region": "",
  "subdivision_iso": "IN-RJ",
- "subdivision_zh": "拉贾斯坦邦",
+ "subdivision_zh": "",
  "subdivision_en": "Rajasthan",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "拉贾斯坦邦的山地堡垒",
@@ -64,7 +64,8 @@
     "lat": 24.617700576799997,
     "lon": 73.89610290530001,
     "type": "medium_airport",
-    "distance_km": 81.3
+    "distance_km": 81.3,
+    "name_zh": "乌代浦"
    },
    {
     "name": "Kishangarh Airport Ajmer",
@@ -84,7 +85,8 @@
     "lat": 26.251100540161133,
     "lon": 73.04889678955078,
     "type": "medium_airport",
-    "distance_km": 220.9
+    "distance_km": 220.9,
+    "name_zh": "焦特布尔机场"
    }
   ],
   "nearest_airport_km": 81.3,
@@ -162,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

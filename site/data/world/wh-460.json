@@ -3,7 +3,7 @@
  "unesco_id": "460",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1079,
+ "popularity_rank": 1090,
  "popularity_score": null,
  "country": "CU",
  "country_zh": "古巴",
@@ -82,7 +82,8 @@
     "lat": 22.149999618530273,
     "lon": -80.41419982910156,
     "type": "medium_airport",
-    "distance_km": 58.8
+    "distance_km": 58.8,
+    "name_zh": "Jaime González机场"
    },
    {
     "name": "Abel Santamaria International Airport",
@@ -92,7 +93,8 @@
     "lat": 22.492215,
     "lon": -79.943119,
     "type": "large_airport",
-    "distance_km": 76.7
+    "distance_km": 76.7,
+    "name_zh": "圣克拉拉机场"
    }
   ],
   "nearest_airport_km": 2.1,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

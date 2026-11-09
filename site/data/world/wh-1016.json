@@ -3,8 +3,8 @@
  "unesco_id": "1016",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 777,
- "popularity_score": 1836,
+ "popularity_rank": 819,
+ "popularity_score": 2047,
  "country": "PE",
  "country_zh": "秘鲁",
  "country_en": "Peru",
@@ -72,7 +72,8 @@
     "lat": -16.340786,
     "lon": -71.569485,
     "type": "large_airport",
-    "distance_km": 7.6
+    "distance_km": 7.6,
+    "name_zh": "Rodríguez Ballón国际机场"
    },
    {
     "name": "General Jorge Fernandez Maldon Airport",
@@ -92,7 +93,8 @@
     "lat": -15.467689,
     "lon": -70.15653,
     "type": "large_airport",
-    "distance_km": 180.0
+    "distance_km": 180.0,
+    "name_zh": "胡利亚卡"
    }
   ],
   "nearest_airport_km": 7.6,
@@ -174,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

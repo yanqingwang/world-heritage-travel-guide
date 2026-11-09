@@ -3,7 +3,7 @@
  "unesco_id": "481",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1081,
+ "popularity_rank": 1092,
  "popularity_score": null,
  "country": "LA",
  "country_zh": "老挝",
@@ -72,7 +72,8 @@
     "lat": 15.133973,
     "lon": 105.779871,
     "type": "large_airport",
-    "distance_km": 33.5
+    "distance_km": 33.5,
+    "name_zh": "巴色国际机场"
    },
    {
     "name": "Ubon Ratchathani Airport",
@@ -82,7 +83,8 @@
     "lat": 15.2512998581,
     "lon": 104.870002747,
     "type": "medium_airport",
-    "distance_km": 110.2
+    "distance_km": 110.2,
+    "name_zh": "乌汶叻差他尼国际机场"
    },
    {
     "name": "Siem Reap-Angkor International Airport",
@@ -92,7 +94,8 @@
     "lat": 13.36974,
     "lon": 104.223831,
     "type": "large_airport",
-    "distance_km": 235.3
+    "distance_km": 235.3,
+    "name_zh": "暹粒吴哥国际机场"
    }
   ],
   "nearest_airport_km": 33.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "948",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 146,
- "popularity_score": 80538,
+ "popularity_rank": 166,
+ "popularity_score": 84626,
  "country": "VN",
  "country_zh": "越南",
  "country_en": "Vietnam",
@@ -96,7 +96,8 @@
     "lat": 16.0439,
     "lon": 108.198997,
     "type": "large_airport",
-    "distance_km": 23.4
+    "distance_km": 23.4,
+    "name_zh": "岘港国际机场"
    },
    {
     "name": "Chu Lai Airport",
@@ -106,7 +107,8 @@
     "lat": 15.4033,
     "lon": 108.706001,
     "type": "small_airport",
-    "distance_km": 66.2
+    "distance_km": 66.2,
+    "name_zh": "茱莱机场"
    },
    {
     "name": "Phu Bai International Airport",
@@ -116,7 +118,8 @@
     "lat": 16.400581,
     "lon": 107.704094,
     "type": "large_airport",
-    "distance_km": 88.8
+    "distance_km": 88.8,
+    "name_zh": "富牌国际机场"
    }
   ],
   "nearest_airport_km": 23.4,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

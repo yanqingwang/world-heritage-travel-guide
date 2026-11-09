@@ -3,8 +3,8 @@
  "unesco_id": "337",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 124,
- "popularity_score": 99421,
+ "popularity_rank": 134,
+ "popularity_score": 109995,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -106,7 +106,8 @@
     "lat": 26.7091007232666,
     "lon": 92.78469848632812,
     "type": "medium_airport",
-    "distance_km": 56.4
+    "distance_km": 56.4,
+    "name_zh": "泰兹普尔机场"
    },
    {
     "name": "Jorhat Airport",
@@ -116,7 +117,8 @@
     "lat": 26.730456,
     "lon": 94.175416,
     "type": "medium_airport",
-    "distance_km": 82.3
+    "distance_km": 82.3,
+    "name_zh": "焦尔哈德机场"
    }
   ],
   "nearest_airport_km": 44.0,
@@ -295,5 +297,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "994",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 177,
- "popularity_score": 60008,
+ "popularity_rank": 194,
+ "popularity_score": 64862,
  "country": "LT",
  "country_zh": "立陶宛",
  "country_en": "Lithuania",
@@ -101,7 +101,8 @@
     "lat": 54.89161,
     "lon": 20.598559,
     "type": "large_airport",
-    "distance_km": 48.7
+    "distance_km": 48.7,
+    "name_zh": "加里宁格勒"
    },
    {
     "name": "Palanga International Airport",
@@ -111,7 +112,8 @@
     "lat": 55.973202,
     "lon": 21.093901,
     "type": "large_airport",
-    "distance_km": 78.1
+    "distance_km": 78.1,
+    "name_zh": "帕兰加国际机场"
    },
    {
     "name": "Gdańsk Lech Wałęsa Airport",
@@ -121,7 +123,8 @@
     "lat": 54.377602,
     "lon": 18.4662,
     "type": "large_airport",
-    "distance_km": 188.9
+    "distance_km": 188.9,
+    "name_zh": "格但斯克"
    }
   ],
   "nearest_airport_km": 48.7,
@@ -348,5 +351,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

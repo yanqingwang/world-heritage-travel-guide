@@ -3,7 +3,7 @@
  "unesco_id": "132",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 908,
+ "popularity_rank": 939,
  "popularity_score": null,
  "country": "MT",
  "country_zh": "马耳他",
@@ -64,7 +64,8 @@
     "lat": 35.845932,
     "lon": 14.491546,
     "type": "large_airport",
-    "distance_km": 30.2
+    "distance_km": 30.2,
+    "name_zh": "马耳他国际机场"
    },
    {
     "name": "Comiso Airport",
@@ -74,7 +75,8 @@
     "lat": 36.99583,
     "lon": 14.60889,
     "type": "medium_airport",
-    "distance_km": 109.5
+    "distance_km": 109.5,
+    "name_zh": "科米索机场"
    },
    {
     "name": "Lampedusa Airport",
@@ -84,7 +86,8 @@
     "lat": 35.497898,
     "lon": 12.6181,
     "type": "medium_airport",
-    "distance_km": 161.1
+    "distance_km": 161.1,
+    "name_zh": "兰佩杜萨岛机场"
    }
   ],
   "nearest_airport_km": 30.2,
@@ -165,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

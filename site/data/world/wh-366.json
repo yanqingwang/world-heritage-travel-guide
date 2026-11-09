@@ -3,8 +3,8 @@
  "unesco_id": "366",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 226,
- "popularity_score": 36993,
+ "popularity_rank": 249,
+ "popularity_score": 39836,
  "country": "PE",
  "country_zh": "秘鲁",
  "country_en": "Peru",
@@ -96,7 +96,8 @@
     "lat": -8.082382,
     "lon": -79.108821,
     "type": "large_airport",
-    "distance_km": 4.9
+    "distance_km": 4.9,
+    "name_zh": "特鲁希略"
    },
    {
     "name": "Mayor General FAP Armando Revoredo Iglesias Airport",
@@ -106,7 +107,8 @@
     "lat": -7.13918,
     "lon": -78.489403,
     "type": "medium_airport",
-    "distance_km": 125.8
+    "distance_km": 125.8,
+    "name_zh": "Mayor General FAP Armando Revoredo Iglesias机场"
    },
    {
     "name": "FAP Lieutenant Jaime Andres de Montreuil Morales Airport",
@@ -116,7 +118,8 @@
     "lat": -9.14961,
     "lon": -78.523804,
     "type": "medium_airport",
-    "distance_km": 130.5
+    "distance_km": 130.5,
+    "name_zh": "Tnte. FAP Jaime Montreuil Morales机场"
    }
   ],
   "nearest_airport_km": 4.9,
@@ -254,5 +257,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

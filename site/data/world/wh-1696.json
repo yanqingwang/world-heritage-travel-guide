@@ -3,7 +3,7 @@
  "unesco_id": "1696",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 996,
+ "popularity_rank": 1012,
  "popularity_score": null,
  "country": "AZ",
  "country_zh": "阿塞拜疆",
@@ -72,7 +72,8 @@
     "lat": 40.808617,
     "lon": 47.725389,
     "type": "medium_airport",
-    "distance_km": 98.4
+    "distance_km": 98.4,
+    "name_zh": "甘巴拉国际机场"
    },
    {
     "name": "Heydar Aliyev International Airport",
@@ -82,7 +83,8 @@
     "lat": 40.47278,
     "lon": 50.050931,
     "type": "large_airport",
-    "distance_km": 101.8
+    "distance_km": 101.8,
+    "name_zh": "盖达尔·阿利耶夫国际机场"
    },
    {
     "name": "Parsabad-Moghan Airport",
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

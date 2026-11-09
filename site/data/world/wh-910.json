@@ -3,8 +3,8 @@
  "unesco_id": "910",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 502,
- "popularity_score": 11180,
+ "popularity_rank": 539,
+ "popularity_score": 12018,
  "country": "KN",
  "country_zh": "圣基茨和尼维斯",
  "country_en": "Saint Kitts and Nevis",
@@ -72,7 +72,8 @@
     "lat": 17.310845,
     "lon": -62.719117,
     "type": "large_airport",
-    "distance_km": 13.0
+    "distance_km": 13.0,
+    "name_zh": "圣基茨岛"
    },
    {
     "name": "F. D. Roosevelt Airport",
@@ -82,7 +83,8 @@
     "lat": 17.4965,
     "lon": -62.979401,
     "type": "medium_airport",
-    "distance_km": 22.5
+    "distance_km": 22.5,
+    "name_zh": "F·D·罗斯福机场"
    },
    {
     "name": "Vance W. Amory International Airport",
@@ -92,7 +94,8 @@
     "lat": 17.2057,
     "lon": -62.589901,
     "type": "medium_airport",
-    "distance_km": 30.5
+    "distance_km": 30.5,
+    "name_zh": "万斯·艾默里国际机场"
    }
   ],
   "nearest_airport_km": 13.0,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

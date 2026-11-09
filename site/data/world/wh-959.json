@@ -64,7 +64,8 @@
     "lat": -33.393001556396484,
     "lon": -70.78579711914062,
     "type": "large_airport",
-    "distance_km": 87.6
+    "distance_km": 87.6,
+    "name_zh": "阿图罗·梅里诺·贝尼特斯准将国际机场"
    },
    {
     "name": "Governor Francisco Gabrielli International Airport",
@@ -74,7 +75,8 @@
     "lat": -32.831699,
     "lon": -68.7929,
     "type": "large_airport",
-    "distance_km": 265.6
+    "distance_km": 265.6,
+    "name_zh": "门多萨"
    },
    {
     "name": "Domingo Faustino Sarmiento Airport",
@@ -84,7 +86,8 @@
     "lat": -31.571501,
     "lon": -68.418198,
     "type": "medium_airport",
-    "distance_km": 343.0
+    "distance_km": 343.0,
+    "name_zh": "圣胡安-多明哥·福斯蒂诺·萨尔门托机场"
    }
   ],
   "nearest_airport_km": 87.6,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

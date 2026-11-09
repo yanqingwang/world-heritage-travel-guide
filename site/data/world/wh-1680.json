@@ -3,8 +3,8 @@
  "unesco_id": "1680",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 457,
- "popularity_score": 12747,
+ "popularity_rank": 485,
+ "popularity_score": 14115,
  "country": "SR",
  "country_zh": "苏里南",
  "country_en": "Suriname",
@@ -72,7 +72,8 @@
     "lat": 5.45283,
     "lon": -55.187801,
     "type": "large_airport",
-    "distance_km": 22.9
+    "distance_km": 22.9,
+    "name_zh": "约翰·阿道夫·彭格尔国际机场"
    },
    {
     "name": "Zorg en Hoop Airport",
@@ -82,7 +83,8 @@
     "lat": 5.811211,
     "lon": -55.192299,
     "type": "small_airport",
-    "distance_km": 48.2
+    "distance_km": 48.2,
+    "name_zh": "关怀与希望机场"
    },
    {
     "name": "Eduard Alexander Gummels Airport",
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "17",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 426,
- "popularity_score": 14604,
+ "popularity_rank": 449,
+ "popularity_score": 16344,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
  "country_en": "Ethiopia",
@@ -72,7 +72,8 @@
     "lat": 5.749655,
     "lon": 36.560165,
     "type": "medium_airport",
-    "distance_km": 151.9
+    "distance_km": 151.9,
+    "name_zh": "金卡机场"
    },
    {
     "name": "Arba Minch Airport",
@@ -82,7 +83,8 @@
     "lat": 6.03939,
     "lon": 37.5905,
     "type": "medium_airport",
-    "distance_km": 244.7
+    "distance_km": 244.7,
+    "name_zh": "阿尔巴门奇机场"
    },
    {
     "name": "Mizan Teferi Airport",
@@ -92,7 +94,8 @@
     "lat": 6.9571,
     "lon": 35.5547,
     "type": "small_airport",
-    "distance_km": 278.2
+    "distance_km": 278.2,
+    "name_zh": "米赞特费里机场"
    }
   ],
   "nearest_airport_km": 151.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

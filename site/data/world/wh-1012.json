@@ -3,8 +3,8 @@
  "unesco_id": "1012",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 398,
- "popularity_score": 16793,
+ "popularity_rank": 421,
+ "popularity_score": 18383,
  "country": "MY",
  "country_zh": "马来西亚",
  "country_en": "Malaysia",
@@ -72,7 +72,8 @@
     "lat": 5.932743,
     "lon": 116.049324,
     "type": "large_airport",
-    "distance_km": 70.7
+    "distance_km": 70.7,
+    "name_zh": "亚庇国际机场"
    },
    {
     "name": "Kudat Airport",
@@ -82,7 +83,8 @@
     "lat": 6.924111,
     "lon": 116.837068,
     "type": "small_airport",
-    "distance_km": 88.5
+    "distance_km": 88.5,
+    "name_zh": "古达机场"
    },
    {
     "name": "Sandakan Airport",
@@ -92,7 +94,8 @@
     "lat": 5.900899887084961,
     "lon": 118.05899810791016,
     "type": "medium_airport",
-    "distance_km": 158.3
+    "distance_km": 158.3,
+    "name_zh": "山打根国际机场"
    }
   ],
   "nearest_airport_km": 70.7,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1259",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 274,
- "popularity_score": 28992,
+ "popularity_rank": 291,
+ "popularity_score": 31844,
  "country": "MU",
  "country_zh": "毛里求斯",
  "country_en": "Mauritius",
@@ -96,7 +96,8 @@
     "lat": -20.430201,
     "lon": 57.683601,
     "type": "large_airport",
-    "distance_km": 38.7
+    "distance_km": 38.7,
+    "name_zh": "西沃萨古尔·拉姆古兰爵士国际机场"
    },
    {
     "name": "Roland Garros Airport",
@@ -106,7 +107,8 @@
     "lat": -20.890087,
     "lon": 55.518894,
     "type": "large_airport",
-    "distance_km": 192.7
+    "distance_km": 192.7,
+    "name_zh": "罗兰加洛斯机场"
    },
    {
     "name": "Saint-Pierre Pierrefonds Airport",
@@ -116,7 +118,8 @@
     "lat": -21.319362,
     "lon": 55.422506,
     "type": "large_airport",
-    "distance_km": 218.4
+    "distance_km": 218.4,
+    "name_zh": "圣皮埃尔机场"
    }
   ],
   "nearest_airport_km": 38.7,
@@ -311,5 +314,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

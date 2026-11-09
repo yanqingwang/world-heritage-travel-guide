@@ -3,8 +3,8 @@
  "unesco_id": "872",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 406,
- "popularity_score": 16127,
+ "popularity_rank": 435,
+ "popularity_score": 17713,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -72,7 +72,8 @@
     "lat": 45.725996,
     "lon": 5.090139,
     "type": "large_airport",
-    "distance_km": 20.8
+    "distance_km": 20.8,
+    "name_zh": "里昂圣埃克絮佩里机场"
    },
    {
     "name": "Grenoble Alpes Isère Airport",
@@ -82,7 +83,8 @@
     "lat": 45.3629,
     "lon": 5.32937,
     "type": "medium_airport",
-    "distance_km": 59.2
+    "distance_km": 59.2,
+    "name_zh": "格勒诺勃"
    },
    {
     "name": "Chambéry Aix les Bains airport",
@@ -92,7 +94,8 @@
     "lat": 45.6381,
     "lon": 5.88023,
     "type": "medium_airport",
-    "distance_km": 82.9
+    "distance_km": 82.9,
+    "name_zh": "尚贝里机场"
    }
   ],
   "nearest_airport_km": 20.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "682",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 245,
- "popularity_score": 33370,
+ "popularity_rank": 258,
+ "popularity_score": 37668,
  "country": "UG",
  "country_zh": "乌干达",
  "country_en": "Uganda",
@@ -116,7 +116,8 @@
     "lat": -1.666758,
     "lon": 29.238037,
     "type": "large_airport",
-    "distance_km": 86.8
+    "distance_km": 86.8,
+    "name_zh": "戈马国际机场"
    }
   ],
   "nearest_airport_km": 26.0,
@@ -262,5 +263,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: -27.056
 lon: -55.753
-updated_at: "2026-11-09T12:01:00Z"
+updated_at: "2026-11-09T12:50:20Z"
 ---
 
 # 塔瓦兰格的耶稣和巴拉那的桑蒂西莫－特立尼达耶稣会传教区 / Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue

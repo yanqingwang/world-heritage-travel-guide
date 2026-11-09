@@ -3,8 +3,8 @@
  "unesco_id": "28",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 10,
- "popularity_score": 836336,
+ "popularity_rank": 11,
+ "popularity_score": 905798,
  "country": "US",
  "country_zh": "美国",
  "country_en": "United States",
@@ -106,7 +106,8 @@
     "lat": 43.6073,
     "lon": -110.737999,
     "type": "medium_airport",
-    "distance_km": 112.0
+    "distance_km": 112.0,
+    "name_zh": "杰克逊 (怀俄明州)"
    },
    {
     "name": "Yellowstone Regional Airport",
@@ -116,7 +117,8 @@
     "lat": 44.520199,
     "lon": -109.024002,
     "type": "medium_airport",
-    "distance_km": 117.3
+    "distance_km": 117.3,
+    "name_zh": "黄石支线机场"
    }
   ],
   "nearest_airport_km": 49.9,
@@ -252,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

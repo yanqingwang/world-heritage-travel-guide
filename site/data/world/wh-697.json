@@ -3,7 +3,7 @@
  "unesco_id": "697",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1129,
+ "popularity_rank": 1134,
  "popularity_score": null,
  "country": "DK",
  "country_zh": "丹麦",
@@ -72,7 +72,8 @@
     "lat": 55.740335,
     "lon": 9.157019,
     "type": "large_airport",
-    "distance_km": 16.5
+    "distance_km": 16.5,
+    "name_zh": "比隆"
    },
    {
     "name": "Esbjerg Airport",
@@ -82,7 +83,8 @@
     "lat": 55.525902,
     "lon": 8.5534,
     "type": "medium_airport",
-    "distance_km": 60.1
+    "distance_km": 60.1,
+    "name_zh": "埃斯比约机场"
    },
    {
     "name": "Midtjyllands Airport / Air Base Karup",
@@ -92,7 +94,8 @@
     "lat": 56.297139,
     "lon": 9.104311,
     "type": "medium_airport",
-    "distance_km": 63.2
+    "distance_km": 63.2,
+    "name_zh": "中日德兰机场"
    }
   ],
   "nearest_airport_km": 16.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

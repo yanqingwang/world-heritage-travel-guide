@@ -3,8 +3,8 @@
  "unesco_id": "1681",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 434,
- "popularity_score": 14166,
+ "popularity_rank": 466,
+ "popularity_score": 15117,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -72,7 +72,8 @@
     "lat": -34.559419,
     "lon": -58.415536,
     "type": "large_airport",
-    "distance_km": 5.0
+    "distance_km": 5.0,
+    "name_zh": "豪尔赫·纽伯里机场"
    },
    {
     "name": "Ezeiza International Airport - Ministro Pistarini",
@@ -82,7 +83,8 @@
     "lat": -34.8222,
     "lon": -58.5358,
     "type": "large_airport",
-    "distance_km": 32.2
+    "distance_km": 32.2,
+    "name_zh": "皮斯塔里尼部长国际机场"
    },
    {
     "name": "Carrasco General Cesáreo L. Berisso International Airport",
@@ -92,7 +94,8 @@
     "lat": -34.835647,
     "lon": -56.026497,
     "type": "large_airport",
-    "distance_km": 225.3
+    "distance_km": 225.3,
+    "name_zh": "卡拉斯科国际机场"
    }
   ],
   "nearest_airport_km": 5.0,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

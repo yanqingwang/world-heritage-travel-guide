@@ -3,8 +3,8 @@
  "unesco_id": "1066",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 306,
- "popularity_score": 24739,
+ "popularity_rank": 887,
+ "popularity_score": null,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -72,7 +72,8 @@
     "lat": 49.946353,
     "lon": 7.261734,
     "type": "large_airport",
-    "distance_km": 39.9
+    "distance_km": 39.9,
+    "name_zh": "哈恩机场"
    },
    {
     "name": "Frankfurt Main Airport",
@@ -82,7 +83,8 @@
     "lat": 50.026706,
     "lon": 8.55835,
     "type": "large_airport",
-    "distance_km": 63.8
+    "distance_km": 63.8,
+    "name_zh": "法兰克福机场"
    },
    {
     "name": "Cologne Bonn Airport",
@@ -92,7 +94,8 @@
     "lat": 50.865898,
     "lon": 7.14274,
     "type": "large_airport",
-    "distance_km": 86.3
+    "distance_km": 86.3,
+    "name_zh": "科隆/波恩机场"
    }
   ],
   "nearest_airport_km": 39.9,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

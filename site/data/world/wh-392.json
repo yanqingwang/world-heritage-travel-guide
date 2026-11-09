@@ -3,8 +3,8 @@
  "unesco_id": "392",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 697,
- "popularity_score": 4224,
+ "popularity_rank": 741,
+ "popularity_score": 4636,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -72,7 +72,8 @@
     "lat": 37.06829833984375,
     "lon": 22.02549934387207,
     "type": "medium_airport",
-    "distance_km": 41.7
+    "distance_km": 41.7,
+    "name_zh": "卡拉马塔"
    },
    {
     "name": "Patras Araxos Agamemnon Airport",
@@ -82,7 +83,8 @@
     "lat": 38.1511,
     "lon": 21.4256,
     "type": "medium_airport",
-    "distance_km": 90.4
+    "distance_km": 90.4,
+    "name_zh": "帕特雷"
    },
    {
     "name": "Zakynthos International Airport \"Dionysios Solomos\"",
@@ -92,7 +94,8 @@
     "lat": 37.7509,
     "lon": 20.8843,
     "type": "large_airport",
-    "distance_km": 96.4
+    "distance_km": 96.4,
+    "name_zh": "扎金索斯"
    }
   ],
   "nearest_airport_km": 41.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

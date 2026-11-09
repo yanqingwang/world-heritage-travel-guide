@@ -3,7 +3,7 @@
  "unesco_id": "1356",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 916,
+ "popularity_rank": 945,
  "popularity_score": null,
  "country": "JM",
  "country_zh": "牙买加",
@@ -64,7 +64,8 @@
     "lat": 17.935699462890625,
     "lon": -76.7874984741211,
     "type": "large_airport",
-    "distance_km": 27.8
+    "distance_km": 27.8,
+    "name_zh": "金斯敦"
    },
    {
     "name": "Tinson Pen Airport",
@@ -165,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

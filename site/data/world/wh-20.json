@@ -3,8 +3,8 @@
  "unesco_id": "20",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 408,
- "popularity_score": 16011,
+ "popularity_rank": 437,
+ "popularity_score": 17386,
  "country": "SY",
  "country_zh": "叙利亚",
  "country_en": "Syria",
@@ -72,7 +72,8 @@
     "lat": 33.4114990234375,
     "lon": 36.51559829711914,
     "type": "large_airport",
-    "distance_km": 22.3
+    "distance_km": 22.3,
+    "name_zh": "大马士革国际机场"
    },
    {
     "name": "Beirut Rafic Hariri International Airport",
@@ -82,7 +83,8 @@
     "lat": 33.819833,
     "lon": 35.487443,
     "type": "large_airport",
-    "distance_km": 83.2
+    "distance_km": 83.2,
+    "name_zh": "贝鲁特－拉菲克·哈里里国际机场"
    },
    {
     "name": "Uri Michaeli Haifa International Airport",
@@ -92,7 +94,8 @@
     "lat": 32.810219,
     "lon": 35.043719,
     "type": "medium_airport",
-    "distance_km": 141.0
+    "distance_km": 141.0,
+    "name_zh": "海法机场"
    }
   ],
   "nearest_airport_km": 22.3,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

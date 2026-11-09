@@ -3,8 +3,8 @@
  "unesco_id": "904",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 542,
- "popularity_score": 9596,
+ "popularity_rank": 584,
+ "popularity_score": 10231,
  "country": "RO",
  "country_zh": "罗马尼亚",
  "country_en": "Romania",
@@ -72,7 +72,8 @@
     "lat": 47.658444,
     "lon": 23.464445,
     "type": "medium_airport",
-    "distance_km": 47.7
+    "distance_km": 47.7,
+    "name_zh": "马拉穆列什国际机场"
    },
    {
     "name": "Satu Mare International Airport",
@@ -82,7 +83,8 @@
     "lat": 47.7033,
     "lon": 22.8857,
     "type": "medium_airport",
-    "distance_km": 88.4
+    "distance_km": 88.4,
+    "name_zh": "萨图马雷"
    },
    {
     "name": "Avram Iancu Cluj International Airport",
@@ -92,7 +94,8 @@
     "lat": 46.786042,
     "lon": 23.685733,
     "type": "large_airport",
-    "distance_km": 118.2
+    "distance_km": 118.2,
+    "name_zh": "克卢日国际机场"
    }
   ],
   "nearest_airport_km": 47.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

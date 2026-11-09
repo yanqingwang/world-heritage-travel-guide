@@ -3,8 +3,8 @@
  "unesco_id": "1663",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 425,
- "popularity_score": 14700,
+ "popularity_rank": 464,
+ "popularity_score": 15460,
  "country": "GT",
  "country_zh": "危地马拉",
  "country_en": "Guatemala",
@@ -82,7 +82,8 @@
     "lat": 14.8656,
     "lon": -91.501999,
     "type": "small_airport",
-    "distance_km": 35.1
+    "distance_km": 35.1,
+    "name_zh": "克萨尔特南戈机场"
    },
    {
     "name": "Tapachula International Airport",
@@ -92,7 +93,8 @@
     "lat": 14.794549,
     "lon": -92.369871,
     "type": "medium_airport",
-    "distance_km": 70.1
+    "distance_km": 70.1,
+    "name_zh": "塔帕丘拉国际机场"
    }
   ],
   "nearest_airport_km": 14.5,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "819",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1165,
+ "popularity_rank": 1170,
  "popularity_score": null,
  "country": "NL",
  "country_zh": "荷兰王国",
@@ -72,7 +72,8 @@
     "lat": 12.1889,
     "lon": -68.959801,
     "type": "large_airport",
-    "distance_km": 9.6
+    "distance_km": 9.6,
+    "name_zh": "库拉索国际机场"
    },
    {
     "name": "Flamingo International Airport",
@@ -82,7 +83,8 @@
     "lat": 12.131,
     "lon": -68.268501,
     "type": "large_airport",
-    "distance_km": 72.4
+    "distance_km": 72.4,
+    "name_zh": "佛林明哥国际机场"
    },
    {
     "name": "José Leonardo Chirinos Airport",
@@ -92,7 +94,8 @@
     "lat": 11.414944,
     "lon": -69.680901,
     "type": "medium_airport",
-    "distance_km": 111.9
+    "distance_km": 111.9,
+    "name_zh": "José Leonardo Chirino机场"
    }
   ],
   "nearest_airport_km": 9.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

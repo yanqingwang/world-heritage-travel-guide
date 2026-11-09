@@ -3,8 +3,8 @@
  "unesco_id": "190",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 87,
- "popularity_score": 139089,
+ "popularity_rank": 97,
+ "popularity_score": 151145,
  "country": "LY",
  "country_zh": "利比亚",
  "country_en": "Libya",
@@ -96,7 +96,8 @@
     "lat": 32.789036,
     "lon": 21.954864,
     "type": "large_airport",
-    "distance_km": 10.3
+    "distance_km": 10.3,
+    "name_zh": "贝达国际机场"
    },
    {
     "name": "Benina International Airport",
@@ -106,7 +107,8 @@
     "lat": 32.096802,
     "lon": 20.269501,
     "type": "large_airport",
-    "distance_km": 168.5
+    "distance_km": 168.5,
+    "name_zh": "贝尼纳国际机场"
    },
    {
     "name": "Chania International Airport",
@@ -116,7 +118,8 @@
     "lat": 35.531207,
     "lon": 24.150673,
     "type": "large_airport",
-    "distance_km": 368.6
+    "distance_km": 368.6,
+    "name_zh": "哈尼亚扬尼斯·达斯卡洛伊安尼斯国际机场"
    }
   ],
   "nearest_airport_km": 10.3,
@@ -252,5 +255,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

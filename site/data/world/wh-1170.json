@@ -3,7 +3,7 @@
  "unesco_id": "1170",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 868,
+ "popularity_rank": 907,
  "popularity_score": null,
  "country": "RU",
  "country_zh": "俄罗斯",
@@ -72,7 +72,8 @@
     "lat": 57.560699,
     "lon": 40.157398,
     "type": "large_airport",
-    "distance_km": 17.5
+    "distance_km": 17.5,
+    "name_zh": "图诺什纳机场"
    },
    {
     "name": "Kostroma Sokerkino Airport",
@@ -92,7 +93,8 @@
     "lat": 56.93939971923828,
     "lon": 40.940799713134766,
     "type": "medium_airport",
-    "distance_km": 99.0
+    "distance_km": 99.0,
+    "name_zh": "伊万诺沃"
    }
   ],
   "nearest_airport_km": 17.5,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

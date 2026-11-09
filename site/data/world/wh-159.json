@@ -3,8 +3,8 @@
  "unesco_id": "159",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 439,
- "popularity_score": 13833,
+ "popularity_rank": 472,
+ "popularity_score": 14762,
  "country": "PA",
  "country_zh": "巴拿马",
  "country_en": "Panama",
@@ -72,7 +72,8 @@
     "lat": 7.58737,
     "lon": -78.179939,
     "type": "small_airport",
-    "distance_km": 71.7
+    "distance_km": 71.7,
+    "name_zh": "皮尼亚港机场"
    },
    {
     "name": "Antonio Roldán Betancur Airport",
@@ -82,7 +83,8 @@
     "lat": 7.81196,
     "lon": -76.7164,
     "type": "medium_airport",
-    "distance_km": 91.9
+    "distance_km": 91.9,
+    "name_zh": "安东尼奥·劳丹·贝滕各尔特机场"
    },
    {
     "name": "José Celestino Mutis Airport",
@@ -92,7 +94,8 @@
     "lat": 6.20292,
     "lon": -77.3947,
     "type": "medium_airport",
-    "distance_km": 171.3
+    "distance_km": 171.3,
+    "name_zh": "José Celestino Mutis机场"
    }
   ],
   "nearest_airport_km": 71.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

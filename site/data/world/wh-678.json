@@ -3,8 +3,8 @@
  "unesco_id": "678",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 118,
- "popularity_score": 102120,
+ "popularity_rank": 131,
+ "popularity_score": 111149,
  "country": "VN",
  "country_zh": "越南",
  "country_en": "Vietnam",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Province: Thua Thien - Hue",
- "subdivision_iso": "VN-26",
- "subdivision_zh": "顺化市",
- "subdivision_en": "Huế",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "顺化历史建筑群",
  "name_zh_source": "unesco_official",
  "name_en": "Complex of Hué Monuments",
@@ -96,7 +96,8 @@
     "lat": 16.400581,
     "lon": 107.704094,
     "type": "large_airport",
-    "distance_km": 15.5
+    "distance_km": 15.5,
+    "name_zh": "富牌国际机场"
    },
    {
     "name": "Da Nang International Airport",
@@ -106,7 +107,8 @@
     "lat": 16.0439,
     "lon": 108.198997,
     "type": "large_airport",
-    "distance_km": 81.5
+    "distance_km": 81.5,
+    "name_zh": "岘港国际机场"
    },
    {
     "name": "Dong Hoi Airport",
@@ -116,7 +118,8 @@
     "lat": 17.515,
     "lon": 106.590556,
     "type": "medium_airport",
-    "distance_km": 156.6
+    "distance_km": 156.6,
+    "name_zh": "洞海机场"
    }
   ],
   "nearest_airport_km": 15.5,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

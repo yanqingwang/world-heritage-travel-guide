@@ -3,7 +3,7 @@
  "unesco_id": "1333",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 910,
+ "popularity_rank": 941,
  "popularity_score": null,
  "country": "ET",
  "country_zh": "埃塞俄比亚",
@@ -64,7 +64,8 @@
     "lat": 6.03939,
     "lon": 37.5905,
     "type": "medium_airport",
-    "distance_km": 88.6
+    "distance_km": 88.6,
+    "name_zh": "阿尔巴门奇机场"
    },
    {
     "name": "Jinka Airport",
@@ -74,7 +75,8 @@
     "lat": 5.749655,
     "lon": 36.560165,
     "type": "medium_airport",
-    "distance_km": 116.3
+    "distance_km": 116.3,
+    "name_zh": "金卡机场"
    },
    {
     "name": "Hawassa International Airport",
@@ -84,7 +86,8 @@
     "lat": 7.100611,
     "lon": 38.396455,
     "type": "large_airport",
-    "distance_km": 229.2
+    "distance_km": 229.2,
+    "name_zh": "阿瓦萨机场"
    }
   ],
   "nearest_airport_km": 88.6,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

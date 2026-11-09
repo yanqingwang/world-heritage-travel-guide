@@ -3,7 +3,7 @@
  "unesco_id": "33",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1054,
+ "popularity_rank": 1070,
  "popularity_score": null,
  "country": "BY",
  "country_zh": "白俄罗斯",
@@ -69,7 +69,8 @@
     "lat": 52.108138,
     "lon": 23.89676,
     "type": "large_airport",
-    "distance_km": 71.5
+    "distance_km": 71.5,
+    "name_zh": "布列斯特机场"
    },
    {
     "name": "Lublin Airport",
@@ -79,7 +80,8 @@
     "lat": 51.240157,
     "lon": 22.713461,
     "type": "large_airport",
-    "distance_km": 188.0
+    "distance_km": 188.0,
+    "name_zh": "卢布林机场"
    },
    {
     "name": "Warsaw Chopin Airport",
@@ -89,7 +91,8 @@
     "lat": 52.165699,
     "lon": 20.9671,
     "type": "large_airport",
-    "distance_km": 212.3
+    "distance_km": 212.3,
+    "name_zh": "华沙肖邦机场"
    }
   ],
   "nearest_airport_km": 71.5,
@@ -176,5 +179,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

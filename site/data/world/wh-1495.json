@@ -2,9 +2,9 @@
  "id": "wh-1495",
  "unesco_id": "1495",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 279,
- "popularity_score": 28394,
+ "tier": "basic",
+ "popularity_rank": 301,
+ "popularity_score": 30794,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -53,14 +53,6 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%E9%95%B7%E5%B4%8E%E3%81%A8%E5%A4%A9%E8%8D%89%E5%9C%B0%E6%96%B9%E3%81%AE%E6%BD%9C%E4%BC%8F%E3%82%AD%E3%83%AA%E3%82%B7%E3%82%BF%E3%83%B3%E9%96%A2%E9%80%A3%E9%81%BA%E7%94%A3%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8.jpg/1280px-%E9%95%B7%E5%B4%8E%E3%81%A8%E5%A4%A9%E8%8D%89%E5%9C%B0%E6%96%B9%E3%81%AE%E6%BD%9C%E4%BC%8F%E3%82%AD%E3%83%AA%E3%82%B7%E3%82%BF%E3%83%B3%E9%96%A2%E9%80%A3%E9%81%BA%E7%94%A3%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "長崎と天草地方の潜伏キリシタン関連遺産インフォメーションデジタルサイネージ.jpg",
-   "author": "出島商人",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:%E9%95%B7%E5%B4%8E%E3%81%A8%E5%A4%A9%E8%8D%89%E5%9C%B0%E6%96%B9%E3%81%AE%E6%BD%9C%E4%BC%8F%E3%82%AD%E3%83%AA%E3%82%B7%E3%82%BF%E3%83%B3%E9%96%A2%E9%80%A3%E9%81%BA%E7%94%A3%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8.jpg"
-  },
-  {
    "url": "https://whc.unesco.org/uploads/sites/site_1495.jpg",
    "title": "Hidden Christian Sites in the Nagasaki Region",
    "author": "UNESCO World Heritage Centre",
@@ -80,7 +72,8 @@
     "lat": 32.666302,
     "lon": 128.832993,
     "type": "medium_airport",
-    "distance_km": 16.5
+    "distance_km": 16.5,
+    "name_zh": "福江机场"
    },
    {
     "name": "Nagasaki Airport",
@@ -90,7 +83,8 @@
     "lat": 32.916901,
     "lon": 129.914001,
     "type": "large_airport",
-    "distance_km": 95.2
+    "distance_km": 95.2,
+    "name_zh": "长崎机场"
    },
    {
     "name": "Amakusa Airport",
@@ -100,112 +94,16 @@
     "lat": 32.482498,
     "lon": 130.158997,
     "type": "medium_airport",
-    "distance_km": 122.8
+    "distance_km": 122.8,
+    "name_zh": "天草飞行场"
    }
   ],
   "nearest_airport_km": 16.5,
   "distance_beijing_km": 1369.7,
-  "ferry_terminals": [
-   {
-    "name": "田の浦港",
-    "name_en": "Tanoura",
-    "lat": 32.7818649,
-    "lon": 128.8419861,
-    "distance_km": 6.2,
-    "operator": null
-   },
-   {
-    "name": "伊福貴",
-    "name_en": null,
-    "lat": 32.7544288,
-    "lon": 128.9688621,
-    "distance_km": 8.1,
-    "operator": null
-   },
-   {
-    "name": "椛島港",
-    "name_en": null,
-    "lat": 32.7623116,
-    "lon": 128.9847641,
-    "distance_km": 8.8,
-    "operator": null
-   },
-   {
-    "name": "本窯港",
-    "name_en": null,
-    "lat": 32.7692786,
-    "lon": 128.9915277,
-    "distance_km": 9.0,
-    "operator": null
-   },
-   {
-    "name": "奥浦港",
-    "name_en": null,
-    "lat": 32.7446148,
-    "lon": 128.8256694,
-    "distance_km": 9.7,
-    "operator": null
-   }
-  ],
+  "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "五島第一ホテル",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 32.696951,
-   "lon": 128.844992,
-   "distance_km": 12.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "ホテルダウンタウン",
-   "name_en": "HOTEL DOWNTOWN",
-   "stars": null,
-   "brand": null,
-   "lat": 32.6945787,
-   "lon": 128.8420982,
-   "distance_km": 13.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "ホテル カラリト五島列島",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 32.6558964,
-   "lon": 128.8069309,
-   "distance_km": 18.6,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "し喜別館",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 32.9837654,
-   "lon": 129.1158602,
-   "distance_km": 28.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "有川ビーチホテル　浦",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 32.9850411,
-   "lon": 129.1148,
-   "distance_km": 28.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "JP",
   "country_zh": "日本",
@@ -277,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1060",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 850,
+ "popularity_rank": 884,
  "popularity_score": null,
  "country": "KE",
  "country_zh": "肯尼亚",
@@ -74,7 +74,8 @@
     "lat": 0.404458,
     "lon": 35.238899,
     "type": "large_airport",
-    "distance_km": 111.4
+    "distance_km": 111.4,
+    "name_zh": "埃尔多雷特国际机场"
    },
    {
     "name": "Kisumu International Airport",
@@ -163,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

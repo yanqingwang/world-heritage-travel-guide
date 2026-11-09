@@ -3,8 +3,8 @@
  "unesco_id": "893",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 811,
- "popularity_score": 948,
+ "popularity_rank": 855,
+ "popularity_score": 1034,
  "country": "BR",
  "country_zh": "巴西",
  "country_en": "Brazil",
@@ -82,7 +82,8 @@
     "lat": -23.627657,
     "lon": -46.654601,
     "type": "large_airport",
-    "distance_km": 149.3
+    "distance_km": 149.3,
+    "name_zh": "孔戈尼亚斯/圣保罗机场"
    },
    {
     "name": "Viracopos International Airport",
@@ -92,7 +93,8 @@
     "lat": -23.007404,
     "lon": -47.134502,
     "type": "large_airport",
-    "distance_km": 156.2
+    "distance_km": 156.2,
+    "name_zh": "坎皮纳斯"
    }
   ],
   "nearest_airport_km": 92.5,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

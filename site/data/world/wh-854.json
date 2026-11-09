@@ -3,8 +3,8 @@
  "unesco_id": "854",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 700,
- "popularity_score": 4172,
+ "popularity_rank": 745,
+ "popularity_score": 4541,
  "country": "SB",
  "country_zh": "所罗门群岛",
  "country_en": "Solomon Islands",
@@ -82,7 +82,8 @@
     "lat": -11.302222222200001,
     "lon": 159.798333333,
     "type": "small_airport",
-    "distance_km": 72.1
+    "distance_km": 72.1,
+    "name_zh": "贝罗纳机场"
    },
    {
     "name": "Marau Airport",
@@ -92,7 +93,8 @@
     "lat": -9.86167,
     "lon": 160.824997,
     "type": "small_airport",
-    "distance_km": 209.6
+    "distance_km": 209.6,
+    "name_zh": "马劳机场"
    }
   ],
   "nearest_airport_km": 33.0,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "321",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 583,
- "popularity_score": 8018,
+ "popularity_rank": 617,
+ "popularity_score": 9001,
  "country": "BD",
  "country_zh": "孟加拉国",
  "country_en": "Bangladesh",
@@ -72,7 +72,8 @@
     "lat": 22.801001,
     "lon": 90.301201,
     "type": "medium_airport",
-    "distance_km": 57.8
+    "distance_km": 57.8,
+    "name_zh": "巴里萨尔机场"
    },
    {
     "name": "Jessore Airport",
@@ -82,7 +83,8 @@
     "lat": 23.1838,
     "lon": 89.160797,
     "type": "medium_airport",
-    "distance_km": 84.4
+    "distance_km": 84.4,
+    "name_zh": "杰索尔机场"
    },
    {
     "name": "Netaji Subhash Chandra Bose International Airport",
@@ -92,7 +94,8 @@
     "lat": 22.654012,
     "lon": 88.44765,
     "type": "large_airport",
-    "distance_km": 134.5
+    "distance_km": 134.5,
+    "name_zh": "内塔吉·苏巴斯·钱德拉·鲍斯国际机场"
    }
   ],
   "nearest_airport_km": 57.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

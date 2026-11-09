@@ -2,9 +2,9 @@
  "id": "wh-1667",
  "unesco_id": "1667",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 296,
- "popularity_score": 26215,
+ "tier": "basic",
+ "popularity_rank": 319,
+ "popularity_score": 28514,
  "country": "KH",
  "country_zh": "柬埔寨",
  "country_en": "Cambodia",
@@ -72,7 +72,8 @@
     "lat": 13.36974,
     "lon": 104.223831,
     "type": "large_airport",
-    "distance_km": 54.9
+    "distance_km": 54.9,
+    "name_zh": "暹粒吴哥国际机场"
    },
    {
     "name": "Battambang Airport",
@@ -82,7 +83,8 @@
     "lat": 13.0956,
     "lon": 103.223999,
     "type": "medium_airport",
-    "distance_km": 160.6
+    "distance_km": 160.6,
+    "name_zh": "马德望机场"
    },
    {
     "name": "Surin Airport",
@@ -100,63 +102,7 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "I AM Koh Ker",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 13.7044563,
-   "lon": 104.5414557,
-   "distance_km": 5.1,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Ly Hout Guest House",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 13.7949118,
-   "lon": 104.978324,
-   "distance_km": 46.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Green Palace Hotel Preah Vihear",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 13.7965466,
-   "lon": 104.9794209,
-   "distance_km": 47.0,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Heng Heng Hotel",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 13.8051482,
-   "lon": 104.9817068,
-   "distance_km": 47.3,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "សុភមង្គល",
-   "name_en": "Sopheak Meangkol",
-   "stars": null,
-   "brand": null,
-   "lat": 13.8158236,
-   "lon": 104.9810317,
-   "distance_km": 47.4,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "KH",
   "country_zh": "柬埔寨",
@@ -228,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

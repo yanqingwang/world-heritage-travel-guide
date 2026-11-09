@@ -3,8 +3,8 @@
  "unesco_id": "44",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 422,
- "popularity_score": 14909,
+ "popularity_rank": 450,
+ "popularity_score": 16309,
  "country": "BG",
  "country_zh": "保加利亚",
  "country_en": "Bulgaria",
@@ -72,7 +72,8 @@
     "lat": 42.067799,
     "lon": 24.8508,
     "type": "large_airport",
-    "distance_km": 76.7
+    "distance_km": 76.7,
+    "name_zh": "普罗夫迪夫机场"
    },
    {
     "name": "Sofia Airport",
@@ -82,7 +83,8 @@
     "lat": 42.696357,
     "lon": 23.417671,
     "type": "large_airport",
-    "distance_km": 162.2
+    "distance_km": 162.2,
+    "name_zh": "索菲亚机场"
    },
    {
     "name": "Burgas Airport",
@@ -92,7 +94,8 @@
     "lat": 42.569917,
     "lon": 27.515173,
     "type": "large_airport",
-    "distance_km": 173.3
+    "distance_km": 173.3,
+    "name_zh": "布尔加斯机场"
    }
   ],
   "nearest_airport_km": 76.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

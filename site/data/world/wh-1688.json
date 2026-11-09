@@ -3,7 +3,7 @@
  "unesco_id": "1688",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 993,
+ "popularity_rank": 1009,
  "popularity_score": null,
  "country": "RU",
  "country_zh": "俄罗斯",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "RU-ARK",
- "subdivision_zh": "阿尔汉格尔斯克州",
- "subdivision_en": "Arkhangelsk Oblast",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "克诺泽罗湖区历史见证",
  "name_zh_source": "unesco_official",
  "name_en": "Cultural Landscape of Kenozero Lake",
@@ -64,7 +64,8 @@
     "lat": 61.885201,
     "lon": 34.154701,
     "type": "medium_airport",
-    "distance_km": 210.4
+    "distance_km": 210.4,
+    "name_zh": "罗扎沃茨克机场"
    },
    {
     "name": "Cherepovets Airport",
@@ -74,7 +75,8 @@
     "lat": 59.273601532,
     "lon": 38.015800476100004,
     "type": "medium_airport",
-    "distance_km": 295.3
+    "distance_km": 295.3,
+    "name_zh": "切列波韦茨机场"
    },
    {
     "name": "Talagi Airport",
@@ -84,7 +86,8 @@
     "lat": 64.60030364990234,
     "lon": 40.71670150756836,
     "type": "medium_airport",
-    "distance_km": 323.2
+    "distance_km": 323.2,
+    "name_zh": "塔拉吉机场"
    }
   ],
   "nearest_airport_km": 210.4,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

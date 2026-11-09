@@ -3,8 +3,8 @@
  "unesco_id": "22",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 698,
- "popularity_score": 4204,
+ "popularity_rank": 743,
+ "popularity_score": 4562,
  "country": "SY",
  "country_zh": "叙利亚",
  "country_en": "Syria",
@@ -72,7 +72,8 @@
     "lat": 31.9727,
     "lon": 35.9916,
     "type": "large_airport",
-    "distance_km": 76.2
+    "distance_km": 76.2,
+    "name_zh": "马尔卡国际机场"
    },
    {
     "name": "Damascus International Airport",
@@ -82,7 +83,8 @@
     "lat": 33.4114990234375,
     "lon": 36.51559829711914,
     "type": "large_airport",
-    "distance_km": 99.4
+    "distance_km": 99.4,
+    "name_zh": "大马士革国际机场"
    },
    {
     "name": "Queen Alia International Airport",
@@ -92,7 +94,8 @@
     "lat": 31.7226009369,
     "lon": 35.9931983948,
     "type": "large_airport",
-    "distance_km": 99.7
+    "distance_km": 99.7,
+    "name_zh": "阿勒娅王后国际机场"
    }
   ],
   "nearest_airport_km": 76.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:56Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

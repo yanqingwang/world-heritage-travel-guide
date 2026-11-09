@@ -3,7 +3,7 @@
  "unesco_id": "1567",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 971,
+ "popularity_rank": 987,
  "popularity_score": null,
  "country": "BE",
  "country_zh": "比利时",
@@ -69,7 +69,8 @@
     "lat": 50.901402,
     "lon": 4.48444,
     "type": "large_airport",
-    "distance_km": 21.0
+    "distance_km": 21.0,
+    "name_zh": "布鲁塞尔机场"
    },
    {
     "name": "Antwerp International Airport (Deurne)",
@@ -79,7 +80,8 @@
     "lat": 51.190667,
     "lon": 4.463153,
     "type": "medium_airport",
-    "distance_km": 31.1
+    "distance_km": 31.1,
+    "name_zh": "安特卫普国际机场"
    },
    {
     "name": "Brussels South Charleroi Airport",
@@ -89,7 +91,8 @@
     "lat": 50.461963,
     "lon": 4.459562,
     "type": "large_airport",
-    "distance_km": 58.7
+    "distance_km": 58.7,
+    "name_zh": "沙勒罗瓦－布鲁塞尔南机场"
    }
   ],
   "nearest_airport_km": 21.0,
@@ -180,5 +183,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

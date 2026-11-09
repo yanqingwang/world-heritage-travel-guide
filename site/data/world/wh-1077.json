@@ -3,8 +3,8 @@
  "unesco_id": "1077",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 319,
- "popularity_score": 23301,
+ "popularity_rank": 892,
+ "popularity_score": null,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Western Azerbaijan Province",
- "subdivision_iso": "IR-04",
- "subdivision_zh": "西阿塞拜疆省",
- "subdivision_en": "West Azerbaijan Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "塔赫特苏莱曼",
  "name_zh_source": "unesco_official",
  "name_en": "Takht-e Soleyman",
@@ -82,7 +82,8 @@
     "lat": 38.1339,
     "lon": 46.235001,
     "type": "large_airport",
-    "distance_km": 191.6
+    "distance_km": 191.6,
+    "name_zh": "大不里士"
    },
    {
     "name": "Jalal Talabani International Airport",
@@ -92,7 +93,8 @@
     "lat": 35.560487,
     "lon": 45.315137,
     "type": "medium_airport",
-    "distance_km": 207.9
+    "distance_km": 207.9,
+    "name_zh": "苏莱曼尼亚"
    }
   ],
   "nearest_airport_km": 152.4,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

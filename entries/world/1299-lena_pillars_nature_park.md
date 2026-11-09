@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "1299"
-tier: "full"
+tier: "basic"
 category: "Natural"
 year: "2012"
 criteria: "(viii)"
 lat: 61.106944444
 lon: 127.361666666
-updated_at: "2026-11-09T12:01:04Z"
+updated_at: "2026-11-09T12:50:23Z"
 ---
 
 # 勒那河柱状岩自然公园 / Lena Pillars Nature Park
@@ -52,15 +52,7 @@ Lena Pillars Nature Park is marked by spectacular rock pillars that reach a heig
 - ✈ **Platon Oyunsky Yakutsk International Airport (YKS)** — 168.1 km
 - ✈ **Olyokminsk Airport (OLZ)** — 382.0 km
 - ✈ **Ust-Maya Airport (UMS)** — 393.4 km
-- ⛴ **Ленские столбы** — 0.0 km
-- ⛴ **Чкалов** — 22.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **2603.6 km**
-
-## 附近酒店 / Nearby hotels
-
-- 暂无 / none
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

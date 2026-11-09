@@ -3,7 +3,7 @@
  "unesco_id": "1528",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 951,
+ "popularity_rank": 976,
  "popularity_score": null,
  "country": "ES",
  "country_zh": "西班牙",
@@ -64,7 +64,8 @@
     "lat": 39.862598,
     "lon": 4.21865,
     "type": "large_airport",
-    "distance_km": 30.4
+    "distance_km": 30.4,
+    "name_zh": "马翁"
    },
    {
     "name": "Palma de Mallorca Airport",
@@ -74,7 +75,8 @@
     "lat": 39.551701,
     "lon": 2.73881,
     "type": "large_airport",
-    "distance_km": 111.6
+    "distance_km": 111.6,
+    "name_zh": "马略卡岛帕尔马机场"
    },
    {
     "name": "Josep Tarradellas Barcelona-El Prat Airport",
@@ -84,7 +86,8 @@
     "lat": 41.2971,
     "lon": 2.07846,
     "type": "large_airport",
-    "distance_km": 211.5
+    "distance_km": 211.5,
+    "name_zh": "巴塞罗那机场"
    }
   ],
   "nearest_airport_km": 30.4,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

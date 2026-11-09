@@ -3,8 +3,8 @@
  "unesco_id": "1406",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 418,
- "popularity_score": 15223,
+ "popularity_rank": 446,
+ "popularity_score": 16739,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -72,7 +72,8 @@
     "lat": 31.876699,
     "lon": 77.154404,
     "type": "medium_airport",
-    "distance_km": 75.7
+    "distance_km": 75.7,
+    "name_zh": "布恩塔尔机场"
    },
    {
     "name": "Kangra Airport",
@@ -82,7 +83,8 @@
     "lat": 32.164902,
     "lon": 76.263018,
     "type": "medium_airport",
-    "distance_km": 164.2
+    "distance_km": 164.2,
+    "name_zh": "Gaggal机场"
    },
    {
     "name": "Shaheed Bhagat Singh International Airport",
@@ -92,7 +94,8 @@
     "lat": 30.6735,
     "lon": 76.788498,
     "type": "large_airport",
-    "distance_km": 167.4
+    "distance_km": 167.4,
+    "name_zh": "昌迪加尔机场"
    }
   ],
   "nearest_airport_km": 75.7,
@@ -171,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "331",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 774,
- "popularity_score": 1909,
+ "popularity_rank": 817,
+ "popularity_score": 2078,
  "country": "MA",
  "country_zh": "摩洛哥",
  "country_en": "Morocco",
@@ -72,7 +72,8 @@
     "lat": 31.604807,
     "lon": -8.035788,
     "type": "large_airport",
-    "distance_km": 5.5
+    "distance_km": 5.5,
+    "name_zh": "马拉喀什－迈纳拉国际机场"
    },
    {
     "name": "Ouarzazate International Airport",
@@ -82,7 +83,8 @@
     "lat": 30.9391,
     "lon": -6.90943,
     "type": "large_airport",
-    "distance_km": 128.1
+    "distance_km": 128.1,
+    "name_zh": "瓦尔扎扎特"
    },
    {
     "name": "Essaouira-Mogador Airport",
@@ -92,7 +94,8 @@
     "lat": 31.397499,
     "lon": -9.68167,
     "type": "medium_airport",
-    "distance_km": 162.8
+    "distance_km": 162.8,
+    "name_zh": "索维拉-莫加多尔机场"
    }
   ],
   "nearest_airport_km": 5.5,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:18Z"
 }

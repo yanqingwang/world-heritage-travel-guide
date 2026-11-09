@@ -3,8 +3,8 @@
  "unesco_id": "194",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 176,
- "popularity_score": 60083,
+ "popularity_rank": 195,
+ "popularity_score": 64609,
  "country": "DZ",
  "country_zh": "阿尔及利亚",
  "country_en": "Algeria",
@@ -96,7 +96,8 @@
     "lat": 35.752102,
     "lon": 6.30859,
     "type": "large_airport",
-    "distance_km": 33.1
+    "distance_km": 33.1,
+    "name_zh": "Mostépha Ben Boulaid机场"
    },
    {
     "name": "Mohamed Boudiaf International Airport",
@@ -106,7 +107,8 @@
     "lat": 36.276001,
     "lon": 6.62039,
     "type": "large_airport",
-    "distance_km": 89.1
+    "distance_km": 89.1,
+    "name_zh": "君士坦丁机场"
    },
    {
     "name": "Biskra - Mohamed Khider Airport",
@@ -116,7 +118,8 @@
     "lat": 34.79318,
     "lon": 5.738899,
     "type": "large_airport",
-    "distance_km": 101.5
+    "distance_km": 101.5,
+    "name_zh": "比斯克拉机场"
    }
   ],
   "nearest_airport_km": 33.1,
@@ -285,5 +288,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

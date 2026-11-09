@@ -3,8 +3,8 @@
  "unesco_id": "684",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 591,
- "popularity_score": 7807,
+ "popularity_rank": 607,
+ "popularity_score": 9293,
  "country": "UG",
  "country_zh": "乌干达",
  "country_en": "Uganda",
@@ -82,7 +82,8 @@
     "lat": 1.565743,
     "lon": 30.220685,
     "type": "medium_airport",
-    "distance_km": 133.1
+    "distance_km": 133.1,
+    "name_zh": "布尼亚机场"
    },
    {
     "name": "Kisoro Airport",
@@ -173,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

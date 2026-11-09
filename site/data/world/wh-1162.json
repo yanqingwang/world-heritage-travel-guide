@@ -3,8 +3,8 @@
  "unesco_id": "1162",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 38,
- "popularity_score": 240859,
+ "popularity_rank": 41,
+ "popularity_score": 295380,
  "country": "ZA",
  "country_zh": "南非",
  "country_en": "South Africa",
@@ -96,7 +96,8 @@
     "lat": -26.140081,
     "lon": 28.246801,
     "type": "large_airport",
-    "distance_km": 121.1
+    "distance_km": 121.1,
+    "name_zh": "奥利弗·坦博国际机场"
    },
    {
     "name": "Lanseria International Airport",
@@ -106,7 +107,8 @@
     "lat": -25.938964,
     "lon": 27.926642,
     "type": "large_airport",
-    "distance_km": 125.4
+    "distance_km": 125.4,
+    "name_zh": "兰塞里亚国际机场"
    },
    {
     "name": "George Dick Montshioa Airport",
@@ -116,7 +118,8 @@
     "lat": -25.798401,
     "lon": 25.548,
     "type": "medium_airport",
-    "distance_km": 235.9
+    "distance_km": 235.9,
+    "name_zh": "姆马巴托国际机场"
    }
   ],
   "nearest_airport_km": 121.1,
@@ -303,5 +306,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

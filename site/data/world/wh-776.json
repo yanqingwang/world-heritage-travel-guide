@@ -3,8 +3,8 @@
  "unesco_id": "776",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 64,
- "popularity_score": 169809,
+ "popularity_rank": 71,
+ "popularity_score": 189167,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -96,7 +96,8 @@
     "lat": 34.146333,
     "lon": 132.247238,
     "type": "medium_airport",
-    "distance_km": 17.9
+    "distance_km": 17.9,
+    "name_zh": "岩国飞行场"
    },
    {
     "name": "Hiroshima Airport",
@@ -106,7 +107,8 @@
     "lat": 34.4361,
     "lon": 132.919006,
     "type": "large_airport",
-    "distance_km": 57.1
+    "distance_km": 57.1,
+    "name_zh": "广岛机场"
    },
    {
     "name": "Matsuyama Airport",
@@ -116,7 +118,8 @@
     "lat": 33.826893,
     "lon": 132.700114,
     "type": "large_airport",
-    "distance_km": 62.8
+    "distance_km": 62.8,
+    "name_zh": "松山机场"
    }
   ],
   "nearest_airport_km": 17.9,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1440",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 141,
- "popularity_score": 80856,
+ "popularity_rank": 155,
+ "popularity_score": 87779,
  "country": "MN",
  "country_zh": "蒙古国",
  "country_en": "Mongolia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "MN-039",
- "subdivision_zh": "肯特省",
- "subdivision_en": "Khentii",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "布尔罕和乐敦圣山及其周围景观",
  "name_zh_source": "unesco_official",
  "name_en": "Great Burkhan Khaldun Mountain and its surrounding sacred landscape",
@@ -72,7 +72,8 @@
     "lat": 47.646916,
     "lon": 106.819833,
     "type": "large_airport",
-    "distance_km": 214.9
+    "distance_km": 214.9,
+    "name_zh": "新乌兰巴托国际机场"
    },
    {
     "name": "Baikal International Airport",
@@ -82,7 +83,8 @@
     "lat": 51.808614,
     "lon": 107.439652,
     "type": "large_airport",
-    "distance_km": 358.0
+    "distance_km": 358.0,
+    "name_zh": "贝加尔湖国际机场"
    }
   ],
   "nearest_airport_km": 214.9,
@@ -162,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

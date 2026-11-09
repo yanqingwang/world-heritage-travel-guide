@@ -3,8 +3,8 @@
  "unesco_id": "887",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 475,
- "popularity_score": 12230,
+ "popularity_rank": 507,
+ "popularity_score": 13255,
  "country": "PG",
  "country_zh": "巴布亚新几内亚",
  "country_en": "Papua New Guinea",
@@ -72,7 +72,8 @@
     "lat": -5.828212,
     "lon": 144.299412,
     "type": "medium_airport",
-    "distance_km": 6.1
+    "distance_km": 6.1,
+    "name_zh": "芒特哈根机场"
    },
    {
     "name": "Wapenamanda Airport",
@@ -92,7 +93,8 @@
     "lat": -6.024290084838867,
     "lon": 144.9709930419922,
     "type": "medium_airport",
-    "distance_km": 75.8
+    "distance_km": 75.8,
+    "name_zh": "钦布机场"
    }
   ],
   "nearest_airport_km": 6.1,
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

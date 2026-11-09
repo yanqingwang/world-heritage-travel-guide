@@ -3,8 +3,8 @@
  "unesco_id": "59",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 268,
- "popularity_score": 29709,
+ "popularity_rank": 288,
+ "popularity_score": 32202,
  "country": "NO",
  "country_zh": "挪威",
  "country_en": "Norway",
@@ -96,7 +96,8 @@
     "lat": 60.2934,
     "lon": 5.21814,
     "type": "large_airport",
-    "distance_km": 12.9
+    "distance_km": 12.9,
+    "name_zh": "卑尔根机场"
    },
    {
     "name": "Stord Airport, Sørstokken",
@@ -106,7 +107,8 @@
     "lat": 59.791901,
     "lon": 5.34085,
     "type": "medium_airport",
-    "distance_km": 67.3
+    "distance_km": 67.3,
+    "name_zh": "斯图尔机场"
    },
    {
     "name": "Førde Airport, Bringeland",
@@ -116,7 +118,8 @@
     "lat": 61.391102,
     "lon": 5.75694,
     "type": "small_airport",
-    "distance_km": 112.9
+    "distance_km": 112.9,
+    "name_zh": "弗勒Bringeland机场"
    }
   ],
   "nearest_airport_km": 12.9,
@@ -336,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:16Z"
 }

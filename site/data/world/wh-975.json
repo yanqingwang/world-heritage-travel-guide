@@ -3,8 +3,8 @@
  "unesco_id": "975",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 278,
- "popularity_score": 28747,
+ "popularity_rank": 292,
+ "popularity_score": 31701,
  "country": "DE",
  "country_zh": "德国",
  "country_en": "Germany",
@@ -17,7 +17,7 @@
  ],
  "region": "State of North Rhine-Westphalia (Nordrhein-Westfalen)",
  "subdivision_iso": "DE-NW",
- "subdivision_zh": "北莱茵-威斯特法伦州",
+ "subdivision_zh": "",
  "subdivision_en": "North Rhine-Westphalia",
  "subdivision_source": "nominatim_reverse",
  "name_zh": "埃森的关税同盟煤矿工业区",
@@ -96,7 +96,8 @@
     "lat": 51.289501,
     "lon": 6.76678,
     "type": "large_airport",
-    "distance_km": 29.2
+    "distance_km": 29.2,
+    "name_zh": "杜塞尔多夫机场车站"
    },
    {
     "name": "Dortmund Airport",
@@ -106,7 +107,8 @@
     "lat": 51.518299,
     "lon": 7.61224,
     "type": "large_airport",
-    "distance_km": 39.5
+    "distance_km": 39.5,
+    "name_zh": "多特蒙德机场"
    },
    {
     "name": "Weeze (Niederrhein) Airport",
@@ -116,7 +118,8 @@
     "lat": 51.601362,
     "lon": 6.141228,
     "type": "large_airport",
-    "distance_km": 63.7
+    "distance_km": 63.7,
+    "name_zh": "韦策机场"
    }
   ],
   "nearest_airport_km": 29.2,
@@ -334,5 +337,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:22Z"
 }

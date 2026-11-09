@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(vii)(ix)(x)"
 lat: -18.66667
 lon: 44.75
-updated_at: "2026-11-09T12:00:59Z"
+updated_at: "2026-11-09T12:50:19Z"
 ---
 
 # 安德列发那干旱森林 / Andrefana Dry Forests

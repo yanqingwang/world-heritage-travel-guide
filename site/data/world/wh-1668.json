@@ -3,8 +3,8 @@
  "unesco_id": "1668",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 686,
- "popularity_score": 4557,
+ "popularity_rank": 731,
+ "popularity_score": 4928,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "IR-25",
- "subdivision_zh": "库姆省",
- "subdivision_en": "Qom Province",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "波斯商队驿站",
  "name_zh_source": "unesco_official",
  "name_en": "The Persian Caravanserai",
@@ -72,7 +72,8 @@
     "lat": 35.416099548339844,
     "lon": 51.152198791503906,
     "type": "large_airport",
-    "distance_km": 46.6
+    "distance_km": 46.6,
+    "name_zh": "伊玛目霍梅尼国际机场"
    },
    {
     "name": "Mehrabad International Airport",
@@ -82,7 +83,8 @@
     "lat": 35.689175,
     "lon": 51.314392,
     "type": "large_airport",
-    "distance_km": 70.8
+    "distance_km": 70.8,
+    "name_zh": "梅赫拉巴德国际机场"
    },
    {
     "name": "Payam International Airport",
@@ -92,7 +94,8 @@
     "lat": 35.7761,
     "lon": 50.826698,
     "type": "large_airport",
-    "distance_km": 96.2
+    "distance_km": 96.2,
+    "name_zh": "帕亚姆国际机场"
    }
   ],
   "nearest_airport_km": 46.6,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

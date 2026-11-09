@@ -3,8 +3,8 @@
  "unesco_id": "541",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 314,
- "popularity_score": 23620,
+ "popularity_rank": 338,
+ "popularity_score": 25804,
  "country": "LT",
  "country_zh": "立陶宛",
  "country_en": "Lithuania",
@@ -72,7 +72,8 @@
     "lat": 54.634102,
     "lon": 25.285801,
     "type": "large_airport",
-    "distance_km": 5.5
+    "distance_km": 5.5,
+    "name_zh": "维尔纽斯国际机场"
    },
    {
     "name": "Kaunas International Airport",
@@ -82,7 +83,8 @@
     "lat": 54.963965,
     "lon": 24.08582,
     "type": "large_airport",
-    "distance_km": 82.8
+    "distance_km": 82.8,
+    "name_zh": "考纳斯机场"
    },
    {
     "name": "Minsk National Airport",
@@ -92,7 +94,8 @@
     "lat": 53.888071,
     "lon": 28.039964,
     "type": "large_airport",
-    "distance_km": 199.6
+    "distance_km": 199.6,
+    "name_zh": "明斯克国际机场"
    }
   ],
   "nearest_airport_km": 5.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

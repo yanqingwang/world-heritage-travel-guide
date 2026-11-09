@@ -3,8 +3,8 @@
  "unesco_id": "1449",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 747,
- "popularity_score": 3059,
+ "popularity_rank": 792,
+ "popularity_score": 3364,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -72,7 +72,8 @@
     "lat": 36.166801,
     "lon": 137.923004,
     "type": "medium_airport",
-    "distance_km": 87.1
+    "distance_km": 87.1,
+    "name_zh": "松本机场"
    },
    {
     "name": "Tokyo Haneda International Airport",
@@ -82,7 +83,8 @@
     "lat": 35.549678,
     "lon": 139.786958,
     "type": "large_airport",
-    "distance_km": 112.8
+    "distance_km": 112.8,
+    "name_zh": "东京国际机场"
    },
    {
     "name": "Ibaraki Airport",
@@ -92,7 +94,8 @@
     "lat": 36.181456,
     "lon": 140.414434,
     "type": "large_airport",
-    "distance_km": 137.2
+    "distance_km": 137.2,
+    "name_zh": "百里飞行场"
    }
   ],
   "nearest_airport_km": 87.1,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

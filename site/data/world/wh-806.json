@@ -3,7 +3,7 @@
  "unesco_id": "806",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1163,
+ "popularity_rank": 1168,
  "popularity_score": null,
  "country": "AT",
  "country_zh": "奥地利",
@@ -72,7 +72,8 @@
     "lat": 47.793301,
     "lon": 13.0043,
     "type": "large_airport",
-    "distance_km": 54.7
+    "distance_km": 54.7,
+    "name_zh": "萨尔茨堡沃尔夫冈·阿马多伊斯·莫扎特机场"
    },
    {
     "name": "Linz-Hörsching Airport",
@@ -82,7 +83,8 @@
     "lat": 48.235362,
     "lon": 14.188128,
     "type": "large_airport",
-    "distance_km": 85.3
+    "distance_km": 85.3,
+    "name_zh": "林茨机场"
    },
    {
     "name": "Klagenfurt Airport",
@@ -92,7 +94,8 @@
     "lat": 46.642502,
     "lon": 14.3377,
     "type": "large_airport",
-    "distance_km": 114.6
+    "distance_km": 114.6,
+    "name_zh": "克拉根福机场"
    }
   ],
   "nearest_airport_km": 54.7,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

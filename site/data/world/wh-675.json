@@ -3,8 +3,8 @@
  "unesco_id": "675",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 421,
- "popularity_score": 14919,
+ "popularity_rank": 447,
+ "popularity_score": 16411,
  "country": "SV",
  "country_zh": "萨尔瓦多",
  "country_en": "El Salvador",
@@ -72,7 +72,8 @@
     "lat": 13.6995,
     "lon": -89.119904,
     "type": "medium_airport",
-    "distance_km": 29.2
+    "distance_km": 29.2,
+    "name_zh": "圣萨尔瓦多-伊洛潘戈"
    },
    {
     "name": "El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez",
@@ -82,7 +83,8 @@
     "lat": 13.44447,
     "lon": -89.055784,
     "type": "large_airport",
-    "distance_km": 53.5
+    "distance_km": 53.5,
+    "name_zh": "萨尔瓦多国际机场"
    },
    {
     "name": "La Aurora International Airport",
@@ -92,7 +94,8 @@
     "lat": 14.582896,
     "lon": -90.527515,
     "type": "large_airport",
-    "distance_km": 151.7
+    "distance_km": 151.7,
+    "name_zh": "拉奥罗拉国际机场"
    }
   ],
   "nearest_airport_km": 29.2,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

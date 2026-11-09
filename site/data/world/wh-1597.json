@@ -3,8 +3,8 @@
  "unesco_id": "1597",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 497,
- "popularity_score": 11278,
+ "popularity_rank": 534,
+ "popularity_score": 12102,
  "country": "CA",
  "country_zh": "加拿大",
  "country_en": "Canada",
@@ -72,7 +72,8 @@
     "lat": 49.6302986145,
     "lon": -112.800003052,
     "type": "medium_airport",
-    "distance_km": 105.2
+    "distance_km": 105.2,
+    "name_zh": "列斯桥机场"
    },
    {
     "name": "Medicine Hat Regional Airport",
@@ -82,7 +83,8 @@
     "lat": 50.018902,
     "lon": -110.721001,
     "type": "medium_airport",
-    "distance_km": 122.6
+    "distance_km": 122.6,
+    "name_zh": "药帽市机场"
    },
    {
     "name": "Havre City County Airport",
@@ -92,7 +94,8 @@
     "lat": 48.541387,
     "lon": -109.762859,
     "type": "medium_airport",
-    "distance_km": 148.5
+    "distance_km": 148.5,
+    "name_zh": "哈佛县机场"
    }
   ],
   "nearest_airport_km": 105.2,
@@ -173,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

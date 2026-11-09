@@ -3,8 +3,8 @@
  "unesco_id": "1483",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 178,
- "popularity_score": 59677,
+ "popularity_rank": 198,
+ "popularity_score": 63853,
  "country": "SG",
  "country_zh": "新加坡",
  "country_en": "Singapore",
@@ -96,7 +96,8 @@
     "lat": 1.41555,
     "lon": 103.86673,
     "type": "medium_airport",
-    "distance_km": 12.5
+    "distance_km": 12.5,
+    "name_zh": "实里达机场"
    },
    {
     "name": "Singapore Changi Airport",
@@ -106,7 +107,8 @@
     "lat": 1.35019,
     "lon": 103.994003,
     "type": "large_airport",
-    "distance_km": 20.1
+    "distance_km": 20.1,
+    "name_zh": "新加坡樟宜机场"
    },
    {
     "name": "Senai International Airport",
@@ -116,7 +118,8 @@
     "lat": 1.64131,
     "lon": 103.669998,
     "type": "large_airport",
-    "distance_km": 39.7
+    "distance_km": 39.7,
+    "name_zh": "士乃国际机场"
    }
   ],
   "nearest_airport_km": 12.5,
@@ -337,5 +340,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

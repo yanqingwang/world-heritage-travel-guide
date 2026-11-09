@@ -3,8 +3,8 @@
  "unesco_id": "511",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 156,
- "popularity_score": 74228,
+ "popularity_rank": 168,
+ "popularity_score": 80495,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -96,7 +96,8 @@
     "lat": 37.06829833984375,
     "lon": 22.02549934387207,
     "type": "medium_airport",
-    "distance_km": 30.3
+    "distance_km": 30.3,
+    "name_zh": "卡拉马塔"
    },
    {
     "name": "Kithira Airport",
@@ -116,7 +117,8 @@
     "lat": 38.1511,
     "lon": 21.4256,
     "type": "medium_airport",
-    "distance_km": 145.7
+    "distance_km": 145.7,
+    "name_zh": "帕特雷"
    }
   ],
   "nearest_airport_km": 30.3,
@@ -196,5 +198,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

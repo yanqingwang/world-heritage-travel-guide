@@ -3,8 +3,8 @@
  "unesco_id": "743",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 680,
- "popularity_score": 4650,
+ "popularity_rank": 723,
+ "popularity_score": 5105,
  "country": "CO",
  "country_zh": "哥伦比亚",
  "country_en": "Colombia",
@@ -92,7 +92,8 @@
     "lat": 3.542717,
     "lon": -76.381898,
     "type": "large_airport",
-    "distance_km": 113.5
+    "distance_km": 113.5,
+    "name_zh": "卡利"
    }
   ],
   "nearest_airport_km": 65.6,
@@ -172,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

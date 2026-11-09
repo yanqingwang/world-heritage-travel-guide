@@ -3,7 +3,7 @@
  "unesco_id": "618",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1116,
+ "popularity_rank": 1121,
  "popularity_score": null,
  "country": "SK",
  "country_zh": "斯洛伐克",
@@ -64,7 +64,8 @@
     "lat": 48.63779830932617,
     "lon": 19.13409996032715,
     "type": "medium_airport",
-    "distance_km": 26.1
+    "distance_km": 26.1,
+    "name_zh": "斯利亚奇机场"
    },
    {
     "name": "Budapest Liszt Ferenc International Airport",
@@ -74,7 +75,8 @@
     "lat": 47.43018,
     "lon": 19.262393,
     "type": "large_airport",
-    "distance_km": 117.8
+    "distance_km": 117.8,
+    "name_zh": "布达佩斯李斯特·费伦茨国际机场"
    },
    {
     "name": "Poprad-Tatry Airport",
@@ -84,7 +86,8 @@
     "lat": 49.070994,
     "lon": 20.241394,
     "type": "medium_airport",
-    "distance_km": 119.4
+    "distance_km": 119.4,
+    "name_zh": "波普拉德机场"
    }
   ],
   "nearest_airport_km": 26.1,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "598",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1109,
+ "popularity_rank": 1114,
  "popularity_score": null,
  "country": "RO",
  "country_zh": "罗马尼亚",
@@ -64,7 +64,8 @@
     "lat": 47.6875,
     "lon": 26.354099,
     "type": "large_airport",
-    "distance_km": 31.9
+    "distance_km": 31.9,
+    "name_zh": "苏恰瓦"
    },
    {
     "name": "Iaşi International Airport",
@@ -74,7 +75,8 @@
     "lat": 47.179633,
     "lon": 27.621431,
     "type": "large_airport",
-    "distance_km": 141.1
+    "distance_km": 141.1,
+    "name_zh": "雅西"
    },
    {
     "name": "Bacău George Enescu International  Airport",
@@ -84,7 +86,8 @@
     "lat": 46.5219,
     "lon": 26.910299,
     "type": "large_airport",
-    "distance_km": 153.6
+    "distance_km": 153.6,
+    "name_zh": "巴克乌国际机场"
    }
   ],
   "nearest_airport_km": 31.9,
@@ -164,5 +167,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

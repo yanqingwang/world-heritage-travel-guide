@@ -3,8 +3,8 @@
  "unesco_id": "1525",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 768,
- "popularity_score": 2137,
+ "popularity_rank": 812,
+ "popularity_score": 2313,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -72,7 +72,8 @@
     "lat": 55.606201,
     "lon": 49.278702,
     "type": "large_airport",
-    "distance_km": 43.3
+    "distance_km": 43.3,
+    "name_zh": "喀山国际机场"
    },
    {
     "name": "Cheboksary Airport",
@@ -82,7 +83,8 @@
     "lat": 56.090302,
     "lon": 47.347301,
     "type": "medium_airport",
-    "distance_km": 88.8
+    "distance_km": 88.8,
+    "name_zh": "切博克萨雷机场"
    },
    {
     "name": "Ulyanovsk Vostochny Airport",
@@ -92,7 +94,8 @@
     "lat": 54.401001,
     "lon": 48.8027,
     "type": "medium_airport",
-    "distance_km": 152.5
+    "distance_km": 152.5,
+    "name_zh": "乌里扬诺夫斯克东方港机场"
    }
   ],
   "nearest_airport_km": 43.3,
@@ -169,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

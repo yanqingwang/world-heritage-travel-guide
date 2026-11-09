@@ -3,7 +3,7 @@
  "unesco_id": "1732",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 721,
+ "popularity_rank": 776,
  "popularity_score": 3738,
  "country": "VN",
  "country_zh": "越南",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "VN-13",
- "subdivision_zh": "广宁市",
- "subdivision_en": "Quảng Ninh",
- "subdivision_source": "nominatim_reverse",
+ "subdivision_iso": "",
+ "subdivision_zh": "",
+ "subdivision_en": "",
+ "subdivision_source": "",
  "name_zh": "安子、永严、昆山-劫泊建筑和景观群",
  "name_zh_source": "unesco_official",
  "name_en": "Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes",
@@ -72,7 +72,8 @@
     "lat": 20.817428,
     "lon": 106.724315,
     "type": "large_airport",
-    "distance_km": 28.8
+    "distance_km": 28.8,
+    "name_zh": "吉碑国际机场"
    },
    {
     "name": "Van Don International Airport",
@@ -82,7 +83,8 @@
     "lat": 21.120693,
     "lon": 107.41539,
     "type": "medium_airport",
-    "distance_km": 72.4
+    "distance_km": 72.4,
+    "name_zh": "云屯国际机场"
    },
    {
     "name": "Noi Bai International Airport",
@@ -92,7 +94,8 @@
     "lat": 21.221201,
     "lon": 105.806999,
     "type": "large_airport",
-    "distance_km": 95.9
+    "distance_km": 95.9,
+    "name_zh": "内排国际机场"
    }
   ],
   "nearest_airport_km": 28.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

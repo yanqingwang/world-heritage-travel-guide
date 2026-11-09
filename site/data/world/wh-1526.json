@@ -3,8 +3,8 @@
  "unesco_id": "1526",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 627,
- "popularity_score": 6176,
+ "popularity_rank": 671,
+ "popularity_score": 6648,
  "country": "AR",
  "country_zh": "阿根廷",
  "country_en": "Argentina",
@@ -72,7 +72,8 @@
     "lat": -42.908001,
     "lon": -71.139503,
     "type": "medium_airport",
-    "distance_km": 62.9
+    "distance_km": 62.9,
+    "name_zh": "埃斯克尔机场"
    },
    {
     "name": "Mocopulli Airport",
@@ -82,7 +83,8 @@
     "lat": -42.340388,
     "lon": -73.715693,
     "type": "small_airport",
-    "distance_km": 157.6
+    "distance_km": 157.6,
+    "name_zh": "卡斯特罗机场"
    },
    {
     "name": "El Tepual International Airport",
@@ -92,7 +94,8 @@
     "lat": -41.443093,
     "lon": -73.094065,
     "type": "large_airport",
-    "distance_km": 180.9
+    "distance_km": 180.9,
+    "name_zh": "特珀国际机场"
    }
   ],
   "nearest_airport_km": 62.9,
@@ -170,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:05Z"
+ "updated_at": "2026-11-09T12:50:25Z"
 }

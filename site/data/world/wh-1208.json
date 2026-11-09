@@ -3,8 +3,8 @@
  "unesco_id": "1208",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 368,
- "popularity_score": 19216,
+ "popularity_rank": 395,
+ "popularity_score": 20900,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -72,7 +72,8 @@
     "lat": 29.0842,
     "lon": 58.450001,
     "type": "medium_airport",
-    "distance_km": 9.4
+    "distance_km": 9.4,
+    "name_zh": "巴姆机场"
    },
    {
     "name": "Ayatollah Hashemi Rafsanjani International Airport",
@@ -82,7 +83,8 @@
     "lat": 30.271276,
     "lon": 56.949692,
     "type": "large_airport",
-    "distance_km": 187.8
+    "distance_km": 187.8,
+    "name_zh": "阿克巴尔·哈什米·拉夫桑贾尼机场"
    },
    {
     "name": "Zahedan International Airport",
@@ -92,7 +94,8 @@
     "lat": 29.4757,
     "lon": 60.9062,
     "type": "large_airport",
-    "distance_km": 250.6
+    "distance_km": 250.6,
+    "name_zh": "扎黑丹机场"
    }
   ],
   "nearest_airport_km": 9.4,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:03Z"
+ "updated_at": "2026-11-09T12:50:23Z"
 }

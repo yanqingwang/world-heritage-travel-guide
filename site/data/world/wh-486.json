@@ -3,8 +3,8 @@
  "unesco_id": "486",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 411,
- "popularity_score": 15824,
+ "popularity_rank": 438,
+ "popularity_score": 17366,
  "country": "AU",
  "country_zh": "澳大利亚",
  "country_en": "Australia",
@@ -72,7 +72,8 @@
     "lat": -16.878921,
     "lon": 145.74948,
     "type": "large_airport",
-    "distance_km": 36.1
+    "distance_km": 36.1,
+    "name_zh": "凯恩斯机场"
    },
    {
     "name": "Palm Island Airport",
@@ -92,7 +93,8 @@
     "lat": -15.443649,
     "lon": 145.183221,
     "type": "medium_airport",
-    "distance_km": 206.1
+    "distance_km": 206.1,
+    "name_zh": "库克敦机场"
    }
   ],
   "nearest_airport_km": 36.1,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:59Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

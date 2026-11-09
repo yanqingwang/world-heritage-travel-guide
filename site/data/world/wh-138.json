@@ -2,8 +2,8 @@
  "id": "wh-138",
  "unesco_id": "138",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 922,
+ "tier": "full",
+ "popularity_rank": 37,
  "popularity_score": 345058,
  "country": "PK",
  "country_zh": "巴基斯坦",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_138.jpg",
-   "title": "Archaeological Ruins at Moenjodaro",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/138",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/An_afternoon_light_on_Moenjodaro_by_Usman_Ghani.jpg/1280px-An_afternoon_light_on_Moenjodaro_by_Usman_Ghani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "An afternoon light on Moenjodaro by Usman Ghani.jpg",
+   "author": "Usman.pg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:An_afternoon_light_on_Moenjodaro_by_Usman_Ghani.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/An_other_view_of_Moenjodaro_%28esvoy_banner%29.jpg/1280px-An_other_view_of_Moenjodaro_%28esvoy_banner%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "An other view of Moenjodaro (esvoy banner).jpg",
+   "author": "Quratulain",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:An_other_view_of_Moenjodaro_%28esvoy_banner%29.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/An_other_view_of_Moenjodaro.jpg/1280px-An_other_view_of_Moenjodaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "An other view of Moenjodaro.jpg",
+   "author": "Quratulain",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:An_other_view_of_Moenjodaro.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Another_view_of_canal_-_Mohenjo-daro.jpg/1280px-Another_view_of_canal_-_Mohenjo-daro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Another view of canal - Mohenjo-daro.jpg",
+   "author": "Quratulain",
+   "license": "CC BY-SA 3.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Another_view_of_canal_-_Mohenjo-daro.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/138",
@@ -72,7 +96,8 @@
     "lat": 27.722,
     "lon": 68.791702,
     "type": "medium_airport",
-    "distance_km": 77.8
+    "distance_km": 77.8,
+    "name_zh": "苏库尔"
    },
    {
     "name": "Shaheed Benazirabad Airport",
@@ -82,7 +107,8 @@
     "lat": 26.2194,
     "lon": 68.390099,
     "type": "medium_airport",
-    "distance_km": 125.9
+    "distance_km": 125.9,
+    "name_zh": "讷瓦布沙阿机场"
    },
    {
     "name": "Khuzdar Airport",
@@ -98,9 +124,106 @@
   "nearest_airport_km": 77.8,
   "distance_beijing_km": 4560.7,
   "ferry_terminals": [],
-  "railway_stations": []
+  "railway_stations": [
+   {
+    "name": "Mohenjo-daro",
+    "name_en": "Mohenjo-daro",
+    "lat": 27.3797386,
+    "lon": 68.0719038,
+    "distance_km": 8.7,
+    "operator": null
+   },
+   {
+    "name": "بخش جتوئی",
+    "name_en": "Bakhsh Jatoi",
+    "lat": 27.4099608,
+    "lon": 68.0972879,
+    "distance_km": 9.9,
+    "operator": null
+   },
+   {
+    "name": "باڈہ",
+    "name_en": "Badah",
+    "lat": 27.3289448,
+    "lon": 68.0286756,
+    "distance_km": 10.9,
+    "operator": null
+   },
+   {
+    "name": "Haider Bakhsh Jatoi",
+    "name_en": "Haider Bakhsh Jatoi",
+    "lat": 27.4361885,
+    "lon": 68.1196456,
+    "distance_km": 12.1,
+    "operator": null
+   },
+   {
+    "name": "باکرانی روڈ",
+    "name_en": "Bakrani Road",
+    "lat": 27.4580032,
+    "lon": 68.1380424,
+    "distance_km": 14.3,
+    "operator": null
+   }
+  ]
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Khahawar Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5486174,
+   "lon": 68.210472,
+   "distance_km": 25.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sambara Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5504178,
+   "lon": 68.2045952,
+   "distance_km": 25.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Husnain Hotel Larakna",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5502533,
+   "lon": 68.2182284,
+   "distance_km": 25.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Paris Inn",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5519657,
+   "lon": 68.2127143,
+   "distance_km": 25.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Green Palace Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.5521417,
+   "lon": 68.2134171,
+   "distance_km": 25.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PK",
   "country_zh": "巴基斯坦",
@@ -173,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:57Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

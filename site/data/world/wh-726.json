@@ -3,8 +3,8 @@
  "unesco_id": "726",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 557,
- "popularity_score": 9195,
+ "popularity_rank": 587,
+ "popularity_score": 10176,
  "country": "IT",
  "country_zh": "意大利",
  "country_en": "Italy",
@@ -72,7 +72,8 @@
     "lat": 40.886002,
     "lon": 14.2908,
     "type": "large_airport",
-    "distance_km": 4.5
+    "distance_km": 4.5,
+    "name_zh": "那不勒斯国际机场"
    },
    {
     "name": "Salerno Costa d'Amalfi Airport",
@@ -82,7 +83,8 @@
     "lat": 40.620399,
     "lon": 14.9113,
     "type": "medium_airport",
-    "distance_km": 60.4
+    "distance_km": 60.4,
+    "name_zh": "萨莱诺—阿玛菲海岸机场"
    },
    {
     "name": "Foggia Gino Lisa Airport",
@@ -92,7 +94,8 @@
     "lat": 41.433596,
     "lon": 15.534566,
     "type": "medium_airport",
-    "distance_km": 124.6
+    "distance_km": 124.6,
+    "name_zh": "福贾「Gino Lisa」机场"
    }
   ],
   "nearest_airport_km": 4.5,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "801",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 735,
- "popularity_score": 3348,
+ "popularity_rank": 783,
+ "popularity_score": 3610,
  "country": "KE",
  "country_zh": "肯尼亚",
  "country_en": "Kenya",
@@ -72,7 +72,8 @@
     "lat": 5.749655,
     "lon": 36.560165,
     "type": "medium_airport",
-    "distance_km": 300.1
+    "distance_km": 300.1,
+    "name_zh": "金卡机场"
    },
    {
     "name": "Eldoret International Airport",
@@ -82,7 +83,8 @@
     "lat": 0.404458,
     "lon": 35.238899,
     "type": "large_airport",
-    "distance_km": 326.2
+    "distance_km": 326.2,
+    "name_zh": "埃尔多雷特国际机场"
    },
    {
     "name": "Nanyuki Civil Airport",
@@ -173,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:01Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "556",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 714,
- "popularity_score": 3841,
+ "popularity_rank": 757,
+ "popularity_score": 4212,
  "country": "SE",
  "country_zh": "瑞典",
  "country_en": "Sweden",
@@ -72,7 +72,8 @@
     "lat": 59.589401,
     "lon": 16.6336,
     "type": "large_airport",
-    "distance_km": 54.8
+    "distance_km": 54.8,
+    "name_zh": "斯德哥尔摩－韦斯特罗斯机场"
    },
    {
     "name": "Dala Airport",
@@ -82,7 +83,8 @@
     "lat": 60.422001,
     "lon": 15.5152,
     "type": "medium_airport",
-    "distance_km": 57.3
+    "distance_km": 57.3,
+    "name_zh": "达拉机场"
    },
    {
     "name": "Örebro Airport",
@@ -92,7 +94,8 @@
     "lat": 59.22370147705078,
     "lon": 15.038000106811523,
     "type": "medium_airport",
-    "distance_km": 99.3
+    "distance_km": 99.3,
+    "name_zh": "厄勒布鲁"
    }
   ],
   "nearest_airport_km": 54.8,
@@ -172,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:19Z"
 }

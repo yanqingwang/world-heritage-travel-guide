@@ -3,8 +3,8 @@
  "unesco_id": "1342",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 41,
- "popularity_score": 224249,
+ "popularity_rank": 48,
+ "popularity_score": 246145,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 10.151047,
     "lon": 76.400838,
     "type": "large_airport",
-    "distance_km": 72.3
+    "distance_km": 72.3,
+    "name_zh": "柯枝国际机场"
    },
    {
     "name": "Coimbatore International Airport",
@@ -106,7 +107,8 @@
     "lat": 11.03,
     "lon": 77.043404,
     "type": "large_airport",
-    "distance_km": 95.7
+    "distance_km": 95.7,
+    "name_zh": "哥印拜陀国际机场"
    },
    {
     "name": "Madurai Airport",
@@ -116,7 +118,8 @@
     "lat": 9.83450984955,
     "lon": 78.09339904790001,
     "type": "medium_airport",
-    "distance_km": 119.0
+    "distance_km": 119.0,
+    "name_zh": "马杜赖机场"
    }
   ],
   "nearest_airport_km": 72.3,
@@ -293,5 +296,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:04Z"
+ "updated_at": "2026-11-09T12:50:24Z"
 }

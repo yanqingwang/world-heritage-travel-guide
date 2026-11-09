@@ -4,7 +4,7 @@
  "dataset": "unesco",
  "tier": "full",
  "popularity_rank": 3,
- "popularity_score": 1683727,
+ "popularity_score": 1864812,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 27.157975,
     "lon": 77.961025,
     "type": "medium_airport",
-    "distance_km": 8.2
+    "distance_km": 8.2,
+    "name_zh": "阿格拉机场"
    },
    {
     "name": "Gwalior Airport",
@@ -106,7 +107,8 @@
     "lat": 26.29330062866211,
     "lon": 78.22779846191406,
     "type": "medium_airport",
-    "distance_km": 99.8
+    "distance_km": 99.8,
+    "name_zh": "瓜廖尔"
    },
    {
     "name": "Noida International Airport",
@@ -116,7 +118,8 @@
     "lat": 28.179868,
     "lon": 77.611843,
     "type": "large_airport",
-    "distance_km": 119.5
+    "distance_km": 119.5,
+    "name_zh": "诺伊达国际机场"
    }
   ],
   "nearest_airport_km": 8.2,
@@ -295,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "249",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 232,
- "popularity_score": 36257,
+ "popularity_rank": 247,
+ "popularity_score": 40276,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -96,7 +96,8 @@
     "lat": 12.990005,
     "lon": 80.169296,
     "type": "large_airport",
-    "distance_km": 41.6
+    "distance_km": 41.6,
+    "name_zh": "金奈国际机场"
    },
    {
     "name": "Pondicherry Airport",
@@ -106,7 +107,8 @@
     "lat": 11.968,
     "lon": 79.812,
     "type": "medium_airport",
-    "distance_km": 83.1
+    "distance_km": 83.1,
+    "name_zh": "本地治里机场"
    },
    {
     "name": "Tirupati International Airport",
@@ -116,7 +118,8 @@
     "lat": 13.631988,
     "lon": 79.539869,
     "type": "large_airport",
-    "distance_km": 133.1
+    "distance_km": 133.1,
+    "name_zh": "提卢巴地机场"
    }
   ],
   "nearest_airport_km": 41.6,
@@ -295,5 +298,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:00:58Z"
+ "updated_at": "2026-11-09T12:50:17Z"
 }

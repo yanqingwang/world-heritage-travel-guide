@@ -3,8 +3,8 @@
  "unesco_id": "632",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 251,
- "popularity_score": 32202,
+ "popularity_rank": 271,
+ "popularity_score": 35566,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -96,7 +96,8 @@
     "lat": 65.029996,
     "lon": 35.730558,
     "type": "small_airport",
-    "distance_km": 1.1
+    "distance_km": 1.1,
+    "name_zh": "索洛韦基机场"
    },
    {
     "name": "Talagi Airport",
@@ -106,7 +107,8 @@
     "lat": 64.60030364990234,
     "lon": 40.71670150756836,
     "type": "medium_airport",
-    "distance_km": 241.5
+    "distance_km": 241.5,
+    "name_zh": "塔拉吉机场"
    },
    {
     "name": "Kirovsk-Apatity Airport",
@@ -293,5 +295,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:00Z"
+ "updated_at": "2026-11-09T12:50:20Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1733",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 828,
- "popularity_score": 172,
+ "popularity_rank": 873,
+ "popularity_score": 176,
  "country": "GR",
  "country_zh": "希腊",
  "country_en": "Greece",
@@ -72,7 +72,8 @@
     "lat": 35.339699,
     "lon": 25.1803,
     "type": "large_airport",
-    "distance_km": 5.0
+    "distance_km": 5.0,
+    "name_zh": "伊拉克利翁尼科斯·卡赞察基斯国际机场"
    },
    {
     "name": "Sitia Airport",
@@ -92,7 +93,8 @@
     "lat": 35.531207,
     "lon": 24.150673,
     "type": "large_airport",
-    "distance_km": 95.3
+    "distance_km": 95.3,
+    "name_zh": "哈尼亚扬尼斯·达斯卡洛伊安尼斯国际机场"
    }
   ],
   "nearest_airport_km": 5.0,
@@ -172,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:06Z"
+ "updated_at": "2026-11-09T12:50:26Z"
 }

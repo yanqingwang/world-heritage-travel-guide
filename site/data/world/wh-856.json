@@ -3,8 +3,8 @@
  "unesco_id": "856",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 710,
- "popularity_score": 3958,
+ "popularity_rank": 754,
+ "popularity_score": 4310,
  "country": "BE",
  "country_zh": "比利时",
  "country_en": "Belgium",
@@ -72,7 +72,8 @@
     "lat": 50.461963,
     "lon": 4.459562,
     "type": "large_airport",
-    "distance_km": 25.9
+    "distance_km": 25.9,
+    "name_zh": "沙勒罗瓦－布鲁塞尔南机场"
    },
    {
     "name": "Brussels Airport",
@@ -82,7 +83,8 @@
     "lat": 50.901402,
     "lon": 4.48444,
     "type": "large_airport",
-    "distance_km": 55.1
+    "distance_km": 55.1,
+    "name_zh": "布鲁塞尔机场"
    },
    {
     "name": "Lille Airport",
@@ -92,7 +94,8 @@
     "lat": 50.566564,
     "lon": 3.102429,
     "type": "large_airport",
-    "distance_km": 70.9
+    "distance_km": 70.9,
+    "name_zh": "里尔机场"
    }
   ],
   "nearest_airport_km": 25.9,
@@ -174,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-09T12:01:02Z"
+ "updated_at": "2026-11-09T12:50:21Z"
 }
