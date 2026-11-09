@@ -2,7 +2,7 @@
 id: "cn-26447"
 dataset: "china_5a"
 name_zh: "吴忠市青铜峡黄河大峡谷旅游区"
-name_en: "Wuzhongshiqingtongxiahuanghedaxiagu Tourist Area"
+name_en: "Enshi Grand Canyon"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Ningxia"
 city_en: "Wuzhong City"
 lat: 37.895592
 lon: 106.006717
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 吴忠市青铜峡黄河大峡谷旅游区 / Wuzhongshiqingtongxiahuanghedaxiagu Tourist Area
+# 吴忠市青铜峡黄河大峡谷旅游区 / Enshi Grand Canyon
 
 > 宁夏回族自治区 · 吴忠市 · 地质奇观
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Qingtongxia Yellow River Grand Canyon Tourist Area is located in Qingtongxia City, Ningxia Hui Autonomous Region. The scenic area covers an area of ​​126 square kilometers. It is a core area of ​​world irrigation engineering heritage, a national key cultural relics protection unit, and a national popular science education base. Located at the foot of Helan Mountain and on the bank of the Yellow River, it is the core area of ​​Ningxia's Yellow River Golden Bank tourist belt. The tourist area is rich in resources, has a long history and culture, and the natural landscape is even more beautiful.
-
-*English introduction: machine translation.*
+Enshi Grand Canyon (Chinese: 恩施大峡谷) is a natural scenic spot in Enshi, Hubei, China. It is located in the Qing River Basin, adjacent to the world's deepest sinkhole Xiaozhai Tiankeng. The total length of the canyon is about 35 kilometers, and almost all kinds of forms of karst landforms can be found, including cliffs, peak pillars, sinkholes, solutional caves, natural arches, subterranean rivers, hanging valleys, etc., constituting a rare three-dimensional karst landform. The Enshi Grand Canyon is under the management of the Enshi Grand Canyon Scenic Area Management Office, Enshi Mufu Office.
 
 ## 交通 / Transport
 
@@ -49,9 +47,10 @@ Qingtongxia Yellow River Grand Canyon Tourist Area is located in Qingtongxia Cit
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/恩施大峡谷)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -3,8 +3,8 @@
  "unesco_id": "1430",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 137,
- "popularity_score": 107954,
+ "popularity_rank": 125,
+ "popularity_score": 99210,
  "country": "NA",
  "country_zh": "纳米比亚",
  "country_en": "Namibia",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "NA-ER",
+ "subdivision_zh": "埃龙戈区",
+ "subdivision_en": "Erongo Region",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "纳米布沙漠",
  "name_zh_source": "wikidata",
  "name_en": "Namib Sand Sea",
@@ -217,5 +217,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

@@ -3,8 +3,8 @@
  "unesco_id": "1283",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 339,
- "popularity_score": 25725,
+ "popularity_rank": 312,
+ "popularity_score": 23886,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "FR-HDF",
+ "subdivision_zh": "上法兰西大区",
+ "subdivision_en": "Hauts-de-France",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "沃邦防禦工事",
  "name_zh_source": "wikidata",
  "name_en": "Fortifications of Vauban",
@@ -171,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

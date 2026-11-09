@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Jiaxing City"
 lat: 30.949711
 lon: 120.902526
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 嘉兴市西塘古镇旅游景区 / Jiaxingshixitangguzhen Scenic Area
@@ -72,5 +72,4 @@ Xitang Ancient Town has a flat terrain and dense rivers, presenting a landscape 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西塘镇 (嘉善县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

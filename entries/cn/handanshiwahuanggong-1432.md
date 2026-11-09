@@ -2,7 +2,7 @@
 id: "cn-1432"
 dataset: "china_5a"
 name_zh: "邯郸市娲皇宫景区"
-name_en: "Handan"
+name_en: "Nüwa Palace"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hebei"
 city_en: "Handan"
 lat: 36.63978
 lon: 113.614932
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 邯郸市娲皇宫景区 / Handan
+# 邯郸市娲皇宫景区 / Nüwa Palace
 
 > 河北省 · 邯郸市 · 皇家园林
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Handan is a prefecture-level city located in the southwest of Hebei province, China. The southernmost prefecture-level city of the province, it borders Xingtai on the north, and the provinces of Shanxi on the west, Henan on the south and Shandong on the east. At the 2010 census, its population was 9,174,683 inhabitants of whom 2,845,790 lived in the built-up (or metro) area made of 5 urban districts. By the end of 2024, the total resident population of the city is 9,182,100, and the urbanization rate of the resident population is 62.10%. Yongnian District in Handan and Shahe City in Xingtai have largely formed into a single conurbation. Handan is one of the oldest cities in China, first settled around 6500 BC by the Cishan culture. Throughout the city's long history, it contributed significantly to Chinese culture, serving as the capital of State of Zhao, was northern China's political, economic and cultural center, and home to Tai chi and the first compass, made from stones collected in the nearby Mount Ci (magnet mountain). Handan is designated as one of China's National Famous Historical and Cultural Cities.
+The Nüwa Palace, also known as Wahuang Palace and by its Chinese name Wahuanggong, is a compound of palaces and temples beside Phoenix Mountain (Fenghuangshan) in She County, Handan Prefecture, Hebei Province, China. It principally honors the Chinese goddess Nüwa, whom the ancient Chinese believed created mankind and repaired the sky in prehistoric times. As such, the location is treated as a kind of ancestral shrine of all humankind and sees increased pilgrimage on Tomb Sweeping Day. The scenic area now covers 2600 mu (1.67 km2 or 0.64 sq mi) and was made a AAAAA tourist attraction by China's National Tourism Administration in 2015.
 
 ## 交通 / Transport
 
@@ -70,10 +70,10 @@ Handan is a prefecture-level city located in the southwest of Hebei province, Ch
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/邯郸市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/娲皇宫及石刻)
 - [OpenStreetMap](https://www.openstreetmap.org/)

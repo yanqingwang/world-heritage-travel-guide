@@ -13,7 +13,7 @@ province_en: "Qinghai"
 city_en: "Xining"
 lat: 36.498621
 lon: 101.575088
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 西宁市塔尔寺景区 / Kumbum Monastery

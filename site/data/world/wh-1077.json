@@ -3,8 +3,8 @@
  "unesco_id": "1077",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 892,
- "popularity_score": null,
+ "popularity_rank": 319,
+ "popularity_score": 23301,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Western Azerbaijan Province",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "IR-04",
+ "subdivision_zh": "西阿塞拜疆省",
+ "subdivision_en": "West Azerbaijan Province",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "塔赫特苏莱曼",
  "name_zh_source": "unesco_official",
  "name_en": "Takht-e Soleyman",
@@ -172,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:02Z"
+ "updated_at": "2026-11-09T12:01:03Z"
 }

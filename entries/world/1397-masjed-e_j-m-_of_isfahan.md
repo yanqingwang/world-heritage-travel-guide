@@ -8,13 +8,13 @@ country: "IR"
 country_zh: "伊朗"
 country_en: "Iran"
 unesco_id: "1397"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2012"
 criteria: "(ii)"
 lat: 32.669722222
 lon: 51.685277777
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:04Z"
 ---
 
 # 伊斯法罕聚礼清真寺 / Masjed-e Jāmé of Isfahan
@@ -52,7 +52,21 @@ Located in the historic centre of Isfahan, the Masjed-e Jāmé (‘Friday mosque
 - ✈ **Isfahan Shahid Beheshti International Airport (IFN)** — 20.9 km
 - ✈ **Kashan Airport (KKS)** — 136.6 km
 - ✈ **Shahid Sadooghi Airport (AZD)** — 258.0 km
+- 🚉 **ایستگاه راه آهن اصفهان** — 13.3 km
+- 🚉 **سیستان** — 40.0 km
+- 🚉 **ورتون** — 44.6 km
+- ⛴ **حمل ونقل کالا و اثاثیه منزل کورش ترابر سپاهان** — 10.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5719.8 km**
+
+## 附近酒店 / Nearby hotels
+
+- **هتل عباسی** — 2.4 km — star — Abbasi Hotel · 5★
+- **هتل بین‌المللی ویرا** — 2.5 km — star — VIRA Hotel · 5★
+- **هتل پارسیان کوثر** — 3.6 km — star — Parsian Kowsar Hotel · 5★
+- **هتل سیزنز (Seasons Hotel)** — 5.3 km — star — (Seasons Hotel) هتل سیزنز · 5★ · (Seasons Hotel) هتل سیزنز
+- **هتل پرستیژ اصفهان** — 12.9 km — star — Prestige · 5★
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

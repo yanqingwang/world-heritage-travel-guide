@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iv)(vi)"
 lat: 46.809444444
 lon: -71.210555555
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # 魁北克古城区 / Historic District of Old Québec

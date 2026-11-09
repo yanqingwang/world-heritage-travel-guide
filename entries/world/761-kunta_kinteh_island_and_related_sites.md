@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(vi)"
 lat: 13.31747222
 lon: -16.36147222
-updated_at: "2026-11-08T20:30:00Z"
+updated_at: "2026-11-09T12:01:01Z"
 ---
 
 # 詹姆斯岛及附近区域 / Kunta Kinteh Island and Related Sites

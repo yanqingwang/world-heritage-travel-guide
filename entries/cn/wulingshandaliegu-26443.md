@@ -2,7 +2,7 @@
 id: "cn-26443"
 dataset: "china_5a"
 name_zh: "武陵山大裂谷景区"
-name_en: "Wulingshandaliegu Scenic Area"
+name_en: "Wuling Mountains"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Chongqing"
 city_en: "Fuling District"
 lat: 29.495731
 lon: 107.585789
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 武陵山大裂谷景区 / Wulingshandaliegu Scenic Area
+# 武陵山大裂谷景区 / Wuling Mountains
 
 > 重庆市 · 涪陵区 · 历史遗址
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Wuling Mountain Rift Valley Scenic Spot is located in Wuling Mountain Township, about 40 kilometers southeast of Fuling District, Chongqing City. It is at the northwest end of the Wuling Mountains and on the east bank of the lower reaches of the Wujiang River. The scenic spot covers an area of ​​9 square kilometers. The average altitude of the scenic spot is 1,300 meters, and the highest point is 1,980 meters. The mountains are steep and varied, and the native vegetation is rich and diverse. There are more than 2,000 species of wild plants and more than 200 species of wild animals. The air is fresh and pleasant, and the ecological environment is excellent. Mountains, forests, springs, caves, waterfalls, cliffs, lakes, pools, gorges, pits, and crevices are all available, and the tourism resources are very rich. The Shili Grand Canyon is majestic and majestic, with strange rocks stacked on top of each other and gurgling streams; the natural cliffs are like the Great Wall, stretching for several miles; the cracks in the ground and the underground rivers are magical and spectacular.
-
-*English introduction: machine translation.*
+The Wuling Mountains (simplified Chinese: 武陵山脉; traditional Chinese: 武陵山脈; pinyin: Wǔlíng Shānmài) are a mountain range located in Central China, running from Chongqing Municipality and East Guizhou to West Hunan. They are home to many ethnic groups, including the Tujia, Han, Miao, Dong, and Bai.
 
 ## 交通 / Transport
 
@@ -52,9 +50,10 @@ The Wuling Mountain Rift Valley Scenic Spot is located in Wuling Mountain Townsh
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/武陵山脉)
 - [OpenStreetMap](https://www.openstreetmap.org/)

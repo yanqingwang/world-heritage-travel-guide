@@ -1,1 +1,114 @@
-{"hotels": [{"name": "瑞金宾馆", "name_en": null, "stars": null, "brand": null, "lat": 25.8856463, "lon": 116.0372852, "distance_km": 1.9, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "瑞金饭店", "name_en": null, "stars": null, "brand": null, "lat": 25.8781349, "lon": 116.03388, "distance_km": 2.0, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "海亚国际酒店", "name_en": null, "stars": null, "brand": null, "lat": 25.8896298, "lon": 116.0517935, "distance_km": 3.3, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 3, "stations": [{"name": "瑞金", "name_en": "Ruijin", "lat": 25.8665598, "lon": 116.0511085, "distance_km": 4.1, "operator": null, "high_speed": false}, {"name": "金峰山", "name_en": null, "lat": 25.8725489, "lon": 116.1711754, "distance_km": 15.4, "operator": null, "high_speed": false}, {"name": "石门圩", "name_en": null, "lat": 25.8287145, "lon": 115.8566478, "distance_km": 17.6, "operator": null, "high_speed": false}, {"name": "会昌北", "name_en": "Huichangbei", "lat": 25.8298359, "lon": 115.7806208, "distance_km": 24.8, "operator": null, "high_speed": false}, {"name": "长汀", "name_en": "Changting", "lat": 25.8318013, "lon": 116.3393861, "distance_km": 32.7, "operator": null, "high_speed": false}, {"name": "长汀南", "name_en": "Changtingnan Railway Station", "lat": 25.7692988, "lon": 116.3527953, "distance_km": 36.0, "operator": null, "high_speed": false}, {"name": "黄麟", "name_en": null, "lat": 25.9248162, "lon": 115.6353607, "distance_km": 38.6, "operator": null, "high_speed": false}, {"name": "首塅", "name_en": "Shouduan", "lat": 26.303567, "lon": 116.1624745, "distance_km": 48.2, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:23:01Z"}
+{
+ "hotels": [
+  {
+   "name": "瑞金宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.8856463,
+   "lon": 116.0372852,
+   "distance_km": 1.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "瑞金饭店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.8781349,
+   "lon": 116.03388,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "海亚国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.8896298,
+   "lon": 116.0517935,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "stations": [
+  {
+   "name": "瑞金",
+   "name_en": "Ruijin",
+   "lat": 25.8665598,
+   "lon": 116.0511085,
+   "distance_km": 4.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "金峰山",
+   "name_en": null,
+   "lat": 25.8725489,
+   "lon": 116.1711754,
+   "distance_km": 15.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "石门圩",
+   "name_en": null,
+   "lat": 25.8287145,
+   "lon": 115.8566478,
+   "distance_km": 17.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "会昌北",
+   "name_en": "Huichangbei",
+   "lat": 25.8298359,
+   "lon": 115.7806208,
+   "distance_km": 24.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "长汀",
+   "name_en": "Changting",
+   "lat": 25.8318013,
+   "lon": 116.3393861,
+   "distance_km": 32.7,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "长汀南",
+   "name_en": "Changtingnan Railway Station",
+   "lat": 25.7692988,
+   "lon": 116.3527953,
+   "distance_km": 36.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "黄麟",
+   "name_en": null,
+   "lat": 25.9248162,
+   "lon": 115.6353607,
+   "distance_km": 38.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "首塅",
+   "name_en": "Shouduan",
+   "lat": 26.303567,
+   "lon": 116.1624745,
+   "distance_km": 48.2,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:45Z"
+}

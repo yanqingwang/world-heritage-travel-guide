@@ -2,7 +2,7 @@
 id: "cn-837"
 dataset: "china_5a"
 name_zh: "张掖市七彩丹霞景区"
-name_en: "Danxiashan Scenic Area"
+name_en: "Mount Danxia"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Gansu"
 city_en: "Zhangye City"
 lat: 38.979327
 lon: 100.073731
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 张掖市七彩丹霞景区 / Danxiashan Scenic Area
+# 张掖市七彩丹霞景区 / Mount Danxia
 
 > 甘肃省 · 张掖市 · 宗教文化
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Zhangye Danxia landform is widely distributed, mainly distributed in Linze and Sunan counties, covering an area of ​​more than 300 square kilometers. It is one of the areas with the richest Danxia landforms in China. Its classic features mainly include colorful screen, sea of ​​fire, colorful tower, colorful drill, colorful mushrooms, large scallops, etc.
-
-*English introduction: machine translation.*
+Mount Danxia (Chinese: 丹霞山; pinyin: Dānxiá Shān) is a noted scenic mountainous area in Renhua County, in the northern part of Guangdong province. It is described on the local signage as a "world famous UNESCO geopark of China". It was inscribed as part of the China Danxia World Heritage Site in 2010 because of its unique geographical in formations and spectacular scenery. It is also an AAAAA Chinese attraction.
 
 ## 交通 / Transport
 
@@ -56,7 +54,7 @@ Zhangye Danxia landform is widely distributed, mainly distributed in Linze and S
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 

@@ -10,8 +10,8 @@
  "city_zh": "苏州市",
  "city_en": "Suzhou",
  "name_zh": "苏州市同里古镇景区",
- "name_en": "Suzhou",
- "name_en_source": "wikipedia",
+ "name_en": "Suzhoushitongliguzhen Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "suzhoushitongliguzhen-339",
  "lat": 31.156127,
  "lon": 120.729409,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "同里镇是一个具有悠久历史和典型水乡风格的古镇。镇内由15条河流纵横分割为7个小岛，由49座桥连接。同里以“醇正水乡，旧时江南”的特色闻名于海内外。",
- "intro_en": "Suzhou is a prefecture-level city in Jiangsu province, Eastern China. Suzhou is a major tourist destination and industrial hub of Eastern China, specializing in high-end manufacturing. Renowned as the cradle of Wu culture, Suzhou flourished as a hub of trade, arts, and intellectual life along the Grand Canal, helping shape China's economic and cultural development for centuries. The city is internationally famous for its classical gardens, which harmonize architecture, water, rocks, and plants into poetic expressions of nature. Long admired for its silk production, refined cuisine, and lyrical Kunqu opera, Suzhou has been praised in Chinese poetry, along with Hangzhou, as \"paradise on earth,\" a reputation that endures today as the city blends its timeless canals, whitewashed lanes, and scholarly heritage with modern industries. Suzhou is part of the Yangtze Delta megalopolis. Founded in 514 BC, Suzhou rapidly grew in size by the Eastern Han dynasty, mostly due to emigration from northern China. From the 10th century onwards, it has been an important economic, cultural, and commercial center, as well as the largest non-capital city in the world, until it was overtaken by Shanghai in",
- "intro_en_source": "wikipedia",
+ "intro_en": "Tongli Town is an ancient town with a long history and typical water town style. The town is divided into 7 small islands vertically and horizontally by 15 rivers, connected by 49 bridges. Tongli is famous at home and abroad for its characteristics of \"an authentic water town, like the south of the Yangtze River in the old days\".",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg/1280px-%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -194,10 +194,9 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
+  "ja": false,
   "ko": true,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -226,13 +225,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/苏州市"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

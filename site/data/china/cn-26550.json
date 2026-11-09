@@ -10,7 +10,7 @@
  "city_zh": "齐齐哈尔市",
  "city_en": "Qiqihaer City",
  "name_zh": "齐齐哈尔市扎龙生态旅游区",
- "name_en": "Qiqihaershizhalongshengtai Tourist Area",
+ "name_en": "Zhalongzhen Tourist Area",
  "name_en_source": "pinyin",
  "slug": "qiqihaershizhalongshengtai-26550",
  "lat": 47.209125,
@@ -130,28 +130,6 @@
  },
  "hotels": [
   {
-   "name": "Chonpines Hotel",
-   "name_en": "Chonpines Hotel",
-   "stars": null,
-   "brand": null,
-   "lat": 47.335744,
-   "lon": 123.9864888,
-   "distance_km": 23.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "白鹤宾馆",
-   "name_en": "Baihe Hotel",
-   "stars": null,
-   "brand": null,
-   "lat": 47.3366926,
-   "lon": 123.9860126,
-   "distance_km": 24.0,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "如家酒店",
    "name_en": "Home Inn",
    "stars": null,
@@ -163,25 +141,47 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "怡莱酒店（齐齐哈尔火车站店）",
-   "name_en": null,
+   "name": "如家精选酒店（齐齐哈尔龙华路店）",
+   "name_en": "Home Inn Selected (Qiqihar Longhua Road Branch)",
    "stars": null,
-   "brand": "怡莱酒店",
-   "lat": 47.3391114,
-   "lon": 123.9744288,
-   "distance_km": 24.8,
-   "kind": "hotel",
+   "brand": "如家酒店",
+   "lat": 47.3391858,
+   "lon": 123.9739373,
+   "distance_km": 24.9,
+   "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
-   "name": "轻住·东翰宾馆（百花园中医院店）",
-   "name_en": "Qingzhu Donghan Hotel (Baihuayuan Shopping Mall & Chinese Medical Hospital Branch)",
+   "name": "汉庭酒店（齐齐哈尔火车站店）",
+   "name_en": "Hanting Hotel (Qiqihar Train Station Branch)",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 47.3421482,
+   "lon": 123.9708798,
+   "distance_km": 25.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "桔子红了精选酒店",
+   "name_en": "Red Orange Selected Hotel",
    "stars": null,
    "brand": null,
-   "lat": 47.3316787,
-   "lon": 123.9658015,
-   "distance_km": 24.9,
-   "kind": "hotel",
+   "lat": 47.33829,
+   "lon": 123.9611113,
+   "distance_km": 25.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 47.339915,
+   "lon": 123.9507155,
+   "distance_km": 26.4,
+   "kind": "chain",
    "source": "OpenStreetMap"
   }
  ],
@@ -192,6 +192,7 @@
   "ja": true,
   "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -221,12 +222,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/黑龙江扎龙国家级自然保护区"
+   "url": "https://zh.wikipedia.org/wiki/扎龙镇"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

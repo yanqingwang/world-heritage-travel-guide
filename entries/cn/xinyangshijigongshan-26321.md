@@ -13,7 +13,7 @@ province_en: "Henan"
 city_en: "Xinyang"
 lat: 31.81925
 lon: 114.083414
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 信阳市鸡公山景区 / Mount Jigong

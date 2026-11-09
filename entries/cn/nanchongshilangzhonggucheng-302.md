@@ -2,7 +2,7 @@
 id: "cn-302"
 dataset: "china_5a"
 name_zh: "南充市阆中古城旅游景区"
-name_en: "Nanchong"
+name_en: "Langzhong Gucheng Airport"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Nanchang"
 lat: 31.58086
 lon: 105.97767
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 南充市阆中古城旅游景区 / Nanchong
+# 南充市阆中古城旅游景区 / Langzhong Gucheng Airport
 
 > 四川省 · 南充市 · 石窟艺术
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Nanchong (Chinese: 南充; pinyin: Nánchōng; Wade–Giles: Nan-ch'ung; Sichuanese: lan2cong1) is a prefecture-level city in the northeast of Sichuan province, China, with an area of 12,479.96 km2 (4,818.54 sq mi). At the 2020 census it was home to 5,607,565 people, of whom 1,936,534 lived in the built-up (or 'metro') area made of three urban districts. It is the second most populated city of Sichuan Province, after Chengdu. The administrative center is Shunqing District. At the end of 2024, the resident population of the city was 5.489 million, a decrease of 22,000 from the previous year. The resident population of urban areas is 2.949 million, and the resident population of rural areas is 2.54 million. The urbanization rate of the resident population is 53.73%, an increase of 0.9 percentage points over the previous year. At the end of the year, the registered population of the city was 6.977 million, a decrease of 55,000 compared with the end of the previous year.
+Langzhong Gucheng Airport (IATA: LZG, ICAO: ZULA) is an airport serving the city of Langzhong in Southwest China's Sichuan Province. It is located in the town of Shilong (石龙) in Langzhong. This airport named after Lanzhong's historic city centre. Construction for the airport first began in 1994, after receiving approval from the national government of China in August 1992. However, work was later stopped for shortage of funds. Meanwhile, nearby Guangyuan Panlong Airport and Nanchong Gaoping Airport, which were started later, were completed and opened to the public. In December 2018, construction for Langzhong Airport resumed after a hiatus of more than 20 years, as the growing popularity of Langzhong as a tourist destination provides new justification for building the airport. The construction budget is 960 million yuan, and the airport opened on December 17, 2023. Langzhong Airport has a 3,600-metre (11,800 ft) runway (class 4C) and a 7,000-square-metre (75,000 sq ft) terminal building.
 
 ## 交通 / Transport
 
@@ -71,10 +71,10 @@ Nanchong (Chinese: 南充; pinyin: Nánchōng; Wade–Giles: Nan-ch'ung; Sichuan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/南充市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/阆中古城机场)
 - [OpenStreetMap](https://www.openstreetmap.org/)

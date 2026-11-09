@@ -2,9 +2,9 @@
  "id": "wh-1299",
  "unesco_id": "1299",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 320,
- "popularity_score": 28272,
+ "tier": "full",
+ "popularity_rank": 299,
+ "popularity_score": 25916,
  "country": "RU",
  "country_zh": "俄罗斯",
  "country_en": "Russia",
@@ -97,7 +97,24 @@
   ],
   "nearest_airport_km": 168.1,
   "distance_beijing_km": 2603.6,
-  "ferry_terminals": [],
+  "ferry_terminals": [
+   {
+    "name": "Ленские столбы",
+    "name_en": null,
+    "lat": 61.1073601,
+    "lon": 127.3618439,
+    "distance_km": 0.0,
+    "operator": null
+   },
+   {
+    "name": "Чкалов",
+    "name_en": null,
+    "lat": 61.1886237,
+    "lon": 127.7483797,
+    "distance_km": 22.7,
+    "operator": null
+   }
+  ],
   "railway_stations": []
  },
  "hotels": [],
@@ -172,5 +189,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

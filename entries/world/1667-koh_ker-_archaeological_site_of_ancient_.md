@@ -8,13 +8,13 @@ country: "KH"
 country_zh: "柬埔寨"
 country_en: "Cambodia"
 unesco_id: "1667"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2023"
 criteria: "(ii)(iv)"
 lat: 13.74992
 lon: 104.54727
-updated_at: "2026-11-08T20:30:06Z"
+updated_at: "2026-11-09T12:01:06Z"
 ---
 
 # 贡开：林迦之城（荣耀之城）考古遗址 / Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar
@@ -53,6 +53,16 @@ The archaeological site of Koh Ker is a sacred urban ensemble of numerous temple
 - ✈ **Battambang Airport (BBM)** — 160.6 km
 - ✈ **Surin Airport (PXR)** — 168.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3206.0 km**
+
+## 附近酒店 / Nearby hotels
+
+- **I AM Koh Ker** — 5.1 km — hotel
+- **Ly Hout Guest House** — 46.8 km — hotel
+- **Green Palace Hotel Preah Vihear** — 47.0 km — hotel
+- **Heng Heng Hotel** — 47.3 km — hotel
+- **សុភមង្គល** — 47.4 km — hotel — Sopheak Meangkol
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

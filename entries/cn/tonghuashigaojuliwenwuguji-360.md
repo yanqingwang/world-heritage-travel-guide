@@ -2,7 +2,7 @@
 id: "cn-360"
 dataset: "china_5a"
 name_zh: "通化市高句丽文物古迹旅游景区"
-name_en: "Tonghuashigaojuliwenwuguji Scenic Area"
+name_en: "Capital Cities and Tombs of the Ancient Koguryo Kingdom"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jilin"
 city_en: "Tonghua City"
 lat: 41.183529
 lon: 126.11615
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 通化市高句丽文物古迹旅游景区 / Tonghuashigaojuliwenwuguji Scenic Area
+# 通化市高句丽文物古迹旅游景区 / Capital Cities and Tombs of the Ancient Koguryo Kingdom
 
 > 吉林省 · 通化市 · 历史遗址
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-The Goguryeo Cultural Relics and Historic Sites Tourist Area is located in Ji'an City, Jilin Province. It is a relic of the Goguryeo Dynasty. The main attractions in the scenic area include Wandu Mountain Castle, royal tombs (14) and noble tombs (26).
-
-*English introduction: machine translation.*
+The Capital Cities and Tombs of the Ancient Koguryo Kingdom is an UNESCO World Heritage Site which includes a number of archaeological sites currently in Ji'an, Jilin Province and Huanren, Liaoning Province in Northeast China. Goguryeo (or Koguryo, "Gaogouli" in Chinese), (37 BCE – 668 CE) was a Korean Kingdom located in the northern and central parts of the Korean Peninsula and the southern and central parts of Manchuria. The archaeological sites were collectively designated a cultural World Heritage Site in 2004, qualifying as such under the first five of the six criteria for cultural heritage sites. The designation includes the archaeological remains of three fortress-cities: Wunü Mountain City, Gungnae and Hwando, and forty identified tombs of Goguryeo imperial and noble families. In 2010, the Chinese government established the Ji'an Gaogouli National Archaeological Park (Chinese: 集安高句丽考古遗址公园), which includes all of the Goguryeo World Heritage Sites in Ji'an and Jilin, but not the ones in Liaoning (such as Wunü Mountain City). North Korea initially attempted to register the world heritage of the sites from around 2000. Although it was scheduled to be registered in 2003, China o
 
 ## 交通 / Transport
 
@@ -52,9 +50,10 @@ The Goguryeo Cultural Relics and Historic Sites Tourist Area is located in Ji'an
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/高句丽王城、王陵及贵族墓葬)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-348"
 dataset: "china_5a"
 name_zh: "阿勒泰地区可可托海景区"
-name_en: "Altay Prefecture"
+name_en: "Fuyun Koktokay Airport"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 47.216809
 lon: 89.875277
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 阿勒泰地区可可托海景区 / Altay Prefecture
+# 阿勒泰地区可可托海景区 / Fuyun Koktokay Airport
 
 > 新疆维吾尔自治区 · 阿勒泰地区 · 度假休闲
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Altay Prefecture is a prefecture in northern Xinjiang, China. It has an area of 118,015 km2 (45,566 sq mi) and a population of 561,667 (2000). It is a part of the Ili Kazakh Autonomous Prefecture. As of the 2000 census, Altay was the only major subdivision of Ili Kazakh Autonomous Prefecture with an ethnic Kazakh majority (about 51%). In 2007, it had a GDP of RMB 9.9 billion with a 12% growth rate. It also shares an international border with the neighboring Altai Republic, located within Russia. Altay is considered the birthplace of skiing, based on 10,000 to 30,000 year old cave paintings depicting skiers.
+Fuyun Keketuohai (Koktokay) Airport (IATA: FYN, ICAO: ZWFY) is an airport serving Fuyun County in Altay Prefecture, Xinjiang, China. The old airport of Fuyun was built in 1965, located 38 kilometres (24 mi) from the county seat. It served a single route to Ürümqi until it was canceled in 1994, after the closing of the Koktokay mine. In November 2011, the State Council of China approved the proposal to move and rebuild Fuyun Airport. The new airport is located near the intersection of the provincial highway 226 and the national highway 216, 21 kilometres (13 mi) from the county seat. It is a class 4C regional airport, and the airport was projected to cost 410 million yuan to build. The airport was opened on 1 August 2015, when the inaugural China Southern Airlines flight from Urumqi Diwopu International Airport landed at the airport.
 
 ## 交通 / Transport
 
@@ -68,10 +68,10 @@ Altay Prefecture is a prefecture in northern Xinjiang, China. It has an area of 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/阿勒泰地区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/富蕴可可托海机场)
 - [OpenStreetMap](https://www.openstreetmap.org/)

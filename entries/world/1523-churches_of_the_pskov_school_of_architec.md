@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(ii)"
 lat: 57.8072
 lon: 28.3286
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 普斯科夫学派教堂建筑 / Churches of the Pskov School of Architecture

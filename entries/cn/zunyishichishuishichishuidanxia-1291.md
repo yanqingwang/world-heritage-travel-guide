@@ -2,7 +2,7 @@
 id: "cn-1291"
 dataset: "china_5a"
 name_zh: "遵义市赤水市赤水丹霞旅游区"
-name_en: "Zunyi"
+name_en: "Chishuidanxiadimao Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guizhou"
 city_en: "Zunyi City"
 lat: 28.542853
 lon: 105.739586
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 遵义市赤水市赤水丹霞旅游区 / Zunyi
+# 遵义市赤水市赤水丹霞旅游区 / Chishuidanxiadimao Tourist Area
 
 > 贵州省 · 遵义市 · 地质奇观
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Zunyi (simplified Chinese: 遵义; traditional Chinese: 遵義; pinyin: Zūnyì) is a prefecture-level city in northern Guizhou province, People's Republic of China, situated between the provincial capital Guiyang to the south and Chongqing to the north, also bordering Sichuan to the northwest. Along with Guiyang and Liupanshui, it is one of the most important cities of the province. The metro area is made of three urban districts of the city, Huichuan, Honghuagang, and Bozhou, which had a population of 2,360,549 people. The whole prefecture, including 14 county-level administrative areas, had a population of 6,606,675 at the 2020 census. Zunyi is known for being the location of the Zunyi Conference in 1935, where Mao Zedong was first elected to the leadership of the Chinese Communist Party during the Long March.
+Chishui Danxia Tourist Area is composed of three major scenic spots: Chishui Waterfall, Foguang Rock, and Swallow Rock. The area has clusters of waterfalls, beautiful Danxia, ​​sea-like bamboo forests, luxuriant algae, and magnificent forests. It is a Danxia landform tourist area integrating mountains, valleys, waterfalls, rivers, and rare animals and plants.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -72,10 +74,10 @@ Zunyi (simplified Chinese: 遵义; traditional Chinese: 遵義; pinyin: Zūnyì)
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/遵义市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/赤水丹霞地貌)
 - [OpenStreetMap](https://www.openstreetmap.org/)

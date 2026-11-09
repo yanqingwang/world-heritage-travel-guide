@@ -2,7 +2,7 @@
 id: "cn-26328"
 dataset: "china_5a"
 name_zh: "昌吉回族自治州江布拉克景区"
-name_en: "Changji Hui Autonomous Prefecture"
+name_en: "Changjihuizuzizhizhoujiangbulake Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Changji Hui Autonomous Prefecture"
 lat: 43.654124
 lon: 89.732454
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 昌吉回族自治州江布拉克景区 / Changji Hui Autonomous Prefecture
+# 昌吉回族自治州江布拉克景区 / Changjihuizuzizhizhoujiangbulake Scenic Area
 
 > 新疆维吾尔自治区 · 昌吉回族自治州 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Changji Hui Autonomous Prefecture (Chinese: 昌吉回族自治州; Uyghur: سانجى خۇيزۇ ئاپتونوم ئوبلاستى) is an autonomous prefecture for Hui people in the mid-north of Xinjiang Uyghur Autonomous Region, Western China. The prefecture has an area of 77,129 km2 (29,780 sq mi) and its seat is Changji City. To the south lies the snow-capped Tianshan Mountains throughout the year, with extensive forests and pastures at the mountain foot; the northern region consists of vast grasslands in the Junggar Basin. The population of Changji Prefecture is ethnically diverse, with Han Chinese making up approximately 75%, Hui people around 10%, and Kazakh people about 9% of the total population.
+The Jiangbulake Scenic Area is located at the northern foot of the Tianshan Mountains and the southeastern edge of the Junggar Basin, with a total area of ​​48 square kilometers. It is a perfect combination of the typical temperate arid mountainous vertical comprehensive landscape and the unique mountain wheat field prints. It is the continuation of the Xinjiang Tianshan World Natural Heritage Site. The main attractions include Tianshan Maihai, Shule Ancient City (Shichengzi ruins), Magouliang Village, Tianshan Strange Slope, Huahaizi, Jiangbulake Grand Canyon, Broken Bridge, Sandao Bianzi, and Xinhu River.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -66,10 +68,10 @@ Changji Hui Autonomous Prefecture (Chinese: 昌吉回族自治州; Uyghur: سا�
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/昌吉回族自治州)
+- [Wikipedia](https://zh.wikipedia.org/wiki/石城子遗址 (昌吉回族自治州))
 - [OpenStreetMap](https://www.openstreetmap.org/)

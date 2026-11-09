@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)(vi)"
 lat: 47.552777777
 lon: 17.761111111
-updated_at: "2026-11-08T20:30:00Z"
+updated_at: "2026-11-09T12:01:01Z"
 ---
 
 # 潘诺恩哈尔姆千年修道院及其自然环境 / Millenary Benedictine Abbey of Pannonhalma and its Natural Environment

@@ -2,7 +2,7 @@
 id: "cn-858"
 dataset: "china_5a"
 name_zh: "盘锦市红海滩风景廊道景区"
-name_en: "Huanglongfengjingmingshengqu Scenic Area"
+name_en: "Panjinshihonghaitanfengjinglangdao Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Liaoning"
 city_en: "Panjin City"
 lat: 40.90784
 lon: 121.851983
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 盘锦市红海滩风景廊道景区 / Huanglongfengjingmingshengqu Scenic Area
+# 盘锦市红海滩风景廊道景区 / Panjinshihonghaitanfengjinglangdao Scenic Area
 
 > 辽宁省 · 盘锦市 · 红色旅游
 
@@ -61,5 +61,4 @@ The Red Beach National Scenic Corridor is 18 kilometers long and is known as the
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

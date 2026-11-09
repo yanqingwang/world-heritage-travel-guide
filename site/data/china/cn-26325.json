@@ -146,17 +146,6 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "金桂公馆酒店",
-   "name_en": "Jingui Residence Hotel",
-   "stars": null,
-   "brand": null,
-   "lat": 30.5091274,
-   "lon": 103.6236859,
-   "distance_km": 0.7,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "新视窗假日酒店",
    "name_en": null,
    "stars": null,
@@ -168,6 +157,28 @@
    "source": "OpenStreetMap"
   },
   {
+   "name": "成都温江戴斯温德姆酒店",
+   "name_en": "Days Hotel by Wyndham Chengdu Wenjiang",
+   "stars": null,
+   "brand": "Days Inn",
+   "lat": 30.6630117,
+   "lon": 103.8071227,
+   "distance_km": 23.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金桂公馆酒店",
+   "name_en": "Jingui Residence Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.5091274,
+   "lon": 103.6236859,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "大邑塞尚·庄园酒店",
    "name_en": null,
    "stars": null,
@@ -175,17 +186,6 @@
    "lat": 30.5747469,
    "lon": 103.5055973,
    "distance_km": 13.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Umay Boutique Hotel",
-   "name_en": "Umay Boutique Hotel",
-   "stars": null,
-   "brand": null,
-   "lat": 30.4187904,
-   "lon": 103.4651881,
-   "distance_km": 18.9,
    "kind": "hotel",
    "source": "OpenStreetMap"
   }
@@ -234,5 +234,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

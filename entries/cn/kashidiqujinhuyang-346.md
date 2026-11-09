@@ -2,7 +2,7 @@
 id: "cn-346"
 dataset: "china_5a"
 name_zh: "喀什地区金湖杨景区"
-name_en: "Jinhuzhen Scenic Area"
+name_en: "Jinhu, Kinmen"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Kashgar Prefecture"
 lat: 38.035954
 lon: 76.987903
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 喀什地区金湖杨景区 / Jinhuzhen Scenic Area
+# 喀什地区金湖杨景区 / Jinhu, Kinmen
 
 > 新疆维吾尔自治区 · 喀什地区 · 草原沙漠
 
@@ -55,7 +55,7 @@ Zepu Jinhu Yang Scenic Area in Kashgar region covers an area of ​​40,000 acr
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

@@ -10,8 +10,8 @@
  "city_zh": "衢州市",
  "city_en": "Quzhou City",
  "name_zh": "衢州市江郎山•廿八都旅游区",
- "name_en": "Jianglangshan Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Mount Jianglang",
+ "name_en_source": "wikipedia",
  "slug": "quzhoushijianglangshan-nianbadou-1393",
  "lat": 28.29801,
  "lon": 118.489754,
@@ -22,8 +22,8 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "景区以丹霞奇峰为主要特色，由三爿石、十八曲、塔峰、须女湖、仙居寺等部分组成。江郎山以雄伟奇特的“三爿石”著称于世，拥有伟人峰、郎峰天游、开明禅寺、江郎书院等景点景观。廿八都在历史上是边区的重要集镇，素有“枫溪锁钥”之称。",
- "intro_en": "The scenic spot is mainly characterized by Danxia Qifeng, which is composed of Sanyi Stone, Shibaqu, Tower Peak, Xunv Lake, Xianju Temple and other parts. Jianglang Mountain is famous for its majestic and unique \"Three Pillars\" and has scenic spots such as Great Man Peak, Langfeng Tianyou, Kaiming Zen Temple, and Jianglang Academy. Nianbadu was historically an important market town in the border area and was known as the \"Key to Maple Creek\".",
- "intro_en_source": "machine_translation",
+ "intro_en": "Jianglangshan or Mount Jianglang (Chinese: 江郎山; pinyin: Jiāngláng Shān) is a mountain in Jiangshan, Zhejiang, China. Three peaks from north to south make its recognizable \"river-shaped\" arrangement, as follows: Lang Feng, Ya Feng and Ling Feng. Lang Feng has elevation of 816.8 m (2,680 ft). The mountain exhibits Danxia landform, and was inscribed onto the World Heritage List in August 2010 as part of China Danxia. In September 2013, Mount Jianglang was the scene for a stunt by Jeb Corliss where he flew between two of the peaks in a wingsuit, starting the jump from a helicopter.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Jiangshan_Jianglangshan_2012.07.01_13-08-31.jpg/1280px-Jiangshan_Jianglangshan_2012.07.01_13-08-31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -136,10 +136,11 @@
  "hotels_nearby_30km": 1,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -158,7 +159,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -176,5 +177,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

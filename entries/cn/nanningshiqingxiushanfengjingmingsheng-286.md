@@ -13,7 +13,7 @@ province_en: "Guangxi"
 city_en: "Nanning"
 lat: 22.794981
 lon: 108.395823
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 南宁市青秀山风景名胜旅游区 / Qingxiushan Tourist Area

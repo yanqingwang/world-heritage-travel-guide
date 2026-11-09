@@ -8,13 +8,13 @@ country: "MT"
 country_zh: "马耳他"
 country_en: "Malta"
 unesco_id: "131"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1980"
 criteria: "(i)(vi)"
 lat: 35.897777777
 lon: 14.5125
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:57Z"
 ---
 
 # 瓦莱塔古城 / City of Valletta
@@ -27,21 +27,9 @@ updated_at: "2026-11-08T20:29:57Z"
 
 *Malta, 2010 - panoramio - Bengt Nyman (23).jpg · see Wikimedia Commons file page*
 
-![De-Valletta.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+![City of Valletta](https://whc.unesco.org/uploads/sites/site_131.jpg)
 
-*De-Valletta.ogg · Jeuwre · CC BY-SA 4.0*
-
-![2007 Valetta 2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/2007_Valetta_2.jpg/1280px-2007_Valetta_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2007 Valetta 2.jpg · Syced · CC0*
-
-![2007 Valetta 3.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2007_Valetta_3.jpg/1280px-2007_Valetta_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2007 Valetta 3.jpg · Syced · CC0*
-
-![2007 Valetta 4.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2007_Valetta_4.jpg/1280px-2007_Valetta_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*2007 Valetta 4.jpg · Syced · CC0*
+*City of Valletta · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -58,22 +46,7 @@ The capital of Malta is inextricably linked to the history of the military and c
 - ✈ **Malta International Airport (MLA)** — 6.1 km
 - ✈ **Comiso Airport (CIY)** — 122.4 km
 - ✈ **Lampedusa Airport (LMP)** — 176.7 km
-- ⛴ **Marsamxett Ferry Terminal** — 0.4 km
-- ⛴ **Lascaris** — 0.4 km
-- ⛴ **Valletta Cruise Port** — 0.7 km
-- ⛴ **Ragusa Xpress** — 1.2 km
-- ⛴ **Hera Cruises** — 1.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8416.8 km**
-
-## 附近酒店 / Nearby hotels
-
-- **The Cumberland Hotel by NEU Collective** — 0.1 km — star — 5★
-- **Iniala Harbour House** — 0.2 km — star — 5★
-- **Palazzo Consiglia** — 0.3 km — star — 5★
-- **Rosselli - AX Privilege** — 0.3 km — star — 5★
-- **The Phoenicia** — 0.6 km — star — 5★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

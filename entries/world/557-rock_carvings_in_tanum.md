@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(i)(iii)(iv)"
 lat: 58.69995
 lon: 11.33641
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:01:00Z"
 ---
 
 # 塔努姆的岩刻画 / Rock Carvings in Tanum

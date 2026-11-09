@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iv)"
 lat: -11.01361111
 lon: -37.20555556
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:04Z"
 ---
 
 # 圣克里斯托旺的圣弗朗西斯科广场 / São Francisco Square in the Town of São Cristóvão

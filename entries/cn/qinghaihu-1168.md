@@ -13,7 +13,7 @@ province_en: "Qinghai"
 city_en: "Hainan Tibetan Autonomous Prefecture"
 lat: 36.562486
 lon: 100.620492
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 青海湖风景区 / Qinghai Lake

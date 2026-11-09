@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Chengde"
 lat: 40.988599
 lon: 117.953661
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 承德市承德避暑山庄及周围寺庙景区 / Chengde Mountain Resort
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Chengde Mountain Resort (Chinese: 承德避暑山庄; Manchu: ᡥᠠᠯᡥᡡᠨ ᠪᡝ ᠵᠠᡳ᠌ᠯᠠᡵᠠ ᡤᡠᡵᡠᠩ Halhūn be jailara gurung) is a large complex of imperial palaces and gardens situated in the Shuangqiao District of Chengde in northeastern Hebei province, northern China, about 225 kilometres (140 mi) northeast of China's capital Beijing. This resort was frequently used as a summer vacation place before the Kuomintang Republic of China. Because of its vast and rich collection of Chinese landscapes and architecture, Chengde Mountain Resort in many ways is a culmination of all the variety of gardens, pagodas, temples and palaces from various regions of China. In 1994, The Mountain Resort was awarded World Heritage Site status. Chengde is one of China's four famous gardens, national relic protection unit and Class 5A Tourist Attractions in China.
+The Summer Resort adopts the style of a simple and elegant mountain village, takes the true nature of natural mountains and rivers, and absorbs the scenery of the south of the Yangtze River and the north of the Great Wall. It has become the largest ancient imperial palace in China. The Summer Resort is divided into four parts: palace area, lake area, plain area and mountain area. It is a masterpiece of Chinese classical garden art. It was included in the World Heritage List in 1994. The Eight Wai Temples are the collective name for the eight Tibetan Buddhist temples in the northeastern part of the Chengde Summer Resort in Hebei Province.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

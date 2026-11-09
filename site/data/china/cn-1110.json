@@ -10,8 +10,8 @@
  "city_zh": "常德市",
  "city_en": "Changde City",
  "name_zh": "常德市桃花源旅游区",
- "name_en": "Tao Hua Yuan",
- "name_en_source": "wikipedia",
+ "name_en": "Changdeshitaohuayuan Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "changdeshitaohuayuan-1110",
  "lat": 28.79315,
  "lon": 111.442847,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "景区以其山水田园之美、寺观亭阁之盛、诗文碑刻之丰、历史传说之奇闻名，相传是陶渊明笔下《桃花源记》所描述的“世外桃源”所在地。",
- "intro_en": "The Peach Blossom Spring (Chinese: 桃花源記; pinyin: Táohuā Yuán Jì; lit. 'Source of the Peach Blossoms', also translated as “(The Record of) the Peach Blossom”), or Peach Blossom Spring Story or The Peach Blossom Land was a fable written by Tao Yuanming in 421 CE about a chance discovery of an ethereal utopia where the people lead an ideal existence in harmony with nature, unaware of the outside world for centuries. The phrase can be used to describe an idealistic place of beauty and repose, although it is sometimes used to refer to an unrealistic dream.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The scenic spot is famous for the beauty of its landscape, the prosperity of temples and pavilions, the abundance of poems and inscriptions, and the wonders of history and legends. It is said that it is the location of the \"Xanadu\" described in Tao Yuanming's \"Peach Blossom Spring\".",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/%E9%95%BF%E6%B1%9F%E4%B8%AD%E6%B8%B8%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf/page1-960px-%E9%95%BF%E6%B1%9F%E4%B8%AD%E6%B8%B8%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -138,10 +138,9 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
+  "ja": false,
   "ko": true,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -170,13 +169,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/桃花源"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

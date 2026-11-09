@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)"
 lat: 40.15889
 lon: 44.79667
-updated_at: "2026-11-08T20:30:02Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 格加尔德修道院和上阿扎特山谷 / Monastery of Geghard and the Upper Azat Valley

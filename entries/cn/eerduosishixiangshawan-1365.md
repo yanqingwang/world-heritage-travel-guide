@@ -2,7 +2,7 @@
 id: "cn-1365"
 dataset: "china_5a"
 name_zh: "鄂尔多斯市响沙湾旅游景区"
-name_en: "Ordos City"
+name_en: "Eerduosishixiangshawan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Ordos"
 lat: 40.250956
 lon: 109.968272
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 鄂尔多斯市响沙湾旅游景区 / Ordos City
+# 鄂尔多斯市响沙湾旅游景区 / Eerduosishixiangshawan Scenic Area
 
 > 内蒙古自治区 · 鄂尔多斯市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Ordos, also known as Ih Ju, is one of twelve major subdivisions of Inner Mongolia, China. It lies within the Ordos Plateau of the Yellow River. Ordos has been administered as a prefecture-level city since 2001, although built-up areas make up a small proportion of its surface area. Its population was 2,153,638 as of the 2020 census. Ordos City consists of three separate urban areas, the historical city center Dongsheng (574,242 inhabitants in 2020), a newly developed area at Kangbashi (population 118,796), and Altan Xire (population 141,983). Ordos emerged as a center of coal mining during the early 2000s, as the prefecture is home to one-sixth of China's total coal reserve. In recent years, Ordos is increasingly transitioning to renewable energy and manufacturing, although coal enterprises remain central to its economy. Ordos is known for its recent large scale government projects, including most prominently the new Kangbashi District, an urban district planned to be a massive civic mall with many monuments, cultural institutions and other showpiece architecture. It was also the venue for the 2012 Miss World Final. When it was newly built, the streets of the new Kangbashi district
+The sand in Xiangshawan is 110 meters high, with a slope of 45 degrees and a crescent shape. The special geographical structure forms a large sand mountain echo wall. The sand dunes here are tall and shoulder to shoulder, and the sea is vast. Climbing up the ladder, when people slide down from the top of the sand, they will hear the roar like an airplane passing through the sky, hence the name Xiangshawan.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -71,10 +73,10 @@ Ordos, also known as Ih Ju, is one of twelve major subdivisions of Inner Mongoli
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/鄂尔多斯市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/鄂尔多斯旅游轨道交通)
 - [OpenStreetMap](https://www.openstreetmap.org/)

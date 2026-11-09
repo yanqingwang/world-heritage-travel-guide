@@ -3,7 +3,7 @@
  "unesco_id": "1229",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 920,
+ "popularity_rank": 883,
  "popularity_score": null,
  "country": "SY",
  "country_zh": "叙利亚",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Municipalities of Al Hosn and Haffeh",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "SY-HI",
+ "subdivision_zh": "霍姆斯省",
+ "subdivision_en": "Homs Governorate",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "武士堡和萨拉丁堡",
  "name_zh_source": "unesco_official",
  "name_en": "Crac des Chevaliers and Qal’at Salah El-Din",
@@ -172,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:03Z"
 }

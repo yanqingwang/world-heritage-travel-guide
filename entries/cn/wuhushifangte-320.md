@@ -13,7 +13,7 @@ province_en: "Anhui"
 city_en: "Wuhu"
 lat: 31.38341
 lon: 118.382539
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 芜湖市方特旅游区 / Wuhu
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Wuhu (simplified Chinese: 芜湖; traditional Chinese: 蕪湖; pinyin: Wúhú; lit. 'Weedy Lake') is a prefecture-level city in southeastern Anhui province, China. Sitting on the southeast bank of the Yangtze River, Wuhu borders Xuancheng to the southeast, Chizhou and Tongling to the southwest, Hefei City to the northwest, Ma'anshan city to the northeast, Jiangsu to the east, and is approximately 90 km (56 mi) southwest of Nanjing. With ongoing urbanization in the southern part of Nanjing, a conurbation is forming between Nanjing, Maanshan and Wuhu, comprising over 10.66 million inhabitants.
+Fantawild Tourism Area in Wuhu City includes four theme parks: Fantawild Adventure World, Fantawild Dream Kingdom, Fantawild Water Park, and Fantawild Oriental Painting. The scenic spot started in 2007 and is a comprehensive leisure tourism resort including theme parks, themed performances, resort hotels and other related supporting facilities.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

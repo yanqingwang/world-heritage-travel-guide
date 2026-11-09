@@ -1,1 +1,103 @@
-{"hotels": [{"name": "兰枫航空小镇", "name_en": null, "stars": null, "brand": null, "lat": 35.9561222, "lon": 113.4209828, "distance_km": 2.9, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "万仙山天梯宾馆", "name_en": "Wanxianshan Tianti Guesthouse", "stars": null, "brand": null, "lat": 35.7305004, "lon": 113.619845, "distance_km": 28.9, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 2, "stations": [{"name": "长治南", "name_en": null, "lat": 36.0926232, "lon": 113.1005399, "distance_km": 35.3, "operator": null, "high_speed": true}, {"name": "长治东", "name_en": null, "lat": 36.2290739, "lon": 113.159081, "distance_km": 40.5, "operator": null, "high_speed": true}, {"name": "新城", "name_en": null, "lat": 36.0219139, "lon": 113.4845791, "distance_km": 8.2, "operator": null, "high_speed": false}, {"name": "庄头", "name_en": null, "lat": 36.1227259, "lon": 113.2664901, "distance_km": 25.3, "operator": null, "high_speed": false}, {"name": "集店", "name_en": null, "lat": 36.1541589, "lon": 113.2036869, "distance_km": 31.7, "operator": null, "high_speed": false}, {"name": "壶关", "name_en": "Huguan", "lat": 36.1699597, "lon": 113.2174409, "distance_km": 32.1, "operator": null, "high_speed": false}, {"name": "东关", "name_en": null, "lat": 36.1812883, "lon": 113.1293572, "distance_km": 38.6, "operator": null, "high_speed": false}, {"name": "关村", "name_en": null, "lat": 36.2188089, "lon": 113.131975, "distance_km": 41.3, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:22:55Z"}
+{
+ "hotels": [
+  {
+   "name": "兰枫航空小镇",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 35.9561222,
+   "lon": 113.4209828,
+   "distance_km": 2.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万仙山天梯宾馆",
+   "name_en": "Wanxianshan Tianti Guesthouse",
+   "stars": null,
+   "brand": null,
+   "lat": 35.7305004,
+   "lon": 113.619845,
+   "distance_km": 28.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 2,
+ "stations": [
+  {
+   "name": "长治南",
+   "name_en": null,
+   "lat": 36.0926232,
+   "lon": 113.1005399,
+   "distance_km": 35.3,
+   "operator": null,
+   "high_speed": true
+  },
+  {
+   "name": "长治东",
+   "name_en": null,
+   "lat": 36.2290739,
+   "lon": 113.159081,
+   "distance_km": 40.5,
+   "operator": null,
+   "high_speed": true
+  },
+  {
+   "name": "新城",
+   "name_en": null,
+   "lat": 36.0219139,
+   "lon": 113.4845791,
+   "distance_km": 8.2,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "庄头",
+   "name_en": null,
+   "lat": 36.1227259,
+   "lon": 113.2664901,
+   "distance_km": 25.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "集店",
+   "name_en": null,
+   "lat": 36.1541589,
+   "lon": 113.2036869,
+   "distance_km": 31.7,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "壶关",
+   "name_en": "Huguan",
+   "lat": 36.1699597,
+   "lon": 113.2174409,
+   "distance_km": 32.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "东关",
+   "name_en": null,
+   "lat": 36.1812883,
+   "lon": 113.1293572,
+   "distance_km": 38.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "关村",
+   "name_en": null,
+   "lat": 36.2188089,
+   "lon": 113.131975,
+   "distance_km": 41.3,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:43Z"
+}

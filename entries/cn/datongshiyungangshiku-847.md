@@ -13,7 +13,7 @@ province_en: "Shanxi"
 city_en: "Datong"
 lat: 40.119273
 lon: 113.144291
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 大同市云冈石窟景区 / Datong

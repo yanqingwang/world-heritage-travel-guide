@@ -1,0 +1,72 @@
+{
+ "hotels": [
+  {
+   "name": "Hilton Motel",
+   "name_en": null,
+   "stars": null,
+   "brand": "Hilton",
+   "lat": -38.8835844,
+   "lon": 175.2577048,
+   "distance_km": 45.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Skotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -39.1997585,
+   "lon": 175.543023,
+   "distance_km": 3.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Pukenui Lodge",
+   "name_en": "Pukenui Lodge",
+   "stars": null,
+   "brand": null,
+   "lat": -39.1736091,
+   "lon": 175.4012373,
+   "distance_km": 16.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Park Hotel Ruapehu",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -39.1726099,
+   "lon": 175.4012785,
+   "distance_km": 16.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tongariro Crossing Lodge",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": -39.171671,
+   "lon": 175.3985052,
+   "distance_km": 16.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 16,
+ "stations": [
+  {
+   "name": "Taumarunui",
+   "name_en": null,
+   "lat": -38.8826708,
+   "lon": 175.2647468,
+   "distance_km": 44.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:32Z"
+}

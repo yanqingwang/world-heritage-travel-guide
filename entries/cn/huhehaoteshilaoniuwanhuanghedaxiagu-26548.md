@@ -2,7 +2,7 @@
 id: "cn-26548"
 dataset: "china_5a"
 name_zh: "呼和浩特市老牛湾黄河大峡谷旅游区"
-name_en: "Huhehaoteshilaoniuwanhuanghedaxiagu Tourist Area"
+name_en: "Yarlung Tsangpo Grand Canyon"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Hohhot"
 lat: 39.694348
 lon: 111.435569
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 呼和浩特市老牛湾黄河大峡谷旅游区 / Huhehaoteshilaoniuwanhuanghedaxiagu Tourist Area
+# 呼和浩特市老牛湾黄河大峡谷旅游区 / Yarlung Tsangpo Grand Canyon
 
 > 内蒙古自治区 · 呼和浩特市 · 古镇村落
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Laoniuwan Yellow River Grand Canyon Tourist Area is located in the southwest of Qingshuihe County, covering an area of ​​9.5 square kilometers. It is located in the core area of ​​the Yellow River Grand Canyon in Shanxi and Inner Mongolia and the hinterland of the "Ji" bend of the Yellow River. There are many cultural relics and historic sites in the Laoniuwan Yellow River Grand Canyon tourist area, with beautiful natural and cultural landscapes and profound historical and cultural heritage. The more than 30 kilometers of the canyon section has many strange peaks standing on both sides of the bank.拥有长城与黄河唯一握手之地的独特奇观、宁边州故城遗址、全国最美古村落—老牛湾古村落、全国最大的天然石坪广场—神牛广场、具有黄河九十九道弯象征意义的九曲黄河阵、幽静深邃的杨家川小峡谷、270度大回环的太极湾、蜿蜒盘旋于峡谷的游步道。
-
-*English introduction: machine translation.*
+The Yarlung Tsangpo Grand Canyon, also known as the Yarlung Zangbo Grand Canyon, the Tsangpo Canyon, the Brahmaputra Canyon or the Tsangpo Gorge (simplified Chinese: 雅鲁藏布大峡谷; traditional Chinese: 雅魯藏布大峽谷; pinyin: Yǎlǔzàngbù Dàxiágǔ), is a canyon along the Yarlung Tsangpo River in Tibet Autonomous Region, China. It is the deepest canyon in the world, and at 504.6 kilometres (313.5 mi) is slightly longer than the Grand Canyon in the United States, making it one of the world's largest. The Yarlung Tsangpo (Tibetan name for the upper course of the Brahmaputra) originates near Mount Kailash and runs east for about 1,700 kilometres (1,100 mi), draining a northern section of the Himalayas before it enters the gorge just downstream of Pei, Tibet, near the settlement of Zhibe. The canyon has a length of about 240 kilometres (150 mi) as the gorge bends around Mount Namcha Barwa (7,782 metres or 25,531 feet) and cuts its way through the eastern Himalayas. Its waters drop from about 2,900 metres (9,500 ft) near Pei to about 1,500 metres (4,900 ft) at the end of the Upper Gorge where the Po Tsangpo River enters. The river continues through the Lower Gorge to the Indian border at an elevation of
 
 ## 交通 / Transport
 
@@ -49,9 +47,10 @@ Laoniuwan Yellow River Grand Canyon Tourist Area is located in the southwest of 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/雅鲁藏布大峡谷)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "831"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1997"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 37.28972222
 lon: 13.59
-updated_at: "2026-11-08T20:30:01Z"
+updated_at: "2026-11-09T12:01:01Z"
 ---
 
 # 阿克里真托考古区 / Archaeological Area of Agrigento
@@ -27,21 +27,9 @@ updated_at: "2026-11-08T20:30:01Z"
 
 *Agrigento TemplesValley 0066.jpg · see Wikimedia Commons file page*
 
-![01 Panorama (foto del 1979).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/01_Panorama_%28foto_del_1979%29.jpg/1280px-01_Panorama_%28foto_del_1979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Archaeological Area of Agrigento](https://whc.unesco.org/uploads/sites/site_831.jpg)
 
-*01 Panorama (foto del 1979).jpg · Luciano Tronati · CC BY-SA 4.0*
-
-![02 Panorama (foto del 1979).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/02_Panorama_%28foto_del_1979%29.jpg/1280px-02_Panorama_%28foto_del_1979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*02 Panorama (foto del 1979).jpg · Luciano Tronati · CC BY-SA 4.0*
-
-![03 Panorama (foto del 1979).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/03_Panorama_%28foto_del_1979%29.jpg/1280px-03_Panorama_%28foto_del_1979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*03 Panorama (foto del 1979).jpg · Luciano Tronati · CC BY-SA 4.0*
-
-![Agrgento.jpg](https://upload.wikimedia.org/wikipedia/commons/8/82/Agrgento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Agrgento.jpg · Mare*i · Copyrighted free use*
+*Archaeological Area of Agrigento · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,25 +52,7 @@ La Valle dei Templi è un parco archeologico della Sicilia caratterizzato dall'e
 - ✈ **Comiso Airport (CIY)** — 96.0 km
 - ✈ **Falcone–Borsellino Airport (PMO)** — 107.9 km
 - ✈ **Vincenzo Florio Airport Trapani-Birgi (TPS)** — 119.2 km
-- 🚉 **Agrigento Centrale** — 2.2 km
-- 🚉 **Agrigento Bassa** — 3.3 km
-- 🚉 **Porto Empedocle Centrale** — 4.6 km
-- 🚉 **Aragona Caldare** — 11.0 km
-- 🚉 **Racalmuto** — 17.8 km
-- ⛴ **Porto Empedocle** — 5.3 km
-- ⛴ **Marina di Cala del Sole** — 38.0 km
-- ⛴ **Porto di Licata** — 38.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8327.6 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Blu Hotel Kaos** — 2.9 km — star — 4★
-- **Dioscuri** — 3.1 km — star — 4★
-- **Residence Hotel "Antica Perla"** — 6.5 km — star — 4★
-- **Hotel Villa Romana** — 8.4 km — star — 4★
-- **Scala dei Turchi Resort** — 9.9 km — star — 4★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

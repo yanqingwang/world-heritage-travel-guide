@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ix)(x)"
 lat: 7.48
 lon: -81.79
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 柯义巴岛国家公园及其海洋特别保护区 / Coiba National Park and its Special Zone of Marine Protection

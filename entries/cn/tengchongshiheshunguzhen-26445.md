@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Baoshan"
 lat: 25.01266
 lon: 98.465504
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 腾冲市和顺古镇景区 / Tengchong
@@ -63,11 +63,11 @@ Tengchong (Chinese: 腾冲; pinyin: Téngchōng) is a county-level city of Baosh
 
 ## 附近酒店 / Nearby hotels
 
-- **banyan tree tengchong** — 13.5 km — hotel — banyan tree tengchong
 - **腾冲金玉堂云景度假酒店** — 0.6 km — hotel
 - **玉都大酒店** — 3.3 km — hotel
 - **洪运宾馆** — 3.4 km — hotel
 - **腾冲翡翠时光别墅酒店** — 3.7 km — hotel — Tenchong Jade Time Villa Hotel
+- **汶桥酒店** — 4.8 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

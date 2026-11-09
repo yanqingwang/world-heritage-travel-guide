@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Huanggang City"
 lat: 31.118494
 lon: 115.234961
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 黄冈市麻城龟峰山景区 / Huanggangshimachengguifengshan Scenic Area
@@ -58,4 +58,5 @@ The scenic area has beautiful mountains and clear waters, a beautiful environmen
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/麻城龟峰山高速公路)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(i)(ii)(iv)"
 lat: 52.366388888
 lon: 4.885833333
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:04Z"
 ---
 
 # 辛格尔运河以内的阿姆斯特丹17世纪同心圆型运河区 / Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht

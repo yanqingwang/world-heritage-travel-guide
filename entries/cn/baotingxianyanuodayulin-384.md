@@ -13,7 +13,7 @@ province_en: "Hainan"
 city_en: "Baotinglizumiaozuzizhi County"
 lat: 19.040516
 lon: 109.627203
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 保亭县呀诺达雨林文化旅游区 / Baotingxianyanuodayulin Cultural Tourism Area
@@ -53,4 +53,5 @@ Yanoda Tropical Rainforest Scenic Area is a tropical rainforest resource expo wi
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/三道镇 (保亭县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

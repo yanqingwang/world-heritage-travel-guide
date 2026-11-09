@@ -2,7 +2,7 @@
 id: "cn-606"
 dataset: "china_5a"
 name_zh: "惠州市博罗县罗浮山景区"
-name_en: "Mount Luofu"
+name_en: "Huizhoushiboluoxianluofushan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Huizhou"
 lat: 23.266942
 lon: 114.074208
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 惠州市博罗县罗浮山景区 / Mount Luofu
+# 惠州市博罗县罗浮山景区 / Huizhoushiboluoxianluofushan Scenic Area
 
 > 广东省 · 惠州市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Mount Luofu (simplified Chinese: 罗浮山; traditional Chinese: 羅浮山; pinyin: Luófú Shān; Cantonese Yale: lo4 fau4 saan1) is a sacred Taoist mountain situated on the north bank of the Dongjiang in the northwest of Boluo County, Huizhou in Guangdong Province, China. It covers 250 kilometers. It is one of the ten greater dongtian of Taoism. Among the many temples on Mt. Luofu is Wa Sau Toi, which is linked to both the Dragon and Bak Mei styles of Kung Fu. Mok Gar masters studied meditation and traditional Chinese medicine at the Temple of Emptiness[1] on Mt. Luofu. Choy Fook, one of the teachers of Choy Lee Fut founder Chan Heung, is said to have been a monk on Mt. Luofu.
+Luofu Mountain is known as the "No. 1 Mountain in Lingnan" and is one of the ten famous Taoist mountains in China. Luofu Mountain has many natural landscapes, integrating natural and cultural landscapes. It has mountains, water, springs, waterfalls, pools, caves, temples, pagodas, forests and other landscapes. It has the natural characteristics of "one axis of the sky, two heavens of immortality" and "one mountain is divided into four seasons, and the temperature is different for ten miles".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Mount Luofu (simplified Chinese: 罗浮山; traditional Chinese: 羅浮山; piny
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/罗浮山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

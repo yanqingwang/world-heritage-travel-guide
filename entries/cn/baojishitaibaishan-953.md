@@ -13,7 +13,7 @@ province_en: "Shaanxi"
 city_en: "Baoji"
 lat: 34.138888
 lon: 107.91526
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 宝鸡市太白山旅游景区 / Mount Taibai

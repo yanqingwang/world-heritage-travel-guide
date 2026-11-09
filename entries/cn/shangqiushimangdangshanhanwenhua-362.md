@@ -2,7 +2,7 @@
 id: "cn-362"
 dataset: "china_5a"
 name_zh: "商丘市芒砀山汉文化旅游景区"
-name_en: "Shangqiu"
+name_en: "Shangqiushimangdangshanhanwenhua Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Henan"
 city_en: "Shangqiu City"
 lat: 34.176129
 lon: 116.522746
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 商丘市芒砀山汉文化旅游景区 / Shangqiu
+# 商丘市芒砀山汉文化旅游景区 / Shangqiushimangdangshanhanwenhua Scenic Area
 
 > 河南省 · 商丘市 · 历史遗址
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Shangqiu (Chinese: 商丘), alternately romanized as Shangkiu, is a city in eastern Henan province, Central China. It borders Kaifeng to the northwest, Zhoukou to the southwest, and the provinces of Shandong and Anhui to the northeast and southeast respectively. Its population was 7,816,831 inhabitants as of the 2020 Chinese census, of whom 2,831,814 lived in the built-up (or metro) area made up of two urban districts (Liangyuan and Suiyang) and Yucheng county now being conurbated. Shangqiu and surrounding area was an important base for the Shang dynasty (c. 1600 – c. 1046 BC), and the city itself was established more than three millennia ago. Shangqiu has grown significantly in recent years. It is located at an important location at the junction of several major railways, making it a major regional transportation hub.
+The Mangdang Mountain Scenic Area is a comprehensive tourist attraction integrating landscape sightseeing, cultural appreciation, and ecological leisure. It covers an area of ​​14 square kilometers. It mainly includes the world's largest underground tombs of the Liang Dynasty Kings of the Western Han Dynasty - Han Liang Wang Tomb Scenic Area, Liu Bang's Snake Killing Area, Dahanxiong Scenic Area, Mangdang Mountain Geopark, Chen Shengyuan Scenic Area, Confucius Mountain Scenic Area, Xishan Scenic Area and other attractions.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -70,10 +72,10 @@ Shangqiu (Chinese: 商丘), alternately romanized as Shangkiu, is a city in east
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/商丘市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/芒砀山汉文化博物馆)
 - [OpenStreetMap](https://www.openstreetmap.org/)

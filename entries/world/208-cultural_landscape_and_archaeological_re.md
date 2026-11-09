@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 34.832042
 lon: 67.826803
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # 巴米扬山谷的文化景观和考古遗迹 / Cultural Landscape and Archaeological Remains of the Bamiyan Valley

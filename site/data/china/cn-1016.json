@@ -10,8 +10,8 @@
  "city_zh": "宝鸡市",
  "city_en": "Baoji",
  "name_zh": "宝鸡市法门文化景区",
- "name_en": "Baoji",
- "name_en_source": "wikipedia",
+ "name_en": "Famenzhen Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "baojishifamenwenhua-1016",
  "lat": 34.440763,
  "lon": 107.908118,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "法门寺文化景区，又名“真身宝塔”。法门寺被誉为皇家寺庙，因安置释迦牟尼佛指骨舍利而成为举国仰望的佛教圣地，被誉为“护国真身宝塔”。法门寺由地宫、山门广场、佛光大道、法门寺寺院、合十舍利塔，和众多雕塑组成。",
- "intro_en": "Baoji (simplified Chinese: 宝鸡; traditional Chinese: 谿行市; pinyin: Bǎojī; Mandarin pronunciation: [pàʊ.tɕí] ) is a prefecture-level city in western Shaanxi province, People's Republic of China. Since the early 1990s, Baoji has been the second largest city in Shaanxi.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Famen Temple Cultural Scenic Spot, also known as \"True Body Pagoda\". Famen Temple is known as a royal temple. It has become a Buddhist holy place that the whole country looks up to because it houses the finger bone relic of Sakyamuni Buddha. It is known as the \"Pagoda of True Body to Protect the Country\". Famen Temple consists of the underground palace, Shanmen Square, Foguang Avenue, Famen Temple, Heshi Relic Pagoda, and many sculptures.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/View_from_Zhonghua_Shigu_Park_%28%E4%B8%AD%E5%8D%8E%E7%9F%B3%E9%BC%93%E5%9B%AD%29_on_Baoji.jpg/1280px-View_from_Zhonghua_Shigu_Park_%28%E4%B8%AD%E5%8D%8E%E7%9F%B3%E9%BC%93%E5%9B%AD%29_on_Baoji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -212,11 +212,10 @@
  "hotels_nearby_30km": 8,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -235,7 +234,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -246,12 +245,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/宝鸡市"
+   "url": "https://zh.wikipedia.org/wiki/法门镇"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

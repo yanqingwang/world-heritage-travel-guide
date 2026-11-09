@@ -10,8 +10,8 @@
  "city_zh": "石嘴山市",
  "city_en": "Shizuishan City",
  "name_zh": "石嘴山市沙湖旅游景区",
- "name_en": "Shizuishan",
- "name_en_source": "wikipedia",
+ "name_en": "Shizuishanshishahu Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "shizuishanshishahu-1437",
  "lat": 38.830852,
  "lon": 106.397047,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "景区以自然景观为主体，沙、水、苇、鸟、山五大景源有机结合，是一处融江南秀色与塞外壮景于一体的“塞上明珠”，既有大漠戈壁之雄浑，又有江南水乡之秀美。主要景点有沙湖国际沙雕园、鸟岛、湖东湿地、新门区广场、沙湖题字石等。",
- "intro_en": "Shizuishan, formerly Shizuizi, is a prefecture-level city in the Ningxia Hui Autonomous Region of the People's Republic of China. It is the northernmost prefecture in Ningxia and the second most populous, after the regional capital Yinchuan, bordered by Inner Mongolia to all directions except the south. Shizuishan sits on the western bank of the Yellow River on the western side of the Ordos Loop. It was formerly a center for caravans traveling the northern routes to and from Beijing across the Ordos Desert.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The scenic area is dominated by natural landscape, with the five major scenic sources of sand, water, reeds, birds and mountains organically combined. It is a \"Pearl on the Fortress\" that combines the beauty of the south of the Yangtze River with the magnificent scenery beyond the Great Wall. It has the majesty of the Gobi Desert and the beauty of the water towns in the south of the Yangtze River. The main attractions include Shahu International Sand Sculpture Garden, Bird Island, Hudong Wetland, Xinmen District Square, Shahu Inscription Stone, etc.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Huangquqiao_Town%2C_Ningxia.jpg/1280px-Huangquqiao_Town%2C_Ningxia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -157,10 +157,9 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -190,12 +189,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/石嘴山市"
+   "url": "https://zh.wikipedia.org/wiki/沙湖 (石嘴山)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

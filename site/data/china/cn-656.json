@@ -10,8 +10,8 @@
  "city_zh": "清远市",
  "city_en": "Qingyuan",
  "name_zh": "清远市连州市地下河旅游景区",
- "name_en": "Qingyuan",
- "name_en_source": "wikipedia",
+ "name_en": "Qingyuanshilianzhoushidixiahe Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "qingyuanshilianzhoushidixiahe-656",
  "lat": 25.010584,
  "lon": 112.330161,
@@ -22,8 +22,8 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "连州地下河位于粤西北连州市内，是一处巧夺天工的亚热带喀斯特地貌的典型巨型天然石灰岩溶洞。景区以其神秘瑰丽的钟乳石及洞穴暗河而驰名中外，又因为溶洞内四季气温保持在18℃左右，空气清新，冬暖夏凉，是旅游避暑的好去处。",
- "intro_en": "Qingyuan, formerly romanized as Tsingyun, is a prefecture-level city in northern Guangdong province, China, on the banks of the Bei or North River. During the 2020 census, its total population was 3,969,473, out of whom 1,738,424 lived in the built-up (or metro) area made of urbanized Qingcheng and Qingxin districts. The primary spoken language is Cantonese. Covering 19,015 km2 (7,342 sq mi), Qingyuan is Guangdong's largest prefecture-level division by land area, and it borders Guangzhou and Foshan to the south, Shaoguan to the east and northeast, Zhaoqing to the south and southwest, and Hunan province and Guangxi Zhuang Autonomous Region to the north. The urban core is surrounded by mountainous areas but is directly connected with Guangzhou and the Pearl River Delta by Highway 107.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Lianzhou Underground River is located in Lianzhou City in northwest Guangdong. It is a typical giant natural limestone cave with an ingenious subtropical karst landform. The scenic spot is famous both at home and abroad for its mysterious and magnificent stalactites and underground rivers in the cave. And because the temperature in the cave remains at around 18°C ​​in all seasons, the air is fresh, warm in winter and cool in summer, making it a good place to escape the summer heat.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Qingyuan_City_Xiaoshi_Skyline_Guangdong_Province.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -137,11 +137,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -160,7 +159,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -171,12 +170,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/清远市"
+   "url": "https://zh.wikipedia.org/wiki/连州市各级文物保护单位列表"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

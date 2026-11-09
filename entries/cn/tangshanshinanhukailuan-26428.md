@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Tangshan"
 lat: 39.605971
 lon: 118.168681
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 唐山市南湖·开滦旅游景区 / Tangshan
@@ -66,8 +66,8 @@ Tangshan (Chinese: 唐山; pinyin: Tángshān) is a coastal, industrial prefectu
 - **唐山香格里拉大酒店** — 5.3 km — star — Shangri-La Hotel, Tangshan · 5★ · Shangri-La
 - **唐山锦江贵宾楼饭店** — 2.2 km — star — JinJiang Grand Hotel · 4★
 - **新华大酒店** — 2.3 km — star — Xinhua Hotel · 4★
-- **唐山富力洲际酒店** — 2.0 km — chain — InterContinental
-- **金盛万豪** — 2.8 km — chain
+- **维也纳酒店** — 1.3 km — chain
+- **桔子酒店唐山万达广场店** — 1.8 km — chain
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

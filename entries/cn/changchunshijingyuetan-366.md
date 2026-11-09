@@ -2,7 +2,7 @@
 id: "cn-366"
 dataset: "china_5a"
 name_zh: "长春市净月潭景区"
-name_en: "Jingyuetan Scenic Area"
+name_en: "Jingyuetan National Forest Park"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.694969
 lon: 125.476531
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 长春市净月潭景区 / Jingyuetan Scenic Area
+# 长春市净月潭景区 / Jingyuetan National Forest Park
 
 > 吉林省 · 长春市 · 山地风光
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Jingyuetan Scenic Area is a national scenic spot and a national forest park. Jingyuetan is shaped like a crescent moon, contains sand and pure water, and has unique scenery. It is a reservoir-shaped tourist area surrounded by mountains and dense vegetation. The scenic spot has the characteristics of snow in winter and coolness in summer, and has a unique style integrating lakes, forests, mountains and fields.
-
-*English introduction: machine translation.*
+Jingyuetan National Forest Park is a forest park and tourist attraction in Changchun, Jilin. 18km southeast of the city, the park covers over 100 square kilometers. The park was created in 1934, approved as a forest park in 1989 and the lake was listed as a key national scenic area in 1998. According to the government of Changchun, the park is the largest man-made forest in Asia. The man-made forest had an area of 1,000 hectares in the 1930s, but by 2015 the area was around 10,000 hectares. The forest park is one of the AAAAA Tourist Attractions of China. There are more than 100 high points within the park.
 
 ## 交通 / Transport
 
@@ -75,7 +73,7 @@ Jingyuetan Scenic Area is a national scenic spot and a national forest park. Jin
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 

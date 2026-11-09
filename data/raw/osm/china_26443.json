@@ -1,1 +1,125 @@
-{"hotels": [{"name": "Xiannvshan Yunye Hotel", "name_en": null, "stars": null, "brand": null, "lat": 29.5080557, "lon": 107.7349186, "distance_km": 14.5, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "Daji manor Hotel", "name_en": null, "stars": null, "brand": null, "lat": 29.4231966, "lon": 107.7652716, "distance_km": 19.2, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "好院子", "name_en": null, "stars": null, "brand": null, "lat": 29.3745017, "lon": 107.7298886, "distance_km": 19.4, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "Hotel Show", "name_en": null, "stars": null, "brand": null, "lat": 29.4175331, "lon": 107.7672511, "distance_km": 19.6, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 4, "stations": [{"name": "新白马", "name_en": null, "lat": 29.4291063, "lon": 107.5325821, "distance_km": 9.0, "operator": null, "high_speed": false}, {"name": "白马", "name_en": "Baima", "lat": 29.407993, "lon": 107.5567379, "distance_km": 10.2, "operator": null, "high_speed": false}, {"name": "白涛", "name_en": "Baitao", "lat": 29.5747369, "lon": 107.4655037, "distance_km": 14.6, "operator": null, "high_speed": false}, {"name": "土坎", "name_en": "Tukan", "lat": 29.3831118, "lon": 107.6767302, "distance_km": 15.3, "operator": null, "high_speed": false}, {"name": "鸭江", "name_en": null, "lat": 29.4533151, "lon": 107.3954253, "distance_km": 19.0, "operator": null, "high_speed": false}, {"name": "武隆", "name_en": "Wulong", "lat": 29.3299317, "lon": 107.7682632, "distance_km": 25.5, "operator": null, "high_speed": false}, {"name": "武隆南", "name_en": null, "lat": 29.2993008, "lon": 107.8132942, "distance_km": 31.0, "operator": null, "high_speed": false}, {"name": "中嘴", "name_en": "Zhongzui", "lat": 29.3059655, "lon": 107.8443502, "distance_km": 32.8, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:10Z"}
+{
+ "hotels": [
+  {
+   "name": "Xiannvshan Yunye Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.5080557,
+   "lon": 107.7349186,
+   "distance_km": 14.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Daji manor Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.4231966,
+   "lon": 107.7652716,
+   "distance_km": 19.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "好院子",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3745017,
+   "lon": 107.7298886,
+   "distance_km": 19.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Show",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.4175331,
+   "lon": 107.7672511,
+   "distance_km": 19.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 4,
+ "stations": [
+  {
+   "name": "新白马",
+   "name_en": null,
+   "lat": 29.4291063,
+   "lon": 107.5325821,
+   "distance_km": 9.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "白马",
+   "name_en": "Baima",
+   "lat": 29.407993,
+   "lon": 107.5567379,
+   "distance_km": 10.2,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "白涛",
+   "name_en": "Baitao",
+   "lat": 29.5747369,
+   "lon": 107.4655037,
+   "distance_km": 14.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "土坎",
+   "name_en": "Tukan",
+   "lat": 29.3831118,
+   "lon": 107.6767302,
+   "distance_km": 15.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "鸭江",
+   "name_en": null,
+   "lat": 29.4533151,
+   "lon": 107.3954253,
+   "distance_km": 19.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "武隆",
+   "name_en": "Wulong",
+   "lat": 29.3299317,
+   "lon": 107.7682632,
+   "distance_km": 25.5,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "武隆南",
+   "name_en": null,
+   "lat": 29.2993008,
+   "lon": 107.8132942,
+   "distance_km": 31.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "中嘴",
+   "name_en": "Zhongzui",
+   "lat": 29.3059655,
+   "lon": 107.8443502,
+   "distance_km": 32.8,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:13Z"
+}

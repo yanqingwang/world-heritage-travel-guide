@@ -2,7 +2,7 @@
 id: "cn-618"
 dataset: "china_5a"
 name_zh: "拉萨市大昭寺景区"
-name_en: "Jokhang"
+name_en: "Lasashidazhaosi Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Tibet"
 city_en: "Lhasa"
 lat: 29.656004
 lon: 91.139963
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 拉萨市大昭寺景区 / Jokhang
+# 拉萨市大昭寺景区 / Lasashidazhaosi Scenic Area
 
 > 西藏自治区 · 拉萨市 · 宗教文化
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-The Jokhang (Tibetan: ཇོ་ཁང།, Chinese: 大昭寺), historically known as the Rasa Trulnang (ra sa 'phrul snang) or Qoikang Monastery or Zuglagkang (Tibetan: གཙུག་ལག་ཁང༌།, Wylie: gtsug-lag-khang, ZWPY: Zuglagkang or Tsuklakang), is considered the "heart of Lhasa". The Jokhang consists of a Tibetan Buddhist temple, its temple complex, and a Gelug school monastery. Located in Barkhor Square, it was built in c.640 by King Songsten Gampo to house the Jowo Mikyo Dorje, a statue of Akshobhya Buddha, brought to Tibet by his Nepalese queen, Bhrikuti. Another statue, the Jowo Shakyamuni, brought by his Tang Chinese queen Wencheng, is currently housed in the temple and the Jowo Mikyo Dorje is housed in the Ramoche, in Lhasa. Many Nepalese and Indian artists and craftsmen worked on the temple's original design and construction. Around the 14th century, the temple was associated with the Vajrasana in India. In the 18th century the Qianlong Emperor of the Qing dynasty, following the Nepalese Gorkha invasion of Tibet in 1792, did not allow the Nepalese to visit this temple and it became an exclusive place of worship for the Tibetans. Early into the Cultural Revolution, the Red Guards attacked the Jokha
+The Jokhang Temple is located in the center of the old city of Lhasa. It is a Tibetan Buddhist temple built during the Songtsen Gampo period. The Jokhang Temple is the most splendid Tubo-era building in Tibet and the earliest civil structure building in Tibet. It pioneered the Tibetan Pingchuan style temple layout.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ The Jokhang (Tibetan: ཇོ་ཁང།, Chinese: 大昭寺), historically know
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/大昭寺)
 - [OpenStreetMap](https://www.openstreetmap.org/)

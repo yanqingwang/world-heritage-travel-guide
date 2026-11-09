@@ -2,7 +2,7 @@
 id: "cn-1415"
 dataset: "china_5a"
 name_zh: "济南市天下第一泉景区"
-name_en: "Jinanshitianxiadiyiquan Scenic Area"
+name_en: "Tianxiadiyiquan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shandong"
 city_en: "Jinan"
 lat: 36.670473
 lon: 117.02025
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 济南市天下第一泉景区 / Jinanshitianxiadiyiquan Scenic Area
+# 济南市天下第一泉景区 / Tianxiadiyiquan Scenic Area
 
 > 山东省 · 济南市 · 山地风光
 
@@ -61,4 +61,5 @@ The scenic area has a total area of ​​3.1 square kilometers and is composed 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/天下第一泉)
 - [OpenStreetMap](https://www.openstreetmap.org/)

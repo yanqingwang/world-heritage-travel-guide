@@ -10,8 +10,8 @@
  "city_zh": "吴忠市",
  "city_en": "Wuzhong City",
  "name_zh": "吴忠市青铜峡黄河大峡谷旅游区",
- "name_en": "Wuzhongshiqingtongxiahuanghedaxiagu Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Enshi Grand Canyon",
+ "name_en_source": "wikipedia",
  "slug": "wuzhongshiqingtongxiahuanghedaxiagu-26447",
  "lat": 37.895592,
  "lon": 106.006717,
@@ -22,8 +22,8 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "青铜峡黄河大峡谷旅游区位于宁夏回族自治区青铜峡市，景区面积126平方公里，世界灌溉工程遗产核心区，全国重点文物保护单位、全国科普教育基地。地处贺兰山下，黄河岸边，是宁夏黄河金岸旅游带的核心区，旅游区资源富集，历史文化源远流长，自然景观更是秀美奇绝。",
- "intro_en": "Qingtongxia Yellow River Grand Canyon Tourist Area is located in Qingtongxia City, Ningxia Hui Autonomous Region. The scenic area covers an area of ​​126 square kilometers. It is a core area of ​​world irrigation engineering heritage, a national key cultural relics protection unit, and a national popular science education base. Located at the foot of Helan Mountain and on the bank of the Yellow River, it is the core area of ​​Ningxia's Yellow River Golden Bank tourist belt. The tourist area is rich in resources, has a long history and culture, and the natural landscape is even more beautiful.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Enshi Grand Canyon (Chinese: 恩施大峡谷) is a natural scenic spot in Enshi, Hubei, China. It is located in the Qing River Basin, adjacent to the world's deepest sinkhole Xiaozhai Tiankeng. The total length of the canyon is about 35 kilometers, and almost all kinds of forms of karst landforms can be found, including cliffs, peak pillars, sinkholes, solutional caves, natural arches, subterranean rivers, hanging valleys, etc., constituting a rare three-dimensional karst landform. The Enshi Grand Canyon is under the management of the Enshi Grand Canyon Scenic Area Management Office, Enshi Mufu Office.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -96,10 +96,11 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -118,7 +119,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -128,9 +129,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/恩施大峡谷"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

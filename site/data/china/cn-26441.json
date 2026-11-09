@@ -10,7 +10,7 @@
  "city_zh": "柳州市",
  "city_en": "Liuzhou",
  "name_zh": "柳州市程阳八寨景区",
- "name_en": "Chengyangyongjiqiao Scenic Area",
+ "name_en": "Liuzhoushichengyangbazhai Scenic Area",
  "name_en_source": "pinyin",
  "slug": "liuzhoushichengyangbazhai-26441",
  "lat": 25.903032,
@@ -103,6 +103,28 @@
  },
  "hotels": [
   {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 25.7850054,
+   "lon": 109.6114801,
+   "distance_km": 13.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "全季酒店",
+   "name_en": "Ji Hotel",
+   "stars": null,
+   "brand": "全季酒店",
+   "lat": 25.785028,
+   "lon": 109.6118048,
+   "distance_km": 13.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "Dong Village Hotel",
    "name_en": "Dong Village Hotel",
    "stars": null,
@@ -132,28 +154,6 @@
    "lat": 25.7859534,
    "lon": 109.6143123,
    "distance_km": 13.4,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "雅贤居商务酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 25.785935,
-   "lon": 109.6139475,
-   "distance_km": 13.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "盛利宾馆",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 25.7856983,
-   "lon": 109.612141,
-   "distance_km": 13.5,
    "kind": "hotel",
    "source": "OpenStreetMap"
   }
@@ -193,13 +193,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/程阳永济桥"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

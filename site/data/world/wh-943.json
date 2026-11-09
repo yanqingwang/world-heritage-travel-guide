@@ -3,8 +3,8 @@
  "unesco_id": "943",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 455,
- "popularity_score": 16001,
+ "popularity_rank": 427,
+ "popularity_score": 14602,
  "country": "BE",
  "country_zh": "比利时",
  "country_en": "Belgium",
@@ -21,10 +21,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "BE-WAL",
+ "subdivision_zh": "瓦隆",
+ "subdivision_en": "Hainaut",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "比利时和法国钟楼",
  "name_zh_source": "unesco_official",
  "name_en": "Belfries of Belgium and France",
@@ -188,5 +188,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:01Z"
+ "updated_at": "2026-11-09T12:01:02Z"
 }

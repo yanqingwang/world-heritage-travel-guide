@@ -10,8 +10,8 @@
  "city_zh": "通化市",
  "city_en": "Tonghua City",
  "name_zh": "通化市高句丽文物古迹旅游景区",
- "name_en": "Tonghuashigaojuliwenwuguji Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+ "name_en_source": "wikipedia",
  "slug": "tonghuashigaojuliwenwuguji-360",
  "lat": 41.183529,
  "lon": 126.11615,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "高句丽文物古迹旅游景区位于吉林省集安市，是高句丽王朝的遗迹。景区主要景点包括丸都山城、王陵(14座)及贵族墓葬(26座)。",
- "intro_en": "The Goguryeo Cultural Relics and Historic Sites Tourist Area is located in Ji'an City, Jilin Province. It is a relic of the Goguryeo Dynasty. The main attractions in the scenic area include Wandu Mountain Castle, royal tombs (14) and noble tombs (26).",
- "intro_en_source": "machine_translation",
+ "intro_en": "The Capital Cities and Tombs of the Ancient Koguryo Kingdom is an UNESCO World Heritage Site which includes a number of archaeological sites currently in Ji'an, Jilin Province and Huanren, Liaoning Province in Northeast China. Goguryeo (or Koguryo, \"Gaogouli\" in Chinese), (37 BCE – 668 CE) was a Korean Kingdom located in the northern and central parts of the Korean Peninsula and the southern and central parts of Manchuria. The archaeological sites were collectively designated a cultural World Heritage Site in 2004, qualifying as such under the first five of the six criteria for cultural heritage sites. The designation includes the archaeological remains of three fortress-cities: Wunü Mountain City, Gungnae and Hwando, and forty identified tombs of Goguryeo imperial and noble families. In 2010, the Chinese government established the Ji'an Gaogouli National Archaeological Park (Chinese: 集安高句丽考古遗址公园), which includes all of the Goguryeo World Heritage Sites in Ji'an and Jilin, but not the ones in Liaoning (such as Wunü Mountain City). North Korea initially attempted to register the world heritage of the sites from around 2000. Although it was scheduled to be registered in 2003, China o",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -141,10 +141,11 @@
  "hotels_nearby_30km": 4,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -163,7 +164,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -173,9 +174,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/高句丽王城、王陵及贵族墓葬"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "常州市",
  "city_en": "Changzhou",
  "name_zh": "常州市环球恐龙城休闲旅游区",
- "name_en": "Changzhou",
- "name_en_source": "wikipedia",
+ "name_en": "Changzhoushihuanqiukonglongchengxiuxian Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "changzhoushihuanqiukonglongchengxiuxian-337",
  "lat": 31.828146,
  "lon": 120.00606,
@@ -22,8 +22,8 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "环球恐龙城是恐龙主题综合旅游度假区。环球恐龙城包括:中华恐龙园、迪诺水镇、恐龙谷温泉、恐龙城大剧场、香树湾花园酒店、维景国际大酒店、恐龙主题度假酒店等。",
- "intro_en": "Changzhou is a prefecture-level city in southern Jiangsu, China. It was previously known as Yanling, Lanling, and Jinling. Located on the southern bank of the Yangtze River, Changzhou borders the provincial capital of Nanjing to the west, Zhenjiang to the northwest, Wuxi to the east, and the province of Zhejiang to the south. The population of the Changzhou Municipality was 5,278,121 at the 2020 census. The city is the birthplace of Zhou Youguang who created the pinyin romanization system.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Universal Dinosaur City is a dinosaur-themed comprehensive tourist resort. Universal Dinosaur City includes: China Dinosaur Park, Dino Water Town, Dinosaur Valley Hot Spring, Dinosaur City Grand Theater, Xiangshuwan Garden Hotel, Metropark International Hotel, Dinosaur Theme Resort Hotel, etc.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20090919_Changzhou_Imgp5266.jpg/1280px-20090919_Changzhou_Imgp5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -221,9 +221,9 @@
  "hotels_nearby_30km": 44,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -244,7 +244,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -255,12 +255,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/常州市"
+   "url": "https://zh.wikipedia.org/wiki/奥体中心站 (常州市)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-442"
 dataset: "china_5a"
 name_zh: "郑州市嵩山少林景区"
-name_en: "Mount Song"
+name_en: "Zhengzhoushisongshanshaolin Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Henan"
 city_en: "Zhengzhou"
 lat: 34.520888
 lon: 112.962116
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 郑州市嵩山少林景区 / Mount Song
+# 郑州市嵩山少林景区 / Zhengzhoushisongshanshaolin Scenic Area
 
 > 河南省 · 郑州市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Mount Song (Chinese: 嵩山; pinyin: Sōngshān, "lofty mountain") is an isolated mountain range in north central China's Henan Province, along the southern bank of the Yellow River. It is known in literary and folk tradition as the central mountain of the Five Great Mountains of China. Since at least as early as the early 1st millennium BC, Chinese astronomical mythology had acquired the idea that Mount Song is "the centre of Heaven and Earth." It was respected as such by the successive dynasties of the Chinese Empire. The name Songshan also applies to a peak of the range located at 34°30′38″N 112°56′05″E, elevation 1,492 m (4,895 ft). It is the 4th highest peak, but second in prominence at 869 m (2,851 ft). Songshan National Scenic Spot is named after it. The highest peak in the range is Lian Tian Feng at 1,512 metres (4,961 ft), also most prominent at 1,221 m (4,006 ft). It is located at the coordinates shown for the article. On its upper slopes is the Sanhuangzhai Scenic Spot, further west seen from Route G1516 (Yanluo Expressway), which skirts the range on the south. The location is across the Shaoyang valley on the west side of which is Shaolin Monastery. The valley is well populat
+Songshan Shaolin Scenic Area is located in Dengfeng City, Henan Province. In addition to the towering Songshan Mountain, the scenic area also has Shaolin Temple built in the Northern Wei Dynasty, the large-scale Zhongyue Temple, and Songyang Academy, the birthplace of Cheng-Zhu Neo-Confucianism. Among them, Shaolin Temple has the reputation of "the most famous temple in the world". The existing buildings include the Chang'an Hospital, Pagoda Forest, First Ancestor's Temple, Second Ancestor's Temple and Bodhidharma Cave. On August 17, 2007, Songshan Shaolin Scenic Area was selected into the first batch of national 5A-level scenic spots.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Mount Song (Chinese: 嵩山; pinyin: Sōngshān, "lofty mountain") is an isolate
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/嵩山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

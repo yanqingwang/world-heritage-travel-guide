@@ -2,7 +2,7 @@
 id: "cn-763"
 dataset: "china_5a"
 name_zh: "三明市泰宁风景旅游区"
-name_en: "Sanmingshitainingfengjing Tourist Area"
+name_en: "Tainingzhan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Fujian"
 city_en: "Sanming"
 lat: 26.869942
 lon: 117.108373
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 三明市泰宁风景旅游区 / Sanmingshitainingfengjing Tourist Area
+# 三明市泰宁风景旅游区 / Tainingzhan Tourist Area
 
 > 福建省 · 三明市 · 古镇村落
 
@@ -60,5 +60,5 @@ Taining Scenic Area is located on the southeast side of the Shanling branch in t
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/泰宁站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

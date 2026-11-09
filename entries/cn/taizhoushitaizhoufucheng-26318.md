@@ -13,7 +13,7 @@ province_en: "Zhejiang"
 city_en: "Taizhou City"
 lat: 28.85245
 lon: 121.12379
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 台州市台州府城文化旅游区 / Walled City of Taizhou Fu
@@ -63,10 +63,10 @@ The Walled City of Taizhou Fu (Chinese: 台州府城) stands as a cultural prese
 
 ## 附近酒店 / Nearby hotels
 
+- **格林豪泰智选酒店(台州临海高铁南站店)** — 3.4 km — chain — 格林豪泰
 - **万豪酒店** — 26.7 km — chain — Zhejiang Taizhou Marriott Hotel
 - **海友** — 0.6 km — hotel
 - **双鳩国際飯店** — 1.4 km — hotel — Double Dove International Hotel
-- **格林豪泰智选酒店(台州临海高铁南站店)** — 3.4 km — chain — 格林豪泰
 - **黄岩耀达大酒店** — 25.3 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*

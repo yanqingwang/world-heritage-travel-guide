@@ -1,0 +1,113 @@
+{
+ "hotels": [
+  {
+   "name": "Best Western Lægreid Hotell",
+   "name_en": null,
+   "stars": null,
+   "brand": "Best Western",
+   "lat": 61.2302125,
+   "lon": 7.1007299,
+   "distance_km": 14.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Walaker Hotell",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.3019374,
+   "lon": 7.2479232,
+   "distance_km": 4.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Eikum Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.3154246,
+   "lon": 7.2034068,
+   "distance_km": 6.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tørvis Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.3808583,
+   "lon": 7.3071522,
+   "distance_km": 9.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Gaupnetunet",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 61.4025699,
+   "lon": 7.2991088,
+   "distance_km": 11.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 34,
+ "stations": [
+  {
+   "name": "Flåm",
+   "name_en": null,
+   "lat": 60.8629525,
+   "lon": 7.1131783,
+   "distance_km": 49.7,
+   "operator": null
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Ornes",
+   "name_en": null,
+   "lat": 61.2993816,
+   "lon": 7.3125706,
+   "distance_km": 0.6,
+   "operator": "Lustrabaatane"
+  },
+  {
+   "name": "Solvorn",
+   "name_en": null,
+   "lat": 61.301349,
+   "lon": 7.2487066,
+   "distance_km": 4.0,
+   "operator": "Lustrabaatane"
+  },
+  {
+   "name": "Kaupanger",
+   "name_en": null,
+   "lat": 61.1828972,
+   "lon": 7.2504101,
+   "distance_km": 13.4,
+   "operator": null
+  },
+  {
+   "name": "Sogndal",
+   "name_en": null,
+   "lat": 61.2295279,
+   "lon": 7.1045036,
+   "distance_km": 13.9,
+   "operator": null
+  },
+  {
+   "name": "Mannheller",
+   "name_en": null,
+   "lat": 61.1602065,
+   "lon": 7.3367887,
+   "distance_km": 15.3,
+   "operator": "Fjord1"
+  }
+ ],
+ "fetched_at": "2026-11-09T11:59:30Z"
+}

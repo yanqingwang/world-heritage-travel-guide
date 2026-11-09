@@ -2,7 +2,7 @@
 id: "cn-1458"
 dataset: "china_5a"
 name_zh: "赣州市瑞金市共和国摇篮景区"
-name_en: "Ganzhou"
+name_en: "Chinese Soviet Republic"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangxi"
 city_en: "Ganzhou"
 lat: 25.88996
 lon: 116.018882
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 赣州市瑞金市共和国摇篮景区 / Ganzhou
+# 赣州市瑞金市共和国摇篮景区 / Chinese Soviet Republic
 
 > 江西省 · 赣州市 · 红色旅游
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Ganzhou (Chinese: 赣州; pinyin: Gànzhōu, Hakka: Kam-chû-sṳ), alternately romanized as Kanchow, is a prefecture-level city in the south of Jiangxi province, China, bordering Fujian to the east, Guangdong to the south, and Hunan to the west. Its administrative seat is at Zhanggong District.
+The Chinese Soviet Republic (CSR) was a proto-state within the Republic of China, proclaimed on 7 November 1931 by Chinese Communist Party (CCP) leaders Mao Zedong and Zhu De in the early stages of the Chinese Civil War. The discontiguous territories of the CSR included 18 provinces and 4 counties under the Communists' control. The CSR's government was located in its largest component territory, the Jiangxi Soviet in southeastern China, with its capital city at Ruijin. Due to the importance of the Jiangxi Soviet in the CSR's early history, the name "Jiangxi Soviet" is sometimes used to refer to the CSR as a whole. Other component territories of the CSR included the Minzhegan, Xianggan, Xiang'egang, Honghu, Xiang'echuanqian, Eyuwan, Eyushan, Shaanxi-Gansu, Sichuan-Shaanxi, and Hailufeng Soviets. Mao was both CSR state chairman and prime minister; he commanded the state and its government. Mao's tenure as commander of a "small state within a state" gave him experience in mobile warfare and peasant organization, which helped him lead the Chinese Communists to victory in 1949. The encirclement campaigns initiated by the Kuomintang in 1934 forced the CCP to abandon most of the soviets i
 
 ## 交通 / Transport
 
@@ -76,5 +76,5 @@ Ganzhou (Chinese: 赣州; pinyin: Gànzhōu, Hakka: Kam-chû-sṳ), alternately 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/赣州市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/中华苏维埃共和国)
 - [OpenStreetMap](https://www.openstreetmap.org/)

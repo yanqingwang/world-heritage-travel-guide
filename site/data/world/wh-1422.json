@@ -3,8 +3,8 @@
  "unesco_id": "1422",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 67,
- "popularity_score": 201435,
+ "popularity_rank": 52,
+ "popularity_score": 197034,
  "country": "IR",
  "country_zh": "伊朗",
  "country_en": "Iran",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "IR-23",
+ "subdivision_zh": "德黑兰省",
+ "subdivision_en": "Tehran Province",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "古列斯坦宮",
  "name_zh_source": "wikidata",
  "name_en": "Golestan Palace",
@@ -330,5 +330,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1715",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1017,
+ "popularity_rank": 1001,
  "popularity_score": null,
  "country": "PL",
  "country_zh": "波兰",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "PL-22",
+ "subdivision_zh": "滨海省",
+ "subdivision_en": "Pomeranian Voivodeship",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "格丁尼亚现代主义市中心",
  "name_zh_source": "curated",
  "name_en": "Gdynia Modernist City Centre",
@@ -160,5 +160,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:06Z"
+ "updated_at": "2026-11-09T12:01:06Z"
 }

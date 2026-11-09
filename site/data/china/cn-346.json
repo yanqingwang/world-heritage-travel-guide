@@ -10,8 +10,8 @@
  "city_zh": "喀什地区",
  "city_en": "Kashgar Prefecture",
  "name_zh": "喀什地区金湖杨景区",
- "name_en": "Jinhuzhen Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Jinhu, Kinmen",
+ "name_en_source": "wikipedia",
  "slug": "kashidiqujinhuyang-346",
  "lat": 38.035954,
  "lon": 76.987903,
@@ -105,10 +105,11 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -127,7 +128,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -145,5 +146,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

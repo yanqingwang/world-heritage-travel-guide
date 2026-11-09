@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hostal Chavin Turistico",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.5903163,
+   "lon": -77.1782878,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Andino Club Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.534652,
+   "lon": -77.5230031,
+   "distance_km": 38.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "San Sebastian",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.5276873,
+   "lon": -77.5227672,
+   "distance_km": 38.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sierra Nevada",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.4918093,
+   "lon": -77.5366241,
+   "distance_km": 40.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Inca",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -9.58875,
+   "lon": -77.1784628,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 108,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:31Z"
+}

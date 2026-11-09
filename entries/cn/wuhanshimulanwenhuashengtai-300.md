@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 31.099165
 lon: 114.403265
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 武汉市木兰文化生态旅游区 / Wuhan

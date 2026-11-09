@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)(iv)"
 lat: -3.309166666
 lon: 40.016666666
-updated_at: "2026-11-08T20:30:06Z"
+updated_at: "2026-11-09T12:01:06Z"
 ---
 
 # 格迪古镇和考古遗址 / The Historic Town and Archaeological Site of Gedi

@@ -2,7 +2,7 @@
 id: "cn-26561"
 dataset: "china_5a"
 name_zh: "咸阳市乾陵景区"
-name_en: "Xianyang"
+name_en: "Xianyangshi Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shaanxi"
 city_en: "Xianyang"
 lat: 34.574647
 lon: 108.226645
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 咸阳市乾陵景区 / Xianyang
+# 咸阳市乾陵景区 / Xianyangshi Scenic Area
 
 > 陕西省 · 咸阳市 · 历史遗址
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Xianyang (Chinese: 咸阳; pinyin: Xiányáng) is a prefecture-level city in central Shaanxi province, situated on the Wei River a few kilometers upstream (west) from the provincial capital of Xi'an. The old Xianyang city was once the capital of the Qin dynasty and thus the first imperial capital of China. It is now integrated into the Greater Xi'an Metropolitan Area, one of the main megalopolises in northwestern China, with more than 7.17 million inhabitants. Its built-up area, consisting of 2 urban districts (Qindu and Weicheng), had 945,420 inhabitants at the 2010 census. It has a total area of 10,213 square kilometers (3,943 mi2). Xianyang is the seat of the Xi'an Xianyang International Airport, the main airport serving Xi'an and the largest airport in Northwest China, and one of the 40 busiest airports in the world. Xianyang is one of the top 200 cities in the world by scientific research outputs, as tracked by the Nature Index. It is home to the main campus of Northwest A&F University (NWAFU), one of the world's top universities in agriculture science related fields, and a member of "Project 985" club which is an organization of 39 reputable universities in China.
+The Qianling Mausoleum was built during the prosperous Tang Dynasty. The mausoleum is large in scale and the architecture is magnificent and majestic. It can be called "the crown of all imperial mausoleums in the past". Among them, the ground floor buildings of the cemetery are modeled after Chang'an City, the capital of the Tang Dynasty, and are divided into three parts: the inner city, the outer city and the burial tomb area (equivalent to the palace city, imperial city and outer city of Chang'an City respectively). There were originally 378 buildings in the cemetery, including dedicated halls, side rooms, cloisters, and towers. After more than 1,300 years, the majestic ground-level buildings of Qianling Mausoleum no longer exist. Today, the most intact ones are the symmetrical rows of shrines on both sides of the Shinto outside the Suzaku Gate in the inner city. There are more than 100 large-scale and exquisite stone sculptures on display, among which the most famous ones include the wordless stele, the Shusheng Ji stele, the statues of sixty-one ministers, stone lions and other unique stone sculptures. Therefore, the Qianling Mausoleum is known as the "Open-air Stone Sculpture 
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -69,7 +71,7 @@ Xianyang (Chinese: 咸阳; pinyin: Xiányáng) is a prefecture-level city in cen
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 

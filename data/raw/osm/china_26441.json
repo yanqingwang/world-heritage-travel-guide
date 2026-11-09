@@ -1,1 +1,136 @@
-{"hotels": [{"name": "Dong Village Hotel", "name_en": "Dong Village Hotel", "stars": null, "brand": null, "lat": 25.9009287, "lon": 109.635948, "distance_km": 1.2, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "三江饭店", "name_en": "San Jiang Hotel", "stars": null, "brand": null, "lat": 25.7878219, "lon": 109.6099546, "distance_km": 13.4, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "城市使提酒店", "name_en": "City Comfort Inn", "stars": null, "brand": null, "lat": 25.7859534, "lon": 109.6143123, "distance_km": 13.4, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "雅贤居商务酒店", "name_en": null, "stars": null, "brand": null, "lat": 25.785935, "lon": 109.6139475, "distance_km": 13.5, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "盛利宾馆", "name_en": null, "stars": null, "brand": null, "lat": 25.7856983, "lon": 109.612141, "distance_km": 13.5, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 11, "stations": [{"name": "八斗", "name_en": "Badou", "lat": 25.8939015, "lon": 109.5599209, "distance_km": 8.9, "operator": null, "high_speed": false}, {"name": "江头", "name_en": "Jiangtou", "lat": 25.9722764, "lon": 109.5894706, "distance_km": 9.7, "operator": null, "high_speed": false}, {"name": "三江县", "name_en": "Sanjiangxian", "lat": 25.838407, "lon": 109.567536, "distance_km": 10.8, "operator": null, "high_speed": false}, {"name": "水团", "name_en": "Shuituan", "lat": 26.0393647, "lon": 109.6306699, "distance_km": 15.3, "operator": null, "high_speed": false}, {"name": "程村", "name_en": "Chengcun", "lat": 25.7675906, "lon": 109.5416146, "distance_km": 18.4, "operator": null, "high_speed": false}, {"name": "三江南", "name_en": null, "lat": 25.7286956, "lon": 109.5715732, "distance_km": 20.8, "operator": null, "high_speed": false}, {"name": "平竂", "name_en": "Pingliao", "lat": 25.7283671, "lon": 109.4958735, "distance_km": 24.7, "operator": null, "high_speed": false}, {"name": "牙屯堡", "name_en": "Yatunpu", "lat": 26.1357478, "lon": 109.6198295, "distance_km": 26.0, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:16Z"}
+{
+ "hotels": [
+  {
+   "name": "汉庭酒店",
+   "name_en": "Hanting Hotel",
+   "stars": null,
+   "brand": "汉庭酒店",
+   "lat": 25.7850054,
+   "lon": 109.6114801,
+   "distance_km": 13.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "全季酒店",
+   "name_en": "Ji Hotel",
+   "stars": null,
+   "brand": "全季酒店",
+   "lat": 25.785028,
+   "lon": 109.6118048,
+   "distance_km": 13.6,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Dong Village Hotel",
+   "name_en": "Dong Village Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 25.9009287,
+   "lon": 109.635948,
+   "distance_km": 1.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "三江饭店",
+   "name_en": "San Jiang Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 25.7878219,
+   "lon": 109.6099546,
+   "distance_km": 13.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "城市使提酒店",
+   "name_en": "City Comfort Inn",
+   "stars": null,
+   "brand": null,
+   "lat": 25.7859534,
+   "lon": 109.6143123,
+   "distance_km": 13.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 11,
+ "stations": [
+  {
+   "name": "八斗",
+   "name_en": "Badou",
+   "lat": 25.8939015,
+   "lon": 109.5599209,
+   "distance_km": 8.9,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "江头",
+   "name_en": "Jiangtou",
+   "lat": 25.9722764,
+   "lon": 109.5894706,
+   "distance_km": 9.7,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "三江县",
+   "name_en": "Sanjiangxian",
+   "lat": 25.838407,
+   "lon": 109.567536,
+   "distance_km": 10.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "水团",
+   "name_en": "Shuituan",
+   "lat": 26.0393647,
+   "lon": 109.6306699,
+   "distance_km": 15.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "程村",
+   "name_en": "Chengcun",
+   "lat": 25.7675906,
+   "lon": 109.5416146,
+   "distance_km": 18.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "三江南",
+   "name_en": null,
+   "lat": 25.7286956,
+   "lon": 109.5715732,
+   "distance_km": 20.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "平竂",
+   "name_en": "Pingliao",
+   "lat": 25.7283671,
+   "lon": 109.4958735,
+   "distance_km": 24.7,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "牙屯堡",
+   "name_en": "Yatunpu",
+   "lat": 26.1357478,
+   "lon": 109.6198295,
+   "distance_km": 26.0,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:15Z"
+}

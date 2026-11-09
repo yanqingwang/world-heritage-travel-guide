@@ -10,8 +10,8 @@
  "city_zh": "佛山市",
  "city_en": "Foshan",
  "name_zh": "佛山市顺德区长鹿旅游休博园",
- "name_en": "Shunde, Guangdong",
- "name_en_source": "wikipedia",
+ "name_en": "Foshanshishundequzhanglulvyouxiuboyuan",
+ "name_en_source": "pinyin",
  "slug": "foshanshishundequzhanglulvyouxiuboyuan-620",
  "lat": 22.884408,
  "lon": 113.295229,
@@ -22,8 +22,8 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "长鹿旅游休博园又名长鹿农庄，始建于2001年，现为全国农业旅游示范点。整个农庄主要由“尖叫乐园”“动感玩水区”“农家乐主题公园”“童话动物世界”和“长鹿休闲度假村”等五大块组成。",
- "intro_en": "Shunde or Shun Tak (from Cantonese) is a district in the city of Foshan, Guangdong, located in the Pearl River Delta of China. It had a population of 2,464,784 as of the 2010 census. Once a traditional agricultural county, it has become one of the most affluent counties in Guangdong and mainland China. Since 2009, Shunde has been administered independently of Foshan city. It is directly accountable to the Guangdong provincial government.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Changlu Tourism and Leisure Expo Park, also known as Changlu Farm, was founded in 2001 and is now a national agricultural tourism demonstration site. The entire farm is mainly composed of five major parts: \"Screaming Paradise\", \"Dynamic Water Play Area\", \"Farmhouse Theme Park\", \"Fairy Tale Animal World\" and \"Changlu Leisure Resort\".",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ronggui_Skyline_%28cropped%29.jpg/1280px-Ronggui_Skyline_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -203,11 +203,10 @@
  "hotels_nearby_30km": 336,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -226,7 +225,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -236,13 +235,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/顺德区"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

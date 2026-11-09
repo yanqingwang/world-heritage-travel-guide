@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(iv)(vi)"
 lat: 50.97477
 lon: 11.32949
-updated_at: "2026-11-08T20:30:00Z"
+updated_at: "2026-11-09T12:01:01Z"
 ---
 
 # 魏玛、德绍和贝尔瑙的包豪斯建筑及其遗址 / Bauhaus and its Sites in Weimar, Dessau and Bernau

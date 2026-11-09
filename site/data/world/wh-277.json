@@ -3,7 +3,7 @@
  "unesco_id": "277",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1057,
+ "popularity_rank": 1041,
  "popularity_score": null,
  "country": "IQ",
  "country_zh": "伊拉克",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Governorate of Ninawa",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "IQ-NI",
+ "subdivision_zh": "尼尼微省",
+ "subdivision_en": "Nineveh Governorate",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "哈特拉",
  "name_zh_source": "unesco_official",
  "name_en": "Hatra",
@@ -166,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:29:58Z"
+ "updated_at": "2026-11-09T12:00:58Z"
 }

@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iv)"
 lat: 45.974555555
 lon: 9.169555555
-updated_at: "2026-11-08T20:30:02Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 皮埃蒙特及伦巴第圣山 / Sacri Monti of Piedmont and Lombardy

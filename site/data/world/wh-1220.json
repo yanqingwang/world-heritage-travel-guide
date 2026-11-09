@@ -3,7 +3,7 @@
  "unesco_id": "1220",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 916,
+ "popularity_rank": 879,
  "popularity_score": null,
  "country": "IL",
  "country_zh": "以色列",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Haifa and Northern Districts",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "IL-HA",
+ "subdivision_zh": "海法区",
+ "subdivision_en": "Haifa District",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "海法和西加利利的巴海圣地",
  "name_zh_source": "unesco_official",
  "name_en": "Bahá’i Holy Places in Haifa and the Western Galilee",
@@ -165,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:03Z"
 }

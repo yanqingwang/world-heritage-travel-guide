@@ -10,8 +10,8 @@
  "city_zh": "常州市",
  "city_en": "Changzhou",
  "name_zh": "常州市天目湖景区",
- "name_en": "Changzhou",
- "name_en_source": "wikipedia",
+ "name_en": "Changzhoushitianmuhu Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "changzhoushitianmuhu-446",
  "lat": 31.304274,
  "lon": 119.44574,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "天目湖因属天目山余脉，故名“天目湖”。天目湖全区拥有300平方公里的生态保护区，区内坐落着沙河、大溪两座国家级大型水库。天目湖地区物产丰富，有沙河桂茗绿茶、乌龙茶、珍珠栗、桂元栗、砂锅鱼头等。",
- "intro_en": "Changzhou is a prefecture-level city in southern Jiangsu, China. It was previously known as Yanling, Lanling, and Jinling. Located on the southern bank of the Yangtze River, Changzhou borders the provincial capital of Nanjing to the west, Zhenjiang to the northwest, Wuxi to the east, and the province of Zhejiang to the south. The population of the Changzhou Municipality was 5,278,121 at the 2020 census. The city is the birthplace of Zhou Youguang who created the pinyin romanization system.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Tianmu Lake is named \"Tianmu Lake\" because it belongs to the remnants of Tianmu Mountain. The entire Tianmu Lake area has an ecological protection zone of 300 square kilometers. There are two large national-level reservoirs, Shahe and Daxi, in the area. Tianmu Lake area is rich in products, including Shahe Guiming green tea, oolong tea, pearl chestnut, Guiyuan chestnut, casserole fish head, etc.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20090919_Changzhou_Imgp5266.jpg/1280px-20090919_Changzhou_Imgp5266.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -221,11 +221,10 @@
  "hotels_nearby_30km": 20,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -244,7 +243,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -254,13 +253,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/常州市"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

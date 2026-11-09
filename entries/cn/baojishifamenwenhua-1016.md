@@ -2,7 +2,7 @@
 id: "cn-1016"
 dataset: "china_5a"
 name_zh: "宝鸡市法门文化景区"
-name_en: "Baoji"
+name_en: "Famenzhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shaanxi"
 city_en: "Baoji"
 lat: 34.440763
 lon: 107.908118
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 宝鸡市法门文化景区 / Baoji
+# 宝鸡市法门文化景区 / Famenzhen Scenic Area
 
 > 陕西省 · 宝鸡市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Baoji (simplified Chinese: 宝鸡; traditional Chinese: 谿行市; pinyin: Bǎojī; Mandarin pronunciation: [pàʊ.tɕí] ) is a prefecture-level city in western Shaanxi province, People's Republic of China. Since the early 1990s, Baoji has been the second largest city in Shaanxi.
+Famen Temple Cultural Scenic Spot, also known as "True Body Pagoda". Famen Temple is known as a royal temple. It has become a Buddhist holy place that the whole country looks up to because it houses the finger bone relic of Sakyamuni Buddha. It is known as the "Pagoda of True Body to Protect the Country". Famen Temple consists of the underground palace, Shanmen Square, Foguang Avenue, Famen Temple, Heshi Relic Pagoda, and many sculptures.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -75,10 +77,10 @@ Baoji (simplified Chinese: 宝鸡; traditional Chinese: 谿行市; pinyin: Bǎoj
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/宝鸡市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/法门镇)
 - [OpenStreetMap](https://www.openstreetmap.org/)

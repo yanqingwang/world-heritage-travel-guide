@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(i)(iii)(iv)"
 lat: 43.2976445
 lon: 68.2710419
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 霍贾•艾哈迈德•亚萨维陵墓 / Mausoleum of Khoja Ahmed Yasawi

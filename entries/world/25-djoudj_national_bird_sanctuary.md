@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(vii)(x)"
 lat: 16.358494949
 lon: -16.27410156
-updated_at: "2026-11-08T20:29:56Z"
+updated_at: "2026-11-09T12:00:56Z"
 ---
 
 # 朱贾国家鸟类保护区 / Djoudj National Bird Sanctuary

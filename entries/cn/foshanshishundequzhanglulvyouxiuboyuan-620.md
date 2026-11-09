@@ -2,7 +2,7 @@
 id: "cn-620"
 dataset: "china_5a"
 name_zh: "佛山市顺德区长鹿旅游休博园"
-name_en: "Shunde, Guangdong"
+name_en: "Foshanshishundequzhanglulvyouxiuboyuan"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Foshan"
 lat: 22.884408
 lon: 113.295229
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 佛山市顺德区长鹿旅游休博园 / Shunde, Guangdong
+# 佛山市顺德区长鹿旅游休博园 / Foshanshishundequzhanglulvyouxiuboyuan
 
 > 广东省 · 佛山市 · 主题乐园
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Shunde or Shun Tak (from Cantonese) is a district in the city of Foshan, Guangdong, located in the Pearl River Delta of China. It had a population of 2,464,784 as of the 2010 census. Once a traditional agricultural county, it has become one of the most affluent counties in Guangdong and mainland China. Since 2009, Shunde has been administered independently of Foshan city. It is directly accountable to the Guangdong provincial government.
+Changlu Tourism and Leisure Expo Park, also known as Changlu Farm, was founded in 2001 and is now a national agricultural tourism demonstration site. The entire farm is mainly composed of five major parts: "Screaming Paradise", "Dynamic Water Play Area", "Farmhouse Theme Park", "Fairy Tale Animal World" and "Changlu Leisure Resort".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,10 +76,9 @@ Shunde or Shun Tak (from Cantonese) is a district in the city of Foshan, Guangdo
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/顺德区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

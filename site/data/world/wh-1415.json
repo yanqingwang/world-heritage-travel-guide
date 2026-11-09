@@ -3,7 +3,7 @@
  "unesco_id": "1415",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 955,
+ "popularity_rank": 930,
  "popularity_score": null,
  "country": "CA",
  "country_zh": "加拿大",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "CA-ON",
+ "subdivision_zh": "安大略省",
+ "subdivision_en": "Ontario",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "皮玛希旺·阿奇",
  "name_zh_source": "unesco_official",
  "name_en": "Pimachiowin Aki",
@@ -165,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

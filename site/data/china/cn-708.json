@@ -10,8 +10,8 @@
  "city_zh": "深圳市",
  "city_en": "Shenzhen",
  "name_zh": "深圳市南山区华侨城旅游度假区",
- "name_en": "Nanshan, Shenzhen",
- "name_en_source": "wikipedia",
+ "name_en": "Shenzhenshinanshanquhuaqiaocheng Tourist Resort",
+ "name_en_source": "pinyin",
  "slug": "shenzhenshinanshanquhuaqiaocheng-708",
  "lat": 22.543555,
  "lon": 113.989928,
@@ -22,8 +22,8 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "华侨城以锦绣中华、中国民俗文化村、世界之窗、欢乐谷四大主题公园为核心，汇聚了中国较为集中的文化主题公园群、文化主题酒店群和文化艺术设施群，是首批全国文明风景旅游区、国家级文化产业示范园区。",
- "intro_en": "Nanshan District (Chinese: 南山区; pinyin: Nánshān Qū; Cantonese Jyutping: Naam4 Saan1 Keoi1) is one of the nine districts comprising the city of Shenzhen in Guangdong province, China. It encompasses the southwest area of the Shenzhen Special Economic Zone, with a population of 1.08 million. In 2025, the district of Nanshan's local GDP output exceeded 1,000 billion Chinese Yuan or 143.7 billion US dollars, an economy slightly larger than that of Uzbekistan or Bulgaria. The region has an established tourism industry and is home to several sightseeing locations, as well as multiple seaside parks such as the Shenzhen Bay Park and the Shenzhen Talent Park. Its tallest building is the 393-metre (1,289 ft) China Resources Headquarters. It is known for being the home of Shenzhen High-Tech Industrial Park, which comprises some of China's largest technology companies and the establishments of well-known international companies, as well as being the nation's richest district of a city-level municipality. The district has some of the most expensive neighbourhoods in China in terms of real estate prices.",
- "intro_en_source": "wikipedia",
+ "intro_en": "With the four major theme parks of Splendid China, China Folk Culture Village, Window of the World and Happy Valley as its core, OCT brings together a relatively concentrated group of cultural theme parks, cultural themed hotels and cultural and art facilities in China. It is one of the first batch of national civilized scenic tourist areas and national cultural industry demonstration parks.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -212,11 +212,10 @@
  "hotels_nearby_30km": 416,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -235,7 +234,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -246,12 +245,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/南山区"
+   "url": "https://zh.wikipedia.org/wiki/深圳市南山实验教育集团华侨城高级中学"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

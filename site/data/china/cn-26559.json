@@ -10,8 +10,8 @@
  "city_zh": "成都市",
  "city_en": "Chengdu",
  "name_zh": "成都市天台山景区",
- "name_en": "Tiantai Mountain",
- "name_en_source": "wikipedia",
+ "name_en": "Tiantaishan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "chengdushitiantaishan-26559",
  "lat": 30.283941,
  "lon": 103.132781,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "四川成都天台山旅游景区位于中国优秀旅游城市、巴蜀四大古城之一、南方丝绸之路西出成都第一城的“文君故里”邛崃市，距离成都市区约110公里。景区总面积29.1平方公里，主峰玉霄峰海拔1812米。天台山旅游景区隶属邛崃山脉，森林覆盖率近95%，动植物种类丰富，是四川大熊猫栖息地世界自然遗产、国家重点风景名胜区、国家森林公园、国家AAAAA级旅游景区，全球八大萤火虫观赏地之一。",
- "intro_en": "Tiantai Mountain (also Tí Taî in the local language) is a mountain in Tiantai County, Taizhou, Zhejiang Province, China. Its highest peak, Huading, reaches a height of 1,138 meters (3,734 ft). It was designated a scenic area in 1985, with an area of 105 km2. One of nine remaining wild populations of Seven-Son Flower (Heptacodium miconioides) is located on mount Tiantai.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Tiantai Mountain Scenic Area in Chengdu, Sichuan is located in Qionglai City, the \"Hometown of Wenjun\", which is an excellent tourist city in China, one of the four ancient cities of Bashu and the first city west of Chengdu on the Southern Silk Road. It is about 110 kilometers away from Chengdu city. The total area of ​​the scenic spot is 29.1 square kilometers, and the main peak, Yuxiao Peak, is 1,812 meters above sea level. The Tiantai Mountain tourist attraction belongs to the Qionglai Mountains, with a forest coverage rate of nearly 95% and rich species of animals and plants. It is the Sichuan Giant Panda Habitat World Natural Heritage, a national key scenic spot, a national forest park, a national AAAAA tourist attraction, and one of the eight best firefly viewing spots in the world.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG/1280px-Sui_Dynasty_Guoqing_Temple_Ancient_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135,6 +135,28 @@
  },
  "hotels": [
   {
+   "name": "蒙顶山假日度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": "Holiday Inn Resort",
+   "lat": 30.0751172,
+   "lon": 103.0441661,
+   "distance_km": 24.7,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "维也纳国际酒店（雅安高铁站店）",
+   "name_en": "Vienna International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.023485,
+   "lon": 103.0583855,
+   "distance_km": 29.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "天台上大酒店",
    "name_en": null,
    "stars": null,
@@ -166,38 +188,15 @@
    "distance_km": 20.5,
    "kind": "hotel",
    "source": "OpenStreetMap"
-  },
-  {
-   "name": "Jinyang House Pingle Ancient Town Shop",
-   "name_en": "Jinyang House Pingle Ancient Town Shop",
-   "stars": null,
-   "brand": null,
-   "lat": 30.3592594,
-   "lon": 103.3315227,
-   "distance_km": 20.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Haitang Garden",
-   "name_en": "Haitang Garden",
-   "stars": null,
-   "brand": null,
-   "lat": 30.3632257,
-   "lon": 103.3288982,
-   "distance_km": 20.8,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
   }
  ],
  "hotels_nearby_30km": 12,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -234,5 +233,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-370"
 dataset: "china_5a"
 name_zh: "鸡西市虎头旅游景区"
-name_en: "Jixishihutou Scenic Area"
+name_en: "Jixi"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Heilongjiang"
 city_en: "Jixi City"
 lat: 45.991375
 lon: 133.674895
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 鸡西市虎头旅游景区 / Jixishihutou Scenic Area
+# 鸡西市虎头旅游景区 / Jixi
 
 > 黑龙江省 · 鸡西市 · 红色旅游
 
@@ -50,9 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Hutou tourist attraction has tourist resources such as the Great Jiejiang River, the Great Wetland, the Great Ice and Snow, the Great Forest, and other natural scenery in northern Saibei, war sites and historical relics. It is a comprehensive scenic spot integrating eco-tourism, red tourism, forest tourism, cross-border tourism, and ice and snow tourism. It is called by experts the only "non-city central tourist resource collection area" in Heilongjiang Province.
-
-*English introduction: machine translation.*
+Jixi (simplified Chinese: 鸡西; traditional Chinese: 雞西; pinyin: Jīxī) is a city in southeastern Heilongjiang Province, People's Republic of China. At the 2020 census, 1,502,060 people resided within its administrative area of 22,488.47 square kilometres (8,682.85 sq mi) and 560,118 in its built-up (or metro) area made up of 3 out of 6 urban districts (including Jiguan, Hengshan and Chengzihe). By the end of 2024, the total registered population of the city is 1,593,200, of which the urban population is 1,006 million. Jixi is on the Muling River about 30 km (19 mi) from the border with Russia's Primorsky Krai and 120 km (75 mi) from Lake Xingkai. The mayor of Jixi is Zhang Changrong (张常荣) since June 2015. The area is one of the important coal mining bases in China. A crater on asteroid 253 Mathilde was named after the city.
 
 ## 交通 / Transport
 
@@ -73,9 +71,10 @@ Hutou tourist attraction has tourist resources such as the Great Jiejiang River,
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/鸡西市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

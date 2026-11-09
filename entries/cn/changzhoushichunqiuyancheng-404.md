@@ -2,7 +2,7 @@
 id: "cn-404"
 dataset: "china_5a"
 name_zh: "常州市春秋淹城旅游区"
-name_en: "Changzhou"
+name_en: "Chunqiu Yancheng"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.7109
 lon: 119.926847
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 常州市春秋淹城旅游区 / Changzhou
+# 常州市春秋淹城旅游区 / Chunqiu Yancheng
 
 > 江苏省 · 常州市 · 主题乐园
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Changzhou is a prefecture-level city in southern Jiangsu, China. It was previously known as Yanling, Lanling, and Jinling. Located on the southern bank of the Yangtze River, Changzhou borders the provincial capital of Nanjing to the west, Zhenjiang to the northwest, Wuxi to the east, and the province of Zhejiang to the south. The population of the Changzhou Municipality was 5,278,121 at the 2020 census. The city is the birthplace of Zhou Youguang who created the pinyin romanization system.
+Chunqiu Yancheng is the remains of an ancient city from the Spring and Autumn period. It is now rebuilt and displayed as a tourist attraction rated as an AAAAA site, the highest official tourism rating. Changzhou Spring and Autumn Yancheng site is located in Wujin, the southern suburb of Changzhou, about 15 minutes away by car. Yancheng was surrounded by three rivers inside and outside. From the inside to the outside, the city, the city river, the inner city, the inner city river, the outer city, the outer city river, three cities, and three rivers. This architectural form is unique among the ancient city ruins in China. Most ancient cities have one city and one river, and a few have two cities and one river or two cities and two rivers. The site currently consists of three concentric artificial rivers that once surrounded the village. Around 2007, construction was being finished on shops and a museum in traditional style catering to the many tourists that come to Yancheng each year. With much of the original site now covered in grass with many remaining trees, it is most popular with Changzhou locals as a historical theme amusement park. By stimulating the ancient cultural scenes,
 
 ## 交通 / Transport
 
@@ -76,10 +76,10 @@ Changzhou is a prefecture-level city in southern Jiangsu, China. It was previous
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/常州市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/淹城遗址)
 - [OpenStreetMap](https://www.openstreetmap.org/)

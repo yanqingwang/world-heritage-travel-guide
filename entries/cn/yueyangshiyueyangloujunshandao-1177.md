@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Yueyang City"
 lat: 29.383944
 lon: 113.101191
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 岳阳市岳阳楼-君山岛景区 / Yueyang Tower

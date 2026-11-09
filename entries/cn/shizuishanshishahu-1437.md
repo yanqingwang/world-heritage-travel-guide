@@ -2,7 +2,7 @@
 id: "cn-1437"
 dataset: "china_5a"
 name_zh: "石嘴山市沙湖旅游景区"
-name_en: "Shizuishan"
+name_en: "Shizuishanshishahu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Ningxia"
 city_en: "Shizuishan City"
 lat: 38.830852
 lon: 106.397047
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 石嘴山市沙湖旅游景区 / Shizuishan
+# 石嘴山市沙湖旅游景区 / Shizuishanshishahu Scenic Area
 
 > 宁夏回族自治区 · 石嘴山市 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Shizuishan, formerly Shizuizi, is a prefecture-level city in the Ningxia Hui Autonomous Region of the People's Republic of China. It is the northernmost prefecture in Ningxia and the second most populous, after the regional capital Yinchuan, bordered by Inner Mongolia to all directions except the south. Shizuishan sits on the western bank of the Yellow River on the western side of the Ordos Loop. It was formerly a center for caravans traveling the northern routes to and from Beijing across the Ordos Desert.
+The scenic area is dominated by natural landscape, with the five major scenic sources of sand, water, reeds, birds and mountains organically combined. It is a "Pearl on the Fortress" that combines the beauty of the south of the Yangtze River with the magnificent scenery beyond the Great Wall. It has the majesty of the Gobi Desert and the beauty of the water towns in the south of the Yangtze River. The main attractions include Shahu International Sand Sculpture Garden, Bird Island, Hudong Wetland, Xinmen District Square, Shahu Inscription Stone, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -71,10 +73,10 @@ Shizuishan, formerly Shizuizi, is a prefecture-level city in the Ningxia Hui Aut
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/石嘴山市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/沙湖 (石嘴山))
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)"
 lat: 43.803333333
 lon: 75.535
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 泰姆格里考古景观岩刻 / Petroglyphs of the Archaeological Landscape of Tanbaly

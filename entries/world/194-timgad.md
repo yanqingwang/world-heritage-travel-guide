@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(iv)"
 lat: 35.484237
 lon: 6.468666
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:57Z"
 ---
 
 # 提姆加德 / Timgad

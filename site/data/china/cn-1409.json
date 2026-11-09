@@ -10,8 +10,8 @@
  "city_zh": "衢州市",
  "city_en": "Quzhou City",
  "name_zh": "衢州市根宫佛国文化旅游区",
- "name_en": "Quzhoushigengongfuguo Cultural Tourism Area",
- "name_en_source": "pinyin",
+ "name_en": "Binzhou",
+ "name_en_source": "wikipedia",
  "slug": "quzhoushigengongfuguo-1409",
  "lat": 29.139382,
  "lon": 118.399521,
@@ -162,10 +162,11 @@
  "hotels_nearby_30km": 5,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -184,7 +185,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -194,9 +195,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/滨州市"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

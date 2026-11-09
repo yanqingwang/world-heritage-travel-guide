@@ -2,7 +2,7 @@
 id: "cn-1392"
 dataset: "china_5a"
 name_zh: "临沂市萤火虫水洞•地下大峡谷旅游区"
-name_en: "Tianshandaxiagu Tourist Area"
+name_en: "Tianshan Grand Canyon"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shandong"
 city_en: "Linyi"
 lat: 35.715492
 lon: 118.458368
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 临沂市萤火虫水洞•地下大峡谷旅游区 / Tianshandaxiagu Tourist Area
+# 临沂市萤火虫水洞•地下大峡谷旅游区 / Tianshan Grand Canyon
 
 > 山东省 · 临沂市 · 地质奇观
 
@@ -34,9 +34,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Shandong Underground Grand Canyon is a unique cave kingdom and the core scenic spot of Yimeng underground wonders. The length of the canyon cave is 6,100 meters, of which 3,100 meters are currently under development. It is developed from huge karst fissures and is one of the famous extra-large karst caves in China.
-
-*English introduction: machine translation.*
+Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in Xinjiang Uygur Autonomous Region. It is a national forest park and also a 5A-level scenic spot in China.More than 40 kilometers from Ürümqi urban area, the total area of the scenic spot is 1038.48 square kilometers, the average altitude is more than 2000 meters, and the average annual temperature is 4-6 °C.
 
 ## 交通 / Transport
 
@@ -58,7 +56,7 @@ Shandong Underground Grand Canyon is a unique cave kingdom and the core scenic s
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 

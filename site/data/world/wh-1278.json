@@ -3,7 +3,7 @@
  "unesco_id": "1278",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 930,
+ "popularity_rank": 893,
  "popularity_score": null,
  "country": "KP",
  "country_zh": "朝鲜民主主义人民共和国",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "KP-15",
+ "subdivision_zh": "开城特级市",
+ "subdivision_en": "Kaesong",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "开城历史古迹",
  "name_zh_source": "curated",
  "name_en": "Historic Monuments and Sites in Kaesong",
@@ -160,5 +160,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

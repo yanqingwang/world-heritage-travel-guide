@@ -2,7 +2,7 @@
 id: "cn-1409"
 dataset: "china_5a"
 name_zh: "衢州市根宫佛国文化旅游区"
-name_en: "Quzhoushigengongfuguo Cultural Tourism Area"
+name_en: "Binzhou"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Quzhou City"
 lat: 29.139382
 lon: 118.399521
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 衢州市根宫佛国文化旅游区 / Quzhoushigengongfuguo Cultural Tourism Area
+# 衢州市根宫佛国文化旅游区 / Binzhou
 
 > 浙江省 · 衢州市 · 皇家园林
 
@@ -54,9 +54,10 @@ The tourist area covers six main categories: local landscape, water scenery, rui
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/滨州市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

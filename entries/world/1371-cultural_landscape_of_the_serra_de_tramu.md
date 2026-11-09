@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iv)(v)"
 lat: 39.73083
 lon: 2.69472
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:04Z"
 ---
 
 # 特拉蒙塔那山区文化景观 / Cultural Landscape of the Serra de Tramuntana

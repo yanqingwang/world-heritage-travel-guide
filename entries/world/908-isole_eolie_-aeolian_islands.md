@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(viii)"
 lat: 38.496666666
 lon: 14.935833333
-updated_at: "2026-11-08T20:30:01Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 伊索莱约里（伊奥利亚群岛） / Isole Eolie (Aeolian Islands)

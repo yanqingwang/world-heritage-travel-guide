@@ -2,7 +2,7 @@
 id: "cn-1333"
 dataset: "china_5a"
 name_zh: "兴安盟阿尔山-柴河旅游景区"
-name_en: "Xinganmengaershan-chaihe Scenic Area"
+name_en: "Aershanlinyeju Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 47.548408
 lon: 121.409598
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 兴安盟阿尔山-柴河旅游景区 / Xinganmengaershan-chaihe Scenic Area
+# 兴安盟阿尔山-柴河旅游景区 / Aershanlinyeju Scenic Area
 
 > 内蒙古自治区 · 呼伦贝尔市 · 山地风光
 
@@ -52,4 +52,5 @@ Aershan·Chaihe Scenic Area is located at the core of the economically developed
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/阿尔山林业局)
 - [OpenStreetMap](https://www.openstreetmap.org/)

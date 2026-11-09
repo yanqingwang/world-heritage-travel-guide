@@ -10,8 +10,8 @@
  "city_zh": "阿拉尔市",
  "city_en": "Alaer City",
  "name_zh": "兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区",
- "name_en": "Aral, Xinjiang",
- "name_en_source": "wikipedia",
+ "name_en": "Bingtuanalaershitakelamagan•sanwujiulv Cultural Tourism Area",
+ "name_en_source": "pinyin",
  "slug": "bingtuanalaershitakelamagan-sanwujiulv-319",
  "lat": 40.54896,
  "lon": 81.281538,
@@ -22,8 +22,8 @@
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
  "intro_zh": "阿拉尔市塔克拉玛干·三五九旅文化旅游区，是以三五九旅屯垦纪念馆为核心，展示兵团屯垦戍边红色文化以及接受爱国主义教育，了解阿拉尔市以及兵团建设成就的一个窗口，也是新疆建设兵团重要的红色旅游基地。其中纪念馆是为纪念1950年挺进新疆、解放新疆的新疆军区农业建设第一师而建。",
- "intro_en": "Aral (Uyghur: ئارال), also known as Alar (Chinese: 阿拉尔), is a sub-prefecture-level city surrounded by Aksu Prefecture in Xinjiang Uyghur Autonomous Region, China. Aral means \"island\" in Uyghur. Aral is the headquarter of the 1st Division of Xinjiang Production and Construction Corps and currently administered by the 1st Division. Aral implemented the \"division and city integration\" (师市合一, shī shì héyī) management system and shares the same leader group with the 1st Division.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Taklimakan 359th Brigade Cultural Tourism Zone in Alar City, with the 359th Brigade Reclamation Memorial Hall as its core, displays the red culture of the Xinjiang Xinjiang Construction Corps' reclamation and border garrison, as well as receiving patriotic education, and a window to understand the achievements of Alar City and the Corps. It is also an important red tourism base of the Xinjiang Construction Corps. The memorial hall was built to commemorate the First Agricultural Construction Division of the Xinjiang Military Region that advanced into Xinjiang and liberated Xinjiang in 1950.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/20231216_G217_Highway_in_Aral_01.jpg/1280px-20231216_G217_Highway_in_Aral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -128,11 +128,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -151,7 +150,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -161,13 +160,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/阿拉尔市"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

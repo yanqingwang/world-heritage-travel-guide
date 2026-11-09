@@ -135,17 +135,6 @@
  },
  "hotels": [
   {
-   "name": "黔西大酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 27.0124021,
-   "lon": 106.0386552,
-   "distance_km": 29.5,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "水西假日酒店",
    "name_en": "Shuixi Holiday Inn",
    "stars": null,
@@ -154,6 +143,17 @@
    "lon": 106.0349874,
    "distance_km": 29.7,
    "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "黔西大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 27.0124021,
+   "lon": 106.0386552,
+   "distance_km": 29.5,
+   "kind": "hotel",
    "source": "OpenStreetMap"
   }
  ],
@@ -201,5 +201,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

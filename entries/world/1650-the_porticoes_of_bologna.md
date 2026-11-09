@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iv)"
 lat: 44.491388888
 lon: 11.332777777
-updated_at: "2026-11-08T20:30:06Z"
+updated_at: "2026-11-09T12:01:06Z"
 ---
 
 # 博洛尼亚的拱廊 / The Porticoes of Bologna

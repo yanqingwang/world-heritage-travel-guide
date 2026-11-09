@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)(iv)"
 lat: -12.260913888
 lon: 44.531758333
-updated_at: "2026-11-08T20:30:06Z"
+updated_at: "2026-11-09T12:01:06Z"
 ---
 
 # 科摩罗历史苏丹国麦地那 / The Medinas of the Historic Sultanates of the Comoros

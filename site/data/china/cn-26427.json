@@ -10,8 +10,8 @@
  "city_zh": "通州区",
  "city_en": "Tongzhou District",
  "name_zh": "北京（通州）大运河文化旅游景区",
- "name_en": "Grand Canal (China)",
- "name_en_source": "wikipedia",
+ "name_en": "Tongzhouquwenhuaguan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "beijingtongzhoudayunhewenhua-26427",
  "lat": 39.920145,
  "lon": 116.674039,
@@ -22,8 +22,8 @@
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
  "intro_zh": "千年的漕运历史给通州这座运河之城留下了众多文物古迹和美景，在时代的发展中也构建了通州这座生态之城、运河之城、活力之城。",
- "intro_en": "The Grand Canal (Chinese: 大运河; pinyin: Dà yùnhé) is a system of interconnected canals linking various major rivers and lakes in North and East China, serving as an important waterborne transport infrastructure between the north and the south during Medieval and premodern China. It is the longest artificial waterway in the world and a World Heritage Site. The Grand Canal has undergone several route changes throughout history. Its current main stem, known as the Jing–Hang Grand Canal, is thought to extend for 1,776 km (1,104 mi) linking Beijing in the north to Hangzhou in the south, and is divided into 6 main subsections, with the southernmost sections remaining relatively unchanged over time. The Jiangnan Canal starts from the Qiantang River at Hangzhou's Jianggan District, looping around the east side of Lake Tai through Jiaxing, Suzhou and Wuxi, to the Yangtze at Zhenjiang; the Inner Canal from Yangzhou across the Yangtze from Zhenjiang, going through the Gaoyou Lake to join the Huai River at Huai'an, which for centuries was also its junction with the former course of the Yellow River; the Middle Canal from Huai'an to Luoma Lake at Suqian, then to the Nansi Lakes at Weishan; the L",
- "intro_en_source": "wikipedia",
+ "intro_en": "Thousands of years of water transportation history have left many cultural relics and beautiful scenery in Tongzhou, a canal city. With the development of the times, Tongzhou has also been built into an ecological city, a canal city, and a dynamic city.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/%E5%A4%A7%E9%81%8B%E6%B2%B3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -193,11 +193,10 @@
  "hotels_nearby_30km": 564,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
-  "ko": true,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -227,12 +226,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/大运河"
+   "url": "https://zh.wikipedia.org/wiki/通州区文化馆"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-1087"
 dataset: "china_5a"
 name_zh: "湘西州吉首市矮寨•十八洞•德夯大峡谷景区"
-name_en: "Yalucangbudaxiagu Scenic Area"
+name_en: "Aizhaizhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Xiangxi Tujia and Miao Autonomous Prefecture"
 lat: 28.345107
 lon: 109.593699
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 湘西州吉首市矮寨•十八洞•德夯大峡谷景区 / Yalucangbudaxiagu Scenic Area
+# 湘西州吉首市矮寨•十八洞•德夯大峡谷景区 / Aizhaizhen Scenic Area
 
 > 湖南省 · 湘西土家族苗族自治州 · 地质奇观
 
@@ -64,5 +64,5 @@ Aizhai·Shibadong·Dehang Grand Canyon Scenic Area is located in the core area o
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/雅鲁藏布大峡谷)
+- [Wikipedia](https://zh.wikipedia.org/wiki/矮寨镇)
 - [OpenStreetMap](https://www.openstreetmap.org/)

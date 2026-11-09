@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)(iii)(vi)"
 lat: 31.778214
 lon: 35.23191
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:57Z"
 ---
 
 # 耶路撒冷古城及其城墙 / Old City of Jerusalem and its Walls

@@ -2,7 +2,7 @@
 id: "cn-1320"
 dataset: "china_5a"
 name_zh: "赤峰市阿斯哈图石林景区"
-name_en: "Shilinfengjingmingshengqu Scenic Area"
+name_en: "Stone Forest"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Chifeng City"
 lat: 43.941128
 lon: 117.527176
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 赤峰市阿斯哈图石林景区 / Shilinfengjingmingshengqu Scenic Area
+# 赤峰市阿斯哈图石林景区 / Stone Forest
 
 > 内蒙古自治区 · 赤峰市 · 草原沙漠
 
@@ -59,7 +59,7 @@ Keshiketeng Stone Circle, also known as Ashatu Stone Forest, is a scenic spot wi
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

@@ -13,7 +13,7 @@ province_en: "Gansu"
 city_en: "Jiuquan City"
 lat: 40.102448
 lon: 94.681563
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 酒泉市鸣沙山月牙泉景区 / Crescent Lake (Dunhuang)

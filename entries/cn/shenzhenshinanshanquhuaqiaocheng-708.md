@@ -2,7 +2,7 @@
 id: "cn-708"
 dataset: "china_5a"
 name_zh: "深圳市南山区华侨城旅游度假区"
-name_en: "Nanshan, Shenzhen"
+name_en: "Shenzhenshinanshanquhuaqiaocheng Tourist Resort"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Shenzhen"
 lat: 22.543555
 lon: 113.989928
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 深圳市南山区华侨城旅游度假区 / Nanshan, Shenzhen
+# 深圳市南山区华侨城旅游度假区 / Shenzhenshinanshanquhuaqiaocheng Tourist Resort
 
 > 广东省 · 深圳市 · 主题乐园
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Nanshan District (Chinese: 南山区; pinyin: Nánshān Qū; Cantonese Jyutping: Naam4 Saan1 Keoi1) is one of the nine districts comprising the city of Shenzhen in Guangdong province, China. It encompasses the southwest area of the Shenzhen Special Economic Zone, with a population of 1.08 million. In 2025, the district of Nanshan's local GDP output exceeded 1,000 billion Chinese Yuan or 143.7 billion US dollars, an economy slightly larger than that of Uzbekistan or Bulgaria. The region has an established tourism industry and is home to several sightseeing locations, as well as multiple seaside parks such as the Shenzhen Bay Park and the Shenzhen Talent Park. Its tallest building is the 393-metre (1,289 ft) China Resources Headquarters. It is known for being the home of Shenzhen High-Tech Industrial Park, which comprises some of China's largest technology companies and the establishments of well-known international companies, as well as being the nation's richest district of a city-level municipality. The district has some of the most expensive neighbourhoods in China in terms of real estate prices.
+With the four major theme parks of Splendid China, China Folk Culture Village, Window of the World and Happy Valley as its core, OCT brings together a relatively concentrated group of cultural theme parks, cultural themed hotels and cultural and art facilities in China. It is one of the first batch of national civilized scenic tourist areas and national cultural industry demonstration parks.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -75,10 +77,10 @@ Nanshan District (Chinese: 南山区; pinyin: Nánshān Qū; Cantonese Jyutping:
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/南山区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/深圳市南山实验教育集团华侨城高级中学)
 - [OpenStreetMap](https://www.openstreetmap.org/)

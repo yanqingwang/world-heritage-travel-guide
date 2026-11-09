@@ -13,7 +13,7 @@ province_en: "Hubei"
 city_en: "Yichang"
 lat: 30.930935
 lon: 111.329026
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 宜昌市三峡大瀑布景区 / Sanxiadapubu Scenic Area
@@ -50,11 +50,11 @@ The Three Gorges Falls is located within the Yangtze Three Gorges National Geopa
 
 ## 附近酒店 / Nearby hotels
 
-- **宜昌富力皇冠假日酒店** — 27.8 km — chain — Crowne Plaza
-- **山楂树云裳酒店** — 18.0 km — hotel
-- **百里荒帐篷酒店** — 18.0 km — hotel
 - **Le Méridien** — 19.1 km — chain — Le Méridien
-- **Longquan Hotel** — 19.2 km — hotel — Longquan Hotel
+- **宜昌三峡艾美酒店** — 19.2 km — chain — Le Méridien
+- **全季酒店** — 27.8 km — chain — Ji Hotel · 全季酒店
+- **宜昌富力皇冠假日酒店** — 27.8 km — chain — Crowne Plaza
+- **温德姆至尊酒店** — 27.9 km — chain — Wyndham Grand Yichang Riverside · Wyndham
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

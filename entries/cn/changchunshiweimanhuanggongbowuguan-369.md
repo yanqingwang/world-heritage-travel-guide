@@ -2,7 +2,7 @@
 id: "cn-369"
 dataset: "china_5a"
 name_zh: "长春市伪满皇宫博物馆"
-name_en: "Changchun"
+name_en: "Changchunshiweimanhuanggong Museum"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jilin"
 city_en: "Changchun"
 lat: 43.912045
 lon: 125.357554
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 长春市伪满皇宫博物馆 / Changchun
+# 长春市伪满皇宫博物馆 / Changchunshiweimanhuanggong Museum
 
 > 吉林省 · 长春市 · 历史遗址
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Changchun is the capital and largest city of Jilin Province, China, on the Songliao Plain. Changchun is administered as a sub-provincial city, comprising seven districts, one county and three county-level cities. At the 2020 census of China, Changchun had a population of 9,066,906. Changchun's metro area, comprising five districts and one development area, had a population of 5,019,477. Shuangyang and Jiutai districts are not urbanized yet. It is one of the biggest cities in Northeast China, along with Shenyang, Dalian and Harbin. The name of the city means "long spring" in Chinese. Between 1932 and 1945, Changchun was renamed Xinjing (Chinese: 新京; pinyin: Xīnjīng; lit. 'new capital') or Hsinking by the Kwantung Army as the capital of the Imperial Japanese puppet state of Manchukuo, occupying modern Northeast China. After the foundation of the People's Republic of China in 1949, Changchun was established as the provincial capital of Jilin in 1954. Known locally as China's "City of Automobiles", Changchun is an important industrial base with a particular focus on the automotive sector. Because of its key role in the domestic automobile industry, Changchun was sometimes referred to a
+The Imperial Palace Museum of the Puppet Manchukuo is the former site of the palace where the last emperor of China, Aisin Gioro Puyi, proclaimed himself the emperor of "Manchukuo". It is a historical witness of the fourteen years of Japanese colonial rule in Northeast China. It is also a landmark building complex in the urban changes of Changchun in modern times. The museum forms a pattern of palace site museum + tourist attraction. The scenic spot is planned into four major functional areas: palace core area, museum area, leisure area and creative block.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Changchun is the capital and largest city of Jilin Province, China, on the Songl
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/长春市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

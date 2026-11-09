@@ -2,7 +2,7 @@
 id: "cn-775"
 dataset: "china_5a"
 name_zh: "南平市武夷山风景名胜区"
-name_en: "Nanpingshiwuyishan Scenic and Historic Area"
+name_en: "Huanglong Scenic and Historic Interest Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Fujian"
 city_en: "Nanping"
 lat: 27.668108
 lon: 117.963042
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 南平市武夷山风景名胜区 / Nanpingshiwuyishan Scenic and Historic Area
+# 南平市武夷山风景名胜区 / Huanglong Scenic and Historic Interest Area
 
 > 福建省 · 南平市 · 山地风光
 
@@ -38,9 +38,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Wuyi Mountain is located in the northern part of Fujian, China. It is known as the "Blue Water Mountain" and "The Beautiful Southeast". It is one of the first batch of national key scenic spots. Wuyi Mountain is home to the most complete, typical and largest central subtropical primary forest ecosystem in the world at the same latitude. The main attractions include Tianyou Peak, Taoyuan Cave, Wuyi Palace, Dawang Peak, Yunu Peak, Huxiao Rock, Yixiantian, Tianxin Temple, Lotus Peak and Yulin Pavilion.
-
-*English introduction: machine translation.*
+Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.
 
 ## 交通 / Transport
 
@@ -64,7 +62,7 @@ Wuyi Mountain is located in the northern part of Fujian, China. It is known as t
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

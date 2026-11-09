@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(vi)"
 lat: 29.976
 lon: 31.1304
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:57Z"
 ---
 
 # 孟菲斯及其墓地金字塔 / Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur

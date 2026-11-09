@@ -2,7 +2,7 @@
 id: "cn-1247"
 dataset: "china_5a"
 name_zh: "喀斯特旅游区"
-name_en: "Wulong Karst"
+name_en: "Kasite Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Chongqing"
 city_en: "Wulong County"
 lat: 29.460274
 lon: 107.74164
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 喀斯特旅游区 / Wulong Karst
+# 喀斯特旅游区 / Kasite Tourist Area
 
 > 重庆市 · 武隆县 · 历史遗址
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Wulong Karst (Chinese: 武隆喀斯特) is a karst landscape located within the borders of Wulong District, Chongqing Municipality, People's Republic of China. It is divided into three areas containing the Three Natural Bridges, the Qingkou Tiankeng (箐口天坑) and Furong Cave respectively. It is a part of the Wulong Karst National Geology Park as well as part of the South China Karst, a UNESCO World Heritage Site.
+Chongqing Wulong Karst Tourism Area consists of three parts: Tiansheng Sanqiao, Fairy Mountain and Furong Cave. Tiansheng Sanqiao is located in the south of Fairy Mountain, between Fairy Mountain and Wulong County; Fairy Mountain is located in Fairy Mountain Town, Wulong County, in the Wuling Mountains in eastern Chongqing; Furong Cave is located on the bank of Furong River 4 kilometers away from Jiangkou Town, Wulong County.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -72,10 +74,9 @@ The Wulong Karst (Chinese: 武隆喀斯特) is a karst landscape located within 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/武隆喀斯特)
 - [OpenStreetMap](https://www.openstreetmap.org/)

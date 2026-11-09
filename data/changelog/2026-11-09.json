@@ -1,0 +1,3271 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T12:01:10Z",
+ "counts": {
+  "china": 359,
+  "world": 1213
+ },
+ "added": [],
+ "removed": [],
+ "changed": [
+  {
+   "id": "cn-1283",
+   "name": "故宫博物院",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26564",
+   "name": "阿克苏地区天山托木尔景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26563",
+   "name": "固原市六盘山红军长征旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26562",
+   "name": "甘南州冶力关旅游区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26561",
+   "name": "咸阳市乾陵景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26559",
+   "name": "成都市天台山景区",
+   "fields": [
+    "hotels",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26558",
+   "name": "崇左市花山岩画景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26556",
+   "name": "河源市万绿湖风景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26552",
+   "name": "淄博市周村古商城景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26551",
+   "name": "金华市双龙风景旅游区",
+   "fields": [
+    "hotels",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26550",
+   "name": "齐齐哈尔市扎龙生态旅游区",
+   "fields": [
+    "hotels",
+    "images",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26549",
+   "name": "白城市大安嫩江湾旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26548",
+   "name": "呼和浩特市老牛湾黄河大峡谷旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26547",
+   "name": "太原市晋祠天龙山景区",
+   "fields": [
+    "hotels",
+    "images"
+   ]
+  },
+  {
+   "id": "cn-26546",
+   "name": "衡水市衡水湖旅游景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-26447",
+   "name": "吴忠市青铜峡黄河大峡谷旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26445",
+   "name": "腾冲市和顺古镇景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26444",
+   "name": "阿坝州四姑娘山景区",
+   "fields": [
+    "hotels",
+    "images"
+   ]
+  },
+  {
+   "id": "cn-26443",
+   "name": "武陵山大裂谷景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26441",
+   "name": "柳州市程阳八寨景区",
+   "fields": [
+    "hotels",
+    "images"
+   ]
+  },
+  {
+   "id": "cn-26440",
+   "name": "湘西州凤凰古城旅游区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26436",
+   "name": "厦门市厦门园林植物园景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26435",
+   "name": "滁州市琅琊山景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26434",
+   "name": "丽水市云和梯田景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26433",
+   "name": "连云港市连岛景区",
+   "fields": [
+    "hotels",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26430",
+   "name": "本溪市五女山景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26429",
+   "name": "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区",
+   "fields": [
+    "hotels",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26428",
+   "name": "唐山市南湖·开滦旅游景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26427",
+   "name": "北京（通州）大运河文化旅游景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26330",
+   "name": "黄河壶口瀑布旅游区(陕西省延安市·山西省临汾市)",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26328",
+   "name": "昌吉回族自治州江布拉克景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-26326",
+   "name": "毕节市织金洞景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26325",
+   "name": "成都市安仁古镇景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26322",
+   "name": "宜昌市三峡大瀑布景区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26321",
+   "name": "信阳市鸡公山景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-26320",
+   "name": "济宁市微山湖旅游区",
+   "fields": [
+    "hotels"
+   ]
+  },
+  {
+   "id": "cn-26318",
+   "name": "台州市台州府城文化旅游区",
+   "fields": [
+    "hotels",
+    "images"
+   ]
+  },
+  {
+   "id": "cn-26271",
+   "name": "长治市太行山大峡谷八泉峡景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1459",
+   "name": "宜春市袁州区明月山旅游区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1458",
+   "name": "赣州市瑞金市共和国摇篮景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1457",
+   "name": "景德镇市昌江区古窑民俗博览区",
+   "fields": [
+    "hotels",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1456",
+   "name": "抚州市资溪县大觉山景区",
+   "fields": [
+    "hotels",
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1455",
+   "name": "上饶市婺源县江湾景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1454",
+   "name": "上饶市弋阳县龟峰景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1453",
+   "name": "南昌市东湖区滕王阁旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1452",
+   "name": "鹰潭市贵溪市龙虎山风景名胜区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1451",
+   "name": "萍乡市芦溪县萍乡武功山景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1449",
+   "name": "九江市永修县庐山西海景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1446",
+   "name": "东方明珠广播电视塔",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1444",
+   "name": "九江市庐山市庐山风景名胜区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1443",
+   "name": "中国共产党一大•二大•四大纪念馆景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1439",
+   "name": "承德市承德避暑山庄及周围寺庙景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1438",
+   "name": "保定市野三坡景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1437",
+   "name": "石嘴山市沙湖旅游景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1436",
+   "name": "石家庄市西柏坡景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1435",
+   "name": "银川市水洞沟旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1434",
+   "name": "唐山市清东陵景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1433",
+   "name": "银川市宁夏镇北堡西部影视城",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1432",
+   "name": "邯郸市娲皇宫景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1431",
+   "name": "邯郸市广府古城景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1430",
+   "name": "保定市白石山景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1427",
+   "name": "济宁市明故城三孔旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1421",
+   "name": "宁波市溪口-滕头旅游景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1415",
+   "name": "济南市天下第一泉景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1414",
+   "name": "杭州市西溪湿地旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1409",
+   "name": "衢州市根宫佛国文化旅游区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1408",
+   "name": "潍坊市青州古城景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1396",
+   "name": "嘉兴市西塘古镇旅游景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1393",
+   "name": "衢州市江郎山•廿八都旅游区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1392",
+   "name": "临沂市萤火虫水洞•地下大峡谷旅游区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1376",
+   "name": "温州市刘伯温故里景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1370",
+   "name": "安顺市西秀区龙宫景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1365",
+   "name": "鄂尔多斯市响沙湾旅游景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1350",
+   "name": "呼伦贝尔市中俄边境旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1336",
+   "name": "黔南布依族苗族自治州荔波县樟江景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1333",
+   "name": "兴安盟阿尔山-柴河旅游景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1320",
+   "name": "赤峰市阿斯哈图石林景区",
+   "fields": [
+    "images",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1300",
+   "name": "黔东南州镇远县镇远古城旅游景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1291",
+   "name": "遵义市赤水市赤水丹霞旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1275",
+   "name": "天坛公园",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1272",
+   "name": "大足石刻景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1266",
+   "name": "颐和园",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1247",
+   "name": "喀斯特旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1242",
+   "name": "八达岭—慕田峪长城旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1238",
+   "name": "桃花源旅游景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1231",
+   "name": "明十三陵景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1227",
+   "name": "万盛黑山谷-龙鳞石海风景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1222",
+   "name": "金佛山景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1218",
+   "name": "北京奥林匹克公园",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1211",
+   "name": "四面山景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1187",
+   "name": "衡阳市衡山旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1183",
+   "name": "张家界市武陵源-天门山旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1177",
+   "name": "岳阳市岳阳楼-君山岛景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1168",
+   "name": "青海湖风景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1160",
+   "name": "湘潭市韶山旅游区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1126",
+   "name": "邵阳市崀山景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-1116",
+   "name": "株洲市炎帝陵景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1110",
+   "name": "常德市桃花源旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1108",
+   "name": "西安市秦始皇帝陵博物院景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-1091",
+   "name": "西安市华清宫景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1087",
+   "name": "湘西州吉首市矮寨•十八洞•德夯大峡谷景区",
+   "fields": [
+    "images",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1080",
+   "name": "延安市黄帝陵景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1016",
+   "name": "宝鸡市法门文化景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-1004",
+   "name": "杭州市千岛湖风景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-887",
+   "name": "平凉市崆峒山风景名胜区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-875",
+   "name": "天水市麦积山景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-870",
+   "name": "鞍山市千山景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-858",
+   "name": "盘锦市红海滩风景廊道景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-854",
+   "name": "酒泉市鸣沙山月牙泉景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-847",
+   "name": "大同市云冈石窟景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-837",
+   "name": "张掖市七彩丹霞景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-835",
+   "name": "忻州市五台山风景名胜区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-825",
+   "name": "晋城市皇城相府生态文化旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-812",
+   "name": "临夏州炳灵寺世界文化遗产旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-803",
+   "name": "晋中市绵山风景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-786",
+   "name": "厦门市鼓浪屿风景名胜区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-778",
+   "name": "晋中市平遥古城景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-775",
+   "name": "南平市武夷山风景名胜区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-763",
+   "name": "三明市泰宁风景旅游区",
+   "fields": [
+    "images",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-731",
+   "name": "泉州市清源山风景名胜区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-708",
+   "name": "深圳市南山区华侨城旅游度假区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-688",
+   "name": "深圳市龙华区观澜湖休闲旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-665",
+   "name": "广州市白云区白云山景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-656",
+   "name": "清远市连州市地下河旅游景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-649",
+   "name": "韶关市仁化县丹霞山景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-637",
+   "name": "佛山市南海区西樵山景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-632",
+   "name": "拉萨市布达拉宫景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-620",
+   "name": "佛山市顺德区长鹿旅游休博园",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-618",
+   "name": "拉萨市大昭寺景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-606",
+   "name": "惠州市博罗县罗浮山景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-563",
+   "name": "昆明市石林风景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-539",
+   "name": "西双版纳州中科院西双版纳热带植物园",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-521",
+   "name": "中山市孙中山故里旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-515",
+   "name": "惠州市惠城区惠州西湖旅游景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-509",
+   "name": "肇庆市端州区星湖旅游景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-507",
+   "name": "大理州崇圣寺三塔文化旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-500",
+   "name": "江门市开平市开平碉楼文化旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-495",
+   "name": "苏州市金鸡湖旅游区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-494",
+   "name": "迪庆州普达措国家公园",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-487",
+   "name": "南通市濠河风景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-480",
+   "name": "昆明市昆明世博园景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-474",
+   "name": "无锡市鼋头渚旅游风景区",
+   "fields": [
+    "images",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-446",
+   "name": "常州市天目湖景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-443",
+   "name": "苏州市沙家浜-虞山尚湖旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-442",
+   "name": "郑州市嵩山少林景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-437",
+   "name": "镇江市茅山景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-435",
+   "name": "洛阳市龙门石窟景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-432",
+   "name": "淮安市周恩来故里景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-424",
+   "name": "盐城市中华麋鹿园景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-421",
+   "name": "徐州市云龙湖景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-416",
+   "name": "连云港市花果山景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-407",
+   "name": "焦作市云台山-神农山-青天河风景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-404",
+   "name": "常州市春秋淹城旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-402",
+   "name": "无锡市惠山古镇景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-391",
+   "name": "崇左市德天跨国瀑布景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-390",
+   "name": "百色市百色起义纪念园景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-383",
+   "name": "平顶山市尧山-中原大佛景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-381",
+   "name": "保亭县海南槟榔谷黎苗文化旅游区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-376",
+   "name": "黑河市五大连池景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-374",
+   "name": "南阳市西峡恐龙遗迹园-伏牛山-老界岭旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-372",
+   "name": "驻马店市嵖岈山旅游景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-369",
+   "name": "长春市伪满皇宫博物馆",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-368",
+   "name": "安阳市红旗渠-太行大峡谷旅游景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-367",
+   "name": "延边朝鲜族自治州长白山景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-366",
+   "name": "长春市净月潭景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-365",
+   "name": "长春市长影世纪城景区",
+   "fields": [
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-363",
+   "name": "延边州六鼎山文化旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-362",
+   "name": "商丘市芒砀山汉文化旅游景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-360",
+   "name": "通化市高句丽文物古迹旅游景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-355",
+   "name": "昌吉回族自治州天山天池风景名胜区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-350",
+   "name": "阿勒泰地区喀纳斯景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-349",
+   "name": "伊犁哈萨克自治州那拉提旅游风景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-348",
+   "name": "阿勒泰地区可可托海景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-346",
+   "name": "喀什地区金湖杨景区",
+   "fields": [
+    "images",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-344",
+   "name": "南京市夫子庙-秦淮风光带",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-343",
+   "name": "巴音郭楞蒙古自治州博斯腾湖景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-341",
+   "name": "扬州市瘦西湖风景区",
+   "fields": [
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-339",
+   "name": "苏州市同里古镇景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-338",
+   "name": "乌鲁木齐市天山大峡谷",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-337",
+   "name": "常州市环球恐龙城休闲旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-331",
+   "name": "巴音郭楞蒙古自治州巴音布鲁克景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-330",
+   "name": "黄山市皖南古村落-西递宏村",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-323",
+   "name": "黄山市古徽州文化旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-321",
+   "name": "合肥市三河古镇景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-320",
+   "name": "芜湖市方特旅游区",
+   "fields": [
+    "images",
+    "intro_en"
+   ]
+  },
+  {
+   "id": "cn-319",
+   "name": "兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-318",
+   "name": "六安市万佛湖风景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-317",
+   "name": "马鞍山市长江采石矶文化生态旅游区",
+   "fields": [
+    "images",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-316",
+   "name": "博尔塔拉蒙古自治州赛里木湖景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-315",
+   "name": "武汉市黄鹤楼公园",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-314",
+   "name": "宜昌市三峡大坝-屈原故里文化旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-313",
+   "name": "成都市青城山-都江堰旅游景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-312",
+   "name": "十堰市武当山风景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-309",
+   "name": "乐山市乐山大佛景区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-306",
+   "name": "阿坝州黄龙风景名胜区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-304",
+   "name": "广安市邓小平故里旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-302",
+   "name": "南充市阆中古城旅游景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-301",
+   "name": "湖北省武汉市东湖景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-300",
+   "name": "武汉市木兰文化生态旅游区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-298",
+   "name": "恩施州恩施大峡谷景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-297",
+   "name": "阿坝州汶川特别旅游区",
+   "fields": [
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-292",
+   "name": "南充市朱德故里景区",
+   "fields": [
+    "images",
+    "intro_en",
+    "name_en"
+   ]
+  },
+  {
+   "id": "cn-290",
+   "name": "桂林市漓江风景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "cn-288",
+   "name": "雅安市碧峰峡旅游景区",
+   "fields": [
+    "images"
+   ]
+  },
+  {
+   "id": "wh-18",
+   "name": "拉利贝拉岩石教堂",
+   "fields": [
+    "hotels",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-19",
+   "name": "贡德尔地区的法西尔盖比城堡及古建筑",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-26",
+   "name": "戈雷岛",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-29",
+   "name": "克拉科夫历史中心",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-30",
+   "name": "华沙历史中心",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-36",
+   "name": "突尼斯的阿拉伯人聚居区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-38",
+   "name": "杰姆的圆形竞技场",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-58",
+   "name": "奥尔内斯木构教堂",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-59",
+   "name": "卑尔根市布吕根区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-63",
+   "name": "维龙加国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-71",
+   "name": "艾伯塔省恐龙公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-84",
+   "name": "韦兹莱教堂和山丘",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-89",
+   "name": "开罗古城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-98",
+   "name": "布里特威斯湖国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-113",
+   "name": "恰高•占比尔",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-115",
+   "name": "伊斯法罕王侯广场",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-129",
+   "name": "科潘玛雅古迹遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-130",
+   "name": "哈尔•萨夫列尼地下宫殿",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-131",
+   "name": "瓦莱塔古城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-134",
+   "name": "红杉国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-138",
+   "name": "摩亨佐达罗考古遗迹",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-139",
+   "name": "塔克希拉",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-158",
+   "name": "美洲野牛涧地带",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-162",
+   "name": "亚眠大教堂",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-168",
+   "name": "施佩耶尔大教堂",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-169",
+   "name": "维尔茨堡宫及宫廷花园和广场",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-179",
+   "name": "阿杰尔的塔西利",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-185",
+   "name": "阿尔达布拉环礁",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-188",
+   "name": "姆扎卜山谷",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-194",
+   "name": "提姆加德",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-200",
+   "name": "阿努拉德普勒圣城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-201",
+   "name": "波隆纳鲁沃古城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-232",
+   "name": "德里的胡马雍陵",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-233",
+   "name": "德里的顾特卜塔及其古建筑",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-249",
+   "name": "默哈伯利布勒姆古迹群",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-250",
+   "name": "朱罗王朝现存的神庙",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-256",
+   "name": "伍德布法罗国家公园",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-264",
+   "name": "巴塔利亚修道院",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-268",
+   "name": "圣加尔修道院",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-284",
+   "name": "奇特旺皇家国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-300",
+   "name": "魁北克古城区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-316",
+   "name": "布尔戈斯大教堂",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-322",
+   "name": "帕哈尔普尔的佛教毗诃罗遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-330",
+   "name": "夏文考古遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-338",
+   "name": "马纳斯野生动植物保护区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-340",
+   "name": "凯奥拉德奥国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-345",
+   "name": "卡尔卡松历史城墙要塞",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-356",
+   "name": "伊斯坦布尔历史区域",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-364",
+   "name": "大津巴布韦国家纪念地",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-366",
+   "name": "昌昌城考古地区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-370",
+   "name": "达勒姆大教堂和城堡",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-372",
+   "name": "斯塔德利皇家公园和喷泉修道院遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-395",
+   "name": "比萨大教堂广场",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-398",
+   "name": "蒙特堡",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-401",
+   "name": "霍洛克古村落及其周边",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-409",
+   "name": "夏威夷火山国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-419",
+   "name": "格罗斯莫讷国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-421",
+   "name": "汤加里罗国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-429",
+   "name": "新拉纳克",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-430",
+   "name": "罗马帝国边界",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-447",
+   "name": "乌卢鲁－卡塔曲塔国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-448",
+   "name": "内姆鲁特达格",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-452",
+   "name": "孙德尔本斯国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-482",
+   "name": "瓜纳托历史名城及周围矿藏",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-499",
+   "name": "凯鲁万",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-502",
+   "name": "维甘历史古城",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-511",
+   "name": "米斯特拉斯考古遗址",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-526",
+   "name": "圣多明各殖民城市",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-558",
+   "name": "斯科斯累格加登公墓",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-559",
+   "name": "德罗特宁霍尔摩皇宫",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-561",
+   "name": "丹布勒金寺",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-565",
+   "name": "阿尔及尔城堡",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-570",
+   "name": "布特林特",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-576",
+   "name": "阿育他亚(大城)历史城及相关城镇",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-583",
+   "name": "苏奥曼斯纳城堡",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-586",
+   "name": "罗赫达斯要塞",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-588",
+   "name": "多瑙河三角洲",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-599",
+   "name": "莫桑比克岛",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-609",
+   "name": "科莫多国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-631",
+   "name": "埃尔塔津古城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-632",
+   "name": "索洛维茨基群岛的历史建筑群",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-652",
+   "name": "普林塞萨港地下河国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-653",
+   "name": "图巴塔哈群礁",
+   "fields": [
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-657",
+   "name": "谢尔吉圣三一大修道院",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-659",
+   "name": "博恩河河曲考古遗址群",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-682",
+   "name": "布恩迪难以穿越的国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-688",
+   "name": "古京都遗址（京都、宇治和大津城）",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-695",
+   "name": "罗斯基勒大教堂",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-701",
+   "name": "卡奈依马国家公园",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-734",
+   "name": "白川乡和五屹山历史村落",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-758",
+   "name": "潘诺恩哈尔姆千年修道院及其自然环境",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-764",
+   "name": "伯利兹堡礁保护区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-770",
+   "name": "米迪运河",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-780",
+   "name": "韦尔吉纳的考古遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-794",
+   "name": "沙格镇",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-803",
+   "name": "拉斯梅德拉斯",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-817",
+   "name": "华松古堡",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-830",
+   "name": "阿马尔菲海岸景观",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-836",
+   "name": "瓦卢比利斯考古遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-875",
+   "name": "塔拉科考古遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-885",
+   "name": "沙赫利苏伯兹历史中心",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-896",
+   "name": "柏林的博物馆岛",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-897",
+   "name": "瓦尔特堡城堡",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-908",
+   "name": "伊索莱约里（伊奥利亚群岛）",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-929",
+   "name": "拉古纳的圣克斯托瓦尔",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-948",
+   "name": "会安古镇",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-949",
+   "name": "圣子修道院",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-965",
+   "name": "里特维德-施罗德住宅",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-970",
+   "name": "瓦豪文化景观",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-975",
+   "name": "埃森的关税同盟煤矿工业区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-978",
+   "name": "科孚古城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-980",
+   "name": "喀山克里姆林宫",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-994",
+   "name": "库尔斯沙嘴",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1023",
+   "name": "弗兰格尔岛自然保护区",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1029",
+   "name": "多塞特和东德文海岸",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1040",
+   "name": "马萨达",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1042",
+   "name": "阿克古城",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1052",
+   "name": "布尔诺的图根哈特别墅",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1055",
+   "name": "拉穆古镇",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1056",
+   "name": "菩提伽耶的摩诃菩提寺",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1096",
+   "name": "特拉维夫白城——现代运动",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1133",
+   "name": "喀尔巴阡山脉及欧洲其它地区的原始山毛榉林",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1152",
+   "name": "平位利尔国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1161",
+   "name": "皮通山保护区",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1186",
+   "name": "鲸鱼峡谷",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1187",
+   "name": "斯特鲁维地理探测弧线",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1199",
+   "name": "库尼亚－乌尔根奇",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1211",
+   "name": "热那亚的新街和罗利宫殿体系",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1222",
+   "name": "比索顿古迹",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1242",
+   "name": "尼莎帕提亚要塞",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1259",
+   "name": "莫纳山",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1260",
+   "name": "迈赫迈德•巴什•索科罗维奇的古桥",
+   "fields": [
+    "hotels",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1269",
+   "name": "卡拉尔-苏佩圣城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1293",
+   "name": "瑪甸沙勒",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1298",
+   "name": "斯托克莱宫",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1299",
+   "name": "勒那河柱状岩自然公园",
+   "fields": [
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1303",
+   "name": "龐特卡薩魯岧水道",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1312",
+   "name": "海格力斯塔",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1326",
+   "name": "帕帕哈瑙莫夸基亚国家海洋保护区",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1328",
+   "name": "河内升龙皇城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1351",
+   "name": "皇家内陆大干线",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1361",
+   "name": "吉达历史古城（通往麦加之门）",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1366",
+   "name": "赛利米耶清真寺",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1397",
+   "name": "伊斯法罕聚礼清真寺",
+   "fields": [
+    "hotels",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1437",
+   "name": "埃尔比勒城堡",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1438",
+   "name": "长安名胜群",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1439",
+   "name": "南漢山城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1440",
+   "name": "布尔罕和乐敦圣山及其周围景观",
+   "fields": [
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1442",
+   "name": "丝绸之路：长安—天山廊道的路网",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1446",
+   "name": "施洗之地",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1456",
+   "name": "被焚之城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1459",
+   "name": "印加路网",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1483",
+   "name": "新加坡植物园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1495",
+   "name": "长崎地区隐藏的基督教遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1505",
+   "name": "卢特沙漠",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1510",
+   "name": "Revillagigedo群岛",
+   "fields": [
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1511",
+   "name": "姆班扎剛果",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1513",
+   "name": "干城章嘉国家公园",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1519",
+   "name": "阿弗罗狄西亚",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1551",
+   "name": "艾哈迈达巴德",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1560",
+   "name": "哈里发的阿尔扎哈拉古城",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1563",
+   "name": "哈萨绿洲，变迁的文化景观",
+   "fields": [
+    "hotels",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1569",
+   "name": "尼姆方形神殿",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1570",
+   "name": "特伦甘纳邦的卡卡提亚王朝卢德什瓦拉（拉玛帕）神庙",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1587",
+   "name": "川圹巨石缸遗址-石缸平原",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1590",
+   "name": "布拉加山上仁慈耶稣朝圣所",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1594",
+   "name": "卓瑞尔河岸天文台",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1613",
+   "name": "欧洲温泉疗养胜地",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1625",
+   "name": "科尔杜昂灯塔",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1634",
+   "name": "阿里卡和帕里纳科塔地区的新克罗文化聚落及木乃伊制作",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1642",
+   "name": "金刚山——海上钻石山",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1667",
+   "name": "贡开：林迦之城（荣耀之城）考古遗址",
+   "fields": [
+    "hotels",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1669",
+   "name": "戈尔迪翁",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1687",
+   "name": "古耶利哥城/苏丹台形遗址",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1725",
+   "name": "卡纳克和莫尔比昂海岸巨石林",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1739",
+   "name": "印度马拉塔军事景观",
+   "fields": [
+    "hotels",
+    "images",
+    "tier"
+   ]
+  },
+  {
+   "id": "wh-1769",
+   "name": "西迪布赛义德村",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  },
+  {
+   "id": "wh-1809",
+   "name": "塞巴斯蒂亚",
+   "fields": [
+    "hotels",
+    "images",
+    "tier",
+    "transport.ferry_terminals"
+   ]
+  }
+ ]
+}

@@ -2,7 +2,7 @@
 id: "cn-26271"
 dataset: "china_5a"
 name_zh: "长治市太行山大峡谷八泉峡景区"
-name_en: "Changzhi"
+name_en: "Tianshan Grand Canyon"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanxi"
 city_en: "Changzhi"
 lat: 35.952601
 lon: 113.452974
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 长治市太行山大峡谷八泉峡景区 / Changzhi
+# 长治市太行山大峡谷八泉峡景区 / Tianshan Grand Canyon
 
 > 山西省 · 长治市 · 度假休闲
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Changzhi (Chinese: 长治; pinyin: Chángzhì) is a prefecture-level city in the southeast of Shanxi Province, China, bordering the provinces of Hebei and Henan to the northeast and east, respectively. Historically, the city was one of the 36 administrative areas (see Administrative Divisions of Qin Dynasty) extant under the reign of Qin Shi Huang. Changzhi is a transportation centre in Shanxi. Transportation is facilitated by four controlled-access highways (Taiyuan-Changzhi, Changzhi-Jincheng, Changzhi-Linfen, and Changzhi-Handan); two railways (Taiyuan–Jiaozuo Railway and Handan–Changzhi Railway); three national highways (China National Highway 207, 208 and 309); and Changzhi Wangcun Airport (ITAT Code: CIH, ICAO Code: ZBCZ). Internal transportation also includes a bus and taxi network. The city is a rising commercial and industrial centre in the southeastern area of Shanxi. In 2011, its GDP ranked 1st out of 11 prefecture-level cities in the province. According to the latest census, in 2020 the city was home to 3,180,884 residents whom 1,214,940 lived in the built-up (or metro) area made of Luzhou and Shangdang Districts. The other two urban districts Tunliu and Lucheng are not conur
+Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in Xinjiang Uygur Autonomous Region. It is a national forest park and also a 5A-level scenic spot in China.More than 40 kilometers from Ürümqi urban area, the total area of the scenic spot is 1038.48 square kilometers, the average altitude is more than 2000 meters, and the average annual temperature is 4-6 °C.
 
 ## 交通 / Transport
 
@@ -72,10 +72,10 @@ Changzhi (Chinese: 长治; pinyin: Chángzhì) is a prefecture-level city in the
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/长治市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/天山大峡谷)
 - [OpenStreetMap](https://www.openstreetmap.org/)

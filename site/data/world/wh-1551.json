@@ -2,8 +2,8 @@
  "id": "wh-1551",
  "unesco_id": "1551",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 21,
+ "tier": "basic",
+ "popularity_rank": 964,
  "popularity_score": 571164,
  "country": "IN",
  "country_zh": "印度",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/%22Retreat%22%2C_Sarabhai_Residence%2C_Ahmedabad%2C_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "\"Retreat\", Sarabhai Residence, Ahmedabad, 1952.jpg",
-   "author": "Nathan Hughes Hamilton",
-   "license": "CC BY 2.0",
-   "credit": "https://www.flickr.com/photos/nat507/4424211520/",
-   "source": "https://commons.wikimedia.org/wiki/File:%22Retreat%22%2C_Sarabhai_Residence%2C_Ahmedabad%2C_1952.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/12297_%E2%80%93_Pune_Duronto_Express_Train_at_Ahmedabad%2C_Gujarat%2C_India_%282012%29.jpg/1280px-12297_%E2%80%93_Pune_Duronto_Express_Train_at_Ahmedabad%2C_Gujarat%2C_India_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "12297 – Pune Duronto Express Train at Ahmedabad, Gujarat, India (2012).jpg",
-   "author": "Nitinr708",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:12297_%E2%80%93_Pune_Duronto_Express_Train_at_Ahmedabad%2C_Gujarat%2C_India_%282012%29.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1901_Ahmedabadi_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "1901 Ahmedabadi Market.jpg",
-   "author": "Keystone View Company",
-   "license": "Public domain",
-   "credit": "https://www.loc.gov/item/2020681237/",
-   "source": "https://commons.wikimedia.org/wiki/File:1901_Ahmedabadi_Market.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_circus_near_Vishwakarma_Mandir_Gota_Road%2C_Ahmedabad%2C_Gujarat%2C_India_%282014%29.jpg/1280px-A_circus_near_Vishwakarma_Mandir_Gota_Road%2C_Ahmedabad%2C_Gujarat%2C_India_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A circus near Vishwakarma Mandir Gota Road, Ahmedabad, Gujarat, India (2014).jpg",
-   "author": "Amarjeetarc",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_circus_near_Vishwakarma_Mandir_Gota_Road%2C_Ahmedabad%2C_Gujarat%2C_India_%282014%29.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_1551.jpg",
+   "title": "Historic City of Ahmadabad",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1551",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1551",
@@ -122,106 +98,9 @@
   "nearest_airport_km": 8.3,
   "distance_beijing_km": 4515.7,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "Ahmedabad Junction",
-    "name_en": null,
-    "lat": 23.0263312,
-    "lon": 72.601,
-    "distance_km": 2.2,
-    "operator": "WR"
-   },
-   {
-    "name": "Maninagar",
-    "name_en": null,
-    "lat": 22.9986596,
-    "lon": 72.6114013,
-    "distance_km": 4.1,
-    "operator": "WR"
-   },
-   {
-    "name": "Asarva",
-    "name_en": null,
-    "lat": 23.0440925,
-    "lon": 72.6132157,
-    "distance_km": 4.2,
-    "operator": "WR"
-   },
-   {
-    "name": "Sabarmati Junction",
-    "name_en": null,
-    "lat": 23.0712603,
-    "lon": 72.5870272,
-    "distance_km": 5.5,
-    "operator": "WR"
-   },
-   {
-    "name": "Sabarmati",
-    "name_en": null,
-    "lat": 23.0770712,
-    "lon": 72.5890677,
-    "distance_km": 6.2,
-    "operator": "WR"
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Radisson Blu",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 23.0232906,
-   "lon": 72.5572097,
-   "distance_km": 2.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Pride Plaza",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 23.0381324,
-   "lon": 72.5145528,
-   "distance_km": 6.9,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "DoubleTree By Hilton Ahmedabad",
-   "name_en": null,
-   "stars": 5,
-   "brand": "DoubleTree",
-   "lat": 23.0284824,
-   "lon": 72.5015985,
-   "distance_km": 8.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Cama Hotel",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 23.0320349,
-   "lon": 72.5764614,
-   "distance_km": 1.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Park Plaza",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 23.0239202,
-   "lon": 72.5670516,
-   "distance_km": 1.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "IN",
   "country_zh": "印度",
@@ -292,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

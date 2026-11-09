@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(iii)(iv)"
 lat: 37.980738888
 lon: 38.740830555
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:00:59Z"
 ---
 
 # 内姆鲁特达格 / Nemrut Dağ

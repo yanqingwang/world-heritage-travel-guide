@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ix)"
 lat: 58.3715
 lon: -3.65845
-updated_at: "2026-11-08T20:30:06Z"
+updated_at: "2026-11-09T12:01:06Z"
 ---
 
 # 弗罗湿地区 / The Flow Country

@@ -13,7 +13,7 @@ province_en: "Jiangsu"
 city_en: "Lianyungang"
 lat: 34.65221
 lon: 119.27006
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 连云港市花果山景区 / Lianyungangshihuaguoshan Scenic Area
@@ -58,4 +58,5 @@ Huaguo Mountain is world-famous as the "Hometown of Sun Dasheng" described in th
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/朝阳街道 (连云港市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

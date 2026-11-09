@@ -2,7 +2,7 @@
 id: "cn-306"
 dataset: "china_5a"
 name_zh: "阿坝州黄龙风景名胜区"
-name_en: "Huanglong Scenic and Historic Interest Area"
+name_en: "Stone Forest"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Aba Tibetan and Qiang Autonomous Prefecture"
 lat: 32.748974
 lon: 103.839658
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 阿坝州黄龙风景名胜区 / Huanglong Scenic and Historic Interest Area
+# 阿坝州黄龙风景名胜区 / Stone Forest
 
 > 四川省 · 阿坝藏族羌族自治州 · 自然风光
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.
+The Stone Forest or Shilin (Chinese: 石林; pinyin: Shílín) is a notable set of limestone formations about 500 km2 in area located in Shilin Yi Autonomous County, Yunnan, China. The forest is approximately 90 km (56 mi) east of the provincial capital Kunming. The tall rocks appear to rise from the ground in a manner somewhat reminiscent of stalagmites, with many looking like petrified trees, thereby creating the illusion of a forest made of stone. Since 2007, two parts of the site, the Naigu Stone Forest (乃古石林) and Suogeyi Village (所各邑村), have been UNESCO World Heritage Sites as part of the South China Karst. The site is classified as a AAAAA-class tourist site.
 
 ## 交通 / Transport
 
@@ -78,5 +78,5 @@ Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huá
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/石林风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

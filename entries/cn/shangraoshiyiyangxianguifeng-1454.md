@@ -2,7 +2,7 @@
 id: "cn-1454"
 dataset: "china_5a"
 name_zh: "上饶市弋阳县龟峰景区"
-name_en: "Yiyang County, Jiangxi"
+name_en: "Shangraoshiyiyangxianguifeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 28.332988
 lon: 117.421056
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 上饶市弋阳县龟峰景区 / Yiyang County, Jiangxi
+# 上饶市弋阳县龟峰景区 / Shangraoshiyiyangxianguifeng Scenic Area
 
 > 江西省 · 上饶市 · 地质奇观
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Yiyang (simplified Chinese: 弋阳县; traditional Chinese: 弋陽縣; pinyin: Yìyáng Xiàn) is a county located in the center of the prefecture-level city of Shangrao, in the northeast of Jiangxi province, People's Republic of China. In 1999 it had a population of 359,164 inhabitants.
+Guifeng was developed in the late Cretaceous period 135 million years ago. It is a typical Danxia landform. It is named because there are countless pictographic stones that resemble turtles in the scenic area and the entire scenic area looks like a huge giant turtle from a distance.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Yiyang (simplified Chinese: 弋阳县; traditional Chinese: 弋陽縣; pinyin: Y
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/弋阳县)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-319"
 dataset: "china_5a"
 name_zh: "兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区"
-name_en: "Aral, Xinjiang"
+name_en: "Bingtuanalaershitakelamagan•sanwujiulv Cultural Tourism Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Alaer City"
 lat: 40.54896
 lon: 81.281538
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区 / Aral, Xinjiang
+# 兵团阿拉尔市塔克拉玛干•三五九旅文化旅游区 / Bingtuanalaershitakelamagan•sanwujiulv Cultural Tourism Area
 
 > 新疆维吾尔自治区 · 阿拉尔市 · 红色旅游
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Aral (Uyghur: ئارال), also known as Alar (Chinese: 阿拉尔), is a sub-prefecture-level city surrounded by Aksu Prefecture in Xinjiang Uyghur Autonomous Region, China. Aral means "island" in Uyghur. Aral is the headquarter of the 1st Division of Xinjiang Production and Construction Corps and currently administered by the 1st Division. Aral implemented the "division and city integration" (师市合一, shī shì héyī) management system and shares the same leader group with the 1st Division.
+The Taklimakan 359th Brigade Cultural Tourism Zone in Alar City, with the 359th Brigade Reclamation Memorial Hall as its core, displays the red culture of the Xinjiang Xinjiang Construction Corps' reclamation and border garrison, as well as receiving patriotic education, and a window to understand the achievements of Alar City and the Corps. It is also an important red tourism base of the Xinjiang Construction Corps. The memorial hall was built to commemorate the First Agricultural Construction Division of the Xinjiang Military Region that advanced into Xinjiang and liberated Xinjiang in 1950.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -68,10 +70,9 @@ Aral (Uyghur: ئارال), also known as Alar (Chinese: 阿拉尔), is a sub-pre
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/阿拉尔市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

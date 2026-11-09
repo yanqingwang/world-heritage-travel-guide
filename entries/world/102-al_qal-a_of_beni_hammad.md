@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(iii)"
 lat: 35.813888888
 lon: 4.793333333
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:57Z"
 ---
 
 # 贝尼•哈玛德的卡拉城 / Al Qal'a of Beni Hammad

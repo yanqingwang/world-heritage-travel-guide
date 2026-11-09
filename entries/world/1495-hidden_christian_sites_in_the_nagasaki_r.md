@@ -8,13 +8,13 @@ country: "JP"
 country_zh: "日本"
 country_en: "Japan"
 unesco_id: "1495"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "2018"
 criteria: "(iii)"
 lat: 32.802222
 lon: 128.903889
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 长崎地区隐藏的基督教遗址 / Hidden Christian Sites in the Nagasaki Region
@@ -26,6 +26,10 @@ updated_at: "2026-11-08T20:30:05Z"
 ![Nagasaki Oura C1378.jpg](https://commons.wikimedia.org/wiki/Special:FilePath/Nagasaki%20Oura%20C1378.jpg?width=1280)
 
 *Nagasaki Oura C1378.jpg · see Wikimedia Commons file page*
+
+![長崎と天草地方の潜伏キリシタン関連遺産インフォメーションデジタルサイネージ.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%E9%95%B7%E5%B4%8E%E3%81%A8%E5%A4%A9%E8%8D%89%E5%9C%B0%E6%96%B9%E3%81%AE%E6%BD%9C%E4%BC%8F%E3%82%AD%E3%83%AA%E3%82%B7%E3%82%BF%E3%83%B3%E9%96%A2%E9%80%A3%E9%81%BA%E7%94%A3%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8.jpg/1280px-%E9%95%B7%E5%B4%8E%E3%81%A8%E5%A4%A9%E8%8D%89%E5%9C%B0%E6%96%B9%E3%81%AE%E6%BD%9C%E4%BC%8F%E3%82%AD%E3%83%AA%E3%82%B7%E3%82%BF%E3%83%B3%E9%96%A2%E9%80%A3%E9%81%BA%E7%94%A3%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*長崎と天草地方の潜伏キリシタン関連遺産インフォメーションデジタルサイネージ.jpg · 出島商人 · CC BY-SA 4.0*
 
 ![Hidden Christian Sites in the Nagasaki Region](https://whc.unesco.org/uploads/sites/site_1495.jpg)
 
@@ -52,7 +56,22 @@ Located in the north-western part of Kyushu island, this serial property consist
 - ✈ **Fukue Airport (FUJ)** — 16.5 km
 - ✈ **Nagasaki Airport (NGS)** — 95.2 km
 - ✈ **Amakusa Airport (AXJ)** — 122.8 km
+- ⛴ **田の浦港** — 6.2 km
+- ⛴ **伊福貴** — 8.1 km
+- ⛴ **椛島港** — 8.8 km
+- ⛴ **本窯港** — 9.0 km
+- ⛴ **奥浦港** — 9.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **1369.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **五島第一ホテル** — 12.9 km — hotel
+- **ホテルダウンタウン** — 13.3 km — hotel — HOTEL DOWNTOWN
+- **ホテル カラリト五島列島** — 18.6 km — hotel
+- **し喜別館** — 28.3 km — hotel
+- **有川ビーチホテル　浦** — 28.3 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

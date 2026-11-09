@@ -2,7 +2,7 @@
 id: "cn-407"
 dataset: "china_5a"
 name_zh: "焦作市云台山-神农山-青天河风景区"
-name_en: "Qingtianhe Scenic Area"
+name_en: "Jiaozuoshiyuntaishan-shennongshan-qingtianhefeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Henan"
 city_en: "Jiaozuo"
 lat: 35.441412
 lon: 113.383373
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 焦作市云台山-神农山-青天河风景区 / Qingtianhe Scenic Area
+# 焦作市云台山-神农山-青天河风景区 / Jiaozuoshiyuntaishan-shennongshan-qingtianhefeng Scenic Area
 
 > 河南省 · 焦作市 · 主题乐园
 
@@ -57,5 +57,4 @@ The scenic area includes three themed scenic areas: Yuntai Mountain, Qingtian Ri
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/青天河)
 - [OpenStreetMap](https://www.openstreetmap.org/)

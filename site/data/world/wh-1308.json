@@ -3,7 +3,7 @@
  "unesco_id": "1308",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 936,
+ "popularity_rank": 899,
  "popularity_score": null,
  "country": "BR",
  "country_zh": "巴西",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "BR-RJ",
+ "subdivision_zh": "里约热内卢州",
+ "subdivision_en": "Rio de Janeiro",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "帕拉蒂和格兰德岛-文化与生物多样性",
  "name_zh_source": "unesco_official",
  "name_en": "Paraty and Ilha Grande – Culture and Biodiversity",
@@ -164,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

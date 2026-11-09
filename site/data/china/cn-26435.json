@@ -154,17 +154,6 @@
  },
  "hotels": [
   {
-   "name": "喜来登酒店",
-   "name_en": "Sheraton Chuzhou Hotel",
-   "stars": null,
-   "brand": null,
-   "lat": 32.2442174,
-   "lon": 118.3264305,
-   "distance_km": 5.6,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
    "name": "Wyndham Chuzhou Hotel",
    "name_en": "Wyndham Chuzhou Hotel",
    "stars": null,
@@ -172,6 +161,17 @@
    "lat": 32.2522149,
    "lon": 118.3294953,
    "distance_km": 5.1,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "喜来登酒店",
+   "name_en": "Sheraton Chuzhou Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.2442174,
+   "lon": 118.3264305,
+   "distance_km": 5.6,
    "kind": "chain",
    "source": "OpenStreetMap"
   },
@@ -253,5 +253,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

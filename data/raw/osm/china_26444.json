@@ -1,1 +1,87 @@
-{"hotels": [{"name": "悠然牧居智能酒店", "name_en": null, "stars": null, "brand": null, "lat": 30.9926462, "lon": 102.8322471, "distance_km": 4.9, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "MT.YUE Yueshan Holiday Hotel", "name_en": null, "stars": null, "brand": null, "lat": 30.9933941, "lon": 102.8364862, "distance_km": 4.9, "kind": "chain", "source": "OpenStreetMap"}, {"name": "夹金山庄", "name_en": "Jia Jin Villa", "stars": null, "brand": null, "lat": 30.9654919, "lon": 102.6382351, "distance_km": 18.9, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 3, "stations": [{"name": "四姑娘山", "name_en": null, "lat": 30.9924451, "lon": 102.8347257, "distance_km": 5.0, "operator": null, "high_speed": false}, {"name": "巴朗山", "name_en": null, "lat": 30.8876848, "lon": 102.914016, "distance_km": 18.7, "operator": null, "high_speed": false}, {"name": "邓生沟", "name_en": null, "lat": 30.89501, "lon": 103.005878, "distance_km": 23.7, "operator": null, "high_speed": false}, {"name": "卧龙", "name_en": null, "lat": 31.0518706, "lon": 103.2080726, "distance_km": 37.1, "operator": null, "high_speed": false}, {"name": "耿达", "name_en": null, "lat": 31.0808628, "lon": 103.3122458, "distance_km": 47.3, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:06Z"}
+{
+ "hotels": [
+  {
+   "name": "MT.YUE Yueshan Holiday Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9933941,
+   "lon": 102.8364862,
+   "distance_km": 4.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "悠然牧居智能酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.9926462,
+   "lon": 102.8322471,
+   "distance_km": 4.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "夹金山庄",
+   "name_en": "Jia Jin Villa",
+   "stars": null,
+   "brand": null,
+   "lat": 30.9654919,
+   "lon": 102.6382351,
+   "distance_km": 18.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "stations": [
+  {
+   "name": "四姑娘山",
+   "name_en": null,
+   "lat": 30.9924451,
+   "lon": 102.8347257,
+   "distance_km": 5.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "巴朗山",
+   "name_en": null,
+   "lat": 30.8876848,
+   "lon": 102.914016,
+   "distance_km": 18.7,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "邓生沟",
+   "name_en": null,
+   "lat": 30.89501,
+   "lon": 103.005878,
+   "distance_km": 23.7,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "卧龙",
+   "name_en": null,
+   "lat": 31.0518706,
+   "lon": 103.2080726,
+   "distance_km": 37.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "耿达",
+   "name_en": null,
+   "lat": 31.0808628,
+   "lon": 103.3122458,
+   "distance_km": 47.3,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:10Z"
+}

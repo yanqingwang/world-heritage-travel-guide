@@ -157,35 +157,35 @@
    "source": "OpenStreetMap"
   },
   {
-   "name": "厦门佳逸希尔顿格芮精选酒店",
-   "name_en": "Joyze Hotel Xiamen, Curio Collection By Hilton",
+   "name": "全季酒店",
+   "name_en": "Ji Hotel",
    "stars": null,
-   "brand": null,
-   "lat": 24.4321504,
-   "lon": 118.1162657,
+   "brand": "全季酒店",
+   "lat": 24.4702525,
+   "lon": 118.1038204,
+   "distance_km": 2.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "如家酒店",
+   "name_en": "Home Inn",
+   "stars": null,
+   "brand": "如家酒店",
+   "lat": 24.4741549,
+   "lon": 118.1087633,
    "distance_km": 2.4,
    "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
-   "name": "凯宾斯基大酒店",
-   "name_en": null,
+   "name": "亚朵酒店",
+   "name_en": "Atour",
    "stars": null,
    "brand": null,
-   "lat": 24.4752515,
-   "lon": 118.0956464,
-   "distance_km": 3.2,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "金色四季酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 24.4877436,
-   "lon": 118.1168305,
-   "distance_km": 3.7,
+   "lat": 24.4645869,
+   "lon": 118.0961484,
+   "distance_km": 2.4,
    "kind": "chain",
    "source": "OpenStreetMap"
   }
@@ -234,5 +234,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

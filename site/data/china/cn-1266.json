@@ -10,8 +10,8 @@
  "city_zh": "海淀区",
  "city_en": "Haidian District",
  "name_zh": "颐和园",
- "name_en": "Summer Palace",
- "name_en_source": "wikipedia",
+ "name_en": "Yiheyuan",
+ "name_en_source": "pinyin",
  "slug": "yiheyuan-1266",
  "lat": 40.004215,
  "lon": 116.287499,
@@ -22,8 +22,8 @@
  "category_zh": "皇家园林",
  "category_en": "Royal garden",
  "intro_zh": "颐和园主景区由万寿山、昆明湖组成，全园占地3.009平方公里，水面约占四分之三。园内现存各式宫殿、园林古建7万平方米，并以珍贵的文物藏品闻名于世，是第一批全国重点文物保护单位。1988年，颐和园被联合国教科文组织列入《世界遗产名录》。",
- "intro_en": "The Summer Palace or Yihe Garden (simplified Chinese: 颐和园; traditional Chinese: 頤和園; pinyin: Yíhéyuán) was a pavilion built by the Chinese Empress Dowager Cixi for quiet retreat. It consists of a vast ensemble of lakes, gardens and palaces located in Beijing. An imperial garden during the Qing dynasty, it includes Longevity Hill (万寿山; 萬壽山; Wànshòu Shān), Kunming Lake, and Seventeen-Arch Bridge. It covers an expanse of 2.9 square kilometres (1.1 sq mi), three-quarters of which is water. Longevity Hill is about 60 metres (200 ft) high and has many buildings positioned in sequence. The front hill is the site of halls and pavilions, while the back hill, in sharp contrast, is quiet with natural beauty. The central Kunming Lake, covering 2.2 square kilometres (540 acres), was entirely man-made and the excavated soil was used to build Longevity Hill. The Summer Palace, which is inspired by the gardens of South China, contains over 3,000 Chinese ancient buildings that house a collection of over 40,000 valuable historical relics from various dynasties. In December 1998, UNESCO included the Summer Palace on its World Heritage List. It declared the Summer Palace \"a masterpiece of Chinese land",
- "intro_en_source": "wikipedia",
+ "intro_en": "The main scenic area of ​​the Summer Palace consists of Wanshou Mountain and Kunming Lake. The entire garden covers an area of ​​3.009 square kilometers, and the water surface accounts for about three-quarters. There are 70,000 square meters of various palaces and ancient gardens in the park, and it is world-famous for its precious collection of cultural relics. It is one of the first batch of national key cultural relics protection units. In 1988, the Summer Palace was included in the World Heritage List by UNESCO.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1280px-Longevity_Hill_of_the_Summer_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -203,11 +203,10 @@
  "hotels_nearby_30km": 673,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -226,7 +225,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -236,13 +235,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/颐和园"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

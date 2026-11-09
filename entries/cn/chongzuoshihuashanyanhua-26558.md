@@ -2,7 +2,7 @@
 id: "cn-26558"
 dataset: "china_5a"
 name_zh: "崇左市花山岩画景区"
-name_en: "Chongzuoshihuashanyanhua Scenic Area"
+name_en: "Huashanyanhua Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangxi"
 city_en: "Chongzuo City"
 lat: 22.186133
 lon: 107.071606
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 崇左市花山岩画景区 / Chongzuoshihuashanyanhua Scenic Area
+# 崇左市花山岩画景区 / Huashanyanhua Scenic Area
 
 > 广西壮族自治区 · 崇左市 · 山地风光
 
@@ -80,4 +80,5 @@ Ningming Huashan Rock Painting is the largest single rock painting in the world.
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/花山岩画)
 - [OpenStreetMap](https://www.openstreetmap.org/)

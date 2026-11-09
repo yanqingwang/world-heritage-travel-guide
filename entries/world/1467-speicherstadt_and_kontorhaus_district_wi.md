@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iv)"
 lat: 53.543333333
 lon: 9.991944444
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 仓库城，康托尔豪斯区和智利屋 / Speicherstadt and Kontorhaus District with Chilehaus

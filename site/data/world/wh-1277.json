@@ -3,7 +3,7 @@
  "unesco_id": "1277",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 929,
+ "popularity_rank": 892,
  "popularity_score": null,
  "country": "JP",
  "country_zh": "日本",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "JP-03",
+ "subdivision_zh": "岩手县",
+ "subdivision_en": "Iwate Prefecture",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "平泉——象征着佛教净土的庙宇、园林与考古遗址",
  "name_zh_source": "unesco_official",
  "name_en": "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
@@ -164,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

@@ -10,8 +10,8 @@
  "city_zh": "巴音郭楞蒙古自治州",
  "city_en": "Bayinguolengmenggu Autonomous Prefecture",
  "name_zh": "巴音郭楞蒙古自治州博斯腾湖景区",
- "name_en": "Bosten Lake",
- "name_en_source": "wikipedia",
+ "name_en": "Bayinguolengmengguzizhizhoubositenghu Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "bayinguolengmengguzizhizhoubositenghu-343",
  "lat": 41.805435,
  "lon": 86.364754,
@@ -22,8 +22,8 @@
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
  "intro_zh": "巴音郭楞蒙古自治州博斯腾湖景区占地面积988平方公里，是位于我国新疆的风景名胜。景区是以博斯腾湖风景为主，博斯腾淖尔，蒙古语意为“站立”，因三道湖心山屹立于湖中而得名。博斯腾湖与雪山、湖光、绿州、沙漠、奇禽、异兽同生共荣，互相映衬，组成丰富多彩的风景画卷。",
- "intro_en": "Bosten Lake (traditional Chinese: 博斯騰湖; simplified Chinese: 博斯腾湖; pinyin: Bósīténg Hú, Uyghur: باغراش كۆلى / Бағраш Көли / Baghrash Köli / Baƣrax Kɵli, Chagatai: Bostang) is a freshwater lake on the northeastern rim of the Tarim Basin, about 20 km (12 mi) east of Yanqi and 57 km (35 mi) northeast of Korla, Xinjiang, China in the Bayin'gholin Mongol Autonomous Prefecture. Covering an area of about 1,000 km2 (390 sq mi) (together with adjacent small lakes), it is the largest lake in Xinjiang and one of the largest inland freshwater lakes in China. Bosten lake receives water inflow from a catchment area of 56,000 km2 (22,000 sq mi). The lake's Mongol, Uyghur and Chinese names are sometimes rendered as Bosten Hu, Bagrax-hu, Bagrasch-köl, Baghrasch köl, Bagratsch-kul, Bositeng Lake or Bositeng Hu. The Kaidu River is the most important tributary to Lake Bosten, accounting for about 83% of its water inflow, other significant tributaries are the Huangshui Ditch (Chinese: 黃水溝), the Qingshui River (清水河), and Wulasite River (烏拉司特河). Lake Bosten's primarily outflow is to the southwest, also via the Kaidu River under the name Kongque River (Chinese: 孔雀河; pinyin: Kǒngquè Hé), which literally mea",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Bosten Lake Scenic Area in Bayingolin Mongolian Autonomous Prefecture covers an area of ​​988 square kilometers and is a scenic spot located in Xinjiang, my country. The scenic spot is dominated by the scenery of Bosten Lake. Bosten Nur, which means \"standing\" in Mongolian, is named after three mountains in the center of the lake standing in the lake. Bosten Lake co-exists with snow-capped mountains, lakes, oasis, deserts, exotic birds and exotic animals, and sets off each other to form a rich and colorful landscape.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%E6%96%B0%E7%96%86%E5%8D%9A%E6%96%AF%E8%85%BE%E6%B9%96%E5%9B%BD%E5%AE%B6%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD.jpg/1280px-%E6%96%B0%E7%96%86%E5%8D%9A%E6%96%AF%E8%85%BE%E6%B9%96%E5%9B%BD%E5%AE%B6%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -183,11 +183,10 @@
  "hotels_nearby_30km": 5,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -206,7 +205,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -216,13 +215,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/博斯腾湖"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

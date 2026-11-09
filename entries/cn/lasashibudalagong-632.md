@@ -2,7 +2,7 @@
 id: "cn-632"
 dataset: "china_5a"
 name_zh: "拉萨市布达拉宫景区"
-name_en: "Potala Palace"
+name_en: "Lasashibudalagong Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Tibet"
 city_en: "Lhasa"
 lat: 29.660346
 lon: 91.125038
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 拉萨市布达拉宫景区 / Potala Palace
+# 拉萨市布达拉宫景区 / Lasashibudalagong Scenic Area
 
 > 西藏自治区 · 拉萨市 · 石窟艺术
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Potala Palace (Tibetan: ཕོ་བྲང་པོ་ཏ་ལ་, Wylie: pho brang po ta la; simplified Chinese: 布达拉宫; traditional Chinese: 布達拉宮; pinyin: Bùdálā Gōng) is a museum complex in Lhasa, the capital of the Tibet Autonomous Region of China. It was formerly the winter palace of the Dalai Lamas, and from 1649 until 1959 served as the Dalai Lamas' residence. The palace complex became a museum following the annexation of Tibet by the People's Republic of China. The palace is named after Mount Potalaka, regarded in Buddhist tradition as the mythical abode of the bodhisattva Avalokiteśvara. Construction of the present structure was begun in 1645 at the order of the 5th Dalai Lama, advised by Konchog Chophel, the Thirty-fifth Ganden Tripa of the Gelug school. It was built on the site of an earlier palace attributed to Songtsen Gampo (traditionally dated to 637). Built in the dzong style, at an altitude of about 3,700 metres (12,100 ft) on Marpo Ri in the center of the Lhasa Valley, the palace measures 400 metres (1,300 ft) east–west and 350 metres (1,150 ft) north–south. Its sloping stone walls average 3 metres (9.8 ft) thick, 5 metres (16 ft) at the base, with copper poured into the foundations for earth
+The Potala Palace is the highest altitude in the world and the largest and most complete ancient palace complex in Tibet. The Potala Palace is the essence of the Chinese nation's ancient architecture. It is the landscape pattern on the back of the fifth set of RMB 50 banknotes. It is a national AAAAA-level tourist attraction and a world cultural heritage. The main landscape of the Potala Palace consists of palaces, murals, and pagodas. The main attractions include Pabalakhang, White House Deyang Building, Tsoqin Sipingtsonu, Wuzijiapi, Qimeidanji, Tukuolakang, Potala Palace Treasure Hall, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Potala Palace (Tibetan: ཕོ་བྲང་པོ་ཏ་ལ་, Wylie: pho b
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/布达拉宫)
 - [OpenStreetMap](https://www.openstreetmap.org/)

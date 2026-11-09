@@ -2,7 +2,7 @@
 id: "cn-315"
 dataset: "china_5a"
 name_zh: "武汉市黄鹤楼公园"
-name_en: "Huanghelou"
+name_en: "Wuhanshihuanghelougongyuan"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hubei"
 city_en: "Wuhan"
 lat: 30.549101
 lon: 114.310611
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 武汉市黄鹤楼公园 / Huanghelou
+# 武汉市黄鹤楼公园 / Wuhanshihuanghelougongyuan
 
 > 湖北省 · 武汉市 · 自然风光
 
@@ -69,5 +69,5 @@ The Yellow Crane Tower is a landmark building in Wuhan. Together with Qingchuan 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄鹤楼)
+- [Wikipedia](https://zh.wikipedia.org/wiki/长春观 (武汉市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

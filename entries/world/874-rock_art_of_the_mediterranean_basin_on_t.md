@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)"
 lat: 39.79
 lon: -1.033333333
-updated_at: "2026-11-08T20:30:01Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 伊比利亚半岛地中海盆地的石壁画艺术 / Rock Art of the Mediterranean Basin on the Iberian Peninsula

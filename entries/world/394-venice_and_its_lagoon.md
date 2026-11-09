@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)(v)(vi)"
 lat: 45.439722222
 lon: 12.331944444
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:59Z"
 ---
 
 # 威尼斯及泻湖 / Venice and its Lagoon

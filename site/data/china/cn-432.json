@@ -10,8 +10,8 @@
  "city_zh": "淮安市",
  "city_en": "Huai'an",
  "name_zh": "淮安市周恩来故里景区",
- "name_en": "Zhou Enlai",
- "name_en_source": "wikipedia",
+ "name_en": "Huaianshizhouenlaiguli Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "huaianshizhouenlaiguli-432",
  "lat": 33.541841,
  "lon": 119.147121,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "作为中国著名的名人文化景区，周恩来故里景区旅游资源丰富，人文内涵厚重。景区总占地3.15平方公里，主要景点包括周恩来纪念馆、周恩来故居、驸马巷、河下古镇等。",
- "intro_en": "Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou1 Ên1-lai2; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta",
- "intro_en_source": "wikipedia",
+ "intro_en": "As a famous celebrity cultural scenic spot in China, Zhou Enlai’s hometown scenic spot is rich in tourism resources and has profound humanistic connotations. The scenic area covers a total area of ​​3.15 square kilometers. The main attractions include Zhou Enlai Memorial Hall, Zhou Enlai's former residence, Prince Consort Alley, Hexia Ancient Town, etc.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%E5%9C%8B%E5%85%B1%E5%85%A7%E6%88%B0%E6%99%82%E6%9C%9F%E5%91%A8%E6%81%A9%E4%BE%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -193,11 +193,10 @@
  "hotels_nearby_30km": 10,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -226,13 +225,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/周恩来"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

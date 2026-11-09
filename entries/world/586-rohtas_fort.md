@@ -8,13 +8,13 @@ country: "PK"
 country_zh: "巴基斯坦"
 country_en: "Pakistan"
 unesco_id: "586"
-tier: "basic"
+tier: "full"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iv)"
 lat: 32.965277777
 lon: 73.576416666
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:01:00Z"
 ---
 
 # 罗赫达斯要塞 / Rohtas Fort
@@ -27,9 +27,21 @@ updated_at: "2026-11-08T20:29:59Z"
 
 *Rohtas Fort (Jhelum, Pakistan) - World Heritage Site.jpeg · see Wikimedia Commons file page*
 
-![Rohtas Fort](https://whc.unesco.org/uploads/sites/site_586.jpg)
+!['Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (100).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28100%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-*Rohtas Fort · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
+*'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (100).jpg · Ibnazhar · CC BY-SA 4.0*
+
+!['Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (101).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28101%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (101).jpg · Ibnazhar · CC BY-SA 4.0*
+
+!['Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (102).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28102%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (102).jpg · Ibnazhar · CC BY-SA 4.0*
+
+!['Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (103).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28103%29.jpg/1280px-%27Pakistan%27-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum_%28103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*'Pakistan'-ibneazhar-400-yrs-old-rohtas-fort-near-dina-jehlum (103).jpg · Ibnazhar · CC BY-SA 4.0*
 
 ## 简介 / Introduction
 
@@ -52,7 +64,24 @@ Following his defeat of the Mughal emperor Humayun in 1541, Sher Shah Suri built
 - ✈ **Sialkot International Airport (SKT)** — 87.8 km
 - ✈ **Islamabad International Airport (ISB)** — 95.3 km
 - ✈ **Jammu Airport (IXJ)** — 121.8 km
+- 🚉 **دینہ ریلوے اسٹیشن** — 7.1 km
+- 🚉 **رتیال ریلوے اسٹیشن** — 8.4 km
+- 🚉 **کالووال ریلوے اسٹیشن** — 10.1 km
+- 🚉 **کالا گُجراں ریلوے اسٹیشن** — 11.1 km
+- 🚉 **ڈومیلی ریلوے اسٹیشن** — 12.8 km
+- ⛴ **Rathoa** — 30.3 km
+- ⛴ **Haryam** — 30.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3837.7 km**
+
+## 附近酒店 / Nearby hotels
+
+- **Chowdhary Akhater Hotel** — 9.1 km — hotel
+- **Adam Hotel** — 9.5 km — hotel
+- **Mansoor Hotel And Restaurant** — 10.3 km — hotel
+- **Jhelum Inn Sizzlers & Restaurant** — 14.0 km — hotel
+- **Tulip Hotel** — 15.8 km — hotel
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

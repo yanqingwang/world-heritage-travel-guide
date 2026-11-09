@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 34.0399646
 lon: -5.5626871
-updated_at: "2026-11-08T20:30:01Z"
+updated_at: "2026-11-09T12:01:01Z"
 ---
 
 # 瓦卢比利斯考古遗址 / Archaeological Site of Volubilis

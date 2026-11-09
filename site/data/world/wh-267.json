@@ -3,8 +3,8 @@
  "unesco_id": "267",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 445,
- "popularity_score": 16857,
+ "popularity_rank": 417,
+ "popularity_score": 15292,
  "country": "CH",
  "country_zh": "瑞士",
  "country_en": "Switzerland",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "Canton of Berne",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "CH-BE",
+ "subdivision_zh": "伯恩州",
+ "subdivision_en": "Bern",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "伯尔尼古城",
  "name_zh_source": "unesco_official",
  "name_en": "Old City of Berne",
@@ -175,5 +175,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:29:58Z"
+ "updated_at": "2026-11-09T12:00:58Z"
 }

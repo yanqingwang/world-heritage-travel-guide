@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iv)(x)"
 lat: 18.2113889
 lon: -97.3994444
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 特瓦坎-奎卡特兰山谷：中部美洲的原始栖息地 / Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica

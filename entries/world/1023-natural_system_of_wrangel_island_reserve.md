@@ -8,13 +8,13 @@ country: "RU"
 country_zh: "俄罗斯"
 country_en: "Russia"
 unesco_id: "1023"
-tier: "full"
+tier: "basic"
 category: "Natural"
 year: "2004"
 criteria: "(ix)(x)"
 lat: 71.233333333
 lon: -179.4
-updated_at: "2026-11-08T20:30:02Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 弗兰格尔岛自然保护区 / Natural System of Wrangel Island Reserve
@@ -27,21 +27,9 @@ updated_at: "2026-11-08T20:30:02Z"
 
 *Wrangel Island.jpg · see Wikimedia Commons file page*
 
-![De-Wrangelinsel.ogg](https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png)
+![Natural System of Wrangel Island Reserve](https://whc.unesco.org/uploads/sites/site_1023.jpg)
 
-*De-Wrangelinsel.ogg · Jeuwre · CC BY-SA 4.0*
-
-![1-s2.0-S0277379119301398-main.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1-s2.0-S0277379119301398-main.pdf/page1-960px-1-s2.0-S0277379119301398-main.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*1-s2.0-S0277379119301398-main.pdf · Laura Arppe, Juha A. Karhu, Sergey Vartanyan, Dorothée G. Drucker, Heli Etu-Sihvola, Hervé Bocherens · CC BY 4.0*
-
-![1921 Wrangel Island Expedition team.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bc/1921_Wrangel_Island_Expedition_team.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*1921 Wrangel Island Expedition team.jpg · Internet Archive · Public domain*
-
-![20160103-DVL 0846-Pano.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20160103-DVL_0846-Pano.jpg/1280px-20160103-DVL_0846-Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*20160103-DVL 0846-Pano.jpg · Виталий Дворяченко · CC BY-SA 4.0*
+*Natural System of Wrangel Island Reserve · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,12 +52,6 @@ Located well above the Arctic Circle, the site includes the mountainous Wrangel 
 - ✈ **Pevek Airport (PWE)** — 404.0 km
 - ✈ **Cape Lisburne LRRS Airport (LUR)** — 566.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4511.7 km**
-
-## 附近酒店 / Nearby hotels
-
-- 暂无 / none
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

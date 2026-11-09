@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Tangshan"
 lat: 40.041526
 lon: 117.726881
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 唐山市清东陵景区 / Eastern Qing tombs
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Eastern Qing tombs (Chinese: 清東陵; pinyin: Qīng Dōng líng; Manchu: ᡩᡝᡵᡤᡳ ᡝᡵᡤᡳ ᠮᡠᠩᡤᠠᠨ, romanized: dergi ergi munggan) are an imperial mausoleum complex of the Qing dynasty located in Zunhua county of Tangshan in Hebei province, 125 kilometres (78 mi) northeast of Beijing. They are the largest, most complete, and best preserved extant mausoleum complex in China. Altogether, five emperors (Shunzhi, Kangxi, Qianlong, Xianfeng, and Tongzhi), 15 empresses, 136 imperial concubines, three princes, and two princesses of the Qing dynasty are buried here. Surrounded by Changrui Mountain, Jinxing Mountain, Huanghua Mountain, and Yingfei Daoyang Mountain, the tomb complex stretches over a total area of 80 square kilometres (31 sq mi).
+The Eastern Tombs of the Qing Dynasty are located in Zunhua City, Hebei Province. They are the most complete and well-organized imperial mausoleum complex in my country. The main attractions include Xiaoling Mausoleum, Jingling Mausoleum, Yuling Mausoleum, Cixi Mausoleum, Ci'an Mausoleum, Zhaoxi Mausoleum, Yufei Garden Bedroom, etc. It was included in the "World Cultural Heritage List" in 2000.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

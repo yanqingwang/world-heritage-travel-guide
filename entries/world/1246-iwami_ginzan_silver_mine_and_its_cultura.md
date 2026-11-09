@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)(v)"
 lat: 35.107222
 lon: 132.4375
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 石见银山遗迹及其文化景观 / Iwami Ginzan Silver Mine and its Cultural Landscape

@@ -2,7 +2,7 @@
 id: "cn-391"
 dataset: "china_5a"
 name_zh: "崇左市德天跨国瀑布景区"
-name_en: "Pubu Scenic Area"
+name_en: "Waterfall"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangxi"
 city_en: "Chongzuo City"
 lat: 22.858761
 lon: 106.735011
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 崇左市德天跨国瀑布景区 / Pubu Scenic Area
+# 崇左市德天跨国瀑布景区 / Waterfall
 
 > 广西壮族自治区 · 崇左市 · 自然风光
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Detian Waterfall is located in Chongzuo City, Guangxi, on the upper reaches of the Guichun River on the border between China and Vietnam. The waterfall is majestic and spectacular. It is connected to the neighboring Ban Gioc Waterfall in Vietnam. It is the largest transnational waterfall in Asia and the fourth largest in the world.
-
-*English introduction: machine translation.*
+A waterfall is any point in a river or stream where water flows over a vertical drop or a series of steep drops. Waterfalls also occur where meltwater drops over the edge of a tabular iceberg or ice shelf. Waterfalls can be formed in several ways, but the most common method of formation is that a river courses over a top layer of resistant bedrock before falling onto softer rock, which erodes faster, leading to an increasingly high fall. Waterfalls have been studied for their impact on species living in and around them. Humans have had a distinct relationship with waterfalls since prehistory, travelling to see them, exploring and naming them. They can present formidable barriers to navigation along rivers. Waterfalls are religious sites in many cultures. Since the 18th century, they have received increased attention as tourist destinations, sources of hydropower, and—particularly since the mid-20th century—as subjects of research.
 
 ## 交通 / Transport
 
@@ -53,7 +51,7 @@ Detian Waterfall is located in Chongzuo City, Guangxi, on the upper reaches of t
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

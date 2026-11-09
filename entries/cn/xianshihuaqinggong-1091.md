@@ -2,7 +2,7 @@
 id: "cn-1091"
 dataset: "china_5a"
 name_zh: "西安市华清宫景区"
-name_en: "Xi'an"
+name_en: "Xianshihuaqinggong Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.370451
 lon: 109.219938
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 西安市华清宫景区 / Xi'an
+# 西安市华清宫景区 / Xianshihuaqinggong Scenic Area
 
 > 陕西省 · 西安市 · 度假休闲
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city on the Guanzhong plain, the city is the most populous in the province and third-most populous in Western China after Chongqing and Chengdu, as well as the most populous in Northwestern China. Based on the city's 2025 1% population sample survey, its estimated year-end resident population was 13.24 million, of whom 10.72 million were urban residents. Xi'an is one of the oldest cities in China. Known as Chang'an throughout much of its history, Xi'an is one of China's Five Great Ancient Capitals, having held the position under several of the most important dynasties in Chinese history, including the Western Zhou, Qin, Western Han, Sui, Northern Zhou and Tang. Xi'an is now the second-most popular tourist destination in China. Xi'an contains the Mausoleum of the First Qin Emperor, including the Terracotta Army, and five component sites of the UNESCO-listed Silk Roads: the Routes Network of Chang'an-Tianshan Corridor. Since the 1980s, as part of the economic growth of inland China especially for the central and northwest regions, Xi'an has developed into a cultural, industrial, political and educational, and r
+Huaqing Pool Scenic Area is an ancient Chinese palace famous for its hot springs and hot springs. The rulers of the Zhou, Qin, Han, Sui and Tang dynasties built stone buildings here, built Lishan Hot Spring, built Luo City, and built the Daxing Hot Spring Palace. In 1982, Huaqing Pool was listed as one of the first batch of key scenic spots in the country.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city o
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/西安市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

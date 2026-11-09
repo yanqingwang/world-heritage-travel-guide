@@ -2,7 +2,7 @@
 id: "cn-376"
 dataset: "china_5a"
 name_zh: "黑河市五大连池景区"
-name_en: "Wudalianchizhen Scenic Area"
+name_en: "Wudalianchi Dedu Airport"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Heilongjiang"
 city_en: "Heihe City"
 lat: 48.699183
 lon: 126.168957
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 黑河市五大连池景区 / Wudalianchizhen Scenic Area
+# 黑河市五大连池景区 / Wudalianchi Dedu Airport
 
 > 黑龙江省 · 黑河市 · 山地风光
 
@@ -34,9 +34,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Wudalianchi is located in the transition zone from the Xiaoxing'anling Mountains to the Songnen Plain. The area is lined with volcanoes, vast lava, lakes, and mineral springs. The lava from the new volcanic eruption blocked ancient rivers and formed five beaded volcanic barrier lakes connected by streams, from which Wudalianchi got its name. This place is also called the "natural volcano museum" and "open volcano textbook" by scientists.
-
-*English introduction: machine translation.*
+Wudalianchi Dedu Airport (IATA: DTU, ICAO: ZYDU) is an airport serving the city of Wudalianchi in Heilongjiang province of Northeast China, southwest of the city center and 11 kilometres (6.8 mi) from Wudalianchi National Park. It received approval from the State Council of China and the Central Military Commission on 25 December 2013. Its construction budget was 644.41 million yuan, and an additional 74 million yuan for related infrastructure outside the airport. The airport was opened on 22 November 2017, with an inaugural Loong Air flight from Harbin Taiping International Airport.
 
 ## 交通 / Transport
 
@@ -57,10 +55,10 @@ Wudalianchi is located in the transition zone from the Xiaoxing'anling Mountains
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/五大连池镇)
+- [Wikipedia](https://zh.wikipedia.org/wiki/五大连池德都机场)
 - [OpenStreetMap](https://www.openstreetmap.org/)

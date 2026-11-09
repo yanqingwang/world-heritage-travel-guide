@@ -2,7 +2,7 @@
 id: "cn-1238"
 dataset: "china_5a"
 name_zh: "桃花源旅游景区"
-name_en: "Tao Hua Yuan"
+name_en: "Taohuayuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Chongqing"
 city_en: "Youyangtujiazumiaozuzizhi County"
 lat: 28.864319
 lon: 108.758913
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 桃花源旅游景区 / Tao Hua Yuan
+# 桃花源旅游景区 / Taohuayuan Scenic Area
 
 > 重庆市 · 酉阳土家族苗族自治县 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Peach Blossom Spring (Chinese: 桃花源記; pinyin: Táohuā Yuán Jì; lit. 'Source of the Peach Blossoms', also translated as “(The Record of) the Peach Blossom”), or Peach Blossom Spring Story or The Peach Blossom Land was a fable written by Tao Yuanming in 421 CE about a chance discovery of an ethereal utopia where the people lead an ideal existence in harmony with nature, unaware of the outside world for centuries. The phrase can be used to describe an idealistic place of beauty and repose, although it is sometimes used to refer to an unrealistic dream.
+Peach Blossom Spring Scenic Area is located in the mountains on the outskirts of Youyang County, a summer resort in Chongqing. It is considered to be the prototype of Tao Yuanming's "Peach Blossom Spring". The scenic spot consists of Utopia, Taikoo Cave, Youzhou Ancient City, Taohuayuan National Forest Park, Eryou Mountain and other attractions.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,5 +76,4 @@ The Peach Blossom Spring (Chinese: 桃花源記; pinyin: Táohuā Yuán Jì; lit
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/桃花源)
 - [OpenStreetMap](https://www.openstreetmap.org/)

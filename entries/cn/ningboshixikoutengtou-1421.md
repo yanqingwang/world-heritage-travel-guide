@@ -2,7 +2,7 @@
 id: "cn-1421"
 dataset: "china_5a"
 name_zh: "宁波市溪口-滕头旅游景区"
-name_en: "Ningboshixikou-tengtou Scenic Area"
+name_en: "Xikou"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Ningbo City"
 lat: 29.705123
 lon: 121.396879
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 宁波市溪口-滕头旅游景区 / Ningboshixikou-tengtou Scenic Area
+# 宁波市溪口-滕头旅游景区 / Xikou
 
 > 浙江省 · 宁波市 · 度假休闲
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Fenghua Xikou-Tengtou tourist area consists of two major scenic areas: Xikou Scenic Area and Tengtou Ecological Tourism Area. Xikou Scenic Area is bordered by Wuling in the east, Yanxi River in the south, and Xuedou Mountain in the north. The water is surrounded by mountains and the scenery is beautiful. It is favored by travel enthusiasts. Tengtou Eco-tourism Zone is famous for its beautiful ecological landscape and distinctive rural style. It is an eco-tourism resort that combines international fashion with Chinese classic rural culture.
-
-*English introduction: machine translation.*
+Xikou (simplified Chinese: 溪口镇; traditional Chinese: 溪口鎮; pinyin: Xīkǒu Zhèn; Wade–Giles: Hsi¹-k'ou³ Chen⁴) is a town of 84,000 in northeastern Zhejiang province, People's Republic of China. It is located 39 kilometers (24 mi) west of Ningbo and covers 381 square kilometers (147 sq mi). It is under the administration of Fenghua District, and is the birthplace and ancestral home of the former President of the Republic of China Chiang Kai-shek. Mao Fumei, divorced wife of ROC President Chiang Kai-shek and mother of ROC President Chiang Ching-kuo, was killed during the Japanese bombing of Xikou on December 12, 1939.
 
 ## 交通 / Transport
 
@@ -58,4 +56,5 @@ Fenghua Xikou-Tengtou tourist area consists of two major scenic areas: Xikou Sce
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/溪口镇 (宁波市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

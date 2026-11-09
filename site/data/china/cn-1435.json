@@ -10,7 +10,7 @@
  "city_zh": "银川市",
  "city_en": "Yinchuan",
  "name_zh": "银川市水洞沟旅游区",
- "name_en": "Yinchuan",
+ "name_en": "Shuidonggou",
  "name_en_source": "wikipedia",
  "slug": "yinchuanshishuidonggou-1435",
  "lat": 38.296135,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "水洞沟是中国最早发掘的旧石器时代文化遗址。独特的雅丹地貌鬼斧神工地造就了魔鬼城、摩天崖、大峡谷等奇绝景观，它们和蓝天、碧水、断崖、芦苇、鸳鸯、野鸭共同构筑了宁静逸然的世外桃源。",
- "intro_en": "Yinchuan (Chinese: 银川; pinyin: Yínchuān; lit. 'Silver River') is a prefecture‑level city and the capital of the Ningxia Hui Autonomous Region in northwest China. It served as the imperial capital of the Tangut‑led Western Xia (1038–1227). Yinchuan hosts the biennial China–Arab States Expo. As of the 2020 Chinese census, Yinchuan’s administrative area had 2,859,074 inhabitants; the built‑up area had 2,564,918 residents, comprising the three urban districts and the urbanized parts of Helan and Yongning counties. At the end of 2024, the resident population of the city was 2,914,700, an increase of 66,600 over the end of the previous year. Among them, the urban population is 2,429,400.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Shuidonggou is the earliest Paleolithic cultural site excavated in China. The unique Yadan landform and uncanny construction sites have created extraordinary landscapes such as Devil City, skyscraper cliffs, and grand canyons. Together with the blue sky, clear water, cliffs, reeds, mandarin ducks, and wild ducks, they create a peaceful paradise.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Yinchuan_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -204,8 +204,8 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": true,
-  "ko": true,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -237,12 +237,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/银川市"
+   "url": "https://zh.wikipedia.org/wiki/水洞沟遗址"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

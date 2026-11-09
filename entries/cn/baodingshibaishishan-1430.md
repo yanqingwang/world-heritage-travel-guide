@@ -2,7 +2,7 @@
 id: "cn-1430"
 dataset: "china_5a"
 name_zh: "保定市白石山景区"
-name_en: "Baoding"
+name_en: "Baishishan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hebei"
 city_en: "Baoding"
 lat: 39.242194
 lon: 114.722083
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 保定市白石山景区 / Baoding
+# 保定市白石山景区 / Baishishan Scenic Area
 
 > 河北省 · 保定市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Baoding is a prefecture-level city in central Hebei province, approximately 150 kilometres (93 mi) southwest of Beijing. As of the 2020 census, Baoding City had 11,544,036 inhabitants, of which 2,549,787 lived in the metropolitan area made of 4 out of 5 urban districts: Lianchi, Jingxiu, Qingyuan, and Mancheng all of which are largely conurbated. Accounting for about one-sixth of the population of Hebei Province. At the end of 2024, the city's resident population is 9,046,200, of which the urban resident population is 5,527,200. Baoding is among 13 Chinese cities with a population of over 10 million, ranking seventh. Zhuozhou City in the northern part has now grown into part of the Beijing metro area. Baoding was the capital of Zhili Province and the residence of the Viceroy of Zhili in the Qing dynasty. The city was also the capital of Hebei province until 1968, and is now a national historical and cultural city and one of the central cities in the Jing-Jin-Ji cluster, with the Xiong'an new area located within its jurisdiction.
+Baishi Mountain Scenic Area is located 15 kilometers south of Laiyuan County, Baoding City, Hebei Province. It is named after the mountains with many white marbles. The main attractions are the glass plank road and the peak forest. Baishi Mountain is a tall mountain with "three tops, six platforms, nine valleys and eighty-one peaks". The main ridge line is more than 7,000 meters long. The highest peak of Baishi Mountain is 2,096 meters above sea level. It is the leader of the northwest uplift of the North China Plain.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,5 +76,5 @@ Baoding is a prefecture-level city in central Hebei province, approximately 150 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/保定市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/白石山)
 - [OpenStreetMap](https://www.openstreetmap.org/)

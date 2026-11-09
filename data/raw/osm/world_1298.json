@@ -1,0 +1,169 @@
+{
+ "hotels": [
+  {
+   "name": "Eurostars Montgomery Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Eurostars Hotels Company",
+   "lat": 50.8382362,
+   "lon": 4.4070236,
+   "distance_km": 0.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sofitel Brussels Europe",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Sofitel",
+   "lat": 50.8378292,
+   "lon": 4.3811942,
+   "distance_km": 2.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tangla Hotel Brussels",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.8527191,
+   "lon": 4.4489949,
+   "distance_km": 3.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Stanhope Hotel Brussels by Thon Hotels",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Thon Hotels",
+   "lat": 50.8397427,
+   "lon": 4.3675366,
+   "distance_km": 3.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Le Châtelain Boutique Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.82629,
+   "lon": 4.3635402,
+   "distance_km": 3.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 508,
+ "stations": [
+  {
+   "name": "Etterbeek",
+   "name_en": null,
+   "lat": 50.8221263,
+   "lon": 4.3895883,
+   "distance_km": 2.4,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Bruxelles-Schuman - Brussel-Schuman",
+   "name_en": "Brussels-Schuman",
+   "lat": 50.8428667,
+   "lon": 4.3806152,
+   "distance_km": 2.6,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Bruxelles-Luxembourg - Brussel-Luxemburg",
+   "name_en": "Brussels-Luxembourg",
+   "lat": 50.8381995,
+   "lon": 4.3736537,
+   "distance_km": 3.0,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Watermael - Watermaal",
+   "name_en": null,
+   "lat": 50.8085128,
+   "lon": 4.4001989,
+   "distance_km": 3.2,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Evere",
+   "name_en": null,
+   "lat": 50.8676818,
+   "lon": 4.4008547,
+   "distance_km": 3.8,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Bruxelles-Central - Brussel-Centraal",
+   "name_en": "Brussels-Central",
+   "lat": 50.8454639,
+   "lon": 4.3569867,
+   "distance_km": 4.3,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Bruxelles-Nord - Brussel-Noord",
+   "name_en": "Brussels-North",
+   "lat": 50.8601446,
+   "lon": 4.3614901,
+   "distance_km": 4.7,
+   "operator": "NMBS/SNCB"
+  },
+  {
+   "name": "Schaerbeek - Schaarbeek",
+   "name_en": null,
+   "lat": 50.878395,
+   "lon": 4.3784579,
+   "distance_km": 5.5,
+   "operator": "NMBS/SNCB"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Quai des Péniches - Akenkaai",
+   "name_en": null,
+   "lat": 50.8603216,
+   "lon": 4.3480278,
+   "distance_km": 5.5,
+   "operator": null
+  },
+  {
+   "name": "Sainctelette",
+   "name_en": null,
+   "lat": 50.8600955,
+   "lon": 4.3471008,
+   "distance_km": 5.6,
+   "operator": null
+  },
+  {
+   "name": "Pont Van Praet - Van Praet brug",
+   "name_en": null,
+   "lat": 50.8810354,
+   "lon": 4.3731613,
+   "distance_km": 5.9,
+   "operator": null
+  },
+  {
+   "name": "Quai de Heembeek - Heembeekkaai",
+   "name_en": null,
+   "lat": 50.8852977,
+   "lon": 4.3816256,
+   "distance_km": 6.1,
+   "operator": null
+  },
+  {
+   "name": "Cruise Terminal",
+   "name_en": null,
+   "lat": 50.8948091,
+   "lon": 4.3992466,
+   "distance_km": 6.7,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-09T12:00:06Z"
+}

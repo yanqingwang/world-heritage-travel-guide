@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)"
 lat: 42.644672222
 lon: 23.266172222
-updated_at: "2026-11-08T20:29:56Z"
+updated_at: "2026-11-09T12:00:56Z"
 ---
 
 # 博雅纳教堂 / Boyana Church

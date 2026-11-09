@@ -10,8 +10,8 @@
  "city_zh": "河源市",
  "city_en": "Heyuan City",
  "name_zh": "河源市万绿湖风景区",
- "name_en": "Xinfengjiang Reservoir",
- "name_en_source": "wikipedia",
+ "name_en": "Wanlvhu Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "heyuanshiwanlvhu-26556",
  "lat": 23.823781,
  "lon": 114.531722,
@@ -22,8 +22,8 @@
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
  "intro_zh": "万绿湖风景区位于广东省河源市东源县境内，距广州200公里，距深圳180公里，是粤港澳大湾区的后花园，因处处是绿，四季皆绿而得名。万绿湖水质常年保持国家一类地表水标准，水域面积370平方公里，蓄水量约139亿立方米，有360多个绿色岛屿。万绿湖自1995年开发旅游，目前开发的景点有万绿湖、水月湾、龙凤岛、镜花缘、客家风情馆、万绿谷，面积共有11.5平方公里。",
- "intro_en": "Xinfengjiang Reservoir (simplified Chinese: 新丰江水库; traditional Chinese: 新豐江水庫; Jyutping: san1 fung1 gong1 seoi2 fu3) or Wanlü Lake (万绿湖; 萬綠湖; maan6 luk6 wu4) is a man-made lake located in Heyuan, Guangdong, China, formed since the damming of the Xinfeng River (a tributary of Dong River) by the Xinfengjiang Dam. The dam is about 6 km away from the downtown of Heyuan and 170 km away from Guangzhou. It is the largest lake in Guangdong covering an area of 370 km2 and it has a storage capacity of 13.98 km3. Xinfengjiang Reservoir is known for its clear and almost drinkable water, such as that used to produce the renowned Nongfu Spring brand of mineral water (Generally, it is provided South China). Otherwise, the lake, which is famous for the name of \"Wanlü Lake\" (evergreen in Chinese), is an important tourist attraction of Guangdong.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Wanlv Lake Scenic Area is located in Dongyuan County, Heyuan City, Guangdong Province, 200 kilometers away from Guangzhou and 180 kilometers away from Shenzhen. It is the back garden of the Guangdong-Hong Kong-Macao Greater Bay Area. It is named because it is green everywhere and is green all year round. The water quality of Wanlu Lake maintains the national first-class surface water standard all year round. It has a water area of ​​370 square kilometers, a water storage capacity of approximately 13.9 billion cubic meters, and more than 360 green islands. Wanlv Lake has been developing tourism since 1995. The currently developed attractions include Wanlv Lake, Shuiyue Bay, Longfeng Island, Jinghuayuan, Hakka Customs Museum and Wanlu Valley, covering a total area of ​​11.5 square kilometers.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Wanlv_Lake_at_noon.jpg/1280px-The_Wanlv_Lake_at_noon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,11 +193,10 @@
  "hotels_nearby_30km": 7,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -234,5 +233,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

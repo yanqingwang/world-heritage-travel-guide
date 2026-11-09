@@ -37,3 +37,9 @@
 - 中国 5A：359 条；海外世界遗产：1,213 条。
 - 新增 0 条，移除 0 条，更新 18 条。
 - 变更字段：transport.airports × 18、transport.distance_beijing_km × 17
+
+## 2026-11-09
+
+- 中国 5A：359 条；海外世界遗产：1,213 条。
+- 新增 0 条，移除 0 条，更新 382 条。
+- 变更字段：images × 240、hotels × 187、tier × 178、name_en × 137、intro_en × 127、transport.ferry_terminals × 98

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)(iv)"
 lat: 42.65611
 lon: 27.73
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # 内塞巴尔古城 / Ancient City of Nessebar

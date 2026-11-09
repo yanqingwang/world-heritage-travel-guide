@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iii)"
 lat: 40.10555556
 lon: 49.38888889
-updated_at: "2026-11-08T20:30:02Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 戈布斯坦岩石艺术文化景观 / Gobustan Rock Art Cultural Landscape

@@ -8,13 +8,13 @@ country: "PK"
 country_zh: "巴基斯坦"
 country_en: "Pakistan"
 unesco_id: "138"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1980"
 criteria: "(ii)(iii)"
 lat: 27.329166666
 lon: 68.138888888
-updated_at: "2026-11-08T20:29:57Z"
+updated_at: "2026-11-09T12:00:57Z"
 ---
 
 # 摩亨佐达罗考古遗迹 / Archaeological Ruins at Moenjodaro
@@ -27,21 +27,9 @@ updated_at: "2026-11-08T20:29:57Z"
 
 *Mohenjodaro Sindh.jpeg · see Wikimedia Commons file page*
 
-![An afternoon light on Moenjodaro by Usman Ghani.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/An_afternoon_light_on_Moenjodaro_by_Usman_Ghani.jpg/1280px-An_afternoon_light_on_Moenjodaro_by_Usman_Ghani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Archaeological Ruins at Moenjodaro](https://whc.unesco.org/uploads/sites/site_138.jpg)
 
-*An afternoon light on Moenjodaro by Usman Ghani.jpg · Usman.pg · CC BY-SA 3.0*
-
-![An other view of Moenjodaro (esvoy banner).jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/An_other_view_of_Moenjodaro_%28esvoy_banner%29.jpg/1280px-An_other_view_of_Moenjodaro_%28esvoy_banner%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*An other view of Moenjodaro (esvoy banner).jpg · Quratulain · CC BY-SA 3.0*
-
-![An other view of Moenjodaro.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/An_other_view_of_Moenjodaro.jpg/1280px-An_other_view_of_Moenjodaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*An other view of Moenjodaro.jpg · Quratulain · CC BY-SA 3.0*
-
-![Another view of canal - Mohenjo-daro.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Another_view_of_canal_-_Mohenjo-daro.jpg/1280px-Another_view_of_canal_-_Mohenjo-daro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Another view of canal - Mohenjo-daro.jpg · Quratulain · CC BY-SA 3.0*
+*Archaeological Ruins at Moenjodaro · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,22 +52,7 @@ The ruins of the huge city of Moenjodaro – built entirely of unbaked brick in 
 - ✈ **Begum Nusrat Bhutto International Airport Sukkur (SKZ)** — 77.8 km
 - ✈ **Shaheed Benazirabad Airport (WNS)** — 125.9 km
 - ✈ **Khuzdar Airport (KDD)** — 155.7 km
-- 🚉 **Mohenjo-daro** — 8.7 km
-- 🚉 **بخش جتوئی** — 9.9 km
-- 🚉 **باڈہ** — 10.9 km
-- 🚉 **Haider Bakhsh Jatoi** — 12.1 km
-- 🚉 **باکرانی روڈ** — 14.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **4560.7 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Khahawar Hotel** — 25.4 km — hotel
-- **Sambara Inn** — 25.4 km — hotel
-- **Husnain Hotel Larakna** — 25.8 km — hotel
-- **Paris Inn** — 25.8 km — hotel
-- **Green Palace Hotel** — 25.9 km — hotel
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

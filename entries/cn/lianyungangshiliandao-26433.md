@@ -2,7 +2,7 @@
 id: "cn-26433"
 dataset: "china_5a"
 name_zh: "连云港市连岛景区"
-name_en: "Lian Island"
+name_en: "Lianyungangshiliandao Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Lianyungang"
 lat: 34.765512
 lon: 119.477774
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 连云港市连岛景区 / Lian Island
+# 连云港市连岛景区 / Lianyungangshiliandao Scenic Area
 
 > 江苏省 · 连云港市 · 海滨度假
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Lian Island (Chinese: 连岛; pinyin: lián dǎo) is the largest island in Lianyun District, Lianyungang, Jiangsu, China. The island is located inside Haizhou Bay in the Yellow Sea. It is 9 km (5.6 mi) long from east to west across the island and it has an area of 7.57 km2 (2.92 sq mi). 80% of the island is covered with forests. The longest sea dyke nationally (6.7 km or 4.2 mi long) connects the island with the east of the city of Lianyungang. Lian Island is the only AAAA-class seashore tourist attraction in Jiangsu. The island was formerly known as Yingyou hill.
+Liandao, known as Yingyou Mountain in ancient times, is located in the product-rich Haizhou Bay, facing the majestic Beiyuntai Mountain, and across the sea from Lianyungang Port, the east bridgehead of the famous New Eurasian Continental Bridge. Liandao has a long and narrow shape, running southeast and northwest. The straight line distance from east to west is 5.5 kilometers, and the straight line distance from north to south is 0.9 kilometers. The coastline is 18 kilometers long. The highest peak, the mast tip, is 357.8 meters above sea level. The mountains are winding and the peaks are surging, arranged like a picture screen, just like a beautiful sea screen.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -64,19 +66,18 @@ Lian Island (Chinese: 连岛; pinyin: lián dǎo) is the largest island in Liany
 ## 附近酒店 / Nearby hotels
 
 - **神州宾馆** — 10.7 km — star — Shenzhou Hotel · 4★
-- **枫树山庄** — 8.1 km — hotel
-- **Ju Chuan hotel** — 9.9 km — hotel — Ju Chuan hotel
-- **Nuclear Power Hotel** — 10.4 km — hotel — Nuclear Power Hotel
 - **连云港在海一方假日酒店** — 10.5 km — chain
+- **连云港连云区嘉瑞宝广场亚朵酒店** — 11.6 km — chain
+- **7天酒店** — 28.5 km — chain — 7 Days Inn · 7天酒店
+- **枫树山庄** — 8.1 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/连岛)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(iv)"
 lat: -20.208333333
 lon: -69.794444444
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 亨伯斯通和圣劳拉硝石采石场 / Humberstone and Santa Laura Saltpeter Works

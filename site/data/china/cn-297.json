@@ -10,8 +10,8 @@
  "city_zh": "阿坝藏族羌族自治州",
  "city_en": "Aba Tibetan and Qiang Autonomous Prefecture",
  "name_zh": "阿坝州汶川特别旅游区",
- "name_en": "Abazhouwenchuantebie Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Wenchuan County",
+ "name_en_source": "wikipedia",
  "slug": "abazhouwenchuantebie-297",
  "lat": 30.937221,
  "lon": 103.427301,
@@ -22,8 +22,8 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "旅游区位于四川省阿坝藏族羌族自治州汶川县漩三路。以\"世界汶川、水墨桃源\"为旅游定位，是2008年5月12日汶川特大地震重建后特别开发的纪念性和文化主题景区。旅游区涵盖汶川南部的三江乡、映秀镇和水磨镇，由梦幻三江、天地映秀、水磨古镇组成。",
- "intro_en": "The tourist area is located on Xuansan Road, Wenchuan County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province. Positioned as \"World Wenchuan, Ink Peachland\", it is a commemorative and cultural-themed scenic spot specially developed after the reconstruction of the Wenchuan earthquake on May 12, 2008. The tourist area covers Sanjiang Township, Yingxiu Town and Shuimo Town in the south of Wenchuan, and is composed of Dream Sanjiang, Tiandi Yingxiu and Shuimo Ancient Town.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Wenchuan County is a county in Ngawa Tibetan and Qiang Autonomous Prefecture, Sichuan, China. The county has an area of 4,084 square kilometres (1,577 sq mi), and a population of 100,771 as of 2010. Wolong National Nature Reserve is a protected area located in Wenchuan County, which houses more than 150 highly endangered giant pandas. The Wolong Special Administrative Region is also located here. The county's Yingxiu town was the site of the epicentre of the 2008 Sichuan earthquake, also known as the Wenchuan earthquake.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -152,10 +152,11 @@
  "hotels_nearby_30km": 21,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -174,7 +175,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -184,9 +185,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/汶川县"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

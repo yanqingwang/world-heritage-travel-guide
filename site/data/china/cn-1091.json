@@ -10,8 +10,8 @@
  "city_zh": "西安市",
  "city_en": "Xi'an",
  "name_zh": "西安市华清宫景区",
- "name_en": "Xi'an",
- "name_en_source": "wikipedia",
+ "name_en": "Xianshihuaqinggong Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "xianshihuaqinggong-1091",
  "lat": 34.370451,
  "lon": 109.219938,
@@ -22,8 +22,8 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "华清池景区是以温泉汤池知名的中国古代离宫，周、秦、汉、隋、唐历代统治者在此砌石起宇，兴建骊山汤，周筑罗城，大兴温泉宫。1982年，华清池被列为全国第一批重点风景名胜区。",
- "intro_en": "Xi'an is the capital of the Chinese province of Shaanxi. A sub-provincial city on the Guanzhong plain, the city is the most populous in the province and third-most populous in Western China after Chongqing and Chengdu, as well as the most populous in Northwestern China. Based on the city's 2025 1% population sample survey, its estimated year-end resident population was 13.24 million, of whom 10.72 million were urban residents. Xi'an is one of the oldest cities in China. Known as Chang'an throughout much of its history, Xi'an is one of China's Five Great Ancient Capitals, having held the position under several of the most important dynasties in Chinese history, including the Western Zhou, Qin, Western Han, Sui, Northern Zhou and Tang. Xi'an is now the second-most popular tourist destination in China. Xi'an contains the Mausoleum of the First Qin Emperor, including the Terracotta Army, and five component sites of the UNESCO-listed Silk Roads: the Routes Network of Chang'an-Tianshan Corridor. Since the 1980s, as part of the economic growth of inland China especially for the central and northwest regions, Xi'an has developed into a cultural, industrial, political and educational, and r",
- "intro_en_source": "wikipedia",
+ "intro_en": "Huaqing Pool Scenic Area is an ancient Chinese palace famous for its hot springs and hot springs. The rulers of the Zhou, Qin, Han, Sui and Tang dynasties built stone buildings here, built Lishan Hot Spring, built Luo City, and built the Daxing Hot Spring Palace. In 1982, Huaqing Pool was listed as one of the first batch of key scenic spots in the country.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg/1280px-%E8%A5%BF%E5%AE%89%E9%92%9F%E6%A5%BC2020_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,11 +193,10 @@
  "hotels_nearby_30km": 198,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -226,13 +225,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/西安市"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

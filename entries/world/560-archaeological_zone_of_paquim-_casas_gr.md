@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(iii)(iv)"
 lat: 30.36638889
 lon: -107.9475
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:01:00Z"
 ---
 
 # 大卡萨斯的帕魁姆考古区 / Archaeological Zone of Paquimé, Casas Grandes

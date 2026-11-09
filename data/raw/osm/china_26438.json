@@ -1,1 +1,92 @@
-{"hotels": [{"name": "中州华悦酒店", "name_en": null, "stars": null, "brand": null, "lat": 33.7202712, "lon": 114.8575153, "distance_km": 5.2, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 1, "stations": [{"name": "周口东", "name_en": "Zhoukoudong", "lat": 33.6468018, "lon": 114.7407189, "distance_km": 18.7, "operator": "中国铁路郑州局集团有限公司", "high_speed": false}, {"name": "西华", "name_en": null, "lat": 33.7951774, "lon": 114.6045794, "distance_km": 27.1, "operator": null, "high_speed": false}, {"name": "淮阳南", "name_en": null, "lat": 33.5048399, "lon": 114.8962154, "distance_km": 28.0, "operator": null, "high_speed": false}, {"name": "周口", "name_en": null, "lat": 33.5789075, "lon": 114.6597877, "distance_km": 29.3, "operator": "中国铁路武汉局集团有限公司", "high_speed": false}, {"name": "商水", "name_en": null, "lat": 33.5733641, "lon": 114.5666663, "distance_km": 36.5, "operator": null, "high_speed": false}, {"name": "项城", "name_en": null, "lat": 33.413903, "lon": 114.8852009, "distance_km": 38.1, "operator": null, "high_speed": false}, {"name": "周口西", "name_en": null, "lat": 33.6232946, "lon": 114.4834444, "distance_km": 40.8, "operator": null, "high_speed": false}, {"name": "郑郭", "name_en": null, "lat": 33.3950207, "lon": 114.9917594, "distance_km": 41.2, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:33Z"}
+{
+ "hotels": [
+  {
+   "name": "中州华悦酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 33.7202712,
+   "lon": 114.8575153,
+   "distance_km": 5.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 1,
+ "stations": [
+  {
+   "name": "周口东",
+   "name_en": "Zhoukoudong",
+   "lat": 33.6468018,
+   "lon": 114.7407189,
+   "distance_km": 18.7,
+   "operator": "中国铁路郑州局集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "西华",
+   "name_en": null,
+   "lat": 33.7951774,
+   "lon": 114.6045794,
+   "distance_km": 27.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "淮阳南",
+   "name_en": null,
+   "lat": 33.5048399,
+   "lon": 114.8962154,
+   "distance_km": 28.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "周口",
+   "name_en": null,
+   "lat": 33.5789075,
+   "lon": 114.6597877,
+   "distance_km": 29.3,
+   "operator": "中国铁路武汉局集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "商水",
+   "name_en": null,
+   "lat": 33.5733641,
+   "lon": 114.5666663,
+   "distance_km": 36.5,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "项城",
+   "name_en": null,
+   "lat": 33.413903,
+   "lon": 114.8852009,
+   "distance_km": 38.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "周口西",
+   "name_en": null,
+   "lat": 33.6232946,
+   "lon": 114.4834444,
+   "distance_km": 40.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "郑郭",
+   "name_en": null,
+   "lat": 33.3950207,
+   "lon": 114.9917594,
+   "distance_km": 41.2,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:18Z"
+}

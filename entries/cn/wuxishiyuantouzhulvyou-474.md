@@ -2,7 +2,7 @@
 id: "cn-474"
 dataset: "china_5a"
 name_zh: "无锡市鼋头渚旅游风景区"
-name_en: "Yuantouzhu Scenic Area"
+name_en: "Yuantouzhu"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Wuxi"
 lat: 31.479468
 lon: 120.280659
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 无锡市鼋头渚旅游风景区 / Yuantouzhu Scenic Area
+# 无锡市鼋头渚旅游风景区 / Yuantouzhu
 
 > 江苏省 · 无锡市 · 皇家园林
 
@@ -61,7 +61,7 @@ Yuantouzhu occupies the most beautiful corner of Taihu Lake, with beautiful moun
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 

@@ -2,7 +2,7 @@
 id: "cn-424"
 dataset: "china_5a"
 name_zh: "盐城市中华麋鹿园景区"
-name_en: "Yancheng"
+name_en: "Dafeng Milu Nature Reserve"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Yancheng"
 lat: 32.989999
 lon: 120.821875
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 盐城市中华麋鹿园景区 / Yancheng
+# 盐城市中华麋鹿园景区 / Dafeng Milu Nature Reserve
 
 > 江苏省 · 盐城市 · 生态湿地
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Yancheng (simplified Chinese: 盐城; traditional Chinese: 鹽城; pinyin: Yánchéng), formerly known as Yandu, is a prefecture-level city in the eastern coastal Jiangsu province, People's Republic of China. As the city with the largest jurisdictional area in Jiangsu, Yancheng borders Lianyungang to the north, Huai'an to the west, Yangzhou and Taizhou to the southwest, Nantong to the south, and the Yellow Sea to the east. Formerly a county, the current Yancheng city was founded on January 18, 1983. Yancheng, literally "Salt City", is named after the salt harvest fields surrounding the city. According to historical records, collection and production of sea salt in the region began as early as 119 BC, during the Western Han dynasty, when the settlement on the current location of Yancheng was named Yandu County (盐渎县). According to the 2020 census, Yancheng had a registered population of 6,709,629, with 1,733,591 inhabitants in its built up area comprising the districts of Tinghu and Yandu.
+Dafeng Milu Nature Reserve is located in Dafeng, Jiangsu Province and near the Yellow Sea coast in eastern China, with the whole area 78000 ha, the core area 2668 ha, the buffer area 2220, and the experimental area 73112. The Geological landforms are typical coastal wetland, including tidal flats, seasonal stream and part of artificial wetland together with a lot of forest land, salt marsh, and bare land. The city of Dafeng belongs to subtropical and warm temperate zone, where thermophilic crops can grow well and influenced by the East Asian monsoon. The average annual temperature is 14.5 °C and the normal precipitation is over 750 mm per year.
 
 ## 交通 / Transport
 
@@ -69,10 +69,10 @@ Yancheng (simplified Chinese: 盐城; traditional Chinese: 鹽城; pinyin: Yánc
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/盐城市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/江苏大丰麋鹿国家级自然保护区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

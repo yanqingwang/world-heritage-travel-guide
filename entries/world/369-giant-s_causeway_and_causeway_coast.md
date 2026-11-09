@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(vii)(viii)"
 lat: 55.240833333
 lon: -6.511666666
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # “巨人之路”及其海岸 / Giant's Causeway and Causeway Coast

@@ -1,1 +1,136 @@
-{"hotels": [{"name": "华尔道夫酒店", "name_en": "Waldorf Astoria Beijing", "stars": 5, "brand": "Waldorf Astoria", "lat": 39.9145678, "lon": 116.4077835, "distance_km": 1.1, "kind": "star", "source": "OpenStreetMap"}, {"name": "北京王府井希尔顿酒店", "name_en": "Hilton Beijing Wangfujing", "stars": 5, "brand": "Hilton", "lat": 39.9134295, "lon": 116.4071507, "distance_km": 1.2, "kind": "star", "source": "OpenStreetMap"}, {"name": "励骏酒店", "name_en": "Legendale Hotel Beijing", "stars": 5, "brand": null, "lat": 39.9133769, "lon": 116.4127553, "distance_km": 1.4, "kind": "star", "source": "OpenStreetMap"}, {"name": "北京康莱德酒店", "name_en": "Conrad Beijing", "stars": 5, "brand": "Conrad", "lat": 39.9257563, "lon": 116.4541986, "distance_km": 4.3, "kind": "star", "source": "OpenStreetMap"}, {"name": "北京国贸大酒店", "name_en": "China World Hotel", "stars": 5, "brand": "北京国贸大酒店", "lat": 39.9109978, "lon": 116.4525467, "distance_km": 4.4, "kind": "star", "source": "OpenStreetMap"}], "hotels_nearby_30km": 681, "stations": [{"name": "北京北", "name_en": "Beijingbei", "lat": 39.9459061, "lon": 116.3461866, "distance_km": 5.4, "operator": null, "high_speed": true}, {"name": "北京南", "name_en": "Beijingnan", "lat": 39.8634831, "lon": 116.3723994, "distance_km": 7.2, "operator": "中国铁路北京局集团有限公司", "high_speed": true}, {"name": "北京朝阳", "name_en": "Beijing Chaoyang", "lat": 39.9433162, "lon": 116.5024181, "distance_km": 8.7, "operator": null, "high_speed": true}, {"name": "北京", "name_en": "Beijing", "lat": 39.9011168, "lon": 116.4210134, "distance_km": 3.0, "operator": "北京局集团有限公司", "high_speed": false}, {"name": "北京东", "name_en": "Beijingdong", "lat": 39.901096, "lon": 116.478656, "distance_km": 6.9, "operator": null, "high_speed": false}, {"name": "广安门", "name_en": "Guang'anmen", "lat": 39.8802452, "lon": 116.3382518, "distance_km": 7.4, "operator": null, "high_speed": false}, {"name": "北京西", "name_en": "Beijingxi", "lat": 39.8936695, "lon": 116.3151027, "distance_km": 8.3, "operator": null, "high_speed": false}, {"name": "百子湾", "name_en": "Baiziwan", "lat": 39.8754449, "lon": 116.5119303, "distance_km": 10.7, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:18:25Z"}
+{
+ "hotels": [
+  {
+   "name": "华尔道夫酒店",
+   "name_en": "Waldorf Astoria Beijing",
+   "stars": 5,
+   "brand": "Waldorf Astoria",
+   "lat": 39.9145678,
+   "lon": 116.4077835,
+   "distance_km": 1.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京王府井希尔顿酒店",
+   "name_en": "Hilton Beijing Wangfujing",
+   "stars": 5,
+   "brand": "Hilton",
+   "lat": 39.9134295,
+   "lon": 116.4071507,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "励骏酒店",
+   "name_en": "Legendale Hotel Beijing",
+   "stars": 5,
+   "brand": null,
+   "lat": 39.9133769,
+   "lon": 116.4127553,
+   "distance_km": 1.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京康莱德酒店",
+   "name_en": "Conrad Beijing",
+   "stars": 5,
+   "brand": "Conrad",
+   "lat": 39.9257563,
+   "lon": 116.4541986,
+   "distance_km": 4.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北京国贸大酒店",
+   "name_en": "China World Hotel",
+   "stars": 5,
+   "brand": "北京国贸大酒店",
+   "lat": 39.9109978,
+   "lon": 116.4525467,
+   "distance_km": 4.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 681,
+ "stations": [
+  {
+   "name": "北京北",
+   "name_en": "Beijingbei",
+   "lat": 39.9459061,
+   "lon": 116.3461866,
+   "distance_km": 5.4,
+   "operator": null,
+   "high_speed": true
+  },
+  {
+   "name": "北京南",
+   "name_en": "Beijingnan",
+   "lat": 39.8634831,
+   "lon": 116.3723994,
+   "distance_km": 7.2,
+   "operator": "中国铁路北京局集团有限公司",
+   "high_speed": true
+  },
+  {
+   "name": "北京朝阳",
+   "name_en": "Beijing Chaoyang",
+   "lat": 39.9433162,
+   "lon": 116.5024181,
+   "distance_km": 8.7,
+   "operator": null,
+   "high_speed": true
+  },
+  {
+   "name": "北京",
+   "name_en": "Beijing",
+   "lat": 39.9011168,
+   "lon": 116.4210134,
+   "distance_km": 3.0,
+   "operator": "北京局集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "北京东",
+   "name_en": "Beijingdong",
+   "lat": 39.901096,
+   "lon": 116.478656,
+   "distance_km": 6.9,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "广安门",
+   "name_en": "Guang'anmen",
+   "lat": 39.8802452,
+   "lon": 116.3382518,
+   "distance_km": 7.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "北京西",
+   "name_en": "Beijingxi",
+   "lat": 39.8936695,
+   "lon": 116.3151027,
+   "distance_km": 8.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "百子湾",
+   "name_en": "Baiziwan",
+   "lat": 39.8754449,
+   "lon": 116.5119303,
+   "distance_km": 10.7,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:51Z"
+}

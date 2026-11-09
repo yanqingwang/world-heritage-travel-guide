@@ -2,7 +2,7 @@
 id: "cn-875"
 dataset: "china_5a"
 name_zh: "天水市麦积山景区"
-name_en: "Tianshui"
+name_en: "Maijishan Grottoes"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Gansu"
 city_en: "Tianshui City"
 lat: 34.371083
 lon: 106.008607
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 天水市麦积山景区 / Tianshui
+# 天水市麦积山景区 / Maijishan Grottoes
 
 > 甘肃省 · 天水市 · 石窟艺术
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Tianshui is a prefecture-level city in Gansu province, China, and is the province's second-largest city (behind the provincial capital Lanzhou). Located in the southeast of the province, the city strides along the upper reaches of the Wei River and at the boundary of the Loess Plateau and the Qinling Mountains. As of the 2020 census, its population was 2,984,659 inhabitants, of which 1,212,791 lived in the built-up (or metro) area made of the 2 urban districts of Qinzhou and Maiji. The city and its surroundings have played an important role in the early history of China, as still visible in the form of historic sites such as the Maijishan Grottoes.
+The Maijishan Grottoes (simplified Chinese: 麦积山石窟; traditional Chinese: 麥積山石窟; pinyin: Màijīshān Shíkū), formerly romanized as Maichishan, are a series of 194 rock-cut caves cut into the Maijishan hill in Tianshui, Gansu Province, northwest China. They contain over 7,200 Buddhist sculptures and over 1,000 square meters of murals. The name Maijishan consists of three Chinese words (麦积山): mai (麦) is the generic term for most grains, ji (积) means "stack" or "mound", and shan (山) means "mountain". Maijishan is often translated as "wheatstack mountain" or "corn rick mountain". The mountain is formed of purplish red sandstone. Construction of the grottoes began in the Later Qin era (384–417 CE). A team of Chinese archeologists from Beijing conducted the first modern exploration in 1952–53. They devised the numbering system still in use today. Caves #1–50 are on the western cliff face, while caves #51–191 on the eastern cliff face. The grottoes were later photographed by Michael Sullivan and Dominique Darbois, who subsequently published the primary English-language work on the caves noted in the footnotes below. The Maijishan Grottoes are just one of the string of Buddhist grottoes that c
 
 ## 交通 / Transport
 
@@ -74,10 +74,10 @@ Tianshui is a prefecture-level city in Gansu province, China, and is the provinc
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/天水市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/麦积山石窟)
 - [OpenStreetMap](https://www.openstreetmap.org/)

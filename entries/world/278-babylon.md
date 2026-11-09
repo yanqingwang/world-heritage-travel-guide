@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(vi)"
 lat: 40.694444444444
 lon: -73.329444444444
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # 巴比伦 / Babylon

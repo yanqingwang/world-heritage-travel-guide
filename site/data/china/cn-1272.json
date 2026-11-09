@@ -10,8 +10,8 @@
  "city_zh": "大足县",
  "city_en": "Dazu County",
  "name_zh": "大足石刻景区",
- "name_en": "Dazu Rock Carvings",
- "name_en_source": "wikipedia",
+ "name_en": "Dazushike Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "dazushike-1272",
  "lat": 29.718162,
  "lon": 105.717461,
@@ -22,8 +22,8 @@
  "category_zh": "石窟艺术",
  "category_en": "Grotto art",
  "intro_zh": "大足石刻是唐末、宋初时期的宗教摩崖石刻，以佛教题材为主，尤以北山摩崖造像和宝顶山摩崖造像最为著名，是中国著名的古代石刻艺术。1999年，以北山、宝顶山、南山、石篆山、石门山为代表的大足石刻被列入世界文化遗产。",
- "intro_en": "The Dazu Rock Carvings (Chinese: 大足石刻; pinyin: Dàzú Shíkè) are a series of Chinese religious sculptures and carvings and UNESCO World Heritage Site located in Dazu District, Chongqing, China. The carvings date back as far as the 7th century AD, depicting and influenced by Buddhist, Confucian and Taoist beliefs. Some are in rock-cut cave shrines, in the usual Chinese Buddhist style, but many others are rock reliefs carved into the open rock faces. Listed as a World Heritage Site in 1999, the Dazu Rock Carvings are made up of 75 protected sites containing some 50,000 statues, with over 100,000 Chinese characters forming inscriptions and epigraphs. The sites are located in Chongqing Municipality within the steep hillsides throughout Dazu District, located about 165 kilometers west of the urban area of Chongqing. The highlights of the rock grotto are found on Mount Baoding and Mount Beishan.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Dazu Rock Carvings are religious cliff carvings from the late Tang and early Song dynasties. They mainly focus on Buddhist themes. The Beishan Cliff Carvings and Baoding Mountain Cliff Carvings are the most famous. They are a famous ancient stone carving art in China. In 1999, the Dazu Rock Carvings represented by Beishan, Baoding Mountain, Nanshan, Shizhuan Mountain and Shimen Mountain were listed as world cultural heritage.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB.JPG/1280px-%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -212,11 +212,10 @@
  "hotels_nearby_30km": 6,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -235,7 +234,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -245,13 +244,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/大足石刻"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

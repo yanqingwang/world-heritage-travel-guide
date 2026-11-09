@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: 55.9136
 lon: 12.3578
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 北西兰岛狩猎园林 / The par force hunting landscape in North Zealand

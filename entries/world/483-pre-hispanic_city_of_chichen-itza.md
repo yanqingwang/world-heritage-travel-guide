@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(i)(ii)(iii)"
 lat: 20.683055555
 lon: -88.568611111
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:00:59Z"
 ---
 
 # 奇琴伊察古城 / Pre-Hispanic City of Chichen-Itza

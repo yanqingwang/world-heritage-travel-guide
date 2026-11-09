@@ -2,7 +2,7 @@
 id: "cn-316"
 dataset: "china_5a"
 name_zh: "博尔塔拉蒙古自治州赛里木湖景区"
-name_en: "Sailimuhu Scenic Area"
+name_en: "Boertalamengguzizhizhousailimuhu Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Bortala Mongol Autonomous Prefecture"
 lat: 44.612755
 lon: 81.401139
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 博尔塔拉蒙古自治州赛里木湖景区 / Sailimuhu Scenic Area
+# 博尔塔拉蒙古自治州赛里木湖景区 / Boertalamengguzizhizhousailimuhu Scenic Area
 
 > 新疆维吾尔自治区 · 博尔塔拉蒙古自治州 · 生态湿地
 
@@ -58,5 +58,4 @@ Sailimu Lake Scenic Area is the highest mountain lake in Xinjiang with the highe
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/赛里木湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

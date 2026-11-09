@@ -3,7 +3,7 @@
  "unesco_id": "1504",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 974,
+ "popularity_rank": 949,
  "popularity_score": null,
  "country": "BA",
  "country_zh": "波斯尼亚和黑塞哥维那",
@@ -31,10 +31,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "BA-BIH",
+ "subdivision_zh": "波斯尼亚和黑塞哥维那联邦",
+ "subdivision_en": "Federation of Bosnia and Herzegovina",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "斯特茨中世纪墓碑墓地",
  "name_zh_source": "curated",
  "name_en": "Stećci Medieval Tombstone Graveyards",
@@ -215,5 +215,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

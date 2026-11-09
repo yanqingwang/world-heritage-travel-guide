@@ -10,8 +10,8 @@
  "city_zh": "临沂市",
  "city_en": "Linyi",
  "name_zh": "临沂市萤火虫水洞•地下大峡谷旅游区",
- "name_en": "Tianshandaxiagu Tourist Area",
- "name_en_source": "pinyin",
+ "name_en": "Tianshan Grand Canyon",
+ "name_en_source": "wikipedia",
  "slug": "linyishiyinghuochongshuidong-dixiadaxiagu-1392",
  "lat": 35.715492,
  "lon": 118.458368,
@@ -22,8 +22,8 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "山东地下大峡谷是一座风貌奇特的溶洞王国，沂蒙地下奇观核心景区。峡谷洞体长度6100米，目前开发3100米，由巨大的喀斯特裂隙发育而成，是中国著名特大型溶洞之一。",
- "intro_en": "Shandong Underground Grand Canyon is a unique cave kingdom and the core scenic spot of Yimeng underground wonders. The length of the canyon cave is 6,100 meters, of which 3,100 meters are currently under development. It is developed from huge karst fissures and is one of the famous extra-large karst caves in China.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in Xinjiang Uygur Autonomous Region. It is a national forest park and also a 5A-level scenic spot in China.More than 40 kilometers from Ürümqi urban area, the total area of the scenic spot is 1038.48 square kilometers, the average altitude is more than 2000 meters, and the average annual temperature is 4-6 °C.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%E5%A4%A9%E5%B1%B1%E6%89%98%E6%9C%A8%E5%B0%94%E5%A4%A7%E5%B3%A1%E8%B0%B7_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -150,10 +150,11 @@
  "hotels_nearby_30km": 4,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -172,7 +173,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -190,5 +191,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

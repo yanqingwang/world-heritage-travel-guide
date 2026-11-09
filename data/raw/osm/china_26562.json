@@ -1,1 +1,26 @@
-{"hotels": [], "hotels_nearby_30km": 0, "stations": [{"name": "渭源", "name_en": "Weiyuan", "lat": 35.0972158, "lon": 104.2256059, "distance_km": 55.0, "operator": null, "high_speed": false}, {"name": "漳县", "name_en": "Zhangxian", "lat": 34.7181801, "lon": 104.1556001, "distance_km": 58.6, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:18:20Z"}
+{
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "stations": [
+  {
+   "name": "渭源",
+   "name_en": "Weiyuan",
+   "lat": 35.0972158,
+   "lon": 104.2256059,
+   "distance_km": 55.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "漳县",
+   "name_en": "Zhangxian",
+   "lat": 34.7181801,
+   "lon": 104.1556001,
+   "distance_km": 58.6,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:48Z"
+}

@@ -2,7 +2,7 @@
 id: "cn-363"
 dataset: "china_5a"
 name_zh: "延边州六鼎山文化旅游区"
-name_en: "Ding Cultural Tourism Area"
+name_en: "Ding (vessel)"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jilin"
 city_en: "Yanbian Korean Autonomous Prefecture"
 lat: 43.329782
 lon: 128.251207
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 延边州六鼎山文化旅游区 / Ding Cultural Tourism Area
+# 延边州六鼎山文化旅游区 / Ding (vessel)
 
 > 吉林省 · 延边朝鲜族自治州 · 山地风光
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Dunhua Liudingshan Cultural Tourism Zone is located on the south bank of Mudanjiang River, 3 kilometers away from the southern suburbs of Dunhua City, with a planned area of ​​52 square kilometers. The scenic spot focuses on developing tourism projects such as Buddhist culture, Qing ancestor culture, and Bohai culture.
-
-*English introduction: machine translation.*
+Ding (Chinese: 鼎; pinyin: dǐng) are prehistoric and ancient Chinese cauldrons standing upon legs with a lid and two facing handles. They are one of the most important shapes used in Chinese ritual bronzes. They were made in two shapes: round vessels with three legs and rectangular ones with four, the latter often called fāng dǐng (方鼎; 'square ding'). They were used for cooking, storage, and ritual offerings to the gods or to ancestors. The earliest recovered examples are ceramic tripods from the Neolithic Peiligang culture, but they are better known from the Chinese Bronze Age, particularly after the Zhou deemphasized the ritual use of huangjiu alcohol practiced by the Shang kings. Under the Zhou, the ding and the privilege to perform the associated rituals became symbols of authority. The number of permitted ding varied according to one's rank in the Chinese nobility: the Nine Ding of the Zhou kings were a symbol of their rule over all China but were lost by the first emperor, Shi Huangdi in the late 3rd century BCE. Subsequently, imperial authority was represented by the Heirloom Seal of the Realm, carved out of the sacred Heshibi; it was lost at some point during the Five Dynast
 
 ## 交通 / Transport
 
@@ -53,7 +51,7 @@ Dunhua Liudingshan Cultural Tourism Zone is located on the south bank of Mudanji
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

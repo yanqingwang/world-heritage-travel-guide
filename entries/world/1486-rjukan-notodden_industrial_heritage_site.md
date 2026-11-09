@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iv)"
 lat: 59.878611111
 lon: 8.593611111
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 尤坎-诺托登工业遗产 / Rjukan-Notodden Industrial Heritage Site

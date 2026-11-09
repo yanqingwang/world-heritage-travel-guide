@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iii)(iv)(v)"
 lat: 29.106111111
 lon: 58.356944444
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 巴姆城及其文化景观 / Bam and its Cultural Landscape

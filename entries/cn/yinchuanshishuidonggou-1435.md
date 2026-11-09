@@ -2,7 +2,7 @@
 id: "cn-1435"
 dataset: "china_5a"
 name_zh: "银川市水洞沟旅游区"
-name_en: "Yinchuan"
+name_en: "Shuidonggou"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Ningxia"
 city_en: "Yinchuan"
 lat: 38.296135
 lon: 106.515563
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 银川市水洞沟旅游区 / Yinchuan
+# 银川市水洞沟旅游区 / Shuidonggou
 
 > 宁夏回族自治区 · 银川市 · 历史遗址
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Yinchuan (Chinese: 银川; pinyin: Yínchuān; lit. 'Silver River') is a prefecture‑level city and the capital of the Ningxia Hui Autonomous Region in northwest China. It served as the imperial capital of the Tangut‑led Western Xia (1038–1227). Yinchuan hosts the biennial China–Arab States Expo. As of the 2020 Chinese census, Yinchuan’s administrative area had 2,859,074 inhabitants; the built‑up area had 2,564,918 residents, comprising the three urban districts and the urbanized parts of Helan and Yongning counties. At the end of 2024, the resident population of the city was 2,914,700, an increase of 66,600 over the end of the previous year. Among them, the urban population is 2,429,400.
+Shuidonggou is the earliest Paleolithic cultural site excavated in China. The unique Yadan landform and uncanny construction sites have created extraordinary landscapes such as Devil City, skyscraper cliffs, and grand canyons. Together with the blue sky, clear water, cliffs, reeds, mandarin ducks, and wild ducks, they create a peaceful paradise.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,10 +76,10 @@ Yinchuan (Chinese: 银川; pinyin: Yínchuān; lit. 'Silver River') is a prefect
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/银川市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/水洞沟遗址)
 - [OpenStreetMap](https://www.openstreetmap.org/)

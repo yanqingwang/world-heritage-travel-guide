@@ -2,7 +2,7 @@
 id: "cn-1108"
 dataset: "china_5a"
 name_zh: "西安市秦始皇帝陵博物院景区"
-name_en: "Qinshihuangling Scenic Area"
+name_en: "Xianshiqinshihuangdilingbowuyuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shaanxi"
 city_en: "Xi'an"
 lat: 34.394463
 lon: 109.29079
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 西安市秦始皇帝陵博物院景区 / Qinshihuangling Scenic Area
+# 西安市秦始皇帝陵博物院景区 / Xianshiqinshihuangdilingbowuyuan Scenic Area
 
 > 陕西省 · 西安市 · 历史遗址
 
@@ -64,5 +64,4 @@ The museum is a heritage museum based on the Terracotta Warriors and Horses of Q
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/秦始皇陵)
 - [OpenStreetMap](https://www.openstreetmap.org/)

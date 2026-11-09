@@ -3,8 +3,8 @@
  "unesco_id": "1502",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 55,
- "popularity_score": 229727,
+ "popularity_rank": 45,
+ "popularity_score": 208362,
  "country": "IN",
  "country_zh": "印度",
  "country_en": "India",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "IN-BR",
+ "subdivision_zh": "比哈尔邦",
+ "subdivision_en": "Bihar",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "那烂陀寺考古遗址（那烂陀大学），比哈尔邦那烂陀",
  "name_zh_source": "unesco_official",
  "name_en": "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar",
@@ -262,5 +262,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

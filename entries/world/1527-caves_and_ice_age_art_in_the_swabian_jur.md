@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(iii)"
 lat: 48.387777777
 lon: 9.765555555
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 位于施瓦本侏罗山的冰河时期最古老的艺术洞穴 / Caves and Ice Age Art in the Swabian Jura

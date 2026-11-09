@@ -2,7 +2,7 @@
 id: "cn-997"
 dataset: "china_5a"
 name_zh: "商洛市金丝峡景区"
-name_en: "Shangluoshijinsixia Scenic Area"
+name_en: "Jinsixia Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shaanxi"
 city_en: "Shangluo"
 lat: 33.456314
 lon: 110.585101
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 商洛市金丝峡景区 / Shangluoshijinsixia Scenic Area
+# 商洛市金丝峡景区 / Jinsixia Scenic Area
 
 > 陕西省 · 商洛市 · 地质奇观
 
@@ -54,4 +54,5 @@ There are five major scenic spots in the scenic area: Bailong Gorge, Heilong Gor
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/金丝峡)
 - [OpenStreetMap](https://www.openstreetmap.org/)

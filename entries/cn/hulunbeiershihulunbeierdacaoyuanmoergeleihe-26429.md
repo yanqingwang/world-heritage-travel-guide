@@ -2,7 +2,7 @@
 id: "cn-26429"
 dataset: "china_5a"
 name_zh: "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区"
-name_en: "Hulunbuir"
+name_en: "Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.467238
 lon: 119.716673
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区 / Hulunbuir
+# 呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区 / Hulunbeiershihulunbeierdacaoyuan·moergeleihe Scenic Area
 
 > 内蒙古自治区 · 呼伦贝尔市 · 草原沙漠
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Hulunbuir or Hulun Buir is a prefecture-level city in northeastern Inner Mongolia, China. Its administrative center is located at Hailar District, its largest urban area. Major scenic features are the high steppes of the Hulun Buir grasslands, the Hulun and Buir lakes (the latter partially in Mongolia), and the Khingan range. Hulun Buir borders Russia to the north and west, Mongolia to the south and west, Heilongjiang province to the east and Hinggan League to the direct south. Hulunbuir is a linguistically diverse area: next to Mandarin Chinese, Mongolian dialects such as Khorchin and Buryat, the Mongolic language Daur, and some Tungusic languages, including Oroqen and Solon, are spoken there.
+Hulunbuir Prairie·Morgele River Scenic Area is located in Chenbalhu Banner, Hulunbuir City, Inner Mongolia Autonomous Region, covering a total area of ​​51.42 square kilometers. It is a scenic spot with the main landscape based on the natural landforms formed by the Morgele River and Hulunbuir natural meadow grassland. Morgele, Mongolian transliteration, means "winding river". The total length is 319 kilometers and the drainage area is 4987 square kilometers. The famous writer Lao She once praised the river as "the most meandering water in the world" because of its "turns and turns" on the grassland.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -63,19 +65,18 @@ Hulunbuir or Hulun Buir is a prefecture-level city in northeastern Inner Mongoli
 
 ## 附近酒店 / Nearby hotels
 
+- **7天连锁酒店呼伦贝尔海拉尔中央桥店** — 28.7 km — chain — 7Days Inn Hulun Buir Shengli Street
 - **呼伦贝尔融府商务酒店** — 27.9 km — hotel
 - **呼伦布尔** — 28.4 km — hotel
 - **呼伦贝尔酒店** — 28.6 km — hotel
-- **7天连锁酒店呼伦贝尔海拉尔中央桥店** — 28.7 km — chain — 7Days Inn Hulun Buir Shengli Street
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/呼伦贝尔市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-451"
 dataset: "china_5a"
 name_zh: "文山州普者黑旅游景区"
-name_en: "Puzheheihu Scenic Area"
+name_en: "Wenshanzhoupuzhehei Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Yunnan"
 city_en: "Wenshan Zhuang and Miao Autonomous Prefecture"
 lat: 24.12162
 lon: 104.138715
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 文山州普者黑旅游景区 / Puzheheihu Scenic Area
+# 文山州普者黑旅游景区 / Wenshanzhoupuzhehei Scenic Area
 
 > 云南省 · 文山壮族苗族自治州 · 古镇村落
 
@@ -58,5 +58,4 @@ The total area of ​​the scenic area is 388 square kilometers, and the core s
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/普者黑湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

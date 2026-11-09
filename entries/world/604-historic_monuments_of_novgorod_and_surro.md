@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(ii)(iv)(vi)"
 lat: 58.51833333
 lon: 31.28555556
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:01:00Z"
 ---
 
 # 诺夫哥罗德及其周围的历史古迹 / Historic Monuments of Novgorod and Surroundings

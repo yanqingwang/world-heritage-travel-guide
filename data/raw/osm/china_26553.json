@@ -1,1 +1,136 @@
-{"hotels": [{"name": "天街酒店", "name_en": null, "stars": 3, "brand": null, "lat": 29.322294, "lon": 118.1141933, "distance_km": 1.2, "kind": "star", "source": "OpenStreetMap"}, {"name": "天禧温泉酒店", "name_en": null, "stars": null, "brand": null, "lat": 29.3384443, "lon": 117.9588431, "distance_km": 16.4, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "Grand New Century Hotel Wuyuan", "name_en": "Grand New Century Hotel Wuyuan", "stars": null, "brand": null, "lat": 29.2931198, "lon": 117.8557602, "distance_km": 26.5, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "江湾大酒店", "name_en": null, "stars": null, "brand": null, "lat": 29.2520538, "lon": 117.8649436, "distance_km": 26.6, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "婺源国际大酒店", "name_en": null, "stars": null, "brand": null, "lat": 29.2463822, "lon": 117.8628888, "distance_km": 27.0, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 9, "stations": [{"name": "婺源", "name_en": "Wuyuan", "lat": 29.2421028, "lon": 117.8724329, "distance_km": 26.3, "operator": null, "high_speed": true}, {"name": "德兴", "name_en": "Dexing Railway Station", "lat": 28.9604427, "lon": 117.8552437, "distance_km": 48.3, "operator": null, "high_speed": true}, {"name": "德兴东", "name_en": null, "lat": 29.11936, "lon": 117.9537895, "distance_km": 28.3, "operator": null, "high_speed": false}, {"name": "杨林镇", "name_en": null, "lat": 29.0620093, "lon": 118.1786993, "distance_km": 29.6, "operator": null, "high_speed": false}, {"name": "桥上村", "name_en": "Qiaoshangcun", "lat": 29.3135638, "lon": 117.7407943, "distance_km": 37.4, "operator": null, "high_speed": false}, {"name": "开化", "name_en": null, "lat": 28.9942441, "lon": 118.3573008, "distance_km": 43.0, "operator": null, "high_speed": false}, {"name": "黄山", "name_en": "Huangshan", "lat": 29.7248544, "lon": 118.3170111, "distance_km": 48.2, "operator": null, "high_speed": false}, {"name": "德兴铜矿", "name_en": null, "lat": 29.0527515, "lon": 117.7077703, "distance_km": 50.7, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:18:48Z"}
+{
+ "hotels": [
+  {
+   "name": "天街酒店",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 29.322294,
+   "lon": 118.1141933,
+   "distance_km": 1.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "天禧温泉酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.3384443,
+   "lon": 117.9588431,
+   "distance_km": 16.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand New Century Hotel Wuyuan",
+   "name_en": "Grand New Century Hotel Wuyuan",
+   "stars": null,
+   "brand": null,
+   "lat": 29.2931198,
+   "lon": 117.8557602,
+   "distance_km": 26.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "江湾大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2520538,
+   "lon": 117.8649436,
+   "distance_km": 26.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "婺源国际大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2463822,
+   "lon": 117.8628888,
+   "distance_km": 27.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 9,
+ "stations": [
+  {
+   "name": "婺源",
+   "name_en": "Wuyuan",
+   "lat": 29.2421028,
+   "lon": 117.8724329,
+   "distance_km": 26.3,
+   "operator": null,
+   "high_speed": true
+  },
+  {
+   "name": "德兴",
+   "name_en": "Dexing Railway Station",
+   "lat": 28.9604427,
+   "lon": 117.8552437,
+   "distance_km": 48.3,
+   "operator": null,
+   "high_speed": true
+  },
+  {
+   "name": "德兴东",
+   "name_en": null,
+   "lat": 29.11936,
+   "lon": 117.9537895,
+   "distance_km": 28.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "杨林镇",
+   "name_en": null,
+   "lat": 29.0620093,
+   "lon": 118.1786993,
+   "distance_km": 29.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "桥上村",
+   "name_en": "Qiaoshangcun",
+   "lat": 29.3135638,
+   "lon": 117.7407943,
+   "distance_km": 37.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "开化",
+   "name_en": null,
+   "lat": 28.9942441,
+   "lon": 118.3573008,
+   "distance_km": 43.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "黄山",
+   "name_en": "Huangshan",
+   "lat": 29.7248544,
+   "lon": 118.3170111,
+   "distance_km": 48.2,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "德兴铜矿",
+   "name_en": null,
+   "lat": 29.0527515,
+   "lon": 117.7077703,
+   "distance_km": 50.7,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:00Z"
+}

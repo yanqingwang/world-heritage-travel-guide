@@ -145,6 +145,28 @@
  },
  "hotels": [
   {
+   "name": "淄博民泰假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 36.8230834,
+   "lon": 118.0316218,
+   "distance_km": 16.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "锦江之星",
+   "name_en": "Jinjiang Inn",
+   "stars": null,
+   "brand": "锦江之星",
+   "lat": 36.8184667,
+   "lon": 118.046491,
+   "distance_km": 17.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
    "name": "邹平宾馆",
    "name_en": null,
    "stars": null,
@@ -175,28 +197,6 @@
    "lon": 117.9982802,
    "distance_km": 13.4,
    "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "淄博民泰假日酒店",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 36.8230834,
-   "lon": 118.0316218,
-   "distance_km": 16.5,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "锦江之星",
-   "name_en": "Jinjiang Inn",
-   "stars": null,
-   "brand": "锦江之星",
-   "lat": 36.8184667,
-   "lon": 118.046491,
-   "distance_km": 17.8,
-   "kind": "chain",
    "source": "OpenStreetMap"
   }
  ],
@@ -244,5 +244,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

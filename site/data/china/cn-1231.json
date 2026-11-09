@@ -10,8 +10,8 @@
  "city_zh": "昌平区",
  "city_en": "Changping District",
  "name_zh": "明十三陵景区",
- "name_en": "Ming tombs",
- "name_en_source": "wikipedia",
+ "name_en": "Mingshisanling Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "mingshisanling-1231",
  "lat": 40.263544,
  "lon": 116.231846,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "国家级风景名胜区——明十三陵，位于北京以北50公里的昌平区境内天寿山南麓，是明朝（1368-1644）十三位皇帝的陵寝建筑群，规模宏大，体系完备，保存较为完整。辖区内自然景观幽美，文物古迹荟萃。",
- "intro_en": "The Ming tombs are a collection of mausoleums built by the emperors of the Ming dynasty of China. The tomb of the first Ming ruler, the Hongwu Emperor (r. 1368–1398), is located near his capital Nanjing. However, the majority of the Ming tombs are located in a cluster near Beijing and collectively known as the Thirteen Tombs of the Ming dynasty (Chinese: 明十三陵; pinyin: Míng Shísān Líng; lit. 'Ming Thirteen Mausoleums'). They are located within the suburban Changping District of Beijing Municipality, 42 kilometers (26 mi) north-northwest of Beijing's city center. The site, on the southern slope of Tianshou Mountain (originally Huangtu Mountain), was chosen based on the principles of feng shui by the third Ming emperor, the Yongle Emperor (r. 1402–1424). After the construction of the Imperial Palace (Forbidden City) in 1420, the Yongle Emperor selected his burial site and created his own mausoleum. Most of the subsequent emperors placed their tombs in the same valley. From the Yongle Emperor onwards, thirteen Ming emperors were buried in the same area. The Hongwu Emperor's Xiaoling Mausoleum is located near his capital Nanjing; the second emperor, the Jianwen Emperor (r. 1398–1402), w",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Ming Tombs, a national scenic spot, is located at the southern foot of Tianshou Mountain in Changping District, 50 kilometers north of Beijing. It is the mausoleum complex of the thirteen emperors of the Ming Dynasty (1368-1644). It is large in scale, complete in system, and relatively well preserved. The area has beautiful natural landscapes and a collection of cultural relics and historic sites.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Mingchangling201910.jpg/1280px-Mingchangling201910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -203,11 +203,10 @@
  "hotels_nearby_30km": 71,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -226,7 +225,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -236,13 +235,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/明十三陵"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

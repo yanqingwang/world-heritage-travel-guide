@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ix)"
 lat: 49.0
 lon: 15.0
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 喀尔巴阡山脉及欧洲其它地区的原始山毛榉林 / Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe

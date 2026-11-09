@@ -3,7 +3,7 @@
  "unesco_id": "1490",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 970,
+ "popularity_rank": 945,
  "popularity_score": null,
  "country": "KG",
  "country_zh": "吉尔吉斯斯坦",
@@ -26,10 +26,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "KG-C",
+ "subdivision_zh": "楚河州",
+ "subdivision_en": "Chuy Region",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "西部天山",
  "name_zh_source": "unesco_official",
  "name_en": "Western Tien-Shan",
@@ -201,5 +201,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iv)"
 lat: -27.255280555
 lon: -55.531669444
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # 瓜拉尼人聚居地的耶稣会传教区：阿根廷的圣伊格纳西奥米尼、圣安娜、罗雷托圣母村和圣母玛利亚艾尔马约尔村遗迹以及巴西的圣米格尔杜斯米索纳斯遗迹 / Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil)

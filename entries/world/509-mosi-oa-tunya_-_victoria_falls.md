@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(vii)(viii)"
 lat: -17.924777777778
 lon: 25.858055555556
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:00:59Z"
 ---
 
 # 莫西奥图尼亚瀑布（维多利亚瀑布） / Mosi-oa-Tunya / Victoria Falls

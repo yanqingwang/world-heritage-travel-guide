@@ -8,13 +8,13 @@ country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
 unesco_id: "830"
-tier: "full"
+tier: "basic"
 category: "Cultural"
 year: "1997"
 criteria: "(ii)(iv)(v)"
 lat: 40.633333333
 lon: 14.6
-updated_at: "2026-11-08T20:30:01Z"
+updated_at: "2026-11-09T12:01:01Z"
 ---
 
 # 阿马尔菲海岸景观 / Costiera Amalfitana
@@ -27,21 +27,9 @@ updated_at: "2026-11-08T20:30:01Z"
 
 *Ravello September 2007.jpg · see Wikimedia Commons file page*
 
-![20050128 1519 2 sea seen from the amalfi coast.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/20050128_1519_2_sea_seen_from_the_amalfi_coast.JPG/1280px-20050128_1519_2_sea_seen_from_the_amalfi_coast.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![Costiera Amalfitana](https://whc.unesco.org/uploads/sites/site_830.jpg)
 
-*20050128 1519 2 sea seen from the amalfi coast.JPG · Sabine Cretella · CC BY-SA 2.5*
-
-![Amafi0003.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fd/Amafi0003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Amafi0003.jpg · No machine-readable author provided. Idéfix~commonswiki assumed (based on copyright claims). · CC BY-SA 3.0*
-
-![Amalfi Coast (100814001).jpeg](https://upload.wikimedia.org/wikipedia/commons/e/e4/Amalfi_Coast_%28100814001%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
-
-*Amalfi Coast (100814001).jpeg · Steve Femminineo · CC BY 3.0*
-
-![Amalfi Coast (247891351).jpeg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Amalfi_Coast_%28247891351%29.jpeg/1280px-Amalfi_Coast_%28247891351%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
-
-*Amalfi Coast (247891351).jpeg · Kailash U · CC0*
+*Costiera Amalfitana · UNESCO World Heritage Centre · UNESCO / linked thumbnail*
 
 ## 简介 / Introduction
 
@@ -64,27 +52,7 @@ La Costiera amalfitana (o Costa d'Amalfi) è un tratto di costa tirrenica della 
 - ✈ **Salerno Costa d'Amalfi Airport (QSR)** — 26.3 km
 - ✈ **Naples International Airport (NAP)** — 38.3 km
 - ✈ **Foggia Gino Lisa Airport (FOG)** — 118.6 km
-- 🚉 **Cava dei Tirreni** — 12.0 km
-- 🚉 **Castellammare di Stabia** — 12.0 km
-- 🚉 **Stabia Scavi** — 12.1 km
-- 🚉 **Pagani** — 12.7 km
-- 🚉 **Angri** — 12.7 km
-- ⛴ **Molo Pennello** — 0.1 km
-- ⛴ **Minori** — 2.8 km
-- ⛴ **Maiori** — 3.4 km
-- ⛴ **Porto di Castellammare di Stabia** — 12.4 km
-- ⛴ **Salerno Container Terminal** — 12.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8055.2 km**
-
-## 附近酒店 / Nearby hotels
-
-- **Casa Angelina** — 6.9 km — star — 5★
-- **Le Sirenuse** — 9.5 km — star — 5★
-- **Covo dei Saraceni** — 9.6 km — star — 5★
-- **Grand Hotel La Sonrisa** — 10.9 km — star — 5★
-- **Grand Hotel La Pace** — 16.8 km — star — 5★
-
-*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

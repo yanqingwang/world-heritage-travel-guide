@@ -10,8 +10,8 @@
  "city_zh": "商丘市",
  "city_en": "Shangqiu City",
  "name_zh": "商丘市芒砀山汉文化旅游景区",
- "name_en": "Shangqiu",
- "name_en_source": "wikipedia",
+ "name_en": "Shangqiushimangdangshanhanwenhua Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "shangqiushimangdangshanhanwenhua-362",
  "lat": 34.176129,
  "lon": 116.522746,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "芒砀山景区是集山水观光、文化观赏、生态休闲于一体的综合性旅游景区，面积为14平方公里，主要有世界上规模最大的地下西汉梁王陵墓群——汉梁王陵景区、刘邦斩蛇处、大汉雄风景区、芒砀山地质公园、陈胜园景区、夫子山景区、僖山景区等景点。",
- "intro_en": "Shangqiu (Chinese: 商丘), alternately romanized as Shangkiu, is a city in eastern Henan province, Central China. It borders Kaifeng to the northwest, Zhoukou to the southwest, and the provinces of Shandong and Anhui to the northeast and southeast respectively. Its population was 7,816,831 inhabitants as of the 2020 Chinese census, of whom 2,831,814 lived in the built-up (or metro) area made up of two urban districts (Liangyuan and Suiyang) and Yucheng county now being conurbated. Shangqiu and surrounding area was an important base for the Shang dynasty (c. 1600 – c. 1046 BC), and the city itself was established more than three millennia ago. Shangqiu has grown significantly in recent years. It is located at an important location at the junction of several major railways, making it a major regional transportation hub.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Mangdang Mountain Scenic Area is a comprehensive tourist attraction integrating landscape sightseeing, cultural appreciation, and ecological leisure. It covers an area of ​​14 square kilometers. It mainly includes the world's largest underground tombs of the Liang Dynasty Kings of the Western Han Dynasty - Han Liang Wang Tomb Scenic Area, Liu Bang's Snake Killing Area, Dahanxiong Scenic Area, Mangdang Mountain Geopark, Chen Shengyuan Scenic Area, Confucius Mountain Scenic Area, Xishan Scenic Area and other attractions.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/20220726_Historic_City_of_Shangqiu_01.jpg/1280px-20220726_Historic_City_of_Shangqiu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -159,11 +159,10 @@
  "hotels_nearby_30km": 1,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -182,7 +181,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -193,12 +192,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/商丘市"
+   "url": "https://zh.wikipedia.org/wiki/芒砀山汉文化博物馆"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

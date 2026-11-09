@@ -2,7 +2,7 @@
 id: "cn-317"
 dataset: "china_5a"
 name_zh: "马鞍山市长江采石矶文化生态旅游区"
-name_en: "Caishi Rock"
+name_en: "Maanshanshizhangjiangcaishijiwenhuashengtai Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Anhui"
 city_en: "Maanshan City"
 lat: 31.639665
 lon: 118.442385
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 马鞍山市长江采石矶文化生态旅游区 / Caishi Rock
+# 马鞍山市长江采石矶文化生态旅游区 / Maanshanshizhangjiangcaishijiwenhuashengtai Tourist Area
 
 > 安徽省 · 马鞍山市 · 山地风光
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Caishi Rock (simplified Chinese: 采石矶; traditional Chinese: 采石磯; pinyin: Cǎishí jī), also named Niuzhu Rock (simplified Chinese: 牛渚矶; traditional Chinese: 牛渚磯; pinyin: Niúzhǔ jī), is a large rock located in the Yangtze River, located in Ma'anshan, Anhui, China. It is the first of the three most famous rocks in the Yangtze, together with Chengling Rock (城陵矶) and Swallow Rock (燕子矶). It has been an AAAAA Grade Tourist Attraction of China since 2020.
+Yangtze River Caishiji Cultural Ecological Tourism Area is a comprehensive scenic area integrating cultural appreciation, natural sightseeing and leisure walks. With the poet Li Bai as the soul, the profound historical culture as the foundation, and the mountainous landscape of "Cuiluo Floating River" as the feature, the area has famous scenic spots such as Caishiji, Taibai Tower, Banished Immortal Garden, Lin Sanzhi Art Museum, Sanyuan Cave, Yanyuan Garden, Yuanmengyuan Garden, Wanzhuwu, and Santai Pavilion.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Caishi Rock (simplified Chinese: 采石矶; traditional Chinese: 采石磯; piny
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/采石矶)
 - [OpenStreetMap](https://www.openstreetmap.org/)

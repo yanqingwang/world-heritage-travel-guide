@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(iii)(v)(vii)"
 lat: 29.5765
 lon: 35.419927777
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:04Z"
 ---
 
 # 瓦迪拉姆保护区 / Wadi Rum Protected Area

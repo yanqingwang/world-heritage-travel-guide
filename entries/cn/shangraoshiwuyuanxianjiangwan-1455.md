@@ -2,7 +2,7 @@
 id: "cn-1455"
 dataset: "china_5a"
 name_zh: "上饶市婺源县江湾景区"
-name_en: "Wuyuan County, Jiangxi"
+name_en: "Shangraoshiwuyuanxianjiangwan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangxi"
 city_en: "Shangrao"
 lat: 29.374196
 lon: 118.058013
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 上饶市婺源县江湾景区 / Wuyuan County, Jiangxi
+# 上饶市婺源县江湾景区 / Shangraoshiwuyuanxianjiangwan Scenic Area
 
 > 江西省 · 上饶市 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Wuyuan (simplified Chinese: 婺源县; traditional Chinese: 婺源縣; pinyin: Wùyuán Xiàn) is a county in northeastern Jiangxi province, People's Republic of China, bordering the provinces of Zhejiang to the east and Anhui to the north. It is under the jurisdiction of the prefecture-level city of Shangrao. Wuyuan, on the boundary of three provinces in Jiangxi's northeastern corner, has a landscape dotted with strange caves, deep secluded rocks and numerous historic sites. Wuyuan County is home to some of the best-preserved ancient architectures in China. Wuyuan's structures were built in 740 during the Tang Dynasty. Its remoteness and inconvenient transportation protect its villages from too many visitors. It was a county under Huizhou, Anhui province until 1989.
+Jiangwan is an ancient village with rich Huizhou cultural heritage. In the village there are well-preserved Yushi Mansion, Zhongxiandi and other official residences from the Ming and Qing Dynasties, as well as Huizhou folk houses such as the Teng Family Old House and Peixin Hall. Jiangwan bells are beautiful and show the cultural characteristics of Wuyuan. The newly built Baigongfang, Advocating Hall, Commune Canteen and other attractions in Jiangwan Scenic Area allow you to experience the traditional skills of old craftsmen and watch traditional repertoires such as Anhui opera and Wuyuan folk songs, which are of great historical and ornamental value.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,10 +76,10 @@ Wuyuan (simplified Chinese: 婺源县; traditional Chinese: 婺源縣; pinyin: W
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/婺源县)
+- [Wikipedia](https://zh.wikipedia.org/wiki/江湾镇 (婺源县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

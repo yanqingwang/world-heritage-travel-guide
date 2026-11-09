@@ -2,8 +2,8 @@
  "id": "wh-1312",
  "unesco_id": "1312",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 133,
+ "tier": "basic",
+ "popularity_rank": 901,
  "popularity_score": 110487,
  "country": "ES",
  "country_zh": "西班牙",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Investigaciones_sobre_la_fundaci%C3%B3n_y_f%C3%A1brica_de_la_Torre_llamada_de_H%C3%A9rcules%2C_situada_a_la_entrada_del_puerto_de_La_Coru%C3%B1a_%28IA_A086B122%29.pdf/page1-500px-Investigaciones_sobre_la_fundaci%C3%B3n_y_f%C3%A1brica_de_la_Torre_llamada_de_H%C3%A9rcules%2C_situada_a_la_entrada_del_puerto_de_La_Coru%C3%B1a_%28IA_A086B122%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Investigaciones sobre la fundación y fábrica de la Torre llamada de Hércules, situada a la entrada del puerto de La Coruña (IA A086B122).pdf",
-   "author": "Cornide, José, 1734-1803 Cano, Benito",
-   "license": "Public domain",
-   "credit": "Internet Archive identifier : A086B122 https://archive.org/download/A086B122/A086B122.pdf IA contributor: Biblioteca de la Universidad de Sevilla",
-   "source": "https://commons.wikimedia.org/wiki/File:Investigaciones_sobre_la_fundaci%C3%B3n_y_f%C3%A1brica_de_la_Torre_llamada_de_H%C3%A9rcules%2C_situada_a_la_entrada_del_puerto_de_La_Coru%C3%B1a_%28IA_A086B122%29.pdf"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/559-Torre_de_Hercules%2C_A_Coru%C3%B1a.jpg/1280px-559-Torre_de_Hercules%2C_A_Coru%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "559-Torre de Hercules, A Coruña.jpg",
-   "author": "Jose Luis Cernadas Iglesias",
-   "license": "CC BY 2.0",
-   "credit": "originally posted to Flickr as 559-Torre de Hercules",
-   "source": "https://commons.wikimedia.org/wiki/File:559-Torre_de_Hercules%2C_A_Coru%C3%B1a.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/A_coruna_torre_de_hercules_sunset_edit.jpg/1280px-A_coruna_torre_de_hercules_sunset_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A coruna torre de hercules sunset edit.jpg",
-   "author": "Alessio Damato",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_coruna_torre_de_hercules_sunset_edit.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/A_coruna_torre_de_hercules_sunset.jpg/1280px-A_coruna_torre_de_hercules_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A coruna torre de hercules sunset.jpg",
-   "author": "Alessio Damato",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:A_coruna_torre_de_hercules_sunset.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_1312.jpg",
+   "title": "Tower of Hercules",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/1312",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1312",
@@ -121,116 +97,10 @@
   ],
   "nearest_airport_km": 9.6,
   "distance_beijing_km": 9225.1,
-  "ferry_terminals": [
-   {
-    "name": "Terminal de cruceiros",
-    "name_en": "Cruise ship terminal",
-    "lat": 43.3671785,
-    "lon": -8.3986454,
-    "distance_km": 2.2,
-    "operator": null
-   }
-  ],
-  "railway_stations": [
-   {
-    "name": "A Coruña",
-    "name_en": null,
-    "lat": 43.3525198,
-    "lon": -8.4099507,
-    "distance_km": 3.7,
-    "operator": "Adif"
-   },
-   {
-    "name": "O Burgo-Santiago",
-    "name_en": null,
-    "lat": 43.3179815,
-    "lon": -8.3686174,
-    "distance_km": 8.1,
-    "operator": "Adif"
-   },
-   {
-    "name": "Uxes",
-    "name_en": null,
-    "lat": 43.2975115,
-    "lon": -8.4441772,
-    "distance_km": 10.3,
-    "operator": "Adif"
-   },
-   {
-    "name": "Pontedeume",
-    "name_en": null,
-    "lat": 43.4118465,
-    "lon": -8.1803439,
-    "distance_km": 18.5,
-    "operator": "Adif"
-   },
-   {
-    "name": "Barallobre",
-    "name_en": null,
-    "lat": 43.4628782,
-    "lon": -8.1886027,
-    "distance_km": 19.6,
-    "operator": "Adif"
-   }
-  ]
+  "ferry_terminals": [],
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "NH Collection A Coruña Finisterre",
-   "name_en": null,
-   "stars": 5,
-   "brand": null,
-   "lat": 43.3687281,
-   "lon": -8.3927635,
-   "distance_km": 2.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Eurostars Ciudad de A Coruña",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Eurostars",
-   "lat": 43.3843924,
-   "lon": -8.3946686,
-   "distance_km": 1.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Meliá María Pita",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 43.375344,
-   "lon": -8.4027072,
-   "distance_km": 1.2,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "DoubleTree by Hilton A Coruña",
-   "name_en": "DoubleTree by Hilton A Coruna",
-   "stars": 4,
-   "brand": "DoubleTree",
-   "lat": 43.3740821,
-   "lon": -8.4003928,
-   "distance_km": 1.4,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Eurostars Atlántico",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Eurostars Hotel Company",
-   "lat": 43.3683025,
-   "lon": -8.4008019,
-   "distance_km": 2.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "ES",
   "country_zh": "西班牙",
@@ -300,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

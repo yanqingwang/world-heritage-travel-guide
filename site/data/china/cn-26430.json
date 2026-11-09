@@ -10,8 +10,8 @@
  "city_zh": "本溪市",
  "city_en": "Benxi City",
  "name_zh": "本溪市五女山景区",
- "name_en": "Benxi",
- "name_en_source": "wikipedia",
+ "name_en": "Wunvshanzhan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "benxishiwunvshan-26430",
  "lat": 41.332991,
  "lon": 125.419948,
@@ -22,8 +22,8 @@
  "category_zh": "主题乐园",
  "category_en": "Theme park",
  "intro_zh": "五女山景区，坐落于辽宁省本溪市桓仁满族自治县县城东北8公里的浑江右岸，面积10.8平方公里，包括五女山山城遗址展示区、自然景观区和五女山博物馆三部分。景区以山岳湖泊风光为依托、以五女山山城为核心、以再现历史文化为主题，形成了集聚山岳观光、遗址游览、文化体验、滨湖漫游、科普教育等功能于一体的综合型旅游景区。",
- "intro_en": "Benxi (Chinese: 本溪) is a prefecture-level city located in the east of Liaoning province, People's Republic of China, southeast of the provincial capital of Shenyang. As of the 2020 census, its population was 1,326,018 (1,709,538 in 2010), of whom 809,655 lived in the built-up area made of 3 urban districts (Pingshan, Xihu and Mingshan). It was founded as a metallurgical center in 1915. Benxi Iron and Steel Company (Bengang) is the largest employer in the city, and used to be the fourth-largest steel company in China. The second-largest industry in Benxi is coal mining. The city has pollution problems due to steel production and coal mining.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Wunvshan Scenic Area is located on the right bank of the Hun River, 8 kilometers northeast of Huanren Manchu Autonomous County, Benxi City, Liaoning Province. It covers an area of ​​10.8 square kilometers and includes three parts: the Wunvshan Mountain City Ruins Exhibition Area, the Natural Landscape Area and the Wunvshan Museum. The scenic spot is based on the scenery of mountains and lakes, with the Wunvshan Mountain City as the core, and the theme of reproducing historical culture, forming a comprehensive tourist attraction that integrates mountain sightseeing, site tours, cultural experience, lakeside roaming, science education and other functions.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Benxi_Blick_%C3%BCber_die_Stadt.jpg/1280px-Benxi_Blick_%C3%BCber_die_Stadt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137,11 +137,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -160,7 +159,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -171,12 +170,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/本溪市"
+   "url": "https://zh.wikipedia.org/wiki/五女山站"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

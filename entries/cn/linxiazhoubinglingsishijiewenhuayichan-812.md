@@ -2,7 +2,7 @@
 id: "cn-812"
 dataset: "china_5a"
 name_zh: "临夏州炳灵寺世界文化遗产旅游区"
-name_en: "Linxiazhoubinglingsishijiewenhuayichan Tourist Area"
+name_en: "List of World Heritage Sites in China"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Gansu"
 city_en: "Linxiahuizu Autonomous Prefecture"
 lat: 36.021258
 lon: 103.742572
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 临夏州炳灵寺世界文化遗产旅游区 / Linxiazhoubinglingsishijiewenhuayichan Tourist Area
+# 临夏州炳灵寺世界文化遗产旅游区 / List of World Heritage Sites in China
 
 > 甘肃省 · 临夏回族自治州 · 宗教文化
 
@@ -28,9 +28,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Bingling Temple is located in Xiaojishi Mountain 35 kilometers southwest of Yongjing County, Linxia, ​​Gansu Province. Bingling Temple was first called "Tang Shu Cave", which means "ghost cave" in Qiang language. Bingling Temple was founded in the Western Qin Dynasty and has been expanded through the Northern Wei, Western Wei, Northern Zhou, Sui, Tang, Yuan, Ming and Qing dynasties. It has a history of more than 1,600 years.
-
-*English introduction: machine translation.*
+The United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Sites are places of importance to cultural or natural heritage as described in the UNESCO World Heritage Convention, established in 1972. Cultural heritage consists of monuments (such as architectural works, monumental sculptures, or inscriptions), groups of buildings, and sites (including archaeological sites). Natural features (consisting of physical and biological formations), geological and physiographical formations (including habitats of threatened species of animals and plants), and natural sites which are important from the point of view of science, conservation or natural beauty, are defined as natural heritage. China accepted the convention on 12 December 1985, making its sites eligible for inclusion on the list. China has 61 World Heritage Sites on the list, ranking second in the world, just below Italy with 62 sites. Of these 61 sites, 42 are listed for their cultural, 15 for their natural, and 4 sites for both cultural and natural significance. In addition, China also has 60 sites on its tentative list. The first sites in China were added to the list in 1987 when six sites were
 
 ## 交通 / Transport
 
@@ -54,7 +52,7 @@ Bingling Temple is located in Xiaojishi Mountain 35 kilometers southwest of Yong
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

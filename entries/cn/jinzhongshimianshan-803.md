@@ -2,7 +2,7 @@
 id: "cn-803"
 dataset: "china_5a"
 name_zh: "晋中市绵山风景区"
-name_en: "Jinzhong"
+name_en: "Jinzhongshimianshanfeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanxi"
 city_en: "Jinzhong"
 lat: 36.912044
 lon: 111.966208
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 晋中市绵山风景区 / Jinzhong
+# 晋中市绵山风景区 / Jinzhongshimianshanfeng Scenic Area
 
 > 山西省 · 晋中市 · 皇家园林
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Jinzhong, formerly Yuci, is a prefecture-level city in east central Shanxi province of the People's Republic of China, bordering Hebei province to the east. As of the 2020 census, its total population was 3,379,498 inhabitants of whom 1,226,617 lived in the Yuci and Taigu urban districts. However, 5,433,659 lived in the built-up (or metro) area of Taiyuan - Jinzhong made of Yuci district plus the 6 Taiyuan urban/built-up districts, largely conurbated.
+Mianshan Scenic Area, spanning the boundaries of Jiexiu, Lingshi and Qinyuan cities and counties, is a branch of Taiyue Mountain. Among the architectural groups in the scenic area, religious buildings include temples and palaces, garden buildings include pavilions, terraces, towers, pavilions, pavilions, corridors, pavilions, and archways, and ancient relic buildings include ancient camp gates, cities, camps, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -72,10 +74,9 @@ Jinzhong, formerly Yuci, is a prefecture-level city in east central Shanxi provi
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/晋中市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

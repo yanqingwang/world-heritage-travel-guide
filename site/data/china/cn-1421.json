@@ -10,8 +10,8 @@
  "city_zh": "宁波市",
  "city_en": "Ningbo City",
  "name_zh": "宁波市溪口-滕头旅游景区",
- "name_en": "Ningboshixikou-tengtou Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Xikou",
+ "name_en_source": "wikipedia",
  "slug": "ningboshixikoutengtou-1421",
  "lat": 29.705123,
  "lon": 121.396879,
@@ -22,8 +22,8 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "奉化溪口-滕头旅游景区，由溪口风景区和滕头生态旅游区两大景区组成。溪口风景区，东靠武岭，南濒剡溪，北靠雪窦山，水绕山环，景色秀丽，深得旅游爱好者的青睐。滕头生态旅游区因美丽的生态景观、特色的乡村风情而闻名，是一个将国际时尚与中国经典乡村文化结合起来的生态旅游度假区。",
- "intro_en": "Fenghua Xikou-Tengtou tourist area consists of two major scenic areas: Xikou Scenic Area and Tengtou Ecological Tourism Area. Xikou Scenic Area is bordered by Wuling in the east, Yanxi River in the south, and Xuedou Mountain in the north. The water is surrounded by mountains and the scenery is beautiful. It is favored by travel enthusiasts. Tengtou Eco-tourism Zone is famous for its beautiful ecological landscape and distinctive rural style. It is an eco-tourism resort that combines international fashion with Chinese classic rural culture.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Xikou (simplified Chinese: 溪口镇; traditional Chinese: 溪口鎮; pinyin: Xīkǒu Zhèn; Wade–Giles: Hsi¹-k'ou³ Chen⁴) is a town of 84,000 in northeastern Zhejiang province, People's Republic of China. It is located 39 kilometers (24 mi) west of Ningbo and covers 381 square kilometers (147 sq mi). It is under the administration of Fenghua District, and is the birthplace and ancestral home of the former President of the Republic of China Chiang Kai-shek. Mao Fumei, divorced wife of ROC President Chiang Kai-shek and mother of ROC President Chiang Ching-kuo, was killed during the Japanese bombing of Xikou on December 12, 1939.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "http://www.xikoutourism.com/index.html",
  "booking": "http://www.xikoutourism.com/",
@@ -156,6 +156,7 @@
   "ja": true,
   "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -184,9 +185,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/溪口镇 (宁波市)"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

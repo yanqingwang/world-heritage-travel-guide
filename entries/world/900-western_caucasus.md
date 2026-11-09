@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ix)(x)"
 lat: 44.0
 lon: 40.0
-updated_at: "2026-11-08T20:30:01Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 西高加索山 / Western Caucasus

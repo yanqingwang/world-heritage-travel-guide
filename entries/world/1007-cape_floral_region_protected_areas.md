@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ix)(x)"
 lat: -34.166667
 lon: 18.375
-updated_at: "2026-11-08T20:30:02Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 开普植物保护区 / Cape Floral Region Protected Areas

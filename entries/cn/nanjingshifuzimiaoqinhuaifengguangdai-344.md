@@ -2,7 +2,7 @@
 id: "cn-344"
 dataset: "china_5a"
 name_zh: "南京市夫子庙-秦淮风光带"
-name_en: "Nanjingfuzimiao"
+name_en: "Nanjing Fuzimiao"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Nanjing"
 lat: 32.027197
 lon: 118.794426
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 南京市夫子庙-秦淮风光带 / Nanjingfuzimiao
+# 南京市夫子庙-秦淮风光带 / Nanjing Fuzimiao
 
 > 江苏省 · 南京市 · 皇家园林
 
@@ -42,9 +42,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-The Qinhuai River is five kilometers long and is known as the "Ten Miles of Qinhuai" in history. It is the essence of the Confucius Temple-Qinhuai Scenic Area. Confucius Temple-Qinhuai Scenic Belt is a tourist area integrating natural scenery, landscape gardens, temples and schools, residents and local people.
-
-*English introduction: machine translation.*
+Nanjing Fuzimiao (Chinese: 南京夫子庙) or Fuzimiao (Chinese: 夫子庙; lit. 'Confucian Temple'), is a Confucius Temple and former site of imperial examination hall located in southern Nanjing City on banks of the Qinhuai River. It is now a popular tourist attraction with pedestrian shopping streets around the restored temple buildings. Nanjing Confucius Temple is located in Qinhuai District, Nanjing City, on the north bank of the Qinhuai River Gongyuan Street, Jiangnan Gongyuan west, located in the Confucius temple Qinhuai scenery belt core area, namely Nanjing Confucius Temple, Nanjing Confucian Temple, Wenxuanwang Temple, for the place of worship and sacrifice of Confucius. It is the first national highest institution of learning in China, one of the four major temples of literature in China, the hub of ancient Chinese culture, the place where Nanking history and humanities gather and is not only the cultural and educational centre of Nanjing in the Ming and Qing dynasties but also the cultural and educational architectural complex that ranks first in the southeastern provinces.
 
 ## 交通 / Transport
 
@@ -69,7 +67,7 @@ The Qinhuai River is five kilometers long and is known as the "Ten Miles of Qinh
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 

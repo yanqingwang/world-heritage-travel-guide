@@ -10,8 +10,8 @@
  "city_zh": "长春市",
  "city_en": "Changchun",
  "name_zh": "长春市净月潭景区",
- "name_en": "Jingyuetan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Jingyuetan National Forest Park",
+ "name_en_source": "wikipedia",
  "slug": "changchunshijingyuetan-366",
  "lat": 43.694969,
  "lon": 125.476531,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "净月潭景区是国家级风景名胜区、国家森林公园。净月潭形状如弯月，含沙净水，拥有着独特风光，是山峦环绕草木茂密的水库型游览区。景区具有冬雪夏爽的特征，拥有集湖、林、山、田于一体的独特风貌。",
- "intro_en": "Jingyuetan Scenic Area is a national scenic spot and a national forest park. Jingyuetan is shaped like a crescent moon, contains sand and pure water, and has unique scenery. It is a reservoir-shaped tourist area surrounded by mountains and dense vegetation. The scenic spot has the characteristics of snow in winter and coolness in summer, and has a unique style integrating lakes, forests, mountains and fields.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Jingyuetan National Forest Park is a forest park and tourist attraction in Changchun, Jilin. 18km southeast of the city, the park covers over 100 square kilometers. The park was created in 1934, approved as a forest park in 1989 and the lake was listed as a key national scenic area in 1998. According to the government of Changchun, the park is the largest man-made forest in Asia. The man-made forest had an area of 1,000 hectares in the 1930s, but by 2015 the area was around 10,000 hectares. The forest park is one of the AAAAA Tourist Attractions of China. There are more than 100 high points within the park.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E5%87%80%E6%9C%88%E6%BD%AD_jing_yue_tan_-_panoramio.jpg/1280px-%E5%87%80%E6%9C%88%E6%BD%AD_jing_yue_tan_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,10 +193,11 @@
  "hotels_nearby_30km": 64,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -215,7 +216,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -233,5 +234,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

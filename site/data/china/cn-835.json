@@ -10,8 +10,8 @@
  "city_zh": "忻州市",
  "city_en": "Xinzhou",
  "name_zh": "忻州市五台山风景名胜区",
- "name_en": "Xinzhoushiwutaishan Scenic and Historic Area",
- "name_en_source": "pinyin",
+ "name_en": "Huanglong Scenic and Historic Interest Area",
+ "name_en_source": "wikipedia",
  "slug": "xinzhoushiwutaishanfengjingmingshengqu-835",
  "lat": 38.90908,
  "lon": 113.65576,
@@ -22,8 +22,8 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "五台山是中国修建佛教建筑最早的地方之一，佛光寺和南禅寺是中国现存最早的两座木质结构建筑。主要景点有塔院寺、菩萨顶、佛光寺、五爷庙、显通寺、万佛阁等。",
- "intro_en": "Mount Wutai is one of the earliest places to build Buddhist buildings in China. Foguang Temple and Nanchan Temple are the two earliest existing wooden structures in China. The main attractions include Tayuan Temple, Bodhisattva Peak, Foguang Temple, Wuye Temple, Xiantong Temple, Wanfo Pavilion, etc.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -130,10 +130,11 @@
  "hotels_nearby_30km": 3,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -152,7 +153,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -162,9 +163,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

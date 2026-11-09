@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)"
 lat: 16.95083333
 lon: -96.42111111
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:04Z"
 ---
 
 # 瓦哈卡州中央谷地的亚古尔与米特拉史前洞穴 / Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca

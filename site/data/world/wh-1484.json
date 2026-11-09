@@ -3,8 +3,8 @@
  "unesco_id": "1484",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 377,
- "popularity_score": 21792,
+ "popularity_rank": 350,
+ "popularity_score": 20290,
  "country": "JP",
  "country_zh": "日本",
  "country_en": "Japan",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "JP-35",
+ "subdivision_zh": "山口县",
+ "subdivision_en": "Yamaguchi Prefecture",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "明治工业革命遗迹：钢铁、造船和煤矿",
  "name_zh_source": "unesco_official",
  "name_en": "Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",
@@ -172,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

@@ -3,7 +3,7 @@
  "unesco_id": "1496",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 972,
+ "popularity_rank": 947,
  "popularity_score": null,
  "country": "US",
  "country_zh": "美国",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "US-PA",
+ "subdivision_zh": "宾夕法尼亚州",
+ "subdivision_en": "Pennsylvania",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "弗兰克·劳埃德·赖特的20世纪建筑作品",
  "name_zh_source": "unesco_official",
  "name_en": "The 20th-Century Architecture of Frank Lloyd Wright",
@@ -164,5 +164,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

@@ -1,0 +1,153 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Saski Krakow, Curio Collection by Hilton",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Curio Collection",
+   "lat": 50.0633379,
+   "lon": 19.9374505,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "The Bonerowski Palace",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.0625916,
+   "lon": 19.9382762,
+   "distance_km": 0.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Grand Hotel",
+   "name_en": null,
+   "stars": 5,
+   "brand": null,
+   "lat": 50.0636094,
+   "lon": 19.9377729,
+   "distance_km": 0.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Wyndham Grand Krakow Old Town",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Wyndham Grand",
+   "lat": 50.0638819,
+   "lon": 19.9404196,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Radisson Blu",
+   "name_en": null,
+   "stars": 5,
+   "brand": "Radisson Blu",
+   "lat": 50.0582578,
+   "lon": 19.9330149,
+   "distance_km": 0.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 420,
+ "stations": [
+  {
+   "name": "Kraków Główny",
+   "name_en": "Krakow Main Station",
+   "lat": 50.0684238,
+   "lon": 19.9478862,
+   "distance_km": 1.1,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Kraków Bonarka",
+   "name_en": null,
+   "lat": 50.0298423,
+   "lon": 19.9464698,
+   "distance_km": 3.7,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Kraków Płaszów",
+   "name_en": null,
+   "lat": 50.0350214,
+   "lon": 19.9747852,
+   "distance_km": 4.0,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Kraków Mydlniki",
+   "name_en": null,
+   "lat": 50.0835874,
+   "lon": 19.8597855,
+   "distance_km": 6.0,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Kraków Batowice",
+   "name_en": null,
+   "lat": 50.1075321,
+   "lon": 19.9954682,
+   "distance_km": 6.6,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Kraków Bieżanów",
+   "name_en": null,
+   "lat": 50.0214997,
+   "lon": 20.0298488,
+   "distance_km": 8.0,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Kraków Lotnisko",
+   "name_en": "Kraków Airport",
+   "lat": 50.0709399,
+   "lon": 19.8012796,
+   "distance_km": 9.7,
+   "operator": "PKP Polskie Linie Kolejowe"
+  },
+  {
+   "name": "Wieliczka Park",
+   "name_en": null,
+   "lat": 49.9891052,
+   "lon": 20.0493336,
+   "distance_km": 11.4,
+   "operator": "PKP Polskie Linie Kolejowe"
+  }
+ ],
+ "ferry_terminals": [
+  {
+   "name": "Most Kotlarski",
+   "name_en": null,
+   "lat": 50.0519138,
+   "lon": 19.9605668,
+   "distance_km": 2.0,
+   "operator": null
+  },
+  {
+   "name": "Most Piłsudskiego",
+   "name_en": null,
+   "lat": 50.0447807,
+   "lon": 19.9448655,
+   "distance_km": 2.0,
+   "operator": "Krakowski Tramwaj Wodny"
+  },
+  {
+   "name": "Stopień Dąbie",
+   "name_en": null,
+   "lat": 50.0541659,
+   "lon": 19.9754165,
+   "distance_km": 2.9,
+   "operator": null
+  }
+ ],
+ "fetched_at": "2026-11-09T11:59:39Z"
+}

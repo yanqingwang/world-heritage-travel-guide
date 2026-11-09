@@ -2,7 +2,7 @@
 id: "cn-1080"
 dataset: "china_5a"
 name_zh: "延安市黄帝陵景区"
-name_en: "Yan'an"
+name_en: "Mausoleum of the Yellow Emperor"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shaanxi"
 city_en: "Yan'an"
 lat: 35.58673
 lon: 109.281748
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 延安市黄帝陵景区 / Yan'an
+# 延安市黄帝陵景区 / Mausoleum of the Yellow Emperor
 
 > 陕西省 · 延安市 · 历史遗址
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Yan'an is a prefecture-level city in the Shaanbei region of Shaanxi province, China, bordering Shanxi to the east and Gansu to the west. It administers several counties, including Zhidan (formerly Bao'an), which served as the headquarters of the Chinese Communist Party (CCP) before the city of Yan'an proper took that role. Yan'an was near the endpoint of the Long March, and became the center of the Chinese Communist Revolution from late 1935 to early 1947. Chinese communists celebrate Yan'an as the birthplace of the revolution. As of 2019, Yan'an has approximately 2,255,700 permanent residents.
+The Mausoleum of the Yellow Emperor (simplified Chinese: 黄帝陵; traditional Chinese: 黃帝陵; pinyin: Huángdì Líng) is the alleged burial site of the legendary Yellow Emperor (Huangdi) of China. It is located in Huangling County, Yan'an City, Shaanxi Province, China. According to legend, the Yellow Emperor attained immortality and rose to Heaven, leaving behind only his clothing and cap to be entombed. The mausoleum is located on Qiao Mountain, north of Yan'an proper. In 1961, the Chinese State Council proclaimed it as the first National State-Protected Great Cultural Site, with the identifier "Ancient Tomb #1" and the moniker "The First Tomb Under Heaven". The mausoleum was anciently called "Qiao Tomb", and was an important location where generations of emperors and famous people made offerings to the Yellow Emperor. According to historical records, the earliest offerings to the Yellow Emperor at the mausoleum's location began in 442 BCE. From the establishment of a shrine proper in the year 770 CE during the Tang dynasty, it was the scene of regular national offerings and sacrifices. The site has been rebuilt and restored several times, most recently beginning in 1993. The Yellow Emper
 
 ## 交通 / Transport
 
@@ -69,10 +69,10 @@ Yan'an is a prefecture-level city in the Shaanbei region of Shaanxi province, Ch
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/延安市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黄帝陵 (黄陵县))
 - [OpenStreetMap](https://www.openstreetmap.org/)

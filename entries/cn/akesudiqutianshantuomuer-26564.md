@@ -2,7 +2,7 @@
 id: "cn-26564"
 dataset: "china_5a"
 name_zh: "阿克苏地区天山托木尔景区"
-name_en: "Aksu Prefecture"
+name_en: "Tuomuerfeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Aksu Prefecture"
 lat: 41.725426
 lon: 80.558971
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 阿克苏地区天山托木尔景区 / Aksu Prefecture
+# 阿克苏地区天山托木尔景区 / Tuomuerfeng Scenic Area
 
 > 新疆维吾尔自治区 · 阿克苏地区 · 草原沙漠
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Aksu Prefecture is located in west-central Xinjiang, China. It has an area of 131,161 km2 (50,642 sq mi) and 2.714 million inhabitants at the 2020 census whom 715,319 lived in the built-up (or metro) area made up of Aksu urban district. The name Aksu is Turkic for 'white water'. Aksu Prefecture has a 263.8 km (163.9 mi) long international boundary with Kyrgyzstan and Kazakhstan.
+The Aksu region, with its magnificent natural scenery, has the highest peak in the Tianshan Mountains - Tomur Peak; the world's second largest mobile desert - the Taklamakan Desert; the country's longest inland river - the Tarim River; the world's largest and best-preserved primitive Populus euphratica forest; the national nature reserve - Tomur Peak Nature Reserve; and natural scenic spots such as the Yadan Landform, Wensu Grand Canyon, and the Tianshan Sacred Wood Garden. The natural scenery embodies the culmination of northern and southern Xinjiang.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -67,10 +69,10 @@ Aksu Prefecture is located in west-central Xinjiang, China. It has an area of 13
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/阿克苏地区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/托木尔峰)
 - [OpenStreetMap](https://www.openstreetmap.org/)

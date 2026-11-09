@@ -2,9 +2,9 @@
  "id": "wh-588",
  "unesco_id": "588",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 138,
- "popularity_score": 106638,
+ "tier": "basic",
+ "popularity_rank": 681,
+ "popularity_score": 4620,
  "country": "RO",
  "country_zh": "罗马尼亚",
  "country_en": "Romania",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Black_Sea_Mouth_of_the_Danube_River.webm/1280px--Black_Sea_Mouth_of_the_Danube_River.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-   "title": "Black Sea Mouth of the Danube River.webm",
-   "author": "Türk Deniz Araştırmaları Vakfı (TÜDAV) / Turkish Marine Research Foundation (TUDAV)",
-   "license": "CC BY 3.0",
-   "credit": "YouTube : Black Sea Mouth of the Danube River – View/save archived versions on archive.org",
-   "source": "https://commons.wikimedia.org/wiki/File:Black_Sea_Mouth_of_the_Danube_River.webm"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/TulceaDonaudelta2010Video.ogv/330px--TulceaDonaudelta2010Video.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-   "title": "TulceaDonaudelta2010Video.ogv",
-   "author": "Joergsam",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:TulceaDonaudelta2010Video.ogv"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%22The_Hotel%22_of_cormorans_-_Hotelul_cormoranilor_-_panoramio.jpg/1280px-%22The_Hotel%22_of_cormorans_-_Hotelul_cormoranilor_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "\"The Hotel\" of cormorans - Hotelul cormoranilor - panoramio.jpg",
-   "author": "Ioan Cepaliga",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161022011155/http://www.panoramio.com/photo/51329754",
-   "source": "https://commons.wikimedia.org/wiki/File:%22The_Hotel%22_of_cormorans_-_Hotelul_cormoranilor_-_panoramio.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/1976_Fisher_village_in_Danube_delta.jpg/1280px-1976_Fisher_village_in_Danube_delta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "1976 Fisher village in Danube delta.jpg",
-   "author": "RudolfSimon",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:1976_Fisher_village_in_Danube_delta.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_588.jpg",
+   "title": "Danube Delta",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/588",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/588",
@@ -121,107 +97,10 @@
   ],
   "nearest_airport_km": 122.7,
   "distance_beijing_km": 6902.2,
-  "ferry_terminals": [
-   {
-    "name": "Crisan",
-    "name_en": null,
-    "lat": 45.1745856,
-    "lon": 29.3857234,
-    "distance_km": 9.4,
-    "operator": "Navrom Delta"
-   },
-   {
-    "name": "Crișan",
-    "name_en": null,
-    "lat": 45.1745515,
-    "lon": 29.3857219,
-    "distance_km": 9.4,
-    "operator": null
-   },
-   {
-    "name": "Sulina",
-    "name_en": null,
-    "lat": 45.1567099,
-    "lon": 29.6613759,
-    "distance_km": 13.5,
-    "operator": "Navrom Delta"
-   },
-   {
-    "name": "Caraorman",
-    "name_en": null,
-    "lat": 45.0809759,
-    "lon": 29.3957519,
-    "distance_km": 15.6,
-    "operator": "Navrom Delta"
-   },
-   {
-    "name": "Mila 23",
-    "name_en": null,
-    "lat": 45.2290684,
-    "lon": 29.2469066,
-    "distance_km": 20.1,
-    "operator": null
-   }
-  ],
+  "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Hotel Sunrise",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 45.1733964,
-   "lon": 29.414819,
-   "distance_km": 7.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Danube Delta Resort",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 45.1760968,
-   "lon": 29.3806132,
-   "distance_km": 9.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Plutitor GG Gociman",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 45.1756795,
-   "lon": 29.3803864,
-   "distance_km": 9.8,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Paradisul Deltei",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 45.1555156,
-   "lon": 29.6667188,
-   "distance_km": 14.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Paradise Delta House",
-   "name_en": null,
-   "stars": 4,
-   "brand": null,
-   "lat": 45.2293738,
-   "lon": 29.2576719,
-   "distance_km": 19.3,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "RO",
   "country_zh": "罗马尼亚",
@@ -293,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:29:59Z"
+ "updated_at": "2026-11-09T12:01:00Z"
 }

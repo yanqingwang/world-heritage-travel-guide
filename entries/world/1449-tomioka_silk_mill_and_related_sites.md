@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iv)"
 lat: 36.2553
 lon: 138.8878
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 富冈制丝厂及相关遗址 / Tomioka Silk Mill and Related Sites

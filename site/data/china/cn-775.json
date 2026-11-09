@@ -10,8 +10,8 @@
  "city_zh": "南平市",
  "city_en": "Nanping",
  "name_zh": "南平市武夷山风景名胜区",
- "name_en": "Nanpingshiwuyishan Scenic and Historic Area",
- "name_en_source": "pinyin",
+ "name_en": "Huanglong Scenic and Historic Interest Area",
+ "name_en_source": "wikipedia",
  "slug": "nanpingshiwuyishanfengjingmingshengqu-775",
  "lat": 27.668108,
  "lon": 117.963042,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "武夷山位于中国福建北部，素有“碧水丹山”“奇秀甲东南”之美誉，是首批国家级重点风景名胜区之一。武夷山分布着世界同纬度带现存最完整、最典型、面积最大的中亚热带原生性森林生态系统。主要景点有天游峰、桃源洞、武夷宫、大王峰、玉女峰、虎啸岩、一线天、天心寺、莲花峰、遇林亭。",
- "intro_en": "Wuyi Mountain is located in the northern part of Fujian, China. It is known as the \"Blue Water Mountain\" and \"The Beautiful Southeast\". It is one of the first batch of national key scenic spots. Wuyi Mountain is home to the most complete, typical and largest central subtropical primary forest ecosystem in the world at the same latitude. The main attractions include Tianyou Peak, Taoyuan Cave, Wuyi Palace, Dawang Peak, Yunu Peak, Huxiao Rock, Yixiantian, Tianxin Temple, Lotus Peak and Yulin Pavilion.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg/1280px-Water-of-Five-colored-Pond_Huanglong_Sichuan_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -179,10 +179,11 @@
  "hotels_nearby_30km": 10,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -201,7 +202,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -219,5 +220,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

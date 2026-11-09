@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Shaoyang City"
 lat: 26.359977
 lon: 110.802193
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 邵阳市崀山景区 / Mount Langshan
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Langshan or Mount Lang (Chinese: 崀山) is a mountain and a scenic area in Xinning County, Hunan, China. It is described on the local signage as a "world famous UNESCO geopark of China" and was inscribed as part of the China Danxia World Heritage Site in 2010 because of its unique geological formations and spectacular scenery. Its peak elevation is 818 metres (2,684 ft).
+Langshan Scenic Area is connected to Guilin in the south and Zhangjiajie in the north. It is the most typical Danxia landform scenic area in China. The geological structure of the scenic spot is unique, with mountains, water, forests and caves integrated into one, including six major scenic spots: Bajiao Village, Pepper Peak, Tianyi Lane, Fuyi River, Zixia Cave and Tiansheng Bridge.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

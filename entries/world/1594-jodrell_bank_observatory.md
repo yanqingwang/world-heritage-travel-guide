@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 53.23625
 lon: -2.307138888
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 卓瑞尔河岸天文台 / Jodrell Bank Observatory

@@ -2,7 +2,7 @@
 id: "cn-1436"
 dataset: "china_5a"
 name_zh: "石家庄市西柏坡景区"
-name_en: "Shijiazhuang"
+name_en: "Xibaipojinianguan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hebei"
 city_en: "Shijiazhuang"
 lat: 38.345935
 lon: 113.950648
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 石家庄市西柏坡景区 / Shijiazhuang
+# 石家庄市西柏坡景区 / Xibaipojinianguan Scenic Area
 
 > 河北省 · 石家庄市 · 红色旅游
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Shijiazhuang is the capital and most populous city of China's Hebei Province, located 266 kilometres (165 mi) southwest of Beijing. It administers eight districts, three county-level cities and eleven counties, and is east of the Taihang Mountains, which extend over 400 km (250 mi) from north to south with an average elevation of 1,500 to 2,000 m (4,900 to 6,600 ft). At the 2020 census, the city had a population of 11,235,086, with 6,230,709 in the built-up area comprising all urban districts except Jingxing District and Zhengding County, the twelfth largest in mainland China. By the end of 2025, the total resident population of the city will be 11,246,900. Shijiazhuang experienced dramatic growth after the founding of the People's Republic of China in 1949. The population of the metropolitan area has more than quadrupled in thirty years as a result of industrialization and infrastructural developments. From 2008 to 2011, Shijiazhuang implemented a three-year plan, resulting in an increase of green areas and new buildings and roads. A railway station, airport and subway system have been opened.
+Xibaipo was once the seat of the Central Committee of the Communist Party of China, one of the holy places of revolution in my country, and a key national cultural relic protection unit. The Party Central Committee and Chairman Mao commanded the three major battles of Liaoshen, Huaihai, and Pingjin here, and convened the Second Plenary Session of the Seventh Central Committee of the Communist Party of China and the National Agrarian Conference, which were of great historical significance. The main attractions include the former site of the Central Committee of the Communist Party of China in Xibaipo, Xibaipo Exhibition Hall, Xibaipo Stone Carving Garden, Xibaipo Monument, and bronze statues of the five secretaries.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -69,10 +71,10 @@ Shijiazhuang is the capital and most populous city of China's Hebei Province, lo
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/石家庄市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/西柏坡纪念馆)
 - [OpenStreetMap](https://www.openstreetmap.org/)

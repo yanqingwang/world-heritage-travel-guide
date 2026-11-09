@@ -2,7 +2,7 @@
 id: "cn-435"
 dataset: "china_5a"
 name_zh: "洛阳市龙门石窟景区"
-name_en: "Longmen Grottoes"
+name_en: "Luoyangshilongmenshiku Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Henan"
 city_en: "Luoyang"
 lat: 34.567674
 lon: 112.484359
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 洛阳市龙门石窟景区 / Longmen Grottoes
+# 洛阳市龙门石窟景区 / Luoyangshilongmenshiku Scenic Area
 
 > 河南省 · 洛阳市 · 石窟艺术
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-The Longmen Grottoes (simplified Chinese: 龙门石窟; traditional Chinese: 龍門石窟; pinyin: Lóngmén Shíkū; lit. 'Dragon's Gate Grottoes') or Longmen Caves are some of the finest examples of Chinese Buddhist art. Housing tens of thousands of statues of Shakyamuni Buddha and his disciples, they are located 12 kilometres (7.5 mi) south of present-day Luoyang in Henan province, China. The images, many once painted, were carved as outside rock reliefs and inside artificial caves excavated from the limestone cliffs of the Xiangshan (香山) and Longmenshan, running east and west. The Yi River flows northward between them and the area used to be called Yique (伊阙; 'The Gate of the Yi River'). The alternative name of "Dragon's Gate Grottoes" derives from the resemblance of the two hills that check the flow of the Yi River to the typical "Chinese gate towers" that once marked the entrance to Luoyang from the south. There are as many as 100,000 statues within the 2,345 caves, ranging from 1 inch (25 mm) to 57 feet (17 m) in height. The area also contains nearly 2,500 stelae and inscriptions, hence the name "Forest of Ancient Stelae", as well as over sixty Buddhist pagodas. Situated in a scenic natural env
+The Longmen Grottoes are located 13 kilometers south of Luoyang City. They were first excavated during the reign of Emperor Xiaowen of the Northern Wei Dynasty, flourished in the Tang Dynasty, and ended in the late Qing Dynasty. It has been built for more than 1,400 years in more than 10 dynasties, making it the longest grotto in the world. The grottoes are densely distributed on the cliffs of the east and west mountains of Yishui, with a length of 1 kilometer from north to south. There are 2,345 cave niches, more than 2,680 inscriptions and tablets, more than 70 pagodas, and more than 100,000 statues.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -74,10 +76,9 @@ The Longmen Grottoes (simplified Chinese: 龙门石窟; traditional Chinese: 龍
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/龙门石窟)
 - [OpenStreetMap](https://www.openstreetmap.org/)

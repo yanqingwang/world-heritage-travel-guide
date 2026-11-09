@@ -1,1 +1,80 @@
-{"hotels": [], "hotels_nearby_30km": 0, "stations": [{"name": "桓龙湖", "name_en": null, "lat": 41.3553489, "lon": 125.3632648, "distance_km": 5.3, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}, {"name": "五女山", "name_en": null, "lat": 41.276799, "lon": 125.3213067, "distance_km": 10.3, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}, {"name": "古城子", "name_en": null, "lat": 41.483003, "lon": 125.4621986, "distance_km": 17.0, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}, {"name": "大雅河", "name_en": null, "lat": 41.1828425, "lon": 125.1368603, "distance_km": 29.0, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}, {"name": "大泉源", "name_en": null, "lat": 41.5630755, "lon": 125.5994046, "distance_km": 29.6, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}, {"name": "花博山", "name_en": null, "lat": 41.1427783, "lon": 125.0431895, "distance_km": 37.9, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}, {"name": "八里甸子", "name_en": null, "lat": 41.2350267, "lon": 124.8875141, "distance_km": 45.8, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}, {"name": "雅河", "name_en": null, "lat": 41.1095021, "lon": 124.9133491, "distance_km": 49.1, "operator": "中国铁路沈阳局集团有限公司 本溪车务段", "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:20:22Z"}
+{
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "stations": [
+  {
+   "name": "桓龙湖",
+   "name_en": null,
+   "lat": 41.3553489,
+   "lon": 125.3632648,
+   "distance_km": 5.3,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  },
+  {
+   "name": "五女山",
+   "name_en": null,
+   "lat": 41.276799,
+   "lon": 125.3213067,
+   "distance_km": 10.3,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  },
+  {
+   "name": "古城子",
+   "name_en": null,
+   "lat": 41.483003,
+   "lon": 125.4621986,
+   "distance_km": 17.0,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  },
+  {
+   "name": "大雅河",
+   "name_en": null,
+   "lat": 41.1828425,
+   "lon": 125.1368603,
+   "distance_km": 29.0,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  },
+  {
+   "name": "大泉源",
+   "name_en": null,
+   "lat": 41.5630755,
+   "lon": 125.5994046,
+   "distance_km": 29.6,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  },
+  {
+   "name": "花博山",
+   "name_en": null,
+   "lat": 41.1427783,
+   "lon": 125.0431895,
+   "distance_km": 37.9,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  },
+  {
+   "name": "八里甸子",
+   "name_en": null,
+   "lat": 41.2350267,
+   "lon": 124.8875141,
+   "distance_km": 45.8,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  },
+  {
+   "name": "雅河",
+   "name_en": null,
+   "lat": 41.1095021,
+   "lon": 124.9133491,
+   "distance_km": 49.1,
+   "operator": "中国铁路沈阳局集团有限公司 本溪车务段",
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:24Z"
+}

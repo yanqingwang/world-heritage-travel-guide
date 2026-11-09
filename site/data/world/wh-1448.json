@@ -3,8 +3,8 @@
  "unesco_id": "1448",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 747,
- "popularity_score": 4524,
+ "popularity_rank": 705,
+ "popularity_score": 4083,
  "country": "MN",
  "country_zh": "蒙古国",
  "country_en": "Mongolia",
@@ -21,10 +21,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "MN-061",
+ "subdivision_zh": "东方省",
+ "subdivision_en": "Dornod",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "达乌里亚景观",
  "name_zh_source": "curated",
  "name_en": "Landscapes of Dauria",
@@ -183,5 +183,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

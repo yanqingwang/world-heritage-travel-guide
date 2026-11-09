@@ -10,8 +10,8 @@
  "city_zh": "呼伦贝尔市",
  "city_en": "Hulunbuir",
  "name_zh": "呼伦贝尔市中俄边境旅游区",
- "name_en": "Hulunbuir",
- "name_en_source": "wikipedia",
+ "name_en": "Hulunbeiercaoyuan Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "hulunbeiershizhongebianjing-1350",
  "lat": 49.619437,
  "lon": 117.401013,
@@ -22,8 +22,8 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "旅游区借助满洲里得天独厚的地理环境，汇集中国红色文化、俄罗斯风情文化精粹，打造出独具北疆特色的旅游观光休闲度假基地。旅游区由国门景区和套娃景区组成，其中国门景区是满洲里市标志性旅游景区，也是重要的爱国主义教育基地。",
- "intro_en": "Hulunbuir or Hulun Buir is a prefecture-level city in northeastern Inner Mongolia, China. Its administrative center is located at Hailar District, its largest urban area. Major scenic features are the high steppes of the Hulun Buir grasslands, the Hulun and Buir lakes (the latter partially in Mongolia), and the Khingan range. Hulun Buir borders Russia to the north and west, Mongolia to the south and west, Heilongjiang province to the east and Hinggan League to the direct south. Hulunbuir is a linguistically diverse area: next to Mandarin Chinese, Mongolian dialects such as Khorchin and Buryat, the Mongolic language Daur, and some Tungusic languages, including Oroqen and Solon, are spoken there.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Taking advantage of Manzhouli's unique geographical environment, the tourist area brings together the essence of Chinese red culture and Russian style culture to create a tourism, leisure and vacation base with unique northern Xinjiang characteristics. The tourist area consists of the National Gate Scenic Area and the Matryoshka Doll Scenic Area. The Chinese Gate Scenic Area is a landmark tourist attraction in Manzhouli City and an important patriotism education base.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Manzhouli_view.jpg/1280px-Manzhouli_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -183,9 +183,9 @@
  "hotels_nearby_30km": 25,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -206,7 +206,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -217,12 +217,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/呼伦贝尔市"
+   "url": "https://zh.wikipedia.org/wiki/呼伦贝尔草原"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

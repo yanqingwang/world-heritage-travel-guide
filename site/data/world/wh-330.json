@@ -2,9 +2,9 @@
  "id": "wh-330",
  "unesco_id": "330",
  "dataset": "unesco",
- "tier": "basic",
- "popularity_rank": 308,
- "popularity_score": 29685,
+ "tier": "full",
+ "popularity_rank": 286,
+ "popularity_score": 27372,
  "country": "PE",
  "country_zh": "秘鲁",
  "country_en": "Peru",
@@ -53,12 +53,36 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://whc.unesco.org/uploads/sites/site_330.jpg",
-   "title": "Chavin (Archaeological Site)",
-   "author": "UNESCO World Heritage Centre",
-   "license": "UNESCO / linked thumbnail",
-   "source": "https://whc.unesco.org/en/list/330",
-   "provider": "unesco"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Acondicionamiento_Clim%C3%A1tico_prehisp%C3%A1nico.jpg/1280px-Acondicionamiento_Clim%C3%A1tico_prehisp%C3%A1nico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Acondicionamiento Climático prehispánico.jpg",
+   "author": "Luf sattui",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Acondicionamiento_Clim%C3%A1tico_prehisp%C3%A1nico.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Acueducto_en_Chav%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Acueducto en Chavín.jpg",
+   "author": "Qpqqy",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Acueducto_en_Chav%C3%ADn.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_01.jpg/1280px-Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alpaca en el centro ceremonial de Chavín de Huántar 01.jpg",
+   "author": "Carlo Brescia",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_01.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_02.jpg/1280px-Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Alpaca en el centro ceremonial de Chavín de Huántar 02.jpg",
+   "author": "Carlo Brescia",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Alpaca_en_el_centro_ceremonial_de_Chav%C3%ADn_de_Hu%C3%A1ntar_02.jpg"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/330",
@@ -100,7 +124,63 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [],
+ "hotels": [
+  {
+   "name": "Hostal Chavin Turistico",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.5903163,
+   "lon": -77.1782878,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Andino Club Hotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.534652,
+   "lon": -77.5230031,
+   "distance_km": 38.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "San Sebastian",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.5276873,
+   "lon": -77.5227672,
+   "distance_km": 38.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Sierra Nevada",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": -9.4918093,
+   "lon": -77.5366241,
+   "distance_km": 40.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Inca",
+   "name_en": null,
+   "stars": 2,
+   "brand": null,
+   "lat": -9.58875,
+   "lon": -77.1784628,
+   "distance_km": 0.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
  "visa": {
   "iso2": "PE",
   "country_zh": "秘鲁",
@@ -174,5 +254,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:29:58Z"
+ "updated_at": "2026-11-09T12:00:58Z"
 }

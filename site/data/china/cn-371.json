@@ -10,8 +10,8 @@
  "city_zh": "大兴安岭",
  "city_en": "Daxinganling",
  "name_zh": "大兴安岭地区北极村旅游景区",
- "name_en": "Daxinganlingdiqubeijicun Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Daxing'anling Prefecture",
+ "name_en_source": "wikipedia",
  "slug": "daxinganlingdiqubeijicun-371",
  "lat": 53.487363,
  "lon": 122.366127,
@@ -22,8 +22,8 @@
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
  "intro_zh": "每当夏至前后极昼发生时，在漠河北极村有可能看到气势恢弘、绚丽多彩的北极光。北极村民风纯朴，乡土气息浓郁，静溢清新，植被和生态环境保存完好。",
- "intro_en": "Whenever the polar day occurs before and after the summer solstice, it is possible to see the magnificent and colorful Northern Lights in Mohe Arctic Village. The villagers in the Arctic have simple customs, strong local flavor, tranquility and freshness, and the vegetation and ecological environment are well preserved.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Daxing'anling (simplified Chinese: 大兴安岭地区; traditional Chinese: 大興安嶺地區; pinyin: Dàxīng'ānlǐng Dìqū; Russian: Да-Хинган-Лин), also known as Da Hinggan Ling, is the northernmost Chinese prefecture-level division, located in northwestern Heilongjiang Province. It covers 46,755 km2 (18,052 sq mi) and had a population of 520,000, as of 2004. According to the data of the annual report of public security, the total population of the region at the end of the year is 369,831. It is named after the Greater Khingan Range (Daxing'anling; ᠠᠮᠪᠠ᠋ ᡥᡳᠨ᠋ᡤᡤᠠᠨ ᠵᡠᡨ᠊ᡠᠨ; Amba Hinggan Dabagan) Mountains. In 2007, it had a GDP of RMB 6.1 billion and a growth rate of 11.1%. In 2015, Daxing'anling Prefecture had a GDP of RMB 13.49 billion, and a GDP of RMB 15.39 billion in the year 2014.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Mohe_2014.jpg/1280px-Mohe_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -129,10 +129,11 @@
  "hotels_nearby_30km": 1,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -151,7 +152,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -161,9 +162,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/大兴安岭地区"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

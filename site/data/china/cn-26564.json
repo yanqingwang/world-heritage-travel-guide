@@ -10,8 +10,8 @@
  "city_zh": "阿克苏地区",
  "city_en": "Aksu Prefecture",
  "name_zh": "阿克苏地区天山托木尔景区",
- "name_en": "Aksu Prefecture",
- "name_en_source": "wikipedia",
+ "name_en": "Tuomuerfeng Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "akesudiqutianshantuomuer-26564",
  "lat": 41.725426,
  "lon": 80.558971,
@@ -22,8 +22,8 @@
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
  "intro_zh": "自然风光壮美奇绝的阿克苏地区既有天山第一峰——托木尔峰，世界第二大流动性沙漠——塔克拉玛干大沙漠，全国最长的内陆河——塔里木河，世界面积最大、保存最完整的原始胡杨森林，国家级自然保护区——托木尔峰自然保护区，又有雅丹地貌、温宿大峡谷、天山神木园等自然景区，自然风光集新疆南北疆之大成。",
- "intro_en": "Aksu Prefecture is located in west-central Xinjiang, China. It has an area of 131,161 km2 (50,642 sq mi) and 2.714 million inhabitants at the 2020 census whom 715,319 lived in the built-up (or metro) area made up of Aksu urban district. The name Aksu is Turkic for 'white water'. Aksu Prefecture has a 263.8 km (163.9 mi) long international boundary with Kyrgyzstan and Kazakhstan.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Aksu region, with its magnificent natural scenery, has the highest peak in the Tianshan Mountains - Tomur Peak; the world's second largest mobile desert - the Taklamakan Desert; the country's longest inland river - the Tarim River; the world's largest and best-preserved primitive Populus euphratica forest; the national nature reserve - Tomur Peak Nature Reserve; and natural scenic spots such as the Yadan Landform, Wensu Grand Canyon, and the Tianshan Sacred Wood Garden. The natural scenery embodies the culmination of northern and southern Xinjiang.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%E5%A1%94%E5%85%8B%E6%8B%89%E5%85%8B%E7%89%A7%E5%9C%BA_-_panoramio_%283%29.jpg/1280px-%E5%A1%94%E5%85%8B%E6%8B%89%E5%85%8B%E7%89%A7%E5%9C%BA_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -119,11 +119,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -142,7 +141,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -153,12 +152,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/阿克苏地区"
+   "url": "https://zh.wikipedia.org/wiki/托木尔峰"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

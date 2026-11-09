@@ -13,7 +13,7 @@ province_en: "Guangdong"
 city_en: "Guangzhou"
 lat: 23.005809
 lon: 113.331839
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 广州市番禺区长隆旅游度假区 / Panyu, Guangzhou

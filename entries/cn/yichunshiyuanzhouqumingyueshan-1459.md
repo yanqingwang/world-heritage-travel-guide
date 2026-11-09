@@ -2,7 +2,7 @@
 id: "cn-1459"
 dataset: "china_5a"
 name_zh: "宜春市袁州区明月山旅游区"
-name_en: "Yuanzhou, Yichun"
+name_en: "Mingyueshan (jiangxi) Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangxi"
 city_en: "Yichun"
 lat: 27.60543
 lon: 114.299102
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 宜春市袁州区明月山旅游区 / Yuanzhou, Yichun
+# 宜春市袁州区明月山旅游区 / Mingyueshan (jiangxi) Tourist Area
 
 > 江西省 · 宜春市 · 度假休闲
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Yuanzhou District (Chinese: 袁州区; pinyin: Yuánzhōu Qū) is the only district and the seat of the city of Yichun, Jiangxi province, China, bordering Hunan province to the northwest.
+Mingyue Mountain Scenic Area is a mountain-type scenic spot with the main features of strange peaks and dangerous valleys, hot springs and waterfalls, rare animals and plants and Zen culture. It integrates ecological tourism, leisure vacation, popular science education and religious tourism.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -75,5 +77,5 @@ Yuanzhou District (Chinese: 袁州区; pinyin: Yuánzhōu Qū) is the only distr
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/袁州区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/明月山 (江西))
 - [OpenStreetMap](https://www.openstreetmap.org/)

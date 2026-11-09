@@ -8,13 +8,13 @@ country: "PH"
 country_zh: "菲律宾"
 country_en: "Philippines"
 unesco_id: "653"
-tier: "basic"
+tier: "full"
 category: "Natural"
 year: "1993"
 criteria: "(vii)(ix)(x)"
 lat: 8.953333333
 lon: 119.8675
-updated_at: "2026-11-08T20:30:00Z"
+updated_at: "2026-11-09T12:01:00Z"
 ---
 
 # 图巴塔哈群礁 / Tubbataha Reefs Natural Park
@@ -47,6 +47,12 @@ The Tubbataha Reef Marine Park covers 96,828 ha, including the North and South A
 - ✈ **San Vicente Airport (SWL)** — 186.4 km
 - ✈ **Cuyo Airport (CYU)** — 249.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3380.3 km**
+
+## 附近酒店 / Nearby hotels
+
+- 暂无 / none
+
+*来源：OpenStreetMap；星级与连锁信息可能不完整。*
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

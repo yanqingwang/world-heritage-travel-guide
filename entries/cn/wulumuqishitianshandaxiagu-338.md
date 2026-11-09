@@ -2,7 +2,7 @@
 id: "cn-338"
 dataset: "china_5a"
 name_zh: "乌鲁木齐市天山大峡谷"
-name_en: "Tianshan Grand Canyon"
+name_en: "Wulumuqishitianshan Grand Canyon"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Urumqi"
 lat: 43.499388
 lon: 87.448685
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 乌鲁木齐市天山大峡谷 / Tianshan Grand Canyon
+# 乌鲁木齐市天山大峡谷 / Wulumuqishitianshan Grand Canyon
 
 > 新疆维吾尔自治区 · 乌鲁木齐市 · 度假休闲
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in Xinjiang Uygur Autonomous Region. It is a national forest park and also a 5A-level scenic spot in China.More than 40 kilometers from Ürümqi urban area, the total area of the scenic spot is 1038.48 square kilometers, the average altitude is more than 2000 meters, and the average annual temperature is 4-6 °C.
+The Tianshan Grand Canyon Scenic Area in Urumqi is favored by tourists for its "strange pines, strange rocks and sea of ​​clouds", and has been praised as "when you return to the Five Mountains, you will not see the mountains, but when you return to the Grand Canyon, you will always remember the Valley" and "a hundred-mile golden tourist corridor, an outdoor paradise for leisure and vacation". The Tianshan Grand Canyon covers all natural landscapes in Xinjiang except deserts. It is a living museum of nomadic culture before human farming civilization. It has extremely high tourism appreciation, scientific investigation and historical and cultural value.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -70,10 +72,9 @@ Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/天山大峡谷)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -2,7 +2,7 @@
 id: "cn-349"
 dataset: "china_5a"
 name_zh: "伊犁哈萨克自治州那拉提旅游风景区"
-name_en: "Ili Kazakh Autonomous Prefecture"
+name_en: "Nalaticaoyuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Ili Kazakh Autonomous Prefecture"
 lat: 43.325552
 lon: 84.032821
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 伊犁哈萨克自治州那拉提旅游风景区 / Ili Kazakh Autonomous Prefecture
+# 伊犁哈萨克自治州那拉提旅游风景区 / Nalaticaoyuan Scenic Area
 
 > 新疆维吾尔自治区 · 伊犁哈萨克自治州 · 草原沙漠
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Ili Kazakh Autonomous Prefecture is an autonomous prefecture in northern Xinjiang, China. Its capital is Yining, also known as Ghulja or Kulja. Covering an area of 268,591 square kilometres (16.18 per cent of Xinjiang), Ili Prefecture shares a 2,019-kilometre (1,255 mi)-long border with Kazakhstan, Mongolia, and Russia. There are nine ports of entry in Ili Prefecture at the national level, notably Khorgas. Directly administered regions (直辖区域) within the prefecture cover 56,622 square kilometres (21.08 per cent of Ili's total area) and have a population of 4,930,600 (63.95 per cent of Ili's registered population). Kazakhs are the second largest ethnicity in the prefecture after the Han Chinese, and make up a little over a quarter of the population. Ili is the only prefecture-level division that has other prefecture-level divisions (Altay and Tacheng Prefectures) under its administration. The term "sub-provincial autonomous prefecture" (副省级自治州) has often been applied to Ili, but the term has no legal basis and is a misnomer.
+Ili Nalati Tourist Scenic Area is located in the hinterland of the Tianshan Mountains. From south to north, the scenic area consists of an alpine grassland tourist area, a Kazakh folk customs area, and a tourist life area. It has famous attractions such as Summer Ranch, Kezilashia Waterfall, and Wangtian Cave. It forms a unique frontier fortress scenery with its unique natural landscape, long history and culture and rich ethnic customs.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -67,10 +69,10 @@ Ili Kazakh Autonomous Prefecture is an autonomous prefecture in northern Xinjian
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, ja
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/伊犁哈萨克自治州)
+- [Wikipedia](https://zh.wikipedia.org/wiki/那拉提草原)
 - [OpenStreetMap](https://www.openstreetmap.org/)

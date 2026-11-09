@@ -10,8 +10,8 @@
  "city_zh": "惠州市",
  "city_en": "Huizhou",
  "name_zh": "惠州市博罗县罗浮山景区",
- "name_en": "Mount Luofu",
- "name_en_source": "wikipedia",
+ "name_en": "Huizhoushiboluoxianluofushan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "huizhoushiboluoxianluofushan-606",
  "lat": 23.266942,
  "lon": 114.074208,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "罗浮山素有“岭南第一山”之称，是中国道教十大名山之一。罗浮山自然景观众多，融自然与人文景观于一体，拥有山、水、泉、瀑、池、洞、观、寺、塔、林等景观，具有“天际一轴线，仙凡两重天”“一山分四季，十里不同温”的自然特征。",
- "intro_en": "Mount Luofu (simplified Chinese: 罗浮山; traditional Chinese: 羅浮山; pinyin: Luófú Shān; Cantonese Yale: lo4 fau4 saan1) is a sacred Taoist mountain situated on the north bank of the Dongjiang in the northwest of Boluo County, Huizhou in Guangdong Province, China. It covers 250 kilometers. It is one of the ten greater dongtian of Taoism. Among the many temples on Mt. Luofu is Wa Sau Toi, which is linked to both the Dragon and Bak Mei styles of Kung Fu. Mok Gar masters studied meditation and traditional Chinese medicine at the Temple of Emptiness[1] on Mt. Luofu. Choy Fook, one of the teachers of Choy Lee Fut founder Chan Heung, is said to have been a monk on Mt. Luofu.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Luofu Mountain is known as the \"No. 1 Mountain in Lingnan\" and is one of the ten famous Taoist mountains in China. Luofu Mountain has many natural landscapes, integrating natural and cultural landscapes. It has mountains, water, springs, waterfalls, pools, caves, temples, pagodas, forests and other landscapes. It has the natural characteristics of \"one axis of the sky, two heavens of immortality\" and \"one mountain is divided into four seasons, and the temperature is different for ten miles\".",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Luo_Fu_Shan.JPG/1280px-Luo_Fu_Shan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,11 +193,10 @@
  "hotels_nearby_30km": 8,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -226,13 +225,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/罗浮山"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

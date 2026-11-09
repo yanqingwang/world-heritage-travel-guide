@@ -10,8 +10,8 @@
  "city_zh": "石家庄市",
  "city_en": "Shijiazhuang",
  "name_zh": "石家庄市西柏坡景区",
- "name_en": "Shijiazhuang",
- "name_en_source": "wikipedia",
+ "name_en": "Xibaipojinianguan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "shijiazhuangshixibaipo-1436",
  "lat": 38.345935,
  "lon": 113.950648,
@@ -22,8 +22,8 @@
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
  "intro_zh": "西柏坡曾是中共中央所在地，是我国革命圣地之一，是国家重点文物保护单位。党中央和毛主席在此指挥了辽沈、淮海、平津三大战役，召开了具有伟大历史意义的七届二中全会和全国土地会议。主要景点有西柏坡中共中央旧址、西柏坡陈列馆、西柏坡石刻园、西柏坡纪念碑、五位书记铜铸像等。",
- "intro_en": "Shijiazhuang is the capital and most populous city of China's Hebei Province, located 266 kilometres (165 mi) southwest of Beijing. It administers eight districts, three county-level cities and eleven counties, and is east of the Taihang Mountains, which extend over 400 km (250 mi) from north to south with an average elevation of 1,500 to 2,000 m (4,900 to 6,600 ft). At the 2020 census, the city had a population of 11,235,086, with 6,230,709 in the built-up area comprising all urban districts except Jingxing District and Zhengding County, the twelfth largest in mainland China. By the end of 2025, the total resident population of the city will be 11,246,900. Shijiazhuang experienced dramatic growth after the founding of the People's Republic of China in 1949. The population of the metropolitan area has more than quadrupled in thirty years as a result of industrialization and infrastructural developments. From 2008 to 2011, Shijiazhuang implemented a three-year plan, resulting in an increase of green areas and new buildings and roads. A railway station, airport and subway system have been opened.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Xibaipo was once the seat of the Central Committee of the Communist Party of China, one of the holy places of revolution in my country, and a key national cultural relic protection unit. The Party Central Committee and Chairman Mao commanded the three major battles of Liaoshen, Huaihai, and Pingjin here, and convened the Second Plenary Session of the Seventh Central Committee of the Communist Party of China and the National Agrarian Conference, which were of great historical significance. The main attractions include the former site of the Central Committee of the Communist Party of China in Xibaipo, Xibaipo Exhibition Hall, Xibaipo Stone Carving Garden, Xibaipo Monument, and bronze statues of the five secretaries.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%A7%A3%E6%94%BE%E5%B9%BF%E5%9C%BA.jpg/1280px-%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%A7%A3%E6%94%BE%E5%B9%BF%E5%9C%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -137,11 +137,10 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -160,7 +159,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -171,12 +170,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/石家庄市"
+   "url": "https://zh.wikipedia.org/wiki/西柏坡纪念馆"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

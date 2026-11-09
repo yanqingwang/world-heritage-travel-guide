@@ -119,14 +119,14 @@
  },
  "hotels": [
   {
-   "name": "Fenghuang Jinshuian River View Hotel",
-   "name_en": "Fenghuang Jinshuian River View Hotel",
+   "name": "凤仙境·温德姆森林温泉酒店",
+   "name_en": null,
    "stars": null,
    "brand": null,
-   "lat": 27.9560087,
-   "lon": 109.5939775,
-   "distance_km": 0.5,
-   "kind": "hotel",
+   "lat": 27.944143,
+   "lon": 109.6111387,
+   "distance_km": 1.8,
+   "kind": "chain",
    "source": "OpenStreetMap"
   },
   {
@@ -218,5 +218,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

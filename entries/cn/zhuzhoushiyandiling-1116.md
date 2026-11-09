@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Zhuzhou City"
 lat: 26.414436
 lon: 113.679206
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 株洲市炎帝陵景区 / Zhuzhoushiyandiling Scenic Area

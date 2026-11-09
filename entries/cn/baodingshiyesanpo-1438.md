@@ -13,7 +13,7 @@ province_en: "Hebei"
 city_en: "Baoding"
 lat: 39.766881
 lon: 115.225481
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 保定市野三坡景区 / Yesanpo National Park
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Yesanpo National Park (Chinese: 野三坡; pinyin: Yěsānpō; lit. 'Wild Three Slope') (also, Yesanpo Scenic Site, or Yesanpo Geopark, and component areas) is a national park in Laishui County, Hebei Province, China about 2 hours west of Beijing. Yesanpo consists of six main scenic sites, including the Bai Li Xia Gorge ("hundred li gorge", which is about 31 miles), portions of the Juma River, Baicaopan Forest, and Jinhua Mountain. The park is located where the Taihang Mountains meet the Yan Mountains. Although designated as a national park, Yesanpo is not listed as an IUCN Level II "protected area" in the World Database of Protected Areas (WDPA). However, "Yesanpo Scenic Area" is listed by the governmental China National Tourism Administration, and components are listed in the WDPA. For example, Binlixia Nature Reserve is listed as an IUCN Level V Protected Area.
+The main scenic spots in Yesanpo include Baili Gorge Scenic Area, Juma River Scenic Area, Longmen Tianguan Scenic Area, Baicaopan Forest Tourist Area, Yugu Cave, Impression Yesanpo, etc. It is an extremely rare scenic spot in northern China that combines majestic mountains and clear waters, strange gorges and springs, cultural relics, famous trees and ancient Zen.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

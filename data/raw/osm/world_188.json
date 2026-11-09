@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Dortoir Mirana Mayotte",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.4867089,
+   "lon": 3.6811628,
+   "distance_km": 0.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Izorane فندق إيزوران",
+   "name_en": "Hotel Izorane",
+   "stars": null,
+   "brand": null,
+   "lat": 32.4838558,
+   "lon": 3.6793551,
+   "distance_km": 0.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel BELADJEL;فندق بلعجال",
+   "name_en": "BELADJEL hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 32.4864498,
+   "lon": 3.6756291,
+   "distance_km": 0.5,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hôtel M'zab;فندق مزاب",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 32.4842096,
+   "lon": 3.6761501,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ouasis;الواحات",
+   "name_en": "Ouasis",
+   "stars": null,
+   "brand": null,
+   "lat": 32.4933457,
+   "lon": 3.6858847,
+   "distance_km": 0.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 11,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:27Z"
+}

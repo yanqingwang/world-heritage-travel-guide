@@ -10,8 +10,8 @@
  "city_zh": "黄浦区",
  "city_en": "Huangpu District",
  "name_zh": "中国共产党一大•二大•四大纪念馆景区",
- "name_en": "Chinese Communist Party",
- "name_en_source": "wikipedia",
+ "name_en": "Zhongguogongchandangyida•erda•sidajinianguan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "zhongguogongchandangyida-erda-sidajinianguan-1443",
  "lat": 31.210884,
  "lon": 121.445075,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "中共“一大”原址是两栋砖木结构的两层石库门楼房，一栋是一大代表李汉俊的家宅，另一栋是一大代表在上海的住所--博文女校。中共“二大”会址是始建于1915年的石库门民居，曾是时任中央局宣传主任李达的寓所。中共“四大”原址于一二八事变中毁于战火，2006年异地重建了纪念馆，纪念馆由序厅、主展厅、影视厅和副展厅等组成。",
- "intro_en": "The Communist Party of China (CPC), commonly known as the Chinese Communist Party (CCP), is the founding and sole governing party of the People's Republic of China (PRC). Founded in 1921, the CCP won the Chinese Civil War against the Kuomintang and proclaimed the establishment of the PRC under the chairmanship of Mao Zedong in October 1949. The CCP has since governed China and has had absolute control over the country's armed forces and law enforcement. As of 2025, the CCP has more than 101 million members, making it the second largest political party by membership in the world. In 1921, Chen Duxiu and Li Dazhao founded the CCP with the help of the Far Eastern Bureau of the Russian Communist Party (Bolsheviks) and Far Eastern Bureau of the Communist International. Although the CCP aligned with the Kuomintang (KMT) during its initial years, the rise of the KMT's right-wing under the leadership of Chiang Kai-shek and subsequent massacres of tens of thousands of CCP members resulted in a split and a prolonged civil war between the CCP and KMT. During the next ten years of guerrilla warfare, Mao Zedong rose to become the most influential figure in the CCP and the party established a st",
- "intro_en_source": "wikipedia",
+ "intro_en": "The original site of the \"National Congress\" of the Communist Party of China was two two-story Shikumen buildings with brick and wood structures. One was the home of Li Hanjun, the representative of the National Congress of the Communist Party of China, and the other was the residence of the National Congress of the Communist Party of China in Shanghai - Bowen Girls' School. The site of the Second National Congress of the Communist Party of China is a Shikumen residence built in 1915. It was once the residence of Li Da, the propaganda director of the Central Bureau. The original site of the \"Fourth National Congress\" of the Communist Party of China was destroyed by the war during the January 28th Incident. The memorial hall was rebuilt in 2006. The memorial hall consists of a preface hall, a main exhibition hall, a film and television hall and an auxiliary exhibition hall.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/18th_National_Congress_of_the_Communist_Party_of_China.jpg/1280px-18th_National_Congress_of_the_Communist_Party_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -221,9 +221,9 @@
  "hotels_nearby_30km": 641,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -244,7 +244,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -255,12 +255,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/中国共产党"
+   "url": "https://zh.wikipedia.org/wiki/中国共产党第二次全国代表大会会址"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

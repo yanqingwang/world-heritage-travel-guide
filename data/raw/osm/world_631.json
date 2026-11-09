@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Victoria Poza Rica",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Collection O",
+   "lat": 20.5422551,
+   "lon": -97.453843,
+   "distance_km": 13.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Fiesta Inn Poza Rica",
+   "name_en": null,
+   "stars": 4,
+   "brand": "Fiesta Inn Hoteles Business Class",
+   "lat": 20.545833,
+   "lon": -97.4612576,
+   "distance_km": 13.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tajín",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.4458954,
+   "lon": -97.3211838,
+   "distance_km": 5.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Hotel Toledo",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.5303361,
+   "lon": -97.4637289,
+   "distance_km": 12.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Novotel",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 20.533139,
+   "lon": -97.4603349,
+   "distance_km": 12.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 80,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:36Z"
+}

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iii)(iv)"
 lat: 41.445157
 lon: -8.290838
-updated_at: "2026-11-08T20:30:02Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 吉马良斯历史中心与库鲁斯区[ / Historic Centre of Guimarães and Couros Zone

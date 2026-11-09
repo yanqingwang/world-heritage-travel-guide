@@ -2,7 +2,7 @@
 id: "cn-318"
 dataset: "china_5a"
 name_zh: "六安市万佛湖风景区"
-name_en: "Lu'an"
+name_en: "Luanshiwanfuhufeng Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Anhui"
 city_en: "Lu'an"
 lat: 31.321522
 lon: 116.77304
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 六安市万佛湖风景区 / Lu'an
+# 六安市万佛湖风景区 / Luanshiwanfuhufeng Scenic Area
 
 > 安徽省 · 六安市 · 宗教文化
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Lu'an (Chinese: 六安; pinyin: Lù'ān) is a prefecture-level city in western Anhui province, People's Republic of China, bordering Henan to the northwest and Hubei to the southwest. As of the 2020 census, it had a total population of 4,393,699 inhabitants whom 1,752,537 lived in the built-up (or metro) area made of Yu'an and Jin'an urban districts. Neighbouring prefecture-level cities are the provincial capital of Hefei to the east, Anqing to the south, Huanggang (Hubei) and Xinyang (Henan) to the west, and Huainan and Fuyang to the north. Although the character 六 (literally: "six") is normally pronounced "Liù", in this case it changes to "Lù" on account of the historical literary reading. Lu'an, also known as "Gaocheng". Located in the west of Anhui Province, between the Yangtze River and the Huaihe River, at the northern foot of the Dabie Mountains, "Western Anhui" in the geographical sense refers specifically to Lu'an. You can experience a wide variety of activies, such as enjoying flowers and birds, but also mountain climbing and rafting. At the same time, Lu'an has many cultural relics and historic sites.
+Wanfo Lake is named Wanfo Lake because the giant Guanyin rock near the lake and the 66 islands in the lake form a magical scene of "Buddhas worshiping Guanyin", and because the source of the water comes from the scenic Wanfo Mountain. The area is surrounded by mountains, and the lake water surface is vast and green. The scenery integrates mountains, water, springs, islands, and rocks.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Lu'an (Chinese: 六安; pinyin: Lù'ān) is a prefecture-level city in western A
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/六安市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

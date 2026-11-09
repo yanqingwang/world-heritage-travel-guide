@@ -3,8 +3,8 @@
  "unesco_id": "1351",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 296,
- "popularity_score": 31135,
+ "popularity_rank": 277,
+ "popularity_score": 28795,
  "country": "MX",
  "country_zh": "墨西哥",
  "country_en": "Mexico",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "MX-ZAC",
+ "subdivision_zh": "萨卡特卡斯州",
+ "subdivision_en": "Zacatecas",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "皇家内陆大干线",
  "name_zh_source": "unesco_official",
  "name_en": "Camino Real de Tierra Adentro",
@@ -252,5 +252,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

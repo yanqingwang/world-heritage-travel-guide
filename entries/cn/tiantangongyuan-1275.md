@@ -13,7 +13,7 @@ province_en: "Beijing"
 city_en: "Dongcheng District"
 lat: 39.885038
 lon: 116.428525
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 天坛公园 / Temple of Heaven
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Temple of Heaven (simplified Chinese: 天坛; traditional Chinese: 天壇; pinyin: Tiāntán) is a complex of imperial religious Confucian buildings situated in the southeastern part of central Beijing. The complex was visited by the Emperors of the Ming and then later restored by the Qing dynasties for annual ceremonies of prayer to Heaven for a good harvest and other seasonal rites. The Temple of Heaven was inscribed as a World Heritage site in 1998 and was described as "a masterpiece of architecture and landscape design which simply and graphically illustrates a cosmogony of great importance for the evolution of one of the world's great civilizations..." as the "symbolic layout and design of the Temple of Heaven had a profound influence on architecture and planning in the Far East over many centuries."
+The Temple of Heaven was the place where emperors of the Ming and Qing dynasties "sacrifice to heaven" and "pray for grain". The altar area is round in the north and square in the south, which means "the sky is round and the place is round". The main buildings include the Hall of Prayer for Good Harvests and the Circle Mound Altar. In 1998, the Temple of Heaven Park was recognized as a World Cultural Heritage by UNESCO.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 

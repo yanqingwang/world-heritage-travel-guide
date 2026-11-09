@@ -10,8 +10,8 @@
  "city_zh": "崇左市",
  "city_en": "Chongzuo City",
  "name_zh": "崇左市德天跨国瀑布景区",
- "name_en": "Pubu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Waterfall",
+ "name_en_source": "wikipedia",
  "slug": "chongzuoshidetiankuaguopubu-391",
  "lat": 22.858761,
  "lon": 106.735011,
@@ -22,8 +22,8 @@
  "category_zh": "自然风光",
  "category_en": "Natural scenery",
  "intro_zh": "德天瀑布位于广西崇左市境内，中国与越南边境处的归春河上游，瀑布气势磅礴、蔚为壮观，与紧邻的越南板约瀑布相连，是亚洲第一、世界第四大跨国瀑布。",
- "intro_en": "Detian Waterfall is located in Chongzuo City, Guangxi, on the upper reaches of the Guichun River on the border between China and Vietnam. The waterfall is majestic and spectacular. It is connected to the neighboring Ban Gioc Waterfall in Vietnam. It is the largest transnational waterfall in Asia and the fourth largest in the world.",
- "intro_en_source": "machine_translation",
+ "intro_en": "A waterfall is any point in a river or stream where water flows over a vertical drop or a series of steep drops. Waterfalls also occur where meltwater drops over the edge of a tabular iceberg or ice shelf. Waterfalls can be formed in several ways, but the most common method of formation is that a river courses over a top layer of resistant bedrock before falling onto softer rock, which erodes faster, leading to an increasingly high fall. Waterfalls have been studied for their impact on species living in and around them. Humans have had a distinct relationship with waterfalls since prehistory, travelling to see them, exploring and naming them. They can present formidable barriers to navigation along rivers. Waterfalls are religious sites in many cultures. Since the 18th century, they have received increased attention as tourist destinations, sources of hydropower, and—particularly since the mid-20th century—as subjects of research.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "",
  "booking": "",
@@ -152,10 +152,11 @@
  "hotels_nearby_30km": 18,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -174,7 +175,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -192,5 +193,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

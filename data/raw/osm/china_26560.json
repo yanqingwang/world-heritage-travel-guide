@@ -1,1 +1,136 @@
-{"hotels": [{"name": "吉隆堡度假村", "name_en": "Jilong Castle Country Club", "stars": 5, "brand": null, "lat": 24.920708, "lon": 105.01793, "distance_km": 12.4, "kind": "star", "source": "OpenStreetMap"}, {"name": "琴笙客棧", "name_en": null, "stars": null, "brand": null, "lat": 25.0151412, "lon": 104.9204975, "distance_km": 2.0, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "万峰林峰兮.半山隐宿", "name_en": "FengXi Hotel", "stars": null, "brand": null, "lat": 24.9890329, "lon": 104.9073781, "distance_km": 2.6, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "云栖智慧酒店", "name_en": null, "stars": null, "brand": null, "lat": 25.1172638, "lon": 104.9188443, "distance_km": 13.2, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "宏發旅社", "name_en": null, "stars": null, "brand": null, "lat": 25.1689237, "lon": 104.9821889, "distance_km": 19.6, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 5, "stations": [{"name": "兴义南", "name_en": null, "lat": 25.0836398, "lon": 104.9543312, "distance_km": 9.7, "operator": null, "high_speed": false}, {"name": "兴义", "name_en": "Xingyi", "lat": 25.1688331, "lon": 104.9845617, "distance_km": 19.6, "operator": null, "high_speed": false}, {"name": "郑屯", "name_en": null, "lat": 25.1557927, "lon": 105.0796151, "distance_km": 23.0, "operator": null, "high_speed": false}, {"name": "清水河东", "name_en": null, "lat": 25.2315108, "lon": 104.942631, "distance_km": 25.8, "operator": null, "high_speed": false}, {"name": "龙广", "name_en": null, "lat": 25.1113918, "lon": 105.1693406, "distance_km": 27.1, "operator": null, "high_speed": false}, {"name": "革居", "name_en": null, "lat": 25.1140987, "lon": 104.6926401, "distance_km": 27.1, "operator": null, "high_speed": false}, {"name": "岔江", "name_en": "Chajiang", "lat": 25.0637322, "lon": 104.6504453, "distance_km": 29.1, "operator": null, "high_speed": false}, {"name": "安龙", "name_en": "Anlong", "lat": 25.0661807, "lon": 105.2405342, "distance_km": 32.1, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:18:33Z"}
+{
+ "hotels": [
+  {
+   "name": "吉隆堡度假村",
+   "name_en": "Jilong Castle Country Club",
+   "stars": 5,
+   "brand": null,
+   "lat": 24.920708,
+   "lon": 105.01793,
+   "distance_km": 12.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "琴笙客棧",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0151412,
+   "lon": 104.9204975,
+   "distance_km": 2.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "万峰林峰兮.半山隐宿",
+   "name_en": "FengXi Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 24.9890329,
+   "lon": 104.9073781,
+   "distance_km": 2.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "云栖智慧酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.1172638,
+   "lon": 104.9188443,
+   "distance_km": 13.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "宏發旅社",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.1689237,
+   "lon": 104.9821889,
+   "distance_km": 19.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 5,
+ "stations": [
+  {
+   "name": "兴义南",
+   "name_en": null,
+   "lat": 25.0836398,
+   "lon": 104.9543312,
+   "distance_km": 9.7,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "兴义",
+   "name_en": "Xingyi",
+   "lat": 25.1688331,
+   "lon": 104.9845617,
+   "distance_km": 19.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "郑屯",
+   "name_en": null,
+   "lat": 25.1557927,
+   "lon": 105.0796151,
+   "distance_km": 23.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "清水河东",
+   "name_en": null,
+   "lat": 25.2315108,
+   "lon": 104.942631,
+   "distance_km": 25.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "龙广",
+   "name_en": null,
+   "lat": 25.1113918,
+   "lon": 105.1693406,
+   "distance_km": 27.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "革居",
+   "name_en": null,
+   "lat": 25.1140987,
+   "lon": 104.6926401,
+   "distance_km": 27.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "岔江",
+   "name_en": "Chajiang",
+   "lat": 25.0637322,
+   "lon": 104.6504453,
+   "distance_km": 29.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "安龙",
+   "name_en": "Anlong",
+   "lat": 25.0661807,
+   "lon": 105.2405342,
+   "distance_km": 32.1,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:52Z"
+}

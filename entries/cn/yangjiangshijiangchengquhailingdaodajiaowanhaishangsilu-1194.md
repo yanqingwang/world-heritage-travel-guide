@@ -2,7 +2,7 @@
 id: "cn-1194"
 dataset: "china_5a"
 name_zh: "阳江市江城区海陵岛大角湾海上丝路旅游区"
-name_en: "Yangjiangshijiangchengquhailingdaodajiaowanhaishangsilu Tourist Area"
+name_en: "Hailingdao Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Yangjiang City"
 lat: 21.760659
 lon: 111.887063
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 阳江市江城区海陵岛大角湾海上丝路旅游区 / Yangjiangshijiangchengquhailingdaodajiaowanhaishangsilu Tourist Area
+# 阳江市江城区海陵岛大角湾海上丝路旅游区 / Hailingdao Tourist Area
 
 > 广东省 · 阳江市 · 度假休闲
 
@@ -57,4 +57,5 @@ The main attractions of Hailing Island Dajiao Bay Maritime Silk Road Tourist Are
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/海陵岛)
 - [OpenStreetMap](https://www.openstreetmap.org/)

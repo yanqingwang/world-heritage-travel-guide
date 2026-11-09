@@ -2,7 +2,7 @@
 id: "cn-309"
 dataset: "china_5a"
 name_zh: "乐山市乐山大佛景区"
-name_en: "Leshan Giant Buddha"
+name_en: "Daibutsu"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Sichuan"
 city_en: "Leshan"
 lat: 29.553048
 lon: 103.779852
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 乐山市乐山大佛景区 / Leshan Giant Buddha
+# 乐山市乐山大佛景区 / Daibutsu
 
 > 四川省 · 乐山市 · 历史遗址
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-The Leshan Giant Buddha is a 71-meter (233 ft) tall stone statue, built between 712 and 804 AD (during the Tang dynasty). It is carved out of a cliff face of Cretaceous red bed sandstones that lies at the confluence of the Min River and Dadu River in the southern part of Sichuan Province in China, near the city of Leshan. The stone sculpture faces Mount Emei, with the rivers flowing below its feet. It is the largest and tallest stone Buddha statue in the world and it is by far the tallest pre-modern statue in the world. It is over 4 kilometers (2.5 mi) from the Wuyou Temple. The Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area, has been listed as a UNESCO World Heritage Site since 1996.
+Daibutsu (大仏; kyūjitai: 大佛) or 'giant Buddha' is the Japanese term, often used informally, for large statues of Buddha. The oldest is that at Asuka-dera (609) and the best-known is that at Tōdai-ji in Nara (752). The Tōdai-ji Daibutsu is a part of the UNESCO World Heritage Site as one of the seven Historic Monuments of Ancient Nara and a National Treasure.
 
 ## 交通 / Transport
 
@@ -78,5 +78,5 @@ The Leshan Giant Buddha is a 71-meter (233 ft) tall stone statue, built between 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/乐山大佛)
+- [Wikipedia](https://zh.wikipedia.org/wiki/大佛)
 - [OpenStreetMap](https://www.openstreetmap.org/)

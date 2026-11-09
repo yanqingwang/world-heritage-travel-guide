@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)(iv)"
 lat: 34.1959
 lon: 43.88568
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # 萨迈拉古城 / Samarra Archaeological City

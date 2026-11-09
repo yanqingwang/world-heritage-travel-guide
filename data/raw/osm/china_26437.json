@@ -1,1 +1,136 @@
-{"hotels": [{"name": "汇泉王朝大饭店", "name_en": "Huiquan Dynasty Hotel", "stars": 5, "brand": null, "lat": 36.0561762, "lon": 120.3396349, "distance_km": 5.3, "kind": "star", "source": "OpenStreetMap"}, {"name": "山孚大酒店", "name_en": "Sanfod Hotel", "stars": 4, "brand": null, "lat": 36.0646299, "lon": 120.4005213, "distance_km": 0.3, "kind": "star", "source": "OpenStreetMap"}, {"name": "府新大厦", "name_en": "Fuxin Hotel Qingdao", "stars": 4, "brand": null, "lat": 36.0678866, "lon": 120.3770504, "distance_km": 1.8, "kind": "star", "source": "OpenStreetMap"}, {"name": "北海宾馆", "name_en": "Beihai Hotel", "stars": 4, "brand": null, "lat": 36.0655095, "lon": 120.3704785, "distance_km": 2.4, "kind": "star", "source": "OpenStreetMap"}, {"name": "丽天大酒店", "name_en": "Litian Hotel Qingdao", "stars": 4, "brand": null, "lat": 36.0608438, "lon": 120.368117, "distance_km": 2.7, "kind": "star", "source": "OpenStreetMap"}], "hotels_nearby_30km": 211, "stations": [{"name": "青岛", "name_en": "Qingdao", "lat": 36.0630982, "lon": 120.3074598, "distance_km": 8.1, "operator": "中国铁路济南局集团有限公司", "high_speed": true}, {"name": "青岛北", "name_en": "Qingdaobei", "lat": 36.1692408, "lon": 120.3680563, "distance_km": 11.7, "operator": "中国铁路济南局集团有限公司", "high_speed": true}, {"name": "四方", "name_en": "Sifang", "lat": 36.1054276, "lon": 120.3419341, "distance_km": 6.6, "operator": "中国铁路济南局集团有限公司", "high_speed": false}, {"name": "沙岭庄", "name_en": "Shalingzhuang", "lat": 36.1375415, "lon": 120.3450914, "distance_km": 9.2, "operator": "中国铁路济南局集团有限公司", "high_speed": false}, {"name": "娄山", "name_en": "Loushan", "lat": 36.2205197, "lon": 120.3789152, "distance_km": 17.2, "operator": "中国铁路济南局集团有限公司", "high_speed": false}, {"name": "前湾港", "name_en": "Qianwangang", "lat": 36.0213502, "lon": 120.1982124, "distance_km": 18.6, "operator": "山东省港口集团有限公司", "high_speed": false}, {"name": "黄岛", "name_en": null, "lat": 36.0500119, "lon": 120.1672365, "distance_km": 20.8, "operator": "中国铁路济南局集团有限公司", "high_speed": false}, {"name": "红石崖", "name_en": null, "lat": 36.0919549, "lon": 120.1161009, "distance_km": 25.4, "operator": "中国铁路济南局集团有限公司", "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:40Z"}
+{
+ "hotels": [
+  {
+   "name": "汇泉王朝大饭店",
+   "name_en": "Huiquan Dynasty Hotel",
+   "stars": 5,
+   "brand": null,
+   "lat": 36.0561762,
+   "lon": 120.3396349,
+   "distance_km": 5.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "山孚大酒店",
+   "name_en": "Sanfod Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.0646299,
+   "lon": 120.4005213,
+   "distance_km": 0.3,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "府新大厦",
+   "name_en": "Fuxin Hotel Qingdao",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.0678866,
+   "lon": 120.3770504,
+   "distance_km": 1.8,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "北海宾馆",
+   "name_en": "Beihai Hotel",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.0655095,
+   "lon": 120.3704785,
+   "distance_km": 2.4,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "丽天大酒店",
+   "name_en": "Litian Hotel Qingdao",
+   "stars": 4,
+   "brand": null,
+   "lat": 36.0608438,
+   "lon": 120.368117,
+   "distance_km": 2.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 211,
+ "stations": [
+  {
+   "name": "青岛",
+   "name_en": "Qingdao",
+   "lat": 36.0630982,
+   "lon": 120.3074598,
+   "distance_km": 8.1,
+   "operator": "中国铁路济南局集团有限公司",
+   "high_speed": true
+  },
+  {
+   "name": "青岛北",
+   "name_en": "Qingdaobei",
+   "lat": 36.1692408,
+   "lon": 120.3680563,
+   "distance_km": 11.7,
+   "operator": "中国铁路济南局集团有限公司",
+   "high_speed": true
+  },
+  {
+   "name": "四方",
+   "name_en": "Sifang",
+   "lat": 36.1054276,
+   "lon": 120.3419341,
+   "distance_km": 6.6,
+   "operator": "中国铁路济南局集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "沙岭庄",
+   "name_en": "Shalingzhuang",
+   "lat": 36.1375415,
+   "lon": 120.3450914,
+   "distance_km": 9.2,
+   "operator": "中国铁路济南局集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "娄山",
+   "name_en": "Loushan",
+   "lat": 36.2205197,
+   "lon": 120.3789152,
+   "distance_km": 17.2,
+   "operator": "中国铁路济南局集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "前湾港",
+   "name_en": "Qianwangang",
+   "lat": 36.0213502,
+   "lon": 120.1982124,
+   "distance_km": 18.6,
+   "operator": "山东省港口集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "黄岛",
+   "name_en": null,
+   "lat": 36.0500119,
+   "lon": 120.1672365,
+   "distance_km": 20.8,
+   "operator": "中国铁路济南局集团有限公司",
+   "high_speed": false
+  },
+  {
+   "name": "红石崖",
+   "name_en": null,
+   "lat": 36.0919549,
+   "lon": 120.1161009,
+   "distance_km": 25.4,
+   "operator": "中国铁路济南局集团有限公司",
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:19Z"
+}

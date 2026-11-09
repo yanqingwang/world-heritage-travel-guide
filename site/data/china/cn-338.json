@@ -10,8 +10,8 @@
  "city_zh": "乌鲁木齐市",
  "city_en": "Urumqi",
  "name_zh": "乌鲁木齐市天山大峡谷",
- "name_en": "Tianshan Grand Canyon",
- "name_en_source": "wikipedia",
+ "name_en": "Wulumuqishitianshan Grand Canyon",
+ "name_en_source": "pinyin",
  "slug": "wulumuqishitianshandaxiagu-338",
  "lat": 43.499388,
  "lon": 87.448685,
@@ -22,8 +22,8 @@
  "category_zh": "度假休闲",
  "category_en": "Resort & leisure",
  "intro_zh": "乌鲁木齐天山大峡谷景区以“奇松、怪石、云海”受到游客青睐，留下“五岳归来不看山，大峡谷归来常忆谷”、“百里黄金旅游走廊，休闲度假户外天堂”的赞誉。天山大峡谷囊括了除沙漠以外的新疆所有自然景观，是人类农耕文明之前游牧文化的活博物馆，具有极高的旅游欣赏、科学考察和历史文化价值。",
- "intro_en": "Tianshan Grand Canyon is a natural scenic area located within Ürümqi County in Xinjiang Uygur Autonomous Region. It is a national forest park and also a 5A-level scenic spot in China.More than 40 kilometers from Ürümqi urban area, the total area of the scenic spot is 1038.48 square kilometers, the average altitude is more than 2000 meters, and the average annual temperature is 4-6 °C.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Tianshan Grand Canyon Scenic Area in Urumqi is favored by tourists for its \"strange pines, strange rocks and sea of ​​clouds\", and has been praised as \"when you return to the Five Mountains, you will not see the mountains, but when you return to the Grand Canyon, you will always remember the Valley\" and \"a hundred-mile golden tourist corridor, an outdoor paradise for leisure and vacation\". The Tianshan Grand Canyon covers all natural landscapes in Xinjiang except deserts. It is a living museum of nomadic culture before human farming civilization. It has extremely high tourism appreciation, scientific investigation and historical and cultural value.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%E5%A4%A9%E5%B1%B1%E6%89%98%E6%9C%A8%E5%B0%94%E5%A4%A7%E5%B3%A1%E8%B0%B7_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -160,11 +160,10 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -183,7 +182,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -193,13 +192,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/天山大峡谷"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

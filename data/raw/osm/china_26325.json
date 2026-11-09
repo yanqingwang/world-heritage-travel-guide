@@ -1,1 +1,136 @@
-{"hotels": [{"name": "成都安仁福朋喜来登酒店", "name_en": "Four Points by Sheraton Chengdu, Anren", "stars": null, "brand": "Four Points by Sheraton", "lat": 30.5089606, "lon": 103.6146955, "distance_km": 1.5, "kind": "chain", "source": "OpenStreetMap"}, {"name": "金桂公馆酒店", "name_en": "Jingui Residence Hotel", "stars": null, "brand": null, "lat": 30.5091274, "lon": 103.6236859, "distance_km": 0.7, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "新视窗假日酒店", "name_en": null, "stars": null, "brand": null, "lat": 30.5770992, "lon": 103.5191086, "distance_km": 13.0, "kind": "chain", "source": "OpenStreetMap"}, {"name": "大邑塞尚·庄园酒店", "name_en": null, "stars": null, "brand": null, "lat": 30.5747469, "lon": 103.5055973, "distance_km": 13.9, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "Umay Boutique Hotel", "name_en": "Umay Boutique Hotel", "stars": null, "brand": null, "lat": 30.4187904, "lon": 103.4651881, "distance_km": 18.9, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 12, "stations": [{"name": "大邑", "name_en": "Dayi", "lat": 30.5629877, "lon": 103.5332886, "distance_km": 11.0, "operator": null, "high_speed": false}, {"name": "崇州", "name_en": "Chongzhou", "lat": 30.6125684, "lon": 103.680308, "distance_km": 12.3, "operator": null, "high_speed": false}, {"name": "王泗镇（预留）", "name_en": null, "lat": 30.5147969, "lon": 103.5014084, "distance_km": 12.4, "operator": null, "high_speed": false}, {"name": "羊马", "name_en": "Yangma", "lat": 30.6204366, "lon": 103.7562995, "distance_km": 17.1, "operator": null, "high_speed": false}, {"name": "邛崃", "name_en": "Qionglai", "lat": 30.41374, "lon": 103.4829162, "distance_km": 17.8, "operator": null, "high_speed": false}, {"name": "温江", "name_en": "Wenjiang", "lat": 30.6373233, "lon": 103.8119194, "distance_km": 22.3, "operator": null, "high_speed": false}, {"name": "新津", "name_en": null, "lat": 30.4682011, "lon": 103.868309, "distance_km": 23.3, "operator": null, "high_speed": false}, {"name": "西来", "name_en": "Xilai", "lat": 30.3128251, "lon": 103.5145634, "distance_km": 24.7, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:21:42Z"}
+{
+ "hotels": [
+  {
+   "name": "成都安仁福朋喜来登酒店",
+   "name_en": "Four Points by Sheraton Chengdu, Anren",
+   "stars": null,
+   "brand": "Four Points by Sheraton",
+   "lat": 30.5089606,
+   "lon": 103.6146955,
+   "distance_km": 1.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "新视窗假日酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.5770992,
+   "lon": 103.5191086,
+   "distance_km": 13.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "成都温江戴斯温德姆酒店",
+   "name_en": "Days Hotel by Wyndham Chengdu Wenjiang",
+   "stars": null,
+   "brand": "Days Inn",
+   "lat": 30.6630117,
+   "lon": 103.8071227,
+   "distance_km": 23.9,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "金桂公馆酒店",
+   "name_en": "Jingui Residence Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 30.5091274,
+   "lon": 103.6236859,
+   "distance_km": 0.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "大邑塞尚·庄园酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 30.5747469,
+   "lon": 103.5055973,
+   "distance_km": 13.9,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 12,
+ "stations": [
+  {
+   "name": "大邑",
+   "name_en": "Dayi",
+   "lat": 30.5629877,
+   "lon": 103.5332886,
+   "distance_km": 11.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "崇州",
+   "name_en": "Chongzhou",
+   "lat": 30.6125684,
+   "lon": 103.680308,
+   "distance_km": 12.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "王泗镇（预留）",
+   "name_en": null,
+   "lat": 30.5147969,
+   "lon": 103.5014084,
+   "distance_km": 12.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "羊马",
+   "name_en": "Yangma",
+   "lat": 30.6204366,
+   "lon": 103.7562995,
+   "distance_km": 17.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "邛崃",
+   "name_en": "Qionglai",
+   "lat": 30.41374,
+   "lon": 103.4829162,
+   "distance_km": 17.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "温江",
+   "name_en": "Wenjiang",
+   "lat": 30.6373233,
+   "lon": 103.8119194,
+   "distance_km": 22.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "新津",
+   "name_en": null,
+   "lat": 30.4682011,
+   "lon": 103.868309,
+   "distance_km": 23.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "西来",
+   "name_en": "Xilai",
+   "lat": 30.3128251,
+   "lon": 103.5145634,
+   "distance_km": 24.7,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:34Z"
+}

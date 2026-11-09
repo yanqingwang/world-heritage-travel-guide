@@ -2,7 +2,7 @@
 id: "cn-337"
 dataset: "china_5a"
 name_zh: "常州市环球恐龙城休闲旅游区"
-name_en: "Changzhou"
+name_en: "Changzhoushihuanqiukonglongchengxiuxian Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Changzhou"
 lat: 31.828146
 lon: 120.00606
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 常州市环球恐龙城休闲旅游区 / Changzhou
+# 常州市环球恐龙城休闲旅游区 / Changzhoushihuanqiukonglongchengxiuxian Tourist Area
 
 > 江苏省 · 常州市 · 主题乐园
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Changzhou is a prefecture-level city in southern Jiangsu, China. It was previously known as Yanling, Lanling, and Jinling. Located on the southern bank of the Yangtze River, Changzhou borders the provincial capital of Nanjing to the west, Zhenjiang to the northwest, Wuxi to the east, and the province of Zhejiang to the south. The population of the Changzhou Municipality was 5,278,121 at the 2020 census. The city is the birthplace of Zhou Youguang who created the pinyin romanization system.
+Universal Dinosaur City is a dinosaur-themed comprehensive tourist resort. Universal Dinosaur City includes: China Dinosaur Park, Dino Water Town, Dinosaur Valley Hot Spring, Dinosaur City Grand Theater, Xiangshuwan Garden Hotel, Metropark International Hotel, Dinosaur Theme Resort Hotel, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -76,10 +78,10 @@ Changzhou is a prefecture-level city in southern Jiangsu, China. It was previous
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/常州市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/奥体中心站 (常州市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

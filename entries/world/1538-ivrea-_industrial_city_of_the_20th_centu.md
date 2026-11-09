@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(iv)"
 lat: 45.4575
 lon: 7.8692
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 20世纪工业城市伊夫雷亚 / Ivrea, industrial city of the 20th century

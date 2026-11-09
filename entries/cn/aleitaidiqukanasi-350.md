@@ -2,7 +2,7 @@
 id: "cn-350"
 dataset: "china_5a"
 name_zh: "阿勒泰地区喀纳斯景区"
-name_en: "Altay Prefecture"
+name_en: "Kanas Lake"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Xinjiang"
 city_en: "Altay Prefecture"
 lat: 48.513535
 lon: 87.138377
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 阿勒泰地区喀纳斯景区 / Altay Prefecture
+# 阿勒泰地区喀纳斯景区 / Kanas Lake
 
 > 新疆维吾尔自治区 · 阿勒泰地区 · 山地风光
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Altay Prefecture is a prefecture in northern Xinjiang, China. It has an area of 118,015 km2 (45,566 sq mi) and a population of 561,667 (2000). It is a part of the Ili Kazakh Autonomous Prefecture. As of the 2000 census, Altay was the only major subdivision of Ili Kazakh Autonomous Prefecture with an ethnic Kazakh majority (about 51%). In 2007, it had a GDP of RMB 9.9 billion with a 12% growth rate. It also shares an international border with the neighboring Altai Republic, located within Russia. Altay is considered the birthplace of skiing, based on 10,000 to 30,000 year old cave paintings depicting skiers.
+Kanas Lake (Chinese: 喀纳斯湖; pinyin: Kānàsī Hú, Xiao'erjing: كَانَاسِ خٗ; Mongolian: Ханас нуур; Uyghur: قاناس كۆلى, romanized: Qanas köli, UYY: Ⱪanas köli, USY: Қанас Көли) is a lake in Altay Prefecture, Xinjiang, China. The lake is located in a valley in the Altai Mountains, near the very northern tip of Xinjiang and the autonomous region's borders with Russia, Kazakhstan and Mongolia. The lake was formed around 200,000 years ago during the Quaternary period as a result of glacier movement. The crescent moon shaped lake has an estimated water storage capacity of 53.8 billion cubic meters, coupled with an average depth of around 120 meters. The Kanas River, flowing out of the lake, later merges with the Hemu River to form the Burqin River, which itself discharges into the Irtysh River at Burqin Town, the county seat of Burqin County. There is a large population of ethnic Tuvans and Kazakhs in the Kanas valley. While most of these people have maintained their traditional agricultural and nomadic life styles, many work in the developing tourism industry and have established facilities for orienteering, hiking, rafting, rock climbing, paragliding and camping. The scenic spot is classif
 
 ## 交通 / Transport
 
@@ -74,5 +74,5 @@ Altay Prefecture is a prefecture in northern Xinjiang, China. It has an area of 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/阿勒泰地区)
+- [Wikipedia](https://zh.wikipedia.org/wiki/喀纳斯湖)
 - [OpenStreetMap](https://www.openstreetmap.org/)

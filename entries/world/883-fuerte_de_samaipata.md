@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iii)"
 lat: -18.178355555
 lon: -63.818988888
-updated_at: "2026-11-08T20:30:01Z"
+updated_at: "2026-11-09T12:01:02Z"
 ---
 
 # 萨迈帕塔考古遗址 / Fuerte de Samaipata

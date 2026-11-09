@@ -2,7 +2,7 @@
 id: "cn-1400"
 dataset: "china_5a"
 name_zh: "东营市黄河口生态旅游区"
-name_en: "Yellow River"
+name_en: "Dongyingshihuanghekoushengtai Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shandong"
 city_en: "Dongying"
 lat: 37.809776
 lon: 119.082774
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 东营市黄河口生态旅游区 / Yellow River
+# 东营市黄河口生态旅游区 / Dongyingshihuanghekoushengtai Tourist Area
 
 > 山东省 · 东营市 · 度假休闲
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Yellow River, also known as Huang He, is the second-longest river in China and the sixth-longest in the world, with an estimated length of 5,464 km (3,395 mi) and a drainage basin of 795,000 km2 (307,000 sq mi). Beginning in the Bayan Har Mountains, the river flows generally eastwards before entering the 1,500 km (930 mi) long Ordos Loop, which runs northeast at Gansu through the Ordos Plateau and turns east in Inner Mongolia. The river then turns sharply southwards to form the border between Shanxi and Shaanxi, turns eastwards at its confluence with the Wei River, and flows across the North China Plain before emptying into the Bohai Sea. The river is named for the yellow color of its water, which comes from the large amount of sediment discharged into the water as the river flows through the Loess Plateau. The Yellow River basin was the birthplace of ancient Chinese civilization. According to traditional Chinese historiography, the Xia dynasty originated on its banks around 2100 BC; Sima Qian's Shiji (c. 91 BC) record that the Xia were founded after the tribes around the Yellow River united to combat the frequent floods in the area. The river has provided fertile soil for agri
+The scenic area has unique eco-tourism resources in the Yellow River Delta such as the intersection of rivers and seas, wetland ecology, petroleum industry and coastal beach landscapes. There are more than 1,524 kinds of wild animals in the area, as well as the rare natural tamarisk forest and 10,000 acres of artificial black locust forest in the country. It is an ideal place for scientific research, vacation, bird watching, hunting, catching the sea, watching tides, admiring the moon and watching the sunrise.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -70,10 +72,9 @@ The Yellow River, also known as Huang He, is the second-longest river in China a
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/黄河)
 - [OpenStreetMap](https://www.openstreetmap.org/)

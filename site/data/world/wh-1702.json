@@ -3,8 +3,8 @@
  "unesco_id": "1702",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 838,
- "popularity_score": 1518,
+ "popularity_rank": 793,
+ "popularity_score": 1410,
  "country": "LB",
  "country_zh": "黎巴嫩",
  "country_en": "Lebanon",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "LB-AS",
+ "subdivision_zh": "北部省",
+ "subdivision_en": "North Governorate",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "拉希德·卡拉米国际博览会（的黎波里）",
  "name_zh_source": "curated",
  "name_en": "Rachid Karami International Fair-Tripoli",
@@ -171,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:06Z"
+ "updated_at": "2026-11-09T12:01:06Z"
 }

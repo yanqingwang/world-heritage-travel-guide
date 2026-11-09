@@ -2,7 +2,7 @@
 id: "cn-1452"
 dataset: "china_5a"
 name_zh: "鹰潭市贵溪市龙虎山风景名胜区"
-name_en: "Mount Longhu"
+name_en: "Huanglong Scenic and Historic Interest Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangxi"
 city_en: "Yingtan City"
 lat: 28.125406
 lon: 116.987892
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 鹰潭市贵溪市龙虎山风景名胜区 / Mount Longhu
+# 鹰潭市贵溪市龙虎山风景名胜区 / Huanglong Scenic and Historic Interest Area
 
 > 江西省 · 鹰潭市 · 历史遗址
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Mount Longhu (Chinese: 龙虎山; pinyin: Lónghǔ Shān; lit. 'Dragon Tiger Mountain', Gan: Lung-fu San) is located in Yingtan, Jiangxi, China. It is famous for being one of the birthplaces of Taoism, with many Taoist temples built upon the mountainside. It is particularly important to the Zhengyi Dao as the Shangqing Temple and the Mansion of the Taoist Master (天师府) are located here. It is also known as one of the Four Sacred Mountains of Taoism. Two notable Taoist temples on Mount Longhu are the temples of Immortal City (仙岩) and Zhengyi (正一), both founded by Zhang Daoling (张道陵), the Han dynasty founder of the religion. There are more Taoist temples in nearby Shangqing (上清), one of which is mentioned at the beginning of the famous Chinese traditional novel, Outlaws of the Marsh (水滸傳). Mount Longhu also has cultural significance as a historical burial site of the Guyue people, who placed the deceased in hanging coffins on the mountain's cliff faces. In August 2010 UNESCO inscribed Mount Longhu on the World Heritage List as part of the complex of six sites that make up the China Danxia. Mount Longhu can be reached from the nearby city of Yingtan.
+Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.
 
 ## 交通 / Transport
 
@@ -69,10 +69,10 @@ Mount Longhu (Chinese: 龙虎山; pinyin: Lónghǔ Shān; lit. 'Dragon Tiger Mou
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/龙虎山)
+- [Wikipedia](https://zh.wikipedia.org/wiki/黄龙风景名胜区)
 - [OpenStreetMap](https://www.openstreetmap.org/)

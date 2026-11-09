@@ -10,8 +10,8 @@
  "city_zh": "晋中市",
  "city_en": "Jinzhong",
  "name_zh": "晋中市平遥古城景区",
- "name_en": "Jinzhongshipingyaogucheng Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Pingyao",
+ "name_en_source": "wikipedia",
  "slug": "jinzhongshipingyaogucheng-778",
  "lat": 37.217329,
  "lon": 112.188122,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "平遥古城位于山西省中部平遥县内，1997年被列入世界文化遗产名录。平遥古城是中国汉民族城市在明清时期的杰出范例，在中国历史的发展中，为人们展示了一幅文化、社会、经济及宗教发展的完整画卷。",
- "intro_en": "Pingyao Ancient City is located in Pingyao County in central Shanxi Province. It was included in the World Cultural Heritage List in 1997. The ancient city of Pingyao is an outstanding example of Chinese Han ethnic cities in the Ming and Qing Dynasties. In the development of Chinese history, it shows people a complete picture of cultural, social, economic and religious development.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Pingyao, officially Pingyao Ancient City, is a walled city in central Shanxi, China, famed for its importance in Chinese economic history and for its well-preserved Ming and Qing urban planning and architecture. It is the only walled city seat in China to survive with both its historic street plan and its original building fabric substantially intact. The greater part of the city's courtyard dwellings, shopfronts and temples are ancient structures surviving in situ rather than modern reconstructions. Administratively, it comprises the town of Gutao in Pingyao County, Jinzhong. The town was founded in the 14th century AD and has been the seat of local government since at least the Qin. By the 16th century, it was a regional financial hub; it had been the financial centre of the Qing Empire in the late 19th century. Pingyao Ancient City is located in Pingyao County, Shanxi Province. The ancient city was built during the reign of King Xuan of Zhou (827-782 BC) and has a history of more than 2800 years. In and around the ancient city there are 1,075 registered immovable cultural relics, 143 of which are designated protection units at the national, provincial, municipal, or county level",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pingyao_40.JPG/1280px-Pingyao_40.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,10 +193,11 @@
  "hotels_nearby_30km": 22,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -215,7 +216,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -225,9 +226,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/平遥古城"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

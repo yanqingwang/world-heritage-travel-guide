@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Златибор Мона",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.7266205,
+   "lon": 19.697679,
+   "distance_km": 33.5,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Siesta",
+   "name_en": null,
+   "stars": 4,
+   "brand": null,
+   "lat": 43.8471275,
+   "lon": 19.8562882,
+   "distance_km": 46.2,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Agape",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.7288779,
+   "lon": 19.7063919,
+   "distance_km": 34.1,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Златиборска ноћ",
+   "name_en": null,
+   "stars": 3,
+   "brand": null,
+   "lat": 43.8181176,
+   "lon": 19.8036784,
+   "distance_km": 41.6,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Турист",
+   "name_en": "Turist",
+   "stars": 2,
+   "brand": null,
+   "lat": 43.9680701,
+   "lon": 19.5590397,
+   "distance_km": 30.0,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 67,
+ "stations": [
+  {
+   "name": "Višegrad",
+   "name_en": "Visegrad",
+   "lat": 43.7807071,
+   "lon": 19.2962622,
+   "distance_km": 0.7,
+   "operator": null
+  },
+  {
+   "name": "Dobrun",
+   "name_en": "Dobrun",
+   "lat": 43.762419,
+   "lon": 19.3895634,
+   "distance_km": 8.5,
+   "operator": null
+  },
+  {
+   "name": "Vardište",
+   "name_en": "Vardiste",
+   "lat": 43.7599007,
+   "lon": 19.4565135,
+   "distance_km": 13.8,
+   "operator": null
+  },
+  {
+   "name": "Мокра Гора",
+   "name_en": null,
+   "lat": 43.7926624,
+   "lon": 19.5080566,
+   "distance_km": 17.7,
+   "operator": null
+  },
+  {
+   "name": "Јатаре",
+   "name_en": null,
+   "lat": 43.8027519,
+   "lon": 19.5181219,
+   "distance_km": 18.6,
+   "operator": null
+  },
+  {
+   "name": "Јабланица",
+   "name_en": "Jablanica",
+   "lat": 43.7009293,
+   "lon": 19.5204123,
+   "distance_km": 20.8,
+   "operator": "Инфраструктура железнице Србије"
+  },
+  {
+   "name": "Шарган Витаси",
+   "name_en": null,
+   "lat": 43.8299777,
+   "lon": 19.5423312,
+   "distance_km": 21.1,
+   "operator": null
+  },
+  {
+   "name": "Štrpci",
+   "name_en": null,
+   "lat": 43.6387404,
+   "lon": 19.5032517,
+   "distance_km": 23.6,
+   "operator": "Инфраструктура железнице Србије"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:44Z"
+}

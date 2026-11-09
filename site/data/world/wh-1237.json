@@ -3,7 +3,7 @@
  "unesco_id": "1237",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 923,
+ "popularity_rank": 886,
  "popularity_score": null,
  "country": "IT",
  "country_zh": "意大利",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "IT-34",
+ "subdivision_zh": "威尼托",
+ "subdivision_en": "Veneto",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "多洛米蒂山",
  "name_zh_source": "curated",
  "name_en": "The Dolomites",
@@ -162,5 +162,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:03Z"
 }

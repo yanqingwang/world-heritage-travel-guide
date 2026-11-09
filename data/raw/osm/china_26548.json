@@ -1,1 +1,80 @@
-{"hotels": [], "hotels_nearby_30km": 0, "stations": [{"name": "龙王渠", "name_en": null, "lat": 39.8190292, "lon": 111.3518577, "distance_km": 15.6, "operator": null, "high_speed": false}, {"name": "南坪矿", "name_en": null, "lat": 39.7248558, "lon": 111.2159708, "distance_km": 19.1, "operator": null, "high_speed": false}, {"name": "点岱沟", "name_en": null, "lat": 39.8035455, "lon": 111.2591561, "distance_km": 19.4, "operator": null, "high_speed": false}, {"name": "肖家", "name_en": null, "lat": 39.7786583, "lon": 111.2154719, "distance_km": 21.0, "operator": null, "high_speed": false}, {"name": "唐公塔", "name_en": null, "lat": 39.8429096, "lon": 111.2761873, "distance_km": 21.4, "operator": null, "high_speed": false}, {"name": "大饭铺", "name_en": null, "lat": 39.7655798, "lon": 111.1699506, "distance_km": 24.1, "operator": null, "high_speed": false}, {"name": "薛家湾", "name_en": "Xuejiawan", "lat": 39.8676064, "lon": 111.2312974, "distance_km": 26.0, "operator": null, "high_speed": false}, {"name": "老牛湾", "name_en": null, "lat": 39.9425189, "lon": 111.4706874, "distance_km": 27.8, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:18:54Z"}
+{
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "stations": [
+  {
+   "name": "龙王渠",
+   "name_en": null,
+   "lat": 39.8190292,
+   "lon": 111.3518577,
+   "distance_km": 15.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "南坪矿",
+   "name_en": null,
+   "lat": 39.7248558,
+   "lon": 111.2159708,
+   "distance_km": 19.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "点岱沟",
+   "name_en": null,
+   "lat": 39.8035455,
+   "lon": 111.2591561,
+   "distance_km": 19.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "肖家",
+   "name_en": null,
+   "lat": 39.7786583,
+   "lon": 111.2154719,
+   "distance_km": 21.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "唐公塔",
+   "name_en": null,
+   "lat": 39.8429096,
+   "lon": 111.2761873,
+   "distance_km": 21.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "大饭铺",
+   "name_en": null,
+   "lat": 39.7655798,
+   "lon": 111.1699506,
+   "distance_km": 24.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "薛家湾",
+   "name_en": "Xuejiawan",
+   "lat": 39.8676064,
+   "lon": 111.2312974,
+   "distance_km": 26.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "老牛湾",
+   "name_en": null,
+   "lat": 39.9425189,
+   "lon": 111.4706874,
+   "distance_km": 27.8,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:03Z"
+}

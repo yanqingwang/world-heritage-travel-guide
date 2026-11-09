@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(i)(ii)"
 lat: 45.037430555
 lon: 23.285375
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 特尔古日乌的布朗库西组雕 / Brâncuși Monumental Ensemble of Târgu Jiu

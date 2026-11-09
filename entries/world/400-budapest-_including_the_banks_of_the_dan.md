@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iv)"
 lat: 47.48242
 lon: 19.07067
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:59Z"
 ---
 
 # 布达佩斯（多瑙河两岸、布达城堡区和安德拉什大街） / Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue

@@ -3,7 +3,7 @@
  "unesco_id": "509",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1098,
+ "popularity_rank": 1087,
  "popularity_score": null,
  "country": "ZM",
  "country_zh": "赞比亚",
@@ -21,10 +21,10 @@
   }
  ],
  "region": "Livingstone District of Southern Province of the Republic of Zambia and Hwange District of Matabeleland North Province of Zimbabwe",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "ZM-07",
+ "subdivision_zh": "南部省",
+ "subdivision_en": "Southern Province",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "莫西奥图尼亚瀑布（维多利亚瀑布）",
  "name_zh_source": "unesco_official",
  "name_en": "Mosi-oa-Tunya / Victoria Falls",
@@ -178,5 +178,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:29:59Z"
+ "updated_at": "2026-11-09T12:00:59Z"
 }

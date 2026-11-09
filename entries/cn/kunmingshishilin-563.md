@@ -13,7 +13,7 @@ province_en: "Yunnan"
 city_en: "Kunming"
 lat: 24.817625
 lon: 103.330054
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 昆明市石林风景区 / Shilin Scenic Area

@@ -2,7 +2,7 @@
 id: "cn-1272"
 dataset: "china_5a"
 name_zh: "大足石刻景区"
-name_en: "Dazu Rock Carvings"
+name_en: "Dazushike Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Chongqing"
 city_en: "Dazu County"
 lat: 29.718162
 lon: 105.717461
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 大足石刻景区 / Dazu Rock Carvings
+# 大足石刻景区 / Dazushike Scenic Area
 
 > 重庆市 · 大足县 · 石窟艺术
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Dazu Rock Carvings (Chinese: 大足石刻; pinyin: Dàzú Shíkè) are a series of Chinese religious sculptures and carvings and UNESCO World Heritage Site located in Dazu District, Chongqing, China. The carvings date back as far as the 7th century AD, depicting and influenced by Buddhist, Confucian and Taoist beliefs. Some are in rock-cut cave shrines, in the usual Chinese Buddhist style, but many others are rock reliefs carved into the open rock faces. Listed as a World Heritage Site in 1999, the Dazu Rock Carvings are made up of 75 protected sites containing some 50,000 statues, with over 100,000 Chinese characters forming inscriptions and epigraphs. The sites are located in Chongqing Municipality within the steep hillsides throughout Dazu District, located about 165 kilometers west of the urban area of Chongqing. The highlights of the rock grotto are found on Mount Baoding and Mount Beishan.
+Dazu Rock Carvings are religious cliff carvings from the late Tang and early Song dynasties. They mainly focus on Buddhist themes. The Beishan Cliff Carvings and Baoding Mountain Cliff Carvings are the most famous. They are a famous ancient stone carving art in China. In 1999, the Dazu Rock Carvings represented by Beishan, Baoding Mountain, Nanshan, Shizhuan Mountain and Shimen Mountain were listed as world cultural heritage.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -75,10 +77,9 @@ The Dazu Rock Carvings (Chinese: 大足石刻; pinyin: Dàzú Shíkè) are a ser
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/大足石刻)
 - [OpenStreetMap](https://www.openstreetmap.org/)

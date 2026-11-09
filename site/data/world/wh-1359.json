@@ -3,8 +3,8 @@
  "unesco_id": "1359",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 765,
- "popularity_score": 4040,
+ "popularity_rank": 724,
+ "popularity_score": 3695,
  "country": "SN",
  "country_zh": "塞内加尔",
  "country_en": "Senegal",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "SN-FK",
+ "subdivision_zh": "法蒂克区",
+ "subdivision_en": "Fatick Region",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "萨卢姆河三角洲",
  "name_zh_source": "wikidata",
  "name_en": "Saloum Delta",
@@ -171,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

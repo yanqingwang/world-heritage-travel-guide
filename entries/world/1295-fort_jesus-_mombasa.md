@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iv)"
 lat: -4.0711666666667
 lon: 39.682055555556
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:04Z"
 ---
 
 # 蒙巴萨的耶稣堡 / Fort Jesus, Mombasa

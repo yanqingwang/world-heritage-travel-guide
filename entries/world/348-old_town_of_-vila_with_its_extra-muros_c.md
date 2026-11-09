@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iii)(iv)"
 lat: 40.656388888
 lon: -4.700111111
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:58Z"
 ---
 
 # 阿维拉古城及城外教堂 / Old Town of Ávila with its Extra-Muros Churches

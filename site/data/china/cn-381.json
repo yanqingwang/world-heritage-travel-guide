@@ -10,8 +10,8 @@
  "city_zh": "保亭黎族苗族自治县",
  "city_en": "Baotinglizumiaozuzizhi County",
  "name_zh": "保亭县海南槟榔谷黎苗文化旅游区",
- "name_en": "Baotingxianhainanbinglanggulimiao Cultural Tourism Area",
- "name_en_source": "pinyin",
+ "name_en": "Wuzhi Mountain",
+ "name_en_source": "wikipedia",
  "slug": "baotingxianhainanbinglanggulimiao-381",
  "lat": 18.882055,
  "lon": 109.67537,
@@ -101,10 +101,11 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -123,7 +124,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -133,9 +134,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/五指山 (海南)"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

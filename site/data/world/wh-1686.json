@@ -3,7 +3,7 @@
  "unesco_id": "1686",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1008,
+ "popularity_rank": 992,
  "popularity_score": null,
  "country": "CA",
  "country_zh": "加拿大",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "CA-QC",
+ "subdivision_zh": "魁北克省",
+ "subdivision_en": "Quebec",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "安蒂科斯蒂",
  "name_zh_source": "unesco_official",
  "name_en": "Anticosti",
@@ -173,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:06Z"
+ "updated_at": "2026-11-09T12:01:06Z"
 }

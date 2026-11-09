@@ -2,7 +2,7 @@
 id: "cn-1446"
 dataset: "china_5a"
 name_zh: "东方明珠广播电视塔"
-name_en: "Oriental Pearl Tower"
+name_en: "Tianjin Radio and Television Tower"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Shanghai"
 city_en: "Pudong New Area"
 lat: 31.244613
 lon: 121.506046
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 东方明珠广播电视塔 / Oriental Pearl Tower
+# 东方明珠广播电视塔 / Tianjin Radio and Television Tower
 
 > 上海市 · 浦东新区 · 宗教文化
 
@@ -50,7 +50,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-The Oriental Pearl Tower is a futurist TV tower in Lujiazui, Shanghai. Built from 1991 to 1994, the tower was the tallest structure in China until the completion of nearby World Financial Center in 2007. Its status as Shanghai's first AAAAA tourist attraction, the tower's unique architecture, height, and fifteen observation decks have made it a cultural icon of the city.
+The Tianjin Radio and Television Tower is a 415.2-meter-tall (1,362 ft) tower in Tianjin, China, used primarily for communication. It is the 8th tallest freestanding tower in the world. It was built in 1991 at a cost of $45 million. Approximately two-thirds of the way up the tower is an observation pod with 253 square meters (2,720 sq ft) of floor space (used mostly for communication equipment). It is a member of the World Federation of Great Towers.
 
 ## 交通 / Transport
 
@@ -80,5 +80,5 @@ The Oriental Pearl Tower is a futurist TV tower in Lujiazui, Shanghai. Built fro
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/东方明珠广播电视塔)
+- [Wikipedia](https://zh.wikipedia.org/wiki/天津广播电视塔)
 - [OpenStreetMap](https://www.openstreetmap.org/)

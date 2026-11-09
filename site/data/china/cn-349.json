@@ -10,8 +10,8 @@
  "city_zh": "伊犁哈萨克自治州",
  "city_en": "Ili Kazakh Autonomous Prefecture",
  "name_zh": "伊犁哈萨克自治州那拉提旅游风景区",
- "name_en": "Ili Kazakh Autonomous Prefecture",
- "name_en_source": "wikipedia",
+ "name_en": "Nalaticaoyuan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "yilihasakezizhizhounalatilvyou-349",
  "lat": 43.325552,
  "lon": 84.032821,
@@ -22,8 +22,8 @@
  "category_zh": "草原沙漠",
  "category_en": "Grassland & desert",
  "intro_zh": "伊犁那拉提旅游风景区地处天山腹地，景区自南向北由高山草原观光区、哈萨克民俗风情区、旅游生活区组成，拥有夏牧场、柯孜拉霞瀑布、望天洞等著名景点。它以独特的自然景观、悠久的历史文化和浓郁的民族风情构成了独具特色的边塞风光。",
- "intro_en": "Ili Kazakh Autonomous Prefecture is an autonomous prefecture in northern Xinjiang, China. Its capital is Yining, also known as Ghulja or Kulja. Covering an area of 268,591 square kilometres (16.18 per cent of Xinjiang), Ili Prefecture shares a 2,019-kilometre (1,255 mi)-long border with Kazakhstan, Mongolia, and Russia. There are nine ports of entry in Ili Prefecture at the national level, notably Khorgas. Directly administered regions (直辖区域) within the prefecture cover 56,622 square kilometres (21.08 per cent of Ili's total area) and have a population of 4,930,600 (63.95 per cent of Ili's registered population). Kazakhs are the second largest ethnicity in the prefecture after the Han Chinese, and make up a little over a quarter of the population. Ili is the only prefecture-level division that has other prefecture-level divisions (Altay and Tacheng Prefectures) under its administration. The term \"sub-provincial autonomous prefecture\" (副省级自治州) has often been applied to Ili, but the term has no legal basis and is a misnomer.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Ili Nalati Tourist Scenic Area is located in the hinterland of the Tianshan Mountains. From south to north, the scenic area consists of an alpine grassland tourist area, a Kazakh folk customs area, and a tourist life area. It has famous attractions such as Summer Ranch, Kezilashia Waterfall, and Wangtian Cave. It forms a unique frontier fortress scenery with its unique natural landscape, long history and culture and rich ethnic customs.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Xinjiang_DSC_8258_%283716304776%29.jpg/1280px-Xinjiang_DSC_8258_%283716304776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -132,9 +132,9 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": true,
-  "ko": true,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -155,7 +155,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -166,12 +166,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/伊犁哈萨克自治州"
+   "url": "https://zh.wikipedia.org/wiki/那拉提草原"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

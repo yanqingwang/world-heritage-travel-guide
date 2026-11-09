@@ -2,7 +2,7 @@
 id: "cn-26434"
 dataset: "china_5a"
 name_zh: "丽水市云和梯田景区"
-name_en: "Yunhetitian Scenic Area"
+name_en: "Lishuishiyunhetitian Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Zhejiang"
 city_en: "Lishui City"
 lat: 28.055656
 lon: 119.492894
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 丽水市云和梯田景区 / Yunhetitian Scenic Area
+# 丽水市云和梯田景区 / Lishuishiyunhetitian Scenic Area
 
 > 浙江省 · 丽水市 · 山地风光
 
@@ -62,5 +62,4 @@ The terraced fields are built along the mountains. They look like picturesque te
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/云和梯田)
 - [OpenStreetMap](https://www.openstreetmap.org/)

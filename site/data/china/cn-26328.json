@@ -10,8 +10,8 @@
  "city_zh": "昌吉回族自治州",
  "city_en": "Changji Hui Autonomous Prefecture",
  "name_zh": "昌吉回族自治州江布拉克景区",
- "name_en": "Changji Hui Autonomous Prefecture",
- "name_en_source": "wikipedia",
+ "name_en": "Changjihuizuzizhizhoujiangbulake Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "changjihuizuzizhizhoujiangbulake-26328",
  "lat": 43.654124,
  "lon": 89.732454,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "江布拉克景区位于天山北麓，准噶尔盆地东南缘，总面积48平方公里，是典型温带干旱区山地垂直综合景观和特有的山地麦田版画的完美结合，是新疆天山世界自然遗产地延续景观，主要景点有天山麦海、疏勒古城（石城子遗址）、麻沟梁村、天山怪坡、花海子、江布拉克大峡谷、断桥、三道扁子、新户河。",
- "intro_en": "Changji Hui Autonomous Prefecture (Chinese: 昌吉回族自治州; Uyghur: سانجى خۇيزۇ ئاپتونوم ئوبلاستى) is an autonomous prefecture for Hui people in the mid-north of Xinjiang Uyghur Autonomous Region, Western China. The prefecture has an area of 77,129 km2 (29,780 sq mi) and its seat is Changji City. To the south lies the snow-capped Tianshan Mountains throughout the year, with extensive forests and pastures at the mountain foot; the northern region consists of vast grasslands in the Junggar Basin. The population of Changji Prefecture is ethnically diverse, with Han Chinese making up approximately 75%, Hui people around 10%, and Kazakh people about 9% of the total population.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Jiangbulake Scenic Area is located at the northern foot of the Tianshan Mountains and the southeastern edge of the Junggar Basin, with a total area of ​​48 square kilometers. It is a perfect combination of the typical temperate arid mountainous vertical comprehensive landscape and the unique mountain wheat field prints. It is the continuation of the Xinjiang Tianshan World Natural Heritage Site. The main attractions include Tianshan Maihai, Shule Ancient City (Shichengzi ruins), Magouliang Village, Tianshan Strange Slope, Huahaizi, Jiangbulake Grand Canyon, Broken Bridge, Sandao Bianzi, and Xinhu River.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A02_-_panoramio.jpg/1280px-%E5%A4%A9%E5%B1%B1%E5%A4%A9%E6%B1%A02_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -121,11 +121,10 @@
  "hotels_nearby_30km": 1,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -144,7 +143,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -155,12 +154,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/昌吉回族自治州"
+   "url": "https://zh.wikipedia.org/wiki/石城子遗址 (昌吉回族自治州)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

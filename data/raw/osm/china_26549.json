@@ -1,1 +1,80 @@
-{"hotels": [], "hotels_nearby_30km": 0, "stations": [{"name": "大安北", "name_en": "Da'an North", "lat": 45.514651, "lon": 124.2323097, "distance_km": 5.8, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}, {"name": "大安", "name_en": "Da'an", "lat": 45.4808364, "lon": 124.276354, "distance_km": 6.3, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}, {"name": "大安西", "name_en": null, "lat": 45.5294108, "lon": 124.1485494, "distance_km": 11.9, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}, {"name": "新肇", "name_en": "Xinzhao", "lat": 45.7083873, "lon": 124.4063559, "distance_km": 20.9, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}, {"name": "长山屯", "name_en": "Changshantun", "lat": 45.3117649, "lon": 124.4627574, "distance_km": 27.8, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}, {"name": "两家", "name_en": "Liangjia", "lat": 45.5263513, "lon": 123.938865, "distance_km": 28.3, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}, {"name": "查干湖", "name_en": "Chaganhu", "lat": 45.2857849, "lon": 124.5406208, "distance_km": 33.4, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}, {"name": "海坨子", "name_en": "Haituozi", "lat": 45.2687136, "lon": 124.0374988, "distance_km": 36.1, "operator": "中国铁路沈阳局集团有限公司 白城车务段", "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:04Z"}
+{
+ "hotels": [],
+ "hotels_nearby_30km": 0,
+ "stations": [
+  {
+   "name": "大安北",
+   "name_en": "Da'an North",
+   "lat": 45.514651,
+   "lon": 124.2323097,
+   "distance_km": 5.8,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  },
+  {
+   "name": "大安",
+   "name_en": "Da'an",
+   "lat": 45.4808364,
+   "lon": 124.276354,
+   "distance_km": 6.3,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  },
+  {
+   "name": "大安西",
+   "name_en": null,
+   "lat": 45.5294108,
+   "lon": 124.1485494,
+   "distance_km": 11.9,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  },
+  {
+   "name": "新肇",
+   "name_en": "Xinzhao",
+   "lat": 45.7083873,
+   "lon": 124.4063559,
+   "distance_km": 20.9,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  },
+  {
+   "name": "长山屯",
+   "name_en": "Changshantun",
+   "lat": 45.3117649,
+   "lon": 124.4627574,
+   "distance_km": 27.8,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  },
+  {
+   "name": "两家",
+   "name_en": "Liangjia",
+   "lat": 45.5263513,
+   "lon": 123.938865,
+   "distance_km": 28.3,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  },
+  {
+   "name": "查干湖",
+   "name_en": "Chaganhu",
+   "lat": 45.2857849,
+   "lon": 124.5406208,
+   "distance_km": 33.4,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  },
+  {
+   "name": "海坨子",
+   "name_en": "Haituozi",
+   "lat": 45.2687136,
+   "lon": 124.0374988,
+   "distance_km": 36.1,
+   "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:06Z"
+}

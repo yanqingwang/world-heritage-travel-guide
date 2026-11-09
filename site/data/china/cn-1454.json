@@ -10,8 +10,8 @@
  "city_zh": "上饶市",
  "city_en": "Shangrao",
  "name_zh": "上饶市弋阳县龟峰景区",
- "name_en": "Yiyang County, Jiangxi",
- "name_en_source": "wikipedia",
+ "name_en": "Shangraoshiyiyangxianguifeng Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "shangraoshiyiyangxianguifeng-1454",
  "lat": 28.332988,
  "lon": 117.421056,
@@ -22,8 +22,8 @@
  "category_zh": "地质奇观",
  "category_en": "Geological wonder",
  "intro_zh": "龟峰发育于距今1.35亿年的白垩纪晚期，属典型的丹霞地貌，因景区内有无数形态酷似乌龟的象形石和整个景区远远看去像一只硕大无朋的巨龟而得名。",
- "intro_en": "Yiyang (simplified Chinese: 弋阳县; traditional Chinese: 弋陽縣; pinyin: Yìyáng Xiàn) is a county located in the center of the prefecture-level city of Shangrao, in the northeast of Jiangxi province, People's Republic of China. In 1999 it had a population of 359,164 inhabitants.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Guifeng was developed in the late Cretaceous period 135 million years ago. It is a typical Danxia landform. It is named because there are countless pictographic stones that resemble turtles in the scenic area and the entire scenic area looks like a huge giant turtle from a distance.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg/1280px-Yiyang_Dieshan_Shuyuan_2017.11.26_12-21-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -192,11 +192,10 @@
  "hotels_nearby_30km": 4,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -215,7 +214,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -225,13 +224,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/弋阳县"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

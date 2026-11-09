@@ -10,8 +10,8 @@
  "city_zh": "平凉市",
  "city_en": "Pingliang City",
  "name_zh": "平凉市崆峒山风景名胜区",
- "name_en": "Pingliangshikongdongshan Scenic and Historic Area",
- "name_en_source": "pinyin",
+ "name_en": "Huanglong Scenic and Historic Interest Area",
+ "name_en_source": "wikipedia",
  "slug": "pingliangshikongdongshanfengjingmingshengqu-887",
  "lat": 35.442341,
  "lon": 105.659367,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "崆峒山位于甘肃省平凉市，是古丝绸之路西出关中之要塞。景区面积84平方公里。崆峒山素有八台、九宫、十二院、四十二座建筑群、七十二处石府洞天，是西北地区道、佛两家的宗教圣地，自古就有“中华道教第一山”的美誉。",
- "intro_en": "Kongtong Mountain is located in Pingliang City, Gansu Province. It is a fortress on the west exit of Guanzhong on the ancient Silk Road. The scenic area covers an area of ​​84 square kilometers. Kongtong Mountain has eight platforms, nine palaces, twelve courtyards, forty-two building complexes, and seventy-two stone caves. It is a religious holy land for Taoism and Buddhism in the northwest region. It has been known as \"the first Taoist mountain in China\" since ancient times.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Huanglong (simplified Chinese: 黄龙; traditional Chinese: 黃龍; pinyin: Huánglóng; lit. 'yellow dragon') is a scenic and historic interest area in the northwest part of Sichuan, China. It is located in the southern part of the Minshan mountain range, 370 kilometres (230 mi) north-northwest of the capital Chengdu. This area is known for its colorful travertine pools formed by calcite deposits, especially in Huanglonggou (Yellow Dragon Gully), as well as diverse forest ecosystems, snow-capped peaks, waterfalls and hot springs. Huanglong is also home to many endangered species including the giant panda and the Sichuan golden snub-nosed monkey. In addition, a large population of the endemic orchid species Cypripedium plectrochilum was discovered at the site. Huanglong was declared a World Heritage Site by UNESCO in 1992 because of its outstanding travertine formations, waterfalls and limestone formations as well as its travertine terraces and lakes rating among the three most outstanding examples in the world.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "http://www.kongtongtour.com/",
  "booking": "https://wap.lotsmall.cn/vue/list/ticket?m_id=290",
@@ -101,10 +101,11 @@
  "hotels_nearby_30km": 2,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -123,7 +124,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -133,9 +134,13 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
+   "name": "Wikipedia",
+   "url": "https://zh.wikipedia.org/wiki/黄龙风景名胜区"
+  },
+  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

@@ -2,7 +2,7 @@
 id: "cn-521"
 dataset: "china_5a"
 name_zh: "中山市孙中山故里旅游区"
-name_en: "Zhongshan"
+name_en: "Zhongshanshisunzhongshanguli Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangdong"
 city_en: "Zhongshan City"
 lat: 22.452651
 lon: 113.536789
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 中山市孙中山故里旅游区 / Zhongshan
+# 中山市孙中山故里旅游区 / Zhongshanshisunzhongshanguli Tourist Area
 
 > 广东省 · 中山市 · 红色旅游
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Zhongshan (Chinese: 中山 [ʈʂʊ́ŋ ʂán]), alternately romanized via Cantonese as Chungshan or Jungsaan, is a prefecture-level city in the south of the Pearl River Delta in Guangdong province, China. As of the 2020 census, the whole city with 4,418,060 inhabitants is now part of the Guangzhou–Shenzhen conurbation with 65,565,622 inhabitants. The city-core subdistricts used to be called Shiqi or Shekki (Chinese: 石岐). Zhongshan is one of the few Chinese cities to be named after a person. It was originally named Xiangshan (香山, "Fragrant Mountain"; Cantonese: Heung-saan), but was renamed in 1925 in honor of Sun Yat-sen, who is known in China as "Sun Zhongshan". Sun, a local of the area, was the founding father of the Republic of China who is also regarded positively by the People's Republic.
+The scenic area covers an area of ​​about 500 square meters and includes five core scenic spots: Sun Yat-sen’s Former Residence Memorial Hall, Cuiheng Village, Zhongshan City, Xinhai Revolution Memorial Park and Litoujianshan. It comprehensively presents the relevant historical relics of Sun Yat-sen from his birth and growth to his revolutionary activities.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -78,5 +80,5 @@ Zhongshan (Chinese: 中山 [ʈʂʊ́ŋ ʂán]), alternately romanized via Canton
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/中山市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/孙中山故居纪念馆)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -10,8 +10,8 @@
  "city_zh": "黑河市",
  "city_en": "Heihe City",
  "name_zh": "黑河市五大连池景区",
- "name_en": "Wudalianchizhen Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Wudalianchi Dedu Airport",
+ "name_en_source": "wikipedia",
  "slug": "heiheshiwudalianchi-376",
  "lat": 48.699183,
  "lon": 126.168957,
@@ -22,8 +22,8 @@
  "category_zh": "山地风光",
  "category_en": "Mountain scenery",
  "intro_zh": "五大连池地处小兴安岭山地向松嫩平原的转换地带，区域内火山林立、熔岩浩瀚、湖泊珠连、矿泉星布。新期火山喷发的熔岩阻塞了远古河道，形成了5个溪水相连的串珠状火山堰塞湖，五大连池由此得名。此地也被科学家喻为“天然火山博物馆”和“打开的火山教科书”。",
- "intro_en": "Wudalianchi is located in the transition zone from the Xiaoxing'anling Mountains to the Songnen Plain. The area is lined with volcanoes, vast lava, lakes, and mineral springs. The lava from the new volcanic eruption blocked ancient rivers and formed five beaded volcanic barrier lakes connected by streams, from which Wudalianchi got its name. This place is also called the \"natural volcano museum\" and \"open volcano textbook\" by scientists.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Wudalianchi Dedu Airport (IATA: DTU, ICAO: ZYDU) is an airport serving the city of Wudalianchi in Heilongjiang province of Northeast China, southwest of the city center and 11 kilometres (6.8 mi) from Wudalianchi National Park. It received approval from the State Council of China and the Central Military Commission on 25 December 2013. Its construction budget was 644.41 million yuan, and an additional 74 million yuan for related infrastructure outside the airport. The airport was opened on 22 November 2017, with an inaugural Loong Air flight from Harbin Taiping International Airport.",
+ "intro_en_source": "wikipedia",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf/page1-960px-%E9%BB%91%E6%B2%B3%E5%B8%82%E5%B8%82%E5%AE%B9%E5%92%8C%E7%8E%AF%E5%A2%83%E5%8D%AB%E7%94%9F%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -139,7 +139,7 @@
  "hotels_nearby_30km": 3,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
@@ -162,7 +162,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -173,12 +173,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/五大连池镇"
+   "url": "https://zh.wikipedia.org/wiki/五大连池德都机场"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

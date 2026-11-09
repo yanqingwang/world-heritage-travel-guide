@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iii)"
 lat: -8.6667
 lon: -42.55
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:01:00Z"
 ---
 
 # 卡皮瓦拉山国家公园 / Serra da Capivara National Park

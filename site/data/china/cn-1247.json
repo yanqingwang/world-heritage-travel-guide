@@ -10,8 +10,8 @@
  "city_zh": "武隆县",
  "city_en": "Wulong County",
  "name_zh": "喀斯特旅游区",
- "name_en": "Wulong Karst",
- "name_en_source": "wikipedia",
+ "name_en": "Kasite Tourist Area",
+ "name_en_source": "pinyin",
  "slug": "kasite-1247",
  "lat": 29.460274,
  "lon": 107.74164,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "重庆武隆喀斯特旅游区包括天生三桥、仙女山、芙蓉洞三部分。天生三桥地处仙女山南部，位居仙女山与武隆县之间；仙女山位于武隆县仙女山镇，地处重庆东部武陵山脉；芙蓉洞位于武隆县江口镇4千米处的芙蓉江畔。",
- "intro_en": "The Wulong Karst (Chinese: 武隆喀斯特) is a karst landscape located within the borders of Wulong District, Chongqing Municipality, People's Republic of China. It is divided into three areas containing the Three Natural Bridges, the Qingkou Tiankeng (箐口天坑) and Furong Cave respectively. It is a part of the Wulong Karst National Geology Park as well as part of the South China Karst, a UNESCO World Heritage Site.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Chongqing Wulong Karst Tourism Area consists of three parts: Tiansheng Sanqiao, Fairy Mountain and Furong Cave. Tiansheng Sanqiao is located in the south of Fairy Mountain, between Fairy Mountain and Wulong County; Fairy Mountain is located in Fairy Mountain Town, Wulong County, in the Wuling Mountains in eastern Chongqing; Furong Cave is located on the bank of Furong River 4 kilometers away from Jiangkou Town, Wulong County.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wulongtianshengsanqiao.JPG/1280px-Wulongtianshengsanqiao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -182,11 +182,10 @@
  "hotels_nearby_30km": 4,
  "info_languages": {
   "zh": true,
-  "en": true,
+  "en": false,
   "ja": false,
   "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -205,7 +204,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -215,13 +214,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/武隆喀斯特"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

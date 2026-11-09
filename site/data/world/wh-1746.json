@@ -3,7 +3,7 @@
  "unesco_id": "1746",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 1026,
+ "popularity_rank": 1010,
  "popularity_score": null,
  "country": "SL",
  "country_zh": "塞拉利昂",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "SL-E",
+ "subdivision_zh": "东方省",
+ "subdivision_en": "Kenema District",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "戈拉-蒂瓦伊综合体",
  "name_zh_source": "unesco_official",
  "name_en": "Gola-Tiwai Complex",
@@ -172,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:06Z"
+ "updated_at": "2026-11-09T12:01:06Z"
 }

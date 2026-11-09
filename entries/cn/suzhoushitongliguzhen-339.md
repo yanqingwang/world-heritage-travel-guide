@@ -2,7 +2,7 @@
 id: "cn-339"
 dataset: "china_5a"
 name_zh: "苏州市同里古镇景区"
-name_en: "Suzhou"
+name_en: "Suzhoushitongliguzhen Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Suzhou"
 lat: 31.156127
 lon: 120.729409
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 苏州市同里古镇景区 / Suzhou
+# 苏州市同里古镇景区 / Suzhoushitongliguzhen Scenic Area
 
 > 江苏省 · 苏州市 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Suzhou is a prefecture-level city in Jiangsu province, Eastern China. Suzhou is a major tourist destination and industrial hub of Eastern China, specializing in high-end manufacturing. Renowned as the cradle of Wu culture, Suzhou flourished as a hub of trade, arts, and intellectual life along the Grand Canal, helping shape China's economic and cultural development for centuries. The city is internationally famous for its classical gardens, which harmonize architecture, water, rocks, and plants into poetic expressions of nature. Long admired for its silk production, refined cuisine, and lyrical Kunqu opera, Suzhou has been praised in Chinese poetry, along with Hangzhou, as "paradise on earth," a reputation that endures today as the city blends its timeless canals, whitewashed lanes, and scholarly heritage with modern industries. Suzhou is part of the Yangtze Delta megalopolis. Founded in 514 BC, Suzhou rapidly grew in size by the Eastern Han dynasty, mostly due to emigration from northern China. From the 10th century onwards, it has been an important economic, cultural, and commercial center, as well as the largest non-capital city in the world, until it was overtaken by Shanghai in
+Tongli Town is an ancient town with a long history and typical water town style. The town is divided into 7 small islands vertically and horizontally by 15 rivers, connected by 49 bridges. Tongli is famous at home and abroad for its characteristics of "an authentic water town, like the south of the Yangtze River in the old days".
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Suzhou is a prefecture-level city in Jiangsu province, Eastern China. Suzhou is 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh, en, ko
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/苏州市)
 - [OpenStreetMap](https://www.openstreetmap.org/)

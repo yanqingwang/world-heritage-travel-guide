@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Xiangxi Tujia and Miao Autonomous Prefecture"
 lat: 27.956867
 lon: 109.599454
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 湘西州凤凰古城旅游区 / Fenghuanggucheng Tourist Area
@@ -57,7 +57,7 @@ Fenghuang Ancient City Tourist Area consists of two areas: Fenghuang Ancient Cit
 
 ## 附近酒店 / Nearby hotels
 
-- **Fenghuang Jinshuian River View Hotel** — 0.5 km — hotel — Fenghuang Jinshuian River View Hotel
+- **凤仙境·温德姆森林温泉酒店** — 1.8 km — chain
 - **凤凰城** — 0.4 km — hotel — Feng Huang Cheng Hotel
 - **景宿梦澜·云裳180°全景智能江景美宿name:en=Yunshang 180 ° panoramic intelligent Jiang Jing Mei Su** — 0.4 km — hotel
 - **九栖客栈** — 0.5 km — hotel — Jiuqi Inn

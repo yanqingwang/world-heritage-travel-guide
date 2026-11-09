@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(v)"
 lat: 42.492147
 lon: 1.594426
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 马德留－配拉菲塔－克拉罗尔大峡谷 / Madriu-Perafita-Claror Valley

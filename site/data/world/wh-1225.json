@@ -3,7 +3,7 @@
  "unesco_id": "1225",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 918,
+ "popularity_rank": 881,
  "popularity_score": null,
  "country": "BF",
  "country_zh": "布基纳法索",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "BF-13",
+ "subdivision_zh": "西南大區",
+ "subdivision_en": "Southwest",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "洛罗佩尼遗址",
  "name_zh_source": "curated",
  "name_en": "Ruins of Loropéni",
@@ -162,5 +162,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:03Z"
+ "updated_at": "2026-11-09T12:01:03Z"
 }

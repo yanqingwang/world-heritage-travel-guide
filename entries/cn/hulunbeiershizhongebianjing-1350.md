@@ -2,7 +2,7 @@
 id: "cn-1350"
 dataset: "china_5a"
 name_zh: "呼伦贝尔市中俄边境旅游区"
-name_en: "Hulunbuir"
+name_en: "Hulunbeiercaoyuan Tourist Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Inner Mongolia"
 city_en: "Hulunbuir"
 lat: 49.619437
 lon: 117.401013
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 呼伦贝尔市中俄边境旅游区 / Hulunbuir
+# 呼伦贝尔市中俄边境旅游区 / Hulunbeiercaoyuan Tourist Area
 
 > 内蒙古自治区 · 呼伦贝尔市 · 度假休闲
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Hulunbuir or Hulun Buir is a prefecture-level city in northeastern Inner Mongolia, China. Its administrative center is located at Hailar District, its largest urban area. Major scenic features are the high steppes of the Hulun Buir grasslands, the Hulun and Buir lakes (the latter partially in Mongolia), and the Khingan range. Hulun Buir borders Russia to the north and west, Mongolia to the south and west, Heilongjiang province to the east and Hinggan League to the direct south. Hulunbuir is a linguistically diverse area: next to Mandarin Chinese, Mongolian dialects such as Khorchin and Buryat, the Mongolic language Daur, and some Tungusic languages, including Oroqen and Solon, are spoken there.
+Taking advantage of Manzhouli's unique geographical environment, the tourist area brings together the essence of Chinese red culture and Russian style culture to create a tourism, leisure and vacation base with unique northern Xinjiang characteristics. The tourist area consists of the National Gate Scenic Area and the Matryoshka Doll Scenic Area. The Chinese Gate Scenic Area is a landmark tourist attraction in Manzhouli City and an important patriotism education base.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -72,10 +74,10 @@ Hulunbuir or Hulun Buir is a prefecture-level city in northeastern Inner Mongoli
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/呼伦贝尔市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/呼伦贝尔草原)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -10,8 +10,8 @@
  "city_zh": "十堰市",
  "city_en": "Shiyan",
  "name_zh": "十堰市武当山风景区",
- "name_en": "Wudang Mountains",
- "name_en_source": "wikipedia",
+ "name_en": "Shiyanshiwudangshanfeng Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "shiyanshiwudangshan-312",
  "lat": 32.510141,
  "lon": 111.100659,
@@ -22,8 +22,8 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "武当山是著名的道教圣地、国家重点风景名胜区，古建筑群被列入世界文化遗产。武当山风光旖旎、山川秀美、众峰嵯岈，而且常年紫气氤氲、云霞迷溕，除了规模宏大的古建筑群，还有博大精深的武术和源远流长的道教文化，尽显神秘空灵气质。",
- "intro_en": "The Wudang Mountains (simplified Chinese: 武当山; traditional Chinese: 武當山; pinyin: Wǔdāng Shān) are a mountain range in the northwestern part of Hubei, China. They are home to a famous complex of Taoist temples and monasteries associated with the Lord of the North, Xuantian Shangdi. The Wudang Mountains are renowned for the practice of tai chi and Taoism as the Taoist counterpart to the Shaolin Monastery, which is affiliated with Chan Buddhism. The Wudang Mountains are one of the \"Four Sacred Mountains of Taoism\" in China, an important destination for Taoist pilgrimages. The monasteries such as the Wudang Garden were made a UNESCO World Heritage Site in 1994 because of their religious significance and architectural achievement.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Wudang Mountain is a famous Taoist holy land and a national key scenic spot. Its ancient buildings are listed as world cultural heritage. Wudang Mountain has beautiful scenery, beautiful mountains and rivers, and craggy peaks. It is also filled with purple air and misty clouds all year round. In addition to the large-scale ancient buildings, it also has extensive and profound martial arts and long-standing Taoist culture, showing its mysterious and ethereal temperament.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Wudangshan_2003_10.jpg/1280px-Wudangshan_2003_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -149,11 +149,10 @@
  "hotels_nearby_30km": 1,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -172,7 +171,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -182,13 +181,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/武当山"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

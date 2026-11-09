@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iv)"
 lat: 51.50055556
 lon: -0.12694444
-updated_at: "2026-11-08T20:29:58Z"
+updated_at: "2026-11-09T12:00:59Z"
 ---
 
 # 威斯敏斯特宫殿和教堂以及圣玛格丽特教堂 / Palace of Westminster and Westminster Abbey including Saint Margaret’s Church

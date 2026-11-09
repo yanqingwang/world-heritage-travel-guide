@@ -1,0 +1,63 @@
+{
+ "hotels": [
+  {
+   "name": "I AM Koh Ker",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.7044563,
+   "lon": 104.5414557,
+   "distance_km": 5.1,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Ly Hout Guest House",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.7949118,
+   "lon": 104.978324,
+   "distance_km": 46.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Green Palace Hotel Preah Vihear",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.7965466,
+   "lon": 104.9794209,
+   "distance_km": 47.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Heng Heng Hotel",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 13.8051482,
+   "lon": 104.9817068,
+   "distance_km": 47.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "សុភមង្គល",
+   "name_en": "Sopheak Meangkol",
+   "stars": null,
+   "brand": null,
+   "lat": 13.8158236,
+   "lon": 104.9810317,
+   "distance_km": 47.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 6,
+ "stations": [],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:46Z"
+}

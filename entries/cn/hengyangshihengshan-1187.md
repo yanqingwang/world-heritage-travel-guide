@@ -13,7 +13,7 @@ province_en: "Hunan"
 city_en: "Hengyang City"
 lat: 27.252032
 lon: 112.738641
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 衡阳市衡山旅游区 / Mount Heng (Hunan)

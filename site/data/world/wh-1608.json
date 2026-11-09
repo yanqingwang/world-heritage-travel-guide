@@ -3,7 +3,7 @@
  "unesco_id": "1608",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 994,
+ "popularity_rank": 978,
  "popularity_score": null,
  "country": "AT",
  "country_zh": "奥地利",
@@ -26,10 +26,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "AT-3",
+ "subdivision_zh": "下奥地利州",
+ "subdivision_en": "Lower Austria",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "罗马帝国边界——多瑙河界墙（西段）",
  "name_zh_source": "curated",
  "name_en": "Frontiers of the Roman Empire – The Danube Limes (Western Segment)",
@@ -191,5 +191,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

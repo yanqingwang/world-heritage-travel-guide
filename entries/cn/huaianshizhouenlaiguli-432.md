@@ -2,7 +2,7 @@
 id: "cn-432"
 dataset: "china_5a"
 name_zh: "淮安市周恩来故里景区"
-name_en: "Zhou Enlai"
+name_en: "Huaianshizhouenlaiguli Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Jiangsu"
 city_en: "Huai'an"
 lat: 33.541841
 lon: 119.147121
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 淮安市周恩来故里景区 / Zhou Enlai
+# 淮安市周恩来故里景区 / Huaianshizhouenlaiguli Scenic Area
 
 > 江苏省 · 淮安市 · 古镇村落
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou1 Ên1-lai2; 5 March 1898 – 8 January 1976) was a Chinese statesman, diplomat, and revolutionary who served as the first Premier of the People's Republic of China from October 1949 until his death in January 1976. Zhou was among the Chinese Communist Party's earliest leaders, though he was subordinate to Mao Zedong following the Zunyi Conference. After the founding of the PRC, he helped Mao consolidate party power and shape foreign policy, while striving to maintain state operations amid tumultuous politics. As a diplomat, Zhou served as the PRC's foreign minister from 1949 to 1958. Advocating peaceful coexistence with the West after the Korean War, he attended the 1954 Geneva Conference and the 1955 Bandung Conference, helped orchestrate Richard Nixon's 1972 visit to China, and steered China's relations with major countries including the United States and the Soviet Union. As premier, Zhou was the main force maintaining the Chinese government and economy during the Cultural Revolution. He remained deferential to Mao, but attempted to mitigate the damage and to shield some from purges and persecution. Deng Xiaoping mainta
+As a famous celebrity cultural scenic spot in China, Zhou Enlai’s hometown scenic spot is rich in tourism resources and has profound humanistic connotations. The scenic area covers a total area of ​​3.15 square kilometers. The main attractions include Zhou Enlai Memorial Hall, Zhou Enlai's former residence, Prince Consort Alley, Hexia Ancient Town, etc.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,9 @@ Zhou Enlai (Chinese: 周恩来; pinyin: Zhōu Ēnlái; Wade–Giles: Chou1 Ên1-
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/周恩来)
 - [OpenStreetMap](https://www.openstreetmap.org/)

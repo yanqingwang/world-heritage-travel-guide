@@ -3,8 +3,8 @@
  "unesco_id": "1344",
  "dataset": "unesco",
  "tier": "basic",
- "popularity_rank": 739,
- "popularity_score": 4694,
+ "popularity_rank": 695,
+ "popularity_score": 4301,
  "country": "BE",
  "country_zh": "比利时",
  "country_en": "Belgium",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "BE-WAL",
+ "subdivision_zh": "瓦隆",
+ "subdivision_en": "Hainaut",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "瓦隆主要矿业遗址",
  "name_zh_source": "wikidata",
  "name_en": "Major Mining Sites of Wallonia",
@@ -171,5 +171,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:04Z"
+ "updated_at": "2026-11-09T12:01:04Z"
 }

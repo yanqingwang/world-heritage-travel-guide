@@ -2,8 +2,8 @@
  "id": "wh-134",
  "unesco_id": "134",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 126,
+ "tier": "basic",
+ "popularity_rank": 912,
  "popularity_score": 113339,
  "country": "US",
  "country_zh": "美国",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/365-365_~_Stout_Grove_-redwood_-trees_-panorama_-california_-statepark_-green_%289468408094%29.jpg/1280px-365-365_~_Stout_Grove_-redwood_-trees_-panorama_-california_-statepark_-green_%289468408094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "365-365 ~ Stout Grove -redwood -trees -panorama -california -statepark -green (9468408094).jpg",
-   "author": "Ray Bouknight from Sacramento, CA, USA",
-   "license": "CC BY 2.0",
-   "credit": "365/365 ~ Stout Grove #redwood #trees #panorama #california #statepark #green",
-   "source": "https://commons.wikimedia.org/wiki/File:365-365_~_Stout_Grove_-redwood_-trees_-panorama_-california_-statepark_-green_%289468408094%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/A_group_of_visitors_enjoying_the_scenery_from_a_trail_bridge_at_Redwood_National_and_State_Parks._%2827ab213e-41f8-4ef2-b455-60e48b33cc73%29.jpg/1280px-A_group_of_visitors_enjoying_the_scenery_from_a_trail_bridge_at_Redwood_National_and_State_Parks._%2827ab213e-41f8-4ef2-b455-60e48b33cc73%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A group of visitors enjoying the scenery from a trail bridge at Redwood National and State Parks. (27ab213e-41f8-4ef2-b455-60e48b33cc73).jpg",
-   "author": "NPS",
-   "license": "Public domain",
-   "credit": "NPGallery",
-   "source": "https://commons.wikimedia.org/wiki/File:A_group_of_visitors_enjoying_the_scenery_from_a_trail_bridge_at_Redwood_National_and_State_Parks._%2827ab213e-41f8-4ef2-b455-60e48b33cc73%29.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/A_walk_in_Humboldt_County_-_panoramio.jpg/1280px-A_walk_in_Humboldt_County_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "A walk in Humboldt County - panoramio.jpg",
-   "author": "Annette Teng",
-   "license": "CC BY 3.0",
-   "credit": "https://web.archive.org/web/20161030205319/http://www.panoramio.com/photo/129305988",
-   "source": "https://commons.wikimedia.org/wiki/File:A_walk_in_Humboldt_County_-_panoramio.jpg"
-  },
-  {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Ancient_redwoods_in_Humboldt_State_Park_%28cropped%29.jpg/1280px-Ancient_redwoods_in_Humboldt_State_Park_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "Ancient redwoods in Humboldt State Park (cropped).jpg",
-   "author": "Miguel Vieira from Redwood City, CA, USA",
-   "license": "CC BY 2.0",
-   "credit": "Elizabeth and ancient redwoods in Humboldt State Park",
-   "source": "https://commons.wikimedia.org/wiki/File:Ancient_redwoods_in_Humboldt_State_Park_%28cropped%29.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_134.jpg",
+   "title": "Redwood National and State Parks",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/134",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/134",
@@ -124,63 +100,7 @@
   "ferry_terminals": [],
   "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Holiday Inn Express Klamath",
-   "name_en": null,
-   "stars": null,
-   "brand": "Holiday Inn Express",
-   "lat": 41.5295815,
-   "lon": -124.0393945,
-   "distance_km": 17.7,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Best Western Plus Northwoods Inn",
-   "name_en": null,
-   "stars": null,
-   "brand": "Best Western Plus",
-   "lat": 41.7510628,
-   "lon": -124.1817002,
-   "distance_km": 44.6,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Holiday Inn Express Suites",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 40.9683209,
-   "lon": -124.110653,
-   "distance_km": 46.1,
-   "kind": "chain",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "The Historic Requa Inn",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 41.5471324,
-   "lon": -124.0647621,
-   "distance_km": 20.0,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "The Lost Whale Inn",
-   "name_en": null,
-   "stars": null,
-   "brand": null,
-   "lat": 41.1228176,
-   "lon": -124.1568166,
-   "distance_km": 30.9,
-   "kind": "hotel",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "US",
   "country_zh": "美国",
@@ -252,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:29:57Z"
+ "updated_at": "2026-11-09T12:00:57Z"
 }

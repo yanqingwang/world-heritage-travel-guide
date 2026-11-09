@@ -2,7 +2,7 @@
 id: "cn-1160"
 dataset: "china_5a"
 name_zh: "湘潭市韶山旅游区"
-name_en: "Xiangtanshi Tourist Area"
+name_en: "Xiangtan"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Hunan"
 city_en: "Xiangtan City"
 lat: 27.910503
 lon: 112.49678
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 湘潭市韶山旅游区 / Xiangtanshi Tourist Area
+# 湘潭市韶山旅游区 / Xiangtan
 
 > 湖南省 · 湘潭市 · 红色旅游
 
@@ -38,9 +38,7 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Shaoshan is the hometown of the great leader Mao Zedong. It is also the place where Mao Zedong lived, studied, worked and engaged in revolutionary activities in his early youth. Shaoshan has a long history. It belonged to Jingchu in ancient times. It got its name because Emperor Shun came here to perform Shao music during his tour to the south. The area has beautiful bells, beautiful scenery, and the cultural and natural landscapes complement each other.
-
-*English introduction: machine translation.*
+Xiangtan (Chinese: 湘潭) is a prefecture-level city in east-central Hunan province, south-central China. The hometowns of several founding leaders of the Chinese Communist Party, including Chairman Mao Zedong, President Liu Shaoqi, and Marshal Peng Dehuai, are in Xiangtan's administration, as well as the hometowns of Qing dynasty and republic era painter Qi Baishi, Confucian scholar-general Zeng Guofan, and tennis player Peng Shuai. Xiangtan forms a part of the Greater Changsha Metropolitan Region with Changsha as the core city along with Zhuzhou, also known as Changzhutan City Cluster, one of the core cities in Central China. Xiangtan is one of the top 200 cities in the world by scientific research outputs, as tracked by the Nature Index. It is home to Xiangtan University, a Double First-Class Construction university, and two provincial key public universities of Hunan Institute of Engineering and Hunan University of Science and Technology, as well as a high-tech industrial development zone.
 
 ## 交通 / Transport
 
@@ -64,7 +62,7 @@ Shaoshan is the hometown of the great leader Mao Zedong. It is also the place wh
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh
+- 可用语言 / Available: zh, en, ja, ko
 
 ## 来源 / Sources
 

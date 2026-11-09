@@ -10,8 +10,8 @@
  "city_zh": "张掖市",
  "city_en": "Zhangye City",
  "name_zh": "张掖市七彩丹霞景区",
- "name_en": "Danxiashan Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Mount Danxia",
+ "name_en_source": "wikipedia",
  "slug": "zhangyeshiqicaidanxia-837",
  "lat": 38.979327,
  "lon": 100.073731,
@@ -22,8 +22,8 @@
  "category_zh": "宗教文化",
  "category_en": "Religious culture",
  "intro_zh": "张掖丹霞地貌分布广阔，主要分布在临泽、肃南两县，面积300多平方公里，是中国丹霞地貌发育造型最丰富的地区之一。其经典之处主要有七彩屏、火海、七彩塔、七彩练、七彩菇、大扇贝等。",
- "intro_en": "Zhangye Danxia landform is widely distributed, mainly distributed in Linze and Sunan counties, covering an area of ​​more than 300 square kilometers. It is one of the areas with the richest Danxia landforms in China. Its classic features mainly include colorful screen, sea of ​​fire, colorful tower, colorful drill, colorful mushrooms, large scallops, etc.",
- "intro_en_source": "machine_translation",
+ "intro_en": "Mount Danxia (Chinese: 丹霞山; pinyin: Dānxiá Shān) is a noted scenic mountainous area in Renhua County, in the northern part of Guangdong province. It is described on the local signage as a \"world famous UNESCO geopark of China\". It was inscribed as part of the China Danxia World Heritage Site in 2010 because of its unique geographical in formations and spectacular scenery. It is also an AAAAA Chinese attraction.",
+ "intro_en_source": "wikipedia",
  "images": [],
  "web": "http://www.zydanxia.com/",
  "booking": "http://www.zydanxia.com/",
@@ -180,10 +180,11 @@
  "hotels_nearby_30km": 6,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
+  "en": true,
+  "ja": true,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -202,7 +203,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -220,5 +221,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

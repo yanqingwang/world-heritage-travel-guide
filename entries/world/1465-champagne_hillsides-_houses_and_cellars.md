@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(iv)(vi)"
 lat: 49.0775
 lon: 3.94611
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 香槟地区山坡、房屋和酒窖 / Champagne Hillsides, Houses and Cellars

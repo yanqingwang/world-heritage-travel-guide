@@ -3,8 +3,8 @@
  "unesco_id": "1569",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 221,
- "popularity_score": 49239,
+ "popularity_rank": 203,
+ "popularity_score": 44951,
  "country": "FR",
  "country_zh": "法国",
  "country_en": "France",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "FR-OCC",
+ "subdivision_zh": "奥克西塔尼大区",
+ "subdivision_en": "Occitania",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "尼姆方形神殿",
  "name_zh_source": "unesco_official",
  "name_en": "The Maison Carrée of Nîmes",
@@ -334,5 +334,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:05Z"
 }

@@ -1,1 +1,127 @@
-{"hotels": [{"name": "banyan tree tengchong", "name_en": "banyan tree tengchong", "stars": null, "brand": null, "lat": 25.0835075, "lon": 98.5744893, "distance_km": 13.5, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "腾冲金玉堂云景度假酒店", "name_en": null, "stars": null, "brand": null, "lat": 25.0070468, "lon": 98.4639457, "distance_km": 0.6, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "玉都大酒店", "name_en": null, "stars": null, "brand": null, "lat": 25.0343017, "lon": 98.4882091, "distance_km": 3.3, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "洪运宾馆", "name_en": null, "stars": null, "brand": null, "lat": 25.0357024, "lon": 98.4878611, "distance_km": 3.4, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "腾冲翡翠时光别墅酒店", "name_en": "Tenchong Jade Time Villa Hotel", "stars": null, "brand": null, "lat": 25.0381414, "lon": 98.488996, "distance_km": 3.7, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 10, "stations": [{"name": "上坝", "name_en": null, "lat": 24.9429811, "lon": 98.95165, "distance_km": 49.6, "operator": null, "high_speed": false}, {"name": "永新", "name_en": null, "lat": 24.8402293, "lon": 98.9428931, "distance_km": 51.8, "operator": null, "high_speed": false}, {"name": "蒲缥", "name_en": null, "lat": 25.0278145, "lon": 99.0008887, "distance_km": 54.0, "operator": null, "high_speed": false}, {"name": "龙陵", "name_en": null, "lat": 24.5427768, "lon": 98.6808316, "distance_km": 56.6, "operator": null, "high_speed": false}, {"name": "霍家寨", "name_en": null, "lat": 25.0590793, "lon": 99.0280404, "distance_km": 56.9, "operator": null, "high_speed": false}, {"name": "怒江", "name_en": null, "lat": 24.7478286, "lon": 98.9502118, "distance_km": 57.1, "operator": null, "high_speed": false}, {"name": "新桥", "name_en": null, "lat": 24.48735, "lon": 98.5733948, "distance_km": 59.4, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:10Z"}
+{
+ "hotels": [
+  {
+   "name": "腾冲金玉堂云景度假酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0070468,
+   "lon": 98.4639457,
+   "distance_km": 0.6,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "玉都大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0343017,
+   "lon": 98.4882091,
+   "distance_km": 3.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "洪运宾馆",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0357024,
+   "lon": 98.4878611,
+   "distance_km": 3.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "腾冲翡翠时光别墅酒店",
+   "name_en": "Tenchong Jade Time Villa Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 25.0381414,
+   "lon": 98.488996,
+   "distance_km": 3.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "汶桥酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 25.0313862,
+   "lon": 98.508082,
+   "distance_km": 4.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 10,
+ "stations": [
+  {
+   "name": "上坝",
+   "name_en": null,
+   "lat": 24.9429811,
+   "lon": 98.95165,
+   "distance_km": 49.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "永新",
+   "name_en": null,
+   "lat": 24.8402293,
+   "lon": 98.9428931,
+   "distance_km": 51.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "蒲缥",
+   "name_en": null,
+   "lat": 25.0278145,
+   "lon": 99.0008887,
+   "distance_km": 54.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "龙陵",
+   "name_en": null,
+   "lat": 24.5427768,
+   "lon": 98.6808316,
+   "distance_km": 56.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "霍家寨",
+   "name_en": null,
+   "lat": 25.0590793,
+   "lon": 99.0280404,
+   "distance_km": 56.9,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "怒江",
+   "name_en": null,
+   "lat": 24.7478286,
+   "lon": 98.9502118,
+   "distance_km": 57.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "新桥",
+   "name_en": null,
+   "lat": 24.48735,
+   "lon": 98.5733948,
+   "distance_km": 59.4,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:12Z"
+}

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)(v)"
 lat: 50.32496
 lon: 13.54509
-updated_at: "2026-11-08T20:30:05Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 扎泰茨及萨兹啤酒花景观 / Žatec and the Landscape of Saaz Hops

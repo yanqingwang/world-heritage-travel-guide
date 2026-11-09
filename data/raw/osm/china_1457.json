@@ -1,1 +1,136 @@
-{"hotels": [{"name": "半岛国际酒店", "name_en": null, "stars": null, "brand": null, "lat": 29.287738, "lon": 117.2152933, "distance_km": 2.3, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "景德镇陶溪川凯悦酒店", "name_en": "Hyatt Place Jingdezhen Taoxichuan", "stars": null, "brand": "Hyatt", "lat": 29.3003077, "lon": 117.2332302, "distance_km": 4.2, "kind": "chain", "source": "OpenStreetMap"}, {"name": "西西里民宿", "name_en": null, "stars": null, "brand": null, "lat": 29.2979277, "lon": 117.1903142, "distance_km": 1.0, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "Jinghan", "name_en": null, "stars": null, "brand": null, "lat": 29.2913052, "lon": 117.209505, "distance_km": 1.8, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "文苑商务大酒店", "name_en": null, "stars": null, "brand": null, "lat": 29.2897275, "lon": 117.216014, "distance_km": 2.4, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 7, "stations": [{"name": "景德镇", "name_en": null, "lat": 29.2881277, "lon": 117.2166109, "distance_km": 2.4, "operator": null, "high_speed": false}, {"name": "景德镇南", "name_en": "Jingdezhennan", "lat": 29.2552673, "lon": 117.1734688, "distance_km": 4.2, "operator": null, "high_speed": false}, {"name": "景德镇东（废弃）", "name_en": null, "lat": 29.3041018, "lon": 117.2348097, "distance_km": 4.5, "operator": null, "high_speed": false}, {"name": "景德镇北", "name_en": null, "lat": 29.3416354, "lon": 117.2376217, "distance_km": 7.3, "operator": null, "high_speed": false}, {"name": "浮梁", "name_en": "Fuliang", "lat": 29.3524234, "lon": 117.2268344, "distance_km": 7.8, "operator": null, "high_speed": false}, {"name": "鲇鱼山", "name_en": "Nianyushan", "lat": 29.2065705, "lon": 117.1099825, "distance_km": 12.1, "operator": null, "high_speed": false}, {"name": "韩坑", "name_en": null, "lat": 29.4427797, "lon": 117.2466869, "distance_km": 17.9, "operator": null, "high_speed": false}, {"name": "仙槎", "name_en": null, "lat": 29.2005634, "lon": 117.3552197, "distance_km": 18.7, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:23:19Z"}
+{
+ "hotels": [
+  {
+   "name": "景德镇陶溪川凯悦酒店",
+   "name_en": "Hyatt Place Jingdezhen Taoxichuan",
+   "stars": null,
+   "brand": "Hyatt",
+   "lat": 29.3003077,
+   "lon": 117.2332302,
+   "distance_km": 4.2,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "西西里民宿",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2979277,
+   "lon": 117.1903142,
+   "distance_km": 1.0,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jinghan",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2913052,
+   "lon": 117.209505,
+   "distance_km": 1.8,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "半岛国际酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.287738,
+   "lon": 117.2152933,
+   "distance_km": 2.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "文苑商务大酒店",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 29.2897275,
+   "lon": 117.216014,
+   "distance_km": 2.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 7,
+ "stations": [
+  {
+   "name": "景德镇",
+   "name_en": null,
+   "lat": 29.2881277,
+   "lon": 117.2166109,
+   "distance_km": 2.4,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "景德镇南",
+   "name_en": "Jingdezhennan",
+   "lat": 29.2552673,
+   "lon": 117.1734688,
+   "distance_km": 4.2,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "景德镇东（废弃）",
+   "name_en": null,
+   "lat": 29.3041018,
+   "lon": 117.2348097,
+   "distance_km": 4.5,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "景德镇北",
+   "name_en": null,
+   "lat": 29.3416354,
+   "lon": 117.2376217,
+   "distance_km": 7.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "浮梁",
+   "name_en": "Fuliang",
+   "lat": 29.3524234,
+   "lon": 117.2268344,
+   "distance_km": 7.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "鲇鱼山",
+   "name_en": "Nianyushan",
+   "lat": 29.2065705,
+   "lon": 117.1099825,
+   "distance_km": 12.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "韩坑",
+   "name_en": null,
+   "lat": 29.4427797,
+   "lon": 117.2466869,
+   "distance_km": 17.9,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "仙槎",
+   "name_en": null,
+   "lat": 29.2005634,
+   "lon": 117.3552197,
+   "distance_km": 18.7,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:52Z"
+}

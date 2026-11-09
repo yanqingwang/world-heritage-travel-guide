@@ -1,0 +1,128 @@
+{
+ "hotels": [
+  {
+   "name": "Hotel Tathagat",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6963125,
+   "lon": 84.9894847,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Prince Kings",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6965905,
+   "lon": 84.989515,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mahamaya",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6965076,
+   "lon": 84.9897371,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Jeevak International",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6966186,
+   "lon": 84.9891901,
+   "distance_km": 0.2,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Mahayana",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 24.6964411,
+   "lon": 84.9885713,
+   "distance_km": 0.3,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_50km": 47,
+ "stations": [
+  {
+   "name": "Bandhua",
+   "name_en": null,
+   "lat": 24.7526564,
+   "lon": 85.0660644,
+   "distance_km": 9.8,
+   "operator": "ECR"
+  },
+  {
+   "name": "Gaya Junction",
+   "name_en": null,
+   "lat": 24.8035189,
+   "lon": 84.9994253,
+   "distance_km": 12.0,
+   "operator": "ECR"
+  },
+  {
+   "name": "Tankuppa",
+   "name_en": null,
+   "lat": 24.7034654,
+   "lon": 85.1198543,
+   "distance_km": 13.0,
+   "operator": "ECR"
+  },
+  {
+   "name": "Shaheed Ishwar Chowdhary Halt",
+   "name_en": null,
+   "lat": 24.8075225,
+   "lon": 85.0286704,
+   "distance_km": 13.0,
+   "operator": "ECR"
+  },
+  {
+   "name": "Manpur Junction",
+   "name_en": null,
+   "lat": 24.8068737,
+   "lon": 85.0447342,
+   "distance_km": 13.5,
+   "operator": "ECR"
+  },
+  {
+   "name": "Kastha",
+   "name_en": null,
+   "lat": 24.8023136,
+   "lon": 84.9209685,
+   "distance_km": 13.8,
+   "operator": "ECR"
+  },
+  {
+   "name": "Paimar",
+   "name_en": null,
+   "lat": 24.8064793,
+   "lon": 85.1102149,
+   "distance_km": 17.2,
+   "operator": "ECR"
+  },
+  {
+   "name": "Bansinala Halt",
+   "name_en": null,
+   "lat": 24.6654638,
+   "lon": 85.1615285,
+   "distance_km": 17.5,
+   "operator": "ECR"
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T11:59:41Z"
+}

@@ -10,8 +10,8 @@
  "city_zh": "赤峰市",
  "city_en": "Chifeng City",
  "name_zh": "赤峰市阿斯哈图石林景区",
- "name_en": "Shilinfengjingmingshengqu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Stone Forest",
+ "name_en_source": "wikipedia",
  "slug": "chifengshiasihatushilin-1320",
  "lat": 43.941128,
  "lon": 117.527176,
@@ -113,10 +113,11 @@
  "hotels_nearby_30km": 0,
  "info_languages": {
   "zh": true,
-  "en": false,
-  "ja": false,
-  "ko": false,
+  "en": true,
+  "ja": true,
+  "ko": true,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -135,7 +136,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -153,5 +154,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

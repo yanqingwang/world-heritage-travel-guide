@@ -2,7 +2,7 @@
 id: "cn-1227"
 dataset: "china_5a"
 name_zh: "万盛黑山谷-龙鳞石海风景区"
-name_en: "Wanshengheishangu-longlinshihaifeng Scenic Area"
+name_en: "Wanshengdongzhan (chongqingshi) Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Chongqing"
 city_en: "Qijiang County"
 lat: 28.870914
 lon: 106.978844
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 万盛黑山谷-龙鳞石海风景区 / Wanshengheishangu-longlinshihaifeng Scenic Area
+# 万盛黑山谷-龙鳞石海风景区 / Wanshengdongzhan (chongqingshi) Scenic Area
 
 > 重庆市 · 綦江县 · 地质奇观
 
@@ -54,4 +54,5 @@ The Black Valley Scenic Area consists of two scenic areas, the Black Valley and 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
+- [Wikipedia](https://zh.wikipedia.org/wiki/万盛东站 (重庆市))
 - [OpenStreetMap](https://www.openstreetmap.org/)

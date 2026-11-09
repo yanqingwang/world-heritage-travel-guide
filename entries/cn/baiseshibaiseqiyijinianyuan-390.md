@@ -2,7 +2,7 @@
 id: "cn-390"
 dataset: "china_5a"
 name_zh: "百色市百色起义纪念园景区"
-name_en: "Baise"
+name_en: "Baiseshidierrenminyiyuan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Guangxi"
 city_en: "Baise City"
 lat: 23.907336
 lon: 106.646025
-updated_at: "2026-11-08T21:00:08Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
-# 百色市百色起义纪念园景区 / Baise
+# 百色市百色起义纪念园景区 / Baiseshidierrenminyiyuan Scenic Area
 
 > 广西壮族自治区 · 百色市 · 红色旅游
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:08Z"
 
 ### English
 
-Baise (Chinese: 百色; pinyin: Bǎisè, Bósè; local pronunciation: paːk˧˥ ɬɐk˥), or Bose, is the westernmost prefecture-level city of Guangxi, China bordering Vietnam as well as the provinces of Guizhou and Yunnan. At the end of 2024, the registered population of the city was 4,214,900, and the resident population of the city was 3,464,700, of which the urban resident population was 1,636 million, accounting for 47.22% of the resident population (the urbanization rate of the resident population). The name is from Youjiang Zhuang Baksaek, meaning "in, or blocking, a mountain pass". The name Bwzswz is the Zhuang transliteration of the Chinese name.
+The Baise Uprising Memorial Hall is located in Yinglongshan Park, Baise City, Guangxi. It was built in 1961. The memorial hall has seven exhibition halls, divided into four sections: Baise Fenglei, Revolutionary Heroes, Deng Xiaoping and Baise, and Construction of New Baise. More than 1,400 pieces of revolutionary cultural relics and pictures are displayed.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -73,10 +75,10 @@ Baise (Chinese: 百色; pinyin: Bǎisè, Bósè; local pronunciation: paːk˧˥ 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/百色市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/百色市第二人民医院)
 - [OpenStreetMap](https://www.openstreetmap.org/)

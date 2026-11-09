@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(iii)"
 lat: 8.938453
 lon: -83.502539
-updated_at: "2026-11-08T20:30:04Z"
+updated_at: "2026-11-09T12:01:05Z"
 ---
 
 # 迪基斯前哥伦布时期酋长聚落与石球 / Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís

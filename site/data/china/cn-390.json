@@ -10,8 +10,8 @@
  "city_zh": "百色市",
  "city_en": "Baise City",
  "name_zh": "百色市百色起义纪念园景区",
- "name_en": "Baise",
- "name_en_source": "wikipedia",
+ "name_en": "Baiseshidierrenminyiyuan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "baiseshibaiseqiyijinianyuan-390",
  "lat": 23.907336,
  "lon": 106.646025,
@@ -22,8 +22,8 @@
  "category_zh": "红色旅游",
  "category_en": "Red tourism",
  "intro_zh": "百色起义纪念馆位于广西百色市迎龙山公园内，始建于1961年。纪念馆共有七个展厅，分百色风雷、革命英杰、邓小平与百色、建设新百色四个部分，陈列革命文物和图片资料1400多件（幅）。",
- "intro_en": "Baise (Chinese: 百色; pinyin: Bǎisè, Bósè; local pronunciation: paːk˧˥ ɬɐk˥), or Bose, is the westernmost prefecture-level city of Guangxi, China bordering Vietnam as well as the provinces of Guizhou and Yunnan. At the end of 2024, the registered population of the city was 4,214,900, and the resident population of the city was 3,464,700, of which the urban resident population was 1,636 million, accounting for 47.22% of the resident population (the urbanization rate of the resident population). The name is from Youjiang Zhuang Baksaek, meaning \"in, or blocking, a mountain pass\". The name Bwzswz is the Zhuang transliteration of the Chinese name.",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Baise Uprising Memorial Hall is located in Yinglongshan Park, Baise City, Guangxi. It was built in 1961. The memorial hall has seven exhibition halls, divided into four sections: Baise Fenglei, Revolutionary Heroes, Deng Xiaoping and Baise, and Construction of New Baise. More than 1,400 pieces of revolutionary cultural relics and pictures are displayed.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E7%99%BE%E8%89%B2%E5%B8%82%E5%8F%B3%E6%B1%9F%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%A9%8B_2013.jpg/1280px-%E7%99%BE%E8%89%B2%E5%B8%82%E5%8F%B3%E6%B1%9F%E5%8D%80%E4%B8%AD%E5%B1%B1%E6%A9%8B_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -193,11 +193,10 @@
  "hotels_nearby_30km": 13,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -227,12 +226,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/百色市"
+   "url": "https://zh.wikipedia.org/wiki/百色市第二人民医院"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

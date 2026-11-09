@@ -1,1 +1,136 @@
-{"hotels": [{"name": "凯宾斯基饭店", "name_en": "Kempinski Hotels", "stars": 5, "brand": "Kempinski", "lat": 37.8186077, "lon": 112.5560501, "distance_km": 15.7, "kind": "star", "source": "OpenStreetMap"}, {"name": "太原富力铂尔曼大酒店", "name_en": "Pullman Taiyuan", "stars": 5, "brand": null, "lat": 37.8984971, "lon": 112.5911745, "distance_km": 24.9, "kind": "star", "source": "OpenStreetMap"}, {"name": "JW Marriott", "name_en": null, "stars": null, "brand": null, "lat": 37.8238923, "lon": 112.5621306, "distance_km": 16.5, "kind": "chain", "source": "OpenStreetMap"}, {"name": "Hampton by Hilton Taiyuan Wuyi Square", "name_en": null, "stars": null, "brand": "Hampton", "lat": 37.8566672, "lon": 112.5670719, "distance_km": 19.8, "kind": "chain", "source": "OpenStreetMap"}, {"name": "悦海四季酒店", "name_en": null, "stars": null, "brand": null, "lat": 37.8762528, "lon": 112.5675729, "distance_km": 21.7, "kind": "chain", "source": "OpenStreetMap"}], "hotels_nearby_30km": 40, "stations": [{"name": "西草寨", "name_en": "Xicaozhai", "lat": 37.6596942, "lon": 112.4845263, "distance_km": 5.9, "operator": null, "high_speed": false}, {"name": "晋源", "name_en": "Jinyuan", "lat": 37.7838386, "lon": 112.4766623, "distance_km": 9.1, "operator": null, "high_speed": false}, {"name": "北格", "name_en": "Beige", "lat": 37.6530689, "lon": 112.5418103, "distance_km": 10.0, "operator": null, "high_speed": false}, {"name": "官地", "name_en": null, "lat": 37.8197171, "lon": 112.4051003, "distance_km": 13.3, "operator": null, "high_speed": false}, {"name": "白家庄", "name_en": null, "lat": 37.8301717, "lon": 112.4189984, "distance_km": 14.2, "operator": null, "high_speed": false}, {"name": "杜儿坪", "name_en": null, "lat": 37.8301117, "lon": 112.3904918, "distance_km": 14.8, "operator": null, "high_speed": false}, {"name": "桃杏", "name_en": null, "lat": 37.8396242, "lon": 112.4342786, "distance_km": 15.0, "operator": null, "high_speed": false}, {"name": "中鼎物流园", "name_en": null, "lat": 37.6867517, "lon": 112.6356447, "distance_km": 16.5, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:01Z"}
+{
+ "hotels": [
+  {
+   "name": "凯宾斯基饭店",
+   "name_en": "Kempinski Hotels",
+   "stars": 5,
+   "brand": "Kempinski",
+   "lat": 37.8186077,
+   "lon": 112.5560501,
+   "distance_km": 15.7,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "太原富力铂尔曼大酒店",
+   "name_en": "Pullman Taiyuan",
+   "stars": 5,
+   "brand": null,
+   "lat": 37.8984971,
+   "lon": 112.5911745,
+   "distance_km": 24.9,
+   "kind": "star",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "JW Marriott",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 37.8238923,
+   "lon": 112.5621306,
+   "distance_km": 16.5,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "全季酒店",
+   "name_en": "Ji Hotel",
+   "stars": null,
+   "brand": "全季酒店",
+   "lat": 37.8369455,
+   "lon": 112.5464039,
+   "distance_km": 17.0,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "锦江之星",
+   "name_en": "Jinjiang Inn",
+   "stars": null,
+   "brand": "锦江之星",
+   "lat": 37.8571123,
+   "lon": 112.5662506,
+   "distance_km": 19.8,
+   "kind": "chain",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 40,
+ "stations": [
+  {
+   "name": "西草寨",
+   "name_en": "Xicaozhai",
+   "lat": 37.6596942,
+   "lon": 112.4845263,
+   "distance_km": 5.9,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "晋源",
+   "name_en": "Jinyuan",
+   "lat": 37.7838386,
+   "lon": 112.4766623,
+   "distance_km": 9.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "北格",
+   "name_en": "Beige",
+   "lat": 37.6530689,
+   "lon": 112.5418103,
+   "distance_km": 10.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "官地",
+   "name_en": null,
+   "lat": 37.8197171,
+   "lon": 112.4051003,
+   "distance_km": 13.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "白家庄",
+   "name_en": null,
+   "lat": 37.8301717,
+   "lon": 112.4189984,
+   "distance_km": 14.2,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "杜儿坪",
+   "name_en": null,
+   "lat": 37.8301117,
+   "lon": 112.3904918,
+   "distance_km": 14.8,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "桃杏",
+   "name_en": null,
+   "lat": 37.8396242,
+   "lon": 112.4342786,
+   "distance_km": 15.0,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "中鼎物流园",
+   "name_en": null,
+   "lat": 37.6867517,
+   "lon": 112.6356447,
+   "distance_km": 16.5,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:04Z"
+}

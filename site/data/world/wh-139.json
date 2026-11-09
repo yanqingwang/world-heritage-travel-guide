@@ -2,8 +2,8 @@
  "id": "wh-139",
  "unesco_id": "139",
  "dataset": "unesco",
- "tier": "full",
- "popularity_rank": 95,
+ "tier": "basic",
+ "popularity_rank": 926,
  "popularity_score": 153074,
  "country": "PK",
  "country_zh": "巴基斯坦",
@@ -53,36 +53,12 @@
    "provider": "wikimedia_commons"
   },
   {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/An_old_tree_at_taxila_ruins_in_Pakistan_2014-01-15_00-57.jpg/1280px-An_old_tree_at_taxila_ruins_in_Pakistan_2014-01-15_00-57.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "An old tree at taxila ruins in Pakistan 2014-01-15 00-57.jpg",
-   "author": "User:Themajiks",
-   "license": "CC BY-SA 3.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:An_old_tree_at_taxila_ruins_in_Pakistan_2014-01-15_00-57.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Aramaic_inscription_from_Taxila_JRAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Aramaic inscription from Taxila JRAS.jpg",
-   "author": "L.D. Barnett in 1915",
-   "license": "Public domain",
-   "credit": "The Journal of the Royal Asiatic Society of Great Britain and Ireland 1915 [1]",
-   "source": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_from_Taxila_JRAS.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Aramaic_inscription_from_Taxila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Aramaic inscription from Taxila.jpg",
-   "author": "Sir John Marshall",
-   "license": "Public domain",
-   "credit": "Journal-Of-The-Royal-Asiatic-Society-Of-Great-Britain-And-Ireland-For-1915 [1]",
-   "source": "https://commons.wikimedia.org/wiki/File:Aramaic_inscription_from_Taxila.jpg"
-  },
-  {
-   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Armlet_from_Taxila%2C_Gold%2C_circa_1st_centre_CE%2C_National_Museum%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "title": "Armlet from Taxila, Gold, circa 1st centre CE, National Museum, Delhi.jpg",
-   "author": "SpeakingArch",
-   "license": "CC BY-SA 4.0",
-   "credit": "Own work",
-   "source": "https://commons.wikimedia.org/wiki/File:Armlet_from_Taxila%2C_Gold%2C_circa_1st_centre_CE%2C_National_Museum%2C_Delhi.jpg"
+   "url": "https://whc.unesco.org/uploads/sites/site_139.jpg",
+   "title": "Taxila",
+   "author": "UNESCO World Heritage Centre",
+   "license": "UNESCO / linked thumbnail",
+   "source": "https://whc.unesco.org/en/list/139",
+   "provider": "unesco"
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/139",
@@ -122,106 +98,9 @@
   "nearest_airport_km": 22.2,
   "distance_beijing_km": 3922.3,
   "ferry_terminals": [],
-  "railway_stations": [
-   {
-    "name": "واہ کینٹ ریلوے",
-    "name_en": "Wah Cantonment",
-    "lat": 33.7582369,
-    "lon": 72.7930331,
-    "distance_km": 1.5,
-    "operator": null
-   },
-   {
-    "name": "ٹیکسلا",
-    "name_en": "Taxila",
-    "lat": 33.7422793,
-    "lon": 72.8145203,
-    "distance_km": 2.5,
-    "operator": null
-   },
-   {
-    "name": "بودھو",
-    "name_en": "Budho",
-    "lat": 33.7947531,
-    "lon": 72.7679202,
-    "distance_km": 5.7,
-    "operator": null
-   },
-   {
-    "name": "سنگجانی",
-    "name_en": "Sangjani",
-    "lat": 33.6963031,
-    "lon": 72.8503729,
-    "distance_km": 8.0,
-    "operator": null
-   },
-   {
-    "name": "واہ",
-    "name_en": "Wah",
-    "lat": 33.817464,
-    "lon": 72.7371729,
-    "distance_km": 9.2,
-    "operator": null
-   }
-  ]
+  "railway_stations": []
  },
- "hotels": [
-  {
-   "name": "Jan's Palace",
-   "name_en": null,
-   "stars": 4,
-   "brand": "Hotel Jan's Palace",
-   "lat": 33.6503033,
-   "lon": 73.0612547,
-   "distance_km": 27.5,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Check Inn",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 33.6832663,
-   "lon": 73.0352841,
-   "distance_km": 24.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Margala",
-   "name_en": null,
-   "stars": 3,
-   "brand": null,
-   "lat": 33.7084094,
-   "lon": 73.0988425,
-   "distance_km": 29.1,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hill View Hotel",
-   "name_en": null,
-   "stars": 2,
-   "brand": null,
-   "lat": 33.7211151,
-   "lon": 73.0565451,
-   "distance_km": 25.0,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  },
-  {
-   "name": "Hotel Al-Habib",
-   "name_en": null,
-   "stars": 2,
-   "brand": null,
-   "lat": 33.703488,
-   "lon": 73.0714023,
-   "distance_km": 26.7,
-   "kind": "star",
-   "source": "OpenStreetMap"
-  }
- ],
+ "hotels": [],
  "visa": {
   "iso2": "PK",
   "country_zh": "巴基斯坦",
@@ -294,5 +173,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:29:57Z"
+ "updated_at": "2026-11-09T12:00:57Z"
 }

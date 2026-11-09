@@ -1,1 +1,114 @@
-{"hotels": [{"name": "Dynasun International Hotel", "name_en": "Dynasun International Hotel", "stars": null, "brand": null, "lat": 31.8749081, "lon": 121.174515, "distance_km": 16.7, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "Tian he Hotel", "name_en": "Tian he Hotel", "stars": null, "brand": null, "lat": 31.621041, "lon": 121.3912738, "distance_km": 18.4, "kind": "hotel", "source": "OpenStreetMap"}, {"name": "上海怡沁园度假村", "name_en": null, "stars": null, "brand": null, "lat": 31.6731798, "lon": 121.4743862, "distance_km": 21.7, "kind": "hotel", "source": "OpenStreetMap"}], "hotels_nearby_30km": 3, "stations": [{"name": "太仓", "name_en": "Taicang", "lat": 31.5135736, "lon": 121.1917434, "distance_km": 26.4, "operator": null, "high_speed": true}, {"name": "崇明", "name_en": null, "lat": 31.6631764, "lon": 121.3728167, "distance_km": 13.9, "operator": null, "high_speed": false}, {"name": "临江", "name_en": "Fengshuncun", "lat": 31.8932085, "lon": 121.38044, "distance_km": 20.1, "operator": null, "high_speed": false}, {"name": "通海港站", "name_en": null, "lat": 31.8143874, "lon": 121.0504339, "distance_km": 21.3, "operator": null, "high_speed": false}, {"name": "海门", "name_en": "Haimen", "lat": 31.9278785, "lon": 121.1783968, "distance_km": 21.9, "operator": null, "high_speed": false}, {"name": "太仓港", "name_en": "Taicanggang", "lat": 31.6272361, "lon": 121.0520279, "distance_km": 23.6, "operator": null, "high_speed": false}, {"name": "启东西", "name_en": null, "lat": 31.8367657, "lon": 121.536501, "distance_km": 28.1, "operator": null, "high_speed": false}, {"name": "海门北", "name_en": null, "lat": 31.986347, "lon": 121.1435303, "distance_km": 29.1, "operator": null, "high_speed": false}], "ferry_terminals": [], "fetched_at": "2026-11-07T15:19:59Z"}
+{
+ "hotels": [
+  {
+   "name": "Dynasun International Hotel",
+   "name_en": "Dynasun International Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.8749081,
+   "lon": 121.174515,
+   "distance_km": 16.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "Tian he Hotel",
+   "name_en": "Tian he Hotel",
+   "stars": null,
+   "brand": null,
+   "lat": 31.621041,
+   "lon": 121.3912738,
+   "distance_km": 18.4,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  },
+  {
+   "name": "上海怡沁园度假村",
+   "name_en": null,
+   "stars": null,
+   "brand": null,
+   "lat": 31.6731798,
+   "lon": 121.4743862,
+   "distance_km": 21.7,
+   "kind": "hotel",
+   "source": "OpenStreetMap"
+  }
+ ],
+ "hotels_nearby_30km": 3,
+ "stations": [
+  {
+   "name": "太仓",
+   "name_en": "Taicang",
+   "lat": 31.5135736,
+   "lon": 121.1917434,
+   "distance_km": 26.4,
+   "operator": null,
+   "high_speed": true
+  },
+  {
+   "name": "崇明",
+   "name_en": null,
+   "lat": 31.6631764,
+   "lon": 121.3728167,
+   "distance_km": 13.9,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "临江",
+   "name_en": "Fengshuncun",
+   "lat": 31.8932085,
+   "lon": 121.38044,
+   "distance_km": 20.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "通海港站",
+   "name_en": null,
+   "lat": 31.8143874,
+   "lon": 121.0504339,
+   "distance_km": 21.3,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "海门",
+   "name_en": "Haimen",
+   "lat": 31.9278785,
+   "lon": 121.1783968,
+   "distance_km": 21.9,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "太仓港",
+   "name_en": "Taicanggang",
+   "lat": 31.6272361,
+   "lon": 121.0520279,
+   "distance_km": 23.6,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "启东西",
+   "name_en": null,
+   "lat": 31.8367657,
+   "lon": 121.536501,
+   "distance_km": 28.1,
+   "operator": null,
+   "high_speed": false
+  },
+  {
+   "name": "海门北",
+   "name_en": null,
+   "lat": 31.986347,
+   "lon": 121.1435303,
+   "distance_km": 29.1,
+   "operator": null,
+   "high_speed": false
+  }
+ ],
+ "ferry_terminals": [],
+ "fetched_at": "2026-11-09T12:00:23Z"
+}

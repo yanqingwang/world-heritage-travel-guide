@@ -10,8 +10,8 @@
  "city_zh": "无锡市",
  "city_en": "Wuxi",
  "name_zh": "无锡市鼋头渚旅游风景区",
- "name_en": "Yuantouzhu Scenic Area",
- "name_en_source": "pinyin",
+ "name_en": "Yuantouzhu",
+ "name_en_source": "wikipedia",
  "slug": "wuxishiyuantouzhulvyou-474",
  "lat": 31.479468,
  "lon": 120.280659,
@@ -180,10 +180,11 @@
  "hotels_nearby_30km": 110,
  "info_languages": {
   "zh": true,
-  "en": false,
+  "en": true,
   "ja": false,
   "ko": false,
   "source": [
+   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -202,7 +203,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "unknown",
+  "status": "likely_open",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -220,5 +221,5 @@
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

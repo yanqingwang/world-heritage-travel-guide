@@ -10,8 +10,8 @@
  "city_zh": "上饶市",
  "city_en": "Shangrao",
  "name_zh": "上饶市婺源县江湾景区",
- "name_en": "Wuyuan County, Jiangxi",
- "name_en_source": "wikipedia",
+ "name_en": "Shangraoshiwuyuanxianjiangwan Scenic Area",
+ "name_en_source": "pinyin",
  "slug": "shangraoshiwuyuanxianjiangwan-1455",
  "lat": 29.374196,
  "lon": 118.058013,
@@ -22,8 +22,8 @@
  "category_zh": "古镇村落",
  "category_en": "Ancient town",
  "intro_zh": "江湾是一座具有丰厚的徽州文化底蕴的古村落，村中有保存尚好的御史府宅、中宪第等明清时期官邸，又有徽派民居滕家老屋、培心堂等。江湾钟灵毓秀，展示了婺源的文化特色。江湾景区新建百工坊、鼓吹堂、公社食堂等景点，能体会旧时手工艺匠人的传统技艺，观赏徽剧、婺源民歌等传统剧目，极具历史价值和观赏价值。",
- "intro_en": "Wuyuan (simplified Chinese: 婺源县; traditional Chinese: 婺源縣; pinyin: Wùyuán Xiàn) is a county in northeastern Jiangxi province, People's Republic of China, bordering the provinces of Zhejiang to the east and Anhui to the north. It is under the jurisdiction of the prefecture-level city of Shangrao. Wuyuan, on the boundary of three provinces in Jiangxi's northeastern corner, has a landscape dotted with strange caves, deep secluded rocks and numerous historic sites. Wuyuan County is home to some of the best-preserved ancient architectures in China. Wuyuan's structures were built in 740 during the Tang Dynasty. Its remoteness and inconvenient transportation protect its villages from too many visitors. It was a county under Huizhou, Anhui province until 1989.",
- "intro_en_source": "wikipedia",
+ "intro_en": "Jiangwan is an ancient village with rich Huizhou cultural heritage. In the village there are well-preserved Yushi Mansion, Zhongxiandi and other official residences from the Ming and Qing Dynasties, as well as Huizhou folk houses such as the Teng Family Old House and Peixin Hall. Jiangwan bells are beautiful and show the cultural characteristics of Wuyuan. The newly built Baigongfang, Advocating Hall, Commune Canteen and other attractions in Jiangwan Scenic Area allow you to experience the traditional skills of old craftsmen and watch traditional repertoires such as Anhui opera and Wuyuan folk songs, which are of great historical and ornamental value.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Wuyuan_jiangling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -203,9 +203,9 @@
  "hotels_nearby_30km": 16,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
    "Wikipedia language editions",
    "official website language switcher"
@@ -226,7 +226,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -237,12 +237,12 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/婺源县"
+   "url": "https://zh.wikipedia.org/wiki/江湾镇 (婺源县)"
   },
   {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:07Z"
+ "updated_at": "2026-11-09T12:00:54Z"
 }

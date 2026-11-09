@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(i)(ii)(iv)"
 lat: 19.33222222
 lon: -99.18805556
-updated_at: "2026-11-08T20:30:03Z"
+updated_at: "2026-11-09T12:01:03Z"
 ---
 
 # 墨西哥国立自治大学大学城的核心校区 / Central University City Campus of the Universidad Nacional Autónoma de México (UNAM)

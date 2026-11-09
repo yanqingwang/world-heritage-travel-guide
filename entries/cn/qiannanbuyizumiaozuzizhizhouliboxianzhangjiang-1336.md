@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Qiannanbuyizumiaozu Autonomous Prefecture"
 lat: 25.425822
 lon: 107.892801
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:55Z"
 ---
 
 # 黔南布依族苗族自治州荔波县樟江景区 / Qianxinan Buyei and Miao Autonomous Prefecture

@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(vii)(viii)(ix)(x)"
 lat: -17.2
 lon: 145.8
-updated_at: "2026-11-08T20:29:59Z"
+updated_at: "2026-11-09T12:00:59Z"
 ---
 
 # 昆士兰湿热带地区 / Wet Tropics of Queensland

@@ -10,8 +10,8 @@
  "city_zh": "长春市",
  "city_en": "Changchun",
  "name_zh": "长春市伪满皇宫博物馆",
- "name_en": "Changchun",
- "name_en_source": "wikipedia",
+ "name_en": "Changchunshiweimanhuanggong Museum",
+ "name_en_source": "pinyin",
  "slug": "changchunshiweimanhuanggongbowuguan-369",
  "lat": 43.912045,
  "lon": 125.357554,
@@ -22,8 +22,8 @@
  "category_zh": "历史遗址",
  "category_en": "Historic site",
  "intro_zh": "伪满皇宫博物院是中国末代皇帝爱新觉罗·溥仪称帝“满洲国”的宫廷旧址，是日本殖民统治中国东北十四年的历史见证，也是近代长春城市变迁的地标式建筑群。博物院形成了宫廷旧址博物馆+旅游景区的格局。景区规划为四大功能区：宫廷核心区、博物馆区、休闲区和创意街区。",
- "intro_en": "Changchun is the capital and largest city of Jilin Province, China, on the Songliao Plain. Changchun is administered as a sub-provincial city, comprising seven districts, one county and three county-level cities. At the 2020 census of China, Changchun had a population of 9,066,906. Changchun's metro area, comprising five districts and one development area, had a population of 5,019,477. Shuangyang and Jiutai districts are not urbanized yet. It is one of the biggest cities in Northeast China, along with Shenyang, Dalian and Harbin. The name of the city means \"long spring\" in Chinese. Between 1932 and 1945, Changchun was renamed Xinjing (Chinese: 新京; pinyin: Xīnjīng; lit. 'new capital') or Hsinking by the Kwantung Army as the capital of the Imperial Japanese puppet state of Manchukuo, occupying modern Northeast China. After the foundation of the People's Republic of China in 1949, Changchun was established as the provincial capital of Jilin in 1954. Known locally as China's \"City of Automobiles\", Changchun is an important industrial base with a particular focus on the automotive sector. Because of its key role in the domestic automobile industry, Changchun was sometimes referred to a",
- "intro_en_source": "wikipedia",
+ "intro_en": "The Imperial Palace Museum of the Puppet Manchukuo is the former site of the palace where the last emperor of China, Aisin Gioro Puyi, proclaimed himself the emperor of \"Manchukuo\". It is a historical witness of the fourteen years of Japanese colonial rule in Northeast China. It is also a landmark building complex in the urban changes of Changchun in modern times. The museum forms a pattern of palace site museum + tourist attraction. The scenic spot is planned into four major functional areas: palace core area, museum area, leisure area and creative block.",
+ "intro_en_source": "machine_translation",
  "images": [
   {
    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Changchun_Montage_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -193,11 +193,10 @@
  "hotels_nearby_30km": 65,
  "info_languages": {
   "zh": true,
-  "en": true,
-  "ja": true,
-  "ko": true,
+  "en": false,
+  "ja": false,
+  "ko": false,
   "source": [
-   "Wikipedia language editions",
    "official website language switcher"
   ]
  },
@@ -216,7 +215,7 @@
   "voltage": "220V/50Hz"
  },
  "foreign_visitors": {
-  "status": "likely_open",
+  "status": "unknown",
   "note_zh": "中国 5A 景区通常对境外游客开放；部分景区需护照实名预约，出行前请以官网为准。",
   "note_en": "Most 5A sites admit international visitors; passport-based reservations may be required. Check the official site before travelling."
  },
@@ -226,13 +225,9 @@
    "url": "https://lyfw.mct.gov.cn/site/special/home"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://zh.wikipedia.org/wiki/长春市"
-  },
-  {
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/"
   }
  ],
- "updated_at": "2026-11-08T21:00:08Z"
+ "updated_at": "2026-11-09T12:00:55Z"
 }

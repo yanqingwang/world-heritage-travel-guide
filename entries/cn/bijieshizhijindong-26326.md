@@ -13,7 +13,7 @@ province_en: "Guizhou"
 city_en: "Bijie City"
 lat: 26.774257
 lon: 105.908362
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
 # 毕节市织金洞景区 / Zhijin Cave
@@ -63,8 +63,8 @@ Zhijin Cave (simplified Chinese: 织金洞; traditional Chinese: 織金洞; piny
 
 ## 附近酒店 / Nearby hotels
 
-- **黔西大酒店** — 29.5 km — hotel
 - **水西假日酒店** — 29.7 km — chain — Shuixi Holiday Inn
+- **黔西大酒店** — 29.5 km — hotel
 
 *来源：OpenStreetMap；星级与连锁信息可能不完整。*
 

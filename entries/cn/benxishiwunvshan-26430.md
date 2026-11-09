@@ -2,7 +2,7 @@
 id: "cn-26430"
 dataset: "china_5a"
 name_zh: "本溪市五女山景区"
-name_en: "Benxi"
+name_en: "Wunvshanzhan Scenic Area"
 name_local: ""
 country: "CN"
 country_zh: "中国"
@@ -13,10 +13,10 @@ province_en: "Liaoning"
 city_en: "Benxi City"
 lat: 41.332991
 lon: 125.419948
-updated_at: "2026-11-08T21:00:07Z"
+updated_at: "2026-11-09T12:00:54Z"
 ---
 
-# 本溪市五女山景区 / Benxi
+# 本溪市五女山景区 / Wunvshanzhan Scenic Area
 
 > 辽宁省 · 本溪市 · 主题乐园
 
@@ -50,7 +50,9 @@ updated_at: "2026-11-08T21:00:07Z"
 
 ### English
 
-Benxi (Chinese: 本溪) is a prefecture-level city located in the east of Liaoning province, People's Republic of China, southeast of the provincial capital of Shenyang. As of the 2020 census, its population was 1,326,018 (1,709,538 in 2010), of whom 809,655 lived in the built-up area made of 3 urban districts (Pingshan, Xihu and Mingshan). It was founded as a metallurgical center in 1915. Benxi Iron and Steel Company (Bengang) is the largest employer in the city, and used to be the fourth-largest steel company in China. The second-largest industry in Benxi is coal mining. The city has pollution problems due to steel production and coal mining.
+Wunvshan Scenic Area is located on the right bank of the Hun River, 8 kilometers northeast of Huanren Manchu Autonomous County, Benxi City, Liaoning Province. It covers an area of ​​10.8 square kilometers and includes three parts: the Wunvshan Mountain City Ruins Exhibition Area, the Natural Landscape Area and the Wunvshan Museum. The scenic spot is based on the scenery of mountains and lakes, with the Wunvshan Mountain City as the core, and the theme of reproducing historical culture, forming a comprehensive tourist attraction that integrates mountain sightseeing, site tours, cultural experience, lakeside roaming, science education and other functions.
+
+*English introduction: machine translation.*
 
 ## 交通 / Transport
 
@@ -69,10 +71,10 @@ Benxi (Chinese: 本溪) is a prefecture-level city located in the east of Liaoni
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, ja, ko
+- 可用语言 / Available: zh
 
 ## 来源 / Sources
 
 - [文化和旅游部 5A 景区名录](https://lyfw.mct.gov.cn/site/special/home)
-- [Wikipedia](https://zh.wikipedia.org/wiki/本溪市)
+- [Wikipedia](https://zh.wikipedia.org/wiki/五女山站)
 - [OpenStreetMap](https://www.openstreetmap.org/)

@@ -3,8 +3,8 @@
  "unesco_id": "1642",
  "dataset": "unesco",
  "tier": "full",
- "popularity_rank": 244,
- "popularity_score": 40928,
+ "popularity_rank": 222,
+ "popularity_score": 37690,
  "country": "KP",
  "country_zh": "朝鲜民主主义人民共和国",
  "country_en": "North Korea",
@@ -16,10 +16,10 @@
   }
  ],
  "region": "",
- "subdivision_iso": "",
- "subdivision_zh": "",
- "subdivision_en": "",
- "subdivision_source": "",
+ "subdivision_iso": "KP-07",
+ "subdivision_zh": "江原道",
+ "subdivision_en": "Kangwon",
+ "subdivision_source": "nominatim_reverse",
  "name_zh": "金刚山——海上钻石山",
  "name_zh_source": "unesco_official",
  "name_en": "Mount Kumgang – Diamond Mountain from the Sea",
@@ -293,5 +293,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-08T20:30:05Z"
+ "updated_at": "2026-11-09T12:01:06Z"
 }
