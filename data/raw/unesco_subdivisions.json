@@ -1,7 +1,7 @@
 {
  "source": "wikidata+nominatim",
- "fetched_at": "2026-11-09T11:48:20Z",
- "count": 1243,
+ "fetched_at": "2026-11-08T12:47:49Z",
+ "count": 1124,
  "items": {
   "134": {
    "iso": "US-CA",
@@ -7798,7 +7798,7 @@
   "3": {
    "iso": "DE-NW",
    "name_en": "North Rhine-Westphalia",
-   "name_zh": "北莱茵-威斯特法伦州",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:33:25Z"
@@ -7849,12 +7849,12 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:44:51Z"
+   "updated_at": "2026-11-08T12:33:45Z"
   },
   "114": {
    "iso": "IR-07",
    "name_en": "Fars Province",
-   "name_zh": "法尔斯省",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:33:48Z"
@@ -7862,7 +7862,7 @@
   "115": {
    "iso": "IR-10",
    "name_en": "Isfahan Province",
-   "name_zh": "伊斯法罕省",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:33:52Z"
@@ -7889,7 +7889,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:44:53Z"
+   "updated_at": "2026-11-08T12:34:01Z"
   },
   "132": {
    "iso": "",
@@ -7897,7 +7897,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:44:54Z"
+   "updated_at": "2026-11-08T12:34:07Z"
   },
   "140": {
    "iso": "PK-KP",
@@ -7969,7 +7969,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:44:56Z"
+   "updated_at": "2026-11-08T12:34:39Z"
   },
   "198": {
    "iso": "US-IL",
@@ -7982,7 +7982,7 @@
   "203": {
    "iso": "FR-BFC",
    "name_en": "Bourgogne – Franche-Comté",
-   "name_zh": "勃艮第-弗朗什-孔泰大区",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:34:47Z"
@@ -8038,7 +8038,7 @@
   "239": {
    "iso": "IN-KA",
    "name_en": "Karnataka",
-   "name_zh": "卡纳塔克邦",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:35:16Z"
@@ -8054,7 +8054,7 @@
   "244": {
    "iso": "IN-MH",
    "name_en": "Maharashtra",
-   "name_zh": "马哈拉施特拉邦",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:35:26Z"
@@ -8062,7 +8062,7 @@
   "247": {
    "iso": "IN-RJ",
    "name_en": "Rajasthan",
-   "name_zh": "拉贾斯坦邦",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:35:28Z"
@@ -8089,7 +8089,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:44:57Z"
+   "updated_at": "2026-11-08T12:35:37Z"
   },
   "262": {
    "iso": "SD-RS",
@@ -8105,39 +8105,39 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:44:58Z"
+   "updated_at": "2026-11-08T12:35:45Z"
   },
   "267": {
-   "iso": "CH-BE",
-   "name_en": "Bern",
-   "name_zh": "伯恩州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:00Z"
-  },
-  "271": {
-   "iso": "DE-BY",
-   "name_en": "Bavaria",
-   "name_zh": "巴伐利亚州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:01Z"
-  },
-  "277": {
-   "iso": "IQ-NI",
-   "name_en": "Nineveh Governorate",
-   "name_zh": "尼尼微省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:02Z"
-  },
-  "278": {
    "iso": "",
-   "name_en": "New York",
+   "name_en": "",
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:04Z"
+   "updated_at": "2026-11-08T12:35:59Z"
+  },
+  "271": {
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
+   "depth": null,
+   "source": "nominatim_reverse",
+   "updated_at": "2026-11-08T12:36:17Z"
+  },
+  "277": {
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
+   "depth": null,
+   "source": "nominatim_reverse",
+   "updated_at": "2026-11-08T12:36:32Z"
+  },
+  "278": {
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
+   "depth": null,
+   "source": "nominatim_reverse",
+   "updated_at": "2026-11-08T12:36:46Z"
   },
   "286": {
    "iso": "",
@@ -8145,12 +8145,12 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:05Z"
+   "updated_at": "2026-11-08T12:36:50Z"
   },
   "288": {
    "iso": "DE-NW",
    "name_en": "North Rhine-Westphalia",
-   "name_zh": "北莱茵-威斯特法伦州",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:36:53Z"
@@ -8166,7 +8166,7 @@
   "292": {
    "iso": "DE-NW",
    "name_en": "North Rhine-Westphalia",
-   "name_zh": "北莱茵-威斯特法伦州",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:36:59Z"
@@ -8177,12 +8177,12 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:06Z"
+   "updated_at": "2026-11-08T12:37:03Z"
   },
   "300": {
    "iso": "CA-QC",
    "name_en": "Quebec",
-   "name_zh": "魁北克省",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:37:07Z"
@@ -8254,18 +8254,18 @@
   "422": {
    "iso": "GB-ENG",
    "name_en": "England",
-   "name_zh": "英格兰",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:37:50Z"
   },
   "430": {
-   "iso": "GB-ENG",
-   "name_en": "England",
-   "name_zh": "英格兰",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:08Z"
+   "updated_at": "2026-11-08T12:38:11Z"
   },
   "434": {
    "iso": "OM-ZA",
@@ -8292,28 +8292,28 @@
    "updated_at": "2026-11-08T12:38:49Z"
   },
   "494": {
-   "iso": "MG-M",
-   "name_en": "Melaky",
-   "name_zh": "馬哈贊加省",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:09Z"
+   "updated_at": "2026-11-08T12:39:03Z"
   },
   "509": {
-   "iso": "ZM-07",
-   "name_en": "Southern Province",
-   "name_zh": "南部省",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:10Z"
+   "updated_at": "2026-11-08T12:39:32Z"
   },
   "515": {
-   "iso": "DE-HE",
-   "name_en": "Hesse",
-   "name_zh": "黑森州",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:12Z"
+   "updated_at": "2026-11-08T12:39:52Z"
   },
   "518": {
    "iso": "ES-CT",
@@ -8334,7 +8334,7 @@
   "544": {
    "iso": "RU-KR",
    "name_en": "Karelia",
-   "name_zh": "卡累利阿共和国",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:40:12Z"
@@ -8342,7 +8342,7 @@
   "546": {
    "iso": "DE-BW",
    "name_en": "Baden-Württemberg",
-   "name_zh": "巴登-符腾堡州",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:40:14Z"
@@ -8385,7 +8385,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:13Z"
+   "updated_at": "2026-11-08T12:40:36Z"
   },
   "598": {
    "iso": "RO-SV",
@@ -8425,12 +8425,12 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:15Z"
+   "updated_at": "2026-11-08T12:41:09Z"
   },
   "672": {
    "iso": "VN-13",
-   "name_en": "Quảng Ninh",
-   "name_zh": "广宁市",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:41:16Z"
@@ -8444,17 +8444,17 @@
    "updated_at": "2026-11-08T12:41:23Z"
   },
   "678": {
-   "iso": "VN-26",
-   "name_en": "Huế",
-   "name_zh": "顺化市",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:16Z"
+   "updated_at": "2026-11-08T12:41:40Z"
   },
   "686": {
    "iso": "CA-QC",
    "name_en": "Quebec",
-   "name_zh": "魁北克省",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:41:52Z"
@@ -8470,7 +8470,7 @@
   "720": {
    "iso": "DE-HE",
    "name_en": "Hesse",
-   "name_zh": "黑森州",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:42:01Z"
@@ -8485,8 +8485,8 @@
   },
   "736": {
    "iso": "KR-47",
-   "name_en": "North Gyeongsang",
-   "name_zh": "庆尚北道",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:42:08Z"
@@ -8574,7 +8574,7 @@
   "825": {
    "iso": "IT-36",
    "name_en": "Friuli – Venezia Giulia",
-   "name_zh": "弗留利-威尼斯朱利亚",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:43:03Z"
@@ -8598,7 +8598,7 @@
   "850": {
    "iso": "LB-AS",
    "name_en": "North Governorate",
-   "name_zh": "北部省",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:43:13Z"
@@ -8625,7 +8625,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:18Z"
+   "updated_at": "2026-11-08T12:43:25Z"
   },
   "874": {
    "iso": "ES-VC",
@@ -8641,7 +8641,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:19Z"
+   "updated_at": "2026-11-08T12:43:31Z"
   },
   "889": {
    "iso": "CU-12",
@@ -8668,44 +8668,44 @@
    "updated_at": "2026-11-08T12:43:41Z"
   },
   "915": {
-   "iso": "ZA-GP",
-   "name_en": "Gauteng",
-   "name_zh": "豪滕省",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:20Z"
+   "updated_at": "2026-11-08T12:43:57Z"
   },
   "931": {
-   "iso": "AT-6",
-   "name_en": "Styria",
-   "name_zh": "施泰尔马克州",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:22Z"
+   "updated_at": "2026-11-08T12:44:11Z"
   },
   "936": {
-   "iso": "AR-Z",
-   "name_en": "Santa Cruz",
-   "name_zh": "圣克鲁斯省",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:23Z"
+   "updated_at": "2026-11-08T12:44:31Z"
   },
   "943": {
-   "iso": "BE-WAL",
-   "name_en": "Hainaut",
-   "name_zh": "瓦隆",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:25Z"
+   "updated_at": "2026-11-08T12:44:46Z"
   },
   "956": {
-   "iso": "SN-SL",
-   "name_en": "Saint-Louis Region",
-   "name_zh": "圣路易区",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:26Z"
+   "updated_at": "2026-11-08T12:45:05Z"
   },
   "959": {
    "iso": "CL-VS",
@@ -8726,7 +8726,7 @@
   "974": {
    "iso": "DE-BW",
    "name_en": "Baden-Württemberg",
-   "name_zh": "巴登-符腾堡州",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:45:35Z"
@@ -8734,7 +8734,7 @@
   "975": {
    "iso": "DE-NW",
    "name_en": "North Rhine-Westphalia",
-   "name_zh": "北莱茵-威斯特法伦州",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:45:39Z"
@@ -8766,7 +8766,7 @@
   "1006": {
    "iso": "BE-WAL",
    "name_en": "Hainaut",
-   "name_zh": "瓦隆",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:45:54Z"
@@ -8774,7 +8774,7 @@
   "1007": {
    "iso": "ZA-WC",
    "name_en": "Western Cape",
-   "name_zh": "西开普省",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:45:58Z"
@@ -8806,7 +8806,7 @@
   "1056": {
    "iso": "IN-BR",
    "name_en": "Bihar",
-   "name_zh": "比哈尔邦",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:46:10Z"
@@ -8841,7 +8841,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:27Z"
+   "updated_at": "2026-11-08T12:46:25Z"
   },
   "1073": {
    "iso": "SD-NO",
@@ -8852,12 +8852,12 @@
    "updated_at": "2026-11-08T12:46:28Z"
   },
   "1077": {
-   "iso": "IR-04",
-   "name_en": "West Azerbaijan Province",
-   "name_zh": "西阿塞拜疆省",
+   "iso": "",
+   "name_en": "",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:29Z"
+   "updated_at": "2026-11-08T12:46:46Z"
   },
   "1078": {
    "iso": "CZ-63",
@@ -8870,7 +8870,7 @@
   "1081": {
    "iso": "MN-073",
    "name_en": "Arkhangai",
-   "name_zh": "后杭爱省",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:46:52Z"
@@ -8934,7 +8934,7 @@
   "1153": {
    "iso": "FR-OCC",
    "name_en": "Occitania",
-   "name_zh": "奥克西塔尼大区",
+   "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:47:24Z"
@@ -8969,7 +8969,7 @@
    "name_zh": "",
    "depth": null,
    "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:30Z"
+   "updated_at": "2026-11-08T12:47:38Z"
   },
   "1201": {
    "iso": "MW-MU",
@@ -8994,958 +8994,6 @@
    "depth": null,
    "source": "nominatim_reverse",
    "updated_at": "2026-11-08T12:47:49Z"
-  },
-  "1209": {
-   "iso": "MX-JAL",
-   "name_en": "Jalisco",
-   "name_zh": "哈利斯科州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:31Z"
-  },
-  "1220": {
-   "iso": "IL-HA",
-   "name_en": "Haifa District",
-   "name_zh": "海法区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:33Z"
-  },
-  "1225": {
-   "iso": "BF-13",
-   "name_en": "Southwest",
-   "name_zh": "西南大區",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:34Z"
-  },
-  "1226": {
-   "iso": "SN-KL",
-   "name_en": "Kaolack Region",
-   "name_zh": "考拉克区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:35Z"
-  },
-  "1229": {
-   "iso": "SY-HI",
-   "name_en": "Homs Governorate",
-   "name_zh": "霍姆斯省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:37Z"
-  },
-  "1231": {
-   "iso": "KE-14",
-   "name_en": "Kilifi County",
-   "name_zh": "基利菲县",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:38Z"
-  },
-  "1236": {
-   "iso": "",
-   "name_en": "Castile and León",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:40Z"
-  },
-  "1237": {
-   "iso": "IT-34",
-   "name_en": "Veneto",
-   "name_zh": "威尼托",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:41Z"
-  },
-  "1252": {
-   "iso": "TJ-GB",
-   "name_en": "Gorno-Badakhshan Autonomous Region",
-   "name_zh": "山地巴达赫尚自治州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:42Z"
-  },
-  "1262": {
-   "iso": "IR-03",
-   "name_en": "East Azerbaijan Province",
-   "name_zh": "东阿塞拜疆省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:44Z"
-  },
-  "1264": {
-   "iso": "KR-49",
-   "name_en": "Jeju Province",
-   "name_zh": "济州特别自治道",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:46Z"
-  },
-  "1272": {
-   "iso": "BR-SE",
-   "name_en": "Sergipe",
-   "name_zh": "塞尔希培州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:47Z"
-  },
-  "1277": {
-   "iso": "JP-03",
-   "name_en": "Iwate Prefecture",
-   "name_zh": "岩手县",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:48Z"
-  },
-  "1278": {
-   "iso": "KP-15",
-   "name_en": "Kaesong",
-   "name_zh": "开城特级市",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:50Z"
-  },
-  "1283": {
-   "iso": "FR-HDF",
-   "name_en": "Hauts-de-France",
-   "name_zh": "上法兰西大区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:51Z"
-  },
-  "1295": {
-   "iso": "KE-28",
-   "name_en": "Mombasa County",
-   "name_zh": "蒙巴萨县",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:53Z"
-  },
-  "1308": {
-   "iso": "BR-RJ",
-   "name_en": "Rio de Janeiro",
-   "name_zh": "里约热内卢州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:54Z"
-  },
-  "1314": {
-   "iso": "DE-NI",
-   "name_en": "Lower Saxony",
-   "name_zh": "下萨克森州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:55Z"
-  },
-  "1318": {
-   "iso": "IT-36",
-   "name_en": "Friuli – Venezia Giulia",
-   "name_zh": "弗留利-威尼斯朱利亚",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:57Z"
-  },
-  "1321": {
-   "iso": "CH-VD",
-   "name_en": "Vaud",
-   "name_zh": "沃州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:58Z"
-  },
-  "1324": {
-   "iso": "KR-47",
-   "name_en": "North Gyeongsang",
-   "name_zh": "庆尚北道",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:45:59Z"
-  },
-  "1325": {
-   "iso": "",
-   "name_en": "",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:01Z"
-  },
-  "1330": {
-   "iso": "UA-77",
-   "name_en": "Chernivtsi Oblast",
-   "name_zh": "切尔尼夫齐州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:02Z"
-  },
-  "1333": {
-   "iso": "",
-   "name_en": "South Ethiopia Regional State",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:03Z"
-  },
-  "1336": {
-   "iso": "SD-NR",
-   "name_en": "River Nile State",
-   "name_zh": "尼罗州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:05Z"
-  },
-  "1338": {
-   "iso": "IN-RJ",
-   "name_en": "Rajasthan",
-   "name_zh": "拉贾斯坦邦",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:06Z"
-  },
-  "1339": {
-   "iso": "MH-L",
-   "name_en": "Ralik Chain",
-   "name_zh": "拉利克礁链",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:08Z"
-  },
-  "1343": {
-   "iso": "AE-AZ",
-   "name_en": "Abu Dhabi Emirate",
-   "name_zh": "阿布扎比酋长国",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:09Z"
-  },
-  "1344": {
-   "iso": "BE-WAL",
-   "name_en": "Hainaut",
-   "name_zh": "瓦隆",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:10Z"
-  },
-  "1348": {
-   "iso": "SY-HL",
-   "name_en": "Aleppo Governorate",
-   "name_zh": "阿勒颇省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:12Z"
-  },
-  "1351": {
-   "iso": "MX-ZAC",
-   "name_en": "Zacatecas",
-   "name_zh": "萨卡特卡斯州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:13Z"
-  },
-  "1352": {
-   "iso": "MX-OAX",
-   "name_en": "Oaxaca",
-   "name_zh": "瓦哈卡州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:15Z"
-  },
-  "1356": {
-   "iso": "",
-   "name_en": "",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:16Z"
-  },
-  "1358": {
-   "iso": "VN-21",
-   "name_en": "Thanh Hóa Province",
-   "name_zh": "清化省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:18Z"
-  },
-  "1359": {
-   "iso": "SN-FK",
-   "name_en": "Fatick Region",
-   "name_zh": "法蒂克区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:19Z"
-  },
-  "1363": {
-   "iso": "DE-BW",
-   "name_en": "Baden-Württemberg",
-   "name_zh": "巴登-符腾堡州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:20Z"
-  },
-  "1364": {
-   "iso": "BH-15",
-   "name_en": "Muharraq Governorate",
-   "name_zh": "穆哈拉格省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:22Z"
-  },
-  "1375": {
-   "iso": "IN-WB",
-   "name_en": "West Bengal",
-   "name_zh": "西孟加拉邦",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:23Z"
-  },
-  "1380": {
-   "iso": "CF-SE",
-   "name_en": "Sangha-Mbaéré",
-   "name_zh": "桑加-姆巴埃雷省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:24Z"
-  },
-  "1397": {
-   "iso": "IR-10",
-   "name_en": "Isfahan Province",
-   "name_zh": "伊斯法罕省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:26Z"
-  },
-  "1415": {
-   "iso": "CA-ON",
-   "name_en": "Ontario",
-   "name_zh": "安大略省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:27Z"
-  },
-  "1422": {
-   "iso": "IR-23",
-   "name_en": "Tehran Province",
-   "name_zh": "德黑兰省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:29Z"
-  },
-  "1425": {
-   "iso": "FR-BFC",
-   "name_en": "Bourgogne – Franche-Comté",
-   "name_zh": "勃艮第-弗朗什-孔泰大区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:30Z"
-  },
-  "1430": {
-   "iso": "NA-ER",
-   "name_en": "Erongo Region",
-   "name_zh": "埃龙戈区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:31Z"
-  },
-  "1434": {
-   "iso": "FR-ARA",
-   "name_en": "Auvergne-Rhône-Alpes",
-   "name_zh": "奥弗涅-罗讷-阿尔卑斯大区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:33Z"
-  },
-  "1438": {
-   "iso": "VN-18",
-   "name_en": "Ninh Bình Province",
-   "name_zh": "宁平省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:34Z"
-  },
-  "1440": {
-   "iso": "MN-039",
-   "name_en": "Khentii",
-   "name_zh": "肯特省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:36Z"
-  },
-  "1444": {
-   "iso": "MM-01",
-   "name_en": "Sagaing Region",
-   "name_zh": "实皆省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:37Z"
-  },
-  "1447": {
-   "iso": "DE-NW",
-   "name_en": "North Rhine-Westphalia",
-   "name_zh": "北莱茵-威斯特法伦州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:39Z"
-  },
-  "1448": {
-   "iso": "MN-061",
-   "name_en": "Dornod",
-   "name_zh": "东方省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:40Z"
-  },
-  "1453": {
-   "iso": "CR-P",
-   "name_en": "Puntarenas Province",
-   "name_zh": "蓬塔雷纳斯省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:41Z"
-  },
-  "1455": {
-   "iso": "IR-06",
-   "name_en": "Khuzestan Province",
-   "name_zh": "胡齐斯坦省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:43Z"
-  },
-  "1459": {
-   "iso": "CL-AP",
-   "name_en": "Arica y Parinacota Region",
-   "name_zh": "阿里卡和帕里纳科塔大区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:44Z"
-  },
-  "1464": {
-   "iso": "UY-RN",
-   "name_en": "Río Negro",
-   "name_zh": "内格罗河省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:46Z"
-  },
-  "1470": {
-   "iso": "DE-ST",
-   "name_en": "Saxony-Anhalt",
-   "name_zh": "萨克森-安哈尔特州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:47Z"
-  },
-  "1472": {
-   "iso": "SA-06",
-   "name_en": "Ḥa'il Province",
-   "name_zh": "哈伊勒省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:49Z"
-  },
-  "1475": {
-   "iso": "TD-EE",
-   "name_en": "East Ennedi",
-   "name_zh": "東恩內迪區",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:50Z"
-  },
-  "1477": {
-   "iso": "KR-44",
-   "name_en": "South Chungcheong",
-   "name_zh": "忠清南道",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:51Z"
-  },
-  "1480": {
-   "iso": "IN-MH",
-   "name_en": "Maharashtra",
-   "name_zh": "马哈拉施特拉邦",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:53Z"
-  },
-  "1481": {
-   "iso": "IQ-MA",
-   "name_en": "Maysan Governorate",
-   "name_zh": "米桑省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:54Z"
-  },
-  "1483": {
-   "iso": "",
-   "name_en": "",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:56Z"
-  },
-  "1484": {
-   "iso": "JP-35",
-   "name_en": "Yamaguchi Prefecture",
-   "name_zh": "山口县",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:57Z"
-  },
-  "1490": {
-   "iso": "KG-C",
-   "name_en": "Chuy Region",
-   "name_zh": "楚河州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:46:59Z"
-  },
-  "1496": {
-   "iso": "US-PA",
-   "name_en": "Pennsylvania",
-   "name_zh": "宾夕法尼亚州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:00Z"
-  },
-  "1498": {
-   "iso": "KR-47",
-   "name_en": "North Gyeongsang",
-   "name_zh": "庆尚北道",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:01Z"
-  },
-  "1502": {
-   "iso": "IN-BR",
-   "name_en": "Bihar",
-   "name_zh": "比哈尔邦",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:02Z"
-  },
-  "1504": {
-   "iso": "BA-BIH",
-   "name_en": "Federation of Bosnia and Herzegovina",
-   "name_zh": "波斯尼亚和黑塞哥维那联邦",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:04Z"
-  },
-  "1533": {
-   "iso": "IT-25",
-   "name_en": "Lombardy",
-   "name_zh": "伦巴第",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:05Z"
-  },
-  "1534": {
-   "iso": "MX-PUE",
-   "name_en": "Puebla",
-   "name_zh": "普埃布拉州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:06Z"
-  },
-  "1536": {
-   "iso": "",
-   "name_en": "",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:08Z"
-  },
-  "1542": {
-   "iso": "BH-14",
-   "name_en": "Southern Governorate",
-   "name_zh": "南方省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:09Z"
-  },
-  "1552": {
-   "iso": "RO-AB",
-   "name_en": "Alba County",
-   "name_zh": "阿尔巴县",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:10Z"
-  },
-  "1562": {
-   "iso": "",
-   "name_en": "Jeonnam-Gwangju Special Metropolitan City",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:12Z"
-  },
-  "1568": {
-   "iso": "IR-07",
-   "name_en": "Fars Province",
-   "name_zh": "法尔斯省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:13Z"
-  },
-  "1569": {
-   "iso": "FR-OCC",
-   "name_en": "Occitania",
-   "name_zh": "奥克西塔尼大区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:15Z"
-  },
-  "1571": {
-   "iso": "IT-34",
-   "name_en": "Veneto",
-   "name_zh": "威尼托",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:16Z"
-  },
-  "1582": {
-   "iso": "PA-8",
-   "name_en": "Panamá Province",
-   "name_zh": "巴拿马省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:18Z"
-  },
-  "1584": {
-   "iso": "IR-27",
-   "name_en": "Golestan Province",
-   "name_zh": "戈勒斯坦省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:19Z"
-  },
-  "1591": {
-   "iso": "",
-   "name_en": "Jeonnam-Gwangju Special Metropolitan City",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:20Z"
-  },
-  "1599": {
-   "iso": "PL-26",
-   "name_en": "Holy Cross Voivodeship",
-   "name_zh": "圣十字省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:22Z"
-  },
-  "1602": {
-   "iso": "BF-01",
-   "name_en": "Boucle du Mouhoun",
-   "name_zh": "布克萊迪穆翁大區",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:23Z"
-  },
-  "1608": {
-   "iso": "AT-3",
-   "name_en": "Lower Austria",
-   "name_zh": "下奥地利州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:25Z"
-  },
-  "1613": {
-   "iso": "BE-WAL",
-   "name_en": "Liège",
-   "name_zh": "瓦隆",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:26Z"
-  },
-  "1621": {
-   "iso": "MN-073",
-   "name_en": "Arkhangai",
-   "name_zh": "后杭爱省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:27Z"
-  },
-  "1627": {
-   "iso": "TJ-KT",
-   "name_en": "Khatlon Region",
-   "name_zh": "哈特隆州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:29Z"
-  },
-  "1631": {
-   "iso": "DE-NW",
-   "name_en": "North Rhine-Westphalia",
-   "name_zh": "北莱茵-威斯特法伦州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:30Z"
-  },
-  "1636": {
-   "iso": "DE-RP",
-   "name_en": "Rhineland-Palatinate",
-   "name_zh": "莱茵兰-普法尔茨州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:32Z"
-  },
-  "1641": {
-   "iso": "ET-OR",
-   "name_en": "Oromia Region",
-   "name_zh": "奥罗米亚州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:33Z"
-  },
-  "1642": {
-   "iso": "KP-07",
-   "name_en": "Kangwon",
-   "name_zh": "江原道",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:34Z"
-  },
-  "1643": {
-   "iso": "",
-   "name_en": "",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:36Z"
-  },
-  "1648": {
-   "iso": "CI-SV",
-   "name_en": "Savanes",
-   "name_zh": "薩瓦內區",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:37Z"
-  },
-  "1653": {
-   "iso": "GA-7",
-   "name_en": "Ogooué-Lolo Province",
-   "name_zh": "奥果韦-洛洛省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:39Z"
-  },
-  "1654": {
-   "iso": "RU-KR",
-   "name_en": "Karelia",
-   "name_zh": "卡累利阿共和国",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:40Z"
-  },
-  "1660": {
-   "iso": "DK-83",
-   "name_en": "Region of Southern Denmark",
-   "name_zh": "南丹麦大区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:41Z"
-  },
-  "1666": {
-   "iso": "KR-48",
-   "name_en": "South Gyeongsang",
-   "name_zh": "庆尚南道",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:43Z"
-  },
-  "1668": {
-   "iso": "IR-25",
-   "name_en": "Qom Province",
-   "name_zh": "库姆省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:44Z"
-  },
-  "1670": {
-   "iso": "IN-KA",
-   "name_en": "Karnataka",
-   "name_zh": "卡纳塔克邦",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:46Z"
-  },
-  "1675": {
-   "iso": "TJ-SU",
-   "name_en": "Sughd Region",
-   "name_zh": "粟特州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:47Z"
-  },
-  "1676": {
-   "iso": "ZA-WC",
-   "name_en": "Western Cape",
-   "name_zh": "西开普省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:48Z"
-  },
-  "1686": {
-   "iso": "CA-QC",
-   "name_en": "Quebec",
-   "name_zh": "魁北克省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:50Z"
-  },
-  "1688": {
-   "iso": "RU-ARK",
-   "name_en": "Arkhangelsk Oblast",
-   "name_zh": "阿尔汉格尔斯克州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:51Z"
-  },
-  "1693": {
-   "iso": "KZ-33",
-   "name_en": "Jetisu Region",
-   "name_zh": "杰特苏州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:53Z"
-  },
-  "1696": {
-   "iso": "",
-   "name_en": "",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:54Z"
-  },
-  "1699": {
-   "iso": "SA-01",
-   "name_en": "Riyadh Region",
-   "name_zh": "利雅得省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:55Z"
-  },
-  "1700": {
-   "iso": "YE-MA",
-   "name_en": "Marib Governorate",
-   "name_zh": "马里卜省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:57Z"
-  },
-  "1702": {
-   "iso": "LB-AS",
-   "name_en": "North Governorate",
-   "name_zh": "北部省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:47:58Z"
-  },
-  "1703": {
-   "iso": "UA-51",
-   "name_en": "Odesa Oblast",
-   "name_zh": "敖德萨州",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:00Z"
-  },
-  "1715": {
-   "iso": "PL-22",
-   "name_en": "Pomeranian Voivodeship",
-   "name_zh": "滨海省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:01Z"
-  },
-  "1718": {
-   "iso": "RO-SJ",
-   "name_en": "Sălaj County",
-   "name_zh": "瑟拉日县",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:02Z"
-  },
-  "1723": {
-   "iso": "ZA-WC",
-   "name_en": "Western Cape",
-   "name_zh": "西开普省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:04Z"
-  },
-  "1730": {
-   "iso": "IT-88",
-   "name_en": "Sardinia",
-   "name_zh": "撒丁",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:05Z"
-  },
-  "1732": {
-   "iso": "VN-13",
-   "name_en": "Quảng Ninh",
-   "name_zh": "广宁市",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:07Z"
-  },
-  "1740": {
-   "iso": "KR-31",
-   "name_en": "Ulsan",
-   "name_zh": "蔚山广域市",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:08Z"
-  },
-  "1746": {
-   "iso": "SL-E",
-   "name_en": "Kenema District",
-   "name_zh": "东方省",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:10Z"
-  },
-  "1748": {
-   "iso": "KH-12",
-   "name_en": "Phnom Penh",
-   "name_zh": "金边",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:11Z"
-  },
-  "1750": {
-   "iso": "",
-   "name_en": "",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:13Z"
-  },
-  "1758": {
-   "iso": "DK-81",
-   "name_en": "North Denmark Region",
-   "name_zh": "北日德兰大区",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:14Z"
-  },
-  "1768": {
-   "iso": "KM-A",
-   "name_en": "Anjouan",
-   "name_zh": "昂儒昂岛",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:15Z"
-  },
-  "1808": {
-   "iso": "",
-   "name_en": "Greater Pibor Administrative Area",
-   "name_zh": "",
-   "depth": null,
-   "source": "nominatim_reverse",
-   "updated_at": "2026-11-09T11:48:16Z"
   }
  }
 }

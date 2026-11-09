@@ -334,3 +334,17 @@ footer {
   .globe-stats { gap: 16px; }
   .globe-stat b { font-size: 22px; }
 }
+
+/* Cloud sync dialog */
+.sync-dialog { width: min(560px, calc(100vw - 22px)); max-height: min(88vh, 760px); }
+.sync-dialog h3 { margin: 18px 0 6px; font-family: var(--serif); font-size: 17px; font-weight: 550; }
+.sync-block .note { margin-top: 4px; }
+.sync-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; align-items: center; }
+.sync-row input {
+  flex: 1 1 150px; min-width: 0;
+  padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--paper-2); color: var(--ink); font: inherit; font-size: 13px;
+}
+.sync-row input:focus { outline: none; border-color: var(--green); box-shadow: 0 0 0 3px rgba(31, 90, 70, .12); }
+.sync-row input[type="password"] { flex: 2 1 220px; }
+#sync-status, #sync-result { min-height: 1.2em; }

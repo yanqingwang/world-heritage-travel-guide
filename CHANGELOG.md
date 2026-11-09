@@ -43,3 +43,7 @@
 - 中国 5A：359 条；海外世界遗产：1,213 条。
 - 新增 0 条，移除 0 条，更新 18 条。
 - 变更字段：transport.airports × 18、transport.distance_beijing_km × 17
+## 2026-11-10 — 个人标记云同步与 README 整理
+
+- 站点新增「☁ 云同步」：个人标记（去过/赞过/不好）仍以浏览器 localStorage 为主，可选连接访客自己的 GitHub Fine-grained Token 后，在仓库 `sync/` 目录保存一人一份的 `marks-<设备名>.json`（GitHub Contents API 读写）；支持推送/合并拉取、导出/导入 JSON。令牌只存访客浏览器，站点不收集凭据。
+- README 中「本地运行 / 环境变量 / 每周自动更新」等管理员内容移入新增的 `deploy.md`（中英双语）；README 精简为面向访客的介绍，并同步了表格行名与「筛选」条目的措辞调整。

@@ -11,7 +11,7 @@
   <meta property="og:description" content="359 个中国 5A 景区 + 1,213 个海外 UNESCO 世界遗产，中英双语交通、酒店、签证与多语言信息。">
   <meta property="og:url" content="https://yanqingwang.github.io/world-heritage-travel-guide/">
   <meta name="twitter:card" content="summary">
-  <link rel="stylesheet" href="./assets/style.css?v=7">
+  <link rel="stylesheet" href="./assets/style.css?v=8">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏛️</text></svg>">
 </head>
 <body>
@@ -110,13 +110,52 @@
         <div class="globe-actions">
           <button id="globe-china" class="ghost small" type="button">聚焦中国</button>
           <button id="globe-spin" class="ghost small" type="button">暂停旋转</button>
+          <button id="sync-open" class="ghost small" type="button">☁ 云同步</button>
         </div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog id="sync" class="detail sync-dialog">
+    <div class="detail-head">
+      <div class="detail-title-wrap">
+        <p class="eyebrow" id="sync-kicker">云同步</p>
+        <h2 id="sync-title">同步我的标记</h2>
+        <p class="subtitle" id="sync-sub">localStorage 为主，云端每人一份备份</p>
+      </div>
+      <button id="sync-close" class="icon-btn" type="button" aria-label="关闭">✕</button>
+    </div>
+    <div class="detail-body" id="sync-body">
+      <p class="note" id="sync-note">标记始终先保存在本机浏览器（localStorage）。连接 GitHub 后，会在本仓库 <code>sync/</code> 目录为你保存一份 <code>marks-&lt;设备名&gt;.json</code>（一人一份），用于换设备/换浏览器时恢复。令牌只保存在你自己的浏览器里，站点不收集任何凭据。</p>
+
+      <div class="sync-block">
+        <h3 id="sync-setup-title">1 · 连接 GitHub（可选）</h3>
+        <p class="note" id="sync-setup-note">需要一个仅有本仓库 Contents 读写权限的 Fine-grained Personal Access Token（GitHub → Settings → Developer settings → Fine-grained tokens）。粘贴后保存即可。</p>
+        <div class="sync-row">
+          <input id="sync-token" type="password" placeholder="github_pat_…" autocomplete="off">
+          <input id="sync-name" type="text" placeholder="设备名，如 laptop / phone" maxlength="32">
+          <button id="sync-save" class="primary small" type="button">保存</button>
+        </div>
+        <p id="sync-status" class="note"></p>
+      </div>
+
+      <div class="sync-block">
+        <h3 id="sync-actions-title">2 · 推送 / 拉取</h3>
+        <div class="sync-row">
+          <button id="sync-push" class="primary small" type="button">⬆ 推送到云端</button>
+          <button id="sync-pull" class="ghost small" type="button">⬇ 从云端合并</button>
+          <button id="sync-export" class="ghost small" type="button">导出 JSON</button>
+          <button id="sync-import" class="ghost small" type="button">导入 JSON</button>
+          <input id="sync-file" type="file" accept="application/json" hidden>
+        </div>
+        <p id="sync-result" class="note"></p>
       </div>
     </div>
   </dialog>
 
   <script src="./assets/vendor/d3-array.min.js?v=1"></script>
   <script src="./assets/vendor/d3-geo.min.js?v=1"></script>
-  <script src="./assets/app.js?v=7"></script>
+  <script src="./assets/sync.js?v=1"></script>
+  <script src="./assets/app.js?v=8"></script>
 </body>
 </html>
