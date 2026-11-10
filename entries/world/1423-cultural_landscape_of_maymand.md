@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2015"
 criteria: "(v)"
-lat: 33.74695630819231
-lon: 51.33943194923077
-updated_at: "2026-11-10T14:48:02Z"
+lat: 30.168055555
+lon: 55.375555555
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 梅满德 / Cultural Landscape of Maymand
@@ -39,10 +39,10 @@ Maymand is a self-contained, semi-arid area at the end of a valley at the southe
 
 ## 交通 / Transport
 
-- ✈ **Kashan Airport (KKS)** — 27.5 km
-- ✈ **Isfahan Shahid Beheshti International Airport (IFN)** — 121.3 km
-- ✈ **Imam Khomeini International Airport (IKA)** — 186.4 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **5686.7 km**
+- ✈ **Rafsanjan Airport (RJN)** — 66.3 km
+- ✈ **Ayatollah Hashemi Rafsanjani International Airport (KER)** — 151.7 km
+- ✈ **Shahid Sadooghi Airport (AZD)** — 219.7 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **5501.4 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

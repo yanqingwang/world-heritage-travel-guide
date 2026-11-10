@@ -29,7 +29,7 @@
  "slug": "263-monastery_of_the_hieronymites_and_tower_",
  "lat": 38.69194,
  "lon": -9.21583,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -44,6 +44,38 @@
  "intro_local": "",
  "intro_local_source": null,
  "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Belem_Tower%2C_Lisbon_%288038507710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Belem Tower, Lisbon (8038507710).jpg",
+   "author": "www.GlynLowe.com from Washington DC, USA",
+   "license": "CC BY 2.0",
+   "credit": "Belem Tower, Lisbon Uploaded by tm",
+   "source": "https://commons.wikimedia.org/wiki/File:Belem_Tower%2C_Lisbon_%288038507710%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Belem_Tower%2C_Lisbon_%288038516018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Belem Tower, Lisbon (8038516018).jpg",
+   "author": "www.GlynLowe.com from Washington DC, USA",
+   "license": "CC BY 2.0",
+   "credit": "Belem Tower, Lisbon Uploaded by tm",
+   "source": "https://commons.wikimedia.org/wiki/File:Belem_Tower%2C_Lisbon_%288038516018%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Belem_Tower%2C_Lisbon_%288038524164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Belem Tower, Lisbon (8038524164).jpg",
+   "author": "www.GlynLowe.com from Washington DC, USA",
+   "license": "CC BY 2.0",
+   "credit": "Belem Tower, Lisbon Uploaded by tm",
+   "source": "https://commons.wikimedia.org/wiki/File:Belem_Tower%2C_Lisbon_%288038524164%29.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Belem_Tower%2C_Lisbon_%288038548360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Belem Tower, Lisbon (8038548360).jpg",
+   "author": "www.GlynLowe.com from Washington DC, USA",
+   "license": "CC BY 2.0",
+   "credit": "Belem Tower, Lisbon Uploaded by tm",
+   "source": "https://commons.wikimedia.org/wiki/File:Belem_Tower%2C_Lisbon_%288038548360%29.jpg"
+  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_263.jpg",
    "title": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
@@ -134,7 +166,7 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": false,
   "local_lang": null,
@@ -147,7 +179,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 3
  },
  "sources": [
   {
@@ -167,5 +199,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:51Z"
+ "updated_at": "2026-11-10T23:01:09Z"
 }

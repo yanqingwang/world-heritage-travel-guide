@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(x)"
 lat: -37.3
 lon: -12.68
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 戈夫岛和伊纳克塞瑟布尔岛 / Gough and Inaccessible Islands
@@ -64,6 +64,6 @@ The site, located in the south Atlantic, is one of the least-disrupted island an
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/740)
-- [Wikipedia](https://en.wikipedia.org/wiki/Gough%20and%20Inaccessible%20Islands)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

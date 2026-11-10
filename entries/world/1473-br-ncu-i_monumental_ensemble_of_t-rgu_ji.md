@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(i)(ii)"
 lat: 45.037430555
 lon: 23.285375
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 特尔古日乌的布朗库西组雕 / Brâncuși Monumental Ensemble of Târgu Jiu
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1473)
-- [Wikipedia](https://en.wikipedia.org/wiki/Sculptural%20Ensemble%20of%20Constantin%20Br%C3%A2ncu%C8%99i%20at%20T%C3%A2rgu%20Jiu)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

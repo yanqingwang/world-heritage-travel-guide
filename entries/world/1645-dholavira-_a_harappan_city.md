@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(iv)"
 lat: 23.88611111
 lon: 70.21666667
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 多拉维拉：哈拉帕文明古城 / Dholavira: a Harappan City
@@ -83,6 +83,6 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1645)
-- [Wikipedia](https://en.wikipedia.org/wiki/Dholavira)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1985"
 criteria: "(ii)(iii)(iv)(vi)"
-lat: 35.588055555556
-lon: 42.718333333333
-updated_at: "2026-11-10T14:47:51Z"
+lat: 35.588055555
+lon: 42.718333333
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 哈特拉 / Hatra
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T14:47:51Z"
 > 伊拉克 · Governorate of Ninawa · 文化遗产
 
 ## 图片 / Images
+
+![Hatra-1453.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hatra-1453.jpg/1280px-Hatra-1453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hatra-1453.jpg · 101st Sustainment Brigade, 101st Airborne Division (AA) Public Affairs￼￼￼￼ · Public domain*
+
+![Hatra-71339.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Hatra-71339.jpg/1280px-Hatra-71339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hatra-71339.jpg · Multi-National Corps Iraq Public Affairs · Public domain*
+
+![Hatra-Ruins-2008-17.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hatra-Ruins-2008-17.jpg/1280px-Hatra-Ruins-2008-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Hatra-Ruins-2008-17.jpg · Staff Sgt. JoAnn Makinano · Public domain*
+
+![Hatra ruins.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8d/Hatra_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Hatra ruins.jpg · en:User:Victrav · Copyrighted free use*
 
 ![Hatra](https://whc.unesco.org/uploads/sites/site_277.jpg)
 
@@ -60,13 +76,13 @@ eVisa[6][61] Effective 1 March 2025, citizens of the countries that used have a 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/277)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Hatra)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

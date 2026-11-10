@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(x)"
 lat: 34.828822222
 lon: 126.104444444
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 韩国滩涂 / Getbol, Korean Tidal Flats
@@ -71,6 +71,6 @@ Online Visa required[6] Visa not required for direct or transit visitors to Jeju
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1591)
-- [Wikipedia](https://en.wikipedia.org/wiki/Getbol%2C%20Korean%20Tidal%20Flats)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

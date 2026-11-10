@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(vii)(viii)(x)"
 lat: 32.0
 lon: -113.91666667
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 皮纳卡特和格兰德沙漠阿尔塔生物圈保护区 / El Pinacate and Gran Desierto de Altar Biosphere Reserve
@@ -73,6 +73,6 @@ Visa required[6] National visa may be substituted with a valid visa (of any cate
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1410)
-- [Wikipedia](https://en.wikipedia.org/wiki/El%20Pinacate%20y%20Gran%20Desierto%20de%20Altar%20Biosphere%20Reserve)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(ix)"
 lat: 65.06666667
 lon: 60.15
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 科米原始森林 / Virgin Komi Forests

@@ -3,7 +3,7 @@ id: "wh-1364"
 dataset: "unesco"
 name_zh: "采珠业，岛屿经济的见证"
 name_en: "Pearling, Testimony of an Island Economy"
-name_local: ""
+name_local: "مسار اللؤلؤ"
 country: "BH"
 country_zh: "巴林"
 country_en: "Bahrain"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2012"
 criteria: "(iii)"
-lat: 26.24128
-lon: 50.61351
-updated_at: "2026-11-10T14:48:02Z"
+lat: 26.25
+lon: 50.61
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 采珠业，岛屿经济的见证 / Pearling, Testimony of an Island Economy
@@ -39,11 +39,17 @@ The site consists of seventeen buildings in Muharraq City, three offshore oyster
 
 *中文简介：机器翻译。*
 
+## 本地语言 / Local language (Arabic)
+
+**مسار اللؤلؤ**
+
+مسار اللؤلؤ في البحرين هو طريق يمتد 3.5 كيلومتر ويقع في جزيرة المحرق في البحرين الذي تم استخدامه من قبل غواصي اللؤلؤ خلال معظم تاريخ البحرين حتى أوائل ثلاثينات القرن العشرين عندما انهار سوق اللؤلؤ في البحرين نتيجة لإدخال صعود اللؤلؤ الصناعي من اليابان. بدأ صيد اللؤلؤ في البحرين منذ عام 2000 قبل الميلاد. ويتألف من 17 مبنى و 3 حاضنة محار تقع بالقرب من البحر وجزء من الساحل وقلعة بو ماهر في الطرف الجنوبي من المحرق. وقد اعتمد الطريق كموقع للتراث العالمي تابع لليونسكو في 30 يونيو 2012 وهو موقع التراث العالمي الثاني في البحرين بعد قلعة البحرين.
+
 ## 交通 / Transport
 
-- ✈ **Bahrain International Airport (BAH)** — 3.8 km
-- ✈ **King Fahd International Airport (DMM)** — 85.1 km
-- ✈ **Hamad International Airport (DOH)** — 146.7 km
+- ✈ **Bahrain International Airport (BAH)** — 3.4 km
+- ✈ **King Fahd International Airport (DMM)** — 84.5 km
+- ✈ **Hamad International Airport (DOH)** — 147.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6185.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -56,13 +62,13 @@ eVisa / Visa on arrival[6] Holders of passports for public affairs do not requir
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en
+- 可用语言 / Available: en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1364)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Bahrain%20Pearling%20Trail)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

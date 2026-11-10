@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)"
 lat: 35.237263888
 lon: 128.873725
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 伽倻古坟群 / Gaya Tumuli
@@ -71,6 +71,6 @@ Online Visa required[6] Visa not required for direct or transit visitors to Jeju
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1666)
-- [Wikipedia](https://en.wikipedia.org/wiki/Gaya%20Tumuli)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)(vi)"
 lat: 38.69194
 lon: -9.21583
-updated_at: "2026-11-10T14:47:51Z"
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 哲罗姆派修道院和里斯本贝莱姆塔 / Monastery of the Hieronymites and Tower of Belém in Lisbon
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T14:47:51Z"
 > 葡萄牙 · City of Lisbon · 文化遗产
 
 ## 图片 / Images
+
+![Belem Tower, Lisbon (8038507710).jpg](https://upload.wikimedia.org/wikipedia/commons/c/c7/Belem_Tower%2C_Lisbon_%288038507710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Belem Tower, Lisbon (8038507710).jpg · www.GlynLowe.com from Washington DC, USA · CC BY 2.0*
+
+![Belem Tower, Lisbon (8038516018).jpg](https://upload.wikimedia.org/wikipedia/commons/0/06/Belem_Tower%2C_Lisbon_%288038516018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Belem Tower, Lisbon (8038516018).jpg · www.GlynLowe.com from Washington DC, USA · CC BY 2.0*
+
+![Belem Tower, Lisbon (8038524164).jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/Belem_Tower%2C_Lisbon_%288038524164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Belem Tower, Lisbon (8038524164).jpg · www.GlynLowe.com from Washington DC, USA · CC BY 2.0*
+
+![Belem Tower, Lisbon (8038548360).jpg](https://upload.wikimedia.org/wikipedia/commons/8/81/Belem_Tower%2C_Lisbon_%288038548360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Belem Tower, Lisbon (8038548360).jpg · www.GlynLowe.com from Washington DC, USA · CC BY 2.0*
 
 ![Monastery of the Hieronymites and Tower of Belém in Lisbon](https://whc.unesco.org/uploads/sites/site_263.jpg)
 
@@ -54,7 +70,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

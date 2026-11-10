@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(i)(iv)"
 lat: -9.5569
 lon: -78.2359
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 长基罗天文古建遗址群 / Chankillo Archaeoastronomical Complex

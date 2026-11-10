@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iv)(v)"
 lat: -28.6
 lon: 17.203888888
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 理查德斯维德文化植物景观 / Richtersveld Cultural and Botanical Landscape
@@ -65,6 +65,6 @@ Electronic Travel Authorization / eVisa[136] With ETA, Chinese passport holders 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1265)
-- [Wikipedia](https://en.wikipedia.org/wiki/Richtersveld)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

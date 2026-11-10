@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(vii)(viii)"
 lat: 32.175277777
 lon: -104.443888888
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 卡尔斯巴德洞穴国家公园 / Carlsbad Caverns National Park
@@ -87,6 +87,6 @@ Visa required[6] Chinese citizens who do receive a visa are normally issued "120
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/721)
-- [Wikipedia](https://en.wikipedia.org/wiki/Carlsbad%20Caverns%20National%20Park)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

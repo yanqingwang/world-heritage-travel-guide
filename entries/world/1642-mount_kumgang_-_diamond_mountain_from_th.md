@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vii)"
 lat: 38.656763888
 lon: 128.104902777
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 金刚山——海上钻石山 / Mount Kumgang – Diamond Mountain from the Sea
@@ -98,6 +98,6 @@ Visa required[6] Chinese tourists may visit Tongnim County without a visa for 2 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1642)
-- [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Kumgang)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

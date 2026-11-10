@@ -27,8 +27,8 @@
  "local_lang": null,
  "local_lang_name": null,
  "slug": "100-durmitor_national_park",
- "lat": 43.153198375,
- "lon": 19.036873092,
+ "lat": 43.250790077,
+ "lon": 19.008466499,
  "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
@@ -67,6 +67,28 @@
  "transport": {
   "airports": [
    {
+    "name": "Sarajevo International Airport",
+    "iata": "SJJ",
+    "city": "Sarajevo",
+    "country": "BA",
+    "lat": 43.8246,
+    "lon": 18.331499,
+    "type": "large_airport",
+    "distance_km": 84.0,
+    "name_zh": "萨拉热窝国际机场"
+   },
+   {
+    "name": "Mostar International Airport",
+    "iata": "OMO",
+    "city": "Mostar",
+    "country": "BA",
+    "lat": 43.282489,
+    "lon": 17.846101,
+    "type": "large_airport",
+    "distance_km": 94.2,
+    "name_zh": "莫斯塔尔"
+   },
+   {
     "name": "Tivat Airport",
     "iata": "TIV",
     "city": "Tivat",
@@ -74,34 +96,12 @@
     "lat": 42.404701,
     "lon": 18.723301,
     "type": "medium_airport",
-    "distance_km": 87.1,
+    "distance_km": 96.9,
     "name_zh": "蒂瓦特机场"
-   },
-   {
-    "name": "Podgorica Airport / Podgorica Golubovci Airbase",
-    "iata": "TGD",
-    "city": "Podgorica",
-    "country": "ME",
-    "lat": 42.359402,
-    "lon": 19.2519,
-    "type": "large_airport",
-    "distance_km": 90.0,
-    "name_zh": "波德戈里察国际机场"
-   },
-   {
-    "name": "Dubrovnik Ruđer Bošković Airport",
-    "iata": "DBV",
-    "city": "Dubrovnik",
-    "country": "HR",
-    "lat": 42.562247,
-    "lon": 18.265543,
-    "type": "large_airport",
-    "distance_km": 90.9,
-    "name_zh": "杜布罗夫尼克机场"
    }
   ],
-  "nearest_airport_km": 87.1,
-  "distance_beijing_km": 7682.4,
+  "nearest_airport_km": 84.0,
+  "distance_beijing_km": 7616.2,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -144,7 +144,7 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": false,
   "local_lang": null,
@@ -157,7 +157,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 18
+  "wikipedia_editions": 19
  },
  "sources": [
   {
@@ -165,8 +165,8 @@
    "url": "https://whc.unesco.org/en/list/100"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tara%20River%20Canyon"
   },
   {
    "name": "OpenStreetMap",
@@ -177,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:49Z"
+ "updated_at": "2026-11-10T23:01:07Z"
 }

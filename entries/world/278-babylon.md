@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2019"
 criteria: "(iii)(vi)"
-lat: 40.694444444444
-lon: -73.329444444444
-updated_at: "2026-11-10T14:47:51Z"
+lat: 32.541780555
+lon: 44.431644444
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 巴比伦 / Babylon
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T14:47:51Z"
 > 伊拉克 · 文化遗产
 
 ## 图片 / Images
+
+![001125-Babylon-Iraq-IMG 8057-2.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/001125-Babylon-Iraq-IMG_8057-2.jpg/1280px-001125-Babylon-Iraq-IMG_8057-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*001125-Babylon-Iraq-IMG 8057-2.jpg · Safa.daneshvar · CC BY-SA 4.0*
+
+![Babylon, 1932.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Babylon%2C_1932.jpg/1280px-Babylon%2C_1932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Babylon, 1932.jpg · American Colony (Jerusalem). Photo Dept., photographer. · Public domain*
+
+![Cyrus Cylinder, Mid-6th century BCE, Babylon, Iraq, British Museum.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cc/Cyrus_Cylinder%2C_Mid-6th_century_BCE%2C_Babylon%2C_Iraq%2C_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Cyrus Cylinder, Mid-6th century BCE, Babylon, Iraq, British Museum.jpg · SpeakingArch · CC BY-SA 4.0*
+
+![Plan of Babylon, 600-500 BCE, Babylon, southern Iraq, British Museum.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Plan_of_Babylon%2C_600-500_BCE%2C_Babylon%2C_southern_Iraq%2C_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Plan of Babylon, 600-500 BCE, Babylon, southern Iraq, British Museum.jpg · SpeakingArch · CC BY-SA 4.0*
 
 ![Babylon](https://whc.unesco.org/uploads/sites/site_278.jpg)
 
@@ -45,10 +61,10 @@ Situated 85 km south of Baghdad, the property includes the ruins of the city whi
 
 ## 交通 / Transport
 
-- ✈ **Long Island MacArthur Airport (ISP)** — 22.3 km
-- ✈ **John F. Kennedy International Airport (JFK)** — 38.4 km
-- ✈ **LaGuardia Airport (LGA)** — 46.7 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **10968.8 km**
+- ✈ **Al Najaf International Airport (NJF)** — 61.3 km
+- ✈ **Baghdad International Airport / New Al Muthana Air Base (BGW)** — 82.2 km
+- ✈ **Shahid Ashrafi Esfahani Airport (KSH)** — 322.8 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **6375.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

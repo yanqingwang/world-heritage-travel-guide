@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 43.61111111
 lon: 1.41833333
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 米迪运河 / Canal du Midi
@@ -101,6 +101,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/770)
-- [Wikipedia](https://en.wikipedia.org/wiki/Canal%20du%20Midi)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

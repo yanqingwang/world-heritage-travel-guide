@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2008"
 criteria: "(iii)(vi)"
-lat: 32.81222222
-lon: 34.98638889
-updated_at: "2026-11-10T14:48:00Z"
+lat: 32.81378
+lon: 34.98655
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 海法和西加利利的巴海圣地 / Bahá’i Holy Places in Haifa and the Western Galilee
@@ -40,8 +40,8 @@ The Bahá’i Holy Places in Haifa and Western Galilee are inscribed for their p
 ## 交通 / Transport
 
 - ✈ **Uri Michaeli Haifa International Airport (HFA)** — 5.4 km
-- ✈ **Ben Gurion International Airport (TLV)** — 89.5 km
-- ✈ **Beirut Rafic Hariri International Airport (BEY)** — 121.3 km
+- ✈ **Ben Gurion International Airport (TLV)** — 89.7 km
+- ✈ **Beirut Rafic Hariri International Airport (BEY)** — 121.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7080.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -54,13 +54,13 @@ Visa required[6] As of 2017 visas are issued with a 10-year validity period.[65]
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1220)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD%20World%20Centre%20buildings)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

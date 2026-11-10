@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2001"
 criteria: "(ix)(x)"
-lat: 20.45
-lon: -75.0
-updated_at: "2026-11-10T14:47:57Z"
+lat: 20.496745
+lon: -74.857897
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 阿里杰罗德胡波尔德国家公园 / Alejandro de Humboldt National Park
@@ -45,9 +45,9 @@ La geología compleja y la topografía variada de este sitio han generado una di
 
 ## 交通 / Transport
 
-- ✈ **Gustavo Rizo Airport (BCA)** — 52.3 km
-- ✈ **Antonio Maceo International Airport (SCU)** — 101.9 km
-- ✈ **Frank Pais International Airport (HOG)** — 141.9 km
+- ✈ **Gustavo Rizo Airport (BCA)** — 39.5 km
+- ✈ **Antonio Maceo International Airport (SCU)** — 117.4 km
+- ✈ **Inagua Airport (IGA)** — 134.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13196.2 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -60,13 +60,13 @@ Visa not required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/839)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Alejandro%20de%20Humboldt%20National%20Park)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

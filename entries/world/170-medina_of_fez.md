@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)(v)"
 lat: 34.0625
 lon: -4.9725
-updated_at: "2026-11-10T14:47:50Z"
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 非斯的阿拉伯人聚居区 / Medina of Fez

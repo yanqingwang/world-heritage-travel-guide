@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(ix)(x)"
 lat: 4.0
 lon: 29.25
-updated_at: "2026-11-10T14:47:50Z"
+updated_at: "2026-11-10T23:01:07Z"
 ---
 
 # 加兰巴国家公园 / Garamba National Park

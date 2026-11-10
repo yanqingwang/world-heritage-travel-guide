@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: -18.25
 lon: -69.59166667
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 印加路网 / Qhapaq Ñan, Andean Road System
@@ -47,11 +47,13 @@ updated_at: "2026-11-10T14:48:02Z"
 
 ### 中文
 
-印加路网（印加語：Qhapaq Ñan），是南美洲被殖民前覆盖最广、最先进的运输系统。该路网以两条分叉众多的南北走向的道路为基础。其中，最有名的部分是马丘比丘小径。部分路网是由先于印加帝国的文明所建造的，特别是瓦里文明。部分的路网还在西班牙殖民时期沿用，比如皇家大道。
+该遗址是一个覆盖 30,000 公里的广泛印加通讯、贸易和国防道路网络。这个非凡的网络由印加人花了几个世纪建造，部分基于前印加基础设施，穿越世界上最极端的地理地形之一，将安第斯山脉白雪皑皑的山峰（海拔超过 6,000 米）与海岸连接起来，穿过炎热的雨林、肥沃的山谷和绝对的沙漠。它在 15 世纪达到了最大的扩张，遍布安第斯山脉的纵横。安第斯公路系统 Qhapac Ñan 包括 273 个组成站点，分布范围超过 6,000 公里，这些站点的选择是为了突出该网络的社会、政治、建筑和工程成就，及其相关的贸易、住宿和仓储基础设施，以及具有宗教意义的场所。
 
 ### English
 
 This site is an extensive Inca communication, trade and defence network of roads covering 30,000 km. Constructed by the Incas over several centuries and partly based on pre-Inca infrastructure, this extraordinary network through one of the world’s most extreme geographical terrains linked the snow-capped peaks of the Andes – at an altitude of more than 6,000 m – to the coast, running through hot rainforests, fertile valleys and absolute deserts. It reached its maximum expansion in the 15th century, when it spread across the length and breadth of the Andes. The Qhapac Ñan, Andean Road System includes 273 component sites spread over more than 6,000 km that were selected to highlight the social, political, architectural and engineering achievements of the network, along with its associated infrastructure for trade, accommodation and storage, as well as sites of religious significance.
+
+*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Spanish)
 
@@ -98,6 +100,6 @@ Visa required[6] Electronic Travel Authorization (AVE) will only be issued to th
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1459)
-- [Wikipedia](https://en.wikipedia.org/wiki/Inca%20road%20system)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2003"
 criteria: "(iii)(v)(vi)"
-lat: -20.5
-lon: 28.5
-updated_at: "2026-11-10T14:47:51Z"
+lat: -20.583333333
+lon: 28.666666666
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 马托博山 / Matobo Hills
@@ -39,9 +39,9 @@ The area exhibits a profusion of distinctive rock landforms rising above the gra
 
 ## 交通 / Transport
 
-- ✈ **Joshua Mqabuko Nkomo International Airport (BUQ)** — 55.3 km
-- ✈ **Phillip Gaonwe Matante International Airport (FRW)** — 129.8 km
-- ✈ **Polokwane International Airport (PTG)** — 384.8 km
+- ✈ **Joshua Mqabuko Nkomo International Airport (BUQ)** — 63.2 km
+- ✈ **Phillip Gaonwe Matante International Airport (FRW)** — 140.0 km
+- ✈ **Polokwane International Airport (PTG)** — 371.8 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11256.7 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -54,13 +54,13 @@ eVisa / Visa on arrival[6][163] Also eligible for a universal visa allowing acce
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/306)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Matobo%20Hills)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

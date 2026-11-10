@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iii)(iv)(ix)(x)"
 lat: -0.5
 lon: 11.5
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 洛佩──奥坎德生态系统与文化遗迹景观 / Ecosystem and Relict Cultural Landscape of Lopé-Okanda
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T14:48:00Z"
 > 加蓬 · Ogoué-Ivindo and Ogoué-Lolo Provinces · 混合遗产
 
 ## 图片 / Images
+
+![LocMap of WH Ecosystem and Relict Cultural Landscape of Lopé-Okanda.PNG](https://upload.wikimedia.org/wikipedia/commons/e/e6/LocMap_of_WH_Ecosystem_and_Relict_Cultural_Landscape_of_Lop%C3%A9-Okanda.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*LocMap of WH Ecosystem and Relict Cultural Landscape of Lopé-Okanda.PNG · The original uploader was 春秋君 at Japanese Wikipedia . · CC BY-SA 3.0*
 
 ![Ecosystem and Relict Cultural Landscape of Lopé-Okanda](https://whc.unesco.org/uploads/sites/site_1147.jpg)
 
@@ -60,7 +64,7 @@ eVisa[6][51] e-Visa holders must arrive via Libreville International Airport. Ho
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

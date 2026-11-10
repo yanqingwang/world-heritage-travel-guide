@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(i)(ii)(iv)"
 lat: 43.31861111
 lon: 11.33166667
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 锡耶纳历史中心 / Historic Centre of Siena

@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(iii)(iv)"
 lat: 41.84389
 lon: 44.71639
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 姆茨赫塔古城 / Historical Monuments of Mtskheta

@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)"
 lat: 61.061992
 lon: 26.640016
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 韦尔拉磨木纸板厂 / Verla Groundwood and Board Mill
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/751)
-- [Wikipedia](https://en.wikipedia.org/wiki/Verla)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

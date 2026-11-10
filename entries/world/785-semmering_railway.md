@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 47.643
 lon: 15.831
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 塞默灵铁路 / Semmering Railway
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/785)
-- [Wikipedia](https://en.wikipedia.org/wiki/Semmering%20Railway)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

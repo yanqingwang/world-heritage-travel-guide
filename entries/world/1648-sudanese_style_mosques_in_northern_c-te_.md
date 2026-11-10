@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: 10.490317
 lon: -6.410167
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 科特迪瓦北部的苏丹式清真寺 / Sudanese style mosques in northern Côte d’Ivoire
@@ -71,6 +71,6 @@ Les huit mosquées de style soudanais situées dans les localités de Tengréla,
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1648)
-- [Wikipedia](https://en.wikipedia.org/wiki/Sudanese%20style%20mosques%20in%20northern%20C%C3%B4te%20d%27Ivoire)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(iv)(vi)"
 lat: 50.97477
 lon: 11.32949
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 魏玛、德绍和贝尔瑙的包豪斯建筑及其遗址 / Bauhaus and its Sites in Weimar, Dessau and Bernau
@@ -35,11 +35,13 @@ updated_at: "2026-11-10T14:47:55Z"
 
 ### 中文
 
-魏玛、德绍和贝尔瑙的包豪斯建筑及其遗址为德国之一打包申请的世界遗产，内含六处分立的遗产点，皆与美术学校包豪斯有关。此世界遗产登记于1996年，初含四处遗产点，又于2017年另外括入二处遗产点。 包豪斯仅于1919年至1933年间办行，其间在其处学习的学生不超1250人，于中真正获颁包豪斯授予的学位而毕业的只有155人。虽如此，此校仍使20世纪建筑与审美的思想和实践为之巨变。
+1919 年至 1933 年间，包豪斯运动彻底改变了 20 世纪的建筑和美学思维和实践。魏玛、德绍和贝尔瑙的包豪斯建筑是古典现代主义的基本代表，旨在彻底革新建筑和设计。该建筑于 1996 年被列入世界遗产名录，最初包括位于魏玛（前艺术学校、应用艺术学校和 Haus Am Horn）和德绍（包豪斯建筑，由七座大师之家组成的建筑群）的建筑。 2017 年的扩建包括德绍的带阳台住宅和贝尔瑙的 ADGB 工会学校，它们对包豪斯朴素设计、功能主义和社会改革的思想做出了重要贡献。
 
 ### English
 
 Between 1919 and 1933 the Bauhaus movement revolutionized architectural and aesthetic thinking and practice in the 20th century. The Bauhaus buildings in Weimar, Dessau and Bernau are fundamental representatives of Classical Modernism, directed towards a radical renewal of architecture and design. This property, which was inscribed on the World Heritage List in 1996, originally comprised buildings located in Weimar (Former Art School, the Applied Art School and the Haus Am Horn) and Dessau (Bauhaus Building, the group of seven Masters' Houses). The 2017 extension includes the Houses with Balcony Access in Dessau and the ADGB Trade Union School in Bernau as important contributions to the Bauhaus ideas of austere design, functionalism and social reform.
+
+*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (German)
 
@@ -71,6 +73,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/729)
-- [Wikipedia](https://en.wikipedia.org/wiki/Bauhaus%20and%20its%20Sites%20in%20Weimar%2C%20Dessau%20and%20Bernau)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -27,9 +27,9 @@
  "local_lang": "ar",
  "local_lang_name": "Arabic",
  "slug": "277-hatra",
- "lat": 35.588055555556,
- "lon": 42.718333333333,
- "coord_accuracy": "wikidata_search",
+ "lat": 35.588055555,
+ "lon": 42.718333333,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -44,6 +44,38 @@
  "intro_local": "إنها مدينة كبيرة محصّنة خاضعة لنفوذ الامبراطورية البارثيّة وعاصمة المملكة العربية الأولى، وقد قاومت الحضر الرومان مرتين، في العامين 116 و198، بفضل جدارها المحصّن بأبراج. أما آثار المدينة ولا سيما المعابد حيث تمتزج الهندسة الإغريقية والرومانية بعناصر تزيينية ذات جذور شرقية، فهي تشهد فعلاً على عظمة حضارتها.",
  "intro_local_source": "unesco_official",
  "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hatra-1453.jpg/1280px-Hatra-1453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hatra-1453.jpg",
+   "author": "101st Sustainment Brigade, 101st Airborne Division (AA) Public Affairs￼￼￼￼",
+   "license": "Public domain",
+   "credit": "https://www.dvidshub.net/image/26682/hatra-fence",
+   "source": "https://commons.wikimedia.org/wiki/File:Hatra-1453.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Hatra-71339.jpg/1280px-Hatra-71339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hatra-71339.jpg",
+   "author": "Multi-National Corps Iraq Public Affairs",
+   "license": "Public domain",
+   "credit": "https://www.dvidshub.net/image/71339/city-sun-god",
+   "source": "https://commons.wikimedia.org/wiki/File:Hatra-71339.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hatra-Ruins-2008-17.jpg/1280px-Hatra-Ruins-2008-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Hatra-Ruins-2008-17.jpg",
+   "author": "Staff Sgt. JoAnn Makinano",
+   "license": "Public domain",
+   "credit": "https://www.dvidshub.net/image/130923/ancient-city-hatra",
+   "source": "https://commons.wikimedia.org/wiki/File:Hatra-Ruins-2008-17.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Hatra_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Hatra ruins.jpg",
+   "author": "en:User:Victrav",
+   "license": "Copyrighted free use",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Hatra_ruins.jpg"
+  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_277.jpg",
    "title": "Hatra",
@@ -138,8 +170,8 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "local": true,
   "local_lang": "ar",
   "local_lang_name": "Arabic",
@@ -151,7 +183,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 61
  },
  "sources": [
   {
@@ -159,8 +191,8 @@
    "url": "https://whc.unesco.org/en/list/277"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hatra"
   },
   {
    "name": "OpenStreetMap",
@@ -171,5 +203,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:51Z"
+ "updated_at": "2026-11-10T23:01:09Z"
 }

@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)(v)"
 lat: 49.0397
 lon: 19.2784
-updated_at: "2026-11-10T14:47:54Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 伏尔考林耐克 / Vlkolínec
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/622)
-- [Wikipedia](https://en.wikipedia.org/wiki/Vlkol%C3%ADnec)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

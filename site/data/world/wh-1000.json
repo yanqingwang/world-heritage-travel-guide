@@ -23,13 +23,13 @@
  "name_zh": "巴西大西洋群岛：费尔南多－迪诺罗尼亚群岛和罗卡斯岛保护区",
  "name_zh_source": "unesco_official",
  "name_en": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Atol das Rocas",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
  "slug": "1000-brazilian_atlantic_islands:_fernando_de_",
- "lat": -3.857944444,
- "lon": -32.42511111,
- "coord_accuracy": "wikidata_search",
+ "lat": -3.866388888,
+ "lon": -33.801944444,
+ "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
  "category_en": "Natural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "Peaks of the Southern Atlantic submarine ridge form the Fernando de Noronha Archipelago and Rocas Atoll off the coast of Brazil. They represent a large proportion of the island surface of the South Atlantic and their rich waters are extremely important for the breeding and feeding of tuna, shark, turtle and marine mammals. The islands are home to the largest concentration of tropical seabirds in the Western Atlantic. Baia de Golfinhos has an exceptional population of resident dolphin and at low tide the Rocas Atoll provides a spectacular seascape of lagoons and tidal pools teeming with fish.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Reserva Biológica Atol das Rocas é uma unidade de conservação de proteção integral brasileira situada a 144 mn (267 km) a lés-nordeste da cidade de Natal (RN) e a 80 mn (148 km) a oeste do arquipélago de Fernando de Noronha (PE), na zona econômica exclusiva do Brasil.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1000.jpg",
@@ -66,7 +66,7 @@
     "lat": -3.854534,
     "lon": -32.423017,
     "type": "medium_airport",
-    "distance_km": 0.4,
+    "distance_km": 153.0,
     "name_zh": "费尔南多·迪诺罗尼亚机场"
    },
    {
@@ -77,11 +77,22 @@
     "lat": -5.769822,
     "lon": -35.36661,
     "type": "large_airport",
-    "distance_km": 389.1,
+    "distance_km": 273.6,
     "name_zh": "奥古斯都·塞弗里国际机场"
+   },
+   {
+    "name": "Presidente Castro Pinto International Airport",
+    "iata": "JPA",
+    "city": "João Pessoa",
+    "country": "BR",
+    "lat": -7.148691,
+    "lon": -34.950554,
+    "type": "large_airport",
+    "distance_km": 386.5,
+    "name_zh": "若昂佩索阿国际机场"
    }
   ],
-  "nearest_airport_km": 0.4,
+  "nearest_airport_km": 153.0,
   "distance_beijing_km": 14927.2,
   "ferry_terminals": [],
   "railway_stations": []
@@ -125,11 +136,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
   "official_unesco": [
    "en",
    "zh",
@@ -138,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 52
  },
  "sources": [
   {
@@ -146,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/1000"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rocas%20Atoll"
   },
   {
    "name": "OpenStreetMap",
@@ -158,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:58Z"
+ "updated_at": "2026-11-10T23:01:15Z"
 }

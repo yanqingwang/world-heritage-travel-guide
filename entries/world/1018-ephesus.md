@@ -3,7 +3,7 @@ id: "wh-1018"
 dataset: "unesco"
 name_zh: "以弗所"
 name_en: "Ephesus"
-name_local: ""
+name_local: "Efes (Dünya Mirası)"
 country: "TR"
 country_zh: "土耳其"
 country_en: "Turkey"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2015"
 criteria: "(iii)(iv)(vi)"
-lat: 37.94058
-lon: 27.33939
-updated_at: "2026-11-10T14:47:59Z"
+lat: 37.92917
+lon: 27.35944
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 以弗所 / Ephesus
@@ -37,11 +37,17 @@ updated_at: "2026-11-10T14:47:59Z"
 
 Located within what was once the estuary of the River Kaystros, Ephesus comprises successive Hellenistic and Roman settlements founded on new locations, which followed the coastline as it retreated westward. Excavations have revealed grand monuments of the Roman Imperial period including the Library of Celsus and the Great Theatre. Little remains of the famous Temple of Artemis, one of the “Seven Wonders of the World,” which drew pilgrims from all around the Mediterranean. Since the 5 th century, the House of the Virgin Mary, a domed cruciform chapel seven kilometres from Ephesus, became a major place of Christian pilgrimage. The Ancient City of Ephesus is an outstanding example of a Roman port city, with sea channel and harbour basin.
 
+## 本地语言 / Local language (Turkish)
+
+**Efes (Dünya Mirası)**
+
+Efes, Türkiye'nin İzmir ilinin Selçuk ilçesinde yer alan bir Dünya Mirasıdır. Miras alanı 1994'te geçici listeye alındı. Türkiye tarafından miras alanının kalıcı listeye girmesi için 2001'de yapılan başvuru Dünya Miras Komitesi tarafından ertelendi. Miras alanı 2015'te kalıcı listeye dahil edildi.
+
 ## 交通 / Transport
 
-- ✈ **Adnan Menderes International Airport (ADB)** — 42.2 km
-- ✈ **Samos Airport (SMI)** — 46.8 km
-- ✈ **Milas Bodrum International Airport (BJV)** — 82.0 km
+- ✈ **Adnan Menderes International Airport (ADB)** — 44.1 km
+- ✈ **Samos Airport (SMI)** — 47.5 km
+- ✈ **Milas Bodrum International Airport (BJV)** — 80.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7351.1 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -54,7 +60,7 @@ Visa not required[6] 90 days within any 180-day period.[151]
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

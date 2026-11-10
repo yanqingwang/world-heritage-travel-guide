@@ -3,7 +3,7 @@ id: "wh-1194"
 dataset: "unesco"
 name_zh: "巴厘岛文化景观：苏巴克体系"
 name_en: "Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy"
-name_local: "Candi Mangening"
+name_local: "Lanskap kultur Provinsi Bali"
 country: "ID"
 country_zh: "印度尼西亚"
 country_en: "Indonesia"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2012"
 criteria: "(iii)(v)(vi)"
-lat: -8.42016
-lon: 115.31194
-updated_at: "2026-11-10T14:48:00Z"
+lat: -8.259166667
+lon: 115.4027778
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 巴厘岛文化景观：苏巴克体系 / Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy
@@ -45,15 +45,15 @@ The cultural landscape of Bali consists of five rice terraces and their water te
 
 ## 本地语言 / Local language (Indonesian)
 
-**Candi Mangening**
+**Lanskap kultur Provinsi Bali**
 
-Candi Mangening adalah sebuah candi yang terletak di Kec. Tampaksiring, Kabupaten Gianyar, Bali. Candi ini adalah situs kuno, yaitu peninggalan pemerintahan Raja Marakata tahun 1022 Masehi. Pertama kali ditemukan oleh W.F. Sutterheim di 1925 – 1927 tapi tidak disebutkan secara rinci, kemudian pada tahun 1960 Bernet Kempers menyatakan bahwa ada sebuah kuil dengan sisa-sisa bangunan diatas bukit kecil. Berdasarkan laporan, penggalian dan penelitian dilakukan kemudian ditemukan Candi dalam kondisi lengkap termasuk Lingga Yoni ditemukan, ditempatkan diruang candi dianggap suci oleh orang lokal. Tempat ini dibangun di lembah sungai Pakerisan yang memiliki sumber daya air yang melimpah. Air yang ditampung dikolam dan mengalir melalui Sungai Pakerisan, air sungai ini difungsikan untuk mengairi sawah disekitarnya bahkan sampai ke daerah Pejeng dan Bedulu. Bangunan masuk status cagar budaya oleh Pemprop Bali berdasarkan UU No.5/1985. dan pada tahun 2012 kompleks Candi dan Pura Mengening masuk dalam wilayah B Lanskap kultur Provinsi Bali.
+Lanskap kultur Provinsi Bali adalah sebuah lanskap yang berada di Provinsi Bali, yang ditetapkan menjadi salah satu Situs Warisan Dunia UNESCO pada Tahun 2012. Lanskap tersebut terdiri dari pedesaan dan sawah bertingkat di Bali, dengan sistem subak, pura, dan candi yang berada di sana. Lanskap ini terbentuk dari organisasi pengolahan sawah yang disebut subak, yang merupakan manifestasi dari pelaksanaan filsafat Bali, Tri Hita Karana, yaitu hubungan yang harmonis antara Tuhan, manusia, dan alam sekitar.
 
 ## 交通 / Transport
 
-- ✈ **Denpasar I Gusti Ngurah Rai International Airport (DPS)** — 39.8 km
-- ✈ **Banyuwangi Airport (BWX)** — 107.6 km
-- ✈ **Lombok International Airport (LOP)** — 112.8 km
+- ✈ **Denpasar I Gusti Ngurah Rai International Airport (DPS)** — 60.3 km
+- ✈ **Lombok International Airport (LOP)** — 111.2 km
+- ✈ **Banyuwangi Airport (BWX)** — 117.1 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5431.4 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -66,7 +66,7 @@ e-VOA / Visa on arrival[6][59] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en, local
+- 可用语言 / Available: en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 

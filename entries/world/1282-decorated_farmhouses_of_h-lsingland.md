@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(v)"
 lat: 61.707222222
 lon: 16.195833333
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 海尔辛兰装饰农舍 / Decorated Farmhouses of Hälsingland
@@ -35,11 +35,13 @@ updated_at: "2026-11-10T14:48:01Z"
 
 ### 中文
 
-赫爾辛蘭帶裝飾的農舍（瑞典語：Hälsingegårdar）是位於瑞典海爾辛蘭的7間農舍，於2012年7月1日入選為世界文化遺產。這些農舍僅用木材為材料建造，展現了瑞典傳統的建築工藝。
+位于瑞典东部的这个遗址列出了七座木屋，代表了可追溯到中世纪的地区木结构建筑传统的顶峰。它们反映了独立农民的繁荣，他们在 19 世纪利用自己的财富建造了坚固的新房屋，并配有精心装饰的附属房屋或为庆祝活动保留的房间套房。这些画作代表了民间艺术与当时地主贵族喜爱的风格（包括巴洛克和洛可可）的融合。所列出的房产由画家（包括知名和不知名的巡回艺术家）装饰，代表着悠久文化传统的最终绽放。
 
 ### English
 
 Seven timber houses are listed in this site located in the east of Sweden, representing the zenith of a regional timber building tradition that dates back to the Middle Ages. They reflect the prosperity of independent farmers who in the 19th century used their wealth to build substantial new homes with elaborately decorated ancillary houses or suites of rooms reserved for festivities. The paintings represent a fusion of folk art with the styles favoured by the landed gentry of the time, including Baroque and Rococo. Decorated by painters, including known and unknown itinerant artists, the listed properties represent the final flowering of a long cultural tradition.
+
+*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Swedish)
 
@@ -71,6 +73,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1282)
-- [Wikipedia](https://en.wikipedia.org/wiki/Decorated%20Farmhouses%20of%20H%C3%A4lsingland)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

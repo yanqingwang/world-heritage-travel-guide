@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 49.873437833
 lon: 16.312648833
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 利托米什尔城堡 / Litomyšl Castle

@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(vi)"
 lat: 11.484388888
 lon: 104.901969444
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 柬埔寨纪念地：从压迫中心到和平与反思之所 / Cambodian Memorial Sites: From centres of repression to places of peace and reflection
@@ -65,6 +65,6 @@ Online Visa / Visa on arrival[6][35] Visas valid for 30 days can be obtained on 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1748)
-- [Wikipedia](https://en.wikipedia.org/wiki/Cambodian%20Memorial%20Sites)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

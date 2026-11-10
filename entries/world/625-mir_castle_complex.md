@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 53.451266666
 lon: 26.472894444
-updated_at: "2026-11-10T14:47:54Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 米尔城堡群 / Mir Castle Complex
@@ -71,6 +71,6 @@ Visa not required[6] Visa free for 30 days, for a maximum total stay of 90 days 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/625)
-- [Wikipedia](https://en.wikipedia.org/wiki/Mir%20Castle%20Complex)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 36.604722222
 lon: 47.234166666
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 塔赫特苏莱曼 / Takht-e Soleyman

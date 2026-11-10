@@ -27,9 +27,9 @@
  "local_lang": "vi",
  "local_lang_name": "Vietnamese",
  "slug": "678-complex_of_hué_monuments",
- "lat": 16.469444444,
- "lon": 107.577777777,
- "coord_accuracy": "site",
+ "lat": 19.283347222142854,
+ "lon": 106.81887417457143,
+ "coord_accuracy": "country_centroid",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -91,41 +91,41 @@
  "transport": {
   "airports": [
    {
-    "name": "Phu Bai International Airport",
-    "iata": "HUI",
-    "city": "Huế",
+    "name": "Vinh Airport",
+    "iata": "VII",
+    "city": "Vinh",
     "country": "VN",
-    "lat": 16.400581,
-    "lon": 107.704094,
-    "type": "large_airport",
-    "distance_km": 15.5,
-    "name_zh": "富牌国际机场"
-   },
-   {
-    "name": "Da Nang International Airport",
-    "iata": "DAD",
-    "city": "Da Nang",
-    "country": "VN",
-    "lat": 16.0439,
-    "lon": 108.198997,
-    "type": "large_airport",
-    "distance_km": 81.5,
-    "name_zh": "岘港国际机场"
-   },
-   {
-    "name": "Dong Hoi Airport",
-    "iata": "VDH",
-    "city": "Dong Hoi",
-    "country": "VN",
-    "lat": 17.515,
-    "lon": 106.590556,
+    "lat": 18.7376003265,
+    "lon": 105.67099762,
     "type": "medium_airport",
-    "distance_km": 156.6,
-    "name_zh": "洞海机场"
+    "distance_km": 135.1,
+    "name_zh": "荣市国际机场"
+   },
+   {
+    "name": "Tho Xuan Airport",
+    "iata": "THD",
+    "city": "Thanh Hóa",
+    "country": "VN",
+    "lat": 19.901667,
+    "lon": 105.467778,
+    "type": "small_airport",
+    "distance_km": 157.4,
+    "name_zh": "寿春机场"
+   },
+   {
+    "name": "Cat Bi International Airport",
+    "iata": "HPH",
+    "city": "Haiphong (Hai An)",
+    "country": "VN",
+    "lat": 20.817428,
+    "lon": 106.724315,
+    "type": "large_airport",
+    "distance_km": 170.9,
+    "name_zh": "吉碑国际机场"
    }
   ],
-  "nearest_airport_km": 15.5,
-  "distance_beijing_km": 2769.3,
+  "nearest_airport_km": 135.1,
+  "distance_beijing_km": 2593.0,
   "ferry_terminals": [
    {
     "name": "Moonlight Cruises",
@@ -327,8 +327,8 @@
    "url": "https://whc.unesco.org/en/list/678"
   },
   {
-   "name": "Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Imperial%20City%20of%20Hu%E1%BA%BF"
+   "name": "Wikidata",
+   "url": "https://www.wikidata.org/wiki/None"
   },
   {
    "name": "OpenStreetMap",
@@ -339,5 +339,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:55Z"
+ "updated_at": "2026-11-10T23:01:12Z"
 }

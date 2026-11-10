@@ -12,9 +12,9 @@ tier: "basic"
 category: "Mixed"
 year: "2002"
 criteria: "(i)(ii)(iii)(iv)(ix)(x)"
-lat: 18.10539167
-lon: -89.81082778
-updated_at: "2026-11-10T14:47:59Z"
+lat: 18.105
+lon: -89.810555555
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 卡拉克穆尔古玛雅城与坎佩切热带森林保护区 / Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche
@@ -31,13 +31,11 @@ updated_at: "2026-11-10T14:47:59Z"
 
 ### 中文
 
-该遗址位于墨西哥南部尤卡坦半岛的中/南部，包括重要的玛雅城市卡拉克穆尔的遗迹，位于巴哈斯热带森林深处。十二个多世纪以来，这座城市在该地区的历史中发挥了关键作用，其保存完好的建筑为特色，生动地展现了玛雅古都首都的生活。该地产还属于世界第三大中美洲生物多样性热点地区，涵盖从墨西哥中部到巴拿马运河的所有亚热带和热带生态系统。
+卡拉克穆尔（Calakmul或Kalakmul）遗址，在今墨西哥坎佩切州境内，面积约三十平方公里。卡拉克穆尔是玛雅文明古典时期最重要的城邦之一。在玛雅的时代，她是酋邦“Kaan”（玛雅语意为“蛇”）的首都。因此卡拉克穆尔也被称为“蛇之王都”。
 
 ### English
 
 The site is located in the central/southern portion of the Yucatán Peninsula, in southern Mexico and includes the remains of the important Maya city Calakmul, set deep in the tropical forest of the Tierras Bajas. The city played a key role in the history of this region for more than twelve centuries and is characterized by well-preserved structures providing a vivid picture of life in an ancient Maya capital. The property also falls within the Mesoamerica biodiversity hotspot, the third largest in the world, encompassing all subtropical and tropical ecosystems from central Mexico to the Panama Canal.
-
-*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Spanish)
 
@@ -47,7 +45,7 @@ Situado en el sector central y meridional de la Península de Yucatán, al sur d
 
 ## 交通 / Transport
 
-- ✈ **H.E Alfredo Martinez (Tower Hill) Airstrip (ORZ)** — 129.9 km
+- ✈ **H.E Alfredo Martinez (Tower Hill) Airstrip (ORZ)** — 129.8 km
 - ✈ **Mundo Maya International Airport (FRS)** — 132.6 km
 - ✈ **Corozal Airport (CZH)** — 150.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **13045.5 km**
@@ -62,13 +60,13 @@ Visa required[6] National visa may be substituted with a valid visa (of any cate
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1061)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Calakmul)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

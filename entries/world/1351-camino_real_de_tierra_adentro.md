@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(ii)(iv)"
 lat: 22.608055555
 lon: -102.379166666
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 皇家内陆大干线 / Camino Real de Tierra Adentro
@@ -93,6 +93,6 @@ Visa required[6] National visa may be substituted with a valid visa (of any cate
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1351)
-- [Wikipedia](https://en.wikipedia.org/wiki/Camino%20Real%20de%20Tierra%20Adentro)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

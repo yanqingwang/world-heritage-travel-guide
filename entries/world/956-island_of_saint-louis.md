@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iv)"
-lat: 16.014796
-lon: -16.488762
-updated_at: "2026-11-10T14:47:58Z"
+lat: 16.027780555
+lon: -16.504438888
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 圣路易斯岛 / Island of Saint-Louis
@@ -45,9 +45,9 @@ Fondée par les colons français au XVII e siècle, Saint-Louis s'urbanisa au mi
 
 ## 交通 / Transport
 
-- ✈ **Blaise Diagne International Airport (DSS)** — 162.0 km
-- ✈ **Nouakchott–Oumtounsy International Airport (NKC)** — 261.1 km
-- ✈ **Banjul International Airport (BJL)** — 298.2 km
+- ✈ **Blaise Diagne International Airport (DSS)** — 162.7 km
+- ✈ **Nouakchott–Oumtounsy International Airport (NKC)** — 260.1 km
+- ✈ **Banjul International Airport (BJL)** — 299.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12271.6 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -60,13 +60,13 @@ Visa not required[6] Visa not required for less than 3 months stay Chinese ordin
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/956)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Island%20of%20Saint-Louis)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

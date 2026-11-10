@@ -3,7 +3,7 @@ id: "wh-1000"
 dataset: "unesco"
 name_zh: "巴西大西洋群岛：费尔南多－迪诺罗尼亚群岛和罗卡斯岛保护区"
 name_en: "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves"
-name_local: ""
+name_local: "Atol das Rocas"
 country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2001"
 criteria: "(vii)(ix)(x)"
-lat: -3.857944444
-lon: -32.42511111
-updated_at: "2026-11-10T14:47:58Z"
+lat: -3.866388888
+lon: -33.801944444
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 巴西大西洋群岛：费尔南多－迪诺罗尼亚群岛和罗卡斯岛保护区 / Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves
@@ -37,10 +37,17 @@ updated_at: "2026-11-10T14:47:58Z"
 
 Peaks of the Southern Atlantic submarine ridge form the Fernando de Noronha Archipelago and Rocas Atoll off the coast of Brazil. They represent a large proportion of the island surface of the South Atlantic and their rich waters are extremely important for the breeding and feeding of tuna, shark, turtle and marine mammals. The islands are home to the largest concentration of tropical seabirds in the Western Atlantic. Baia de Golfinhos has an exceptional population of resident dolphin and at low tide the Rocas Atoll provides a spectacular seascape of lagoons and tidal pools teeming with fish.
 
+## 本地语言 / Local language (Portuguese)
+
+**Atol das Rocas**
+
+Reserva Biológica Atol das Rocas é uma unidade de conservação de proteção integral brasileira situada a 144 mn (267 km) a lés-nordeste da cidade de Natal (RN) e a 80 mn (148 km) a oeste do arquipélago de Fernando de Noronha (PE), na zona econômica exclusiva do Brasil.
+
 ## 交通 / Transport
 
-- ✈ **Fernando de Noronha Airport (FEN)** — 0.4 km
-- ✈ **Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT)** — 389.1 km
+- ✈ **Fernando de Noronha Airport (FEN)** — 153.0 km
+- ✈ **Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT)** — 273.6 km
+- ✈ **Presidente Castro Pinto International Airport (JPA)** — 386.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **14927.2 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -53,13 +60,13 @@ Visa not required[6] Visa-exemption up to 30 days in 12 months until 31 Dec 2026
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1000)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Rocas%20Atoll)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)"
 lat: 50.84670775
 lon: 4.35253815
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 布鲁塞尔大广场 / La Grand-Place, Brussels
@@ -103,6 +103,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/857)
-- [Wikipedia](https://en.wikipedia.org/wiki/Grand-Place)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

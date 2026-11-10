@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2006"
 criteria: "(iii)(vi)"
-lat: -14.293333333333
-lon: 34.279166666667
-updated_at: "2026-11-10T14:47:53Z"
+lat: -14.293333333
+lon: 34.279166666
+updated_at: "2026-11-10T23:01:10Z"
 ---
 
 # 琼戈尼岩石艺术区 / Chongoni Rock-Art Area
@@ -54,13 +54,13 @@ eVisa[6][83] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/476)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Chongoni%20Rock%20Art%20Area)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

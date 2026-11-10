@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(i)(ii)"
 lat: 45.55
 lon: 11.55
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 维琴查城和威尼托的帕拉迪恩别墅 / City of Vicenza and the Palladian Villas of the Veneto
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/712)
-- [Wikipedia](https://en.wikipedia.org/wiki/City%20of%20Vicenza%20and%20the%20Palladian%20Villas%20of%20the%20Veneto)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

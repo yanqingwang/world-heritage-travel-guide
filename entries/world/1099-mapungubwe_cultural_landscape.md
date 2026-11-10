@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iii)(iv)(v)"
 lat: -22.211667
 lon: 29.387889
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 马蓬古布韦文化景观 / Mapungubwe Cultural Landscape

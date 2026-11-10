@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1987"
 criteria: "(i)(iii)"
-lat: 18.963333333333335
-lon: 72.93138888888889
-updated_at: "2026-11-10T14:47:51Z"
+lat: 18.963333333
+lon: 72.931388888
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 埃勒凡塔石窟（象岛石窟） / Elephanta Caves
@@ -54,13 +54,13 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/244)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Elephanta%20Caves)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

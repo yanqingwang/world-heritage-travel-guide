@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(vi)"
 lat: -20.460555555
 lon: 57.313611111
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 莫纳山 / Le Morne Cultural Landscape
@@ -47,11 +47,13 @@ updated_at: "2026-11-10T14:48:01Z"
 
 ### 中文
 
-莫纳山，全称是莫纳布拉班特山（法語：Le Morne Brabant），是毛里求斯西南角的一个半岛，半岛上有一座高556米的玄武质岩山，是毛里求斯著名景点之一。2008年文化景观列入联合国教科文组织世界遗产名录。
+莫纳山文化景观是毛里求斯西南部一座突入印度洋的崎岖山峰，在 18 世纪和 19 世纪初曾被逃亡奴隶和逃亡者用作避难所。在山上孤立、树木繁茂、几乎难以接近的悬崖的保护下，逃亡的奴隶在山洞和莫纳山山顶形成了小型定居点。与栗色人相关的口头传统使莫纳山成为奴隶争取自由、苦难和牺牲的象征，所有这些都与奴隶的来源国——非洲大陆、马达加斯加、印度和东南亚有关。事实上，毛里求斯作为东部奴隶贸易的重要中转站，也因莫纳山上居住着大量逃亡奴隶而被称为“栗色共和国”。
 
 ### English
 
 Le Morne Cultural Landscape, a rugged mountain that juts into the Indian Ocean in the southwest of Mauritius was used as a shelter by runaway slaves, maroons, through the 18th and early years of the 19th centuries. Protected by the mountain’s isolated, wooded and almost inaccessible cliffs, the escaped slaves formed small settlements in the caves and on the summit of Le Morne. The oral traditions associated with the maroons, have made Le Morne a symbol of the slaves’ fight for freedom, their suffering, and their sacrifice, all of which have relevance to the countries from which the slaves came - the African mainland, Madagascar, India, and South-east Asia. Indeed, Mauritius, an important stopover in the eastern slave trade, also came to be known as the “Maroon republic” because of the large number of escaped slaves who lived on Le Morne Mountain.
+
+*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (French)
 
@@ -100,6 +102,6 @@ Visa not required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1259)
-- [Wikipedia](https://en.wikipedia.org/wiki/Le%20Morne%20Brabant)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

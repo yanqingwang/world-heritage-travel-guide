@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1999"
 criteria: "(ii)(iv)"
-lat: 22.824966552410256
-lon: 79.36635501135898
-updated_at: "2026-11-10T14:47:58Z"
+lat: 22.75877910565116
+lon: 78.97488981386047
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 印度山区铁路 / Mountain Railways of India
@@ -43,9 +43,9 @@ This site includes three railways. The Darjeeling Himalayan Railway was the firs
 
 ## 交通 / Transport
 
-- ✈ **Jabalpur Airport (JLR)** — 80.4 km
-- ✈ **Gondia Airport (GDB)** — 172.9 km
-- ✈ **Dr. Babasaheb Ambedkar International Airport (NAG)** — 195.5 km
+- ✈ **Jabalpur Airport (JLR)** — 119.7 km
+- ✈ **Raja Bhoj International Airport (BHO)** — 177.6 km
+- ✈ **Dr. Babasaheb Ambedkar International Airport (NAG)** — 185.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3898.0 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iv)(v)"
 lat: 45.0725
 lon: 7.68583
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 萨沃王宫 / Residences of the Royal House of Savoy
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/823)
-- [Wikipedia](https://en.wikipedia.org/wiki/Residences%20of%20the%20Royal%20House%20of%20Savoy)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(iii)(iv)"
 lat: -13.516944444
 lon: -71.978611111
-updated_at: "2026-11-10T14:47:51Z"
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 科斯科古城 / City of Cuzco

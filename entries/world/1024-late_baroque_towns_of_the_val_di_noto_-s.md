@@ -3,7 +3,7 @@ id: "wh-1024"
 dataset: "unesco"
 name_zh: "晚期的巴洛克城镇瓦拉迪那托（西西里东南部）"
 name_en: "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)"
-name_local: ""
+name_local: "Città tardo barocche del Val di Noto"
 country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2002"
 criteria: "(i)(ii)(iv)(v)"
-lat: 36.88333333
-lon: 15.08333333
-updated_at: "2026-11-10T14:47:59Z"
+lat: 36.792416666
+lon: 14.705722222
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 晚期的巴洛克城镇瓦拉迪那托（西西里东南部） / Late Baroque Towns of the Val di Noto (South-Eastern Sicily)
@@ -37,11 +37,17 @@ updated_at: "2026-11-10T14:47:59Z"
 
 The eight towns in south-eastern Sicily: Caltagirone, Militello Val di Catania, Catania, Modica, Noto, Palazzolo, Ragusa and Scicli, were all rebuilt after 1693 on or beside towns existing at the time of the earthquake which took place in that year. They represent a considerable collective undertaking, successfully carried out at a high level of architectural and artistic achievement. Keeping within the late Baroque style of the day, they also depict distinctive innovations in town planning and urban building.
 
+## 本地语言 / Local language (Italian)
+
+**Città tardo barocche del Val di Noto**
+
+Le città tardo-barocche del Val di Noto (Sud est Sicilia) sono un sito seriale inserito dall'UNESCO nella lista del Patrimonio dell'umanità nel 2002 che comprende otto società urbane (Caltagirone, Militello in Val di Catania, Catania, Modica, Noto, Palazzolo Acreide, Ragusa e Scicli) del distretto del Val di Noto, colpite dal terremoto nel 1693. Queste città vennero ricostruite in un gusto tardo-barocco unitario e riconoscibile che le caratterizza ancora oggi.
+
 ## 交通 / Transport
 
-- ✈ **Comiso Airport (CIY)** — 44.0 km
-- ✈ **Catania-Fontanarossa Airport (CTA)** — 64.9 km
-- ✈ **Malta International Airport (MLA)** — 126.9 km
+- ✈ **Comiso Airport (CIY)** — 24.2 km
+- ✈ **Catania-Fontanarossa Airport (CTA)** — 81.5 km
+- ✈ **Malta International Airport (MLA)** — 107.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8327.6 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -54,7 +60,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

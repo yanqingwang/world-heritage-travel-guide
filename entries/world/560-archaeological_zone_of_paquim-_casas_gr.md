@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1998"
 criteria: "(iii)(iv)"
-lat: 30.36638889
-lon: -107.9475
-updated_at: "2026-11-10T14:47:54Z"
+lat: 30.37583
+lon: -107.95556
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 大卡萨斯的帕魁姆考古区 / Archaeological Zone of Paquimé, Casas Grandes
@@ -45,9 +45,9 @@ Paquimé (Casas Grandes) desempeñó un papel clave en las relaciones comerciale
 
 ## 交通 / Transport
 
-- ✈ **Abraham González International Airport (CJS)** — 202.3 km
-- ✈ **El Paso International Airport (ELP)** — 219.5 km
-- ✈ **Las Cruces International Airport (LRU)** — 235.0 km
+- ✈ **Abraham González International Airport (CJS)** — 202.1 km
+- ✈ **El Paso International Airport (ELP)** — 219.2 km
+- ✈ **Las Cruces International Airport (LRU)** — 234.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **10893.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -60,13 +60,13 @@ Visa required[6] National visa may be substituted with a valid visa (of any cate
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/560)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Casas%20Grandes)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

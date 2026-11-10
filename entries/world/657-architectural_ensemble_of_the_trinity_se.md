@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 56.31035
 lon: 38.13065
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 谢尔吉圣三一大修道院 / Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad
@@ -91,6 +91,6 @@ Visa not required Visa-free until 31 December 2027.[118] Groups of 5 to 50 touri
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/657)
-- [Wikipedia](https://en.wikipedia.org/wiki/Trinity%20Lavra%20of%20St.%20Sergius)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

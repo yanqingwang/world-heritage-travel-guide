@@ -37,9 +37,9 @@
  "local_lang": null,
  "local_lang_name": null,
  "slug": "1314-wadden_sea",
- "lat": 53.533333333333,
- "lon": 6.8833333333333,
- "coord_accuracy": "wikidata_search",
+ "lat": 53.528611111,
+ "lon": 8.556111111,
+ "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
  "category_en": "Natural",
@@ -69,39 +69,39 @@
  "transport": {
   "airports": [
    {
-    "name": "Borkum Airport",
-    "iata": "BMK",
-    "city": "Borkum",
+    "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
+    "iata": "FCN",
+    "city": "Wurster Nordseeküste",
     "country": "DE",
-    "lat": 53.59639,
-    "lon": 6.709167,
-    "type": "small_airport",
-    "distance_km": 13.5,
-    "name_zh": "博尔库姆飞行场"
+    "lat": 53.767689,
+    "lon": 8.659201,
+    "type": "medium_airport",
+    "distance_km": 27.4
    },
    {
-    "name": "Juist Airport",
-    "iata": "JUI",
-    "city": "Juist",
+    "name": "Wangerooge Airport",
+    "iata": "AGE",
+    "city": "Wangerooge",
     "country": "DE",
-    "lat": 53.681421,
-    "lon": 7.056398,
+    "lat": 53.782544,
+    "lon": 7.919584,
     "type": "small_airport",
-    "distance_km": 20.0
+    "distance_km": 50.6
    },
    {
-    "name": "Norden-Norddeich Airport",
-    "iata": "NOD",
-    "city": "Norddeich",
+    "name": "Bremen Airport",
+    "iata": "BRE",
+    "city": "Bremen",
     "country": "DE",
-    "lat": 53.633057,
-    "lon": 7.190278,
-    "type": "small_airport",
-    "distance_km": 23.1
+    "lat": 53.046786,
+    "lon": 8.78932,
+    "type": "large_airport",
+    "distance_km": 55.8,
+    "name_zh": "不来梅机场"
    }
   ],
-  "nearest_airport_km": 13.5,
-  "distance_beijing_km": 7635.1,
+  "nearest_airport_km": 27.4,
+  "distance_beijing_km": 7523.1,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -192,5 +192,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:01Z"
+ "updated_at": "2026-11-10T23:01:17Z"
 }

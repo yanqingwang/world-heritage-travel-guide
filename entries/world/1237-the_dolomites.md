@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(vii)(viii)"
 lat: 46.61306
 lon: 12.16306
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 多洛米蒂山 / The Dolomites

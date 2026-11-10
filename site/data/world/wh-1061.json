@@ -27,9 +27,9 @@
  "local_lang": "es",
  "local_lang_name": "Spanish",
  "slug": "1061-ancient_maya_city_and_protected_tropical",
- "lat": 18.10539167,
- "lon": -89.81082778,
- "coord_accuracy": "wikipedia",
+ "lat": 18.105,
+ "lon": -89.810555555,
+ "coord_accuracy": "site",
  "category": "Mixed",
  "category_zh": "混合遗产",
  "category_en": "Mixed",
@@ -37,8 +37,8 @@
  "year": "2002",
  "danger": false,
  "transnational": false,
- "intro_zh": "该遗址位于墨西哥南部尤卡坦半岛的中/南部，包括重要的玛雅城市卡拉克穆尔的遗迹，位于巴哈斯热带森林深处。十二个多世纪以来，这座城市在该地区的历史中发挥了关键作用，其保存完好的建筑为特色，生动地展现了玛雅古都首都的生活。该地产还属于世界第三大中美洲生物多样性热点地区，涵盖从墨西哥中部到巴拿马运河的所有亚热带和热带生态系统。",
- "intro_zh_source": "machine_translation",
+ "intro_zh": "卡拉克穆尔（Calakmul或Kalakmul）遗址，在今墨西哥坎佩切州境内，面积约三十平方公里。卡拉克穆尔是玛雅文明古典时期最重要的城邦之一。在玛雅的时代，她是酋邦“Kaan”（玛雅语意为“蛇”）的首都。因此卡拉克穆尔也被称为“蛇之王都”。",
+ "intro_zh_source": "wikipedia",
  "intro_en": "The site is located in the central/southern portion of the Yucatán Peninsula, in southern Mexico and includes the remains of the important Maya city Calakmul, set deep in the tropical forest of the Tierras Bajas. The city played a key role in the history of this region for more than twelve centuries and is characterized by well-preserved structures providing a vivid picture of life in an ancient Maya capital. The property also falls within the Mesoamerica biodiversity hotspot, the third largest in the world, encompassing all subtropical and tropical ecosystems from central Mexico to the Panama Canal.",
  "intro_en_source": "unesco_official",
  "intro_local": "Situado en el sector central y meridional de la Península de Yucatán, al sur de México, el sitio incluye los vestigios de la importante ciudad maya de Calakmul, situada en los más hondo de la selva tropical de las Tierras Bajas mexicanas. La ciudad desempeñó un papel de primer plano en la historia de la región durante más de doce siglos. Sus imponentes estructuras y su trazado global característico se hallan en un estado de conservación admirable y ofrecen una vívida imagen de lo que era la vida en una antigua capital maya. Calakmul alberga también un importante santuario de biodiversidad de Mesoamérica, que por su tamaño es el tercer mayor hotspot del mundo y conjuga todos los ecosistemas tropicales y subtropicales existentes desde el centro de México hasta el Canal de Panamá.",
@@ -66,7 +66,7 @@
     "lat": 18.046767,
     "lon": -88.583858,
     "type": "small_airport",
-    "distance_km": 129.9
+    "distance_km": 129.8
    },
    {
     "name": "Mundo Maya International Airport",
@@ -91,7 +91,7 @@
     "name_zh": "科罗萨尔机场"
    }
   ],
-  "nearest_airport_km": 129.9,
+  "nearest_airport_km": 129.8,
   "distance_beijing_km": 13045.5,
   "ferry_terminals": [],
   "railway_stations": []
@@ -133,10 +133,10 @@
   "voltage": "127V/60Hz"
  },
  "info_languages": {
-  "zh": false,
+  "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "local": true,
   "local_lang": "es",
   "local_lang_name": "Spanish",
@@ -145,7 +145,7 @@
    "fr",
    "es"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 52
  },
  "sources": [
   {
@@ -153,8 +153,8 @@
    "url": "https://whc.unesco.org/en/list/1061"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Calakmul"
   },
   {
    "name": "OpenStreetMap",
@@ -165,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:59Z"
+ "updated_at": "2026-11-10T23:01:15Z"
 }

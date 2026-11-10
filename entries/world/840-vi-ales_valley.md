@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1999"
 criteria: "(iv)"
-lat: 22.616666666667
-lon: -83.716666666667
-updated_at: "2026-11-10T14:47:57Z"
+lat: 22.616666666
+lon: -83.716666666
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 比尼亚莱斯山谷 / Viñales Valley
@@ -60,13 +60,13 @@ Visa not required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/840)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Vi%C3%B1ales%20Valley)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

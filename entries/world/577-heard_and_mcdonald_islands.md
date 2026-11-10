@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "1997"
 criteria: "(viii)(ix)"
-lat: -53.07833333333333
+lat: -53.078333333
 lon: 73.5075
-updated_at: "2026-11-10T14:47:54Z"
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 赫德岛和麦克唐纳群岛 / Heard and McDonald Islands
@@ -53,13 +53,13 @@ Online Visa required[6] May apply online (Online Visitor e600 visa and Online e4
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/577)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Heard%20Island%20and%20McDonald%20Islands)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

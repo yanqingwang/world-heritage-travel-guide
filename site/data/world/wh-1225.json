@@ -24,12 +24,12 @@
  "name_zh_source": "curated",
  "name_en": "Ruins of Loropéni",
  "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "local_lang": "mos",
+ "local_lang_name": "Mossi",
  "slug": "1225-ruins_of_loropéni",
- "lat": 10.310277777778,
- "lon": -3.5630555555556,
- "coord_accuracy": "wikidata_search",
+ "lat": 10.310277777,
+ "lon": -3.563055555,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -44,6 +44,38 @@
  "intro_local": "",
  "intro_local_source": null,
  "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg/1280px-2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2016.05-441-131ap wall Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1106h.jpg",
+   "author": "Rik Schuiling / TropCrop-TCS",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/2016.05-441-134ap_archeology%2Cexcavation_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1119h.jpg/1280px-2016.05-441-134ap_archeology%2Cexcavation_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1119h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "2016.05-441-134ap archeology,excavation Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1119h.jpg",
+   "author": "Rik Schuiling / TropCrop-TCS",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:2016.05-441-134ap_archeology%2Cexcavation_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1119h.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lorop%C3%A9ni-location-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Loropéni-location-map.png",
+   "author": "Burkina_Faso_location_map.svg : Uwe Dedering derivative work: Ericleb01 ( talk )",
+   "license": "CC BY-SA 3.0",
+   "credit": "Burkina_Faso_location_map.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lorop%C3%A9ni-location-map.png"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/WL-BF-Lorop%C3%A9ni-Carcasse_de_Bus_calcin%C3%A9_sur_la_route.jpg/1280px-WL-BF-Lorop%C3%A9ni-Carcasse_de_Bus_calcin%C3%A9_sur_la_route.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "WL-BF-Loropéni-Carcasse de Bus calciné sur la route.jpg",
+   "author": "WILLAV-FR",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:WL-BF-Lorop%C3%A9ni-Carcasse_de_Bus_calcin%C3%A9_sur_la_route.jpg"
+  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1225.jpg",
    "title": "Ruins of Loropéni",
@@ -135,18 +167,18 @@
  "info_languages": {
   "zh": false,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local_lang": "mos",
+  "local_lang_name": "Mossi",
   "official_unesco": [
    "en",
    "fr",
    "es",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 23
  },
  "sources": [
   {
@@ -154,8 +186,8 @@
    "url": "https://whc.unesco.org/en/list/1225"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ruins%20of%20Lorop%C3%A9ni"
   },
   {
    "name": "OpenStreetMap",
@@ -166,5 +198,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:00Z"
+ "updated_at": "2026-11-10T23:01:17Z"
 }

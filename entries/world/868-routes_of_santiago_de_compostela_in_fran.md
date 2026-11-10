@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iv)(vi)"
 lat: 45.184055555
 lon: -0.722944444
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 法国圣地亚哥——德孔波斯特拉朝圣之路 / Routes of Santiago de Compostela in France

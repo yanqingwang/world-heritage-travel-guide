@@ -23,13 +23,13 @@
  "name_zh": "佛罗伦萨历史中心",
  "name_zh_source": "unesco_official",
  "name_en": "Historic Centre of Florence",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Centro storico di Firenze",
+ "local_lang": "it",
+ "local_lang_name": "Italian",
  "slug": "174-historic_centre_of_florence",
  "lat": 43.77306,
  "lon": 11.25611111,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "Built on the site of an Etruscan settlement, Florence, the symbol of the Renaissance, rose to economic and cultural pre-eminence under the Medici in the 15th and 16th centuries. Its 600 years of extraordinary artistic activity can be seen above all in the 13th-century cathedral (Santa Maria del Fiore), the Church of Santa Croce, the Uffizi and the Pitti Palace, the work of great masters such as Giotto, Brunelleschi, Botticelli and Michelangelo.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Il centro storico di Firenze è la parte della città compresa entro i viali di circonvallazione, creati con la demolizione della cerchia delle mura medievali. Dal 1982 questa zona è diventata uno dei patrimoni UNESCO dell'umanità d'Italia.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_174.jpg",
@@ -136,11 +136,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "it",
+  "local_lang_name": "Italian",
   "official_unesco": [
    "en",
    "zh",
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 21
  },
  "sources": [
   {
@@ -157,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/174"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Florence"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:50Z"
+ "updated_at": "2026-11-10T23:01:08Z"
 }

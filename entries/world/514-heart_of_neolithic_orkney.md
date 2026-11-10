@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 58.9975
 lon: -3.215
-updated_at: "2026-11-10T14:47:53Z"
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 奥克尼新石器时代遗址 / Heart of Neolithic Orkney

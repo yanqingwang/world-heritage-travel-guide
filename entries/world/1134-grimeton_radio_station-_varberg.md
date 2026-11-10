@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iv)"
 lat: 57.113983
 lon: 12.404417
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 威堡广播站 / Grimeton Radio Station, Varberg
@@ -45,7 +45,7 @@ The Varberg Radio Station at Grimeton in southern Sweden (built 1922–24) is an
 
 **Radiostationen i Grimeton**
 
-Radiostationen i Grimeton (uttalas 'grimmetånn) är ett industriminne, som sedan 2004 står på Unescos lista över världsarv. Den innehåller en fungerande elektromekanisk ultralångvågssändare för telegrafi med tillhörande antennsystem från början av 1920-talet. Den är belägen i Grimeton, Varbergs kommun, Hallands län, cirka 15 km öster om Varberg. De sex 127 meter höga antenntornen står på rad och är väl synliga från motorvägen E6/E20. Radiostationen ägs idag av Stiftelsen Världsarvet Grimeton som är sammansatt av Länsstyrelsen i Hallands län, Varbergs kommun och Telia Company. Hela anläggningen är bevarad i sitt dåtida skick och är idag den enda körbara elektromekaniska sändaren i världen. Från början rymde anläggningen även ett andra aggregat, en spegelvänd Alexanderson-alternator, men den skrotades 1960 för att ge plats åt fler kortvågsändare.
+Radiostationen i Grimeton är en tidigare radiostation och ett industriminne i Grimeton i Varbergs kommun, cirka 15 kilometer sydost om Varberg. Anläggningen byggdes 1922–1924 för trådlös telegrafi över Atlanten och upptogs 2004 på Unescos världsarvslista. Den är det enda bevarade exemplet på en större radiostation som bygger på teknik från tiden före elektroniska sändare. Radiostationen har en fungerande elektromekanisk ultralångvågssändare för telegrafi och ett antennsystem med sex 127 meter höga torn. Av de två ursprungliga Alexandersonsändarna skrotades den ena 1960, medan den andra har bevarats i funktionsdugligt skick. Anläggningen ägs sedan 2003 av Stiftelsen Världsarvet Grimeton.
 
 ## 交通 / Transport
 

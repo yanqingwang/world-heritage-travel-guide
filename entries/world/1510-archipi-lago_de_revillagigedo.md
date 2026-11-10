@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(vii)(ix)(x)"
 lat: 18.821388888
 lon: -112.763888888
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # Revillagigedo群岛 / Archipiélago de Revillagigedo

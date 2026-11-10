@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ix)(x)"
 lat: 5.53333
 lon: -87.0667
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 科科斯岛国家公园 / Cocos Island National Park

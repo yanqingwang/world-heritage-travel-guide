@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 50.635266
 lon: 3.514842
-updated_at: "2026-11-10T14:47:58Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 比利时和法国钟楼 / Belfries of Belgium and France

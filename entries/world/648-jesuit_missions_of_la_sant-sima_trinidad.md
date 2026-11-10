@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: -27.056
 lon: -55.753
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 塔瓦兰格的耶稣和巴拉那的桑蒂西莫－特立尼达耶稣会传教区 / Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/648)
-- [Wikipedia](https://en.wikipedia.org/wiki/Jesuit%20Missions%20of%20La%20Sant%C3%ADsima%20Trinidad%20de%20Paran%C3%A1%20and%20Jes%C3%BAs%20de%20Tavarangue)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

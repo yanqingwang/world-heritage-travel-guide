@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ix)(x)"
 lat: 4.0
 lon: -56.5
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 苏里南中心自然保护区 / Central Suriname Nature Reserve

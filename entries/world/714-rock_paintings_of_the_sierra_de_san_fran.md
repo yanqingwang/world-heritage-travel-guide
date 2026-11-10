@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(iii)"
 lat: 27.655555555
 lon: -112.916111111
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 圣弗兰西斯科山脉岩画 / Rock Paintings of the Sierra de San Francisco

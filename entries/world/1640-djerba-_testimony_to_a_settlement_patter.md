@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(v)"
 lat: 33.7837
 lon: 10.8833
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 杰尔巴：岛屿区域定居模式的见证 / Djerba: Testimony to a settlement pattern in an island territory
@@ -98,6 +98,6 @@ Visa not required[6] For tourism purposes only. When entering the country, a pai
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1640)
-- [Wikipedia](https://en.wikipedia.org/wiki/Djerba)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

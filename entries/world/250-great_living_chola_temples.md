@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iii)"
 lat: 10.783055555
 lon: 79.1325
-updated_at: "2026-11-10T14:47:51Z"
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 朱罗王朝现存的神庙 / Great Living Chola Temples

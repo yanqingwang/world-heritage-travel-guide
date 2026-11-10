@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 53.187375
 lon: 5.543752777
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 弗拉讷克的艾辛哈天文馆 / Eisinga Planetarium in Franeker
@@ -71,6 +71,6 @@ Het Koninklijk Eise Eisinga Planetarium is een wetenschapsmuseum in de stad Fran
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1683)
-- [Wikipedia](https://en.wikipedia.org/wiki/Eise%20Eisinga%20Planetarium)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

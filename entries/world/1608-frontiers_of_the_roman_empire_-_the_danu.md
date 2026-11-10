@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iii)(iv)"
 lat: 48.115
 lon: 16.861
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 罗马帝国边界——多瑙河界墙（西段） / Frontiers of the Roman Empire – The Danube Limes (Western Segment)
@@ -31,7 +31,7 @@ updated_at: "2026-11-10T14:48:04Z"
 
 ### 中文
 
-它覆盖了整个罗马帝国多瑙河边境近600公里。该财产构成了罗马帝国环绕地中海的广阔边界的一部分。多瑙河石灰（西段）通过选择代表关键要素的地点（从道路、军团要塞及其相关定居点到小堡垒和临时营地）以及这些结构与当地地形的联系方式，反映了罗马边境这一部分的特殊性。
+It covers almost 600km of the whole Roman Empire’s Danube frontier. The property formed part of the much large frontier of the Roman Empire that encircled the Mediterranean Sea.多瑙河石灰（西段）通过选择代表关键要素的地点（从道路、军团要塞及其相关定居点到小堡垒和临时营地）以及这些结构与当地地形的联系方式，反映了罗马边境这一部分的特殊性。
 
 ### English
 

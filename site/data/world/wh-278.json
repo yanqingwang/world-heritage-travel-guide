@@ -27,9 +27,9 @@
  "local_lang": "ar",
  "local_lang_name": "Arabic",
  "slug": "278-babylon",
- "lat": 40.694444444444,
- "lon": -73.329444444444,
- "coord_accuracy": "wikidata_search",
+ "lat": 32.541780555,
+ "lon": 44.431644444,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -45,6 +45,38 @@
  "intro_local_source": "unesco_official",
  "images": [
   {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/001125-Babylon-Iraq-IMG_8057-2.jpg/1280px-001125-Babylon-Iraq-IMG_8057-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "001125-Babylon-Iraq-IMG 8057-2.jpg",
+   "author": "Safa.daneshvar",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:001125-Babylon-Iraq-IMG_8057-2.jpg"
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Babylon%2C_1932.jpg/1280px-Babylon%2C_1932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "Babylon, 1932.jpg",
+   "author": "American Colony (Jerusalem). Photo Dept., photographer.",
+   "license": "Public domain",
+   "credit": "This image is available from the United States Library of Congress 's Prints and Photographs division under the digital ID matpc.13231 . This tag does not indic",
+   "source": "https://commons.wikimedia.org/wiki/File:Babylon%2C_1932.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cyrus_Cylinder%2C_Mid-6th_century_BCE%2C_Babylon%2C_Iraq%2C_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Cyrus Cylinder, Mid-6th century BCE, Babylon, Iraq, British Museum.jpg",
+   "author": "SpeakingArch",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder%2C_Mid-6th_century_BCE%2C_Babylon%2C_Iraq%2C_British_Museum.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Plan_of_Babylon%2C_600-500_BCE%2C_Babylon%2C_southern_Iraq%2C_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Plan of Babylon, 600-500 BCE, Babylon, southern Iraq, British Museum.jpg",
+   "author": "SpeakingArch",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:Plan_of_Babylon%2C_600-500_BCE%2C_Babylon%2C_southern_Iraq%2C_British_Museum.jpg"
+  },
+  {
    "url": "https://whc.unesco.org/uploads/sites/site_278.jpg",
    "title": "Babylon",
    "author": "UNESCO World Heritage Centre",
@@ -59,41 +91,40 @@
  "transport": {
   "airports": [
    {
-    "name": "Long Island MacArthur Airport",
-    "iata": "ISP",
-    "city": "Islip",
-    "country": "US",
-    "lat": 40.796324,
-    "lon": -73.101703,
+    "name": "Al Najaf International Airport",
+    "iata": "NJF",
+    "city": "Najaf",
+    "country": "IQ",
+    "lat": 31.991116,
+    "lon": 44.405019,
+    "type": "large_airport",
+    "distance_km": 61.3
+   },
+   {
+    "name": "Baghdad International Airport / New Al Muthana Air Base",
+    "iata": "BGW",
+    "city": "Baghdad",
+    "country": "IQ",
+    "lat": 33.262501,
+    "lon": 44.2346,
+    "type": "large_airport",
+    "distance_km": 82.2,
+    "name_zh": "巴格达国际机场"
+   },
+   {
+    "name": "Shahid Ashrafi Esfahani Airport",
+    "iata": "KSH",
+    "city": "Kermanshah",
+    "country": "IR",
+    "lat": 34.3459014893,
+    "lon": 47.1581001282,
     "type": "medium_airport",
-    "distance_km": 22.3,
-    "name_zh": "长岛麦克阿瑟机场"
-   },
-   {
-    "name": "John F. Kennedy International Airport",
-    "iata": "JFK",
-    "city": "New York",
-    "country": "US",
-    "lat": 40.639447,
-    "lon": -73.779317,
-    "type": "large_airport",
-    "distance_km": 38.4,
-    "name_zh": "约翰·菲茨杰拉德·甘迺迪国际机场"
-   },
-   {
-    "name": "LaGuardia Airport",
-    "iata": "LGA",
-    "city": "New York",
-    "country": "US",
-    "lat": 40.777199,
-    "lon": -73.872597,
-    "type": "large_airport",
-    "distance_km": 46.7,
-    "name_zh": "拉瓜地亚机场"
+    "distance_km": 322.8,
+    "name_zh": "克尔曼沙赫"
    }
   ],
-  "nearest_airport_km": 22.3,
-  "distance_beijing_km": 10968.8,
+  "nearest_airport_km": 61.3,
+  "distance_beijing_km": 6375.5,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -171,5 +202,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:51Z"
+ "updated_at": "2026-11-10T23:01:09Z"
 }

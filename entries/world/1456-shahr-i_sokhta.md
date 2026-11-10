@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(iii)(iv)"
 lat: 30.595277777
 lon: 61.331944444
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 被焚之城 / Shahr-i Sokhta
@@ -47,11 +47,13 @@ updated_at: "2026-11-10T14:48:02Z"
 
 ### 中文
 
-被焚之城（波斯語：شهرسوخته），意思是「被燒毀的城市」，為一處青銅時代人類定居點的考古遺址，位於伊朗東部錫斯坦－俾路支斯坦省，靠近阿富汗邊界附近。被焚之城在2014年6月被列入聯合國教科文組織《世界遺產》名錄。
+Shahr-i Sokhta，意思是“被烧毁的城市”，位于穿越伊朗高原的青铜时代贸易路线的交汇处。泥砖城市的遗迹代表了伊朗东部第一个复杂社会的出现。它建于公元前 3200 年左右，在公元前 1800 年之前的四个主要时期都有人口居住，在此期间，城市内开发了几个不同的区域：建造纪念碑的区域，以及用于住房、墓葬和制造的独立区域。水道改道和气候变化导致这座城市最终在第二个千年初期被遗弃。这里出土的建筑、墓地和大量重要文物，以及由于干燥的沙漠气候而保存完好的状态，使该遗址成为有关公元前三千年复杂社会的出现及其相互联系的丰富信息来源。
 
 ### English
 
 Shahr-i Sokhta, meaning ‘Burnt City’, is located at the junction of Bronze Age trade routes crossing the Iranian plateau. The remains of the mudbrick city represent the emergence of the first complex societies in eastern Iran. Founded around 3200 BC, it was populated during four main periods up to 1800 BC, during which time there developed several distinct areas within the city: those where monuments were built, and separate quarters for housing, burial and manufacture. Diversions in water courses and climate change led to the eventual abandonment of the city in the early second millennium. The structures, burial grounds and large number of significant artefacts unearthed there, and their well-preserved state due to the dry desert climate, make this site a rich source of information regarding the emergence of complex societies and contacts between them in the third millennium BC.
+
+*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Persian)
 
@@ -89,6 +91,6 @@ Visa not required[6][60] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1456)
-- [Wikipedia](https://en.wikipedia.org/wiki/Shahr-e%20Sukhteh)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

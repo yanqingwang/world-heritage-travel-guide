@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ix)(x)"
 lat: 41.702222222
 lon: 41.951111111
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 科尔基斯雨林及湿地 / Colchic Rainforests and Wetlands
@@ -71,6 +71,6 @@ Visa not required[6] Holders of valid visas or residence permits of EU/EFTA/GCC 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1616)
-- [Wikipedia](https://en.wikipedia.org/wiki/Colchic%20Rainforests%20and%20Wetlands)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

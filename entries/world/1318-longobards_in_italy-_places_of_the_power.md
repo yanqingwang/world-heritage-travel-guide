@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ii)(iii)(vi)"
 lat: 46.09416667
 lon: 13.43305556
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 意大利伦巴第人遗址 / Longobards in Italy. Places of the Power (568-774 A.D.)
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1318)
-- [Wikipedia](https://en.wikipedia.org/wiki/Longobards%20in%20Italy%3A%20Places%20of%20Power%20%28568%E2%80%93774%20A.D.%29)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

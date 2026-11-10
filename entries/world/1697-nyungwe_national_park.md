@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(x)"
 lat: -2.5282157
 lon: 29.2758463
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 纽恩威国家公园 / Nyungwe National Park

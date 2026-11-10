@@ -10,11 +10,14 @@ Output: data/raw/unesco_wikidata.json
 """
 from __future__ import annotations
 
+import json
+import subprocess
 import sys
 import time
 
-from common import RAW, http_post, load_json, now_iso, save_json
+from common import RAW, load_json, now_iso, save_json
 
+UA = "wh-travel-guide/1.0"
 CHUNK = 300
 
 
@@ -32,15 +35,20 @@ SELECT ?item ?id ?labelEn ?labelZh ?coord ?image ?category ?sitelinks WHERE {{
 }}
 """
     for attempt in range(4):
-        r = http_post(
-            "https://query.wikidata.org/sparql",
-            data={"query": sparql},
-            headers={"Accept": "application/sparql-results+json"},
-            timeout=180,
-            retries=1,
-        )
-        if r is not None and r.status_code == 200:
-            return r.json()["results"]["bindings"]
+        # curl transport: python-requests stalls on wikidata.org TLS on this
+        # network (same workaround as common.wiki_api / backfill_wikidata).
+        out = subprocess.run(
+            ["curl", "-sSL", "--max-time", "170",
+             "-H", "Accept: application/sparql-results+json",
+             "-H", f"User-Agent: {UA}",
+             "--data-urlencode", f"query={sparql}",
+             "https://query.wikidata.org/sparql"],
+            capture_output=True, text=True, timeout=180)
+        if out.returncode == 0 and out.stdout.startswith("{"):
+            try:
+                return json.loads(out.stdout)["results"]["bindings"]
+            except (ValueError, KeyError):
+                pass
         time.sleep(10 * (attempt + 1))
     return []
 
@@ -58,7 +66,14 @@ def coord_value(value: str) -> tuple[float, float] | None:
 def main() -> int:
     unesco = load_json(RAW / "unesco_sites.json", {}) or {}
     sites = unesco.get("sites", [])
-    ids = [s["id"] for s in sites]
+    # P757 stores the dossier number ("174quater"), which differs from the
+    # list id for many inscriptions — match against both.
+    ids = []
+    for s in sites:
+        ids.append(s["id"])
+        d = s.get("dossier")
+        if d and d != s["id"]:
+            ids.append(d)
     rows: list[dict] = []
     for i in range(0, len(ids), CHUNK):
         part = ids[i:i + CHUNK]
@@ -70,10 +85,14 @@ def main() -> int:
         print("Wikidata unavailable; keeping previous mapping", file=sys.stderr)
         return 1
 
+    id_to_dossier = {s["id"]: s.get("dossier") for s in sites}
+    dossier_to_id = {d: sid for sid, d in id_to_dossier.items() if d}
+
     grouped: dict[str, list[dict]] = {}
     for b in rows:
         d = {k: v["value"] for k, v in b.items()}
-        grouped.setdefault(d["id"], []).append(d)
+        sid = dossier_to_id.get(d["id"], d["id"])
+        grouped.setdefault(sid, []).append(d)
 
     def score(d: dict) -> tuple:
         return (

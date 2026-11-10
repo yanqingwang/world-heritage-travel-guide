@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(iii)(iv)"
 lat: 39.7028565
 lon: 8.9998843
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 巴鲁米尼的努拉格 / Su Nuraxi di Barumini
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/833)
-- [Wikipedia](https://en.wikipedia.org/wiki/Su%20Nuraxi%20%28Barumini%29)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

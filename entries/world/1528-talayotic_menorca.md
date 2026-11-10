@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)"
 lat: 39.9975
 lon: 3.908888888
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 梅诺卡岛塔拉约提克史前遗址 / Talayotic Menorca

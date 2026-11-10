@@ -28,12 +28,12 @@
  "name_zh": "圣乔治山",
  "name_zh_source": "unesco_official",
  "name_en": "Monte San Giorgio",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Monte San Giorgio",
+ "local_lang": "de",
+ "local_lang_name": "German",
  "slug": "1090-monte_san_giorgio",
- "lat": 45.889252,
- "lon": 8.914621,
+ "lat": 45.916666666,
+ "lon": 8.95,
  "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
@@ -46,8 +46,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "The pyramid-shaped, wooded mountain of Monte San Giorgio beside Lake Lugano is regarded as the best fossil record of marine life from the Triassic Period (245–230 million years ago). The sequence records life in a tropical lagoon environment, sheltered and partially separated from the open sea by an offshore reef. Diverse marine life flourished within this lagoon, including reptiles, fish, bivalves, ammonites, echinoderms and crustaceans. Because the lagoon was near land, the remains also include land-based fossils of reptiles, insects and plants, resulting in an extremely rich source of fossils.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Der Monte San Giorgio ist ein Berg im Tessin in der Schweiz. Er ist 1097 m ü. M. hoch und liegt zwischen den beiden südlichen Armen des Luganersees. Der Monte San Giorgio ist eine der weltweit bedeutendsten Fundstellen für marine Fossilien aus der Mitteltrias (245 bis 230 Mio. Jahren). Im Jahr 2003 wurde das Gebiet rund um den Monte San Giorgio von der UNESCO zum Welterbe erklärt. 2010 wurde die Welterbestätte um den südlichen, zu Italien zählenden Teil erweitert. Der pyramidenförmige Berg ist stark bewaldet. Die Naturlandschaft bietet vielen seltenen Pflanzen eine Heimat. Ausserdem liegen im Berg diverse Höhlen verborgen.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pachypleurosaurus.jpg?width=1280",
@@ -79,7 +79,7 @@
     "lat": 46.004299,
     "lon": 8.91058,
     "type": "medium_airport",
-    "distance_km": 12.8,
+    "distance_km": 10.2,
     "name_zh": "卢加诺机场"
    },
    {
@@ -90,7 +90,7 @@
     "lat": 45.6306,
     "lon": 8.72811,
     "type": "large_airport",
-    "distance_km": 32.2,
+    "distance_km": 36.2,
     "name_zh": "米兰－马尔彭萨机场"
    },
    {
@@ -101,11 +101,11 @@
     "lat": 45.445099,
     "lon": 9.27674,
     "type": "large_airport",
-    "distance_km": 56.8,
+    "distance_km": 58.3,
     "name_zh": "连尼治机场"
    }
   ],
-  "nearest_airport_km": 12.8,
+  "nearest_airport_km": 10.2,
   "distance_beijing_km": 8054.2,
   "ferry_terminals": [],
   "railway_stations": []
@@ -161,11 +161,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
   "official_unesco": [
    "en",
    "zh",
@@ -174,7 +174,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 4
+  "wikipedia_editions": 46
  },
  "sources": [
   {
@@ -182,8 +182,8 @@
    "url": "https://whc.unesco.org/en/list/1090"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monte%20San%20Giorgio"
   },
   {
    "name": "OpenStreetMap",
@@ -194,5 +194,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:59Z"
+ "updated_at": "2026-11-10T23:01:16Z"
 }

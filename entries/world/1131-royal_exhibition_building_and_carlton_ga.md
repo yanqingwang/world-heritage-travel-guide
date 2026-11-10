@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)"
 lat: -37.80611111
 lon: 144.9702778
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 皇家展览馆和卡尔顿园林 / Royal Exhibition Building and Carlton Gardens

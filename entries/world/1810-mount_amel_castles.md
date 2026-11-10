@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)(iv)"
 lat: 33.975403701666664
 lon: 35.79174659383333
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 阿米勒山区城堡群 / Mount Amel Castles

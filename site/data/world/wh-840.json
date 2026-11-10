@@ -27,9 +27,9 @@
  "local_lang": "es",
  "local_lang_name": "Spanish",
  "slug": "840-viñales_valley",
- "lat": 22.616666666667,
- "lon": -83.716666666667,
- "coord_accuracy": "wikidata_search",
+ "lat": 22.616666666,
+ "lon": -83.716666666,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -136,7 +136,7 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": true,
   "local_lang": "es",
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 42
  },
  "sources": [
   {
@@ -157,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/840"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vi%C3%B1ales%20Valley"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:57Z"
+ "updated_at": "2026-11-10T23:01:14Z"
 }

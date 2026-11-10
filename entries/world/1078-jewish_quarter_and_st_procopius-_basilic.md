@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(ii)(iii)"
 lat: 49.2172
 lon: 15.8789
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 特热比奇犹太社区及圣普罗科皮乌斯大教堂 / Jewish Quarter and St Procopius' Basilica in Třebíč
@@ -54,13 +54,13 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1078)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Jewish%20Quarter%20and%20St%20Procopius%27%20Basilica%20in%20T%C5%99eb%C3%AD%C4%8D)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

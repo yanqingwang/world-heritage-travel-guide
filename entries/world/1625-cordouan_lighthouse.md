@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(i)(iv)"
 lat: 45.5863198
 lon: -1.1733254
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 科尔杜昂灯塔 / Cordouan Lighthouse
@@ -95,6 +95,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1625)
-- [Wikipedia](https://en.wikipedia.org/wiki/Cordouan%20Lighthouse)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

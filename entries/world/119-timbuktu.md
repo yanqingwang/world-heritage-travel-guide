@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1988"
 criteria: "(ii)(iv)(v)"
-lat: 16.773333055556
-lon: -2.9994438888889
-updated_at: "2026-11-10T14:47:50Z"
+lat: 16.77348
+lon: -3.00742
+updated_at: "2026-11-10T23:01:07Z"
 ---
 
 # 廷巴克图 / Timbuktu
@@ -40,8 +40,8 @@ Home of the prestigious Koranic Sankore University and other madrasas , Timbuktu
 ## 交通 / Transport
 
 - ✈ **Tombouktou Airport (TOM)** — 4.8 km
-- ✈ **Mopti Airport (MZI)** — 276.7 km
-- ✈ **Gao International Airport (GAQ)** — 324.5 km
+- ✈ **Mopti Airport (MZI)** — 276.3 km
+- ✈ **Gao International Airport (GAQ)** — 325.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **11138.0 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -54,13 +54,13 @@ Visa required[6] Holders of passports for public affairs do not require a visa.[
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/119)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Timbuktu)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

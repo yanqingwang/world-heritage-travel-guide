@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(ii)(iv)"
 lat: 17.00455
 lon: -61.76007
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 安提瓜海军船坞及相关考古遗址 / Antigua Naval Dockyard and Related Archaeological Sites
@@ -73,6 +73,6 @@ Visa not required[6] The duration of stay is 30 days at a time, no more than 90 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1499)
-- [Wikipedia](https://en.wikipedia.org/wiki/Antigua%20Naval%20Dockyard%20and%20Related%20Archaeological%20Sites)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

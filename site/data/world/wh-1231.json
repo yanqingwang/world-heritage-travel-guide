@@ -27,9 +27,9 @@
  "local_lang": null,
  "local_lang_name": null,
  "slug": "1231-sacred_mijikenda_kaya_forests",
- "lat": -3.9319444444444,
- "lon": 39.596111111111,
- "coord_accuracy": "wikidata_search",
+ "lat": -3.931944444,
+ "lon": 39.596111111,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -37,8 +37,8 @@
  "year": "2008",
  "danger": false,
  "transnational": false,
- "intro_zh": "米吉肯达卡亚森林 (Mijikenda Kaya Forests) 由 10 个独立的森林点组成，分布在沿海约 200 公里的范围内，其中有许多米吉肯达人的防御村庄（称为卡亚）的遗迹。卡亚建于 16 世纪，但在 1940 年代被遗弃，现在被视为祖先的住所，被尊为圣地，因此由长老委员会维护。该遗址被铭记为文化传统的独特见证及其与现存传统的直接联系。",
- "intro_zh_source": "machine_translation",
+ "intro_zh": "米吉肯达卡亚圣林是肯尼亚沿海地区11个独立的森林，长约200千米。当地是米吉肯达人长期的居住区 ，包括九个民族。森林居住区防卫森严，表现了当地人同一性、连续性和凝聚力的生活特点 ，于2008年列入联合国教科文组织世界遗产名录。",
+ "intro_zh_source": "wikipedia",
  "intro_en": "The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition.",
  "intro_en_source": "unesco_official",
  "intro_local": "",
@@ -134,9 +134,9 @@
   "voltage": "240V/50Hz"
  },
  "info_languages": {
-  "zh": false,
+  "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": false,
   "local_lang": null,
@@ -148,7 +148,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 33
  },
  "sources": [
   {
@@ -156,8 +156,8 @@
    "url": "https://whc.unesco.org/en/list/1231"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kaya%20%28Mijikenda%29"
   },
   {
    "name": "OpenStreetMap",
@@ -168,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:00Z"
+ "updated_at": "2026-11-10T23:01:17Z"
 }

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 37.73333333
 lon: 22.75
-updated_at: "2026-11-10T14:47:58Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 迈锡尼和提那雅恩斯的考古遗址 / Archaeological Sites of Mycenae and Tiryns

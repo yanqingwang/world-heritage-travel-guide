@@ -27,9 +27,9 @@
  "local_lang": null,
  "local_lang_name": null,
  "slug": "13-melka_kunture_and_balchit:_archaeologica",
- "lat": 9.759546913777777,
- "lon": 38.54801703677778,
- "coord_accuracy": "country_centroid",
+ "lat": 8.7025,
+ "lon": 38.608333333,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -66,8 +66,19 @@
     "lat": 8.97789,
     "lon": 38.799301,
     "type": "large_airport",
-    "distance_km": 91.2,
+    "distance_km": 37.1,
     "name_zh": "博莱国际机场"
+   },
+   {
+    "name": "Hawassa International Airport",
+    "iata": "AWA",
+    "city": "Hawassa",
+    "country": "ET",
+    "lat": 7.100611,
+    "lon": 38.396455,
+    "type": "large_airport",
+    "distance_km": 179.6,
+    "name_zh": "阿瓦萨机场"
    },
    {
     "name": "Debre Markos Airport",
@@ -77,21 +88,10 @@
     "lat": 10.321501,
     "lon": 37.741887,
     "type": "small_airport",
-    "distance_km": 108.1
-   },
-   {
-    "name": "Kombolcha Airport",
-    "iata": "DSE",
-    "city": "Dessie",
-    "country": "ET",
-    "lat": 11.10975,
-    "lon": 39.725911,
-    "type": "small_airport",
-    "distance_km": 197.8,
-    "name_zh": "孔博勒查机场"
+    "distance_km": 203.6
    }
   ],
-  "nearest_airport_km": 91.2,
+  "nearest_airport_km": 37.1,
   "distance_beijing_km": 8329.4,
   "ferry_terminals": [],
   "railway_stations": []
@@ -148,7 +148,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 19
  },
  "sources": [
   {
@@ -156,8 +156,8 @@
    "url": "https://whc.unesco.org/en/list/13"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Melka%20Kunture"
   },
   {
    "name": "OpenStreetMap",
@@ -168,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:48Z"
+ "updated_at": "2026-11-10T23:01:06Z"
 }

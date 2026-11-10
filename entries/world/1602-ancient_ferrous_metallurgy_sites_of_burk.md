@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)(vi)"
 lat: 12.5878
 lon: -3.329
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 布基纳法索古冶铁遗址 / Ancient Ferrous Metallurgy Sites of Burkina Faso
@@ -61,6 +61,6 @@ eVisa[6][33] Holders of passports for public affairs do not require a visa.[18]
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1602)
-- [Wikipedia](https://en.wikipedia.org/wiki/Ancient%20Ferrous%20Metallurgy%20Sites%20of%20Burkina%20Faso)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iv)"
 lat: 51.88861
 lon: 4.63472
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 金德代克-埃尔斯豪特的风车 / Mill Network at Kinderdijk-Elshout
@@ -71,6 +71,6 @@ De molens van Kinderdijk zijn negentien molens in het noordwesten van de Alblass
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/818)
-- [Wikipedia](https://en.wikipedia.org/wiki/Kinderdijk%20windmills)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

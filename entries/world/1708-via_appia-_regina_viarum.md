@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(iv)(vi)"
 lat: 41.841389
 lon: 12.5325
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 阿庇亚道：道路女王 / Via Appia. Regina Viarum
@@ -103,6 +103,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1708)
-- [Wikipedia](https://en.wikipedia.org/wiki/Appian%20Way)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(iii)"
-lat: 42.776667256122444
-lon: 11.998449920510204
-updated_at: "2026-11-10T14:48:05Z"
+lat: 42.78262152251852
+lon: 12.085211656240741
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 意大利式共管剧院体系 / The system of Italian-style condominio theatres of the 18th and 19th centuries in Central Italy
@@ -49,9 +49,9 @@ Il Sistema dei teatri condominiali all'italiana del XVIII e XIX secolo nell'Ital
 
 ## 交通 / Transport
 
-- ✈ **Perugia San Francesco d'Assisi – Umbria International Airport (PEG)** — 54.9 km
-- ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 110.1 km
-- ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 119.3 km
+- ✈ **Perugia San Francesco d'Assisi – Umbria International Airport (PEG)** — 49.3 km
+- ✈ **Rome–Fiumicino Leonardo da Vinci International Airport (FCO)** — 109.6 km
+- ✈ **Ciampino–G. B. Pastine International Airport (CIA)** — 117.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8039.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iii)(iv)"
 lat: 13.90639
 lon: -4.555
-updated_at: "2026-11-10T14:47:49Z"
+updated_at: "2026-11-10T23:01:07Z"
 ---
 
 # 杰内古城 / Old Towns of Djenné
@@ -61,6 +61,6 @@ Visa required[6] Holders of passports for public affairs do not require a visa.[
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/116)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Old%20Towns%20of%20Djenn%C3%A9)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

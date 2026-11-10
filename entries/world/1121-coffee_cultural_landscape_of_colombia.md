@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(v)(vi)"
 lat: 4.1597
 lon: -76.3947
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 哥伦比亚咖啡文化景观 / Coffee Cultural Landscape of Colombia
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T14:47:59Z"
 > 哥伦比亚 · 文化遗产
 
 ## 图片 / Images
+
+![CATARATA ATALAYA.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/CATARATA_ATALAYA.jpg/1280px-CATARATA_ATALAYA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*CATARATA ATALAYA.jpg · Rocío Bélgica Campos · CC BY-SA 4.0*
+
+![Eje 1.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Eje_1.jpg/1280px-Eje_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Eje 1.jpg · Edwinzon · CC BY-SA 4.0*
+
+![Eje Cafetero.jpg](https://upload.wikimedia.org/wikipedia/commons/3/31/Eje_Cafetero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Eje Cafetero.jpg · Rope.96 · CC BY-SA 4.0*
+
+![El Águila (26), Valle, Colombia.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/El_%C3%81guila_%2826%29%2C_Valle%2C_Colombia.JPG/1280px-El_%C3%81guila_%2826%29%2C_Valle%2C_Colombia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*El Águila (26), Valle, Colombia.JPG · Hoako · CC BY-SA 3.0*
 
 ![Coffee Cultural Landscape of Colombia](https://whc.unesco.org/uploads/sites/site_1121.jpg)
 

@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(vii)(ix)"
 lat: 17.0
 lon: 23.0
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # Ennedi 高地：自然和文化景观 / Ennedi Massif: Natural and Cultural Landscape
@@ -70,6 +70,6 @@ eVisa[6][38] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1475)
-- [Wikipedia](https://en.wikipedia.org/wiki/Ennedi%20Plateau)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2021"
 criteria: "(ii)(iii)(iv)"
-lat: 46.306111111111115
-lon: 23.130555555555556
-updated_at: "2026-11-10T14:48:03Z"
+lat: 46.306111111
+lon: 23.130555555
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 罗西亚蒙大拿矿业景观 / Roșia Montană Mining Landscape

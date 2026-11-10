@@ -23,13 +23,13 @@
  "name_zh": "瑙姆堡大教堂",
  "name_zh_source": "unesco_official",
  "name_en": "Naumburg Cathedral",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Naumburger Dom",
+ "local_lang": "de",
+ "local_lang_name": "German",
  "slug": "1470-naumburg_cathedral",
- "lat": 51.154722222222,
- "lon": 11.803888888889,
- "coord_accuracy": "wikidata_search",
+ "lat": 51.154722222,
+ "lon": 11.803888888,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "Located in the eastern part of the Thuringian Basin, the Cathedral of Naumburg, whose construction began in 1028, is an outstanding testimony to medieval art and architecture. Its Romanesque structure, flanked by two Gothic choirs, demonstrates the stylistic transition from late Romanesque to early Gothic. The west choir, dating to the first half of the 13th century, reflects changes in religious practice and the appearance of science and nature in the figurative arts. The choir and life-size sculptures of the founders of the Cathedral are masterpieces of the workshop known as the ‘Naumburg Master’.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Der heute evangelische Naumburger Dom St. Peter und Paul in Naumburg (Saale) ist die ehemalige Kathedrale des Bistums Naumburg und stammt größtenteils aus der ersten Hälfte des 13. Jahrhunderts. Er gehört zu den bedeutendsten Bauwerken der Spätromanik in Sachsen-Anhalt, ist eine Station an der Straße der Romanik und seit 2018 UNESCO-Weltkulturerbe. Der Naumburger Dom ist eine Doppelchoranlage – d. h. mit je einem Chor an beiden Schmalseiten. Der berühmte Westchor entstand in der zweiten Hälfte des 13. Jahrhunderts und ist mit dem West-Lettner und den Stifterfiguren aus der Werkstatt des Naumburger Meisters eines der wichtigsten Bauwerke der Frühgotik. Nach der Reformation wurde 1542 mit Nikolaus von Amsdorf zum ersten Mal im Reich ein evangelischer Bischof eingesetzt. Nach dem Tod des letzten Bischofs Julius von Pflug 1564 wurde das Bistum aufgelöst und fiel an Kursachsen, die Kirche verlor ihre Funktion als Bischofssitz. Sie blieb jedoch die Kirche der evangelischen Domgemeinde. Heute wird der Dom von einer Stiftung verwaltet – den Vereinigten Domstiftern von Merseburg, Naumburg und des Kollegiatstifts Zeitz. Dombaumeisterin ist Regine Hartkopf.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1470.jpg",
@@ -136,11 +136,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
   "official_unesco": [
    "en",
    "zh",
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 36
  },
  "sources": [
   {
@@ -157,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/1470"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Naumburg%20Cathedral"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:03Z"
+ "updated_at": "2026-11-10T23:01:19Z"
 }

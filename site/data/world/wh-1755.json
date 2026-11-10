@@ -27,8 +27,8 @@
  "local_lang": "fr",
  "local_lang_name": "French",
  "slug": "1755-royal_capetian_fortresses_of_languedoc",
- "lat": 38.14629909917778,
- "lon": 1.0614192457555562,
+ "lat": 38.64928390089583,
+ "lon": 1.2061245243750005,
  "coord_accuracy": "country_centroid",
  "category": "Cultural",
  "category_zh": "文化遗产",
@@ -66,7 +66,7 @@
     "lat": 38.872898,
     "lon": 1.37312,
     "type": "large_airport",
-    "distance_km": 85.2,
+    "distance_km": 28.8,
     "name_zh": "Ibiza（IBZ）"
    },
    {
@@ -77,22 +77,22 @@
     "lat": 38.2822,
     "lon": -0.558156,
     "type": "large_airport",
-    "distance_km": 142.3,
+    "distance_km": 158.9,
     "name_zh": "阿利坎特"
    },
    {
-    "name": "Region of Murcia International Airport",
-    "iata": "RMU",
-    "city": "Corvera",
+    "name": "Palma de Mallorca Airport",
+    "iata": "PMI",
+    "city": "Palma de Mallorca",
     "country": "ES",
-    "lat": 37.802852,
-    "lon": -1.124884,
+    "lat": 39.551701,
+    "lon": 2.73881,
     "type": "large_airport",
-    "distance_km": 195.4,
-    "name_zh": "穆尔西亚地区国际机场"
+    "distance_km": 166.0,
+    "name_zh": "马略卡岛帕尔马机场"
    }
   ],
-  "nearest_airport_km": 85.2,
+  "nearest_airport_km": 28.8,
   "distance_beijing_km": 9046.1,
   "ferry_terminals": [],
   "railway_stations": []
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:05Z"
+ "updated_at": "2026-11-10T23:01:21Z"
 }

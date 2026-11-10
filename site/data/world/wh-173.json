@@ -23,13 +23,13 @@
  "name_zh": "桑给巴尔石头城",
  "name_zh_source": "unesco_official",
  "name_en": "Stone Town of Zanzibar",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Mji Mkongwe",
+ "local_lang": "sw",
+ "local_lang_name": "Swahili",
  "slug": "173-stone_town_of_zanzibar",
- "lat": -6.1649444444444,
- "lon": 39.198788888889,
- "coord_accuracy": "wikidata_search",
+ "lat": -6.164944444,
+ "lon": 39.198788888,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Mji Mkongwe (kwa Kiingereza: Stone Town) ndio sehemu ya kale ya Jiji la Zanzibar, mji mkubwa wa kisiwa cha Unguja na mji mkuu wa Jamhuri ya Watu wa Zanzibar. Kama kitovu cha historia yake kilichoathiriwa na utamaduni wa Waarabu, wa Waajemi, wa Wahindi na wa Wazungu, Mji Mkongwe umeandikishwa katika orodha ya UNESCO ya \"Urithi wa Dunia\" (World Heritage). Nyumba za Mji Mkongwe zilijengwa tangu mwaka 1830, wakati Sultani Sayyid Said alipohamisha mji mkuu wake kutoka Omani kuja Unguja. Kati ya majengo maarufu ni Beit al Ajaib (Jumba la Maajabu lililobomoka tarehe 24 Desemba 2020), Jumba la Sultani, Ngome Kongwe, Kanisa Kuu la Anglikana lililojengwa mahali pa soko la watumwa na hasa nyumba nyingi za kihistoria za ghorofa zilizojengwa na familia za tabaka la matajiri Waarabu zenye milango yenye mapambo mazuri. Mji Mkongwe unapokea watalii wengi kila mwaka. Mji wa kisasa umekua sana ng'ambo ya Mji Mkongwe.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_173.jpg",
@@ -136,11 +136,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "sw",
+  "local_lang_name": "Swahili",
   "official_unesco": [
    "en",
    "zh",
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 48
  },
  "sources": [
   {
@@ -157,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/173"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stone%20Town"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:50Z"
+ "updated_at": "2026-11-10T23:01:08Z"
 }

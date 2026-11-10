@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(ii)(iii)(iv)"
 lat: 34.796725
 lon: 33.343719444
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 乔伊鲁科蒂亚 / Choirokoitia
@@ -71,6 +71,6 @@ Visa required[6] Holders of valid double or multiple entry Schengen visa, as wel
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/848)
-- [Wikipedia](https://en.wikipedia.org/wiki/Khirokitia)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

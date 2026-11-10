@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(x)"
 lat: -1.05
 lon: 29.71666667
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 布恩迪难以穿越的国家公园 / Bwindi Impenetrable National Park
@@ -94,6 +94,6 @@ eVisa[6][152] Can also be entered on an East Africa Tourist Visa issued by Kenya
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/682)
-- [Wikipedia](https://en.wikipedia.org/wiki/Bwindi%20Impenetrable%20National%20Park)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

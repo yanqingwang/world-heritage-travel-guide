@@ -23,13 +23,13 @@
  "name_zh": "圣克里斯托旺的圣弗朗西斯科广场",
  "name_zh_source": "unesco_official",
  "name_en": "São Francisco Square in the Town of São Cristóvão",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Praça São Francisco",
+ "local_lang": "pt",
+ "local_lang_name": "Portuguese",
  "slug": "1272-são_francisco_square_in_the_town_of_são_",
  "lat": -11.01361111,
  "lon": -37.20555556,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "São Francisco Square, in the town of São Cristovão, is a quadrilateral open space surrounded by substantial early buildings such as São Francisco Church and convent, the Church and Santa Casa da Misericórdia, the Provincial Palace and the associated houses of different historical periods surrounding the Square. This monumental ensemble, together with the surrounding 18th- and 19th- century houses, creates an urban landscape which reflects the history of the town since its origin. The Franciscan complex is an example of the typical architecture of the religious order developed in north-eastern Brazil.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "A Praça São Francisco é uma praça localizada no centro histórico da cidade brasileira de São Cristóvão, no estado de Sergipe. A Praça foi fundada junto com a cidade em 1607, e seu entorno possui edificações construídas entre os séculos XVII e XIX. Foi protegida em nível estadual e nacional e designada Patrimônio da Humanidade em 1º de agosto de 2010 pela UNESCO pelo seu valor como documento histórico, paisagístico, urbanístico e sociocultural do período da União Ibérica, sendo um importante representante dos modelos combinados de urbanismo português e espanhol, tendo em seu redor relevantes prédios históricos.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1272.jpg",
@@ -137,9 +137,9 @@
   "en": true,
   "ja": false,
   "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local": true,
+  "local_lang": "pt",
+  "local_lang_name": "Portuguese",
   "official_unesco": [
    "en",
    "zh",
@@ -148,7 +148,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 17
  },
  "sources": [
   {
@@ -156,8 +156,8 @@
    "url": "https://whc.unesco.org/en/list/1272"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/S%C3%A3o%20Francisco%20Square"
   },
   {
    "name": "OpenStreetMap",
@@ -168,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:01Z"
+ "updated_at": "2026-11-10T23:01:17Z"
 }

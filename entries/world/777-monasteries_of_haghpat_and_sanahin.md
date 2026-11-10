@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ii)(iv)"
 lat: 41.095
 lon: 44.71028
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 哈格帕特修道院和萨那欣修道院 / Monasteries of Haghpat and Sanahin

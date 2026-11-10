@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(ix)(x)"
 lat: 11.25
 lon: -16.083333333
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 比热戈斯群岛海岸与海洋生态系统——祖灵圣境 / Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô

@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(ii)(vi)"
 lat: 54.97889
 lon: 49.05639
-updated_at: "2026-11-10T14:47:58Z"
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 鞑靼斯坦博尔格尔历史和考古遗址 / Bolgar Historical and Archaeological Complex

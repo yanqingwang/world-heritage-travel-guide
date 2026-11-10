@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iii)(v)"
 lat: 32.670833333
 lon: 34.966111111
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 梅尔瓦特河原始保留区 / Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves
@@ -73,6 +73,6 @@ Visa required[6] As of 2017 visas are issued with a 10-year validity period.[65]
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1393)
-- [Wikipedia](https://en.wikipedia.org/wiki/Nahal%20Me%27arot%20Nature%20Reserve)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

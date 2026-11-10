@@ -29,7 +29,7 @@
  "slug": "1147-ecosystem_and_relict_cultural_landscape_",
  "lat": -0.5,
  "lon": 11.5,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Mixed",
  "category_zh": "混合遗产",
  "category_en": "Mixed",
@@ -44,6 +44,14 @@
  "intro_local": "Le bien présente une interface inhabituelle entre une forêt tropicale ombrophile dense bien conservée et un milieu de savane relique abritant un large éventail d’habitats et d’espèces, parmi lesquelles de grands mammifères en voie de disparition. Il illustre des processus écologiques et biologiques d’adaptation des espèces et des habitats aux changements climatiques postglaciaires. Cet ensemble regroupant des sites datant du néolithique et de l’âge du fer et incluant des vestiges d’œuvres d’art rupestre est le reflet d’un axe migratoire majeur emprunté par les Bantous et par d’autres peuples originaires d’Afrique de l’Ouest qui longeaient la vallée de l’Ogooué pour se rendre vers le nord des forêts sempervirentes denses du Congo et vers le centre, l’est et le sud du continent africain. Ces flux migratoires ont façonné le développement de toute l’Afrique subsaharienne.",
  "intro_local_source": "unesco_official",
  "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/LocMap_of_WH_Ecosystem_and_Relict_Cultural_Landscape_of_Lop%C3%A9-Okanda.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "LocMap of WH Ecosystem and Relict Cultural Landscape of Lopé-Okanda.PNG",
+   "author": "The original uploader was 春秋君 at Japanese Wikipedia .",
+   "license": "CC BY-SA 3.0",
+   "credit": "世界地図（ File:WorldMap_ja.png ）より作成",
+   "source": "https://commons.wikimedia.org/wiki/File:LocMap_of_WH_Ecosystem_and_Relict_Cultural_Landscape_of_Lop%C3%A9-Okanda.PNG"
+  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1147.jpg",
    "title": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
@@ -135,7 +143,7 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": true,
   "local_lang": "fr",
@@ -148,7 +156,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 18
  },
  "sources": [
   {
@@ -168,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:00Z"
+ "updated_at": "2026-11-10T23:01:16Z"
 }

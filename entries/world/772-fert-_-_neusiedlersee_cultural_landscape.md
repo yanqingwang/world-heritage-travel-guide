@@ -3,7 +3,7 @@ id: "wh-772"
 dataset: "unesco"
 name_zh: "新锡德尔湖与费尔特湖地区文化景观"
 name_en: "Fertö / Neusiedlersee Cultural Landscape"
-name_local: ""
+name_local: "Kulturlandschaft Fertő/Neusiedler See"
 country: "AT"
 country_zh: "奥地利"
 country_en: "Austria"
@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(v)"
 lat: 47.80055556
 lon: 16.73472222
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 新锡德尔湖与费尔特湖地区文化景观 / Fertö / Neusiedlersee Cultural Landscape
@@ -37,6 +37,12 @@ updated_at: "2026-11-10T14:47:56Z"
 
 The Fert ö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area's considerable cultural interest.
 
+## 本地语言 / Local language (German)
+
+**Kulturlandschaft Fertő/Neusiedler See**
+
+Die Kulturlandschaft Fertő/Neusiedler See (englisch Fertö / Neusiedlersee Cultural Landscape) ist ein grenzübergreifendes UNESCO-Welterbe im österreichischen Burgenland und dem ungarischen Komitat Győr-Moson-Sopron. Das Gebiet wurde im Jahr 2001 zum Welterbe ernannt. Es umfasst den Neusiedlersee, dessen Uferräume sowie die Orte am Ufer. Die Welterbe-Zone entspricht dem österreichischen Nationalpark Neusiedler See–Seewinkel und dem ungarischen Fertő-Hanság Nemzeti Park inklusive deren Randzonen.
+
 ## 交通 / Transport
 
 - ✈ **Vienna International Airport (VIE)** — 36.6 km
@@ -54,7 +60,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

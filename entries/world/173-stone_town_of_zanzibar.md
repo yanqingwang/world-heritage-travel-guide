@@ -3,7 +3,7 @@ id: "wh-173"
 dataset: "unesco"
 name_zh: "桑给巴尔石头城"
 name_en: "Stone Town of Zanzibar"
-name_local: ""
+name_local: "Mji Mkongwe"
 country: "TZ"
 country_zh: "坦桑尼亚"
 country_en: "Tanzania"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2000"
 criteria: "(ii)(iii)(vi)"
-lat: -6.1649444444444
-lon: 39.198788888889
-updated_at: "2026-11-10T14:47:50Z"
+lat: -6.164944444
+lon: 39.198788888
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 桑给巴尔石头城 / Stone Town of Zanzibar
@@ -37,6 +37,12 @@ updated_at: "2026-11-10T14:47:50Z"
 
 The Stone Town of Zanzibar is a fine example of the Swahili coastal trading towns of East Africa. It retains its urban fabric and townscape virtually intact and contains many fine buildings that reflect its particular culture, which has brought together and homogenized disparate elements of the cultures of Africa, the Arab region, India, and Europe over more than a millennium.
 
+## 本地语言 / Local language (Swahili)
+
+**Mji Mkongwe**
+
+Mji Mkongwe (kwa Kiingereza: Stone Town) ndio sehemu ya kale ya Jiji la Zanzibar, mji mkubwa wa kisiwa cha Unguja na mji mkuu wa Jamhuri ya Watu wa Zanzibar. Kama kitovu cha historia yake kilichoathiriwa na utamaduni wa Waarabu, wa Waajemi, wa Wahindi na wa Wazungu, Mji Mkongwe umeandikishwa katika orodha ya UNESCO ya "Urithi wa Dunia" (World Heritage). Nyumba za Mji Mkongwe zilijengwa tangu mwaka 1830, wakati Sultani Sayyid Said alipohamisha mji mkuu wake kutoka Omani kuja Unguja. Kati ya majengo maarufu ni Beit al Ajaib (Jumba la Maajabu lililobomoka tarehe 24 Desemba 2020), Jumba la Sultani, Ngome Kongwe, Kanisa Kuu la Anglikana lililojengwa mahali pa soko la watumwa na hasa nyumba nyingi za kihistoria za ghorofa zilizojengwa na familia za tabaka la matajiri Waarabu zenye milango yenye mapambo mazuri. Mji Mkongwe unapokea watalii wengi kila mwaka. Mji wa kisasa umekua sana ng'ambo ya Mji Mkongwe.
+
 ## 交通 / Transport
 
 - ✈ **Abeid Amani Karume International Airport (ZNZ)** — 7.0 km
@@ -54,13 +60,13 @@ eVisa / Visa on arrival[6][146] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/173)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Stone%20Town)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

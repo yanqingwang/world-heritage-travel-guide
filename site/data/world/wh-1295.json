@@ -27,9 +27,9 @@
  "local_lang": null,
  "local_lang_name": null,
  "slug": "1295-fort_jesus,_mombasa",
- "lat": -4.0711666666667,
- "lon": 39.682055555556,
- "coord_accuracy": "wikidata_search",
+ "lat": -4.071166666,
+ "lon": 39.682055555,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -136,7 +136,7 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": false,
   "local_lang": null,
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 48
  },
  "sources": [
   {
@@ -157,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/1295"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fort%20Jesus"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:01Z"
+ "updated_at": "2026-11-10T23:01:17Z"
 }

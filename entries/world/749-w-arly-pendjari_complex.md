@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(ix)(x)"
 lat: 11.53
 lon: 2.29
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # W-阿尔利-彭贾里跨国联合公园 / W-Arly-Pendjari Complex
@@ -35,11 +35,13 @@ updated_at: "2026-11-10T14:47:56Z"
 
 ### 中文
 
-W-阿尔利-彭贾里跨国联合公园（英語：W-Arly-Pendjari Complex），又称W-阿尔利-彭贾里保护区、WAP联合公园，是横跨贝宁、布基纳法索和尼日尔三国的世界自然遗产。它包含以下三部分： 布基纳法索的阿爾利國家公園 贝宁的彭賈里國家公園 三国共有的W国家公园 自2005年以来，该保护区被视为非洲狮保护地，是非洲狮的潜在据点。
+尼日尔 W 国家公园的跨国延伸（贝宁、布基纳法索）于 1996 年被列入世界遗产名录，覆盖了大片完整的苏丹-萨赫勒稀树草原，植被类型包括草原、灌木地、树木繁茂的稀树草原和广阔的长廊森林。它包括西非大草原带最大和最重要的陆地、半水生和水生生态系统的连续体。该地产是在西非其他地方消失或受到高度威胁的野生动物物种的避难所。它是西非最大的大象种群和该地区大多数典型大型哺乳动物的家园，如非洲海牛、猎豹、狮子和豹子。它还拥有该地区唯一能存活的狮子种群。
 
 ### English
 
 This transnational extension (Benin, Burkina Faso) to the W National Park of Niger, inscribed in 1996 on the World Heritage List, cover a major expanse of intact Sudano-Sahelian savannah, with vegetation types including grasslands, shrub lands, wooded savannah and extensive gallery forests. It includes the largest and most important continuum of terrestrial, semi-aquatic and aquatic ecosystems in the West African savannah belt. The property is a refuge for wildlife species that have disappeared elsewhere in West Africa or are highly threatened. It is home to the largest population of elephants in West Africa and most of the large mammals typical of the region, such as the African Manatee, cheetah, lion and leopard. It also harbours the only viable population of lions in the region.
+
+*中文简介：机器翻译。*
 
 ## 交通 / Transport
 
@@ -64,6 +66,6 @@ eVisa[6][33] Holders of passports for public affairs do not require a visa.[18]
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/749)
-- [Wikipedia](https://en.wikipedia.org/wiki/W%E2%80%93Arly%E2%80%93Pendjari%20Complex)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

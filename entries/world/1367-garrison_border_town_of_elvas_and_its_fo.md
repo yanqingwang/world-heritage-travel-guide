@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(iv)"
 lat: 38.88055556
 lon: -7.16333333
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 埃尔瓦斯的驻军边境城镇及其防御工事 / Garrison Border Town of Elvas and its Fortifications

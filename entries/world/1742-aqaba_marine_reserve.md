@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ix)(x)"
 lat: 29.4307022
 lon: 34.9718427
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 亚喀巴海洋保护区 / Aqaba Marine Reserve

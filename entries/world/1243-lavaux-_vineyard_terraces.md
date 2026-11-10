@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(iii)(iv)(v)"
 lat: 46.491944444
 lon: 6.746111111
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 拉沃葡萄园梯田 / Lavaux, Vineyard Terraces

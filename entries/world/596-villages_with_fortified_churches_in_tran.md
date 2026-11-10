@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
-lat: 46.03529961928571
-lon: 24.58737260285714
-updated_at: "2026-11-10T14:47:54Z"
+lat: 46.25402316066666
+lon: 24.57501819722222
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 特兰西瓦尼亚村落及其设防的教堂 / Villages with Fortified Churches in Transylvania
@@ -49,10 +49,10 @@ Satele cu biserici fortificate din Transilvania constituie un sit în Patrimoniu
 
 ## 交通 / Transport
 
-- ✈ **Sibiu International Airport (SBZ)** — 47.6 km
-- ✈ **Târgu Mureş Transilvania International Airport (TGM)** — 49.9 km
-- ✈ **Brașov-Ghimbav International Airport (GHV)** — 81.2 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **7117.6 km**
+- ✈ **Târgu Mureş Transilvania International Airport (TGM)** — 26.8 km
+- ✈ **Sibiu International Airport (SBZ)** — 64.3 km
+- ✈ **Avram Iancu Cluj International Airport (CLJ)** — 90.2 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **7056.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

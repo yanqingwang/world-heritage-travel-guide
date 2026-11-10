@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(x)"
 lat: 37.123444
 lon: 9.655444
-updated_at: "2026-11-10T14:47:48Z"
+updated_at: "2026-11-10T23:01:06Z"
 ---
 
 # 伊其克乌尔国家公园 / Ichkeul National Park

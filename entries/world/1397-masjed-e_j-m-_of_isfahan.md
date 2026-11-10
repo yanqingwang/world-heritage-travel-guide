@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ii)"
 lat: 32.669722222
 lon: 51.685277777
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 伊斯法罕聚礼清真寺 / Masjed-e Jāmé of Isfahan
@@ -35,11 +35,13 @@ updated_at: "2026-11-10T14:48:02Z"
 
 ### 中文
 
-伊斯法罕聚礼清真寺 (波斯語：مسجد جامع اصفهان – Masjid-e-Jāmeh Isfahān) 是伊朗伊斯法罕的大型清真寺，兴建和修复从771年直到20世纪末。2012年列为世界遗产。其西南侧毗邻伊斯法罕大巴扎。 这是伊朗最古老的清真寺之一，包括四座不同时代的宗教建筑-iwan.拥有华丽的马赛克装饰。
+Masjed-e Jāmé（“星期五清真寺”）位于伊斯法罕的历史中心，可以被视为自公元 841 年起十二个世纪以来清真寺建筑演变的惊人例证。它是伊朗保存最古老的同类建筑，也是后来整个中亚清真寺设计的原型。该建筑群占地20000多平方米，也是第一座将萨珊王朝宫殿四庭院布局适应伊斯兰宗教建筑的伊斯兰建筑。其双壳肋状圆顶代表了一种建筑创新，激发了整个地区的建筑商的灵感。该遗址还拥有引人注目的装饰细节，代表了一千多年来伊斯兰艺术的风格发展。
 
 ### English
 
 Located in the historic centre of Isfahan, the Masjed-e Jāmé (‘Friday mosque’) can be seen as a stunning illustration of the evolution of mosque architecture over twelve centuries, starting in ad 841. It is the oldest preserved edifice of its type in Iran and a prototype for later mosque designs throughout Central Asia. The complex, covering more than 20,000 m 2 , is also the first Islamic building that adapted the four-courtyard layout of Sassanid palaces to Islamic religious architecture. Its double-shelled ribbed domes represent an architectural innovation that inspired builders throughout the region. The site also features remarkable decorative details representative of stylistic developments over more than a thousand years of Islamic art.
+
+*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Persian)
 
@@ -71,6 +73,6 @@ Visa not required[6][60] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1397)
-- [Wikipedia](https://en.wikipedia.org/wiki/Jameh%20Mosque%20of%20Isfahan)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

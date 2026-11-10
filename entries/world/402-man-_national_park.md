@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ix)(x)"
 lat: -12.14
 lon: -71.66
-updated_at: "2026-11-10T14:47:52Z"
+updated_at: "2026-11-10T23:01:10Z"
 ---
 
 # 玛努国家公园 / Manú National Park

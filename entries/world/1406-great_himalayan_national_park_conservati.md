@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(x)"
 lat: 31.804288
 lon: 77.951021
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 大喜马拉雅山脉国家公园保护区 / Great Himalayan National Park Conservation Area
@@ -35,11 +35,13 @@ updated_at: "2026-11-10T14:48:02Z"
 
 ### 中文
 
-大喜马拉雅山脈国家公园（Great Himalayan National Park）是印度的一個國家公園，位于喜马偕尔邦古卢地区Banjar。该公园成立于1984年，占地1171km2，海拔位於1500到 6000米之间。大喜马拉雅山脈国家公园是众多植物和超过 375种动物的棲息地，其中包括大约31种哺乳动物、181种鸟类、3种爬行动物、9种两栖动物、11种环节动物、17种软体动物和127种昆虫。它们受到1972年的野生动物保护法的保護，因此任何形式的狩猎都被禁止。 2014年6月，大喜马拉雅山脈国家公园被列入联合国教科文组织世界遗产。
+这个国家公园位于印度北部喜马偕尔邦喜马拉雅山脉西部，以高山山峰、高山草甸和河流森林为特色。这片 90,540 公顷的土地包括多条河流的高山冰川和雪融水源，以及对数百万下游用户至关重要的供水集水区。 GHNPCA 保护喜马拉雅山前缘地区受季风影响的森林和高山草甸。它是喜马拉雅生物多样性热点地区的一部分，包括二十五种森林类型以及丰富的动物物种组合，其中一些动物物种受到威胁。这使得该地点对于生物多样性保护具有突出的意义。
 
 ### English
 
 This National Park in the western part of the Himalayan Mountains in the northern Indian state of Himachal Pradesh is characterized by high alpine peaks, alpine meadows and riverine forests. The 90,540 ha property includes the upper mountain glacial and snow meltwater sources of several rivers, and the catchments of water supplies that are vital to millions of downstream users. The GHNPCA protects the monsoon-affected forests and alpine meadows of the Himalayan front ranges. It is part of the Himalaya biodiversity hotspot and includes twenty-five forest types along with a rich assemblage of fauna species, several of which are threatened. This gives the site outstanding significance for biodiversity conservation.
+
+*中文简介：机器翻译。*
 
 ## 交通 / Transport
 
@@ -65,6 +67,6 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1406)
-- [Wikipedia](https://en.wikipedia.org/wiki/Great%20Himalayan%20National%20Park)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

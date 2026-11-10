@@ -12,9 +12,9 @@ tier: "full"
 category: "Cultural"
 year: "1993"
 criteria: "(iv)"
-lat: 16.469444444
-lon: 107.577777777
-updated_at: "2026-11-10T14:47:55Z"
+lat: 19.283347222142854
+lon: 106.81887417457143
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 顺化历史建筑群 / Complex of Hué Monuments
@@ -61,9 +61,9 @@ Hoàng thành Huế (chữ Hán: 皇城) hay còn được gọi là Đại Nộ
 
 ## 交通 / Transport
 
-- ✈ **Phu Bai International Airport (HUI)** — 15.5 km
-- ✈ **Da Nang International Airport (DAD)** — 81.5 km
-- ✈ **Dong Hoi Airport (VDH)** — 156.6 km
+- ✈ **Vinh Airport (VII)** — 135.1 km
+- ✈ **Tho Xuan Airport (THD)** — 157.4 km
+- ✈ **Cat Bi International Airport (HPH)** — 170.9 km
 - 🚉 **Huế** — 1.4 km
 - 🚉 **Văn Xá** — 9.0 km
 - 🚉 **Hương Thuỷ** — 10.9 km
@@ -74,7 +74,7 @@ Hoàng thành Huế (chữ Hán: 皇城) hay còn được gọi là Đại Nộ
 - ⛴ **Truồi** — 26.4 km
 - ⛴ **Bến Tàu Túy Vân** — 36.3 km
 - ⛴ **Cầu Hai** — 38.0 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **2769.3 km**
+- ✈ 距北京直线距离 / great-circle from Beijing: **2593.0 km**
 
 ## 附近酒店 / Nearby hotels
 
@@ -103,6 +103,6 @@ eVisa[6][161] e-Visa is valid for 90 days and multiple entry. Holders of passpor
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/678)
-- [Wikipedia](https://en.wikipedia.org/wiki/Imperial%20City%20of%20Hu%E1%BA%BF)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(vii)(x)"
 lat: 19.383333333
 lon: -87.791666666
-updated_at: "2026-11-10T14:47:53Z"
+updated_at: "2026-11-10T23:01:10Z"
 ---
 
 # 圣卡安 / Sian Ka'an

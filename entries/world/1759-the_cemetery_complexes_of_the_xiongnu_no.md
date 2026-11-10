@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 48.94749036983333
 lon: 101.633684444
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 匈奴贵族墓葬群 / The Cemetery Complexes of the Xiongnu Nobility

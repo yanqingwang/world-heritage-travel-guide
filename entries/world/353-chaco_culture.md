@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1987"
 criteria: "(iii)"
-lat: 36.063777777778
-lon: -107.97083333333
-updated_at: "2026-11-10T14:47:52Z"
+lat: 36.063777777
+lon: -107.970833333
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 查科文化国家历史公园 / Chaco Culture

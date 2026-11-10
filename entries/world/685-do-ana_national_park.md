@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(vii)(ix)(x)"
 lat: 37.02
 lon: -6.44
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 多南那国家公园 / Doñana National Park
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/685)
-- [Wikipedia](https://en.wikipedia.org/wiki/Do%C3%B1ana%20National%20Park)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

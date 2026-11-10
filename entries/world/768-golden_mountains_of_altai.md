@@ -14,7 +14,7 @@ year: "1998"
 criteria: "(x)"
 lat: 50.466666666
 lon: 86.0
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 金山-阿尔泰山 / Golden Mountains of Altai

@@ -24,12 +24,12 @@
  "name_zh_source": "unesco_official",
  "name_en": "Red Fort Complex",
  "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "local_lang": "hi",
+ "local_lang_name": "Hindi",
  "slug": "231-red_fort_complex",
- "lat": 28.65583333,
- "lon": 77.24083333,
- "coord_accuracy": "wikipedia",
+ "lat": 28.655833333,
+ "lon": 77.240277777,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -76,7 +76,7 @@
     "lat": 28.55563,
     "lon": 77.09519,
     "type": "large_airport",
-    "distance_km": 18.1,
+    "distance_km": 18.0,
     "name_zh": "英迪拉·甘地国际机场"
    },
    {
@@ -137,11 +137,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local_lang": "hi",
+  "local_lang_name": "Hindi",
   "official_unesco": [
    "en",
    "zh",
@@ -150,7 +150,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 76
  },
  "sources": [
   {
@@ -158,8 +158,8 @@
    "url": "https://whc.unesco.org/en/list/231"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red%20Fort"
   },
   {
    "name": "OpenStreetMap",
@@ -170,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:51Z"
+ "updated_at": "2026-11-10T23:01:08Z"
 }

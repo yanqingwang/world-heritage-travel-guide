@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(v)(vii)(viii)"
 lat: 20.2557
 lon: 105.9156
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 长安名胜群 / Trang An Landscape Complex

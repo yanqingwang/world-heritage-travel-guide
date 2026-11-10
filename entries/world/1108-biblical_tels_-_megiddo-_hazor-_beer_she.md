@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 32.59722
 lon: 35.18222
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 米吉多、夏琐和基色圣地 / Biblical Tels - Megiddo, Hazor, Beer Sheba
@@ -22,6 +22,18 @@ updated_at: "2026-11-10T14:47:59Z"
 > 以色列 · 文化遗产
 
 ## 图片 / Images
+
+![Hatzor-HouseofPillars.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Hatzor-HouseofPillars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Hatzor-HouseofPillars.jpg · The Neolithic ram · CC BY-SA 2.0*
+
+![THE BIBLICAL WORLD 1896-06- Vol 7 Iss 6 (IA sim biblical-world 1896-06 7 6).pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/THE_BIBLICAL_WORLD_1896-06-_Vol_7_Iss_6_%28IA_sim_biblical-world_1896-06_7_6%29.pdf/page1-500px-THE_BIBLICAL_WORLD_1896-06-_Vol_7_Iss_6_%28IA_sim_biblical-world_1896-06_7_6%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*THE BIBLICAL WORLD 1896-06- Vol 7 Iss 6 (IA sim biblical-world 1896-06 7 6).pdf · Public domain*
+
+![Tel Be'er Sheva Overview 2007041.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tel_Be%27er_Sheva_Overview_2007041.JPG/1280px-Tel_Be%27er_Sheva_Overview_2007041.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tel Be'er Sheva Overview 2007041.JPG · gugganij · CC BY-SA 3.0*
 
 ![Biblical Tels - Megiddo, Hazor, Beer Sheba](https://whc.unesco.org/uploads/sites/site_1108.jpg)
 

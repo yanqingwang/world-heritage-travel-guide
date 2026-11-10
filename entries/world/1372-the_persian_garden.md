@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2011"
 criteria: "(i)(ii)(iii)(iv)(vi)"
-lat: 33.74695630819231
-lon: 51.33943194923077
-updated_at: "2026-11-10T14:48:02Z"
+lat: 33.614404428444445
+lon: 51.4889180087037
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 波斯园林 / The Persian Garden
@@ -39,9 +39,9 @@ The property includes nine gardens in as many provinces. They exemplify the dive
 
 ## 交通 / Transport
 
-- ✈ **Kashan Airport (KKS)** — 27.5 km
-- ✈ **Isfahan Shahid Beheshti International Airport (IFN)** — 121.3 km
-- ✈ **Imam Khomeini International Airport (IKA)** — 186.4 km
+- ✈ **Kashan Airport (KKS)** — 32.3 km
+- ✈ **Isfahan Shahid Beheshti International Airport (IFN)** — 102.4 km
+- ✈ **Imam Khomeini International Airport (IKA)** — 202.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **5686.7 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

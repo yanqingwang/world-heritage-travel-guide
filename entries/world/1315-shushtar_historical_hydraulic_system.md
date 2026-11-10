@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(i)(ii)(v)"
 lat: 32.053723
 lon: 48.848687
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 舒什塔尔历史水力系统 / Shushtar Historical Hydraulic System

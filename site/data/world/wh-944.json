@@ -27,8 +27,8 @@
  "local_lang": "hi",
  "local_lang_name": "Hindi",
  "slug": "944-mountain_railways_of_india",
- "lat": 22.824966552410256,
- "lon": 79.36635501135898,
+ "lat": 22.75877910565116,
+ "lon": 78.97488981386047,
  "coord_accuracy": "country_centroid",
  "category": "Cultural",
  "category_zh": "文化遗产",
@@ -77,18 +77,19 @@
     "lat": 23.177799,
     "lon": 80.052002,
     "type": "medium_airport",
-    "distance_km": 80.4,
+    "distance_km": 119.7,
     "name_zh": "贾巴尔普尔机场"
    },
    {
-    "name": "Gondia Airport",
-    "iata": "GDB",
-    "city": "Gondia",
+    "name": "Raja Bhoj International Airport",
+    "iata": "BHO",
+    "city": "Bhopal",
     "country": "IN",
-    "lat": 21.526817,
-    "lon": 80.290347,
-    "type": "medium_airport",
-    "distance_km": 172.9
+    "lat": 23.2875,
+    "lon": 77.337402,
+    "type": "large_airport",
+    "distance_km": 177.6,
+    "name_zh": "Raja Bhoj机场"
    },
    {
     "name": "Dr. Babasaheb Ambedkar International Airport",
@@ -98,11 +99,11 @@
     "lat": 21.092199,
     "lon": 79.047203,
     "type": "large_airport",
-    "distance_km": 195.5,
+    "distance_km": 185.5,
     "name_zh": "巴巴萨海布·阿姆倍伽尔博士国际机场"
    }
   ],
-  "nearest_airport_km": 80.4,
+  "nearest_airport_km": 119.7,
   "distance_beijing_km": 3898.0,
   "ferry_terminals": [],
   "railway_stations": []
@@ -180,5 +181,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:58Z"
+ "updated_at": "2026-11-10T23:01:14Z"
 }

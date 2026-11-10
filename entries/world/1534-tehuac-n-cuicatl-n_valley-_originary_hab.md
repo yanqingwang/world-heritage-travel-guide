@@ -12,9 +12,9 @@ tier: "basic"
 category: "Mixed"
 year: "2018"
 criteria: "(iv)(x)"
-lat: 18.2113889
-lon: -97.3994444
-updated_at: "2026-11-10T14:48:03Z"
+lat: 18.2114
+lon: -97.3994
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 特瓦坎-奎卡特兰山谷：中部美洲的原始栖息地 / Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica
@@ -67,6 +67,6 @@ Visa required[6] National visa may be substituted with a valid visa (of any cate
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1534)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Tehuac%C3%A1n-Cuicatl%C3%A1n%20Biosphere%20Reserve)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

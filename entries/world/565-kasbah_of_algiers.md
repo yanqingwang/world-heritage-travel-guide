@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(ii)(v)"
 lat: 36.78333
 lon: 3.06028
-updated_at: "2026-11-10T14:47:54Z"
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 阿尔及尔城堡 / Kasbah of Algiers

@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(vii)(viii)(ix)"
 lat: 46.5
 lon: 8.033333
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 少女峰–阿雷奇冰河–毕奇霍恩峰 / Swiss Alps Jungfrau-Aletsch

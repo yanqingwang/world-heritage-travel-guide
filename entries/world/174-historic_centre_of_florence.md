@@ -3,7 +3,7 @@ id: "wh-174"
 dataset: "unesco"
 name_zh: "佛罗伦萨历史中心"
 name_en: "Historic Centre of Florence"
-name_local: ""
+name_local: "Centro storico di Firenze"
 country: "IT"
 country_zh: "意大利"
 country_en: "Italy"
@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 43.77306
 lon: 11.25611111
-updated_at: "2026-11-10T14:47:50Z"
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 佛罗伦萨历史中心 / Historic Centre of Florence
@@ -37,6 +37,12 @@ updated_at: "2026-11-10T14:47:50Z"
 
 Built on the site of an Etruscan settlement, Florence, the symbol of the Renaissance, rose to economic and cultural pre-eminence under the Medici in the 15th and 16th centuries. Its 600 years of extraordinary artistic activity can be seen above all in the 13th-century cathedral (Santa Maria del Fiore), the Church of Santa Croce, the Uffizi and the Pitti Palace, the work of great masters such as Giotto, Brunelleschi, Botticelli and Michelangelo.
 
+## 本地语言 / Local language (Italian)
+
+**Centro storico di Firenze**
+
+Il centro storico di Firenze è la parte della città compresa entro i viali di circonvallazione, creati con la demolizione della cerchia delle mura medievali. Dal 1982 questa zona è diventata uno dei patrimoni UNESCO dell'umanità d'Italia.
+
 ## 交通 / Transport
 
 - ✈ **Florence Airport, Peretola (FLR)** — 5.8 km
@@ -54,13 +60,13 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/174)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Florence)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

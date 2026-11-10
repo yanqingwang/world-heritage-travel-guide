@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(viii)"
 lat: 55.2822
 lon: 12.45
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 斯泰温斯崖 / Stevns Klint
@@ -35,11 +35,13 @@ updated_at: "2026-11-10T14:48:02Z"
 
 ### 中文
 
-斯泰温斯崖（Stevns Klint）是位於丹麥東部西蘭島上的一處陡峭的斷崖，其總長度達14.5公里。斯泰温斯崖是世界上最重要的K-T界線地形之一。受到侵蝕作用的影響，斷崖的高度已經增加到約40米。斷崖附近還有冷戰博物館以及一座教堂。2014年，斯泰温斯崖被列入世界自然遺產。
+这个地质遗址由一个 15 公里长、富含化石的沿海悬崖组成，为大约 6500 万年前白垩纪末期撞击地球的希克苏鲁伯陨石的撞击提供了特殊的证据。研究人员认为，这导致了有史以来最严重的大规模灭绝，导致地球上 50% 以上的生命消失。该地点记录了陨石撞击形成的火山灰云——确切地点位于墨西哥尤卡坦半岛海岸附近的海底。现场可以看到特殊的化石记录，显示了动物群和微型动物群的完整演替，描绘了大规模灭绝后的恢复情况。
 
 ### English
 
 This geological site comprises a 15 km-long fossil-rich coastal cliff, offering exceptional evidence of the impact of the Chicxulub meteorite that crashed into the planet at the end of the Cretaceous, about 65 million years ago. Researchers think that this caused the most remarkable mass extinction ever, responsible for the disappearance of over 50 per cent of all life on Earth. The site harbours a record of the cloud of ash formed by the impact of the meteorite – the exact site being at the bottom of the ocean off the coast of Mexico’s Yucatán Peninsula. An exceptional fossil record is visible at the site, showing the complete succession of fauna and micro-fauna charting the recovery after the mass extinction.
+
+*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Danish)
 
@@ -71,6 +73,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1416)
-- [Wikipedia](https://en.wikipedia.org/wiki/Stevns%20Klint)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

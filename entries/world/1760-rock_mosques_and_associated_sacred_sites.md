@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(ii)(iii)"
-lat: 43.70893705533333
-lon: 74.280069522
-updated_at: "2026-11-10T14:48:05Z"
+lat: 45.39003612475
+lon: 73.0072743635
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 曼格斯套岩凿清真寺及相关圣地 / Rock Mosques and Associated Sacred Sites of Mangystau
@@ -49,10 +49,10 @@ The serial property, located on the Mangystau Peninsula bordering the Caspian Se
 
 ## 交通 / Transport
 
-- ✈ **Manas International Airport (BSZ)** — 73.8 km
-- ✈ **Almaty International Airport (ALA)** — 226.2 km
-- ✈ **Issyk-Kul International Airport (IKU)** — 232.8 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **3481.7 km**
+- ✈ **Balkhash Airport (BXH)** — 227.3 km
+- ✈ **Manas International Airport (BSZ)** — 284.2 km
+- ✈ **Taraz International Airport (DMB)** — 313.1 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **3397.0 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

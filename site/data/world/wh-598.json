@@ -23,13 +23,13 @@
  "name_zh": "苏切维察修道院的复活教堂",
  "name_zh_source": "unesco_official",
  "name_en": "Churches of Moldavia",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Bisericile pictate din nordul Moldovei",
+ "local_lang": "ro",
+ "local_lang_name": "Romanian",
  "slug": "598-churches_of_moldavia",
  "lat": 47.733,
  "lon": 25.933,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "These eight churches of northern Moldavia, built from the late 15th century to the late 16th century, their external walls covered in fresco paintings, are masterpieces inspired by Byzantine art. They are authentic and particularly well preserved. Far from being mere wall decorations, the paintings form a systematic covering on all the facades and represent complete cycles of religious themes.Their exceptional composition, the elegance of the characters, and the harmony of the colors blend perfectly with the surrounding countryside. The interior and exterior walls of the Church of the Suceviţa Monastery are entirely decorated with mural paintings of the 16th century, and this church is the only one to show a representation of the ladder of St John Climacus.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Bisericile pictate din nordul Moldovei, au fost construite la sfârșitul secolului al XV-lea și începutul celui de-al XVI-lea, și se află actualmente în județul Suceava. Cu excepția bisericii din Arbore, clădită de un boier ca necropolă de familie, ele au fost construite ca parte a unor mănăstiri ortodoxe. Arhitectura este tipică pentru așa-zisul stil moldovenesc, iar cele opt selectate de UNESCO prezintă pictură pe zidurile exterioare, un fenomen care a existat în acea regiune doar pentru o perioada de câteva decenii. Următoarele opt biserici pictate au fost înscrise, începând din anul 1993, pe lista patrimoniului cultural mondial a UNESCO: Arbore (Biserica „Tăierea Capului Sfântului Ioan Botezătorul”) Humor (Biserica „Adormirea Maicii Domnului”) Moldovița (Biserica „Buna Vestire”) Pătrăuți (Biserica „Înălțarea Sfintei Cruci”) Probota (Biserica „Sfântul Nicolae”) Suceava (Biserica „Sfântul Gheorghe”) Voroneț (Biserica „Sfântul Gheorghe”) Sucevița (Biserica „Învierea Domnului”) Șapte dintre aceste biserici se află localizate în Bucovina istorică. Biserica din Probota este, uneori, în mod eronat inclusă în grupul celor bucovinene.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_598.jpg",
@@ -136,11 +136,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local": true,
+  "local_lang": "ro",
+  "local_lang_name": "Romanian",
   "official_unesco": [
    "en",
    "zh",
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 38
  },
  "sources": [
   {
@@ -157,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/598"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Churches%20of%20Moldavia"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:54Z"
+ "updated_at": "2026-11-10T23:01:11Z"
 }

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "1995"
 criteria: "(vii)(ix)"
-lat: 48.996055555556
-lon: -113.90416666667
-updated_at: "2026-11-10T14:47:52Z"
+lat: 48.996055555
+lon: -113.904166666
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 沃特顿冰川国际和平公园 / Waterton Glacier International Peace Park
@@ -60,13 +60,13 @@ Visa required[6] No transit visa is required if transiting through Calgary, Mont
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/354)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Waterton-Glacier%20International%20Peace%20Park)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

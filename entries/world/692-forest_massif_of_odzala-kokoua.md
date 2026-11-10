@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ix)(x)"
 lat: 0.8
 lon: 14.9
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 奥扎拉-科科阿森林高地 / Forest Massif of Odzala-Kokoua
@@ -71,6 +71,6 @@ Visa required[6] Holders of passports for public affairs do not require a visa.[
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/692)
-- [Wikipedia](https://en.wikipedia.org/wiki/Odzala-Kokoua%20National%20Park)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

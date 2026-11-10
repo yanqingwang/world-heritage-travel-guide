@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2011"
 criteria: "(ii)(iv)"
-lat: -4.0711666666667
-lon: 39.682055555556
-updated_at: "2026-11-10T14:48:01Z"
+lat: -4.071166666
+lon: 39.682055555
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 蒙巴萨的耶稣堡 / Fort Jesus, Mombasa
@@ -54,13 +54,13 @@ Electronic Travel Authorisation[6][70] Applications can be submitted up to 90 da
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1295)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Fort%20Jesus)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

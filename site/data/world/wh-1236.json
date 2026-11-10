@@ -27,9 +27,9 @@
  "local_lang": "es",
  "local_lang_name": "Spanish",
  "slug": "1236-león_cathedral",
- "lat": 42.59944444,
- "lon": -5.56666667,
- "coord_accuracy": "wikidata_search",
+ "lat": 12.434997222,
+ "lon": -86.878097222,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -59,41 +59,40 @@
  "transport": {
   "airports": [
    {
-    "name": "León Airport",
-    "iata": "LEN",
-    "city": "La Virgen del Camino",
-    "country": "ES",
-    "lat": 42.590709,
-    "lon": -5.653406,
-    "type": "medium_airport",
-    "distance_km": 7.2,
-    "name_zh": "莱昂机场"
-   },
-   {
-    "name": "Asturias Airport",
-    "iata": "OVD",
-    "city": "Ranón",
-    "country": "ES",
-    "lat": 43.563599,
-    "lon": -6.03462,
+    "name": "Augusto C. Sandino (Managua) International Airport",
+    "iata": "MGA",
+    "city": "Managua",
+    "country": "NI",
+    "lat": 12.1415,
+    "lon": -86.168198,
     "type": "large_airport",
-    "distance_km": 113.7,
-    "name_zh": "奥维耶多"
+    "distance_km": 83.7,
+    "name_zh": "奥古斯托·C·桑地诺国际机场"
    },
    {
-    "name": "Valladolid Airport",
-    "iata": "VLL",
-    "city": "Valladolid",
-    "country": "ES",
-    "lat": 41.7061,
-    "lon": -4.85194,
+    "name": "Toncontín Airport",
+    "iata": "TGU",
+    "city": "Tegucigalpa",
+    "country": "HN",
+    "lat": 14.0609,
+    "lon": -87.217201,
     "type": "medium_airport",
-    "distance_km": 115.5,
-    "name_zh": "巴利亚多利德机场"
+    "distance_km": 184.5,
+    "name_zh": "德古斯加巴国际机场"
+   },
+   {
+    "name": "Palmerola International Airport",
+    "iata": "XPL",
+    "city": "Palmerola",
+    "country": "HN",
+    "lat": 14.3824,
+    "lon": -87.621201,
+    "type": "large_airport",
+    "distance_km": 231.0
    }
   ],
-  "nearest_airport_km": 7.2,
-  "distance_beijing_km": 9143.3,
+  "nearest_airport_km": 83.7,
+  "distance_beijing_km": 13751.4,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -136,8 +135,8 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "local": true,
   "local_lang": "es",
   "local_lang_name": "Spanish",
@@ -149,7 +148,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 34
  },
  "sources": [
   {
@@ -157,8 +156,8 @@
    "url": "https://whc.unesco.org/en/list/1236"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Le%C3%B3n%20Cathedral%2C%20Nicaragua"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:00Z"
+ "updated_at": "2026-11-10T23:01:17Z"
 }

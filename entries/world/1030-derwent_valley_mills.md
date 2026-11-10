@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 53.108
 lon: -1.556
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:15Z"
 ---
 
 # 德文特河谷工业区 / Derwent Valley Mills

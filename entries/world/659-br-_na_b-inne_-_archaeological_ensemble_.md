@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(i)(iii)(iv)"
 lat: 53.69284
 lon: -6.44932
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 博恩河河曲考古遗址群 / Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne
@@ -97,6 +97,6 @@ Visa required[6] National visa may be substituted with a valid C visa or visas e
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/659)
-- [Wikipedia](https://en.wikipedia.org/wiki/Br%C3%BA%20na%20B%C3%B3inne)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

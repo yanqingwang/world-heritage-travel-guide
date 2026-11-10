@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(v)(ix)(x)"
 lat: 31.562222
 lon: 47.657778
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 伊拉克南部Ahwar：生态多样性避难所和美索不达米亚城市遗迹景观 / The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities
@@ -71,6 +71,6 @@ eVisa[6][61] Effective 1 March 2025, citizens of the countries that used have a 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1481)
-- [Wikipedia](https://en.wikipedia.org/wiki/Ahwar%20of%20Southern%20Iraq)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

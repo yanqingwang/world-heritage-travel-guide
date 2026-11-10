@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(ii)(iii)(iv)"
 lat: 54.992611111
 lon: -2.601
-updated_at: "2026-11-10T14:47:53Z"
+updated_at: "2026-11-10T23:01:10Z"
 ---
 
 # 罗马帝国边界 / Frontiers of the Roman Empire

@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(v)"
 lat: 67.063930555
 lon: -51.433205555
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 冰与海之间的因纽特人狩猎场阿斯维斯尤特–尼皮萨特 / Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1557)
-- [Wikipedia](https://en.wikipedia.org/wiki/Aasivissuit%20%E2%80%93%20Nipisat%3A%20Inuit%20Hunting%20Ground%20between%20Ice%20and%20Sea)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

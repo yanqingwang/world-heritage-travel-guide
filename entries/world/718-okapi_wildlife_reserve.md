@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(x)"
 lat: 2.0
 lon: 28.5
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 俄卡皮鹿野生动物保护地 / Okapi Wildlife Reserve
@@ -71,6 +71,6 @@ eVisa[6][42] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/718)
-- [Wikipedia](https://en.wikipedia.org/wiki/Okapi%20Wildlife%20Reserve)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(iv)"
 lat: 54.1097
 lon: -1.58139
-updated_at: "2026-11-10T14:47:52Z"
+updated_at: "2026-11-10T23:01:10Z"
 ---
 
 # 斯塔德利皇家公园和喷泉修道院遗址 / Studley Royal Park including the Ruins of Fountains Abbey

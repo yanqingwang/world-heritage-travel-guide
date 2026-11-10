@@ -14,7 +14,7 @@ year: "1990"
 criteria: "(i)(iv)(v)"
 lat: 62.06767
 lon: 35.22345
-updated_at: "2026-11-10T14:47:53Z"
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 基日岛的木结构教堂 / Kizhi Pogost

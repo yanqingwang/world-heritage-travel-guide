@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(ii)(iii)(vi)"
 lat: 31.4472
 lon: 34.3663
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 圣希拉里翁修道院 / 特尔乌姆阿迈尔 / Saint Hilarion Monastery/ Tell Umm Amer
@@ -71,6 +71,6 @@ Situated on the coastal dunes in Nuseirat Municipality, the ruins of Saint Hilar
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1749)
-- [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Hilarion%20Monastery)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

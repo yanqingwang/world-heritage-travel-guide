@@ -277,11 +277,22 @@ def curl_json(url: str, *, timeout: int = 25, params: dict | None = None) -> Any
 
 def wiki_api(lang: str, params: dict, *, timeout: int = 30) -> Any:
     params = {"format": "json", "formatversion": 2, **params}
-    # python-requests stalls against Wikipedia TLS on this network, and many
-    # residential routes drop *.wikipedia.org entirely; api.wikimedia.org is
-    # the reliably reachable gateway.  Only calls the REST gateway cannot
-    # express (full action queries) fall through to the action API.
-    return get_json(f"https://{lang}.wikipedia.org/w/api.php", params=params, timeout=timeout, retries=3)
+    # python-requests stalls against Wikipedia/Wikidata TLS on this network;
+    # curl handles it fine, so all action-API calls go through curl.
+    import subprocess
+    url = f"https://{lang}.wikipedia.org/w/api.php?{urllib.parse.urlencode(params)}"
+    for attempt in range(3):
+        out = subprocess.run(
+            ["curl", "-sSL", "--max-time", str(timeout + 20),
+             "-H", f"User-Agent: {UA}", url],
+            capture_output=True, text=True, timeout=timeout + 30)
+        if out.returncode == 0 and out.stdout.startswith("{"):
+            try:
+                return json.loads(out.stdout)
+            except ValueError:
+                pass
+        time.sleep(3 * (attempt + 1))
+    return None
 
 
 def wiki_page(lang: str, title: str, props: str = "extracts|pageprops|langlinks|pageimages",

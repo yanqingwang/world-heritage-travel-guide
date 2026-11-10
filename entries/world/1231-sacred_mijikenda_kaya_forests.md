@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2008"
 criteria: "(iii)(v)(vi)"
-lat: -3.9319444444444
-lon: 39.596111111111
-updated_at: "2026-11-10T14:48:00Z"
+lat: -3.931944444
+lon: 39.596111111
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 米吉肯达卡亚圣林 / Sacred Mijikenda Kaya Forests
@@ -31,13 +31,11 @@ updated_at: "2026-11-10T14:48:00Z"
 
 ### 中文
 
-米吉肯达卡亚森林 (Mijikenda Kaya Forests) 由 10 个独立的森林点组成，分布在沿海约 200 公里的范围内，其中有许多米吉肯达人的防御村庄（称为卡亚）的遗迹。卡亚建于 16 世纪，但在 1940 年代被遗弃，现在被视为祖先的住所，被尊为圣地，因此由长老委员会维护。该遗址被铭记为文化传统的独特见证及其与现存传统的直接联系。
+米吉肯达卡亚圣林是肯尼亚沿海地区11个独立的森林，长约200千米。当地是米吉肯达人长期的居住区 ，包括九个民族。森林居住区防卫森严，表现了当地人同一性、连续性和凝聚力的生活特点 ，于2008年列入联合国教科文组织世界遗产名录。
 
 ### English
 
 The Mijikenda Kaya Forests consist of 10 separate forest sites spread over some 200 km along the coast containing the remains of numerous fortified villages, known as kayas, of the Mijikenda people. The kayas, created as of the 16th century but abandoned by the 1940s, are now regarded as the abodes of ancestors and are revered as sacred sites and, as such, are maintained as by councils of elders. The site is inscribed as bearing unique testimony to a cultural tradition and for its direct link to a living tradition.
-
-*中文简介：机器翻译。*
 
 ## 交通 / Transport
 
@@ -56,13 +54,13 @@ Electronic Travel Authorisation[6][70] Applications can be submitted up to 90 da
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1231)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Kaya%20%28Mijikenda%29)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

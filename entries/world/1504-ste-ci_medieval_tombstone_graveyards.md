@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(vi)"
 lat: 43.092213888
 lon: 17.924052777
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 斯特茨中世纪墓碑墓地 / Stećci Medieval Tombstone Graveyards

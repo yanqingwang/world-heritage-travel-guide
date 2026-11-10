@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(v)"
 lat: 5.1167
 lon: 38.6667
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 盖德奥文化景观 / The Gedeo Cultural Landscape
@@ -65,6 +65,6 @@ eVisa / Visa on arrival[6] Visa on arrival is obtainable only at Addis Ababa Bol
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1641)
-- [Wikipedia](https://en.wikipedia.org/wiki/Gedeo%20Cultural%20Landscape)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

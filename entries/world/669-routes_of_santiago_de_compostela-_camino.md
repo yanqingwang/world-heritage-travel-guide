@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1993"
 criteria: "(ii)(iv)(vi)"
-lat: 39.515517833695654
-lon: -4.04445595223913
-updated_at: "2026-11-10T14:47:55Z"
+lat: 43.335
+lon: -6.414722
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 圣地亚哥康波斯特拉之路：法兰西之路和北西班牙之路 / Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain
@@ -45,10 +45,10 @@ Se trata de una extensión del bien cultural en serie denominado “Camino de Sa
 
 ## 交通 / Transport
 
-- ✈ **Adolfo Suárez Madrid–Barajas Airport (MAD)** — 115.9 km
-- ✈ **Córdoba Airport (ODB)** — 198.8 km
-- ✈ **Salamanca Airport (SLM)** — 202.0 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **9204.1 km**
+- ✈ **Asturias Airport (OVD)** — 39.8 km
+- ✈ **León Airport (LEN)** — 103.4 km
+- ✈ **A Coruña Airport (LCG)** — 158.8 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **9081.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 
@@ -67,6 +67,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/669)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Routes%20of%20Santiago%20de%20Compostela%3A%20Camino%20Franc%C3%A9s%20and%20Routes%20of%20Northern%20Spain)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

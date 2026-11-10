@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2009"
 criteria: "(viii)(ix)(x)"
-lat: 53.533333333333
-lon: 6.8833333333333
-updated_at: "2026-11-10T14:48:01Z"
+lat: 53.528611111
+lon: 8.556111111
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 瓦登海 / Wadden Sea
@@ -41,10 +41,10 @@ The Wadden Sea is the largest unbroken system of intertidal sand and mud flats i
 
 ## 交通 / Transport
 
-- ✈ **Borkum Airport (BMK)** — 13.5 km
-- ✈ **Juist Airport (JUI)** — 20.0 km
-- ✈ **Norden-Norddeich Airport (NOD)** — 23.1 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **7635.1 km**
+- ✈ **Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase (FCN)** — 27.4 km
+- ✈ **Wangerooge Airport (AGE)** — 50.6 km
+- ✈ **Bremen Airport (BRE)** — 55.8 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **7523.1 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 

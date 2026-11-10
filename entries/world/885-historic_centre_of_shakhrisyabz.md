@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 39.05
 lon: 66.833333333
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 沙赫利苏伯兹历史中心 / Historic Centre of Shakhrisyabz
@@ -57,7 +57,7 @@ The historic centre of Shakhrisyabz contains a collection of exceptional monumen
 
 **Shahrisabz**
 
-Shahrisabz — Oʻzbekistonning Qashqadaryo viloyatidagi viloyat boʻysunuvidagi shahar. Qadimgi nomi — Kesh. Shahar tarixi Amir Temur va Temuriylar bilan bogʻliq. Tarixiy markazi 2000-yilda UNESCOning Jahon merosi roʻyxatiga kiritilgan.
+Shahrisabz — Oʻzbekiston Respublikasining Qashqadaryo viloyatidagi shahar. Amir Temur ordeni sohibi. 1926—2017-yillarda Shahrisabz tumani maʼmuriy markazi. Kitob—Shahrisabz vohasida. Katta Oʻzbekiston trakti yoqasida joylashgan. Shahrisabz janubdan Tanxozdaryo, shimoldan Oqsuv daryosi oqib oʻtadi. Dengiz sathidan oʻrtacha balandligi 658 m. Aholisi 150,1 ming kishini tashkil etadi (2025). Shahrisabz Oʻzbekistondagi qadimiy shaharlardan biri. Arxeologik maʼlumotlarga koʻra, shaharga mil. avv. 1 ming yillikning oʻrtalarida asos solingan. Shahrisabz milodning boshlarida va ilk oʻrta asrlarda turli nomlar bilan (masalan Kesh) atalgan. XIII asrdan Shahrisabz nomi ham urf boʻlgan.
 
 ## 交通 / Transport
 

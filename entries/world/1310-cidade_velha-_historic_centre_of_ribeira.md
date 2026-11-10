@@ -14,7 +14,7 @@ year: "2009"
 criteria: "(ii)(iii)(vi)"
 lat: 14.916666666
 lon: -23.604166666
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 韦利亚城 / Cidade Velha, Historic Centre of Ribeira Grande

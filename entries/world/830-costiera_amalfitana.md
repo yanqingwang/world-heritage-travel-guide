@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iv)(v)"
 lat: 40.633333333
 lon: 14.6
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 阿马尔菲海岸景观 / Costiera Amalfitana
@@ -103,6 +103,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/830)
-- [Wikipedia](https://en.wikipedia.org/wiki/Amalfi%20Coast)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

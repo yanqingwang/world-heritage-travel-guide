@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(ii)"
 lat: 61.46139153783333
 lon: 23.42446484066667
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 阿尔托作品 / Aalto Works
@@ -67,6 +67,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1752)
-- [Wikipedia](https://en.wikipedia.org/wiki/Aalto%20Works)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

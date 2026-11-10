@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1990"
 criteria: "(i)(ii)(iv)(vi)"
-lat: 59.938888888889
-lon: 30.315555555556
-updated_at: "2026-11-10T14:47:53Z"
+lat: 59.938888888
+lon: 30.315555555
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 圣彼得堡历史中心及其相关古迹群 / Historic Centre of Saint Petersburg and Related Groups of Monuments
@@ -60,13 +60,13 @@ Visa not required Visa-free until 31 December 2027.[118] Groups of 5 to 50 touri
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/540)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Saint%20Petersburg%20and%20Related%20Groups%20of%20Monuments)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

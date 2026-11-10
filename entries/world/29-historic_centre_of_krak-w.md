@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(iv)"
 lat: 50.06209
 lon: 19.93688
-updated_at: "2026-11-10T14:47:49Z"
+updated_at: "2026-11-10T23:01:07Z"
 ---
 
 # 克拉科夫历史中心 / Historic Centre of Kraków
@@ -64,7 +64,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

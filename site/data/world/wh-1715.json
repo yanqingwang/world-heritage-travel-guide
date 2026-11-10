@@ -23,13 +23,13 @@
  "name_zh": "格丁尼亚现代主义市中心",
  "name_zh_source": "curated",
  "name_en": "Gdynia Modernist City Centre",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Śródmieście (Gdynia)",
+ "local_lang": "pl",
+ "local_lang_name": "Polish",
  "slug": "1715-gdynia_modernist_city_centre",
- "lat": 54.52083333,
- "lon": 18.53888889,
- "coord_accuracy": "wikipedia",
+ "lat": 54.51953,
+ "lon": 18.53891,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "machine_translation",
  "intro_en": "Located on the Baltic Sea coast, \"Gdynia Modernist City Centre\" encompasses the two most significant east-west and north-south streets, featuring interwar planning blocks and the majority of the city centre’s preserved buildings from that period, which reflect the large-scale application of modernist ideas in architectural design. The result is an urban organism that harnesses a building-block-based planning approach to develop a characteristic, compact complex of modernist architecture, with robust individual architectural expressions. The city centre, with its buildings, villas on Kamienna Góra hill, and other residential buildings of this period, illustrates a critical break with historicism in the progression of turning the village of Gdynia into a new major sea gateway of the first Polish Republic between the First and Second World Wars.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Śródmieście – centralna, nadmorska dzielnica Gdyni, granicząca z następującymi dzielnicami tegoż miasta: Oksywie, Obłuże, Pogórze (wszystkie trzy od północy), Chylonia, Leszczynki, Grabówek (wszystkie trzy od zachodu) oraz Działki Leśne, Wzgórze Świętego Maksymiliana i Kamienna Góra (od południa), a od wschodu także z Morzem Bałtyckim.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1715.jpg",
@@ -66,7 +66,7 @@
     "lat": 54.377602,
     "lon": 18.4662,
     "type": "large_airport",
-    "distance_km": 16.6,
+    "distance_km": 16.5,
     "name_zh": "格但斯克"
    },
    {
@@ -88,11 +88,11 @@
     "lat": 53.096802,
     "lon": 17.977699,
     "type": "medium_airport",
-    "distance_km": 162.6,
+    "distance_km": 162.4,
     "name_zh": "比得哥什"
    }
   ],
-  "nearest_airport_km": 16.6,
+  "nearest_airport_km": 16.5,
   "distance_beijing_km": 6959.1,
   "ferry_terminals": [],
   "railway_stations": []
@@ -138,14 +138,14 @@
   "en": true,
   "ja": false,
   "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local": true,
+  "local_lang": "pl",
+  "local_lang_name": "Polish",
   "official_unesco": [
    "en",
    "fr"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 12
  },
  "sources": [
   {
@@ -153,8 +153,8 @@
    "url": "https://whc.unesco.org/en/list/1715"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Downtown%2C%20Gdynia"
   },
   {
    "name": "OpenStreetMap",
@@ -165,5 +165,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:05Z"
+ "updated_at": "2026-11-10T23:01:21Z"
 }

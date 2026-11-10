@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2012"
 criteria: "(ix)(x)"
-lat: 2.6666666666667
-lon: 16.333333333333
-updated_at: "2026-11-10T14:48:02Z"
+lat: 2.666666666
+lon: 16.333333333
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 桑加三国保护区 / Sangha Trinational
@@ -31,13 +31,11 @@ updated_at: "2026-11-10T14:48:02Z"
 
 ### 中文
 
-该地区位于喀麦隆、中非共和国和刚果三国交界处的刚果盆地西北部，包括三个相连的国家公园，总面积约 750,000 公顷。该地区的大部分地区未受到人类活动的影响，拥有广泛的潮湿热带森林生态系统，拥有丰富的动植物群，包括尼罗河鳄鱼和大型捕食者虎鱼。森林空地支持草本物种的生长，桑加是大量森林象、极度濒危的西部低地大猩猩和濒临灭绝的黑猩猩的家园。该遗址的环境保存了大规模的生态和进化过程的延续以及丰富的生物多样性，包括许多濒临灭绝的动物物种。
+桑加跨三国保护区是桑加河流域的一处世界自然遗产，于2012年被联合国教科文组织登录，面积746,309公顷，缓冲区面积1,787,950公顷。桑加跨三国保护区位于喀麦隆、中非共和国和刚果共和国三国交界处，包括热带雨林、湿地和自然森林空地。
 
 ### English
 
 Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.
-
-*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (French)
 
@@ -62,13 +60,13 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1380)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Sangha%20Trinational)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

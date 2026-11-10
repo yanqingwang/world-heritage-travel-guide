@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2012"
 criteria: "(iii)(iv)"
-lat: 5.1965
-lon: -3.7368
-updated_at: "2026-11-10T14:48:01Z"
+lat: 5.2
+lon: -3.733333333
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 大巴萨姆历史古镇 / Historic Town of Grand-Bassam
@@ -35,13 +35,11 @@ updated_at: "2026-11-10T14:48:01Z"
 
 ### 中文
 
-科特迪瓦的第一个首都，历史悠久的大巴萨姆镇，是 19 世纪末和 20 世纪初殖民城镇的一个例子，规划有专门为欧洲人和非洲人提供商业、行政、住房的住宅区。该遗址包括恩齐马非洲渔村，旁边是殖民时期的建筑，其特点是功能齐全的房屋、画廊、阳台和花园。大巴萨姆是科特迪瓦最重要的港口、经济和司法中心。它见证了欧洲人和非洲人之间复杂的社会关系，以及随后的独立运动。作为法国在几内亚湾贸易站领土（早于现代科特迪瓦）的一个充满活力的中心，它吸引了来自非洲、欧洲和地中海黎凡特各地的人口。
+大巴薩姆（法語：Grand Bassam）是西非國家科特迪瓦的城市，由南科莫埃區負責管轄，位於首都阿比讓以東40公里的埃布里耶潟湖畔，面積113平方公里，經濟活動有旅遊業，2010年人口83,576。 大巴薩姆是大巴薩姆省的核心城市，也曾是科特迪瓦殖民时期的首府，但由于城市的很大部分被遗弃数十年，该城逐渐成为一座废弃的城市。
 
 ### English
 
 The first capital of Côte d’Ivoire, the Historic Town of Grand-Bassam, is an example of a late 19 th - and early 20 th -century colonial town planned with quarters specializing in commerce, administration, housing for Europeans and for Africans. The site includes the N’zima African fishing village alongside colonial architecture marked by functional houses with galleries, verandas and gardens. Grand-Bassam was the most important port, economic and judicial centre of Côte d’Ivoire. It bears witness to the complex social relations between Europeans and Africans, and to the subsequent independence movement. As a vibrant centre of the territory of French trading posts in the Gulf of Guinea, which preceded modern Côte d’Ivoire, it attracted populations from all parts of Africa, Europe and the Mediterranean Levant.
-
-*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (French)
 
@@ -51,9 +49,9 @@ Première capitale de Côte d’Ivoire, la ville de Grand-Bassam est un exemple 
 
 ## 交通 / Transport
 
-- ✈ **Félix-Houphouët-Boigny International Airport (ABJ)** — 22.2 km
-- ✈ **Takoradi Airport (TKD)** — 219.9 km
-- ✈ **Sunyani Airport (NYI)** — 286.7 km
+- ✈ **Félix-Houphouët-Boigny International Airport (ABJ)** — 22.4 km
+- ✈ **Takoradi Airport (TKD)** — 219.6 km
+- ✈ **Sunyani Airport (NYI)** — 286.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12135.3 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -66,13 +64,13 @@ Première capitale de Côte d’Ivoire, la ville de Grand-Bassam est un exemple 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en, ja, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1322)
-- [Wikipedia](https://en.wikipedia.org/wiki/Historic%20Town%20of%20Grand-Bassam)
+- [Wikipedia](https://en.wikipedia.org/wiki/Grand-Bassam)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

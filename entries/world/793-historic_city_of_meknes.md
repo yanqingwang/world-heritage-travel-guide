@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iv)"
 lat: 33.894857
 lon: -5.564481
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 历史名城梅克内斯 / Historic City of Meknes

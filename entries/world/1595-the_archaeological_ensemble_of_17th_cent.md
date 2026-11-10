@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)(vi)"
 lat: 17.9375
 lon: -76.841388888
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 皇家港17世纪考古景观 / The Archaeological Ensemble of 17th Century Port Royal
@@ -91,6 +91,6 @@ Visa not required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1595)
-- [Wikipedia](https://en.wikipedia.org/wiki/Port%20Royal)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

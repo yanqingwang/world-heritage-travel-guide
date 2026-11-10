@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(iv)(vi)"
 lat: 50.96394564616667
 lon: 4.202226197583333
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 第一次世界大战（西线）的墓葬和纪念场所 / Funerary and memory sites of the First World War (Western Front)
@@ -60,13 +60,13 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1567)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Funerary%20and%20memory%20sites%20of%20the%20First%20World%20War%20%28Western%20Front%29)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

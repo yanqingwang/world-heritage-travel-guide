@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1984"
 criteria: "(i)(ii)(iv)"
-lat: 41.4
-lon: 2.15
-updated_at: "2026-11-10T14:47:52Z"
+lat: 41.363828
+lon: 2.027819
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 安东尼•高迪的建筑作品 / Works of Antoni Gaudí
@@ -45,9 +45,9 @@ Siete edificios construidos por el arquitecto Antoni Gaudí (1852–1926) en Bar
 
 ## 交通 / Transport
 
-- ✈ **Josep Tarradellas Barcelona-El Prat Airport (BCN)** — 12.9 km
-- ✈ **Girona-Costa Brava Airport (GRO)** — 75.7 km
-- ✈ **Reus Airport (REU)** — 86.7 km
+- ✈ **Josep Tarradellas Barcelona-El Prat Airport (BCN)** — 8.5 km
+- ✈ **Reus Airport (REU)** — 75.8 km
+- ✈ **Girona-Costa Brava Airport (GRO)** — 85.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8812.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

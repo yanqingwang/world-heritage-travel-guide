@@ -27,9 +27,9 @@
  "local_lang": "ar",
  "local_lang_name": "Arabic",
  "slug": "753-medina_of_essaouira_(formerly_mogador)",
- "lat": 31.51305556,
- "lon": -9.76972222,
- "coord_accuracy": "wikipedia",
+ "lat": 31.51441,
+ "lon": -9.768904,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -66,7 +66,7 @@
     "lat": 31.397499,
     "lon": -9.68167,
     "type": "medium_airport",
-    "distance_km": 15.3,
+    "distance_km": 15.4,
     "name_zh": "索维拉-莫加多尔机场"
    },
    {
@@ -77,7 +77,7 @@
     "lat": 30.322478,
     "lon": -9.412003,
     "type": "large_airport",
-    "distance_km": 136.7,
+    "distance_km": 136.8,
     "name_zh": "阿加迪尔机场"
    },
    {
@@ -88,11 +88,11 @@
     "lat": 31.604807,
     "lon": -8.035788,
     "type": "large_airport",
-    "distance_km": 164.6,
+    "distance_km": 164.5,
     "name_zh": "马拉喀什－迈纳拉国际机场"
    }
   ],
-  "nearest_airport_km": 15.3,
+  "nearest_airport_km": 15.4,
   "distance_beijing_km": 10332.0,
   "ferry_terminals": [],
   "railway_stations": []
@@ -170,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:56Z"
+ "updated_at": "2026-11-10T23:01:13Z"
 }

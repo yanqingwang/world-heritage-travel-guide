@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(iii)(iv)"
 lat: -5.7825
 lon: 144.33
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 库克早期农业遗址 / Kuk Early Agricultural Site

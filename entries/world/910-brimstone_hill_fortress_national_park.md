@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(iv)"
 lat: 17.347
 lon: -62.836
-updated_at: "2026-11-10T14:47:58Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 硫磺石山要塞国家公园 / Brimstone Hill Fortress National Park
@@ -65,6 +65,6 @@ Electronic Travel Authorisation[6][120] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/910)
-- [Wikipedia](https://en.wikipedia.org/wiki/Brimstone%20Hill%20Fortress%20National%20Park)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

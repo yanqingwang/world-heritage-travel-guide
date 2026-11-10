@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(v)"
 lat: -38.0667
 lon: 141.917
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 布吉必姆文化景观 / Budj Bim Cultural Landscape
@@ -61,6 +61,6 @@ Online Visa required[6] May apply online (Online Visitor e600 visa and Online e4
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1577)
-- [Wikipedia](https://en.wikipedia.org/wiki/Budj%20Bim)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

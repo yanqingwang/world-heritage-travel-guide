@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ix)(x)"
 lat: 7.603
 lon: -8.391
-updated_at: "2026-11-10T14:47:50Z"
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 宁巴山自然保护区 / Mount Nimba Strict Nature Reserve

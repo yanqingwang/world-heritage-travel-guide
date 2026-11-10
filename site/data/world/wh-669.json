@@ -27,9 +27,9 @@
  "local_lang": "es",
  "local_lang_name": "Spanish",
  "slug": "669-routes_of_santiago_de_compostela:_camino",
- "lat": 39.515517833695654,
- "lon": -4.04445595223913,
- "coord_accuracy": "country_centroid",
+ "lat": 43.335,
+ "lon": -6.414722,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -62,40 +62,41 @@
  "transport": {
   "airports": [
    {
-    "name": "Adolfo Suárez Madrid–Barajas Airport",
-    "iata": "MAD",
-    "city": "Madrid",
+    "name": "Asturias Airport",
+    "iata": "OVD",
+    "city": "Ranón",
     "country": "ES",
-    "lat": 40.493407,
-    "lon": -3.572249,
+    "lat": 43.563599,
+    "lon": -6.03462,
     "type": "large_airport",
-    "distance_km": 115.9,
-    "name_zh": "马德里－巴拉哈斯机场"
+    "distance_km": 39.8,
+    "name_zh": "奥维耶多"
    },
    {
-    "name": "Córdoba Airport",
-    "iata": "ODB",
-    "city": "Córdoba",
+    "name": "León Airport",
+    "iata": "LEN",
+    "city": "La Virgen del Camino",
     "country": "ES",
-    "lat": 37.841999,
-    "lon": -4.84888,
+    "lat": 42.590709,
+    "lon": -5.653406,
     "type": "medium_airport",
-    "distance_km": 198.8
+    "distance_km": 103.4,
+    "name_zh": "莱昂机场"
    },
    {
-    "name": "Salamanca Airport",
-    "iata": "SLM",
-    "city": "Salamanca",
+    "name": "A Coruña Airport",
+    "iata": "LCG",
+    "city": "Culleredo",
     "country": "ES",
-    "lat": 40.952099,
-    "lon": -5.50199,
+    "lat": 43.302101,
+    "lon": -8.37726,
     "type": "medium_airport",
-    "distance_km": 202.0,
-    "name_zh": "萨拉曼卡机场"
+    "distance_km": 158.8,
+    "name_zh": "拉科鲁尼亚"
    }
   ],
-  "nearest_airport_km": 115.9,
-  "distance_beijing_km": 9204.1,
+  "nearest_airport_km": 39.8,
+  "distance_beijing_km": 9081.5,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -151,7 +152,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 7
  },
  "sources": [
   {
@@ -159,8 +160,8 @@
    "url": "https://whc.unesco.org/en/list/669"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Routes%20of%20Santiago%20de%20Compostela%3A%20Camino%20Franc%C3%A9s%20and%20Routes%20of%20Northern%20Spain"
   },
   {
    "name": "OpenStreetMap",
@@ -171,5 +172,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:55Z"
+ "updated_at": "2026-11-10T23:01:12Z"
 }

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2007"
 criteria: "(ii)(iii)(vi)"
-lat: 28.65583333
-lon: 77.24083333
-updated_at: "2026-11-10T14:47:51Z"
+lat: 28.655833333
+lon: 77.240277777
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 德里红堡群 / Red Fort Complex
@@ -40,7 +40,7 @@ The Red Fort Complex was built as the palace fort of Shahjahanabad – the new c
 ## 交通 / Transport
 
 - ✈ **Hindon Airport / Hindon Air Force Station (HDO)** — 12.9 km
-- ✈ **Indira Gandhi International Airport (DEL)** — 18.1 km
+- ✈ **Indira Gandhi International Airport (DEL)** — 18.0 km
 - ✈ **Noida International Airport (DXN)** — 64.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **3779.5 km**
 
@@ -54,13 +54,13 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/231)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Red%20Fort)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

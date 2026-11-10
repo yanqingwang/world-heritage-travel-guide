@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(iii)"
 lat: 46.566111111
 lon: 0.863611111
-updated_at: "2026-11-10T14:47:51Z"
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 圣塞文-梭尔-加尔坦佩教堂 / Abbey Church of Saint-Savin sur Gartempe

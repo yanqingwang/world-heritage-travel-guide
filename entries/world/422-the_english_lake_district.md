@@ -13,8 +13,8 @@ category: "Cultural"
 year: "2017"
 criteria: "(ii)(v)(vi)"
 lat: 54.5
-lon: -3.1666666666667
-updated_at: "2026-11-10T14:47:53Z"
+lon: -3.166666666
+updated_at: "2026-11-10T23:01:10Z"
 ---
 
 # 英格兰湖区 / The English Lake District
@@ -31,13 +31,11 @@ updated_at: "2026-11-10T14:47:53Z"
 
 ### 中文
 
-英国湖区位于英格兰西北部，是一个山区，其山谷是由冰河时代的冰川塑造而成的，随后又形成了以围墙围成的田地为特征的农牧业土地利用系统。自然与人类活动的共同作用，创造了山峦倒映在湖水中的和谐景观。特意建造了宏伟的房屋、花园和公园，以增强景观的美丽。从 18 世纪开始，风景如画的风景画运动和后来的浪漫主义运动就对这一景观大加欣赏，并通过绘画、图画和文字来颂扬它。它还激发了人们对美丽风景重要性的认识，并引发了早期保护风景的努力。
+湖區（英語：Lake District）是英國西北英格蘭金巴倫郡的一片鄉村地区，是一個度假勝地，以湖泊與群山，并因19世纪初诗人华兹华斯的作品以及湖畔诗人（Lake Poets）而著称。这个区域游客较多的中心地带被辟为湖區國立公園（Lake District National Park），是英國國立公園之一，也是英国不多的山区之一。英格兰所有海拔高于3000英尺的地方都位于这个国立公园内。2017年列入世界自然遺產。 英格蘭最高峰斯科菲峰位於湖區境內，此外英格蘭最深的湖沃斯特湖和最大的天然湖溫德米爾湖也位於湖區境內。
 
 ### English
 
 Located in northwest England, the English Lake District is a mountainous area, whose valleys have been modelled by glaciers in the Ice Age and subsequently shaped by an agro-pastoral land-use system characterized by fields enclosed by walls. The combined work of nature and human activity has produced a harmonious landscape in which the mountains are mirrored in the lakes. Grand houses, gardens and parks have been purposely created to enhance the landscape’s beauty. This landscape was greatly appreciated from the 18th century onwards by the Picturesque and later Romantic movements, which celebrated it in paintings, drawings and words. It also inspired an awareness of the importance of beautiful landscapes and triggered early efforts to preserve them.
-
-*中文简介：机器翻译。*
 
 ## 交通 / Transport
 
@@ -56,13 +54,13 @@ Located in northwest England, the English Lake District is a mountainous area, w
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en
+- 可用语言 / Available: zh, en, ja, ko
 
 - UNESCO 官方文本 / official editions: en, fr, es, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/422)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Lake%20District)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

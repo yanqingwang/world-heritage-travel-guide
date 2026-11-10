@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)(vi)"
 lat: 20.7225
 lon: 73.9425
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 印度马拉塔军事景观 / Maratha Military Landscapes of India
@@ -77,6 +77,6 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1739)
-- [Wikipedia](https://en.wikipedia.org/wiki/Maratha%20Military%20Landscapes%20of%20India)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

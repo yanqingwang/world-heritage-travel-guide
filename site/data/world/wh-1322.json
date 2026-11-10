@@ -27,8 +27,8 @@
  "local_lang": "fr",
  "local_lang_name": "French",
  "slug": "1322-historic_town_of_grand-bassam",
- "lat": 5.1965,
- "lon": -3.7368,
+ "lat": 5.2,
+ "lon": -3.733333333,
  "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
@@ -37,8 +37,8 @@
  "year": "2012",
  "danger": false,
  "transnational": false,
- "intro_zh": "科特迪瓦的第一个首都，历史悠久的大巴萨姆镇，是 19 世纪末和 20 世纪初殖民城镇的一个例子，规划有专门为欧洲人和非洲人提供商业、行政、住房的住宅区。该遗址包括恩齐马非洲渔村，旁边是殖民时期的建筑，其特点是功能齐全的房屋、画廊、阳台和花园。大巴萨姆是科特迪瓦最重要的港口、经济和司法中心。它见证了欧洲人和非洲人之间复杂的社会关系，以及随后的独立运动。作为法国在几内亚湾贸易站领土（早于现代科特迪瓦）的一个充满活力的中心，它吸引了来自非洲、欧洲和地中海黎凡特各地的人口。",
- "intro_zh_source": "machine_translation",
+ "intro_zh": "大巴薩姆（法語：Grand Bassam）是西非國家科特迪瓦的城市，由南科莫埃區負責管轄，位於首都阿比讓以東40公里的埃布里耶潟湖畔，面積113平方公里，經濟活動有旅遊業，2010年人口83,576。 大巴薩姆是大巴薩姆省的核心城市，也曾是科特迪瓦殖民时期的首府，但由于城市的很大部分被遗弃数十年，该城逐渐成为一座废弃的城市。",
+ "intro_zh_source": "wikipedia",
  "intro_en": "The first capital of Côte d’Ivoire, the Historic Town of Grand-Bassam, is an example of a late 19 th - and early 20 th -century colonial town planned with quarters specializing in commerce, administration, housing for Europeans and for Africans. The site includes the N’zima African fishing village alongside colonial architecture marked by functional houses with galleries, verandas and gardens. Grand-Bassam was the most important port, economic and judicial centre of Côte d’Ivoire. It bears witness to the complex social relations between Europeans and Africans, and to the subsequent independence movement. As a vibrant centre of the territory of French trading posts in the Gulf of Guinea, which preceded modern Côte d’Ivoire, it attracted populations from all parts of Africa, Europe and the Mediterranean Levant.",
  "intro_en_source": "unesco_official",
  "intro_local": "Première capitale de Côte d’Ivoire, la ville de Grand-Bassam est un exemple urbain colonial de la fin du xix e siècle et de la première partie du xx e siècle. Elle suit une planification par quartiers spécialisés dans le commerce, l’administration, l’habitat européen et l’habitat autochtone. Le site comprend également le village de pêcheurs africain de N’zima et des exemples d’architecture coloniale comme des maisons fonctionnelles dotées de galeries, de vérandas et de nombreux jardins. Grand-Bassam fut la capitale portuaire, économique et juridique de la Côte d’Ivoire ; elle témoigne des relations sociales complexes entre les Européens et les Africains puis du mouvement en faveur de l’indépendance. La ville, véritable poumon économique du territoire des comptoirs français du golfe de Guinée – qui a précédé la Côte d’Ivoire moderne – a attiré des populations venant de toutes les contrées d’Afrique, d’Europe et du Levant méditerranéen.",
@@ -74,7 +74,7 @@
     "lat": 5.26139,
     "lon": -3.92629,
     "type": "large_airport",
-    "distance_km": 22.2,
+    "distance_km": 22.4,
     "name_zh": "阿必尚国际机场"
    },
    {
@@ -85,7 +85,7 @@
     "lat": 4.896059989929199,
     "lon": -1.7747600078582764,
     "type": "medium_airport",
-    "distance_km": 219.9,
+    "distance_km": 219.6,
     "name_zh": "塔科拉迪"
    },
    {
@@ -96,11 +96,11 @@
     "lat": 7.36183,
     "lon": -2.32876,
     "type": "medium_airport",
-    "distance_km": 286.7,
+    "distance_km": 286.2,
     "name_zh": "苏尼亚尼"
    }
   ],
-  "nearest_airport_km": 22.2,
+  "nearest_airport_km": 22.4,
   "distance_beijing_km": 12135.3,
   "ferry_terminals": [],
   "railway_stations": []
@@ -142,10 +142,10 @@
   "voltage": "220V/50Hz"
  },
  "info_languages": {
-  "zh": false,
+  "zh": true,
   "en": true,
   "ja": true,
-  "ko": false,
+  "ko": true,
   "local": true,
   "local_lang": "fr",
   "local_lang_name": "French",
@@ -154,7 +154,7 @@
    "fr",
    "es"
   ],
-  "wikipedia_editions": 5
+  "wikipedia_editions": 45
  },
  "sources": [
   {
@@ -163,7 +163,7 @@
   },
   {
    "name": "Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Historic%20Town%20of%20Grand-Bassam"
+   "url": "https://en.wikipedia.org/wiki/Grand-Bassam"
   },
   {
    "name": "OpenStreetMap",
@@ -174,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:01Z"
+ "updated_at": "2026-11-10T23:01:17Z"
 }

@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2006"
 criteria: "(i)(iii)"
-lat: 13.695492709
-lon: -15.535351238
-updated_at: "2026-11-10T14:48:00Z"
+lat: 13.683333333
+lon: -15.516666666
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 塞内冈比亚石圈 / Stone Circles of Senegambia
@@ -43,9 +43,9 @@ The site consists of four large groups of stone circles that represent an extrao
 
 ## 交通 / Transport
 
-- ✈ **Banjul International Airport (BJL)** — 127.1 km
+- ✈ **Banjul International Airport (BJL)** — 128.6 km
 - ✈ **Ziguinchor Airport (ZIG)** — 150.4 km
-- ✈ **Cap Skirring Airport (CSK)** — 195.3 km
+- ✈ **Cap Skirring Airport (CSK)** — 195.7 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **12363.8 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

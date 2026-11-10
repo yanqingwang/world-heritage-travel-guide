@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(ii)(iii)(iv)(vi)"
 lat: 34.0399646
 lon: -5.5626871
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 瓦卢比利斯考古遗址 / Archaeological Site of Volubilis
@@ -98,6 +98,6 @@ Visa not required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/836)
-- [Wikipedia](https://en.wikipedia.org/wiki/Volubilis)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(ii)(iii)(iv)"
 lat: 17.06194
 lon: -96.72167
-updated_at: "2026-11-10T14:47:53Z"
+updated_at: "2026-11-10T23:01:10Z"
 ---
 
 # 瓦哈卡历史中心与阿尔班山考古遗址 / Historic Centre of Oaxaca and Archaeological Site of Monte Albán

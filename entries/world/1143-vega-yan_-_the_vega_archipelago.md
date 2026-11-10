@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(v)"
 lat: 65.633333333
 lon: 11.9
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 维嘎群岛文化景观 / Vegaøyan – The Vega Archipelago

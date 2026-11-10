@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(iv)"
-lat: 38.14629909917778
-lon: 1.0614192457555562
-updated_at: "2026-11-10T14:48:05Z"
+lat: 38.64928390089583
+lon: 1.2061245243750005
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 朗格多克的卡佩王朝皇家堡垒群 / Royal Capetian Fortresses of Languedoc
@@ -45,9 +45,9 @@ Le bien en série comprend huit sites fortifiés : le château et les remparts d
 
 ## 交通 / Transport
 
-- ✈ **Ibiza Airport (IBZ)** — 85.2 km
-- ✈ **Alicante-Elche Miguel Hernández Airport (ALC)** — 142.3 km
-- ✈ **Region of Murcia International Airport (RMU)** — 195.4 km
+- ✈ **Ibiza Airport (IBZ)** — 28.8 km
+- ✈ **Alicante-Elche Miguel Hernández Airport (ALC)** — 158.9 km
+- ✈ **Palma de Mallorca Airport (PMI)** — 166.0 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **9046.1 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)

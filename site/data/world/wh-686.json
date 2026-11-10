@@ -27,9 +27,9 @@
  "local_lang": "fr",
  "local_lang_name": "French",
  "slug": "686-miguasha_national_park",
- "lat": 48.110555555556,
- "lon": -66.369444444444,
- "coord_accuracy": "wikidata_search",
+ "lat": 48.110555555,
+ "lon": -66.369444444,
+ "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
  "category_en": "Natural",
@@ -136,7 +136,7 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": true,
   "local_lang": "fr",
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 33
  },
  "sources": [
   {
@@ -157,8 +157,8 @@
    "url": "https://whc.unesco.org/en/list/686"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Miguasha%20National%20Park"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:55Z"
+ "updated_at": "2026-11-10T23:01:12Z"
 }

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(i)(ii)(iii)"
 lat: 41.941944
 lon: 12.775278
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 提沃利的阿德利阿纳村庄 / Villa Adriana (Tivoli)
@@ -103,6 +103,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/907)
-- [Wikipedia](https://en.wikipedia.org/wiki/Hadrian%27s%20Villa)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

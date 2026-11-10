@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iv)"
 lat: 53.62417
 lon: 11.41889
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 什未林住宅区 / Schwerin Residence Ensemble

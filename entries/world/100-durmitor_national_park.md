@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "1980"
 criteria: "(vii)(viii)(x)"
-lat: 43.153198375
-lon: 19.036873092
-updated_at: "2026-11-10T14:47:49Z"
+lat: 43.250790077
+lon: 19.008466499
+updated_at: "2026-11-10T23:01:07Z"
 ---
 
 # 杜米托尔国家公园 / Durmitor National Park
@@ -43,10 +43,10 @@ This breathtaking national park was formed by glaciers and is traversed by river
 
 ## 交通 / Transport
 
-- ✈ **Tivat Airport (TIV)** — 87.1 km
-- ✈ **Podgorica Airport / Podgorica Golubovci Airbase (TGD)** — 90.0 km
-- ✈ **Dubrovnik Ruđer Bošković Airport (DBV)** — 90.9 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **7682.4 km**
+- ✈ **Sarajevo International Airport (SJJ)** — 84.0 km
+- ✈ **Mostar International Airport (OMO)** — 94.2 km
+- ✈ **Tivat Airport (TIV)** — 96.9 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **7616.2 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 
@@ -58,13 +58,13 @@ Visa required[6] National visa may be substituted with a valid Schengen visa, a 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/100)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Tara%20River%20Canyon)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

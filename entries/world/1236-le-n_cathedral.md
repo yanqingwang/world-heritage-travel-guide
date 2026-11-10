@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2011"
 criteria: "(ii)(iv)"
-lat: 42.59944444
-lon: -5.56666667
-updated_at: "2026-11-10T14:48:00Z"
+lat: 12.434997222
+lon: -86.878097222
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 莱昂大教堂 / León Cathedral
@@ -45,10 +45,10 @@ Fue construida entre 1747 y principios del siglo XIX con diseños del arquitecto
 
 ## 交通 / Transport
 
-- ✈ **León Airport (LEN)** — 7.2 km
-- ✈ **Asturias Airport (OVD)** — 113.7 km
-- ✈ **Valladolid Airport (VLL)** — 115.5 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **9143.3 km**
+- ✈ **Augusto C. Sandino (Managua) International Airport (MGA)** — 83.7 km
+- ✈ **Toncontín Airport (TGU)** — 184.5 km
+- ✈ **Palmerola International Airport (XPL)** — 231.0 km
+- ✈ 距北京直线距离 / great-circle from Beijing: **13751.4 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 
@@ -60,13 +60,13 @@ eVisa[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1236)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Le%C3%B3n%20Cathedral%2C%20Nicaragua)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

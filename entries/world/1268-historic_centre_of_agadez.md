@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)"
 lat: 16.9744
 lon: 7.9896
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 阿加德兹历史中心 / Historic Centre of Agadez
@@ -65,6 +65,6 @@ Visa required[6] Holders of passports for public affairs do not require a visa.[
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1268)
-- [Wikipedia](https://en.wikipedia.org/wiki/Historic%20Centre%20of%20Agadez)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -3,7 +3,7 @@ id: "wh-1715"
 dataset: "unesco"
 name_zh: "格丁尼亚现代主义市中心"
 name_en: "Gdynia Modernist City Centre"
-name_local: ""
+name_local: "Śródmieście (Gdynia)"
 country: "PL"
 country_zh: "波兰"
 country_en: "Poland"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2026"
 criteria: "(iv)"
-lat: 54.52083333
-lon: 18.53888889
-updated_at: "2026-11-10T14:48:05Z"
+lat: 54.51953
+lon: 18.53891
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 格丁尼亚现代主义市中心 / Gdynia Modernist City Centre
@@ -39,11 +39,17 @@ Located on the Baltic Sea coast, "Gdynia Modernist City Centre" encompasses the 
 
 *中文简介：机器翻译。*
 
+## 本地语言 / Local language (Polish)
+
+**Śródmieście (Gdynia)**
+
+Śródmieście – centralna, nadmorska dzielnica Gdyni, granicząca z następującymi dzielnicami tegoż miasta: Oksywie, Obłuże, Pogórze (wszystkie trzy od północy), Chylonia, Leszczynki, Grabówek (wszystkie trzy od zachodu) oraz Działki Leśne, Wzgórze Świętego Maksymiliana i Kamienna Góra (od południa), a od wschodu także z Morzem Bałtyckim.
+
 ## 交通 / Transport
 
-- ✈ **Gdańsk Lech Wałęsa Airport (GDN)** — 16.6 km
+- ✈ **Gdańsk Lech Wałęsa Airport (GDN)** — 16.5 km
 - ✈ **Khrabrovo Airport (KGD)** — 138.6 km
-- ✈ **Ignacy Jan Paderewski Bydgoszcz Airport (BZG)** — 162.6 km
+- ✈ **Ignacy Jan Paderewski Bydgoszcz Airport (BZG)** — 162.4 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6959.1 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -56,13 +62,13 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en
+- 可用语言 / Available: en, local
 
 - UNESCO 官方文本 / official editions: en, fr
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1715)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Downtown%2C%20Gdynia)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)(vi)"
 lat: 22.15
 lon: -104.166666666
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 通往维里库塔的维哈里卡圣地之路（我们的祖火之路） / Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé)
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T14:48:05Z"
 > 墨西哥 · 文化遗产
 
 ## 图片 / Images
+
+![La peregrinación a Wirikuta de los wixaritari.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/La_peregrinaci%C3%B3n_a_Wirikuta_de_los_wixaritari.jpg/1280px-La_peregrinaci%C3%B3n_a_Wirikuta_de_los_wixaritari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*La peregrinación a Wirikuta de los wixaritari.jpg · Kauyumarie · CC BY-SA 4.0*
+
+![Tatehuari Huajuye banner.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Tatehuari_Huajuye_banner.jpg/1280px-Tatehuari_Huajuye_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Tatehuari Huajuye banner.jpg · Kauyumarie · CC BY-SA 4.0*
 
 ![Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé)](https://whc.unesco.org/uploads/sites/site_1704.jpg)
 

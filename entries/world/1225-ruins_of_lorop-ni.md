@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2009"
 criteria: "(iii)"
-lat: 10.310277777778
-lon: -3.5630555555556
-updated_at: "2026-11-10T14:48:00Z"
+lat: 10.310277777
+lon: -3.563055555
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 洛罗佩尼遗址 / Ruins of Loropéni
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T14:48:00Z"
 > 布基纳法索 · 文化遗产
 
 ## 图片 / Images
+
+![2016.05-441-131ap wall Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1106h.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg/1280px-2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016.05-441-131ap wall Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1106h.jpg · Rik Schuiling / TropCrop-TCS · CC BY-SA 4.0*
+
+![2016.05-441-134ap archeology,excavation Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1119h.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/2016.05-441-134ap_archeology%2Cexcavation_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1119h.jpg/1280px-2016.05-441-134ap_archeology%2Cexcavation_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1119h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*2016.05-441-134ap archeology,excavation Loropéni Ruins nr.Loropéni(Poni Prv.),BF sun15may2016-1119h.jpg · Rik Schuiling / TropCrop-TCS · CC BY-SA 4.0*
+
+![Loropéni-location-map.png](https://upload.wikimedia.org/wikipedia/commons/2/27/Lorop%C3%A9ni-location-map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Loropéni-location-map.png · Burkina_Faso_location_map.svg : Uwe Dedering derivative work: Ericleb01 ( talk ) · CC BY-SA 3.0*
+
+![WL-BF-Loropéni-Carcasse de Bus calciné sur la route.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/WL-BF-Lorop%C3%A9ni-Carcasse_de_Bus_calcin%C3%A9_sur_la_route.jpg/1280px-WL-BF-Lorop%C3%A9ni-Carcasse_de_Bus_calcin%C3%A9_sur_la_route.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*WL-BF-Loropéni-Carcasse de Bus calciné sur la route.jpg · WILLAV-FR · CC BY-SA 4.0*
 
 ![Ruins of Loropéni](https://whc.unesco.org/uploads/sites/site_1225.jpg)
 
@@ -56,13 +72,13 @@ eVisa[6][33] Holders of passports for public affairs do not require a visa.[18]
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en
+- 可用语言 / Available: en, ja
 
 - UNESCO 官方文本 / official editions: en, fr, es, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1225)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Ruins%20of%20Lorop%C3%A9ni)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

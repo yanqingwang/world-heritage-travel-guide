@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(viii)"
 lat: 45.751944
 lon: -64.418056
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 乔金斯化石崖壁 / Joggins Fossil Cliffs
@@ -73,6 +73,6 @@ Visa required[6] No transit visa is required if transiting through Calgary, Mont
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1285)
-- [Wikipedia](https://en.wikipedia.org/wiki/Joggins%20Fossil%20Cliffs)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

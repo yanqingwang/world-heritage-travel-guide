@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(iii)(iv)(vi)"
 lat: -16.836111111
 lon: -151.359166666
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 塔普塔普阿泰 / Taputapuātea
@@ -73,6 +73,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1529)
-- [Wikipedia](https://en.wikipedia.org/wiki/Taputapuatea%20marae)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

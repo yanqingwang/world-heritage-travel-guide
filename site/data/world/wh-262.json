@@ -27,9 +27,9 @@
  "local_lang": "ar",
  "local_lang_name": "Arabic",
  "slug": "262-sanganeb_marine_national_park_and_dungon",
- "lat": 19.7361,
- "lon": 37.4431,
- "coord_accuracy": "wikidata_search",
+ "lat": 20.937222,
+ "lon": 37.255278,
+ "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
  "category_en": "Natural",
@@ -44,6 +44,22 @@
  "intro_local": "يضم الموقع منطقتين منفصلتين. الأولى هي سنجانب والتي تعد تجمعا للشعاب المرجانيّة المعزولة ويقع وسط البحر الأحمر حيث يعد هذا الموقع الجزيرة المرجانية الوحيدة في هذا البحر على بعد 25 كم من السواحل السودانيّة. أما المنطقة الثانية فهي خليج جزيرة دنقاب وجزيرة مكوار. وتقع هاتان الجزيرتان على بعد 125 كم شمال مدينة بورسودان وفيهما مجموعة متنوّعة من الشعاب المرجانيّة ونباتات أيكة ساحلية والأعشاب البحريّة والشواطئ والجزر. ويقطن في هاتين المنطقتين مجموعة من الطيور والثديات البحرية بالإضافة إلى أسماك القرش وشيطان البحر والسلاحف. كما يعد خليج جزيرة دنقاب مسكناً مهمّاً لحيوان الأطوم البحري.",
  "intro_local_source": "unesco_official",
  "images": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dendronephthya_klunzingeri%2C_Sud%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Dendronephthya klunzingeri, Sudán.jpg",
+   "author": "Ventura Mallol",
+   "license": "GPL",
+   "credit": "This image is uploaded as image number 17541 at Animalandia at Educa Madrid , a source of photographs of animals. This tag does not indicate the copyright statu",
+   "source": "https://commons.wikimedia.org/wiki/File:Dendronephthya_klunzingeri%2C_Sud%C3%A1n.jpg"
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Gomophia_egyptiaca%2C_Sud%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "Gomophia egyptiaca, Sudán.jpg",
+   "author": "Ventura Mallol",
+   "license": "GPL",
+   "credit": "This image is uploaded as image number 13079 at Animalandia at Educa Madrid , a source of photographs of animals. This tag does not indicate the copyright statu",
+   "source": "https://commons.wikimedia.org/wiki/File:Gomophia_egyptiaca%2C_Sud%C3%A1n.jpg"
+  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_262.jpg",
    "title": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park",
@@ -66,7 +82,7 @@
     "lat": 19.434558,
     "lon": 37.234125,
     "type": "large_airport",
-    "distance_km": 40.0,
+    "distance_km": 167.1,
     "name_zh": "苏丹港新国际机场"
    },
    {
@@ -77,7 +93,7 @@
     "lat": 21.680241,
     "lon": 39.157436,
     "type": "large_airport",
-    "distance_km": 280.2,
+    "distance_km": 213.7,
     "name_zh": "阿卜杜勒-阿齐兹国王国际机场"
    },
    {
@@ -88,11 +104,11 @@
     "lat": 21.484739,
     "lon": 40.544074,
     "type": "large_airport",
-    "distance_km": 376.8,
+    "distance_km": 346.3,
     "name_zh": "塔伊夫地区机场"
    }
   ],
-  "nearest_airport_km": 40.0,
+  "nearest_airport_km": 167.1,
   "distance_beijing_km": 7746.0,
   "ferry_terminals": [],
   "railway_stations": []
@@ -150,7 +166,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 20
  },
  "sources": [
   {
@@ -158,8 +174,8 @@
    "url": "https://whc.unesco.org/en/list/262"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dungonab%20Bay"
   },
   {
    "name": "OpenStreetMap",
@@ -170,5 +186,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:51Z"
+ "updated_at": "2026-11-10T23:01:09Z"
 }

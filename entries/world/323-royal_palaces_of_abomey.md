@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iii)(iv)"
 lat: 7.18556
 lon: 1.98806
-updated_at: "2026-11-10T14:47:52Z"
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 阿波美皇宫 / Royal Palaces of Abomey

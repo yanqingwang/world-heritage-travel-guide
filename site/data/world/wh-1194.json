@@ -23,12 +23,12 @@
  "name_zh": "巴厘岛文化景观：苏巴克体系",
  "name_zh_source": "curated",
  "name_en": "Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy",
- "name_local": "Candi Mangening",
+ "name_local": "Lanskap kultur Provinsi Bali",
  "local_lang": "id",
  "local_lang_name": "Indonesian",
  "slug": "1194-cultural_landscape_of_bali_province:_the",
- "lat": -8.42016,
- "lon": 115.31194,
+ "lat": -8.259166667,
+ "lon": 115.4027778,
  "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
@@ -41,7 +41,7 @@
  "intro_zh_source": "machine_translation",
  "intro_en": "The cultural landscape of Bali consists of five rice terraces and their water temples that cover 19,500 ha. The temples are the focus of a cooperative water management system of canals and weirs, known as subak, that dates back to the 9th century. Included in the landscape is the 18th-century Royal Water Temple of Pura Taman Ayun, the largest and most impressive architectural edifice of its type on the island. The subak reflects the philosophical concept of Tri Hita Karana , which brings together the realms of the spirit, the human world and nature. This philosophy was born of the cultural exchange between Bali and India over the past 2,000 years and has shaped the landscape of Bali. The subak system of democratic and egalitarian farming practices has enabled the Balinese to become the most prolific rice growers in the archipelago despite the challenge of supporting a dense population.",
  "intro_en_source": "unesco_official",
- "intro_local": "Candi Mangening adalah sebuah candi yang terletak di Kec. Tampaksiring, Kabupaten Gianyar, Bali. Candi ini adalah situs kuno, yaitu peninggalan pemerintahan Raja Marakata tahun 1022 Masehi. Pertama kali ditemukan oleh W.F. Sutterheim di 1925 – 1927 tapi tidak disebutkan secara rinci, kemudian pada tahun 1960 Bernet Kempers menyatakan bahwa ada sebuah kuil dengan sisa-sisa bangunan diatas bukit kecil. Berdasarkan laporan, penggalian dan penelitian dilakukan kemudian ditemukan Candi dalam kondisi lengkap termasuk Lingga Yoni ditemukan, ditempatkan diruang candi dianggap suci oleh orang lokal. Tempat ini dibangun di lembah sungai Pakerisan yang memiliki sumber daya air yang melimpah. Air yang ditampung dikolam dan mengalir melalui Sungai Pakerisan, air sungai ini difungsikan untuk mengairi sawah disekitarnya bahkan sampai ke daerah Pejeng dan Bedulu. Bangunan masuk status cagar budaya oleh Pemprop Bali berdasarkan UU No.5/1985. dan pada tahun 2012 kompleks Candi dan Pura Mengening masuk dalam wilayah B Lanskap kultur Provinsi Bali.",
+ "intro_local": "Lanskap kultur Provinsi Bali adalah sebuah lanskap yang berada di Provinsi Bali, yang ditetapkan menjadi salah satu Situs Warisan Dunia UNESCO pada Tahun 2012. Lanskap tersebut terdiri dari pedesaan dan sawah bertingkat di Bali, dengan sistem subak, pura, dan candi yang berada di sana. Lanskap ini terbentuk dari organisasi pengolahan sawah yang disebut subak, yang merupakan manifestasi dari pelaksanaan filsafat Bali, Tri Hita Karana, yaitu hubungan yang harmonis antara Tuhan, manusia, dan alam sekitar.",
  "intro_local_source": "wikipedia",
  "images": [
   {
@@ -74,19 +74,8 @@
     "lat": -8.748409,
     "lon": 115.167123,
     "type": "large_airport",
-    "distance_km": 39.8,
+    "distance_km": 60.3,
     "name_zh": "伍拉·赖国际机场"
-   },
-   {
-    "name": "Banyuwangi Airport",
-    "iata": "BWX",
-    "city": "Rogojampi, Banyuwangi",
-    "country": "ID",
-    "lat": -8.31015,
-    "lon": 114.3401,
-    "type": "small_airport",
-    "distance_km": 107.6,
-    "name_zh": "Blimbingsari机场"
    },
    {
     "name": "Lombok International Airport",
@@ -96,11 +85,22 @@
     "lat": -8.759962,
     "lon": 116.278169,
     "type": "large_airport",
-    "distance_km": 112.8,
+    "distance_km": 111.2,
     "name_zh": "龙目国际机场"
+   },
+   {
+    "name": "Banyuwangi Airport",
+    "iata": "BWX",
+    "city": "Rogojampi, Banyuwangi",
+    "country": "ID",
+    "lat": -8.31015,
+    "lon": 114.3401,
+    "type": "small_airport",
+    "distance_km": 117.1,
+    "name_zh": "Blimbingsari机场"
    }
   ],
-  "nearest_airport_km": 39.8,
+  "nearest_airport_km": 60.3,
   "distance_beijing_km": 5431.4,
   "ferry_terminals": [],
   "railway_stations": []
@@ -144,7 +144,7 @@
  "info_languages": {
   "zh": false,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": true,
   "local_lang": "id",
@@ -154,7 +154,7 @@
    "fr",
    "es"
   ],
-  "wikipedia_editions": 3
+  "wikipedia_editions": 6
  },
  "sources": [
   {
@@ -174,5 +174,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:00Z"
+ "updated_at": "2026-11-10T23:01:16Z"
 }

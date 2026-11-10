@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 50.978644
 lon: 11.029246
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 埃尔福特的中世纪犹太遗产 / Jewish-Medieval Heritage of Erfurt

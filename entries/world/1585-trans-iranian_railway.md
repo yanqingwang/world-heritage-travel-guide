@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: 35.658305555
 lon: 51.398333333
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 伊朗纵贯铁路 / Trans-Iranian Railway
@@ -71,6 +71,6 @@ Visa not required[6][60] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1585)
-- [Wikipedia](https://en.wikipedia.org/wiki/Trans-Iranian%20Railway)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

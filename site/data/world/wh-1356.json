@@ -24,12 +24,12 @@
  "name_zh_source": "unesco_official",
  "name_en": "Blue and John Crow Mountains",
  "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "local_lang": "jam",
+ "local_lang_name": "Jamaican Patois",
  "slug": "1356-blue_and_john_crow_mountains",
  "lat": 18.0775,
- "lon": -76.571111111111,
- "coord_accuracy": "wikidata_search",
+ "lon": -76.571111111,
+ "coord_accuracy": "site",
  "category": "Mixed",
  "category_zh": "混合遗产",
  "category_en": "Mixed",
@@ -138,8 +138,8 @@
   "ja": false,
   "ko": false,
   "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local_lang": "jam",
+  "local_lang_name": "Jamaican Patois",
   "official_unesco": [
    "en",
    "zh",
@@ -148,7 +148,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 1
  },
  "sources": [
   {
@@ -168,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:01Z"
+ "updated_at": "2026-11-10T23:01:18Z"
 }

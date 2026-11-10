@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(ii)(iii)(iv)(v)"
 lat: 9.3091
 lon: 42.1372
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 历史要塞城市哈勒尔 / Harar Jugol, the Fortified Historic Town
@@ -22,6 +22,10 @@ updated_at: "2026-11-10T14:48:00Z"
 > 埃塞俄比亚 · Harari Region · 文化遗产
 
 ## 图片 / Images
+
+![WWH activity report 2023.pdf](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/WWH_activity_report_2023.pdf/page1-960px-WWH_activity_report_2023.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*WWH activity report 2023.pdf · Yamen · CC BY-SA 4.0*
 
 ![Harar Jugol, the Fortified Historic Town](https://whc.unesco.org/uploads/sites/site_1189.jpg)
 

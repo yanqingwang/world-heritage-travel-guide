@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)"
 lat: 5.4312
 lon: -54.9823
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 尤登萨瓦内考古遗址：尤登萨瓦内定居地与卡西波拉溪墓地 / Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery
@@ -71,6 +71,6 @@ Visa not required[6][140] An entrance fee of USD 50 or EUR 50 must be paid onlin
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1680)
-- [Wikipedia](https://en.wikipedia.org/wiki/Jodensavanne)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 34.29577
 lon: 132.320105
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 严岛神殿 / Itsukushima Shinto Shrine
@@ -103,6 +103,6 @@ eVisa (conditional)[6] Japanese oversea missions in mainland China request all v
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/776)
-- [Wikipedia](https://en.wikipedia.org/wiki/Itsukushima%20Shrine)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

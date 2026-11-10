@@ -37,9 +37,9 @@
  "local_lang": "fr",
  "local_lang_name": "French",
  "slug": "1380-sangha_trinational",
- "lat": 2.6666666666667,
- "lon": 16.333333333333,
- "coord_accuracy": "wikidata_search",
+ "lat": 2.666666666,
+ "lon": 16.333333333,
+ "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
  "category_en": "Natural",
@@ -47,8 +47,8 @@
  "year": "2012",
  "danger": false,
  "transnational": true,
- "intro_zh": "该地区位于喀麦隆、中非共和国和刚果三国交界处的刚果盆地西北部，包括三个相连的国家公园，总面积约 750,000 公顷。该地区的大部分地区未受到人类活动的影响，拥有广泛的潮湿热带森林生态系统，拥有丰富的动植物群，包括尼罗河鳄鱼和大型捕食者虎鱼。森林空地支持草本物种的生长，桑加是大量森林象、极度濒危的西部低地大猩猩和濒临灭绝的黑猩猩的家园。该遗址的环境保存了大规模的生态和进化过程的延续以及丰富的生物多样性，包括许多濒临灭绝的动物物种。",
- "intro_zh_source": "machine_translation",
+ "intro_zh": "桑加跨三国保护区是桑加河流域的一处世界自然遗产，于2012年被联合国教科文组织登录，面积746,309公顷，缓冲区面积1,787,950公顷。桑加跨三国保护区位于喀麦隆、中非共和国和刚果共和国三国交界处，包括热带雨林、湿地和自然森林空地。",
+ "intro_zh_source": "wikipedia",
  "intro_en": "Situated in the north-western Congo Basin, where Cameroon, Central African Republic and Congo meet, the site encompasses three contiguous national parks totalling around 750,000 ha. Much of the site is unaffected by human activity and features a wide range of humid tropical forest ecosystems with rich flora and fauna, including Nile crocodiles and goliath tigerfish, a large predator. Forest clearings support herbaceous species and Sangha is home to considerable populations of forest elephants, critically endangered western lowland gorilla, and endangered chimpanzee. The site’s environment has preserved the continuation of ecological and evolutionary processes on a huge scale and great biodiversity, including many endangered animal species.",
  "intro_en_source": "unesco_official",
  "intro_local": "Situé dans le nord-ouest du bassin du Congo, au point de rencontre du Cameroun, du Congo et de la République centrafricaine, le site comprend trois parcs nationaux contigus, couvrant une superficie totale de 750 000 hectares, très peu affectés par l’activité humaine. On y trouve l’ensemble du spectre des écosystèmes de forêts tropicales humides. Les riches faune et flore comprennent notamment des crocodiles du Nil et des poissons-tigres Goliath, grands prédateurs. Les clairières offrent des espèces herbacées et la Sangha abrite des populations considérables d’éléphants de forêt, ainsi que des gorilles des plaines de l’ouest (en danger critique d’extinction) et des chimpanzés (en danger). L’environnement du site a permis la poursuite des processus écologiques et évolutionnaires sur une large échelle, ainsi que le maintien d’une grande biodiversité, comprenant de nombreuses espèces en danger.",
@@ -165,10 +165,10 @@
   "voltage": "220V/50Hz"
  },
  "info_languages": {
-  "zh": false,
+  "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "local": true,
   "local_lang": "fr",
   "local_lang_name": "French",
@@ -177,7 +177,7 @@
    "fr",
    "es"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 36
  },
  "sources": [
   {
@@ -185,8 +185,8 @@
    "url": "https://whc.unesco.org/en/list/1380"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sangha%20Trinational"
   },
   {
    "name": "OpenStreetMap",
@@ -197,5 +197,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:02Z"
+ "updated_at": "2026-11-10T23:01:18Z"
 }

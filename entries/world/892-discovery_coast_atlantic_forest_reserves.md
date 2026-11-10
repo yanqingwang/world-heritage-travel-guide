@@ -3,7 +3,7 @@ id: "wh-892"
 dataset: "unesco"
 name_zh: "大西洋沿岸热带雨林保护区"
 name_en: "Discovery Coast Atlantic Forest Reserves"
-name_local: ""
+name_local: "Reservas de Mata Atlântica da Costa do Descobrimento"
 country: "BR"
 country_zh: "巴西"
 country_en: "Brazil"
@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ix)(x)"
 lat: -16.5
 lon: -39.25
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 大西洋沿岸热带雨林保护区 / Discovery Coast Atlantic Forest Reserves
@@ -37,6 +37,12 @@ updated_at: "2026-11-10T14:47:57Z"
 
 The Discovery Coast Atlantic Forest Reserves, in the states of Bahia and Espírito Santo, consist of eight separate protected areas containing 112,000 ha of Atlantic forest and associated shrub ( restingas ). The rainforests of Brazil’s Atlantic coast are the world’s richest in terms of biodiversity. The site contains a distinct range of species with a high level of endemism and reveals a pattern of evolution that is not only of great scientific interest but is also of importance for conservation.
 
+## 本地语言 / Local language (Portuguese)
+
+**Reservas de Mata Atlântica da Costa do Descobrimento**
+
+As Reservas de Mata Atlântica da Costa do Descobrimento possui 112.000 hectares da Reserva da Biosfera da Mata Atlântica entre 16° 09' - 16° 51' S e 39° 19' - 39° 21' W foram declarados Patrimônio Mundial pela UNESCO em 1999. As Reservas da Costa do Descobrimento nos estados de Bahia e Espírito Santo possuem os remanescentes mais preservados de Mata Atlântica entre Nordeste do Brasil e o Sudeste. Tem incalculável valor simbólico por abrigar as paisagens ainda intactas que testemunharam o nascimento de uma grande nação. Compreenden 8 UC´s: as Reservas Biológicas de Una e Sooretama; as RPPNs Pau Brasil, Vera Cruz e Linhares; os Parques Nacionais Pau Brasil, Monte Pascoal e do Descobrimento. As florestas tropicais da costa atlântica do Brasil são as mais ricas do mundo em termos de biodiversidade. O lugar possui uma vasta distinção de espécies com uma alto grau de endemismo e demonstra uma quadro de evolução que não é somente de grande interesse científico mas também de grande importância para a conservação. Entre as espécies mais conhecidas estão o mico-leão-de-cara-dourada e o macaco-prego-do-peito-amarelo. Lá podemos também encontrar restos de "pau brasil", a madeira brasileira que deu origem ao nome do país - Brasil. As Reservas da Mata Atlântica da Costa do Descobrimento compreendem uma série de patrimônios culturais, que representam exemplos extraordinários da primeira ocupa
+
 ## 交通 / Transport
 
 - ✈ **Porto Seguro International Airport (BPS)** — 19.3 km
@@ -54,7 +60,7 @@ Visa not required[6] Visa-exemption up to 30 days in 12 months until 31 Dec 2026
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

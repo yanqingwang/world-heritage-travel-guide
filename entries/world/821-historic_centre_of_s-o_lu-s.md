@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(iii)(iv)(v)"
 lat: -2.52773314
 lon: -44.305795125
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 圣路易斯历史中心 / Historic Centre of São Luís
@@ -71,6 +71,6 @@ Visa not required[6] Visa-exemption up to 30 days in 12 months until 31 Dec 2026
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/821)
-- [Wikipedia](https://en.wikipedia.org/wiki/Historic%20Centre%20of%20S%C3%A3o%20Lu%C3%ADs)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

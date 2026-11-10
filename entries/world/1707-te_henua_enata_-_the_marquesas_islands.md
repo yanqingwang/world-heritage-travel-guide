@@ -14,7 +14,7 @@ year: "2024"
 criteria: "(iii)(vi)(vii)(ix)(x)"
 lat: -8.9
 lon: -139.6
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 人类之地——马克萨斯群岛 / Te Henua Enata – The Marquesas Islands
@@ -89,6 +89,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1707)
-- [Wikipedia](https://en.wikipedia.org/wiki/Marquesas%20Islands)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

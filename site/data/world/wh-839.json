@@ -27,9 +27,9 @@
  "local_lang": "es",
  "local_lang_name": "Spanish",
  "slug": "839-alejandro_de_humboldt_national_park",
- "lat": 20.45,
- "lon": -75.0,
- "coord_accuracy": "wikipedia",
+ "lat": 20.496745,
+ "lon": -74.857897,
+ "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
  "category_en": "Natural",
@@ -66,7 +66,7 @@
     "lat": 20.365299224853516,
     "lon": -74.5062026977539,
     "type": "medium_airport",
-    "distance_km": 52.3,
+    "distance_km": 39.5,
     "name_zh": "Gustavo Rizo机场"
    },
    {
@@ -77,22 +77,21 @@
     "lat": 19.97474,
     "lon": -75.835504,
     "type": "large_airport",
-    "distance_km": 101.9,
+    "distance_km": 117.4,
     "name_zh": "圣地亚哥-德古巴"
    },
    {
-    "name": "Frank Pais International Airport",
-    "iata": "HOG",
-    "city": "Holguin",
-    "country": "CU",
-    "lat": 20.785148,
-    "lon": -76.315526,
-    "type": "large_airport",
-    "distance_km": 141.9,
-    "name_zh": "弗兰克帕里斯机场"
+    "name": "Inagua Airport",
+    "iata": "IGA",
+    "city": "Matthew Town",
+    "country": "BS",
+    "lat": 20.975,
+    "lon": -73.666901,
+    "type": "medium_airport",
+    "distance_km": 134.8
    }
   ],
-  "nearest_airport_km": 52.3,
+  "nearest_airport_km": 39.5,
   "distance_beijing_km": 13196.2,
   "ferry_terminals": [],
   "railway_stations": []
@@ -136,8 +135,8 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "local": true,
   "local_lang": "es",
   "local_lang_name": "Spanish",
@@ -149,7 +148,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 42
  },
  "sources": [
   {
@@ -157,8 +156,8 @@
    "url": "https://whc.unesco.org/en/list/839"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alejandro%20de%20Humboldt%20National%20Park"
   },
   {
    "name": "OpenStreetMap",
@@ -169,5 +168,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:57Z"
+ "updated_at": "2026-11-10T23:01:13Z"
 }

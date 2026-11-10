@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1991"
 criteria: "(i)(ii)(iv)"
-lat: 48.8567
-lon: 2.3522
-updated_at: "2026-11-10T14:47:54Z"
+lat: 48.85
+lon: 2.35889
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 巴黎塞纳河畔 / Paris, Banks of the Seine
@@ -45,9 +45,9 @@ Du Louvre jusqu'à la tour Eiffel, ou de la place de la Concorde au Grand Palais
 
 ## 交通 / Transport
 
-- ✈ **Paris-Orly Airport (ORY)** — 14.2 km
-- ✈ **Charles de Gaulle International Airport (CDG)** — 22.5 km
-- ✈ **Beauvais-Tillé airport (BVA)** — 68.7 km
+- ✈ **Paris-Orly Airport (ORY)** — 13.4 km
+- ✈ **Charles de Gaulle International Airport (CDG)** — 22.7 km
+- ✈ **Beauvais-Tillé airport (BVA)** — 69.5 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8220.5 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -60,7 +60,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

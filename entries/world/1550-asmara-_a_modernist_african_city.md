@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(ii)(iv)"
 lat: 15.335278
 lon: 38.935833
-updated_at: "2026-11-10T14:48:03Z"
+updated_at: "2026-11-10T23:01:19Z"
 ---
 
 # 阿斯马拉：现代主义非洲城市 / Asmara: A Modernist African City
@@ -35,7 +35,7 @@ updated_at: "2026-11-10T14:48:03Z"
 
 ### 中文
 
-厄立特里亚首都海拔超过 2,000 米，从 1890 年代起发展为意大利殖民列强的军事前哨。 1935 年之后，阿斯马拉经历了大规模的建设计划，将当时的意大利理性主义风格应用于政府大楼、住宅和商业建筑、教堂、清真寺、犹太教堂、电影院、酒店等。该地产涵盖了 1893 年至 1941 年间各个规划阶段所形成的城市区域，以及阿尔巴特·阿斯梅拉 (Arbate Asmera) 和阿巴沙维尔 (Abbashawel) 等未规划的土著社区。它是 20 世纪初早期现代主义城市主义及其在非洲背景下的应用的一个特殊例子。
+厄立特里亚首都海拔超过 2,000 米，从 1890 年代起发展为意大利殖民列强的军事前哨。 1935 年之后，阿斯马拉经历了大规模的建设计划，将当时的意大利理性主义风格应用于政府大楼、住宅和商业建筑、教堂、清真寺、犹太教堂、电影院、酒店等。该地产涵盖了 1893 年至 1941 年间各个规划阶段所形成的城市区域，以及阿尔巴特·阿斯梅拉 (Arbate Asmera) 和阿巴沙维尔 (Abbashawel) 等未规划的土著社区。 It is an exceptional example of early modernist urbanism at the beginning of the 20th century and its application in an African context.
 
 ### English
 

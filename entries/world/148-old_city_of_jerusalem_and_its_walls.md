@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)(iii)(vi)"
 lat: 31.778214
 lon: 35.23191
-updated_at: "2026-11-10T14:47:50Z"
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 耶路撒冷古城及其城墙 / Old City of Jerusalem and its Walls
@@ -54,13 +54,13 @@ As a holy city for Judaism, Christianity and Islam, Jerusalem has always been of
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/148)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Old%20City%20of%20Jerusalem%20and%20its%20Walls)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

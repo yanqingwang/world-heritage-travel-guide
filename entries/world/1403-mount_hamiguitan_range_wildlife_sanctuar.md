@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(x)"
 lat: 6.74
 lon: 126.182
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 哈米吉坦山野生动物保护区 / Mount Hamiguitan Range Wildlife Sanctuary
@@ -67,6 +67,6 @@ Visa not required eVisas issued to Chinese citizens are good for single-entry on
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1403)
-- [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Hamiguitan%20Range%20Wildlife%20Sanctuary)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

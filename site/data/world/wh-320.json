@@ -27,9 +27,9 @@
  "local_lang": "es",
  "local_lang_name": "Spanish",
  "slug": "320-works_of_antoni_gaudí",
- "lat": 41.4,
- "lon": 2.15,
- "coord_accuracy": "wikidata_search",
+ "lat": 41.363828,
+ "lon": 2.027819,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -66,19 +66,8 @@
     "lat": 41.2971,
     "lon": 2.07846,
     "type": "large_airport",
-    "distance_km": 12.9,
+    "distance_km": 8.5,
     "name_zh": "巴塞罗那机场"
-   },
-   {
-    "name": "Girona-Costa Brava Airport",
-    "iata": "GRO",
-    "city": "Girona",
-    "country": "ES",
-    "lat": 41.904639,
-    "lon": 2.761774,
-    "type": "large_airport",
-    "distance_km": 75.7,
-    "name_zh": "赫罗纳－布拉瓦海岸机场"
    },
    {
     "name": "Reus Airport",
@@ -88,11 +77,22 @@
     "lat": 41.147509,
     "lon": 1.168354,
     "type": "large_airport",
-    "distance_km": 86.7,
+    "distance_km": 75.8,
     "name_zh": "雷乌斯"
+   },
+   {
+    "name": "Girona-Costa Brava Airport",
+    "iata": "GRO",
+    "city": "Girona",
+    "country": "ES",
+    "lat": 41.904639,
+    "lon": 2.761774,
+    "type": "large_airport",
+    "distance_km": 85.7,
+    "name_zh": "赫罗纳－布拉瓦海岸机场"
    }
   ],
-  "nearest_airport_km": 12.9,
+  "nearest_airport_km": 8.5,
   "distance_beijing_km": 8812.5,
   "ferry_terminals": [],
   "railway_stations": []
@@ -149,7 +149,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 1
  },
  "sources": [
   {
@@ -169,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:52Z"
+ "updated_at": "2026-11-10T23:01:09Z"
 }

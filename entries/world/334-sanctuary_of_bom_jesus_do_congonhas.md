@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iv)"
 lat: -20.507777777
 lon: -43.860694444
-updated_at: "2026-11-10T14:47:52Z"
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 孔戈尼亚斯的仁慈耶稣圣殿 / Sanctuary of Bom Jesus do Congonhas

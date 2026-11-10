@@ -27,9 +27,9 @@
  "local_lang": null,
  "local_lang_name": null,
  "slug": "1423-cultural_landscape_of_maymand",
- "lat": 33.74695630819231,
- "lon": 51.33943194923077,
- "coord_accuracy": "country_centroid",
+ "lat": 30.168055555,
+ "lon": 55.375555555,
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -59,40 +59,41 @@
  "transport": {
   "airports": [
    {
-    "name": "Kashan Airport",
-    "iata": "KKS",
-    "city": "Kashan",
+    "name": "Rafsanjan Airport",
+    "iata": "RJN",
+    "city": "Rafsanjan",
     "country": "IR",
-    "lat": 33.895302,
-    "lon": 51.577,
+    "lat": 30.298345,
+    "lon": 56.048979,
     "type": "medium_airport",
-    "distance_km": 27.5
+    "distance_km": 66.3,
+    "name_zh": "拉夫桑贾机场"
    },
    {
-    "name": "Isfahan Shahid Beheshti International Airport",
-    "iata": "IFN",
-    "city": "Isfahan",
+    "name": "Ayatollah Hashemi Rafsanjani International Airport",
+    "iata": "KER",
+    "city": "Kerman",
     "country": "IR",
-    "lat": 32.755142,
-    "lon": 51.883877,
+    "lat": 30.271276,
+    "lon": 56.949692,
     "type": "large_airport",
-    "distance_km": 121.3,
-    "name_zh": "伊斯法罕"
+    "distance_km": 151.7,
+    "name_zh": "阿克巴尔·哈什米·拉夫桑贾尼机场"
    },
    {
-    "name": "Imam Khomeini International Airport",
-    "iata": "IKA",
-    "city": "Tehran",
+    "name": "Shahid Sadooghi Airport",
+    "iata": "AZD",
+    "city": "Yazd",
     "country": "IR",
-    "lat": 35.416099548339844,
-    "lon": 51.152198791503906,
-    "type": "large_airport",
-    "distance_km": 186.4,
-    "name_zh": "伊玛目霍梅尼国际机场"
+    "lat": 31.9048995972,
+    "lon": 54.2765007019,
+    "type": "medium_airport",
+    "distance_km": 219.7,
+    "name_zh": "什伊德斯道格伊机场"
    }
   ],
-  "nearest_airport_km": 27.5,
-  "distance_beijing_km": 5686.7,
+  "nearest_airport_km": 66.3,
+  "distance_beijing_km": 5501.4,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -168,5 +169,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:02Z"
+ "updated_at": "2026-11-10T23:01:18Z"
 }

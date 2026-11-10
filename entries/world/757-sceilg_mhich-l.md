@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(iii)(iv)"
 lat: 51.771111111
 lon: -10.540555555
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 斯凯利格•迈克尔岛 / Sceilg Mhichíl
@@ -90,6 +90,6 @@ Visa required[6] National visa may be substituted with a valid C visa or visas e
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/757)
-- [Wikipedia](https://en.wikipedia.org/wiki/Skellig%20Michael)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

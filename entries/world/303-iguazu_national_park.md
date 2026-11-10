@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(vii)(x)"
 lat: -25.666666666
 lon: -54.4
-updated_at: "2026-11-10T14:47:51Z"
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 伊瓜苏国家公园 / Iguazu National Park

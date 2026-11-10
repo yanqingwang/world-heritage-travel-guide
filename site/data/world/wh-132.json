@@ -24,12 +24,12 @@
  "name_zh_source": "unesco_official",
  "name_en": "Megalithic Temples of Malta",
  "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "local_lang": "mt",
+ "local_lang_name": "Maltese",
  "slug": "132-megalithic_temples_of_malta",
  "lat": 36.04916667,
  "lon": 14.26944444,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -137,11 +137,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
+  "ja": true,
+  "ko": true,
   "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local_lang": "mt",
+  "local_lang_name": "Maltese",
   "official_unesco": [
    "en",
    "zh",
@@ -150,7 +150,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 43
  },
  "sources": [
   {
@@ -158,8 +158,8 @@
    "url": "https://whc.unesco.org/en/list/132"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Megalithic%20Temples%20of%20Malta"
   },
   {
    "name": "OpenStreetMap",
@@ -170,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:50Z"
+ "updated_at": "2026-11-10T23:01:07Z"
 }

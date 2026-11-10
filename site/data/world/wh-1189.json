@@ -29,7 +29,7 @@
  "slug": "1189-harar_jugol,_the_fortified_historic_town",
  "lat": 9.3091,
  "lon": 42.1372,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -44,6 +44,14 @@
  "intro_local": "",
  "intro_local_source": null,
  "images": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/WWH_activity_report_2023.pdf/page1-960px-WWH_activity_report_2023.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "WWH activity report 2023.pdf",
+   "author": "Yamen",
+   "license": "CC BY-SA 4.0",
+   "credit": "Own work",
+   "source": "https://commons.wikimedia.org/wiki/File:WWH_activity_report_2023.pdf"
+  },
   {
    "url": "https://whc.unesco.org/uploads/sites/site_1189.jpg",
    "title": "Harar Jugol, the Fortified Historic Town",
@@ -148,7 +156,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 3
  },
  "sources": [
   {
@@ -168,5 +176,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:00Z"
+ "updated_at": "2026-11-10T23:01:16Z"
 }

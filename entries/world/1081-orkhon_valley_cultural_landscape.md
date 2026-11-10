@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(ii)(iii)(iv)"
 lat: 47.556666666
 lon: 102.831388888
-updated_at: "2026-11-10T14:47:59Z"
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 鄂尔浑峡谷文化景观 / Orkhon Valley Cultural Landscape

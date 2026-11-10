@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(vii)(viii)(ix)(x)"
 lat: 36.0553
 lon: -112.122
-updated_at: "2026-11-10T14:47:49Z"
+updated_at: "2026-11-10T23:01:07Z"
 ---
 
 # 大峡谷国家公园 / Grand Canyon National Park

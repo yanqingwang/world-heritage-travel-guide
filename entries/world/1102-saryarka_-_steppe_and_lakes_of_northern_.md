@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2008"
 criteria: "(ix)(x)"
-lat: 50.433333333333
-lon: 69.188888888889
-updated_at: "2026-11-10T14:47:59Z"
+lat: 50.433333333
+lon: 69.188888888
+updated_at: "2026-11-10T23:01:16Z"
 ---
 
 # 萨里亚尔卡——哈萨克斯坦北部的草原和湖泊 / Saryarka – Steppe and Lakes of Northern Kazakhstan
@@ -22,6 +22,22 @@ updated_at: "2026-11-10T14:47:59Z"
 > 哈萨克斯坦 · 自然遗产
 
 ## 图片 / Images
+
+![Astana-steppe-7748.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Astana-steppe-7748.jpg/1280px-Astana-steppe-7748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Astana-steppe-7748.jpg · Vmenkov · CC BY-SA 3.0*
+
+![Korgalzhinskiy Nature Reserve.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Korgalzhinskiy_Nature_Reserve.JPG/1280px-Korgalzhinskiy_Nature_Reserve.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Korgalzhinskiy Nature Reserve.JPG · Tomiris · CC BY-SA 3.0*
+
+![Naurzum nature reserve.JPG](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Naurzum_nature_reserve.JPG/1280px-Naurzum_nature_reserve.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
+*Naurzum nature reserve.JPG · Tomiris · CC BY-SA 3.0*
+
+![Tengiz-Korgalzhyn Lake System MODIS 250m.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/Tengiz-Korgalzhyn_Lake_System_MODIS_250m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Tengiz-Korgalzhyn Lake System MODIS 250m.jpg · Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC · Public domain*
 
 ![Saryarka – Steppe and Lakes of Northern Kazakhstan](https://whc.unesco.org/uploads/sites/site_1102.jpg)
 
@@ -31,13 +47,11 @@ updated_at: "2026-11-10T14:47:59Z"
 
 ### 中文
 
-Saryarka - 哈萨克斯坦北部草原和湖泊由两个保护区组成：Naurzum 国家自然保护区和 Korgalzhyn 国家自然保护区，总面积为 450,344 公顷。这里的湿地对迁徙水鸟至关重要，其中包括全球濒危物种，其中包括极为罕见的西伯利亚白鹤、达尔马提亚鹈鹕、帕拉斯鱼雕等。这些湿地是中亚鸟类从非洲、欧洲和南亚飞往西西伯利亚和东西伯利亚繁殖地的中亚迁徙路线上的关键中途停留点和十字路口。该遗产地内的 20 万公顷中亚草原地区为该地区一半以上的草原植物物种、一些受威胁的鸟类以及极度濒危的赛加羚羊提供了宝贵的庇护所，而赛加羚羊原本是一个丰富的物种，但由于偷猎而大大减少。该地产包括两组淡水湖和咸水湖，位于向北流向北极和向南流入咸海-额尔齐斯盆地的河流之间的分水岭上。
+萨雅克－北哈萨克干草原与湖群（哈薩克語：Сарыарқа - Солтүстік Қазақстан даласы мен көлдері）位于哈萨克丘陵（哈萨克语中称为Saryarka，即“黄色的山脉”）。这个地区于2008年7月7日被联合国教科文组织列入世界遗产名录，是哈萨克斯坦首个入選名录的自然遗产。
 
 ### English
 
 Saryarka - Steppe and Lakes of Northern Kazakhstan comprises two protected areas: Naurzum State Nature Reserve and Korgalzhyn State Nature Reserve totalling 450,344 ha. It features wetlands of outstanding importance for migratory water birds, including globally threatened species, among them the extremely rare Siberian white crane, the Dalmatian pelican, Pallas’s fish eagle, to name but a few. These wetlands are key stopover points and crossroads on the Central Asian flyway of birds from Africa, Europe and South Asia to their breeding places in Western and Eastern Siberia. The 200,000 ha Central Asian steppe areas included in the property provide a valuable refuge for over half the species of the region’s steppe flora, a number of threatened bird species and the critically endangered Saiga antelope, formerly an abundant species much reduced by poaching. The property includes two groups of fresh and salt water lakes situated on a watershed between rivers flowing north to the Arctic and south into the Aral-Irtysh basin.
-
-*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Russian)
 
@@ -62,13 +76,13 @@ Visa not required[6] 90 days within any 180-day period.
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en, local
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1102)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Saryarka%20%E2%80%93%20Steppe%20and%20Lakes%20of%20Northern%20Kazakhstan)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

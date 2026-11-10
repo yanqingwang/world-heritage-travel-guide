@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(iv)(vi)"
 lat: -12.9667
 lon: -38.5
-updated_at: "2026-11-10T14:47:52Z"
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # 巴伊亚州的萨尔瓦多历史中心 / Historic Centre of Salvador de Bahia

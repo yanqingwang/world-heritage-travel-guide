@@ -14,7 +14,7 @@ year: "2007"
 criteria: "(ii)(iii)"
 lat: 37.951147222
 lon: 58.212408333
-updated_at: "2026-11-10T14:48:00Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 尼莎帕提亚要塞 / Parthian Fortresses of Nisa

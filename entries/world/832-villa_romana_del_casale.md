@@ -14,7 +14,7 @@ year: "1997"
 criteria: "(i)(ii)(iii)"
 lat: 37.364723
 lon: 14.334553
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 卡萨尔的罗马别墅 / Villa Romana del Casale

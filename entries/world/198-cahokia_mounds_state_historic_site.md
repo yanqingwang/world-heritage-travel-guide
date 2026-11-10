@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1982"
 criteria: "(iii)(iv)"
-lat: 38.65388889
-lon: -90.06444444
-updated_at: "2026-11-10T14:47:50Z"
+lat: 38.653888888
+lon: -90.064444444
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 卡俄基亚土丘历史遗址 / Cahokia Mounds State Historic Site
@@ -54,13 +54,13 @@ Visa required[6] Chinese citizens who do receive a visa are normally issued "120
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/198)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Cahokia)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

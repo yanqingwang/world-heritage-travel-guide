@@ -16,6 +16,7 @@ import os
 import re
 import sys
 import time
+from urllib.parse import quote
 import urllib.parse
 from collections import defaultdict
 
@@ -264,15 +265,32 @@ def china_site(site: dict) -> dict:
     return result
 
 
+def json_loads(text):
+    import json as _json
+    return _json.loads(text)
+
+
 def fetch_sitelinks(items: list[str]) -> dict[str, dict]:
     """Fetch labels and all sitelinks for Wikidata items, 50 at a time."""
     out: dict[str, dict] = {}
     for i in range(0, len(items), 50):
         chunk = items[i:i + 50]
-        data = get_json("https://www.wikidata.org/w/api.php", params={
-            "action": "wbgetentities", "format": "json", "ids": "|".join(chunk),
-            "props": "sitelinks|labels", "languages": "en|zh|ja|ko|fr|es|de|it|pt|ru|ar|th|tr|vi|id",
-        }, retries=4)
+        import subprocess
+
+        url = ("https://www.wikidata.org/w/api.php?action=wbgetentities&format=json"
+               + "&ids=" + quote("|".join(chunk), safe="")
+               + "&props=sitelinks%7Clabels"
+               + "&languages=en%7Czh%7Cja%7Cko%7Cfr%7Ces%7Cde%7Cit%7Cpt%7Cru%7Car%7Cth%7Ctr%7Cvi%7Cid")
+        data = None
+        for _ in range(3):
+            proc = subprocess.run(
+                ["curl", "-sSL", "--max-time", "60",
+                 "-H", "User-Agent: wh-travel-guide/1.0", url],
+                capture_output=True, text=True, timeout=70)
+            if proc.returncode == 0 and proc.stdout.startswith("{"):
+                data = json_loads(proc.stdout)
+                break
+            time.sleep(5)
         for qid, ent in ((data or {}).get("entities") or {}).items():
             if not ent or ent.get("missing"):
                 continue

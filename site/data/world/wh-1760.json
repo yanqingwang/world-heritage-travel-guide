@@ -27,8 +27,8 @@
  "local_lang": "ru",
  "local_lang_name": "Russian",
  "slug": "1760-rock_mosques_and_associated_sacred_sites",
- "lat": 43.70893705533333,
- "lon": 74.280069522,
+ "lat": 45.39003612475,
+ "lon": 73.0072743635,
  "coord_accuracy": "country_centroid",
  "category": "Cultural",
  "category_zh": "文化遗产",
@@ -62,10 +62,23 @@
   }
  ],
  "unesco_url": "https://whc.unesco.org/en/list/1760",
- "visit_kind": "place",
- "visit_note": null,
+ "visit_kind": "remote",
+ "visit_note": {
+  "zh": "偏远遗产地：周边没有常规商业航班可参考（最近机场距离过远），通常仅可通过科考/特许船只或远洋航线抵达，不适合常规旅行规划。",
+  "en": "Remote heritage site: no practical scheduled air access nearby (the closest airport is too far to be a gateway). Usually reached only by expedition/permit vessels — not suitable for ordinary trip planning."
+ },
  "transport": {
   "airports": [
+   {
+    "name": "Balkhash Airport",
+    "iata": "BXH",
+    "city": "Balkhash",
+    "country": "KZ",
+    "lat": 46.894246,
+    "lon": 75.004533,
+    "type": "medium_airport",
+    "distance_km": 227.3
+   },
    {
     "name": "Manas International Airport",
     "iata": "BSZ",
@@ -74,34 +87,22 @@
     "lat": 43.061298,
     "lon": 74.4776,
     "type": "large_airport",
-    "distance_km": 73.8,
+    "distance_km": 284.2,
     "name_zh": "玛纳斯国际机场"
    },
    {
-    "name": "Almaty International Airport",
-    "iata": "ALA",
-    "city": "Almaty",
+    "name": "Taraz International Airport",
+    "iata": "DMB",
+    "city": "Taraz",
     "country": "KZ",
-    "lat": 43.354267,
-    "lon": 77.042828,
+    "lat": 42.8536,
+    "lon": 71.303596,
     "type": "large_airport",
-    "distance_km": 226.2,
-    "name_zh": "阿拉木图国际机场"
-   },
-   {
-    "name": "Issyk-Kul International Airport",
-    "iata": "IKU",
-    "city": "Tamchy",
-    "country": "KG",
-    "lat": 42.585584,
-    "lon": 76.701181,
-    "type": "large_airport",
-    "distance_km": 232.8,
-    "name_zh": "伊塞克湖国际机场"
+    "distance_km": 313.1
    }
   ],
-  "nearest_airport_km": 73.8,
-  "distance_beijing_km": 3481.7,
+  "nearest_airport_km": 227.3,
+  "distance_beijing_km": 3397.0,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -178,5 +179,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:48:05Z"
+ "updated_at": "2026-11-10T23:01:21Z"
 }

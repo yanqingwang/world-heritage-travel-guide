@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(i)(iv)"
 lat: 47.08222
 lon: 2.39917
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 布尔日大教堂 / Bourges Cathedral
@@ -71,6 +71,6 @@ Visa required[6] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/635)
-- [Wikipedia](https://en.wikipedia.org/wiki/Bourges%20Cathedral)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

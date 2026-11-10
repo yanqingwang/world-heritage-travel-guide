@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1995"
 criteria: "(i)(ii)(iv)"
-lat: 43.95
-lon: 4.8075
-updated_at: "2026-11-10T14:47:51Z"
+lat: 43.95277778
+lon: 4.806111111
+updated_at: "2026-11-10T23:01:08Z"
 ---
 
 # 阿维尼翁历史中心：教皇宫、主教圣堂和阿维尼翁桥 / Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge
@@ -45,9 +45,9 @@ Cette ville du midi de la France fut le siège de la papauté au XIV e siècle. 
 
 ## 交通 / Transport
 
-- ✈ **Avignon Caumont airport (AVN)** — 8.9 km
-- ✈ **Nîmes-Arles-Camargue Airport (FNI)** — 38.0 km
-- ✈ **Marseille Provence Airport (MRS)** — 65.6 km
+- ✈ **Avignon Caumont airport (AVN)** — 9.2 km
+- ✈ **Nîmes-Arles-Camargue Airport (FNI)** — 38.1 km
+- ✈ **Marseille Provence Airport (MRS)** — 65.9 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8444.8 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -60,7 +60,7 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en, local
+- 可用语言 / Available: zh, en, ja, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 

@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(iv)"
 lat: 18.804305555
 lon: -99.296638888
-updated_at: "2026-11-10T14:47:58Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 霍齐卡尔科的历史纪念区 / Archaeological Monuments Zone of Xochicalco

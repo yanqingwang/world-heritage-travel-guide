@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)"
 lat: 45.1686
 lon: 24.0069
-updated_at: "2026-11-10T14:47:54Z"
+updated_at: "2026-11-10T23:01:11Z"
 ---
 
 # 霍雷祖修道院 / Hurezi Monastery

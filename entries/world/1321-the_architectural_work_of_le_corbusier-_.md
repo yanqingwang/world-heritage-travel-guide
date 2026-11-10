@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(i)(ii)(vi)"
 lat: 46.468414
 lon: 6.829336
-updated_at: "2026-11-10T14:48:01Z"
+updated_at: "2026-11-10T23:01:17Z"
 ---
 
 # 勒·柯布西耶的建筑作品 / The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement
@@ -31,13 +31,11 @@ updated_at: "2026-11-10T14:48:01Z"
 
 ### 中文
 
-从勒·柯布西耶 (Le Corbusier) 的作品中挑选出来的 17 个地点构成了这一跨国系列财产，分布在七个国家，是一种与过去决裂的新建筑语言的发明的见证。它们是在勒柯布西耶所说的“耐心研究”过程中历时半个世纪建成的。昌迪加尔的 Complexe du Capitole（印度）、东京国家西方艺术博物馆（日本）、拉普拉塔的 Curutchet 博士之家（阿根廷）和马赛的 Unité d’habitation（法国）反映了现代运动在 20 世纪寻求应用的解决方案，以应对发明新建筑技术以满足社会需求的挑战。这些创意天才的杰作也证明了全球建筑实践的国际化。
+勒·柯布西耶的建筑作品，對現代運動的傑出貢獻，是由法國建築師勒·柯布西耶（Le Corbusier）作品所構成之世界遺產，於2016年列入。
 
 ### English
 
 Chosen from the work of Le Corbusier, the 17 sites comprising this transnational serial property are spread over seven countries and are a testimonial to the invention of a new architectural language that made a break with the past. They were built over a period of a half-century, in the course of what Le Corbusier described as “patient research”. The Complexe du Capitole in Chandigarh (India), the National Museum of Western Art, Tokyo (Japan), the House of Dr Curutchet in La Plata (Argentina) and the Unité d’habitation in Marseille (France) reflect the solutions that the Modern Movement sought to apply during the 20th century to the challenges of inventing new architectural techniques to respond to the needs of society. These masterpieces of creative genius also attest to the internationalization of architectural practice across the planet.
-
-*中文简介：机器翻译。*
 
 ## 本地语言 / Local language (Spanish)
 
@@ -62,13 +60,13 @@ Visa required[6] Electronic Travel Authorization (AVE) will only be issued to th
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en, local
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1321)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/The%20Architectural%20Work%20of%20Le%20Corbusier)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

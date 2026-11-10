@@ -27,8 +27,8 @@
  "local_lang": "ro",
  "local_lang_name": "Romanian",
  "slug": "596-villages_with_fortified_churches_in_tran",
- "lat": 46.03529961928571,
- "lon": 24.58737260285714,
+ "lat": 46.25402316066666,
+ "lon": 24.57501819722222,
  "coord_accuracy": "country_centroid",
  "category": "Cultural",
  "category_zh": "文化遗产",
@@ -67,17 +67,6 @@
  "transport": {
   "airports": [
    {
-    "name": "Sibiu International Airport",
-    "iata": "SBZ",
-    "city": "Sibiu",
-    "country": "RO",
-    "lat": 45.785841,
-    "lon": 24.086666,
-    "type": "large_airport",
-    "distance_km": 47.6,
-    "name_zh": "锡比乌"
-   },
-   {
     "name": "Târgu Mureş Transilvania International Airport",
     "iata": "TGM",
     "city": "Recea",
@@ -85,23 +74,34 @@
     "lat": 46.467701,
     "lon": 24.4125,
     "type": "medium_airport",
-    "distance_km": 49.9,
+    "distance_km": 26.8,
     "name_zh": "特尔古穆列什国际机场"
    },
    {
-    "name": "Brașov-Ghimbav International Airport",
-    "iata": "GHV",
-    "city": "Brașov (Ghimbav)",
+    "name": "Sibiu International Airport",
+    "iata": "SBZ",
+    "city": "Sibiu",
     "country": "RO",
-    "lat": 45.70558,
-    "lon": 25.522871,
+    "lat": 45.785841,
+    "lon": 24.086666,
     "type": "large_airport",
-    "distance_km": 81.2,
-    "name_zh": "布拉索夫-金巴夫国际机场"
+    "distance_km": 64.3,
+    "name_zh": "锡比乌"
+   },
+   {
+    "name": "Avram Iancu Cluj International Airport",
+    "iata": "CLJ",
+    "city": "Cluj-Napoca",
+    "country": "RO",
+    "lat": 46.786042,
+    "lon": 23.685733,
+    "type": "large_airport",
+    "distance_km": 90.2,
+    "name_zh": "克卢日国际机场"
    }
   ],
-  "nearest_airport_km": 47.6,
-  "distance_beijing_km": 7117.6,
+  "nearest_airport_km": 26.8,
+  "distance_beijing_km": 7056.5,
   "ferry_terminals": [],
   "railway_stations": []
  },
@@ -177,5 +177,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:54Z"
+ "updated_at": "2026-11-10T23:01:11Z"
 }

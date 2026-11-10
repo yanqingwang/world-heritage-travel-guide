@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "2024"
 criteria: "(iii)(iv)(v)"
-lat: 9.759546913777777
-lon: 38.54801703677778
-updated_at: "2026-11-10T14:47:48Z"
+lat: 8.7025
+lon: 38.608333333
+updated_at: "2026-11-10T23:01:06Z"
 ---
 
 # 梅尔卡·昆图尔和巴尔奇特考古与古生物遗址 / Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia
@@ -39,9 +39,9 @@ Located in the Upper Awash Valley in Ethiopia, the serial property is a cluster 
 
 ## 交通 / Transport
 
-- ✈ **Addis Ababa Bole International Airport (ADD)** — 91.2 km
-- ✈ **Debre Markos Airport (DBM)** — 108.1 km
-- ✈ **Kombolcha Airport (DSE)** — 197.8 km
+- ✈ **Addis Ababa Bole International Airport (ADD)** — 37.1 km
+- ✈ **Hawassa International Airport (AWA)** — 179.6 km
+- ✈ **Debre Markos Airport (DBM)** — 203.6 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **8329.4 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -61,6 +61,6 @@ eVisa / Visa on arrival[6] Visa on arrival is obtainable only at Addis Ababa Bol
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/13)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Melka%20Kunture)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

@@ -235,14 +235,18 @@ def world_images(site: dict, rec: dict, tier: str, cache_file) -> list[dict]:
     p18 = image_from_p18(rec.get("image", ""))
     if p18:
         images.append(p18)
-    if tier == "full" and not OFFLINE:
+    # Basic-tier records ship with the P18 image only.  When that is all we
+    # have (or nothing at all), one Commons query rounds the gallery out —
+    # the result is cached so this stays a one-off cost per site.
+    want_more = not OFFLINE and (tier == "full" or len(images) < 2)
+    if want_more:
         cat = rec.get("commons_category")
         if cat:
-            images.extend(commons_category(cat, 8))
+            images.extend(commons_category(cat, 8 if tier == "full" else 4))
         else:
             name = site.get("name", {}).get("en", "")
             country = rec.get("country_en", "")
-            images.extend(commons_search(f"{name} {country}", 6))
+            images.extend(commons_search(f"{name} {country}", 6 if tier == "full" else 4))
     deduped, seen = [], set()
     for img in images:
         if img.get("url") and img["url"] not in seen:

@@ -23,13 +23,13 @@
  "name_zh": "奥洛穆茨三位一体圣柱",
  "name_zh_source": "unesco_official",
  "name_en": "Holy Trinity Column in Olomouc",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Sloup Nejsvětější Trojice (Olomouc)",
+ "local_lang": "cs",
+ "local_lang_name": "Czech",
  "slug": "859-holy_trinity_column_in_olomouc",
  "lat": 49.59402,
  "lon": 17.250492,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -41,8 +41,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "This memorial column, erected in the early years of the 18th century, is the most outstanding example of a type of monument specific to central Europe. In the characteristic regional style known as Olomouc Baroque and rising to a height of 35 m, it is decorated with many fine religious sculptures, the work of the distinguished Moravian artist Ondrej Zahner.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Sloup Nejsvětější Trojice v Olomouci je monument postavený ke slávě Boží v letech 1716 až 1754. Jeho hlavním účelem byla okázalá oslava katolické církve a víry, částečně vyvolaná pocitem vděčnosti za ukončení moru, který na Moravě udeřil v letech 1714 až 1716. Vzhledem k tomu, že všichni umělci a řemeslničtí mistři, kteří na sloupu pracovali, byli olomouckými občany, byla stavba sloupu rovněž chápána jako výraz lokálního patriotismu.[zdroj?] 35 metrů vysoký sloup představuje nejvyšší sousoší České republiky a jeho součástí je i malá kaple. Od roku 1995 je společně s Mariánským sloupem a barokními kašnami národní kulturní památkou a v roce 2000 byl, jakožto jedno z vrcholných děl středoevropského baroka, zařazen mezi světové dědictví UNESCO.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_859.jpg",
@@ -137,11 +137,11 @@
  "info_languages": {
   "zh": true,
   "en": true,
-  "ja": false,
-  "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "ja": true,
+  "ko": true,
+  "local": true,
+  "local_lang": "cs",
+  "local_lang_name": "Czech",
   "official_unesco": [
    "en",
    "zh",
@@ -150,7 +150,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 40
  },
  "sources": [
   {
@@ -158,8 +158,8 @@
    "url": "https://whc.unesco.org/en/list/859"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Holy%20Trinity%20Column%2C%20Olomouc"
   },
   {
    "name": "OpenStreetMap",
@@ -170,5 +170,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:57Z"
+ "updated_at": "2026-11-10T23:01:14Z"
 }

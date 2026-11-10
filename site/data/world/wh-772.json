@@ -28,13 +28,13 @@
  "name_zh": "新锡德尔湖与费尔特湖地区文化景观",
  "name_zh_source": "unesco_official",
  "name_en": "Fertö / Neusiedlersee Cultural Landscape",
- "name_local": "",
- "local_lang": null,
- "local_lang_name": null,
+ "name_local": "Kulturlandschaft Fertő/Neusiedler See",
+ "local_lang": "de",
+ "local_lang_name": "German",
  "slug": "772-fertö_/_neusiedlersee_cultural_landscape",
  "lat": 47.80055556,
  "lon": 16.73472222,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Cultural",
  "category_zh": "文化遗产",
  "category_en": "Cultural",
@@ -46,8 +46,8 @@
  "intro_zh_source": "unesco_official",
  "intro_en": "The Fert ö/Neusiedler Lake area has been the meeting place of different cultures for eight millennia. This is graphically demonstrated by its varied landscape, the result of an evolutionary symbiosis between human activity and the physical environment. The remarkable rural architecture of the villages surrounding the lake and several 18th- and 19th-century palaces adds to the area's considerable cultural interest.",
  "intro_en_source": "unesco_official",
- "intro_local": "",
- "intro_local_source": null,
+ "intro_local": "Die Kulturlandschaft Fertő/Neusiedler See (englisch Fertö / Neusiedlersee Cultural Landscape) ist ein grenzübergreifendes UNESCO-Welterbe im österreichischen Burgenland und dem ungarischen Komitat Győr-Moson-Sopron. Das Gebiet wurde im Jahr 2001 zum Welterbe ernannt. Es umfasst den Neusiedlersee, dessen Uferräume sowie die Orte am Ufer. Die Welterbe-Zone entspricht dem österreichischen Nationalpark Neusiedler See–Seewinkel und dem ungarischen Fertő-Hanság Nemzeti Park inklusive deren Randzonen.",
+ "intro_local_source": "wikipedia",
  "images": [
   {
    "url": "https://whc.unesco.org/uploads/sites/site_772.jpg",
@@ -152,9 +152,9 @@
   "en": true,
   "ja": false,
   "ko": false,
-  "local": false,
-  "local_lang": null,
-  "local_lang_name": null,
+  "local": true,
+  "local_lang": "de",
+  "local_lang_name": "German",
   "official_unesco": [
    "en",
    "zh",
@@ -163,7 +163,7 @@
    "ru",
    "ar"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 4
  },
  "sources": [
   {
@@ -183,5 +183,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:56Z"
+ "updated_at": "2026-11-10T23:01:13Z"
 }

@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)(vi)"
 lat: 21.1725
 lon: 94.86
-updated_at: "2026-11-10T14:48:04Z"
+updated_at: "2026-11-10T23:01:20Z"
 ---
 
 # 蒲甘 / Bagan
@@ -103,6 +103,6 @@ eVisa / Visa on arrival[6][94] Visa policy of the Myanmar government does not ap
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1588)
-- [Wikipedia](https://en.wikipedia.org/wiki/Bagan)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

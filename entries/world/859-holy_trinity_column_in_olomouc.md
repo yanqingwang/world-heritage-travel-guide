@@ -3,7 +3,7 @@ id: "wh-859"
 dataset: "unesco"
 name_zh: "奥洛穆茨三位一体圣柱"
 name_en: "Holy Trinity Column in Olomouc"
-name_local: ""
+name_local: "Sloup Nejsvětější Trojice (Olomouc)"
 country: "CZ"
 country_zh: "捷克"
 country_en: "Czech Republic"
@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(i)(iv)"
 lat: 49.59402
 lon: 17.250492
-updated_at: "2026-11-10T14:47:57Z"
+updated_at: "2026-11-10T23:01:14Z"
 ---
 
 # 奥洛穆茨三位一体圣柱 / Holy Trinity Column in Olomouc
@@ -37,6 +37,12 @@ updated_at: "2026-11-10T14:47:57Z"
 
 This memorial column, erected in the early years of the 18th century, is the most outstanding example of a type of monument specific to central Europe. In the characteristic regional style known as Olomouc Baroque and rising to a height of 35 m, it is decorated with many fine religious sculptures, the work of the distinguished Moravian artist Ondrej Zahner.
 
+## 本地语言 / Local language (Czech)
+
+**Sloup Nejsvětější Trojice (Olomouc)**
+
+Sloup Nejsvětější Trojice v Olomouci je monument postavený ke slávě Boží v letech 1716 až 1754. Jeho hlavním účelem byla okázalá oslava katolické církve a víry, částečně vyvolaná pocitem vděčnosti za ukončení moru, který na Moravě udeřil v letech 1714 až 1716. Vzhledem k tomu, že všichni umělci a řemeslničtí mistři, kteří na sloupu pracovali, byli olomouckými občany, byla stavba sloupu rovněž chápána jako výraz lokálního patriotismu.[zdroj?] 35 metrů vysoký sloup představuje nejvyšší sousoší České republiky a jeho součástí je i malá kaple. Od roku 1995 je společně s Mariánským sloupem a barokními kašnami národní kulturní památkou a v roce 2000 byl, jakožto jedno z vrcholných děl středoevropského baroka, zařazen mezi světové dědictví UNESCO.
+
 ## 交通 / Transport
 
 - ✈ **Leoš Janáček Airport Ostrava (OSR)** — 63.0 km
@@ -54,13 +60,13 @@ Visa required[6] nan
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/859)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Holy%20Trinity%20Column%2C%20Olomouc)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

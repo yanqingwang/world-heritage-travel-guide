@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(vii)(ix)(x)"
 lat: 17.2625
 lon: -88.052777777
-updated_at: "2026-11-10T14:47:56Z"
+updated_at: "2026-11-10T23:01:13Z"
 ---
 
 # 伯利兹堡礁保护区 / Belize Barrier Reef Reserve System

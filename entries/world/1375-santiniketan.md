@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)(vi)"
 lat: 23.6776
 lon: 87.6852
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 桑地尼克坦 / Santiniketan
@@ -65,6 +65,6 @@ Visa required[6] e-Visa is no longer available due to military tension between C
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1375)
-- [Wikipedia](https://en.wikipedia.org/wiki/Santiniketan)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

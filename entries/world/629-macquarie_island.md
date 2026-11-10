@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "1997"
 criteria: "(vii)(viii)"
-lat: -55.226
-lon: 161.785
-updated_at: "2026-11-10T14:47:55Z"
+lat: -54.63
+lon: 158.86
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 麦夸里岛 / Macquarie Island
@@ -41,7 +41,7 @@ Macquarie Island (34 km long x 5 km wide) is an oceanic island in the Southern O
 
 - ✈ **Invercargill Airport (IVC)** — 1080.9 km
 - ✈ **Dunedin International Airport (DUD)** — 1190.4 km
-- ✈ 距北京直线距离 / great-circle from Beijing: **11429.7 km**
+- ✈ 距北京直线距离 / great-circle from Beijing: **11272.9 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
 
@@ -53,13 +53,13 @@ Online Visa required[6] May apply online (Online Visitor e600 visa and Online e4
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: zh, en
+- 可用语言 / Available: zh, en, ja, ko
 
 - UNESCO 官方文本 / official editions: en, zh, fr, es, ru, ar
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/629)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Macquarie%20Island)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

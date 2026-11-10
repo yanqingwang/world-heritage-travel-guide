@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iv)(vi)"
 lat: 48.783333333
 lon: 109.166666666
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 布尔罕和乐敦圣山及其周围景观 / Great Burkhan Khaldun Mountain and its surrounding sacred landscape
@@ -76,6 +76,6 @@ eVisa[6][90] nan
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1440)
-- [Wikipedia](https://en.wikipedia.org/wiki/Burkhan%20Khaldun)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

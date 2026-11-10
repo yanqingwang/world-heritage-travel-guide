@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(i)(iii)"
 lat: 35.60845
 lon: 129.173997222
-updated_at: "2026-11-10T14:48:05Z"
+updated_at: "2026-11-10T23:01:21Z"
 ---
 
 # 盘龟川岩刻画 / Petroglyphs along the Bangucheon Stream

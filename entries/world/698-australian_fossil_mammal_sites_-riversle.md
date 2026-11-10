@@ -14,7 +14,7 @@ year: "1994"
 criteria: "(viii)(ix)"
 lat: -19.08333333
 lon: 138.7166667
-updated_at: "2026-11-10T14:47:55Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 澳大利亚哺乳动物化石地（里弗斯利/纳拉库特） / Australian Fossil Mammal Sites (Riversleigh / Naracoorte)
@@ -65,6 +65,6 @@ Online Visa required[6] May apply online (Online Visitor e600 visa and Online e4
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/698)
-- [Wikipedia](https://en.wikipedia.org/wiki/Australian%20Fossil%20Mammal%20Sites%20%28Riversleigh%20/%20Naracoorte%29)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

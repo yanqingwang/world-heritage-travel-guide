@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(v)(vi)"
 lat: 45.108889
 lon: -64.309167
-updated_at: "2026-11-10T14:48:02Z"
+updated_at: "2026-11-10T23:01:18Z"
 ---
 
 # 格朗普雷 / Landscape of Grand Pré
@@ -73,6 +73,6 @@ Visa required[6] No transit visa is required if transiting through Calgary, Mont
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1404)
-- [Wikipedia](https://en.wikipedia.org/wiki/Grand-Pr%C3%A9%2C%20Nova%20Scotia)
+- [Wikidata](https://www.wikidata.org/wiki/None)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

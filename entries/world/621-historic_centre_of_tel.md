@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(i)(iv)"
 lat: 49.18333
 lon: 15.45
-updated_at: "2026-11-10T14:47:54Z"
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 泰尔奇历史中心 / Historic Centre of Telč

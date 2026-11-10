@@ -29,7 +29,7 @@
  "slug": "1060-kenya_lake_system_in_the_great_rift_vall",
  "lat": 0.4425,
  "lon": 36.24,
- "coord_accuracy": "wikidata_search",
+ "coord_accuracy": "site",
  "category": "Natural",
  "category_zh": "自然遗产",
  "category_en": "Natural",
@@ -37,8 +37,8 @@
  "year": "2011",
  "danger": false,
  "transnational": false,
- "intro_zh": "肯尼亚东非大裂谷湖泊系统是一处风景优美的自然景观，由位于肯尼亚东非大裂谷省的三个相互连接的相对较浅的湖泊（博戈里亚湖、纳库鲁湖和埃尔门泰塔湖）组成，总面积为32,034公顷。该地产是 13 种全球濒危鸟类的栖息地，也是世界上鸟类多样性最高的地区之一。它是小火烈鸟最重要的觅食地，也是大白鹈鹕的主要筑巢和繁殖地。该遗产拥有大量哺乳动物种群，包括黑犀牛、罗斯柴尔德长颈鹿、大捻角羚、狮子、猎豹和野狗，对于研究重要的生态过程具有重要价值。",
- "intro_zh_source": "machine_translation",
+ "intro_zh": "肯尼亚东非大裂谷的湖泊系统是肯尼亚的一处世界遗产，由三个浅水湖泊组成，分别为博戈尼亚湖、纳库鲁湖和爱尔曼特塔湖。肯尼亚东非大裂谷的湖泊系统于2011年列入世界遗产名录，面积32 034 ha，缓冲区面积3 581 ha 。",
+ "intro_zh_source": "wikipedia",
  "intro_en": "The Kenya Lake System in the Great Rift Valley , a natural property of outstanding beauty, comprises three inter-linked relatively shallow lakes (Lake Bogoria, Lake Nakuru and Lake Elementaita) in the Rift Valley Province of Kenya and covers a total area of 32,034 hectares. The property is home to 13 globally threatened bird species and some of the highest bird diversities in the world. It is the single most important foraging site for the lesser flamingo anywhere, and a major nesting and breeding ground for great white pelicans. The property features sizeable mammal populations, including black rhino, Rothschild's giraffe, greater kudu, lion, cheetah and wild dogs and is valuable for the study of ecological processes of major importance.",
  "intro_en_source": "unesco_official",
  "intro_local": "",
@@ -133,9 +133,9 @@
   "voltage": "240V/50Hz"
  },
  "info_languages": {
-  "zh": false,
+  "zh": true,
   "en": true,
-  "ja": false,
+  "ja": true,
   "ko": false,
   "local": false,
   "local_lang": null,
@@ -146,7 +146,7 @@
    "es",
    "ru"
   ],
-  "wikipedia_editions": 0
+  "wikipedia_editions": 27
  },
  "sources": [
   {
@@ -154,8 +154,8 @@
    "url": "https://whc.unesco.org/en/list/1060"
   },
   {
-   "name": "Wikidata",
-   "url": "https://www.wikidata.org/wiki/None"
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Great%20Rift%20Valley%2C%20Kenya"
   },
   {
    "name": "OpenStreetMap",
@@ -166,5 +166,5 @@
    "url": "https://ourairports.com/data/"
   }
  ],
- "updated_at": "2026-11-10T14:47:59Z"
+ "updated_at": "2026-11-10T23:01:15Z"
 }

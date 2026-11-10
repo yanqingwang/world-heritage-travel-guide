@@ -12,9 +12,9 @@ tier: "basic"
 category: "Natural"
 year: "2016"
 criteria: "(vii)(ix)(x)"
-lat: 19.7361
-lon: 37.4431
-updated_at: "2026-11-10T14:47:51Z"
+lat: 20.937222
+lon: 37.255278
+updated_at: "2026-11-10T23:01:09Z"
 ---
 
 # Sanganeb国家海洋公园和Dungonab海湾—Mukkawar岛国家海洋公园 / Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park
@@ -22,6 +22,14 @@ updated_at: "2026-11-10T14:47:51Z"
 > 苏丹 · 自然遗产
 
 ## 图片 / Images
+
+![Dendronephthya klunzingeri, Sudán.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9e/Dendronephthya_klunzingeri%2C_Sud%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Dendronephthya klunzingeri, Sudán.jpg · Ventura Mallol · GPL*
+
+![Gomophia egyptiaca, Sudán.jpg](https://upload.wikimedia.org/wikipedia/commons/8/81/Gomophia_egyptiaca%2C_Sud%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
+*Gomophia egyptiaca, Sudán.jpg · Ventura Mallol · GPL*
 
 ![Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park](https://whc.unesco.org/uploads/sites/site_262.jpg)
 
@@ -45,9 +53,9 @@ The property consists of two separate areas: Sanganeb is an isolated, coral reef
 
 ## 交通 / Transport
 
-- ✈ **Port Sudan New International Airport (PZU)** — 40.0 km
-- ✈ **King Abdulaziz International Airport (JED)** — 280.2 km
-- ✈ **Taif International Airport (TIF)** — 376.8 km
+- ✈ **Port Sudan New International Airport (PZU)** — 167.1 km
+- ✈ **King Abdulaziz International Airport (JED)** — 213.7 km
+- ✈ **Taif International Airport (TIF)** — 346.3 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **7746.0 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -67,6 +75,6 @@ Visa on arrival[6] Since 1 July 2026
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/262)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Dungonab%20Bay)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)

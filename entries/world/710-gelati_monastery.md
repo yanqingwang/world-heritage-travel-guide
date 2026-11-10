@@ -3,7 +3,7 @@ id: "wh-710"
 dataset: "unesco"
 name_zh: "格拉蒂修道院"
 name_en: "Gelati Monastery"
-name_local: ""
+name_local: "გელათის მონასტერი"
 country: "GE"
 country_zh: "格鲁吉亚"
 country_en: "Georgia"
@@ -12,9 +12,9 @@ tier: "basic"
 category: "Cultural"
 year: "1994"
 criteria: "(iv)"
-lat: 42.26222
-lon: 42.71639
-updated_at: "2026-11-10T14:47:55Z"
+lat: 42.294722222
+lon: 42.768055555
+updated_at: "2026-11-10T23:01:12Z"
 ---
 
 # 格拉蒂修道院 / Gelati Monastery
@@ -35,19 +35,23 @@ updated_at: "2026-11-10T14:47:55Z"
 
 ### 中文
 
-格拉提修道院始建于 1106 年，位于格鲁吉亚西部，是中世纪格鲁吉亚黄金时代的杰作，该时期是 11 世纪至 13 世纪政治实力和经济增长的时期。它的特点是光滑的大块立面、平衡的比例和用于外部装饰的盲拱。格拉蒂修道院是中世纪最大的东正教修道院之一，也是科学和教育中心，其所在的学院是古代格鲁吉亚最重要的文化中心之一。
+格拉特修道院（喬治亞語：გელათის მონასტერი）是位於格鲁吉亚西部伊梅雷蒂大区庫塔伊西市郊外的一座修道院，修建於1106年。在很長一段時間內，格拉特修道院都是喬治亞的文化中心之一，有眾多代表喬治亞的科學家、神學家、哲學者都出身於此。修道院內收藏有眾多12世紀至17世紀的壁畫及寫本。1994年，格拉特修道院成為世界文化遺產。
 
 ### English
 
 Founded in 1106 in the west of Georgia, the Monastery of Gelati is a masterpiece of the Golden Age of medieval Georgia, a period of political strength and economic growth between the 11th and 13th centuries. It is characterized by the facades of smoothly hewn large blocks, balanced proportions and blind arches for exterior decoration. The Gelati monastery, one of the largest medieval Orthodox monasteries, was also a centre of science and education and the Academy it housed was one of the most important centres of culture in ancient Georgia.
 
-*中文简介：机器翻译。*
+## 本地语言 / Local language (Georgian)
+
+**გელათის მონასტერი**
+
+გელათის მონასტერი — ქართული ხუროთმოძღვრული ანსამბლი, შუა საუკუნეების საქართველოს კულტურის უმნიშვნელოვანესი ცენტრი, იუნესკოს მსოფლიო კულტურული მემკვიდრეობის და საქართველოს ეროვნული მნიშვნელობის კულტურის ძეგლი. აგებულია ქუთაისის ჩრდილო-აღმოსავლეთით 11 კმ-ზე, მდინარე წყალწითელის ხეობაში. დაარსებულია 1106 წელს დავით აღმაშენებლის თაოსნობით. შემოზღუდულია გალავნით. ანსამბლში შედის სხვადასხვა დროინდელი (ძირითადად XII-XIII სს.) შენობები. სახელწოდება „გელათი“ შესაძლოა მომდინარეობდეს იერუსალიმის ერთ-ერთი კარიბჭის „გენნათის“ სახელიდან.
 
 ## 交通 / Transport
 
-- ✈ **David the Builder Kutaisi International Airport (KUT)** — 21.2 km
-- ✈ **Alexander Kartveli Batumi International Airport (BUS)** — 117.4 km
-- ✈ **Vladislav Ardzinba Sukhum International Airport (SUI)** — 146.0 km
+- ✈ **David the Builder Kutaisi International Airport (KUT)** — 26.7 km
+- ✈ **Alexander Kartveli Batumi International Airport (BUS)** — 123.0 km
+- ✈ **Vladislav Ardzinba Sukhum International Airport (SUI)** — 148.2 km
 - ✈ 距北京直线距离 / great-circle from Beijing: **6005.6 km**
 
 ## 签证（中国护照） / Visa (Chinese passport)
@@ -60,13 +64,13 @@ Visa not required[6] Holders of valid visas or residence permits of EU/EFTA/GCC 
 
 ## 多语言信息 / Language availability
 
-- 可用语言 / Available: en
+- 可用语言 / Available: zh, en, ja, ko, local
 
 - UNESCO 官方文本 / official editions: en, fr, es
 
 ## 来源 / Sources
 
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/710)
-- [Wikidata](https://www.wikidata.org/wiki/None)
+- [Wikipedia](https://en.wikipedia.org/wiki/Gelati%20Monastery)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [OurAirports](https://ourairports.com/data/)
