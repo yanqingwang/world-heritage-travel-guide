@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(i)(ii)(iii)"
 lat: 37.429655
 lon: 21.900387
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:52Z"
 ---
 
 # 巴赛的阿波罗•伊壁鸠鲁神庙 / Temple of Apollo Epicurius at Bassae

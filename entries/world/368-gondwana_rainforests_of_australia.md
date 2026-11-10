@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(viii)(ix)(x)"
 lat: -29.6
 lon: 149.6
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:52Z"
 ---
 
 # 澳大利亚冈瓦纳雨林 / Gondwana Rainforests of Australia

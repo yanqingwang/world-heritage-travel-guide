@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(ii)(iv)(v)"
 lat: 50.1736
 lon: 7.694169444
-updated_at: "2026-11-09T12:50:22Z"
+updated_at: "2026-11-10T14:47:59Z"
 ---
 
 # 莱茵河中上游河谷 / Upper Middle Rhine Valley

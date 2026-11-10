@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(iii)(iv)"
 lat: 15.951333333333
 lon: 75.814638888889
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:51Z"
 ---
 
 # 帕塔达卡尔建筑群 / Group of Monuments at Pattadakal

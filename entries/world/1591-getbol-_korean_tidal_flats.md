@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(x)"
 lat: 34.828822222
 lon: 126.104444444
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 韩国滩涂 / Getbol, Korean Tidal Flats

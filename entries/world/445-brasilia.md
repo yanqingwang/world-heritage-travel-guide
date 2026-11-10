@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(i)(iv)"
 lat: -15.793888888
 lon: -47.882777777
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:53Z"
 ---
 
 # 巴西利亚 / Brasilia

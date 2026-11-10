@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(iii)(viii)"
 lat: -33.618142
 lon: 143.101406
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:50Z"
 ---
 
 # 威兰德拉湖区 / Willandra Lakes Region

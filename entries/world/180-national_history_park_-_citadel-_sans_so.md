@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(iv)(vi)"
 lat: 19.573611111
 lon: -72.243888888
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:50Z"
 ---
 
 # 国家历史公园：城堡、圣苏西宫、拉米尔斯堡垒 / National History Park – Citadel, Sans Souci, Ramiers

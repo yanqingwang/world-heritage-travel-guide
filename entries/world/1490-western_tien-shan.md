@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(x)"
 lat: 42.5
 lon: 74.583333333
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:03Z"
 ---
 
 # 西部天山 / Western Tien-Shan

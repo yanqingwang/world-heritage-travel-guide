@@ -14,7 +14,7 @@ year: "2014"
 criteria: "(viii)"
 lat: 55.2822
 lon: 12.45
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:02Z"
 ---
 
 # 斯泰温斯崖 / Stevns Klint

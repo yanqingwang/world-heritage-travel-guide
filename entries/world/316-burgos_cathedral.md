@@ -14,7 +14,7 @@ year: "1984"
 criteria: "(ii)(iv)(vi)"
 lat: 42.340805555
 lon: -3.704472222
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:52Z"
 ---
 
 # 布尔戈斯大教堂 / Burgos Cathedral

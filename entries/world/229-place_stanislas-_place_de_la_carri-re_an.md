@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)(iv)"
 lat: 48.69361111
 lon: 6.183333333
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:51Z"
 ---
 
 # 南锡的斯坦尼斯拉斯广场、卡里埃勒广场和阿莱昂斯广场 / Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy

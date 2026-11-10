@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(ii)(vi)"
 lat: 52.249722222
 lon: 21.012222222
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 华沙历史中心 / Historic Centre of Warsaw

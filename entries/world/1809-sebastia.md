@@ -14,7 +14,7 @@ year: "2026"
 criteria: "(iii)"
 lat: 32.266666666
 lon: 35.183333333
-updated_at: "2026-11-09T12:50:26Z"
+updated_at: "2026-11-10T14:48:05Z"
 ---
 
 # 塞巴斯蒂亚 / Sebastia

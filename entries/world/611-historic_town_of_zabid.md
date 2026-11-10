@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)(vi)"
 lat: 14.2
 lon: 43.316666666
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:54Z"
 ---
 
 # 乍比得历史古城 / Historic Town of Zabid

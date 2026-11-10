@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)"
 lat: 41.116477777
 lon: 1.255230555
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:57Z"
 ---
 
 # 塔拉科考古遗址 / Archaeological Ensemble of Tarraco

@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iv)(vi)"
 lat: 7.293055555
 lon: 80.635
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:53Z"
 ---
 
 # 康提圣城 / Sacred City of Kandy

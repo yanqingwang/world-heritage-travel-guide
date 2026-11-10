@@ -14,7 +14,7 @@ year: "2008"
 criteria: "(ii)(iv)"
 lat: 46.4089
 lon: 10.0197
-updated_at: "2026-11-09T12:50:23Z"
+updated_at: "2026-11-10T14:48:01Z"
 ---
 
 # 雷蒂亚铁路阿尔布拉和贝尔尼纳段景观 / Rhaetian Railway in the Albula / Bernina Landscapes

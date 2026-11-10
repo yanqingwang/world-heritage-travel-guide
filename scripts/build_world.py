@@ -24,6 +24,68 @@ from transport import distance_from_beijing, nearest
 
 CATEGORY_ZH = {"Cultural": "文化遗产", "Natural": "自然遗产", "Mixed": "混合遗产"}
 CATEGORY_EN = {"Cultural": "Cultural", "Natural": "Natural", "Mixed": "Mixed"}
+
+# Visit-kind annotation.  The UNESCO World Heritage List only contains physical
+# sites (intangible heritage lives on ich.unesco.org and never enters this
+# dataset), but some entries are not a single visitable destination:
+#   route  — linear/serial heritage spread over hundreds of km (pilgrim routes,
+#            canals, railways, roads networks); the "nearest airport" is only a
+#            reference point, visiting means travelling the corridor itself.
+#   remote — nearest scheduled airport > REMOTE_KM away (uninhabited islands,
+#            ocean reserves); an airport list would be misleading, so the site
+#            shows a "no practical air access" note instead.
+# Everything else is kind "place" and renders as before.
+REMOTE_KM = 200
+ROUTE_SITES = {
+    "wh-430",   # Frontiers of the Roman Empire (serial, several countries)
+    "wh-669",   # Routes of Santiago de Compostela: Camino Francés ...
+    "wh-770",   # Canal du Midi
+    "wh-785",   # Semmering Railway
+    "wh-856",   # Four Lifts on the Canal du Centre
+    "wh-868",   # Routes of Santiago de Compostela in France
+    "wh-944",   # Mountain Railways of India
+    "wh-1107",  # Incense Route - Desert Cities in the Negev
+    "wh-1142",  # Sacred Sites and Pilgrimage Routes in the Kii Mountain Range
+    "wh-1221",  # Rideau Canal
+    "wh-1276",  # Rhaetian Railway in the Albula / Bernina Landscapes
+    "wh-1303",  # Pontcysyllte Aqueduct and Canal
+    "wh-1442",  # Silk Roads: Chang'an-Tianshan Corridor
+    "wh-1459",  # Qhapaq Ñan, Andean Road System
+    "wh-1582",  # Colonial Transisthmian Route of Panamá
+    "wh-1585",  # Trans-Iranian Railway
+    "wh-1608",  # Frontiers of the Roman Empire – Danube Limes
+    "wh-1631",  # Frontiers of the Roman Empire – Lower German Limes
+    "wh-1675",  # Silk Roads: Zarafshan-Karakum Corridor
+    "wh-1696",  # Cultural Landscape of Khinalig People and Transhumance Route
+    "wh-1704",  # Wixárika Route through Sacred Sites to Wirikuta
+    "wh-1718",  # Frontiers of the Roman Empire – Dacia
+}
+VISIT_NOTES = {
+    "route": {
+        "zh": "线性/系列遗产：遗产点沿线路绵延数百公里，最近机场仅为参考入口；"
+              "实际游览需沿线分段进行（徒步、自驾或铁路）。",
+        "en": "Linear/serial heritage stretched along a corridor: the nearest "
+              "airport is only a reference gateway — visiting means travelling "
+              "the route itself in segments (on foot, by car or by rail).",
+    },
+    "remote": {
+        "zh": "偏远遗产地：周边没有常规商业航班可参考（最近机场距离过远），"
+              "通常仅可通过科考/特许船只或远洋航线抵达，不适合常规旅行规划。",
+        "en": "Remote heritage site: no practical scheduled air access nearby "
+              "(the closest airport is too far to be a gateway). Usually reached "
+              "only by expedition/permit vessels — not suitable for ordinary "
+              "trip planning.",
+    },
+}
+
+
+def visit_kind(sid: str, nearest_km: float | None) -> str:
+    if nearest_km is not None and nearest_km > REMOTE_KM:
+        return "remote"
+    if sid in ROUTE_SITES:
+        return "route"
+    return "place"
+
 LANG_NAME_EN = {
     "fr": "French", "es": "Spanish", "de": "German", "it": "Italian",
     "pt": "Portuguese", "ru": "Russian", "ar": "Arabic", "ja": "Japanese",
@@ -405,6 +467,8 @@ def main() -> int:
             "intro_local_source": local_source,
             "images": images,
             "unesco_url": site.get("http_url", ""),
+            "visit_kind": visit_kind(f"wh-{sid}", airports[0]["distance_km"] if airports else None),
+            "visit_note": VISIT_NOTES.get(visit_kind(f"wh-{sid}", airports[0]["distance_km"] if airports else None)) or None,
             "transport": {
                 "airports": airports,
                 "nearest_airport_km": airports[0]["distance_km"] if airports else None,

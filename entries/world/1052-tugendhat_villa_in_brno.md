@@ -14,7 +14,7 @@ year: "2001"
 criteria: "(ii)(iv)"
 lat: 49.207222222
 lon: 16.615833333
-updated_at: "2026-11-09T12:50:22Z"
+updated_at: "2026-11-10T14:47:59Z"
 ---
 
 # 布尔诺的图根哈特别墅 / Tugendhat Villa in Brno

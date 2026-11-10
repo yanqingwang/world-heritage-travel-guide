@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(iii)(vi)(viii)(ix)(x)"
 lat: 25.5
 lon: -170.5
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:01Z"
 ---
 
 # 帕帕哈瑙莫夸基亚国家海洋保护区 / Papahānaumokuākea

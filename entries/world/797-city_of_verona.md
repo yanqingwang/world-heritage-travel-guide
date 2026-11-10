@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iv)"
 lat: 45.438611111
 lon: 10.992777777
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:56Z"
 ---
 
 # 维罗纳城 / City of Verona

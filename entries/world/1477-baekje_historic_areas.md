@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(ii)(iii)"
 lat: 36.461944444
 lon: 127.127222222
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:03Z"
 ---
 
 # 百济遗址区 / Baekje Historic Areas

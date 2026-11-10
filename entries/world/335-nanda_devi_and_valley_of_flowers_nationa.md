@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(vii)(x)"
 lat: 30.71667
 lon: 79.66667
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:52Z"
 ---
 
 # 楠达戴维山国家公园和花谷国家公园 / Nanda Devi and Valley of Flowers National Parks

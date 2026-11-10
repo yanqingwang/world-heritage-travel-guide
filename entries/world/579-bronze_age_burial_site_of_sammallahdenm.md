@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(iv)"
 lat: 61.11767375
 lon: 21.7751687
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:54Z"
 ---
 
 # 塞姆奥拉德恩青铜时代墓地遗址 / Bronze Age Burial Site of Sammallahdenmäki

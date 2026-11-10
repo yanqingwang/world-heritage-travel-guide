@@ -14,7 +14,7 @@ year: "2018"
 criteria: "(ii)(iv)"
 lat: 18.929806
 lon: 72.830083
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:03Z"
 ---
 
 # 孟买维多利亚的哥特式和艺术装饰合奏 / Victorian Gothic and Art Deco Ensembles of Mumbai

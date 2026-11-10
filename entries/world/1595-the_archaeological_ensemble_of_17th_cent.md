@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iv)(vi)"
 lat: 17.9375
 lon: -76.841388888
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 皇家港17世纪考古景观 / The Archaeological Ensemble of 17th Century Port Royal

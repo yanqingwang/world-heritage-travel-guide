@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(iii)(v)"
 lat: 47.058055555
 lon: 4.864444444
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:02Z"
 ---
 
 # 勃艮第风土和气候 / The Climats, terroirs of Burgundy

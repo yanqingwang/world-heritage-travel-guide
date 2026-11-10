@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(ii)(iv)(v)"
 lat: 36.443058
 lon: 28.226937
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:53Z"
 ---
 
 # 罗得中世纪古城 / Medieval City of Rhodes

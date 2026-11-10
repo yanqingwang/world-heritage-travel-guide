@@ -14,7 +14,7 @@ year: "2005"
 criteria: "(vii)(ix)(x)"
 lat: 27.753056
 lon: -111.672778
-updated_at: "2026-11-09T12:50:23Z"
+updated_at: "2026-11-10T14:48:00Z"
 ---
 
 # 加利福尼亚湾群岛及保护区 / Islands and Protected Areas of the Gulf of California

@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)"
 lat: 34.5622
 lon: 135.6094
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 百舌鸟和古市古坟群：古日本墓葬群 / Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan

@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iv)(v)"
 lat: 50.0567
 lon: 15.4843
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 拉贝河畔克拉德鲁比的仪式马车用马繁育与训练景观 / Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem

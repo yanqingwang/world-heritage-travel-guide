@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(ii)(iv)"
 lat: 5.826
 lon: -55.15387
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:58Z"
 ---
 
 # 帕拉马里博的古内城 / Historic Inner City of Paramaribo

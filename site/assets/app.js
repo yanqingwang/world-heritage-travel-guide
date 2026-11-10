@@ -673,6 +673,8 @@
       if (site.tier === "full") chips.push(`<span class="chip clay">TOP ${esc(site.popularity_rank || "")}</span>`);
       if (site.danger) chips.push(`<span class="chip clay">${t().labels.danger}</span>`);
       if (site.transnational) chips.push(`<span class="chip">${t().labels.transnational}</span>`);
+      if (site.visit_kind === "route") chips.push(`<span class="chip clay">${state.lang === "zh" ? "线性遗产" : "Linear heritage"}</span>`);
+      if (site.visit_kind === "remote") chips.push(`<span class="chip clay">${state.lang === "zh" ? "偏远，无常规交通" : "Remote, no practical access"}</span>`);
     }
     body.push(`<div class="chips">${chips.join("")}</div>`);
     body.push(markRowHTML(site));
@@ -698,8 +700,12 @@
     const hs = tr.high_speed_stations || [];
     const rails = tr.railway_stations || [];
     const ferries = tr.ferry_terminals || [];
+    const vk = site.visit_kind || "place";
+    const vn = site.visit_note || {};
     const transportBlocks = [];
-    if (airports.length) transportBlocks.push(`<div class="panel"><h4>${t().labels.airport}</h4>${listHTML(airports, (a) => {
+    // Remote sites: the listed airports are thousands of km away and are not a
+    // realistic gateway — hide the list and explain instead.
+    if (vk !== "remote" && airports.length) transportBlocks.push(`<div class="panel"><h4>${t().labels.airport}</h4>${listHTML(airports, (a) => {
       const zh = state.lang === "zh" ? a.name_zh : "";
       const primary = zh || a.name;
       const secondary = zh ? a.name : "";
@@ -716,11 +722,17 @@
     }
     if (site.dataset === "china_5a" || site.dataset === "unesco") {
       const extras = [];
-      if (site.dataset !== "china_5a" && tr.distance_beijing_km != null) {
+      if (site.dataset !== "china_5a" && tr.distance_beijing_km != null && vk !== "remote") {
         extras.push(`<p class="note">${t().labels.fromBeijing}: ${fmtKm(tr.distance_beijing_km)}</p>`);
       }
-      if (site.dataset === "unesco" && tr.nearest_airport_km > 400) {
+      if (site.dataset === "unesco" && vk !== "remote" && tr.nearest_airport_km > 400) {
         extras.push(`<p class="note">${state.lang === "zh" ? "该遗产地偏远，所列机场为最近的可定期通航机场，仅作门户参考。" : "The property is remote; the listed airport is the nearest scheduled gateway and is shown for reference only."}</p>`);
+      }
+      if (site.dataset === "unesco" && vk === "remote") {
+        extras.push(`<p class="note">✈ ${esc(state.lang === "zh" ? (vn.zh || "") : (vn.en || ""))}</p>`);
+      }
+      if (site.dataset === "unesco" && vk === "route") {
+        extras.push(`<p class="note">🛤 ${esc(state.lang === "zh" ? (vn.zh || "") : (vn.en || ""))}</p>`);
       }
       if (site.dataset !== "china_5a" && site.tier !== "full") {
         extras.push(`<p class="note">${state.lang === "zh" ? "基本资料条目仅提供机场信息；码头/火车站/酒店仅完整资料收录。" : "Basic records include airports only; ferry terminals, railway stations and hotels are in full records."}</p>`);

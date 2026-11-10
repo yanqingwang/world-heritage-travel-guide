@@ -14,7 +14,7 @@ year: "2025"
 criteria: "(iii)"
 lat: 40.085
 lon: 8.951
-updated_at: "2026-11-09T12:50:26Z"
+updated_at: "2026-11-10T14:48:05Z"
 ---
 
 # 撒丁岛史前时期的丧葬传统——仙女之家 / Funerary Tradition in the Prehistory of Sardinia – The domus de janas

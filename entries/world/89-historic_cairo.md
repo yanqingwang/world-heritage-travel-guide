@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(v)(vi)"
 lat: 30.046
 lon: 31.2627
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 开罗古城 / Historic Cairo

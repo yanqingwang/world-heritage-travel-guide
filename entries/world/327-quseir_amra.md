@@ -14,7 +14,7 @@ year: "1985"
 criteria: "(i)(iii)(iv)"
 lat: 31.80175
 lon: 36.587305555
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:52Z"
 ---
 
 # 库塞尔阿姆拉 / Quseir Amra

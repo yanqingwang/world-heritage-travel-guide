@@ -14,7 +14,7 @@ year: "1981"
 criteria: "(ii)(vi)"
 lat: 48.402222222
 lon: 2.700555555
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:50Z"
 ---
 
 # 枫丹白露宫 / Palace and Park of Fontainebleau

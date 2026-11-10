@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ix)(x)"
 lat: 52.75
 lon: 23.95
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 比亚沃维耶扎原始森林 / Białowieża Forest

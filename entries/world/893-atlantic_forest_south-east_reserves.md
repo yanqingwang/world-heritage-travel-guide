@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(vii)(ix)(x)"
 lat: -24.166666666
 lon: -48.0
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:57Z"
 ---
 
 # 大西洋东南热带雨林保护区 / Atlantic Forest South-East Reserves

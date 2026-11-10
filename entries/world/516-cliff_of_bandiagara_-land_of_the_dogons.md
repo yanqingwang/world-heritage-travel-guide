@@ -14,7 +14,7 @@ year: "1989"
 criteria: "(v)(vii)"
 lat: 14.416666666
 lon: -3.316666666
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:53Z"
 ---
 
 # 邦贾加拉悬崖(多贡斯土地) / Cliff of Bandiagara (Land of the Dogons)

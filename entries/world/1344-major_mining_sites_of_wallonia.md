@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(ii)(iv)"
 lat: 50.43527778
 lon: 3.838333333
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:01Z"
 ---
 
 # 瓦隆主要矿业遗址 / Major Mining Sites of Wallonia

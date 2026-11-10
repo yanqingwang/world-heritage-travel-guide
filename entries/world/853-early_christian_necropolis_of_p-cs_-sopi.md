@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iii)(iv)"
 lat: 46.074444444
 lon: 18.227777777
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:57Z"
 ---
 
 # 佩奇的早期基督教陵墓 / Early Christian Necropolis of Pécs (Sopianae)

@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(ii)(iv)(vi)"
 lat: 19.7
 lon: -101.1833333
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:54Z"
 ---
 
 # 莫雷利亚城历史中心 / Historic Centre of Morelia

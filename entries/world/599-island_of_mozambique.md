@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iv)(vi)"
 lat: -15.036666666
 lon: 40.732777777
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:54Z"
 ---
 
 # 莫桑比克岛 / Island of Mozambique

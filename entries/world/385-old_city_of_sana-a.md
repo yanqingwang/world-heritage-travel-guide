@@ -14,7 +14,7 @@ year: "1986"
 criteria: "(iv)(v)(vi)"
 lat: 15.3551
 lon: 44.2145
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:52Z"
 ---
 
 # 萨那古城 / Old City of Sana'a

@@ -14,7 +14,7 @@ year: "2016"
 criteria: "(iii)(vii)(ix)"
 lat: 17.0
 lon: 23.0
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:03Z"
 ---
 
 # Ennedi 高地：自然和文化景观 / Ennedi Massif: Natural and Cultural Landscape

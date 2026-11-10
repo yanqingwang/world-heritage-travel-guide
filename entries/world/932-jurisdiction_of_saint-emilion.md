@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(iv)"
 lat: 44.894722222
 lon: 0.155277777
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:58Z"
 ---
 
 # 圣艾米伦区 / Jurisdiction of Saint-Emilion

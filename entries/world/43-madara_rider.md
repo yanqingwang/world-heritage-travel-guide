@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)"
 lat: 43.2773746
 lon: 27.1188945
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 马达腊骑士崖雕 / Madara Rider

@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(vi)"
 lat: 14.666944444
 lon: -17.398333333
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 戈雷岛 / Island of Gorée

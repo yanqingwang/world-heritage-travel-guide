@@ -14,7 +14,7 @@ year: "2006"
 criteria: "(i)(iii)"
 lat: 13.695492709
 lon: -15.535351238
-updated_at: "2026-11-09T12:50:23Z"
+updated_at: "2026-11-10T14:48:00Z"
 ---
 
 # 塞内冈比亚石圈 / Stone Circles of Senegambia

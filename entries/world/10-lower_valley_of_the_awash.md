@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(ii)(iii)(iv)"
 lat: 11.1
 lon: 40.5794
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:48Z"
 ---
 
 # 阿瓦什低谷 / Lower Valley of the Awash

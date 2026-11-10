@@ -14,7 +14,7 @@ year: "1992"
 criteria: "(i)(iv)"
 lat: 47.08222
 lon: 2.39917
-updated_at: "2026-11-09T12:50:20Z"
+updated_at: "2026-11-10T14:47:55Z"
 ---
 
 # 布尔日大教堂 / Bourges Cathedral

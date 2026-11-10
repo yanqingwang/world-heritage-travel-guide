@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(iii)(iv)(vi)"
 lat: 37.309188888
 lon: 26.548052777
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:58Z"
 ---
 
 # 帕特莫斯岛的天启洞穴和圣约翰修道院 / The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos

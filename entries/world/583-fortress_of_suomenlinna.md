@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(iv)"
 lat: 60.143611111
 lon: 24.984444444
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:54Z"
 ---
 
 # 苏奥曼斯纳城堡 / Fortress of Suomenlinna

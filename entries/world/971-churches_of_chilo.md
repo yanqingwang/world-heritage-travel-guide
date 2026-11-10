@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(ii)(iii)"
 lat: -42.5
 lon: -73.766666666
-updated_at: "2026-11-09T12:50:22Z"
+updated_at: "2026-11-10T14:47:58Z"
 ---
 
 # 奇洛埃教堂 / Churches of Chiloé

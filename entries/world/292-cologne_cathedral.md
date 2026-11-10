@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iv)"
 lat: 50.94138888888889
 lon: 6.958333333333333
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:51Z"
 ---
 
 # 科隆大教堂 / Cologne Cathedral

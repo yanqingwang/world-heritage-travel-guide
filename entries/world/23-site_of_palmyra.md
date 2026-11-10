@@ -14,7 +14,7 @@ year: "1980"
 criteria: "(i)(ii)(iv)"
 lat: 34.56
 lon: 38.267222
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 帕尔米拉古城遗址 / Site of Palmyra

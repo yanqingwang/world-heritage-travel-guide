@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(ii)(iii)(iv)"
 lat: 35.679722222
 lon: 51.420277777
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:02Z"
 ---
 
 # 古列斯坦宮 / Golestan Palace

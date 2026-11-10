@@ -14,7 +14,7 @@ year: "2015"
 criteria: "(i)(iii)"
 lat: 28.0
 lon: 40.9
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:03Z"
 ---
 
 # 沙特阿拉伯哈伊勒地区岩画 / Rock Art in the Hail Region of Saudi Arabia

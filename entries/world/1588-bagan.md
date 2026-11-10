@@ -14,7 +14,7 @@ year: "2019"
 criteria: "(iii)(iv)(vi)"
 lat: 21.1725
 lon: 94.86
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 蒲甘 / Bagan

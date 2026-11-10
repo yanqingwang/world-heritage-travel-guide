@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(iii)(iv)(ix)(x)"
 lat: 17.21666667
 lon: -89.61666667
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 蒂卡尔国家公园 / Tikal National Park

@@ -14,7 +14,7 @@ year: "2012"
 criteria: "(v)(vi)"
 lat: -22.963
 lon: -43.245
-updated_at: "2026-11-09T12:50:22Z"
+updated_at: "2026-11-10T14:47:59Z"
 ---
 
 # 里约热内卢：山与海之间的卡里奥克景观 / Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea

@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(iii)(iv)(v)"
 lat: 25.9833949
 lon: 51.0272187
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:02Z"
 ---
 
 # 祖巴拉 / Al Zubarah Archaeological Site

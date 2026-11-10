@@ -14,7 +14,7 @@ year: "1999"
 criteria: "(ii)(iv)"
 lat: 19.84722222
 lon: -90.54166667
-updated_at: "2026-11-09T12:50:21Z"
+updated_at: "2026-11-10T14:47:57Z"
 ---
 
 # 坎佩切历史要塞城 / Historic Fortified Town of Campeche

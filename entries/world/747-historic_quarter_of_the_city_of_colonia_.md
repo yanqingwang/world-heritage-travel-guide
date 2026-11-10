@@ -14,7 +14,7 @@ year: "1995"
 criteria: "(iv)"
 lat: -34.471543
 lon: -57.851234
-updated_at: "2026-11-09T12:50:20Z"
+updated_at: "2026-11-10T14:47:56Z"
 ---
 
 # 萨拉门多移民镇的历史区 / Historic Quarter of the City of Colonia del Sacramento

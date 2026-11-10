@@ -14,7 +14,7 @@ year: "2017"
 criteria: "(v)(vi)"
 lat: -25.687611111
 lon: 20.374583055
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:03Z"
 ---
 
 # 蔻瑪尼文化景觀 / ǂKhomani Cultural Landscape

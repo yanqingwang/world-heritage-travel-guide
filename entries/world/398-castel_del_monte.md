@@ -14,7 +14,7 @@ year: "1996"
 criteria: "(i)(ii)(iii)"
 lat: 41.0847535
 lon: 16.2709346
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:52Z"
 ---
 
 # 蒙特堡 / Castel del Monte

@@ -14,7 +14,7 @@ year: "2002"
 criteria: "(i)(ii)(iii)(iv)(vi)"
 lat: 24.696004
 lon: 84.991358
-updated_at: "2026-11-09T12:50:22Z"
+updated_at: "2026-11-10T14:47:59Z"
 ---
 
 # 菩提伽耶的摩诃菩提寺 / Mahabodhi Temple Complex at Bodh Gaya

@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iii)(v)"
 lat: 5.1167
 lon: 38.6667
-updated_at: "2026-11-09T12:50:26Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 盖德奥文化景观 / The Gedeo Cultural Landscape

@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(ii)(iii)(iv)"
 lat: 43.508333333
 lon: 16.438888888
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 斯普利特古建筑群及戴克里先宫殿 / Historical Complex of Split with the Palace of Diocletian

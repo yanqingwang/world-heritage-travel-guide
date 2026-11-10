@@ -14,7 +14,7 @@ year: "1991"
 criteria: "(i)(iv)"
 lat: -7.752
 lon: 110.49122
-updated_at: "2026-11-09T12:50:20Z"
+updated_at: "2026-11-10T14:47:55Z"
 ---
 
 # 普兰巴南寺庙群 / Prambanan Temple Compounds

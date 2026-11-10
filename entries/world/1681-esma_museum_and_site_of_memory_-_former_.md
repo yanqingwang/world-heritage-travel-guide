@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(vi)"
 lat: -34.53841667
 lon: -58.46361111
-updated_at: "2026-11-09T12:50:26Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 海军机械学院博物馆和纪念地-曾经的秘密拘留、折磨与处决地 / ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination

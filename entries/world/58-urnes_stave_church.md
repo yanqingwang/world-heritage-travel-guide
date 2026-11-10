@@ -14,7 +14,7 @@ year: "1979"
 criteria: "(i)(ii)(iii)"
 lat: 61.298055555
 lon: 7.3225
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 奥尔内斯木构教堂 / Urnes Stave Church

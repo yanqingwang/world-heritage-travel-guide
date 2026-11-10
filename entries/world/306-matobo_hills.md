@@ -14,7 +14,7 @@ year: "2003"
 criteria: "(iii)(v)(vi)"
 lat: -20.5
 lon: 28.5
-updated_at: "2026-11-09T12:50:18Z"
+updated_at: "2026-11-10T14:47:51Z"
 ---
 
 # 马托博山 / Matobo Hills

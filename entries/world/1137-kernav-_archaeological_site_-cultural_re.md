@@ -14,7 +14,7 @@ year: "2004"
 criteria: "(iii)(iv)"
 lat: 54.880555555
 lon: 24.841666666
-updated_at: "2026-11-09T12:50:23Z"
+updated_at: "2026-11-10T14:48:00Z"
 ---
 
 # 克拿维考古遗址（克拿维文化保护区） / Kernavė Archaeological Site (Cultural Reserve of Kernavė)

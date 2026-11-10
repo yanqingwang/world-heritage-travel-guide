@@ -14,7 +14,7 @@ year: "1982"
 criteria: "(ii)(iii)(iv)"
 lat: 7.956944444
 lon: 80.759722222
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:50Z"
 ---
 
 # 锡吉里亚古城 / Ancient City of Sigiriya

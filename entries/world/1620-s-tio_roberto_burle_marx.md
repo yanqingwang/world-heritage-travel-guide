@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(ii)(iv)"
 lat: -23.02385
 lon: -43.54474
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 罗伯托·布雷·马克思庄园 / Sítio Roberto Burle Marx

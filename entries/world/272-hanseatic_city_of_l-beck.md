@@ -14,7 +14,7 @@ year: "1987"
 criteria: "(iv)"
 lat: 53.86667
 lon: 10.69167
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:51Z"
 ---
 
 # 吕贝克的汉西梯克城 / Hanseatic City of Lübeck

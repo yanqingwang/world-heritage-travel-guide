@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(ii)(iii)(v)"
 lat: 39.441488888
 lon: 69.685558333
-updated_at: "2026-11-09T12:50:26Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 丝绸之路：扎拉夫尚-卡拉库姆廊道 / Silk Roads: Zarafshan-Karakum Corridor

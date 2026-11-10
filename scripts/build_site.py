@@ -197,6 +197,7 @@ def index_record(site: dict) -> dict:
         "transport": transport,
         "popularity_rank": site.get("popularity_rank"),
         "visa_summary": site.get("visa_summary"),
+        "visit_kind": site.get("visit_kind") or "place",
     }
     if site.get("dataset") == "china_5a":
         rec.update({

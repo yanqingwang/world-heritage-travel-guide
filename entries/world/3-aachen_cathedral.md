@@ -14,7 +14,7 @@ year: "1978"
 criteria: "(i)(ii)(iv)(vi)"
 lat: 50.77475
 lon: 6.083922222
-updated_at: "2026-11-09T12:50:16Z"
+updated_at: "2026-11-10T14:47:48Z"
 ---
 
 # 亚琛大教堂 / Aachen Cathedral

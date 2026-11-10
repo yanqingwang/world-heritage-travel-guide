@@ -14,7 +14,7 @@ year: "2013"
 criteria: "(iii)(iv)"
 lat: 51.3167
 lon: 9.4
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:02Z"
 ---
 
 # 威廉高地公园 / Bergpark Wilhelmshöhe

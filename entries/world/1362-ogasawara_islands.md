@@ -14,7 +14,7 @@ year: "2011"
 criteria: "(ix)"
 lat: 27.0
 lon: 142.16667
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:02Z"
 ---
 
 # Ogasawara Islands，日本 / Ogasawara Islands

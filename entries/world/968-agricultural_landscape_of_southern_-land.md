@@ -14,7 +14,7 @@ year: "2000"
 criteria: "(iv)(v)"
 lat: 56.466667
 lon: 16.55
-updated_at: "2026-11-09T12:50:22Z"
+updated_at: "2026-11-10T14:47:58Z"
 ---
 
 # 南厄兰岛的农业风景区 / Agricultural Landscape of Southern Öland

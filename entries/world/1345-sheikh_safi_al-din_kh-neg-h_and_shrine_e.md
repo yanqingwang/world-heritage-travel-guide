@@ -14,7 +14,7 @@ year: "2010"
 criteria: "(i)(ii)(iv)"
 lat: 38.248611111
 lon: 48.291388888
-updated_at: "2026-11-09T12:50:24Z"
+updated_at: "2026-11-10T14:48:01Z"
 ---
 
 # 阿尔达比勒市的谢赫萨菲•丁（Sheikh Safi al-Din）圣殿与哈内加(Khānegāh) 建筑群 / Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil

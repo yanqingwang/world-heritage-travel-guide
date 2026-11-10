@@ -14,7 +14,7 @@ year: "1988"
 criteria: "(iii)(iv)"
 lat: 13.90639
 lon: -4.555
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:49Z"
 ---
 
 # 杰内古城 / Old Towns of Djenné

@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)"
 lat: 38.38194444
 lon: 38.36111111
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 阿斯兰特佩土丘 / Arslantepe Mound

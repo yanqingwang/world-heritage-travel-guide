@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(ii)(iv)"
 lat: 49.891666666667
 lon: 10.891666666667
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:54Z"
 ---
 
 # 班贝格城 / Town of Bamberg

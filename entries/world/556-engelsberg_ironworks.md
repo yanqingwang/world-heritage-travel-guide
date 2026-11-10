@@ -14,7 +14,7 @@ year: "1993"
 criteria: "(iv)"
 lat: 59.969166666
 lon: 16.010277777
-updated_at: "2026-11-09T12:50:19Z"
+updated_at: "2026-11-10T14:47:54Z"
 ---
 
 # 恩格尔斯堡铁矿工场 / Engelsberg Ironworks

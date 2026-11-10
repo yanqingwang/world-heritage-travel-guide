@@ -14,7 +14,7 @@ year: "2023"
 criteria: "(iv)"
 lat: 64.0
 lon: -139.0
-updated_at: "2026-11-09T12:50:25Z"
+updated_at: "2026-11-10T14:48:03Z"
 ---
 
 # 特朗代克-克朗代克 / Tr’ondëk-Klondike

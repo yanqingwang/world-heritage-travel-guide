@@ -14,7 +14,7 @@ year: "1983"
 criteria: "(i)"
 lat: 27.175
 lon: 78.041944444
-updated_at: "2026-11-09T12:50:17Z"
+updated_at: "2026-11-10T14:47:51Z"
 ---
 
 # 泰姬陵 / Taj Mahal

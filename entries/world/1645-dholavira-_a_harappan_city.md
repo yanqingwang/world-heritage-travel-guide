@@ -14,7 +14,7 @@ year: "2021"
 criteria: "(iii)(iv)"
 lat: 23.88611111
 lon: 70.21666667
-updated_at: "2026-11-09T12:50:26Z"
+updated_at: "2026-11-10T14:48:04Z"
 ---
 
 # 多拉维拉：哈拉帕文明古城 / Dholavira: a Harappan City
