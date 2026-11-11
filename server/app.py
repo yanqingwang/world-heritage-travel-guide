@@ -284,8 +284,11 @@ def static_files(path: str):
     return send_from_directory(SITE_DIR, "index.html")
 
 
+# 生产用 gunicorn 导入本模块（不经过 __main__），必须在此初始化数据库
+init_db()
+
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(message)s")
-    init_db()
     app.run(host=os.environ.get("WHG_HOST", "127.0.0.1"),
             port=int(os.environ.get("WHG_PORT", "8123")), debug=False)
