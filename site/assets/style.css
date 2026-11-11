@@ -348,3 +348,63 @@ footer {
 .sync-row input:focus { outline: none; border-color: var(--green); box-shadow: 0 0 0 3px rgba(31, 90, 70, .12); }
 .sync-row input[type="password"] { flex: 2 1 220px; }
 #sync-status, #sync-result { min-height: 1.2em; }
+
+/* ===== 账号面板（本地优先：未登录只存本机） ===== */
+body.acc-open { overflow: hidden; }
+.account-panel {
+  position: fixed; inset: 0; z-index: 90;
+  background: rgba(18, 24, 22, .45);
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px;
+}
+.account-panel[hidden] { display: none; }
+.acc-sheet {
+  width: 100%; max-width: 420px; background: #fff; border-radius: 16px;
+  padding: 22px 22px 18px; box-shadow: 0 24px 60px rgba(0,0,0,.25);
+  max-height: 88vh; overflow: auto;
+}
+.acc-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.acc-head h1 { margin: 2px 0 0; font-size: 20px; }
+.acc-kicker { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: #3d8f7c; }
+.acc-close { border: 0; background: none; font-size: 24px; line-height: 1; cursor: pointer; color: #888; }
+.acc-sub { margin: 10px 0 14px; font-size: 13px; line-height: 1.55; color: #666; }
+.acc-badge {
+  margin: -4px 0 12px; font-size: 12px; color: #8a6d1f;
+  background: #fff6e0; border: 1px solid #f0e0b8; border-radius: 8px; padding: 6px 10px;
+}
+.acc-tabs { display: flex; gap: 8px; margin-bottom: 12px; }
+.acc-tab {
+  flex: 1; border: 1px solid #dcdcdc; background: #f7f7f7; border-radius: 8px;
+  padding: 8px 0; font-size: 13px; cursor: pointer;
+}
+.acc-tab.on { background: #173f35; color: #fff; border-color: #173f35; }
+.account-panel label {
+  display: block; font-size: 12px; color: #555; margin: 10px 0 4px;
+}
+.account-panel input {
+  width: 100%; box-sizing: border-box; padding: 10px 12px; font-size: 14px;
+  border: 1px solid #d8d8d8; border-radius: 8px; outline: none;
+}
+.account-panel input:focus { border-color: #3d8f7c; }
+.acc-actions { display: flex; gap: 10px; margin-top: 16px; }
+.acc-btn {
+  flex: 1; border: 0; border-radius: 10px; padding: 11px 14px; font-size: 14px;
+  background: #3d8f7c; color: #fff; cursor: pointer;
+}
+.acc-btn.ghost { background: #f0f1f4; color: #444; }
+.acc-btn.small { flex: 0 0 auto; padding: 7px 14px; font-size: 12px; margin-top: 8px; }
+.acc-status { font-size: 14px; color: #173f35; font-weight: 600; }
+.acc-meta { font-size: 12px; color: #888; margin-top: 4px; }
+.acc-tip { font-size: 12px; color: #888; margin-top: 12px; line-height: 1.5; }
+.acc-msg { margin-top: 14px; font-size: 13px; line-height: 1.6; }
+.acc-msg.err { color: #b3261e; }
+.acc-msg.ok { color: #22694f; }
+.acc-code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 16px;
+  letter-spacing: .08em; background: #f4f7f5; border: 1px dashed #9cc3b6;
+  padding: 8px 10px; border-radius: 8px; margin-top: 8px; user-select: all;
+}
+@media (max-width: 520px) {
+  .account-panel { padding: 0; align-items: flex-end; }
+  .acc-sheet { border-radius: 16px 16px 0 0; max-height: 92vh; }
+}

@@ -85,3 +85,68 @@ For the full UNESCO refresh add `FIRECRAWL_API_KEY` to the repository Secrets. W
 访客的个人标记（去过/赞过/不好）以浏览器 localStorage 为主存储；可选地在仓库 `sync/` 目录按设备保存 `marks-<device>.json`（一人一份），通过 GitHub Contents API 读写。访客需自备仅限本仓库 Contents 读写权限的 Fine-grained PAT；令牌只存在访客自己的浏览器里，站点不收集凭据。匿名访客可用「导出/导入 JSON」在设备间手动搬运标记。
 
 Visitor marks (visited/liked/not-for-me) live in localStorage first; optionally one `marks-<device>.json` per person is kept under `sync/` in this repo, read and written through the GitHub Contents API. Visitors supply their own Fine-grained PAT scoped to Contents: Read & Write on this repository only; the token stays in their browser. Anonymous visitors can move marks between devices with the JSON export/import buttons.
+
+
+---
+
+## 账号服务部署 · Account server (Aliyun)
+
+站点默认是纯静态（GitHub Pages）。带账号登录与云同步的版本多一个轻后端
+`server/app.py`（Flask + SQLite，同时托管 `site/` 静态文件），单进程即可运行。
+
+### 本地运行
+
+```bash
+pip install flask
+python server/app.py                 # http://127.0.0.1:8123
+python server/test_app.py            # 28 项接口断言
+node server/test_merge.js            # 前端合并算法 9 项断言
+```
+
+| 环境变量 | 默认 | 说明 |
+|---|---|---|
+| `WHG_DB` | `data/accounts.db` | SQLite 路径（账号 + 会话 + 标记） |
+| `WHG_HOST` / `WHG_PORT` | `127.0.0.1` / `8123` | 监听地址/端口（生产用 `0.0.0.0:8123` 或用 gunicorn） |
+| `WHG_TOKEN_TTL_DAYS` | `30` | 登录会话有效期 |
+
+### 阿里云 ECS / 轻量应用服务器
+
+```bash
+# 1) 上传代码（任选 git clone 或 rsync）
+git clone https://github.com/yanqingwang/world-heritage-travel-guide.git /srv/whg
+cd /srv/whg && python3 -m venv .venv && .venv/bin/pip install flask
+
+# 2) 生产进程（gunicorn 4 worker，SQLite 单文件足够）
+.venv/bin/pip install gunicorn
+.venv/bin/gunicorn -w 4 -b 0.0.0.0:8123 server.app:app
+
+# 3) systemd 常驻（/etc/systemd/system/whg.service）
+[Unit]
+Description=World Heritage Guide (account + site)
+After=network.target
+[Service]
+WorkingDirectory=/srv/whg
+Environment=WHG_HOST=0.0.0.0 WHG_PORT=8123
+ExecStart=/srv/whg/.venv/bin/gunicorn -w 4 -b 0.0.0.0:8123 server.app:app
+Restart=always
+[Install]
+WantedBy=multi-user.target
+
+# 4) Nginx 反代 + HTTPS（可选，域名需备案）
+server {
+  server_name whg.example.com;
+  location / { proxy_pass http://127.0.0.1:8123; proxy_set_header Host $host; }
+}
+```
+
+### 阿里云函数计算 FC（备选）
+
+Flask 应用可按「Web 函数」方式部署：入口 `server.app:app`，运行时 Python 3.11+，
+环境变量 `WHG_DB=/mnt/accounts.db`（挂载 NAS，SQLite 单写者，建议实例数 1 或换 RDS）。
+静态资源随代码打包即可。
+
+### 数据与备份
+
+- 账号/会话/标记都在 `WHG_DB` 指向的 SQLite 文件，定期 `cp` 备份即可
+- 密码与恢复码均为 werkzeug 哈希；会话 token 30 天过期
+- 单用户标记上限 512KB（约 1 万条）

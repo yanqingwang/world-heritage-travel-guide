@@ -857,11 +857,14 @@
       // Only Chinese records light up a province; overseas ones light the country.
       m.p = site.dataset === "china_5a" ? (site.province_iso || "") : "";
       m.n = localizedName(site);
+      m.t = Date.now();          // 云同步合并用：单条标记的更新时间
       state.marks[id] = m;
     } else {
-      delete state.marks[id];
+      // 留墓碑 {t}：告诉其他浏览器「这条已被取消标记」，合并时按时间判定
+      state.marks[id] = { t: Date.now() };
     }
     saveMarks();
+    if (window.WHGAccount) window.WHGAccount.syncSoon(() => state.marks);
     refreshMarkUI(id);
     updateGlobeButton();
     if (globe.open) { globe.dirty = true; updateGlobeStats(); }
@@ -1452,6 +1455,29 @@
   });
   syncEls.close.addEventListener("click", () => syncEls.dialog.close());
   syncEls.dialog.addEventListener("click", (e) => { if (e.target === syncEls.dialog) syncEls.dialog.close(); });
+
+  // ---------------------------------------------------------------------
+  // Account & server sync (local-first; only talks to the server when signed in)
+  // ---------------------------------------------------------------------
+  if (window.WHGAccount) {
+    const setMarks = (merged) => {
+      state.marks = merged || {};
+      saveMarks();
+      render();
+      updateGlobeButton();
+      if (globe.open) { globe.dirty = true; updateGlobeStats(); }
+    };
+    const acc = window.WHGAccount.mount({
+      getMarks: () => state.marks,
+      setMarks,
+      button: document.querySelector("[data-account-open]"),
+    });
+    window.WHGAccount.on("logout", () => {
+      // 退出登录后仍是本地优先：只刷新界面，不动本地标记
+      render(); updateGlobeButton();
+    });
+    window.WHGAccount.account = acc;
+  }
 
   // Deep link: ?site=<id>&tab=world
   const params = new URLSearchParams(location.search);
