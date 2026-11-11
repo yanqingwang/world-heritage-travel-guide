@@ -109,7 +109,21 @@ node server/test_merge.js            # 前端合并算法 9 项断言
 | `WHG_HOST` / `WHG_PORT` | `127.0.0.1` / `8123` | 监听地址/端口（生产用 `0.0.0.0:8123` 或用 gunicorn） |
 | `WHG_TOKEN_TTL_DAYS` | `30` | 登录会话有效期 |
 
-### 阿里云 ECS / 轻量应用服务器
+### 阿里云 ECS / 轻量应用服务器（推荐：一键脚本）
+
+仓库内 `scripts/deploy_server.sh` 覆盖「拉代码 → venv → 装 flask+gunicorn →
+初始化账号库 → 跑自测 → systemd 常驻 → 健康检查 → 可选 nginx」：
+
+```bash
+# 在服务器上执行（先 clone 或让脚本自动 clone）
+WHG_DOMAIN=whg.example.com bash scripts/deploy_server.sh
+# 不带域名（仅 IP + 端口访问）： bash scripts/deploy_server.sh
+
+# 安全组需放行 8123（或 80/443，如用 nginx）
+# 备份： cp /srv/whg/data/accounts.db ~/whg-backup-$(date +%F).db
+```
+
+手动方式（不使用脚本时）：
 
 ```bash
 # 1) 上传代码（任选 git clone 或 rsync）
